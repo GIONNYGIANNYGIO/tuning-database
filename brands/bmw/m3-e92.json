@@ -1,0 +1,15 @@
+{
+  "brand": "BMW",
+  "model": "M3 (E92)",
+  "production_years": "2007-2013",
+  "engine_ref": "high-performance-v8.json",
+  "styling_tips": [
+    {"part": "GT4 Front Splitter", "desc": "Directly from the racing world for front-end grip."},
+    {"part": "Carbon Fiber Roof", "desc": "Lowers the center of gravity (if not factory equipped)."},
+    {"part": "M359 Wheels (ZCP style)", "desc": "The most clean and timeless look for the E92."}
+  ],
+  "fitment": {
+    "bolt_pattern": "5x120",
+    "hub_bore": "72.56mm"
+  }
+}
