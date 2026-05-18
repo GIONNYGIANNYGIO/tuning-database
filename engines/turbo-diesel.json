@@ -1,0 +1,8 @@
+{
+  "engine_type": "Turbo Diesel",
+  "tuning_tips": [
+    {"stage": "Stage 1", "part": "ECU Remap", "desc": "Massive torque gains and better MPG."},
+    {"stage": "Stage 2", "part": "Intercooler Upgrade", "desc": "Prevents heat soak during hard driving."},
+    {"stage": "Stage 2", "part": "DPF/EGR Optimization", "desc": "For track use only, improves exhaust flow."}
+  ]
+}
