@@ -1,0 +1,15 @@
+{
+  "brand": "Ford",
+  "model": "Mustang GT (S550)",
+  "production_years": "2015-2023",
+  "engine_ref": "high-performance-v8.json",
+  "styling_tips": [
+    {"part": "GT350 Front Fascia", "desc": "More airflow and a meaner look."},
+    {"part": "RTR Upper Grille w/ LED", "desc": "Signature modern Mustang lighting style."},
+    {"part": "Steeda Lowering Springs", "desc": "Eliminates the '4x4' look and improves handling."}
+  ],
+  "fitment": {
+    "bolt_pattern": "5x114.3",
+    "hub_bore": "70.5mm"
+  }
+}
