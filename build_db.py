@@ -3,7 +3,7 @@ import json
 import google.generativeai as genai
 
 # Configura Gemini (la chiave va messa in GitHub Secrets come GEMINI_API_KEY)
-genai.configure(api_key=os.environ["GEMINI_API_KEY"])
+genai.configure(api_key=os.environ["AIzaSyDkrqBQquu4oUUmppLCcYTM5uC91nUtHjI"])
 model = genai.GenerativeModel('gemini-pro')
 
 def get_tuning_data(car_name):
