@@ -5,15 +5,12 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    env:
-      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
     steps:
       - uses: actions/checkout@v3
       - name: Set up Python
         uses: actions/setup-python@v4
-        with: {python-version: '3.10'}
-      - name: Install dependencies
-        run: pip install google-generativeai
+        with:
+          python-version: '3.10'
       - name: Run Builder
         run: python build_db.py
       - name: Commit changes
@@ -21,5 +18,5 @@ jobs:
           git config user.name "Robot"
           git config user.email "bot@github.com"
           git add .
-          git commit -m "Auto-update database with AI" || exit 0
+          git commit -m "Database structural reset" || exit 0
           git push
