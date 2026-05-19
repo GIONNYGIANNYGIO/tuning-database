@@ -1,0 +1,1 @@
+{ "brand": "Mazda", "model": "RX-8", "production_years": "2003-2012", "engine_ref": "naturally-aspirated-petrol.json", "styling_tips": [ {"part": "Mazdaspeed Front Bumper", "desc": "OEM+ aggressive styling."}, {"part": "Rotary Accents", "desc": "Billet aluminum rotor-shaped exterior details."} ], "fitment": { "bolt_pattern": "5x114.3", "hub_bore": "67.1mm" } }
