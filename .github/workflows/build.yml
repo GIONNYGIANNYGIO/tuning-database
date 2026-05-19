@@ -7,11 +7,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: actions/setup-python@v4
+      - name: Set up Python
+        uses: actions/setup-python@v4
         with: {python-version: '3.10'}
-      - run: pip install duckduckgo-search
-      - run: python build_db.py
-      - run: |
+      - name: Install dependencies
+        run: pip install duckduckgo-search
+      - name: Run Builder
+        run: python build_db.py
+      - name: Commit changes
+        run: |
           git config user.name "Robot"
           git config user.email "bot@github.com"
           git add .
