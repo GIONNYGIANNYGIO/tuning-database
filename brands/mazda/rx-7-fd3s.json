@@ -1,29 +1,18 @@
 {
-  "brand": "Mazda",
+  "brand": "MAZDA",
   "model": "RX-7 FD3S",
-  "image_url": "https://image.pollinations.ai/prompt/professional-studio-photography-of-Mazda-RX-7-FD3S",
-  "fitment": {
-    "bolt_pattern": "5x114.3",
-    "hub_bore": "66.1mm"
-  },
-  "styling_tips": [
-    {
-      "part": "Front Lip",
-      "desc": "Aerodynamic enhancement"
-    }
+  "prestazioni": [
+    "Stage 1: Custom ECU Remap, High-Flow Panel Air Filter (+15-20% HP)",
+    "Stage 2: Upgraded Downpipe, Full Decat Exhaust System, Larger Intercooler (+30-35% HP)",
+    "Stage 3: Individual Throttle Bodies (ITBs) or Supercharger Bolt-on Kit, Forged Pistons (+45%+ HP)"
   ],
-  "tuning_stages": [
-    {
-      "stage": "Stage 1",
-      "desc": "ECU Remap + Air Filter"
-    },
-    {
-      "stage": "Stage 2",
-      "desc": "Full Exhaust + Downpipe"
-    },
-    {
-      "stage": "Stage 3",
-      "desc": "Big Turbo Upgrade"
-    }
+  "estetica": [
+    "Aggressive Carbon Fiber Front Splitter & Rear Diffuser",
+    "Adjustable Track-Spec Coilovers (Stance & Handling Optimization)",
+    "Lightweight Forged Performance Wheels with Sticky Compound Tires"
+  ],
+  "officine": [
+    "Apex Motorsport Engineering (Mazda Specialist Hub)",
+    "Pro-Tuning Garage & Dyno Development Centre"
   ]
 }
