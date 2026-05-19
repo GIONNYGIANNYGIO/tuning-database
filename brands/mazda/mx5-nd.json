@@ -1,0 +1,1 @@
+{ "brand": "Mazda", "model": "MX-5 Miata (ND)", "production_years": "2015-Present", "engine_ref": "naturally-aspirated-petrol.json", "styling_tips": [ {"part": "Garage Vary Front Lip", "desc": "Lowers the front fascia profile."}, {"part": "Ducktail Trunk", "desc": "Carbon fiber replacement for a sleek rear end."} ], "fitment": { "bolt_pattern": "4x100", "hub_bore": "54.1mm" } }
