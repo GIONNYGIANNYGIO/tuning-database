@@ -1,0 +1,29 @@
+{
+  "brand": "Mercedes-Benz",
+  "model": "CLK GTR",
+  "image_url": "https://image.pollinations.ai/prompt/professional-studio-photography-of-Mercedes-Benz-CLK-GTR",
+  "fitment": {
+    "bolt_pattern": "5x114.3",
+    "hub_bore": "66.1mm"
+  },
+  "styling_tips": [
+    {
+      "part": "Front Lip",
+      "desc": "Aerodynamic enhancement"
+    }
+  ],
+  "tuning_stages": [
+    {
+      "stage": "Stage 1",
+      "desc": "ECU Remap + Air Filter"
+    },
+    {
+      "stage": "Stage 2",
+      "desc": "Full Exhaust + Downpipe"
+    },
+    {
+      "stage": "Stage 3",
+      "desc": "Big Turbo Upgrade"
+    }
+  ]
+}
