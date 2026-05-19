@@ -1,11 +1,11 @@
 import os, json, time, google.generativeai as genai
 
-# Configurazione API da variabile d'ambiente (GitHub Secrets)
+# Configurazione API
 genai.configure(api_key=os.getenv('GEMINI_API_KEY'))
 model = genai.GenerativeModel('gemini-1.5-flash')
 
 def get_ai_data(car_name):
-    prompt = f"Fornisci dati tecnici reali per il tuning di '{car_name}'. Rispondi SOLO in formato JSON con le chiavi: 'prestazioni', 'estetica', 'officine'. Ogni lista deve contenere 3 elementi realistici. Non aggiungere altro testo."
+    prompt = f"Fornisci dati tuning reali per '{car_name}'. Rispondi SOLO in formato JSON con chiavi: 'prestazioni', 'estetica', 'officine'. Ogni lista deve avere 3 elementi tecnici reali (es. marche, modelli di componenti). Non aggiungere altro testo."
     try:
         response = model.generate_content(prompt)
         content = response.text.replace('```json', '').replace('```', '').strip()
@@ -17,7 +17,7 @@ def get_ai_data(car_name):
 with open('cars_to_scrape.txt', 'r') as f:
     all_cars = [l.strip() for l in f if l.strip()]
 
-# Processo batch limitato a 30 auto ogni 6 ore (per estrema sicurezza API)
+# Processo batch: 30 auto ogni 6 ore
 processed_count = 0
 for car in all_cars:
     if processed_count >= 30: break 
@@ -35,5 +35,19 @@ for car in all_cars:
         os.makedirs(folder, exist_ok=True)
         with open(filepath, 'w') as f:
             json.dump(data, f, indent=2)
+        
+        # Aggiorna anche index.json (fondamentale per il sito)
+        index_file = "index.json"
+        index = {}
+        if os.path.exists(index_file):
+            with open(index_file, 'r') as f:
+                index = json.load(f)
+        
+        if brand not in index: index[brand] = []
+        if slug not in index[brand]: index[brand].append(slug)
+        
+        with open(index_file, 'w') as f:
+            json.dump(index, f, indent=2)
+            
         processed_count += 1
-        time.sleep(5) # Pausa gentile per Gemini
+        time.sleep(5)
