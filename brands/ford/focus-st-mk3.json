@@ -1,0 +1,1 @@
+{ "brand": "Ford", "model": "Focus ST (Mk3)", "production_years": "2011-2018", "engine_ref": "turbo-petrol.json", "styling_tips": [ {"part": "RS Wing", "desc": "OEM upgrade for a much better rear profile."}, {"part": "Velossa Tech Big Mouth", "desc": "Ram air intake snorkel visible through the grille."} ], "fitment": { "bolt_pattern": "5x108", "hub_bore": "63.4mm" } }
