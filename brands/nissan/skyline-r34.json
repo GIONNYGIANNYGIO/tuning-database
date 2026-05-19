@@ -1,9 +1,0 @@
-{
-  "brand": "Nissan",
-  "model": "Skyline GT-R R34",
-  "engine_ref": "turbo-petrol.json",
-  "styling_tips": [
-    {"part": "Z-Tune Hood", "desc": "Vented hood for better cooling."},
-    {"part": "Nismo Body Kit", "desc": "The ultimate aerodynamic look."}
-  ]
-}

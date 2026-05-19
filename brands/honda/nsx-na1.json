@@ -1,1 +1,0 @@
-{ "brand": "Honda", "model": "NSX (NA1)", "production_years": "1990-2005", "engine_ref": "naturally-aspirated-petrol.json", "styling_tips": [ {"part": "NSX-R Carbon Hood", "desc": "Deep vent styling to improve radiator extraction."}, {"part": "Wheels", "desc": "BBS LM (Staggered 17/18 setup)."} ], "fitment": { "bolt_pattern": "5x114.3", "hub_bore": "70.1mm" } }
