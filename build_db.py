@@ -1,45 +1,36 @@
 import os
 import json
-import time
 from duckduckgo_search import DDGS
 
-def get_real_car_image(brand, model):
-    query = f"{brand} {model} car stock photography high resolution"
-    print(f"🔍 Searching real photo for: {brand} {model}...")
-    try:
-        with DDGS() as ddgs:
-            results = list(ddgs.images(query, max_results=2))
-            if results:
-                return results[0]['image']
-    except Exception as e:
-        print(f"⚠️ Error fetching image for {brand} {model}: {e}")
-    
-    # Fallback if image is not found
-    return "https://via.placeholder.com/800x450.png?text=Image+Not+Found"
+def get_car_data(car_name):
+    print(f"🤖 Ricerca dati per: {car_name}")
+    # Qui usiamo la ricerca per simulare un database dinamico
+    # In una versione avanzata chiameremo un'API, per ora creiamo la struttura
+    return {
+        "brand": car_name.split()[0],
+        "model": " ".join(car_name.split()[1:]),
+        "image_url": "https://image.pollinations.ai/prompt/professional-studio-photography-of-" + car_name.replace(" ", "-"),
+        "fitment": {"bolt_pattern": "5x114.3", "hub_bore": "66.1mm"},
+        "styling_tips": [{"part": "Front Lip", "desc": "Aerodynamic enhancement"}],
+        "tuning_stages": [
+            {"stage": "Stage 1", "desc": "ECU Remap + Air Filter"},
+            {"stage": "Stage 2", "desc": "Full Exhaust + Downpipe"},
+            {"stage": "Stage 3", "desc": "Big Turbo Upgrade"}
+        ]
+    }
 
-# 1. Open the master list
-with open('master_list.json', 'r', encoding='utf-8') as f:
-    car_list = json.load(f)
+# Legge il file .txt
+if os.path.exists('cars_to_scrape.txt'):
+    with open('cars_to_scrape.txt', 'r') as f:
+        cars = [line.strip() for line in f if line.strip()]
 
-# 2. Process each car
-for car in car_list:
-    folder = car['folder']
-    filename = car['filename']
-    data = car['data']
-    
-    # Create directory if it doesn't exist
-    os.makedirs(folder, exist_ok=True)
-    
-    file_path = os.path.join(folder, filename)
-    
-    # Get image
-    data['image_url'] = get_real_car_image(data['brand'], data['model'])
-    time.sleep(1) # Small pause to not block the search engine
-    
-    # Write the individual JSON file
-    with open(file_path, 'w', encoding='utf-8') as out_file:
-        json.dump(data, out_file, indent=2, ensure_ascii=False)
+    for car in cars:
+        data = get_car_data(car)
+        folder = f"brands/{data['brand'].lower()}"
+        os.makedirs(folder, exist_ok=True)
         
-    print(f"✅ Created: {file_path}")
-
-print("🚀 ALL DONE! Database built successfully.")
+        file_name = f"{data['model'].lower().replace(' ', '-')}.json"
+        with open(os.path.join(folder, file_name), 'w') as f:
+            json.dump(data, f, indent=2)
+            
+print("✅ Database aggiornato automaticamente!")
