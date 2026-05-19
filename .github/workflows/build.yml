@@ -1,35 +1,19 @@
-name: Build Car Database
-
+name: Auto-Build Database
 on:
   push:
-    paths:
-      - 'master_list.json' # Si attiva SOLO quando modifichi la lista
-  workflow_dispatch: # Permette di avviarlo a mano
-
+    paths: ['cars_to_scrape.txt']
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout Repository
-      uses: actions/checkout@v3
-
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.10'
-
-    - name: Install Dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install duckduckgo-search
-
-    - name: Run Python Builder
-      run: python build_db.py
-
-    - name: Commit and Push Changes
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add brands/
-        git commit -m "🤖 Auto-generated folders and added car images" || echo "No changes to commit"
-        git push
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with: {python-version: '3.10'}
+      - run: pip install duckduckgo-search
+      - run: python build_db.py
+      - run: |
+          git config user.name "Robot"
+          git config user.email "bot@github.com"
+          git add .
+          git commit -m "Auto-update database" || exit 0
+          git push
