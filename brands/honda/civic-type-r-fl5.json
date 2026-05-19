@@ -1,0 +1,21 @@
+{
+  "brand": "Honda",
+  "model": "Civic Type R (FL5)",
+  "production_years": "2023-Present",
+  "engine_ref": "turbo-petrol.json",
+  "styling_tips": [
+    {
+      "part": "Mugen Aero Kit",
+      "desc": "Aggressive side skirts and rear diffuser for a wider stance."
+    },
+    {
+      "part": "Titanium Exhaust",
+      "desc": "Lightweight exhaust system with signature triple-tip design."
+    }
+  ],
+  "fitment": {
+    "bolt_pattern": "5x120",
+    "hub_bore": "64.1mm"
+  },
+  "image_url": "https://via.placeholder.com/800x450.png?text=Image+Not+Found"
+}

@@ -1,0 +1,21 @@
+{
+  "brand": "Nissan",
+  "model": "Skyline GT-R (R34)",
+  "production_years": "1999-2002",
+  "engine_ref": "turbo-petrol.json",
+  "styling_tips": [
+    {
+      "part": "Nismo Z-Tune Front Bumper",
+      "desc": "Wide vented front bumper for improved cooling and aggressive look."
+    },
+    {
+      "part": "Volk Racing TE37 Wheels",
+      "desc": "The gold standard for JDM performance and track aesthetics."
+    }
+  ],
+  "fitment": {
+    "bolt_pattern": "5x114.3",
+    "hub_bore": "66.1mm"
+  },
+  "image_url": "https://via.placeholder.com/800x450.png?text=Image+Not+Found"
+}
