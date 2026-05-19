@@ -1,7 +1,8 @@
-name: Auto-Build Database
 on:
-  push:
-    paths: ['cars_to_scrape.txt']
+  schedule:
+    - cron: "0 * * * *" # Gira automaticamente ogni ora
+  workflow_dispatch:
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -9,14 +10,13 @@ jobs:
       - uses: actions/checkout@v3
       - name: Set up Python
         uses: actions/setup-python@v4
-        with:
-          python-version: '3.10'
-      - name: Run Builder
-        run: python build_db.py
-      - name: Commit changes
+        with: {python-version: '3.9'}
+      - run: pip install google-generativeai
+      - run: python enrich_db.py
+      - name: Commit & Push
         run: |
-          git config user.name "Robot"
-          git config user.email "bot@github.com"
+          git config user.name "Bot-Auto-Tuning"
+          git config user.email "bot@tuning.com"
           git add .
-          git commit -m "Database structural reset" || exit 0
+          git commit -m "Auto-aggiornamento database auto" || echo "Nessuna modifica"
           git push
