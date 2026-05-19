@@ -1,34 +1,22 @@
 import os
 import json
+import google.generativeai as genai
 
-# Lista per memorizzare le auto trovate
-index = {}
+# Configura Gemini (la chiave va messa in GitHub Secrets come GEMINI_API_KEY)
+genai.configure(api_key=os.environ["GEMINI_API_KEY"])
+model = genai.GenerativeModel('gemini-pro')
 
-# Percorso principale
-base_dir = "brands"
+def get_tuning_data(car_name):
+    prompt = f"""
+    Genera un JSON per l'auto {car_name} con queste esatte chiavi:
+    {
+      "estetica": ["Pezzo 1", "Pezzo 2"],
+      "prestazioni": ["Stage 1: ...", "Stage 2: ...", "Stage 3: ..."],
+      "officine": ["Officina A (Città)", "Officina B (Città)"]
+    }
+    Rispondi solo con il codice JSON.
+    """
+    response = model.generate_content(prompt)
+    return json.loads(response.text)
 
-if os.path.exists(base_dir):
-    for brand in os.listdir(base_dir):
-        brand_path = os.path.join(base_dir, brand)
-        if os.path.isdir(brand_path):
-            index[brand] = []
-            for car_file in os.listdir(brand_path):
-                if car_file.endswith(".json"):
-                    index[brand].append(car_file.replace(".json", ""))
-
-    # Crea il file indice
-    with open("index.json", "w") as f:
-        json.dump(index, f)
-# Aggiungi questo alla fine del tuo script Python su GitHub
-import json
-
-def update_map():
-    db_map = {}
-    for brand in os.listdir('brands'):
-        if os.path.isdir(os.path.join('brands', brand)):
-            db_map[brand] = [f.replace('.json', '') for f in os.listdir(os.path.join('brands', brand)) if f.endswith('.json')]
-    
-    with open('database_map.json', 'w') as f:
-        json.dump(db_map, f)
-
-update_map()
+# ... resto dello script che salva il file JSON ...
