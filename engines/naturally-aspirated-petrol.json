@@ -1,8 +1,0 @@
-{
-  "engine_type": "Naturally Aspirated Petrol",
-  "tuning_tips": [
-    {"stage": "Stage 1", "part": "Cold Air Intake", "desc": "Improves throttle response and induction sound."},
-    {"stage": "Stage 1", "part": "Performance Headers", "desc": "Unlocks flow in the mid-high RPM range."},
-    {"stage": "Stage 2", "part": "Camshafts & ECU Tune", "desc": "Shifts power band higher for a racing feel."}
-  ]
-}

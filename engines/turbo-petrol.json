@@ -1,9 +1,0 @@
-{
-  "engine_type": "Turbo Petrol",
-  "tuning_tips": [
-    {"stage": "Stage 1", "part": "ECU Remap", "desc": "Software optimization for +20-30% HP."},
-    {"stage": "Stage 1", "part": "Panel Filter", "desc": "Better airflow, stock look."},
-    {"stage": "Stage 2", "part": "Downpipe", "desc": "Reduces backpressure and heat."},
-    {"stage": "Stage 2", "part": "Intercooler", "desc": "Better cooling for consistent power."}
-  ]
-}
