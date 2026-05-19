@@ -1,0 +1,32 @@
+[
+  {
+    "folder": "brands/nissan",
+    "filename": "gtr-r35.json",
+    "data": {
+      "brand": "Nissan",
+      "model": "GT-R (R35)",
+      "production_years": "2007-Present",
+      "engine_ref": "turbo-petrol.json",
+      "styling_tips": [
+        {"part": "Liberty Walk Widebody", "desc": "The ultimate aggressive stance transformation with bolt-on overfenders."},
+        {"part": "Carbon Fiber Hood", "desc": "Vented hood to improve cooling and reduce front-end weight."}
+      ],
+      "fitment": { "bolt_pattern": "5x114.3", "hub_bore": "66.1mm" }
+    }
+  },
+  {
+    "folder": "brands/bmw",
+    "filename": "m3-e46.json",
+    "data": {
+      "brand": "BMW",
+      "model": "M3 (E46)",
+      "production_years": "2000-2006",
+      "engine_ref": "naturally-aspirated-petrol.json",
+      "styling_tips": [
+        {"part": "CSL Style Trunk", "desc": "Iconic ducktail trunk lid for better aerodynamics and classic look."},
+        {"part": "BBS LM Wheels", "desc": "Classic multi-piece mesh wheels for the perfect Euro fitment."}
+      ],
+      "fitment": { "bolt_pattern": "5x120", "hub_bore": "72.56mm" }
+    }
+  }
+]
