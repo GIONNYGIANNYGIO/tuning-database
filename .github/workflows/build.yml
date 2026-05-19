@@ -1,7 +1,7 @@
 name: Auto-Build Database
 on:
   schedule:
-    - cron: "0 */6 * * *" # Questo comando esegue lo script ogni 6 ore
+    - cron: "0 */6 * * *" # Gira ogni 6 ore
   workflow_dispatch:
 
 jobs:
