@@ -2,33 +2,26 @@ import os
 import json
 from duckduckgo_search import DDGS
 
-# Funzione per cercare immagine
-def get_image(brand, model):
-    try:
-        with DDGS() as ddgs:
-            results = list(ddgs.images(f"{brand} {model} car", max_results=1))
-            return results[0]['image'] if results else ""
-    except:
-        return ""
+def get_full_data(car_name):
+    # Dati simulati "ricchi" (qui in futuro potresti aggiungere una chiamata a un'API)
+    return {
+        "brand": car_name.split()[0],
+        "model": " ".join(car_name.split()[1:]),
+        "image_url": f"https://source.unsplash.com/800x450/?{car_name.replace(' ', '+')}",
+        "fitment": {"bolt": "5x114.3", "hub": "66.1mm"},
+        "tuning": [
+            {"stage": "Stage 1", "desc": "ECU Remap, +30hp, improved throttle response."},
+            {"stage": "Stage 2", "desc": "Full Exhaust, High-flow Intake, +60hp."},
+            {"stage": "Stage 3", "desc": "Big Turbo, Intercooler, Forged Internals, +150hp."}
+        ],
+        "shops": ["Street Tuner Lab", "Performance Garage Italy"]
+    }
 
-# Leggi la lista
 if os.path.exists('cars_to_scrape.txt'):
     with open('cars_to_scrape.txt', 'r') as f:
-        cars = [line.strip() for line in f if line.strip()]
-
-    for car in cars:
-        parts = car.split()
-        brand = parts[0].lower()
-        model = "-".join(parts[1:]).lower()
-        
-        data = {
-            "brand": parts[0],
-            "model": " ".join(parts[1:]),
-            "image_url": get_image(parts[0], " ".join(parts[1:])),
-            "tuning_stages": [{"stage": "Stage 1", "desc": "Remap"}]
-        }
-        
-        folder = f"brands/{brand}"
-        os.makedirs(folder, exist_ok=True)
-        with open(f"{folder}/{model}.json", 'w') as f:
-            json.dump(data, f, indent=2)
+        for car in [line.strip() for line in f if line.strip()]:
+            data = get_full_data(car)
+            folder = f"brands/{data['brand'].lower()}"
+            os.makedirs(folder, exist_ok=True)
+            with open(f"{folder}/{data['model'].lower().replace(' ', '-')}.json", 'w') as f:
+                json.dump(data, f, indent=2)
