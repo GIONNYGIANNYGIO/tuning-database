@@ -1,3 +1,6 @@
+# Global Car Database JSON Structure (GitHub Ready)
+
+```json
 [
   {
     "folder": "brands/nissan",
@@ -8,10 +11,19 @@
       "production_years": "1999-2002",
       "engine_ref": "turbo-petrol.json",
       "styling_tips": [
-        {"part": "Nismo Z-Tune Front Bumper", "desc": "Wide vented front bumper for improved cooling and aggressive look."},
-        {"part": "Volk Racing TE37 Wheels", "desc": "The gold standard for JDM performance and track aesthetics."}
+        {
+          "part": "Nismo Z-Tune Front Bumper",
+          "desc": "Wide vented front bumper for improved cooling and aggressive look."
+        },
+        {
+          "part": "Volk Racing TE37 Wheels",
+          "desc": "The gold standard for JDM performance and track aesthetics."
+        }
       ],
-      "fitment": { "bolt_pattern": "5x114.3", "hub_bore": "66.1mm" }
+      "fitment": {
+        "bolt_pattern": "5x114.3",
+        "hub_bore": "66.1mm"
+      }
     }
   },
   {
@@ -23,25 +35,19 @@
       "production_years": "1993-2002",
       "engine_ref": "turbo-petrol.json",
       "styling_tips": [
-        {"part": "TRD Style Wing", "desc": "High-profile rear wing for increased downforce and iconic silhouette."},
-        {"part": "Ridox Front Lip", "desc": "Subtle yet aggressive front lip that complements the stock lines."}
+        {
+          "part": "TRD Style Wing",
+          "desc": "High-profile rear wing for increased downforce and iconic silhouette."
+        },
+        {
+          "part": "Ridox Front Lip",
+          "desc": "Subtle yet aggressive front lip that complements the stock lines."
+        }
       ],
-      "fitment": { "bolt_pattern": "5x114.3", "hub_bore": "60.1mm" }
-    }
-  },
-  {
-    "folder": "brands/porsche",
-    "filename": "911-gt3-992.json",
-    "data": {
-      "brand": "Porsche",
-      "model": "911 GT3 (992)",
-      "production_years": "2021-Present",
-      "engine_ref": "naturally-aspirated-petrol.json",
-      "styling_tips": [
-        {"part": "Swan Neck Rear Wing", "desc": "Race-inspired rear wing mounting for optimized airflow."},
-        {"part": "Carbon Fiber Roof", "desc": "Weight reduction panel for lower center of gravity."}
-      ],
-      "fitment": { "bolt_pattern": "5x130", "hub_bore": "71.6mm" }
+      "fitment": {
+        "bolt_pattern": "5x114.3",
+        "hub_bore": "60.1mm"
+      }
     }
   },
   {
@@ -53,10 +59,19 @@
       "production_years": "2023-Present",
       "engine_ref": "turbo-petrol.json",
       "styling_tips": [
-        {"part": "Mugen Aero Kit", "desc": "Aggressive side skirts and rear diffuser for a wider stance."},
-        {"part": "Titanium Exhaust", "desc": "Lightweight exhaust system with signature triple-tip design."}
+        {
+          "part": "Mugen Aero Kit",
+          "desc": "Aggressive side skirts and rear diffuser for a wider stance."
+        },
+        {
+          "part": "Titanium Exhaust",
+          "desc": "Lightweight exhaust system with signature triple-tip design."
+        }
       ],
-      "fitment": { "bolt_pattern": "5x120", "hub_bore": "64.1mm" }
+      "fitment": {
+        "bolt_pattern": "5x120",
+        "hub_bore": "64.1mm"
+      }
     }
   },
   {
@@ -68,10 +83,307 @@
       "production_years": "2019",
       "engine_ref": "turbo-petrol.json",
       "styling_tips": [
-        {"part": "Brembo Gold Calipers", "desc": "Iconic high-performance braking system visible behind the wheels."},
-        {"part": "STI Front Lip", "desc": "Genuine Subaru lower lip to clean up underbody airflow."}
+        {
+          "part": "Brembo Gold Calipers",
+          "desc": "Iconic high-performance braking system visible behind the wheels."
+        },
+        {
+          "part": "STI Front Lip",
+          "desc": "Genuine Subaru lower lip to clean up underbody airflow."
+        }
       ],
-      "fitment": { "bolt_pattern": "5x114.3", "hub_bore": "56.1mm" }
+      "fitment": {
+        "bolt_pattern": "5x114.3",
+        "hub_bore": "56.1mm"
+      }
     }
-  }
+  },
+  {
+    "folder": "brands/porsche",
+    "filename": "911-gt3-992.json",
+    "data": {
+      "brand": "Porsche",
+      "model": "911 GT3 (992)",
+      "production_years": "2021-Present",
+      "engine_ref": "naturally-aspirated-petrol.json",
+      "styling_tips": [
+        {
+          "part": "Swan Neck Rear Wing",
+          "desc": "Race-inspired rear wing mounting for optimized airflow."
+        },
+        {
+          "part": "Carbon Fiber Roof",
+          "desc": "Weight reduction panel for lower center of gravity."
+        }
+      ],
+      "fitment": {
+        "bolt_pattern": "5x130",
+        "hub_bore": "71.6mm"
+      }
+    }
+  },
+  {
+    "folder": "brands/bmw",
+    "filename": "m3-g80.json",
+    "data": {
+      "brand": "BMW",
+      "model": "M3 Competition (G80)",
+      "production_years": "2021-Present",
+      "engine_ref": "twin-turbo-petrol.json",
+      "styling_tips": [
+        {
+          "part": "CSL Style Grille",
+          "desc": "Lightweight aggressive grille inspired by BMW CSL models."
+        },
+        {
+          "part": "KW V4 Coilovers",
+          "desc": "Track-capable suspension setup with premium ride quality."
+        }
+      ],
+      "fitment": {
+        "bolt_pattern": "5x112",
+        "hub_bore": "66.6mm"
+      }
+    }
+  },
+  {
+    "folder": "brands/mercedes-benz",
+    "filename": "amg-gt-black-series.json",
+    "data": {
+      "brand": "Mercedes-Benz",
+      "model": "AMG GT Black Series",
+      "production_years": "2021-2023",
+      "engine_ref": "twin-turbo-v8.json",
+      "styling_tips": [
+        {
+          "part": "Active Aero Package",
+          "desc": "Massive aerodynamic package for high-speed stability."
+        },
+        {
+          "part": "Forged AMG Wheels",
+          "desc": "Lightweight forged wheels designed for maximum grip."
+        }
+      ],
+      "fitment": {
+        "bolt_pattern": "5x112",
+        "hub_bore": "66.6mm"
+      }
+    }
+  },
+  {
+    "folder": "brands/audi",
+    "filename": "rs6-c8.json",
+    "data": {
+      "brand": "Audi",
+      "model": "RS6 Avant (C8)",
+      "production_years": "2020-Present",
+      "engine_ref": "twin-turbo-v8.json",
+      "styling_tips": [
+        {
+          "part": "OEM Carbon Optics Package",
+          "desc": "Factory carbon accents for a stealth performance look."
+        },
+        {
+          "part": "Air Suspension Module",
+          "desc": "Adjustable ride height while maintaining comfort."
+        }
+      ],
+      "fitment": {
+        "bolt_pattern": "5x112",
+        "hub_bore": "66.5mm"
+      }
+    }
+  },
+  {
+    "folder": "brands/ford",
+    "filename": "mustang-s550-gt.json",
+    "data": {
+      "brand": "Ford",
+      "model": "Mustang GT (S550)",
+      "production_years": "2015-2023",
+      "engine_ref": "naturally-aspirated-v8.json",
+      "styling_tips": [
+        {
+          "part": "RTR Grille",
+          "desc": "Aggressive LED grille inspired by Formula Drift styling."
+        },
+        {
+          "part": "Borla ATAK Exhaust",
+          "desc": "Deep aggressive exhaust note with improved airflow."
+        }
+      ],
+      "fitment": {
+        "bolt_pattern": "5x114.3",
+        "hub_bore": "70.5mm"
+      }
+    }
+  },
+  {
+    "folder": "brands/chevrolet",
+    "filename": "corvette-c8-z06.json",
+    "data": {
+      "brand": "Chevrolet",
+      "model": "Corvette Z06 (C8)",
+      "production_years": "2023-Present",
+      "engine_ref": "naturally-aspirated-v8.json",
+      "styling_tips": [
+        {
+          "part": "Visible Carbon Aero",
+          "desc": "Track-oriented aerodynamic carbon package."
+        },
+        {
+          "part": "Center Lock Wheels",
+          "desc": "Race-inspired wheel setup for quicker wheel changes."
+        }
+      ],
+      "fitment": {
+        "bolt_pattern": "5x120.65",
+        "hub_bore": "70.3mm"
+      }
+    }
+  },
+  {
+    "folder": "brands/lamborghini",
+    "filename": "huracan-performante.json",
+    "data": {
+      "brand": "Lamborghini",
+      "model": "Huracán Performante",
+      "production_years": "2017-2019",
+      "engine_ref": "naturally-aspirated-v10.json",
+      "styling_tips": [
+        {
+          "part": "Forged Carbon Aero",
+          "desc": "Signature lightweight forged carbon aerodynamic pieces."
+        },
+        {
+          "part": "Titanium Exhaust",
+          "desc": "High-pitched naturally aspirated V10 sound enhancement."
+        }
+      ],
+      "fitment": {
+        "bolt_pattern": "5x112",
+        "hub_bore": "57.1mm"
+      }
+    }
+  },
+  {
+    "folder": "brands/ferrari",
+    "filename": "458-speciale.json",
+    "data": {
+      "brand": "Ferrari",
+      "model": "458 Speciale",
+      "production_years": "2013-2015",
+      "engine_ref": "naturally-aspirated-v8.json",
+      "styling_tips": [
+        {
+          "part": "Factory Stripe Package",
+          "desc": "Iconic racing stripe option enhancing Ferrari heritage styling."
+        },
+        {
+          "part": "Carbon Racing Seats",
+          "desc": "Ultra-lightweight bucket seats for track-focused driving."
+        }
+      ],
+      "fitment": {
+        "bolt_pattern": "5x114.3",
+        "hub_bore": "67.1mm"
+      }
+    }
+  },
+  {
+    "folder": "brands/mazda",
+    "filename": "rx7-fd.json",
+    "data": {
+      "brand": "Mazda",
+      "model": "RX-7 (FD3S)",
+      "production_years": "1992-2002",
+      "engine_ref": "rotary-turbo.json",
+      "styling_tips": [
+        {
+          "part": "RE Amemiya Widebody",
+          "desc": "Legendary rotary-focused aero styling package."
+        },
+        {
+          "part": "Work Meister Wheels",
+          "desc": "Classic deep-dish JDM wheel setup."
+        }
+      ],
+      "fitment": {
+        "bolt_pattern": "5x114.3",
+        "hub_bore": "67.1mm"
+      }
+    }
+  },
+  {
+    "folder": "brands/mitsubishi",
+    "filename": "lancer-evolution-ix.json",
+    "data": {
+      "brand": "Mitsubishi",
+      "model": "Lancer Evolution IX",
+      "production_years": "2005-2007",
+      "engine_ref": "turbo-petrol.json",
+      "styling_tips": [
+        {
+          "part": "Varis Widebody Kit",
+          "desc": "Track-inspired aerodynamic widebody conversion."
+        },
+        {
+          "part": "Voltex GT Wing",
+          "desc": "High downforce rear wing popular in time attack builds."
+        }
+      ],
+      "fitment": {
+        "bolt_pattern": "5x114.3",
+        "hub_bore": "67.1mm"
+      }
+    }
+  },
+  {
+    "folder": "brands/volkswagen",
+    "filename": "golf-r-mk8.json",
+    "data": {
+      "brand": "Volkswagen",
+      "model": "Golf R (MK8)",
+      "production_years": "2022-Present",
+      "engine_ref": "turbo-petrol.json",
+      "styling_tips": [
+        {
+          "part": "Maxton Design Kit",
+          "desc": "OEM+ aerodynamic package with sporty styling."
+        },
+        {
+          "part": "Akrapovic Exhaust",
+          "desc": "Titanium exhaust upgrade with aggressive tone."
+        }
+      ],
+      "fitment": {
+        "bolt_pattern": "5x112",
+        "hub_bore": "57.1mm"
+      }
+    }
+  },
+  {
+    "folder": "brands/alfa-romeo",
+    "filename": "giulia-quadrifoglio.json",
+    "data": {
+      "brand": "Alfa Romeo",
+      "model": "Giulia Quadrifoglio",
+      "production_years": "2016-Present",
+      "engine_ref": "twin-turbo-v6.json",
+      "styling_tips": [
+        {
+          "part": "Carbon Front Splitter",
+          "desc": "Active splitter design for increased front-end stability."
+        },
+        {
+          "part": "Center-Lock Style Wheels",
+          "desc": "Motorsport-inspired lightweight wheel setup."
+        }
+      ],
+      "fitment": {
+        "bolt_pattern": "5x110",
+        "hub_bore": "65.1mm"
+      }
+    }
+  },
 ]
