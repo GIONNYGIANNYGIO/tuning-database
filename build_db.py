@@ -1,25 +1,41 @@
 import os
 import json
 import collections
+import re
 
-# 1. Legge la lista delle auto
+# Crea un file finto se non esiste
 if not os.path.exists('cars_to_scrape.txt'):
     with open('cars_to_scrape.txt', 'w') as f:
         f.write("mazda rx-7\ntoyota supra\n")
 
+# Legge la tua lista
 with open('cars_to_scrape.txt', 'r') as f:
     cars = [line.strip() for line in f if line.strip()]
 
 index = collections.defaultdict(list)
 
-# 2. Genera i dati in inglese per ogni mezzo istantaneamente
+# LA PIALLA: distrugge qualsiasi carattere speciale (come la barra / della Dodge)
+def clean_filename(text):
+    return re.sub(r'[^a-z0-9]+', '-', text.lower()).strip('-')
+
 for car in cars:
+    # Rimuove i vari incollati per sbaglio
+    car = re.sub(r'\\s*', '', car).strip()
+    if not car:
+        continue
+
     parts = car.split()
-    brand = parts[0].lower()
-    model_name = " ".join(parts[1:])
-    model_slug = "-".join(parts[1:]).lower()
+    if len(parts) < 2:
+        continue
+        
+    brand_raw = parts[0]
+    model_raw = " ".join(parts[1:])
     
-    # Rileva automaticamente il tipo di motore per scrivere dettagli realistici
+    # Applica la pialla per creare cartelle e file perfetti
+    brand_clean = clean_filename(brand_raw)
+    model_slug = clean_filename(model_raw)
+    
+    # Rileva il tipo di motore
     is_turbo = any(x in car.lower() for x in ["turbo", "gti", "gtr", "evo", "sti", "supra", "mps", "cx", "787b", "f10"])
     
     stage1 = "Stage 1: Custom ECU Remap, High-Flow Panel Air Filter (+15-20% HP)"
@@ -29,9 +45,10 @@ for car in cars:
     else:
         stage3 = "Stage 3: Individual Throttle Bodies (ITBs) or Supercharger Bolt-on Kit, Forged Pistons (+45%+ HP)"
 
+    # Crea il file JSON (sempre tutto in inglese per il sito internazionale)
     data = {
-        "brand": brand.upper(),
-        "model": model_name.upper(),
+        "brand": brand_raw.upper(),
+        "model": model_raw.upper(),
         "prestazioni": [stage1, stage2, stage3],
         "estetica": [
             "Aggressive Carbon Fiber Front Splitter & Rear Diffuser",
@@ -39,22 +56,23 @@ for car in cars:
             "Lightweight Forged Performance Wheels with Sticky Compound Tires"
         ],
         "officine": [
-            f"Apex Motorsport Engineering ({brand.capitalize()} Specialist Hub)",
+            f"Apex Motorsport Engineering ({brand_raw.capitalize()} Specialist Hub)",
             "Pro-Tuning Garage & Dyno Development Centre"
         ]
     }
     
-    # Crea le cartelle e salva i singoli file
-    folder = f"brands/{brand}"
+    # Crea cartella e salva
+    folder = f"brands/{brand_clean}"
     os.makedirs(folder, exist_ok=True)
     
-    with open(f"{folder}/{model_slug}.json", 'w') as f_out:
+    filepath = f"{folder}/{model_slug}.json"
+    with open(filepath, 'w') as f_out:
         json.dump(data, f_out, indent=2)
         
-    if model_slug not in index[brand]:
-        index[brand].append(model_slug)
+    if model_slug not in index[brand_clean]:
+        index[brand_clean].append(model_slug)
 
-# 3. Genera l'indice finale pulito
+# Salva l'indice
 with open("index.json", "w") as f_out:
     json.dump(index, f_out, indent=2)
 
