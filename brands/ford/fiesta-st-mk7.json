@@ -1,0 +1,1 @@
+{ "brand": "Ford", "model": "Fiesta ST (Mk7)", "production_years": "2013-2017", "engine_ref": "turbo-petrol.json", "styling_tips": [ {"part": "Boomba Racing Wing Risers", "desc": "Tilts the rear spoiler up for an aggressive look."}, {"part": "Triple R Composites Splitter", "desc": "Flattens the front end."} ], "fitment": { "bolt_pattern": "4x108", "hub_bore": "63.4mm" } }
