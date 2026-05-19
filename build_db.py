@@ -31,3 +31,19 @@ with open('cars_to_scrape.txt', 'r') as f:
             os.makedirs(folder, exist_ok=True)
             with open(f"{folder}/{data['model'].lower().replace(' ', '-')}.json", 'w') as f:
                 json.dump(data, f, indent=2)
+
+# AGGIORNAMENTO AUTOMATICO INDICE (LASCIA SOLO QUESTO)
+import collections
+index = collections.defaultdict(list)
+# Scansioniamo la cartella brands
+for brand in os.listdir('brands'):
+    brand_path = os.path.join('brands', brand)
+    if os.path.isdir(brand_path):
+        for car_file in os.listdir(brand_path):
+            if car_file.endswith(".json"):
+                # Aggiungiamo il modello all'indice
+                index[brand].append(car_file.replace(".json", ""))
+
+# Salviamo solo index.json
+with open("index.json", "w") as f:
+    json.dump(index, f, indent=2)
