@@ -2,21 +2,32 @@ import os
 import json
 import google.generativeai as genai
 
-# Configura Gemini (la chiave va messa in GitHub Secrets come GEMINI_API_KEY)
-genai.configure(api_key=os.environ["AIzaSyDkrqBQquu4oUUmppLCcYTM5uC91nUtHjI"])
-model = genai.GenerativeModel('gemini-pro')
+# Configurazione AI
+genai.configure(api_key=os.environ["GEMINI_API_KEY"])
+model = genai.GenerativeModel('gemini-1.5-flash')
 
 def get_tuning_data(car_name):
     prompt = f"""
-    Genera un JSON per l'auto {car_name} con queste esatte chiavi:
-    {
-      "estetica": ["Pezzo 1", "Pezzo 2"],
-      "prestazioni": ["Stage 1: ...", "Stage 2: ...", "Stage 3: ..."],
-      "officine": ["Officina A (Città)", "Officina B (Città)"]
-    }
-    Rispondi solo con il codice JSON.
+    Sei un esperto di tuning automobilistico. Fornisci i dati per: {car_name}.
+    Rispondi SOLO con un oggetto JSON valido (senza testo extra) con questa struttura:
+    {{
+      "brand": "{car_name.split()[0]}",
+      "model": "{" ".join(car_name.split()[1:])}",
+      "estetica": ["Elenco di 3 modifiche estetiche comuni"],
+      "prestazioni": ["Stage 1: dettagli", "Stage 2: dettagli", "Stage 3: dettagli"],
+      "officine": ["Nome officina 1 (Città)", "Nome officina 2 (Città)"]
+    }}
     """
     response = model.generate_content(prompt)
-    return json.loads(response.text)
+    return json.loads(response.text.replace("```json", "").replace("```", ""))
 
-# ... resto dello script che salva il file JSON ...
+# Lettura file e generazione
+with open('cars_to_scrape.txt', 'r') as f:
+    for line in f:
+        car = line.strip()
+        if car:
+            data = get_tuning_data(car)
+            folder = f"brands/{data['brand'].lower()}"
+            os.makedirs(folder, exist_ok=True)
+            with open(f"{folder}/{data['model'].lower().replace(' ', '-')}.json", 'w') as f:
+                json.dump(data, f, indent=2)
