@@ -1,0 +1,1 @@
+{ "brand": "Toyota", "model": "Chaser Tourer V (JZX100)", "production_years": "1996-2001", "engine_ref": "turbo-petrol.json", "styling_tips": [ {"part": "BN Sports Full Aero", "desc": "Aggressive, low, wide drifting kit."}, {"part": "Vertex Styling Kit", "desc": "Clean, VIP-style elegant street lines."} ], "fitment": { "bolt_pattern": "5x114.3", "hub_bore": "60.1mm" } }
