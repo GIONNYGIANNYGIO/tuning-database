@@ -1,0 +1,1 @@
+{ "brand": "Dodge", "model": "Charger SRT Hellcat", "production_years": "2015-2023", "engine_ref": "high-performance-v8.json", "styling_tips": [ {"part": "Widebody Kit", "desc": "If not factory, an absolute must for 315-section tires."}, {"part": "Rear Window Louvers", "desc": "Retro muscle aesthetic."} ], "fitment": { "bolt_pattern": "5x115", "hub_bore": "71.5mm" } }
