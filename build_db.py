@@ -8,14 +8,14 @@ model = genai.GenerativeModel('gemini-1.5-flash')
 
 def get_tuning_data(car_name):
     prompt = f"""
-    Sei un esperto di tuning automobilistico. Fornisci i dati per: {car_name}.
-    Rispondi SOLO con un oggetto JSON valido (senza testo extra) con questa struttura:
+    You are a professional automotive tuning expert. Provide technical data for: {car_name}.
+    Respond ONLY with a valid JSON object (no extra text) with this structure:
     {{
       "brand": "{car_name.split()[0]}",
       "model": "{" ".join(car_name.split()[1:])}",
-      "estetica": ["Elenco di 3 modifiche estetiche comuni"],
-      "prestazioni": ["Stage 1: dettagli", "Stage 2: dettagli", "Stage 3: dettagli"],
-      "officine": ["Nome officina 1 (Città)", "Nome officina 2 (Città)"]
+      "estetica": ["List 3 specific aesthetic mods/bodykit parts"],
+      "prestazioni": ["Stage 1: details", "Stage 2: details", "Stage 3: details"],
+      "officine": ["Shop Name (City)"]
     }}
     """
     response = model.generate_content(prompt)
