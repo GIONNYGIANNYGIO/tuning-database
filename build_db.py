@@ -6,6 +6,9 @@ from google import genai
 # Inizializza il client con la nuova libreria
 client = genai.Client(api_key=os.getenv('GEMINI_API_KEY'))
 
+# --- CONFIGURAZIONE ---
+BATCH_SIZE = 5  # Processa solo 5 auto per ogni esecuzione del workflow
+
 def get_ai_data(car_name):
     brand_name = car_name.split()[0]
     
@@ -37,7 +40,7 @@ def get_ai_data(car_name):
     }}
     """
     
-    # Sistema di Retry intelligente: se Google blocca, aspetta progressivamente di più
+    # Sistema di Retry intelligente
     for attempt in range(5):
         try:
             response = client.models.generate_content(
@@ -49,8 +52,8 @@ def get_ai_data(car_name):
             
         except Exception as e:
             if "RESOURCE_EXHAUSTED" in str(e):
-                wait_time = (attempt + 1) * 60 # Aspetta 60s, poi 120s, ecc.
-                print(f"Quota esaurita. Attesa di {wait_time}s prima di riprovare...")
+                wait_time = (attempt + 1) * 60 
+                print(f"Quota esaurita. Attesa di {wait_time}s...")
                 time.sleep(wait_time)
             else:
                 print(f"Errore critico per {car_name}: {e}")
@@ -65,15 +68,20 @@ except FileNotFoundError:
     print("Errore: 'cars_to_scrape.txt' non trovato.")
     all_cars = []
 
-# Loop principale
+# Loop principale con limite di Batch
+processed_count = 0
+
 for car in all_cars:
+    if processed_count >= BATCH_SIZE:
+        print(f"Raggiunto il limite di {BATCH_SIZE} auto. Operazione completata per questo ciclo.")
+        break
+        
     brand = car.split()[0].lower()
     slug = car.lower().replace(' ', '-').replace('/', '-')
     filepath = f"brands/{brand}/{slug}.json"
     
-    # Controllo se il file esiste già: se sì, salta per risparmiare quota
+    # Controllo se il file esiste già
     if os.path.exists(filepath):
-        print(f"File già esistente per {car}, salto...")
         continue
     
     print(f"Generando dati REALI per: {car}...")
@@ -84,7 +92,8 @@ for car in all_cars:
         with open(filepath, 'w', encoding='utf-8') as f:
             json.dump(data, f, indent=2, ensure_ascii=False)
         print(f" Salvato correttamente: {filepath}")
-        # Pausa standard tra richieste fortunate
-        time.sleep(10)
+        
+        processed_count += 1
+        time.sleep(15) # Pausa di sicurezza tra una richiesta e l'altra
     else:
         print(f"Impossibile generare dati per {car}")
