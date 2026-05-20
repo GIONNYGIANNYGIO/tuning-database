@@ -1,8 +1,12 @@
 name: Auto-Build Database
+
 on:
   schedule:
-    - cron: "0 */6 * * *" # Gira ogni 6 ore
+    - cron: "0 */6 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -10,16 +14,24 @@ jobs:
     env:
       GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Set up Python
-        uses: actions/setup-python@v4
-        with: {python-version: '3.9'}
-      - run: pip install google-generativeai
-      - run: python build_db.py
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install google-genai
+
+      - name: Run Database Builder
+        run: python build_db.py
+
       - name: Commit & Push
         run: |
           git config user.name "Bot-Auto-Tuning"
           git config user.email "bot@tuning.com"
-          git add .
-          git commit -m "Auto-aggiornamento: aggiunte nuove auto" || echo "Nessuna modifica"
+          git add brands/
+          git commit -m "Auto-aggiornamento: dati tuning aggiornati" || echo "Nessuna modifica"
           git push
