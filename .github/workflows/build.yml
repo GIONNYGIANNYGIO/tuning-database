@@ -2,8 +2,10 @@ name: Auto-Build Database
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    # Si attiva automaticamente ogni 4 ore (minuto 0 di ogni 4 ore)
+    - cron: '0 */4 * * *'
   workflow_dispatch:
+    # Ti permette comunque di farlo partire a mano se vuoi fare un test
 
 permissions:
   contents: write
