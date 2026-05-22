@@ -1,0 +1,14 @@
+{
+  "brand": "ACURA",
+  "model": "NSX",
+  "prestazioni": [
+    "C32B (3.2L V6) engine with a custom-built forced induction system using a Garrett GTX4202R turbocharger (106mm compressor wheel, 88mm turbine wheel) paired with a Tial MV-R 44mm external wastegate, supporting 12 psi of boost with a custom 3.5-inch stainless steel turbo-back exhaust featuring Burns Stainless 1.75-inch primaries and a GReddy Revolution RS 3.5-inch muffler for optimized scavenging and reduced backpressure",
+    "Full Motec M150 ECU standalone engine management system with custom-mapped fuel and ignition tables, integrated with a Plex Knock Monitor for real-time detonation control, paired with ID1000x injectors and a Radium Engineering dual-catch can setup to manage crankcase pressures under high boost",
+    "KW Suspensions Clubsport 3-way adjustable coilovers with custom valving for the NSX's aluminum-intensive chassis, featuring 8-position rebound and 12-position compression damping, paired with SuperPro poly bushings (front control arms, rear toe links) and a Cusco 22mm front sway bar to eliminate body roll and enhance mid-corner adjustability"
+  ],
+  "estetica": [
+    "Seibon Carbon fiber Type-R widebody conversion kit (NA1-specific, 20mm flares front/rear) with custom carbon fiber side skirts and a Voltex GT-Wing (1700mm span, 300mm chord, 3D-printed titanium endplates) for downforce optimization at high speeds, all finished in a custom matte Gunmetal with gloss carbon weave accents",
+    "Custom titanium bolt-on front splitter with integrated canards (3D-printed from aerospace-grade Ti6Al4V alloy) and a carbon fiber diffuser with Gurney flaps (hand-laid 2x2 twill weave, 3K finish) to manage airflow under the car, paired with a custom titanium rear bumper support brace to stiffen the chassis",
+    "Recaro SPG XL bucket seats (NSX-specific mounting brackets, FIA 8862-2009 certified) upholstered in Alcantara with custom red stitching and Schroth Profi II 6-point harnesses, paired with a NRG Innovations quick-release steering wheel hub and a Momo Mod.78 carbon fiber wheel (350mm diameter, suede grip) for precise driver feedback"
+  ]
+}

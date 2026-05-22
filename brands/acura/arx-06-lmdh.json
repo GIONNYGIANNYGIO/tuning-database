@@ -1,0 +1,14 @@
+{
+  "brand": "ACURA",
+  "model": "ARX-06 LMDh",
+  "prestazioni": [
+    "HPD AR24e 2.4L V6 twin-turbocharged hybrid power unit (engine code: AR24e-HPD) with a bespoke Bosch MS 5.1 ECU remap targeting 680 hp (507 kW) at 10,000 RPM, optimized for endurance racing with a 12,000 RPM redline and custom fuel mapping for 102 RON race fuel (e.g., VP Racing C12+)",
+    "Garrett GT35R turbochargers (custom billet wheel, 62mm compressor, 68mm turbine) with TiAL Sport MV-R 44mm wastegates and PTP 3.5\" stainless steel turbo manifolds, paired with a custom HPD intercooler core (bar-and-plate, 1200 CFM) and AEM 340lph high-flow fuel pumps with -8AN PTFE lines",
+    "Ohlins TTX-40 4-way adjustable dampers with custom valving for the ARX-06 monocoque, featuring 30-way compression and rebound adjustability, paired with HPD-spec spherical bearing control arms (front/rear) and a Penske 8760 adjustable anti-roll bar kit (3-way adjustable, 24mm front/22mm rear)"
+  ],
+  "estetica": [
+    "Custom ARX-06-specific carbon fiber aero package by STILLEN, including a 3D-printed front splitter with active Gurney flaps (adjustable via Bosch Motorsport actuators) and a rear diffuser with integrated strakes (tested in Sauber Engineering wind tunnel for 2,200 lbs of downforce at 200 mph)",
+    "HRE FF16 flow-formed wheels (18x13 front, 18x15 rear) with center-lock hubs and Michelin Pilot Sport Cup 2 R tires (30/68-18 front, 31/71-18 rear), wrapped in a custom livery by Driven Artworks featuring PPG Vibrance Collection paint (color: 'HPD Racing Blue' with matte carbon fiber accents)",
+    "Recaro P1300 GT3 carbon fiber seats with 6-point Schroth Profi II harnesses and a custom HPD steering wheel (3D-printed magnesium core, Alcantara grip, and integrated Bosch Motorsport data display with 12 programmable buttons)"
+  ]
+}

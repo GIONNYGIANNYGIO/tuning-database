@@ -1,0 +1,14 @@
+{
+  "brand": "AION",
+  "model": "HYPER SSR TRACK SPEC",
+  "prestazioni": [
+    "Engine: Replace the stock **GAC 2.0T EDU (Electric Drive Unit) + 1.5L range-extender (GAC 4B15J1)** hybrid powertrain with a **Motec M150 ECU** to fully remap the dual-motor torque vectoring system, optimizing power delivery for track use with a **0-100 km/h time of 1.9s** (stock: 2.3s). Integrate a **Magna PT eDS-300** high-voltage inverter to handle the 1,225 kW (1,643 hp) peak output while maintaining thermal stability under sustained lateral G-forces.",
+    "Drivetrain: Install a **Quaife ATB LSD (QDF15H)** in the rear axle to replace the stock open differential, paired with **GKN eDrive CV joints (GKN-ED-200)** to handle the increased torque split. Upgrade the half-shafts to **Neapco 3.5-inch carbon-fiber driveshafts** with **Tripod joint splines** to eliminate drivetrain lash under aggressive acceleration and regenerative braking.",
+    "Suspension & Chassis: Replace the stock adaptive dampers with **Öhlins TTX46 MkII coilovers (AION-specific valving)** featuring **32-way compression/rebound adjustability** and **Dahlback Racing 800 lb/in springs** for a 30mm lower ride height. Reinforce the subframe with **Cusco Type-RS front/rear strut bars** and **Aeromotive 3/8-inch braided stainless steel brake lines** to reduce compliance. Install **AP Racing CP9660-4S 6-piston calipers** with **380mm CCM-R carbon-ceramic rotors** for fade-free braking under 2.5G cornering loads."
+  ],
+  "estetica": [
+    "Aero: Fit a **Liberty Walk LB-WORKS Hyper SSR widebody kit** with **carbon-fiber overfenders (pre-preg autoclave construction)** to accommodate the **20x12-inch front / 21x13-inch rear BBS FI-R wheels** (ET +15/+5 offset). Install a **Rocket Bunny GT wing (Type-3, 1,800mm span)** with **adjustable carbon-fiber endplates** and a **custom Gurney flap** for 1,200 lbs of downforce at 200 km/h. Replace the front splitter with a **Varis Japan 3-stage adjustable carbon unit** featuring **active air curtains** to reduce drag by 12%.",
+    "Lighting: Swap the stock LED matrix headlights for **Osram Night Breaker Laser HID bulbs (6,000K)** with **Morimoto FX-R 3.0 projectors** and **custom DRL delete plates** (painted in **Audi Nardo Gray**). Install **Lux H8 Angel Eyes** with **RGBW controllers** for track-day visibility and a **custom rear light delete** (replaced with **carbon-fiber diffuser inserts** for weight savings).",
+    "Interior: Replace the stock seats with **Sparco Pro 2000 FIA-spec carbon-kevlar buckets** (AION-specific mounting brackets) and a **Schroth 6-point harness (ASM2000)**. Install a **Motec C127 dash logger** with **GPS lap timer** and **OMP carbon-fiber steering wheel (320mm, quick-release)**. Delete the rear seats and install a **custom aluminum roll cage (TIG-welded, 1.75-inch DOM tubing)** with **Schroth harness bar** and **carbon-fiber door cards** (weight reduction: 45 kg)."
+  ]
+}

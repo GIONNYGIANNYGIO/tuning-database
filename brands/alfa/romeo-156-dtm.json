@@ -1,0 +1,14 @@
+{
+  "brand": "ALFA",
+  "model": "ROMEO 156 DTM",
+  "prestazioni": [
+    "Engine: 3.0L V6 Busso AR32301 (Alfa Romeo 932) with forged internals including Carrillo H-beam connecting rods, JE Pistons 9.5:1 compression forged pistons, and a billet crankshaft from Manley Performance. Turbocharged with a Garrett GTX4202R (86mm) turbocharger, custom 3.5-inch stainless steel exhaust manifold by Supersprint, and a Tial MV-R 44mm external wastegate with 3.5-bar boost pressure targeting 650hp at 8,200 RPM.",
+    "Drivetrain: Sachs Performance twin-disc clutch with a lightweight flywheel (12.5 lbs) and a Quaife ATB differential (80% lockup) paired with a Getrag 6-speed sequential transmission (DTM-spec) with a custom bellhousing adapter for the Busso V6. Custom driveshafts by GKN Driveline with CV joints rated for 800Nm torque.",
+    "Suspension & Chassis: Öhlins TTX40 4-way adjustable coilovers with 24mm front and 22mm rear adjustable anti-roll bars by H&R. Custom subframe reinforcements by Autotecnica Motori, polyurethane bushings (SuperPro) for all suspension mounts, and spherical bearing conversion for the front control arms. Brembo GT 6-piston calipers (380mm front rotors) and 4-piston calipers (355mm rear rotors) with Ferodo DS3000 brake pads."
+  ],
+  "estetica": [
+    "Aerodynamics: Custom carbon fiber DTM-style front splitter by Capristo with integrated dive planes, rear diffuser by APR Performance, and a carbon fiber rear wing (DTM-spec) with adjustable angle of attack (0-15 degrees) and Gurney flap. Full carbon fiber hood with NACA ducts for intercooler cooling, manufactured by Seibon Carbon.",
+    "Body & Styling: Custom widebody kit by Liberty Walk (LB Works) adapted for the 156 chassis, with extended fenders (30mm front, 40mm rear) and custom carbon fiber side skirts. OEM DTM-spec front bumper with custom tow hooks and a carbon fiber rear bumper with integrated exhaust outlets for the Supersprint 3.5-inch exhaust.",
+    "Interior & Details: Full carbon fiber interior by V Carbon, including door cards, dashboard, and center console. Sparco Pro ADV racing seats with 6-point Schroth harnesses, OMP steering wheel (330mm) with quick-release hub, and a custom roll cage by Safety Devices (FIA 8862-2009 certified). Motec C127 dash logger with integrated shift light and data acquisition for boost, oil pressure, and AFR."
+  ]
+}

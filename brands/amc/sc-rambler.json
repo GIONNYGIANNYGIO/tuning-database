@@ -1,0 +1,14 @@
+{
+  "brand": "AMC",
+  "model": "SC/RAMBLER",
+  "prestazioni": [
+    "Engine swap to AMC's 390ci (6.4L) V8 (engine code: AMX-390) with forged internals including Eagle H-beam connecting rods (PN: CRS6125B3D), JE forged pistons (PN: 203900), and a Comp Cams Xtreme Energy 292H hydraulic roller camshaft (PN: 32-602-8) for a 0.544\" lift and 244° duration at 0.050\"",
+    "Forced induction via a Precision Turbo & Engine PT6766 CEA turbocharger (PN: PT6766CEA) with a custom 3.5\" stainless steel exhaust manifold by Stainless Works (PN: SW-AMC390-EXH) and a Turbosmart Comp-Gate40 wastegate (PN: TS-0505-1001) set to 12 psi",
+    "Fuel system upgrade with Holley Dominator EFI (PN: 550-900) paired with a set of 80 lb/hr Bosch EV14 injectors (PN: 0 280 158 109), an Aeromotive A1000 fuel pump (PN: 11101), and a custom 3/8\" fuel rail by Kinsler Fuel Injection (PN: 42200)"
+  ],
+  "estetica": [
+    "Custom widebody conversion using a Rare Spares AMC Javelin/AMX fiberglass kit (PN: RS-AMC-WB) with flared fenders to accommodate 10.5\" wide Mickey Thompson ET Street R drag radials (PN: 3050) on the rear",
+    "Full custom roll cage by Chassisworks (PN: CWA-001) with a 6-point harness bar and integrated subframe connectors, powder-coated in DuPont ChromaLusion \"Hugger Orange\" (PN: 2010-30108)",
+    "Retro-inspired livery featuring 3M Scotchcal Graphic Film in \"Gloss Black\" (PN: 1080-G12) with hand-painted \"A/Stock\" class racing stripes by Vintage Air Graphics, replicating the original Hurst SC/Rambler design but with a modern twist"
+  ]
+}

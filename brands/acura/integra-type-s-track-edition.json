@@ -1,0 +1,14 @@
+{
+  "brand": "ACURA",
+  "model": "INTEGRA TYPE S TRACK EDITION",
+  "prestazioni": [
+    "K24A2 2.4L DOHC i-VTEC engine (200hp stock) upgraded with a PRL Motorsports Stage 3 Turbo Kit featuring a Garrett GT3076R turbocharger, PRL Motorsports 3.5-inch downpipe, and a custom Hondata KPro V4 ECU tune optimized for 12.5:1 compression and 93 octane fuel with E85 flex-fuel capability (targeting 400whp on E50 blend)",
+    "Full Ohlins DFV Road & Track coilover suspension with 3-way adjustable damping (compression, rebound, and ride height), custom-valved for the Integra Type S Track Edition’s 50:50 weight distribution, paired with SuperPro poly bushings (front control arms, rear trailing arms, and subframe mounts) and a Cusco 22mm front / 19mm rear adjustable sway bar kit",
+    "Brembo GT 6-piston front / 4-piston rear big brake kit with 355mm two-piece rotors (J-hook slotted and cryo-treated) and Ferodo DS2500 race pads, paired with Goodridge G-Stop stainless steel braided brake lines and Motul RBF 660 brake fluid (dry boiling point: 617°F)"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (Type S-specific fitment) with carbon fiber front fenders, overfenders, and rear quarter panels, paired with a custom 3M Matte Military Green wrap and JDM-spec Acura Type S side decals (red/black, OEM+ style)",
+    "Voltex Type-5 rear wing (carbon fiber, 1,700mm width) mounted on custom 3D-printed aluminum pedestals for adjustable angle (0-15 degrees), paired with a Seibon carbon fiber hood (with integrated NACA ducts for K24A2 intercooler cooling)",
+    "Recaro SP-G TS (Type S Edition) front seats with custom red Alcantara inserts and matching Takata Drift III 4-point harnesses, paired with a NRG Innovations quick-release steering wheel hub and a MOMO Mod.78 330mm suede steering wheel (red stitching, Type S logo embroidered)"
+  ]
+}

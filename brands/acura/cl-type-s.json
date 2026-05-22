@@ -1,0 +1,14 @@
+{
+  "brand": "ACURA",
+  "model": "CL TYPE S",
+  "prestazioni": [
+    "J32A2 (3.2L V6) engine rebuild with forged internals: Manley forged pistons (9.8:1 CR), Eagle H-beam connecting rods, and ACL Race Series bearings for 8,500 RPM reliability, paired with a Tomei 272° Type-R camshaft set and Supertech valve springs/retainers to handle aggressive lift",
+    "Full bolt-on forced induction via a Garrett GT3076R turbocharger (0.86 A/R, 62mm inducer) on a custom RevHard manifolds header, feeding into a GReddy Type-S intercooler (front-mount, 600hp core) with -10AN silicone couplers and a TiAL MV-R 44mm wastegate for precise boost control (18-20 psi on pump gas)",
+    "Custom Motec M150 ECU with a PnP harness from Hondata for full standalone control, integrated with a 4-bar MAP sensor, AEM wideband (X-Series, 30-0300) for AFR targeting (11.5:1 under boost), and a K-Tuned 80mm throttle body for optimized airflow, paired with a Walbro 450LPH in-tank fuel pump and Injector Dynamics ID1000 injectors (1,000cc/min)"
+  ],
+  "estetica": [
+    "Rocket Bunny V1 widebody kit (CL-specific, 3-piece fenders with carbon fiber overfenders) paired with a custom 3M Matte Military Green wrap and JDM-spec Acura Type R badges (red/white) for OEM+ aggression",
+    "Volk Racing TE37V (18x9.5 +35 front, 18x10.5 +40 rear) in Bronze with Toyo R888R tires (255/40/18 front, 275/35/18 rear), mounted on Buddy Club Racing Spec II coilovers (8kg/mm front, 10kg/mm rear) with Cusco pillowball upper mounts for track precision",
+    "Full carbon fiber aero package: Seibon carbon fiber hood (CL-S specific, 15lb weight reduction), Veilside Fortune rear diffuser (CL-compatible, 3-piece), and a custom 3D-printed front splitter with integrated canards (AeroLab design, 30% downforce increase at 100mph)"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "ACURA",
+  "model": "INTEGRA TYPE R DC5",
+  "prestazioni": [
+    "Engine: K20A2 (2.0L DOHC i-VTEC) with a fully built internals package including JE 87mm forged pistons (12.5:1 compression), Eagle H-beam connecting rods, and a billet crankshaft from Toda Racing, paired with a Toda Racing Type R-spec camshaft set (272° duration, 12.0mm lift) and upgraded valve springs/retainers for 9,000 RPM reliability.",
+    "Forced Induction: Custom-built turbo system utilizing a Garrett GT3076R turbocharger (0.86 A/R, 62mm inducer) on a custom stainless steel manifold by Full-Race Motorsports, paired with a GReddy Profec B Spec II boost controller, 1000cc ID injectors, and a custom-tuned Hondata K-Pro ECU with ethanol flex-fuel capability (E85 compatible).",
+    "Drivetrain & Handling: OS Giken Super Lock LSD (4.785 final drive ratio) with a custom 6-speed transmission built by PPG (close-ratio gearset: 2.36/1.77/1.38/1.14/0.96/0.80), paired with a Spec Stage 4+ clutch and lightweight flywheel. Suspension features Ohlins Road & Track DFV coilovers (2-way adjustable dampers) with custom valving, Cusco front and rear sway bars (22mm front, 19mm rear), and spherical bearing front lower control arms by MFactory."
+  ],
+  "estetica": [
+    "Aero: Voltex Type-3 front bumper with integrated canards, custom carbon fiber side skirts by Seibon, and a Voltex GT-Wing (1700mm width, 300mm height) mounted on a custom aluminum pedestal. Rear diffuser by Varis with integrated exhaust cutouts for dual 3.5\" titanium exhaust tips by HKS Hi-Power.",
+    "Body: Full Rocket Bunny V3 widebody kit (DC5-specific) with custom front fender flares (3.5\" wider than OEM) and rear overfenders (4.0\" wider), paired with a custom carbon fiber hood by APR Performance (50% weight reduction, functional vents). Paint: BASF Glasurit 90-Line custom mix \"Nighthawk Black Pearl\" with matte clear coat.",
+    "Interior: Full Recaro SPG XL bucket seats (carbon fiber backs) with Schroth Profi II 6-point harnesses, custom roll cage by Buddy Club (8-point, chromoly steel, bolt-in), and a custom carbon fiber dashboard overlay by Password:JDM. Steering wheel: NRG Innovations 350mm suede wheel with quick-release hub, paired with a custom titanium shift knob by Jun Auto."
+  ]
+}

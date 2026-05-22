@@ -1,0 +1,14 @@
+{
+  "brand": "ALFA",
+  "model": "ROMEO 156 GTA",
+  "prestazioni": [
+    "Engine: 3.2L V6 Busso (936 A 046) with forged internals from JE Pistons (8.5:1 compression, 92.5mm bore, 78mm stroke) and Carrillo H-beam connecting rods, paired with a custom billet crankshaft by Manley Performance for 8,500 RPM redline capability.",
+    "Forced induction: Garrett GTX3582R turbocharger (0.82 A/R turbine housing) with a custom top-mount intercooler by Bell Intercoolers (50% larger core than OEM), fed by a Bosch 044 fuel pump and ID1000x injectors, controlled via a Motec M150 ECU with flex-fuel mapping for E85 compatibility.",
+    "Suspension: Ohlins Road & Track DFV coilovers (custom valving for 156 GTA chassis geometry) with spherical bearing front control arms from Alfa Romeo 159 (adapted via custom subframe spacers), paired with polybushings from SuperPro (part SPF1039K) and a Whiteline front sway bar (24mm adjustable)."
+  ],
+  "estetica": [
+    "Body: Custom widebody conversion using carbon fiber overfenders from Zender (GTA-spec, part #ZEN-156-GTA-F/R) with a Rocket Bunny-inspired front splitter (3D-scanned from a 156 GTA race car) and a custom aluminum rear diffuser by Novitec.",
+    "Wheels: OZ Racing Ultraleggera HLT (8.5x18 ET35 front, 9.5x18 ET30 rear) with custom offsets to clear AP Racing CP6640 calipers, wrapped in Michelin Pilot Sport Cup 2 tires (235/40/18 front, 265/35/18 rear).",
+    "Interior: Full Alcantara retrim by Sabelt (GTA-spec seats, door cards, and headliner) with a custom roll cage by Safety Devices (FIA-spec, bolt-in, 6-point) and a Momo Mod.78 steering wheel (320mm, suede) on a NRG quick-release hub."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "ACURA",
+  "model": "NSX-R NA2",
+  "prestazioni": [
+    "Engine: C32B (3.2L DOHC V6) with Tomei 272° duration, 11.5mm lift camshafts and Tomei Type-R valve springs to optimize high-RPM power (8,500+ RPM redline) while maintaining NA2-specific cylinder head porting for improved airflow efficiency.",
+    "Forced Induction: HKS GT-SS Supercharger Kit (Lysholm-type) with custom 8-rib pulley system, HKS GT2835 turbo manifold (adapted for C32B), and GReddy Profec B Spec II boost controller set to 0.6 bar (8.7 psi) for linear power delivery, paired with a custom intercooler setup using a PWR 4.5\" core with -10AN silicone hoses and Earl's Performance fittings.",
+    "Drivetrain: OS Giken Super Lock LSD (2.2-way) with 85% lockup under acceleration, paired with a Tilton 7.25\" twin-disc clutch (ceramic-metallic) and Fidanza 1.7kg flywheel to reduce rotational mass while handling the increased torque from the supercharger setup."
+  ],
+  "estetica": [
+    "Aero: Seibon Carbon NSX-R NA2-specific widebody kit (front fenders, rear quarter panels, and rear bumper) with integrated carbon fiber canards (Voltex Type-5) and a custom 3D-printed rear diffuser (Aeroflow Dynamics) for optimized downforce at high speeds.",
+    "Wheels: Volk Racing TE37V (17x9 +35 front, 17x10.5 +40 rear) in Hyper Silver with custom 5x114.3 hub conversion (using Buddy Club PCD adapters) and Toyo R888R tires (235/40/17 front, 275/35/17 rear) for maximum mechanical grip.",
+    "Interior: Bride Zeta III (fixed-back) seats with custom NSX-R NA2-specific mounting brackets, Takata Drift III 4-point harnesses, and a custom carbon fiber dash overlay (by Auto Salon) featuring a Defi Advance BF dual-gauge pod (oil pressure and boost) integrated into the center console."
+  ]
+}

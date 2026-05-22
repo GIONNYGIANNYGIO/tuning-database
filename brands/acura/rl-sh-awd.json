@@ -1,0 +1,14 @@
+{
+  "brand": "ACURA",
+  "model": "RL SH-AWD",
+  "prestazioni": [
+    "J37A4 3.7L V6 engine: Full bolt-on forced induction conversion using a Garrett GT3582R turbocharger (0.82 A/R, 62mm inducer) with a custom Precision Turbo wastegate (44mm, 38mm V-band) and a PTP 4-inch stainless steel intercooler core (700hp-rated). Supporting mods include a K-Tuned J37A4 ported intake manifold, ID1000 injectors (1000cc/min), and a Walbro 450LPH in-tank fuel pump with a Radium Engineering dual-channel fuel pressure regulator (set to 58psi base).",
+    "SH-AWD-specific drivetrain reinforcement: Cusco 1.5-way mechanical LSD (front and rear) with 40% preload, paired with a Driveshaft Shop 3.5-inch aluminum driveshaft (balanced to 12,000 RPM) and upgraded rear differential bushings (Energy Suspension polyurethane, part #4.1110G).",
+    "Custom ECU calibration via Hondata KPro V4 (J37A4-specific ROM) with a 20psi boost target, 12.5:1 AFR (E85 blend), and custom cam timing maps (Intake: 12° advance, Exhaust: 8° retard). Supporting electronics include an AEM X-Series wideband (30-0300) and a Motec C125 dash for real-time monitoring of oil pressure (via AEM 30-2131-100 sensor) and transmission temp (via PRL Motorsports SH-AWD temp sensor)."
+  ],
+  "estetica": [
+    "Liberty Walk LB-RL widebody kit (carbon fiber fenders, front/rear bumpers, and side skirts) with custom extended rocker panels to accommodate 10.5-inch-wide Volk Racing TE37SL wheels (19x10.5 +15 front, 19x11 +20 rear) and Toyo R888R tires (275/30/19 front, 295/30/19 rear).",
+    "Seibon Carbon J37A4-specific hood (with integrated NACA ducts for intercooler airflow) and a custom 3D-printed rear diffuser (ABS plastic, 3-inch diffuser tunnels) paired with a Varis Japan rear wing (2500mm width, 300mm height, 15° angle).",
+    "Interior: Bride Zeta III seats (fixed-back, carbon shell) with custom Acura RL-specific mounting brackets, a NRG Innovations quick-release steering wheel hub (part #SRK-200B) paired with a Momo Mod.78 wheel (350mm, suede), and a full Alcantara retrim (dashboard, door cards, and headliner) by Status Racing with red contrast stitching."
+  ]
+}

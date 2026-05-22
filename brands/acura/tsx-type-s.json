@@ -1,0 +1,14 @@
+{
+  "brand": "ACURA",
+  "model": "TSX TYPE S",
+  "prestazioni": [
+    "K24Z3 (2.4L DOHC i-VTEC) forced induction via Garrett GT3076R turbocharger (0.82 A/R, 62mm compressor inducer, 56 trim) with custom 3-inch stainless steel turbo manifold (RevHard Motorsports) and Tial MV-R 44mm external wastegate (12 psi base boost, adjustable via AEM Tru-Boost Controller)",
+    "Full bolt-on internals: JE FSR forged pistons (9.5:1 compression, 87mm bore), Eagle H-beam connecting rods (5.138\" length), ACL Race Series main/rod bearings, and K24A2 oil pump (modified for 20% increased flow) with an upgraded oil cooler (Setrab 50-row core) and Moroso 8-quart baffled oil pan (TSX-specific fitment)",
+    "Fuel system overhaul: Injector Dynamics ID1000x injectors (1000cc/min), Walbro 450LPH in-tank fuel pump, Radium Engineering fuel pressure regulator (dual-line return), and custom 3/8\" stainless steel fuel lines with AN-6 fittings; paired with Hondata KPro V4 ECU (custom basemap by Church Automotive Testing) for aggressive ignition timing (12° BTDC) and E85 flex-fuel capability (via Continental ethanol sensor)"
+  ],
+  "estetica": [
+    "Seibon Carbon CS-II dry carbon fiber hood (TSX-specific, 15lb weight reduction) with custom dual 35mm hood vents (aero-optimized via CFD testing by Varis Japan) and matte clear coat finish (Spraymax 2K)",
+    "Rocket Bunny V3 widebody kit (TSX-specific, 30mm front/40mm rear fender flares) with custom carbon fiber overfenders (1x1 twill weave, 3K finish) and relocated rear bumper diffuser (integrated 3-inch exhaust cutouts for custom titanium exhaust system by Agency Power)",
+    "Ohlins Road & Track DFV coilovers (TSX-specific valving, 8/18-click rebound/compression damping) with Swift Springs (8kg/mm front, 10kg/mm rear) and custom camber plates (5° negative camber front, 3.5° rear); paired with Cusco Type RS 22mm front/19mm rear sway bars and polyurethane bushings (Energy Suspension 9.5111R)"
+  ]
+}

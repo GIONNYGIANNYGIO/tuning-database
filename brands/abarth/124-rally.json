@@ -1,0 +1,14 @@
+{
+  "brand": "ABARTH",
+  "model": "124 RALLY",
+  "prestazioni": [
+    "Engine: MultiAir Turbo (348A5000) 1.4L I4 with forged internals (Mahle forged pistons, 8.5:1 CR, Manley H-beam connecting rods) and Garrett GT2860RS turbocharger (0.63 A/R turbine housing, 0.82 A/R compressor housing) for 320 HP at 7,000 RPM and 320 Nm at 4,500 RPM, supported by a custom ECU map via Alientech KESSv2 with ethanol flex-fuel compatibility (E85) and launch control optimized for gravel rally stages.",
+    "Drivetrain: Sachs Performance twin-disc clutch (6-puck, 240mm) with lightweight flywheel (4.5kg) and Quaife ATB helical LSD (80% lockup) in a reinforced Fiat 124 Spider C635 gearbox (close-ratio gears, 3.73 final drive) with upgraded synchros (Oerlikon Graziano carbon-lined) and a short-shift kit (BMC Italia 35mm throw reduction).",
+    "Suspension & Chassis: Öhlins TTX40 2-way adjustable coilovers (400lb/in front, 350lb/in rear) with remote reservoirs, spherical bearing top mounts (SuperPro), and rally-spec camber plates (-3.5° front, -2.8° rear). Full polybush kit (Whiteline) with reinforced subframe bushings and a custom front strut brace (Abarth Corse homologated) for FIA R-GT compliance. Brembo GT 6-piston calipers (355mm discs front, 330mm rear) with Ferodo DS2500 pads and braided stainless steel lines (Goodridge)."
+  ],
+  "estetica": [
+    "Aerodynamics: Abarth Corse R-GT homologated carbon fiber front splitter (30mm overhang, 15kg downforce at 120km/h) with integrated tow hooks, rear diffuser (Rocket Bunny V3, 3D-printed ABS with Gurney flap), and a FIA-legal carbon fiber rear wing (Voltex Type-3, 1,200mm width, 300mm chord, 25° angle) mounted on custom aluminum pedestals (Abarth Corse).",
+    "Exterior: Full FIA-approved seam-welded roll cage (Sparco Pro2000, 25CrMo4 steel, 2.5mm wall thickness) with integrated fire suppression system (Lifeline Zero 360, plumbed to cockpit and engine bay). Carbon fiber hood (Seibon, 1.2mm thickness, vented) and doors (lightweight Kevlar composite, 8kg savings per door) with FIA-spec quick-release latches (Schroth). OMP rally-spec side mirrors (carbon fiber, heated) and Hella Rallye 3000 FF driving lights (35W, 6,000K).",
+    "Interior: Sparco Grid-Q seat (FIA 8862-2009 certified, carbon fiber shell, 12kg) with 6-point harness (Schroth Profi II-6, HANS-compatible) and custom Abarth Corse steering wheel (350mm diameter, Alcantara, quick-release hub). Full digital dash (Aim MXS 1.2 Strada, 5-inch display) with GPS lap timer, G-force sensor, and CAN bus integration for live telemetry. Fireproofing via Lifeline 4-layer Nomex suit (driver) and F1-spec fireproofing (Zylon/Kevlar blend) for floor, firewall, and bulkhead."
+  ]
+}

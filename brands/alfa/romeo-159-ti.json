@@ -1,0 +1,14 @@
+{
+  "brand": "ALFA",
+  "model": "ROMEO 159 TI",
+  "prestazioni": [
+    "Engine: 3.2L V6 (936 A1) with a custom Motec M150 ECU reflash targeting 320whp via direct port injection optimization, 12.5:1 static compression, and a custom camshaft profile (280° duration, 11.5mm lift) from Cat Cams (part #32001) paired with Ferrea Competition Series valves (intake: 36mm, exhaust: 31mm) and titanium retainers from Supertech.",
+    "Forced induction: Rotrex C38-91 supercharger with a custom air-to-water intercooler (PWR Advanced Cooling) and a 3.5\" silicone intake tract from Vibrant Performance, mated to a custom 3.5\" stainless steel exhaust system with a 304-grade merge collector (Schoenfeld Headers) and a custom 3\" titanium exhaust (Akrapovic Evolution Line) with a valved bypass for backpressure control.",
+    "Suspension: Ohlins Road & Track coilovers (part #DFV 159) with custom valving for 700lb/in front springs and 600lb/in rear springs, paired with spherical bearing upper control arms (Meyle HD) and a custom front sway bar (28mm hollow, adjustable) from H&R. Chassis reinforcement via a full seam-welded subframe and a custom 6-point roll cage (Custom Cages UK) with integrated strut tower braces (Autopower)."
+  ],
+  "estetica": [
+    "Aero: Custom carbon fiber front splitter (159-specific, designed by Prior Design) with integrated canards (3D-printed PETG, 45° angle) and a custom rear diffuser (carbon fiber, 3-stage design) from Maxton Design, paired with a custom GT-style rear wing (carbon fiber, 1200mm span, 30mm chord) from APR Performance (part #CF1000).",
+    "Body: Full widebody conversion using custom 3D-scanned fiberglass overfenders (front: +50mm, rear: +70mm) from Liberty Walk (159-specific kit, part #LW-159), with custom carbon fiber side skirts (hand-laid, 2x2 twill) and a custom carbon fiber hood (vented, 3kg weight reduction) from Seibon Carbon (part #ALF-159-HOOD).",
+    "Wheels: Custom 19x9.5\" ET30 (front) and 19x11\" ET40 (rear) forged wheels from BBS (LM-R II, 3-piece, 5x110 PCD) with custom center locks (BBS Motorsport) and Michelin Pilot Sport Cup 2 tires (255/35/19 front, 295/30/19 rear)."
+  ]
+}

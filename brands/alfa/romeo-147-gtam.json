@@ -1,0 +1,14 @@
+{
+  "brand": "ALFA",
+  "model": "ROMEO 147 GTAM",
+  "prestazioni": [
+    "Engine: 3.2L V6 (936 A1) with forged internals including Carrillo H-beam connecting rods, JE 12.5:1 forged pistons, and ARP head studs for 500+ HP reliability under forced induction. Turbocharged with a Garrett GTX3582R Gen II turbo (0.82 A/R, 62mm compressor wheel) on a custom 3.5-inch stainless steel exhaust manifold by Ragazzon Racing, paired with a Tial MV-R 44mm external wastegate and 3-inch downpipe.",
+    "Fuel System: Full return-style fuel system with an Aeromotive A1000 fuel pump, ID1000x injectors, and a Radium Engineering dual catch can setup to prevent oil dilution. ECU remapped via a standalone Motec M150 with custom GTAm-specific maps, including launch control and flat-foot shifting for the 6-speed C63 manual transmission (upgraded with a Sachs Performance twin-disc clutch and Quaife ATB differential).",
+    "Suspension & Brakes: Ohlins Road & Track DFV coilovers with 8kg/mm front and 10kg/mm rear springs, adjustable camber plates, and spherical bearing top mounts. Braking system upgraded to Alcon 6-pot front calipers with 355mm two-piece rotors and Ferodo DS2500 pads, paired with Brembo 4-pot rear calipers and 330mm rotors. Chassis reinforcement via a custom bolt-in roll cage by Autopower Industries with integrated strut tower braces."
+  ],
+  "estetica": [
+    "Aerodynamics: Custom carbon fiber widebody kit by Novitec (GTAm-specific, not 147 GTA) with extended front fenders, aggressive rear overfenders, and a functional rear diffuser. Front splitter and rear wing by Prior Design (PD147GTAM), designed for 150kg of downforce at 200km/h. Carbon fiber hood with dual NACA ducts for engine bay cooling.",
+    "Exterior: Full respray in Alfa Rosso Competizione with matte black accents, including OZ Racing Ultraleggera HLT wheels (8.5x18 ET35 front, 9.5x18 ET30 rear) wrapped in Michelin Pilot Sport Cup 2 tires (235/40/18 front, 265/35/18 rear). Carbon fiber side skirts and mirror caps by Zender, with LED taillights by LUX Auto and a custom titanium exhaust tip by Remus.",
+    "Interior: Full Alcantara retrim by Sabelt, including Recaro SRD-E seats (GTAm-specific, FIA-approved) with 6-point Schroth harnesses. Custom carbon fiber dashboard overlay by Varis, Momo Prototipo steering wheel with quick-release hub, and a digital dash by AIM MXS Strada. Rear seats removed and replaced with a carbon fiber storage panel for a fire extinguisher and battery relocation kit."
+  ]
+}

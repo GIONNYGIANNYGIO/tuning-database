@@ -1,0 +1,14 @@
+{
+  "brand": "ACURA",
+  "model": "NSX GT3 EVO22",
+  "prestazioni": [
+    "Honda HR-35TT (3.5L twin-turbo V6) engine: Replace the OEM Garrett MGT2259S turbos with Precision Turbo & Engine PT6266 CEA billet wheel turbos (62mm inducer, 66mm exducer) paired with a custom 4-ply silicone charge pipe system from Vibrant Performance (3.5\" diameter, 90-degree mandrel bends) to eliminate boost leaks under sustained 2.5-bar pressure in GT3 endurance races.",
+    "Motec M150 ECU with NSX GT3-specific firmware (v22.3.4) recalibrated for E85 fuel blend (60% ethanol) with custom ignition timing maps (12.5:1 AFR target at 7,500 RPM) and launch control strategy optimized for Pirelli P Zero DHE 30/68-18 front and 31/71-18 rear tires on a carbon-fiber monocoque chassis.",
+    "Penske 8760 3-way adjustable coilovers with spherical bearing top mounts (2.5\" ID, 14-position rebound, 24-position compression) and custom valving for the NSX GT3 EVO22’s aluminum-intensive front double-wishbone and rear multi-link suspension, paired with a 30mm front sway bar (hollow, 4130 chromoly) from Hyperco to reduce understeer in high-speed S-turns like Suzuka’s 130R."
+  ],
+  "estetica": [
+    "Full-carbon fiber GT3 EVO22 aero package from STILLEN, including a 2,000mm-wide front splitter with 12mm dive planes (adjustable via quick-release Dzus fasteners) and a 1,800mm-wide rear diffuser with integrated Gurney flap (30mm height) for +1,200 lbs of downforce at 180 mph, all coated in 3M Matte Carbon Fiber Wrap (2080 series).",
+    "OMP Carbon-Kevlar GT3 racing seats (HANS-compatible, FIA 8862-2009 certified) with custom Alcantara suede upholstery (Alcantara Milano, 1.2mm thickness) and embroidered NSX GT3 EVO22 logos (PMS 186C red) on the headrests, paired with a Schroth 6-point harness (ASM2, 3\" wide, pull-down adjusters) for driver restraint.",
+    "Custom livery design by Driven Artworks featuring a \"Digital Camo\" motif (hexagonal pixel pattern) in PPG Deltron DBC9700 basecoat with a high-gloss clearcoat (PPG Concept DCU2041) and sponsor decals (e.g., Hankook Ventus Race, Brembo Racing) applied via 3M 1080 vinyl (matte black, cut via CNC plotter for precision edges)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "ACURA",
+  "model": "NSX-R PROTOTYPE",
+  "prestazioni": [
+    "C32B Type-R 3.2L V6 engine (C32B1) with a custom-forged internals kit from Tomei, including billet crankshaft (87mm stroke), forged I-beam connecting rods (Tomei Pro-Rod), and forged pistons (JE 2618 alloy, 11.5:1 compression ratio) to handle 1,200+ hp under forced induction",
+    "Custom twin-turbo system utilizing Garrett GTX5533R Gen II turbos (84mm inducer, 1.15 A/R turbine housing) with TiAL MV-R 44mm wastegates and a custom 4-inch stainless steel exhaust system (Burns Stainless merge collectors, GReddy Revolution RS mufflers) for optimized spool and top-end flow",
+    "Motec M150 ECU with a bespoke NSX-R Prototype calibration map, integrating a dual Bosch Motorsport 0280158862 high-flow fuel pump setup, ID1700x injectors, and a custom water-methanol injection system (AEM 3400psi pump, Snow Performance Stage 3 kit) for charge cooling and detonation control"
+  ],
+  "estetica": [
+    "Full carbon fiber widebody conversion using a custom NSX-R Prototype-specific Rocket Bunny V3 kit (modified to fit the prototype’s unique chassis dimensions), including extended front fenders (30mm wider per side), rear quarter panels (50mm wider), and a custom carbon fiber rear diffuser with integrated titanium exhaust outlets",
+    "Ohlins TTX46 coilovers with custom valving for the NSX-R Prototype’s aluminum-intensive chassis, paired with a full Cusco Type-RS roll cage (chromoly steel, TIG-welded) and a custom front strut tower brace (T6061 aluminum, CNC-machined by J's Racing) to eliminate chassis flex under extreme lateral loads",
+    "Custom carbon fiber front splitter (designed in collaboration with Voltex) with integrated canards (3D-printed titanium, 5-axis CNC-finished) and a rear wing based on the 1995 NSX-R GT2 race car’s design (carbon fiber, 1,800mm span, adjustable dual-element Gurney flaps, manufactured by AutoTecknica)"
+  ]
+}

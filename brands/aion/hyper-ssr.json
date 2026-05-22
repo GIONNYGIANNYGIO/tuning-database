@@ -1,0 +1,14 @@
+{
+  "brand": "AION",
+  "model": "HYPER SSR",
+  "prestazioni": [
+    "Upgrade to a **GTA-9000** electric motor system (dual-motor, front/rear) with **Siemens VCU (Vehicle Control Unit) Stage 2 firmware**, unlocking 1,200 kW (1,609 hp) and 2,140 Nm of torque via a **Magna PT eDS** high-voltage inverter with silicon carbide (SiC) MOSFETs for 98% efficiency at 900V",
+    "Install **SKF Hybrid Ceramic Bearings (6205-2RS1/C3H)** in the motor housings and **AP Racing CP9660-1000** carbon-ceramic brake rotors (420mm front, 380mm rear) with **Brembo GP4-MS** 6-piston calipers, paired with **Pagid RSX1** racing pads for 1,200°C heat resistance",
+    "Replace the stock **CATL Qilin CTP 3.0** battery pack with a **StoreDot 5-minute Extreme Fast Charging (XFC) 100 kWh** module, featuring **silicon-dominant anode cells (120 Ah, 4680 format)** and a **Mahle Jet Ignition (MJI)-inspired thermal management system** with **3M Novec 7100** dielectric fluid immersion cooling"
+  ],
+  "estetica": [
+    "Fit a **Liberty Walk LB-WORKS** widebody kit (carbon fiber, 50mm extended fenders) with **custom AION SSR-specific side skirts** and a **Rocket Bunny V3.5** duckbill rear wing (adjustable carbon fiber, 3D-printed airfoil supports)",
+    "Install **Oracle Lighting RGB+UV** underglow with **Philips Lumileds Luxeon CZ** LEDs (3000K-12000K spectrum, 1,800 lumens per meter) and a **custom GReddy-style front splitter** with **Vortex Generators (VGs)** for active aero tuning via **Bosch MM5.10** sensors",
+    "Replace stock wheels with **BBS CI-R II (20x10.5 ET25 front, 21x12.5 ET35 rear)** in **Forgeline TF3** finish, wrapped in **Michelin Pilot Sport Cup 2 R** tires (275/30 R20 front, 325/25 R21 rear) and paired with **HRE FlowForm FF03** center-lock adapters"
+  ]
+}

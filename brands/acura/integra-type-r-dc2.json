@@ -1,0 +1,14 @@
+{
+  "brand": "ACURA",
+  "model": "INTEGRA TYPE R DC2",
+  "prestazioni": [
+    "Engine: B18C5 (1.8L DOHC VTEC, 8,400 RPM redline) with a custom-built 9.0:1 compression forged rotating assembly using JE 87mm forged pistons, Eagle H-beam connecting rods, and a billet crankshaft from Toda Racing, paired with Toda Racing Type-R spec camshafts (264° intake/264° exhaust, 12.0mm lift) and upgraded valve springs/retainers from Jun Auto.",
+    "Forced Induction: Single-turbo setup using a Garrett GT3076R .86 A/R turbocharger with a custom 3-inch stainless steel exhaust manifold from HyTech Exhaust, mated to a GReddy Type-S front-mount intercooler (400hp core) and a custom 3-inch aluminum intake piping system with a HKS SSQV blow-off valve. Fuel system upgraded with a Walbro 450 LPH in-tank fuel pump, Injector Dynamics ID1000 fuel injectors, and a Hondata K-Pro ECU for precise tuning.",
+    "Suspension & Chassis: Full Ohlins Road & Track DFV coilover kit (DC2-specific valving) with spherical bearing front upper control arms from Buddy Club, Cusco 22mm front/18mm rear adjustable sway bars, and a full seam-welded chassis with a DC2-specific bolt-in roll cage from AutoPower Industries (4-point, mild steel). Braking system upgraded to Endless 6-piston front calipers with 330mm two-piece rotors and Ferodo DS2500 pads, paired with stainless steel braided lines from Goodridge."
+  ],
+  "estetica": [
+    "Aero: Full Mugen RR-style widebody conversion kit (DC2-specific) with carbon fiber front bumper, side skirts, and rear diffuser from Veilside, paired with a custom 17x9.5 +35 front / 17x10.5 +38 rear wheel setup using Volk Racing TE37SL wheels in 15x10 +15 (front) and 17x11 +0 (rear) staggered fitment, wrapped in Toyo R888R 235/40/17 and 265/35/17 tires.",
+    "Exterior: Full JDM-spec conversion with OEM Honda Integra Type R DC2-R front lip, Mugen rear wing (carbon fiber, 3-piece), and custom rear bumper delete with a relocated tow hook. Paint scheme: Honda Championship White (NH-574) with custom black/gold Mugen-style graphics and a full de-badge except for the red 'Type R' emblem.",
+    "Interior: Full Recaro SRD-E carbon fiber bucket seats (DC2-specific mounts) with Takata 4-point harnesses, a Momo Mod.78 carbon fiber steering wheel (350mm), and a custom half-cage with a relocated AEM X-Series digital dash (replacing the stock cluster). Shift knob upgraded to a Mugen aluminum short shifter with a custom titanium shift rod from Jun Auto, paired with a Cusco rear strut bar and a full sound deadening removal for weight reduction."
+  ]
+}
