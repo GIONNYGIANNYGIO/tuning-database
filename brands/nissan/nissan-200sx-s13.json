@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "Nissan 200SX S13",
+  "prestazioni": [
+    "Engine swap to a **SR20DET (Red Top, 205hp stock)** with a **Garrett GT2860RS-5 turbocharger (0.86 A/R, 60 trim compressor, 76 trim turbine)** paired with a **Tial MV-R 44mm external wastegate** and **GReddy Type-S intercooler (front-mount, 600x300x76mm core)** for optimized airflow and reduced intake temps under boost.",
+    "Full ** Tomei Powered 260° cams (SR20DET-specific grind, 11.5mm lift, 260° duration)** with **Tomei adjustable cam gears (ver.2)** and **HKS Hi-Power 264° valve springs** to prevent valve float at high RPM, paired with a **N1 oil pump** and **JUN forged pistons (87mm, 8.5:1 CR)** for reliability under 400whp.",
+    "Custom **Haltech Elite 2500 ECU** with **AEM 3.5bar MAP sensor** and **Innovate LC-2 wideband O2 controller** for precise fuel mapping, paired with a **Walbro 450LPH in-tank fuel pump**, **ID1000x injectors (1000cc/min, low impedance)**, and **Nismo 550cc/min fuel rail** to support E85 blends up to 50%."
+  ],
+  "estetica": [
+    "**Rocket Bunny V1 (Pandem) widebody kit** with **custom carbon fiber overfenders (30mm flares front, 50mm rear)** and **Volk Racing TE37SL wheels (15x9 +15 front, 15x10 +22 rear, 4x100 PCD)** wrapped in **Toyo R888R tires (225/45/15 front, 245/40/15 rear)** for aggressive stance and grip.",
+    "**Sparco Pro ADV seat (carbon fiber shell, FIA-approved)** with **Takata Drift II 4-point harness** and **NRG Innovations quick-release steering wheel hub (SRK-200)** for driver ergonomics, paired with a **Nismo S13-specific bolt-in roll cage (8-point, mild steel, gusseted)** for chassis rigidity and safety.",
+    "**Custom front bumper lip (S13-specific, 3D-printed ABS with integrated LED turn signals)** and **Seibon carbon fiber hood (SR20DET vented, 50% weight reduction)** with **custom matte black vinyl wrap (3M 2080-G12, satin finish)** and **JDM-spec Nissan 'Silvia' rear badging (blacked-out, OEM+ style)** for a stealth-aggressive look."
+  ]
+}

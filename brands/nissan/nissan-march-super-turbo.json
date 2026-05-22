@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "Nissan March Super Turbo",
+  "prestazioni": [
+    "MA09ERT (930cc inline-4) engine: Full forged internals with JE 8.5:1 compression pistons, Eagle H-beam connecting rods, and a billet crankshaft to handle 1.5-bar boost reliably. Pair with a Garrett GT1549 turbo (modified compressor wheel for 250whp) and a Tomei 264° camshaft for optimized top-end power without sacrificing low-end torque.",
+    "Custom Motec M150 ECU with individual cylinder fuel trims and knock control, paired with a Haltech CAN-based wideband O2 controller for precise AFR targeting (11.8:1 under full load). Upgraded fuel system includes a Walbro 255lph in-tank pump, Nismo 550cc/min injectors, and a Sard 6AN fuel rail with -6AN braided lines.",
+    "Chassis reinforcement via Cusco bolt-in 4-point roll cage (R32 GT-R-spec) and a Nismo R31 Skyline-inspired strut tower brace. Suspension overhaul with Tein Flex Z coilovers (8kg/mm front, 6kg/mm rear springs) and SuperPro poly bushings (front control arms, subframe, and differential mounts) to eliminate torque steer under hard launches."
+  ],
+  "estetica": [
+    "Vertex Lang II aero kit (R32 GT-R-inspired front bumper with integrated intercooler vents, side skirts with March R turbo badging, and a carbon fiber duckbill spoiler). Rear diffuser from a Nissan Pulsar GTi-R (RNN14) modified to fit the March’s rear bumper.",
+    "Work Meister S1 3P 15x7 +38 wheels (185/50R15 Yokohama Advan Neova AD08R tires) with custom 5x114.3 hub conversion using Nissan Silvia (S13) wheel spacers. Front fenders rolled and pulled 15mm for clearance, with rear fenders widened 20mm via custom steel flares.",
+    "Interior stripped of sound deadening, replaced with Bride Zeta III bucket seats (March-specific mounting brackets) and a Nismo R32 GT-R 320mm steering wheel. Full custom gauge cluster with Defi Advance BF series (boost, oil temp, oil pressure) and a March R-specific turbo timer integrated into the A-pillar."
+  ]
+}

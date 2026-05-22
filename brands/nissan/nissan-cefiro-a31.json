@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "Nissan Cefiro A31",
+  "prestazioni": [
+    "RB20DET (2.0L inline-6 turbo) forced induction upgrade: Garrett GT2860RS-5 turbocharger with billet compressor wheel, 0.64 A/R turbine housing, and TiAL MV-R 44mm external wastegate, paired with Tomei 260° cams (11.5mm lift) and HKS Hi-Power exhaust manifold with 304 stainless steel headers",
+    "N1-spec RB20DET bottom-end reinforcement: Tomei forged pistons (87mm, 8.5:1 compression), Eagle H-beam connecting rods, ACL Race Series main and rod bearings, and Tomei Type-S head studs with ARP main studs for 1.5-bar boost capability",
+    "Haltech Elite 2500 standalone ECU with custom 3D-printed intake manifold (polycarbonate, 70mm throttle body) featuring dual Bosch 0280155862 1000cc injectors, Walbro 450LPH in-tank fuel pump, and HKS F-CON V Pro fuel controller for E85 compatibility"
+  ],
+  "estetica": [
+    "Vertex Lang II widebody kit (A31-specific, 30mm extended fenders) with custom carbon fiber overfenders (1000gsm twill weave) and Rocket Bunny rear bumper lip (polyurethane, 3-piece bolt-on)",
+    "JUN Auto Mechanics A31 front bumper (1990-1994 JDM-spec) with integrated C-West canards and custom aluminum radiator support (5mm thick, 30% weight reduction) for RB20DET intercooler clearance",
+    "Work Meister S1 3P 17x9.5 +22 front / 17x10.5 +30 rear wheels (5x114.3, 73.1mm CB) with Yokohama Advan A052 semi-slick tires (235/40/17 front, 265/35/17 rear) and custom polycarbonate rear quarter windows (3mm thick, 40% weight savings)"
+  ]
+}
