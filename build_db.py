@@ -7,13 +7,13 @@ import requests
 GEMINI_KEY = os.getenv('GEMINI_API_KEY')
 MISTRAL_KEY = os.getenv("MISTRAL_API_KEY")
 
-# URL diretto per le API di Gemini (senza usare la libreria che si blocca)
+# URL diretto per le API di Gemini
 API_URL_GEMINI = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={GEMINI_KEY}"
 
 # Alziamo a 20 auto a sessione
 BATCH_SIZE = 20  
 
-def chiedi a gemini_diretto(car_name, prompt):
+def chiedi_a_gemini_diretto(car_name, prompt):
     """Chiama Gemini 2.0 tramite richiesta HTTP diretta, evitando blocchi della libreria"""
     if not GEMINI_KEY:
         return None
@@ -101,12 +101,10 @@ def get_ai_data(car_name, forza_mistral=False):
     # Tentativo diretto con Gemini
     res_g = chiedi_a_gemini_diretto(car_name, prompt)
     if res_g == "DAILY_LIMIT":
-        # Passiamo immediatamente a Mistral
         return chiedi_a_mistral(car_name, prompt), True
     elif res_g:
         return res_g, False
         
-    # Se Gemini fallisce genericamente (es. timeout), prova Mistral come backup immediato
     print(f"-> [Gemini] Errore di risposta. Tento il backup su Mistral per {car_name}...")
     return chiedi_a_mistral(car_name, prompt), False
 
