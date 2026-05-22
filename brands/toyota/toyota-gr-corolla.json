@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "Toyota GR Corolla",
+  "prestazioni": [
+    "G16E-GTS 1.6L turbocharged inline-3 engine: Full forged internals kit from Tomei, including billet crankshaft (88mm stroke), forged I-beam connecting rods (H-beam design), and forged aluminum pistons (8.5:1 compression ratio) with DLC-coated skirts for reduced friction and increased durability under 40+ psi boost.",
+    "Turbocharger upgrade to Garrett GTX3582R Gen II with a 76mm compressor wheel (76/62 trim) and 64mm turbine wheel (64/60 trim), paired with a custom 3.5-inch stainless steel downpipe (Tial 44mm external wastegate) and a GReddy Profec B Spec II boost controller for precise 35+ psi mapping.",
+    "Full Motec M150 ECU standalone engine management system with custom CAN bus integration for the GR-Four AWD system, including individual cylinder fuel trims, anti-lag ignition timing (2-step launch control at 6,500 RPM), and a 4D ignition map for E85 flex-fuel compatibility (via Continental ethanol content sensor)."
+  ],
+  "estetica": [
+    "Liberty Walk LB-WORKS GR Corolla-specific widebody kit (carbon fiber fenders, front/rear bumpers, and side skirts) with integrated OLM LED fog light deletes and a custom 3D-printed front splitter (50mm overhang) for increased downforce at 120+ mph.",
+    "Voltex Type-5 rear wing (1,800mm width, 300mm chord) with adjustable carbon fiber endplates and a Gurney flap (10mm height), mounted on custom aluminum pedestals (30mm height) for optimal rear downforce (200+ kg at 160 km/h).",
+    "OEM+ GR Corolla interior overhaul: Recaro SP-G (JDM-spec) front seats with Schroth Profi II 6-point harnesses, a custom GR-specific roll cage (TIG-welded 4130 chromoly, 6-point with integrated harness bars) by Cusco, and a digital dash upgrade to an AIM MXS Strada 1.2 (with G16E-GTS-specific CAN bus data logging)."
+  ]
+}

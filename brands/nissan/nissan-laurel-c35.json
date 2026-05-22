@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "Nissan Laurel C35",
+  "prestazioni": [
+    "RB25DET NEO (2.5L inline-6) forced induction upgrade using a Garrett GT3582R turbocharger (0.82 A/R turbine housing) paired with a Tomei 264°/260° camshaft set, HKS 272 fuel pump, and Nismo 740cc top-feed injectors for a target of 450whp on E85 fuel with a Haltech Elite 2500 standalone ECU",
+    "Full drivetrain reinforcement with a Nismo OS Giken 2.2L limited-slip differential, Tomei 3.54:1 final gear ratio, and custom 3.5-inch driveshaft with reinforced CV joints (C35-specific) to handle increased torque",
+    "Suspension overhaul with Tein Flex Z coilovers (C35-specific valving), Cusco 22mm front sway bar, and Nismo reinforced rear trailing arms with poly bushings, paired with Endless CC-R brake pads and DBA 5000 Series rotors for track-capable stopping power"
+  ],
+  "estetica": [
+    "Vertex Japan 'Racing' front bumper with integrated canards and a custom 3D-printed carbon fiber splitter (C35-specific mounting points), paired with a Veilside Fortune II rear wing (modified to fit C35 trunk contours) for aggressive JDM styling",
+    "Work Meister S1 3P 17x9.5 +38 wheels (C35-specific offsets) wrapped in Toyo R888R 245/40R17 tires, with custom fender flares (FRP construction) to accommodate wider track width and aggressive camber",
+    "Full interior overhaul with Bride Zeta III bucket seats (C35-specific mounting brackets), Nismo 350mm steering wheel with quick-release hub, and a custom half-cage (TIG-welded 4130 chromoly) painted in Nissan Racing Orange (KH3) with matching Recaro SRD harnesses"
+  ]
+}

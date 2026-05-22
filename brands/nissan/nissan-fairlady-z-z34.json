@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "Nissan Fairlady Z Z34",
+  "prestazioni": [
+    "VQ37VHR 3.7L V6 engine (7000 RPM redline) with a HKS GT-SS turbo kit featuring a Garrett GTX3582R turbocharger (1.05 A/R turbine housing, 0.82 A/R compressor housing), HKS 264°/264° camshafts, Tomei 272°/272° high-lift camshafts, and a custom 3-inch stainless steel exhaust system with a Tomei 4-2-1 header and HKS Hi-Power SPEC-L muffler for optimized scavenging and backpressure reduction",
+    "Nismo S-Tune GT engine control unit (ECU) reflash with custom dyno-tuned map by Top Secret Japan, targeting 550 WHP on E85 fuel with a 22 PSI boost threshold, paired with a Haltech Elite 2500 standalone ECU for advanced traction control and launch control tuning",
+    "KW Suspension Clubsport coilovers with 8-position adjustable damping, 3-way adjustable rebound, and 20mm front/15mm rear adjustable ride height, combined with Nismo S-Tune front and rear sway bars (24mm front, 22mm rear) and Super HICAS delete kit for enhanced mid-corner adjustability and reduced understeer"
+  ],
+  "estetica": [
+    "Veilside Fortune 3 widebody conversion kit with custom carbon fiber front fenders, rear quarter panels, and rear bumper, paired with a Rocket Bunny V3 rear diffuser and custom 3D-printed carbon fiber side skirts for aggressive stance and aerodynamic balance",
+    "Seibon Carbon fiber GT-style hood with integrated NACA ducts for direct air induction into the HKS GT-SS intercooler, matched with a custom carbon fiber trunk lid featuring a ducktail spoiler and integrated third brake light for reduced weight and improved rear downforce",
+    "Work Meister S1 3P 19x10.5 +20 front and 19x12 +25 rear wheels with custom gold/polished lip finish, wrapped in Michelin Pilot Sport Cup 2 R tires (275/35/19 front, 305/30/19 rear), paired with Nismo 4-piston front and 2-piston rear big brake kit with 380mm slotted rotors for track-ready stopping power"
+  ]
+}

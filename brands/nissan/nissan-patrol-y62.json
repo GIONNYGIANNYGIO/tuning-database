@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "Nissan Patrol Y62",
+  "prestazioni": [
+    "VK56VD 5.6L V8 engine: Full forged internals upgrade with Manley 4340 steel crankshaft (stroke maintained at 98mm), Carrillo H-beam connecting rods, and JE Pistons 2618 forged pistons (9.0:1 compression ratio) for 800+ HP reliability on E85 fuel. Pair with a custom billet oil pump from Tomei for VK-series engines to handle increased oil demand under high-RPM boost.",
+    "Turbocharger system: Twin Precision Turbo PT6766 CEA ball-bearing turbos (67mm compressor, 66mm turbine) with custom 3.5-inch stainless steel exhaust manifolds (fabricated by Full-Race Motorsports) and TiAL MV-R 44mm wastegates. Intercooler setup includes a custom air-to-water intercooler core from PWR (Australia) with a 10L ice reservoir and Bosch 044 fuel pump-driven coolant circulation for consistent intake temps under 40°C.",
+    "Fuel and ignition: Full Motec M150 ECU with flex-fuel capability, paired with a dual Bosch 044 fuel pump setup and Injector Dynamics ID2000x injectors (2000cc/min). Ignition system upgraded to AEM CDI coils and NGK IFR9H-11 iridium spark plugs gapped at 0.028 inches. Custom 3-inch titanium intake system with a K&N conical filter and velocity stack for optimized airflow to the turbos."
+  ],
+  "estetica": [
+    "Widebody conversion: Custom carbon fiber widebody kit from Liberty Walk (LB-WORKS Y62-specific design) with extended fenders (50mm front, 70mm rear), integrated side skirts, and a vented hood with a central scoop for intercooler cooling. Kit includes custom carbon fiber rear diffuser and front splitter with adjustable canards for downforce tuning.",
+    "Suspension and stance: Full Air Lift Performance 3P management system with custom Y62-specific struts (fabricated by AccuAir) and Air Lift Slam Series bags. Front control arms replaced with adjustable chromoly units from SuperPro (Australia) for camber correction, paired with Ohlins Road & Track coilovers (custom valving for Y62 weight distribution). Wheel setup: Rotiform LAS-R 22x12 +15 (front) and 22x13 +25 (rear) with Michelin Pilot Sport Cup 2 tires (295/25 front, 325/25 rear).",
+    "Aerodynamics and lighting: Custom rear wing from Rocket Bunny (Pandem Y62-specific design) with adjustable carbon fiber elements for 150+ kg of downforce at 160 km/h. Front bumper replaced with a custom 3D-printed unit (from 3D Carbon) featuring integrated LED light bars (Luxx Lighting 80W CREE pods) and a carbon fiber tow hook. Side mirrors replaced with carbon fiber units from Seibon, and rear lights upgraded to custom sequential LED taillights (fabricated by Diode Dynamics)."
+  ]
+}
