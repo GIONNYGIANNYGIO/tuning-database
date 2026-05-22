@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "Nissan Z Nismo",
+  "prestazioni": [
+    "VR30DDTT 3.0L twin-turbo V6 engine: Full bolt-on turbo upgrade to Garrett GTX4202R Gen II turbos with billet compressor wheels, 64mm inducer, and 0.82 A/R turbine housings, paired with Tomei 272° cams (intake/exhaust) and Tomei Type-2 valve springs for 8,500 RPM redline capability. Supporting mods include a GReddy intercooler kit with 1,200cc/min core and 3-inch charge piping, plus a custom 3.5-inch titanium exhaust system by HKS Hi-Power with 304 stainless steel headers and 100-cell GReddy Racing Spec catalytic converters for 550whp on 93 octane.",
+    "Dry sump oiling system by Peterson Fluid Systems with 8-stage scavenging, 10-quart capacity, and integrated oil cooler, paired with a Nismo-spec reinforced crankshaft and Carrillo H-beam connecting rods. The fuel system is upgraded with Injector Dynamics ID1700x injectors, dual Walbro 450LPH pumps, and a Radium Engineering dual catch can setup with -10AN lines to prevent oil starvation under sustained 1.5G lateral loads.",
+    "Nismo-tuned ECU reflash via Cobb Accessport V3 with custom OSID (Operating System ID) 96530-5NZ0C, optimized for E85 flex-fuel with 28psi peak boost on a 3.5L stroker kit (Forgestar F14 102mm billet crank, JE 9:1 forged pistons). Suspension is fully rebuilt with Ohlins Road & Track DFV coilovers (2-way adjustable damping), Nismo-spec front strut tower brace, and polyurethane bushings from SuperPro (part #SPF1002K) for subframe reinforcement."
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (Z34-specific) with carbon fiber fenders, overfenders, and front bumper canards, paired with a custom 3M Matte Graphite vinyl wrap and Nismo S-Tune GT rear diffuser. The rear wing is a dry carbon fiber Voltex Type-7 (2,200mm span) with adjustable angle of attack (0-15°) and integrated DRS (Drag Reduction System) for high-speed stability.",
+    "Nismo LMGT4-spec forged aluminum wheels (19x10.5 +15 front, 19x12 +25 rear) in Gunmetal finish, wrapped in Michelin Pilot Sport Cup 2 R tires (275/35/19 front, 325/30/19 rear). Brake system features AP Racing Radi-CAL 6-piston front calipers with 400mm two-piece rotors (J-Hook slotted) and Ferodo DS2500 pads, paired with a custom stainless steel brake line kit by Goodridge.",
+    "Interior stripped and reinforced with a full Nismo GT-R-spec roll cage (10-point, TIG-welded) by AutoPower Industries, featuring removable door bars and integrated harness bar. Seats are Recaro SPG XL (FIA 8862-2009 certified) with Schroth Profi II 6-point harnesses, and the dashboard is replaced with a carbon fiber panel from Seibon, housing a Motec C127 dash logger and AiM MXL2 data acquisition system."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "Nissan Silvia S12",
+  "prestazioni": [
+    "FIC (Fuel Injection Corporation) 740cc top-feed injectors for the CA18DET engine, paired with a Tomei 260° camshaft kit (intake: 260° duration, 10.5mm lift; exhaust: 260° duration, 10.0mm lift) and a Garrett GT2860RS turbocharger (0.64 A/R turbine housing, 60 trim compressor wheel) to achieve 350whp on 1.5 bar of boost with a custom Haltech Elite 1500 ECU tune",
+    "Nismo 555X forged pistons (87mm bore, 8.5:1 compression) with Eagle H-beam connecting rods and ACL Race Series main/rod bearings, mated to a Tomei Type-M 70mm stroker crankshaft for a 2.2L displacement on the CA18DET block, reinforced with a Tomei billet oil pump and ARP head studs (12mm, 190,000 psi tensile strength)",
+    "Custom 3-inch turbo-back exhaust system by HKS Hi-Power Spec-S (S12-specific 4-2-1 merge collector, 200-cell GReddy catalytic converter, and a 3.5-inch titanium-wrapped HKS Silent Hi-Power muffler) with a Tomei 4-1 equal-length header (1.75-inch primaries, 3-inch collector) and a GReddy Profec B Spec II boost controller for precise wastegate actuation"
+  ],
+  "estetica": [
+    "Rocket Bunny V1 S12 widebody kit (1987-1989 specific, with carbon fiber overfenders, front bumper canards, and a duckbill rear spoiler) painted in Nissan’s original “Silvia Blue” (code: 5G7) with a 3M Matte Black wrap on the roof and hood",
+    "Work Meister S1 3-piece wheels (16x9.5 +15 front, 16x10.5 +20 rear) in a custom bronze finish, wrapped in Toyo R888R tires (225/50/16 front, 245/45/16 rear) with BC Racing BR coilovers (Type-RS, 8kg front/10kg rear spring rates) and Cusco front/rear strut tower bars (22mm diameter, 1.2mm wall thickness)",
+    "S12-specific JUN Auto rear diffuser (carbon fiber, bolt-on for stock bumper) with a custom front splitter by Garage Mak (polyurethane, 3-inch overhang) and a set of Okuyama carbon fiber side skirts (1987-1988 notchback-specific fitment), complemented by a Nismo S12 rear badge (red/black) and a custom CA18DET engine plaque by Defi"
+  ]
+}

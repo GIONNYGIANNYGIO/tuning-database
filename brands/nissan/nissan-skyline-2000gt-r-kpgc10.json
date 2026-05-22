@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "Nissan Skyline 2000GT-R KPGC10",
+  "prestazioni": [
+    "Engine: S20 (2.0L DOHC inline-6) with forged internals including Tomei 87mm forged pistons, Eagle H-beam connecting rods, and a Tomei Type-M crankshaft for 12,000 RPM reliability. Twin Garrett GT2860RS turbochargers with custom 38mm wastegates and 44mm external HKS wastegate dump tubes, paired with a custom front-mount intercooler (GReddy Type-45) and HKS SSQV blow-off valves.",
+    "Fuel System: Full standalone Haltech Elite 2500 ECU with individual throttle bodies (ITBs) from Jenvey Dynamics (45mm diameter), fed by a dual Bosch 044 fuel pump setup and Injector Dynamics ID1000 fuel injectors. Custom fuel rail and AN-6 braided lines with Earl’s Performance fittings.",
+    "Drivetrain: OS Giken 2.2L limited-slip differential with billet carrier, paired with a Holinger RD6 sequential gearbox (6-speed) and a Tilton twin-plate ceramic clutch. Custom driveshaft from Driveshaft Shop with 3.5-inch aluminum tubing and CV joints rated for 800+ HP."
+  ],
+  "estetica": [
+    "Body: Full Rocket Bunny KPGC10-specific widebody kit (Version 2) with carbon fiber fenders, front bumper, and rear diffuser. Custom vented hood with NACA ducts for intercooler airflow, fabricated by TRA Kyoto. Rear wing is a custom 1/4-scale replica of the Nismo R34 GT-R wing, hand-formed in aluminum by Auto Produce Boss.",
+    "Interior: Full Recaro SRD-E bucket seats with custom KPGC10-specific mounting brackets, wrapped in Alcantara with red stitching (by Status Racing). Custom roll cage by Custom Cages UK (8-point, TIG-welded chromoly) with integrated fire suppression system (Lifeline Zero 360). Momo Prototipo steering wheel with quick-release hub and NRG solid billet wheel spacer.",
+    "Wheels/Tires: Work Meister S1 3P 15x10 +15 front and 15x11 +20 rear, wrapped in Toyo R888R 245/50R15 (front) and 275/50R15 (rear). Custom center-lock adapters by Weld Racing, with titanium hardware from ARP. Brake system includes custom 4-piston calipers (AP Racing CP6600) with 330mm two-piece rotors (DBA 5000 Series) and Ferodo DS3000 pads."
+  ]
+}

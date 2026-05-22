@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "Nissan Silvia S15",
+  "prestazioni": [
+    "SR20DET (blacktop) engine rebuild with Tomei 87mm forged pistons, Eagle H-beam connecting rods, and ACL Race Series bearings, paired with a Garrett GTX3582R turbocharger (0.82 A/R turbine housing) and custom 3-inch stainless steel turbo manifold by Tomei Powered Inc.",
+    "Haltech Elite 2500 standalone ECU with custom SR20DET base map, integrated with a Link G4+ CAN Lambda wideband controller and AEM X-Series 30-0300 oil pressure/temperature sensors for real-time monitoring and adaptive fueling under boost (target AFR: 11.5:1 at 22psi peak)",
+    "Full drivetrain reinforcement including OS Giken Super Lock LSD (2.2-way), N1-spec 5-speed transmission with PPG straight-cut gears (1st: 3.321, 2nd: 2.062, 3rd: 1.308), and a custom 3.916 final drive ratio with a Cusco 2-way limited-slip differential and reinforced axles by Driveshaft Shop (3.5-inch chromoly CV shafts)"
+  ],
+  "estetica": [
+    "Veilside Fortune 03 widebody conversion kit (front fenders extended 50mm, rear fenders 70mm) with custom carbon fiber overfenders by Seibon, paired with a Rocket Bunny V3 rear bumper and a custom 3D-printed front splitter with integrated canards (Aeroflow Dynamics)",
+    "Ohlins Road & Track DFV coilovers (8-position adjustable damping, 30-way adjustable rebound) with custom spring rates (Front: 12kg/mm, Rear: 10kg/mm) and Cusco front strut bar (22mm hollow steel), complemented by Cusco rear lower control arms with adjustable camber plates (-2.5 degrees front, -1.8 degrees rear)",
+    "Full custom interior by Bride (Zeta III reclinable seats with Schroth 6-point harnesses) and a custom roll cage by AutoPower (8-point chromoly, MIG-welded, with integrated harness bar), finished with a Defi BF Series gauge cluster (oil temp, boost, wideband AFR) mounted on a custom carbon fiber A-pillar pod by J's Racing"
+  ]
+}

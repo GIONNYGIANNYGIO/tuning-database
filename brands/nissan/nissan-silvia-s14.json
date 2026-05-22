@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "Nissan Silvia S14",
+  "prestazioni": [
+    "Engine: SR20DET (blacktop or redtop variant) with forged internals including Tomei 87mm forged pistons, Eagle H-beam connecting rods, and a Tomei Type-M 264° camshaft kit for high-RPM power delivery (targeting 450-500whp on E85).",
+    "Turbocharger: Garrett GTX3582R Gen II with a custom 0.82 A/R turbine housing and TiAL MV-R 44mm external wastegate, paired with a Tomei 4-1 stainless steel exhaust manifold and a custom 3.5-inch turbo-back exhaust with a Burns Stainless muffler for optimized spool and top-end flow.",
+    "Fuel & Ignition: Injector Dynamics ID1050x fuel injectors, Walbro 450LPH in-tank fuel pump, and a Link G4+ Xtreme standalone ECU with a custom 3D-printed intake manifold (designed for equal-length runners) and a HKS 2640 spark plug set for aggressive timing maps."
+  ],
+  "estetica": [
+    "Body Kit: Rocket Bunny V2 S14 widebody kit with custom carbon fiber overfenders (3M matte vinyl wrap in 'Gunmetal Grey' for weight savings), paired with a Veilside Fortune front bumper and a custom carbon fiber rear diffuser by Seibon.",
+    "Suspension: Ohlins Road & Track DFV coilovers with custom valving for drift-specific damping, reinforced with Cusco front and rear sway bars (22mm front, 18mm rear) and Energy Suspension polyurethane bushings for chassis rigidity.",
+    "Wheels & Aero: Work Meister S1 3P 18x9.5 +15 (front) and 18x10.5 +25 (rear) wheels with Toyo R888R 245/40/18 and 275/35/18 tires, paired with a custom carbon fiber GT wing by APR Performance (adjustable to 15° angle) and a Cusco front strut tower bar for aerodynamic balance."
+  ]
+}

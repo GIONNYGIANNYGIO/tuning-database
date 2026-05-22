@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "Nissan 200SX S14",
+  "prestazioni": [
+    "SR20DET (black top, 7,000 RPM redline) with a Garrett GTX3076R Gen II turbocharger (0.82 A/R turbine housing, 56mm compressor inducer) paired with a Tomei 264°/260° camshaft set (1.4mm lift, 112° LSA) and Ferrea 5000-series intake/exhaust valves (1mm oversized, titanium retainers)",
+    "N1-spec SR20DET oil pump, JUN 87mm forged pistons (8.5:1 compression), Eagle H-beam connecting rods (5.433\" center-to-center), and a Tomei Type-S 75mm throttle body with a custom 3\" velocity stack intake manifold (aluminum, CNC-ported)",
+    "HKS Hi-Power 260LPH fuel pump, Nismo 550cc/min injectors, AEM 320L/min fuel pressure regulator, and a Haltech Elite 2500 ECU with custom 3D-mapped ignition timing (18° base timing, 28° peak advance) and sequential fuel injection control for the SR20DET"
+  ],
+  "estetica": [
+    "Veilside Fortune 99 widebody conversion kit (fiberglass, 3-piece front fenders, 2-piece rear quarter panels) with custom carbon fiber overfenders (15mm extended wheel arches, aggressive rolled lips)",
+    "Rocket Bunny V2 S14 aero kit (polyurethane, 3D-molded front bumper with integrated canards, side skirts with air curtains, and a duckbill rear spoiler with adjustable Gurney flap) painted in Nissan Racing Yellow (code: 42G)",
+    "Work Meister S1 3P 17x9.5 +22 front / 17x10.5 +30 rear wheels (gunmetal finish, 5x114.3 PCD) wrapped in Toyo R888R 245/40/17 front and 275/35/17 rear tires, paired with BC Racing BR coilovers (12kg front / 10kg rear spring rates, 30-way adjustable damping)"
+  ]
+}

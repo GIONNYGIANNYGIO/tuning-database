@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "Nissan Skyline GT-R R34",
+  "prestazioni": [
+    "RB26DETT engine: Full forged internals with Tomei 87mm stroker kit (2.8L displacement), CP pistons (87mm, 8.5:1 compression), Eagle H-beam connecting rods, Tomei Type-M 264° camshafts, and Tomei titanium retainers for high-RPM stability up to 9,500 RPM redline",
+    "Turbocharger upgrade: Garrett GTX4202R Gen II ball-bearing turbo (62mm compressor, 76mm turbine) with custom 3-inch titanium downpipe, HKS SSQV4 blow-off valve, and Tomei M82 cast manifold for optimized exhaust flow and spool under 3,500 RPM",
+    "Fuel and ignition system: Nismo 550cc/min injectors (side-feed), Walbro 450LPH in-tank fuel pump, Tomei Type-S fuel rail, AEM 320LPH external pump, HKS F-CON V Pro standalone ECU with custom 2-step launch control (5,500 RPM limiter), and NGK R7437-9 Iridium IX spark plugs gapped at 0.028\" for 2.2 bar boost"
+  ],
+  "estetica": [
+    "Chassis and aero: Veilside Fortune 2 widebody kit with carbon fiber front fenders, rear quarter panels, and GT wing (1,200mm span, 30mm adjustable height), custom 3M Matte Gunmetal vinyl wrap with Nismo R34 GT-R M-Spec livery accents, and C-West front bumper with integrated HKS GT-II fog lights",
+    "Suspension and wheels: Ohlins Road & Track DFV coilovers (8-way adjustable damping, 30mm front/20mm rear drop), Cusco front strut tower bar (22mm hollow steel), Nismo R34 GT-R R-Tune 2-piece 18x10.5\" ET15 wheels (9.5kg each) with Toyo R888R 275/35R18 tires, and Project Mu 4-pot front/2-pot rear brake calipers with 356mm slotted rotors",
+    "Interior and lighting: Bride Zeta III bucket seats (FIA-approved, carbon fiber shell) with Takata 4-point harnesses, Nismo R34 GT-R S-Tune steering wheel (350mm diameter, suede grip), Defi BF Advance gauges (oil temp, oil pressure, fuel pressure, boost, and wideband AFR) mounted on a custom carbon fiber A-pillar pod, and Philips LED HID conversion kit (6000K) with Morimoto D2S projectors and custom C-West HID shrouds"
+  ]
+}

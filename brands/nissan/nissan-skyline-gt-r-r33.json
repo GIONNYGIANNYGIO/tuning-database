@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "Nissan Skyline GT-R R33",
+  "prestazioni": [
+    "RB26DETT engine: Full forged internals with Tomei 87mm forged pistons, Eagle H-beam connecting rods, and a Tomei Type-M 2.8L stroker crankshaft for a 2.8L displacement, paired with Tomei 272° camshafts and Tomei adjustable cam gears for optimized valve timing",
+    "Turbocharger upgrade: Garrett GTX4202R with a custom 0.86 A/R turbine housing and 60mm billet compressor wheel, paired with a Tomei M82 cast manifold and HKS SSQV4 blow-off valve for precise boost control up to 2.0 bar (29 psi)",
+    "Fuel system: Nismo 550cc injectors upgraded to ID1000s with an Aeromotive 340 Stealth fuel pump, Walbro 450 LPH in-tank pump, and a Tomei fuel pressure regulator, controlled by a Haltech Elite 2500 standalone ECU with flex-fuel capability and individual cylinder tuning"
+  ],
+  "estetica": [
+    "Body kit: Veilside Fortune 99 widebody conversion with custom carbon fiber front fenders, rear quarter panels, and a one-off carbon fiber hood featuring a functional RB26DETT heat extractor vent",
+    "Suspension: Ohlins Road & Track DFV coilovers with custom valving for the R33 chassis, paired with Cusco pillowball upper mounts and Whiteline adjustable sway bars (24mm front, 22mm rear) for precise handling adjustments",
+    "Wheels and brakes: Work Meister S1 3P 18x10.5 +15 front and 18x11.5 +25 rear wheels with Toyo R888R 275/35/18 and 305/30/18 tires, paired with Endless 6-pot front and 4-pot rear brake calipers with 356mm and 330mm two-piece rotors, respectively"
+  ]
+}

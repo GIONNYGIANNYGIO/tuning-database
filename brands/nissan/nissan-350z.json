@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "Nissan 350Z",
+  "prestazioni": [
+    "VQ35DE (Rev-Up variant, 3.5L V6) forced induction via Garrett GT3582R turbocharger (0.82 A/R turbine housing) with custom 3-inch stainless steel turbo-back exhaust featuring a Tomei 80mm titanium tip and GReddy Revolution RS 70mm downpipe, paired with a HKS SSQV4 blow-off valve and AEM 3.5bar MAP sensor for precise boost control at 12 psi",
+    "Full bolt-on internals upgrade including JE FSR forged pistons (8.8:1 compression), Eagle H-beam connecting rods, and a Tomei Type-M 264°/260° camshaft set with Tomei adjustable cam gears, reinforced with ARP head studs and ACL Race Series main bearings for 550+ whp reliability",
+    "Custom Motec M150 ECU with Nissan 350Z-specific CAN bus integration, running a flex-fuel ethanol sensor and dual Bosch 028 high-flow fuel pumps, fed by Injector Dynamics ID1000 fuel injectors and a Tomei 80mm titanium intake plenum with K&N 9-inch conical filters for optimized airflow"
+  ],
+  "estetica": [
+    "Veilside Fortune 350Z widebody conversion kit with custom carbon fiber overfenders, paired with a Rocket Bunny V3 rear bumper and a Seibon carbon fiber hood featuring a custom 3-inch cowl scoop for direct intercooler ducting",
+    "Ohlins DFV Road & Track coilovers with 8kg/mm front and 10kg/mm rear springs, adjustable top mounts, and custom valving for track use, complemented by Cusco Type RS 22mm front and 20mm rear adjustable sway bars and Energy Suspension polyurethane bushings",
+    "Work Meister S1 3P 18x9.5 +22 front and 18x10.5 +30 rear wheels wrapped in Toyo R888R 255/40/18 and 285/35/18 tires, with custom AP Racing CP6640-2600 front and CP6630-2450 rear brake calipers, 356mm two-piece rotors, and Ferodo DS2500 brake pads"
+  ]
+}
