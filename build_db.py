@@ -6,8 +6,8 @@ import requests
 # Chiave Mistral recuperata dai Secrets di GitHub
 MISTRAL_KEY = os.getenv("MISTRAL_API_KEY")
 
-# Alziamo a 20 auto a sessione
-BATCH_SIZE = 20  
+# 40 auto a sessione (moltiplicato per 6 volte al giorno = 240 auto/giorno)
+BATCH_SIZE = 40  
 
 def chiedi_a_mistral(car_name, prompt):
     """Chiama Mistral AI per la generazione del profilo di tuning"""
@@ -28,7 +28,7 @@ def chiedi_a_mistral(car_name, prompt):
     try:
         r = requests.post("https://api.mistral.ai/v1/chat/completions", headers=headers, json=payload, timeout=25)
         if r.status_code == 429:
-            print("-> [Mistral] Limite di quota (Rate Limit) raggiunto su Mistral.")
+            print("-> [Mistral] Limite di quota (Rate Limit) raggiunto. Sospendo temporaneamente.")
             return "DAILY_LIMIT"
         if r.status_code == 200:
             res = r.json()
@@ -36,7 +36,7 @@ def chiedi_a_mistral(car_name, prompt):
             raw_text = raw_text.replace('```json', '').replace('```', '').strip()
             return json.loads(raw_text)
         else:
-            print(f"-> [Mistral] Errore API (Status: {r.status_code}): {r.text}")
+            print(f"-> [Mistral] Errore API (Status: {r.status_code})")
             return None
     except Exception as e:
         print(f"-> Errore imprevisto su Mistral per {car_name}: {e}")
@@ -73,7 +73,6 @@ def get_ai_data(car_name):
         ]
     }}
     """
-    
     return chiedi_a_mistral(car_name, prompt)
 
 # Carica l'indice esistente o ne crea uno nuovo vuoto
@@ -92,10 +91,9 @@ try:
     with open('cars_to_scrape.txt', 'r') as f:
         all_cars = [l.strip() for l in f if l.strip()]
     
-    # ── ORDINE ALFABETICO AUTOMATICO ──
-    # Mette in ordine alfabetico tutta la lista (A-Z) prima di iniziare il ciclo
+    # Ordine alfabetico automatico
     all_cars.sort()
-    print(f"Lista ordinata alfabeticamente con successo. Totale auto caricate: {len(all_cars)}")
+    print(f"Lista caricata. Totale auto nel foglio: {len(all_cars)}")
 
 except FileNotFoundError:
     print("Errore: 'cars_to_scrape.txt' non trovato.")
@@ -115,7 +113,7 @@ for car in all_cars:
     
     filepath = f"brands/{brand}/{slug}.json"
     
-    # Se esiste già, controlla che sia indicizzato e passa oltre
+    # Se esiste già, si assicura che sia nell'indice e salta
     if os.path.exists(filepath):
         if brand not in index_db:
             index_db[brand] = []
@@ -128,7 +126,7 @@ for car in all_cars:
     data = get_ai_data(car)
     
     if data == "DAILY_LIMIT":
-        print("Blocco di sicurezza: La quota di Mistral è terminata. Arresto lo script.")
+        print("Blocco di sicurezza: Raggiunto limite di quota su Mistral. Salvo l'indice ed esco.")
         break
         
     if data:
@@ -144,12 +142,13 @@ for car in all_cars:
         
         indice_modificato = True
         processed_count += 1
-        time.sleep(35) 
+        # Pausa di sicurezza di 30 secondi ottima per il piano free
+        time.sleep(30) 
     else:
         print(f"Saltata: {car} a causa di un errore di generazione.")
         time.sleep(5)
 
-# Riordina alfabeticamente anche le chiavi e i modelli dentro index.json prima di salvare
+# Riordina alfabeticamente l'indice prima di salvare
 if indice_modificato:
     sorted_index_db = {}
     for b in sorted(index_db.keys()):
@@ -159,4 +158,4 @@ if indice_modificato:
         json.dump(sorted_index_db, f, indent=2, ensure_ascii=False)
     print("Indice index.json aggiornato e ordinato alfabeticamente!")
 
-print(f"\nSessione completata. Auto elaborate in questo turno: {processed_count}")
+print(f"\nSessione completata. Nuove auto salvate: {processed_count}")
