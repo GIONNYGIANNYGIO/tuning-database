@@ -3,38 +3,14 @@ import json
 import time
 import requests
 
-# Chiavi recuperate dai Secrets di GitHub
-GEMINI_KEY = os.getenv('GEMINI_API_KEY')
+# Chiave Mistral recuperata dai Secrets di GitHub
 MISTRAL_KEY = os.getenv("MISTRAL_API_KEY")
-
-# URL diretto per le API di Gemini
-API_URL_GEMINI = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={GEMINI_KEY}"
 
 # Alziamo a 20 auto a sessione
 BATCH_SIZE = 20  
 
-def chiedi_a_gemini_diretto(car_name, prompt):
-    """Chiama Gemini 2.0 tramite richiesta HTTP diretta, evitando blocchi della libreria"""
-    if not GEMINI_KEY:
-        return None
-    headers = {"Content-Type": "application/json"}
-    payload = {"contents": [{"parts": [{"text": prompt}]}]}
-    try:
-        r = requests.post(API_URL_GEMINI, headers=headers, json=payload, timeout=20)
-        if r.status_code == 429 or "ResourceExhausted" in r.text or "limit: 0" in r.text:
-            print("-> [Gemini] Quota giornaliera o limite raggiunto. Attivo il paracadute Mistral AI...")
-            return "DAILY_LIMIT"
-        if r.status_code == 200:
-            res = r.json()
-            raw_text = res['candidates'][0]['content']['parts'][0]['text'].strip()
-            raw_text = raw_text.replace('```json', '').replace('```', '').strip()
-            return json.loads(raw_text)
-    except Exception:
-        return None
-    return None
-
 def chiedi_a_mistral(car_name, prompt):
-    """Paracadute: Chiama Mistral AI se Gemini ha esaurito la quota giornaliera"""
+    """Chiama Mistral AI per la generazione del profilo di tuning"""
     if not MISTRAL_KEY:
         print("-> [Mistral] Chiave MISTRAL_API_KEY non configurata nei Secrets di GitHub.")
         return None
@@ -44,27 +20,34 @@ def chiedi_a_mistral(car_name, prompt):
         "Content-Type": "application/json"
     }
     payload = {
-        "model": "mistral-large-latest",
+        "model": "mistral-large-latest", # Modello avanzato per la qualità dei codici motore e dettagli
         "messages": [{"role": "user", "content": prompt}],
         "temperature": 0.3
     }
     
     try:
-        r = requests.post("https://api.mistral.ai/v1/chat/completions", headers=headers, json=payload, timeout=20)
+        r = requests.post("https://api.mistral.ai/v1/chat/completions", headers=headers, json=payload, timeout=25)
         if r.status_code == 429:
-            print("-> [Mistral] Limite di quota raggiunto anche su Mistral.")
+            print("-> [Mistral] Limite di quota (Rate Limit) raggiunto su Mistral.")
             return "DAILY_LIMIT"
         if r.status_code == 200:
             res = r.json()
             raw_text = res['choices'][0]['message']['content'].strip()
+            # Pulizia rapida di eventuali blocchi markdown json
             raw_text = raw_text.replace('```json', '').replace('```', '').strip()
             return json.loads(raw_text)
-    except Exception:
+        else:
+            print(f"-> [Mistral] Errore API (Status: {r.status_code}): {r.text}")
+            return None
+    except Exception as e:
+        print(f"-> Errore imprevisto su Mistral per {car_name}: {e}")
         return None
-    return None
 
-def get_ai_data(car_name, forza_mistral=False):
+def get_ai_data(car_name):
     brand_name = car_name.split()[0]
+    
+    # Puliamo il nome per il file interno eliminando il brand duplicato nel campo model
+    clean_model_name = car_name.replace(brand_name, "", 1).strip()
     
     prompt = f"""
     You are an expert JDM/Euro racing and tuning specialist.
@@ -80,7 +63,7 @@ def get_ai_data(car_name, forza_mistral=False):
     Respond EXCLUSIVELY with a valid JSON file in this exact format, with no Markdown, no formatting blocks, and no extra text:
     {{
         "brand": "{brand_name.upper()}",
-        "model": "{car_name}",
+        "model": "{clean_model_name.upper()}",
         "prestazioni": [
             "Specific tuning part 1 (mention engine code/specifics)",
             "Specific tuning part 2",
@@ -94,19 +77,18 @@ def get_ai_data(car_name, forza_mistral=False):
     }}
     """
     
-    if forza_mistral:
-        print(f"-> [Staffetta] Uso direttamente Mistral per {car_name}...")
-        return chiedi_a_mistral(car_name, prompt), True
+    return chiedi_a_mistral(car_name, prompt)
 
-    # Tentativo diretto con Gemini
-    res_g = chiedi_a_gemini_diretto(car_name, prompt)
-    if res_g == "DAILY_LIMIT":
-        return chiedi_a_mistral(car_name, prompt), True
-    elif res_g:
-        return res_g, False
-        
-    print(f"-> [Gemini] Errore di risposta. Tento il backup su Mistral per {car_name}...")
-    return chiedi_a_mistral(car_name, prompt), False
+# Carica l'indice esistente o ne crea uno nuovo vuoto
+index_filepath = "index.json"
+if os.path.exists(index_filepath):
+    try:
+        with open(index_filepath, 'r', encoding='utf-8') as f:
+            index_db = json.load(f)
+    except Exception:
+        index_db = {}
+else:
+    index_db = {}
 
 try:
     with open('cars_to_scrape.txt', 'r') as f:
@@ -116,7 +98,7 @@ except FileNotFoundError:
     all_cars = []
 
 processed_count = 0
-forza_mistral_flag = False
+indice_modificato = False
 
 for car in all_cars:
     if processed_count >= BATCH_SIZE:
@@ -124,20 +106,27 @@ for car in all_cars:
         break
         
     brand = car.split()[0].lower()
-    slug = car.lower().replace(' ', '-').replace('/', '-')
+    
+    # Generiamo lo slug del modello senza ripetere il brand (es: "supra-mk4")
+    model_part = car.replace(car.split()[0], "", 1).strip()
+    slug = model_part.lower().replace(' ', '-').replace('/', '-')
+    
     filepath = f"brands/{brand}/{slug}.json"
     
+    # Se il file esiste già sul repository, verifichiamo che sia indicizzato e saltiamo la generazione
     if os.path.exists(filepath):
+        if brand not in index_db:
+            index_db[brand] = []
+        if slug not in index_db[brand]:
+            index_db[brand].append(slug)
+            indice_modificato = True
         continue
     
-    print(f"Generando dati per: {car}...")
-    data, cambio_ai = get_ai_data(car, forza_mistral=forza_mistral_flag)
-    
-    if cambio_ai:
-        forza_mistral_flag = True
+    print(f"Generando dati (via Mistral) per: {car}...")
+    data = get_ai_data(car)
     
     if data == "DAILY_LIMIT":
-        print("Blocco di sicurezza: Anche la quota di Mistral è terminata. Arresto lo script.")
+        print("Blocco di sicurezza: La quota di Mistral è terminata. Arresto lo script.")
         break
         
     if data:
@@ -146,10 +135,24 @@ for car in all_cars:
             json.dump(data, f, indent=2, ensure_ascii=False)
         print(f"  Salvato: {filepath}")
         
+        # Aggiorna la struttura dell'index.json
+        if brand not in index_db:
+            index_db[brand] = []
+        if slug not in index_db[brand]:
+            index_db[brand].append(slug)
+        
+        indice_modificato = True
         processed_count += 1
+        # Pausa di 35 secondi per rispettare i limiti di frequenza gratuiti di Mistral
         time.sleep(35) 
     else:
         print(f"Saltata: {car} a causa di un errore di generazione.")
         time.sleep(5)
+
+# Salva l'index.json aggiornato se sono state aggiunte nuove auto
+if indice_modificato:
+    with open(index_filepath, 'w', encoding='utf-8') as f:
+        json.dump(index_db, f, indent=2, ensure_ascii=False)
+    print("Indice index.json aggiornato e sincronizzato con il widget!")
 
 print(f"\nSessione completata. Auto elaborate in questo turno: {processed_count}")
