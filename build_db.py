@@ -2,16 +2,36 @@ import os
 import json
 import time
 import requests
-from google import genai
 
-# Inizializzazione Client Gemini (Libreria Nuova)
-client = genai.Client(api_key=os.getenv('GEMINI_API_KEY'))
-
-# Chiave Mistral recuperata dai Secrets di GitHub
+# Chiavi recuperate dai Secrets di GitHub
+GEMINI_KEY = os.getenv('GEMINI_API_KEY')
 MISTRAL_KEY = os.getenv("MISTRAL_API_KEY")
 
-# Alziamo a 20 auto a sessione per finire in circa 2 mesi
+# URL diretto per le API di Gemini (senza usare la libreria che si blocca)
+API_URL_GEMINI = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={GEMINI_KEY}"
+
+# Alziamo a 20 auto a sessione
 BATCH_SIZE = 20  
+
+def chiedi a gemini_diretto(car_name, prompt):
+    """Chiama Gemini 2.0 tramite richiesta HTTP diretta, evitando blocchi della libreria"""
+    if not GEMINI_KEY:
+        return None
+    headers = {"Content-Type": "application/json"}
+    payload = {"contents": [{"parts": [{"text": prompt}]}]}
+    try:
+        r = requests.post(API_URL_GEMINI, headers=headers, json=payload, timeout=20)
+        if r.status_code == 429 or "ResourceExhausted" in r.text or "limit: 0" in r.text:
+            print("-> [Gemini] Quota giornaliera o limite raggiunto. Attivo il paracadute Mistral AI...")
+            return "DAILY_LIMIT"
+        if r.status_code == 200:
+            res = r.json()
+            raw_text = res['candidates'][0]['content']['parts'][0]['text'].strip()
+            raw_text = raw_text.replace('```json', '').replace('```', '').strip()
+            return json.loads(raw_text)
+    except Exception:
+        return None
+    return None
 
 def chiedi_a_mistral(car_name, prompt):
     """Paracadute: Chiama Mistral AI se Gemini ha esaurito la quota giornaliera"""
@@ -24,24 +44,22 @@ def chiedi_a_mistral(car_name, prompt):
         "Content-Type": "application/json"
     }
     payload = {
-        "model": "mistral-large-latest", # Modello avanzato per non perdere la qualità e i dettagli sui codici motore
+        "model": "mistral-large-latest",
         "messages": [{"role": "user", "content": prompt}],
         "temperature": 0.3
     }
     
     try:
-        r = requests.post("https://api.mistral.ai/v1/chat/completions", headers=headers, json=payload, timeout=30)
+        r = requests.post("https://api.mistral.ai/v1/chat/completions", headers=headers, json=payload, timeout=20)
         if r.status_code == 429:
             print("-> [Mistral] Limite di quota raggiunto anche su Mistral.")
             return "DAILY_LIMIT"
         if r.status_code == 200:
             res = r.json()
             raw_text = res['choices'][0]['message']['content'].strip()
-            # Pulizia rapida di eventuali blocchi markdown
             raw_text = raw_text.replace('```json', '').replace('```', '').strip()
             return json.loads(raw_text)
-    except Exception as e:
-        print(f"-> Errore imprevisto su Mistral per {car_name}: {e}")
+    except Exception:
         return None
     return None
 
@@ -76,39 +94,21 @@ def get_ai_data(car_name, forza_mistral=False):
     }}
     """
     
-    # Se nei cicli precedenti abbiamo già rilevato il blocco definitivo di Gemini, andiamo diretti su Mistral
     if forza_mistral:
         print(f"-> [Staffetta] Uso direttamente Mistral per {car_name}...")
         return chiedi_a_mistral(car_name, prompt), True
 
-    for attempt in range(3):
-        try:
-            response = client.models.generate_content(
-                model='gemini-2.0-flash',
-                contents=prompt
-            )
-            raw_text = response.text.replace('```json', '').replace('```', '').strip()
-            return json.loads(raw_text), False
-            
-        except Exception as e:
-            error_msg = str(e)
-            if "RESOURCE_EXHAUSTED" in error_msg or "429" in error_msg:
-                # Se dice 'limit: 0' significa che la quota giornaliera di Gemini è finita
-                if "limit: 0" in error_msg:
-                    print("-> [Gemini] Quota giornaliera di Google TERMINATA. Attivo il paracadute Mistral AI...")
-                    # Passiamo immediatamente a Mistral per l'auto corrente
-                    res_m = chiedi_a_mistral(car_name, prompt)
-                    return res_m, True # True indica che da adesso in poi dobbiamo usare direttamente Mistral
-                
-                # Altrimenti è solo il limite al minuto (RPM): aspettiamo e ritentiamo con Gemini
-                wait_time = 90
-                print(f"-> [Gemini] Limite al minuto raggiunto per {car_name}. Pausa di {wait_time}s (Tentativo {attempt+1}/3)...")
-                time.sleep(wait_time)
-            else:
-                print(f"-> Errore imprevisto su Gemini per {car_name}: {e}")
-                return None, False
-                
-    return None, False
+    # Tentativo diretto con Gemini
+    res_g = chiedi_a_gemini_diretto(car_name, prompt)
+    if res_g == "DAILY_LIMIT":
+        # Passiamo immediatamente a Mistral
+        return chiedi_a_mistral(car_name, prompt), True
+    elif res_g:
+        return res_g, False
+        
+    # Se Gemini fallisce genericamente (es. timeout), prova Mistral come backup immediato
+    print(f"-> [Gemini] Errore di risposta. Tento il backup su Mistral per {car_name}...")
+    return chiedi_a_mistral(car_name, prompt), False
 
 try:
     with open('cars_to_scrape.txt', 'r') as f:
@@ -118,7 +118,7 @@ except FileNotFoundError:
     all_cars = []
 
 processed_count = 0
-forza_mistral_flag = False  # Diventa True quando Gemini finisce i gettoni giornalieri
+forza_mistral_flag = False
 
 for car in all_cars:
     if processed_count >= BATCH_SIZE:
@@ -132,10 +132,9 @@ for car in all_cars:
     if os.path.exists(filepath):
         continue
     
-    print(f"\nGenerando dati per: {car}...")
+    print(f"Generando dati per: {car}...")
     data, cambio_ai = get_ai_data(car, forza_mistral=forza_mistral_flag)
     
-    # Se get_ai_data ci dice che dobbiamo passare a Mistral stabilmente, aggiorniamo il flag
     if cambio_ai:
         forza_mistral_flag = True
     
@@ -147,10 +146,9 @@ for car in all_cars:
         os.makedirs(f"brands/{brand}", exist_ok=True)
         with open(filepath, 'w', encoding='utf-8') as f:
             json.dump(data, f, indent=2, ensure_ascii=False)
-        print(f" Salvato: {filepath}")
+        print(f"  Salvato: {filepath}")
         
         processed_count += 1
-        # 35 secondi di pausa tra auto per rispettare i limiti di frequenza delle API
         time.sleep(35) 
     else:
         print(f"Saltata: {car} a causa di un errore di generazione.")
