@@ -1,0 +1,14 @@
+{
+  "brand": "ALFA",
+  "model": "ROMEO 33 STRADALE",
+  "prestazioni": [
+    "3.0L 90° V6 Tipo F154 twin-turbo (engine code: 690T0) upgraded with a Garrett GTX5533R Gen II turbocharger (84mm billet compressor wheel, 106mm turbine) paired with a custom 4.5\" titanium downpipe and Akrapovič 3.5\" titanium exhaust system featuring quad 100mm carbon-fiber tips, reducing backpressure by 42% while maintaining 33 Stradale-specific resonance tuning",
+    "Ohlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression) and 20mm adjustable ride height, paired with custom-made spherical bearing top mounts (Alfa Romeo part #60820030) to eliminate compliance in the front strut towers, improving camber retention under 1.8G lateral loads",
+    "Brembo GT-R 6-piston monobloc calipers (front) with 410x38mm two-piece carbon-ceramic rotors (Brembo CCMR 01) and Ferodo DS3.12 racing pads, combined with a custom brake bias controller (AP Racing BBK-1) to optimize front/rear bias for the 33 Stradale’s 43/57 weight distribution, reducing 100-0mph stopping distances by 18%"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (Pandem Design) with carbon-fiber fenders (2.5\" wider front, 3.0\" wider rear) and custom aluminum inner fender liners (hand-formed to clear the 690T0’s turbocharger heat shields), paired with a 3D-printed carbon-fiber front splitter (Aeroflow Dynamics) generating 120kg of downforce at 200km/h",
+    "Custom 20\"x10\" (front) and 21\"x12.5\" (rear) forged aluminum wheels (HRE FF16) with a 5x120 bolt pattern (Alfa Romeo-specific), wrapped in Pirelli P Zero Trofeo R tires (265/30 R20 front, 325/25 R21 rear) and shod with custom center-lock adapters (Dymag) for rapid tire changes during track sessions",
+    "Full carbon-fiber interior retrofit (Sabelt 6-point harnesses, Sparco Pro 2000 seats with 33 Stradale-specific Alcantara inserts, and a custom roll cage (Autopower Industries) integrated with the original aluminum monocoque, featuring removable door bars for street legality while maintaining FIA Appendix J compliance"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "ALFA",
+  "model": "ROMEO 164 3.0 V6",
+  "prestazioni": [
+    "Engine: Alfa Romeo **Busso 3.0L 12V V6 (60° Tipo 164.A.000 / 12V 12V.A.000)** – Full forged internals including **JE Pistons 9.5:1 compression forged slugs (PN: 308250)** and **Manley H-beam connecting rods (PN: 14075-4)** with ARP 2000 rod bolts. Balance and blueprint to ±0.5g tolerance by **VAC Motorsports**.",
+    "Forced Induction: **Garrett GT3582R turbo (82mm compressor, .82 A/R turbine housing)** with **Tial MV-R 44mm external wastegate** and **Custom 3.5\" stainless steel turbo manifold (304-grade, equal-length primaries, ceramic-coated by Swain Tech)**. Supporting mods: **Sard 760cc/min side-feed injectors**, **Walbro 450LPH in-tank fuel pump**, **AEM 380LPH inline pump**, and **Link G4+ Xtreme ECU** with **Alfa-specific CAN bus integration for 164 ABS/TCS retention**.",
+    "Suspension & Chassis: **Öhlins Road & Track DFV coilovers (164-specific valving, 24-way rebound, 12-way compression adjust)** with **Eibach Pro-Kit helper springs (15mm front, 10mm rear)**. Full polybush kit from **SuperPro (PN: SPF1001K, SPF1002K, SPF1003K)**. **Brembo GT 6-piston calipers (330mm discs front, 300mm rear)** with **Ferodo DS2500 pads** and **Goodridge G-Stop braided lines**."
+  ],
+  "estetica": [
+    "Body: **Rocket Bunny V1 164-specific widebody kit (Pandem carbon-Kevlar blend, bolt-on fenders, custom rear diffuser)** with **custom 3M Matte Graphite vinyl wrap (XPEL Stealth finish)**. **Seibon carbon fiber hood (OEM-style latches, 30% weight reduction)** and **custom rear spoiler (3D-printed ABS, NACA duct for rear brake cooling)**.",
+    "Wheels: **BBS LM-R 17x9 ET25 (front) / 17x10 ET30 (rear) with 245/40/17 and 275/35/17 Michelin Pilot Sport Cup 2 tires**. **HRE 505M 18x10.5 ET35 (optional track setup)** with **Nankang AR-1 semi-slick (285/35/18)** for endurance use.",
+    "Interior: **Recaro SRD-E (Alfa-specific mounting brackets, FIA 8862-2009 certified)** with **Schroth Profi II 6-point harnesses**. **Momo Prototipo 350mm steering wheel (Alfa 164 quick-release hub)**. **Custom aluminum gauge pod (AEM X-Series wideband, oil pressure, fuel pressure, boost)**. **Sound deadening via **Dynamat Xtreme (full floor, doors, firewall)** with **Focal Utopia Be 3-way component system (165 V1 woofers, T165 V1 tweeters, Flax sandwich midrange)** powered by **Hertz HDP5 DSP amp**."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "ALFA",
+  "model": "ROMEO GIULIA TZ2",
+  "prestazioni": [
+    "Engine: AR00502 1.6L Twin-Cam Inline-4 (Giulia TZ2-specific, 112.5mm bore, 88.5mm stroke) with a custom-built dry-sump lubrication system by *Autotecnica Motori* (Bologna, Italy) to handle 9,000 RPM+ sustained operation, paired with a *Weber 45DCOE3* carburetor setup (4x 45mm throttle bodies) tuned by *Colotti Trasmissioni* for 180+ HP at the flywheel (stock: 160 HP).",
+    "Forced Induction: *Garrett GT2560R* turbocharger (60mm compressor, 56mm turbine) with a *Tial 38mm* external wastegate, custom *Bell Intercoolers* air-to-water intercooler (TZ2-specific core dimensions: 300x150x76mm), and *Sard* fuel pressure regulator (3.5 bar base) to support 220+ HP on *VP Racing C16* fuel (116 octane).",
+    "Drivetrain: *Hewland FT200* 5-speed sequential transaxle (TZ2-specific ratios: 2.44, 1.75, 1.33, 1.00, 0.80) with a *Tilton* 7.25\" triple-plate carbon clutch, *Quaife* ATB differential (80% lock), and *Penske* 8760-series adjustable shock absorbers (22-way compression, 28-way rebound) paired with *Eibach* 140 lb/in progressive-rate springs (front) and 220 lb/in (rear)."
+  ],
+  "estetica": [
+    "Body: *Zagato* original aluminum body panels (TZ2-specific, 1.2mm gauge) reinforced with *Aerocatch* DZUS fasteners and *3M 2216* epoxy for chassis rigidity, featuring a *Rocket Bunny* widebody conversion (TZ2-specific fender flares: 50mm front, 65mm rear) in *PPG Alfa Romeo Rosso Competizione* (code: 130G) with *Airlift Performance* 3P management for adjustable ride height (30mm drop).",
+    "Aerodynamics: *Voltex* Type-3 rear wing (TZ2-specific, 1,400mm span, 300mm chord) with *AeroCatch* quick-release mounts, *Canards* by *Seibon Carbon* (2x 150mm front, 2x 200mm rear), and a *Custom Cages* front splitter (3D-milled 6061-T6 aluminum, 45mm overhang) with *MCS* 3-stage adjustable dive planes (0°, 5°, 10°).",
+    "Interior: *Sparco* Pro ADV seats (TZ2-specific, 14.5kg each) with *Schroth* 6-point harnesses (ASM2 model), *Momo* *Mod.78* steering wheel (350mm diameter, suede) on a *NRG* quick-release hub, and a *Motec* C127 dash logger (8-inch display) integrated with *AIM* MXS Strada lap timer (TZ2-specific mounting bracket: 15° tilt, 30mm offset)."
+  ]
+}

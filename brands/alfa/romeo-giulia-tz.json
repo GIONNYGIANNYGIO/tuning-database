@@ -1,0 +1,14 @@
+{
+  "brand": "ALFA",
+  "model": "ROMEO GIULIA TZ",
+  "prestazioni": [
+    "Engine: 1.6L Twin-Cam Inline-4 (AR00500) with forged internals by JE Pistons (87.5mm bore, 9.0:1 CR) and Carrillo H-beam connecting rods, paired with a custom billet crankshaft from SCAT Enterprises for 8,500 RPM redline capability.",
+    "Forced Induction: Garrett GTX3582R turbocharger (0.82 A/R turbine housing) with a custom 3.5-inch stainless steel exhaust manifold by Autotecnica Motori, feeding into a 3.5-inch titanium exhaust system by Supersprint with 4-2-1 merge collectors and a straight-pipe design for optimal scavenging.",
+    "Fuel & Ignition: Full sequential port injection system by Injector Dynamics (ID1050x injectors) with a secondary direct injection setup using Bosch Motorsport HDEV5 injectors, controlled by a Motec M150 ECU. Ignition system upgraded to MSD 8516 coils with NGK R7437-9 racing plugs gapped at 0.024 inches."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion by Zagato Heritage, featuring hand-laid 2x2 twill weave carbon fiber fenders (3.5-inch wider front, 4-inch wider rear) with integrated NACA ducts for brake cooling, and a custom front splitter with adjustable dive planes by APR Performance (GT-250 model).",
+    "Aero: Custom rear diffuser by RW Carbon, designed to work with the Giulia TZ’s Kamm tail, paired with a fixed carbon fiber rear wing (350mm chord, 1,500mm span) by 9 Lives Racing, mounted on billet aluminum pedestals with 5 degrees of adjustability.",
+    "Wheels & Stance: OZ Racing Ultraleggera HLT wheels (16x8 ET20 front, 16x9.5 ET25 rear) wrapped in Pirelli P Zero Trofeo R tires (205/50R16 front, 245/45R16 rear), with custom 5x100 to 4x98 hub adapters by Wavetrac. Suspension lowered via custom Ohlins TTX40 coilovers with 3-way adjustable damping and 25mm front/30mm rear adjustable camber plates."
+  ]
+}

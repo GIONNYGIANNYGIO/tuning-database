@@ -1,0 +1,14 @@
+{
+  "brand": "ALFA",
+  "model": "ROMEO GIULIA GTA-M",
+  "prestazioni": [
+    "Engine: 2.9L V6 Twin-Turbo (690T) with forged internals by JE Pistons (9.5:1 compression, 87.5mm bore, 82mm stroke) and Carrillo H-beam connecting rods, paired with a Garrett GTX4202R turbocharger (0.82 A/R turbine housing, billet compressor wheel) and custom 4-inch titanium downpipe by Armytrix for reduced backpressure",
+    "Fuel System: Full Motec M150 ECU with flex-fuel capability, upgraded to dual Bosch Motorsport 0280158888 1,200cc injectors, and a Radium Engineering dual-catch can setup with -10AN lines to manage crankcase pressure under sustained 8,000 RPM operation",
+    "Suspension & Chassis: Öhlins TTX46 MkII coilovers with 3-way adjustable damping (24-click rebound, 22-click compression, 12-click low-speed compression), custom uprated anti-roll bars by H&R (24mm front, 22mm rear), and spherical bearing subframe collars by 034 Motorsport to eliminate compliance"
+  ],
+  "estetica": [
+    "Aero: Full carbon-fiber body kit by Novitec Torado, including a 3-piece front splitter with integrated dive planes, side skirts with air curtains, and a GT3-spec rear diffuser with active Gurney flap (adjustable via cockpit switch)",
+    "Wheels: Forged 20x10.5 ET25 (front) and 20x12 ET45 (rear) BBS FI-R wheels in matte gold, wrapped in Pirelli P Zero Trofeo R tires (265/30/20 front, 305/25/20 rear) with custom Alfa Romeo Centro Stile-designed center caps",
+    "Interior: Full Alcantara-wrapped Recaro SPG XL seats with Schroth 6-point harnesses, a custom carbon-fiber MOMO Prototipo steering wheel (320mm diameter, Alcantara grip), and a digital dash overlay by AIM MXS Strada with G-force and lap timer integration"
+  ]
+}

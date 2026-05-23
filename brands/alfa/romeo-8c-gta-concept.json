@@ -1,0 +1,14 @@
+{
+  "brand": "ALFA",
+  "model": "ROMEO 8C GTA CONCEPT",
+  "prestazioni": [
+    "Engine: 3.75L Ferrari-derived F136 YS V8 (90° architecture, dry-sump lubrication, 470hp stock) – full internal build with forged Mahle Motorsport 2618 alloy pistons (9.5:1 CR), Carrillo H-beam connecting rods, and a billet steel crankshaft from JE Pistons to handle 900hp+ on E85. Custom camshafts by Cat Cams (292° duration, 12.5mm lift) with titanium retainers and dual valve springs from Supertech Racing.",
+    "Forced Induction: Twin Precision Turbo PT6766CE turbochargers (67mm compressor, 66mm turbine) with custom 3D-printed Inconel exhaust manifolds by TurboSmart, paired with a TiAL Sport MV-R 44mm wastegate and TiAL Q 50mm blow-off valve. Full custom intercooler setup with a PWR 1200hp core and custom CNC-machined aluminum end tanks by Radium Engineering.",
+    "Fuel & Ignition: Full Motec M150 ECU with custom CAN bus integration for Alfa’s AlfaLink chassis control, paired with a dual Bosch Motorsport 044 fuel pump setup and ID1700x injectors. Ignition system upgraded to AEM CDI coils with NGK R7437-9 racing plugs gapped at 0.022\". Custom 3.5L fuel cell by Fuel Safe with a dual Bosch Motorsport 044 pump setup and a Radium Engineering surge tank."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion by Novitec Rosso, featuring a custom 8C GTA-specific front splitter with integrated canards, side skirts with air curtains, and a massive rear diffuser with active Gurney flap (electronically adjustable via AlfaLink). Rear wing is a custom 3D-printed carbon fiber unit by 9 Lives Racing, modeled after the Alfa Romeo 33 Stradale’s rear spoiler but with a dual-element design and DRS-style adjustable flaps.",
+    "Wheels & Aero: Custom 20x12\" front and 21x13\" rear forged aluminum wheels by HRE (FF03 model, 3-piece construction) wrapped in Pirelli P Zero Trofeo R tires (285/30 R20 front, 335/25 R21 rear). Wheel arches are aggressively flared to accommodate the wider track, with custom carbon fiber fender vents by Varis for brake cooling. Front bumper features a custom 3D-printed titanium grille with active shutters (controlled by AlfaLink for drag reduction).",
+    "Interior & Lighting: Full Alcantara-wrapped interior by Sabelt, featuring a custom roll cage by Matter Italy (FIA-spec, 4-point harness bar with integrated fire suppression system). Steering wheel is a custom MOMO Prototipo with integrated Motec C127 dash display. Exterior lighting is upgraded to full LED by Osram (custom sequential turn signals) with a carbon fiber headlight surround by Novitec. Rear taillights are replaced with custom laser-etched acrylic units by Diode Dynamics, featuring a hidden Alfa Romeo Quadrifoglio logo."
+  ]
+}

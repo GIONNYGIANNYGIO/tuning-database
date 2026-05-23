@@ -1,0 +1,14 @@
+{
+  "brand": "ALFA",
+  "model": "ROMEO 75 TURBO EVOLUZIONE",
+  "prestazioni": [
+    "Engine: 1.8L Twin-Spark (AR01648) with forged internals (Wiseco 8.5:1 pistons, Eagle H-beam connecting rods) and balanced crankshaft (ACL Race Series bearings) for 1.5-bar boost on a Garrett GT2860RS-5 turbo (56 trim, .64 A/R turbine housing) with TiAL 44mm wastegate and 38mm external dump valve.",
+    "Fuel System: Bosch Motorsport 044 high-flow fuel pump paired with Siemens DEKA 80lb/hr injectors (PN 62420000), controlled via standalone Megasquirt MS3Pro PNP ECU with custom AR01648-specific ignition and fuel maps, supplemented by a custom 3.5\" aluminum intercooler (Bell Intercoolers) and -10AN braided lines (Earl's UltraPro).",
+    "Drivetrain & Handling: Quaife ATB helical LSD (QKE9Y) in a reinforced Alfa Romeo 75 Turbo Evoluzione-specific gearbox (AR33005) with uprated synchros (Hewland FTR dog rings), mated to a Sachs Performance twin-disc clutch (320mm, 6-puck). Suspension features Ohlins Road & Track DFV coilovers (custom valving for 75 chassis) with spherical bearing top mounts (SuperPro SPF0116K), poly bushings (Whiteline W51210), and a 25mm rear anti-roll bar (Hotchkis 25100). Braking via Brembo GT 6-piston calipers (09.9404.70) with 355mm two-piece rotors (DBA 5000 Series) and Ferodo DS2500 pads, paired with Goodridge G-Stop braided lines."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion (Rocket Bunny V1 75 Turbo Evoluzione kit, hand-laid 2x2 twill weave) with custom front splitter (3D-printed ABS, 3\" overhang) and rear diffuser (carbon fiber, integrated exhaust cutouts). Rear wing is a custom 1.5m aluminum dual-element (NACA 63A012 airfoil) mounted on CNC billet pedestals (Machined Motorsports).",
+    "Interior: Recaro Pole Position II seats (fixed-back, carbon-Kevlar shell) with Schroth Profi II 6-point harnesses (ASM homologation), bolted to a custom 8-point chromoly roll cage (Autopower, FIA-spec, powder-coated Alfa Rosso). Steering wheel is a Momo Prototipo (330mm, suede) with quick-release hub (NRG 50612), paired with a custom aluminum shift knob (Machined Motorsports, weighted 350g) and Alcantara shift boot (Sparco 00064A).",
+    "Lighting & Details: Full LED conversion (Lux H8/H11/H16 bulbs) with custom Cibié Oscar projector headlights (H4 retrofit, 55W HID bi-xenon) and smoked taillight lenses (Depo Racing, red/clear). Badging replaced with carbon fiber Alfa Romeo Scudetto (3D-printed, matte finish) and custom \"Turbo Evoluzione\" side decals (vinyl, 3M 1080 Gloss Black). Wheels are OZ Racing Superleggera III (16x8 ET20 front, 16x9 ET25 rear) with Nitto NT01 tires (225/45/16 front, 245/40/16 rear)."
+  ]
+}

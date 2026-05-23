@@ -1,0 +1,14 @@
+{
+  "brand": "ALFA",
+  "model": "ROMEO MITO QV",
+  "prestazioni": [
+    "Engine: 1.4L TB MultiAir (TBi 1750, engine code 940A5.000) – Full forged internals upgrade with JE Pistons 87mm forged slugs (9.5:1 CR), Carrillo H-beam connecting rods, and ACL Race Series bearings to handle 300+ HP reliably. Stock crank retained but balanced to ±0.5g with a Fluidampr harmonic balancer.",
+    "Turbocharger: Garrett GT2867R .86 A/R with a custom 3D-printed titanium compressor housing (by TurboSmart) and TiAL MV-R 44mm wastegate for precise boost control (target 28 psi on E85). Custom 3-inch divorced downpipe with Vibrant 17990 resonated flex section to eliminate drone while maintaining flow.",
+    "Fuel System: Full return-style setup with Radium Engineering 200 LPH dual-pump hanger (for E85 compatibility), Injector Dynamics ID1050x injectors, and a Syvecs S6Plus standalone ECU with flex-fuel sensor. Custom CNC-machined fuel rail (by Fuelab) to fit the MultiAir head without interference."
+  ],
+  "estetica": [
+    "Aero: Custom carbon fiber front splitter by Novitec (Alfa Romeo-specific design) with integrated canards and a rear diffuser by Maxton Design (Mito QV-specific, no drilling required). Full carbon fiber hood by Seibon with heat extractor vents positioned over the turbo inlet.",
+    "Wheels: OZ Racing Ultraleggera HLT 17x8 +35 ET in matte anthracite, paired with Michelin Pilot Sport Cup 2 R 225/40/17 tires. Custom wheel spacers (15mm front, 20mm rear) by H&R to fill the arches without fender modification.",
+    "Interior: Full Alcantara retrim by Recaro (CS Sportster seats with QV-specific bolsters), MOMO Mod.78 steering wheel with carbon fiber inserts, and a custom roll cage by Custom Cages (UK) with bolt-in rear strut brace and integrated fire suppression system (Lifeline Zero 360)."
+  ]
+}

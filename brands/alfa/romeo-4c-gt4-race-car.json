@@ -1,0 +1,14 @@
+{
+  "brand": "ALFA",
+  "model": "ROMEO 4C GT4 RACE CAR",
+  "prestazioni": [
+    "Engine: Alfa Romeo 1750 TBi (engine code: 940A5.000) with a bespoke GT4-spec dry-sump lubrication system by Autotecnica Motori, featuring a billet aluminum oil pan and dual-scavenge pump setup to maintain oil pressure under 2.5G lateral loads.",
+    "Forced Induction: Garrett GT2867R turbocharger (P/N 743347-5001S) with a custom 0.63 A/R turbine housing, paired with a PTP 3.5\" stainless steel turbo manifold and a Tial MV-R 44mm external wastegate (P/N MVR44) to target 1.5 bar of boost (GT4 class limit).",
+    "Suspension: Öhlins TTX40 2-way adjustable dampers (P/N TTX40-1800) with custom valving for the 4C GT4’s carbon tub, paired with Eibach 3-way adjustable spherical bearing top mounts (P/N 20-10-001) and a full polybush kit from SuperPro (P/N SPF0115K) to eliminate compliance in the rear subframe."
+  ],
+  "estetica": [
+    "Aerodynamics: Custom carbon fiber GT4-spec front splitter by Capristo (P/N CAP-4C-GT4-FS) with integrated dive planes, paired with a 9 Lives Racing carbon fiber rear diffuser (P/N 9LR-4C-GT4-RD) and a fixed-position carbon fiber rear wing (P/N 9LR-4C-GT4-RW) with 3D-printed Gurney flaps for adjustable downforce.",
+    "Bodywork: Full carbon fiber body kit by Novitec (P/N NOV-4C-GT4-BK), including a vented hood with NACA ducts for turbo heat extraction and a lightweight carbon fiber roof panel (P/N NOV-4C-GT4-RF) to lower the center of gravity by 12mm.",
+    "Wheels: OZ Racing Superforgiata GT4 wheels (P/N SFGT4-1890-1058) in 18x10.5\" front and 18x12\" rear, wrapped in Pirelli P Zero Trofeo R tires (245/655 R18 front, 295/660 R18 rear) with custom compound for GT4 endurance racing."
+  ]
+}

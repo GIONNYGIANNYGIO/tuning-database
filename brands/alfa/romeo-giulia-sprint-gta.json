@@ -1,0 +1,18 @@
+{
+  "brand": "ALFA",
+  "model": "ROMEO GIULIA SPRINT GTA",
+  "prestazioni": [
+    "Engine: 1.75L Twin Spark (AR01600) with forged internals including Mahle Motorsport forged pistons (8.5:1 CR), Carrillo H-beam connecting rods, and a billet crankshaft from JE Pistons to handle 8,500 RPM reliably. Pair with a custom 2.0L stroker kit (88mm crank, 84mm bore) from Autotecnica Motori for 2.1L displacement, pushing 280+ HP on race fuel.",
+    "Forced Induction: Single-turbo setup using a Garrett GTX3582R Gen II turbocharger (0.82 A/R turbine housing) with a custom 3.5-inch stainless steel exhaust manifold by Ragazzon Racing, paired with a Tial MV-R 44mm external wastegate and a custom 3-inch titanium downpipe by Supersprint. Intercooler: PWR 4.5-inch core front-mount with custom ducting to fit the GTA’s front fascia.",
+    "Fuel & Ignition: Full sequential fuel injection with Bosch Motorsport 1,200cc injectors, Walbro 450 LPH in-tank fuel pump, and a Syvecs S8 ECU with custom GTA-specific maps. Ignition system upgraded to MSD 8516 coil packs and NGK R8471-10B iridium spark plugs. Oil system: Dry sump conversion with a Peterson Fluid Systems 4-stage pump and a Setrab 19-row oil cooler.",
+    "Drivetrain: Close-ratio 6-speed dog-box transmission from Hewland (FT200) with a Sachs Racing twin-disc clutch (240mm) and a Quaife ATB differential (80% lock). Custom driveshafts by GKN Driveline with CV joints rated for 500+ Nm torque.",
+    "Suspension & Brakes: Öhlins TTX40 3-way adjustable coilovers with custom valving for the GTA’s double-wishbone front and multi-link rear. Spherical bearing conversion for all suspension arms using SuperPro bushings. Brakes: AP Racing CP8650 6-piston front calipers with 380mm two-piece rotors (floating, slotted) and CP8600 4-piston rears with 355mm rotors. Brake lines: Goodridge G-Stop stainless steel braided lines."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion using a custom Rocket Bunny/GReddy-inspired kit (GTA-specific, not a generic Giulia kit) with extended fenders (30mm front, 40mm rear), custom front splitter, and a ducktail spoiler by Zender. Carbon fiber hood with functional NACA ducts for the intercooler and oil cooler.",
+    "Aero: Custom front canards by Voltex (3-piece set) and a rear diffuser by APR Performance (carbon fiber, 3-channel design). Side skirts replaced with custom carbon fiber units from Varis, featuring integrated air curtains for brake cooling. Roof: Carbon fiber replacement by Seibon with a custom sunroof delete.",
+    "Wheels & Tires: OZ Racing Ultraleggera HLT wheels (17x9 +25 front, 17x10.5 +30 rear) with custom offsets to fit the widebody. Tires: Michelin Pilot Sport Cup 2 R (245/40/17 front, 285/35/17 rear). Wheel spacers: H&R 15mm hubcentric spacers (front) and 20mm (rear) to optimize track width.",
+    "Interior: Full Alcantara retrim by Recaro with custom GTA-specific SRD-E shell seats (FIA 8862-2009 certified). Steering wheel: MOMO Prototipo (330mm, suede) with a quick-release hub. Roll cage: Custom 8-point bolt-in cage by Custom Cages (T45 steel, MIG-welded) with integrated harness bars. Gauges: Stack Motorsport digital dash (CAN-bus integrated with Syvecs ECU) and a custom center console with AEM X-Series wideband controller.",
+    "Lighting: Full LED conversion with LUX H8 V4 bulbs (high/low beam) and custom C-shaped DRLs by Diode Dynamics. Rear: Sequential LED taillights by Vland with smoked lenses. Side markers: Clear LED units by Morimoto."
+  ]
+}

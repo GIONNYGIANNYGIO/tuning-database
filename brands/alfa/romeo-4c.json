@@ -1,0 +1,14 @@
+{
+  "brand": "ALFA",
+  "model": "ROMEO 4C",
+  "prestazioni": [
+    "Engine: 1.75L TBi (940A5.000) with a custom hybrid turbo setup featuring a Garrett GTX3071R Gen II turbocharger (71mm compressor, 56mm turbine) paired with a custom 3.5-inch stainless steel downpipe and a CSF Racing high-flow front-mount intercooler (part #7521) to reduce intake temps by 40°C under full boost (2.2 bar peak).",
+    "Fuel System: Injector Dynamics ID1050x fuel injectors (1050cc/min) with a Radium Engineering dual-catch can setup (part #016010) and a custom fuel rail pressure sensor relocation kit (Alfa Performance part #AP-4C-FRP) to support 400+ HP on E85 blend (requires Motec M150 ECU with custom 4C-specific calibration).",
+    "Suspension & Handling: Ohlins Road & Track DFV coilovers (part #ALF001) with custom valving for the 4C’s aluminum subframe, paired with a full polybush kit from SuperPro (part #SPF1048K) and a Cusco 2.5-way adjustable limited-slip differential (part #LSD600-A) to eliminate torque steer under hard acceleration."
+  ],
+  "estetica": [
+    "Aero: Novitec Torado 4C widebody kit (part #NT-4C-WB) with carbon fiber front splitter, side skirts, and rear diffuser, paired with a custom 3D-printed active rear wing (inspired by the 4C Spider’s design but with adjustable angle via electric actuators).",
+    "Wheels: HRE FF01 wheels in 18x9 ET35 front and 19x11 ET45 rear (matte bronze finish), wrapped in Michelin Pilot Sport Cup 2 R tires (235/40/18 front, 295/30/19 rear) for maximum mechanical grip.",
+    "Interior: Full Alcantara retrim by Sabelt (custom 4C-specific pattern) with a carbon fiber steering wheel (MOMO Prototipo 4C Edition, part #0011801810) and a custom digital dash overlay (Aim MXS Strada 5-inch display with Alfa 4C-specific CAN bus integration)."
+  ]
+}

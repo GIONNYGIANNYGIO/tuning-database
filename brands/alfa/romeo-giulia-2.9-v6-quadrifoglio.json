@@ -1,0 +1,14 @@
+{
+  "brand": "ALFA",
+  "model": "ROMEO GIULIA 2.9 V6 QUADRIFOGLIO",
+  "prestazioni": [
+    "Engine: 690T (2.9L twin-turbo V6) - Full Akrapović Evolution Line Titanium exhaust system with 70mm dual outlets, bypass valves, and carbon-fiber tips, paired with a custom Novitec-engineered ECU flash (Stage 2+) targeting 650+ HP via revised boost mapping (1.5 bar peak) and optimized cam timing for 3,500-7,500 RPM powerband retention",
+    "Forced Induction: Hybrid turbo upgrade utilizing Garrett GTX3582R Gen II turbos with billet compressor wheels (60mm inducer, 82mm exducer), TiAL MV-R 44mm wastegates, and custom intercooler piping (3.5\" mandrel-bent aluminum) with PWR Advanced Cooling Solutions front-mount intercooler (1,200cfm airflow capacity)",
+    "Drivetrain: Quaife ATB LSD (QDF15R) with 45% preload, paired with a Sachs Performance dual-mass flywheel (8.5kg) and uprated clutch (Stage 3, 800Nm torque capacity), mated to a Getrag 7DCL750 7-speed DCT with custom TCU tuning by Dimsport for 0.05s faster shifts and launch control at 4,500 RPM"
+  ],
+  "estetica": [
+    "Aero: Novitec N-Largo widebody kit (carbon-fiber, 30mm extended fenders) with integrated front splitter (35mm overhang) and rear diffuser (2-piece, 150mm extension), paired with a custom 3D-printed active rear wing (Gurney flap adjustable via hydraulic actuators, 1,200mm span, 200mm chord)",
+    "Wheels: Forgeline GA3R 20x10.5\" ET25 (front) and 20x12\" ET45 (rear) in gloss black with titanium hardware, wrapped in Pirelli P Zero Trofeo R tires (275/30 R20 front, 325/25 R20 rear) and fitted with HRE FlowForm FF03 center-lock adapters",
+    "Interior: Full Alcantara retrim by Sabelt (including dashboard, door cards, and Recaro SPG XL seats with 6-point harness cutouts), paired with a custom roll cage (MCS Motorsport 6-point bolt-in, T45 steel, 2.5\" diameter) and a Motec C127 dash logger with GPS lap timer and boost/vacuum sensors"
+  ]
+}

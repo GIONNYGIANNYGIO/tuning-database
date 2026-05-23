@@ -1,0 +1,14 @@
+{
+  "brand": "ALFA",
+  "model": "ROMEO JUNIOR VELOCE",
+  "prestazioni": [
+    "Engine: 1.5L Turbocharged I4 (G15T) with a custom ECU flash from **Alfa Romeo Racing (AR) Performance** targeting 280 HP and 380 Nm torque via a hybrid turbo upgrade to a **Garrett GT2259S** with billet compressor wheel, paired with a **Forge Motorsport** high-flow intercooler and **Mocal** oil cooler to manage heat under sustained boost (1.2 bar peak).",
+    "Drivetrain: **Quaife ATB LSD** (part #QDF7Z) for the TCT transmission, reinforced with **Alfa Romeo GTA-spec** half-shafts and **Pedders** heavy-duty engine mounts to handle increased torque without drivetrain lash. Clutch upgraded to a **Sachs Performance** twin-disc setup (part #3000951001) with cerametallic friction material for 0-60 mph in 4.8s.",
+    "Suspension & Brakes: **Öhlins Road & Track DFV** coilovers (part #ALF-01) with 8-way adjustable damping, paired with **Eibach Pro-Spacer** wheel spacers (20mm front, 25mm rear) for aggressive track alignment (-2.5° front camber, -1.8° rear). Braking system features **Brembo GT 6-piston calipers** (front, part #09.9704.73) with **355mm two-piece rotors** and **Ferodo DS2500** pads, plus **Goodridge G-Stop** braided stainless steel lines for pedal feel consistency."
+  ],
+  "estetica": [
+    "Aero: **Novitec Torado** widebody kit (part #NVT-ARJV-WB) with carbon fiber front splitter, side skirts, and rear diffuser, paired with a **Rocket Bunny** ducktail spoiler (part #RB-ALFJV-01) for 120kg downforce at 120 mph. Front bumper modified with **Seibon Carbon** canards (part #ALF-JV-CND) for high-speed stability.",
+    "Wheels & Tires: **BBS FI-R** 19x9.5 ET30 (front) and 19x10.5 ET35 (rear) in **Gloss Black** with **Pirelli P Zero Trofeo R** tires (265/35/19 front, 295/30/19 rear) for maximum mechanical grip. Valve stems upgraded to **HRE FlowForm** titanium (part #HRE-505M-TI).",
+    "Interior & Lighting: **Recaro Pole Position** seats (part #RPP-ALFA) with **Schroth Profi II-6** 6-point harnesses, trimmed in **Alcantara with red stitching** (matching Alfa Romeo Racing heritage). **Lux HID** 55W bi-xenon projectors with **Morimoto XB35** bulbs for adaptive lighting, and **Akrapović** titanium exhaust tips (part #AK-TI-ALFJV) for a signature sound."
+  ]
+}

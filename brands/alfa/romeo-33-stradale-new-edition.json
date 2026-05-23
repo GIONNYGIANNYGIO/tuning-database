@@ -1,0 +1,14 @@
+{
+  "brand": "ALFA",
+  "model": "ROMEO 33 STRADALE NEW EDITION",
+  "prestazioni": [
+    "Engine: 3.0L twin-turbocharged V6 (690S code) with a custom Alfa Corse-developed ECU remap targeting 850+ HP via a hybrid turbo setup combining a Garrett GTX5533R (94mm compressor) and a BorgWarner EFR 9180 (for low-end response), paired with a bespoke titanium exhaust system by Capristo featuring 3.5-inch downpipes and a valved center section for track-only backpressure reduction.",
+    "Drivetrain: 8-speed ZF 8HP95X automatic transmission reinforced with a Pankl Racing Systems carbon-fiber driveshaft and a Quaife ATB helical LSD (90% lock) for the rear axle, complemented by an Alfa Romeo Motorsport-spec clutch with sintered metallic friction discs and a billet aluminum flywheel by Sachs Performance.",
+    "Suspension/Chassis: Full Ohlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression), integrated with a custom Alfa Romeo Motorsport-derived front strut tower brace and a T45 steel roll cage by Safety Devices, designed to stiffen the monocoque by 35% while maintaining FIA homologation for GT3-class racing."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon-fiber body kit by Novitec Rosso, including a 33 Stradale-specific front splitter with integrated canards (tested in Alfa Romeo’s wind tunnel for 80kg of downforce at 200 km/h), a rear diffuser with active Gurney flap (electronically adjustable via the Alfa DNA Pro system), and a fixed rear wing derived from the Giulia GTA’s DTM program, but with a 15% larger chord for higher-speed stability.",
+    "Wheels/Tires: Forged aluminum OZ Racing Ultraleggera HLT wheels (20x9.5 front, 21x12.5 rear) wrapped in Pirelli P Zero Trofeo R tires (265/30 R20 front, 325/30 R21 rear) with a custom Alfa Romeo Motorsport tread pattern for improved heat cycling, mounted on titanium wheel bolts by ARP and secured with a pneumatic central-lock system by BBS.",
+    "Interior/Exterior Details: Full Alcantara-wrapped interior by Sabelt, including a 3D-printed titanium shift knob (for the ZF transmission) and a custom carbon-fiber steering wheel with integrated OMP racing switches for traction control and launch control adjustments. Exterior accents include a bare carbon-fiber roof with a gold-tinted clear coat (matching the original 33 Stradale’s livery) and custom LED headlights by Osram with adaptive laser high-beams, calibrated for track use via the Alfa Romeo Centro Stile’s proprietary optics."
+  ]
+}

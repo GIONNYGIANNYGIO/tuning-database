@@ -1,0 +1,14 @@
+{
+  "brand": "ALFA",
+  "model": "ROMEO GIULIETTA QV",
+  "prestazioni": [
+    "Engine: Alfa Romeo TBi (Twin Turbo Benzina) 1750cc (engine code: 940A5.000) with forged internals including Mahle Motorsport forged pistons (8.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from JE Pistons to handle 400+ HP reliably. Turbo upgrade to Garrett GTX3582R Gen II with a custom 0.82 A/R turbine housing and 58mm compressor wheel, paired with a custom 3.5\" stainless steel downpipe and a secondary fuel system from AEM 340LPH high-flow fuel pump and ID1000x injectors.",
+    "ECU: Standalone Motec M150 ECU with custom Alpha Romeo Giulietta QV-specific calibration, including individual cylinder fuel trims, knock control via Kistler 6052C piezoelectric sensors, and launch control mapped for 4,500 RPM flat shifts. Full CAN bus integration with the Alfa DNA system to retain factory drive modes while allowing full tunability.",
+    "Suspension & Chassis: Ohlins Road & Track DFV coilovers with 24-way adjustable compression and rebound damping, custom-valved for the Giulietta QV's 50:50 weight distribution. Front subframe reinforcement via custom 4130 chromoly tubular braces from Autohahn 88, paired with spherical bearing conversion for the rear multi-link suspension using SuperPro poly bushings (part #SPF0116K). Brembo GT 6-piston front calipers with 380mm two-piece rotors and Ferodo DS2500 pads, matched with Brembo 4-piston rears and stainless steel braided lines from Goodridge."
+  ],
+  "estetica": [
+    "Aero: Custom carbon fiber widebody kit from Novitec Torado, designed specifically for the Giulietta QV's chassis, including extended front fenders (30mm per side), rear quarter panels (40mm per side), and a functional rear diffuser with integrated twin 100mm exhaust outlets. Front splitter from Varis Japan with adjustable dive planes, and a carbon fiber rear wing from APR Performance (GT-250 model) with 3D-printed titanium mounts for 150kg of downforce at 180km/h.",
+    "Wheels & Tires: Forged 3-piece OZ Racing Ultraleggera HLT wheels in 9x18\" ET30 front and 10.5x18\" ET35 rear, wrapped in Michelin Pilot Sport Cup 2 R tires (245/35/18 front, 275/35/18 rear). Custom center-lock conversion using BBS Motorsport hubs and titanium wheel bolts from ARP (part #200-2901).",
+    "Interior & Lighting: Full Alcantara retrim by Recaro with custom QV-specific SRD-E shell seats (carbon fiber backs, 6-point harnesses), paired with a MOMO Mod.78 steering wheel (320mm, suede) and a custom roll cage from Custom Cages (FIA-spec, 4-point with door bars). LED taillight conversion using Osram LEDriving SL 194 bulbs with custom CNC-machined housings, and a full carbon fiber dash overlay from Seibon with a Motec C127 digital dash display."
+  ]
+}

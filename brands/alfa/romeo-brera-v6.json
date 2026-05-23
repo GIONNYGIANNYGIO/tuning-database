@@ -1,0 +1,14 @@
+{
+  "brand": "ALFA",
+  "model": "ROMEO BRERA V6",
+  "prestazioni": [
+    "Engine: 3.2L Busso V6 (936 A 040) with forged internals including Carrillo H-beam connecting rods, JE 10.5:1 forged pistons, and ACL Race Series bearings for 8,500 RPM reliability. Upgraded oil pump from a Maserati 4.2L (M139) for improved lubrication under high lateral G-forces.",
+    "Forced Induction: Rotrex C38-91 supercharger with custom 3D-printed intake manifold (designed via CFD for optimal airflow to each cylinder) and a custom intercooler setup using a PWR 450mm core with dual 125mm ID silicone hoses. Supporting mods include a Bosch 044 fuel pump, Injector Dynamics ID1700x injectors, and a Motec M150 ECU with custom CAN bus integration for Alfa’s Q4 AWD system.",
+    "Suspension & Handling: Ohlins Road & Track DFV coilovers with custom valving for the Brera’s 50:50 weight distribution, paired with Eibach 25mm front and 20mm rear anti-roll bars. Chassis reinforcement via a custom bolt-in roll cage from Autopower Industries (Brera-specific design) and polyurethane bushings from SuperPro (part #SPF1040K) for the rear subframe to eliminate flex."
+  ],
+  "estetica": [
+    "Aero: Custom carbon fiber front splitter from Zender (Brera-specific, 3-piece design) with integrated canards from APR Performance (GT-250 model). Rear diffuser from Maxton Design (Brera V6-specific, 3D-printed ABS with carbon fiber weave overlay) and a custom GT-wing from Voltex (Type 7, 1,700mm width, 300mm chord, 3D-printed aluminum mounts).",
+    "Body: Full Rocket Bunny widebody kit (Brera V6-specific, hand-laid carbon fiber) with custom fender flares to clear 275/30/19 Michelin Pilot Sport Cup 2 R tires on OZ Racing Ultraleggera HLT wheels (9.5x19 ET30 front, 11x19 ET25 rear). Front bumper lip replaced with a custom 3D-printed unit from Anderson Composites (carbon fiber, Brera-specific).",
+    "Lighting & Details: Full LED conversion with LUX H8 V4 Angel Eyes (Brera-specific housing) and custom sequential taillights from VLand (Brera V6-only, TÜV-approved). Engine bay dress-up includes a custom carbon fiber strut brace from Verus Engineering (Brera-specific, 4-point design) and a custom aluminum radiator support from CSF (part #3095, Brera V6-specific)."
+  ]
+}

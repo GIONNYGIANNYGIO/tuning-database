@@ -1,0 +1,14 @@
+{
+  "brand": "ALFA",
+  "model": "ROMEO 75 1.8 TURBO",
+  "prestazioni": [
+    "Engine code: **AR06202** (1779cc, 8v SOHC, Bosch LE-Jetronic fuel injection) – Full forged internals upgrade with **Mahle Motorsport** forged pistons (8.5:1 CR), **Manley** H-beam connecting rods, and **ARP** head studs + main stud kit for 1.5-bar boost reliability.",
+    "Turbocharger: **Garrett GT2860RS-5** (Journal bearing, .64 A/R turbine housing) with **Tial 38mm wastegate** and **TurboSmart Kompact 50mm BOV** (recirculated to prevent surge). Custom **Alfa Performance** cast-iron exhaust manifold with **304 stainless steel** 3.5\" downpipe and **Supersprint** 76mm cat-back system (4-2-1 merge collectors).",
+    "Fuel & Ignition: **Bosch 044 high-flow fuel pump** with **AEM 340lph in-tank surge tank**, **ID1000x injectors** (side-feed, Alfa-specific), and **Megasquirt MS3Pro PNP ECU** (custom tune by **Alfa Romeo Racing UK**). **NGK BCPR8ES-11** spark plugs gapped at 0.7mm with **MSD 6AL-2 ignition amplifier** and **Accel 8mm silicone wires**."
+  ],
+  "estetica": [
+    "Body Kit: **Zender 75 Turbo Evolution** widebody kit (fiberglass, OEM-fitment) with **custom 3M Matte Graphite vinyl wrap** and **RallyArt-style** front splitter (carbon fiber, 3\" overhang). **OMP 75 Group A** rear wing (aluminum, adjustable angle) mounted on **Cusco** bolt-on wing risers.",
+    "Wheels & Suspension: **OZ Racing Superleggera III** 16x8 ET20 (front) / 16x9 ET15 (rear) with **Pirelli P-Zero Trofeo R** 205/45/16 (front) / 225/45/16 (rear). **Ohlins Road & Track DFV** coilovers (24-way adjustable damping, 30mm drop) with **Whiteline** adjustable rear sway bar (22mm) and **Polybush** subframe bushings (85A durometer).",
+    "Interior: **Recaro SRD** (Alfa-specific mounting brackets) with **Schroth 6-point harnesses** (ASM homologation). **Momo Prototipo** 330mm steering wheel (quick-release hub) and **Defi BF** gauges (boost, oil temp, fuel pressure) mounted in **Alfa Romeo 75 Turbo Group A** dash pod (carbon fiber, 3D-printed). **Sound deadening removed**, replaced with **Dynamat Xtreme** on firewall only for weight savings."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "ALFA",
+  "model": "ROMEO 8C COMPETIZIONE",
+  "prestazioni": [
+    "Engine: 4.7L Ferrari/Maserati F136 YC V8 (90° naturally aspirated) with a custom Motec M150 ECU reflash optimizing cam timing overlap for 500+ HP at 8,200 RPM (stock: 450 HP at 7,000 RPM), paired with a Novitec Rosso-developed dry sump system to eliminate oil starvation during sustained 1.5G lateral loads",
+    "Forced induction: Rotrex C38-91 supercharger kit with custom Alfa-specific intercooler (PWR Australia) and 100-octane mapping via Motec M150, pushing 650 HP at 7,800 RPM with a 7,500 RPM redline (retaining OEM internals with upgraded Mahle Motorsport forged pistons and Carrillo H-beam rods)",
+    "Suspension: Öhlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression), custom Alfa-specific spring rates (800 lb/in front, 650 lb/in rear), and spherical bearing upper mounts (SuperPro) to eliminate compliance in the OEM multi-link setup"
+  ],
+  "estetica": [
+    "Aerodynamics: Novitec Rosso 8C-specific carbon fiber widebody kit (front fenders, rear quarter panels, and rear diffuser) with integrated canards (Vorshlag Motorsport) and a custom 3D-printed active rear wing (Aeroflow Dynamics) adjustable via a cockpit-mounted switch (0° to 18° angle of attack)",
+    "Wheels: HRE FF15 20x10.5 ET25 (front) and 21x12.5 ET35 (rear) with custom Alfa-specific offsets, wrapped in Michelin Pilot Sport Cup 2 R tires (275/30 R20 front, 325/25 R21 rear) and paired with Brembo GT-R 6-piston calipers (front) and 4-piston (rear) with 400mm rotors (upgraded from OEM 380mm)",
+    "Exterior: Full custom paint scheme (Standox 'Rosso Competizione' with matte black accents) and a Novitec Rosso carbon fiber engine cover with a clear-coated weave, paired with a custom titanium exhaust system (Capristo) featuring quad 100mm outlets and a valved bypass for track/cruise modes"
+  ]
+}

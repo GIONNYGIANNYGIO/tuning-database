@@ -1,0 +1,14 @@
+{
+  "brand": "ALFA",
+  "model": "ROMEO 8C SPIDER",
+  "prestazioni": [
+    "Engine: 4.7L Ferrari F136Y V8 (90° DOHC, 32V, 470hp stock) – Full internal build with forged Mahle Motorsport pistons (86.5mm, 12.5:1 CR), Carrillo H-beam connecting rods, and a billet crankshaft from JE Pistons to handle 750hp+ on E85. Pair with a custom dry-sump system by Dailey Engineering to eliminate oil starvation during high-G cornering.",
+    "Forced Induction: Twin-turbo setup using Garrett GTX4202R turbos (62mm compressor, 76mm turbine) with TiAL MV-R 44mm wastegates and a custom 3.5\" intercooler core from PWR (Australia) with billet end tanks. Boost controlled via an AEM 30-4110 ECU with a custom flex-fuel map for E85, paired with ID1000x injectors and a Radium Engineering dual-catch can setup.",
+    "Suspension & Handling: Full Ohlins TTX46 coilovers with 2-way adjustable dampers and remote reservoirs, paired with custom-spec Eibach ERS springs (15% stiffer than OEM). Front subframe reinforced with a 4130 chromoly brace from Cusco, and rear subframe strengthened with a custom aluminum triangulated brace by Autotecnica Motori. Brembo GT-R 6-piston calipers (380mm rotors) up front and 4-piston (355mm) in the rear, with Ferodo DS2500 pads and Motul RBF 660 brake fluid."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion using a custom 8C-specific Rocket Bunny V3 kit (extended fenders, aggressive front splitter, and ducktail spoiler), with a 3M Matte Graphite vinyl wrap over the carbon for a stealth look. Custom front bumper canards from Verus Engineering and a rear diffuser by APR Performance with integrated exhaust exits.",
+    "Wheels & Tires: Forged 20x10.5\" ET25 (front) and 20x12\" ET40 (rear) BBS LM-R wheels in gold with custom center caps featuring the Alfa Romeo Quadrifoglio emblem. Tire setup: Michelin Pilot Sport Cup 2 R (275/30/20 front, 315/25/20 rear) with a custom tire shaving service to remove 2mm of tread for track use.",
+    "Interior: Full Alcantara retrim by Sabelt, including dashboard, door cards, and custom bucket seats (Sparco Pro ADV) with 6-point Schroth harnesses. Custom roll cage by Custom Cages (UK) with integrated fire suppression system (Lifeline Zero 360) and a Motec C127 dash display replacing the stock cluster, paired with a RaceLogic VBOX for telemetry."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "ALFA",
+  "model": "ROMEO 33 TT 12",
+  "prestazioni": [
+    "Engine: Replace the original 3.0L Tipo 33 V12 (engine code: 115.12) with a fully built, dry-sump version featuring forged Mahle pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from JE Pistons. Pair with a custom camshaft grind by Schrick (288° duration, 12.5mm lift) for optimized high-RPM breathing.",
+    "Forced Induction: Install a custom-built turbo system using a Garrett GTX5533R Gen II turbocharger with a 1.06 A/R turbine housing, paired with a custom air-to-water intercooler by PWR and a TiAL MV-R 44mm wastegate. Use a Motec M150 ECU with a custom fuel system upgrade (Bosch 2200cc injectors, Walbro 450 LPH pump, and a Radium Engineering fuel pressure regulator).",
+    "Drivetrain: Replace the original 6-speed transaxle with a Hewland LG600 sequential gearbox (dog-ring engagement) and a Sachs twin-disc carbon clutch. Install a Quaife ATB differential with a 4.11:1 final drive ratio for improved acceleration. Strengthen the half-shafts with custom CV joints from GKN Driveline."
+  ],
+  "estetica": [
+    "Aerodynamics: Install a full carbon fiber aero kit by AutoDelta (original Alfa Romeo racing division), including a front splitter with integrated dive planes, a rear diffuser with Gurney flap, and a massive rear wing with adjustable carbon fiber elements (3D-printed endplates for optimized airflow).",
+    "Bodywork: Replace the original fiberglass panels with lightweight carbon fiber bodywork from Capristo, including doors, hood, and rear clamshell. Use a custom livery inspired by the 1975 Alfa Romeo 33 TT 12 race car, featuring Martini Racing stripes and sponsor decals from historic partners like Agip and Goodyear.",
+    "Interior: Strip the original interior and install a full FIA-spec roll cage by Safety Devices, wrapped in Alcantara. Use a Sparco Pro 2000 seat with Schroth 6-point harnesses and a MOMO Mod.78 steering wheel. Install a custom dashboard with digital gauges from AIM MXS Strada and a Motec C127 data logger for real-time telemetry."
+  ]
+}

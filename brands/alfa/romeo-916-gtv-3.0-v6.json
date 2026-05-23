@@ -1,0 +1,14 @@
+{
+  "brand": "ALFA",
+  "model": "ROMEO 916 GTV 3.0 V6",
+  "prestazioni": [
+    "Engine: Alfa Romeo Busso 3.0L V6 (AR 16102) with forged internals including Carrillo H-beam connecting rods, JE 9.5:1 forged pistons, and ARP head studs for 12.5:1 static compression, paired with a custom Schrick 272° camshaft profile for high-RPM power (8,500 RPM redline).",
+    "Forced Induction: Rotrex C38-91 supercharger with custom air-to-water intercooler (PWR Advanced Cooling) and 10psi boost, mated to a custom 3.5\" intake manifold with individual throttle bodies (ITBs) from Jenvey Dynamics, tuned via standalone Motec M150 ECU with flex-fuel capability.",
+    "Drivetrain: Quaife ATB differential with 4.1:1 final drive ratio, paired with a 6-speed Alfa Romeo Selespeed transmission converted to manual shift via a custom hydraulic clutch system (Tilton twin-disc clutch) and reinforced driveshafts (GKN Driveline). Suspension: Ohlins Road & Track coilovers with 24-way adjustable damping, custom polybushings (SuperPro), and spherical bearing rear subframe mounts (Whiteline)."
+  ],
+  "estetica": [
+    "Body: Custom widebody conversion using a 916 GTV-specific Rocket Bunny V1 kit (Pandem) with carbon fiber front splitter, rear diffuser, and overfenders, retaining OEM Alfa Romeo Rosso Alfa paint with matte black accents on the hood and roof.",
+    "Wheels: OZ Racing Ultraleggera HLT 18x9.5 +20 front and 18x10.5 +25 rear, wrapped in Michelin Pilot Sport Cup 2 R tires (245/40/18 front, 275/35/18 rear), with custom center-lock adapters (BBS).",
+    "Interior: Full Alcantara retrim (Ragazzon) including dashboard, door cards, and Recaro Pole Position seats (916-specific mounts), paired with a Momo Mod.78 steering wheel (350mm) and custom aluminum shift knob (TWM Performance) for the manual Selespeed conversion. Roll cage: Custom bolt-in 6-point cage (Custom Cages UK) with removable diagonal for daily usability."
+  ]
+}

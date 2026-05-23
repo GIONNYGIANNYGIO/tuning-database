@@ -1,0 +1,14 @@
+{
+  "brand": "ALFA",
+  "model": "ROMEO GIULIA GTAM RACING",
+  "prestazioni": [
+    "Engine: 2.9L V6 Twin-Turbo (690T) with upgraded Garrett GTX4274R turbos (1.28 A/R, billet compressor wheels) and custom 3.5-inch titanium downpipes by Armytrix, paired with a Motec M150 ECU for direct port injection mapping and anti-lag system integration",
+    "Suspension: Öhlins TTX46 MkII 3-way adjustable coilovers with custom valving for the Giulia GTAm’s 50:50 weight distribution, paired with solid-mounted subframe bushings by 034 Motorsport and spherical bearing front control arms from AlfaWorks Racing",
+    "Drivetrain: Quaife ATB helical LSD with 45% preload, upgraded carbon fiber driveshaft by GKN Driveline, and a Tilton 7.25-inch triple-plate clutch with billet flywheel for the 690T’s 540 Nm torque output"
+  ],
+  "estetica": [
+    "Aerodynamics: Custom carbon fiber widebody kit by Novitec Torado, featuring GT3-spec front splitter with integrated dive planes, rear diffuser with active Gurney flap (electronically adjustable via CAN bus), and a fixed carbon fiber rear wing with 1,200mm span and NACA ducts for brake cooling",
+    "Exterior: Full PPF in XPEL Stealth with custom GTAm racing livery (Alfa Corse Rosso Competizione with matte black accents), BBS FI-R 19x11 ET25 wheels with Pirelli P Zero Trofeo R tires (305/30 front, 315/30 rear), and carbon fiber side skirts with integrated LED running lights by Diode Dynamics",
+    "Interior: Full carbon fiber Recaro SPG XL bucket seats with 6-point Schroth Profi II harnesses, custom roll cage by Safety Devices (FIA 8862-2009 certified) with integrated fire suppression system (Lifeline Zero 360), and a Motec C127 dash display replacing the stock cluster with live telemetry overlay"
+  ]
+}
