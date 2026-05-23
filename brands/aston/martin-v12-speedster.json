@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN V12 SPEEDSTER",
+  "prestazioni": [
+    "AM2 6.0L V12 (AE31) engine: Full titanium internals upgrade with forged Mahle pistons (9.0:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft by JE Pistons for 900+ HP reliability on E85. Pair with a custom dry-sump system by Dailey Engineering to eliminate oil starvation during lateral G-forces.",
+    "Forced induction via twin Precision Turbo PT6266 CEA ball-bearing turbos (62mm inducer, 88mm exducer) with Tial MV-R 44mm wastegates and a custom 4.5\" intercooler core by PWR, plumbed with -4AN hardlines and Earl's Pro-Lite fittings. Boost targets: 1.5 bar (21.7 psi) with a custom Link G4+ Xtreme standalone ECU managing sequential fueling via 12x ID1000cc injectors and a Radium Engineering dual fuel pump hanger.",
+    "Drivetrain reinforcement: Quaife ATB differential with 3.73:1 final drive ratio, upgraded half-shafts by GKN Driveline, and a Tilton triple-plate carbon clutch with a billet flywheel. Suspension overhaul with Öhlins TTX40 coilovers (24-way adjustable damping) and spherical bearing control arms by SuperPro for sub-2.0s 0-60 mph launches."
+  ],
+  "estetica": [
+    "Full carbon fiber widebody conversion by Liberty Walk (LB-WORKS) with custom front splitter, rear diffuser, and side skirts designed for the Speedster's roofless chassis. Paint: Aston Martin Q by R-M 'Liquid Silver' with matte black accents and exposed carbon weave on the rear clamshell.",
+    "Custom LED headlight assembly by LUX Automotive with bi-xenon projectors and sequential turn signals, paired with a carbon fiber hood featuring a central NACA duct for intercooler airflow. Rear lighting: Full-width LED taillight bar by Novitec with sequential startup animation.",
+    "Interior: Full Alcantara retrim by Saddleback Leather with red contrast stitching, including door cards, dashboard, and custom bucket seats by Corbeau (FX1 Pro model). Steering wheel: MOMO Prototipo 350mm with Alcantara grip and integrated AIM MXS Strada dash display. Roll cage: Custom T45 steel cage by Custom Cages UK with integrated fire suppression system by Lifeline."
+  ]
+}

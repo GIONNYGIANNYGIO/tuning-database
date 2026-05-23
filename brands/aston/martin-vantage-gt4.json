@@ -1,0 +1,15 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN VANTAGE GT4",
+  "prestazioni": [
+    "Replace the stock AM28 4.7L V8 (code: AM08) throttle bodies with Jenvey ITB (Individual Throttle Bodies) 48mm units, paired with a custom Pro Alloy Motorsport intake manifold and a K&N high-flow conical air filter system, increasing airflow by 22% and improving throttle response for track use.",
+    "Install a Motec M150 ECU with a GT4-spec calibration map, integrating a Bosch Motorsport 60-2 crank trigger wheel and a custom lambda sensor setup for precise AFR control under sustained 8,500 RPM operation, while adding a Pectel SQ6 data logger for real-time telemetry.",
+    "Upgrade the OEM exhaust system with a full titanium Akrapovič GT4 race exhaust, featuring 70mm diameter piping, a 4-into-1 merge collector, and a centrally mounted 100-cell catalytic converter, reducing weight by 18kg and increasing exhaust gas velocity for optimized scavenging at high RPM.",
+    "Fit a custom-built Garrett GT35R turbocharger (GT4 homologation-spec) with a 0.82 A/R turbine housing and a 60mm billet compressor wheel, paired with a GReddy Type-S intercooler and a TiAL MV-R 44mm wastegate, targeting 1.2 bar of boost and 550whp on 100-octane fuel."
+  ],
+  "estetica": [
+    "Install a full carbon fiber Vorsteiner GT4 aero kit, including a 3-piece front splitter with adjustable dive planes, a rear diffuser with integrated brake cooling ducts, and a GT4-spec rear wing with a 1,200mm span and adjustable angle of attack (up to 12 degrees).",
+    "Replace the OEM headlights with a set of Hella 90mm Bi-Xenon projectors, integrated with a custom LED halo ring and a carbon fiber housing, while adding a pair of Lazer Triple-R 8000 lumen auxiliary lights mounted in the front bumper for track visibility.",
+    "Fit a set of OZ Racing Ultraleggera GT4 wheels (18x11 front, 18x12 rear) with a 5x114.3 bolt pattern, wrapped in Michelin Pilot Sport Cup 2 tires (295/30/18 front, 325/30/18 rear), and paired with a custom AP Racing BBK (6-piston front, 4-piston rear) with 380mm rotors and titanium caliper pistons."
+  ]
+}

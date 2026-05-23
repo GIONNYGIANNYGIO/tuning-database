@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN VANTAGE GTE EVO",
+  "prestazioni": [
+    "AMR-developed 4.0L twin-turbocharged Mercedes-AMG M177-derived V8 (internal code: AM20.1) with forged internals: Mahle Motorsport pistons (9.5:1 CR), Carrillo H-beam connecting rods, and a billet crankshaft. Upgraded to a Garrett GTX5533R turbocharger (1.15 A/R turbine housing) with TiAL MV-R 44mm wastegates and a custom 4.5\" titanium downpipe feeding into a Akrapovič 304 stainless steel 76.2mm race exhaust system with X-pipe and electronically controlled butterfly valves for backpressure optimization.",
+    "Bosch Motorsport MS 5.1 ECU reflash with custom fuel and ignition maps for 102-octane race fuel, paired with a Pectel SQ6M+ data logger and a Motec PDM30 power distribution module. Upgraded fuel system includes twin Bosch Motorsport 044 high-flow fuel pumps, Injector Dynamics ID2000x injectors (2000cc/min), and a Radium Engineering dual-catch can setup with -12AN lines and a 1.5L surge tank for sustained lateral G-forces.",
+    "Öhlins TTX46 MkII 4-way adjustable coilovers with spherical bearing top mounts, custom valving for 1200kg front/1100kg rear spring rates, and a 30mm front/25mm rear sway bar upgrade from AST Suspension. Brembo GT-R monoblock 6-piston front (400mm discs) and 4-piston rear (380mm discs) calipers with Ferodo DS3000 pads, paired with a Bosch Motorsport ABS 9.3.2 system with GTE-spec brake bias adjustment."
+  ],
+  "estetica": [
+    "Aston Martin Racing (AMR) GTE Evo carbon fiber widebody kit with integrated front splitter, side skirts, and rear diffuser (CFRP pre-preg autoclave construction, 1.2mm thickness). Front splitter features 3x adjustable dive planes and a removable 100mm Gurney flap for high-speed stability.",
+    "Aerokit by Vorsteiner (V-STEINER-GTE) including a 1.8m carbon fiber rear wing with dual-plane adjustability (0-15° AoA) and integrated DRS (Drag Reduction System) for straight-line speed optimization. Side mirrors replaced with AMR-spec carbon fiber units with integrated LED turn signals and heated glass.",
+    "OMP Racing carbon fiber racing seats (8-way adjustable) with Schroth Profi II 6-point harnesses and a custom AMR roll cage (FIA 8862-2009 certified) with integrated fire suppression system (Lifeline Zero 360 3kg extinguisher). Interior stripped and reupholstered with Alcantara-wrapped dashboard, carbon fiber door cards, and a MOMO Mod.77 racing steering wheel with integrated AIM MXS Strada display."
+  ]
+}

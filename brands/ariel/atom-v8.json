@@ -1,0 +1,14 @@
+{
+  "brand": "ARIEL",
+  "model": "ATOM V8",
+  "prestazioni": [
+    "Replace the stock Ford-sourced 3.0L V8 (Ariel designation: *AJ-V8 Gen III*) with a *JE Pistons* forged 9.5:1 compression ratio setup, utilizing custom *Manley* titanium valves and *Ferrea* valve springs for 10,500 RPM capability, paired with a *Tomei* Type-S billet crankshaft and *Carrillo* H-beam connecting rods for 600+ HP on *VP Racing Q16* fuel",
+    "Install a *Motec M150* standalone ECU with *AEM* 4-channel wideband O2 sensors and *Haltech* CAN-based dash integration, featuring a custom *Ariel-specific* traction control map calibrated for the Atom’s 50/50 weight distribution and *Avon* A10 semi-slick tires",
+    "Upgrade the stock *Quaife* ATB differential with a *Wavetrac* limited-slip unit and *PPG* straight-cut 1.5:1 ratio drop gears, paired with a *Tilton* twin-plate carbon clutch and *Hewland* FTR sequential gearbox with *Penske* adjustable shock absorbers for launch control optimization"
+  ],
+  "estetica": [
+    "Replace the stock composite body panels with *Ariel’s* optional *carbon-fiber weave* (2x2 twill) monocoque, featuring *AeroCatch* quick-release fasteners and *3M* Scotchlite reflective pinstriping for track visibility",
+    "Install *AIM* Solo 2 DL GPS lap timer with *Garmin* VIRB Ultra 30 camera mount integrated into the *Ariel-spec* roll cage, paired with *OMP* carbon-fiber racing seats and *Schroth* 6-point harnesses in *Sabelt* fireproof webbing",
+    "Add *Ariel’s* bespoke *LED* underbody lighting kit (RGBW, *Philips Lumileds* Luxeon Z ES) with *Motec* CAN-controlled brightness sync for pit lane visibility, alongside *Aeroflow* carbon-fiber sidepod vents with *Porsche 917-style* NACA ducts for brake cooling"
+  ]
+}

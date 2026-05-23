@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN VALKYRIE",
+  "prestazioni": [
+    "Cosworth-developed 6.5L naturally aspirated V12 (AM-RB 001 engine code) with a custom dry-sump lubrication system featuring a 12-stage scavenging pump and titanium oil lines, paired with a bespoke Bosch Motorsport MS6.4 engine management system recalibrated for 1,160 HP at 10,500 RPM (100+ HP gain via optimized camshaft profiles and 12.5:1 compression ratio tuning)",
+    "Titanium connecting rods from Pankl Racing Systems with DLC (Diamond-Like Carbon) coating and upgraded ARP Custom Age625+ head studs to withstand 11,000+ RPM operation, combined with a billet aluminum crankshaft from Carrillo for reduced rotational mass and increased rigidity",
+    "Custom 7-speed Graziano semi-automatic transmission with a lightweight magnesium casing and upgraded carbon-fiber clutch plates from AP Racing, featuring a bespoke paddle-shift actuator system with 30ms upshift capability and a limited-slip differential with 80% lockup under acceleration"
+  ],
+  "estetica": [
+    "Full carbon-fiber bodywork with a custom 3D-printed titanium front splitter from Vorsteiner, designed using CFD analysis to generate 1,850 kg of downforce at 250 km/h (20% increase over stock)",
+    "Ohlins TTX40 3-way adjustable coilovers with titanium springs and a bespoke valving setup for the Valkyrie’s unique double-wishbone pushrod suspension, paired with Brembo CCM-R carbon-ceramic brake rotors (410mm front, 380mm rear) with gold-colored titanium calipers",
+    "Custom 21-inch forged magnesium wheels from Dymag with a 10-spoke design, wrapped in Michelin Pilot Sport Cup 2 R tires (295/30 front, 355/25 rear) and featuring a central-locking system with titanium wheel nuts from McLaren Applied Technologies"
+  ]
+}

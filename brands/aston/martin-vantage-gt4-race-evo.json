@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN VANTAGE GT4 RACE EVO",
+  "prestazioni": [
+    "AMR-developed 4.7L V8 (AM28) dry-sump engine with billet crankshaft, forged Mahle pistons (9.5:1 CR), and titanium valves, paired with a Pro Alloy Motorsport 6-speed sequential gearbox featuring a Sachs carbon triple-plate clutch and a 4.25:1 final drive ratio for optimized track acceleration",
+    "Garrett GT35R turbocharger (0.82 A/R turbine housing) with a custom AMR-spec intercooler (600x300x100mm core) and a Tial MV-R 50mm wastegate, feeding a Motec M150 ECU with race-grade lambda sensors and a 1,200cc/min Bosch Motorsport fuel pump for sustained 650hp at 7,800 RPM (1.8 bar boost)",
+    "Ohlins TTX40 4-way adjustable dampers with spherical bearing top mounts, Eibach 3-way adjustable anti-roll bars (24mm front, 22mm rear), and AP Racing CP8450 front calipers with 380mm CCM-X discs and Ferodo DS3000 pads, paired with a fully adjustable AST Motorsport hydraulic bump stop kit"
+  ],
+  "estetica": [
+    "Aston Martin Racing (AMR) GT4 Evo carbon fiber front splitter with integrated dive planes (30mm extension) and a 3D-printed titanium gurney flap, matched to a full-length AMR carbon underfloor with rear diffuser (50mm height increase) for +1,200 lbs of downforce at 150 mph",
+    "RML Group-designed carbon fiber rear wing (1,800mm span, 300mm chord) with dual-element active Gurney flaps (adjustable via cockpit switch) and integrated LED rain light, mounted on a custom AMR carbon fiber wing stand (200mm height)",
+    "BBS FI21 18x12.5\" (front) and 18x13\" (rear) forged wheels with center-lock adapters, wrapped in Pirelli P Zero Trofeo R tires (305/645-R18 front, 325/705-R18 rear), paired with a full carbon fiber AMR GT4 Evo body kit (including fenders, hood, and doors) with a 3M 1080 Matte Graphite vinyl wrap and exposed carbon weave accents"
+  ]
+}

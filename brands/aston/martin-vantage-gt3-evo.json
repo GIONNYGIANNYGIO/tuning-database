@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN VANTAGE GT3 EVO",
+  "prestazioni": [
+    "AMR 4.0L V8 (AM28) engine: Full titanium valvetrain upgrade with Del West 8.5mm stem titanium valves, Ferrea Competition Series valve springs, and custom billet camshafts ground by Schrick to 292° duration (intake) and 288° duration (exhaust) with 12.5mm lift for optimized GT3 endurance racing airflow at 8,500 RPM redline",
+    "Motec M150 ECU with bespoke GT3 Evo calibration map developed by Prodrive, featuring anti-lag system (ALS) with secondary throttle body injection for 0.2s turbo spool response and 600+ HP at 1.8 bar boost on VP Racing C16 GT3-spec fuel",
+    "Xtrac P1291 6-speed sequential gearbox with carbon-fiber-reinforced clutch pack from AP Racing (CP9460-2000), paired with a Quaife ATB differential with 75% lock under power and 50% lock on coast for optimal torque vectoring on Pirelli P Zero DHE 31/71-18 tires"
+  ],
+  "estetica": [
+    "Full carbon-fiber GT3 Evo aero package by Aston Martin Racing, including a 2,200mm-wide front splitter with 12 vortex generators, rear diffuser with 8 strakes (each 45mm tall), and a 1,100mm rear wing with 3-position DRS (Drag Reduction System) actuated by Bosch motorsport-grade servos",
+    "OMP Racing carbon-fiber GT3-spec seat with 6-point Schroth Racing harness (FHR-6AS) and integrated MOMO carbon-fiber steering wheel (13.5-inch diameter) featuring a Motec C127 dash display with real-time tire pressure monitoring (TPMS) via Continental sensors",
+    "Custom livery by Viper Studios using 3M 1080 vinyl wrap in Aston Martin Racing Green (Pantone 3435 C) with matte black accents, including a 50mm-wide stripe running from the A-pillar to the rear wing endplates, and sponsor decals applied with Avery Dennison Supreme Wrapping Film for endurance UV resistance"
+  ]
+}

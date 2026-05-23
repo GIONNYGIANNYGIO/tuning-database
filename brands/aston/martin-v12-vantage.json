@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN V12 VANTAGE",
+  "prestazioni": [
+    "AM28 6.0L V12 (AM09/AM11 engine code) forced induction conversion using a Garrett GTX5533R turbocharger with billet compressor wheel, 1.05 A/R turbine housing, and TiAL MV-R 44mm external wastegate, paired with a custom 4-inch stainless steel downpipe and a GReddy Profec B Spec II boost controller for 12 psi peak boost (stock internals retained for reliability).",
+    "Full Motec M150 ECU standalone engine management system with individual cylinder fuel trims, custom camshaft timing maps, and integrated traction control, calibrated by Dynojet UK for 750+ WHP on 100-octane fuel, utilizing Bosch Motorsport 2000cc injectors and a Radium Engineering dual-catch can system with -10AN lines.",
+    "Bilstein B16 PSS10 coilovers with custom valving for the V12 Vantage’s aluminum-intensive chassis, paired with Eibach Pro-Street S anti-roll bars (24mm front, 22mm rear) and polygraphite bushings from SuperPro, along with a full Whiteline front subframe brace and rear toe control links for improved turn-in response."
+  ],
+  "estetica": [
+    "RML Group carbon fiber widebody conversion kit (V12 Vantage-specific, not Vantage F1 or V8 variants), including extended front fenders, rear quarter panels, and a custom rear diffuser with integrated twin exhaust exits for the GT300-style dual-can setup.",
+    "Vorsteiner V-FF 1071 forged carbon fiber front splitter with adjustable dive planes and a custom 3D-printed aluminum support bracket for the V12 Vantage’s unique front bumper geometry, paired with a full carbon fiber rear wing from Anderson Composites (GT3-spec, 1,200mm width) with Gurney flap and integrated third brake light.",
+    "OEM+ interior overhaul featuring a full Alcantara headliner, Recaro Pole Position seats (carbon fiber shell, FIA-approved) with Schroth Profi II 6-point harnesses, and a custom MOMO Mod.78 steering wheel with quick-release hub and integrated AIM MXS Strada dash display for real-time boost, oil pressure, and AFR monitoring."
+  ]
+}

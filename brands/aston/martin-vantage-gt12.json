@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN VANTAGE GT12",
+  "prestazioni": [
+    "AM29 6.0L V12 (AM11) engine: Full titanium internals upgrade with Cosworth forged pistons (9.0:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft for 8,500 RPM redline capability, paired with a custom dry-sump oiling system by Dailey Engineering to eliminate oil starvation under 1.5G lateral loads",
+    "Garrett GT4202 twin-turbocharger kit (GT12-specific) with 1.25 A/R turbine housings, 68mm billet compressor wheels, and TiAL MV-R 44mm wastegates, feeding a custom 4.5-inch titanium exhaust system by Akrapovič with quad 3.5-inch outlets and a secondary bypass valve for on-demand backpressure tuning",
+    "Motec M150 ECU with GT12-specific firmware, integrated with a Pectel SQ6M data logger and a custom traction control system utilizing Bosch Motorsport ABS sensors, allowing for 0-60 mph in 2.9 seconds via launch control with 100% torque vectoring via a Quaife ATB differential (35% lockup under load)"
+  ],
+  "estetica": [
+    "Full carbon-fiber body conversion using Aston Martin Racing GT12-spec panels (0.6mm pre-preg weave) with a 3D-scanned Rocket Bunny widebody kit (GT12-specific, not Vantage V8/V12) featuring a 50mm extended front splitter, 70mm rear overfenders, and a fixed carbon rear wing with Gurney flaps (adjustable via hydraulic actuators)",
+    "Ohlins TTX40 3-way adjustable coilovers with GT12-specific valving, paired with AST Racing 500-series spherical bearing top mounts and Eibach ERS 1,200 lb/in springs, lowering ride height to 95mm front and 100mm rear for optimal aero balance (verified via wind tunnel testing at MIRA)",
+    "BBS FI-R 19x11 front and 19x13 rear forged wheels (GT12-specific offsets: +30mm front, +45mm rear) wrapped in Michelin Pilot Sport Cup 2 R tires (295/30 front, 325/30 rear), with a custom center-lock conversion using AP Racing CP8860 calipers and 400mm carbon-ceramic rotors (GT12-spec, not V12 Vantage)"
+  ]
+}

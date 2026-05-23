@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN VANTAGE V8",
+  "prestazioni": [
+    "AMR-developed AM28 4.0L twin-turbo V8 (engine code: AEJ31) with forged internals: Mahle Motorsport pistons (9.5:1 CR), Carrillo H-beam connecting rods, and a billet crankshaft for 8500 RPM redline capability, paired with a Garrett GTX5533R turbocharger (1.35 A/R turbine housing) and TiAL MV-R 44mm wastegates for 1.2 bar peak boost, targeting 850+ HP on E85 fuel with a Motec M150 ECU and custom flex-fuel mapping",
+    "Full titanium exhaust system by Akrapovič: 3.5-inch diameter 304 stainless headers with equal-length merge collectors, paired with a straight-pipe mid-section and a titanium quad-exit rear valved exhaust (valves controlled via Motec CAN bus), reducing weight by 22 kg and improving scavenging via 12% backpressure reduction",
+    "Öhlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression), custom valving for the Vantage’s aluminum-intensive chassis, and spherical bearing top mounts (replacing OEM rubber bushings) for subframe rigidity, paired with AST 520-series spherical bearing lower control arms and a 30mm front sway bar (replacing OEM 24mm) from H&R for 40% stiffer roll resistance"
+  ],
+  "estetica": [
+    "RML Group carbon fiber widebody kit (front fenders extended 50mm, rear fenders 70mm) with integrated cooling ducts for the GT3-spec brake system, paired with a custom 3D-printed carbon fiber front splitter (25mm overhang) and a fixed rear wing (1.2m span, 300mm chord) with Gurney flap, all finished in satin Aston Racing Green (code: RAL 6001)",
+    "BBS FI-R 20x10.5 ET35 (front) and 21x12.5 ET40 (rear) forged wheels in gold finish, wrapped in Michelin Pilot Sport Cup 2 R tires (275/30 R20 front, 325/25 R21 rear) with custom TPMS sensors for 1.5 bar cold pressure, paired with AP Racing CP9460-1000 400mm front brake discs (2-piece floating rotors) and CP8540-100 rear calipers (6-piston)",
+    "Full carbon fiber interior overhaul by Sabelt: carbon fiber door cards with Alcantara inserts, a 6-point bolt-in FIA-spec roll cage (T45 steel, 2.5mm wall thickness) with integrated fire suppression system (Lifeline Zero 360), and a custom MOMO Prototipo steering wheel (380mm diameter, Alcantara grip) with integrated AIM MXS Strada dash display (12 data channels, including turbo speed and EGTs)"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN VANTAGE AMR PRO CONCEPT",
+  "prestazioni": [
+    "AM28 4.0L twin-turbocharged V8 (AE31) with upgraded Mahle Motorsport forged pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a bespoke Garrett GTX5533R turbocharger (1.28 A/R turbine housing) paired with a custom 4.5-inch titanium downpipe and Akrapovič 3.5-inch titanium exhaust system with electronically actuated bypass valves for track-only backpressure optimization",
+    "Full Motec M150 ECU with custom calibration for 800+ hp on E85 (stock internals safe to 8,500 RPM redline), integrated with a Pectel SQ6M data logger for real-time telemetry, including cylinder-specific knock control and individual throttle body (ITB) mapping for the stock 8-injector setup with upgraded Bosch Motorsport 2,200cc injectors",
+    "Öhlins TTX46 MkII coilovers with 3-way adjustable damping (compression/rebound/blow-off), custom valving for the AMR Pro’s carbon-fiber subframe, and spherical bearing top mounts from AST Suspension, paired with a full polybush kit from SuperPro (part #SPF5479K) for the rear multi-link suspension and front double-wishbone setup"
+  ],
+  "estetica": [
+    "Full carbon-fiber widebody conversion using the Liberty Walk LB-WORKS Vantage AMR Pro kit (prepreg autoclave carbon, 50mm extended fenders front/rear), including custom 3D-printed ABS wheel arches with integrated air curtains for brake cooling, finished in Aston Martin Q by R-M ‘Liquid Silver’ with matte black carbon weave accents",
+    "Custom front splitter and rear diffuser from Anderson Composites (Vantage AMR Pro-specific molds), featuring active Gurney flaps (electrically actuated via MoTeC PDM30) and a 3-stage rear wing (static, 15°, 25°) with a titanium support structure and DRS-style drag reduction system (hydraulic actuation, 0.5s deployment time)",
+    "BBS FI-R 20x11 ET35 (front) and 21x13 ET45 (rear) forged wheels with titanium hardware, wrapped in Michelin Pilot Sport Cup 2 R tires (295/30/20 front, 325/30/21 rear), paired with AP Racing CP9470-4S carbon-ceramic brakes (410mm front, 390mm rear) with titanium caliper pistons and bespoke Pagid RS29 brake pads for endurance racing"
+  ]
+}

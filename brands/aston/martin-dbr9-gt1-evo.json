@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN DBR9 GT1 EVO",
+  "prestazioni": [
+    "Engine: 6.0L V12 (AM-11, derived from the Aston Martin V12 Vanquish) with a Prodrive-developed dry-sump lubrication system, reinforced billet crankshaft (forged by Cosworth), and Mahle Motorsport forged pistons (9.0:1 compression ratio) paired with titanium connecting rods (Pankl Racing Systems).",
+    "Forced Induction: Twin Prodrive-spec Garrett GT42R turbochargers (84mm compressor wheels, 76mm turbine wheels) with custom billet compressor housings, TiAL Sport 50mm wastegates, and a bespoke air-to-water intercooler (PWR Racing) with a 12-row core and integrated water spray system for thermal management.",
+    "Drivetrain: Xtrac 6-speed sequential transaxle (P1046) with a carbon-fiber driveshaft, AP Racing 6-piston calipers (front) and 4-piston (rear) with 380mm carbon-carbon brake discs (Brembo GT1-spec), and a Quaife ATB differential with a 75% lockup under load."
+  ],
+  "estetica": [
+    "Aerodynamics: Prodrive-developed GT1 Evo aero package featuring a carbon-fiber front splitter with integrated dive planes (30% more downforce than standard DBR9), a rear diffuser with Gurney flaps (adjustable via quick-release pins), and a fixed rear wing with a 1,200mm span (carbon-fiber, 3-element design with swan-neck mounts).",
+    "Bodywork: Full carbon-fiber body panels (pre-preg autoclave-cured) with a 3M 1080 vinyl wrap in Aston Martin Racing Gulf livery (Pantone 3005C blue, Pantone 123C orange), including a custom hood scoop for intercooler ducting (routed to the passenger-side fender).",
+    "Interior: Sparco Pro 2000 GT1 racing seats (carbon-Kevlar construction) with 6-point Schroth Racing harnesses, a MOMO Mod.78 GT1 steering wheel (quick-release, Alcantara-wrapped), and a Motec C127 dash logger with integrated GPS lap timing (data overlay via AIM Solo 2 DL)."
+  ]
+}

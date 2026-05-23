@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN VANTAGE GTE",
+  "prestazioni": [
+    "Replace the factory AM28 4.0L twin-turbo V8 (engine code: AE31) with a bespoke dry-sump billet aluminum block from RML Group, bored to 4.2L with forged Mahle Motorsport pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from Bryant Racing. Pair with a custom dry-sump oil system from Peterson Fluid Systems (4-stage, 10-quart capacity) and a titanium baffled oil pan from Moroso.",
+    "Upgrade the turbochargers to Garrett GTX5533R Gen II turbos with 76mm billet compressor wheels, 106mm turbine wheels, and TiAL Sport MV-R 60mm wastegates. Integrate a custom 4.5-inch titanium downpipe system from Akrapovič with 304 stainless steel flex sections and a secondary catalytic converter delete (for track use only). Pair with a Motec M150 ECU and PDM30 power distribution module for full CAN bus integration and individual cylinder fuel trimming.",
+    "Install a bespoke 1,200cc/min port-injection system from Injector Dynamics (ID1700x injectors) alongside the factory direct-injection system, fed by a dual Bosch Motorsport 044 high-flow fuel pump setup with a surge tank from Radium Engineering. Pair with a custom intercooler from PWR (bar-and-plate, 1,200hp capacity) and a 4-inch silicone charge pipe kit from Vibrant Performance with V-band clamps."
+  ],
+  "estetica": [
+    "Replace the factory front splitter with a carbon-fiber GT3-spec unit from APR Performance, featuring an integrated 3D-printed air curtain system and adjustable dive planes. Pair with a full carbon-fiber rear diffuser from Vorsteiner, designed to work with the GTE’s rear diffuser mounting points and featuring integrated brake cooling ducts.",
+    "Install a custom widebody kit from Liberty Walk (LB-WORKS Vantage GTE-specific), including carbon-fiber fender flares with integrated air vents, a carbon-fiber hood with dual central vents, and a rear bumper cover with a central diffuser extension. Pair with a set of OZ Racing Ultraleggera HLT wheels (19x12 front, 19x13 rear) wrapped in Michelin Pilot Sport Cup 2 R tires (305/30/19 front, 325/30/19 rear).",
+    "Replace the factory roll cage with a FIA-spec 8-point bolt-in cage from Custom Cages (T45 steel, chrome-moly construction), featuring integrated fire suppression system mounts and a removable passenger-side bar for street legality. Pair with a full carbon-fiber interior from Cobra Seats, including a bespoke GT3-style steering wheel from MOMO (carbon-fiber, 320mm diameter) and a digital dash from AIM MXS Strada (12-inch display, CAN bus integration)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN DB6",
+  "prestazioni": [
+    "Replace the original 4.0L Tadek Marek inline-6 (engine code: DB6/240) with a fully balanced and blueprinted 4.7L version featuring forged Mahle pistons (9.5:1 CR), Carrillo H-beam connecting rods, and a billet crankshaft from Cosworth, paired with a custom Weber 48 IDA carburetor setup (4x twin-choke) and a bespoke stainless steel exhaust manifold by Janspeed Engineering with 2.5\" primary tubes and 3.5\" collectors",
+    "Install a custom-engineered dry sump lubrication system by Peterson Fluid Systems with a 10-quart capacity, dual scavenge pumps, and a remote oil cooler (Setrab 25-row) to handle sustained high-RPM operation (redline increased to 7,200 RPM via a custom camshaft profile by Kent Cams with 290° duration and 0.520\" lift)",
+    "Upgrade the original 4-speed ZF gearbox to a close-ratio 5-speed Tremec TKO-600 (with a custom bellhousing adapter by G-Force Transmissions) and a limited-slip differential (Quaife ATB helical LSD) with 3.73:1 final drive ratio, paired with a Tilton twin-plate ceramic clutch and lightweight flywheel (12.5 lbs)"
+  ],
+  "estetica": [
+    "Replace the original steel body panels with lightweight carbon fiber replicas (by RS Panels) for the hood, trunk, and doors, reducing weight by ~120 lbs while retaining the DB6’s iconic silhouette, finished in a custom Aston Martin Racing Green (code: RAL 6001) with hand-brushed aluminum accents",
+    "Install a bespoke widebody conversion kit by RML Group, extending the fenders by 2.5\" (front) and 3\" (rear) to accommodate 18x9.5\" (front) and 18x11\" (rear) BBS RS-GT wheels (ET25/ET15) wrapped in Michelin Pilot Sport Cup 2 tires (245/40 and 295/35 respectively), paired with a custom front splitter and rear diffuser by Vorsteiner",
+    "Retrofit the interior with a full Alcantara and carbon fiber overhaul by SNG Barratt, featuring Recaro CS-E bucket seats (with 4-point Schroth harnesses), a MOMO Prototipo steering wheel (380mm, suede), and a custom roll cage by Safety Devices (8-point, TIG-welded, chrome-moly steel) with integrated fire suppression system (Lifeline Zero 360)"
+  ]
+}

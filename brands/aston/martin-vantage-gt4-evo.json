@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN VANTAGE GT4 EVO",
+  "prestazioni": [
+    "AMR-developed 4.0L Mercedes-AMG M177 twin-turbo V8 (engine code: M177 DE 40 AL) recalibrated with a Motec M150 ECU standalone system, targeting 650hp at 7,000 RPM with a 9,000 RPM redline via custom camshaft profiles (288° intake, 292° exhaust) and upgraded valve springs (Ferrea F2100) for sustained high-RPM operation",
+    "Garrett GTX3582R Gen II turbochargers with billet compressor wheels (62mm inducer, 82mm exducer) and TiAL MV-R 44mm wastegates, paired with a custom AMR stainless steel equal-length header and 3.5-inch titanium exhaust system (Akrapović GT4-spec) with electronically actuated bypass valves for optimal backpressure management",
+    "Öhlins TTX40 4-way adjustable coilovers with GT4-spec spring rates (350 lbs/in front, 450 lbs/in rear), spherical bearing top mounts (Tractive Suspension), and adjustable anti-roll bars (H&R 25mm front, 22mm rear) for GT3-level chassis stiffness, complemented by a polyamide-reinforced carbon fiber front splitter (AMR GT4 Evo aero kit) with active dive planes for 1,200 lbs of downforce at 150 mph"
+  ],
+  "estetica": [
+    "Full carbon fiber body conversion (AMR GT4 Evo widebody kit) with integrated NACA ducts for brake cooling, featuring a 3D-printed ABS rear diffuser with Gurney flaps (30mm height) and a fixed rear wing (AMR GT4-spec, 1,100mm chord) with adjustable angle of attack (0° to +12°) for aerodynamic balance",
+    "BBS FI-R 18x12-inch front and 18x13-inch rear forged wheels (ET25 front, ET5 rear) wrapped in Pirelli P Zero Trofeo R tires (305/645-R18 front, 325/705-R18 rear) with custom center-lock adapters (HRE Performance) and titanium wheel bolts (ARP 625+), finished in a matte graphite with polished lip",
+    "Interior stripped and reupholstered with a full FIA-spec roll cage (Sparco Pro2000, 45mm diameter chromoly steel), carbon fiber Recaro SPG-K seats (Schroth 6-point harnesses), and a custom carbon fiber dashboard (AMR GT4 Evo) housing a Motec C127 digital dash with integrated lap timer and G-force logging"
+  ]
+}

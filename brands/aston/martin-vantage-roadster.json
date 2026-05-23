@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN VANTAGE ROADSTER",
+  "prestazioni": [
+    "AMR-developed twin-turbo upgrade for the AM28 (4.0L V8) utilizing Garrett GT35R turbos with billet compressor wheels, 0.82 A/R turbine housings, and TiAL MV-R 44mm wastegates, paired with a custom AMR intercooler (12-row, 100% aluminum core) and a CSF Racing dual-pass radiator to maintain intake temps below 45°C under full boost (target: 650whp on 98 RON fuel with E85 flex-fuel mapping via Syvecs S8 ECU)",
+    "Full titanium exhaust system by Akrapović (4-2-1 headers with 3.5\" primary tubes, 4.5\" center section, and dual 4.5\" titanium rear mufflers) featuring a valved bypass for track/cruise modes, reducing backpressure by 38% over OEM while adding 22kg of weight savings",
+    "Öhlins TTX46 coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression), custom valved for the Vantage Roadster’s aluminum-intensive chassis, paired with Eibach ERS 1200N/mm springs and spherical bearing top mounts by SuperPro for subframe rigidity"
+  ],
+  "estetica": [
+    "RML Group GT3-inspired carbon fiber widebody kit (front fenders extended by 50mm, rear quarter panels by 70mm) with integrated canards and a 3D-printed aluminum diffuser insert for the OEM diffuser, all finished in satin carbon with exposed weave",
+    "BBS FI-R 20x9.5\" ET35 (front) and 21x12\" ET45 (rear) forged wheels in matte gold, wrapped in Michelin Pilot Sport Cup 2 R tires (275/30/20 front, 325/25/21 rear) with custom Aston Martin-branded center caps and titanium wheel bolts by ARP",
+    "Full carbon fiber interior overhaul by Sabelt, including a GT3-style carbon fiber steering wheel with integrated AIM MXS dash, carbon fiber door cards with Alcantara inserts, and a bespoke roll cage (T45 steel, 3.2mm wall thickness) painted in Aston Martin Racing Green with gold pinstripes"
+  ]
+}

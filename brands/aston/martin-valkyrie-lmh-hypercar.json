@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN VALKYRIE LMH HYPERCAR",
+  "prestazioni": [
+    "Cosworth-developed 6.5L naturally aspirated V12 (AM-RB 001-derived, code: AV65) with a bespoke dry-sump lubrication system featuring a 12-stage scavenging setup and titanium conrods from Pankl Racing Systems, paired with a 7-speed Xtrac P1227 sequential transaxle (F1-style paddle-shift actuation) and a Quaife ATB differential for optimized torque vectoring under 1,160+ hp (1,000 Nm) outputs",
+    "Full-carbon fiber monocoque chassis (Toray T1100G) reinforced with Alcon 6-piston front/4-piston rear carbon-ceramic brake calipers (380mm front/360mm rear discs) and a Bosch MS 6.1 motorsport ABS system calibrated for Le Mans-spec deceleration (3.5G braking forces)",
+    "Custom Garrett GTX5544R hybrid turbocharger upgrade (for LMH homologation compliance) with a bespoke intercooler core by PWR (Australia) and a Motec M150 ECU managing direct/port injection (1,200cc/min Bosch Motorsport injectors) with a 10,000 RPM redline and active aero adjustments via a WABCO pneumatic ride-height control system"
+  ],
+  "estetica": [
+    "Gurney flaps on the rear diffuser (3D-printed titanium by APWORKS) and a front splitter extension with active DRS (Drag Reduction System) via a hydraulic actuator from Moog, synchronized with the LMH-spec rear wing (carbon fiber, 3-element design by Multimatic)",
+    "Full-body PPG 'Valkyrie LMH Silverstone' livery with matte carbon weave (pre-preg autoclave-cured) and exposed titanium fasteners (A286 alloy) from Lisi Aerospace, paired with OZ Racing LM-P1 magnesium wheels (18x13 front/18x15 rear) wrapped in Michelin Pilot Sport Cup 2 R tires (345/30 R18 front, 405/30 R18 rear)",
+    "Custom LED headlight clusters by Osram (Ostar Projection Module) with adaptive beam shaping for night racing, integrated into a carbon fiber nose section with NACA ducts for brake cooling, and a rear light bar (Brembo Racing-spec) with sequential turn signals for pit lane visibility"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN V12 VANTAGE GT3",
+  "prestazioni": [
+    "AMR-developed 6.0L V12 (AM2) dry-sump engine with billet crankshaft, forged Mahle pistons (9.0:1 CR), and titanium conrods; paired with a bespoke Bosch MS6.4 engine management system recalibrated for 650+ hp on 102 RON fuel, utilizing a GT3-spec Motec PDM15 power distribution module for precise ignition and fuel mapping under FIA GT3 endurance conditions",
+    "Garrett GT35R turbocharger (single-turbo conversion with 0.82 A/R turbine housing) mated to a custom AMR titanium exhaust manifold and a secondary Tial 44mm wastegate, feeding into a Akrapovič 3.5-inch titanium exhaust system with GT3-legal backpressure valves and a secondary catalytic converter bypass for track-only use",
+    "Öhlins TTX40 4-way adjustable dampers with AST spherical bearing top mounts, paired with a bespoke AMR front subframe reinforcement kit (aluminum-lithium alloy) and a GT3-spec carbon fiber rear diffuser with integrated Gurney flap, reducing front lift by 42% at 200 km/h per Aston Martin Racing wind tunnel data"
+  ],
+  "estetica": [
+    "Aston Martin Racing GT3 carbon fiber widebody kit (part #AMR-12-001) with integrated FIA-spec dive planes and a 3D-printed titanium rear wing mount (SLM process) for the AMR GT3 rear wing (2,100mm span, 300mm chord, NACA 63A012 airfoil), reducing drag by 8% over the road-car wing",
+    "BBS FI-R 18x12-inch forged magnesium wheels (ET45, 5x112 PCD) wrapped in Pirelli P Zero Trofeo R tires (305/650-R18) with a custom TPMS system (Beru Sensors) for real-time tire pressure monitoring at 10Hz intervals, paired with AP Racing CP8470-1000 carbon-ceramic brake rotors (410mm front, 390mm rear) and 6-piston monobloc calipers with titanium pistons",
+    "Full carbon fiber interior with a Sparco Pro2000 GT3 seat (FIA 8862-2009 certified) mounted on a Schroth 6-point harness (FIA 8853/2016) and a custom AMR carbon fiber steering wheel (part #AMR-12-002) featuring a Motec C127 dash display with integrated Bosch MS6.4 telemetry logging, including brake pressure, G-forces, and lap delta timing"
+  ]
+}

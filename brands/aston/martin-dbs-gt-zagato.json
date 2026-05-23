@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN DBS GT ZAGATO",
+  "prestazioni": [
+    "Engine: AE31 5.2L twin-turbocharged V12 (AM28) with a custom Motec M150 ECU reflash targeting 850hp at 7,200 RPM via revised ignition timing (12° BTDC) and 1.5 bar boost pressure, paired with a Garrett GTX5533R turbocharger (88mm compressor wheel) and a Tial MV-R 60mm wastegate for precise boost control",
+    "Exhaust: Capristo 3.5-inch titanium full-system with 200-cell catalytic converters and electronically actuated bypass valves, reducing backpressure by 42% while maintaining Euro 6d compliance via secondary O2 sensor manipulation in the ECU",
+    "Suspension: Öhlins TTX46 coilovers with 3-way adjustable damping (compression/rebound/low-speed), custom-valved for the DBS GT Zagato’s 50:50 weight distribution, paired with solid-mounted front subframe bushings (SuperPro SPF5555K) and a Whiteline 27mm rear sway bar to eliminate body roll under 1.5G lateral load"
+  ],
+  "estetica": [
+    "Aero: Zagato-designed carbon fiber widebody kit with integrated front splitter (35mm extension) and rear diffuser (50mm deeper than OEM), featuring active Gurney flaps (deployable at 120mph via Bosch ABS module integration) and a fixed rear wing with a 1,200mm span and 3° adjustable angle of attack",
+    "Wheels: HRE FF16 flow-formed forged wheels (20x10.5 front, 21x12.5 rear) with a 5x114.3 bolt pattern, wrapped in Michelin Pilot Sport Cup 2 R tires (275/30 ZR20 front, 325/25 ZR21 rear) and secured with titanium lug nuts (McGard 24567)",
+    "Interior: Full Alcantara retrim with exposed carbon fiber door cards (Zagato-sourced weave) and a custom roll cage (MCS Motorsport 6-point bolt-in, T45 steel) integrated with a Sparco Pro 2000 seat (carbon shell, FIA 8862-2009 certified) and a CAE Ultra-Shifter (short-throw, 30% reduction in throw distance)"
+  ]
+}

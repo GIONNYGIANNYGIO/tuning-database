@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN VALHALLA",
+  "prestazioni": [
+    "AMR-developed hybrid twin-turbo V8 (TM01 engine code) with forged internals: Mahle Motorsport 9.5:1 compression pistons, Carrillo H-beam connecting rods, and a billet crankshaft, paired with a Cosworth high-pressure direct-injection system (2,500 bar) and a Garrett GTX5533R turbocharger (1.3 bar boost) for 1,012 hp at 7,200 rpm and 800 lb-ft of torque at 5,500 rpm",
+    "Pankl Racing Systems 8-speed dual-clutch transmission with a Quaife ATB differential and a custom AMR torque vectoring system, featuring a 30% faster shift response via a Motec M182 ECU with launch control and flat-foot shifting (0-60 mph in 2.2s)",
+    "Ohlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression), paired with a T45 steel subframe reinforcement kit from RML Group and AP Racing 420mm carbon-ceramic brake discs with 6-piston calipers (front) and 380mm discs with 4-piston calipers (rear)"
+  ],
+  "estetica": [
+    "RML Group carbon-fiber widebody kit with integrated active aerodynamics (front splitter, rear diffuser, and rear wing with DRS), increasing downforce by 40% at 150 mph (1,200 kg total)",
+    "Bremont x Aston Martin Valhalla-specific titanium exhaust system with quad 100mm outlets, featuring a vacuum-actuated bypass valve and Inconel 625 headers for a 1,200°C heat tolerance",
+    "Forge Motorsport carbon-fiber interior with titanium roll cage (FIA-spec), Sparco Pro 2000 seats with 6-point harnesses, and a custom digital dash (12.3-inch) running Bosch Motorsport M5 AP software for real-time telemetry"
+  ]
+}

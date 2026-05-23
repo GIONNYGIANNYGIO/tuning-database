@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN VALKYRIE AMR PRO",
+  "prestazioni": [
+    "Cosworth-developed 6.5L naturally aspirated V12 (AMR Pro-specific code: *AM28*) with titanium connecting rods (Pankl Racing Systems), CNC-ported cylinder heads (flow-optimized for 11,100 RPM redline), and a bespoke dry-sump lubrication system (Titan Motorsport billet pan) to maintain 1,160 HP at 10,000 RPM under sustained lateral loads exceeding 3.3G",
+    "Full titanium exhaust system (Capristo 4-into-1 headers with Inconel 625 primary tubes, paired with a Akrapovič carbon-fiber muffler featuring a 3D-printed titanium internal baffle structure) to reduce backpressure by 18% while maintaining FIA noise compliance (105 dB at 7,000 RPM)",
+    "Multimatic DSSV coilover suspension with 4-way adjustable dampers (200 Hz frequency response), integrated with a carbon-fiber anti-roll bar system (Eibach hollow-core bars, 22mm front/18mm rear) and a hydraulic ride-height adjustment system (10mm range) for dynamic aero optimization at speeds above 180 mph"
+  ],
+  "estetica": [
+    "Full carbon-fiber bodywork replacement (Toray T1100G pre-preg, autoclave-cured) with a 3D-printed titanium underbody diffuser (Vortex Dynamics, generating 1,850 kg of downforce at 200 mph) and active Gurney flaps (deployable at 120+ mph via Bosch Motorsport ECU)",
+    "Bespoke carbon-fiber wheel centers (Dymag CX-AT, 20\" front/21\" rear) with titanium wheel nuts (McLaren F1-spec, 12-point drive) and Michelin Pilot Sport Cup 2 R tires (345/30 R21 front, 355/25 R22 rear) featuring a custom compound (Michelin Pilot Sport GT track-only blend, 10% softer than standard Cup 2 R)",
+    "LED matrix headlights (Osram SSL 120, 1,200 lumens per unit) with adaptive beam shaping (Bosch Smart Cornering Light System) and a carbon-fiber rear wing (Aston Martin Racing in-house design, 1.8m span) with a dual-plane active adjustment system (0-15° angle, controlled via MoTeC ADL3 dash)"
+  ]
+}

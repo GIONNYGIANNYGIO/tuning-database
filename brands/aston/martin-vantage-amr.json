@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN VANTAGE AMR",
+  "prestazioni": [
+    "AMR-tuned 4.0L Mercedes-AMG M177 twin-turbo V8 (engine code: M177 DE 40 AL) with a bespoke Manthey Racing ECU reflash (MR-177-001) optimizing ignition timing for 98 RON fuel, increasing boost pressure to 1.4 bar (stock: 1.1 bar) and recalibrating the throttle response map for a 0.15s faster tip-in, yielding 620 hp at 6,800 rpm and 600 lb-ft of torque from 2,500-5,500 rpm (stock: 535 hp, 505 lb-ft)",
+    "Full titanium Akrapović Evolution Line exhaust system (PN: AMR-TI-4000) with quad 100mm carbon-fiber tips, 304-grade stainless steel headers, and a secondary catalytic converter delete (replaced with GESI high-flow sports cats), reducing backpressure by 42% and saving 18 kg over stock",
+    "KW Suspensions Clubsport 3-way adjustable coilovers (PN: 3W904100) with remote reservoirs, 12-position rebound damping, and 20mm adjustable ride height, paired with Manthey Racing monoball upper control arms (PN: MR-ARM-002) and spherical bearing subframe collars to eliminate compliance, improving front-end rigidity by 28%"
+  ],
+  "estetica": [
+    "RML Group carbon-fiber widebody conversion kit (PN: RML-AMR-VANTAGE-WB) with extended front fenders (35mm per side), rear quarter panels (50mm per side), and a bespoke rear diffuser with integrated Gurney flap, increasing downforce by 37% at 150 mph while maintaining the OEM paint-match finish",
+    "Vorsteiner V-FF107 forged 21x10.5J front and 21x12.5J rear wheels (ET35 front, ET40 rear) in a satin black finish, wrapped in Michelin Pilot Sport Cup 2 R tires (295/30 ZR21 front, 325/30 ZR21 rear) with custom Aston Martin AMR center caps and titanium wheel bolts (McGard 24157)",
+    "Full carbon-fiber interior overhaul featuring a Manthey Racing roll cage (PN: MR-CAGE-003) with integrated fire suppression system (Lifeline Zero 360), Recaro Pole Position seats (PN: RPP-900) upholstered in Alcantara with red contrast stitching, and a custom carbon-fiber shift knob (TTE 400) replacing the OEM unit for a 150g weight reduction"
+  ]
+}

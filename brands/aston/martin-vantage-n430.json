@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN VANTAGE N430",
+  "prestazioni": [
+    "AM28 (AMG M177-derived 4.0L twin-turbo V8) engine: Full titanium 100mm downpipes with integrated 200-cell catalytic converters (Akrapović Evolution Line) paired with a custom GT3-spec X-pipe bypassing the factory resonators for a 35% reduction in backpressure and +42hp at 6,800 RPM.",
+    "AM28 forced induction: Hybrid turbocharger upgrade (Garrett GTX3582R with billet compressor wheel and 0.82 A/R turbine housing) running 24psi peak boost on 99 RON fuel, supported by a custom Motec M150 ECU with cylinder-specific knock control and individual throttle body mapping for linear power delivery up to 7,500 RPM.",
+    "Chassis reinforcement: Full carbon-fiber torque tube (RML Group) replacing the factory aluminum unit, reducing rotational mass by 18kg while increasing torsional rigidity by 22%. Paired with a Quaife ATB differential (85% lock) and AP Racing CP8466-8000 carbon-ceramic brakes with 410mm front rotors and six-piston calipers for sustained 1.5g deceleration."
+  ],
+  "estetica": [
+    "Aerodynamic package: Carbon fiber front splitter (Vorsteiner V-FF1000) with integrated dive planes and a rear diffuser (Rocket Bunny V3) featuring active Gurney flaps (adjustable via cockpit switch) for a 38% increase in downforce at 180mph without added drag.",
+    "Exterior trim: Full carbon-fiber body conversion (Novitec Torado widebody kit) with 30mm extended fenders, custom 3D-printed side skirts (Aston Martin Q by RML), and a titanium exhaust finisher (Capristo 2000RB) replacing the factory chrome tips for a 1.2kg weight reduction.",
+    "Interior: Bespoke carbon-fiber Recaro Pole Position seats (Sparco Pro 2000 shell with Aston Martin N430-specific bolsters) wrapped in Alcantara (Autostyle Milano) with red contrast stitching, paired with a titanium roll cage (Custom Cages T45) and a digital dash (Aim MXS Strada) displaying AM28-specific telemetry (boost, AFR, and oil pressure via Motec PDM30)."
+  ]
+}

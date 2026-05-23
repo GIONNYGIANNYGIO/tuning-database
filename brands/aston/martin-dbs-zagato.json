@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN DBS ZAGATO",
+  "prestazioni": [
+    "Engine: AM29 6.0L V12 (code: AE31) with a bespoke Garrett GTX5533R turbocharger setup, featuring billet compressor wheels and a 1.06 A/R turbine housing, paired with a custom Tial MV-R 60mm wastegate for precise boost control at 1.4 bar (20.3 psi).",
+    "Fuel System: Upgraded to a full Motec M150 ECU with dual Bosch Motorsport 0280158862 2,200cc injectors, supported by a Radium Engineering dual-catch can system and a custom fuel rail designed by JMS Racing for the AE31 V12.",
+    "Suspension: Öhlins TTX46 coilovers with 24-way adjustable damping, custom-valved for the DBS Zagato’s aluminum-intensive chassis, paired with Tillet B6 monoblock calipers and 380mm two-piece rotors for extreme track use."
+  ],
+  "estetica": [
+    "Aerodynamics: Zagato-designed carbon fiber widebody kit with integrated GT3-style dive planes and a rear diffuser from Capristo, featuring active Gurney flaps for adjustable downforce (up to 300kg at 200km/h).",
+    "Wheels: Forged BBS FI-R 20x10.5 ET35 front and 21x12.5 ET45 rear, wrapped in Michelin Pilot Sport Cup 2 R tires (275/30 R20 front, 325/25 R21 rear) with custom offset machining for the Zagato’s widened fenders.",
+    "Interior: Full Alcantara retrim by Saddleback Leather, including a custom roll cage by Safety Devices (FIA-spec, bolt-in) with carbon fiber door cards and a bespoke Motec C127 dash display replacing the stock cluster."
+  ]
+}

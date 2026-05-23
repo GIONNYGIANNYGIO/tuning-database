@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN V12 VANTAGE ROADSTER",
+  "prestazioni": [
+    "AM29 6.0L V12 (engine code: AM09/12360) forced-induction conversion using a Garrett GTX5533R turbocharger with billet compressor wheel, paired with a custom 4.5-inch titanium downpipe and a Tial MV-R 60mm external wastegate to target 12.5 psi of boost, yielding ~850 hp at 7,200 rpm on E85 fuel with a Motec M150 ECU managing the fuel and ignition maps",
+    "Full titanium valvetrain upgrade with Ferrea F15 series intake/exhaust valves (1mm oversized), Carrillo H-beam connecting rods, and a custom billet crankshaft from JE Pistons to handle the increased cylinder pressures, complemented by a dry-sump oil system from Dailey Engineering with a 12-quart reservoir and dual scavenge pumps",
+    "Ohlins TTX46 coilovers with 2-way adjustable damping, custom valved for the V12 Vantage Roadster’s aluminum-intensive chassis, paired with AST 500 Series spherical bearing top mounts and a full polybush kit from SuperPro (part #SPF2001K) to eliminate compliance in the front subframe"
+  ],
+  "estetica": [
+    "RML Group carbon fiber widebody conversion kit (front fenders extended by 50mm, rear quarter panels by 70mm) with integrated cooling ducts for the upgraded brakes, finished in a custom satin Aston Racing Green with hand-painted gold pinstripes by Trimcraft Bespoke",
+    "Full titanium exhaust system by Capristo, featuring 3.5-inch diameter tubing, quad 100mm titanium tips with carbon fiber surrounds, and an electronically controlled bypass valve system integrated with the Motec ECU for on-demand backpressure adjustment",
+    "Custom forged aluminum wheels by Dymag (model: CX-R) in a 20x10.5 front / 21x12.5 rear configuration, wrapped in Michelin Pilot Sport Cup 2 R tires (275/30 R20 front, 325/25 R21 rear), with a bespoke center-lock conversion using BBS titanium wheel bolts and a hydraulic torque wrench system for pit-stop-style wheel changes"
+  ]
+}

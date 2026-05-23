@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN DBR12 GT3",
+  "prestazioni": [
+    "Engine: AMG M177 LS2 4.0L twin-turbo V8 (internal code: M177 DE 40 AL) with upgraded Garrett GT35R turbochargers (8467-2002) and billet compressor wheels for 1.5 bar boost, replacing stock turbos for 750+ HP at 7,200 RPM with a 7,800 RPM redline. Custom Cosworth pistons (forged 2618 alloy) and Carrillo H-beam connecting rods with ARP L19 rod bolts to handle increased cylinder pressures.",
+    "Drivetrain: Xtrac P1339 6-speed sequential gearbox with a 3.85:1 final drive ratio, paired with a Sachs Racing twin-disc carbon clutch (380mm diameter) and a Quaife ATB differential with 45% lock under power. Custom AST 5200 Series 4-way adjustable dampers with spherical bearing top mounts and Eibach ERS coil springs (1200 lb/in front, 1400 lb/in rear) for GT3-spec stiffness.",
+    "Aerodynamics: Full carbon fiber aero package by Aston Martin Racing (AMR) including a GT3-spec front splitter with 3D-printed Gurney flaps (adjustable in 5mm increments), a fixed rear wing with dual-element active DRS (developed by Multimatic) generating 1,200 kg of downforce at 250 km/h, and underbody diffuser with vortex generators (CFD-optimized by Totalsim). Side skirts feature integrated brake cooling ducts with NACA profiles."
+  ],
+  "estetica": [
+    "Exterior: Full AMR GT3 livery in 'Valkyrie Silver' with matte black carbon fiber weave (pre-preg autoclave cured) for the hood, roof, and rear wing. Custom 3D-printed titanium exhaust outlets (designed by Akrapović) with dual 100mm tips and laser-etched Aston Martin wings. OZ Racing Superforgiata GT3 wheels (18x12 front, 18x13 rear) in gold finish with center-locking nuts and Michelin Pilot Sport Cup 2 R tires (30/68-18 front, 31/71-18 rear).",
+    "Interior: Full FIA-spec carbon fiber monocoque with a Sparco Pro 2000 GT3 seat (HANS-compatible) and 6-point Schroth Racing harnesses. Custom Motec C187 dash display with integrated Bosch MS 6.4 ECU telemetry, replacing the stock instrument cluster. Alcantara-wrapped MOMO GT3 steering wheel with carbon fiber shift paddles and a quick-release hub. AMR-branded titanium gear knob with sequential pattern engraving.",
+    "Lighting: Full LED upgrade with Osram Night Breaker Laser bulbs (6000K color temperature) in the stock headlights, paired with custom Hella Rallye 4000 driving lights (mounted in the front bumper ducts). Rear lights replaced with carbon fiber-backed LED units by LUX Automotive, featuring sequential turn signals and a custom 'DBR12 GT3' logo animation on startup."
+  ]
+}

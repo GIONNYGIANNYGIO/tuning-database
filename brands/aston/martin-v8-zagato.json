@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN V8 ZAGATO",
+  "prestazioni": [
+    "Engine: AM28 V8 (5.3L, all-alloy, DOHC, 32-valve) with forged internals upgrade including Mahle Motorsport forged pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from Cosworth for 8,000 RPM reliability. Pair with a custom dry-sump oil system by Dailey Engineering to eliminate oil starvation under lateral G-forces.",
+    "Forced Induction: Twin Garrett GTX4202R turbochargers (86mm, ball-bearing) with custom 3D-printed Inconel exhaust manifolds by GReddy Performance Products, feeding into a bespoke air-to-water intercooler setup (PWR Australia) with a 12L capacity and dual Bosch 044 fuel pumps for 1,000+ HP capability. Boost controlled via a Motec M150 ECU with flex-fuel mapping and anti-lag strategies.",
+    "Suspension & Handling: Full Ohlins TTX46 coilover kit with 3-way adjustable damping (compression, rebound, and high/low-speed compression), paired with AST 500 Series spherical bearing top mounts. Chassis reinforcement via a T45 steel roll cage by Safety Devices (FIA-spec, bolt-in) and polyurethane bushings from SuperPro (front control arms, subframe, and differential mounts). Braking upgraded to Alcon 6-piston monoblock calipers with 380mm two-piece rotors (floating, slotted) and Ferodo DS3000 pads."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon-fiber body kit by Zagato Design House (original tooling) with a revised front splitter (30% more downforce), rear diffuser with integrated Gurney flap, and a fixed carbon rear wing (adjustable angle via quick-release mounts). Underbody aero includes a full-length flat floor with vortex generators and a rear diffuser extension by Vorsteiner.",
+    "Wheels & Tires: Custom 19x10.5 (front) and 19x12 (rear) forged aluminum wheels by Dymag (RX-2 model, 3-piece, center-lock), wrapped in Michelin Pilot Sport Cup 2 R tires (275/35 R19 front, 325/30 R19 rear). Wheel spacers by H&R (15mm front, 20mm rear) for aggressive flush fitment.",
+    "Interior & Details: Full Alcantara retrim by Saddleback Leather (dashboard, door cards, headliner) with exposed carbon-fiber weave (pre-preg, autoclave-cured) for the center console, door sills, and rear bulkhead. Gauges upgraded to a Motec C127 digital dash with integrated data logging, paired with a custom titanium shift knob by B&B Italia and a suede-wrapped MOMO Prototipo steering wheel (380mm, flat-bottom)."
+  ]
+}

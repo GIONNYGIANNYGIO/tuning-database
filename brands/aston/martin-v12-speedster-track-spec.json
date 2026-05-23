@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN V12 SPEEDSTER TRACK SPEC",
+  "prestazioni": [
+    "AM29 6.0L V12 (AE31) engine recalibrated with a bespoke Cosworth ECU remap targeting 8,200 RPM redline, optimized for 98 RON fuel with a 12.5:1 compression ratio, paired with a custom titanium crankshaft from Arrow Precision to reduce rotational mass by 18%",
+    "Full titanium exhaust system by Capristo, featuring 3.5-inch diameter piping, Inconel 625 headers, and a quad-bore center exit design with electronically controlled butterfly valves for backpressure optimization, reducing weight by 42 lbs over OEM",
+    "Ohlins TTX46 MkII coilovers with 3-way adjustable damping (compression/rebound/bump), custom valving for the Speedster’s aluminum-intensive chassis, and spherical bearing top mounts from SuperPro for subframe rigidity, paired with Eibach ERS 1,200 N/mm springs for 30% stiffer roll resistance"
+  ],
+  "estetica": [
+    "Full carbon-fiber aero package by Vorsteiner, including a 3D-scanned front splitter with integrated dive planes (generating 110 lbs of downforce at 120 mph), a rear diffuser with active Gurney flaps, and a dual-element rear wing with adjustable angle of attack (0-12 degrees) via hydraulic actuators",
+    "Custom lightweight magnesium wheels by Dymag (19x11 front, 20x13 rear) with center-lock hubs, wrapped in Pirelli P Zero Trofeo R tires (285/30 R19 front, 335/30 R20 rear) and secured with titanium wheel nuts from BBI Racing",
+    "Bespoke carbon-fiber monocoque tonneau cover by Sabelt, featuring integrated LED roll hoop lighting and a quick-release mechanism for trackside access, paired with a full titanium bolt kit from LPL Racing to reduce weight by 8.5 lbs over OEM fasteners"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN VANQUISH S",
+  "prestazioni": [
+    "AM08 6.0L V12 (engine code: AM08/11300) forced induction upgrade via Rotrex C38-92 supercharger with custom billet intake manifold, increasing boost to 0.8 bar (11.6 psi) and requiring a Motec M150 ECU reflash with bespoke fuel and ignition maps for 700+ hp at 7,000 RPM, paired with a Drexler limited-slip differential (part #DREX-001-VQS) to handle the torque spike",
+    "Full titanium exhaust system by Capristo (part #CAP-AMVS-TI) with 3.5-inch diameter piping, 200-cell catalytic converters, and electronically controlled butterfly valves for backpressure optimization, reducing weight by 45 lbs while maintaining OEM-level NVH at cruising speeds",
+    "Bespoke Öhlins TTX46 coilovers (part #ÖHL-TTX46-AMVS) with 3-way adjustable damping (compression, rebound, and high-speed compression), custom spring rates (12kg/mm front, 14kg/mm rear), and adjustable ride height via billet aluminum top mounts, paired with Eibach anti-roll bars (part #EIB-ARB-AMVS-F/R) with 25% stiffer rates for reduced body roll in high-G corners"
+  ],
+  "estetica": [
+    "RML Group carbon fiber widebody kit (part #RML-VQS-WB) with extended front fenders (+50mm), rear quarter panels (+65mm), and a functional rear diffuser with integrated brake ducts, all finished in satin clear coat for a stealth OEM+ look",
+    "Vorsteiner V-FF107 forged 20x10.5 ET40 (front) and 21x12 ET45 (rear) wheels in gloss black with custom Aston Martin center caps, wrapped in Michelin Pilot Sport Cup 2 R tires (275/30 R20 front, 325/25 R21 rear) for maximum mechanical grip",
+    "Full carbon fiber interior overhaul by SNG Barratt (part #SNG-VQS-CF-INT) including a bespoke carbon fiber steering wheel with Alcantara grip, carbon fiber door cards with red stitching, and a custom rear bulkhead delete panel to reduce weight by 30 lbs, paired with a titanium roll cage by Safety Devices (part #SD-VQS-RC) for chassis rigidity and driver protection"
+  ]
+}

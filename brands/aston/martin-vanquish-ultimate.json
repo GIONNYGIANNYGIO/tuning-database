@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN VANQUISH ULTIMATE",
+  "prestazioni": [
+    "AM11 6.0L V12 (engine code: AM08/AM11) forced induction upgrade via twin Precision Turbo PT6766CE turbochargers with billet compressor wheels, 1.25 A/R turbine housings, and TiAL MV-R 44mm wastegates, supporting 12 psi of boost for 850+ WHP on E85 fuel with a custom Motec M150 ECU calibration and upgraded fuel system featuring twin Bosch Motorsport 044 high-flow pumps and ID1700x injectors",
+    "Full titanium 3.5-inch exhaust system by Armytrix with electronically controlled butterfly valves, bypassing the factory catalytic converters and integrating a secondary X-pipe resonator delete for optimized scavenging and backpressure reduction, paired with a custom secondary air injection delete kit",
+    "Ohlins TTX46 coilover suspension with 3-way adjustable damping (compression, rebound, and high/low-speed compression), custom valving for the Vanquish’s aluminum-intensive VH platform, and spherical bearing top mounts from SuperPro to eliminate compliance, complemented by a full polybush kit from Powerflex (Black Series) for subframe, control arms, and anti-roll bars"
+  ],
+  "estetica": [
+    "RML Group carbon fiber widebody conversion kit (front fenders, rear quarter panels, and rear bumper) with integrated cooling ducts for the upgraded turbochargers, featuring a 50mm wider track and custom 3D-scanned fitment to accommodate Ohlins suspension travel and 21-inch forged BBS FI-R wheels (9.5J front, 12J rear) with Michelin Pilot Sport Cup 2 R tires (275/30 front, 325/25 rear)",
+    "Full carbon fiber front splitter and rear diffuser by Vorsteiner, designed specifically for the Vanquish Ultimate’s underbody aerodynamics, with a 3D-printed active Gurney flap system (controlled via Motec PDM) to adjust downforce at speed, and a custom carbon fiber rear wing by APR Performance (3D-molded to the Vanquish’s roofline) with adjustable angle of attack (0-15 degrees) and integrated DRS-style actuator",
+    "Custom interior retrim by Saddleback Leather, featuring full Alcantara headliner, door cards, and dashboard with contrast stitching in Aston Martin Racing Green, a bespoke roll cage by Safety Devices (FIA-spec, bolt-in with integrated harness bar) wrapped in Alcantara, and a digital dash upgrade via a Motec C127 display with custom CAN bus integration for turbo boost, air/fuel ratio, and lap timing data"
+  ]
+}
