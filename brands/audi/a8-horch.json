@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "A8 HORCH",
+  "prestazioni": [
+    "Engine: 3.0L V6 TDI (engine code: **CVMD**) with a **Garrett GTX4271R** turbocharger upgrade, paired with a **Precision Turbo & Engine 46mm wastegate** and **Silicone Intake Hoses by Vibrant Performance** for optimized airflow. Fuel system upgraded with **Bosch Motorsport 1,000cc injectors** and a **Walbro 450 LPH in-tank fuel pump** to support 600+ HP on **Shell V-Power 102 RON** fuel.",
+    "Drivetrain: **ZF 8HP90 8-speed automatic transmission** reinforced with a **Porsche 911 GT3 RS (991.2) torque converter** for faster shifts and **South Bend Clutch Stage 3+ twin-disc clutch** for 800 Nm torque capacity. **034 Motorsport transmission mount insert** to reduce drivetrain slop under hard launches.",
+    "Suspension & Handling: **Öhlins Road & Track DFV coilovers** with **Audi A8 Horch-specific valving** (24-way adjustable compression, 24-way rebound), paired with **H&R 25mm front and 20mm rear sway bars** (custom bent for Horch chassis clearance). **Brembo GT 6-piston front (380mm) and 4-piston rear (355mm) brake kit** with **Ferodo DS2500 pads** and **Goodridge G-Stop stainless steel brake lines**."
+  ],
+  "estetica": [
+    "Body: **Liberty Walk LB Works A8 Horch widebody kit** (custom-fitted for the Horch’s extended wheelbase), featuring **carbon fiber front fenders, rear quarter panels, and a ducktail spoiler** (weight savings: ~12kg). **Vorsteiner V-FF107 21-inch forged wheels** in **Gunmetal with polished lips** (9.5J ET35 front, 11J ET40 rear) wrapped in **Michelin Pilot Sport Cup 2 R tires (275/30 R21 front, 315/25 R21 rear)**.",
+    "Aero: **Rocket Bunny V3 rear diffuser** (custom-molded to Horch’s rear bumper) with **active Gurney flap** (electrically adjustable via **Audi MMI integration**). **Seibon Carbon hood** with **functional NACA ducts** feeding the **Garrett turbo intercooler**. **VRSF 7-inch front-mount intercooler** with **custom CNC-machined aluminum end tanks** for improved airflow efficiency.",
+    "Interior: **Recaro Pole Position seats** (Audi-specific mounting brackets) upholstered in **Nappa leather with Alcantara suede inserts** (color-matched to **Audi Nardo Gray**). **MOMO Prototipo steering wheel** (flat-bottom, 360mm diameter) with **AEM X-Series digital dash integration**. **Roll cage: Custom **Autopower 8-point bolt-in cage** (chrome-moly steel, TIG-welded) with **Schroth 6-point harnesses** for track use."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "ALLROAD QUATTRO",
+  "prestazioni": [
+    "Engine: 4.2L V8 (engine code: **BCY**) with a **Precision Turbo & Engine PT8285S** turbocharger upgrade, paired with a **TTE 700** hybrid turbo kit (compatible with the BCY’s stock exhaust manifold), featuring a **Garrett GTX4294R** compressor wheel for optimized spool and 650+ HP potential. Supporting mods include a **034 Motorsport billet crankshaft pulley** and **Mahle Motorsport forged pistons** (9.5:1 compression) with **Manley H-beam connecting rods** for high-RPM stability.",
+    "Fuel System: **Bosch Motorsport 0261500367** 1,000cc high-flow injectors with a **Syvecs S12 ECU** standalone management system, calibrated for E85 flex-fuel capability. The fuel pump is upgraded to a **Walbro 450 LPH** in-tank unit with a **Radium Engineering dual-pump hanger** to ensure consistent flow under boost. A **Vorshlag Motorsport** fuel pressure regulator (adjustable 40-80 psi) is installed for precise AFR control.",
+    "Drivetrain & Cooling: **034 Motorsport Stage 3 clutch kit** (ceramic disc, 6-paddle) with a **South Bend twin-disc setup** for the BCY’s torque capacity. The differential is upgraded to a **Quaife ATB helical LSD** (front and rear) with **Wavetrac** limited-slip differentials for the Torsen-based quattro system. Cooling is handled by a **Setrab 50-row oil cooler** with a **PWR Australia** front-mount intercooler (4.5\" core thickness) and a **Mishimoto aluminum radiator** (dual-pass, 2-row)."
+  ],
+  "estetica": [
+    "Body Kit: **Prior Design PD800RS** widebody conversion kit (carbon fiber fenders, front/rear bumpers, and side skirts) with **custom 3M Matte Military Green (213-10)** wrap and **Audi Sport S-line** grille (painted gloss black). The rear features a **Rieger Tuning** carbon fiber diffuser with **Akrapović titanium exhaust tips** (dual 100mm outlets).",
+    "Wheels & Suspension: **HRE FF01** forged wheels (20x10.5 ET25 front, 20x12 ET30 rear) in **Gunmetal Bronze** finish, wrapped in **Michelin Pilot Sport Cup 2 R** tires (275/30/20 front, 315/25/20 rear). Suspension is a **KW Clubsport 3-way coilover kit** (with remote reservoirs) paired with **034 Motorsport** sway bars (25mm front, 22mm rear) and **H&R** lowering springs (adjustable -20mm to -40mm).",
+    "Interior & Aero: **Recaro Sportster CS** front seats (with **Schroth Profi II 6-point harnesses**) and a **MOMO Mod.70** steering wheel (350mm, suede). The rear features a **Weichers** roll cage (6-point, bolt-in) with **Vibra-Technics** sound deadening. Aero includes a **Vorsteiner** carbon fiber hood (with heat extractors) and a **Rieger Tuning** GT-style rear wing (adjustable angle, 3D-printed carbon fiber)."
+  ]
+}

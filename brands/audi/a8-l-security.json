@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "A8 L SECURITY",
+  "prestazioni": [
+    "Engine: 4.0L TFSI V8 (CWUB) with upgraded BorgWarner EFR 8374 turbochargers (1.25 A/R, 62mm compressor, 74mm turbine) paired with a custom APR Stage 3+ ECU calibration (32-bit Bosch MED17.1.1, 650+ HP, 750 Nm torque) and a secondary fuel system using Bosch Motorsport 1000cc high-flow injectors with a Radium Engineering dual-pump fuel surge tank (2x Walbro 450 LPH pumps).",
+    "Drivetrain: Reinforced ZF 8HP90X 8-speed automatic transmission with a Wavetrac limited-slip differential (LSD) and a custom Quaife ATB helical differential for the front axle, paired with a Sachs Performance dual-mass flywheel and uprated clutch pack (ceramic-metallic, 800 Nm capacity).",
+    "Suspension & Handling: KW Automotive Clubsport coilovers (3-way adjustable, 800 lbs/in front springs, 700 lbs/in rear springs) with custom valving for armored vehicle weight (3,500+ kg), paired with H&R Monoball spherical bearing subframe collars and Eibach Pro-Spacer wheel spacers (20mm front, 25mm rear) to correct scrub radius post-armor reinforcement."
+  ],
+  "estetica": [
+    "Aerodynamics: Custom Carbonio Compositi widebody kit (A8 L Security-specific, 50mm extended fenders, reinforced for ballistic protection) with integrated Vorsteiner V-FF107 carbon fiber front splitter and a custom 3D-printed titanium rear diffuser (designed for armored underbody airflow management).",
+    "Wheels & Tires: HRE FF16 flow-formed wheels (21x10.5 ET30 front, 21x12.5 ET35 rear) with Michelin Pilot Sport Cup 2 R tires (275/30 R21 front, 325/25 R21 rear) and custom BBS center-lock adapters (for rapid wheel changes in security scenarios).",
+    "Exterior Detailing: Full OEM+ stealth armor integration with a custom Lumma Design CLR A8 L Security front grille (ballistic mesh-reinforced, painted in Satin Nardo Gray) and a bespoke Akrapović titanium exhaust system (dual 100mm outlets, bypass valves, and heat shielding for armored rear bumper clearance)."
+  ]
+}

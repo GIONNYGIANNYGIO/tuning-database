@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN VALOUR TRACK PACK EVO",
+  "prestazioni": [
+    "Engine: 4.0L twin-turbocharged AM29 V12 (internal code: AE31) with upgraded Garrett GTX5533R turbos, billet compressor wheels, and 106mm titanium-aluminide turbine wheels, paired with a custom Tial MV-R 60mm wastegate setup for 1.5 bar peak boost (stock: 1.2 bar).",
+    "Fuel System: Full Motec M150 ECU with bespoke calibration for E85 flex-fuel compatibility, paired with a Radium Engineering dual-pump fuel surge tank and Bosch Motorsport 2,200cc injectors, feeding a custom billet fuel rail with -8AN ORB fittings.",
+    "Drivetrain: Xtrac P1227 7-speed sequential transaxle with carbon-fiber clutch plates, AP Racing CP9444-4000 4-piston calipers on the rear axle, and a Quaife ATB helical LSD with 45% preload for optimized torque vectoring under lateral G-forces."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon-fiber Vorsteiner V-FF 1075 widebody kit with integrated canards, a 3D-printed titanium rear diffuser (designed via CFD for 220kg downforce at 180mph), and a fixed Gurney flap on the rear wing (adjustable via interchangeable 10mm/15mm/20mm profiles).",
+    "Exterior: Bare carbon-fiber weave with a custom 'Valour Track Evo' livery in Aston Martin Racing Green (Pantone 3435 C) with matte gold pinstriping, paired with a set of Dymag RB12 carbon-fiber wheels (19x12 front, 20x13 rear) wrapped in Michelin Pilot Sport Cup 2 R tires (285/30 R19 front, 335/30 R20 rear).",
+    "Interior: Full carbon-fiber monocoque with a bespoke Sparco Pro 2000 seat (HANS-compatible, FIA 8862-2009 certified), a MOMO Mod.78 steering wheel with integrated Motec C127 dash, and a titanium roll cage (TIG-welded, 4130 chromoly) with integrated fire suppression system (Lifeline Zero 360)."
+  ]
+}

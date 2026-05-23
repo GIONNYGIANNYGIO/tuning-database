@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "A8 D2",
+  "prestazioni": [
+    "Engine: 4.2L V8 (engine code: AKH) with a custom forced-induction setup using a Garrett GT3582R turbocharger (82mm compressor wheel, .86 A/R turbine housing) paired with a custom 3.5-inch stainless steel downpipe and a GReddy Type-S intercooler (front-mount, 12-row core). Supporting mods include Mahle Motorsport forged pistons (8.5:1 compression), Eagle H-beam connecting rods, and a Schrick 268/272 camshaft set with adjustable vernier pulleys for precise timing.",
+    "Drivetrain: 6-speed ZF 6HP26A automatic transmission with a custom Valvetronic Solutions TCU tune for lightning-fast shifts (sub-150ms) and a Peloquin limited-slip differential (40% lockup) to handle the increased torque. Upgraded driveshafts from 034 Motorsport with CV joints rated for 800Nm of torque.",
+    "Suspension/Handling: KW Variant 3 coilovers (height-adjustable, 8-position rebound damping) with custom spring rates (8kg/mm front, 10kg/mm rear) and spherical bearing top mounts from 034 Motorsport. Polyurethane subframe bushings (034 Motorsport) and a full chassis reinforcement kit (Audi Sport homologated) to eliminate flex. Brembo GT 380mm 6-piston front calipers with 355mm two-piece rotors and Ferodo DS2500 pads, paired with Brembo 355mm 4-piston rear calipers."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody kit from Prior Design (PD800GT), including extended front fenders, rear quarter panels, and a custom 3-piece rear diffuser with integrated exhaust cutouts. Carbon fiber hood with functional heat extractors and a custom front splitter with integrated canards (Aeroflow Dynamics).",
+    "Wheels: BBS LM-RS II (9x20 ET25 front, 10.5x20 ET30 rear) with custom offsets to fit the widebody kit, wrapped in Michelin Pilot Sport Cup 2 tires (265/30/20 front, 295/25/20 rear). Forged aluminum center locks (BBS Motorsport) for quick swaps.",
+    "Interior: Full Alcantara retrim by Recaro (Pole Position seats with integrated 6-point harnesses), custom roll cage (Mantzel Motorsport, TÜV-certified) with bolt-in door bars, and a Momo Prototipo steering wheel with a quick-release hub. Digital dash upgrade using an AiM MXL2 data logger with OBD-II integration, mounted in a custom carbon fiber dash panel."
+  ]
+}

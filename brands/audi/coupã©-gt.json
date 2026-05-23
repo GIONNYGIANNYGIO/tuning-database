@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "Coupé GT",
+  "prestazioni": [
+    "Engine swap to a **3B** (2.2L 20V turbo I5, 370+ HP) with a **Garrett GT3582R** turbocharger, **Mahle Motorsport forged pistons** (8.5:1 CR), **ARP head studs**, and a **Bosch 044 fuel pump** paired with **Siemens DEKA 80lb/hr injectors** for E85 compatibility. Custom **ECU Master EMU Black** standalone ECU with **3B-specific ignition maps** and **4-bar MAP sensor** for boost control up to 1.5 bar (21.7 psi).",
+    "Full **034 Motorsport Stage 3+ drivetrain upgrade** including a **Quaife ATB LSD** (80% lock), **034 Motorsport lightweight flywheel**, **South Bend Clutch Stage 3+ twin-disc clutch**, and **034 Motorsport reinforced transmission mounts** to handle the increased torque. **GKN CV joints** and **034 Motorsport reinforced axles** for durability under high power.",
+    "Suspension overhaul with **KW Clubsport 3-way coilovers** (adjustable rebound, compression, and ride height), **034 Motorsport spherical bearing subframe collars**, **Whiteline adjustable rear sway bar (24mm)**, and **SuperPro poly bushings** (full chassis refresh). **Brembo GT 4-piston calipers** (330mm rotors) up front with **Ferodo DS2500 pads** and **ATE Type 200 rear calipers** (280mm rotors) for balanced braking."
+  ],
+  "estetica": [
+    "**Rocket Bunny V1 widebody kit** (Coupé GT-specific, 30mm flares per side) with **custom carbon fiber front splitter** (3D-scanned for OEM+ fitment) and **custom aluminum rear diffuser** (integrated tow hook). **OEM+ Audi Sport quattro S1-inspired livery** in **Nardo Grey (L94N)** with **vinyl-wrapped roof in Brilliant Black (L041)** and **custom gold-painted BBS RS 002 wheels (8.5x16 ET20)** with **Pirelli P Zero Trofeo R tires (205/50/16)** for period-correct stance.",
+    "**Full interior retrim in black Alcantara** (seats, door cards, headliner) with **Recaro SRD Evo II seats** (Schroth 4-point harnesses) and **MOMO Mod.78 steering wheel** (380mm, suede). **Custom aluminum gauge pod** (housing **Defi Advance BF gauges** for boost, oil temp, and AFR) mounted on the A-pillar. **Removal of rear seats** and installation of a **custom aluminum roll cage** (TIG-welded, 4-point) with **Sparco harness bar** for rigidity.",
+    "**Custom LED taillight conversion** (Coupé GT-specific, using **Hella LED modules** in OEM housings) with **clear smoked lenses** and **custom sequential turn signals** (controlled via **Arduino-based relay module**). **Carbon fiber engine cover** (3K twill, **custom-molded to fit the 3B engine**) with **laser-etched Audi Sport quattro S1 logo** and **AN fittings for the intercooler piping** (polished aluminum, -6AN)."
+  ]
+}

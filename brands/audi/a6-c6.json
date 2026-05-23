@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "A6 C6",
+  "prestazioni": [
+    "For the 4.2L V8 (engine code: **BAT**) in the A6 C6, install a **VF Engineering Supercharger Kit (Vortech V3 Si-Trim)** with a **6.5psi pulley setup**, paired with a **custom ECU flash from APR (Stage 3+)** targeting 550whp and 480wtq on 93 octane. Replace the stock fuel pump with a **Walbro 450LPH** and upgrade injectors to **Siemens DEKA 875cc** for precise fueling.",
+    "Swap the stock 6-speed ZF 6HP28A transmission for a **ZF 8HP70** (from the C7 A6) with a **South Bend Stage 3 Clutch** and **034 Motorsport lightweight flywheel** to handle the increased torque. Reinforce the drivetrain with a **034 Motorsport transmission mount insert** and **Neuspeed rear subframe bushings** to reduce deflection.",
+    "Replace the factory **BPJ** 3.0L TDI V6 (if applicable) with a **Garrett GTX3582R turbo** on a custom manifold, paired with a **Pierburg CWA100 water-meth kit** (50/50 mix) and a **Mocal oil cooler** to prevent heat soak. Use a **MagnaFlow 3.5\" cat-back exhaust** with **Vibrant 1799 resonators** for optimal flow and sound."
+  ],
+  "estetica": [
+    "Install a **Rocket Bunny V1 widebody kit** (C6-specific) with **custom carbon fiber overfenders** and **OEM+ rear diffuser** from **Audi Sport**. Lower the car with **KW Clubsport coilovers (2-way adjustable)** and fit **HRE FF01 wheels (19x9.5 ET35 front, 19x11 ET45 rear)** wrapped in **Michelin Pilot Sport Cup 2 (265/35/19 front, 295/30/19 rear)** for aggressive stance.",
+    "Replace the stock headlights with **DEPO LED Projector headlights (Bi-Xenon, sequential turn signals)** and add **Morimoto XB LED fog lights**. Install a **custom carbon fiber hood** from **Seibon** with **hidden washer nozzles** and a **Vorsteiner carbon fiber front lip** for aerodynamic balance.",
+    "Interior upgrades include **Recaro Pole Position seats (cloth/Alcantara, C6-specific brackets)** with **Schroth Profi II harnesses**, a **Momo Mod.78 steering wheel (350mm, suede)** on a **034 Motorsport quick-release hub**, and a **custom roll cage (6-point, TIG-welded, 4130 chromoly)** from **Autopower Industries** for track readiness."
+  ]
+}

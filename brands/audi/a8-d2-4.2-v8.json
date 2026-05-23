@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "A8 D2 4.2 V8",
+  "prestazioni": [
+    "Engine: ABZ 4.2L V8 (32v, 300hp stock) with forged internals including Mahle Motorsport forged pistons (8.5:1 CR), Carrillo H-beam connecting rods, and a billet crankshaft from Manley Performance. Paired with a custom Schrick 272° camshaft set (intake/exhaust) for optimized high-RPM breathing.",
+    "Forced Induction: Precision Turbo PT6266 CEA turbocharger (62mm inducer, 66mm exducer) with a custom Tial MV-R 44mm wastegate and Tial Q 50mm blow-off valve. Intercooled via a custom air-to-water setup using a PWR radiator and Bosch 044 fuel pump with dual Walbro 450 LPH in-tank pumps for E85 compatibility.",
+    "Drivetrain: 6-speed ZF 6HP26A transmission with a Peloquin LSD and a Sachs Performance twin-disc clutch (240mm). Custom 034 Motorsport motor mounts and a reinforced transmission mount for durability under 500+ lb-ft torque."
+  ],
+  "estetica": [
+    "Body: OEM+ widebody conversion using genuine Audi S8 D2 fenders (flared 30mm per side) with a custom carbon fiber front splitter from Vorsteiner and a rear diffuser from Maxton Design. Painted in Audi Nogaro Blue (LX5W) with a 3M Satin Matte clear coat.",
+    "Wheels: BBS LM-R 9.5x19 ET25 (front) and 11x19 ET15 (rear) with custom offsets, wrapped in Michelin Pilot Sport Cup 2 tires (255/35/19 front, 295/30/19 rear). Suspension lowered via KW Variant 3 coilovers with adjustable camber plates and spherical bearing control arms from 034 Motorsport.",
+    "Interior: Full Recaro SRD-E carbon fiber bucket seats with Schroth 6-point harnesses. Custom roll cage by Custom Cages UK (FIA-spec, bolt-in) and a Momo Mod.78 steering wheel with a quick-release hub. Alcantara headliner and door cards with red stitching, paired with a digital dash overlay using an AiM MXL2 data logger."
+  ]
+}

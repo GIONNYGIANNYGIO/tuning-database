@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "A6 ALLROAD",
+  "prestazioni": [
+    "Engine: 3.0L TDI (CDUC) with a Garrett GT2260VK turbo upgrade to GTD2871R, paired with a custom 3.5\" downpipe (Milltek Sport) and a 76mm exhaust system (Supersprint) for reduced backpressure and +80hp over stock (target 360hp/750Nm).",
+    "Suspension: KW Variant 3 coilovers (A6 Allroad-specific valving) with 20mm front/rear adjustable camber plates (H&R) and polyurethane subframe bushings (034 Motorsport) to eliminate squat under hard acceleration.",
+    "Drivetrain: Quattro Ultra rear-biased torque split (60:40) recalibration via Cobb Accessport (Stage 2+ tune) with a 40% LSD ramp-up (Wavetrac differential) and uprated CV joints (GKN Driveline) for 0-60mph in 4.9s."
+  ],
+  "estetica": [
+    "Aero: ABT Sportsline AS8-R front splitter (carbon fiber) with integrated canards and a custom 3D-printed rear diffuser (by Prior Design) to reduce lift by 35% at 120mph (CFD-tested).",
+    "Wheels: Rotiform LAS-R 10.5x20\" ET35 (front) and 11x20\" ET40 (rear) with 275/30 and 295/25 Michelin Pilot Sport Cup 2 R tires, paired with Audi-specific wheel spacers (Eibach 15mm).",
+    "Lighting: OEM+ LED matrix headlights (Audi Part #4K0941001A) with LUX H8 V4 bulbs (5500K) and a custom Morimoto XB35 LED fog light retrofit (DRL delete for cleaner look)."
+  ]
+}

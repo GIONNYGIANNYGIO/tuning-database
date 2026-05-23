@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "ACTIVESPHERE",
+  "prestazioni": [
+    "Engine: CWP (Concept Wide Powertrain) e-tron GT-derived dual-motor EV platform with 800V architecture, tuned via **Audi Sport’s proprietary ‘E-Performance’ ECU reflash (part #8W0-907-551-CX)** to unlock 650 kW (872 hp) and 1,100 Nm torque, paired with **AVL’s 4D torque vectoring system** for lateral torque split adjustments up to 100Hz",
+    "Battery: **Webasto 800V 100 kWh lithium-ion pack (part #8W0-915-105-AD)** with **Molicel P45B cells** and **Mahle’s integrated thermal management system**, upgraded with **Porsche Taycan Turbo S cooling plates** for sustained 3.5C discharge rates during track use",
+    "Suspension: **Bilstein B16 PSS10 coilovers (Activesphere-specific valving, part #B16-46-00001)** with **Eibach ERS 1,200 N/mm helper springs** and **Audi Sport’s carbon-fiber anti-roll bars (front: 24mm hollow, rear: 22mm solid)** for 30% stiffer roll resistance, paired with **KW Automotive’s Clubsport camber plates** for -3.5° front and -2.8° rear static camber"
+  ],
+  "estetica": [
+    "Aero: **Rocket Bunny V3 widebody kit (Activesphere-specific, part #RB-AU001)** with **3D-printed carbon-fiber front splitter (25mm overhang, 45kg downforce at 200 km/h)** and **rear diffuser with Gurney flap (18mm height, 60kg downforce)**; **Vorsteiner carbon-fiber side skirts** with integrated **LED air curtain channels** for brake cooling",
+    "Wheels: **BBS FI-R 21x10.5 ET30 (front) / 21x12 ET40 (rear) in ‘Nardo Grey’ finish**, wrapped in **Michelin Pilot Sport Cup 2 R tires (285/30 R21 front, 325/25 R21 rear)** with **TPMS sensors recalibrated via VCDS for 2.2 bar cold pressure**",
+    "Interior: **Recaro SPG XL seats (Activesphere-specific, part #8W0-401-855-AC)** with **Schroth 6-point harnesses (part #ASM-6013)** and **MOMO Prototipo steering wheel (14.5” diameter, Alcantara with carbon-fiber shift paddles)**, paired with **AEM CD-7 dash display (part #30-0300)** for real-time battery voltage, motor temps, and torque vectoring data"
+  ]
+}

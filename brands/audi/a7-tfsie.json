@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "A7 TFSIe",
+  "prestazioni": [
+    "Hybrid-specific ECU remap by **Alientech KESS3** targeting the **CWGD 2.0 TFSI** (EA888 Gen3B) engine with **MHEV 48V** integration, optimizing torque split between the **17.6 kWh lithium-ion battery** and **2.0L turbocharged I4**, achieving **380 HP** (up from 367 HP) and **450 Nm** (up from 400 Nm) while preserving the **11.3 kWh electric-only range** via **custom DQ500 7-speed S tronic TCU tuning** by **TCM Doctor** for seamless hybrid-to-combustion transitions",
+    "Garrett **GT2260S** turbocharger upgrade with **Inconel 718 turbine wheel** and **3D-printed titanium compressor housing** (custom-machined by **TurboSmart** for the CWGD’s unique exhaust manifold), paired with a **Tial 44mm MV-R wastegate** and **0.82 A/R turbine housing** to eliminate turbo lag below 2,200 RPM while supporting **2.2 bar peak boost** (stock: 1.4 bar) on **98 RON fuel**",
+    "Full hybrid cooling overhaul: **PWR Australia** custom **dual-core intercooler** (replacing the OEM single-core unit) with **6061-T6 aluminum end tanks** and **bar-and-plate core** (22% more flow), **Mishimoto X-Line silicone hoses** (reinforced with **aramid fiber**), and a **Setrab 19-row oil cooler** (for the **EA888’s integrated timing chain tensioner oil circuit**) to maintain **<90°C oil temps** during **track use** (e.g., Nürburgring GP-Strecke)"
+  ],
+  "estetica": [
+    "**Prior Design PD-A7RS** widebody kit (carbon fiber, **50mm rear fender flares** and **30mm front**) with **custom 3D-printed ABS underbody diffusers** (validated in **Audi’s own wind tunnel** for **12% less lift at 200 km/h**), paired with **Vorsteiner V-FF107 forged wheels** (20x10 ET35 front, 21x12 ET40 rear) in **matt bronze** with **Michelin Pilot Sport Cup 2 R** tires (275/30/20 and 325/25/21)",
+    "Full **Audi Sport S7-style hybrid-specific aero** conversion: **ABT Sportsline** carbon fiber front splitter with **active Gurney flap** (electronically adjustable via **Audi Drive Select**), **Rieger Tuning** carbon fiber side skirts with **integrated LED turn signals** (replacing OEM reflectors), and **custom 3D-printed rear wing** (modeled after the **A7 Sportback Concept**) with **dual-plane design** and **adjustable angle** (0–15° via **electric actuators**) for **downforce tuning**",
+    "Interior: **Recaro Pole Position CS** seats (carbon-Kevlar shell, **Schroth 6-point harnesses**) with **Audi Sport-embroidered headrests**, **Momo Prototipo Evo** steering wheel (flat-bottom, **suede-wrapped with integrated **AEM X-Series** hybrid power gauge**), and **custom Alcantara door cards** (matching **Audi’s Nappa leather stitching**) with **RGB ambient lighting** (controlled via **Audi MMI Plus** with **OEM-style animations**)"
+  ]
+}

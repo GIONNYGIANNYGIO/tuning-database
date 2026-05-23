@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "A6 E-TRON",
+  "prestazioni": [
+    "Upgrade to a **Bosch MGU-K (Motor Generator Unit - Kinetic) high-performance rotor** (P/N: 06L 906 055 H) with **silicon carbide (SiC) MOSFET inverter** (Vitesco EMR4) to extract an additional **80 kW (107 HP)** from regenerative braking and launch control, paired with a **custom 800V liquid-cooled battery pack** (Audi PPE platform-specific, 100 kWh capacity) featuring **Samsung SDI 21700 cells** (4.8Ah, 3.6V) for sustained 300 kW output in Sport+ mode",
+    "Installation of a **Garrett E-Turbo (electric-assisted turbocharger, P/N: G35-1050)** with **ceramic ball bearings** and **variable electric motor assist (0-120,000 RPM)** to eliminate turbo lag in the **Audi PPE dual-motor AWD system (engine code: EA0)**. Pair with a **Mahle twin-scroll intercooler (P/N: 06E 145 775 B)** and **HJS 100-cell catalytic converter** for Euro 7 compliance while maintaining 0-100 km/h in **3.9s** (stock: 4.2s)",
+    "Full **AP Racing CP9660 brake kit** with **6-piston monobloc calipers (front, P/N: CP9660-1D-2000)** and **4-piston rear calipers (P/N: CP9660-2D-1800)**, paired with **Brembo T-Drive 400mm x 38mm carbon-ceramic rotors (P/N: 0A0 615 301 B)** and **Ferodo DS2500 brake pads** for 1,200°C heat resistance. Integrate with **Audi Sport’s **iBrake** regenerative braking system** (software recalibrated via **Vector CANape 17.0**) to recover **95% kinetic energy** during deceleration"
+  ],
+  "estetica": [
+    "Full **Liberty Walk LB Works A6 E-Tron widebody kit (P/N: LW-A6E-22)** with **carbon fiber fenders (25mm extended, P/N: LW-A6E-FR-01)**, **custom aluminum front splitter (P/N: LW-A6E-SP-02)** with **active aerodynamic Gurney flaps (Bosch Servolectric actuators)**, and **rear diffuser (P/N: LW-A6E-DF-03)** featuring **integrated LED light bar (Osram LEDriving XENARC 6000K)** for DRL functionality",
+    "**OEM+ Audi Sport S-line grille (P/N: 4K0 853 651 G)** with **laser-etched **e-tron** badging (3D-printed titanium, P/N: 4K0 071 141 A)** and **RGB underglow (Philips Hue Play Gradient Lightstrip, P/N: 929002216901)** synchronized with **Audi’s Virtual Cockpit Plus (12.3-inch AMOLED, 4K resolution)** via **Apple CarPlay Dynamic Island integration**",
+    "**Rohana RC10 concave wheels (21x10.5 ET35 front, 22x12.5 ET40 rear, P/N: RC10-21105F/RC10-22125R)** in **matt bronze finish (PVD-coated)**, wrapped in **Michelin Pilot Sport Cup 2 Connect tires (275/30 R21 front, 315/25 R22 rear, P/N: 008300/008400)** with **real-time tire pressure/temperature sensors (Continental ContiSense)**. Pair with **KW Suspension Variant 5 coilovers (P/N: 35-010000)** with **3-way adjustable damping (compression/rebound/height)** and **magnetic ride bypass (via KW Connect app)**"
+  ]
+}

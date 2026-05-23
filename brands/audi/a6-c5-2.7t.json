@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "A6 C5 2.7T",
+  "prestazioni": [
+    "Engine code **ARE** (30v twin-turbo 2.7L V6) upgraded with **Garrett GT3076R .82 A/R turbos** (hybrid billet wheels, 62mm inducer, 76mm exducer) on **custom 3-inch stainless steel turbo manifolds** (equal-length, TIG-welded, ceramic-coated by **Jet-Hot**) with **TiAL MV-R 44mm wastegates** and **TiAL Q 50mm BOV** (dual-port, recirculated setup).",
+    "**Forged internals** by **Mahle Motorsport** (8.5:1 compression pistons, **Carrillo H-beam rods**, **ARP L19 head studs**, and **Grafal-coated bearings**) paired with a **JE 2.8L stroker crankshaft** (84mm stroke) for 2,800cc displacement. **Ferrea 6000-series intake/exhaust valves** (1mm oversized) with **Supertech dual valve springs** and **Titanium retainers** for 8,500 RPM redline.",
+    "**Bosch 0280158862 850cc/min high-impedance injectors** (low-Z, **ID1700x compatible**) fed by a **Walbro 450 LPH in-tank fuel pump** and **AEM 340lph external pump** with **Radium Engineering dual feed fuel rails**. **Link G4+ Xtreme standalone ECU** (CAN-enabled, flex-fuel capable) tuned via **4D fuel/timing maps** with **Motec PLM wideband O2 sensors** (x2, pre/post-cat). **Custom 3-inch downpipe** (catless, **Vibrant 1799 resonated muffler**) with **APR Stage 4 K04 hybrid turbo software** (modified for GT3076R specs)."
+  ],
+  "estetica": [
+    "**Rocket Bunny V1 A6 C5 widebody kit** (front/rear fenders, carbon fiber overfenders, **custom 3M 484 gloss black wrap** with **red pinstriping** by **Vinyl Frog**). **OEM+ Euro-spec S6 front bumper** (debadged, **LED DRLs by LUX H8 V4**) with **custom carbon fiber lip** (hand-laid, **Audi Sport honeycomb grille**).",
+    "**Ohlins Road & Track DFV coilovers** (C5-specific valving, **10kg/mm front / 12kg/mm rear springs**, **3-way adjustable damping**) with **H&R 25mm front / 20mm rear sway bars** and **polyurethane subframe bushings** (by **034 Motorsport**). **BBS LM-R 9.5x18 ET25 wheels** (staggered, **245/35/18 Michelin Pilot Sport Cup 2 R tires**) with **AP Racing 356mm front / 330mm rear 6-piston calipers** (slotted rotors, **Ferodo DS2500 pads**).",
+    "**Full interior carbon fiber trim** (dashboard, door cards, center console by **Euro Composites**) with **Recaro Pole Position seats** (Schroth 4-point harnesses, **custom Alcantara/leather upholstery** by **Status Racing**). **AEM CD-7 dash** (10-inch, **CAN-bus integrated**) with **Motec C127 data logger** (GPS, lap timer, **AIM Solo 2 DL** compatibility). **Custom roll cage** (TIG-welded, **MIG-welded gussets**, **6-point chromoly** by **Custom Cages UK**)."
+  ]
+}

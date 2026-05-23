@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "AVUS QUATTRO CONCEPT",
+  "prestazioni": [
+    "Engine swap to a bespoke 6.0L W16 derived from the Bugatti EB110's quad-turbocharged VR6 architecture (internally coded as *W16-AQC*), stroked to 6.0L with forged Mahle pistons (9.5:1 CR), Carrillo H-beam connecting rods, and a billet crankshaft. Twin Garrett GTX5533R Gen II turbos with 1.22 A/R titanium housings, custom 45mm wastegates, and a Pectel SQ6M standalone ECU with anti-lag and flat-shift strategies.",
+    "Full drivetrain reinforcement with a Quaife ATB LSD (80% lock) in the rear and a Drexler Motorsport front differential (65% lock), paired with a 6-speed sequential transmission from Hewland (LSD2000) with carbon-fiber synchros and a Sachs Racing dual-disc clutch (240mm, 4-pad). Custom 3.5:1 final drive ratio with billet aluminum ring & pinion gears from The Driveshaft Shop.",
+    "Suspension overhaul with Öhlins TTX46 coilovers (3-way adjustable, 200mm travel) featuring custom valving for the Avus Quattro’s aluminum spaceframe, paired with spherical bearing control arms from H&R (T6 aluminum, 30% stiffer than OEM) and a full polybush kit from SuperPro (80D durometer). Brembo GT-R 6-piston calipers (405mm rotors, 38mm thickness) with carbon-ceramic discs and Ferodo DS3000 pads for track use."
+  ],
+  "estetica": [
+    "Full carbon-fiber body reconstruction using a custom Rocket Bunny Avus Quattro kit (Pandem Designs), including a 3-piece front splitter with integrated canards, a 2-stage rear diffuser with active Gurney flap (operated via Bosch Motorsport ECU), and a 1.2m wide rear wing (CFRP, 3D-printed airfoil with NACA 63A-012 profile).",
+    "Custom 22-inch BBS RS-GT II wheels (9.5J front, 12J rear) with titanium hardware, wrapped in Michelin Pilot Sport Cup 2 R tires (265/30 R22 front, 325/25 R22 rear). Forged aluminum centerlock adapters from Dymag with titanium wheel nuts (ARP).",
+    "Interior stripped and reupholstered with a full Alcantara suite (Recaro Pole Position seats, 6-point Schroth harnesses), a MOMO Prototipo steering wheel (350mm, suede-wrapped), and a custom Motec C187 dash with 12-inch display. All non-structural panels replaced with carbon-fiber (pre-preg, 2x2 twill) from RML Group, including a bespoke roll cage (T45 steel, 3mm wall thickness) with integrated fire suppression (Lifeline Zero 360 system)."
+  ]
+}

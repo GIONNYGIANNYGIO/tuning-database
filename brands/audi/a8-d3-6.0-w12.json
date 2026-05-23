@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "A8 D3 6.0 W12",
+  "prestazioni": [
+    "Engine: BHT 6.0L W12 (48v, 450hp stock) – Full forged internals upgrade with Mahle Motorsport pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from Manley Performance to handle 700+ hp reliably. Custom camshafts by Schrick (280° duration, 11.5mm lift) for optimized high-RPM breathing.",
+    "Forced Induction: Twin Precision Turbo PT6266 CEA ball-bearing turbos (62mm inducer, 66mm exducer) with custom 3.5\" stainless steel turbo manifolds by GReddy Performance. Full 4\" titanium exhaust system with Akrapovič Racing headers and a custom X-pipe setup for W12 firing order optimization. Supporting mods include a Bosch 044 fuel pump, Injector Dynamics ID1700x injectors, and a Motec M150 ECU for standalone engine management.",
+    "Suspension & Handling: KW Suspensions Clubsport coilovers (3-way adjustable, 80mm of travel) with custom valving for the D3 chassis. Full polybushings from SuperPro (part #SPF0116K) for subframe and control arms. Brembo GT-R 6-piston calipers (380mm rotors) with Ferodo Racing DS3000 pads and Goodridge G-Stop braided stainless steel lines. Custom 20\" BBS LM-R wheels (9.5J front, 11J rear) with Michelin Pilot Sport Cup 2 tires (265/30/20 front, 295/25/20 rear)."
+  ],
+  "estetica": [
+    "Body Kit: Wald International \"Black Bison\" widebody conversion kit (D3-specific, bolt-on fenders with 50mm flares) paired with a custom carbon fiber front splitter and rear diffuser by Vorsteiner. Full carbon fiber hood with integrated NACA ducts for turbo cooling.",
+    "Lighting: Full LED conversion with Hella Dynamic Curve headlights (D3-specific, adaptive) and custom Cree XHP70.2 LED fog lights. Rear taillights replaced with OEM+ Audi RS6 (C6) LED units, smoked and debadged.",
+    "Interior: Full Alcantara retrim by Katzkin (D3-specific patterns) with custom W12 embroidery on headrests. Roll cage by Custom Cages (8-point, bolt-in, T45 steel) with Sparco Pro ADV seats (fixed-back, FIA-approved). Motec C127 dash display integrated into the center console with custom W12-specific gauges (boost, AFR, oil temp)."
+  ]
+}

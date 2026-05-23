@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "PROCON-TEN",
+  "prestazioni": [
+    "Engine swap to a 20V turbocharged 3B engine (from the Audi S2/RS2) with a forged internals build including Mahle Motorsport forged pistons (8.5:1 compression), Carrillo H-beam connecting rods, and a fully balanced crankshaft by VAC Motorsports. Pair with a Garrett GT35R turbo (68mm compressor, .82 A/R turbine housing) and a custom 3.5\" stainless steel downpipe by Milltek Sport with a 200-cell catalytic converter for Euro 6 compliance.",
+    "Full standalone engine management conversion using a Bosch Motronic ME7.1.1 ECU reflashed with a custom tune by MTM (Motoren Technik Mayer) optimized for 1.2 bar boost, 98 RON fuel, and a 3000 rpm launch control strategy. Upgrade to a high-flow fuel system with a Walbro 450 LPH in-tank pump, Siemens DEKA 80lb/hr injectors, and a Radium Engineering fuel pressure regulator for precise AFR control.",
+    "Chassis reinforcement with a full seam-welded 8P0 807 213A shell (Audi C4 platform) and a custom bolt-in roll cage by Matter Fab (4-point, TIG-welded 4130 chromoly) with integrated harness bars for Schroth Profi II 6-point harnesses. Suspension overhaul with Ohlins Road & Track coilovers (custom valving for the C4 platform), polyurethane bushings by Powerflex (black series), and a reinforced steering rack with a quicker 14:1 ratio from a later Audi S6 (C4)."
+  ],
+  "estetica": [
+    "Full carbon fiber widebody conversion using a custom Rocket Bunny-inspired kit (designed specifically for the C4 chassis) with extended fenders (3\" wider front, 4\" wider rear), a vented hood by Seibon Carbon, and a custom rear diffuser by Maxton Design with integrated dual exhaust exits for a 3\" titanium exhaust system by Akrapovic (slip-on mufflers, titanium tips).",
+    "Retro-modern lighting upgrade with Hella Evo X projectors (bi-xenon, 4500K) in a custom C4-specific housing, paired with Osram Night Breaker Laser bulbs and a custom LED halo ring kit by LUX Automotive. Rear lights replaced with a full LED conversion by K-Motionz, featuring sequential turn signals and a smoked lens overlay for a stealth appearance.",
+    "Interior stripped and rebuilt with a full Alcantara retrim by Recaro (CS Sportster Pro seats, custom door cards, and a suede-wrapped MOMO Mod.78 steering wheel). Instrument cluster upgraded to a digital AIM MXS Strada dash with integrated lap timer, oil pressure, and boost gauges. Shift knob replaced with a weighted titanium unit by BFI Racing, paired with a short-throw shifter kit by 034 Motorsport."
+  ]
+}

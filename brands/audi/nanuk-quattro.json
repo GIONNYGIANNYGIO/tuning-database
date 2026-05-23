@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "NANUK QUATTRO",
+  "prestazioni": [
+    "Engine: 4.2L V8 TFSI (CEUC) with a custom billet aluminum crankshaft from Manley Performance (92.8mm stroke, 84.5mm bore) paired with forged Mahle Motorsport pistons (9.5:1 compression) and Carrillo H-beam connecting rods for 8,500 RPM redline capability. Turbocharged with a Garrett GTX5533R Gen II turbo (1.15 A/R, 88mm compressor wheel) on a custom 3D-printed titanium exhaust manifold by APR, feeding into a secondary air injection system for optimized spool under 2,800 RPM.",
+    "Drivetrain: 8-speed ZF 8HP90 transmission reinforced with a Sonnax billet valve body and upgraded torque converter (4,000+ RPM stall) for 0-60 mph in 2.9 seconds. Quattro Ultra rear-biased torque vectoring system recalibrated via Cobb Tuning Accessport (Stage 3+ map) with a 65% rear torque split under hard acceleration, paired with a Drexler Motorsport limited-slip differential (40% preload) and carbon-fiber driveshaft from GKN Driveline.",
+    "Suspension & Braking: Öhlins TTX46 coilovers with 3-way adjustable damping (12-position rebound, 24-position compression, 10-position high-speed compression) and 20mm adjustable ride height, paired with solid aluminum subframe bushings from 034 Motorsport. Brembo GT-R 6-piston calipers (40mm pistons) clamping 420mm two-piece carbon-ceramic rotors (CCM-R) with Pagid RSL29 brake pads, cooled by custom ducting from Eventuri and braided stainless steel brake lines from Goodridge."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon-fiber widebody kit from Liberty Walk LB-WORKS (NANUK-specific design), including extended front fenders (35mm wider), rear quarter panels (50mm wider), and a custom rear diffuser with active Gurney flap (adjustable via cockpit switch). Front splitter from Vorsteiner (carbon-Kevlar hybrid) with integrated canards, paired with a fixed rear wing from APR Performance (GT-500 spec, 1,800mm width, 300mm chord) generating 450kg of downforce at 180 mph.",
+    "Exterior Styling: Custom matte Arctic Grey (Audi Exclusive) paint with PPF (XPEL Stealth) full-body wrap, including mirror caps and grille surround. OEM+ headlight upgrade with Hella Dynamic LED projectors (8,000-lumen output) and sequential turn signals, paired with a custom laser-cut grille (hexagonal mesh, 3mm gauge) from RS-Tuning. Side skirts from Prior Design (PD-GT800 kit) with integrated LED puddle lights, and a rear bumper with dual 100mm titanium exhaust tips from Akrapović (slip-on, non-resonated).",
+    "Wheels & Tires: Forged 21x10.5 ET25 (front) and 21x12.5 ET35 (rear) wheels from HRE Performance (FF15 model, 3-piece construction, 12.5kg per wheel) with titanium hardware, wrapped in Michelin Pilot Sport Cup 2 R tires (285/30 R21 front, 325/25 R21 rear). Custom center-lock adapters from BBS Motorsport, paired with TPMS sensors from Schrader Electronics (real-time pressure/temperature monitoring via AIM MXS Strada dash)."
+  ]
+}

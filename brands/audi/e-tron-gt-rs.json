@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "E-TRON GT RS",
+  "prestazioni": [
+    "Upgrade to a **Bosch MGU-K (Motor Generator Unit - Kinetic) hybrid system** (engine code: **CWGD**, 800V architecture) with a **Vitesco Technologies high-efficiency inverter** and **Sila Nanotechnologies silicon-anode battery cells** (434 kW peak power, 83 kWh usable capacity) for a 0-60 mph time of 2.5s (stock: 3.1s) and a top speed of 180 mph (electronically limited, stock: 155 mph).",
+    "Installation of a **Magna PT eDS (Electric Drive System) rear axle upgrade** with a **ZF 2-speed transmission** (replacing the stock single-speed unit) for optimized torque vectoring and a **Garrett E-Turbo (electric-assisted turbocharger)** to reduce lag and improve regenerative braking efficiency by 18%.",
+    "Full **AP Racing carbon-ceramic brake kit (CCM-R 410mm front, 390mm rear)** with **Brembo GP4-MS calipers** and **Ferodo DS3.12 racing pads**, paired with **H&R 20mm lowering springs** and **Bilstein B16 PSS10 coilovers** (adjustable damping, 3-way rebound/compression) for track-focused handling."
+  ],
+  "estetica": [
+    "**Rocket Bunny V3 widebody kit** (carbon fiber, 50mm wider front fenders, 60mm rear) with **custom Vorsteiner V-FF107 forged wheels** (21x10.5 ET35 front, 21x12.5 ET45 rear) wrapped in **Michelin Pilot Sport Cup 2 R tires** (275/30 R21 front, 325/25 R21 rear).",
+    "**Audi Sport ABT RS7-style carbon fiber front splitter** with **integrated Gurney flap** and **custom 3D-printed active aero rear diffuser** (carbon fiber, adjustable angle via **MooVita aero control module**) for -0.45 Cd improvement.",
+    "**Rotiform LAS-R forged wheels** (gloss black, 22x11 ET40) with **Audi RS-specific center caps** and **custom LED taillight overlays** (Smoked Tints by **VLand**), paired with a **full carbon fiber roof replacement** (weight reduction: 8.2 kg) and **Audi Sport RS-specific matte Daytona Gray wrap** (3M 2080 series)."
+  ]
+}

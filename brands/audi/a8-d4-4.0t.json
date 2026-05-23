@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "A8 D4 4.0T",
+  "prestazioni": [
+    "Engine: CGWB 4.0L V8 TFSI (EA837) with upgraded BorgWarner EFR 8374 turbochargers (1.05 A/R, 62mm compressor, 74mm turbine) and custom 3.5\" stainless steel downpipes with 200-cell catalytic converters for optimized spool and flow",
+    "Fuel System: Injector Dynamics ID1050x fuel injectors paired with an AEM 340LPH in-tank fuel pump and a Radium Engineering dual-catch can setup with -10AN lines to manage crankcase pressure under high boost (22psi peak)",
+    "ECU & Tuning: Cobb Accessport V3 flashed with a custom Stage 3+ tune by Eurocharged, utilizing a Motec C125 dash for real-time monitoring of AFR, boost, and EGTs (targeting 11.8:1 AFR at full load)"
+  ],
+  "estetica": [
+    "Aero: Prior Design PD800RS widebody kit with carbon fiber front splitter, side skirts, and a 3-piece adjustable rear wing (200mm chord, 15° angle of attack) for D4-specific fitment",
+    "Wheels: HRE FF01 21x10.5 ET35 (front) and 21x12 ET45 (rear) with Michelin Pilot Sport Cup 2 R tires (275/30/21 and 315/25/21 respectively), paired with KW Clubsport 3-way coilovers (80mm front, 70mm rear spring rates)",
+    "Interior: Recaro Pole Position seats with Schroth Profi II 6-point harnesses, Alcantara-wrapped MOMO Mod.78 steering wheel (380mm diameter), and a custom roll cage by VAC Motorsports (chromoly 4130, 6-point with harness bar)"
+  ]
+}

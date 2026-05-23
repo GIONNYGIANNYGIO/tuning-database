@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "A6 C5",
+  "prestazioni": [
+    "Engine: 2.7T (APB) with forged internals including Mahle Motorsport forged pistons (8.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from Manley Performance. Turbocharger upgrade to a Garrett GT3076R with a custom 0.82 A/R turbine housing and 58mm compressor wheel, paired with a custom 3.5\" stainless steel downpipe and a GReddy Profec B Spec II boost controller for 24 psi peak boost.",
+    "Fuel System: Bosch 044 high-flow fuel pump, Siemens DEKA 80lb/hr injectors, and a custom fuel rail from Integrated Engineering. ECU remapped via APR Stage 3+ software with a custom tune by Eurocharged, targeting 450whp and 420 lb-ft torque on 93 octane fuel with a methanol injection kit (Snow Performance Stage 2) for cooling and octane enhancement.",
+    "Drivetrain & Suspension: Quaife ATB differential (25% preload) in the rear, paired with a 034 Motorsport lightweight aluminum driveshaft. Suspension overhaul with KW Clubsport coilovers (8-position adjustable damping, 30mm front/25mm rear lowering), H&R 25mm front and 22mm rear sway bars, and polygraphite bushings from 034 Motorsport for the subframe, control arms, and differential mounts. Braking upgraded to Alcon 6-piston front calipers with 355mm two-piece rotors and Ferodo DS2500 pads, paired with stainless steel braided lines."
+  ],
+  "estetica": [
+    "Body Kit: OEM+ RS6-style front bumper with carbon fiber splitter from Eurocode Tuning, paired with a custom rear diffuser from Vorsteiner (C5-specific) and a carbon fiber rear spoiler from Maxton Design. Side skirts from Kamei (OEM-fitment) and a carbon fiber hood from APR with functional NACA ducts for intercooler cooling.",
+    "Wheels & Tires: BBS LM-RS II 9.5x18\" ET25 wheels (gold finish) with 245/35/18 Michelin Pilot Sport Cup 2 tires. Custom wheel spacers (15mm front, 20mm rear) from H&R for aggressive flush fitment, paired with stud conversion (McGard 12x1.5 extended lug bolts).",
+    "Interior & Details: Full Alcantara retrim by Eurotrim Design (dashboard, door cards, headliner) with red stitching. Custom gauge cluster from Defi (3.5\" boost, oil temp, and wideband AFR) mounted in an A-pillar pod. Seats replaced with Recaro SRD-E (C5-specific) with Schroth 4-point harnesses. Engine bay detailed with carbon fiber intake covers (034 Motorsport), anodized gold hardware (ARP studs, aluminum coolant pipes), and a custom aluminum radiator support from CSF."
+  ]
+}

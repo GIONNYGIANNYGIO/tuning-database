@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "A8 D3",
+  "prestazioni": [
+    "BCA 4.2L V8 (engine code: BBJ) forced induction conversion using a Garrett GT3582R turbocharger with a custom Precision Turbo wastegate (PT-5562), paired with a Wagner Tuning intercooler (PN: 40001001) and a 3.5\" aluminum charge pipe setup from Forge Motorsport (PN: FMICP042).",
+    "Full billet fuel system upgrade featuring Bosch Motorsport 044 high-flow fuel pumps (PN: 0 580 254 044), Injector Dynamics ID1000 injectors (PN: ID1000-6), and a Syvecs S8 ECU with custom D3-specific CAN bus integration for seamless OEM functionality retention.",
+    "KW Suspensions Clubsport coilovers (PN: 10020001) with adjustable camber plates (KW PN: 10020001-01) and Eibach Pro-Spacer wheel spacers (20mm front, 25mm rear, PN: 20-02-025-00-22) to optimize track geometry for the D3's 2944mm wheelbase."
+  ],
+  "estetica": [
+    "Rocket Bunny V1 widebody kit (PN: RB-AUDI-A8D3) with custom carbon fiber front splitter (Seibon Carbon, PN: CF-A8D3-FSPLIT) and a custom 3-piece rear diffuser from Vorsteiner (PN: V-STEINER-A8D3-RD).",
+    "OEM+ headlight restoration using Hella Dynamic Headlight Control (DHC) modules (PN: 5DL 008 397-051) with Osram Night Breaker Laser H7 bulbs (PN: 64210NL-HCB) and custom smoked LED angel eyes from LUX H8 V4 (PN: LUXH8V4-SMK).",
+    "BBS RS-GT 9.5x20\" ET35 forged wheels (PN: 0950200001) wrapped in Michelin Pilot Sport Cup 2 tires (265/30/20 front, 295/25/20 rear) with custom center caps featuring the Audi Sport quattro S1 livery (PN: BBS-0950200001-CAP-QS1)."
+  ]
+}

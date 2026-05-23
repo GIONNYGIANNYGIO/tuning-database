@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "LE MANS QUATTRO",
+  "prestazioni": [
+    "Engine: 5.0L V10 (Engine Code: **5.0L 40V FSI - BYK**) - Full internal build with forged Mahle pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from Manley Performance. Upgraded valvetrain with titanium retainers, Ferrea intake/exhaust valves, and Schrick 280° camshafts for aggressive overlap.",
+    "Forced Induction: Twin Precision Turbo PT6766CE turbochargers with custom 3D-printed titanium compressor housings, Tial MV-R 44mm wastegates, and a custom dual-core intercooler setup from CSF Racing with 4.5\" thick cores and billet end tanks. Supporting mods include a custom 3.5\" stainless steel turbo-back exhaust with Burns Stainless merge collectors and a secondary cat-delete section for maximum flow.",
+    "Fuel & Ignition: Full Motec M150 ECU standalone management with dual Bosch Motorsport 044 high-flow fuel pumps, Injector Dynamics ID2000x injectors, and a custom fuel rail from Radium Engineering. Ignition system upgraded to AEM CDI coils with NGK R8482-10 spark plugs gapped at 0.022\". Additional methanol injection via Snow Performance Stage 3 kit with dual 1000cc nozzles targeting the intake manifold for charge cooling."
+  ],
+  "estetica": [
+    "Widebody Conversion: Liberty Walk LB-WORKS Type-1 kit (Le Mans Quattro-specific) with extended carbon fiber fenders, custom front/rear bumpers, and a 3-piece carbon fiber rear diffuser. Fender flares widened by 3.5\" front and 4.5\" rear to accommodate 295/30/19 Michelin Pilot Sport Cup 2 R tires on the rear and 275/35/19 on the front.",
+    "Aerodynamics: Full carbon fiber aero package from 991 Design, including a GT3-style front splitter with integrated canards, a 3D-printed titanium rear wing mount, and a custom 2.5m wide rear wing with dual-element Gurney flaps. Underbody features a full carbon fiber diffuser with vortex generators and a flat underfloor panel from APR Performance.",
+    "Interior & Lighting: Full Alcantara-wrapped Recaro Pole Position seats with custom 6-point Schroth harnesses, a MOMO Prototipo steering wheel with integrated Motec C127 dash display, and a custom roll cage from Custom Cages UK (T45 steel, 4-point with integrated harness bars). Exterior lighting upgraded to Osram Night Breaker Laser HID bulbs with custom LED angel eyes and sequential turn signals from LUX H8 V4."
+  ]
+}

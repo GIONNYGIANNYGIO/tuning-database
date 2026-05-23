@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "PB18 E-TRON",
+  "prestazioni": [
+    "Upgrade to dual-motor **EA888-derived PPE (Premium Platform Electric) powertrain** with **Bosch MGU0250** electric motors (front: 170 kW, rear: 320 kW) recalibrated via **Audi Sport’s proprietary VCU (Vehicle Control Unit) firmware v2.3.1** for +25% torque vectoring precision and 0-100 km/h in 1.8s (stock: 2.0s).",
+    "Installation of **Molicel P42A** 21700-format cylindrical cells (46S2P configuration) replacing OEM LG Chem pouch cells, increasing usable capacity to **120 kWh (stock: 95 kWh)** and enabling **800V 600A discharge** for sustained 800 hp (stock: 671 hp) with **Mahle’s 800V SiC (Silicon Carbide) inverter** for 98% efficiency.",
+    "Chassis reinforcement via **Audi Sport’s PB18-specific carbon-fiber monocoque stiffening plates** (bonded to the aluminum spaceframe) paired with **KW Suspension’s 3-way Clubsport coilovers (PPE-specific valving)** and **AP Racing’s CCX4 6-piston front/4-piston rear brake calipers** with **Brembo HTC64T 420mm carbon-ceramic rotors** for 30% improved fade resistance."
+  ],
+  "estetica": [
+    "Full **Rocket Bunny V3 PB18-specific widebody kit** (pre-preg carbon fiber, 50mm wider front fenders, 70mm wider rear) with **custom 3D-printed ABS diffuser inserts** for -20% lift at 250 km/h (stock: -12%).",
+    "Replacement of OEM LED matrix headlights with **Osram Laserline 2** adaptive laser modules (1,000m range) and **Anzo USA’s PB18-specific sequential turn signals** (RGBW, 60FPS animation via CAN bus integration).",
+    "Interior rewrap in **Bridge of Weir ‘Deep Sea Blue’ Nappa leather** with **Alcantara ‘Suede Tech’ headliner**, **Recaro Pole Position seats (carbon shell, FIA 8862-2009 certified)** and **AEM Performance Electronics’ 7-inch digital dash (CAN-bus linked to VCU for real-time torque split data)**."
+  ]
+}

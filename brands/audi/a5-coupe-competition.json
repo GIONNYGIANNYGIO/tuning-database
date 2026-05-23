@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "A5 COUPE COMPETITION",
+  "prestazioni": [
+    "Engine: 3.0L V6 TFSI (engine code **CWGD**) with a **Garrett GTX3582R Gen II** turbocharger (82mm compressor, 62mm turbine) paired with a **Precision Turbo & Engine 46mm wastegate** for 1.2 bar (17.4 psi) peak boost, supported by a **Forge Motorsport Motorsport Series intercooler** (10-row, 1200cfm core) and **034 Motorsport billet aluminum intake manifold** with port-matched runners for optimized airflow.",
+    "Drivetrain: **034 Motorsport Stage 3+ clutch kit** (multi-plate sintered bronze) with a **South Bend Clutch dual-mass flywheel conversion** (lightweight 12.5lb steel) for 0-60mph in 3.8s, paired with a **Quattro GmbH RS5-spec rear differential** (40% locking under load) and **Audi Sport ceramic composite brakes (CCB)** (420mm front, 356mm rear) with **Pagid RSL29 racing pads** for fade-resistant stopping power.",
+    "Suspension: **KW Suspensions Clubsport coilovers (3-way adjustable)** with **H&R Monoball top mounts** (front) and **034 Motorsport solid subframe bushings** for razor-sharp turn-in, complemented by **Audi Sport RS3-spec anti-roll bars** (24mm front, 22mm rear) and **Bilstein B16 PSS10 dampers** (rebound/compression adjustable) for Nürburgring-tuned handling."
+  ],
+  "estetica": [
+    "Aero: **ABT Sportsline AS8 widebody kit** (carbon fiber, +50mm front, +60mm rear) with **Audi Sport RS7-spec front splitter** (3D-printed carbon, 3-stage adjustable) and **Mansory rear diffuser** (dual-layer carbon, 4x100mm exhaust cutouts) for -0.35 Cd reduction and 120kg downforce at 200km/h.",
+    "Wheels: **BBS FI-R 9.5Jx20 ET30 (front) / 11Jx20 ET40 (rear)** in **Forged Diamond Black** with **Michelin Pilot Sport Cup 2 R** tires (265/30 R20 front, 295/25 R20 rear) and **HRE FlowForm FF03** center caps for a 5kg unsprung weight reduction per corner.",
+    "Lighting: **Osram Night Breaker Laser H11/H7 bulbs** (150% brighter, 4200K) with **Morimoto XB LED fog lights** (5500K, DOT-approved) and **Audi Sport OLED taillights** (dynamic turn signals, 30% faster response) for aggressive yet functional illumination."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "A8L HORCH",
+  "prestazioni": [
+    "Engine: 4.0L TFSI V8 (CWUB) with a custom Stage 2+ ECU remap by APR (APR955000C) targeting 680 HP and 850 Nm torque, utilizing a bespoke fueling strategy with upgraded 1050cc Bosch Motorsport injectors and a high-flow fuel pump (Walbro F90000274) to handle E85 flex-fuel blends.",
+    "Forced Induction: Hybrid turbocharger upgrade by Pure Turbos (PT6266CE.2) with billet compressor wheel, 62mm inducer, and 76mm exducer, paired with a custom 4-inch titanium downpipe (Fabspeed Motorsport) and a secondary air injection delete (07L131111A) for optimized spool and reduced backpressure.",
+    "Drivetrain & Cooling: ZF 8HP95 transmission reinforcement with a Peloquin LSD (8HP95-001) and upgraded torque converter (Sonax 8HP95-TC), alongside a custom front-mount intercooler (CTS Turbo FMIC-0036) with 1200 CFM airflow capacity and a secondary oil cooler (Setrab 520010) for sustained track use."
+  ],
+  "estetica": [
+    "Exterior: Full carbon fiber widebody conversion by Prior Design (PD800WB) with custom Horch-specific front splitter, side skirts, and rear diffuser, retaining OEM paint-matched carbon weave for a stealth appearance. Includes a custom rear spoiler (Vorsteiner V-A8L) with active Gurney flap (adjustable via MMI).",
+    "Wheels & Aero: Forged 22-inch Rotiform LAS-R wheels (9.5J ET35 front, 11J ET40 rear) wrapped in Michelin Pilot Sport Cup 2 R tires (275/30 R22 front, 315/25 R22 rear), paired with AP Racing 6-piston front calipers (CP9660-350) and 400mm two-piece rotors (AP Racing PRF400) for aggressive braking.",
+    "Interior: Full Alcantara and carbon fiber retrim by Carlex Design, including custom Horch-embroidered headrests, a MOMO Prototipo steering wheel (380mm, Alcantara with carbon fiber inserts), and a bespoke rear seat delete with a custom roll cage (Autopower Industries, 6-point bolt-in) for track readiness."
+  ]
+}
