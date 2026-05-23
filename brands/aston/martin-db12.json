@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN DB12",
+  "prestazioni": [
+    "AMR-developed twin-turbocharged 4.0L V8 (AE31) with upgraded BorgWarner EFR 8374 turbos (1.25 A/R, titanium-aluminide turbine wheels) and custom AMR-spec intercooler (800x300x100mm core, 60% larger than OEM) to support 850hp on 98 RON fuel with 2.2 bar boost",
+    "Full titanium Akrapović Evolution Line exhaust system (4.5\" diameter, quad 100mm carbon-fiber tips) with secondary catalytic converters removed and replaced by straight-pipe sections for optimized scavenging, paired with a custom AMR ECU calibration (via Bosch MS6.4) to retain OEM driveability while unlocking 0-60mph in 2.8s",
+    "Ohlins TTX46 MkII coilovers with 3-way adjustable damping (compression/rebound/bump), custom valving for the DB12's 1,800kg weight, and adjustable top mounts (0-3° camber adjustment) paired with AMR-spec 20mm front and 15mm rear anti-roll bars (hollow 4130 chromoly construction) to eliminate body roll in high-speed cornering"
+  ],
+  "estetica": [
+    "RML Group carbon-fiber widebody kit (front fenders extended by 50mm, rear by 70mm) with integrated cooling ducts for the upgraded intercooler and brake system, finished in satin Aston Martin Racing Green (code: RAL 6001)",
+    "Vorsteiner V-FF107 21\" forged wheels (front: 9.5J ET35, rear: 11.5J ET45) in gloss black with custom center-lock adapters (converted from OEM lug bolts) and Michelin Pilot Sport Cup 2 R tires (275/30 front, 325/25 rear) for track-focused grip",
+    "Custom carbon-fiber rear diffuser by Prior Design (3D-scanned to fit DB12's underbody) with integrated Gurney flap and active aero functionality (electronic adjustment via OEM DB12's air suspension controls), reducing rear lift by 40% at 150mph"
+  ]
+}

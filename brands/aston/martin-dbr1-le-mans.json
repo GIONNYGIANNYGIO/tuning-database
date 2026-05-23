@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON MARTIN",
+  "model": "DBR1 LE MANS",
+  "prestazioni": [
+    "Rebuild of the original 2.5L RB6.200 straight-6 engine (engine code: RB6.200) with forged internals: Mahle Motorsport 9.5:1 compression pistons, Carillo H-beam connecting rods, and a billet crankshaft from Bryant Racing, paired with a bespoke dry-sump system by Peterson Fluid Systems (4-stage, 12-liter capacity) to eliminate oil starvation during high-G Le Mans corners.",
+    "Custom-built Garrett GT4202R turbocharger (84mm inducer, 1.15 A/R turbine housing) with a Tial MV-R 50mm external wastegate, mated to a custom air-to-water intercooler (PWR Advanced Cooling Technology) and a 4-inch titanium exhaust system by Akrapović, featuring a 3.5-inch center section with dual 2.5-inch outlets and a valved bypass for Le Mans noise compliance.",
+    "Full chassis reinforcement with a T45 steel roll cage by Safety Devices (FIA 8862-2009 certified), integrated with a bespoke Öhlins TTX40 4-way adjustable coilover suspension (24-position rebound, 22-position compression, 12-click low-speed damping) and spherical bearing conversion for all suspension pickups, using Aurora Bearing Company rod ends (AMG-8 series) for sub-0.001-inch play."
+  ],
+  "estetica": [
+    "Full carbon-fiber bodywork replacement using pre-preg autoclave-cured panels by Callaway Carbon (3K twill weave, 2x2 twill finish), including a custom front splitter with integrated dive planes (tested in CFD for 120kg downforce at 200mph) and a rear diffuser with active Gurney flap (hydraulically actuated via Bosch Rexroth servo valve).",
+    "Custom magnesium wheels by Dymag (CX-R model, 18x12 front / 18x13 rear) with center-lock hubs (PCD 6x130, 110mm offset) wrapped in Michelin Pilot Sport Cup 2 R tires (305/645R18 front, 325/680R18 rear) mounted on custom 3D-printed titanium wheel spacers (Aeromet A20X alloy) for optimized scrub radius.",
+    "Interior stripped and reupholstered with a full Alcantara suite by Sabelt (880 series seats, FIA 8862-2009 homologated), featuring a bespoke MOMO Prototipo steering wheel (380mm diameter, suede-wrapped with carbon fiber core) and a digital dash by Motec (CDL3+ with 7-inch TFT display, integrated with a Bosch MS4.0 ECU for real-time telemetry)."
+  ]
+}

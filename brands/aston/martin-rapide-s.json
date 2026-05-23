@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN RAPIDE S",
+  "prestazioni": [
+    "AM29 6.0L V12 (AE31) engine: Full internal build with forged Mahle Motorsport pistons (9.0:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from Manley Performance. Pair with a custom dry-sump system by Dailey Engineering to eliminate oil starvation during high-G cornering.",
+    "Forced induction via twin Precision Turbo PT6266 CEA ball-bearing turbos (62mm inducer, 66mm exducer) with TiAL Sport 44mm wastegates and a custom intercooler setup by CSF Racing (dual-core, 1200hp-rated). Boost controlled via an AEM X-Series boost controller with 1.5-bar target.",
+    "Full fuel system overhaul: Injector Dynamics ID1700x injectors, twin Walbro 450 LPH pumps, and a Radium Engineering dual-port fuel pressure regulator. ECU reflash via a Syvecs S12 standalone ECU with custom mapping for E85 compatibility and launch control optimized for the ZF 8HP90 transmission."
+  ],
+  "estetica": [
+    "Full carbon fiber widebody conversion using the Liberty Walk LB-RAPIDE kit (modified to fit the Rapide S chassis) with custom front canards and a rear diffuser by Vorsteiner. Painted in Aston Martin Q by R-M 'Lime Essence' with matte black accents.",
+    "Ohlins Road & Track coilovers (custom valved for the Rapide S's 1,990kg weight) paired with Eibach ERS springs (20% stiffer than OEM) and polyurethane bushings from SuperPro for sharper turn-in. Front sway bar upgraded to a H&R 25mm adjustable unit.",
+    "Brembo GT-R 6-piston calipers (front) and 4-piston (rear) with 400mm two-piece rotors from AP Racing, paired with Ferodo DS2500 brake pads. Wheels: HRE P101 21x10.5 ET35 (front) and 21x12.5 ET45 (rear) in gloss black with Michelin Pilot Sport Cup 2 R tires (275/30 and 325/25 respectively)."
+  ]
+}

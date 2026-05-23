@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN RAPIDE",
+  "prestazioni": [
+    "Engine: AM11 6.0L V12 (code: AE31) with a bespoke Cosworth Stage 3+ ECU remap, targeting 650hp at 7,200 RPM and 550 lb-ft of torque at 5,500 RPM via direct port methanol injection (AEM 30-3300 kit) and upgraded fuel system with twin Walbro 450 LPH pumps and ID1000x injectors",
+    "Forced induction: Twin Precision Turbo PT6266 CEA ball-bearing turbos with custom 3.5-inch stainless steel exhaust manifolds (fabricated by Gintani), paired with a custom air-to-water intercooler (PWR Advanced Cooling) and 4-inch titanium downpipes (Supersprint)",
+    "Suspension: Full Ohlins TTX46 coilover kit with 3-way adjustable damping, custom valving for the Rapide's 1,800kg weight, and Eibach ERS 12,000 N/mm helper springs; paired with AST 5000 Series spherical bearing control arms and polyurethane bushings (SuperPro)"
+  ],
+  "estetica": [
+    "Aero: Full Liberty Walk LB Works widebody kit (Rapide-specific, not a generic kit) with carbon fiber front splitter, rear diffuser, and GT-style rear wing (all dry carbon, 2x2 twill weave), reducing lift by 40% at 180mph (validated in wind tunnel testing by Aeromotions)",
+    "Wheels: HRE P101SC 21x10.5 (front) and 21x12 (rear) in a custom satin bronze finish, with Michelin Pilot Sport Cup 2 R tires (275/30 ZR21 front, 325/25 ZR21 rear) and custom center-lock adapters (BBS Motorsport)",
+    "Interior: Full Alcantara retrim by Saddleback Leather (Rapide-specific pattern), including door cards, headliner, and Recaro SPG XL seats (carbon shell, 6-point harnesses by Schroth Profi II) with custom 3D-printed seat mounts for lowered H-point"
+  ]
+}

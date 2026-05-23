@@ -1,0 +1,14 @@
+{
+  "brand": "ALFA",
+  "model": "ROMEO MITO VELOCE",
+  "prestazioni": [
+    "Engine: 1.4L TB MultiAir (N335 - 170 HP stock) with a custom ECU flash from **Alfa Romeo Racing (ARR) Stage 2+** targeting 220 HP and 250 Nm torque via optimized cam timing, 22 psi boost (stock turbo), and ethanol-blended fuel mapping (E30-E50). Includes **ARR-spec high-pressure fuel pump** and **Bosch 0280158107 injectors** (440cc/min) for safe ethanol use.",
+    "Forced Induction: **Garrett GT2252S turbocharger** (hybrid core, 0.63 A/R turbine housing) with **TurboSmart Kompact 40mm wastegate** and **ARP turbo stud kit** (M10x1.25) to prevent boost creep. Paired with **GReddy Type-S intercooler** (front-mount, 55mm core) and **Samco Sport silicone hoses** (blue, 2.5\" ID) for reduced intake temps.",
+    "Suspension & Handling: **Ohlins Road & Track DFV coilovers** (custom valved for MiTo Veloce, 30-way rebound/20-way compression damping) with **Eibach Pro-Spacer 15mm wheel spacers** (hub-centric, 5x98 bolt pattern) and **Brembo GT 330mm front brake kit** (4-piston calipers, 30mm thick rotors) paired with **Ferodo DS2500 pads** and **Goodridge G-Stop braided lines**."
+  ],
+  "estetica": [
+    "Aero: **Novitec Rosso MiTo widebody kit** (carbon fiber, 30mm extended fenders) with **custom 3M Matte Graphite vinyl wrap** (OEM+ finish) and **Rieger Tuning rear diffuser** (carbon, integrates with stock bumper). Front splitter upgraded to **Seibon Carbon MiTo GT** (25mm overhang, 3M VHB tape mounting).",
+    "Wheels: **OZ Racing Ultraleggera HLT** (17x7.5 ET35, 5x98 PCD) in **Gloss Black with red lip**, wrapped in **Pirelli P Zero Trofeo R** (205/40/17, semi-slick compound). Lug nuts: **McGard 24457** (black, conical seat).",
+    "Interior: **Recaro Sportster CS seats** (Alcantara/leather, red stitching) with **Schroth Profi II-6 harnesses** (4-point, bolt-in). Steering wheel replaced with **Momo Mod.70** (320mm, suede, red stitch) and shift knob upgraded to **Alfa Romeo Racing titanium shift knob** (N335-specific thread). Roll cage: **CustomWorks bolt-in 6-point cage** (T45 steel, powder-coated red)."
+  ]
+}

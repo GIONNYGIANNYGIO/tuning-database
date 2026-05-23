@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN DBS GT ZAGATO EVO",
+  "prestazioni": [
+    "AE214E 5.2L twin-turbocharged V12 (AM28) engine: Full titanium internals upgrade with forged Mahle Motorsport pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft by JE Pistons for 1,200+ HP reliability at 2.2 bar boost (stock turbo housings retained for response, upgraded with Garrett GTX5533R Gen II turbos with ceramic ball bearings and 76mm compressor wheels).",
+    "Custom ECU calibration by Cosworth (standalone Pi Pectel SQ6M with flex-fuel mapping) paired with a Motec PDM30 for precise fuel and ignition control, including individual cylinder knock detection and adaptive wastegate control via AEM X-Series wideband sensors (0-5V output) for stoichiometric AFR targeting under full load.",
+    "Full drivetrain reinforcement: Quaife ATB differential with 45% lockup under load, upgraded half-shafts by GKN Driveline with CV joints rated for 1,500 Nm, and a Sachs Performance dual-mass flywheel (lightweight steel) mated to a Tilton triple-plate carbon clutch (2,000 Nm capacity) for launch control optimization."
+  ],
+  "estetica": [
+    "Zagato-designed carbon fiber widebody kit with integrated active aerodynamics: Front splitter with 3D-printed titanium supports (weight reduction of 40% vs. stock) and a rear diffuser featuring Gurney flaps adjustable via a MoTeC ADL3 dash-controlled servo motor (0-15mm range).",
+    "Custom paint scheme by Sikkens (Aston Martin Q by R-M) in 'Zagato Silver' with hand-applied gold leaf pinstriping (0.1mm width) on the front fenders and rear haunches, paired with a matte black carbon fiber roof wrapped in 3M 1080 Series 'Gloss Black' for UV protection and weight savings.",
+    "OZ Racing Ultraleggera HLT wheels (20x10.5 front, 21x12.5 rear) with titanium wheel bolts by ARP, shod in Pirelli P Zero Trofeo R tires (265/30 R20 front, 325/25 R21 rear) featuring custom 'Zagato Evo' sidewall lettering in red. Brake system upgraded to AP Racing CP9660 calipers with 400mm carbon-ceramic rotors (CCM-X compound) and Ferodo DS3.12 pads for 1,500°C heat resistance."
+  ]
+}

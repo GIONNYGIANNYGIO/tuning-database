@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN RAPIDE AMR",
+  "prestazioni": [
+    "AM29 6.0L V12 (AE31) engine: Full titanium internals upgrade with Carillo H-beam connecting rods, JE 12.5:1 forged pistons, and a bespoke dry-sump lubrication system by Dailey Engineering to handle 9,500 RPM redline and 750+ HP on E85 fuel via a Motec M150 ECU with custom cylinder-by-cylinder knock control mapping.",
+    "Forced induction conversion using a pair of Garrett GTX5533R Gen II turbochargers with billet compressor wheels, custom 3D-printed titanium exhaust manifolds by Akrapović, and a dual-ceramic-coated Tial MV-R 60mm wastegate setup for 22 PSI peak boost, paired with a PWR 1500hp race intercooler and ID1700x injectors.",
+    "Full drivetrain reinforcement: Quaife ATB differential with 45% lock, OS Giken 3-plate carbon clutch, and a Tilton triple-disc paddle clutch system with billet flywheel, mated to a Ricardo 8-speed transmission with upgraded synchros and a custom 3.73:1 final drive ratio for 0-60 mph in 2.8 seconds."
+  ],
+  "estetica": [
+    "Full carbon-fiber widebody conversion using a custom AMR-inspired Rocket Bunny V3 kit with extended front fenders (30mm per side), rear overfenders (50mm per side), and a functional GT3-style rear diffuser by Vorsteiner, all finished in Aston Martin Q by R-Reforged ‘Frosted Graphite’ satin wrap.",
+    "OEM+ AMR front splitter with integrated DRLs by Litchfield, paired with a custom 3D-printed carbon-fiber rear wing (2.2m span) with active Gurney flaps controlled via a Bosch Motorsport ECU, generating 220kg of downforce at 180 mph (verified in MIRA wind tunnel).",
+    "Interior: Full Alcantara retrim by Saddleback Leather with AMR-embroidered Recaro SPG XL bucket seats (FIA 8862-2009 certified), a custom roll cage by Safety Devices (T45 steel, 6-point with integrated fire suppression system), and a Motec C187 dash display replacing the stock cluster for real-time turbo/boost logging."
+  ]
+}

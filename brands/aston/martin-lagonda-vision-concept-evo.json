@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN LAGONDA VISION CONCEPT EVO",
+  "prestazioni": [
+    "AMR-developed twin-turbocharged 4.0L V12 (AE31) with forged internals (Mahle pistons, Carrillo H-beam rods, billet crank) and a custom dry-sump lubrication system, pushing 1,100 HP on E85 via a Garrett GTX5533R Gen II turbocharger (84mm compressor, 1.15 A/R turbine housing) and a Tial MV-R 60mm wastegate setup",
+    "Full titanium 4-2-1 equal-length exhaust manifold (custom-fabricated by Akrapovič) paired with a straight-pipe titanium exhaust system featuring dual 3.5\" outlets and electronically controlled butterfly valves for backpressure optimization",
+    "Bosch Motorsport MS17.8 ECU with custom calibration by Cosworth, integrating a Pectel SQ6M data logger, 8-channel knock control, and a 4-stage nitrous oxide injection system (NOS Big Shot) with progressive activation mapped to throttle position and boost levels (max 150-shot at 1.5 bar)"
+  ],
+  "estetica": [
+    "Full carbon-fiber widebody conversion kit by Liberty Walk (LB-WORKS) with extended front fenders (50mm per side), custom rear quarter panels, and a 3-piece front splitter with integrated canards (Aston Martin Racing heritage design)",
+    "Custom 22\" forged aluminum wheels by HRE (FF16 model) in a staggered fitment (285/30 front, 335/25 rear) with titanium lug bolts and center-lock adapters, wrapped in Michelin Pilot Sport Cup 2 R tires (custom compound for 100+ treadwear)",
+    "Active aerodynamics package by Vorsteiner, including a deployable rear wing (DRS-style) with a 1,200mm span, carbon-fiber underbody diffuser with vortex generators, and a front-mounted air curtain system (inspired by the Valkyrie) to reduce drag by 18% at 200+ mph"
+  ]
+}

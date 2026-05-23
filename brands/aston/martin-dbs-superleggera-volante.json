@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN DBS SUPERLEGGERA VOLANTE",
+  "prestazioni": [
+    "AE214E 5.2L twin-turbo V12 (engine code: AE31) forced-induction upgrade via Garrett GTX5533R Gen II turbos with billet compressor wheels, custom 42mm wastegates, and TiAL MV-R 44mm external wastegate actuators for 950whp on E85 fuel, paired with a bespoke Cosworth Pectel SQ6M ECU reflash and Motec C185 dash logger for real-time boost and AFR monitoring",
+    "Full titanium 3.5-inch Tial Sport downpipe system with 200-cell catalytic converters and secondary HJS 2000-degree thermal-coated merge collectors, mated to a custom Akrapovič Evolution Line Ti exhaust with electronically actuated bypass valves and carbon-fiber muffler cans for sub-85dB compliance",
+    "Öhlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression), custom valving for the DBS Volante’s 50:50 weight distribution, and AST spherical bearing top mounts, paired with Eibach ERS 1200N/mm helper springs and polyamide bump stops for 30mm lowered ride height with 20% increased roll stiffness via a Cusco Type-RS 22mm front sway bar and 24mm rear sway bar"
+  ],
+  "estetica": [
+    "RML Group carbon-fiber widebody conversion kit (front fenders extended 50mm, rear quarters extended 70mm) with integrated carbon-fiber side skirts and a 3D-printed aluminum honeycomb core diffuser for 15% increased downforce at 180mph, finished in Aston Martin Q by RML ‘Liquid Silver’ paint with matte black forged carbon-fiber weave accents",
+    "Vorsteiner V-FF107 forged carbon-fiber front splitter with adjustable dive planes (3 positions) and a 3D-printed titanium support structure, paired with a custom 3-piece carbon-fiber rear wing (inspired by the Valkyrie’s design) with Gurney flaps and active hydraulic adjustment via a MoTeC PDM30 for 200kg of rear downforce at 250kph",
+    "BBS FI-R 21x11.5 ET45 (front) and 22x13 ET50 (rear) forged aluminum wheels with titanium hardware, wrapped in Michelin Pilot Sport Cup 2 R tires (295/30 ZR21 front, 345/25 ZR22 rear) and fitted with AP Racing CP9660 carbon-ceramic brake calipers (6-piston front, 4-piston rear) with 420mm rotors and Ferodo DS3.12 pads for 1.2g deceleration from 100mph"
+  ]
+}

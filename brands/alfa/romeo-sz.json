@@ -1,0 +1,14 @@
+{
+  "brand": "ALFA",
+  "model": "ROMEO SZ",
+  "prestazioni": [
+    "Engine: 3.0L V6 (Busso 12V, engine code AR61501) with a custom Motec M150 ECU reflash targeting 280+ hp (stock: 210 hp) via optimized fuel maps, aggressive ignition timing (12° BTDC at peak torque), and a 10% overboost function (1.2 bar) using a Forge Motorsport hybrid turbocharger (GT2871R with billet compressor wheel) paired with a custom 3.5\" stainless steel downpipe and a Milltek Sport 2.5\" cat-back exhaust with 304-grade mandrel bends for reduced backpressure",
+    "Suspension: Full Ohlins Road & Track DFV coilovers (custom valved for the SZ’s 800kg front/700kg rear weight distribution) with 24-way compression and 24-way rebound damping adjustability, paired with Eibach Pro-Kit springs (20% stiffer than OEM) and spherical bearing top mounts (SuperPro SPF1000K) to eliminate compliance in the front strut towers",
+    "Drivetrain: Quaife ATB helical LSD (QDF7Z) with a 40% lockup under load, mated to a custom 6-speed Getrag 282 gearbox (from the Alfa Romeo 164 Q4) with a Sachs Performance dual-mass flywheel (8.5kg) and a South Bend Clutch Stage 3 daily organic clutch disc (2400lb clamp load) for improved throttle response and durability under repeated launches"
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion using a custom Rocket Bunny SZ kit (hand-laid 2x2 twill weave, 3K finish) with extended front fenders (+30mm), rear quarter panels (+40mm), and a ducktail spoiler (200mm chord) for balanced aero at 180+ km/h. Paint: PPG Vibrance Collection ‘Rosso Competizione’ with a 5-layer pearl flake finish and matte black accents on the lower cladding",
+    "Wheels: OZ Racing Ultraleggera HLT 17x9 ET20 (front) and 17x10 ET25 (rear) in gloss silver, wrapped in Pirelli P Zero Trofeo R tires (245/40 R17 front, 285/35 R17 rear) with custom center-lock adapters (using Alfa Romeo 155 Q4 hubs) and titanium wheel bolts (ARP 174-2001)",
+    "Interior: Full Alcantara retrim by Sabelt (original supplier for the SZ) with custom ‘Rosso’ stitching, including the dashboard, door cards, and Recaro SRD-E seats (carbon fiber shells, 6-point harnesses). Steering wheel: MOMO Prototipo (350mm diameter) with a quick-release hub (NRG 50612) and a custom carbon fiber shift knob (short-throw adapter by B&M for the Getrag 282 gearbox)"
+  ]
+}

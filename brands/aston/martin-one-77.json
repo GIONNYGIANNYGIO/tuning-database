@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN ONE-77",
+  "prestazioni": [
+    "Engine: AM-077 7.3L naturally aspirated V12 (derived from the AM-11 6.0L but stroked to 7.3L with forged internals, titanium con-rods, and a bespoke dry-sump lubrication system). Replace the OEM Mahle pistons with custom JE forged pistons (12.5:1 compression ratio) and upgrade the crankshaft to a billet steel unit from Callies Performance Products for 1,000+ HP reliability under forced induction.",
+    "Forced Induction: Twin-turbocharged setup using Garrett GTX5533R Gen II turbos (hybrid ceramic ball-bearing cartridges) with custom 4.5\" titanium downpipes and a Tial MV-R 60mm wastegate system. Pair with a custom air-to-water intercooler from PWR (Australia) with a 5.5L capacity and dual Bosch 044 fuel pumps feeding ID2000 injectors (staged injection with a secondary set of ID1700x injectors for methanol port injection).",
+    "Drivetrain & Handling: Replace the OEM carbon-titanium clutch with a Tilton 7.25\" triple-plate ceramic clutch and a Quaife ATB differential (85% lockup). Suspension overhaul with Öhlins TTX46 coilovers (3-way adjustable, 200mm travel) and custom spherical bearing control arms from D2 Racing. Braking upgraded to AP Racing CP9660 calipers (6-piston front, 4-piston rear) with 420mm carbon-ceramic rotors (Brembo CCM-R) and Ferodo DS3.12 pads."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon-fiber aero kit from Liberty Walk (LB-WORKS One-77-specific widebody conversion) with a 3-piece front splitter, adjustable rear wing (inspired by the Aston Martin Valkyrie), and underbody diffuser from Vorsteiner. Replace the OEM side skirts with custom 3D-printed carbon-fiber units (Aeroflow Dynamics) for optimized airflow to the rear wheels.",
+    "Exterior Styling: Full respray in Aston Martin Q by R-Reforged \"Liquid Silver\" with a matte black roof and gold-painted brake calipers (AP Racing logo in red). Replace the OEM headlights with custom LED units from LUX Automotive (DRLs integrated into the lower grille) and a rear light bar from Novitec (carbon-fiber housing with sequential turn signals).",
+    "Interior: Full Alcantara retrim by Saddleback Leather (steering wheel, dashboard, and door cards) with red contrast stitching. Replace the OEM seats with Sparco Pro ADV carbon-fiber racing seats (6-point harnesses from Schroth) and a custom roll cage from Safety Devices (FIA-spec, bolt-in with integrated fire suppression system). Add a Motec C127 dash display with GPS lap timer and a custom switch panel (Aim Sports) for traction control and launch control adjustments."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN DBR1/2 LE MANS",
+  "prestazioni": [
+    "Engine: RB6.0L (Racing B60) 6.0L inline-6, dry-sump lubrication with a bespoke billet aluminum block from Cosworth Racing, featuring forged Mahle pistons (9.0:1 compression), titanium connecting rods by Carrillo, and a custom billet crankshaft with 88mm stroke. Pair with a custom-tuned Weber 48 IDA carburetor setup (4x dual-throat) with velocity stacks and a bespoke intake manifold by Radford Racing for optimized airflow at 7,500+ RPM.",
+    "Forced Induction: Twin Garrett GT2860RS-5 turbochargers (ball-bearing, 0.64 A/R turbine housing) with custom 3D-printed Inconel exhaust manifolds by Don Foster Engineering, paired with a custom air-to-water intercooler system (PWR Advanced Cooling) and a TiAL MV-R 44mm wastegate setup for precise boost control (targeting 1.5 bar / 21.7 psi).",
+    "Suspension & Chassis: Full bespoke Ohlins TTX40 4-way adjustable coilovers with spherical bearing top mounts, custom valving for Le Mans-spec compliance, and a reinforced subframe by RML Group. Pair with a full polybush kit from SuperPro (front/rear control arms, subframe mounts) and a custom-fabricated front strut brace by T45 Engineering for torsional rigidity."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon fiber Le Mans-spec bodywork by Pro Alloy Motorsports, including a 2023-spec DBR1/2 front splitter with integrated dive planes, a rear diffuser with Gurney flap (3D-printed carbon fiber by C-West), and a custom rear wing (NACA 63A012 airfoil) with adjustable angle of attack (0-12 degrees) by Aeromotions.",
+    "Wheels & Brakes: Bespoke 18x12 (front) and 18x13 (rear) magnesium wheels by Dymag (RX-2 model, 3-piece construction) with center-lock hubs, wrapped in Pirelli P Zero Corsa tires (295/650R18 front, 325/705R18 rear). Brake system features 380mm carbon-ceramic rotors (AP Racing CCM-X) with 6-piston calipers (front) and 355mm rotors with 4-piston calipers (rear), paired with Ferodo DS3000 pads and braided stainless steel lines by Goodridge.",
+    "Interior & Details: Full carbon fiber interior by Sparco (Pro 2000 seats, 6-point harnesses), custom roll cage by Safety Devices (FIA 8862-2009 certified, T45 steel), and a bespoke digital dash by Motec (C127 model) with integrated data logging. Exterior accents include a custom livery by RS Coachworks (1959 Le Mans-winning DBR1 replica scheme) and a hand-polished magnesium engine cover with engraved Aston Martin Racing logos."
+  ]
+}

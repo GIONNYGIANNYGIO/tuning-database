@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN DB5",
+  "prestazioni": [
+    "Replace the original 4.0L Tadek Marek inline-6 (engine code: DB6/240) with a fully balanced and blueprinted version featuring forged Mahle pistons (9.0:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from Cosworth, paired with a custom camshaft profile by Kent Cams (280° duration, 0.480\" lift) for optimized mid-to-high RPM power delivery (target: 320 HP at 6,500 RPM with 300 lb-ft torque at 4,500 RPM).",
+    "Install a bespoke fuel system upgrade including a Facet Silver Top high-flow fuel pump, Bosch 044 fuel pressure regulator, and 6x Lucas 1600cc/min fuel injectors, controlled via a standalone Motec M150 ECU with individual cylinder tuning and traction control integration for the original ZF 5-speed manual transmission (or optional David Brown 5-speed overdrive if retaining period-correct drivetrain).",
+    "Fit a custom stainless steel exhaust system by Hayward & Scott, featuring 2.5\" mandrel-bent tubing, dual 3.5\" polished tailpipes, and a bespoke X-pipe design with MagnaFlow 409 stainless mufflers, reducing backpressure by 40% while maintaining the DB5’s iconic growl (dyno-tested for +25 HP gain at 5,800 RPM). Pair with a custom-fabricated aluminum cold air intake by K&N (57-2541) with a velocity stack and heat-shielded filter housing for optimized airflow."
+  ],
+  "estetica": [
+    "Apply a full body-widebody conversion using the RML Group DB5 GT Continuation kit, featuring hand-formed aluminum overfenders (2.5\" wider front, 3\" wider rear), carbon fiber front splitter, and a functional rear diffuser with integrated brake cooling ducts. Paint in Aston Martin Racing Green (code: 1963/1965) with gold pinstriping by RS Coachworks.",
+    "Replace the original steel wheels with a set of 16\"x7\" (front) and 16\"x8\" (rear) Borrani wire wheels (chrome-plated, 72-spoke) wrapped in Pirelli P7 Corsa Classic tires (205/55 VR16 front, 225/50 VR16 rear) for period-correct aesthetics with modern grip. Pair with Wilwood 6-piston front and 4-piston rear calipers with 13\" vented rotors for improved braking performance.",
+    "Interior upgrade with a full retrim in Bridge of Weir leather (Connolly Vaumol hide) by Royal Steering Wheels, featuring a custom wood-rimmed Nardi steering wheel (14\" diameter, walnut burl inlay), Smiths gauges (3.5\" speedo, 5\" tachometer with 7,000 RPM redline), and a bespoke center console housing a modern Alpine iLX-F509 9\" touchscreen with Apple CarPlay/Android Auto, discreetly integrated into the original radio slot."
+  ]
+}

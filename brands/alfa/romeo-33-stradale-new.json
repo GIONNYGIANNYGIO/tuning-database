@@ -1,0 +1,14 @@
+{
+  "brand": "ALFA",
+  "model": "ROMEO 33 STRADALE NEW",
+  "prestazioni": [
+    "Engine: 3.0L twin-turbocharged V6 (690S engine code, derived from Ferrari F154) with a custom Motec M150 ECU reflash targeting 850+ HP via upgraded fuel system (Bosch Motorsport 2000cc/min port injectors + AEM 2200cc/min direct injectors) and Garrett GTX5533R turbochargers with billet compressor wheels and titanium-aluminide turbine housings (T3 divided inlet, 1.05 A/R)",
+    "Drivetrain: 8-speed dual-clutch transmission (ZF 8HP95X) reinforced with a Pankl Racing Systems carbon-fiber driveshaft and a Quaife ATB helical LSD (90% lock) paired with a custom 3.73:1 final drive ratio for optimized acceleration",
+    "Suspension/Chassis: Öhlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression) and spherical bearing top mounts, paired with a full carbon-fiber monocoque reinforcement kit (Weber Fibertech) and a custom front splitter with active aerodynamics (Gurney flaps controlled via Bosch Motorsport ECU)"
+  ],
+  "estetica": [
+    "Body: Full carbon-fiber widebody conversion (Novitec Torado kit) with integrated NACA ducts for brake cooling and a rear diffuser featuring 3D-printed titanium strakes (AeroFab Works) for optimized downforce",
+    "Wheels: Forged aluminum 20x10.5 (front) and 21x12.5 (rear) HRE FF16 wheels with custom Alfa Romeo Centro Stile-designed spokes, wrapped in Pirelli P Zero Trofeo R tires (265/30 R20 front, 325/25 R21 rear)",
+    "Interior: Full Alcantara-wrapped dashboard and door cards (Sabelt 6-point harnesses integrated into Recaro Pole Position seats) with a custom titanium roll cage (Sparco Pro 2000) and a digital instrument cluster (Alfa Romeo Racing-derived 12.3-inch display with Motec i2 data logging)"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "ARTEGA",
+  "model": "SCALO SUPERELLETRA",
+  "prestazioni": [
+    "Replace the stock **Volkswagen EA211 1.4 TSI (CZDA/CZEA)** turbocharged inline-4 with a **Garrett GTX3071R Gen II** turbocharger (0.63 A/R turbine housing, billet compressor wheel) paired with a **Forge Motorsport Motorsport Series intercooler** (50% larger core volume) and a **Milltek Sport 304 stainless steel turbo-back exhaust** (76mm diameter, non-resonated).",
+    "Upgrade the **Bosch MED17.5 ECU** with a **Syvecs S8Plus standalone ECU** (full CAN integration, flex-fuel compatibility, and launch control) mated to a **Motec C127 dash logger** for real-time data acquisition. Retain the stock **Volkswagen DQ200 7-speed DSG** but reflash with **GIAC Stage 3+ TCU software** (rev-matched downshifts, 100ms shift times).",
+    "Swap the OEM **Audi R8-derived double-wishbone suspension** for **Öhlins TTX40 coilovers** (3-way adjustable, 24-click rebound, 22-click compression) with **Eibach ERS Pro springs** (15% stiffer front, 20% stiffer rear) and **SuperPro polyurethane bushings** (full subframe, control arm, and anti-roll bar refresh)."
+  ],
+  "estetica": [
+    "Install a **Rocket Bunny V3 widebody kit** (carbon fiber fenders, extended rockers, and rear diffuser) with **custom 3D-printed ABS front splitter** (50mm overhang, 3-stage gurney flap) and **APR GT-250 rear wing** (carbon fiber, 1,200mm span, adjustable angle of attack).",
+    "Replace the stock **LED headlights** with **Morimoto XB LED Projector HID headlights** (5,500K color temperature, adaptive cornering) and **Lux H8 Angel Eyes** (RGBW, 16 million colors, Bluetooth control via **Lux App**).",
+    "Fit **BBS FI-R wheels** (9x20 ET35 front, 11x20 ET40 rear) wrapped in **Michelin Pilot Sport Cup 2 R tires** (245/30/20 front, 295/25/20 rear) with **HRE FlowForm FF01 center locks** and **AP Racing CP8370 calipers** (6-piston front, 4-piston rear) clamping **DBA 5000 Series rotors** (two-piece, slotted, zinc-coated)."
+  ]
+}

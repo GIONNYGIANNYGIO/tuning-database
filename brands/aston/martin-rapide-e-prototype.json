@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN RAPIDE E PROTOTYPE",
+  "prestazioni": [
+    "Replacement of the stock dual-motor electric powertrain (code: ZF-EMRAX 208) with a bespoke twin-motor setup from Integral Powertrain Ltd, featuring two SPM242 motors (each producing 400 kW peak, 250 kW continuous) paired with a 90 kWh lithium-ion battery pack from Williams Advanced Engineering, utilizing a 900V architecture for reduced weight and improved thermal management via a direct-cooling system with 3M Novec 7200 dielectric fluid",
+    "Installation of a custom torque vectoring system by GKN Automotive, integrating a twin-speed eTransmission with a planetary gearset (3.2:1 first gear, 1.8:1 second gear) and a limited-slip differential with carbon-fiber clutch packs from AP Racing, enabling independent torque distribution to each rear wheel with 0-100% split in 10ms increments",
+    "Upgraded braking system featuring 420mm carbon-ceramic rotors (Brembo CCMR-X) with monoblock 6-piston calipers at the front and 380mm rotors with 4-piston calipers at the rear, paired with Ferodo DS3.12 racing pads and a Bosch MS 9.1 ABS system recalibrated for regenerative braking optimization (up to 0.5g deceleration via regen alone)"
+  ],
+  "estetica": [
+    "Full carbon-fiber body conversion using pre-preg autoclave-cured panels from RML Group, including a bespoke front splitter with integrated active aero (adjustable 0-40mm ground clearance via hydraulic actuators) and a multi-stage rear diffuser with Gurney flaps, both developed in collaboration with TotalSim for CFD-optimized downforce (target: 200kg at 200 km/h)",
+    "Custom forged magnesium wheels (20x9.5 front, 21x12.5 rear) by Dymag, featuring a hybrid carbon-fiber rim with titanium fasteners and Michelin Pilot Sport Cup 2 R tires (265/35 ZR20 front, 325/30 ZR21 rear) mounted via a TPMS system with real-time pressure and temperature monitoring from Continental",
+    "Interior overhaul with a full Alcantara-wrapped dashboard (using Alcantara S.p.A.'s 'Suede 2.0' material) and Recaro Pole Position seats (carbon-fiber shell, 6-point Schroth harnesses), paired with a digital instrument cluster from Visteon (12.3-inch curved OLED display) and a bespoke infotainment system running QNX Neutrino RTOS with NVIDIA Xavier SoC for real-time telemetry overlay"
+  ]
+}

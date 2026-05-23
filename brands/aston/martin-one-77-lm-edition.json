@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN ONE-77 LM EDITION",
+  "prestazioni": [
+    "Engine: 7.3L AM29 V12 (engine code: AM29/7.3) – Full titanium internals upgrade with Cosworth-forged pistons (12.5:1 CR), Carrillo H-beam connecting rods, and a billet crankshaft with 95mm stroke for 7.5L displacement, paired with a custom dry-sump lubrication system by Peterson Fluid Systems (8-stage pump, 12L capacity) to eliminate oil starvation under 2.5G lateral loads.",
+    "Forced Induction: Twin-turbocharged setup using Garrett GTX5533R Gen II turbos (1.28 A/R, 88mm compressor wheels) with TiAL MV-R 60mm wastegates and TiAL Q 50mm blow-off valves, feeding a custom 4.5\" titanium intake manifold by Akrapovič with individual throttle bodies (ITBs) and a Motec M150 ECU managing direct port injection (ID1700x injectors) and sequential ignition (NGK R0045J-10 iridium plugs).",
+    "Drivetrain & Cooling: Xtrac P1227 7-speed sequential transaxle with a 3-plate carbon clutch (AP Racing CP9460) and a Quaife ATB differential (85% lock), cooled by a PWR dual-core intercooler (1200hp capacity) and a custom water-methanol injection system (AEM 3400cc/min) with a 5-gallon tank, while the engine oil is cooled via a Setrab 10-row oil cooler with dual SPAL 16\" fans."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon-fiber LM-spec aero kit by Aston Martin Racing (AMR), including a 3D-printed front splitter with active Gurney flaps (adjustable via cockpit switch), a rear diffuser with integrated strakes (tested in the Williams F1 wind tunnel for 1,200kg downforce at 200mph), and a fixed rear wing with DRS-style active elements (hydraulically actuated, reducing drag by 18% at 180mph).",
+    "Body & Lightweighting: Full carbon-fiber body panels (pre-preg autoclave, 2x2 twill weave) with a 3M 1080 vinyl wrap in \"AMR LM Silverstone\" matte finish, featuring exposed carbon-fiber weave on the hood, roof, and rear clamshell. Lightweighting includes a polycarbonate rear window (Makrolon, 4.5mm thick) and titanium bolts (ARP) for all exterior fasteners, saving 47kg vs. stock.",
+    "Interior & Styling: Full FIA-spec roll cage (T45 steel, MIG-welded by Multimatic) with integrated fire suppression system (Lifeline Zero 360, plumbed to all critical zones), Recaro Pole Position seats (carbon-Kevlar shell, 6-point Schroth harnesses), and a custom carbon-fiber dashboard with a 12.3\" Motec C127 display (logging 100+ channels) and a bespoke Alcantara-wrapped steering wheel (Sparco Pista Pro) with integrated paddle shifters (magnesium, short-throw)."
+  ]
+}

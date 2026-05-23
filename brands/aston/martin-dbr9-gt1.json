@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN DBR9 GT1",
+  "prestazioni": [
+    "Engine: 6.0L V12 (AM-11, derived from the Aston Martin V12 Vanquish) with a Prodrive-developed dry-sump lubrication system, forged internals (Mahle pistons, Carrillo connecting rods), and a bespoke Cosworth-developed engine management system (Cosworth Pectel MQ12) optimized for GT1 endurance racing with 600+ hp at 7,000 RPM and 516 lb-ft of torque at 6,500 RPM, utilizing a Prodrive-spec titanium valvetrain and custom camshafts (290° duration, 12.5mm lift) for high-RPM stability",
+    "Forced Induction: Naturally aspirated (GT1 regulations), but with a Prodrive-designed carbon fiber intake manifold featuring individual throttle bodies (ITBs) and a custom plenum optimized via CFD for maximum airflow at 7,500+ RPM, paired with a racing-spec fuel system (ATL fuel cell, Bosch Motorsport high-flow injectors, and a Magneti Marelli 12-stage fuel pump)",
+    "Drivetrain & Suspension: Prodrive 6-speed sequential transmission (Xtrac 1046) with a carbon fiber driveshaft, AP Racing 6-piston calipers (front) and 4-piston calipers (rear) with carbon-ceramic rotors (380mm front, 355mm rear), and a fully adjustable Öhlins TTX40 4-way dampers with Prodrive-spec pushrod-actuated suspension geometry, including custom billet aluminum uprights and spherical bearings for sub-2mm deflection under load"
+  ],
+  "estetica": [
+    "Aerodynamics: Full Prodrive GT1-spec carbon fiber bodywork, including a fixed rear wing (3-element, 1.2m span) with Gurney flap and integrated DRS slot, front splitter with adjustable dive planes (30mm travel), and a rear diffuser with 5 vertical strakes (optimized for 1,200kg downforce at 200mph via wind tunnel testing at MIRA)",
+    "Exterior: Lightweight carbon fiber doors (Prodrive-spec, 8.5kg each) with quick-release latches, polycarbonate side windows (0.8mm thick, 30% weight savings), and a custom livery using 3M 1080 vinyl with a matte Aston Racing Green base and high-visibility fluorescent yellow accents (applied by Sikkens Motorsport for UV resistance)",
+    "Interior: FIA 8862-2009 certified carbon fiber racing seat (Sparco Pro 2000) with 6-point Schroth harnesses, a Prodrive-developed carbon fiber steering wheel (320mm diameter, integrated Cosworth dash display), and a fire suppression system (Lifeline Zero 360, plumbed with 2kg of FE-36 agent) mounted in a custom aluminum roll cage (T45 steel, 45mm diameter, MIG-welded by RML Group)"
+  ]
+}

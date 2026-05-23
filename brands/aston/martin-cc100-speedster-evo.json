@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN CC100 SPEEDSTER EVO",
+  "prestazioni": [
+    "AM20 6.0L V12 (engine code: AM20/6.0) forced-induction conversion via Garrett GTX5544R Gen II turbocharger (1.28 A/R, 106mm compressor inducer) with custom billet compressor wheel (6+6 blade configuration) and TiAL MV-R 60mm wastegate (dual-port, 3-bar spring) for 12.5 psi peak boost, targeting 950+ hp on E85 fuel",
+    "Full titanium 4-2-1 equal-length exhaust manifold (hand-fabricated by Akrapović) with 3.5\" diameter 304 stainless steel primary tubes, paired with a custom Akrapović Evolution Line Ti exhaust system featuring dual 4.5\" carbon-fiber tips and electronically controlled butterfly valves for backpressure optimization",
+    "Bosch Motorsport MS17.8 engine management system with custom calibration by Cosworth (utilizing 12x Denso Iridium IKH22 spark plugs, 1,000cc ID2000 injectors, and a Radium Engineering dual-catch can setup with -12AN fittings for crankcase ventilation under sustained 1.5G lateral loads)"
+  ],
+  "estetica": [
+    "Full carbon-fiber widebody conversion by Liberty Walk (LB-WORKS CC100-specific kit) with extended front fenders (35mm per side), rear quarter panels (50mm per side), and a custom front splitter with integrated air curtains (3D-printed from PA12 nylon via selective laser sintering)",
+    "Custom LED headlight assembly by JW Speaker (Model 8700 Evolution J3, DOT/ECE-compliant) with adaptive cornering functionality and a carbon-fiber housing, paired with a rear light bar featuring 12x Osram Oslon Black Flat S 6000K LEDs in a sequential turn signal pattern",
+    "Bespoke interior by Sabelt (carbon-fiber bucket seats with 6-point harnesses, Alcantara-wrapped roll cage, and a digital dash cluster by Motec (C127, 7\" display) with integrated G-force logging and lap timer, replacing the stock analogue gauges"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON MARTIN",
+  "model": "LOLA DBR1-2",
+  "prestazioni": [
+    "Engine: 6.0L V12 (AM-11) with bespoke dry-sump lubrication system featuring a Peterson RC-46 8-quart oil tank and Moroso 22200 billet aluminum oil pump, paired with a custom Xtrac P1046 6-speed sequential transaxle with paddle-shift actuation and a Tilton triple-plate carbon clutch (200mm diameter, 3.5mm thickness)",
+    "Forced Induction: Twin Garrett GTX5533R Gen II turbochargers (82mm compressor, 106mm turbine) with TiAL MV-R 60mm wastegates and TiAL Q 50mm blow-off valves, feeding into a custom 4.5-inch titanium exhaust system with Akrapovič 3.5-inch carbon-fiber tailpipes and a secondary catalytic converter delete (replaced with straight-pipe bypass for track use only)",
+    "Suspension & Chassis: Full Penske 8760 3-way adjustable coilovers with remote reservoirs, custom Lola-spec billet aluminum uprights, and spherical bearing conversion for all suspension pickups (replacing OEM rubber bushings), paired with a Lola Composites carbon-fiber monocoque reinforcement kit (front splitter, rear diffuser, and side skirts) and a MoTeC C127 dash logger for real-time chassis telemetry"
+  ],
+  "estetica": [
+    "Aerodynamics: Lola Composites DBR1-2-specific carbon-fiber bodywork with a 20mm extended front splitter (featuring integrated Gurney flap), a 30% larger rear diffuser with active DRS (Drag Reduction System) via hydraulic actuation (controlled by MoTeC PDM30), and a fixed-position rear wing with 3D-printed titanium endplates (designed via CFD for 1,200 lbs of downforce at 180 mph)",
+    "Exterior Trim: Full GTSport carbon-fiber door sills, hood vents (dual NACA ducts for AM-11 V12 intercooler cooling), and a custom Lola Racing livery with 3M 1080 vinyl wrap in 'Aston Martin Racing Green' (RAL 6001) with gold leaf pinstriping (applied by HRE Wheels' in-house design team) and matte black Lola Racing decals",
+    "Wheels & Brakes: HRE FF01 18x12 (front) and 18x13 (rear) forged magnesium wheels with center-lock hubs (PCD 5x120, ET +12 front / +5 rear), wrapped in Michelin Pilot Sport Cup 2 R tires (305/645-R18 front, 325/705-R18 rear), paired with AP Racing CP9430-4 calipers (6-piston front, 4-piston rear) with 400mm carbon-ceramic rotors (CCM-R material) and Ferodo DS3.12 brake pads"
+  ]
+}

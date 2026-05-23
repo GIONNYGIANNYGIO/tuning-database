@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN AMR ONE LMP1",
+  "prestazioni": [
+    "Replace the stock Judd-BMW GV5.5 S2 2.0L V10 (engine code: GV5.5) with a bespoke Gibson Technology GL458 3.4L V8 (engine code: GL458) featuring a dry-sump lubrication system, titanium valves, and a 10,500 RPM redline, paired with a Hewland Xtrac 6-speed sequential transaxle (P1297) with paddle-shift actuation and a carbon-fiber clutch from AP Racing (CP7685-2DS)",
+    "Install a custom Bosch Motorsport MS 5.1 ECU with dual-core processing, integrated traction control (TCS), and anti-lag system (ALS) mapped specifically for the GL458’s 600+ hp output, alongside a Pectel SQ6M data logger for real-time telemetry monitoring via Cosworth Pi Toolbox",
+    "Upgrade the aerodynamics with a full carbon-fiber body kit from Multimatic (LMP1-spec AMR One revision), including a front splitter with adjustable dive planes, a rear diffuser with Gurney flaps, and a closed-cockpit design featuring a polycarbonate windscreen from SABIC Lexan, reducing drag by 8% while increasing downforce to 3,200 lbs at 180 mph"
+  ],
+  "estetica": [
+    "Apply a custom livery using 3M 1080 Series vinyl in Aston Martin Racing’s signature ‘AMR Silver’ (Pantone 877 C) with matte black accents, including a carbon-fiber weave overlay on the rear wing and side pods, finished with a high-gloss clear coat from Spies Hecker (Permahyd Hi-TEC 480)",
+    "Replace the OEM headlights with LED projector units from Hella (LMP1-spec 90mm Bi-Xenon projectors, part #8ES 007 790-001) and integrate a rear light bar from Osram (Night Breaker Laser, 400% brighter) with sequential turn signals controlled via a Motec C125 dash display",
+    "Install a custom carbon-fiber steering wheel from Sparco (LMP1-spec ‘Pro2’ model, part #019126A1) with Alcantara grip, integrated Motec shift lights, and a quick-release hub from OMP (part #RSQ001), paired with a full FIA 8862-2018 certified carbon-fiber racing seat from Recaro (Pole Position II, part #385.20.01) upholstered in Alcantera with Aston Martin Racing embroidery"
+  ]
+}

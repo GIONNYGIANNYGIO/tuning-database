@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN DBR9",
+  "prestazioni": [
+    "Engine: 6.0L V12 (code: AM-01) with Pro Alloy Motorsport billet crankshaft (88mm stroke) and forged Mahle pistons (12.5:1 compression), paired with a custom dry-sump lubrication system featuring a Peterson 48200 pump and 12-quart Accusump reservoir for sustained 8,500 RPM endurance racing.",
+    "Forced Induction: Twin Precision Turbo PT6266 CEA turbos (62mm inducer, 66mm exducer) with TiAL MV-R 44mm wastegates and custom 4.5\" stainless steel exhaust manifolds by Janspeed, feeding into a 4.5\" titanium exhaust system with Akrapovič racing mufflers (1,200 HP target at 2.2 bar boost).",
+    "Drivetrain: Xtrac P1046 6-speed sequential gearbox with carbon-fiber clutch by Sachs Racing (triple-plate, 240mm diameter) and a Quaife ATB helical LSD (85% lock), mated to a carbon-fiber propshaft by GKN Driveline and a 3.73:1 final drive ratio from Hewland."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon-fiber body kit by RML Group, including a 3D-scanned front splitter with Gurney flap (20mm adjustable), rear diffuser with 5 vertical strakes (15% downforce increase), and a fixed rear wing (NACA 63A012 airfoil) with 1,200mm span and 300mm chord, all validated in MIRA wind tunnel.",
+    "Wheels/Tires: OZ Racing Superleggera GT wheels (18x12 front, 18x13 rear) with center-lock hubs by BBS, wrapped in Michelin Pilot Sport Cup 2 tires (30/68-18 front, 31/71-18 rear) and secured with titanium wheel nuts by HRE Performance.",
+    "Interior: Full FIA-spec roll cage by Safety Devices (8-point, T45 steel) with carbon-fiber door cards by Sparco, Recaro Pole Position seats (carbon-Kevlar shell, 6-point harnesses by Schroth), and a custom Motec C127 dash with integrated Bosch MS4.0 ECU telemetry."
+  ]
+}
