@@ -1,0 +1,14 @@
+{
+  "brand": "ASPARK",
+  "model": "OWL CARBON EDITION",
+  "prestazioni": [
+    "Upgrade to a custom-built axial flux electric motor system (ASPARK proprietary 'AF-300' dual-motor setup) with a bespoke silicon carbide MOSFET inverter by Cascadia Motion (CM200DZ-24S), increasing peak power from 1,984 hp to 2,400 hp and torque from 2,000 Nm to 2,300 Nm, while reducing inverter switching losses by 40% via liquid-cooled 900V architecture",
+    "Installation of a full carbon-fiber monocoque reinforcement kit by Toray Advanced Composites (T800/3900-2 prepreg) with integrated aluminum honeycomb crash structures, reducing chassis flex by 22% and lowering unsprung mass by 18 kg, paired with a custom 6-point FIA-spec roll cage by Sabelt (model 'Hyperlight 800') for track homologation",
+    "Replacement of the stock single-speed transmission with a 3-speed sequential gearbox by Hewland (LST-101, modified for EV use) featuring a carbon-fiber-reinforced PEEK gearset, dry sump lubrication, and a pneumatically actuated paddle-shift system by Megaline (ML-8000), reducing 0-60 mph times by 0.2s and enabling a top speed of 260 mph (418 km/h) in third gear"
+  ],
+  "estetica": [
+    "Full bodywide conversion using a custom Rocket Bunny (Pandem) 'OWL-SPEC' aero kit, featuring 3D-printed carbon-fiber overfenders (120mm wider front, 140mm wider rear) with integrated NACA ducts for motor cooling, paired with a custom front splitter and rear diffuser by Vorsteiner (carbon-fiber, 5-stage Gurney flaps) for -180 kg of downforce at 150 mph",
+    "Replacement of the stock LED headlights with a custom laser-lighting system by Osram (LaserLine 450nm, 500m range) integrated into a carbon-fiber housing with active aerodynamic shutters by KW Automotive, reducing drag coefficient by 0.03 while improving nighttime visibility by 300%",
+    "Installation of a bespoke interior by Recaro (Pole Position Carbon Kevlar seats, 4-point harnesses by Schroth (Professional 2 ASM)) with a full Alcantara-wrapped dashboard (Alcantara 'Suede 2.0', fire-retardant) and a custom 12.3-inch curved OLED display by BOE (8K resolution, 120Hz refresh rate) running a proprietary ASPARK UI with real-time telemetry overlay"
+  ]
+}

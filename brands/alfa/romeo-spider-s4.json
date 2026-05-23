@@ -1,0 +1,14 @@
+{
+  "brand": "ALFA",
+  "model": "ROMEO SPIDER S4",
+  "prestazioni": [
+    "Engine: 2.0L Twin Spark (AR32301) with forged internals including JE 87mm forged pistons (11.5:1 CR), Cunningham conrods, and ARP head studs for 300+ hp reliability on E85. Pair with a Garrett GT2860RS turbo (0.63 A/R, 62 trim) and custom 3-inch stainless downpipe by Ragazzon Racing for optimized spool and top-end flow.",
+    "Fuel System: Full return-style setup with Bosch 044 high-flow pump, Injector Dynamics ID1000 injectors (side-feed, Alfa-specific), and a custom fuel rail by Autotecnica Motori. ECU reflash via AlfaEcuFlash (v3.0) with custom maps for sequential turbo timing and knock control on the Bosch Motronic 1.7.",
+    "Suspension: Ohlins Road & Track coilovers (DFV damping, 20mm adjustable ride height) with custom spring rates (6kg/mm front, 7kg/mm rear) and spherical bearing top mounts by SuperPro. Pair with Whiteline adjustable sway bars (24mm front, 22mm rear) and poly bushings for chassis rigidity."
+  ],
+  "estetica": [
+    "Body: Zagato-inspired carbon fiber hardtop with integrated rear spoiler (by Novitec) and custom front splitter (3D-printed ABS, 30mm overhang) for aero balance. Full respray in Alfa Rosso Competizione with matte black accents on the grille and mirror caps.",
+    "Wheels: OZ Racing Ultraleggera HLT 17x8 ET35 (front) and 17x9 ET38 (rear) with 225/45/17 and 255/40/17 Michelin Pilot Sport Cup 2 tires. Custom wheel spacers (15mm front, 20mm rear) by H&R for aggressive stance.",
+    "Interior: Recaro Pole Position seats (Alfa-specific mounting brackets) with Schroth 4-point harnesses. Custom MOMO Mod.78 steering wheel (350mm, suede) with quick-release hub. Full Alcantara headliner and door cards by Sabelt, with carbon fiber shift knob and handbrake lever by Autotecnica."
+  ]
+}

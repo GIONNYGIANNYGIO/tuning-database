@@ -1,0 +1,14 @@
+{
+  "brand": "ACURA",
+  "model": "MDX TYPE S",
+  "prestazioni": [
+    "Engine: J37Y5 (3.7L V6, 24-valve SOHC i-VTEC) forced-induction conversion using a Garrett GTX3582R turbocharger (0.82 A/R, 62mm compressor inducer) paired with a PRL Motorsports J37 short-runner intake manifold and 76mm throttle body for optimized airflow at 12-15 psi boost levels, supported by a custom AEM Infinity 8 standalone ECU with flex-fuel capability and ethanol content sensor for E85 tuning.",
+    "Drivetrain: Strengthened transmission via a Level 10 Motorsports J37A7 6-speed automatic transmission rebuild kit (billet torque converter, upgraded clutch packs, and reinforced valve body) mated to a Quaife ATB helical LSD for the SH-AWD rear differential, with a custom driveshaft from Driveshaft Shop (3.5\" aluminum, 1350 series U-joints) to handle increased torque (target: 500+ lb-ft).",
+    "Suspension/Handling: Full Ohlins Road & Track DFV coilover kit (2-way adjustable dampers, 80mm stroke, custom valving for the MDX Type S chassis) with poly bushings from Energy Suspension (front control arms, subframe, and sway bar mounts), paired with Brembo GT 6-piston 405mm front/4-piston 380mm rear brake kit (two-piece rotors, Type-4 pads) and Michelin Pilot Sport Cup 2 R tires (275/35R21 front, 295/30R21 rear) on Volk Racing TE37V wheels (21x9.5 +22 front, 21x10.5 +30 rear)."
+  ],
+  "estetica": [
+    "Aero: Liberty Walk LB Works widebody conversion kit (carbon fiber fenders, front/rear bumpers, and side skirts) with a custom 3D-printed front splitter (50mm overhang, 3-stage canards) and a Seibon carbon fiber GT-style rear wing (1,200mm span, 200mm chord, adjustable angle) for 150+ kg of downforce at 160 km/h.",
+    "Exterior: Full 3M Matte Military Green wrap with gloss black accents (roof, mirror caps, and lower rocker panels) paired with custom LED headlight retrofits (Morimoto XB35 HID projectors, RGB halo rings) and a custom titanium exhaust system from Agency Power (4.5\" dual outlets, quad tips, resonated mid-pipes for J37Y5 sound tuning).",
+    "Interior: Full Recaro SPG XL bucket seats (fixed-back, FIA-approved, carbon fiber shells) with custom 6-point harnesses from Schroth Profi II, paired with a MOMO Mod.78 steering wheel (350mm, suede, quick-release hub) and a custom roll cage from The Performance Welding (8-point, chromoly, bolt-in design with harness bar)."
+  ]
+}

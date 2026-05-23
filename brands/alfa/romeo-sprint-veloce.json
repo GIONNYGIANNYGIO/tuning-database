@@ -1,0 +1,14 @@
+{
+  "brand": "ALFA",
+  "model": "ROMEO SPRINT VELOCE",
+  "prestazioni": [
+    "Engine swap to a **1.8L Twin Spark (AR33502) from the Alfa Romeo 155 Q4**, retaining the original 16V DOHC head but ported and polished with **3-angle valve seats by Supertech Performance** (intake: 34mm, exhaust: 29mm) and **Ferrea F5000 competition valves** (titanium retainers, Inconel exhaust valves). Compression ratio increased to 12.5:1 via **JE Pistons 87mm forged slugs** with **Manley H-beam connecting rods** and **ACL Race Series bearings**.",
+    "Forced induction via **Rotrex C38-91 supercharger** (12psi max boost) with **custom 3D-printed intake manifold** (CFD-optimized for even flow distribution) and **AEM 400x standalone ECU** running **Alpha-N fueling strategy** with **ID1000x injectors** and **Walbro 450LPH fuel pump**. Intercooler: **PWR 4.5\" core front-mount** with **custom aluminum piping** and **Tial MV-R 50mm blow-off valve**.",
+    "Drivetrain upgrades: **Quaife ATB differential** (80% lock) in a **custom 8.5\" bellhousing** (adapted from a Lancia Delta Integrale) with **Spec Stage 3+ clutch** and **aluminum flywheel**. Suspension: **Ohlins Road & Track coilovers** (custom valving for 1970s Alfa chassis geometry) with **polyurethane bushings by SuperPro** (front: SPF1001K, rear: SPF1002K) and **Whiteline adjustable sway bars** (24mm front, 22mm rear). Brakes: **Brembo GT 6-piston calipers** (355mm rotors) with **Ferodo DS2500 pads** and **Goodridge braided stainless steel lines**."
+  ],
+  "estetica": [
+    "Bodywork: **Zender Turbo II widebody kit** (1980s Group B-inspired, fiberglass with carbon fiber reinforcements) paired with **custom aluminum front splitter** (hand-beaten, 3mm thick) and **rear diffuser by APR Performance** (carbon fiber, 3-piece design with integrated brake ducts). Paint: **PPG Vibrance Collection \"Rosso Competizione\"** (custom pearl flake) with **matte black vinyl wrap** (3M 2080) on the roof, mirrors, and rear quarter panels.",
+    "Wheels: **OZ Racing Ultraleggera HLT** (15x8 +20 front, 15x9 +25 rear) with **Pirelli P Zero Trofeo R tires** (195/45/15 front, 225/40/15 rear). Center-lock conversion via **BBS Motorsport hubs** (adapted to Alfa rear axle) with **titanium wheel bolts by ARP**.",
+    "Interior: **Recaro SRD Evo II seats** (carbon fiber backs, Alcantara inserts) with **Schroth 6-point harnesses** and **custom roll cage** (TIG-welded 4130 chromoly, 6-point with integrated harness bars). Steering wheel: **Momo Prototipo** (350mm, suede) with **NRG quick-release hub**. Gauges: **Motec C127 dash** (digital/analog hybrid) with **AEM wideband O2 sensor** and **Defi Advance BF series** (oil temp, oil pressure, boost)."
+  ]
+}

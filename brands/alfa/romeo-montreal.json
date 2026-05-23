@@ -1,0 +1,14 @@
+{
+  "brand": "ALFA",
+  "model": "ROMEO MONTREAL",
+  "prestazioni": [
+    "Engine: Replace the stock 2.6L *Tipo 00560* V8 (9.0:1 CR, 200 HP) with a fully forged *Tipo 00560* stroker kit (3.0L, 10.5:1 CR) using Mahle Motorsport forged pistons (83.5mm bore), Carrillo H-beam connecting rods, and a billet crankshaft from JE Pistons. Pair with a custom Schrick 284° camshaft grind (0.480\" lift) and titanium retainers from Supertech Performance.",
+    "Forced Induction: Install a Rotrex C38-91 centrifugal supercharger (12 psi peak) with a custom air-to-water intercooler (PWR Racing) and a custom intake manifold (fabricated by Alfaholics) to accommodate the supercharger’s unique flow characteristics. Use a custom ECU tune via a MoTeC M150 standalone system with individual cylinder fuel trims and knock control.",
+    "Drivetrain: Replace the stock ZF 5-speed with a Quaife ATB differential (80% lock) and a Tilton twin-disc clutch (7.25\" diameter) with a billet flywheel. Upgrade the half-shafts to custom CV joints from GKN Driveline with reinforced boots and a 30% torque capacity increase."
+  ],
+  "estetica": [
+    "Body: Install a full carbon fiber widebody kit from Zender (originally designed for the Montreal but discontinued; sourced from a private collector) with integrated front splitter and rear diffuser. Replace the stock bumpers with lightweight polyurethane replicas from Autocult (Germany) for a 1970s Group 4 rally aesthetic.",
+    "Wheels: Fit 16x9\" and 16x11\" OZ Racing Superleggera GT wheels (originally used on the Lancia Stratos) with custom offsets (+15mm front, +25mm rear) and Nankang AR-1 semi-slick tires (225/50R16 front, 265/45R16 rear). Use custom center-lock adapters from BBS Motorsport for quick swaps.",
+    "Interior: Replace the stock seats with Recaro SRD-E full carbon fiber shells (originally designed for the Montreal’s narrow cabin) and Schroth 6-point harnesses. Install a custom roll cage from Safety Devices (UK) with integrated fire suppression system (Lifeline Zero 360) and a Momo Prototipo steering wheel with quick-release hub."
+  ]
+}

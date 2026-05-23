@@ -1,0 +1,14 @@
+{
+  "brand": "ARIEL",
+  "model": "ATOM 4",
+  "prestazioni": [
+    "Honda K20C1 (2.0L turbocharged inline-4) forced-induction upgrade via Garrett GTX3582R turbocharger with billet compressor wheel, 0.82 A/R turbine housing, and TiAL MV-R 44mm external wastegate, paired with a custom 3.5-inch stainless steel downpipe and Vibrant 1799 high-flow catalytic converter for optimized spool and 450+ WHP potential on E85",
+    "Ohlins TTX25 MkII coilover suspension with 2-way adjustable damping, 400lb/in front springs, 350lb/in rear springs, and spherical bearing top mounts for sub-2.5Hz natural frequency tuning, complemented by Polybush ARB-specific polyurethane bushings and a 25mm front anti-roll bar upgrade",
+    "Motec M150 ECU with custom CAN bus integration for the K20C1’s direct injection and port injection (via Injector Dynamics ID1050x secondary injectors), featuring launch control, flat-foot shifting, and a 12,000 RPM rev limiter, paired with a Pectel PDM16 power distribution module for precise fuel pump and cooling fan control"
+  ],
+  "estetica": [
+    "Ariel-specific carbon fiber widebody kit by Dymag, featuring 3-piece modular side skirts, extended front splitter with integrated dive planes, and a rear diffuser with Gurney flap, all finished in 2x2 twill weave with matte clear coat for sub-5kg weight reduction",
+    "Custom LED headlight conversion by JW Speaker (Model 8700 Evolution J3) with adaptive cornering beams, integrated DRLs, and a carbon fiber housing to replace the stock HID projectors, paired with a Lazer Triple-R 1000 rear light bar for 360-degree visibility",
+    "Dymag AV Series carbon fiber wheels (17x9 +25 front, 17x11 +30 rear) with titanium hardware, wrapped in Michelin Pilot Sport Cup 2 R tires (245/35 R17 front, 305/30 R17 rear) and secured via ARP 625+ wheel studs for 1,200kg track-ready grip"
+  ]
+}

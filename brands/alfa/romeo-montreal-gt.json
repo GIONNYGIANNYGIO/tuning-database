@@ -1,0 +1,14 @@
+{
+  "brand": "ALFA",
+  "model": "ROMEO MONTREAL GT",
+  "prestazioni": [
+    "Engine: Replace the stock 2.6L V8 (Tipo 00560, 9.0:1 CR) with a fully forged internals build featuring Mahle Motorsport 9.5:1 forged pistons (Part #MAH-40325.001), Carrillo H-beam connecting rods (Part #CR-54000-1), and a billet crankshaft from JE Pistons (Part #JE-361900). Pair with a custom camshaft grind from Schrick (284° intake/280° exhaust, 11.5mm lift) for high-RPM power delivery (8,000+ RPM redline).",
+    "Forced Induction: Install a custom-built turbo system using a Garrett GT3582R (Part #743347-5003S) with a Tial MV-R 44mm external wastegate (Part #MVR44) and a custom 3.5\" stainless steel exhaust manifold from Tubistyle (Montreal-specific, equal-length design). Use a custom intercooler setup with a PWR 4.5\" core (Part #IC-1004) and silicone couplers from Vibrant Performance (Part #16700).",
+    "Fuel & Ignition: Convert to a full sequential fuel injection system using Bosch Motorsport 0280158861 injectors (1,000cc/min) and a Link G4+ Xtreme ECU (Part #LINK-100001). Add a custom ignition system with MSD 8516 coils (Part #8516) and NGK R7437-9 racing plugs (Part #5018). Use a Radium Engineering fuel surge tank (Part #20-0111) and dual Walbro 450 LPH pumps (Part #F90000267) for consistent fuel delivery under lateral G-forces."
+  ],
+  "estetica": [
+    "Body Kit: Install a custom Montreal-specific widebody kit from Liberty Walk (LB-WORKS Montreal Edition, Part #LB-ALFA-MONTREAL), featuring carbon fiber fenders, front splitter, and rear diffuser. Use custom 3D-printed aluminum wheel arches from 9 Lives Racing (Part #9L-ALFA-MONTREAL-ARCH) for aggressive stance.",
+    "Wheels & Tires: Fit custom 18x10.5\" ET15 front and 18x12\" ET5 rear wheels from BBS (LM-R II, Part #LM2-18105315F / LM2-1812505R) with Michelin Pilot Sport Cup 2 R tires (275/35/18 front, 315/30/18 rear). Use custom wheel spacers from H&R (Part #54658015) for perfect fitment.",
+    "Interior & Aero: Replace the stock interior with a full Alcantara retrim from Sabelt (Part #SAB-ALFA-MONTREAL-KIT), including custom bucket seats (Sparco Pro 2000, Part #00879NR) and a custom roll cage from Custom Cages (Part #CC-ALFA-MONTREAL). Add a carbon fiber rear wing from APR Performance (GT-250, Part #CF-2501) with custom mounting brackets for the Montreal's unique rear deck."
+  ]
+}

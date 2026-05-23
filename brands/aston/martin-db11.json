@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN DB11",
+  "prestazioni": [
+    "AE214E (5.2L twin-turbo V12) engine: Full titanium internals upgrade with forged Mahle Motorsport pistons (9.0:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from Manley Performance, paired with a custom dry-sump oiling system by Dailey Engineering to handle 1,200+ HP under sustained boost",
+    "Turbocharger system: Twin Garrett GTX5533R Gen II turbos with 76mm billet compressor wheels, custom 3D-printed Inconel turbine housings (designed by TurboSmart for the AE214E), and TiAL Sport MV-R 60mm wastegates with V-band clamps, feeding into a custom 4.5\" titanium intercooler core by PWR with billet end tanks",
+    "Fuel and ignition: Full Motec M150 ECU with custom CAN bus integration for the DB11’s ZF 8HP90 transmission, paired with a dual-pump fuel system (AEM 400LPH in-tank pump + external Bosch Motorsport 044 pump), ID1700x injectors, and a custom 2,000cc/min port injection setup with Injector Dynamics 2600x injectors, ignited by MSD 8518 coils and NGK R847-10 spark plugs gapped at 0.024\""
+  ],
+  "estetica": [
+    "Full carbon fiber widebody conversion by Prior Design (PD-GT11 kit), featuring extended front fenders with integrated carbon fiber canards, a custom 3D-printed rear diffuser with active Gurney flaps (controlled via the Motec ECU), and a one-off carbon fiber rear wing with adjustable angle of attack (0-15 degrees) via electric actuators",
+    "Custom front splitter with integrated air curtains and a 3D-printed titanium undertray (designed in collaboration with Williams Advanced Engineering) to reduce lift by 40% at 180 mph, paired with a bespoke carbon fiber hood featuring a central NACA duct feeding the intercooler core",
+    "Interior: Full Alcantara and carbon fiber retrim by Sabelt, featuring a custom roll cage (T45 steel, 3.2mm wall thickness) with integrated fire suppression system (Life Racing FSM-10), Sparco Pro 2000 seats with 6-point Schroth harnesses, and a custom digital dash (Motec C127) replacing the stock cluster, with real-time boost, AFR, and oil pressure readouts"
+  ]
+}

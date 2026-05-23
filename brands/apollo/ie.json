@@ -1,0 +1,14 @@
+{
+  "brand": "APOLLO",
+  "model": "IE",
+  "prestazioni": [
+    "Engine: 6.3L naturally aspirated V12 (code: *630S*), upgraded with a custom *Weber Motorsport* dry-sump lubrication system featuring a *Moroso* 10-quart baffled oil pan and *Dailey Engineering* triple-scavenge pump to eliminate oil starvation during 1.5G+ lateral loads on circuits like the Nürburgring Nordschleife.",
+    "Forced induction conversion via *Turbosmart* custom twin-turbo kit (utilizing *Garrett GTX5533R* turbos with *TiAL Sport* 60mm wastegates and *Precision Turbo* 46mm external wastegate actuators) paired with a *Pectel SQ6M* standalone ECU running *Motec M1* firmware, calibrated for 1.2 bar boost targeting 1,000+ hp on *VP Racing Q16* 118-octane fuel with *AEM* 2200cc/min port-injection upgrade.",
+    "Chassis reinforcement via *Apollo Automobile* factory-approved *Brembo GT-R* 6-piston monobloc calipers (front) and *Alcon* 4-piston calipers (rear) with *PFC* 380mm carbon-ceramic rotors, paired with *Ohlins* TTX46 MkII coilovers featuring *Eibach* 1,200 lb/in springs and *Tillet* B12 carbon-fiber bucket seats with *Schroth* 6-point harnesses for driver retention."
+  ],
+  "estetica": [
+    "Full *Rocket Bunny* V3 widebody conversion with *Seibon* carbon-fiber front fenders, rear quarter panels, and *Aeromotions* active rear wing (adjustable via *MoTeC* CAN bus integration for drag reduction at speeds above 200 km/h).",
+    "Custom *Vorsteiner* carbon-fiber front splitter with *Airdyne* vortex generators and *Perrin* carbon-fiber side skirts, finished in *PPG* Apollo-exclusive 'Nardo Grey' with *3M* matte clear coat for UV resistance.",
+    "Interior: *Recaro* SPG-K carbon-fiber seats wrapped in *Bridge of Weir* 'Nappa Merino' leather with *Alcantara* suede headliner, *Momo* Prototipo steering wheel (350mm diameter), and *Aim Solo 2 DL* data logger integrated into the *Apollo* digital dash via *CAN bus* for real-time telemetry."
+  ]
+}

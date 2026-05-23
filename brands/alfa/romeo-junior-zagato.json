@@ -1,0 +1,14 @@
+{
+  "brand": "ALFA",
+  "model": "ROMEO JUNIOR ZAGATO",
+  "prestazioni": [
+    "Engine: 1.3L Twin Spark (AR33000) with a custom-built Garrett GT2860RS turbo kit, featuring a 0.63 A/R turbine housing and 58mm compressor wheel, paired with a custom 3.5-inch stainless steel intercooler piping system from Armytrix for optimized airflow and reduced lag. Boost target set to 1.2 bar (17.4 psi) via a standalone ECU (Link G4+ Xtreme) with custom fuel maps for 98 RON fuel, supporting a target of 220 HP at the wheels with a 7,800 RPM redline.",
+    "Suspension: Ohlins Road & Track DFV coilovers (part #DFV-ALF-01) with 8-position adjustable compression and rebound damping, paired with custom 22mm front and 20mm rear anti-roll bars from H&R (part #H&R-ALFA-JZ-01) to reduce body roll. Geometry adjusted to -2.5 degrees camber front and -1.8 degrees rear for aggressive cornering, with poly bushings from SuperPro (part #SPF1000K) replacing all OEM rubber mounts.",
+    "Exhaust: Full 3-inch titanium exhaust system from Capristo (part #CAP-ALFA-JZ-300), featuring a 4-2-1 equal-length header with 1.5mm wall thickness, paired with a custom 200-cell catalytic converter from Milltek Sport (part #MLK-ALFA-JZ-CAT) for emissions compliance. The system terminates in a dual-mode Valvetronic muffler from Akrapovic (part #AKR-ALFA-JZ-TI) for adjustable sound levels."
+  ],
+  "estetica": [
+    "Body Kit: Custom Zagato-inspired widebody conversion by Novitec (part #NOV-ALFA-JZ-WB), extending fenders by 30mm front and 40mm rear to accommodate 18x9.5 ET25 (front) and 18x10.5 ET22 (rear) forged wheels from BBS (part #BBS-RI-D-ALFA-JZ). The kit includes carbon fiber front splitter, side skirts, and rear diffuser from Rocket Bunny (part #RB-ALFA-JZ-01), all painted in Alfa Rosso Competizione with matte black accents.",
+    "Interior: Full Alcantara retrim by Recaro (part #REC-ALFA-JZ-SR7) for the seats, door cards, and dashboard, featuring red contrast stitching and carbon fiber inserts. A custom roll cage from Custom Cages (part #CC-ALFA-JZ-01) is bolted in for chassis rigidity, with a MOMO Prototipo steering wheel (part #MOMO-ALFA-JZ-350) and a digital dash from AIM MXS Strada (part #AIM-ALFA-JZ-01) replacing the OEM cluster.",
+    "Aerodynamics: Custom carbon fiber rear wing from APR Performance (part #APR-ALFA-JZ-GTC-300), adjustable for 3 degrees of angle, paired with a front canard kit from Seibon Carbon (part #SEI-ALFA-JZ-CANARD). The underbody features a full carbon fiber diffuser from Varis (part #VAR-ALFA-JZ-DIFF) and a front splitter with integrated air curtains for improved downforce at high speeds."
+  ]
+}

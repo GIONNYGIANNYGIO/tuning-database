@@ -1,0 +1,14 @@
+{
+  "brand": "ASPARK",
+  "model": "OWL SP600 PROTOTYPE",
+  "prestazioni": [
+    "Upgrade to a custom-built axial flux electric motor (ASPARK proprietary code: AF-360X) with silicon carbide (SiC) MOSFET inverters from Cascadia Motion PM150DX, pushing peak power from 483 kW to 600 kW (805 hp) and torque from 2,000 Nm to 2,400 Nm, while reducing inverter losses by 30% via liquid-cooled 800V architecture",
+    "Installation of a bespoke 98 kWh lithium-ion battery pack (ASPARK code: BAT-OWL98) with 350 kW DC fast-charging capability, utilizing LG Chem NMC 811 cells in a 18650 format, paired with a custom thermal management system featuring dual-phase immersion cooling (3M Novec 7100 dielectric fluid) and a secondary glycol loop for track use",
+    "Chassis reinforcement via a full carbon-fiber monocoque upgrade (ASPARK code: CF-OWL2.0) with Toray T1100G prepreg, including integrated roll cage (T45 steel, 2.5mm wall thickness) and a bespoke front crash structure with aluminum honeycomb (Hexcel HexWeb CR III) for 30% improved energy absorption, reducing weight by 45 kg while increasing torsional rigidity by 22%"
+  ],
+  "estetica": [
+    "Custom aerodynamic package (ASPARK Aero-OWL) featuring a 3D-printed titanium front splitter with active Gurney flaps (adjustable via electric actuators, controlled by Bosch MS2.8 ECU), a rear diffuser with integrated vortex generators (inspired by Le Mans prototypes), and a rear wing with dual-element active aerodynamics (Ohlins TTX40 dampers for wing angle adjustment, synchronized with brake regeneration)",
+    "Full carbon-fiber bodywork replacement (ASPARK code: BODY-OWL-CF) using autoclave-cured prepreg (Toray T800H) with a matte clear coat infused with graphene for UV resistance, including a one-piece clamshell hood with integrated NACA ducts for battery cooling and side skirts with embedded LED lighting (Osram Oslon Black Flat, 4000K color temperature) for functional ground effects visualization",
+    "Interior overhaul with a bespoke 3D-printed titanium steering wheel (ASPARK code: SW-OWL-TI) featuring a 12.3-inch curved OLED display (Samsung AMOLED, 120Hz refresh rate), Alcantara-wrapped carbon-fiber seats (Sparco QRT-R, 30% lighter than stock) with 6-point harnesses (Schroth Profi II EVO), and a custom sound system (Bowers & Wilkins Diamond Series, 12-speaker array) with active noise cancellation for cabin refinement"
+  ]
+}

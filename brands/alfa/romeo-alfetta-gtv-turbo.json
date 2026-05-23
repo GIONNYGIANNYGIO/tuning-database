@@ -1,0 +1,14 @@
+{
+  "brand": "ALFA",
+  "model": "ROMEO ALFETTA GTV TURBO",
+  "prestazioni": [
+    "Engine: Replace the stock 2.5L 828.A2.000 (1585cc turbocharged inline-4) with a fully forged internals build featuring Mahle Motorsport forged pistons (8.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from JE Pistons. Pair with a custom camshaft grind from Schrick (272° duration, 11.5mm lift) for optimized turbo spool and high-RPM power delivery.",
+    "Forced Induction: Swap the stock IHI RHB5 turbo for a Garrett GT2860RS-5 (56 trim, .64 A/R turbine housing) with a custom 3-inch stainless steel downpipe and a Tial 44mm external wastegate (MV-R model) to handle boost levels up to 1.5 bar. Integrate a custom air-to-water intercooler from Bell Intercoolers (Alfetta-specific core dimensions: 24\" x 6\" x 3.5\") with a Davies Craig EWP150 electric water pump for consistent intake temps.",
+    "Fuel & Ignition: Convert to a full sequential fuel injection system using Bosch Motorsport 0280158022 injectors (800cc/min) paired with a Link G4+ Xtreme standalone ECU. Upgrade the ignition system with a set of NGK R7437-9 racing spark plugs and a custom MSD Digital 6AL ignition box with a Blaster SS coil. Fabricate a custom fuel rail and integrate a Walbro 450 LPH in-tank fuel pump with a Radium Engineering surge tank to prevent fuel starvation during high-G cornering."
+  ],
+  "estetica": [
+    "Bodywork: Install a full carbon fiber widebody kit from Alfaholics, including extended front fenders (2.5\" wider per side), a custom rear quarter panel flares (3\" wider), and a bespoke front splitter with integrated canards (3D-printed from PETG for weight savings). Replace the stock hood with a carbon fiber unit from Seibon featuring a central NACA duct for intercooler airflow.",
+    "Aerodynamics: Fit a custom rear diffuser from APR Performance (Alfetta-specific design, 3-piece carbon fiber) and a GT3-style rear wing from Voltex (Type 3, 1700mm width, adjustable angle of attack up to 18°). Add a set of custom side skirts from Rocket Bunny (modified to fit the Alfetta’s unique rocker panel profile) and a front lip spoiler from Varis (carbon fiber, 3-piece design with removable splitter extensions).",
+    "Interior & Styling: Replace the stock dashboard with a custom Alcantara-wrapped unit from Sabelt featuring a 12.3\" digital dash (Aim MXS Strada) and a MOMO Prototipo steering wheel (350mm diameter, suede-wrapped). Install a full roll cage from Custom Cages (FIA-spec, 8-point, T45 steel) with integrated harness bars for Schroth Profi II 6-point harnesses. Replace the rear seats with a carbon fiber storage panel from Recaro (for fire extinguisher and battery relocation) and add a set of Sparco Pro ADV racing seats (carbon fiber shell, 18kg each) with custom mounting brackets for the Alfetta’s floorpan."
+  ]
+}

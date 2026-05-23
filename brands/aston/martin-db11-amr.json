@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN DB11 AMR",
+  "prestazioni": [
+    "AE201 5.2L V12 (AE31) twin-turbo engine: Full bolt-on turbo upgrade with Garrett GTX5533R Gen II turbos (1.35 A/R, 76mm inducer, 106mm exducer) paired with custom 4-inch titanium downpipes (fabricated by Armytrix) and a bespoke Tial MV-R 60mm external wastegate setup for 18 psi peak boost, targeting 950+ WHP on E85 with a Motec M150 ECU reflash (Stage 3+ calibration by Dyno Dynamics UK).",
+    "Dry sump lubrication system conversion using a Peterson Fluid Systems 8-stage pump (P/N 400-008) with a custom 12-quart billet aluminum oil tank (fabricated by Radium Engineering) and a Setrab 10-row oil cooler (P/N 54010-10) with AN-12 lines routed through a custom front bumper duct (designed by Aston Martin Works).",
+    "Full drivetrain reinforcement: Quaife ATB differential (P/N QDF15V) with 4.00 final drive ratio, upgraded half-shafts from GKN Driveline (P/N AM-DB11-AMR-HS) with CV joints rated for 1,200 Nm, and a Tilton triple-plate carbon clutch (P/N 600-1000) with a billet flywheel (P/N 600-2000) for launch control optimization (0-60 mph in 2.8s)."
+  ],
+  "estetica": [
+    "Full carbon fiber widebody conversion using the Liberty Walk LB-WORKS DB11 kit (P/N LB-AMDB11WB) with custom extended front fenders (30mm wider per side) and rear quarter panels (50mm wider per side), paired with a custom 3D-printed front splitter (carbon fiber, designed by Fabspeed Motorsports) featuring integrated canards and a 40mm adjustable dive plane.",
+    "Custom forged aluminum wheels: HRE P107SC (20x10.5 +35 front, 21x12.5 +40 rear) in a matte bronze finish with titanium hardware, wrapped in Michelin Pilot Sport Cup 2 R tires (275/30/20 front, 325/25/21 rear) and paired with AP Racing CP9660-1000 6-piston front calipers (with custom titanium pistons) and CP9660-2000 4-piston rear calipers, all running on Motul RBF 660 brake fluid.",
+    "Aerodynamic package: Custom rear diffuser by Vorsteiner (P/N V-STEINER-DB11-AMR-DIFF) with integrated titanium exhaust tips (Armytrix Valvetronic, P/N AM-DB11-AMR-TI), a carbon fiber GT3-style rear wing (designed by RML Group, 1,200mm span, 300mm chord, adjustable angle of attack from 5° to 20°), and a custom front bumper lip (carbon fiber, 3D-printed by Carbon Revolution) with active cooling ducts for the oil cooler and intercoolers."
+  ]
+}

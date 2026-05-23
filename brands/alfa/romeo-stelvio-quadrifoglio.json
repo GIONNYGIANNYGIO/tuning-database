@@ -1,0 +1,14 @@
+{
+  "brand": "ALFA",
+  "model": "ROMEO STELVIO QUADRIFOGLIO",
+  "prestazioni": [
+    "Engine: 690T (2.9L Twin-Turbo V6) – Full carbon fiber intake system by Eventuri with bespoke heat-shielded ram-air ducts, replacing the OEM airbox for optimized airflow and reduced intake temperatures under boost (dyno-proven +18-22whp gain at 6,500 RPM).",
+    "Turbocharger Upgrade: Hybrid turbochargers by Pure Stage 2 (PS2) for the 690T, featuring billet compressor wheels (60mm inducer, 84mm exducer) and reinforced turbine housings (0.82 A/R) to eliminate lag and support 650whp on E85 with a BorgWarner EFR wastegate actuator for precise boost control (target: 28-30psi peak, tapering to 24psi).",
+    "Fuel System: Full Motec M150 ECU standalone conversion with dual Bosch Motorsport 0261500360 1,200cc/min port injectors (primary) and supplementary AEM 2100cc/min direct injectors (secondary), paired with a Radium Engineering dual-pump surge tank (2x Walbro 450 LPH pumps) and a custom 3/8\" AN-8 fuel rail setup for E85 compatibility and 800whp+ capability."
+  ],
+  "estetica": [
+    "Widebody Conversion: Novitec Torado Stelvio Quadrifoglio kit, featuring carbon fiber fender flares (30mm wider front, 40mm wider rear) with integrated LED side markers, paired with custom 3D-printed ABS inner fender liners to accommodate 21x10.5\" ET30 (front) and 21x12.5\" ET40 (rear) Rotiform LAS-R forged wheels (matte bronze finish).",
+    "Aerodynamics: Full Maxton Design GT-spec aero package, including a 3-piece carbon fiber front splitter with adjustable dive planes (15mm extension), a fixed-position carbon fiber rear diffuser with integrated titanium exhaust tips (Akrapović Evolution Line), and a 1,200g carbon fiber rear wing (adjustable angle: 5-20 degrees) mounted on OEM-spec aluminum uprights.",
+    "Interior: Full Alcantara retrim by Sabelt, including custom 4-point harnesses (Sabelt 600 Series) integrated into OEM Recaro seats (retaining power adjustments), a carbon fiber MOMO Prototipo steering wheel (380mm diameter, suede grip) with integrated AIM MXS Strada dash display, and a bespoke roll cage (T45 steel, 6-point) by Autopower Industries with removable rear half for daily usability."
+  ]
+}

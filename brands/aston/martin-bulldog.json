@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN BULLDOG",
+  "prestazioni": [
+    "Twin-turbocharged 5.3L V8 (engine code: *TWR-AM2*) upgraded with a bespoke *Garrett GTX5533R* turbocharger setup (86mm billet compressor wheels, 106mm turbine wheels) paired with *Tial MV-R 60mm* wastegates and *TurboSmart Race Port BOV* for precise boost control, targeting 2.2 bar (32 psi) peak pressure with a custom *AEM Infinity 7* standalone ECU managing fuel and ignition via *ID1300x* injectors and *MSD 8 Plus* ignition system",
+    "Forged internals by *Mahle Motorsport* including *Carrillo H-beam* connecting rods, *JE Pistons* 9.5:1 compression forged slugs, and a *Callies Compstar* crankshaft, all balanced to 20,000 RPM tolerance, with *ARP Custom Age625+* head studs and main studs for structural integrity under 1,200+ HP loads",
+    "Custom *Pectel SQ6M* engine management system integrated with a *Motec C127* dash logger, utilizing *Bosch Motorsport* 0280158802 high-flow fuel pumps (dual setup) and a *Radium Engineering* surge tank to prevent fuel starvation during lateral G-forces, paired with a *Setrab 50-row* oil cooler and *Mocal* 19-row transmission cooler for thermal stability"
+  ],
+  "estetica": [
+    "Full *Liberty Walk LB-WORKS* widebody conversion kit (Bulldog-specific, not a generic LB kit) with carbon fiber fenders, front splitter, and rear diffuser, featuring *Vorsteiner* carbon fiber side skirts and a *Seibon* carbon fiber hood with integrated *Aeromotions* active rear wing (3-position adjustability, 0-25 degrees)",
+    "Custom *HRE FF03* forged wheels (20x12 front, 20x13 rear) with *Pirelli P Zero Trofeo R* semi-slick tires (325/25R20 front, 355/25R20 rear), wrapped in a *Brembo GT-R* big brake kit (6-piston front, 4-piston rear) with *AP Racing* carbon-ceramic rotors (410mm front, 380mm rear) and *Ferodo DS3.1* pads for track endurance",
+    "Interior stripped and reupholstered with *Recaro Pole Position* carbon-Kevlar seats (FIA 8862-2009 certified), *Schroth Profi II* 6-point harnesses, and a *Sparco* carbon fiber steering wheel with *AiM MXS Strada* data display, while retaining the original *Aston Martin* wood-rimmed shift knob and *Burr Walnut* trim accents wrapped in *Alcantara* for a bespoke OEM+ aesthetic"
+  ]
+}

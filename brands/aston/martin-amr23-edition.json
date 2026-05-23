@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN AMR23 EDITION",
+  "prestazioni": [
+    "Mercedes-AMG M177 4.0L V8 Biturbo (engine code: M177 DE 40 AL) upgraded with a Garrett GTX5533R Gen II turbocharger (76mm billet compressor wheel, 106mm turbine) paired with a custom 4-inch titanium downpipe and a Tial MV-R 60mm external wastegate for 850whp on E85 fuel with a Motec M150 ECU managing direct port methanol injection via AEM 340lph pumps",
+    "Ohlins TTX46 MkII 3-way adjustable coilovers with bespoke valving for the AMR23's carbon-fiber monocoque, featuring 24-position rebound damping and 22-position compression damping, paired with AST 520 Series spherical bearing top mounts and Eibach ERS 1200N/mm helper springs for track-focused stiffness",
+    "AP Racing CP9661-1000 6-piston front and CP9662-1000 4-piston rear brake calipers with 400mm two-piece carbon-ceramic rotors (CCM-X material) and Ferodo DS3000 pads, integrated with a Bosch Motorsport ABS 9.3.2 controller for 30% faster brake pressure modulation under 2G cornering loads"
+  ],
+  "estetica": [
+    "RML Group-designed carbon-fiber front splitter with integrated active Gurney flap (adjustable via cockpit switch, +120kg downforce at 200km/h) and a full-length underfloor diffuser featuring 3D-printed titanium strakes for optimized airflow separation",
+    "Aston Martin Racing (AMR) carbon-fiber GT3-style rear wing with dual-element active DRS (drag reduction system) and a 1,200mm span, adjustable in 5-degree increments via a hydraulic actuator controlled by the Motec ECU for dynamic aero balance",
+    "BBS FI-R 20x12-inch front and 21x13.5-inch rear forged magnesium wheels (9.5kg front, 10.2kg rear) wrapped in Pirelli P Zero Trofeo R tires (325/30 R20 front, 355/25 R21 rear) with custom tread compounds developed for the AMR23's 1,850kg weight distribution (42% front, 58% rear)"
+  ]
+}

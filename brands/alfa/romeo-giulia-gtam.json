@@ -1,0 +1,14 @@
+{
+  "brand": "ALFA",
+  "model": "ROMEO GIULIA GTAM",
+  "prestazioni": [
+    "Engine: 2.9L V6 Twin-Turbo (690T) with a custom Motec M150 ECU reflash targeting 650+ HP via a Garrett GTX4286R turbo upgrade, paired with a bespoke Akrapovič 3.5-inch titanium exhaust system featuring dual carbon-fiber tips and a straight-pipe design bypassing the factory resonators for maximum flow efficiency.",
+    "Suspension: Öhlins Road & Track DFV coilovers with 20-way adjustable damping, custom-valved for the GTAm’s 1,570 kg weight distribution (58:42), paired with Eibach Pro-Spacer 15mm wheel spacers to optimize track-width and reduce understeer under heavy braking (Brembo GT 390mm front/360mm rear rotors with Ferodo DS2500 pads).",
+    "Drivetrain: Getrag 7-speed dual-clutch transmission (code: 7DCL750) reinforced with a Fidanza aluminum flywheel and a Quaife ATB differential (85% lockup) to handle the increased torque, while a custom Alcon 4-piston rear brake kit (340mm rotors) replaces the OEM setup for improved heat dissipation during endurance sessions."
+  ],
+  "estetica": [
+    "Aerodynamics: Novitec Torado GTAm-specific carbon-fiber widebody kit (front splitter, side skirts, and rear diffuser) with a 3D-printed active Gurney flap (adjustable via a cockpit switch) to balance downforce at speeds above 180 km/h, paired with a custom carbon-fiber hood featuring dual NACA ducts for direct intercooler cooling.",
+    "Wheels: HRE FF16 20x11J front / 20x12J rear forged wheels (ET25/ET15) wrapped in Pirelli P Zero Trofeo R tires (285/30R20 front, 305/30R20 rear) with a custom gold anodized finish and center-lock adapters for rapid pit-stop swaps during track days.",
+    "Interior: Recaro SPG XL GT3 seats with custom Alcantara/leather upholstery (Alfa Red stitching) and a Schroth 6-point harness, paired with a MOMO Mod.78 carbon-fiber steering wheel (quick-release hub) and a custom Motec C127 dash display replacing the OEM cluster for real-time boost, oil temp, and lap-time monitoring."
+  ]
+}

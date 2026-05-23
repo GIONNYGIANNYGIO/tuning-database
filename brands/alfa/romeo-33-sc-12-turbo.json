@@ -1,0 +1,14 @@
+{
+  "brand": "ALFA",
+  "model": "ROMEO 33 SC 12 TURBO",
+  "prestazioni": [
+    "Engine: Replace the stock 3.0L Tipo 33 V12 (engine code: 115.12) with a fully built version featuring forged Mahle Motorsport pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from JE Pistons. Pair with a custom dry-sump oiling system by Peterson Fluid Systems (4-stage) to handle sustained 10,000+ RPM operation.",
+    "Forced Induction: Swap the original single KKK K27 turbo for a Garrett GTX5533R Gen II turbocharger (88mm inducer, 1.15 A/R turbine housing) with a custom 3D-printed titanium anti-lag system by Turbosmart. Use a custom intercooler setup with a PWR 4.5-core front-mount heat exchanger and dual Bosch 044 fuel pumps with -8AN lines for E85 compatibility.",
+    "Drivetrain & Handling: Install a Quaife ATB differential in the transaxle (modified Hewland LG600 gearbox) with a carbon-fiber driveshaft by GKN. Replace the stock suspension with a full Öhlins TTX40 coilover system (3-way adjustable) paired with spherical bearing control arms from H&R. Use Brembo GT-R 6-piston calipers with 380mm carbon-ceramic rotors (Pagid RS29 pads) for braking."
+  ],
+  "estetica": [
+    "Body: Full carbon-fiber widebody conversion using a custom Rocket Bunny/Pandem kit (33 SC 12-specific) with integrated NACA ducts for brake cooling. Replace the stock aluminum doors with carbon-fiber units from APR Performance (weight savings: 18kg per door).",
+    "Aerodynamics: Add a custom 3D-printed rear diffuser by Liberty Walk (Alfa 33-specific) with active Gurney flaps controlled by a MoTeC M150 ECU. Front splitter is a custom 5-layer carbon-fiber unit by Vorsteiner with integrated canards (adjustable angle via electric actuators).",
+    "Interior: Full Alcantara retrim by Recaro (Pole Position seats) with a custom roll cage by Matter Fab (chromoly, FIA-spec) and a digital dash from AIM MXS Strada (1.2 display) paired with a Motec C127 data logger. Steering wheel is a custom MOMO Prototipo (flat-bottom, Alcantara) with paddle shifters for the sequential gearbox."
+  ]
+}

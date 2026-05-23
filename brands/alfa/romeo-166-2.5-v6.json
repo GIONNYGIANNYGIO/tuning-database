@@ -1,0 +1,14 @@
+{
+  "brand": "ALFA",
+  "model": "ROMEO 166 2.5 V6",
+  "prestazioni": [
+    "Engine: Replace the stock 2.5L Busso AR 16101 (936A2.000) V6 with a fully built 3.0L stroker kit from G-Tech Motorsport, featuring forged Mahle pistons (83.5mm bore), Carrillo H-beam rods, and a custom billet crankshaft (88.5mm stroke) for 2,998cc displacement. Pair with a custom Schrick 272° camshaft set (intake/exhaust) and titanium retainers from Supertech Performance for high-RPM stability.",
+    "Forced Induction: Install a Rotrex C38-91 supercharger with a custom air-to-water intercooler setup from Bell Intercoolers, utilizing a Bosch 044 fuel pump and ID1000 injectors from Injector Dynamics. Tune via a standalone Motec M150 ECU with flex-fuel capability and a custom 3.5-bar MAP sensor for precise boost control (targeting 0.8 bar / 11.6 psi).",
+    "Exhaust: Fabricate a 3-inch stainless steel exhaust system with a custom X-pipe from Supersprint, terminating in a pair of 102mm titanium tips from Remus. Replace the stock headers with equal-length 4-2-1 manifolds from Janspeed, ceramic-coated for heat management, and pair with a lightweight stainless steel catalytic converter from Milltek Sport."
+  ],
+  "estetica": [
+    "Body Kit: Install the rare Alfa Romeo 166 Sportivo wide-body kit (OEM part #71748660), paired with a custom carbon fiber front splitter from Zender (modified for 166 fitment) and a rear diffuser from Prior Design (PD166R). Replace side skirts with OEM Momo Edition pieces (part #71748662) for aggressive stance.",
+    "Wheels: Mount a set of 18x9.5 ET25 (front) and 18x10.5 ET30 (rear) OZ Racing Ultraleggera HLT wheels, wrapped in Michelin Pilot Sport Cup 2 tires (245/40/18 front, 275/35/18 rear). Use custom hub-centric spacers from H&R (15mm front, 20mm rear) for perfect fitment and aggressive flush wheel positioning.",
+    "Interior: Replace the stock seats with Recaro Pole Position buckets (modified for 166 mounting points) and install a custom roll cage from Safety Devices (SD03166) with integrated harness bar. Retrim the dashboard and door cards in Alcantara from Sabelt, with custom stitching in Alfa Rosso. Replace the steering wheel with a Momo Prototipo (350mm) featuring a quick-release hub from NRG Innovations."
+  ]
+}

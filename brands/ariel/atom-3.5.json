@@ -1,0 +1,14 @@
+{
+  "brand": "ARIEL",
+  "model": "ATOM 3.5",
+  "prestazioni": [
+    "Engine: Replace the stock Honda K20Z4 (2.0L i-VTEC) with a fully built K24A2 (2.4L) featuring forged internals (JE 87mm pistons, Eagle H-beam rods, ACL race bearings) and a custom billet crankshaft (Callies 4340 steel) for a 2.6L stroker setup, paired with a Garrett GTX3582R turbocharger (1.06 A/R, 62mm compressor) running 28psi on E85 fuel with a Motec M150 ECU for precise boost control and ignition timing.",
+    "Drivetrain: Install a Quaife ATB helical LSD in the stock Honda 6-speed transmission, reinforced with a PPG close-ratio gearset (2.65 1st, 1.80 2nd, 1.36 3rd) and a Tilton 7.25in triple-plate carbon clutch with a billet flywheel (Spec Stage 4+). Replace the stock driveshafts with custom CV-jointed units from GKN Driveline for 800whp durability.",
+    "Suspension & Chassis: Swap the stock Ohlins TTX25 dampers for a custom Ohlins TTX40 coilover setup with 3-way adjustable damping (compression, rebound, and high-speed compression) and spherical bearing top mounts. Reinforce the tubular chassis with T45 steel gussets at the front and rear bulkheads, and add a full roll cage (Custom Cages UK) with integrated harness bars for FIA-spec rigidity."
+  ],
+  "estetica": [
+    "Aero: Replace the stock front splitter with a carbon-fiber 3D-printed unit from Aeroform Composites, featuring integrated dive planes and a 50mm adjustable Gurney flap. Add a custom rear diffuser from APR Performance with vortex generators and a central exhaust exit for the custom 3.5in titanium exhaust (Akrapovic Evolution Line).",
+    "Bodywork: Wrap the entire chassis in a custom vinyl livery from VViViD Air-Tint (matte anthracite with neon green accents) and replace the stock headlights with LED projector units from Hella (5000K, adaptive cutoff) paired with custom carbon-fiber housings. Add a removable carbon-fiber windscreen (Ariel Motorsport) with a hydrophobic coating (Gtechniq Crystal Serum Ultra).",
+    "Interior: Replace the stock seats with ultra-lightweight carbon-Kevlar racing seats from Corbeau (FX1 Pro, 12.5lbs each) with 6-point Schroth Profi II harnesses. Install a custom dash from AIM MXS 1.2 Strada with a 10Hz GPS module, lap timer, and CAN bus integration for the Motec ECU. Add a quick-release MOMO Mod.78 steering wheel with a suede grip and a custom carbon-fiber quick-release hub (NRG Innovations)."
+  ]
+}

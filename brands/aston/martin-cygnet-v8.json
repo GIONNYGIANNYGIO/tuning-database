@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN CYGNET V8",
+  "prestazioni": [
+    "Engine swap to a **Toyota 2GR-FE V6 (3.5L, 24V, DOHC)** from a Lexus IS F, bored and stroked to 3.7L with **JE forged pistons (12.5:1 CR)**, **Manley H-beam connecting rods**, and a **Brian Crower billet crankshaft**. Paired with a **Harrop TVS2300 supercharger** (12 psi boost) and a **custom 3.5\" intercooler core (VRSF)** for sustained power delivery. Engine management via **Haltech Elite 2500 ECU** with **Motec C125 dash** for real-time monitoring.",
+    "Drivetrain reinforcement with a **Quaife ATB differential (85% lock)** and **PPG close-ratio 6-speed manual transmission (from a Toyota GT86)** with a **Tilton twin-disc clutch (7.25\")**. Custom **GKN CV axles** and **Penske adjustable rear toe arms** to handle the increased torque (450 lb-ft at the wheels).",
+    "Suspension overhaul with **Ohlins Road & Track coilovers (DGR40)** featuring **32-way compression/rebound damping**, **polyurethane bushings (SuperPro)** for the front control arms, and **custom rear subframe reinforcement plates (T45 steel, 3mm thick)**. Braking system upgraded to **AP Racing 6-piston calipers (355mm rotors front, 330mm rear)** with **Ferodo DS2500 pads** and **Goodridge braided stainless steel lines**."
+  ],
+  "estetica": [
+    "**Rocket Bunny V1 aero kit (Pandem)** modified for Cygnet proportions, including **carbon fiber front splitter (30mm overhang)**, **custom rear diffuser (2-piece, 3D-printed PETG with aluminum supports)**, and **overfenders (25mm wider per side)** to accommodate **Work Meister S1 3P 17x9 +20 wheels (ET20)** wrapped in **Michelin Pilot Sport Cup 2 (225/40/17 front, 255/35/17 rear)**.",
+    "Full **carbon fiber body conversion (Dry Carbon, 2x2 twill weave)** including **hood (with integrated NACA ducts)**, **roof panel**, and **trunk lid (with integrated spoiler)**. **Custom LED taillights (Lux H8 V4, sequential turn signals)** and **Hella Rallye 3000 headlights (HID projectors, 5000K)** with **Morimoto D2S ballasts**.",
+    "Interior stripped and rebuilt with **Recaro Pole Position seats (carbon fiber backs, Alcantara inserts)**, **MOMO Prototipo steering wheel (350mm, suede)**, and **custom aluminum shift knob (TWM, short throw)**. **Full roll cage (Custom Cages, T45 steel, 2.5\" diameter)** with **Schroth 6-point harnesses** and **AEM CD-7 dash display (replacing stock cluster)** for telemetry."
+  ]
+}

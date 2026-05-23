@@ -1,0 +1,14 @@
+{
+  "brand": "ALFA",
+  "model": "ROMEO 2000 BERLINA",
+  "prestazioni": [
+    "Engine swap to a **1.8L Twin Spark (AR01612)** from the Alfa Romeo 155 Q4, retaining the original **AR01600** block but upgrading to a **16V DOHC head** with **45mm intake/40mm exhaust valves**, **Schrick 284° camshafts**, and **Ferrea Racing valvesprings** for high-RPM stability. Pair with a **Weber 45 DCOE carburetor setup** (dual-sidedraft) and a **custom 4-2-1 stainless steel exhaust manifold** by **Anselmi & Bonfanti** for optimized scavenging.",
+    "Suspension overhaul using **Bilstein B14 coilovers** (custom valved for the **Tipo 105/115 chassis**), **polyurethane bushings** from **SuperPro** (part #SPF1055K) for the front control arms, and **Ohlins TTX40 adjustable dampers** for the rear. Reinforce the subframe with **custom steel gussets** by **Autodelta Replica** to handle increased power and cornering loads.",
+    "Forced induction via a **Garrett GT2860RS turbocharger** (internally wastegated, .64 A/R turbine housing) mounted to a **custom cast-iron exhaust manifold** by **Bell Auto Services**, paired with a **Tial 44mm external wastegate** and **GReddy Type-S intercooler**. Fueling upgrades include **Bosch 044 high-flow fuel pump**, **Siemens DEKA 60lb/hr injectors**, and a **Megasquirt MS3Pro ECU** with **Alpha-N tuning** to manage the carb-to-EFI hybrid setup."
+  ],
+  "estetica": [
+    "Full **Zagato-inspired body restoration** with **hand-beaten aluminum fenders** (replicating the 1960s Alfa Romeo 2000 Sprint Zagato), **custom aluminum hood** with **NACA ducts** for intercooler airflow, and **Plexiglas side windows** (weight reduction). Paint in **PPG Alfa Romeo Rosso Competizione** with **hand-painted gold pinstriping** by **Signore Rossi**.",
+    "Interior retrimmed in **Connolly Leather (Bridge of Weir hide)** with **Alcantara headliner** and **custom aluminum gauge pods** housing **Smiths Chronometric instruments** (replicas of the original 2000 Berlina gauges). Replace the stock seats with **Recaro SRD bucket seats** (1970s-spec) mounted on **custom aluminum sliders** by **Sparco**.",
+    "Aerodynamic upgrades include a **custom front splitter** in **carbon-Kevlar** by **Extreme Dimensions**, **custom rear diffuser** with **integrated exhaust cutouts**, and **Porsche 911 (993) GT2-style rear wing** (modified to fit the Berlina’s roofline) on **aluminum pedestals**. Wheel setup: **Campagnolo Electron 15x7 ET20** (front) and **15x8 ET25** (rear) with **Pirelli P7 Corsa 195/50R15** tires."
+  ]
+}

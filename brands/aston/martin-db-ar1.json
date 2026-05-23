@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN DB AR1",
+  "prestazioni": [
+    "Engine: Replace the stock 6.0L V12 (AM06/AM11 engine code) with a fully built internals package from Cosworth, including forged Mahle pistons (9.0:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft with balanced rotating assembly for 8,500 RPM reliability. Pair with a custom dry-sump oiling system by Dailey Engineering to eliminate oil starvation during high-G cornering.",
+    "Forced Induction: Install a twin-turbo system using Garrett GTX5533R turbos (86mm compressor wheels) with TiAL MV-R 60mm wastegates and a custom air-to-water intercooler setup by PWR, plumbed with -4AN hardlines and integrated into the DB AR1's unique front bumper ducting. Target 12 psi of boost for 850+ WHP on E85 fuel, tuned via a MoTeC M150 ECU with flex-fuel and traction control mapping.",
+    "Suspension & Chassis: Convert to a full coilover setup using Öhlins TTX46 MkII dampers with 3-way adjustable compression/rebound and remote reservoirs, paired with custom AST Motorsport spherical bearing top mounts. Reinforce the chassis with a T45 steel roll cage by Custom Cages UK, integrated with a seam-welded front subframe and polybushings from SuperPro for precise steering response."
+  ],
+  "estetica": [
+    "Aero: Install a full carbon fiber widebody kit by Liberty Walk (LB-WORKS DB9/AR1-specific), including extended front fenders, aggressive side skirts, and a custom rear diffuser with integrated exhaust exits. Add a fixed carbon fiber rear wing from Vorsteiner (DB9 AR1-specific) with adjustable angle mounts for 200+ lbs of downforce at 150 mph.",
+    "Wheels & Tires: Fit 20x10.5 ET25 front and 20x12 ET40 rear wheels from WORK Emotion CR Kiwami in a custom brushed titanium finish, wrapped in Michelin Pilot Sport Cup 2 R tires (275/30/20 front, 325/25/20 rear). Use custom 6-piston AP Racing calipers with 400mm two-piece rotors up front and 380mm rotors in the rear, paired with stainless steel braided lines.",
+    "Interior & Details: Replace the stock leather with a full Alcantara interior by Saddleback Leather, including a custom roll cage padding in matching color. Install a digital dash from AIM MXS Strada with integrated lap timer and boost gauge, paired with a custom carbon fiber center console housing a Haltech CAN keypad for on-the-fly tuning adjustments. Add a custom titanium shift knob by B&B Italia and a suede-wrapped MOMO Prototipo steering wheel with integrated quick-release."
+  ]
+}

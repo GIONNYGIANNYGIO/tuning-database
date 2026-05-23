@@ -1,0 +1,14 @@
+{
+  "brand": "ARIEL",
+  "model": "ATOM",
+  "prestazioni": [
+    "Engine swap to a Honda K24A3 (2.4L DOHC i-VTEC) with a custom billet crankshaft from Manley Performance, forged JE Pistons (9.0:1 compression), and Eagle H-beam connecting rods for high-RPM reliability (redline set at 9,000 RPM via Hondata KPro V4 ECU with custom camshafts from Skunk2 Pro Series Stage 3)",
+    "Forced induction via a Garrett GTX3582R turbocharger (1.05 A/R turbine housing) with a custom 3.5-inch stainless steel exhaust system by Burns Stainless, paired with a Tial MV-R 44mm wastegate and a custom intercooler core from PWR (Australia) for optimal charge cooling in the Atom’s exposed layout",
+    "Chassis reinforcement with a full T45 steel roll cage by Custom Cages (UK), integrated with a bespoke carbon fiber undertray by Dymag to reduce weight (saving ~15kg) while improving torsional rigidity for track use, paired with Ohlins TTX25 MkII coilovers (4-way adjustable) and spherical bearing suspension links from SuperPro"
+  ],
+  "estetica": [
+    "Full carbon fiber bodywork replacement with a custom 3D-printed front splitter by APR Performance (Atom-specific design) and a rear diffuser by Rocket Bunny (modified for the Atom’s wheelbase), both finished in matte clear coat with exposed weave for weight savings (~8kg total reduction)",
+    "Custom LED headlight conversion by LUX Automotive (UK) using Osram Ostar Projection modules, integrated with a bespoke carbon fiber headlight surround by Carbon Creations, and a rear light delete with sequential LED taillights by Diode Dynamics (track-only setup)",
+    "Interior overhaul with a full Alcantara-wrapped dashboard and custom Recaro Pole Position seats (carbon fiber shells, 6-point harnesses by Schroth Profi II), paired with a MOMO Mod.78 steering wheel (320mm diameter, suede grip) and a custom digital dash by AIM MXS Strada (Atom-specific CAN bus integration)"
+  ]
+}
