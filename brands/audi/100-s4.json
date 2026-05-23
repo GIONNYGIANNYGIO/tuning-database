@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "100 S4",
+  "prestazioni": [
+    "Engine: 2.2L inline-5 turbo (engine code: **MC-1**) with forged internals including **JE 8.5:1 compression pistons**, **Manley H-beam connecting rods**, and **ARP head studs** for 2.5 bar boost capability. Paired with a **Garrett GT35R turbocharger** (62mm compressor, 68mm turbine) on a **custom 3-inch stainless steel exhaust manifold** with **Tial 44mm external wastegate** and **TurboSmart Race Port blow-off valve**.",
+    "Fuel System: **Bosch 044 high-flow fuel pump** with **Siemens DEKA 80lb/hr injectors**, **AEM 340LPH in-tank pump**, and **Radium Engineering fuel pressure regulator** (30psi base). ECU reflash via **Apexi Power FC** with **AEM X-Series wideband O2 sensor** for closed-loop AFR targeting 11.5:1 under full load.",
+    "Drivetrain: **OS Giken Super Lock LSD** (40% lockup) in the rear differential, **South Bend Stage 3 Clutch** with **Forged Flywheel**, and **02M 6-speed transmission** reinforced with **Dog Ring synchros** and **Red Line MT-90 gear oil**. Suspension overhaul with **Ohlins Road & Track DFV coilovers** (22-way adjustable damping), **H&R 25mm front / 20mm rear sway bars**, and **Polyurethane bushings** (full set from **034 Motorsport**)."
+  ],
+  "estetica": [
+    "Body: **Rocket Bunny V1 widebody kit** (C4 chassis-specific) with **custom carbon fiber front splitter** and **Voltex-style rear diffuser**, both reinforced with **aluminum subframes**. Painted in **Audi Nogaro Blue (LX5W)** with **3M Matte Black vinyl wrap** on the roof and pillars for contrast.",
+    "Wheels: **BBS RS-GT II 17x9.5 ET25** (front) and **17x10.5 ET30** (rear) with **Nankang AR-1 semi-slick tires** (235/40/17 front, 265/35/17 rear). **H&R Trak+10mm spacers** for flush fitment, paired with **Project Kics R40 6-piston front / 4-piston rear brake calipers** and **DBA 5000 Series rotors**.",
+    "Interior: **Recaro SRD Evo II seats** (C4-specific mounting brackets) with **Schroth 6-point harnesses**, **Momo Mod.78 steering wheel** (350mm, quick-release hub), and **AEM CD-7 dash** replacing the stock cluster. **Sound deadening removed** and **full carbon fiber headliner** (from **Eurokraft**) for weight reduction."
+  ]
+}

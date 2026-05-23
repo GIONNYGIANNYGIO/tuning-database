@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "A4 ALLROAD",
+  "prestazioni": [
+    "Engine: 2.0L TFSI (EA888 Gen 3B, **CZRA** code) – Full **APR Stage 3+ turbo kit** with **Garrett GTX3582R** turbocharger (1.25 A/R turbine housing, billet compressor wheel), **APR CNC-ported cylinder head**, **Mahle Motorsport forged pistons (9.5:1 CR)**, **Manley H-beam connecting rods**, **ARP 2000 head studs**, **034 Motorsport billet crankshaft pulley**, **IE V2 high-flow fuel pump**, **Bosch Motorsport 1000cc injectors**, and **APR K04 hybrid turbo upgrade path for 500+ HP on E85** (with **Motec M150 ECU** for full flex-fuel mapping).",
+    "Drivetrain: **034 Motorsport Stage 3 clutch kit** (multi-plate sintered metal clutch with **South Bend billet flywheel**), **Quattro GmbH RS4-spec rear differential (40:60 torque split)**, **034 Motorsport transmission mounts**, and **VAQ (Vectoring Active Differential) software flash** for aggressive torque vectoring via **Audi Sport TCU tune**.",
+    "Suspension & Handling: **KW Suspensions Clubsport coilovers (3-way adjustable, 40mm drop, rebound/compression/height independent)**, **034 Motorsport sway bars (25mm front, 22mm rear)**, **H&R RS5-spec wheel spacers (20mm front, 25mm rear)**, **Brembo GT 6-piston front calipers (380mm RS6 rotors)**, **Ferodo DS2500 brake pads**, and **Michelin Pilot Sport Cup 2 R tires (265/30 R20 front, 285/25 R20 rear)** on **HRE FF01 forged wheels (9.5x20 ET30 front, 10.5x20 ET35 rear)** for optimal track alignment."
+  ],
+  "estetica": [
+    "Aero: **ABT Sportsline RS4-Allroad widebody kit** (carbon fiber front splitter, side skirts, and rear diffuser with **Vorsteiner GT-spec rear wing**), **Audi Sport S-line front bumper with integrated **Seibon carbon fiber hood (OEM+ fitment, heat extractors)**, and **Rieger Tuning rear valance with dual 3.5\" exhaust cutouts** for **Akrapovic Evolution Line Titanium exhaust (quad tips, 70mm diameter)**.",
+    "Lighting: **Lux H8 V4 LED headlights (5500K, adaptive matrix beam)**, **Morimoto XB LED fog lights**, **Dapper Lighting rear dynamic turn signals (OEM-style sequential)**, and **Osram Night Breaker Laser H7 bulbs** for high-beam reinforcement.",
+    "Interior & Exterior Details: **Recaro Sportster CS seats (carbon fiber backs, Alcantara/leather upholstery)**, **Momo Mod.73 steering wheel (flat-bottom, suede)**, **Audi Sport digital instrument cluster (12.3\" Virtual Cockpit Plus with **RS4 performance pages**)**, **034 Motorsport short shifter (aluminum, 30% reduction)**, **Forge Motorsport aluminum pedal set**, and **custom **PPF (XPEL Ultimate Plus) full-body wrap with **3M Satin Matte Black** finish (including roof, mirrors, and grille)."
+  ]
+}

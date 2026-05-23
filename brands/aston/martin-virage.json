@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN VIRAGE",
+  "prestazioni": [
+    "Engine: Replace the stock 5.3L V8 (AM1, 32-valve DOHC) with a fully built AM2 6.3L stroker kit from RML Group, featuring forged Mahle pistons (9.5:1 CR), Carrillo H-beam rods, and a billet crankshaft. Pair with a custom dry-sump system by Dailey Engineering to eliminate oil starvation under lateral G-forces.",
+    "Forced Induction: Twin-turbo setup using Garrett GT35R turbos (62mm compressor, 76mm turbine) with TiAL MV-R 44mm wastegates and TiAL Q 50mm blow-off valves. Intercooling via a custom air-to-water setup by Bell Intercoolers, utilizing a 12-row core with a 1.5L ice reservoir for track sessions.",
+    "Fuel & Ignition: Upgrade to a Motec M150 ECU with a full flex-fuel sensor suite, paired with ID1000x injectors and a Walbro 450 LPH dual-pump fuel system. Ignition system features MSD 8511 coils and NGK R7437-9 racing plugs gapped at 0.024\" for optimized combustion under boost (target: 12-14 psi)."
+  ],
+  "estetica": [
+    "Aero: Full carbon-fiber widebody conversion using the Virage-specific Rocket Bunny PB-VG1 kit, including extended front fenders (30mm wider per side), rear overfenders (50mm wider), and a custom 3D-printed rear diffuser with integrated Gurney flap. Front splitter features a 3-stage adjustable dive plane from APR Performance.",
+    "Wheels & Tires: OZ Racing Ultraleggera HLT wheels in 9.5x19\" (ET20) front and 11x19\" (ET30) rear, wrapped in Michelin Pilot Sport Cup 2 R tires (265/35/19 front, 305/30/19 rear). Custom center-lock adapters by DPE for rapid wheel changes during endurance events.",
+    "Interior: Full carbon-fiber Recaro Pole Position seats with 6-point Schroth Profi II harnesses, paired with a custom roll cage by Safety Devices (FIA-spec, 8-point with integrated door bars). Steering wheel features a Momo Prototipo with integrated Motec C127 dash display and paddle shifters for the Tremec TR-6060 6-speed sequential transmission."
+  ]
+}

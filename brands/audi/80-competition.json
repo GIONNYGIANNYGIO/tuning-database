@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "80 COMPETITION",
+  "prestazioni": [
+    "Engine swap to a 20V turbocharged 1.8L inline-5 (engine code: **RR 20V Turbo**, derived from the Audi S2/RS2, producing 350+ HP with a **Garrett GT2860RS-5 turbo**, **Mahle Motorsport forged pistons**, and **ARP head studs** for 1.5 bar boost)",
+    "Full **034 Motorsport billet aluminum engine mounts** paired with a **South Bend Clutch Stage 3 daily** for the RR 20V transmission, ensuring zero drivetrain slop under aggressive launches",
+    "Custom **Haltech Elite 2500 ECU** with **Bosch Motorsport 1000cc injectors**, **Nuke Performance fuel pressure regulator**, and a **PWR 4-row front-mount intercooler** to maintain intake temps below 40°C at full load"
+  ],
+  "estetica": [
+    "**Rocket Bunny V1 widebody kit** (B4 chassis-specific, with **custom carbon fiber fenders** and **aluminum overfenders** for a 100mm track increase, paired with **Work Meister S1 3P 17x9.5 +25** wheels wrapped in **Michelin Pilot Sport Cup 2 235/40/17** tires)",
+    "**OMP carbon fiber Competition GT2 seats** (B4 chassis-specific mounting brackets) with **Schroth Profi II 6-point harnesses**, replacing the rear seats with a **custom aluminum roll cage** (TIG-welded, **Sparco 6-point bolt-in design**)",
+    "**Custom front splitter** (carbon fiber, **Audi Sport Quattro S1-inspired** with **3D-printed air curtains** for downforce) and a **Voltex GT-400 rear wing** (adjustable carbon fiber, mounted on **custom aluminum pedestals** for 120kg rear downforce at 200km/h)"
+  ]
+}

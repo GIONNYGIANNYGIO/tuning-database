@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "A1 S1 RALLY CAR",
+  "prestazioni": [
+    "Engine: 2.0L TFSI (EA888 Gen 3, **CJXC** code) with forged internals including Mahle Motorsport pistons (83mm, 9.5:1 CR), Pec Racing H-beam connecting rods, and a billet crankshaft from Manley Performance. Turbocharged with a **Garrett GTX3582R Gen II** (0.82 A/R, 62mm compressor, 76mm turbine) on a custom 3.5-inch stainless steel downpipe with a **Tial MV-R 44mm wastegate** and **TurboSmart Race Port BOV** for precise boost control (targeting 38psi on E85).",
+    "Drivetrain: **Quaife ATB LSD** (80% lockup) in a reinforced **Audi S1 quattro** differential housing, paired with a **Tilton 7.25-inch twin-disc clutch** (ceramic-metallic) and a **PPG straight-cut dog-ring gearset** (1st: 2.92, 2nd: 2.17, 3rd: 1.64) in a **Hewland 5-speed sequential transaxle** (FTR200). Custom **GKN tripod CV joints** and **Penske 8760-series rally-spec driveshafts** for durability.",
+    "Suspension & Chassis: **Öhlins TTX40 2-way adjustable coilovers** (400lb/in front, 350lb/in rear) with **Eibach ERS rally springs** and **Spherical bearing top mounts** from **SuperPro**. **Brembo GT-R 6-piston calipers** (380mm front, 355mm rear) with **AP Racing 400mm two-piece rotors** and **Ferodo DS3000 pads**. **Polyurethane bushings** (full chassis) from **Whiteline** and a **custom FIA-spec roll cage** by **Sparco Pro2000** with **Schroth 6-point harnesses**."
+  ],
+  "estetica": [
+    "Aero: **Rieger Tuning WRC-style widebody kit** (carbon fiber, 120mm flares) with **custom aluminum skid plates** (3mm thick) and a **Reiger carbon fiber rear diffuser** (integrated tow hooks). **Sabelt rally-spec side mirrors** (quick-release) and a **carbon fiber hood** (vented, with **AIM carbon fiber bonnet pins**).",
+    "Lighting: **Hella Rallye 3000 Super Whites** (7-inch, 100W) with **custom aluminum mounts** and **Cibie Oscar 130 fog lights** (H3 bulbs). **LED auxiliary lights** (4x **PIAA LP570**, 55W) on a **custom aluminum roof rack** (FIA-approved). **Carbon fiber headlight surrounds** with **DTM-style LED daytime running lights**.",
+    "Interior: **Sparco Pro2000 carbon fiber bucket seats** (FIA 8862-2009 certified) with **Schroth 6-point harnesses** and **custom aluminum pedal box** (adjustable brake bias). **Alcantara-wrapped MOMO Prototipo steering wheel** (350mm, quick-release) with **Motec C127 dash display** (integrated with **AIM Solo 2 DL GPS logger**). **Custom aluminum fire suppression system** (Lifeline Zero 360, 3kg) and **carbon fiber door cards** with **aluminum door pulls**."
+  ]
+}

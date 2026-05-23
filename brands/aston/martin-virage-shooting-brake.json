@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN VIRAGE SHOOTING BRAKE",
+  "prestazioni": [
+    "Engine: 5.3L V8 (AM11) with forged internals upgrade by Cosworth (pistons, rods, crankshaft) to handle 650hp on 98 RON fuel, paired with a custom dry-sump system by Titan Motorsport to prevent oil starvation during high-G cornering.",
+    "Forced Induction: Twin Precision Turbo PT6266 CEA ball-bearing turbos with custom 3D-printed Inconel manifolds by TurboSmart, feeding into a custom air-to-water intercooler setup by PWR with a 12L capacity and dual Bosch 044 fuel pumps for consistent boost delivery up to 1.2 bar.",
+    "Drivetrain: Quaife ATB differential with 4.25:1 final drive ratio, paired with a Tilton triple-plate carbon clutch and a custom 6-speed manual transmission rebuild by Hewland (FT200) with billet gears and a magnesium bellhousing for weight reduction."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion by Carbonskins, featuring a custom 3-piece front splitter with integrated canards, a rear diffuser by Vorsteiner, and a bespoke carbon fiber roof panel with integrated antenna delete.",
+    "Suspension: Full Ohlins TTX40 coilovers with 3-way adjustable damping, custom valving for the Virage Shooting Brake's unique weight distribution, and Eibach ERS springs (12kg/mm front, 14kg/mm rear) for aggressive stance without sacrificing ride quality.",
+    "Wheels & Aero: Custom 20x10 ET25 front and 21x12 ET30 rear forged wheels by BBS (LM-R II) in a bespoke gold finish, wrapped in Michelin Pilot Sport Cup 2 R tires (275/30/20 front, 325/25/21 rear). Rear wing is a custom 3D-printed carbon fiber GT3-style unit by 991 Motorsport with active Gurney flap adjustment via a MoTeC PDM15."
+  ]
+}

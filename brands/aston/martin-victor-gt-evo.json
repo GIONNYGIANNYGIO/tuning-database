@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN VICTOR GT EVO",
+  "prestazioni": [
+    "Engine: 7.3L naturally aspirated *AM29* V12 (derived from the *Cosworth-developed* Aston Martin Valkyrie unit) with a bespoke *Titanium connecting rods* from *Pankl Racing Systems* and *Forged Mahle pistons* (9.0:1 compression ratio), paired with a *Tremec TR-9070 7-speed transaxle* featuring a *Penske triple-disc carbon clutch* for 1,000+ Nm torque capacity",
+    "Forced induction: *Twin Garrett GTX5533R Gen II turbochargers* (1.25 A/R turbine housings, 88mm billet compressor wheels) with *Tial MV-R 60mm wastegates* and *Precision Turbo 46mm external wastegate dump tubes*, feeding a *custom 4.5-inch titanium intercooler core* by *Bell Intercoolers* with *Aeroquip StartLite AN-16 hoses* and *Motec PDM15 power distribution module* for precise boost control (target: 1.5 bar peak, 1,200+ hp on E85)",
+    "Suspension: *Öhlins TTX46 MkII coilovers* with *ASTON-specific valving* (24-click rebound, 22-click compression, 3-way adjustable damping), *T45 steel subframe reinforcements* by *RML Group*, and *Solid billet aluminum control arms* from *DBA (Driven By Aston)* with *Uniball spherical bearings* for zero deflection at 3.5G lateral loads"
+  ],
+  "estetica": [
+    "Aerodynamics: *Full carbon-fiber *Victor GT Evo* widebody kit* by *Aston Martin Works* (featuring *active rear diffuser* with *Gurney flap* and *3D-printed titanium front splitter* with *adjustable dive planes*), paired with a *fixed carbon-fiber rear wing* (NACA 63A012 airfoil, 1,800mm span, 300mm chord) from *Aerofoil Development* for 1,200kg downforce at 250 km/h",
+    "Exterior: *Bespoke *Liquid Silver* paint* by *Standox* with *PPG D8188 clearcoat* (4-stage hand-polished finish), *Carbon fiber side skirts* with *integrated LED turn signals* (Osram Oslon Black Flat), and *BBS FI-R 20x12/21x13.5* forged wheels* (ET45/ET35, *titanium wheel bolts* from *HRE Performance*) wrapped in *Michelin Pilot Sport Cup 2 R* (325/30 ZR21 front, 355/25 ZR22 rear)",
+    "Interior: *Full *Bespoke carbon-fiber monocoque* by *Multimatic* (including *door cards, center console, and dash*), *Recaro Pole Position* seats (carbon-Kevlar shell, *Schroth 6-point harnesses*), and *Alcantara-wrapped* *MOMO Prototipo* steering wheel with *integrated *Aston Martin Racing* shift lights* and *Motec C127 dash display* (12.3-inch, *1,000Hz data logging*)"
+  ]
+}

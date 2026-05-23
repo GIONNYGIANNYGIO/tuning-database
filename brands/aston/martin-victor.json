@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN VICTOR",
+  "prestazioni": [
+    "Engine: AM2 7.3L naturally aspirated V12 (derived from the Aston Martin One-77's *AE31* block) with forged internals, including Mahle Motorsport pistons (9.0:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft. Upgraded to 850+ HP via a bespoke Cosworth-developed dry-sump lubrication system, titanium intake valves, and a custom carbon-fiber intake manifold with 12 individual throttle bodies (ITBs) by Jenvey Dynamics.",
+    "Forced Induction (Optional Track Build): Twin Precision Turbo PT6766CE turbochargers with billet compressor wheels, custom 4.5\" stainless steel exhaust manifolds by Armytrix, and a Motec M150 ECU managing a 2.5-bar MAP sensor setup. Intercooling via a PWR dual-core front-mount intercooler with 1000+ HP capacity, paired with a Radium Engineering dual-catch can system to manage crankcase pressures under boost.",
+    "Suspension & Chassis: Full Öhlins TTX46 coilover system with 3-way adjustable damping (compression, rebound, and high/low-speed compression), custom valving for the Victor's 1,380kg weight, and spherical bearing top mounts by SuperPro. Rear subframe reinforcement via a T45 steel gusset kit by RML Group, and a carbon-fiber torque tube with a Quaife ATB differential (40% lock) for power delivery."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon-fiber body kit by Aston Martin Works, including a 3D-scanned front splitter with integrated dive planes (tested in the Williams F1 wind tunnel for 200kg+ downforce at 150mph), a rear diffuser with active Gurney flap (adjustable via cockpit switch), and a fixed rear wing with a NACA duct-fed central fin for stability. Underbody aero includes a full-length venturi tunnel with titanium skid plates.",
+    "Wheels & Brakes: Forged 21\" front / 22\" rear Dymag carbon-fiber wheels (9.5J/13J widths) with titanium hardware, wrapped in Michelin Pilot Sport Cup 2 R tires (265/30 R21 front, 345/25 R22 rear). Braking via a carbon-ceramic system with 420mm front / 398mm rear discs, AP Racing CP9400 calipers (6-piston front, 4-piston rear), and Ferodo HT-10 compound pads for track use.",
+    "Interior & Details: Full carbon-fiber interior by Aston Martin Q, including a bespoke roll cage by Safety Devices (FIA-spec, T45 steel with carbon-fiber cladding), Sparco Pro 2000 seats with 6-point Schroth harnesses, and a digital dash by AIM MXS Strada (logging 100+ channels). Exterior accents include a bare carbon-fiber weave with a satin clear coat, titanium exhaust tips by Akrapović, and a custom LED lighting system by Hella for track visibility."
+  ]
+}

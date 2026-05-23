@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "200 TURBO QUATTRO",
+  "prestazioni": [
+    "Engine: 2.2L inline-5 turbocharged (engine code: **KKK-K26/27 hybrid with 20V head conversion (3B/ABY swap)**, forged Mahle pistons (8.5:1 CR), Carrillo H-beam connecting rods, ARP head studs, and a custom Schrick 272° camshaft for high-RPM power)",
+    "Turbocharger: **Garrett GT35R (82mm compressor, .82 A/R turbine housing) with a custom 3-inch stainless steel downpipe and Tial 44mm external wastegate**, paired with a **Bosch 044 high-flow fuel pump and Siemens DEKA 80lb/hr injectors** for 450+ HP on E85",
+    "Drivetrain: **Quaife ATB differential (front and rear) with a 01E 6-speed manual transmission swap (from Audi S4/RS2)**, reinforced CV joints (GKN Lobro), and a **Peloquin LSD in the center differential** for optimal torque distribution"
+  ],
+  "estetica": [
+    "Body: **Rocket Bunny V1 widebody kit (URAS fenders, custom front bumper with integrated carbon splitter, and a duckbill rear wing)**, carbon fiber hood (Rieger or custom one-off) with functional NACA ducts for intercooler cooling",
+    "Wheels: **BBS RS-GT 9x17 ET20 (front) and 10x17 ET25 (rear) with 225/45/17 and 245/40/17 Michelin Pilot Sport Cup 2 tires**, gold hardware, and custom center caps with the Audi quattro logo",
+    "Interior: **Recaro SRD Evo II seats (carbon fiber backs, Schroth 4-point harnesses), Momo Prototipo steering wheel (350mm, suede), and a custom roll cage (T45 steel, bolt-in) with a half-cage design to retain rear seats, wrapped in Alcantara with red stitching**"
+  ]
+}

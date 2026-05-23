@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN V12 ZAGATO",
+  "prestazioni": [
+    "Engine: AM28 6.0L V12 (code AM09/600) with forged internals by Cosworth (pistons, conrods, and crankshaft) to handle 800+ HP, paired with a custom dry-sump lubrication system by Moroso for sustained high-RPM operation (9,000 RPM redline).",
+    "Forced Induction: Twin Precision Turbocharging PT6266 CEA turbos with billet compressor wheels, custom 44mm wastegates, and a bespoke air-to-water intercooler setup by PWR (Australia) with dual 1,000cc/min methanol injectors for charge cooling and detonation suppression.",
+    "ECU & Fuel: Motec M150 ECU with full flex-fuel mapping (E85 compatible), paired with a dual Bosch Motorsport 044 high-flow fuel pump system and ID1700x injectors, controlled via a Syvecs S8 ECU for real-time lambda and knock monitoring."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon-fiber Zagato Heritage body kit with a custom 3D-printed front splitter by Vorsteiner (Aston Martin-specific), rear diffuser by RW Carbon, and a fixed rear wing by APR Performance (GT-250 model) with adjustable angle of attack for track use.",
+    "Wheels & Tires: OZ Racing Ultraleggera HLT wheels (20x9.5 front, 20x12 rear) wrapped in Michelin Pilot Sport Cup 2 R tires (265/30 R20 front, 325/25 R20 rear), with custom center-lock adapters by DPE for rapid wheel changes.",
+    "Interior & Exterior: Full Alcantara-wrapped interior by Sabelt (including steering wheel, shift knob, and Recaro SPG-K seats), paired with a custom titanium roll cage by Safety Devices (FIA-approved) and a carbon-fiber rear-view mirror delete with a digital rear camera system by Race Technology."
+  ]
+}

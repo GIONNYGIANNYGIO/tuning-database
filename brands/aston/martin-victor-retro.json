@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN VICTOR RETRO",
+  "prestazioni": [
+    "Engine: AM29 7.3L naturally aspirated V12 (derived from the Aston Martin Valkyrie's Cosworth-developed NA V12) with a bespoke dry-sump lubrication system featuring a Peterson 4500-series billet aluminum oil pump and a Moroso 10-quart baffled oil pan, paired with a custom titanium valvetrain by Del West (intake/exhaust valves: 42mm/36mm, titanium retainers, and beehive springs) to enable a 9,500 RPM redline with a 12.5:1 compression ratio",
+    "Forced induction: Twin Precision Turbo PT6766CE turbochargers (67mm compressor, 66mm turbine) with billet aluminum compressor wheels, ceramic-coated turbine housings, and TiAL MV-R 44mm wastegates, feeding into a custom air-to-water intercooler system by PWR (3-core, 1200hp-rated) with a Davies Craig EWP150 electric water pump and a 5-gallon ice reservoir for track use",
+    "Drivetrain: Xtrac P1227 7-speed sequential transaxle with a 2.6:1 final drive ratio, AP Racing 6-piston caliper carbon-carbon clutch (240mm disc), and a Quaife ATB differential with a 45% preload, mated to a custom 4WD system with a Haldex Gen 6 controller and a 30/70 torque split for optimal launch control"
+  ],
+  "estetica": [
+    "Bodywork: Full carbon-fiber widebody conversion by RML Group, featuring a 3-piece front splitter with integrated dive planes (adjustable via electric actuators), a rear diffuser with active Gurney flaps (controlled via Bosch Motorsport ECU), and a custom rear wing derived from the Aston Martin Valkyrie AMR Pro (4-element, 1.8m span, with DRS functionality)",
+    "Lighting: Full LED conversion by JW Speaker (Model 8700 Evolution J3, 8000-lumen output per unit) with adaptive matrix beam technology, integrated into a custom carbon-fiber headlight housing with a clear polycarbonate lens (Makrolon AR2 by Covestro) for weight savings and impact resistance",
+    "Interior: Full bespoke roll cage by Safety Devices (FIA 8862-2009 certified, 4130 chromoly steel, 1.75\" diameter tubing) with integrated fire suppression system (Lifeline Zero 360, 4kg Novec 1230 agent), Recaro Pole Position seats (carbon-Kevlar shell, 6-point Schroth Profi II harnesses), and a custom dashboard by AIM MXS Strada (12.3\" display, integrated Bosch MS6.1 ECU telemetry, and a Motec C127 data logger)"
+  ]
+}

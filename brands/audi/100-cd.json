@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "100 CD",
+  "prestazioni": [
+    "Engine swap to a 2.2L 20V turbocharged inline-5 (engine code: **KKK-K26 hybrid turbocharged 3B/ABY**) with forged Mahle pistons (8.5:1 compression), Carrillo H-beam connecting rods, and a custom Schrick 272° camshaft profile for high-RPM power delivery (target: 400+ HP on 98 RON fuel).",
+    "Full custom turbo system featuring a **Garrett GT3076R .86 A/R turbocharger** with a custom 3-inch stainless steel exhaust manifold (TIG-welded, equal-length runners) and a **GReddy Type-S intercooler** (front-mount, 600x300x76mm core) with custom aluminum piping and silicone couplers from **Vibrant Performance**.",
+    "Standalone **Motec M130 ECU** with a **Bosch 0 280 155 861** 3.5-bar MAP sensor, **ID1000x injectors**, and a **Walbro 255 LPH in-tank fuel pump** (modified for CIS-era fuel system compatibility). Suspension overhaul with **Bilstein B16 PSS10 coilovers** (custom valving for C3 chassis geometry), **H&R 24mm front / 22mm rear sway bars**, and **polyurethane bushings from Powerflex (black series, 70A durometer)** for improved turn-in response."
+  ],
+  "estetica": [
+    "Full **Rocket Bunny V1 widebody kit** (modified for C3 chassis fitment) with custom carbon fiber overfenders (hand-laid, 2x2 twill weave) and **OEM+ rear quarter panel extensions** (replicating the Audi 200 Quattro rally homologation look).",
+    "Custom **BBS RS 002 wheels** (16x9 ET20 front, 16x10 ET25 rear) with **Nankang AR-1 semi-slick tires** (225/50/16 front, 245/45/16 rear) and **custom wheel spacers (15mm front, 20mm rear)** for aggressive flush fitment. Front lip and rear diffuser from **Audi Sport Quattro S1 replica** (carbon-Kevlar hybrid construction).",
+    "Full **OEM+ resto-mod interior** with **Recaro SRD Evo II seats** (retrimmed in **Bridge of Weir leather with Alcantara inserts**), **MOMO Prototipo steering wheel** (380mm, suede), and **custom aluminum gauge pods** (housing **Defi Advance BF gauges** for boost, oil temp, and AFR). Retained original wood trim but refinished in **piano-black lacquer with gold inlays** for a period-correct luxury touch."
+  ]
+}

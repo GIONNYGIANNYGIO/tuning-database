@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "A2 1.4 TDI",
+  "prestazioni": [
+    "AMD Tuning Stage 2 ECU remap for the AMF (1.4 TDI PD) engine code, targeting 110 PS (81 kW) and 240 Nm of torque with a custom fuel pressure map to optimize the Bosch VP37 injection pump's 1,600-bar capability, paired with a K&N E-2993 high-flow panel filter and a custom 2.5-inch stainless steel downpipe with a 100-cell GESI catalytic converter to reduce backpressure while maintaining Euro 5 compliance",
+    "Garrett GT1544V variable-geometry turbocharger upgrade (OEM+ hybrid) with a custom billet compressor wheel (52mm inducer, 68mm exducer) and a reinforced actuator to handle 1.5 bar of boost, mated to a custom intercooler core (Setrab 20-row, 400x150x50mm) with CNC-machined aluminum end tanks for the A2's compact engine bay",
+    "Fully built bottom end with Mahle Motorsport forged pistons (81.0mm, 18.5:1 compression), ARP 2000 head studs, and a lightened/flywheel (Sachs Performance 10.5kg) paired with a Sachs Performance dual-mass to single-mass clutch conversion (6-puck organic compound) and a 02M 6-speed transmission swap with a Quaife ATB differential (80% lock) for improved power delivery"
+  ],
+  "estetica": [
+    "Rieger Tuning RS4-style widebody conversion kit (front fenders, rear quarters, and side skirts) in 1.5mm aluminum with integrated carbon fiber canards (front) and a custom rear diffuser (3D-printed PETG with aluminum supports) to house dual 80mm exhaust outlets (Remus 252090)",
+    "OEM+ full LED conversion with Hella Dynamic Curve headlights (Bi-Xenon projectors, adaptive cornering) and Osram Night Breaker Laser bulbs, paired with a custom carbon fiber hood (Seibon CF-A2-001) featuring a functional NACA duct for intercooler airflow and a matte vinyl wrap (3M 1080 Gloss Black) with a 50% satin overlay",
+    "BBS RS-GT 16x7 ET25 forged wheels (8.5kg each) with 195/40R16 Michelin Pilot Sport Cup 2 tires, paired with H&R Monotube Coilovers (24mm front, 22mm rear spring rates) and Eibach 25mm front / 20mm rear anti-roll bars, finished with custom aluminum wheel spacers (15mm front, 10mm rear) to achieve a 5mm flush fitment"
+  ]
+}

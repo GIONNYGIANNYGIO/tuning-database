@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN VALKYRIE AMR PRO LMH EVO",
+  "prestazioni": [
+    "Cosworth-developed 6.5L naturally aspirated V12 (engine code: AM-RB 001) with bespoke titanium connecting rods (Pankl Racing Systems) and reinforced billet crankshaft (Forgeline Motorsport), pushing 1,160 hp at 10,500 RPM via a 12.0:1 compression ratio and optimized Cosworth engine management with race-spec lambda sensors (Bosch LSU 4.9) for real-time AFR mapping under WEC fuel restrictions (TotalEnergies Excellium Racing 102 RON)",
+    "Xtrac 6-speed sequential transaxle (P1227) with carbon-fiber reinforced magnesium casing, paired with a Sachs Racing twin-plate ceramic clutch (300mm diameter) and a Quaife ATB differential (80% lock under load) for Le Mans-spec torque vectoring",
+    "Multimatic DSSV (Dynamic Suspensions Spool Valve) adaptive dampers with 4-way adjustable rebound/compression (200 clicks per adjustment), custom-tuned for the Valkyrie’s carbon tub (Monocoque T1000G) and Michelin Pilot Sport Cup 2 R tires (345/30 R21 front, 415/30 R21 rear) with Pirelli Cyber™ tire pressure monitoring (0.1 psi resolution)"
+  ],
+  "estetica": [
+    "Full-carbon fiber LMH-spec aero package (Aston Martin Racing in-house design) featuring a 2,000mm-wide front splitter with active Gurney flaps (hydraulically actuated via Bosch Rexroth servos) and a 1,800mm rear diffuser with integrated rear wing (adjustable -10° to +25° via cockpit switch, linked to Cosworth ECU for drag reduction at 280+ km/h)",
+    "Bespoke carbon-fiber side skirts with integrated NACA ducts (channeling air to the rear brakes via AP Racing 6-piston calipers and 410mm CCM-R discs) and LED-illuminated Aston Martin Racing ‘V12’ badges (anodized titanium, laser-etched)",
+    "Lightweight polycarbonate windscreen (Sekuris®) with hydrophobic coating (PPG Clarvista) and a removable roof panel (carbon-Kevlar hybrid, 1.2kg) for open-cockpit endurance racing, paired with a FIA-spec 8862-2018 carbon-fiber seat (Sparco Pro ADV) and 6-point harness (Schroth Profi II-6 ASM)"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "A4 B6 S-LINE",
+  "prestazioni": [
+    "APR Stage 2+ ECU/TCU flash for the **1.8T AMB engine** (225 HP stock) with **Garrett GT2867 .64 A/R turbocharger**, **Siemens DEKA 60lb/hr injectors**, **Forge Motorsport 0.5 Bar DV**, **034 Motorsport high-flow fuel pump**, and **3\" turbo-back exhaust with Vibrant 1799 resonator** for optimized spool and 320 WHP on 93 octane",
+    "KW Clubsport coilovers with **B6-specific valving**, **034 Motorsport sway bars (25mm front, 22mm rear)**, **Powerflex Black Series subframe bushings**, and **H&R 20mm wheel spacers** to eliminate scrub radius and improve turn-in response",
+    "034 Motorsport **B6-specific 85A motor mounts**, **RS4 clutch upgrade (Sachs Performance)**, **OSIR carbon fiber driveshaft**, and **Quattro GmbH 3.08 R&P LSD** for aggressive launch control and torque vectoring"
+  ],
+  "estetica": [
+    "Rocket Bunny V1 **B6 A4-specific widebody kit** with **custom 5mm extended fenders**, **carbon fiber front splitter**, and **custom rear diffuser** for aggressive stance and aero balance (requires **custom wheel fitment: 18x9.5 ET25 with 245/35/18 Michelin Pilot Sport Cup 2** for zero scrub)",
+    "RS4-style **carbon fiber mirror caps**, **debadged grille with custom S-line mesh**, **LED taillight delete with smoked lenses**, and **custom Euro-spec rear fog light delete** for a sleeper aesthetic",
+    "Interior: **Recaro SRD-E full bucket seats (B6-specific mounts)**, **MOMO Mod.78 steering wheel (320mm, suede)**, **custom roll cage (6-point, bolt-in, TIG-welded)**, and **AEM X-Series digital dash** replacing the stock cluster for real-time boost and AFR monitoring"
+  ]
+}

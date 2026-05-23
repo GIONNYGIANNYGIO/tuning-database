@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN VICTOR V12",
+  "prestazioni": [
+    "Engine: 7.3L AM29 V12 (code: *AM29/73X*) bored to 7.4L with forged internals (Mahle Motorsport pistons, Carrillo H-beam rods, billet crankshaft by Cosworth) and dry-sump lubrication system (Moroso 12-stage pump, Peterson Fluid Systems oil tank). Compression ratio increased to 13.5:1 with custom CNC-ported cylinder heads (flow-optimized by Shorrock Superchargers) and titanium intake valves (Ferrea Racing).",
+    "Forced Induction: Twin-screw supercharger system (Shorrock S6-1500 with 100mm billet throttle body) running 12psi of boost, paired with a custom intercooler setup (PWR Australia dual-core, 1000hp-rated) and a bespoke charge pipe network (aluminum 3.5\" piping with V-band clamps by Vibrant Performance). Fuel system upgraded to dual Bosch Motorsport 044 pumps, ID1700x injectors, and a Motec M150 ECU with custom lambda mapping for E85 compatibility.",
+    "Drivetrain & Chassis: 6-speed Graziano transaxle with a 2.93:1 final drive ratio, reinforced with a Quaife ATB differential and a Tilton triple-plate carbon clutch. Suspension overhaul includes Öhlins TTX46 coilovers with 3-way adjustable damping, custom uprated anti-roll bars (Eibach, 28mm front / 25mm rear), and spherical bearing conversion (SuperPro) for all control arms. Braking system features AP Racing CP9430 calipers (6-piston front, 4-piston rear) with 420mm carbon-ceramic rotors (Brembo CCMR) and Ferodo DS3000 pads."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon-fiber body kit by Touring Superleggera (Milan), including a custom front splitter with integrated dive planes, rear diffuser with active Gurney flap (adjustable via cockpit switch), and a fixed rear wing (NACA-profile, 3D-printed titanium supports). Underbody features a full-length flat floor with vortex generators (tested in Dallara wind tunnel).",
+    "Exterior: Bespoke paint scheme (\"Aston Racing Green\" by Standox, matte finish with high-gloss black accents) and carbon-fiber weave exposed on the roof, mirrors, and rear valance. Lightweight forged wheels (Dymag CX-5, 20x11\" front / 21x13\" rear) wrapped in Michelin Pilot Sport Cup 2 R tires (305/30 front, 355/25 rear). Custom laser-etched badges (\"Victor R\" script) by BBS Motorsport.",
+    "Interior: Full carbon-fiber monocoque (pre-preg autoclave construction by Prodrive) with Alcantara-wrapped Recaro Pole Position seats (carbon shell, 6-point Schroth harnesses). Steering wheel by MOMO (carbon-fiber, quick-release hub) with integrated Motec C127 dash display. Custom titanium roll cage (T45 steel, TIG-welded by Safety Devices) with removable door bars for FIA compliance. Audio system replaced with a lightweight Bluetooth setup (JL Audio HD600/4 amplifier, Focal Utopia Be tweeters)."
+  ]
+}

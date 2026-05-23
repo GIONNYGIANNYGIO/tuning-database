@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "A4 B7",
+  "prestazioni": [
+    "Engine: 2.0T FSI (BPJ/BPG) with a custom-built Garrett GT2860RS-5 turbocharger (0.63 A/R turbine housing, 56 trim compressor wheel) paired with a 60mm external wastegate (Tial MV-R) and a 3.5\" turbo-back exhaust system (Milltek Sport with 76mm mandrel-bent piping and a 100-cell GESI catalytic converter).",
+    "Fuel System: Upgraded Bosch 044 high-flow fuel pump (340 LPH) with Siemens DEKA 80lb/hr injectors (PN: 154500-1010), controlled via a Syvecs S6Plus standalone ECU with flex-fuel capability and a 3-bar MAP sensor for precise boost targeting (24psi peak on 98 RON + E85 blend).",
+    "Suspension & Handling: KW Clubsport coilovers (3-way adjustable, 400lb/in front springs, 500lb/in rear springs) with spherical bearing top mounts (034 Motorsport) and poly bushings (SuperPro 62mm front control arms, rear subframe inserts). Front sway bar upgraded to H&R 25mm adjustable, paired with OEM+ Audi RS4 B7 rear sway bar (22mm). Braking: Alcon 6-piston front calipers (355mm two-piece rotors) with Ferodo DS2500 pads and Goodridge G-Stop braided lines."
+  ],
+  "estetica": [
+    "Body Kit: OEM+ RS4 B7 front bumper (8P0 071 109 B) with carbon fiber splitter (Seibon CF) and custom 3D-printed ABS side skirts (modeled after the B7 RS4 but with extended rocker flares for staggered BBS CH-R II wheels: 8.5x18 ET35 front, 9.5x18 ET30 rear). Rear diffuser: custom 3-piece carbon fiber (AWE Tuning) with integrated exhaust cutouts for the Milltek system.",
+    "Aero: Custom carbon fiber hood (Seibon) with functional NACA ducts (relocated to feed the Garrett intercooler) and a fixed rear wing (Voltex Type-3, 1200mm width, 200mm height) mounted on custom aluminum pedestals (034 Motorsport). Side mirrors: OEM RS4 B7 carbon fiber (8E0 857 511 B) with integrated turn signals.",
+    "Interior: Full carbon fiber trim (Euro International) including door cards, center console, and dashboard inserts. Seats: Recaro Pole Position (Evo IX) with custom Alcantara upholstery (Sparco) and Schroth Profi II 6-point harnesses. Steering wheel: OMP 330mm suede with quick-release hub (NRG) and custom Audi RS4 B7 emblem. Gauges: Defi Advance BF (oil temp, oil pressure, boost) mounted in a custom A-pillar pod (P3Cars)."
+  ]
+}

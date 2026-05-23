@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN VULCAN",
+  "prestazioni": [
+    "Replace the factory 7.0L naturally aspirated V12 (AM29 engine code) with a bespoke RML Group-developed 8.0L V12 featuring a billet aluminum block, forged Mahle pistons (12.5:1 compression), and a dry-sump lubrication system with an ATL 12-liter oil tank to handle sustained 9,500 RPM redline under 1.5G lateral loads",
+    "Install a custom Pro Alloy Motorsport carbon-fiber intake manifold with individual throttle bodies (ITBs) per cylinder, paired with a Motec M190 ECU running a bespoke anti-lag strategy for instantaneous throttle response, and a titanium Akrapović 12-into-1 exhaust system with Inconel headers and a straight-pipe design to reduce backpressure by 42%",
+    "Upgrade the factory Xtrac 6-speed sequential transaxle with a Hewland NLT sequential gearbox featuring a magnesium casing, carbon-fiber clutch plates, and a Pankl Racing Systems titanium driveshaft to handle the 1,000+ Nm of torque, while integrating a Bosch Motorsport traction control system with 12-stage adjustability for track-specific grip mapping"
+  ],
+  "estetica": [
+    "Fit a full-carbon-fiber Vorsteiner Vulcan-specific widebody kit with integrated dive planes, a 3D-printed titanium rear diffuser, and a fixed rear wing with Gurney flaps adjustable via hydraulic actuators for dynamic downforce tuning (up to 1,700 kg at 200 mph)",
+    "Replace the OEM LED headlights with a custom Hella 90mm Bi-Xenon projector system featuring adaptive cornering lights and a laser high-beam module, while integrating a carbon-fiber front splitter with a built-in air curtain system to reduce front-end lift by 38% at 180 mph",
+    "Install a bespoke BBS FI-R forged magnesium wheel set (20x12 front, 21x13 rear) with center-locking titanium nuts, wrapped in Michelin Pilot Sport Cup 2 R tires (345/30 R20 front, 385/30 R21 rear) and paired with a custom AP Racing carbon-ceramic brake system featuring 420mm front rotors and 6-piston monobloc calipers with titanium pistons"
+  ]
+}

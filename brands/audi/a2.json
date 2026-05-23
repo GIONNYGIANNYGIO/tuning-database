@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "A2",
+  "prestazioni": [
+    "1.2 TDI (AMF engine) turbo upgrade to a BorgWarner EFR 6258 with custom 0.63 A/R turbine housing, paired with a custom 2.5\" stainless steel downpipe and a Vibrant 1290 silencer for optimized backpressure and torque delivery below 2500 RPM",
+    "OEM Bosch EDC15P+ ECU reflash via WinOLS with custom maps for 1800 bar injection pressure, 22° advanced timing, and EGT protection at 780°C, alongside a custom 3-bar MAP sensor from AEM for precise boost control",
+    "Custom billet aluminum intercooler core (300x150x76mm) by Wagner Tuning with integrated water spray nozzles, fed by a Pierburg CWA 100 auxiliary pump for consistent intake temps under sustained load"
+  ],
+  "estetica": [
+    "Full carbon fiber widebody conversion using a custom A2-specific Rocket Bunny RB-WB01 kit, modified to retain OEM door handles and side markers for homologation compliance",
+    "OEM+ LED headlight retrofit with Hella Dynamic Curve Lighting (DCL) modules, paired with custom Cree XHP50.2 projectors and a Morimoto D2S ballast system for 5500K color temperature",
+    "Custom 17\" BBS RS-GT wheels (7.5J ET25) with 205/40R17 Michelin Pilot Sport Cup 2 tires, powdercoated in Anthracite with hidden TPMS sensors and custom center caps featuring the AMF engine code"
+  ]
+}

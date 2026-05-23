@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "A1 QUATTRO",
+  "prestazioni": [
+    "Engine: 2.0L TFSI (CDLF) with a custom BorgWarner EFR 7670 turbocharger (76mm compressor, 67mm turbine) paired with a 034 Motorsport billet aluminum intake manifold and a custom 3.5\" titanium downpipe from Armytrix for reduced backpressure and optimized spool characteristics.",
+    "Drivetrain: Sachs Performance dual-mass flywheel (part #3000 950 030) and a Quaife ATB helical LSD (part #QDF7Z) for the front axle, combined with a Wavetrac limited-slip differential (part #WVT-AUD-001) for the rear to handle the increased torque (target: 450Nm at 3,500 RPM) without driveline bind.",
+    "Suspension: KW Clubsport 3-way coilovers (part #35241001) with adjustable top mounts from H&R (part #51654-1) and spherical bearing subframe collars from 034 Motorsport (part #034-011-103S) to eliminate subframe flex, paired with SuperPro bushings (part #SPF1049K) for the rear trailing arms to sharpen turn-in response."
+  ],
+  "estetica": [
+    "Aero: Custom carbon fiber widebody kit from Prior Design (PD-A1QWB) with integrated canards and a 3D-printed ABS rear diffuser from Maxton Design (part #MAX-A1Q-01), designed to work with the stock rear bumper for a seamless OEM+ look while reducing lift by 22% at 120mph (validated in CFD testing).",
+    "Wheels: BBS CI-R 18x9.5 ET35 (front) and 18x10.5 ET40 (rear) in a custom gold/polished finish, wrapped in Michelin Pilot Sport Cup 2 R tires (235/40/18 front, 265/35/18 rear) for optimal heat cycling and lateral grip (target: 1.25g on skidpad).",
+    "Interior: Full Alcantara retrim by Recaro (CS Sportster CS seats, part #24000 SPG) with custom door cards from Euro Design Werks (part #EDW-A1Q-DC) featuring integrated LED shift lights and a Momo Mod.78 steering wheel (part #00712420) with a quick-release hub from NRG Innovations (part #SRK-200B)."
+  ]
+}

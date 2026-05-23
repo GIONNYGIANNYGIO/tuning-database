@@ -1,0 +1,14 @@
+{
+  "brand": "ASTON",
+  "model": "MARTIN VANTAGE F1 EDITION",
+  "prestazioni": [
+    "AMR-developed 4.0L twin-turbocharged Mercedes-AMG M177 (internal code: M177 DE 40 AL HPP) with a custom Manthey Racing ECU flash (MR-001-VF1E) optimizing ignition timing and boost pressure to 1.6 bar (stock: 1.2 bar), paired with a Garrett GTX4202R turbocharger upgrade (hybrid billet wheel, 62mm compressor, 76mm turbine) and a full titanium Akrapovič Evolution Line exhaust system (4.5\" center section, dual 3.5\" outlets, valved bypass for F1-style crackle)",
+    "Ohlins TTX46 coilovers with 2-way adjustable damping (rebound/compression), custom valved for the Vantage F1 Edition’s carbon fiber anti-roll bars (front: 24mm, rear: 22mm) and paired with AST Sportline Type-5 spherical bearing upper mounts (replacing OEM rubber bushings) for sub-3Hz chassis resonance reduction",
+    "Mercedes-AMG Performance F1-spec carbon fiber driveshaft (8.5kg weight reduction vs. stock) coupled with a Wavetrac ATB differential (80% lockup under load) and a Quaife QDF15L torque-biasing front differential (45% preload) for neutral throttle response, complemented by Pagid RS29 brake pads (F1-derived compound) and 400mm front/380mm rear carbon-ceramic rotors with AP Racing CP8546 calipers (6-piston front, 4-piston rear)"
+  ],
+  "estetica": [
+    "RML Group F1-inspired front splitter with active Gurney flap (adjustable via cockpit switch, +120kg downforce at 200km/h) and a full carbon fiber RTR Aero GT3 rear wing (dual-element, 1,100mm span, +180kg downforce at 250km/h) with integrated DRS-style actuator for drag reduction",
+    "BBS FI-R 20x9.5\" (front) and 21x11.5\" (rear) forged wheels (ET35/ET40, 9.5kg per wheel) wrapped in Michelin Pilot Sport Cup 2 R tires (275/35 R20 front, 325/30 R21 rear) with custom Aston Martin Racing (AMR) center-lock adapters (M14x1.5 thread, titanium hardware)",
+    "Full carbon fiber Vorsteiner V-FF1000 widebody kit (2.5\" fender flares, OEM-matched paint with satin clear coat) paired with a custom AMR-spec livery (F1 Safety Car-inspired matte British Racing Green with neon yellow accents, hand-painted by Sikkens) and a titanium bolt-on roll cage (TIG-welded, 6-point, 12kg weight) by Safety Devices"
+  ]
+}

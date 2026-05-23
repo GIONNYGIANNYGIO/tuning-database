@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "A4 B5 1.8T",
+  "prestazioni": [
+    "Engine: 1.8T (engine code: **AWM** for 2001+ models or **AEB/AGU** for pre-2001) – forged internals upgrade with **Mahle Motorsport 83mm forged pistons** (8.5:1 compression) and **Manley H-beam connecting rods** (2000HP-rated) to handle 400+ HP reliably. Pair with **ARP 2000 head studs** and **Cometic MLS head gasket** (0.051\" thickness) for boost resilience up to 30 PSI.",
+    "Turbocharger: **Garrett GT3076R Gen II** (0.82 A/R turbine housing, 76mm compressor) with **Tial 44mm external wastegate** (V-band flange) and **TurboSmart Race Port BOV** (adjustable dual-port). Custom **02A 6-speed gearbox** reinforcement with **South Bend Stage 3 Daily Clutch** (organic/ceramic hybrid) and **01E LSD (Quattro GmbH torsen differential)** for power delivery.",
+    "Fuel & Ignition: **Bosch 044 high-flow fuel pump** (255 L/hr) with **Siemens DEKA 80lb/hr injectors** (low-impedance, ethanol-compatible) and **AEM 340lph in-tank pump** for E85 blends. **Megasquirt MS3Pro PNP ECU** with **LS coil-on-plug conversion** (D585 coils) and **NGK 97506 Iridium IX spark plugs** (0.024\" gap) for precise timing control under 3+ bar boost."
+  ],
+  "estetica": [
+    "Body: **Rocket Bunny V1 B5 A4 widebody kit** (carbon fiber fenders, 30mm extended flares) with **custom 5x112 90mm wheel spacers** (H&R or KW) to fit **BBS RS-GT 9.5x17 ET25 wheels** (87.1mm center bore) wrapped in **Michelin Pilot Sport Cup 2 235/40/17 tires**. **OEM+ Euro-spec clear corners** (Hella or Depo) with **Lux H8 V4 LED bulbs**.",
+    "Aero: **APR Carbon Fiber GT-250 rear wing** (3D-printed endplates, 600mm chord) mounted on **custom aluminum pedestals** (120mm height) for optimal rear downforce. **Custom front splitter** (3K twill carbon, 50mm overhang) with **aluminum support rods** (6061-T6) and **Vortex Generators** (3M 4950 VHB tape-mounted) on the hood for airflow separation control.",
+    "Interior: **Recaro SRD-E bucket seats** (FIA 8862-2009 certified) with **Schroth Profi II 6-point harnesses** (ASM homologation). **Momo Prototipo 330mm steering wheel** (suede, 6-bolt quick-release) and **Defi BF Advance gauges** (3.5\" oil temp, boost, and AFR) mounted in a **custom aluminum A-pillar pod** (powder-coated satin black). **Sound deadening removal** (full interior strip) with **Dynamat Xtreme** applied to firewall and floor pans for weight reduction."
+  ]
+}

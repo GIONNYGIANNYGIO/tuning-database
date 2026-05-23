@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "A4 AVANT S LINE",
+  "prestazioni": [
+    "Engine: 2.0L TFSI (EA888 Gen 3B, **CZPA** engine code) – Full **APR Stage 2+ ECU/TCU Software** with **APR Carbon Fiber Intake System**, **CTS Turbo 3.5\" Turbo Inlet Pipe**, and **034 Motorsport High-Flow Catted Downpipe** (200-cell), pushing **380 HP / 480 Nm** on **98 RON fuel** with **Dynojet-verified** 0.85 bar boost (stock turbo, **IS38**).",
+    "Drivetrain: **034 Motorsport Differential Mount Inserts (80A durometer)** + **South Bend Clutch Stage 2+ (DMF) with uprated pressure plate** for **EA888 Gen 3B** applications, paired with **Audi S4 (B9) 3.0T rear differential (0BX, 3.456 ratio)** for improved torque split and launch control optimization.",
+    "Suspension: **Ohlins Road & Track DFV Coilovers (Audi A4 B9-specific valving)** with **034 Motorsport Front Sway Bar (25mm, adjustable)** and **H&R Rear Sway Bar (22mm)**, combined with **Bilstein B16 PSS10 dampers (B9 Avant-specific)** for track-day compliance. **Whiteline Adjustable Rear Toe Arms (KTA103)** for aggressive camber correction (-2.5° front, -2.0° rear)."
+  ],
+  "estetica": [
+    "Aero: **Rocket Bunny V3 Widebody Kit (B9 Avant-specific)** with **custom 3M Matte Graphite Wrap (2080-25)** and **Vorsteiner V-FF107 20\" Forged Wheels (ET35, 9.5J front / 10.5J rear)** in **Gunmetal Finish**, wrapped in **Michelin Pilot Sport Cup 2 R (255/30/20 front, 285/30/20 rear)** for staggered fitment.",
+    "Exterior: **Audi Sport S-Line Black Optic Package (8W0)** with **debadged grille (Euro-spec)**, **LED Matrix Headlights (8WH) with LUX HID Retrofit (5500K, Morimoto XB35)** and **custom carbon fiber side skirts (Seibon CF, OEM+ fitment)**. **Rear diffuser: Maxton Design MD1 (B9 Avant, 3D-printed ABS)** with **dual 90mm titanium exhaust tips (Akrapovic Slip-On, EA888-specific)**.",
+    "Interior: **Recaro Sportster CS (A4 B9-specific, Alcantara/Leather)** with **custom red stitching (Conolly Hide)**, **Momo Prototipo Steering Wheel (350mm, suede)** + **NRG Quick Release Hub**, and **AEM X-Series Wideband AFR Gauge (30-0300, mounted in **Audi Virtual Cockpit via **OBDeleven Pro** coding). **Full interior LED swap (VLEDS 6000K, footwell/door/dome)."
+  ]
+}

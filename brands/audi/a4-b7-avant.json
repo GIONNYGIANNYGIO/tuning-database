@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "A4 B7 AVANT",
+  "prestazioni": [
+    "Engine: 2.0T FSI (BPJ/BPG) – Full forged internals with Mahle Motorsport forged pistons (83mm, 9.5:1 CR), Eagle H-beam connecting rods, and ARP L19 head studs. Turbo upgrade to Garrett GTX3071R Gen II with 0.86 A/R turbine housing, custom 3-inch downpipe (catless), and TTE500 hybrid intercooler (700whp capable).",
+    "Fuel System: Bosch Motorsport 044 high-flow fuel pump, Injector Dynamics ID1050x injectors, and AEM 320LPH ethanol-compatible fuel regulator. Custom ECU tune via Syvecs S6Plus standalone with flex-fuel capability and launch control (350whp on pump gas, 450whp on E85).",
+    "Drivetrain: 034 Motorsport Stage 3 clutch kit (multi-plate, 600Nm torque capacity) paired with a Sachs Performance dual-mass flywheel conversion. Quaife ATB helical LSD for the B7’s 01J multitronic CVT (or 6-speed manual swap with 02M transmission and OS Giken 1.5-way LSD for manual variants)."
+  ],
+  "estetica": [
+    "Body Kit: Prior Design PD800RS widebody conversion with carbon fiber front splitter, side skirts, and rear diffuser (OEM+ fitment, no cutting required). Custom rear roof spoiler in dry carbon fiber (20mm taller than OEM Avant spoiler) by Status Gruppe.",
+    "Wheels: BBS RS-GT II 9x19 ET35 (front) and 10x19 ET40 (rear) in 5x112 PCD, wrapped in Michelin Pilot Sport Cup 2 R tires (245/35/19 front, 275/30/19 rear). Custom center-lock adapters by H&R for quick-swap capability.",
+    "Suspension: KW Clubsport 3-way coilovers with remote reservoirs, adjustable camber plates (front), and custom subframe reinforcement plates by 034 Motorsport. Polyurethane bushings (full set) from SuperPro, including differential mounts and rear trailing arm bushings for improved power transfer."
+  ]
+}
