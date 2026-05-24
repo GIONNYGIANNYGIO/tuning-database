@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "RS6 PERFORMANCE",
+  "prestazioni": [
+    "Upgrade to a **Garrett GTX5533R Gen II** turbocharger (hybrid billet wheel) paired with a **Precision Turbo & Engine 7675** ball-bearing center housing for the **C7.5 4.0T EA825** engine, supporting 850+ HP on E85 with a **Forge Motorsport** ported and polished cylinder head (flow-optimized for the RS6’s cross-plane crankshaft)",
+    "Full **APR Stage 3+** ECU/TCU calibration with **Bosch Motorsport 0261S02088** high-flow fuel injectors, **AEM 30-0334** ethanol content sensor, and **Motec M150** piggyback for real-time boost mapping (targeting 2.2 bar peak pressure with **IHI IS38** compressor map optimization)",
+    "Custom **034 Motorsport** billet aluminum crankshaft pulley, **Vibra-Technics** solid engine mounts, and **034 Motorsport** transmission mount insert for the **DL501 8-speed ZF** gearbox, paired with a **South Bend Clutch Stage 4** dual-disc setup (rated for 1,000 Nm torque) and **Wavetrac ATB differential** for the rear axle"
+  ],
+  "estetica": [
+    "**Rocket Bunny V3** widebody kit (RS6-specific CFRP fenders, front splitter, and GT-style rear wing with **AIMOLER** carbon fiber canards), designed for the C7.5’s 2,993mm wheelbase and **OEM Audi Sport** laser headlight compatibility",
+    "**Vorsteiner V-FF107** forged 21x10.5 ET30 front and 21x12.5 ET45 rear wheels (staggered fitment) with **Michelin Pilot Sport Cup 2 R** 295/25R21 and 325/25R21 tires, paired with **KW Suspension V5** coilovers (3-way adjustable damping, 40mm drop) and **H&R** 30mm spacers for flush fitment",
+    "**Akrapović Evolution** titanium exhaust system (quad 100mm tips, **valvetronic bypass** for CEL-free operation) with **REMUS** downpipes (de-catted, 304 stainless steel) and **AWE Tuning** electronic exhaust valve controller (mapped to **Audi Drive Select** modes)"
+  ]
+}

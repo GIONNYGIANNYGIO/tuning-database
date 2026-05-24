@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "RS6 C8",
+  "prestazioni": [
+    "Full bolt-on turbo upgrade to **Garrett GTX5533R Gen II** turbos (hybrid billet wheels, 76mm compressor, 67mm turbine) for the **CWUB 4.0L V8 TFSI** engine, paired with **Precision Turbo & Engine 7675 Gen2** wastegates and **TurboSmart Race Port BOV** (dual-port) to handle 850+ HP on **Motec M150 ECU** standalone management with **AEM CD-7** dash integration for real-time boost and AFR monitoring.",
+    "Custom **Wagner Tuning Competition** front-mount intercooler (4.5L core volume, 1000HP-rated) with **Mishimoto silicone hoses** (4-ply, reinforced) and **Forge Motorsport** catch can system (dual-stage, 1L capacity) to eliminate oil vapor ingestion under sustained 2.5+ bar boost conditions.",
+    "Full **APR Stage 3+** fuel system overhaul: **Bosch Motorsport 0280158888** high-flow injectors (1,500cc/min), **Walbro 450 LPH** in-tank fuel pump (dual-pump setup with **AEM 34002** external controller), **Radium Engineering** port injection kit (secondary **ID1700x** injectors), and **Audi Sport** high-pressure fuel pump (C8-specific, 200 bar capable) with **Injector Dynamics** flex-fuel sensor for E85 compatibility."
+  ],
+  "estetica": [
+    "Full **Liberty Walk LB Works RS6 C8** widebody kit (carbon fiber, bolt-on fenders with 50mm extended flares) paired with **Vorsteiner V-FF107** forged carbon fiber front splitter and **Rocket Bunny** GT-style rear diffuser (3D-printed ABS, 50% larger than OEM).",
+    "**OEM+** **Audi Sport ABT RS6-R** carbon fiber mirror caps (painted Nardo Gray) with **Vland** sequential LED turn signals (C8-specific, plug-and-play) and **HRE FF03** 22x11.5 ET35 forged wheels (matte black, 5x112 PCD) wrapped in **Michelin Pilot Sport Cup 2 R** (305/25R22).",
+    "**Milltek Sport** full titanium exhaust system (4.5-inch tips, valved, C8-specific routing) with **Akrapovic** carbon fiber rear diffuser insert (dual-layer, heat-resistant) and **Audi Sport** carbon fiber engine cover (laser-etched RS6 logo, clear-coated)."
+  ]
+}

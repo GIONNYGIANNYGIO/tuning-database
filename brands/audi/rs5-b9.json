@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "RS5 B9",
+  "prestazioni": [
+    "Upgrade to a **Garrett GTX3582R Gen II turbocharger** (hybrid) for the **CWGD 2.9L V6 TFSI** engine, paired with a **Forge Motorsport high-flow intercooler** (RS5 B9-specific core, 12-row design) and **034 Motorsport billet aluminum charge pipes** to eliminate stock plastic failure points under 550+ HP targets.",
+    "Full **APR Stage 3+ ECU/TCU calibration** (utilizing **Bosch MED17.1.1** ECU) with **custom ethanol mapping** (E60-E85) via **Syvecs S8 Plug & Play** standalone for precise boost control (32 psi peak) and **Motec PDM15** for auxiliary power distribution, eliminating stock fuse box limitations.",
+    "Installation of a **Wagner Tuning Competition downpipe** (3.5\" diameter, catless, T304 stainless steel) with **Akrapovič Evolution Line exhaust** (dual 3.5\" titanium tips, RS5-specific valvetronic bypass) and **034 Motorsport high-flow catalytic converters** (200-cell, 1.5g/s flow rate) to maintain emissions compliance while reducing backpressure by 42%."
+  ],
+  "estetica": [
+    "**Rocket Bunny V3 widebody kit** (RS5 B9-specific, carbon fiber fenders with 50mm extended wheel arches, front bumper with integrated canards, and rear diffuser with dual exhaust cutouts) paired with **Vorsteiner V-FF107 forged wheels** (20x10.5 ET32 front, 20x12 ET40 rear, 5x112 PCD) and **Michelin Pilot Sport Cup 2 R tires** (275/30/20 front, 305/30/20 rear).",
+    "**Ohlins Road & Track coilovers** (RS5 B9-specific, 3-way adjustable damping, 40mm front/36mm rear spring rates) with **034 Motorsport sway bars** (25mm front, 22mm rear, adjustable end links) and **H&R lowering springs** (20mm drop, progressive rate) for optimized roll stiffness without sacrificing ride quality.",
+    "**Vorshlag Motorsport carbon fiber hood** (RS5 B9-specific, 50% weight reduction, integrated NACA ducts for brake cooling) and **AWE Track Edition grille** (blacked-out honeycomb, RS5-specific mounting brackets) with **LED Angel Eyes** (Lux H8 V4, 6000K, error-free coding via OBDeleven Pro)."
+  ]
+}

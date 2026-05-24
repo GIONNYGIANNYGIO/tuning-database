@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "RS4 COMPETITION",
+  "prestazioni": [
+    "Full bolt-on turbo upgrade utilizing Garrett GT35R twin-scroll turbos (hybridized with billet compressor wheels) for the 2.9L TFSI V6 (engine code: **DDWA**) to achieve 650+ WHP on E85, paired with a custom **034 Motorsport** billet aluminum intake manifold with port-matched runners and a **Precision Turbo** 46mm wastegate for precise boost control (targeting 2.2 bar peak pressure).",
+    "Full **APR Stage 3+** ECU/TCU calibration with **Motec M150** standalone integration for flex-fuel mapping, **Bosch Motorsport** 1,000cc high-impedance injectors, and a **Forge Motorsport** dual-catch can system to manage crankcase pressure under extreme boost (preventing oil vapor ingestion into the intake tract).",
+    "Drivetrain reinforcement via **034 Motorsport** billet differential carrier with **Wavetrac** helical LSD (40% lockup under load), **South Bend Clutch** twin-disc organic/metallic hybrid clutch (rated for 800 lb-ft), and **H&R** 25mm wheel spacers to optimize track-width for **BBS LM** 19x11 ET25 wheels with **Michelin Pilot Sport Cup 2** tires (285/30/19 front, 305/30/19 rear)."
+  ],
+  "estetica": [
+    "**Rocket Bunny V3** widebody conversion kit (B8.5-specific) with carbon fiber fenders, custom **Audi Sport**-inspired front splitter with **Vorsteiner** canards, and a **Seibon** carbon fiber hood (weight reduction: 12kg) featuring a **VRSF** dual-core intercooler with integrated carbon fiber end tanks.",
+    "**OEM+** RS4 Competition-specific **Akrapovič Evolution** titanium exhaust system with quad 100mm tips (replacing the stock valved setup) and **AWE Tuning** electronic exhaust bypass valves for on-demand backpressure tuning, paired with a **Milltek Sport** secondary cat-delete section for optimized flow.",
+    "**KW Suspension** Clubsport coilovers (3-way adjustable damping, 400lb front/500lb rear spring rates) with **H&R** 20mm front/15mm rear sway bars, **SuperPro** poly bushings (full subframe and control arm refresh), and **Brembo GT-R** 6-piston calipers with **380mm two-piece rotors** (floating design) for track endurance."
+  ]
+}

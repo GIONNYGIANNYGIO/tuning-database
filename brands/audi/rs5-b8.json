@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "RS5 B8",
+  "prestazioni": [
+    "Engine: 2.9L V6 TFSI (CGPB) with a custom Stage 2+ ECU remap by APR (software version APR93000002) targeting 480 HP and 470 lb-ft torque, utilizing a high-flow carbon fiber intake system from Eventuri (RS5 B8-specific) and a custom 3.5-inch downpipe with GESI catted section for optimized spool and flow",
+    "Forced Induction: Hybrid turbo upgrade using a Garrett GTX3076R Gen II turbocharger (84 trim compressor, 62 trim turbine) with billet compressor wheel, paired with a custom RS5 B8-specific turbo manifold by INA Engineering (TIG-welded 304 stainless steel, equal-length runners) and a TiAL MV-R 44mm external wastegate for precise boost control (targeting 22 psi peak boost)",
+    "Suspension & Handling: Full Ohlins Road & Track DFV coilover kit (RS5 B8-specific, part #OH-RS5-B8-DFV) with 8-position adjustable compression/rebound damping, custom valving for 700 lb/in front and 800 lb/in rear spring rates, and adjustable camber plates (0 to -4 degrees front, -1.5 to -3.5 degrees rear). Paired with H&R RS5 B8-specific 20mm front and 15mm rear sway bars (hollow core, adjustable end links) and polyurethane subframe bushings by 034 Motorsport (part #034-011-011S)"
+  ],
+  "estetica": [
+    "Aero: Full Rocket Bunny RS5 B8 widebody kit (Pandem RS5-001) with carbon fiber front fenders (2.5-inch wider), rear quarter panels (3-inch wider), and custom 3D-printed ABS rear diffuser with integrated carbon fiber strakes. Front splitter is a custom 3-piece carbon fiber unit by Varis (RS5 B8-specific, adjustable angle) with integrated canards (25mm) and a carbon fiber hood (RS5 B8-specific, vented, by Seibon Carbon, part #CF-AU-11RS5-HOOD)",
+    "Wheels & Tires: Custom 20x10.5 ET25 front and 20x12 ET40 rear forged wheels by Rotiform (LAS-R model, 5x112 PCD, 72.6mm CB, matte bronze finish) wrapped in Michelin Pilot Sport Cup 2 R tires (275/30/20 front, 305/25/20 rear). Brake system features 405mm front and 370mm rear two-piece rotors by DBA (5000 Series, slotted, part #52612XS) with Alcon 6-piston front and 4-piston rear calipers (RS5 B8-specific, anodized gold, part #ALC-KS-RS5-FR/RR)",
+    "Exterior & Lighting: Full custom paint in Lamborghini Verde Ithaca (3-stage pearl, PPG DBC base) with matte black RS5 B8-specific side skirts by Maxton Design (part #MX-SS-001) and a custom rear wing (3D carbon fiber, 1,200mm width, adjustable angle, by 991R). Lighting upgrades include LUX V3 HID projector retrofit (5500K, RS5 B8-specific, part #LUX-HID-RS5-B8) with custom LED angel eyes (Philips Ultinon Pro9000, 6000K) and a custom sequential LED taillight setup by Tru-Form (RS5 B8-specific, plug-and-play, part #TF-RS5-B8-TL)"
+  ]
+}

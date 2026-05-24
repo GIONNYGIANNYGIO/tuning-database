@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "S2 COUPE",
+  "prestazioni": [
+    "Engine: 3B (2.2L 20V I5) with forged internals including Mahle Motorsport pistons (83.5mm bore, 8.5:1 CR), Carrillo H-beam connecting rods, and a fully balanced crankshaft by VAC Motorsports for 8,500 RPM reliability. Turbocharger upgrade to a Garrett GT35R with a custom 0.82 A/R turbine housing and 60mm compressor wheel, paired with a custom 3-inch stainless steel downpipe by Milltek Sport and a GReddy Profec B Spec II boost controller targeting 1.5 bar (21.7 psi) peak boost.",
+    "Fuel System: Upgraded to a Bosch 044 high-flow fuel pump, Siemens DEKA 80lb/hr injectors, and a custom fuel rail by Forge Motorsport. ECU remapped via a standalone AEM Infinity 7 with custom 3B-specific maps, including individual cylinder trimming and launch control optimized for the S2's quattro drivetrain. Additional water-methanol injection via Snow Performance Stage 3 kit with dual nozzles for charge cooling and detonation suppression.",
+    "Drivetrain & Suspension: Quattro drivetrain reinforced with a 034 Motorsport lightweight aluminum differential cover and a Quaife ATB helical LSD (part #QDF7Z) for the front axle. Suspension overhaul with Ohlins Road & Track coilovers (part #DFV 02) featuring 8-position adjustable rebound damping and 24-position adjustable compression, paired with Eibach Pro-Spacer wheel spacers (20mm front, 25mm rear) for optimal track alignment. Braking system upgraded to AP Racing 6-piston calipers (part #CP6150-1S) with 355mm two-piece rotors and Ferodo DS2500 pads, complemented by Goodridge G-Stop braided stainless steel brake lines."
+  ],
+  "estetica": [
+    "Body Kit: Full Rocket Bunny V1 widebody conversion (part #RB-AUDI-S2) with carbon fiber overfenders, front canards, and a ducktail spoiler. Front bumper replaced with a custom 90s WRC-inspired design by Kamei, featuring integrated Hella 500 driving lights and a carbon fiber splitter with adjustable dive planes. Rear diffuser by Seibon Carbon for improved aerodynamics.",
+    "Wheels & Tires: BBS LM-R wheels (8.5x17 ET35 front, 9.5x17 ET25 rear) in gold finish, wrapped in Michelin Pilot Sport Cup 2 tires (235/40/17 front, 265/35/17 rear). Custom center caps with Audi Sport quattro S1-inspired 'S2' badging and titanium wheel bolts by H&R.",
+    "Interior: Full Recaro SRD-E bucket seats (part #SRD-E-90) with Schroth 6-point harnesses, mounted on custom aluminum seat rails by Wiechers Sport. Dashboard and door cards reupholstered in Alcantara with red stitching by Royal Steering Wheels, featuring a Momo Prototipo 350mm suede steering wheel. Custom gauge cluster by Defi with 60mm oil pressure, boost, and wideband AFR gauges, mounted in a carbon fiber pod."
+  ]
+}

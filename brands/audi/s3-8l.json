@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "S3 8L",
+  "prestazioni": [
+    "AGU 1.8T engine (engine code: AGU) upgraded with a Garrett GT2860RS-5 turbocharger (0.64 A/R turbine housing) paired with a custom 3-inch downpipe featuring a Bellmouth design and a 200-cell catalytic converter from Milltek Sport for optimized exhaust flow and reduced backpressure.",
+    "Forged internals from Mahle Motorsport including 83mm forged pistons (9.5:1 compression), H-beam connecting rods from Eagle Specialty Products, and a billet crankshaft from Manley Performance, all balanced to 2 grams and paired with ARP Custom Age 625+ head studs and main studs for 400+ hp reliability.",
+    "Custom ECU remapping via APR Stage 3+ software (specific to AGU engine with K04 hybrid turbo compatibility) utilizing a Cobb Accessport V3 for real-time monitoring, with a custom ethanol fueling system from Fuel-It! (E85 compatible) including a 1000cc/min port-injection kit and a Walbro 450 LPH in-tank fuel pump."
+  ],
+  "estetica": [
+    "Full carbon fiber widebody conversion using the Oettinger WBX kit (specific to 8L chassis) with custom front fenders extended by 30mm and rear quarter panels extended by 40mm, paired with a custom vented hood from Maxton Design featuring dual NACA ducts for AGU intercooler cooling.",
+    "Ohlins Road & Track coilovers (8L-specific valving) with adjustable camber plates from H&R and spherical bearing top mounts from 034 Motorsport, paired with polybushings from SuperPro (part numbers SPF1105K and SPF1106K) for precise suspension geometry and reduced compliance.",
+    "Full aero package from JE Design including a GT-style front splitter (8L-specific mounting points), a carbon fiber rear diffuser with integrated tow hook cover, and a custom 100mm rear spoiler extension (adjustable angle) for high-speed stability, finished in Audi Nogaro Blue (LY7W) with matte clear coat."
+  ]
+}

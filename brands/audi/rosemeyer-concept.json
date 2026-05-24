@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "ROSEMEYER CONCEPT",
+  "prestazioni": [
+    "Engine swap to a heavily modified 6.0L W12 (engine code: **BHT**) from the Audi A8 W12, bored to 6.2L with forged internals (Mahle pistons, Carrillo H-beam rods, and a billet crankshaft) for a target of 750HP on E85 fuel. Turbocharged via twin **Garrett GTX5533R** turbos with custom 4-inch titanium downpipes and a **Tial MV-R 60mm** wastegate setup, paired with a **Motec M190 ECU** for full flex-fuel and boost-by-gear mapping.",
+    "Full **APR Stage 4+** W12-specific fuel system upgrade, including **Bosch Motorsport 2000cc injectors**, dual **Walbro 450LPH** in-tank pumps, and a **Radium Engineering** surge tank with a **AEM X-Series** wideband controller for real-time AFR monitoring. Custom **Pectel SQ6M** standalone ECU integration for traction control and launch control via **Audi RS6 (C7) quattro** rear differential with **Wavetrac** limited-slip differential.",
+    "Suspension overhaul with **Öhlins TTX46** coilovers (custom valved for the Rosemeyer’s 1,800kg weight), **H&R** 25mm front and 20mm rear anti-roll bars, and **Brembo GT-R** 6-piston calipers with **380mm two-piece rotors** (floating design) up front, paired with **Ferodo DS3.1** race pads. Chassis reinforcement via **034 Motorsport** subframe collars and **Audi Sport** factory carbon fiber torque tube bracing."
+  ],
+  "estetica": [
+    "Full **Liberty Walk LB-WORKS** widebody kit (Rosemeyer-specific, not the generic LB03) with **custom 3D-printed ABS** fender flares to accommodate **20x12 ET15** (front) and **21x13 ET5** (rear) **BBS LM** wheels in a **Gunmetal/Matte Bronze** finish, wrapped in **Michelin Pilot Sport Cup 2 R** (285/30 front, 325/25 rear).",
+    "Carbon fiber **Audi Sport** (in-house) front splitter with **Gurney flap** and **custom aluminum canards** (inspired by the original Rosemeyer’s aero), paired with a **Rocket Bunny** duckbill rear wing (carbon fiber, adjustable angle) mounted on **Audi R8 GT** carbon fiber wing supports. Full **PPF (Paint Protection Film)** in **XPEL Stealth** over the **Audi Exclusive ‘Ming Blue Pearl’** paint.",
+    "Interior stripped and rebuilt with **Recaro Pole Position** seats (carbon fiber shells, Alcantara/leather upholstery), **Schroth Profi II 6-point harnesses**, and a **MOMO Mod.70** steering wheel (suede, 350mm diameter) on a **NRG** quick-release hub. **AEM CD-7** digital dash with **Audi Sport** logo startup animation, integrated with **AEM EGT/boost sensors** and **RaceGrade** GPS lap timer. Custom **LED ambient lighting** (Audi OEM-spec) in **‘Laser Blue’** hue, synced to engine RPM via **Philips Hue** integration."
+  ]
+}

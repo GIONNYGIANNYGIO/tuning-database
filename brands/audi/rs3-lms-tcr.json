@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "RS3 LMS TCR",
+  "prestazioni": [
+    "Engine: 2.0L TFSI (EA888 Gen3, **DNWA** code) with **Garrett G25-550** turbocharger (1.28 A/R, 550hp capable compressor map) and **Mahle Motorsport forged pistons** (9.5:1 CR, DLC-coated skirts) for 450hp/500Nm in TCR-spec trim with **Bosch Motorsport MS5.1 ECU** reflash (TCR-mandated 30mm restrictor bypass via **AP Racing 4-piston calipers** with carbon-ceramic rotors for heat management).",
+    "Drivetrain: **Hewland 6-speed sequential gearbox (FL200)** with **Pankl Racing Systems titanium driveshafts** and **Drexler Motorsport limited-slip differential (2.5-way, 70% lock)** paired with **BorgWarner Haldex Gen5 coupling** (0-100% torque vectoring in 15ms).",
+    "Suspension: **Öhlins TTX40 2-way adjustable dampers** (32-click rebound, 24-click compression) with **Eibach ERS coilovers (400lb/in front, 350lb/in rear)** and **Audi Sport TCR-specific subframe reinforcements** (aluminum alloy, 18% stiffer than OEM). **Uniball spherical bearings** (SuperPro) replace all OEM bushings for sub-0.5° deflection at 1.5G cornering."
+  ],
+  "estetica": [
+    "Aerodynamics: **APR Performance TCR-spec front splitter (carbon fiber, 3D-printed honeycomb core)** with **Voltex Type-3 rear wing (1,200mm span, 30mm Gurney flap)** and **Audi Sport TCR underbody diffuser (CFRP, 3-stage venturi tunnels)** for 1,800lbs downforce at 120mph (20% more than OEM).",
+    "Body: **Rocket Bunny V3 widebody kit (pre-preg carbon, 60mm flares)** with **Audi Sport TCR-spec polycarbonate windows (3mm thick, 40% weight reduction)** and **PPG Global Reflections ‘LMS Silver’ paint (nano-ceramic clearcoat, 9H hardness)**.",
+    "Wheels: **BBS FI21R (18x10.5 ET45 front, 18x11 ET50 rear)** in **Forgeline FT-5** design with **Pirelli P Zero Trofeo R (265/645R18 front, 285/645R18 rear)** tires (200 treadwear, TCR-compound). **HRE FlowForm centerlock adapters** for 30% faster pit stops."
+  ]
+}

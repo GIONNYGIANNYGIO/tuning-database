@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "RS4 B5",
+  "prestazioni": [
+    "Engine: 2.7L twin-turbo V6 (engine code: **ASJ**) upgraded with **Garrett GT2867 .82 A/R turbochargers** (hybrid billet wheels, 62mm inducer, 76mm exducer) paired with **Tial MV-R 44mm external wastegates** (set to 1.4 bar peak boost) and **Precision Turbo 45mm V-band downpipes** (304 stainless, ceramic-coated).",
+    "Fuel System: **Bosch Motorsport 0280158862 1,000cc/min high-impedance injectors** (dead-time corrected via **Syvecs S6Plus standalone ECU**), **Walbro 450 LPH in-tank fuel pump** (with **Radium Engineering surge tank**), and **AEM X-Series wideband O2 sensors** (pre- and post-cat, logged at 20Hz).",
+    "Drivetrain: **034 Motorsport Stage 3 clutch kit** (6-paddle sprung disc, 2,800Nm torque capacity) with **South Bend billet flywheel**, **Quattro GmbH RS6-spec 4.11:1 rear differential** (limited-slip, 40% lockup), and **034 Motorsport solid subframe bushings** (polyurethane, 80A durometer)."
+  ],
+  "estetica": [
+    "Body: **Rocket Bunny V1 RS4 B5 widebody kit** (pre-preg carbon fiber, 30mm extended fenders, custom front splitter with **APR GT-250 canards**) and **OEM+ RS6-style rear bumper** (with **Maxton Design GT-style diffuser** and **Akrapović titanium exhaust tips**).",
+    "Wheels: **BBS LM-R 18x9.5 ET25 (front) / 18x10.5 ET30 (rear)** (custom concave, 5x112 PCD) wrapped in **Michelin Pilot Sport Cup 2 R** (245/35/18 front, 275/30/18 rear) with **H&R TRAK+ 25mm spacers** (hub-centric, 15mm bolts).",
+    "Interior: **Recaro Pole Position II seats** (Schroth 6-point harnesses, **Sparco 30mm seat sliders**), **Momo Prototipo 350mm steering wheel** (suede, 3-spoke, **NRG quick-release hub**), and **AEM CD-7 dash** (replacing stock cluster, logging **Bosch Motorsport 0 261 230 049 oil pressure/temp sensors**)."
+  ]
+}

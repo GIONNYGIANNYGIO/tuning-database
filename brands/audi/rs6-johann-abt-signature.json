@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "RS6 JOHANN ABT SIGNATURE",
+  "prestazioni": [
+    "ABT Sportsline C8 RS6-specific ECU remap for the C7.5-derived 4.0L TFSI V8 (engine code: CWUB) with Stage 2+ calibration, targeting 780 HP and 750 lb-ft torque via upgraded fueling (ABT-spec 1,000cc injectors, high-pressure fuel pump from the RS Q8), and custom ABT turbo back exhaust with 3.5\" titanium-coated downpipes and quad 102mm carbon fiber tips",
+    "Garrett GTX4271R turbochargers (hybrid billet wheel, 62mm compressor, 71mm turbine) with ABT-spec billet compressor housings, paired with custom ABT intercooler (12-row core, 100% aluminum construction, 3.5L capacity) and silicone charge pipes reinforced with Kevlar weave for 1.5-bar peak boost",
+    "ABT RS6-specific suspension overhaul: Ohlins Road & Track coilovers (3-way adjustable damping, 20-way rebound, 12-way compression, 30mm drop), ABT-engineered front sway bar (24mm hollow, adjustable end links), and ABT rear subframe reinforcement plates with integrated polybushings for C8 platform rigidity"
+  ],
+  "estetica": [
+    "ABT RS6 Signature Edition widebody kit (carbon fiber fenders, front splitter, and rear diffuser with integrated LED light bar), extending front track by 30mm and rear by 40mm, paired with ABT-spec 22\" forged alloy wheels (10.5\" front, 12.5\" rear) wrapped in Michelin Pilot Sport Cup 2 R tires (275/30 front, 325/25 rear)",
+    "ABT RS6-specific carbon fiber engine cover with integrated LED ambient lighting (RGB, 16.8 million colors, app-controlled via ABT Connect), and ABT-branded billet aluminum oil cap with engraved \"Johann Abt Signature\" script",
+    "ABT RS6 rear wing (carbon fiber, dual-element, 1,200mm span, adjustable angle via ABT app) with integrated third brake light and ABT-spec carbon fiber side skirts with aerodynamic vortex generators, reducing lift by 35% at 200 km/h"
+  ]
+}

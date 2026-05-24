@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "QUATTRO S1 E2 PIKES PEAK",
+  "prestazioni": [
+    "Engine: 2.1L Inline-5 (engine code: **RR 20V Turbo**, Group B homologation spec) with forged internals, billet crankshaft, and Mahle Motorsport forged pistons (9.0:1 compression ratio) for 600+ HP at 1.5 bar boost on 102-octane race fuel.",
+    "Turbocharger: **Garrett GT4202R (88mm inducer, 1.06 A/R turbine housing)** with custom water-meth injection (Snow Performance Stage 3 kit) to combat intake temps during Pikes Peak’s thin air conditions.",
+    "Drivetrain: **Hewland 5-speed dog-ring transmission** with Quaife ATB differential (Group B-spec) and custom 4WD system featuring a **Torsen Type-C center differential** (70/30 torque split) and reinforced GKN CV joints for 1,200 Nm torque capacity."
+  ],
+  "estetica": [
+    "Body: **Rocket Bunny Pikes Peak Edition widebody kit** (carbon fiber fenders, front splitter, and rear diffuser) with integrated **AIM carbon fiber hood** (dual NACA ducts for intercooler cooling) and **Porsche 959-style rear wing** (adjustable carbon fiber, 3-element design).",
+    "Wheels: **BBS E50 Magnesium 16x11 ET0 (front) and 16x13 ET-12 (rear)** with **Pirelli P Zero Trofeo R tires (255/40 R16 front, 345/35 R16 rear)** for optimal grip on mixed surfaces.",
+    "Interior: **Sparco Pro 2000 carbon fiber seats** with 6-point Schroth harnesses, **Momo Prototipo steering wheel (Group B-spec)**, and **Motec C127 dash logger** integrated with a **Bosch Motorsport ABS/TCS system** for real-time telemetry."
+  ]
+}

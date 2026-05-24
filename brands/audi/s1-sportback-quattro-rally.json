@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "S1 SPORTBACK QUATTRO RALLY",
+  "prestazioni": [
+    "Engine: EA888 Gen 3 (CJSA 2.0L TFSI) with forged internals including Mahle Motorsport pistons (83mm, 9.5:1 CR), Pec Racing H-beam connecting rods, and a billet crankshaft from Manley Performance. Turbocharged with a Garrett GTX3582R Gen II turbo (0.82 A/R, 62mm compressor, 76mm turbine) on a custom 3.5-inch stainless steel downpipe with a Tial MV-R 44mm external wastegate.",
+    "Drivetrain: 6-speed DQ250 0B5 S tronic transmission reinforced with a Sachs Performance twin-disc clutch (240mm, 800Nm torque capacity) and a Quaife ATB helical LSD for the rear axle. Front and center differentials upgraded with Wavetrac LSD units, paired with a 40% front / 60% rear torque split via a custom Haldex Gen 5 controller tuned by APR.",
+    "Suspension & Chassis: Öhlins TTX40 2-way adjustable coilovers with 300mm travel, reinforced spherical bearing top mounts from SuperPro, and polybushings from Powerflex (black series, 95A durometer). Full seam-welded chassis with a custom bolt-in FIA-spec roll cage by Safety Devices (8-point, T45 steel), and a front strut brace from H&R (3-point, aluminum). Braking system features AP Racing CP8370 calipers (6-piston front, 4-piston rear) with 370mm two-piece rotors (slotted, floating) and Ferodo DS2500 pads."
+  ],
+  "estetica": [
+    "Aero: Custom carbon fiber widebody kit by Liberty Walk (LB Works S1-specific design) with integrated canards, a 3D-printed ABS rear diffuser by Rocket Bunny, and a front splitter from APR (carbon fiber, adjustable angle). Rear wing is a custom 3-piece GT3-style unit by Voltex (Type 3, 1,200mm width, carbon fiber).",
+    "Exterior: Full Respray in Audi Nardo Grey (LZ7W) with 3M Matte Black vinyl overlay on the roof, mirrors, and rear quarter panels. OEM+ rally livery with sponsor decals (e.g., Motul, Michelin, Alpinestars) in high-visibility vinyl by Avery Dennison. Lighting upgraded to Hella Rallye 4000 Compact (7-inch, 100W H3 bulbs) with custom aluminum mounts, and rear fog lights from Osram (160W, yellow tint).",
+    "Interior: Full Sparco Evo II QRT-K seats (FIA 8862-2009 certified) with Schroth Profi II 6-point harnesses. Custom rally dash by AIM MXS Strada with integrated GPS, lap timer, and data logging (CAN bus integration with the CJSA ECU). Steering wheel is a MOMO Mod.70 (350mm, suede, quick-release) with a custom horn button featuring the Audi Sport logo. Full sound deadening removal with a lightweight aluminum floor panel overlay by VRSF."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "RS6 C5",
+  "prestazioni": [
+    "Engine: BCY 4.2L V8 Biturbo (450hp stock) – Full forged internals by Mahle (pistons, 86.4mm bore, 92.8mm stroke) with Carrillo H-beam connecting rods, upgraded crankshaft with 88mm stroke for 4.5L displacement, and ARP L19 head studs for 12.5:1 compression. Pair with a custom GTX4294R twin-turbo setup from Garrett (64mm compressor, 76mm turbine, 1.15 A/R) with TiAL MV-R 44mm wastegates and TiAL Q 50mm blow-off valves, supporting 850whp on E85.",
+    "Fuel System: Full Aeromotive fuel system with dual A1000 in-tank pumps, 1000cc ID1000 injectors, and a Radium Engineering dual catch can setup to prevent oil dilution. Upgraded fuel rails and -8AN lines with Earl’s Vapor Guard fittings, paired with a Motec M150 ECU for full flex-fuel mapping and individual cylinder trims.",
+    "Drivetrain: 01E 6-speed transmission with a Sachs Performance twin-disc clutch (400Nm torque capacity) and a Quaife ATB differential (80% lock). Upgraded half-shafts from 034 Motorsport with billet CV joints, and a custom driveshaft from The Driveshaft Shop (3.5\" aluminum, rated for 1000Nm). Rear subframe reinforcement with 034 Motorsport’s billet aluminum mounts and polyurethane bushings."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion using a Prior Design PD800RS kit (OEM+ fitment, 30mm wider front fenders, 40mm rear), with custom front splitter and rear diffuser from Maxton Design (RS6-specific, 3-piece carbon). Rear wing is a custom 1-piece carbon GT-style unit from RW Carbon, adjustable for 50-150kg downforce at 120mph.",
+    "Wheels: BBS LM-R 9.5x19\" ET25 front and 11x19\" ET35 rear (staggered, 5x112 PCD) with custom concave faces, wrapped in Michelin Pilot Sport Cup 2 R tires (265/30/19 front, 295/30/19 rear). Forged center locks from HRE with titanium hardware, and custom 2-piece rotors from AP Racing (380mm front, 356mm rear) with 6-piston calipers (RS6-specific, direct bolt-on).",
+    "Interior: Full Alcantara retrim by Recaro (CS Sportster Pro II seats, door cards, headliner) with custom red stitching. Roll cage is a Matter 8-point bolt-in cage (FIA-spec, T45 steel) with integrated harness bar for Schroth Profi II 6-point harnesses. Steering wheel is a Momo Prototipo (350mm, suede) with integrated Motec C127 dash display, and pedal set is a billet aluminum unit from 034 Motorsport with adjustable brake bias."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "RS E-TRON GT PERFORMANCE",
+  "prestazioni": [
+    "APR Stage 2+ software recalibration for the **CWGD** dual-motor electric powertrain (814V architecture), optimizing torque vectoring and launch control to achieve 0-60 mph in 2.5s (stock: 3.1s) with a 12% increase in regenerative braking efficiency via customizable coasting maps (APR EV001-EU firmware).",
+    "Unitek Performance **carbon-fiber reinforced polymer (CFRP) drive module housings** for the front and rear **PSM (Permanent Magnet Synchronous Motors)**, reducing rotational mass by 18% and improving thermal conductivity under sustained 600A discharge cycles (compatible with Audi MLBevo platform).",
+    "Garrett Motion **E-Boost 48V electric supercharger** (part #G48-001) integrated into the 800V high-voltage system, providing 12kW of transient power assist at 12,000 RPM to eliminate torque lag during 0-80% SOC acceleration, paired with a **PWR Australia 450kW liquid-to-air intercooler** (custom-machined for the RS e-tron GT’s front radiator ducting)."
+  ],
+  "estetica": [
+    "Rocket Bunny **Pandem GT widebody kit (Type 2)** for the RS e-tron GT, featuring 35mm extended front fenders (CFRP construction) and 40mm rear overfenders with integrated **Audi OEM-style LED side markers**, retaining full compatibility with the **MLBevo chassis** and adaptive air suspension travel.",
+    "Vorsteiner **V-FF107 21\" forged carbon fiber wheels** (front: 9.5J ET35, rear: 11.5J ET40) with **Pirelli P Zero Elect** tires (275/30 R21 front, 315/25 R21 rear), reducing unsprung mass by 22% while maintaining OEM TPMS and torque vectoring sensor alignment.",
+    "Novitec Torado **full-carbon fiber front splitter with active aerodynamic gurney flaps** (adjustable via Audi drive select modes), paired with a **custom 3D-printed titanium rear diffuser** (designed in collaboration with **KW Suspensions** to maintain ride height clearance at -30mm Sport mode)."
+  ]
+}

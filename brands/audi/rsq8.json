@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "RSQ8",
+  "prestazioni": [
+    "Full bolt-on turbo upgrade to twin Garrett GTX5533R Gen II turbos (4.0L TFSI EA825 engine) with billet compressor wheels, 76mm inducers, and 3D-printed Inconel turbine housings for optimized exhaust gas flow and reduced lag, paired with a custom APR carbon fiber intake manifold and 102mm throttle body for improved airflow at 2.2 bar boost pressure",
+    "Full Motec M150 ECU standalone conversion with custom CAN bus integration for the RSQ8's quattro ultra drivetrain, enabling individual cylinder fueling, anti-lag, and launch control strategies, paired with a Pectel PDM32 power distribution module for precise control of auxiliary systems (e.g., electric water pumps, cooling fans, and active aero)",
+    "Full Akrapović Evolution Line Titanium exhaust system with 3.5-inch diameter piping, quad 100mm carbon fiber tips, and electronically controlled butterfly valves for backpressure optimization, paired with a custom heat management solution using PWR radiators and a secondary 1200W electric water pump for the turbochargers and intercoolers"
+  ],
+  "estetica": [
+    "Full Liberty Walk LB-WORKS RSQ8 widebody kit with carbon fiber fenders, extended rocker panels, and a custom front splitter with integrated canards, paired with a custom 3D-printed rear diffuser and a fixed carbon fiber rear wing (replacing the stock active aero) for aggressive stance and downforce optimization",
+    "Full Rotiform LAS-R 22x11.5 ET35 forged wheels with custom concave profiles, wrapped in Michelin Pilot Sport Cup 2 R tires (295/25 R22 front, 325/25 R22 rear), paired with H&R RS10 coilovers with 30mm drop and adjustable camber plates for track-focused alignment",
+    "Full interior carbon fiber overhaul using 3K twill weave from Status Gruppe, including custom door cards, center console, and dashboard trim, paired with Recaro Pole Position bucket seats (with custom RSQ8-specific mounting brackets) and a full Alcantara headliner with red contrast stitching"
+  ]
+}

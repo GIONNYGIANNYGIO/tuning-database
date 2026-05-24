@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "RS6 C6",
+  "prestazioni": [
+    "Upgrade to a pair of Garrett GTX4286R turbochargers (58mm compressor, 76mm turbine) with billet compressor wheels and 3.5-inch V-band inlets/outlets, specifically calibrated for the C6 RS6's 5.0L TFSI CAUA V10 engine, paired with a custom 4-inch stainless steel downpipe system from Milltek Sport with 200-cell catalytic converters for optimized spool and flow dynamics while maintaining emissions compliance",
+    "Full fuel system overhaul including dual Bosch Motorsport 044 high-flow fuel pumps, Injector Dynamics ID2000x injectors (2000cc/min), and a custom Motec M150 ECU with flex-fuel capability, integrated with a 3.5-bar Bosch Motorsport fuel pressure sensor and a secondary fuel pressure regulator for the RS6's direct/port injection hybrid system",
+    "Installation of a custom VR38DETT-derived dry-sump oil system from Aviaid, featuring a 10-quart oil pan with integrated windage tray, dual scavenge pumps, and a Setrab 19-row oil cooler with AN-12 lines, paired with a Laminova oil-to-water heat exchanger to maintain optimal oil temperatures under sustained 800+ HP loads"
+  ],
+  "estetica": [
+    "Full carbon fiber widebody conversion using the Liberty Walk LB-RS6 kit, modified to fit the C6's unique rear quarter panel contours, with custom 3D-printed ABS fender flares reinforced with carbon fiber weave for added rigidity, finished in a matte Porsche GT3 RS Green paint with exposed carbon weave accents",
+    "Custom front bumper replacement featuring a 3D-scanned and CNC-machined aluminum core, integrating a 10mm lower splitter from APR Performance with adjustable carbon fiber canards, paired with a custom carbon fiber hood from Vorsteiner with functional NACA ducts and a central heat extractor vent for the RS6's V10 engine",
+    "Rear diffuser and exhaust surround system from 93Octane, fabricated from 3mm aluminum and carbon fiber, featuring integrated quad 102mm titanium exhaust tips from Akrapovic, with a custom LED light bar embedded into the diffuser for a signature rear lighting effect, all mounted on a custom subframe reinforcement plate to prevent flex under high-speed aerodynamic loads"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "RS4 B7",
+  "prestazioni": [
+    "Revo Stage 2+ ECU remap for the 4.2L V8 FSI engine (code: BNS) with custom ethanol flex-fuel calibration, targeting 480whp and 380wtq on 98 RON + E85 blend, utilizing a 3.5\" downpipe with Vibrant 1799 high-flow catalytic converters and a Milltek Sport non-resonated exhaust system with 76mm tips",
+    "Garrett GT3076R turbocharger upgrade (journal bearing, .86 A/R turbine housing) paired with a custom-built RS4-specific intake manifold by 034 Motorsport, featuring port-matched runners and a billet throttle body spacer for optimized airflow, supported by a TiAL MV-R 44mm wastegate and TiAL Q 50mm BOV",
+    "034 Motorsport Stage 2 valvetrain upgrade with Supertech 1mm oversized intake/exhaust valves, titanium retainers, and upgraded valve springs, paired with Schrick 272°/276° camshafts (intake/exhaust) and a custom-machined billet cam gear set for adjustable timing, all driven by a reinforced timing chain kit from INA"
+  ],
+  "estetica": [
+    "Rocket Bunny V1 widebody kit (RS4 B7-specific) with carbon fiber front fenders, rear quarter panels, and a duckbill rear spoiler, paired with a custom front splitter by Vorsteiner and a carbon fiber diffuser from Seibon, all finished in Audi Nogaro Blue (LZ7W) with matte clear coat",
+    "OEM+ RS4 B7 headlight housings retrofitted with LUX H8 V4 LED projectors, sequential turn signals, and a custom LED halo ring setup by Morimoto, paired with a full LED taillight conversion using Audi S8 D3 units with smoked lenses and sequential functionality via a Vag-Com coding tweak",
+    "Forgeline GA3R 19x10.5\" ET25 (front) and 19x12\" ET40 (rear) wheels in a custom brushed titanium finish, wrapped in Michelin Pilot Sport Cup 2 tires (275/30/19 front, 305/30/19 rear), paired with KW Clubsport 3-way coilovers with remote reservoirs, spherical top mounts, and custom valving for RS4 B7 chassis dynamics"
+  ]
+}

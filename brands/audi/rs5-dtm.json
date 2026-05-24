@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "RS5 DTM",
+  "prestazioni": [
+    "Replacement of the factory 2.0L TFSI V6 (engine code **RC8**) with a **Mahle Motorsport** forged crankshaft and **Pankl Racing Systems** titanium connecting rods to handle 900+ hp at 9,500 RPM in DTM-spec trim, paired with a **Honeywell Garrett GT35R** turbocharger (84mm compressor wheel, 62mm turbine) and a **Bosch Motorsport MS5.1** ECU with custom DTM-derived anti-lag and launch control maps",
+    "Installation of a **PWR Racing** triple-plate carbon clutch and **Xtrac P1159** 6-speed sequential gearbox with a **Sadev** limited-slip differential (45% lock under power, 60% under deceleration) for DTM-grade torque transfer, complemented by **AP Racing** CP8470-4000 6-piston front and 4-piston rear brake calipers with **Brembo HTC64T** carbon-ceramic rotors (380mm front, 355mm rear)",
+    "Full **Multimatic DSSV** 4-way adjustable coilover suspension with **Eibach** 12,000 N/mm helper springs and **Tenneco** DTM-spec dampers, paired with **HRE FF15** forged 18x12-inch wheels (ET40) wrapped in **Michelin Pilot Sport Cup 2 R** tires (305/660R18 front, 325/705R18 rear) for optimal mechanical grip and camber retention"
+  ],
+  "estetica": [
+    "Full **ABT Sportsline DTM Aero Package**, including a **carbon-fiber front splitter** with integrated **Gurney flap** (adjustable ±15mm), **side skirts** with vortex generators, and a **fixed rear wing** (3-element, 1,200mm span) with **DRS-style active flap** (operated via Bosch Motorsport actuators) for adjustable downforce (1,800 lbs at 200 km/h)",
+    "Replacement of the OEM body panels with **SGL Carbon** pre-preg carbon-fiber components (hood, fenders, doors, trunk) featuring **3K twill weave** and **matt clear coat**, reducing weight by 45 kg while maintaining DTM homologation compliance, paired with **OMP DTM-spec** polycarbonate windows (3mm thick, 20% weight reduction)",
+    "Custom **Motec C187** digital dash with **AEM CD-7** data logging, integrated into a **Sparco DTM Pro2000** carbon-fiber steering wheel (with **Alcantara grip** and **OMP quick-release hub**), alongside **Schroth DTM 6-point harnesses** and a **Recaro DTM Pole Position** carbon-kevlar seat with **Sabelt** head restraint system for FIA Grade 1 safety compliance"
+  ]
+}

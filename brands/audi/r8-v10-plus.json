@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "R8 V10 PLUS",
+  "prestazioni": [
+    "Engine: 5.2L FSI V10 (engine code: CEJA) with a custom Weistec Engineering Stage 3+ supercharger kit (12 psi boost, 850+ HP, forged internals including Mahle Motorsport pistons, Carrillo H-beam connecting rods, and a billet crankshaft) paired with a custom 3.5-inch stainless steel exhaust system featuring Akrapović titanium headers and a Valvetronic-controlled bypass for backpressure optimization.",
+    "Suspension: Öhlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression), custom-valved for the R8’s aluminum-intensive spaceframe, paired with H&R 20mm front and 25mm rear anti-roll bars (chassis-specific part numbers: 8X0517119A/8X0517120A) and spherical bearing subframe bushings from 034 Motorsport for zero deflection.",
+    "Drivetrain: Quaife ATB helical LSD (part number: QDF15R) with a 40% lockup bias, mated to a Tilton triple-plate carbon clutch (7.25-inch, 1,200 Nm torque capacity) and a 034 Motorsport lightweight flywheel (reduced rotating mass by 40%). The stock R-tronic transmission is reflashed with a custom TCU tune by Alientech (shift times reduced to 60ms) and reinforced with a Peloquin differential cover for additional rigidity."
+  ],
+  "estetica": [
+    "Aero: Liberty Walk LB-R8 widebody kit (carbon fiber, 50mm extended fenders front/rear) with a custom 3D-printed front splitter (CFRP, 30% more downforce than OEM) and a GT3-spec rear diffuser from APR Performance (part number: AR1120000). The rear wing is a custom 1,800mm carbon fiber unit from Vorsteiner (adjustable angle, 0-15 degrees) with integrated DRS (Drag Reduction System) for track use.",
+    "Wheels: HRE FF16 flow-formed wheels (20x10.5 +25 front, 20x12.5 +35 rear) in a custom satin bronze finish, wrapped in Michelin Pilot Sport Cup 2 R tires (275/30/20 front, 325/30/20 rear) with a custom TPMS system from VDO for real-time pressure monitoring. The wheels feature titanium hardware from ARP and a custom center-lock conversion by BBS.",
+    "Interior: Full carbon fiber weave interior from Recaro (CS Sportster seats, part number: 389.000) with 6-point Schroth Profi II harnesses (FIA-approved) and a custom roll cage from Custom Cages (T45 steel, 8-point, bolt-in with integrated fire suppression system). The dashboard is replaced with a Motec C127 digital dash (CAN-bus integrated with the ECU) and a custom Alcantara-wrapped steering wheel from MOMO (part number: 0111500010) with integrated paddle shifters and a quick-release hub."
+  ]
+}

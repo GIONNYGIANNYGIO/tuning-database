@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "RS6 AVANT GT",
+  "prestazioni": [
+    "Crankshaft reinforcement with a billet steel 4.0T C8 (EA825) stroker kit from VRSF, increasing displacement to 4.2L with forged Mahle pistons (9.3:1 CR) and Carrillo H-beam connecting rods for 800+ HP reliability on E85",
+    "Dual Garrett GTX5533R Gen II turbochargers with TiAL MV-R 44mm wastegates and custom 4-inch V-band downpipes from IAB Engineering, paired with a PWR intercooler core (1200HP-rated) and APR carbon fiber intake manifold",
+    "Bosch Motorsport MS17.8 ECU with custom calibration by Eurocharged, integrating a Syvecs S8 Plug & Play standalone for full flex-fuel mapping, launch control, and anti-lag with a secondary fuel system (dual Walbro 450LPH pumps + Injector Dynamics ID1700x injectors)"
+  ],
+  "estetica": [
+    "Full carbon fiber widebody conversion by Prior Design (PD-GT6 kit), featuring extended front fenders (30mm per side), rear quarter panels (50mm per side), and a custom 3-piece GT3-style rear diffuser with integrated titanium exhaust outlets",
+    "OEM+ RS GT-specific front splitter with adjustable carbon fiber canards (APR GT-250 kit) and a fixed carbon fiber rear wing (R8 GT3-inspired) from Manthey Racing, mounted on 3D-printed titanium pedestals for 200kg+ downforce at 200km/h",
+    "Custom interior by Status Gruppe: full Alcantara headliner, Recaro Pole Position seats with carbon fiber shells (9x10mm side bolster adjustment), and a digital dash overlay (Audi Sport Virtual Cockpit Plus) with RS6 GT-specific telemetry (boost, AFR, oil temp via AIM MXS Strada)"
+  ]
+}
