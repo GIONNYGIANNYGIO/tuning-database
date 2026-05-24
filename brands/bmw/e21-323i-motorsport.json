@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "E21 323i Motorsport",
+  "prestazioni": [
+    "Engine swap to a **M30B34** (3.4L inline-6, 218 HP in Euro spec) with a **Schrick 284° camshaft** and **Mahle Motorsport forged pistons** (10.5:1 compression) for high-RPM reliability, paired with a **Getrag 265 5-speed dogleg close-ratio transmission** (from E28 M535i) and a **Sachs Performance twin-disc clutch** (240mm)",
+    "Forced induction via a **Garrett T3/T4 hybrid turbo** (55 trim compressor, .63 A/R turbine housing) on a **custom tubular exhaust manifold** (321 stainless, equal-length primaries) with **Tial 44mm wastegate** and **HKS SSQV blow-off valve**, tuned on a **Motec M800 standalone ECU** with **Bosch 0280155710 3.5-bar MAP sensor** for 0.8 bar (11.6 psi) boost",
+    "Suspension overhaul with **Bilstein B16 PSS10 coilovers** (8-position damping, 30mm drop) on **Eibach Pro-Kit springs**, **Meyle HD control arms** (polyurethane bushings), **Rear subframe reinforcement plates** (from E30 M3), and **AP Racing CP5270 front brake calipers** (4-piston, 304mm rotors) with **Ferodo DS2500 pads** and **Goodridge G-Stop braided lines**"
+  ],
+  "estetica": [
+    "Full **Rocket Bunny V1 E21 widebody kit** (fiberglass, 30mm flares) with **custom carbon fiber front splitter** (25mm overhang) and **Alpina-style rear ducktail spoiler** (hand-laid fiberglass, 15mm height), painted in **BMW Motorsport Dakar Yellow (070) with matte black accents**",
+    "OEM+ interior with **Recaro SRD E21-specific bucket seats** (Schroth 4-point harnesses), **Momo Prototipo steering wheel** (350mm, suede), **VDO Motorsport gauges** (3.5-inch oil temp, boost, and AFR), and **custom roll cage** (TIG-welded 4130 chromoly, 6-point, bolt-in)",
+    "Exterior details: **Hella 500 FF fog lights** (clear lenses, yellow bulbs), **BBS RS 021 wheels** (15x8 ET15 front, 15x9 ET10 rear, 225/50 and 245/45 tires), **Motorsport roundel delete** (blacked-out badges), and **custom engine bay detailing** (polished M30 valve cover, braided AN lines, and **Samco Sport coolant hoses** in blue)"
+  ]
+}

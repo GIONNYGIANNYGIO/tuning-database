@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "ALPINA B3",
+  "prestazioni": [
+    "Engine: N54B30TO (3.0L twin-turbo inline-6) upgraded with a Garrett GT3582R turbocharger (82mm compressor, 62mm turbine) paired with Alpina’s proprietary ECU flash (retaining OEM torque safety margins while targeting 550whp on E85 fuel).",
+    "Fuel System: Injector Dynamics ID1050x fuel injectors (1050cc/min) with a Radium Engineering dual-catch can setup (AN-10 lines) and a Pierburg CWA50 high-pressure fuel pump (300L/h @ 10bar) to support the GT3582R’s airflow demands.",
+    "Drivetrain: Wavetrac limited-slip differential (3.23 final drive ratio) with a Sachs Performance SMG III clutch (triple-disc, 800Nm torque capacity) and a 3.5” aluminum driveshaft from G-Power to eliminate drivetrain lash under aggressive launches."
+  ],
+  "estetica": [
+    "Aero: Alpina B3 GT3-inspired front splitter (carbon fiber, 3-piece adjustable) from AC Schnitzer with a custom rear diffuser (20% over OEM downforce) by Vorsteiner, paired with a Hamann Motorsport carbon fiber rear wing (adjustable angle, 30mm chord).",
+    "Wheels: ATS RS5.0 forged wheels (9x19 ET25 front, 10.5x19 ET22 rear) in Alpina’s signature ‘Classic’ multi-spoke design, wrapped in Michelin Pilot Sport Cup 2 R tires (255/35/19 front, 285/30/19 rear) for track-focused grip.",
+    "Exterior: Alpina’s exclusive ‘Blue II’ paint (custom-mixed by Glasurit) with a full dechroming package (black kidney grilles, window trim, and badges) and a custom matte clear coat from PPG for UV resistance. OEM+ side skirts from AC Schnitzer (carbon fiber, 15mm lower than stock) to reduce lift."
+  ]
+}

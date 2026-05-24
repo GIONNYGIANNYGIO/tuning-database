@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "ALPINA XB7 LCI",
+  "prestazioni": [
+    "Upgrade the N63B44T3 (4.4L V8 twin-turbo) with a bespoke ALPINA-derived hybrid turbo setup featuring Garrett GTX5533R Gen II turbos with billet compressor wheels, 76mm inducers, and 3D-printed Inconel turbine housings to handle 22 psi of boost while maintaining ALPINA’s signature linear power delivery (target: 850whp on E85, 780whp on 93 octane).",
+    "Replace the factory 10.5:1 compression pistons with Mahle Motorsport forged pistons (9.5:1 CR) and Carrillo H-beam connecting rods, paired with a custom ALPINA-specific Schrick camshaft profile (288° intake / 292° exhaust, 12.5mm lift) to optimize airflow for the upgraded turbos while preserving low-end torque.",
+    "Install a full Akrapovič Evolution Line Titanium exhaust system with 3.5\" diameter mandrel-bent downpipes, 200-cell catalytic converters, and a valved center muffler delete, paired with an ALPINA-tuned xHP Stage 3 TCU flash to eliminate torque management delays and enable launch control at 4,500 RPM."
+  ],
+  "estetica": [
+    "Fit a full ALPINA B7 LCI-specific Rocket Bunny V3 widebody kit (carbon fiber fenders, front bumper, and rear diffuser) with integrated ALPINA-specific cooling ducts for the upgraded turbos, retaining the OEM Alpina kidney grilles but replacing the slats with carbon fiber inserts.",
+    "Replace the factory 22\" Alpina Classic wheels with custom HRE FF16 flow-formed wheels (22x10.5 ET35 front, 22x12 ET40 rear) wrapped in Michelin Pilot Sport Cup 2 R tires (285/30 front, 325/25 rear) for track-focused grip, paired with ALPINA-branded Brembo GT-R monoblock calipers (6-piston front, 4-piston rear) with 420mm two-piece rotors.",
+    "Install a Vorsteiner carbon fiber engine cover with ALPINA script inlay, paired with a custom ALPINA-specific Gintani carbon fiber front lip spoiler and a rear wing modeled after the ALPINA B7 GT3 race car, featuring a 3D-printed Gurney flap for adjustable downforce."
+  ]
+}

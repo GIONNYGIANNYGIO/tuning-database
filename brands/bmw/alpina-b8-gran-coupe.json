@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "ALPINA B8 GRAN COUPE",
+  "prestazioni": [
+    "Engine: N63B44T3 (4.4L V8 twin-turbo, Alpina-tuned) - Full Akrapović Evolution Line Titanium exhaust system with 100mm carbon-fiber tips, replacing the stock Alpina exhaust to reduce backpressure by 18% while maintaining Alpina’s signature deep tone at 2,200 RPM",
+    "Forced Induction: Hybrid turbo upgrade using Garrett GTX4271R Gen II turbos (71mm compressor, 62mm turbine) with billet compressor wheels, paired with Alpina-specific BorgWarner EVO 2 water-to-air intercoolers (core volume increased by 30% over stock) and custom 3.5-inch silicone charge pipes from Vibrant Performance",
+    "Fuel System: Full Motec M150 ECU standalone management with dual Bosch Motorsport 0261500360 1,200cc/min port injectors and a supplementary AEM 340LPH high-flow fuel pump, supporting 800+ WHP on E85 blend (Alpina’s N63B44T3 is direct-injection only, so this setup retains stock DI while adding port injection for extreme builds)"
+  ],
+  "estetica": [
+    "Body Kit: Wald International ‘Black Bison’ widebody conversion kit (GRAN COUPE-specific, not a 4/5 Series adaptation), featuring carbon-fiber fenders with 30mm extended wheel arches, front splitter with integrated canards, and a rear diffuser with dual 100mm titanium exhaust outlets",
+    "Wheels: HRE FF01 flow-formed wheels in 21x10.5 ET32 front and 21x12 ET45 rear, finished in ‘Frozen Bronze’ with Alpina-specific center caps, wrapped in Michelin Pilot Sport Cup 2 R tires (275/30/21 front, 315/25/21 rear) for track-focused grip",
+    "Interior: Full Alcantara retrim by Saddleback Leather, including Alpina B8-specific door cards with embroidered ‘B8’ logos, a custom roll cage by AutoPower Industries (GRAN COUPE-specific, bolt-in design with rear seat delete option), and a digital dash upgrade using a 12.3-inch BMW iDrive 8.5 display with Alpina ‘Classic’ theme and boost pressure overlay"
+  ]
+}

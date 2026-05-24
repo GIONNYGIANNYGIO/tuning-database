@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "ALPINA XD3",
+  "prestazioni": [
+    "Upgrade the N57D30T1 (3.0L twin-turbocharged inline-6 diesel) with a Garrett GTX4202R turbocharger (84mm compressor wheel, 64mm turbine) paired with a custom 4-inch V-band downpipe from FTP Motorsports, reducing backpressure by 40% and enabling 450whp on 93 octane with a supporting fuel system (Injector Dynamics ID1700x injectors and a Radium Engineering dual-catch can setup).",
+    "Install a Dimsport Genius 2000 ECU reflash with Alpina-specific mapping, optimizing the N57’s twin-turbo spool characteristics (targeting 22psi peak boost) and recalibrating the 8-speed ZF 8HP70 transmission for faster shifts (0.18s reduction in 3-4 upshifts) via a Paddle Shift Performance TCU tune.",
+    "Replace the OEM front sway bar with an H&R 28mm adjustable anti-roll bar (part #51650-2) and pair it with KW Clubsport coilovers (3-way adjustable, 80mm of travel) featuring Alpina-specific valving for the XD3’s 1,900kg curb weight, while integrating a Cusco 2.5-way LSD (250Nm torque bias) for improved AWD torque distribution."
+  ],
+  "estetica": [
+    "Fit a full carbon fiber ALPINA B5 GT-style widebody kit from AC Schnitzer (part #AC-3100-187), including extended front fenders (30mm wider per side), rear quarter panels (40mm wider), and a functional rear diffuser with integrated twin exhaust cutouts for the Akrapović Evolution Line titanium exhaust system.",
+    "Install a Vorsteiner V-FF 107 21-inch forged wheel set (9.5J ET35 front, 11J ET40 rear) in a staggered fitment with Michelin Pilot Sport Cup 2 R tires (265/30/21 front, 295/25/21 rear), paired with AP Racing 6-piston front (380mm discs) and 4-piston rear (350mm discs) big brake kit with Alpina-branded caliper covers.",
+    "Replace the OEM headlights with LUX H8 V4 LED projectors (5,000-lumen output) and integrate a custom Alpina-themed LED taillight overlay (using Osram LEDriving SL 144 chips) with sequential turn signals, while adding a carbon fiber roof wrap (3M 2080 series, matte anthracite) to reduce weight by 3.2kg."
+  ]
+}

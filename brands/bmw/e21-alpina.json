@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "E21 ALPINA",
+  "prestazioni": [
+    "Engine: Alpina-modified M10B18 (318i base) bored to 2.0L with forged Mahle pistons (89.5mm bore), Carrillo H-beam connecting rods, and an Alpina-specific Schrick 272° camshaft for high-RPM power delivery (180+ HP with 98 RON fuel).",
+    "Forced Induction: Custom Alpina/KKK K26 turbocharger (T3/T4 hybrid) with a bespoke cast-aluminum manifold, 38mm wastegate, and an air-to-water intercooler (Alpina part #318-010) feeding a Pierburg 45mm throttle body.",
+    "Drivetrain: Getrag 265 5-speed close-ratio gearbox (Alpina-specific ratios: 2.91, 1.94, 1.34, 1.00, 0.81) paired with a 3.45:1 limited-slip differential (Alpina #318-020) and a Sachs twin-plate clutch (240mm) with cerametallic friction discs."
+  ],
+  "estetica": [
+    "Body: Alpina B6 2.8S-style front spoiler (fiberglass, part #E21-001) with integrated Cibié Oscar H4 headlights and a rear lip spoiler (Alpina #E21-002) in matching Alpina Blue (BMW code 204).",
+    "Wheels: Alpina 20-spoke alloy wheels (7x15 ET20 front, 8x15 ET15 rear) with 195/50R15 (front) and 225/50R15 (rear) Pirelli P7 Corsa tires, shod with Alpina center-lock hubs (part #E21-030).",
+    "Interior: Alpina three-spoke steering wheel (leather-wrapped, part #E21-040) with a 380mm diameter, Recaro SRD bucket seats (Alpina-embroidered headrests), and a custom Alpina instrument cluster with 280 km/h speedometer and 8,000 RPM tachometer (redline at 7,200 RPM)."
+  ]
+}

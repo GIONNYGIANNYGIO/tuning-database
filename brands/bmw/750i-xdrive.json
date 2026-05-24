@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "750I XDRIVE",
+  "prestazioni": [
+    "Engine: N63B44O2 (4.4L twin-turbo V8) – Full M Performance Power Kit with upgraded turbochargers (Garrett GT3582R billet wheel hybrids, 1.0 bar boost), custom ECU flash by PTG (Performance Tuning Group) targeting 650whp on E85 with upgraded fuel system (Bosch Motorsport 044 high-flow fuel pumps, Injector Dynamics ID1700x injectors), and a CSF high-flow aluminum radiator with dual 12\" SPAL fans for thermal management.",
+    "Drivetrain: xDrive-specific Quaife ATB differential (QDF9Y) with 40% lockup under load, paired with a Sachs Performance SMG-style paddle-shift conversion (including reinforced dual-mass flywheel and uprated clutch pack) for 150ms shift times. Reinforced 8HP76 transmission with ZF Lifeguard 6 fluid and a custom torque converter (2,800 RPM stall) from Level 10 Motorsports.",
+    "Suspension/Handling: KW Clubsport 3-way coilovers with remote reservoirs (valved specifically for the G11/G12 chassis), Eibach Pro-Spacer 20mm wheel spacers (hub-centric, 5x112mm), and a full M Performance carbon fiber front strut brace with integrated brake cooling ducts. Brembo GT 6-piston 405mm front/380mm rear big brake kit with two-piece rotors and Pagid RSL29 race pads, paired with Goodridge G-Stop stainless steel brake lines."
+  ],
+  "estetica": [
+    "Body: AC Schnitzer Type 8 widebody conversion kit (carbon fiber fenders, front splitter, and rear diffuser with integrated LED light bar), paired with a Vorsteiner V-FF 108 22\" forged wheel set (9.5J ET25 front, 11J ET30 rear) in Brilliant Silver with hidden valve stems. Full 3M Matte Graphite vinyl wrap with gloss black accents on the kidney grilles and side gills.",
+    "Interior: Full Alcantara retrim by Euro Auto Top (headliner, door cards, and dashboard) with red contrast stitching, paired with a custom roll cage (MCS Motorsport 6-point bolt-in, T45 steel) and Recaro Pole Position seats (carbon fiber shells, Schroth 6-point harnesses). M Performance carbon fiber steering wheel with integrated quick-release hub and AiM MXS Strada digital dash display.",
+    "Aerodynamics: Custom active rear wing (carbon fiber, 3D-printed airfoil with adjustable angle via electric actuators) developed in collaboration with WEC aerodynamicists, paired with a front lip splitter featuring integrated pressure sensors for real-time downforce mapping. Side skirts with vortex generators (3D-printed ABS) to reduce lift at high speeds, and a custom titanium exhaust system (Akrapović Evolution Line) with quad 100mm outlets and electronic bypass valves."
+  ]
+}

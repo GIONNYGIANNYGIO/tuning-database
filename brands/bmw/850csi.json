@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "850CSi",
+  "prestazioni": [
+    "Engine: S70B56 (5.6L V12) – Replace OEM Bosch Motronic M1.7 with a standalone AEM Infinity 7080 ECU, paired with a custom 24-tooth crank trigger wheel and individual coil-on-plug ignition (Denso Iridium IK22) for precise timing control and 12,000 RPM redline capability.",
+    "Forced Induction: Twin Garrett GTX5533R Gen II turbos (1.05 A/R turbine housings) with TiAL MV-R 44mm wastegates, custom 3.5-inch stainless steel equal-length exhaust manifolds (hand-fabricated by Burns Stainless), and a PWR 4.5-row front-mount intercooler with 1,200 CFM cooling capacity.",
+    "Drivetrain: Reinforced Getrag S6S-560G 6-speed manual transmission with a Sachs Performance twin-disc clutch (300mm flywheel, 800 Nm torque capacity), paired with a 3.23:1 limited-slip differential from a BMW E31 Alpina B12 5.7 and custom 300M axles from GKN Driveline."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion using a custom Rocket Bunny V3 kit (modified for E31 chassis), including extended front fenders (30mm wider per side), rear quarter panels (50mm wider per side), and a custom 3D-printed carbon fiber rear diffuser with integrated exhaust cutouts for dual 4-inch titanium tips (Akrapović).",
+    "Suspension: Öhlins Road & Track coilovers (custom valving for E31 chassis) with 25mm front and 20mm rear adjustable camber plates (SPL Parts), paired with Eibach Pro-Spacer 20mm wheel spacers (hub-centric, 5x120 bolt pattern) and custom subframe reinforcement plates (fabricated by Turner Motorsport).",
+    "Wheels: Forged BBS LM-R II (9.5x19 ET15 front, 11x19 ET20 rear) with custom concave profiles, wrapped in Michelin Pilot Sport Cup 2 R tires (275/35/19 front, 325/30/19 rear) and paired with AP Racing 6-piston front (380mm rotors) and 4-piston rear (355mm rotors) big brake kit with two-piece rotors and titanium pistons."
+  ]
+}

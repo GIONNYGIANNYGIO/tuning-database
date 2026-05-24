@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "850CSi Individual",
+  "prestazioni": [
+    "Engine: S70B56 (5.6L V12, 380hp stock) – Full internal build with forged Mahle Motorsport pistons (9.5:1 CR), Carrillo H-beam connecting rods, and a custom billet crankshaft by VAC Motorsports to handle 700+ hp reliably. Upgraded valvetrain with Schrick 284° camshafts, titanium retainers, and dual valve springs for high-RPM stability (redline extended to 8,200 RPM).",
+    "Forced Induction: Custom twin-turbo system using Garrett GT35R turbos (62mm compressor, .82 A/R turbine housings) with TiAL MV-R 44mm wastegates and a custom air-to-water intercooler setup by CSF Racing, plumbed with -10AN lines and a Davies Craig EWP150 electric water pump for consistent IATs under sustained boost (1.2 bar peak).",
+    "Fuel & Ignition: Full sequential port injection upgrade with 12x Bosch Motorsport 0280158101 (1,000cc/min) injectors, paired with a Motec M150 ECU and dual Walbro 450 LPH in-tank pumps. Ignition system features a custom 12-coil LS-style coil pack conversion (Denso Iridium IKH22) and a crank-triggered ignition system with a 60-2 reluctor wheel for precise timing control."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion using the *Rocket Bunny V3 8-Series* kit (E31-specific, not E34/E36), including extended front fenders, aggressive rear overfenders, and a custom 3-piece carbon rear diffuser with integrated exhaust cutouts. Front bumper modified with a *Vorsteiner E31* lip spoiler and custom carbon splitter with integrated canards.",
+    "Aero: Custom *AWE Tuning* GT-style rear wing (carbon fiber, 3D-printed adjustable mounts) with a 1,200mm span and dual-element design for high-speed stability. Underbody features a *VRSF* carbon fiber flat floor with integrated vortex generators and a rear diffuser extension for improved aero efficiency (target: -0.35 Cd).",
+    "Wheels & Stance: Custom *BBS LM-R* 3-piece wheels (front: 9.5x19 ET15, rear: 11x20 ET25) with titanium hardware and Michelin Pilot Sport Cup 2 R tires (275/35/19 front, 315/30/20 rear). Suspension features a *KW Variant 5* 3-way adjustable coilover kit with custom valving for the E31 chassis, paired with *H&R* 25mm front and 30mm rear sway bars and *SuperPro* poly bushings throughout."
+  ]
+}

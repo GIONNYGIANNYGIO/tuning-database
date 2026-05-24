@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "E28 535i",
+  "prestazioni": [
+    "Engine swap to a **M30B35V** (3.5L inline-6, 211 HP stock) with a **Schrick 284° camshaft** and **Mahle Motorsport forged pistons** (8.5:1 compression for forced induction), paired with a **Garrett GT3582R turbocharger** (1.05 A/R turbine housing) on a **Tial 44mm external wastegate** for 12 psi of boost, feeding through a **Pierburg 45mm throttle body** and **Siemens DEKA 80lb/hr injectors**",
+    "Custom **Motec M800 ECU** standalone management with **Bosch 0280155567 high-flow fuel pump** and **AEM X-Series wideband O2 sensor**, tuned for **98 RON fuel** with a **custom 3.5\" intercooler core** (custom-machined end tanks) and **Samco silicone charge pipes** to eliminate boost leaks",
+    "Drivetrain reinforcement with a **Getrag 265 5-speed dogleg transmission** (from E28 M535i) paired with a **Peloquin LSD (40% lockup)**, **UUC Motorwerks short shifter**, and **South Bend Stage 3+ clutch** (ceramic puck) on a **lightweight aluminum flywheel** (11.5 lbs). Suspension overhaul with **Bilstein B8 Sport dampers**, **Eibach Pro-Kit springs** (-30mm drop), **Meyle HD control arms**, and **polyurethane bushings** (front/rear subframes, trailing arms)"
+  ],
+  "estetica": [
+    "Full **Rocket Bunny E28 widebody kit** (fiberglass, riveted fenders with 50mm flares) paired with a **custom carbon fiber hood** (vented, 30% weight reduction) and **OEM E28 M5 rear spoiler** (debadged, color-matched)",
+    "BBS RS 012 wheels (16x8 ET15 front, 16x9 ET0 rear) with **Nankang AR-1 semi-slick tires** (225/50 front, 245/45 rear) and **H&R Trak+ wheel spacers** (15mm front, 20mm rear). **Custom front splitter** (carbon fiber, 3\" overhang) and **rear diffuser** (aluminum, bolt-on) for aero balance",
+    "Interior stripped with **Recaro SRD bucket seats** (Schroth 4-point harnesses), **MOMO Prototipo steering wheel** (350mm, suede), **Vintage Air Gen-IV A/C delete system**, and **custom aluminum gauge pod** (housing **Defi Advance BF gauges** for boost, oil temp, and AFR). **Full sound deadening removal** (replaced with **Dynamat Xtreme** on floorpans only)"
+  ]
+}

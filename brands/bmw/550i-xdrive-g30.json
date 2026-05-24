@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "550I XDRIVE G30",
+  "prestazioni": [
+    "Engine: N63B44O2 (4.4L V8 Twin-Turbo) - Full M Performance Stage 2+ ECU/TCU flash by Dimsport Genius with custom ethanol mapping for E60 blend, raising boost to 22 psi (stock 14 psi) and optimizing ignition timing for 650+ WHP on 93 octane (700+ WHP on E85). Includes upgraded fuel system with dual Bosch Motorsport 450 LPH pumps, Injector Dynamics ID1700x injectors, and a custom fuel pressure regulator by Radium Engineering.",
+    "Turbocharger Upgrade: Pure Stage 2 Turbo Kit for N63B44O2 (G30 550i) featuring Garrett GTX4271R Gen II turbos with billet compressor wheels, 62mm turbine wheels, and 0.82 A/R turbine housings. Paired with custom 3.5\" downpipes by FTP Motorsports (catless for track, catted for street compliance) and a CSF high-flow intercooler with 4.5\" thick cores and integrated water-methanol injection ports.",
+    "Drivetrain & Handling: M Performance Limited-Slip Differential (3.15 final drive) with 40% lockup under power, paired with a full MCS 2-way adjustable coilover suspension (G30-specific valving) with remote reservoirs and Swift Springs (8K front, 10K rear). Braking system upgraded to Alcon 6-piston front/4-piston rear monoblock calipers with 405mm two-piece rotors (floating hats) and Ferodo DS2500 pads. Wheels: HRE FF15 20x10.5 ET35 front / 20x12 ET45 rear with Michelin Pilot Sport Cup 2 R tires (275/30/20 front, 315/25/20 rear)."
+  ],
+  "estetica": [
+    "Aero: Full Rocket Bunny V3 widebody kit for G30 (carbon fiber fenders, front bumper, and rear diffuser) with integrated canards and a custom 3D-printed rear wing (1,200mm chord) modeled after the BMW M8 GTE. Front splitter features a 3-stage Gurney flap and active cooling ducts for the intercooler and brakes.",
+    "Exterior: Full G30-specific Vorsteiner V-FF 107 carbon fiber overhaul (hood, trunk, side skirts, and mirror caps) with a custom matte BMW Frozen Dark Red II paint job (PPG DBC basecoat) and 3M Ceramic Pro 9H coating. OEM+ lighting upgrades include LUX V3 Angel Eyes (6,000K CRI 90) and Osram Night Breaker Laser H7/H11 bulbs for all exterior lights.",
+    "Interior: Full Recaro Pole Position seats (carbon fiber shells, Alcantara/leather with Schroth Profi II 6-point harnesses) paired with a MOMO Mod.78 steering wheel (suede, 350mm diameter) and a custom roll cage by AutoPower (bolt-in, 6-point, TIG-welded 4130 chromoly). Gauges: RaceLogic VBOX Sport with integrated AIM MXS Strada dash (12.3\" display) and AEM X-Series wideband sensors (0-5V output for ethanol content and AFR)."
+  ]
+}

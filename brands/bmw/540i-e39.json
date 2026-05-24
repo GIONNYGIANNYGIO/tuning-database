@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "540I E39",
+  "prestazioni": [
+    "M50/M52 manifold swap with custom 4-2-1 equal-length headers (M54B30 3.0L exhaust ports) paired with a Supersprint 3.5\" stainless steel cat-back system, featuring 200-cell HJS metallic catalytic converters for Euro 6 compliance and a 12% reduction in backpressure over stock",
+    "Standalone ECU upgrade to a Motec M150 with a custom M54B40 (4.4L V8) calibration map, including individual cylinder fuel trimming, 24x crank/cam sync for sequential injection, and a 3-bar MAP sensor for forced induction readiness (targeting 550whp on E85 with a Garrett GT3582R turbo)",
+    "Bilstein B16 PSS10 coilovers with custom valving for the E39 chassis, featuring 10-way adjustable damping, helper springs for progressive rebound control, and spherical top mounts from Meyle HD to eliminate strut tower flex under hard cornering (specifically tuned for the 540i's 52/48 weight distribution)"
+  ],
+  "estetica": [
+    "Rocket Bunny V2 widebody kit for E39, modified to clear the M54B40's wider engine bay with custom carbon fiber fender flares (3.5\" rear, 2.5\" front) and integrated LED turn signals in the side skirts",
+    "OEM+ M5-style front bumper with a custom 3D-printed aluminum reinforcement bar to accommodate a K&N cold air intake (5\" velocity stack) while maintaining crash structure integrity, paired with a carbon fiber M-Tech II rear diffuser and a custom 3-piece GT wing (1,800mm span) from 996 GT3 RS donor",
+    "Full interior retrim in Nappa leather with Alcantara headliner, featuring Recaro Pole Position seats (E39-specific mounting brackets) wrapped in custom diamond-stitched black/red leather, a MOMO Mod.78 steering wheel (380mm, suede) with a quick-release hub, and a digital dash overlay using an Aim MXS Strada 1.2 with CAN bus integration for the M54B40's OBD-II data"
+  ]
+}

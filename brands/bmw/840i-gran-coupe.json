@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "840I GRAN COUPE",
+  "prestazioni": [
+    "B58B30M0 (N63-based 3.0L inline-6) forced-induction upgrade via Pure Stage 2+ turbo kit (Garrett GTX3582R Gen II turbo, 3.5\" V-band downpipe, custom intercooler piping) with MHD Stage 2+ ECU flash (targeting 550whp on 93 octane, 22psi peak boost) and Fuel-It Stage 3 port injection kit (dual 1000cc injectors + HPFP upgrade)",
+    "Drivetrain reinforcement with M Performance carbon fiber driveshaft, OS Giken Super Lock differential (2.2-way LSD, 45% lockup), and Sachs Performance SMG-style dual-mass flywheel (clutch delay valve delete for sharper shifts)",
+    "Suspension overhaul with KW Automotive Clubsport coilovers (3-way adjustable, 80mm front/60mm rear ride height adjustment, rebound/compression damping split) paired with 034 Motorsport subframe reinforcement kit and H&R 25mm front/20mm rear anti-roll bars (polyurethane bushings)"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (carbon fiber fenders, front/rear bumpers, and side skirts) with custom 3M Matte Military Green wrap (PPF full coverage) and OEM+ gloss black kidney grilles (M Performance style)",
+    "Vorsteiner V-FF 109 forged wheels (20x9.5 ET35 front, 20x11 ET45 rear) in Hyper Silver finish with Michelin Pilot Sport Cup 2 R tires (275/30/20 front, 315/25/20 rear) and H&R TRAK+ wheel spacers (15mm front, 25mm rear)",
+    "Custom Akrapović Evolution Line Titanium exhaust system (dual 100mm outlets, quad tips, valvetronic delete for aggressive cold-start pops) with M Performance carbon fiber diffuser and rear bumper lip (3D-printed ABS, painted to match)"
+  ]
+}

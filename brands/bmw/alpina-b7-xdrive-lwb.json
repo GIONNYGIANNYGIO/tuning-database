@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "ALPINA B7 XDRIVE LWB",
+  "prestazioni": [
+    "Engine: N63B44O3 (4.4L V8 twin-turbo, Alpina-tuned with forged internals) – Full bolt-on turbo upgrade to **Precision Turbo PT6266 CEA** ball-bearing turbos with custom Alpina-specific compressor maps, paired with **Sard 1000cc/min fuel injectors** and **Bosch Motorsport 044 high-flow fuel pumps** for sustained 800+ WHP on E85 (stock block capable with reinforced Mahle pistons and Carrillo H-beam rods).",
+    "Drivetrain: **ZF 8HP76 XShift** 8-speed transmission with **Alpina-specific TCU flash** (aggressive shift logic, 0.1s faster upshifts) + **South Bend Stage 3 twin-disc clutch** (ceramic-metallic friction) for 1,000 Nm torque handling, paired with **Drexler Motorsport limited-slip differential** (40% lock under load) for xDrive torque vectoring optimization.",
+    "Suspension: **KW Suspensions Clubsport coilovers (Alpina B7-specific valving)** with **Eibach Pro-Street-S ERS springs** (20% stiffer than OEM, 30mm drop) + **H&R anti-roll bars (24mm front, 22mm rear)** for reduced body roll, complemented by **Alpina B7-specific **Brembo GT 380mm 6-piston front/380mm 4-piston rear** brake kit with **Ferodo DS2500 pads** and **Motul RBF 660 brake fluid** for fade resistance under 200+ mph braking."
+  ],
+  "estetica": [
+    "Aero: **AC Schnitzer ACS5 Sport Wing (carbon fiber, 1.8m width)** with **custom Alpina B7-specific Gurney flap** for 120kg downforce at 250 km/h, paired with **Vorsteiner V-FF107 front splitter (carbon, 3-piece adjustable)** and **Rocket Bunny V3 rear diffuser (extended 150mm, 3D-printed carbon)** for seamless integration with Alpina’s OEM rear valance.",
+    "Wheels: **BBS FI-R 21x10.5 ET35 (front) / 21x12 ET45 (rear)** in **Forged Diamond Black finish** with **Michelin Pilot Sport Cup 2 R tires (275/30 R21 front, 315/25 R21 rear)** for 1.2g lateral grip, wrapped in **custom Alpina B7-specific **HRE FF03** center-lock adapters** for track-ready wheel swaps.",
+    "Exterior: **Alpina B7 LWB-specific **3M 1080 Matte Graphite Wrap** with **OEM Alpina Blue II (F06) stripe kit** (hand-painted, 5-layer clearcoat) + **Lux H8 V4 Angel Eyes (6000K, 30% brighter)** with **Morimoto XB LED fog lights (5500K, CRI 90+)** for DRL integration, finished with **custom **Vorshlag Motorsport** carbon fiber mirror caps (painted Alpina Blue II)."
+  ]
+}

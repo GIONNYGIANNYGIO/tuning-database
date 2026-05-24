@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "540I TOURING",
+  "prestazioni": [
+    "Engine: N63B44O2 (4.4L twin-turbo V8) upgraded with a Pure Stage 2 turbo kit (PS2-044) featuring Garrett GT3582R turbos, billet compressor wheels, and 4.0-inch V-band downpipes with 304 stainless steel construction for 650+ WHP on E85",
+    "Fuel System: Injector Dynamics ID1700x injectors paired with a Radium Engineering dual fuel pump hanger (2x Walbro 450 LPH) and a Syvecs S8 ECU with flex-fuel sensor for precise ethanol blending and lambda control",
+    "Drivetrain: ZF 8HP75 8-speed automatic transmission reinforced with a Level 10 Motorsports torque converter (3,500 RPM stall) and a South Bend Clutch dual-disc setup (for manual swap builds) with a 2.5-inch aluminum driveshaft from Driveshaft Shop"
+  ],
+  "estetica": [
+    "Widebody Conversion: Prior Design PD55WB widebody kit with carbon fiber fenders, extended rear quarters, and integrated front splitter (25mm overhang) to accommodate 285/30/19 front and 305/30/19 rear Michelin Pilot Sport Cup 2 tires on Apex ARC-8 19x10.5 ET30 wheels",
+    "Aerodynamics: VRSF M Performance-style carbon fiber rear diffuser with integrated quad-exit exhaust cutouts (for custom 3.5-inch titanium exhaust) and a custom Vorsteiner-style GT3 carbon fiber roof spoiler with integrated brake ducting",
+    "Lighting: LUX V3 Angel Eyes with Osram CBI bulbs (6,000K) and custom sequential LED turn signals (replicating the F10 M5 LCI design) paired with OEM-style Euro-spec adaptive LED headlights (LWR 1000) with integrated cornering lights"
+  ]
+}

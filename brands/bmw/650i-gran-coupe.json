@@ -1,0 +1,16 @@
+{
+  "brand": "BMW",
+  "model": "650I GRAN COUPE",
+  "prestazioni": [
+    "N55B30M0 (3.0L twin-scroll turbo inline-6) forced induction upgrade via Pure Stage 2+ turbo kit (Garrett GTX3582R Gen II turbo, 3.5\" V-band downpipe, custom intercooler piping) with supporting fuel system (HPFP upgrade via MoteC C125 dash-integrated flex fuel sensor, dual Bosch 044 in-tank pumps, and Injector Dynamics ID1050x injectors) for 600+ WHP on E60-E85 blend",
+    "MCS 2-way adjustable coilovers (custom valving for F06 chassis, 800 lb/in front springs, 700 lb/in rear springs) paired with Vorshlag Motorsport F06-specific camber plates (adjustable to -4.5° front) and Hotchkis Sport sway bars (25mm front, 22mm rear) for neutral handling balance",
+    "ESS Tuning VT3-650 supercharger kit (Vortech V-3 Si-Trim centrifugal supercharger, 10.5psi boost, custom heat exchanger with dual 12\" SPAL fans) mated to a Dorch Engineering Stage 2 N55 downpipe (catless, 3.5\" diameter) and Active Autowerke N55-specific ECU flash (93 octane map with meth injection scaling)",
+    "OS Giken Super Lock LSD (40% lockup, 1.5-way) with differential cooler (Setrab 10-row) and upgraded output shafts (GTS Driveline 35-spline chromoly) to handle increased torque"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (F06-specific, carbon fiber front fenders with 30mm extended wheel arches, rear quarter panels with integrated diffuser, and custom rear bumper lip) finished in BMW Individual Frozen Dark Red (354) with matte black accents",
+    "Vorsteiner V-FC100 carbon fiber front splitter (F06-specific, 3-piece design with adjustable dive planes) and V-RT rear diffuser (carbon fiber, 5-fin design with integrated brake ducts) paired with a custom 3D-printed active Gurney flap (servo-controlled via M Drive settings)",
+    "OEM+ M Performance carbon fiber mirrors (painted to match body) with integrated LED turn signals, custom LED taillight overlays (Lux H8 V4 with sequential startup animation), and a full de-chrome treatment (black kidney grilles, gloss black side gills, and matte black window trim)",
+    "Forgeline GA3R 21x10.5\" ET25 (front) and 21x12\" ET45 (rear) wheels (custom concave design, 5x120 PCD, 72.5mm hub bore) wrapped in Michelin Pilot Sport Cup 2 R tires (275/30/21 front, 315/25/21 rear) with custom spacers (15mm front, 25mm rear) for aggressive flush fitment"
+  ]
+}

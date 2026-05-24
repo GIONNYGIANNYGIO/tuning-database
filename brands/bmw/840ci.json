@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "840Ci",
+  "prestazioni": [
+    "Engine: M60B40 (4.0L V8, 286hp stock) forced-induction conversion using a Garrett GT3582R turbocharger (0.82 A/R, 62mm inducer) with a custom Precision Turbo wastegate (44mm, 38mm V-band) and a Pierburg MAF sensor upgrade (85mm housing) to handle 1.2 bar boost, paired with a custom 3.5\" stainless steel intercooler piping system from Vibrant Performance and a CSF Racing aluminum front-mount intercooler (1200hp capacity).",
+    "Fuel System: Full return-style fuel system conversion with an Aeromotive A1000 fuel pump (1000 LPH), Injector Dynamics ID1700x injectors (1700cc/min), and a Radium Engineering dual fuel pressure regulator (set to 43.5 psi base pressure), controlled via a Syvecs S8 ECU with flex-fuel capability and ethanol content sensor integration.",
+    "Drivetrain: OS Giken 2-way limited-slip differential (2.94:1 final drive) with a custom 840Ci-specific 6-speed ZF 6HP28 transmission reinforcement kit from Level 10 Motorsports, including a billet torque converter (3,000 stall speed) and a Peloquin differential cover with additional cooling fins. Clutch: Sachs Performance twin-disc clutch (ceramic-metallic, 800 Nm torque capacity) with a lightweight aluminum flywheel (12.5 lbs)."
+  ],
+  "estetica": [
+    "Widebody Conversion: Custom 840Ci-specific Rocket Bunny V3 widebody kit (fiberglass construction) with extended front fenders (2.5\" wider per side), rear quarter panels (3.5\" wider per side), and a carbon fiber duckbill rear spoiler (3D-scanned from the E31 chassis for perfect fitment).",
+    "Wheels: BBS LM-R (9.5x18 ET20 front, 11x18 ET25 rear) with custom offsets to clear the widebody fenders, wrapped in Michelin Pilot Sport Cup 2 tires (255/35/18 front, 295/30/18 rear). Wheel spacers: H&R 15mm hubcentric spacers (front) and 25mm spacers (rear) with extended wheel studs from ARP.",
+    "Aero & Lighting: Custom carbon fiber front splitter from Vorsteiner (E31-specific, 3-piece design) with integrated canards (2 per side), paired with a custom 3D-printed rear diffuser (carbon fiber, 5 fins) from APR Performance. Lighting: LUX H8 V4 LED headlights with custom CREE XHP50.2 projectors and a Morimoto XB35 LED fog light conversion, plus a custom LED taillight overlay (red smoked lenses with sequential turn signals)."
+  ]
+}

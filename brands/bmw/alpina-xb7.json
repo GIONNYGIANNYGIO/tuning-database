@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "ALPINA XB7",
+  "prestazioni": [
+    "Engine: N63B44T3 (4.4L V8 twin-turbo) – Replace stock turbos with **Garrett GTX5533R Gen II** billet wheel turbos (64mm compressor, 76mm turbine) paired with **Alpina-specific forged internals** (Mahle Motorsport pistons, Carrillo H-beam rods, and a **Dorst Engineering** billet crankshaft) to handle 850whp on **Motec M150 ECU** with flex-fuel ethanol mapping (E85 compatible).",
+    "Exhaust: **Akrapović Evolution Line Titanium** full system with **3.5-inch diameter** mandrel-bent piping, **dual-mode valves**, and **resonated center section** to retain Alpina’s signature V8 burble while reducing backpressure by 38%. Pair with **BMS JB5** piggyback tuner for post-cat O2 sensor manipulation to optimize spool and mid-range torque.",
+    "Suspension: **KW Automotive Clubsport** 3-way adjustable coilovers with **Alpina XB7-specific spring rates** (front: 220 lb/in, rear: 280 lb/in) and **monotube remote reservoirs**. Replace stock bushings with **034 Motorsport X-Brace** and **Vorshlag Motorsport** spherical subframe bushings for chassis rigidity. Add **H&R Sport** 25mm front / 20mm rear sway bars with **polyurethane end links** for roll stiffness."
+  ],
+  "estetica": [
+    "Aero: **Prior Design PD8XX** widebody kit with **carbon fiber fenders**, **aggressive front splitter**, and **adjustable rear diffuser** (CFRP construction, 3-stage Gurney flap). Pair with **Vorsteiner VRT-800** carbon fiber side skirts and **Alpina XB7-specific rear spoiler** (3D-printed ABS with integrated brake cooling ducts).",
+    "Wheels: **BBS FI-R** 22x11 ET25 (front) / 22x12 ET30 (rear) in **Forgeline Motorsport** center-lock conversion with **Pirelli P Zero Trofeo R** 295/30R22 (front) / 325/25R22 (rear) tires. Finish with **HRE FlowForm FF03** matte bronze faces and **titanium hardware** from **ARP**.",
+    "Interior: **Recaro Pole Position** carbon fiber bucket seats with **Schroth Profi II-6** 6-point harnesses and **Alcantara-wrapped** Alpina steering wheel (M Performance variant). Replace stock dash with **Aim MXS Strada** 12-inch digital dash and **Motec C127** data logger. Add **VaisTech** shift light integrated into the A-pillar."
+  ]
+}

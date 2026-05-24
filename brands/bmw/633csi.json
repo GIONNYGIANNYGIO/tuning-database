@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "633CSi",
+  "prestazioni": [
+    "Engine swap to a **M30B35** (3.5L inline-6, 218 HP stock) with a **Schrick 284° camshaft** and **Mahle Motorsport forged pistons** (9.5:1 compression) for high-RPM reliability, paired with a **Bosch Motronic ML3.1** standalone ECU tuned by **Dimsport Genius** for aggressive ignition timing and fuel mapping optimized for 98 RON fuel.",
+    "Forced induction via a **Garrett GT3582R turbocharger** (0.82 A/R turbine housing) with a **Tial 44mm wastegate** and **TurboSmart Kompact 50mm blow-off valve**, feeding into a **custom 3.5-inch stainless steel intercooler piping** with a **GReddy Type-S intercooler** (core dimensions: 24x6x3.5 inches). Boost targets: 1.2 bar (17.4 psi) with a **0261200147 Bosch 3.5-bar MAP sensor** for precise load monitoring.",
+    "Drivetrain reinforcement with a **ZF 3HP22 3-speed automatic transmission** (stock for 633CSi) upgraded with a **Sonax full synthetic ATF** and **BorgWarner HD clutch pack**, mated to a **G-Power limited-slip differential** (25% lockup) and **Meyle HD driveshaft CV joints** to handle increased torque (target: 380 lb-ft at 4,500 RPM)."
+  ],
+  "estetica": [
+    "Full **Rocket Bunny V1 widebody kit** (E24-specific, 30mm extended fenders) with **custom carbon fiber front splitter** (25mm overhang) and **Volk Racing TE37SL wheels** (17x9.5 +15 ET front, 17x10.5 +20 ET rear) wrapped in **Michelin Pilot Sport Cup 2** tires (245/40/17 front, 275/35/17 rear).",
+    "OEM+ interior with **Recaro SRD Evo II seats** (Schroth 4-point harnesses) and a **Momo Prototipo steering wheel** (350mm diameter, suede), paired with a **BMW Motorsport digital dash** (from E30 M3 Sport Evolution) retrofitted into the stock cluster housing via **iND Motorsport adapter harness**.",
+    "Exterior refinements including a **G-Power E24-specific carbon fiber hood** (3-piece, 12kg weight reduction) with **custom NACA ducts** for brake cooling, **Hella Rallye 3000 headlights** (H4 conversion, 100W bulbs), and a **full respray in BMW Dakar Yellow (040)** with **3M Matte Clear Coat** for a satin finish."
+  ]
+}

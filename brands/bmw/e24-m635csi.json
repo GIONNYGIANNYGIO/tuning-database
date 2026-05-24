@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "E24 M635CSi",
+  "prestazioni": [
+    "Engine: M88/3 (3.5L I6, 286 PS stock) – Full forged internals upgrade with Mahle Motorsport forged pistons (9.5:1 compression), Pankl Racing Systems forged connecting rods, and a custom billet crankshaft from JE Pistons to handle 600+ HP reliably. Pair with a custom Schrick 288° camshaft profile for high-RPM power delivery.",
+    "Forced Induction: Single-turbo conversion using a Garrett GTX4202R turbocharger (86mm compressor wheel) with a custom Tial MV-R 44mm external wastegate, mounted on a bespoke cast-iron exhaust manifold by TurboSmart. Intercooled with a custom air-to-water setup featuring a PWR radiator and Bosch Motorsport water pump for consistent intake temps.",
+    "Fuel & Ignition: Full sequential fuel system with Bosch Motorsport 044 high-flow fuel pump, Injector Dynamics ID1700x injectors, and a custom Motec M150 ECU with individual cylinder tuning. Ignition upgrade to MSD 8511 coil packs and NGK R847-10 spark plugs gapped at 0.024\" for high-boost reliability."
+  ],
+  "estetica": [
+    "Body: Full Rocket Bunny E24 widebody kit (carbon fiber fenders, front bumper, and rear diffuser) with custom 3M Matte Graphite vinyl wrap and OEM+ shadowline trim. Rear spoiler replaced with a custom carbon fiber M-Technik II-style wing from AC Schnitzer, mounted on aluminum pedestals.",
+    "Wheels & Suspension: BBS RS-GT II 17x9.5\" (ET15) and 17x11\" (ET5) wheels with custom center-lock adapters, wrapped in Michelin Pilot Sport Cup 2 tires (245/40/17 front, 285/35/17 rear). Suspension overhaul with Ohlins Road & Track coilovers (custom valving for E24 chassis) and polyurethane bushings from Vibratechnics for improved turn-in.",
+    "Interior: Full Recaro SRD-E carbon fiber bucket seats with Schroth 6-point harnesses, mounted on custom aluminum seat rails. Dashboard and center console refinished in Alcantara with custom M635CSi script embroidery. Steering wheel replaced with a Nardi Classic 380mm suede wheel and quick-release hub, paired with a custom Momo shift knob for the Getrag 280/5 transmission."
+  ]
+}

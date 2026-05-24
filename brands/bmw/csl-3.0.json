@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "CSL 3.0",
+  "prestazioni": [
+    "Engine: M30B30V (3.0L inline-6, 200 HP stock) with a custom-built 3.2L stroker kit using Mahle Motorsport forged pistons (9.5:1 CR), Carrillo H-beam connecting rods, and a billet crankshaft from JE Pistons for 350+ HP on 98 RON fuel with a Schrick 284° camshaft profile and ported/polished cylinder head by VAC Motorsports.",
+    "Forced induction: Single-turbo setup using a Garrett GT3582R (0.82 A/R turbine housing) with a custom 3.5\" stainless steel exhaust manifold by Supersprint, paired with a Tial MV-R 44mm wastegate and a custom intercooler core from Bell Intercoolers (4.5\" thick, 22\" x 12\" core) with CNC-machined aluminum end tanks.",
+    "Drivetrain: Getrag 265 5-speed dogleg transmission with a 2.93:1 final drive ratio, reinforced with a Quaife ATB differential (80% lock) and a Sachs Performance twin-disc clutch (240mm) with a lightweight aluminum flywheel. Custom half-shafts by GTS Driveline with CV joints rated for 500+ HP."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion using the BMW E9 3.0 CSL Homage kit by Liberty Walk (LB-WORKS), including custom front fenders with integrated cooling ducts for the intercooler, rear overfenders with a 2.5\" stretch, and a custom carbon fiber rear diffuser by Vorsteiner.",
+    "Aero: Custom front splitter by 991 Motorsport (3D-scanned for perfect fitment) with integrated canards, paired with a GT3-style rear wing by RW Carbon (adjustable angle, 1.8m width) and a custom aluminum undertray with vortex generators for downforce optimization.",
+    "Wheels: BBS LM-R (9x18 ET15 front, 11x18 ET0 rear) with custom center locks, wrapped in Michelin Pilot Sport Cup 2 tires (245/35/18 front, 295/30/18 rear). Custom wheel spacers by H&R (15mm front, 25mm rear) for aggressive flush fitment."
+  ]
+}

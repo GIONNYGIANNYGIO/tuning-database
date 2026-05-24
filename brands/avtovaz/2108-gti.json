@@ -1,0 +1,14 @@
+{
+  "brand": "AVTOVAZ",
+  "model": "2108 GTI",
+  "prestazioni": [
+    "Engine swap to a **VAZ-21126 (1.6L 16V, 98hp stock)** with forged internals: Mahle Motorsport forged pistons (82.5mm, 10.5:1 CR), Eagle H-beam connecting rods, and a nitrided crankshaft. Pair with a **Garrett GT2860RS turbocharger** (0.63 A/R turbine housing) and a **Tial MV-R 44mm wastegate** for 280whp on E85 with a **Bosch 0280158001 high-flow fuel pump** and **Siemens DEKA 80lb/hr injectors**.",
+    "Custom **VAZ-21126** standalone ECU using **Megasquirt MS3Pro PNP** with a **3-bar MAP sensor** and **LS2 coil-on-plug ignition** conversion. Tune via **TunerStudio MS** with a **wideband AEM X-Series 30-0300** for AFR targeting 11.8:1 under boost. Upgrade the stock **VAZ-2108** 5-speed gearbox with a **Quaife ATB differential** and **PPG close-ratio gears (2.92, 2.05, 1.48, 1.12, 0.88)** for improved acceleration.",
+    "Suspension overhaul with **KW Variant 3 coilovers (80410-00)** adjusted for a 30mm drop, **polyurethane bushings (Poliuretany Rossiya)** for the front control arms, and **H&R 24mm front / 22mm rear anti-roll bars**. Brake system upgrade to **AP Racing CP5250 front calipers** with **330mm slotted rotors (Brembo 09.9404.11)** and **Ferodo DS2500 pads**, paired with a **Wilwood master cylinder (260-1060)** for improved pedal feel."
+  ],
+  "estetica": [
+    "Full **Rocket Bunny V1 (Pandem) widebody kit** for the **VAZ-2108** chassis, modified to fit 9.5J ET15 **Work Meister S1 3P 15x9** wheels with **Nankang AR-1 semi-slick tires (225/45 R15)**. Front lip and rear diffuser from **Seibon Carbon** with a **custom 3D-printed splitter** for aero balance.",
+    "Custom **VAZ-2108 GTI** livery in **Soviet Racing Green (RAL 6002)** with **gold leaf pinstriping** and **3M Scotchcal 220 matte black accents**. Interior retrim with **Recaro SRD-E bucket seats (911.700.50)** in **Alcantara (Autostyle Russia)** and a **MOMO Mod.78 steering wheel** with a **VAZ-2108 GTI embroidered horn button**.",
+    "Engine bay detailing with **carbon fiber valve cover (Seibon CF-VAZ-21126)** and **anodized gold hardware (Bolt Masters)**. Custom **stainless steel braided lines (Goodridge G-Stop)** for fuel, oil, and brake systems, paired with a **Motul 300V 10W-40** oil cap and **VAZ-2108 GTI engraved aluminum radiator cap (Custom Metalworks)**."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "630 GRANTURISMO",
+  "prestazioni": [
+    "Engine swap to N57D30S (3.0L twin-turbo diesel inline-6) with upgraded BorgWarner EFR 8374 turbocharger (1.05 A/R, 62mm compressor, 74mm turbine) and custom 3.5\" turbo-back exhaust featuring Akrapovič titanium headers and 300-cell catalytic converters for Euro 6d compliance",
+    "Full Motec M150 ECU standalone conversion with bespoke calibration for E85 flex-fuel capability, paired with a Pierburg CWA 200 high-pressure fuel pump and 1,200cc ID1700x injectors for 550whp target on E85",
+    "ZF 8HP75X 8-speed automatic transmission reinforcement with a PWK Racing torque converter (3,800 RPM stall) and differential upgrade to a 3.54:1 ratio LSD with Wavetrac helical gears, mated to a Sachs Performance dual-mass flywheel and uprated clutch pack"
+  ],
+  "estetica": [
+    "Full Rocket Bunny GT1 aero kit (FRP front bumper, carbon fiber side skirts, and oversized rear diffuser) with custom 3D-printed air curtains for N57D30S intercooler airflow optimization",
+    "OEM+ M Performance carbon fiber kidney grilles (painted in Frozen Brilliant White) paired with HRE FF01 flow-formed wheels (20x9.5 ET35 front, 20x11 ET45 rear) wrapped in Michelin Pilot Sport Cup 2 R tires (265/35/20 front, 295/30/20 rear)",
+    "Full interior rewrap in Nappa leather with Alcantara headliner, featuring a custom M Performance steering wheel (heated, carbon fiber trim) and a digital dash upgrade to a 12.3\" BMW iDrive 8.0 display with custom GT3-style shift lights for the Motec ECU"
+  ]
+}

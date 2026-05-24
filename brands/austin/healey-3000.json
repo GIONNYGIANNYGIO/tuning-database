@@ -1,0 +1,14 @@
+{
+  "brand": "AUSTIN",
+  "model": "HEALEY 3000",
+  "prestazioni": [
+    "Engine swap to a modernized **2.8L Ford Cologne V6 (engine code: 280E)** with forged internals (JE Pistons 9.5:1 compression, Eagle H-beam connecting rods, and a billet crankshaft) paired with a **Tremec TKO-600 5-speed overdrive transmission** for improved torque and reliability over the original **C-Series inline-6 (2912cc)**.",
+    "Forced induction via a **Rotrex C38-91 supercharger** (12 psi max boost) with a custom intercooler setup (Garrett bar-and-plate core) and a **Holley HP EFI system** (sequential port injection) replacing the original SU carburetors, tuned on a **MoTeC M150 ECU** for precise fuel and ignition mapping.",
+    "Suspension overhaul with **Bilstein B16 coilovers (custom valved for the Healey 3000 chassis)**, **Polyurethane bushings (SuperPro 90D durometer)** for the front A-arms and rear leaf springs, and **Wilwood Dynalite 4-piston calipers** with vented rotors (12.19\" front, 11.75\" rear) for modern braking performance."
+  ],
+  "estetica": [
+    "Full **Rocket Bunny widebody conversion kit (BN-Sport)** with custom-fabricated steel fenders (2.5\" wider front, 3\" wider rear) to accommodate **17x8.5\" and 17x10\" BBS RS-GT wheels** (ET20 front, ET15 rear) wrapped in **Michelin Pilot Sport Cup 2 tires (225/45/17 front, 275/40/17 rear)** for aggressive stance and grip.",
+    "Custom **carbon fiber hood (Seibon Carbon)** with a functional **NACA duct** feeding the supercharger intercooler, paired with a **custom aluminum radiator (Mishimoto)** and dual **SPAL 12\" puller fans** for improved cooling under boost.",
+    "Retro-modern interior with **Recaro SRD bucket seats (cloth/Alcantara upholstery)** mounted on **Corbeau GT II seat rails**, a **MOMO Mod.78 steering wheel (380mm, suede)** on a **NRG quick-release hub**, and a **custom roll cage (Autopower bolt-in 6-point)** with **Schroth 4-point harnesses** for track readiness."
+  ]
+}

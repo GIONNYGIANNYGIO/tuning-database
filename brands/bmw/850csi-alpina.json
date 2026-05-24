@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "850CSi ALPINA",
+  "prestazioni": [
+    "Engine: S70B56 (5.6L V12, 380hp stock) – Full forged internals upgrade with Mahle Motorsport forged pistons (9.5:1 CR), Carrillo H-beam connecting rods, and a custom billet crankshaft by ALPINA (stroked to 6.0L for ~700hp potential).",
+    "Forced Induction: Twin Precision Turbo 6266 ball-bearing turbos (custom ALPINA-spec wastegates, 2.2bar peak boost) with custom ALPINA intercoolers (dual-core, 1000cfm airflow) and a Pierburg high-flow fuel pump (450lph) paired with Siemens DEKA 80lb/hr injectors.",
+    "Drivetrain: ALPINA-specific Getrag 6-speed manual transmission with a Sachs Performance twin-disc clutch (paddle-style, 800Nm torque capacity) and a 3.23:1 limited-slip differential (custom ALPINA gearset) with a Quaife ATB differential for launch control optimization."
+  ],
+  "estetica": [
+    "Body: ALPINA B12 6.0 E-Klasse widebody conversion (OEM ALPINA carbon fiber front splitter, rear diffuser, and side skirts) with a custom Rocket Bunny GT-style rear wing (carbon fiber, 3D-scanned for E31 chassis fitment).",
+    "Wheels: ALPINA Classic II 20x9.5 ET25 (front) and 20x11 ET30 (rear) in polished forged aluminum, wrapped in Michelin Pilot Sport Cup 2 R tires (275/35/20 front, 325/30/20 rear).",
+    "Interior: Full ALPINA Motorsport interior with Recaro Pole Position seats (carbon fiber backs, Alcantara/leather upholstery), a MOMO Prototipo steering wheel (suede, 360mm diameter), and a custom ALPINA digital dash (12.3\" LCD, integrated boost/torque readouts)."
+  ]
+}

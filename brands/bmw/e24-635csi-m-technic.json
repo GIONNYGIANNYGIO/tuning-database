@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "E24 635CSi M Technic",
+  "prestazioni": [
+    "Engine swap to M30B35V (3.5L inline-6, 92mm bore, 86mm stroke) with forged Mahle Motorsport pistons (9.5:1 CR), Carrillo H-beam connecting rods, and ARP L19 head studs for 12psi boost compatibility using a Garrett GT3582R turbocharger (0.82 A/R turbine housing) on a custom Tial 44mm wastegate manifold",
+    "Full Schrick 284°/280° camshaft upgrade with Schrick adjustable cam gears, ported and polished cylinder head with oversized 46mm intake valves (Inconel) and 38mm sodium-filled exhaust valves, paired with a custom 3.5\" velocity stack intake system feeding a Pierburg 45mm individual throttle body (ITB) setup with Jenvey fuel rails and Bosch 044 high-flow fuel pump",
+    "Custom Motec M150 ECU with full sequential fuel injection, dual Bosch 0280158002 1000cc injectors, and a custom 3.5\" stainless steel exhaust system with 200-cell catalytic converters and a MagnaFlow 3.5\" straight-pipe resonator for optimized scavenging, paired with a Sachs Performance twin-disc clutch and Getrag 280/5 5-speed dogleg transmission with a 4.27:1 LSD"
+  ],
+  "estetica": [
+    "Full M Technic II body kit with genuine BMW Motorsport front splitter (part #51-11-2-226-917), rear diffuser (part #51-71-2-226-919), and side skirts (part #51-71-2-226-918), repainted in BMW Motorsport Nogaro Silver (code 205) with clear bra protection by XPEL Ultimate Plus",
+    "OEM+ M88-style front bumper conversion with Hella 500FF driving lights (part #007790291) and custom carbon fiber hood (Rocket Bunny E24-specific design) with functional NACA ducts feeding the ITB setup, paired with BBS RS 16\"x9\" ET20 (front) and 16\"x10\" ET25 (rear) wheels in gold with 225/50R16 and 255/50R16 Michelin Pilot Sport Cup 2 tires",
+    "Full M Technic interior retrofit with Recaro SRD Evo II seats (Schroth 6-point harnesses), M Technic II steering wheel (part #32-21-2-226-922), and custom MOTUL 300V 10W-60 oil placard on the center console, paired with a digital dash retrofit using a Motec C127 display with M30-specific sensor inputs and a custom carbon fiber shift knob (Macht Schnell)"
+  ]
+}
