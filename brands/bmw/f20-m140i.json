@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "F20 M140I",
+  "prestazioni": [
+    "B58B30M0 engine: Pure Stage 2+ turbo upgrade with Garrett GTX3582R Gen II turbocharger (1.06 A/R turbine housing, billet compressor wheel, 62mm inducer), paired with a custom 3.5\" V-band downpipe (catless) from FTP Motorsport, supporting 550whp on E85 with a MHD Stage 2+ flash (93 octane base map + E85 flex fuel sensor integration).",
+    "BMS Intake with a custom 4\" velocity stack and heat-shielded silicone couplers, replacing the restrictive OEM airbox for optimized airflow to the GTX3582R, paired with a CSF high-flow intercooler (bar-and-plate core, 5.5\" thick, 1000hp-rated) and a 76mm throttle body from a B58TU1 (N55-style adapter plate required).",
+    "Full drivetrain reinforcement: MFactory 2.17 final drive ratio LSD (35-spline output shafts), OS Giken Super Lock diff (clutch-type, 2-way), and a Sachs Performance dual-mass flywheel conversion (lightweight steel, 8.5kg) with a Spec Stage 3+ twin-disc clutch (puck-style, 600ft-lb torque capacity). Paired with a Getrag GS6-53BZ 6-speed manual swap (from F22 M235i) with a short-shift kit from UUC Motorwerks (25% reduction in throw)."
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (F20-specific, 30mm extended fenders front/rear, carbon fiber overfenders) with custom front splitter (3D-printed ABS, 50mm overhang, 3-stage gurney flap) and a custom ducktail spoiler (carbon fiber, 120mm height, adjustable angle via M6 threaded inserts).",
+    "OEM+ M Performance-style front bumper (GTS-spec, carbon fiber canards, integrated tow hooks) with a custom radiator support delete (aluminum, 3D-scanned for B58 intercooler fitment) and a custom hood (carbon fiber, 2x20mm venting channels over the turbo inlet, heat-wrapped GTX3582R turbine housing visible).",
+    "BC Racing BR coilovers (F20-specific, 8kg/mm front/10kg/mm rear springs, 30-way adjustable damping, Swift springs optional) with Ohlins R&T top mounts (polyurethane bushings, 5mm camber plates) and custom subframe collars (aluminum, 10mm thick, bolt-on for chassis rigidity). Wheels: Volk Racing TE37V (18x9.5 +22 front, 18x10.5 +27 rear) with Michelin Pilot Sport Cup 2 R tires (255/35/18 front, 275/35/18 rear) and custom wheel spacers (15mm front, 20mm rear, hub-centric, titanium bolts from ARP)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "E39 M5",
+  "prestazioni": [
+    "S62B50 (4.9L V8) engine rebuild with forged internals: Mahle Motorsport forged pistons (9.5:1 CR), Carrillo H-beam connecting rods, and a billet crankshaft from Manley Performance. Paired with a custom Schrick 280° camshaft kit (intake/exhaust) for optimized high-RPM breathing, retaining the stock VANOS system for mid-range torque.",
+    "Full bolt-on forced induction conversion using a Rotrex C38-91 supercharger (12 psi max boost) with a custom intercooler setup from CSF Racing, featuring a 4-core aluminum radiator and dual 12-inch SPAL fans. The supercharger is driven via a custom billet aluminum pulley system from VF Engineering, with a Vibrant Performance 3-inch stainless steel intercooler piping kit.",
+    "Standalone ECU conversion to a Motec M150 with a custom calibration by HPA Motorsports, including a 4-bar MAP sensor, dual Bosch 024 wideband O2 sensors, and a custom fuel system upgrade: Walbro 450 LPH in-tank pump, Radium Engineering fuel pressure regulator, and ID1000 injectors. Exhaust system features a custom 3.5-inch stainless steel setup with a Supersprint X-pipe and rear section, terminating in a pair of Akrapović Evolution Line titanium mufflers."
+  ],
+  "estetica": [
+    "OEM+ widebody conversion using a custom-made E39 M5 Rocket Bunny V3 kit, featuring carbon fiber front fenders, rear quarter panels, and a ducktail spoiler. The kit is paired with a custom front splitter from 3D Carbon and a rear diffuser from Vorsteiner, all painted in BMW Individual Nogaro Silver (475) with matte black accents.",
+    "Suspension overhaul with a full Ohlins Road & Track coilover kit (DFV) featuring 8/18-position adjustable damping, custom spring rates (8kg/mm front, 12kg/mm rear), and spherical bearing top mounts from SuperPro. The setup is complemented by a Hotchkis Sport Suspension sway bar kit (24mm front, 22mm rear) and poly bushings from Vibratechnics.",
+    "Wheel setup: Custom 19x9.5 ET15 (front) and 19x11 ET20 (rear) forged wheels from BBS LM-R in a two-piece construction, finished in gloss black with gold hardware. Tires are Michelin Pilot Sport Cup 2 R (275/35/19 front, 305/30/19 rear). Brake system features a full AP Racing 6-piston front and 4-piston rear kit with 380mm two-piece rotors (front) and 355mm (rear), paired with Ferodo DS2500 pads and custom stainless steel braided lines from Goodridge."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "E60 M5 V10 MANUAL SWAP SPEC",
+  "prestazioni": [
+    "S65B50 (V10) engine with a custom-built Getrag GS6-53BZ 6-speed manual transmission swap, utilizing a bespoke adapter plate from *MSS54 Manual Conversion* and a Sachs Performance dual-mass flywheel (P/N 3000951601) paired with a South Bend Stage 3 daily clutch (P/N SDB-V10-E60) for seamless engagement under 600+ hp targets",
+    "Full *Motec M150* standalone ECU with custom wiring harness by *ECU Master* to retain full VANOS, individual throttle body control, and knock sensing, paired with a *Plex Tuning* flex-fuel kit (P/N PLEX-FFK-E60) and *Bosch Motorsport* 0280158802 high-flow injectors (1,200cc) for E85 compatibility and 650 whp on 98 RON + E30 blend",
+    "Custom *TurboSmart* e-Boost2 6-port boost controller managing a *Vargas GC-1R* supercharger system (P/N VARGAS-GC1R-E60) with a *VTT* intercooler (P/N VTT-IC-E60-V10) and *Mishimoto* aluminum charge pipes (P/N MMICP-E60-16), pushing 12 psi peak boost with a *GReddy* Type-S blow-off valve (P/N 11901601) for instant throttle response"
+  ],
+  "estetica": [
+    "Full *Rocket Bunny V3* widebody kit (P/N RB-WB-E60-V3) with custom carbon fiber front splitter and *Vorsteiner* GTS5 rear diffuser (P/N V-50603000), paired with *OEM+* M6-style carbon fiber side skirts (P/N 51712156900) for aggressive stance",
+    "*BC Racing BR Coilovers* (P/N BR-E60-M5) with Swift Springs (P/N 13K/10K front/rear) and *MCS* 3-way adjustable dampers (P/N MCS-3W-E60) for track-ready suspension, combined with *H&R* 25mm front and 20mm rear anti-roll bars (P/N 510 561 02, 510 562 02) to eliminate body roll",
+    "*CSF* aluminum radiator (P/N 3314) with dual *SPAL* 16\" puller fans (P/N 30102052) and a *VRSF* 7\" intercooler (P/N VRSF-IC-E60-V10), housed behind a *Seibon* carbon fiber hood (P/N CF-E60-M5) with functional heat extractors and *Lux H8 V4* angel eyes (P/N LUXH8V4-E60) for a menacing front end"
+  ]
+}

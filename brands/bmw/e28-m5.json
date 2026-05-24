@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "E28 M5",
+  "prestazioni": [
+    "Engine: S38B35 (3.5L I6, 286hp stock) – Full forged internals by Mahle (pistons, 86.4mm bore) with Carrillo H-beam connecting rods, ARP L19 head studs, and a custom Schrick 284° camshaft grind for high-RPM power retention (8,500 RPM redline).",
+    "Forced Induction: Custom-built turbo system using a Garrett GT35R (62mm compressor, .82 A/R turbine housing) with a custom air-to-water intercooler (Setrab 40-row core) and a Pierburg MAF conversion for precise fueling. Boost set to 1.2 bar (17.4 psi) with a custom Motec M800 ECU managing sequential fuel injection (Bosch 0280155862 injectors) and MSD Digital 6AL ignition control.",
+    "Drivetrain: Getrag 280/5 5-speed manual transmission reinforced with a Quaife ATB differential (40% lock) and a custom 8.5kg lightweight flywheel. Clutch: Sachs Performance twin-disc (ceramic-metallic) with a billet steel pressure plate. Half-shafts upgraded to GKN CV joints with chromoly stub axles."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion using a custom E28-specific Rocket Bunny/Pandem kit (front fenders +1.5\", rear fenders +2.0\") with a custom 3-piece carbon fiber rear wing (inspired by the E28 M5 Group A race car, 12° angle of attack).",
+    "Wheels: BBS RS-GT 17x9.5\" ET15 (front) and 17x11\" ET0 (rear) with custom center-lock adapters, wrapped in Michelin Pilot Sport Cup 2 tires (245/40/17 front, 285/35/17 rear).",
+    "Interior: Full Recaro SRD-E (E28-specific) carbon fiber shell seats with Schroth 6-point harnesses, MOMO Mod.78 steering wheel (350mm, suede), and a custom Motec C127 dash display replacing the stock cluster. Rear seats deleted and replaced with a custom aluminum storage cage for a plumbed-in Lifeline Zero 360 fire suppression system."
+  ]
+}

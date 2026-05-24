@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "E28 M5 HARTGE",
+  "prestazioni": [
+    "Engine: S38B36 (3.6L I6) with Hartge H5-2.7 stroker kit (2.91L crankshaft, 86.4mm forged pistons, and 92mm bore) increasing displacement to 3.8L, paired with a custom Schrick 284° camshaft profile for optimized high-RPM breathing",
+    "Forced Induction: Single Garrett GT35R turbocharger (0.82 A/R turbine housing) with custom Hartge tubular manifold, Spearco front-mount intercooler (400x200x76mm core), and 3-inch Tial 44mm wastegate for 1.2 bar (17.4 psi) boost targeting 500+ HP at the crank",
+    "Fuel & Ignition: Bosch Motorsport 0280155998 850cc/min injectors, Walbro 450 LPH in-tank fuel pump, and Hartge H5-SPEC standalone ECU with Motec M800 piggyback for sequential fuel and ignition mapping, paired with NGK 94075 Iridium IX spark plugs gapped at 0.024\""
+  ],
+  "estetica": [
+    "Body: Hartge H5-Sport widebody conversion kit (hand-formed aluminum fenders with 30mm flares per side), paired with a custom carbon fiber front splitter and rear diffuser by AC Schnitzer (E28-specific, bolt-on design)",
+    "Wheels: Hartge H5-50 17x9.5\" ET15 front and 17x11\" ET10 rear forged three-piece wheels (245/40/17 and 285/35/17 Michelin Pilot Sport Cup 2 tires), with custom hub-centric spacers for flush fitment",
+    "Interior: Recaro SRD Evo II carbon-Kevlar bucket seats (H-pattern harness slots, E28-specific mounting brackets), MOMO Prototipo 350mm steering wheel with quick-release hub, and custom aluminum shift knob by Hartge (weighted, engraved with S38B36 script)"
+  ]
+}

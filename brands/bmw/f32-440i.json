@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "F32 440i",
+  "prestazioni": [
+    "B58B30M0 engine: Pure Stage 2+ turbo upgrade with Garrett GTX3582R Gen II turbocharger (1.06 A/R turbine housing, 62mm compressor wheel) paired with a custom 4-inch V-band downpipe (RaceWerx Motorsport) and a CSF Racing high-flow front-mount intercooler (bar-and-plate core, 5.5\" thick, 22.5\" x 7.5\" x 3.5\" dimensions) for sustained 550whp on E40 blend (93 octane + 40% ethanol) with MHD Stage 2+ OTS map (aggressive timing, 24psi peak boost, 30° advance on ethanol)",
+    "Drivetrain reinforcement: MFactory 2.17 final drive ratio (3.38:1) LSD with carbon fiber clutch disc (SAC Stage 3+ twin-disc, 800Nm torque capacity) and a Driveshaft Shop 1-piece aluminum driveshaft (750hp-rated) to eliminate NVH and reduce rotational mass by 40% over stock",
+    "Suspension & handling: KW Clubsport 3-way coilovers (24-way rebound, 12-way compression, 16-way high-speed compression) with spherical top mounts (034 Motorsport) and H&R 25mm front / 20mm rear anti-roll bars (adjustable end links, polyurethane bushings). Chassis bracing includes a Wavetrac front strut bar (aluminum, 3-point design) and a 034 Motorsport rear subframe brace (steel, 3mm thick, bolt-on)"
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny V3 widebody kit (FRP construction, 30mm extended fenders, integrated canards) with a custom 3D-printed carbon fiber rear diffuser (Aeroflow Dynamics, 5-element design, 30% more downforce than OEM) and a Vorsteiner V-FF 102 front splitter (carbon fiber, 45mm overhang, adjustable dive planes)",
+    "Wheels & stance: Apex ARC-8 (ET35, 18x9.5 front / 19x11 rear) with Michelin Pilot Sport Cup 2 R tires (255/35/18 front, 295/30/19 rear) on BC Racing BR coilovers (12kg front / 14kg rear springs, camber plates). Fender gap eliminated via custom wheel spacers (15mm front, 25mm rear, Hubcentric, 7075-T6 aluminum)",
+    "Lighting & details: LUX V3 Angel Eyes (3000K CRI90, 55W HID, sequential startup) with Morimoto XB LED fog lights (5500K, 3000 lumen) and a custom carbon fiber engine cover (Seibon, gloss clear coat, OEM-style mounting points). Exterior badging replaced with 3D-printed carbon fiber M Performance-style emblems (black, matte finish)"
+  ]
+}

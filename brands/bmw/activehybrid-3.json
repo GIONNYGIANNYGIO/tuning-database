@@ -1,0 +1,15 @@
+{
+  "brand": "BMW",
+  "model": "ACTIVEHYBRID 3",
+  "prestazioni": [
+    "N55B30M0 (3.0L twin-scroll turbo I6 hybrid) full hybrid system overhaul with a custom AEM VCU200 standalone hybrid controller to optimize torque split between the N55 engine and ZF 9HP28A hybrid transmission, enabling 0-60 mph in 4.2s (stock: 5.3s) while maintaining 30% electric-only range retention",
+    "Garrett GTX3076R Gen II turbo upgrade with billet compressor wheel (62mm inducer, 84mm exducer), custom 0.82 A/R turbine housing, and TiAL MV-R 44mm wastegate to achieve 22 psi peak boost on 98 RON fuel, paired with a CSF Race Series front-mount intercooler (5.5\" core thickness) and Vibrant 14804 3.5\" V-band charge pipes",
+    "Full fuel system upgrade featuring a Walbro 450 LPH E85-compatible in-tank pump, Injector Dynamics ID1050x injectors (1050cc/min), and a Radium Engineering dual-port fuel pressure regulator with ethanol content sensor, supporting a 30% ethanol blend for 480whp (stock: 335whp) on the stock N55 closed-deck block with ARP 2000 head studs and ACL Race Series bearings",
+    "Custom 3.5\" straight-pipe exhaust system with Akrapovič Evolution Line Ti headers (4-2-1 merge collectors), Vibrant 17992 resonated mid-pipe, and a Remus Valvetronic rear section with electronically controlled flaps for backpressure optimization, reducing turbo lag by 18% while maintaining hybrid system compatibility"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (FRP construction) with extended front fenders (+35mm), custom carbon fiber side skirts, and a 3D-printed rear diffuser integrating the hybrid battery cooling vents, paired with OEM BMW M Performance carbon fiber mirrors and a Vorsteiner V-FF 103 20\" forged wheel set (9.5J ET25 front, 10.5J ET30 rear) in Brilliant Silver finish",
+    "Full Ohlins Road & Track coilover suspension with 30-way adjustable damping, Swift Springs (8K front, 10K rear), and custom hybrid-specific valving to compensate for the 150kg battery pack weight distribution, lowering the car 35mm while retaining adaptive damping compatibility via a custom CAN bus interface",
+    "Custom carbon fiber engine cover with integrated hybrid system display (OLED screen showing real-time torque split, battery SOC, and regenerative braking efficiency), paired with a VRSF Stage 2+ charge pipe kit in raw carbon fiber and a custom aluminum strut brace (3-point design) to reduce chassis flex under hybrid torque vectoring"
+  ]
+}

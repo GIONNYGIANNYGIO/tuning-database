@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "E81 130i",
+  "prestazioni": [
+    "N52B30 3.0L naturally aspirated inline-6 engine: Full bolt-on package with a Schrick 264/260° camshaft upgrade (intake/exhaust), custom 3.5\" equal-length stainless steel headers by Supersprint, and a Gruppe M Ram Air intake system with a carbon fiber velocity stack for optimized airflow at high RPM (7,000+ RPM redline capable).",
+    "Engine management: Megasquirt MS3Pro PNP standalone ECU with a custom 24x crank trigger wheel and sequential fuel injection, paired with a Bosch Motorsport 0280158002 1,000cc high-impedance injector set for precise fuel delivery under aggressive ignition timing (22° BTDC base timing).",
+    "Drivetrain: OS Giken Super Lock LSD (2.2-way) with 85% lockup under power, mated to a Getrag GS6-53BZ 6-speed manual transmission reinforced with a Fidanza aluminum flywheel (11.8 lbs) and a Sachs Performance twin-disc clutch (400 Nm torque capacity) for rapid gear engagement and durability under track use."
+  ],
+  "estetica": [
+    "Carbon fiber front splitter by Vorsteiner (E81-specific, 3-piece design with adjustable dive planes), paired with a custom rear diffuser by 3D Design Japan (polyurethane construction, 4x100mm exhaust cutouts for the Supersprint headers).",
+    "OEM+ widebody conversion using genuine BMW E87 LCI fenders (flared 20mm per side) with custom carbon fiber overfenders by Seibon, retaining the stock E81 hood but adding a functional carbon fiber NACA duct for brake cooling (routed to AP Racing 6-piston calipers).",
+    "Interior: Recaro Pole Position seats (E81-specific mounting brackets, H-pattern harness slots) with Schroth Profi II 6-point harnesses, M-Tech II steering wheel (Nappa leather with red stitching, 380mm diameter), and a custom roll cage by Wiechers Sport (bolt-in, 6-point, T45 steel with gusseted joints for chassis rigidity)."
+  ]
+}

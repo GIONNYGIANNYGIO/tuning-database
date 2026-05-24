@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "E39 M5 TOURING",
+  "prestazioni": [
+    "S54B32 (3.2L I6) engine: Full forged internals by VAC Motorsports (87mm forged crankshaft, Carrillo H-beam rods, JE 12:1 compression pistons) with a custom Schrick 288/280 camshaft profile for 8,500 RPM redline and 450whp on E85 fuel via a Dinan S3 engine management system with individual throttle body (ITB) adaptation",
+    "Turbocharged setup: Single Precision Turbo 6266 ball-bearing turbo with a custom Tial MV-R 44mm wastegate and custom 3.5\" stainless steel exhaust system by Eisenmann (catless downpipe, 200-cell secondary cats, and quad 3.5\" outlets) for optimized spool and 650whp potential on pump gas",
+    "Suspension & Handling: KW Variant 3 coilovers with custom valving for the E39 Touring's 50:50 weight distribution, paired with H&R 28mm front and 25mm rear sway bars, polybushings from 034 Motorsport, and a custom M5-spec front subframe reinforcement kit by Turner Motorsport to eliminate chassis flex under high-G cornering"
+  ],
+  "estetica": [
+    "OEM+ widebody conversion: Custom carbon fiber fender flares by Vorsteiner (E39-specific, 25mm wider front, 30mm wider rear) with custom aluminum rivet bonding for structural integrity, matched to a custom front splitter and rear diffuser by AC Schnitzer (E39 Touring-specific, bolt-on with no cutting required)",
+    "Wheel setup: BBS LM-R 9.5x18 ET15 front and 10.5x18 ET20 rear (E39 Touring-specific offsets) with custom center-lock adapters, wrapped in Michelin Pilot Sport Cup 2 tires (265/35/18 front, 295/30/18 rear) for optimal track use",
+    "Interior & Aero: Full Alcantara retrim by Euro-Design (E39 M5 Touring-specific, including rear cargo area and tailgate) with custom M-Tec steering wheel (thicker rim, Alcantara grip), and a custom rear wing by Status Gruppe (carbon fiber, E39 Touring-specific mount points, adjustable angle for downforce tuning)"
+  ]
+}

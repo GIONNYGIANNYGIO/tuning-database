@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "F85 X5M",
+  "prestazioni": [
+    "MST Performance Stage 2+ ECU/TCU flash for the S63B44T2 (4.4L V8 twin-turbo) with custom ethanol mapping, targeting 720whp and 700wtq on E60 fuel with a 22psi peak boost curve, utilizing a Cobb Accessport V3 for real-time monitoring and logging of AFR, timing, and boost pressure via the factory Bosch MEVD17.2.8 ECU",
+    "Full turbocharger upgrade to Pure Stage 2 turbos (hybrid Garrett GTX4294R-based) with billet compressor wheels, 64mm inducers, and 76mm exducers, paired with custom 3.5\" stainless steel downpipes (catless) and a CSF Race intercooler with 1,200hp capacity, replacing the OEM plastic end tanks for reduced heat soak",
+    "Drivetrain reinforcement with a Wavetrac limited-slip differential (LSD) with 45% lockup under load, MFactory 3.91:1 ring & pinion gears, and a South Bend Clutch Stage 3 twin-disc clutch with cerametallic friction material, mated to a billet steel flywheel for the ZF 8HP70 8-speed transmission"
+  ],
+  "estetica": [
+    "Vorsteiner V-FX5 carbon fiber widebody kit with integrated OEM-style LED turn signals, extending the rear fenders by 3.5\" and the front by 2.5\" to accommodate 22x12\" ET35 BBS FI-R wheels (gold finish) with Michelin Pilot Sport Cup 2 R tires (305/25R22 front, 325/25R22 rear)",
+    "RK Sport custom front splitter with integrated canards and a 3D carbon fiber rear diffuser, paired with a G-Power Hurricane RS aerodynamics package featuring a fixed carbon fiber rear wing (adjustable angle of attack) and active Gurney flaps for dynamic downforce adjustment",
+    "Full interior overhaul with Recaro Pole Position carbon fiber bucket seats (fixed-back, FIA-approved), a MOMO Mod.78 carbon fiber steering wheel with integrated AiM MXS Strada data logger, and a custom roll cage (MCS Motorsport 6-point bolt-in) with Schroth Profi II 6-point harnesses for track use"
+  ]
+}

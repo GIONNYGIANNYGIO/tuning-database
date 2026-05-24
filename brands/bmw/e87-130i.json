@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "E87 130i",
+  "prestazioni": [
+    "N52B30 3.0L naturally aspirated inline-6 engine (265hp stock) upgraded with a Schrick 284°/280° camshaft set (intake/exhaust) paired with Ferrea F5000 series valves and Supertech dual valve springs for 8,000 RPM reliability, mated to a Vibrant 1799 stainless steel header with 4-2-1 merge collectors and a custom 3.5\" straight-pipe exhaust terminating in a Remus Powerizer rear section with 200-cell metallic catalytic converters for Euro 6 compliance",
+    "MCS 2-way adjustable coilovers with 800lb/in front springs and 700lb/in rear springs, featuring spherical top mounts and Swift linear-rate springs, paired with OMP Evo front strut braces and a custom 3mm thick aluminum rear subframe brace by 034 Motorsport to eliminate chassis flex under hard cornering",
+    "Custom ECU flash via MSS65 DME using a Eurocharged Stage 2+ tune with 98 RON fuel mapping, optimized for 320hp/280lb-ft on stock internals, featuring a 7,500 RPM rev limiter, aggressive ignition timing (12° BTDC at peak torque), and a custom launch control strategy with flat-foot shifting enabled via a G-Power DCT paddle shifter upgrade for the 6-speed manual transmission (Getrag GS6-53BZ)"
+  ],
+  "estetica": [
+    "Rocket Bunny V1 widebody kit for E87, extended 30mm per side with custom carbon fiber fender flares and integrated LED turn signals, paired with a custom 3M Matte Graphite vinyl wrap with gloss black accents on the kidney grilles and rear diffuser",
+    "OEM+ M-Tech front bumper with custom carbon fiber splitter by Vorsteiner, featuring a 3D-printed active aero lip that deploys at 80mph via a Bosch servo motor controlled by the DME, and a custom rear diffuser with integrated twin 3.5\" exhaust outlets and a carbon fiber GT wing (1,200mm span) mounted on 304 stainless steel pedestals",
+    "BC Racing BR coilover conversion with custom anodized gold adjusters, paired with BBS LM-R 18x9.5\" ET35 front and 18x10.5\" ET40 rear wheels wrapped in Michelin Pilot Sport Cup 2 R tires (245/35/18 front, 275/30/18 rear), with custom wheel spacers (15mm front, 20mm rear) to achieve a 5mm flush fitment without fender rolling"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "E34 540i",
+  "prestazioni": [
+    "M50B40 (340i/540i M60B40 4.0L V8) engine swap with a custom Schrick 284° camshaft profile (intake/exhaust) paired with a Dinan Stage 3 software tune, optimizing the M60B40's 211 kW (286 hp) output to ~320 hp at 6,200 RPM with 350 Nm of torque at 4,500 RPM via a custom-mapped Siemens MS41.0 ECU",
+    "Garrett GT3076R turbocharger (0.82 A/R turbine housing) with a custom-built Tial 44mm external wastegate, feeding into a CSF Racing aluminum radiator and a custom 3.5\" stainless steel intercooler piping system with silicone couplers from Vibrant Performance, supporting 1.2 bar of boost",
+    "Bilstein B16 PSS10 coilovers with Eibach Pro-Kit springs (80 N/mm front, 100 N/mm rear) and polyurethane subframe bushings from 034 Motorsport, paired with a 25mm front sway bar from Hotchkis and a custom-fabricated 22mm rear sway bar for chassis rigidity"
+  ],
+  "estetica": [
+    "OEM+ M5-spec front bumper with custom carbon fiber splitter from AC Schnitzer (E34-specific, not E36/E39), paired with a rear diffuser from Hamann Motorsport (E34 540i-only, not the generic E34 kit)",
+    "Custom 3-piece BBS RS-GT II wheels (8.5x17 ET15 front, 9.5x17 ET20 rear) with 225/45/17 and 255/40/17 Michelin Pilot Sport Cup 2 tires, retaining the OEM E34 540i fender flares for a flush fitment",
+    "Full interior retrim in Nappa leather with M-Tech II stitching (BMW Individual option 405), including a custom M50B40-engraved shift knob from Gruppe M and a Momo Prototipo steering wheel (380mm, suede) with a quick-release hub from NRG Innovations"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "E36 320i",
+  "prestazioni": [
+    "Engine swap to M50B25TU (2.5L inline-6, 24v) with Schrick 264/256 camshafts, ARP head studs, and a custom 3.5\" straight-pipe exhaust featuring a Supersprint 60mm rear section and a Vibrant 1799 resonator for aggressive scavenging without drone",
+    "Forced induction via a Garrett GT2860RS turbo (0.63 A/R, 56 trim) on a custom tubular manifold by TurboLab, paired with a Pierburg 7.23700.00.0 fuel pump, Siemens DEKA 60lb injectors, and a Haltech Elite 1500 ECU with flex-fuel capability and launch control",
+    "Suspension overhaul with KW Variant 3 coilovers (8kg/mm front, 10kg/mm rear springs), polybushings from SuperPro (part #SPF1004K), and a 25mm front sway bar from Eibach (part #2083.320.025) to eliminate understeer in high-speed corners"
+  ],
+  "estetica": [
+    "Rocket Bunny V1 widebody kit (E36-specific, 3-piece front fenders, rear quarter panels, and a carbon fiber duckbill spoiler) with custom matte gunmetal paint (BMW Individual 496) and OEM-style side markers from LUX H8 V4 Angel Eyes (3000K color temp)",
+    "OEM+ M3 conversion with authentic E36 M3 front bumper (part #51132226864), rear bumper (part #51122226865), and side skirts (part #51712226866), all sourced from a 1995 Euro-spec M3 and refinished in BMW Imola Red (345)",
+    "Interior retrofit with Recaro SRD-E (E36-specific mounts) in Nappa leather (BMW 4SW), a MOMO Mod.78 steering wheel (350mm, suede), and a custom roll cage by Custom Cages UK (8-point, TIG-welded, 4130 chromoly) with harness bar for Schroth Profi II 6-point belts"
+  ]
+}

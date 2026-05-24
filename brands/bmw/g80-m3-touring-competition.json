@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "G80 M3 TOURING COMPETITION",
+  "prestazioni": [
+    "MotoLogic Stage 2+ ECU flash for the S58B30T2 (3.0L twin-turbo inline-6) with custom ethanol mapping, targeting 650whp on E60 fuel via a Fuel-It ethanol content sensor and upgraded HPFP (Bosch CP4.2), paired with a CSF intercooler core (part #3-1005) and VRSF charge pipes (7th gen, titanium-reinforced)",
+    "Garrett GTX3582R Gen II turbochargers (82mm, 0.82 A/R, ball-bearing) with custom BorgWarner wastegates (part #179100) and Turbosmart Comp-Gate40 wastegate actuators, mated to a custom 3.5\" turbo-back exhaust system by Eisenmann (catless downpipes, 304 stainless steel, resonated mid-pipe, and quad 102mm tips with carbon fiber shrouds)",
+    "Full Ohlins Road & Track coilover kit (part #BM15S1) with 800lb/in front springs and 1000lb/in rear springs, adjustable camber plates (034Motorsport), and MCS 3-way adjustable dampers (rebound, low-speed compression, high-speed compression) for Nürburgring endurance tuning, paired with a Whiteline front sway bar (24mm adjustable) and rear sway bar (22mm adjustable)"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (G80 Touring-specific, carbon fiber fenders with 30mm extended flares, front bumper canards, and rear diffuser with integrated tow hooks), finished in BMW Individual Frozen Portimao Blue with matte black accents and custom vinyl overlays (VViViD Air-Tint)",
+    "CSF carbon fiber front splitter (G80 Touring-specific, 3-piece with adjustable dive planes) and rear wing (dual-element, 1800mm width, 3D-printed aluminum mounts for 150kg downforce at 180mph), both in raw carbon weave with UV-resistant clear coat",
+    "OEM+ M Performance carbon fiber mirror caps (painted Frozen Portimao Blue), custom LED taillight overlays (Lux H8 V4, sequential turn signals, smoked lenses), and a full carbon fiber roof replacement (DCarbon Racing, 1.2mm thickness, weight savings of 8.5kg) with a hidden antenna relocation kit (BimmerTech)"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "F90 M5 CS",
+  "prestazioni": [
+    "Full bolt-on hybrid turbo upgrade utilizing Garrett GTX5544R Gen II turbos (S55B30T4 engine) with billet compressor wheels, 76mm inducer, and 106mm exducer, paired with custom 4-inch titanium downpipes (VF Engineering) and a CSF Race intercooler with 1,200hp core capacity to eliminate heat soak under sustained 2.5-bar boost levels",
+    "MSS7XX ECU and TCU flash by PTG (Performance Tuning Group) with CS-specific maps, including launch control optimized for 0-60 mph in 2.2s via 6,800 RPM flat-shift aggressiveness, torque vectoring recalibration for Nürburgring lap times under 7:40, and ethanol flex-fuel compensation for E85 blends with Motec M150 logging integration",
+    "Full drivetrain reinforcement with a Wavetrac limited-slip differential (F90-specific 3.15:1 ratio), GTS-spec M carbon driveshaft, and a 100% carbon fiber prop shaft (BMW M Performance Parts) to handle 850Nm of torque, paired with a Sachs Performance Stage 3 clutch and dual-mass flywheel delete for 9,000 RPM redline stability"
+  ],
+  "estetica": [
+    "Full carbon fiber widebody conversion using the Liberty Walk LB-F90CS kit (with OEM-spec paint-matched gloss black finish), including extended front fenders (30mm wider), rear quarter panels (40mm wider), and a custom 3D-printed front splitter with integrated canards (Vorsteiner-spec) for 400kg of downforce at 250 km/h",
+    "OEM+ M5 CS-specific interior overhaul with full Alcantara retrim (including door cards, headliner, and rear parcel shelf) by Euro Design Werks, featuring gold-stitching on the M carbon bucket seats (Schroth 6-point harnesses), a custom roll cage (Vorshlag Motorsports) with integrated fire suppression system (Lifeline Zero 360), and a Motec C127 dash display replacing the iDrive screen",
+    "Aggressive aero package with a custom 3-piece GT3-style rear wing (Rocket Bunny) mounted on carbon fiber pedestals (1,200mm span, 300mm chord), paired with a Vorsteiner V-FF 102 front lip (carbon kevlar blend) and a custom diffuser (APR Performance) with integrated exhaust cutouts for the Akrapović Evolution Line Titanium exhaust (S55-specific 100mm tips, 304 stainless steel)"
+  ]
+}

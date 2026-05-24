@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "E46 CSL",
+  "prestazioni": [
+    "Engine: S54B32 (3.2L I6) with a custom 288-degree Schrick camshaft kit (intake: 288°, exhaust: 280°, 11.5mm lift) paired with Ferrea 6000-series titanium retainers and Supertech dual valve springs to handle 9,000 RPM safely. Forced induction via a Rotrex C38-91 centrifugal supercharger (12 psi peak boost) with a custom air-to-water intercooler (Setrab ProLine 40-row core) and a Pierburg CWA 200 high-flow water pump for cooling efficiency.",
+    "Drivetrain: OS Giken 2.2L limited-slip differential with 85% lockup under load, mated to a Getrag 420G 6-speed transmission reinforced with a Fidanza aluminum flywheel (12.5 lb) and a Sachs Performance twin-disc clutch (400 Nm torque capacity). Custom 3.91:1 final drive ratio for optimized acceleration.",
+    "Suspension & Braking: Ohlins Road & Track DFV coilovers (2-way adjustable damping, 30-way rebound, 15-way compression) with Eibach ERS 1000N/mm helper springs for CSL-specific geometry. Front: 4-piston AP Racing CP8650 calipers with 380mm 2-piece rotors (J Hook slotted); Rear: 2-piston AP Racing CP5350 calipers with 355mm rotors. Pagid RSL29 brake pads and Motul RBF 660 brake fluid for fade resistance."
+  ],
+  "estetica": [
+    "Body: Custom carbon fiber widebody kit by VRSF (E46 CSL-specific, 30mm wider front fenders, 40mm rear) with integrated OEM-style carbon fiber canards and a custom 3D-printed rear diffuser (CFD-optimized for -120kg downforce at 160 km/h). Front splitter: Varis Japan 3-piece adjustable (15mm increments) with titanium support rods.",
+    "Aerodynamics: Custom GT3-style rear wing (carbon fiber, 1,800mm span, 300mm chord) with Gurney flap and integrated DRS (Drag Reduction System) for straight-line stability. Underbody: Full carbon fiber flat floor with vortex generators (designed in collaboration with aero specialist Andrew Brilliant).",
+    "Wheels & Interior: BBS LM-R II (9x18 ET20 front, 10.5x18 ET25 rear) with Michelin Pilot Sport Cup 2 R tires (255/35/18 front, 295/30/18 rear). Interior: Recaro Pole Position II seats (carbon fiber shells, Alcantara/leather upholstery) with Schroth Profi II 6-point harnesses. Custom MOTEC C127 dash display with integrated traction control and boost logging."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "E9 3.0 CSL",
+  "prestazioni": [
+    "Engine: M30B30 (3.0L inline-6, 206 HP stock) upgraded with a custom-built 3.5L stroker kit using Mahle Motorsport forged pistons (9.5:1 CR), Carrillo H-beam connecting rods, and a Schrick 292° camshaft for high-RPM power delivery, paired with a custom 3.5-inch stainless steel exhaust system by Eisenmann Sport with 200-cell catalytic converters for backpressure optimization.",
+    "Forced induction: Single-turbo setup using a Garrett GT3582R (82mm compressor, .82 A/R turbine housing) with a custom cast-iron exhaust manifold by TurboSmart, feeding into a custom air-to-water intercooler (PWR Racing) and a Pierburg mechanical fuel pump (upgraded to 120 L/h) with Bosch Motorsport 30 lb/hr injectors, controlled by a Motec M150 ECU with individual cylinder tuning for the M30B30’s long intake runners.",
+    "Suspension: Full Ohlins Road & Track DFV coilovers (E9-specific valving) with custom 25mm front and 20mm rear sway bars by H&R, paired with spherical bearing subframe bushings (034 Motorsport) and a polyurethane differential mount (Vibratechnics) to eliminate drivetrain slop under hard acceleration."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber replica of the original 1973 BMW 3.0 CSL ‘Batmobile’ aero kit by AC Schnitzer, including the iconic rear spoiler, front splitter, and fender flares, with custom 3D-printed ABS side skirts to accommodate wider track width (15mm wider front, 20mm wider rear).",
+    "Wheels: BBS RS II 16x9 ET15 (front) and 16x10 ET10 (rear) in gold finish, wrapped in Michelin Pilot Sport Cup 2 tires (225/50 R16 front, 255/45 R16 rear) for period-correct aesthetics with modern grip, paired with custom center-lock adapters (Radbolts) for quick swaps.",
+    "Interior: Full Recaro SRD Evo II seats (E9-specific mounting brackets) upholstered in black Alcantara with red stitching, matching the MOMO Mod.78 steering wheel (380mm, suede) and a custom aluminum shift knob (ZF 5-speed specific) by Gruppe M. Dashboard retains original VDO gauges but adds a Motec C127 digital dash for boost, AFR, and oil pressure monitoring."
+  ]
+}

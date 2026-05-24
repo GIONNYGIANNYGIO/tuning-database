@@ -1,0 +1,16 @@
+{
+  "brand": "BMW",
+  "model": "E65 745i",
+  "prestazioni": [
+    "N54B30A (3.0L twin-turbo inline-6) forced induction upgrade via Pure Stage 2+ turbochargers (62mm billet compressor wheels, 0.82 A/R turbine housings) with custom 3.5\" V-band downpipes and CSF N54 race intercooler (5.5\" thick core, 220% larger than OEM)",
+    "Full Motec M150 ECU standalone conversion with custom CAN bus integration for E65-specific drive-by-wire, electronic steering, and active suspension control (DSC/EDC retention via Motec PDM16 power distribution module)",
+    "BMS N54 port injection kit (8x ID1000 injectors) paired with OEM direct injection system, fed by dual Walbro 450LPH in-tank pumps and a Radium Engineering dual-catch can setup (AN-10 lines to a 1L reservoir with integrated drain valve)",
+    "Dinan N54 Stage 4 suspension overhaul: KW Variant 3 coilovers (8-way adjustable damping, 30mm drop) with Eibach 28mm front / 25mm rear sway bars, poly bushings (034 Motorsport subframe bushings, Powerflex differential mounts), and M5-spec rear subframe reinforcement plates (034 Motorsport)"
+  ],
+  "estetica": [
+    "AC Schnitzer E65-specific widebody kit (carbon fiber front fenders with 30mm flares, rear quarter panels with integrated diffuser extensions) paired with a Vorsteiner E65 carbon fiber front splitter (3-piece, adjustable dive planes) and rear diffuser (dual 4\" exhaust cutouts)",
+    "OEM BMW Individual bi-xenon headlight retrofit with LUX H8 V4 LED bulbs (5500K, 3600 lumens) and custom Morimoto HID projector lenses (3.0\" diameter, 50W ballasts), paired with Depo Racing E65-specific LED taillights (sequential turn signals, smoked lenses)",
+    "BBS LM-R 9x20\" ET25 front / 10.5x20\" ET30 rear wheels (custom concave design, 5x120 hub-centric rings) wrapped in Michelin Pilot Sport Cup 2 tires (255/35/20 front, 295/30/20 rear) with custom TPMS sensors (VDO Redi-Sensor, 433MHz)",
+    "Full GTSport E65 interior overhaul: Recaro Pole Position seats (carbon fiber shells, Schroth 6-point harnesses) with custom M600 carbon fiber door cards (integrated LED ambient lighting), Alcantara headliner (custom stitched with BMW M stripe pattern), and a MOTEC C127 dash display (replacing the iDrive screen, retaining OEM climate controls)"
+  ]
+}
