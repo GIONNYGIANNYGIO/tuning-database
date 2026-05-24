@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "SQ7 BLACK EDITION",
+  "prestazioni": [
+    "Engine: 4.0L V8 TDI (engine code: CVMD) – Stage 2+ ECU remap by APR (software: APR TC2100) with custom turbocharger upgrade to Garrett GTX4509R Gen II (84mm compressor wheel, 64mm turbine wheel) paired with a custom 3.5-inch downpipe (Catted, 200-cell) from Armytrix for reduced backpressure and optimized spool characteristics.",
+    "Drivetrain: Quattro Ultra differential upgrade to a Drexler Motorsport limited-slip differential (LSD) with 40% preload and carbon fiber clutch plates (Sachs Performance Stage 3 clutch kit) to handle increased torque (target: 750Nm at 2,200 RPM).",
+    "Suspension: Öhlins Road & Track DFV coilovers (Audi SQ7-specific valving) with 20-way adjustable compression/rebound damping, paired with Eibach Pro-Spacer wheel spacers (25mm front, 30mm rear) and H&R anti-roll bars (24mm front, 22mm rear) for reduced body roll and optimized weight transfer."
+  ],
+  "estetica": [
+    "Aero: Prior Design PD-SQ7 widebody kit (carbon fiber front splitter, side skirts, and rear diffuser) with a custom 3D-printed active rear spoiler (adjustable via OEM Audi drive select modes) for improved downforce (target: +120kg at 120mph).",
+    "Wheels: Rotiform LAS-R 22x11 ET35 (front) and 22x12 ET40 (rear) in matte black with custom concave profile, wrapped in Michelin Pilot Sport Cup 2 R tires (295/30 R22 front, 325/25 R22 rear) for maximum mechanical grip.",
+    "Exterior: Full 3M Matte Satin Black vinyl wrap with custom gloss black accents (mirror caps, grille surround, and badges) paired with a Vorsteiner V-FF107 front grille insert (carbon fiber) and sequential LED taillights (VLand Audi SQ7-specific housing) for a stealth-aggressive aesthetic."
+  ]
+}

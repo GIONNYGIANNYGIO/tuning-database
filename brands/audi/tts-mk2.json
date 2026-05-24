@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "TTS MK2",
+  "prestazioni": [
+    "APR Stage 3+ turbocharger upgrade for the **CDL 2.0L TFSI** engine, featuring a Garrett GTX3582R Gen II turbo with billet compressor wheel, 0.82 A/R turbine housing, and integrated wastegate, paired with APR’s CNC-machined intake manifold and upgraded fuel system (Bosch 440cc injectors, APR HPFP, and Walbro 450 LPFP) to support 450+ HP on 93 octane with a custom ECU calibration via Cobb Accessport V3",
+    "KW Suspensions Clubsport coilovers (3-way adjustable damping) with TÜV-approved spring rates (8kg/mm front, 10kg/mm rear) and spherical top mounts (034 Motorsport), combined with H&R 25mm front and 20mm rear anti-roll bars for reduced body roll and optimized camber gain via custom alignment specs (-2.8° front, -2.2° rear)",
+    "034 Motorsport Motorsport-spec **CDL** engine internals: forged Mahle Motorsport pistons (8.5:1 CR), Carrillo H-beam connecting rods, ARP 625+ head studs, and a lightweight crankshaft pulley, paired with a custom-mapped **Bosch MED17.5 ECU** via Alientech KESS3 for knock-resistant timing and direct port methanol injection (Snow Performance Stage 3 kit with dual nozzles)"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (TTS-specific) with carbon fiber front fenders, extended rear quarter panels (30mm wider), and a functional rear diffuser with integrated tow hooks, finished in custom Audi Nardo Gray with matte black accents and clear bra (XPEL Ultimate) on high-impact zones",
+    "OEM+ Audi Sport S3 rear bumper with custom 3D-printed carbon fiber side skirts (Audi-approved CAD design) and a Seibon carbon fiber hood (with functional NACA ducts for **CDL** intercooler cooling), paired with Hella Pagid 8-piston front/4-piston rear brake calipers (380mm rotors) and OZ Racing Ultraleggera HLT wheels (19x9.5 ET35 front, 19x10.5 ET40 rear) in Gloss Anthracite",
+    "Interior overhaul with Recaro Pole Position seats (carbon fiber backs, Alcantara/leather upholstery), custom roll cage (Chromoly 4130, bolt-in design by AutoPower Industries), and a Momo Prototipo steering wheel (350mm, suede) paired with a **CDL**-specific ECU display (AEM X-Series 7-inch touchscreen) and a full Alcantara headliner (EuroCompulsion)"
+  ]
+}

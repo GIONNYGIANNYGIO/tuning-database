@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "RSQ3 SPORTBACK",
+  "prestazioni": [
+    "Upgrade to a **Garrett GTX3582R Gen II turbocharger** (82mm compressor wheel, 62mm turbine) paired with a **custom BorgWarner EFR 7163 Inconel turbine housing** (T4 divided inlet) to support 450+ HP on the **CZGB 2.5L TFSI (EA855 Evo) engine**, retaining the stock internals with **Mahle Motorsport forged pistons (9.3:1 CR)** and **Manley H-beam connecting rods** for reliability under increased boost (2.2 bar peak).",
+    "Full **APR Stage 3+ ECU/TCU calibration** with **Motec M150 standalone integration** for direct port injection control, **Bosch Motorsport 0261002048 high-flow fuel pumps (dual setup)**, and **ID1300x injectors** to handle E85 flex-fuel tuning, paired with a **Pectel SQ6M engine management system** for real-time lambda and knock control via **Kistler 4005B pressure sensors** in each cylinder.",
+    "Custom **TTE 700 hybrid turbo downpipe** (3.5\" diameter, 100-cell catalytic converter) with **Vibrant 1799 resonated muffler delete** and **Milltek Sport 3\" titanium exhaust system** (valved, with **Akrapovic Racing carbon tips**), paired with a **CTS Turbo FMIC (800hp core)** and **Mocal 19-row oil cooler** to maintain intake temps below 45°C at 1.8 bar boost."
+  ],
+  "estetica": [
+    "Full **Rocket Bunny V3 widebody kit** (RSQ3-specific, with **carbon fiber fenders, front splitter, and rear diffuser**), paired with **Varis Japan RSQ3 carbon hood** (vented, with **Audi Sport OEM-style NACA ducts**) and **Seibon carbon trunk** (weight reduction: -12kg).",
+    "**OEM+ RS3-style front bumper conversion** with **3D Carbon RS3 grille (gloss black, laser-cut mesh)** and **Luxx Hella 550 fog light delete** (replaced with **Morimoto XB LED projectors**), paired with **HRE FF03 20x9.5 ET35 wheels** (matte bronze, **Michelin Pilot Sport Cup 2 R 265/30/20 tires**).",
+    "**Full interior carbon fiber overhaul**: **Recaro Pole Position seats (fixed-back, Alcantara/leather)** with **Schroth Profi II 6-point harnesses**, **Audi Sport carbon fiber steering wheel (flat-bottom, Alcantara grip)**, and **custom roll cage** (TIG-welded, **MCS Motorsport 6-point bolt-in**) with **Sparco carbon fiber door cards** and **AEM CD-7 dash display** (replacing the stock cluster)."
+  ]
+}

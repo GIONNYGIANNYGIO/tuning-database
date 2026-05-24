@@ -1,0 +1,18 @@
+{
+  "brand": "AUDI",
+  "model": "SPORT QUATTRO S1 GROUP B",
+  "prestazioni": [
+    "Engine: 2.1L inline-5 *KKK-K27 turbocharged* (engine code: *WR*) with forged Mahle pistons (8.0:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from *JE Pistons* for 600+ HP at 3.0 bar boost on *Avgas 115* fuel with a *Bosch Motorsport* 044 high-flow fuel pump and *Siemens DEKA 80lb/hr* injectors.",
+    "Turbocharger: *Garrett GT4202R* with a custom *Tial MV-R* 46mm wastegate and *TurboSmart Race Port* blow-off valve, paired with a *Spearco* 4.5\" intercooler and *Samco Sport* silicone charge pipes reinforced with *PTP* heat wrap for sustained rally stages.",
+    "Drivetrain: *Quaife ATB* differential in the front and rear with a *Hewland* 5-speed dog-ring gearbox (Group B-spec ratios: 1st 2.71, 2nd 1.84, 3rd 1.39, 4th 1.13, 5th 0.91), *Peloquin* limited-slip center differential, and *GKN* CV joints with *Hardrace* spherical bearings for extreme articulation.",
+    "Suspension: *Öhlins TTX40* 3-way adjustable coilovers with *Eibach* 1000lb/in springs, *Whiteline* adjustable sway bars (24mm front, 22mm rear), and *SuperPro* polyurethane bushings for the *Audi Sport* Group B-spec tubular subframe. *Bilstein* remote-reservoir dampers for gravel stages.",
+    "Braking: *Alcon* 6-piston monoblock calipers with *380mm* vented carbon-ceramic rotors (front) and *355mm* rotors (rear), *Ferodo DS3000* pads, and *Goodridge* braided stainless steel lines. *AP Racing* pedal box with adjustable bias for mixed-surface rally conditions."
+  ],
+  "estetica": [
+    "Body: *Rocket Bunny* Group B-inspired widebody kit with *carbon fiber* fenders, hood, and rear wing (replicating the *Pikes Peak* S1), *Audi Sport* Group B-spec *polycarbonate* side windows, and *3M* 1080 vinyl in *Audi Rallye Red* with *Sabelt* 6-point harness cutouts in the rear quarter panels.",
+    "Aero: *Voltex* Type-3 rear wing with *adjustable* carbon fiber gurney flaps and *Canards* from *APR Performance* on the front bumper. *Underbody diffuser* by *Seibon Carbon* with *Vortex Generators* for high-speed stability. *OMP* Group B-spec mud flaps with *Audi Sport* logos.",
+    "Interior: *Sparco* Evo II carbon fiber seats with *Schroth* 6-point harnesses, *Momo* *Mod.78* steering wheel (Group B-spec quick-release), *Aim Solo 2 DL* data logger mounted on a *Rally Armor* custom dash, and *Recaro* *Pole Position* passenger seat with *Sabelt* HANS-compatible harness. *Full roll cage* by *Custom Cages* with *Schroth* fire suppression system.",
+    "Wheels: *BBS* *E50* 16x11\" (front) and 16x12\" (rear) magnesium wheels with *Pirelli* *P Zero Corsa* tires (255/40R16 front, 285/35R16 rear) for tarmac, or *Michelin* *Pilot Alpin* PA4 (225/55R16) for gravel stages. *OZ Racing* *Ultraleggera* spare wheel mounted on a *Rear Diffuser* quick-release mount.",
+    "Lighting: *Hella* *Micro DE* rally lights (4x 100W) with *PIAA* *520* fog lights in *carbon fiber* housings. *Osram* *Night Breaker* H4 bulbs in the stock *Audi Sport* rally-spec headlights with *Clearplex* polycarbonate covers."
+  ]
+}

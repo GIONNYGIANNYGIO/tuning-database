@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "TT 3.2 VR6",
+  "prestazioni": [
+    "Engine: Replace the stock **BFH 3.2L VR6** (250 HP) with a **HPA Motorsports Stage 3+** build featuring forged internals (Mahle pistons, Pauter rods, ARP studs), a **Schrick 288° camshaft**, and a **custom 3.6L stroker kit** (84mm crank, 89mm bore) for ~450 HP on 93 octane with a **VF Engineering supercharger kit** (Eaton TVS2300, 10psi boost).",
+    "Drivetrain: Install a **034 Motorsport Stage 3 clutch** (multi-plate, 600 Nm capacity) paired with a **Quattro GmbH RS4-spec 6-speed manual transmission** (02M case, reinforced synchros) and a **Wavetrac LSD** for the front axle. Replace the stock Haldex with a **HPA Motorsports Haldex Competition Controller** for 100% rear torque bias.",
+    "Suspension/Brakes: Swap to **KW Clubsport 3-way coilovers** (24-way rebound, 12-way compression, adjustable top mounts) with **H&R 25mm spacers** for flush fitment. Upgrade brakes to **AP Racing 6-piston CP9660 calipers** (380mm discs) up front and **Brembo GT 4-piston calipers** (355mm discs) in the rear, paired with **Ferodo DS2500 pads** and **Goodridge G-Stop braided lines**."
+  ],
+  "estetica": [
+    "Body: Install a **Rocket Bunny V1 TT widebody kit** (carbon fiber fenders, front bumper, rear diffuser) with **custom 3M Matte Military Green wrap** and **debadged Audi rings**. Add a **Vorsteiner V-FF107 carbon fiber hood** (functional vents) and **RS-style side skirts** from **Eurocode Tuning**.",
+    "Wheels: Fit **BBS LM-RS II 9.5x19 ET35** wheels (gold finish) with **Michelin Pilot Sport Cup 2 R tires** (255/30/19). Use **H&R Trak+10mm wheel spacers** for aggressive poke and **custom extended wheel studs** (M14x1.5).",
+    "Interior: Replace stock seats with **Recaro Pole Position CS-II** (fixed-back, FIA-approved) in **Alcantara/leather combo** (black with green stitching). Install a **Momo Prototipo Evo steering wheel** (350mm, suede) with a **NRG quick-release hub**, and add a **Motec C127 dash logger** with **AEM X-Series wideband O2 sensor** for real-time tuning data."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "S7 C7",
+  "prestazioni": [
+    "AWE Track Edition cat-back exhaust system with 3.5\" non-resonated downpipes (CEXB) for the 4.0TFSI V8 (engine code: **CWGD**), reducing backpressure by 38% and adding a 12-15whp gain with a 300-400 RPM faster spool on the stock turbos (K04-023)",
+    "APR Stage 2+ ECU/TCU flash with **93 octane** mapping for the CWGD V8, targeting 620whp/650wtq on stock turbos via optimized ignition timing, 24psi peak boost (up from 18.5psi stock), and revised camshaft profiles for a 7,200 RPM redline (up from 6,800 RPM)",
+    "Garrett GTX3076R Gen II turbo upgrade (hybrid K04-023 replacement) with billet compressor wheel, 62mm inducer, and 76mm exducer, paired with **Forgeline Motorsport** 3.5\" V-band downpipes, **PTP** silicone charge pipes, and a **Mishimoto** 4.0TFSI-specific intercooler (core volume: 2.5L, 30% larger than OEM)"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (S7 C7-specific) with **custom 3M Matte Military Green (9003)** wrap, extending fenders by 3.5\" front/4.2\" rear and requiring **H&R** 20mm spacers for aggressive flush fitment with **BBS LM** 21x10.5 ET32 wheels (staggered setup: 21x12 ET28 rear)",
+    "Vorsteiner V-FF107 carbon fiber front lip spoiler (C7.5 S7-specific) with **custom LED DRL delete** and **Lux H8 V4** angel eyes (6000K, 30% brighter than OEM), paired with a **Maxton Design** rear diffuser (carbon fiber, 3D-printed to clear AWE exhaust tips)",
+    "OEM+ Audi Sport **RS7 C7** full LED taillight retrofit (part #8T0945093/094) with **Vland** smoked reflectors and **Diode Dynamics** sequential turn signals (hyperflash-resistant, 6000K), combined with a **3D Carbon** rear spoiler (duckbill style, 3.5\" height, pre-preg autoclave carbon)"
+  ]
+}

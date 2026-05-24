@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "SPORT QUATTRO S1",
+  "prestazioni": [
+    "Engine: 2.1L I5 (engine code: **WR**) with forged internals including Mahle Motorsport pistons (8.0:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from JE Pistons, paired with a custom-built **KKK K27-5400 turbocharger** (hybridized with a Garrett GTX42 core for Group B reliability) pushing 1.5 bar of boost, fed by a **Bosch Motorsport 044 high-flow fuel pump** and **Siemens DEKA 80lb/hr injectors** for E85 compatibility.",
+    "Drivetrain: Reinforced **Audi Sport Quattro S1-specific Getrag 282 5-speed dogleg transmission** with a **Quaife ATB differential** (80% lock) and a **Peloquin LSD** in the rear, mated to a **Tilton twin-disc carbon clutch** (7.25\" diameter) with a billet flywheel. Custom **GKN CV joints** and **H&R reinforced half-shafts** handle the torque.",
+    "Suspension/Handling: **Öhlins TTX40 3-way adjustable coilovers** (custom valving for the S1’s 2224mm wheelbase) with **Eibach ERS springs** (400 lb/in front, 350 lb/in rear), **Bilstein B16 remote-reservoir dampers** for rally stages, and **Meyle HD control arms** with **polyurethane bushings**. **AP Racing 6-piston calipers** (355mm front, 330mm rear) with **Ferodo DS3000 pads** and **Motul RBF 660 brake fluid** for extreme fade resistance."
+  ],
+  "estetica": [
+    "Body: **Rocket Bunny V3 widebody kit** (carbon fiber fenders, front splitter, and rear diffuser) with **custom Group B-inspired livery** (Audi Sport’s 1985 Monte Carlo colors) applied via **3M 1080 vinyl wrap** for weight savings. **Carbon fiber hood** (with functional NACA ducts) from **Seibon Carbon** and **aluminum rear hatch** (replacing the stock fiberglass) to reduce weight by 18kg.",
+    "Aero: **Voltex Type-5 rear wing** (adjustable carbon fiber, 1200mm span) with **custom endplates** for high-speed stability, paired with a **custom front splitter** (carbon-Kevlar hybrid) featuring **active Gurney flaps** (electronically adjustable via a **Motec PDM15**). **Underbody diffuser** from **Aeroflow Dynamics** with **vortex generators** for downforce optimization.",
+    "Wheels/Interior: **BBS E50 magnesium wheels** (16x10 front, 16x11 rear) with **Pirelli P Zero Corsa tires** (245/40R16 front, 285/35R16 rear). **Recaro Pole Position seats** (carbon-Kevlar shell, 6-point Schroth harnesses) and **MOMO Prototipo steering wheel** (quick-release hub) with **Motec C127 dash display** (replacing the stock cluster) for real-time telemetry."
+  ]
+}

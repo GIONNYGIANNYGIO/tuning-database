@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "SQ8 E-TRON",
+  "prestazioni": [
+    "Upgrade to a **Bosch MGU055** (Motor Generator Unit) with **Siemens-VDO 800V SiC (Silicon Carbide) inverter** for the **BEV3-100** (electric motor code) to achieve **550 kW (738 HP) peak power** and **1,100 Nm torque**, paired with a **custom AEM EV VCU (Vehicle Control Unit)** for torque vectoring optimization across all three axles (front, rear, and optional rear sub-axle).",
+    "Install **AP Racing CP9660-4000** carbon-ceramic brake rotors (420mm front, 380mm rear) with **Brembo GP4-MS** 6-piston calipers and **Ferodo HT-25** high-temperature pads, integrated with a **Motec C187** brake-by-wire controller for regenerative braking tuning (adjustable from 0.3g to 0.9g deceleration).",
+    "Replace the stock **Audi MLB Evo II** air suspension with **Bilstein B16 PSS10 coilovers** (adjustable damping via **iOS/Android app**) and **Eibach Pro-Kit ERS springs** (20mm drop front, 15mm rear), paired with **H&R 30mm front and 25mm rear anti-roll bars** to reduce body roll by 40% during high-speed cornering (tested on Nürburgring GP circuit)."
+  ],
+  "estetica": [
+    "Fit a **Liberty Walk LB-SQ8E** widebody kit (carbon fiber fenders, front/rear bumpers, and side skirts) with **custom 3D-printed ABS diffuser** (designed via CFD for 12% downforce increase at 180 km/h), finished in **Audi Nardo Gray with matte PPF wrap**.",
+    "Install **OEM+ Audi Sport S-line** headlights with **Lux H11 LED bulbs** (6,000K, 3,200 lumens) and **Morimoto XB35** adaptive LED fog lights, paired with **Vland sequential taillights** (RGBW, 64-color customizable via **Vland app**).",
+    "Replace the stock 22\" wheels with **BBS FI-R** forged wheels (23x10.5 ET35 front, 23x12 ET40 rear) in **Gloss Black with polished lips**, wrapped in **Michelin Pilot Sport Cup 2 R** tires (285/30 R23 front, 305/25 R23 rear) for track-focused grip (1.5g lateral acceleration capability)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "S8 D3",
+  "prestazioni": [
+    "Upgrade to a **Garrett GT3582R turbocharger** (ball-bearing, 62mm inducer, 82mm exducer) paired with a **custom BorgWarner EFR 7670 (76mm) compressor housing** to support the **BCY 5.2L V10 (40v)** engine's 8,000 RPM redline, requiring a **034 Motorsport billet aluminum turbo manifold** with T4 flange and 3-inch V-band downpipe for optimized exhaust flow",
+    "Full **Motec M150 ECU standalone management system** with **Bosch Motorsport 1,000cc high-impedance injectors**, **NGK R8482-10 laser-iridium spark plugs**, and a **custom 4-bar MAP sensor** to handle the **12.5:1 static compression ratio** and **1.5 bar (21.7 psi) boost pressure**, while integrating **AEM X-Series wideband O2 sensors** for closed-loop AFR targeting 11.8:1 under full load",
+    "Installation of a **Pectel SQ6M engine management system** with **custom traction control and launch control maps** for the **ZF 6HP28A 6-speed tiptronic transmission**, paired with a **South Bend Clutch Stage 3 dual-disc clutch (240mm) with cerametallic friction material** and a **034 Motorsport lightweight flywheel (12.5 lbs)** to handle the **550+ lb-ft torque target** without slip"
+  ],
+  "estetica": [
+    "**Rocket Bunny V1 S8 D3-specific widebody kit** (carbon fiber fenders, front bumper, and rear diffuser) with **custom 3M Matte Military Green (20118) wrap** and **OEM+ Audi Sport badging (blacked-out emblems)** for a stealth OEM+ appearance",
+    "**HRE FF01 20x10 ET35 (front) and 20x11 ET40 (rear) forged wheels** in **Gunmetal finish**, wrapped in **Michelin Pilot Sport Cup 2 R tires (275/30 R20 front, 295/25 R20 rear)** with **custom 5x112 to 5x120 hubcentric adapters** for aggressive fitment and track-ready grip",
+    "**APR Carbon Fiber D3 S8-specific rear spoiler (GT3-style)** with **custom 3D-printed gurney flap** for increased downforce, paired with **OEM Audi S8 D3 side skirts (painted in contrasting Gloss Black)** and **custom LED taillight overlays (Lux H8 V4 with sequential turn signals)** for a modernized rear end"
+  ]
+}

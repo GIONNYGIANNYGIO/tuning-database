@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "UR-QUATTRO",
+  "prestazioni": [
+    "Engine: Full rebuild of the **WR** (KKK-turbocharged 2.1L inline-5, code **WR**) with forged Mahle pistons (8.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from **JE Pistons** for 1.5-bar boost capability. Pair with a **Garrett GT3076R** turbo (0.82 A/R, ball-bearing) and a **Tial MV-R 44mm** external wastegate for precise boost control.",
+    "Fuel System: Upgrade to a **Bosch Motorsport 044** high-flow fuel pump (340 LPH) with **ID1000** injectors (1000cc/min) and a **Haltech Elite 2500** standalone ECU for full sequential fuel and ignition control. Custom-mapped by **VAC Motorsports** for 98 RON fuel and E85 compatibility (up to 30% blend).",
+    "Drivetrain: Reinforced **Quattro 4WD system** with a **Quaife ATB differential** (front and rear) and a **PPG 6-speed dog-engagement gearbox** (close-ratio, straight-cut gears) with a **Tilton twin-plate ceramic clutch** (240mm). Upgraded half-shafts from **GKN Driveline** with CV joints rated for 500+ Nm torque."
+  ],
+  "estetica": [
+    "Body: **Rieger Tuning** widebody conversion kit (fiberglass, UR-Quattro-specific) with **OEM+** fender flares (2.5-inch wider front, 3-inch wider rear) and **custom aluminum riveted overfenders** for Group B rally aesthetics. Paint: **Audi Lime Green (L94F)** with **3M Matte Black** hood and roof wrap.",
+    "Aero: **RallyArt UR-Quattro front splitter** (carbon fiber, 3-piece) with **custom aluminum undertray** for flat-bottom effect. Rear wing: **Voltex Type-3** (1900mm width, 300mm chord) with **adjustable carbon fiber endplates** and **aluminum support struts** (Group B-inspired). Side skirts: **Zender** (OEM UR-Quattro style, extended).",
+    "Wheels: **BBS RS 002** (16x9 ET15 front, 16x10 ET5 rear) with **Pirelli P Zero Corsa** tires (225/50R16 front, 245/45R16 rear). Center-lock adapters from **BBS Motorsport** with **Titanium lug bolts** (ARP). Brake system: **Alcon 4-piston calipers** (front, 330mm rotors) and **AP Racing 2-piston calipers** (rear, 280mm rotors) with **Ferodo DS2500** pads."
+  ]
+}

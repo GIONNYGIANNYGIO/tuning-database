@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "S4 B5",
+  "prestazioni": [
+    "Engine: 2.7L twin-turbo V6 (engine code: **APB**) with forged internals including **Mahle Motorsport forged pistons (8.5:1 compression)**, **Manley H-beam connecting rods**, and **ARP Custom Age 625+ head studs** for 22 psi boost capability. Paired with **Garrett GT3076R turbochargers (0.82 A/R, ball-bearing)** on a **custom stainless steel turbo manifold (Tial 44mm wastegates)** for 550+ WHP on **VP Racing Q16 fuel**.",
+    "Fuel System: **Bosch Motorsport 044 high-flow fuel pump** with **Siemens DEKA 80lb/hr injectors** and **AEM 340lph in-tank pump**, controlled via **Syvecs S6 ECU** with **Motec C127 dash logger** for real-time monitoring. **Custom 3-inch stainless steel downpipe** with **Tial 50mm BOV** and **Milltek Sport 3.5-inch cat-back exhaust** with **resonated center section** for optimal spool and backpressure management.",
+    "Drivetrain & Suspension: **034 Motorsport Stage 3 clutch kit (6-paddle, 550 ft-lb torque capacity)** with **South Bend twin-disc setup** and **Quattro GmbH RS4-spec 6-speed manual transmission (01E)**. **KW Variant 3 coilovers (8-position damping, 35mm front/30mm rear spring rates)** with **034 Motorsport sway bars (25mm front, 22mm rear)** and **H&R Super Race wheel spacers (20mm front, 25mm rear)** for aggressive stance and cornering precision. **AP Racing 355mm 6-piston front brake kit** with **Ferodo DS2500 pads** and **Goodridge G-Stop braided lines**."
+  ],
+  "estetica": [
+    "Body: **Rocket Bunny V1 widebody kit (B5-specific, 30mm front/40mm rear fender flares)** with **custom carbon fiber front splitter (3D-printed mold, 3K twill weave)** and **Volk Racing TE37SL wheels (18x9.5 +25, matte bronze finish)**. **OEM+ Euro-spec S4 Avant rear bumper** with **custom LED taillight delete (smoked lenses, sequential turn signals)** and **Hella Dynamic Cornering headlights (Bi-Xenon, DRL conversion)**.",
+    "Interior: **Recaro SRD-E (B5-specific, Alcantara/leather, 6-point harness cutouts)** with **Schroth Profi II 4-point harnesses** and **Momo Mod.78 steering wheel (320mm, suede)**. **Custom roll cage (TIG-welded 4130 chromoly, 6-point, bolt-in)** with **Sparco Evo QRT-K seats (carbon fiber backs, FIA-approved)**. **AEM X-Series digital dash (CAN-bus integrated, 5-inch display)** replacing the stock cluster.",
+    "Aero & Details: **Custom carbon fiber hood (vented, 3D-scanned OEM fitment)** with **Audi Sport RS4-style side markers (LED, sequential)**. **Vorsteiner carbon fiber mirror caps (OEM-spec mounting)** and **custom rear diffuser (3D-printed ABS, 3-stage Gurney flap)**. **Gloss black badgeless grille (OEM+ mesh, debadged)** with **custom laser-cut aluminum front tow hook (anodized red)**. **Paint: Lamborghini Grigio Thalasso (matte, 3-stage PPF wrap)** with **custom pinstriping (0.5mm gold leaf, hand-painted)**."
+  ]
+}

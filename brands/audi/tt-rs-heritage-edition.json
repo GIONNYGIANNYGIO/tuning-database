@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "TT RS HERITAGE EDITION",
+  "prestazioni": [
+    "Engine: 2.5L TFSI DAZA (CJXB) with a custom APR Stage 3+ turbo kit featuring a Garrett GTX3582R Gen II turbocharger, billet compressor wheel, and 0.82 A/R turbine housing, paired with APR’s CNC-machined high-flow intake manifold and upgraded fuel system (Bosch 1050cc injectors + dual HPFP setup). Target boost: 2.3 bar (33.4 psi) with 600+ HP on 100 octane fuel, supported by a custom APR ECU calibration with anti-lag and launch control strategies.",
+    "Drivetrain: 0B5 7-speed S tronic DQ500 transmission reinforced with an upgraded Sachs Performance dual-mass flywheel (P/N 3000 951 030) and South Bend Clutch Stage 3+ twin-disc clutch kit (P/N SB-DQ500-3+), paired with an AWE Tuning short-shift kit (P/N 10A-171-103-01) for 40% reduced throw. Differential: Quaife ATB helical LSD (P/N QDF7Z) with 45% preload for aggressive torque bias.",
+    "Suspension & Braking: Öhlins Road & Track DFV coilovers (P/N TT3-RT-A-001) with 8-position adjustable compression/rebound damping, custom valving for the TT RS’s 5x112 bolt pattern, and 20mm front/15mm rear adjustable camber plates (H&R P/N 51640). Brakes: AP Racing Radi-CAL 6-piston front (P/N CP9670-3650) and 4-piston rear (P/N CP9671-3650) big brake kit with 380mm two-piece rotors (f) and 355mm (r), paired with Ferodo DS2500 pads and Goodridge G-Stop braided stainless steel lines."
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny V3 widebody kit (P/N RB-TT001) with carbon fiber front fenders, extended rear quarter panels (30mm wider per side), and a duckbill rear spoiler (20% more downforce than OEM). Front splitter: Verus Engineering carbon fiber 3-piece unit (P/N 100010) with integrated dive planes and adjustable gurney flap. Rear diffuser: Seibon Carbon full-length unit (P/N TT-RS-DIFFUSER) with titanium exhaust cutouts for the custom 3.5\" dual-exit system.",
+    "Wheels: BBS FI-R 9.5x19\" ET32 (front) and 11x19\" ET25 (rear) in matte gold (P/N 4031230001G), wrapped in Michelin Pilot Sport Cup 2 R tires (255/30/19 front, 295/30/19 rear). Center-lock adapters: HRE Performance P101 (P/N 401-0101-0001) with titanium hardware. Fender flares: Rocket Bunny’s carbon fiber units (P/N RB-TT001-FF) with integrated LED turn signals (Lux H8 V4, P/N LUX-H8-V4).",
+    "Interior: Recaro Pole Position carbon fiber shell seats (P/N 24-70-0001) with Schroth Profi II 6-point harnesses (P/N 70001A), bolted to a custom Matter Fab roll cage (P/N MF-TTRS-001) with integrated fire suppression system (Sparco Pro 2.0, P/N 00771NR). Steering wheel: MOMO Mod.77 carbon fiber (P/N 110CC.77S) with integrated AIM MXS Strada dash (P/N 1.21301.0400) and AEM CD-7 data logger (P/N 30-0300). Shift knob: 034Motorsport billet aluminum short throw (P/N 034-171-103-01) with engraved \"Heritage Edition\" script."
+  ]
+}

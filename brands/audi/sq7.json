@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "SQ7",
+  "prestazioni": [
+    "4.0L TFSI V8 TDI (CVMD) engine: Upgrade to a **Garrett GTX5533R** turbocharger with billet compressor wheel (64mm inducer, 88mm exducer) and **Precision Turbo 7675** ball-bearing center cartridge for reduced spool time, paired with a **Wagner Tuning Competition Intercooler Kit** (front-mount, 100% aluminum, 4.5L core volume) to maintain intake temps below 40°C under full boost (2.2 bar peak pressure).",
+    "Fuel system overhaul: Replace stock CP4.2 high-pressure fuel pump with a **Bosch CP4.3** (30% higher flow rate) and install **Injector Dynamics ID1700x** (1,700cc/min) fuel injectors, calibrated via **ECU Master EMU Black** standalone ECU with flex-fuel capability (E85 compatible) and **AEM X-Series** wideband O2 sensors for closed-loop AFR targeting 11.8:1 under full load.",
+    "Exhaust system: **Akrapović Evolution Line Titanium** full exhaust system (4.5\" diameter, quad 100mm outlets) with **REMUS Valve Delete** for unfiltered V8 acoustics, paired with a **Weichers Race Downpipe** (de-catted, 3.5\" diameter) and **Milltek Sport** resonated center section to eliminate drone while retaining 95dB+ sound pressure at 4,500 RPM."
+  ],
+  "estetica": [
+    "Aero: **Prior Design PD-SQ7** widebody kit (carbon fiber, 50mm extended fenders) with **Rocket Bunny V3** front splitter (adjustable dive planes) and **Audi Sport** rear diffuser (OEM+ style, 3D-printed carbon fiber inserts for airflow separation).",
+    "Suspension: **KW Automotive Clubsport Coilovers** (3-way adjustable, 80mm-120mm drop range) with **H&R Monoball Top Mounts** (polyurethane bushings) and **Eibach Pro-Spacer** wheel spacers (25mm front, 30mm rear) to achieve a 5mm flush fit with **BBS LM-R** forged wheels (22x11 ET35 front, 22x12 ET40 rear, 5x130 PCD).",
+    "Lighting: **Lux H8 V4** LED headlight retrofit (CRI 90+, 5,500K) with **Morimoto XB35** projectors (bi-xenon, adaptive cutoff) and **Dapper Lighting** sequential LED taillights (OEM-look, 12-segment animation), paired with **Osram Night Breaker Laser** high-beams (1,500ft+ range)."
+  ]
+}

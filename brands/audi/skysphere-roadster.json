@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "SKYSPHERE ROADSTER",
+  "prestazioni": [
+    "Engine: 4.0L V8 TFSI (EA825) with a custom billet crankshaft from Manley Performance, forged Mahle pistons (10.5:1 compression), and Carrillo H-beam connecting rods for 850+ HP reliability on E85 fuel. Twin Garrett GTX5533R Gen II turbos with TiAL MV-R 60mm wastegates and custom 4-inch stainless steel downpipes by Armytrix for unobstructed flow.",
+    "Drivetrain: 8-speed ZF 8HP95X automatic transmission with a Pankl Racing Systems billet torque converter (3,800 RPM stall) and a Quaife ATB differential (80% lockup) for aggressive power delivery. Custom 0.8-way overdrive gearset by Hewland for optimized top-speed gearing (220+ mph potential).",
+    "Suspension & Handling: Öhlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression) paired with Eibach ERS 1,200 lb/in springs. Custom carbon-fiber pushrods by KW Suspensions for reduced unsprung weight, and a full chassis reinforcement kit by ABT Sportsline (strut tower braces, floorpan stiffeners, and roll cage integration)."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon-fiber body kit by Prior Design (PD-SKYSPHERE), including a 3D-printed front splitter with active Gurney flaps (adjustable via drive mode), side skirts with integrated vortex generators, and a rear diffuser with dual-plane design for optimal downforce (450 kg at 180 mph).",
+    "Wheels & Tires: HRE FF16 flow-formed wheels (20x10.5 front, 21x12.5 rear) with custom offset (-15mm front, -5mm rear) wrapped in Michelin Pilot Sport Cup 2 R tires (275/30 R20 front, 325/25 R21 rear). Forged titanium wheel centers by BBS for weight reduction (18 lbs per wheel).",
+    "Interior & Lighting: Full Alcantara-wrapped dashboard with custom digital gauge cluster by Motec (C127 dash logger) and a carbon-fiber steering wheel by Sparco (12-button programmable keypad). Exterior lighting features Osram Laser+ headlights with adaptive high-beam control and a custom RGB underbody LED system by Diode Dynamics (syncs with drive modes)."
+  ]
+}

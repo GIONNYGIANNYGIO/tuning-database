@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "S8 L HORCH EDITION",
+  "prestazioni": [
+    "Engine: 4.0L TFSI V8 (D4) - CZFA - Stage 2+ ECU remap by APR (software version 2.2.4) with custom dyno-tuned ignition timing and fueling for 720 HP / 680 lb-ft on 100-octane fuel, paired with a Weistec Engineering TCU flash for 0.15s faster 0-60 shifts via optimized torque converter lockup and shift pressure mapping.",
+    "Forced Induction: Hybrid turbocharger upgrade using a Garrett GTX4271R Gen II with billet compressor wheel (60mm inducer, 88mm exducer) and Inconel turbine wheel, mated to a custom 3.5\" stainless steel downpipe with 100-cell catalytic converters (HJS) and a Vibrant 1799 resonated muffler delete system for optimized spool and backpressure reduction.",
+    "Suspension & Handling: KW Suspensions Clubsport coilovers (3-way adjustable, 10-position rebound, 12-position compression, 16-level height adjustment) with custom valving for the Horch Edition’s air suspension delete, paired with 034 Motorsport Density Line subframe collars, H&R 25mm front / 20mm rear sway bars, and Audi Sport ceramic brake pads (PN 4M0-698-151-A) with Brembo GT 410mm front / 380mm rear rotors and stainless steel brake lines (Goodridge)."
+  ],
+  "estetica": [
+    "Exterior: Rotiform LAS-R 21\" forged wheels (9.5J ET35 front, 11J ET45 rear) in Satin Black with custom Horch Edition center caps, wrapped in Michelin Pilot Sport Cup 2 R tires (275/30 front, 305/25 rear). Full carbon fiber widebody conversion via Prior Design PD800RS kit (fenders, bumpers, side skirts) with custom Horch Edition-specific front splitter and rear diffuser extensions, finished in Audi Nardo Grey (LZ7W) with matte clear coat.",
+    "Aero & Lighting: OEM+ Audi Sport carbon fiber side mirrors (PN 4M0-857-511-C-GRU) with integrated LED turn signals, Hella Pagid LED headlight retrofit (Bi-Xenon projectors, adaptive matrix LED DRLs, sequential turn signals) and custom rear light tint (Luxx Limo Tint 20%). Vorsteiner V-FF107 carbon fiber front lip spoiler with integrated LED fog lights and a custom 3D-printed active rear wing (inspired by Audi RS Q e-tron) with adjustable angle via electric actuators (DSSV).",
+    "Interior: Full Alcantara retrim by Strasse (dashboard, door cards, headliner) in Audi Exclusive Stone Grey (N0) with custom Horch Edition embroidery (red contrast stitching). Recaro Pole Position seats (carbon fiber shell, 6-point harness pass-through) with Schroth Profi II 6-point harnesses, MOMO Mod.78 steering wheel (350mm, suede, quick-release hub), and a custom digital gauge cluster overlay (AEM CD-7 dash) displaying boost, AFR, and oil temps via CAN bus integration."
+  ]
+}

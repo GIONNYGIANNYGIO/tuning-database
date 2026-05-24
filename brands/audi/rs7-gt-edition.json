@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "RS7 GT EDITION",
+  "prestazioni": [
+    "Engine: C7.5 RS7 GT Edition (4.0L TFSI V8, engine code **CWUB**) – Full **Motec M150 ECU standalone conversion** with custom **AEM Infinity 8** piggyback for direct port injection control, eliminating OEM torque limits and enabling **850+ HP** on **E85** with **Garrett GTX5533R Gen II** turbos (hybrid billet wheels, 76mm compressor, 106mm turbine) and **Precision Turbo 6266** wastegates (dual 44mm, V-band) for precise boost targeting (2.2 bar peak, 1.8 bar steady-state).",
+    "Drivetrain: **034 Motorsport Stage 3+ clutch kit** (multi-plate ceramic, 1,200 Nm capacity) paired with **Quattro GmbH RS7 GT-spec rear-biased torque vectoring differential** (40:60 split, 100% lock) and **Wavetrac ATB front differential** for aggressive launch control. **034 Motorsport lightweight driveshafts** (carbon fiber, 30% weight reduction) and **Audi Sport GT-spec half-shafts** (forged 4340 chromoly, 1,500 Nm rating).",
+    "Suspension/Handling: **KW Suspensions Clubsport 3-way coilovers** (1,200 lb/in front, 1,000 lb/in rear springs, **30-way rebound, 24-way compression damping**) with **Audi Sport GT-spec subframe collars** (aluminum, 0.5° negative camber gain) and **H&R Monoball front control arm bushings** (polyurethane, 90A durometer). **AP Racing 6-piston front/4-piston rear brake kit** (405mm CCM rotors, **RS7 GT-specific caliper brackets**) with **Ferodo DS3000 pads** and **Goodridge G-Stop braided lines** (DOT 5.1 fluid)."
+  ],
+  "estetica": [
+    "Aero: **Vorsteiner V-FF107 GT Edition widebody kit** (pre-preg carbon fiber, 50mm front/70mm rear fender flares) with **Audi Sport GT-spec front splitter** (3D-printed carbon, 3-stage adjustable) and **Rieger RS7 GT rear diffuser** (dual-layer carbon, integrated **Grimmspeed 3.5\" titanium exhaust tips**). **Audi Sport GT-spec rear wing** (carbon fiber, 1,200mm span, **Gurney flap adjustable via iPad app**).",
+    "Wheels: **HRE FF16 3-piece forged wheels** (21x10.5 ET35 front, 22x12.5 ET45 rear, **Audi Sport GT center-lock adapters**) with **Michelin Pilot Sport Cup 2 R tires** (295/30/21 front, 325/25/22 rear, **custom tread pattern for RS7 GT**). **BBS FI-R flow-forming wheels** (backup set, 20x9.5 ET30 front, 21x11.5 ET40 rear) with **Pirelli P Zero Trofeo R** for track use.",
+    "Interior: **Recaro Pole Position GT seats** (carbon fiber shell, **Audi Sport GT embroidery**, Schroth 6-point harnesses) with **MOMO Mod.78 steering wheel** (suede, **RS7 GT-specific airbag delete hub**). **AEM CD-7 dash logger** (replaces OEM cluster, **CAN bus integration for Motec M150**) and **Rollcentre Racing bolt-in FIA-spec cage** (T45 steel, **RS7 GT-specific footwell gussets**). **Forge Motorsport carbon fiber shift paddles** (extended, **haptic feedback via Motec**) and **Audi Sport GT-spec Alcantara headliner** (fire-retardant, **custom RS7 GT stitching**)."
+  ]
+}

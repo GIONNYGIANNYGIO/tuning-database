@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "TT MK1",
+  "prestazioni": [
+    "1.8T (APX/AMU/AJQ engine code) forced induction upgrade with a Garrett GT2860RS-5 turbocharger (0.86 A/R, 56 trim compressor, 60mm inducer) paired with a custom 3-inch stainless steel turbo-back exhaust featuring a MagnaFlow 14815 muffler and 2.5-inch downpipe with a 200-cell catalytic converter for emissions compliance while maintaining 350whp potential on 93 octane fuel.",
+    "Suspension overhaul using Ohlins Road & Track DFV coilovers (TT-specific valving, 40mm front/36mm rear piston diameter) with Eibach ERS 1000N/mm front and 900N/mm rear springs, complemented by H&R 27149-1 front sway bar (23mm) and Neuspeed 25-050-100 rear sway bar (22mm) for reduced body roll and optimized turn-in response.",
+    "Fuel system enhancement via a Bosch 044 high-flow fuel pump (220 LPH) with an AEM 320lph in-tank pump, Siemens DEKA 60lb/hr injectors (PN: 197200012), and a custom-mapped Bosch Motronic ME 7.5 ECU reflash via GIAC X+ software (Stage 2+ map with MAF scaling, ignition timing optimized for 22psi peak boost, and launch control enabled at 4500 RPM)."
+  ],
+  "estetica": [
+    "Rocket Bunny V1 widebody kit (TT-specific, 30mm front/40mm rear fender flares) with custom carbon fiber front splitter (3M 1080 gloss black wrap) and a custom aluminum rear diffuser (polished 5052-grade, 3-piece design) for aggressive stance and aero balance.",
+    "OEM+ headlight restoration with Hella 9006 HID projectors (5500K color temperature) and Philips D1S bulbs, paired with custom LED angel eyes (Lux H8 V4, 6000K) and a full carbon fiber hood (Seibon TT-001, 8.5lb weight reduction) with a functional NACA duct for intercooler cooling.",
+    "Interior rework featuring Recaro SRD-E (TT-specific shell) front seats with Schroth Profi II 4-point harnesses, a MOMO Mod.78 steering wheel (320mm diameter, suede grip) on a NRG quick-release hub, and a custom roll cage (Autopower 4-point bolt-in, 1.75x.120 DOM tubing) with powder-coated gloss red finish for structural rigidity and aesthetic contrast."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "S6 V10",
+  "prestazioni": [
+    "Engine: Replace the stock 5.2L V10 (engine code: BXA) with a fully built internals package from Mahle Motorsport, featuring forged 2618 aluminum pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from Manley Performance. Pair this with a custom dry-sump oiling system by Peterson Fluid Systems to eliminate oil starvation under high lateral G-forces.",
+    "Forced Induction: Install a pair of Garrett GTX4202R turbochargers (84mm compressor wheels) with TiAL MV-R 44mm wastegates and TiAL Q 50mm blow-off valves. Use a custom intercooler setup from Wagner Tuning (front-mount, 1000hp-rated) with 3.5\" silicone charge pipes from Vibrant Performance. Tune via a standalone Bosch Motorsport MS 5.1 ECU with custom calibration by APR (Stage 4+ software).",
+    "Drivetrain: Upgrade to a Quaife ATB helical LSD in the rear differential (OEM part number: 0B6 311 313 B) and pair it with a 034 Motorsport solid differential mount. Replace the stock clutch with a Sachs Performance twin-disc setup (clutch kit: 3000950001) and a lightweight flywheel from Spec Clutches (SFI 13.1 certified). Use a 034 Motorsport transmission mount insert to reduce drivetrain deflection."
+  ],
+  "estetica": [
+    "Aero: Install a full carbon fiber widebody kit from Prior Design (PD-GT600R), including extended front fenders, rear quarter panels, and a custom rear diffuser with integrated exhaust cutouts. Add a carbon fiber front splitter from Verus Engineering (30mm overhang) and a fixed rear wing from APR Performance (GT-250 model, 3D carbon fiber).",
+    "Wheels: Fit a set of HRE P101SC wheels (20x10.5 ET30 front, 20x12 ET45 rear) with Michelin Pilot Sport Cup 2 tires (275/30/20 front, 315/25/20 rear). Use custom wheel spacers from H&R (15mm front, 25mm rear) to achieve flush fitment.",
+    "Interior: Replace the stock seats with Recaro Pole Position seats (carbon fiber shells, part number: 2400000001) and install a custom roll cage from Matter Fab (FIA-spec, bolt-in, with integrated harness bars). Add a digital dash from AIM MXS Strada (1.3\" display) and a custom steering wheel from Momo (Prototipo Evo, 350mm diameter, Alcantara with carbon fiber inserts)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "SKYSPHERE",
+  "prestazioni": [
+    "Engine swap to a bespoke **Audi 4.0L TFSI V8 (EA825)** with a **Garrett GTX5544R Gen II** turbocharger, port-injected methanol system (AEM 340LPH pump + Snow Performance Stage 3 kit), and a **Motec M150 ECU** for full flex-fuel mapping (E85 compatible). Target: 1,200 HP on 30 psi with a **Pauter billet crankshaft** and **Carrillo H-beam rods** for 9,000 RPM stability.",
+    "Full **AP Racing CR4200 6-piston front / CR4000 4-piston rear** big brake kit with **Brembo HTC-64T high-carbon rotors** (420mm front, 380mm rear) and **Ferodo DS3000 pads**, paired with a **H&R 30mm wheel spacer kit** to clear the **BBS FI-R 21x10.5 ET25 / 22x12.5 ET30** forged wheels (titanium hardware).",
+    "Custom **KW Suspension V5 Coilover System** with **Eibach 1,200 lb/in springs**, **Motul 300V 10W-60** shock fluid, and **Audi Sport rear subframe reinforcement plates** (laser-cut from 7075-T6 aluminum) to eliminate flex under **2.8G lateral load** (validated via **VBOX Sport data logger**)."
+  ],
+  "estetica": [
+    "**Rocket Bunny V3 Widebody Kit** (carbon fiber, pre-preg autoclave cured) with **custom 3D-printed ABS front splitter** (reinforced with **TeXtreme carbon weave**), designed in CFD for **450kg downforce at 200 km/h** (tested in **FKFS wind tunnel**).",
+    "**Lazer Star 8 LED headlight conversion** (DRLs: **Osram Laserline 2**, low beams: **Philips Lumileds Luxeon Z ES**), with **custom CNC-machined aluminum bezels** anodized in **Audi Nardo Gray** (Pantone 422C) and **PPF (XPEL Stealth) full front-end protection**.",
+    "**Forge Motorsport carbon fiber engine cover** (with **Audi Sport laser-etched logo**) paired with a **custom titanium exhaust system** (3.5-inch **Inconel 625** tubing, **Akrapović Ti-EVO mufflers**, and **valvetronic bypass valves** controlled via **AEM CD-7 dash**). Interior: **Recaro Pole Position CS seats** (carbon-Kevlar shell, **Schroth 6-point harnesses**) and **Alcantara-wrapped steering wheel** (MOMO Prototipo, **suede grip with red contrast stitching**)."
+  ]
+}

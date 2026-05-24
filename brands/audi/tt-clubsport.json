@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "TT CLUBSPORT",
+  "prestazioni": [
+    "Engine: 2.5L TFSI (EA855 Evo, **DAZA** code) with a **Garrett GTX3582R Gen II** turbocharger (1.06 A/R turbine housing, billet compressor wheel) paired with a **Precision Turbo & Engine 46mm wastegate** for 3.2 bar peak boost, targeting 550whp on **Motec M150 ECU** with flex-fuel ethanol mapping (E85 compatible).",
+    "Drivetrain: **034 Motorsport Stage 3+ clutch kit** (multi-plate sintered bronze) with **South Bend billet flywheel** and **Audi RS3 8V.5 (0BH) 7-speed S tronic transmission** reinforced with **DSG tuning via Alientech KESS3** (launch control at 5,500 RPM, shift times reduced to 80ms).",
+    "Suspension/Handling: **Ohlins TT Clubsport-specific DFV coilovers** (24-way adjustable damping, 30mm front/20mm rear ride height drop) with **H&R 25mm front/22mm rear anti-roll bars**, **AP Racing 355mm front/330mm rear CCM-R brake kit** (6-piston calipers, Pagid RS29 pads), and **Michelin Pilot Sport Cup 2 R tires** (255/30 R19 front, 275/30 R19 rear on **BBS FI-R 19x9.5 ET35/19x10.5 ET40** wheels)."
+  ],
+  "estetica": [
+    "**Rocket Bunny V3 TT Clubsport widebody kit** (carbon fiber fenders, front/rear bumpers, and side skirts) with **custom 3M Matte Graphite vinyl wrap** and **Audi Sport quattro S1-inspired livery** (red/white/black stripes, carbon fiber mirror caps).",
+    "**Audi Sport TT Clubsport-specific carbon fiber rear diffuser** (OEM+ style, 3D-printed CFRP) paired with a **Remus Valvoline Titanium exhaust system** (dual 90mm outlets, electronically controlled valves, 304 stainless steel).",
+    "**Recaro Sportster CS seats** (carbon fiber shells, Alcantara/leather upholstery with red stitching) and **MOMO Prototipo steering wheel** (350mm diameter, suede grip, quick-release hub) with **AEM X-Series digital dash** (OLED display, 12,000 RPM redline, boost/vacuum/ethanol content readouts)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "S3 8Y",
+  "prestazioni": [
+    "Garrett GT2867R Gen II turbo upgrade for the EA888 Evo4 (DNWA) engine, targeting 380-400 HP on 98 RON fuel with a custom BorgWarner 46 lb/hr fuel injector setup and APR Stage 3+ ECU calibration (software version 3.1.10) for optimized wastegate duty cycle and torque shaping",
+    "034 Motorsport billet aluminum motor mounts with 75A durometer polyurethane inserts to eliminate EA888 Evo4 engine movement under aggressive launch control (0-60 mph in 3.4s) while maintaining NVH for daily driving",
+    "APR Carbon Fiber intake system with integrated IAT sensor relocation and heat shielding, paired with a custom 3.5\" velocity stack for improved airflow linearity into the DNWA engine, reducing intake air temps by 12°C under full boost (22 psi peak)"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (8Y-specific) with extended front fenders (+35mm) and rear quarter panels (+40mm), paired with custom carbon fiber overfenders for weight reduction (1.2kg savings per side) and aggressive stance over OZ Racing Ultraleggera HLT 19x9.5 ET35 wheels",
+    "Audi Sport ABT RS3-style front grille with laser-cut honeycomb mesh (0.8mm thickness) and gloss black powder-coated surround, retaining OEM adaptive LED matrix headlights but with LUX H8 V4 LED bulbs for +120% lumen output and custom DRL delete",
+    "Milltek Sport 3.5\" titanium cat-back exhaust system with dual 100mm carbon fiber tips (angled 15° downward) and internal resonators tuned for a 3,200 RPM burble on overrun, paired with a custom valved X-pipe for EA888 Evo4-specific sound engineering"
+  ]
+}
