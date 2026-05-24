@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "Q3 RS",
+  "prestazioni": [
+    "Crank the 2.5L TFSI **DAZA** engine to 1.2 bar boost (stock: 0.8 bar) via **APR Stage 2+ ECU/TCU software** with **Forge Motorsport DV+** (part #FMFSVW002) and **034 Motorsport high-pressure fuel pump** (part #034-10-0200-HPFP) to hit 450 HP / 550 Nm on **98 RON + 5% ethanol blend**",
+    "Swap the stock **IHI IS38** turbo for a **Garrett GTX3582R Gen II** (82mm compressor, 62mm turbine) with **custom 3.5\" downpipe** (catless, **Milltek Sport** fabrication) and **TurboSmart Race Port BOV** (part #TS-0203-1072) to eliminate lag and support 600 HP potential",
+    "Install **034 Motorsport billet aluminum motor mounts** (part #034-10-00001-MTM) and **Neuspeed rear subframe bushings** (part #NSP-90-10-00001) to reduce drivetrain deflection under **Haldex Gen 5 torque vectoring** (flashed with **COBB Accessport** for 0.2s faster rear torque delivery)"
+  ],
+  "estetica": [
+    "**Rocket Bunny V1 Widebody Kit** (Q3-specific, **25mm flares per side**) with **custom carbon fiber overfenders** (dry carbon, **Seibon** fabrication) to clear **285/30/20 Michelin Pilot Sport Cup 2 R** on **BBS CI-R 20x10.5 ET35** wheels",
+    "**Audi Sport OEM+ RS3 front grille** (part #8V0-853-649-A-PA) with **3D-printed carbon fiber grille insert** (black honeycomb, **Rieger Tuning** design) and **Lumma CLR Q3 RS front lip** (carbon, part #CLR-Q3RS-FL) for aggressive aero balance",
+    "**Akrapović Evolution Line Titanium exhaust** (Q3 RS-specific, **dual 90mm tips**, part #AUDI-Q3RS-16T) with **custom X-pipe** (stainless steel, **Supersprint** fabrication) and **Valvetronic electronic cutouts** (controlled via **iPhone/Android app**) for switchable backpressure tuning"
+  ]
+}

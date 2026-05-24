@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "Q7 V12 TDI",
+  "prestazioni": [
+    "Engine: 6.0L V12 TDI (engine code: **CJXB**) with a **Garrett GT4202R** twin-turbo upgrade (hybrid billet compressor wheels, 76mm inducer, 106mm exducer) paired with a **custom 4.5-inch stainless steel downpipe** (304-grade, mandrel-bent, 3.5mm wall thickness) and **Akrapovič Evolution Line Titanium** exhaust system (dual 3.5-inch outlets, quad-resonator delete, valved bypass for backpressure optimization).",
+    "Fuel System: **Bosch CP4.2** high-pressure fuel pump upgrade (2,200 bar max pressure) with **Siemens Deka 1050cc/min** port injectors (matched to **AEM 30-0334** standalone ECU with flex-fuel sensor integration) and **Aeromotive A1000** lift pump (340 LPH, -8AN feed/-6AN return) for sustained 800+ hp on E85.",
+    "Suspension/Chassis: **Öhlins Road & Track DFV** coilovers (24-way adjustable compression/rebound, 30mm front/20mm rear ride height adjustment) with **H&R 30mm front / 25mm rear** anti-roll bars (hollow-section, adjustable end links) and **Brembo GT 380mm 6-piston** front / **355mm 4-piston** rear brake kit (two-piece rotors, Type-4 pads, stainless steel braided lines)."
+  ],
+  "estetica": [
+    "**Rocket Bunny V3** widebody kit (carbon fiber fenders, 50mm extended flares, custom Q7-specific front bumper with integrated **Seibon carbon fiber** hood (vented, 30% weight reduction) and **Vorsteiner V-FF107** 22-inch forged wheels (9.5J ET35 front, 11J ET40 rear, 5x130 PCD, 5mm spacers for flush fitment).",
+    "**LuxuryTec** full LED conversion (DRLs, tail lights, side markers) with **Morimoto XB35** HID projectors (5500K, 35W ballasts) and **Vland** sequential turn signals (smoked lenses, dynamic animation via **Arduino-based CAN-BUS controller**).",
+    "**AWE Tuning** carbon fiber engine cover (matte finish, heat-resistant coating) with **custom laser-etched** V12 TDI badging (red anodized aluminum, 3mm thickness) and **Forge Motorsport** carbon fiber strut brace (3K weave, adjustable tension, Q7-specific mounting points)."
+  ]
+}

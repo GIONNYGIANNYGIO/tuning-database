@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "R8 LMS GT3 EVO II",
+  "prestazioni": [
+    "Engine: 5.2L V10 FSI (engine code: CFSA) with a bespoke Bosch MS6.4 GT3-spec ECU remap targeting 600+ HP (up from ~585 HP stock) via optimized fueling and ignition timing for endurance racing, paired with a custom Akrapović 4-2-1 titanium exhaust manifold and secondary cat-delete system to reduce backpressure by 18%",
+    "Suspension: Öhlins TTX-46 MkII 4-way adjustable dampers with custom valving for the R8 LMS Evo II’s double-wishbone front and multi-link rear setup, featuring 3mm thicker sway bars (Eibach) and spherical bearing upgrades (SuperPro) to eliminate compliance in the subframe mounts for GT3 sprint/endurance stiffness",
+    "Aerodynamics: Full-carbon APR Performance GT3-spec front splitter with adjustable dive planes (3-stage angle adjustment) and a custom 3D-printed rear diffuser (utilizing Audi Sport’s CFD data) to generate 1,200 kg of downforce at 250 km/h, paired with a fixed-position Gurney flap on the rear wing (Audi Motorsport OEM part #8X0-959-601C)"
+  ],
+  "estetica": [
+    "Full-carbon fiber body kit (Audi Sport GT3 Evo II OEM upgrade, part #8X0-959-001A) with matte clear coat and exposed weave on the hood, fenders, and side skirts, including the GT3-spec front bumper with integrated NACA ducts for brake cooling",
+    "Custom livery: 3M 2080 Series vinyl wrap in ‘Audi Sport Racing Blue’ (Pantone 2145 C) with high-gloss black accents on the roof, mirrors, and diffuser, featuring sponsor decals (e.g., Michelin Pilot Sport Cup 2 R tires, Motul 300V 15W-50 oil) in retro-reflective 3M Scotchlite for night racing visibility",
+    "Interior: Full Alcantara-wrapped Recaro SPG XL GT3 seats (Audi Motorsport part #8X0-959-655B) with 6-point Schroth Profi II-6 SFI harnesses, a custom MOMO Mod.78 steering wheel (flat-bottom, suede grip) with integrated AIM MXS Strada dash display, and a titanium bolt-on roll cage (Sparco Pro2000) painted in RAL 9005 Jet Black"
+  ]
+}

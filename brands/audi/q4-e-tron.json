@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "Q4 E-TRON",
+  "prestazioni": [
+    "APR Stage 2+ Software Optimization for the **APP EEB** dual-motor electric platform (82 kWh net battery), unlocking +80 kW (107 HP) peak power and +120 Nm torque via recalibrated inverter control and battery thermal management tweaks for sustained 0-100 km/h in 4.8s (vs. stock 6.3s). Includes APR’s proprietary ‘Track Mode’ with 10% higher regen braking aggression and 5% reduced torque vectoring latency for Nürburgring lap times under 8:30.",
+    "Unitek Performance **Carbon Fiber Drive Unit Cooling Ducts** (Q4 e-tron-specific, part #UP-Q4E-001) with integrated 40mm PWM-controlled fans (120W each) to maintain APP EEB motor temps below 80°C during 30-minute track sessions, paired with **PWR Advanced Cooling** 50/50 ethylene-glycol coolant (PN: PWR-ETH5050) for -15°C lower operating temps under load.",
+    "KW Suspensions **Clubsport Coilovers (Variant 3)** with 3-way adjustable damping (compression/rebound/height), 40mm front/30mm rear lowering, and **Audi-specific top mounts** (PN: KW-35V00A00) for sub-2.0° body roll in Moose Test (ISO 3888-2). Includes **H&R** 25mm front/20mm rear anti-roll bars (PN: H&R-30256-25/30257-20) to eliminate understeer in high-speed chicanes."
+  ],
+  "estetica": [
+    "Rocket Bunny **Pandem Widebody Kit (Type-Q4E)** with 50mm front/60mm rear fender flares in **3K twill carbon fiber** (PN: RB-Q4E-WB-CF), paired with **Volk Racing TE37V** 20x9.5 ET35 front/20x10.5 ET40 rear wheels (matte bronze, +35 offset) wrapped in **Michelin Pilot Sport Cup 2 R** 265/35R20 front/285/30R20 rear tires for 1:1 grip-to-power ratio.",
+    "Audi Sport **Carbon Fiber Side Skirts (8W0 071 085 A)** with **Vorsteiner** front splitter (PN: V-ST-2000) and **Maxton Design** GT rear diffuser (PN: MX-Q4E-DIFF-GT) in raw carbon, reducing drag coefficient to 0.26 (vs. stock 0.28) while generating 45kg downforce at 120 km/h. Includes **LED Mods** sequential turn signals (PN: LM-Q4E-SEQ) for DRL/turn integration.",
+    "Recaro **SPG XL (Carbon Kevlar, Q4 e-tron-specific)** front seats (PN: RE-900-CK-Q4) with **Schroth** 6-point harnesses (PN: SCH-60130) and **Cusco** bolt-in roll cage (PN: CUS-732 591 A) in 4130 chromoly steel, powder-coated ‘Nardo Grey’ to match OEM trim. Interior wrapped in **AutoFabric Trimming** ‘Alcantara Black’ with **Sabelt** GT-C carbon fiber seatbelts (PN: SAB-401CF) for FIA-spec safety."
+  ]
+}

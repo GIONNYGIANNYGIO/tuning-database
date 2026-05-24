@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "QUATTRO",
+  "prestazioni": [
+    "Engine: 2.1L inline-5 turbocharged (engine code: WCC/WR) with forged Mahle pistons (83.5mm bore, 8.5:1 compression), Carrillo H-beam connecting rods, and a fully balanced crankshaft for 1.5-bar boost capability on a Garrett GT35R turbo (0.82 A/R turbine housing, 60mm compressor inducer) with a custom 3-inch stainless steel downpipe and Tial 44mm external wastegate",
+    "Fuel System: Bosch Motorsport 044 high-flow fuel pump, Siemens DEKA 80lb/hr injectors (PN: 62806), and a custom-mapped Bosch Motronic MA 2.1 ECU with a MoTeC M800 piggyback for precise AFR control (targeting 11.5:1 under full load) and launch control at 5,500 RPM",
+    "Drivetrain & Suspension: Quaife ATB helical LSD in the rear differential, 034 Motorsport solid subframe bushings, Ohlins Road & Track coilovers (22mm front/20mm rear sway bars, adjustable camber plates), and a Sachs Performance dual-mass flywheel with a South Bend Stage 3 clutch (ceramic puck, 2,400lb clamping force) for aggressive gear shifts"
+  ],
+  "estetica": [
+    "Body: URAS (Urban Racing Aero Solutions) widebody kit (flares extended 50mm per side) with carbon fiber front splitter and rear diffuser, paired with a custom 3-piece BBS RS 002 wheelset (9x16 ET20 front, 11x16 ET15 rear) wrapped in Toyo R888R tires (225/50/16 front, 255/40/16 rear)",
+    "Interior: Recaro SRD Evo II seats (carbon fiber backs, 6-point Schroth harnesses), Momo Prototipo steering wheel (350mm diameter, suede), and a custom roll cage by Matter Fab (chromoly 4130, bolt-in design with integrated harness bar)",
+    "Lighting & Details: Hella Rallye 2000 headlights (H4 bulbs, Cibie Oscar lenses), custom rear LED taillight delete with smoked Perspex covers, and a full de-chrome treatment with satin black vinyl wrap (3M 2080 series, G12 gloss level)"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "RS Q8 PERFORMANCE PLUS",
+  "prestazioni": [
+    "Upgrade to a **Garrett GTX5533R Gen II turbocharger** (hybrid billet wheel) for the **CWGD 4.0L TFSI V8 (EA825)** engine, paired with a **Forge Motorsport Motorsport Series intercooler** (front-mount, 1200g/s airflow capacity) and **034 Motorsport billet aluminum intake manifold** to support 800+ HP on **Motec M150 ECU** with **AEM CD-7 dash logger** for real-time boost and AFR monitoring",
+    "Full **Akrapović Evolution Line Titanium exhaust system** (cat-back, 3.5\" diameter, quad outlets) with **Armytrix Valvetronic bypass valves** (electronically controlled, 0-100% adjustable backpressure) and **custom downpipes** (200-cell HJS catalytic converters for Euro 6d compliance) to optimize scavenging for the **CWGD V8**",
+    "**KW Suspension Clubsport 3-way coilovers** (10-position rebound, 12-position compression, remote reservoirs) with **H&R RS Q8-specific anti-roll bars** (24mm front, 22mm rear, adjustable drop links) and **Brembo GT 420mm 2-piece rotors** (6-piston calipers, RS Q8-specific bell adapters) for track-focused braking"
+  ],
+  "estetica": [
+    "**Rocket Bunny V3 widebody kit** (RS Q8-specific, carbon fiber fenders, 50mm extended wheel arches) with **custom Vorsteiner V-FF 110 forged wheels** (23\" front, 24\" rear, 12.5J/13.5J widths, ET30/ET25 offsets) wrapped in **Michelin Pilot Sport Cup 2 R tires** (325/25R24 rear, 295/30R23 front)",
+    "**Audi Sport ABT RS Q8-specific front splitter** (carbon fiber, 3D-scanned for OEM fitment) with **custom rear diffuser** (3-piece, carbon fiber, integrated **Aeromotions active rear wing** (3-position, 15°-30° angle adjustment, 200mph+ stability)) and **LED underbody lighting** (Philips Hue integration, 16.8M color sync with interior ambient lighting)",
+    "**RS Q8 Performance Plus-specific interior** featuring **Recaro Pole Position seats** (carbon fiber shells, 6-point Schroth harnesses, RS Q8-specific mounting brackets) with **Alcantara/leather upholstery** (custom diamond-stitching, RS Q8 logo embroidery) and **Motec C125 dash display** (replacing OEM cluster, CAN bus integration for boost, oil temp, and lap timers)"
+  ]
+}

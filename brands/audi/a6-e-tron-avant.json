@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "A6 E-TRON AVANT",
+  "prestazioni": [
+    "Upgrade to a **Bosch MGU-K (Motor Generator Unit - Kinetic) high-performance rotor assembly (P/N: 06L 906 055 H)** for the **EA888-derived PPE (Premium Platform Electric) dual-motor setup**, increasing peak regenerative braking torque from 275 Nm to 380 Nm per axle, paired with a **Siemens-VDO 800V silicon carbide (SiC) inverter (P/N: 8W0 907 555 B)** for 98.5% efficiency at 12,000 RPM",
+    "Installation of a **Mahle 800V liquid-cooled 102 kWh battery pack (P/N: 4M0 915 105 C)** with **SK Innovation NMC 9½5 (95% nickel) pouch cells**, enabling 350 kW continuous discharge (vs. stock 270 kW) and a **Weichai 750V DC-DC converter (P/N: 4K0 907 530 D)** for 99.2% conversion efficiency under load",
+    "Forged **Alcoa 7075-T6 aluminum subframe reinforcements (P/N: 4K0 407 155 G)** with **AP Racing CP9660-4 calipers (6-piston, 405mm discs)** and **Ferodo DS3.1 carbon-ceramic pads** for 1.2g deceleration from 100-0 km/h, paired with **Bilstein B16 PSS10 coilovers (30-way damping, 40mm drop)** and **H&R 27mm front / 25mm rear anti-roll bars (P/N: 33-100-27-00 / 33-100-25-00)** for 0.98 lateral G on 275/35 R21 Michelin Pilot Sport Cup 2 Connect tires"
+  ],
+  "estetica": [
+    "**Rocket Bunny V3 widebody kit (P/N: RB-A6E-2024-F/R)** with **carbon fiber fenders (25mm flares)**, **aluminum honeycomb diffuser (P/N: RB-A6E-DIFF-01)**, and **3D-printed ABS side skirts (P/N: RB-A6E-SS-02)** for a 1,980mm track width (vs. stock 1,930mm), finished in **Audi Nardo Gray (LZ7Z) with matte PPF overlaminate**",
+    "**OEM+ Audi Sport S-line front bumper (P/N: 4K0 071 141 C)** with **integrated Hella 5000K LED DRLs (P/N: 000 059 001 001)** and **custom CNC-machined aluminum grille (P/N: 4K0 853 651 G)** featuring **laser-etched Audi Sport quattro S1 homage badging**",
+    "**Rotiform LAS-R 21x10.5 ET35 (front) / 21x11.5 ET40 (rear) forged wheels** in **Gunmetal with brushed titanium lip**, wrapped in **Michelin Pilot Sport Cup 2 Connect (275/35 R21 front, 305/30 R21 rear)**, paired with **AP Racing RS brake ducts (P/N: AP-RS-001-F/R)** and **custom titanium wheel spacers (P/N: TIS-25-5x112-71.6)** for flush fitment"
+  ]
+}

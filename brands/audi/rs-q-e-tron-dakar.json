@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "RS Q E-TRON DAKAR",
+  "prestazioni": [
+    "Upgrade to a **TTE520 hybrid turbocharger** (replacing the stock BorgWarner EFR unit) for the **EA888-derived 2.0L TFSI (DNWA) PHEV powertrain**, targeting 550+ hp at 7,200 RPM with a 32 psi boost ceiling, paired with a **Motec M150 ECU** for real-time Dakar rally-stage torque vectoring and energy regeneration mapping.",
+    "Installation of a **PWR Australia 42V liquid-cooled intercooler core** (custom 3D-printed titanium end tanks) to maintain intake temps below 45°C in 50°C ambient conditions, coupled with a **Radium Engineering dual-catch can system** (AN-10 lines) to eliminate oil vapor ingestion in high-G desert stages.",
+    "Replacement of the stock **ZF 8HP95X 8-speed hybrid transmission** with a **Xtrac P1396 sequential gearbox** (dog-ring engagement, magnesium casing) and **AP Racing CP8450 carbon-carbon clutch**, enabling 0.08s shifts under 3,500 Nm of torque, with a **GKN eAxle** for front-wheel torque vectoring up to 1,200 Nm."
+  ],
+  "estetica": [
+    "Full **Rocket Bunny Dakar-spec widebody kit** (carbon-Kevlar hybrid, 120mm flares) with integrated **AIM MXL2 data logger antennas** and **Hella Micro DE LED light pods** (5,000-lumen, 6,000K) in the front splitter, replacing the stock Audi Sport aero.",
+    "Custom **Forge Motorsport titanium exhaust outlets** (dual 100mm tips, Inconel 625 construction) exiting through the rear diffuser, paired with a **Sabelt 6-point FIA-spec harness** and **Sparco Dakar Pro seat** (carbon-fiber shell, 3D-printed lumbar support for Loeb/Al-Attiyah ergonomics).",
+    "Wrapping the **Audi Sport Dakar livery** in **3M 1080 Matte Military Green** with **Avery Dennison Conform Chrome Delete** on the grille and badges, combined with **OMP Dakar-spec side mirrors** (quick-release, carbon-fiber) and a **WRC-spec roof scoop** (carbon-fiber, NACA duct for battery cooling)."
+  ]
+}

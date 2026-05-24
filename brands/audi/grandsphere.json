@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "GRANDSPHERE",
+  "prestazioni": [
+    "Engine: 3.0L V6 TFSI (EA839, CZSE) with a custom Stage 2+ ECU remap by APR (APR30TFSI2+), targeting 550 HP and 580 lb-ft torque via upgraded fuel system (Bosch 1050cc injectors, AEM 400LPH fuel pump) and a Garrett GTX3582R turbocharger with billet compressor wheel, paired with a custom 3.5-inch downpipe and a Milltek Sport 76mm titanium exhaust system with electronically controlled valves for backpressure optimization.",
+    "Drivetrain: Quattro Ultra AWD system recalibrated by 034Motorsport (034-QUATTRO-ULTRA-TUNE) for 70/30 torque split under aggressive acceleration, paired with an upgraded Sachs Performance dual-mass flywheel (800Nm torque capacity) and a Tilton 7.25-inch twin-disc clutch assembly with cerametallic friction material for launch control optimization.",
+    "Suspension: KW Suspension Clubsport coilovers (KW-3V4-AUDI-GS) with 3-way adjustable damping (compression, rebound, and high-speed rebound), reinforced with 034Motorsport subframe collars (034-011-001) and spherical bearing control arm bushings (034-011-002) for chassis rigidity, paired with H&R 20mm front and 15mm rear anti-roll bars for flat cornering dynamics."
+  ],
+  "estetica": [
+    "Aero: Liberty Walk LB Works widebody kit (LB-AUDI-GRANDSPHERE) with carbon fiber fenders, side skirts, and rear diffuser, paired with a custom front splitter by Vorsteiner (V-AUDI-GS-SPLITTER) and a GT3-style rear wing by RW Carbon (RW-AUDI-GS-WING) with adjustable angle of attack (0-15 degrees).",
+    "Wheels: Rotiform LAS-R 21x10.5 ET35 front and 21x12.5 ET45 rear forged wheels in matte bronze finish, wrapped in Michelin Pilot Sport Cup 2 R tires (275/30/21 front, 315/25/21 rear) with custom TPMS sensors by Schrader (Schrader 20300).",
+    "Interior: Full Alcantara retrim by Recaro (Recaro CS Sportster GT seats with integrated 6-point harnesses by Schroth (Schroth Profi II 6-point)), paired with a custom roll cage by Custom Cages (CC-AUDI-GS-8PT) in T45 steel with chrome-moly gussets, and a digital dash upgrade by MOTEC (MOTEC C127) with real-time telemetry and boost pressure monitoring."
+  ]
+}

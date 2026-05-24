@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "A5 DTM",
+  "prestazioni": [
+    "Replacement of the factory **RC8 2.0L TFSI (EA888 Gen3)** engine internals with forged **Mahle Motorsport** pistons (9.5:1 compression), **Pankl Racing Systems** H-beam connecting rods, and a **billet crankshaft** from **Callies Performance** to handle 600+ HP reliably under DTM-level boost (3.0+ bar with methanol injection).",
+    "Installation of a **Garrett GTX5533R** turbocharger (88mm compressor wheel, 106mm turbine) paired with a **Tial MV-R 60mm** wastegate and **Precision Turbo & Engine** 4.0-inch V-band downpipe, feeding into a **Akrapovič DTM-spec titanium exhaust system** with 3.5-inch piping and dual 120mm outlets.",
+    "Full **Bosch Motorsport MS5.1** standalone ECU with **Motec PDM15** power distribution module, **AEM X-Series** wideband O2 sensors, and **Plex Tuning** traction control system calibrated for DTM-spec **Michelin Pilot Sport Cup 2 R** tires (305/665-R18 front, 325/705-R18 rear) on **BBS RI-D DTM** forged wheels (18x12 ET45 front, 18x13 ET50 rear)."
+  ],
+  "estetica": [
+    "Carbon fiber **Audi Sport DTM** widebody conversion kit (OEM-spec, part #8W0-071-100A) with **Rocket Bunny** DTM-style front splitter and **APR Performance** GT-300 rear wing (carbon fiber, 1,800mm span, adjustable 0-25° angle) for 1,200kg downforce at 250km/h.",
+    "Full **Sparco DTM** interior retrofit: **Sabelt 6-point harnesses**, **OMP DTM-spec racing seats** (carbon fiber shell, FIA 8862-2009 certified), **Schroth Racing** HANS-compatible belts, and **Audi Sport** DTM steering wheel (carbon fiber, quick-release, integrated **Cosworth** digital dash).",
+    "Custom **PPG DTM** livery in **Audi Nardo Gray** (code LY7W) with **3M Matte Black** vinyl overlays, **Oracle Lighting** DTM-spec LED headlights (Hella 90mm projectors, 5,000-lumen output), and **Brembo GT** 6-piston calipers (painted **Audi Sport Red**, code 20A) clamping **380mm CCM-R** rotors with **Ferodo DS3000** pads."
+  ]
+}

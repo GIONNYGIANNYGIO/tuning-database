@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "RS Q3",
+  "prestazioni": [
+    "APR Stage 2+ ECU/TCU flash for the **CZEA 2.5L TFSI (EA855 Evo)** engine, targeting 450 HP and 550 Nm with a custom **Garrett GTX3071R Gen II** turbocharger, upgraded **Mahle Motorsport forged pistons (9.3:1 compression)**, and **IE 3.5\" titanium downpipe** with **Akrapovič Evolution exhaust** (catless center section)",
+    "KW Suspensions **Clubsport coilovers (3-way adjustable)** with **H&R RS Q3-specific sway bars (24mm front, 22mm rear)** and **SuperPro poly bushings (full subframe, control arms, and differential mounts)** for reduced compliance and sharper turn-in",
+    "Brembo **GT 6-piston 400mm front brake kit (RS7 calipers)** with **Ferodo DS2500 pads** and **Goodridge 600-series braided stainless steel brake lines**, paired with **Motul RBF 660 racing brake fluid** for fade resistance under track use"
+  ],
+  "estetica": [
+    "Rocket Bunny **Pandem RS Q3 widebody kit (V2)** with **custom carbon fiber fenders (25mm wider front, 35mm wider rear)**, **custom 3D-printed ABS rear diffuser**, and **Vorsteiner V-FF 107 20\" forged wheels (9.5J ET35 front, 10.5J ET40 rear)** in **Gunmetal with brushed lip**",
+    "Audi Sport **RS Q3-specific carbon fiber engine cover (OEM+)** with **custom laser-etched RS3-style intake manifold (anodized red)** and **Forge Motorsport carbon fiber cold air intake (dual 4\" velocity stacks)** for aggressive induction noise",
+    "OEM Audi **Laserlight tail lights (RS6-style)** with **custom LED strip animation (sequential startup, dynamic brake light pulse)**, **debadged rear hatch (replaced with RS Q3 script in carbon fiber)**, and **3M Matte Graphite Grey vinyl wrap (Satin finish, 200 micron)**"
+  ]
+}

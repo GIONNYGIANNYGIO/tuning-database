@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "Q6 E-TRON",
+  "prestazioni": [
+    "Upgrade to a **Bosch MGU055** high-performance electric motor (replacing the stock **APP310** e-motor) with a **custom silicon-carbide inverter** from **AP Racing** for a 0-60 mph time of 3.2s (stock: 5.9s) and a peak power output of 650 kW (872 hp) via a **Unitek BMU-800** battery management system with 800V overclocking capability",
+    "Installation of a **Magna PT eDS Mid** dual-speed transmission with **GKN eTwinsterX** torque vectoring for 30% faster acceleration out of corners, paired with **Brembo GT-R 390mm front and 360mm rear carbon-ceramic rotors** with **Alcon 6-piston monoblock calipers** for 40% improved braking performance",
+    "Integration of a **Mahle Jet Ignition** thermal management system with **CryoTech liquid nitrogen cooling** for the **800V lithium-ion battery pack (LG Chem E66A)**, enabling sustained 600 kW output without thermal throttling, alongside a **Porsche Taycan Turbo S-derived rear axle cooling loop** with **Behr Hella Service** high-flow radiators"
+  ],
+  "estetica": [
+    "**Rocket Bunny V3 Widebody Kit** (Q6 e-tron-specific, carbon fiber construction) with **custom 3D-printed ABS underbody diffusers** for a 22% reduction in drag coefficient (Cd 0.24 → 0.19), featuring **OEM-matched Audi Nardo Gray paint with PPF XPEL Stealth wrap**",
+    "**Rotiform LAS-R 22x10.5 ET35 forged wheels** (front) and **22x12.5 ET40** (rear) with **Michelin Pilot Sport EV 285/30 R22 (front) and 325/25 R22 (rear) tires**, paired with **H&R TRAK+ 30mm lowering springs** and **Bilstein B16 PSS10 coilovers** for a 40mm drop with adaptive damping",
+    "**Litchfield Carbon Fiber Hood** (Q6 e-tron-specific, 12kg weight reduction) with **integrated LED heat extractors** and **custom laser-etched Audi Sport quattro S1 livery**, alongside **Vorsteiner carbon fiber side skirts** and a **Remus Valved Electric Exhaust System** (simulated V8 sound profile with 95dB active noise cancellation)"
+  ]
+}

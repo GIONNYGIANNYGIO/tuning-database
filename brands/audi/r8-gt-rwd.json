@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "R8 GT RWD",
+  "prestazioni": [
+    "Engine: 5.2L V10 FSI (engine code: CEJA) with a custom Weistec Engineering Stage 3+ supercharger kit (2.9L Eaton TVS2300 blower, 10.5 psi boost, forged internals including Mahle Motorsport pistons, Carrillo H-beam rods, and a billet crankshaft) paired with a Weistec high-flow fuel system (dual Bosch Motorsport 450 LPH pumps, ID1000 injectors, and a Motec M150 ECU for precise fuel and ignition mapping).",
+    "Exhaust: Akrapović Evolution Line Titanium full exhaust system with 90mm carbon-fiber tips, 200-cell catalytic converters, and a custom X-pipe design to optimize scavenging for the V10’s 8,700 RPM redline. Includes a secondary bypass valve for aggressive backpressure control.",
+    "Suspension & Handling: KW Suspensions Clubsport 3-way adjustable coilovers with remote reservoirs, custom valving for the R8 GT’s aluminum-intensive spaceframe, and spherical bearing top mounts. Paired with H&R Monoball subframe bushings, 034 Motorsport solid differential mounts, and a custom AP Racing 6-piston front/4-piston rear brake kit with 400mm two-piece rotors and Pagid RSL29 pads for track endurance."
+  ],
+  "estetica": [
+    "Aero: Liberty Walk LB Works R8 GT-specific widebody kit (carbon-fiber fenders, front splitter, and rear diffuser) with a custom 3D-printed aluminum rear wing mount for a 1,800mm APR GT3-style wing. Includes a Vorsteiner carbon-fiber front lip and a custom rear diffuser with integrated Gurney flap for downforce tuning.",
+    "Wheels: HRE FF01 20x10.5 ET35 front / 21x12.5 ET45 rear wheels with custom center-lock adapters, wrapped in Michelin Pilot Sport Cup 2 R tires (275/30/20 front, 325/25/21 rear). Finished with titanium wheel bolts and a custom HRE titanium valve stem kit.",
+    "Interior: Full Alcantara-wrapped Recaro Pole Position seats with custom Schroth 6-point harnesses, a MOMO Mod.70 steering wheel with a quick-release hub, and a custom Motec C127 dash display replacing the stock cluster. Includes a Weistec carbon-fiber engine cover with a clear polycarbonate window and LED lighting for the V10."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "R8 GT",
+  "prestazioni": [
+    "Engine: 5.2L V10 FSI (Engine Code: 4T0 5.2 FSI) with a custom Weistec Engineering Stage 3+ supercharger kit (12 psi boost, 850+ HP) utilizing a Magnuson TVS2300 blower, forged internals (Mahle pistons, Carrillo rods, and a billet crankshaft), and a custom fuel system with dual Bosch Motorsport 044 high-flow fuel pumps and ID1000 injectors",
+    "Drivetrain: Quaife ATB LSD with a 3.88 final drive ratio paired with a Sachs Performance twin-disc clutch (ceramic friction material) and a 6-speed R-Tronic transmission tuned by DSG Solutions for lightning-fast shifts (120ms) with launch control and flat-foot shifting",
+    "Suspension & Handling: KW Suspensions Clubsport coilovers (3-way adjustable, 10-position rebound, and 12-position compression damping) with spherical bearing top mounts, H&R anti-roll bars (25mm front, 22mm rear), and Brembo GT-R 380mm 2-piece rotors with 6-piston calipers (front) and 356mm 1-piece rotors with 4-piston calipers (rear), paired with Pagid RSL29 brake pads and Motul RBF 660 brake fluid"
+  ],
+  "estetica": [
+    "Aero: Vorsteiner V-FF107 GT carbon fiber widebody kit (R8 GT-specific, 50mm wider front fenders, 70mm wider rear fenders) with a custom Vorsteiner GT-spec rear diffuser and a 3D-printed active rear wing (carbon fiber, adjustable angle via electric actuators) for 300+ lbs of downforce at 150 mph",
+    "Exterior: Full custom PPF (XPEL Stealth) with a matte Audi Nardo Grey wrap (3M 2080 series) and OEM+ carbon fiber side blades (R8 GT-specific, gloss clear coat) with LED turn signals (Osram LEDriving SL 101), plus a custom front splitter with integrated LED DRLs (Lux H8 V4) and a carbon fiber engine cover (Weissach Design)",
+    "Interior: Full Alcantara-wrapped Recaro Pole Position seats (R8 GT-specific, carbon fiber backs) with Schroth Profi II 6-point harnesses, a custom roll cage (MCS Motorsport, T45 steel, bolt-in with harness bar), and a Motec C127 dash logger with integrated AIM MXS Strada display, plus a custom carbon fiber center console (Weissach Design) housing a GReddy Profec B Spec II boost controller and a RaceGrade CAN bus interface"
+  ]
+}

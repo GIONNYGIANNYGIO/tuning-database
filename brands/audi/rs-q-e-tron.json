@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "RS Q E-TRON",
+  "prestazioni": [
+    "Upgrade to a **Bosch MGU-K (Motor Generator Unit - Kinetic) high-performance electric motor (EA888-derived hybrid system, code: **EA890**) with a custom **AP Racing CP9660** carbon-carbon clutch assembly, replacing the stock MGU-K to handle 450 kW (603 hp) peak output and 900 Nm of torque, paired with a **Marelli 800V silicon carbide (SiC) inverter** for faster response and reduced thermal losses under Dakar Rally conditions.",
+    "Installation of a **Garrett GTX5533R Gen II** turbocharger (modified for hybrid duty) on the **2.0L TFSI EA888 Gen 4 (engine code: **DNWA**)** internal combustion engine, featuring a **Precision Turbo & Engine 62mm wastegate** and **Tial MV-R 50mm blow-off valve**, tuned to 3.2 bar boost pressure with a **Motec M150 ECU** for seamless integration with the electric powertrain, targeting 550 hp from the ICE alone.",
+    "Full **Penske 8760** 3-way adjustable coilover suspension system with **Eibach ERS (Eibach Racing Springs) 1000 lb/in progressive-rate springs**, **Öhlins TTX46 MkII** dampers, and **Audi Sport-specific spherical bearing upper mounts**, paired with a **HRE FF16** forged 21-inch wheel setup wrapped in **Michelin Pilot Sport Cup 2 R (325/25 R21)** tires for optimal weight transfer and desert terrain compliance."
+  ],
+  "estetica": [
+    "Custom **Rocket Bunny PANDAM RS Q e-tron** widebody kit, featuring **carbon fiber fender flares (2.5-inch wider front, 3-inch wider rear)**, **aluminum honeycomb-reinforced side skirts**, and a **dual-plane rear diffuser** with **active Gurney flaps** (adjustable via **Audi Sport Dynamic Plus** system) for aerodynamic balance at high speeds.",
+    "Full **Audi Exclusive Carbon Package** with **forged carbon fiber (CFRP) roof panel**, **side mirror housings**, and **front splitter**, coated in **Audi Sport Nardo Gray matte finish**, paired with **HRE C100** center-lock wheels in **Gunmetal with polished lip** and **Audi Sport laser-etched RS Q e-tron badging** on the rear quarter panels.",
+    "Interior overhaul with **Recaro Pole Position SP-G (carbon shell) seats** wrapped in **Alcantara with red contrast stitching**, **MOMO Prototipo steering wheel (flat-bottom, suede grip)**, **AEM CD-7 dash display** for hybrid powertrain telemetry, and **Schroth Profi II 6-point harnesses** for rally-spec safety, all trimmed in **Audi Sport red leather with diamond quilting**."
+  ]
+}

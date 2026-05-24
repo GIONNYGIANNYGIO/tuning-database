@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "Q5 SPORTBACK S LINE",
+  "prestazioni": [
+    "Engine: 2.0L TFSI EA888 Gen3B (CZPA) – Full Stage 2+ ECU remap by APR (APR2+20TFSI) with custom dyno-tuned boost curve targeting 320 HP and 420 Nm torque, utilizing a CTS Turbo TMAP sensor (CTS-0064) for precise air/fuel ratio monitoring and a 3.5\" V-band downpipe (Fabspeed Motorsport FS-Q5-350-DP) with high-flow catalytic converter for optimized exhaust scavenging.",
+    "Forced Induction: Hybrid turbocharger upgrade – Garrett GTX3071R Gen II (714527-5003S) with billet compressor wheel, 62mm inducer, and 71mm exducer, paired with a custom BorgWarner EVO 2 compressor housing (P/N: 179350) and TiAL Sport 44mm wastegate (MV-R) for precise boost control at 24 PSI peak pressure.",
+    "Suspension & Handling: KW Suspensions Clubsport coilover kit (KW-35-01900) with 8-position adjustable rebound damping, 16-level compression adjustment, and 20mm front/15mm rear ride height reduction, paired with H&R 20mm front and 15mm rear anti-roll bars (H&R 51640) and Audi Sport ceramic brake pads (8W0.698.151.A) with Brembo 380mm front rotors (0A5.115.521.C) for fade-resistant stopping power."
+  ],
+  "estetica": [
+    "Aero: Prior Design PD800RS widebody conversion kit (PD-Q5-800RS) with carbon fiber front splitter, side skirts, and rear diffuser, featuring integrated LED turn signals and a 30mm rear overhang extension for improved aerodynamics. Rear wing: Verus Engineering GT-spec carbon fiber duckbill spoiler (VE-Q5-001) with adjustable angle of attack (0-12 degrees).",
+    "Wheels & Tires: Rotiform LAS-R 20x9.5 ET35 (front) and 20x10.5 ET40 (rear) forged wheels in Satin Black with custom concave profile, wrapped in Michelin Pilot Sport Cup 2 R tires (265/35/20 front, 295/30/20 rear) for maximum mechanical grip. Fender flares: Custom 3D-printed ABS plastic flares (by 3D Tuning Solutions) with integrated air vents for brake cooling.",
+    "Exterior & Lighting: Full dechroming with vinyl wrap in Avery Dennison Gloss Gunmetal (M900-122-GG) with matte black roof and mirror caps. Lighting: LUX H8 V4 LED headlight bulbs (LUX-H8-V4) with Osram Night Breaker Laser H7 bulbs (64210NL-HCB) for high-beam, and Audi OEM LED taillight retrofit (8W0.945.093/094) with sequential turn signals and smoked lenses."
+  ]
+}

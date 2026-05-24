@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "R8 V10 PERFORMANCE RWD",
+  "prestazioni": [
+    "Engine: 5.2L FSI V10 (DDH) with a custom Weistec Engineering Stage 3+ supercharger kit (12 psi boost, 850+ HP, forged internals including Mahle pistons, Carrillo H-beam rods, and a billet crankshaft), paired with a Weistec-spec fuel system (dual Bosch Motorsport 450 LPH pumps, Injector Dynamics ID1700x injectors, and a Radium Engineering fuel surge tank).",
+    "Drivetrain: 034 Motorsport RWD-specific limited-slip differential (LSD) with 80% lockup under power, paired with a Sachs Performance twin-disc clutch (organic/carbon hybrid) and a 034 Motorsport lightweight flywheel (12.5 lbs).",
+    "Suspension & Handling: KW Suspensions Clubsport coilovers (3-way adjustable, 400 lbs/in front springs, 500 lbs/in rear springs) with KW-specific R8 RWD top mounts, complemented by H&R Monoball front subframe bushings and 034 Motorsport solid rear subframe bushings. Braking upgraded to AP Racing Radi-CAL 6-piston front/4-piston rear calipers with 405mm (front) and 380mm (rear) two-piece rotors, paired with Ferodo DS3000 pads and Motul RBF 660 brake fluid."
+  ],
+  "estetica": [
+    "Aero: Prior Design PD8XX widebody kit (carbon fiber, RWD-specific rear diffuser with integrated Gurney flap) paired with a custom Vorsteiner V-FF 107 front splitter (3D-scanned for R8 RWD) and a GT3-style rear wing (carbon fiber, adjustable angle, 3D-printed aluminum mounts).",
+    "Wheels: HRE FF01 wheels (20x10.5 +25 front, 20x12 +35 rear) with custom concave profiles, wrapped in Michelin Pilot Sport Cup 2 R tires (275/30/20 front, 325/30/20 rear). Wheel spacers: H&R TRAK+ 15mm (front) and 25mm (rear) hub-centric spacers with extended wheel studs.",
+    "Exterior & Interior: Full Respray in Audi Nardo Grey (custom matte finish with 3M Ceramic Coating), with dechromed badges and a custom laser-etched V10 Performance RWD emblem on the rear. Interior: Recaro Pole Position seats (carbon fiber shells, Alcantara/leather with R8 RWD-specific bolsters), paired with a MOMO Mod.78 steering wheel (suede, 350mm, quick-release hub) and a custom carbon fiber shift knob (weighted, 3D-printed for DSG shifter)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "A3 2.0 TDI S-LINE",
+  "prestazioni": [
+    "Engine Code: **CJXB (EA288 Gen3B 2.0 TDI)** – Stage 2+ ECU remap by **Dimsport Genius** with custom EGR/DPF/AdBlue delete (Euro 6d-TEMP compliant bypass) and **Garrett GTD2056VZ turbocharger** (hybrid billet wheel, 0.63 A/R turbine housing, 56mm compressor) for 280hp/580Nm on **Shell V-Power 100 RON** with **NGK 97506 (PFR7S8EG)** iridium spark plugs (diesel-specific ignition optimization).",
+    "Fuel System: **Bosch CP4.2 high-pressure fuel pump** (modified by **Diesel Performance Tuning UK**) with **Siemens 2000bar injectors (PN: 0445120294)** and **Mann+Hummel ProVent 200 oil catch can** (PCV reroute to prevent intake manifold sooting).",
+    "Drivetrain: **0B5 DQ500 7-speed S-tronic transmission** flash by **Alientech KESS3** (aggressive shift logic, 10% faster upshifts, launch control at 3,500 RPM) paired with **Wavetrac ATB differential** (85% lock under load) and **Febi Bilstein 27939** reinforced dual-mass flywheel (DMF delete)."
+  ],
+  "estetica": [
+    "Aero: **Prior Design PD800R widebody kit** (OEM+ fitment, 30mm extended rear fenders, carbon fiber front splitter with **3M 1080 Gloss Black** wrap) and **Audi Sport ABT RS3-style rear diffuser** (3D-printed PETG, 4x 76mm exhaust cutouts for **Akrapović Evolution Line Ti/C**).",
+    "Suspension: **KW Clubsport 3-way coilovers** (10-position rebound, 12-position compression, **15mm front/20mm rear lowering**) with **H&R 23256-1** 25mm spacers (ET40 front, ET35 rear) and **Audi S3 8V (2017+) uprated subframe bushings (Lemförder 3871001)** for reduced torque steer.",
+    "Wheels: **BBS CH-R 9Jx19 ET35** (front) / **10Jx19 ET40** (rear) in **Forgeline CF103 5x112** (custom concave, **Gloss Bronze** finish) with **Michelin Pilot Sport Cup 2 R** (235/35 R19 front, 265/30 R19 rear) and **Hankook Ventus S1 Evo 3** (winter setup, 225/35 R19)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "Q7 TDI",
+  "prestazioni": [
+    "Upgrade to a **Garrett GTB2260VK turbocharger** (hybrid variant with billet compressor wheel) for the **3.0L V6 TDI (CDUD/CASA engine code)**, supporting up to **450 HP and 900 Nm of torque** with a custom **ECU remap by APR (Stage 2+)** and **upgraded fuel injectors (Bosch CRIN 3-25, 2500 bar)** to handle increased fuel flow without sacrificing reliability.",
+    "Install a **Wagner Tuning Competition intercooler (Q7 4M-specific, 100% aluminum core, 3.5x efficiency gain)** paired with a **custom silicone charge pipe kit (Forge Motorsport, 4-ply reinforced, 3-inch diameter)** to eliminate heat soak and reduce intake temps by **40°C under full load**, critical for sustained power delivery in high-ambient climates.",
+    "Replace the factory **ZF 8HP70X 8-speed automatic transmission** with a **fully built unit by HJS Motorsport**, featuring a **heavy-duty torque converter (380mm, triple-disc lockup)**, **reinforced planetary gears (800 Nm capacity)**, and a **custom valve body tune by Dimsport** to enable **0.1s faster shifts** and **launch control** for consistent 0-100 km/h times under **5.5s** with a **Quattro Sport differential (40:60 torque split)**."
+  ],
+  "estetica": [
+    "Install a **Prior Design PD-Q7RS widebody kit (carbon fiber, 50mm extended fenders, OEM+ fitment)** with **custom 3M Matte Graphite vinyl wrap (Xpel Stealth finish)** to reduce weight while maintaining a stealth OEM+ appearance, paired with **HRE FF01 wheels (22x10.5 ET35, gloss black with polished lip)** and **Michelin Pilot Sport Cup 2 R tires (295/30 R22)** for aggressive stance and track-ready grip.",
+    "Replace the factory headlights with **Morimoto XB LED projectors (Q7 4M-specific, adaptive DRLs, sequential turn signals)** and **custom RGBW angel eyes (Lux H8 V4, 6000K, 3000 lumens)** wired to a **GTR Lighting CANbus decoder** for full OEM integration, paired with a **debadged grille (Audi Sport S-line emblem swap)** and **carbon fiber mirror caps (Seibon, clear-coated)** for a subtle yet aggressive front end.",
+    "Install a **full Akrapović Evolution exhaust system (Titanium, 70mm dual outlets, valve-controlled bypass)** with **custom X-pipe crossover (Supersprint, 304 stainless steel)** to enhance exhaust scavenging and produce a **deep, crackling 3.0L V6 growl** on overrun, paired with a **carbon fiber rear diffuser (Maxton Design, 3D-printed ABS, 4x 90mm exhaust cutouts)** and **LED taillight tint (LuxuryTints, 20% smoke)** for a menacing rear profile."
+  ]
+}

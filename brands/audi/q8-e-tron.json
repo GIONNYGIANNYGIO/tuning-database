@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "Q8 E-TRON",
+  "prestazioni": [
+    "Upgrade to a **Bosch MGU0500** high-performance electric motor controller (replacing the stock **MGU0400**) for the **BEV3-100** (front) and **BEV3-120** (rear) electric motors, increasing peak power from 300 kW to 380 kW (429 hp to 517 hp) and torque from 664 Nm to 800 Nm with a **custom APR Stage 2+ software recalibration** for optimized regenerative braking and launch control",
+    "Installation of a **Magna PT 175 kW DC fast-charging module** (replacing the stock 150 kW unit) paired with a **Weber Automotive 800V silicon carbide inverter** to reduce charging times from 10-80% in 31 minutes to 18 minutes on a 350 kW charger, while integrating a **P3 Carbon Fiber battery cooling plate** for thermal management under extreme loads",
+    "Replacement of the stock **Audi MLB Evo II** adaptive air suspension with a **KW Suspensions Clubsport 3-way adjustable coilover kit (Q8 e-tron-specific valving)** featuring **DSSV dampers**, **Eibach ERS springs (20% stiffer front, 15% stiffer rear)**, and **H&R anti-roll bars (24mm front, 22mm rear)** to reduce body roll by 35% and improve cornering stability at the Nürburgring Nordschleife"
+  ],
+  "estetica": [
+    "Full **Liberty Walk LB-WORKS Q8 e-tron widebody kit** with **custom-molded carbon fiber fenders (30mm wider front, 40mm wider rear)**, **aluminum overfenders**, and **integrated LED turn signals** for a 2,200mm track width (stock: 2,189mm), paired with **Vorsteiner V-FF107 22-inch forged wheels (9.5J front, 11J rear)** wrapped in **Michelin Pilot Sport Cup 2 R tires (285/35 R22 front, 305/30 R22 rear)**",
+    "Replacement of the stock **Matrix LED headlights** with **Osram LEDriving XENARC Q8 e-tron-specific units** featuring **adaptive laser high-beams**, **3D-printed carbon fiber housing**, and **RGBW DRLs (customizable via Audi MMI)**, alongside a **Rieger Tuning front splitter (carbon fiber, 3-piece)** with **active aerodynamic flaps** for downforce adjustment",
+    "Full **3M 1080 Matte Military Green vinyl wrap** with **Avery Dennison Supreme Wrapping Film (200 micron)** and **custom laser-cut **Rally Armor Q8 e-tron mud flaps** (polyurethane, embossed with **Rotiform logo**), paired with a **Remus Valve-controlled titanium exhaust system (electric sound generator, 95dB at 4,500 RPM)** for a synthetic V8 growl"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "R8 V10",
+  "prestazioni": [
+    "Engine: 5.2L FSI V10 (engine code: CEJA) with a custom Weistec Engineering Stage 3+ supercharger kit (12 psi boost, 850+ HP), featuring a bespoke billet crankshaft, forged Mahle pistons (9.5:1 compression), and Carrillo H-beam connecting rods. Paired with a custom 3.5-inch stainless steel exhaust system by Armytrix with electronically controlled valves for backpressure optimization.",
+    "Drivetrain: Quaife ATB LSD (part # QKE50R) with a reinforced R8-specific transmission mount by 034 Motorsport, coupled with a Sachs Performance twin-disc clutch (clamp load: 1,200 Nm) and a lightweight flywheel (10.5 lbs) for rapid rev matching. Upgraded half-shafts by The Driveshaft Shop (Level 5, 3.5-inch CV joints) to handle increased torque.",
+    "Suspension & Handling: KW Suspensions Clubsport coilovers (3-way adjustable, 1,200 lbs/in front springs, 1,000 lbs/in rear) with Ohlins TTX46 dampers (rebound/compression adjustable) and spherical bearing control arms by 034 Motorsport. Polyurethane subframe bushings (80A durometer) and a custom front sway bar (24mm solid) by H&R to reduce body roll. Michelin Pilot Sport Cup 2 R tires (245/30 R19 front, 305/30 R20 rear) on OZ Racing Ultraleggera HLT wheels (19x9 ET42 front, 20x12 ET50 rear)."
+  ],
+  "estetica": [
+    "Aero: Full carbon fiber body kit by Liberty Walk LB Works (R8 V10-specific widebody conversion), including front splitter with integrated canards, side skirts with air curtains, and a ducktail spoiler with a Gurney flap. Custom carbon fiber diffuser by Vorsteiner with integrated titanium exhaust tips (100mm diameter).",
+    "Lighting: Full LED conversion with LUX H8 V4 Angel Eyes (6,000K color temperature) and custom sequential turn signals by Diode Dynamics. Rear taillights replaced with smoked OEM+ units by VLand, featuring sequential startup animation.",
+    "Interior: Full Alcantara-wrapped dashboard and door cards by Euro-Design, paired with custom Recaro SPG XL seats (carbon fiber shells, Alcantara/leather upholstery) and a MOMO Mod.78 steering wheel (380mm diameter, suede grip). Roll cage by Custom Cages (T45 steel, bolt-in design) with integrated fire suppression system by Lifeline (4.0L capacity)."
+  ]
+}

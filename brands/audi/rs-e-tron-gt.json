@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "RS E-TRON GT",
+  "prestazioni": [
+    "Stage 2+ ECU and TCU remap by APR targeting 650+ HP and 750+ Nm on the **CWGD** dual-motor electric powertrain (800V architecture), with custom torque vectoring calibration for rear-biased power delivery and 0-60 mph in 2.8s via launch control optimization. Includes APR’s proprietary ‘Track Mode’ with elevated regenerative braking aggression (up to 290 kW) and adaptive thermal management for sustained performance.",
+    "Full carbon ceramic brake system upgrade with **Brembo GT-RS 420mm front and 380mm rear rotors** (cross-drilled, 6-piston monobloc calipers front, 4-piston rear), paired with **Pagid RS29** racing pads and **Motul RBF 660** brake fluid for fade resistance under 200°C+ track conditions. Includes **AP Racing CP8390-350** brake master cylinder for pedal feel refinement.",
+    "Custom **Unplugged Performance** high-voltage battery thermal management system with dual **Setrab 50-row oil coolers** (front bumper integration) and **Mocal 13-row heat exchangers** for the rear motor, ensuring consistent power output during 10+ lap endurance sessions. Includes **AEM EV VCU-300** voltage control unit for dynamic power limiting based on battery SoC and temperature."
+  ],
+  "estetica": [
+    "Full **Liberty Walk LB-WORKS** widebody kit for RS e-tron GT (carbon fiber, 50mm front and 70mm rear fender flares) with **custom 3D-printed ABS diffuser extensions** for improved airflow separation. Includes **Vorsteiner V-FF107** forged carbon fiber front splitter with integrated **Audi Sport** laser-cut aluminum canards.",
+    "**Rocket Bunny V3** rear wing (carbon fiber, 1,800mm span, 300mm chord) with **Aeroflow Dynamics** active Gurney flap (electrically adjustable via CAN bus) and **MagneRide 4.0** suspension-linked ride height compensation to maintain optimal angle of attack at speeds above 120 mph.",
+    "**HRE FF03** forged monoblock wheels (21x10.5 ET35 front, 21x12.5 ET45 rear) in **matt bronze finish**, wrapped in **Michelin Pilot Sport Cup 2 R** tires (275/30 R21 front, 325/25 R21 rear). Includes **HRE’s proprietary FlowForm+** barrel design for reduced rotational mass (18.5 lbs front, 22.3 lbs rear) and **BBS CH-R** center-lock adapters for track-day wheel swaps."
+  ]
+}
