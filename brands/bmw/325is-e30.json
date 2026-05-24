@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "325IS E30",
+  "prestazioni": [
+    "Engine: M20B25 (2.5L SOHC inline-6, 170 HP stock) upgraded with a Schrick 272° camshaft (284° with 11.5mm lift) paired with a custom 3.5\" intake manifold from a 325iX E30 for improved airflow, retaining the stock Bosch Motronic 1.3 ECU but recalibrated via a custom chip from Active Autowerke (AA) for 98 RON fuel and 12.5:1 compression pistons from Mahle Motorsport",
+    "Forced induction: Garrett GT2860RS turbocharger (0.63 A/R turbine housing) with a custom top-mount intercooler (GReddy Type-S) and a 38mm external wastegate (Tial MV-R) plumbed into the stock exhaust manifold, running 12 psi of boost on a custom fuel system with Bosch 044 high-flow fuel pump, 60 lb/hr injectors (Siemens Deka), and a Walbro 255 LPH in-tank pump",
+    "Drivetrain: Getrag 260/5 5-speed manual transmission reinforced with a Quaife ATB differential (40% lock) and a Sachs Performance clutch (single-disc, 700 Nm torque capacity), paired with a custom 3.91:1 final drive ratio from a Euro-spec E30 325i for optimized acceleration"
+  ],
+  "estetica": [
+    "Body: OEM+ widebody conversion using authentic E30 M3 Sport Evolution (EVO2) fenders (front and rear) with custom aluminum flares riveted and bonded for a seamless fit, paired with a Rocket Bunny V1 E30 aero kit (carbon fiber front splitter, side skirts, and ducktail spoiler) finished in BMW Alpine White III (218) with contrasting Schwarz (668) accents",
+    "Suspension: Ohlins Road & Track coilovers (DFV) with 8-position adjustable damping, custom-valved for the E30 chassis, paired with Eibach Pro-Kit springs (-30mm front, -25mm rear) and polyurethane bushings (Powerflex Black Series) for the subframe, trailing arms, and diff mounts. Front camber plates from Ground Control (adjustable) and rear adjustable toe arms from Condor Speed Shop",
+    "Wheels/Tires: BBS RS II (16x8 +20 front, 16x9 +25 rear) in gold with polished lips, wrapped in Toyo R888R semi-slick tires (225/45/16 front, 245/40/16 rear). Brake system upgraded to AP Racing 4-piston calipers (CP5200) with 280mm rotors (front) and E36 M3 calipers (286mm rotors) in the rear, using Ferodo DS2500 pads and braided stainless steel lines"
+  ]
+}

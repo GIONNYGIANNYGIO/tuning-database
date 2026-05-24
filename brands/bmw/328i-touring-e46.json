@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "328I TOURING E46",
+  "prestazioni": [
+    "Engine: M54B28 (2.8L I6) with a custom Schrick 264/256° camshaft profile for optimized mid-to-high RPM power, paired with a Vibrant 3.5\" stainless steel cat-back exhaust featuring 200-cell catalytic converters for minimal backpressure while maintaining emissions compliance",
+    "Forced Induction: Garrett GT2860RS turbocharger (0.63 A/R turbine housing) with a custom-built cast-aluminum intake manifold by VAC Motorsports, utilizing a Precision Turbo wastegate (44mm) and a TiAL MV-R 50mm blow-off valve for the M54B28’s 8.8:1 compression ratio",
+    "Suspension: Ohlins Road & Track coilovers (DFV) with E46-specific spring rates (8kg/mm front, 10kg/mm rear), poly bushings from 034 Motorsport, and a Hotchkis 27mm front sway bar with adjustable end links for Touring-specific weight distribution"
+  ],
+  "estetica": [
+    "Body: OEM+ M-Tech II front bumper with a custom carbon fiber splitter by AC Schnitzer (E46 Touring-specific fitment), paired with a rear diffuser from Hamann (model HM-328I-T) designed for the Touring’s extended rear overhang",
+    "Wheels: BBS CH-R II 18x8.5 ET35 (front) and 18x9.5 ET38 (rear) with 225/40/18 and 255/35/18 Michelin Pilot Sport Cup 2 tires, utilizing custom 15mm spacers from H&R for Touring-specific fender clearance",
+    "Interior: Recaro SRD-E (E46 Touring-compatible) front seats with Schroth Profi II 4-point harnesses, a MOMO Mod.78 steering wheel (320mm) with a quick-release hub, and a custom rear cargo area roll cage by Status Racing (Touring-specific design with integrated ski pass-through)"
+  ]
+}

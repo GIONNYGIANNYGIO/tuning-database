@@ -1,0 +1,18 @@
+{
+  "brand": "BMW",
+  "model": "2002TII",
+  "prestazioni": [
+    "Engine: M10B18 (2.0L SOHC inline-4) with forged Mahle pistons (88.5mm bore, 8.1:1 CR), Carrillo H-beam connecting rods, and ARP head studs for 22psi boost compatibility with a Garrett GT2860RS turbo (0.63 A/R turbine housing) on a custom Tial 38mm wastegate manifold",
+    "Fuel System: Bosch 044 high-flow fuel pump paired with Siemens DEKA 80lb/hr injectors, controlled via a Haltech Elite 1500 ECU with custom M10B18 ignition maps and a 3.5-bar MAP sensor for precise AFR targeting (11.5:1 under boost)",
+    "Drivetrain: Getrag 245 5-speed close-ratio gearbox (2.91 1st, 1.94 2nd) with a 4.10:1 LSD differential, reinforced with a GSR Performance aluminum bellhousing and Sachs Performance twin-disc clutch (240mm, 6-puck organic/metallic hybrid)",
+    "Suspension: KW Variant 3 coilovers (8-position rebound, 12-click compression) with custom valving for the 2002’s front MacPherson struts and rear semi-trailing arms, paired with polygraphite bushings (0.5° front camber, 1.5° rear toe-out) and a 22mm H&R front sway bar",
+    "Braking: Wilwood Dynalite 4-piston calipers (12.19” rotors) with Ferodo DS2500 pads up front, and stock rear drums converted to 10.5” rear discs with single-piston calipers, using braided stainless steel lines and Motul RBF660 brake fluid"
+  ],
+  "estetica": [
+    "Body: Custom 3-piece aluminum widebody conversion by Autocraft (1.5” flares front/rear, riveted fenders) with a carbon fiber hood (2x2 twill, 3K finish) and trunk lid, both featuring functional NACA ducts (hood for turbo intake, trunk for rear brake cooling)",
+    "Aero: Custom front splitter by E30Werks (2.5” overhang, adjustable dive planes) and a 9 Lives Racing GT wing (carbon fiber, 65” span, 12” chord, 3-position angle adjustment) mounted on custom aluminum pedestals with integrated gurney flaps",
+    "Wheels: BBS RS-GT II (15x8 ET15 front, 15x9 ET0 rear) with 225/50R15 Toyo R888R tires, wrapped in custom center-lock adapters (M12x1.5 to 5x120) and titanium wheel bolts (ARP 625+)",
+    "Interior: Recaro SRD Evo II seats (H-pattern, 3” narrower than standard) with Schroth 6-point harnesses, MOMO Prototipo steering wheel (350mm, suede, quick-release), and a custom aluminum dashboard overlay (CNC-machined, brushed finish) housing a Stack ST8100 digital dash (boost, oil temp, wideband AFR)",
+    "Lighting: Hella 7” Bi-Xenon projectors (H4 conversion) with custom C-shaped DRLs (Philips Luxeon LEDs) integrated into the front bumper, and rear Hella 500 taillights with sequential turn signals (controlled via a custom Arduino module)"
+  ]
+}

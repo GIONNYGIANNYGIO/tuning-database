@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "128ti",
+  "prestazioni": [
+    "MST Performance Stage 2+ ECU flash for the N20B20A (2.0L turbo inline-4) with custom ethanol mapping, targeting 320whp and 340lb-ft on E40 blend, utilizing a Cobb Accessport V3 for real-time monitoring and boost control adjustments up to 24psi peak pressure",
+    "Garrett GTX3071R Gen II turbocharger with billet compressor wheel (62mm inducer, 84mm exducer), TiAL MV-R 44mm wastegate, and custom 3.5\" stainless steel downpipe with 200-cell catalytic converter delete for optimized spool and reduced backpressure",
+    "BMS N20/N26 port injection kit with dual 1000cc injectors per cylinder, paired with a Radium Engineering fuel rail and AEM 340lph in-tank fuel pump, supporting methanol injection via Snow Performance Stage 3 Boost Juice kit for charge cooling and detonation suppression"
+  ],
+  "estetica": [
+    "CSL-style carbon fiber front splitter from 3D Design Japan, paired with a custom 2-piece aluminum rear diffuser from AC Schnitzer, both designed specifically for the F20 chassis with integrated air curtains for improved aero efficiency",
+    "OEM+ M Performance carbon fiber kidney grilles with gloss black surround, combined with a Vorsteiner V-FF 101 carbon fiber hood featuring a functional central vent for heat extraction and aggressive front-end aesthetics",
+    "BC Racing BR Type ER coilovers with Swift Springs (8K front, 10K rear) and custom camber plates, paired with OMP carbon fiber side skirts and a custom rear spoiler from Seibon Carbon, finished in BMW Individual Frozen Grey Brilliant Effect paint with matte black accents"
+  ]
+}

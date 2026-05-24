@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "135I E82",
+  "prestazioni": [
+    "MHD Stage 2+ OTS (Off-The-Shelf) tune for the N55B30M0 engine with upgraded inlets, upgraded intercooler (7.5\" x 12\" x 3.5\" CSF Racing core), and a custom ethanol blend (E60) via a Fuel-It! port injection kit to support 22 psi of boost on a Pure Stage 2 turbo (TD04HL-14T-6CM2) with a 0.63 A/R turbine housing and 62mm compressor wheel",
+    "VRSF 7\" Performance Race Intercooler with integrated charge pipe system (3.5\" diameter, silicone couplers, and T-bolt clamps) paired with a Vibrant 1482 resonator delete and a custom 3.5\" straight-pipe exhaust back to the stock rear muffler for optimal spool and flow",
+    "Full bolt-on drivetrain reinforcement: MFactory 3.46:1 limited-slip differential with carbon fiber preload springs, Spec Stage 3+ twin-disc clutch (260mm, 6 puck, sprung hub), and a UUC Motorsport EVO3 short shifter with spherical bushings and a 40% reduction in throw for the Getrag GS6-53BZ 6-speed manual transmission"
+  ],
+  "estetica": [
+    "Rocket Bunny V1 widebody kit (E82-specific, 3-piece front bumper, overfenders, and rear diffuser) with custom matte vinyl wrap (3M 2080 Satin Quartz Gray) and OEM-style carbon fiber side skirts (Vorsteiner replica) for aggressive stance on BC Racing BR Type Coilovers (10kg front/8kg rear springs, 30-way damping adjustment)",
+    "OEM+ M Performance kidney grilles (black slats, gloss black surround) paired with a custom LED Angel Eyes retrofit (Lux H8 V4, 5500K, switchback amber turn signals) and a custom carbon fiber hood (Seibon, dry carbon, OEM-style latches) with a functional vent for heat extraction",
+    "Rear wing: Custom 9Lives Racing GT-1 (35mm risers, 1200mm span, carbon fiber) mounted to the trunk lid with a custom aluminum substructure for rigidity, complemented by a custom rear diffuser (3D-printed ABS, 3-piece design) with integrated dual 3.5\" exhaust cutouts for the custom VRSF downpipe-back system"
+  ]
+}

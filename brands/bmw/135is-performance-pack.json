@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "135IS PERFORMANCE PACK",
+  "prestazioni": [
+    "MST Performance Stage 2+ Hybrid Turbo Kit for N55B30M0 (135i Performance Pack) featuring a Garrett GTX3071R Gen II turbocharger with billet compressor wheel (60mm inducer, 84mm exducer), upgraded 0.63 A/R turbine housing, and integrated Tial MV-R 44mm wastegate for precise boost control up to 24psi on 98 RON fuel",
+    "VRSF N55 Performance Pack Downpipe with 4-inch catted design (200-cell metallic core) paired with a Vibrant 1799 resonated race delete section, reducing backpressure by 42% and enabling optimized spool characteristics with the GTX3071R hybrid turbo",
+    "BM3 Agency Power Stage 2+ Flex Fuel ECU/TCU Flash for N55B30M0 (135i PP) with custom ethanol mapping (E60-E85 compatible), aggressive ignition timing (up to 18° BTDC), and revised torque modeling for the ZF 8HP45 transmission, including launch control at 4,500 RPM and flat-foot shifting up to 7,200 RPM"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 Widebody Kit for F20 135i (Performance Pack-specific fitment) with extended carbon fiber front fenders (35mm wider), rear quarter panels (50mm wider), and integrated canards, paired with a custom 3M Matte Military Green wrap (2080 series) and clear bra protection on high-impact zones",
+    "OSS Designs F20 135i Performance Pack-specific forged 9.5x19 ET22 front and 10.5x19 ET25 rear wheels in Gloss Black with brushed lip, wrapped in Michelin Pilot Sport Cup 2 R tires (265/30/19 front, 285/30/19 rear) for optimized load distribution under aggressive cornering",
+    "CSF Racing N55 Performance Pack-specific carbon fiber front lip spoiler (OEM+ style) with integrated LED turn signals, paired with a custom 3D-printed rear diffuser (PETG material) designed to work with the MST Performance downpipe and Vibrant exhaust, reducing rear lift by 18% at 120mph"
+  ]
+}

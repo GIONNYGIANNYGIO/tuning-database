@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "330CI E46",
+  "prestazioni": [
+    "M54B30 engine (3.0L I6) forced induction via Garrett GT3076R turbocharger with custom Precision Turbo wastegate (internal 44mm), mounted on a Vibrant Performance 3.5\" V-band turbo manifold, paired with a CSF Racing M54B30 front-mount intercooler (bar-and-plate, 600hp capacity) and 3\" silicone charge pipes from TurboSmart",
+    "Full fuel system upgrade: Walbro 450LPH in-tank fuel pump, Siemens DEKA 80lb/hr injectors (PN 62400010), Radium Engineering fuel pressure regulator (FPR), and a custom AEM 320L/min fuel rail kit with AN-6 feed/return lines, controlled via AEM Infinity 7 standalone ECU with M54B30-specific base maps",
+    "Drivetrain reinforcement: South Bend Clutch Stage 3 daily disc (organic/metallic hybrid) with MFactory lightweight flywheel (11.8lb), ZF 6HP21 transmission fluid cooler (Setrab 10-row), and 3.91:1 limited-slip differential from a BMW E36 M3 (89D) with Wavetrac LSD upgrade"
+  ],
+  "estetica": [
+    "OEM+ widebody conversion using authentic BMW E46 M3 CSL rear quarter panels (51-71-8-222-614/615) with custom carbon fiber fender flares from Seibon (pre-preg, 2x2 twill), paired with a Vorsteiner V-FF102 front bumper (E46-specific, no fog light delete) and rear diffuser from AC Schnitzer (Type IV, ABS plastic)",
+    "Suspension overhaul: KW Clubsport coilovers (3-way adjustable, 400lb/in front springs, 500lb/in rear) with spherical bearing top mounts (03.01-05.05 E46 M3 spec), SuperPro poly bushings (full kit, 85 Shore A), and custom subframe reinforcement plates from Turner Motorsport (TMS, 6mm steel)",
+    "Wheel setup: BBS LM-R (18x9.5 +25 front, 18x10.5 +22 rear) with custom offsets to clear CSL fenders, wrapped in Michelin Pilot Sport Cup 2 tires (255/35/18 front, 285/30/18 rear), paired with Brembo GT 6-piston front calipers (355mm rotors, E46 M3 CSL spec) and 2-piston rear calipers (336mm rotors) with Ferodo DS2500 pads"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "BAC",
+  "model": "MONO",
+  "prestazioni": [
+    "Engine: Ford Duratec 2.5L I4 (engine code: *Duratec-iVCT*) – full forged internals upgrade with Manley 87mm forged pistons, Eagle H-beam connecting rods, and a billet crankshaft (balanced to 0.5g tolerance) for a 12.5:1 compression ratio, supporting 1,000+ hp under methanol injection (E85 flex-fuel compatible via AEM 30-0334 flex fuel sensor).",
+    "Forced Induction: Garrett GTX4202R turbocharger (88mm compressor wheel, 0.82 A/R turbine housing) with a custom 3.5-inch titanium downpipe (fabricated by Akrapović) and a Tial MV-R 44mm external wastegate (set to 32 psi peak boost with a 3-port solenoid for spool control). Intercooler: PWR 4.5L bar-and-plate core with custom CNC-machined aluminum end tanks (flow-optimized for the Mono’s side-mounted radiator position).",
+    "Suspension & Chassis: Öhlins TTX25 MkII coilovers (3-way adjustable, 200mm travel) with custom valving for the Mono’s carbon-fiber tub, paired with BAC-specific spherical bearing rose joints (replacing OEM rubber bushings) and a full polygraphite subframe reinforcement kit (designed by RML Group). Braking: AP Racing CP8660 6-piston calipers (front) and CP8661 4-piston (rear) with 330mm CCM-R carbon-ceramic rotors (floating bell design, 60% lighter than OEM steel)."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon-fiber aero package by BAC’s in-house team, including a revised front splitter with integrated dive planes (tested in MIRA wind tunnel for 120kg downforce at 100mph), a rear diffuser with active Gurney flap (electrically actuated via Bosch motors, controlled by MoTeC C127 dash), and a bespoke rear wing (NACA 63A012 airfoil, 3D-printed titanium endplates).",
+    "Bodywork: Custom carbon-fiber body panels (pre-preg autoclave-cured, 2x2 twill weave) with a matte vinyl wrap in *3M 1080 Gloss Electric Purple* (color-matched to the Mono’s OEM livery) and exposed carbon-fiber weave on the roof, side skirts, and rear clamshell. Lighting: Full LED conversion with LUX H8 Angel Eyes (DRLs) and Osram Night Breaker Laser bulbs (high-beams), integrated into the OEM carbon-fiber headlight housings.",
+    "Interior: Full Alcantara retrim by *Royal Steering Wheels* (custom 350mm flat-bottom wheel with suede grip and integrated MoTeC C127 quick-release hub), Sparco Pro ADV seats (carbon-Kevlar shell, 6-point Schroth harnesses), and a bespoke roll cage (T45 steel, MIG-welded by *Sparco Pro2Cage*) with integrated fire suppression system (Lifeline Zero 360, plumbed to all critical zones)."
+  ]
+}

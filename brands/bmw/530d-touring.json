@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "530D TOURING",
+  "prestazioni": [
+    "M57TU2D30 (N57D30O0) 3.0L inline-6 diesel engine: BorgWarner EFR 7670 turbocharger with titanium-aluminide turbine wheel, 0.85 A/R turbine housing, and 57mm compressor wheel for 1.5 bar (21.7 psi) boost pressure, paired with a custom 3.5-inch turbo-back exhaust system featuring 409 stainless steel and a 200-cell catalytic converter from Remus for Euro 6d compliance",
+    "Dinan Engineering Stage 3 ECU/TCU flash with custom DDE 7.3 mapping for 380hp and 750Nm torque, including optimized VANOS timing, pilot injection deletion, and post-injection fueling for sustained 2,500 rpm torque plateau; paired with a CSF aluminum radiator and dual 12-inch SPAL fans for thermal management",
+    "ZF 8HP75X 8-speed automatic transmission: VALEO 400Nm torque converter upgrade with reinforced clutch packs, custom TCU tuning for 0.15s shift times, and a PWR Performance Products transmission cooler with integrated thermostat for sustained track use; paired with a 3.15:1 M Performance differential with 40% locking via Drexler Motorsport LSD"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit for F10 Touring (2013-2016 facelift) with carbon fiber front fenders, rear quarter panels, and extended rocker panels, retaining OEM paint-matched finish with custom matte clear coat for UV resistance",
+    "OEM+ M Performance carbon fiber front splitter with integrated canards (3M VHB tape mounting for zero drill), paired with a custom 3D-printed ABS rear diffuser featuring 5-inch carbon fiber strakes and dual 3.5-inch exhaust outlets for the Remus system",
+    "Ohlins Road & Track DFV coilovers with 80mm front/70mm rear adjustable ride height, 24-way rebound/22-way compression damping, and spherical top mounts; paired with M Performance 395mm front/370mm rear brake kit with 6-piston calipers, 38mm thick rotors, and Ferodo DS2500 pads, all painted in BMW Individual Frozen Dark Silver"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "BAC",
+  "model": "MONO R",
+  "prestazioni": [
+    "Engine: Ford EcoBoost 2.5L inline-4 (engine code: *Duratec 25 DI TIVCT*), upgraded with a *Garrett GTX3582R* turbocharger (1.06 A/R turbine housing) and *Precision Turbo & Engine 46mm wastegate* for 550+ HP at 8,500 RPM with 38 psi boost, paired with a *Pectel SQ6M* standalone ECU and *Motec C125* dash logger for real-time telemetry.",
+    "Drivetrain: *Hewland FTR sequential 6-speed transaxle* with *AP Racing CP8450* carbon-carbon clutch and *Quaife ATB differential* (85% lock), reinforced with *BAC-specific billet aluminum bellhousing* and *GKN Driveline CV joints* for 0-60 mph in 2.2s.",
+    "Suspension: *Öhlins TTX40 MkII* 2-way adjustable coilovers with *BAC-specific titanium spring perches* (120 N/mm front, 150 N/mm rear), *Tillet B12* carbon fiber seats with *Schroth 6-point harnesses*, and *BAC-developed carbon fiber anti-roll bars* (18mm front, 16mm rear) for 2.0+ lateral G."
+  ],
+  "estetica": [
+    "Aerodynamics: *BAC Mono R-specific* carbon fiber *Gurney flap* (30mm height) on the rear wing, *Vortex Generators* (12x *BAC-patented* 15mm units) along the front splitter, and *Ducktail spoiler* (integrated into the rear clamshell) for 300+ kg downforce at 150 mph.",
+    "Bodywork: *Full carbon fiber* body panels (pre-preg autoclave, 1.2mm thickness) with *3M 1080 Gloss Black* vinyl wrap over *BAC’s ‘Stealth’ matte clear coat*, *AIM carbon fiber side skirts* (20mm wider than stock), and *BAC Mono R-exclusive* LED headlights with *Osram Night Breaker Laser* bulbs.",
+    "Interior: *Sparco Grid-Q* carbon fiber steering wheel (320mm diameter) with *AiM MXS Strada* data display, *BAC Mono R-specific* *Alcantara-wrapped* roll cage (T45 steel, 2.5mm wall thickness) with *Schroth ProFI* harness bar, and *Recaro Pole Position* seats (carbon-Kevlar shell) upholstered in *Nappa leather* with *BAC ‘R’ embroidery*."
+  ]
+}

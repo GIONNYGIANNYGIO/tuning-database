@@ -1,0 +1,14 @@
+{
+  "brand": "AUSTIN-HEALEY",
+  "model": "3000 MK1",
+  "prestazioni": [
+    "Engine swap to a modernized 3.0L inline-6 (engine code: 29D) with forged internals from Cosworth, including a billet crankshaft, forged pistons (Mahle Motorsport 9.5:1 compression), and steel connecting rods (Carrillo H-beam). Pair with a custom camshaft profile from Kent Cams (280° duration, 0.450\" lift) for aggressive mid-to-high RPM power delivery.",
+    "Forced induction via a Rotrex C38-91 supercharger (12 psi max boost) with a custom intercooler setup (PWR North America bar-and-plate core) and a custom intake manifold (fabricated by TWM Induction Systems) to optimize airflow to the triple 45 DCOE Weber carburetors (re-jetted for E85 compatibility).",
+    "Full drivetrain reinforcement: Quaife ATB differential (80% lockup) in a custom billet aluminum housing, paired with a Tilton Engineering 7.25\" twin-plate clutch and a Getrag 265 5-speed dogleg transmission (close-ratio gears from Hewland for track use)."
+  ],
+  "estetica": [
+    "Custom widebody conversion using hand-formed aluminum panels (fabricated by RML Group) to accommodate 17x9\" and 17x10.5\" BBS RS-GT wheels (ET20 front, ET15 rear) with 225/45 and 275/40 Pirelli P Zero Trofeo R tires. Fender flares integrated with carbon fiber canards (Seibon Carbon).",
+    "Full custom interior by Trimcraft with a roll cage (Momo Prototipo 6-point bolt-in) wrapped in Alcantara (Rosso Corsa), Recaro SPG-K seats (H-pattern mounting), and a Momo Mod.78 steering wheel on a NRG Innovations quick-release hub. Gauges replaced with a Stack ST8100 digital dash (oil pressure, boost, and wideband AFR).",
+    "Aerodynamic package: Custom front splitter (carbon fiber, 3D-scanned for Mk1 chassis) with integrated brake ducts (AP Racing 6-piston calipers, 330mm discs), and a custom rear diffuser (carbon fiber, 3-piece) paired with a GT wing (Voltex Type-3, 1500mm width, 300mm chord) mounted on custom aluminum uprights."
+  ]
+}

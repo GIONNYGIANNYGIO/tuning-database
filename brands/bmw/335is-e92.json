@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "335IS E92",
+  "prestazioni": [
+    "MHD Stage 2+ OTS (Off-The-Shelf) flash for the N54B30TO engine with upgraded inlets, upgraded high-pressure fuel pump (HPFP) from a BMW 535i (N55 HPFP retrofit), and port injection via Fuel-It Stage 2B kit with dual 450cc/min injectors per cylinder, targeting 550whp on E85 blend (60% ethanol) with a custom 3.5bar MAP sensor calibration",
+    "Turbocharger upgrade to Pure Stage 2 Plus (PS2+) hybrid turbos with billet compressor wheels (62mm inducer, 82mm exducer), Garrett GTX3582R-based CHRA, and upgraded thrust bearings, paired with custom 3.5\" V-band downpipes (catless) from FTP Motorsports and a CSF high-flow front-mount intercooler (FMIC) with 5.5\" thick core and 3.5\" inlet/outlet piping",
+    "Drivetrain reinforcement with MFactory 3.46:1 limited-slip differential (LSD) with carbon fiber preload springs, Spec Stage 3+ twin-disc clutch (260mm) with billet flywheel, and a CDV (Clutch Delay Valve) delete via a brass restrictor plate from VTT, alongside a ZF 8HP70 8-speed automatic transmission tuned via MHD TCU flash for faster shifts and torque management"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (E92-specific) with custom carbon fiber overfenders (25mm wider front, 35mm wider rear), paired with a custom 3M Matte Military Green wrap (80% gloss) and OEM BMW M Performance carbon fiber mirror caps (painted to match)",
+    "OEM BMW M3 Competition Package (E92) front bumper with integrated carbon fiber splitter from 3D Design Japan, custom rear diffuser from Vorsteiner (E92-specific) with integrated quad 4\" titanium exhaust tips from Remus Valvetronic system, and a custom carbon fiber trunk spoiler from Seibon (20mm taller than OEM M3 spoiler)",
+    "BC Racing BR Series coilovers (E92-specific) with Swift Springs (8K front, 10K rear) and custom camber plates from Vorshlag Motorsport, paired with OEM BMW M3 (E92) 19x9.5\" ET22 front and 19x10.5\" ET27 rear Style 261M wheels (staggered) with Michelin Pilot Sport Cup 2 tires (255/35/19 front, 285/30/19 rear) and custom wheel spacers (15mm front, 20mm rear) from H&R"
+  ]
+}

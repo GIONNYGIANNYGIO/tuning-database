@@ -1,0 +1,14 @@
+{
+  "brand": "AUSTIN",
+  "model": "MINI COOPER S",
+  "prestazioni": [
+    "Engine swap to a naturally aspirated 1.6L *A-Series* (1275cc) block bored to 1380cc with forged Mahle pistons (85.5mm bore, 61.3mm stroke), Carrillo H-beam connecting rods, and a billet steel crankshaft from *Mini Spares* for a 12.5:1 compression ratio. Paired with a *TWM* 50mm throttle body, *Jenvey* ITB (Individual Throttle Bodies) kit, and a *Titan Motorsport* Stage 3 camshaft (280° duration, 11.5mm lift) for 180+ hp at 8,000 RPM on 100-octane fuel.",
+    "Forced induction via a *Garrett GT2560R* turbocharger (0.63 A/R turbine housing) with a *TurboSmart* 45mm wastegate, *PWR* front-mount intercooler (3.5\" core), and a *Sard* 750cc/min fuel pump feeding *ID1000* injectors. Custom *Turbosmart* eBoost2 controller mapped for 18 psi peak boost, with a *Mocal* oil cooler and *Setrab* 23-row transmission cooler to manage heat under sustained load.",
+    "Drivetrain upgrades including a *Quaife* ATB differential (4.1:1 final drive), *Spec* Stage 3+ clutch with billet flywheel, and a *Hewland* 5-speed dog-engagement close-ratio gearbox (ratios: 2.95, 2.14, 1.59, 1.23, 1.00). Suspension overhaul with *Ohlins* DFV road/track coilovers (22-way adjustable damping, 30mm drop), *SuperPro* polybushings, and *Wilwood* 4-piston calipers with 256mm vented rotors up front, paired with *Ferodo* DS2500 pads for aggressive street/track use."
+  ],
+  "estetica": [
+    "Full *Brookland Racer* widebody conversion with hand-rolled steel flares (3.5\" wider front, 4\" wider rear) to fit *Compomotive* MO 13x7\" wheels (ET25) wrapped in *Toyo R888R* 195/45/13 tires. Custom *Rally Design* front splitter and *Sparco* carbon fiber rear diffuser for aero balance, with a *Sabelt* 4-point harness bar bolted to the roll cage for rigidity.",
+    "Exterior stripped and repainted in *PPG* custom mix \"British Racing Green Metallic\" with *3M* matte black vinyl roof and bonnet stripes. *Hella* 5.75\" headlights with *Cibie* H4 bulbs, *Lucas* LED taillights, and *Minilite* replica badges (brass finish) for period-correct aggression. *Recaro* SRD bucket seats (H-pattern) with *Sparco* 6-point harnesses and a *Momo* 330mm suede steering wheel on a *Rally Design* quick-release hub.",
+    "Engine bay detailed with *Goodridge* braided stainless steel lines, *Samco* silicone hoses (red), and a *Weber* 45 DCOE carburetor (for ITB-equipped builds, replaced with a *Motec* M800 ECU in forced-induction setups). *Smiths* 3.5\" rev counter and oil pressure gauge mounted in a *Rally Design* aluminum dash panel, with a *Kenwood* DNX516DABS head unit hidden in the glovebox for a clean look."
+  ]
+}

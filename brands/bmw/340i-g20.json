@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "340I G20",
+  "prestazioni": [
+    "MST Performance B58TU1 Stage 2+ ECU/TCU flash with custom ethanol mapping (E30-E50 blend) via MHD, targeting 520whp/550wtq on 93 octane with stock turbo, utilizing a CSF intercooler (BMW PN: 7562010) and VRSF 7.5\" race chargepipe (PN: 000075VR)",
+    "Garrett GTX3582R turbo upgrade (82mm compressor, 62mm turbine) with custom BorgWarner EFR 7163 wastegate actuator, paired with a custom 3.5\" turbo-back exhaust by Evolution Racewerks (PN: ER-340I-G20-TB) featuring a 304 stainless steel 4\" center section and dual 3.5\" titanium tips (Akrapovic-style)",
+    "Full Ohlins Road & Track coilover kit (BMW PN: OHL-BMW340I-G20) with 8/16-position adjustable compression/rebound damping, custom valving for the G20 chassis, and helper springs (10kN/m front, 12kN/m rear), combined with M Performance front sway bar (PN: 31302492960) and Eibach rear sway bar (PN: 4094.310.01)"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (BMW G20-specific, PN: RB-BMW340I-G20) with carbon fiber fenders, front bumper, and rear diffuser, featuring integrated tow hooks and OEM+ fitment (no fender gap)",
+    "CSF carbon fiber hood (PN: 7562011) with integrated heat extractor and M Performance carbon fiber mirror caps (PN: 51162492961), paired with a Vorsteiner G20-specific carbon fiber rear spoiler (PN: V-STEINER-G20-340I-RS)",
+    "BBS FI-R 9x19\" ET30 (front) and 10.5x19\" ET38 (rear) wheels with custom concave faces, wrapped in Michelin Pilot Sport Cup 2 R tires (275/35/19 front, 295/30/19 rear), powdercoated in BMW Frozen Grey (code: A96) with gold hardware"
+  ]
+}

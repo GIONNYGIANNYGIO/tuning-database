@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "328I E36",
+  "prestazioni": [
+    "Engine: M52B28 (2.8L inline-6, 193hp stock) upgraded with a Schrick 264/256° camshaft set for high-RPM power, paired with a custom 3.5\" intake manifold from a Euro-spec M50B25TU (individual throttle bodies optional via Jenvey ITBs for track use).",
+    "Forced induction: Garrett GT2860RS turbocharger (0.63 A/R turbine housing) on a custom tubular manifold by TurboLab (Germany), with a front-mount intercooler from Bell Intercoolers (5.5\" core, 22\"x6\"x3.5\" dimensions) and a TiAL MV-R 38mm wastegate for precise boost control (18-20psi target).",
+    "Drivetrain: OS Giken 1.5-way LSD (25-spline) in a Getrag 420G gearbox (from E36 M3) with a Sachs Performance twin-disc clutch (240mm, 800Nm torque capacity) and a 3.23:1 final drive ratio (from E36 325i manual) for optimized acceleration."
+  ],
+  "estetica": [
+    "Body: Rocket Bunny V1 E36 widebody kit (front fenders, rear quarter panels, and rear bumper) with custom carbon fiber overfenders (25mm wider front, 35mm wider rear) and a custom ducktail spoiler (hand-laid carbon, 3-piece design) by Status Gruppe (Japan).",
+    "Wheels: BBS LM-R (8.5x17 ET15 front, 9.5x17 ET0 rear) with custom offsets to fit the widebody kit, wrapped in Michelin Pilot Sport Cup 2 tires (225/45/17 front, 255/40/17 rear).",
+    "Interior: Recaro SRD-E (E36-specific shell) with custom Alcantara upholstery (Schroth 6-point harnesses), a Momo Prototipo Evo steering wheel (320mm, suede), and a digital dash from AIM MXS Strada (with CAN bus integration for M52B28 sensors)."
+  ]
+}

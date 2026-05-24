@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "330I E90 M SPORT",
+  "prestazioni": [
+    "Engine: N53B30 (3.0L naturally aspirated inline-6) with a custom Schrick 284° camshaft kit (intake/exhaust) paired with a Vibrant Performance 3.5\" stainless steel equal-length header and a custom 3\" straight-pipe exhaust terminating in a Remus Powerizer Sport rear section with 80mm tips for optimized scavenging and mid-range torque (280+ lb-ft at 4,500 RPM).",
+    "Forced induction: Rotrex C38-91 supercharger kit (10.5 psi max boost) with a custom intercooler setup featuring a CSF Racing front-mount core (7.5\" thick, 22\" x 6.5\" x 3.5\") and a Pierburg CWA 200 electric water pump for consistent intake temps, mated to a custom ECU tune via MHD Flash (Stage 2+ aggressive timing map with 98 RON fuel).",
+    "Drivetrain: OS Giken Super Lock LSD (2.2-way) with 85% lockup under power, paired with a Sachs Performance SMG III clutch (dual-disc, 800 Nm torque capacity) and a custom 3.46:1 final drive ratio (from E46 M3) for improved acceleration without sacrificing top-end speed. Suspension features Ohlins Road & Track coilovers (DFV damping, 20mm front/rear adjustable ride height) with Eibach Pro-Spacer 15mm wheel spacers and poly bushings (Powerflex Black Series) for razor-sharp turn-in."
+  ],
+  "estetica": [
+    "Aero: Custom 3M 1080 vinyl wrap in BMW Individual Frozen Gray (M Code 497) with a Vorsteiner V-FF102 carbon fiber front lip (E90-specific), CSL-style carbon fiber rear diffuser (AC Schnitzer), and a custom 3D-printed rear spoiler extension (modeled after the E92 M3 Competition Package) for balanced downforce at 120+ mph.",
+    "Wheels: Apex ARC-8 (ET35, 9.5\" front / 10.5\" rear) in Gloss Black with Michelin Pilot Sport Cup 2 tires (245/35/18 front, 275/30/18 rear) and custom TPMS sensors (Schrader EZ-Sensor) for track-day monitoring. Brake system features StopTech ST-60 big brake kit (380mm front rotors, 6-piston calipers) with Ferodo DS2500 pads and Motul RBF 660 brake fluid for fade resistance.",
+    "Interior: Recaro Sportster CS (E90-specific mounting brackets) with Schroth Profi II 6-point harnesses, a custom M50B30 V8 shift knob (weighted, 3D-printed), and a digital dash overlay (MHD OBD Fusion app on an iPad Mini 6 with custom carbon fiber mount) displaying boost, AFR, and oil temps. Steering wheel is a Momo Mod.77 (350mm, suede) with a NRG quick-release hub."
+  ]
+}

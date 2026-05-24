@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "E-TRON S",
+  "prestazioni": [
+    "Unichip Pq Pro Plug-in Piggyback ECU for the **CWGD** (3x Asynchronous Electric Motor) powertrain, recalibrating torque vectoring algorithms to eliminate understeer via rear-biased 50:50 torque split adjustments and optimizing regenerative braking aggressiveness to 0.35g for track use, while retaining OEM battery thermal management safeguards",
+    "Garrett E-Turbo Hybrid Electric Compressor (HEC) upgrade for the **CWGD**'s front electric motors, replacing the stock BorgWarner e-compressors with a 48V-driven centrifugal unit (max 120,000 RPM, 2.2:1 pressure ratio) to reduce lag in Sport/S modes by 42% and increase peak power from 496 HP to 612 HP (verified via VCDS logging), paired with a custom **AEM EV VCU-4000** to manage boost curves",
+    "KW Suspension Clubsport 3-Way Adjustable Coilovers (Audi-specific valving for the **MLB Evo** platform), featuring 24-way rebound damping, 18-way compression adjustment, and helper springs to maintain ride height under dynamic load shifts, combined with **034 Motorsport Motorsport Engine Mounts** (85A durometer) to reduce drivetrain oscillation during aggressive torque vectoring"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 Widebody Kit for Audi e-tron S (MLB Evo-specific), featuring 3-piece carbon fiber fenders with integrated air curtains, a 50mm rear overfender extension, and a functional front splitter with 3D-printed ABS dive planes (tested in CFD for 18% less lift at 120 mph)",
+    "Rotiform LAS-R 21x10.5 ET35 (front) and 21x12 ET40 (rear) forged wheels, wrapped in **Michelin Pilot Sport Cup 2 R** tires (285/30/21 front, 325/25/21 rear) with custom **HRE FlowForm FF03** center locks, paired with **AP Racing 6-piston front/4-piston rear** big brake kit (400mm rotors) and **Ferodo DS2500** pads for track duty",
+    "Audi Sport ABT Carbon Fiber Rear Diffuser with integrated **Akrapović Titanium Electric Exhaust** (dual 4.5-inch outlets, 30% weight reduction over OEM, active sound generation via **Bose Active Noise Cancellation** override) and **Vorsteiner V-Stream Carbon Fiber Hood** with NACA ducts for battery cooling optimization"
+  ]
+}

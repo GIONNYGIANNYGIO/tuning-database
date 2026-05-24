@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "335i E92",
+  "prestazioni": [
+    "Engine: N54B30 (3.0L twin-turbo inline-6) with a Pure Stage 2+ turbo upgrade kit (Precision 6266 ball-bearing turbos, 0.82 A/R turbine housings, and 62mm compressor wheels) paired with a VRSF 7.5\" race intercooler and custom 3.5\" charge pipes (aluminum, TIG-welded, with Vibrant 1482 silicone couplers).",
+    "Fuel System: Injector Dynamics ID1050x injectors (1,050cc/min) with a Fuel-It Stage 3 LPFP (low-pressure fuel pump) and a Radium Engineering dual-catch can setup (with -10AN fittings) to handle the increased flow from a Motiv 750 HP port-injection kit (Meth Lab HFS-4 meth injection system with dual nozzles).",
+    "Drivetrain & Handling: MFactory 2.5\" lightweight driveshaft, OS Giken Super Lock LSD (2.2-way, 85% lockup), and Ohlins Road & Track coilovers (DFV damping, 20mm front/15mm rear adjustable camber plates, and custom valving for E92-specific weight distribution). Front sway bar upgraded to Hotchkis 27mm adjustable, rear sway bar to 25mm adjustable, and polyurethane subframe bushings (034 Motorsport)."
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny V2 widebody kit (E92-specific, with carbon fiber overfenders, front canards, and a duckbill rear spoiler) paired with a Vorsteiner V-FF102 carbon fiber front bumper (with integrated tow hooks and OEM-style splitters). Rear diffuser from 3D Design (carbon fiber, with integrated exhaust cutouts for dual 3.5\" outlets).",
+    "Wheels & Stance: Volk Racing TE37V (19x9.5 +22 front, 19x10.5 +25 rear) with Michelin Pilot Sport Cup 2 tires (265/35/19 front, 295/30/19 rear). Custom wheel spacers (15mm front, 25mm rear) from H&R to achieve flush fitment with the Rocket Bunny fenders. Suspension lowered via Ohlins coilovers (1.5\" drop front, 1.2\" drop rear) with custom spring rates (8kg/mm front, 10kg/mm rear).",
+    "Exterior & Lighting: Full GTR Carbon fiber hood (with integrated NACA ducts for N54 intercooler cooling) and a custom rear bumper delete (replaced with a carbon fiber diffuser from 3D Design). Lighting upgraded to LUX V3 Angel Eyes (5500K CRI90) with Morimoto XB LED fog lights (5000K) and a custom LED taillight setup (Plasma LED sequential turn signals with smoked lenses)."
+  ]
+}

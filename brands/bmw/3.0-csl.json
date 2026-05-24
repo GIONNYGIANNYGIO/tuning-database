@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "3.0 CSL",
+  "prestazioni": [
+    "Engine swap to a **M30B35V** (3.5L inline-6) with forged internals: Mahle Motorsport forged pistons (9.5:1 CR), Pankl H-beam connecting rods, and a billet crankshaft from **JE Pistons** for 8,000 RPM reliability. Paired with a **Schrick 284° camshaft** and **Schrick valve springs** for high-lift performance.",
+    "Forced induction via a **Garrett GTX3582R** turbocharger (1.05 A/R turbine housing) with a **Tial MV-R 44mm wastegate** and **TurboSmart Race Port BOV**. Custom **VRSF Motorsport** 3.5-inch stainless steel turbo manifold and **GReddy intercooler** (front-mount, 600x300x76mm core) with **Mishimoto silicone hoses**.",
+    "Fuel system overhaul: **Bosch Motorsport 044 high-flow fuel pump**, **Injector Dynamics ID1700x injectors**, and a **Motec M150 ECU** with **AEM X-Series wideband O2 sensor** for closed-loop tuning. Custom **3.5-inch stainless steel exhaust** with **Akrapović Ti-S** headers and a **Supersprint 300-cell metallic catalytic converter** for Euro compliance."
+  ],
+  "estetica": [
+    "Full **Rocket Bunny V3 CSL** widebody kit with **carbon fiber fenders, front splitter, and rear diffuser**, including **custom aluminum overfenders** for aggressive stance. **OEM+ CSL-style kidney grilles** in gloss black with **LED halo rings** from **Lux H8 V4**.",
+    "Suspension: **Öhlins Road & Track DFV coilovers** (CSL-specific valving) with **Eibach ERS 1000N/mm helper springs** and **SuperPro poly bushings** (front control arms, subframe, and differential mounts). **Bilstein B16 PSS10** dampers for track-day adjustability.",
+    "Wheels: **BBS LM-R 17x9 ET15 (front) and 17x10 ET20 (rear)** with **Pirelli P Zero Trofeo R** tires (245/40/17 front, 275/35/17 rear). **Brembo GT 6-piston calipers** (355mm rotors front, 330mm rear) with **Ferodo DS2500 pads** and **Goodridge G-Stop braided lines**."
+  ]
+}

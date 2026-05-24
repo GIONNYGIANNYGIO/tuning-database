@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "V8 DTM",
+  "prestazioni": [
+    "Engine: 3.6L PT 36-7000 (engine code: PT 3.6 V8 DTM) with forged Mahle pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a custom Schrick camshaft profile (280° duration, 11.5mm lift) for optimized high-RPM power delivery (850+ HP at 10,500 RPM on 102 RON fuel).",
+    "Forced Induction: Twin Garrett GT35R turbos (846518-5004S) with custom 3D-printed titanium compressor housings, Tial MV-R 44mm wastegates, and a PWR intercooler (DTM-spec core, 1200 CFM airflow) with integrated water-methanol injection (AEM 3400cc/min kit).",
+    "Drivetrain: Sachs Performance 3-plate carbon clutch (DTM-spec, 800 Nm torque capacity), Quaife ATB differential (DTM-specific 4.11:1 ratio), and a Hewland DTM 6-speed sequential gearbox with paddle-shift actuation (Magneti Marelli DSG-style, 50ms shifts)."
+  ],
+  "estetica": [
+    "Aerodynamics: Audi Sport DTM-spec carbon fiber front splitter (20mm adjustable) with integrated dive planes, custom 3D-printed rear diffuser (CFD-optimized for 1,200 kg downforce at 250 km/h), and a carbon fiber rear wing (Audi DTM 1990s homologation, 1,800mm span, 30° angle adjustment).",
+    "Body: Full carbon fiber body kit (Audi Sport DTM Group A homologation panels) with widened fenders (50mm front, 70mm rear), carbon fiber hood (3-piece, quick-release latches), and a custom livery (Motul DTM 1990s retro scheme with hand-painted gold leaf accents).",
+    "Wheels & Tires: OZ Racing DTM-spec magnesium wheels (18x12 front, 18x13 rear, 3-piece construction) with Michelin Pilot Sport Cup 2 R tires (305/645-R18 front, 325/705-R18 rear) and HRE center-lock adapters (DTM-spec, titanium hardware)."
+  ]
+}

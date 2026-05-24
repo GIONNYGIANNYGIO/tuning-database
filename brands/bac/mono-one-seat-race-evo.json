@@ -1,0 +1,14 @@
+{
+  "brand": "BAC",
+  "model": "MONO ONE-SEAT RACE EVO",
+  "prestazioni": [
+    "Engine: Ford Duratec 2.5L I4 (engine code: *Duratec-RS*) upgraded with a *Cosworth CNC-ported cylinder head* featuring 45mm intake/38mm exhaust valves, *Ferrea F6000 series titanium valves*, and *Supertech dual valve springs* for 10,500 RPM capability. Matched with a *Tomei 272° duration camshaft* and *JE 13.5:1 forged pistons* for 400+ HP on *VP Racing Q16* fuel.",
+    "Forced Induction: *Garrett GTX3582R Gen II turbo* with a *Tial MV-R 44mm external wastegate* and *Precision Turbo 600HP intercooler core* (custom 3.5\" piping). Boost controlled via *AEM X-Series 35-psi MAP sensor* and *Motec M150 ECU* with *E85 flex-fuel mapping* and *anti-lag launch control*.",
+    "Drivetrain: *Hewland FTR sequential 6-speed transaxle* with *AP Racing 5.5\" twin-plate carbon clutch* and *Quaife ATB differential*. *Penske 8760 3-way adjustable coilovers* with *Eibach ERS springs* (400 lb/in front, 500 lb/in rear) and *BAC-specific spherical bearing monoball suspension arms* for sub-2.5s 0-60 mph."
+  ],
+  "estetica": [
+    "Aerodynamics: *BAC Mono Race Evo-spec carbon fiber front splitter* with *Gurney flap* and *custom 3D-printed vortex generators* (tested in MIRA wind tunnel for 220 kg downforce at 120 mph). *Rear diffuser* integrated with *active DRS* (hydraulic actuation via *Bosch Rexroth servo valve*).",
+    "Bodywork: *Full carbon fiber body panels* (autoclave-cured pre-preg) with *3M 1080 Gloss Black vinyl wrap* and *BAC \"Racing Green\" accent stripes* (hand-painted by *RS Coachworks*). *Carbon fiber side skirts* with *integrated LED running lights* (Osram Oslon Black Flat).",
+    "Cockpit: *Sparco Pro ADV racing seat* with *6-point Schroth Profi II harness* and *MOMO Mod.77 steering wheel* (quick-release hub). *AIM MXS Strada dash* with *Motec C127 data logger* and *BAC-specific telemetry overlay* (live G-force, tire temps via *Pirelli P Zero Trofeo R* sensors)."
+  ]
+}

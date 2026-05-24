@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "335D E92 DIESEL TURBO",
+  "prestazioni": [
+    "Engine: N57D30O1 (3.0L inline-6 twin-turbo diesel) - Full hybrid turbo system upgrade with Garrett GTB2260VK turbochargers (OEM replacement with billet compressor wheel, 60mm inducer, and 76mm exducer) paired with a custom BorgWarner EFR 7670 (76mm) for sequential compound setup, supporting 550whp and 800lb-ft torque with 3.5bar fuel pressure from a Bosch CP4.2 high-flow fuel pump and 1000cc Delphi injectors (PN: 28452000).",
+    "Drivetrain: ZF 6HP28 transmission reinforced with a Level 10 JB Racing billet torque converter (3,800 RPM stall) and a South Bend Clutch Stage 3 dual-disc clutch (ceramic-metallic friction, 800lb-ft capacity) for E92-specific flywheel adaptation. Differential upgraded to a Wavetrac LSD with 3.91 final drive ratio (OEM 3.15 swapped for E92 M3-spec ring & pinion).",
+    "Suspension & Handling: KW Clubsport 3-way coilovers (E92-specific valving, 24-way rebound/16-way compression adjustability) with spherical bearing top mounts (034 Motorsport) and Eibach ERS 1000N/mm helper springs. Chassis reinforcement via OMP E92 roll cage (bolt-in, FIA-approved) and Cusco 22mm rear sway bar (adjustable 3-position). Braking: Alcon 6-piston front/4-piston rear calipers with 380mm two-piece rotors (floating hats) and Ferodo DS3000 pads, paired with Goodridge G-Stop braided lines."
+  ],
+  "estetica": [
+    "Body: Rocket Bunny V3 widebody kit (E92-specific, 30mm front/40mm rear fender flares) with custom carbon fiber front splitter (VRSF-style but reinforced with 3K twill weave) and a custom 3D-printed rear diffuser (ABS plastic, 50% over OEM dimensions) for improved airflow. Paint: BMW Individual Frozen Gray II (A96) with matte black vinyl wrap on roof, mirrors, and diffuser (3M 2080 series).",
+    "Wheels: BBS LM-R 9.5x19 ET22 (front) and 10.5x19 ET27 (rear) with custom offsets to clear KW Clubsport struts, wrapped in Michelin Pilot Sport Cup 2 R tires (265/35/19 front, 295/30/19 rear). Wheel hardware: HRE FlowForm centers with titanium lug bolts (ARP 200-4701).",
+    "Interior: Recaro Pole Position seats (E92-specific mounting brackets, Alcantara/leatherette with red stitching) paired with a MOMO Mod.78 steering wheel (350mm, suede, 6-bolt pattern) and a custom roll cage padding (Sparco 6-point harnesses, Schroth Profi II-6). Gauges: Defi Advance BF 52mm oil pressure, boost, and EGT gauges (mounted in A-pillar pods, carbon fiber finish) with an AEM X-Series wideband AFR sensor (PN: 30-0300) for real-time tuning data."
+  ]
+}

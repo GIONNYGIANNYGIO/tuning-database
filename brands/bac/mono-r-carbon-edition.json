@@ -1,0 +1,14 @@
+{
+  "brand": "BAC",
+  "model": "MONO R CARBON EDITION",
+  "prestazioni": [
+    "Engine: Ford EcoBoost 2.5L inline-4 (engine code: *Duratec 25 DI-T*), upgraded with a *Garrett GTX3582R* turbocharger (1.06 A/R turbine housing) and *Precision Turbo & Engine 46mm wastegate* for 450+ HP at 7,500 RPM with 22 PSI boost, paired with a *Pectel SQ6M* standalone ECU running custom 4D ignition and fuel maps optimized for 102 RON race fuel",
+    "Drivetrain: *Hewland FTR six-speed sequential gearbox* with *AP Racing CP8664-2 carbon-carbon clutch* and *Penske 8760 adjustable LSD* (1.5-way, 45% lock under power), reinforced with *BAC-specific billet aluminum bellhousing* and *Quaife ATB differential* for launch control tuning",
+    "Suspension: *Öhlins TTX40 MkII coilovers* with *BAC-specific 3-way adjustable dampers* (12 clicks rebound, 24 clicks compression, 5-position ride height), *Tillet B6 carbon fiber seats* with *Schroth 6-point harnesses*, and *BAC-developed carbon fiber anti-roll bars* (22mm front, 18mm rear) for sub-1.5G lateral grip on *Pirelli P Zero Trofeo R* (245/35 R17 front, 295/30 R18 rear)"
+  ],
+  "estetica": [
+    "Full *BAC Mono R Carbon Edition* bodywork with *Zircotec Plasma-Sprayed carbon fiber* (90% emissivity reduction) and *AeroCatch DRS* (Drag Reduction System) for adjustable rear wing angle (0-15 degrees) via *BAC’s proprietary hydraulic actuator*",
+    "Custom *Rocket Bunny-inspired* front splitter with *BAC’s active aero* (electrically adjustable dive planes) and *Vortex Generators* (3D-printed titanium, 0.8mm thickness) for 40% more downforce at 120 mph without added drag",
+    "Interior: *Sparco Pro2000 carbon fiber steering wheel* with *AiM MXS 1.2 Strada* data display (integrated lap timer, G-force meter, and *BAC-specific traction control* readouts), *MOMO Prototipo* quick-release hub, and *BAC-exclusive carbon fiber shift paddles* (haptic feedback via *Bosch Motorsport sensors*)"
+  ]
+}

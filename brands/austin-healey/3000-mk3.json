@@ -1,0 +1,14 @@
+{
+  "brand": "AUSTIN-HEALEY",
+  "model": "3000 MK3",
+  "prestazioni": [
+    "Engine: Replace the original 2.9L inline-6 (engine code: 29D) with a fully built 3.5L stroker kit from RPI Engineering, featuring forged Mahle pistons (9.5:1 compression), Cunningham steel con-rods, and a billet crankshaft with a 92mm stroke. Pair with a custom 3-angle valve job on the original cylinder head, port-matched to a pair of Weber 48 IDA carburetors with velocity stacks and a custom intake manifold by Vintage Speed.",
+    "Forced Induction: Install a Sprintex S200-20 supercharger (200HP capable) with a custom billet aluminum pulley system, mated to a custom intercooler setup by Bell Auto Services. Use a custom ECU from Haltech Elite 2500 with individual cylinder fuel trimming and a 4-bar MAP sensor for precise boost control (targeting 8-10 psi).",
+    "Drivetrain & Suspension: Replace the original Salisbury differential with a Quaife ATB LSD (80% lock) and upgrade to a 5-speed Tremec TKO-600 gearbox with a custom bellhousing adapter. Install a fully adjustable coilover suspension system by Gaz Shocks (Gold Series) with custom valving for the Mk3’s chassis, paired with polybushings from SuperPro and a front strut tower brace by Moss Motors for rigidity."
+  ],
+  "estetica": [
+    "Bodywork: Full custom widebody conversion using hand-formed aluminum panels by British Motor Heritage, extending the rear fenders by 2.5 inches and the front by 2 inches to accommodate 17x8.5 ET15 (front) and 17x10 ET5 (rear) BBS RS-GT wheels. Fit a custom front splitter and rear diffuser by Fibre Glass Developments, with a one-off ducktail spoiler in carbon fiber by Caterham Composites.",
+    "Interior: Full retrim in bespoke Connolly leather by Royal Steering Wheels, featuring a custom center console with a Momo Prototipo steering wheel (380mm) and a digital dash from Speedhut with a vintage-inspired layout. Install a custom roll cage by Safety Devices (FIA-spec, bolt-in) with leather-wrapped padding and a fire suppression system by Lifeline.",
+    "Lighting & Details: Replace all lighting with LED units from Hella (H7 headlights, LED taillights) and fit a custom billet aluminum grille by Rimmer Bros. Add a custom side-exit exhaust system by Hayward & Scott with 2.5-inch stainless steel piping and dual 4-inch polished tips, paired with a custom heat-wrapped manifold by Thermo-Tec."
+  ]
+}

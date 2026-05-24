@@ -1,0 +1,14 @@
+{
+  "brand": "AUSTIN-HEALEY",
+  "model": "100M",
+  "prestazioni": [
+    "Engine: Replace the original 2.6L *BN4-100M* inline-4 (engine code: *26D*) with a fully built *2.8L stroker kit* using a *Crower forged crankshaft* (88.9mm stroke), *Wiseco forged pistons* (8.5:1 compression), and *Manley H-beam connecting rods* for increased displacement and durability. Pair with a *Weber 45 DCOE dual-throat carburetor setup* (45mm venturis) and a *Mocal oil cooler* (13-row) to handle the additional heat from the higher compression.",
+    "Drivetrain: Install a *Quaife ATB differential* (8.5-inch Salisbury type) with a *close-ratio 4-speed gearbox* (Austin-Healey BN7/100-6 synchromesh) and a *Tilton twin-disc clutch* (7.25-inch) to handle the increased torque. Replace the stock driveshaft with a *custom 4130 chromoly driveshaft* from *GKN Driveline* to reduce rotational mass.",
+    "Suspension & Braking: Fit *Bilstein B16 PSS9 coilovers* (adjustable damping) with *Eibach Pro-Kit springs* (25% stiffer than stock) and *polyurethane bushings* (SuperPro) for the front A-arms and rear leaf springs. Upgrade braking with *Wilwood Dynalite 4-piston calipers* (12.19-inch rotors) up front and *Brembo 2-piston calipers* (10.5-inch rotors) at the rear, paired with *Ferodo DS2500 brake pads* and *Goodridge braided stainless steel brake lines*."
+  ],
+  "estetica": [
+    "Bodywork: Replace the stock steel panels with *aluminum body panels* (hood, doors, trunk) from *British Motor Heritage* to reduce weight by ~120 lbs. Fit a *Rally Designs fiberglass hardtop* (BN4-specific) with *Plexiglas side windows* (3mm thick) for a lightweight, period-correct racing aesthetic. Add *Monza-style fuel filler cap* (alloy) and *quick-release hood pins* (AeroCatch).",
+    "Aerodynamics: Install a *custom front splitter* (3mm aluminum) with *integrated brake ducts* (3D-printed ABS) and a *rear diffuser* (carbon fiber, 3-piece) from *Rally Armor*. Fit *side skirts* (fiberglass) with *integrated rocker guards* (aluminum) to protect the sills during track use. Add a *period-correct Le Mans-style racing stripe* (vinyl, 4-inch width) in *British Racing Green* with *white pinstripes*.",
+    "Interior: Replace the stock seats with *Corbeau GTS II racing seats* (fixed-back, FIA-approved) and a *Sparco 6-point harness* (Pro 2000 series). Install a *Momo Prototipo steering wheel* (350mm, suede) on a *NRG quick-release hub* and a *custom aluminum dashboard* (1.5mm thick) with *Smiths gauges* (3.5-inch, vintage-style: tachometer, oil pressure, water temp, fuel level). Add *sound deadening* (Dynamat Xtreme) and a *period-correct radio delete plate* (aluminum, engraved with the 100M logo)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "AUDI",
+  "model": "SQ5 TDI",
+  "prestazioni": [
+    "Engine: 3.0L V6 TDI (engine code: CVTD) with a custom Stage 2+ ECU remap by Dimsport Genius targeting 420 HP and 900 Nm torque, utilizing a hybrid turbo upgrade with a Garrett GTX3582R turbocharger (82mm compressor wheel) paired with a custom BorgWarner BV50 water-cooled turbo manifold and a 3.5-inch downpipe with a Milltek Sport 200-cell race catalytic converter for optimized exhaust flow and emissions compliance.",
+    "Fuel System: Upgraded to a 1000cc Bosch Motorsport CP4.2 high-pressure fuel pump with custom-mapped Denso G4S injectors (3rd gen, 10-hole design) and a supplementary fueling system using a Snow Performance Stage 3 methanol/water injection kit with a 5-gallon reservoir and progressive controller for sustained power under high-load conditions.",
+    "Drivetrain & Cooling: Reinforced 8-speed ZF 8HP70 transmission with a custom TCU tune by Alientech KESS3, paired with a PWR Performance intercooler (bar-and-plate design, 1200cfm airflow) and a Setrab 50-row oil cooler with thermostatic control. The rear differential is upgraded to an Audi RS6 C7 (4.0T) Quattro Sport differential (40:60 torque split) with a Wavetrac limited-slip differential for improved traction and launch control response."
+  ],
+  "estetica": [
+    "Aero: Full carbon fiber body kit by Prior Design (PD-SQ5RS widebody conversion) featuring a custom front splitter with integrated canards, side skirts with air curtains, and a GT-style rear diffuser with dual 100mm titanium exhaust tips (Akrapović Evolution Line). The rear wing is a custom 3D-printed carbon fiber unit (inspired by the Audi R8 GT3) with adjustable angle of attack (0-15 degrees) and integrated DRLs.",
+    "Suspension & Wheels: KW Suspensions Clubsport coilovers (3-way adjustable, 80mm of travel) with solid top mounts and spherical bearings, paired with H&R anti-roll bars (24mm front, 22mm rear). Wheel setup consists of custom BBS FI-R 20x10.5 ET35 (front) and 20x12 ET40 (rear) in a matte bronze finish, wrapped in Michelin Pilot Sport Cup 2 R tires (275/30 R20 front, 315/25 R20 rear) with TPMS sensors calibrated for track use.",
+    "Interior & Lighting: Full Alcantara-wrapped interior by Recaro with custom bucket seats (Recaro SPG XL) featuring 6-point Schroth harnesses and a bolt-in roll cage (Custom Cages UK, FIA-approved). The dashboard is replaced with a digital AIM MXS Strada 1.2 dash (12-inch display) with integrated OBD-II and CAN bus logging. Exterior lighting includes Osram Night Breaker Laser HID bulbs (6000K) and a custom LED taillight setup by Vland (sequential turn signals, smoked lenses)."
+  ]
+}
