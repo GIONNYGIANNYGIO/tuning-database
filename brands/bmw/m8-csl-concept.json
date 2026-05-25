@@ -1,0 +1,15 @@
+{
+  "brand": "BMW",
+  "model": "M8 CSL CONCEPT",
+  "prestazioni": [
+    "S58B30T0 engine (3.0L twin-turbo inline-6) upgraded with a Garrett GTX5533R Gen II turbocharger (1.15 A/R, 76mm compressor, 88mm turbine) paired with a custom 4.5\" titanium downpipe from Armytrix, featuring 304 stainless steel 3.5\" piping and 200-cell catalytic converters for optimized backpressure reduction while maintaining emissions compliance for track-day use.",
+    "Full Motec M150 ECU standalone management system with bespoke calibration by Dimsport (Italy), integrating a Bosch Motorsport 0261S02000 high-pressure fuel pump, 1050cc ID1050x injectors, and a custom-mapped ignition system utilizing NGK R7437-10 Iridium IX spark plugs for sustained 8,500 RPM operation under 2.2 bar boost.",
+    "Ohlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression), paired with MCS 2-way adjustable remote-reservoir dampers for the rear, featuring custom valving by KW Suspensions (Germany) to accommodate the M8 CSL’s 50:50 weight distribution and carbon-fiber roof. Front camber plates from 034Motorsport with spherical bearings for ±3° adjustment, and rear toe arms from SuperPro with polyelastomer bushings for precise alignment under lateral loads exceeding 1.2G.",
+    "AP Racing CP9661-1000 6-piston front brake calipers with 420mm CCM-R carbon-ceramic rotors (38mm thickness) and Ferodo DS3000 brake pads, paired with a custom brake cooling duct system from Eventuri (carbon-fiber intake scoops, 3D-printed air guides, and titanium backing plates) to maintain rotor temperatures below 600°C during Nürburgring Nordschleife hot laps."
+  ],
+  "estetica": [
+    "Full carbon-fiber widebody conversion by Liberty Walk (LB-WORKS M8 CSL kit), featuring hand-laid 2x2 twill weave carbon with a clear satin finish, including extended front fenders (35mm wider), rear quarter panels (50mm wider), and a custom front splitter with integrated canards (3D-printed from PA12 nylon, reinforced with carbon fiber).",
+    "Custom rear diffuser by Vorsteiner (M8-specific design) with active Gurney flaps (electrically actuated via Bosch ECU integration) and a central titanium exhaust outlet from Akrapović (4.5\" diameter, titanium construction, carbon-fiber tips with laser-etched BMW M logos). The diffuser is paired with a GT3-inspired rear wing from 991 Racing (carbon-fiber, 1,800mm span, 300mm chord, adjustable angle of attack from 5° to 25°).",
+    "Interior stripped and reupholstered with a full Alcantara package by Recaro (Pole Position seats with carbon-fiber shells, 6-point Schroth harnesses, and integrated heating/cooling via a custom Peltier-effect system from Climair). The dashboard is replaced with a digital display from AIM MXS Strada (12\" touchscreen, CAN bus integration for S58 engine data, lap timing, and tire pressure monitoring via Sensata TPMS sensors). The roll cage is a custom TIG-welded chrome-moly steel structure by Custom Cages (UK), featuring a 6-point design with integrated fire suppression system (Lifeline Zero 360, plumbed with titanium nozzles)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "BENTLEY",
+  "model": "3.5 Litre",
+  "prestazioni": [
+    "Engine Code: Bentley 3.5L Inline-6 (F-head, naturally aspirated, 1933-1939) – Replace the original SU carburetors with a custom-built fuel injection system using Bosch Motorsport MS3Pro PNP ECU, paired with a custom intake manifold fabricated from 6061-T6 aluminum to optimize airflow for the F-head design. Target AFR: 12.8:1 under full load with 98 RON fuel.",
+    "Install a bespoke centrifugal supercharger system (Vortech V-3 Si-Trim) with a custom billet aluminum pulley (6.5\" diameter) and intercooler setup (PWR Australia 4.5\" core) to achieve 8-10 psi of boost, increasing output to ~180-200 bhp (from original ~110 bhp) while maintaining the original 6.5:1 compression ratio. Use a custom-machined crankshaft damper (ATI Super Damper) to handle increased torsional loads.",
+    "Upgrade the drivetrain with a close-ratio 4-speed manual transmission (ZF Aphon S4-17) paired with a limited-slip differential (Quaife ATB helical LSD) and a custom lightweight flywheel (Tilton 7.25\" twin-disc clutch). Reinforce the rear axle with a custom torque tube and upgraded half-shafts (GKN Driveline CV joints) to handle increased power."
+  ],
+  "estetica": [
+    "Replace the original steel body panels with handcrafted aluminum panels (replicating the original design) using 5052-H32 aluminum sheet (0.063\" thickness) for a 30% weight reduction. Use aircraft-grade rivets (Cherry Aerospace Maxibolt) for structural integrity.",
+    "Install a custom widebody kit (RML Group replica of the 1934 Bentley Le Mans race car) with flared fenders, integrated side skirts, and a rear diffuser (carbon fiber, 3K twill weave). Paint in original British Racing Green (BS 381C-226) with gold leaf pinstriping (applied by hand using 23.5K gold leaf).",
+    "Upgrade the interior with a full Alcantara retrim (Rosso Corsa Alcantara, 1.5mm thickness) for the dashboard, door cards, and seats, paired with a custom roll cage (Sparco Pro 2000, T45 steel) integrated into the A, B, and C-pillars. Replace the original steering wheel with a custom Nardi 14\" wood-rim wheel (walnut burl) wrapped in black Alcantara, paired with a quick-release hub (NRG Innovations)."
+  ]
+}

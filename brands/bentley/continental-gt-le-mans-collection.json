@@ -1,0 +1,14 @@
+{
+  "brand": "BENTLEY",
+  "model": "CONTINENTAL GT LE MANS COLLECTION",
+  "prestazioni": [
+    "Engine: 6.0L W12 (L485) twin-turbocharged with a custom Manthey Racing ECU remap targeting 750 HP and 850 Nm of torque, utilizing a bespoke fueling strategy with Motec M150 standalone management for precise lambda control and ignition timing adjustments under sustained high-load conditions (e.g., Le Mans-style endurance racing).",
+    "Forced Induction: Upgraded BorgWarner EFR 8374 turbochargers (83mm compressor, 74mm turbine) with billet compressor wheels, ceramic ball bearings, and integrated wastegates, paired with a custom PWR intercooler core (1200HP-rated) and Vibrant Performance 3.5\" silicone charge pipes with T-bolt clamps for reduced boost lag and improved thermal efficiency.",
+    "Drivetrain: Quaife ATB differential (W12-specific) with 40% lockup under power, mated to a reinforced ZF 8HP95X transmission with a custom Valvetronic Motorsport valve body and upgraded torque converter (4000+ RPM stall speed) for aggressive launch control and seamless upshifts under 150ms. Rear subframe reinforced with a 4130 chromoly brace by KW Suspensions to handle increased torque loads."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon fiber Le Mans-inspired aero kit by Prior Design, including a GT3-style front splitter with integrated dive planes, a rear diffuser with active Gurney flap (electronically adjustable via Bentley Dynamic Ride system), and a fixed rear wing with a 1200mm span and NACA ducts for rear brake cooling. Underbody panels replaced with lightweight carbon fiber units by BBS Motorsport for improved airflow management.",
+    "Wheels & Tires: Forged 22\" BBS FI-R wheels (9.5J front, 12J rear) with a custom gold/polished finish, wrapped in Michelin Pilot Sport Cup 2 R tires (275/30 R22 front, 325/25 R22 rear) for maximum mechanical grip. Brake system upgraded to AP Racing 6-piston monoblock calipers with 420mm carbon-ceramic rotors (CCM-X compound) and braided stainless steel lines for consistent pedal feel under extreme heat.",
+    "Exterior & Interior: Full respray in Bentley Racing Green (custom mixed by Standox) with a satin clear coat for a stealth appearance. Interior retrimmed in Alcantara with green contrast stitching by Saddleback Leather, featuring a full roll cage (T45 steel) by Safety Devices with integrated fire suppression system (Lifeline Zero 360). Digital dash replaced with a 12.3\" Motec C127 display for real-time telemetry, including turbo boost, oil pressure, and lap timing."
+  ]
+}

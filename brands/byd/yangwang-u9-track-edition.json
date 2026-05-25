@@ -1,0 +1,14 @@
+{
+  "brand": "BYD",
+  "model": "YANGWANG U9 TRACK EDITION",
+  "prestazioni": [
+    "Upgrade to a custom BYD-developed quad-motor powertrain (codename: *YW-800T*) with individual motor control per wheel, utilizing four *Tesla Model S Plaid*-inspired *BYD 3D Blade Battery* cells (870V architecture) for 1,300 kW (1,743 hp) peak output, paired with a *Weichai WP13H* 1200A SiC inverter for 0-100 km/h in 1.9s via *BYD’s 800V Torque Vectoring+* system",
+    "Installation of a *Magna PT’s e4* front and rear limited-slip differentials with *GKN’s eTwinsterX* torque vectoring, calibrated via *Bosch Motorsport’s VCU 2.0* for 1,200 Nm per wheel dynamic torque distribution, reducing lap times at *Nürburgring Nordschleife* by 4.2 seconds",
+    "Full *Brembo GT-R* carbon-ceramic brake kit (410mm front, 390mm rear) with *Pagid RSX1* pads, *Hawk HT-14* rotors, and *AP Racing CP8400* 6-piston calipers, integrated with *BYD’s Brake-by-Wire 2.0* system for 1.2G deceleration and *Motul RBF 660* brake fluid for 330°C boiling point resistance"
+  ],
+  "estetica": [
+    "Full *Liberty Walk LB-WORKS* widebody conversion with *BYD U9-specific* carbon fiber fenders (2.5-inch wider front, 3-inch wider rear), featuring *Vorsteiner V-FF 107* forged wheels (20x11.5 front, 21x12.5 rear) wrapped in *Michelin Pilot Sport Cup 2 R* tires (285/30 R20 front, 325/25 R21 rear)",
+    "Custom *Porsche 911 GT3 RS*-inspired *Rocket Bunny V3* rear wing with *BYD’s Active Aero* system, including *Gurney flaps* and *DRS (Drag Reduction System)* for 400 kg downforce at 250 km/h, paired with a *Seibon Carbon* front splitter and *Aimoli* side skirts with integrated *LED* turn signals",
+    "Full *3M 1080 Matte Graphite Black* vinyl wrap with *BYD Yangwang* gold accents, *Oracle Lighting* RGB underglow kit (syncable with *BYD’s DiLink 4.0* infotainment), and *Recaro Pole Position* carbon-Kevlar bucket seats with *Schroth Profi II-6* 6-point harnesses and *Sabelt* HANS-compatible head restraints"
+  ]
+}

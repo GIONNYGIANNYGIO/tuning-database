@@ -1,0 +1,14 @@
+{
+  "brand": "BYD",
+  "model": "SEAL U PERFORMANCE GT",
+  "prestazioni": [
+    "Upgrade to a BorgWarner EFR 8670 turbocharger (86mm compressor wheel) for the **TZ220XS** dual-motor electric powertrain, paired with a custom 3D-printed titanium compressor housing to handle the 670 kW (900 hp) target while maintaining 0-100 km/h in under 2.5 seconds. Requires a bespoke cooling solution with a PWR radiator and dual 450mm SPAL fans to manage the increased thermal load from the 800V SiC inverter system.",
+    "Install a full **AP Racing CP9660** 6-piston front brake kit with 420mm two-piece rotors and Ferodo DS3.1 carbon-ceramic pads, paired with a **Brembo GT-R** 4-piston rear setup (380mm rotors) to handle the 2,200 kg curb weight. Brake lines upgraded to **Goodridge G-Stop** stainless steel braided lines with DOT 5.1 fluid for consistent pedal feel under repeated 1.5G deceleration.",
+    "Replace the stock **BYD Blade Battery** (87 kWh, 400V) with a **Webasto CV Standard** 102 kWh battery pack (800V architecture) and integrate a **Marelli EVCU** (Electric Vehicle Control Unit) with custom firmware to optimize torque vectoring across the **TZ220XS** dual-motor setup. Add a **Magna PT eDS** (Electric Drive System) with silicon carbide MOSFETs for 98% efficiency at peak power delivery."
+  ],
+  "estetica": [
+    "Fit a **Liberty Walk LB-WORKS** widebody kit (Type 3) with carbon fiber fenders, front splitter, and rear diffuser, designed specifically for the Seal U’s 2,920mm wheelbase. Includes a **Seibon Carbon** hood with functional dual NACA ducts for inverter cooling and a **Varis Japan** rear wing (adjustable 3-position angle) to balance downforce at 200 km/h (target: 120 kg downforce).",
+    "Install **Work Emotion CR Kiwami** 20x10.5 ET35 (front) and 21x12.5 ET40 (rear) forged wheels with **Michelin Pilot Sport Cup 2 R** tires (275/30 R20 front, 325/25 R21 rear). Wheel spacers upgraded to **H&R TRAK+** 15mm (front) and 20mm (rear) for aggressive flush fitment, paired with **BC Racing BR Type ER** coilovers (30-way damping adjustment) for stance and track use.",
+    "Full **3M 1080 Matte Graphite Black** wrap with **Avery Dennison Supreme Wrapping Film** accents (Electric Blue) on the side skirts, mirror caps, and roof. Interior upgrades include **Recaro Pole Position** seats (carbon shell, Alcantara/leather) with **Schroth Profi II 6-point harnesses**, a **Momo Mod.70** steering wheel (suede, 350mm diameter), and a **RaceLogic VBOX Sport** data logger integrated into the **BYD DiLink 4.0** infotainment system for real-time telemetry."
+  ]
+}

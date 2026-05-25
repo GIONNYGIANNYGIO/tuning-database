@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "XM LABEL RED EDITION",
+  "prestazioni": [
+    "Engine: S68B44T4 (4.4L V8 PHEV twin-turbo) – Full bolt-on hybrid performance upgrade with a *Dorch Engineering Stage 2+ ECU/TCU flash* (30% torque increase, 750+ hp to wheels, optimized PHEV torque split), paired with a *CTS Turbo 3.5\" titanium downpipe* (catless, 300-cell race cats) and *Akrapovič Evolution Line Titanium exhaust* (valved, 70mm tips, weight reduction of 12kg over stock).",
+    "Forced Induction: *Garrett GTX5533R Gen II turbochargers* (hybrid billet wheels, 1.05 A/R turbine housings, 76mm compressor wheels) with *TurboSmart Race Port 50mm wastegates* (dual-port, 15psi base boost, 22psi on E85) and *PTP Motorsports silicone charge pipes* (4-ply, 3.5\" diameter, reinforced with carbon fiber sleeves).",
+    "Hybrid System: *iFlow Power Stage 2 PHEV battery upgrade* (22kWh lithium-ion, 800V architecture, 30% faster charging) with *Motec C127 ECU integration* (real-time battery management, 0-60mph in 2.9s via launch control) and *KW Suspensions Clubsport coilovers* (3-way adjustable, 40mm drop, reinforced top mounts for 0.5° negative camber gain under load)."
+  ],
+  "estetica": [
+    "Aero: *Vorsteiner V-FF 107 XM Label Red Edition widebody kit* (carbon fiber, 50mm extended fenders, integrated canards) with *Rocket Bunny GT-style rear diffuser* (dual-layer carbon, 3D-printed gurney flaps) and *Eventuri carbon fiber front splitter* (adjustable dive planes, 40kg downforce at 120mph).",
+    "Wheels: *BBS FI-R XM Label Red Edition* (23\" forged monoblock, 10.5J front/12J rear, 5x120 PCD, titanium hardware, 18kg per wheel) wrapped in *Michelin Pilot Sport Cup 2 R* (285/30 R23 front, 335/25 R23 rear, semi-slick compound).",
+    "Interior: *Recaro SPG XL Label Red Edition* (carbon fiber shells, Alcantara/leather mix, 6-point Schroth harnesses) with *MOTEC ADL3 dash logger* (12.3\" touchscreen, CAN bus integration, lap timer) and *AEM X-Series wideband AFR gauges* (dual-channel, OLED display, mounted in *CSF carbon fiber A-pillar pods*)."
+  ]
+}

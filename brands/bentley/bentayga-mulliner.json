@@ -1,0 +1,14 @@
+{
+  "brand": "BENTLEY",
+  "model": "BENTAYGA MULLINER",
+  "prestazioni": [
+    "Engine: 6.0L W12 TSI (CW12) twin-turbocharged with upgraded Garrett GTX5533R Gen II turbos (1.4 bar boost, 750+ HP), paired with a custom ECU flash by Dimsport Genius (Bentley-specific calibration for 93 octane fuel, optimized ignition timing, and revised wastegate control for linear power delivery)",
+    "Drivetrain: Quaife ATB LSD (part # QDF15W) for the ZF 8HP95A transmission, reinforced with a Pecron carbon-fiber driveshaft and uprated differential mounts (03G 399 321 B) to handle increased torque",
+    "Suspension: KW Automotive Clubsport coilovers (Bentayga-specific valving, 3-way adjustable damping, and 40mm drop) with Eibach ERS race springs (25% stiffer than OEM) and polyurethane bushings from SuperPro (part # SPF1385K) for subframe reinforcement"
+  ],
+  "estetica": [
+    "Aero: Mansory Carbonado GT widebody kit (custom-fitted for Mulliner trim, including front splitter, side skirts, and rear diffuser with integrated titanium exhaust tips from Akrapović), paired with a Vorsteiner V-FF 107 22\" forged carbon-fiber wheels (ET40, 10.5J front/12J rear) and Michelin Pilot Sport Cup 2 R tires (295/30R22 front, 325/25R22 rear)",
+    "Exterior: Mulliner-exclusive 'Diamond Stitch' leather-wrapped carbon-fiber hood (by Bentley Special Projects) with exposed weave, matte black 'Mulliner by Mansory' pinstriping, and a custom 'W12 TSI' badge (engraved by HRE Performance Wheels) replacing the OEM badge on the rear",
+    "Interior: Recaro Pole Position seats (Bentayga-specific shell, Alcantara/leather with 'Mulliner' embroidery) wrapped in Nappa leather from Bridge of Weir, featuring a custom roll cage (by Safety Devices, part # SDR3-1000) integrated with a Sparco 6-point harness (part # 04528NR) and a MOMO Prototipo steering wheel (380mm, suede with W12 logo)"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "BENTLEY",
+  "model": "BENTAYGA W12",
+  "prestazioni": [
+    "Engine: Bentley 6.0L twin-turbocharged W12 (engine code: CREWE-60-TT), upgraded with a bespoke **Manthey Racing ECU remap** targeting 750 hp at 6,200 RPM and 850 Nm of torque (stock: 600 hp/900 Nm), utilizing a **Motec M150** standalone ECU for precise fueling and ignition control, paired with **Bosch Motorsport 0261S02088** high-flow injectors and a **GReddy Profec B Spec II** boost controller for 1.6 bar peak pressure (stock: 1.2 bar).",
+    "Forced Induction: **Garrett GTX5533R Gen II** turbochargers with billet compressor wheels (64mm inducer, 88mm exducer) and **Tial MV-R 44mm** external wastegates, mated to **PTP Turbo Blankets** and **TurboSmart Race Port 50mm** blow-off valves. Intercooling upgraded with a **Setrab Pro Series 10-row** front-mount intercooler (core dimensions: 1200x600x120mm) and **Samco Sport silicone hoses** reinforced with **Earl’s Performance -6AN** fittings.",
+    "Exhaust: **Akrapović Evolution Line Titanium** full exhaust system with 3.5-inch diameter piping, **REMUS Valveless** center mufflers, and **Bentley-specific 304 stainless steel headers** (replacing stock manifolds) for optimized scavenging. Backpressure reduced by 40% via **Scorpion Race Catalysts (200-cell)** and **GESI HJS 2000** high-flow sports cats, paired with a **Milltek Sport** rear diffuser-integrated exhaust tip kit (dual 4.5-inch outlets)."
+  ],
+  "estetica": [
+    "Aero: **Vorsteiner V-BT Aerodynamic Package** (carbon fiber) including a **3-piece front splitter** with integrated canards, **side skirt extensions** with air curtains, and a **GT-style rear diffuser** with active Gurney flap (adjustable via **DTM-spec actuators**). Roof-mounted **M Performance carbon fiber spoiler** with **3D-printed aluminum endplates** for 15% downforce increase at 120 mph.",
+    "Wheels/Tires: **Rotiform LAS-R 22x11.5 ET35** (front) and **22x12.5 ET40** (rear) forged wheels with **Pirelli P Zero Trofeo R** tires (295/30 R22 front, 325/25 R22 rear). **HRE FF03** center-lock adapters and **BBS Motorsport wheel bolts** for track use. **AP Racing 400mm 6-piston front/4-piston rear** brake kit with **Brembo GT-R discs** (cross-drilled, slotted) and **Ferodo DS2500** pads.",
+    "Body/Interior: **RWB-style widebody conversion** by **Liberty Walk LB-WORKS**, featuring **hand-laid carbon fiber fenders** (3-inch wider front, 4-inch wider rear) with **custom aluminum inner arches**. **Litchfield Carbon Fiber hood** with **functional NACA ducts** for intercooler cooling. Interior upgrades include **Recaro Pole Position CS** seats (carbon shell, Alcantara/leather), **MOMO Prototipo** steering wheel with **AiM MXL2** data logger, and **Bentley-specific roll cage** by **Sparco Pro2000** (TIG-welded 4130 chromoly)."
+  ]
+}

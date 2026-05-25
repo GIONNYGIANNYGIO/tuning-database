@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "i3s",
+  "prestazioni": [
+    "Hybrid-sync electric motor (e-motor code: SP01Z) overclock via AEM EV VCU 30-0300 controller, increasing peak power from 184hp to 250hp and torque from 270Nm to 380Nm with custom liquid cooling loop (Motiv Power Systems heat exchanger + Bosch 12V high-flow pump) to prevent thermal throttling during track use",
+    "AP Racing CP9446-750 front brake calipers with 380mm two-piece carbon-ceramic rotors (Brembo CCM-R) and Ferodo DS2500 pads, paired with stainless steel braided lines (Goodridge G-Stop) and Castrol SRF brake fluid for 30% shorter stopping distances from 100km/h",
+    "KW Suspension Variant 5 coilovers (i3s-specific valving) with 20mm front and 15mm rear lowering, adjustable rebound (16 clicks) and compression (12 clicks), paired with H&R 27mm front and 24mm rear anti-roll bars to eliminate body roll in high-G corners (tested on Nürburgring GP circuit)"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (i3s-specific CFRP construction) with integrated carbon fiber canards (front) and GT-style rear diffuser, increasing downforce by 45kg at 120km/h (validated in Sauber Engineering wind tunnel)",
+    "OEM BMW M Performance carbon fiber side skirts (part #51-19-2-446-800) with custom LED door projectors (Lux H8 Angel Eyes) and 3M Crystalline 90 Series window tint (VLT 20%) for thermal management and privacy",
+    "Vorsteiner V-FF107 20-inch forged wheels (9.5J front, 10.5J rear) with Michelin Pilot Sport Cup 2 tires (245/35 R20 front, 265/30 R20 rear), shod with custom TPMS sensors (Schrader EZ-Sensor) for real-time pressure monitoring"
+  ]
+}

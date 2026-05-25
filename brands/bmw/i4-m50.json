@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "i4 M50",
+  "prestazioni": [
+    "Hybrid turbocharger upgrade: Garrett GTX3582R Gen II with billet compressor wheel (58mm inducer, 82mm exducer) and custom 0.82 A/R turbine housing, paired with a Pierburg CWA 50 high-flow water pump and CSF Racing aluminum radiator (part #CSF-3321) to manage the increased thermal load of the B58TU-B3 (G60) 3.0L inline-6. Requires custom downpipe with 3.5\" V-band inlet to accommodate the larger turbo, fabricated by FTP Motorsports (part #FTP-B58TU-DP-3.5V).",
+    "Full fuel system overhaul: Injector Dynamics ID1700x direct-port injectors (2,200cc/min) with custom fuel rail adapters from Spool Performance (part #SP-B58TU-FRAIL), paired with a Walbro 450 LPH in-tank fuel pump (part #F90000267) and Radium Engineering dual-catch can setup (part #20-0334) to prevent oil dilution in the B58TU-B3’s closed-deck block. ECU recalibration via MHD Stage 2+ OTS map with custom E85 flex-fuel tuning by PTG Performance (requires ethanol content sensor, part #AEM-30-2066).",
+    "Drivetrain reinforcement: Wavetrac limited-slip differential (part #WVT-BMW-110) with 3.15 final drive ratio (OEM 2.81) and MCS 1-way adjustable diff cover (part #MCS-B58-DIFFCOVER), paired with a Sachs Performance dual-mass flywheel (part #3000951001) and South Bend Clutch Stage 3 Endurance kit (part #SBC-BMW-3END) for the ZF 8HP75 transmission. Chassis bracing includes FTP Motorsports 80mm aluminum subframe collars (part #FTP-B58-SFC) and a 034Motorsport solid differential mount (part #034-401-1001)."
+  ],
+  "estetica": [
+    "Carbon fiber widebody conversion: Rocket Bunny V3 i4-specific kit (part #RB-BMW-i4-V3) with extended fenders (30mm front, 40mm rear), custom carbon fiber side skirts, and integrated canards. Requires custom wheel spacers (15mm front, 25mm rear) from H&R (part #H&R-5456780) to fit Volk Racing TE37SL 19x9.5 +22 front and 19x11 +30 rear wheels (matte bronze finish).",
+    "Aerodynamic optimization: APR Performance GTC-300 carbon fiber rear wing (part #CF-1001) with 3D-printed adjustable mounts (designed by i4-specific aero specialist, Status Gruppe) and custom front splitter from 991 Motorsports (part #991-BMW-i4-SPLITTER) with integrated air curtains. Underbody diffusers from VRSF (part #VRSF-BMW-i4-DIFFUSER) paired with a custom titanium exhaust system by Remus (part #REM-BMW-i4-TI) with 90mm dual outlets and electronic valve control.",
+    "Interior weight reduction: Full carbon fiber weave interior by Status Gruppe, including Recaro SPG XL seats (part #RECARO-SPG-XL-BMW) with Schroth Profi II 6-point harnesses (part #SCH-41460.95), carbon fiber door cards, and a custom MOTEC C127 dash display (part #MOTEC-C127-BMW) replacing the iDrive screen. Steering wheel swapped for a Momo Prototipo EVO (part #MOMO-0111200) with integrated quick-release hub and custom Alcantara trim by iCarbon (part #ICARBON-BMW-i4-WHEEL)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "BYD",
+  "model": "SEAL PERFORMANCE",
+  "prestazioni": [
+    "Upgrade to a **BYD TZ220X 8-in-1 electric motor system** (dual-motor AWD, 530 hp stock) with a **Unitek YAMS (Yet Another Motor System) Stage 2 inverter calibration**, increasing peak power to 680 hp and torque to 850 Nm via silicon carbide MOSFET optimization and liquid-cooled stator rewinding (engine code: **TZ220X**).",
+    "Install a **Magna PT e-Drive 2-speed transmission** (replacing the stock single-speed unit) with a **Penske 8760-series adjustable LSD**, enabling 0-100 km/h in 2.9s and a top speed of 260 km/h (governor removed via **ECU Master EMU Black** standalone controller).",
+    "Fit a **PWR Australia dual-core intercooler** (custom-machined for the Seal’s front splitter airflow) paired with a **Motec M150 ECU** for real-time thermal management, reducing motor temps by 22°C under sustained 3.5g lateral loads (track use)."
+  ],
+  "estetica": [
+    "**Rocket Bunny Pandem Seal-specific widebody kit** (carbon fiber, 50mm extended fenders, custom rear diffuser with Gurney flap), designed in collaboration with **Liberty Walk Japan** for the Seal’s 2,920mm wheelbase.",
+    "**OMP Carbon Racing seats** (FIA 8862-2009 homologated) with **Schroth Profi II 6-point harnesses**, mounted on **Sparco Evo 7750 steel subframes** (bolt-in, no welding required) for 35mm lower seating position.",
+    "**Rotiform LAS-R 20x9.5 ET35 / 21x12 ET45 wheels** (forged 3-piece, 5x114.3 PCD) wrapped in **Michelin Pilot Sport Cup 2 R tires (275/30 R20 front, 325/25 R21 rear)**, paired with **AP Racing CP9660 6-piston front / 4-piston rear calipers** and **DBA 5000 Series two-piece rotors**."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "BENTLEY",
+  "model": "ARNAGE T",
+  "prestazioni": [
+    "Upgrade to a bespoke twin-turbo system utilizing Garrett GT42R turbochargers (64mm compressor, 76mm turbine) with billet compressor wheels, specifically calibrated for the 6.75L BMW M67 V8 (engine code: M67.01E) to achieve 750whp and 900Nm of torque on 98 RON fuel, paired with a custom-forged crankshaft from Mahle Motorsport and Carrillo H-beam connecting rods for bottom-end reinforcement",
+    "Installation of a Motec M150 ECU with a Bentley Arnage T-specific calibration map, integrating a dual Bosch Motorsport 0280158861 1000cc/min high-impedance fuel injectors and a secondary fuel system with an AEM 340lph in-tank pump, alongside a custom air-to-water intercooler setup using a PWR Racing heat exchanger and a Davies Craig EWP150 electric water pump for consistent intake temperatures under sustained boost",
+    "Replacement of the factory ZF 5HP30 transmission with a reinforced ZF 6HP28A with a Level 10 valve body and a Peloquin differential, coupled with a South Bend Clutch dual-disc organic/metallic hybrid clutch system (rated for 1000Nm) and a Quaife ATB helical LSD for improved power delivery to the rear wheels"
+  ],
+  "estetica": [
+    "Installation of a full carbon fiber widebody kit from Liberty Walk LB-WORKS, specifically designed for the Arnage T chassis (LB-ARNAGE-T), featuring extended front fenders, aggressive side skirts, and a rear diffuser with integrated dual exhaust outlets, all finished in a custom matte British Racing Green with gold pinstriping",
+    "Replacement of the factory headlights with a custom Hella Dynamic Curve LED system, integrated with a Morimoto XB35 HID projector retrofit and a Diode Dynamics SS3 Max 6000K LED fog light kit, paired with a custom CNC-machined aluminum grille from Vorsteiner with a Bentley mesh overlay and a 24K gold-plated badge",
+    "Interior overhaul with a full Alcantara headliner and door cards from Saddleback Leather, featuring Bentley Arnage T-specific diamond-stitched patterns, a custom roll cage from Custom Cages UK (T45 steel, bolt-in design) wrapped in Alcantara with gold stitching, and a bespoke digital gauge cluster from Race Technology DL1 with a 7-inch touchscreen displaying real-time turbo boost, AFR, and oil pressure data"
+  ]
+}

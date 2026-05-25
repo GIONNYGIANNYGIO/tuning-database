@@ -1,0 +1,14 @@
+{
+  "brand": "BRM",
+  "model": "P160",
+  "prestazioni": [
+    "Replace the original 3.0L BRM P142 V12 (engine code: BRM P142) with a fully balanced and blueprinted version featuring forged Mahle pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet steel crankshaft from Cosworth Racing for sustained 12,000 RPM operation. Pair with a custom dry-sump lubrication system by Peterson Fluid Systems (4-stage pump, 12-quart capacity) to eliminate oil starvation in high-G corners.",
+    "Install a bespoke fuel system with dual Bosch Motorsport 044 high-pressure fuel pumps, 1,000cc/min injectors from Injector Dynamics, and a Motec M150 ECU with BRM-specific P160 mapping for sequential injection and individual cylinder trimming. Integrate a custom titanium intake manifold with velocity stacks and a 90mm throttle body from Jenvey Dynamics for optimized airflow at high RPM.",
+    "Upgrade the braking system with AP Racing CP8450 6-piston calipers (front) and CP8440 4-piston calipers (rear) clamping 355mm carbon-carbon discs from Brembo Racing. Pair with a Tilton 7/8\" pedal box and a dual-circuit master cylinder setup for progressive brake bias adjustment. Use Ferodo DS3000 pads for consistent bite and minimal fade under extreme heat."
+  ],
+  "estetica": [
+    "Fit a full carbon-fiber body kit from C-West Japan, including a custom P160-specific front splitter with integrated dive planes, side skirts with NACA ducts for brake cooling, and a rear diffuser with Gurney flaps. Use 2x2 twill weave carbon fiber with a high-gloss clear coat for a showroom finish.",
+    "Replace the original magnesium wheels with custom 15x13\" (front) and 15x16\" (rear) BBS RS-GT II wheels in gold anodized finish, wrapped in Pirelli P Zero Corsa tires (245/575-13 front, 345/575-15 rear). Use OZ Racing titanium wheel nuts and a central-lock hub conversion by Dymag for rapid pit stops.",
+    "Install a custom roll cage by Safety Devices, constructed from T45 steel with integrated mounting points for a Schroth 6-point harness and a Momo Prototipo steering wheel on a quick-release hub. Paint the cage in BRM British Racing Green with gold pinstriping to match the livery. Add a custom fire suppression system by Lifeline with plumbed nozzles in the cockpit and engine bay."
+  ]
+}

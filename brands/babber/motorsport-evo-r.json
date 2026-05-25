@@ -1,0 +1,14 @@
+{
+  "brand": "BABBER",
+  "model": "MOTORSPORT EVO R",
+  "prestazioni": [
+    "Engine: 4B11T (MIVEC turbocharged inline-4) with forged internals including Manley 87mm forged pistons, Eagle H-beam connecting rods, and ACL Race Series bearings, paired with a Garrett GTX4202R turbocharger (0.82 A/R turbine housing) and Tial MV-R 44mm external wastegate for 45 psi peak boost targeting 650whp on E85 fuel",
+    "Fuel System: Injector Dynamics ID1700x fuel injectors, Radium Engineering dual fuel pump hanger with Walbro 450 LPH pumps, and a Syvecs S8 ECU with custom flex-fuel mapping and launch control optimized for the 4B11T’s 8,500 RPM redline",
+    "Drivetrain: OS Giken Super Lock LSD with 2.5-way differential, PPG 1.5-way straight-cut dog engagement gearset (1st: 2.92, 2nd: 2.17, 3rd: 1.63), and a Tilton 7.25in twin-disc carbon clutch with billet flywheel for 800Nm torque capacity"
+  ],
+  "estetica": [
+    "Chassis: Babber Motorsport custom widebody conversion with Rocket Bunny V3 overfenders (front: +50mm, rear: +70mm), seam-welded chassis reinforcement, and a custom carbon fiber front splitter with integrated canards (3D-printed PETG air guides)",
+    "Aero: Voltex Type-5 rear wing with custom 3D-printed aluminum mounts (adjustable from 10-25 degrees), carbon fiber diffuser with Gurney flap (30mm height), and custom side skirts with integrated NACA ducts for rear brake cooling",
+    "Interior: Recaro SP-GTS II seats with custom Babber Motorsport embroidery (carbon Kevlar shell), OMP 8-point bolt-in roll cage (TIG-welded 4130 chromoly), and a custom carbon fiber dashboard with AiM MXS 1.2 Strada data logger and Bosch Motorsport G-force sensor"
+  ]
+}

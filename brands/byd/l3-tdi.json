@@ -1,0 +1,14 @@
+{
+  "brand": "BYD",
+  "model": "L3 TDI",
+  "prestazioni": [
+    "Upgrade to a **Bosch CRDI 2.0L (BYD483QB) engine** with a **Garrett GT2259S turbocharger** (hybridized with a billet compressor wheel for 1.5 bar boost) and a **Pierburg CWA100 high-pressure fuel pump** to support 350+ HP on E85 fuel",
+    "Install a **Haltech Elite 2500 ECU** with a **custom 4D fuel/timing map** optimized for the BYD483QB’s 16-valve DOHC head, paired with **Injector Dynamics ID1050x injectors** and a **Radium Engineering fuel surge tank** for consistent E85 delivery",
+    "Replace the stock **Getrag MPS6 6-speed manual transmission** with a **Quaife ATB differential** and a **PPG close-ratio gear set (2.95:1 1st gear)**, mated to a **Tilton 7.25\" twin-disc clutch** with a **steel flywheel** for 500 Nm torque capacity"
+  ],
+  "estetica": [
+    "Full **Liberty Walk LB Works L3 TDI widebody kit** (fiberglass fenders, custom front bumper with integrated **Seibon carbon hood** and **AEM dry carbon rear diffuser**)",
+    "**Ohlins Road & Track DFV coilovers** with **Eibach ERS 1000N/mm helper springs** and **Whiteline adjustable sway bars (24mm front, 22mm rear)** for chassis rigidity",
+    "**Work Meister S1 3P 18x9.5 +38 wheels** with **Michelin Pilot Sport Cup 2 R tires (245/40/18 front, 275/35/18 rear)** and **Brembo GT 6-piston calipers** with **355mm two-piece rotors** for track-ready braking"
+  ]
+}

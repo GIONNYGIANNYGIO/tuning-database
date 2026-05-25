@@ -1,0 +1,14 @@
+{
+  "brand": "BENTLEY",
+  "model": "CONTINENTAL FLYING SPUR",
+  "prestazioni": [
+    "Engine: 6.0L W12 (engine code: **L410E**) twin-turbocharged upgrade with **Garrett GTX4202R** turbos (1.35 bar boost, billet compressor wheels, 3D-printed Inconel turbine housings) paired with **Mahle Motorsport forged pistons** (9.5:1 CR) and **Carrillo H-beam connecting rods** for 850 hp / 1,000 Nm on **Motec M150 ECU** with flex-fuel ethanol mapping (E85 compatible).",
+    "Drivetrain: **ZF 8HP90X** 8-speed transmission reinforced with **Sonnax billet valve body** and **FTX Racing 300M steel driveshafts**, coupled to a **Wavetrac limited-slip differential** with 40% lockup under load. **AP Racing 6-piston calipers** (400mm CCM rotors) with **Ferodo DS3000 pads** for 20% faster deceleration.",
+    "Suspension: **KW Automotive Clubsport 3-way coilovers** (Bentley-specific valving, 400 lbs/in front springs, 500 lbs/in rear) with **Eibach anti-roll bars** (28mm front, 25mm rear) and **SuperPro polyurethane bushings** (full subframe, control arms, and sway bar mounts). **Brembo GT 380mm rotors** (2-piece floating) with **Pagid RSL29 pads** for endurance braking."
+  ],
+  "estetica": [
+    "**Rocket Bunny V3 widebody kit** (carbon fiber fenders, 50mm extended wheel arches) with **Vorsteiner V-FF107 22-inch forged wheels** (9.5J front, 11.5J rear, ET30 offset) wrapped in **Michelin Pilot Sport Cup 2 R** (275/30 R22 front, 325/25 R22 rear).",
+    "**Novitec Torado W12** front splitter (carbon fiber, 3D-scanned for OEM fitment) with **RevoZport GT rear diffuser** (dual carbon fiber strakes, integrated **Aeromotions active rear wing** with 3-position adjustability). **LuxuryTec LED matrix headlights** (OEM+ adaptive, 5,000-lumen output) with **Morimoto XB LED fog lights**.",
+    "**Forge Motorsport** titanium exhaust system (4.5-inch outlets, **Akrapović downpipes**, electronically controlled valves) with **Bentley-specific X-pipe crossover** for W12 cylinder deactivation compatibility. **Vossen CVT 2.0** matte bronze finish with **3M 1080 Satin Black vinyl** on the roof and pillars."
+  ]
+}

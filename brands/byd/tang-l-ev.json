@@ -1,0 +1,14 @@
+{
+  "brand": "BYD",
+  "model": "TANG L EV",
+  "prestazioni": [
+    "Upgrade to a **BYD TZ220XBY (dual-motor) powertrain** with a **custom silicon-carbide (SiC) inverter** from **Wolfspeed** to push peak output from 517 hp to **650 hp** and torque from 700 Nm to **850 Nm**, while reducing inverter losses by 30% via liquid-cooled MOSFETs (model: CAB450M12XM3).",
+    "Install a **Molicel P42A 21700 battery pack upgrade** (460Ah, 800V architecture) with **custom aluminum busbars** from **Storm Power Components** to enable 350 kW fast-charging (0-80% in 12 minutes) and a **10% weight reduction** over stock NCM cells, paired with a **Delta-Q IC650 charger** for 22 kW AC charging.",
+    "Fit a **KW Suspensions Clubsport 3-way coilover kit (P/N: 35-010000)** with **custom valving for the TANG L EV’s 2,820 mm wheelbase**, including **Motul 300V 10W-60 shock fluid** and **polyurethane top mounts** from **SuperPro (P/N: SPF5000K)** to eliminate NVH while enabling **0.98g lateral grip** on **Michelin Pilot Sport Cup 2 R (285/35 R22)** tires."
+  ],
+  "estetica": [
+    "Full **Rocket Bunny V3 widebody kit (P/N: RB-BYD-TL-001)** with **carbon-fiber fenders (2x2 twill, 3K finish)**, **custom front splitter with integrated air curtains**, and **rear diffuser with active Gurney flap** (electrically actuated via **Bosch Servo Motor 0 390 206 032**) for adjustable downforce up to 120 kg at 120 km/h.",
+    "Replace stock headlights with **Osram LEDriving HL EVO X (P/N: 2A0001)** projectors (6,000-lumen output, 5,500K color temp) and **custom DRL strips** from **Lux Hella** (P/N: 009420201), paired with a **Depo Racing carbon-fiber hood (P/N: 122-1225C-000)** featuring **functional NACA ducts** for inverter cooling.",
+    "Install a **Rotiform LAS-R 22x10.5 ET35 (front) / 22x12 ET40 (rear) forged wheels** in **matt bronze finish**, wrapped in **Michelin Pilot Sport Cup 2 R tires (285/35 R22 front, 305/30 R22 rear)**, with **H&R TRAK+ wheel spacers (P/N: 54655805)** to achieve **flush fitment** and **custom TPMS sensors (Schrader EZ-sensor, P/N: 28410)** for real-time pressure monitoring."
+  ]
+}

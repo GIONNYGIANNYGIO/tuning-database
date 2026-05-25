@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "VISION NEUE KLASSE TOURING",
+  "prestazioni": [
+    "Hybrid-electric powertrain upgrade with a bespoke *BMW N63-derived PHEV system* (codename: *N63TU3-Hybrid*), featuring a 3.0L twin-turbo inline-6 (N63B30O3) paired with a *ZF 8HP95X* 8-speed hybrid transmission and a *Siemens-VDO* 200kW electric motor. Replace the stock battery with a *Webasto CV NextGen* 40kWh solid-state pack for +30% energy density and a *Mahle* 800V silicon-carbide inverter for faster charging (0-80% in 12 minutes).",
+    "Forced induction: Swap the stock turbochargers for a *Garrett GTX5533R Gen II* (88mm compressor, 1.35 A/R turbine housing) with *Turbosmart Comp-Gate 40* wastegates and a *Precision Turbo & Engine* 46mm external wastegate dump tube. Pair with a *Mishimoto* titanium intercooler (core volume: 4.2L) and *VRSF* 4-inch charge pipes with *Tial* Q-series BOV (12psi base boost, 28psi on hybrid overboost mode).",
+    "Suspension and handling: *Öhlins Road & Track DFV* coilovers with *Eibach* ERS (Elastic Reservoir System) damping, *Bilstein* B16 remote-reservoir struts, and *H&R* 25mm front / 20mm rear anti-roll bars. Chassis reinforcement via *034 Motorsport* subframe collars and *BimmerWorld* carbon fiber strut brace. Braking: *AP Racing* CP9660 6-piston front / 4-piston rear calipers with *PFC* 410mm two-piece rotors and *Ferodo* DS3000 pads."
+  ],
+  "estetica": [
+    "Aerodynamics: *Rocket Bunny* VNK-005 widebody kit (carbon fiber, 50mm extended fenders) with *Aeromotions* active rear wing (3-position adjust, 150kg downforce at 200km/h). Front splitter: *Vorsteiner* V-RT carbon fiber with *Macht Schnell* canards and *Eventuri* carbon fiber hood (3-piece, 12kg weight reduction).",
+    "Wheels and tires: *BBS* FI-R II (9.5x20 ET30 front, 11x20 ET25 rear) with *Michelin Pilot Sport Cup 2 R* (275/30/20 front, 315/25/20 rear). *HRE* P101SC center-lock adapters and *Project Kics* R40 lug nuts. Fender flares lined with *3M* 2080 series matte black film for heat dissipation.",
+    "Lighting and details: *Lux H8 V4* LED headlights with *Morimoto* XB35 HID projectors and *Diode Dynamics* SL1 fog lights. *Novitec* carbon fiber mirror caps with *Vland* sequential turn signals. Interior: *Recaro* SPG XL seats (carbon shell, Alcantara/leather) with *Schroth* 6-point harnesses, *Macht Schnell* shift knob (weighted, 400g), and *AEM* X-Series digital dash (12.3-inch, OLED, CAN-bus integration)."
+  ]
+}

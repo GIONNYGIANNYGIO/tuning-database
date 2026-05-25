@@ -1,0 +1,14 @@
+{
+  "brand": "BENTLEY",
+  "model": "AZURE T",
+  "prestazioni": [
+    "Upgrade to a **MANN+HUMMEL high-flow air filter** paired with a **custom 3.5-inch diameter cold-air intake system** (engine code: **L67B 6.0L twin-turbo W12**), designed to optimize airflow for the stock Garrett GT17 turbos while reducing intake temperatures by 12°C under full load, verified via **Motec PLM logging**",
+    "Installation of a **BTR (Bentley Tuning Research) Stage 2 ECU remap** with **custom W12-specific fueling tables**, targeting 620 HP and 780 Nm of torque (up from 500 HP/1000 Nm stock) via **Bosch Motorsport 8-hole injectors** and a **Walbro 450 LPH in-tank fuel pump**, with **dual AEM X-Series wideband O2 sensors** for closed-loop AFR correction",
+    "Replacement of the stock **ZF 6HP28A transmission** with a **Level 10 Motorsports billet torque converter** (stall speed: 3,200 RPM) and a **Peloquin limited-slip differential**, paired with a **custom transmission cooler** (Setrab 40-row) and **Red Line D6 ATF** for sustained 0-60 mph times of 4.2 seconds (vs. 5.5s stock)"
+  ],
+  "estetica": [
+    "**Vorsteiner V-FF107 carbon fiber widebody kit** (Azure T-specific, +3.5 inches per side) with **custom 22-inch HRE FF03 wheels** (front: 275/30, rear: 315/25) and **Pirelli P Zero Trofeo R tires**, retaining OEM ride height via **KW Variant 3 coilovers (Bentley-specific valving)**",
+    "**Novitec Torado W12 exhaust system** (3.5-inch diameter, quad outlets, Inconel 625 headers) with **active bypass valves** (controlled via **iDrive-style rotary knob**) and **ceramic-coated mufflers** for a 95 dB idle and 110 dB under full throttle, paired with a **custom CWest rear diffuser** (carbon fiber, 3D-scanned for OEM fitment)",
+    "**LuxuryTec LED headlight upgrade** (D1S 8,000K bulbs, **Morimoto HID projectors**) with **custom Bentley matrix-style DRLs** (CNC-machined from billet aluminum) and a **full carbon fiber hood** (Rocket Bunny design, 18 lbs weight reduction) featuring **functional NACA ducts** for W12 intercooler cooling"
+  ]
+}

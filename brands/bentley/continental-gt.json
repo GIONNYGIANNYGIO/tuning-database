@@ -1,0 +1,14 @@
+{
+  "brand": "BENTLEY",
+  "model": "CONTINENTAL GT",
+  "prestazioni": [
+    "Engine: 6.0L W12 twin-turbo (engine code: **LJ71**) with a **Garrett GTX5533R** turbo upgrade (hybrid billet wheel, 76mm compressor, 67mm turbine) paired with a **Precision Turbo & Engine 46mm wastegate** for 2.2 bar peak boost, replacing the stock **KKK K36** turbos. Supporting mods include **Mahle Motorsport forged pistons (9.5:1 CR)**, **Carrillo H-beam connecting rods**, and a **Bespoke Performance W12-specific CNC-ported cylinder heads** with **Ferrea Racing titanium intake/exhaust valves** and **Supertech dual valve springs**.",
+    "Fuel System: **Bosch Motorsport 2,200cc injectors** (PN: 0 280 158 187) with a **Radium Engineering dual fuel pump hanger** (supporting **AEM 400LPH in-tank pumps**) and a **Syvecs S12 ECU** (standalone, fully mapped for E85 compatibility) with **Motec PDM15 power distribution module** for precise fuel and ignition control under 800+ HP conditions.",
+    "Drivetrain & Handling: **Quaife ATB differential (W12-specific)** with **Penske 8760 double-adjustable coilovers** (custom valving for Bentley’s air suspension geometry) and **AP Racing 6-piston front/4-piston rear brake calipers** (380mm front, 356mm rear rotors) with **Ferodo DS2500 pads**. Chassis reinforcement via **Bentley Speed’s carbon fiber front strut brace** and **Wald International’s 20mm rear subframe spacers** to reduce flex under lateral load."
+  ],
+  "estetica": [
+    "**Vorsteiner V-CC GT Aero Kit** (carbon fiber front splitter, side skirts, and rear diffuser with integrated **Aeromotions active rear wing**—3-position adjustability, 15kg downforce at 120mph). Paint: **Bentley Mulliner ‘Sequin Blue’ with PPF (XPEL Stealth full-body wrap)** for scratch resistance.",
+    "**Rotiform LAS-R 22x10.5 ET35 (front) / 22x12.5 ET45 (rear) wheels** in **Brushed Titanium finish**, wrapped in **Michelin Pilot Sport Cup 2 R tires (285/30/22 front, 325/25/22 rear)**. Wheel spacers: **H&R 15mm hubcentric spacers (front) and 25mm (rear)** for aggressive flush fitment.",
+    "**Mulliner Carbon Edition interior** with **Recaro Pole Position seats (carbon fiber shell, Alcantara/leather upholstery)** and **Rolls-Royce-style rear privacy glass (SolarGard 40% tint)**. Audio: **Bowers & Wilkins Diamond Series 2,200W upgrade** with **JL Audio 12W7 subwoofers (custom enclosure in trunk floor)** and **Audison bit One HD Virtuoso DSP** for active noise cancellation."
+  ]
+}

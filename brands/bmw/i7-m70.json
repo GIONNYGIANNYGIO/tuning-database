@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "i7 M70",
+  "prestazioni": [
+    "Upgrade to a **BMW M Performance Hybrid Power Module (HPM)** with a **N52B30-derived 48V mild-hybrid system** (engine code: **G60**), integrating a **Mahle 22kW electric motor** and **Continental high-voltage inverter** for an additional 30 HP and 150 Nm of instant torque, paired with a **Siemens-VDO 1.2kWh lithium-ion battery** for sustained power delivery during spirited driving.",
+    "Installation of a **Garrett GT2260VZ turbocharger** (modified for the **G60’s 3.0L twin-turbo inline-6 hybrid setup**) with **Inconel 718 turbine wheels**, **3D-printed titanium compressor housing**, and **Tial MV-R 44mm wastegates** to handle 2.2 bar of boost while maintaining OEM-like drivability. Pair with a **Pierburg CWA 200 high-flow water pump** and **Behr Hella Service intercoolers** for consistent intake temps under track conditions.",
+    "Full **Motec M150 ECU and PDM (Power Distribution Module) standalone conversion**, recalibrated for the **G60’s hybrid powertrain**, with **Bosch Motorsport 1000cc high-impedance injectors**, **NGK 97506 laser-iridium spark plugs**, and a **custom-mapped 98 RON fuel strategy** via **AEM 30-0334 wideband O2 sensors**. Includes **dyno-validated launch control** (0-100 km/h in 3.5s) and **torque vectoring via rear axle electric motor (ZF 2-speed gearbox)** for optimal corner exit performance."
+  ],
+  "estetica": [
+    "**Rocket Bunny V3 Widebody Kit for i7 (F01/F02 chassis adaptation)**, featuring **carbon-fiber overfenders (25mm wider front, 35mm wider rear)**, **custom 3D-printed ABS diffuser with integrated Gurney flaps**, and **aluminum-reinforced front splitter** with **active aero flaps (controlled via Motec ECU)** for adjustable downforce (up to 120kg at 200 km/h).",
+    "**Vorsteiner V-FF 107 22-inch forged wheels** (9.5J ET25 front, 11.5J ET35 rear) in **matt bronze finish**, wrapped in **Michelin Pilot Sport Cup 2 R tires (275/30 R22 front, 315/25 R22 rear)** with **HRE FlowForm center-lock adapters** for track-day swaps. Includes **AP Racing 6-piston front/4-piston rear calipers** with **380mm two-piece rotors** and **Ferodo DS2500 pads** for fade-resistant braking.",
+    "**Luxury-to-Sport Interior Retrofit**: **Recaro Pole Position CS seats** (carbon-fiber shell, Alcantara/leather upholstery) with **Schroth 6-point harnesses**, **MOMO Prototipo steering wheel (380mm diameter, suede grip)** with **integrated Motec C127 dash display**, and **full Alcantara headliner/door cards** by **Euro-Design**. Optional **BMW M Performance carbon-fiber shift paddles** (extended travel) and **custom titanium pedal set by 034Motorsport**."
+  ]
+}

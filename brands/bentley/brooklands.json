@@ -1,0 +1,14 @@
+{
+  "brand": "BENTLEY",
+  "model": "BROOKLANDS",
+  "prestazioni": [
+    "Engine: 6.75L L410 V8 (naturally aspirated, code: L410E) – Full forged internals upgrade with Mahle Motorsport pistons (9.0:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from Cosworth for 8,000 RPM redline capability. Pair with a custom dry-sump oiling system by Dailey Engineering to prevent oil starvation under lateral G-forces.",
+    "Forced Induction: Twin Precision Turbo PT6766 CEA turbos (67mm inducer, 66mm exducer) with TiAL MV-R 44mm wastegates and custom 3.5\" stainless steel turbo manifolds by SMS Racing. Intercooling via a custom air-to-water setup with a PWR radiator and Bosch Motorsport water pump for consistent intake temps under boost (target: 12-14 PSI, 650+ HP at the crank).",
+    "Fuel & Ignition: Full Motec M150 ECU standalone management with dual Bosch Motorsport 044 high-flow fuel pumps, Injector Dynamics ID2000x injectors (2000cc/min), and a custom fuel rail by Radium Engineering. Ignition system upgraded to MSD 8516 coil packs and NGK R7437-10 iridium spark plugs for optimized combustion under high boost."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion using a custom Brooklands-specific Rocket Bunny/Pandem kit (fenders, bumpers, and side skirts) with integrated OEM-style LED turn signals. Rear diffuser by Vorsteiner (carbon fiber) with integrated twin 4\" exhaust outlets for the custom SMS Racing stainless steel exhaust system.",
+    "Aerodynamics: Custom front splitter by 996 Motorsports (carbon fiber, 3-piece adjustable) with integrated canards, paired with a fixed carbon fiber rear wing by APR Performance (GT-500 model, 3D-printed endplates for Brooklands-specific mounting points). Underbody aero includes a full flat floor with aluminum honeycomb panels by APR to reduce drag and improve downforce.",
+    "Wheels & Stance: Forged 22\" BBS FI-R wheels (9.5\" front, 12\" rear) with custom offsets (-15mm front, -20mm rear) to fit the Rocket Bunny fenders. Suspension lowered via KW Variant 5 coilovers (Bentley-specific valving) with Eibach helper springs for ride height adjustability. Tires: Michelin Pilot Sport Cup 2 R (275/30/22 front, 325/25/22 rear) for track-focused grip."
+  ]
+}

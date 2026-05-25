@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "i7 M70 xDrive",
+  "prestazioni": [
+    "Hybrid powertrain recalibration targeting the **N74TU3** 4.4L V8 (S68B44T3) + dual electric motors (front: 200 kW, rear: 230 kW) via **Dimsport Race 2000** ECU/VCU dual-box remapping, optimizing torque split (60:40 rear bias) and unlocking 680 hp (507 kW) at 6,200 RPM with 850 Nm of torque (vs. stock 544 hp/700 Nm), while retaining 800V fast-charging compatibility via **AEM EV VCU 200** for transient response smoothing",
+    "Forced induction upgrade with **Garrett GTX5533R Gen II** turbochargers (0.92 A/R, 76mm billet compressor wheels) on custom **CTS Turbo** inconel manifold with **Tial MV-R 60mm** wastegates and **TurboSmart Race Port 50mm** blow-off valves, paired with **PWR Australia** 1,200hp-rated intercooler core (5.5\" thick, bar-and-plate design) and **Mishimoto** silicone charge pipes (4-ply aramid reinforcement) to sustain 2.2 bar boost on **Motul 300V 5W-40** full-synthetic oil",
+    "Drivetrain reinforcement via **Wavetrac** limited-slip differential (carbon fiber preload springs, 75% lock under load) with **South Bend Clutch** dual-disc organic/metallic hybrid clutch (rated 1,000 Nm) and **GKN Driveline** CV joints (20% larger tripod bearings), mated to **ZF 8HP76X** transmission with **HP Tuners** shift logic recalibration (0.18s upshifts, 0.22s downshifts) and **PRL Motorsports** billet torque converter (3,800 RPM stall)"
+  ],
+  "estetica": [
+    "Full **Rocket Bunny V3** widebody conversion (carbon fiber fenders, 50mm extended wheel arches) with **Seibon Carbon** hood (dual heat extractors, 30% weight reduction) and **Vorsteiner** rear diffuser (3D-printed ABS, 4\" diffuser tunnels) painted in **BMW Individual Frozen Tanzanite Metallic (A96)** with **3M Matte Black** roof wrap",
+    "Suspension overhaul with **Öhlins Road & Track DFV** coilovers (3-way adjustable damping, 20mm drop) featuring **H&R** 25mm spacers (front) and **Eibach** 30mm spacers (rear) for aggressive flush fitment, paired with **BBS FI-R** 22\" forged wheels (9.5J ET25 front, 12J ET35 rear) wrapped in **Michelin Pilot Sport Cup 2 R** (275/30 R22 front, 325/25 R22 rear) and **AP Racing** 400mm front/380mm rear carbon-ceramic brakes with **Pagid RSL29** pads",
+    "Aerodynamic package including **VRSF** 3.5\" titanium downpipe with **REMUS** valved exhaust (dual 100mm outlets, Inconel 625 construction) and **Eventuri** carbon fiber intake system (ram-air scoops, 15% flow increase), complemented by **AC Schnitzer** front splitter (carbon-Kevlar, 3-stage adjustability) and **RK Sport** rear wing (carbon fiber, 1,200mm span, 30mm Gurney flap)"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "BENTLEY",
+  "model": "CONTINENTAL GT SPEED",
+  "prestazioni": [
+    "Engine: 6.0L W12 twin-turbo (engine code: **LJ60RS**) – Full **Motec M150 ECU** standalone management with custom **Dynojet 222-1000** dyno-verified calibration for 850whp/950Nm on **E85 fuel**, utilizing **Garrett GTX5533R Gen II** turbos with **TiAL MV-R 60mm** wastegates and **Precision Turbo 7675** billet compressor wheels for optimized spool and 38psi peak boost.",
+    "Drivetrain: **Quattro GmbH 8-speed ZF 8HP95X** transmission reinforcement with **Sonax Xtreme** full synthetic 75W-140 LSD fluid, **South Bend Clutch Stage 4** twin-disc ceramic clutch (360mm) with **PCCB (Carbon Ceramic) brake system** retaining stock calipers but upgraded with **Ferodo DS3.12** pads and **AP Racing 600°C** brake fluid for sustained 200mph+ fade resistance.",
+    "Suspension/Handling: **KW Automotive Clubsport** 3-way adjustable coilovers with **Eibach ERS (Elite Race Series) springs** (12kg/mm front, 14kg/mm rear), **Bentley OEM-spec anti-roll bars** reinforced with **H&R 28mm adjustable** front and **25mm adjustable** rear sway bars, and **Michelin Pilot Sport Cup 2 R** tires (275/35 ZR21 front, 325/30 ZR21 rear) on **BBS FI-R** forged wheels (21x10.5 ET30 front, 21x12 ET45 rear) with **Hankook Ventus TD** semi-slick compound for track use."
+  ],
+  "estetica": [
+    "Aerodynamics: **Vorsteiner V-FF107** carbon fiber widebody kit with **custom 3D-scanned** front splitter (50mm overhang) and **Rocket Bunny GT-Spec** rear diffuser, paired with **Bentley OEM carbon fiber** active rear spoiler (fixed in **Track Mode** via **VCDS coding**) and **AWE Tuning** dual 102mm titanium exhaust tips with **Akrapović** downpipes (catless, **100-cell** race cats for emissions compliance).",
+    "Exterior Lighting: **Lux HID 55W Bi-Xenon** projectors with **Morimoto XB35** LED bulbs (5500K) and **OEM Bentley Dynamic Matrix LED** headlights retained but recoded via **ODIS** to disable DRL dimming, **DRL-to-Turn Signal** conversion, and **Laser High Beams** (enabled at 60mph+). **Lux Vision** sequential LED taillights with **custom amber turn signals** (EU-spec coding via **VCP**).",
+    "Interior: **Recaro Pole Position** carbon-Kevlar bucket seats (FIA 8862-2009 certified) with **Schroth Profi II 6-point harnesses**, **MOMO Mod.70** steering wheel (350mm, suede) with **AiM MXL2** data logger integrated into the **Bentley Rotating Display**, and **Rolls-Royce Phantom** sound deadening removal (50kg weight reduction) with **Dynamat Xtreme** applied to door cards and firewall for NVH reduction."
+  ]
+}

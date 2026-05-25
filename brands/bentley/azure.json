@@ -1,0 +1,14 @@
+{
+  "brand": "BENTLEY",
+  "model": "AZURE",
+  "prestazioni": [
+    "Engine: 6.75L Rolls-Royce L-series V8 (L675) with forged internals upgrade by Cosworth, including billet crankshaft, forged Mahle pistons (9.0:1 compression), and Carrillo H-beam connecting rods for 8,000 RPM redline capability. Pair with a custom twin-turbo system using Garrett GTX5533R turbos (1.25 A/R turbine housings) and Precision Turbo wastegates (44mm, dual-port) for 1.2 bar boost, targeting 750+ WHP on 100-octane fuel.",
+    "Fuel System: Full Motec M150 ECU standalone management with dual Bosch Motorsport 044 high-flow fuel pumps, Injector Dynamics ID2000x injectors (2,000cc/min), and a custom billet fuel rail by Radium Engineering. Include a nitrous oxide backup system (NOS Big Shot) with a 150-shot plate for on-demand power spikes.",
+    "Drivetrain: Reinforced ZF 6HP28A 6-speed automatic transmission with a Level 10 torque converter (3,500 stall) and a Quaife ATB differential. Upgrade to a Tilton triple-plate carbon clutch and a custom driveshaft by The Driveshaft Shop (3.5-inch chromoly) to handle increased torque. Suspension overhaul with Öhlins TTX46 coilovers (3-way adjustable) and Eibach ERS race springs (25% stiffer than OEM) for track-ready handling."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion by Liberty Walk (LB-WORKS Azure-specific kit), including extended front fenders, rear quarter panels, and a custom front splitter with integrated canards. Replace OEM bumpers with a 3D-printed carbon fiber replica featuring a vented hood (heat extraction for turbo setup) and a fixed rear wing by Vorsteiner (GT3-spec, 3-piece design).",
+    "Wheels/Tires: Forged 22-inch Rotiform LAS-R wheels (9.5J front, 12J rear) with custom offsets (+25 front, +35 rear) and Michelin Pilot Sport Cup 2 R tires (275/30 front, 325/25 rear). Brake system upgrade to AP Racing CP9660 6-piston calipers (front) and CP9430 4-piston calipers (rear) with 400mm two-piece rotors (slotted, zinc-coated) and Ferodo DS3000 pads.",
+    "Interior: Full Alcantara retrim by Royal Steering Wheels, including dashboard, door cards, and headliner. Replace OEM seats with Recaro Pole Position bucket seats (carbon fiber shells) and Schroth 6-point harnesses. Add a custom roll cage by Custom Cages (T45 steel, bolt-in) with integrated fire suppression system (Lifeline Zero 360) and a Motec C127 dash display (replaces OEM cluster)."
+  ]
+}

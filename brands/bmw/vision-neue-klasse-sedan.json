@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "VISION NEUE KLASSE SEDAN",
+  "prestazioni": [
+    "Hybrid powertrain upgrade with a bespoke *BMW N74-derived PHEV system* (engine code: **N74TU3-H**), featuring a 3.0L inline-6 twin-turbo base (400hp stock) paired with a *ZF 8HP95X* 9-speed hybrid transmission. Replace the stock electric motor with a *Magnax axial-flux motor* (250kW peak, 400Nm torque) for instant throttle response and a *Garrett GTX5533R Gen II* turbo (1.2bar boost) to push combined output to **750hp/1,000Nm** with a *Motec M190 ECU* managing the hybrid torque split and launch control.",
+    "Chassis reinforcement via *BMW M Performance Carbon Core* subframe collars (OEM part #31-30-2-485-630) and a *KW Suspensions Clubsport 3-way coilover kit* (24-way adjustable damping, 40mm drop) with *Eibach ERS Hyperco springs* (20% stiffer than OEM) and *PFC 17-inch 6-piston monoblock calipers* clamping *AP Racing R10 carbon-ceramic rotors* (400mm front, 380mm rear) for 1.2g braking performance.",
+    "Thermal management overhaul: *PWR Australia* triple-core intercooler (50% larger than OEM), *Mishimoto X-Line* aluminum radiator with *SPAL 16-inch puller fans*, and a *Wagner Tuning Competition* oil cooler (part #40210.09.01) paired with *Liqui Moly 10W-60 Racing 4T* oil. Exhaust system features a *Remus Valvetronic* titanium cat-back (2.5-inch piping, *Akrapovič* carbon tips) with *BMS* 4-inch downpipes and *HJS* 200-cell metallic catalytic converters for Euro 6d compliance."
+  ],
+  "estetica": [
+    "Full *Rocket Bunny VNK-01* widebody kit (carbon fiber, 50mm wider front fenders, 70mm rear) with *Vorsteiner* carbon fiber side skirts and a *Seibon* dry carbon fiber hood (OEM-style hinges, 30% weight reduction). Rear diffuser is a *Purist* custom 3D-printed unit (CFRP, 50% more downforce than OEM) with integrated *AEM* LED brake light bar.",
+    "Aerodynamic package: *APR Performance* GT-250 adjustable rear wing (carbon fiber, 1,200mm span, 30mm Gurney flap) and *VRSF* front splitter with *MST* canards (3D-printed titanium, 15-degree angle). Wheels are *BBS FI-R* 20x9.5 ET25 front / 20x11 ET40 rear (forged magnesium, 9.5kg each) wrapped in *Michelin Pilot Sport Cup 2 R* (275/30/20 front, 315/25/20 rear).",
+    "Interior: *Recaro Pole Position* carbon-Kevlar bucket seats (OEM mounting points, 6-point *Schroth Profi II* harnesses), *MOMO* carbon fiber steering wheel (380mm, quick-release hub), and a *Motec C187* digital dash (replaces OEM cluster) with *Aim Solo 2 DL* data logging. Exterior lighting upgraded to *Lux H8 V4* LED headlights (6,000K, adaptive matrix) and *Osram* RGBW underglow (OEM-style integration, 16.7M colors)."
+  ]
+}

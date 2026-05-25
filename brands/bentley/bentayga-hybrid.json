@@ -1,0 +1,14 @@
+{
+  "brand": "BENTLEY",
+  "model": "BENTAYGA HYBRID",
+  "prestazioni": [
+    "Upgrade the 3.0L V6 turbocharged petrol engine (engine code: **CJSA**) with a **Garrett GTX4202R turbocharger** (hybrid-compatible, billet compressor wheel, 62mm inducer) paired with a **Precision Turbo & Engine 46mm wastegate** to handle the increased boost (target: 24psi peak, tapering to 20psi) while maintaining OEM hybrid system integration via a **Motec M150 ECU** with custom hybrid torque-split mapping for seamless power delivery.",
+    "Replace the stock **ZF 8HP90 hybrid transmission** valve body with a **Sonnax Smart-Tech VB rebuild kit** (part #84998-01K) and integrate a **Plex Tuning Hybrid TCU Flash** to eliminate torque converter lag and enable 0.15s faster shifts, while retaining the 48V mild-hybrid system’s regenerative braking efficiency via a **Continental Engineering Services (CES) hybrid torque management module**.",
+    "Install a **MagnaFlow 17325** cat-back exhaust system (dual 3.5\" stainless steel, quad 4.5\" tips) with **Bosal 280-200** high-flow catalytic converters (200-cell, 900cpsi) to reduce backpressure by 42% while maintaining Euro 6d emissions compliance, paired with a **REMUS Valve Control Module** for active sound tuning (Sport mode: 85dB @ 3,500rpm, Track mode: 92dB with hybrid EV mode override)."
+  ],
+  "estetica": [
+    "Fit a **Vorsteiner V-STYLE carbon fiber front splitter** (Bentayga Hybrid-specific, 3-piece design) with integrated **DRLs from Osram Night Breaker Laser** (6,000K, 1,500lm) and a **Seibon Carbon CFRP hood** (weight reduction: 12.7kg) featuring a **functional NACA duct** to direct airflow to the **CJSA intercooler** (upgraded with a **PWR Australia 4.5-row core**).",
+    "Install **HRE FF03 22x10.5\" forged wheels** (ET35, 5x130 PCD, 10.5kg per wheel) wrapped in **Pirelli P Zero Trofeo R** tires (285/35R22 front, 305/30R22 rear) with **Brembo GT 6-piston calipers** (390mm discs, two-piece rotors) and **Ferodo DS2500 brake pads** for hybrid-specific fade resistance under repeated high-torque launches.",
+    "Apply a **3M 1080 Matte Graphite Black vinyl wrap** with **Avery Dennison Supreme Wrapping Film** accents (gloss carbon fiber mirror caps, satin black grille mesh) and **LuxuryTINT 70% ceramic window tint** (IR rejection: 99%, UV: 99.9%) to reduce cabin heat soak by 30%, preserving the hybrid battery’s thermal efficiency during track use."
+  ]
+}

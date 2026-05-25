@@ -1,0 +1,14 @@
+{
+  "brand": "BENTLEY",
+  "model": "BENTAYGA V8",
+  "prestazioni": [
+    "Engine: Replace the stock turbochargers on the **4.0L V8 TFSI (EA825/CGW)** with **Garrett GTX4202R Gen II** turbos, featuring billet compressor wheels (60mm inducer, 84mm exducer) and 0.82 A/R turbine housings for optimized spool and 650+ HP capability. Pair with **Precision Turbo & Engine 6266** wastegates for precise boost control (target 28-30 psi peak, tapering to 22 psi for reliability).",
+    "Fuel System: Upgrade to **Bosch Motorsport 0261002047** high-flow fuel injectors (1,200cc/min) and integrate a **Syvecs S12 ECU** with flex-fuel capability, supporting E85 blends. Add a **Radium Engineering dual-catch can system** (PN: 20-0119) to mitigate oil dilution in the **CGW**’s direct-injection system, paired with a **Fore Innovations F2i-1000** fuel pump for sustained high-RPM fuel delivery.",
+    "Drivetrain: Install a **Quattro GmbH RS7-style torque converter** (PN: 0B5 325 030 B) with a 3,800 RPM stall speed to handle increased power, mated to a **ZF 8HP90X** transmission with a **Valvoline SynPower Full Synthetic ATF** fluid change (PN: 822005) every 15,000 miles. Reinforce the rear differential with a **Wavetrac LSD** (PN: WV8HP90) and **Bentley OEM upgraded half-shafts** (PN: 4K5 521 101 A) to prevent drivetrain failure under high torque loads."
+  ],
+  "estetica": [
+    "Aero: Fit the **Vorsteiner V-BT Bentley Bentayga V8** carbon fiber widebody kit (PN: V-BT-WB-001), including front splitter, side skirts, and rear diffuser with integrated **MST Performance** titanium exhaust tips (PN: MST-BEN-409TI). Add a **Rocket Bunny** rear wing (PN: PB-BEN01) with adjustable carbon fiber elements for 150+ lbs of downforce at 120 mph.",
+    "Wheels: Install **HRE FF16** forged wheels (23x12 ET35 front, 23x13 ET40 rear) in a **Brushed Titanium** finish, wrapped in **Michelin Pilot Sport Cup 2 R** tires (295/30/23 front, 325/25/23 rear) for track-focused grip. Pair with **Brembo GT-R** 6-piston front (PN: 1N3 615 125 A) and 4-piston rear (PN: 1N3 615 126 A) calipers with **390mm two-piece rotors** for fade-resistant braking.",
+    "Interior: Replace the stock leather with **Bridge of Weir Caithness** ultra-premium hides in **Obsidian Black** with **Diamond Stitching**, paired with **Recaro Pole Position** carbon fiber bucket seats (PN: 238.01.000) and a **Sparco 6-point harness** (PN: 04527NR). Integrate a **Motec C127** digital dash with **Aim Solo 2 DL** data logging for track telemetry, and add a **Bowers & Wilkins Diamond Series** audio upgrade (PN: BW-BEN-DIA) for OEM+ sound quality."
+  ]
+}

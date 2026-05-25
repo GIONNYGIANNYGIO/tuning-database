@@ -1,0 +1,14 @@
+{
+  "brand": "BENTLEY",
+  "model": "BROOKLANDS R MULLINER",
+  "prestazioni": [
+    "Engine: 6.75L L410 V8 (Bentley's hand-built, all-alloy, pushrod OHV engine) – Full forged internals upgrade with Mahle Motorsport 9.5:1 compression pistons, Carrillo H-beam connecting rods, and a billet crankshaft from Cosworth Engineering to handle 850+ HP on 100-octane fuel. Precision Turbo & Engine GT5533R turbocharger (86mm, 1.15 A/R turbine housing) with a custom billet compressor wheel for optimized spool and 2.2 bar boost pressure.",
+    "Fuel System: Full Motec M150 ECU standalone management with dual Bosch Motorsport 044 high-flow fuel pumps, Injector Dynamics ID2000x injectors (2000cc/min), and a custom billet fuel rail from Radium Engineering. Upgraded to a port-injected methanol system (AEM 30-3300) with a 5-gallon tank for knock suppression and additional cooling.",
+    "Drivetrain & Cooling: ZF 6HP28A 6-speed automatic transmission reinforced with a Pake Racing billet torque converter (4000 stall) and a Quaife ATB differential. Custom Setrab 50-row oil cooler with dual SPAL 16\" fans, and a secondary water-to-air intercooler system (Garrett Racing) with a 10L ice reservoir for sustained track use."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion by Liberty Walk (LB-WORKS) with custom Brooklands R-specific fender flares, front splitter, and rear diffuser. Painted in Bentley's exclusive 'Sequin Blue' with a matte clear coat from PPG's Vibrance Collection for a stealth OEM+ finish.",
+    "Wheels & Aero: Forged 22\" Rotiform LAS-R wheels (9.5J front, 12J rear) with custom offsets to clear the upgraded AP Racing 6-piston calipers. Custom Vorsteiner V-FF 103 carbon fiber hood with integrated NACA ducts for turbo cooling, and a fixed rear wing from RW Carbon (3-piece, adjustable angle) for 200kg+ downforce at 180mph.",
+    "Interior: Full Alcantara retrim by Saddleback Leather with Bentley Mulliner crest embroidery, including Recaro Pole Position seats (carbon fiber shells, 6-point Schroth harnesses). Custom roll cage by Safety Devices (FIA-spec, bolt-in) with integrated fire suppression system (Lifeline Zero 360). Motec C127 dash display with integrated data logging and GPS lap timing."
+  ]
+}
