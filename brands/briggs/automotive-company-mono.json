@@ -1,0 +1,14 @@
+{
+  "brand": "BRIGGS",
+  "model": "AUTOMOTIVE COMPANY MONO",
+  "prestazioni": [
+    "Engine: Replace the stock 2.5L Ford Duratec I4 (engine code: *Duratec-MZI-RS*) with a fully built *Cosworth-tuned* version featuring forged Mahle pistons (9.5:1 CR), Carrillo H-beam connecting rods, and a billet crankshaft. Pair with a *Garrett GT35R turbocharger* (0.82 A/R turbine housing) and a *Tial MV-R 44mm wastegate* for 1.2 bar (17.4 psi) of boost, targeting 450+ hp at 8,000 RPM on 100-octane fuel.",
+    "Drivetrain: Install a *Quaife ATB helical LSD* in the transaxle housing with a *PPG close-ratio 6-speed sequential gearset* (1st: 2.95, 2nd: 2.18, 3rd: 1.70, 4th: 1.38, 5th: 1.15, 6th: 0.95) and a *Tilton 7.25\" twin-plate carbon clutch* with a billet flywheel for 500+ lb-ft torque capacity.",
+    "Suspension & Aero: Replace the stock Öhlins TTX25 dampers with *Öhlins TTX40 2-way adjustable coilovers* (32-way rebound, 22-way compression) and *Eibach ERS 1200N/mm springs* for 1.5G cornering. Add a *BAC Mono-specific rear diffuser* with *Gurney flaps* and a *custom carbon fiber front splitter* (3D-printed from Toray T800) to generate 400 kg of downforce at 160 mph."
+  ],
+  "estetica": [
+    "Body: Replace the stock carbon fiber body panels with *BAC Mono R-spec* lightweight panels (pre-preg autoclave-cured, 30% thinner layup) and a *full Rocket Bunny widebody kit* (custom-fitted for the Mono’s 1,960mm width) with *carbon fiber overfenders* and a *ducktail spoiler* (adjustable angle via servo motor).",
+    "Interior: Swap the stock Alcantara seats for *Sparco Pro ADV QRT-K* carbon fiber racing seats (6-point harness compatible) with *Schroth Profi II 6-point harnesses* and a *MOMO Mod.77 steering wheel* (320mm diameter, suede-wrapped). Install a *Motec C127 dash logger* with *AIM MXS Strada* data overlay for real-time telemetry.",
+    "Lighting & Details: Replace the stock LED headlights with *Osram Night Breaker Laser* bulbs (600% brighter) and add *DRLs from a Porsche 911 GT3 RS (991.2)* integrated into the front splitter. Paint the entire chassis in *PPG Vibrance Collection ‘Lime Sulfur’* with *3M Matte Black 1080 wrap* on the roof and diffuser for contrast."
+  ]
+}

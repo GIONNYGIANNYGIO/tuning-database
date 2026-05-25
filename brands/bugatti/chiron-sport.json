@@ -1,0 +1,14 @@
+{
+  "brand": "BUGATTI",
+  "model": "CHIRON SPORT",
+  "prestazioni": [
+    "Engine: Quad-Turbocharged 8.0L W16 (Engine Code: **QC16**) with a custom **Motec M150 ECU** reflash optimizing ignition timing and fuel maps for 1,800+ HP on **100-octane race fuel**, paired with **Garrett GTX5544R Gen II turbos** (hybrid billet wheels, 76mm compressor, 84mm turbine) and **Tial MV-R 60mm wastegates** for precise boost control at 2.8 bar peak pressure.",
+    "Drivetrain: **Xtrac P1227 7-speed dual-clutch transmission** reinforced with **Wavetrac LSD** and **AP Racing CP9661-3000 carbon-carbon clutch** (3,000 Nm torque capacity), mated to a **Quaife ATB differential** for aggressive torque vectoring. **Michelin Pilot Sport Cup 2 R tires** (285/30 R20 front, 355/25 R21 rear) on **BBS FI-R 20x11J/21x13J forged wheels** with **HRE FlowForm centerlock adapters**.",
+    "Suspension & Aero: **Öhlins TTX46 MkII coilovers** with **3-way adjustable damping** (100mm travel front, 120mm rear) and **Eibach ERS springs** (25% stiffer than OEM). **Bugatti Chiron Sport-specific **Rocket Bunny V3 widebody kit** (carbon fiber, 50mm wider front fenders, 70mm rear) with **Vorsteiner GT-spec front splitter** and **APR Performance GTC-3000 rear wing** (adjustable 0-25° angle, 300 lbs downforce at 250 mph). **Active aero** via **Bosch MS2.8 ECU integration** for real-time drag reduction."
+  ],
+  "estetica": [
+    "Exterior: **Full **PPF (Paint Protection Film) by **XPEL Stealth** (matte finish) with **3M Scotchgard Pro Series** ceramic coating (9H hardness). **Custom **Anodized Gold** **Brembo GT 400mm carbon-ceramic brake calipers** (6-piston front, 4-piston rear) with **AP Racing radiator ducts** for thermal management. **LED headlights** upgraded to **Lux HID 8,000K projectors** with **Morimoto D2S 4.0 bulbs** and **GTR Lighting V2 angel eyes**.",
+    "Interior: **Full **Alcantara** retrim by **Rosen Europe** (custom **Bugatti Blue** stitching) with **Recaro Pole Position CS seats** (carbon fiber shell, 6-point Schroth harnesses). **Roll cage** by **Sparco Pro 2000** (TIG-welded chrome-moly, FIA 8862-2009 certified) with **Schroth Enduro 4-point harnesses**. **Custom **Motec C127 dash** with **Aim MXS Strada** data logger (GPS, lap timing, boost pressure).",
+    "Lighting & Details: **Underbody **RGB LED kit** by **Diode Dynamics** (sync with **Philips Hue Bridge**) with **custom **Bugatti La Voiture Noire** side skirts** (carbon fiber, 3D-printed air curtains). **Exhaust** replaced with **Akrapović Titanium Sport System** (4x 100mm outlets, **Inconel 625** headers, **valvetronic bypass** for backpressure tuning). **Carbon fiber engine cover** by **Seibon** with **custom **laser-etched Bugatti logo** (gloss clear coat)."
+  ]
+}

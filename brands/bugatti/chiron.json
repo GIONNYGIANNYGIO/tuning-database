@@ -1,0 +1,14 @@
+{
+  "brand": "BUGATTI",
+  "model": "CHIRON",
+  "prestazioni": [
+    "Engine Code: W16 8.0L Quad-Turbo (Type 57SC) – Full billet aluminum block reinforcement with Darton MID sleeves for 120 bar cylinder pressure tolerance, paired with a bespoke Weistec Engineering crankshaft harmonic damper to mitigate torsional vibrations at 6,700 RPM redline extensions.",
+    "Turbocharger Upgrade: Garrett GTX5544R Gen II turbos (86mm compressor wheels, 106mm turbine wheels) with titanium-aluminide turbine housings, custom BorgWarner EFR wastegates, and a PTP Motorsports titanium turbo manifold with Inconel 625 tubing for 2.2 bar boost (stock: 1.4 bar) and 1,800+ HP on E85.",
+    "Fuel System: Injector Dynamics ID2600X injectors (2,600cc/min) with a Radium Engineering dual-pump surge tank (2x Walbro 525LPH pumps), Motec M150 ECU with flex-fuel ethanol sensor, and a custom billet fuel rail from Xtreme-Machine to support 1,200+ HP fueling demands."
+  ],
+  "estetica": [
+    "Aerodynamics: Mansory 'Vivid' widebody kit with carbon fiber front splitter (3D-printed air curtains for 15% reduced drag), rear diffuser with active Gurney flaps (adjustable via Bugatti Sport Chrono), and a fixed carbon fiber rear wing with 3-position angle adjustment (0°, 12°, 25°) for downforce tuning up to 1,800 kg at 400 km/h.",
+    "Wheels & Brakes: HRE FF16 flow-formed forged wheels (20x11.5 front, 21x13 rear) with Michelin Pilot Sport Cup 2 R tires (325/30 ZR21 front, 355/25 ZR22 rear), paired with AP Racing carbon-ceramic brakes (420mm front, 410mm rear) with titanium pistons and a custom Motul RBF 660 brake fluid setup for 1,200°C heat resistance.",
+    "Exterior Trim: Full 3M Matte Graphite vinyl wrap with exposed carbon fiber weave (Toray T800) on the roof, mirror caps, and side skirts, complemented by a custom Novitec carbon fiber engine cover with integrated LED lighting (RGBW, 16.8 million colors) and a titanium exhaust finisher from Akrapović (dual 120mm outlets, Inconel 625 construction)."
+  ]
+}

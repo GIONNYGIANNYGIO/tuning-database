@@ -1,0 +1,14 @@
+{
+  "brand": "BENTLEY",
+  "model": "MULSANNE SPEED BLACKLINE",
+  "prestazioni": [
+    "Engine: 6.75L V8 (L410, twin-turbo, 537hp stock) – Full billet CNC ported heads by Cosworth with titanium retainers and Inconel exhaust valves for 7,000 RPM capability, paired with a custom Garrett GTX5533R Gen II turbocharger (1.28 A/R, 88mm compressor) and TiAL MV-R 60mm wastegates for 22 psi peak boost on 100-octane fuel",
+    "Drivetrain: ZF 8HP90 transmission reinforcement with a Pankl Racing billet input shaft and upgraded torque converter (4,500 RPM stall) from Sonnax, mated to a Quaife ATB differential with 4.10:1 final drive ratio for 0-60 mph in 3.9 seconds",
+    "Suspension: KW Suspensions Clubsport 3-way adjustable coilovers with 24-way rebound damping, spherical bearing top mounts, and custom valving for the Mulsanne’s 2,600kg mass, paired with Bentley-specific H&R 25mm front and 20mm rear anti-roll bars with polyurethane bushings"
+  ],
+  "estetica": [
+    "Aero: Mansory Carbon Fiber Blackline Edition widebody kit (front splitter, side skirts, and rear diffuser) with a 3D-printed active rear wing (adjustable via hydraulic actuators, 150kg downforce at 150 mph) and Vorsteiner carbon fiber hood with integrated NACA ducts for turbo cooling",
+    "Wheels: Rotiform TMB 21x10.5 (front) and 22x12.5 (rear) forged 3-piece wheels with titanium hardware, wrapped in Michelin Pilot Sport Cup 2 R tires (285/30 R21 front, 335/25 R22 rear) and air-pressure monitoring via TPMS Pro from Race Technologies",
+    "Interior: Full Alcantara retrim by Saddleback Leather with diamond-stitched door cards, a custom roll cage by Safety Devices (MIG-welded T45 steel, bolt-in design) wrapped in Alcantara, and a digital dash upgrade via a Motec C127 display with CAN bus integration for real-time turbo/boost logging"
+  ]
+}

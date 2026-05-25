@@ -1,0 +1,14 @@
+{
+  "brand": "BRABUS",
+  "model": "550 S-CLASS",
+  "prestazioni": [
+    "Engine: M278 DE 30 AL (3.0L V8 Biturbo) – BRABUS 800 PowerXtra ECU reflash with custom Dimsport Race 2000 standalone piggyback, optimizing boost pressure to 1.5 bar (stock: 1.2 bar) and recalibrating fuel maps for 98 RON race fuel compatibility, paired with a BRABUS stainless steel high-flow downpipe (200-cell catalytic converters) and Akrapović Evolution Line Titanium exhaust with quad 102mm outlets",
+    "Forced Induction: Stock BorgWarner turbochargers upgraded with Garrett GTX3582R billet compressor wheels (62mm inducer, 82mm exducer) and Inconel turbine housings (0.82 A/R), mated to custom BRABUS intercooler with 1200g/s airflow capacity and dual 100mm silicone charge pipes reinforced with Kevlar weave",
+    "Drivetrain: BRABUS 800-specific SPEEDSHIFT MCT transmission tuning with revised shift logic (200ms upshifts, 150ms downshifts) and upgraded torque converter (450Nm stall speed), paired with a BRABUS limited-slip differential (40% lock) and Quaife ATB helical LSD for the rear axle, with custom BRABUS carbon-fiber driveshaft (1000Nm torque capacity)"
+  ],
+  "estetica": [
+    "BRABUS 800 Aero Package: Carbon-fiber front splitter with integrated canards (30mm overhang), BRABUS GT rear diffuser with active Gurney flap (adjustable via MBUX), and BRABUS Monoblock R 22-inch forged wheels (9.5J front, 11.5J rear) wrapped in Michelin Pilot Sport Cup 2 R tires (275/30 R22 front, 325/25 R22 rear) with BRABUS center-lock adapters",
+    "BRABUS Shadow Line body kit: Full carbon-fiber hood with heat-extracting vents (reduces underhood temps by 12°C), BRABUS side skirts with integrated LED turn signals, and BRABUS rear spoiler (adjustable angle via MBUX) in matte carbon finish, paired with BRABUS Night Package (black chrome trim, gloss-black grille, and smoked taillights)",
+    "Interior: BRABUS 800-specific Alcantara/leather upholstery with diamond-stitching, BRABUS carbon-fiber shift paddles (extended length for F1-style engagement), BRABUS sport pedals in anodized aluminum, and BRABUS 800-specific instrument cluster overlay (redline at 7,200 RPM, boost pressure gauge, and oil temperature readout), paired with a BRABUS infotainment system (12.3-inch touchscreen with custom BRABUS UI and Apple CarPlay/Android Auto integration)"
+  ]
+}

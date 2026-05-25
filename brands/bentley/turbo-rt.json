@@ -1,0 +1,14 @@
+{
+  "brand": "BENTLEY",
+  "model": "TURBO RT",
+  "prestazioni": [
+    "Engine: 6.75L (6750cc) Rolls-Royce L-series V8 (engine code: L675) with a Garrett GT42R turbocharger upgrade, replacing the stock Garrett T04B, paired with a custom 3.5-inch stainless steel downpipe and a Milltek Sport 304-grade stainless steel exhaust system featuring 3.5-inch mandrel-bent piping and quad 4.5-inch polished tips for optimized spool and reduced backpressure",
+    "Fuel System: Upgraded to a dual Bosch Motorsport 044 high-flow fuel pump setup with -8AN PTFE lines, paired with Siemens DEKA 80lb/hr injectors and an AEM 380LPH in-tank fuel pump, controlled via a Motec M150 ECU with a custom flex-fuel ethanol map for E85 compatibility and 12.5:1 static compression tuning",
+    "Suspension & Handling: Full Ohlins Road & Track DFV coilover kit with 24-way adjustable compression and rebound damping, reinforced with Bentley-specific front and rear sway bars from H&R (28mm front, 25mm rear), and polyurethane bushings from SuperPro (part numbers SPF1004K and SPF1005K) for chassis rigidity and reduced body roll"
+  ],
+  "estetica": [
+    "Aero: Custom carbon fiber widebody kit by Liberty Walk (LB-WORKS) designed specifically for the Turbo RT, featuring aggressive front fender flares, extended rear quarter panels, and a ducktail spoiler with integrated third brake light, all in raw carbon fiber finish",
+    "Wheels: Forged 22x10.5 ET25 front and 22x12 ET40 rear wheels from BBS LM-R in a two-tone finish (gloss black with polished lip), wrapped in Michelin Pilot Sport Cup 2 tires (275/30/22 front, 315/25/22 rear) for track-focused grip",
+    "Interior: Full Alcantara retrim by Royal Steering Wheels, including dashboard, door cards, and headliner, with custom embroidered Bentley winged-B logos in red stitching, paired with a full carbon fiber center console and Recaro Pole Position seats (Bentley-specific mounting brackets) in black Alcantara with red leather accents"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "BRABUS",
+  "model": "800 ADVENTURE",
+  "prestazioni": [
+    "Engine: M177 4.0L V8 Biturbo (OM654DE40LA) upgraded with BRABUS 800 PowerXtra ECU remap, increasing output to 800 PS (588 kW) and 1,200 Nm (885 lb-ft) of torque via custom fuel pressure mapping and revised turbocharger wastegate control for the stock BorgWarner turbos (K04-030S)",
+    "Forced Induction: Hybrid turbocharger upgrade using Garrett GTX5533R Gen II turbos with billet compressor wheels (64mm inducer, 88mm exducer) and Inconel turbine wheels, paired with custom BRABUS titanium-coated downpipes and 3.5-inch stainless steel exhaust system featuring active bypass valves for on-demand backpressure reduction",
+    "Suspension: BRABUS Ride Control 2.0 adaptive suspension with Ohlins TTX46 coilovers (24-way adjustable damping) and custom-valved front/rear sway bars (28mm front, 25mm rear), paired with BRABUS Level Control air suspension for 50mm additional ground clearance in off-road mode"
+  ],
+  "estetica": [
+    "Aerodynamics: BRABUS 'Extreme Aero' carbon fiber body kit featuring a 3-piece front splitter with integrated LED light bar, side skirts with rocker protection, and a rear diffuser with dual 102mm titanium exhaust outlets, reducing lift by 30% at 200 km/h",
+    "Wheels: BRABUS Monoblock Z 'Platinum Edition' forged wheels (23-inch front, 24-inch rear) with staggered fitment (10.5Jx23 ET25 front, 12.5Jx24 ET15 rear) wrapped in Pirelli Scorpion Zero All Season tires (285/35 R23 front, 325/25 R24 rear) and BRABUS carbon fiber center caps",
+    "Exterior Trim: Full BRABUS 'Shadow Line' matte black trim package, including dechromed grille, window surrounds, and badges, paired with BRABUS 'Adventure' carbon fiber side steps with integrated LED puddle lights and a BRABUS 'Rocket 900' carbon fiber rear spoiler with adjustable angle (0-12 degrees)"
+  ]
+}

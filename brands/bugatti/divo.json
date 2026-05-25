@@ -1,0 +1,14 @@
+{
+  "brand": "BUGATTI",
+  "model": "DIVO",
+  "prestazioni": [
+    "Engine: 8.0L W16 quad-turbo (engine code: **QUAIFE W16**) – Replace stock IHI turbos with **Garrett GTX5544R Gen II** billet wheel turbos (86mm compressor, 106mm turbine) paired with **Tial MV-R 64mm wastegates** and **TurboSmart Race Port BOV** for optimized spool and reduced lag, targeting 1,800+ HP on **E85 fuel** with **Motec M150 ECU** standalone management (OEM ECU bypassed).",
+    "Drivetrain: **Xtrac P1227 7-speed sequential transaxle** with **AP Racing CP9444-2 carbon-carbon clutch** (4-disc setup) and **Wavetrac ATB differential** (90% lock) for aggressive torque vectoring. **Pankl Racing Systems** titanium driveshafts and **GKN Lobro CV joints** to handle increased power.",
+    "Suspension & Aero: **Öhlins TTX46 MkII coilovers** with **Eibach ERS springs** (1,200 lb/in front, 1,500 lb/in rear) and **Tillet B12 carbon fiber seats** (fixed-back) for weight reduction. **Aeromotions active rear wing** (Divo-specific) with **MTS kinematics** for dynamic angle adjustment (up to 45 degrees) and **Vortex Generators** (3D-printed titanium) on the front splitter for boundary layer control."
+  ],
+  "estetica": [
+    "Body: **Liberty Walk LB-DIVO widebody kit** (carbon fiber, 80mm wider rear fenders) with **Seibon Carbon** front/rear bumpers and **Rocket Bunny** canards (Divo-specific design). **PPF (Paint Protection Film) in XPEL Stealth** for full-body coverage with **ceramic coating (Gyeon Quartz Ceramic)** for hydrophobic properties.",
+    "Wheels: **BBS FI-R** (20x11.5 front, 21x13 rear) in **forged magnesium** with **Pirelli P Zero Trofeo R** tires (285/30 R20 front, 355/25 R21 rear). **HRE FF01** center-locking system with **Brembo GT-R** calipers (6-piston front, 4-piston rear) and **AP Racing 400mm CCM-R rotors** for track use.",
+    "Interior: **Recaro Pole Position** carbon-Kevlar seats with **Schroth 6-point harnesses** (FIA-spec). **Alcantara-wrapped** steering wheel (Divo-specific) with **Motec C127 dash display** and **AiM Solo 2 DL GPS lap timer**. **Vintage Air Gen-4** climate control system with **carbon fiber trim** (forged by **Sparco**) and **LED ambient lighting (Philips Hue)** synced to engine RPM."
+  ]
+}

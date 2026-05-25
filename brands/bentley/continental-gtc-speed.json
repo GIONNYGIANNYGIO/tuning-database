@@ -1,0 +1,14 @@
+{
+  "brand": "BENTLEY",
+  "model": "CONTINENTAL GTC SPEED",
+  "prestazioni": [
+    "Engine: 6.0L W12 twin-turbo (engine code: **LJ71X**) with a **Garrett GTX5533R** turbo upgrade (86mm compressor, 1.15 A/R turbine housing) paired with a **Precision Turbo & Engine 7675** ball-bearing turbo for the second bank, ensuring 1.5 bar of boost (stock: 1.2 bar) and a **Mishimoto W12-specific intercooler** (front-mount, 1200cfm airflow) to eliminate heat soak. Supporting mods include **Mahle Motorsport forged pistons** (9.0:1 compression, coated skirts) and **Carrillo H-beam connecting rods** with **ARP Custom Age 625+ head studs** for 800+ hp reliability.",
+    "Fuel System: **Bosch Motorsport 044 high-flow fuel pumps** (dual setup) with **Injector Dynamics ID2000x** (2000cc/min) injectors, controlled via a **Syvecs S12 ECU** (standalone, CAN-bus integrated) with **Motec PDM15** power distribution module for precise fuel mapping and ignition timing (12° BTDC at peak torque). A **Radium Engineering dual-catch can system** (AN-10 lines) prevents oil blow-by under sustained boost.",
+    "Drivetrain & Exhaust: **Quicksilver Racing carbon-fiber driveshaft** (reduces rotational mass by 40%) and a **Wavetrac limited-slip differential** (torque-biasing, 3.7:1 final drive ratio) for improved power delivery. Exhaust system features a **Milltek Sport 304 stainless steel downpipe** (de-catted, 3.5\" diameter) with **Akrapovič Evolution titanium exhaust** (valvetronic, 70mm tips) and **GESI ceramic-coated headers** to reduce backpressure by 30%."
+  ],
+  "estetica": [
+    "Aero: **Vorsteiner V-FF107 widebody kit** (carbon fiber, 50mm rear fender flares) with **Rocket Bunny GT-Spec rear diffuser** (dual-plane, 3D-printed ABS) and **Mansory Carbonado front splitter** (adjustable dive planes, 3-stage Gurney flap). **Aeromotions active rear wing** (carbon fiber, 1200mm span, hydraulic actuation) generates 120kg downforce at 200km/h (adjustable via in-cabin switch).",
+    "Wheels & Brakes: **HRE FF16** forged monoblock wheels (22x10.5\" front, 22x12.5\" rear, ET35 offset) wrapped in **Michelin Pilot Sport Cup 2 R** tires (275/30 R22 front, 325/25 R22 rear). **Brembo GT-R 6-piston calipers** (400mm two-piece rotors, J-hook slotted) with **Ferodo DS3.1** pads and **Goodridge G-Stop braided stainless steel lines** for fade-resistant stopping power.",
+    "Interior & Lighting: **Recaro Pole Position CS** seats (carbon-Kevlar shell, 6-point Schroth harnesses) with **Alcantara-wrapped Bentley steering wheel** (MOMO suede, 380mm diameter, quick-release hub). **Rolls-Royce Phantom-style LED headlights** (Lux HID, 5500K, adaptive matrix beam) and **Osram Laserline taillights** (sequential turn signals, 3D-printed housings). **Bowers & Wilkins Diamond Series** audio upgrade (18 speakers, 2400W amplifier, active noise cancellation) with **Apple CarPlay/Android Auto retrofit** via **Alpine iLX-F311** head unit."
+  ]
+}

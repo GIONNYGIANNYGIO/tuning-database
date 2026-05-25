@@ -1,0 +1,14 @@
+{
+  "brand": "BENTLEY",
+  "model": "S1 CONTINENTAL",
+  "prestazioni": [
+    "Engine: Replace the original 4.9L inline-6 (engine code L410) with a fully built, dry-sumped 5.5L version featuring forged Mahle pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from Cosworth. Pair with a custom camshaft grind by Kent Cams (280° duration, 0.500\" lift) for optimized high-RPM breathing.",
+    "Forced Induction: Install a custom-built, twin-turbo system using Garrett GT2860RS turbos (0.82 A/R turbine housings) with TiAL 44mm wastegates and a custom air-to-water intercooler setup by Bell Intercoolers, plumbed with -10AN lines and a Davies Craig EWP150 electric water pump for consistent intake temps.",
+    "Fuel & Ignition: Convert to a full sequential fuel injection system using Bosch Motorsport 0280158105 injectors (1,000cc/min) and a Link G4+ Xtreme standalone ECU. Ignition system upgraded to a 6-channel MSD Digital 6AL with custom-mapped advance curves and NGK R7437-9 racing plugs gapped at 0.024\"."
+  ],
+  "estetica": [
+    "Bodywork: Replace the original steel panels with a lightweight carbon fiber replica body kit by Automotive Techniques, including a custom 3-piece front splitter, side skirts with integrated NACA ducts for brake cooling, and a rear diffuser with integrated exhaust exits. Paint in a custom \"Bentley Racing Green\" with gold leaf pinstriping by Heritage Coachworks.",
+    "Wheels & Suspension: Fit 18x9\" and 18x11\" front/rear BBS RS-GT1 wheels (ET20, 5x130 PCD) with custom center-lock adapters. Suspension upgraded to a full coilover system by Nitron R3 with 4-way adjustable damping, custom valving for the S1 Continental’s leaf spring rear end, and polyurethane bushings from SuperPro for improved chassis rigidity.",
+    "Interior: Retrim the cabin in full Bridge of Weir leather with Alcantara headliner and custom embroidered Bentley winged-B logos. Install a MOMO Prototipo steering wheel (380mm diameter) with a quick-release hub, and replace the original gauges with a digital dash by AIM MXS Strada, featuring a 7\" display with configurable shift lights and data logging."
+  ]
+}

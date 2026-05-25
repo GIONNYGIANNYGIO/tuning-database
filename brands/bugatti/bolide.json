@@ -1,0 +1,14 @@
+{
+  "brand": "BUGATTI",
+  "model": "BOLIDE",
+  "prestazioni": [
+    "8.0L W16 quad-turbo (engine code: **QC16**) reinforced with **Pankl Racing Systems** titanium connecting rods (25% lighter than stock) and **Mahle Motorsport** forged pistons with a 9.0:1 compression ratio for sustained 3,000+ hp on **Motul 300V 15W-50** racing oil",
+    "**Garrett GTX5544R** hybrid turbos (replacing stock units) with **Tial MV-R 64mm** wastegates and **Precision Turbo & Engine** billet compressor wheels, paired with a **Plex Tuning** standalone ECU (CAN-bus integrated) for 40 psi boost mapping on **VP Racing Fuels C16** 118+ octane",
+    "**AP Racing** carbon-carbon 6-piston monobloc calipers with **Brembo HTC 64T** brake pads and **Pagid RSX1** rotors (400mm front, 380mm rear), mated to a **Bosch MS 10.1** ABS system recalibrated for 1.5g deceleration on **Michelin Pilot Sport Cup 2 R** tires (345/30 R20 front, 385/30 R21 rear)"
+  ],
+  "estetica": [
+    "**Rimac Automobili** 3D-printed titanium front splitter with **Mubea** carbon-fiber active aerodynamics (adjustable 0-12° angle via hydraulic actuators), generating 1,800 kg of downforce at 320 km/h",
+    "**Sabelt** 6-point FIA-spec carbon-fiber racing seats with **Sparco** 3D-printed titanium headrests, wrapped in **Alcantara** with **Stitch & Hide** hand-stitched **Bugatti Bolide** embroidery (thread: **Gütermann Mara 70**)",
+    "**HRE Wheels** forged carbon-fiber **FF03** wheels (20x13 front, 21x15 rear) with **Aerodisc** titanium wheel spacers (5mm) and **Hankook Ventus R-S4** semi-slick tires, finished with **PPG** custom **Liquid Silver** paint (3-stage process: base coat, mid-coat flakes, clear lacquer)"
+  ]
+}

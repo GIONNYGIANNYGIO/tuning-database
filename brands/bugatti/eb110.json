@@ -1,0 +1,14 @@
+{
+  "brand": "BUGATTI",
+  "model": "EB110",
+  "prestazioni": [
+    "Engine: Replace the stock IHI turbochargers (model RH153) on the 3.5L V12 (engine code EB110) with a pair of Garrett GT4202R ball-bearing turbos, paired with custom 3D-printed titanium compressor housings to optimize airflow for a target of 1,200 HP at 1.5 bar boost, while retaining the stock air-to-water intercoolers but upgrading to a PWR Racing heat exchanger with dual 450W electric water pumps for consistent IAT control.",
+    "Fuel System: Swap the stock Bosch Motronic M2.7 ECU for a standalone Motec M150 ECU, integrated with a dual-channel AEM 4150 high-flow fuel pump system and ID1700x injectors, calibrated for E85 compatibility. The stock fuel rails will be replaced with billet aluminum units from Fuelab, featuring -8AN ORB fittings and a custom returnless fuel pressure regulator to handle the increased flow demands.",
+    "Drivetrain: Install a Quaife ATB differential in the rear transaxle (Hewland 6-speed) to replace the stock limited-slip unit, paired with a Tilton triple-plate carbon clutch and a lightweight flywheel from Fidanza (12.5 lbs). The driveshafts will be upgraded to custom 300M steel units from The Driveshaft Shop, with CV joints reinforced by GKN Lobro components to handle the increased torque without failure."
+  ],
+  "estetica": [
+    "Aerodynamics: Fit a full carbon fiber widebody kit from Liberty Walk (LB-WORKS EB110-specific design), including extended front fenders with integrated canards, a rear diffuser with active Gurney flap (controlled via the Motec ECU), and a custom front splitter with a 3D-printed aluminum support structure for rigidity under high-speed downforce loads.",
+    "Wheels & Brakes: Mount a set of forged BBS LM-R wheels (19x11 front, 20x13 rear) with custom center locks, wrapped in Michelin Pilot Sport Cup 2 R tires (275/35/19 front, 345/30/20 rear). The braking system will feature a full AP Racing Radical 6-piston caliper kit with 400mm carbon-ceramic rotors (front) and 380mm rotors (rear), paired with Ferodo DS3000 pads and braided stainless steel lines from Goodridge.",
+    "Interior & Exterior Details: Replace the stock leather upholstery with a full Alcantara interior from Sabelt, including custom Recaro Pole Position seats with 6-point Schroth harnesses. The exterior will feature a custom paint scheme by Sprayed by BM (matte Bugatti Blue with exposed carbon fiber weave on the roof and rear wing), along with a titanium exhaust system from Akrapović with quad 100mm outlets and a remote-controlled bypass valve for adjustable sound levels."
+  ]
+}

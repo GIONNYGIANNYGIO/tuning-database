@@ -1,0 +1,14 @@
+{
+  "brand": "BUGATTI",
+  "model": "CHIRON SKY VIEW",
+  "prestazioni": [
+    "Engine Code: W16 8.0L Quad-Turbo (Type 57SC) – Replace OEM IHI turbochargers with **Garrett GTX5544R Gen II** billet wheel turbos (86mm compressor, 106mm turbine) paired with **Tial MV-R 60mm wastegates** and **Precision Turbo 46mm external wastegate actuators** for 3.2 bar boost (stock: 1.4 bar), targeting 1,800+ HP on **Motul 300V 15W-60** full-synthetic race oil with **Mocal 55mm oil cooler** upgrade.",
+    "Fuel System: **Bosch Motorsport MS15.1 ECU** standalone management with **AEM 4150 2,200cc/min port injectors** (primary) and **ID1700x direct injectors** (secondary) fed by **Aeromotive A1000 EFI fuel pump** (dual setup) and **Radium Engineering dual-catch can system** to prevent fuel dilution under sustained 3.2 bar boost.",
+    "Drivetrain: **Ricardo 7-speed dual-clutch transmission** reinforcement with **PPG Stage 3+ gearset (1st: 2.87, 2nd: 2.18, 3rd: 1.78)** and **South Bend Clutch triple-disc carbon-carbon clutch pack** (rated for 2,000 Nm torque) paired with **OS Giken Super Lock LSD** (85% lockup) and **Penske 8760 3-way adjustable coilovers** with **Eibach ERS springs (1,200 lb/in front, 1,400 lb/in rear)** for 0.98g lateral grip on **Michelin Pilot Sport Cup 2 R tires (285/30 R20 front, 355/25 R21 rear)**."
+  ],
+  "estetica": [
+    "Aerodynamics: **Vorsteiner V-FF 107 Chiron-specific carbon fiber widebody kit** with **Rocket Bunny GT-spec front splitter (3D-printed carbon, 80mm overhang)** and **APR Performance GT-500 rear wing (4.2m² surface area, 30° adjustable angle)** for 1,200 kg downforce at 320 km/h, paired with **Novitec Torado-style side skirts** and **Vossen HF-6 21\" forged wheels (ET -25 front, ET -15 rear)** in **BBS LM finish**.",
+    "Exterior Trim: **Forge Motorsport titanium exhaust system (8x 100mm outlets, Inconel 625 headers)** with **Akrapović carbon fiber tips (laser-etched Bugatti logo)** and **Litchfield carbon fiber engine cover (matte clear coat)** featuring **LED-illuminated W16 badge (RGB programmable via Bugatti Chiron app)**. **3M Matte Graphite Black vinyl wrap** with **Avery Dennison Gloss Black pinstripes (1.5mm width)** on roof and fenders.",
+    "Interior: **Recaro Pole Position CS-II carbon fiber seats (Schroth 6-point harnesses, FIA 8862-2009 certified)** with **Alcantara suede upholstery (custom stitched \"Sky View\" pattern)** and **MOMO Prototipo steering wheel (flat-bottom, Alcantara grip, integrated **Aim Solo 2 DL** data logger buttons)**. **Rolls-Royce Starlight headliner (1,500 fiber-optic lights, programmable constellations)** with **Bowers & Wilkins Diamond Series 16-speaker audio (carbon fiber tweeters, 1,800W RMS)** and **Apple CarPlay/Android Auto retrofit via **Alpine ILX-F309** touchscreen."
+  ]
+}

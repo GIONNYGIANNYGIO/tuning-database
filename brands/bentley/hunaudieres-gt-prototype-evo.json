@@ -1,0 +1,14 @@
+{
+  "brand": "BENTLEY",
+  "model": "HUNAUDIERES GT PROTOTYPE EVO",
+  "prestazioni": [
+    "Engine: Replace the original 8.0L W16 (code: **WR26**) with a bespoke **Motec M182 ECU** mapped for 1,200+ HP via direct port methanol injection (AEM 340LPH pump + Snow Performance Stage 3 kit) and a **Garrett GTX5533R Gen II** turbocharger (1.35 A/R, billet compressor wheel) running 3.5 bar of boost on 118-octane race fuel (VP Racing C16).",
+    "Drivetrain: Install a **Xtrac P1297 sequential 6-speed transaxle** with a **Tilton triple-plate carbon clutch** (4.5-inch diameter) and a **Quaife ATB helical LSD** (85% lock) to handle the torque. Replace the stock driveshafts with **GKN VL3 carbon-fiber units** (rated for 1,500 Nm).",
+    "Suspension/Chassis: Fit **Öhlins TTX46 MkII coilovers** (3-way adjustable, 250mm travel) with **Eibach ERS springs** (400 lb/in front, 500 lb/in rear) and **Tillet B6 monoblock brake calipers** (6-piston front, 4-piston rear) clamping **AP Racing CC66 380mm discs** (2-piece floating, titanium hats). Reinforce the monocoque with **Brembo Racing carbon-carbon subframe braces** (front/rear) and a **Sparco Pro2000 FIA-spec roll cage** (chromoly, 4-point harness bar)."
+  ],
+  "estetica": [
+    "Aerodynamics: Replace the stock body with a **Liberty Walk LB-WORKS Hunaudieres GT Prototype Evo kit** (full carbon-fiber, including a **3D-printed front splitter** with active Gurney flaps and a **fixed rear wing** with **DTM-style swan neck mounts**). Add **Vortex Generators** (Aeroflow Dynamics) on the A-pillars and a **diffuser with integrated strakes** (3D-printed titanium, 5-element design).",
+    "Lighting: Swap the OEM headlights for **Osram Laser+ units** (1,200m range) with **Hella Rallye 4000 fog lights** (auxiliary beam pattern) and **LED taillights** (Luxxen V12, sequential turn signals). Install a **Motec C127 dash** (carbon-fiber bezel, 7-inch display) with **AIM MXS Strada** data logging.",
+    "Interior: Replace the stock cabin with a **Recaro Pole Position II** (carbon-Kevlar shell, FIA 8862-2009 certified) and **Schroth 6-point harnesses** (ASM2 configuration). Add a **MOMO Prototipo steering wheel** (suede, 350mm diameter) with **Motec PDM30** power distribution module and **Brembo GT-R brake bias adjuster**. Trim the door cards in **Alcantara with carbon-fiber inlays** (Bentley Motors bespoke pattern) and fit **BBS RG-R 18-inch wheels** (9.5J front, 12J rear, gold PCD) wrapped in **Michelin Pilot Sport Cup 2 R** (275/650R18 front, 325/705R18 rear)."
+  ]
+}

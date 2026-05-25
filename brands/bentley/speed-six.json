@@ -1,0 +1,14 @@
+{
+  "brand": "BENTLEY",
+  "model": "SPEED SIX",
+  "prestazioni": [
+    "Engine: Bentley 6.5L inline-6 (engine code: SM390) with forged internals upgrade using Mahle Motorsport pistons (9.5:1 compression) and Carrillo H-beam connecting rods, paired with a bespoke dry-sump lubrication system by Peterson Fluid Systems (Model 4000 series) to handle sustained high-RPM operation (redline extended to 5,200 RPM).",
+    "Forced induction: Custom twin-turbo setup utilizing Garrett GT35R turbos (84mm compressor wheels) with TiAL MV-R 44mm wastegates and a custom air-to-water intercooler system by Bell Intercoolers (12-row core, 3.5\" thick) mounted in the original radiator position, fed by a Bosch 044 fuel pump and ID1000 injectors for E85 compatibility.",
+    "Drivetrain: Close-ratio 4-speed manual transmission (original Bentley A-type) reinforced with a Quaife ATB differential and a custom billet aluminum bellhousing by Tilton Engineering, mated to a Sachs Performance twin-disc clutch (240mm) with cerametallic friction material for 800+ lb-ft torque capacity."
+  ],
+  "estetica": [
+    "Body: Full custom aluminum body panels (hand-formed by British coachbuilder Radford) with a 3-inch lowered stance, featuring a one-off front splitter and rear diffuser in carbon fiber by Vorsteiner (Bentley Speed Six-specific mold), paired with a custom hood scoop for intercooler ducting.",
+    "Wheels: 21x9.5\" and 21x12\" front/rear forged aluminum wheels by HRE (Model FF16) with a custom 5-spoke design, wrapped in Michelin Pilot Sport Cup 2 tires (275/30 R21 front, 325/25 R21 rear) for track-focused grip.",
+    "Interior: Full Alcantara retrim by Royal Steering Wheels (UK) with a custom 14-inch Moto-Lita steering wheel (wood-rimmed), Recaro Pole Position seats (carbon fiber shells), and a bespoke digital dash by AIM MXS Strada (replacing the original gauges) with data logging for boost, oil pressure, and AFR."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "BENTLEY",
+  "model": "EXP 100 GT",
+  "prestazioni": [
+    "Engine: Bentley 6.0L twin-turbo W12 (engine code: **60-TFSI**, derived from the MSB platform) – upgraded with **Garrett GTX5533R Gen II turbos** (1.4 bar peak boost) and **Mahle Motorsport forged pistons** (10.5:1 compression) paired with **Carrillo H-beam connecting rods** for 850 hp / 1,000 Nm on **Shell V-Power Racing 102 RON fuel**.",
+    "Drivetrain: **ZF 8HP95X 8-speed transmission** with **Alcon Motorsport 6-piston monoblock calipers** (400mm carbon-ceramic rotors) and a **Quaife ATB helical LSD** (40% lockup) for torque vectoring, mated to **Michelin Pilot Sport Cup 2 R tires** (285/30 R22 front, 325/25 R22 rear).",
+    "Hybrid System: **Bosch MGU-K electric motor** (200 kW peak) integrated into the **Ricardo-developed hybrid powertrain**, with a **Williams Advanced Engineering 48V lithium-ion battery pack** (15 kWh capacity) and **Siemens-VDO hybrid cooling system** (dual-loop liquid-to-air intercoolers)."
+  ],
+  "estetica": [
+    "Aerodynamics: **Bentley x Pininfarina 'Aeroflow' carbon-fiber body kit** (active rear diffuser with **Gurney flaps**, front splitter with **DTM-style dive planes**, and **NACA ducts** for brake cooling), reducing drag to **Cd 0.24** while generating 200 kg of downforce at 250 km/h.",
+    "Lighting: **Osram Laserline headlights** (1,200-meter range) with **Brembo Adaptive Matrix LED taillights** (dynamic turn signals) and **3M Scotchlite reflective pinstriping** (Bentley 'Mulliner' gold accent) on the **carbon-fiber side skirts**.",
+    "Interior: **Bridge of Weir 'Liquid Metal' leather** (hand-stitched with **diamond-quilted Alcantara headliner**), **Bentley x Bang & Olufsen Beosonic sound system** (24-speaker, 2,400W, **Neodymium drivers**), and **Swarovski crystal gear selector** (illuminated with **RGB LED backlighting** via **Philips Hue integration**)."
+  ]
+}

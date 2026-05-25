@@ -1,0 +1,14 @@
+{
+  "brand": "BUFORI",
+  "model": "LA JOYA",
+  "prestazioni": [
+    "Engine swap to a Toyota 2GR-FKS 3.5L V6 (engine code: 2GR-FKS) with a custom billet aluminum intake manifold by HKS, paired with a Garrett GTX3582R turbocharger (82mm compressor, 1.06 A/R turbine housing) and a Tial MV-R 44mm external wastegate for precise boost control at 18 psi. The stock ECU is replaced with a Haltech Elite 2500 standalone unit, calibrated for E85 fuel with a flex-fuel sensor by Continental.",
+    "Full drivetrain reinforcement including a Quaife ATB helical LSD differential (custom 3.91 final drive ratio) and a Tilton 7.25-inch twin-disc clutch with a billet flywheel, mated to a Getrag 6-speed manual transmission (GS6-53BZ) from a BMW M3 (E46) with a custom bellhousing adapter by PPG.",
+    "Suspension overhaul with Ohlins Road & Track DFV coilovers (custom valving for the La Joya's 1,500kg curb weight), polyurethane bushings by SuperPro (part #SPF0115K) for the front control arms, and a custom sway bar kit by Whiteline (24mm front, 22mm rear) to eliminate body roll. Braking is upgraded to a full AP Racing CP9660 big brake kit (380mm front rotors, 6-piston calipers) with Ferodo DS2500 pads and braided stainless steel lines by Goodridge."
+  ],
+  "estetica": [
+    "Custom widebody conversion using a Rocket Bunny-inspired kit by Liberty Walk (LB-WORKS La Joya-specific design), featuring carbon fiber fender flares, front splitter, and rear diffuser. The kit includes a 3-piece carbon fiber rear wing with adjustable angle (0-15 degrees) and integrated LED brake light by Diode Dynamics.",
+    "Full custom interior reupholstery with hand-stitched Nappa leather by Bridge of Weir, featuring diamond-quilted door cards, Alcantara headliner, and a custom center console with a 10.1-inch touchscreen infotainment system by CarPlay Solutions (running a Raspberry Pi 4 with custom software for boost, AFR, and G-force readouts). The steering wheel is replaced with a Momo Prototipo (350mm diameter) wrapped in Alcantara with a quick-release hub by NRG Innovations.",
+    "Exterior lighting overhaul with LUX V3 LED headlights (H11 bulb type) by Diode Dynamics, sequential LED turn signals by VLEDS (part #VL-SEQ-10), and a custom underglow kit by Oracle Lighting (RGB+W with Bluetooth control, 6000K color temperature). The wheels are custom 19x9.5 (front) and 19x11 (rear) forged aluminum units by HRE (FF01 model) with a brushed finish and Michelin Pilot Sport Cup 2 tires (245/35/19 front, 295/30/19 rear)."
+  ]
+}

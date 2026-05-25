@@ -1,0 +1,14 @@
+{
+  "brand": "BENTLEY",
+  "model": "MULSANNE",
+  "prestazioni": [
+    "Engine: 6.75L V8 (L410, twin-turbo, 530hp stock) – Full forged internals by Manley Performance (forged crankshaft, H-beam connecting rods, and Mahle Motorsport forged pistons) to handle 850hp+ on E85 fuel, paired with a custom billet crankshaft damper by Fluidampr to reduce harmonics at high RPM (7,500+ redline).",
+    "Turbocharger Upgrade: Twin Precision Turbo PT6766 CEA ball-bearing turbos (67mm inducer, 66mm exducer) with custom 3D-printed titanium turbine housings by TurboSmart to optimize exhaust gas flow, mated to a bespoke Garrett GTX5533R-based anti-lag system for instant spool (1.2 bar peak boost).",
+    "Fuel & Ignition: Full Motec M150 ECU standalone management with dual Bosch Motorsport 044 high-flow fuel pumps (1,200+ LPH) and Injector Dynamics ID2000x injectors (2,000cc/min), paired with a custom 10-layer fuel rail by Radium Engineering. Ignition system upgraded to AEM CDI coils and NGK R8482-10 laser-iridium spark plugs for E85 compatibility and 30-degree timing advance at peak power."
+  ],
+  "estetica": [
+    "Widebody Conversion: Custom carbon-fiber widebody kit by Liberty Walk (LB Works Mulsanne-specific design) with extended front fenders (3.5\" wider per side) and rear quarter panels (4.2\" wider per side), incorporating OEM-style flush-mounted carbon weave for seamless integration. Includes custom 3D-printed aluminum inner fender liners by Varis for tire clearance (295/30R21 front, 325/25R22 rear).",
+    "Aerodynamics: Full custom aero package by Vorsteiner, including a 3-piece carbon-fiber front splitter with integrated canards (adjustable angle via quick-release mounts) and a 2-stage active rear wing (carbon-fiber, 1.8m span) with hydraulic actuation (0-15 degrees) controlled by a Bosch Motorsport ECU for dynamic downforce adjustment. Underbody features a full-length carbon diffuser by RW Carbon with integrated vortex generators.",
+    "Wheel & Brake Setup: Custom 21\" (front) and 22\" (rear) forged aluminum wheels by HRE (FF03 model, 10.5\" and 12.5\" widths respectively) with titanium lug bolts by ARP. Brake system features a full AP Racing 6-piston monoblock caliper setup (400mm front, 380mm rear) with carbon-ceramic rotors by Brembo (CCM-R compound) and custom stainless-steel braided lines by Goodridge. Calipers finished in Bentley Racing Green with gold anodized pistons."
+  ]
+}

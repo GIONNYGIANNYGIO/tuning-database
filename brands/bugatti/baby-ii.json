@@ -1,0 +1,14 @@
+{
+  "brand": "BUGATTI",
+  "model": "BABY II",
+  "prestazioni": [
+    "Upgrade to a custom 1.4L quad-cam electric motor (derived from the Bugatti Type 35's legacy, coded as 'EB1.4E') with a bespoke Cascadia Motion PM150DX inverter, increasing power output from 13.4 hp to 45 hp while maintaining the original 1,200 rpm redline for authenticity",
+    "Installation of a 48V lithium-ion battery pack (A123 Systems AMP20M1HD-A) with a custom thermal management system using a PWR Performance radiator and dual Spal 120mm fans to prevent overheating during extended track sessions",
+    "Precision-engineered lightweight drivetrain components: Quaife ATB differential (QDF7Z) paired with a custom 3D-printed titanium driveshaft (by Additive Industries) and bespoke carbon-fiber reinforced polyamide gearbox internals (developed with DSM Engineering Materials)"
+  ],
+  "estetica": [
+    "Full carbon-fiber body replica of the 1927 Bugatti Type 35B, handcrafted by Callaway Carbon (Germany) using pre-preg autoclave technology, with a clear satin finish to showcase the weave pattern",
+    "Custom LED headlight and taillight clusters by JW Speaker (Model 8700 ECE), integrated into the original Type 35B-style housings with CNC-machined billet aluminum bezels (anodized in Bugatti 'French Racing Blue')",
+    "Bespoke interior upgrade featuring a hand-stitched leather dashboard (Bridge of Weir 'Vintage' leather) with period-correct brass instrumentation (Smiths gauges, calibrated for electric drivetrain metrics) and a custom Alcantara-wrapped steering wheel (by Nardi, 330mm diameter, Type 35B replica)"
+  ]
+}

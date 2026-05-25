@@ -1,0 +1,14 @@
+{
+  "brand": "BENTLEY",
+  "model": "CONTINENTAL GTC MULLINER",
+  "prestazioni": [
+    "Engine: 6.0L W12 (L485, twin-turbo, 650hp stock) – Full Stage 3+ tune by Bentley Specialist 'Mulliner Works' with bespoke ECU remap (Motec M182) targeting 850hp/950Nm on 98 RON fuel, paired with Garrett GTX5533R turbos (hybrid billet wheels, 0.82 A/R turbine housings) and upgraded titanium nitride-coated wastegates (TurboSmart 45mm).",
+    "Fuel System: Full port-injection upgrade with dual Bosch Motorsport 0261500360 high-flow injectors (1,500cc/min) per cylinder, fed by a Radium Engineering dual-pump surge tank (2x Walbro 525LPH) and custom CNC-machined fuel rails (Billet Atomizers).",
+    "Drivetrain: Reinforced ZF 8HP95X transmission with upgraded torque converter (Sonnax billet stator, 3,800 RPM stall) and Quaife ATB differential (85% lockup), paired with a custom 3.5:1 final drive ratio (Bentley OEM part #3W51-4209-AA, modified by Dyno Dynamics)."
+  ],
+  "estetica": [
+    "Aero: Full carbon fiber 'Mulliner GT3' widebody kit (designed by Liberty Walk x Bentley Design Team) with integrated front splitter (20mm adjustable), rear diffuser (3D-printed titanium vanes), and active rear wing (Gurney flap, 15° attack angle, carbon-Kevlar hybrid).",
+    "Wheels: Forged 22x11.5 ET25 (front) / 22x12.5 ET30 (rear) Rotiform LAS-R in 'Mulliner Anthracite' finish, wrapped in Michelin Pilot Sport Cup 2 R tires (295/30R22 front, 325/25R22 rear) with custom sidewall lettering (gold foil, Bentley crest).",
+    "Interior: Full Alcantara/leather retrim by Saddleback Leather (Mulliner 'Diamond Stitch' pattern) with carbon fiber door cards (pre-preg autoclave, 1x1 twill), bespoke digital gauge cluster (12.3\" Motec C127, W12-specific dash layout), and rear-seat delete (replaced with custom carbon fiber storage pods for 2x OMP racing seats)."
+  ]
+}

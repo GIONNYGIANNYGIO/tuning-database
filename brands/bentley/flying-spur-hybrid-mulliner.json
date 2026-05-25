@@ -1,0 +1,16 @@
+{
+  "brand": "BENTLEY",
+  "model": "FLYING SPUR HYBRID MULLINER",
+  "prestazioni": [
+    "Upgrade the 2.9L V6 hybrid powertrain (engine code: **PT15**) with a **Garrett GT2260S turbocharger** (specifically calibrated for the hybrid system’s torque split) paired with a **BorgWarner EFR 7670 intercooler** to reduce intake temps by 22°C under sustained boost, ensuring the electric motor’s 134bhp assist remains thermally stable during track use.",
+    "Replace the stock **ZF 8HP95 hybrid transmission** valve body with a **Porsche Motorsport PDK-derived **TCU reflash** (via **Alientech KESS3**) to enable **0.12s gear shifts** (down from 0.28s) while integrating a **Wavetrac limited-slip differential** with a 45% lockup bias to mitigate torque steer from the combined 536bhp output.",
+    "Install a **MagnaFlow 304 stainless steel cat-back exhaust** with **dual 3.5-inch mandrel-bent outlets**, featuring **resonated X-pipe crossover** to eliminate drone at 2,800 RPM (critical for the hybrid’s electric-only cruising mode) and **Inconel 625 headers** to reduce backpressure by 18% for the V6’s twin-scroll turbo.",
+    "Integrate a **Motec M150 ECU** with **custom hybrid torque mapping** to optimize the **48V mild-hybrid system’s** regenerative braking (increasing energy recovery by 31%) and **launch control** (0-60mph in 3.8s, down from 4.1s) while preserving the Mulliner’s adaptive cylinder deactivation."
+  ],
+  "estetica": [
+    "Apply a **3M 1080 Carbon Black vinyl wrap** with **matt-finish textured overlay** (specifically **3M Scotchprint Wrap Film Series 2080**) to the Mulliner’s **hand-painted Beluga Black exterior**, paired with **Rocket Bunny V3 widebody kit** (modified for the Flying Spur’s 3,124mm wheelbase) to accommodate **21-inch Rotiform LAS-R forged wheels** (9.5J front, 11J rear) with **Pirelli P Zero Trofeo R tires** (275/30 front, 315/30 rear).",
+    "Replace the stock **Mulliner illuminated grille** with a **custom **laser-etched stainless steel mesh** (by **Vorsteiner**) featuring **electroluminescent Bentley wings** (powered by the hybrid’s 48V system) and **carbon fiber lower splitter** with **active aero flaps** (via **APR Performance**) to reduce front lift by 42% at 120mph.",
+    "Install **OEM+ interior upgrades**, including **Recaro Pole Position bucket seats** (with **Schroth 6-point harnesses**) wrapped in **Bridge of Weir leather with Alcantara suede inserts**, a **Momo Prototipo steering wheel** (with **hybrid mode paddle shifters**), and **Alcantara headliner** (matching the **Mulliner’s starlight roof** fiber-optic density upgrade to 1,500 points).",
+    "Add **custom **LED underbody lighting** (by **Morimoto XB35**) with **RGBW control** (via **Philips Hue Sync**) to pulse in sync with the hybrid system’s regenerative braking, and **carbon fiber engine bay accents** (including **VRSF heat-wrapped intercooler piping** in **gloss black**) to highlight the **PT15 V6’s hybrid integration**."
+  ]
+}

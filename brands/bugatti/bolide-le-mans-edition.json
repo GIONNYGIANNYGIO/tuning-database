@@ -1,0 +1,14 @@
+{
+  "brand": "BUGATTI",
+  "model": "BOLIDE LE MANS EDITION",
+  "prestazioni": [
+    "8.0L W16 quad-turbo (engine code: **QC16**) reinforced with **Pankl Racing Systems** titanium connecting rods (10% lighter than stock) and **Mahle Motorsport** forged pistons (14:1 compression ratio for Le Mans endurance fuel mapping).",
+    "Custom **Garrett GTX5544R Gen II** turbos (hybrid ball-bearing, 106mm compressor wheels) with **Turbosmart Race Port 50mm** wastegates and **Precision Turbo & Engine** titanium turbine housings (Inconel 718) for 2.8 bar peak boost (up from 1.8 bar stock).",
+    "Full **Motec M150 ECU** standalone management with **Bosch Motorsport** 1200cc/min direct injectors and **AEM X-Series** wideband O2 sensors, paired with a **Plex Tuning** Le Mans-spec traction control system (adjustable per-corner slip thresholds via **Cosworth Omega Data Logger**)."
+  ],
+  "estetica": [
+    "**AeroTech Designs** carbon-fiber Le Mans-style front splitter with **Gurney flaps** (3D-printed titanium, 1.2mm thickness) and **Vortex Generators** (CFD-optimized for 1,800kg downforce at 300km/h).",
+    "**APR Performance** GT-2500 rear wing (carbon-fiber, 3-element, adjustable via **MotoGP-derived hydraulic actuators**) with **Dallara F1-style** swan-neck mounts (titanium, anodized gold).",
+    "**Forge Motorsport** titanium exhaust system (Inconel 625 headers, 100mm dual outlets) with **Akrapović** carbon-fiber mufflers (weight: 8.2kg total, -40% vs. stock) and **LED-illuminated** exhaust tips (RGB programmable via **Bugatti Chiron Sport** infotainment)."
+  ]
+}

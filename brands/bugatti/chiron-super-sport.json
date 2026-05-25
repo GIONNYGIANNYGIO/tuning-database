@@ -1,0 +1,14 @@
+{
+  "brand": "BUGATTI",
+  "model": "CHIRON SUPER SPORT",
+  "prestazioni": [
+    "Engine: Quad-Turbocharged 8.0L W16 (Engine Code: **QC16**) with a bespoke **Motec M1800 ECU** reflash, optimizing ignition timing and fuel maps for 1,600+ HP on **102-octane race fuel**, while retaining the OEM **Bugatti Ion Sensing** knock detection system for real-time cylinder pressure monitoring.",
+    "Forced Induction: Upgraded **Garrett GTX5544R Gen II** turbos (custom billet compressor wheels, 76mm inducer) with **Tial MV-R 60mm** wastegates and **TurboSmart Race Port BOV** (plumbed back into the intake tract) to eliminate lag and support 3.2 bar boost pressure, paired with a **PWR 1000HP** front-mount intercooler (dual-core, 4.5L capacity) and **Samco Sport** silicone charge pipes (reinforced with **Aeromotive** -6AN fittings).",
+    "Drivetrain & Chassis: **Wavetrac** limited-slip differential (torque-biasing, 3.5:1 final drive ratio) with **AP Racing** 6-piston monoblock calipers (420mm carbon-ceramic rotors) and **Pagid RS29** racing pads, mated to a **Tilton** twin-disc carbon clutch (300Nm torque capacity) and **Xtrac P1227** sequential gearbox (paddle-shift optimized for 50ms shifts). Suspension features **Öhlins TTX46** 3-way adjustable coilovers (24-position rebound, 22-position compression) with **Eibach** 1,200 lb/in springs and **Solid Racing** spherical bearing control arms (front/rear)."
+  ],
+  "estetica": [
+    "Aerodynamics: **Liberty Walk LB Works** widebody kit (carbon fiber, 80mm extended fenders) with **Vorsteiner** front splitter (3D-printed titanium undertray) and **Rocket Bunny** GT-style rear diffuser (active gurney flap, 15% downforce increase at 250+ mph). **Aeromotions** active rear wing (hydraulic, 3-position: 0°, 12°, 25° attack angles) with **Dymag** carbon-fiber wheels (20x11 front, 21x13 rear, **Michelin Pilot Sport Cup 2 R** tires, 345/25R21).",
+    "Exterior Trim: **Novitec** carbon-fiber engine cover (exposed **QC16** W16 with **HRE** billet cam covers) and **Vossen** forged titanium exhaust tips (dual 120mm, **Akrapović** titanium headers with **REMUS** bypass valves). **LuxuryTuning** matte **PPF (Paint Protection Film)** in **3M 1080 Matte Graphite** with **XPEL Stealth** full-body wrap, including **Avery Dennison** gloss black accents on the grille and side skirts.",
+    "Interior: **Recaro Pole Position** carbon-fiber bucket seats (Schroth 6-point harnesses, **Sparco** quick-release steering wheel with **AiM MXS Strada** dash display). **Rolls-Royce Starlight Headliner** (1,340 fiber-optic lights, **Alcantara** suede) with **Bowers & Wilkins Diamond** 16-speaker audio system (1,820W, **DSP tuning by Bang & Olufsen**). **Momo** carbon-fiber shift paddles (extended, **Heusinkveld** hydraulic clutch pedal) and **Forge Motorsport** titanium gear knob (weight: 180g)."
+  ]
+}

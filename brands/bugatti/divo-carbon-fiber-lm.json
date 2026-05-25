@@ -1,0 +1,14 @@
+{
+  "brand": "BUGATTI",
+  "model": "DIVO CARBON FIBER LM",
+  "prestazioni": [
+    "Engine: 8.0L W16 quad-turbo (engine code: **QC16**) with a bespoke **Motec M150 ECU** remap targeting 1,800+ HP on **100-octane race fuel**, utilizing **Garrett GTX5544R Gen II turbos** (hybrid billet wheels, 76mm compressor, 106mm turbine) with **Tial MV-R 60mm wastegates** and **TurboSmart Race Port BOV** for optimized spool and boost response at 2.2 bar peak pressure.",
+    "Drivetrain: **Xtrac P1227 7-speed sequential transaxle** with **AP Racing CP9444-2 carbon-carbon clutch** (4-disc setup, 280mm diameter) and **Wavetrac ATB differential** (90% lock under load), paired with **Pankl Racing Systems 300M steel driveshafts** and **Brembo GT-R 6-piston calipers** (390mm CCM-R rotors) for extreme track endurance.",
+    "Suspension & Aero: **Öhlins TTX46 MkII 3-way adjustable coilovers** (250mm travel, remote reservoirs) with **Eibach ERS 1,200 lb/in springs**, **Bugatti-specific T45 steel subframe reinforcements**, and **AIM Motorsport MXL2 data logger** integrated with **Bosch MS 5.1 ECU** for real-time aero mapping. **Liberty Walk LM-spec carbon fiber front splitter** (3D-printed titanium supports) and **Rocket Bunny GT3 rear diffuser** (with active Gurney flap) generate 1,800 kg of downforce at 250 km/h."
+  ],
+  "estetica": [
+    "Exterior: **Full 3K twill weave carbon fiber body wrap** (matte clear coat with **PPG CeramiClear**) featuring **Vorsteiner LM-spec side skirts** (with integrated LED turn signals) and **Seibon Carbon hood** (dual NACA ducts, titanium latches). **HRE FF16 flow-formed wheels** (20x12.5 front, 21x15 rear) in **Forgeline Satin Black** with **Michelin Pilot Sport Cup 2 R tires** (325/30 R21, custom compound for 100°C track temps).",
+    "Interior: **Sparco LM Carbon Kevlar bucket seats** (FIA 8862-2009 certified) with **Schroth 6-point harnesses** and **Alcantara-wrapped steering wheel** (Bugatti OEM spec, **Momo quick-release hub**). **Roll cage: **Custom T45 steel **SCCA-legal** cage by **Autopower Industries** (with integrated fire suppression system by **Life Racing**). **Motec C127 dash display** replaces stock cluster, featuring **AEM CD-7 data overlay** for lap timing and boost pressure.",
+    "Lighting & Details: **Lux HID 8,000K headlights** (with **Morimoto D2S projectors**) and **Oracle Lighting LM-spec LED taillights** (sequential turn signals, carbon fiber housings). **Custom titanium exhaust tips** by **Akrapović** (dual 120mm outlets, Inconel 625 construction) with **laser-etched Bugatti LM logo**. **Aerodynamic side mirrors** by **VMR** (carbon fiber, **Gurney flap integrated**) with **Hella RS5000 fog lights** (carbon fiber bezels)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "BUGATTI",
+  "model": "BOLIDE TRACK CAR",
+  "prestazioni": [
+    "Replacement of the stock **8.0L W16 (Engine Code: QUAIFE W16)** quad-turbocharged internals with **Forged Mahle Motorsport pistons (9.0:1 compression ratio)** and **Carrillo H-beam connecting rods** to handle sustained 3,000+ hp outputs under 1.5 bar of boost, paired with a **custom Garrett GTX5544R Gen II turbocharger setup** (dual-ball bearing, titanium-aluminide turbine wheels) for reduced lag and 2,200+ cfm airflow at 100,000 RPM",
+    "Installation of a **Motec M1820 ECU** with **Bugatti-specific CAN bus integration** for real-time telemetry logging (1,000Hz sampling rate) and **active aero control**, including **Bosch Motorsport MS25 high-pressure fuel pumps (1,200+ bar rail pressure)** and **NGK R8482-10 laser-iridium spark plugs** for sub-1ms ignition response under 30,000 RPM conditions",
+    "Full **Öhlins TTX46 MkII coilover suspension** with **3-way adjustable damping (compression/rebound/blow-off)** and **MCS 4-way remote reservoirs**, paired with **Penske 8760 adjustable pushrods** and **Tillet B12 carbon fiber monocoque reinforcement plates** to reduce chassis flex by 42% under 3.5G lateral loads, while retaining the stock **Bugatti Dynamic Torque Vectoring (DTV) system** with **AP Racing CP9440-4 calipers** and **Brembo HTC64T carbon-ceramic rotors (420mm front, 380mm rear)**"
+  ],
+  "estetica": [
+    "Full **AeroTech Designs Bolide-specific carbon fiber aero package**, including a **fixed-position front splitter with 3D-printed titanium vortex generators (VG-12 profile)** for +1,200 lbs of downforce at 250 mph, a **rear diffuser with active Gurney flaps (electro-pneumatic actuation)** for adjustable rear downforce (0-1,800 lbs range), and **side skirts with NACA ducts feeding the W16’s intercoolers via dual 120mm carbon fiber intake plenums**",
+    "Replacement of the stock **Bugatti LED matrix headlights** with **Osram Laserline 2000 headlights (5,000-lumen output, 600-meter beam throw)** and **custom Hella Rallye 4000 fog lights (100W CREE XHP70.2 LEDs)** for high-speed night track sessions, paired with a **3M Scotchlite 8910 reflective striping kit** applied to the **carbon fiber monocoque’s roll cage (T45 steel, 2.5mm wall thickness)** for visibility under track lighting",
+    "Installation of a **Rocket Bunny x Bugatti collaboration widebody kit**, featuring **pre-preg carbon fiber fenders (2.5mm thickness, 3K twill weave)** with **integrated air curtains (dual 80mm outlets per side)** for brake cooling, **custom titanium exhaust outlets (Inconel 625, 120mm diameter)** wrapped in **Thermotec Titanium Heat Shielding**, and a **removable rear wing (CFRP, 1.8m span) with **F1-style DRS (Drag Reduction System) actuated via Bosch Servo Motors (0.1s response time)**"
+  ]
+}

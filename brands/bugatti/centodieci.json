@@ -1,0 +1,14 @@
+{
+  "brand": "BUGATTI",
+  "model": "CENTODIECI",
+  "prestazioni": [
+    "Upgrade to a bespoke **W16 8.0L quad-turbo (engine code: W16QT)** with reinforced internals, including forged Mahle pistons (9.0:1 compression ratio), Carrillo H-beam connecting rods, and a billet crankshaft from **Manley Performance** to handle 1,800+ HP on **100-octane race fuel** with a **Motec M150 ECU** for real-time lambda and boost mapping.",
+    "Install a **Garrett GTX5544R Gen II** turbocharger (custom-machined for W16QT) per bank, paired with **Tial MV-R 60mm wastegates** and **Precision Turbo & Engine 1000HP intercoolers** (dual-core, 4.5\" thick) to eliminate heat soak at sustained 2.8-bar boost levels.",
+    "Replace the stock **ZF 7-speed dual-clutch transmission** with a **Ricardo PLC 8-speed sequential gearbox** (used in LMP1 prototypes) with a **Tilton triple-plate carbon clutch** and **Penske 8760 adjustable differential** for 0.1s faster shifts and 1,200Nm torque capacity."
+  ],
+  "estetica": [
+    "Apply a **full 3M 1080 Carbon Fiber Wrap** (matte finish) with **Bugatti Heritage Edition** EB110-inspired livery stripes (hand-painted by **Kahn Design**) and **PPF (Paint Protection Film) by XPEL Stealth** on high-impact zones (front splitter, rocker panels).",
+    "Install **Rocket Bunny V3 Centodieci-specific widebody kit** (carbon fiber, 50mm wider rear fenders) with **custom 3D-printed titanium wheel spacers** (15mm front, 20mm rear) to fit **BBS FI-R 20x12\" (front) and 21x13\" (rear) forged wheels** wrapped in **Michelin Pilot Sport Cup 2 R tires (285/30 R20 front, 335/25 R21 rear)** for +30% mechanical grip.",
+    "Replace the stock LED taillights with **Oracle Lighting Centodieci Edition** sequential RGBW units (CAN-bus controlled) and integrate a **Vorsteiner carbon fiber rear diffuser** with **active Gurney flaps** (adjustable via a **Motec PDM15** for downforce tuning at speed)."
+  ]
+}

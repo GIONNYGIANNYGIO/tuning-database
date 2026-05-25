@@ -1,0 +1,14 @@
+{
+  "brand": "BUGATTI",
+  "model": "DIVO LADY BUG",
+  "prestazioni": [
+    "Engine: 8.0L W16 (Engine Code: **QUAIFE VR38DETT-derived quad-turbocharged W16**) – Full billet aluminum block reinforcement with **JE Pistons 9.0:1 forged slugs** and **Manley titanium intake valves** for 1,800+ HP on **Motul 300V 15W-50** racing oil.",
+    "Forced Induction: **Garrett GTX5544R Gen II turbos (x4)** with **Tial MV-R 60mm wastegates** and **Precision Turbo 1000HP intercoolers**, paired with a **Syvecs S12 ECU** for 40 psi boost mapping and **NGK R8993-10 Iridium IX spark plugs** for sustained 9,000 RPM operation.",
+    "Drivetrain: **Xtrac P1227 7-speed sequential transaxle** with **AP Racing 6-piston carbon-carbon clutch** and **OS Giken Super Lock LSD**, reinforced with **HRE FF01 forged wheels (20x12 front, 21x13 rear)** wrapped in **Michelin Pilot Sport Cup 2 R tires (285/30 R20 front, 355/25 R21 rear)** for 1.8G lateral grip."
+  ],
+  "estetica": [
+    "Aero: **Rocket Bunny P-01 DIVO-specific widebody kit** with **Vorsteiner carbon fiber front splitter** and **Aeromotions active rear wing (3-stage hydraulic adjustment)** for 2,200 lbs of downforce at 250 mph, finished in **PPG 'Lady Bug Red' (PBC-999) with black chrome flakes**.",
+    "Lighting: **Lux H8 V4 LED headlights** with **Dapper Lighting carbon fiber bezels** and **Morimoto XB35 HID fog lights**, paired with **Oracle Lighting RGB underglow (addressable WS2812B LEDs)** synchronized to **Link ECU telemetry**.",
+    "Interior: **Recaro Pole Position carbon-Kevlar seats** with **Schroth 6-point harnesses**, **MOMO Prototipo steering wheel (380mm, Alcantara-wrapped)**, and **AEM CD-7 dash display** integrated with **Bosch Motorsport ABS sensors** for real-time G-force tracking. Full **Dynamat Xtreme sound deadening** and **Bowers & Wilkins Diamond Series speakers** for cabin acoustics."
+  ]
+}

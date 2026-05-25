@@ -1,0 +1,14 @@
+{
+  "brand": "BUGATTI",
+  "model": "EB110 GT",
+  "prestazioni": [
+    "Engine: Replace the stock IHI turbochargers (model RH153) with a pair of Garrett GT4202R ball-bearing turbos, specifically calibrated for the EB110's 3.5L V12 (engine code: EB110) to achieve 1.5 bar of boost, paired with a custom titanium 4-into-1 exhaust manifold by Capristo for optimized exhaust gas flow and weight reduction.",
+    "Fuel System: Upgrade to a full Motec M150 ECU with individual cylinder control, paired with a set of 12x Bosch Motorsport 0280158861 high-flow injectors and a Radium Engineering dual-catch can system to handle the increased fuel demand and prevent oil vapor ingestion under sustained high-RPM operation.",
+    "Drivetrain: Install a Quaife ATB differential in the rear transaxle (specific to the EB110's 6-speed manual) to eliminate torque steer and improve power delivery, combined with a Sachs Performance twin-disc clutch (part #3000950005) rated for 1,200 Nm of torque to handle the increased output."
+  ],
+  "estetica": [
+    "Aerodynamics: Fit a full carbon-fiber aero package by Novitec Torado, including a custom front splitter with integrated canards, side skirts with air curtains, and a rear diffuser with an active Gurney flap (electronically adjustable via a MoTeC PDM15 for track/road modes).",
+    "Wheels: Replace the OEM magnesium wheels with a set of BBS LM-R 18x10.5 front and 18x13 rear forged wheels, wrapped in Michelin Pilot Sport Cup 2 R tires (255/35 ZR18 front, 335/30 ZR18 rear) for maximum mechanical grip and heat resistance.",
+    "Interior: Install a full Alcantara-wrapped Recaro Pole Position bucket seats (EB110-specific mounting brackets) with Schroth Profi II 6-point harnesses, paired with a custom carbon-fiber dashboard overlay by Carbone Italia featuring a Motec C127 digital dash for real-time telemetry and boost monitoring."
+  ]
+}

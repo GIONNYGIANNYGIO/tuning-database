@@ -1,0 +1,14 @@
+{
+  "brand": "BUGATTI",
+  "model": "EB110 SS",
+  "prestazioni": [
+    "Upgrade the **Type 673** 3.5L quad-turbocharged V12 with **Garrett GT35R** hybrid turbos (custom billet compressor wheels, 0.82 A/R turbine housings) paired with **Tial MV-R 44mm** wastegates and **TurboSmart Race Port BOV** for optimized spool and reduced lag, targeting 1,200+ HP on **VP Racing Q16** 118-octane fuel with **Motec M150 ECU** standalone management (OEM Bosch Motronic M2.7 replaced)",
+    "Install **JE Pistons 2618 forged slugs** (9.5:1 CR, custom dome profile) with **Manley Turbo Tuff I-beam connecting rods** (H11 tool steel, 180,000 PSI tensile strength) and **ACL Race Series bearings** (tri-metal, -0.001\" clearance) to handle 2.5 bar boost while retaining the **Bugatti-specific dry-sump oiling system** with **Moroso 6-stage pump** and **Setrab 50-row oil cooler**",
+    "Replace the OEM **Weissach-developed 6-speed manual transaxle** with a **Hewland LNF sequential gearbox** (dog-ring engagement, magnesium casing) mated to a **Tilton triple-plate carbon clutch** (4.5\" diameter, 3,000 lb clamp load) and **Quaife ATB differential** (85% lockup, billet housing) for lightning-fast shifts and improved torque distribution"
+  ],
+  "estetica": [
+    "Fit a **Liberty Walk LB-WORKS EB110 SS** widebody kit (carbon fiber, 50mm extended fenders, custom front splitter with integrated canards) paired with a **Rocket Bunny GT wing** (3D-printed aluminum uprights, 1,800mm span, -5° to +15° adjustable angle) for aggressive aero balance",
+    "Replace the OEM **Speedline magnesium wheels** with **BBS LM-R** (9x19\" front, 13x19\" rear, 3-piece forged, 6kg weight reduction per corner) wrapped in **Michelin Pilot Sport Cup 2 R** (245/35 R19 front, 345/30 R19 rear) for track-focused grip",
+    "Install a **Novitec Torado EB110** carbon fiber engine cover (clear-coated, exposed quad-turbo setup) with **Anodized titanium hardware** (ARP 625+, custom Bugatti-script laser-etched bolts) and **LED underbody lighting** (Philips Lumileds, 6,000K, 1,500 lumens) for a menacing night-time presence"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "BUGATTI",
+  "model": "CHIRON NOIRE",
+  "prestazioni": [
+    "Engine: Quad-Turbocharged 8.0L W16 (Engine Code: **QC16**) with upgraded **Garrett GTX5544R Gen II** turbos (custom billet compressor wheels, 76mm inducer, 106mm exducer) replacing stock units, paired with **Turbosmart Race Port BOV** (dual-port, 3.5\" outlet) to eliminate compressor surge at 2.8 bar boost (stock: 1.4 bar).",
+    "Fuel System: **Bosch Motorsport MS15.1** standalone ECU with **Motec PDM30** power distribution module, controlling **16x Injector Dynamics ID2600cc** (primary) and **8x ID1700cc** (secondary) injectors, fed by **Aeromotive A1000** dual-pump fuel system (2x in-tank pumps + 2x external surge tanks) with **Radium Engineering** fuel pressure regulators (set to 8.5 bar).",
+    "Exhaust: **Akrapovič Titanium Full Race System** (4-2-1 merge collectors, 4.5\" diameter, 304-grade titanium) with **REMUS Valvetronic** electronically controlled bypass valves (mapped via MS15.1 for 3-stage sound profiles: \"Stealth,\" \"Sport,\" \"Track\") and **GESI** high-flow catalytic converters (100-cell, 0.03\" wall thickness) to retain Euro 6d compliance."
+  ],
+  "estetica": [
+    "Aero: **Vorsteiner Chiron Noire Edition** carbon fiber widebody kit (custom 3-piece front splitter with **Gurney flaps**, rear diffuser with **active Venturi tunnels** (hydraulically actuated via **Bosch Rexroth** servos), and **fixed rear wing** (replacing stock active wing) with **Dymag RB-T** carbon fiber blades (30% lighter than stock).",
+    "Wheels: **BBS FI-R** forged magnesium wheels (20\"x11\" front, 21\"x14\" rear) with **Pirelli P Zero Trofeo R** semi-slick tires (355/25 R21 rear, 285/30 R20 front), wrapped in **HRE Performance** custom center-lock adapters (titanium, 50% lighter than OEM).",
+    "Interior: **Recaro Pole Position** carbon-Kevlar bucket seats (FIA 8862-2009 certified) with **Schroth Profi II-6** 6-point harnesses, **MOMO Mod.70** suede steering wheel (380mm diameter, Alcantara-wrapped with **Heim Joint** quick-release hub), and **Alcantara** headliner/door cards (fireproof, **Nomex** backing) with **LED-embedded** Bugatti \"EB\" logos (RGB, **Philips Hue** controlled)."
+  ]
+}

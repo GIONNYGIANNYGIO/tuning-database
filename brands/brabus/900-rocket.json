@@ -1,0 +1,14 @@
+{
+  "brand": "BRABUS",
+  "model": "900 ROCKET",
+  "prestazioni": [
+    "Engine: M177/M178 (4.0L V8 Biturbo, Mercedes-AMG M177/M178 DE40 AL) – Full BRABUS 900 Stage 2+ ECU/TCU remap with custom dyno-tuned ignition timing and fuel maps, targeting 900PS (887hp) at 6,500 RPM and 1,200Nm (885 lb-ft) torque from 2,900-5,800 RPM, utilizing a BRABUS-specific Garrett GTX5533R Gen II turbocharger upgrade with billet compressor wheels, titanium nitride-coated turbine housings, and 44mm wastegates for optimized spool and reduced lag",
+    "Forced Induction: BRABUS 900-spec high-flow intercooler system with dual 1,200g/s core capacity, custom 3.5-inch silicone charge pipes (reinforced with Kevlar weave), and integrated water-methanol injection (AEM 3400psi pump with dual-nozzle setup) for intake temps below 35°C under full boost (1.8 bar peak)",
+    "Exhaust: BRABUS 900 Rocket Titanium Valvetronic Sport Exhaust System with quad 90mm carbon-fiber tips, electronically controlled butterfly valves (mapped to ECU for backpressure optimization), and a secondary bypass resonator delete for aggressive 110dB+ acoustics under WOT, paired with a custom 304 stainless steel downpipe featuring 200-cell catalytic converters for emissions compliance"
+  ],
+  "estetica": [
+    "Aerodynamics: BRABUS Rocket 900-specific 'Aero X' widebody kit (carbon-fiber construction, 50mm extended fenders with integrated air curtains), paired with a BRABUS 'Front Wing' carbon splitter (adjustable 3-stage angle for downforce tuning) and a 'Rocket Tail' active rear diffuser with Gurney flap (electronically deployable at speeds above 120 km/h)",
+    "Wheels: BRABUS Monoblock R 'Platinum Edition' forged wheels (21x10.5 ET25 front, 22x12.5 ET30 rear) with custom concave profiles, titanium wheel bolts, and Michelin Pilot Sport Cup 2 R tires (275/30 ZR21 front, 325/25 ZR22 rear) for optimized load distribution and heat cycling",
+    "Interior: BRABUS 900 'Rocket Cabin' overhaul featuring carbon-fiber Recaro Pole Position seats (FIA 8862-2009 certified, 12-way adjustable with integrated heating/cooling), Alcantara-wrapped dashboard with 'Rocket Stitch' pattern, and a BRABUS 'iBusiness' infotainment system with 12.3-inch curved display, 5G connectivity, and a 1,200W Burmester 4D sound system with titanium tweeters"
+  ]
+}
