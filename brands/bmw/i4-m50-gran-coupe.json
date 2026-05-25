@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "I4 M50 GRAN COUPE",
+  "prestazioni": [
+    "BMW B58TU-B30A (G60) 3.0L inline-6 hybrid-turbo engine: Full bolt-on Stage 2+ tune with a Dinan Engineering ECU flash (380whp/450wtq on 93 octane) paired with a CSF high-flow aluminum radiator and a 764 Motorsports charge pipe upgrade to eliminate plastic failure points under sustained boost (22 psi peak).",
+    "Garrett GTX3582R turbocharger (82mm compressor wheel, .82 A/R turbine housing) with a custom Precision Race Components wastegate (44mm, dual-port) and a Turbosmart Comp-Gate40 external wastegate for precise boost control, mated to a custom 3.5\" titanium downpipe with a secondary catalytic converter delete (for track use only).",
+    "Ohlins Road & Track coilovers (DFV damping, 80mm stroke, 12-position rebound adjustment) with custom valving for the G26 chassis, paired with a 25mm H&R front sway bar (adjustable) and a 22mm Eibach rear sway bar to eliminate body roll during high-speed cornering, while maintaining OEM-level ride comfort for daily driving."
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (G26-specific, carbon fiber front fenders, rear quarter panels, and rear bumper) with custom 3M Matte Glacier White wrap and a 2\" extended rear diffuser for improved aerodynamics at high speeds.",
+    "Vorsteiner V-FF 109 21\" forged wheels (9.5\" front, 11.5\" rear, ET35/ET25) in Hyper Silver finish, wrapped in Michelin Pilot Sport Cup 2 R tires (275/30/21 front, 305/25/21 rear) for maximum grip and heat resistance under track conditions.",
+    "Custom carbon fiber M Performance-style kidney grilles (painted in gloss black) with integrated LED DRLs, paired with a Seibon carbon fiber hood (with functional heat extractor vents) and a custom rear spoiler (3D-printed from PETG, 3\" height, adjustable angle) for optimized downforce without excessive drag."
+  ]
+}

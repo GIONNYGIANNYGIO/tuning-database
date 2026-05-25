@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "I8 ROADSTER",
+  "prestazioni": [
+    "Hybrid powertrain overhaul: Replace the stock N63 1.5L turbocharged I3 (B38A15M0) with a custom-built B38A15M0T featuring a Garrett GT2260S turbo, upgraded Mahle forged pistons (8.5:1 compression), and a Gintani Stage 3 hybrid turbo kit with a 2.2L intercooler core for sustained 450+ hp at 7,000 RPM. Pair with a high-voltage (400V) battery upgrade from Kreisel Electric (KBP400) to support 0-60 mph in 3.2s.",
+    "Drivetrain reinforcement: Install a Quaife ATB differential (QDF15H) in the rear axle with a custom 3.73:1 ratio, paired with a Sachs Performance dual-mass flywheel (3000 951 001) and a South Bend Clutch Stage 3 (SD2600) to handle the increased torque. Replace the stock 6-speed Steptronic with a Getrag 7DCL750 7-speed DCT from the M4 GTS, recalibrated via a Dimsport Genius 2.0 ECU tune for launch control and flat-shift tuning.",
+    "Suspension and handling: Swap the stock adaptive dampers for a full Öhlins Road & Track DFV kit (BMW I8-specific, part #DFV001-BMW-I8-R), featuring 24-way adjustable compression/rebound damping, spherical bearings, and custom spring rates (front: 18 kg/mm, rear: 22 kg/mm). Add a H&R Monoball subframe kit (300 142 001) and a full carbon fiber front splitters from 991 Motorsports (I8-specific, part #991-I8-R-FSPLIT) to reduce understeer and improve turn-in response."
+  ],
+  "estetica": [
+    "Carbon fiber widebody conversion: Install a Liberty Walk LB-WORKS I8 Roadster kit (LB-0378), featuring extended front fenders (30mm wider), rear quarter panels (40mm wider), and a custom carbon fiber rear diffuser with integrated titanium exhaust tips (Akrapović Evolution Line, part #E0601-1100). Paint in BMW Individual Frozen Portimao Blue (354) with matte black accents on the side skirts and mirror caps.",
+    "Aerodynamic enhancements: Add a custom 3D-printed front splitter with active Gurney flaps (controlled via Bosch Motorsport ECU) and a fixed carbon fiber rear wing from Vorsteiner (V-FW-180, I8-specific, 1,200g downforce at 120 mph). Replace the stock soft top with a Heuliez-designed hardtop conversion (carbon fiber, 18kg weight reduction) featuring a removable Targa panel for open-air driving.",
+    "Interior and lighting: Retrofit the cabin with a full Alcantara and carbon fiber trim from BMW Individual (part #51-48-2-459-968), including a custom roll bar (Weissach Carbon, part #WSC-I8-RB) wrapped in Nappa leather. Replace the stock LED headlights with a Laserlight system from Hella (part #8EL 010 320-001) and add a full RGB ambient lighting kit from Lighting4Performance (L4P-I8-RGB) with 16 individually programmable zones."
+  ]
+}

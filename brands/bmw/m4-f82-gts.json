@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "M4 F82 GTS",
+  "prestazioni": [
+    "Engine: S55B30T0 (3.0L twin-turbo inline-6) – Full carbon fiber intake system by Eventuri with CNC-machined velocity stacks and OEM-style airbox delete for optimized airflow and throttle response, paired with a custom Alpha-N ECU tune from MSS50 by Protuning Freaks (Japan) targeting 650whp on E85 with stock turbos (hybridized TD05H-18G wheels from Garrett for extended spool and 22psi peak boost).",
+    "Turbochargers: Stock S55 turbos upgraded with BorgWarner EFR 8374 compressor wheels (0.86 A/R) and custom billet aluminum compressor housings by Pure Stage 2, mated to custom 3.5\" stainless steel downpipes with 200-cell catalytic converters by Eisenmann for backpressure reduction and aggressive turbo spool.",
+    "Suspension: Ohlins Road & Track DFV coilovers with 2-way adjustable dampers, custom valving for the F82 GTS-specific rear subframe, and spherical bearing top mounts by 034 Motorsport. Front camber plates by Vorshlag Motorsport with -3.5° static camber, paired with MCS 3-way adjustable remote-reservoir dampers for track use (adjustable compression/rebound in 24 clicks)."
+  ],
+  "estetica": [
+    "Aero: Full Rocket Bunny V3 widebody kit (FRP construction) with custom carbon fiber front splitter (35mm overhang) and rear diffuser by 991R Design, featuring integrated brake ducts and a 3D-printed NACA duct for intercooler airflow. Rear wing is a custom 1,800mm carbon fiber GT3-style unit by APR Performance with dual-element design and adjustable angle of attack (0-15°).",
+    "Wheels: Forged aluminum BBS FI-R 19x10.5\" ET25 (front) and 19x12\" ET45 (rear) with custom offset to clear Ohlins coilovers, wrapped in Michelin Pilot Sport Cup 2 R tires (275/35/19 front, 305/30/19 rear). Wheel spacers are 15mm front and 25mm rear by H&R, with titanium wheel bolts by ARP.",
+    "Exterior: Full GTS-specific livery by Fostla.de in matte Nardo Grey with gloss black accents, including custom carbon fiber side skirts with integrated LED turn signals (Lux H8 V4), and a custom front bumper lip by Vorsteiner with integrated tow hooks. Rear bumper features a custom diffuser delete for improved aerodynamics, and the entire body is wrapped in 3M 1080 Satin Matte vinyl with a 20% gloss overlay."
+  ]
+}

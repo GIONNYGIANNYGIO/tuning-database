@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "X5 4.8IS",
+  "prestazioni": [
+    "Engine: N62B48 (4.8L V8, 360hp stock) – Full forged internals build by Mahle Motorsports including forged pistons (9.5:1 CR), Carrillo H-beam connecting rods, and a billet crankshaft with upgraded main and rod bearings (ACL Race Series).",
+    "Forced Induction: Precision Turbo & Engine PT6266 CEA turbocharger (62mm inducer, 66mm exducer) with a custom 3.5\" stainless steel turbo manifold (fabricated by TurboLab USA) and a Tial MV-R 44mm external wastegate (set to 18psi peak boost with a 3.5-bar MAP sensor upgrade).",
+    "Fuel & Ignition: Full Motec M150 ECU standalone management with dual Bosch 044 high-flow fuel pumps, Injector Dynamics ID1050x fuel injectors, and a custom 10-layer silicone fuel rail (Radium Engineering). Ignition system upgraded to MSD 8516 coil packs and NGK 97506 Iridium IX spark plugs (gapped at 0.024\")."
+  ],
+  "estetica": [
+    "Widebody Conversion: Prior Design PD-X5RS widebody kit (carbon fiber fenders, front/rear bumpers, and side skirts) with custom 25mm extended wheel arches to accommodate 22x11.5\" ET25 front and 22x12.5\" ET30 rear BBS LM-R wheels (staggered fitment).",
+    "Aerodynamics: Custom carbon fiber rear diffuser by 996 Motorsports (designed for the X5 chassis) paired with a Vorsteiner V-FF 102 front splitter (3-piece adjustable) and a custom 3D-printed active rear wing (NACA duct integrated, adjustable via electric actuators).",
+    "Interior & Lighting: Full Alcantara-wrapped interior by Euro-Design including Recaro Pole Position seats (carbon fiber backs), MOMO Prototipo steering wheel (suede, 350mm diameter), and custom LED ambient lighting (RGBW, controlled via Arduino-based system with OLED touchscreen interface)."
+  ]
+}

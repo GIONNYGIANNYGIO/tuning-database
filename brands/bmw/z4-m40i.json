@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "Z4 M40i",
+  "prestazioni": [
+    "MST Performance Stage 2+ ECU flash for the B58B30M0 (382hp stock) targeting 500whp via E50 ethanol blend, ported throttle body, and upgraded high-pressure fuel pump (HPFP) with a Pierburg CWA50 for sustained boost levels up to 24psi on a Pure Stage 2 turbo kit (Garrett GTX3582R Gen II with billet compressor wheel, 0.82 A/R turbine housing, and TiAL MV-R 44mm wastegate)",
+    "Full bolt-on cooling system overhaul: CSF Racing B58-specific aluminum radiator (part #7052), GPlus B58 intercooler (3.5\" core thickness, 50% larger than OEM), and a Setrab 19-row oil cooler (10AN fittings) with a Davies Craig EWP150 electric water pump for post-track cooldown",
+    "Drivetrain reinforcement: MFactory 2.17 final drive ratio LSD (800Nm torque capacity), billet differential cover with upgraded clutch packs, and a Sachs Performance Stage 3 dual-mass flywheel (SMFW) paired with a Spec Stage 3+ multi-disc clutch (6 puck, 800ft-lb torque rating) for launch control abuse"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (Z4 G29-specific, 30mm extended fenders, carbon fiber overfenders, and aggressive front splitter with integrated canards) paired with a custom Vorsteiner GTS5 20\" forged wheel setup (9.5\" front, 11.5\" rear, ET22/ET12 offsets, matte bronze finish) and Michelin Pilot Sport Cup 2 R tires (265/30/20 front, 295/25/20 rear)",
+    "Full carbon fiber interior swap: Status Gruppe carbon fiber steering wheel (M Performance-style, Alcantara grip, 320mm diameter), Recaro Pole Position seats (carbon shell, FIA-approved, 6-point Schroth harnesses), and a custom roll cage (1.75\" DOM steel, TIG-welded, with integrated fire suppression system by SPA Technique)",
+    "Aggressive aero package: APR Performance GTC-300 adjustable carbon fiber rear wing (300mm chord, 3D-printed mounts for Z4-specific trunk integration), custom 3D-printed front diffuser with vortex generators (tested in CFD for 15% more downforce at 120mph), and a custom titanium exhaust system by Remus (4-2-1 headers, 3.5\" dual outlets, valvetronic delete for straight-pipe aggression)"
+  ]
+}

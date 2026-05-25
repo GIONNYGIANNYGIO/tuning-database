@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "i5 M60",
+  "prestazioni": [
+    "Hybrid turbocharger upgrade: Garrett GTX5533R Gen II with billet compressor wheel (64mm inducer, 88mm exducer) and titanium-aluminide turbine wheel, paired with a custom 4.0L N63-based S68B50T0 (electric-assisted) engine calibration via MHD Flasher Stage 3+ with ethanol flex-fuel mapping (E85 compatible) and upgraded fuel system including dual Bosch Motorsport 044 high-flow fuel pumps and Injector Dynamics ID1700x injectors",
+    "Full drivetrain reinforcement: Wavetrac limited-slip differential with 45% lockup under load, paired with a Sachs Performance dual-mass flywheel (DMF) delete kit and uprated 800Nm-rated driveshafts from G-Power, alongside a ZF 8HP76X 8-speed transmission remapped via Dimsport Genius for 0.05s faster shifts and launch control at 4,500 RPM",
+    "Cooling and thermal management: CSF Racing dual-core aluminum radiator with integrated oil cooler, paired with a PWR Australia 500W electric water pump and a custom 3D-printed titanium intercooler piping kit (replacing the OEM plastic) with silicone couplings from Vibrant Performance, alongside a Motec M150 ECU for real-time thermal load balancing and active cooling fan control"
+  ],
+  "estetica": [
+    "Carbon fiber widebody conversion: Rocket Bunny V3 i5-specific kit (fenders, front bumper, rear diffuser, and side skirts) with OEM-level paint-matched finish, including custom 3D-printed carbon fiber side mirror caps and a functional carbon fiber hood with integrated NACA ducts for brake cooling",
+    "Suspension and stance: KW Suspensions Clubsport 3-way adjustable coilovers with remote reservoirs (24-way rebound, 18-way compression, and adjustable top mounts), paired with H&R 30mm front and 25mm rear spacers for aggressive flush fitment on OZ Racing Ultraleggera HLT 20x10 ET35 (front) and 20x11 ET40 (rear) wheels, wrapped in Michelin Pilot Sport Cup 2 R tires (275/30/20 front, 295/25/20 rear)",
+    "Aerodynamic and lighting: Vorsteiner V-FF 102 front lip spoiler with integrated LED DRLs (Lux H8 V4 bulbs), paired with a custom 3D-printed carbon fiber rear wing (adjustable angle of attack via electronic actuators) and sequential LED taillights from LUX Automotive, alongside a full de-chrome treatment with matte black vinyl wrap (3M 2080 Satin Black) and carbon fiber interior trim (dashboard, door cards, and center console) from AC Schnitzer"
+  ]
+}

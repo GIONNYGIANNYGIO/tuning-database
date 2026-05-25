@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "X5M",
+  "prestazioni": [
+    "M Performance Power Kit for S63B44T4 (Stage 2.5) with custom ECU flash by PTG (Performance Tuning Group), targeting 720 HP and 750 lb-ft on 93 octane via upgraded fuel injectors (Siemens Deka 1050cc) and high-flow fuel pump (Walbro 450 LPH), paired with a CSF Racing S63 intercooler and charge pipes (aluminum 3.5\" diameter)",
+    "Full turbocharger upgrade to Pure Stage 2+ turbos (ball-bearing, 62mm inducer/84mm exducer) with custom wastegate actuators (TurboSmart 45mm) and TiAL MV-R 50mm blow-off valves, mated to a custom 4\" downpipe (VRSF catted) and Akrapovič Evolution exhaust with quad 3.5\" tips",
+    "Drivetrain reinforcement with M-DCT transmission tune by MSS (MotorSports Software) for 0.05s faster shifts, upgraded Sachs Performance clutch (triple-disc, 1,200 Nm capacity), and a Quaife ATB differential (80% lock) with upgraded half-shafts (GPower 300M steel)"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (FRP construction) with custom carbon fiber front splitter (Vorsteiner-style) and rear diffuser (Seibon carbon), paired with OEM+ M Performance side skirts and rear spoiler (carbon fiber, 30mm taller than stock)",
+    "HRE FF03 wheels (22x10.5 ET35 front, 22x12 ET45 rear) with Michelin Pilot Sport Cup 2 R tires (295/30/22 front, 325/25/22 rear), wrapped in a custom matte BMW Individual Frozen Deep Green paint (PPG DBC basecoat) with gloss black accents",
+    "Full interior overhaul with Recaro Pole Position seats (carbon shell, Alcantara/leather), M Performance steering wheel (suede, flat-bottom), and custom roll cage (Chromoly 4130, bolt-in) by Status Racing, finished with a digital dash (MOTEC C127) and carbon fiber trim (1x1 weave, satin finish)"
+  ]
+}

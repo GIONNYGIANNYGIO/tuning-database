@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "M8 COMPETITION GRAN COUPE",
+  "prestazioni": [
+    "Full bolt-on turbo upgrade for the S63B44T4 (4.4L V8 twin-turbo) utilizing a pair of Garrett GTX5533R Gen II turbos with billet compressor wheels, 76mm inducers, and 3D-printed titanium turbine housings to push 850whp on E85 while maintaining OEM-like spool characteristics. Matched with a CSF Racing titanium intercooler core (part #CSF-8219Ti) and custom 4-inch silicone charge pipes from Vibrant Performance (part #17944) to eliminate heat soak under sustained 2.5-bar boost.",
+    "Motec M150 ECU standalone conversion with a bespoke calibration by Dimsport North America, integrating a Bosch Motorsport 0261S02082 flex-fuel sensor and a Continental Engineering Services (CES) 350-bar direct-injection pump to support 30% ethanol blends. Paired with a custom 10-layer fuel rail from Injector Dynamics (part #ID1700x) and a set of Nostrum Energy billet fuel injectors (part #NE-2200) for precise lambda control at 12.5:1 AFR under full load.",
+    "Full drivetrain reinforcement starting with an MFactory 2-disc carbon clutch (part #MFT-HD2-240T) and a billet aluminum flywheel (part #MFT-FW-240T), mated to a Wavetrac limited-slip differential (part #WVT-135-A) with a 45% lockup bias. The 8-speed ZF 8HP76 transmission receives a Level 10 JB Racing valve body (part #JB-8HP-L1) and a PRL Motorsports transmission cooler (part #PRL-TC-8HP) to handle 900Nm of torque without fluid degradation."
+  ],
+  "estetica": [
+    "Full carbon fiber widebody conversion using the Liberty Walk LB-WORKS M8 kit (part #LB-M8-GC), featuring hand-laid 2x2 twill weave with a gloss clear coat and integrated carbon fiber side skirts with functional air vents for brake cooling. The kit includes a custom front splitter with a 3D-printed aluminum support brace and a rear diffuser with integrated titanium exhaust tips from Akrapovic (part #AK-TI-M8-GC).",
+    "OEM+ interior overhaul with a full Alcantara headliner and A-pillar trim from Euro Design Werks (part #EDW-M8-ALC-HL), paired with a custom M Performance steering wheel (part #32-20-2-479-079) wrapped in Nappa leather with red contrast stitching. The rear seats are replaced with Recaro Pole Position seats (part #RPO-CS) upholstered in Alcantera and carbon fiber, featuring integrated 4-point Schroth harnesses (part #ASM-4204).",
+    "Aggressive stance achieved with a KW Clubsport 3-way coilover kit (part #3W935100) with 25mm front and 20mm rear camber plates, paired with HRE FF16 flow-formed wheels (20x10.5 ET25 front, 21x12.5 ET45 rear) in a satin black finish. The wheels are wrapped in Michelin Pilot Sport Cup 2 Connect tires (275/30/20 front, 325/25/21 rear) with custom TPMS sensors from Intelligent Tire (part #IT-TPMS-BMW)."
+  ]
+}

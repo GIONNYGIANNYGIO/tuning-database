@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "VISION M NEXT PROTOTYPE EVO",
+  "prestazioni": [
+    "Hybrid powertrain upgrade: Replace the stock PHEV system with a custom-built **BMW S58T (3.0L twin-turbo I6 + electric motor) hybrid setup**, utilizing a **McLaren Applied 800V silicon carbide inverter** for 30% faster torque response and a **Garrett GTX5544R Gen II turbocharger** (1.4 bar peak boost) to achieve 850 hp (650 hp ICE + 200 hp electric) with a **Pectel SQ6M ECU** for real-time hybrid torque vectoring calibration.",
+    "Chassis reinforcement: Install a **BMW M Division carbon-fiber monocoque reinforcement kit** (part #82-11-2-470-001) with **AP Racing CP9661-4000 6-piston front calipers** and **Brembo GT-R 390mm rear rotors** (floating, two-piece) for 40% increased brake torque under hybrid regenerative braking loads.",
+    "Suspension dynamics: Fit **Öhlins TTX46 MkII coilovers** with **Motec C187 damper controllers** (24-way adjustability) and **Eibach ERS 1200N/mm helper springs** to counteract the 1,550 kg hybrid weight distribution, paired with **HRE FF16 21x10.5 ET25 front / 22x12.5 ET35 rear wheels** wrapped in **Michelin Pilot Sport Cup 2 R (305/25 R21 front, 325/25 R22 rear)** for 1.8g lateral grip."
+  ],
+  "estetica": [
+    "Aerodynamic overhaul: Replace the stock Vision M NEXT aero with a **Rocket Bunny V3 widebody kit (BMW-specific carbon-fiber, part #RB-BMW-VMNEXT-001)** featuring a **Gurney flap-integrated rear diffuser** (3D-printed titanium, 40% downforce increase) and **Vorsteiner V-FF103 front splitter** with active **Dymag carbon-fiber canards** (adjustable via MoTeC PDM15).",
+    "Lighting customization: Retrofit **Osram Laserline 2.0 headlights** (800m range, adaptive matrix) with **Lux H8 Angel Eyes (RGBW, 12,000K CCT)** and **Morimoto XB35 LED fog lights** (DRL mode, 5,000-lumen output) for track-day visibility, paired with **Novitec Shadowline blackout trim** for the kidney grilles and side gills.",
+    "Interior transformation: Install a **Recaro Pole Position SPG XL (carbon-Kevlar shell, FIA 8862-2009 certified)** with **Schroth Profi II 6-point harnesses**, a **MOMO Prototipo Evo steering wheel (D-shaped, Alcantara with carbon paddle shifters)**, and a **Motec C127 dash logger** (replacing the stock iDrive display) with **AEM CD-7 data overlay** for hybrid powertrain telemetry."
+  ]
+}

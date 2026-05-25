@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "NAZCA C2",
+  "prestazioni": [
+    "Engine swap to a BMW S70/2 6.1L V12 (from the McLaren F1) with a custom dry-sump system by Peterson Fluid Systems, paired with a Hollinger sequential 6-speed transmission (H6SQ) and a Sachs Performance twin-disc clutch (Part # 3000 951 001) for 650+ hp at 7,400 RPM and 500 lb-ft of torque at 5,600 RPM",
+    "Full titanium exhaust system by Remus (Part # 0880000) with 3.5-inch diameter piping, Inconel 625 headers, and a custom X-pipe setup with electronically controlled butterfly valves for backpressure optimization, tuned via a Motec M150 ECU with individual cylinder fuel and ignition mapping",
+    "Forced induction via a custom twin-turbo setup using Garrett GTX5533R Gen II turbos (Part # 807177-5003S) with TiAL MV-R 60mm wastegates (Part # MVR60), a custom air-to-water intercooler by PWR (Part # PWI1000), and a Bosch 044 fuel pump with dual Walbro 450 LPH pumps for E85 compatibility"
+  ],
+  "estetica": [
+    "Full carbon fiber body kit by AC Schnitzer (Part # ACS8-6-001) including a custom front splitter with integrated canards, side skirts with NACA ducts for brake cooling, and a rear diffuser with active Gurney flap (adjustable via a MoTeC PDM15)",
+    "Custom 20-inch forged wheels by BBS (Part # LM-R II 997) in a 9.5x20 ET25 front and 12x20 ET5 rear configuration, wrapped in Michelin Pilot Sport Cup 2 R tires (265/30/20 front, 325/25/20 rear) with a custom TPMS system by Schrader (Part # 20008)",
+    "Full interior overhaul with Recaro Pole Position seats (Part # 208000) upholstered in Alcantera and carbon fiber, a custom roll cage by Matter Fab (Part # MF-BMW-NAZCA-C2) with integrated fire suppression system by Lifeline (Part # FFSS-4), and a digital dash by AIM MXS Strada (Part # 1.20.02) with GPS lap timer and OBD-II integration"
+  ]
+}

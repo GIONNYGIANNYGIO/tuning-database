@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "Z4 GT3 RACE CAR",
+  "prestazioni": [
+    "P60B44 4.4L V8 engine (S65-derived, GT3-spec) with a custom Schrick 288-degree camshaft profile, upgraded titanium valves from Ferrea, and a dry-sump oiling system utilizing a Peterson Fluid Systems 4-stage pump for sustained 8,500 RPM operation in endurance racing conditions",
+    "Motec M150 ECU with bespoke GT3 calibration mapped by HJS Motorsport, featuring anti-lag strategies for the Akrapovič 3.5-inch titanium exhaust system with equal-length headers and a 100-cell catalytic converter bypass for FIA GT3 compliance",
+    "Penske 8760 3-way adjustable coilovers with spherical bearing top mounts, paired with a BMW Motorsport GT3-spec front subframe reinforcement kit (P/N 31-30-2-485-648) and a rear adjustable anti-roll bar from Eibach (25mm, 3-way adjustable) for precise yaw control in high-speed cornering"
+  ],
+  "estetica": [
+    "BMW Motorsport GT3 carbon fiber front splitter with integrated dive planes (P/N 51-11-2-485-649) and a custom 3D-printed Gurney flap by 9tuning for optimized front-end downforce at Le Mans speeds",
+    "Recaro SP-GT II carbon-Kevlar racing seats with Schroth 6-point harnesses (FIA 8862-2009 certified) and a custom roll cage by Matter Motorsport featuring a 4-point rear strut brace and integrated fire suppression system (Lifeline Zero 360, 4kg capacity)",
+    "Aerodynamic package featuring a GT3-spec carbon fiber rear diffuser (P/N 51-71-2-485-650) with vortex generators and a custom 1,200mm-wide rear wing from APR Performance (GT-500 model, 3D-printed endplates) for balanced high-speed stability"
+  ]
+}

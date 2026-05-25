@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "X6M COMPETITION",
+  "prestazioni": [
+    "Engine: S63B44T4 (4.4L V8 Twin-Turbo) – Full bolt-on turbo upgrade with **Garrett GTX5533R Gen II** turbos (1.35 A/R, 67mm inducer, 91mm exducer) paired with **Precision Turbo 7675** wastegates, supporting 850whp on E85 with **Motec M150 ECU** standalone management and **Bosch Motorsport 2000cc injectors**.",
+    "Drivetrain: **Wavetrac ATB differential** (85% lock) with **South Bend Clutch Stage 3+ twin-disc** (ceramic-metallic, 1000Nm torque capacity) and **G-Power carbon driveshaft** to eliminate drivetrain loss. **ZF 8HP76X 8-speed transmission** flashed with **HP Tuners TCM tune** for 0.15s faster shifts and **G-Power transmission cooler** with dual **Setrab 50-row oil coolers**.",
+    "Suspension/Handling: **KW Suspensions Clubsport 3-way coilovers** (100mm front/90mm rear adjustability, 24-way rebound, 12-way compression) with **H&R 30mm front/25mm rear anti-roll bars** and **034 Motorsport solid subframe bushings**. **AP Racing 6-piston front/4-piston rear** big brake kit (400mm rotors, RST pads) with **Motul RBF 660** brake fluid and **Goodridge G-Stop stainless steel lines**."
+  ],
+  "estetica": [
+    "**Vorsteiner V-RT Aero Kit** (carbon fiber front splitter, side skirts, rear diffuser, and **GT-style rear wing** with adjustable angle), **Rocket Bunny V3 widebody conversion** (50mm front/60mm rear fender flares) with **HRE FF03 22x11 ET25/22x12 ET30 wheels** (matte bronze, 5x120, 112.2mm hubcentric) wrapped in **Michelin Pilot Sport Cup 2 R** (295/25R22 front, 325/25R22 rear).",
+    "**G-Power Hurricane RS bodywork** (carbon fiber hood with **3D-printed active vents**, rear bumper with **integrated titanium exhaust outlets**) and **LuxuryTec full LED adaptive headlights** (Cree XHP70.2, 12,000-lumen output) with **Morimoto XB35 HID projectors**.",
+    "**Recaro Sportster CS seats** (carbon fiber shell, Alcantara/leather, 6-point Schroth harnesses) with **MCS Motorsport bolt-in roll cage** (T45 steel, 6-point, **custom gusseted rear strut tower brace**) and **AEM CD-7 dash** (12.3\" touchscreen, **Motec PDM15** power distribution module, **AEM 30-0300 wideband sensors**)."
+  ]
+}

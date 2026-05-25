@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "Z3 M COUPE",
+  "prestazioni": [
+    "Engine: S54B32 (3.2L I6) with a custom Schrick 288° camshaft upgrade for increased high-RPM power, paired with a Vibrant Performance 76mm titanium exhaust system featuring a straight-pipe design and 304 stainless steel headers to optimize scavenging for the S54's individual throttle bodies (ITBs).",
+    "Forced Induction: Garrett GT3076R turbocharger (0.82 A/R turbine housing) with a custom-built cast manifold by TurboLab (Germany), utilizing a Precision Turbo 46mm wastegate and a Tial MV-R 50mm blow-off valve. Supporting mods include a CSF radiator, upgraded oil cooler (Setrab 20-row), and a custom intercooler setup with a GReddy Type-S front-mount core (2.5\" piping).",
+    "Drivetrain & Handling: OS Giken Super Lock LSD (2.2-way) with 85W-140 GL-5 gear oil, paired with a Sachs Performance Stage 3 clutch (single-disc, 6-puck) and a lightweight aluminum flywheel (11.8 lbs). Suspension features Ohlins Road & Track coilovers (DFV damping, 22-way adjustable) with Eibach ERS 1000N/mm springs, reinforced with Hotchkis subframe connectors and a polyurethane differential mount insert (034 Motorsport)."
+  ],
+  "estetica": [
+    "Body Kit: Rocket Bunny V1 Z3 M Coupe widebody kit (carbon fiber fenders, front bumper, and rear diffuser) with custom 3M Matte Graphite vinyl wrap and a custom-molded carbon fiber roof (replacing the stock steel panel, saving ~12 lbs).",
+    "Wheels & Stance: BBS LM-R (9x18 ET20 front, 10.5x18 ET25 rear) with custom center-lock adapters (using BMW M5 wheel bolts), wrapped in Michelin Pilot Sport Cup 2 tires (245/35/18 front, 285/30/18 rear). Fender flares are rolled and pulled with a custom inner liner delete for maximum tire clearance.",
+    "Interior & Aero: Recaro Pole Position seats (carbon fiber backs, Alcantara inserts) with Schroth Profi II 4-point harnesses, paired with a MOMO Mod.78 steering wheel (350mm, suede). Aero includes a custom carbon fiber rear wing (duckbill-style, 3D-scanned from a 997 GT3 RS) and a Vorsteiner carbon fiber front splitter with integrated canards (3D-printed ABS mounts)."
+  ]
+}

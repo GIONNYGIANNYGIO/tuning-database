@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "Z4 M COUPE",
+  "prestazioni": [
+    "Engine: S85B50 (5.0L V10, 367hp stock) - Full forged internals by VAC Motorsports (9.5:1 compression pistons, Carrillo H-beam rods, VAC billet crankshaft) paired with a custom Schrick 292° camshaft kit for 8,500 RPM redline and 520whp on E85 via a Motec M150 ECU with individual throttle body (ITB) tuning.",
+    "Forced Induction: Rotrex C38-91 supercharger (12psi) with a custom air-to-water intercooler setup by CSF Racing, utilizing a Bosch 044 fuel pump and ID1000 injectors, mated to a Drexler Motorsport limited-slip differential with 3.91 final drive ratio for optimized acceleration.",
+    "Suspension & Handling: KW Clubsport 3-way coilovers with adjustable camber plates, Ohlins TTX40 dampers, and a full polybush kit from Vibratechnics (including subframe bushings), paired with AP Racing CP9430-8000 6-piston front calipers and 380mm discs with Ferodo DS2500 pads for track-ready stopping power."
+  ],
+  "estetica": [
+    "Aero: Custom carbon fiber widebody kit by Prior Design (Z4 M Coupe-specific, extending fenders by 30mm) with a functional rear diffuser by AC Schnitzer and a 3D-printed front splitter with integrated canards (designed in-house via CFD testing for -120kg downforce at 200km/h).",
+    "Exterior: Full GTS-spec paint by BMW Individual in Frozen Dark Red II (metallic) with a matte black roof and mirror caps, paired with OEM+ M Performance carbon fiber side skirts and a custom titanium exhaust system by Remus (dual 90mm outlets, valved for sound control).",
+    "Interior: Full Alcantara retrim by Katzkin (dashboard, door cards, and headliner) with M4 CSL-style carbon fiber bucket seats by Recaro (SPG XL, 10kg lighter than OEM), a custom roll cage by Matter Fab (bolt-in, TIG-welded 4130 chromoly), and a digital dash by AIM MXS Strada with integrated data logging for lap times."
+  ]
+}

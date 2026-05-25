@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "M760Li",
+  "prestazioni": [
+    "N63B44O2 (6.6L V12 twin-turbo) full-forged internals build by Gintani Racing with Mahle Motorsport forged pistons (9.5:1 CR), Carrillo H-beam connecting rods, and a billet crankshaft, supporting 900+ hp on E85 with upgraded fuel system (Bosch Motorsport 1,200cc injectors + dual Walbro 450LPH pumps)",
+    "Precision Turbo & Engine PT6266 CEA turbochargers (62mm inducer, 66mm exducer) with custom 4-inch V-band downpipes, CSF Racing titanium-coated intercoolers (1,200hp capacity), and a custom 3.5-inch stainless steel exhaust system by Armytrix with quad 102mm outlets and valvetronic bypass",
+    "Motec M150 ECU with full CAN bus integration for N63-specific torque modeling, paired with a Plex Tuning Knock Monitor and a custom wiring harness by iWire for standalone control of the VANOS, direct injection, and port injection (supplemental methanol via Snow Performance Stage 3 kit)"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (FRP construction) with custom 3-piece forged aluminum wheels by HRE (FF16 21x10.5 ET25 front, 22x12.5 ET35 rear) wrapped in Michelin Pilot Sport Cup 2 R tires (275/30/21 front, 315/25/22 rear)",
+    "Full carbon fiber aero package by 991 Racing, including a GT3-spec front splitter with integrated dive planes, a 3D-printed rear diffuser with active Gurney flap (controlled via Motec PDM), and a custom carbon fiber roof replacement (12kg weight reduction)",
+    "Bespoke interior by Status Gruppe with full Alcantara retrim (including headliner and door cards), Recaro Pole Position seats (carbon fiber shells, Schroth 6-point harnesses), and a custom roll cage by Autopower Industries (TIG-welded 4130 chromoly, bolt-in design with integrated fire suppression system)"
+  ]
+}

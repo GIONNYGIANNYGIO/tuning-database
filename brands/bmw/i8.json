@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "i8",
+  "prestazioni": [
+    "Hybrid powertrain upgrade with B38A15M0 (1.5L turbocharged I3) Stage 2+ ECU flash via Dinan Engineering's proprietary i8-specific calibration, increasing output to 320 HP (from 228 HP) and 380 Nm (from 320 Nm) with a custom ethanol flex-fuel map for E85 compatibility, paired with a G-Power supercharger kit (centrifugal, 8 psi boost) and a CSF Racing high-flow intercooler core (bar-and-plate, 4.5\" thick) to mitigate heat soak under sustained load",
+    "Electric motor (eDrive) enhancement via AC Propulsion's i8-specific inverter upgrade, replacing the stock unit with a liquid-cooled, SiC MOSFET-based controller (400V, 300A continuous) to unlock 180 kW (241 HP) peak output (up from 131 HP) and 350 Nm torque, paired with a custom 9.6 kWh lithium-ion battery pack (LG Chem cells, 21700 format) with active thermal management (dual-phase cooling) for consistent performance in track conditions",
+    "Drivetrain reinforcement with a Quaife ATB differential (helical LSD, 4.10 final drive ratio) in the rear axle, mated to a Sachs Performance dual-mass flywheel (lightweight, 8.5 kg) and a South Bend Clutch Stage 3+ twin-disc setup (ceramic-metallic, 24-spline) to handle the increased torque, while a custom 6-speed ZF 8HP75 transmission tune (via HP Tuners) reduces shift times to 120ms with launch control and flat-foot shifting enabled"
+  ],
+  "estetica": [
+    "Full carbon fiber widebody conversion via Liberty Walk LB-WORKS i8 kit (Type 2, aggressive stance), featuring hand-laid 2x2 twill weave (3K finish) with integrated front canards, side skirts, and a rear diffuser with active Gurney flap (electrically adjustable via a Motec PDM15), paired with a custom 3D-printed titanium rear wing (2.5m span, NACA 63A-018 airfoil) for 400 kg downforce at 200 km/h",
+    "Custom forged wheels: HRE FF16 (20x9.5 front, 21x12.5 rear) with a 5x120 PCD, ET35 offset, and center-lock hubs (Pilot Sport Cup 2 R tires, 255/30R20 front, 325/25R21 rear), finished in a multi-stage brushed titanium anodized coating with laser-etched BMW M Division logos, paired with AP Racing 6-piston front (405mm discs) and 4-piston rear (380mm discs) big brake kit with two-piece rotors and titanium pistons",
+    "Exterior lighting overhaul with LUX V3 Angel Eyes (RGBW, 6000K CCT, 1200 lumens) in a sequential startup animation (via Arduino Nano controller), OEM+ adaptive LED headlights (Osram Night Breaker Laser, 5500K) with a custom Morimoto D2S projector lens swap, and a full-width rear LED strip (Philips Hue integration) with dynamic brake light patterns (G-force triggered via AIM Solo 2 DL)"
+  ]
+}

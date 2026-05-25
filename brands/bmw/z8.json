@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "Z8",
+  "prestazioni": [
+    "Engine swap to a built S62B50 (5.0L V8 from the E39 M5) with a custom 10.5:1 compression ratio, forged Mahle pistons, and Carrillo H-beam connecting rods, paired with a Schrick 288/280 camshaft upgrade for high-RPM power delivery (target: 550+ HP at 7,800 RPM on 98 RON fuel).",
+    "Full titanium exhaust system by Supersprint, featuring 70mm diameter piping, 4-2-1 merge collectors, and a valved rear section with Akrapovič titanium tips, reducing weight by 18 kg while optimizing backpressure for the S62’s scavenging characteristics.",
+    "Custom Motec M150 ECU with individual cylinder tuning, paired with a Bosch Motorsport 1,200cc high-impedance fuel injectors and a Radium Engineering dual-catch can setup to manage the S62’s aggressive crankcase ventilation under boost (optional: Sprintex S900 supercharger with 8 psi max boost, intercooled via a custom PWR heat exchanger)."
+  ],
+  "estetica": [
+    "Full carbon fiber widebody conversion by AC Schnitzer, including extended front fenders (30mm per side), rear quarter panels (40mm per side), and a custom rear diffuser with integrated twin exhaust cutouts, all finished in matte clear coat with exposed weave.",
+    "OEM+ LED headlight retrofit with LUX H8 V4 projectors, Osram 12V 55W bulbs, and custom DRL strips integrated into the lower bumper intakes, paired with a full Hella flush-mount side marker delete kit.",
+    "Custom interior by Status Gruppe, featuring a full Alcantara retrim with contrast red stitching (including dashboard, door cards, and center console), a MOMO Prototipo 350mm steering wheel with quick-release hub, and a bespoke roll cage by Matter Fab (TIG-welded 4130 chromoly, bolt-in design with integrated harness bar)."
+  ]
+}

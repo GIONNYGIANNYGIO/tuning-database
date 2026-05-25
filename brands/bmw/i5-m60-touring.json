@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "i5 M60 TOURING",
+  "prestazioni": [
+    "Full hybrid powertrain recalibration targeting the **G60B30M0** (3.0L I6 + e-motor) with a Motec M150 ECU reflash, optimizing torque split (60% electric/40% ICE under 80 kph, 70% ICE/30% electric above 120 kph) and raising system output to 650 hp (485 kW) and 850 Nm (627 lb-ft) via a custom battery management system (BMS) upgrade from **EV West** (LiFePO4 46 kWh pack, 800V architecture) and **HP Tuners** hybrid-specific tuning suite",
+    "Precision turbocharging conversion using a **Garrett GTX3582R Gen II** turbo (0.82 A/R, 64mm inducer) paired with a **Vargas GC Performance** billet compressor wheel upgrade for the G60B30M0’s integrated e-turbo system, mated to a **Tial MV-R 44mm** wastegate and **TurboSmart e-Boost2** controller for 2.1 bar (30.5 psi) peak boost, supported by a **Gintani** front-mount intercooler (1200 cfm core) and **Mishimoto** silicone charge pipes (4-ply, 3.5\" diameter)",
+    "Drivetrain reinforcement with a **ZF 8HP76X** 8-speed hybrid transmission rebuild by **Level 10 Motorsports** (dual-disc **Sachs Performance** clutch pack, billet steel flexplate, and **PPG** 3.23:1 final drive ratio), paired with a **Drexler Motorsport** limited-slip differential (40% lock under load) and **GKN** CV joints (800 Nm torque capacity) for the rear axle"
+  ],
+  "estetica": [
+    "Full carbon fiber widebody conversion using the **Rocket Bunny V3 (E61 chassis-specific)** kit, including extended front fenders (+40mm), rear quarter panels (+50mm), and a **Seibon Carbon** hood with functional heat extractors (30% weight reduction vs. OEM), finished in **BMW Frozen Portimao Blue (M60-specific) with matte clear coat**",
+    "OEM+ aggressive stance via **KW Suspension Variant 5** coilovers (3-way adjustable, 40mm drop, **TÜV-certified** for E61 chassis) paired with **H&R** 20mm spacers (front) and **AP Racing** 6-piston calipers (380mm rotors) behind **BBS FI-R** 21x9.5\" ET25 (front) and 21x11\" ET30 (rear) wheels, wrapped in **Michelin Pilot Sport Cup 2 R** (275/30/21 front, 305/25/21 rear)",
+    "Aerodynamic optimization with a **Vorsteiner** carbon fiber rear diffuser (E61-specific, 3D-printed underbody vanes), **M Performance** carbon fiber side skirts (modified for Rocket Bunny fenders), and a **Wald International** carbon fiber roof spoiler (20% downforce increase at 200 kph), complemented by **Lux H8 V4** Angel Eyes (3000K CRI90) and **OSS Designs** sequential LED taillights (M60 Touring-specific housing)"
+  ]
+}

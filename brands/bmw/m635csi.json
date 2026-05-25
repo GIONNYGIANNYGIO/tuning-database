@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "M635CSi",
+  "prestazioni": [
+    "Engine: M88/3 (3.5L I6, 286hp stock) – Full forged internals with Mahle Motorsport forged pistons (9.5:1 CR), Pankl Racing Systems forged connecting rods, and a billet crankshaft from JE Pistons for 8,500 RPM reliability. Pair with a custom Schrick 284° camshaft profile for aggressive overlap and a Schrick adjustable cam gear set for precise timing.",
+    "Forced Induction: Single-turbo conversion using a Garrett GTX4202R (86mm compressor, 76mm turbine) with a custom Precision Turbo & Engine wastegate (44mm, 3-bar spring) and a TiAL MV-R 50mm blow-off valve. Intercooler: custom air-to-water setup with a PWR radiator and Bosch 044 fuel pump for E85 compatibility. Supporting mods: Pierburg 80mm throttle body, custom 3.5\" intake piping with a K&N filter, and a custom 3.5\" stainless steel exhaust with a MagnaFlow 304 stainless muffler (2.5\" tips).",
+    "Drivetrain & Suspension: Getrag 280/5 5-speed transmission with a Sachs Performance twin-disc clutch (puck-style, 800Nm capacity) and a 25% torsen differential from a BMW E31 850CSi. Suspension: Ohlins Road & Track coilovers (E34-specific valving) with Eibach Pro-Kit helper springs, polyurethane bushings from SuperPro (front control arms, subframe, and trailing arms), and a custom 25mm rear sway bar from Hotchkis. Brakes: AP Racing 6-piston calipers (front) with 380mm two-piece rotors and Pagid RS29 pads, paired with Brembo 4-piston calipers (rear) and 345mm rotors."
+  ],
+  "estetica": [
+    "Body Kit: Custom widebody conversion using a modified Rocket Bunny E34 kit (extended fenders, front bumper lip, and rear diffuser) with carbon fiber overfenders (25mm wider front, 30mm wider rear) from Seibon Carbon. Hood: custom vented carbon fiber hood (weight reduction: 8kg) with a functional NACA duct for intercooler cooling, sourced from Vorsteiner.",
+    "Wheels & Aero: BBS RS-GT II (18x9.5 +15 front, 18x11 +20 rear) with custom offsets to fit the widebody, wrapped in Michelin Pilot Sport Cup 2 tires (245/40/18 front, 285/35/18 rear). Aero: custom carbon fiber rear wing (ducktail-style, 3D-printed mold) with adjustable angle (0-15°) and a front splitter from 9 Lives Racing (E34-specific, 3-piece design).",
+    "Interior & Details: Full Alcantara retrim by Status Racing (dashboard, door cards, headliner) with custom M-style stitching. Seats: Recaro Pole Position II (E34-specific mounts) with Schroth 6-point harnesses. Gauges: Defi Advance BF series (oil temp, oil pressure, boost, wideband AFR) mounted in a custom A-pillar pod. Steering wheel: Momo Prototipo (350mm, suede) with a quick-release hub from NRG Innovations. Exterior: Full Gtechniq Crystal Serum Ultra ceramic coating with custom BMW Motorsport stripes (acid green, 50mm width) and debadged kidney grilles."
+  ]
+}

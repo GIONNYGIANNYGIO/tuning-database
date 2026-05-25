@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "X4 M40d",
+  "prestazioni": [
+    "Upgrade to a **Dinan Engineering Stage 3+ ECU/TCU flash** for the **B57D30** 3.0L inline-6 diesel, optimizing fuel maps, turbo boost (targeting 2.2 bar peak pressure), and throttle response while retaining the stock **Garrett GTD2056VK** turbocharger with a **custom BorgWarner 76mm compressor wheel** for improved spool and flow (estimated 420hp/900Nm at the wheels).",
+    "Install a **Wagner Tuning Competition intercooler kit** (X4 F26-specific, 100% direct-fit) with a **50% larger core volume** and **aluminum end tanks** to eliminate heat soak during sustained high-load runs, paired with a **Forge Motorsport dual-catch can system** to prevent oil vapor ingestion into the intake tract.",
+    "Replace the stock **ZF 8HP75X** 8-speed automatic transmission with a **G-Power G-SHIFT 8HP75X upgrade**, featuring a **heavy-duty torque converter (450Nm+ capacity)**, reinforced clutch packs, and a **custom shift logic map** for 0.15s faster upshifts under full load, paired with a **PWR Performance radiator** to manage increased thermal loads."
+  ],
+  "estetica": [
+    "Fit a **3D Design Japan F26 X4 M-Sport widebody kit** (carbon fiber front fenders, rear quarter panels, and rear bumper) with **custom 25mm spacers** to accommodate **HRE FF03 21x10.5 ET35 wheels** wrapped in **Michelin Pilot Sport Cup 2 R 275/30R21 tires** for aggressive stance and track-ready grip.",
+    "Install a **Vorsteiner V-FF102 carbon fiber front splitter** (X4 M40d-specific, 3-piece design) with **hidden aluminum support brackets** and a **custom Gurney flap** for increased front-end downforce, paired with a **Rocket Bunny GT-style rear diffuser** (carbon fiber, 3D-printed internal vanes) to reduce rear lift by 18%.",
+    "Replace all exterior trim with **AC Schnitzer Type 8 carbon fiber components** (side skirts, mirror caps, roof spoiler) and paint the **BMW Individual Frozen Dark Silver metallic** with a **PPF (Paint Protection Film) full-body wrap** in **XPEL Stealth** for a matte, stealth appearance, complemented by **Lux H8 V4 Angel Eyes** with **custom RGB halos** (3000K amber for fogs, 6000K white for low beams)."
+  ]
+}

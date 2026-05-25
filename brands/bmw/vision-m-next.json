@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "VISION M NEXT",
+  "prestazioni": [
+    "Hybrid powertrain upgrade featuring a bespoke P48B20 3.0L twin-turbo inline-6 paired with two electric motors (front and rear), recalibrated via a Motec M150 ECU with a custom hybrid torque-split map for 0-60 mph in 2.8s. The internal combustion engine receives a Garrett GTX5533R turbocharger with billet compressor wheel, upgraded to 2.2 bar boost, and a titanium 4.5\" exhaust system by Akrapovic with electronically controlled valves for backpressure optimization.",
+    "Full carbon-fiber driveshaft and differential housing by Pankl Racing Systems, reducing rotational mass by 32% while increasing torque capacity to 1,200 Nm. The rear e-motor is cooled via a dedicated Asetek 800W liquid cooling loop with a secondary heat exchanger mounted in the rear diffuser.",
+    "Ohlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and hybrid mode for track/street switching), paired with MCS 2-way adjustable remote-reservoir dampers at the rear. The front suspension features custom billet aluminum control arms by 034 Motorsport with spherical bearings and adjustable camber plates set to -3.8 degrees for optimal turn-in under hybrid torque vectoring."
+  ],
+  "estetica": [
+    "Full carbon-fiber body kit by Liberty Walk LB-WORKS, including a custom front splitter with active aerodynamic flaps (syncing with the hybrid system for downforce adjustment), side skirts with integrated LED lighting, and a rear diffuser with a Gurney flap adjustable via the iDrive system. The kit reduces drag coefficient to 0.23 while generating 450 kg of downforce at 180 mph.",
+    "Custom 22\" forged aluminum wheels by HRE Performance Wheels (FF16 model), staggered 9.5x22 ET25 front and 12.5x22 ET15 rear, wrapped in Michelin Pilot Sport Cup 2 R tires (275/30 front, 325/25 rear) with a semi-slick compound for hybrid torque management. The wheels feature a titanium lug nut system by Bimecc for weight reduction.",
+    "Interior overhaul with full Alcantara and carbon-fiber trim by Recaro, including a custom CS Sportster GT-E II bucket seat with 6-point Schroth harnesses. The digital dashboard is replaced with a 12.3\" curved display by AEM Electronics, running a custom CAN bus interface to monitor hybrid system telemetry, turbo pressure, and torque split in real-time. The steering wheel is a suede-wrapped MOMO Prototipo with integrated paddle shifters for manual hybrid torque adjustments."
+  ]
+}

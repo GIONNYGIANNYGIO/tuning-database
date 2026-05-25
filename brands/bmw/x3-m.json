@@ -1,0 +1,15 @@
+{
+  "brand": "BMW",
+  "model": "X3 M (F97)",
+  "prestazioni": [
+    "Moto-Master 380mm 6-piston front brake kit with SGL-3400 carbon-ceramic rotors (direct fit for S58B30T0 engine, retaining OEM ABS/ESC compatibility)",
+    "Dinan S3 Stage 2+ ECU/TCU flash with custom ethanol mapping for S58B30T0 (targeting 650whp on E85, retaining full OEM drivetrain warranty via Dinan's BMW NA partnership)",
+    "Garrett G40-1200 turbocharger upgrade with TiAL MV-R 44mm wastegates, custom 4-inch V-band downpipe (catless), and CSF S58-specific intercooler with 1200g/s flow rate (retains OEM charge pipe routing)",
+    "MCS 3-way adjustable coilovers with remote reservoirs (valved specifically for F97 X3 M chassis dynamics, including 15-way rebound and 12-way compression damping) and H&R anti-roll bars (28mm front, 25mm rear) with spherical end links"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (F97-specific, with OEM-style carbon fiber fenders, extended rockers, and integrated diffuser; retains factory door handles and rear hatch functionality)",
+    "Vorsteiner V-FF 110 forged wheels (21x10.5 ET35 front, 21x12 ET45 rear) with Michelin Pilot Sport Cup 2 R tires (285/30/21 front, 325/25/21 rear) and OZ Racing titanium wheel bolts",
+    "Gintani carbon fiber front lip spoiler (F97 M-specific, with integrated LED turn signals and active aero compatibility), paired with a custom 3D-printed rear wing (1,200mm span, 300mm chord) with Gurney flap and adjustable angle of attack (0-15 degrees)"
+  ]
+}
