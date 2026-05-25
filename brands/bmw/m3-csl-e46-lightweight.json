@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "M3 CSL E46 LIGHTWEIGHT",
+  "prestazioni": [
+    "Engine: S54B32HP (3.2L I6) – Full forged internals upgrade with Mahle Motorsport forged pistons (87.5mm bore, 11.5:1 CR), Carrillo H-beam connecting rods, and a custom billet crankshaft from VAC Motorsports for 9,000 RPM reliability. Paired with a Schrick 288/280 camshaft set (intake/exhaust) and titanium retainers from VAC for reduced valvetrain mass.",
+    "Forced Induction: Single-turbo conversion using a Garrett GTX3582R Gen II turbocharger (0.82 A/R turbine housing) with a custom Precision Turbo wastegate (44mm) and a Tial MV-R 50mm blow-off valve. Intercooled via a custom air-to-water setup with a PWR radiator and Bosch 044 fuel pump supporting 600+ HP on E85. ECU flashed with a MSS54 HP CSL-specific tune by PTG (Performance Tuning Group) for optimized boost control and ignition timing.",
+    "Drivetrain: OS Giken Super Lock LSD (2.2-way) with 85% lockup under load, paired with a Sachs Performance SMG III clutch (dual-disc, 800 Nm torque capacity). Custom 3.91:1 final drive ratio from a limited-run E46 M3 GTR for improved acceleration, mated to a Getrag 420G gearbox with cryo-treated gears from Quaife."
+  ],
+  "estetica": [
+    "Carbon Fiber Aero: Full OEM+ carbon fiber overhaul with a genuine BMW M Performance CSL-style front splitter (carbon weave, 3K twill), a custom rear diffuser from Vorsteiner (E46-specific, 3-piece design), and a carbon fiber roof replacement from AC Schnitzer (pre-preg autoclave, 30% weight savings).",
+    "Wheels & Stance: BBS LM-R II (19x9.5 ET22 front, 19x10.5 ET20 rear) with custom offsets to clear AP Racing 6-piston calipers (380mm rotors). Suspension lowered via Ohlins Road & Track coilovers (CSL-specific valving, 8/16 adjustment) with Eibach ERS helper springs for ride quality retention.",
+    "Interior & Weight Reduction: Full Recaro SPG CSL (carbon fiber shell, Alcantara/leather) with Schroth Profi II 6-point harnesses. Rear seat delete with a custom carbon fiber panel from Status Gruppe, and a MOMO Mod.78 CSL steering wheel (380mm, suede) paired with a quick-release hub from NRG Innovations. Lightweight lithium-ion battery (Antigravity ATX-30) and titanium exhaust hangers from Rogue Engineering."
+  ]
+}

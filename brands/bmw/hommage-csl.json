@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "HOMMAGE CSL",
+  "prestazioni": [
+    "S58B30T0 (3.0L twin-turbo inline-6) upgraded with a Garrett GTX5533R Gen II turbocharger (1.28 A/R, 76mm compressor wheel) paired with a custom 4.5\" titanium downpipe from Eisenmann Performance, featuring 300-cell catalytic converters for Euro 6d compliance while maintaining 650+ WHP on E85",
+    "Full titanium valvetrain conversion by Schrick, including TiAl 264°/260° camshafts, titanium retainers, and Inconel valves with DLC-coated stems, mated to a custom 12.5:1 compression forged piston set from Mahle Motorsport with plasma-moly coated skirts",
+    "Motec M150 ECU with a bespoke CSL-specific calibration map, integrating a Plex Knock Monitor system, AEM X-Series wideband O2 sensors, and a Drexler Motorsport limited-slip differential with 45% lockup under load, paired with a 8-speed ZF 8HP76 transmission reinforced with a Sonnax billet valve body and upgraded torque converter (4,000+ RPM stall)"
+  ],
+  "estetica": [
+    "Full carbon-fiber body conversion using a custom Rocket Bunny V3 widebody kit, modified to incorporate functional NACA ducts on the front fenders for brake cooling and a 3D-printed ABS rear diffuser with integrated Gurney flaps, all finished in BMW Motorsport Frozen Portimao Blue with matte clear coat",
+    "OEM+ CSL-specific interior with a full Alcantara retrim by Katzkin, featuring Recaro CS-E II bucket seats (carbon shell, 6-point Schroth harnesses), a MOMO Prototipo CSL steering wheel (380mm, suede, quick-release), and a custom roll cage by Matter Fab (TIG-welded 4130 chromoly, bolt-in design with integrated fire suppression system)",
+    "Custom HRE FF10 wheels (19x10.5 ET25 front, 19x12.5 ET40 rear) with titanium hardware, wrapped in Michelin Pilot Sport Cup 2 R tires (275/35/19 front, 325/30/19 rear), paired with a KW Clubsport 3-way coilover suspension with remote reservoirs, adjustable camber plates, and spherical bearing top mounts, all tied to a custom subframe reinforcement kit by 034 Motorsport"
+  ]
+}

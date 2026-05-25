@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "M2 CS RACING",
+  "prestazioni": [
+    "Engine: S55B30T0 (3.0L twin-turbo inline-6) upgraded with a Precision Turbo & Engine PT6266 CEA turbocharger (62mm inducer, 66mm exducer, billet wheel, 44lb/min flow) paired with a custom 3.5\" titanium downpipe (VRSF Race) and a CSF dual-core intercooler (5.5\" thick, 1000hp-capable).",
+    "Fuel System: Full Motec M150 ECU standalone management with dual Bosch Motorsport 0261500360 2200cc/min port injectors and a secondary set of Injector Dynamics ID1700x direct injectors, fed by a Radium Engineering dual-catch can setup and a Walbro 450 LPH in-tank fuel pump with a Fore Innovations F2i surge tank.",
+    "Drivetrain: OS Giken Super Lock LSD (OS Giken 1.5-way) with a Sachs Performance Stage 3 clutch (triple-disc, 1200Nm torque capacity) and a G-Power carbon driveshaft, mated to a Getrag GS7-D360G 6-speed manual transmission reinforced with a Wavetrac differential and a custom 3.91:1 final drive ratio (Drexler Motorsport)."
+  ],
+  "estetica": [
+    "Aero: Full Rocket Bunny V3 widebody kit (carbon fiber, 30mm extended fenders) with a custom 3D-printed front splitter (APR Performance GT-250 spec) and a Voltex Type-3 rear wing (carbon, 1800mm span, 30mm adjustable gurney flap).",
+    "Wheels: BBS FI-R 19x10.5\" ET25 front and 19x12\" ET40 rear (forged aluminum, 5x120 PCD) wrapped in Michelin Pilot Sport Cup 2 R tires (275/35/19 front, 315/30/19 rear) with custom TPMS sensors (Intelligent Tire).",
+    "Interior: Full Recaro SPG XL bucket seats (carbon shell, FIA 8862-2009 certified) with Schroth Profi II 6-point harnesses, a custom MOTEC C127 dash display (replacing the OEM cluster), and a full carbon fiber door card and center console overlay (Status Gruppe)."
+  ]
+}

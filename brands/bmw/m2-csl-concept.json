@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "M2 CSL CONCEPT",
+  "prestazioni": [
+    "S58B30T0 engine (3.0L inline-6) upgraded with a Garrett GTX5533R turbocharger (88mm compressor, 1.15 A/R turbine housing) paired with a custom 4.5-inch titanium downpipe from Akrapović, supporting 850whp on E85 fuel with a Motec M150 ECU managing boost via a Pierburg 400LPH high-flow fuel pump and ID1700x injectors",
+    "Full carbon fiber driveshaft and differential housing from PFC (Performance Friction Corporation) with a 3.46:1 M-Division limited-slip differential (clutch-type) and a Drexler Motorsport 40% lockup setting for optimal power transfer to the rear wheels",
+    "Ohlins Road & Track DFV coilovers with 12-position rebound damping, 24-position compression damping, and adjustable camber plates (up to -4.5 degrees front, -3.8 degrees rear) paired with MCS 3-way adjustable dampers for track precision, alongside a full carbon fiber front strut brace from BMW M Performance and a rear monoball subframe reinforcement kit from 034Motorsport"
+  ],
+  "estetica": [
+    "Full carbon fiber widebody conversion using the Rocket Bunny V3 M2 CSL-specific kit (front fenders extended by 35mm, rear by 50mm) with integrated carbon fiber canards and a custom 3D-printed front splitter featuring active aerodynamic elements controlled by a Bosch Motorsport ECU for dynamic downforce adjustment",
+    "Custom carbon fiber roof panel with integrated NACA ducts (replacing the OEM aluminum roof) and a rear diffuser from Vorsteiner (M2 CSL-specific design) featuring a titanium exhaust exit surround for the Akrapović Evolution Line Titanium exhaust system with quad 100mm outlets",
+    "BBS FI-R 19x10.5 ET25 (front) and 19x12 ET40 (rear) forged wheels in a custom gold-bronze finish, wrapped in Michelin Pilot Sport Cup 2 R tires (275/35 R19 front, 305/30 R19 rear) with a custom TPMS system from Schrader Electronics for real-time tire pressure and temperature monitoring"
+  ]
+}

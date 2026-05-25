@@ -1,0 +1,17 @@
+{
+  "brand": "BMW",
+  "model": "M3 E30 SPORT EVOLUTION",
+  "prestazioni": [
+    "Engine: S14B25 (2.5L inline-4, 16V, 238 HP stock) upgraded with a custom Schrick 292° camshaft set (intake/exhaust) paired with Ferrea Racing 5000-series titanium valves, Supertech dual valve springs, and titanium retainers for 9,500 RPM capability. Forced induction via a Garrett GT2860RS turbo (0.63 A/R turbine housing) with a custom 3-inch stainless steel exhaust manifold by JP Works, mated to a GReddy Type-S intercooler and a Pierburg 80mm throttle body.",
+    "Fuel System: Full Bosch Motorsport 044 high-flow fuel pump with -8AN lines, Injector Dynamics ID1000 injectors (1,000cc/min), and a custom Motec M800 ECU with individual cylinder tuning and launch control. Water-methanol injection via Snow Performance Stage 3 kit with dual nozzles targeting 20% methanol mix at 15 PSI boost.",
+    "Drivetrain: OS Giken Super Lock LSD (2.2-way) with 85% lockup under power, Sachs Performance twin-disc clutch (240mm) with billet flywheel, and a Getrag 265 5-speed gearbox reinforced with a Quaife sequential shift kit. Custom 3.25:1 final drive ratio for optimized acceleration.",
+    "Suspension: Ohlins Road & Track DFV coilovers (E30-specific valving) with 8-position rebound and 20-position compression damping, polyurethane bushings by Vibratechnics (full subframe and control arm refresh), and a custom 25mm rear sway bar by H&R. Front camber plates by Ground Control with spherical bearings for -3.5° static camber.",
+    "Braking: AP Racing 4-piston CP5555 calipers (front) with 330mm two-piece rotors (floating, slotted) and Ferodo DS2500 pads. Rear: Brembo 08.5450.10 calipers with 280mm rotors and Ferodo DS1.11 pads. Stainless steel braided lines by Goodridge and Motul RBF 660 brake fluid."
+  ],
+  "estetica": [
+    "Body: Full Rocket Bunny V1 E30 widebody kit (carbon fiber fenders, front bumper, and rear diffuser) with custom 3M Matte Graphite vinyl wrap. Custom front splitter by APR Performance (3D-scanned for E30 Sport Evo) with integrated canards. Rear wing: Voltex Type-3 (1,800mm width) with carbon fiber endplates and adjustable angle (0-15°).",
+    "Wheels: BBS RS-GT II (16x9 +15 front, 16x10 +25 rear) in gold with custom center caps (BMW Motorsport logo). Tires: Michelin Pilot Sport Cup 2 (225/45/16 front, 245/40/16 rear) with nitrogen inflation. Custom wheel spacers (15mm front, 20mm rear) by H&R for flush fitment.",
+    "Interior: Full Recaro SRD-E (E30-specific shell) with Schroth Profi II 6-point harnesses and a custom roll cage by Safety Devices (FIA-spec, bolt-in, with integrated harness bars). Steering wheel: Momo Prototipo (350mm) with quick-release hub. Gauges: Stack ST8000 (boost, oil temp, oil pressure) with custom aluminum bezels. Shift knob: CAE Ultra-Shifter (short throw) with weighted base. Sound deadening: Dynamat Xtreme (full floor and firewall).",
+    "Lighting: Hella Rallye 2000 (7-inch) headlights with custom HID projectors (55W, 5000K) and Cibie Oscar fog lights (yellow lenses). Rear: Custom LED taillights by LUX Automotive with sequential turn signals and smoked lenses. Underglow: Oracle Lighting RGB+W (switchback, 6000K) with custom mounting brackets."
+  ]
+}

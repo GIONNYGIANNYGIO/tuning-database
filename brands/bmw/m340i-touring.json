@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "M340I TOURING",
+  "prestazioni": [
+    "B58B30M0 (3.0L I6) Stage 2+ ECU flash by MHD with custom DynoJet-validated 550whp/520wtq map (93 octane + E85 blend), utilizing a CSF intercooler (BMW-specific core) and a Wagner Competition Evo II front-mount intercooler with integrated water-methanol injection (Snow Performance Stage 3 kit, 50/50 mix, 30psi spray pressure).",
+    "Full turbo upgrade to a Pure Stage 2 Turbo (B58-specific, billet compressor wheel, 62mm inducer, 76mm exducer) paired with a custom 3.5\" V-band downpipe (Dorst Engineering, T304 stainless, 200-cell GESI catalytic converter) and a Milltek Sport 3.5\" cat-back exhaust (non-resonated, quad 102mm tips, Touring-specific fitment).",
+    "Drivetrain reinforcement with a MFactory 2.17 final drive ratio LSD (80% lockup), Sachs Performance Stage 3 dual-mass flywheel (lightweight, 8.5kg), and a Spec Stage 3+ clutch (multi-disc, 6 puck, 750lb clamp load) with a billet aluminum flywheel adapter (BimmerWorld). Suspension overhaul with Ohlins Road & Track DFV coilovers (Touring-specific valving, 20-way adjustable compression/rebound, 30mm drop), MCS 2-way adjustable dampers (rear-specific for load capacity), and Hotchkis Sport sway bars (28mm front, 25mm rear, adjustable end links)."
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (Touring-specific, carbon fiber fenders, 30mm extended flares, bolt-on overfenders) with custom matte vinyl wrap (3M 2080 Satin Quartz Gray, 70% gloss reduction) and a Vorsteiner V-FF107 carbon fiber front splitter (Touring-compatible, 3-piece design, adjustable dive planes).",
+    "CSF carbon fiber roof (OEM-spec replacement, 50% weight reduction) paired with a custom rear diffuser (Seibon Carbon, Touring-specific, integrated tow hook cover) and a custom rear spoiler (RK Sport, carbon fiber, 3D-scanned to fit Touring tailgate, 60mm height, Gurney flap).",
+    "Interior overhaul with Recaro SPG XL seats (Touring-specific mounting brackets, Alcantara/leather, 6-point harness pass-through), MCS Motorsport bolt-in roll cage (half-cage, 4-point, T45 steel, powder-coated satin black), and a custom digital dash (AEM CD-7, 7\" touchscreen, B58-specific CAN bus integration, boost/fuel pressure/EGT logging)."
+  ]
+}

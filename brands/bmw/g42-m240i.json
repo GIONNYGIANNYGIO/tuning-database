@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "G42 M240i",
+  "prestazioni": [
+    "B58B30M0 (3.0L inline-6) Stage 2+ ECU flash via MHD with custom Dynojet-verified 480whp/520wtq map, utilizing a 3.5\" VRSF downpipe with high-flow catalytic converter (200-cell) and a CSF intercooler with integrated charge pipe upgrade (aluminum, 3.5\" diameter, reinforced with silicone couplers from Vibrant Performance)",
+    "Garrett GTX3582R turbocharger with billet compressor wheel, 0.82 A/R turbine housing, and TiAL MV-R 44mm external wastegate, paired with a custom 3.5\" turbo-back exhaust system from Akrapovič (Titanium, 70mm piping, dual 100mm outlets) and a secondary air injection delete kit from FTP Motorsport",
+    "Full drivetrain reinforcement including a ZF 8HP51 8-speed automatic transmission tune via xHP Stage 3 (with launch control, flat-foot shifting, and torque limiter removal), a P3 Carbon fiber driveshaft, and a 3.55:1 M Performance limited-slip differential with 40% lockup under load"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (G42-specific, carbon fiber front fenders, rear quarter panels, and rear diffuser) with custom PPF matte wrap in BMW Frozen Portimao Blue, paired with a Vorsteiner V-GT 2.0 carbon fiber front splitter and a custom 3D-printed rear wing (dual-element, 1,200mm span, adjustable angle via hydraulic actuators)",
+    "OEM+ M Performance carbon fiber mirror caps, side skirts, and rear bumper inserts (painted to match), combined with a custom LED taillight delete (smoked lenses, sequential turn signals via Diode Dynamics) and a full carbon fiber hood from AC Schnitzer (Type 5, with integrated NACA ducts for brake cooling)",
+    "Forgeline GA3R 20x9.5\" ET25 (front) and 20x11\" ET40 (rear) wheels in gloss black with titanium hardware, wrapped in Michelin Pilot Sport Cup 2 R tires (275/30/20 front, 305/25/20 rear), paired with Ohlins Road & Track coilovers (2-way adjustable dampers, 30mm drop, custom valving for G42 chassis) and Brembo GT 6-piston front/4-piston rear big brake kit (400mm rotors, two-piece floating design, yellow calipers)"
+  ]
+}

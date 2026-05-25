@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "M3 E92",
+  "prestazioni": [
+    "Engine: S65B40 (4.0L V8, 32v, 414hp stock) – Full forged internals by VAC Motorsports including Mahle Motorsport forged pistons (9.5:1 CR), Carrillo H-beam connecting rods, and VAC billet crankshaft with upgraded main and rod bearings (ACL Race Series).",
+    "Forced Induction: Single turbo setup using a Garrett GT3582R (82mm compressor, .82 A/R turbine housing) with custom 3.5\" stainless steel turbo manifold by VF Engineering, paired with a TiAL MV-R 44mm wastegate and TiAL Q 50mm blow-off valve. Supporting mods include a CSF aluminum radiator, upgraded oil cooler (Setrab 525), and a custom 3\" turbo-back exhaust with Burns Stainless 304L merge collectors and Vibrant 1799 resonated mufflers.",
+    "Suspension & Handling: Ohlins Road & Track DFV coilovers (E92-specific valving) with Swift Springs (8K/10K front/rear rates), Vorshlag Motorsport camber plates (adjustable to -4.5°), and Hotchkis Sport sway bars (24mm front, 22mm rear). Braking upgraded to AP Racing Radi-CAL 6-piston front (380mm rotors) and 4-piston rear (355mm rotors) with Ferodo DS2500 pads and Motul RBF 660 brake fluid."
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny V3 widebody kit (E92-specific) with carbon fiber front splitter, rear diffuser, and overfenders (35mm wider front, 50mm wider rear). Rear wing is a custom 9Lives Racing GT3-style wing with 3D-printed aluminum pedestals and Gurney flap.",
+    "Wheels: Volk Racing TE37V (19x9.5 +22 front, 19x10.5 +25 rear) in Hyper Silver with custom offsets to clear AP Racing calipers. Tires: Michelin Pilot Sport Cup 2 R (265/35/19 front, 295/30/19 rear) with TPMS sensors from Schrader Electronics.",
+    "Interior: Full Recaro SPG XL seats (E92-specific mounting brackets) upholstered in Alcantara with custom red stitching by Status Racing. Steering wheel: Momo Prototipo (350mm) with NRG quick-release hub. Gauges: Defi Advance BF series (oil temp, oil pressure, boost) mounted in a custom A-pillar pod by AEM."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "E90 335d",
+  "prestazioni": [
+    "M57D30TÜ2 (N57D30O0) engine: BorgWarner EFR 7670 turbo upgrade with 62mm compressor wheel, 0.86 A/R turbine housing, and TiAL 44mm external wastegate for 450whp and 650lb-ft torque on stock internals with upgraded Mahle Motorsport forged pistons (9.5:1 CR) and Manley H-beam connecting rods",
+    "Full custom 3.5\" turbo-back exhaust system by Remus with 200-cell catalytic converters, 3.5\" stainless steel piping, and Valvetronic-controlled butterfly valves for backpressure optimization, paired with a Vibrant 1799 resonated muffler for deep, non-droning tone",
+    "Bosch CP4.2 high-pressure fuel pump upgrade with custom 1,200cc Siemens Deka side-feed injectors, ported and polished fuel rail, and custom ECU flash by MHD Tuning (Stage 2+ LCI map with EGR/DPF delete, custom timing maps, and 2,200rpm torque limiter removal)"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (E90-specific) with carbon fiber front fenders, extended rear quarter panels, and custom 3M Matte Military Green wrap with gloss black accents on the kidney grilles and mirror caps",
+    "OEM BMW M Performance carbon fiber front lip, rear diffuser, and side skirts (E90 LCI-specific), paired with a custom 3D-printed carbon fiber roof spoiler (25mm height) for downforce optimization at 150mph+ speeds",
+    "Ohlins Road & Track coilovers (E90-specific) with 8kg/mm front springs and 10kg/mm rear springs, adjustable top mounts, and custom valving for Nürburgring lap times, paired with M3-spec front sway bar (25mm) and adjustable rear sway bar (22mm) by Hotchkis"
+  ]
+}

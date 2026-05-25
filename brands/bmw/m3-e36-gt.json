@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "M3 E36 GT",
+  "prestazioni": [
+    "Engine: S50B32 (3.2L I6) with a custom 2.8L stroker kit using Mahle Motorsport forged pistons (87.5mm bore, 78.6mm stroke) and Pauter billet steel crankshaft, paired with Carrillo H-beam connecting rods for 3.5L displacement and 12.5:1 compression ratio",
+    "Forced induction: Single Garrett GTX4202R turbocharger (0.96 A/R turbine housing) with a custom Precision Turbo wastegate (44mm, 3-port), mounted on a custom tubular stainless steel exhaust manifold (3-1 merge collector) by Schrick Performance, feeding into a custom air-to-water intercooler (GReddy Type-R) with a Bosch 044 fuel pump and ID1000x injectors",
+    "Drivetrain: OS Giken 2.2L limited-slip differential with 40% lockup under power, paired with a Getrag 420G 6-speed transmission (close-ratio gears: 3.82, 2.20, 1.52, 1.22, 1.00, 0.83) and a Sachs Performance twin-disc clutch (240mm, 800Nm torque capacity)"
+  ],
+  "estetica": [
+    "Widebody conversion: Custom E36 GT-specific Rocket Bunny overfenders (front: 30mm wider, rear: 50mm wider) with carbon fiber front splitter (Seibon) and custom rear diffuser (Vorsteiner GT3-style, 3-piece)",
+    "Suspension: Ohlins Road & Track coilovers (DFV damping, 2-way adjustable) with custom Eibach ERS springs (front: 8kg/mm, rear: 10kg/mm) and spherical bearing subframe collars (034 Motorsport), paired with polyurethane bushings (034 Motorsport, 80A durometer) for full chassis stiffening",
+    "Aerodynamics: Custom carbon fiber GT-spec rear wing (9 Lives Racing, 3D-printed airfoil, 1200mm span, 200mm chord) with integrated Gurney flap (adjustable 0-15mm) and custom front canards (APR Performance, 3D carbon fiber, 150mm length)"
+  ]
+}

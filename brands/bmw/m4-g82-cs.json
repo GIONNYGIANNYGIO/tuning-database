@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "M4 G82 CS",
+  "prestazioni": [
+    "Full bolt-on turbo system for the S58B30T0 engine (stock internals) featuring a Garrett GTX4202R turbocharger with billet compressor wheel, 0.82 A/R turbine housing, and Precision Turbo wastegate (PT5864 actuator), paired with a CSF Race intercooler (bar-and-plate core, 4.5\" thick) and custom 3.5\" titanium downpipe (VRSF catted, 200-cell) to retain backpressure while reducing lag by 18%",
+    "MCS 4-way adjustable coilover suspension with remote reservoirs, 30-way rebound damping, and linear-rate springs (12kg/mm front, 14kg/mm rear) specifically valved for the G82 CS's 50:50 weight distribution, including spherical top mounts (034 Motorsport) and adjustable camber plates (SPL Parts) for -4.2° front camber",
+    "Full Motec M150 ECU standalone conversion with flex-fuel capability, custom S58-specific fuel system upgrade (10x ID1050x injectors, Walbro 450 LPH dual-pump setup), and a Drexler Motorsport limited-slip differential (40% preload, 85% locking under power) to optimize torque vectoring for the CS's 1,079kg curb weight"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (G82-specific, carbon fiber) with extended front fenders (35mm per side), rear overfenders (50mm per side), and a custom duckbill rear spoiler (3D-printed carbon, 20mm taller than OEM CS lip) for -18% lift at 200km/h",
+    "Vorsteiner V-FF 107 forged wheels (20x10.5 ET25 front, 21x12.5 ET45 rear) in matte gold with custom offset to clear the MCS coilovers, wrapped in Michelin Pilot Sport Cup 2 R tires (275/30/20 front, 315/30/21 rear) with tire warmers (Bridgestone Racing Thermos) for track use",
+    "Full carbon fiber interior overhaul featuring a full Alcantara dashboard (BMW M Performance), Recaro Pole Position seats (carbon shell, FIA-approved 6-point harnesses), and a custom titanium roll cage (Autopower, 6-point bolt-in) with integrated fire suppression system (Lifeline Zero 360, plumbed to all four corners)"
+  ]
+}

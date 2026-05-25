@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "M550d",
+  "prestazioni": [
+    "ECU remap via Alientech KESS3 with Stage 2+ custom tune for the N57D30S1 (3.0L quad-turbo diesel) targeting 550+ hp and 900+ Nm torque, optimizing fuel rail pressure to 2,200 bar and adjusting VANOS timing for reduced turbo lag on the primary low-pressure turbo (Garrett GTB2260VK) while preserving the sequential high-pressure turbo (Garrett GTB2260VZ) spool characteristics",
+    "Full turbocharger upgrade to a hybrid setup: BorgWarner EFR 8374 (low-pressure) with titanium-aluminide turbine wheel and ceramic ball bearings, paired with a stock-replacement GTB2260VZ (high-pressure) modified with a 0.82 A/R turbine housing and billet compressor wheel for sustained 3.5 bar boost pressure under WOT",
+    "High-flow fuel system overhaul: Pierburg CWA 50 auxiliary fuel pump (500 l/h) feeding dual 10AN lines to a set of 8x Bosch Motorsport 0280158802 (350 cc/min) injectors, controlled via a Syvecs S8D standalone ECU with flex-fuel ethanol compensation for E30-E50 blends, paired with a custom 10mm billet fuel rail and -8AN return line to a Radium Engineering surge tank"
+  ],
+  "estetica": [
+    "Full carbon fiber widebody conversion via AC Schnitzer ACS5 Sport body kit (F80 M3 rear fenders, custom front fenders with 25mm extended wheel arches, and integrated carbon diffuser with dual 100mm exhaust cutouts for the Eisenmann Race 83mm titanium exhaust system)",
+    "OEM+ aggressive stance via KW Clubsport 3-way coilovers (24-way rebound, 12-way compression, adjustable top mounts) with custom spring rates (12kg/mm front, 14kg/mm rear) and camber plates for -3.5° front and -2.8° rear, paired with H&R 20mm spacers on all corners for flush fitment with BBS FI-R 9.5x20 ET25 (front) and 11x20 ET30 (rear) wheels wrapped in Michelin Pilot Sport Cup 2 R (275/30/20 front, 315/25/20 rear)",
+    "Aerodynamic package: Vorsteiner V-FF 102 front splitter with integrated canards, custom 3D-printed carbon fiber rear wing (1,200mm span, 300mm chord, NACA 63A012 airfoil) mounted on M Performance carbon fiber wing supports, and a full underbody diffuser with active Gurney flap (controlled via Bosch Motorsport ECU) for -120kg downforce at 200 km/h"
+  ]
+}

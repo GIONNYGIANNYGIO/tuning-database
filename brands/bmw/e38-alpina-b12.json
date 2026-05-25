@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "E38 ALPINA B12",
+  "prestazioni": [
+    "Engine: M73B54 (5.4L V12) with Alpina-specific forged internals, including Mahle Motorsport forged pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a custom Alpina crankshaft with 88mm stroke for 5,400cc displacement. Pair with a Schrick 272° camshaft kit (intake/exhaust) for optimized high-RPM breathing, retaining the stock Alpina variable valve timing system.",
+    "Forced Induction: Replace the stock Alpina B12's naturally aspirated setup with a custom twin-turbo system using Garrett GT35R turbos (0.82 A/R turbine housings) on a custom stainless steel exhaust manifold (fabricated by Gintani). Include a custom intercooler setup with a PWR 4.5\" core and 3\" piping, paired with a Pierburg 87mm throttle body and a custom ECU tune via Alpina's proprietary DME (Digital Motor Electronics) with Motec M150 piggyback for boost control (targeting 0.8 bar / 11.6 psi).",
+    "Drivetrain & Handling: Swap the stock ZF 5HP30 transmission for a reinforced ZF 6HP28 (from the E65 760Li) with a custom Alpina torque converter (2,800 RPM stall) and a Quaife ATB differential (40% lockup). Suspension: Ohlins Road & Track coilovers (E38-specific valving) with Eibach Pro-Kit helper springs, paired with Alpina's factory 25mm front / 15mm rear sway bars (reinforced with polyurethane bushings from SuperPro). Braking: AP Racing 6-piston calipers (front) with 380mm two-piece rotors (from a Porsche 991 GT3) and Ferodo DS2500 pads, matched with Brembo 4-piston rear calipers and 355mm rotors."
+  ],
+  "estetica": [
+    "Exterior: Full carbon fiber widebody conversion using the Rocket Bunny E38 kit (V1), including extended fenders (30mm front, 40mm rear), custom front splitter with integrated canards (fabricated by Vorsteiner), and a ducktail spoiler (carbon fiber, 3D-scanned from the Alpina B12 5.7 prototype). Paint: BMW Individual Frozen Dark Grey II (code 496) with Alpina Blue (code 235) pinstripes, applied by Sikkens Autoclear III UV-resistant clearcoat.",
+    "Wheels: Forged BBS LM-R (9x20 ET20 front, 10.5x20 ET25 rear) with custom Alpina center caps, wrapped in Michelin Pilot Sport Cup 2 tires (275/30/20 front, 315/25/20 rear). Finish: Gloss black with polished lip and Alpina Blue pinstripe on the outer rim.",
+    "Interior: Full Alpina B12 5.7 prototype recreation, including Alpina Sport seats (recaro SRD with Alpina Blue Nappa leather and perforated Alpina logos), custom MOMO Mod.78 steering wheel (380mm, suede with Alpina horn button), and a digital gauge cluster (Motec C127) replacing the stock instrument panel. Trim: Piano black wood with Alpina Blue contrast stitching on the dashboard, door cards, and center console, paired with a custom Alpina shift knob (weighted, 24k gold-plated shift pattern)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "ISETTA",
+  "prestazioni": [
+    "Engine swap to a BMW R25/3 247cc single-cylinder motorcycle engine (engine code: R25/3) with a custom billet aluminum crankshaft from JE Pistons, increasing displacement to 272cc via a 72mm bore and 68mm stroke. Pair with a Mikuni VM34 carburetor and a custom 4-into-1 exhaust header wrapped in DEI Titanium exhaust wrap, terminating in a SuperTrapp 5-inch megaphone muffler for optimal scavenging.",
+    "Install a custom lightweight flywheel from Fidanza (1.2kg) and a Sachs Performance clutch with a billet aluminum pressure plate, mated to a close-ratio 4-speed dog-engagement gearbox from a Honda Grom (modified for Isetta bellhousing compatibility) with Quaife ATB differential for improved power delivery.",
+    "Fabricate a custom front-mounted intercooler (using a Garrett Core from a GT15 turbo) paired with a Sprintex S200 supercharger (modified for R25/3 compatibility) running 8 psi of boost, with a custom intake manifold cast from 3D-printed sand molds and a Bosch 0280155504 fuel injector for precise fuel delivery."
+  ],
+  "estetica": [
+    "Replace the stock front bumper with a custom carbon fiber unit from Rocket Bunny, featuring integrated LED turn signals and a central tow hook. Paint the entire body in BMW Motorsport’s Dakar Yellow (code: 0400) with a matte clear coat from Spraymax for a vintage rally aesthetic.",
+    "Install a custom roll cage from Custom Cages UK, fabricated from 4130 chromoly steel with a bolt-in rear subframe brace, finished in a textured powder coat (RAL 9005 Jet Black). Pair with Recaro SRD seats upholstered in Nappa leather with Alcantara inserts, featuring embroidered Isetta logos in BMW M blue thread.",
+    "Fabricate a custom rear wing from a 3D-printed carbon fiber airfoil (NACA 63A012 profile) mounted on billet aluminum pedestals from APR Performance. Add a custom LED taillight assembly using Osram LED strips, integrated into a smoked polycarbonate lens with sequential turn signals controlled by an Arduino-based module."
+  ]
+}

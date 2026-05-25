@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "M2 G87",
+  "prestazioni": [
+    "S58B30T0 engine: Full bolt-on turbo upgrade with Garrett GTX5533R Gen II turbocharger (106mm compressor wheel, 88mm turbine, 1.28 A/R housing) paired with a custom 4-inch titanium downpipe (Vargas GC) and a CSF high-flow intercooler (5.5\" core, 22.5\" x 7.5\" x 4.5\" dimensions) to support 800+ WHP on E85 with a Motec M150 ECU standalone conversion (OEM CAN bus integration retained).",
+    "Drivetrain reinforcement: Wavetrac limited-slip differential with 45% lockup under power (replacing the OEM M2 G87 35% unit) and a South Bend Clutch Stage 3+ twin-disc setup (2600lb clamping force, sprung hub, dual organic/ceramic friction discs) for the S58’s 516 lb-ft torque capacity. Matched with a Driveshaft Shop 3.5\" aluminum driveshaft (1350 series U-joints) to eliminate OEM flex-disc failure risks.",
+    "Suspension & chassis: Ohlins Road & Track DFV coilovers (30-way adjustable compression/rebound, 20mm front/15mm rear ride height adjustment) with MCS 3-way remote reservoirs (adjustable bump/rebound separately) and H&R 25mm front / 20mm rear anti-roll bars (hollow core, 3-position adjustable). Chassis stiffening via Wavetrac front strut bar (aluminum, 3-point design) and a 0.125\" aluminum rear subframe brace (Turner Motorsport)."
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny V3 widebody kit (G87-specific, 30mm front/40mm rear fender flares, carbon fiber front splitter with 3D-printed gurney flaps) paired with a custom 3D-printed rear diffuser (ABS plastic, 50% larger than OEM) and a GT3-style ducktail spoiler (carbon fiber, 3-position adjustable angle). Underbody aero includes a full-length carbon fiber flat floor (Seibon) with integrated vortex generators.",
+    "Wheels & tires: BBS FI-R 9.5x19\" ET25 front / 11x19\" ET35 rear (forged aluminum, 5x120 PCD, 20mm spacer adapters) wrapped in Michelin Pilot Sport Cup 2 R tires (275/35/19 front, 305/30/19 rear) with TPMS sensors (Vredestein direct-fit). Brake system: AP Racing Radi-CAL 6-piston front / 4-piston rear calipers (G87-specific brackets) with 400mm front / 380mm rear 2-piece rotors (J-Hook slotted, zinc-coated hats).",
+    "Exterior accents: Full G87-specific carbon fiber hood (Seibon, 15lb weight reduction, OEM-style latches) with a custom heat extractor (3D-printed titanium mesh, 40% more airflow than OEM vents). Side skirts replaced with M Performance carbon fiber units (pre-preg autoclave, clear coat finish) and a custom front bumper lip (3D-printed carbon fiber, 2.5\" lower than OEM) with integrated LED DRLs (Lux H8 V4, 6000K, CAN bus compatible)."
+  ]
+}

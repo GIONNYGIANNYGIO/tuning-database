@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "M3 CRT E90 CARBON EDITION",
+  "prestazioni": [
+    "Engine: S65B40 (4.0L V8, 32v, 414hp stock) – Full Akrapović Evolution Line Titanium exhaust system with 80mm carbon-fiber tips, deleting the rear mufflers for a 12% flow increase and +18hp at 8,200 RPM, paired with a custom X-Pipe by Eisenmann Performance (part #E90M3-CRT-XP) to optimize scavenging for the CRT’s 8,400 RPM redline.",
+    "Forced Induction: Pure Stage 2 S65 supercharger kit (Rotrex C38-91) with a custom intercooler core by CSF Racing (part #8214) and a 100mm throttle body spacer by aFe Power, pushing 620whp on 93 octane with a custom ECU flash by PTG (Pro Tuning Group) utilizing a Cobb Accessport V3 for real-time monitoring of the CRT’s individual throttle bodies (ITBs).",
+    "Suspension & Handling: Ohlins Road & Track DFV coilovers (part #BM1500) with custom valving for the CRT’s carbon-fiber roof and trunk, paired with H&R 25mm front and 20mm rear anti-roll bars (part #54665-25 & #54666-20) to counteract the 1,605kg curb weight. Front control arms upgraded to 034 Motorsport Motorsport Solid Subframe Bushings (part #03-01-0001) and rear toe arms by Vorshlag Motorsport (part #VOR-E9X-RTA) for razor-sharp turn-in."
+  ],
+  "estetica": [
+    "Carbon Fiber: Full GTS-spec carbon-fiber front splitter by AC Schnitzer (part #3101-000-000) with integrated canards, paired with a custom CRT-specific rear diffuser by Vorsteiner (part #V-501038) in raw carbon weave, matching the OEM carbon roof and trunk. Side skirts replaced with AC Schnitzer Type 4 units (part #3102-000-000) for aggressive stance.",
+    "Wheels & Aero: BBS LM-RS II wheels in 9x19 ET22 front and 10.5x19 ET27 rear (part #37.103431.9F & #37.103432.9R), wrapped in Michelin Pilot Sport Cup 2 R tires (265/35/19 & 295/30/19) for maximum mechanical grip. Rear wing upgraded to a custom CRT-specific GT2-style wing by 991 Motorsport (part #991-E90M3-CRT-WING) with adjustable carbon-fiber endplates.",
+    "Interior & Details: Full Alcantara retrim by Euro-Design (dashboard, door cards, and center console) in BMW Individual Amaro Brown, paired with a custom CRT shift knob by Gruppe M (part #GRM-01-001) in machined aluminum. Instrument cluster recalibrated with a MoteC C127 dash logger (part #C127-00-00) for real-time boost, AFR, and oil temp monitoring, replacing the stock gauge cluster."
+  ]
+}

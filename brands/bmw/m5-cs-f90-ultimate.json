@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "M5 CS F90 ULTIMATE",
+  "prestazioni": [
+    "Engine: S63B44T4 (4.4L V8 twin-turbo) with a custom Gintani Stage 3.5 ECU flash, targeting 850whp on E85 via upgraded fuel system (Bosch Motorsport 1,200cc injectors + dual Walbro 450LPH pumps) and Garrett GTX5533R Gen II turbos with billet compressor wheels and 1.05 A/R turbine housings, paired with a CSF Race Series intercooler and custom 3.5\" titanium downpipes (catless) by FTP Motorsports",
+    "Drivetrain: MSS5000 9-speed transmission with a P3 Cars carbon-fiber driveshaft, OS Giken Super Lock LSD (2.2-way), and a Sachs Performance Stage 4 clutch with a lightweight aluminum flywheel (12.5kg) for reduced rotational mass and faster rev-matching",
+    "Suspension/Handling: KW Suspensions Clubsport 3-way adjustable coilovers with remote reservoirs, custom-valved for the M5 CS’s 50:50 weight distribution, paired with Ohlins TTX46 front and TTX40 rear dampers, H&R Monoball subframe bushings, and a full carbon-fiber front strut brace by 034Motorsport, complemented by Michelin Pilot Sport Cup 2 R tires (285/30R20 front, 305/25R21 rear) on BBS FI-R 920M forged wheels (20x10.5 ET25 front, 21x12 ET45 rear)"
+  ],
+  "estetica": [
+    "Aero: Full Rocket Bunny V3 widebody kit (F90-specific) with carbon-fiber overfenders, custom 3D-printed front splitter with integrated canards (by Vorsteiner), and a GT3-style rear diffuser with active Gurney flap (adjustable via a cockpit switch), all finished in a custom matte BMW Frozen Dark Grey (code: A96) with gloss black accents",
+    "Lighting: OEM+ LCI LED headlights with Osram Night Breaker Laser bulbs (6,500K), custom sequential LED taillights by Diode Dynamics (M CS-specific housing), and a full carbon-fiber hood with a functional heat extractor (by AC Schnitzer) and integrated LED daytime running lights",
+    "Interior: Full Alcantara-wrapped Recaro SPG XL bucket seats (M CS-specific mounting brackets), custom roll cage by Wiechers-Sport (bolt-in, 8-point, TIG-welded) with integrated fire suppression system (Lifeline Zero 360), and a MOTEC C127 dash logger replacing the iDrive screen, paired with a custom carbon-fiber shift knob (by 3D Carbon) and a titanium gear lever (by BMS)"
+  ]
+}

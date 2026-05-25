@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "M4 CSL G82 TRACK PACK",
+  "prestazioni": [
+    "S58B30T0 engine: Full-forged internals with Mahle Motorsport 9.5:1 compression pistons, Pankl Racing Systems titanium connecting rods, and a billet crankshaft with upgraded main and rod bearings from ACL Race Series for sustained 8,500 RPM operation under 1.8 bar of boost via a Garrett GTX5533R Gen II turbocharger with a 76mm billet compressor wheel and 106mm turbine, paired with a custom 4.5-inch V-band downpipe and a CSF Racing S58-specific front-mount intercooler with dual 2.5-inch charge pipes and silicone couplers from Vibrant Performance",
+    "Motec M150 ECU with custom CAN bus integration for real-time telemetry, including individual cylinder fuel trims, knock control via Kistler 6052C piezoelectric sensors, and a 4D ignition map optimized for Sunoco GT260+ race fuel (104 octane) with a port-injected secondary fuel system using Injector Dynamics ID1700x injectors for supplemental cooling and power delivery up to 850+ WHP on E85 blends",
+    "Ohlins TTX46 MkII 3-way adjustable coilovers with spherical bearing top mounts, 24mm front/22mm rear sway bars from H&R, and a full polybush kit from SuperPro (part numbers SPF1050K, SPF1051K, SPF1052K) for subframe and control arm reinforcement, paired with AP Racing CP9460-1000 6-piston front/4-piston rear brake calipers and 400mm two-piece rotors with titanium hat adapters from Essex Parts"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit with carbon fiber fenders (front +2.5 inches, rear +3.0 inches), custom 3D-printed ABS front splitter with integrated dive planes, and a GT3-style rear diffuser from 991 Motorsport, all finished in BMW Individual Frozen Brilliant White (354) with matte black accents on the kidney grilles and side gills",
+    "Carbon fiber roof replacement from AC Schnitzer (part #AC-20-10-0001) with a clear bra from XPEL Ultimate Plus, paired with OEM M4 CSL carbon fiber mirrors and a custom titanium exhaust system from Remus (4-2-1 header design with 3.5-inch outlets) featuring dual Akrapovic carbon fiber tips with laser-etched BMW M logos",
+    "BBS FI-R 19x10.5 ET25 (front) and 19x12 ET45 (rear) wheels in gold finish, wrapped in Michelin Pilot Sport Cup 2 R tires (285/30/19 front, 305/30/19 rear) with TPMS sensors from Schrader Electronics, and a custom roll cage from Wiechers-Sport (bolt-in 8-point design with integrated harness bar) upholstered in Alcantara with red contrast stitching from BMW M Performance"
+  ]
+}

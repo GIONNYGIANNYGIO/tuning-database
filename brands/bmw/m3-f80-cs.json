@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "M3 F80 CS",
+  "prestazioni": [
+    "Full bolt-on S55B30T0 (3.0L twin-turbo inline-6) Stage 2+ ECU flash via MHD OTS 'CS Aggressive' map with custom ethanol flex-fuel adaptation (E60-E85), paired with a CSF high-flow aluminum radiator and upgraded 10-row oil cooler to maintain optimal IATs under sustained 1.5-bar boost (stock turbochargers retained for linear power delivery).",
+    "Precision Raceworks S55 port-injection kit with dual 1,000cc Injector Dynamics ID1050x injectors and a Radium Engineering dual-catch can setup (AN-10 lines) to eliminate oil vapor ingestion under high lateral G-forces, complemented by a Vibrant 14820 4-inch titanium exhaust with CS-specific X-pipe delete and secondary cat removal for a 30% reduction in backpressure.",
+    "Ohlins Road & Track coilovers (F80 CS-specific valving) with 8kg/mm front and 12kg/mm rear springs, adjustable top mounts, and reinforced thrust bearings, paired with a 3-way adjustable MCS aluminum remote-reservoir damper kit for track use, alongside a BMW Performance carbon fiber strut brace and a Wavetrac ATB differential with 40% lockup under power for improved mid-corner throttle response."
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (F80 CS-specific) with carbon fiber overfenders, extended rockers, and a duckbill rear spoiler, finished in BMW Individual Frozen Brilliant White with matte black accents and custom 'CS' side decals in 3M 1080 Satin Black.",
+    "Vorsteiner V-FF 107 forged 20x10.5 ET25 and 20x12 ET45 wheels (CS-specific offsets) wrapped in Michelin Pilot Sport Cup 2 R tires (275/30 front, 305/30 rear) with custom gold hardware and titanium lug nuts, paired with AP Racing CP9660 front 400mm 6-piston calipers and CP9450 rear 380mm 4-piston calipers with CS-specific brake ducts.",
+    "CS-specific carbon fiber interior overhaul: Status Gruppe carbon fiber M3 CS door cards with Alcantara inserts, a full Alcantara headliner (including A-pillars), and a custom roll cage (MCS Motorsport bolt-in 6-point) with Alcantara-wrapped main hoop and carbon fiber side bars, complemented by a Sparco Pro 2000 seat swap (Schroth 6-point harnesses) and a MOTEC C127 dash display for real-time boost, AFR, and oil temp monitoring."
+  ]
+}

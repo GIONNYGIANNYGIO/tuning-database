@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "M2 F87 CS",
+  "prestazioni": [
+    "Full bolt-on turbo system for the S55B30T0 (3.0L inline-6) utilizing a Garrett GTX3582R Gen II turbocharger with billet compressor wheel, 0.82 A/R turbine housing, and TiAL MV-R 44mm wastegate, paired with a custom 76mm titanium downpipe and CSF intercooler with 1,200hp-rated end tanks for sustained boost levels up to 24 psi on E85 fuel",
+    "Motec M150 ECU with custom S55-specific calibration by Dimsport (Italy), including individual cylinder fuel trims, anti-lag strategies, and launch control optimized for the M2 CS's 7-speed M-DCT transmission with upgraded Sachs Performance dual-mass flywheel and uprated clutch pack (300Nm+ torque capacity)",
+    "Full drivetrain reinforcement including Wavetrac Torsen-style limited-slip differential with 45% lockup under power, GTSport Engineering 3.15:1 ratio M2 CS-specific ring & pinion set, and Driveshaft Shop 3.5-inch carbon fiber driveshaft with billet aluminum yokes for 1,000hp+ applications"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody conversion kit for F87 M2 CS with custom carbon fiber overfenders (25mm wider front, 35mm wider rear), paired with a custom 3D-printed front splitter and GT3-style canards by 991 Motorsport, all finished in BMW Individual Frozen Brilliant White with satin black accents",
+    "OEM+ M Performance carbon fiber mirror caps with integrated LED turn signals, retrofitted with custom laser-cut aluminum mounting brackets to accommodate the wider Rocket Bunny fenders, and a full carbon fiber roof replacement using a dry carbon weave from 3D Carbon (USA) with hidden antenna integration",
+    "Custom interior overhaul featuring Recaro Pole Position seats with Alcantara/leather upholstery (Schroth 6-point harnesses), MCS Motorsport bolt-in roll cage (FIA-spec, 25CrMo4 steel) with integrated fire suppression system (Lifeline Zero 360), and a custom carbon fiber dashboard overlay with integrated AIM MXS Strada 1.2 data display"
+  ]
+}

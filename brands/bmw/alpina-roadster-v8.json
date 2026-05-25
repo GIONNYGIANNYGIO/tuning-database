@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "ALPINA ROADSTER V8",
+  "prestazioni": [
+    "Engine: Alpina-tuned N62B48 V8 (4.8L, 375hp stock) with a custom Akrapović Evolution Line Titanium exhaust system featuring 3.5\" diameter downpipes and a straight-pipe center section, paired with a Dinan Engineering Stage 3 ECU flash (optimized for 98 RON fuel, 420hp/450Nm, 7,200 RPM redline, and Alpina-specific cam profiles)",
+    "Forced Induction: Hybrid turbo upgrade using a Garrett GT3582R with a billet compressor wheel (62mm inducer, 82mm exducer) and a custom Alpina-spec wastegate actuator (1.2 bar peak boost, spooling at 2,800 RPM), mated to a CSF Racing aluminum radiator and a Setrab 50-row oil cooler with AN-10 lines",
+    "Suspension & Handling: KW Suspensions Clubsport coilovers (3-way adjustable, 80mm of travel, Alpina-specific valving) with Eibach ERS 1000N/mm helper springs, paired with Alpina/Brembo 380mm front brake kit (6-piston calipers, 36mm thick rotors, Pagid RS29 pads) and a Cusco Type-RS 22mm rear sway bar"
+  ],
+  "estetica": [
+    "Aero: Alpina B7 S BiTurbo front splitter (carbon fiber, 3-piece) with a custom rear diffuser by Vorsteiner (V-RT10, 3D-molded ABS, integrated brake ducts), and a G-Power Hurricane RR carbon fiber rear wing (adjustable angle, 1,200mm span)",
+    "Wheels: HRE P101 20x9.5\" ET25 front / 20x11\" ET30 rear (Forgeline center-lock, 5x120 PCD) wrapped in Michelin Pilot Sport Cup 2 R tires (265/30 R20 front, 305/25 R20 rear), with Alpina-specific TPMS sensors",
+    "Exterior Trim: OEM Alpina Blue II paint (code: A35) with a full 3M Matte Clear Bra (XPEL Ultimate PPF alternative), Alpina pinstripes (hand-painted, 2mm width), and a custom carbon fiber engine cover by RK Design (vented, with Alpina logo inlay)"
+  ]
+}

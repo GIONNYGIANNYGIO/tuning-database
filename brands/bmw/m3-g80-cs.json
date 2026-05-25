@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "M3 G80 CS",
+  "prestazioni": [
+    "MST Performance Stage 2+ ECU/TCU flash for the S58B30T0 (3.0L twin-turbo I6) with custom ethanol mapping (E50-E85) via Flex Fuel sensor, targeting 650whp on 93 octane and 720whp on E85, utilizing a Precision 6266 turbo upgrade with billet compressor wheel and 0.82 A/R turbine housing, paired with a CSF Race intercooler (part #8224) and upgraded charge pipes (VRSF 3.5\" aluminum)",
+    "Full bolt-on fuel system upgrade: AEM 400LPH in-tank fuel pump (part #50-1200), Injector Dynamics ID1700x injectors (flow-matched), and a Radium Engineering dual-catch can setup (part #20-0225) with -10AN lines and XRP fittings to prevent oil dilution in the S58's closed-deck block",
+    "Ohlins Road & Track coilovers (part #BM1VSS00-M) with custom valving for the G80 CS's 1,730kg curb weight, paired with MCS 3-way adjustable dampers (front: 2-way, rear: 1-way) and H&R 25mm front / 20mm rear sway bars (part #747 881 00 & #747 882 00) to eliminate the CS's stock understeer under heavy throttle"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (G80 M3-specific, part #RB-BMW-G80M3-V3) with carbon fiber overfenders, front bumper canards, and a duckbill rear spoiler, finished in BMW Individual Frozen Portimao Blue (paint code 354) with matte black accents",
+    "CS-spec carbon fiber mirror caps (BMW M Performance, part #51-16-2-488-956) and a custom Akrapovic Evolution Line Titanium exhaust system (part #BMW-M3-G80-CS-TI) with quad 100mm tips and a bypass valve delete for aggressive cold-start pops",
+    "BBS FI-R 20x9.5 ET25 (front) and 20x11 ET40 (rear) forged wheels in Gloss Black (part #FI-R-2095-5112 & FI-R-2110-5112), wrapped in Michelin Pilot Sport Cup 2 R tires (275/30/20 front, 305/25/20 rear) with custom TPMS sensors (Schrader 20010)"
+  ]
+}

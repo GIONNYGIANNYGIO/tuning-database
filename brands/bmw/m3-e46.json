@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "M3 E46",
+  "prestazioni": [
+    "Engine: S54B32 (3.2L I6) with a custom Schrick 288°/280° camshaft kit (intake/exhaust) paired with Ferrea 6000-series titanium retainers and Supertech dual valve springs for 8,500 RPM reliability, mated to a Vibrant 1799 stainless steel header and 3.5\" AR-catted downpipe feeding into a Remus Sport Evolution exhaust with 70mm tips for optimized scavenging and 380+ HP on 98 RON fuel",
+    "Forced induction: Rotrex C38-91 supercharger (10.5psi peak) with a custom AEM water-methanol injection kit (50/50 mix) and a CSF race intercooler (bar-and-plate core, 4.5\" thick) running through a custom 3\" silicone charge pipe setup, paired with a Siemens 630cc high-impedance injector upgrade and a Walbro 450 LPH fuel pump for consistent AFRs under boost",
+    "Drivetrain: OS Giken 1.5-way LSD with 40% preload and 65% power lockup, mated to a Spec Stage 3+ clutch (steel-backed organic disc) and a lightweight aluminum flywheel (11.8 lbs), paired with a Getrag 420G 6-speed transmission reinforced with a ZF Sachs transmission mount and a UUC short shifter (25% reduction in throw) with solid bushings"
+  ],
+  "estetica": [
+    "Body: OEM+ CSL-style front bumper with integrated carbon fiber splitter (Vorsteiner replica) and a custom 3M 1080 vinyl wrap in BMW Individual Laguna Seca Blue (LCB) with a satin clear coat, paired with a genuine BMW Motorsport GT rear bumper (E46 M3 GT2) and a carbon fiber CSL-style roof (AC Schnitzer)",
+    "Aero: Custom 3D-printed carbon fiber rear diffuser (inspired by the E92 M3 GTS) with integrated brake ducts, paired with a carbon fiber GT wing (9 Lives Racing, 30mm risers) and a custom front canard setup (Rocket Bunny-style, 3-piece carbon fiber) for -120kg of downforce at 160mph",
+    "Wheels: BBS LM-R (19x9.5 +22 front, 19x10.5 +25 rear) with custom gold PCD adapters (5x120 to 5x114.3) and Michelin Pilot Sport Cup 2 tires (265/35/19 front, 295/30/19 rear), paired with OZ Racing Ultraleggera center caps and custom engraved titanium wheel bolts (ARP)"
+  ]
+}

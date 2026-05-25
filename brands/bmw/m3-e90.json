@@ -1,0 +1,17 @@
+{
+  "brand": "BMW",
+  "model": "M3 E90",
+  "prestazioni": [
+    "Engine: S65B40 (4.0L V8, 331hp stock) – Full forged internals build with Mahle Motorsport forged pistons (8.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from VAC Motorsports for 9,000 RPM reliability. Paired with a custom Schrick 288° camshaft kit and titanium retainers from VAC for aggressive valvetrain performance.",
+    "Forced Induction: Single-turbo setup using a Garrett GTX4202R turbocharger (86mm compressor wheel) with a custom Precision Turbo wastegate (44mm) and a TiAL MV-R 50mm blow-off valve. Custom 3.5\" stainless steel turbo manifold by VF Engineering, paired with a CSF Racing aluminum radiator and a PWR 4-row oil cooler to manage heat under 600+ HP.",
+    "Fuel & Ignition: Full Motec M150 ECU standalone management with a dual Bosch 044 fuel pump setup, ID1000x injectors, and a Radium Engineering fuel surge tank. Ignition system upgraded to AEM CDI coils and NGK 95770 Iridium spark plugs (gapped at 0.022\"). Custom 3.5\" intake system with a K&N conical filter and a Vibrant Performance aluminum intake pipe for optimized airflow.",
+    "Drivetrain: OS Giken 2-way limited-slip differential with 4.10 final drive ratio, paired with a Spec Stage 4+ twin-disc clutch and a lightweight aluminum flywheel. Driveshaft upgraded to a 3.5\" carbon fiber unit from The Driveshaft Shop for reduced rotational mass.",
+    "Suspension & Brakes: Ohlins Road & Track coilovers (DFV2) with custom valving for E90 chassis, paired with Hotchkis Sport sway bars (24mm front, 22mm rear) and spherical bearing end links. Braking system features AP Racing 6-piston front calipers (380mm discs) and 4-piston rear calipers (355mm discs) with Ferodo DS2500 pads and stainless steel brake lines."
+  ],
+  "estetica": [
+    "Widebody Conversion: Rocket Bunny V3 E90 M3 kit with custom carbon fiber fenders (3.5\" wider front, 4\" wider rear), paired with a custom vented hood from Seibon Carbon for heat extraction. Rear diffuser from Vorsteiner and a custom 3D-printed front splitter with integrated canards for aggressive aero.",
+    "Wheels & Tires: Volk Racing TE37V (19x9.5 +22 front, 19x11 +25 rear) in Hyper Black, wrapped in Michelin Pilot Sport Cup 2 R tires (265/35/19 front, 295/30/19 rear). Custom titanium wheel studs from ARP and lightweight aluminum lug nuts from Bimecc.",
+    "Exterior Details: Full GTS-spec front bumper with custom carbon fiber kidney grilles and a custom M Performance-style rear bumper with integrated tow hook. Full de-chrome treatment with gloss black trim, paired with a custom carbon fiber roof wrap from 3M (Matte Black). LED Angel Eyes from LUX H8 V4 with custom DRL delete plates.",
+    "Interior: Full Recaro SPG XL seats with custom Alcantara and red stitching, paired with a MOMO Mod.78 steering wheel (350mm, suede). Custom roll cage from Autopower (6-point, bolt-in) with harness bar and Schroth Profi II 6-point harnesses. Full interior carbon fiber trim from Status Gruppe, including door cards, center console, and dashboard inserts."
+  ]
+}

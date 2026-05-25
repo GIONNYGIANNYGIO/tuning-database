@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "M3 E36",
+  "prestazioni": [
+    "S54B32 (3.2L I6) engine swap with forged internals: Mahle Motorsport forged pistons (87.5mm, 11.5:1 CR), Pauter billet steel connecting rods, and a custom Schrick 288° camshaft kit for high-RPM power retention (8,500 RPM redline). Paired with a custom 4-1 stainless steel header by Supersprint and a 3.5\" titanium exhaust system from Remus, terminating in dual 100mm outlets with electronic valvetronic bypass for track use.",
+    "Forced induction via a Garrett GT3582R turbocharger (0.82 A/R turbine housing) on a custom cast manifold by TurboLab, running 1.2 bar of boost with a custom Motec M150 ECU managing sequential fuel injection (ID1000x injectors) and a dual Bosch 044 fuel pump setup. Intercooled with a custom air-to-water system using a PWR radiator and a Bosch Motorsport water pump for consistent intake temps under 45°C.",
+    "Drivetrain upgrades: OS Giken Super Lock LSD (2.93:1 final drive) with a 6-speed Getrag 420G gearbox (close-ratio gears: 3.82, 2.20, 1.52, 1.22, 1.00, 0.83) and a Sachs Performance twin-disc clutch (240mm, 800Nm torque capacity). Chassis reinforcement via a full WRC-spec cage by Matter Fab (chromoly, 4-point with door bars) and polyurethane bushings from 034 Motorsport for subframe and differential mounts."
+  ],
+  "estetica": [
+    "Full Rocket Bunny RB-W01 widebody kit (E36-specific, 30mm wider front fenders, 50mm rear) with custom carbon fiber overfenders and a ducktail spoiler from AC Schnitzer. Front splitter and rear diffuser by Vorsteiner (carbon fiber, 3-piece adjustable for downforce tuning).",
+    "OEM+ aggressive stance via Ohlins Road & Track coilovers (2-way adjustable, 80mm drop) with custom spring rates (8kg/mm front, 10kg/mm rear) and spherical bearing top mounts from Vibratechnics. Wheels: BBS LM-R (17x9.5 ET15 front, 17x10.5 ET5 rear) with Michelin Pilot Sport Cup 2 tires (245/40/17 front, 275/35/17 rear).",
+    "Interior stripped for weight savings: Recaro Pole Position seats (carbon fiber shells, FIA-approved) with Schroth 6-point harnesses, MOMO Mod.78 steering wheel (350mm, suede), and a custom roll cage padding kit by Safety Devices. Full digital dash via a Motec C127 display with integrated lap timer and data logging for track telemetry."
+  ]
+}

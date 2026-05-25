@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "M3 E92 GTS",
+  "prestazioni": [
+    "Engine: S65B40 (4.0L V8) with a custom Akrapović Evolution Line Titanium exhaust system featuring 80mm diameter piping, 4-2-1 merge collectors, and a straight-through muffler delete for a 12-15whp gain and aggressive 9,500 RPM tone, paired with a CSF Racing radiator and oil cooler to maintain optimal temps under track use",
+    "Forced Induction: Rotrex C38-91 supercharger kit (10.5psi peak boost) with a custom intercooler setup by Wagner Tuning (850g/s airflow capacity), utilizing a custom ECU tune by PTG (Performance Tuning Group) with 580whp and 420wtq on 98 RON fuel, including a Motec M150 ECU for real-time data logging and knock control",
+    "Suspension & Handling: Öhlins Road & Track DFV coilovers (2-way adjustable damping) with custom valving for the E92 GTS, paired with a 25mm front and 20mm rear H&R Track+ lowering springs, reinforced with Hotchkis Sport Suspension sway bars (28mm front, 25mm rear) and spherical bearing subframe bushings by 034 Motorsport for razor-sharp turn-in response"
+  ],
+  "estetica": [
+    "Aero: Custom GTS-spec carbon fiber front splitter by Vorsteiner (extended 50mm beyond OEM for increased downforce), paired with a GT3-style rear diffuser by AC Schnitzer and a fixed carbon fiber rear wing (1,200mm width) by Status Gruppe, all painted in BMW Individual Frozen Gray (A07) with matte clear coat",
+    "Wheels & Brakes: HRE FF01 wheels (19x9.5 ET22 front, 19x11 ET20 rear) in a custom brushed titanium finish, wrapped in Michelin Pilot Sport Cup 2 R tires (265/35/19 front, 295/30/19 rear), with a full AP Racing Radi-CAL big brake kit (380mm front rotors, 6-piston calipers; 355mm rear rotors, 4-piston calipers) and Ferodo DS2500 pads for track endurance",
+    "Interior & Weight Reduction: Full carbon fiber interior by BMW M Performance, including Recaro SRD-E bucket seats (carbon shell, Alcantara upholstery), a custom roll cage by Wiechers-Sport (bolt-in, TIG-welded, 4-point harness bar), and a stripped-out rear cabin with a carbon fiber rear bulkhead and polycarbonate rear windows (3mm thick, 50% weight savings)"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "M3 F80",
+  "prestazioni": [
+    "Full bolt-on turbo system for the S55B30 engine featuring a Precision Turbo PT6266 CEA ball-bearing turbocharger (62mm inducer, 66mm exducer) with a custom 3.5-inch titanium downpipe and GESI catted mid-pipe, paired with a CSF Race radiator and a PWR 5-row oil cooler to maintain optimal S55 temperatures under sustained boost (targeting 22-24 psi on E85 for ~700whp on stock internals with upgraded rod bolts).",
+    "Ohlins Road & Track coilovers with 800lb/in front springs and 1000lb/in rear springs, adjustable camber plates (0 to -4 degrees front, -1.5 to -3.5 degrees rear), and custom valving for the F80 chassis to eliminate body roll while retaining compliance for Nurburgring lap times under 7:50.",
+    "Motec M150 ECU with a full flex-fuel kit (Continental ethanol sensor, Walbro 450LPH E85 pump, and dual Bosch 044 fuel pumps) running a custom 20-degree ignition map with 30psi fuel pressure, paired with a Drexler Motorsport limited-slip differential (40% lock under power, 25% lock on coast) and a 3.15:1 M-Division ring & pinion for optimized acceleration without sacrificing top speed."
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (FRP construction, 30mm front fender flares, 50mm rear fender flares) with custom carbon fiber side skirts and a 3D-printed front splitter (20mm overhang, 3-stage gurney flap) for -120kg of downforce at 150mph, all painted in BMW Individual Frozen Dark Silver with matte black accents.",
+    "CSF carbon fiber M Performance-style kidney grilles (OEM+ fitment, 3K twill weave) paired with a custom 3D-printed rear diffuser (modeled after the F82 M4 GTS) featuring integrated exhaust cutouts for a GESI 3.5-inch titanium exhaust system with quad 100mm outlets and carbon fiber tips (weight savings: 12kg vs. stock).",
+    "BC Racing BR series seats (FIA-certified, 1.5-inch lower than stock) with custom Schroth 6-point harnesses and a VAC Motorsports bolt-in roll cage (T45 steel, 1.75x0.120 wall thickness) painted in BMW Motorsport blue, paired with a custom carbon fiber M-style steering wheel (12 o'clock marker, Alcantara grip) and a digital AIM MXS Strada dash (12-inch display, CAN bus integration for S55 data logging)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "M4 F82",
+  "prestazioni": [
+    "Full bolt-on S55B30T0 (3.0L twin-turbo inline-6) Stage 2+ tune by MSS50 ECU reflash via Eurocharged's 'M4 F82 Competition Package', targeting 650whp on E85 with upgraded fuel system (10x Bosch Motorsport 0280158861 injectors, Walbro 450LPH in-tank pump + dual DW300C external pumps), and a custom-calibrated Garrett GTX3582R turbocharger setup with billet compressor wheel, 0.82 A/R turbine housing, and TiAL MV-R 44mm wastegates",
+    "Full drivetrain reinforcement with Wavetrac Torsen-style limited-slip differential (F8X-specific), MFactory 3.91:1 ring & pinion gear set, and South Bend Clutch Stage 3+ twin-disc clutch with organic/carbon hybrid friction material for 800+ lb-ft torque capacity",
+    "Suspension overhaul with Ohlins Road & Track DFV coilovers (F82-specific valving), Vorshlag Motorsport spherical front control arms, and Hotchkis Sport Suspension 1.5° negative camber plates, paired with AP Racing CP9450 front 6-piston/CP9446 rear 4-piston calipers and Pagid RS29 brake pads on 20\" Apex ARC-8 wheels (9.5\" front, 11\" rear) with Michelin Pilot Sport Cup 2 R tires (275/30/20 front, 305/30/20 rear)"
+  ],
+  "estetica": [
+    "Full Rocket Bunny V3 widebody kit (F82-specific) with carbon fiber overfenders, front bumper canards, and rear diffuser, finished in BMW Individual Frozen Brilliant White (354) with gloss black accents",
+    "Custom Akrapović Evolution Line Titanium exhaust system with quad 100mm outlets, integrated electronic bypass valves, and carbon fiber tips, paired with a CSF Race radiator and custom aluminum charge pipes (anodized gold) from FTP Motorsport",
+    "Interior rework featuring Recaro Pole Position CS-II seats (F82-specific mounting brackets), MCS Motorsport 6-point roll cage (half-cage, bolt-in), and a custom Alcantara-wrapped M Performance steering wheel with integrated AEM CD-7 dash display (replacing the stock cluster) and Motec PDM15 power distribution module"
+  ]
+}

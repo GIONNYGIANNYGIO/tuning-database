@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "G87 M2 DRIFT PACKAGE",
+  "prestazioni": [
+    "S58B30T0 engine: Full-forged internals by Manley (9.0:1 compression pistons, H-beam connecting rods, billet crankshaft) with a Precision Turbo & Engine PT6766CE turbocharger (67mm inducer, 66mm exducer, 0.82 A/R turbine housing) running 28psi on E85 fuel, paired with a Pierburg CWA 200 high-flow water pump and a CSF Racing S58-specific oil cooler (part #8020)",
+    "Drexler Motorsport limited-slip differential (2.1-way mechanical, 75% lock under power, 40% lock on overrun) with a 3.73:1 final drive ratio (OEM G87 M2 CS ratio) and GKN VL3 heavy-duty CV joints with upgraded boots for sustained angle work",
+    "Custom Motec M150 ECU with a drift-specific calibration by Dynojet Research (launch control set to 6,500 RPM, flat-foot shifting enabled, traction control threshold adjusted to 15% slip for clutch-kick initiation) and a Plex Tuning S-Display Pro for real-time telemetry (G-force, drift angle, and tire temp monitoring)"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (G87-specific, carbon fiber front fenders with 50mm extended wheel arches, rear overfenders with integrated diffuser mounts) paired with a custom 3M Gloss Black wrap and red pinstriping by Vinyl Frog (pattern: 1/16\" stripe, 1/8\" gap)",
+    "OEM BMW M Performance carbon fiber front splitter (part #51172A49107) with added 3D-printed ABS canards (designed in-house, 45-degree angle, 120mm length) and a custom rear diffuser by APR Performance (G87-specific, 3-piece carbon fiber, 3\" exit tunnels for exhaust scavenging)",
+    "BC Racing BR-R coilovers (G87-specific, 30-way adjustable damping, 50mm front/45mm rear ride height drop) with custom powder-coated red springs (Swift Springs 12K front/10K rear) and OMP Racing carbon fiber strut braces (front: part #RSK010CF, rear: part #RSK011CF)"
+  ]
+}

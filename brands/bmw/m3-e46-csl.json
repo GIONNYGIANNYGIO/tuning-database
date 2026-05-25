@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "M3 E46 CSL",
+  "prestazioni": [
+    "Engine: S54B32HP (3.2L I6, 360hp stock) – Full forged internals with Mahle Motorsport pistons (87.5mm bore, 11.5:1 CR), Pauter billet steel connecting rods, and a custom billet crankshaft by JE Pistons for 9,000 RPM reliability. Paired with a Schrick 288/280 camshaft set (intake/exhaust) and titanium retainers from Supertech Performance for reduced valvetrain mass.",
+    "Forced Induction: Single-turbo setup using a Garrett GTX4202R Gen II turbocharger (0.82 A/R turbine housing) with a custom Precision Turbo & Engine wastegate (44mm, 3-port) and a Tial MV-R 50mm external wastegate. Intercooled via a custom air-to-water setup with a PWR radiator and Bosch 044 fuel pump supporting 600whp on E85. Engine management via a Syvecs S8 ECU with flex-fuel capability and individual cylinder knock control.",
+    "Drivetrain: OS Giken Super Lock LSD (2.2-way) with 40% preload, paired with a Spec Stage 4+ twin-disc clutch (240mm) and a lightweight aluminum flywheel. Driveshaft upgraded to a 3.5-inch carbon fiber unit by The Driveshaft Shop, and rear subframe reinforced with a Wavetrac differential brace and polyurethane subframe bushings from Vibratechnics."
+  ],
+  "estetica": [
+    "Aero: Full carbon fiber body kit by AC Schnitzer (CSL-specific front splitter, side skirts, and rear diffuser) with a custom 1,200mm wide rear wing by Vorsteiner (adjustable carbon fiber, 3D-printed mounts). Front bumper modified with a custom 3D-printed ducting system for brake cooling, integrating a 40mm lower lip from a BMW E46 M3 GTR replica.",
+    "Wheels: BBS LM-R II (19x9.5 ET22 front, 19x10.5 ET20 rear) in gold finish, wrapped in Michelin Pilot Sport Cup 2 R tires (265/35/19 front, 295/30/19 rear). Custom center-lock adapters by HRE Performance Wheels with titanium hardware and a quick-release system for track use.",
+    "Interior: Full carbon fiber weave by Status Gruppe (door cards, center console, and dashboard trim) with a stripped-out rear cabin (no rear seats, replaced with a custom roll cage by Safety Devices UK, FIA-spec with 6-point harness bar). Steering wheel replaced with a MOMO Prototipo CSL (350mm, suede) and digital dash via an AIM MXS Strada 1.2 with GPS lap timer and OBD-II integration."
+  ]
+}
