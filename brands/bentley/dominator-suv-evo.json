@@ -1,0 +1,15 @@
+{
+  "brand": "BENTLEY",
+  "model": "DOMINATOR SUV EVO",
+  "prestazioni": [
+    "6.0L twin-turbocharged W12 engine (code: L410E) upgraded with a bespoke Rotrex C38-91 supercharger kit, increasing boost to 1.2 bar (17.4 psi) and paired with a custom-forged crankshaft by Manley Performance (92mm stroke) for a displacement bump to 6.2L, pushing 850 HP and 950 Nm of torque at 6,200 RPM",
+    "Full titanium exhaust system by Akrapović with 3.5-inch diameter piping, quad 100mm carbon-fiber tips, and a valved bypass for track use, reducing backpressure by 40% and saving 18 kg over the OEM system",
+    "Bilstein B16 PSS10 coilovers with 30-way adjustable damping, custom-valved for the Dominator’s 2,600 kg curb weight, paired with Eibach Pro-Kit springs (25% stiffer than OEM) and a custom-fabricated front strut tower brace by Cusco (Type-RS) to eliminate chassis flex under lateral loads exceeding 1.2G",
+    "Garrett GTX5533R turbochargers (88mm compressor wheels) with billet aluminum compressor housings, upgraded to 3D-printed Inconel turbine wheels, and mated to a custom intercooler by PWR (1,200 HP-rated) with a 4.5L water-methanol injection system by Snow Performance (Stage 3 kit) to maintain intake temps below 40°C at full boost"
+  ],
+  "estetica": [
+    "Full carbon-fiber widebody conversion by Liberty Walk (LB-WORKS Dominator-specific kit), extending fenders by 80mm at the front and 100mm at the rear, with integrated air vents for brake cooling and a custom front splitter with active aero (adjustable via Bentley’s Dynamic Ride system)",
+    "Custom 22-inch forged aluminum wheels by HRE (FF16 model) in a 10.5x22 ET25 front and 12.5x22 ET30 rear configuration, wrapped in Michelin Pilot Sport Cup 2 R tires (285/35R22 front, 325/30R22 rear) with a bespoke compound for 1,200 kg load capacity per corner",
+    "Full interior rewrap in Alcantara (Autostyle Milano) with diamond-stitching, including door cards, headliner, and custom Recaro Sportster CS seats (carbon-fiber shells, 6-point harnesses) upholstered in Bentley’s signature Beluga leather with red contrast stitching, paired with a roll cage by Safety Devices (FIA-approved, bolt-in design)"
+  ]
+}

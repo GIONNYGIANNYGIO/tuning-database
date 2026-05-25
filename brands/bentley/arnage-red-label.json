@@ -1,0 +1,14 @@
+{
+  "brand": "BENTLEY",
+  "model": "ARNAGE RED LABEL",
+  "prestazioni": [
+    "Upgrade to a bespoke twin-turbo system utilizing Garrett GT35R turbos (62mm compressor, 76mm turbine) with billet compressor wheels, specifically calibrated for the 6.75L BMW M62-derived V8 (engine code: BMW N62B67, Bentley designation: L410). This setup targets 650hp at 5,500 RPM and 850Nm of torque at 3,500 RPM, with a custom 3.5-inch stainless steel downpipe and GReddy Profec B Spec II boost controller for precise wastegate management.",
+    "Installation of a fully forged internals package by Mahle Motorsport, including forged 2618 aluminum pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft with a 94mm stroke. Pair this with a custom dry-sump oil system by Peterson Fluid Systems (4-stage pump, 12-quart reservoir) to eliminate oil starvation under lateral G-forces.",
+    "ECU reflash via a standalone Motec M150 ECU with a custom calibration by Dyno Dynamics UK, integrating a dual Bosch Motorsport 0280158002 wideband lambda controller, a 60-2 crank trigger wheel, and a bespoke traction control system utilizing Continental ABS sensors. The tune includes a 3-stage launch control (2,500 RPM, 3,500 RPM, 4,500 RPM) and a flat-shift algorithm for seamless gear changes via a Quaife ATB differential (35% lockup under load)."
+  ],
+  "estetica": [
+    "Full carbon fiber widebody conversion using a custom Rocket Bunny PN-Performance kit (Arnage-specific, not the Continental GT variant), featuring extended front fenders (30mm per side), rear quarter panels (45mm per side), and a vented hood with a functional NACA duct feeding the GT35R turbos. The kit includes a 3-piece front splitter with adjustable dive planes and a rear diffuser with integrated exhaust cutouts for the custom 4.5-inch titanium exhaust by Akrapović.",
+    "Suspension overhaul with a full Ohlins Road & Track coilover system (Bentley Arnage-specific valving, 24-way adjustable compression, 24-way rebound), paired with Eibach ERS 1400N/mm front and 1600N/mm rear springs. The setup includes custom top mounts by SuperPro (polyurethane bushings) and a front strut tower brace by Cusco (Type RS, 3-point design) to reduce chassis flex under hard cornering.",
+    "Wheel and brake upgrade: Front 20x10.5 ET25 and rear 21x12.5 ET35 forged monoblock wheels by BBS (FI-R, 3-piece construction, 5x112 PCD) wrapped in Michelin Pilot Sport Cup 2 tires (275/30 R20 front, 325/25 R21 rear). Brake system features a full AP Racing 6-piston caliper kit (Radial Mount, 400mm front rotors, 380mm rear) with Ferodo DS3000 pads and a custom stainless steel brake line kit by Goodridge (PTFE-lined, -3AN fittings)."
+  ]
+}

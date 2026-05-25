@@ -1,0 +1,14 @@
+{
+  "brand": "BENTLEY",
+  "model": "EXP 15 EV CONCEPT",
+  "prestazioni": [
+    "Replacement of the stock dual-motor electric powertrain (engine code: **EVM-800**) with a **Rimac-designed quad-motor system (EVM-1200X)**, delivering 1,200 kW (1,609 hp) and 2,500 Nm of torque, paired with a **McLaren Applied 800V silicon carbide inverter** for 30% faster response times and 98% efficiency",
+    "Installation of a **Williams Advanced Engineering ultra-high-density 120 kWh graphene-enhanced battery pack** with **liquid-cooled thermal management (3M Novec 7100 dielectric fluid)** and **direct cell-to-chassis integration** for a 20% weight reduction while increasing energy density to 400 Wh/kg",
+    "Integration of a **Bosch VCU (Vehicle Control Unit) with AI-driven torque vectoring (NVIDIA DRIVE Orin SoC)** and **Magnetic Ride Control 4.0 adaptive dampers (BWI Group)** recalibrated for 0-100 km/h in 1.9s via **preemptive launch control with predictive wheel slip mitigation**"
+  ],
+  "estetica": [
+    "Full **Bentley x KWSP (Kinetic Wing & Spoiler Program) carbon-fiber aero package**, including a **3D-printed titanium active rear wing (adjustable 0-25° angle)** with **electroactive polymer skin for dynamic camber adjustment** and **NACA duct-integrated side skirts** for 40% drag reduction at 250 km/h",
+    "Replacement of the stock **aluminum-spaceframe chassis** with a **Toray T1100G carbon-fiber monocoque (Bentley x Multimatic collaboration)**, featuring **gold-infused graphene weave for 35% higher torsional rigidity** and **3D-printed titanium subframes** for a 180 kg weight saving",
+    "Custom **Bentley x Anteros Luxury Metals bespoke exterior**, including **electroformed copper-nickel alloy wheel centers (22\" front, 23\" rear)** with **Michelin Pilot Sport EV tires (285/30 R22, 345/25 R23)** and **laser-etched Bentley winged-B logos**, paired with **electrochromic glass (View Inc.)** that shifts from opaque to transparent in 0.1s for adaptive privacy"
+  ]
+}

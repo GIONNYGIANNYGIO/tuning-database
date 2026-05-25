@@ -1,0 +1,14 @@
+{
+  "brand": "BYD",
+  "model": "HAN EV",
+  "prestazioni": [
+    "Upgrade to a **BYD TZ220XFY (Han EV's dual-motor front/rear permanent magnet synchronous) powertrain** with a **Vitesco Technologies EMIC (Electric Motor Integrated Controller)** reflash via **HP Tuners EV Pro** to unlock an additional 120 kW (160 hp) per motor, targeting 550 kW (738 hp) total output with a 0-100 km/h time of 2.9 seconds (stock: 3.9s).",
+    "Install a **Marelli M470 800V SiC (Silicon Carbide) inverter** with **AP Racing CP9666-1000 4-piston calipers** and **Dixcel SD Type-Rotor 380mm front/356mm rear brake discs** to handle the increased power and reduce 100-0 km/h braking distance to 32 meters (stock: 38m).",
+    "Replace the stock **BYD Blade Battery (LFP chemistry, 76.9 kWh)** with a **CATL Qilin CTP 3.0 (100 kWh, 800V architecture)** paired with a **Webasto PLUG-IN 150 kW DC fast-charging module** to achieve 10-80% charge in 12 minutes and extend WLTP range to 850 km (stock: 605 km)."
+  ],
+  "estetica": [
+    "Fit a **Liberty Walk LB-WORKS Han EV widebody kit** with **custom carbon fiber overfenders (25mm wider front, 30mm wider rear)** and **Vorsteiner V-FF 107 22-inch forged wheels (275/30 front, 315/25 rear)** wrapped in **Michelin Pilot Sport Cup 2 R tires**.",
+    "Install a **Seibon Carbon Han EV front splitter, rear diffuser, and GT-style rear wing** with **active Gurney flaps (adjustable via a MoTeC C125 dash)** to generate 120 kg of downforce at 200 km/h (stock: 15 kg).",
+    "Replace all exterior lighting with **Osram LEDriving XENARC 85V 10,000-lumen headlights**, **Luxxen OLED taillights (custom sequential turn signals)**, and **DRLs integrated into the carbon fiber side skirts (powered by a Kicker IQ1000.5 amplifier for pulsing effects synced to music)**."
+  ]
+}

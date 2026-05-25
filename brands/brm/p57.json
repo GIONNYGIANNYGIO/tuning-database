@@ -1,0 +1,14 @@
+{
+  "brand": "BRM",
+  "model": "P57",
+  "prestazioni": [
+    "Replace the original 2.5L Coventry Climax FPF I4 (engine code: FPF 2.5) with a fully built 3.0L version featuring forged Mahle pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from Cosworth, paired with a bespoke dry-sump lubrication system by Peterson Fluid Systems to handle sustained 9,500 RPM operation",
+    "Install a custom-designed fuel system incorporating dual Bosch Motorsport 044 high-flow fuel pumps, 1,000cc ID1000 injectors, and a Motec M150 ECU with a P57-specific calibration map for methanol-water injection (50/50 mix) via a Snow Performance Stage 3 Boost Cooler kit, enabling 450+ HP on Avgas 100LL",
+    "Upgrade the original 5-speed transaxle to a Hewland DG300 sequential gearbox with a Quaife ATB differential, reinforced half-shafts from GKN Driveline, and a Tilton triple-plate carbon clutch, all mated to a custom bellhousing adapter plate machined from 7075-T6 aluminum by HPC Gears"
+  ],
+  "estetica": [
+    "Fabricate a full-width front splitter and rear diffuser from 3K twill carbon fiber by C-West Japan, designed using CFD analysis to generate 300 lbs of downforce at 150 mph while maintaining the P57’s iconic low-nose profile",
+    "Replace the original aluminum body panels with ultra-lightweight 0.8mm 5052-H32 aluminum alloy skins, hand-formed by Panelcraft UK, featuring a brushed satin finish and riveted construction with flush Dzus fasteners, reducing weight by 18% while preserving the car’s 1962 Monaco GP-winning silhouette",
+    "Install a custom roll cage designed by Safety Devices Ltd., constructed from T45 steel tubing with integrated mounting points for a Schroth 6-point harness and a MOMO Prototipo steering wheel on a NRG quick-release hub, finished in a matte black powder coat with gold BRM pinstriping to match the original livery"
+  ]
+}

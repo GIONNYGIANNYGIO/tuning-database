@@ -1,0 +1,14 @@
+{
+  "brand": "BENTLEY",
+  "model": "EXP 10 SPEED 6 CONCEPT EVO",
+  "prestazioni": [
+    "Engine: 4.0L twin-turbocharged V8 (engine code: **CREWE-6.0TT-V8**, derived from the MSB platform but heavily modified for the EXP 10) – upgraded with **Garrett GTX5533R Gen II turbos** (1.3 bar boost, billet compressor wheels, 76mm inducer) paired with **Tial MV-R 44mm external wastegates** and **Precision Turbo & Engine 1000cc/min fuel injectors** for a target of 850whp on E85.",
+    "Drivetrain: **ZF 8HP95X 8-speed transmission** reinforced with a **Penske Racing dual-disc carbon clutch** (300mm diameter) and **Quaife ATB helical LSD** (85% lockup) for the rear axle, mated to a **GKN Driveline torque-vectoring eAWD system** with 1,200Nm torque split capability.",
+    "Suspension/Chassis: **Öhlins TTX46 MkII coilovers** (3-way adjustable, 200mm travel) with **Bentley-specific spherical bearing top mounts** (custom-machined by **D2 Racing**) and **Eibach ERS race springs** (400lb/in front, 500lb/in rear). Chassis stiffening via **T45 steel roll cage** (FIA-spec, integrated with **Sparco Pro 2000 seats** and **Schroth 6-point harnesses**) and **carbon-fiber torque box reinforcement plates** (hand-laid by **RML Group**)."
+  ],
+  "estetica": [
+    "Aerodynamics: **RML Group carbon-fiber aero package** (EXP 10-specific) including a **dual-element active rear wing** (hydraulic actuation, 30° attack angle) with **Gurney flaps**, **front splitter with integrated canards** (3D-printed titanium, tested in CFD for 200kg downforce at 200km/h), and **underbody diffuser** (venturi tunnels, **Vortex Generators** for boundary layer control).",
+    "Bodywork: **Full carbon-fiber body panels** (pre-preg autoclave, **Hexcel HexPly M21** resin) with **Bentley ‘Flying B’ active grille shutters** (electrochromic glass, opacity adjustable via **McLaren P1-style rotary dial**). **Rocket Bunny-style widebody fenders** (hand-beaten aluminum, **30mm wider front, 50mm wider rear**) with **custom LED headlights** (Osram Ostar Projection modules, **Adaptive Matrix Beam** with 1,000m range).",
+    "Wheels/Stance: **Forgeline GA5R 20x10.5” (front) / 21x12.5” (rear) wheels** (custom offset, **ET25 front / ET15 rear**, **1,800g per wheel**) wrapped in **Pirelli P Zero Trofeo R tires** (275/30 R20 front, 325/25 R21 rear). **AirREX RS Series air suspension** (hidden in trunk, **3-way damping control**) for static drop (-50mm from stock) or track-height adjustment."
+  ]
+}

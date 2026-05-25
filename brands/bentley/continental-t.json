@@ -1,0 +1,14 @@
+{
+  "brand": "BENTLEY",
+  "model": "CONTINENTAL T",
+  "prestazioni": [
+    "Engine: 6.75L (6750cc) Rolls-Royce/Bentley L-series V8 (engine code: L410) with forged internals upgrade via Mahle Motorsport pistons (9.5:1 compression) and Carrillo H-beam connecting rods, paired with a custom billet crankshaft by Bryant Racing for 8,000 RPM redline capability.",
+    "Forced Induction: Twin Precision Turbo PT6266 CEA ball-bearing turbos (62mm inducer, 66mm exducer) with custom Inconel turbine housings (0.82 A/R) and TiAL MV-R 44mm wastegates, feeding a custom air-to-water intercooler system by PWR with dual 1,000cc/min Bosch 044 fuel pumps and ID1700x injectors for 850+ HP on E85.",
+    "Drivetrain: Quaife ATB differential with 3.73:1 final drive ratio, paired with a Tilton triple-plate carbon clutch and a reinforced ZF 6HP28A transmission with a Peloquin LSD and a custom valve body tune by Level 10 Motorsports for 150ms shifts."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion by Liberty Walk (LB-WORKS Bentley Continental GT kit, modified for the T's shorter wheelbase) with custom front splitter, rear diffuser, and side skirts in dry carbon, including a functional hood scoop for intercooler ducting.",
+    "Wheels: HRE FF01 forged wheels in 21x10.5 (front) and 21x12.5 (rear) with custom offsets (-15mm front, -30mm rear) and Michelin Pilot Sport Cup 2 tires (275/30 R21 front, 325/25 R21 rear), paired with AP Racing 6-piston front and 4-piston rear calipers with 400mm rotors.",
+    "Interior: Full Alcantara retrim by Royal Steering Wheels with a custom MOMO Prototipo flat-bottom steering wheel, Recaro Pole Position seats (carbon shell, Alcantara/leather), and a bespoke Motec C127 dash display integrated into the original gauge cluster housing."
+  ]
+}

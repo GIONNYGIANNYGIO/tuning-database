@@ -1,0 +1,14 @@
+{
+  "brand": "BENTLEY",
+  "model": "CONTINENTAL R",
+  "prestazioni": [
+    "Engine: 6.75L Rolls-Royce L410 V8 (naturally aspirated, 325-400hp stock) – Full forged internals upgrade with Mahle Motorsport forged pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from Bryant Racing. Custom camshafts by Schrick (280° duration, 12mm lift) with titanium retainers and upgraded valve springs from Ferrea Racing Components.",
+    "Forced induction: Twin Precision Turbo PT6266 CEA turbochargers (62mm inducer, 66mm exducer) with custom Garrett GTX-series wastegates and Tial MV-R 50mm blow-off valves. Custom intercooler setup by Bell Intercoolers (front-mount, 4.5\" core thickness, 1000hp-rated) with Vibrant Performance silicone couplers and AEM 3.5bar MAP sensors.",
+    "Fuel system: Full return-style fuel system with dual Walbro 450LPH in-tank pumps, Injector Dynamics ID2000 fuel injectors (2000cc/min), and a Radium Engineering fuel pressure regulator. Custom ECU tuning via Motec M150 standalone ECU with flex-fuel capability and Bosch Motorsport 0242520001 wideband O2 sensors."
+  ],
+  "estetica": [
+    "Widebody conversion: Custom handcrafted aluminum widebody kit by Zagato (Milan, Italy), extending fenders by 3.5\" per side with integrated carbon fiber side skirts and a bespoke rear diffuser by Novitec (Germany).",
+    "Wheels: Forged 22x10.5\" front and 22x12.5\" rear wheels by HRE Performance Wheels (FF16 model, 3-piece construction, 5x120 PCD) with Michelin Pilot Sport Cup 2 tires (275/30 R22 front, 315/25 R22 rear).",
+    "Aerodynamics: Custom carbon fiber front splitter by Vorsteiner (Bentley-specific design, 3D-scanned for OEM fitment) with integrated canards. Rear wing: Custom 1-piece carbon fiber GT-style wing by Liberty Walk (Japan), adjustable angle (0-15°), mounted on billet aluminum pedestals with hidden LED brake light integration."
+  ]
+}

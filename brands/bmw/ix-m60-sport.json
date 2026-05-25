@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "iX M60 Sport",
+  "prestazioni": [
+    "Hybrid powertrain recalibration targeting the **BMW B58-derived dual electric motors (front: 258 kW / 350 PS, rear: 385 kW / 523 PS)** via **HP Tuners iX-specific ECU/VCU flash**, optimizing torque vectoring for a 0-60 mph time of 2.9s (stock: 3.6s) with launch control refinement and regenerative braking aggression increased to 200 kW (stock: 110 kW).",
+    "Garrett **E-Boost 48V electric supercharger** integrated into the high-voltage system (400V architecture) to eliminate turbo lag in the **e-motor torque curve**, paired with a **PWR Australia 450kW liquid-to-air intercooler** to maintain 60°C intake temps under sustained 500A discharge.",
+    "Full **MCS 3-way adjustable coilover suspension** with **Motorsport-derived carbon-fiber anti-roll bars (22mm front, 19mm rear)** and **Brembo GT 380mm 6-piston front / 380mm 4-piston rear brake kit** with **Ferodo DS2500 pads** for 1.0g+ deceleration, replacing the stock i4-derived calipers."
+  ],
+  "estetica": [
+    "**Rocket Bunny V3 widebody kit** with **carbon-fiber fenders (30mm wider front, 40mm wider rear)** and **custom 3D-printed ABS diffuser** to house dual **Akrapovič titanium exhaust outlets** (replacing the stock electric-only system for aural feedback via **BMW M Performance Sound Generator**).",
+    "**Vorsteiner V-Stream carbon-fiber front splitter** with **active Gurney flaps** (linked to the iDrive 8.5 system for adjustable downforce) and **custom LED DRLs** integrated into the **AC Schnitzer Type V grille** (replacing the stock kidney grilles with **laser-cut aluminum mesh**).",
+    "**HRE FF16 flow-formed wheels (22x10.5 ET35 front, 22x12.5 ET40 rear)** wrapped in **Michelin Pilot Sport Cup 2 R tires (275/35 R22 front, 325/30 R22 rear)** with **TPMS sensors recalibrated for 2.2 bar cold pressure**, paired with **OZ Racing titanium wheel bolts** for unsprung weight reduction."
+  ]
+}

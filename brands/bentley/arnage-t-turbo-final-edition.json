@@ -1,0 +1,14 @@
+{
+  "brand": "BENTLEY",
+  "model": "ARNAGE T TURBO FINAL EDITION",
+  "prestazioni": [
+    "Engine: Replace the stock Garrett T25 turbochargers (paired with the 6.75L BMW-derived M62B44TE V8, engine code '6.75T') with a pair of Garrett GTX4202R Gen II turbos, featuring billet compressor wheels, 76mm inducers, and a 106mm exducer for a targeted 1.2 bar boost level, paired with a custom 4-inch stainless steel turbo-back exhaust system by Milltek Sport with 304-grade mandrel-bent piping and dual 120mm titanium-tipped outlets.",
+    "Fuel System: Upgrade the stock Bosch Motronic ME7.1.1 ECU with a standalone Motec M150 ECU, integrating a full flex-fuel sensor and dual high-flow fuel pumps (Walbro 450 LPH) to support E85 blends, alongside a set of 1200cc ID1000 injectors from Injector Dynamics, calibrated for the M62B44TE’s 9.0:1 compression ratio and revised camshaft profiles (272° intake, 280° exhaust) from Schrick.",
+    "Drivetrain & Cooling: Install a Quaife ATB differential in the ZF 5HP30 transmission to handle increased torque (target: 750 lb-ft), paired with a PWR Australia triple-core aluminum radiator and a Davies Craig EWP150 electric water pump to manage the 6.75T’s thermal load under sustained high-boost conditions, while upgrading the intercooler to a custom air-to-water unit by Wagner Tuning with a 5.5L reservoir and dual 120mm fans."
+  ],
+  "estetica": [
+    "Aero: Fit a full carbon fiber widebody conversion kit by Liberty Walk LB-WORKS, designed specifically for the Arnage T’s chassis (LB-ARNAGE-T-FE), including extended front fenders, rear quarter panels, and a ducktail spoiler with integrated third brake light, paired with a custom front splitter by Vorsteiner with adjustable dive planes and a rear diffuser by RW Carbon featuring integrated exhaust cutouts for the Milltek system.",
+    "Wheels & Stance: Mount a set of custom-forged 22x10.5 ET25 (front) and 22x12.5 ET30 (rear) wheels by HRE Performance (model FF16), wrapped in Michelin Pilot Sport Cup 2 R tires (275/30 R22 front, 315/25 R22 rear), with a full air suspension setup by Air Lift Performance (3P management) and custom-valved Bilstein B16 dampers to achieve a 2-inch drop while maintaining ride quality.",
+    "Interior & Exterior Details: Replace the stock wood trim with a full Alcantara-wrapped dashboard and door cards by Bentley specialist Trimworks, featuring contrast red stitching and carbon fiber accents (e.g., center console, gear shifter surround), while adding a custom LED lighting package by Diode Dynamics (switchback turn signals, sequential taillights) and a bespoke matte British Racing Green paint job with hand-painted gold pinstripes by Bodyteq."
+  ]
+}

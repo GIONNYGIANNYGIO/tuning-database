@@ -1,0 +1,14 @@
+{
+  "brand": "BENTLEY",
+  "model": "CONTINENTAL GT3 RACE CAR",
+  "prestazioni": [
+    "Engine: Bentley 4.0L twin-turbo V8 (engine code: **AWRC**) with a bespoke **Motec M150 ECU** remap, optimized for 600+ hp at 7,000 RPM and 650 lb-ft of torque at 5,500 RPM, utilizing **Bosch Motorsport MS5.10 direct injectors** and **Mahle Motorsport forged pistons** with a 12.5:1 compression ratio for endurance racing.",
+    "Forced Induction: **Garrett GT35R turbochargers** (hybrid billet wheels, 62mm compressor, 76mm turbine) with **Tial MV-R 44mm external wastegates** and **PTP Turbo silicone hoses** for sustained boost levels of 2.2 bar (32 psi) under race conditions, paired with a **GReddy intercooler core** (custom 4.5\" thick, 100% aluminum) for intake temps below 40°C at full load.",
+    "Suspension & Chassis: **Öhlins TTX40 4-way adjustable dampers** with **Eibach Motorsport 1,200 lb/in springs** (front) and **1,000 lb/in springs** (rear), **Bentley Motorsport-spec anti-roll bars** (28mm front, 24mm rear), and **Penske Racing adjustable spherical bearing top mounts** for camber/caster tuning. Chassis reinforced with **Bentley GT3-spec FIA-approved roll cage** (T45 steel, 2.5mm wall thickness) and **Sparco carbon fiber racing seats** (FIA 8862-2009 certified)."
+  ],
+  "estetica": [
+    "Aerodynamics: **Bentley Motorsport GT3 aero package** featuring a **carbon fiber front splitter** with **Gurney flap** (adjustable 0-15mm), **fixed rear wing** (3-element, 1,200mm span, **carbon fiber construction**) with **DTM-style swan neck mounts**, and **underbody diffuser** (3-stage, **carbon-Kevlar hybrid**) for -2,200 lbs of downforce at 180 mph.",
+    "Bodywork: **Full carbon fiber body panels** (front fenders, hood, doors, rear quarter panels) from **Bentley Motorsport’s GT3 homologation kit**, including **quick-release carbon fiber doors** (weighing 8.5 kg each) and **polycarbonate side windows** (3mm thick, **Sekurit Motorsport** racing glass). **Aston Martin Racing-style LED rain light** integrated into the rear diffuser.",
+    "Wheels & Brakes: **BBS FI-R 18x13\" (front) and 18x14\" (rear) forged magnesium wheels** (offset +12mm front, +20mm rear) wrapped in **Pirelli P Zero Trofeo R tires** (30/65-18 front, 31/71-18 rear). **AP Racing 6-piston monoblock calipers** (front) with **380mm carbon-ceramic rotors** (CCM-R compound) and **Motul RBF 660 brake fluid** (boiling point 325°C)."
+  ]
+}

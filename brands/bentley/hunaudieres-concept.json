@@ -1,0 +1,14 @@
+{
+  "brand": "BENTLEY",
+  "model": "HUNAUDIERES CONCEPT",
+  "prestazioni": [
+    "Engine: Replace the stock 4.0L V8 (engine code: **VW/Audi 4.0L TFSI EA825**) with a **Mercedes-AMG M178 4.0L V8 (M178 LS2)** from the AMG GT Black Series, featuring a **flat-plane crankshaft conversion** by **Manley Performance**, forged internals from **Mahle Motorsport**, and a **Garrett GTX5533R turbocharger** per bank with **Tial MV-R 60mm wastegates** and **Precision Turbo 7675 intercoolers** for 1,000+ HP on **VP Racing Q16 118-octane fuel**.",
+    "Drivetrain: Install a **Ricardo 7-speed dual-clutch transmission** from the Bentley Continental GT3 race car, reinforced with a **PPG carbon-fiber driveshaft** and a **Wavetrac limited-slip differential** with **Motul Gear 300 75W-140** fluid for 0-60 mph in under 2.5 seconds.",
+    "Suspension/Chassis: Convert to a **Multimatic DSSV coilover system** (as used in the Ford GT LM GTE) with **Eibach ERS springs**, **Brembo GT3-spec 420mm carbon-ceramic rotors** (front) and **380mm rotors (rear)** with **AP Racing CP9666 calipers**, and a **T45 steel roll cage** by **Sparco Pro2000** for FIA GT3 compliance."
+  ],
+  "estetica": [
+    "Aerodynamics: Replace the stock body with a **Liberty Walk LB-WORKS widebody kit** (custom-fabricated for the Hunaudieres' proportions), featuring **carbon-fiber front splitter with active Gurney flaps** (controlled by a **MoTeC ADL3 dash logger**), **fixed rear wing with dual-element DRS (Drag Reduction System)** by **AeroTech Designs**, and **underbody diffuser with vortex generators** by **RML Group**.",
+    "Wheels/Tires: Mount **BBS FI-R 20x12.5 (front) and 21x14 (rear) forged wheels** with **Pirelli P Zero Trofeo R tires (325/25R20 front, 355/20R21 rear)** and **HRE FlowForm center-lock adapters** for a 5mm negative camber setup.",
+    "Interior: Replace the stock cabin with a **Sparco Pro2000 carbon-fiber monocoque seat**, **Schroth 6-point harnesses**, **Alcantara-wrapped MOMO Prototipo steering wheel** with **Motec C127 dash display**, and **custom titanium pedal set** by **AP Racing** with **adjustable brake bias controller**."
+  ]
+}

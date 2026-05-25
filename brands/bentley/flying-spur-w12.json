@@ -1,0 +1,14 @@
+{
+  "brand": "BENTLEY",
+  "model": "FLYING SPUR W12",
+  "prestazioni": [
+    "Engine: 6.0L twin-turbocharged W12 (engine code: **60TFSI**, internal designation **BW12-60-01**), upgraded with a **Garrett GTX5533R** turbocharger kit (hybrid billet wheel, 76mm compressor, 67mm turbine) paired with a **Precision Turbo & Engine 46mm wastegate** for precise boost control at 28 psi peak pressure. Supporting mods include **Mahle Motorsport forged pistons** (9.5:1 compression) and **Manley Performance H-beam connecting rods** with ARP L19 bolts for 1,200+ HP reliability.",
+    "Fuel System: **Bosch Motorsport 1,200cc/min port injectors** (PN: 0 280 158 123) combined with a **Fuelab Prodigy V2** dual-pump setup (2x **AEM 50-1200** in-tank pumps) and a **Radium Engineering dual catch-can system** (PN: 20-0118) to manage crankcase pressure under extreme boost. **Motec M150 ECU** with custom W12-specific firmware for real-time lambda and knock control.",
+    "Drivetrain: **ZF 8HP95X** 8-speed transmission reinforced with a **Sonnax billet valve body** (PN: 84820-15K) and **FTI Engineering 300M steel driveshaft** to handle 1,000+ lb-ft of torque. **Wavetrac LSD** (custom 40% lock) in the **Bentley rear differential** (part no. **3W41-4021-AA**) with **Red Line 75W-140** synthetic gear oil for thermal stability."
+  ],
+  "estetica": [
+    "**Vorsteiner V-FF107** carbon fiber widebody kit (front fenders + rear quarter panels, +50mm per side) with **custom 3M Matte Satin Silver (10077) wrap** and **Rocket Bunny-style extended rocker panels** in raw carbon fiber. **OEM Bentley Flying B grille** replaced with a **Novitec Torado-style laser-cut stainless steel mesh** (black powder-coated) for aggressive airflow.",
+    "**HRE FF01** 22x10.5 ET35 (front) and 22x12.5 ET40 (rear) forged wheels with **Michelin Pilot Sport Cup 2 R** tires (285/30R22 front, 325/25R22 rear). **AP Racing BBK** (6-piston front, 4-piston rear) with **Brembo GT 380mm rotors** (drill-pattern matched to HRE wheels) and **Ferodo DS2500** pads for track use.",
+    "**LuxuryTuning** custom interior: **Recaro Pole Position** carbon-Kevlar seats (Bentley-specific mounting brackets) with **Schroth 6-point harnesses**, **Momo Prototipo** steering wheel (380mm, Alcantara with Bentley Flying B stitching), and **Alcantara headliner** (color-matched to **Bentley Beluga** with **contrast red stitching**). **Rolls-Royce Phantom-style rear privacy glass** (tinted to 35%) with **electrochromic dimming** for track-day stealth."
+  ]
+}

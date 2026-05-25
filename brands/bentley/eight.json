@@ -1,0 +1,14 @@
+{
+  "brand": "BENTLEY",
+  "model": "EIGHT",
+  "prestazioni": [
+    "Engine: 6.75L Rolls-Royce L410 V8 (engine code: L410) with forged internals upgrade including Mahle Motorsport forged pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a steel billet crankshaft from Bryant Racing to handle 800+ hp reliably. Pair with a custom billet aluminum dry-sump oil system by Peterson Fluid Systems (4-stage) to prevent oil starvation under lateral G-forces.",
+    "Forced Induction: Twin Precision Turbochargers PT6266 CEA ball-bearing turbos (62mm inducer, 66mm exducer) with custom Tial MV-R 44mm wastegates and a TiAL Sport 50mm blow-off valve. Intercooling via a custom air-to-water setup featuring a PWR radiator and Bosch Motorsport water pump, plumbed with -10AN Earl’s Performance AN fittings and silicone hoses from Vibrant Performance.",
+    "Fuel & Ignition: Full sequential fuel system with 12x ID1000cc injectors (side-feed, EV14 style) and a Radium Engineering dual fuel pump hanger (for dual Bosch Motorsport 044 pumps). Ignition system upgraded to a Motec M150 ECU with individual coil-on-plug conversion using LS7-style coils from Delphi, controlled via a custom harness by Haltech. Exhaust system features a custom 3.5\" stainless steel header-back setup by Milltek Sport with 200-cell catalytic converters and a valved X-pipe for backpressure optimization."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion using the Wald International \"Bentley Eight GT\" kit, including extended front fenders (2.5\" wider), rear quarter panels (3\" wider), and a custom carbon fiber front splitter with integrated air curtains by Vorsteiner. Rear diffuser by Prior Design with integrated twin exhaust outlets (3.5\" diameter) and a carbon fiber rear spoiler (adjustable angle via electric actuators).",
+    "Wheels & Suspension: Custom 22x10.5\" (front) and 22x12.5\" (rear) forged aluminum wheels by HRE (FF16 model) with a 5x120 bolt pattern, shod in Michelin Pilot Sport Cup 2 R tires (285/30 front, 325/25 rear). Suspension features a full air ride setup by Air Lift Performance (3P management) with custom valving for the Bentley chassis, paired with Ohlins TTX40 coilovers (for track use) and polyurethane bushings from SuperPro (part #SPF2000K) for subframe reinforcement.",
+    "Interior: Full Alcantara retrim by Royal Steering Wheels, including dashboard, door cards, and headliner. Custom bucket seats by Recaro (CS-Evo II) with Schroth 6-point harnesses and a bolt-in roll cage by Custom Cages (T45 steel, 4-point with harness bar). Digital dash upgrade to a Motec C127 display with integrated lap timer and boost gauge, paired with a custom center console housing a Haltech CAN keypad for on-the-fly tuning adjustments."
+  ]
+}

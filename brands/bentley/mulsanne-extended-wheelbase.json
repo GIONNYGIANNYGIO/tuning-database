@@ -1,0 +1,14 @@
+{
+  "brand": "BENTLEY",
+  "model": "MULSANNE EXTENDED WHEELBASE",
+  "prestazioni": [
+    "Engine: 6.75L V8 (L410, twin-turbo, 530 HP stock) – Replace stock turbos with **Garrett GTX5533R Gen II** billet wheel turbos (1.15 A/R, 88mm compressor, 76mm turbine) paired with **Turbosmart Race Port 45mm wastegates** and **Precision Turbo 1000cc/min fuel injectors** for 850 HP on 98 RON fuel with **Motec M150 ECU** standalone management (OEM CAN integration retained for Bentley-specific diagnostics).",
+    "Drivetrain: **ZF 8HP90 8-speed transmission** reinforced with **Sonnax Smart-Tech valve body** and **FTI Engineering billet torque converter** (3,800 RPM stall, 10% higher torque capacity) mated to a **Quaife ATB helical LSD** in the **Bentley-specific rear differential (ZF 5DS25-2)** with **AP Racing CP9660 carbon-ceramic brakes** (420mm front, 395mm rear) and **Pagid RS29 racing pads**.",
+    "Suspension: **KW Automotive Clubsport 3-way coilovers** (Bentley Mulsanne EWB-specific valving) with **Eibach ERS 1400N/mm helper springs**, **SuperPro polyurethane bushings** (front control arms, subframe mounts), and **H&R 25mm front / 20mm rear anti-roll bars** to reduce body roll by 40% while retaining air suspension compatibility via **Air Lift Performance 3P management** (OEM ride height sensors retained)."
+  ],
+  "estetica": [
+    "Aero: **Vorsteiner Mulsanne EWB carbon fiber widebody kit** (custom-fabricated for extended wheelbase, +120mm rear fenders) with **Rocket Bunny-style overfenders** (hand-laid carbon, 3K twill weave) and **Aeromotions active rear wing** (3-stage adjustability, 150kg downforce at 200 km/h) in **Bentley Satin Grey paint-matched finish**.",
+    "Wheels: **Rotiform LAS-R 22x10.5 ET45 front / 22x12.5 ET50 rear** (custom offsets for EWB) with **Pirelli P Zero Trofeo R** (285/30R22 front, 325/25R22 rear) and **HRE FlowForm FF03** center-lock adapters (OEM Bentley wheel bolts retained for security).",
+    "Interior: **Recaro Pole Position CS-II seats** (Bentley-specific mounting brackets, Alcantara/leather with **Schroth Profi II 6-point harnesses**) paired with **MOMO Mod.78 steering wheel** (quick-release hub, Alcantara with **Bentley embroidered logo**) and **Alcantara headliner** (OEM stitching pattern preserved) with **Rolls-Royce Phantom-style starlight LED fiber optics** (1,500 points, customizable RGB via **LuxuryTuning control module**)."
+  ]
+}

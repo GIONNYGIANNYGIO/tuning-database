@@ -1,0 +1,14 @@
+{
+  "brand": "BENTLEY",
+  "model": "MULSANNE GRAND LIMOUSINE",
+  "prestazioni": [
+    "Engine: 6.75L V8 (L410, twin-turbo, 530 HP stock) – Full forged internals upgrade with Mahle Motorsport 9.5:1 compression pistons, Carrillo H-beam connecting rods, and a billet crankshaft from Manley Performance to handle 850 HP on 93-octane fuel. Turbocharger swap to twin Garrett GTX5533R Gen II turbos with TiAL MV-R 60mm wastegates and custom 4-inch stainless steel downpipes by Armytrix for reduced backpressure.",
+    "Fuel System: Upgraded to a dual-pump setup with two Bosch Motorsport 044 high-flow fuel pumps, Injector Dynamics ID2000x injectors, and a Radium Engineering fuel pressure regulator. Custom fuel rail by AEM Electronics with an additional port for direct nitrous oxide injection (NOS 5581 kit) for 100-shot bursts during overtakes.",
+    "Drivetrain & Suspension: ZF 8HP95 transmission reinforced with a Level 10 torque converter and a custom valve body tune by Eurocharged for 200ms shifts. Air Lift Performance 3P management with custom valving for the Grand Limousine’s extended wheelbase, paired with KW Variant 7 coilovers (adjustable compression/rebound) and polyurethane bushings from SuperPro for chassis rigidity. Rear limited-slip differential from Quaife with a 3.73:1 gear ratio for improved acceleration."
+  ],
+  "estetica": [
+    "Exterior: Full custom widebody conversion by Liberty Walk (LB Works Mulsanne kit), extended 4 inches per side to accommodate 22-inch HRE FF16 wheels with a 10.5-inch front and 12.5-inch rear staggered fitment. Custom carbon fiber front splitter by Vorsteiner with integrated LED turn signals, and a rear diffuser by Novitec with active aero flaps controlled by a Bosch Motorsport ECU for drag reduction at speed.",
+    "Interior: Full reupholstery in Bridge of Weir leather with diamond-stitched Alcantara headliner, custom rear lounge with a 48-inch Samsung The Frame TV and a Bang & Olufsen Beosound Stage sound system (11.4-channel, 2,200W). Front seats replaced with Recaro Pole Position seats wrapped in Nappa leather, and a custom carbon fiber dashboard overlay by V Carbon with a 12.3-inch digital gauge cluster by Motec (C127) displaying boost, AFR, and G-forces.",
+    "Lighting: Full OEM+ LED conversion with LUX H8 V4 bulbs for the headlights, custom sequential taillights by Diode Dynamics, and underbody RGB lighting by Oracle Lighting with a custom Bentley-themed color cycle controlled via a smartphone app."
+  ]
+}

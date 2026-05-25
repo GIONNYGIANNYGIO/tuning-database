@@ -1,0 +1,14 @@
+{
+  "brand": "BENTLEY",
+  "model": "CONTINENTAL SUPERSPORTS ISR",
+  "prestazioni": [
+    "Upgrade to a **Garrett GTX4202R turbocharger** (hybrid billet wheel) paired with a **Precision Turbo 46mm wastegate** for the **6.0L twin-turbo W12 (L485)** engine, targeting 850whp on **Shell V-Power 102 RON** with a **Motec M150 ECU** managing a **custom 2-bar MAP sensor** and **Bosch Motorsport 2000cc injectors** for precise fueling at 28psi boost.",
+    "Install a **Wagner Tuning Competition intercooler** (800hp-rated core) with **custom 3.5-inch silicone charge pipes** (Samco Sport) and **Tial Q 50mm BOV** to eliminate heat soak and reduce intake temps by 40°C under sustained WOT conditions, critical for the ISR’s track-focused power delivery.",
+    "Replace the factory **ZF 8HP90X** transmission with a **Porsche PDK 918 Spyder-spec gearbox** (modified by **RUF Automobile**) paired with a **Tilton triple-disc carbon clutch** and **Penske 8760 adjustable dampers** to handle the increased torque (950Nm) while reducing shift times to 120ms via **Alientech KESS3 ECU flashing** for paddle-shift optimization."
+  ],
+  "estetica": [
+    "**Rocket Bunny V3 widebody kit** (carbon fiber, Bentley-specific) with **custom 50mm extended wheel arches** to accommodate **21x12.5 ET25 front / 21x13.5 ET15 rear** **BBS LM-R II** wheels (gold finish) wrapped in **Michelin Pilot Sport Cup 2 R** (295/30 front, 325/30 rear) for aggressive stance and track-ready grip.",
+    "**Vorsteiner VRT-900 carbon fiber front splitter** (ISR-specific) with **integrated Gurney flap** and **custom 3D-printed titanium underbody diffusers** (designed by **Liberty Walk**) to generate 120kg of downforce at 200km/h, paired with a **fixed carbon fiber rear wing** (inspired by the **Bentley GT3 race car**) with **adjustable angle of attack (0-15 degrees)** via **Aeroflow hydraulic actuators**.",
+    "**LuxuryTec full LED headlight retrofit** (D1S 8000K bulbs) with **Osram Night Breaker Laser** high beams and **custom CNC-machined titanium laser-cut grilles** (replacing the factory mesh) to reduce weight by 4.2kg while maintaining the ISR’s aggressive front fascia, complemented by **Akrapović titanium exhaust tips** (polished, 120mm diameter) for a signature W12 soundtrack."
+  ]
+}

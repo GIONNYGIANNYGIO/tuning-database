@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "X5M COMPETITION",
+  "prestazioni": [
+    "Engine: S63B44T4 (4.4L V8 Twin-Turbo) – Full bolt-on turbo upgrade with Garrett GTX5533R Gen II turbos (1.32 A/R, 67mm inducer) paired with a custom 4-inch titanium downpipe system by Eisenmann Performance, featuring 304 stainless steel internals and CNC-machined V-band clamps for optimized exhaust flow and reduced backpressure.",
+    "Fuel System: Complete port injection conversion using 12x Injector Dynamics ID1700x injectors (side-feed, 1700cc/min) with a Radium Engineering dual-pump fuel surge tank (2x Walbro 450 LPH pumps) and a custom fuel rail by Spool Performance, designed for the S63’s direct-injection system to support 900+ WHP on E85.",
+    "Drivetrain & Handling: Full M Performance carbon fiber driveshaft with a 3.5-inch diameter and a 1,000 HP-rated differential (G-Power G-Sport LSD with 45% lockup under load), paired with an Ohlins Road & Track coilover kit (TTX46M dampers, 12-position rebound, 24-position compression, and adjustable camber plates) and a set of H&R 20mm front / 25mm rear anti-roll bars with spherical bearings for reduced deflection."
+  ],
+  "estetica": [
+    "Aero: Full Rocket Bunny V3 widebody kit (carbon fiber fenders, front bumper, and rear diffuser) with a custom 3D-printed ABS rear wing (2.2m span, 30mm adjustable Gurney flap) designed in collaboration with Vorsteiner for 200+ lbs of downforce at 120 mph, finished in BMW Individual Frozen Brilliant White with matte black accents.",
+    "Wheels & Brakes: Forged 22x11 ET35 (front) / 22x12 ET40 (rear) BBS FI-R wheels (3-piece, 10.5kg per wheel) wrapped in Michelin Pilot Sport Cup 2 R tires (295/30 R22 front, 325/25 R22 rear), paired with a full AP Racing Radi-CAL big brake kit (405mm front rotors, 6-piston calipers, 380mm rear rotors, 4-piston calipers) with titanium pistons and carbon-ceramic pads.",
+    "Interior & Lighting: Full Alcantara-wrapped Recaro SPG XL bucket seats (carbon fiber shells, 6-point Schroth harnesses) with a custom roll cage by Status Racing (1.75x.120 DOM tubing, TIG-welded, integrated with the OEM roof structure), paired with a digital dash from AIM MXS Strada (12-inch display, CAN bus integration for S63 telemetry) and a full LED lighting upgrade by Diode Dynamics (sequential turn signals, adaptive angel eyes, and underbody RGB with app control)."
+  ]
+}

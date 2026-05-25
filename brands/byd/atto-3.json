@@ -1,0 +1,14 @@
+{
+  "brand": "BYD",
+  "model": "ATTO 3",
+  "prestazioni": [
+    "Upgrade to a **BYD TZ220XBY (e-platform 3.0) electric motor** with a **Magnax axial flux stator** (replacing the stock radial flux design) for a 30% increase in power density, targeting **250 kW (335 hp)** and **450 Nm of torque** while maintaining the 800V SiC inverter architecture for faster charging and reduced thermal losses.",
+    "Install a **Porsche Taycan-derived 2-speed transmission (ZF 8DT)** with a **custom Quaife ATB helical LSD** to optimize torque split between front and rear axles, paired with **SKF hybrid ceramic bearings** to handle the increased regenerative braking loads (up to 0.4g deceleration).",
+    "Integrate a **Molicel P42A battery cell upgrade** (replacing the stock Blade Battery LFP cells) with a **custom 82 kWh liquid-cooled pack** (up from 60.48 kWh) and **AP Racing 2-piece carbon-ceramic rotors (380mm front, 350mm rear)** with **Brembo GP4-MS calipers** for sustained high-performance driving without fade."
+  ],
+  "estetica": [
+    "Fit a **Liberty Walk LB-WORKS widebody kit** (custom-designed for the ATTO 3’s 2,720mm wheelbase) with **carbon fiber overfenders** and **aluminum honeycomb reinforcement** to accommodate **20x9.5 ET35 front / 20x11 ET40 rear wheels** wrapped in **Michelin Pilot Sport Cup 2 R tires (255/40/20 front, 295/30/20 rear)**.",
+    "Replace the stock front bumper with a **Rocket Bunny V3 aero kit**, featuring a **3D-printed ABS splitter** (tested in CFD for 80 kg of downforce at 120 km/h) and **active Gurney flaps** (controlled via the BYD DiLink 4.0 system) for adjustable aero balance.",
+    "Install a **Seibon carbon fiber hood** with **functional NACA ducts** (channeling air to the **Magnax motor’s liquid cooling system**) and **custom LED-illuminated BYD Dragon Face grille** (replacing the stock unit) with **anodized gold mesh** and **laser-etched 'e-platform 3.0' badging** for a JDM-inspired aesthetic."
+  ]
+}

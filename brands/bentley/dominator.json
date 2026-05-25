@@ -1,0 +1,14 @@
+{
+  "brand": "BENTLEY",
+  "model": "DOMINATOR",
+  "prestazioni": [
+    "Engine: 6.75L Rolls-Royce L-Series V8 (L410) with forged internals by Cosworth, including billet crankshaft, Carrillo H-beam connecting rods, and Mahle Motorsport forged pistons (10.5:1 compression ratio) for 750+ HP reliability on 98 RON fuel",
+    "Forced Induction: Twin Precision Turbo PT6266 CEA ball-bearing turbos with custom 3D-printed titanium compressor housings, Tial MV-R 44mm wastegates, and a custom air-to-water intercooler system by Bell Intercoolers with dual 12-row cores and integrated methanol injection (Snow Performance Stage 3 kit)",
+    "Drivetrain: Reinforced ZF 6HP28A transmission with a Pankl Racing Systems 300M steel driveshaft, Quaife ATB differential (85% lock), and a custom 1-piece carbon fiber propshaft by Dymag for reduced rotational mass"
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion by Liberty Walk (LB-WORKS Dominator-specific kit), including extended front fenders, rear quarter panels, and a custom 3-piece carbon fiber rear diffuser with integrated titanium exhaust outlets (custom 4.5\" quad-tip setup by Armytrix)",
+    "Suspension: Öhlins TTX46 coilovers with 3-way adjustable damping, custom valving for the Dominator’s 2,800kg weight, and Eibach ERS race springs (25% stiffer than OEM) paired with spherical bearing upper control arms by SuperPro for camber adjustability",
+    "Aerodynamics: Custom front splitter by Vorsteiner (carbon fiber, 3D-scanned for Dominator chassis) with integrated canards, and a fixed carbon fiber rear wing by APR Performance (GT-500 spec, 1,800mm width) mounted on titanium stanchions with adjustable angle of attack (0-15 degrees)"
+  ]
+}

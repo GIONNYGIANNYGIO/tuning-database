@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "model": "iX M60",
+  "prestazioni": [
+    "Hybrid powertrain recalibration targeting the **BMW B58-derived dual electric motors (front: 258 hp, rear: 389 hp)** via **Dimsport Race 2000 ECU flasher** with a custom Stage 2+ map, optimizing torque vectoring and launch control for 0-60 mph in 2.8s (stock: 3.6s) while maintaining 800V battery thermal stability via **PWR Racing heat exchangers**",
+    "Dual **Motec C125 dash logger** integration with **Bosch Motorsport 0 261 S01 035 high-pressure fuel sensors** to monitor inverter efficiency and **Garrett Electric Turbocharger (e-Turbo) prototype** testing for transient response improvements (0-124 mph reduced by 18%)",
+    "Full **KW Automotive Clubsport coilover kit (3-way adjustable)** with **iX-specific camber plates** and **H&R 25mm rear sway bar** to counteract the 2,660kg curb weight, paired with **Michelin Pilot Sport Cup 2 R tires (275/35 R22 front, 315/30 R22 rear)** on **BBS FI-R 22x10.5\" forged wheels** for lateral grip exceeding 1.1g"
+  ],
+  "estetica": [
+    "**Rocket Bunny V3 widebody kit** with **carbon fiber fender flares (35mm front, 50mm rear)** and **custom 3D-printed ABS diffuser** to house **Akrapovič titanium exhaust tips (dual 100mm outlets)** for acoustic enhancement without backpressure penalties",
+    "**Vorsteiner carbon fiber front splitter** with **active aerodynamic Gurney flaps** (controlled via **iDrive 8.5 M-specific tuning menu**) and **rear wing (2.2m span, 300mm chord)** inspired by the **BMW M Hybrid V8 LMP2 prototype**, reducing lift by 42% at 155 mph",
+    "**LuxuryTuning carbon fiber mirror caps** with **integrated LED turn signals** and **full de-chrome treatment** using **3M 1080 Satin Black vinyl wrap** with **custom matte PPF (XPEL Stealth)** on high-impact zones, paired with **OEM+ M Performance kidney grilles (gloss black with blue accents)**"
+  ]
+}

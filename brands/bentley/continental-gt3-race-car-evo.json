@@ -1,0 +1,14 @@
+{
+  "brand": "BENTLEY",
+  "model": "CONTINENTAL GT3 RACE CAR EVO",
+  "prestazioni": [
+    "Engine: Bentley 4.0L twin-turbo V8 (engine code: **AWRC**) with a **Garrett GT35R** turbo upgrade (84mm compressor wheel, 1.06 A/R turbine housing) and **Precision Turbo & Engine 7675** ball-bearing center cartridge for reduced spool time, paired with a **Motec M150 ECU** for real-time lambda and boost mapping (targeting 2.2 bar peak boost in race trim).",
+    "Drivetrain: **Xtrac P1297 6-speed sequential transaxle** with **AP Racing CP8450 carbon-carbon clutch** (3-disc, 200mm diameter) and **Quaife ATB differential** (85% lock under load), mated to a **Bentley Motorsport-spec carbon driveshaft** with **GKN Lobro CV joints** for 1,200 Nm torque capacity.",
+    "Suspension: **Öhlins TTX46 MkII 4-way adjustable dampers** (25mm piston diameter, 300mm stroke) with **Eibach ERS coil springs** (600 lb/in front, 700 lb/in rear) and **Bentley Motorsport-fabricated chromoly steel control arms** (replacing OEM aluminum for 30% stiffness increase), paired with **Tillet B12 carbon fiber racing seats** and a **Sparco 6-point harness (FIA 8862-2009 certified)** for driver retention."
+  ],
+  "estetica": [
+    "Aerodynamics: **Bentley Motorsport GT3 Evo carbon fiber aero package** (front splitter with **Gurney flap**, rear diffuser with **3x active vortex generators**, and **DRS-enabled rear wing** with **2x 40mm adjustable carbon flaps**), all coated in **3M 1080 Matte Black vinyl** with **Bentley Racing Green** pinstripes for airflow visualization testing.",
+    "Body: **Full carbon fiber body panels** (replacing OEM aluminum) from **Bentley Motorsport’s in-house composite division**, including **removable front fenders with quick-release Dzus fasteners**, **carbon fiber doors with polycarbonate windows (Lexan MR-10)**, and a **carbon fiber hood with dual NACA ducts** feeding the **PWR radiator core**.",
+    "Interior: **Full FIA-spec roll cage** (T45 steel, **Bentley Motorsport-approved design**) with **carbon fiber door cards** (honeycomb core, 1.5mm thickness) and **Alcantara-wrapped MOMO Prototipo steering wheel** (350mm diameter, **quick-release hub**), paired with **AIM MXS Strada dash display** (12-inch, **CAN bus integration**) and **Schroth 6-point harness (ASM2 configuration)** for driver safety."
+  ]
+}

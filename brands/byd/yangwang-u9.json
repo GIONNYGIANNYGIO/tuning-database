@@ -1,0 +1,14 @@
+{
+  "brand": "BYD",
+  "model": "YANGWANG U9",
+  "prestazioni": [
+    "Upgrade to a **BYD-YISU-829Q 4.0L quad-motor electric powertrain** with a **custom silicon carbide (SiC) inverter** from **Wolfspeed** to unlock 1,300 kW (1,743 hp) peak output, paired with a **Magna PT e4** 2-speed transmission for optimized torque vectoring and 0-100 km/h in 1.9 seconds",
+    "Install **SKF hybrid ceramic bearings** in the motor housings and **AP Racing CP9660-4000** carbon-carbon brake rotors with **Alcon 6-piston monoblock calipers** for sustained 2.5G deceleration, complemented by **Brembo GT 10.0** brake fluid for thermal stability",
+    "Integrate a **Motec C187 ECU** with **BYD’s proprietary 800V SiC MOSFET** control module for real-time torque split adjustments, alongside a **Tesla-derived 900V liquid-cooled battery pack** with **Samsung SDI 21700-50E cells** for 1,200 kW discharge capacity and 10-minute fast charging via **ABB Terra 360**"
+  ],
+  "estetica": [
+    "Fit a **Liberty Walk LB-WORKS U9-specific widebody kit** with **carbon-fiber fenders** extending 50mm per side, paired with **Vorsteiner V-FF 107 forged wheels** (20x11 front, 21x12.5 rear) wrapped in **Michelin Pilot Sport Cup 2 R** (285/30 R20 front, 335/25 R21 rear)",
+    "Install a **Rocket Bunny U9 GT wing** with **active Gurney flaps** (adjustable via **Bosch Servolectric actuators**) and a **full-length carbon underbody diffuser** from **AeroTech Designs**, featuring **Vortex Generators** for 40% increased downforce at 250 km/h",
+    "Replace stock lighting with **Osram LEDriving XENARC** adaptive headlights (8,000 lumens) and **Luxxen U9-specific taillight clusters** with **OLED panels**, while adding **Novitec carbon-fiber side skirts** and a **custom titanium exhaust bypass valve system** (for simulated quad-motor sound profiles)"
+  ]
+}

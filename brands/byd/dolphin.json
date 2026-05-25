@@ -1,0 +1,14 @@
+{
+  "brand": "BYD",
+  "model": "DOLPHIN",
+  "prestazioni": [
+    "Forced induction upgrade via Garrett GT2259 turbocharger (compatible with the TZ180ZQA 1.5L turbocharged engine code) with a custom 3-inch stainless steel downpipe and TiAL MV-R 44mm wastegate to handle boost levels up to 22 psi, paired with a PTP turbo blanket to reduce heat soak",
+    "Full standalone ECU swap to a Link G4+ Xtreme with custom CAN bus integration for the BYD Dolphin's TZ180ZQA engine, including a flex-fuel sensor (Continental 13577379) and a 1000cc ID1000 fuel injectors (with custom flow-matched data for the Dolphin's fuel rail pressure of 3.5 bar)",
+    "Custom 3-inch diameter stainless steel exhaust system by Milltek Sport (cat-back section) with a 200-cell catalytic converter from GESI (part #GESI-200CPS) and a secondary O2 sensor delete plug (for off-road use only), paired with a Vibrant 1798 resonator for drone reduction"
+  ],
+  "estetica": [
+    "Full Rocket Bunny Pandem widebody kit (BYD Dolphin-specific fitment, part #RB-PDM-DOLPHIN) with custom carbon fiber fender flares and extended wheel arches to accommodate 18x9.5 ET20 wheels (Work Emotion CR Kiwami in matte black) with 235/40R18 Michelin Pilot Sport Cup 2 tires",
+    "Custom front lip splitter by Varis Japan (modified for the Dolphin's bumper contours) in raw carbon fiber, paired with a custom rear diffuser by Seibon Carbon (part #SC-DOLPHIN-DIFF) and a 50mm adjustable rear wing from APR Performance (part #GT-250) with carbon fiber endplates",
+    "Full interior overhaul with Recaro SPG XL seats (custom BYD Dolphin mounting brackets) wrapped in Alcantara (Autostyle UK, color code #AS-010) and a custom roll cage by Custom Cages (part #CC-DOLPHIN-FULL) with integrated harness bar for Schroth Profi II 6-point harnesses"
+  ]
+}

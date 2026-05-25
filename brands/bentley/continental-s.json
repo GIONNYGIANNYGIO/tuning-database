@@ -1,0 +1,14 @@
+{
+  "brand": "BENTLEY",
+  "model": "CONTINENTAL S",
+  "prestazioni": [
+    "Engine: 6.0L W12 twin-turbo (engine code: **BW6ZF**) – Full bolt-on turbo upgrade with **Garrett GTX5533R Gen II** turbos (84mm compressor wheels, 1.15 A/R turbine housings) paired with **Precision Turbo & Engine 7675** wastegates for 22 psi peak boost, replacing stock **KKK K36** turbos. Supporting mods include **Mahle Motorsport forged pistons** (9.0:1 compression) and **Manley Performance H-beam connecting rods** with **ARP L19 studs** for 850+ hp reliability.",
+    "Fuel System: **Bosch Motorsport 1,200cc/min port injectors** (PN: 0 280 158 117) supplemented by **AEM 2200cc direct injectors** (PN: 30-3300) with **Radium Engineering dual fuel pump hangers** (2x **Walbro 450 LPH** pumps) and **Fuelab Prodigy V4** regulator for E85 compatibility. **Motec M150 ECU** standalone management with **Link G4+ Xtreme** backup for precise W12 cylinder trimming.",
+    "Drivetrain: **ZF 8HP90X** 8-speed transmission reinforced with **FTX Racing Stage 3 clutch pack** (triple-disc carbon/carbon) and **Peloquin LSD** (40% lock) for the **Torsen T-3 differential**. **Quaife ATB helical LSD** for the front axle. **GKN Driveline CV joints** (heavy-duty, 30-spline) and **South Bend Clutch dual-mass flywheel delete** with **Spec Stage 5+ clutch** for launch control abuse."
+  ],
+  "estetica": [
+    "Aero: **Vorsteiner V-FF107** widebody conversion kit (carbon fiber, 50mm rear fender flares) with **Rocket Bunny V3** front splitter (3D-scanned for Continental S bumper) and **AIT Racing GT wing** (1,800mm span, 300mm chord, 30-degree angle) in **dry carbon fiber**. **ReviTec carbon fiber diffuser** (OEM-fitment, 50% larger than stock) with **Aeromotions active rear wing** (hydraulic, 45-degree attack angle at 120 mph).",
+    "Wheels/Tires: **HRE FF01** forged monoblock wheels (21x10.5 ET30 front, 21x12.5 ET40 rear) with **Michelin Pilot Sport Cup 2 R** tires (275/30 R21 front, 325/25 R21 rear). **AP Racing BBK** (6-piston front, 4-piston rear) with **Brembo GT-R rotors** (405mm front, 380mm rear, 38mm thickness) and **Ferodo DS3.1** pads for 1.2g braking.",
+    "Interior/Exterior: **Recaro Pole Position** carbon-Kevlar bucket seats (FIA 8862-2009 certified) with **Schroth Profi II 6-point harnesses** and **Sabelt HANS device**. **Rollcage: **Custom **Autopower 8-point chromoly** cage (TIG-welded, NHRA-certified) with **Sparco carbon fiber door cards** (retaining OEM Bentley stitching). **Forge Motorsport carbon fiber shift knob** (short-throw adapter for ZF 8HP) and **Aim Solo 2 DL** data logger with **RaceLogic VBOX HD2** GPS lap timer. **Full respray in **Bentley Verdant Green** (custom PPG mix) with **3M Matte Black wrap** on roof, mirrors, and lower body cladding."
+  ]
+}

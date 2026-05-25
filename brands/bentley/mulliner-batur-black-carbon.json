@@ -1,0 +1,14 @@
+{
+  "brand": "BENTLEY",
+  "model": "MULLINER BATUR BLACK CARBON",
+  "prestazioni": [
+    "Engine: 6.0L twin-turbocharged W12 (engine code: **CREWE-60-TT**), upgraded with **Garrett GTX5544R Gen II turbos** (1.45 bar boost, billet compressor wheels) paired with **Precision Turbo & Engine 7675 CEA** wastegates for optimized spool and reduced lag. Custom **Mulliner-forged internals** (titanium connecting rods, Mahle Motorsport pistons, 9.5:1 compression) supporting 850 hp at 6,200 RPM and 950 Nm torque at 3,500 RPM.",
+    "Fuel System: **Bosch Motorsport MS17.8 ECU** with **Motec PDM30** power distribution module, **Injector Dynamics ID2000x** (2,000 cc/min) direct injectors, and **AEM 400X** high-flow fuel pumps. **Mulliner-spec CNC-machined fuel rails** with **Radium Engineering** surge tanks for consistent fuel delivery under lateral G-forces.",
+    "Exhaust: **Mulliner x Akrapovič titanium 4-2-1 headers** (1.75\" primary tubes, 3.5\" collectors) with **dual-mode active bypass valves** (Sport/Track modes). **Scandinavian-muffler bypass system** (electronically actuated) for full straight-pipe sound on demand. **Ceramic-coated** exhaust manifolds to reduce underhood temps by 18%."
+  ],
+  "estetica": [
+    "Aero: **Mulliner x Liberty Walk LB-WORKS** widebody kit (carbon fiber, 50mm extended fenders, aggressive side skirts with integrated air curtains). **Vorsteiner V-FF107** front splitter (adjustable 3-stage dive planes) and **Rear diffuser by Prior Design** (3D-printed titanium vanes, 40% more downforce at 200 km/h). **Active rear wing** (Mulliner proprietary, 1,200mm span, 3-position adjustability: Touring/Sport/Race).",
+    "Wheels: **Forgeline GA5R 22x11\" (front) / 22x13\" (rear) 3-piece forged wheels** (ET25 front, ET15 rear) with **Pirelli P Zero Trofeo R** tires (295/30 ZR22 front, 335/25 ZR22 rear). **Brembo GT-R** 6-piston calipers (420mm front rotors, 380mm rear) with **AP Racing** carbon-ceramic discs (optional **Brembo CCM-R** track-spec rotors).",
+    "Interior: **Mulliner x Sparco Pro 2000 seats** (carbon-Kevlar shell, 6-point harnesses, 8-way electric adjustment). **Alcantara-wrapped** dashboard with **Mulliner x AIM MXS Strada** 12.3\" digital dash (CAN-bus integrated, lap timer, G-force meter). **Roll cage by Safety Devices** (T45 steel, bolt-in, FIA-certified) with **Schroth Racing** 4-point harnesses. **Custom LED ambient lighting** (16.7M colors, synced to engine RPM via **Philips Hue** API)."
+  ]
+}

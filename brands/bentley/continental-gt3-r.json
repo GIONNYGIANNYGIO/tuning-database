@@ -1,0 +1,14 @@
+{
+  "brand": "BENTLEY",
+  "model": "CONTINENTAL GT3-R",
+  "prestazioni": [
+    "Engine: 4.0L twin-turbocharged V8 (engine code: **AWVC**) with a **Garrett GT35R** hybrid turbo upgrade (68mm compressor, 76mm turbine) paired with a **Precision Turbo & Engine 46mm wastegate** for 1.4 bar peak boost, replacing the stock **KKK K04 turbos** to achieve 750hp at 6,800 RPM and 750 lb-ft of torque at 3,500 RPM. Requires **Mahle Motorsport forged pistons (9.5:1 compression)** and **Carrillo H-beam connecting rods** to handle the increased cylinder pressure.",
+    "Fuel System: **Bosch Motorsport 1,200cc port injectors** paired with a **Syvecs S12 ECU** (standalone, CAN-bus integrated) for full flex-fuel capability (E85 compatible) and **AEM 4150 high-flow fuel rails**. Upgraded **Walbro 450 LPH in-tank fuel pump** with a **Radium Engineering surge tank** to prevent fuel starvation during lateral G-forces.",
+    "Drivetrain & Cooling: **Wavetrac ATB differential** with a **Quaife 4.10:1 final drive ratio** for improved acceleration, paired with a **Penske 8760 adjustable coilover suspension** (2-way rebound, 3-way compression) and **AP Racing 6-piston front/4-piston rear brake calipers** with **380mm CCM-X carbon-ceramic rotors**. **PWR Racing radiator** (dual-core, 40% increased cooling capacity) and **Setrab 50-row oil cooler** to manage heat under track conditions."
+  ],
+  "estetica": [
+    "Aero: **Vorsteiner V-FF107 GT3-R widebody kit** (carbon fiber, 50mm extended rear fenders, 30mm front) with a **Rocket Bunny GT3-R rear diffuser** (3-piece, adjustable angle) and **Aeromotions active rear wing** (DTM-style, 1,200mm span, carbon fiber, 30-degree max angle). **Custom 3D-printed front splitter** (CFD-optimized, 40% more downforce than OEM) with **Gurney flaps** for high-speed stability.",
+    "Exterior: **BBS FI-R 20x10.5 ET35 (front) / 21x12.5 ET40 (rear) forged wheels** in **Gunmetal finish**, wrapped in **Michelin Pilot Sport Cup 2 R tires (285/30 R20 front, 325/25 R21 rear)**. **PPF (Paint Protection Film) in XPEL Stealth** applied to high-impact zones (front bumper, rocker panels, mirrors) with **ceramic coating (Gyeon Quartz)** for hydrophobic properties. **Full respray in Bentley ‘Sequin Blue’ with matte black accents** (hood, roof, rear valance).",
+    "Interior: **Recaro Pole Position carbon fiber bucket seats** (FIA 8862-2009 certified) with **Schroth 6-point harnesses** and **Sabelt HANS device compatibility**. **MOMO Prototipo steering wheel** (suede, 350mm diameter, quick-release) with **AiM MXS Strada dash logger** (12-inch display, CAN-bus integration). **Full Alcantara retrim** (headliner, door cards, center console) in **Bentley ‘Beluga’ with contrast red stitching**, paired with **custom carbon fiber door sills** (laser-etched ‘GT3-R’ logo) and **LED ambient lighting (Philips Hue, 16 million colors, app-controlled)**."
+  ]
+}
