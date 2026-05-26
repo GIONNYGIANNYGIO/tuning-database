@@ -1,0 +1,14 @@
+{
+  "brand": "BUICK",
+  "model": "WILDCAT SPORT",
+  "prestazioni": [
+    "Nailhead V8 (401ci / 6.6L) engine swap to a fully built 425ci (7.0L) Nailhead with forged internals (Crower forged crankshaft, Eagle H-beam connecting rods, JE forged pistons, 10.5:1 compression), paired with a custom camshaft grind from Comp Cams (280°/286° duration, .520/.530 lift) and ported/polished cylinder heads by H&H Flatheads for improved airflow",
+    "Custom forced induction via a Precision Turbo PT6266 CEA turbocharger (62mm inducer, 84mm exducer) with a custom T4 divorced wastegate setup, feeding into a custom air-to-water intercooler (Garrett core) and a Holley Dominator EFI system with dual Bosch 044 fuel pumps and ID1000x injectors for E85 compatibility",
+    "Full drivetrain reinforcement: Tremec TKO-600 5-speed manual transmission swap with a McLeod twin-disc clutch (RST series), Strange Engineering 9-inch rear end with 3.70:1 gears, and a Detroit Locker differential, paired with a custom driveshaft from Inland Empire Driveline (3.5-inch chromoly)"
+  ],
+  "estetica": [
+    "Full custom widebody conversion using a modified Rocket Bunny Wildcat kit (extended fenders, custom front splitter, and rear diffuser) with carbon fiber overfenders and a custom hood featuring a functional Nailhead V8 scoop and heat extractors",
+    "Custom suspension geometry with Air Lift Performance 3P management (ride height adjustable) and Ohlins Road & Track coilovers (custom valving for Nailhead weight distribution), paired with Brembo GT 6-piston front and 4-piston rear brake calipers with 15-inch rotors and custom stainless steel braided lines",
+    "Interior overhaul with Recaro Pole Position seats (retrimmed in Alcantara with Buick Wildcat embroidery), a custom roll cage (8-point chromoly) by The Phoenix Group, and a custom gauge cluster featuring Stack ST800 digital displays (boost, AFR, oil pressure) alongside a Momo Mod.78 steering wheel on a NRG quick-release hub"
+  ]
+}

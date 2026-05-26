@@ -1,0 +1,14 @@
+{
+  "brand": "BUGATTI",
+  "model": "TOURBILLON PROTOTYPE HYPER EVO",
+  "prestazioni": [
+    "Engine: Replace the stock 8.3L naturally aspirated W16 (engine code: **QC16**) with a bespoke **10.0L quad-turbocharged W18** (engine code: **QC18TT**) built by **Manor Racing Engines**, featuring **Mahle Motorsport forged pistons (12.5:1 CR)**, **Carrillo H-beam connecting rods**, and a **Pankl Racing Systems billet crankshaft**. Turbocharging system includes **four Garrett GTX5544R Gen II turbos** with **Tial MV-R 60mm wastegates** and **Precision Turbo & Engine 1000HP intercoolers**. Fuel system upgraded to **Bosch Motorsport MS17.8 ECU** with **12x ID1700x injectors** and **AEM 400LPH dual-pump fuel system**.",
+    "Drivetrain: **Xtrac P1327 7-speed sequential transaxle** with **AP Racing 6-piston carbon-carbon clutch** and **Wavetrac torque-biasing differential**. **Quaife ATB helical LSD** for the front axle. **GKN Driveline CV joints** with **Drexler Motorsport tripod bearings** for durability under 1,800+ Nm of torque.",
+    "Suspension & Chassis: **Multimatic DSSV coilovers** with **3-way adjustable dampers** and **Eibach Motorsport linear-rate springs (1,200 lb/in front, 1,500 lb/in rear)**. **Brembo GT-R monobloc calipers (6-piston front, 4-piston rear)** with **390mm carbon-ceramic rotors** and **Ferodo Racing DS3.12 pads**. **HRE FF17 wheels (20x12 front, 21x13 rear)** wrapped in **Michelin Pilot Sport Cup 2 R tires (325/25 R20 front, 355/20 R21 rear)**. **Gorilla Automotive titanium lug bolts** for weight reduction."
+  ],
+  "estetica": [
+    "Aerodynamics: **Liberty Walk LB-WORKS Tourbillon-specific widebody kit** with **carbon fiber fenders, front splitter, and rear diffuser**, increasing track width by 120mm. **Vortex Generators by APR Performance** on the roof and rear wing for improved downforce. **Active rear wing by D2 Racing** with **3-position adjustability (50kg, 150kg, 300kg downforce)**. **Underbody diffuser by RW Carbon** with **Gurney flaps** for optimized airflow.",
+    "Exterior Styling: **Full carbon fiber body panels by C-West** (including doors, hood, and trunk) with **matte clear coat by PPG**. **Custom LED headlights by Diode Dynamics** with **adaptive laser high-beams**. **Side skirts by Rocket Bunny** featuring **integrated air curtains** for brake cooling. **Carbon fiber side mirrors by Seibon** with **heated cameras (no glass)** for minimal drag.",
+    "Interior: **Full Alcantara trim by Katzkin** with **stitched Tourbillon Evo logos**. **Recaro Pole Position seats** with **6-point Schroth Racing harnesses**. **Momo Prototipo steering wheel** with **integrated AIM MXS Strada dash**. **Roll cage by Custom Cages** (T45 steel, **chromoly reinforcement**) with **fire suppression system by Life Racing**. **Carbon fiber door cards by VIS Racing** with **aluminum door pulls by 2Bros Motorsports**."
+  ]
+}

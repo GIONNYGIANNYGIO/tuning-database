@@ -1,0 +1,14 @@
+{
+  "brand": "BUGATTI",
+  "model": "TYPE 251 F1",
+  "prestazioni": [
+    "Replacement of the original 2.5L inline-8 Type 251 engine (engine code: **T251-8**) with a bespoke **Weber 48 IDM carburetor setup** featuring dual-throttle bodies and a **custom-machined magnesium intake manifold** to optimize airflow for the unique 75° cylinder angle, increasing peak power from 250 HP to 320 HP at 9,500 RPM while maintaining the original 10,000 RPM redline.",
+    "Installation of a **Penske Racing 8760 adjustable coilover suspension system** with **T45 steel uprights** and **rose-jointed spherical bearings**, replacing the original torsion bar setup to improve cornering stiffness and reduce unsprung weight by 18% for the 1956 F1-spec chassis (wheelbase: 2,300mm).",
+    "Integration of a **Hewland DG300 5-speed sequential transaxle** with a **custom billet aluminum bellhousing** and **AP Racing CP5250 carbon-carbon clutch**, replacing the original 4-speed gearbox to handle increased torque and enable faster gear shifts under 80ms, paired with a **Quaife ATB helical LSD** for optimal power distribution."
+  ],
+  "estetica": [
+    "Replacement of the original aluminum body panels with **hand-formed 0.8mm 2024-T3 aluminum alloy** by **Carroll Shelby’s Metalcrafters**, featuring **flush-riveted seams** and a **custom-molded front splitter** with integrated NACA ducts for brake cooling, reducing drag by 12% while maintaining the 1956 F1 aesthetic.",
+    "Installation of a **custom-machined magnesium steering wheel** by **Nardi** with **integrated Smiths Instruments chronometric tachometer** and **aluminum quick-release hub**, replacing the original wooden wheel for improved driver feedback and weight reduction (saving 1.2kg).",
+    "Application of a **vintage-inspired livery** using **3M Scotchcal 9000 series vinyl** in **Bugatti French Racing Blue (RAL 5017)** with **gold leaf pinstriping** by **Signarama Monaco**, paired with **BBS RS-GT magnesium wheels** (16x13 front, 16x15 rear) wrapped in **Pirelli P Zero Trofeo R tires** (5.50-16 front, 7.00-16 rear) for period-correct grip levels."
+  ]
+}

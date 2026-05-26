@@ -1,0 +1,14 @@
+{
+  "brand": "CADILLAC",
+  "model": "SEVILLE STS",
+  "prestazioni": [
+    "Engine: Replace the stock Northstar L37 (4.6L DOHC 32V V8, 300 HP) with a fully built L37 featuring forged internals (Mahle pistons, Eagle H-beam rods, and a billet crankshaft) paired with a custom camshaft profile from Comp Cams (224/230 duration, 0.580 lift) for high-RPM power delivery (target: 450 WHP).",
+    "Forced Induction: Install a Precision Turbo PT6266 CEA turbocharger (62mm, 66lb/min) with a custom air-to-water intercooler (Garrett core, 1200 CFM) and a Tial MV-R 44mm wastegate to handle boost levels up to 18 PSI. Pair with a custom fuel system upgrade (Dual Walbro 450 LPH pumps, ID1000 injectors, and a Radium Engineering fuel surge tank).",
+    "Drivetrain & Handling: Swap the stock 4T80-E transmission for a built 4L80E (Sonnax valve body, Precision Industries billet torque converter, and a PML deep pan) with a custom standalone transmission controller (Holley Dominator). Install a KW Clubsport coilover kit (3-way adjustable, 800 lb/in springs) with poly bushings (Energy Suspension) and a Whiteline front sway bar (27mm adjustable) for chassis rigidity."
+  ],
+  "estetica": [
+    "Body Kit: Install a custom widebody conversion using a Liberty Walk LB Works kit (Seville STS-specific, carbon fiber fenders, and extended rocker panels) paired with a custom front splitter (Seibon carbon fiber, 3-inch overhang) and a fixed carbon fiber rear wing (AIT Racing, 60-inch span, 3D-printed mounts).",
+    "Wheels & Stance: Fit custom 20x10.5 ET15 (front) and 20x12 ET20 (rear) forged wheels (Rotiform LAS-R, 5x115 bolt pattern) with Michelin Pilot Sport Cup 2 tires (275/30/20 front, 315/25/20 rear). Achieve a 1.5-inch static drop with KW Clubsport coilovers and custom subframe spacers (15mm front, 20mm rear).",
+    "Aero & Lighting: Replace all lighting with custom LED assemblies (Lux H8/H11 bulbs, Diode Dynamics switchbacks) and install a custom carbon fiber hood (Seibon, 30 lbs lighter than stock) with functional heat extractors. Add a custom underglow kit (Oracle Lighting, SMD3, 6000K) with a remote-controlled RGB controller for track-day visibility."
+  ]
+}

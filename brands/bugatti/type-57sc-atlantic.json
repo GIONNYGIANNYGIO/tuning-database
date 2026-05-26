@@ -1,0 +1,14 @@
+{
+  "brand": "BUGATTI",
+  "model": "TYPE 57SC ATLANTIC",
+  "prestazioni": [
+    "Engine: Replace the original 3.3L inline-8 (Type 57 engine code) with a fully restored and balanced version featuring a bespoke forged crankshaft by **Pankl Racing Systems**, titanium connecting rods by **Carrillo**, and custom 9.5:1 compression ratio forged pistons from **JE Pistons** to handle forced induction.",
+    "Forced Induction: Twin **Garrett GT2867R Gen II** turbochargers with billet compressor wheels, custom 0.82 A/R turbine housings, and **Tial MV-R 44mm** wastegates, paired with a **Spearco 800hp air-to-water intercooler** and **ID1000** fuel injectors for a target of 450 HP at 5,500 RPM (from the original 200 HP) with 18 psi of boost.",
+    "Drivetrain: Reinforced **ZF 4-speed manual transmission** with a **Quaife ATB differential**, upgraded with **PPG gears** and a **Tilton twin-disc carbon clutch**. Custom **Hewland bellhousing** and **GKN driveshafts** to handle increased torque, alongside a **Penske 8760** adjustable rear shock absorber setup for launch control optimization."
+  ],
+  "estetica": [
+    "Body: Full **RML Group** hand-formed aluminum body panels with **Aston Martin Racing-style** riveted seams, replacing the original electron bodywork for weight reduction and rigidity. Custom **BBS RS-GT 18x9.5 front / 19x12 rear** magnesium wheels with **Michelin Pilot Sport Cup 2 R** tires (225/40/18 front, 285/35/19 rear).",
+    "Aerodynamics: **RML Group** bespoke front splitter with integrated **DTM-style** dive planes, a **carbon fiber rear diffuser** by **Rocket Bunny (Pandem)**, and a **fixed carbon fiber rear wing** with **Gurney flap** (modeled after the **Bugatti Type 57G Tank** Le Mans racer).",
+    "Interior: **Recaro Pole Position** seats with **Schroth 6-point harnesses**, **MOMO Prototipo** steering wheel with quick-release hub, and a **Motec C127** digital dash replacing the original gauges. Custom **Alcantara headliner** and **Bespoke R-20 leather** door cards with **period-correct** stitching by **Saddleback Leather Co.**."
+  ]
+}

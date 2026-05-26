@@ -1,0 +1,14 @@
+{
+  "brand": "BUGATTI",
+  "model": "TOURBILLON HYBRID",
+  "prestazioni": [
+    "Replacement of the stock 8.3L naturally aspirated W16-derived hybrid V16 (engine code: **QUB16**) with a **Weistec Engineering Stage 4+** forced-induction system, featuring twin **Garrett GTX5544R Gen II** turbos (1.45 A/R, 106mm compressor wheels) and a **Precision Turbo & Engine 7675** center-mounted turbo for the electric motor assist, achieving 1,800+ hp at 8,500 RPM with 1,200 Nm of torque (fuel system upgraded to **Bosch Motorsport MS17.8** ECU with **Motec PDM30** power distribution module for hybrid torque vectoring).",
+    "Installation of a **Pankl Racing Systems** billet titanium crankshaft (90mm stroke, 102mm bore) with **Carrillo H-beam connecting rods** (H-14 design, 220,000 psi tensile strength) and **JE Pistons** forged aluminum slugs (2618-T6 alloy, 9.5:1 compression ratio, **Total Seal APX** rings for 0.001\" clearance).",
+    "Full **Brembo GT-R** brake system overhaul with **6-piston monoblock calipers** (front, 42mm pistons) and **4-piston rear calipers**, paired with **AP Racing carbon-ceramic discs** (420mm front, 390mm rear, **Surface Transforms ST-X** carbon fiber weave for 1,200°C heat resistance) and **Ferodo Racing DS3.12** pads (0.55µ friction coefficient)."
+  ],
+  "estetica": [
+    "**Rocket Bunny V3** widebody conversion kit (carbon fiber, **Toray T800** pre-preg, 120mm front fender flares, 150mm rear), featuring a **custom Vorsteiner GT3-spec front splitter** (3D-printed **PEEK polymer**, 45kg downforce at 200 km/h) and **Aeromotions** active rear wing (dual-element, **NACA 65-018 airfoil**, 200kg adjustable downforce).",
+    "**Forge Motorsport** titanium exhaust system (3.5\" diameter, **Inconel 625** headers, **Akrapović** titanium mufflers with **REMUS** electronically controlled valves) exiting through a **custom Novitec Torado-style** quad-tip diffuser (polished **Grade 5 titanium**, laser-welded seams).",
+    "**HRE Performance Wheels FF17** forged monoblocks (21x12\" front, 22x13\" rear, **6061-T6 aluminum**, **Aerodisc** carbon fiber inserts) wrapped in **Michelin Pilot Sport Cup 2 R** tires (325/25R21 front, 355/25R22 rear, **Track Connect** telemetry sensors) with **BBS Motorsport** titanium wheel bolts (M14x1.5, **Ti-6Al-4V alloy**)."
+  ]
+}

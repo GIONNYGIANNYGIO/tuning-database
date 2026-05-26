@@ -1,0 +1,14 @@
+{
+  "brand": "BUICK",
+  "model": "WILDCAT",
+  "prestazioni": [
+    "Nailhead V8 (401/425ci) forced-induction build with a Garrett GTX4202R turbocharger (86mm compressor, 1.06 A/R turbine housing) paired with a custom T4 divorced wastegate setup, supporting 12 psi of boost for ~550whp on 93 octane with a ported and polished iron block (stock displacement, no stroker)",
+    "Full custom fuel system featuring dual Bosch 044 high-flow fuel pumps, ID1000 injectors (1,000cc/min), and a Radium Engineering dual-catch-can setup to mitigate Nailhead’s notorious oil consumption under boost, with a Holley Dominator ECU managing sequential injection and ignition timing",
+    "Chassis-specific suspension overhaul with Global West subframe connectors, QA1 double-adjustable coilovers (2.5-inch diameter, 12-position rebound/compression damping), and a Detroit Speed QUADRALINK 4-link rear suspension with Currie 9-inch nodular iron third member (3.70:1 gearing) for drag-strip launches"
+  ],
+  "estetica": [
+    "Custom 1960s-inspired widebody conversion using a modified Buick Riviera rear quarter panel graft (hand-rolled flares, 2-inch wider than stock) paired with a Dynacorn reproduction front clip (steel, not fiberglass) for a factory-restomod look with 18x10 and 18x12 Billet Specialties Vintec wheels (gold centers, 275/35 and 315/35 Michelin Pilot Sport Cup 2 tires)",
+    "Full custom interior with a TMI Products Pro-Car front bench seat (retrimmed in Alcantara with red stitching) and a custom roll cage (8-point, mild steel, TIG-welded) integrated with a Sparco Circuit II racing seat (HANS-compatible) and a Momo Prototipo steering wheel on a NRG quick-release hub",
+    "Aero package featuring a custom carbon fiber front splitter (3-inch overhang, 50/50 downforce bias) and a modified 1966 Buick Skylark rear ducktail spoiler (fiberglass, 4-inch height) with a hidden Gurney flap for high-speed stability, finished in PPG Concept Black with hand-painted Buick tri-shield stripes (1/4-inch pinstripes)"
+  ]
+}

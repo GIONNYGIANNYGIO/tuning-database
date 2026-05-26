@@ -1,0 +1,14 @@
+{
+  "brand": "BUGATTI",
+  "model": "TYPE 57C TANK",
+  "prestazioni": [
+    "Engine: Replace the original 3.3L inline-8 (Type 57C engine code) with a fully balanced and blueprinted version featuring a forged crankshaft from **Pankl Racing Systems**, Carrillo H-beam connecting rods, and Mahle Motorsport forged pistons (9.5:1 compression ratio) to handle forced induction. Install a **Rotrex C38-91 supercharger** (custom-machined intake manifold by **Radford Racing**) with a bespoke intercooler setup (dual-core **PWR** heat exchanger) and a **Tial 44mm wastegate** for boost control (1.2 bar peak pressure).",
+    "Drivetrain: Upgrade to a **ZF 5DS25-2 two-disc ceramic clutch** (custom flywheel by **Tilton Engineering**) paired with a **Hewland 5-speed sequential transaxle** (reinforced gears, limited-slip differential with **Quaife ATB helical LSD**). Replace the original leaf springs with a **custom-fabricated 4-link rear suspension** (rose-jointed, **Eibach ERS coilovers** with adjustable damping via **Bilstein Clubsport valving**).",
+    "Braking: Install **Alcon 6-piston monoblock calipers** (front) and **4-piston calipers** (rear) with **AP Racing 380mm carbon-ceramic rotors** (floating design, **Pagid RS29** pads). Custom stainless steel braided lines by **Goodridge** and a **Willwood pedal box** with adjustable bias for track use."
+  ],
+  "estetica": [
+    "Body: Restore the original **Tank** bodywork with **3M Matte Military Green** (FS 34097) wrap, applied by **Vinyl Frog**, featuring hand-brushed aluminum rivet details (replicating the 1936 Le Mans-winning car). Add a **custom aluminum belly pan** (fabricated by **RML Group**) for underbody aerodynamics, paired with a **rear diffuser** (carbon fiber, **AeroTech Designs**) and **DTM-style side skirts** (aluminum, **Kahn Design**).",
+    "Interior: Replace the original leather with **Bridge of Weir Automotive Leather** (dark brown, hand-stitched) on the **bucket seats** (custom **Sparco Pro 2000** frames with 4-point harnesses by **Schroth Racing**). Install a **Momo Prototipo** steering wheel (quick-release hub, **NRG Innovations**) and a **Motec C127 dash logger** (integrated with **AIM Solo 2 DL** for telemetry).",
+    "Wheels: **Dymag CX-R carbon fiber wheels** (18x6 front, 18x8 rear) with **Michelin Pilot Sport Cup 2 R** tires (225/40 R18 front, 285/35 R18 rear). Custom **BBS-style center-locking hubs** (machined by **HRE Performance Wheels**) with **Titanium lug nuts** (by **ARP**)."
+  ]
+}

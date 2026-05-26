@@ -1,0 +1,14 @@
+{
+  "brand": "BUGATTI",
+  "model": "VEYRON GRAND SPORT",
+  "prestazioni": [
+    "Engine: W16 (quad-turbocharged, 8.0L, engine code: **W16 (QSV)**) – Replace stock IHI turbochargers with **Garrett GTX5544R Gen II** turbos (custom billet compressor wheels, 76mm inducer, 106mm exducer) paired with **Tial MV-R 64mm wastegates** and **TurboSmart Race Port BOV** for optimized spool and reduced lag. Target boost: 2.1 bar (30.5 psi) with **Motec M150 ECU** standalone management for precise fuel and ignition mapping.",
+    "Drivetrain: **Ricardo 7-speed DSG transmission** – Upgrade clutch packs with **AP Racing CP9660 carbon-carbon discs** and **Tilton 640-series hydraulic release bearing** for 2,200 Nm torque capacity. Install **Wavetrac Torsen-style limited-slip differential** with 45% lock under power for improved traction off the line.",
+    "Suspension: **Bilstein Clubsport coilovers** (custom valved for Veyron chassis) with **Eibach ERS 1,200 lb/in springs** and **Ohlins TTX46 MkII dampers** (adjustable rebound/compression). Replace stock anti-roll bars with **H&R 30mm front / 25mm rear adjustable sway bars** to reduce body roll during high-speed cornering. Polyurethane bushings from **SuperPro** for subframe and control arms."
+  ],
+  "estetica": [
+    "Aero: **Liberty Walk LB-WORKS Veyron Grand Sport widebody kit** (carbon fiber fenders, extended rockers, and rear diffuser) paired with **Vorsteiner V-FF107 carbon fiber front splitter** and **Rocket Bunny GT wing** (adjustable 3D-printed titanium supports, 1,800mm span). Underbody **Aeroflow carbon fiber flat floor** with **Gurney flaps** for -120 kg downforce at 250 km/h.",
+    "Wheels/Tires: **HRE FF01 forged wheels** (20x11.5 front, 21x13 rear, 3-piece construction, 12.5kg per wheel) wrapped in **Michelin Pilot Sport Cup 2 R** (285/30 R20 front, 355/25 R21 rear) with **BBS center-lock adapters** for quick swaps. **AP Racing CP9660 420mm carbon-ceramic rotors** with **Brembo GT-R monobloc calipers** (6-piston front, 4-piston rear) and **Ferodo DS3.1 brake pads**.",
+    "Interior: **Recaro Pole Position carbon fiber seats** (FIA 8862-2009 certified) with **Schroth 6-point harnesses** and **Sabelt HANS device compatibility**. **MOMO Prototipo steering wheel** (suede-wrapped, 350mm diameter) with **AiM MXL2 data logger** integrated into the dash. **VAC Motorsport titanium roll cage** (TIG-welded, 4-point harness bar) with **Sparco carbon fiber door cards** and **Alcantara headliner**."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "BUGATTI",
+  "model": "BOLIDE TRACK EVO",
+  "prestazioni": [
+    "8.0L W16 quad-turbo (engine code: **QC16**) reinforced with **Pankl Racing Systems** titanium connecting rods (220g lighter per rod) and **Mahle Motorsport** forged pistons (9.0:1 compression for 1,850+ HP on **Motul 300V 15W-50** race-spec oil)",
+    "**Garrett GTX5544R Gen II** turbos (1.45 A/R, 106mm compressor wheels) with **Tial MV-R 60mm** wastegates and **TurboSmart Race Port 50mm** blow-off valves, paired with a **PWR** 1,200HP-rated titanium intercooler core (30% lower pressure drop than OEM)",
+    "**Bosch Motorsport MS17.8** standalone ECU with **Motec C187** dash logger, running **E85 flex-fuel mapping** (1,600 HP on E85, 1,850 HP on **VP Racing Q16** 116-octane race fuel) and **NGK R8993-10** iridium racing plugs (0.35mm gap for 8,500 RPM redline)"
+  ],
+  "estetica": [
+    "**APR Performance GT-300** carbon fiber rear diffuser with **Gurney flap** (30mm height, 12% more downforce at 200 mph) and **Vortex Generators** (3D-printed titanium, 18% drag reduction)",
+    "**BBS FI-R** forged magnesium wheels (18x13 front, 19x15 rear) with **Pirelli P Zero Trofeo R** semi-slick tires (285/650R18 front, 345/705R19 rear) and **HRE Performance** titanium wheel nuts (12g each)",
+    "**VLM Racing** 3D-printed titanium rear wing (adjustable 0-25° angle, **NACA 63A012 airfoil**) with **Dymag** carbon fiber endplates (40% lighter than OEM) and **AIM Solo 2 DL** GPS-based active aerodynamics (auto-adjusts wing angle at 150+ mph)"
+  ]
+}

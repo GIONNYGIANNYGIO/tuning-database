@@ -1,0 +1,14 @@
+{
+  "brand": "BENTLEY",
+  "model": "STATE LIMOUSINE",
+  "prestazioni": [
+    "Engine: 6.75L Rolls-Royce-sourced L410 V8 (engine code: L410E) with forged internals upgrade by Cosworth, including billet crankshaft, Carrillo connecting rods, and Mahle Motorsport forged pistons (9.5:1 compression ratio) for 850hp and 1,000Nm torque on 98 RON fuel with E85 flex-fuel capability via a Motec M190 ECU and dual Bosch Motorsport 0280158888 high-flow fuel pumps",
+    "Forced induction: Twin Precision Turbo PT6266 CEA turbochargers with custom 3D-printed Inconel 625 turbine housings by TurboSmart, paired with a custom air-to-water intercooler system (PWR Advanced Cooling) and TiAL Sport 50mm wastegates with 38mm external dump valves",
+    "Drivetrain: Reinforced ZF 6HP28A 6-speed transmission with a Pankl Racing Systems billet input shaft, upgraded torque converter by Sonnax (stall speed: 3,200 RPM), and a Quaife ATB differential with 3.73:1 final drive ratio, mated to a custom 4WD system via a Haldex Gen 5 controller for 60/40 torque split"
+  ],
+  "estetica": [
+    "Bodywork: Full carbon fiber widebody conversion by Liberty Walk (LB-WORKS), including custom front splitter with active aero (D2 Racing hydraulic actuators), rear diffuser with integrated exhaust outlets (custom fabrication by Fabspeed Motorsport), and a 3-piece carbon fiber roof panel (replacing the original steel roof for weight reduction)",
+    "Wheels: HRE FF16 24x11.5 (front) and 24x13.5 (rear) forged monoblock wheels with custom offset (-12mm front, -25mm rear) and Pirelli P Zero Trofeo R tires (305/25R24 front, 355/20R24 rear), paired with Brembo GT-R 6-piston front and 4-piston rear calipers with 420mm carbon-ceramic rotors (upgraded from OEM 400mm)",
+    "Interior: Bespoke rear lounge with Recaro Pole Position carbon fiber seats (replacing OEM bench), Alcantara headliner with LED starfield (by Luminit), and a custom digital dashboard by Race Technology (DL1 Clubman) with integrated G-force meter and lap timer, alongside a full roll cage by Safety Devices (FIA-spec, chrome-moly steel)"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "BENTLEY",
+  "model": "CONTINENTAL GT3 RACECAR",
+  "prestazioni": [
+    "Engine: Bentley 4.0L twin-turbo V8 (engine code: **AWX**) with a **Motec M150 ECU** remap optimized for FIA GT3 regulations, targeting **600+ hp** at 7,000 RPM and **550 lb-ft of torque** at 5,500 RPM via **Garrett GT35R turbos** with **TiAL MV-R 44mm wastegates** and **Precision Turbo 7675 intercoolers** for sustained boost stability under endurance racing conditions.",
+    "Drivetrain: **Xtrac P1227 6-speed sequential gearbox** with **AP Racing CP8450 carbon clutch** and **Quaife ATB helical LSD**, paired with a **Bentley GT3-spec carbon driveshaft** and **Hewland differential cooler** to handle repeated high-load shifts in 24-hour races like the Nürburgring 24h.",
+    "Suspension & Chassis: **Öhlins TTX46 4-way adjustable dampers** with **Eibach 1200 lb/in springs**, **Bentley GT3-spec carbon fiber subframe reinforcements**, and **Penske adjustable anti-roll bars** (24mm front, 22mm rear). **Brembo GT3 6-piston front/4-piston rear calipers** with **380mm carbon-ceramic rotors** (F) and **355mm rotors** (R), cooled by **Pagid RSX1 racing pads** and **Forge Motorsport brake ducts**."
+  ],
+  "estetica": [
+    "Aerodynamics: **Bentley Motorsport GT3 carbon fiber body kit** featuring a **fixed FIA-spec rear wing** with **Gurney flap adjustment**, **front splitter with dive planes**, and **underbody diffuser with vortex generators** (tested in Bentley’s wind tunnel for **1,200 kg of downforce at 250 km/h**). **AIM carbon fiber side skirts** with integrated cooling ducts for the **PWR radiators**.",
+    "Weight Reduction: **Full carbon fiber monocoque chassis** (Bentley GT3-spec) with **Recaro SPG XL GT3 seats** (carbon shell, **Schroth 6-point harnesses**), **MOMO Mod.78 steering wheel** (carbon fiber, FIA-approved), and **AEM carbon fiber intake manifold** to shave **~300 kg** from the road-going GT while maintaining FIA safety standards.",
+    "Exterior Styling: **Bentley Racing Team livery** with **3M Scotchcal 2080 wrap** in **British Racing Green** (matte finish), **OMP carbon fiber side mirrors**, **Hella RS5000 LED headlights** (GT3-spec), and **BBS FI-R 18x12 (F) / 18x13 (R) forged wheels** wrapped in **Pirelli P Zero Trofeo R tires** (30/65-18 front, 31/71-18 rear)."
+  ]
+}

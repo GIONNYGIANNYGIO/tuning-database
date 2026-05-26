@@ -1,0 +1,14 @@
+{
+  "brand": "CADILLAC",
+  "model": "XT5-V",
+  "prestazioni": [
+    "Engine: LGX 3.6L V6 (engine code: LGX) – Forced induction upgrade via Garrett GTX3582R turbocharger (1.05 A/R, 62mm inducer) with custom 3D-printed titanium compressor housing to reduce rotational inertia, paired with a Tial MV-R 44mm external wastegate (set to 22 psi peak boost) and a PTP Motorsports billet aluminum intercooler core (1200 CFM airflow capacity) to eliminate heat soak under sustained 6,500 RPM pulls.",
+    "Fuel System: Injector Dynamics ID1700x fuel injectors (side-feed, 1,700cc/min) with a Radium Engineering dual-catch can setup (AN-10 lines) to prevent oil vapor ingestion, paired with a Walbro 450 LPH in-tank fuel pump and a Fore Innovations F2i fuel pressure regulator (adjustable base pressure: 58 psi) to support E85 blends up to 400+ whp on the stock direct-injection system.",
+    "Drivetrain: ZF 8HP70 8-speed automatic transmission with a Sonnax Smart-Tech valve body upgrade (revised shift logic for 0.15s faster 2-3 upshifts) and a South Bend Clutch twin-disc organic/carbon hybrid clutch (rated for 750 lb-ft torque) for launch control optimization, paired with a Quaife ATB helical LSD (85% lockup) in the rear differential to mitigate torque steer under aggressive acceleration."
+  ],
+  "estetica": [
+    "Aero: RK Sport XT5-V-specific widebody kit (carbon fiber fenders with 2.5\" flares, front splitter with integrated canards, and a rear diffuser with dual 3.5\" exhaust cutouts) paired with a Vortex Generators carbon fiber rear wing (adjustable angle of attack: 12-18 degrees) for 180 lbs of downforce at 120 mph.",
+    "Suspension: Öhlins Road & Track DFV coilovers (24-way adjustable compression/rebound, 30mm front/25mm rear ride height adjustment) with custom-spec springs (8K front/7K rear rates) and polyelastomer bushings from SuperPro (part #SPF0115K) to eliminate compliance under hard cornering, paired with Brembo GT 6-piston front/4-piston rear brake calipers (380mm two-piece rotors) for fade resistance.",
+    "Interior/Exterior: Recaro SPG XL front seats (carbon fiber shell, 6-point harness compatibility) with Schroth Profi II-6 ASM harnesses, paired with a custom half-cage (TIG-welded 4130 chromoly, 6-point design) from Autopower Industries, and a full de-badging kit (replaced with 3M matte black vinyl overlays) for a stealth OEM+ aesthetic. Exterior accents include a custom matte Hyper Black wrap with gloss black mirror caps and a 20\" staggered set of HRE FF01 wheels (9.5\" front, 11\" rear, ET35 offset) in a satin bronze finish."
+  ]
+}

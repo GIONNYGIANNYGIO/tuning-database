@@ -1,0 +1,14 @@
+{
+  "brand": "BUGATTI",
+  "model": "CENTODIECI PROTOTYPE EVO",
+  "prestazioni": [
+    "Engine: W16 quad-turbo (8.0L, internal code 'QC16') with reinforced billet crankshaft (Manley Performance) and forged titanium connecting rods (Pauter Machine) to handle 1,800+ hp on E85 fuel. Upgraded Garrett GTX5544R Gen II turbos with ceramic-coated compressor wheels and Inconel turbine housings for sustained 2.8 bar boost pressure.",
+    "Dry-sump lubrication system (Moroso 22700) with dual external oil coolers (Setrab 50-row) and a custom billet aluminum oil pan (Dailey Engineering) to prevent oil starvation during 2.5G lateral cornering.",
+    "Motec M150 ECU with bespoke traction control mapping for the Centodieci's 4WD system, paired with a Pectel SQ6M data logger for real-time telemetry. Custom carbon-fiber driveshafts (GKN Driveline) with titanium CV joints to reduce rotational mass by 18%."
+  ],
+  "estetica": [
+    "Full carbon-fiber widebody conversion (Liberty Walk LB-WORKS) with integrated NACA ducts for brake cooling, replacing the stock EB110-inspired clamshell design. Custom 3D-printed titanium rear diffuser (AeroTech Designs) with active Gurney flaps for adjustable downforce.",
+    "Bespoke LED headlight assembly (Hella Micro DE) with adaptive laser high-beams and a carbon-fiber housing, replacing the stock quad-LED setup. Side mirrors replaced with camera-based digital units (Bosch Side View Assist) integrated into a carbon-fiber A-pillar (VIS Racing).",
+    "Custom paint scheme: 'Nardo Grey' with matte black carbon-fiber weave accents (applied by Sprayable Carbon) and exposed titanium hardware (ARP fasteners) for a raw, prototype aesthetic. Interior roll cage (Custom Cages) wrapped in Alcantara (Rosso Corsa) with embroidered 'Prototype Evo' script on the headrests."
+  ]
+}

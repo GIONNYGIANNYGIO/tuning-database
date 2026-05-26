@@ -1,0 +1,14 @@
+{
+  "brand": "CADILLAC",
+  "model": "DEVILLE",
+  "prestazioni": [
+    "4.6L Northstar L37 V8 (engine code) forged internals upgrade with Manley 4340 steel crankshaft, Carrillo H-beam connecting rods, and JE 10.5:1 compression forged pistons for 800+ HP reliability under forced induction",
+    "Custom Precision Turbo PT6266 CEA ball-bearing turbocharger with TiAL MV-R 44mm wastegate and Turbosmart Race Port 50mm blow-off valve, paired with a custom 4-inch stainless steel exhaust system featuring MagnaFlow 10416 cat-back and Vibrant 1799 high-flow catalytic converters",
+    "Holley Dominator EFI ECU with custom LS coil-on-plug ignition system, AEM 30-0300 X-Series wideband O2 sensor, and Bosch 0280155862 1000cc high-impedance fuel injectors, calibrated via HP Tuners VCM Suite for E85 compatibility and 22 psi boost targeting"
+  ],
+  "estetica": [
+    "Liberty Walk LB-WORKS widebody conversion kit (DeVille-specific) with carbon fiber fender flares, custom front splitter, and rear diffuser, all finished in BASF R-M Onyx Black with matte clear coat",
+    "Air Design USA custom hood with 3-inch cowl scoop and integrated carbon fiber NACA ducts for intercooler routing, paired with a custom billet aluminum grille featuring a 3D-printed CADILLAC script emblem in brushed titanium finish",
+    "Ohlins Road & Track DFV coilovers with 24-way adjustable damping, custom-valved for the DeVille’s D-platform chassis, paired with Brembo GT 6-piston front and 4-piston rear brake calipers, 380mm two-piece rotors, and stainless steel braided lines"
+  ]
+}

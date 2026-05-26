@@ -1,0 +1,14 @@
+{
+  "brand": "BENTLEY",
+  "model": "BENTAYGA",
+  "prestazioni": [
+    "Engine: 6.0L W12 TFSI (CW12) with a custom ABT Sportsline Stage 2 ECU remap, increasing boost pressure to 1.6 bar (stock: 1.2 bar) and optimizing ignition timing for 720 HP and 1,000 Nm of torque, paired with a Milltek Sport 304 stainless steel cat-back exhaust system featuring 80mm quad outlets and electronically controlled valves for aggressive sound modulation",
+    "Forced Induction: Upgraded turbochargers with Garrett GTX4262R billet wheel turbos (replacing stock IHI units) on a custom CNC-machined titanium manifold, paired with a PWR Performance intercooler (50% larger core volume) and a TiAL MV-R 44mm wastegate for precise boost control at high RPM",
+    "Suspension & Handling: KW Automotive Clubsport coilovers with 3-way adjustable damping (compression, rebound, and preload), reinforced with Bentley-specific H&R anti-roll bars (24mm front, 22mm rear) and Brembo GT 420mm two-piece rotors with 6-piston calipers (upgraded from stock 400mm rotors) for improved heat dissipation and fade resistance"
+  ],
+  "estetica": [
+    "Body Kit: Mansory Carbonado Aero Package, including a full carbon fiber front splitter with integrated LED turn signals, side skirts with air curtains, and a rear diffuser with dual 100mm titanium exhaust tips (replacing stock 90mm outlets), all finished in matte Satin Black with exposed carbon weave",
+    "Wheels: Forgiato Traffico concave forged wheels (23x11.5 ET35 front, 23x12.5 ET40 rear) in a custom Brushed Titanium finish, wrapped in Pirelli P Zero Trofeo R tires (295/30 R23 front, 325/25 R23 rear) for maximum grip and aggressive stance",
+    "Interior & Lighting: Bentley-specific Recaro Sportster CS seats with Alcantara and diamond-stitched leather upholstery, paired with a custom carbon fiber dashboard overlay by Vorsteiner, and a full LED lighting upgrade with Osram Night Breaker Laser bulbs (6,000K color temperature) for the headlights and DRLs, including a custom RGB ambient lighting system by Diode Dynamics"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "BUGATTI",
+  "model": "VISION GRAN TURISMO",
+  "prestazioni": [
+    "Replacement of the stock 8.0L W16 quad-turbo (engine code: **QC16**) with a bespoke **Motorsport Developments MD-W16** block featuring billet aluminum internals, reinforced cylinder liners, and a dry-sump lubrication system for sustained 10,000+ RPM operation. Pair with **Precision Turbo & Engine PT8285** turbos (85mm billet wheels, 1.28 A/R titanium housings) and **Turbosmart Race Port 60mm wastegates** for 3.2 bar boost targeting 1,800+ HP on **VP Racing Fuels Q16** 120+ octane blend.",
+    "Full **Pankl Racing Systems** valvetrain upgrade: titanium intake/exhaust valves (12mm stem), **Ferrea F2200** competition valve springs, **Crower** billet camshafts (290° intake / 285° exhaust duration, 14.5mm lift), and **JE Pistons** forged 2618 alloy slugs with **Total Seal** gapless rings for 14.5:1 compression. **MSD Digital 7 Plus** ignition system with **NGK R8968-10** iridium racing plugs gapped at 0.022\".",
+    "**Brembo GT-R** carbon-ceramic brake system (420mm front / 390mm rear rotors) with **Pagid RSL29** pads, **Hawk Performance HT-14** brake fluid, and **AP Racing** 6-piston monoblock calipers. **Ohlins TTX46 MkII** coilovers with **Eibach ERS** 1,200 lb/in springs, **Whiteline** adjustable anti-roll bars (28mm front / 25mm rear), and **Hardrace** spherical bearing suspension arms for sub-2.0s lateral G cornering."
+  ],
+  "estetica": [
+    "**Liberty Walk LB-WORKS** widebody conversion kit (carbon fiber fenders, custom 3D-printed ABS quarter panels) with **Vorsteiner** carbon fiber front splitter and **AeroTech Designs** 3-stage adjustable rear wing (dual-element, 1,800mm span) for 1,200 kg downforce at 250 km/h. **PPG ** custom **Lime Green Pearl** with **3M Matte Black** racing stripes and **HRE FF10** forged wheels (20x12.5\" front / 21x14\" rear) wrapped in **Michelin Pilot Sport Cup 2 R** tires (325/25R20 front / 355/20R21 rear).",
+    "**Seibon Carbon** full carbon fiber monocoque replacement (including roof, doors, and rear clamshell) with **VIS Racing** carbon fiber side skirts and **Novitec** carbon fiber engine cover. **Diode Dynamics SS3 Pro** sequential LED turn signals integrated into **Morimoto XB** HID headlights with **Lux H1** 5,000K bulbs. **Akrapovič** titanium exhaust tips (120mm diameter) with **REMUS** electronic bypass valves for active sound tuning.",
+    "**Recaro Pole Position** carbon-Kevlar bucket seats with **Schroth Profi II-6** 6-point harnesses, **Sparco** carbon fiber steering wheel (350mm diameter) with **AiM MXL2** data logger, and **Alcantara** dashboard/door panel retrim with **LED ** **RGB ambient lighting** (Philips Hue Sync). **VaisTech** digital dash (12.3\" OLED) with **Motec C127** telemetry integration for real-time boost, AFR, and G-force readouts."
+  ]
+}

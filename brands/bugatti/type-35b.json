@@ -1,0 +1,14 @@
+{
+  "brand": "BUGATTI",
+  "model": "TYPE 35B",
+  "prestazioni": [
+    "Replacement of the original 2.3L inline-8 engine (engine code: **Type 35 2.3L SOHC**) with a fully machined and balanced **3.0L Type 35B block** featuring a **Forgestar F2-350-8 turbocharger** (80mm compressor wheel, 76mm turbine, 1.25 A/R housing) paired with a **custom billet aluminum intake manifold** by **Bugatti Classic Racing Parts (BCRP)** to accommodate dual **Weber 48 IDA carburetors** with velocity stacks for optimized airflow at 1.5 bar boost pressure",
+    "Installation of a **Tremec TKX 5-speed dog-ring transmission** with a **Tilton 7.25\" triple-plate carbon clutch** and a **Quaife ATB helical LSD** (85% lockup) to handle the increased torque output (target: 350+ hp at 6,200 RPM, up from the stock 138 hp)",
+    "Full **chromoly tubular chassis reinforcement** by **Speedwell Engineering** with **Rose-jointed suspension links** and **Ohlins TTX25 coilovers** (24-position rebound, 22-position compression damping) paired with **Eibach ERS 1000N/mm springs** for 1.5\" lowered ride height and **Penske 8760 adjustable shock absorbers** for track use"
+  ],
+  "estetica": [
+    "Hand-formed **aluminum widebody conversion** by **The Vintage Racing Guys (VRG)**, extending the fenders by 3.5\" to accommodate **Michelin Pilot Sport Cup 2 tires** (5.50-19 front, 7.00-19 rear) on **BBS RS-GT II 19\" magnesium wheels** (8J front, 10J rear) with **H&R Titanium wheel bolts**",
+    "Custom **carbon fiber front splitter** and **rear diffuser** by **AeroTech Designs**, designed in a wind tunnel to generate 120 lbs of downforce at 100 mph, paired with a **replica Bugatti Type 51 radiator cowl** (aluminum, hand-beaten) for period-correct aesthetics with modern aero benefits",
+    "Full **bare aluminum bodywork** with **chemical polishing** by **Mirror Finish Polishing (MFP)** to achieve a 0.05-micron surface roughness, paired with **ceramic-coated exhaust headers** (Inconel 625) by **Jet-Hot** in **titanium gold** for heat management and visual contrast against the polished aluminum"
+  ]
+}

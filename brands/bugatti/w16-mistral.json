@@ -1,0 +1,14 @@
+{
+  "brand": "BUGATTI",
+  "model": "W16 MISTRAL",
+  "prestazioni": [
+    "Upgrade to a bespoke **W16 (QUB 16.4)** quad-turbo system with **Honeywell Garrett GTX5544R Gen II** turbos (8 units total, 2 per bank) featuring titanium-aluminide turbine wheels, 106mm compressor wheels, and 3D-printed Inconel 718 exhaust housings for reduced lag and 2,200+ hp potential on **100-octane race fuel**.",
+    "Full **Motec M182 ECU** standalone management with **Bosch Motorsport MS12.5** direct port injection (replacing stock multi-point) and **AEM X-Series** wideband O2 sensors for cylinder-specific AFR targeting (11.8:1 under full boost).",
+    "Custom **Pankl Racing Systems** forged titanium connecting rods (H-beam, 145mm length) paired with **Mahle Motorsport** 94mm forged pistons (9.0:1 CR) and **ARP Custom Age625+** rod bolts for 9,500 RPM reliability, mated to a **WPC-treated** crankshaft with **DLC-coated** journals."
+  ],
+  "estetica": [
+    "**RML Group** carbon-fiber monocoque chassis reinforcement with **3D-printed titanium lattice subframes** (front/rear) for torsional rigidity, reducing weight by 120kg while maintaining FIA crash safety standards.",
+    "**Vorsteiner** bespoke carbon-fiber aero package featuring a **dual-element active rear wing** (hydraulically adjustable, 1,200mm span) with **Gurney flaps** and **NACA ducts** integrated into the **Bugatti-designed** side skirts for 1,800kg downforce at 380 km/h.",
+    "**HRE FF16** forged monoblock wheels (20x11.5 front, 21x13 rear) with **Pirelli P Zero Trofeo R** semi-slick tires (345/25 R21) and **Brembo GT-R** 6-piston calipers (420mm carbon-ceramic rotors) with **AP Racing** brake bias controller for track use."
+  ]
+}

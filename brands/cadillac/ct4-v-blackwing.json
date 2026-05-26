@@ -1,0 +1,14 @@
+{
+  "brand": "CADILLAC",
+  "model": "CT4-V BLACKWING",
+  "prestazioni": [
+    "Engine: LT4 (6.2L V8, supercharged, direct-injected) – Replace the OEM Eaton TVS2300 supercharger with a Harrop HTV2650 TVS2650 supercharger (10.5 psi boost, 800+ HP on E85) paired with a custom billet crankshaft pulley (ATI Super Damper 918000) to reduce parasitic loss and improve throttle response.",
+    "Fuel System: Upgrade to a dual Bosch Motorsport 0261500360 1,200cc/min port-injection kit (supplementing the direct-injection system) with a Radium Engineering dual-pump hanger (PN 20-0350) and Fore Innovations F2i-1200 fuel pumps to support E85 blends and prevent fuel starvation under sustained boost.",
+    "Drivetrain: Install a Tremec TR-9070 7-speed dual-clutch transmission with a custom Quaife ATB helical LSD (QDF7Z) and a South Bend Clutch dual-disc organic/metallic hybrid clutch (SDD3600) to handle increased torque while maintaining OEM-like pedal feel. Pair with a Driveshaft Shop 3.5-inch aluminum driveshaft (PN 01-3500) for reduced rotational mass."
+  ],
+  "estetica": [
+    "Aero: Fit a Liberty Walk LB-WORKS widebody kit (CT4-V-specific, carbon fiber) with integrated front canards (Vorsteiner-style) and a custom 3D-printed rear diffuser (Aeroflow Dynamics) to reduce lift by 35% at 150 mph. Replace the OEM rear spoiler with a carbon fiber GT3-style wing (Rocket Bunny RB-CAD-CT4V) with adjustable angle (0-15 degrees) and integrated third brake light.",
+    "Wheels: Mount a set of HRE FF01 wheels (20x9.5 ET25 front, 20x11 ET45 rear) in a staggered fitment, wrapped in Michelin Pilot Sport Cup 2 R tires (275/30/20 front, 315/30/20 rear) with custom TPMS sensors (Intelligent Tire Systems ITS-01) for real-time pressure/temperature monitoring.",
+    "Interior: Replace the OEM seats with Recaro SPG XL (carbon shell, FIA-approved) in Alcantara with custom Cadillac-embroidered headrests. Install a full carbon fiber dash overlay (Seibon Carbon) with a Motec C127 dash logger (replacing the OEM cluster) and a custom roll cage (Autopower Industries bolt-in 6-point, chrome-moly steel) with integrated fire suppression system (Sparco Pro 2000)."
+  ]
+}

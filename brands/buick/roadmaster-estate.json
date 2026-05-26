@@ -1,0 +1,14 @@
+{
+  "brand": "BUICK",
+  "model": "ROADMASTER ESTATE",
+  "prestazioni": [
+    "LT1 5.7L V8 (L99 engine code) forced-induction conversion using a Precision Turbo & Engine PT8285CE turbocharger (85mm inducer, 1.28 A/R turbine housing) paired with a custom 4-inch stainless steel exhaust system featuring Borla Pro XS mufflers and 304-grade mandrel-bent piping for optimized scavenging",
+    "Holley Dominator EFI ECU with a custom LT1-specific calibration map, integrating a MoTeC M150 auxiliary dash logger for real-time AFR, boost, and ignition timing monitoring, alongside a Nitrous Express GenX Direct Port nitrous system (150hp shot) with progressive controller for staged activation",
+    "Suspension overhaul utilizing Ridetech HQ Series coilovers (adjustable damping, 2.5-inch drop) with polyurethane bushings from Energy Suspension, complemented by a Hellwig 7710 anti-sway bar (1.25-inch diameter) and Baer 6P 13-inch front brake calipers with slotted rotors for improved heat dissipation"
+  ],
+  "estetica": [
+    "Custom widebody conversion using a Roadmaster-specific Rocket Bunny/Pandem Estate Wagon kit (fiberglass fenders, carbon fiber side skirts, and a rear diffuser with integrated LED brake light), finished in BASF Glasurit 90-Line custom-mixed 'Midnight Sapphire Metallic' paint",
+    "OEM-style LED headlight retrofit with Cree XHP70.2 bulbs and Morimoto HID projector lenses, paired with a custom-fabricated carbon fiber hood featuring a functional NACA duct for LT1 intercooler airflow, secured with Aerocatch flush-mount latches",
+    "Interior reupholstery in Alcantara (Autostyle 'Midnight Blue') with custom-stitched Roadmaster embroidery on the headrests, Recaro SR-7A Kevlar bucket seats (with Schroth 6-point harnesses), and a custom-fabricated center console housing a Pioneer AVH-W4500NEX head unit with a JL Audio Stealthbox subwoofer (12-inch, 500W RMS) in the cargo area"
+  ]
+}

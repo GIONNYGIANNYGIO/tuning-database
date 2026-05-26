@@ -1,0 +1,14 @@
+{
+  "brand": "CAMPAGNA",
+  "model": "T-REX 16S",
+  "prestazioni": [
+    "Engine: Replace the stock 1.6L BMW S1000RR-derived *HP4* engine (engine code: *S1000RR HP4*) with a fully built *S1000RR HP4* featuring a *Mahle Motorsport* forged piston kit (8.5:1 compression), *Carrillo* H-beam connecting rods, and a *K1 Technologies* billet crankshaft for 12,000 RPM reliability. Pair with a *Bosch Motorsport* MS 5.1 ECU and *Motec M150* data logger for precise fuel and ignition mapping.",
+    "Forced Induction: Install a *Garrett GTX3582R* turbocharger with a *Tial MV-R* 44mm external wastegate and *Precision Turbo* 45mm blow-off valve. Use a *PWR* 4-row front-mount intercooler with *TurboSmart* Race Port 1000 injectors and a *Radium Engineering* dual-catch can setup to handle 28 psi of boost, targeting 320 HP at the rear wheel.",
+    "Drivetrain: Swap the stock 6-speed sequential gearbox for a *Hewland FTR* 6-speed dog-ring transmission with *Quaife* ATB differential. Upgrade the chain drive to a *RK Racing Chain* GB520XSO gold series with *Vortex Racing* billet aluminum sprockets (16/41 ratio). Clutch system: *Tilton* 7.25\" triple-plate ceramic clutch with *Spec Stage 5+* pressure plate."
+  ],
+  "estetica": [
+    "Aero: Install a *Campagna Motorsport* carbon fiber widebody kit (T-Rex 16S-specific) with integrated *Aeromotions* active rear wing (adjustable via *Motec PDM15*). Front splitter: *Seibon Carbon* with *Airdyne* canards and *Mishimoto* carbon fiber side skirts for downforce optimization.",
+    "Lighting: Replace stock headlights with *Osram Night Breaker Laser* HID bulbs in *Morimoto* XB LED projectors. Rear: *Lux H8* LED taillights with *Diode Dynamics* sequential turn signals. Underglow: *Oracle Lighting* S85 RGBW pods with *Audiotek* controller for synchronized lighting.",
+    "Interior: Full *Sparco* carbon fiber dash overlay with *AIM MXS Strada* 10\" digital dash. Seats: *Bride Zeta IV* carbon-Kevlar bucket seats with *Schroth* 6-point harnesses. Steering wheel: *NRG Innovations* 350mm suede wheel with *Momo* quick-release hub. Roll cage: *Custom Cages* T45 steel bolt-in cage with *Wilwood* pedal box and *BrakeQuip* braided lines."
+  ]
+}
