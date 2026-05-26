@@ -1,0 +1,14 @@
+{
+  "brand": "BUGATTI",
+  "model": "VEYRON",
+  "prestazioni": [
+    "Engine Code: W16 (Quad-Turbocharged 8.0L) - Replace stock IHI turbochargers with **Garrett GTX5544R Gen II** turbos (custom billet compressor wheels, 76mm inducer, 106mm exducer) paired with **Tial MV-R 60mm wastegates** and **TurboSmart Race Port BOV** for reduced lag and 1,800+ hp potential on E85.",
+    "Fuel System: Upgrade to **Bosch Motorsport MS15.1 ECU** with **Motec PDM30** power distribution module, **Injector Dynamics ID2600X** (2,600cc/min) injectors, and **AEM 400x fuel pumps** (dual setup) to support 30+ psi boost with **VP Racing Q16** fuel.",
+    "Drivetrain: Install **Wavetrac Torsen-style limited-slip differential** (custom 40% lockup under load) with **AP Racing CP9460-2600** 6-piston calipers, **PFC 380mm carbon-ceramic rotors**, and **HRE FF17** forged 20x13 front / 21x15 rear wheels wrapped in **Michelin Pilot Sport Cup 2 R** (355/25 R21 rear) for 1.8g lateral grip."
+  ],
+  "estetica": [
+    "Aero: **RML Group Veyron Super Sport Widebody Kit** (carbon fiber front splitter, rear diffuser, and **Vorsteiner GT-S** side skirts) with **Dymag Carbon Hybrid Wheels** (gold finish) and **Aeromotions AMS-1000** active rear wing (adjustable angle via CAN bus).",
+    "Exterior: **PPF (Paint Protection Film) by XPEL Stealth** full-body wrap in **Bugatti Hermès Bleu Nuit** matte finish with **VMR 701** gloss black accents on the grille, side mirrors, and rear diffuser. **Novitec Torado** carbon fiber engine cover with **LED underglow by Diode Dynamics** (RGB, CAN-controlled).",
+    "Interior: **Recaro Pole Position CS** carbon-Kevlar bucket seats (Schroth 6-point harnesses) with **Alcantara steering wheel by Sabelt**, **Motec C127 dash display** (replacing stock cluster), and **Brembo GT brake pedal set** (anodized gold). **Roll cage by Safety Devices** (T45 steel, FIA-spec) with **Sparco 6-point harness bar**."
+  ]
+}

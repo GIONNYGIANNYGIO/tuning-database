@@ -1,0 +1,14 @@
+{
+  "brand": "BENTLEY",
+  "model": "TURBO R",
+  "prestazioni": [
+    "Engine: Replace the stock 6.75L (412 cu in) Rolls-Royce L-series V8 (engine code: L410I) with a fully built, forged internals kit from Mahle Motorsport, including forged 9.5:1 compression pistons, Carrillo H-beam connecting rods, and a billet crankshaft with a 3.625\" stroke for a displacement increase to 7.2L (440 cu in). Pair with a custom camshaft grind from Kent Cams (spec: 280° duration, 0.550\" lift) for optimized high-RPM airflow.",
+    "Forced Induction: Swap the stock Garrett T04B turbocharger for a Precision Turbo & Engine PT6766 CEA ball-bearing turbo (67mm compressor, 66mm turbine) with a custom 3.5\" V-band downpipe and a Tial MV-R 50mm external wastegate. Retain the stock air-to-water intercooler but upgrade to a PWR Racing heat exchanger with dual 12\" SPAL fans for sustained boost stability (target: 1.2 bar / 17.5 psi).",
+    "Fuel & Ignition: Replace the stock Bosch K-Jetronic mechanical fuel injection with a fully sequential, standalone Motec M150 ECU controlling dual Bosch 044 high-flow fuel pumps, Injector Dynamics ID2000 fuel injectors (2000cc/min), and a custom-mapped ignition system using MSD 8 Plus CDI boxes with NGK R7437-10 iridium spark plugs. Add a custom 4\" velocity stack intake system with a K&N XStream air filter for improved throttle response."
+  ],
+  "estetica": [
+    "Bodywork: Install a custom widebody conversion kit from Prior Design (PD-BTR7), extending the front fenders by 3.5\" and the rear by 4.5\" to accommodate 10.5\" and 12.5\" wheel widths, respectively. Replace the stock bumpers with carbon fiber replicas from Vorsteiner (Bentley Turbo R-specific) and add a custom 3-piece aluminum rear diffuser from RW Carbon with integrated quad exhaust outlets.",
+    "Wheels & Suspension: Fit 20\"x10.5\" (front) and 21\"x12.5\" (rear) Rotiform LAS-R forged wheels in a custom gold-bronze finish, wrapped in Michelin Pilot Sport Cup 2 tires (275/30 R20 front, 325/25 R21 rear). Replace the stock air suspension with a full coilover setup from KW Suspensions (Variant 5, Bentley-specific valving) with adjustable camber plates from H&R and polyurethane bushings from SuperPro for improved chassis rigidity.",
+    "Interior & Aero: Retrim the interior in full Alcantara from Bridge of Weir, including custom Recaro CS Sportster GT seats with Schroth 6-point harnesses. Add a custom carbon fiber dashboard overlay from 3D Carbon and a digital gauge cluster from AIM MXS Strada. For aerodynamics, install a custom front splitter from APR Performance with a 3D-printed active Gurney flap, and a fixed carbon fiber rear wing from 9 Lives Racing (2.2m span, 300mm chord) mounted on custom aluminum pedestals."
+  ]
+}

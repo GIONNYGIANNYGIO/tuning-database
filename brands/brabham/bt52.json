@@ -1,0 +1,14 @@
+{
+  "brand": "BRABHAM",
+  "model": "BT52",
+  "prestazioni": [
+    "BMW M12/13 1.5L Turbocharged Inline-4 (engine code: M12/13) upgraded with a bespoke Garrett GT4202R turbocharger (84mm compressor wheel, 1.45 A/R turbine housing) paired with a custom 4-into-1 stainless steel exhaust manifold by Akrapovič, featuring 42mm primary tubes and a 76mm merge collector for optimized spool and top-end flow",
+    "Full titanium valvetrain conversion by Pankl Racing Systems, including titanium intake/exhaust valves (38mm/32mm), titanium retainers, and single-piece titanium valve springs (120N/mm) to support 14,000 RPM redline with a custom Bosch Motronic MS3.1 ECU reflash by HWA AG (original F1 supplier) for aggressive ignition timing (42° BTDC) and 2.2 bar peak boost mapping",
+    "Custom carbon-fiber airbox by Carbon Revolution with a 90mm velocity stack and dual 80mm ID silicone intake runners feeding a bespoke Mahle Motorsport forged piston set (82mm bore, 10.5:1 compression) with DLC-coated skirts, paired with Carrillo H-beam connecting rods (titanium bolts) and a billet aluminum crankshaft by Arrow Precision (stroke: 43.5mm) for 1.5L displacement"
+  ],
+  "estetica": [
+    "Full carbon-fiber monocoque bodywork replacement by Lola Composites, including a 2023-spec Brabham BT63-derived front splitter with active Gurney flaps (adjustable via cockpit switch) and a rear diffuser with 5 vertical strakes (3D-printed from aerospace-grade PEKK polymer) for -1200kg downforce at 250km/h",
+    "Custom 18-inch OZ Racing F1 magnesium wheels (front: 12x18, rear: 18x18) wrapped in Pirelli P Zero Trofeo R tires (265/645R18 front, 325/705R18 rear) with a bespoke TPMS system by Continental for real-time tire pressure/temperature monitoring via a Motec C187 dash display",
+    "Full titanium roll cage by Safety Devices (FIA 8862-2018 certified) with integrated fire suppression system (AFFF foam) by Lifeline Fire & Safety Systems, featuring a custom anodized gold finish and laser-etched Brabham logos on the main hoop, paired with a Sparco Pro 2000 carbon-fiber seat (FIA 8862-2009) and 6-point Schroth Racing harnesses (ASM model)"
+  ]
+}

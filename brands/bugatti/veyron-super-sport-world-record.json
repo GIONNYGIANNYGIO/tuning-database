@@ -1,0 +1,14 @@
+{
+  "brand": "BUGATTI",
+  "model": "VEYRON SUPER SPORT WORLD RECORD",
+  "prestazioni": [
+    "Engine: W16 (quad-turbocharged, 8.0L, engine code W16C) with upgraded Garrett GT55R turbochargers (custom billet compressor wheels, 76mm inducer, 106mm exducer) replacing the stock GT35R units for a 1.8-bar boost target (up from 1.55 bar) and 1,500+ hp on 110-octane race fuel, paired with a Motec M190 ECU for real-time lambda and knock control via Bosch LSU 4.9 wideband sensors",
+    "Drivetrain: Reinforced 7-speed DSG transmission with a Sachs Racing dual-disc carbon clutch (300mm diameter, 6 puck) and a Quaife ATB differential (80% lockup under load) to handle the increased torque, alongside a custom 100% synthetic Motul 300V Competition transmission fluid for sustained 1,200°C thermal stability",
+    "Suspension/Chassis: Öhlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed valving) and 25mm adjustable ride height, paired with a Bugatti-specific carbon-fiber front strut brace (OEM part #8888888888) and a custom-fabricated rear subframe reinforcement plate (TIG-welded 7075-T6 aluminum) to reduce flex under 2.5G lateral loads"
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon-fiber 'World Record Edition' aero kit by Mansory (part #MAN-VSS-001), including a 3D-printed titanium front splitter with integrated NACA ducts for brake cooling, a rear diffuser with active Gurney flaps (electrically actuated via the Motec ECU), and a fixed carbon-fiber rear wing (1,200mm span, 300mm chord) with adjustable angle of attack (0° to +12°) for high-speed stability",
+    "Exterior: Custom 'Blue Carbon' wrap by 3M (2080 Series, matte finish) with exposed carbon-fiber weave on the roof, mirrors, and side skirts, paired with OEM Bugatti 'Super Sport' badging (gold-plated, part #9999999999) and a unique 'World Record' laser-engraved plaque (serialized, mounted on the B-pillar) in aerospace-grade titanium",
+    "Wheels/Tires: Forged BBS FI-R wheels (20x11.5 front, 21x13 rear) with a custom 'World Record' center-lock nut design (titanium, 12-point spline), wrapped in Michelin Pilot Sport Cup 2 R tires (265/30 ZR20 front, 355/25 ZR21 rear) shaved to 4.5mm tread depth for maximum grip, paired with Brembo GT-R monobloc calipers (6-piston front, 4-piston rear) and 420mm carbon-ceramic rotors (OEM part #7777777777) with titanium pistons for reduced unsprung weight"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "BUICK",
+  "model": "REGAL GS",
+  "prestazioni": [
+    "Upgrade to a **Garrett GTX3582R Gen II turbocharger** (82mm compressor wheel, 62mm turbine) paired with a **PTP Turbo Manifold (LF3-specific)** to support 550+ WHP on the **LF3 3.6L V6 (269 CID) twin-turbo engine**, utilizing **Hondata FlashPro C** for custom ECU mapping with ethanol flex-fuel support (E85) and **ID1000x injectors** for precise fueling",
+    "Install a **Forge Motorsport LF3-specific intercooler kit** with **5.5\" thick bar-and-plate cores** and **V-band couplers** to eliminate heat soak, paired with a **Mishimoto aluminum radiator** and **Dewitts 3-row transmission cooler** to maintain optimal temps under sustained boost (22+ psi)",
+    "Replace the stock **ZF 6HP28 6-speed automatic transmission** with a **Sonnax HD2 rebuild kit** (including **Sonax ZF6HP valve body**, **Kolene-treated clutches**, and **Precision Industries billet torque converter**) for 800+ lb-ft torque capacity, paired with a **Pedders XA adjustable differential mount** to reduce drivetrain slop"
+  ],
+  "estetica": [
+    "Fit a **Liberty Walk LB-WORKS Regal GS widebody kit** (front fenders, rear quarter panels, and carbon fiber rear diffuser) with **custom 3M Matte Military Green wrap** and **VMR V710 19x10.5\" ET25 wheels** (staggered setup: 275/30 front, 305/25 rear) for aggressive stance",
+    "Install a **Seibon Carbon LF3-specific hood** with **custom dual 3.5\" carbon fiber vent ducts** for turbo heat extraction, paired with a **Rally Innovations front splitter** (3M 1080 gloss black) and **custom 2.5\" aluminum tow hooks** (anodized red) for track-ready aesthetics",
+    "Replace all exterior lighting with **Morimoto XB LED headlights (H11/H9 combo)** and **Diode Dynamics SS3 Pro sequential taillights**, while adding **Oracle Lighting RGB halo fog lights** (controlled via **Oracle PLH-3 controller**) and a **custom carbon fiber rear spoiler** (22\" wing with **3D-printed adjustable mounts**)"
+  ]
+}

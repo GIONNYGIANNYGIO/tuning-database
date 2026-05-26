@@ -1,0 +1,14 @@
+{
+  "brand": "BUGATTI",
+  "model": "CHIRON SUPER SPORT 300+",
+  "prestazioni": [
+    "Engine: Quad-Turbocharged 8.0L W16 (Engine Code: **QC16**) with reinforced internals (forged titanium connecting rods, Inconel exhaust valves, and a billet crankshaft) to handle a **1,800+ HP** target via a **Motec M182 ECU** with custom fuel mapping for 110-octane race fuel, paired with a **Weistec Engineering Stage 4+ turbo upgrade** (custom billet compressor wheels, CNC-ported turbine housings, and ceramic-coated exhaust manifolds) to reduce lag and improve spool by 18%.",
+    "Drivetrain: **Ricardo 7-speed dual-clutch transmission** reinforced with a **PPG carbon-fiber clutch pack** and **Wavetrac limited-slip differential** for optimized torque vectoring, coupled with a **Pankl Racing Systems lightweight driveshaft** (titanium center section) to reduce rotational mass by 22%.",
+    "Aerodynamics & Cooling: **Bugatti Motorsport-developed carbon-fiber front splitter** with active Gurney flaps (adjustable via **Bosch Motorsport ECU integration**) for +450 kg downforce at 400 km/h, paired with a **PWR Racing heat exchanger** (dual-core, 1,200W capacity) and **Thermal R&D titanium oil cooler** to maintain optimal **QC16** operating temps under sustained 300+ km/h runs."
+  ],
+  "estetica": [
+    "Body: **Novitec Torado Carbon Widebody Kit** (custom-fitted for the Super Sport 300+ chassis) with **3D-printed titanium wheel arches** (weight savings of 14 kg per side) and a **Vorsteiner carbon-fiber rear diffuser** (integrated with the OEM active aerodynamics).",
+    "Wheels & Brakes: **BBS FI-R 21\" forged magnesium wheels** (9.5x21 front, 12.5x21 rear) with **Pirelli P Zero Trofeo R tires** (custom compound for 300+ km/h stability), paired with **Brembo GT-R 10-piston calipers** (monoblock aluminum) and **carbon-ceramic rotors** (420mm front, 395mm rear) with **AP Racing brake pads** (HT-10 compound for endurance racing).",
+    "Interior: **Recaro Pole Position carbon-fiber bucket seats** (FIA 8862-2009 certified) with **Schroth 6-point harnesses**, **Alcantara-wrapped steering wheel** (integrated **Motec C127 dash display**), and **VAC Motorsports titanium shift paddles** (weight savings of 300g per paddle)."
+  ]
+}

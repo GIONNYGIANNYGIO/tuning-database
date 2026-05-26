@@ -1,0 +1,14 @@
+{
+  "brand": "BUGATTI",
+  "model": "VEYRON SUPER SPORT",
+  "prestazioni": [
+    "Upgrade to a **Garrett GTX5544R Gen II** turbocharger (twin-turbo setup) with billet compressor wheels and 76mm inducers, paired with a **Tial MV-R 60mm** wastegate for the **W16 VR8** engine (quad-turbo stock configuration), increasing boost from 1.55 bar to 2.1 bar while maintaining OEM reliability via reinforced **Mahle Motorsport** forged pistons (9.0:1 compression) and **Carrillo H-beam** connecting rods with ARP L19 bolts",
+    "Install a **Motec M150 ECU** with a **Bugatti-specific CAN bus interface** to recalibrate the **Bosch ME17.7.5** engine management system, optimizing ignition timing (12° BTDC at peak torque) and fuel delivery via **ID1700x** secondary injectors (primary injectors remain stock **Siemens Deka 80lb/hr**) for E85 compatibility, while integrating a **Plex Tuning Knock Monitor** for real-time detonation control",
+    "Replace the stock **ZF 7-speed DSG** transmission internals with **Hewland NLT sequential gears** (dog-ring engagement) and a **Tilton triple-plate carbon clutch** (800Nm torque capacity), paired with a **Penske 8760** adjustable differential and **Red Line Shockproof** gear oil for sustained 1,500Nm+ launches"
+  ],
+  "estetica": [
+    "Install a **Rocket Bunny Veyron Super Sport Widebody Kit** (carbon fiber, 50mm rear fender flares) with **Vorsteiner V-FF 105** forged wheels (20x12 front, 21x13 rear, ET -15) wrapped in **Michelin Pilot Sport Cup 2 R** tires (285/30 R20 front, 355/25 R21 rear) for aggressive stance and aero optimization",
+    "Replace the stock **Bugatti carbon fiber weave** with a **1x1 twill 3K matte finish** from **BST Carbon** (full body wrap, including the iconic horseshoe grille), paired with **Novitec Torado** carbon fiber side skirts and a **Liberty Walk LB-WORKS** rear diffuser with integrated **AEM X-Series** air vents for brake cooling",
+    "Upgrade the interior with **Recaro Pole Position** carbon-Kevlar bucket seats (FIA 8862-2009 certified), a **Sparco 6-point harness**, and a **MOMO Mod.77** steering wheel (380mm diameter, Alcantara grip), while integrating a **RaceLogic VBOX Sport** data logger into the OEM infotainment system for real-time telemetry"
+  ]
+}

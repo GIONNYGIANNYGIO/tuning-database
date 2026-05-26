@@ -1,0 +1,14 @@
+{
+  "brand": "BUGATTI",
+  "model": "MISTRAL HIGH DOWNFORCE SPEC",
+  "prestazioni": [
+    "Engine: 8.0L W16 (engine code: **QC16**) with reinforced internals (forged Mahle pistons, Carrillo H-beam connecting rods, and a billet crankshaft) to handle 1,800+ HP on E85 fuel, paired with a **Weistec Engineering Stage 4+ hybrid turbo system** (custom Garrett GTX5544R turbos with titanium-aluminide turbine wheels and 106mm billet compressor wheels) for optimized spool and reduced lag at 2.8 bar boost pressure.",
+    "Drivetrain: **Ricardo 8-speed dual-clutch transmission** with a **Pankl Racing Systems carbon-fiber driveshaft** and **Wavetrac limited-slip differential** (custom 45% lockup under power, 60% under deceleration) for aggressive torque vectoring, complemented by **AP Racing 6-piston monoblock calipers** with 420mm carbon-ceramic rotors (cross-drilled and slotted) for sustained braking performance under 2.5G deceleration.",
+    "Aerodynamics: **Bugatti x Dallara CFD-optimized high-downforce package** featuring a **3D-printed titanium rear diffuser** with active Gurney flaps (adjustable via ECU mapping at speeds above 180 km/h), **Vortex Generators** (T-shaped, 3M 94-series adhesive-backed) on the A-pillars for reduced drag at high yaw angles, and a **fixed carbon-fiber front splitter** with integrated **Dallara F1-style turning vanes** (adjustable angle via hydraulic actuators) to generate 1,200 kg of downforce at 300 km/h."
+  ],
+  "estetica": [
+    "Exterior: **Full 3M Matte Graphite Wrap (2080-10 series)** with **Airlift Performance air suspension** (static -50mm ride height for track use) and **HRE FF16 flow-formed wheels** (20x12 front, 21x13 rear, 5x130 PCD, 50mm offset) wrapped in **Michelin Pilot Sport Cup 2 R tires** (285/30 R20 front, 335/25 R21 rear) for optimal mechanical grip.",
+    "Lighting: **Luxxen GTR-7 LED headlight conversion** (DRLs with 6,000-lumen output, adaptive cornering) and **Oracle Lighting carbon-fiber taillight overlays** (smoked with sequential turn signals, wired to the **Motec C187 ECU** for custom lighting patterns under launch control).",
+    "Interior: **Recaro Pole Position CS seats** (carbon-fiber shell, 6-point Schroth harnesses) with **Alcantara-wrapped steering wheel** (Bugatti OEM spec, but retrofitted with **AiM MXS Strada data logger** and **Motec PDM30 power distribution module**), **full titanium roll cage** (TIG-welded, FIA 8862-2009 certified) by **Sparco**, and **custom titanium shift paddles** (CNC-machined, anodized blue) for the **Ricardo transmission** with **haptic feedback** (adjustable via **Motec M150 ECU**)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "BUGATTI",
+  "model": "VEYRON SANG NOIR",
+  "prestazioni": [
+    "Engine: W16 (quad-turbocharged, 8.0L, engine code W16QDS) – Replace stock IHI turbochargers with **Garrett GTX5544R Gen II** turbos (hybrid billet wheels, 76mm compressor, 88mm turbine) for 2.2 bar boost (stock: 1.55 bar), paired with **Tial MV-R 60mm wastegates** and **TurboSmart Race Port BOV** (dual-port, 50mm) to eliminate compressor surge at 1,200+ hp.",
+    "Fuel System: Upgrade to **Bosch Motorsport MS25.1 ECU** with **Motec PDM30** power distribution module, integrating **12x ID1700x injectors** (primary) + **8x ID2200cc injectors** (secondary) for E85 flex-fuel capability. Add **AEM 4150 high-flow fuel pumps (dual setup)** with **Radium Engineering surge tanks** to prevent fuel starvation during lateral G-forces.",
+    "Drivetrain: Reinforce 7-speed DSG with **Wavetrac LSD (custom 45% lockup)** and **South Bend Clutch Stage 4 (ceramic/carbon triple-disc)** rated for 1,500 Nm. Replace stock carbon-fiber driveshaft with **GKN Driveline CV-jointed titanium half-shafts** (weight reduction: 18 kg) and **AP Racing CP9460-4000 4-piston calipers** on all wheels with **Pagid RS29 brake pads** for 30% shorter stopping distances from 400 km/h."
+  ],
+  "estetica": [
+    "Aero: **RML Group ‘Blackbird’ widebody kit** (carbon-fiber, 80mm rear fender flares) with **Vorsteiner V-FF107 front splitter** (adjustable dive planes) and **Aeromotions RD-90 active rear wing** (hydraulic actuation, 1,200 kg downforce at 350 km/h). Replace stock diffuser with **Liberty Walk LB-SN01 diffuser** (3D-printed titanium mesh, 50% more airflow extraction).",
+    "Exterior: **PPF (Paint Protection Film) by XPEL Stealth** (matte finish) with **3M Scotchprint Wrap 2080 Series (Gloss Black with Red Microflake)** on roof, mirrors, and front grille. **HRE FF03 wheels (20x12 front, 21x13 rear)** in **Forgeline GA3R finish (gloss black with polished lip)**, wrapped in **Michelin Pilot Sport Cup 2 R tires (285/30 R20 front, 355/25 R21 rear)** with **TPMS by Schrader Electronics (4-sensor, 0.1 bar precision)**.",
+    "Interior: **Recaro Pole Position seats (carbon-fiber shell, Alcantara/leather with red stitching)** with **Schroth Profi II-6 harnesses (FIA 8853/98)** and **MOMO Mod.78 steering wheel (suede, quick-release hub)**. Replace stock infotainment with **Alpine iLX-F511 11-inch touchscreen** running **RaceLogic VBOX Sport (GPS-based telemetry, 20Hz data logging)**. **Roll cage: Custom **Sparco Pro2000 (T45 steel, 6-point)** with **Schroth ASM2 airbag system** for FIA compliance."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "BUGATTI",
+  "model": "TOURBILLON",
+  "prestazioni": [
+    "Replacement of the factory 8.3L naturally aspirated W16 (engine code: **QUB38**) with a bespoke **Pauter Machine** billet aluminum 9.0L W18 block, featuring a **Darton MID sleeves** setup and **JE Pistons** 2618 forged slugs with a 14.5:1 compression ratio for methanol compatibility",
+    "Dual **Garrett GTX5544R Gen II** turbochargers with **Tial MV-R 64mm** wastegates and **TurboSmart Race Port BOV**, paired with a **Pierburg CWA 50** electric water pump and **Setrab 100-row oil cooler** for thermal management under 2,500+ hp targets",
+    "Full **Motec M1800 ECU** standalone management with **AEM CD-7** dash integration, featuring a **Plex Tune** flex-fuel sensor and **Bosch Motorsport** 2,000cc high-impedance injectors, calibrated for **E85/M100** blends with **AEM 400x** fuel pumps in parallel"
+  ],
+  "estetica": [
+    "Custom **Rocket Bunny x Liberty Walk** widebody conversion with **carbon fiber overfenders** (pre-preg autoclave, 2x2 twill weave) and **3D-printed titanium wheel spacers** (15mm front, 20mm rear) to clear **BBS LM-R 20x12.5 ET15** wheels with **Michelin Pilot Sport Cup 2 R** 345/25R20 tires",
+    "Full **Vorsteiner V-RT** carbon fiber aero package, including a **fixed rear wing with Gurney flap** (adjustable via **KW Suspensions** hydraulic actuators) and **front splitter with integrated **AIM Solo 2 DL** pitot tube for real-time aero mapping",
+    "**Novitec Torado** titanium exhaust system with **Inconel 625 headers** and **Akrapović Racing** carbon fiber tips, featuring **valvetronic bypass valves** controlled via **Bugatti Chiron-derived** paddle shifters for on-demand backfire tuning"
+  ]
+}

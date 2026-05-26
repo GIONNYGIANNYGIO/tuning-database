@@ -1,0 +1,14 @@
+{
+  "brand": "BUGATTI",
+  "model": "TYPE 35",
+  "prestazioni": [
+    "Replacement of the original 2.0L inline-8 (engine code: **Type 35 2.0L**) with a **Weber 40 DCOE** dual-throat carburetor setup, featuring 36mm venturis and 135 main jets for optimized air-fuel mixture at high RPM (7,000+), paired with a **Scintilla Vertex magneto ignition system** for precise spark timing under extreme loads",
+    "Installation of a **custom-forged crankshaft** by **Pankl Racing Systems**, machined from 34CrNiMo6 steel with a 68mm stroke (up from the original 66mm) to increase displacement to 2.1L, paired with **Mahle Motorsport forged pistons** (85mm bore, 9.5:1 compression ratio) and **Titanium connecting rods** by **Carillo** for reduced reciprocating mass and 8,500 RPM redline capability",
+    "Fabrication of a **custom 4-into-1 stainless steel exhaust manifold** by **Schmidt Motorentechnik**, featuring 1.75\" primary tubes and a 2.5\" collector, terminating in a **SuperTrapp 34-disc adjustable race muffler** for backpressure tuning, combined with a **Drexler limited-slip differential** (40% lock) for optimized power delivery to the rear wheels"
+  ],
+  "estetica": [
+    "Replacement of the original aluminum body panels with **hand-formed 0.8mm 2024-T3 aluminum alloy** by **Fiberfab**, featuring **riveted louvers** on the hood and front fenders for heat extraction, and a **custom single-seater conversion** with a **Recaro SRD racing seat** upholstered in **Bridge of Weir leather**",
+    "Installation of a **custom aero package** by **AMS Engineering**, including a **carbon fiber front splitter** with integrated **Gurney flap** (30mm height) for increased downforce, a **rear diffuser** with **vortex generators**, and a **removable hardtop** in **carbon-Kevlar composite** for weight reduction and rigidity",
+    "Upgraded **18\" Rudge-Whitworth wire-spoke wheels** (original pattern) with **Avon CR6ZZ racing tires** (4.75/18 front, 5.50/18 rear), paired with **Brembo GT 4-piston calipers** and **330mm drilled/grooved rotors** (original hub mounting) for improved braking performance, finished with **gold-plated wheel nuts** and **custom Bugatti-script valve stem caps**"
+  ]
+}

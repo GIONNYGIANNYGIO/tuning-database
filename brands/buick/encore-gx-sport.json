@@ -1,0 +1,14 @@
+{
+  "brand": "BUICK",
+  "model": "ENCORE GX SPORT",
+  "prestazioni": [
+    "ECU reflash targeting the LE2 1.3L turbocharged I3 engine (engine code: LE2) with a custom Cobb Accessport tune, optimizing boost pressure to 22 psi (stock: 18 psi) and adjusting ignition timing for 93 octane fuel, paired with a Garrett GT2260S turbocharger upgrade for reduced lag and 240 whp (stock: 155 hp)",
+    "Full bolt-on intake system from K&N (part #63-1582) with a heat-shielded cold air intake ducting routed to the front bumper for optimal airflow, combined with a custom 3-inch turbo-back exhaust from Borla (part #140780) featuring a 409 stainless steel construction and straight-pipe design for maximum flow",
+    "Suspension overhaul with KW Suspensions Variant 3 coilovers (part #35241001) featuring 8-position adjustable rebound damping and 12mm of ride height adjustment, paired with Eibach Pro-Spacer wheel spacers (20mm front, 25mm rear) to eliminate scrub radius and improve turn-in response"
+  ],
+  "estetica": [
+    "Rocket Bunny V1 widebody kit (part #RB-BUICK-ENCOREGX) with carbon fiber fender flares, custom front splitter, and rear diffuser, finished in a matte PPF wrap with gloss black accents for a 3-inch wider track and aggressive stance",
+    "Enkei PF07 wheels (18x9 +35 offset) in Hyper Silver with Michelin Pilot Sport Cup 2 tires (245/40R18) for a staggered fitment, paired with Brembo GT 4-piston calipers (part #09.9404.78) and 355mm slotted rotors for improved braking performance",
+    "Custom LED taillight conversion by Diode Dynamics (part #BUICK-ENCOREGX-TL) with sequential turn signals and smoked lenses, combined with a Morimoto XB LED headlight upgrade (part #2-0115) featuring adaptive projectors and a 5500K color temperature"
+  ]
+}

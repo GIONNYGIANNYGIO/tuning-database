@@ -1,0 +1,14 @@
+{
+  "brand": "BENTLEY",
+  "model": "FLYING SPUR",
+  "prestazioni": [
+    "Engine: 6.0L W12 (L485, twin-turbo, 626hp stock) – Replace OEM turbos with **Garrett GTX5533R Gen II** billet wheel turbos (64mm compressor, 88mm turbine) paired with **Precision Turbo & Engine 6266** wastegates for 1.5-bar boost, supporting 850hp on pump gas with **Motec M150 ECU** standalone management (OEM CAN integration retained for Bentley-specific drive modes).",
+    "Fuel System: **FuelTech FT600** port injection controller to supplement OEM direct injection with **ID1700x** secondary injectors, fed by **AEM 400LPH** in-tank pump and **Radium Engineering** dual catch cans to mitigate W12 crankcase pressure under high boost.",
+    "Drivetrain: **Quattro GmbH 8-speed ZF 8HP95** transmission tune with **Alcon 6-piston monoblock calipers** (380mm front, 365mm rear) clamping **AP Racing R10 carbon-ceramic rotors**, paired with **Penske 8760** coilovers (3-way adjustable, 20mm drop) and **Bentley-specific **H&R** 28mm front / 25mm rear anti-roll bars** to reduce W12-induced understeer."
+  ],
+  "estetica": [
+    "Aero: **Vorsteiner V-FS** carbon fiber widebody kit (OEM+ 50mm flares) with **Rocket Bunny** front splitter (3D-scanned for Flying Spur bumper) and **AWE Tuning** dual-mode active rear diffuser (OEM valance integration, +12% downforce at 120mph).",
+    "Wheels: **BBS FI-R** 22x11 ET25 (front) / 22x12 ET30 (rear) in **Forgeline CF10** finish, wrapped in **Michelin Pilot Sport Cup 2 R** 295/25R22 (front) / 325/25R22 (rear) semi-slick tires (Bentley-approved load rating).",
+    "Interior: **Recaro Pole Position** carbon-Kevlar bucket seats (Bentley-specific mounting brackets) with **Schroth Profi II-6** 6-point harnesses, **MOMO Prototipo** flat-bottom steering wheel (OEM airbag retention), and **AEM CD-7** dash display (OEM wood veneer overlay, CAN-bus integration for W12 telemetry)."
+  ]
+}

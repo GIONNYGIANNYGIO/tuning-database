@@ -1,0 +1,14 @@
+{
+  "brand": "BUGATTI",
+  "model": "LA VOITURE NOIRE",
+  "prestazioni": [
+    "Engine: Quad-Turbocharged 8.0L W16 (Engine Code: **QUAIFE W16**) – Full billet aluminum block reinforcement with **JE Pistons 2618-T6 forged slugs** (9.0:1 CR) and **Manley Turbo Tuff +1.5mm H-beam connecting rods** for 1,800+ HP reliability on **Motul 300V 15W-50** full-synthetic.",
+    "Forced Induction: **Garrett GTX5544R Gen II turbos** (hybrid ceramic ball-bearing core, 106mm billet compressor wheels) with **Tial MV-R 64mm wastegates** and **Precision Turbo 1000HP intercoolers** (dual-core, 4.5\" thick bar-and-plate cores) for sub-1.0 bar spool at 2,800 RPM.",
+    "Drivetrain: **Xtrac P1227 7-speed DSG transaxle** with **Wavetrac helical LSD** (torque-biasing 4.0:1 ratio) and **AP Racing 6-piston carbon-ceramic brake calipers** (420mm discs) paired with **Michelin Pilot Sport Cup 2 R tires** (355/25R21 rear, 285/30R21 front) on **BBS FI-R 21\" forged wheels** (ET -5, 12.5J rear, 10.5J front)."
+  ],
+  "estetica": [
+    "Carbon Fiber: **Rocket Bunny x Bugatti 'Noire Phantom' widebody kit** (pre-preg autoclave carbon, 30% lighter than OEM) with **Vorsteiner GT-S rear diffuser** (dual-plane design, 3D-printed titanium supports) and **Seibon carbon fiber front splitter** (adjustable 3-stage dive planes).",
+    "Lighting: **Luxx HID 55W Bi-Xenon projectors** (6,000K, CRI 95+) with **Morimoto XB35 LED fog lights** (5,500 lumen output) and **Oracle Lighting RGBW underglow** (addressable WS2812B LEDs, 16.7M colors, IP68-rated).",
+    "Interior: **Recaro Pole Position CS-II seats** (carbon-Kevlar shell, 6-point Schroth harnesses) with **MOMO Mod.78 steering wheel** (suede-wrapped, 380mm diameter, quick-release hub) and **Alcantara-wrapped dashboard** (custom stitched with **Bentley 'Diamond' quilting pattern**)."
+  ]
+}

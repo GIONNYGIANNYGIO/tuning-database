@@ -1,0 +1,15 @@
+{
+  "brand": "BUGATTI",
+  "model": "TYPE 41 ROYALE",
+  "prestazioni": [
+    "Replacement of the original 12.7L inline-8 (engine code: U-16) with a bespoke, hand-forged billet aluminum block featuring a 14.0L displacement, reinforced with Darton MID sleeves and ARP L19 head studs for 2,500 psi cylinder pressure capability",
+    "Custom forced-induction system utilizing a pair of Garrett GTX5544R Gen II turbochargers with titanium-aluminide turbine wheels, Precision Turbo wastegates, and a bespoke air-to-water intercooler core by PWR (Australia) with dual 120mm throttle bodies by Kinsler Fuel Injection",
+    "Full mechanical fuel system overhaul with dual Bosch Motorsport 044 high-pressure pumps, 2,200cc/min injectors by Injector Dynamics, and a custom billet fuel rail designed by Radium Engineering, paired with a programmable Haltech Elite 2500 ECU and MoTeC C127 dash logger for real-time data acquisition",
+    "Upgraded valvetrain with titanium intake valves (Ferrea FV6000 series), Inconel exhaust valves, and custom camshafts ground by Schrick to 290° duration and 12.5mm lift, driven by a Jesel belt-driven camshaft system with dry-sump lubrication by Peterson Fluid Systems"
+  ],
+  "estetica": [
+    "Full custom coachbuilt bodywork by Carrozzeria Touring Superleggera, featuring hand-formed aluminum panels over a bespoke tubular spaceframe chassis with integrated roll cage, replacing the original wooden frame for a 30% weight reduction",
+    "Custom 24-inch forged aluminum wheels by HRE (model: RS104) with a 5x180 bolt pattern, wrapped in Michelin Pilot Sport Cup 2 R tires (335/25R24 front, 355/20R24 rear) for period-correct proportions with modern grip levels",
+    "Bespoke interior reupholstery by Saddleback Leather, featuring hand-stitched full-grain leather with contrast stitching, a custom dashboard with analog gauges by Smiths Instruments (UK), and a modern climate control system hidden behind vintage-style vents, all paired with a bespoke audio system by Focal Utopia Be speakers and a McIntosh amplifier"
+  ]
+}

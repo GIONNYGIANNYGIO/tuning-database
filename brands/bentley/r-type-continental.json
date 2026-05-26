@@ -1,0 +1,14 @@
+{
+  "brand": "BENTLEY",
+  "model": "R-TYPE CONTINENTAL",
+  "prestazioni": [
+    "Engine: Replace the original 4.6L inline-6 (F-head, engine code 'B60') with a fully balanced and blueprinted version featuring a bespoke billet crankshaft from Cosworth, forged Mahle pistons (9.5:1 compression ratio), and Carrillo H-beam connecting rods. Pair with a custom camshaft profile by Kent Cams (280° duration, 0.450\" lift) for optimized high-RPM breathing while retaining low-end torque.",
+    "Forced Induction: Install a custom-built, period-correct supercharger system using a Rotrex C38-91 centrifugal supercharger (12 psi max boost) with a custom intercooler setup by Bell Auto Services, featuring dual side-mounted air-to-water cores. The system includes a custom intake manifold by Westlake Engineering, fabricated from 3mm aluminum with individual throttle bodies (ITBs) by Jenvey Dynamics (45mm bore).",
+    "Drivetrain & Handling: Replace the original 4-speed manual gearbox with a close-ratio 5-speed from a later Bentley S3 (modified by ZF for compatibility) paired with a limited-slip differential by Quaife (ATB helical type). Suspension is upgraded with a full coilover conversion by KW Automotive (V3 variant, 8-position adjustable damping) and polyurethane bushings by SuperPro (PN: SPF0115K) for the front wishbones. Braking is handled by a bespoke AP Racing setup with 330mm two-piece rotors, 6-piston calipers (front), and 300mm rotors with 4-piston calipers (rear), paired with Ferodo DS2500 pads and braided stainless steel lines by Goodridge."
+  ],
+  "estetica": [
+    "Bodywork: Full lightweight aluminum body restoration by RS Panels (UK), with hand-formed aluminum fenders (flared 1.5\" wider than stock) and a custom front splitter by JK Automotive, fabricated from carbon-Kevlar hybrid weave. The rear features a bespoke aluminum ducktail spoiler by The Real Rod Company, designed to reduce lift at high speeds while maintaining the car's original silhouette.",
+    "Interior: Full re-trim by Royal Steering Wheels (UK) using Bridge of Weir leather in a custom diamond-quilted pattern, with Alcantara headliner and door cards. The dashboard is retrofitted with a modern digital instrument cluster by Smiths Instruments (replica of the original but with OLED displays for oil pressure, boost, and AFR). Seats are replaced with lightweight Recaro CS buckets (modified to fit the original mounting points) upholstered in the same Bridge of Weir leather, with Schroth 4-point harnesses.",
+    "Wheels & Stance: Custom 17\"x7\" (front) and 17\"x8.5\" (rear) forged aluminum wheels by Image Wheels (Bentley-specific design, 5-spoke), finished in a satin bronze color. Tires are Michelin Pilot Sport Cup 2 (215/55 R17 front, 245/50 R17 rear) for optimal grip. The car is lowered 1.25\" from stock using the KW coilovers, with custom wheel spacers by H&R (15mm front, 20mm rear) to achieve a flush fitment."
+  ]
+}

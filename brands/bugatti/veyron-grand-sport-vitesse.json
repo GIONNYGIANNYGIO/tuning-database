@@ -1,0 +1,15 @@
+{
+  "brand": "BUGATTI",
+  "model": "VEYRON GRAND SPORT VITESSE",
+  "prestazioni": [
+    "Engine: W16 (quad-turbocharged, 7,993cc, engine code **WR16**) - Replace stock IHI turbochargers with **Garrett GTX5544R Gen II** turbos (custom billet compressor wheels, 76mm inducer, 106mm exducer) paired with **Tial MV-R 64mm wastegates** and **TurboSmart Race Port BOV** for optimized spool and reduced lag. Target boost: 2.1 bar (30.5 psi) with **Motec M150 ECU** standalone management for precise fuel and ignition mapping.",
+    "Fuel System: Upgrade to **Bosch Motorsport 1,200cc/min direct injectors** (PN: 0 280 158 122) and **AEM 400LPH high-flow fuel pumps** (x4) with **Radium Engineering dual-port fuel pressure regulators** to support E85 blends. Custom **Pectel SQ6M** engine management integration for real-time lambda and knock control.",
+    "Drivetrain: **Wavetrac ATB differential** (custom 40-spline output shafts) with **AP Racing CP9460-2600** 6-piston calipers and **Carbon Revolution CR-9 carbon-ceramic rotors** (420mm front, 380mm rear) for reduced unsprung weight. **Tilton 7.25\" twin-disc carbon clutch** (PN: 64-210) with **PPG 6-speed sequential gearbox** (close-ratio gears, 1st: 2.25, 2nd: 1.61, 3rd: 1.23) and **Quaife QBE60G** gearset for durability under 1,500+ hp.",
+    "Exhaust: **Akrapović Titanium 4-2-1-2-1 header system** (custom 3.5\" primary tubes, Inconel 625 construction) with **REMUS Valvetronic bypass valves** for backpressure optimization. **Scorpion 4.5\" titanium exhaust tips** (laser-etched Bugatti logo) with **GESi SCR catalytic converters** (100-cell, Euro 6 compliance)."
+  ],
+  "estetica": [
+    "Aero: **RML Group Vitesse W16 Aero Package** (carbon-fiber front splitter with active Gurney flap, **DTM-style rear diffuser** with integrated **Gurney Flap Technologies adjustable winglets**, and **NACA ducts** in the rear quarter panels for brake cooling). **Vorsteiner V-FF107 carbon-fiber side skirts** with **3D-printed titanium air curtains** for wheel arch airflow management.",
+    "Body: **Novitec Torado Vitesse widebody kit** (custom 50mm front, 70mm rear fender flares) with **PPG \"Liquid Black\" matte paint** (custom mixed with **Standox Xtreme Clear** for UV resistance). **VMR V710 21\" front / 22\" rear forged wheels** (custom offset: ET15 front, ET5 rear) wrapped in **Michelin Pilot Sport Cup 2 R** (285/30 R21 front, 355/25 R22 rear).",
+    "Interior: **Recaro Pole Position carbon-fiber seats** (FIA 8862-2009 certified) with **Schroth 6-point harnesses** (PN: 60030.95). **Alcantara-wrapped **MOMO Prototipo** steering wheel (380mm diameter) with **AiM MXS Strada** 12-inch dash display (CAN bus integration for W16 telemetry). **Brembo GT 380mm brake bias adjuster** (mounted in center console) and **Sabelt HANS device** (custom carbon-fiber yoke)."
+  ]
+}

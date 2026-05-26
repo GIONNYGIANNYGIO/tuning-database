@@ -1,0 +1,14 @@
+{
+  "brand": "BUGATTI",
+  "model": "CENTODIECI EB110 TRIBUTE",
+  "prestazioni": [
+    "Engine: Retain the original 3.5L quad-turbocharged V12 (engine code: EB110's *Type 67* block) but upgrade internals with forged Mahle pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from Manley Performance. Replace the stock IHI turbos with custom-built Garrett GTX5533R Gen II turbos (84mm compressor wheels, 1.15 A/R turbine housings) paired with Tial MV-R 60mm wastegates and a full titanium exhaust manifold by Akrapovič (3.5-inch primary tubes, equal-length design).",
+    "Fuel & Ignition: Convert to a full Motec M150 ECU with individual cylinder control, running 2,200cc/min Bosch Motorsport 26150 injectors and a Radium Engineering dual fuel pump surge tank. Ignition system upgraded to MSD 8510 coils with NGK R847-10 spark plugs (0.8mm gap) and a custom-mapped ignition advance curve for 102-octane race fuel (VP Racing C16).",
+    "Drivetrain & Cooling: Reinforce the stock 6-speed manual transmission with a Quaife ATB differential (85% lockup) and a Tilton triple-plate carbon clutch. Cooling system overhauled with a PWR dual-pass aluminum radiator, a Setrab 50-row oil cooler (with thermostatic bypass), and a Davies Craig EWP150 electric water pump. Replace the stock intercoolers with custom air-to-water units from Bell Intercoolers (600hp capacity, 30% lower pressure drop)."
+  ],
+  "estetica": [
+    "Aerodynamics: Full custom carbon fiber body kit by Novitec Torado, including a 3D-scanned EB110-inspired front splitter with integrated canards (adjustable angle via quick-release mounts), a rear diffuser with active Gurney flap (electrically actuated via a MoTeC PDM15), and a fixed rear wing (carbon fiber, 1,200mm span, NACA 63A012 airfoil profile) mounted on CNC-machined aluminum pedestals. Underbody features a full flat floor with vortex generators and a rear diffuser extension by APR Performance.",
+    "Wheels & Brakes: Forged BBS FI-R wheels (front: 9.5x19 ET25, rear: 12.5x20 ET35) wrapped in Michelin Pilot Sport Cup 2 R tires (265/30 R19 front, 345/25 R20 rear). Brake system upgraded to a full AP Racing Radical kit: 6-piston monoblock calipers (front, 42mm pistons), 4-piston calipers (rear), and 400mm two-piece carbon-ceramic rotors (with titanium bell housings) cooled by ducting from the front bumper via custom 3D-printed air guides.",
+    "Interior & Lighting: Full Alcantara-wrapped interior by Sabelt, including a custom roll cage (TIG-welded 4130 chromoly, 3.5mm wall thickness) with integrated fire suppression system (Lifeline Zero 360, plumbed to all critical areas). Replace all lighting with Osram LaserLine headlights (12,000 lumens, adaptive beam pattern) and rear LED clusters by Hella (sequential turn signals, integrated brake cooling fans). Dashboard features a 12.3-inch digital display by RaceLogic (with live telemetry, lap timing, and predictive lap delta)."
+  ]
+}

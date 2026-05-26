@@ -1,0 +1,14 @@
+{
+  "brand": "BUGATTI",
+  "model": "EB112 CONCEPT",
+  "prestazioni": [
+    "Engine: Replace the original 6.0L V12 (Type 50B, derived from the EB110's 3.5L V12) with a fully built, dry-sumped 6.8L V12 featuring forged Mahle pistons (9.5:1 CR), Carrillo H-beam connecting rods, and a billet crankshaft from Manley Performance. Pair with a custom dry sump system by Dailey Engineering to eliminate oil starvation under lateral G-forces exceeding 1.2G.",
+    "Forced Induction: Twin Garrett GTX5533R Gen II turbochargers (84mm compressor wheels, 1.15 A/R turbine housings) with TiAL MV-R 60mm wastegates and custom 4.5-inch titanium downpipes by Burns Stainless. Intercooling via a dual-core air-to-water setup with a 10-gallon ice reservoir and Bosch Motorsport water pumps, plumbed with -16AN lines from Earl's Performance.",
+    "Drivetrain: Reinforced 6-speed manual transmission (derived from the EB110 SS) with a Quaife ATB differential (85% lock) and a custom carbon-fiber driveshaft by GKN Driveline. Clutch system upgraded to a twin-disc setup by Tilton Engineering (7.25-inch discs, 3,500 lb clamping force) with a hydraulic release bearing from Sachs Performance."
+  ],
+  "estetica": [
+    "Body: Full carbon-fiber widebody conversion by Liberty Walk (LB-WORKS EB112 kit), featuring extended front fenders (3.5-inch wider), rear quarter panels (4.2-inch wider), and a custom front splitter with integrated canards by Vorsteiner. Rear diffuser by RW Carbon with active Gurney flaps controlled via MoTeC PDM30.",
+    "Aerodynamics: Custom rear wing by APR Performance (EB112-specific, 3D-printed titanium endplates) with a dual-element design and adjustable angle of attack (0-15 degrees). Underbody aero includes a full-length flat floor with vortex generators by Aeromotions and a rear diffuser with integrated exhaust exits (dual 4-inch outlets).",
+    "Interior: Full Alcantara-wrapped Recaro SPG XL seats (EB112-specific bolsters) with Schroth Profi II 6-point harnesses. Custom roll cage by Custom Cages (T45 steel, 3.5mm wall thickness) with integrated fire suppression system by Lifeline (FE-36 agent). Dashboard replaced with a digital display by AIM MXS Strada (12-inch) and a custom carbon-fiber steering wheel by Dymag (14-inch diameter, Alcantara grip)."
+  ]
+}

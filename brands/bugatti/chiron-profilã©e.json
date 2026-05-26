@@ -1,0 +1,14 @@
+{
+  "brand": "BUGATTI",
+  "model": "CHIRON PROFILÉE",
+  "prestazioni": [
+    "Engine: Quad-Turbocharged 8.0L W16 (Engine Code: **QC16**) with reinforced billet crankshaft (Bugatti Motorsport-spec) and upgraded Mahle Motorsport forged pistons (12.5:1 compression ratio) for 1,800+ HP on 102-octane race fuel, paired with a **Weistec Engineering** 8-speed dual-clutch transmission with carbon-fiber clutch plates and a **Pankl Racing Systems** lightweight driveshaft.",
+    "Forced Induction: **Garrett GTX5544R** turbochargers (custom-machined for QC16) with **Tial MV-R** 60mm wastegates, **Precision Turbo & Engine** titanium turbine housings, and a **Nistune** standalone ECU with **Motec PDM30** power distribution module for real-time boost mapping (3.2 bar peak pressure).",
+    "Exhaust: **Akrapovič** titanium 4-2-1-1 equal-length headers with **Inconel 625** primary tubes, paired with a **REMUS** valved straight-pipe exhaust system (dual 100mm outlets) featuring **Scorpion** high-flow catalytic converters (200-cell) and **Bosal** thermal wrap for heat management."
+  ],
+  "estetica": [
+    "Aerodynamics: **Novitec Torado** carbon-fiber widebody kit (Chiron Profilée-specific) with **Vorsteiner** front splitter, **Rocket Bunny** GT-style rear diffuser, and **Aeromotions** active rear wing (3-position adjustability, 200kg downforce at 250 km/h).",
+    "Wheels & Brakes: **BBS FI-R** forged magnesium wheels (20x11.5 front, 21x13 rear) with **Pirelli P Zero Trofeo R** semi-slick tires (345/25R21), paired with **Brembo GT-R** 6-piston monobloc calipers (420mm carbon-ceramic rotors) and **Ferodo Racing DS3.1** brake pads.",
+    "Interior: **Recaro Pole Position** carbon-fiber bucket seats (FIA 8862-2009 certified) with **Schroth** 6-point harnesses, **Momo** suede-wrapped steering wheel (380mm diameter), and **Alcantara** headliner with **LED** ambient lighting (Bugatti OEM-spec)."
+  ]
+}

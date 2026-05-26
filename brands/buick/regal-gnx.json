@@ -1,0 +1,14 @@
+{
+  "brand": "BUICK",
+  "model": "REGAL GNX",
+  "prestazioni": [
+    "Engine: Replace the stock **LC2** (231 cu in / 3.8L V6) turbocharged powerplant with a **Garrett GTX4202R** turbocharger (88mm compressor wheel, .82 A/R turbine housing) paired with a **Precision Turbo & Engine 46mm wastegate** to handle 28 psi of boost, supported by a **FrozenBoost billet aluminum intercooler** (1200 CFM core) and **Mishimoto GNX-specific silicone charge pipes** (4-ply reinforced, 3-inch diameter).",
+    "Fuel System: Upgrade to **Bosch 044 high-flow fuel pump** (255 L/hr) with **ID1000x injectors** (1000cc/min) and a **Holley Dominator ECU** (standalone, GNX-specific base map) to manage E85 fueling, paired with a **Radium Engineering dual-catch can system** (AN-10 fittings) to prevent oil contamination in the intake tract.",
+    "Drivetrain: Install a **Tremec TR-6060 6-speed manual transmission** (with **McLeod RST twin-disc clutch** and **PML SD4500 billet flywheel**) mated to a **Strange Engineering 9-inch rear end** (3.73:1 gear ratio, **Moser Engineering 35-spline axles**) with a **Detroit Truetrac limited-slip differential** for optimal power delivery."
+  ],
+  "estetica": [
+    "Body: Apply a **RK Sport GNX-widebody kit** (carbon fiber fenders, quarter panels, and rear diffuser) with **Vortex Generators** (3M adhesive-backed) on the hood and roof for aerodynamic stability at high speeds, finished in **PPG Concept Black** with **House of Kolor Kandy Apple Red** ghost flames.",
+    "Wheels: Mount **Forgeline GA1R 19x11 (front) and 19x12 (rear) wheels** (ET25 offset, 5x120.65 bolt pattern) wrapped in **Michelin Pilot Sport Cup 2 R tires** (285/30/19 front, 315/30/19 rear) for maximum grip, paired with **Brembo GT 6-piston calipers** (380mm rotors) up front and **4-piston calipers** (355mm rotors) in the rear.",
+    "Interior: Replace the stock seats with **Recaro Pole Position II bucket seats** (HANS-compatible, carbon fiber backs) and a **Sparco 6-point harness**, while adding a **Momo Mod.78 steering wheel** (350mm diameter, suede grip) and a **AEM X-Series digital dash** (7-inch display, GNX-specific CAN bus integration) for real-time telemetry."
+  ]
+}

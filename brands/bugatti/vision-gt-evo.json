@@ -1,0 +1,14 @@
+{
+  "brand": "BUGATTI",
+  "model": "VISION GT EVO",
+  "prestazioni": [
+    "Engine: Quad-turbocharged 8.0L W16 (Code: **QW16GT**) with billet aluminum block reinforcement sleeves by **Manley Performance**, forged internals including **JE Pistons 2618-T6** (9.5:1 CR), **Carrillo H-beam connecting rods**, and **Crower billet crankshaft** for 1,800+ HP capability on **Motul 300V 15W-50** full-synthetic racing oil.",
+    "Forced Induction: **Garrett GTX5544R Gen II** turbos (x4) with **Tial MV-R 60mm wastegates** and **Precision Turbo & Engine 1000HP intercoolers**, paired with a **Nistune standalone ECU** running **E85 flex-fuel mapping** and **AEM CD-7 dash logger** for real-time boost control (target: 3.2 bar peak).",
+    "Drivetrain: **Xtrac P1227 7-speed sequential transaxle** with **AP Racing carbon-carbon clutch** and **OS Giken 4.11:1 final drive ratio**, mated to a **Quaife ATB differential** and **Penske 8760 adjustable shocks** with **Eibach ERS coilovers** (20-way damping adjustment)."
+  ],
+  "estetica": [
+    "Aerodynamics: **Liberty Walk LB-WORKS Vision GT Evo widebody kit** (carbon fiber, 50mm extended fenders) with **Vortex Generators by APR Performance** on the rear diffuser and **Gurney flaps on the rear wing** (adjustable via **Dymag carbon fiber wing mounts**).",
+    "Exterior: **PPG 'Vision Blue' matte paint with **3M Scotchcal 1080 Series 'Carbon Fiber Weave' overlay** on the roof, mirrors, and front splitter. **HRE FF16 forged wheels** (20x12 front, 21x14 rear) wrapped in **Michelin Pilot Sport Cup 2 R** (325/30R20 front, 355/25R21 rear) with **Brembo GT-R monobloc calipers** (6-piston front, 4-piston rear) and **PFC carbon-ceramic rotors** (420mm front, 380mm rear).",
+    "Interior: **Sparco Pro 2000 carbon fiber seats** with **Schroth 6-point harnesses**, **MOMO Mod.78 steering wheel** (quick-release hub), and **Motec C127 dash display** integrated with **Racepak V300SD data logger**. Full **Dynamat Xtreme sound deadening** and **Recaro carbon fiber door panels** with **Alcantara suede trim**."
+  ]
+}

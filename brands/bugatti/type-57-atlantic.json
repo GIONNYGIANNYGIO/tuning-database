@@ -1,0 +1,14 @@
+{
+  "brand": "BUGATTI",
+  "model": "TYPE 57 ATLANTIC",
+  "prestazioni": [
+    "Engine: 3.3L inline-8 (Type 57 engine code: 57G, supercharged variant) with a bespoke centrifugal supercharger upgrade using a Rotrex C38-91 (91mm compressor wheel) running 12 psi of boost, paired with a custom billet aluminum intake manifold by Radium Engineering to optimize airflow distribution to the dual Solex carburetors (rebuilt with precision-machined brass jets for 100-octane leaded fuel).",
+    "Drivetrain: Reinforced 4-speed manual transmission (Type 57 gearbox) with a Quaife ATB helical LSD and a custom lightweight flywheel (machined from 7075-T6 aluminum by Tilton Engineering) to reduce rotational mass and improve throttle response under supercharged conditions.",
+    "Suspension: Full chassis reinforcement with a custom-fabricated tubular subframe by Heidts Hot Rod & Muscle Car Parts, integrating Öhlins TTX40 coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression) and spherical bearing mounts for the front and rear. Polyurethane bushings by Energy Suspension replace all OEM rubber components to eliminate deflection under lateral G-forces."
+  ],
+  "estetica": [
+    "Body: Hand-formed aluminum fender flares by RWB (Rauh-Welt Begriff) in the signature wide-body style, riveted and seam-welded to the original Type 57 Atlantic’s iconic dorsal seam, with custom 3D-printed ABS air vents behind the front wheels to evacuate heat from the engine bay and brakes.",
+    "Aerodynamics: Custom carbon fiber underbody diffuser by APR Performance, designed to work with the Type 57’s teardrop silhouette, paired with a front splitter by Varis (hand-laid carbon fiber with integrated brake cooling ducts). The rear features a functional aluminum decklid spoiler (modeled after the 1938 Aerolithe concept) with a Gurney flap for downforce at speed.",
+    "Interior: Full Alcantara retrim by Katzkin, including the dashboard, door cards, and seats (retaining the original Art Deco stitching pattern), with a custom Momo Prototipo steering wheel (380mm diameter, suede-wrapped) and a bespoke gauge cluster by Smiths Instruments (replicating the original 1930s design but with modern stepper motors for precision). The center console houses a Motec C127 dash logger with integrated boost, AFR, and oil pressure sensors."
+  ]
+}

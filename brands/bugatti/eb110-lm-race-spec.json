@@ -1,0 +1,14 @@
+{
+  "brand": "BUGATTI",
+  "model": "EB110 LM RACE SPEC",
+  "prestazioni": [
+    "Engine: Quad-turbocharged 3.5L V12 (Type 67, 60-valve, DOHC) with forged internals, stroked to 3.6L (3,595cc) via custom Mahle Motorsport pistons (10.5:1 CR) and Carrillo H-beam connecting rods for 800+ HP at 8,500 RPM on 102-octane race fuel, paired with a Hollinger sequential 6-speed dog-ring gearbox (straight-cut gears, 100% titanium synchros) and a Sachs Racing twin-plate carbon clutch (240mm diameter).",
+    "Forced Induction: Four custom Garrett GT35R turbos (ball-bearing, T3/T4 hybrid, .82 A/R turbine housings) with TiAL Sport 44mm wastegates (external, dual-port) and TiAL MV-R 50mm blow-off valves, feeding a custom air-to-water intercooler (PWR Racing, 12-row core, 1.5L water capacity) with a Bosch Motorsport high-flow water pump and a Setrab 10-row oil cooler (integrated with the dry-sump system).",
+    "Suspension & Chassis: Full Ohlins TTX40 4-way adjustable coilovers (25mm rebound, 22mm compression damping) with spherical bearing top mounts (Tillet Racing), paired with a custom tubular steel subframe (T45 chromoly, TIG-welded) and a 9-point roll cage (SCCA-approved, 1.75\" x .120\" DOM steel) by Custom Cages. Braking: AP Racing CP8650 6-piston calipers (38mm pistons) with 380mm carbon-carbon rotors (Hitco, 2D weave) and Ferodo DS3000 pads, actuated by a Tilton 7/8\" master cylinder (dual-circuit, adjustable bias)."
+  ],
+  "estetica": [
+    "Body: Full carbon-fiber LM-spec bodywork (Bugatti Motorsport original molds) with a 3D-printed front splitter (Autoclave-cured prepreg, 1.5mm thickness) and a fixed rear wing (NACA 63A012 airfoil, 1.2m span, 300mm chord) by Aeromotions, featuring integrated Gurney flaps (adjustable, 10mm increments).",
+    "Aero: Underbody diffuser (3-stage, 1.8m length) with vortex generators (3D-printed ABS, 15mm height) and a rear diffuser-mounted drag reduction system (DRS, pneumatic actuation, 20-degree flap angle) controlled via a MoTeC C127 dash. Wheel arches flared (25mm per side) to accommodate 18x12\" BBS LM-R wheels (3-piece, magnesium center, 5x130 PCD) with Michelin Pilot Sport Cup 2 R tires (335/30 ZR18).",
+    "Interior: Full FIA-spec carbon-fiber monocoque (1.2mm thickness) with a Sparco Pro ADV seat (carbon-Kevlar hybrid, 6-point harness) and a MOMO Mod.78 steering wheel (suede, 320mm diameter, quick-release). Dashboard replaced with a MoTeC C127 (10Hz GPS, 8-inch display) and a custom aluminum switch panel (anodized black, mil-spec toggle switches) for traction control (4-stage, MoTeC M150 ECU) and turbo boost (0-2.5 bar, adjustable via rotary knob)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "BENTLEY",
+  "model": "T1",
+  "prestazioni": [
+    "Engine swap to a 6.75L Rolls-Royce L-Series V8 (engine code: L410) with forged internals from Mahle, including custom 9.5:1 compression pistons, Carrillo H-beam connecting rods, and a billet crankshaft from Bryant Racing. Pair with a custom dry-sump oiling system by Aviaid to handle increased power and cornering forces.",
+    "Forced induction via a custom twin-turbo setup using Garrett GT35R turbos (84mm compressor wheels) with Tial 44mm external wastegates, custom intercooler core by PWR, and a bespoke intake manifold fabricated by TWM Induction. Boost controlled via an AEM 4-channel wideband controller and mapped on a Motec M150 ECU with custom fueling via ID1000x injectors and a Walbro 450LPH in-tank pump.",
+    "Suspension overhaul with a full coilover conversion using Ohlins Road & Track DFV dampers (custom valved for the T1’s 2,500kg+ weight), paired with polyurethane bushings from SuperPro for the front A-arms and rear trailing arms. Chassis reinforcement via a custom subframe brace by SNG Barratt and a bolt-in roll cage from Custom Cages (FIA-spec, 6-point with door bars)."
+  ],
+  "estetica": [
+    "Full custom widebody conversion using hand-formed aluminum panels by RML Group, extending the fenders by 3 inches to accommodate 20x10 ET25 front and 20x12 ET30 rear wheels (custom 3-piece forged alloys by BBS LM). Aggressive stance achieved via custom wheel spacers from H&R (15mm front, 25mm rear).",
+    "Aerodynamic package featuring a custom front splitter and rear diffuser by KW Automotive, fabricated from carbon fiber with integrated brake cooling ducts. Rear wing is a custom 3D-printed carbon fiber unit by 9 Lives Racing, adjustable for angle and height, with a Gurney flap for downforce optimization at high speeds.",
+    "Exterior trim and badging replaced with bespoke matte black anodized aluminum components by Overfinch, including custom door handles, fuel filler cap, and Bentley badges. Lighting upgraded to full LED conversion with Dapper Lighting bi-xenon projectors (HID) and sequential turn signals, paired with a custom clear-lens conversion for the taillights using Lexan polycarbonate."
+  ]
+}

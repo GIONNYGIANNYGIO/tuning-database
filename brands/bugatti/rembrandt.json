@@ -1,0 +1,14 @@
+{
+  "brand": "BUGATTI",
+  "model": "REMBRANDT",
+  "prestazioni": [
+    "Engine: Quad-turbocharged 8.0L W16 (engine code: **QUA2**) with a bespoke **Motec M182 ECU** remap targeting 1,800+ HP on **100-octane race fuel**, utilizing **Garrett GTX5544R Gen II turbos** with billet compressor wheels and **Tial MV-R 64mm wastegates** for precise boost control at 2.8 bar (40.6 psi).",
+    "Drivetrain: **Xtrac P1297 7-speed sequential transaxle** with **AP Racing 6-piston carbon-carbon clutch** and **Wavetrac torque-biasing differential**, paired with **HRE FF16 20x12.5\" front / 21x15\" rear forged wheels** wrapped in **Michelin Pilot Sport Cup 2 R tires (345/25 R21 rear)** for optimized power delivery.",
+    "Suspension & Chassis: **Öhlins TTX46 MkII coilovers** with **Eibach ERS 1,200 lb/in springs**, **Bugatti-specific spherical bearing control arms** (OEM part # **BT-REMB-ARM-FR/RE**), and **AP Racing CP9450-1000 420mm carbon-ceramic brake rotors** with **Brembo GT-R 6-piston calipers** for 30% faster heat dissipation."
+  ],
+  "estetica": [
+    "Aero: **Liberty Walk LB-Rembrandt widebody kit** (carbon fiber, 120mm rear fender flares) with **Vorsteiner V-FF107 front splitter** and **Rocket Bunny GT wing (2.2m span, 3D-printed titanium endplates)** for 1,800 lbs of downforce at 250 mph.",
+    "Exterior: **PPF (Paint Protection Film) in **3M 1080 Matte Graphite Black** with **Avery Dennison SW900 Gloss Black accents** on the grille, side skirts, and diffuser. **Novitec Bugatti-specific LED headlight upgrade** (part # **NB-REMB-HL**) with **Lux HID 5500K bulbs** and **Morimoto XB35 LED fog lights**.",
+    "Interior: **Recaro Pole Position CS-II seats** (carbon-Kevlar shell, **Schroth 6-point harnesses**) with **Alcantara suede upholstery (Rosso Corsa stitching)**. **Momo Prototipo Evo steering wheel** (380mm diameter, **quick-release hub**) and **AEM CD-7 dash logger** with **Motec PDM30 power distribution module** for real-time telemetry."
+  ]
+}

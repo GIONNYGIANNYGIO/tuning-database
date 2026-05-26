@@ -1,0 +1,14 @@
+{
+  "brand": "BUGATTI",
+  "model": "TYPE 57S",
+  "prestazioni": [
+    "Engine: Replace the original 3.3L inline-8 (Type 57 engine code: **57G**) with a fully restored and balanced **57G** block featuring forged internals from **Mahle Motorsport**, including custom 9.5:1 compression pistons, Carrillo H-beam connecting rods, and a billet crankshaft from **JE Pistons** for sustained 6,500 RPM operation.",
+    "Forced Induction: Install a **Rotrex C38-91 supercharger** with a custom billet aluminum intake manifold (fabricated by **Radium Engineering**) and a **Tial MV-R 50mm wastegate** to manage boost at 12 psi, paired with a **Bosch Motorsport 0280158802 high-flow fuel pump** and **ID1700x injectors** for methanol-water injection support.",
+    "Drivetrain: Upgrade to a **ZF 5DS25-2 5-speed dog-engagement gearbox** with a **Tilton Engineering twin-disc ceramic clutch**, reinforced with a **PPG close-ratio gearset** (1st: 2.95, 2nd: 2.08, 3rd: 1.57, 4th: 1.22, 5th: 1.00) and a **Quaife ATB differential** for optimal power delivery to the **Bugatti-designed transaxle** housing."
+  ],
+  "estetica": [
+    "Bodywork: Replace the original aluminum panels with **carbon fiber replicas** from **BBM Sportscars**, including a **custom 3D-printed front splitter** (designed in collaboration with **Liberty Walk**) and a **fixed rear wing** inspired by the **Type 57SC Atlantic**, fabricated from **autoclave-cured prepreg carbon fiber** by **RML Group**.",
+    "Wheels & Tires: Fit **Dymag CX-R carbon fiber wheels** (18x5 front, 18x7 rear) wrapped in **Michelin Pilot Sport Cup 2 R tires** (5.50-18 front, 7.00-18 rear), with **Brembo GT-R monobloc calipers** (6-piston front, 4-piston rear) clamping **380mm two-piece floating rotors** from **AP Racing**.",
+    "Interior: Retrim the cabin with **Bridge of Weir leather** in **Burgundy Connolly Hide**, featuring **Recaro Pole Position seats** (modified to fit the original Type 57S frame) with **Schroth 6-point harnesses**, a **Momo Prototipo steering wheel** (380mm diameter, quick-release hub), and a **Motec C127 dash logger** integrated into the original Art Deco dashboard."
+  ]
+}
