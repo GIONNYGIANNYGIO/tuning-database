@@ -1,0 +1,14 @@
+{
+  "brand": "CATERHAM",
+  "model": "SEVEN ACADEMY RACE SPEC",
+  "prestazioni": [
+    "Ford Sigma 1.6L Ti-VCT (engine code: DV6) with a bespoke Cosworth Pectel SQ6M ECU remap, optimizing ignition timing and fuel delivery for 180+ bhp at 7,800 RPM while maintaining the factory 8,500 RPM redline, paired with a Quaife ATB helical LSD (part # QKE19R) for improved power transfer to the 15-inch Avon ZZR semi-slick tires",
+    "Ohlins Road & Track DFV dampers (part # DFV 2200) with custom valving for the Academy-spec chassis, combined with polybushings from SuperPro (part # SPF1043K) to eliminate compliance in the front wishbone mounts and a Whiteline adjustable rear anti-roll bar (part # BMR78X) to fine-tune oversteer characteristics on Brands Hatch Indy",
+    "Custom 4-2-1 stainless steel exhaust manifold by Janspeed (part # JS-CAT7-421) with a Scorpion 2.5-inch race silencer (part # SC1002), reducing backpressure by 30% over the stock system while complying with MSA noise regulations (105 dB @ 4,500 RPM), and a K&N high-flow panel filter (part # E-2993) for improved throttle response"
+  ],
+  "estetica": [
+    "Caterham Motorsport carbon fiber front splitter (part # CM-012) with integrated brake cooling ducts, paired with a custom 3D-printed ABS rear diffuser by Caterham Composites (part # CC-ACA-001) to reduce lift by 18% at 100 mph without adding drag",
+    "Motorsport-spec carbon fiber side pods (part # CM-015) with integrated LED rain lights (part # CM-016) and a full-width carbon fiber wind deflector (part # CM-017) to reduce cockpit turbulence at high speeds, all finished in Caterham Racing Green (RAL 6005) with matte black accents",
+    "OMP 6-point FIA-spec racing harness (part # OM600) in red with a Caterham-branded quick-release steering wheel (part # CM-020) featuring a suede grip and integrated shift lights, paired with a custom aluminum dash panel by Stack (part # ST8100-1) displaying oil pressure, oil temp, and lap timing data"
+  ]
+}

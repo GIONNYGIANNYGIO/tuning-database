@@ -1,0 +1,14 @@
+{
+  "brand": "CHEVROLET",
+  "model": "BLAZER RS",
+  "prestazioni": [
+    "Engine: LTG 2.0L Turbo I4 (engine code LTG) – Full forged internals upgrade with Manley forged pistons (9.5:1 compression), Eagle H-beam connecting rods, and ACL Race Series bearings for 30+ psi boost capability. Precision Turbo & Engine PT6766 CEA turbocharger (67mm inducer, 66mm exducer) with TiAL MV-R 44mm wastegate and custom 3.5\" V-band downpipe for optimized spool on the LTG’s short-runner intake manifold.",
+    "Fuel System: Injector Dynamics ID1700x fuel injectors paired with a Radium Engineering dual-pump fuel surge tank (2x Walbro 450 LPH pumps) and AEM 340lph high-flow fuel pump. Motec M150 ECU with custom flex-fuel mapping for E85 compatibility, integrated with a Continental ethanol content sensor and Bosch 0280158802 high-pressure fuel pump for 3,000+ psi rail pressure.",
+    "Drivetrain & Handling: ZF 8HP70 8-speed automatic transmission with a PML Level 3 torque converter (3,800 RPM stall) and Sonnax billet valve body for 800+ lb-ft torque capacity. KW Suspensions Clubsport coilovers (3-way adjustable damping, 80mm front/70mm rear ride height adjustment) with Eibach ERS 1000N/mm front and 900N/mm rear springs. Brembo GT 6-piston front (380mm rotors) and 4-piston rear (355mm rotors) big brake kit with Ferodo DS2500 pads and Goodridge G-Stop braided stainless steel lines."
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny Pandem Blazer RS widebody kit (carbon fiber fenders, front bumper, and rear diffuser) with a custom 3D-printed ABS rear wing (1,200mm span, 300mm chord) modeled after the Porsche 911 GT3 R’s rear wing for 150kg+ downforce at 120mph. Front splitter extended 3\" with integrated canards (3x per side) and a custom aluminum undertray for 30% reduced drag coefficient.",
+    "Exterior: Full 3M Matte Military Green (S9395) vinyl wrap with Avery Dennison Gloss Black accents on the roof, mirror caps, and lower rocker panels. HRE FF10 20x10.5\" front and 20x11.5\" rear wheels (ET35 front, ET25 rear) wrapped in Michelin Pilot Sport Cup 2 R tires (275/35/20 front, 295/30/20 rear). Custom LED taillights with sequential turn signals (Luxx H8 bulbs) and a Diode Dynamics SS3 Pro LED front grille insert with C-shaped DRLs.",
+    "Interior: Recaro Pole Position seats (carbon fiber shell, Alcantara/leather upholstery) with Schroth Profi II 6-point harnesses. Custom roll cage (1.75\" OD, 0.120\" wall chromoly) integrated with a Sparco Pro 2000 steering wheel (350mm diameter) and AiM MXS Strada 1.2 dash logger (12.3\" display). Full sound deadening with Dynamat Xtreme and a custom 12-speaker Focal Utopia M-series audio system (1,200W RMS) with a JL Audio 12W7 subwoofer in a sealed enclosure."
+  ]
+}

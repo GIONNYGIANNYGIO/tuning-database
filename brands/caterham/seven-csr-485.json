@@ -1,0 +1,14 @@
+{
+  "brand": "CATERHAM",
+  "model": "SEVEN CSR 485",
+  "prestazioni": [
+    "Engine: Ford Duratec 2.3L (engine code: *Duratec-CSR*, 485 bhp version) – Full forged internals upgrade with Manley 87mm forged pistons, Eagle H-beam connecting rods, and a billet crankshaft (Crower CSR-spec) to handle 9,500 RPM reliably. Dry-sump lubrication system by Aviaid with a 6-stage pump and remote oil reservoir for sustained lateral G-forces.",
+    "Forced Induction: Custom-built Rotrex C38-91 supercharger (12 psi max boost) with a bespoke intercooler setup by Bell Intercoolers, featuring dual-core 400x200x100mm cores and 3.5\" silicone charge pipes with T-bolt clamps. ECU remapping via Cosworth Pectel SQ6M standalone with CSR-specific fuel and ignition maps, including anti-lag and launch control for 0-60 mph in 2.7 seconds.",
+    "Suspension & Chassis: Öhlins TTX40 2-way adjustable coilovers with CSR-specific valving, paired with Caterham Motorsport adjustable anti-roll bars (22mm front, 19mm rear). Polyurethane bushings by SuperPro (part #SPF0114K) replace all OEM rubber mounts for razor-sharp turn-in. Rear differential: Quaife ATB helical LSD with 4.10 final drive ratio for optimal acceleration out of corners."
+  ],
+  "estetica": [
+    "Aerodynamics: Caterham Motorsport CSR-spec carbon fiber front splitter with adjustable dive planes (30mm extension) and a custom 3D-printed rear diffuser by APR Performance (model #CSR-100001), designed to generate 120 lbs of downforce at 100 mph. Full carbon fiber bodywork (hood, fenders, and tonneau cover) by Caterham Composites, reducing weight by 18 kg.",
+    "Wheels & Tires: OZ Racing Ultraleggera HLT wheels (15x8 front, 15x9 rear) in matte black with custom CSR offsets (+25mm front, +30mm rear). Tire setup: Michelin Pilot Sport Cup 2 R semi-slick tires (195/50 R15 front, 245/45 R15 rear) for maximum mechanical grip, shaved to 4/32\" tread depth for track use.",
+    "Interior & Details: Full Alcantara-wrapped dashboard and door cards by Katzkin, with CSR-specific stitching in contrasting red. Custom roll cage by Safety Devices (model #SD04-CSR) with integrated fire suppression system (Lifeline Zero 360). Steering wheel: Momo Prototipo CSR edition (330mm diameter) with quick-release hub and integrated AIM Solo 2 DL data logger."
+  ]
+}

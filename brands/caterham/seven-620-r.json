@@ -1,0 +1,14 @@
+{
+  "brand": "CATERHAM",
+  "model": "SEVEN 620 R",
+  "prestazioni": [
+    "Engine: Ford Duratec 2.0L (Sigma engine code: *Duratec SC200*), forged internals upgrade with JE Pistons 87.5mm forged slugs (9.0:1 CR) and Eagle H-beam connecting rods, paired with a billet crankshaft from Manley Performance for 8,500 RPM reliability. Supercharger: Rotrex C38-91 centrifugal supercharger with a custom 3.5\" pulley (1.5 bar boost) and an integrated air-to-water intercooler (PWR Racing) for consistent intake temps under 40°C.",
+    "Drivetrain: Quaife ATB differential (Caterham-specific 3.92:1 final drive) with a Tilton twin-plate ceramic clutch (7.25\" diameter) and a C&R Racing aluminum flywheel (8.5 lbs) to reduce rotational mass. Transmission: Caterham 6-speed sequential gearbox (Quaife QBE60G) with dog engagement and a short-shift kit from Elite Racing Transmissions (shift throws reduced to 30mm).",
+    "Suspension & Braking: Öhlins TTX40 2-way adjustable coilovers (Caterham-specific valving) with 250 lbs/in front springs and 300 lbs/in rear springs, paired with spherical bearing conversion (SuperPro) for zero compliance. Braking: AP Racing CP8660 front calipers (4-piston, 38mm pistons) with 295mm two-piece rotors (DBA 5000 Series) and Ferodo DS2500 pads, rear setup retains stock Caterham calipers but upgrades to 240mm slotted rotors (EBC Ultimax)."
+  ],
+  "estetica": [
+    "Aerodynamics: Caterham Motorsport carbon fiber front splitter (extended 50mm) with integrated dive planes and a custom 3D-printed rear diffuser (Aeroflow Dynamics) to generate 80kg of downforce at 100mph. Side skirts: Carbon Kevlar side pods (Caterham Motorsport) with NACA ducts for brake cooling and a rear wing: APR Performance GTC-300 (300mm chord, 900mm span) with adjustable angle (0-12°) and carbon fiber endplates.",
+    "Bodywork: Full carbon fiber body panels (Caterham Motorsport) including hood, doors, and rear clamshell, finished in a custom matte vinyl wrap (3M 2080 Gloss Black with red pinstripes). Lightweight wheels: OZ Racing Ultraleggera HLT (15x8 front, 15x9 rear) with ET35 offset, wrapped in Michelin Pilot Sport Cup 2 tires (195/45 R15 front, 245/40 R15 rear).",
+    "Interior: Full Alcantara trim (Sparco) including dashboard, door cards, and shift boot, with a custom roll cage (Caterham Motorsport T45 steel) featuring integrated fire suppression system (Lifeline Zero 360) and a digital dash: AIM MXS Strada (1.3\" display) with GPS lap timer, oil temp/pressure, and boost pressure logging. Seats: Sparco Pro 2000 (carbon Kevlar shell) with Schroth 6-point harnesses (ASM2 model)."
+  ]
+}

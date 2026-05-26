@@ -1,0 +1,14 @@
+{
+  "brand": "CATERHAM",
+  "model": "SEVEN 485 R",
+  "prestazioni": [
+    "Replace the stock Ford Sigma 1.6L (engine code: *Duratec Ti-VCT 1.6L 16V*) with a *Ford Ecoboost 1.6L (engine code: *GTDI 1.6L EcoBoost*)* from the Focus ST/RS, retaining the stock 7-speed Quaife ATB LSD but upgrading to a *Quaife QBE60G close-ratio gearset* for optimized acceleration. Pair with a *Garrett GT2860RS turbocharger* (8.5psi base boost) and a *Pectel SQ6M standalone ECU* with custom 20x20 ignition/fuel maps for 280hp at 6,800rpm and 260lb-ft at 4,500rpm.",
+    "Install a *Caterham Motorsport-spec 4-2-1 stainless steel exhaust manifold* (1.75\" primaries, 2.5\" collectors) with a *Scorpion 2.5\" titanium backbox* (resonated, 95dB at 4,500rpm) and a *Tial 44mm external wastegate* (ported for reduced lag). Replace the stock radiator with a *Setrab 16-row oil cooler* and a *PWR aluminium radiator* (dual-core, 45mm thickness) to manage heat under sustained track use.",
+    "Swap the stock *Caterham De Dion rear suspension* for a *Caterham Motorsport adjustable rose-jointed rear trailing arm kit* (polyurethane bushings, -1.5° camber gain) and pair with *Öhlins TTX25 coilovers* (22-way compression/rebound damping, 30mm front/25mm rear spring rates). Fit *AP Racing CP5200 calipers* (4-piston, 280mm discs) with *Ferodo DS2500 pads* and *Goodridge 3AN braided stainless steel brake lines* for fade-resistant stopping power."
+  ],
+  "estetica": [
+    "Replace the stock GRP nosecone with a *Caterham Motorsport carbon fibre front splitter* (30mm overhang, 30% downforce increase at 100mph) and a *custom 3D-printed ABS rear diffuser* (250mm chord, 4 strakes, matched to the De Dion tunnel). Paint the entire body in *PPG Concept Vibrance ‘Lime Sorbet’* (matte finish, 2-stage clearcoat) with *3M 1080 ‘Gloss Black’ vinyl* on the bonnet and side pods for heat dissipation.",
+    "Fit *OMP 6-point 25mm FIA-spec roll cage* (T45 steel, powder-coated ‘Racing Green’) with *Sparco Pro 2000 seats* (HANS-compatible, 1.2kg carbon fibre shells) and *Schroth 6-point harnesses* (ASM2 configuration, 2\" lap belts). Replace the stock steering wheel with a *Momo Prototipo* (330mm diameter, suede grip, quick-release hub) and add a *Caterham Motorsport digital dash* (AIM MXS 1.2, 5\" TFT, CAN-bus integration).",
+    "Install *DRLs from a Lotus Exige Sport 350* (LED, 5000K, E-marked) in the front bumper and *Hella Rallye 3000 Supertones* (100W, 6\" diameter) on a *custom aluminium roof-mounted pod* (CNC-machined, anodised ‘Gunmetal Grey’). Add *Caterham Motorsport carbon fibre side mirrors* (heated, 30% weight reduction) and *BBS CH-R 15x8 ET25 wheels* (gold centres, 4x100 PCD, shod with *Avon ZZR 195/50 R15* semi-slick tyres)."
+  ]
+}

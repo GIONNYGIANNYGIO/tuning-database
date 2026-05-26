@@ -1,0 +1,14 @@
+{
+  "brand": "CHEVROLET",
+  "model": "CHEVELLE SS 454",
+  "prestazioni": [
+    "Engine: Replace the stock LS6 454ci (7.4L) big-block V8 with a stroked 502ci Merlin IV block (GM Performance PN 19352121), forged internals including Callies Dragonslayer crankshaft (4.500\" stroke), Manley I-beam connecting rods (6.385\" length), and JE Pistons (9.5:1 compression, 4.500\" bore). Pair with a Comp Cams solid roller camshaft (PN 11-771-9, 264°/272° duration, .650\"/.657\" lift, 110° LSA) and ported Edelbrock Victor Jr. aluminum heads (PN 61619, 320cc intake runners, 119cc combustion chambers).",
+    "Forced Induction: Install a ProCharger F-3R centrifugal supercharger (14-rib, 100mm billet impeller, 14psi max boost) with a custom intercooler setup featuring a Bell Intercoolers 4.5\" thick core (24\" x 12\" x 4.5\") and dual 4\" polished aluminum piping. Use an Aeromotive A1000 fuel pump (PN 11101) with dual -8AN feed lines and Injector Dynamics ID2000x injectors (2000cc/min, ethanol-compatible).",
+    "Drivetrain: Swap the stock Muncie M22 \"Rock Crusher\" 4-speed for a Tremec TKO-600 5-speed (PN 3110-010201) with a McLeod RST twin-disc clutch (PN 8617, 11\" diameter, 26-spline, 1575lb clamp load). Upgrade the 12-bolt rear end with a Moser Engineering 9\" housing (PN 1212-A, 35-spline axles) and a Detroit Truetrac limited-slip differential (3.73:1 gear ratio)."
+  ],
+  "estetica": [
+    "Body: Install a Rare Classics fiberglass SS-style hood (PN RC-69CHV-SS, 4\" cowl induction scoop) and a custom widebody kit from Schwartz Performance (flares extended 2.5\" per side, bolt-on fender panels). Apply a BASF Glasurit 90-Line custom paint in \"1970 Cortez Silver\" with black SS stripes (hand-masked, 3M vinyl overcoat for protection).",
+    "Wheels/Tires: Mount Forgeline GA3R 18x9.5\" (front) and 18x11\" (rear) wheels (ET25 offset, 5x4.75\" bolt pattern) with Michelin Pilot Sport Cup 2 tires (275/35/18 front, 315/30/18 rear). Use Baer 14\" EradiSpeed rotors (PN 4301400) with six-piston calipers (PN 6P.14) and stainless steel braided lines.",
+    "Interior: Replace the stock bench seat with Corbeau GTS II bucket seats (PN 55002, black Alcantara with red stitching) and a custom roll cage from Chassisworks (8-point, mild steel, 1.75\" diameter, bolt-in design). Install a Momo Mod.78 steering wheel (3-spoke, 14\" diameter) on a Flaming River tilt column (PN FR3000) and a Dakota Digital HDX-1000 gauge cluster (PN HDX-1000-CHEV-70, programmable warning lights, peak recall)."
+  ]
+}

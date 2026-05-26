@@ -1,0 +1,14 @@
+{
+  "brand": "CATERHAM",
+  "model": "SEVEN 310 R",
+  "prestazioni": [
+    "Engine: Ford Sigma 1.6L Duratec Ti-VCT (code: *GDI-16V*) with forged internals upgrade including Mahle Motorsport forged pistons (87.5mm bore, 8.5:1 CR), Eagle H-beam connecting rods, and a billet crankshaft from Manley Performance. Paired with a Garrett GT2860RS turbocharger (0.63 A/R turbine housing) and a custom 3.5-inch stainless steel exhaust system by Scorpion, featuring a 304-grade merge collector and 2.5-inch straight-pipe exit with a titanium Akrapovič muffler.",
+    "Drivetrain: Quaife ATB helical LSD (80% lock) with a Caterham-specific 5-speed sequential gearbox conversion by Hewland (FT200 model), featuring a short-shift kit by Tran-X and a lightweight flywheel from Fidanza (11.5 lbs). Clutch system upgraded to a Sachs Performance twin-disc setup (240mm diameter) with a billet aluminum pressure plate.",
+    "Suspension & Chassis: Öhlins TTX25 coilovers with 2-way adjustable damping (12-position rebound, 24-position compression) and custom valving for the Seven 310 R’s 1,100 lb weight. Polyurethane bushings from SuperPro (full kit) replace all OEM rubber mounts, including the rear trailing arm bushings. Front anti-roll bar upgraded to a 22mm adjustable unit by Whiteline, paired with spherical bearing end links from Hardrace."
+  ],
+  "estetica": [
+    "Aero: Custom carbon fiber front splitter by Caterham Motorsport (part #CM-001) with integrated dive planes, paired with a rear diffuser by Seibon Carbon (model: *Seven 310 R-specific*). Side skirts replaced with lightweight aluminum units from Laminar Lip, featuring integrated LED turn signals. Full carbon fiber hood (wet-layup, 1.5mm thickness) by AutoCarbon, with a central NACA duct for brake cooling.",
+    "Exterior: Bespoke vinyl wrap by 3M (color: *Matte Anthracite Black* with *Gloss Black* racing stripes) applied by Avery Dennison-certified installers. OEM headlights replaced with Hella Rallye 4000 Compact units (H4 bulbs, 100W), paired with custom LED daytime running lights by Diode Dynamics. Side mirrors upgraded to carbon fiber units by APR Performance (model: *GT-Aero*), with integrated turn signals.",
+    "Interior: Full Alcantara retrim by Cobra Seats (model: *Classic-R*), including the dashboard, door cards, and center console. Steering wheel replaced with a 330mm Momo Prototipo (suede, flat-bottom) with a quick-release hub by NRG Innovations. Digital dash upgrade to an AIM MXS Strada (7-inch display) with custom Caterham-specific CAN bus integration, paired with a Motec PDM15 for power distribution and data logging."
+  ]
+}

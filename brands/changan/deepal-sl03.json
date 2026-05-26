@@ -1,0 +1,14 @@
+{
+  "brand": "CHANGAN",
+  "model": "DEEPAL SL03",
+  "prestazioni": [
+    "Replace the stock *EH120* 1.5L turbocharged inline-4 (138 kW / 188 PS) with a *Garrett GTX3071R Gen II* turbocharger, paired with a *Tial MV-R 44mm* external wastegate and a *PTP 3.5-inch* silicone charge pipe kit to handle the increased airflow and prevent boost leaks at 28 psi peak pressure.",
+    "Install a *Link G4X Storm* standalone ECU with a *Changan SL03-specific* base map, integrating *Motec M1* knock control and *AEM X-Series* wideband O2 sensors for real-time AFR monitoring, targeting 11.8:1 AFR under full load with *E85 flex-fuel* capability via a *Radium Engineering* dual-pump fuel system.",
+    "Upgrade the stock *EH120* internals with *Manley* forged 87mm pistons (9.5:1 CR), *Eagle* H-beam connecting rods, and a *Crower* billet crankshaft, paired with *Ferrea* intake/exhaust valves, *Supertech* valve springs, and *ARP* head studs to support 600+ WHP on *VP Racing Q16* fuel."
+  ],
+  "estetica": [
+    "Install a *Liberty Walk LB-SL03* widebody kit with *custom carbon fiber* fenders, front splitter, and rear diffuser, designed specifically for the SL03’s *2,700mm wheelbase* and *1,600mm track width*, paired with *Work Emotion CR Kiwami* 19x10.5 ET20 wheels wrapped in *Michelin Pilot Sport Cup 2 R* 275/35R19 tires.",
+    "Replace the stock LED taillights with *Dapper Lighting* sequential RGB LED units, integrated with *AEM VCU* for customizable light patterns, and add a *Seibon* carbon fiber hood with *custom heat extractors* to match the *EH120* turbo setup’s thermal demands.",
+    "Apply a *3M 1080* *Matte Military Green* vinyl wrap with *custom metallic flakes* and *PPF* on high-impact areas, paired with *Vland* JDM-style side markers and a *Rally Armor* clear polyurethane mudflap kit for a stealth rally-inspired aesthetic."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "CHEVROLET",
+  "model": "COLORADO ZR2",
+  "prestazioni": [
+    "Engine: Replace the stock LGZ 3.6L V6 (24-valve, direct-injection) with a custom-built forced-induction setup using a Garrett GTX4202R turbocharger (88mm compressor, 1.06 A/R turbine housing) paired with a PTP Turbo Fabrication cast-aluminum intake manifold and a Bosch 0280158899 1,200cc high-flow fuel injector kit. Compression ratio reduced to 9.5:1 via Mahle forged pistons (part #MAH-26185-001) and Eagle H-beam connecting rods (part #CRS6125B3D).",
+    "Drivetrain: Install a Tremec TR-9070 7-speed dual-clutch transmission with a South Bend Clutch twin-disc organic/carbon hybrid clutch (rated for 800 lb-ft torque) and a custom 4.56:1 gear set from Strange Engineering (part #S6900) for the Dana 60 rear axle. Upgrade the front differential to a Eaton M90 LSD with 3.73:1 gears (part #EAT-M90-373).",
+    "Suspension: Replace the stock Multimatic DSSV dampers with a custom Öhlins TTX46 coilover kit (24-way adjustable compression, 22-way rebound) paired with Eibach ERS 800lb/in springs. Install a Hellwig 7718 anti-roll bar (1.5\" diameter, 3-position adjustable) and Polyurethane bushings from Energy Suspension (part #9.51110) for the front control arms."
+  ],
+  "estetica": [
+    "Aero: Fit a custom widebody kit from RK Sport (part #RK-CHEV-COL-ZR2-WB) with carbon fiber fender flares (3.5\" extended) and a functional carbon fiber hood (part #RK-CHEV-COL-ZR2-HOOD) featuring dual 3\" heat extractors. Add a custom front splitter from APR Performance (part #APR-SPLITTER-COL-ZR2) with integrated canards and a carbon fiber rear diffuser from Seibon (part #SEI-COL-ZR2-DIFF).",
+    "Wheels/Tires: Mount a set of HRE FF17 flow-formed wheels (18x10.5 +15 front, 18x11 +25 rear) wrapped in Nitto Ridge Grappler LT305/65R18 tires (12-ply, 3,525lb load rating) for off-road and Toyo R888R 295/40R18 semi-slick tires for track use. Use Brembo GT 6-piston calipers (part #1N3.9005.10) with 15.7\" two-piece rotors (part #09.9405.11) and Ferodo DS2500 brake pads (part #FDB1617).",
+    "Lighting: Replace all lighting with Diode Dynamics SS360 Gen 2 LED pods (part #DD1500) for the front bumper, Baja Designs Squadron Pro LED lights (part #610001) for the roof, and Oracle Lighting RGB halo headlights (part #5722-0073) with a custom sequential turn signal module (part #ORC-SEQ-001)."
+  ]
+}

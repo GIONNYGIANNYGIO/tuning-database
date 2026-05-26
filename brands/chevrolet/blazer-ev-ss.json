@@ -1,0 +1,14 @@
+{
+  "brand": "CHEVROLET",
+  "model": "BLAZER EV SS",
+  "prestazioni": [
+    "Ultium Drive Unit (GM's proprietary electric motor code: **EM100**) overclock via **HP Tuners EV Pro** software, targeting 650 kW (870 hp) peak power with a 0-60 mph time of 2.9 seconds by recalibrating the inverter's switching frequency to 20 kHz and optimizing regenerative braking torque to 450 Nm at 100% charge (stock: 380 Nm).",
+    "Brembo **GT 380x34mm** 6-piston monoblock front calipers with **two-piece carbon-ceramic rotors (420mm x 38mm)** and **Ferodo DS3.1** race pads, paired with **Motul RBF 660** brake fluid to handle 1.5g deceleration from 124 mph (200 km/h) without fade. Rear setup retains stock calipers but upgrades to **DBA 5000 Series** slotted rotors and **Hawk HT-14** pads for balanced bias.",
+    "Custom **Unplugged Performance** dual-core **800V silicon carbide (SiC) MOSFET** inverter upgrade with **liquid-cooled busbars** and **AEM EV VCU-4000** standalone controller to eliminate thermal throttling during sustained 1.2g lateral acceleration (e.g., Laguna Seca lap times). Includes **TE Connectivity HVIL (High-Voltage Interlock Loop)** safety circuit for 900V+ operation."
+  ],
+  "estetica": [
+    "**Rocket Bunny V3** widebody kit for Blazer EV SS (carbon fiber fenders with **1.75-inch extended wheel arches**, front splitter with **adjustable Gurney flap**, and **dual-element rear wing** with 3D-printed titanium supports for 150 lbs of downforce at 100 mph). Painted in **PPG 'Infrared Shift' (KBC-9900)** with **3M 2080 Series** matte clear coat for heat dissipation.",
+    "**HRE FF10** forged monoblock wheels (21x10.5 front, 22x12.5 rear) with **Pirelli P Zero Trofeo R** tires (275/30R21 front, 325/25R22 rear) and **HRE's proprietary 'FlowForm+'** barrel design for 20% weight reduction over stock. Finished in **BBS gold anodized** center caps with **Chevrolet Performance** SS badging.",
+    "**Seibon Carbon** full carbon fiber interior swap: **door cards, center console, and dashboard** with **Alcantara-wrapped Recaro SP-G (JDM-spec)** seats featuring **Schroth 6-point harnesses** and **Sparco carbon fiber heel plates**. Steering wheel replaced with **NRG Innovations** quick-release hub and **Momo Prototipo** flat-bottom wheel wrapped in **Nappa leather with red stitching**."
+  ]
+}

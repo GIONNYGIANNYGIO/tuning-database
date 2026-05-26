@@ -1,0 +1,14 @@
+{
+  "brand": "CHEVROLET",
+  "model": "CAMARO IROC-Z",
+  "prestazioni": [
+    "L98 350ci (5.7L) V8 engine: Full forged internals with a Lunati 4340 forged crankshaft (3.75\" stroke), Manley H-beam connecting rods (6.000\" length), and JE forged pistons (9.5:1 compression ratio) for 650+ HP reliability on E85. Paired with a custom-grind Comp Cams hydraulic roller camshaft (236°/242° duration @ .050\", .600\"/.610\" lift) and PAC Racing valve springs (140 lbs seat pressure) to handle 7,500 RPM safely.",
+    "Induction system: Holley Sniper EFI 2x4 throttle body kit (90mm) with a custom-fabricated aluminum intake manifold (modeled after the Lingenfelter L98 design) and port-matched Edelbrock Performer RPM cylinder heads (2.02\"/1.60\" valves, 170cc intake runners). Boosted applications use a Precision Turbo PT6266 CEA turbocharger (62mm inducer, .82 A/R turbine housing) with a Turbosmart Race Port 45mm wastegate and Tial MV-R 50mm blow-off valve.",
+    "Drivetrain and suspension: Tremec T56 Magnum 6-speed transmission with a McLeod twin-disc RST clutch (2,600 lb clamp load) and a Strange Engineering S60 rear differential (3.73:1 gear ratio, 35-spline axles). Chassis reinforcement via a Global West subframe connectors kit and a Hotchkis Sport suspension package (1.25\" drop springs, adjustable front sway bar, and rear trailing arms with polyurethane bushings). Braking upgraded to Baer 6P 6-piston calipers (14\" rotors front, 13\" rear) with Hawk HT-10 brake pads."
+  ],
+  "estetica": [
+    "Bodywork: RK Sport IROC-Z-specific widebody conversion kit (fiberglass fenders, quarter panels, and front bumper with integrated brake ducts) paired with a custom-molded carbon fiber hood (functional cowl induction scoop, 30 lbs weight savings). Rear diffuser by APR Performance (carbon fiber, 3-piece design) and a custom-fabricated aluminum rear wing (dual-element, 60\" span, adjustable angle of attack).",
+    "Wheels and stance: BBS LM-RS II 18x10.5\" (front) and 18x12\" (rear) wheels with custom offsets (+15mm front, +30mm rear) wrapped in Nitto NT05R tires (275/35/18 front, 315/30/18 rear). Suspension geometry adjusted via Global West tubular control arms (front) and a BMR adjustable panhard bar (rear) for a 1.5\" static drop with zero fender gap.",
+    "Interior and details: Full Recaro SRD-X seats (fixed-back, FIA-approved) with Schroth 6-point harnesses and a custom-fabricated aluminum roll cage (10-point, TIG-welded, 1.75\" .120 wall DOM tubing). Dashboard replaced with a Motec C127 digital dash (CAN bus integration) and a custom aluminum center console (housing a Holley EFI controller and AEM X-Series wideband gauge). Exterior accents include a custom-mixed PPG \"IROC Orange\" paint (original 1988 code 74/75) with 3M matte black vinyl-wrapped roof and A-pillars, and Hella Rallye 3000 headlights (H4 conversion, Cibie projectors)."
+  ]
+}

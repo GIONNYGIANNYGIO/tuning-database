@@ -1,0 +1,14 @@
+{
+  "brand": "CHEVROLET",
+  "model": "CAMARO Z28",
+  "prestazioni": [
+    "LS3 6.2L V8 (engine code: LS3-7603) stroked to 416ci (6.8L) with forged internals: Callies Compstar crankshaft (4.000\" stroke), Manley I-beam connecting rods (6.125\" length), and Mahle 2618 alloy pistons (11.5:1 compression). Paired with a custom camshaft grind from COMP Cams (242/248 duration @ 0.050\", 0.624\"/0.624\" lift, 114° LSA) for aggressive mid-to-high RPM power delivery.",
+    "Forced induction via a single Precision Turbo PT6266 CEA turbocharger (62mm inducer, 66mm exducer) with a custom Tial MV-R 44mm wastegate and Tial Q 50mm blow-off valve. Intercooled with a PWR 4.5\" core bar-and-plate intercooler (1,200cfm flow) and custom 3\" aluminum charge piping with silicone couplers from Vibrant Performance.",
+    "Fuel system overhaul: Fore Innovations 450LPH dual-pump fuel system with -8AN feed/return lines, Injector Dynamics ID1050x injectors (1,050cc/min), and a Holley Dominator ECU with custom LS3-specific calibration for E85 compatibility. Exhaust system features a custom 3\" stainless steel header-back setup with Burns Stainless 1-7/8\" primary headers, 3\" merge collectors, and a MagnaFlow Competition Series muffler (2.5\" outlet) for optimal scavenging."
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (Z28-specific) with carbon fiber front fenders, rear quarter panels, and a duckbill rear spoiler. Front splitter and rear diffuser from APR Performance (carbon fiber, 3-piece design) for aggressive aero balance.",
+    "Custom matte Hyper Black vinyl wrap with gloss black accents (3M 2080 series) and a satin clear coat finish. OEM Z28 badges replaced with carbon fiber replicas from Seibon, and side markers deleted with custom LED strips (Diode Dynamics) for a cleaner look.",
+    "Forgeline GA3R 19x11\" (front) and 19x12\" (rear) wheels in matte bronze, wrapped in Michelin Pilot Sport Cup 2 tires (285/30/19 front, 315/30/19 rear). Suspension lowered via KW Clubsport 3-way coilovers (24-way adjustable damping, 10kg/mm front springs, 12kg/mm rear springs) with custom camber plates from BMR Suspension for aggressive stance and track alignment."
+  ]
+}

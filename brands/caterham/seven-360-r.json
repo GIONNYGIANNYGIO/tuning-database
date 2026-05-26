@@ -1,0 +1,14 @@
+{
+  "brand": "CATERHAM",
+  "model": "SEVEN 360 R",
+  "prestazioni": [
+    "Engine: Ford Sigma 1.6L (code: DV6C) stroked to 1.8L via Mahle Motorsport forged pistons (87.5mm bore) and Cunningham conrods (136mm length), paired with a custom billet crankshaft (78.7mm stroke) for 1,800cc displacement. Compression ratio increased to 12.5:1 with JE FSR forged pistons and ACL Race Series bearings. Head ported by Jenvey Dynamics with oversized 45mm inlet valves and 38mm sodium-filled exhaust valves, paired with Ferrea Competition Plus valve springs and titanium retainers.",
+    "Forced Induction: Rotrex C38-91 supercharger (12psi peak boost) with a custom billet aluminum intake manifold by Titan Motorsport, featuring a 75mm throttle body and a custom intercooler core (VPE 400x200x76mm) with dual 100mm Samco silicone hoses. ECU reflashed via Syvecs S6GP standalone with custom fuel and ignition maps, supporting ID1000x injectors and a Bosch 044 fuel pump with an Aeromotive FPR.",
+    "Drivetrain: Quaife ATB helical LSD in a Caterham 6-speed sequential gearbox (close-ratio gears: 2.69, 1.84, 1.44, 1.15, 0.92, 0.78) with a Tilton twin-plate ceramic clutch. Custom driveshafts by GKN Driveline with CV joints rated for 500Nm torque. Rear axle reinforced with a Caterham Motorsport 3.92:1 LSD differential and polybushings from SuperPro."
+  ],
+  "estetica": [
+    "Aerodynamics: Caterham Motorsport carbon fiber front splitter with integrated dive planes (adjustable angle via M6 turnbuckles) and a custom 3-piece rear diffuser by APR Performance (carbon fiber, 120mm height). Full carbon fiber underbody tray by Seibon with integrated NACA ducts for brake cooling. Side skirts replaced with carbon fiber units from Caterham Motorsport, featuring integrated LED running lights (Philips X-tremeUltinon 6000K).",
+    "Bodywork: Full carbon fiber widebody kit by Caterham Motorsport (70mm wider front, 90mm wider rear) with custom-fabricated aluminum fender flares (2mm thick, riveted and bonded). Hood replaced with a carbon fiber unit from Seibon (vented, with dual 80mm NACA ducts for engine bay cooling). Rear wing: APR Performance GTC-300 (carbon fiber, 300mm chord, adjustable angle 0-20°) mounted on billet aluminum pedestals (CNC-machined by Caterham Motorsport).",
+    "Interior: Full carbon fiber dashboard by Caterham Motorsport with a 7-inch AIM MXS Strada digital dash (CAN bus integration for Syvecs ECU). Seats replaced with Sparco Pro 2000 carbon fiber shells (fixed-back, 6-point harnesses by Schroth Profi II-6). Steering wheel: Momo Prototipo (330mm diameter, suede, quick-release hub) with integrated paddle shifters for the sequential gearbox. Roll cage: Custom 8-point chromoly cage by Custom Cages (T45 steel, MIG-welded, with integrated fire suppression system by Lifeline Zero 360)."
+  ]
+}

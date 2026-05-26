@@ -1,0 +1,14 @@
+{
+  "brand": "CHEVROLET",
+  "model": "CAPRICE PPV",
+  "prestazioni": [
+    "LS3 6.0L V8 (L99 variant, engine code: L77) forced induction conversion using a Garrett GTX4202R turbocharger (86mm compressor wheel, 1.06 A/R turbine housing) with a custom 3.5-inch stainless steel turbo-back exhaust featuring Burns Stainless 4-2-1 merge collectors and a Vibrant 1799 resonated muffler for optimized backpressure and sound modulation",
+    "Holley Dominator EFI ECU with a custom LS3-specific tune calibrated for E85 fuel (utilizing ID1000X injectors and a Fore Innovations 450 LPH fuel pump) paired with a Nitrous Express GenX Direct Port nitrous system (150hp shot) for on-demand power augmentation",
+    "Full drivetrain reinforcement including a Tremec TR-6060 6-speed manual transmission swap with a McLeod RST twin-disc clutch (26-spline, 2400lb pressure plate), a Strange Engineering S60 rear differential (3.73:1 gear ratio, 35-spline axles), and a Detroit Truetrac limited-slip differential for improved torque distribution"
+  ],
+  "estetica": [
+    "Custom widebody conversion using a PPV-specific Rocket Bunny V3 aero kit (fiberglass fenders, carbon fiber front splitter, and rear diffuser) with a 2-inch extended wheelbase for aggressive stance and tire clearance (285/30/20 front, 315/25/20 rear on Work Emotion CR Kiwami wheels)",
+    "Full carbon fiber hood replacement (Seibon Carbon, OEM-style latch) with a functional dual-snorkel ram-air intake system (K&N filters, polished aluminum piping) and a custom PPV-specific front bumper delete (replaced with a carbon fiber lower valence from APR Performance)",
+    "Interior overhaul featuring Recaro Pole Position bucket seats (PPV-specific mounting brackets), a NRG Innovations quick-release steering wheel (with a Chevrolet bowtie emblem), and a custom roll cage (Chassisworks 8.5-point bolt-in, mild steel, powder-coated matte black) with integrated harness bar for FIA-spec safety compliance"
+  ]
+}

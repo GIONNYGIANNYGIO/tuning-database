@@ -1,0 +1,14 @@
+{
+  "brand": "CATERHAM",
+  "model": "CSR",
+  "prestazioni": [
+    "Engine: Ford Duratec 2.3L (engine code: *Duratec-CSR*) stroked to 2.5L via a *JE Pistons 87.5mm forged piston kit* (9.0:1 compression) with *Manley H-beam connecting rods* and *Crower billet crankshaft*, paired with *Ferrea Competition Series intake/exhaust valves* and *Supertech valve springs/retainers* for 9,000 RPM capability.",
+    "Forced Induction: *Rotrex C38-91 supercharger* (12 psi max boost) with *PWR Australia intercooler* (bar-and-plate, 10-row core) and *Injector Dynamics ID1700x injectors*, controlled via *Syvecs S8 ECU* with *Motec PDM-15* power distribution module for precise fuel/ignition mapping under boost.",
+    "Drivetrain: *Quaife ATB LSD* (80% lock) with *Hewland LD200 sequential gearbox* (dog-ring, 6-speed) and *AP Racing CP8660 twin-plate clutch* (paddle-type, 3.5-inch diameter), mated to a *Caterham CSR-specific carbon-fiber propshaft* and *GKN VL3 viscous coupling* for optimized torque split."
+  ],
+  "estetica": [
+    "Aerodynamics: *Caterham Motorsport CSR260 aero package* (front splitter, rear diffuser, and *AeroCatch* quick-release bonnet) with *Vortex Generators* (3M 4011 tape) applied to the rear wing for boundary-layer control, reducing drag by 8% at 120 mph.",
+    "Bodywork: *Carbon-Kevlar CSR-specific widebody kit* (hand-laid by *Kaz Racing Composites*) with *PPG Vibrance Collection* paint in *Lime Squeeze* (custom mixed with *PPG DX333 clearcoat* for UV resistance), featuring *Airlift Performance 3P air management* for adjustable ride height (20mm drop).",
+    "Interior: *Sparco Pro 2000 seats* (carbon-Kevlar shell, FIA 8855-1999 certified) with *Schroth Profi II-6 harnesses* (HANS-compatible), *Momo Mod.78 steering wheel* (suede, 320mm diameter) on a *NRG quick-release hub*, and *AIM MXS Strada dash* (12-inch display) integrated with *RaceLogic VBOX Sport* for lap-time telemetry."
+  ]
+}

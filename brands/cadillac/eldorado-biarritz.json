@@ -1,0 +1,14 @@
+{
+  "brand": "CADILLAC",
+  "model": "ELDORADO BIARRITZ",
+  "prestazioni": [
+    "Engine swap to a 6.2L LT4 V8 (GM engine code) from the C7 Corvette Z06, retaining the original 4T80-E transmission but upgrading to a Sonnax Smart-Tech valve body and a Precision Industries 3600-stall torque converter for optimized shift points under boost",
+    "Forced induction via a custom-built Hellion Power Systems twin-turbo kit with Garrett GTX4202R turbos (86mm, 1.06 A/R) running 12 psi, paired with a custom intercooler setup using a PWR North America 4.5-core front-mount intercooler and Vibrant Performance 3.5\" mandrel-bent piping",
+    "Fuel system overhaul featuring a Fore Innovations F2i-1000 fuel pump, Injector Dynamics ID1700x injectors, and a Holley Dominator ECU with a custom calibration by Lingenfelter Performance Engineering for LT4-specific boost mapping and knock control"
+  ],
+  "estetica": [
+    "Full custom body kit by RK Sport, including a 2000-2002 Eldorado Biarritz-specific widebody conversion with carbon fiber fender flares, front splitter, and a rear diffuser, all finished in a custom-mixed PPG 'Biarritz Gold' pearl with a matte clear coat",
+    "Suspension drop via a Detroit Speed Selective Ride Control system with custom-valved Bilstein coilovers (2.5\" drop in front, 2.0\" in rear) and Eibach Pro-Spacer wheel spacers (20mm front, 25mm rear) to achieve a flush stance with 20x9.5\" and 20x11\" BBS LM wheels wrapped in Michelin Pilot Sport Cup 2 tires (255/35/20 front, 295/30/20 rear)",
+    "Interior overhaul with Recaro Pole Position seats (retrimmed in Alcantara and custom-stitched Cadillac crests), a Momo Prototipo steering wheel with a quick-release hub, and a full custom gauge cluster by Dakota Digital featuring LT4-specific readouts (boost, AFR, oil pressure) in a vintage Cadillac font"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "BUGATTI",
+  "model": "TYPE 55",
+  "prestazioni": [
+    "Engine: Replace the original 2.3L supercharged inline-8 (engine code: **Type 51**) with a fully restored and balanced **Type 51** block bored to 2.4L, featuring forged Mahle pistons (87.5mm bore), Carrillo H-beam connecting rods, and a bespoke crankshaft with a 90mm stroke for 2.6L displacement. Pair with a custom-built Roots-type supercharger (Weber/Magnuson MP112) running 12 psi of boost, intercooled via a custom air-to-water setup with a PWR heat exchanger.",
+    "Drivetrain: Install a **ZF 5DS25-2 5-speed dog-leg gearbox** (from a BMW M1 Procar) with a Quaife ATB differential, mated to a custom 3.5:1 final drive ratio. Replace the original torque tube with a **Tilton Engineering** carbon-fiber driveshaft and uprated CV joints (GKN Lobro) to handle increased power.",
+    "Suspension & Brakes: Convert to a **Öhlins TTX40 coilover system** with custom valving for the Type 55’s leaf-spring front and live-axle rear, paired with **Eibach ERS race springs** (1200 lb/in front, 800 lb/in rear). Fit **Brembo GT-R 6-piston calipers** (380mm rotors front, 355mm rear) with Ferodo DS3000 pads and braided stainless steel lines. Add a **Willwood pedal box** with adjustable bias for track use."
+  ],
+  "estetica": [
+    "Body: Replace the original aluminum panels with a **custom 1.2mm 5052 aluminum alloy body** (hand-formed by **The Metal Surgeon**), featuring a **Rocket Bunny-inspired widebody kit** (custom-fabricated for the Type 55) with integrated fender flares, a carbon-fiber front splitter (AeroTech Designs), and a **custom 3-piece aluminum rear diffuser** with integrated exhaust exits.",
+    "Interior: Retrim the cabin in **Bridge of Weir leather** with **Alcantara headliner** and **carbon-fiber door cards** (by **Sparco**). Install a **MOMO Prototipo 380mm steering wheel** with a quick-release hub, **Recaro Pole Position seats** (modified for the Type 55’s chassis), and a **Motec C127 dash logger** integrated into the original gauge cluster.",
+    "Aero & Details: Fit **HRE FF01 wheels** (18x9 front, 18x11 rear) with **Michelin Pilot Sport Cup 2 tires** (245/40/18 front, 295/35/18 rear). Add a **custom aluminum radiator shroud** (polished) with **LED auxiliary lighting** (Lux H4 bulbs). Replace the original grille with a **hand-formed brass mesh** (gold-plated) and add **custom brass side-exit exhaust tips** (by **SuperTrapp**)."
+  ]
+}

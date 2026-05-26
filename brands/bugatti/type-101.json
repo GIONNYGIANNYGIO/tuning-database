@@ -1,0 +1,14 @@
+{
+  "brand": "BUGATTI",
+  "model": "TYPE 101",
+  "prestazioni": [
+    "Engine: Replace the original 3.3L Type 50B inline-8 (engine code: 50B) with a fully built, dry-sumped 4.5L stroker version using forged Mahle pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from Bryant Racing. Pair with a custom camshaft profile by Schrick (280° duration, 12.5mm lift) and titanium retainers from Ferrea Racing.",
+    "Forced Induction: Twin-turbocharged setup using Garrett GT35R turbos (846521-5004S) with custom 3D-printed Inconel exhaust manifolds by Burns Stainless, feeding into a custom air-to-water intercooler system with a PWR radiator and Bosch 044 fuel pumps (dual setup) for E85 compatibility. Boost controlled via an AEM 30-4110 ECU with custom mapping by VRTuned.",
+    "Drivetrain: Reinforced 4-speed manual transmission with a Quaife ATB differential and a custom lightweight flywheel by Tilton Engineering. Clutch system upgraded to a twin-disc setup with a Sachs Performance pressure plate (part #6282 000 048) and carbon-metallic discs by Spec Clutch."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion using a custom Type 101-specific Rocket Bunny/Pandem kit (modified to retain original suicide doors), with a 3M Matte Pearl White wrap and hand-painted Bugatti blue pinstriping by Dr. ColorChip.",
+    "Aerodynamics: Custom front splitter and rear diffuser by APR Performance, paired with a fixed rear wing from Voltex (Type 3, 1750mm width) and a custom aluminum undertray for optimized downforce. Side skirts replaced with 3D-printed carbon fiber units by 9 Lives Racing.",
+    "Wheels & Interior: 18-inch custom forged wheels by HRE (FF03 model, 9x18 front/11x18 rear) with Michelin Pilot Sport Cup 2 tires (245/40/18 front, 295/35/18 rear). Interior retrimmed in full Alcantara by Katzkin, featuring a custom roll cage by Custom Cages UK (T45 steel, chrome-moly gussets) and Recaro Pole Position seats with Schroth 6-point harnesses."
+  ]
+}

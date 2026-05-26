@@ -1,0 +1,14 @@
+{
+  "brand": "CHEVROLET",
+  "model": "CAMARO SS",
+  "prestazioni": [
+    "LT1 6.2L V8 (engine code: LT4-derived block, Gen V small-block) with forged internals: Mahle 2618 alloy pistons (9.5:1 compression), Callies Compstar crankshaft (4.000\" stroke), and Manley H-beam connecting rods (6.125\" length) for 8,500 RPM redline capability, paired with a custom camshaft profile by COMP Cams (236/242 duration @ 0.050\", 0.624\"/0.624\" lift, 114° LSA) and PAC Racing valve springs (220 lbs/in seat pressure).",
+    "Forced induction via ProCharger F-1X centrifugal supercharger (10-rib serpentine drive, 4.10\" pulley) with a custom air-to-water intercooler system (VMP Racing heat exchanger, Bosch 1040 L/min pump, and 2.5-gallon ice reservoir) and dual 1,000cc ID1000 injectors (Bosch 0280158100) managed by a Holley Dominator EFI ECU with flex-fuel sensor and COBB Tuning Accessport for real-time calibration.",
+    "Drivetrain upgrades: Tremec TR-6060 6-speed manual transmission with a Spec Stage 4+ twin-disc clutch (26-spline, 6-puck carbon-metallic discs, 3,000 lb-ft torque capacity) and a BMR Fabrication driveshaft safety loop, paired with a G-Force GSR-4 4.10:1 gearset in a Moser Engineering 9\" housing (35-spline axles, ARP studs) for 0-60 mph in 3.1 seconds."
+  ],
+  "estetica": [
+    "Liberty Walk LB-WORKS widebody conversion kit (carbon fiber fenders, quarter panels, and front bumper with integrated canards) paired with a custom 3M Matte Military Green wrap (2080 series) and exposed carbon fiber weave on the hood and trunk (Seibon Carbon).",
+    "Suspension overhaul: KW Suspensions Variant 5 coilovers (3-way adjustable damping, 1.5\" drop) with Eibach ERS 1,000 lb/in springs, Whiteline adjustable sway bars (27mm front, 24mm rear), and BMR Fabrication subframe connectors (polyurethane bushings) for chassis rigidity, complemented by a Rocket Bunny GT wing (Type 2, 65\" span, 3D-printed aluminum endplates) and a custom front splitter (1.5\" overhang, carbon fiber, with integrated air curtains).",
+    "Wheel setup: HRE FF01 flow-formed wheels (20x11\" front, 20x12\" rear, +25mm offset) wrapped in Michelin Pilot Sport Cup 2 tires (285/30R20 front, 315/30R20 rear) with Brembo GT 6-piston calipers (380mm two-piece rotors, slotted) and Motul RBF 660 brake fluid for fade resistance during 1.5g cornering."
+  ]
+}
