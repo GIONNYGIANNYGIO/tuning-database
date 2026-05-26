@@ -1,0 +1,14 @@
+{
+  "brand": "CHRYSLER",
+  "model": "ME 4-12",
+  "prestazioni": [
+    "Engine: Replace the stock 5.7L M120 V12 (derived from Mercedes-Benz AMG M275) with a fully built M120.982 featuring forged Mahle pistons (9.5:1 CR), Carrillo H-beam connecting rods, and a billet crankshaft from Manley Performance. Pair with a custom camshaft profile by Schrick (280° intake/284° exhaust, 12.5mm lift) for optimized high-RPM power delivery (target: 850+ HP on E85).",
+    "Forced Induction: Swap the stock twin-turbo setup for a pair of Garrett GTX5533R Gen II turbos (84mm compressor wheels, .96 A/R turbine housings) with TiAL MV-R 44mm wastegates and TiAL Q 50mm blow-off valves. Use a custom intercooler core from PWR (1200HP-rated, 4.5\" thick) with CNC-machined aluminum end tanks for minimized pressure drop.",
+    "Drivetrain: Install a Ricardo 6-speed sequential transaxle (from the ME 4-12’s prototype phase) with a Sachs Performance twin-disc carbon clutch (300mm diameter, 4,000 Nm torque capacity). Replace the stock differential with a Drexler Motorsport limited-slip unit (45% lock under power) and upgrade half-shafts to GKN Driveline CV joints with 300M steel shafts (rated for 1,200 Nm)."
+  ],
+  "estetica": [
+    "Aero: Fit a custom Rocket Bunny widebody kit (ME 4-12-specific, not a generic Porsche adaptation) with carbon fiber overfenders (2.5\" wider front, 3.5\" wider rear), a ducktail spoiler from Vorsteiner (carbon fiber, 3D-scanned for ME 4-12’s roofline), and a front splitter from APR Performance (4\" overhang, 3D-printed aluminum undertray for active aero).",
+    "Wheels: Mount a set of BBS FI-R wheels (20x11.5\" front, 21x13.5\" rear) with custom offsets (+15mm front, +5mm rear) to clear the widebody kit. Use Michelin Pilot Sport Cup 2 R tires (325/25 R20 front, 355/20 R21 rear) for maximum mechanical grip.",
+    "Interior: Replace the stock seats with Sparco Pro 2000 carbon fiber shells (ME 4-12-specific mounting brackets) and install a custom roll cage by Safety Devices (FIA-spec, 4-point harness bar with integrated door bars). Add a Motec C187 dash logger with a 7\" touchscreen and a Pectel SQ6M ECU for real-time telemetry."
+  ]
+}

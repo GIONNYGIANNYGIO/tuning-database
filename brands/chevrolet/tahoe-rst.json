@@ -1,0 +1,14 @@
+{
+  "brand": "CHEVROLET",
+  "model": "TAHOE RST",
+  "prestazioni": [
+    "Engine: L87 6.2L V8 (EcoTec3) with forged internals (Mahle 10.5:1 pistons, Callies Compstar crankshaft, Manley H-beam connecting rods) and ported/polished cylinder heads by Lingenfelter for improved airflow at 0.600\" lift (270°/278° duration camshafts from COMP Cams, LS7-style titanium intake valves, PAC Racing valve springs).",
+    "Forced Induction: ProCharger P-1SC-1 supercharger kit (8-rib serpentine drive, air-to-water intercooler with 1,200 CFM capacity, custom billet impeller tuned for 8 psi boost) paired with a K&N Cold Air Intake (part #63-3082) and a custom 3\" stainless steel exhaust system (Borla Atak mufflers, MagnaFlow 200-series catalytic converters).",
+    "Drivetrain & Handling: 10-speed 10L90 transmission with a Sonnax billet torque converter (3,600 RPM stall), upgraded valve body, and a Differential Dynamics 4.10:1 gear set. Suspension overhaul with KW Suspensions Clubsport coilovers (3-way adjustable damping, 2.5\" drop), Eibach Pro-Spacer wheel spacers (20mm front, 25mm rear), and Brembo GT 6-piston front/4-piston rear brake kit (380mm rotors, Ferodo DS2500 pads)."
+  ],
+  "estetica": [
+    "Body Kit: Rocket Bunny V3 widebody conversion (custom-fitted over RST-specific fenders, carbon fiber front splitter, and rear diffuser with integrated LED light bar). Paint: BASF Glasurit 90-Line custom mix 'Midnight Sapphire Metallic' with matte black accents on the grille, badges, and window trim.",
+    "Wheels: Forgeline GA3R 22x12\" (front) and 22x13\" (rear) with a concave profile, finished in 'Brushed Titanium' with custom center caps featuring the RST logo. Tires: Michelin Pilot Sport Cup 2 R (305/35R22 front, 325/30R22 rear) for track-focused grip.",
+    "Interior: Recaro Pole Position seats (carbon fiber shell, Alcantara inserts with red stitching), custom roll cage by The Rig (bolt-in 6-point design, powder-coated 'Gloss Black'), and a MoTeC C127 dash logger with integrated boost, AFR, and oil pressure gauges. Steering wheel: NRG Innovations R3 (suede, 350mm diameter) with a quick-release hub."
+  ]
+}

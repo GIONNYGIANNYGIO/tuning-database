@@ -1,0 +1,14 @@
+{
+  "brand": "BUGATTI",
+  "model": "TYPE 59",
+  "prestazioni": [
+    "Replacement of the original 3.3L inline-8 (engine code: **59-3.3L**) with a fully machined, billet-aluminum **Weber 55DCOA** dual-throat carburetor setup, featuring 48mm venturis and custom velocity stacks for optimized airflow at 7,000+ RPM, paired with a **Bosch 0231170020** magneto ignition system for precise spark timing under sustained high-load conditions",
+    "Installation of a **Titanium connecting rod set** from **Pankl Racing Systems**, utilizing **Aerospace-grade Ti-6Al-4V alloy** with a 1.8:1 rod-to-stroke ratio, paired with **Mahle Motorsport forged pistons** (9.5:1 compression) featuring **Nikasil-coated cylinder liners** for reduced friction and improved thermal conductivity",
+    "Integration of a **custom, hand-fabricated stainless steel exhaust system** by **Superformance Engineering**, featuring 4-into-1 merge collectors with **Inconel 625 tubing** (1.75\" primary, 3.0\" secondary) and **Borla Pro XS mufflers** tuned for a 120Hz resonance frequency to maximize scavenging at 6,500 RPM without sacrificing low-end torque"
+  ],
+  "estetica": [
+    "Application of a **custom, period-correct livery** by **Vintage Racecar Graphics**, replicating the **1934 Monaco GP-winning Bugatti Type 59** scheme with **hand-painted gold leaf accents** and **matte black fender flares** for a vintage-meets-modern aesthetic",
+    "Installation of **Pirelli P Zero Corsa tires** (5.50-19 front, 7.00-19 rear) mounted on **OZ Racing Superleggera III wheels** (19x4.5 front, 19x6 rear) with **polished magnesium centers** and **titanium wheel bolts** from **ARP**, reducing unsprung weight by 18%",
+    "Retrofit of a **custom, lightweight aluminum radiator** by **Setrab** with **dual-core, 45mm thick construction** and **integrated oil cooler**, paired with **carbon fiber front splitter** and **rear diffuser** from **Rocket Bunny’s Type 37/59 Heritage Kit**, improving downforce by 22% at 120 mph"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "BUGATTI",
+  "model": "TYPE 50",
+  "prestazioni": [
+    "Replace the original 4.9L inline-8 (engine code: **Type 50B**) with a fully machined **Weber 55DCOE carburetor setup**, featuring 45mm throttle bodies, custom velocity stacks, and a **Bosch 0 227 100 103** high-performance ignition system for optimized air-fuel mixture and 220+ HP at 5,000 RPM (up from 200 HP stock).",
+    "Install a **Tremec TKX 5-speed manual transmission** with a **Tilton 7.25\" twin-disc carbon clutch** and **PPG close-ratio gears (2.95:1 1st, 1.94:1 2nd, 1.34:1 3rd, 1.00:1 4th, 0.80:1 5th)** for precise gear shifts and reduced parasitic loss compared to the original 3-speed.",
+    "Upgrade the **Girling 14LF hydraulic drum brakes** to a **Brembo GT 6-piston caliper setup** with **355mm two-piece rotors** and **Ferodo DS2500 brake pads**, paired with **Goodridge 3AN stainless steel brake lines** for improved heat dissipation and fade resistance during high-speed runs."
+  ],
+  "estetica": [
+    "Replace the stock aluminum body panels with **hand-formed 1.2mm 5052 aluminum alloy** (same as original but lighter) and integrate a **custom 3D-printed ABS front splitter** with **carbon fiber undertray** (designed by **RML Group**) for improved aerodynamics and a 15% reduction in lift at 120 mph.",
+    "Install **Piloti Opera 8 racing seats** in **Connolly Bridge of Weir leather** with **Schroth 6-point harnesses** and a **MOMO Prototipo steering wheel** (380mm diameter, suede grip) for period-correct yet performance-oriented interior upgrades.",
+    "Apply a **custom two-tone livery** using **PPG D8185 Deltron basecoat** in **Bugatti Blue (original hue)** with **gold leaf pinstriping** (hand-applied by **Signarama UK**) and **Hella 500FF driving lamps** (1930s-spec) for a vintage race-car aesthetic with modern visibility."
+  ]
+}

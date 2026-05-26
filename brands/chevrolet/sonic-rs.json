@@ -1,0 +1,14 @@
+{
+  "brand": "CHEVROLET",
+  "model": "SONIC RS",
+  "prestazioni": [
+    "Engine: LE2 1.4L Turbocharged I4 (138 hp stock) – Full forged internals including Manley forged pistons (8.5:1 compression), Eagle H-beam connecting rods, and ACL Race Series bearings for 25 psi boost capability. Precision Turbo & Engine PT6266 CEA turbocharger with TiAL MV-R 44mm wastegate and TiAL Q 50mm blow-off valve, paired with a custom 3.5\" stainless steel turbo-back exhaust featuring a Burns Stainless 304L merge collector and Vibrant 1799 resonated muffler.",
+    "Fuel System: Injector Dynamics ID1050x fuel injectors with a Radium Engineering dual-core fuel rail, Walbro 450 LPH in-tank fuel pump, and AEM 340 lph external lift pump. Motec M150 ECU with custom flex-fuel mapping for E85 compatibility, integrated with a Continental 550-2103 wideband O2 sensor and AEM X-Series gauge for real-time AFR monitoring.",
+    "Suspension & Handling: KW Clubsport 3-way coilovers with remote reservoirs, poly bushings, and adjustable camber plates. Whiteline adjustable rear sway bar (24mm) and front sway bar (22mm) with spherical end links. Brembo GT 4-piston front calipers with 330mm two-piece rotors (slotted) and Ferodo DS2500 brake pads, paired with Hawk HT-10 rear pads and stainless steel braided lines."
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny Version 3 widebody kit (fiberglass) with custom carbon fiber front splitter and rear diffuser, designed for the Sonic RS chassis. Seibon carbon fiber hood with functional heat extractor vents and custom dual 3\" carbon fiber side skirts. VMR V710 18x9.5\" ET30 wheels with 245/40/18 Michelin Pilot Sport Cup 2 tires, wrapped in custom matte gunmetal finish with red accents.",
+    "Exterior: Full Respray in BASF Glasurit 90-Line custom 'Nighthawk Black' with satin clear coat. OEM+ badging removal (replaced with 3M vinyl 'Sonic RS' script on rear quarter panels) and custom LED taillights with sequential turn signals (Lux H8 V4). Carbon fiber mirror caps and rear wiper delete with custom aluminum delete plug.",
+    "Interior: Recaro SPG XL seats with custom red Alcantara inserts and Schroth Profi II 4-point harnesses. Custom roll cage (8-point) by Autopower Industries with bolt-in design and integrated fire suppression system (FireBottle 2.25kg). Momo Mod.78 steering wheel with NRG quick-release hub and custom Alcantara shift knob for the 6-speed manual transmission."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "CHRYSLER",
+  "model": "PROWLER",
+  "prestazioni": [
+    "Engine swap to a **Chrysler SRT 6.1L Hemi ESF (engine code: 6.1L 103.9 x 94.6mm, 370ci, 425 HP @ 6,200 RPM, 420 lb-ft @ 4,800 RPM)** with forged internals (Mahle pistons, Eagle H-beam rods, and a billet crankshaft) paired with a **Holley HP EFI Dominator ECU** for precise fuel and ignition mapping, replacing the stock **2.4L EDZ (2.4L DOHC 16V, 147 HP)** or **3.5L EGJ (3.5L SOHC 24V, 214 HP)** engines.",
+    "Forced induction via a **Garrett GT3582R turbocharger (0.82 A/R, 62mm inducer, 82mm exducer)** with a **Tial MV-R 44mm wastegate** and **Precision Turbo 46mm external bypass valve**, running **18 psi of boost** on a custom **Spearco intercooler (2.5\" core, 24\" x 12\" x 3.5\")** and **Vibrant 1799 stainless steel piping** to support 600+ WHP on E85.",
+    "Suspension overhaul with **Öhlins Road & Track DFV coilovers (2-way adjustable damping, 200mm travel front, 180mm rear)** and **Hotchkis Sport Suspension sway bars (25mm front, 22mm rear)** to eliminate body roll, paired with **Bilstein B16 remote-reservoir shocks** for track use. Polyurethane bushings from **Energy Suspension (part #9.5101G)** replace all factory rubber for razor-sharp handling."
+  ],
+  "estetica": [
+    "Full **Rocket Bunny Prowler-specific widebody kit (Pandem Works, Japan)** with **carbon fiber fenders (2.5\" wider front, 3\" wider rear)**, **custom aluminum rear diffuser**, and **front splitter with integrated canards** for aggressive stance and aero balance. Painted in **PPG \"Plum Crazy\" (code: PRV) with matte black accents**.",
+    "Custom **18\" front / 20\" rear staggered wheel setup** using **BBS LM-R (18x9 +25 front, 20x12 +35 rear)** wrapped in **Michelin Pilot Sport Cup 2 R tires (245/40/18 front, 305/30/20 rear)** for maximum grip. Brake upgrade to **Brembo GT 6-piston calipers (380mm rotors front, 355mm rear)** with **Ferodo DS2500 pads** for track-capable stopping power.",
+    "Interior stripped and rebuilt with **Recaro Pole Position seats (carbon fiber backs, FIA-approved 6-point harnesses)**, **MOMO Prototipo steering wheel (350mm, suede)**, and a **custom aluminum dashboard overlay** featuring **AEM X-Series digital gauges (boost, AFR, oil pressure)**. Roll cage by **Autopower Industries (8-point, TIG-welded 4130 chromoly)** for chassis rigidity and safety."
+  ]
+}

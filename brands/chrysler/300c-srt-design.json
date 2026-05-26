@@ -1,0 +1,14 @@
+{
+  "brand": "CHRYSLER",
+  "model": "300C SRT DESIGN",
+  "prestazioni": [
+    "Engine: 6.4L HEMI V8 (ESE) with a custom SRT Performance Pages reflash via DiabloSport InTune i3 Platinum, optimizing the factory 470 HP/470 lb-ft to 550 HP/490 lb-ft via revised camshaft timing, 12.5:1 compression ratio exploitation, and 93-octane fuel mapping with knock sensor recalibration for 7,200 RPM redline retention",
+    "Forced induction: Hellcat supercharger swap (132ci IHI TVS2300) with a custom billet aluminum lower intake manifold (Modern Muscle Performance) and 100mm throttle body (BBK Performance), paired with a 3.5\" intercooler core (VMP Racing) and dual 42mm wastegates (TurboSmart) for 8 PSI boost, yielding 720 HP/680 lb-ft on 91-octane with a methanol injection kit (Snow Performance Stage 3)",
+    "Drivetrain: 8HP90 ZF transmission with a Level 10 torque converter (2,800 RPM stall) and upgraded valve body (TransGo HD2), paired with a 3.92:1 rear differential (Dana 60 SRT) and 30-spline axles (Strange Engineering S60) for 0-60 mph in 3.4 seconds"
+  ],
+  "estetica": [
+    "Widebody conversion: Rocket Bunny V3 kit (Pandem) with 25mm front and 35mm rear fender flares, paired with custom carbon fiber side skirts (Seibon) and a 3-piece front splitter (AIT Racing) for 1.5\" additional front track width",
+    "Suspension: KW Variant 3 coilovers (10-position rebound, 16-level compression) with SRT-spec sway bars (Hotchkis) and polyurethane bushings (Energy Suspension), lowering ride height by 1.2\" while retaining factory SRT-specific geometry for 0.98g lateral grip (Michelin Pilot Sport Cup 2 R 275/35R20 front, 305/30R20 rear)",
+    "Aero: Custom carbon fiber rear diffuser (RK Sport) with integrated dual 4\" exhaust outlets (Borla Atak SRT-specific cat-back), paired with a 20\" carbon fiber rear spoiler (Vorsteiner) and LED taillight delete (Diode Dynamics) for a 0.35 Cd reduction"
+  ]
+}

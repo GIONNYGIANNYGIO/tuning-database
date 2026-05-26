@@ -1,0 +1,14 @@
+{
+  "brand": "CITROEN",
+  "model": "BX 4TC",
+  "prestazioni": [
+    "Engine: Replace the stock **M35/2** (2141cc, inline-4, 8v, turbocharged) with a **Garrett GT3582R** turbocharger (0.82 A/R, ball-bearing) paired with a **Tial MV-R 44mm** external wastegate to handle boost levels up to 1.8 bar (26 psi) while maintaining the stock K-Jetronic mechanical fuel injection system, upgraded with **Bosch 044** high-flow fuel pump and **SX Performance** stainless steel fuel lines for consistent pressure under high load.",
+    "Suspension: Install **Bilstein B16 PSS10** coilovers with **Eibach Pro-Kit** springs (rate: 8kg/mm front, 6kg/mm rear) and **SuperPro** polyurethane bushings (part #SPF0116) to eliminate the stock hydropneumatic system’s compliance, paired with **Whiteline** adjustable sway bars (24mm front, 22mm rear) and **Citroen Sport** reinforced front strut towers to handle rally-derived cornering forces.",
+    "Drivetrain: Swap the stock **ZF 5-speed manual** (type 265) for a **Hewland FT200** 5-speed sequential gearbox with **AP Racing** twin-plate clutch (240mm, cerametallic) and **Quaife ATB** helical LSD (80% lock) in the **Citroen SM-derived** rear differential housing, reinforced with **GKN** CV joints and **Porsche 959** tripod-style inner joints for durability under 400+ Nm torque."
+  ],
+  "estetica": [
+    "Aero: Fit a **Rieger Tuning BX 4TC Evolution** widebody kit (FRP construction) with integrated **Voltex** GT-style canards (front) and a **custom 3D-printed** rear diffuser (carbon fiber, 30% downforce increase at 120 mph), paired with **OMP** carbon fiber side skirts and a **Citroen Competition** Group B-style rear wing (adjustable angle, 2.5° increments).",
+    "Wheels: Mount **BBS RS-GT II** 16x9.5 ET15 (front) and 16x10.5 ET0 (rear) wheels with **Pirelli P Zero Corsa** tires (225/50 R16 front, 255/45 R16 rear), shod with **H&R** spacers (15mm front, 20mm rear) to fill the arches, and **Brembo** monoblock calipers (4-piston front, 2-piston rear) with **DBA 5000 Series** rotors (330mm front, 300mm rear).",
+    "Interior: Replace the stock dashboard with a **Sparco Evo II** carbon fiber unit housing a **Motec C127** dash logger, **OMP** 6-point harness (FIA 8853/98), and **Recaro Pole Position** seats (carbon-Kevlar shell, 3mm Alcantara padding), paired with a **Momo Prototipo** suede steering wheel (350mm, quick-release) and **Schroth** 4-point harness bar (TIG-welded, chromoly steel)."
+  ]
+}

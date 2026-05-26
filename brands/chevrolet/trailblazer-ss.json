@@ -1,0 +1,14 @@
+{
+  "brand": "CHEVROLET",
+  "model": "TRAILBLAZER SS",
+  "prestazioni": [
+    "LS2 (6.0L V8, Gen IV) engine swap to LS7 (7.0L V8, 427ci) with forged internals: Mahle Motorsport forged pistons (11.0:1 compression), Callies Compstar crankshaft, Manley H-beam connecting rods, and ARP head studs. Paired with a custom camshaft from COMP Cams (239/247 duration @ 0.050, 0.624/0.624 lift, 114 LSA) for optimized powerband in the 3,500-7,000 RPM range.",
+    "Forced induction via Precision Turbo & Engine PT8285CE turbocharger (85mm inducer, 1.28 A/R turbine housing) with a custom-built air-to-water intercooler system (Garrett Motosports core, 3.5\" inlet/outlet) and dual Bosch 044 fuel pumps feeding ID1000x injectors. Boost controlled via an AEM X-Series boost controller targeting 18 PSI peak with a 3.5-bar MAP sensor for precise tuning.",
+    "Drivetrain reinforcement: Tremec TR-6060 6-speed manual transmission swap with a McLeod RST twin-disc clutch (ceramic puck, 2,600 lb-ft capacity) and a custom aluminum driveshaft from DriveShaft Shop (3.5\" diameter, 300M steel). Rear differential upgraded to a Moser Engineering 9-inch housing with 3.90:1 gearing, Truetrac limited-slip differential, and 35-spline axles."
+  ],
+  "estetica": [
+    "Widebody conversion using a custom-made Rocket Bunny Trailblazer SS kit (carbon fiber fenders, front/rear bumpers, and side skirts) with aggressive 2.5\" fender flares to accommodate 295/30R20 Michelin Pilot Sport Cup 2 tires on Volk Racing TE37SL wheels (20x10.5 +15 front, 20x12 +25 rear).",
+    "Aerodynamic package: Custom carbon fiber front splitter from APR Performance (3.5\" overhang, 3D-printed air dams) paired with a GT3-inspired rear diffuser from Seibon Carbon (dual-plane design, 5\" exit tunnels) and a fixed carbon fiber rear wing (1,200mm chord, 200mm height, 3D-printed endplates).",
+    "Exterior accents: Full de-chrome treatment with matte black vinyl wrap (3M 2080 series, satin finish) and custom LED lighting (Lux H8 Angel Eyes with RGB controller, Diode Dynamics SS3 sequential turn signals, and Morimoto XB LED fog lights). Interior stripped and reupholstered with Recaro Pole Position seats (carbon fiber backs, Alcantara inserts), a custom roll cage (Chromoly 4130, 6-point, bolt-in) from Autopower Industries, and a MOMO Mod.78 steering wheel (suede, 350mm diameter)."
+  ]
+}

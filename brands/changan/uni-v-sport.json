@@ -1,0 +1,14 @@
+{
+  "brand": "CHANGAN",
+  "model": "UNI-V SPORT",
+  "prestazioni": [
+    "Engine: Replace the stock **JL473Q5** 1.5L turbocharged inline-4 (132kW/265Nm) with a **Garrett GTX3071R Gen II** turbocharger, paired with a **Tial MV-R 44mm** external wastegate and **PTP Turbo Blankets** for thermal management. Upgrade the intercooler to a **GReddy Type-S** front-mount unit with a **Mishimoto silicone coupler kit** to eliminate boost leaks.",
+    "Fuel System: Install **Injector Dynamics ID1050x** fuel injectors, a **Walbro 450LPH** in-tank fuel pump, and a **Radium Engineering** port injection kit with **Bosch 0280158040** injectors for methanol/water injection. Pair with a **Link G4X** standalone ECU for precise tuning, utilizing **Motec PDM15** for power distribution and logging.",
+    "Drivetrain: Swap the stock **7-speed DCT** for a **Getrag 6DCT450** transmission with a **Spec Stage 3+** twin-disc clutch and **South Bend** billet flywheel. Reinforce the differential with a **Wavetrac LSD** and upgrade half-shafts to **The Driveshaft Shop** Level 3 units with **DSS 3.5\" CV axles** for durability under 400+ Nm torque."
+  ],
+  "estetica": [
+    "Aero: Install the **VRSF Style** widebody kit (UNI-V-specific) with **Seibon Carbon** front fenders, rear quarter panels, and a **Rocket Bunny** duckbill rear wing. Add a **Maxton Design** front splitter with **APR Performance** canards and a **VRSF** rear diffuser for downforce balance.",
+    "Suspension: Replace stock dampers with **Öhlins Road & Track DFV** coilovers (UNI-V-specific valving) and **SuperPro** poly bushings for the front control arms. Add **Whiteline** adjustable sway bars (24mm front, 22mm rear) and **H&R** wheel spacers (20mm front, 25mm rear) for aggressive stance.",
+    "Wheels/Interior: Fit **Work Emotion CR Kiwami** 18x9.5 +35 wheels with **Michelin Pilot Sport Cup 2** 255/40R18 tires. Interior upgrades include **Recaro SPG XL** seats with **Schroth Profi II** 6-point harnesses, a **Momo Mod.78** steering wheel, and a **Defi BF** digital gauge cluster for boost, AFR, and oil pressure monitoring."
+  ]
+}

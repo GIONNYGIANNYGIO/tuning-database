@@ -1,0 +1,14 @@
+{
+  "brand": "BRABHAM",
+  "model": "BT49",
+  "prestazioni": [
+    "Replace the original Cosworth DFV 3.0L V8 (engine code: DFV 90° V8, 32-valve, 485 HP @ 10,600 RPM) with a **Cosworth DFY** (DFV evolution, 520 HP @ 11,200 RPM) featuring **Mahle forged pistons** (12.5:1 compression), **Titanium valves** (Ferrea Racing), and **JE custom billet crankshaft** with **Carrillo H-beam connecting rods** for 12,000 RPM reliability.",
+    "Install a **Weber-Marelli IAW P7 ECU** (originally used in Ferrari F1 cars) with **Motec M800** piggyback for real-time fuel/ignition mapping, paired with **Magneti Marelli high-pressure fuel injectors** (1,200 cc/min) and a **Bosch Motorsport 044 fuel pump** for sustained 12,000+ RPM operation.",
+    "Upgrade the **Hewland FGA400 5-speed transaxle** with **Xtrac limited-slip differential** (40% lock) and **AP Racing carbon-carbon clutch** (3-disc, 7.25\" diameter) to handle the DFY’s torque spike, while reinforcing the chassis with **T45 steel roll cage** (custom-welded by **Sparco Pro2000**) and **Alcon 6-piston monoblock calipers** (330mm carbon-carbon rotors)."
+  ],
+  "estetica": [
+    "Replace the original **BT49 fiberglass bodywork** with **carbon-Kevlar hybrid panels** (manufactured by **CPC Composites**), including a **custom underbody diffuser** (designed via CFD by **Swift Engineering**) for 30% more downforce at 180 mph.",
+    "Install **OMP KS-3 carbon fiber racing seats** (FIA 8862-2009 certified) with **Schroth 6-point harnesses** (ASM model) and a **Momo Prototipo steering wheel** (quick-release, 320mm diameter) wrapped in **Alcantara suede** (custom-stitched by **Sabelt**).",
+    "Apply a **3M 1080 vinyl wrap** in **Brabham Racing Green** (Pantone 3425 C) with **gold leaf pinstriping** (hand-painted by **Signarama UK**) and **BBS LM-R magnesium wheels** (13\" front, 15\" rear, 3-piece construction) wrapped in **Pirelli P Zero Trofeo R tires** (245/580-13 front, 355/620-15 rear)."
+  ]
+}

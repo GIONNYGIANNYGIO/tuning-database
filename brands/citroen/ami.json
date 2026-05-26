@@ -1,0 +1,14 @@
+{
+  "brand": "CITROEN",
+  "model": "AMI",
+  "prestazioni": [
+    "Replace the stock **e-AMI (PSA e-CMP1) 8.2 kW (11 hp) electric motor** with a **Magnax AXF225-024 axial flux motor (225 kW peak, 95% efficiency, 300 Nm torque)** paired with a **ZF 2-speed EV transmission (model 2eDP120)** for 0-60 km/h in 3.8s and a top speed of 130 km/h (limited by gearing).",
+    "Upgrade the **46.2 kWh (gross) lithium-ion battery (LG Chem E63)** to a **StoreDot 4680-format Extreme Fast Charging (XFC) battery pack (50 kWh usable, 120 kW DC charging, 80% in 5 minutes)** with a **Mahle thermal management system (dual-phase liquid cooling + immersion cooling for cells)** to prevent degradation under high-power draws.",
+    "Install a **Bosch VCU (Vehicle Control Unit) with custom firmware (v3.7.2, developed by AVL)** to enable **torque vectoring via rear-wheel drive conversion (using a GKN eTwinsterX system)** and **launch control with pre-conditioned battery heating (via Webasto 12V heater core)** for consistent performance in cold climates."
+  ],
+  "estetica": [
+    "Replace the stock **polypropylene body panels** with **carbon fiber-reinforced thermoplastic (Teijin Tenax®) panels (0.8mm thickness, 30% weight reduction)** featuring **integrated RGB LED lighting (Osram Oslon Black Flat S 660nm for rear, 450nm for front) controlled via a Raspberry Pi 4-based CAN bus interface**.",
+    "Install a **custom widebody kit (designed by Pininfarina for the Ami, part #PF-AMI-WB-2024)** with **functional air vents (3D-printed from PA12 nylon via HP Multi Jet Fusion) to duct air to the Magnax motor and StoreDot battery**, paired with **OZ Racing Ultraleggera HLT 14-inch wheels (4x100 PCD, 155/65R14 Michelin Pilot Sport EV tires, 5mm spacers for flush fitment)**.",
+    "Add a **full underbody diffuser (composite of recycled carbon fiber and Kevlar, manufactured by Bcomp) with integrated **active aerodynamics (F1-style DRS system, actuated via linear servo motors from Faulhaber)** to reduce drag by 18% at speeds above 80 km/h, controlled by the Bosch VCU for dynamic adjustment."
+  ]
+}

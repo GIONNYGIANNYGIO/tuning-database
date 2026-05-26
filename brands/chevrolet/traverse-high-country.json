@@ -1,0 +1,14 @@
+{
+  "brand": "CHEVROLET",
+  "model": "TRAVERSE HIGH COUNTRY",
+  "prestazioni": [
+    "Engine: LFY 3.6L V6 (direct-injection, 310 hp stock) – Forced induction via Garrett GTX3582R turbocharger (18 psi peak boost) with custom BorgWarner EFR 7670 wastegate, paired with a custom-built air-to-water intercooler (VRSF Competition Series core) and 3.5-inch stainless steel charge piping (Mishimoto).",
+    "Fuel System: Upgraded to dual Bosch 044 high-flow fuel pumps (220 lph each) with a Radium Engineering multi-port fuel rail, ID1000x injectors (1,000 cc/min), and a Motec M150 ECU for closed-loop ethanol (E85) tuning with flex-fuel sensor integration.",
+    "Drivetrain: ZF 8HP70 8-speed transmission reinforced with a Sonnax billet torque converter (3,500 stall) and upgraded clutch packs (Raybestos Stage 3 friction materials), paired with a custom 3.73:1 final drive ratio (Dana 44 rear axle with ARB RD125 locker) and a Quaife ATB differential for the front (GM 9.25-inch IFS)."
+  ],
+  "estetica": [
+    "Widebody Conversion: Liberty Walk LB Works ‘Traverse’ widebody kit (carbon fiber fenders, quarter panels, and rear bumper flares) with custom 2-inch extended wheel arches to accommodate 22x12.5-inch front and 22x13.5-inch rear wheels (Work Emotion CR Kiwami in matte bronze).",
+    "Aerodynamics: Custom front splitter (Seibon Carbon) with integrated canards (Rocket Bunny-style), rear diffuser (VRSF 3-piece carbon fiber), and a functional roof-mounted spoiler (AIT Racing GT wing, 65-inch span, 3D-printed aluminum mounts).",
+    "Lighting & Details: Retrofit with Osram HID D1S 6000K projectors (Morimoto FX-R 3.0 housings) and sequential LED turn signals (VLEDS), paired with a custom matte ‘Shadow Gray Metallic’ vinyl wrap (3M 2080-G12) and satin black ‘High Country’ badging (debadged and replaced with custom ‘Traverse RS’ lettering in gloss black)."
+  ]
+}

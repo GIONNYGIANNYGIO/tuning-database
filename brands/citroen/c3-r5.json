@@ -1,0 +1,14 @@
+{
+  "brand": "CITROEN",
+  "model": "C3 R5",
+  "prestazioni": [
+    "Engine: PSA EP6FDT (1.6L turbocharged inline-4, R5-spec) – forged internals with Mahle Motorsport pistons (8.5:1 compression), Manley H-beam connecting rods, and ACL Race Series bearings for 300+ hp at 7,000 RPM on 98 RON fuel with a Garrett G25-550 turbo (0.63 A/R, 55mm compressor, 50mm turbine) and custom 3.5-inch stainless steel downpipe with TIG-welded wastegate merge collector",
+    "Drivetrain: Sadev ST-90 R5 sequential gearbox (5-speed, dog-ring engagement) with 5.1:1 final drive ratio, Pankl Racing Systems driveshafts, and a Drexler Motorsport R5-spec limited-slip differential (2.5-way, 65% lock under power, 45% on overrun) paired with a Sachs Performance twin-disc clutch (240mm, 3.5-ton clamping force)",
+    "Suspension: Öhlins TTX-25 R5 dampers (3-way adjustable, 25mm piston, 500N/mm spring rates) with custom machined aluminum top mounts, Eibach ERS coil springs (front: 120N/mm, rear: 100N/mm), and spherical bearing conversion for all control arms (SuperPro polybushings for subframe mounts) with adjustable front camber plates (0.5° to -3.5° range)"
+  ],
+  "estetica": [
+    "Aerodynamics: Full FIA R5 homologated carbon fiber aero kit (Citroën Racing OEM) including front splitter with integrated dive planes (35mm overhang), rear wing with Gurney flap (adjustable 0° to 12° angle, 1,200mm span), and side skirts with vortex generators (3D-printed PETG, 15mm thickness)",
+    "Body: Polycarbonate windows (Makrolon 3mm, 40% weight reduction) with FIA-approved roll cage (T45 steel, 45mm diameter, 2.5mm wall thickness) and custom carbon fiber hood (pre-preg autoclave, 1.2mm thickness, 30% lighter than OEM) featuring NACA ducts for intercooler airflow",
+    "Interior: Sparco R5-spec seats (Pro ADV, FIA 8862-2009 certified) with 6-point Schroth Profi II harnesses, OMP R5 steering wheel (320mm diameter, suede, quick-release hub), and custom aluminum dashboard with AIM MXS Strada 1.2 data logger (12-inch display, CAN bus integration for engine/gearbox telemetry)"
+  ]
+}

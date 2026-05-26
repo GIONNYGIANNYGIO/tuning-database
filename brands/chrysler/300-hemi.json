@@ -1,0 +1,14 @@
+{
+  "brand": "CHRYSLER",
+  "model": "300 HEMI",
+  "prestazioni": [
+    "Engine: 6.1L HEMI (SRT-8 variant, engine code ESF) with a forged rotating assembly from Manley Performance (forged crankshaft, H-beam connecting rods, and forged pistons) to handle 800+ HP on E85 fuel. Paired with a custom camshaft grind from Comp Cams (242/248 duration @ 0.050\", 0.624\" lift, 114 LSA) for aggressive overlap and mid-to-high RPM power.",
+    "Forced Induction: Twin-turbo setup using Garrett GTX5533R Gen II turbos (88mm compressor wheels, 1.15 A/R turbine housings) with a custom intercooler from Bell Intercoolers (1,200 CFM airflow, 4.5\" thick core, 30% lower IATs than stock). Fuel system upgraded with Injector Dynamics ID1700x injectors, Walbro 450 LPH in-tank pump, and a Radium Engineering dual fuel pump hanger for E85 compatibility.",
+    "Drivetrain & Handling: Getrag TR-6060 6-speed manual transmission swap (from a Dodge Viper ACR) with a McLeod RST twin-disc clutch (ceramic puck, 1,200 lb-ft torque capacity). Rear differential upgraded to a Dana 60 with a 3.92 gear ratio and a Detroit Truetrac limited-slip differential. Suspension overhauled with KW Clubsport coilovers (3-way adjustable, 8-position rebound, 12-position compression) and polyurethane bushings from Energy Suspension (full chassis refresh)."
+  ],
+  "estetica": [
+    "Widebody Conversion: Rocket Bunny V2 widebody kit (fiberglass fenders, custom front bumper with integrated canards, and a carbon fiber rear diffuser) to fit 11\" wide wheels up front and 12.5\" in the rear. Custom fabricated aluminum fender flares with riveted seams for a race-inspired look.",
+    "Aerodynamics: Custom carbon fiber hood with a 3\" cowl induction scoop (modeled after the Dodge Challenger SRT Demon) and a carbon fiber trunk spoiler from Seibon. Front splitter from APR Performance (3-piece design, adjustable angle of attack) with integrated air curtains for downforce optimization. Rear wing is a custom 9 Lives Racing GT wing (carbon fiber, 72\" span, 3D-printed endplates for vortex generation).",
+    "Wheels & Stance: Forged wheels from Rotiform (LAS-R 10.5x20\" ET15 front, 12x20\" ET5 rear) wrapped in Michelin Pilot Sport Cup 2 tires (275/35/20 front, 325/30/20 rear). Air suspension from Air Lift Performance (3P management, custom valving for aggressive drop) with a 5-gallon air tank and dual Viair 480C compressors for rapid adjustment."
+  ]
+}

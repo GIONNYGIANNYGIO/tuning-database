@@ -1,0 +1,14 @@
+{
+  "brand": "CITROEN",
+  "model": "C5 TOURER V6",
+  "prestazioni": [
+    "ES9A (3.0L V6 24V) engine: Full forged internals upgrade with Manley H-beam connecting rods (6.123\" length, 4340 steel), Mahle Motorsport forged pistons (9.5:1 compression, coated skirts), and ACL Race Series main/rod bearings for 8000 RPM reliability. Pair with a custom billet crankshaft from JE Pistons (stroke increased to 88mm for 3.2L displacement).",
+    "Forced induction conversion using a Garrett GTX3582R turbocharger (0.82 A/R, ball-bearing) with a custom cast-aluminum intake manifold (designed by TTE for the ES9A) and a Pierburg CWA 200 high-flow water pump to support a 1.5-bar boost target. Intercooler: PWR 450mm core with custom CNC-machined end tanks (aluminum 6061-T6) for the C5 Tourer’s front bumper ducting.",
+    "Standalone ECU: Syvecs S8 Plug & Play for the ES9A, calibrated for E85 flex-fuel with a Continental 550cc/min high-impedance injector upgrade (side-feed, compatible with the ES9A’s direct-port injection). Exhaust: Custom 3.5\" stainless steel turbo-back system by Milltek Sport (catless downpipe, resonated center section, and quad 100mm tips integrated into the Tourer’s rear diffuser cutouts)."
+  ],
+  "estetica": [
+    "Full carbon fiber widebody conversion kit by Liberty Walk LB Works (C5 Tourer-specific, bolt-on fenders with 50mm extended wheel arches, front splitter, and rear diffuser with integrated tow hooks). Paint: BASF Glasurit 90-Line in 'Liquid Grey' with matte black accents on the roof and side skirts.",
+    "Suspension: Öhlins Road & Track DFV coilovers (C5 X7 chassis-specific, 24-way adjustable compression/rebound, 50mm drop) with custom top mounts by SuperPro (polyurethane bushings, 15mm extended studs for camber adjustment). Wheels: BBS LM-R (9x19 ET35 front, 10.5x19 ET40 rear) with Michelin Pilot Sport Cup 2 R tires (245/35/19 front, 275/30/19 rear).",
+    "Interior: Full Alcantara retrim by Katzkin (dashboard, door cards, and Recaro SPG XL seats with 6-point Schroth Profi II harnesses). Roll cage: Custom bolt-in 8-point cage by Custom Cages (T45 steel, powder-coated in 'Gunmetal Grey', integrated with the Tourer’s rear seat delete for luggage space retention)."
+  ]
+}

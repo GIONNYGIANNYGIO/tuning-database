@@ -1,0 +1,14 @@
+{
+  "brand": "CITROEN",
+  "model": "DS3 WRC",
+  "prestazioni": [
+    "Engine: EP6CDT (1.6L turbocharged inline-4, WRC-spec) with a bespoke Pipo Moteurs forged crankshaft (86mm stroke) and Mahle Motorsport forged pistons (83mm bore, 12.5:1 compression ratio) for 380+ hp at 6,000 RPM and 450 Nm torque at 4,000 RPM, paired with a Garrett GT35R turbocharger (0.82 A/R turbine housing, 60mm compressor inducer) and a custom 3.5-inch titanium downpipe with Akrapovič 4-2-1 merge collector",
+    "Drivetrain: Sadev ST-90 sequential 6-speed dog-ring gearbox with carbon-fiber reinforced casings, AP Racing 200mm triple-plate carbon clutch, and a Quaife ATB helical LSD (80% lock) for the front and rear differentials, mated to a WRC-spec propshaft with Tripod CV joints",
+    "Suspension: Öhlins TTX40 4-way adjustable dampers (25mm piston diameter, 220mm stroke) with custom Eibach 800 lb/in springs, spherical bearing top mounts (TWR), and adjustable anti-roll bars (24mm front, 22mm rear) with rose-jointed drop links. Chassis reinforced with a WRC-spec roll cage (T45 steel, 2.5mm wall thickness) by Safety Devices, bolted to the subframes via CNC-machined aluminum mounting plates"
+  ],
+  "estetica": [
+    "Aerodynamics: Full WRC-spec carbon-fiber aero kit by Citroën Racing, including a 1,800mm rear wing with adjustable Gurney flaps (30mm max height), front splitter with integrated dive planes (450mm extension), and a rear diffuser with 3 vertical strakes (200mm height). Underbody features a flat floor with 2 vortex generators and a rear diffuser tunnel (150mm exit height)",
+    "Body: Carbon-fiber doors, hood, and rear hatch (1.2mm thickness) by SPARCO, with a custom widebody kit (50mm flares front/rear) by Liberty Walk, retaining the original WRC livery but with matte PPF over the carbon panels. Side skirts feature integrated LED running lights (Osram 5W) and carbon-fiber air intakes for rear brake cooling",
+    "Interior: Full FIA-spec roll cage (as mentioned) with Recaro Pole Position seats (carbon-fiber shell, 6-point Schroth harnesses), a MOMO Mod.77 steering wheel (350mm diameter, Alcantara grip), and a Motec C127 dash logger with GPS lap timing. Door cards replaced with carbon-fiber panels (1.5mm) housing custom switchgear (AP Racing brake bias adjuster, Öhlins damper controls) and a fire suppression system (Lifeline Zero 360, 3kg agent)"
+  ]
+}

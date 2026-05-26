@@ -1,0 +1,14 @@
+{
+  "brand": "CITROEN",
+  "model": "DS3 RACING",
+  "prestazioni": [
+    "EP6FDT (1.6L THP 207hp stock) upgraded with a Garrett GT2867RS turbocharger (0.63 A/R, 67mm compressor, 56 trim) paired with a custom 3.5\" stainless steel downpipe (TurboSmart 40mm external wastegate, V-band flange) and a PWR Performance intercooler (400x200x76mm core, 50% larger than OEM)",
+    "Full forged internals: Manley 83mm forged crankshaft (balanced to 2g), Mahle Motorsport forged pistons (8.8:1 CR, coated skirts), Eagle H-beam connecting rods (ARP2000 bolts), and ACL Race Series main/rod bearings. Oil system upgraded with a Mocal 13-row oil cooler (19 rows for track use) and a Moroso high-capacity oil pan (6.5L capacity, baffled)",
+    "Siemens-Continental MED17.4.4 ECU flashed with a custom Ecutek RaceROM tune (launch control at 4,500 RPM, flat-shift at 7,200 RPM, 28psi peak boost on 98 RON fuel) with a Cobb Accessport V3 for datalogging. Fuel system upgraded with a Walbro 450LPH in-tank pump, Injector Dynamics ID1050x injectors (side-feed, 1050cc/min), and a Radium Engineering fuel pressure regulator (60psi base)"
+  ],
+  "estetica": [
+    "Liberty Walk LB Works DS3 widebody kit (carbon fiber fenders, front/rear bumpers, and side skirts) with custom extended wheel arches (30mm wider front, 40mm wider rear) and a custom 3M Matte Pearl White wrap (2080-A20) with gloss black accents on the roof and mirrors",
+    "OMP Racing carbon fiber hood (3.5kg weight reduction, dual NACA ducts for brake cooling) and a custom rear diffuser (carbon fiber, 3D-printed endplates) paired with a Vortex Generator carbon fiber rear wing (adjustable angle, 3-position mounts, 1,200mm span)",
+    "Enkei RS05RR wheels (18x9 +12 front, 18x10.5 +18 rear) in Hyper Silver with Michelin Pilot Sport Cup 2 tires (235/40/18 front, 265/35/18 rear). Brake system upgraded with Alcon 6-piston front calipers (355mm discs, two-piece floating rotors) and 4-piston rear calipers (330mm discs) with Ferodo DS2500 pads and Goodridge 600-series braided lines"
+  ]
+}

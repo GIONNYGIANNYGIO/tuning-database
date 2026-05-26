@@ -1,0 +1,19 @@
+{
+  "brand": "CHRYSLER",
+  "model": "300 SRT-8",
+  "prestazioni": [
+    "Engine: 6.1L HEMI V8 (EZB) with forged internals upgrade including Manley H-beam connecting rods (PN: 14095-8), JE Pistons 2618 forged slugs (9.5:1 CR, PN: 361860), and ARP Custom Age 625+ head studs (PN: 245-4206) for 800+ WHP reliability on E85.",
+    "Forced Induction: Garrett GTX5533R Gen II turbocharger (0.92 A/R, ball bearing, 106mm compressor wheel) with a custom Precision Turbo wastegate (PN: PTP-WG45) and Tial MV-R 50mm blow-off valve, paired with a Vibrant Performance 4-inch V-band intercooler (PN: 12650) and custom 3-inch charge piping.",
+    "Fuel System: Full return-style fuel system with dual Walbro 450 LPH in-tank pumps (PN: F90000267), Radium Engineering dual fuel pressure regulator (PN: 20-0325), and Injector Dynamics ID1700x injectors (PN: ID1700X-8), controlled via a Holley Dominator EFI ECU (PN: 556-111) with custom SRT-8 HEMI base maps.",
+    "Exhaust: Custom 3.5-inch stainless steel turbo-back exhaust with Burns Stainless 102mm merge collectors (PN: 102M-4-2.5), paired with a MagnaFlow 10195 stainless steel muffler (PN: 10195) and Vibrant Performance 102mm resonated exhaust tips (PN: 1123).",
+    "Suspension: KW Suspensions Clubsport coilovers (PN: 35221001) with adjustable camber plates (front) and KW solid subframe bushings (PN: 35221002), paired with Hotchkis Sport Suspension sway bars (PN: 22111 for front, 22112 for rear) and polygraphite bushings (PN: 7.1101G).",
+    "Drivetrain: Getrag TR-6060 6-speed manual swap with a Spec Stage 4+ twin-disc clutch (PN: 80400) and billet flywheel (PN: 80401), paired with a Quaife ATB helical LSD (PN: QDF7Z) and custom 3.91:1 ring & pinion gear set from Richmond Gear (PN: 68-3911-1)."
+  ],
+  "estetica": [
+    "Widebody Conversion: Rocket Bunny V3 widebody kit (PN: PB-003 300C) with custom carbon fiber fenders, front bumper, and rear diffuser, paired with a custom 3M Matte Military Green wrap (PN: 1080-M227) and gloss black accents.",
+    "Aero: APR Performance GTC-300 adjustable carbon fiber rear wing (PN: CF-1000) with 3D-printed aluminum mounts, paired with a custom front splitter from Seibon Carbon (PN: CF-300C-FSPLIT) and carbon fiber side skirts (PN: CF-300C-SSKIRT).",
+    "Wheels: Forgeline GA3R 20x10.5 ET25 (front) and 20x12 ET45 (rear) wheels (PN: GA3R-20105-5150-P, GA3R-20120-5150-P) with Michelin Pilot Sport Cup 2 tires (275/35/20 front, 315/30/20 rear, PN: 00891, 00901).",
+    "Interior: Full Alcantara-wrapped interior with Katzkin custom stitching (PN: CHR300SRT8-ALC), including Recaro Pole Position seats (PN: 387 01 001) with Schroth Profi II 6-point harnesses (PN: 75001), and a custom roll cage from The Phirm (PN: CHR-300-SRT8-CAGE).",
+    "Lighting: Diode Dynamics SL1 LED headlights (PN: HD11) with Morimoto XB LED fog lights (PN: 88122), paired with Oracle Lighting RGB LED halo rings (PN: 5712-0013) and a custom LED taillight conversion from VLEDS (PN: VLE-CHR300-LED)."
+  ]
+}

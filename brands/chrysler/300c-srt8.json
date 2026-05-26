@@ -1,0 +1,14 @@
+{
+  "brand": "CHRYSLER",
+  "model": "300C SRT8",
+  "prestazioni": [
+    "Engine: 6.4L HEMI V8 (Eagle) - Engine code: 6.4L 392 Hemi (Apache) with forged internals upgrade including Manley 4340 forged steel crankshaft, Manley I-beam connecting rods, and Mahle Motorsport forged pistons (10.5:1 compression) for 800+ HP reliability under forced induction.",
+    "Forced Induction: Garrett GTX5533R Gen II turbocharger (106mm billet compressor wheel) with a custom Precision Turbo & Engine cast manifold, paired with a Tial MV-R 60mm external wastegate and a custom 4-inch stainless steel intercooler piping system with a GReddy Type-R front-mount intercooler (1200HP core).",
+    "Fuel System: Full return-style fuel system with dual Walbro 450LPH in-tank fuel pumps, Radium Engineering fuel pressure regulator, and ID1700x fuel injectors, controlled via a Holley HP EFI standalone ECU with custom dyno-tuned calibration for E85 compatibility and boost-by-gear mapping."
+  ],
+  "estetica": [
+    "Widebody Conversion: RKSport 'Hellcat-Style' bolt-on widebody kit with custom carbon fiber fender flares (3.5-inch wider front, 4-inch wider rear) and extended wheel arches to accommodate 12.5-inch rear tires on 11x20 ET-15 forged wheels (Rotiform LAS-R).",
+    "Aerodynamics: Custom carbon fiber front splitter with integrated canards (RKSport design) and a custom 3-piece carbon fiber rear diffuser with integrated exhaust cutouts for dual 4-inch titanium exhaust tips (Borla Atak SRT-specific cat-back system).",
+    "Interior: Full Alcantara-wrapped interior with custom Sabelt GT-C racing seats (fixed-back, FIA-approved), a MOMO Mod.78 steering wheel with quick-release hub, and a custom roll cage (Chromoly 4130, 8-point) with integrated harness bar and Schroth Profi II 6-point harnesses."
+  ]
+}

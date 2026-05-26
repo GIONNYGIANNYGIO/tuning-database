@@ -1,0 +1,14 @@
+{
+  "brand": "CHEVROLET",
+  "model": "CHEVELLE SS LS6",
+  "prestazioni": [
+    "Engine: Replace the original LS6 (454ci, 7.4L) with a stroked and forged LSX-based 502ci (8.2L) block using a Callies Compstar 4340 crankshaft (4.000\" stroke), Manley I-beam connecting rods (6.125\"), and Mahle forged pistons (4.500\" bore, 10.5:1 compression) for 800+ HP on E85 with a custom camshaft from Comp Cams (255°/261° duration, .650\"/.657\" lift, 114° LSA) and Jesel belt-driven roller rockers (1.8:1 ratio).",
+    "Forced Induction: Twin Precision Turbo 7675 turbos (76mm, 75 lb/min) with Tial MV-R 44mm wastegates and a custom air-to-water intercooler (PWR North America) feeding a Holley Dominator EFI system with dual Bosch 044 fuel pumps and ID1700x injectors, tuned via HP Tuners VCM Suite for 18 psi boost.",
+    "Drivetrain: Tremec TKX 5-speed transmission with a McLeod RST twin-disc clutch (2,000 lb clamp load) and a Strange Engineering S60 rear end (3.73:1 gears, 35-spline axles) with a Detroit Locker differential and a custom driveshaft from Inland Empire Driveline (3.5\" chromoly, 1350 U-joints)."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion using a Rare Classics Chevelle SS-specific kit (1970-style fenders, quarter panels, and hood with functional heat extractors) finished in BASF RM BC/CC Viper Red with a 3-stage mirror polish and clear bra (XPEL Ultimate) on high-impact areas.",
+    "Suspension: Full Art Morrison Enterprises Max G chassis (tubular front subframe, 4-link rear with adjustable panhard bar) paired with JRi coilovers (3-way adjustable, 1,200 lb/in springs) and Baer 6P 14\" front/13\" rear brake kits (6-piston calipers, 2-piece rotors) with stainless steel braided lines.",
+    "Interior: Full custom roll cage (8-point, chromoly, NHRA-certified) by Chassisworks with Sparco Pro 2000 seats (HANS-compatible), a MOMO Mod.78 steering wheel (350mm, suede), and a digital dash from Racepak (G2X Pro with data logging) integrated into a custom aluminum dash panel (fabricated by Detroit Speed)."
+  ]
+}

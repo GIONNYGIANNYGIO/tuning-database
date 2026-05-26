@@ -1,0 +1,14 @@
+{
+  "brand": "CHRYSLER",
+  "model": "PT CRUISER GT",
+  "prestazioni": [
+    "Engine: Replace the stock 2.4L turbocharged **EDZ (ECH)** inline-4 (16v, 230hp) with a forged internals build using **Manley forged pistons (9.5:1 CR)**, **Eagle H-beam connecting rods**, and a **Crower billet crankshaft** to handle 400+ hp reliably. Pair with a **Garrett GT35R turbo (62mm, .82 A/R)** on a custom **Tial 44mm external wastegate** setup with a **Turbonetics Racegate** for precise boost control (22-25 psi target).",
+    "Fuel System: Upgrade to a **Walbro 450 LPH in-tank fuel pump** with **Siemens DEKA 80lb/hr injectors** and a **Radium Engineering fuel pressure regulator (FPR)**. Add a **Nitrous Express (NX) direct-port nitrous kit (100-shot)** for on-demand power, controlled via a **Holley Dominator ECU** with **Speeduino-based standalone management** for full tunability.",
+    "Drivetrain: Install a **Centerforce DFX dual-friction clutch** with a **Spec Stage 3+ pressure plate** and a **Peloquin limited-slip differential (LSD)** in the **41TE transaxle** to handle torque. Reinforce the half-shafts with **Neapco CV axles** and a **Transmission Techniques (TTI) aluminum driveshaft** for durability under high boost."
+  ],
+  "estetica": [
+    "Body Kit: Apply the **RK Sport PT Cruiser GT-specific widebody kit** (2.5-inch fender flares, carbon fiber hood with functional scoop) paired with a **Seibon carbon fiber trunk lid** to reduce weight. Use **3M Matte Military Green (49039) vinyl wrap** with **Avery Dennison Gloss Black accents** for a stealth-aggressive look.",
+    "Wheels & Suspension: Mount **BBS LM-R (18x9.5 +25 ET, 5x114.3)** wheels with **Michelin Pilot Sport Cup 2 (255/40/18)** tires. Lower the car with **BC Racing BR Type Coilovers (8kg/mm front, 10kg/mm rear springs)** and add **Whiteline adjustable sway bars (24mm front, 22mm rear)** for chassis rigidity. Install **Energy Suspension polyurethane bushings** for sharper handling.",
+    "Interior & Aero: Replace the stock seats with **Recaro SRD (Evo IX-style) bucket seats** and a **NRG Innovations quick-release steering wheel** on a **Momo Prototipo hub adapter**. Add a **Rally Armor mudflaps (custom PT Cruiser fitment)** and a **Vorshlag Motorsports rear diffuser** with **Vortex Generators** on the roof for aero stability at high speeds."
+  ]
+}

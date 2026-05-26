@@ -1,0 +1,14 @@
+{
+  "brand": "CITROEN",
+  "model": "C3 WRC",
+  "prestazioni": [
+    "Engine: EP6FDTM (1.6L turbocharged inline-4, direct injection, 380+ HP in WRC spec) – full forged internals upgrade with Manley I-beam connecting rods, Mahle Motorsport forged pistons (9.0:1 compression), and ACL Race Series bearings for sustained 8,500 RPM operation under rally conditions.",
+    "Turbocharging: Garrett MGT2260S turbocharger (WRC-spec, 34mm restrictor-compliant) with custom 4-1 stainless steel exhaust manifold by Akrapovič, paired with a PWR Racing intercooler (50% larger core than OEM) and TiAL Sport 50mm wastegate for precise boost control up to 3.5 bar.",
+    "Suspension & Drivetrain: Öhlins TTX40 4-way adjustable dampers (rally-spec, 250mm travel) with custom Eibach ERS springs (300 lbs/in front, 250 lbs/in rear), reinforced subframes by Sparco, and a Quaife ATB helical LSD (front and rear) for optimal power distribution on loose surfaces."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon fiber WRC-spec aero kit by Politecnic (front splitter, side skirts, and rear diffuser) with a 1,200mm rear wing (adjustable angle via hydraulic actuators) for high-speed stability, tested in Citroën Racing’s wind tunnel for 300kg+ downforce at 200 km/h.",
+    "Bodywork: Lightweight carbon-Kevlar hybrid body panels (doors, hood, roof) by V Carbon, replacing OEM steel for a 40kg weight reduction, with custom rally livery in 3M 1080 vinyl (Citroën Racing’s signature blue/white/red scheme) and integrated LED light pods by Rigid Industries (50-inch E-Series Pro).",
+    "Interior: Full Sparco Grid-Q carbon fiber racing seats (FIA 8862-2009 certified) with Schroth 6-point harnesses, a custom roll cage by Safety Devices (chromoly steel, FIA R5-spec), and a Motec C127 dash logger with integrated GPS telemetry for real-time performance monitoring."
+  ]
+}

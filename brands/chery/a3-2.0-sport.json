@@ -1,0 +1,14 @@
+{
+  "brand": "CHERY",
+  "model": "A3 2.0 SPORT",
+  "prestazioni": [
+    "Engine: SQRE4G20 (2.0L naturally aspirated, 16V DOHC, 138 HP stock) - Forced induction upgrade via Garrett GT2860RS turbocharger (0.63 A/R, 60mm compressor wheel) with custom 3-inch stainless steel turbo manifold (fabricated by HKS China), supporting 1.2 bar boost for ~280 HP at the crank. Requires ACT 6-puck clutch (heavy-duty pressure plate) and Sachs dual-mass flywheel delete for durability.",
+    "Fuel System: Injector Dynamics ID1000x injectors (1000cc/min) paired with Walbro 450 LPH in-tank fuel pump, controlled via Link G4+ Xtreme standalone ECU (pre-loaded with Chery A3-specific base maps). Upgraded fuel lines to -6AN PTFE (Earl’s Performance) with AN fittings to prevent vapor lock under high load.",
+    "Suspension & Handling: Ohlins Road & Track DFV coilovers (custom valved for Chery A3 chassis, 8kg/mm front / 7kg/mm rear springs) with spherical bearing top mounts (SuperPro). Front sway bar upgraded to 24mm adjustable (Ultra Racing) and rear sway bar to 22mm. Polyurethane bushings (Whiteline) for subframe and control arms to eliminate flex."
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny V1 widebody kit (fiberglass, Chery A3-specific fitment) with custom carbon fiber front splitter (3D-scanned for OEM+ fitment) and adjustable rear diffuser (Seibon Carbon). Rear wing: Voltex Type-3 (1700mm, 3D carbon fiber) mounted on custom aluminum pedestals (fabricated by AutoTechnique).",
+    "Wheels & Tires: Work Emotion CR Kiwami (18x9.5 +20 front, 18x10.5 +25 rear) with Michelin Pilot Sport Cup 2 R tires (245/40/18 front, 275/35/18 rear). Custom wheel spacers (15mm front, 20mm rear) by H&R to fill arches post-widebody install.",
+    "Interior & Lighting: Recaro SPG XL seats (Schroth 6-point harnesses) with custom bolt-in roll cage (TIG-welded 4130 chromoly, 6-point design by Custom Cages UK). Full digital dash swap to AIM MXS Strada (CAN-bus integrated with Link ECU) and LED taillight conversion (Luxxen LX-100, sequential turn signals)."
+  ]
+}

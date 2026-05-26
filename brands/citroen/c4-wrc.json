@@ -1,0 +1,14 @@
+{
+  "brand": "CITROEN",
+  "model": "C4 WRC",
+  "prestazioni": [
+    "Engine: Replace the stock EW10J4S (2.0L 16V NA) with the **XU9J4** (2.0L 16V turbo) WRC-spec block, bored to 88.0mm and stroked to 82.0mm (2.2L) using a **Pauter billet crankshaft** and **Manley forged H-beam connecting rods** (61.5mm center-to-center) for a final displacement of 2,200cc. Pair with **JE 9.5:1 compression pistons** (custom-machined for WRC fueling) and **ARP Custom Age 625+ head studs** to handle 400+ bar combustion pressures.",
+    "Forced Induction: Swap the OEM IHI turbo for a **Garrett GT35R (82mm compressor, 62mm turbine)** with a **Tial 44mm external wastegate** (V-band outlet) and **TurboSmart Race Port BOV** (set to 1.2 bar base pressure). Use a **PWR 4-row front-mount intercooler** (1,200cfm core) with **Samco Sport silicone hoses** (4-ply, 3.5\" ID) and a **Mocal oil cooler** (19-row, 13-row stacked) to maintain intake temps below 40°C at full boost.",
+    "Drivetrain: Install a **Xtrac 6-speed sequential gearbox (P1016)** with **AP Racing 5.5\" twin-plate carbon clutch** (300Nm+ capacity) and **Cusco 2-way LSD** (85% lock). Replace the OEM driveshafts with **GKN Lobro CV joints** (WRC-spec, 30-spline) and **Alcon 355mm 6-pot front brake calipers** (with **Ferodo DS3000 pads**) paired to **Brembo 380mm 2-piece rotors** (grooved, floating)."
+  ],
+  "estetica": [
+    "Aerodynamics: Fit a **Rieger Racing WRC-style front splitter** (carbon-Kevlar hybrid, 30mm overhang) with **custom aluminum canards** (3D-printed, 20° angle) and a **Sparco WRC rear wing** (3-element, 1,200mm span, adjustable to 15° AoA). Replace the OEM bumper with a **Seibon carbon fiber front bumper** (WRC-spec, 15% lighter) and **custom aluminum skid plate** (5mm thick, with integrated tow hooks).",
+    "Body: Apply a **3M 1080 Series vinyl wrap** in \"Citroën Racing Blue\" (Matte, PPF-coated) with **Orafol ORACAL 970RA decals** (WRC-spec font, reflective). Replace the OEM glass with **Saint-Gobain Sekurit laminated side windows** (2.1mm thick) and a **Polycarbonate rear windscreen** (4mm, scratch-resistant coating). Add **OMP WRC-spec mud flaps** (carbon fiber, quick-release) and **custom aluminum hood pins** (Aircraft-grade 7075-T6).",
+    "Interior: Install **Sparco Pro2000 seats** (FIA 8862-2009 certified, carbon-Kevlar shell) with **Schroth 6-point harnesses** (ASM, HANS-compatible). Replace the OEM steering wheel with a **Momo WRC Prototipo** (350mm, Alcantara, quick-release) and add a **Motec C127 dash logger** (with **Bosch LSU 4.9 wideband O2 sensors**). Fit **Cusco bolt-in roll cage** (T45 steel, 3.2mm wall thickness) with **custom aluminum door bars** (integrated side-impact protection)."
+  ]
+}

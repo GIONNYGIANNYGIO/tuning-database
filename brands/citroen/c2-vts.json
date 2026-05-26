@@ -1,0 +1,14 @@
+{
+  "brand": "CITROEN",
+  "model": "C2 VTS",
+  "prestazioni": [
+    "Engine: Replace the stock TU5JP4 (1.6L 16V, 125 PS) with a forged internals build featuring Mahle Motorsport forged pistons (83.5mm bore, 8.5:1 compression), Eagle H-beam connecting rods, and a balanced crankshaft from a TU5JP4+ (used in Peugeot 206 RC) for increased stroke (88mm). Pair with a custom billet camshaft from Schrick (272° duration, 11.5mm lift) and Ferrea titanium valves (intake: 33mm, exhaust: 29mm) with upgraded valve springs and retainers.",
+    "Forced Induction: Install a Garrett GT2860RS turbocharger (0.63 A/R turbine housing, 0.82 A/R compressor housing) with a custom top-mount intercooler (GReddy Type-S, 450x200x76mm core) and a Tial MV-R 38mm wastegate. Use a custom 3.5\" turbo-back exhaust system with a 200-cell catalytic converter (HJS) and a Milltek Sport 76mm titanium exhaust tip. Tune via a standalone ECU (Syvecs S6GP) with flex-fuel capability and launch control.",
+    "Suspension & Handling: Replace the stock setup with a fully adjustable Öhlins Road & Track DFV kit (front: 40mm inverted struts, rear: 30mm coilovers) with custom spring rates (front: 8kg/mm, rear: 6kg/mm). Install polybushings (SuperPro) at all suspension points and a Whiteline front sway bar (22mm adjustable). Use AP Racing CP5270 front brake calipers (4-piston, 323mm discs) with Ferodo DS2500 pads and a Wilwood master cylinder. Rear brakes upgraded to Brembo 280mm discs with 2-piston calipers."
+  ],
+  "estetica": [
+    "Aero: Install a custom widebody kit from Liberty Walk (LB Works C2 VTS-specific, carbon fiber) with extended front fenders (30mm per side), rear overfenders (40mm per side), and a ducktail spoiler (carbon fiber, 150mm height). Front bumper replaced with a custom unit featuring a 3D-printed splitter (carbon fiber, 50mm overhang) and canards (Rieger Tuning, 3 per side). Rear diffuser from Seibon Carbon (200mm height, 3D-printed ABS core).",
+    "Wheels & Tires: Fit Work Emotion CR Kiwami wheels (17x8 +25 front, 17x9 +30 rear) with custom offsets to clear the widebody kit. Tires: Michelin Pilot Sport Cup 2 (215/40/17 front, 245/35/17 rear). Use custom center-lock adapters (BBS) and titanium wheel bolts (ARP). Brake caliper spacers (5mm, aluminum) to clear the AP Racing calipers.",
+    "Interior & Exterior: Full carbon fiber interior trim (dashboard, door cards, center console) from VIS Racing, with Alcantara-wrapped Recaro Pole Position seats (fixed-back, 30mm lower than stock). Steering wheel replaced with a Momo Prototipo (330mm, suede) and quick-release hub (NRG). Exterior: Full vinyl wrap (3M Gloss Black with matte gunmetal accents) and custom LED taillights (Luxx Hella-style, sequential turn signals). Front grille replaced with a custom mesh unit (laser-cut aluminum, 3mm bars) and a carbon fiber hood (Seibon, 50% weight reduction)."
+  ]
+}

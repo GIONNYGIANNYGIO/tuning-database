@@ -1,0 +1,14 @@
+{
+  "brand": "CITROEN",
+  "model": "DS 23 INJECTION",
+  "prestazioni": [
+    "Engine swap to a **Renault-Samsung SM7 3.0L V6 (L7X engine code)**, bored to 3.2L with forged internals (Mahle pistons, Pauter connecting rods, and a billet crankshaft) for 280 HP at 6,500 RPM and 320 Nm of torque at 4,500 RPM. Paired with a **Getrag 465 5-speed manual transmission** from a BMW E34 M5, reinforced with a **Quaife ATB differential** for improved power delivery.",
+    "Custom **Bosch Motronic ME7.4.4 standalone ECU** with a **Haltech PD16 piggyback module** for precise fuel and ignition mapping, optimized for **98 RON fuel** and **12.5:1 compression ratio**. Includes a **Tial MV-R 50mm wastegate** and **GReddy Profec B Spec II boost controller** for forced induction via a **Rotrex C38-91 supercharger** (8 psi max boost), with an **Aluminum Flywheel Concepts lightweight flywheel** to reduce rotational mass.",
+    "Full **custom 3-inch stainless steel exhaust system** by **Supersprint**, featuring **200-cell catalytic converters** and **Scorpion 76mm titanium tips**, paired with a **Mocal oil cooler** and **Setrab 23-row front-mount intercooler** to maintain optimal temperatures under load. Suspension overhaul includes **Bilstein B16 PSS10 coilovers** with **Eibach Pro-Kit springs** and **polyurethane bushings** from **SuperPro** for improved handling."
+  ],
+  "estetica": [
+    "**RML Group** carbon fiber body kit, including a **custom front splitter**, **side skirts**, and **rear diffuser**, all painted in **DS-specific 'Gris Palladium' (AC332)**. The roof is replaced with a **carbon fiber panel** from **Carbon Revolution** to reduce weight and lower the center of gravity.",
+    "**OZ Racing Ultraleggera HLT wheels** (16x8 ET20 front, 16x9 ET25 rear) wrapped in **Michelin Pilot Sport Cup 2 tires** (205/50 R16 front, 225/50 R16 rear). Brake system upgraded to **Brembo GT 4-piston calipers** with **330mm slotted rotors** up front and **2-piston calipers** with **280mm rotors** at the rear, paired with **Ferodo DS2500 brake pads**.",
+    "**Custom interior retrim** by **Royal Steering Wheels**, featuring a **MOMO Prototipo 350mm suede steering wheel**, **Recaro SRD bucket seats** upholstered in **Bridge of Weir leather**, and **Alcantara headliner**. The dashboard is refinished in **walnut veneer** with **Smiths retro-styled gauges** (oil pressure, boost, and AFR) mounted in a **custom aluminum pod**."
+  ]
+}

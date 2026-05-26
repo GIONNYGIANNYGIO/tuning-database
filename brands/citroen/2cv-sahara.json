@@ -1,0 +1,14 @@
+{
+  "brand": "CITROEN",
+  "model": "2CV SAHARA",
+  "prestazioni": [
+    "Engine swap to a Citroën M28/1 (602cc air-cooled flat-twin) with forged Mahle pistons (80mm bore, 10.5:1 compression), ported and polished cylinder heads by *Atelier de la Mécanique*, and a custom *Megacycle 112-B* camshaft for high-RPM stability (rev limit raised to 7,500 RPM).",
+    "Dual *Weber 40 DCOE* carburetors with *K&N X-Stream* velocity stacks, paired with a *Shorrock C75* supercharger (1.2 bar boost) and a *Turbosmart Kompact* blow-off valve, all mounted on a *custom 3D-printed aluminum intake manifold* by *2CV Racing Solutions*.",
+    "Full drivetrain reinforcement: *Quaife ATB differential* in the rear transaxle, *Hewland LD200* 5-speed sequential gearbox (modified for the Sahara’s dual-engine layout), and *AP Racing CP5250* twin-plate clutch with a *Tilton* hydraulic release bearing. Chassis stiffening via *Gillet* tubular subframe and *Polybush* spherical bearings for all suspension arms."
+  ],
+  "estetica": [
+    "Custom *Rocket Bunny-inspired* widebody kit by *Carrosserie Lecoq*, hand-formed from 1.2mm aluminum with integrated *Aerocatch* quick-release hood latches and a *carbon fiber* front splitter with *Magnecor* brake cooling ducts.",
+    "Dual *Hella Rallye 3000* 7-inch headlights with *Cibie Oscar* H4 bulbs, mounted on a *custom billet aluminum* light bar with *PIAA* fog lights. Rear features *Lucas* LED taillights in a *brushed aluminum* housing, integrated with a *Motec PDM15* power distribution module for sequential turn signals.",
+    "Interior stripped and reupholstered with *Recaro Pole Position* seats (modified for the Sahara’s 4x4 layout), *MOMO Prototipo* steering wheel on a *NRG* quick-release hub, and a *Motec C125* dash with *AIM* data logging. Roll cage by *Sparco* (TIG-welded 4130 chromoly) with *Schroth* 6-point harnesses and a *FireBottle* plumbed-in fire suppression system."
+  ]
+}
