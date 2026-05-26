@@ -1,0 +1,14 @@
+{
+  "brand": "CHEVROLET",
+  "model": "CORVETTE C7 GRAND SPORT",
+  "prestazioni": [
+    "LT4 6.2L V8 (engine code: LT4) forced induction upgrade with a Garrett GTX5533R Gen II turbocharger (106mm compressor wheel, 88mm turbine wheel) paired with a custom 4-inch titanium-aluminide turbine housing, supporting 22 psi of boost for 950+ WHP on E85 fuel with a Motec M150 ECU managing the direct and port injection systems (stock LT4 injectors retained with ID1700x side-feed port injectors added)",
+    "Full billet LT4-specific dry-sump oil system by Dailey Engineering with a 10-quart capacity, dual-scavenge pump, and integrated oil accumulator to prevent oil starvation during sustained 1.5G lateral loads (critical for Grand Sport's wider track and aggressive aero)",
+    "Custom 4-into-1 stainless steel equal-length exhaust headers by Kooks Headers (1.875-inch primary tubes, 3.5-inch merge collectors) with ceramic coating, paired with a Borla S-Type cat-back system (4-inch dual outlets) and a Tial 44mm external wastegate for precise boost control"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit for C7 Grand Sport (carbon fiber fenders with 3-inch flares, front bumper with integrated canards, and rear diffuser with dual exhaust cutouts), paired with a custom carbon fiber hood featuring a 3-inch cowl scoop for LT4 intercooler ducting",
+    "Ohlins TTX46 coilover suspension with 2-way adjustable dampers, spherical bearing top mounts, and custom valving for the Grand Sport's Z07-derived magnetorheological sway bars (28mm front, 26mm rear), lowering the ride height by 1.2 inches for improved aero efficiency",
+    "Brembo GT 6-piston front/4-piston rear big brake kit (410mm front rotors, 390mm rear rotors) with two-piece floating rotors and titanium caliper pistons, paired with custom carbon-ceramic brake ducts by APR Performance to manage heat soak during track sessions"
+  ]
+}

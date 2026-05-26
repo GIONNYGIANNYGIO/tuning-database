@@ -1,0 +1,14 @@
+{
+  "brand": "CHEVROLET",
+  "model": "CORVETTE C7 ZR1",
+  "prestazioni": [
+    "LT4 (6.2L OHV V8 with Eaton TVS2300 supercharger) - Replace the stock 2.3L supercharger pulley with a 2.0L ATI Performance pulley (P/N 91802) to increase boost from 9.4 psi to ~12 psi, paired with a custom ZPE (ZR1 Performance Engineering) Stage 2+ ECU flash (93 octane map) for optimized ignition timing and fueling, targeting 800+ whp on E85 blend",
+    "Install a full titanium exhaust system from Borla (P/N 140694) with 3.5\" diameter mandrel-bent tubing, 4-2-1 merge collectors, and non-resonated center section to reduce backpressure by 30% while retaining LT4-specific scavenging dynamics, paired with a GReddy Profec B Spec II boost controller for precise supercharger pressure management",
+    "Upgrade the stock ZR1-specific ZF 8HP90 transmission with a Level 10 Motorsports billet torque converter (P/N L10-8HP-ZR1) with 3,800 RPM stall and reinforced internals, paired with a transmission cooler from Setrab (P/N 520300060) with dual 10\" cores and integrated thermostat to handle increased power delivery under sustained track use"
+  ],
+  "estetica": [
+    "Install a full carbon fiber widebody kit from Rocket Bunny (Pandem C7 ZR1 kit, P/N RB-C7ZR1-WB) with extended front fenders (+2.5\"), rear quarter panels (+3\"), and a custom 3D-printed front splitter with integrated canards (Aeroflow Dynamics, P/N AFD-C7ZR1-SPLITTER) for +300 lbs of downforce at 150 mph",
+    "Replace the stock ZR1 wheels with a set of HRE FF16 (20x12\" front, 21x13\" rear) in a custom satin bronze finish, wrapped in Michelin Pilot Sport Cup 2 R tires (345/25R21 front, 355/25R21 rear) with a motorsport-derived compound for maximum lateral grip, paired with AP Racing 6-piston front (P/N CP9660-1D) and 4-piston rear (P/N CP9661-1D) calipers with 400mm rotors for track-ready braking",
+    "Add a custom aero package from APR Performance (C7 ZR1-specific) including a GT400-spec rear wing (P/N APR-C7ZR1-GT400) with adjustable carbon fiber elements (0-20° angle) and a dual-element rear diffuser (P/N APR-C7ZR1-DIFFUSER) with integrated brake cooling ducts, finished in matte carbon fiber with gloss clear coat for UV protection"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "CHEVROLET",
+  "model": "SS SEDAN",
+  "prestazioni": [
+    "LS3 6.2L V8 (engine code: LS3-7B2) forced induction via Garrett GTX4202R turbocharger (1.05 A/R, 64mm inducer) with custom Precision Turbo wastegate (44mm, dual-port) and TiAL MV-R 50mm blow-off valve, supporting 12psi boost for ~650whp on E85 with forged internals (Mahle 2618 alloy pistons, Callies Compstar crank, Manley H-beam rods, ARP L19 head studs).",
+    "Full Motec M150 ECU with custom LS3-specific calibration (including flex-fuel sensor integration, individual cylinder fuel trims, and 2-step launch control at 5,500 RPM) paired with a Bosch Motorsport 0280158802 high-flow fuel pump and Injector Dynamics ID1700x injectors (1,700cc/min).",
+    "BMR Fabrication tubular K-member with solid motor mounts (Energy Suspension polyurethane) and a custom 3-inch aluminum driveshaft (Dynotech Engineering) to handle increased torque, paired with a Tremec TR-6060 6-speed manual transmission with a Spec Stage 4+ twin-disc clutch (26-spline, 240mm) and a PML differential cover with added cooling fins."
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (SS-specific, carbon fiber front fenders, rear quarter panels, and rear bumper) with custom 3M Matte Military Green wrap and exposed carbon fiber accents (hood, roof, and trunk).",
+    "OEM+ aggressive stance via KW Clubsport 3-way coilovers (24-way adjustable damping, 80mm front/70mm rear ride height) with custom camber plates (BC Racing) and 19x10.5 ET+15 front / 19x11.5 ET+18 rear BBS LM-R wheels (gold finish) wrapped in Michelin Pilot Sport Cup 2 R tires (275/35/19 front, 305/30/19 rear).",
+    "Custom carbon fiber rear diffuser (Aeroflow Dynamics) with integrated quad-exit exhaust (Stainless Works 3-inch headers, X-pipe, and Borla Atak mufflers) and a functional front splitter (VIS Racing) with integrated air curtains and a 3D-printed NACA duct feeding the oil cooler (Setrab 625 series)."
+  ]
+}

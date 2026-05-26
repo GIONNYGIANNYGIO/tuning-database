@@ -1,0 +1,14 @@
+{
+  "brand": "BRABUS",
+  "model": "700 ROADSTER",
+  "prestazioni": [
+    "Engine: M177 4.0L V8 Biturbo (engine code: M177 DE 40 AL) upgraded with BRABUS 800 Stage 2+ ECU remap (custom calibration for 700+ HP on 98 RON fuel) paired with a Garrett GTX5533R turbocharger (84mm billet compressor wheel, 1.15 A/R turbine housing) and BRABUS forged internals (pistons, connecting rods, and crankshaft with 88mm stroke for 4.2L displacement)",
+    "Exhaust: BRABUS Valvetronic titanium exhaust system with 90mm carbon-fiber tips, integrated quad-bypass valves, and a secondary straight-pipe mode for track use (backpressure optimized for the GTX5533R setup)",
+    "Suspension: KW Suspensions Clubsport coilovers (3-way adjustable damping, 40mm front/30mm rear ride height reduction) with BRABUS-specific spring rates (12kg/mm front, 14kg/mm rear) and Ohlins TTX46 MkII external reservoirs for rebound/compression fine-tuning"
+  ],
+  "estetica": [
+    "Aero: BRABUS 'Extreme Aero' carbon-fiber package (front splitter with integrated canards, side skirts with air curtains, and a fixed rear wing with dual-element Gurney flaps, all tested in the BRABUS wind tunnel for -0.35 Cd improvement)",
+    "Wheels: BRABUS Monoblock Z 'Platinum Edition' forged wheels (9.5x20 ET25 front, 12.5x21 ET15 rear) with custom offset machining for 325/25R21 and 355/20R21 Michelin Pilot Sport Cup 2 R tires (semi-slick compound for track use)",
+    "Interior: BRABUS 'Black Diamond' interior with carbon-fiber weave Recaro Pole Position seats (FIA 8862-2009 certified, 6-point Schroth harnesses), Alcantara-wrapped dashboard with BRABUS '700' embroidery, and a custom Motec C127 dash logger (integrated with the KW Clubsport suspension telemetry)"
+  ]
+}

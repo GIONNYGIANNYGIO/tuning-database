@@ -1,0 +1,14 @@
+{
+  "brand": "CHEVROLET",
+  "model": "CORVETTE C5 Z06",
+  "prestazioni": [
+    "LS6 (5.7L V8, 346ci) engine block reinforced with Darton MID sleeves for 12.5:1 compression, paired with a Callies DragonSlayer crankshaft and Manley I-beam connecting rods for 8,500 RPM reliability",
+    "Custom forced induction setup using a Garrett GTX5533R turbocharger (1.05 A/R turbine housing) with a Tial MV-R 64mm wastegate and dual Precision Turbo 50mm external wastegates, feeding a custom Spearco intercooler core (4.5\" thick) with -3AN charge piping and a Vibrant 1200cc/min dual-nozzle methanol injection system",
+    "Full Motec M150 ECU standalone management with custom LS6-specific fuel and ignition maps, integrated with a Bosch Motorsport 0280158002 1200cc/min high-impedance fuel injectors and a Radium Engineering dual-catch can setup for crankcase ventilation"
+  ],
+  "estetica": [
+    "Rocket Bunny V1 widebody kit (C5-specific) with carbon fiber front fenders, rear quarter panels, and a custom 3D-printed ABS rear diffuser, all finished in BASF RM WB Urethane in 'Lime Rock Green'",
+    "Custom carbon fiber hood with a functional 3\" cowl scoop (molded from a 2004 C5-R race car hood) and a carbon fiber rear wing from APR Performance (GT-250 model, 60\" span) with adjustable 304 stainless steel mounts",
+    "OEM+ interior with a full Alcantara retrim (Rosen Development) including dashboard, door cards, and Recaro SRD-L seats (C5-specific mounts), paired with a custom roll cage (Chassisworks 8-point bolt-in) and a MOMO Mod.78 steering wheel with a quick-release hub"
+  ]
+}

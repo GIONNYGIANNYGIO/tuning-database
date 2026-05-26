@@ -1,0 +1,14 @@
+{
+  "brand": "CHEVROLET",
+  "model": "SILVERADO REAPER",
+  "prestazioni": [
+    "L87 6.2L V8 (engine code) forced induction via Garrett GTX5533R Gen II turbocharger with billet compressor wheel, 1.15 A/R turbine housing, and 76mm inducer, paired with a custom 4-inch stainless steel intercooler piping system from Vibrant Performance and a PWR 4.5-core intercooler (1200hp capable)",
+    "Holley Dominator EFI ECU with custom Speed Density tuning for the L87, integrated with a Motec C125 dash for real-time boost, AFR, and EGT monitoring, utilizing ID1700x injectors and a Fore Innovations 450 LPH fuel pump with dual AN-10 feed lines",
+    "Full drivetrain reinforcement: RPS Carbon-Ti twin-disc clutch (800 ft-lb torque capacity), G-Force GSR-4 transmission with billet internals, and a Strange Engineering S60 rear differential with 3.90:1 gearing and a Detroit Truetrac limited-slip differential"
+  ],
+  "estetica": [
+    "Rocket Bunny widebody conversion kit (Silverado-specific, not a rebadge) with carbon fiber fenders, front splitter, and rear diffuser, featuring integrated LED turn signals and a custom matte black/purple satin wrap with Reaper-themed ghost flames",
+    "Bilstein B16 coilover suspension with 2.5-inch diameter inverted monotube struts, adjustable camber plates, and custom-valved springs for a 2-inch drop, paired with Energy Suspension polyurethane bushings and a Hellwig 2.5-inch front sway bar",
+    "Custom fabricated bed delete with a carbon fiber tonneau cover from APR Performance, housing a dual-exit 4-inch exhaust system from Stainless Works with titanium tips and a hidden NOS purge kit (10lb bottle) activated via a switch on the AEM X-Series boost controller"
+  ]
+}

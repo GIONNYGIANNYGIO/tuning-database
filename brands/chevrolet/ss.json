@@ -1,0 +1,14 @@
+{
+  "brand": "CHEVROLET",
+  "model": "SS",
+  "prestazioni": [
+    "LS3 6.2L V8 (engine code: LS3) forced induction via Harrop HTV2300 supercharger kit (10.5psi, 650whp on E85, paired with forged Mahle pistons, Manley H-beam rods, and ARP L19 head studs)",
+    "Full bolt-on drivetrain reinforcement: ZF 6HP28 6-speed automatic transmission with Sonnax billet valve body, PML Level 3 torque converter (3,800 stall), and G-Force GSR-2 3.73:1 LSD differential with billet aluminum housing",
+    "Custom Motec M150 ECU with LS3-specific flex-fuel mapping, dual Bosch 028 high-flow fuel pumps, ID1000x injectors, and a custom 3.5\" intercooler core with dual 1,250cfm Bosch throttle bodies"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (front fenders + rear quarter panels) with custom carbon fiber overfenders, paired with a custom 3M Gloss Black wrap and satin bronze accents",
+    "APR Performance GTC-300 adjustable carbon fiber rear wing (30mm risers, 12-degree angle) mounted on custom aluminum pedestals, with integrated LED brake light",
+    "Custom front splitter with integrated air curtains (3D-printed ABS, 3\" overhang) and a custom carbon fiber diffuser with titanium exhaust tips (Borla Atak 3.5\" cat-back, quad 4\" outlets)"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "CHEVROLET",
+  "model": "EQUINOX RS",
+  "prestazioni": [
+    "Engine swap to a **GM LTG 2.0L Turbo (LTG) engine code** with a **Garrett GTX3582R turbocharger** (hybrid billet wheel, 62mm compressor, 76mm turbine) paired with a **PTP Turbo Manifold (LTG-specific, equal-length design)** and a **Tial MV-R 44mm external wastegate** for precise boost control up to 28 psi. Supporting mods include a **Forge Motorsport LTG-specific intercooler (bar-and-plate core, 1000cfm airflow)** and a **Spool Performance LTG catch can system** to mitigate oil dilution.",
+    "Full **Motec M150 ECU standalone management** with a **custom LTG-specific flex-fuel calibration** (E85-compatible) and **Bosch Motorsport 0242520156 injectors (1,200cc/min)** for high-flow fueling. The fuel system is upgraded with a **Walbro 450 LPH in-tank pump** and a **Radium Engineering LTG fuel surge tank** to prevent fuel starvation during lateral G-forces.",
+    "Drivetrain reinforcement with a **South Bend Clutch Stage 3 Daily (LTG-specific, cerametallic disc)** and a **Darton Sleeved LTG block (forged sleeves, 12mm deck thickness)** to handle 500+ whp. Suspension is overhauled with **Öhlins Road & Track DFV coilovers (Equinox RS-specific valving, 2-way adjustable damping)** and **Whiteline adjustable rear sway bars (24mm hollow, 3-position adjustable)** for reduced body roll."
+  ],
+  "estetica": [
+    "**Rocket Bunny V3 widebody kit (Equinox RS-specific, carbon fiber fenders, 50mm extended wheel arches)** paired with a **custom 3M Matte Military Green wrap (2080 series, satin finish)** and **Vortex Generation VG-1 vortex generators** on the roof for aerodynamic stability at high speeds.",
+    "**BBS CI-R 19x9.5 ET35 forged wheels (gold finish, 5x120 bolt pattern)** wrapped in **Michelin Pilot Sport Cup 2 R tires (255/35R19, semi-slick compound)**. Brake system features **Brembo GT 6-piston front calipers (380mm two-piece rotors, Equinox RS-specific brackets)** and **Ferodo DS2500 brake pads** for aggressive track use.",
+    "**Seibon Carbon Equinox RS hood (dual heat extractors, 50% weight reduction)** and a **custom rear diffuser (3D-printed PETG, 3-channel design)** with **AEM X-Series wideband O2 sensor bung** integrated into the exhaust tip. Interior upgrades include **Recaro Sportster CS seats (LTG-specific side bolsters, FIA-approved)** and a **MOMO Mod.78 steering wheel (suede, 350mm diameter, quick-release hub)**."
+  ]
+}

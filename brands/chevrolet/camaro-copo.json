@@ -1,0 +1,14 @@
+{
+  "brand": "CHEVROLET",
+  "model": "CAMARO COPO",
+  "prestazioni": [
+    "Engine: LT4 (supercharged 6.2L V8, GM engine code LT4) with a custom forged rotating assembly from Manley Performance (9.5:1 compression pistons, H-beam connecting rods, and a billet crankshaft) paired with a Whipple 3.0L Gen 5 supercharger upgrade (18 psi boost) and a custom billet throttle body from Wilson Manifolds for improved airflow.",
+    "Drivetrain: G-Force G1400 4-speed dog-ring transmission with a billet aluminum bellhousing, dual-disc Tilton clutch, and a Strange Engineering S60 rear end with 3.73:1 gearing, 35-spline axles, and a spool for maximum power transfer to the wheels.",
+    "Fuel & Ignition: Dual Holley Dominator EFI ECU with a custom COPO-specific tune by LME (Livernois Motorsports), paired with ID1000x injectors, a Fore Innovations dual-pump fuel system (with dual 450 LPH pumps), and an MSD 8 Plus ignition box with a custom COPO-specific coil pack setup for optimized spark under extreme boost."
+  ],
+  "estetica": [
+    "Aero: Custom COPO-specific carbon fiber widebody kit from APR Performance (with integrated COPO heritage graphics), including a massive GT500-style rear wing, front splitter with canards, and a vented hood with a clear polycarbonate window to showcase the supercharger.",
+    "Suspension: Custom COPO-spec coilover setup from JRi Shocks (double-adjustable, 3-way damping) with a solid-mounted front subframe from BMR Suspension and a Watts link rear suspension setup for drag strip precision, paired with BMR adjustable panhard bars and torque arms for launch control.",
+    "Interior: Full COPO drag-spec interior from RaceQuip, including a bolt-in 8-point roll cage, Sparco Pro 2000 seats with 6-point harnesses, a custom COPO-specific carbon fiber dashboard with a Motec C187 dash display, and a Hurst Quarter Stick shifter for the G-Force transmission."
+  ]
+}

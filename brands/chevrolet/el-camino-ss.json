@@ -1,0 +1,14 @@
+{
+  "brand": "CHEVROLET",
+  "model": "EL CAMINO SS",
+  "prestazioni": [
+    "LS6 (5.7L Gen III V8) engine swap with a forged rotating assembly: Callies Compstar crankshaft (4.000\" stroke), Manley H-beam connecting rods, and Mahle Motorsport forged pistons (11.0:1 compression ratio) for 650+ HP on E85 with a custom camshaft profile (Comp Cams 281HR, 0.624\" lift, 236°/242° duration at 0.050\").",
+    "Precision Turbo & Engine PT8285CE turbocharger (85mm inducer, 1.28 A/R turbine housing) paired with a custom 4\" stainless steel exhaust system featuring Burns Stainless 1.75\" primary headers, a Pypes 3\" X-pipe, and Borla Pro XS mufflers for optimized scavenging and backpressure management.",
+    "Holley Dominator EFI system with a custom LS6-specific calibration, integrating an Aeromotive A1000 fuel pump, ID1000x injectors, and a custom billet aluminum intake manifold (ported by Wilson Manifolds) with a 90mm throttle body for precise air/fuel control under boost."
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (El Camino-specific) with custom carbon fiber fender flares, extended rear quarters, and a 2.5\" wheel spacer setup to accommodate a staggered wheel fitment (18x9.5\" +35 front / 18x11\" +25 rear) wrapped in Michelin Pilot Sport Cup 2 tires (255/40/18 front, 295/35/18 rear).",
+    "Custom fabricated steel front splitter with integrated air curtains (modeled after the C7 Corvette Z06 design) and a carbon fiber rear diffuser (Seibon Carbon) with dual 3.5\" exhaust cutouts, paired with a custom 3-piece carbon fiber spoiler (Varis Japan) for downforce optimization.",
+    "Full custom interior overhaul featuring Recaro Pole Position seats (retrimmed in Alcantara with red stitching), a custom roll cage (Autopower bolt-in 8-point cage with harness bar), and a Momo Prototipo steering wheel on a NRG quick-release hub, with a custom digital dash (AEM CD-7) replacing the stock cluster."
+  ]
+}

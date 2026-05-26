@@ -1,0 +1,14 @@
+{
+  "brand": "CHEVROLET",
+  "model": "NOVA SS",
+  "prestazioni": [
+    "LS6 (5.7L Gen III V8) engine swap with a forged rotating assembly: Callies Compstar crankshaft (4.000\" stroke), Manley H-beam connecting rods, and JE Pistons (9.5:1 compression ratio) for 650+ HP on E85 with a custom camshaft profile (Comp Cams 239/247 duration, .624/.630 lift, 114 LSA) and ported LS6 cylinder heads by Total Engine Airflow (TEA) with Ferrea 224/160 valves and PAC Racing valve springs (150 lbs seat pressure).",
+    "Forced induction via Precision Turbo & Engine PT8285CE turbocharger (85mm, 76mm inducer) on a custom T6 flange manifold with Tial MV-R 44mm wastegate and Tial Q 50mm blow-off valve, paired with a custom air-to-water intercooler (PWR North America) and dual Bosch 044 fuel pumps feeding ID1000x injectors (1,000cc/min) managed by a Holley Dominator EFI ECU with dual wideband AEM X-Series sensors.",
+    "Drivetrain reinforcement with a Tremec T56 Magnum 6-speed transmission (2.66 1st gear) and McLeod RST twin-disc clutch (900 ft-lbs torque capacity), coupled to a Strange Engineering S60 rear end with 3.73:1 gearing, 35-spline axles, and a Detroit Truetrac differential, all mounted on a subframe connectors kit by BMR Suspension (PN: SFC001) with polyurethane bushings."
+  ],
+  "estetica": [
+    "Full Rocket Bunny Version 3 widebody kit (PN: RB-CHEVNOVA-03) with custom carbon fiber front splitter and rear diffuser by Seibon Carbon, featuring aggressive 3\" fender flares and integrated hood vents for intercooler ducting, finished in BASF Glasurit 90-Line custom mix 'Lime Gold Pearl' with matte black accents.",
+    "Custom 18x9.5\" (front) and 18x11\" (rear) BBS LM-R wheels (ET25/ET5) wrapped in Michelin Pilot Sport Cup 2 tires (255/40/18 front, 295/35/18 rear), paired with Baer 6P 14\" front brake calipers (2-piece rotors, 4-piston) and Baer 6S 14\" rear calipers (2-piece rotors, 6-piston) with stainless steel braided lines and Motul RBF 660 brake fluid.",
+    "Interior overhaul with Recaro SPG XL seats (PN: 381 200 5) in Alcantara and black leather, bolted to a custom bolt-in roll cage by Autopower Industries (8-point, mild steel, 1.75\" x .120\" wall) with Schroth Profi II 6-point harnesses, and a custom aluminum dashboard by Dakota Digital (HDX series) with AEM CD-7 data logger and integrated boost controller."
+  ]
+}

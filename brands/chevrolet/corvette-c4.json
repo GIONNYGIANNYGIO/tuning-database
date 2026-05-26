@@ -1,0 +1,14 @@
+{
+  "brand": "CHEVROLET",
+  "model": "CORVETTE C4",
+  "prestazioni": [
+    "Lingenfelter L98 383ci stroker kit (based on the L98 350ci V8, bored to 4.030\" with a 3.75\" stroke crank, forged Eagle rods, and JE 12.5:1 pistons) paired with a custom Comp Cams 280/288 hydraulic roller camshaft (0.550\" lift, 230/238 duration @ 0.050\") for 450+ HP on 93 octane",
+    "Accufab 58mm throttle body with a port-matched Lingenfelter intake manifold (L98-specific) and a custom 80mm BBK cold air intake system, feeding a FAST XFI 2.0 standalone ECU with custom Lingenfelter base maps for optimized AFR and timing",
+    "Custom 3\" stainless steel exhaust system by Stainless Works with 1.75\" primary headers (equal-length, 4-into-1 merge collectors), Borla Pro XS mufflers (2.5\" outlets), and a custom X-pipe with Vibrant 1792 resonators for aggressive tone without drone"
+  ],
+  "estetica": [
+    "RK Sport C4-specific widebody conversion kit (ZR-1-inspired, 2\" wider fenders front/rear) with custom carbon fiber side skirts and a RK Sport rear diffuser, all painted in PPG HOK Custom Mix \"Midnight Purple Pearl\"",
+    "Dymag Carbon Revolution CR9 17x9.5\" (front) and 17x11\" (rear) wheels with Nitto NT05R 275/40/17 and 315/35/17 tires, paired with C4-specific Wilwood 6-piston front and 4-piston rear calipers with slotted/drilled rotors (13.5\" front, 12.5\" rear)",
+    "Custom ZR-1-style fixed carbon fiber rear wing by APR Performance (GT-250 model, 60\" span, 8\" chord) with adjustable angle mounts, paired with a carbon fiber front splitter by Seibon (C4-specific, 3\" overhang) and a custom hood scoop for the Lingenfelter intake"
+  ]
+}

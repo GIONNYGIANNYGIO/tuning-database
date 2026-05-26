@@ -1,0 +1,14 @@
+{
+  "brand": "CHEVROLET",
+  "model": "CORVETTE C5",
+  "prestazioni": [
+    "LS1 (5.7L Gen III V8) forced induction via Precision Turbo & Engine PT6266 CEA turbocharger (62mm inducer, 66mm exducer, 58lb/min flow) with TiAL MV-R 44mm wastegate and TiAL Q 50mm blow-off valve, supporting 12psi on E85 for ~650whp on stock internals with ARP head studs (PN 234-4317) and MLS head gaskets (Fel-Pro PN 1014-2).",
+    "Full Motec M150 ECU with LS1-specific firmware (M1 Tune V5.3) controlling sequential fuel injection via ID1000x injectors (1000cc/min) and dual Bosch 044 fuel pumps (walbro 450lph in-tank pump as primary), paired with a custom 3.5\" aluminum intake manifold (FAST LSXR) and Accufab 90mm throttle body.",
+    "Darton Sleeved LS1 block (Darton MID sleeves, 4.125\" bore) with Callies Compstar 4340 forged crank (4.000\" stroke), Carrillo H-beam rods (6.125\" length), and JE FSR forged pistons (9.5:1 compression, 2618 alloy) for 408ci displacement, mated to a Tremec T56 Magnum XL 6-speed with 26-spline input shaft and carbon synchros, paired with a McLeod RST twin-disc clutch (875lb clamp load) and aluminum flywheel."
+  ],
+  "estetica": [
+    "Rocket Bunny V1 widebody kit (C5-specific, bolt-on fenders with 2.5\" flares, carbon fiber front splitter, and duckbill rear wing) paired with a custom 3M Matte Military Green wrap (3M 1080-M227) and blacked-out emblems via Vinyl Depot overlays.",
+    "OEM+ aggressive stance via KW Variant 3 coilovers (C5-specific, 24-way adjustable damping, 1.5\" drop) with HRE FF01 wheels (19x10.5 +25 front, 19x12 +35 rear) wrapped in Michelin Pilot Sport Cup 2 tires (275/35/19 front, 315/30/19 rear), paired with Brembo GT 6-piston calipers (355mm rotors front) and 4-piston rear (345mm rotors) with Ferodo DS2500 pads.",
+    "Interior stripped and reupholstered with Recaro Pole Position seats (carbon fiber backs, Alcantara inserts) and custom door panels (Alcantara with red stitching), paired with a MOMO Mod.78 steering wheel (350mm, suede) and AiM MXL2 data logger with GPS lap timer, mounted via a custom CNC billet aluminum dash mount."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "CHEVROLET",
+  "model": "HHR SS",
+  "prestazioni": [
+    "LSJ 2.4L supercharged Ecotec engine (engine code: LE5) upgraded with a Magnuson TVS2300 supercharger (12 psi boost) paired with a custom billet crankshaft pulley from ZZP Performance to reduce parasitic loss and increase airflow efficiency by 15%.",
+    "Full 3-inch stainless steel turbo-back exhaust system from Stainless Works with 409-grade mandrel-bent tubing, 5-inch resonated mufflers, and a custom X-pipe design to optimize scavenging for the LSJ’s unique exhaust manifold layout, reducing backpressure by 30%.",
+    "Custom ECU reflash via HP Tuners VCM Suite targeting 220+ whp (stock: 260 hp) with a revised ignition timing map (12° BTDC at peak torque), methanol injection via Snow Performance Stage 3 kit (50/50 meth-water mix), and a ported throttle body from Injen for improved airflow at high RPM (7,500+ redline)."
+  ],
+  "estetica": [
+    "Custom widebody conversion using a Liberty Walk LB Works HHR SS-specific kit (fiberglass fenders, front/rear bumpers, and side skirts) with a 2-inch extended wheelbase to accommodate staggered 19x9.5 (front) and 19x11 (rear) Work Emotion CR Kiwami wheels wrapped in Toyo R888R 255/35/19 and 295/30/19 tires.",
+    "Full carbon fiber aero package from Seibon Carbon, including a GT-style rear wing (35mm adjustable angle), front splitter with integrated canards, and a custom hood with a 3-inch cowl scoop to feed the Magnuson supercharger. Painted in PPG Vibrance Collection ‘Hyper Blue’ with matte black accents.",
+    "Interior overhaul featuring Recaro Pole Position seats (red Alcantara with black leather bolsters), a custom roll cage from Autopower Industries (6-point, TIG-welded 4130 chromoly), and a Momo Prototipo steering wheel with a quick-release hub. Gauges replaced with a Defi Advance BF series 5-inch digital dash (boost, AFR, oil pressure, and EGT readouts)."
+  ]
+}

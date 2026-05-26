@@ -1,0 +1,14 @@
+{
+  "brand": "CHEVROLET",
+  "model": "CORVETTE C7 Z06",
+  "prestazioni": [
+    "LT4 (6.2L OHV V8 with Eaton TVS 2300 supercharger, 1.7L/rev) forced-induction upgrade via a custom-built Magnuson TVS2650 supercharger (2.6L/rev, 12 psi boost) with a billet aluminum intake manifold, ported cylinder heads, and a custom camshaft (236°/248° duration, 0.650\" lift) from Katech Performance, pushing output to 850+ WHP on E85 fuel with a supporting fuel system (ID1000x injectors, dual Walbro 450 LPH pumps, and a Fore Innovations surge tank).",
+    "Differential and drivetrain reinforcement with a carbon-fiber driveshaft from The Driveshaft Shop, a Wavetrac limited-slip differential with 3.73:1 gearing, and a Centerforce Dual Friction clutch (DF1ZR) paired with a billet aluminum flywheel for LT4 applications.",
+    "Suspension overhaul with Öhlins TTX46 coilovers (custom valved for C7 Z06 chassis), Eibach ERS 3-way adjustable sway bars (24mm front, 22mm rear), and Brembo GT 6-piston front/4-piston rear brake calipers with 20\" carbon-ceramic rotors (410mm front, 390mm rear) and Ferodo DS2500 brake pads for track use."
+  ],
+  "estetica": [
+    "Widebody conversion using a Rocket Bunny V3 kit (carbon-fiber fenders, front bumper, and rear diffuser) with custom 3M Matte Military Green wrap and exposed carbon-fiber weave on the hood and roof, paired with a custom 3D-printed front splitter from APR Performance (GT-300 model, C7-specific).",
+    "Exterior lighting upgrade with LUX H8 V4 LED headlights (5500K, C7-specific housings), Diode Dynamics SS3 Pro sequential turn signals, and a custom LED taillight overlay with smoked lenses and sequential startup animation via a DiabloSport inTune i3 programmer.",
+    "Interior carbon-fiber trim package from Seibon (door cards, center console, and dashboard accents) with Alcantara-wrapped Recaro SPG XL seats (C7-specific mounts), a custom roll cage from Autopower Industries (bolt-in, 6-point, TIG-welded), and a Motec C127 dash display integrated with the LT4’s CAN bus for real-time boost, AFR, and oil pressure monitoring."
+  ]
+}

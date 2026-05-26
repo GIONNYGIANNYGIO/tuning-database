@@ -1,0 +1,14 @@
+{
+  "brand": "CHEVROLET",
+  "model": "CORVETTE C6 Z06",
+  "prestazioni": [
+    "LS7 (7.0L V8, 427ci) engine with a forged internals upgrade including Manley 4340 forged steel crankshaft (stroke increased to 4.125\" for 441ci), Mahle Motorsport forged pistons (9.5:1 compression), and Callies Compstar H-beam connecting rods for 8,500 RPM reliability under forced induction",
+    "Precision Turbo & Engine PT8285S turbocharger (85mm inducer, 1.28 A/R turbine housing) with a custom 4\" stainless steel exhaust manifold by Burns Stainless, paired with a Tial MV-R 44mm external wastegate and a Vibrant 1799 stainless steel intercooler with 4.5\" core thickness for 12psi boost targeting 850whp on E85",
+    "Holley Dominator EFI ECU with a custom LS7-specific calibration by Lund Racing, integrating a Bosch 044 fuel pump (dual setup), ID1700x injectors, and a Radium Engineering dual catch can system with -10AN lines to manage crankcase pressure under high boost"
+  ],
+  "estetica": [
+    "Rocket Bunny Version 3 widebody kit (C6-specific) with carbon fiber fenders, front splitter, and rear diffuser, paired with a custom 3M Matte Military Green wrap and blacked-out emblems",
+    "Ohlins TTX46 coilover suspension with C6 Z06-specific valving, adjustable camber plates, and polyurethane bushings from Energy Suspension (part #9.5101G) for aggressive stance and track alignment",
+    "Brembo GT 6-piston front calipers (380mm rotors) and 4-piston rear calipers (355mm rotors) with DBA 5000 Series two-piece rotors, paired with Ferodo DS2500 brake pads and Motul RBF 660 brake fluid for fade resistance under 1.5g cornering"
+  ]
+}

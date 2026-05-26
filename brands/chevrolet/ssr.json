@@ -1,0 +1,14 @@
+{
+  "brand": "CHEVROLET",
+  "model": "SSR",
+  "prestazioni": [
+    "LS2 (Gen IV 6.0L V8, engine code: LS2) forced induction via Precision Turbo PT6266 CEA ball-bearing turbocharger (62mm inducer, 66mm exducer, 58lb/min flow) with custom 3.5\" stainless steel turbo manifold by Stainless Works, supporting 12psi boost for ~600whp on pump gas (93 octane) with methanol injection (Snow Performance Stage 3 kit, 50/50 meth-water mix).",
+    "Full billet aluminum short-block assembly by Dart Machinery (LS Next block, 4.065\" bore, 3.622\" stroke) with forged internals: Callies Compstar crankshaft (4340 steel), Manley I-beam connecting rods (H-beam for LS2, 6.125\" length), and JE Pistons (9.5:1 compression, forged 2618 alloy, coated skirts).",
+    "Custom fuel system: Fore Innovations dual-pump setup (F1-2200 primary, F1-1650 secondary) feeding ID1000x injectors (2200cc/min), controlled via Holley Dominator ECU with LS2-specific harness and Bosch 044 fuel pressure regulator. Exhaust system features 3\" stainless steel headers by American Racing Headers (long-tube, 1-7/8\" primaries) into a custom 3.5\" dual exhaust with Borla Pro XS mufflers (straight-through design, 304 stainless)."
+  ],
+  "estetica": [
+    "Full custom widebody conversion using a modified DTM-style SSR-specific kit by Pandem (carbon fiber fenders, front/rear bumpers, and side skirts), retaining the retractable hardtop but with a custom carbon fiber tonneau cover (by Seibon Carbon) to reduce weight by ~40lbs.",
+    "Suspension overhaul with Ohlins Road & Track coilovers (custom valving for SSR chassis, 2-way adjustable dampers) paired with Hotchkis Sport Suspension sway bars (28mm front, 25mm rear) and polyurethane bushings (Energy Suspension full set). Wheel setup: Forgeline GA3R 19x10\" (front) and 20x12\" (rear) with custom offsets (+15mm front, +30mm rear) wrapped in Michelin Pilot Sport Cup 2 tires (275/35/19 front, 315/30/20 rear).",
+    "Aerodynamic package: Custom front splitter by APR Performance (carbon fiber, 3\" overhang) with integrated canards, paired with a custom carbon fiber rear diffuser by RK Sport (3-piece, bolt-on) and a fixed rear wing (Voltex Type-3, 1800mm width, 300mm chord, 25-degree angle) mounted on custom aluminum pedestals. Full custom paint: BASF Glasurit 90-Line in \"Midnight Purple Metallic\" with matte black accents (hood, roof, and rear quarter panels)."
+  ]
+}

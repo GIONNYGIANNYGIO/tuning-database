@@ -1,0 +1,14 @@
+{
+  "brand": "CHEVROLET",
+  "model": "CORVETTE E-RAY",
+  "prestazioni": [
+    "Upgrade the LT2 6.2L V8 (engine code: LT2) with a custom forced-induction system using a Garrett GTX5533R Gen II turbocharger, paired with a Tial MV-R 44mm external wastegate and a custom 4-inch titanium downpipe from Burns Stainless to optimize exhaust flow for the hybrid AWD system's unique torque split.",
+    "Replace the stock 8L90 8-speed automatic transmission with a reinforced GM 10L90E transmission, modified by RPM Transmissions with a billet torque converter (3,800 RPM stall) and a custom valve body tune from HP Tuners to handle the E-Ray's combined 655 hp (492 kW) output from the LT2 and front electric motor.",
+    "Install a custom hybrid cooling system from PWR Performance, featuring dual-core radiators (one for the LT2, one for the front electric motor/inverter), a secondary heat exchanger for the 400V lithium-ion battery pack, and a Motec M150 ECU to manage thermal loads during track use with the E-Ray's eAWD system engaged."
+  ],
+  "estetica": [
+    "Fit a Liberty Walk LB-WORKS widebody kit (C8-specific, carbon fiber) with custom front canards and a rear diffuser extension to accommodate the E-Ray's wider hybrid AWD track and 20-inch front/21-inch rear Michelin Pilot Sport Cup 2 R tires (345/25R21 rear).",
+    "Replace the stock LED headlights with a custom Morimoto 2Stroke 3.0 adaptive LED system, integrated with the E-Ray's front radar sensors for adaptive cruise control retention, and add a carbon fiber hood with a functional heat extractor from RK Sport to vent the LT2's turbo setup.",
+    "Install a full carbon fiber interior overhaul by Seibon, including a custom center console with an integrated digital gauge cluster (AEM CD-7) to monitor hybrid system metrics (battery SOC, electric motor torque, regenerative braking levels), and replace the stock seats with Sparco Pro 2000 carbon fiber racing seats with 6-point harnesses (Schroth Profi II)."
+  ]
+}

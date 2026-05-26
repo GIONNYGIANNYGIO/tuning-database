@@ -1,0 +1,14 @@
+{
+  "brand": "CHEVROLET",
+  "model": "CORVETTE C8 E-RAY",
+  "prestazioni": [
+    "LT2 6.2L V8 (engine code: LT2) forced induction upgrade via Garrett GTX5533R Gen II turbocharger with billet compressor wheel, 106mm inducer, and 3D-printed titanium wastegate housing, paired with a custom 4.5-inch titanium downpipe and a Tial MV-R 60mm external wastegate for precise boost control at 22 psi (1.5 bar) on E85 fuel, supported by a Bosch Motorsport 0261002048 high-flow fuel pump and ID1700x injectors for stoichiometric AFR at 8,500 RPM redline",
+    "Dry-sump lubrication system overhaul with a Peterson Fluid Systems RS-4 billet aluminum oil pan, dual-scavenge pump, and a Setrab 50-row oil cooler with AN-12 lines to maintain 220°F oil temps under sustained 1.5G lateral loads, paired with a Moroso 8-quart accumulator tank for consistent oil pressure during high-RPM launches",
+    "Hybrid electric system recalibration via HP Tuners VCM Suite with a custom OS flash to optimize the front-axle 160 hp electric motor (code: ERAY-EM1) torque split, enabling a 60/40 rear-bias distribution at 6,500 RPM while retaining regenerative braking efficiency, coupled with a GM Performance Parts lithium-ion battery upgrade (part #84259284) for 20% higher discharge rates and a 0.5-second faster 0-60 mph launch"
+  ],
+  "estetica": [
+    "Liberty Walk LB C8 E-Ray widebody kit with carbon fiber fenders, front splitter, and rear diffuser, featuring a 2.5-inch extended wheelbase for staggered 20x12.5 front and 21x14 rear forged wheels (BBS FI-R, 5x120 PCD) wrapped in Michelin Pilot Sport Cup 2 R tires (345/25R21 rear, 305/30R20 front) with custom camber plates for -3.5° front and -2.8° rear alignment",
+    "Custom carbon fiber engine cover with integrated LED-lit LT2 script (RGB backlit via Diode Dynamics SS3 Pro) and a heat-reflective gold thermal wrap on the turbocharger and downpipe, paired with a titanium exhaust system by Armytrix Valvetronic with 4.5-inch outlets and electronically controlled butterfly valves for on-demand backpressure tuning",
+    "Full interior rewrap in Alcantara with exposed carbon fiber trim (parts by Corvette Interiors LLC), including a custom roll cage (Chassisworks C8-specific 8-point bolt-in) with integrated fire suppression system (Life Racing FSM-1) and a Sparco Pro 2000 seat with Schroth 6-point harnesses, complemented by a MoTeC C127 dash display for real-time turbo boost, oil pressure, and electric motor torque metrics"
+  ]
+}

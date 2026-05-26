@@ -1,0 +1,14 @@
+{
+  "brand": "CHEVROLET",
+  "model": "CORVETTE C8 Z06",
+  "prestazioni": [
+    "LT6 5.5L DOHC 32V flat-plane crank V8 (engine code: LT6) with a custom billet crankshaft reinforcement sleeve from Callies Performance Products to handle 9,500 RPM redline under sustained track use, paired with forged Mahle Motorsport pistons (9.5:1 compression) and Carrillo H-beam connecting rods for 800+ HP on E85 with a Motec M150 ECU standalone conversion (OEM ECU bypassed via HP Tuners LT6-specific patch)",
+    "Garrett GTX5544R Gen II turbocharger (88mm compressor wheel, 1.15 A/R turbine housing) with a custom 4-inch titanium downpipe from Burns Stainless, feeding into a dual-core intercooler from PWR (model: 42600) with 1,200 CFM airflow capacity, mounted via a custom carbon fiber intercooler shroud from APR Performance (C8 Z06-specific fitment)",
+    "Öhlins TTX46 coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression), paired with C8 Z06-specific sway bars from Hotchkis (28mm front, 25mm rear) and polyelastomer bushings from SuperPro (part: SPF1305K) to eliminate subframe deflection under lateral loads exceeding 1.3G"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (C8 Z06-specific) with carbon fiber fenders (front +2.5\", rear +3.0\"), paired with a custom front splitter from Anderson Composites (3-piece carbon, 4.5\" overhang) and a GT3-style rear diffuser from APR Performance (model: RD-100040)",
+    "BBS FI-R 20x12\" (front) and 21x13\" (rear) forged wheels with titanium hardware, wrapped in Michelin Pilot Sport Cup 2 R tires (345/25R21 rear, 305/30R20 front) and secured via custom titanium wheel studs from ARP (part: 200-7702)",
+    "Custom carbon fiber engine cover from Seibon Carbon (LT6-specific, with integrated heat shielding) and a titanium exhaust system from Akrapović (4-2-1 header design, 3.5\" diameter, with carbon fiber tips and electronic bypass valves for track/cruise modes)"
+  ]
+}

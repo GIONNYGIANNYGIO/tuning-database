@@ -1,0 +1,14 @@
+{
+  "brand": "CHEVROLET",
+  "model": "CORVETTE C7 STINGRAY",
+  "prestazioni": [
+    "LT1 6.2L V8 (Gen V Small Block) forced induction via Precision Turbo PT6266 CEA turbocharger (62mm inducer, 66mm exducer, 58lb/min flow) with TiAL MV-R 44mm wastegate and TiAL Q 50mm blow-off valve, paired with a custom 3.5-inch stainless steel turbo-back exhaust system by Corsa Performance featuring 304-grade mandrel-bent piping and 5-inch carbon fiber tips",
+    "Holley Dominator EFI ECU with LT1-specific high-flow fuel system upgrade, including Fore Innovations 450x1000cc dual-pump fuel surge tank, ID1000xDS injectors, and a Walbro 450 LPH in-tank pump, calibrated for 93 octane pump gas with E85 flex-fuel capability (targeting 750whp on E85 with 22psi boost)",
+    "KW Suspensions Clubsport 3-way adjustable coilovers with remote reservoirs, custom valving for C7-specific geometry, and spherical bearing top mounts, paired with C7 Z06-spec hollow anti-roll bars (28mm front, 25mm rear) and Brembo GT 6-piston front/4-piston rear brake kit with 390mm two-piece rotors and Ferodo DS2500 pads"
+  ],
+  "estetica": [
+    "Liberty Walk LB Works C7 Stingray widebody kit with carbon fiber fenders, front bumper, and rear diffuser, featuring extended wheel arches (35mm front, 50mm rear) and integrated canards, painted in custom PPG 'Lime Rock Green' with satin black accents",
+    "Vorsteiner V-FF107 forged 20x10.5 front and 21x12 rear wheels in gloss black with brushed titanium lip, wrapped in Michelin Pilot Sport Cup 2 R tires (285/30/20 front, 325/25/21 rear), paired with HRE FlowForm FF03 deep-dish center caps",
+    "Aeromotive Stealth 340-lph fuel cell relocated to the trunk with custom aluminum mounting brackets, integrated into a custom carbon fiber rear decklid spoiler by RK Sport (50mm adjustable angle) and a front splitter with 3D-printed air curtains by APR Performance"
+  ]
+}

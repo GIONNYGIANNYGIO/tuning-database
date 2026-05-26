@@ -1,0 +1,14 @@
+{
+  "brand": "CHEVROLET",
+  "model": "CORVETTE C4 ZR1",
+  "prestazioni": [
+    "Replace the stock LT5 (350ci/5.7L) DOHC 32-valve V8 with a fully built LT5 featuring forged internals: Mahle Motorsport forged pistons (9.5:1 compression), Eagle H-beam connecting rods, and a Callies DragonSlayer crankshaft. Pair with a custom camshaft grind from Comp Cams (280°/284° duration, 0.600\" lift) for aggressive overlap and top-end power.",
+    "Install a custom forced-induction system using a Garrett GTX5533R turbocharger (1.15 A/R turbine housing) with a Spearco air-to-water intercooler (3.5\" core, 1200 CFM) and a Tial MV-R 44mm wastegate. Fabricate a custom 3.5\" stainless steel exhaust with Burns Stainless merge collectors and a MagnaFlow 304 stainless steel muffler (3.5\" inlet/outlet, straight-through design).",
+    "Upgrade the fuel system with dual Bosch 044 high-flow fuel pumps, Injector Dynamics ID2000 fuel injectors (2000cc/min), and a Holley Dominator ECU with a custom LT5-specific tune. Replace the stock ignition system with an MSD Digital 7 Plus ignition box and MSD Blaster SS coils, paired with NGK Iridium IX spark plugs (heat range 8)."
+  ],
+  "estetica": [
+    "Install a full carbon fiber widebody kit from RK Sport (C4 ZR1-specific, bolt-on fenders, front splitter, and rear diffuser) with custom 3M Matte Military Green wrap and gloss black accents. Replace the stock hood with a carbon fiber replica from APR Performance (with functional dual NACA ducts).",
+    "Upgrade the wheels to HRE FF15 3-piece forged wheels (18x10.5\" front, 18x12\" rear) with Michelin Pilot Sport Cup 2 tires (275/35/18 front, 315/30/18 rear). Pair with Brembo GT 6-piston front calipers and 4-piston rear calipers, using 355mm two-piece rotors (slotted and dimpled) from Baer Racing.",
+    "Replace the interior with a full Alcantara and carbon fiber overhaul: Recaro Pole Position seats (fixed-back, FIA-approved), a MOMO Mod.78 steering wheel (350mm, suede), and a custom roll cage from Autopower Industries (bolt-in, 4-point with harness bar). Add a digital dash from AIM MXS Strada (12\" display) with custom LT5-specific gauges."
+  ]
+}

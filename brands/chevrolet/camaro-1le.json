@@ -1,0 +1,14 @@
+{
+  "brand": "CHEVROLET",
+  "model": "CAMARO 1LE",
+  "prestazioni": [
+    "LT4 (6.2L V8 supercharged, engine code: LT4) forced induction upgrade with a Whipple 3.0L Gen 5 supercharger (2.95L pulley) paired with a custom heat exchanger from Lingenfelter for sustained boost levels, targeting 850+ WHP on E85 with supporting fuel system upgrades including dual Walbro 450 LPH pumps and ID1050x injectors",
+    "Full bolt-on suspension overhaul using Ohlins Road & Track DFV coilovers (Camaro-specific valving) with custom spring rates (12K front, 14K rear) and polyurethane bushings from Energy Suspension (part #9.5111G) to eliminate compliance, paired with BMR Fabrication tubular front control arms (part #TCA027) and rear toe arms (part #TCA048) for optimized geometry under high-G cornering",
+    "Differential and drivetrain reinforcement with a Wavetrac LSD (LT4-specific) and a custom driveshaft from The Driveshaft Shop (3.5\" aluminum, 1350 series U-joints) to handle increased torque, alongside a South Bend Clutch Stage 3 twin-disc setup (organic/metallic hybrid) with a billet flywheel for LT4 applications"
+  ],
+  "estetica": [
+    "Full carbon fiber aero package from Anderson Composites (Camaro 1LE-specific) including front splitter, side skirts, and rear diffuser, paired with a custom GT wing from APR Performance (30\" chord, 6\" height, 9002 carbon fiber) mounted on APR's Camaro-specific risers for adjustable angle of attack",
+    "Custom widebody conversion using RK Sport's 1LE-specific fender flares (2.5\" front, 3\" rear) with aggressive rolled fenders to clear Michelin Pilot Sport Cup 2 tires (305/30/19 front, 325/30/19 rear) on Forgeline GA3R wheels (19x11 front, 19x12 rear, +25mm offset) with titanium hardware",
+    "Interior stripped and reinforced with a full roll cage from Autopower (bolt-in, 6-point, 1.75\" DOM tubing) wrapped in Alcantara from Katzkin, paired with Sparco Pro 2000 seats (Camaro-specific mounts) and a custom carbon fiber dash overlay from Seibon with integrated AEM CD-7 digital dash for real-time telemetry"
+  ]
+}
