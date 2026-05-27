@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "312 T",
+  "prestazioni": [
+    "Replace the original 3.0L Tipo 001/12 flat-12 engine with a fully blueprinted and balanced version featuring forged Mahle pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from JP Performance, paired with a custom dry-sump lubrication system using a Peterson Fluid Systems 4-stage pump and a Setrab 50-row oil cooler for sustained high-RPM reliability (target: 12,500 RPM redline).",
+    "Install a bespoke fuel system upgrade with dual Bosch Motorsport 044 high-flow fuel pumps, AN-8 braided lines, and 12x Magneti Marelli SP01 800cc/min injectors, controlled via a Motec M150 ECU with a custom 312 T-specific calibration map developed by HPA Motorsports, including individual cylinder trimming and knock control via Kistler 6052C pressure sensors.",
+    "Upgrade the original 5-speed transaxle with a Hewland FGA400 sequential gearbox (dog-ring engagement, 100ms shifts) featuring a Sachs Racing twin-disc carbon clutch and a Quaife ATB differential, paired with a custom titanium driveshaft from Pankl Racing Systems and a lightweight flywheel from Tilton Engineering to reduce rotational mass by 30%."
+  ],
+  "estetica": [
+    "Replace the original fiberglass body panels with a full carbon-fiber replica kit from Ferrari Classiche (part #63490.010), including a 3D-scanned front splitter and rear diffuser from APR Performance, designed to work with the 312 T's ground effects (downforce target: +40% at 180 mph).",
+    "Install a custom livery inspired by the 1975 Dutch GP-winning car, featuring hand-painted Scuderia Ferrari Rosso Corsa (Pantone 185 C) with gold leaf accents by Signarama Monza, paired with period-correct Goodyear Blue Streak tires on 15-inch OZ Racing magnesium wheels (front: 10x15, rear: 16x15) with center-lock hubs from BBS Motorsport.",
+    "Upgrade the interior with a full Alcantara-wrapped dashboard (Ferrari Classiche part #63490.020), a MOMO Prototipo 380mm steering wheel with a quick-release hub, and a custom FIA-spec roll cage from Safety Devices (part #SD0312T) with integrated fire suppression system (Lifeline Zero 360, 3kg agent) and Sparco Circuit II racing seats with 6-point Schroth harnesses."
+  ]
+}

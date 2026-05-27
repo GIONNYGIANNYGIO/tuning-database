@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "225 S",
+  "prestazioni": [
+    "Engine: Replace the original *Tipo 103* 2.7L V12 (210 hp) with a fully balanced and blueprinted *Tipo 114* 3.0L V12 block (from the 250 MM), bored to 3.3L (84mm pistons, 78mm stroke) using forged Mahle Motorsport pistons (10.5:1 compression) and Carrillo H-beam connecting rods. Pair with a custom billet crankshaft from JP Performance and titanium valves from Del West.",
+    "Forced Induction: Install a custom-built twin-turbo system using Garrett GT2860RS turbos (hybrid ceramic ball-bearing) with Tial 44mm external wastegates and a custom air-to-water intercooler setup (PWR Advanced Cooling) mounted in the front grille. Use a Motec M150 ECU with a custom fuel map for 12 psi boost, targeting 450 hp at 7,200 RPM with 98 RON race fuel.",
+    "Drivetrain: Upgrade to a 5-speed dog-engagement sequential gearbox from Hewland (LD200) with a Sachs twin-disc carbon clutch (240mm) and a Quaife ATB differential (80% lock). Replace the original driveshafts with custom CV-jointed units from GKN Driveline for durability under high torque."
+  ],
+  "estetica": [
+    "Body: Replace the original aluminum body with a custom hand-formed 1.2mm 5754 aluminum alloy shell (fabricated by Callaway Competition) featuring a widened front track (+50mm) and integrated fender flares. Apply a full *PPG Ferrari Rosso Corsa* (code 300/9) paint job with a matte clear coat from Spies Hecker for UV resistance.",
+    "Aerodynamics: Install a custom front splitter and rear diffuser from Capristo Automotive, paired with a *Rocket Bunny* (Pandem) GT-style rear wing (carbon fiber, 3-position adjustable) and a custom underbody tray with vortex generators (designed in collaboration with Swiss Side).",
+    "Interior: Replace the original leather seats with carbon-fiber racing buckets from Sparco (Pro ADV) wrapped in Alcantara (Rosso Corsa stitching). Install a custom roll cage from Matter Motorsport (FIA 8862-2009 certified) with integrated fire suppression system (Lifeline Zero 360). Use a Momo *Mod.78* steering wheel (350mm, suede) and a digital dash from AIM MXS Strada."
+  ]
+}

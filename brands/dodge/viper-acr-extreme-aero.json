@@ -1,0 +1,14 @@
+{
+  "brand": "DODGE",
+  "model": "VIPER ACR EXTREME AERO",
+  "prestazioni": [
+    "8.4L V10 (SRT Engine Code: 8.4L V10 206 CID) stroked to 8.8L with forged internals from JE Pistons (9.0:1 compression, 102.5mm bore, 106mm stroke) and billet crankshaft by Callies Performance Products, paired with Manley titanium intake/exhaust valves and upgraded valve springs for 8,500 RPM redline capability",
+    "Custom forced-induction setup using a Garrett GTX5533R Gen II turbocharger (1.15 A/R turbine housing) with a Tial MV-R 60mm external wastegate, intercooled via a PWR USA dual-core bar-and-plate intercooler (1,200 CFM airflow) and fed by dual Bosch 044 fuel pumps with ID1700x injectors, all managed by a Motec M150 ECU with Viper-specific CAN bus integration",
+    "Full bolt-on ACR Extreme Aero chassis reinforcement: Tube Technologies Inc. (TTI) chromoly subframe connectors, BMR Suspension adjustable sway bars (28mm front, 25mm rear), and Ohlins TTX46 coilovers with 12-position rebound damping and 20mm of ride height adjustment, paired with Viper-specific spherical bearing control arms from Speedtech Performance"
+  ],
+  "estetica": [
+    "Full carbon fiber Extreme Aero widebody conversion by Prefix Corporation (OEM Viper ACR supplier), including extended front fenders (2.5\" wider), rear quarter panels (3.0\" wider), and a custom 3D-printed carbon fiber rear diffuser with integrated Gurney flap (tested in SRT’s wind tunnel for 1,200 lbs of downforce at 150 mph)",
+    "Custom front splitter by Anderson Composites with adjustable dive planes (carbon fiber, 3-piece design for modular angle adjustment) and a Viper-specific rear wing from APR Performance (GTC-300 model, 30\" chord, 72\" span, 3D-printed aluminum endplates with vortex generators)",
+    "Full interior overhaul with Recaro Pole Position seats (carbon fiber shell, FIA 8862-2009 certified), Schroth 6-point harnesses, and a Viper-specific roll cage by Autopower Industries (1.75\" x .120\" DOM tubing, bolt-in design with integrated harness bar), finished with a custom Alcantara-wrapped MOMO Prototipo steering wheel (380mm diameter, suede thumb grips)"
+  ]
+}

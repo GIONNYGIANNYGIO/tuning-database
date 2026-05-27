@@ -1,0 +1,14 @@
+{
+  "brand": "DODGE",
+  "model": "CHARGER DAYTONA",
+  "prestazioni": [
+    "Supercharger upgrade to a Magnuson TVS2650 (2.65L) with a custom billet aluminum intake manifold (engine code: 6.4L HEMI Apache 392, ESF) pushing 12.5 psi of boost, paired with a Kenne Bell Boost-A-Pump to maintain fuel pressure at 80 psi under load, and a custom ECU flash via HP Tuners VCM Suite targeting 750+ WHP on E85 with a 91-octane fail-safe map",
+    "Full drivetrain reinforcement including a Getrag 233 6-speed manual transmission swap (from the Challenger Hellcat Redeye) with a McLeod RST twin-disc clutch (3600 lb-ft capacity), a billet aluminum driveshaft from Driveshaft Shop (3.5\" diameter, 4340 chromoly), and a Dana 60 rear end with 3.91:1 gearing and a Truetrac limited-slip differential",
+    "Suspension overhaul with a full KW Clubsport 3-way coilover kit (24-way rebound, 16-way compression, adjustable top mounts) paired with Hotchkis Sport Suspension sway bars (28mm front, 25mm rear), polyurethane bushings from Energy Suspension (full set), and a BMR Fabrication tubular K-member to reduce front-end weight by 40 lbs while improving geometry for aggressive camber curves"
+  ],
+  "estetica": [
+    "Custom widebody conversion using a Rocket Bunny V3 Charger kit (fiberglass fenders, carbon fiber front splitter, and rear diffuser) with a 2-inch extended wheelbase to accommodate a staggered setup of Forgeline GA3R wheels (20x11 front, 20x13 rear) wrapped in Michelin Pilot Sport Cup 2 tires (295/30/20 front, 345/25/20 rear)",
+    "Full carbon fiber aero package including a Vortex Carbon Fiber hood with a functional 3-inch cowl scoop (directing air to the Magnuson supercharger), a custom carbon fiber rear wing from APR Performance (GT-250 model, 3D-printed endplates for optimal downforce), and a custom front splitter with integrated canards from Seibon Carbon",
+    "Interior overhaul with a full Alcantara-wrapped dashboard and door cards (custom stitching in Daytona Blue), Recaro Pole Position seats (carbon fiber shells, FIA-approved harnesses), a custom roll cage from Autopower Industries (8-point, bolt-in, with integrated fire suppression system), and a Motec C127 dash display replacing the stock cluster for real-time boost, AFR, and oil pressure monitoring"
+  ]
+}

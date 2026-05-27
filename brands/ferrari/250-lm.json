@@ -1,0 +1,17 @@
+{
+  "brand": "FERRARI",
+  "model": "250 LM",
+  "prestazioni": [
+    "Engine: Colombo Tipo 168/62 V12 (3.3L, 320hp stock) – Full dry-sump system upgrade with a custom billet aluminum oil pan by GTO Engineering, featuring dual-scavenge pumps and a 12-quart capacity to eliminate oil starvation during sustained 8,500 RPM track use.",
+    "Forced Induction: Single Garrett GTX4202R turbocharger (86mm compressor, 76mm turbine) with a custom 3D-printed Inconel 625 exhaust manifold by Velocity Motorsports, paired with a Tial MV-R 50mm wastegate and a custom air-to-water intercooler setup using a PWR Racing core (4.5\" thick, 1200hp capacity) mounted in the original spare tire well.",
+    "Fuel System: Full sequential port injection conversion using 12x Bosch Motorsport 0280158101 2200cc/min injectors, controlled by a Motec M150 ECU with a custom 250 LM-specific calibration map, paired with a dual Bosch 044 fuel pump setup and a custom 3.5L surge tank by Radium Engineering to prevent fuel slosh under lateral G-forces exceeding 1.5G.",
+    "Suspension: Full Ohlins TTX46 MkII coilover kit with 24-position adjustable rebound and compression damping, custom valved for the 250 LM’s 2,400mm wheelbase and 720kg dry weight, paired with spherical bearing upper and lower control arms by Superformance Replicas (CAD-designed for the LM’s unique rear subframe geometry).",
+    "Drivetrain: Custom 5-speed dog-ring gearbox by Hewland LG600 with straight-cut gears (1st: 2.61, 2nd: 1.85, 3rd: 1.42, 4th: 1.15, 5th: 0.94), paired with a 2.88:1 ZF limited-slip differential and a custom 3-plate carbon clutch by Tilton Engineering (7.25\" diameter, 2,500lb clamping force)."
+  ],
+  "estetica": [
+    "Bodywork: Full carbon fiber replica body by Ferrari Classiche (original Scaglietti design) with a custom 3M Matte Viola livery, featuring a functional rear diffuser by APR Performance (250 LM-specific, 3-piece design with integrated brake ducts) and a front splitter by Vorsteiner (adjustable 3-stage dive planes).",
+    "Wheels: Custom 16x10\" (front) and 16x12\" (rear) magnesium wheels by BBS Motorsport (LM05 design, 3-piece construction) with center-lock hubs by HRE Performance, wrapped in Pirelli P Zero Trofeo R tires (245/600R16 front, 285/640R16 rear).",
+    "Interior: Full Alcantara retrim by Saddleback Leather, featuring a custom roll cage by Safety Devices (FIA 8862-2009 certified, 4-point harness bar with integrated fire suppression system), a MOMO Prototipo steering wheel (380mm diameter, suede-wrapped), and a digital dash by AIM MXS 1.2 (250 LM-specific layout with V12-specific warning lights).",
+    "Aerodynamics: Custom rear wing by 9 Lives Racing (250 LM-specific, 3-element design, 1,200mm span, adjustable from 5-20 degrees of attack) mounted on carbon fiber stanchions, paired with a custom front canard setup by Rocket Bunny (2-piece, 3D-printed carbon fiber, adjustable angle for high-speed stability)."
+  ]
+}

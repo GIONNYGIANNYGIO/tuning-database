@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "250 GT SWB COMPETIZIONE",
+  "prestazioni": [
+    "Engine: Type 168/168 Comp. 3.0L V12 (Colombo 125) with forged Mahle pistons (85mm bore, 71mm stroke), Carrillo H-beam connecting rods, and a billet crankshaft from JP Performance to handle 11.5:1 compression for 350+ HP at 8,000 RPM on 100-octane fuel, paired with a custom-built Weber 46 DCNF3 carburetor setup with velocity stacks and individual throttle bodies (ITBs) by Jenvey Dynamics for optimized airflow and throttle response",
+    "Drivetrain: Close-ratio 5-speed dogleg gearbox (Type 539) with a limited-slip differential from Quaife ATB, reinforced with a lightweight flywheel by Fidanza and a twin-plate ceramic clutch from Tilton Engineering for rapid gear engagement under high-RPM shifts",
+    "Suspension & Handling: Full chassis reinforcement with a seam-welded roll cage by Safety Devices, paired with a custom Öhlins TTX40 coilover setup (2-way adjustable dampers) and spherical bearing suspension arms from Superformance, complemented by a front sway bar from Hotchkis and a rear sway bar from Addco for reduced body roll in high-speed corners"
+  ],
+  "estetica": [
+    "Body: Lightweight aluminum body panels replaced with carbon fiber replicas from Ferrari Classiche (original-spec but 40% lighter), including a custom front splitter and rear diffuser by APR Performance for improved downforce, with a hand-brushed aluminum fuel filler cap by Bizzarrini for period-correct aesthetics",
+    "Wheels & Brakes: 16-inch Borrani wire wheels (5.5J front, 6J rear) wrapped in Pirelli P Zero Corsa tires (185/70 VR16 front, 205/70 VR16 rear), paired with a custom brake system featuring 355mm front and 330mm rear rotors from Brembo (GT series) with 6-piston calipers up front and 4-piston calipers at the rear, using Ferodo DS2500 pads for endurance racing",
+    "Interior: Full Alcantara-wrapped dashboard and door cards by Sabelt, with a custom roll cage upholstered in matching Alcantara, a MOMO Prototipo steering wheel (380mm diameter) with a quick-release hub, and a digital race display by AIM Solo 2 DL for real-time telemetry, including lap times, G-forces, and oil pressure"
+  ]
+}

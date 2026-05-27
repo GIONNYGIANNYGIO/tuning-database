@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "250 LM LE MANS",
+  "prestazioni": [
+    "Engine: Colombo Tipo 168/62 V12 (3.3L, 320hp stock) – Full dry-sump conversion with a bespoke Aviaid 8-stage oil pump and dual 12AN braided lines to eliminate oil starvation in sustained 8,000+ RPM endurance racing. Replace the stock Weber 46 DCF/3 carburetors with a custom-built fuel injection system using Bosch Motorsport MS3.1 ECU, paired with 12x Lucas 100 lb/hr high-impedance injectors and a Pierburg 300 L/min fuel pump for precise AFR control under 1.5g lateral loads.",
+    "Forced Induction: Twin-turbocharged setup using Garrett GT2860RS-5 turbos (0.63 A/R, 58mm inducer) with custom Inconel 625 turbine housings to withstand 1,000°C exhaust temps. Intercooling via a PWR dual-core air-to-water intercooler with a 10L ice reservoir for Le Mans-style sprints, reducing intake temps from 120°C to 45°C at 1.2 bar boost. Wastegate control via Tial MV-R 44mm external wastegates with 38mm TiAL Q boost solenoids for rapid spool response.",
+    "Drivetrain: Reinforced Tipo 519/63 5-speed transaxle with a Quaife ATB helical LSD (85% lock) and custom 300M steel input shaft to handle 450+ lb-ft torque. Clutch upgrade to a Tilton 7.25\" triple-plate ceramic-metallic unit with a billet flywheel (12.5 lbs) for rapid engagement under 1.8g braking. Half-shafts replaced with custom CV-jointed units from GKN Driveline, featuring 30-spline tripod joints and 4340 chromoly shafts for 30% higher torque capacity."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon-fiber body replica of the 1965 Le Mans-winning chassis #5843, fabricated by BBi Autosport using pre-preg autoclave curing for 30% weight reduction. Front splitter extended 120mm with a Gurney flap, paired with a custom rear diffuser from APR Performance (3-stage design, 45° angle) to generate 350 lbs of downforce at 180 mph. Side skirts replaced with 3D-printed titanium units (SLM process) for 15% lower drag coefficient.",
+    "Wheels & Tires: Bespoke 15x8.5\" (front) and 15x10.5\" (rear) magnesium wheels from BBS Motorsport, weighing 5.2 kg each, wrapped in Michelin Pilot Sport Cup 2 R tires (205/60R15 front, 265/60R15 rear) with custom compound for 1.2g lateral grip. Center-lock hubs from HRE Performance with titanium wheel nuts (12-point, 19mm hex) for rapid pit stops.",
+    "Interior: Full FIA-spec roll cage from Safety Devices (8-point, T45 steel, 1.5mm wall thickness) with integrated fire suppression system (Lifeline Zero 360, 4kg Novec 1230 agent). Seats replaced with carbon-fiber Sparco Pro 2000 seats (8.5 kg each) with 6-point Schroth Profi II harnesses. Dashboard upgraded to a Motec C127 digital dash with GPS lap timing, 12-channel data logging, and real-time boost/temp monitoring via CAN bus."
+  ]
+}

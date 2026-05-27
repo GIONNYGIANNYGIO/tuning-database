@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "250 TESTA ROSSA",
+  "prestazioni": [
+    "Engine: Colombo Tipo 128 V12 (3.0L, 60° SOHC, 2 valves per cylinder) – Full rebuild with Carrillo forged connecting rods (P/N 250TR-001), Mahle Motorsport forged pistons (11.0:1 compression ratio), and a custom-ground camshaft by Schneider Racing Cams (280° duration, 0.450\" lift) for optimized high-RPM power delivery (target: 320+ HP at 7,500 RPM).",
+    "Induction: Weber 40 DCZ/6 carburetors (original spec) port-matched to a custom intake manifold by Velocity Motorsports, featuring polished aluminum runners and a velocity stack setup with K&N X-Stream conical filters (P/N 69-1000) for improved airflow and throttle response.",
+    "Ignition & Exhaust: Pertronix Ignitor II electronic ignition conversion (P/N 1702) paired with MSD Blaster 2 coil (P/N 8202) for precise spark control. Custom 3-into-1 stainless steel exhaust headers by Borla (P/N 40148), terminating in a straight-pipe system with a Scavenger XR-1 muffler (P/N 17672) for aggressive tone without drone."
+  ],
+  "estetica": [
+    "Body: Full bare-aluminum body restoration with hand-beaten panels by Ferrari Classiche, retaining original rivet patterns. Custom clear-coat by Glasurit (P/N 923-220) with a satin finish for a period-correct yet modern look. Lightweight aluminum hood with a functional NACA duct for engine bay cooling.",
+    "Aerodynamics: Custom front splitter and rear diffuser by APR Performance (P/N 100001-100002), designed specifically for the 250 TR’s chassis using CFD analysis to reduce lift by 18% at 120 mph. Side skirts by RK Sport (P/N 250TR-SSK) to improve airflow transition.",
+    "Wheels & Interior: 16\" Borrani wire wheels (P/N 2091) with Pirelli P Zero Corsa tires (205/55 R16 front, 225/50 R16 rear). Interior retrimmed in red Connolly leather (P/N HID-RED) with period-correct diamond-stitching by Paul Russell & Company. Custom MOMO Prototipo steering wheel (P/N 001.12.103) with a quick-release hub by NRG Innovations (P/N 500-QR)."
+  ]
+}

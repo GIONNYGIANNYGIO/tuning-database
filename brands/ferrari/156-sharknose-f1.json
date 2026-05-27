@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "156 SHARKNOSE F1",
+  "prestazioni": [
+    "Engine: Replace the original *Tipo 178* 1.5L V6 (180-200 hp) with a *Tipo 178/B* block bored to 1.6L (94mm bore, 77.5mm stroke) using Mahle Motorsport forged pistons (12.5:1 compression) and Carrillo H-beam connecting rods for 240+ hp at 10,000 RPM, paired with a custom billet crankshaft by *JE Pistons* to handle sustained 11,000 RPM redline.",
+    "Induction: Replace the original Weber 40IF3C carburetors with a *FuelTech FT600* standalone ECU managing dual *ID1000* port injectors per cylinder, fed by a *Radium Engineering* fuel surge tank and *AEM 340LPH* E85-compatible pump. Pair with a *Turbosmart Kompact* 45mm wastegate and *Garrett GT25* turbo (custom-machined compressor housing for 1.5L displacement) to achieve 1.2 bar boost, targeting 320 hp at 9,500 RPM with methanol injection via *Snow Performance* Stage 3 kit.",
+    "Drivetrain: Install a *Hewland DG300* 5-speed sequential transaxle (modified with *Quaife ATB* differential) and *Tilton* triple-plate carbon clutch. Replace the original *Ferrari* half-shafts with *GKN Lobro* CV joints and *Penske* 8760-series shock absorbers (adjustable rebound/compression) to handle 1.5G lateral loads. Use *Brembo* 6-piston calipers with *PFC* 330mm carbon-carbon rotors for 1.2G braking from 200 km/h."
+  ],
+  "estetica": [
+    "Body: Replace the original aluminum panels with *Aerodine Composites* 3K twill carbon fiber bodywork (2x2 twill, 180gsm) including a *custom* 3D-scanned sharknose front splitter with *Gurney flaps* (50mm chord) and a *replica* 1961 Ferrari 156 rear wing (20% larger chord, *NACA 63A012* airfoil) for -120kg downforce at 250 km/h. Paint in *PPG* Ferrari Rosso Corsa (code 300/9) with *3M* matte clear coat for UV resistance.",
+    "Interior: Replace the original *Nardi* steering wheel with a *Personal* 280mm suede wheel (3-spoke, *MOMO* quick-release hub) and *Sparco* 6-point harnesses (FIA 8853/98 spec). Install a *Motec C127* dash logger with *AIM* GPS lap timer, paired with *OMP* HTE-R carbon fiber seats (FIA 8862-2009 certified) and *Schroth* 4-point camlock belts. Retain the original *Smiths* analog gauges (rebuilt by *Caerbont Automotive*) for period accuracy.",
+    "Wheels: Fit *OZ Racing* Superleggera III wheels (13x8 front, 13x10 rear) with *Pirelli* P Zero Trofeo R tires (205/50R13 front, 245/45R13 rear). Use *BBS* center-lock adapters (converted from original Ferrari knock-off hubs) and *H&R* Trak+ wheel spacers (5mm front, 3mm rear) for optimal track width. Powder-coat wheels in *Gloss Anthracite* with *Ferrari* prancing horse center caps (replica by *Emblem Authority*)."
+  ]
+}

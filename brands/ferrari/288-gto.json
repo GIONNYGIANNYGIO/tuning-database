@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "288 GTO",
+  "prestazioni": [
+    "Engine: F114B 2.8L V8 twin-turbo (IHI RHB6 turbos) – Replace stock turbos with Garrett GT2860RS Gen II turbos, ported and polished exhaust manifolds, and custom 3.5-inch titanium downpipes with 200-cell catalytic converters for optimized spool and 650+ HP at 1.5 bar boost (stock: 400 HP at 0.8 bar).",
+    "Fuel System: Upgrade to a full Motec M150 ECU with dual Bosch Motorsport 044 high-flow fuel pumps, ID1000 injectors, and a custom billet fuel rail to support E85 flex-fuel capability. Pair with a custom-mapped ignition system using NGK R8482-10 iridium spark plugs gapped at 0.024 inches.",
+    "Drivetrain: Reinforced GTO-specific Getrag 5-speed transaxle with a Quaife ATB differential (80% lockup), upgraded with a custom billet aluminum bellhousing and a Sachs Performance twin-disc clutch (240mm) with cerametallic friction material for 800 Nm torque capacity."
+  ],
+  "estetica": [
+    "Aero: Full custom carbon-fiber widebody kit by Novitec Rosso (GTO-specific), featuring extended front fenders with integrated NACA ducts, a rear diffuser with active Gurney flap (adjustable via cockpit switch), and a fixed rear wing with dual-element design (30% more downforce than stock).",
+    "Wheels: OZ Racing Ultraleggera HLT 17x10.5 (front) and 17x13 (rear) in gold finish, wrapped in Pirelli P Zero Corsa tires (275/35 R17 front, 335/30 R17 rear) with custom TPMS sensors for real-time pressure monitoring.",
+    "Interior: Full Alcantara retrim by Sabelt, including a custom roll cage (TIG-welded 4130 chromoly) with integrated fire suppression system (Sparco Pro 2000), and a digital dash upgrade using a Motec C127 display with GTO-specific telemetry (boost, oil temp, fuel pressure, and lap timing)."
+  ]
+}

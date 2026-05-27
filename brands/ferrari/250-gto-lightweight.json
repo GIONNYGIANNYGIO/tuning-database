@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "250 GTO LIGHTWEIGHT",
+  "prestazioni": [
+    "Engine: Type 168/62 Comp. (3.0L Colombo V12, 300hp+ target) with forged Mahle pistons (9.7:1 CR), Carrillo H-beam connecting rods, and a billet crankshaft by JP Performance for 9,000 RPM reliability. Twin Weber 46 DCN/3 carburetors with velocity stacks and custom 3D-printed intake plenums by Velocity Motorsports for optimized airflow.",
+    "Exhaust: Hand-fabricated 304 stainless steel headers by Capristo, paired with a straight-pipe system featuring 2.5-inch diameter piping and a Scuderia Ferrari-inspired quad-tip setup (dual center exits, dual side exits) with Inconel 625 mufflers for weight reduction and a 1960s race-spec tone.",
+    "Suspension: Custom Öhlins TTX40 coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression), paired with spherical bearing-equipped rose-jointed control arms by Superformance. Front and rear anti-roll bars upgraded to 22mm (front) and 18mm (rear) by Sabelt, with polyurethane bushings by Powerflex for chassis rigidity."
+  ],
+  "estetica": [
+    "Body: Full lightweight aluminum body panels (hood, doors, trunk) by GTO Engineering, with a 30% weight reduction over stock. Custom front splitter and rear diffuser in carbon fiber by C-West, designed for 1960s Le Mans aerodynamics (50kg downforce at 150mph).",
+    "Wheels: 16-inch Borrani wire wheels (6.5J front, 7.5J rear) with knock-off hubs, wrapped in Pirelli Cinturato CN36 tires (185/70 VR16 front, 215/70 VR16 rear) for period-correct grip. Custom center-lock adapters by BBS for modern torque retention.",
+    "Interior: Full Alcantara-trimmed dashboard and door cards by Sabelt, with a MOMO Prototipo steering wheel (380mm diameter) and a custom roll cage by Safety Devices (chrome-moly steel, FIA 7.3.1 spec). Lightweight Recaro Pole Position seats with 4-point harnesses by Schroth, and a fire suppression system by Lifeline (plumbed to engine bay and cockpit)."
+  ]
+}

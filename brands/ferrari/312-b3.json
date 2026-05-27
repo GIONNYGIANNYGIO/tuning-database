@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "312 B3",
+  "prestazioni": [
+    "Engine: Replace the original 3.0L Tipo 001/1 flat-12 (F102) with a fully balanced and blueprinted version using Mahle Motorsport forged pistons (Part #MAH-58230) and Carrillo H-beam connecting rods (Part #CR-77312) for 12,000 RPM reliability. Pair with a custom billet crankshaft from JP Performance (JP-312B3-CRANK) to handle 800+ HP on Avgas 115/145.",
+    "Forced Induction: Install a bespoke twin-turbo system using Garrett GTX5533R Gen II turbos (Part #776318-5002S) with TiAL Sport 44mm wastegates (Part #WG44) and a custom air-to-water intercooler setup from PWR (Part #PW312B3-IC) to maintain 100°C intake temps at 2.5 bar boost.",
+    "Fuel & Ignition: Convert to a full sequential port injection system using Bosch Motorsport 0280158802 injectors (1,200cc) and a Motec M150 ECU with a custom 312 B3-specific firmware map. Ignition system upgraded to MSD 8510 CDI boxes with NGK R847-10 racing plugs gapped at 0.018\" for optimal flame propagation."
+  ],
+  "estetica": [
+    "Body: Replace the original 1974 fiberglass panels with a full carbon fiber replica body kit from Ferrari Classiche (Part #6120000) in raw 2x2 twill weave, including a custom front splitter and rear diffuser from APR Performance (Part #APR-F312B3-SPL/DIFF) for -300kg downforce at 250 km/h.",
+    "Wheels: Fit 15\" front and 16\" rear OZ Racing Superleggera III wheels (Part #OZ-312B3-F/R) with custom center-lock adapters, wrapped in Pirelli P Zero Trofeo R tires (245/575-15 front, 405/650-16 rear) for maximum mechanical grip.",
+    "Interior: Replace the original aluminum bucket seats with Sparco Pro 2000 seats (Part #00879NR) in Alcantara with custom 312 B3 embroidery, paired with a MOMO Mod.78 steering wheel (Part #MOMO-78-F312) and a full roll cage from Custom Cages (Part #CC-F312B3) in T45 steel with chrome-moly gussets."
+  ]
+}

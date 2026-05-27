@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "250 CALIFORNIA",
+  "prestazioni": [
+    "Engine: Colombo Tipo 168/62 V12 (3.0L, 60° SOHC, 240-280 HP stock) – Full rebuild with forged Mahle pistons (9.5:1 CR), Carrillo H-beam connecting rods, and a billet crankshaft from GTO Engineering for 400+ HP reliability at 8,000 RPM.",
+    "Induction: Dual Weber 46 DCF3 carburetors (original spec) replaced with a custom-built fuel injection system by Fuel Injection Specialties (FIS), featuring Bosch Motorsport high-flow injectors (360cc/min) and a MoTeC M150 ECU for precise AFR control, paired with a custom 3.5\" velocity stack intake manifold by Velocity Motorsports.",
+    "Exhaust: 3-into-1 stainless steel headers (equal-length, 1.75\" primaries) by Capristo, merging into a 3.5\" dual-wall exhaust system with a straight-pipe configuration and a valved bypass for track use, terminating in a pair of 4.5\" titanium exhaust tips by Superformance."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber body conversion by RS Coachworks, including a one-piece front clip (replacing the original steel), lightweight aluminum doors (re-skinned with carbon fiber), and a custom carbon fiber hardtop with a removable Targa panel (inspired by the 250 GT SWB California).",
+    "Wheels: 16\" Borrani wire wheels (original spec) replaced with custom 17x8\" (front) and 17x10\" (rear) magnesium wheels by BBS (RS-GT split-rim design), wrapped in Pirelli P Zero Corsa tires (225/45 ZR17 front, 285/40 ZR17 rear).",
+    "Aero: Custom front splitter and rear diffuser by APR Performance (250 California-specific molds), paired with a lightweight carbon fiber rear spoiler (30mm adjustable) by Vorsteiner, and a set of side skirts by Novitec (Ferrari 250 GT Lusso-inspired)."
+  ]
+}

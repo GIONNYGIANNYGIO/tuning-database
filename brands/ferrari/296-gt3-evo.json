@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "296 GT3 EVO",
+  "prestazioni": [
+    "Installation of a **Motec M150 ECU** with custom firmware optimized for the **F163CE 3.0L V6 + electric motor hybrid powertrain**, targeting a 5% increase in torque split to the rear axle via recalibrated **e-diff mapping** and **MGU-K energy deployment** under 6,500 RPM for improved mid-range acceleration out of corners.",
+    "Upgrade to **Pankl Racing Systems titanium connecting rods** (forged 7075-T6 aluminum base with Ti-6Al-4V titanium small ends) to handle the **1,000+ Nm combined torque** while reducing reciprocating mass by 22%, paired with **Mahle Motorsport forged pistons** (9.5:1 compression, DLC-coated skirts) and **ARP Custom Age625+ head studs** for the **F163CE’s flat-plane crankshaft** to prevent head lift under sustained 8,500 RPM track use.",
+    "Integration of a **Garrett GTX3582R Gen II turbocharger** (modified with a **0.82 A/R titanium-aluminide turbine housing**) to replace the stock **IHI turbo**, paired with a **Tial MV-R 44mm wastegate** and **Precision Turbo & Engine 7675 billet compressor wheel** for a **2.5 bar peak boost** (up from 1.8 bar stock) while maintaining **100% hybrid system compatibility** via a **custom Motec PDM15 power distribution module** to manage the **800V electrical system** and prevent voltage spikes during aggressive throttle lifts."
+  ],
+  "estetica": [
+    "Installation of a **Novitec Rosso 296 GT3 Evo-specific carbon fiber widebody kit** (front splitter with **active Gurney flap**, rear diffuser with **integrated 3D-printed titanium strakes**, and **side skirts with NACA ducts** for brake cooling), all finished in **Matte Viola Micalizzato** with **bare carbon weave accents** and **laser-etched Ferrari logos** on the fenders.",
+    "Replacement of the stock **Brembo GT3-spec 390mm front/380mm rear rotors** with **AP Racing CP8660 carbon-ceramic discs** (410mm front, 395mm rear) paired with **6-piston monobloc calipers** (gold anodized, **Pagid RSX9 racing pads**), and **custom titanium brake lines** from **Hose Techniques** with **aerospace-grade PTFE inner lining** for reduced compliance under 2G braking zones.",
+    "Adoption of a **Rocket Bunny GT3 Evo rear wing** (3D-scanned from the **296 GT3’s FIA-approved aero package**) with **adjustable carbon fiber flaps** (3 positions: low drag, balanced, max downforce) and **integrated LED brake light** (DRL-compatible, **Osram Oslon Black Flat** LEDs), mounted via **titanium billet wing stanchions** from **991 Racing** and finished in **gloss Rosso Corsa** with **exposed carbon weave endplates**."
+  ]
+}

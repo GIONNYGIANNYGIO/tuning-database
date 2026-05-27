@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "248 F1",
+  "prestazioni": [
+    "Engine: F136 E 4.3L V8 (90° naturally aspirated) – Full titanium internals upgrade with Carrillo H-beam connecting rods (248 F1-specific 152mm length), JE forged pistons (12.5:1 compression, 94mm bore), and a billet crankshaft from Manley Performance. Pair with a custom dry-sump system by Peterson Fluid Systems (4-stage, -12AN fittings) to eliminate oil starvation during 1.5G lateral loads.",
+    "Forced Induction: Twin-turbo conversion using Garrett GTX5533R Gen II turbos (86mm compressor wheels, 1.15 A/R turbine housings) with TiAL MV-R 44mm wastegates and a custom intercooler setup by PWR (bar-and-plate core, 1200cfm airflow, -10AN silicone couplers). Boost controlled via an AEM CD-7 dash with integrated 4-channel wideband (Bosch LSU 4.9) and a Motec M150 ECU (248 F1-specific firmware, sequential injection with ID1000x injectors).",
+    "Suspension & Handling: Full Öhlins TTX46 coilovers (2-way adjustable, 248 F1-specific valving) with spherical bearing top mounts from SuperPro. Rear subframe reinforcement via a custom 4130 chromoly brace by Cusco, paired with AP Racing CP9450 calipers (6-piston front, 4-piston rear) and 380mm CCM-R discs (grooved, 6mm thickness). Tire setup: Michelin Pilot Sport Cup 2 R (245/35 ZR19 front, 305/30 ZR20 rear) on HRE FF10 wheels (19x9.5 ET35 front, 20x12 ET50 rear)."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon fiber body kit by Novitec Rosso (248 F1-specific), including a 3D-scanned front splitter with integrated dive planes, rear diffuser with Gurney flap (adjustable via quick-release pins), and a fixed rear wing (NACA 63A-012 airfoil, 1200mm span, 300mm chord). Underbody: Full flat floor with vortex generators by APR Performance (GTC-3000 model).",
+    "Exterior Trim: Custom matte Viola Micalizzato paint (Ferrari Classiche-certified) with exposed carbon fiber weave (pre-preg, autoclave-cured) on the roof, mirror caps, and rear diffuser. Lighting: Full LED conversion by Diode Dynamics (Cree XHP70.2 emitters) with sequential turn signals (VLAND 248 F1-specific housings). Badging: Removed all emblems, replaced with laser-etched titanium plaques (0.5mm thickness) by Billet Badges Inc.",
+    "Interior: Full Alcantara retrim by Sabelt (Ferrari-approved, 248 F1-specific pattern) with carbon fiber door cards (visible weave, 12K twill) and a custom roll cage by Matter Fab (T45 steel, 1.75x0.120 wall thickness, gusseted joints). Steering wheel: MOMO Prototipo (350mm diameter, Alcantara grip, quick-release hub) with integrated Motec C127 dash display. Seats: Recaro Pole Position (carbon fiber shell, FIA 8862-2009 certified) with Schroth 6-point harnesses (ASM model)."
+  ]
+}

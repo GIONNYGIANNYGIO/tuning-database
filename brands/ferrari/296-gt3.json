@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "296 GT3",
+  "prestazioni": [
+    "Installation of a **Motec M182 ECU** with custom firmware optimized for the **F163CE 3.0L V6 + electric motor hybrid powertrain**, enabling a 50% increase in electric motor torque delivery (from 232 Nm to 348 Nm) during qualifying laps while maintaining FIA GT3 homologation compliance via dynamic torque vectoring adjustments.",
+    "Replacement of the OEM **IHI turbocharger** with a **Garrett GTX5533R Gen II** (76mm compressor, 64mm turbine) paired with a **Tial MV-R 60mm wastegate** and **Ferrea F16-series titanium valves** (intake: 37.5mm, exhaust: 32.5mm) to support 850+ hp at 8,500 RPM on **VP Racing Q16 118-octane fuel** with a **Radium Engineering dual-catch can system** to mitigate oil vapor ingestion under sustained lateral G-forces.",
+    "Upgraded **Brembo GT3-spec 6-piston calipers** with **AP Racing CP9436-2600 carbon-carbon rotors** (410mm front, 390mm rear) and **Pagid RSL29 brake pads**, coupled with a **KW Suspensions 3-way adjustable GT3 coilover kit** (20mm lower than OEM) featuring **Ohlins TTX46 MkII dampers** and **Eibach ERS springs** (front: 250 lbs/in, rear: 220 lbs/in) for sub-1.5s 0-100-0 km/h braking performance."
+  ],
+  "estetica": [
+    "Full **Novitec Torado GT3-widebody conversion** with **3D-printed carbon fiber fender flares** (2.5-inch wider front, 3-inch wider rear) and **custom CFD-optimized front splitter** (20% more downforce than OEM) featuring **Gurney flaps** and **active DRS-style rear wing** (adjustable via MoTeC PDM16 for track conditions).",
+    "Replacement of OEM **Ferrari 296 GT3 wheels** with **BBS FI21 18x13 (front) and 18x14 (rear) forged magnesium wheels** (ET25 front, ET5 rear) wrapped in **Pirelli P Zero Trofeo R tires** (305/660R18 front, 315/710R18 rear) and secured with **Bolt MC-Lock titanium lug nuts**.",
+    "Installation of a **Forge Motorsport hybrid intercooler system** with **dual-core 1,200g/s airflow capacity** and **custom CNC-machined aluminum end tanks**, paired with a **Vivid Racing carbon fiber engine cover** featuring **integrated NACA ducts** for direct airflow to the **Garrett turbocharger** and **Mocal 10-row oil cooler**."
+  ]
+}

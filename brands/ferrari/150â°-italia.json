@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "150° ITALIA",
+  "prestazioni": [
+    "Engine: F140FB 6.0L V12 (Type F140) – Full titanium internals upgrade with Carrillo H-beam connecting rods, JE forged pistons (9.5:1 compression), and a billet crankshaft from VAC Motorsports to handle 1,000+ HP on E85 fuel. Pair with a custom dry-sump system by Dailey Engineering for sustained high-RPM stability (12,000+ RPM redline).",
+    "Forced Induction: Twin Precision Turbochargers PT6266 CEA ball-bearing turbos with custom 3D-printed Inconel turbine housings (designed by Ferrari F1 partner IHI) and Tial MV-R 50mm wastegates. Intercooling via a custom air-to-water system with a PWR radiator and Bosch Motorsport water pump for sub-40°C intake temps at 3.5 bar boost.",
+    "Fuel & Ignition: Full Motec M150 ECU with dual Bosch Motorsport MS25 injectors (2,200cc) and a secondary port-injection system using ID1700x injectors. Ignition upgraded to MSD 8522 coils with NGK R8482-10 spark plugs (gapped at 0.020\"). Fuel delivery via a dual-pump setup: Aeromotive A1000 (primary) and a Bosch Motorsport high-pressure pump (secondary) for E85 compatibility."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon-fiber aero package by Novitec Torado, including a custom front splitter with integrated canards (tested in Ferrari’s Fiorano wind tunnel for +200kg downforce at 250 km/h), a rear diffuser with active Gurney flap (adjustable via cockpit switch), and a fixed rear wing derived from the 488 GTE’s DTM-spec design (3D-printed in autoclave carbon).",
+    "Bodywork: Full widebody conversion using Novitec’s 150° Italia-specific kit, extending fenders by 50mm per side with carbon-fiber overfenders (pre-preg autoclave construction). Custom side skirts with integrated NACA ducts for brake cooling, and a one-off carbon-fiber hood with a central ram-air scoop feeding the twin turbos.",
+    "Wheels & Stance: OZ Racing Ultraleggera HLT wheels in 20x12\" (front) and 21x13\" (rear) with custom offsets (+15mm front, +5mm rear) to clear the upgraded Brembo GT-R calipers. Tires: Michelin Pilot Sport Cup 2 R (345/25 R21 rear, 305/30 R20 front). Suspension: Öhlins TTX40 4-way adjustable coilovers with custom valving for the 150° Italia’s front-midship layout, paired with Eibach ERS springs (20% stiffer than OEM) and spherical bearing top mounts by SuperPro."
+  ]
+}

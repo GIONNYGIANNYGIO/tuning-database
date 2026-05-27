@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "250 TESTA ROSSA 59",
+  "prestazioni": [
+    "Engine: Colombo Tipo 128D V12 (3.0L, 60° SOHC, 2 valves per cylinder) – Full rebuild with forged Mahle pistons (85mm bore, 10.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from Ferrari Classiche for 320+ hp at 7,200 RPM with 98 RON fuel. Replace original Weber 38 DCN carburetors with a bespoke set of 42 DCNF3 downdraft carburetors from Weber Performance, calibrated for 10% richer mid-range torque (450 Nm at 5,500 RPM).",
+    "Exhaust: Custom 3-2-1 stainless steel header system by Capristo, merging into dual 2.5-inch straight-pipe exhausts with Scuderia Ferrari-spec 1960s-era megaphones (replicas by Fabspeed), reducing backpressure by 18% while retaining the iconic Testa Rossa rasp. Pair with a secondary X-pipe crossover by Novitec for optimized scavenging at 4,500–6,500 RPM.",
+    "Suspension: Full rebuild of the original double-wishbone front and live-axle rear with Koni 8211 Series adjustable shocks (rebound/compression damping), paired with custom-valved Eibach ERS coil springs (20% stiffer front, 15% stiffer rear) to reduce body roll by 22%. Install a bespoke front sway bar from Superformance (24mm solid, adjustable links) and a rear Panhard rod with spherical bearings by Whiteline to eliminate axle tramp under hard acceleration."
+  ],
+  "estetica": [
+    "Body: Full restoration to 1959 Scuderia Ferrari livery (Rosso Corsa #20271 with Giallo Modena #10038 accents) using Ferrari Classiche-certified paint by Glasurit. Replace the original aluminum body panels with lightweight 0.8mm 5754 aluminum alloy replicas by Ferrari Art, hand-formed to 1959 specifications but with modern corrosion-resistant clear coat. Install a period-correct Plexiglas windscreen (3mm thick) by Sabelt, with a custom-fitted tonneau cover in Connolly Vaumol leather (Antracite #4001).",
+    "Wheels: Restomod 16-inch Borrani wire wheels (5.5J front, 6.5J rear) with modern 315/35R16 Michelin Pilot Sport Cup 2 tires (front) and 335/30R16 (rear) for improved grip. Use bespoke hub adaptors by Tarett Engineering to retain original knock-off spinners while allowing for modern wheel bearings. Powder-coat wheels in Ferrari Grigio Titanio (#10149) with polished rims and red Ferrari center caps.",
+    "Interior: Full reupholstery in Ferrari-approved Pelle Frau leather (Nero #20001) with custom diamond-stitching on the seats, door cards, and dashboard. Replace the original Nardi steering wheel with a 14-inch suede-wrapped wheel by Personal (Ferrari 250 GT SWB spec) and install a modern MOMO Prototipo pedal set (aluminum, drilled). Add a bespoke digital gauge cluster by Stack (ST8100) hidden behind the original Jaeger instruments, displaying AFR, oil pressure, and lap timers via a Motec C127 dash logger."
+  ]
+}

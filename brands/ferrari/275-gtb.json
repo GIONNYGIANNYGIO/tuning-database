@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "275 GTB",
+  "prestazioni": [
+    "Engine: Colombo Tipo 213 3.3L V12 (60°) with a custom billet crankshaft from **JE Pistons** (stroker kit to 3.6L, 82mm stroke) paired with **Mahle Motorsport** forged pistons (11.5:1 compression) and **Carrillo** H-beam connecting rods for 400+ HP on **Sunoco GT260** race fuel.",
+    "Forced induction: **Precision Turbo PT6266 CEA** turbocharger (journal bearing, 62mm inducer) with a **Tial MV-R 44mm** wastegate and **Custom Fabrication** equal-length stainless steel headers (1.75\" primaries) feeding into a **GReddy Profec B Spec II** boost controller (targeting 1.2 bar peak boost).",
+    "Drivetrain: **Hewland LG600** 5-speed dog-ring gearbox with **Quaife ATB differential** (85% lock) and **Tilton** twin-plate ceramic clutch (7.25\" diameter). Suspension: **Öhlins TTX40** 3-way adjustable coilovers with **Eibach** 1000 lb/in springs and **Whiteline** adjustable sway bars (22mm front, 19mm rear)."
+  ],
+  "estetica": [
+    "Body: **RML Group** carbon fiber replica of the **275 GTB/4 NART Spyder** body panels (hand-laid 2x2 twill weave) with **Aerocatch** quick-release hood pins and **Zunsport** mesh grilles (black anodized aluminum).",
+    "Wheels: **OZ Racing Ultraleggera HLT** 15x7\" (front) and 15x8\" (rear) in **Gunmetal** finish with **Pirelli P7 Corsa Classic** tires (205/70 VR15 front, 225/70 VR15 rear).",
+    "Interior: **Recaro SRD** carbon-Kevlar bucket seats (Ferrari Rosso leather with **Sparco** 6-point harnesses) and a **Momo Prototipo** 330mm steering wheel (perforated leather) on a **NRG Innovations** quick-release hub. Full **Smiths** retro-styled gauges (3.5\" tach, 2.5\" oil pressure/temp) with **AEM X-Series** digital boost and AFR readouts."
+  ]
+}

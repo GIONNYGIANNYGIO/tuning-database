@@ -1,0 +1,14 @@
+{
+  "brand": "DODGE",
+  "model": "CHALLENGER SRT DEMON 170",
+  "prestazioni": [
+    "Supercharger upgrade to a Magnuson TVS2650 (engine code: SRT 6.2L HEMI Supercharged (EFI) - *ESB* variant) with a 3.0L rotor set, billet 10-rib pulley system, and a custom heat exchanger from PWR North America (part #PWR-1000-HEMI) to reduce IATs by 30°F under sustained 1.8-bar boost conditions",
+    "Full fuel system overhaul with dual Bosch Motorsport 044 high-flow fuel pumps (part #0 580 254 952), Injector Dynamics ID1700x injectors (part #ID1700X-D017-60-10), and a Radium Engineering multi-port fuel rail kit (part #01-0482-01) paired with a Holley Dominator ECU (part #554-111) for closed-loop E85 flex-fuel tuning",
+    "Custom 4.5-inch straight-pipe exhaust system by Corsa Performance (part #21002) with 304 stainless steel 409-grade tubing, quad 5-inch carbon-fiber tips (part #CT500), and a secondary bypass valve system from Borla (part #BOR-140797) to eliminate backpressure at 7,500 RPM while maintaining street legality via active noise cancellation"
+  ],
+  "estetica": [
+    "Widebody conversion using the Rocket Bunny Challenger V3 kit (part #RB-C17-V3) with carbon-fiber fenders, custom 3M Matte Military Green wrap (part #3M-1080-M213), and aggressive 50mm extended wheel arches to accommodate the HRE FF03 20x12.5 front / 21x13.5 rear wheels (part #HRE-FF03-201257779G / HRE-FF03-21135779G) with Michelin Pilot Sport Cup 2 R tires (305/30R20 front, 355/25R21 rear)",
+    "Custom front splitter and rear diffuser by Anderson Composites (part #AC-CHAL-DEMON-SPLITTER / AC-CHAL-DEMON-DIFFUSER) in raw carbon fiber, paired with a Vorsteiner V-RT carbon-fiber hood (part #VRT-300001) featuring a 3-inch cowl induction scoop and integrated NACA ducts for brake cooling",
+    "Interior overhaul with Recaro Pole Position SPG XL seats (part #RECARO-3852) in Alcantara and green stitching, a custom roll cage by Autopower Industries (part #AP-1000-CHALLENGER) with integrated harness bar, and a MoTeC C127 dash logger (part #MOTEC-C127) replacing the stock cluster for real-time boost, AFR, and oil pressure monitoring"
+  ]
+}

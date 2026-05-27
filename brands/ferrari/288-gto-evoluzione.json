@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "288 GTO EVOLUZIONE",
+  "prestazioni": [
+    "Engine: F114B 2.8L V8 (IHI twin-turbocharged, 9.2:1 compression) upgraded with a custom billet crankshaft by JP Performance (stroked to 3.2L) and forged Mahle pistons (8.5:1 compression for 3.5-bar boost tolerance), paired with titanium connecting rods by Carrillo.",
+    "Turbocharger system: Twin Garrett GTX5533R Gen II turbos with 76mm billet compressor wheels, custom 3D-printed Inconel turbine housings (by TurboSmart), and TiAL MV-R 60mm wastegates with 3.5-bar springs, feeding a custom Spearco intercooler core (1200hp-rated) with billet end tanks.",
+    "Fuel and ignition: Full sequential port injection with 2x Bosch Motorsport 0280158802 2200cc/min injectors per cylinder (16 total), controlled by a Motec M182 ECU with custom 288 GTO Evoluzione-specific firmware, paired with a Magneti Marelli static ignition system (8x NGK R847-10 iridium plugs) and a custom dry-sump oil system by Peterson Fluid Systems (8-stage scavenging)."
+  ],
+  "estetica": [
+    "Bodywork: Full carbon-fiber replica of the original Pininfarina Evoluzione aero kit (by Ferrari Classiche), including the extended front splitter with integrated NACA ducts, rear diffuser with Gurney flap, and a custom 3D-printed titanium rear wing (by 9 Lives Racing) with active Gurney adjustment via Bosch Motorsport actuators.",
+    "Wheels: OZ Racing Superleggera VR 18x11 ET15 front and 18x13 ET5 rear (gold finish), wrapped in Pirelli P Zero Trofeo R tires (275/35 R18 front, 345/30 R18 rear) with custom Ferrari Classiche center-lock adapters.",
+    "Interior: Full Alcantara retrim by Sabelt (original Evoluzione pattern), including the dashboard, door cards, and Recaro SRD-E full-carbon bucket seats (with 6-point Schroth Profi II harnesses). Custom titanium shift knob (by Bizzarrini) and a digital dash by AIM MXS 1.2 (with Ferrari Classiche logo startup animation)."
+  ]
+}

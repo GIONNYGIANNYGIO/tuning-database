@@ -1,0 +1,14 @@
+{
+  "brand": "Ferrari",
+  "model": "250 GTO",
+  "prestazioni": [
+    "Engine: Type 168/62 Colombo V12 (3.0L, 2953cc) with a bespoke dry-sump lubrication system upgraded to a Moroso 22-quart aluminum oil pan and a Peterson Fluid Systems external oil cooler (part #40000) for sustained high-RPM endurance racing. Compression ratio increased to 10.5:1 via custom JE Pistons (forged 2618 alloy, part #250GTO-9.5:1) with Total Seal gapless rings (part #CR1-0350-40) to handle boost.",
+    "Forced Induction: Twin-turbocharged via Garrett GTX5533R Gen II turbos (part #776318-5004S) with TiAL MV-R 44mm wastegates (part #04-001) and TiAL V60 50mm blow-off valves (part #06-001). Custom 3.5-inch stainless steel turbo manifolds by Burns Stainless (part #250GTO-TM) with ceramic coating by Swain Tech (part #ST-1000). Intercooled via a PWR USA dual-core bar-and-plate intercooler (part #IC-FER-250GTO) with -20AN silicone couplers by Vibrant Performance (part #16720).",
+    "Fuel & Ignition: Dual Bosch Motorsport 044 high-flow fuel pumps (part #0 580 254 953) feeding Lucas Oil 2000 psi fuel rails (part #FR-250GTO) with Injector Dynamics ID2000x injectors (part #ID2000X-D010-60-10). Ignition upgraded to a Motec M150 ECU (part #M150-0001) with NGK R847-10 racing spark plugs (part #5018) and MSD Digital 7 Plus ignition box (part #7531). Custom 120mm velocity stacks by Jenvey Dynamics (part #VS120-250GTO) with K&N 12-layer cotton gauze filters (part #RU-1200)."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber replica body by GTO Engineering (part #GTO-250-BODY) with a 3M Matte Graphite vinyl wrap (part #1080-M226) for weight reduction and stealth. Custom front splitter by APR Performance (part #250GTO-SPLITTER) with integrated NACA ducts for brake cooling. Rear diffuser by Rocket Bunny (part #RB-FER-250GTO) with dual 3.5-inch titanium exhaust outlets by Capristo (part #CAP-250GTO-TI).",
+    "Wheels & Tires: OZ Racing Ultraleggera HLT wheels (15x8 front, 15x10 rear, part #UL-250GTO) with custom center-lock adapters by BBS (part #BBS-CL-250GTO). Tires: Michelin Pilot Sport Cup 2 R (245/40R15 front, 285/35R15 rear, part #PS2R-245/40R15 & PS2R-285/35R15) with nitrogen inflation via Nitron gas chargers (part #NITRON-N2).",
+    "Interior: Full Alcantara retrim by Saddleback Leather (part #SB-250GTO-INT) with custom Recaro Pole Position seats (part #RECARO-PP-250GTO) wrapped in Alcantara (part #ALC-8017). Roll cage by Safety Devices (part #SD-250GTO-CAGE) with integrated fire suppression system by Lifeline (part #LL-6000). Steering wheel: Momo Prototipo (part #MOMO-001) with quick-release hub by NRG Innovations (part #NRG-200)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "312 B3 F1",
+  "prestazioni": [
+    "Engine: Ferrari Tipo 001/12 (3.0L flat-12, 485 HP @ 12,600 RPM) – Replace stock Mahle pistons with custom-forged JE Pistons (9.0:1 CR) and Carrillo H-beam connecting rods for 13,500 RPM reliability, paired with a bespoke titanium valvetrain by Del West (intake/exhaust valves, retainers, and lash caps).",
+    "Forced Induction: Single Garrett GTX5533R turbocharger (86mm compressor, 106mm turbine) with a custom billet aluminum intake manifold by TWM Induction, mated to a Motec M150 ECU with individual cylinder fuel trims and anti-lag for 0-60 mph in 2.1s (1,100 HP @ 14,000 RPM on 102-octane race fuel).",
+    "Suspension: Full Öhlins TTX40 MkII 4-way adjustable coilovers with titanium springs (200 lb/in front, 250 lb/in rear) and spherical bearing top mounts by Aurora Bearing, paired with a custom-fabricated titanium front subframe by CP Autosport to reduce unsprung weight by 18%."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon-fiber bodywork by Capristo (replica of 1974 Niki Lauda Monaco GP livery) with a 3D-printed titanium rear wing (NACA 63A012 airfoil, 1,200mm span) and front splitter with active Gurney flaps controlled by a Bosch Motorsport ABS/ESP module.",
+    "Wheels: BBS LM-R 13x13 (front) and 15x13 (rear) magnesium wheels with custom center-lock adapters by HRE Performance, wrapped in Pirelli P Zero Trofeo R tires (245/575-13 front, 355/45-15 rear) for 1.9g lateral grip.",
+    "Interior: Full FIA-spec carbon-fiber monocoque with a Sparco Pro 2000 seat (carbon-Kevlar hybrid), Schroth 6-point harnesses, and a custom Motec C127 dash with integrated GPS lap timer and real-time telemetry via AIM Solo 2 DL."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "275 GTB COMPETIZIONE",
+  "prestazioni": [
+    "Engine: Colombo Tipo 213 3.3L V12 (engine code: *213 Competizione*) with forged Mahle pistons (9.8:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from JP Performance to handle 450+ hp at 8,500 RPM on VP Racing Q16 118-octane fuel",
+    "Induction: Custom 6x45mm Weber IDA carburetors with velocity stacks by ITG Maxogen, paired with a bespoke intake manifold cast by Bizzarrini Engineering to optimize airflow for the *213 Competizione*’s 60-degree V12",
+    "Exhaust: Equal-length 304 stainless steel headers by Capristo, merging into a 3.5-inch dual-exit system with Inconel 625 mufflers and X-pipe crossover, tuned for a 120Hz scavenging pulse at 7,800 RPM"
+  ],
+  "estetica": [
+    "Body: Full carbon fiber replica of the 1965 Le Mans-spec *275 GTB/C* bodywork by Auto Cult, including riveted aluminum doors, hood, and trunk lid, with a 3M Matte Ferrari Rosso Corsa wrap (P/N: 1080-M220)",
+    "Aerodynamics: Custom front splitter and rear diffuser by APR Performance, designed in CFD to generate 180 lbs of downforce at 150 mph, paired with a 1966 Ferrari 330 P3-inspired rear spoiler by RW Carbon",
+    "Wheels: 15x7.5 and 15x9.5 OZ Racing Ultraleggera wheels (P/N: UL1575F/UL1595R) with 205/70R15 and 255/60R15 Pirelli P7 Corsa tires, mounted on custom hubcentric spacers by H&R (5mm front, 10mm rear)"
+  ]
+}

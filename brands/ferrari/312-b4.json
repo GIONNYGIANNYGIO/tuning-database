@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "312 B4",
+  "prestazioni": [
+    "Replace the original Tipo 001/12 flat-12 engine's Weber 48 IDF carburetors with a bespoke fuel injection system using Bosch Motronic MS 3.1 ECU, paired with 12 individual throttle bodies (ITBs) from Jenvey Dynamics (45mm diameter) and a custom intake manifold fabricated from aerospace-grade 6061-T6 aluminum to optimize airflow for the 3.0L (2991.80cc) naturally aspirated powerplant",
+    "Upgrade the valvetrain with titanium intake and exhaust valves from Del West (intake: 42.5mm, exhaust: 36.5mm) and dual valve springs from PSI, paired with titanium retainers and lightweight tappets to support a 10,500 RPM redline, while replacing the original camshafts with custom-ground profiles from Schrick (intake: 300° duration, 12.5mm lift; exhaust: 290° duration, 12.0mm lift) for optimized high-RPM performance",
+    "Install a custom dry-sump lubrication system from Peterson Fluid Systems with a 10-stage pump, billet aluminum oil tank (8L capacity), and dual external oil coolers from Setrab (Series 1, 50-row) to maintain consistent oil pressure under extreme lateral G-forces, paired with a custom titanium oil pan and ARP fasteners for the entire engine assembly"
+  ],
+  "estetica": [
+    "Replace the original fiberglass body panels with a full carbon fiber replica body kit from Ferrari Classiche-approved supplier RSport, featuring a 3-piece front splitter with integrated NACA ducts for brake cooling, a rear diffuser with Gurney flaps, and a single-element rear wing with adjustable angle of attack (0-12°) for downforce tuning",
+    "Install a custom 15-inch magnesium wheel set from OZ Racing (front: 10x15 ET25, rear: 16x15 ET35) wrapped in Pirelli P Zero Corsa tires (front: 235/645-15, rear: 355/680-15) with a bespoke bolt pattern (5x130) to match the original hubs, paired with Brembo GT 6-piston calipers (front) and 4-piston calipers (rear) with 380mm and 355mm two-piece floating rotors, respectively",
+    "Fabricate a custom interior roll cage from T45 steel tubing (1.75\" diameter, 0.120\" wall thickness) by Safety Devices, featuring a 6-point harness bar with integrated fire suppression system (Lifeline Zero 360) and a custom carbon fiber dash from AIM Motorsport with a MXS 1.2 data logger, PDM30 power distribution module, and a bespoke steering wheel with quick-release hub from NRG Innovations"
+  ]
+}

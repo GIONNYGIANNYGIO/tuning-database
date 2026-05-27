@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "308 GTB",
+  "prestazioni": [
+    "Engine: F106AB 3.0L V8 (2926cc) with a custom GTSport Engineering billet crankshaft (88mm stroke) and Carrillo H-beam connecting rods, paired with forged JE Pistons (9.5:1 compression) for a 3.2L stroker build. Ported and polished cylinder heads with Ferrea Racing valves (intake: 44.5mm, exhaust: 38mm) and titanium retainers, paired with a custom Schrick 284° camshaft profile for high-RPM power retention.",
+    "Forced Induction: Single Garrett GTX3582R turbocharger (0.82 A/R turbine housing) with a custom Tial MV-R 44mm wastegate and a PWR water-to-air intercooler (core dimensions: 12\" x 8\" x 3.5\"). Custom 3\" stainless steel turbo manifold by Automotive Racing Products (ARP), with a TiAL 50mm blow-off valve and a custom 3.5\" downpipe merging into a Capristo 300-cell metallic catalytic converter.",
+    "Fuel & Ignition: Full sequential fuel injection conversion using Bosch Motorsport 0280158107 injectors (1000cc/min) and a Motec M150 ECU with a custom 308 GTB-specific calibration. Dual Bosch 044 fuel pumps with a Radium Engineering surge tank, paired with a custom MSD 8512 ignition system and NGK R847-10 spark plugs gapped at 0.024\". Custom 3\" velocity stacks by ITG Maxogen."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion using a Liberty Walk LB-WORKS Ferrari 308 GTB kit (fenders, bumpers, side skirts, and rear diffuser), with a custom 3M Matte Ferrari Rosso Corsa (PPG DMC 998) wrap. Custom front splitter by Vorsteiner with integrated canards, and a custom rear wing by 9 Lives Racing (35\" chord, 6\" height, 25° angle).",
+    "Wheels & Suspension: OZ Racing Ultraleggera HLT wheels (18x9.5 +25 front, 18x11 +35 rear) with Michelin Pilot Sport Cup 2 tires (245/35/18 front, 295/30/18 rear). Full Ohlins Road & Track coilover kit (DFV2) with custom valving for the 308 GTB chassis, paired with Eibach anti-roll bars (24mm front, 22mm rear) and spherical bearing subframe bushings by SuperPro.",
+    "Interior: Full Alcantara retrim by Saddleback Leather (dashboard, door cards, headliner) in Ferrari Rosso with custom red stitching. Custom roll cage by Custom Cages (T45 steel, 6-point) with integrated fire suppression system by Lifeline. Sparco Pro 2000 seats with Schroth 6-point harnesses, and a custom Motec C127 dash display replacing the stock cluster."
+  ]
+}

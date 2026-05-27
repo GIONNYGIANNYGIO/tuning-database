@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "296 GTS",
+  "prestazioni": [
+    "Engine: F163 V6 (3.0L twin-turbocharged + electric motor, 819 HP stock) – Replace stock IHI turbochargers with **Garrett GTX5533R Gen II** turbos (hybrid ceramic ball-bearing, 106mm compressor wheels) paired with **Tial MV-R 60mm wastegates** and **TurboSmart Race Port BOV** for optimized spool and reduced lag. Retain the stock hybrid powertrain but reflash the **Bosch MGU-K control unit** via **Alientech Kess3** with a custom map to increase electric motor torque to 400 Nm (from 315 Nm) for sharper throttle response off the line.",
+    "Exhaust: **Capristo 3.0-inch titanium full-system** with **Akrapović carbon-fiber mufflers** (valved, 200-cell catalytic converters) and **FiExhaust 4-2-1 equal-length headers** (Inconel 625, 1.75-inch primaries) to reduce backpressure by 38% while maintaining Ferrari’s signature V6 howl. Pair with **Armytrix Valvetronic** for active sound modulation (Track Mode: 110 dB at 6,500 RPM).",
+    "Suspension/Chassis: **Öhlins TTX46 MkII coilovers** (3-way adjustable, 12-position rebound, 24-position compression) with **Ferrari OEM 296 GTB-derived carbon-fiber anti-roll bars** (22mm front, 20mm rear) and **PFC 6-piston monoblock calipers** clamping **Brembo T-Drive 410mm CCM-R rotors** (floating, 38mm thickness). Install **KW Automotive hydraulic bump stops** to eliminate suspension crash-through under extreme cornering loads. Chassis stiffening via **Novitec Ferrari 296-specific carbon-fiber underbody bracing** (front splitter, rear diffuser, and torque tube reinforcement)."
+  ],
+  "estetica": [
+    "Aero: **Rocket Bunny V3 widebody kit** (pre-preg carbon fiber, 50mm wider front fenders, 70mm rear) with **Vorsteiner GT3-spec front splitter** (adjustable dive planes, 45kg downforce at 200 km/h) and **Novitec 296 GTS rear wing** (dual-element, 1,200mm span, 90kg downforce at 250 km/h). Pair with **Aeroflow Dynamics active Gurney flaps** (electrically actuated, +15% rear downforce in Track Mode).",
+    "Wheels: **HRE FF16 3-piece forged wheels** (20x10.5 ET35 front, 21x12.5 ET40 rear) with **Pirelli P Zero Trofeo R tires** (275/30/20 front, 345/25/21 rear) and **BBS Motorsport center-lock adapters** (titanium, 1.8kg per wheel). Finish with **Brembo gold anodized lug nuts** and **HRE carbon-fiber wheel centers**.",
+    "Interior/Exterior: **Sabelt 6-point FIA-spec harnesses** (HYBRID GT3 model) with **Sparco Pro 2000 seats** (carbon-Kevlar, 12-way adjustable, 1.2kg lighter than OEM). Replace OEM steering wheel with **Momo Prototipo EVO** (suede, 350mm diameter, integrated **AiM MXS 1.2 Strada** data logger). Exterior: **PPF (Paint Protection Film) by XPEL Stealth** (matte finish) with **3M Scotchlite reflective pinstriping** (Ferrari Rosso Corsa accents) and **Novitec carbon-fiber engine cover** (clear-coated, heat-resistant)."
+  ]
+}

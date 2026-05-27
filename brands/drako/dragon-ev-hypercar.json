@@ -1,0 +1,14 @@
+{
+  "brand": "DRAKO",
+  "model": "DRAGON EV HYPERCAR",
+  "prestazioni": [
+    "Upgrade to a **Drako GTE-4 Quad Motor System (QMS-2200)** with custom **AP Racing CP9669-1000** carbon-ceramic brake rotors (420mm front, 390mm rear) and **Brembo GP4-MS** monoblock calipers (6-piston front, 4-piston rear) for 2,200 Nm of torque vectoring and 0-60 mph in 1.7 seconds",
+    "Install a **Molicel P42A** high-discharge battery pack (90 kWh, 1,000V architecture) with **Wolfspeed SiC MOSFET** inverters and **YASA P400** axial flux motors (4x 250 kW peak) for a 1,200 hp output and 800V fast-charging compatibility (350 kW, 0-80% in 12 minutes)",
+    "Integrate a **Motec C187 ECU** with **Drako proprietary torque-split software (v3.2.1)** for adaptive all-wheel-drive mapping, including a **GReddy Profec B Spec II** launch control system and **AEM EV VCU-3000** for real-time motor temperature monitoring and overboost (1,400 hp for 10-second bursts)"
+  ],
+  "estetica": [
+    "Fit a **Rocket Bunny V3 widebody kit (Pandem Designs)** with **carbon fiber fenders (2.5mm prepreg, autoclave-cured)** and **custom 3D-printed titanium wheel arches** to accommodate **HRE FF01 wheels (20x12.5 +35 front, 21x13.5 +40 rear)** wrapped in **Michelin Pilot Sport Cup 2 R tires (285/30 R20 front, 325/25 R21 rear)**",
+    "Install a **Vorsteiner V-FF 1020 carbon fiber front splitter** with **active aerodynamic Gurney flaps (Bosch Servolectric actuators)** and a **Liberty Walk LB-WORKS GT wing (Type 2, 1,800mm span)** with **adjustable carbon fiber endplates (0-25° angle, 3D-printed titanium mounts)**",
+    "Replace stock lighting with **Lumileds Luxeon Z ES LEDs (5,000K, 1,800 lumens)** in **OEM-style housings (polycarbonate lenses, hydrophobic coating)** and add **Osram Night Breaker Laser auxiliary lights (80W, 600m beam throw)** integrated into the **custom carbon fiber front bumper (Weichers Carbon, 1.2mm thickness)**"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "126C2 TURBO",
+  "prestazioni": [
+    "Engine: Replace the stock 120° V6 (Type 021) with a fully machined and balanced 2.5L block (bore/stroke: 80.0mm x 52.8mm) using forged Mahle Motorsport pistons (9.5:1 CR) and Carrillo H-beam connecting rods, paired with a billet crankshaft from JP Performance to handle 1,200+ HP under sustained boost.",
+    "Turbocharging: Swap the original KKK K26 turbochargers for a pair of Garrett GTX5533R Gen II turbos (82mm compressor, 1.15 A/R turbine housing) with TiAL Sport MV-R 44mm wastegates and TiAL Q 50mm blow-off valves, feeding into a custom 4.5-inch titanium exhaust system by Capristo with 200-cell catalytic converters for FIA compliance.",
+    "Fuel & Ignition: Install a MoTeC M150 ECU with dual Bosch Motorsport 044 high-flow fuel pumps, ID1700x injectors, and a custom-mapped ignition system using NGK R847-10 spark plugs with 0.020\" gap, paired with a Pectel SQ6M data logger for real-time telemetry and traction control via Ferrari’s original 126C2 slip-angle sensors."
+  ],
+  "estetica": [
+    "Aerodynamics: Replace the stock front wing with a carbon-fiber replica of the 1982 Monaco GP-spec 126C2 wing (30% more downforce at 200 km/h) by C-West Japan, paired with a custom underbody diffuser by APR Performance and a rear wing extension using 3D-printed titanium endplates for reduced drag.",
+    "Bodywork: Full carbon-fiber body kit by Liberty Walk (Ferrari 126C2-specific mold) with widened front fenders (20mm per side) to accommodate 18x12\" BBS LM-R wheels (ET15) wrapped in Pirelli P Zero Trofeo R tires (325/680R18), and a custom livery replicating the 1982 Scuderia Ferrari Marlboro colors with hand-painted pinstriping by Dr. ColorChip.",
+    "Interior: Full Alcantara retrim by Sabelt with FIA 8862-2009 certified carbon-fiber racing seats (Sparco Pro 2000), a custom roll cage by Matter Italy (chromoly steel, 3.2mm wall thickness) integrated with the original 126C2 monocoque, and a digital dash by AIM MXS Strada displaying real-time boost (0-5 bar), oil pressure (0-15 bar), and exhaust gas temps (0-1,100°C)."
+  ]
+}

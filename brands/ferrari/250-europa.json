@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "250 EUROPA",
+  "prestazioni": [
+    "Engine: Type 112 Colombo V12 (2953cc, 60° V12, single overhead camshaft per bank, 3 Weber 36 DCF carburetors) – Full rebuild with forged Mahle pistons (8.5:1 compression ratio), Carrillo H-beam connecting rods, and a balanced crankshaft by Ferrari Classiche-certified specialists for 300+ HP at 7000 RPM.",
+    "Forced Induction: Custom-built Sprintex S300-94 supercharger kit (roots-type, 8 psi max boost) with a custom billet aluminum intake manifold by GTO Engineering, paired with a custom intercooler setup using a PWR heat exchanger and dual SPAL 16\" fans for consistent IATs under 50°C.",
+    "Suspension & Handling: Full Ohlins TTX40 coilover conversion with custom valving for the 250 Europa’s 2400mm wheelbase, paired with a bespoke front sway bar (24mm solid) by Superformance and a rear Watts linkage setup by RML Group to eliminate axle tramp under hard acceleration."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber replica of the 1954 Pinin Farina Scaglietti body (hand-laid by Callaway Carbon, 30% weight reduction) with a custom front splitter and rear diffuser by Novitec Rosso, finished in Ferrari ‘Rosso Europa’ (custom mixed by PPG to match the 1954 original).",
+    "Wheels: Custom 16\" Borrani wire wheels (replica by Dayton Wire Wheels) with 5.5J front and 6J rear widths, wrapped in Pirelli Cinturato CN36 tires (185/70 VR16 front, 205/70 VR16 rear) for period-correct grip.",
+    "Interior: Full leather retrim by Saddleback Leather in ‘Tobacco’ Connolly hide, featuring a custom MOMO Prototipo steering wheel (380mm diameter, aluminum spokes) and a bespoke gauge pod by Stack Instruments (digital readouts for boost, oil pressure, and AFR, styled to match the original Veglia gauges)."
+  ]
+}
