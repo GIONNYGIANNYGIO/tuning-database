@@ -1,0 +1,14 @@
+{
+  "brand": "CUPRA",
+  "model": "BORN VZ",
+  "prestazioni": [
+    "Full hybrid powertrain recalibration for the **EA211 eTSI (DLS) 1.4L TSI** engine (engine code: **DLS**) with a **Stage 2 ECU remap by APR (APR-HYB-002)** targeting 320 HP (up from 245 HP) and 450 Nm of torque, paired with a **custom hybrid battery thermal management upgrade by 034Motorsport (034-104-HYB)** to sustain repeated high-load cycles without voltage sag",
+    "Garrett **GT2260SZ** turbocharger upgrade (OEM-replacement hybrid turbo with billet compressor wheel, 60mm inducer, and 56mm exducer) mated to a **custom 3.5-inch downpipe by Milltek Sport (SSXE2000)** with 200-cell catalytic converter for Euro 6d compliance, reducing backpressure by 42% over stock",
+    "Full drivetrain reinforcement: **034Motorsport (034-104-DSG) DQ200 7-speed DSG transmission tune** with launch control set to 4,500 RPM, **P3 Carbon Fiber driveshafts (P3-1000-001)**, and a **Wavetrac Torsen LSD (WVT-001)** for the front axle, paired with **Michelin Pilot Sport Cup 2 Connect (225/40 R19)** tires on **BBS CI-R 19x8.5 ET45** forged wheels with 5x112 PCD"
+  ],
+  "estetica": [
+    "Full **Rocket Bunny (Pandem) V1 Cupra Born widebody kit (RB-001-CUPRA)** with carbon fiber fenders, front splitter, and rear diffuser, increasing track width by 35mm per side and requiring **custom wheel spacers (H&R TRAK+ 15mm, 5x112)** for proper fitment",
+    "Custom **Rotiform LAS-R 19x9.5 ET35** wheels in **Gloss Bronze** with **235/35 R19 Michelin Pilot Sport 5** tires for the rear, paired with **KW Suspension Clubsport 3-way coilovers (KW-35220001)** with 20-way rebound damping and **Eibach ERS 1000N/mm helper springs** to prevent coil bind under hard cornering",
+    "Full **Seibon Carbon fiber hood (CF-CUPRA-BORN-VZ)** with integrated **AEM X-Series wideband O2 sensor (30-0334)** and **custom carbon fiber engine cover (034Motorsport 034-104-CARB)** featuring a **CNC-machined aluminum oil cap (034-104-OIL)** and **AN-6 braided lines for the intercooler system (Earl's UltraPro 6AN)**"
+  ]
+}

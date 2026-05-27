@@ -1,0 +1,14 @@
+{
+  "brand": "CITROEN",
+  "model": "GT CONCEPT",
+  "prestazioni": [
+    "Forged internals upgrade for the **Ford 5.4L V8 (Modular engine, code: *4V-5.4L*)** with Mahle Motorsport forged pistons (2618 alloy, 9.5:1 CR), Manley H-beam connecting rods, and a billet crankshaft from Callies Performance Products to handle 1,000+ HP under forced induction",
+    "Custom twin-turbo system utilizing **Garrett GTX5533R Gen II turbos** (84mm inducer, 1.15 A/R turbine housing) with TiAL MV-R 60mm wastegates, custom 4-inch stainless steel exhaust manifolds by Burns Stainless, and a full 4-inch titanium exhaust system with Akrapovič Racing GP4 mufflers",
+    "Full **Pectel SQ6M standalone ECU** with custom calibration by **Syvecs** for the 5.4L V8, paired with a **Motec PDM30** power distribution module, **AEM X-Series** wideband O2 sensors, and a **Haltech CAN keypad** for real-time boost and fuel mapping adjustments (targeting 28 psi peak boost on E85)"
+  ],
+  "estetica": [
+    "Full **Liberty Walk LB-WORKS** widebody kit for the GT Concept, including carbon fiber front fenders with integrated air vents, rear overfenders with aggressive wheel arches, and a custom front splitter with adjustable canards (3D-printed from **Toray T800 carbon fiber**)",
+    "Custom **Rocket Bunny** rear diffuser with integrated **Aeromotions** active rear wing (3-position adjustable, 1,200mm span, carbon fiber construction) and **Vorsteiner** carbon fiber side skirts with integrated LED lighting for aerodynamic and visual impact",
+    "Full **BBS LM-R** forged wheels (20x12 front, 21x13 rear) with **Pirelli P Zero Trofeo R** tires (285/30 R20 front, 335/25 R21 rear), paired with **AP Racing** 6-piston front and 4-piston rear calipers clamping **DBA 5000 Series** two-piece rotors (400mm front, 380mm rear) with titanium retention pins"
+  ]
+}

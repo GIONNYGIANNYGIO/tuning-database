@@ -1,0 +1,14 @@
+{
+  "brand": "CZINGER",
+  "model": "21C",
+  "prestazioni": [
+    "Upgrade to a **Garrett GTX5544R Gen II** turbocharger (86mm compressor wheel, 106mm turbine) paired with a **Tial MV-R 60mm wastegate** to support the **21C’s 2.88L flat-plane crank V8 (code: CZN-2.88FPC)** at 1,350+ hp targets, utilizing **Czinger’s proprietary 3D-printed Inconel 718 exhaust manifolds** with integrated water-cooled turbine housings for thermal stability",
+    "Installation of a **Motec M150 ECU** with Czinger’s **AI-driven torque vectoring calibration**, replacing the stock Bosch MS6.3, to optimize the **dual electric motor (front axle) + V8 hybrid system** with real-time traction control adjustments via **NVIDIA Drive AGX Orin** integration, enabling 0-60 mph in sub-1.6s with launch control",
+    "Replacement of the OEM **Pankl titanium connecting rods** with **Carrillo H-beam billet rods (4340 steel, 6.125\" length)** and **JE 9.5:1 forged pistons (2618-T6 alloy, 92mm bore)** to handle 12,000+ RPM redline, paired with a **Daido Metal DLC-coated crankshaft** and **AP Racing 6-piston monoblock calipers** with **Carbon Revolution CR-9 carbon-ceramic rotors (410mm front, 380mm rear)** for fade-free braking"
+  ],
+  "estetica": [
+    "Application of a **Czinger x Fiber Dynamics full-carbon fiber widebody kit** (pre-preg autoclave cured, 3K twill weave) with **active aerodynamics**, including a **Gurney flap-adjustable rear wing (3.2m² surface area)** and **front splitter with integrated Venturi tunnels** for 2,700 lbs of downforce at 180 mph, finished in **PPG ‘Liquid Black’ with matte clear coat**",
+    "Installation of **OZ Racing Ultraleggera HLT wheels (20x11 front, 21x13 rear)** in **gloss silver with gold anodized locking nuts**, wrapped in **Michelin Pilot Sport Cup 2 R tires (295/30 R20 front, 355/25 R21 rear)** with **TPMS sensors integrated into the Czinger telemetry system** for real-time pressure/temperature monitoring",
+    "Custom **Czinger x V12 Speedshop titanium bolt-on aero package**, including **3D-printed titanium side skirts with NACA ducts** for brake cooling, **carbon fiber side mirrors with integrated cameras (replacing OEM units)**, and a **removable hardtop with electrochromic glass (SageGlass) for adaptive tinting**, all coated in **Cerakote ‘H-146 Graphite Black’** for UV/chemical resistance"
+  ]
+}

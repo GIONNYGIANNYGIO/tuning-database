@@ -1,0 +1,14 @@
+{
+  "brand": "DS",
+  "model": "7 PERFORMANCE LINE",
+  "prestazioni": [
+    "Engine: PSA EP6FDTX (1.6L turbocharged inline-4, 225hp stock) – Full forged internals upgrade with Manley 87mm forged pistons, Eagle H-beam connecting rods, and ACL Race Series bearings to handle 400whp+ reliably. Pair with a Garrett GTX3076R Gen II turbo (0.82 A/R, 62mm compressor) for optimized spool and top-end power, mated to a custom 3.5\" stainless steel downpipe with Vibrant 1799 high-flow catalytic converter.",
+    "Fuel System: Injector Dynamics ID1050x fuel injectors (1050cc/min) with a Radium Engineering dual-core fuel rail and AEM 340lph in-tank fuel pump. ECU recalibration via Syvecs S8 Plug & Play standalone ECU with flex-fuel capability, custom-mapped for E85 blends and aggressive ignition timing (18° BTDC peak).",
+    "Suspension & Handling: Öhlins Road & Track DFV coilovers (DS7-specific valving) with 8kg/mm front and 10kg/mm rear springs, adjustable camber plates (Suspension Secrets DS7 kit), and polyurethane subframe bushings (SuperPro 62mm). Front sway bar upgraded to Eibach 24mm adjustable, paired with rear Whiteline 22mm adjustable sway bar for reduced body roll."
+  ],
+  "estetica": [
+    "Aero: Liberty Walk LB Works DS7 widebody kit (carbon fiber fenders, side skirts, and rear diffuser) with a custom 3D-printed front splitter (Aeroflow Dynamics) for -150kg downforce at 120mph. Rear wing: Voltex Type-3 (2000mm width, 300mm chord) with Gurney flap for high-speed stability.",
+    "Wheels & Tires: BBS LM-R 9.5x19\" ET35 (front) and 11x19\" ET25 (rear) in matte gold, wrapped in Michelin Pilot Sport Cup 2 R tires (255/35/19 front, 295/30/19 rear). Custom wheel spacers (H&R 15mm front, 20mm rear) for aggressive flush fitment.",
+    "Exterior Details: Full Respray in DS-specific 'Infrared' (PPG DBC9900) with matte clear coat. Carbon fiber hood (Seibon CF) with functional heat extractors, and custom LED taillights (Luxx Customs) with sequential turn signals and smoked lenses. Front grille replaced with a 3D-printed mesh (VMR 701 style) in gloss black."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "DS",
+  "model": "9 PERFORMANCE LINE",
+  "prestazioni": [
+    "Engine: PSA EP6FDT (1.6L Turbo, PR code: 5FW) - Full forged internals upgrade with Manley 87mm forged pistons, Eagle H-beam connecting rods, and ACL Race Series bearings to handle 350+ HP reliably. Stock turbo replaced with a Garrett GTX3076R Gen II with a custom 0.82 A/R turbine housing for optimized spool and top-end power.",
+    "Fuel System: Injector Dynamics ID1050x fuel injectors paired with a Radium Engineering dual-catch can setup and a Syvecs S6Plus standalone ECU for precise fuel mapping, supporting E85 blends up to 50%. Upgraded high-pressure fuel pump from Bosch (PN: 0580254044) to ensure consistent flow under boost.",
+    "Suspension & Handling: Öhlins Road & Track DFV coilovers (DS9-specific valving) with adjustable camber plates and spherical bearing top mounts. Full polybushings from SuperPro (PN: SPF0116K) for subframe and control arms, paired with Brembo GT 355mm 6-piston front brake kit (DS9-specific caliper brackets) and Ferodo DS2500 pads for aggressive street/track use."
+  ],
+  "estetica": [
+    "Aero: DS9-specific Rocket Bunny V3 widebody kit (carbon fiber fenders, front splitter, and rear diffuser) with custom canards from Seibon Carbon. Rear wing replaced with a custom 3D-printed carbon fiber GT-style wing (1,200mm span) from APR Performance (PN: WS-2100), mounted on aluminum pedestals for adjustability.",
+    "Exterior: Full respray in DS-exclusive 'Infra Red' (DS paint code: 850) with matte clear coat from PPG. Front grille replaced with a custom laser-cut aluminum mesh (3mm thickness) from Kamei, painted in satin black. Side mirrors upgraded to carbon fiber units from VMR (PN: VMR701) with integrated LED turn signals.",
+    "Interior: Full Alcantara retrim by Recaro (DS9-specific Sportster CS seats in black/red) with custom embroidery (DS Performance Line logo). Steering wheel replaced with a Momo Prototipo (350mm, suede) featuring a quick-release hub. Custom aluminum pedals from 034Motorsport (PN: 034-100-100S) with DS9 laser-etched logos."
+  ]
+}

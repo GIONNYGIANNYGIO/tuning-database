@@ -1,0 +1,14 @@
+{
+  "brand": "CITROEN",
+  "model": "SM",
+  "prestazioni": [
+    "Engine swap to a Maserati-sourced C114-1 3.0L V6 (engine code: C114) with forged internals, including Mahle Motorsport pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from JE Pistons for 400+ HP reliability at 8,500 RPM",
+    "Custom forced induction via a Rotrex C38-91 centrifugal supercharger (12 psi peak boost) with an air-to-water intercooler system from Bell Intercoolers, paired with a custom intake manifold fabricated by VSR Performance using 3D-printed runners for optimized airflow",
+    "Full bespoke engine management via a Motec M150 ECU with individual cylinder fuel and ignition mapping, integrated with a Haltech CAN-based traction control system and a custom hydraulic steering pump delete (replaced with an electric EPAS system from Tesla Model S for weight savings)"
+  ],
+  "estetica": [
+    "Full carbon fiber body conversion using a bespoke kit from Carbonworks (Germany), including a one-piece front clip, rear quarter panels, and a custom ducktail spoiler with integrated Gurney flap for aerodynamic balance at high speeds",
+    "Custom 18-inch forged OZ Racing Ultraleggera wheels (8.5J front, 10J rear) with Michelin Pilot Sport Cup 2 tires (225/40 front, 275/35 rear), paired with a hydraulic ride height adjustment system from Hydractive III+ with custom valving for track use",
+    "Interior overhaul featuring a full Alcantara retrim by Trimworks (UK), including a custom MOMO Prototipo steering wheel with integrated Motec dash display, Recaro SPG XL seats with Schroth 6-point harnesses, and a bespoke roll cage by Safety Devices (UK) with integrated fire suppression system"
+  ]
+}

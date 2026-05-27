@@ -1,0 +1,14 @@
+{
+  "brand": "CZINGER",
+  "model": "21C TRACK SPEC EVO",
+  "prestazioni": [
+    "Hybrid twin-turbocharged 2.88L flat-plane crank V8 (Czinger proprietary engine code: *CZN-2.88FP*) upgraded with a bespoke *Garrett GTX5544R Gen II* turbocharger setup (1.8 bar peak boost) and *Turbosmart Race Port BOV* for optimized spool and anti-lag, paired with a *Pectel SQ6M* standalone ECU running a custom 3D-printed titanium intake manifold with *Injector Dynamics ID2000x* fuel injectors and *AEM X-Series* wideband O2 sensors for real-time AFR mapping at 12,000 RPM redline",
+    "Full *AP Racing CP9450* carbon-carbon 6-piston monoblock brake calipers with *Brembo HTC64T* 400mm floating rotors (track-only compound) and *Motul RBF 660* brake fluid, integrated with a *Czinger proprietary brake-by-wire* system for adaptive pedal feel and torque vectoring via *Bosch MS 5.1* stability control",
+    "Custom *Öhlins TTX46 MkII* 3-way adjustable coilovers with *Eibach ERS* 1,200 lb/in springs and *Czinger-specific* spherical bearing top mounts, paired with a *HRE FF16* forged magnesium wheel setup (19x12 front, 20x13 rear) wrapped in *Michelin Pilot Sport Cup 2 R* tires (305/30 R19 front, 345/30 R20 rear) and *BBS Motorsport* titanium lug bolts for weight reduction"
+  ],
+  "estetica": [
+    "Full *Czinger Aerodynamics Division* carbon-fiber aero package featuring a *3D-printed lattice-structure* front splitter with active Gurney flaps (adjustable via *MoTeC ADL3* dash control), a *fixed-position rear wing* with *NACA duct* integrated into the DRS system, and *underbody diffusers* with *Vortex Generators* for 1,800 kg of downforce at 250 km/h",
+    "Custom *VX Aerospace* titanium roll cage (FIA 8862-2018 certified) with *carbon-fiber weave* overlay for chassis rigidity, paired with *Sabelt 6-point harnesses* and a *Sparco Pro 2000* carbon-fiber seat with *Czinger-branded* 3D-printed aluminum seat mounts",
+    "Exterior wrapped in *3M 2080 Gloss Black* with *Czinger HyperFlake* custom pigment (matte silver microflakes) and *Avery Dennison* clear bra on high-impact zones, featuring *LED-lit* active aerodynamic elements controlled via *Czinger Track App* (iOS/Android) for real-time telemetry overlay on the *Motec C187* digital dash"
+  ]
+}

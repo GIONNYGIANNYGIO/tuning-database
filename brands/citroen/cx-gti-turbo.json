@@ -1,0 +1,14 @@
+{
+  "brand": "CITROEN",
+  "model": "CX GTI TURBO",
+  "prestazioni": [
+    "Engine: Replace the stock **M23/652** (128hp) turbocharged inline-4 with a **Garrett GT2860RS** turbocharger, paired with a **Sierra Cosworth 2.0L 16V (YBB/YBG)** forged crankshaft and **Mahle Motorsport** forged pistons (8.5:1 compression) for 300+ hp on **98 RON fuel** and **Methanol Injection (AEM 30-3300 kit)**",
+    "Fuel System: Upgrade to **Bosch Motorsport 044 high-flow fuel pump** with **Siemens DEKA 80lb/hr injectors**, controlled via a **Syvecs S6Plus ECU** with **flex-fuel sensor** and **individual cylinder tuning** for the **M23/652’s unique crossflow head**",
+    "Suspension: Install **Bilstein B16 PSS10 coilovers** with **polyurethane bushings (SuperPro 63-9065)** and **Citroën CX-specific **H&R** 25mm front / 20mm rear anti-roll bars** to eliminate body roll while retaining hydropneumatic self-leveling (modified **LHM+ fluid** for higher pressure tolerance)"
+  ],
+  "estetica": [
+    "Aero: **Rear wing from a Citroën CX 25 GTi Turbo 2 (1986)** with **carbon fiber endplates (custom fabrication by **RML Group**)** and **front splitter from a **Citroën XM V6 Turbo** (modified for CX fitment) with **aluminum support rods**",
+    "Wheels: **OZ Racing Superleggera III (16x8 ET20)** with **Pirelli P Zero Trofeo R (225/50 R16)** tires, paired with **Brembo GT 345mm 4-piston calipers** (from **Lancia Thema 8.32**) and **326mm vented rotors**",
+    "Interior: **Recaro SRD (Evo II) seats** with **Schroth 6-point harnesses**, **Momo Prototipo steering wheel (350mm)**, and **custom **Citroën CX GTi Turbo** gauge cluster overlay (digital **AEM X-Series** boost/fuel pressure gauges in **Veglia Borletti** housings)"
+  ]
+}

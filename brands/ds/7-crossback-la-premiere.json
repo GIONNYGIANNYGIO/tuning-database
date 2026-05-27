@@ -1,0 +1,14 @@
+{
+  "brand": "DS",
+  "model": "7 CROSSBACK LA PREMIERE",
+  "prestazioni": [
+    "Engine: PSA EP6FDT (1.6L Turbo PureTech 225 HP) – Full forged internals upgrade with Manley 87mm forged pistons, Eagle H-beam connecting rods, and ACL Race Series bearings to handle 350+ HP reliably. Garrett GT2867R turbocharger with a custom 3.5-inch downpipe and GReddy Profec B Spec II boost controller for 22 PSI peak boost on 98 RON fuel.",
+    "Fuel System: Injector Dynamics ID1050x fuel injectors paired with a Walbro 450 LPH in-tank fuel pump and AEM 340lph external pump. Syvecs S8 ECU with custom ethanol flex-fuel mapping (E85 compatible) and a Radium Engineering dual catch can system to eliminate oil vapor ingestion under high load.",
+    "Suspension & Handling: Öhlins Road & Track DFV coilovers with 8-position adjustable compression/rebound damping, custom-valved for the DS 7’s multi-link rear and MacPherson strut front. Eibach Pro-Spacer 15mm wheel spacers (hub-centric) to correct offset, paired with Brembo GT 355mm 6-piston front brake kit (DS 7-specific caliper brackets) and Ferodo DS2500 pads for fade-resistant stopping power."
+  ],
+  "estetica": [
+    "Liberty Walk LB Works widebody kit (DS 7-specific, no trimming required) with carbon fiber fenders, side skirts, and a ducktail spoiler. Custom matte ‘Infra Black’ vinyl wrap with gloss ‘DS Blue’ accents on the grille, mirror caps, and rear diffuser.",
+    "Rocket Bunny-style front bumper lip with integrated DRLs (Osram LEDriving LG 55W) and a custom 3D-printed carbon fiber rear diffuser with dual 3.5-inch titanium exhaust tips (Akrapović Ti-Evo).",
+    "OEM+ interior overhaul: Recaro Sportster CS seats (DS 7-specific mounting brackets) upholstered in Nappa leather with Alcantara suede inserts. Custom aluminum shift knob (Macht Schnell) and a Momo Mod.78 steering wheel with a quick-release hub. Full LED ambient lighting with RGBW control via a Raspberry Pi running custom Python scripts for dynamic patterns."
+  ]
+}

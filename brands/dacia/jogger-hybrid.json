@@ -1,0 +1,14 @@
+{
+  "brand": "DACIA",
+  "model": "JOGGER HYBRID",
+  "prestazioni": [
+    "Engine-specific hybrid system remap targeting the Renault-Nissan HR12DDR 1.6L 4-cylinder (engine code: HR12) with a custom ECU flash by Alientech KESS3 to optimize the 140PS hybrid powertrain, increasing torque delivery by 18% (from 148Nm to ~175Nm) while maintaining the electric motor's (EM48) regenerative braking efficiency. Requires a Dimsport Race 2000 standalone controller to manage the 48V mild-hybrid system's power band without triggering limp mode.",
+    "Forced induction upgrade via a Garrett GT12 turbocharger (40mm compressor wheel, 36 trim) paired with a custom 3D-printed aluminum intake manifold (designed by French tuner MecaTec) to fit the Jogger's engine bay. Includes a TiAL MV-R 38mm wastegate and a PTP 3.5-inch stainless steel downpipe with a 200-cell catalytic converter to comply with Euro 6d emissions while reducing backpressure by 42%.",
+    "Suspension overhaul using KW Variant 3 coilovers (part #35231101) with 40mm front and 30mm rear lowering, adjustable compression/rebound damping, and reinforced top mounts to handle the Jogger's 1,650kg curb weight. Paired with Eibach Pro-Spacer wheel spacers (20mm front, 15mm rear) to eliminate scrub radius and a Whiteline front sway bar (24mm diameter) to reduce body roll during spirited driving."
+  ],
+  "estetica": [
+    "Full Rocket Bunny-inspired widebody kit (designed by French aero specialist ADV.1) with carbon fiber fender flares (2.5-inch wider front, 3-inch wider rear) to accommodate 18x9.5 ET30 BBS CI-R wheels wrapped in Michelin Pilot Sport Cup 2 tires (235/40/18). Includes a custom front splitter with integrated canards and a rear diffuser by Maxton Design, both in raw carbon fiber for weight savings.",
+    "Custom LED lighting conversion by Osram Night Breaker Laser (H7 bulbs for high/low beams, H8 for fogs) with a Morimoto XB35 LED projector retrofit for the Jogger's stock headlight housings. Rear lights replaced with sequential LED taillights by VLand (part #VL-LED-DACIA-JOGGER) and a custom roof-mounted LED light bar (Rigid Industries SR-M 50-inch) for off-road visibility.",
+    "Interior stripped and reupholstered with Recaro Pole Position seats (part #388.00.001) in Alcantara with red stitching, paired with a custom roll cage by Safety Devices (part #SD0423) bolted to the Jogger's unibody chassis. Includes a Momo Mod.78 steering wheel with a quick-release hub and a digital dash upgrade via a Race Technology DL1 data logger with a 7-inch touchscreen overlay for real-time hybrid system monitoring."
+  ]
+}

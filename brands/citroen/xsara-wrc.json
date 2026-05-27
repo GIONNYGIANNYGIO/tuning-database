@@ -1,0 +1,14 @@
+{
+  "brand": "CITROEN",
+  "model": "XSARA WRC",
+  "prestazioni": [
+    "Engine: Replace the stock EW10J4S (2.0L 16V NA) with the **XU9J4TE** (2.0L 16V turbo) WRC-spec block, bored to 86.5mm and stroked to 86mm (2.1L) using a **Pauter billet crankshaft** and **Manley forged H-beam connecting rods** (224g weight, 144mm length) for a 12.5:1 compression ratio. Pair with **JE Pistons 2618 alloy forged slugs** (86.5mm bore, -12cc dome) and **ARP Custom Age 625+ head studs** (180,000 psi tensile strength).",
+    "Forced Induction: Swap the OEM Garrett **GT35R** turbo for a **Garrett GTX4202R Gen II** (88mm compressor, 1.06 A/R turbine housing) with a **Tial MV-R 44mm external wastegate** (set to 3.5 bar absolute boost) and **TurboSmart Race Port BOV** (dual-port, 1.5\" outlet). Intercooler: **PWR 4.5\" thick bar-and-plate core** (1200cfm flow, 30% efficiency gain) with **Samco Sport silicone hoses** (4-ply, 3\" ID) and **Mocal LT130 oil cooler** (13-row, 19-plate).",
+    "Drivetrain: Install a **Xtrac P1044 6-speed sequential gearbox** (dog-ring engagement, 1000Nm torque capacity) with **AP Racing CP8450 twin-plate carbon clutch** (240mm disc, 800Nm clamp load) and **Cusco 2-way LSD** (85% lockup, 1.5-way preload). Front differential: **Quaife ATB helical LSD** (45% lockup). Driveshafts: **GKN Lobro CV joints** (30-spline, 1000Nm rating) with **Penske 8760 steel axles** (chromoly, 30mm diameter)."
+  ],
+  "estetica": [
+    "Aerodynamics: **Rieger Tuning WRC-style widebody kit** (carbon-Kevlar hybrid, 120mm flares front/rear) with **Vortex Generators** (3D-printed PETG, 15mm height) on the roof and **Gurney flaps** (aluminum, 20mm chord) on the rear wing. Front splitter: **Seibon Carbon 3-piece adjustable** (50mm overhang, 450g weight) with **Canards** (polycarbonate, 100mm length). Rear diffuser: **Aeroflow Carbon 3-stage** (150mm height, 30-degree angle).",
+    "Wheels/Tires: **OZ Racing Superforgiata WRC** (8x18\" ET15 front, 10x18\" ET5 rear, 5x108 PCD, 6.5kg weight) wrapped in **Michelin Pilot Sport Cup 2 R** (225/40 R18 front, 285/35 R18 rear, semi-slick compound). Lug nuts: **McGard 24457 conical seat** (17mm hex, titanium). Wheel spacers: **H&R 5mm hubcentric** (aluminum, 7075-T6).",
+    "Lighting: **Hella Rallye 3000 Super Whites** (55W H3 bulbs, 3200 lumens) with **PIAA LP530 fog lights** (100W HID, 5000K) and **Oracle Lighting LED halo rings** (RGB, 16.8 million colors, 5W per ring). Rear: **Lucas LED taillights** (sequential turn signals, 1200mA drivers) and **VLAND smoked reflectors** (polycarbonate, 50% tint)."
+  ]
+}

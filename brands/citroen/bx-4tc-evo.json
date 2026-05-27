@@ -1,0 +1,14 @@
+{
+  "brand": "CITROEN",
+  "model": "BX 4TC EVO",
+  "prestazioni": [
+    "Engine swap to a **Nissan VR38DETT** (3.8L V6 twin-turbo) with a **Garrett GTX4202R** turbocharger (1.2 bar boost) and **Tial MV-R 44mm wastegate**, paired with a **Holinger RD6 sequential gearbox** (6-speed) and **OS Giken LSD** for Group B rally-level torque transfer. The VR38DETT retains its factory **IHI turbochargers' compressor maps** but is recalibrated via **Haltech Elite 2500 ECU** with **Motec PDM15** power distribution for precise fuel and ignition control under 800+ HP.",
+    "Custom **BX 4TC-specific tubular subframe** by **GPA Racing** (France) to house the VR38DETT, featuring **polyurethane bushings** from **SuperPro** (part #SPF0115K) and **adjustable front/rear anti-roll bars** from **Whiteline** (24mm front, 22mm rear). Suspension is **Ohlins TTX40 coilovers** with **3-way adjustable damping** and **Eibach ERS springs** (8kg/mm front, 7kg/mm rear) for rallycross compliance.",
+    "Braking system overhaul with **AP Racing CP8660 6-piston calipers** (front) and **CP8650 4-piston calipers** (rear), clamping **355mm DBA 5000 Series rotors** (2-piece floating) and **Ferodo DS3000 pads**. The hydraulic system uses **Goodridge 6AN braided lines** and **Motul RBF 660 brake fluid** for 300°C+ heat resistance. ABS is deleted and replaced with a **Bosch Motorsport ABS 5.7** unit for gravel-stage control."
+  ],
+  "estetica": [
+    "Full **Liberty Walk LB Works BX 4TC widebody kit** (carbon fiber fenders, front/rear bumpers, and side skirts) with **custom 3D-printed air vents** in the rear quarters to duct heat from the VR38DETT turbos. The kit includes **OEM-spec Group B-style rivets** and **Aerocatch hood latches** for quick access.",
+    "Custom **Rocket Bunny-inspired rear wing** (carbon fiber, 3-piece) with **adjustable Gurney flaps** and **integrated LED brake light** (Philips X-tremeUltinon 6000K). The wing mounts to **BX 4TC-specific aluminum uprights** by **Compomotive** (used in WRC cars) for rigidity. Front splitter is a **custom 50mm overhang unit** with **carbon-Kevlar weave** and **integrated canards** (2x 100mm, 1x 150mm).",
+    "Interior stripped and reupholstered with **Sparco Pro 2000 seats** (carbon-Kevlar shell, FIA 8862-2009 certified) mounted on **Schroth 6-point harnesses** (ASM model). The dashboard is replaced with a **Motec C127 digital dash** and **custom aluminum switch panel** (featuring **AEM 30-0300 X-Series gauges** for boost, oil pressure, and EGT). The roll cage is a **T45 steel full interior cage** by **Custom Cages UK**, with **door bars** and **roof hoop** for FIA Appendix J compliance."
+  ]
+}
