@@ -1,0 +1,14 @@
+{
+  "brand": "DODGE",
+  "model": "VIPER ACR",
+  "prestazioni": [
+    "8.4L V10 (SRT-840 engine code) stroked to 8.7L via Darton MID sleeves and forged internals (JE Pistons 2618 alloy, Callies DragonSlayer crankshaft, Manley H-beam connecting rods) with a custom camshaft grind by Comp Cams (248/254 duration, 0.650\" lift, 114 LSA) for optimized high-RPM power delivery (850+ WHP on E85 with methanol injection)",
+    "Full titanium exhaust system by Burns Stainless (4-2-1 header configuration, 2.5\" primary tubes, 3.5\" merge collectors) paired with a custom X-pipe and Borla Pro XS mufflers (straight-through design, 304 stainless steel) for maximum scavenging and a 1,000 Hz exhaust note",
+    "Motec M150 ECU with custom calibration by Viper Exchange (multi-fuel mapping for E85/gasoline blends, individual cylinder fuel trims, launch control at 6,500 RPM, and traction control with 12-stage adjustability) integrated with a Holley Dominator EFI system for sequential port injection and dual Bosch 044 fuel pumps (340 LPH each)"
+  ],
+  "estetica": [
+    "Rocket Bunny V2 widebody kit (carbon fiber fenders, front bumper, and rear diffuser) with custom 3M Matte Graphite vinyl wrap and exposed carbon fiber weave on the hood and roof, featuring integrated carbon fiber canards and a custom aluminum splitter with adjustable dive planes",
+    "Ohlins TTX46 coilovers (3-way adjustable, 20-way rebound, 12-way compression, 30mm front/25mm rear ride height adjustment) paired with Eibach ERS 1,200 lb/in springs and spherical bearing top mounts by Cusco for track-focused alignment (3.5° negative camber front, 2.8° rear)",
+    "Custom carbon fiber ACR-X-style rear wing by APR Performance (dual-element design, 72\" span, 12° angle adjustment) with integrated third brake light and LED side markers by Diode Dynamics, plus a custom front splitter with integrated air curtains and a carbon fiber undertray for 300+ lbs of downforce at 150 mph"
+  ]
+}

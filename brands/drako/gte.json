@@ -1,0 +1,14 @@
+{
+  "brand": "Drako",
+  "model": "GTE",
+  "prestazioni": [
+    "Upgrade to a custom liquid-cooled 4x independent permanent magnet synchronous motor (PMSM) setup (Drako's proprietary 'Quad Motor' system, code: DM-4QM-1200) with a bespoke AEM EV VCU200 vehicle control unit for torque vectoring precision, replacing the stock 90 kWh battery with a 120 kWh Silicon Anode battery pack from XALT Energy for extended track sessions",
+    "Installation of a full carbon-fiber monocoque chassis reinforcement kit by CP Tech, including a front crash structure with aluminum honeycomb core and rear torque box gussets, reducing torsional flex by 22% while maintaining FIA GT3 safety compliance",
+    "Integration of a MoTeC C187 dash logger with dual Bosch MS5.1 pressure sensors for real-time motor temperature and inverter voltage monitoring, paired with a custom Brembo GT 380x34mm front brake kit featuring titanium pistons and carbon-ceramic rotors (CCM-R) with a 3D-printed titanium caliper bridge for unsprung weight reduction"
+  ],
+  "estetica": [
+    "Full custom widebody conversion using a Liberty Walk LB-WORKS 'GTE-Spec' kit, featuring hand-laid carbon-fiber fenders with integrated air curtains, a 3D-scanned front splitter with active Gurney flaps (adjustable via a Motec PDM15), and a rear diffuser with vortex generators from APR Performance",
+    "Retrofit of a bespoke LED lighting system by LUMILEDS, including a full-width adaptive front light bar with 12,000-lumen output and sequential turn signals, paired with OLED taillights from the Koenigsegg Jesko for a signature 'pixelated' brake light pattern",
+    "Installation of a custom Forgiato 'Drako Edition' forged wheel set (20x11 front, 21x13 rear) in a matte bronze finish with titanium lug nuts, wrapped in Michelin Pilot Sport Cup 2 R tires (285/30 R20 front, 335/25 R21 rear) and paired with a HRE Performance Center-lock conversion kit for rapid pit stops"
+  ]
+}

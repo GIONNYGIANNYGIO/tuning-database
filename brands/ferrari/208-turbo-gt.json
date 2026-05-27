@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "208 TURBO GT",
+  "prestazioni": [
+    "Engine: Replace the stock IHI RHB6 turbocharger (F106 B.000) with a Garrett GT2860RS-5 (56 trim, 0.64 A/R turbine housing) paired with a custom 3-inch stainless steel downpipe (SPELAB) and a Tial MV-R 44mm external wastegate to manage boost at 1.4 bar (20 psi) on the 2.0L *F106 A* V8 (240 PS stock).",
+    "Fuel System: Upgrade to a Bosch Motorsport 0280158036 high-flow fuel pump (255 L/h) with a Radium Engineering dual-port fuel pressure regulator (FPR) and ID1000x injectors (1000cc/min) to support E85 blends, controlled via a MoTeC M150 ECU with a custom 208 Turbo GT-specific calibration map.",
+    "Drivetrain: Install a Quaife ATB differential (QDF7Z) in the transaxle to replace the stock open diff, paired with a Sachs Performance twin-disc clutch (440 Nm torque capacity) and a custom 5.2:1 final drive ratio (OEM was 4.8:1) for improved acceleration off the line."
+  ],
+  "estetica": [
+    "Body Kit: Fit a Novitec Rosso 208 Turbo GT-specific widebody kit (carbon fiber fenders, front splitter, and rear diffuser) with integrated OEM-style side skirts and a custom 3D-printed rear spoiler (designed in-house via CAD for optimal downforce).",
+    "Wheels: Replace stock Campagnolo alloys with 18x9.5 ET25 (front) and 18x11 ET35 (rear) BBS LM-R wheels (gold finish) wrapped in Michelin Pilot Sport Cup 2 tires (245/40 R18 front, 295/35 R18 rear) for aggressive stance and grip.",
+    "Interior: Retrim the cabin in Alcantara (Rosso Corsa stitching) with a custom roll cage (MCS Motorsport 6-point bolt-in, T45 steel) and a Sparco Pro 2000 seat (carbon fiber shell) paired with a MOMO Mod.78 steering wheel (350mm diameter, suede grip)."
+  ]
+}

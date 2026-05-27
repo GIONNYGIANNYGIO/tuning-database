@@ -1,0 +1,14 @@
+{
+  "brand": "DODGE",
+  "model": "STRATUS RT",
+  "prestazioni": [
+    "Engine swap to a **2.4L EDZ (EDV) Neon SRT-4 block (from PT Cruiser GT/SRT-4)** with forged internals: Wiseco 9.5:1 pistons (PN 990M875AP3), Eagle H-beam connecting rods (PN CRS50003300), and a billet crankshaft from Callies (PN 500-02-500). Pair with a **Garrett GT3076R turbo (0.82 A/R, ball-bearing)** on a custom T3/T4 manifold by TurboLab (Stratus-specific design) for 350-400whp on E85.",
+    "Full **Motorsport-grade fuel system**: Walbro 450 LPH in-tank pump (PN F90000267), Injector Dynamics ID1000 injectors (PN ID1000), and a Radium Engineering dual feed fuel rail kit (PN 140121) with AN-6 feed lines. ECU reflash via **HP Tuners VCM Suite (Dodge 2.4L Neon OS)** with a custom tune by **DiabloSport (CMR tuner file for forced induction)** for aggressive timing and boost control.",
+    "Drivetrain reinforcement: **South Bend Clutch Stage 3 Daily (PN 3884HD)** with a billet flywheel (PN 388400FB), paired with a **Getrag F23-5 speed transmission (from Neon SRT-4)** with a Quaife ATB differential (PN QDF23A). Upgraded axles from **DSS Racing (PN 99-0300)** with CV joints rated for 500hp, and a **Peloquin LSD (85% lockup, PN 200-001)** for traction off the line."
+  ],
+  "estetica": [
+    "**Rocket Bunny V1 Stratus Coupe widebody kit (PN RB-SC01)** with custom carbon fiber overfenders (3.5\" flares), paired with a **Seibon Carbon fiber hood (PN DC2A-010-C)** featuring a 3\" cowl scoop for turbo clearance. Rear diffuser by **VIS Racing (Stratus-specific, PN DR-STR02)** with integrated dual exhaust cutouts for a **custom 3\" stainless steel exhaust (MagnaFlow 16670) with quad 4.5\" tips (rolled edges, polished finish)**.",
+    "**Ohlins Road & Track coilovers (PN DFV 01-DG00-09)** with 8kg/mm front and 10kg/mm rear springs, adjustable camber plates (SPL Parts, PN 65120), and **Whiteline adjustable sway bars (24mm front, 22mm rear, PN BSR47XZ)** for chassis rigidity. Wheel setup: **Enkei RS05RR (18x9.5 +25 front, 18x10.5 +30 rear)** with **Michelin Pilot Sport Cup 2 (245/40/18 front, 275/35/18 rear)** for staggered grip.",
+    "**Full interior overhaul**: Recaro SRD-LC seats (PN 391.91.00) with custom Stratus-specific mounting brackets (fabricated by **Corbeau**), **NRG Innovations quick-release steering wheel hub (PN NRG-501)** with a **Momo Mod.78 (350mm, suede)**, and a **custom roll cage (8-point, mild steel, TIG-welded by Autopower Industries)** with harness bar for **Schroth Profi II 6-point harnesses (PN 41400.9533)**. Dash overlay in **carbon fiber (Seibon, PN DC2A-020-C)** with **AEM X-Series digital gauges (boost, wideband, oil pressure)** in a custom A-pillar pod."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "208 TURBO",
+  "prestazioni": [
+    "Engine Code: F106 D 000 (2.0L V8, turbocharged) - Full rebuild with forged Mahle pistons (8.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from JE Pistons to handle 1.5 bar boost reliably.",
+    "Turbocharger: Garrett GT2860RS-5 hybrid turbo (custom billet compressor wheel, 0.63 A/R turbine housing) paired with a custom 3-inch stainless steel exhaust manifold by Novitec, featuring equal-length runners for optimized spool and flow.",
+    "Fuel System: Upgraded Bosch Motorsport 044 high-flow fuel pump, Injector Dynamics ID1050x injectors, and a custom Motec M150 ECU with a 208 Turbo-specific calibration map, including water-methanol injection (AEM 30-3300 kit) for charge cooling and detonation control."
+  ],
+  "estetica": [
+    "Body Kit: Novitec Rosso 208 Turbo widebody conversion kit (carbon fiber front splitter, side skirts, and rear diffuser) with a custom 3M Matte Ferrari Rosso Corsa wrap (PPS-200 series) for weight reduction and aggressive stance.",
+    "Wheels: OZ Racing Ultraleggera HLT 18x9.5 ET25 (front) and 18x11 ET35 (rear) in gold finish, wrapped in Pirelli P Zero Trofeo R tires (235/40/18 front, 295/35/18 rear) for optimal grip and track-focused performance.",
+    "Interior: Full Alcantara retrim by Sabelt (Ferrari 288 GTO-style seats with 6-point harnesses), custom carbon fiber dashboard overlay by Tillet, and a digital AIM MXS Strada dash with data logging for lap-time analysis."
+  ]
+}

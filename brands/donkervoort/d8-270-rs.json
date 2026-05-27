@@ -1,0 +1,14 @@
+{
+  "brand": "DONKERVOORT",
+  "model": "D8 270 RS",
+  "prestazioni": [
+    "Engine: Audi-derived 2.5L TFSI (EA855 *DAZA* engine code) with forged internals upgrade to 9.5:1 compression, utilizing a *Mahle Motorsport* forged piston kit (P/N: MAH-40320.000) and *Pankl Racing Systems* H-beam connecting rods (P/N: PKL-100034) for 8,000 RPM reliability.",
+    "Forced Induction: *Garrett GTX3582R Gen II* turbocharger (P/N: 771327-5002S) with a *Tial Sport* 44mm external wastegate (P/N: MV-R 44mm) and *TurboSmart* Race Port 50mm blow-off valve (P/N: TS-0203-1072), paired with a *GReddy* 800cc/min fuel pump (P/N: 15900101) and *Injector Dynamics* ID1050x injectors (P/N: ID1050x-D01-60-5).",
+    "Suspension & Chassis: *Öhlins* TTX40 2-way adjustable coilovers (P/N: TTX40-100-2) with *Eibach* 1000N/mm helper springs (P/N: 2000.210.0100), *Donkervoort-specific* spherical bearing front control arms (P/N: DNK-08-001), and a *H&R* 25mm rear anti-roll bar (P/N: 51655-1) for Nürburgring-focused stiffness tuning."
+  ],
+  "estetica": [
+    "Aerodynamics: *Donkervoort Motorsport* carbon fiber GT front splitter (P/N: DNK-12-003) with integrated *AIM* Solo 2 DL GPS data logger (P/N: AIM-SOLO2DL) for lap-time validation, paired with a *Rear Wing Solutions* 1,200mm wide 3D-printed carbon rear wing (P/N: RWS-D8-270) on *Aeromotions* dual-element mounts (P/N: AM-D8-001).",
+    "Bodywork: *V Carbon* full dry carbon fiber widebody kit (P/N: VCF-D8-270-WB) with *Donkervoort* OEM-style quick-release hood pins (P/N: DNK-05-002) and *Seibon* carbon fiber doors (P/N: CF-D8-270-DOORS) for 12kg weight reduction per side.",
+    "Wheels & Styling: *BBS* FI-R 18x10.5 ET25 front and 18x12 ET5 rear forged wheels (P/N: BBS-FIR-18105-25 / BBS-FIR-1812-5) wrapped in *Michelin* Pilot Sport Cup 2 R tires (265/35 R18 front, 315/30 R18 rear), paired with *AP Racing* CP9460-1000 380mm 6-piston front brake calipers (P/N: CP9460-1000) and *Ferodo* Racing DS3.1 brake pads (P/N: FER-DS3.1)."
+  ]
+}

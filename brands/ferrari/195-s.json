@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "195 S",
+  "prestazioni": [
+    "Engine: Replace the original *Tipo 166* 2.3L V12 (block code *166-00001*) with a fully machined and balanced *Tipo 195* 2.5L V12 (block code *195-00002*), bored to 72mm and stroked to 68mm using a *Carrillo* forged steel crankshaft and *JE Pistons* 12.5:1 compression forged aluminum pistons, paired with *Ferrea* titanium intake and exhaust valves and *Crower* billet camshafts (280° intake, 270° exhaust, 12mm lift) for optimized high-RPM breathing.",
+    "Forced Induction: Install a *Garrett GT2860RS* turbocharger (modified with a *Tial 44mm* external wastegate) on a custom *Nology Engineering* equal-length stainless steel exhaust manifold, feeding into a *Weber* 48mm IDA downdraft carburetor setup with *Mallory* electronic ignition and *MSD* 6AL-2 capacitive discharge box for precise spark control under boost (target: 0.8 bar / 11.5 psi).",
+    "Drivetrain: Replace the original 5-speed manual with a *Hewland* 5-speed dog-ring gearbox (model *LG500*), mated to a *Tilton* triple-plate carbon clutch and a *Quaife* ATB differential (40% lockup) for improved power delivery. Upgrade the driveshaft to a *GKN* CV-jointed unit with *SKF* angular contact bearings for durability under lateral loads."
+  ],
+  "estetica": [
+    "Bodywork: Replace the original aluminum panels with a *C-West* hand-formed 0.8mm 5052 aluminum widebody kit, featuring flared fenders (50mm wider front, 70mm wider rear) and a custom *Aerocatch* quick-release hood with a functional *NACA* duct for engine bay cooling. Paint in *PPG* Ferrari Rosso Corsa (code *300/9*) with *3M* matte clear coat for a period-correct yet aggressive finish.",
+    "Aerodynamics: Install a *Voltex* Type-3 rear wing (carbon fiber, 1200mm span, 300mm chord) with *AeroCatch* mounts and a *Canards* front splitter (aluminum, 150mm overhang) for balanced downforce. Add *OMP* aluminum side skirts with integrated *LED* running lights (amber, DOT-approved) for functional aesthetics.",
+    "Interior: Retrim the cabin in *Recaro* SRD full-bucket seats (aluminum frame, *Sparco* 6-point harnesses) with *MOMO* 350mm suede steering wheel (quick-release hub) and a *Motec* C127 dash logger (replacing the original speedo/tach). Install a *Weber* fire suppression system (dual 5lb bottles, plumbed to engine bay and cockpit) and *Schroth* 4-point harness bar (TIG-welded, bolt-in) for safety."
+  ]
+}

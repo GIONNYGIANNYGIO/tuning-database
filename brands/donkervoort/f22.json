@@ -1,0 +1,14 @@
+{
+  "brand": "DONKERVOORT",
+  "model": "F22",
+  "prestazioni": [
+    "Engine: Audi-derived 2.5L TFSI (EA855 Evo, DAZA engine code) with forged internals (Mahle pistons, Pankl connecting rods) and a custom Donkervoort-spec Garrett GTX4271R turbocharger (1.4 bar peak boost) paired with a 76mm titanium-aluminide turbine wheel for sub-3.5s 0-100 km/h acceleration. Upgraded fuel system includes dual Bosch Motorsport 450 LPH pumps and 1050cc ID1050x injectors, controlled via a Syvecs S8 ECU with anti-lag and flat-shift strategies.",
+    "Drivetrain: Quaife ATB helical LSD in a bespoke Donkervoort 6-speed sequential gearbox (Quaife QKE80G) with carbon-fiber driveshafts and a Sachs Racing twin-disc clutch (240mm, 800Nm torque capacity). Rear differential cooler with a Setrab 10-row oil cooler and Motul Gear 300 75W-90 fluid for sustained track use.",
+    "Suspension & Chassis: Öhlins TTX46 MkII 3-way adjustable coilovers with remote reservoirs, custom Donkervoort-specific valving, and spherical bearing top mounts. Front and rear adjustable anti-roll bars (TAROX 24mm front, 22mm rear) with rose-jointed drop links. Full polybush kit from SuperPro (part #SPF1000K) and a Donkervoort carbon-fiber front strut brace (20% stiffer than OEM)."
+  ],
+  "estetica": [
+    "Aerodynamics: Donkervoort Carbon Aero Package (front splitter, rear diffuser, and GT-spec rear wing) with active Gurney flaps (adjustable via cockpit switch). Underbody carbon-fiber flat floor with integrated NACA ducts for brake cooling. Side skirts from the Donkervoort GT2 homologation kit, reducing drag by 8% at 200 km/h.",
+    "Exterior: Full carbon-fiber body panels (hood, fenders, doors, and rear clamshell) from Donkervoort’s in-house composites division, reducing weight by 45kg. Custom matte-finish vinyl wrap (3M 1080 Matte Military Green) with exposed carbon-fiber weave on the roof and mirror caps. OZ Racing Ultraleggera HLT wheels (9x18 front, 11x18 rear) in gold finish, wrapped in Michelin Pilot Sport Cup 2 R tires (245/35 R18 front, 295/30 R18 rear).",
+    "Interior: Full Alcantara-wrapped Recaro SPG XL seats (carbon-fiber shells, 6-point Schroth Profi II harnesses) with custom Donkervoort embroidery. MOMO Prototipo steering wheel (350mm, suede) with integrated Syvecs paddle shifters. Roll cage from Donkervoort’s FIA-spec 8-point bolt-in kit (T45 steel, powder-coated matte black) with fire suppression system (Lifeline Zero 360, plumbed to all critical areas)."
+  ]
+}

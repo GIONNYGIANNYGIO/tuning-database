@@ -1,0 +1,14 @@
+{
+  "brand": "DODGE",
+  "model": "RAM 1500 SRT-10",
+  "prestazioni": [
+    "Engine: Replace the stock 8.3L (496 cu in) **Viper V10 (SRT-10 engine code: 8.3L V10, 90° OHV, 10.2:1 CR, MDS delete)** with a **Lingenfelter Performance Engineering 8.8L stroker kit (forged crank, H-beam rods, forged pistons, ported heads)** paired with a **Kenne Bell 3.6L Mammoth supercharger (14 psi, 1,200+ HP capable) and dual 75mm throttle bodies** for immediate throttle response and reduced lag.",
+    "Exhaust: Install a **Stainless Works 3.5\" cat-back exhaust system with 409 stainless steel mandrel-bent tubing, 100-cell high-flow catalytic converters, and Borla XR-1 mufflers** to maximize scavenging while maintaining Viper V10 acoustics. Pair with a **custom 4-into-1 stainless steel header setup (1.75\" primaries, 3.5\" collectors)** from **American Racing Headers** for optimized exhaust gas velocity.",
+    "Drivetrain: Swap the stock **NV4500 5-speed manual transmission** for a **Tremec TR-6060 6-speed (from a 2010+ Corvette ZR1) with a McLeod RST twin-disc clutch (ceramic puck, 1,200 lb-ft torque capacity)**. Upgrade the **Dana 60 rear axle** with a **Currie Enterprises 9\" Ford-style housing, 35-spline axles, and a Detroit Truetrac differential (4.10:1 gear ratio)** for drag strip launches."
+  ],
+  "estetica": [
+    "Body: Apply a **Rocket Bunny V3 widebody kit (fiberglass fenders, carbon fiber front splitter, and rear diffuser)** to accommodate **325/30R22 Nitto NT05R tires on 22x12\" HRE FF01 wheels (ET -15 offset)**. Add a **custom carbon fiber hood (with Viper V10 heat extractor vents) from Anderson Composites** to reduce weight and improve aerodynamics.",
+    "Suspension: Install **Bilstein B16 PSS10 coilovers (8-way adjustable damping, 2.5\" drop) with Eibach Pro-Kit springs** for street/strip handling. Replace the stock **SRT-10-specific A-arms** with **Mevotech Xtreme upper/lower control arms (uniball bushings, 2.5° camber adjustment)** for aggressive alignment settings.",
+    "Interior: Replace the stock seats with **Recaro Pole Position bucket seats (HANS-compatible, 6-point harnesses)** and a **Sparco Pro 2000 steering wheel (350mm, suede)**. Add a **AiM MXS Strada 7\" dash logger (with OBD-II, GPS, and CAN bus integration)** to monitor **Vipr ECM (Mopar PCM) parameters like AFR, boost (if forced induction), and ignition timing in real-time.**"
+  ]
+}

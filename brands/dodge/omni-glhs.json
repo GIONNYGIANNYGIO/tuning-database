@@ -1,0 +1,14 @@
+{
+  "brand": "DODGE",
+  "model": "OMNI GLHS",
+  "prestazioni": [
+    "Replace the stock **2.2L Chrysler K-Code (G54B) turbocharged inline-4** with a **Garrett GT2860R-5 turbocharger** (0.86 A/R turbine housing, 56 trim compressor wheel) paired with a **Tial 38mm external wastegate** to handle boost levels up to 22 psi, ensuring spool at 3,200 RPM while avoiding compressor surge on the stock intercooler.",
+    "Install a **Mopar Performance Stage 2 camshaft (P4529531)** with 268° duration, 0.450\" lift, and 110° lobe separation, combined with **Crane Cams adjustable roller rockers (24390-16)** to optimize valve lift on the **1.6:1 rocker ratio** of the G54B head, while upgrading to **Ferrea F5000 exhaust valves (1.380\" diameter)** for improved flow at high RPM.",
+    "Fabricate a **custom 3\" stainless steel exhaust system** using **Borla Pro XS mufflers (40254)** and **MagnaFlow 14850 catalytic converters** to reduce backpressure, paired with a **Holley Sniper EFI (550-511K)** standalone ECU to replace the stock **Chrysler Logic Module**, enabling **individual cylinder fuel trimming** and **boost-by-gear tuning** for the **A520 5-speed manual transmission**."
+  ],
+  "estetica": [
+    "Replace the stock front bumper with a **Rallye Sport Engineering (RSE) GLHS-specific fiberglass front lip** (part #RSE-84GLHS-FL) and pair it with **Mopar Direct Connection (P4120030) black mesh grille inserts** to reduce weight while maintaining OEM+ aesthetics.",
+    "Install **Recaro SRD racing seats (8048-SRD)** with **Schroth Profi II 6-point harnesses (40400.95)** in place of the stock GLHS buckets, retaining the **Mopar Performance (P4529530) rear seat delete panel** for a full race interior, while adding a **Sparco Pro 2000 steering wheel (015272B30NR)** with a **NRG Innovations quick-release hub (SRK-100B)** for improved driver ergonomics.",
+    "Apply a **3M 1080 Gloss Black vinyl wrap** with **custom GLHS \"Shelby\" side decals** (replicating the original Carroll Shelby signature stripe) and mount **Enkei PF05 wheels (15x8 +25 offset)** wrapped in **BFGoodrich g-Force Rival S 225/50R15 tires** for period-correct stance and grip, while adding **Hella Rallye 1000 driving lamps (H1 bulbs)** for vintage rally aesthetics."
+  ]
+}

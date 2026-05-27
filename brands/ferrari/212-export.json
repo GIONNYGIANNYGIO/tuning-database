@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "212 EXPORT",
+  "prestazioni": [
+    "Engine: Replace the original *Tipo 212* 2.6L V12 (engine code *212C*) with a fully balanced and blueprinted *Colombo 250 GT* 3.0L V12 (engine code *168/63*), featuring forged Mahle pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from *JE Pistons*. Pair with a *Weber 40 DCZ/6* triple-carburetor setup, port-matched by *Franco Lombardi Racing*, and a custom *Scuderia Ferrari* 360° magnesium intake manifold for optimized airflow.",
+    "Forced Induction: Install a *Rotomaster TO4B* turbocharger (T3/T4 hybrid, .63 A/R turbine housing) with a *Turbonetics Deltagate 40* wastegate, feeding into a *Spearco 3.5\" intercooler* and a *Tial 50mm* blow-off valve. Custom *Nology* ignition system with *MSD 6AL* box and *NGK B9EGV* racing plugs for sustained boost (12 psi max).",
+    "Suspension & Chassis: Replace the original leaf springs with a *Koni 8211-1000Sport* coilover kit (adjustable damping, 2.5\" drop), paired with *Ferrari 250 GT* front sway bars (22mm) and *Whiteline* rear sway bars (18mm). Reinforce the chassis with *VSR* (Vintage Sports Racing) bolt-in roll cage and *AP Racing* CP5220 front brake calipers with *Ferodo DS3000* pads on vented rotors."
+  ],
+  "estetica": [
+    "Bodywork: Replace the original aluminum panels with a *Pininfarina* hand-formed 1.2mm aluminum body (replica of the *212 Export Vignale Spyder*), featuring a *custom 3M Matte Metallic Silver* wrap with *PPF (Paint Protection Film)* on high-impact zones. Add *Rocket Bunny* fender flares (modified for 212 Export wheel arches) and a *RE Amemiya* duckbill rear spoiler in carbon fiber.",
+    "Wheels & Tires: Mount *OZ Racing* *Ultraleggera* 16x7\" (front) and 16x8.5\" (rear) wheels in *Gunmetal* finish, wrapped in *Pirelli P Zero Corsa* tires (205/55R16 front, 225/50R16 rear). Use *H&R* hubcentric spacers (15mm front, 20mm rear) for aggressive stance.",
+    "Interior: Replace the original leather with *Recaro* *Pole Position* seats (retrimmed in *Nappa leather* with *Alcantara* inserts), paired with a *MOMO* *Mod.78* steering wheel (350mm diameter, suede grip). Install a *Motec* *C127* digital dash with *AIM* *MXS Strada* data logger, and a *Rolls-Royce* *Phantom* wood shift knob (modified for Ferrari gearbox)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "DONKERVOORT",
+  "model": "D8 GTO RS",
+  "prestazioni": [
+    "Engine: Audi-derived EA888 Gen3 2.5L TFSI (engine code: DNWA) with forged internals (Mahle Motorsport pistons, Pankl H-beam connecting rods, and a billet crankshaft) paired to a Garrett GTX4202R turbocharger (84mm compressor, 76mm turbine) running 2.8 bar (40.6 psi) of boost on E85 fuel, supported by a custom Donkervoort Motorsport ECU calibration with individual cylinder knock control and anti-lag system (ALS) for 0.5s spool retention off-throttle",
+    "Drivetrain: Quaife ATB helical LSD with 4.11 final drive ratio in a lightweight 6-speed sequential gearbox (Hewland NLT) featuring carbon-fiber synchros and a Pankl Racing Systems dual-disc clutch (240mm, sintered metal) for 800Nm torque capacity; custom Donkervoort Motorsport half-shafts with CV joints rated for 1,200Nm",
+    "Suspension/Chassis: Öhlins TTX46 MkII 3-way adjustable coilovers with remote reservoirs, custom-valved for Donkervoort’s aluminum honeycomb monocoque chassis, paired with spherical bearing front/rear control arms (T6-6061 aluminum, rose-jointed) and a 3mm thick chromoly steel roll cage (TIG-welded, FIA Appendix J compliant) with integrated gussets for torsional stiffness increase to 32,000 Nm/deg"
+  ],
+  "estetica": [
+    "Aerodynamics: Donkervoort Motorsport ‘RS Aero Package’ featuring a carbon-fiber front splitter with active Gurney flap (adjustable via cockpit switch), rear diffuser with integrated titanium exhaust outlets (Akrapović 4-2-1 system, Inconel 625), and a fixed carbon-fiber rear wing (NACA 63A012 airfoil, 1,200mm span) generating 350kg of downforce at 200km/h (124mph)",
+    "Bodywork: Full carbon-fiber body panels (pre-preg autoclave, 120°C cure) with ‘RS’-specific weave pattern (3K twill, matte clearcoat), including a removable hood with dual NACA ducts (feeding the GTX4202R intercooler) and side skirts with integrated LED turn signals (Osram Oslon Black Flat, 6,500K)",
+    "Wheels/Interior: HRE FF17 flow-formed wheels (9.5x18” front, 12x18” rear) with titanium wheel bolts (ARP 170-4201) and Michelin Pilot Sport Cup 2 R tires (255/35 R18 front, 335/30 R18 rear); Recaro Pole Position seats (carbon-Kevlar shell, 6-point Schroth harnesses) with Alcantara suede upholstery (custom ‘RS’ stitching) and a MOMO Mod.78 steering wheel (320mm diameter, Alcantara with carbon-fiber inserts)"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "DODGE",
+  "model": "JOURNEY RT",
+  "prestazioni": [
+    "Engine: Replace the stock 3.5L V6 (ERB) with a stroked 3.9L version using a custom billet crankshaft (e.g., Callies Compstar 4.000\" stroke) and forged Mahle pistons (9.5:1 compression) to handle E85 fuel. Pair with a custom camshaft grind from Comp Cams (230°/236° duration, 0.600\" lift) and ported cylinder heads by Total Engine Airflow (TEA) for improved airflow.",
+    "Forced Induction: Install a Garrett GTX3582R turbocharger (0.82 A/R turbine housing) with a custom Precision Turbo wastegate (46mm) and a Vibrant Performance intercooler (1250HP core). Use a custom intake manifold from Modern Muscle Performance (MMP) with dual 80mm throttle bodies and a Haltech Elite 2500 ECU for precise tuning.",
+    "Drivetrain: Upgrade to a Tremec TR-6060 6-speed manual transmission with a McLeod RST twin-disc clutch (360mm) and a custom aluminum driveshaft from Driveshaft Shop. Install a Quaife ATB differential (3.92 final drive) in the stock Dana 44 rear axle with upgraded 35-spline axles from Strange Engineering."
+  ],
+  "estetica": [
+    "Body Kit: Install a custom widebody conversion kit from RK Sport (Journey RT-specific) with carbon fiber fender flares, front splitter, and rear diffuser. Use a custom hood from Anderson Composites with a functional scoop for the intercooler piping.",
+    "Suspension: Replace the stock suspension with a custom coilover setup from KW Suspensions (Variant 3) with adjustable camber plates and poly bushings. Install a set of H&R lowering springs (-2.0\" front, -1.8\" rear) for a more aggressive stance, paired with Eibach sway bars (28mm front, 25mm rear).",
+    "Wheels & Aero: Mount a set of Forgeline GA3R wheels (20x10.5\" front, 20x12\" rear) with Michelin Pilot Sport Cup 2 tires (275/35/20 front, 315/30/20 rear). Add a custom rear wing from APR Performance (GT-250 model) and a set of carbon fiber side skirts from Seibon."
+  ]
+}

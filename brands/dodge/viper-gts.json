@@ -1,0 +1,14 @@
+{
+  "brand": "DODGE",
+  "model": "VIPER GTS",
+  "prestazioni": [
+    "Engine: Replace the stock 8.0L V10 (SRT-10 engine code) with a stroked 8.4L V10 block (from the later SRT Viper ACR-X) using a forged crankshaft from Callies (4.050\" stroke) and Mahle forged pistons (9.5:1 compression) for a displacement increase to 8.4L. Pair with a custom camshaft from Comp Cams (280°/284° duration, .600\" lift) and ported cylinder heads by Viper Exchange with oversized Ferrea valves (2.100\" intake, 1.600\" exhaust).",
+    "Forced Induction: Twin Garrett GTX5533R turbochargers (1.05 A/R turbine housings) with TiAL MV-R 44mm wastegates and a custom air-to-water intercooler setup from CXRacing (1200hp-capable core). Use a Motec M150 ECU with a Viper-specific turbo calibration by AEM Performance Electronics, targeting 18 psi of boost for 950whp on E85 fuel.",
+    "Drivetrain: Upgrade to a Tremec TR-6060 6-speed transmission with a McLeod RST twin-disc clutch (ceramic puck) and a Quaife ATB differential. Reinforce the rear subframe with a custom tubular steel brace by BMR Suspension and swap to a driveshaft from The Driveshaft Shop (3.5\" aluminum, rated for 1200hp)."
+  ],
+  "estetica": [
+    "Aero: Install a full Rocket Bunny PB-VIPER widebody kit (carbon fiber fenders, front bumper, and rear diffuser) with a custom duckbill rear wing from APR Performance (3-piece carbon, 70\" span). Add a custom front splitter with integrated canards from VMR Wheels and a rear diffuser with titanium exhaust exits by Burns Stainless.",
+    "Wheels/Tires: Mount custom 19x12\" (front) and 20x13\" (rear) forged wheels by HRE (FF03 model, 3-piece construction) with Michelin Pilot Sport Cup 2 R tires (295/30/19 front, 345/25/20 rear). Use Brembo GT-R 6-piston calipers (front) and 4-piston (rear) with 380mm rotors from AP Racing.",
+    "Interior: Replace the stock seats with Sparco Pro ADV carbon fiber racing seats (with 6-point harnesses by Schroth) and a custom roll cage by Autopower (chrome-moly, 6-point with door bars). Install a Motec C127 dash display with a Viper-specific data logger and a quick-release steering wheel by NRG Innovations (350mm, suede)."
+  ]
+}

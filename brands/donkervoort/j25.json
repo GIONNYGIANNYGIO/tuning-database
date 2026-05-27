@@ -1,0 +1,14 @@
+{
+  "brand": "DONKERVOORT",
+  "model": "J25",
+  "prestazioni": [
+    "Engine: Replace the stock Ford Duratec 2.5L (engine code: *Duratec ST25*) with a fully built *Duratec 2.5L* featuring forged internals (JE Pistons 87.5mm forged slugs, Eagle H-beam connecting rods, ACL Race Series bearings) and a custom billet crankshaft from *Manley Performance* for 10,000 RPM reliability. Pair with a *Garrett GTX3582R* turbocharger (0.82 A/R turbine housing) and a *Tial MV-R* 44mm external wastegate for 1.5 bar of boost, targeting 450 HP at the wheels.",
+    "Drivetrain: Install a *Quaife ATB LSD* (part #QDF7Z) in the stock transaxle housing, reinforced with *PPG Gearset* straight-cut gears (1st: 2.95, 2nd: 2.18, 3rd: 1.62) and a *Tilton 7.25\" twin-disc clutch* with cerametallic friction material for 550 Nm torque capacity. Replace the stock driveshafts with *The Driveshaft Shop* 3.5\" chromoly units.",
+    "Suspension & Chassis: Convert to a *Öhlins TTX40* 3-way adjustable coilover system (240mm travel front, 220mm rear) with *Eibach ERS* linear-rate springs (14kg/mm front, 16kg/mm rear). Reinforce the tubular spaceframe with *Custom Cages* T45 steel gussets at the A-pillar and roll cage junctions, and fit *AP Racing CP6640-1000* 330mm 6-pot front brake calipers with *Ferodo DS3000* pads and *DBA 5000 Series* two-piece rotors."
+  ],
+  "estetica": [
+    "Aerodynamics: Install a *Donkervoort D8 GTO* carbon fiber front splitter with *Vortex Generators* (3D-printed from *CarbonRev*) and a *custom 3-piece rear diffuser* by *RML Group* (modeled after the D8 GTO-R, with integrated *Gurney flaps*). Add a *custom aluminum rear wing* (NACA 63A012 airfoil, 1,400mm span) on *Aeroform* adjustable mounts for 200kg downforce at 180 km/h.",
+    "Bodywork: Replace all panels with *Donkervoort D8 GTO* carbon fiber bodywork (pre-preg autoclave, 2x2 twill weave) in *Gloss Black* with *PPG Concept* clear coat. Fit *Seibon Carbon* doors with *Sparco Assetto Gara* door pulls and *custom aluminum hinges* from *VAC Motorsports*. Add *OMP* carbon fiber side mirrors (D8 GTO-spec) and a *custom aluminum fuel filler cap* (engraved with the *Duratec 2.5L* engine code).",
+    "Interior: Retrim the entire cabin in *Bridge of Weir Nappa leather* (color: *Volcano Black*) with *Alcantara* headliner and *custom carbon fiber door cards* (matching the exterior weave). Install *Sparco Pro 2000* seats with *Schroth Profi II 6-point harnesses* and a *Momo Mod.78* steering wheel (320mm diameter, suede grip). Add a *Motec C127* dash logger with *AIM MXS Strada* data display and *custom aluminum switchgear* (military-spec toggle switches for boost, fuel pump, and ignition cut)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "FAW",
+  "model": "RED FLAG H9",
+  "prestazioni": [
+    "Replace the stock CA4GC20TD-32 2.0L turbocharged inline-4 (165 kW / 224 HP) with a Garrett GTX3582R turbocharger (0.82 A/R, 62mm compressor inducer) paired with a custom 3.5-inch titanium downpipe from TiAL Sport, featuring a 4-bolt V-band connection to eliminate turbo lag and support 400+ HP on 98 RON fuel",
+    "Install a Bosch Motorsport MS 17.8 standalone ECU with custom CAN bus integration for the H9's ZF 8HP70 transmission, enabling launch control, flat-foot shifting, and adaptive torque vectoring via a KW Suspension Clubsport coilover kit (3-way adjustable dampers, 20mm adjustable ride height, and spherical top mounts)",
+    "Upgrade the stock CA4GC20TD-32 fuel system with a dual-pump setup: a Walbro 450 LPH in-tank pump and an external AEM 340 LPH pump, feeding Injector Dynamics ID1050x injectors (1050cc/min) and a Radium Engineering fuel pressure regulator (0-4 bar adjustable), while retaining the OEM fuel rail for direct port injection compatibility"
+  ],
+  "estetica": [
+    "Fit a custom Rocket Bunny V3 widebody kit (carbon fiber fenders, front splitter, and rear diffuser) designed specifically for the H9's 2920mm wheelbase, with integrated air curtains and a 50mm rear overhang extension for improved high-speed stability",
+    "Replace the stock 19-inch wheels with a set of WORK Meister S1 3P 19x9.5 +30 (front) and 19x11 +40 (rear) in a matte gunmetal finish, wrapped in Michelin Pilot Sport Cup 2 R tires (255/35 R19 front, 295/30 R19 rear) for optimal heat cycling and track use",
+    "Install a custom titanium exhaust system from Akrapović, featuring a 3.5-inch center section, dual 4-inch titanium tips with carbon fiber tips, and a bypass valve controlled via the OEM infotainment system, reducing weight by 12kg while maintaining backpressure for low-end torque"
+  ]
+}

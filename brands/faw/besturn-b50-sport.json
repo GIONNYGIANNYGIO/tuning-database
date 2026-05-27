@@ -1,0 +1,14 @@
+{
+  "brand": "FAW",
+  "model": "BESTURN B50 SPORT",
+  "prestazioni": [
+    "Engine swap to a **Mitsubishi 4B12T** (2.4L turbocharged inline-4, 280 HP stock) with a **Garrett GTX3071R Gen II turbo** (0.63 A/R, 62mm compressor, 56mm turbine) and **Tial MV-R 44mm external wastegate** for precise boost control at 22 psi (1.5 bar).",
+    "Full **Cosworth Pectel SQ6M ECU** standalone management with **Motec C125 dash logger** and **AEM X-Series wideband O2 sensor** for real-time AFR monitoring. Custom camshafts from **Kelford Cams (272° intake / 280° exhaust, 11.5mm lift)** paired with **Ferrea 6000 series valves** and **Supertech dual valve springs** for high-RPM stability (8,500 RPM redline).",
+    "**Kiggly Racing billet aluminum oil pump gears** and **Mocal 550-series oil cooler** to prevent oil starvation under lateral G-forces, paired with a **Moroso 8-quart baffled oil pan** and **ACL Race Series main/rod bearings** for durability under forced induction."
+  ],
+  "estetica": [
+    "**Rocket Bunny V3 widebody kit** (FAW B50-specific fitment) with **custom carbon fiber overfenders** (25mm extended front, 35mm rear) and **Volk Racing TE37SL 18x9.5 +35 (front) / 18x10.5 +40 (rear)** wheels wrapped in **Michelin Pilot Sport Cup 2 R 245/35/18 (front) / 275/30/18 (rear)** tires.",
+    "**Seibon Carbon fiber hood** (OEM replacement, 50% weight reduction) with **custom dual 40mm carbon fiber NACA ducts** feeding the **Mishimoto aluminum intercooler core (600x300x76mm)**. **Custom rear diffuser** from **Perrin Performance** (FAW B50-specific) with **3-inch titanium exhaust tips** from **Burns Stainless**.",
+    "**Ohlins Road & Track DFV coilovers** (B50-specific valving, 20-way adjustable damping) with **Eibach ERS 1000N/mm helper springs** and **SuperPro poly bushings (front control arms, subframe, and rear trailing arms)** for razor-sharp chassis response. **Custom front splitter** from **Aeroflow Dynamics** (3D-printed carbon fiber, 3-stage adjustable) with **GT3-style dive planes** for high-speed stability."
+  ]
+}

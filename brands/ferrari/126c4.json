@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "126C4",
+  "prestazioni": [
+    "Replace the stock **Tipo 021** 1.5L V6 turbocharged engine's KKK K26 turbocharger with a **Garrett GTX3582R Gen II** (82mm compressor, 62mm turbine) paired with a **Tial MV-R 44mm wastegate** to handle boost pressures up to 3.8 bar (55 psi) for sustained 850+ hp at 12,500 RPM, utilizing **Mahle Motorsport forged pistons (9.0:1 CR)** and **Pankl Racing Systems titanium connecting rods** to withstand the increased cylinder pressures.",
+    "Install a **Weber-Marelli IAW P7.2** standalone ECU with **Motec M150** piggyback integration for real-time fuel and ignition mapping, featuring **Bosch Motorsport 0 280 158 103** 12-hole high-flow injectors (1,200 cc/min) and a **Radium Engineering dual-catch can system** to prevent oil vapor ingestion under sustained lateral G-forces.",
+    "Upgrade the **Ferrari 5-speed transaxle (Tipo 025)** with a **Hewland FGB-500 sequential gearbox** (dog-ring engagement, 500 Nm torque capacity) paired with a **Tilton Engineering 7.25\" triple-plate carbon clutch** and **AP Racing CP5586-2600 4-piston calipers** on the rear axle for improved deceleration under 3.5G braking forces."
+  ],
+  "estetica": [
+    "Replace the stock **Scuderia Ferrari 1984 livery** with a **custom **P Zero Trofeo R** slick tire (26/64-13 front, 36/64-13 rear) wrapped in a **BBS RS-GT II** magnesium wheel set (13x10 front, 13x15 rear) with **Titanium wheel bolts** to reduce unsprung mass by 1.8 kg per corner.",
+    "Install a **Rocket Bunny F126C4 widebody kit** (carbon fiber construction, 120mm front/180mm rear fender flares) paired with a **Vortex Generators** front splitter and **Gurney flap** on the rear wing (adjustable 0-15° angle) to generate 1,200 kg of downforce at 280 km/h (174 mph).",
+    "Retrofit the **Ferrari 126C4 monocoque** with a **Sparco 6-point harness (FIA 8862-2009 certified)** and **Schroth Racing ASM-2** anti-submarine belts, alongside a **MOMO Prototipo 350mm steering wheel** (quick-release hub, Alcantara grip) and **Recaro Pole Position II** carbon-Kevlar bucket seat (4-point mounting, 1.2 kg weight reduction)."
+  ]
+}

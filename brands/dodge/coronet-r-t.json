@@ -1,0 +1,14 @@
+{
+  "brand": "DODGE",
+  "model": "CORONET R/T",
+  "prestazioni": [
+    "426 Hemi RB-series V8 engine (engine code: A102) bored to 432ci with forged internals including a Callies DragonSlayer crankshaft, Manley H-beam connecting rods, and JE 12.5:1 compression pistons, paired with a custom camshaft grind from Comp Cams (258°/264° duration, 0.650\" lift) for optimized high-RPM power delivery",
+    "Holley Dominator 1250 CFM carburetor with billet metering blocks and annular boosters, fed by a custom fuel system featuring dual Aeromotive A1000 fuel pumps, -12 AN lines, and a Radium Engineering fuel pressure regulator for consistent 93-octane or E85 tuning",
+    "Custom-built Garrett GTX5533R turbocharger with a 1.05 A/R turbine housing and 88mm compressor wheel, mounted on a TTi header with 2.0\" primary tubes and a 4.0\" collector, paired with a Turbosmart Race Port 50mm wastegate and a Precision Turbo 60mm blow-off valve for 22 psi of boost targeting 1,200+ horsepower on E85"
+  ],
+  "estetica": [
+    "Rocket Bunny Pandem Coronet R/T widebody kit with carbon fiber fenders, custom-molded front bumper with integrated LED light bar, and a 3-piece carbon fiber rear diffuser for aggressive stance and aero efficiency",
+    "Forgeline GA3R 18x10.5\" and 18x12\" wheels with a custom offset (-15 front, -5 rear) wrapped in Mickey Thompson ET Street R tires (275/40R18 front, 315/40R18 rear) for drag radial performance, paired with a Detroit Speed QUADRALINK rear suspension with adjustable coilovers",
+    "Custom PPG paint in \"Hemi Orange\" with a matte black vinyl roof, retro-inspired 3M Scotchcal graphics (1968-style \"R/T\" stripes with a modern twist), and a shaved trunk with a remote-operated fuel door and a hidden tow hook integrated into the front valence"
+  ]
+}

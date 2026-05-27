@@ -1,0 +1,14 @@
+{
+  "brand": "DODGE",
+  "model": "VIPER RT/10",
+  "prestazioni": [
+    "Engine: Replace the stock 8.0L V10 (engine code: **Viper V10 8.0L SRT-10**) with a **Callies Performance DragonSlayer 434ci stroker crankshaft** (4.000\" stroke) paired with **Manley Performance forged H-beam connecting rods** and **JE Pistons 2618 alloy forged pistons** (12.5:1 compression) for a naturally aspirated 900+ HP build. Port and polish the **Edelbrock Victor Jr. Viper intake manifold** and pair with **Holley Dominator 1250 CFM throttle bodies** for optimized airflow.",
+    "Forced Induction: Install a **Precision Turbo PT6266 CEA turbocharger** (62mm, 86 trim) with a **Tial MV-R 44mm wastegate** and **TurboSmart Race Port BOV** on a custom **Stainless Works 3\" turbo header** setup. Use a **PTP Fabrication intercooler core** (4.5\" thick, 22\" x 12\" bar-and-plate) with **Vibrant Performance silicone couplers** and a **Radium Engineering fuel surge tank** to support E85 fueling via **ID1300x injectors** and a **Walbro 450 LPH dual-pump system**.",
+    "Drivetrain & Handling: Swap the stock T56 transmission for a **Tremec TR-6060 6-speed** with a **McLeod RST twin-disc clutch** and **SFI-certified bellhousing**. Install a **Quaife ATB helical LSD** in the Dana M44 rear differential. Suspension upgrades include **Öhlins Road & Track DFV coilovers** (custom valved for Viper chassis), **Hotchkis Sport sway bars** (28mm front, 25mm rear), and **Brembo GT 6-piston calipers** with **380mm two-piece rotors** (front) and **355mm rotors** (rear), paired with **Hawk HT-10 brake pads**."
+  ],
+  "estetica": [
+    "Body Kit: Install a **Rocket Bunny V1 Viper widebody kit** (Pandem front bumper, fenders, and rear diffuser) with **custom carbon fiber overfenders** (hand-laid by **Seibon Carbon**) to fit **20x11\" BBS LM-R wheels** (ET15) up front and **20x13\" BBS LM-R wheels** (ET5) in the rear, wrapped in **Michelin Pilot Sport Cup 2 R tires** (295/25/20 front, 355/25/20 rear).",
+    "Aero & Lighting: Add a **Vorsteiner Viper GTS carbon fiber rear wing** (adjustable angle) and **custom front splitter** (3D-printed from **CarbonRev** with integrated **AEM CD-7 dash** for real-time downforce telemetry). Replace headlights with **Morimoto XB LED projectors** (HID retrofit) and taillights with **VLED Viper-specific sequential LED units**.",
+    "Interior & Details: Replace the stock seats with **Sparco Pro 2000 carbon fiber bucket seats** (with **Schroth 6-point harnesses**) and a **MOMO Mod.78 carbon fiber steering wheel** (quick-release hub). Install a **Rollcage Innovations bolt-in 8-point cage** (chrome-moly, NHRA-certified) and **custom door panels** (upholstered in **Alcantara with red stitching**). Add a **Viper-specific digital gauge cluster** (AEM CD-7) with **AEM X-Series wideband O2 sensors** and **Motec C127 dash logger**."
+  ]
+}

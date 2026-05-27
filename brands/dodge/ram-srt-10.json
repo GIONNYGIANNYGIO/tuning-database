@@ -1,0 +1,14 @@
+{
+  "brand": "DODGE",
+  "model": "RAM SRT-10",
+  "prestazioni": [
+    "Engine: Replace the stock 8.3L (496 cu in) **Viper V10 (SRT-10 engine code: 8.3L V10 90° SMPI, internal code: E850)** with a forged rotating assembly from **Callies Compstar (crankshaft: 4.000\" stroke, connecting rods: 6.125\" H-beam, pistons: JE 2618 alloy, 10.5:1 compression)** paired with a **Holley Dominator EFI system (PN: 554-112)** for standalone engine management, eliminating the stock PCM limitations.",
+    "Forced Induction: Install a **ProCharger F-3R-112 centrifugal supercharger (112mm impeller, 14-16 psi boost, intercooled with a custom Spearco air-to-water core)** with a **Vortech V-2 SQ supercharger upgrade kit (belt-driven, 70,000 RPM max)** to push the Viper V10 to **850+ WHP** on E85 fuel, supported by **ID1000x injectors (2200cc/min) and a Walbro 450 LPH dual-pump fuel system**.",
+    "Drivetrain & Suspension: Swap the stock **NV4500 5-speed manual transmission** for a **Tremec TR-6060 6-speed (from a CTS-V, adapted via a QuickTime bellhousing)** with a **South Bend Clutch (triple-disc, 1400 ft-lb torque capacity)**. Suspension upgrades include **Bilstein B16 PSS10 coilovers (8-way adjustable, 2.5\" drop) with Eibach Pro-Street S springs (1000 lb/in front, 1200 lb/in rear)** and **Hotchkis 1.25\" front sway bar + 1.0\" rear sway bar** to reduce body roll during high-speed cornering."
+  ],
+  "estetica": [
+    "Aero: Install a **Stillen Gen 3 front splitter (carbon fiber, 3-piece, bolt-on)** with a **custom 3D Carbon rear diffuser (50mm overhang, integrated brake cooling ducts)** and a **Roush Performance Ram Air hood (functional scoops, fiberglass, OEM+ fitment)** to improve downforce and engine bay cooling.",
+    "Wheels & Tires: Mount **HRE FF01 wheels (20x10 +15 front, 20x12 +25 rear, forged 3-piece, 28 lbs each)** wrapped in **Nitto NT05R tires (295/45/20 front, 325/40/20 rear, semi-slick compound)** for maximum grip, paired with **Brembo GT 6-piston front (380mm rotors) and 4-piston rear (355mm rotors) big brake kit** for stopping power.",
+    "Exterior & Interior: Apply a **3M Matte Military Green (212)** full vinyl wrap with **Avery Dennison Gloss Black accents (hood, roof, mirror caps)**. Interior upgrades include **Recaro Pole Position seats (fixed-back, carbon fiber shell, Alcantara inserts)** with **Schroth 6-point harnesses (ASM2 model)**, a **Momo Mod.78 steering wheel (350mm, suede, quick-release hub)**, and a **custom roll cage (8-point, TIG-welded, 1.75\" DOM tubing)** for chassis rigidity and safety."
+  ]
+}

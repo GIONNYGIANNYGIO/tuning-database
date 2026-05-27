@@ -1,0 +1,14 @@
+{
+  "brand": "DODGE",
+  "model": "STEALTH R/T TWIN TURBO",
+  "prestazioni": [
+    "Engine: 6G72TT (3.0L V6 Twin Turbo, 24v DOHC) - Full forged internals with Manley 4340 steel connecting rods, JE 8.5:1 compression forged pistons, and ACL Race Series main/rod bearings to handle 18+ psi boost reliably. Stock crankshaft retained with balanced rotating assembly by Calico Coatings for friction reduction.",
+    "Turbochargers: Twin Garrett GT2860RS-5 (82mm compressor, .64 A/R turbine housing) with TiAL MV-R 38mm external wastegates and custom 3-inch stainless steel downpipes (no catalytic converters) feeding into a GReddy Revolution RS 3.5-inch cat-back exhaust system with 76mm titanium tips.",
+    "Fuel System: Dual Walbro 450 LPH in-tank fuel pumps with -8AN feed lines, Injector Dynamics ID1000x injectors (1000cc/min), and a Radium Engineering dual fuel pressure regulator setup. ECU reflash via Hondata K-Pro (adapted for Mitsubishi MUT-II protocol) with custom 3D ignition and fuel maps optimized for E85 blend (85% ethanol, 15% 93 octane)."
+  ],
+  "estetica": [
+    "Body Kit: Veilside Fortune 99 widebody conversion with custom carbon fiber front splitter (2.5-inch overhang) and rear diffuser by Rocket Bunny (Pandem Stealth-specific). OEM rear spoiler removed and replaced with a custom 3D-printed carbon fiber duckbill spoiler (1.25-inch height) for reduced drag.",
+    "Wheels: Work Meister S1 3P 18x10.5 +15 front and 18x12 +25 rear (5x114.3 PCD) with Toyo R888R 275/35/18 and 315/30/18 tires. Custom wheel spacers (15mm front, 25mm rear) by Buddy Club for aggressive flush fitment.",
+    "Interior: Full Recaro SRD-E fixed-back seats (JDM-spec) with Takata 4-point harnesses, NRG Innovations quick-release steering wheel hub, and a custom aluminum gauge pod housing AEM X-Series wideband AFR, boost, and oil pressure gauges. OEM dashboard stripped and repainted in matte black with carbon fiber vinyl wrap on center console."
+  ]
+}
