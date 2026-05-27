@@ -1,0 +1,14 @@
+{
+  "brand": "BUGATTI",
+  "model": "LA FINALE",
+  "prestazioni": [
+    "Engine: Quad-Turbocharged 8.0L W16 (Engine Code: **QUAIFE W16 8.0L**) with reinforced billet crankshaft (Manley Performance) and forged pistons (JE Pistons) to handle 1,800+ HP on E85 fuel, paired with a **Weistec Engineering Stage 5+ transmission upgrade** featuring a billet torque converter and reinforced gear sets for 1,800 Nm torque capacity.",
+    "Forced Induction: **Precision Turbo & Engine PT8285X Gen2 turbos (x4)** with custom titanium compressor wheels, 106mm inducers, and **Tial MV-R 60mm wastegates** for precise boost control at 2.8 bar (40.6 psi), mated to a **PWR Australia 1200kW intercooler core** with dual 4.5\" inlet/outlet plumbing and **Silicone Intakes 4-ply reinforced silicone hoses**.",
+    "Fuel & Ignition: **Bosch Motorsport MS15.1 ECU** with **Motec PDM30 power distribution module** for full CAN-bus integration, **ID1700x injectors (x16)** with **Radium Engineering dual fuel rails**, and **NGK R8992-10 Iridium Racing Spark Plugs** gapped at 0.018\" for E85 compatibility. Fuel system includes **AEM 400LPH dual in-tank pumps** and **XRP 12AN -6AN fuel lines** with **Aeromotive Pro Series fuel pressure regulators**."
+  ],
+  "estetica": [
+    "Body: **Liberty Walk LB-WORKS La Finale Widebody Kit** with carbon fiber fenders (30mm wider front, 40mm wider rear), **Seibon Carbon La Finale GT-spec hood** with integrated NACA ducts for W16 heat extraction, and **Rocket Bunny GT-style rear diffuser** with active aerodynamics (adjustable angle via hydraulic actuators).",
+    "Aero: **Vorsteiner La Finale Carbon Fiber Front Splitter** with **MTEC V3 LED DRLs** integrated into the splitter endplates, **APR Performance GT500-spec rear wing** (carbon fiber, 1,800mm span, 300mm chord) with **Dymag Carbon Fiber wheels (20\" front, 21\" rear)** wrapped in **Michelin Pilot Sport Cup 2 R tires (285/30 R20 front, 355/25 R21 rear)** for track-focused grip.",
+    "Interior: **Recaro Pole Position Carbon Kevlar seats** with **Schroth 6-point harnesses**, **MOMO La Finale Edition steering wheel** (carbon fiber, Alcantara, and titanium shift paddles), **Alcantara headliner with diamond-stitching**, and **Brembo GT 380mm carbon-ceramic brake kit** with **AP Racing 6-piston calipers (front) and 4-piston (rear)** painted in **PPG Bugatti Heritage Blue**."
+  ]
+}

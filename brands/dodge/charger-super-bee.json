@@ -1,0 +1,14 @@
+{
+  "brand": "DODGE",
+  "model": "CHARGER SUPER BEE",
+  "prestazioni": [
+    "Engine: 6.4L HEMI Apache (E-Series, engine code: 392 HEMI) with a forged internals build featuring Manley 4340 forged crankshaft (stroke increased to 4.090\" for 416ci), Manley I-beam connecting rods (6.125\" length), and Mahle Motorsport forged pistons (10.5:1 compression ratio) to handle 850whp on E85 with a custom camshaft profile from Comp Cams (280/288 duration, .650/.650 lift, 114 LSA).",
+    "Forced Induction: Single Precision Turbochargers PT6266 CEA ball-bearing turbo (62mm inducer, 66mm exducer) with a custom 4\" V-band downpipe, Tial MV-R 44mm wastegate, and a PTP 4\" stainless steel intercooler piping kit, paired with a Vibrant 1250cc/min port-injection fuel system (dual Injector Dynamics ID1050x and ID2000 injectors) for E85 compatibility.",
+    "Drivetrain & Suspension: Getrag TR-6060 6-speed manual transmission swap with a McLeod RST twin-disc clutch (2400lb pressure plate) and a Quaife ATB helical LSD, paired with a BMR Suspension tubular K-member, BMR adjustable rear control arms (with spherical bearings), and a full Ohlins Road & Track coilover kit (2-way adjustable dampers, 20-way rebound, 12kg/mm front/14kg/mm rear springs) for track-focused alignment (-2.5° front camber, -1.8° rear camber, 5mm front/rear toe-out)."
+  ],
+  "estetica": [
+    "Widebody Conversion: Rocket Bunny V2 Charger kit (2015+ style) with custom carbon fiber fenders (3.5\" wider front, 4.5\" wider rear), extended rocker panels, and a custom 3D-printed front splitter (50mm overhang) with integrated canards (Aeroflow Dynamics 3-piece carbon canards).",
+    "Aero & Lighting: Custom carbon fiber rear diffuser (3-piece, bolt-on) from APR Performance, paired with a Maxton Design GT-style carbon fiber rear spoiler (adjustable angle, 300mm chord), and a full LED lighting upgrade featuring Diode Dynamics SL1 Pro LED headlights (5,000 lumen, 6K color temp) and Oracle Lighting RGB halo fog lights (with Sync controller for dynamic patterns).",
+    "Wheels & Stance: Forged BBS FI-R wheels (20x10.5 +15 front, 20x12 +25 rear) with custom concave faces, wrapped in Michelin Pilot Sport Cup 2 R tires (275/30/20 front, 315/30/20 rear), paired with a H&R Street Performance lowering kit (-1.5\" front, -1.2\" rear) and Air Lift Performance 3P management for static or air ride (with AccuAir ENDO-CVT tanks)."
+  ]
+}

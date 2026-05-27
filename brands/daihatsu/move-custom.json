@@ -1,0 +1,14 @@
+{
+  "brand": "DAIHATSU",
+  "model": "MOVE CUSTOM",
+  "prestazioni": [
+    "Engine swap to a **KF-VE3** (660cc turbocharged inline-3, 64 PS stock) with a **Garrett GT12 turbocharger** (specifically the GT1241 variant, optimized for the KF-VE3’s 0.4L/cyl displacement) and a **HKS Super SQV4 blow-off valve** to handle the increased boost pressure (target: 1.2 bar).",
+    "Full **Toda Racing KF-VE3 forged internals** kit, including **Toda 87mm forged pistons** (9.5:1 compression), **Toda billet connecting rods**, and a **Toda billet crankshaft** with **ACL Race Series bearings** for 12,000 RPM reliability. Paired with a **Jun Auto KF-VE3 camshaft** (272° duration, 10.5mm lift) and **Supertech valve springs/retainers** to prevent valve float.",
+    "Custom **Haltech Elite 1500 ECU** with a **KF-VE3-specific flex fuel kit** (including a **Continental ethanol sensor**) and a **Mocal oil cooler** (13-row, -10AN fittings) to manage the 200+ PS output. Exhaust system upgraded to a **JUN 4-2-1 stainless header** (1.75\" primaries) with a **Sard 60mm titanium cat-back** and **GReddy Profec B Spec II boost controller** for precise turbo management."
+  ],
+  "estetica": [
+    "**Liberty Walk LB Works Move Custom widebody kit** (FRP construction, +80mm front/+100mm rear fender flares) with **custom carbon fiber overfenders** (hand-laid by **Seibon Carbon**) to clear **Work Emotion CR Kiwami wheels** (15x7 +38, 4x100 PCD) wrapped in **Yokohama Advan Neova AD08R tires** (195/45R15).",
+    "**Veilside Fortune 03 front bumper** (modified to fit the Move Custom’s 1,475mm width) with a **custom aluminum radiator support** and **Morimoto XB LED headlights** (H11 bulb swap, 5,000K color temp). Rear features a **custom carbon fiber duckbill spoiler** (modeled after the **Tommy Kaira M20 spoiler**, 3D-printed mold) and **Okuyama carbon fiber rear diffuser** with **dual 80mm titanium exhaust tips** (custom fabrication by **JUN Auto**).",
+    "**Recaro SR-7 Kei seats** (custom upholstered in **Alcantara with red Nappa leather bolsters**, matching the **Daihatsu Racing Team** livery) paired with a **Sparco Pro 2000 steering wheel** (350mm, suede) and a **NRG quick-release hub**. Interior stripped of all sound deadening, replaced with **Dynamat Xtreme** on the firewall and **carbon fiber door cards** (custom-made by **AutoStyle Japan**)."
+  ]
+}

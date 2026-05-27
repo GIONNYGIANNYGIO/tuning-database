@@ -1,0 +1,14 @@
+{
+  "brand": "DODGE",
+  "model": "CHARGER HELLCAT",
+  "prestazioni": [
+    "Supercharger upgrade to a Magnuson TVS2650 (6.2L HEMI SRT Hellcat engine code: ESF) with a 3.0L rotor set, 10.5psi boost, and a custom billet intake manifold (Kenne Bell or Whipple optional for 12+ psi), paired with a methanol injection kit (Snow Performance Stage 3) to suppress detonation at high RPM (7,200+ redline).",
+    "Full fuel system overhaul: Fore Innovations 450 LPH dual-pump in-tank fuel system with -8AN lines, ID1000x injectors (or Bosch 2200cc for E85), and a Radium Engineering port injection kit to support 1,000+ WHP on E50-E85 blends. ECU reflash via DiabloSport Trinity 2 with a custom SCT tune (or standalone AEM Infinity 8 for full flex-fuel control).",
+    "Drivetrain reinforcement: Getrag TR-6060 6-speed manual swap (or upgraded ZF 8HP90 automatic with a Level 10 torque converter), paired with a McLeod RST twin-disc clutch (or Spec 4+ for manual builds), a Driveshaft Shop carbon-fiber driveshaft, and a Strange Engineering S60 rear differential with 3.91:1 gears and a Detroit Truetrac LSD."
+  ],
+  "estetica": [
+    "Widebody conversion using a Rocket Bunny V3 Charger kit (or Pandem for a more aggressive stance), with custom carbon-fiber fenders, front splitter, and a duckbill spoiler (all in raw carbon or matte black).",
+    "Custom aero package: APR Performance GTC-300 adjustable rear wing (or a custom 1,200mm wide wing from 9 Lives Racing), paired with a Vortex Generator hood (carbon fiber, functional heat extractors) and a custom front diffuser from Seibon Carbon.",
+    "Wheel setup: Forged HRE FF01 wheels (20x11 front, 20x12 rear) with a concave profile, wrapped in Michelin Pilot Sport Cup 2 R tires (295/30/20 front, 325/30/20 rear). Optional: Rotiform LAS-R wheels with a satin bronze finish for a JDM-inspired look."
+  ]
+}

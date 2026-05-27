@@ -1,0 +1,14 @@
+{
+  "brand": "DALLARA",
+  "model": "STRADALE",
+  "prestazioni": [
+    "Engine: Replace the stock Ford EcoBoost 2.3L (Mazda-sourced *PY-VCT* inline-4, 400 hp) with a *Garrett GTX4202R* turbocharger (1.28 A/R, billet compressor wheel) paired with a *PTP Turbo Blanket* and *Tial MV-R 44mm* external wastegate (set to 28 psi peak boost). Upgrade the intercooler to a *PWR USA* 525-core front-mount unit with *Mishimoto silicone hoses* and *TurboSmart Race Port BOV* (adjustable dual-port).",
+    "Drivetrain: Install a *Quaife ATB LSD* (80% lock) in the transaxle housing, paired with *PPG 1st-4th gear sets* (straight-cut, 2.18:1 1st) and a *Tilton 7.25\" twin-disc clutch* (ceramic-metallic, 800 Nm capacity). Replace the stock driveshafts with *The Driveshaft Shop* 3.5\" carbon fiber units (rated for 1,000 hp).",
+    "Suspension/Chassis: Fit *Öhlins TTX40* 3-way adjustable coilovers (24-click rebound, 22-click compression, 12-click high-speed) with *Dallara-specific* spherical bearing top mounts. Replace the stock anti-roll bars with *Eibach Pro-Street Sway Bars* (24mm front, 22mm rear) and add *SuperPro* poly bushings (95A durometer) at all suspension pickups. Install *AP Racing CP8660* 6-piston front calipers (380mm discs) and *CP8460* 4-piston rears (355mm discs) with *Ferodo DS2500* pads and *Goodridge 700-series* braided lines."
+  ],
+  "estetica": [
+    "Aero: Install the *Dallara Stradale-specific* *Novitec Torado* widebody kit (carbon fiber, +80mm front, +100mm rear) with integrated *Vortex Generators* on the rear diffuser. Add a *Rocket Bunny* GT-style rear wing (3D-printed carbon, 1,200mm span, adjustable 0-20° angle) and *AeroCatch* quick-release hood pins. Replace the front splitter with a *VRS* 3-stage adjustable unit (carbon, +40mm overhang).",
+    "Exterior: Wrap the body in *3M 2080 Gloss Black* with *Avery Dennison Supreme Wrapping Film* accents (electric blue, *Dallara* script on the doors). Replace the headlights with *Lux HID* projectors (5,500K, *Morimoto D2S* bulbs) and add *Diode Dynamics SS3 Pro* sequential turn signals. Install *HRE FF01* forged wheels (19x10.5 front, 20x12.5 rear) with *Michelin Pilot Sport Cup 2* tires (265/35/19 front, 325/30/20 rear).",
+    "Interior: Replace the stock seats with *Sparco Pro 2000* carbon-Kevlar buckets (9.5kg each) and *Schroth Profi II-6* 6-point harnesses. Add a *MOMO Mod.77* suede steering wheel (330mm, quick-release) and *Alcantara* shift knob (*Dallara*-embroidered). Install a *Motec C127* dash logger with *AEM CD-7* backup display, paired with a *RaceGrade* pedal box (adjustable brake bias)."
+  ]
+}

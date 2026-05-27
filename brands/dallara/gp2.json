@@ -1,0 +1,14 @@
+{
+  "brand": "DALLARA",
+  "model": "GP2",
+  "prestazioni": [
+    "Rebuild of the **Mecachrome GP2 V8 (4.0L, 90° V8, naturally aspirated, code: GP2-05)** with forged Mahle Motorsport pistons (9.0:1 compression), Carrillo H-beam connecting rods, and a billet steel crankshaft for 8,500 RPM reliability. Pair with a **Pankl Racing Systems 5-speed sequential gearbox** featuring a **Xtrac 1044 differential** with 75% ramp angle for aggressive lockup under power.",
+    "Install a **Bosch Motorsport MS5.1 engine management system** with custom fuel maps optimized for **VP Racing C16 fuel (116 octane)**, replacing the stock ECU. Integrate a **Motec C127 dash logger** with real-time telemetry for air-fuel ratio (target: 12.8:1 at peak power) and ignition timing (retarded to 22° BTDC at 8,200 RPM to prevent detonation).",
+    "Upgrade the **Brembo GP2-spec brake system** with **AP Racing CP8300 calipers** (6-piston front, 4-piston rear) and **Carbon Industrie CCM-R carbon-carbon rotors** (278mm front, 266mm rear) for consistent stopping power. Pair with **Ferodo Racing DS3000 brake pads** and **ATE Type 200 brake fluid** (dry boiling point: 320°C) to handle 200°C+ rotor temps during endurance runs."
+  ],
+  "estetica": [
+    "Replace the stock Dallara GP2 nose with a **Tatuus F2 2018-spec carbon fiber front wing** (3-element, adjustable angle of attack) for improved downforce at high speeds. Add **Dallara GP2/11 sidepod vanes** (carbon fiber, 3D-printed airfoil profiles) to optimize airflow to the rear diffuser.",
+    "Install a **Rocket Bunny GP2 widebody kit** (carbon fiber, 50mm wider front fenders, 70mm wider rear) to accommodate **OZ Racing Superleggera GT wheels** (13x12 front, 13x13 rear) with **Pirelli P Zero Trofeo R tires** (245/645-R13 front, 325/680-R13 rear). Paint in **PPG Global MX-5 White** with **3M Scotchcal Matte Black** accents for heat dissipation.",
+    "Fit a **Dallara GP2/11-spec rear wing** (carbon fiber, 3-element, 1,200mm span) with **Hitech Racing adjustable endplates** (angled at 15° for maximum downforce). Add a **custom titanium exhaust system** (Akrapović, 4-2-1 merge collectors, 76mm diameter) with **Inconel 625 headers** and a **valved bypass** for sound control (105 dB at 8,000 RPM)."
+  ]
+}

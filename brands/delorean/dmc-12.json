@@ -1,0 +1,14 @@
+{
+  "brand": "DELOREAN",
+  "model": "DMC-12",
+  "prestazioni": [
+    "PRV (Peugeot-Renault-Volvo) ZMJ-159 2.85L V6 engine: Full forged internals with JE Pistons 9.5:1 compression forged slugs, Carrillo H-beam connecting rods, and a billet crankshaft from Manley Performance to handle 800+ hp reliably. Turbocharged with a Garrett GTX5533R Gen II turbo (84mm inducer, 1.28 A/R turbine housing) on a custom tubular stainless steel manifold by Burns Stainless, paired with a Tial MV-R 60mm wastegate and a 50mm external dump valve.",
+    "Fuel system overhaul: Dual Bosch Motorsport 044 high-flow fuel pumps, Injector Dynamics ID2000x injectors (2000cc/min), and a Radium Engineering dual-port fuel rail with AN-8 feed lines. ECU reflash via Haltech Elite 2500 standalone with custom PRV-specific maps, including sequential ignition control and individual cylinder fuel trimming for the uneven-firing V6.",
+    "Drivetrain reinforcement: Quaife ATB differential with 3.73:1 final drive ratio, upgraded half-shafts from The Driveshaft Shop (Stage 3, 3.5-inch chromoly), and a Tilton Engineering 7.25-inch twin-disc clutch with a billet flywheel. Transmission swap to a Porsche G50 5-speed manual (from a 964 Carrera) with a custom bellhousing adapter by DMCH (DeLorean Motor Company Holdings) and a short-throw shifter from B&M."
+  ],
+  "estetica": [
+    "Widebody conversion using the Rocket Bunny V1 DeLorean kit (fiberglass fenders, carbon fiber front splitter, and rear diffuser), with custom 3M Matte Graphite vinyl wrap and exposed brushed stainless steel lower panels (sanded to 400-grit for a satin finish).",
+    "Lighting: Full LED retrofit with LUX H8 V4 bulbs for the original pop-up headlights, Osram Night Breaker Laser H11 fog lights, and custom rear light clusters using Philips X-tremeUltinon Pro9000 LEDs (red/white) with sequential turn signals controlled by a Diode Dynamics SS3 module.",
+    "Interior: Full Recaro Pole Position seats (original 1980s motorsport spec) reupholstered in Alcantara with red stitching, paired with a MOMO Prototipo steering wheel (350mm, suede) on a NRG quick-release hub. Custom gauge cluster with Defi Advance BF series gauges (boost, oil temp, fuel pressure) mounted in a carbon fiber pod, and a full roll cage by Kirk Racing (chrome-moly, 4-point with harness bar) painted in gloss black."
+  ]
+}

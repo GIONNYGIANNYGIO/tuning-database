@@ -1,0 +1,14 @@
+{
+  "brand": "DODGE",
+  "model": "AVENGER RT",
+  "prestazioni": [
+    "Engine: Replace the stock 3.6L Pentastar V6 (ERB engine code) with a fully built internals package from Mahle Motorsports, including forged pistons (Mahle 2618 alloy, 10.5:1 compression), Manley H-beam connecting rods, and a billet crankshaft from Callies Compstar. Pair this with a custom camshaft grind from Comp Cams (230/236 duration @ 0.050\", 0.580\" lift) for aggressive mid-to-high RPM power delivery.",
+    "Forced Induction: Install a Garrett GTX3582R Gen II turbocharger (0.82 A/R turbine housing) with a custom Precision Turbo & Engine wastegate (46mm, dual-port) and a Tial MV-R 50mm blow-off valve. Use a PTP Turbo Fabrication intercooler core (4.5\" thick, 22\" x 12\" bar-and-plate) with custom 3\" aluminum piping and a Vibrant Performance 1250cc/min fuel rail to support E85 tuning.",
+    "Fuel & Ignition: Upgrade to a Fuelab Prodigy V4 fuel pump (450 LPH) with a Radium Engineering dual-port fuel pressure regulator. Replace injectors with ID1000x (1000cc/min) from Injector Dynamics, paired with an AEM Infinity 708 ECU for full flex-fuel and boost-by-gear mapping. Use NGK 95229 (LFR7AIX-11) iridium spark plugs gapped at 0.024\" for optimal ignition under high boost."
+  ],
+  "estetica": [
+    "Aero: Install a custom widebody conversion kit from RK Sport, including carbon fiber front fenders (2.5\" wider per side), rear quarter panels (3\" wider), and a rear diffuser with integrated dual-exit exhaust cutouts. Add a carbon fiber front splitter from APR Performance (3\" overhang) and a GTwing-style rear spoiler from Seibon Carbon (22\" chord, 3.5\" height).",
+    "Suspension & Wheels: Fit a KW Clubsport 3-way coilover kit (8-position rebound, 16-position compression, adjustable top mounts) with custom spring rates (800 lb/in front, 700 lb/in rear). Use BBS LM-R wheels (19x9.5 +25 front, 19x10.5 +35 rear) wrapped in Michelin Pilot Sport Cup 2 R tires (255/35/19 front, 295/30/19 rear). Add a Cusco front strut tower bar (22mm diameter) and a Whiteline rear sway bar (24mm adjustable).",
+    "Exterior & Interior: Apply a custom vinyl wrap from 3M (Matte Military Green with Gloss Black accents) paired with a full de-chrome kit from TruFiber (carbon fiber mirror caps, grille inserts, and side skirts). Inside, install Recaro Pole Position seats (cloth/Alcantara, 6-point harnesses) with a custom roll cage from Autopower (8-point, mild steel, bolt-in). Replace the steering wheel with a NRG Innovations R3 (350mm, suede) and add a digital dash from AIM MXS Strada (12\" display, CAN bus integration)."
+  ]
+}

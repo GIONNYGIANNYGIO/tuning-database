@@ -1,0 +1,14 @@
+{
+  "brand": "DODGE",
+  "model": "CHALLENGER T/A",
+  "prestazioni": [
+    "Engine: 6.4L HEMI Apache (392ci) ESF (Engine Serial Number: 2021+ 'R6' code) with forged internals upgrade including Manley 4340 forged crankshaft (stroke increased to 4.090\" for 410ci), Mahle Motorsport forged pistons (10.5:1 compression), and Eagle H-beam connecting rods. Paired with a custom camshaft grind from Comp Cams (280/288 duration, .624/.630 lift, 114 LSA) for optimized torque curve and top-end power.",
+    "Forced Induction: ProCharger P-1SC-1 supercharger kit (10-rib serpentine drive, 4.1\" pulley) with a custom intercooler core from CXRacing (1000hp-rated, 4.5\" thick) and dual 1000cc Bosch Motorsport injectors. Supporting fuel system includes a Fore Innovations F2i-400 fuel pump, Radium Engineering fuel pressure regulator, and a custom return-style fuel system with -8AN lines.",
+    "Drivetrain & Handling: Tremec TR-6060 6-speed manual transmission with a McLeod RST twin-disc clutch (2400lb pressure plate) and a Hurst Competition Plus shifter. Rear differential upgraded to a Dana 60 with 3.91:1 gears, ARP studs, and a Detroit Truetrac limited-slip differential. Suspension overhaul includes KW Clubsport coilovers (3-way adjustable, 400lb/in front springs, 600lb/in rear springs), BMR Fabrication tubular K-member, and Whiteline adjustable sway bars (27mm front, 24mm rear)."
+  ],
+  "estetica": [
+    "Aero & Body: Rocket Bunny V3 widebody kit (fiberglass fenders, carbon fiber front splitter, and rear diffuser) with custom matte vinyl wrap in 'B5 Blue' with satin black accents. Front bumper replaced with a custom carbon fiber unit featuring integrated tow hooks and a relocated intercooler duct. Rear wing is a custom 3D-printed carbon fiber GT-style spoiler (45-degree angle, 6\" chord) for downforce optimization.",
+    "Wheels & Stance: Forged Rotiform LAS-R wheels (20x10.5 +15 front, 20x12 +25 rear) with Nitto NT05R tires (275/35/20 front, 315/30/20 rear). Custom fender flares rolled and pulled for clearance, with a 1.5\" front and 1.75\" rear static drop using KW Clubsport coilovers. Brake system includes Brembo GT 6-piston calipers (front) and 4-piston calipers (rear) with 15\" two-piece rotors and Ferodo DS2500 pads.",
+    "Interior & Details: Full Alcantara-wrapped interior by Katzkin (dashboard, door cards, and headliner) with custom embroidered 'T/A 392' logos on the headrests. Seats replaced with Recaro Pole Position bucket seats (fixed-back, FIA-approved) and Schroth 6-point harnesses. Custom gauge cluster from AEM (X-Series wideband, boost, and oil pressure) mounted in a carbon fiber dash overlay. Engine bay detailed with a custom carbon fiber strut brace, titanium hardware, and a custom powder-coated valve cover in 'Hemi Orange'."
+  ]
+}

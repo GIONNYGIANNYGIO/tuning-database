@@ -1,0 +1,14 @@
+{
+  "brand": "DODGE",
+  "model": "CHALLENGER DEMON 170",
+  "prestazioni": [
+    "Supercharger upgrade to a **Whipple 3.0L Gen 5 2.9L twin-screw supercharger** (replacing the stock SRT-tuned **S639** 2.7L IHI supercharger) with a **custom billet aluminum pulley system (3.25\" diameter)** to push boost from 12.5 psi to **18 psi**, paired with a **Holley Dominator EFI ECU** reflash for **1,200+ HP** on E85 (engine code: **SRT 6.2L HEMI Demon 170 - S639**).",
+    "Full **drag-spec drivetrain reinforcement** including a **DSS Racing 4340 chromoly driveshaft**, **Strange Engineering S60 Pro Series rear differential (3.09 gear ratio)** with **DSS 40-spline axles**, and a **PPG 5-speed manual transmission with a **Tremec TR-6060 Magnum XL** short-throw shifter and **South Bend Clutch twin-disc organic/metallic hybrid clutch** for 1,500+ lb-ft torque capacity.",
+    "Forced-induction cooling system overhaul with a **PWR North America intercooler (1,200 HP-rated core)**, **Moroso dual 1,500 GPH fuel pumps**, **ID1700x injectors**, and a **custom 4-inch aluminum charge pipe setup** with **Vibrant Performance silicone couplers** to eliminate heat soak in the **S639 supercharger system**."
+  ],
+  "estetica": [
+    "Widebody conversion using the **Rocket Bunny V3 Challenger kit** (carbon fiber fenders, quarter panels, and front bumper) with **custom 1.5-inch extended wheel arches** to fit **Forgeline GA3R 20x12\" (front) and 20x13\" (rear) wheels** wrapped in **Michelin Pilot Sport Cup 2 R tires (325/30R20 front, 345/25R20 rear)** for maximum drag strip grip.",
+    "Full **carbon fiber aero package** including a **Vortex Carbon Fiber Demon 170-specific rear wing (1200mm span, 3D-printed adjustable mounts)**, **Seibon Carbon hood with integrated NACA ducts** for supercharger heat extraction, and **custom carbon fiber side skirts** with **LED-illuminated Demon 170 badging** (RGB programmable via **Diode Dynamics SS3 Pro**).",
+    "Interior stripped for weight reduction with **Recaro Pole Position II carbon fiber bucket seats (SFI 16.1 certified)**, **Schroth 6-point harnesses**, **custom roll cage (Chassisworks 8-point bolt-in with integrated harness bar)**, and a **Motec C127 dash logger** replacing the stock cluster for real-time boost, AFR, and G-force monitoring."
+  ]
+}

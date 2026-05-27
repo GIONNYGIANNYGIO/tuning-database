@@ -1,0 +1,14 @@
+{
+  "brand": "DODGE",
+  "model": "CHARGER SRT8",
+  "prestazioni": [
+    "Engine: 6.4L HEMI Apache (Eagle) V8 (engine code: 6.4L 392 HEMI® ESF) with a forged internals build featuring Manley H-beam connecting rods (PN: 14099-8), Mahle Motorsport forged pistons (PN: 40320), and a billet crankshaft from Callies (PN: 4340-4.000). Paired with a custom camshaft grind from Comp Cams (PN: 27315-16, 242/248 duration @ 0.050, 0.624/0.630 lift, 114 LSA) for aggressive mid-to-high RPM power delivery.",
+    "Forced Induction: Twin-turbo setup using Garrett GTX5533R Gen II turbos (PN: 807170-5005S) with TiAL MV-R 60mm wastegates (PN: MV-R-60) and TiAL Q 50mm blow-off valves (PN: Q-50). Custom intercooler system by Hellcat Racing with a 4.5\" thick core (PN: HR-392-IC) and dual 10AN silicone charge pipes from Vibrant Performance (PN: 16710).",
+    "Fuel & Ignition: Upgraded fuel system with dual Bosch 044 fuel pumps (PN: 0 580 254 044), Injector Dynamics ID1700x injectors (PN: ID1700X-D017), and a Holley Dominator ECU (PN: 554-112) running E85. Ignition system upgraded with MSD 8.5mm Super Conductor wires (PN: 32829) and NGK Iridium IX spark plugs (PN: 6619) gapped at 0.030\"."
+  ],
+  "estetica": [
+    "Widebody Conversion: Rocket Bunny V3 Charger kit (PN: PB-CHR03) with carbon fiber fenders, front bumper, and rear diffuser. Custom 3M Gloss Black vinyl wrap with matte gunmetal accents on the hood and roof.",
+    "Suspension & Wheels: KW Clubsport 3-way coilovers (PN: 35221001) with adjustable camber plates and spherical bearing top mounts. Wheel setup includes Forgeline GA3R 20x10.5\" ET25 front and 20x12\" ET45 rear wheels (PN: GA3R-20105-5150-F, GA3R-20120-5150-R) wrapped in Michelin Pilot Sport Cup 2 tires (275/35/20 front, 315/30/20 rear).",
+    "Aerodynamics & Lighting: Custom carbon fiber rear wing from APR Performance (PN: GTC-300) with adjustable angle of attack. Front splitter from Anderson Composites (PN: AC-CHR-SPLITTER) with integrated canards. Lighting upgraded to LUX H8 V4 LED headlights (PN: H8-V4) and Diode Dynamics SS3 Pro LED fog lights (PN: DD-SS3-PRO)."
+  ]
+}

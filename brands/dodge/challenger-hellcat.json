@@ -1,0 +1,14 @@
+{
+  "brand": "DODGE",
+  "model": "CHALLENGER HELLCAT",
+  "prestazioni": [
+    "Supercharger upgrade to a Magnuson TVS2650 (engine code: SRT HEMI 6.2L V8, supercharged, internal code: ESF) with a 3.0L rotor assembly, 10.5psi boost (stock: 7.5psi), and a custom billet aluminum pulley system (ATI Super Damper 5.5\" crank pulley + 2.75\" blower pulley) for 850whp on 93 octane with supporting mods",
+    "Full fuel system overhaul with Fore Innovations 450 LPH dual-pump fuel system (in-tank), Injector Dynamics ID1700x injectors, and a Radium Engineering fuel pressure regulator (adjustable base pressure up to 100psi) to support E85 blends (up to E60) with a Motec M150 ECU for closed-loop fuel control",
+    "Drivetrain reinforcement with a Getrag TR-6060 6-speed manual transmission swap (from the Dodge Viper ACR), upgraded with a Spec Stage 5+ twin-disc clutch (26-spline, 6-puck carbon/copper hybrid), a billet aluminum flywheel (South Bend), and a Quaife ATB differential (35-spline, 4.10 gear ratio) for improved torque bias and launch control"
+  ],
+  "estetica": [
+    "Widebody conversion using the Rocket Bunny V3 Challenger kit (carbon fiber fenders, front bumper, and rear diffuser) with custom 3M Matte Military Green wrap (color code: 3M 1080-M206) and exposed carbon fiber weave on the hood and trunk",
+    "Suspension overhaul with Ohlins Road & Track DFV coilovers (2-way adjustable dampers, 80mm stroke, custom valving for Hellcat weight distribution) paired with Eibach ERS 1000lb/in front and 800lb/in rear springs, and a Hotchkis Sport Suspension sway bar kit (28mm front, 25mm rear) for reduced body roll",
+    "Aerodynamic enhancements including a custom Vortex Generator carbon fiber rear wing (1200mm span, 300mm chord, 15-degree angle of attack) from APR Performance, a Seibon carbon fiber front splitter with adjustable canards, and a custom 3D-printed titanium exhaust exit (dual 4.5\" tips) with a Burns Stainless 3\" cat-back system (resonated, straight-pipe design)"
+  ]
+}

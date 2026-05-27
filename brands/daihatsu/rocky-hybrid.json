@@ -1,0 +1,14 @@
+{
+  "brand": "DAIHATSU",
+  "model": "ROCKY HYBRID",
+  "prestazioni": [
+    "Engine: Replace the stock 1.5L 2NR-VE Atkinson-cycle hybrid powertrain (engine code: 2NR-VEX) with a custom-built 1.8L 2ZR-FXE hybrid conversion using Toyota Prius A25A-FXS internals (forged pistons, H-beam connecting rods) and a custom ECU flash via Hondata K-Pro V4 to optimize the hybrid synergy drive (HSD) for 180+ hp while retaining electric motor assist.",
+    "Forced Induction: Install a Garrett GT2860RS turbocharger with a custom 3D-printed aluminum intake manifold (designed for the Rocky's 2NR-VEX engine bay constraints) and a GReddy Type-S intercooler with a 60mm core to handle 1.2 bar of boost, paired with a Tomei 80mm titanium blow-off valve and a custom 3-inch stainless steel downpipe.",
+    "Suspension & Handling: Replace the stock torsion beam rear suspension with a custom multi-link setup using HKS Hipermax IV coilovers (adjustable damping, 30-way compression/rebound) and Cusco 22mm front/rear sway bars, paired with Whiteline adjustable rear camber arms and SuperPro poly bushings for the subframe to eliminate torque steer under hybrid acceleration."
+  ],
+  "estetica": [
+    "Aero: Install a custom Rocket Bunny-inspired widebody kit (designed specifically for the Rocky's J200G chassis) with carbon fiber overfenders, a vented hood (for the GT2860RS turbo), and a custom rear diffuser with integrated dual 3.5-inch exhaust outlets (stainless steel, titanium tips by Fujitsubo).",
+    "Wheels & Tires: Fit Work Emotion CR Kiwami wheels (18x9.5 +30 offset) with Michelin Pilot Sport Cup 2 R tires (245/40R18) and custom 5x114.3 hubcentric spacers (15mm front, 20mm rear) to fill the widebody arches, paired with DBA 5000 Series two-piece rotors and Project Mu HC+ ceramic pads.",
+    "Interior: Replace the stock seats with Bride Zeta III recliners (fixed-back, carbon shell) and a custom roll cage (TIG-welded 4130 chromoly, 6-point design) by AutoPower, paired with a Momo Prototipo steering wheel (350mm, suede) and a custom hybrid power display (AEM X-Series gauge cluster) integrated into the A-pillar."
+  ]
+}

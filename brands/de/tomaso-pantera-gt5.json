@@ -1,0 +1,14 @@
+{
+  "brand": "DE TOMASO",
+  "model": "PANTERA GT5",
+  "prestazioni": [
+    "Engine: Ford 351 Cleveland (351C) V8 with a stroked 408ci (6.7L) displacement using a Scat Enterprises 4340 forged crankshaft (4.000\" stroke), Carrillo H-beam connecting rods, and JE Pistons 2618 forged slugs (11.5:1 compression). Port-matched Edelbrock Victor Jr. intake manifold paired with a Holley Ultra XP 950 CFM carburetor (PN: 0-80805XP) and a custom 3\" velocity stack setup by K&N (PN: RU-3500).",
+    "Forced Induction: Single Garrett GTX5533R turbocharger (1.05 A/R turbine housing) with a custom 3.5\" stainless steel exhaust manifold by Burns Stainless, feeding into a 4\" Tial Sport wastegate (PN: MV-R) and a custom intercooler core by Bell Intercoolers (12\" x 24\" x 4.5\" bar-and-plate). Boost controlled via an AEM 30-4100 Tru-Boost Controller targeting 22 psi on 110-octane race fuel.",
+    "Drivetrain & Suspension: ZF 5-speed transaxle rebuilt with a Quaife ATB differential (PN: QDF7Z) and upgraded with a Tilton twin-disc clutch (PN: 64-1000). Front suspension overhauled with Ohlins TTX40 coilovers (2-way adjustable, 200mm travel) and spherical bearing conversion by SPL Parts (PN: SPL-101001). Rear suspension reinforced with a custom subframe brace by Autocraft Engineering and rose-jointed trailing arms by Pantera Performance (PN: PP-001)."
+  ],
+  "estetica": [
+    "Bodywork: Full carbon fiber widebody conversion using a custom Rocket Bunny Pantera GT5 kit (PN: RB-WB-001), including extended front fenders (2.5\" wider), rear quarter panels (3.5\" wider), and a custom ducktail spoiler with integrated Gurney flap. Front splitter and rear diffuser by APR Performance (PN: GT5-100000 for splitter, GT5-200000 for diffuser).",
+    "Aerodynamics: Custom 3D-printed NACA ducts integrated into the hood (for brake cooling) and rear fenders (for tire cooling), designed by Aeromotions. Side skirts replaced with custom aluminum units by Varis (PN: VAR-DEP-001) with integrated LED turn signals. Rear bumper deleted and replaced with a custom carbon fiber diffuser by Seibon (PN: CF-PANTERA-GT5-DIFF).",
+    "Wheels & Styling: Front: BBS LM-R 18x11 +15 ET, Rear: BBS LM-R 18x13 +5 ET, wrapped in Michelin Pilot Sport Cup 2 R tires (275/35/18 front, 335/30/18 rear). Custom center-lock adapters by DPE (PN: DPE-CL-001). Brake calipers painted Ferrari Rosso Corsa with gold hardware, paired with custom 3D-printed brake ducts by Race Technologies (PN: RT-BD-001)."
+  ]
+}

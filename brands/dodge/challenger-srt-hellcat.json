@@ -1,0 +1,14 @@
+{
+  "brand": "DODGE",
+  "model": "CHALLENGER SRT HELLCAT",
+  "prestazioni": [
+    "Supercharger upgrade to a Magnuson TVS2650 (6.2L HEMI SRT engine code: ESF) with a 3.0L rotor pack, 10.5psi boost (stock: 7.5psi), and a custom billet aluminum lower pulley (2.5\" diameter) from Kenne Bell, paired with a dual-core intercooler from Hellcat Industries (50% larger core volume, 30% reduced IATs under full load).",
+    "Full forged internals: Manley 4340 forged crankshaft (stroke increased to 4.09\" for 416ci displacement), Mahle Motorsport forged pistons (9.0:1 compression, coated with Mahle Grafal), and Eagle H-beam connecting rods (ARP 2000 rod bolts), supporting 900+ WHP on E85 with a custom camshaft from Comp Cams (248/254 duration, .650/.650 lift, 114 LSA).",
+    "Exhaust system: Stainless Works 3\" long-tube headers (1-7/8\" primary tubes, 3/8\" thick flanges) with merge collectors, paired with a Borla S-Type cat-back (4\" dual outlets, 304 stainless steel, straight-through design) and a set of GESI 3\" catted downpipes (200-cell metallic substrate, 90% flow efficiency). ECU recalibration via HP Tuners VCM Suite with a custom OS (OS 1860) for E85 flex-fuel support, methanol injection (Snow Performance Stage 3 kit with dual 550cc nozzles), and launch control (2-step at 5,500 RPM)."
+  ],
+  "estetica": [
+    "Widebody conversion using a Rocket Bunny V3 Challenger kit (carbon fiber fenders, quarter panels, and front bumper, 3.5\" wider track per side) with custom extended wheel arches to fit 20x12\" ET15 BBS LM-R wheels (front) and 20x13\" ET5 BBS LM-R wheels (rear), wrapped in Michelin Pilot Sport Cup 2 R tires (305/30/20 front, 325/25/20 rear).",
+    "Aerodynamic package: APR Performance GTC-300 adjustable carbon fiber rear wing (30\" chord, 6\" height, 3D-printed aluminum mounts) with a custom Gurney flap (1.5\" tall), paired with a Seibon carbon fiber hood (OEM-style with functional heat extractors) and a custom front splitter from Anderson Composites (3-piece carbon fiber, 4\" overhang, with integrated canards).",
+    "Interior: Full Alcantara retrim by Katzkin (black with Hellcat Red stitching), including Recaro Pole Position seats (carbon fiber backs, 6-point Schroth harnesses), a custom roll cage from Autopower Industries (8-point, TIG-welded 4130 chromoly, with integrated harness bars), and a Motec C127 dash display (replacing the stock cluster) with AIM PDM30 power distribution module for auxiliary systems."
+  ]
+}

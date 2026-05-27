@@ -1,0 +1,14 @@
+{
+  "brand": "DODGE",
+  "model": "CHALLENGER SRT SUPER STOCK",
+  "prestazioni": [
+    "Engine: Replace the stock 6.2L supercharged HEMI SRT (engine code: ESF) with a forged internals build featuring Manley 4340 steel crankshaft (stroke increased to 4.090\"), Carrillo H-beam connecting rods, and JE Pistons 2618 forged aluminum pistons (9.0:1 compression ratio) for 850+ hp reliability on E85.",
+    "Forced Induction: Upgrade to a Whipple 4.5L Gen 5 supercharger (part #W140AX) with a custom billet aluminum snout, ported rotor housing, and a 140mm throttle body (Holley Dominator EFI) to support 28 psi of boost, paired with a Vibrant Performance intercooler core (34001) and custom 4\" aluminum piping.",
+    "Drivetrain: Install a Tremec TR-9070 7-speed dual-clutch transmission with a McLeod RST twin-disc clutch (rated for 1,200 lb-ft), reinforced with a B&M SuperCooler transmission cooler (70264) and a Driveshaft Shop 3.5\" aluminum driveshaft with CV joints for drag strip launches."
+  ],
+  "estetica": [
+    "Aero: Fit a Rocket Bunny Challenger widebody kit (PAND-PAN-V3) with carbon fiber front splitter, rear diffuser, and overfenders, paired with a custom APR Performance GT-250 rear wing (30\" chord) for 300+ lbs of downforce at 150 mph.",
+    "Wheels: Mount a set of Forgeline GA3R 20x11\" (front) and 20x12\" (rear) wheels with custom offsets (+15mm front, +35mm rear) wrapped in Mickey Thompson ET Street R radial tires (315/35R20 front, 325/30R20 rear) for optimal drag strip traction.",
+    "Interior: Replace the stock seats with Sparco Pro 2000 carbon fiber racing seats (with 6-point Schroth harnesses), install a MoTeC C127 dash logger with GPS lap timer, and add a custom roll cage (Chassisworks Drag Lite) with integrated fire suppression system (FireBottle 5lb Halon)."
+  ]
+}

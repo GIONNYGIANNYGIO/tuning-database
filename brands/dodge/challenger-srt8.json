@@ -1,0 +1,14 @@
+{
+  "brand": "DODGE",
+  "model": "CHALLENGER SRT8",
+  "prestazioni": [
+    "Engine: 6.4L HEMI Apache (EZB) V8 with forged internals upgrade including Manley I-beam connecting rods, Mahle Motorsport forged pistons (10.5:1 compression), and a billet crankshaft from Callies Compstar for 8,000 RPM reliability. Paired with a custom camshaft grind from Comp Cams (248/254 duration, .650/.650 lift, 114 LSA) for aggressive mid-to-high RPM power delivery.",
+    "Forced Induction: Hellcat supercharger swap (13 psi base boost) with a custom billet impeller from Kenne Bell (2.8L Mammoth upgrade) and a supporting fuel system including dual Bosch 044 fuel pumps, ID1000X injectors, and a Radium Engineering fuel pressure regulator. Intercooler upgrade to a custom air-to-water setup with a PWR radiator and Bosch 024 pump for consistent intake temps.",
+    "Drivetrain & Handling: Getrag TR-6060 6-speed manual transmission with a McLeod RST twin-disc clutch (2,000 lb-ft capacity) and a Quaife ATB differential. Suspension overhaul with Ohlins Road & Track coilovers (2-way adjustable damping), Eibach front and rear sway bars (28mm front, 25mm rear), and Brembo GT 6-piston front/4-piston rear brake kit with 20\" two-piece rotors from DBA."
+  ],
+  "estetica": [
+    "Widebody Conversion: Rocket Bunny V3 Challenger kit with carbon fiber front fenders, rear quarter panels, and a custom 2.5\" extended wheelbase for aggressive stance. Front splitter and rear diffuser from APR Performance in raw carbon fiber with integrated brake ducts.",
+    "Aerodynamics: Custom 3D-printed hood scoop (functional) designed for the Hellcat supercharger intercooler setup, paired with a carbon fiber rear wing from Seibon (12\" chord, 65\" span) for adjustable downforce. Side skirts from Anderson Composites in matte black with integrated LED turn signals.",
+    "Wheels & Styling: Forged 20x11\" (front) and 20x12\" (rear) HRE FF01 wheels in a custom bronze finish with Nitto NT05R tires (295/30 front, 325/25 rear). Interior upgrades include Recaro Pole Position seats with Schroth 6-point harnesses, a custom roll cage from Autopower (bolt-in, 8-point), and a Momo Prototipo steering wheel with a quick-release hub."
+  ]
+}

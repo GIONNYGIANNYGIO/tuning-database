@@ -1,0 +1,14 @@
+{
+  "brand": "DALLARA",
+  "model": "F3",
+  "prestazioni": [
+    "Mugen MF308 2.0L inline-4 naturally aspirated engine (F308) with a bespoke Tomei 272° duration camshaft kit, optimized for 10,500 RPM powerband with titanium retainers and upgraded valve springs from Supertech Performance",
+    "Pankl Racing Systems 5-speed sequential gearbox with a Quaife ATB differential and a Sachs Racing twin-disc carbon clutch, paired with a custom 4.2:1 final drive ratio for optimized acceleration out of Monaco’s tight corners",
+    "Ohlins TTX36 MkII 2-way adjustable dampers with 400 lbs/in front and 350 lbs/in rear springs, combined with Dallara-specific Tillet carbon fiber monocoque reinforcement plates and a 3mm aluminum undertray for aerodynamic rigidity"
+  ],
+  "estetica": [
+    "Dallara F3-specific APR Performance GT-250 carbon fiber front splitter with integrated dive planes, designed for 120 kg of downforce at 200 km/h (tested in Dallara’s wind tunnel)",
+    "Custom 3D-printed titanium wheel centers for OZ Racing F3 Superleggera wheels (8x13 front, 10x13 rear) with a satin gold anodized finish and Pirelli P Zero Trofeo R tires (180/550 R13 front, 240/570 R13 rear)",
+    "Full carbon fiber bodywork replacement using Dallara’s official F3 carbon kit (part #F3-2023-BODY), including a rear diffuser with Gurney flaps and a 900mm-wide rear wing with adjustable carbon fiber endplates (30° angle of attack)"
+  ]
+}

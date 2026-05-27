@@ -1,0 +1,14 @@
+{
+  "brand": "DAIHATSU",
+  "model": "MOVE RS",
+  "prestazioni": [
+    "Engine swap to a **Toyota 1KR-FE (1.0L 3-cylinder, 12V VVT-i)** with a **Garrett GT12 turbocharger (40mm compressor wheel, 0.48 A/R turbine housing)** and **HKS Super SQV4 blow-off valve** for precise boost control at 0.8 bar (11.6 psi). Pair with a **Toda Racing forged crankshaft (78mm stroke)** and **JE Pistons 8.5:1 compression forged pistons** to handle the increased power output (~150 HP at the wheels).",
+    "Full **Toda Racing 1KR-FE billet camshafts (264° intake, 272° exhaust, 10.5mm lift)** with **Toda adjustable cam gears** and **Supertech valve springs/retainers** to optimize airflow for the turbocharged setup. Use a **Koyorad 2-row front-mount intercooler (300x150x60mm core)** with **Samco silicone hoses** for consistent intake temps.",
+    "**Haltech Elite 1500 ECU** with **AEM 3.5bar MAP sensor** and **Innovate Motorsports LC-2 wideband O2 controller** for real-time AFR monitoring. Pair with a **Daihatsu Move RS-specific custom wiring harness by Wireworks Japan** to retain OEM diagnostics while enabling full standalone control. Suspension overhaul with **Tein Flex Z coilovers (40-way adjustable damping, 30mm drop)** and **Ultra Racing 3-point strut bar (Move RS-specific)** for chassis rigidity."
+  ],
+  "estetica": [
+    "**Rocket Bunny Move RS widebody kit (Pandem Design, fiberglass construction)** with **custom 3M Gloss Black wrap** and **OEM Daihatsu Move RS side skirts (color-matched)** for aggressive stance. Front bumper lip replaced with **Seibon Carbon Fiber Type-3 lip** and **custom LED DRLs (Osram LEDriving SL 120)** integrated into the fog light housings.",
+    "**Work Emotion CR Kiwami 15x6.5 +38 wheels (185/50R15 Yokohama Advan Neova AD08R tires)** with **Daihatsu Move RS-specific extended wheel studs (12x1.25, 35mm length)** for flush fitment. Rear fenders rolled with **Eastside Co. fender rollers** and **custom rear diffuser (Seibon Carbon Fiber, 3-piece)** for aerodynamic balance.",
+    "**Custom interior roll cage (TIG-welded 4130 chromoly, 6-point, Move RS-specific design by AutoPower Japan)** with **Sparco Pro ADV seats (fixed-back, 15.4 lbs each)** and **Takata Drift III 4-point harnesses**. Steering wheel replaced with **NRG Innovations 350mm deep-dish wheel (suede, Move RS-specific quick-release hub)** and **custom gauge cluster (Defi Advance BF 60mm boost/water temp/oil pressure gauges)** mounted in a **carbon fiber A-pillar pod (Seibon).**"
+  ]
+}
