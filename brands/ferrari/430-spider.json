@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "430 SPIDER",
+  "prestazioni": [
+    "Engine: F136 E 4.3L V8 (90° naturally aspirated) – Full titanium internals upgrade with Carrillo H-beam connecting rods, JE forged pistons (12.5:1 compression), and a billet crankshaft from Manley Performance to handle 1,000+ HP on E85 with forced induction.",
+    "Forced Induction: Twin-turbo system using Garrett GTX5533R Gen II turbos (86mm compressor wheels) with custom 3D-printed Inconel exhaust manifolds by Gintani, paired with a Motec M150 ECU for precise boost control (1.5 bar peak) and anti-lag tuning.",
+    "Drivetrain: 6-speed F1 SuperFast paddle-shift transmission reinforced with a Quaife ATB differential (40% lock) and a custom carbon-fiber driveshaft from Pankl Racing Systems to eliminate parasitic loss and handle 800+ lb-ft of torque."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon-fiber body kit from Novitec Rosso (430 Spider-specific) including a 3-piece front splitter with integrated canards, side skirts with air curtains, and a GT3-style rear diffuser with active Gurney flap (adjustable via cockpit switch).",
+    "Wheels: Forged 20x9.5 ET35 front and 20x11.5 ET45 rear OZ Racing Ultraleggera HLT wheels (19.5 lbs each) wrapped in Michelin Pilot Sport Cup 2 R tires (245/30/20 front, 325/25/20 rear) with custom center-lock adapters for Ferrari’s OEM hubs.",
+    "Interior: Full Alcantara retrim by Sabelt including a custom roll cage (TIG-welded 4130 chromoly) with integrated fire suppression system (FireBottle 2x 5kg extinguishers), Sparco Pro 2000 seats with 6-point harnesses, and a digital dash upgrade using a Motec C127 display with live telemetry."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "400I",
+  "prestazioni": [
+    "Engine: Replace the stock 4.8L *F101A* V12 with a fully built *F101C* (from the 412) stroked to 5.2L using a *JE Pistons* forged crankshaft (82mm stroke) and *Mahle Motorsport* forged pistons (11.5:1 compression), paired with *Carrillo* H-beam connecting rods and *Ferrea* titanium valves. Port and polish the heads with *Supertech* valve springs and retainers for 9,000 RPM capability.",
+    "Forced Induction: Twin *Garrett GT4202* turbochargers (custom billet compressor wheels) with *Tial* 50mm wastegates and *TurboSmart* 60mm blow-off valves, feeding into a *Pectel SQ6M* standalone ECU with *Motec* PDM15 power distribution module. Custom *X-Force* 3.5-inch stainless steel exhaust with *Bosal* 200-cell catalytic converters and *Akrapovič* titanium mufflers for backpressure optimization.",
+    "Drivetrain: *OS Giken* 6-speed sequential gearbox with *PPG* straight-cut gears (1st-4th) and *Quaife* ATB differential. *Tilton* twin-plate ceramic clutch with *Spec* billet flywheel. *Brembo* GT-R 6-piston calipers with *DBA* 5000-series rotors (380mm front, 355mm rear) and *Ferodo* DS3000 pads, paired with *Goodridge* braided stainless steel lines."
+  ],
+  "estetica": [
+    "Body: *Novitec Rosso* widebody conversion kit (40mm front, 50mm rear fenders) with *Rocket Bunny* front splitter and *AeroTech* carbon fiber GT-style rear wing (adjustable 0-15 degrees). *Vorsteiner* carbon fiber hood with functional *Aeromotions* active rear diffuser (hydraulic actuation).",
+    "Interior: *Recaro* SPG XL seats with *Schroth* 6-point harnesses, *MOMO* *Mod.78* steering wheel (350mm) with *AiM* MXS 1.2 dash display. Full *Alcantara* retrim by *Saddleback Leather* with *Rolls-Royce* *Mulliner* wood veneer dashboard inserts and *Bowers & Wilkins* Diamond Series speakers (1,400W).",
+    "Lighting: *Lux* HID projector headlights with *Morimoto* *XB35* bulbs and *Diode Dynamics* sequential LED turn signals. *Oracle* *RGB+* underglow kit with *Philips* *Ultinon* Pro9000 LEDs for side markers and *GTR Lighting* *Ultra 2* fog lights with *Hella* *Micro DE* lenses."
+  ]
+}

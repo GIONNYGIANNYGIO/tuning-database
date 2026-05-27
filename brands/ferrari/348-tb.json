@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "348 TB",
+  "prestazioni": [
+    "Engine: F119H 3.4L V8 (Type F119) with a custom Motec M150 ECU reflash targeting 450+ hp via aggressive cam timing (280° duration, 12.5mm lift) and ported heads by Ferrari specialist GTO Engineering, paired with a custom 3.5\" stainless steel exhaust system by Capristo featuring 200-cell catalytic converters and titanium mufflers for optimized backpressure and sound tuning.",
+    "Forced induction: Single Garrett GT35R turbocharger (82mm compressor, 0.82 A/R turbine housing) with a custom air-to-water intercooler by Bell Intercoolers (4.5\" core, 1200cfm capacity) and a TiAL MV-R 44mm wastegate to manage boost at 1.2 bar (17.4 psi), supported by a custom fuel system with Bosch Motorsport 044 fuel pumps and ID1000 injectors (1000cc/min) for E85 compatibility.",
+    "Suspension: Öhlins TTX46 coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression) and custom valving for the 348 TB's double-wishbone front and rear setup, paired with spherical bearing upper control arms by Superformance and a 25mm front sway bar by Hotchkis for reduced body roll. Chassis stiffening via a full seam-welded subframe and a bolt-in roll cage by Custom Cages (T45 steel, 2.5\" diameter)."
+  ],
+  "estetica": [
+    "Aerodynamics: Full Rocket Bunny PB-F348 widebody kit with carbon fiber overfenders (3.5\" wider front, 4\" wider rear), custom front splitter with integrated canards, and a ducktail spoiler by Novitec Ferrari, all finished in matte Ferrari Rosso Corsa (PPG DMC 998).",
+    "Wheels: OZ Racing Ultraleggera HLT 18x9.5\" (ET25) front and 18x11\" (ET35) rear, wrapped in Michelin Pilot Sport Cup 2 tires (245/40/18 front, 295/35/18 rear) with custom center-lock adapters by BBS for Ferrari bolt pattern compatibility.",
+    "Interior: Full Alcantara retrim by Saddleback Leather, including dashboard, door cards, and Recaro SPG-K seats (carbon fiber shells, FIA-approved 6-point harnesses by Schroth), paired with a custom MOMO Prototipo steering wheel (380mm diameter, suede grip) and a digital dash by AIM MXS Strada with GPS lap timer and data logging for the F119H engine."
+  ]
+}

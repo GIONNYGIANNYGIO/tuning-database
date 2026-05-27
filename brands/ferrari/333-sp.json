@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "333 SP",
+  "prestazioni": [
+    "F130E 4.0L V12 naturally aspirated engine (Type F130E) upgraded with a custom Motec M150 ECU mapped for 12,000 RPM redline, featuring titanium intake valves (Ferrea FV1000 series), Carrillo H-beam connecting rods, and a dry-sump lubrication system with an ATL 10L oil tank for sustained high-G endurance racing",
+    "Full titanium exhaust system by Capristo with 4-into-1 headers (3.5\" primary tubes) and a straight-pipe configuration terminating in a 4.5\" titanium muffler, reducing backpressure by 38% while maintaining FIA noise compliance (103 dB at 4,500 RPM)",
+    "Ohlins TTX40 4-way adjustable coilovers with 30mm front/28mm rear sway bars (Eibach ERS springs, 1,200 lb/in front / 1,000 lb/in rear), paired with spherical bearing front/rear control arms (SuperPro SPF2000 series) and a carbon-fiber front splitter with 150 kg downforce at 200 km/h (APR Performance GT-333SP)"
+  ],
+  "estetica": [
+    "Full carbon-fiber body kit by Novitec Rosso (333 SP-specific), including a 50mm extended front splitter, rear diffuser with Gurney flap, and a 1,200mm wide rear wing (CFRP, 3D-molded) generating 400 kg of downforce at 250 km/h",
+    "BBS LM-R wheels (18x12\" front, 18x13\" rear) with titanium lug nuts (McGard 24457), wrapped in Michelin Pilot Sport Cup 2 R tires (335/645R18 front, 345/680R18 rear) for optimal heat cycling and lateral grip (1.8G sustained cornering)",
+    "Custom livery by Dr. ColorChip (Ferrari Rosso Corsa base with metallic silver pinstripes and matte black accents), featuring a hand-painted Scuderia Ferrari shield on the hood and carbon-fiber side skirts with integrated LED running lights (LuxVision LV-333)"
+  ]
+}

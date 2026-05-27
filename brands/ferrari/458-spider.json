@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "458 SPIDER",
+  "prestazioni": [
+    "Engine: F136FB 4.5L V8 (90° naturally aspirated) with a custom Novitec Rosso N-Tronic ECU reflash, optimizing ignition timing and fuel maps for 650+ HP (stock: 562 HP) while retaining OEM reliability. Includes a Novitec high-flow air intake with carbon fiber heat shielding and a bespoke 3.5\" diameter titanium exhaust system by Capristo, featuring electronically controlled bypass valves for track/cruise modes.",
+    "Forced Induction: Single-turbo conversion using a Garrett GTX4202R turbocharger (84mm compressor, 64mm turbine) with a custom Novitec billet aluminum intake manifold, upgraded fuel system with Bosch Motorsport 1,200cc injectors, and a Radium Engineering fuel surge tank to prevent starvation under lateral G-forces. Intercooler: PWR Australia 4.5L front-mount unit with dual 120mm cores and CNC-machined end tanks for optimized airflow.",
+    "Suspension & Handling: Öhlins TTX46 coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression) and 20mm adjustable ride height. Front and rear anti-roll bars upgraded to H&R Motorsport adjustable units (24mm front, 22mm rear). Brembo GT-R monoblock calipers (6-piston front, 4-piston rear) with 410mm carbon-ceramic rotors and Ferodo DS2500 brake pads for track use."
+  ],
+  "estetica": [
+    "Aero: Novitec Rosso 458 Spider-specific widebody kit with carbon fiber front splitter, side skirts, and rear diffuser, paired with a custom Novitec rear wing (adjustable angle, 3D-printed titanium supports). Front bumper modified with a 3D-printed carbon fiber air curtain to reduce drag by 8% at 200+ km/h.",
+    "Wheels: HRE P101SC 20x9.5\" (front) and 21x12.5\" (rear) forged wheels with custom Ferrari-specific offsets (+25mm front, +30mm rear) and Michelin Pilot Sport Cup 2 R tires (245/35 ZR20 front, 325/30 ZR21 rear). Wheel spacers: H&R TRAK+ 15mm hub-centric spacers for improved track stance.",
+    "Interior: Full Alcantara retrim by Sabelt, including custom 458 Spider-specific racing seats with integrated 6-point harnesses (Sabelt 600 Series). Steering wheel replaced with a MOMO Mod.70 carbon fiber unit with integrated AIM MXS Strada data logger and quick-release hub. Shift paddles upgraded to titanium units by Novitec with custom anodized gold accents."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "365 GTB/4 DAYTONA",
+  "prestazioni": [
+    "Engine: Colombo Tipo 251 4.4L V12 (F102A) with forged Mahle pistons (9.3:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from GTO Engineering for 500+ hp reliability at 8,500 RPM",
+    "Forced induction: Custom-built twin-turbo system using Garrett GT35R turbos (0.82 A/R turbine housings) with TiAL MV-R 44mm wastegates, custom intercoolers by Bell Intercoolers, and a bespoke intake manifold by Velocity Motorsports with individual throttle bodies (ITBs) per cylinder",
+    "Fuel & Ignition: Full sequential fuel injection conversion using Bosch Motorsport 0280158001 injectors (1,000cc/min), Motec M150 ECU with custom Daytona-specific firmware, and MSD 8511 ignition coils with NGK R7437-9 racing plugs gapped at 0.024\""
+  ],
+  "estetica": [
+    "Bodywork: Full carbon fiber replica of the 1973 Ferrari 365 GT4 BB Daytona Spyder conversion by Michelotto, including widened fenders (30mm per side), custom front splitter with integrated canards, and a rear diffuser by Novitec",
+    "Wheels: Forged OZ Racing Daytona-spec wheels (16x8.5\" front, 16x10.5\" rear) with custom offsets (-15mm front, +5mm rear) wrapped in Pirelli P Zero Corsa tires (225/50R16 front, 285/40R16 rear)",
+    "Interior: Full Alcantara retrim by Saddleback Leather with Daytona-specific stitching, custom roll cage by Matter Fab (chromoly, TIG-welded, 1.5\" diameter tubing), and a MOMO Prototipo Daytona steering wheel (380mm diameter, suede grip)"
+  ]
+}

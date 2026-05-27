@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "430 GT2",
+  "prestazioni": [
+    "Engine: F136 E 4.3L V8 (4308cc) with a custom Gintani Engineering Stage 3+ race-spec stroker kit (4.5L displacement, forged Mahle pistons, Carrillo H-beam rods, and a billet crankshaft) paired with a dry-sump lubrication system from Dailey Engineering to handle 9,500 RPM redline and 650+ HP on VP Racing Q16 fuel.",
+    "Forced Induction: Twin-turbo setup using Garrett GTX5533R Gen II turbos (86mm compressor wheels, .96 A/R turbine housings) with TiAL MV-R 44mm wastegates and a custom 4.5-inch stainless steel intercooler core from PWR, plumbed with -4AN Teflon-lined hoses from XRP and a dual Bosch 044 fuel pump setup with Radium Engineering surge tanks.",
+    "Drivetrain: 6-speed F1 sequential gearbox with a G-Force GSR-600 dog-ring transmission (straight-cut gears, billet shafts) and a Tilton triple-plate carbon clutch with a 3.73:1 final drive ratio. Custom half-shafts from The Driveshaft Shop with CV joints rated for 1,200 Nm of torque, paired with a Quaife ATB differential with 75% lockup under load."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon fiber GT2-spec body kit from Ferrari Corse Clienti, including a 3D-scanned front splitter with integrated dive planes, a rear diffuser with active Gurney flap (adjustable via cockpit switch), and a fixed rear wing with a 1,200mm span and 300mm chord, constructed from pre-preg autoclave carbon fiber (12K twill weave) with titanium mounting hardware.",
+    "Exterior: Custom livery by Varis Japan, featuring a matte Bianco Fuji pearlescent base with hand-painted Rosso Corsa and Nero Daytona stripes (20mm width, pinstriped by hand), paired with OZ Racing Ultraleggera HLT wheels (19x11 front, 19x13 rear) in a custom gold-bronze finish with Ferrari Scuderia center caps and Michelin Pilot Sport Cup 2 R tires (305/645 R19 front, 345/680 R19 rear).",
+    "Interior: Full FIA-spec roll cage from Matter Motorsport (T45 steel, MIG-welded, with integrated door bars and harness mounts), paired with a Sparco Pro 2000 seat (carbon fiber shell, Kevlar honeycomb core) and a 6-point Schroth Profi II-6 ASM harness. Custom Alcantara-wrapped MOMO Mod.78 steering wheel with a 320mm diameter and integrated AIM MXS Strada dash display (12-inch, 60Hz refresh rate)."
+  ]
+}

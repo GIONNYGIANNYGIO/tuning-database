@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "355 BERLINETTA",
+  "prestazioni": [
+    "Engine: F129B 3.5L V8 (375hp stock) – Full titanium internals upgrade with Carrillo forged H-beam connecting rods (P/N: CR-87356-TI), JE Pistons 9.5:1 compression forged pistons (P/N: 261850), and a billet crankshaft from Ferrarispeed (P/N: FS-F129B-CRANK). Pair with a custom dry-sump system by Dailey Engineering (P/N: DE-F355-DS) for 8L capacity and -10AN fittings to eliminate oil starvation under lateral G-forces.",
+    "Forced Induction: Twin-turbo setup using Garrett GT3076R ball-bearing turbos (P/N: 743307-5002S) with TiAL MV-R 44mm wastegates (P/N: MVR44) and custom 3.5\" stainless steel exhaust manifolds by Novitec (P/N: NOV-F355-TT-MANIFOLD). Intercooling via a PWR USA front-mount intercooler (P/N: PWR-100001) with 4.5\" inlet/outlet and integrated water spray kit for heat soak mitigation. Target boost: 1.2 bar (17.4 psi) with a Motec M150 ECU (P/N: M150-F355) for sequential fuel injection control and anti-lag.",
+    "Suspension & Handling: Full Öhlins TTX46 coilovers (P/N: ÖHL-TTX46-F355) with 24-position rebound and 22-position compression damping, paired with Eibach ERS 1000N/mm helper springs (P/N: EIB-2000.250.0100). Chassis reinforcement via a Cusco bolt-in roll cage (P/N: CUS-F355-RC) with integrated strut tower braces and a custom carbon fiber front splitter by 991 Racing (P/N: 991-F355-SPLITTER) for aero balance. Braking: AP Racing CP8650 calipers (P/N: CP8650-1S) with 380mm two-piece rotors and Ferodo DS3000 pads (P/N: FDB2062)."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion using the Liberty Walk LB-WORKS F355 kit (P/N: LB-F355-V2), including extended front fenders, rear quarter panels, and a ducktail spoiler. Paint: Custom PPG 'Rosso Corsa Metallic' (P/N: PPG 9300) with matte black accents on the lower cladding and gold-pinstriped edges by Dr. ColorChip (P/N: DCC-F355-KIT).",
+    "Wheels: HRE P101 3-piece forged wheels (P/N: HRE-440355903F) in 19x9.5\" front and 19x12\" rear, with custom offsets (+15mm front, +30mm rear) to fill the Liberty Walk fenders. Tires: Michelin Pilot Sport Cup 2 R (P/N: 275/30ZR19 front, 345/30ZR19 rear) for track-focused grip. Finish: Gloss black centers with polished lips and Ferrari ‘Cavallino Rampante’ center caps by HRE (P/N: HRE-FERRARI-CAP).",
+    "Interior: Full Alcantara retrim by Sabelt (P/N: SAB-F355-INT) including dashboard, door cards, and Recaro SPG XL seats (P/N: RECARO-385.200) with 6-point Schroth Profi II harnesses (P/N: SCH-6213). Steering wheel: MOMO Prototipo (P/N: MOMO-001.12.101) with integrated Motec C127 dash display (P/N: MOTEC-C127-F355) and quick-release hub. Shift knob: Custom titanium billet by Novitec (P/N: NOV-F355-SHIFT) with engraved ‘F129B’ script."
+  ]
+}

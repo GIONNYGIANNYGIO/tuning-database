@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "456 M GT",
+  "prestazioni": [
+    "F133 A V12 engine: Full titanium internals upgrade with Carrillo forged connecting rods (H-beam, 6.123\" length, 220g weight reduction per rod), JE Pistons custom forged 11.5:1 compression ratio slugs (92mm bore, 80mm stroke), and a billet crankshaft from Bryant Racing (4.25\" stroke, 105mm main journals) to handle 8,500 RPM reliably with a 1,200+ HP target on E85.",
+    "Custom forced induction system: Twin Precision Turbo PT6766CE turbochargers (67mm compressor, 66mm turbine, 1.15 A/R) with TiAL MV-R 44mm wastegates and a custom air-to-water intercooler setup (PWR Advanced Cooling, 12-row core, 3.5\" thick) mounted in the front bumper with dual 120mm Spal fans for consistent IATs under 40°C.",
+    "Fuel and ignition system: Full Motec M150 ECU with a custom 12-layer PCB for Ferrari-specific CAN bus integration, paired with a dual Bosch Motorsport 044 high-flow fuel pump setup (1,200 LPH total), Injector Dynamics ID2000x injectors (2,000cc/min), and a Nitrous Express direct-port nitrous kit (150-shot progressive, 1,000 HP capable) with MSD 8 Plus ignition coils and NGK R847-10 spark plugs (0.028\" gap)."
+  ],
+  "estetica": [
+    "Custom widebody conversion: Novitec Rosso 456 M GT-specific carbon fiber fender flares (3.5\" wider front, 4.5\" wider rear) with integrated LED turn signals and a custom front splitter (3D-printed carbon fiber, 3-piece design) featuring a 2.5\" overhang and 50mm dive planes for 150kg of downforce at 200 km/h.",
+    "Rear diffuser and wing: Vorsteiner GT-spec carbon fiber rear diffuser (3-piece, 120mm height) with integrated titanium exhaust outlets (custom 3.5\" diameter, Inconel 625 material) and a GT3-inspired rear wing (Rocket Bunny RB-W001, 1,800mm width, 300mm chord, adjustable 0-20° angle) mounted on billet aluminum pedestals (AeroFab, 6061-T6, 12mm thickness).",
+    "Interior and lighting: Full Alcantara retrim with Ferrari 488 GTB-style carbon fiber door cards (custom-molded, 3K twill weave) and a digital dash upgrade (Aim MXS 1.2 Strada, 5\" display) integrated into the original gauge cluster housing. Exterior lighting includes custom Hella Rallye 3000 Supertones (55W H3 bulbs, 100W ballasts) with DRL conversion (Lux H8 LED, 6,000K) and sequential turn signals (VLand, 12x SMD LEDs per side)."
+  ]
+}

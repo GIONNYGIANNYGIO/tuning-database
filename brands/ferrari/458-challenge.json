@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "458 CHALLENGE",
+  "prestazioni": [
+    "Engine: F136FB 4.5L V8 (90° naturally aspirated) with a bespoke Challenge-spec dry sump system, upgraded to 600+ hp via a Motec M150 ECU reflash with race-grade fuel mapping (E85 compatible) and a custom titanium intake manifold by Novitec Rosso, featuring optimized plenum volume for 9,000+ RPM power delivery",
+    "Forced induction: Single-turbo conversion using a Garrett GTX5533R Gen II turbocharger (86mm compressor, 1.15 A/R turbine housing) with a custom 3.5\" stainless steel exhaust system by Capristo, incorporating a straight-pipe design with a bypass valve for backpressure control and a secondary catalytic converter delete (track-only)",
+    "Suspension: Öhlins TTX40 4-way adjustable coilovers with Challenge-spec spring rates (18kg/mm front, 22kg/mm rear) and spherical bearing top mounts by Cusco, paired with a Ferrari Corse-derived front strut brace and a carbon fiber rear subframe reinforcement by 991 Racing"
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon fiber Challenge Evo aero kit by Ferrari Corse, including a revised front splitter with integrated dive planes, a rear diffuser with gurney flap, and a 200-cell GT3-spec rear wing (adjustable angle of attack from 0° to 12°) with titanium mounting hardware",
+    "Bodywork: Custom 3M Matte Graphite vinyl wrap with Ferrari Rosso Corsa accents on the mirror caps, front grille, and rear diffuser, paired with a lightweight carbon fiber hood (with integrated NACA ducts) by Novitec Rosso and a rear bumper delete for a diffuser-only exit",
+    "Wheels: HRE FF16 3-piece forged wheels (19x11 front, 19x12 rear) with titanium hardware, wrapped in Pirelli P Zero Trofeo R tires (285/35/19 front, 325/30/19 rear) and fitted with Brembo GT-R calipers (6-piston front, 4-piston rear) with carbon-ceramic rotors (400mm front, 380mm rear) and steel-braided brake lines by Goodridge"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "348 GT COMPETIZIONE",
+  "prestazioni": [
+    "Engine: F119H 3.4L V8 (Type F119) with a custom Gintani Engineering Stage 3+ stroker kit (3.8L displacement, forged Mahle pistons, Carrillo H-beam rods, and a billet crankshaft) paired with a custom GT40-spec dry-sump system from Aviaid to eliminate oil starvation under lateral G-forces exceeding 1.2G.",
+    "Forced Induction: Single Garrett GTX4202R turbocharger (84mm compressor, 64mm turbine) with a custom 3D-printed Inconel exhaust manifold by SMS Engineering, mated to a Tial MV-R 44mm external wastegate and a custom air-to-water intercooler setup (PWR Racing) with a Bosch Motorsport 0280158802 high-flow water pump for consistent intake temps under 40°C at 1.5 bar boost.",
+    "Fuel & Ignition: Full Motec M150 ECU with a custom 348-specific calibration by VAC Motorsports, running dual Bosch Motorsport 0280158002 high-impedance injectors per cylinder (12 total) and a Radium Engineering dual-pump fuel surge tank with twin Walbro 450LPH pumps. Ignition system upgraded to MSD 8516 coils with NGK R847-10 iridium spark plugs gapped at 0.022\" for optimized combustion under high-boost conditions."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion using the 348 GT Competizione-specific Rocket Bunny V2 kit (Pandem Design), including extended front fenders, aggressive side skirts, and a custom rear diffuser with integrated Gurney flap for downforce optimization at speeds above 180 mph.",
+    "Aerodynamics: Custom 3D-printed front splitter by APR Performance with adjustable dive planes (carbon fiber, 3mm thickness) and a fixed-position rear wing (9 Lives Racing GT3-spec, 1,800mm width, 300mm chord) mounted on billet aluminum pedestals for a 30% increase in downforce at 200 km/h without sacrificing top-speed stability.",
+    "Interior: Full Alcantara retrim by Sabelt, including a custom 348-specific roll cage (MCS Motorsport, FIA 8862-2009 certified) with integrated fire suppression system (Lifeline Zero 360, plumbed to all critical areas). Seats replaced with Sparco Pro 2000 FIA-homologated buckets, and the steering wheel upgraded to a MOMO Mod.70 (350mm diameter, suede-wrapped) with a quick-release hub for easy egress."
+  ]
+}

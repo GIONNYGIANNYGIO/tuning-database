@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "456M GTA",
+  "prestazioni": [
+    "F131B 5.5L V12 engine: Replace the stock ECU with a **Motec M150** standalone management system, calibrated for aggressive ignition timing (12° BTDC at 6,000 RPM) and a custom fuel map utilizing **ID1000x injectors** (1,000cc/min) to support a 12.5:1 compression ratio with **VP Racing C16** fuel, paired with a **Tial MV-R 60mm wastegate** for boost control (if forced induction is later added).",
+    "Forced induction via **Rotrex C38-91 supercharger** (8.5 psi max boost) with a **custom billet aluminum intake manifold** (designed by **Novitec Rosso**) and **Ferrea F15 racing valves** (intake: 52mm, exhaust: 42mm) to handle increased airflow, coupled with a **GReddy intercooler kit** (front-mount, 12-row core) and **Samco Sport silicone hoses** for durability.",
+    "Drivetrain upgrades: **OS Giken Super Lock LSD** (2.73:1 final drive ratio) with **Peloquin differential gears** (40% lockup under load), paired with a **Tilton 7.25\" twin-disc clutch** (ceramic-metallic friction material) and **AP Racing CP8660 calipers** (6-piston front, 4-piston rear) with **Ferodo DS3000 pads** and **Brembo GT 380mm slotted rotors** for consistent braking under track conditions."
+  ],
+  "estetica": [
+    "Bodywork: **Novitec Rosso 456M GT-S widebody kit** (carbon fiber fenders, front splitter, and rear diffuser) with **custom 3M Matte Graphite vinyl wrap** (applied by **Vinyl Frog**), featuring **Rocket Bunny-style overfenders** (hand-laid fiberglass) to accommodate **OZ Racing Ultraleggera HLT wheels** (20x10.5 ET35 front, 20x12 ET45 rear) with **Michelin Pilot Sport Cup 2 tires** (275/30/20 front, 325/25/20 rear).",
+    "Aerodynamics: **Vorsteiner V-FF 102 front lip spoiler** (carbon fiber) and **Novitec Rosso rear wing** (dual-element, adjustable angle up to 15°), paired with **custom underbody diffusers** (3D-printed ABS plastic) to reduce lift by 30% at 180 mph, validated via **A2 Wind Tunnel testing**.",
+    "Interior: **Recaro Pole Position SPG XL seats** (carbon-Kevlar shell, Alcantara/leather upholstery) with **Schroth Profi II 6-point harnesses**, **Momo Prototipo steering wheel** (350mm diameter, suede grip), and **custom digital dash** (Aim MXS 1.2 Strada) replacing the stock analog cluster, featuring **Bosch LSU 4.9 wideband O2 sensors** for real-time AFR monitoring."
+  ]
+}

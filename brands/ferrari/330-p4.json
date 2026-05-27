@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "330 P4",
+  "prestazioni": [
+    "Engine: Type 237 4.0L V12 (60° DOHC, 24 spark plugs, 4 Weber 42DCN carburetors) – Replace stock 42DCN carbs with a bespoke fuel injection system using Bosch Motronic MS 3.1 ECU and individual throttle bodies (ITBs) from Jenvey Dynamics (48mm diameter, CNC-machined from billet aluminum) paired with a custom intake manifold fabricated by HPE (High Performance Engineering) to optimize airflow for the 60° V12 architecture.",
+    "Forced Induction: Twin-turbocharged setup using Garrett GTX5533R Gen II turbos (82mm compressor, 1.15 A/R turbine housing) with custom 3D-printed titanium exhaust manifolds by Capristo, designed to retain the original header length while accommodating turbo placement. Intercooling via a dual-core air-to-water system from PWR (Australia), with a 10L capacity reservoir and a secondary heat exchanger mounted in the front splitter.",
+    "Drivetrain: Reinforced 5-speed transaxle (Type 543) with a custom Quaife ATB differential (85% lock) and a lightweight carbon-fiber driveshaft from GKN Driveline. Clutch system upgraded to a twin-plate setup by Tilton Engineering (7.25\" diameter, cerametallic friction material) with a hydraulic release bearing and a billet aluminum flywheel from Fidanza (12.5 lbs)."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon-fiber body kit by AutoCraft (UK), including a revised front splitter with integrated dive planes, a rear diffuser with active Gurney flap (adjustable via cockpit switch), and a rear wing derived from the Ferrari 488 GTE, but scaled to 330 P4 dimensions (1,800mm width, 300mm chord) with a 3D-printed titanium support structure by CRP Technology.",
+    "Wheels: Custom 18x12\" (front) and 18x14\" (rear) magnesium wheels by Dymag, featuring a center-lock design and a bespoke 5-spoke pattern inspired by the original 330 P4's Borrani wire wheels. Tires: Michelin Pilot Sport Cup 2 R (295/680 R18 front, 345/710 R18 rear) with a custom compound developed for vintage endurance racing.",
+    "Interior: Full carbon-fiber monocoque tub reinforcement by Bcomp (flax fiber composite) for weight reduction and safety. Seats: Custom Sparco Pro ADV seats with 6-point harnesses (Schroth Profi II) and a MOMO Mod.78 steering wheel (380mm diameter, Alcantara-wrapped) featuring a quick-release hub. Instrumentation: Motec C187 dash logger with integrated GPS lap timer and a custom analog tachometer (0-12,000 RPM) by Stack Instruments."
+  ]
+}

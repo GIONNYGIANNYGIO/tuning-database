@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "348 COMPETIZIONE",
+  "prestazioni": [
+    "Engine: F119H 3.4L V8 (Type F119) with forged internals including Carrillo H-beam connecting rods, JE Pistons 12.5:1 compression forged pistons, and a billet crankshaft from Ferramonte for 9,000 RPM reliability. Pair with a custom Gintani titanium valve train (valves, retainers, and springs) to handle aggressive cam profiles from Schrick (292° intake / 296° exhaust with 12.5mm lift).",
+    "Forced Induction: Single Garrett GTX4202R turbocharger with a custom 3D-printed titanium exhaust manifold by Capristo, paired with a Tial MV-R 44mm external wastegate and a custom air-to-water intercooler setup from Bell Intercoolers, plumbed with -8AN AEROQUIP Startlite hoses. Fuel system upgraded with dual Bosch Motorsport 044 high-flow fuel pumps, Injector Dynamics ID2000 injectors, and a Motec M150 ECU with custom mapping for 650+ HP on 98 RON fuel.",
+    "Drivetrain & Suspension: 6-speed manual transmission with a Quaife ATB differential and a custom lightweight flywheel from Fidanza. Suspension overhaul with Ohlins TTX40 coilovers (3-way adjustable) and spherical bearing suspension arms from Superformance. Braking system includes Brembo GT 6-piston calipers with 380mm two-piece rotors (floating, slotted) and Ferodo DS3000 pads, paired with stainless steel braided lines from Goodridge."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion using the 348 GT Competizione kit from Novitec (includes extended front fenders, rear quarter panels, and a custom front splitter with integrated canards). Rear diffuser from RW Carbon with integrated exhaust exits for the Capristo 3.5-inch titanium exhaust system. Custom rear wing from APR Performance (GT-500 style, 3D-printed carbon fiber).",
+    "Interior: Full Alcantara retrim by Saddleback Leather, including dashboard, door cards, and Recaro SPG-K seats (carbon fiber shells, FIA-approved). Custom roll cage from Matter Fab (TIG-welded chromoly, bolt-in design with integrated harness bars). Steering wheel replaced with a MOMO Prototipo (350mm, suede) and a custom quick-release hub from NRG Innovations.",
+    "Wheels & Aero: Front: 18x10.5 ET25 with 265/35/18 Michelin Pilot Sport Cup 2 tires; Rear: 18x12 ET35 with 305/30/18 tires. Wheels are custom 3-piece forged units from HRE (FF01 model, gold centers with polished lips). Aero includes a custom front splitter with integrated dive planes from 991 GT3 RS (adapted for 348) and a rear diffuser with active Gurney flap from Vorsteiner."
+  ]
+}

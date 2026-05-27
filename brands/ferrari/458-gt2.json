@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "458 GT2",
+  "prestazioni": [
+    "F142C 4.5L V8 (90° naturally aspirated) with a custom Motec M150 ECU reflash optimized for GT2-spec camshafts (290° intake / 280° exhaust duration, 12.5mm lift) and a titanium Akrapović 4-2-1 exhaust manifold with 48mm primary tubes, reducing backpressure by 18% while retaining GT2-class compliance",
+    "Ohlins TTX40 4-way adjustable dampers with 25mm front / 28mm rear sway bars (Eibach Pro-Kit springs, 20% stiffer than GT3-spec) and a custom carbon fiber front splitter with integrated Gurney flap (AP Racing 6-piston calipers, 398mm CCM-R rotors)",
+    "Garrett GT28RS turbocharger (GT2 homologation kit) with a custom intercooler (PWR 4.5L core, 30% larger than GT3-spec) and a Bosch Motorsport 750cc/min fuel pump (dual injectors, ID1000 secondary injectors) for 650hp on 102 RON fuel (GT2 BoP limit)"
+  ],
+  "estetica": [
+    "Rocket Bunny GT2-widebody kit (carbon fiber, 50mm front / 70mm rear fender flares) with a custom livery in Ferrari Corse Red (Rosso Corsa, 3-layer pearl) and gold OZ Racing Ultraleggera GT2 wheels (18x12 +25 front, 18x13 +35 rear, 5x112 PCD)",
+    "Custom carbon fiber rear diffuser (GT2-spec, 3-stage Gurney flaps) with integrated LED taillights (Osram 12V 5W, GT2 endurance racing homologation) and a removable polycarbonate rear wing (3D-printed airfoil, 1.2m span, 20° adjustable angle)",
+    "Recaro SPG-GT2 seats (carbon-Kevlar shell, 6-point Schroth harnesses) with a custom MOMO Mod.78 steering wheel (suede, 320mm diameter, GT2-spec quick-release hub) and a digital AIM MXS 1.2 dash (GT2 data logging, 120Hz refresh rate)"
+  ]
+}

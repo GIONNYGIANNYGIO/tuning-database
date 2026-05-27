@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "312 T2 F1",
+  "prestazioni": [
+    "Replacement of the original **Tipo 015** 3.0L flat-12 engine with a **Ferrari 312B-derived Tipo 015/2** block, bored to 3.3L (92.0mm bore x 64.5mm stroke) and reinforced with **Mahle Motorsport forged pistons** (11.5:1 compression ratio) and **Pankl Racing Systems titanium connecting rods** for 12,500 RPM reliability",
+    "Installation of a **Weber 48 IDF3** carburetor setup (replacing the original 48 IDF2s) with **TWM Induction velocity stacks** and **K&N 90mm conical air filters**, paired with a **Magneti Marelli Dinoplex CDI ignition system** (upgraded from the original transistorized unit) for optimized fuel atomization at high RPM",
+    "Chassis reinforcement via **T45 steel tubular subframe** (replacing the original aluminum monocoque sections) and **Brembo GP4 racing brake calipers** (6-piston front, 4-piston rear) with **Ferodo DS4000 carbon-metallic pads** and **AP Racing 280mm ventilated discs**, coupled with **Ohlins TTX40 MkII 3-way adjustable dampers** (revalved for 1976-spec Firestone racing tires)"
+  ],
+  "estetica": [
+    "Replication of the **1976 Scuderia Ferrari livery** with **3M Scotchcal 1080 vinyl wrap** (Matte Rosso Corsa base, **Pantone 185 C** accents) and **hand-painted Puma, Agip, and Goodyear decals** (authentic 1:1 scale, sourced from **Ferrari Classiche archives**)",
+    "Installation of a **custom **Scuderia Ferrari 312 T2-specific** **Rear Wing** (fabricated from **Aerodine Composites 3K twill carbon fiber**, 12° adjustable angle) with **integrated Gurney flaps** (3mm height) for 15% increased downforce at 220 km/h",
+    "Replacement of the original **FISA-mandated 1976 safety fuel cell** with a **FT3-1999-spec ATL fuel bladder** (220L capacity, **self-sealing foam lining**) and **custom **Ferrari 312 T2** **sidepod intakes** (modeled after the **1976 Austrian GP upgrade**) with **CNC-machined aluminum mesh screens** (0.8mm gauge, **anodized gold** for heat dissipation)"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "355 CHALLENGE RACE SPEC",
+  "prestazioni": [
+    "F129B 3.5L V8 (Type F129C for Challenge spec) dry-sump conversion with Carrillo H-beam forged connecting rods (600g each) and JE Pistons 12.5:1 compression forged pistons, paired with a custom billet crankshaft by VAC Motorsports for 9,000 RPM redline stability",
+    "Motec M190 ECU with Ferrari 355 Challenge-specific firmware (revised ignition timing maps for 102-octane race fuel, individual cylinder fuel trims, and launch control optimized for slick tires), integrated with a Pectel SQ6M dash logger for real-time telemetry",
+    "Twin Garrett GT2860RS-5 turbochargers (ball-bearing, 0.64 A/R turbine housings) with custom 3D-printed titanium exhaust manifolds by Capristo, feeding into a secondary catalytic converter delete system with Inconel 625 downpipes and a custom 3.5-inch titanium exhaust by Novitec"
+  ],
+  "estetica": [
+    "Full carbon fiber body kit by Challenge Stradale homologation parts (front splitter, side skirts, and rear diffuser with integrated brake cooling ducts), including a custom 3D-printed carbon fiber rear wing by 991 Racing (adjustable angle of attack for high-speed stability)",
+    "OMP Challenge-spec FIA 8862-2018 certified carbon fiber racing seats with Schroth 6-point harnesses, paired with a custom roll cage by Matter Italy (chromoly steel, TIG-welded, with integrated fire suppression system ports)",
+    "BBS CH-R II 18x11.5 (front) and 18x13 (rear) forged wheels with custom center-lock adapters, wrapped in Pirelli P Zero Trofeo R tires (275/35 R18 front, 325/30 R18 rear) and paired with Brembo GT-R monobloc calipers (6-piston front, 4-piston rear) with 380mm carbon-ceramic rotors"
+  ]
+}

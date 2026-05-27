@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "365 P2",
+  "prestazioni": [
+    "Engine: Replace the original *Tipo 237* 4.4L V12 (210x71mm bore/stroke) with a fully machined *Tipo 246* 4.9L V12 block (230x71mm bore/stroke) from a Ferrari 512S, retaining the original *Tipo 237* cylinder heads but ported to 48mm intake/42mm exhaust valves with *Ferrea F6000* titanium valves and *Crower* titanium retainers. Compression ratio increased to 12.5:1 via custom *JE Pistons* forged 2618 alloy pistons with *Total Seal* gapless rings.",
+    "Forced Induction: Twin *Garrett GTX5533R* turbochargers (88mm compressor, 76mm turbine) with *Tial MV-R* 60mm wastegates and *Precision Turbo* 50mm external wastegate dump tubes. Custom *Spearco* air-to-water intercoolers (1200cfm flow) with *Moroso* 10-gallon ice reservoirs and *Meziere* 250W water pumps. Boost pressure set to 2.2 bar (32 psi) via *AEM CD-7* standalone ECU with *Motec M150* backup.",
+    "Drivetrain: *Hewland LG600* 5-speed sequential transaxle with *AP Racing* 5.5in triple-plate carbon clutch and *Quaife* ATB differential (70% lock). *GKN* CV joints with *Neapco* 300M steel driveshafts. *Penske* 8760 double-adjustable coilovers with *Eibach* 1200lb/in springs and *Whiteline* spherical bearing suspension arms."
+  ],
+  "estetica": [
+    "Body: *RML Group* 1965 Le Mans-spec fiberglass body kit with *Zylon* side-impact reinforcement and *3M* 1080 vinyl wrap in *Rosso Corsa* with *PPG* clear coat. *Aerokit* front splitter and *Rear diffuser* from *Liberty Walk* (modified for 365 P2 chassis) with *Vortex Generators* from *Aeroflow Dynamics*.",
+    "Interior: *Sparco* 6-point harnesses with *Schroth* HANS-compatible mounts. *Recaro* Pole Position seats (carbon-Kevlar shell) with *Alcantara* upholstery and *MOMO* 350mm suede steering wheel. *Aim Solo 2 DL* data logger with *Racepak* IQ3 dash and *Bosch* LSU 4.9 wideband sensors.",
+    "Lighting: *Hella* 500FF driving lights (7-inch, 8000-lumen) with *Cibie* Oscar rally lenses. *LED* taillights from *Lux Vision* with *DRL* strips integrated into the front splitter. *Painless Wiring* 20-circuit harness with *Deutsch* connectors and *Optima* YellowTop battery."
+  ]
+}

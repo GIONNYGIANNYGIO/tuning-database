@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "330 P3",
+  "prestazioni": [
+    "Engine: Replace the original *Tipo 216* 4.0L V12 (3967cc) with a fully machined and balanced *Tipo 216B* block featuring forged Mahle pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from *Ferrari Classiche* for 4500+ rpm reliability. Pair with a *Weber 45 IDA* triple-throat carburetor setup (replacing the original 40 DCN) with velocity stacks from *ITG* and a custom *Tubi Style* 4-into-1 exhaust manifold wrapped in *DEI Titanium* heat wrap to optimize scavenging.",
+    "Forced Induction: Install a *Garrett GT2860RS* turbocharger (T25 flange) with a *Tial MV-R* 44mm wastegate and *Precision Turbo* 45mm external bypass valve, mated to a *GReddy* intercooler (front-mount, 12-row core) and *AEM* 3.5-bar MAP sensor. Custom *Ferrari 250 GTO*-inspired intake plenum with *K&N* dry-flow filters for the Weber carbs, tuned to 1.2 bar boost for 550+ hp while retaining the original *Tipo 216* camshafts (280° duration, 10.5mm lift).",
+    "Drivetrain: Replace the original *ZF 5DS-25* 5-speed transaxle with a *Hewland LG600* 6-speed sequential gearbox (used in Ferrari 333 SP) with a *Tilton* triple-plate carbon clutch and *Quaife* ATB differential (40% lock). Upgrade half-shafts to *GKN* CV joints with *SPL* billet uprights and *Motul Gear 300* fluid for endurance racing. Chassis reinforcement via *VSR* titanium subframe bolts and *Brembo* 6-piston calipers (330mm rotors) with *Ferodo DS2500* pads."
+  ],
+  "estetica": [
+    "Bodywork: Replace the original *Pininfarina* aluminum panels with *Callaway* carbon-fiber bodywork (1.2mm weave) featuring a *Liberty Walk*-inspired widebody kit (custom-molded for the *330 P3* chassis) with *Rocket Bunny* overfenders (2.5-inch flares) and a *Voltex* Type-3 rear wing (adjustable 15°-25° angle) in *PPG Ferrari Rosso Corsa* with *3M* matte clear coat. Front splitter from *AeroTech* (3D-printed carbon) with *Vortex Generators* for downforce.",
+    "Interior: Full *Sparco* Pro ADV racing seats (FIA 8862-2009 certified) with *Schroth* 6-point harnesses and *OMP* steering wheel (330mm diameter, quick-release). Dashboard replaced with a *Motec C127* digital dash (CAN-bus integrated) and *AiM* MXL2 data logger. Custom *MOMO* aluminum pedals (adjustable bias) and *Wilwood* brake bias valve. Roll cage by *Sparco* (chromoly, TIG-welded) with *Schroth* fire suppression system (plumbed to *Lifeline* Zero 360 extinguishers).",
+    "Lighting & Details: *Hella* 90mm Bi-Xenon headlights (D1S bulbs) with *Morimoto* projectors and *GTR Lighting* HID ballasts. *Diode Dynamics* LED taillights (sequential turn signals) and *Oracle* underglow (RGB, 1200 lumens). *BBS* LM-R wheels (15x10 front, 15x12 rear) with *Pirelli P Zero Corsa* tires (245/615-15 front, 325/625-15 rear). *AeroCatch* hood latches and *AP Racing* brake ducts (carbon fiber, 3D-printed to fit *330 P3* wheel arches)."
+  ]
+}

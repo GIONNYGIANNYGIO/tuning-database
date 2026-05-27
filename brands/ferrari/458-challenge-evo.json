@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "458 CHALLENGE EVO",
+  "prestazioni": [
+    "Engine: F136FB 4.5L V8 (90° naturally aspirated) – Full titanium connecting rods (Pankl Racing Systems) with upgraded ARP Custom Age 625+ head studs and billet main caps for 10,500 RPM stability under sustained 1.8G lateral loads (Ferrari Corse Clienti spec).",
+    "Forced Induction: Single Garrett GTX5533R Gen II turbocharger (86mm compressor, 106mm turbine) with TiAL Sport MV-R 60mm wastegate and custom 3.5\" equal-length stainless steel exhaust manifold (Capristo Engineering) – Targeting 850whp on 100-octane fuel with Motec M150 ECU recalibration (Ferrari Corse Clienti base map + 25% ignition advance under boost).",
+    "Suspension: Öhlins TTX46 MkII 3-way adjustable dampers (24-click rebound, 22-click compression, 12-click high-speed compression) with custom titanium spring perches (Eibach 1,200 lb/in front, 1,400 lb/in rear) and spherical bearing upper control arms (Ferrari Challenge Evo OEM-spec, reinforced with T45 steel gussets)."
+  ],
+  "estetica": [
+    "Aerodynamics: Capristo Engineering full carbon fiber Challenge Evo-spec front splitter (30% stiffer than OEM) with integrated Gurney flap (3mm height) and rear diffuser (900mm width, 3D-printed PETG side strakes for vortex generation).",
+    "Body: Novitec Rosso carbon fiber Challenge Evo-style widebody kit (front fenders +25mm, rear fenders +35mm) with custom 3M Matte Graphite vinyl overlay (applied in 120°F vacuum chamber for zero orange peel).",
+    "Interior: Sabelt 6-point FIA-spec harness (HYBRID-R model) with custom carbon fiber seat shells (Sparco Pro 2000, 3mm thicker padding for 1.8G lateral load compliance) and Motec C127 dash display (replacing OEM cluster, with live turbo boost, oil pressure, and G-force logging)."
+  ]
+}

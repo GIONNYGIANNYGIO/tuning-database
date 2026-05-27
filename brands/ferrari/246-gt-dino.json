@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "246 GT DINO",
+  "prestazioni": [
+    "Engine: Replace the stock 2.4L *Dino 246 F106A* V6 (2418cc, 195hp) with a fully balanced and blueprinted *F106B* block featuring forged Mahle pistons (87.0mm bore, 10.5:1 CR), Carrillo H-beam connecting rods, and a billet crankshaft from *JE Pistons* to handle 9,000 RPM reliably. Pair with a *Weber 46 IDA3C* triple-carburetor setup (replacing the stock 40 DCNF) with velocity stacks and a custom *ITG* air filtration system for optimized airflow.",
+    "Forced Induction: Install a *Rotrex C38-91* centrifugal supercharger (12 psi max boost) with a custom *VMP* intercooler core (front-mounted, 4.5\" thick) and a *Tial* 50mm wastegate to retain the Dino’s high-revving character while pushing 320hp at the wheels. Use a *Haltech Elite 2500* standalone ECU with a *Ferrari-specific* crank trigger wheel for precise ignition timing and fuel mapping.",
+    "Drivetrain: Replace the stock 5-speed transaxle with a *Hewland FTR* 5-speed dog-ring gearbox (shortened ratios: 2.5:1 1st, 1.78:1 2nd, 1.36:1 3rd) paired with a *Tilton* twin-plate ceramic clutch and a *Quaife* ATB differential (40% lockup) for aggressive power delivery. Upgrade halfshafts to *GKN* CV joints with *DBA* 5000-series rotors and *Ferodo* DS2500 pads for consistent braking."
+  ],
+  "estetica": [
+    "Bodywork: Replace the steel body with a *Fiberfab* carbon-fiber replica shell (20% lighter) featuring a *Liberty Walk*-inspired widebody kit (custom-fabricated for the 246 GT’s dimensions) with integrated *Aeromotions* active rear spoiler (hydraulic, 3-position adjustment). Paint in *PPG* Ferrari Rosso Dino (custom mixed, 10-layer pearl) with *3M* matte black accents on the hood and fender flares.",
+    "Interior: Retrim the cabin in *Bridge of Weir* leather (custom-dyed Rosso Corsa) with *Recaro* SPG-K seats (Ferrari-specific mounting brackets) and a *MOMO* Prototipo steering wheel (380mm, suede). Install a *Defi* BF gauge cluster (oil pressure, boost, AFR) in a custom *Alcantara*-wrapped A-pillar pod, paired with a *Kenwood* DNX995S navigation unit (hidden in the glovebox).",
+    "Wheels: Fit *OZ Racing* Ultraleggera HLT wheels (15x7 front, 15x8 rear) with *Pirelli* P Zero Corsa tires (205/50R15 front, 225/50R15 rear) and *H&R* Trak+ coilovers (adjustable damping, 30mm drop). Add *Brembo* GT 4-piston calipers (painted Rosso Corsa) with *Goodridge* braided stainless steel lines for improved pedal feel."
+  ]
+}

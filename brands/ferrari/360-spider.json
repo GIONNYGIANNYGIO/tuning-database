@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "360 SPIDER",
+  "prestazioni": [
+    "F131B 3.6L V8 (3586cc) dry-sump engine with a custom Motec M150 ECU reflash, optimizing individual cylinder fueling and ignition timing for 520hp at 8,700 RPM (stock: 400hp) while retaining the flat-plane crankshaft’s 9,000 RPM redline. Includes a secondary throttle body delete and port-matched intake plenums by Novitec Rosso for improved airflow.",
+    "Garrett GT3076R turbocharger (0.82 A/R turbine housing) with a custom 3D-printed titanium exhaust manifold by Capristo, paired with a GReddy Profec B Spec II boost controller and a custom 3.5-inch stainless steel exhaust system with dual 100-cell catalytic converters and X-pipe crossover by Fabspeed Motorsport.",
+    "Ohlins TTX40 coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression), custom valving for the 360 Spider’s aluminum-intensive chassis, and spherical bearing top mounts by SuperPro. Includes a full polybush kit (front control arms, subframe, and differential mounts) by Whiteline for improved rigidity and turn-in response."
+  ],
+  "estetica": [
+    "Novitec Rosso N-Largo widebody kit with carbon fiber front fenders, rear quarter panels, and a custom 3-piece rear diffuser, increasing track width by 60mm for aggressive stance and improved aerodynamics. Includes custom carbon fiber side skirts with integrated LED turn signals.",
+    "Carbon fiber hardtop conversion by Zagato, featuring a removable targa panel with a lightweight aluminum frame and a rear spoiler with active Gurney flap (adjustable via a cockpit switch) for downforce tuning. Includes a custom carbon fiber engine cover with a clear polycarbonate window to showcase the F131B V8.",
+    "Brembo GT 380mm 6-piston front and 355mm 4-piston rear brake kit with two-piece floating rotors and Pagid RSL29 brake pads, paired with custom gold-anodized calipers and stainless steel braided brake lines by Goodridge. Includes a custom carbon fiber brake duct system by APR Performance for improved cooling."
+  ]
+}

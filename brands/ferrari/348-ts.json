@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "348 TS",
+  "prestazioni": [
+    "Engine: F119H 3.4L V8 (3405cc) naturally aspirated with a custom Motec M150 ECU reflash targeting 450+ hp via aggressive cam timing (290° duration, 12.5mm lift) and port-matched intake/exhaust manifolds (Carroll Supercars Stage 3 heads with titanium retainers and Inconel valves).",
+    "Forced induction: Single Garrett GT35R turbo (0.82 A/R, 62mm inducer) with a custom 3.5-inch stainless steel exhaust system (Capristo 348-specific headers, bypassing the OEM catalytic converters) and a GReddy Profec B Spec II boost controller for 1.2 bar peak pressure.",
+    "Suspension: Öhlins TTX40 coilovers with 348-specific valving (22-way compression, 22-way rebound adjustability), paired with solid spherical bearing front/rear subframe mounts (Superformance Engineering) and a custom 25mm rear anti-roll bar (Hotchkis Motorsport)."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion (Liberty Walk LB-WORKS 348 TS kit, including extended front fenders, rear quarter panels, and a custom 3D-printed rear diffuser with integrated Gurney flap).",
+    "Wheels: OZ Racing Ultraleggera HLT 18x9.5 (front) and 18x11 (rear) with custom offsets (-12mm front, +25mm rear) wrapped in Michelin Pilot Sport Cup 2 tires (245/40/18 front, 305/30/18 rear).",
+    "Aero: Custom front splitter (VRS carbon fiber, 348-specific) with integrated canards (Rocket Bunny) and a rear wing (Voltex Type 3, 1,200mm width, 300mm chord) mounted on a custom aluminum substructure (AeroFab)."
+  ]
+}

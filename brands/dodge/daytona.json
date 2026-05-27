@@ -1,0 +1,14 @@
+{
+  "brand": "DODGE",
+  "model": "DAYTONA",
+  "prestazioni": [
+    "Engine swap to a Chrysler 2.2L Turbo I (engine code: T1) with forged internals including Mahle forged pistons (8.1:1 compression), Eagle H-beam connecting rods, and a billet crankshaft. Pair with a Garrett GT2860R-5 turbocharger (0.82 A/R turbine housing) and a custom 3-inch stainless steel downpipe by Burns Stainless for optimized spool and flow.",
+    "Full standalone engine management via a Haltech Elite 2500 ECU with custom wiring harness by Painless Performance, calibrated for E85 fuel with a 1200cc ID1000 fuel injectors and a Walbro 450 LPH in-tank fuel pump. Upgrade to a custom intercooler core by Bell Intercoolers (4.5\" thick, 22\" x 12\" core) with silicone couplers from Vibrant Performance.",
+    "Suspension overhaul with KW Variant 3 coilovers (custom valving for the Daytona's unibody chassis), polyurethane bushings from Energy Suspension (full set including subframe and control arm bushings), and a Whiteline front sway bar (24mm adjustable) paired with a Hotchkis rear sway bar (22mm). Add a BMR tubular K-member for weight reduction and improved geometry."
+  ],
+  "estetica": [
+    "Full carbon fiber widebody conversion using the Rocket Bunny V2 Daytona kit (Pandem Design), including extended fenders, front bumper, side skirts, and rear diffuser. Paint in a custom matte PPG 'B5 Blue' with gloss black accents and a clear bra by XPEL on the front bumper and hood.",
+    "Custom 18x9.5\" (front) and 18x10.5\" (rear) wheels by Work Emotion CR Kiwami in a 5x100 PCD, wrapped in Michelin Pilot Sport Cup 2 tires (245/40/18 front, 275/35/18 rear). Add a custom bolt-on rear wing by APR Performance (GT-250 model) with carbon fiber endplates and a 3D-printed gurney flap for adjustable downforce.",
+    "Interior overhaul with Recaro SRD seats (fixed-back, carbon fiber shell) mounted on custom brackets for the Daytona's floorpan, paired with a MOMO Mod.78 steering wheel (350mm diameter) and a custom roll cage by Autopower (6-point, bolt-in, TIG-welded). Add a full digital dash by AIM MXS Strada with CAN bus integration for the Haltech ECU."
+  ]
+}

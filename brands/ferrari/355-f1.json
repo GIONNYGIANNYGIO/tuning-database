@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "355 F1",
+  "prestazioni": [
+    "Engine: F129C 3.5L V8 (Type F129) with forged Mahle Motorsport pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from JP Performance for 12,000 RPM stability. Pair with a custom GT3-spec dry sump system by Peterson Fluid Systems to eliminate oil starvation under lateral G-forces.",
+    "Forced Induction: Twin Precision Turbo PT6266 CEA turbos (62mm, 66mm compressor wheels) with TiAL Sport 44mm wastegates and custom 3.5-inch Inconel exhaust manifolds by Novitec Rosso, feeding into a GESI 3.5-inch titanium exhaust with 200-cell catalytic converters for Euro 6 compliance. Intercooled via a PWR dual-core front-mount intercooler with 1,200 CFM airflow capacity.",
+    "Drivetrain: Sachs Performance twin-disc clutch (240mm, 800 Nm torque capacity) paired with a Quaife ATB differential (85% lockup) and a custom 6-speed F1-style paddle-shift transmission tune by Motec M150 ECU, reducing shift times to 80ms. Upgrade half-shafts to GKN Driveline CV joints with 300M steel shafts for 800+ HP reliability."
+  ],
+  "estetica": [
+    "Aerodynamics: Novitec Rosso N-Largo widebody kit (carbon fiber, 50mm wider front fenders, 70mm rear) with integrated GT3-style dive planes and a custom 3D-printed underbody diffuser by 991R Design. Front splitter and rear wing are both made from pre-preg autoclave carbon fiber with active Gurney flaps controlled by a Bosch Motorsport ECU.",
+    "Wheels & Brakes: HRE FF01 wheels (19x9.5 ET30 front, 19x12 ET40 rear) in brushed titanium finish, wrapped in Michelin Pilot Sport Cup 2 R tires (265/35/19 front, 325/30/19 rear). Braking system features AP Racing CP9430 calipers (6-piston front, 4-piston rear) with 390mm CCM-R carbon-ceramic rotors and Ferodo DS3.12 pads for 1.2G deceleration.",
+    "Interior & Details: Full Alcantara retrim by Sabelt with custom F1-style carbon fiber bucket seats (Schroth 6-point harnesses) and a Motec C127 dash display replacing the stock cluster. Exterior features a custom PPF wrap in Ferrari Rosso Corsa with matte black accents, including a de-chromed grille and carbon fiber side mirrors by Novitec. Engine bay showcases a custom titanium bolt kit by ARP and a carbon fiber intake plenum by Capristo."
+  ]
+}

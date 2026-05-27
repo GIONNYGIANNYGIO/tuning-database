@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "430 SCUDERIA",
+  "prestazioni": [
+    "F136 EVO 4.3L V8 (F136 IB) engine: Novitec Rosso N-Tronic ECU remap with 620 HP at 9,000 RPM and 480 Nm torque, utilizing a custom carbon-fiber intake manifold (Novitec Rosso CF-Intake) and titanium valve springs (Supertech Performance) for 9,500 RPM redline capability",
+    "Ohlins TTX40 3-way adjustable coilovers with custom valving for Scuderia-specific chassis geometry, paired with titanium wheel studs (HRE Performance) and Brembo GT-R 390mm front/380mm rear two-piece rotors with PAGID RS29 brake pads",
+    "Garrett GT2867R turbocharger upgrade (custom-mapped for F136 EVO) with TiAL Sport 44mm wastegate, Novitec Rosso stainless steel 3.5-inch downpipes, and a custom GESI 4-inch titanium exhaust system with electronically controlled bypass valves"
+  ],
+  "estetica": [
+    "Novitec Rosso Scuderia-specific carbon-fiber widebody kit (front fenders, rear quarter panels, and rear diffuser) with integrated LED turn signals and a custom 3M Matte Ferrari Rosso Corsa wrap (PPF-protected)",
+    "HRE FF01 20x9.5 ET35 front / 20x12 ET45 rear wheels with custom center-lock adapters, wrapped in Pirelli P Zero Trofeo R tires (245/30 R20 front, 325/25 R20 rear) and paired with a Novitec Rosso carbon-fiber rear wing (adjustable angle, 3D-printed airfoil)",
+    "Interior: Custom Recaro Pole Position seats with Alcantara/leather upholstery (Ferrari part #65938680), a Novitec Rosso carbon-fiber shift knob (F1-style), and a Motec C127 dash logger with integrated lap timer and tire pressure monitoring system (TPMS)"
+  ]
+}

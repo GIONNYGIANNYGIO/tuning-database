@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "355 GTS",
+  "prestazioni": [
+    "Engine: F129B 3.5L V8 (90° DOHC, 40 valves, 375hp stock) – Full titanium internals upgrade with Carrillo H-beam connecting rods, JE forged pistons (11.5:1 compression), and a billet crankshaft from Ferramotorsport to handle 600hp+ reliably. Replace stock titanium valves with Inconel exhaust valves and sodium-filled intake valves from Supertech Performance for high-RPM durability.",
+    "Forced Induction: Twin-turbo setup using Garrett GTX3582R Gen II turbos (externally wastegated, 1.25 A/R turbine housings) with custom 3D-printed titanium exhaust manifolds by Novitec. Pair with a custom air-to-water intercooler system (PWR Advanced Cooling) and a Motec M150 ECU with custom firmware for sequential turbo control and anti-lag.",
+    "Drivetrain & Handling: Replace the stock 6-speed F1 transmission with a GTO-spec 6-speed manual (F129C) paired with a Sachs Performance twin-disc clutch (ceramic friction material). Install a 2-way adjustable limited-slip differential from Wavetrac. Suspension overhaul with Öhlins TTX46 coilovers (32-way damping adjustment) and custom spherical bearing control arms from Superformula. Brembo GT-R 390mm 6-piston calipers with carbon-ceramic rotors (398mm) for extreme braking."
+  ],
+  "estetica": [
+    "Bodywork: Full carbon fiber widebody conversion using the Novitec Rosso 355 GTS kit (hand-laid pre-preg carbon, 2x2 twill weave) with integrated front splitter, side skirts, and a ducktail spoiler. Replace the stock pop-up headlights with a fixed carbon fiber unit housing LED projectors (Lux HID) and a custom DRL strip.",
+    "Aerodynamics: Custom 3D-printed titanium rear diffuser by APR Performance, paired with a Gurney flap on the rear spoiler for downforce. Install a front canard kit from Rocket Bunny (3-piece adjustable) and a custom underbody aero tray to reduce lift. Replace the stock side mirrors with carbon fiber units from Seibon with integrated cameras (for rearview display on a Motec C127 dash).",
+    "Interior: Full Alcantara retrim by Sabelt, including custom bucket seats (Sparco Pro 2000) with 6-point harnesses. Replace the stock steering wheel with a MOMO Prototipo (350mm, suede) featuring a quick-release hub. Install a custom roll cage (TIG-welded chromoly) by Safety Devices with integrated fire suppression system (Lifeline Zero 360). Add a digital dash (Motec C127) with configurable shift lights and turbo boost display."
+  ]
+}

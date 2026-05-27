@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "296 CHALLENGE",
+  "prestazioni": [
+    "Replace the stock F163CE 3.0L twin-turbo V6 hybrid powertrain's IHI turbochargers with **Garrett GTX5533R Gen II** units, featuring 76mm billet compressor wheels and 64mm turbine wheels, paired with **Tial MV-R 60mm wastegates** and **TurboSmart Race Port BOV** to handle the increased boost pressure of 3.2 bar (46.4 psi) while maintaining the hybrid system's 830hp output without sacrificing throttle response",
+    "Install a **Motec M150 ECU** with a **Ferrari 296 Challenge-specific calibration map** developed by **Novitec Rosso**, integrating the hybrid battery management system (BMS) to optimize torque delivery and energy recuperation under track conditions, while adding a **Pectel SQ6M+ data logger** for real-time telemetry and adaptive traction control adjustments",
+    "Upgrade the stock **Ferrari 296 Challenge carbon-ceramic braking system** with **Brembo GT-R 6-piston monobloc calipers** (front) and **4-piston calipers** (rear), paired with **390mm x 38mm CCM-R discs** and **Ferodo DS3.12 racing pads**, while replacing the OEM brake lines with **Goodridge G-Stop 9000 series braided stainless steel lines** for consistent pedal feel under extreme heat cycles"
+  ],
+  "estetica": [
+    "Install a **Novitec Rosso N-Largo widebody kit** specifically designed for the 296 Challenge, featuring **carbon fiber front fenders with integrated NACA ducts**, **rear quarter panels with air extractors**, and a **rear diffuser with active aerodynamics**, all finished in **matt carbon fiber with exposed weave** and **gloss black accents**",
+    "Replace the stock **Ferrari 296 Challenge rear wing** with a **9H Motorsports GT3-spec dual-element rear wing**, constructed from **pre-preg autoclave carbon fiber** and featuring **adjustable angle of attack (0-20 degrees)** and **integrated DRS (Drag Reduction System)** for high-speed stability, paired with a **custom 3D-printed titanium wing mount** for weight reduction",
+    "Upgrade the interior with a **Sparco Pro 2000 carbon fiber racing seat** (FIA 8862-2009 certified) wrapped in **Alcantara with red stitching**, paired with a **Schroth 6-point harness (FHR-compatible)** and a **MOMO Mod.77 racing steering wheel** featuring **integrated Motec C127 dash display** and **paddle shifters with custom titanium hardware**"
+  ]
+}

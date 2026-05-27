@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "250 GT",
+  "prestazioni": [
+    "Engine: Colombo Tipo 128D V12 (3.0L, 60° SOHC, 240-280 HP stock) – Full rebuild with forged Mahle pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from GTO Engineering for 400+ HP reliability. Ported and polished cylinder heads with oversized Ferrea intake/exhaust valves (44mm/38mm) and titanium retainers. Custom camshafts by Kent Cams (280° duration, 12mm lift) for high-RPM powerband retention.",
+    "Forced Induction: Single Garrett GTX3582R turbocharger (0.82 A/R, ball-bearing) with a custom TIG-welded 304 stainless steel exhaust manifold by Novitec. Air-to-water intercooler (PWR) with a Bosch 044 fuel pump and ID1000 injectors. Custom ECU mapping by MoTeC M150 with knock control and individual cylinder tuning for the Tipo 128D’s 12-port intake.",
+    "Drivetrain: Close-ratio 5-speed gearbox (Colotti Tipo 315) with a Quaife ATB differential and a Sachs twin-disc clutch (240mm). Custom half-shafts by GTO Engineering with CV joints rated for 500+ HP. Lightweight flywheel (12 lbs) from Fidanza for faster rev-matching."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber replica of the 250 GT SWB (Short Wheelbase) body by RS Coachworks, with a 3-inch lower ride height. Custom front splitter and rear diffuser by Novitec, paired with a functional rear spoiler (250 GTO-style) for downforce. Lightweight aluminum hood with dual NACA ducts for intercooler airflow.",
+    "Wheels: 16-inch OZ Racing Ultraleggera wheels (7.5J front, 9J rear) wrapped in Pirelli P Zero Corsa tires (205/55/16 front, 245/50/16 rear). Custom center-lock adapters by BBS for quick swaps. Gold-painted brake calipers (Brembo GT 4-piston) with drilled/slotted rotors (330mm front, 300mm rear).",
+    "Interior: Full Alcantara retrim by Saddleback Leather, including dashboard, door cards, and Recaro SPG-K seats (carbon fiber shells). Custom roll cage by Safety Devices (FIA-spec, bolt-in) with integrated fire suppression system (Lifeline Zero 360). Momo Prototipo steering wheel (350mm) with quick-release hub and a digital dash (Aim MXS Strada) for real-time telemetry."
+  ]
+}

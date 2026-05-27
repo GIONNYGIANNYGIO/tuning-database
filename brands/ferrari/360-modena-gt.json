@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "360 MODENA GT",
+  "prestazioni": [
+    "F131B 3.6L V8 (3586cc) dry-sump engine: Install a **Motec M150 ECU** with a custom 4D ignition and fuel map optimized for **12.5:1 compression** using **VP Racing Q16 fuel**, paired with **Bosch Motorsport 1200cc injectors** and a **Tial MV-R 44mm wastegate** for boost control (if converting to forced induction).",
+    "Replace the stock **F1-style electrohydraulic shifting system** with a **Gilles Motorsport F1-style paddle-shift kit** (mechanical linkage) and a **Quicksilver Racing carbon-fiber driveshaft** to reduce rotational mass by 30%.",
+    "Upgrade the **Brembo GT 4-piston calipers** to **Brembo GT-R 6-piston monoblock calipers** with **390mm CCM-R carbon-ceramic rotors** (Ferrari 430 Scuderia spec) and **Ferodo DS3.12 racing pads** for 25% shorter stopping distances from 120mph."
+  ],
+  "estetica": [
+    "Install a **Novitec Rosso 360 GT widebody kit** (front fenders extended by 40mm, rear by 60mm) with **custom carbon-fiber side skirts** and a **Rocket Bunny-style ducktail spoiler** (3D-scanned from a Ferrari 360 Challenge Stradale).",
+    "Replace the stock **Scuderia-style mesh grille** with a **Tubi Style titanium exhaust grille** (anodized gold) and **LED DRLs from a Ferrari 488 Pista** (retrofitted into the bumper).",
+    "Swap the OEM **18-inch Challenge wheels** for **HRE FF01 19x9.5 (front) and 19x11 (rear) forged wheels** in a **custom gold-bronze finish**, wrapped in **Pirelli P Zero Trofeo R tires (245/35 R19 front, 305/30 R19 rear)** for 1.2g lateral grip."
+  ]
+}

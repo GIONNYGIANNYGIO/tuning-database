@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "360 CHALLENGE STRADALE",
+  "prestazioni": [
+    "F131B 3.6L V8 (360cc per cylinder) dry-sump engine: Install a **Motec M150 ECU** with a bespoke Challenge Stradale-specific calibration map, optimizing ignition timing for 102-octane race fuel and increasing redline to 9,200 RPM (from stock 8,700 RPM) with reinforced **Carrillo H-beam connecting rods** and **JE forged pistons** (9.5:1 compression ratio).",
+    "Replace the stock titanium intake valves with **Ferrea F131B-specific hollow-stem titanium valves** (intake: 38.5mm, exhaust: 32.5mm) paired with **Supertech dual-valve springs** and **titanium retainers** to handle the increased RPM ceiling. Upgrade the stock exhaust manifold to a **Capristo 4-2-1 equal-length stainless steel header** with 45mm primary tubes, terminating in a **Novitec Rosso 360 Challenge Stradale exhaust system** (3.5-inch diameter, Inconel 625 construction, straight-through mufflers).",
+    "Swap the stock F1-style electrohydraulic transmission for a **Hewland FTR sequential 6-speed dog-ring gearbox** (as used in the 360 Challenge race cars) with a **Tilton triple-plate carbon clutch** and **AP Racing CP8444 hydraulic release bearing**. Install a **Pankl Racing Systems lightweight flywheel** (4.5kg) and **GKN tripod CV joints** to handle the increased torque (target: 480 Nm at 7,500 RPM)."
+  ],
+  "estetica": [
+    "Fit a **Novitec Rosso 360 Challenge Stradale widebody kit** (carbon fiber, 50mm wider front fenders, 70mm wider rear fenders) with **custom-molded carbon fiber side skirts** and a **Rocket Bunny-inspired front splitter** (3D-scanned from the 360 Challenge race car, 30% more downforce at 200 km/h).",
+    "Replace the stock Challenge Stradale rear wing with a **9 Lives Racing GT3-spec carbon fiber wing** (1,800mm span, 300mm chord, adjustable angle of attack up to 15 degrees) mounted on **custom aluminum pedestals** (anodized gold). Install **OMP carbon fiber racing mirrors** and **VMR 703 19x10.5 ET35 front / 19x12.5 ET40 rear wheels** (forged, 3-piece, 9.5kg per wheel) wrapped in **Pirelli P Zero Trofeo R tires** (265/35 R19 front, 325/30 R19 rear).",
+    "Remove the stock interior and install a **Sparco Pro 2000 carbon fiber racing seat** (FIA 8862-2009 certified) with **Schroth 6-point harnesses** and a **MOMO Mod.77 carbon fiber steering wheel** (350mm diameter, quick-release). Replace the dashboard with a **Motec C127 digital dash** (integrated with the M150 ECU) and add **custom carbon fiber door cards** with **aluminum door pulls** (CNC-machined, anodized red)."
+  ]
+}

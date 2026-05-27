@@ -1,0 +1,14 @@
+{
+  "brand": "BUGATTI",
+  "model": "VEYRON GRAND SPORT VITESSE WORLD RECORD",
+  "prestazioni": [
+    "Engine: W16 (quad-turbocharged, 8.0L, engine code W16QDS) reinforced internals with forged Mahle pistons (9.0:1 compression ratio) and Carrillo H-beam connecting rods, paired with a bespoke Garrett GT5544R turbocharger upgrade (4x units, 2.4 bar boost pressure) for 1,500+ HP on 102-octane race fuel, managed via a Motec M190 ECU with custom anti-lag and launch control maps",
+    "Drivetrain: Reinforced 7-speed DSG transmission with upgraded Sachs twin-disc carbon clutch (300mm diameter) and a Quaife ATB differential (85% lock) for optimal power delivery, paired with a custom Bugatti Engineering torque vectoring system (rear-biased) for cornering stability at 250+ mph",
+    "Suspension/Handling: Öhlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed valving) and spherical bearing top mounts, paired with a full carbon-fiber monoblock brake kit (AP Racing 6-piston calipers, 420mm discs) and Michelin Pilot Sport Cup 2 R tires (265/35 ZR20 front, 365/30 ZR21 rear) on OZ Racing Ultraleggera HLT wheels (20x11.5 front, 21x13 rear)"
+  ],
+  "estetica": [
+    "Exterior: Full carbon-fiber widebody conversion by Mansory (Vitesse WR-specific kit) with a 3D-printed titanium rear diffuser and active aerodynamics (front splitter and rear wing) controlled via a Bosch Motorsport ECU for dynamic downforce adjustment (up to 1,800 kg at 250 mph)",
+    "Interior: Full Alcantara and carbon-fiber trim with a bespoke Sparco Pro 2000 seat (FIA 8862-2009 certified) and a custom roll cage by Heigo (chromoly steel, TIG-welded) integrated with a Motec C187 dash display and a Bosch Motorsport ABS/TCS controller",
+    "Lighting: Full LED conversion with Osram Night Breaker Laser bulbs (HID) and a custom laser-based adaptive headlight system (developed with Hella) for 600-meter visibility at 250 mph, paired with a carbon-fiber rear light housing (OEM-spec but with smoked lenses)"
+  ]
+}

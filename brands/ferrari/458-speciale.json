@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "458 SPECIALE",
+  "prestazioni": [
+    "F136FB 4.5L V8 (605hp stock) upgraded with Novitec Rosso F136FB Stage 3+ ECU/TCU flash (680hp, 385 lb-ft) paired with a custom Novitec Rosso titanium crankshaft pulley and lightweight carbon fiber intake plenums to optimize throttle response and reduce parasitic loss",
+    "Full Novitec Rosso F136FB exhaust system with 200-cell catalytic converters, Inconel headers, and a Valvetronic bypass valve for backpressure optimization, mated to a custom Novitec Rosso X-Pipe with dual 3.5\" titanium exhaust tips for weight reduction and acoustic tuning",
+    "Ohlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression), custom valving for the 458 Speciale’s front/rear weight distribution (42/58), and spherical bearing top mounts to eliminate compliance under extreme lateral loads, paired with Novitec Rosso 20mm front and 25mm rear adjustable anti-roll bars"
+  ],
+  "estetica": [
+    "Novitec Rosso 458 Speciale-specific carbon fiber widebody kit (front fenders, rear quarter panels, and rear diffuser) with integrated cooling ducts for the F136FB’s side-mounted radiators, finished in matte carbon fiber with exposed weave",
+    "Custom Novitec Rosso front splitter with active aerodynamic Gurney flaps (adjustable via a cockpit switch) and a rear wing derived from the 458 Challenge, featuring a 3D-printed titanium wing structure and carbon fiber airfoils with a 12-degree angle of attack for +300kg downforce at 200km/h",
+    "Novitec Rosso carbon fiber engine cover with integrated heat extraction vents and a clear-coated carbon fiber weave, paired with a custom Novitec Rosso titanium bolt kit (engine bay, suspension, and underbody) for a 1.2kg weight reduction"
+  ]
+}

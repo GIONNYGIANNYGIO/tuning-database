@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "328 GTS",
+  "prestazioni": [
+    "Engine: F105A 3.2L V8 (270hp stock) – Full internal rebuild with forged Mahle Motorsport pistons (87.5mm bore, 10.4:1 CR), Carrillo H-beam connecting rods, and a billet crankshaft from G&W Machine for 9,000 RPM reliability. Pair with a custom camshaft grind by Schrick (280° intake/284° exhaust, 11.2mm lift) for aggressive mid-to-high RPM power delivery.",
+    "Forced Induction: Single-turbo conversion using a Garrett GT3582R (82mm compressor, .82 A/R turbine housing) with a custom stainless steel exhaust manifold by Novitec (equal-length 1.75\" primaries, 3\" collector). Intercooled with a Bell Intercoolers front-mount unit (5.5\" core, 22\" x 12\" x 3.5\") and a TiAL MV-R 44mm wastegate (18psi base boost). Fuel system upgraded with Bosch 044 high-flow pump, ID1000 injectors, and a Motec M150 ECU for precise tuning.",
+    "Drivetrain & Handling: Quaife ATB differential (25% preload) for improved power delivery, paired with a Sachs Performance twin-disc clutch (400Nm torque capacity). Suspension overhaul with Öhlins Road & Track coilovers (24-way adjustable damping, 20mm drop) and spherical bearing upper control arms by Superformance. Braking upgraded to Brembo GT 380mm 6-pot front calipers with 34mm thick rotors and Ferodo DS2500 pads, matched with Brembo 355mm 4-pot rears."
+  ],
+  "estetica": [
+    "Bodywork: Full carbon fiber widebody conversion using a Liberty Walk LB-WORKS kit (328-specific, bolt-on fenders, aggressive side skirts, and rear diffuser). Front bumper replaced with a custom 3D-printed unit by Novitec (integrated canards, aggressive splitter, and tow hooks). Rear wing: a custom 3-piece carbon fiber GT-style wing by APR Performance (adjustable angle, 60\" span, 12\" chord).",
+    "Wheels & Aero: Front: BBS LM-R 18x9.5\" ET25 with 245/35/18 Michelin Pilot Sport Cup 2 tires; Rear: BBS LM-R 18x11\" ET35 with 305/30/18 tires. Fender flares rolled and pulled for clearance. Underbody aero: Full carbon fiber flat floor by APR (reduces lift by 40%) and a custom rear diffuser with integrated exhaust exits (3\" stainless steel tips by Novitec).",
+    "Interior & Details: Full Alcantara retrim by Saddleback Leather (dashboard, door cards, headliner) with red contrast stitching. Custom roll cage by Custom Cages (MIG-welded 4130 chromoly, bolt-in design, integrated harness bar). Steering wheel: Personal 350mm suede wheel by MOMO (Ferrari prancing horse emblem, quick-release hub). Gauges: Stack digital dash (oil temp, boost, AFR) mounted in a custom carbon fiber pod."
+  ]
+}

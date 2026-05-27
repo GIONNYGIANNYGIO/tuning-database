@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "360 MODENA",
+  "prestazioni": [
+    "Engine: F131 3.6L V8 (Type F131B) – Full titanium internals upgrade with Carrillo H-beam connecting rods, JE forged pistons (12.5:1 compression), and a custom billet crankshaft by VAC Motorsports for 1,200+ HP reliability under forced induction. Pair with a Garrett GTX5533R turbocharger (1.15 A/R turbine housing) and a custom 4.5-inch stainless steel intercooler core from Bell Intercoolers, plumbed with -10AN silicone hoses from Vibrant Performance.",
+    "Fuel System: Full Motec M150 ECU standalone management with dual Bosch Motorsport 044 high-flow fuel pumps, Injector Dynamics ID2000x injectors (2,000cc), and a custom fuel rail system by Radium Engineering. Add a Nitrous Express GenX direct-port nitrous kit (150-shot) for on-demand power spikes, controlled via the Motec ECU.",
+    "Drivetrain & Suspension: 6-speed F1-style paddle-shift transmission with a custom Quaife ATB differential (85% lock) and a Sachs Performance twin-disc clutch (rated for 1,000 Nm). Suspension overhaul with Öhlins TTX46 coilovers (3-way adjustable damping) and custom spherical bearing upper control arms by Superformance. Braking upgraded to Brembo GT-R 6-piston calipers with 390mm CCM-R carbon-ceramic rotors and Ferodo DS3000 pads."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion using the Novitec Rosso 360 N-Largo kit, including extended front fenders, rear quarter panels, and a custom 3D-printed front splitter with integrated canards. Rear diffuser by Vorsteiner (carbon fiber) and a custom GT-style rear wing with adjustable angle (3D-printed airfoil by APR Performance).",
+    "Aero & Lighting: Custom front bumper ducts for brake cooling, paired with a custom titanium exhaust exit system by Capristo (dual 100mm outlets). Lighting upgraded to LUX H8 V4 LED headlights with custom DRL strips (Osram LEDriving SL 1), and a full titanium mesh grille by Novitec Rosso for improved airflow to the radiator.",
+    "Interior: Full Alcantara retrim by Sabelt, including custom bucket seats with 6-point harnesses (Schroth Profi II) and a custom roll cage by Matter Fab (chrome-moly steel, FIA-certified). Steering wheel replaced with a MOMO Mod.70 carbon fiber wheel (flat-bottom) with integrated Motec C127 dash display. Pedal set upgraded to titanium units by 3D Carbon."
+  ]
+}

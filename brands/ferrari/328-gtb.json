@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "328 GTB",
+  "prestazioni": [
+    "Engine: F105A 3.2L V8 (270hp stock) – Full internal build with forged Mahle Motorsport pistons (9.5:1 CR), Carrillo H-beam connecting rods, and a billet crankshaft from JP Performance to handle 600+ hp reliably. Upgraded valvetrain with titanium retainers, Ferrea Racing valves (intake: 38mm, exhaust: 33mm), and Schrick 280° camshafts for high-RPM power.",
+    "Forced Induction: Custom twin-turbo setup using Garrett GT35R turbos (62mm compressor, 68mm turbine) with TiAL MV-R 44mm wastegates and a custom air-to-water intercooler system from Bell Intercoolers, plumbed with -6AN PTFE lines and a Bosch 044 fuel pump with dual Walbro 450LPH in-tank pumps for E85 compatibility.",
+    "Drivetrain & Handling: Quaife ATB differential with 40% lockup paired with a GTSpec lightweight flywheel and Sachs Performance twin-disc clutch. Ohlins TTX40 coilovers with 3-way adjustable damping, spherical bearing top mounts, and custom valving for the 328’s double-wishbone front and independent rear suspension. Brembo GT 380mm 6-piston front and 355mm 4-piston rear brake kits with Ferodo DS2500 pads and Goodridge stainless steel brake lines."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion using a custom 328-specific Rocket Bunny/Pandem kit (front fenders extended 50mm, rear fenders 70mm) with integrated canards and a duckbill rear spoiler. Carbon fiber hood with a functional NACA duct feeding the intercooler and a custom front splitter with adjustable dive planes from Varis.",
+    "Wheels & Aero: BBS LM-R 18x9.5 ET25 front and 18x11 ET30 rear wheels with 245/40/18 and 295/35/18 Michelin Pilot Sport Cup 2 tires. Custom 3D-printed titanium wheel spacers (15mm front, 20mm rear) to fill the arches. Rear diffuser from RW Carbon with integrated exhaust exits for a custom 3.5-inch stainless steel exhaust system by Capristo (4-2-1 headers, X-pipe, and quad tips).",
+    "Interior: Full Alcantara retrim by Saddleback Leather with Ferrari Daytona-style seats (Recaro SPG carbon fiber shells, 6-point Schroth harnesses). Custom MOMO Prototipo steering wheel with a 12-button Motec C127 dash display and a bespoke center console housing a Haltech Elite 2500 ECU, AEM X-Series wideband, and a custom switch panel for launch control and boost settings."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "365 GT4/BB",
+  "prestazioni": [
+    "Engine: Replace the original *F102A* 4.4L V12 with a fully balanced and blueprinted *F102B* block (from the 512 BB) bored to 4.9L (4943cc) using forged Mahle pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from *Ferrari Classiche* for 450+ hp at 7,500 RPM with a redline extended to 8,200 RPM via a custom *Weber 48 IDA* carburetor setup (replacing the original 40 IDF) with velocity stacks and a *K&N* high-flow air filter assembly.",
+    "Forced Induction: Twin *Garrett GT2860RS* turbochargers (ball-bearing, 0.64 A/R turbine housing) with *Tial 44mm* wastegates and *TurboSmart* Kompact 50mm blow-off valves, feeding into a custom *Spearco* air-to-water intercooler (mounted in the front grille) and a *Bosch 044* fuel pump with *ID1000* injectors, tuned via a *MoTeC M800* standalone ECU for 650 hp at 1.2 bar boost (retaining the original dry-sump lubrication system with an *Aviaid* oil cooler).",
+    "Drivetrain: 5-speed transaxle upgraded with a *Quaife ATB* helical LSD (fitted to the original ZF casing), *Tilton* triple-plate carbon clutch, and a *GKN* CV joint reinforcement kit. Suspension features *Öhlins* TTX40 coilovers (24-way adjustable damping) with *Eibach* 600 lb/in springs, *SuperPro* polyurethane bushings, and *AP Racing* 6-piston calipers with 355mm *Brembo* GT rotors (cross-drilled, slotted) for the front and 330mm rotors for the rear."
+  ],
+  "estetica": [
+    "Body: *Rocket Bunny* widebody kit (Pandem BB) with carbon fiber front splitter, rear diffuser, and side skirts, paired with a *Voltex* GT-wing (Type 3, 1700mm span) mounted on *Overkill* aluminum pedestals. The original *Pininfarina* aluminum body panels are retained but repainted in *PPG Ferrari Rosso Corsa* with a *3M* matte clear coat for a satin finish.",
+    "Interior: Full *Recaro* SPG XL bucket seats (HANS-compatible) upholstered in *Alcantara* (Ferrari Rosso) with *Schroth* 6-point harnesses, a *MOMO* Prototipo steering wheel (350mm, suede), and a *Defi* BF Advance digital gauge cluster (replacing the original analog dials) with *AEM* wideband AFR and boost sensors. The original *Veglia Borletti* speedometer is retained as a centerpiece.",
+    "Lighting: *Lux HID* Bi-Xenon projectors (5500K) with *Morimoto* D2S ballasts in the original *Carello* housings, paired with *GTR Lighting* LED taillights (sequential turn signals) and *Osram* LED fog lights integrated into the front bumper. The original *Marchal* headlight covers are replaced with *Polycarbonate* units from *Seibon* for weight reduction."
+  ]
+}

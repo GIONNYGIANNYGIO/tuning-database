@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "456 GT",
+  "prestazioni": [
+    "Engine: F116B 5.5L V12 (48-valve, 65° configuration) – Full internal build with forged Mahle pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from JE Pistons to handle 800+ HP reliably under forced induction.",
+    "Forced Induction: Twin Precision Turbo PT6766 CEA ball-bearing turbos (custom-mapped for the F116B’s firing order) with TiAL MV-R 44mm wastegates and a custom 4.5\" stainless steel intercooler core from Bell Intercoolers, paired with a Motec M150 ECU for sequential turbo control and individual cylinder fueling.",
+    "Drivetrain: Quaife ATB differential (85% lock) with a custom 6-speed manual conversion using a GTO-64 transmission (reinforced synchros, shot-peened gears) and a Sachs Performance twin-disc clutch (300mm, 4-pad) with a lightweight flywheel from Fidanza."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion using a Novitec Rosso 456 GT kit (front splitter, side skirts, and rear diffuser with integrated twin exhaust exits), paired with a custom 3M Matte Satin Viola wrap and OEM-style LED taillights from DRL Brands.",
+    "Aero: Custom front canards from Vorsteiner (designed for the 456’s nose) and a fixed carbon fiber rear wing from 991 GT3 RS (adapted to the 456’s rear deck) with a Gurney flap for high-speed stability, mounted on adjustable carbon fiber pedestals.",
+    "Wheels: HRE FF16 3-piece forged wheels (19x10.5\" front, 19x12.5\" rear) with custom offsets to clear the widened fenders, wrapped in Michelin Pilot Sport Cup 2 R tires (275/35/19 front, 335/30/19 rear) and paired with Brembo GT-R calipers (6-piston front, 4-piston rear) with 380mm two-piece rotors."
+  ]
+}
