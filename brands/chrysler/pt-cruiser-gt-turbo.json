@@ -1,0 +1,21 @@
+{
+  "brand": "CHRYSLER",
+  "model": "PT CRUISER GT TURBO",
+  "prestazioni": [
+    "Engine: 2.4L EDZ (ECH) turbocharged inline-4 with forged internals (Wiseco 8.5:1 compression pistons, Eagle H-beam connecting rods, ACL Race Series bearings) and balanced crankshaft for 30+ psi boost capability",
+    "Turbocharger: Garrett GT3582R .82 A/R with TiAL MV-R 44mm wastegate and TiAL Q 50mm BOV, custom 3-inch stainless steel downpipe with Vibrant 1799 high-flow catalytic converter",
+    "Fuel System: Injector Dynamics ID1000x injectors, Walbro 450 LPH in-tank fuel pump, Aeromotive A1000 fuel pressure regulator, and custom return-style fuel rail with AN-6 feed/return lines",
+    "ECU & Tuning: Standalone Haltech Elite 2500 ECU with flex-fuel sensor, 4-bar MAP sensor, and custom dyno-tuned map for E85 compatibility (targeting 350+ whp on pump gas, 400+ whp on E85)",
+    "Drivetrain: Tremec TR-6060 6-speed manual transmission swap with Spec Stage 3+ twin-disc clutch, chromoly driveshaft, and Quaife ATB differential with 3.91:1 gear ratio",
+    "Suspension: KW Variant 3 coilovers with custom valving for PT Cruiser-specific geometry, polyurethane bushings (Energy Suspension full kit), and Whiteline 24mm rear sway bar",
+    "Braking: StopTech Big Brake Kit (4-piston calipers, 13-inch rotors front, 2-piece rotors rear) with Hawk HT-10 brake pads and Motul RBF660 brake fluid"
+  ],
+  "estetica": [
+    "Body Kit: RK Sport 'PT GT-R' widebody conversion with carbon fiber front splitter, rear diffuser, and custom 2-inch fender flares (hand-laid fiberglass for OEM+ fitment)",
+    "Aero: Custom 3D-printed rear wing (modeled after 1995 Mazda RX-7 FD3S) with adjustable carbon fiber Gurney flap, integrated third brake light, and dual 3-inch exhaust cutouts",
+    "Wheels: Enkei PF07 18x9.5 +25 front / 18x10.5 +30 rear with Toyo R888R 255/40/18 and 275/35/18 tires (stretched for aggressive fitment, 5mm spacers for poke)",
+    "Interior: Recaro Pole Position seats (retrimmed in Alcantara with red stitching), NRG Innovations quick-release steering wheel hub with Momo Mod.78 wheel, and custom aluminum gauge pod (AEM X-Series wideband, boost, and oil pressure)",
+    "Lighting: Lamin-X yellow-tinted headlight covers, Morimoto XB LED bulbs (low/high beam), and custom LED taillight conversion (sequential turn signals, smoked lenses with red/amber housing)",
+    "Exterior Details: Shaved door handles with Viper-style keyless entry, custom billet aluminum PT Cruiser GT badge (replaces OEM emblem), and matte black vinyl wrap with gloss black roof and mirror caps"
+  ]
+}

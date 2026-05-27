@@ -1,0 +1,14 @@
+{
+  "brand": "DAIHATSU",
+  "model": "MIRA RALLY SPEC",
+  "prestazioni": [
+    "Engine swap to a turbocharged EF-DEM (660cc, 3-cylinder) with forged internals: JE Pistons 8.5:1 compression forged pistons, Eagle H-beam connecting rods, and a Tomei Type-M 264° camshaft for high-RPM power delivery, paired with a Garrett GT12 turbo (GT1241Z) on a custom tubular manifold by HKS for optimized exhaust flow and spool characteristics.",
+    "Full custom ECU remapping via Haltech Elite 1500 with launch control, anti-lag, and flex-fuel compatibility (E85), tuned by Top Secret Japan for 180+ HP at 8,500 RPM with a 9,000 RPM redline, utilizing a Tomei 70mm throttle body and ID1000 injectors for precise fuel delivery under boost.",
+    "Suspension overhaul with Ohlins DFV 2-way adjustable coilovers (custom valved for the Mira's 700kg weight), polyurethane bushings from SuperPro (part #SPF0115K) for subframe reinforcement, and a Cusco 2-point strut tower brace (part #684 540 A) to eliminate chassis flex during high-G cornering, paired with a 5-speed C52 transmission swap from a Daihatsu Max L900 with a Cusco 1.5-way LSD (part #LSD952)."
+  ],
+  "estetica": [
+    "Custom widebody conversion using a Rocket Bunny Mira (PB-001) kit with carbon fiber fenders, front splitter, and rear diffuser, modified to fit OEM+ rally-spec overfenders for gravel protection, finished in a matte Rally Art Blue (Mitsubishi code 428) with 3M 1080 vinyl accents.",
+    "Full interior gut with a Sparco Pro ADV racing seat (part #00797NR) mounted on a custom FIA-approved bolt-in cage by AutoPower (part #APR001), paired with a Momo Mod.78 steering wheel (350mm, suede) and a Defi BF Advance gauge cluster (oil temp, boost, and wideband AFR) for real-time monitoring.",
+    "Exterior lighting upgraded to Hella Rallye 3000 (7-inch, 100W) auxiliary lamps with custom aluminum mounts, paired with a carbon fiber hood (Seibon CF-HD-010) featuring a functional NACA duct for intercooler airflow, and a custom rally-spec roof vent (similar to Subaru WRC) for heat extraction."
+  ]
+}

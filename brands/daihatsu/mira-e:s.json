@@ -1,0 +1,14 @@
+{
+  "brand": "DAIHATSU",
+  "model": "MIRA E:S",
+  "prestazioni": [
+    "KF-VE3-DE1 (658cc DOHC 12V VVT-i) engine swap to KF-VE3-DE2 (70 PS) with HKS Hi-Power Supercharger (model: HKS 15101-BK001) and custom 3D-printed intake manifold (Mira e:S-specific, designed for 0.5 bar boost)",
+    "Full titanium exhaust system by Fujitsubo (model: Legalis R 304SS, 50mm diameter, Mira e:S-specific fitment) with custom 200-cell catalytic converter and straight-pipe section post-cat for optimized scavenging",
+    "Custom ECU reflash via Hondata K-Pro (adapted for KF-VE3 via custom harness) with Mira e:S-specific ignition timing maps (12° BTDC at 4,500 RPM) and fuel pressure increase to 3.5 bar via Walbro 255 LPH in-tank pump (model: F90000255)"
+  ],
+  "estetica": [
+    "Rocket Bunny Mira e:S-specific widebody kit (model: PB-001M, carbon fiber front fenders, rear quarter panels, and rear diffuser) with custom 3D-printed ABS overfenders for 175/50R15 tires on Work Emotion CR Kiwami wheels (15x6.5 +38 offset)",
+    "Custom front bumper lip by C-West (Mira e:S-specific, 3-piece carbon fiber) with integrated LED fog lights (Philips Ultinon Pro9000, 6,000K) and custom aluminum tow hooks (Mira e:S bolt-on, anodized red)",
+    "Full interior overhaul with Bride Zeta III (Mira e:S-specific, ultra-low seat rails) in Alcantara (color: Daihatsu Racing Blue) and custom roll cage by AutoPower (model: AP-1000, 6-point, Mira e:S-specific gussets for chassis rigidity)"
+  ]
+}

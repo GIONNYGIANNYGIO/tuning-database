@@ -1,0 +1,14 @@
+{
+  "brand": "DAIHATSU",
+  "model": "CHARADE GTTI TURBO",
+  "prestazioni": [
+    "Engine: CB-70 (1.0L inline-3 turbocharged, 12v, DOHC) – Full forged internals with JE 81.5mm forged pistons (9.5:1 CR), Eagle H-beam connecting rods, and ACL Race Series bearings for 25psi+ boost capability. Stock crankshaft balanced to ±0.5g tolerance via Vibratech TVD harmonic damper.",
+    "Turbocharger: Garrett GT2554R (54mm compressor, .63 A/R turbine housing) with TiAL 38mm MV-R wastegate and custom 3-inch stainless downpipe (304-grade, mandrel-bent) feeding into a Tomei 2.5-inch cat-back exhaust with 4-2-1 merge collectors and 100-cell GReddy catalytic converter.",
+    "Fuel System: Bosch 044 high-flow fuel pump (255 L/hr) paired with ID1000x injectors (1000cc/min), Walbro 450 LPH in-tank pump, and AEM 340lph fuel pressure regulator. ECU: Haltech Elite 1500 with custom 3D-printed intake manifold (PETG, optimized for GT2554R) and individual throttle bodies (ITBs) from Jenvey Dynamics (40mm bore, cable-operated)."
+  ],
+  "estetica": [
+    "Body Kit: Rocket Bunny V1 Charade GTti-specific widebody conversion (CFRP front fenders, rear quarter panels, and overfenders) with custom 3M 2080 Series vinyl wrap in 'Lime Green Pearl' (Daihatsu OEM code: 46G) and matte black accents. Front lip: Seibon Carbon Type-3 with integrated LED DRLs (Philips X-tremeUltinon 6000K).",
+    "Suspension: Ohlins Road & Track DFV coilovers (custom valving for CB-70 chassis) with 22mm front/rear Whiteline adjustable sway bars and polyurethane bushings (SuperPro 63mm front control arm bushings, 80mm rear trailing arm bushings). Wheels: Work Meister S1 3P 15x8 +15 ET (front) and 15x9 +20 ET (rear) with Nitto NT01 195/50R15 (front) and 225/45R15 (rear) tires.",
+    "Interior: Bride Zeta III bucket seats (FIA-approved, carbon-Kevlar shell) with Schroth Profi II 6-point harnesses. Dashboard: Defi BF gauges (oil temp, oil pressure, boost, wideband AFR) mounted in a custom carbon fiber gauge pod. Steering wheel: NRG Innovations 350mm suede wheel with quick-release hub and Momo Team 280mm adapter."
+  ]
+}

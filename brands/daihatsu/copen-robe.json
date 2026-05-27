@@ -1,0 +1,14 @@
+{
+  "brand": "DAIHATSU",
+  "model": "COPEN ROBE",
+  "prestazioni": [
+    "KF-DET (660cc turbocharged inline-3) forced induction upgrade with a Garrett GT1549S turbocharger (58mm compressor wheel, 52mm turbine wheel) paired with a Tomei 260° camshaft kit (intake: 8.5mm lift, 260° duration; exhaust: 8.3mm lift, 260° duration) and a custom 3-inch stainless steel exhaust system featuring a Fujitsubo Giken Legalis R exhaust manifold and a HKS Hi-Power Super Sound muffler for optimized scavenging and reduced backpressure",
+    "KF-DET engine management via a Link G4+ Xtreme standalone ECU with a custom 3D-printed intake manifold (carbon fiber reinforced nylon, designed in-house for equal length runners) and a custom intercooler setup (front-mount, 12-row core, 500x200x76mm dimensions) using a GReddy Type-S intercooler with a Mishimoto silicone coupler kit for reduced turbo lag and improved heat dissipation",
+    "Chassis reinforcement with a Cusco Type-RS strut tower bar (front, 2-point design with adjustable tension) and a custom rear subframe brace (aluminum 6061-T6, CNC-machined) paired with Ohlins DFV Road & Track coilovers (2-way adjustable damping, 30-way adjustable compression, 12kg/mm front springs, 8kg/mm rear springs) and a Whiteline adjustable rear sway bar (18mm, 3-position adjustable) for optimized weight transfer and cornering stability"
+  ],
+  "estetica": [
+    "Custom widebody conversion using a Veilside Fortune 03-inspired kit (fiberglass construction, bolt-on fenders with 50mm extended flares) paired with a Rocket Bunny V1 rear bumper (polyurethane, integrated diffuser) and a custom carbon fiber hood (1.5mm thick, vented for intercooler clearance) from Seibon Carbon for aggressive stance and improved aerodynamics",
+    "Exterior lighting upgrade with custom Hella Dynamic LED headlights (projector-style, 5000K color temperature) and a full LED taillight conversion (Osram LEDriving SL bulbs, sequential turn signals) paired with a custom rear spoiler (carbon fiber, 3D-printed mounting brackets) from APR Performance (GTC-200 model, 30mm adjustable height) for enhanced visibility and downforce",
+    "Interior overhaul with a full Bride Zeta III seat conversion (fixed-back, carbon fiber shell, 30mm side bolsters) paired with a custom roll cage (TIG-welded 4130 chromoly, 6-point design with integrated harness bar) from AutoPower Industries and a custom dashboard overlay (carbon fiber, 1.2mm thick) featuring a Defi Advance BF series gauge cluster (oil pressure, boost, wideband AFR) for a race-inspired cockpit"
+  ]
+}

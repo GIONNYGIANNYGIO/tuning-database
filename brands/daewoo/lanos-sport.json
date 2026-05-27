@@ -1,0 +1,14 @@
+{
+  "brand": "DAEWOO",
+  "model": "LANOS SPORT",
+  "prestazioni": [
+    "Engine swap to a naturally aspirated **A16DMS** (1.6L DOHC 16V, 106 HP stock) with a **JE Pistons 87mm forged piston kit** (8.5:1 compression) and **Manley H-beam connecting rods** for high-RPM reliability, paired with a **Kelford 272° camshaft** (intake/exhaust) for aggressive overlap and top-end power.",
+    "Forced induction via a **Garrett GT2560R turbocharger** (0.60 A/R turbine housing) with a **Tial 38mm external wastegate** and **Custom 3-inch stainless steel turbo manifold** (fabricated by **Sparco Engineering**), feeding into a **GReddy Type-S intercooler** (front-mount, 600x300x76mm core) and **SARD 750cc/min fuel injectors** (side-feed, low-impedance).",
+    "Full standalone engine management via a **Haltech Elite 2500 ECU** with **Bosch 0280158001 MAP sensor** and **AEM X-Series wideband O2 sensor**, controlling a **Walbro 255 LPH in-tank fuel pump** and **NGK Iridium IX spark plugs** (heat range 7). Suspension overhaul with **KW Variant 3 coilovers** (14-level rebound damping, 20mm drop) and **Whiteline adjustable sway bars** (22mm front, 18mm rear) for chassis rigidity."
+  ],
+  "estetica": [
+    "Full **Rocket Bunny V1 Lanos Sport widebody kit** (FRP construction, 50mm flares) with **custom carbon fiber front splitter** (3D-scanned for OEM+ fitment) and **Voltex Type-3 rear wing** (2000mm span, 300mm chord, adjustable angle).",
+    "OEM+ aggressive stance via **Work Meister S1 3P 15x8 +35 wheels** (5x100 PCD, 205/45/15 Federal 595 RS-RR tires) with **Hardrace adjustable camber plates** (front) and **SPL rear lower control arms** (polyurethane bushings).",
+    "Interior stripped and reinforced with a **Sparco Pro ADV racing seat** (FIA 8855-1999 certified, 6-point harness) and **Custom roll cage** (TIG-welded 4130 chromoly, 6-point main hoop, gusseted rear triangulation) by **Custom Cages UK**, paired with a **Momo Mod.78 steering wheel** (350mm diameter, suede grip) and **Defi BF gauges** (oil pressure, boost, wideband AFR)."
+  ]
+}

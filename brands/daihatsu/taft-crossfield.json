@@ -1,0 +1,14 @@
+{
+  "brand": "DAIHATSU",
+  "model": "TAFT CROSSFIELD",
+  "prestazioni": [
+    "Engine swap to a turbocharged 1.0L **KF-VE3** (from Daihatsu Copen GR Sport) with forged internals (JE Pistons 8.5:1 compression, Eagle H-beam connecting rods) and a **Garrett GT1544V** turbocharger running 1.2 bar of boost, paired with a **HKS Super SQV4** blow-off valve and a **Toda Racing** high-flow exhaust manifold",
+    "Full **Haltech Elite 1500** standalone ECU with custom mapping for E85 flex-fuel capability, integrated with a **Link G4+ Monsoon** piggyback for auxiliary sensor logging (oil pressure, fuel pressure, wideband AFR via **AEM X-Series 30-0300** sensor)",
+    "Suspension overhaul with **Öhlins Road & Track DFV** coilovers (custom valving for 15mm lift), **SuperPro** poly bushings (front control arms, subframe), and **D2 Racing** 25mm rear sway bar to reduce body roll during aggressive off-road transitions"
+  ],
+  "estetica": [
+    "**Rocket Bunny V3** widebody kit (fiberglass fenders, carbon fiber front splitter, and rear diffuser) with custom **Seibon Carbon** hood (vented for intercooler airflow) and **Volk Racing TE37V** 17x8.5 ET+15 wheels (staggered setup with 225/55R17 **Yokohama Geolandar X-AT** tires)",
+    "Full **3M 1080 Matte Military Green** wrap with **Avery Dennison Gloss Black** accents (roof, mirror caps, and lower rocker panels), paired with **Morimoto XB LED** headlights and **Depo Racing** JDM-style taillights (clear lens, smoked housing)",
+    "Custom **Recaro SR-7F** seats (retrimmed in **Alcantara with green stitching**) mounted on **Bride Lowmax II** seat rails, with a **NRG Innovations** quick-release steering wheel (350mm, suede) and **Defi BF** gauge pod (boost, oil temp, fuel pressure) integrated into the A-pillar"
+  ]
+}

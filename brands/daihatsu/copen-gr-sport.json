@@ -1,0 +1,14 @@
+{
+  "brand": "DAIHATSU",
+  "model": "COPEN GR SPORT",
+  "prestazioni": [
+    "KF-DET (660cc turbocharged inline-3) forced induction upgrade: Garrett GT1549S turbocharger with billet compressor wheel, 0.63 A/R turbine housing, and 3D-printed titanium wastegate actuator bracket for reduced lag and 220+ hp potential (stock internals with forged pistons from Tomei for reliability).",
+    "Custom ECU reflash via Haltech Elite 1500 with direct port injection mapping for E85 compatibility, paired with a 1000cc ID1000x injectors and a Bosch 044 fuel pump upgrade, ensuring stoichiometric AFR at 28 psi boost.",
+    "KF-DET-specific HKS Hi-Power exhaust manifold with 4-2-1 equal-length design, ceramic-coated for thermal efficiency, paired with a custom 2.5-inch titanium exhaust system by Fujitsubo Giken, featuring a straight-through center section and a 304 stainless steel rear muffler for optimal scavenging."
+  ],
+  "estetica": [
+    "GR Sport-specific Rocket Bunny V3 widebody kit (front fenders, rear quarter panels, and rear bumper) with carbon fiber overfenders, extending track width by 50mm for aggressive stance and 225/40R17 tire clearance.",
+    "Custom GR Sport front lip spoiler by Varis Japan, featuring a 3D-printed ABS splitter with integrated canards and a removable gurney flap for adjustable downforce (tested in CFD for 15% reduction in lift at 120 km/h).",
+    "OEM+ GR Sport interior overhaul: Recaro Pole Position seats with custom Alcantara/leather upholstery by Status Racing, GR Sport-specific Momo Prototipo steering wheel with red stitching, and a custom aluminum shift knob by Buddy Club (weighted for KF-DET gearbox feel)."
+  ]
+}

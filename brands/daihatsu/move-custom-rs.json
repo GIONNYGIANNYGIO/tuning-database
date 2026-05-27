@@ -1,0 +1,14 @@
+{
+  "brand": "DAIHATSU",
+  "model": "MOVE CUSTOM RS",
+  "prestazioni": [
+    "KF-VE3 (660cc DOHC 12V turbocharged) engine: Full forged internals with Tomei 82mm forged pistons, Eagle H-beam connecting rods, and a billet crankshaft for 1.2L stroker build (82mm stroke) supporting 250+ hp with a Garrett GT1549 turbocharger (0.63 A/R turbine housing) and custom 3-inch stainless downpipe by HKS",
+    "KF-VE3-specific Haltech Elite 2500 ECU with custom flex-fuel mapping for E85, paired with a Tomei M82 high-flow fuel pump, ID1000x injectors, and a custom 3-core front-mount intercooler by GReddy (Type-RS spec) with -20°C intake temps at 1.5 bar boost",
+    "Full drivetrain reinforcement: Cusco 1.5-way LSD for the 5-speed manual transmission, HKS Super Power Flow carbon driveshaft, and a custom 4.1 final drive ratio swap with KAAZ limited-slip differential and reinforced CV joints by Driveshaft Shop (Stage 2)"
+  ],
+  "estetica": [
+    "Liberty Walk LB-MOVE widebody kit (custom-fabricated for the RS chassis) with carbon fiber overfenders, front splitter, and rear diffuser, paired with a custom 3-piece aluminum roof by Varis (weight reduction: 12kg)",
+    "Ohlins DFV Road & Track coilovers (custom valved for the Move RS’s 1,500kg weight) with 30-way adjustable damping, poly bushings by SuperPro (front/rear control arms), and custom camber plates by Cusco for -3.5° front camber",
+    "Full custom aero package: Seibon carbon fiber hood (vented for intercooler clearance), custom rear wing by APR Performance (GT-250 spec, 3D-printed endplates), and a full titanium exhaust system by Fujitsubo (76mm dual outlets, 304 stainless headers)"
+  ]
+}

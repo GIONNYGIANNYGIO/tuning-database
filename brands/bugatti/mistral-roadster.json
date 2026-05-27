@@ -1,0 +1,14 @@
+{
+  "brand": "BUGATTI",
+  "model": "MISTRAL ROADSTER",
+  "prestazioni": [
+    "Engine: 8.0L W16 (Engine Code: **QC16**) – Replace stock IHI turbochargers with **Garrett GTX5544R Gen II** billet wheel turbos, featuring 76mm compressor wheels and 106mm turbine wheels, paired with **Tial MV-R 64mm wastegates** and **TurboSmart Race Port BOV** for optimized spool and reduced lag at 2.2 bar boost (up from 1.55 bar stock).",
+    "Fuel System: Upgrade to **Bosch Motorsport 1,200cc/min port injectors** alongside **AEM 400LPH dual-pump fuel system** with **Radium Engineering fuel surge tank** to support 1,800+ HP on **E85 blend**, paired with **Motec M150 ECU** for real-time flex-fuel mapping and traction control.",
+    "Drivetrain: Install **Wavetrac Torsen LSD** in the **Ricardo 7-speed DSG** transmission with **South Bend Clutch Stage 4 carbon twin-disc clutch** and **PPG 1,000HP-rated gearset** (3.82 final drive ratio) for sub-2.0s 0-60mph acceleration, complemented by **Penske 8760 coilovers** with **Eibach ERS springs** for launch control optimization."
+  ],
+  "estetica": [
+    "Aerodynamics: **RML Group carbon fiber GT3-style front splitter** with **active Gurney flaps** (adjustable via **MoTeC ADL3 dash control**) and **Bugatti-specific rear diffuser** by **Liberty Walk**, featuring **3D-printed titanium vortex generators** for 30% more downforce at 250 mph.",
+    "Exterior: **Vossen HF-6 21x11.5 (front) / 22x13 (rear) forged wheels** with **Michelin Pilot Sport Cup 2 R tires (325/25R22 rear)**, wrapped in **3M Matte Graphite Vinyl with PPF clear bra** on high-impact zones, and **Novitec carbon fiber side skirts** with **LED-illuminated Bugatti ‘EB’ badges**.",
+    "Interior: **Recaro Pole Position carbon-Kevlar seats** with **Schroth 6-point harnesses**, **Alcantara-wrapped MOMO Prototipo steering wheel** with **AiM MXS 1.2 data logger**, and **custom titanium shift paddles** (CNC-machined from **Grade 5 aerospace alloy**) for the DSG, paired with **Brembo GT-R monoblock calipers** (gold anodized) visible through **Lexan polycarbonate rear window**."
+  ]
+}

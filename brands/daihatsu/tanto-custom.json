@@ -1,0 +1,14 @@
+{
+  "brand": "DAIHATSU",
+  "model": "TANTO CUSTOM",
+  "prestazioni": [
+    "KF-VE3 (660cc DOHC 12V turbocharged) engine swap with HKS GT-SS turbocharger (TD03-10T) and custom 3.5-inch intercooler piping routed through the front bumper duct for optimized airflow, paired with a Tomei 4-2-1 stainless steel header and HKS Hi-Power exhaust with 50mm diameter piping terminating in a single 100mm titanium tip",
+    "KF-VE3-specific Haltech Elite 1500 ECU with custom fuel mapping for E85 compatibility, utilizing ID1000x injectors and a Walbro 255lph fuel pump, alongside a custom 3-core radiator from Koyorad and an oil cooler kit from Trust/GReddy (part #12003) mounted behind the front grille",
+    "Full drivetrain reinforcement including a Cusco 1.5-way limited-slip differential (LSD) for the 3AT transmission, HKS Super Fire Racing spark plugs (part #50003-M45i), and a custom lightweight flywheel from Exedy (clutch kit #FM038U) paired with a Tilton hydraulic throwout bearing for precise engagement"
+  ],
+  "estetica": [
+    "Full Rocket Bunny V3 widebody kit (Tanto Custom-specific, part #RB-DT01) with custom carbon fiber overfenders extending 30mm per side, paired with a custom front splitter from Vertex (part #VT-DT01) and a 3D-printed rear diffuser from 3D-Kustoms (Tanto-specific, 200mm extension)",
+    "Custom 17-inch Volk Racing TE37SL wheels (4x100 PCD, 17x7 +38 offset) wrapped in Yokohama Advan Neova AD08R tires (195/40R17), with custom wheel spacers from 5Zigen (10mm front, 15mm rear) to fill the widened arches, and custom gold anodized lug nuts from Muteki (part #SR48G)",
+    "Full interior overhaul with Bride Zeta III bucket seats (Tanto-specific mounting brackets, part #BR-123DT) upholstered in Alcantara with red stitching, a custom roll cage from AutoTechnic (6-point, Tanto-specific design, part #AT-DT01), and a custom carbon fiber dashboard overlay from Seibon (part #CF-DT01) with a digital gauge cluster from Defi (part #DF13001) mounted in the center console"
+  ]
+}

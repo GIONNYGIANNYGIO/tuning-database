@@ -1,0 +1,14 @@
+{
+  "brand": "BUGATTI",
+  "model": "GALIBIER",
+  "prestazioni": [
+    "Engine: W16 quad-turbo (engine code: **QGV**) with a bespoke **Motec M182 ECU** remap targeting 1,200 HP at 6,500 RPM and 1,300 Nm of torque at 3,500 RPM, utilizing **Bosch Motorsport 1,000cc injectors** and a **Tial MV-R 4.0 wastegate** setup for optimized boost control (1.8 bar peak pressure).",
+    "Forced induction: **Garrett GTX5533R Gen II turbos** (hybrid billet wheels, 76mm compressor, 84mm turbine) paired with a **PWR Australia 1,500HP intercooler** (bar-and-plate core, 4.5\" inlet/outlet) and **Silicone Intakes 4-ply silicone charge pipes** with **V-band clamps** for leak-proof boost delivery.",
+    "Drivetrain: **Ricardo 8-speed dual-clutch transmission** reinforced with **PPG carbon-fiber clutch plates** and a **Quaife ATB differential** (torque-biasing 45/55 split), mated to a **Brembo GT 380mm x 38mm 6-piston monobloc caliper** front brake kit with **Pagid RS29 racing pads** and **AP Racing 380mm 2-piece rotors** for fade-resistant stopping power."
+  ],
+  "estetica": [
+    "Aerodynamics: **Liberty Walk LB Galibier widebody kit** (hand-laid carbon fiber, 80mm extended fenders, integrated canards) with a **Vorsteiner V-FF107 front splitter** (adjustable dive planes) and **Rocket Bunny GT rear diffuser** (dual-layer carbon, 3-stage gurney flaps).",
+    "Exterior: **PPF (Paint Protection Film) in XPEL Stealth matte finish** with **BBS LM-R 20x12\" front / 21x13\" rear forged wheels** (ET20/ET15 offsets, 5x130 PCD) wrapped in **Michelin Pilot Sport Cup 2 R tires** (285/30R20 front, 335/25R21 rear). **HRE FlowForm FF03 wheels** as a lightweight alternative.",
+    "Lighting: **Lux HID V4 headlight retrofit** (Bi-Xenon projectors, 5,500K color temp) with **Morimoto XB LED fog lights** and **Oracle Lighting Dynamic RGB halo rings** (syncable with **Alpine iLX-F509** infotainment for custom animations)."
+  ]
+}

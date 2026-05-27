@@ -1,0 +1,14 @@
+{
+  "brand": "DAIHATSU",
+  "model": "FEROZA EL",
+  "prestazioni": [
+    "HD Engine HD-E (HC-E) 1.6L SOHC 16V (engine code: HD-E) forced induction conversion using a Garrett GT2860RS turbocharger with a custom 3-inch stainless steel exhaust manifold, paired with a Tomei 260° camshaft and HKS Hi-Power blow-off valve for optimized spool and response under boost (target: 220 HP at 7,500 RPM with 1.2 bar of boost).",
+    "Full custom engine management via Haltech Elite 1500 ECU with individual cylinder tuning, integrated with a Link G4+ wideband controller and AEM X-Series 30-0300 oil pressure/temperature sensors for real-time monitoring of the HD-E’s weak oil pump under high load.",
+    "Chassis reinforcement using a Cusco bolt-in roll cage (part #602 520 A) and custom polybushings from SuperPro (part #SPF0115K) for the HD-E’s unique subframe, paired with a KAAZ 2-way limited-slip differential (LSD) and custom driveshafts from Driveshaft Shop to handle increased torque (spec: 3.5-inch 4340 chromoly shafts with CV joints)."
+  ],
+  "estetica": [
+    "Rocket Bunny Feroza EL-specific widebody kit (Pandem #PD-FER01) with custom carbon fiber overfenders, paired with a custom front splitter from Seibon Carbon (part #CF-FER01) and a rear diffuser from Varis (part #VAR-FER01), all finished in matte Gunmetal with exposed carbon weave accents.",
+    "OEM+ JDM-inspired lighting conversion: custom Hella headlight housings with Osram HID bulbs (part #66240CB) and Depo taillights (part #DEP-335-2015L-ASM) with sequential LED turn signals, paired with a custom LED bar integrated into the Feroza’s unique rear spare tire mount (using Philips X-tremeUltinon Pro6000 LEDs).",
+    "Interior overhaul with Bride Zeta III bucket seats (part #BRZ-3-FER) mounted on custom brackets to fit the Feroza’s narrow cabin, paired with a Nardi Classic 350mm steering wheel (part #51013020) and a custom aluminum shift knob from 5X Racing (part #5X-FER-SHIFT) for the HD-E’s 5-speed manual transmission."
+  ]
+}

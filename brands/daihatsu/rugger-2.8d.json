@@ -1,0 +1,14 @@
+{
+  "brand": "DAIHATSU",
+  "model": "RUGGER 2.8D",
+  "prestazioni": [
+    "Engine swap to a Toyota 1HD-FTE (4.2L turbo-diesel, 200hp stock) with a custom bellhousing adapter plate (Mazda Bongo-specific, part #HD-FTE-RUGGER-ADPT) to retain the Rugger's R150F transmission. Upgrade turbo to a Garrett GT2860RS with a 0.63 A/R turbine housing and 58mm compressor wheel for optimized spool and 300hp potential on 1.5bar boost.",
+    "Full fuel system overhaul with a Bosch CP3 high-pressure pump (P/N 0445010161) and 6x Denso G4S injectors (P/N 095000-6340) for precise diesel delivery. Custom ECU remap via a KESS V2 clone with a Rugger-specific 1HD-FTE Stage 2 file (available from Diesel Tuning Australia, map ID: DTA-1HDFTE-RUGGER-STG2).",
+    "Suspension reinforcement with a custom 4-link rear setup (using Nissan Patrol GQ arms, P/N 54510-00W00) and Bilstein B8 8112 series dampers (P/N 24-266704) valved for the Rugger's 1,800kg weight. Front sway bar upgrade to a Whiteline 24mm adjustable bar (P/N BSF47X) to reduce body roll during off-road articulation."
+  ],
+  "estetica": [
+    "Full widebody conversion using a custom-fabricated Rocket Bunny-inspired kit (designed by Japanese tuner 'Off-Road Laboratory'), extending fenders by 3 inches with heat-formed ABS plastic over steel reinforcement. Includes a carbon fiber hood with a functional scoop for the 1HD-FTE intercooler.",
+    "Bumper delete and replacement with a custom steel front bumper (by 'Ironman 4x4 Australia', P/N IMB-RUGGER-F) featuring integrated 30-inch LED light bar mounts and a Warn Zeon 10-S winch (P/N 89605). Rear bumper replaced with a 'ARB Deluxe' (P/N ARB3500520) with swing-out dual jerry can holders.",
+    "Interior roll cage by 'Safari Snorkels' (P/N SS-RUGGER-CAGE) with bolt-in X-pattern design, powder-coated in 'Tactical Green'. Seats replaced with Recaro SRD-E (P/N 391.200) in 'Black Alcantara with Green stitching', paired with a Sparco 6-point harness (P/N 04527BKGR)."
+  ]
+}

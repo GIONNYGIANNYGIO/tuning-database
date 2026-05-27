@@ -1,0 +1,14 @@
+{
+  "brand": "DODGE",
+  "model": "CHALLENGER SRT DEMON 170",
+  "prestazioni": [
+    "Supercharger upgrade to a Magnuson TVS2650 (engine code: SRT 6.2L HEMI Demon V8 - *EFI* supercharged, cast-aluminum block, forged internals) with a 3.0L rotor pack, 12-rib serpentine drive, and a custom billet aluminum snout for optimized airflow, paired with a Kenne Bell Boost-a-Pump to maintain 80 psi fuel pressure under 1,000+ HP loads",
+    "Full fuel system overhaul with dual Fore Innovations F2-2000 fuel pumps (2,000 LPH each), Injector Dynamics ID1700x injectors (1,700cc/min), and a Radium Engineering dual-port fuel pressure regulator to support E85 blends at 30 psi base pressure, alongside a custom billet aluminum fuel rail from Demon-specific tuner *Hennessey*",
+    "Custom turbocharged hybrid build (for track-only variants) replacing the OEM supercharger with a Garrett GTX5533R Gen II turbo (88mm inducer, 1.15 A/R turbine housing) on a custom 3D-printed titanium exhaust manifold (designed by *Spoolin Performance*), paired with a Tial MV-R 60mm wastegate and a Turbosmart Race Port BOV for 1,200+ HP capability on E85"
+  ],
+  "estetica": [
+    "Widebody conversion using the *Demon 170 Aero Kit* by *Anderson Composites* (carbon fiber front fenders, rear quarter panels, and trunk lid with integrated OEM-style Demon badging), paired with a *Rocket Bunny* GT-style rear wing (Type 3, 3-piece carbon fiber, 75mm adjustable angle) for 300+ lbs of downforce at 150 mph",
+    "Custom Demon-specific *Forge Motorsport* carbon fiber hood with a 3D-printed titanium hood scoop (modeled after the *Dodge SRT Viper ACR* design) for optimized intercooler airflow, finished with a matte black vinyl wrap and red *3M Scotchcal* Demon 170 decals on the fenders and rear quarter panels",
+    "Interior overhaul with *Recaro Pole Position* carbon fiber bucket seats (Demon-specific mounting brackets), a *Sparco* 6-point harness (ASM EVO model), and a *MoTeC C127* digital dash (replacing the OEM cluster) with a custom Demon-themed layout displaying boost, AFR, and fuel pressure in real-time, paired with a *Demon-exclusive* Alcantara-wrapped *Nardi* 380mm steering wheel"
+  ]
+}

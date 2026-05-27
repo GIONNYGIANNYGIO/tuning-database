@@ -1,0 +1,14 @@
+{
+  "brand": "DAIHATSU",
+  "model": "FELLOW MAX L",
+  "prestazioni": [
+    "Engine swap to a Daihatsu EB-20DET (0.66L turbocharged inline-3, 64mm bore, 68mm stroke) with forged internals: JE Pistons 8.5:1 compression forged pistons, Eagle H-beam connecting rods, and a billet crankshaft. Pair with a Garrett GT12 turbo (GT1241Z, 0.40 A/R turbine housing) and a custom 38mm external wastegate (Tial MV-R) for 1.2 bar boost targeting 150hp at the wheels.",
+    "Full custom 4-1 stainless steel exhaust manifold (304-grade, 1.5mm wall thickness) with a 42mm primary tube diameter, paired with a custom 2.25\" straight-pipe exhaust system featuring a HKS Hi-Power Super Sound muffler (part #31006-AK001) and a 100-cell catalytic converter (MagnaFlow 64103) for emissions compliance.",
+    "Custom ECU tuning via a Haltech Elite 750 standalone ECU with a 3D-printed intake manifold (PETG material) featuring individual throttle bodies (ITBs) from a Keihin FCR 39mm carburetor setup, adapted with custom billet aluminum mounts. Fuel system upgrade includes a Walbro 255LPH in-tank pump, 600cc/min injectors (ID1000), and a custom fuel rail with AN-6 fittings."
+  ],
+  "estetica": [
+    "Full custom widebody conversion using a Rocket Bunny Fellow Max kit (Pandem #PD-DHFLM-01), modified to fit the L-spec chassis with extended steel fenders (1.5mm thickness) and custom carbon fiber overfenders (1.2mm thickness, dry carbon). Rear quarter panels reinforced with seam welding and custom aluminum gussets for rigidity.",
+    "Custom front bumper lip and rear diffuser from a 3D-printed ABS prototype, molded into a final carbon fiber piece (2x2 twill weave) with integrated LED fog lights (Morimoto XB LED, 3000K) and a central tow hook (Cusco Type-RS). Rear diffuser includes a Gurney flap and side vents for aerodynamic balance.",
+    "OEM+ interior with a full custom roll cage (6-point, TIG-welded 4130 chromoly) from Custom Cages UK, paired with Bride Zeta III bucket seats (fixed-back, FIA-approved) and a custom dashboard overlay in 3mm aluminum (brushed finish) featuring a digital gauge cluster (AEM X-Series 30-0300) and a Momo Mod.78 steering wheel (350mm diameter, suede grip)."
+  ]
+}

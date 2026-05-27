@@ -1,0 +1,14 @@
+{
+  "brand": "DAIHATSU",
+  "model": "CHARADE GTTI",
+  "prestazioni": [
+    "Engine: CB-23 (1.3L DOHC 16V turbocharged) – Full forged internals including JE 83mm forged pistons (9.5:1 CR), Eagle H-beam connecting rods, and ACL Race Series bearings for 1.5-bar boost reliability. Replace stock turbo with a Garrett GT2554R (54 trim, .60 A/R turbine housing) for 220+ HP potential with minimal lag.",
+    "Fuel System: Upgraded to a Walbro 255 LPH in-tank fuel pump paired with Injector Dynamics ID1000x injectors (1000cc/min) and a Sard 60mm dual-driver fuel pressure regulator. Custom ECU tune via Haltech Elite 1500 with flex-fuel capability and launch control for 0-60 mph in 5.2s.",
+    "Drivetrain: OS Giken Super Lock LSD (2-way) in the C56 transmission with upgraded synchros. Clutch Masters FX400 twin-disc clutch with billet flywheel. Custom 4.11:1 final drive ratio for optimized acceleration, paired with a Cusco Type-RS 1.5-way limited-slip differential."
+  ],
+  "estetica": [
+    "Body Kit: Rocket Bunny V1 Charade GTti-specific widebody kit (front fenders, rear quarter panels, and rear bumper) with carbon fiber overfenders. Custom front splitter and rear diffuser by Veilside (JDM-spec, 3-piece design) for -20% lift at 100 mph.",
+    "Suspension: Ohlins Road & Track DFV coilovers (2-way adjustable damping) with custom spring rates (8kg/mm front, 7kg/mm rear) and Cusco pillowball upper mounts. Polyurethane bushings (SuperPro) for subframe and control arms to eliminate flex.",
+    "Wheels & Aero: Work Meister S1 3P 15x8 +15 (front) and 15x9 +20 (rear) with 195/50R15 (front) and 215/45R15 (rear) Yokohama Advan A052 tires. Custom carbon fiber hood (Seibon) with functional NACA ducts for intercooler airflow. Rear wing: Voltex Type-3 (1700mm width, 3D carbon) with adjustable angle for 150+ lbs downforce at 120 mph."
+  ]
+}

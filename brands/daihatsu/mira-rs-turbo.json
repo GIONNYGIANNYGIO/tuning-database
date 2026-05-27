@@ -1,0 +1,14 @@
+{
+  "brand": "DAIHATSU",
+  "model": "MIRA RS TURBO",
+  "prestazioni": [
+    "EB-60 (659cc inline-3 DOHC 12V turbo) engine: Full forged internals with JE 81.5mm forged pistons (8.5:1 CR), Eagle H-beam connecting rods, and ACL Race Series bearings to handle 1.5-bar boost reliably. Stock crank retained with balanced flywheel for high-RPM stability.",
+    "Turbocharger upgrade: Garrett GT1241Z (52mm inducer, 56mm exducer) with TiAL 38mm external wastegate, custom 3-inch stainless downpipe, and HKS SSQV blow-off valve. Intercooler: GReddy Type-S front-mount (240x120x76mm core) with custom aluminum piping and silicone couplers from Samco Sport.",
+    "ECU and fueling: Haltech Elite 1500 standalone ECU with custom 3D-printed intake manifold adapter for 4x ID1000 injectors (side-feed, 1000cc/min). Fuel system: Walbro 255lph in-tank pump, Radium Engineering fuel pressure regulator (FPR), and AN-6 braided lines. Ignition: HKS Twin Power spark plugs (BKR6EIX) with NGK 8mm iridium wires."
+  ],
+  "estetica": [
+    "Chassis reinforcement: Cusco Type-RS strut tower bar (front) and rear upper strut brace (aluminum, 3-point design). Full seam-welded chassis with custom subframe connectors from Garage Vary for rigidity.",
+    "Aero: Rocket Bunny Mira RS-specific widebody kit (FRP, 50mm flares) with custom carbon fiber front splitter (30mm overhang) and rear diffuser from Vertex. Rear wing: Voltex Type-3 (1700mm span, 3D carbon, adjustable angle).",
+    "Wheels and stance: Work Meister S1 3P 15x7 +15 (front) and 15x8 +25 (rear) with Toyo R888R 185/50R15 (front) and 205/50R15 (rear). Suspension: Tein Flex Z coilovers (8kg/mm front, 6kg/mm rear) with Cusco pillowball upper mounts and Whiteline 22mm adjustable rear sway bar."
+  ]
+}

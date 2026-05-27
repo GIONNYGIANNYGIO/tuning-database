@@ -1,0 +1,14 @@
+{
+  "brand": "DAIHATSU",
+  "model": "WAKE D",
+  "prestazioni": [
+    "Engine swap to a **KF-VE3** (660cc turbocharged inline-3, 64PS stock) with a **Garrett GT12 turbocharger** (GT1241Z, .41 A/R turbine housing) and **HKS Super Power Flow Reloaded** front-mount intercooler (Daihatsu Wake-specific core dimensions: 300x150x50mm) for reduced intake temps under boost",
+    "Full **Toda Racing KF-VE3 forged internals** kit (forged pistons with 9.5:1 compression, billet crankshaft, and **Toda Racing H-beam connecting rods**) paired with a **Jun Auto high-pressure oil pump** (1200cc/min flow rate) and **N1-spec head gasket** (0.3mm oversized, multi-layer steel)",
+    "Custom **Haltech Elite 1500 ECU** with **Daihatsu Wake D-specific base map** (optimized for E85 flex-fuel, 1.5-bar boost target, and **ID1000x injectors** with **Radium Engineering fuel rail** for KF-VE3 compatibility), including **AEM X-Series wideband O2 sensor** and **Defi Advance BF oil pressure/temp gauges** (mechanical drive, 100mm pod mount)"
+  ],
+  "estetica": [
+    "**Varis Japan Daihatsu Wake D widebody kit** (fiberglass fenders with 50mm extended wheel arches, bolt-on overfenders for 17x7.5 +35 ET Enkei PF05 wheels in matte bronze, and **Work Emotion CR Kiwami** center-lock adapters)",
+    "**Seibon Carbon Daihatsu Wake D roof panel** (pre-preg carbon, 1.2mm thickness, weight reduction of 3.2kg) with **JDM-spec rain gutter delete** and **3M 1080 Gloss Black vinyl wrap** on the A-pillars for a floating roof effect",
+    "**Tommy Kaira Daihatsu Wake D front bumper lip** (polyurethane, 45mm lower than OEM) paired with **C-West rear diffuser** (carbon fiber, 3-fin design, 150mm extension) and **Daihatsu Wake D-specific LED taillight conversion** (using **Morimoto XB35 LED bulbs** and **Depo JDM-style smoked lenses**)"
+  ]
+}
