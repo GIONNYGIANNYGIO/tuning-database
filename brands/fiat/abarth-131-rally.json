@@ -1,0 +1,14 @@
+{
+  "brand": "FIAT",
+  "model": "ABARTH 131 RALLY",
+  "prestazioni": [
+    "Engine: 2.0L Lampredi inline-4 (131 Abarth engine code: 131A0.000) with forged internals including Mahle Motorsport forged pistons (8.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from JE Pistons. Full balanced rotating assembly by Race Engine Development (RED).",
+    "Forced induction: Garrett GT35R turbocharger (67mm compressor wheel, .82 A/R turbine housing) with a custom 3-inch stainless steel exhaust manifold by Janspeed Engineering, paired with a Tial 44mm external wastegate and a custom intercooler setup (GReddy Type-S front-mount, 22x12x3.5 inches) with silicone couplers from Vibrant Performance.",
+    "Fuel and ignition: Bosch Motorsport 044 high-flow fuel pump, Injector Dynamics ID1000 fuel injectors (1000cc/min), and a Haltech Elite 2500 standalone ECU with custom rally-spec mapping for 98 RON fuel. Ignition system upgraded to MSD 6AL-2 with Blaster SS coil and NGK R7437-9 racing spark plugs (0.8mm gap)."
+  ],
+  "estetica": [
+    "Body: Full Group 4 homologation replica widebody kit by Abarth Classiche, including fiberglass fender flares (front: +3.5 inches, rear: +4 inches), aluminum hood with dual NACA ducts, and a carbon fiber rear spoiler from Zender (Group 4-spec).",
+    "Wheels: Campagnolo 15x8-inch magnesium wheels (ET15 offset) with 215/60R15 Pirelli P7 Corsa tires (front) and 15x9-inch Campagnolo wheels (ET10 offset) with 235/60R15 Pirelli P7 Corsa tires (rear). Center-lock conversion using OZ Racing hubs and Abarth Classiche wheel nuts.",
+    "Interior: Full FIA-spec roll cage by Safety Devices (8-point, T45 steel), Sparco Pro 2000 seats with 3-inch Schroth 6-point harnesses, and a custom aluminum dashboard with Smiths gauges (3.5-inch tachometer, 2.5-inch oil pressure, water temp, and boost gauges). Steering wheel: Nardi 380mm suede with quick-release hub."
+  ]
+}

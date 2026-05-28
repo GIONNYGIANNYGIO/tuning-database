@@ -1,0 +1,14 @@
+{
+  "brand": "FIAT",
+  "model": "PALIO WEEKEND STILE",
+  "prestazioni": [
+    "Engine swap to a **FIRE 1.8 16V (188A5.000)** with forged internals: Mahle forged pistons (83.5mm bore, 8.5:1 CR), Carrillo H-beam connecting rods, and a billet crankshaft from **JE Pistons** for 1,800cc capacity. Turbocharged with a **Garrett GT2860RS-5** (0.63 A/R turbine housing) running 1.2 bar of boost, paired with a **Tial MV-R 44mm wastegate** and **GReddy Type-S intercooler** (3.5\" core).",
+    "Custom **Motec M150 ECU** standalone management with **Bosch 0280158001** 850cc/min injectors, **Walbro 255 LPH fuel pump**, and a **Radium Engineering fuel surge tank** for lateral G-force stability. Ignition system upgraded to **NGK R7437-9** iridium plugs and **MSD 8207** coil packs for precise timing under boost.",
+    "Suspension overhaul with **Ohlins Road & Track DFV dampers** (custom valved for the Palio Weekend’s 2,423mm wheelbase), **Eibach Pro-Kit springs** (30mm drop), and **Whiteline adjustable sway bars** (22mm front, 19mm rear). Polyurethane bushings from **SuperPro** (part #SPF0116-K) replace all OEM rubber for sharper handling. Braking upgraded to **Brembo GT 330mm front rotors** (2-piece, slotted) with **Ferodo DS2500 pads**, and **Brembo 08.9754.73** rear calipers."
+  ],
+  "estetica": [
+    "**Rocket Bunny V1 (PB-001) widebody kit** adapted for the Palio Weekend Stile, with custom carbon fiber overfenders (3\" wider front, 4\" wider rear) and a **Seibon carbon fiber hood** (weight reduction: 8.2kg). Rear diffuser from **VIS Racing** (part #VIS-100109) with integrated **DTM-style tow hooks** (front and rear).",
+    "**Work Emotion CR Kiwami** wheels (17x8 +35 front, 17x9 +30 rear) in **Gunmetal Bronze**, wrapped in **Michelin Pilot Sport Cup 2** tires (215/40/17 front, 245/35/17 rear). Custom **APR Performance GT-250** rear wing (3D-printed aluminum mounts) with **adjustable carbon fiber endplates** for downforce tuning.",
+    "Full **PPG Matte Milano Red (908M)** respray with **3M Scotchcal Matte Clear Coat** for UV protection. **Vinyl Lab** custom graphics: **JDM-inspired \"Stile R\" side decals** (black/gold) and **OEM+ deleted badges** (replaced with **3D-printed FIAT Heritage emblems**). Interior retrimmed with **Recaro SRD-E** seats (custom brackets for Palio chassis), **Momo Prototipo** steering wheel (330mm, suede), and **Alcantara door cards** with **LED ambient lighting** (RGB, controlled via **AEM CD-7 dash**)."
+  ]
+}

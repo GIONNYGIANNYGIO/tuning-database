@@ -1,0 +1,14 @@
+{
+  "brand": "FIAT",
+  "model": "500 ABARTH 695 TRIBUTO FERRARI",
+  "prestazioni": [
+    "Garrett GT2260S turbocharger upgrade (direct replacement for the stock IHI RHF3-P turbo on the T-JET 1.4L EVO engine, code 312A1.000) with custom 3D-printed titanium compressor housing to reduce rotational inertia by 18% and support 28 psi of boost while maintaining OEM-like spool characteristics",
+    "Fully forged internals by JE Pistons (8.5:1 compression, 83mm bore) paired with Manley H-beam connecting rods (2000HP-rated) and a billet crankshaft from Callies (4340 steel, 88mm stroke) to handle 450+ WHP on E85 fuel with a 9,000 RPM redline",
+    "Custom ECU calibration by Abarth specialist GMS Racing (Italy) utilizing a standalone Motec M150 ECU with individual cylinder fuel trims, anti-lag via throttle blipping, and a 4D ignition map optimized for the stock 695’s IHI intercooler and Akrapovic Evolution Line exhaust (2.5\" diameter, titanium valves, 304 stainless steel headers)"
+  ],
+  "estetica": [
+    "Rocket Bunny V1 widebody kit (carbon fiber, 50mm extended fenders front/rear) with custom Abarth-specific front splitter and rear diffuser by Prior Design, painted in Ferrari Rosso Corsa (PPG D8214) with matte black accents on the lower cladding",
+    "Ohlins Road & Track coilovers (DFV damping, 2-way adjustable) with custom spring rates (8kg/mm front, 10kg/mm rear) and spherical bearing top mounts by SuperPro to eliminate compliance in the 695’s MacPherson strut/Multi-link rear suspension",
+    "Ferrari 458 Speciale-style carbon fiber side mirrors (OEM+ fitment) by Novitec, paired with a custom rear wing (3D-printed carbon fiber, 1200mm span, adjustable angle) and a full titanium bolt-on underbody brace by Cusco (20mm thick, 30% stiffer than OEM)"
+  ]
+}

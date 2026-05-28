@@ -1,0 +1,17 @@
+{
+  "brand": "FIAT",
+  "model": "COUPE 20V TURBO",
+  "prestazioni": [
+    "Engine: Replace the stock 1.9L 16V turbo (engine code: 182 A1.000) with a fully built 2.0L 20V turbo (engine code: 182 A2.000) using forged internals from JE Pistons (8.5:1 compression, 87mm bore) and Manley H-beam connecting rods, paired with a Garrett GT3076R turbocharger (0.82 A/R turbine housing) for 350+ HP at 1.5 bar boost on 98 RON fuel.",
+    "Fuel System: Upgrade to a Bosch 044 high-flow fuel pump, Siemens DEKA 80lb/hr injectors (PN: 203-803), and a custom fuel rail from Fuelab, controlled via a Link G4+ Xtreme standalone ECU with flex-fuel capability and individual cylinder trimming for the 20V head.",
+    "Drivetrain: Install a Quaife ATB differential (QDF7J) in the stock C510 gearbox, paired with a Sachs Performance twin-disc clutch (P/N: 3000 951 001) and a lightweight flywheel from Fidanza (P/N: 228031). Replace the stock driveshafts with custom CV-jointed units from GKN Driveline to handle increased torque.",
+    "Suspension: Convert to a full Ohlins Road & Track coilover kit (DFV 2-way adjustable, P/N: OH-TTR2000) with custom valving for the Fiat Coupe’s MacPherson strut front and multi-link rear. Add spherical bearing upper mounts from SuperPro (P/N: SPF3045K) and polybushings for the rear subframe (P/N: SPF1045K).",
+    "Braking: Fit Brembo GT 6-piston calipers (P/N: 1N3.9804.10) with 355mm two-piece rotors up front, paired with Ferodo DS2500 pads. Rear brakes upgraded to Brembo 4-piston calipers (P/N: 09.9804.70) with 300mm rotors and Ferodo DS3000 pads. Stainless steel braided lines from Goodridge (P/N: SS4725)."
+  ],
+  "estetica": [
+    "Body Kit: Install a full custom aero kit from Prior Design (PD-FIATCOUPE), including a carbon fiber front splitter with integrated canards, side skirts with air curtains, and a ducktail rear spoiler. Replace the stock bumpers with lightweight carbon fiber versions from Seibon (P/N: CF-FIAT-COUPE-F/R).",
+    "Wheels: Fit 18x9.5 ET20 front and 18x10.5 ET25 rear wheels from BBS LM (P/N: LM 1895203 and LM 1810525) in a custom gold finish, wrapped in Michelin Pilot Sport Cup 2 tires (245/40/18 front, 275/35/18 rear).",
+    "Interior: Replace the stock seats with Recaro Pole Position seats (P/N: 387 000 40) in black Alcantara with red stitching, paired with a custom roll cage from Custom Cages (6-point, T45 steel, bolt-in). Install a Momo Prototipo steering wheel (P/N: 00112010) and a digital dash from AIM MXS Strada (P/N: 1.2.110).",
+    "Lighting: Convert to full LED lighting with LUX H8/H11 bulbs for the headlights, Osram LEDriving fog lights (P/N: 66240CW), and sequential LED taillights from VLand (P/N: VL-TL-FIAT-001). Add a custom HID angel eye kit from Morimoto (P/N: MOR-XB35-5500K)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "MONDIAL T",
+  "prestazioni": [
+    "Engine: F119D 3.4L V8 (32-valve, DOHC, 4 valves per cylinder) with a custom Motec M150 ECU reflash targeting 420+ hp at 7,800 RPM via optimized fuel maps, aggressive ignition timing (12° BTDC), and 102-octane fuel adaptation, paired with a custom 4-into-1 stainless steel exhaust manifold (hand-fabricated by Capristo) and a Tubi Style titanium exhaust system with 70mm dual outlets to reduce backpressure by 30%",
+    "Forced Induction: Custom-built Rotrex C38-91 supercharger kit (8.5 psi max boost) with a custom air-to-water intercooler (PWR Advanced Cooling) and a Bosch 044 fuel pump upgrade, supplemented by ID1000x injectors and a Walbro 450 LPH in-tank fuel pump for sustained high-RPM fuel delivery",
+    "Suspension & Handling: Öhlins TTX46 coilovers with 8-way adjustable damping (custom valving for Mondial T’s 50/50 weight distribution), paired with spherical bearing front upper control arms (by Ferrari specialist GTO Engineering) and a custom 24mm rear sway bar (fabricated by Cusco) to eliminate body roll, complemented by Brembo GT 380mm 6-piston front and 355mm 4-piston rear brake kits with Ferodo DS2500 pads for fade-resistant stopping power"
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion by Novitec Rosso (Mondial T-specific kit), including extended front fenders (30mm per side), rear quarter panels (40mm per side), and a custom front splitter with integrated canards (hand-laid carbon fiber by APR Performance), paired with a custom ducktail spoiler (CFRP, 3-piece design) for balanced downforce",
+    "Wheels & Aero: HRE FF17 3-piece forged wheels (18x9.5 front, 18x11 rear) with custom offsets (+15 front, +5 rear) to fill the widened arches, wrapped in Michelin Pilot Sport Cup 2 tires (245/40/18 front, 295/35/18 rear), and a custom underbody diffuser (by RW Carbon) with integrated brake cooling ducts",
+    "Interior: Full Alcantara retrim by Sabelt (custom pattern matching Mondial T’s original stitching), including Recaro Pole Position seats (carbon fiber shells, 6-point Schroth harnesses), a custom MOMO Prototipo steering wheel (380mm, suede-wrapped with Ferrari prancing horse emblem), and a digital dash overlay (Aim MXS Strada) integrated into the original cluster housing for real-time boost, AFR, and oil pressure monitoring"
+  ]
+}

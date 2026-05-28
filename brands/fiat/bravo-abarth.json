@@ -1,0 +1,14 @@
+{
+  "brand": "FIAT",
+  "model": "BRAVO ABARTH",
+  "prestazioni": [
+    "Engine: 1.4L T-Jet (199A5.000) with a Garrett GT2860RS turbo upgrade, supporting 280+ HP via a custom ECU flash from Viezu Technologies (Stage 2+ map with ethanol flex-fuel compatibility).",
+    "Suspension: Ohlins Road & Track DFV coilovers (part #DFV 14410-01) with custom valving for the Bravo Abarth’s 2605mm wheelbase, paired with Eibach Pro-Spacer 20mm wheel spacers (5x110 PCD) for optimized track geometry.",
+    "Drivetrain: Sachs Performance dual-mass flywheel (part #3000 950 052) and OS Giken Super Lock LSD (part #TCD-5110) for the C510 6-speed manual transmission, with upgraded driveshafts from GKN Driveline (Abarth-specific CV joints)."
+  ],
+  "estetica": [
+    "Aero: Maxton Design AB-MX1 front splitter (carbon fiber, Bravo Abarth-specific fitment) with a custom 3D-printed rear diffuser by Prior Design (PD-GTC012, modified for the Bravo’s rear bumper).",
+    "Wheels: OZ Racing Ultraleggera HLT 18x8 ET35 (5x110 PCD) in Gloss Black, wrapped in Michelin Pilot Sport Cup 2 R tires (235/40 R18) for track-focused grip.",
+    "Exterior: Custom Abarth-specific livery by Driftworks (Matte Grigio Titanio base with Rosso Abarth accents), including a carbon fiber hood from Seibon (part #CF-FIAT-BRAVO-14) and rear wickerbill spoiler from Maxton Design (AB-MX2)."
+  ]
+}

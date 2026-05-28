@@ -1,0 +1,14 @@
+{
+  "brand": "FIAT",
+  "model": "PUNTO HGT",
+  "prestazioni": [
+    "1.7L 16V (188A4.000) engine forged internals: JE Pistons 83mm forged slugs (9.5:1 CR), Eagle H-beam connecting rods, ACL Race Series bearings, and a balanced crankshaft for 8,500 RPM reliability with a custom 272° camshaft grind from Cat Cams (284° intake/276° exhaust, 11.2mm lift) paired with Supertech valve springs and titanium retainers.",
+    "Garrett GT2860RS turbocharger (0.63 A/R turbine housing) with a custom 3-inch stainless steel exhaust manifold by Tubistyle, mated to a GReddy Type-S intercooler (550x225x76mm core) and a custom 3-inch downpipe with a 200-cell catalytic converter from Milltek Sport. Boost controlled via a TurboSmart e-Boost2 solenoid (1.5 bar peak) and logged via an AEM X-Series wideband O2 sensor (30-0300).",
+    "Standalone ECU: Link G4+ Xtreme with a custom base map calibrated by Viezu Technologies, featuring launch control (4,500 RPM), flat-shift tuning, and anti-lag for rallycross applications. Fuel system upgraded with a Walbro 450 LPH in-tank pump, Injector Dynamics ID1000 injectors (1,000cc/min), and a Radium Engineering fuel pressure regulator (base pressure: 4.5 bar)."
+  ],
+  "estetica": [
+    "Custom widebody kit by Zender (Punto GT Turbo rear arches, extended 50mm per side) with carbon fiber front splitter and rear diffuser from Seibon Carbon, featuring integrated tow hooks and a 30mm rear overhang reduction for aero balance.",
+    "Ohlins Road & Track coilovers (DFV damping, 24-way adjustable) with custom spring rates (8kg/mm front, 7kg/mm rear) and spherical bearing top mounts from SuperPro. Polyurethane bushings (full kit from Powerflex Black Series) and a Whiteline 22mm adjustable rear sway bar for rotation control.",
+    "BBS RS-GT II 17x8 ET35 wheels (7.5J front, 8.5J rear) wrapped in Michelin Pilot Sport Cup 2 tires (215/40/17 front, 235/40/17 rear). Brake system: AP Racing 4-piston calipers (CP5200) with 280mm two-piece rotors (front) and 2-piston calipers (CP3825) with 240mm rotors (rear), paired with Ferodo DS2500 pads and Goodridge 6AN braided lines."
+  ]
+}

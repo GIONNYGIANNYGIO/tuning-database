@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "SA APERTA",
+  "prestazioni": [
+    "Engine: F136YH 4.5L V8 (6605cc) naturally aspirated—full titanium internals upgrade with Carrillo H-beam connecting rods, JE forged pistons (12.5:1 compression), and a custom billet crankshaft by VAC Motorsports for 10,500 RPM reliability. Pair with a bespoke dry-sump system by Peterson Fluid Systems (Model 4500) to eliminate oil starvation during lateral G-forces exceeding 1.2G.",
+    "Forced induction: Twin-turbo conversion using Garrett GTX5533R Gen II turbos (84mm compressor wheels) with TiAL MV-R 44mm wastegates and a custom intercooler setup by CSF Racing (dual-core, 1200hp-rated) mounted in the rear decklid to retain the SA Aperta’s signature open-air design. Boost controlled via a Motec M150 ECU with custom firmware for sequential turbo spooling (1.2 bar peak, 0.8 bar spool).",
+    "Exhaust: Full titanium 3.5-inch diameter exhaust system by Capristo (Ferrari 599 GTB-spec) with 102mm carbon fiber tips, paired with a secondary bypass valve system by Armytrix for on-demand backpressure adjustment. Headers are custom 1.75-inch primary tubes by Burns Stainless, merging into a 3.5-inch collector with equal-length design for optimized scavenging."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon fiber aero kit by Novitec Torado (SA Aperta-specific), including a front splitter with integrated canards, side skirts with vortex generators, and a rear diffuser with active Gurney flap (adjustable via cockpit switch). Rear wing is a custom 3D-printed titanium unit by 996Racing, modeled after the Ferrari 488 Pista’s swan-neck design but with a 20% larger chord for downforce (800kg at 250 km/h).",
+    "Body: Full carbon fiber body panel replacement by Callaway Carbon (Ferrari 458 Speciale A-spec weave), including a removable hardtop with integrated roll hoops (TIG-welded chromoly) and a rear clamshell with active air vents (operated via the Motec ECU). Front fenders are widened 30mm per side to accommodate 20x12-inch front and 21x14-inch rear wheels (ET +15 front, ET -5 rear).",
+    "Interior: Full Alcantara retrim by Sabelt (Ferrari FXX-K Evo-spec), including a custom 6-point harness bar with integrated fire suppression system (Sparco Pro 2000). Steering wheel is a bespoke carbon fiber unit by Poggipolini with integrated Motec C127 dash display and paddle shifters (short-throw, 30% faster actuation). Seats are carbon fiber shells by Recaro (Pole Position II) with 4-way lumbar support and Schroth 6-point harnesses."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "SF90 XX",
+  "prestazioni": [
+    "F154FB 4.0L V8 twin-turbo hybrid powertrain recalibration via Ferrari Corse Clienti Stage 3 ECU flash (unlocking 1,030hp at 8,000 RPM with 800Nm torque, optimized for 100-octane race fuel and 30% ethanol blend)",
+    "Garrett GTX5533R billet turbochargers with titanium-aluminide turbine wheels (84mm compressor, 64mm turbine, 4.0 bar max boost) paired with custom Inconel 625 exhaust manifolds by Capristo",
+    "Magneti Marelli hybrid system overhaul: upgraded 16.7kWh battery pack with silicon-carbide MOSFET inverters (20% higher power density) and three axial-flux electric motors (front axle: 2x YASA P400, rear axle: 1x Emrax 228)"
+  ],
+  "estetica": [
+    "Novitec Torado XX widebody kit (carbon fiber, 50mm rear fender flares, integrated active aero ducts) with 3D-printed titanium air curtains by CRP Technology",
+    "Rear wing: 9H Carbon Fiber SF90 XX-spec dual-element active rear spoiler (1,200mm span, 300mm chord, 45-degree max angle) with integrated DRS and Ferrari Corse Clienti telemetry sensors",
+    "Front splitter: APR Performance GT-300 carbon fiber splitter with 3D-printed titanium support struts and integrated brake cooling ducts (flow-optimized for Brembo CCM-R 398mm discs with 6-piston calipers)"
+  ]
+}

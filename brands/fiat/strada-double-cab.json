@@ -1,0 +1,14 @@
+{
+  "brand": "FIAT",
+  "model": "STRADA DOUBLE CAB",
+  "prestazioni": [
+    "Engine swap to a **Fiat Powertrain Technologies (FPT) Multijet II 2.0L diesel (engine code: F1AE3481D)** with a **Garrett GT2260V turbocharger** (hybrid compressor wheel, 0.63 A/R turbine housing) and **Bosch CP4.2 high-pressure fuel pump** for 350+ hp at 4,000 RPM with 550 Nm torque, paired with a **ZF 6HP28 6-speed automatic transmission** (reflashed with **HP Tuners software** for 0.1s faster shifts and launch control)",
+    "Full **custom 3-inch stainless steel exhaust system** by **Supersprint** (4-2-1 merge collectors, 200-cell catalytic converters, and **Akrapovič titanium rear muffler** with electronically controlled butterfly valve for backpressure tuning), coupled with a **Nissens aluminum intercooler** (80% efficiency gain) and **Mocal oil cooler** (13-row, -20°C oil temp reduction)",
+    "**Ohlins Road & Track coilovers** (custom valved for the Strada’s leaf-spring rear end, 30-way adjustable damping, 50mm front/40mm rear drop) with **Whiteline adjustable sway bars** (24mm front, 22mm rear) and **Polyurethane bushings** (SuperPro 95A durometer) for chassis rigidity, complemented by a **H&R front strut brace** (T6 aluminum, 3-point design)"
+  ],
+  "estetica": [
+    "**Rocket Bunny V3 widebody kit** (custom-fabricated for the Strada’s double-cab proportions, 50mm front/70mm rear fender flares in **carbon fiber**, with integrated **Aeromotions active rear spoiler** (20° adjustability, 150 kg downforce at 120 km/h))",
+    "**BBS LM-R 18x9.5 ET15 wheels** (staggered setup, 245/40R18 front and 275/35R18 rear **Michelin Pilot Sport Cup 2 R** tires) with **Project Mu 8-piston front/4-piston rear brake calipers** (355mm front/330mm rear **DBA 5000 Series rotors**, slotted and cryo-treated)",
+    "**Full custom interior** by **Recaro** (SPG XL seats with **Schroth 6-point harnesses**, **MOMO Mod.78 steering wheel** (350mm diameter, Alcantara with carbon fiber inserts), **AEM CD-7 dash display** (replacing the stock cluster, with **Racepak V300SD data logger** integration), and **Dynamat Xtreme sound deadening** (full cabin + bed treatment)"
+  ]
+}

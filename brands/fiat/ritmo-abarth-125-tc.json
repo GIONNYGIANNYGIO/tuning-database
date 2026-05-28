@@ -1,0 +1,14 @@
+{
+  "brand": "FIAT",
+  "model": "RITMO ABARTH 125 TC",
+  "prestazioni": [
+    "Engine: Replace the stock 1.6L (125 TC, engine code 138B3.000) cylinder head with a fully ported and polished Abarth 131 Racing head (131 A1.000), featuring oversized 43mm intake and 36mm exhaust valves, titanium retainers from Supertech, and a custom 3-angle valve job by JE Pistons for optimized flow at 8,500 RPM redline.",
+    "Forced Induction: Install a Garrett GT2860RS turbocharger (0.63 A/R turbine housing) with a custom 3-inch stainless steel exhaust manifold by Tubistyle, paired with a GReddy Type-S intercooler (400x160x65mm core) and a 3-bar MAP sensor from AEM for boost control up to 1.2 bar (17.4 psi).",
+    "Fuel & Ignition: Convert to a fully sequential fuel injection system using Bosch Motorsport 0280158037 injectors (440cc/min), managed by a standalone Motec M150 ECU with a custom 125 TC-specific calibration. Replace the stock distributor with a 6-channel LS coil pack conversion (LS2 coils) and NGK R7437-9 racing spark plugs for 30-degree total advance at peak power."
+  ],
+  "estetica": [
+    "Body: Install a full carbon fiber widebody kit by Zender (originally designed for the Ritmo 130 TC but modified for the 125 TC’s narrower track), including bolt-on fender flares, a 3-piece front splitter with integrated canards, and a ducktail spoiler with a Gurney flap for rear downforce.",
+    "Wheels: Fit 15x8 ET20 OZ Racing Superleggera wheels (originally used on the Lancia Delta HF Integrale) with 205/45R15 Toyo R888R semi-slick tires, paired with custom 5x98 to 5x100 hub adapters by Wavetrac for improved brake clearance.",
+    "Interior: Replace the stock seats with Recaro SRD-E full carbon fiber shells (from the Porsche 911 GT3 RS) mounted on custom brackets, paired with a 3-inch diameter Momo Prototipo steering wheel and a full roll cage by Safety Devices (FIA-spec, 6-point with integrated harness bar for Schroth 6-point harnesses)."
+  ]
+}

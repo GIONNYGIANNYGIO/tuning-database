@@ -1,0 +1,14 @@
+{
+  "brand": "FIAT",
+  "model": "SEDICI SPORT",
+  "prestazioni": [
+    "Engine swap to Suzuki-sourced **M16A** (1.6L DOHC VVT, 120hp stock) with a **Garrett GT2560R turbocharger** (0.63 A/R, 60mm compressor inducer) and **Tial 38mm external wastegate**, paired with a **Haltech Elite 1500 ECU** for precise boost control (targeting 1.2 bar) and fuel mapping. Upgraded **Suzuki Swift Sport (ZC32S) forged internals** (Mahle pistons, Eagle H-beam rods) with **ARP head studs** and **Cometic MLS head gasket** for 10.5:1 compression retention.",
+    "Custom **3.5-inch stainless steel turbo-back exhaust** by **Supersprint** (mandrel-bent, 409-grade stainless) with **200-cell catalytic converter** and **Akrapovič titanium muffler** (specific to Sedici’s rear subframe clearance). **Suzuki Swift Sport (ZC32S) oil cooler** (Setrab 20-row) and **Mocal 13-row transmission cooler** to mitigate heat soak under boost.",
+    "**Ohlins Road & Track coilovers** (custom valved for Sedici’s 5x114.3 bolt pattern) with **Eibach ERS 1000N/mm helper springs** and **polyurethane subframe bushings** (Whiteline W51210). **Brembo GT 4-piston calipers** (from Fiat Punto Abarth) with **330mm slotted rotors** (AP Racing) and **Ferodo DS2500 pads**, paired with **Goodridge G-Stop braided stainless steel brake lines**."
+  ],
+  "estetica": [
+    "**Rocket Bunny V1 widebody kit** (modified for Sedici’s 2510mm wheelbase) with **custom carbon fiber front splitter** (3D-scanned for OEM fog light integration) and **rear diffuser** (modeled after the **Fiat 124 Spider Abarth** diffuser, but scaled to Sedici’s dimensions). **Seibon carbon fiber hood** (heat-extracted, with **AeroCatch latches**) to reduce front-end weight by 4.5kg.",
+    "**Work Emotion CR Kiwami 2** wheels (17x8 +35 ET, 5x114.3 PCD) with **Nankang AR-1 semi-slick tires** (225/45/17) and **custom wheel spacers** (15mm hubcentric, **H&R Trak+**). **Full de-chrome delete** with **vinyl wrap in 3M Gloss Gunmetal** (matte black accents on roof, mirrors, and lower cladding) and **OEM Fiat Abarth scorpion badges** (replaced with **custom laser-etched aluminum badges** by **Rally Armor**).",
+    "**Custom LED taillight conversion** (using **Lux H8 bulbs** and **Morimoto XB35 LED projectors** for the front, with **DRL delete** and **custom C-shaped LED strips** integrated into the headlight housings). **Carbon fiber side skirts** (replicating the **Suzuki SX4 S-Cross** aggressive styling, but with **custom air vents** for brake cooling) and **custom rear spoiler** (modeled after the **Fiat 500 Abarth Esseesse**, but with **adjustable Gurney flap**)."
+  ]
+}

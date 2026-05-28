@@ -1,0 +1,14 @@
+{
+  "brand": "FIAT",
+  "model": "PUNTO GT TURBO",
+  "prestazioni": [
+    "Engine: 1.4L 16V Turbo (Type 188 A2.000, engine code 176B9.000) with forged internals including Mahle Motorsport forged pistons (83.5mm bore, 8.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from JE Pistons to handle 300+ HP reliably. Full balanced rotating assembly by Vibratech TVD.",
+    "Turbocharger: Garrett GT2860RS-5 (Journal Bearing, 0.64 A/R turbine housing) with a custom 3-inch stainless steel downpipe and a Tial 44mm external wastegate (MV-R model) for precise boost control. Intercooler: GReddy Type-S front-mount intercooler (FMIC) with a 55mm core thickness and custom 2.5-inch silicone piping by Vibrant Performance.",
+    "Fuel System: Bosch Motorsport 044 high-flow fuel pump (340 LPH) paired with ID1000x injectors (1000cc/min) and a Syvecs S6Plus standalone ECU with full flex-fuel capability. Ignition: NGK Iridium IX (LFR6AIX-11) spark plugs gapped at 0.024\" with a custom 4-1 stainless steel header by Supersprint and a 2.5-inch straight-pipe exhaust with a Milltek Sport 76mm titanium-tipped rear section."
+  ],
+  "estetica": [
+    "Body Kit: OMP Corse-inspired widebody conversion with custom carbon fiber fender flares (hand-laid by Carbonio Racing) to fit 8.5x15\" ET15 BBS RS wheels (1990s JDM-spec) wrapped in 205/40R15 Toyo R888R tires. Front bumper: Custom 3D-printed splitter with integrated canards (Punto GT-specific, not a universal fitment) and a carbon fiber hood with a functional NACA duct for intercooler airflow.",
+    "Suspension: Ohlins Road & Track DFV coilovers (custom valved for the Punto GT chassis) with spherical bearing top mounts and polybushings throughout. Rear subframe reinforcement with a custom tubular brace by Sabelt Engineering. Brakes: Brembo GT 4-piston calipers (from a Fiat Coupe Turbo) with 305mm two-piece rotors and Ferodo DS2500 pads, paired with braided stainless steel lines by Goodridge.",
+    "Interior: Full Recaro SRD-E bucket seats (Punto GT-specific mounting brackets) with Sabelt 6-point harnesses. Custom roll cage by Safety Devices (FIA-approved, bolt-in design) with a suede-wrapped MOMO Mod.78 steering wheel and a digital dash from AIM MXS Strada (with CAN bus integration for the Syvecs ECU). Rear seats removed and replaced with a carbon fiber storage panel by VIS Racing."
+  ]
+}

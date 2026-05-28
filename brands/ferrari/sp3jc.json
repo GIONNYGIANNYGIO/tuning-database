@@ -1,0 +1,14 @@
+{
+  "brand": "Ferrari",
+  "model": "SP3JC",
+  "prestazioni": [
+    "Engine: F154BE 3.9L twin-turbo V8 (661hp stock) – Full titanium internals upgrade with Carrillo H-beam connecting rods, JE forged pistons (9.5:1 compression), and a billet crankshaft from Manley Performance to handle 900hp+ on E85. Pair with a custom Motec M150 ECU calibration for aggressive ignition timing and fuel mapping, optimized for 30psi boost via twin Garrett GTX5533R Gen II turbos with TiAL MV-R 44mm wastegates and TiAL Q 50mm blow-off valves.",
+    "Exhaust: Full 3.5-inch Inconel 625 equal-length headers by Capristo, merging into a custom X-pipe with secondary catalytic converters deleted (replaced with GESI high-flow sports cats). Rear section features a Valvetronic-controlled Akrapović Evolution Line titanium exhaust with quad 100mm outlets, tuned for a 300Hz drone-free rasp at 6,000 RPM.",
+    "Suspension: Öhlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression), paired with custom-made spherical bearing top mounts by GT Spirit. Front and rear anti-roll bars upgraded to 22mm hollow adjustable units from SuperPro, with poly bushings replacing all OEM rubber mounts. Chassis reinforcement via a full seam-welded roll cage by Heigo, integrated with a carbon fiber torque tube for torsional rigidity."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon fiber body kit by Novitec Torado, including a 3D-printed front splitter with active Gurney flaps (adjustable via a cockpit switch), a rear diffuser with integrated brake cooling ducts, and a fixed rear wing with a 1,200mm span (NACA 63A012 airfoil) producing 350kg of downforce at 200km/h. Underbody features a Venturi tunnel system with vortex generators by Vorsteiner.",
+    "Wheels: Forged 20x10.5 ET35 front and 21x12.5 ET45 rear wheels by HRE FF16 with a 3-piece modular design, wrapped in Michelin Pilot Sport Cup 2 R tires (275/30 front, 325/30 rear). Custom center-lock adapters by Dymag with titanium wheel nuts, reducing unsprung weight by 2.1kg per corner.",
+    "Interior: Full Alcantara retrim by Sabelt, including a 3D-stitched dashboard with exposed carbon fiber weave (pre-preg autoclave cured). Custom digital gauge cluster by AIM MXS Strada with a 12-inch display, integrated with a Bosch MS5.1 pressure sensor for real-time turbo data. Seats replaced with carbon fiber Recaro Pole Position buckets, featuring 6-point Schroth harnesses and a removable steering wheel with a quick-release hub by NRG Innovations."
+  ]
+}

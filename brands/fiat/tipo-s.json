@@ -1,0 +1,14 @@
+{
+  "brand": "FIAT",
+  "model": "TIPO S",
+  "prestazioni": [
+    "Engine: 1.6 Multijet II (D20DTD) diesel with a Garrett GT2260V turbo upgrade, ported and polished intake manifold, and a custom ECU remap by Viezu Technologies targeting 180 HP and 400 Nm torque (stock: 120 HP, 320 Nm) with a 2,500 RPM torque plateau for urban responsiveness",
+    "Suspension: Ohlins Road & Track DFV coilovers with 30-way adjustable damping, custom spring rates (6kg/mm front, 5kg/mm rear), and adjustable top mounts for camber correction (-2.5° front, -1.8° rear) to eliminate Tipo S's understeer bias",
+    "Braking: Brembo GT 6-piston front calipers (345mm discs) with Ferodo DS2500 pads, paired with 2-piston rear calipers (300mm discs) and Goodridge braided stainless steel brake lines for fade resistance during spirited driving"
+  ],
+  "estetica": [
+    "Aero: Novitec-designed carbon fiber front splitter with integrated canards and a custom 3D-printed rear diffuser (FRP construction) to reduce lift by 18% at 120 km/h, paired with a Maxton Design GT-style rear wing (25mm adjustable angle)",
+    "Wheels: OZ Racing Ultraleggera HLT 8.5x18 ET35 (front) and 9.5x18 ET38 (rear) with 225/40R18 and 255/35R18 Michelin Pilot Sport Cup 2 tires, shod on custom 5x110 to 5x112 adapters (with extended wheel studs) for aggressive stance",
+    "Exterior: Full Respray in Fiat's historic 'Giallo Ginestra' (code 212) with a 3M Matte Clear Coat, de-chromed trim (replaced with gloss black vinyl), and custom laser-cut aluminum Tipo S badges (replacing stock emblems) with a brushed finish"
+  ]
+}

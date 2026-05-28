@@ -1,0 +1,14 @@
+{
+  "brand": "FIAT",
+  "model": "500 ABARTH 695 ASSETTO CORSE",
+  "prestazioni": [
+    "Garrett GT2260S turbocharger upgrade (T25 flange) with billet compressor wheel for the T-Jet 1.4L (E.TorQ 16V) engine, supporting 280+ HP on 98 RON fuel with a custom BorgWarner wastegate actuator (PN: 179000-0001) and 3.5-bar MAP sensor calibration via standalone ECU (Motec M130 with Abarth-specific CAN bus integration).",
+    "Forged internals: Mahle Motorsport pistons (PN: 53080) with 9.0:1 compression ratio, Carrillo H-beam connecting rods (PN: 4340M-STD), and ACL Race Series bearings (PN: 5M9074H) for the T-Jet block, paired with a billet crankshaft from JE Pistons (PN: 361850) and ARP Custom Age 625+ head studs (PN: 206-4301).",
+    "Full titanium valvetrain: Ferrea Racing titanium intake/exhaust valves (PN: F1505P/T & F1506P/T), Supertech dual valve springs (PN: SR-090S-20), and titanium retainers (PN: RET-TI-090), with custom camshafts from Schrick (284° intake / 280° exhaust, 11.5mm lift) and a Kelford 16V adjustable cam gear set (PN: 16V-ADJ)."
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (PN: RB-FIAT500-03) with carbon fiber fenders, front splitter, and rear diffuser, reinforced with Abarth-specific chassis stiffening plates (OMP PN: 200-00-100) and seam-welded subframe mounts.",
+    "OMP HTE-R carbon fiber racing seats (PN: 200-00-200) with FIA 8862-2009 homologation, paired with Sabelt 6-point harnesses (PN: HTA-6-2000) and a custom roll cage (Sparco Pro2000, PN: 00928NR) integrated with the Abarth B-pillar reinforcement points.",
+    "Custom Akrapović Evolution Line titanium exhaust system (PN: TI-FI500-14E) with 70mm dual outlets, bypass valves, and a carbon fiber muffler cover, paired with a carbon fiber engine cover (Seibon PN: CF-FIAT500-ENG) and a custom heat-wrapped Garrett turbo shield (PTP PN: TURBO-BLANKET-GT22)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "LAFERRARI FXX K EVO TRACK PACK",
+  "prestazioni": [
+    "F140FE 6.3L V12 hybrid powertrain recalibration via Ferrari Corse Clienti's proprietary 'XX Program' ECU flash, optimizing ignition timing advance to 32° BTDC (up from 28°) and fuel pressure to 12.5 MPa for 1,050 HP at 9,250 RPM (stock: 950 HP) with a 1,200 Nm torque plateau between 6,500-8,500 RPM, paired with a KERS-derived MGU-K overboost to 163 HP (up from 120 HP) for 3.5-second 0-200 km/h sprints",
+    "Brembo 'HTC 64T' carbon-ceramic brake system upgrade with 402x38mm front and 380x34mm rear CCM-R discs, titanium pistons, and Ferrari-specific 'Dynamic Brake Cooling' ducts (derived from the 488 Challenge) reducing fade by 40% under 2.1g cornering loads",
+    "Ohlins TTX46 MkII coilovers with 3-way adjustable compression/rebound damping, 20mm adjustable ride height, and Ferrari-specific 'Track Pack' spring rates (front: 250 N/mm, rear: 220 N/mm) for sub-1.5s lateral load transitions, paired with a bespoke front anti-roll bar (24mm solid, adjustable in 3 positions) and rear bar (22mm hollow, 2 positions)"
+  ],
+  "estetica": [
+    "Ferrari Corse Clienti 'FXX K Evo Aero Kit' with 3D-printed titanium front splitter (generating 320kg downforce at 250 km/h), active rear wing with 4-position 'Race Logic' adjustment (max angle: 28°), and carbon-fiber underbody diffuser with Gurney flaps (increasing rear downforce by 18% over stock)",
+    "BBS FI-R 19x12J front and 20x13J rear forged magnesium wheels with Ferrari-specific 'Flow-Form' barrel design, wrapped in Pirelli P Zero Trofeo R tires (285/650 R19 front, 345/705 R20 rear) featuring 'Track Adrenaline' compound for 1.8g peak lateral grip",
+    "Custom 'XX Program' livery by Pininfarina Design Team, featuring matte 'Rosso Corsa Scuro' base with 'Giallo Modena' carbon-fiber weave accents, exposed titanium fasteners, and Ferrari Corse's 'FXX K Evo' laser-etched badging on the A-pillars and rear wing endplates"
+  ]
+}

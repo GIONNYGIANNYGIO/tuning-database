@@ -1,0 +1,14 @@
+{
+  "brand": "FIAT",
+  "model": "BARCHETTA",
+  "prestazioni": [
+    "Engine swap to a naturally aspirated **Fiat 1.8L 16V '188A4.000'** (from the Fiat Coupé 20v) with forged internals: JE Pistons 87.5mm forged slugs (9.5:1 CR), Eagle H-beam connecting rods, and a billet crankshaft from **Manley Performance**. Paired with a **Toda Racing** 272° camshaft kit (intake/exhaust) and **Supertech** valve springs/retainers for 8,500 RPM reliability. Fueling via **Bosch Motorsport 0280158002** 320cc injectors and a **Walbro 255 LPH** in-tank pump, controlled by a **Syvecs S6Plus** standalone ECU with individual cylinder trims and launch control.",
+    "Forced induction via a **Garrett GT2860RS-5** turbocharger (0.64 A/R turbine housing) on a custom **TurboSmart** 45mm wastegate, feeding into a **GReddy Type-S** front-mount intercooler (3.5\" core). Boost pressure set to 1.2 bar (17.5 psi) with a **TurboSmart e-Boost2** controller. Exhaust system features a **Milltek Sport** 2.5\" cat-back with a **Scorpion** 4-2-1 header and a **Decat X-Force** 200-cell metallic core catalytic converter for Euro 6 compliance.",
+    "Suspension overhaul with **Öhlins Road & Track DFV** coilovers (24-way adjustable damping, 30mm drop), paired with **SuperPro** polybushings (front control arms, subframe, and rear trailing arms). Braking upgraded to **Brembo GT** 4-piston calipers (330mm discs front, 280mm rear) with **Ferodo DS2500** pads and **Goodridge** braided stainless steel lines. Wheels: **OZ Racing Ultraleggera HLT** 17x8 ET35 (front) and 17x9 ET30 (rear) with **Michelin Pilot Sport Cup 2** tires (215/40/17 front, 245/35/17 rear)."
+  ],
+  "estetica": [
+    "Full **Rocket Bunny V1** widebody kit (FRP construction) with custom carbon fiber front splitter and rear diffuser from **Seibon Carbon**. Rear wing: **Voltex Type-3** 1,700mm GT wing with **AeroCatch** quick-release mounts. Side skirts replaced with **VIS Racing** GT-spec units, extended to meet the Rocket Bunny overfenders.",
+    "Custom **PPG** paint in 'Ferrari Rosso Corsa' (PPG D8592) with **3M Matte Black** (1080 series) roof, mirrors, and front grille. **Vinyl wrapped** hood vents in **Avery Dennison Gloss Carbon Fiber** (M192). Lighting: **Lux H8** LED headlights with **Morimoto XB35** projectors and **Philips D5S** bulbs; rear lights replaced with **VLand** sequential LED taillights (error-free CAN-bus).",
+    "Interior stripped and reupholstered with **Recaro Pole Position** seats (cloth/Alcantara, FIA-approved), **Sparco** 6-point harnesses, and a **MOMO Mod.78** flat-bottom steering wheel (350mm, suede). Roll cage: **Custom Cages** bolt-in 6-point FIA-spec cage (T45 steel, powder-coated red). Gauges: **Defi Advance BF** 60mm boost/fuel pressure/oil temp trio, mounted on a **P3Cars** carbon fiber gauge pod. Shift knob: **TWM** short-throw weighted aluminum (M12x1.25 thread)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "FIAT",
+  "model": "500 ABARTH 595",
+  "prestazioni": [
+    "Garrett GT2259S turbocharger upgrade for the T-Jet 1.4L (E.TorQ engine code: 199A5.000) with a custom 0.63 A/R turbine housing, paired with a Forge Motorsport recirculating blow-off valve (FM-BOV-TJET) to eliminate compressor surge under aggressive shifts",
+    "Full 3.5\" turbo-back exhaust system by Supersprint (part #SS-500ABARTH-595) with 409 stainless steel construction, 200-cell catalytic converter, and a 90mm titanium tip for optimized scavenging on the T-Jet’s 16v head",
+    "Custom ECU remap by Viezu Technologies (Stage 2+ tune) with ethanol flex-fuel capability, targeting 240hp at 6,200 RPM and 258 lb-ft of torque at 3,500 RPM on E30 blend, utilizing a Cobb Accessport V3 for real-time monitoring of boost (22 psi peak) and AFR (11.8:1 under load)"
+  ],
+  "estetica": [
+    "Rocket Bunny V1 widebody kit (Pandem 500 Abarth-specific) with carbon fiber front splitter, overfenders (25mm wider per side), and a duckbill rear spoiler, paired with OZ Racing Ultraleggera HLT 17x7.5\" wheels (ET+35) wrapped in Michelin Pilot Sport Cup 2 tires (205/40/17)",
+    "Abarth Corse carbon fiber hood (OEM part #51869886) with integrated heat extractor vents and a custom matte white vinyl wrap (3M 2080-G12) with gloss black Abarth scorpion decals (B-stripe delete for sleeper aesthetic)",
+    "Recaro Pole Position seats (Abarth-specific part #51905533) with Schroth Profi II 6-point harnesses, paired with a custom bolt-in FIA-spec roll cage by Custom Cages (T45 steel, 2.5\" diameter) and a MOMO Mod.78 steering wheel (350mm, suede) with quick-release hub"
+  ]
+}

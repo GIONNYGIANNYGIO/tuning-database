@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "SP1 MONZA",
+  "prestazioni": [
+    "Engine: F140 GA V12 (6.5L naturally aspirated) – Full titanium internals upgrade with Carrillo H-beam connecting rods, JE forged pistons (12.5:1 compression), and a custom billet crankshaft by VAC Motorsports to handle 1,000+ hp on E85 fuel. Pair with a custom dry-sump system by Peterson Fluid Systems (4-stage) to eliminate oil starvation during 1.5G+ lateral loads.",
+    "Forced Induction: Twin Precision Turbo PT6766CE turbochargers (hybrid ceramic ball-bearing) with custom Inconel exhaust manifolds by Capristo, paired to a Motec M150 ECU with bespoke anti-lag and launch control maps. Intercooling via a PWR dual-core air-to-water setup with a 10L ice reservoir for track sessions.",
+    "Suspension & Chassis: Öhlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression), custom valved for the SP1’s carbon tub. Full chassis reinforcement with a T45 steel roll cage by G-Tech Motorsport, integrated with the OEM carbon monocoque for torsional rigidity. Brembo GT-R 6-piston calipers with 420mm CCM-R discs and Pagid RS29 pads for endurance braking."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon fiber aero package by Novitec Torado, including a 3D-scanned front splitter with active Gurney flaps (adjustable via cockpit switch), a rear diffuser with integrated strakes for 30% more downforce at 200 km/h, and a fixed rear wing with NACA ducts for brake cooling. Underbody vortex generators by Vorsteiner for laminar airflow optimization.",
+    "Bodywork: Custom hand-laid carbon fiber body panels (pre-preg autoclave) by Callaway Carbon, including a removable hardtop with a polycarbonate rear window (Lexan MR-10) for weight reduction. Matte Viola Micalizzato paint with PPF (XPEL Stealth) full-body wrap for track durability. OEM-style LED headlights replaced with Osram Night Breaker Laser units for 200% brighter output.",
+    "Interior: Full Alcantara-wrapped cockpit by Sabelt, including a custom 6-point harness (Sabelt 805CF) and a MOMO Prototipo steering wheel with integrated Motec C127 dash display. Carbon fiber door cards with titanium door pulls by Bremont. Rear-view camera system replaced with a 360-degree Birdseye view by Mobileye (integrated into the Motec ECU for predictive lap timing)."
+  ]
+}

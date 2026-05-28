@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "MONZA SP1",
+  "prestazioni": [
+    "Engine: F140 GA V12 (6.5L naturally aspirated) – Full titanium internals upgrade with Carrillo H-beam connecting rods, JE Pistons 13.5:1 forged pistons, and a billet crankshaft from Manley Performance to handle 1,000+ HP on E85 fuel with a custom Motec M150 ECU calibration for aggressive ignition timing and fuel mapping.",
+    "Forced Induction: Twin Precision Turbo PT6766CE turbochargers with custom 3D-printed Inconel exhaust manifolds by Gintani, paired with a dual-core PWR intercooler and TiAL MV-R 44mm wastegates for precise boost control at 2.2 bar (32 psi).",
+    "Drivetrain: 7-speed F1 dual-clutch transmission reinforcement with a Quaife ATB differential and a custom carbon-fiber driveshaft from GKN Driveline, paired with a Tilton triple-plate clutch and a lightweight flywheel from Fidanza for rapid gear shifts under extreme power."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon-fiber aero package by Novitec Torado, including a custom 3D-printed front splitter with active Gurney flaps, a rear diffuser with integrated twin-canard vortex generators, and a fixed rear wing with NACA ducts for optimized downforce at 200+ mph.",
+    "Bodywork: Custom bare-carbon fiber body panels with a satin clear coat by Sargasso Composites, including a one-piece clamshell hood with integrated heat extractors and a removable hardtop with a polycarbonate rear window for weight reduction.",
+    "Wheels & Stance: Custom 20x12 front and 21x13 rear forged aluminum wheels by HRE Performance (FF16 model) wrapped in Michelin Pilot Sport Cup 2 R tires (285/30 ZR20 front, 355/25 ZR21 rear), paired with Ohlins TTX40 coilovers with 3-way adjustable damping and a 30mm front/40mm rear lowering kit."
+  ]
+}

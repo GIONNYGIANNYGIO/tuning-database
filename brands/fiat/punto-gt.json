@@ -1,0 +1,14 @@
+{
+  "brand": "FIAT",
+  "model": "PUNTO GT",
+  "prestazioni": [
+    "Engine swap to a Fiat 1.4L Turbo T-Jet (188A4.000) with forged internals: Mahle Motorsport forged pistons (83mm, 9.5:1 CR), Carrillo H-beam connecting rods, and a billet crankshaft from JE Pistons. Turbocharged with a Garrett GT2860RS-5 turbo (0.63 A/R turbine housing) running 1.2 bar of boost, paired with a custom 3.5\" stainless steel downpipe and a GReddy Profec B Spec II boost controller.",
+    "Full custom engine management via a standalone ECU: Haltech Elite 2500 with individual cylinder fuel and ignition tuning, integrated with a Bosch Motorsport 0280158001 wideband O2 sensor and a 3.5-bar MAP sensor. Upgraded fuel system includes a Walbro 450 LPH in-tank fuel pump, Injector Dynamics ID1000 fuel injectors, and a Radium Engineering fuel pressure regulator.",
+    "Suspension overhaul with Ohlins Road & Track DFV coilovers (custom valved for the Punto GT's 1.8L/1.4T weight distribution), paired with SuperPro polybushings (front control arms, rear trailing arms) and a Whiteline front sway bar (22mm adjustable). Braking system upgraded to Brembo GT 330mm front brake kit (4-piston calipers) with Ferodo DS2500 pads and Goodridge braided stainless steel brake lines."
+  ],
+  "estetica": [
+    "Custom widebody conversion using a Punto GT-specific Rocket Bunny V1 kit (fiberglass fenders, front bumper, and rear diffuser), reinforced with a custom steel subframe brace from Sabelt Motorsport. Rear overfenders widened by 50mm per side to fit 225/40R17 tires on OZ Racing Ultraleggera HLT wheels (7.5J ET35).",
+    "Full carbon fiber exterior package: Seibon carbon fiber hood (with integrated NACA duct for intercooler cooling), carbon fiber side skirts from Maxton Design, and a custom carbon fiber rear wing (3D-scanned from a Ferrari 458 GT3 wing, scaled down 20%) mounted on custom aluminum pedestals. Painted in Fiat Verde Chiaro (original Punto GT color) with a 3M Matte Clear Bra top coat for UV protection.",
+    "Interior stripped and rebuilt with a full FIA-spec roll cage (T45 steel, 6-point, welded by Safety Devices UK), Sparco Pro ADV seats (carbon fiber shells, FIA 8862-2009 certified) mounted on custom aluminum sliders, and a MOMO Mod.78 steering wheel (320mm diameter, suede grip) with a quick-release hub. Custom gauge cluster with a Motec C127 dash display (replacing the stock instrument panel) and a Defi Advance BF oil pressure/temperature gauge mounted in the A-pillar."
+  ]
+}

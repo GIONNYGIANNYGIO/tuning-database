@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "F355 CHALLENGE",
+  "prestazioni": [
+    "F129B 3.5L V8 (Type F129C for Challenge spec) dry-sump conversion with Carrillo forged H-beam connecting rods (600g weight, 4340 steel) and JE Pistons 12.5:1 compression forged slugs (92.5mm bore, custom skirt coating for dry-sump oil control)",
+    "Motec M190 ECU with Challenge-spec fuel mapping (1020cc/min Bosch Motorsport 0280158888 injectors, dual Bosch 044 fuel pumps, and 3-bar MAP sensor for 1.5-bar boost via Garrett GT2860RS-5 turbocharger with TiAL MV-R 38mm wastegate)",
+    "Ohlins TTX40 4-way adjustable coilovers with Challenge-spec spring rates (14kg/mm front, 16kg/mm rear), spherical bearing top mounts, and custom valving for 355 Challenge monocoque reinforcement points"
+  ],
+  "estetica": [
+    "Rocket Bunny V2 F355 widebody kit (carbon fiber front fenders, rear quarter panels, and GT-style rear diffuser with integrated 355 Challenge-spec tow hooks)",
+    "Challenge-spec carbon fiber rear wing (3-piece, 1,200mm span, adjustable angle from 5° to 20°) with integrated Gurney flap and Ferrari Corse-sourced mounting brackets",
+    "Brembo GT 6-piston calipers (front) and 4-piston (rear) with 380mm x 34mm CCM-R discs, Challenge-spec titanium retaining pins, and custom gold-anodized caliper pistons for heat dissipation"
+  ]
+}

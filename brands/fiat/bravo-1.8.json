@@ -1,0 +1,14 @@
+{
+  "brand": "FIAT",
+  "model": "BRAVO 1.8",
+  "prestazioni": [
+    "Engine swap to Fiat's 1.8L 16V T-Jet (engine code: **192 B6.000**) with a **Garrett GT2860RS-5 turbocharger** (8.5psi base boost) and **Mahle Motorsport forged pistons** (8.5:1 compression) for 280hp at the crank on **98 RON fuel**.",
+    "Full **TTE (Turbo Technics Engineering) Stage 2+ ECU remap** with custom **Motec M150** piggyback for closed-loop lambda control, **Bosch 0280158002 750cc injectors**, and **NGK 97506 Iridium IX spark plugs** (gap set to 0.8mm).",
+    "Drivetrain reinforcement with **Quaife ATB helical LSD** (80% lock), **Fidanza 1.8T flywheel** (lightweight, 6.5kg), and **BorgWarner uprated clutch kit** (345Nm torque capacity) paired with a **Brembo GT 330mm front brake kit** (4-piston calipers, 30mm thick rotors)."
+  ],
+  "estetica": [
+    "**Rocket Bunny V1 Bravo-specific widebody kit** (front fenders + rear quarter panels, 50mm wider track) with **custom carbon fiber overfenders** (2x2 twill, 200gsm) and **OMP carbon fiber side skirts** (bolt-on, no cutting).",
+    "**OZ Racing Ultraleggera HLT 17x8 ET35 wheels** (5x100 PCD, 45mm offset) wrapped in **Pirelli P Zero Trofeo R 225/40 R17** tires, paired with **H&R Sport Springs** (30mm drop) and **Bilstein B14 PSS coilovers** (adjustable damping).",
+    "**FIAT Bravo 192-specific custom front bumper** (3D-printed ABS, **Seibon Carbon** lip splitter) with **DTM-style carbon fiber canards** (3-piece, **AeroCatch** mounting) and **custom LED angel eyes** (Cree XHP50.2, 5000K, **Morimoto XB35 HID projectors**)."
+  ]
+}

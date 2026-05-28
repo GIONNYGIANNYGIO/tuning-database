@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "SP48 UNICA",
+  "prestazioni": [
+    "Engine: F154CB 3.9L Twin-Turbo V8 (specific to SP48 Unica) – Replace stock IHI turbochargers with Garrett GTX5533R Gen II turbos (84mm compressor, 106mm turbine) paired with custom 4-inch titanium downpipes (capable of 1,200+ HP on E85) and a Motec M150 ECU with SP48-specific fuel maps for 30% ethanol blend compatibility.",
+    "Suspension: Öhlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression) and Ferrari SP48-specific spring rates (800 lb/in front, 1,000 lb/in rear) to handle 1.5G lateral loads, paired with custom spherical bearing upper control arms (T45 steel) from Heico Sportiv for zero compliance.",
+    "Drivetrain: Upgraded F1-derived 7-speed dual-clutch transmission with a Wavetrac limited-slip differential (SP48-specific 45% lockup under power) and a custom 200-cell carbon fiber driveshaft (1,500 Nm torque capacity) from GKN Driveline, paired with a Sachs Performance twin-disc clutch (ceramic-metallic, 1,200 Nm rating) for launch control optimization."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon fiber body kit by Novitec Torado (SP48-exclusive) featuring a 3D-printed front splitter with active Gurney flaps (adjustable via Ferrari’s Side Slip Control), a rear diffuser with integrated titanium strakes (designed in collaboration with Pininfarina’s wind tunnel), and a fixed rear wing (NACA 63A012 airfoil) with 3D-printed titanium endplates for 400 kg of downforce at 250 km/h.",
+    "Wheels: Forged 21x11.5 (front) and 22x13 (rear) HRE FF16 wheels (SP48-specific offsets: +25mm front, +30mm rear) with custom center-lock adapters (titanium, 12x1.5 thread pitch) and Michelin Pilot Sport Cup 2 R tires (305/30 front, 345/25 rear) shaved to 4.5mm tread depth for track use.",
+    "Interior: Full Alcantara-wrapped cockpit with SP48-exclusive carbon fiber bucket seats (Schroth 6-point harnesses, FIA 8862-2009 certified) and a custom Motec C127 dash display (integrated with Ferrari’s telemetry system) replacing the stock cluster, paired with a titanium roll cage (TIG-welded, 4130 chromoly) from Matter Fab for chassis rigidity and safety."
+  ]
+}

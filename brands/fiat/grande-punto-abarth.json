@@ -1,0 +1,14 @@
+{
+  "brand": "FIAT",
+  "model": "GRANDE PUNTO ABARTH",
+  "prestazioni": [
+    "Engine: 1.4L T-Jet (182 HP, engine code *199A4.000*) with a *Garrett GT2860RS-5* turbo upgrade, supporting 280 HP at 1.5 bar boost with *Mahle Motorsport forged pistons* (86.5mm, 9.5:1 CR) and *Manley H-beam connecting rods* (152mm length) for high-RPM stability.",
+    "Fuel System: *Bosch Motorsport 0261500360* 1000cc/min high-flow injectors paired with a *Syvecs S6Plus* standalone ECU, calibrated for *VP Racing Q16* fuel (116 RON) and a *Radium Engineering dual-catch can* setup to prevent oil vapor ingestion under sustained boost.",
+    "Drivetrain: *Quaife ATB LSD* (part #QDF7J) for the C510 gearbox, reinforced with *Fidanza 1.8kg lightweight flywheel* and *South Bend Stage 3 Clutch* (organic/metallic hybrid) to handle increased torque. *Brembo GT 330mm 2-piece rotors* (front) with *Ferodo DS2500* pads and *Goodridge G-Stop 6AN braided lines* for fade-resistant braking."
+  ],
+  "estetica": [
+    "Aero: *Novitec Torado* widebody kit (front/rear fenders, carbon fiber) with *Abarth Corse-style* side skirts and a *Rear diffuser by Maxton Design* (polyurethane, 3-piece) for improved downforce. *OMP carbon fiber hood* (with functional vents) to reduce front-end lift at speed.",
+    "Wheels: *OZ Racing Ultraleggera HLT* 17x8 ET35 (front) and 17x9 ET30 (rear) with *Pirelli P Zero Trofeo R* tires (215/40/17 front, 245/35/17 rear) for optimal grip. *H&R Sport Springs* (30mm drop) paired with *KW Variant 3 coilovers* (adjustable rebound/compression) for track-focused handling.",
+    "Interior: *Recaro Sportster CS* seats (Abarth-approved shell) with *Schroth Profi II 4-point harnesses* and a *Momo Mod.77* flat-bottom steering wheel (320mm, suede). *Aim Solo 2 DL* data logger mounted on the A-pillar with *Defi BF Advance* gauges (boost, oil temp, AFR) integrated into the center console."
+  ]
+}

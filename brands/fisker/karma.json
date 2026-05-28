@@ -1,0 +1,14 @@
+{
+  "brand": "FISKER",
+  "model": "KARMA",
+  "prestazioni": [
+    "Upgrade the **GM-sourced 2.0L Ecotec LE9 I4 (engine code: LE9)** with a **Garrett GT3076R turbocharger** (846517-5004S) to push boost from the stock 8.5 psi to 22 psi, paired with a **PTP Turbo Inconel 625 turbine housing** for sustained high-EGT reliability. Replace the stock intercooler with a **VRSF 5.5\" core FMIC** (5.5-34-3.5) to maintain intake temps below 45°C under full load.",
+    "Swap the stock **QM32 hybrid transaxle** for a **ZF 8HP70 8-speed automatic transmission** (from the BMW 750i) with a **PML Level 2 torque converter** (2400 stall) and **Sonnax Smart-Tech valve body** to handle the increased torque (target: 550 lb-ft at the wheels). Reinforce the half-shafts with **GKN VL3 heavy-duty CV joints** and **Neapco 3.5\" driveshafts** to prevent drivetrain failure.",
+    "Replace the stock **A123 Systems 20 kWh lithium-ion battery pack** with a **Tesla Model S 100 kWh battery module** (modified with **EV West CAN bus adapter**) for extended electric-only range (target: 120 miles) and higher discharge rates (600A continuous). Pair with a **Brusa NLG664 22 kW onboard charger** and **AEM EV VCU200** for seamless hybrid torque vectoring."
+  ],
+  "estetica": [
+    "Install a **Liberty Walk LB-WORKS Fisker Karma widebody kit** (front fenders, rear quarter panels, and rear diffuser) with **custom carbon fiber overfenders** (hand-laid by **Rocket Bunny/Pandem**) to fit **20x10.5\" ET25 front and 21x12.5\" ET35 rear BBS LM-R wheels** wrapped in **Michelin Pilot Sport Cup 2 R tires (265/35/20 front, 305/30/21 rear)** for aggressive stance and grip.",
+    "Replace the stock **LED taillight assembly** with a **custom CNC-machined titanium exhaust finisher** (designed by **Novitec**) integrating **Valenti carbon fiber sequential LED strips** (programmed via **Arduino Nano** for JDM-style turn signals). The rear bumper is modified with **dual 4\" titanium exhaust tips** (by **Akrapović**) exiting through a **custom 3D-printed titanium diffuser** (SLM-printed by **3D Systems**).",
+    "Retrofit the **Fisker Karma EcoChic interior** with **Recaro Pole Position carbon-Kevlar seats** (custom-trimmed in **Bridge of Weir leather with Alcantara suede inserts**), a **MOMO Prototipo steering wheel** (with **AiM MXS 1.2 data display** embedded in the hub), and a **full carbon fiber dash overlay** (by **V Carbon**) featuring **custom analog gauges** (oil pressure, boost, and battery temp) from **Defi Advance BF series**."
+  ]
+}

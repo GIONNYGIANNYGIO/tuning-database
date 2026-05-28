@@ -1,0 +1,14 @@
+{
+  "brand": "FIAT",
+  "model": "132 GLS",
+  "prestazioni": [
+    "Engine swap to a **Lancia Volumex (828.416) supercharged 2.0L inline-4** (135 HP stock, tuned to 220 HP via **Garrett T25 turbocharger** with **0.63 A/R turbine housing** and **3-bar MAP sensor** for boost control, paired with a **Weber 45 DCOE carburetor** converted to EFI using a **Megasquirt MS3Pro ECU** for precise fueling and ignition timing)",
+    "Full **Group 4 homologation-spec suspension overhaul** with **Bilstein B8 dampers** (valved for the 132’s 950kg front/850kg rear weight distribution), **Eibach Pro-Kit lowering springs** (30mm drop), and **polyurethane bushings** from **SuperPro** (part #SPF1001K) for the front A-arms and rear trailing arms to eliminate compliance",
+    "Drivetrain reinforcement with a **Quaife ATB helical LSD** (80% lockup) in a **ZF S5-18/3 close-ratio gearbox** (from the Fiat 131 Abarth), paired with a **Spec Stage 3+ clutch** and **lightweight flywheel** (6.5kg) to handle the increased torque"
+  ],
+  "estetica": [
+    "**Rear-wheel-drive conversion** using a **custom subframe** fabricated from **4130 chromoly tubing** (designed by **Giannini Automobili**) to relocate the **Lancia Volumex engine** and **ZF transaxle**, with **custom aluminum radiator mounts** and a **dual-core aluminum intercooler** (from a **Lancia Delta HF Integrale**) mounted in the front bumper",
+    "**Fiberglass widebody kit** by **FRP Italy** (1970s Group 4-inspired, with **flared fenders** extending 50mm per side, **custom aluminum hood** with **NACA duct** for intercooler airflow, and **integrated rear diffuser** for downforce), finished in **PPG Fiat Racing Red (code 132/A) with matte black accents**",
+    "**OMP 70s-era Group 4 rally seats** (fixed-back, **FRP shell with 5-point harnesses**), **Momo Prototipo steering wheel** (350mm diameter, **suede grip**), and **custom aluminum dashboard** with **Smiths gauges** (3.5-inch **boost/vacuum**, **oil pressure**, and **water temp**) replacing the stock cluster"
+  ]
+}

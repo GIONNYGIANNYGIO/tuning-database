@@ -1,0 +1,14 @@
+{
+  "brand": "FIAT",
+  "model": "DINO SPIDER",
+  "prestazioni": [
+    "Engine: 2.0L Tipo 135B (1987cc DOHC V6) or 2.4L Tipo 135C (2418cc DOHC V6) – Replace stock Weber 40 DCNF carburetors with a custom-built fuel injection system using Bosch L-Jetronic components (0 280 150 001 injectors, 0 280 100 001 airflow meter) paired with a Megasquirt MS3Pro ECU for precise AFR control and 12-15 psi boost via a Garrett GT2860RS turbocharger (compressor wheel trimmed to 52mm inducer, 60mm exducer) on a custom tubular manifold with TIG-welded 304 stainless steel runners (1.75\" primary tubes, 3\" collector).",
+    "Drivetrain: Reinforce the ZF 5-speed manual transmission (Type 200) with a Quaife ATB differential (QDF7Z) and uprated half-shafts from a Ferrari 308 GTB (part #101.01.010), coupled with a Sachs Performance twin-disc clutch (3000650001) and lightweight flywheel (12.5 lbs, CNC-machined from 7075-T6 aluminum).",
+    "Suspension/Handling: Replace stock Fiat 124-derived suspension with a custom coilover setup using Ohlins Road & Track DFV dampers (part #DFV 22/01-01) with 8-position adjustable compression/rebound, paired with Eibach ERS Pro springs (front: 220 lbs/in, rear: 180 lbs/in) and spherical bearing conversion for the upper/lower control arms (SuperPro SPF1001K). Front sway bar upgraded to a 22mm adjustable unit from a Lancia Stratos (part #4186000), rear sway bar to 18mm (custom-fabricated from 4130 chromoly)."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion using a custom-made kit (hand-laid 2x2 twill weave, 3K finish) replicating the 1969 Turin Auto Show \"Dino Berlinetta Speciale\" design, with integrated front splitter (3\" overhang, 3D-printed ABS core) and rear diffuser (dual-plane, 5\" height) from a Ferrari 250 LM replica kit (part #LM-001).",
+    "Wheels: 15x8.5\" (front) and 15x10\" (rear) BBS RS-GT wheels (part #RS013 513548) with custom offsets (+15mm front, +25mm rear) and hub-centric spacers (15mm front, 25mm rear, 7075-T6 aluminum), wrapped in Pirelli P Zero Corsa tires (205/50/15 front, 245/45/15 rear).",
+    "Interior: Full Alcantara retrim (Rosso Corsa, part #ALC-ROSSO-001) with custom door cards featuring Ferrari Daytona-style pull straps (leather-wrapped, part #DAY-STRAP-002) and a MOMO Prototipo steering wheel (380mm diameter, suede grip, part #0011201023) mounted on a NRG Innovations quick-release hub (part #NRG-200). Gauges replaced with a custom 5\" AIM MXS 1.2 dash (part #XA1.2001B) integrated into the stock binnacle, with AEM X-Series wideband (part #30-0334) and oil pressure/temp sensors (part #30-2131-10)."
+  ]
+}
