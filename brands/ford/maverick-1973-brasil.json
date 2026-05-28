@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "MAVERICK 1973 BRASIL",
+  "prestazioni": [
+    "Engine swap to a Ford 302 Cleveland V8 (engine code: 351C) with a forged rotating assembly from Eagle Specialty Products (ESP), featuring a 4.030\" bore, 3.750\" stroke, and 11.5:1 compression ratio pistons (Mahle Motorsport). Paired with a Crane Cams hydraulic roller camshaft (232°/238° duration @ 0.050\", 0.570\"/0.570\" lift) and Comp Cams roller rockers (1.6:1 ratio).",
+    "Forced induction via a Precision Turbo & Engine PT6266 CEA turbocharger (62mm inducer, 66mm exducer) with a custom T4 divided flange manifold by Burns Stainless, feeding into a Spearco air-to-water intercooler (1000cfm core) and a Holley Sniper EFI system (2x 1000cc injectors, dual-sync distributor). Boost controlled at 18psi via a TurboSmart Hyper-Gate45 wastegate.",
+    "Suspension overhaul with a full Global West subframe connectors kit, Hotchkis Sport 1\" drop springs, and Bilstein B8 5100 series dampers (valved specifically for the Maverick’s 108\" wheelbase). Rear axle upgraded to a Ford 9\" with a Detroit Truetrac LSD, 31-spline axles (Moser Engineering), and a Currie Enterprises 9+ housing. Braking system includes Wilwood Dynalite 4-piston calipers (12.19\" rotors front, 11.75\" rear) with Hawk HT-10 brake pads."
+  ],
+  "estetica": [
+    "Custom widebody conversion using a Rare Rides fiberglass kit (1970-73 Maverick-specific, 3\" flares front/rear) with a custom-mixed BASF Glasurit 90-line paint in \"Verde Urucum\" (a Brazilian-inspired metallic green). Front bumper deleted and replaced with a custom aluminum tube bumper by Schwartz Performance, matching the rear Schwartz bumper with integrated dual exhaust exits (3.5\" stainless steel, Borla Pro XS mufflers).",
+    "Interior stripped and reupholstered in Recaro SRD seats (cloth/Alcantara, Ford Performance blue stitching) with a custom roll cage by Autopower (8-point, mild steel, bolt-in). Dashboard replaced with a custom carbon fiber panel (by Fiberglass Unlimited) housing a Motec C127 dash display and a Nardi 380mm steering wheel (quick-release hub by NRG Innovations).",
+    "Aerodynamic package includes a custom front splitter (carbon fiber, 3\" overhang) by APR Performance, paired with a custom ducktail spoiler (fiberglass, 5\" height) by Vintage Air. Side skirts are OEM-style but modified with integrated LED turn signals (Luxx H8 bulbs) and a custom fuel filler door (aluminum, flush-mount) by Ringbrothers."
+  ]
+}

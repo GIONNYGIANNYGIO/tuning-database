@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "EXPLORER ST",
+  "prestazioni": [
+    "Engine: 3.0L EcoBoost V6 (PTA engine code) – Full bolt-on turbo upgrade with Garrett GTX4202R turbocharger (68mm inducer, 88mm exducer, 1.05 A/R turbine housing) paired with a custom 3.5\" stainless steel downpipe (CVF Performance) and a high-flow intercooler (Mishimoto MMINT-F150-18HBK) to support 550whp on E85 with a Cobb Accessport Stage 2+ tune (custom dyno-tuned by Livernois Motorsports).",
+    "Fuel System: Upgraded dual Bosch 044 fuel pumps (walbro 450LPH in-tank pump as secondary) with Injector Dynamics ID1050x injectors, Fore Innovations F2000 surge tank, and a Radium Engineering fuel pressure regulator (set to 60psi base) to handle E85 blends and prevent fuel starvation under boost.",
+    "Drivetrain & Handling: Quaife ATB LSD (part # QDF15Y) in the rear differential, paired with a Ford Performance 4.10:1 gear set (M-4209-F410) and a custom driveshaft (Driveshaft Shop 3.5\" aluminum one-piece). Suspension overhaul with Öhlins Road & Track coilovers (part # DFV2200) with 800lb/in front and 600lb/in rear springs, paired with Whiteline adjustable sway bars (24mm front, 22mm rear) and poly bushings (Energy Suspension 4.5111G)."
+  ],
+  "estetica": [
+    "Aero: Maxton Design USA Explorer ST-specific widebody kit (front fenders, rear quarter panels, and rear bumper) with carbon fiber side skirts and a custom 3D-printed front splitter (extended 3\" with integrated canards). Rear wing is a custom 1-piece carbon fiber GT wing (AeroCatch mounts) with a 65\" span and 8° adjustable angle, paired with a Maxton Design carbon fiber diffuser.",
+    "Wheels & Stance: Forged BBS FI-R wheels (20x10.5 +25 front, 20x11 +35 rear) with Michelin Pilot Sport Cup 2 tires (275/40/20 front, 295/35/20 rear). Air Lift Performance 3P management with AccuAir ENDO-CVT tanks and Slam Specialties EXT-64 bags for adjustable ride height (flush fitment at 3.5\" drop).",
+    "Exterior & Lighting: Full de-chrome with LUX H8 V4 LED headlights (3200 lumen, 6000K) and Diode Dynamics SS3 Pro LED fog lights. Custom matte vinyl wrap (3M 1080 Gloss Black) with satin bronze accents (mirror caps, grille surround, and badges). Rear window delete with a custom carbon fiber panel (Rocket Bunny style) and a custom dual-exit exhaust (Borla Atak 3.5\" tips with titanium tips)."
+  ]
+}

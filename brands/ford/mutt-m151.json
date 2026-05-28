@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "MUTT M151",
+  "prestazioni": [
+    "Engine swap to a Ford GAA 5.0L V8 (military-spec, 32-valve, DOHC) with a custom billet aluminum intake manifold by Dynatek, featuring individual throttle bodies (ITBs) from Jenvey Dynamics (45mm bore) and a custom ECU calibration via MoTeC M150 for optimized fuel and ignition mapping at 8,500 RPM redline",
+    "Forced induction via a Garrett GTX5533R turbocharger (86mm compressor wheel) with a custom cast-iron exhaust manifold by Banks Power, paired with a Tial MV-R 60mm wastegate and a custom intercooler core by Bell Intercoolers (12-row, 4.5\" thick) with CNC-machined aluminum end tanks for the M151's unique front-mounted radiator position",
+    "Suspension overhaul with custom-fabricated unequal-length A-arms (front) and trailing arms (rear) by Howe Performance, paired with Öhlins TTX40 coilovers (24-way adjustable damping) and spherical bearing upgrades from Aurora Bearing Company, along with a custom sway bar kit by Addco (1.25\" front, 1\" rear) to counteract the M151's high center of gravity"
+  ],
+  "estetica": [
+    "Custom military-inspired widebody conversion by Rampage Off-Road, featuring 3mm aluminum fender flares with integrated LED light pods (Baja Designs Squadron Pro) and a reinforced steel tube front bumper with a Warn Zeon 12-S winch and a custom stinger hoop",
+    "Full interior gutting and replacement with a custom roll cage by Custom Cages (8-point, TIG-welded 4130 chromoly) and Recaro SRD racing seats with Schroth Profi II 6-point harnesses, paired with a custom aluminum dashboard by AIM Sports featuring a digital dash (AIM MXS Strada) and a custom switch panel by Painless Performance",
+    "Exterior livery in a custom military-grade Cerakote (H-146 Graphite Black) applied by Line-X, with a functional roof-mounted snorkel by Safari Snorkels (for deep-water fording) and a custom rear-mounted spare tire carrier by Slee Off-Road, featuring a 37\" Nitto Trail Grappler MT tire on a Method MR701 beadlock wheel"
+  ]
+}

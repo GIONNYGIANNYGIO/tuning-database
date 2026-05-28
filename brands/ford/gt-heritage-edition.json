@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "GT HERITAGE EDITION",
+  "prestazioni": [
+    "Engine: 3.5L EcoBoost V6 (GT1500) with upgraded BorgWarner EFR 9280 turbochargers (106mm compressor wheel, 80lb/min flow rate) and custom titanium turbine housings for reduced lag and 950+ HP on E85 fuel with a Motec M150 ECU managing direct port methanol injection (Snow Performance Stage 3 kit) and a custom billet aluminum intercooler core (PWR Advanced Cooling) with 4.5\" thick end tanks for optimized airflow",
+    "Drivetrain: Quaife ATB helical LSD with carbon fiber driveshaft (G-Force Racing) and upgraded half-shafts (The Driveshaft Shop Stage 3) paired with a Tilton triple-disc carbon clutch (7.25\" diameter) and a Holinger RD6 sequential gearbox with custom gear ratios (1st: 2.97, 2nd: 2.16, 3rd: 1.68) for sub-2.5s 0-60mph acceleration",
+    "Suspension & Handling: Öhlins TTX46 coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression) and custom valving for the GT Heritage Edition’s carbon fiber rear diffuser, paired with Eibach ERS 1000N/mm front and 1200N/mm rear springs. Full carbon fiber monoblock control arms (AP Racing) with spherical bearings and a custom front sway bar (Hotchkis 28mm adjustable) to eliminate body roll in high-G corners"
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon fiber widebody kit (Rocket Bunny V3 GT Heritage Edition) with extended front fenders (2.5\" wider), custom rear quarter panels (3\" wider), and a functional GT3-style rear diffuser with integrated 3D-printed gurney flaps (AeroTech Designs). Front splitter features a 4-stage adjustable carbon fiber canard setup (Vortex Generator Technologies) for dynamic downforce tuning",
+    "Exterior Styling: Custom Heritage Edition livery with 3M Matte Gulf Blue vinyl wrap (Xpel Stealth PPF full-body protection) and hand-painted gold pinstriping (by Fikse Graphics). Carbon fiber side skirts with integrated LED turn signals (Lux H8 V4) and a custom titanium exhaust system (Akrapovic Evolution Line) with dual 4.5\" carbon fiber tips and a bypass valve for aggressive backpressure tuning",
+    "Interior: Full Alcantara-wrapped Recaro Pole Position seats (Sparco Pro 2000) with 6-point Schroth Profi II harnesses and a custom roll cage (Autopower Industries) featuring integrated fire suppression (LifeLine Zero 360 system). Motec C127 dash display with GPS lap timer, G-force sensor, and custom Heritage Edition-themed digital gauges. Steering wheel replaced with a MOMO Prototipo (flat-bottom, Alcantara grip) with integrated paddle shifters for the Holinger gearbox"
+  ]
+}

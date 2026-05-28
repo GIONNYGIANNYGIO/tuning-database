@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "FOCUS ZX5 ST",
+  "prestazioni": [
+    "Engine: SVT-developed 2.0L Duratec ST170 (engine code: Zetec-E) with forged internals including Manley H-beam connecting rods (PN: 14075-8), JE forged pistons (PN: 203050, 10.5:1 CR), and ARP head studs (PN: 204-4301) for 250+ WHP reliability on E85.",
+    "Forced Induction: Garrett GT2860RS turbocharger (PN: 743347-1) with a custom 3-inch stainless steel turbo manifold by Mountune (PN: MNR200001), paired with a Tial MV-R 44mm wastegate (PN: MVR44) and a Turbosmart Kompact 50mm blow-off valve (PN: TS-0203-1002).",
+    "Fuel & Ignition: Injector Dynamics ID1000 fuel injectors (PN: ID1000-60-5), Walbro 255 LPH in-tank fuel pump (PN: GSS342), and a Haltech Elite 2500 ECU with custom ethanol flex-fuel mapping, paired with NGK Iridium IX spark plugs (PN: 6619, gapped at 0.024\")."
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny V1 widebody kit (PN: RB-FO03) with custom carbon fiber front splitter and rear diffuser by Seibon (PN: CF-FO-03), paired with OEM+ ST170 side skirts and a Maxton Design GT rear wing (PN: MX1000).",
+    "Suspension: Ohlins Road & Track DFV coilovers (PN: 19-05-001) with custom valving for the ZX5 ST chassis, paired with Whiteline adjustable rear sway bar (PN: BSR75XZ) and polyurethane bushings (PN: W51610).",
+    "Wheels & Brakes: Enkei PF05 wheels (17x8 +35 ET, PN: 40-57032) with Michelin Pilot Sport Cup 2 tires (225/40/17), paired with StopTech ST-60 big brake kit (PN: 85.060.6000K) with 328mm rotors and 4-piston calipers."
+  ]
+}

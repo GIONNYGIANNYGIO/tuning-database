@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "FALCON GT-HO",
+  "prestazioni": [
+    "Engine: Replace the stock 351 Cleveland (351C) V8 with a stroked 408ci (6.7L) version using a Scat Enterprises 4340 forged crankshaft (4.000\" stroke), Eagle H-beam connecting rods (6.125\" length), and JE Pistons forged slugs (10.5:1 compression). Pair with a custom-ground camshaft from Comp Cams (242/248 duration @ 0.050\", 0.600\" lift) and ported AFR 225cc cylinder heads with Ferrea 1.6:1 roller rockers.",
+    "Forced Induction: Install a Garrett GTX4202R turbocharger (82mm compressor wheel) on a custom Precision Turbo manifold, paired with a Turbosmart Race Port 50mm wastegate and a TiAL MV-R 44mm blow-off valve. Use a custom 4\" intercooler core from Bell Intercoolers with 3.5\" piping and a Bosch 044 fuel pump feeding ID1000cc injectors, controlled by a Haltech Elite 2500 ECU with flex-fuel capability.",
+    "Drivetrain: Swap the stock 4-speed Top Loader for a Tremec TKX 5-speed with a McLeod twin-disc clutch (RST 10.5\" pressure plate) and a Ford 9\" rear end housing a Detroit Locker differential with 3.70:1 gears. Strengthen the half-shafts with Moser Engineering 35-spline axles and pair with a Driveshaft Shop aluminum driveshaft (3.5\" diameter)."
+  ],
+  "estetica": [
+    "Body: Apply a full Rocket Bunny Phase 2 widebody kit (FG Falcon-specific) with carbon fiber fenders, front splitter, and rear diffuser. Paint in PPG Ford 'Heritage Blue' with a matte clear coat and add a custom livery inspired by the 1971 Bathurst-winning XY GT-HO Phase III (white stripes, black bonnet scoop).",
+    "Wheels: Fit Work Meister S1 3P 18x10.5\" (front) and 18x12\" (rear) wheels with Nitto NT05R 275/35/18 and 315/30/18 tires. Use custom hub-centric spacers from Hardrace (25mm front, 35mm rear) and DBA 5000 Series slotted rotors with AP Racing CP6640 calipers (6-piston front, 4-piston rear).",
+    "Interior: Replace the stock seats with Recaro Pole Position II buckets wrapped in Alcantara (blue/black) and install a custom roll cage from Autopower (8-point, chromoly). Add a Momo Prototipo steering wheel on a NRG quick-release hub, a digital dash from AIM MXS Strada, and a full custom harness bar with Schroth Profi II 6-point harnesses."
+  ]
+}

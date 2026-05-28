@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "FOCUS RS MK1",
+  "prestazioni": [
+    "Engine: Duratec RS (engine code: **FMBA**) with forged internals including **Manley forged pistons (8.5:1 CR)**, **Crower forged connecting rods**, and **ARP head studs** for 30+ psi boost capability. Turbo upgrade to **Garrett GT3076R (ball-bearing, .86 A/R turbine housing)** with **Tial MV-R 44mm external wastegate** and **custom 3.5\" stainless downpipe** for optimized spool and top-end flow.",
+    "Fuel System: **Bosch 044 high-flow fuel pump** paired with **Injector Dynamics ID1000x injectors (1000cc/min)** and **Radium Engineering dual catch can setup** to prevent oil dilution. **Syvecs S6Plus standalone ECU** with **custom 3D-printed intake manifold (carbon fiber, optimized for GT3076R)** and **Nitrous Express direct-port nitrous kit (50-shot, wet system)** for on-demand power.",
+    "Drivetrain & Handling: **Quaife ATB helical LSD (front and rear)** with **AP Racing 6-piston CP5550 calipers (356mm two-piece rotors)** and **Ferodo DS2500 pads**. **Ohlins Road & Track DFV coilovers (2-way adjustable, 8kg/mm front/10kg/mm rear springs)** with **Whiteline adjustable rear sway bar (24mm)** and **Polyurethane bushings (full kit from SuperPro)** for razor-sharp turn-in."
+  ],
+  "estetica": [
+    "Aero: **Rieger Tuning RS-specific widebody kit (carbon fiber, 50mm wider front/60mm rear)** with **custom front splitter (3D-molded, 3\" overhang)** and **Voltex Type-3 rear wing (carbon fiber, 1200mm span, 30° angle)**. **Carbon fiber hood (Seibon, vented for FMBA intercooler clearance)** and **custom rear diffuser (aluminum, 3-channel design)** for aggressive downforce.",
+    "Exterior: **Full respray in Ford Performance Blue (PPG DBC, matte finish)** with **3M 1080 gloss black vinyl wrap (roof, mirrors, side skirts)**. **OEM+ RS-specific headlights (Hella DE projector, 5000K LED bulbs)** and **custom taillight overlays (red smoked, sequential LED turn signals)**. **Enkei RS05RR wheels (18x9 +35 front, 18x10 +30 rear, 5x108 PCD)** with **Michelin Pilot Sport Cup 2 tires (235/40/18 front, 265/35/18 rear)** for track-ready grip.",
+    "Interior: **Recaro Pole Position seats (carbon fiber backs, FIA-approved 6-point harnesses)** with **Sparco 6-point bolt-in roll cage (chrome-moly, triangulated rear)**. **Momo Prototipo steering wheel (350mm, suede, quick-release hub)** and **AIM MXS Strada dash (12-inch, CAN-bus integration with Syvecs ECU)**. **Custom aluminum shift knob (short-throw, weighted, engraved with FMBA engine code)** and **full sound deadening (Dynamat Extreme, 80mil thickness)** for cabin refinement."
+  ]
+}

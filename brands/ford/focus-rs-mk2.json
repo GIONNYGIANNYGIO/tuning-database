@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "FOCUS RS MK2",
+  "prestazioni": [
+    "Engine: Duratec RS (5-cylinder, 2.5L, code **Duratec ST/RS (2521cc) - Ford KF/KQ/KR**) with a **Garrett GT2867 .64 A/R turbo upgrade** (replacing the stock K16 turbo) paired with a **custom 3.5\" stainless steel downpipe (Milltek Sport or Catted Scorpion system)** to eliminate turbo lag and support 400+ HP on E85. Requires **CP-Carrillo forged pistons (8.5:1 CR)** and **Manley H-beam connecting rods** to handle boost levels up to 2.2 bar (32 psi).",
+    "Fuel System: **Bosch 044 high-flow fuel pump** with **ID1000 injectors (1000cc/min)** and a **Syvecs S6Plus standalone ECU** (replacing the stock Ford PCM) for full flex-fuel capability, knock control, and individual cylinder tuning. Includes a **Radium Engineering dual-catch can setup** to prevent oil buildup in the intake tract under high boost.",
+    "Drivetrain: **Quaife ATB helical LSD (Quattro version)** in the front differential (replacing the stock viscous unit) paired with a **PPG 6-speed dog-ring gearset (close-ratio, 2.21/1.75/1.32/1.03/0.83/0.69)** and **AP Racing 6-piston CP5550 calipers** with **355mm two-piece rotors (front) and 330mm (rear)** for consistent stopping power. Clutch: **Sachs Performance twin-disc (ceramic, 800Nm torque capacity)** with a **lightweight aluminum flywheel (10.5kg)** to reduce rotational mass."
+  ],
+  "estetica": [
+    "Aero: **Rieger Tuning RS MK2 widebody kit (carbon fiber front splitter, side skirts, and rear diffuser)** with a **custom 3D-printed rear wing (inspired by the WRC Focus, 150mm chord, adjustable angle)** for 150kg+ downforce at 160mph. Includes **carbon fiber hood (Seibon, vented for intercooler airflow)** and **custom front bumper canards (3D-printed, 45-degree angle for vortex generation)**.",
+    "Wheels/Tires: **OZ Racing Ultraleggera HLT (18x9.5 +35 ET, 5x108 PCD)** with **Michelin Pilot Sport Cup 2 (255/35/18 front, 265/35/18 rear)** for track use, or **BBS CH-R II (19x9.5 +30 ET)** with **Nitto NT05 (245/35/19 front, 275/30/19 rear)** for street/strip. Includes **custom wheel spacers (15mm front, 20mm rear, H&R or Eibach)** to fill the arches and **polyurethane wheel studs (McGard, 12x1.5 thread pitch)** for track safety.",
+    "Interior/Exterior: **Recaro Pole Position seats (carbon fiber backs, FIA-approved)** with **Schroth Profi II 6-point harnesses** and a **custom roll cage (Custom Cages, 6-point, T45 steel, bolt-in with harness bar)**. Exterior: **3M Matte Military Green wrap (or Ford Performance Blue with satin clear coat)** with **debadged front grille (replaced with a carbon fiber mesh insert)** and **custom LED taillights (Lux H8 V4, sequential turn signals, smoked lenses)**. Interior: **Momo Mod.78 steering wheel (350mm, suede)** with **NRG quick-release hub** and **Aim Solo 2 DL GPS lap timer** mounted on the A-pillar."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "GT 2005",
+  "prestazioni": [
+    "Engine: Supercharged 5.4L Modular V8 (engine code: *GT40JZ*), forged internals upgrade with Manley I-beam connecting rods, JE 9.5:1 forged pistons, and ARP L19 head studs for 22 psi boost capability under a Roush TVS2300 supercharger (1,200+ HP on E85).",
+    "Forced Induction: Custom-built Garrett GTX5533R turbocharger (hybrid setup with billet compressor wheel) paired with a Tial MV-R 44mm external wastegate and dual Precision Turbo 50mm blow-off valves, feeding into a custom 4-inch aluminum intercooler core by Bell Intercoolers with 1,500 CFM airflow capacity.",
+    "Drivetrain & Handling: Quaife ATB helical LSD in a Ricardo 6-speed transaxle with upgraded carbon fiber synchros, paired with a Tilton triple-disc ceramic clutch (7.25\" diameter). Suspension overhaul with Öhlins TTX40 3-way adjustable coilovers (24-position rebound, 22-position compression), spherical bearing control arms by VAC Motorsports, and polyurethane bushings from Energy Suspension (8.8111G kit)."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon fiber widebody conversion using the *Rocket Bunny GT40* kit (front fenders, rear quarter panels, and ducktail spoiler), paired with a custom 3D-printed front splitter by APR Performance (GT-250 model) and a fixed carbon fiber rear diffuser by Seibon Carbon.",
+    "Exterior Styling: Custom *PPG Ford Liquid Silver* paint with matte black vinyl wrap accents (3M 2080 series) on the roof, mirror caps, and lower rocker panels. OEM-style carbon fiber side skirts by Anderson Composites, and a custom titanium exhaust exit system by Burns Stainless (4-inch dual outlets with Inconel 625 tubing).",
+    "Wheels & Stance: Forged BBS FI-R wheels (19x10.5 front, 20x12.5 rear) with custom offsets (+15mm front, +25mm rear) and Michelin Pilot Sport Cup 2 tires (275/35/19 front, 345/30/20 rear). Air suspension by Air Lift Performance (3P management) with custom strut mounts for a 1.5-inch drop in 'show' mode."
+  ]
+}

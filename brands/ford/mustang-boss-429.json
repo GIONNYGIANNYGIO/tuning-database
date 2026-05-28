@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "MUSTANG BOSS 429",
+  "prestazioni": [
+    "Engine: Replace the stock 7.0L (429 cu in) *Semi-Hemi* V8 (engine code: 820-S) with a fully forged internals build featuring Mahle Motorsport forged pistons (22.5:1 compression ratio), Eagle H-beam connecting rods, and a billet steel crankshaft from Callies Performance Products. Pair with a custom camshaft grind from Comp Cams (248°/254° duration, 0.650\" lift, 114° LSA) for optimized torque in the 3,500–6,500 RPM range.",
+    "Forced Induction: Install a custom-built centrifugal supercharger system using a Vortech V-23 Si-Trim supercharger (10 psi boost) with a custom intercooler setup featuring a Bell Intercoolers front-mount core (4.5\" thick, 22\" x 12\" dimensions) and a Davies Craig EWP150 electric water pump for consistent charge cooling. Fabricate a custom intake manifold from billet aluminum to accommodate the supercharger and a Holley Dominator 1250 CFM carburetor with annular boosters.",
+    "Drivetrain & Handling: Swap the stock 4-speed Toploader transmission for a Tremec TKO-600 5-speed with a McLeod RST twin-disc clutch (2,600 lb-ft capacity). Install a Ford 9\" rear end with a Detroit Locker differential and 3.91:1 gears. Suspension upgrades include a full Global West subframe connectors kit, QA1 double-adjustable coilovers (2.5\" front, 3.0\" rear), and a set of polygraphite bushings from Energy Suspension for improved chassis rigidity."
+  ],
+  "estetica": [
+    "Body: Apply a full custom widebody conversion using a Rare Classics fiberglass kit (1969 Boss 429-specific, 3\" wider fenders front and rear) with a custom-mixed Ford Royal Maroon paint (PPG DBC code: 9283) and a clear bra from XPEL Ultimate for front-end protection. Install a custom hood scoop from Cervini’s (carbon fiber, functional ram-air design) with a matte black finish.",
+    "Aero: Add a custom rear diffuser from APR Performance (carbon fiber, 3-piece design) and a set of side skirts from RK Sport (OEM+ style, bolt-on). Front splitter is a custom 3D-printed ABS unit (4\" overhang) with integrated LED turn signals. Rear wing is a custom-built dual-element unit from Stillen (50\" width, 8\" height, adjustable angle).",
+    "Interior: Retrim the entire cabin in black Alcantara with red stitching (materials from Katzkin) and install a custom roll cage from Autopower (8-point, bolt-in, with harness bar). Seats are Recaro Pole Position (cloth, period-correct) with Schroth Profi II 4-point harnesses. Gauges are a full set of AutoMeter Pro-Comp Ultra-Lite (160 mph speedo, 10k RPM tach, oil pressure, boost, and fuel pressure) in a custom aluminum dash panel."
+  ]
+}

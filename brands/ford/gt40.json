@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "GT40",
+  "prestazioni": [
+    "Engine swap to a Roush-Yates 5.0L Coyote V8 (FR9 engine code) with forged internals, including Manley H-beam connecting rods, Mahle Motorsport forged pistons (11.5:1 compression), and a billet crankshaft from Callies Performance. Paired with a custom dry-sump oiling system by Peterson Fluid Systems to handle high-G cornering forces.",
+    "Forced induction via a single Garrett GTX5533R turbocharger (86mm compressor wheel) with a custom 4-inch stainless steel exhaust manifold by Burns Stainless, feeding into a 4-inch titanium exhaust system with a Borla Pro XS muffler. Boost controlled by a TurboSmart HyperGate45 wastegate and a Motec M150 ECU for precise fuel and ignition mapping.",
+    "Suspension overhaul with a full coilover conversion using Öhlins TTX40 adjustable dampers, custom-valved for the GT40 chassis, paired with Eibach ERS race springs (400 lb/in front, 600 lb/in rear). Polyurethane bushings from SuperPro replace all factory rubber, and spherical bearings from Aurora Bearing Co. are used for all suspension pivots."
+  ],
+  "estetica": [
+    "Full carbon fiber bodywork replacement using a custom GT40-specific aero kit by Kaminari Aerodynamics, including a 3-piece front splitter, rear diffuser, and a 20% larger rear wing with adjustable carbon fiber elements for downforce tuning.",
+    "Custom widebody conversion using hand-formed aluminum panels by Rare Fabrication, widening the fenders by 2 inches front and 3 inches rear to accommodate the Öhlins coilovers and staggered 18x10.5 (front) and 18x12.5 (rear) BBS RS-GT wheels with Michelin Pilot Sport Cup 2 tires (275/35/18 front, 335/30/18 rear).",
+    "Interior stripped and rebuilt with a full FIA-spec roll cage by Safety Devices, Recaro Pole Position seats with Schroth 6-point harnesses, and a custom carbon fiber dashboard by Vintage Air with a Motec C127 digital dash and a MoTeC PDM15 power distribution module."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "GT40 MK1",
+  "prestazioni": [
+    "Engine swap to a Roush-Yates 5.0L Coyote V8 (FR9 engine code) with forged internals, including Manley I-beam connecting rods, Mahle Motorsport forged pistons (11.5:1 compression), and a billet crankshaft from Bryant Racing, paired with a custom dry-sump oiling system by Peterson Fluid Systems to handle sustained high-G cornering",
+    "Twin Precision Turbo PT6766CE turbochargers with TiAL MV-R 44mm wastegates and TiAL Q 50mm blow-off valves, feeding into a custom air-to-water intercooler setup by PWR Performance, plumbed with -4AN AEROQUIP StartLite hoses and Earl’s Performance fittings for maximum heat rejection",
+    "Full custom fuel system featuring dual Bosch Motorsports 044 high-flow fuel pumps, ID1000XDS injectors, and a Holley Dominator ECU with a custom calibration by AEM Performance Electronics, paired with a custom 3.5-inch stainless steel exhaust system by Burns Stainless with equal-length headers and a 304-grade merge collector"
+  ],
+  "estetica": [
+    "Full carbon fiber body replica kit by GT40 Replicas UK, including a lightweight front splitter with integrated NACA ducts for brake cooling, and a rear diffuser with Gurney flaps for aerodynamic stability at high speeds",
+    "Custom 18x10.5-inch front and 18x13-inch rear BBS RS-GT wheels in gold finish, wrapped in Michelin Pilot Sport Cup 2 tires (275/35 R18 front, 325/30 R18 rear) for optimal grip, paired with a custom bolt-on widebody kit by Dynachip to accommodate the aggressive wheel fitment",
+    "OMP Carbon Kevlar racing seats with Schroth Profi II 6-point harnesses, a custom roll cage by Safety Devices UK with integrated fire suppression system (Lifeline Zero 360), and a full digital dash by AIM MXS Strada with data logging for lap timing and engine telemetry"
+  ]
+}

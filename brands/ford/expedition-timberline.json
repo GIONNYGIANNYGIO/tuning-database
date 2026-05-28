@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "EXPEDITION TIMBERLINE",
+  "prestazioni": [
+    "3.5L EcoBoost V6 (3rd Gen, engine code: *MCE*) twin-turbo upgrade to BorgWarner EFR 9280 turbos with billet compressor wheels, 64mm inducers, and 0.85 A/R turbine housings, paired with a custom PTP Motorsports titanium turbo manifold and 4-inch V-band downpipe for optimized spool and 650whp capability on E85",
+    "Full fuel system overhaul with Fore Innovations 450 LPH dual-pump in-tank surge tank, Radium Engineering port-injection kit (8x 2200cc injectors), and a Motec M150 ECU with custom flex-fuel calibration for precise AFR control under boost",
+    "Chassis reinforcement via Ford Performance heavy-duty front subframe brace (PN: M-5493-M), Cusco 4-point rear subframe brace, and a full bolt-in roll cage from Autopower Industries (4-point bolt-in with harness bar, designed specifically for the Timberline’s body structure)"
+  ],
+  "estetica": [
+    "Rally Art-derived widebody conversion using a custom-fabricated steel fender flares (3.5-inch extended, heat-formed from 18-gauge steel) with integrated LED turn signals, matched to a custom front bumper with a 3D-printed carbon fiber lower splitter (designed for 2-inch additional downforce at 80mph) and a Ford Performance Heritage grille delete (replaced with a billet aluminum mesh insert)",
+    "Functional off-road aero package including a custom aluminum roof rack (designed by Prinsu Design Studios) with integrated 50-inch Baja Designs Squadron Pro LED light bar and a rear diffuser fabricated from 5052 aluminum, incorporating dual 3-inch exhaust exits for the custom Borla Atak system",
+    "Interior overhaul with Recaro Pole Position seats (recliners removed, fixed-back for rally use) wrapped in Alcantara with red stitching, paired with a custom roll cage-mounted Sparco 6-point harness bar and a Motec C127 dash display (replacing the stock cluster) with integrated data logging for boost, AFR, and wheel speed sensors"
+  ]
+}

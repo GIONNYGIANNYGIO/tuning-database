@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "FALCON FPV GT R-SPEC",
+  "prestazioni": [
+    "Engine: Replace the stock 5.0L Coyote-derived **Miami (Boss 335) V8 (engine code: 'B8')** with a forged internals build featuring **Manley H-beam connecting rods (PN: 14099-8)**, **JE Pistons forged 2618 alloy (PN: 243050, 10.5:1 CR)**, and **ARP Custom Age 625+ head studs (PN: 250-4701)** for 800+ hp reliability on E85. Pair with a **Harrop HTV2300 supercharger (2.3L rotor, 14 psi max boost)** and **Injector Dynamics ID1700x injectors (PN: ID1700X-D017-6)** for linear power delivery.",
+    "Drivetrain: Swap the stock Tremec TR-6060 6-speed for a **Holinger RD6 sequential gearbox (PN: RD6-001)** with a **PPG straight-cut gearset (1st: 2.97, 2nd: 2.10, 3rd: 1.52)** and **Penske triple-disc carbon clutch (PN: 8280-0001)**. Reinforce the rear end with a **Strange Engineering S60 Pro IRS differential (3.73:1 ratio, 35-spline axles)** and **C&R Racing aluminum differential cooler (PN: 10-00010)** to handle drag strip launches.",
+    "Suspension & Braking: Install **Öhlins Road & Track DFV coilovers (PN: DFV 22M401-10)** with **FPV-spec camber plates (adjustable to -3.5° front, -2.8° rear)** and **SuperPro poly bushings (PN: SPF0116K, SPF0117K)** for subframe rigidity. Upgrade braking with **AP Racing Radi-CAL 6-piston front calipers (PN: CP9660-350CH)** on **DBA 5000 Series T3 2-piece rotors (350mm x 36mm, PN: 52604XS)** and **Ferodo DS2500 pads (PN: FDB2098)** for endurance-level fade resistance."
+  ],
+  "estetica": [
+    "Aero: Fit a **Rocket Bunny V3 widebody kit (FPV GT-specific, PN: RB-FPV-GT-V3)** with **custom carbon fiber front splitter (35mm overhang, 3D-printed ABS endplates)** and **GT wing (1,800mm span, 300mm chord, adjustable to 20° AoA)**. Add **Vortex Generators (PN: VG-FPV-001)** on the roof for high-speed stability.",
+    "Exterior: Repaint in **PPG 'Holden HSV Phantom Black' (code: 9X5)** with **3M Matte Black 1080 wrap on the bonnet and roof**. Replace stock wheels with **HRE FF15 3-piece forged wheels (19x10.5 ET25 front, 19x12 ET45 rear, 5x114.3 PCD)** wrapped in **Michelin Pilot Sport Cup 2 R tires (275/35 R19 front, 315/30 R19 rear)**. Add **FPV Heritage badges (laser-etched aluminum, PN: FPV-HERITAGE-001)** on the fenders.",
+    "Interior: Retrim in **Recaro Pole Position seats (PN: 391.99.001, FIA 8862-2009 certified)** with **Schroth 6-point harnesses (PN: ASM2774F)** and **Sparco carbon fiber steering wheel (PN: 01516210NR)**. Install a **Motec C127 dash logger (PN: C127-000)** with **AIM MXS Strada display (PN: 1.20.0001.0001)** and **custom FPV GT R-Spec shift light (RGB LED, 10,000 RPM redline)**."
+  ]
+}

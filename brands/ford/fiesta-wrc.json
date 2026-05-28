@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "FIESTA WRC",
+  "prestazioni": [
+    "1.6L EcoBoost (engine code: GTDI 1.6L WRC) with a bespoke M-Sport-developed forged internals, including Mahle Motorsport pistons (9.5:1 compression), steel H-beam connecting rods, and a billet crankshaft for 380+ hp at 6,000 RPM and 450 Nm of torque at 4,000 RPM, paired with a Garrett GT35R turbocharger (custom WRC-spec compressor wheel) and a 45mm turbo restrictor per FIA regulations",
+    "M-Sport/AP Racing 6-piston monoblock front brake calipers with 370mm carbon ceramic discs (Brembo CCM-R) and 4-piston rear calipers with 330mm discs, featuring a WRC-specific hydraulic handbrake system with Tilton master cylinders and a carbon-fiber brake bias adjuster",
+    "Ohlins TTX40 3-way adjustable dampers with remote reservoirs, custom valving for gravel/tarmac transitions, and M-Sport-designed adjustable anti-roll bars (24mm front, 22mm rear) with spherical bearings, paired with a WRC-spec Reiger Motorsport hydraulic bump stop kit for extreme articulation"
+  ],
+  "estetica": [
+    "M-Sport WRC aero kit featuring a carbon-fiber front splitter with integrated dive planes (CFD-optimized for 200kg downforce at 200 km/h), a 150mm rear diffuser with Gurney flap, and a FIA-homologated carbon-fiber rear wing (3-element design with adjustable angle of attack via quick-release pins)",
+    "Full carbon-fiber body panels (including doors, hood, and rear hatch) from RML Group, with a WRC-spec polycarbonate rear side windows and a lightweight Lexan windscreen (1.5mm thick, FIA-approved), all finished in 3M 1080 vinyl wrap with M-Sport’s signature ‘Performance Blue’ livery and sponsor decals (e.g., Castrol Edge, Michelin)",
+    "Sparco WRC-spec carbon-fiber bucket seats (FIA 8862-2009 certified) with 6-point Schroth Racing harnesses, a M-Sport quick-release steering wheel (OMP WRC design with integrated paddle shifters), and a custom roll cage (FIA Appendix J, T45 steel) with integrated fire suppression system (Lifeline Zero 360, plumbed to all critical areas)"
+  ]
+}

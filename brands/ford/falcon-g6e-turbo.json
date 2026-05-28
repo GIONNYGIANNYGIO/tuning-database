@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "FALCON G6E TURBO",
+  "prestazioni": [
+    "Engine: Replace the stock I6 4.0L Barra 270T (engine code: BTR) with a forged internals build featuring Manley H-beam connecting rods, Mahle Motorsport forged pistons (8.5:1 compression), and a billet crankshaft from Dandy Engines. Pair with a Garrett GTX4202R turbocharger (0.92 A/R turbine housing) and a custom 4-inch stainless steel turbo-back exhaust system by Manta Performance with a 3.5-inch center section and dual 4-inch outlets.",
+    "Fuel System: Upgrade to a Haltech Elite 2500 ECU with a custom flex-fuel calibration, paired with ID1000x injectors and a Walbro 450 LPH in-tank fuel pump. Add a Fore Innovations F2i-1000 surge tank with dual Bosch 044 fuel pumps for consistent fuel delivery under high G-forces.",
+    "Suspension & Handling: Install a full Ohlins Road & Track DFV coilover kit (FG Falcon-specific valving) with adjustable camber plates and spherical bearing upper mounts. Replace the front sway bar with a Whiteline 27mm adjustable bar and the rear with a Whiteline 24mm adjustable bar. Add polyurethane bushings from SuperPro (part numbers: SPF0115-FG for front control arms, SPF0116-FG for rear trailing arms)."
+  ],
+  "estetica": [
+    "Aero: Fit a custom carbon fiber front splitter by ADR Performance (FG Falcon-specific design) with integrated canards and a carbon fiber rear diffuser by Seibon. Add a custom 3-piece carbon fiber rear wing by Veilside (FG Falcon bolt-on kit) with adjustable angle of attack.",
+    "Body: Install a full Rocket Bunny V1 widebody kit (FG Falcon-specific) with extended fenders, custom side skirts, and a carbon fiber hood with a functional heat extractor. Paint the car in a custom matte PPG 'Lunar Grey' with gloss black accents on the roof, mirrors, and diffuser.",
+    "Wheels & Stance: Mount a set of Work Emotion CR Kiwami 2 wheels (19x10 +15 front, 19x11 +25 rear) with Michelin Pilot Sport Cup 2 tires (275/35/19 front, 305/30/19 rear). Lower the car with a 35mm front and 40mm rear drop using the Ohlins coilovers, achieving a flush fitment with rolled fenders and custom inner fender liners."
+  ]
+}

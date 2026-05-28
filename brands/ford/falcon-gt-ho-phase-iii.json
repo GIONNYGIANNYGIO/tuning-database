@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "FALCON GT HO PHASE III",
+  "prestazioni": [
+    "Engine: Replace the original 351 Cleveland (351C) V8 with a fully forged internals build using a Scat Enterprises 4340 forged crankshaft (3.850\" stroke), Manley H-beam connecting rods (6.535\" length), and JE Pistons forged slugs (10.5:1 compression ratio, 4.030\" bore) to handle 800+ hp reliably. Pair with a custom-ground camshaft from Cam Motion (248/254 duration @ 0.050\", 0.650\" lift, 112 LSA) for aggressive mid-to-high RPM power delivery.",
+    "Forced Induction: Install a Garrett GTX5533R turbocharger (88mm compressor wheel, 1.15 A/R turbine housing) on a custom stainless steel exhaust manifold by Racecraft Fabrications, paired with a Turbosmart Comp-Gate 60 wastegate (set to 22 psi base boost) and a TiAL MV-R 50mm blow-off valve. Use a custom intercooler setup with a PWR 4.5\" thick core (1200cfm airflow) and -10AN silicone hoses from Vibrant Performance.",
+    "Fuel & Ignition: Convert to a full sequential fuel injection system using a Haltech Elite 2500 ECU with individual cylinder tuning, fed by a Radium Engineering dual fuel pump hanger (for dual Bosch 044 pumps) and Injector Dynamics ID2000 fuel injectors (2000cc/min). Ignition system upgraded to an MSD Digital 7 Plus CDI box with MSD Blaster HVC II coils and NGK R7437-9 racing spark plugs (0.030\" gap)."
+  ],
+  "estetica": [
+    "Body Kit: Install a custom widebody conversion kit by Rocket Bunny (PB-FAL01), specifically designed for the XW-XY Falcon chassis, featuring extended carbon fiber fenders (2.5\" wider front, 3\" wider rear), front canards, and a rear diffuser with integrated brake ducts. Paint in Ford 'Grabber Blue' with matte black accents and gold pinstriping by VHT.",
+    "Wheels & Suspension: Fit a set of Work Meister S1 3P wheels (18x10.5 +15 front, 18x12 +25 rear) with Nitto NT05R tires (275/35/18 front, 315/30/18 rear). Suspension upgraded to a full Ohlins Road & Track DFV kit (coilovers with 8-way adjustable damping, 20mm drop) paired with Whiteline adjustable sway bars (24mm front, 22mm rear) and poly bushings throughout.",
+    "Interior & Aero: Replace the stock interior with a full Tillet B6 racing seat setup (carbon fiber shells, Schroth 6-point harnesses) and a custom roll cage by Chassisworks (8-point, mild steel, integrated with the Ohlins suspension mounts). Add a custom carbon fiber dashboard with a Motec C127 digital dash and a MOMO Mod.78 steering wheel. Exterior aero includes a custom carbon fiber front splitter by Seibon and a GT wing by APR Performance (carbon fiber, 65\" width, 3D adjustable)."
+  ]
+}

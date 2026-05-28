@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "GT40 MK2",
+  "prestazioni": [
+    "Engine: Replace the original 7.0L FE-series V8 (engine code: *427 FE*) with a fully built *427 FE* stroked to 482 cubic inches (7.9L) using a *Callies 4.250\" crankshaft*, *Manley 6.800\" H-beam connecting rods*, and *JE 12.5:1 forged pistons* for 800+ HP on *VP Racing Q16* fuel with a *Holley Dominator 1250 CFM carburetor* and *Edelbrock Victor Jr. intake manifold*.",
+    "Forced Induction: Twin *Garrett GT4788R turbochargers* (88mm, .96 A/R) with *Tial MV-R 44mm wastegates* and *Precision Turbo 50mm blow-off valves*, feeding into a *custom 4-into-1 stainless steel exhaust manifold* by *Burns Stainless* and a *3.5\" dual-exit exhaust system* with *Borla Pro XS mufflers*.",
+    "Suspension & Chassis: *Öhlins TTX40 coilovers* with *Eibach 1000 lb/in springs* and *polyurethane bushings* from *Energy Suspension*, paired with *Wilwood 14\" GT40-spec brake calipers* (6-piston front, 4-piston rear) and *Pagid RS14 racing brake pads* on *BBS LM 18\" forged wheels* wrapped in *Michelin Pilot Sport Cup 2 tires* (275/35 front, 325/30 rear)."
+  ],
+  "estetica": [
+    "Aerodynamics: *RML Group* carbon fiber widebody kit (GT40 MK2-specific) with *Gurney flaps* on the rear spoiler and *custom front splitter* with *NACA ducts* for brake cooling, finished in *PPG Ford Racing Blue* with *3M Scotchcal matte black accents*.",
+    "Interior: Full *Sparco Pro 2000* racing seats with *Schroth 6-point harnesses*, *MOMO Mod.78* steering wheel on a *NRG quick-release hub*, and *AIM MXS Strada* digital dash replacing the original gauges, with *Dynamat Xtreme sound deadening* for noise reduction.",
+    "Lighting: *Hella 500FF* LED headlights with *Cibie Oscar rally lenses* and *Luxxen HID fog lights* integrated into the front bumper, paired with *Rear Racing LED taillights* by *Truck-Lite* for vintage aesthetics with modern visibility."
+  ]
+}

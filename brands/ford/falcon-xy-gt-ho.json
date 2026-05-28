@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "FALCON XY GT HO",
+  "prestazioni": [
+    "Engine: Replace the original 351 Cleveland (351C) V8 with a fully forged internals build using a Scat Enterprises 4340 forged crankshaft (3.500\" stroke), Manley H-beam connecting rods (6.535\" length), and JE Pistons forged 2618 alloy slugs (11.5:1 compression, 4.030\" bore). Pair with a Crane Cams solid roller camshaft (248/254 duration @ 0.050\", 0.650\" lift) and Comp Cams roller rockers (1.7:1 ratio) for aggressive valvetrain stability.",
+    "Forced Induction: Install a Precision Turbo & Engine PT8285CE turbocharger (85mm inducer, 1.28 A/R turbine housing) with a custom-built 4-into-1 stainless steel header (equal-length, 1.75\" primaries) and a Turbosmart Race Port 60mm wastegate. Use a custom air-to-water intercooler (PWR Advanced Cooling) with a Davies Craig EWP150 electric water pump and a 10-row Setrab oil cooler (19-row core) for thermal management.",
+    "Fuel & Ignition: Convert to a Haltech Elite 2500 ECU with a dual-channel wideband O2 controller (AEM X-Series 30-0334) and a 12-stage fuel system upgrade: Aeromotive A1000 fuel pump, ID1000x injectors (1000cc/min), and a custom billet fuel rail (Radium Engineering). Ignition system: MSD 8 Plus CD box, MSD Blaster SS coils, and NGK R7437-9 racing plugs (0.030\" gap)."
+  ],
+  "estetica": [
+    "Body: Full custom widebody conversion using a Rare Spares XY GT HO-specific fiberglass kit (flared front fenders, extended rear quarters, and a bolt-on ducktail spoiler). Paint: BASF Glasurit 90-Line custom mix \"Holden Barbados Green\" with a satin clearcoat and hand-painted gold GT stripes (3M Scotchcal 220 vinyl base for precision).",
+    "Wheels & Suspension: 17x9.5\" and 17x11\" Weld Racing RT-S wheels (ET25 front, ET15 rear) with Nitto NT05R tires (275/40/17 front, 315/35/17 rear). Suspension: Pedders XY-specific coilovers (adjustable damping, 2.5\" drop) with custom poly bushings (SuperPro 6945K) and a Whiteline front sway bar (24mm adjustable).",
+    "Interior: Full custom roll cage (Chassisworks 8-point bolt-in) with Schroth Profi II 6-point harnesses. Seats: Recaro SRD-E full carbon Kevlar buckets with custom XY GT HO embroidery. Gauges: Stack ST8100 digital dash (oil pressure, boost, AFR) with a Momo Mod.78 steering wheel (350mm, suede) and a custom billet aluminum shift knob (Hurst-style, engraved \"XY GT HO\")."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "FLEX LIMITED",
+  "prestazioni": [
+    "3.5L EcoBoost (3rd Gen) V6 (engine code: *Cyclone 3.5L GTDI* - *Ford 351-14T*) forced induction upgrade with a *Garrett GTX4202R* turbocharger (88mm compressor wheel, 1.15 A/R turbine housing) paired with a *PTP Turbo Blanket* and *Tial MV-R 44mm* external wastegate for precise boost control (targeting 22-24 psi on E85).",
+    "Full *Motorsport-spec* fuel system overhaul: *Fore Innovations 450 LPH* in-tank fuel pump, *ID1700x* port injectors (primary) + *ID1050x* direct injectors (secondary), *Radium Engineering* dual catch can setup with *Mishimoto* -8AN braided lines, and a *Fuelab* adjustable FPR for E85 compatibility (ethanol content sensor required).",
+    "Custom *Livernois Motorsports* Stage 4 ECU calibration (via *HP Tuners MPVI2*) with *COBB Accessport* piggyback integration for real-time monitoring, featuring *torque-based boost control*, *dual-map switching* (93 octane vs. E85), and *launch control* optimized for the *6F35 6-speed automatic transmission* with *Sonnax* valve body upgrades and *TransGo* shift kit for 0.15s faster shifts."
+  ],
+  "estetica": [
+    "*Rally Innovations* custom widebody conversion kit (FLEX-specific, 3.5\" fender flares per side) with *PPG Ford Magnetic Gray* paint and *3M Matte Black* vinyl overlay for the roof and pillars, paired with *Vortex Generation* carbon fiber hood (functional dual vents for turbo heat extraction).",
+    "*Air Design USA* front bumper lip + *Maxton Design* rear diffuser (FLEX-specific, bolt-on with integrated *Oracle Lighting* RGB LED underglow), *Borbet Type-S1* 22x10\" forged wheels (ET35 offset) wrapped in *Michelin Pilot Sport Cup 2* 275/35R22 tires (stretched fitment).",
+    "*Seibon Carbon* custom rear spoiler (duckbill-style, 4.5\" height) with *AEM* water/methanol injection nozzles integrated into the underside for drag reduction, *Morimoto* XB LED headlight retrofit (projector swap with *Osram 5500K* bulbs), and *VaisTech* digital rearview mirror (1080p camera feed from *Garmin* dashcam)."
+  ]
+}

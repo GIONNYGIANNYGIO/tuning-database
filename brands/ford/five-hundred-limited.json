@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "FIVE HUNDRED LIMITED",
+  "prestazioni": [
+    "Engine swap to a Ford Cyclone 3.5L Ti-VCT V6 (engine code: *Duratec 35*) with a custom forced-induction setup using a *Garrett GTX3582R* turbocharger, paired with a *Pectel SQ6M* standalone ECU for precise boost control (targeting 12 psi on 93 octane) and a *CP-Carrillo* forged piston kit (8.5:1 compression ratio) with *Manley H-beam connecting rods* for durability under 500+ whp.",
+    "Full drivetrain reinforcement including a *Centerforce DFX* dual-friction clutch, *Ford Racing* limited-slip differential (part #M-4204-F550), and *GKN Driveline* CV axles with upgraded internals to handle increased torque. Suspension overhaul with *KW Clubsport 3-way coilovers* (adjustable compression/rebound/damping) and *Whiteline* front/rear sway bars (24mm front, 22mm rear) for reduced body roll.",
+    "Fuel and cooling system upgrades: *Injector Dynamics ID1050x* fuel injectors, *AEM 400LPH* in-tank fuel pump, *Mishimoto* aluminum radiator with dual *SPAL 16\" puller fans*, and a *Setrab* 50-row oil cooler with a *Mocal* remote thermostat to maintain optimal temperatures during track use. Exhaust system features a *Borla Pro XS* 3.5\" cat-back with *MagnaFlow 14815* high-flow catalytic converters for emissions compliance without sacrificing flow."
+  ],
+  "estetica": [
+    "Custom widebody conversion using *RK Sport* FWD-specific fender flares (3.5\" front, 4\" rear) to accommodate *Work Emotion CR Kiwami* 19x10.5 +25 wheels with *Michelin Pilot Sport Cup 2* tires (275/35/19). Front bumper replacement with a *Seibon Carbon* Ford Five Hundred-specific lip spoiler and *AIT Racing* carbon fiber hood (functional venting for heat extraction).",
+    "Aggressive aero package including a *VIS Racing* GT-style rear wing (adjustable angle, 60\" span) mounted on *Cusco* aluminum pedestals, *AeroCatch* hood latches for quick removal, and *APR Performance* GT-250 side skirts with integrated LED turn signals. Full *3M Matte Graphite* vinyl wrap with *Oracle Lighting* RGB halo headlights and *Diode Dynamics* sequential taillights for a modern JDM-inspired look.",
+    "Interior overhaul with *Recaro SPG XL* seats (retaining OEM power adjustments) wrapped in *Nappa leather with Alcantara inserts*, *NRG Innovations* quick-release steering wheel hub, and a *Momo* 350mm flat-bottom wheel. Custom *AEM X-Series* digital dash (replacing the factory cluster) with *Defi Advance BF* oil pressure and boost gauges mounted in a *P3 Cars* vent pod. Sound system features a *JL Audio* 12W7 subwoofer in a sealed enclosure with *Rockford Fosgate* T1650-S component speakers."
+  ]
+}

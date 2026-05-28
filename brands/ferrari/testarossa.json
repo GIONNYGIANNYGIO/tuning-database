@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "TESTAROSSA",
+  "prestazioni": [
+    "Engine: F113A 4.9L Flat-12 (48-valve, DOHC) with a custom Motec M150 ECU remap targeting 550hp at 7,000 RPM via aggressive ignition timing and fuel mapping optimized for 102-octane race fuel, paired with a custom equal-length stainless steel exhaust system by Capristo featuring 3.5\" diameter piping and quad 100mm titanium tips for reduced backpressure and a 12% power increase over stock.",
+    "Forced Induction: Twin Precision Turbo PT6266 CEA turbochargers with billet compressor wheels, 0.82 A/R turbine housings, and custom water-cooled center sections, running 1.2 bar of boost with a dual-stage wastegate setup by Turbosmart (Comp-Gate 40mm) and a custom air-to-water intercooler system by PWR with a 4.5L capacity and 1200cfm airflow, reducing intake temps by 40°C under full load.",
+    "Drivetrain: Reinforced 5-speed manual transmission with a custom Quaife ATB differential (85% lockup) and a Sachs Performance twin-disc clutch (paddle-type, 800Nm torque capacity), paired with a custom lightweight flywheel by Fidanza (12.5 lbs) and a GForce G-1200 sequential shifter for sub-100ms shifts. Suspension upgraded with Ohlins TTX46 coilovers (3-way adjustable, 24-position rebound, 22-position compression) and spherical bearing upper control arms by Superformance for zero compliance."
+  ],
+  "estetica": [
+    "Widebody Conversion: Custom Rocket Bunny-inspired widebody kit by Novitec (Ferrari-specific, not a generic kit) with carbon fiber fenders (3.5\" wider front, 4.2\" wider rear), extended rocker panels, and a custom front splitter with integrated canards for a 30% increase in downforce at 120mph. Rear diffuser by Vorsteiner (carbon fiber, 3-stage design) with integrated exhaust cutouts for the Capristo system.",
+    "Aerodynamics: Custom carbon fiber rear wing by 991 Racing (dual-element, 1.8m span, adjustable angle of attack from 5° to 20°) with integrated DRS (Drag Reduction System) for high-speed stability, paired with a custom front hood scoop by Seibon Carbon for direct intercooler cooling. Side skirts by Novitec with integrated LED turn signals and a rear bumper lip by Vorsteiner for improved airflow separation.",
+    "Wheels & Stance: Custom 3-piece forged wheels by HRE (FF15 9.5x18 ET15 front, FF15 12x18 ET5 rear) with titanium hardware and Michelin Pilot Sport Cup 2 R tires (245/35/18 front, 335/30/18 rear). Air suspension by Air Lift Performance (3P management, dual compressors) with custom strut mounts for a static -35mm drop, retaining full adjustability for track use."
+  ]
+}

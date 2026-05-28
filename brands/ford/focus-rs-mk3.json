@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "FOCUS RS MK3",
+  "prestazioni": [
+    "Engine: Ford EcoBoost 2.3L (engine code: *CJEB*) upgraded with a *Garrett GTX3582R* turbocharger (82mm compressor wheel, 62mm turbine, 1.06 A/R housing) paired with a *PTP Motorsports* titanium turbo-back exhaust system (3.5\" diameter, 409 stainless steel, resonated center section) and *Cobb Tuning* Stage 3+ OTS map (380+ WHP on 93 octane, 22 PSI peak boost).",
+    "Drivetrain: *Quaife ATB LSD* (80% lockup) in the front differential with *Wavetrac* helical LSD in the rear, *Mountune* uprated clutch (organic compound, 2400Nm torque capacity) and *PTP Motorsports* lightweight flywheel (8.5kg). *AP Racing* 2-piece brake kit (355mm front rotors, CP8640 calipers, DS2500 pads) with *Goodridge* braided stainless steel brake lines.",
+    "Suspension: *Öhlins Road & Track DFV* coilovers (2-way adjustable damping, 400lb/in front springs, 500lb/in rear springs) with *SuperPro* poly bushings (front control arms, subframe, rear trailing arms) and *Whiteline* adjustable rear sway bar (24mm, 3-position). *Cusco* front strut tower brace (aluminum, 2-point) and *Hardrace* rear camber arms (adjustable, spherical bearings)."
+  ],
+  "estetica": [
+    "Aero: *RML Group* carbon fiber front splitter (RS-specific, 3-piece, adjustable angle) with *Maxton Design* GT-style rear diffuser (carbon fiber, 3D-printed mounting brackets) and *Seibon* carbon fiber hood (OEM-style latches, vented). *CSR Performance* side skirts (OEM+ fitment, 3M 1080 wrap in *Avery Dennison Gloss Gunmetal*).",
+    "Wheels: *OZ Racing Ultraleggera HLT* (19x9.5 +18 front, 19x11 +30 rear, 5x108 PCD) with *Michelin Pilot Sport Cup 2* tires (255/35/19 front, 295/30/19 rear). *Project Kics* R40 lug nuts (M12x1.5, closed-end, titanium).",
+    "Interior: *Recaro Sportster CS* front seats (OEM sliders, Alcantara/leather, 6-point Schroth harnesses) with *Sparco* 6-point bolt-in roll cage (T45 steel, powder-coated *Gloss Black*). *AIM MXS Strada* dash display (CAN bus integration, lap timer, boost gauge) and *NRG* quick-release steering wheel (350mm, suede, *Ford Performance* airbag delete hub)."
+  ]
+}

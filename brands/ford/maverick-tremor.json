@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "MAVERICK TREMOR",
+  "prestazioni": [
+    "Engine: Turbocharged 2.0L EcoBoost (engine code: *MCE*) with a *Garrett GTX3071R Gen II* turbo upgrade, supporting 28 psi of boost on E30 fuel blend, paired with a *Cobb Accessport* custom tune (Stage 2+ aggressive timing map) and *Injector Dynamics ID1050x* fuel injectors for 550+ whp at the wheels.",
+    "Suspension: *Öhlins Road & Track DFV* coilovers (Maverick-specific valving) with *Whiteline* front and rear sway bars (24mm front, 22mm rear) and *Polyelastomer* bushings for subframe and control arms to eliminate torque steer under hard launches.",
+    "Drivetrain: *Quaife ATB LSD* (80% lockup) in the rear differential, paired with a *South Bend Clutch Stage 3 Daily* twin-disc setup (ceramic-metallic friction) and a *Ford Performance* short-throw shifter with *C&R Racing* aluminum driveshaft for reduced rotational mass."
+  ],
+  "estetica": [
+    "Aero: *Rocket Bunny Maverick* widebody kit (fiberglass fenders, carbon fiber front splitter, and rear diffuser) with *Aeromotions* active rear wing (3-position adjustability, 150 lbs of downforce at 120 mph).",
+    "Wheels/Tires: *Rotiform LAS-R* 18x9.5 ET+15 forged wheels (matte bronze finish) wrapped in *Toyo R888R* 265/60R18 semi-slick tires for track use, with *Hankook Ventus S1 Evo 3* 255/55R18 all-weather tires for daily driving.",
+    "Lighting/Details: *Morimoto XB LED* headlight retrofit with *Lux H1* 5500K bulbs, *Diode Dynamics SS3* sequential side markers, and *VMR* carbon fiber mirror caps with integrated *AEM* wideband AFR gauges (mounted in the lower mirror housing)."
+  ]
+}

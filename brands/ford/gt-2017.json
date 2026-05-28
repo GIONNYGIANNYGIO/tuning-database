@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "GT 2017",
+  "prestazioni": [
+    "Engine: 3.5L EcoBoost V6 (GTDI-350) with upgraded BorgWarner EFR 9280 turbochargers (106mm compressor wheel, 80lb/min flow rate) paired with a custom PTP Motorsports titanium turbo manifold for optimized exhaust gas routing and reduced backpressure. Intercooler upgraded to a CSF Racing 550hp core with integrated water-methanol injection (Snow Performance Stage 3 kit) for consistent intake temps under sustained boost (22+ psi).",
+    "Fuel System: Injector Dynamics ID1700x fuel injectors (1,700cc/min) with a Radium Engineering dual-catch can setup and a Fore Innovations F2i-450 fuel pump system (450 LPH) to support E85 blends. Custom Motec M150 ECU reflash with anti-lag and flat-foot shifting strategies for seamless power delivery (target: 950whp on E50, 1,100whp on E85).",
+    "Drivetrain & Suspension: Quaife ATB differential (QDF7Z-4A326-A) with upgraded half-shafts from The Driveshaft Shop (Stage 3, 300M steel) to handle torque. Öhlins TTX40 coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression) and custom valving for the GT’s carbon fiber rear subframe. Brembo GT 4-piston calipers (front) with 400mm two-piece rotors and Ferodo DS3000 pads for fade-resistant braking."
+  ],
+  "estetica": [
+    "Aero: Anderson Composites full carbon fiber widebody kit (GT3-spec) with integrated canards and a custom 3D-printed active rear wing (inspired by the GT LM GTE race car) featuring adjustable Gurney flaps and a drag reduction system (DRS) for high-speed stability. Front splitter upgraded to a Liberty Walk GT-spec unit with carbon fiber dive planes for improved downforce (estimated 400+ lbs at 150 mph).",
+    "Exterior: Custom matte Ford Performance Racing Blue vinyl wrap with 3M 2080 series (Gloss Black accents on roof, mirrors, and diffuser). HRE FF03 wheels (20x11 front, 21x13 rear) in a satin bronze finish with Michelin Pilot Sport Cup 2 R tires (325/30 R21 rear). Carbon fiber side skirts from Vorsteiner with integrated LED turn signals and a custom titanium exhaust exit (Akrapović Ti-Evo system, 102mm tips).",
+    "Interior: Full Alcantara retrim by Katzkin (Ford Performance Racing Blue stitching) with a custom roll cage (Chassisworks 8-point, TIG-welded chromoly) and Sparco Pro 2000 seats (carbon fiber shell, FIA-approved). Motec C127 dash display with integrated AIM Solo 2 DL GPS data logger, and a custom center console featuring a Tilton hydraulic clutch pedal and a quick-shift lever from CAE Shifters (Model 3000, short-throw)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "F-150 LIMITED",
+  "prestazioni": [
+    "3.5L EcoBoost (3rd Gen) V6 (Engine Code: *GTDI-3.5L-375HP*) forced-induction upgrade via *Garrett GTX4506R* turbochargers (60mm billet compressor wheel, 64mm turbine, 44lb/min flow) paired with *PTP Turbo Smart 45mm wastegates* and *Tial MV-R 50mm blow-off valves* for 18psi peak boost on *Motec M150 ECU* standalone management with *ID1000x injectors* and *Bosch 044 fuel pump* supporting 750whp on E85",
+    "Drivetrain reinforcement with *G-Force GSR-2 6-speed transmission* (rated 1,200 lb-ft) featuring *PPG billet gears*, *Sonnax upgraded valve body*, and *PML deep aluminum pan* with *Derale 13-row transmission cooler* and *South Bend dual-disc clutch* (HDSS stage 3) for the 10R80 10-speed auto-to-manual swap",
+    "Suspension overhaul with *Öhlins TTX46 coilovers* (24-way adjustable damping, 32-way rebound, 2.5in monotube design) paired with *BMR Fabrication tubular K-member*, *Hellwig 2.5in drop front sway bar*, and *Polyurethane bushings* (Energy Suspension 9.5111R) for 3in lowered stance with *Bilstein B16 remote-reservoir shocks* for rear leaf springs"
+  ],
+  "estetica": [
+    "Full *Rocket Bunny V3 widebody kit* (FRP construction, 4in flares) with *Airlift Performance 3P management* for adjustable air ride, *AccuAir E-Level sensors*, and *Viair 480C compressors* for on-demand stance",
+    "Custom *Vortex Engineering carbon fiber bed cage* (integrated *RotopaX 20L fuel cells* and *Decked storage drawers*) with *B&W Turnoverball gooseneck hitch* and *Curt Q24 5th-wheel coupling* for towing compatibility",
+    "Exterior lighting replaced with *Morimoto XB LED headlights* (DRL/low/high beam projectors), *Lux H8 V4 fog lights*, and *Diode Dynamics SS360 Gen 2 sequential tail lights* with *Audi-style dynamic turn signals*, all wired via *Hella 500W relay harness* and *Painless Wiring fuse block*"
+  ]
+}

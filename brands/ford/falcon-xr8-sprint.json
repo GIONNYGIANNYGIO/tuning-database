@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "FALCON XR8 SPRINT",
+  "prestazioni": [
+    "Engine: Replace the stock 5.0L *Boss 335 V8 (engine code: 'Miami')* with a forged rotating assembly from *Manley Performance*, including forged crankshaft (4.125\" stroke), H-beam connecting rods (6.125\" length), and forged aluminum pistons (11.0:1 compression ratio) to handle forced induction reliably up to 800whp.",
+    "Forced Induction: Install a *Precision Turbo & Engine PT6766CE .82 A/R* turbocharger with a *TurboSmart Race Port 45mm wastegate* and *ID1000 injectors* (side-feed, 1000cc/min) paired with a *Haltech Elite 2500 ECU* for precise boost control (targeting 18-20psi on E85).",
+    "Drivetrain: Upgrade to a *Holinger RD6 sequential gearbox* (6-speed, dog-ring engagement) with a *PPG straight-cut gear set* (2.95:1 1st gear) and *Tilton Super Stocker twin-plate clutch* (3.5\" diameter, 1200lb clamping force) to handle the increased torque without failure."
+  ],
+  "estetica": [
+    "Aero: Fit a *Perrin Performance* front splitter (carbon fiber, 3-piece adjustable) and *APR Performance GTC-300* rear wing (300mm chord, 100mm height) with *Vortex Generators* for high-speed stability, paired with *Rocket Bunny V3* widebody kit (FG Falcon-specific, 50mm wider front/70mm wider rear).",
+    "Wheels: Mount *Rotiform LAS-R* 19x10.5\" ET15 (front) and 19x12\" ET25 (rear) wheels with *Michelin Pilot Sport Cup 2* tires (275/35/19 front, 315/30/19 rear) for optimal grip and staggered fitment.",
+    "Interior: Replace the stock dash with a *Racepak IQ3 Logger* (digital dash, 12.3\" display) and *Sparco Pro ADV* seats (FIA 8862-2009 certified) in *Alcantara/Suede* with *Schroth Profi II 6-point harnesses* for driver restraint."
+  ]
+}

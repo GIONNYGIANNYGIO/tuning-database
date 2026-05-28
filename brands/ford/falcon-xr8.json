@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "FALCON XR8",
+  "prestazioni": [
+    "Supercharger upgrade to a Harrop HTV2300 TVS supercharger kit (replacing the factory Eaton M112) on the 5.4L Boss 290 V8 (engine code: BAE), paired with a custom billet crank pulley from ATI Performance for optimized belt alignment and reduced parasitic loss, pushing boost to 12 psi with a supporting fuel system upgrade including Injector Dynamics ID1000x injectors and a Walbro 450 LPH in-tank fuel pump",
+    "Full custom engine management via a MoTeC M150 ECU with individual cylinder tuning, knock control, and flex-fuel capability, integrated with a Pectel SQ6M dash logger for real-time data acquisition and a custom 3.5-inch intercooler from PWR with a 40% increase in core volume over stock for sustained power under load",
+    "Drivetrain reinforcement with a Holinger RD6 sequential gearbox (6-speed) mated to a Tilton triple-plate carbon clutch and a custom 4.11:1 ratio LSD from Drivetrain Systems International (DSI), paired with a Quaife ATB differential for improved torque distribution and launch control via the MoTeC ECU"
+  ],
+  "estetica": [
+    "Full Rocket Bunny V3 widebody kit (BF/BFII-specific) with custom carbon fiber overfenders, front splitter, and rear diffuser, designed to accommodate the 10.5-inch wide Work Meister S1 3P wheels (19x10.5 +15 front, 19x12 +25 rear) with Toyo R888R tires (275/35/19 front, 315/30/19 rear)",
+    "Custom front-end conversion to a BA/BF hybrid bumper with integrated carbon fiber DRLs from Seibon and a custom aluminum radiator support to fit a PWR dual-core radiator with dual SPAL 16-inch fans, paired with a custom carbon fiber hood featuring a 3-inch cowl scoop for improved airflow to the Harrop supercharger",
+    "Full interior overhaul with a stripped and seam-welded chassis, roll cage by Custom Cages (8-point FIA-spec with door bars), Recaro Pole Position seats trimmed in Alcantara with custom embroidered XR8 logos, and a custom carbon fiber dashboard overlay housing a MoTeC C127 dash display and a full Racepak V300SD data logger system"
+  ]
+}

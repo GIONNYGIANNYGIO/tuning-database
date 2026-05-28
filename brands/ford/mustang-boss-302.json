@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "MUSTANG BOSS 302",
+  "prestazioni": [
+    "Engine: Replace the stock Ford Coyote 5.0L V8 (engine code: *Boss 302-specific 'Road Runner' block, casting #M-6010-BOSS302*) with a forged rotating assembly from Manley Performance, including 4340 forged crankshaft (stroke increased to 94mm), H-beam connecting rods (6.535\" length), and forged aluminum pistons (11.5:1 compression ratio) to handle 800+ HP on E85 fuel. Pair with a custom camshaft profile from Comp Cams (280/288 duration, 0.624\" lift, 114 LSA) optimized for high-RPM track use.",
+    "Forced Induction: Install a Garrett GTX5533R Gen II turbocharger (88mm compressor wheel, 1.15 A/R turbine housing) with a custom-built intercooler system from CSF Racing (1200hp-rated bar-and-plate core, 3.5\" inlet/outlet) and a TiAL MV-R 60mm wastegate (set to 28 psi peak boost). Use a dual Bosch 044 fuel pump setup with ID1700x injectors and a Radium Engineering fuel surge tank to prevent fuel starvation under lateral G-forces.",
+    "Drivetrain & Handling: Swap the stock Tremec TR-3160 6-speed manual for a Holinger RD6 sequential gearbox (dog-ring engagement, 1.5-second shifts) with a Tilton triple-disc carbon clutch. Install a Ford Performance Racing School-spec rear differential (3.73:1 ratio, carbon fiber limited-slip clutch packs) and pair with a set of Ohlins TTX46 coilovers (2-way adjustable, 800lb/in front springs, 600lb/in rear) and Eibach ERS anti-roll bars (28mm front, 25mm rear)."
+  ],
+  "estetica": [
+    "Aero: Fit a full Rocket Bunny V3 widebody kit (carbon fiber fenders, 30mm extended wheel arches) with a custom front splitter from Anderson Composites (50mm overhang, 3D-printed carbon fiber) and a GT3-style rear diffuser from APR Performance (4-canard design, 3\" ground clearance). Add a custom carbon fiber hood from Seibon (dual 3\" heat extractors, 50% weight reduction over stock).",
+    "Wheels & Brakes: Mount a set of Volk Racing TE37V wheels (19x10.5\" front, 19x12\" rear, +25mm offset) wrapped in Michelin Pilot Sport Cup 2 tires (285/35/19 front, 325/30/19 rear). Upgrade to a Brembo GT-R big brake kit (6-piston 405mm front rotors, 4-piston 380mm rear rotors) with Ferodo DS2500 pads and stainless steel braided lines from Goodridge.",
+    "Interior & Details: Replace the stock interior with a full Sparco Pro 2000 series cage (8-point, TIG-welded, NHRA-certified) and Sparco Grid-Q seats (HANS-compatible, 1.5kg carbon fiber shells). Install a Motec C127 dash logger (12.3\" display, CAN bus integration) and a custom Alcantara-wrapped MOMO Mod.78 steering wheel (350mm diameter, quick-release hub). Add a custom titanium exhaust system from Burns Stainless (3.5\" dual outlets, Inconel 625 headers, X-pipe crossover)."
+  ]
+}
