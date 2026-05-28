@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "F-150 RAPTOR",
+  "prestazioni": [
+    "Engine: 3.5L EcoBoost V6 (2nd Gen, engine code: *Fox 3.5L GTDI*) – Full forged internals upgrade with Manley 4340 steel connecting rods, Mahle Motorsport forged pistons (9.5:1 compression), and a billet crankshaft from Callies Compstar. Pair with a Garrett GTX5533R turbocharger (84mm compressor wheel, .96 A/R turbine housing) and a custom 4-inch stainless steel downpipe from MBRP with a 304-grade merge collector for optimized spool and top-end flow.",
+    "Fuel System: Complete port-injection overhaul with 12 Bosch 2200cc/min injectors (primary) and 8 supplementary direct injectors (secondary) from Injector Dynamics, controlled via a Motec M150 ECU with a custom flex-fuel calibration. Upgrade the fuel pump to a dual-setup of Walbro 450 LPH in-tank pumps with a surge tank from Radium Engineering to prevent fuel starvation during high-G off-road maneuvers.",
+    "Suspension & Drivetrain: Full Ohlins TTX46 coilover system with 3-way adjustable damping (compression, rebound, and high-speed compression) and 2.5-inch diameter monotube shocks, paired with custom-valved bypass shocks from King Shocks (3.0-inch diameter, 16-inch travel). Reinforce the front control arms with DOM (Drawn Over Mandrel) chromoly tubing from JE Reel Gear, and swap the rear differential to a Detroit Truetrac limited-slip with 4.10:1 gearing from Ford Performance for improved rock-crawling capability."
+  ],
+  "estetica": [
+    "Widebody Conversion: Custom carbon fiber widebody kit from Liberty Walk (LB Works Raptor-specific design) with 3-inch fender flares, extending the track width by 4 inches. Pair with a custom front splitter and rear diffuser from Anderson Composites, fabricated from pre-preg autoclave carbon fiber for maximum rigidity.",
+    "Lighting & Aero: Full Baja Designs Squadron Pro LED light bar (50-inch, 40,000 lumens) mounted to a custom aluminum roof rack from Prinsu Designs, with auxiliary ditch lights (Baja Designs XL Pro) integrated into the A-pillars. Replace the stock grille with a custom billet aluminum mesh grille from T-Rex Grilles, featuring a laser-etched Raptor emblem and integrated LED turn signals.",
+    "Interior & Stance: Full custom interior from Katzkin Leather, featuring diamond-stitched Alcantara headliner, carbon fiber trim panels, and Recaro SPG XL seats with 6-point harnesses from Schroth Racing. Lower the ride height by 1.5 inches via a custom spring rate adjustment on the Ohlins coilovers, and fit 22-inch Method MR701 wheels (ET -12 offset) wrapped in 35x12.50R22 Nitto Ridge Grappler tires for a balanced off-road/on-road stance."
+  ]
+}

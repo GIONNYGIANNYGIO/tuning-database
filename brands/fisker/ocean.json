@@ -1,0 +1,14 @@
+{
+  "brand": "FISKER",
+  "model": "OCEAN",
+  "prestazioni": [
+    "Upgrade the dual-motor all-wheel-drive system (engine code: **FISKER-EDM-800V**) with a **Unitek BMIC-800** battery management intercooler kit to reduce thermal throttling during sustained 0-60 mph (3.6s stock) acceleration, paired with a **Motec C127 ECU** for real-time torque vectoring adjustments across the front (200 kW) and rear (300 kW) motors",
+    "Install a **Garrett E-Turbo GT2260V** electric turbocharger (modified for 800V compatibility) to supplement the rear motor’s power delivery, targeting a 20% increase in mid-range torque (450 lb-ft → 540 lb-ft) while maintaining the stock 564 hp output for emissions compliance",
+    "Replace the stock **ZF 1-speed direct-drive transmission** with a **Vocis 2-speed e-axle** (as used in the Rimac Nevera) to optimize gear ratios for drag launches (0-60 mph in 2.9s) and top-speed efficiency (124 mph → 145 mph), paired with **AP Racing CP8840-1000** carbon-ceramic rotors and **Brembo GT-RS** 6-piston calipers for repeated high-speed braking"
+  ],
+  "estetica": [
+    "Fit a **Liberty Walk LB-WORKS** widebody kit (Ocean-specific, 50mm rear fender flares) with **custom carbon-fiber side skirts** to accommodate the **Michelin Pilot Sport EV** 285/35R22 tires on **HRE FF01** forged wheels (22x10.5 front, 22x12.5 rear) for aggressive stance and aero balance",
+    "Replace the stock **SolarSky** panoramic roof with a **Webasto Panorama 2.0** electrochromic glass roof (tint-adjustable via Fisker app) and integrate **Seibon Carbon** front splitter, rear diffuser, and **Vorsteiner V-FF10** carbon-fiber hood with NACA ducts for brake cooling",
+    "Install **Anzo USA LED** adaptive headlights (DRLs with **Osram 55W HID projectors**) and **Luxx Hella** sequential taillights (Ocean-specific housing), paired with a **Rally Innovations** front license plate relocation bracket to maintain OEM+ cleanliness while improving airflow to the **Valeo** heat pump system"
+  ]
+}

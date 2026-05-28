@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "ESCAPE TITANIUM",
+  "prestazioni": [
+    "Engine swap to a Ford EcoBoost 2.3L *MUSTANG GT* (engine code: *CJBA*) with a *Garrett GTX3582R* turbocharger, *Cobb Tuning Accessport* Stage 2+ tune (93 octane), and *PRL Motorsports* high-flow intercooler core (2.5\" thick, 1000HP-rated) for the Escape's compact engine bay constraints.",
+    "Full *Pacesetter* 3\" turbo-back exhaust system with *Borla* 409 stainless steel mufflers (part #40977) and *Vibrant Performance* 1799 resonated mid-pipes, paired with a *K&N* cold air intake (part #57-2582) for the *CJBA* engine's MAF housing.",
+    "Custom *BC Racing* BR coilovers (Escape-specific valving, *Swift Springs* 8K front/7K rear rates) with *Whiteline* front sway bar (24mm adjustable) and *Cusco* rear sway bar (22mm), paired with *Powerflex* polyurethane bushings (part #PF9-4101) for the *CD4* platform's subframe."
+  ],
+  "estetica": [
+    "*Rocket Bunny* V3 widebody kit (Ford Escape-specific, *FRP* construction) with *Seibon* carbon fiber hood (part #CF-FO-ESC17-H) and *VIS Racing* carbon fiber rear diffuser (part #VIS-FO-ESC-RD), all painted in *PPG* Ford *Velocity Blue* (code: *M7641*).",
+    "*Work Emotion CR Kiwami* 19x9.5\" ET35 wheels (gunmetal finish) with *Michelin Pilot Sport Cup 2* tires (255/40R19), paired with *Brembo* GT 6-piston front calipers (part #09.9404.75) and *DBA* 5000-series rotors (part #52920XS) for the Escape's 5x108 bolt pattern.",
+    "*Morimoto* XB LED headlights (part #44122) with *Lux H1* 55W HID bulbs and *Diode Dynamics* sequential LED turn signals (part #DD-SEQ10), paired with a *Seibon* carbon fiber front lip (part #CF-FO-ESC17-FL) and *Aerofabb* rear wing (part #AF-FO-ESC-RW, 3D-printed carbon fiber)."
+  ]
+}

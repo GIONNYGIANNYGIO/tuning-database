@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "CORCEL SPORT",
+  "prestazioni": [
+    "Engine swap to a Ford CHT 1.6L (engine code: CHT) with forged internals including Mahle Motorsport forged pistons (8.5:1 compression), Eagle H-beam connecting rods, and a billet crankshaft from JE Pistons for 250+ HP potential with forced induction",
+    "Garrett GT2860RS turbocharger with a custom 3-inch stainless steel exhaust manifold by Tubular Automotive, paired with a Tial 44mm wastegate and a custom intercooler setup using a GReddy Type-S front-mount intercooler core",
+    "Haltech Elite 2500 standalone ECU with custom wiring harness by Painless Performance, integrated with a Bosch 044 high-flow fuel pump, ID1000 injectors, and a custom fuel rail by Radium Engineering for E85 compatibility"
+  ],
+  "estetica": [
+    "Custom widebody conversion using fiberglass overfenders by Rocket Bunny (Corcel-specific kit), extended 2 inches per side with custom rolled rear fenders for aggressive stance",
+    "OEM+ restomod front bumper with integrated DRLs using Hella 500 Series LED projectors, paired with a custom carbon fiber hood by Seibon with a functional heat extractor vent for the turbo setup",
+    "Custom rear diffuser by Maxton Design with integrated quad-exit exhaust tips (3.5-inch diameter) using Borla Pro XS mufflers, and a set of 15x8-inch OZ Racing Superleggera wheels wrapped in 195/50R15 Toyo R888R tires"
+  ]
+}

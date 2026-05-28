@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "VISION GRAN TURISMO",
+  "prestazioni": [
+    "Engine swap to Ferrari F154CB 3.9L twin-turbo V8 (derived from 488 Pista, but stroked to 4.2L via Mahle Motorsport forged pistons and billet crankshaft, increasing displacement to 4198cc for 900+ hp on E85 fuel with a custom Weistec Engineering ECU calibration)",
+    "Garrett GTX5533R Gen II turbochargers with titanium-aluminide turbine wheels, 1.15 A/R turbine housings, and 106mm billet compressor wheels, paired with a custom Tial MV-R 60mm wastegate setup for 3.2 bar peak boost",
+    "Full titanium Akrapović Evolution Line exhaust system with 3D-printed Inconel 625 headers, 90mm carbon-fiber center section, and electronically actuated bypass valves for active sound modulation (mapped to the Weistec ECU)"
+  ],
+  "estetica": [
+    "Rocket Bunny VGT-01 widebody kit with carbon-fiber overfenders (20mm wider front, 30mm wider rear), custom 3D-printed ABS front splitter with active aerodynamic Gurney flaps (controlled via Ferrari’s Side Slip Control system)",
+    "Ohlins TTX46 MkII coilovers with 3-way adjustable damping, titanium springs (12kg/mm front, 14kg/mm rear), and integrated ride-height sensors for real-time aerodynamic optimization (linked to Ferrari’s SSC5.0 system)",
+    "Custom HRE FF16 flow-formed wheels (20x11.5 front, 21x13 rear) with titanium lug bolts, wrapped in Pirelli P Zero Trofeo R tires (295/30 R20 front, 355/25 R21 rear) and fitted with Brembo GT-R monobloc calipers (6-piston front, 4-piston rear) with carbon-ceramic rotors (420mm front, 390mm rear)"
+  ]
+}

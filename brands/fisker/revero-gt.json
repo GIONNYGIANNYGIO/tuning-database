@@ -1,0 +1,14 @@
+{
+  "brand": "FISKER",
+  "model": "REVERO GT",
+  "prestazioni": [
+    "BMW N63TU2 4.4L V8 twin-turbo (engine code: N63B44O2) hybrid powertrain recalibration via AEM Infinity 8 standalone ECU with custom E85 flex-fuel mapping, targeting 650whp (520whp stock) and 720 lb-ft torque (600 lb-ft stock) by upgrading to Garrett GTX4267R turbos with billet compressor wheels, custom 4-inch V-band downpipes, and a CSF high-flow intercooler with 50% larger core volume",
+    "Full hybrid system overhaul: replacement of the stock 21.4 kWh lithium-ion battery with a bespoke 30 kWh lithium-titanate (LTO) battery pack from Kreisel Electric, paired with a custom 220 kW inverter and a 150 kW electric motor upgrade from Cascadia Motion, enabling 0-60 mph in 3.2s (4.2s stock) and a 15% increase in regenerative braking efficiency via AP Racing 4-piston calipers and carbon-ceramic rotors (380mm front, 356mm rear)",
+    "Drivetrain reinforcement: ZF 8HP76 8-speed automatic transmission swap to a reinforced ZF 8HP95X with a Sonnax billet torque converter (4,500 RPM stall), upgraded valve body, and a Peloquin limited-slip differential with 4.10:1 gearing, paired with a custom 3.5-inch driveshaft from The Driveshaft Shop and a Quaife ATB helical LSD for the rear axle"
+  ],
+  "estetica": [
+    "Liberty Walk LB-FK06 widebody kit with custom carbon fiber fenders (3.5-inch wider front, 4-inch wider rear), front splitter, and rear diffuser, all finished in raw carbon weave with exposed twill for weight reduction (saving ~18 lbs over stock panels)",
+    "Custom 22-inch forged aluminum wheels from HRE (FF16 model) in a staggered setup (22x10.5 +45 front, 22x12.5 +50 rear) wrapped in Michelin Pilot Sport Cup 2 R tires (275/30 front, 325/25 rear), paired with KW Suspension Variant 5 coilovers (3-way adjustable damping, 50mm drop) and Eibach ERS race springs for track use",
+    "Full carbon fiber exterior overhaul: Varis Japan front bumper lip, custom 3D-printed carbon fiber side skirts with integrated LED turn signals, and a custom active rear wing from 991 GT3 RS (adjustable via hydraulic actuators), all coated in PPG Xtreme Base gloss black with a matte clear coat for UV resistance and heat dissipation"
+  ]
+}

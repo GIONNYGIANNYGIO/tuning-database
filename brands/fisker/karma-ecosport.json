@@ -1,0 +1,14 @@
+{
+  "brand": "FISKER",
+  "model": "KARMA ECOSPORT",
+  "prestazioni": [
+    "Upgrade the GM-sourced **LEA 2.0L I4 (E85 flex-fuel) range-extender engine** with a **Garrett GT2860RS turbocharger** (8.5 psi boost, billet compressor wheel) paired with a **Vibrant Performance 3.5\" stainless steel intercooler piping kit** to reduce intake temps by 40°F under full load. Retain the stock **A123 Systems 20.1 kWh lithium-ion battery** but integrate a **Brusa Elektronik NLG664 high-voltage DC-DC converter** to stabilize power delivery during aggressive acceleration.",
+    "Replace the **single-speed BorgWarner eGearDrive transmission** with a **custom 2-speed planetary gearset** (developed by **Vocis Driveline Controls**) to optimize torque split between the **UQM PowerPhase 150 electric motor (175 kW peak)** and the turbocharged LEA engine, reducing 0-60 mph times to 4.2s. Use **Motul Hybrid 0W-20** full-synthetic ATF for thermal stability.",
+    "Install a **Motec M150 ECU** with **custom CAN bus integration** to recalibrate the **Bosch MGU (Motor Generator Unit)** torque maps, enabling **launch control** and **overboost mode** (10 psi for 8s). Pair with a **Pectel SQ6M data logger** to monitor **battery SOC (State of Charge) vs. turbo spool** in real-time, preventing voltage sag under hard cornering."
+  ],
+  "estetica": [
+    "Fit a **Rocket Bunny V1 Karma-specific widebody kit** (carbon fiber fenders, front splitter, and rear diffuser) with **custom 3M Matte Graphite vinyl overlay** on the OEM aluminum body panels to reduce weight by 18 lbs while maintaining structural rigidity. Use **Aeromotions active rear wing** (adjustable via **Dynojet iDash**) for 120 lbs of downforce at 120 mph.",
+    "Replace the **OEM LED headlights** with **Lux HID Projectors (Bi-Xenon, 5500K)** and integrate **Morimoto XB35 LED fog lights** with **custom C-shaped DRLs** (wired to the **Brusa DC-DC converter** for flicker-free operation). Install **Oracle Lighting RGB halo rings** (sync with **Alpine iLX-F509** infotainment) for adaptive color shifting.",
+    "Swap the **stock 22\" Turbine wheels** for **HRE FF01 (22x9 ET35 front, 22x11 ET40 rear)** in **Forgeline Competition Series finish**, wrapped in **Michelin Pilot Sport Cup 2 R tires (265/30/22 front, 305/25/22 rear)**. Use **Brembo GT 6-piston calipers (380mm rotors front, 355mm rear)** with **Ferodo DS2500 brake pads** and **Motul RBF660 brake fluid** for fade resistance during track use."
+  ]
+}

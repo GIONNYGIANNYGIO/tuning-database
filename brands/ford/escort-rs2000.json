@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "ESCORT RS2000",
+  "prestazioni": [
+    "Engine swap to a Ford Cosworth YB (2.0L turbocharged inline-4, engine code: **PTE**) with forged internals (Mahle pistons, Eagle H-beam rods, ACL race bearings) and a Garrett GT3076R turbo (0.86 A/R, 60mm compressor inducer) running 28psi on E85 fuel, paired with a custom 4-1 stainless steel exhaust manifold (Schoenfeld headers) and a 3.5\" straight-pipe exhaust with a Milltek Sport rear silencer.",
+    "Full standalone engine management via a **Motec M150 ECU** with individual cylinder fuel trims, launch control, and anti-lag, mated to a **Pectel SQ6M** sequential gearbox controller for the Getrag 265 5-speed dogbox (OS Giken LSD, 2.95 final drive). Clutch: Sachs Performance twin-disc with cerametallic friction pads.",
+    "Suspension overhaul with **Ohlins Road & Track DFV coilovers** (24-way rebound, 18-way compression damping) and polybushings (SuperPro 62mm front control arms, Whiteline rear trailing arm bushings). Brakes: AP Racing 4-piston calipers (330mm two-piece rotors front, 280mm rear) with Ferodo DS2500 pads and braided stainless steel lines. Wheels: **Compomotive CXR 17x8\" ET20** with 225/40R17 Toyo R888R tires."
+  ],
+  "estetica": [
+    "Full **Rocket Bunny V1 Escort RS** widebody kit (carbon fiber front fenders, rear quarter panels, and rear bumper) with a custom 3D-printed ABS front splitter (25mm overhang) and a **Seibon carbon fiber hood** (vented, 50mm scoop for intercooler). Rear diffuser: **Aeroflow Motorsport** 3-piece aluminum unit with integrated tow hooks.",
+    "Interior stripped and reupholstered with **Recaro SRD-E full bucket seats** (FIA 8862-2009 certified) on custom aluminum mounts, paired with a **Sparco 6-point harness** and a **Momo Prototipo Evo** steering wheel (320mm, suede). Roll cage: **CustomWorks** 8-point chromoly (TIG-welded, 45mm OD x 2.5mm wall thickness) with integrated harness bar.",
+    "Exterior livery: **3M Matte Military Green (S7515)** with **Avery Dennison Gloss Black (M201)** accents (roof, mirrors, and Rocket Bunny fender flares). Lighting: **Lux HID Projector headlights** (55W 6000K) with **Morimoto XB LED fog lights** and **DRLs integrated into the front bumper**. Badging: **Custom laser-etched aluminum \"RS2000\" script** (replaces OEM badges) with **JDM-style yellow rear fog light delete.**"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "DEL REY GHIA",
+  "prestazioni": [
+    "Engine swap to a Ford CHT 1.8L (AP engine code) with forged internals: Mahle forged pistons (8.5:1 compression), Eagle H-beam connecting rods, and a billet crankshaft for 250+ HP potential with forced induction",
+    "Garrett GT2860RS turbocharger with a custom 3-inch stainless steel exhaust system featuring a Borla Pro XS muffler and a custom-fabricated equal-length header (4-2-1 design) for optimized spool and top-end power",
+    "Haltech Elite 2500 standalone ECU with a custom-tuned map for E85 fuel, paired with a Bosch 044 high-flow fuel pump, Injector Dynamics ID1000 injectors, and a custom intercooler setup with a PWR 450mm core"
+  ],
+  "estetica": [
+    "Rocket Bunny V1 widebody kit adapted for the Del Rey Ghia, featuring custom-fabricated fender flares, front splitter, and rear diffuser with carbon fiber weave",
+    "OEM+ restomod: Retro-futuristic LED headlight conversion using Hella DE lenses with custom CREE XHP70.2 bulbs, paired with a full respray in Ford 'Grabber Blue' with a satin clear coat",
+    "Custom 17-inch BBS RS-GT wheels (8.5J front, 9.5J rear) with Toyo R888R tires (215/40 front, 235/40 rear), paired with Ohlins DFV coilovers (custom valved for the Del Rey's McPherson strut front and leaf spring rear)"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "FXX-K EVO XX PROGRAM",
+  "prestazioni": [
+    "Engine: F140FE V12 hybrid (6.3L naturally aspirated + KERS electric motor) with a bespoke Magneti Marelli ECU remap targeting 1,050 CV (1,036 HP) at 9,250 RPM, utilizing Shell V-Power Racing 102 RON fuel and Motul 300V Trophy 15W-50 oil for extreme thermal stability under track conditions.",
+    "Forced Induction: Upgraded IHI turbocharger bypass system (specific to FXX-K Evo) with a custom Garrett GTX5544R Gen II turbo (modified compressor wheel for 2.2 bar peak boost) and a secondary intercooler setup using PWR Racing’s dual-core aluminum heat exchangers, reducing intake temps by 22°C under sustained load.",
+    "Suspension & Chassis: Öhlins TTX46 MkII coilovers with 24-click rebound and 22-click compression damping, paired with Ferrari’s proprietary carbon-fiber anti-roll bars (front: 28mm, rear: 24mm) and Brembo GT-R monobloc calipers (6-piston front, 4-piston rear) with CCM-R 400x38mm discs and Ferodo DS3.12 pads for 1,200°C fade resistance."
+  ],
+  "estetica": [
+    "Aerodynamics: Ferrari Corse Clienti’s XX Program-specific carbon-fiber aero package, including a 3D-printed titanium front splitter with active Gurney flaps (adjustable via steering wheel controls), a fixed rear wing with dual-element DRS (Drag Reduction System) and a 1,200mm span, and underbody vortex generators for 850kg of downforce at 250 km/h.",
+    "Bodywork: Full carbon-fiber body panels (pre-preg autoclave cured) with a custom matte Rosso Corsa livery overlaid with 3M 1080 vinyl ‘XX Program’ decals in metallic gold, including side skirts with integrated LED cooling ducts for the rear brakes (Osram LEDriving HL ECE R112-compliant).",
+    "Interior: Sabelt 6-point FIA-spec harnesses (model HT-800) with a carbon-fiber Recaro Pole Position seat (weighing 8.2kg), a MOMO Prototipo XX steering wheel with integrated OMP fire suppression system controls, and a bespoke titanium shift knob for the 7-speed F1 dual-clutch transmission (0-100ms shift times)."
+  ]
+}

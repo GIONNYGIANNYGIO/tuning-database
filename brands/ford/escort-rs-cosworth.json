@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "ESCORT RS COSWORTH",
+  "prestazioni": [
+    "Replace the stock YBT (Ford Cosworth YB) 2.0L turbocharged inline-4 with a fully forged internals build featuring Mahle Motorsport forged pistons (83.5mm, 8.5:1 CR), Eagle H-beam connecting rods, and a billet crankshaft from JE Pistons. Pair with a Garrett GT35R turbocharger (76mm compressor, .82 A/R turbine housing) and a custom 3.5\" stainless steel turbo manifold by Bell Auto Services, designed for optimized exhaust gas flow and minimal lag.",
+    "Upgrade the fuel system with a Bosch Motorsport 044 high-flow fuel pump, Injector Dynamics ID1000 fuel injectors (1000cc/min), and a Syvecs S6Plus standalone ECU with custom mapping for ethanol blends (E85 compatible). Integrate a custom water-methanol injection kit from Snow Performance (Stage 3) with dual nozzles targeting the intake manifold for charge cooling and detonation suppression.",
+    "Install a Quaife ATB differential (80% lock) in the rear with a custom 4.7:1 final drive ratio from Tran-X, paired with a reinforced MT-75 gearbox (close-ratio gears from Jack Knight Racing) and a Sachs Performance twin-disc clutch (240mm, 800Nm torque capacity). Suspension upgrades include Ohlins Road & Track DFV coilovers (adjustable damping, 2-way compression/rebound), polybushings from SuperPro (front/rear), and a Whiteline front sway bar (24mm adjustable) with rear strut brace from Sway-A-Way."
+  ],
+  "estetica": [
+    "Fit a full carbon fiber widebody kit from Rocket Bunny (Escort RS Cosworth-specific, Version 2), including extended front fenders (2.5\" wider), rear quarter panels (3\" wider), and a custom rear diffuser with integrated twin exhaust exits. Paint in Ford Motorsport Diamond White with contrasting Ford Racing Blue accents on the lower body and mirror caps.",
+    "Install a custom front splitter from APR Performance (carbon fiber, 3-piece adjustable) with a 50mm overhang, paired with a custom rear wing from Voltex (Type 5, 1700mm width, 300mm chord, 3-position angle adjustment). Add a carbon fiber hood from Seibon (with functional NACA ducts) and side skirts from Varis (aggressive lip design, carbon fiber).",
+    "Upgrade wheels to Work Meister S1 3P (17x9 +22 front, 17x10 +25 rear) in gloss black with Toyo R888R tires (235/40/17 front, 265/35/17 rear). Brake system includes AP Racing 6-piston calipers (front, 355mm discs) and 4-piston calipers (rear, 330mm discs) with Ferodo DS2500 pads, paired with braided stainless steel brake lines from Goodridge."
+  ]
+}

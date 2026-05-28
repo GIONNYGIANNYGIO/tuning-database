@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "BRONCO SPORT BADLANDS",
+  "prestazioni": [
+    "Engine: Replace the stock **EcoBoost 2.0L I4 (MJBA)** turbocharger with a **Garrett GTX3582R Gen II** (82mm compressor, 62mm turbine) paired with a **PTP Turbo Blanket** to reduce heat soak. Retune via **HP Tuners MPVI2+** with a custom **93-octane flex-fuel map** targeting 32 psi peak boost and 380 whp (stock internals safe to 400 whp).",
+    "Fuel System: Upgrade to **Injector Dynamics ID1050x** fuel injectors (1050cc/min) with a **Radium Engineering dual-catch can setup** (PN 20-0118) to mitigate blow-by in the **MJBA**’s direct-injection system. Add a **Walbro 450 LPH in-tank fuel pump** (PN F90000267) with a **Fore Innovations F1-1000 surge tank** for consistent fuel delivery under lateral G-forces.",
+    "Suspension: Install **Öhlins Road & Track DFV coilovers (PN DFV-001)** with **24-way rebound and 18-way compression damping**, paired with **Whiteline adjustable rear sway bars (PN BMR75)** and **Polyelastomer bushings (Energy Suspension PN 4.1111G)** to eliminate subframe flex. Lower ride height by 1.5\" front and 1.2\" rear for reduced roll center migration."
+  ],
+  "estetica": [
+    "Aero: Fit a **Rocket Bunny BR-SP01 widebody kit** (carbon fiber fenders, front splitter, and rear diffuser) with **custom 3D-printed ABS underbody aero strakes** to channel airflow around the **Bronco Sport’s 8.4\" ground clearance**. Add a **Seibon carbon fiber hood (PN CF-FO-BSP20)** with a **50mm vented heat extractor** to reduce underhood temps.",
+    "Wheels: Mount **Rotiform LAS-R 18x9.5\" ET25** wheels (bronze finish) with **Nitto Ridge Grappler 255/65R18** tires (stretched 5% for sidewall stiffness). Use **Hankook Ventus S1 Evo 3** in 245/40R18 for track days, paired with **Brembo GT 6-piston front calipers (PN 09.9404.78)** and **DBA 5000 Series rotors (PN 52920XS)** for fade resistance.",
+    "Lighting: Replace stock headlights with **Morimoto XB LED Projectors (PN 800701)** and **Lux H1 HID bulbs (5500K)**, then add **Diode Dynamics SS3 Pro LED fog lights (PN SS3-YF)** with **custom C-shaped DRL halos** wired to a **Switch Pros 9200 controller** for sequential startup animation."
+  ]
+}

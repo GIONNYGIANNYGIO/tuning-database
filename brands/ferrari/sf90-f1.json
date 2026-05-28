@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "SF90 Stradale (F1-inspired variant)",
+  "prestazioni": [
+    "Full hybrid powertrain recalibration targeting 1,100+ HP via Motec M150 ECU remapping for the *F154F* 4.0L twin-turbo V8 + 3x electric motors (MGU-K, MGU-H, and front axle motors), optimizing torque split for 0-60 mph in 2.0s with launch control refinement using Bosch MS 2.9.2 engine management",
+    "Garrett GTX5544R Gen II turbochargers with billet compressor wheels (64mm inducer, 88mm exducer) and TiAL MV-R 60mm wastegates, paired with a custom Novitec-designed titanium exhaust manifold and secondary catalytic delete (for track use only) with Inconel 625 downpipes",
+    "Ohlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed valving) and Ferrari-specific spring rates (12kg/mm front, 16kg/mm rear), integrated with a 991 GT3-derived front sway bar and Brembo GT-R monobloc calipers (400mm front, 380mm rear) with carbon-ceramic discs (CCM-R) and Ferodo DS3.12 racing pads"
+  ],
+  "estetica": [
+    "Novitec N-Largo widebody kit with carbon fiber fenders (30mm wider front, 50mm wider rear) and integrated canards, paired with a custom 3D-printed titanium rear diffuser and active Gurney flap (adjustable via SF90’s onboard aerodynamics menu)",
+    "Forge Motorsport carbon fiber side skirts with integrated LED heat extractors (for *F154F* turbo cooling) and a full titanium underbody panel system (replacing OEM aluminum) to reduce weight by 18kg while improving airflow to the rear diffuser",
+    "Custom HRE FF16 flow-formed wheels (20x10.5 ET35 front, 21x13 ET45 rear) with titanium lug bolts and Michelin Pilot Sport Cup 2 R tires (285/30 front, 345/25 rear), wrapped in a matte Viola Micalizzato paint with exposed carbon fiber weave on the roof and rear wing (inspired by the SF90’s F1 halo design)"
+  ]
+}

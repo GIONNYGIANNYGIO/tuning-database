@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "CROWN VICTORIA POLICE INTERCEPTOR",
+  "prestazioni": [
+    "Engine swap to a Ford Modular 4.6L 3V V8 (engine code: 4.6L 3V Modular, specifically the 'Romeo' block variant from the 2003-2011 Mustang GT) with forged internals: Manley forged crankshaft (PN: 625-6300), Eagle H-beam connecting rods (PN: CRS5.435B), and Mahle forged pistons (PN: 59380) for 11.5:1 compression. Paired with a custom camshaft profile from Comp Cams (PN: 127260) with 232°/238° duration and .600/.600 lift for optimized torque in the 2,500-5,500 RPM range.",
+    "Forced induction via a Precision Turbo & Engine PT6266 CEA turbocharger (PN: PT6266CEA) with a custom .82 A/R turbine housing, paired with a Vibrant Performance 3.5\" V-band intercooler (PN: 1452) and a custom 3.5\" aluminum charge piping system. Supporting mods include a Fore Innovations dual fuel pump system (PN: F20000) and ID1000 injectors (PN: ID1000-B) for E85 compatibility, with a Holley Dominator ECU (PN: 554-112) for standalone engine management.",
+    "Suspension overhaul with a Detroit Speed Inc. (DSI) Speed-Lign rear 4-link kit (PN: 030100) and DSI front coilover conversion (PN: 031200) using QA1 adjustable shocks (PN: RS102-101). Braking upgraded to Baer 6P calipers (PN: 6P-13) with 14\" two-piece rotors (PN: 14-6P) and Hawk HPS 5.0 brake pads (PN: HB136F.590), paired with stainless steel braided lines from Goodridge (PN: G-Stop SS6001)."
+  ],
+  "estetica": [
+    "Full carbon fiber widebody conversion using a custom-made Crown Victoria kit from Rocket Bunny (PN: RB-CVPI-WB), including extended front fenders, rear quarter panels, and a custom rear diffuser with integrated dual exhaust cutouts. Front bumper replaced with a custom 3D-printed ABS unit featuring a lowered valence and integrated tow hooks, painted in Ford 'Grabber Blue' (code: M7083).",
+    "Interior stripped and reupholstered with Recaro SRD-LW seats (PN: 391.20.01) in black Alcantara with blue stitching, paired with a custom roll cage from Autopower Industries (PN: CVPI-8PT) and a MOMO Mod.78 steering wheel (PN: 011120111W) with a quick-release hub. Gauges replaced with a digital dash from AEM (PN: 30-0300) and auxiliary gauges from Defi (PN: DF11001) mounted in a custom A-pillar pod.",
+    "Exterior lighting upgraded to Oracle Lighting LED headlights (PN: 5632-001) with sequential turn signals, and a custom rear light bar from Diode Dynamics (PN: SS360X) integrated into the trunk lid. Wheels are Forgeline GA3R 18x10 (PN: GA3R-1810-5) with a +25 offset, wrapped in Michelin Pilot Sport Cup 2 tires (275/40/18 front, 295/40/18 rear) for maximum grip."
+  ]
+}

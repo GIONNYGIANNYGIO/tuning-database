@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "EXP TURBO",
+  "prestazioni": [
+    "Engine: 1.6L *LN7* turbocharged inline-4 (140 HP stock) – Full forged internals with Manley 86mm forged pistons, Eagle H-beam connecting rods, and a billet crankshaft (8,000 RPM redline capable). Upgraded valvetrain with Ferrea titanium retainers, Supertech dual valve springs, and Comp Cams 264° duration camshafts for optimized turbo spool and top-end power.",
+    "Turbocharger: Garrett GT2860RS-5 (ball-bearing, .64 A/R turbine housing) with a custom 3-inch stainless downpipe and Vibrant 3.5-inch v-band exhaust system. Paired with a Tial MV-R 44mm external wastegate and a Turbosmart Kompact 50mm blow-off valve for precise boost control (22 PSI target).",
+    "Fuel & Ignition: Full Aeromotive fuel system with a 340 LPH in-tank pump, dual Bosch 044 fuel pumps (parallel), and Injector Dynamics ID1000x injectors. Haltech Elite 2500 ECU with custom ethanol-compatible tune, MSD 6AL-2 ignition box, and NGK R7437-9 racing spark plugs (gapped at 0.024\")."
+  ],
+  "estetica": [
+    "Body Kit: Rare *Fiberfab* EXP Turbo-specific widebody conversion (1980s Group B-inspired) with carbon fiber fender flares, custom front splitter, and a duckbill rear wing (hand-laid by *VIS Racing*). Full seam-welded chassis with polycarbonate side windows (Lexan, 3mm thick).",
+    "Wheels & Suspension: Work Meister S1 3P 15x9 +20 (front) and 15x10 +30 (rear) wheels with Toyo R888R 225/50/15 and 275/50/15 tires. BC Racing BR coilovers (8kg/mm front, 10kg/mm rear) with Swift springs, poly bushings (Energy Suspension), and a custom *Cusco* 22mm rear sway bar.",
+    "Interior: Full *Recaro* SRD racing seats (fixed-back, FIA-approved) with Schroth 6-point harnesses. Custom aluminum dash with Defi BF gauges (boost, oil pressure, wideband AFR), Momo Prototipo steering wheel, and a relocated *Hurst* shifter (short-throw, 7075 billet)."
+  ]
+}

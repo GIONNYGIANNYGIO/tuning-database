@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "COMET GT",
+  "prestazioni": [
+    "Engine swap to a Ford 2.3L EcoBoost (Mazda L3-VDT derived, code: *MZR L3-VDT*) with a Garrett GTX3582R turbocharger, upgraded BorgWarner EFR 8374 compressor wheel, and a custom 4-inch aluminum intercooler from CSF Racing with a 1,200 CFM core for reduced intake temps under sustained boost (target: 450whp on E85 with a 28 psi peak)",
+    "Full forged internals by Manley Performance: 87mm forged crankshaft, Carrillo H-beam connecting rods, and Mahle Motorsport forged pistons (9.5:1 compression) with Total Seal gapless rings. ARP Custom Age 625+ head studs and main studs for block rigidity under high cylinder pressures",
+    "Custom Motec M150 ECU with a Haltech CAN-based PDM15 power distribution module, paired with a Bosch Motorsport 0280158802 1,000cc/min port injectors and a secondary set of ID1700x direct injectors for dual-fuel capability. A custom 3.5-inch stainless steel exhaust system by Burns Stainless with a 4-2-1 merge collector and a MagnaFlow 304 stainless steel muffler for optimized scavenging"
+  ],
+  "estetica": [
+    "Full Rocket Bunny Version 3 widebody kit (PN: RB-COMET-GT-V3) with carbon fiber overfenders, front splitter, and rear diffuser, paired with a custom 3M Matte Military Green wrap with gloss black accents on the hood and roof",
+    "Ohlins Road & Track DFV coilovers (PN: OH-DFV-FORD-COMET) with 24-way adjustable damping and Swift Springs (8K front, 10K rear) for aggressive stance. Custom rear subframe reinforcement by Cusco (PN: CUS-01F-001) to handle increased power and cornering forces",
+    "Custom 18x10.5 ET12 front and 18x12 ET5 rear wheels by Work Emotion CR Kiwami in a gunmetal finish, wrapped in Michelin Pilot Sport Cup 2 R tires (275/35/18 front, 315/30/18 rear). Brembo GT 6-piston calipers (PN: 1N3.9800.10) with 380mm two-piece rotors and Ferodo DS2500 brake pads for track-ready stopping power"
+  ]
+}

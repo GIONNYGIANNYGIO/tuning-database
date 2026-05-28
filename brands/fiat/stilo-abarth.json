@@ -1,0 +1,14 @@
+{
+  "brand": "FIAT",
+  "model": "STILO ABARTH",
+  "prestazioni": [
+    "Engine: 1.9L JTD 16V (192) engine code **192A5.000** (8-valve variant) or **192A9.000** (16-valve variant) with a **Garrett GT2256V** turbo upgrade, replacing the stock **IHI RHF4** for a 30% increase in airflow and a target of 280-300whp with supporting mods. Requires a **Forgestar F2-OR** 58mm open-wheel turbo manifold to optimize exhaust flow and reduce backpressure.",
+    "Fuel System: **Bosch 044** high-flow fuel pump paired with **Siemens DEKA 60lb/hr** injectors (PN: 155336) and a **Syvecs S6Plus** standalone ECU to manage the increased fuel demand. The stock **Marelli IAW 59F** ECU is insufficient for this power level and must be replaced. A **Radium Engineering** dual-catch can setup is mandatory to handle crankcase pressure from the upgraded turbo.",
+    "Drivetrain: **Quaife ATB LSD** (part #QDF7J) for the **C510** 5-speed transmission to handle the increased torque, paired with **Fidanza** lightweight flywheel (10.5lb) and **Sachs Performance** uprated clutch (PN: 3000 951 051). The stock driveshafts must be reinforced with **GKN** heavy-duty CV joints (PN: 30728550) to prevent failure under load."
+  ],
+  "estetica": [
+    "Aero: **Capristo 037-style** carbon fiber front splitter (custom-made for Stilo Abarth) with **Rieger Tuning** side skirts and a **Maxton Design** GT-style rear diffuser. The rear wing is a **Voltex Type-3** (1700mm width) mounted on **custom aluminum pedestals** to clear the hatchback glass. All aero must be paired with **APR Performance** GT-250 canards for high-speed stability.",
+    "Wheels: **OZ Racing Ultraleggera HLT** 8.5x18 ET35 (front) and 9.5x18 ET30 (rear) with **Pirelli P Zero Trofeo R** 235/40/18 (front) and 265/35/18 (rear) tires. The wheel setup requires **custom hubcentric spacers** (20mm front, 25mm rear) from **H&R** to fit the Stilo’s **4x98** bolt pattern without fender modification.",
+    "Interior: **Recaro Pole Position** (Evo IX) seats with **Schroth Profi II ASM** 4-point harnesses, mounted on **Corbeau** bolt-in side mounts. The rear seats are removed and replaced with a **Custom Cages** bolt-in roll bar (TIG-welded, powder-coated in **Abarth Corsa Red**). The steering wheel is a **Momo Prototipo** (330mm) with a **NRG** quick-release hub, and the shift knob is a **B&M 80775** short-throw unit with a **custom aluminum shift boot** from **RedlineGoods**."
+  ]
+}

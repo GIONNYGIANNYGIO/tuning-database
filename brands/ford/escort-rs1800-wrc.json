@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "ESCORT RS1800 WRC",
+  "prestazioni": [
+    "Engine: BDA (Belt-Drive A-Series) 1.8L inline-4 with forged Cosworth internals, stroked to 1975cc using a 90.0mm crankshaft (up from 83.5mm) and 86.75mm Mahle forged pistons for a 12.5:1 compression ratio, paired with a bespoke dry-sump lubrication system by Titan Motorsport to prevent oil starvation during sustained 8000+ RPM rally stages.",
+    "Forced Induction: Custom-built Garrett GT35R turbocharger with a 0.82 A/R turbine housing, mated to a Tial MV-R 50mm external wastegate (set to 3.0 bar peak boost) and a custom 3.5-inch stainless steel intercooler core by Bell Intercoolers, featuring a 10-row bar-and-plate design for maximum heat dissipation in Scandinavian forest rallies.",
+    "Drivetrain: Quaife ATB (Automatic Torque Biasing) differential in the front and rear, paired with a ZF 5-speed dog-engagement sequential gearbox (WRC-spec) with a magnesium casing and a Sachs twin-plate carbon clutch (240mm diameter) for rapid gear changes under 1500+ lb-ft of torque. Custom 300M steel driveshafts by GKN Driveline with CV joints rated for 1000+ horsepower to handle the abuse of gravel jumps."
+  ],
+  "estetica": [
+    "Body: Full carbon-fiber widebody conversion using a Liberty Walk-inspired RS1800 kit (custom-molded for the Mk2 Escort), featuring extended fenders with integrated vents for brake cooling, a 3-piece carbon front splitter with adjustable dive planes, and a massive carbon rear wing (WRC Group B-inspired) with a 1.2m span and 3D-printed aluminum endplates for optimized downforce.",
+    "Aerodynamics: Custom underbody diffuser by APR Performance, designed to work with the Escort’s rear beam axle, featuring 5 strakes and a central venturi tunnel to reduce lift by 40% at 120 mph. Carbon fiber side skirts with integrated NACA ducts to feed cool air to the rear brakes and differential, paired with a custom hood scoop (functional) to direct air into the intercooler.",
+    "Wheels & Stance: 18x10.5-inch (front) and 18x11.5-inch (rear) BBS RS-GT1 wheels in gold finish, wrapped in 245/640R18 (front) and 275/640R18 (rear) Michelin Pilot Sport Cup 2 tires for gravel rally use. Custom polybushings by SuperPro for the rear beam axle to allow 2.5 inches of ride height adjustability, paired with Ohlins TTX40 2-way adjustable coilovers (300mm travel) with remote reservoirs for gravel stage compliance."
+  ]
+}

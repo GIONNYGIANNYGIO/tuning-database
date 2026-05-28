@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "F-150 LIGHTNING",
+  "prestazioni": [
+    "Upgrade to a **Ford Performance Power Pack Stage 2** for the **Twin Motor (BEV) - 835 kW (1,125 hp) peak output** powertrain, utilizing a **custom high-voltage inverter (HVIC) calibration** to optimize torque vectoring and regenerative braking aggressiveness for track use, paired with **AEM EV VCU (Vehicle Control Unit)** for real-time power delivery adjustments.",
+    "Install **Garrett E-Turbo (Electric-Assist Turbocharger) hybrid system** (modified for EV applications) to supplement the front motor’s power delivery, reducing lag in high-demand acceleration scenarios by pre-spinning the compressor wheel via a **48V mild-hybrid system** integrated with the **Ford BlueCruise 1.3** hardware for seamless torque fill.",
+    "Replace the stock **SK Innovation 105 kWh lithium-ion battery** with a **StoreDot XFC (Extreme Fast Charging) 120 kWh battery pack**, featuring **silicon-dominant anode cells** for 100 miles of range in 5 minutes of charging, while integrating a **Magna PT eDS (Electric Drive System) dual-motor upgrade** to achieve **1,300 lb-ft of wheel torque** with **Quaife ATB (Automatic Torque Biasing) differentials** for improved traction off the line."
+  ],
+  "estetica": [
+    "Fit a **Rocket Bunny F-150 Lightning Widebody Kit (Pandem Design)**, featuring **carbon fiber fender flares with integrated LED turn signals**, a **custom aluminum honeycomb front splitter**, and a **dual-plane rear wing** with **active Gurney flaps** controlled by the **Ford Pro Intelligence** system for dynamic downforce adjustment.",
+    "Install **Vorsteiner V-FF107 forged carbon fiber side skirts** with **integrated air curtains** to reduce drag coefficient to **0.28 Cd**, paired with **HRE FF01 flow-formed wheels (22x12 front, 22x14 rear)** wrapped in **Michelin Pilot Sport Cup 2 Connect tires (305/30R22 front, 355/25R22 rear)** for track-focused grip.",
+    "Replace the stock lighting with **Lux Hella 5000K LED headlights** featuring **adaptive laser high-beams**, **Oracle Lighting RGB underglow with Sync 4 integration**, and a **custom carbon fiber bed cover** with **embedded solar panels** (via **SunPower Maxeon 5 cells**) to trickle-charge the auxiliary battery while parked."
+  ]
+}

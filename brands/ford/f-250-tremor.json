@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "F-250 TREMOR",
+  "prestazioni": [
+    "Engine: 6.7L Power Stroke Scorpion V8 (engine code: *7.3L Godzilla V8 in gasoline variants, but Tremor-specific is the 6.7L Power Stroke diesel, code 'Scorpion') – Full BorgWarner EFR 8374 turbo upgrade (106mm compressor wheel, 1.05 A/R turbine housing) with custom 3D-printed titanium compressor housing to reduce rotational mass by 22%. Pair with a custom-tuned SCT X4 Performance Programmer (Stage 3+ tune) with EGT, boost, and fuel pressure logging for 550whp/1,200 lb-ft on 93 octane + E85 blend (60/40 mix).",
+    "Fuel System: Full Aeromotive 340 Stealth Fuel Pump (dual-pump setup) with Fore Innovations 1,200cc/min port injectors and a supplementary set of 4x ID1700x direct injectors for the Power Stroke’s high-pressure common rail system. Custom billet fuel rails by PPE (Precision Performance Engineering) with -10AN ORB fittings and a Radium Engineering surge tank to prevent fuel starvation during extreme off-road articulation.",
+    "Suspension & Drivetrain: Full King Shocks 3.0 Remote Reservoir Coilovers (2.5\" diameter, 16\" travel) with custom valving for Tremor’s 35\" BFGoodrich KO2 tires. Rear: King Shocks 3.0 Bypass Shocks (18\" travel) with Fox 2.0 Performance Series bump stops. Drivetrain: ARB RD145HD Air Locker (front) and ARB RD140HD Air Locker (rear) with Yukon Gear 4.88:1 ring & pinion sets (Tremor-specific carrier bearing spacing). Transfer case: Atlas II 2-speed with 4.3:1 low range and custom billet aluminum shift fork by Offroad Design."
+  ],
+  "estetica": [
+    "Body: Full custom widebody kit by Fab Fours (Tremor-specific, not the generic F-250 kit) with 2.5\" fender flares (riveted, not bolt-on) and carbon fiber hood with functional heat extractors. Front bumper: Fab Fours Vengeance Elite (with integrated Warn Zeon 12-S winch and Rigid Industries E-Series Pro 50\" LED light bar). Rear bumper: Fab Fours Trail HD with swing-out tire carrier (37\" spare) and dual RotopaX 5-gallon fuel cells.",
+    "Wheels & Tires: Method MR701 NV (20x10, +18mm offset) with Nitto Ridge Grappler 37x13.50R20LT (12-ply) tires. Beadlock rings: Method 707 (red anodized) with ARP beadlock bolts. Custom powder-coated Icon Vehicle Dynamics wheel spacers (1.5\" hub-centric) to clear King coilovers.",
+    "Interior & Lighting: Full custom roll cage by 4Wheel Parts (Tremor-specific, bolt-in design with integrated harness bars for 5-point Schroth harnesses). Seats: Sparco Pro 2000 (black Alcantara, FIA-approved) with custom mounting brackets to retain OEM airbag functionality. Lighting: Baja Designs Squadron Pro (amber fog lights) and Diode Dynamics SS3 Max (switchback turn signals). Gauges: AEM CD-7 dash with 3.5\" digital boost, EGT, and fuel pressure readouts, mounted in a custom billet aluminum A-pillar pod by JCR Offroad."
+  ]
+}

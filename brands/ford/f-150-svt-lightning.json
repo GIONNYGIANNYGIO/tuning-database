@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "F-150 SVT LIGHTNING",
+  "prestazioni": [
+    "Supercharger upgrade to a Whipple W175ax Gen 5 (2.9L) twin-screw supercharger with a custom 10-rib pulley system (3.8\" crank pulley, 2.75\" blower pulley) for the **5.4L 3V Triton V8 (engine code: 3V-5408-EA)**. This setup targets 12-14 psi of boost, requiring a supporting fuel system with dual **AEM 340lph high-flow fuel pumps**, **Injector Dynamics ID1700x injectors**, and a **Holley Dominator EFI ECU** with a custom tune by **Lund Racing** to optimize timing and air-fuel ratios for 800+ whp on E85.",
+    "Full drivetrain reinforcement with a **G-Force GSR-45X 4-speed transmission** (rated for 1,200 lb-ft) paired with a **PML differential cover** and **ARP 12-point main studs** for the 8.8\" rear axle. The driveshaft is replaced with a **Mark Williams carbon-fiber driveshaft** (1350 U-joint series) to handle the increased torque without failure.",
+    "Suspension overhaul using **Bilstein B16 PSS10 coilovers** (custom-valved for the Lightning’s 1,500 lb payload capacity) with **Eibach ERS race springs** (400 lb/in front, 500 lb/in rear) and **Whiteline adjustable sway bars** (27mm front, 24mm rear). The rear leaf springs are swapped for **Deaver Racing multi-leaf packs** with **Hellwig helper springs** to prevent sag under load while maintaining ride quality."
+  ],
+  "estetica": [
+    "Full widebody conversion using the **TruFiber SVT Lightning-specific carbon-fiber widebody kit** (2.5\" flares front/rear) paired with **Rocket Bunny-style overfenders** to accommodate **20x10.5\" ET-15 (front) and 20x12.5\" ET-10 (rear) Forgeline GA3R wheels** wrapped in **Nitto NT05R 305/35R20 (front) and 325/30R20 (rear) tires**.",
+    "Front-end aggression enhanced with a **Seibon carbon-fiber hood** (functional dual 4\" scoops) and a **custom fabricated aluminum front splitter** (3-piece, adjustable angle) with **Aeromotive canards** for downforce. The rear features a **custom 3D-printed diffuser** (integrated with the TruFiber kit) and a **Borla Atak cat-back exhaust** with **4.5\" rolled-edge tips** (dual side-exit, polished stainless steel).",
+    "Interior stripped and reinforced with a **Sparco Pro 2000 seat** (fixed-back, FIA-approved) and **Schroth 6-point harnesses**, paired with a **MOMO Mod.78 steering wheel** (14\" diameter, suede) on a **NRG quick-release hub**. The dash is replaced with a **Racepak IQ3 digital dash** (logging boost, AFR, and transmission temps) and a **custom aluminum center console** housing **AEM X-Series gauges** (wideband, oil pressure, fuel pressure)."
+  ]
+}

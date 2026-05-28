@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "F2004 SCHUMACHER EDITION",
+  "prestazioni": [
+    "Engine: Type 053 3.0L V10 (F1-2004) with a bespoke HPE (High Performance Engineering) Stage 3+ ECU remap, targeting 1,020 hp at 19,000 RPM via optimized fuel maps for Shell V-Power Racing 102 RON fuel and revised ignition timing for sustained high-RPM operation, paired with a custom titanium valvetrain from Pankl Racing Systems to reduce reciprocating mass by 18%.",
+    "Forced Induction: Replacement of the stock IHI turbochargers (if applicable in a hypothetical road-legal conversion) with twin Garrett GT35R turbos, each fitted with 68mm billet compressor wheels and 76mm turbine wheels, running 2.2 bar of boost with a custom anti-lag system from Bosch Motorsport for instantaneous throttle response, mated to a bespoke air-to-water intercooler setup from PWR with dual 400mm cores for sub-40°C intake temps.",
+    "Drivetrain: Sequential 7-speed F1 gearbox (codenamed 'Tipo 168') reinforced with a Quaife ATB differential and upgraded carbon-fiber clutch plates from Sachs Performance, paired with a custom lightweight flywheel from Tilton Engineering to reduce rotational inertia by 22%, and a bespoke driveshaft from GKN Driveline with 30% higher torque capacity for sustained 1,200 Nm output."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon-fiber bodywork overhaul with a custom 'Schumacher Aero Pack' from Capristo Automotive, featuring a revised front splitter with integrated dive planes, a rear diffuser with active Gurney flaps (adjustable via cockpit controls), and a rear wing derived from the F2007's high-downforce setup, all coated in a matte 'Rosso Scuderia' finish with exposed carbon weave accents.",
+    "Wheels & Tires: OZ Racing Superleggera GT wheels in a 13x18 front and 13.5x18 rear configuration, wrapped in Pirelli P Zero Corsa tires (265/645-R18 front, 325/705-R18 rear) with custom compound tuning for 15% higher lateral grip, paired with Brembo GT-R monobloc calipers (6-piston front, 4-piston rear) and 390mm carbon-ceramic discs with titanium pistons for 30% reduced unsprung weight.",
+    "Interior: Full Alcantara and carbon-fiber retrim by Sabelt, featuring a custom 3D-printed titanium steering wheel with integrated OMP carbon shift paddles, a bespoke digital dash from Magneti Marelli (derived from the FXX-K program) displaying real-time telemetry, and a lightweight carbon-fiber bucket seat from Recaro with 6-point harnesses from Schroth Racing, all finished in 'Giallo Modena' stitching."
+  ]
+}
