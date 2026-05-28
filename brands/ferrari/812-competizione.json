@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "812 COMPETIZIONE",
+  "prestazioni": [
+    "Engine: F140 GA V12 (6.5L naturally aspirated) – Full titanium Akrapović Evolution Line exhaust system with carbon-fiber tips, featuring a 4-into-1 collector design and electronically controlled bypass valves for a 12-15 HP gain and 8-10 Nm torque increase, paired with a custom Motec M150 ECU remap optimizing ignition timing and fuel delivery for 8,700 RPM redline retention.",
+    "Forced Induction: Novitec N-Largo supercharger kit with a Rotrex C38-92 centrifugal supercharger (1.2 bar max boost), integrated with a custom Novitec intercooler and heat exchanger setup, increasing power to ~950 HP and 750 Nm torque while retaining the stock throttle body and intake manifold for linear power delivery.",
+    "Suspension & Handling: Öhlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression), paired with a full carbon-fiber front splitter from Novitec’s N-Largo aero kit, adjustable in 3 positions for downforce tuning, and a custom rear diffuser with active Gurney flaps controlled via the car’s Manettino switch."
+  ],
+  "estetica": [
+    "Body: Full Novitec N-Largo widebody conversion with carbon-fiber fender flares (30mm wider front, 40mm wider rear), incorporating a custom front bumper with integrated LED daytime running lights and a rear diffuser with titanium exhaust outlets.",
+    "Wheels: Forged HRE FF16 flow-formed wheels in a staggered setup (20x11.5 ET40 front, 21x13 ET45 rear) with custom center-lock adapters, wrapped in Pirelli P Zero Trofeo R tires (275/30 R20 front, 345/25 R21 rear) for maximum mechanical grip.",
+    "Interior: Full Alcantara-wrapped Recaro SPG-K bucket seats with 6-point Schroth Profi II harnesses, a custom carbon-fiber roll cage (FIA-spec) from GTSport, and a Motec C127 dash display replacing the stock cluster for real-time telemetry, including boost pressure, oil temperature, and lap timing."
+  ]
+}

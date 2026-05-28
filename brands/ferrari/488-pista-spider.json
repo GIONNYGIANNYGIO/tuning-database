@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "488 PISTA SPIDER",
+  "prestazioni": [
+    "Installation of a Novitec N-Tronic 740 ECU remap with custom calibration for the F154CD 3.9L twin-turbo V8, optimizing boost pressure to 1.6 bar (stock: 1.2 bar) and adjusting ignition timing for 780+ HP while maintaining Ferrari's proprietary torque vectoring logic",
+    "Upgrade to a full titanium Akrapović Evolution Line exhaust system with 200-cell catalytic converters, CNC-machined inconel headers, and a bypass valve delete for the F154CD, reducing weight by 12 kg and enhancing exhaust scavenging for a 15% improvement in turbo spool at 3,500 RPM",
+    "Fitment of a Garrett GTX3582R Gen II turbocharger (82mm compressor, 62mm turbine) with billet compressor wheel and ceramic ball bearings, paired with a custom Novitec-engineered intercooler (1,200 CFM core) and TiAL MV-R 44mm wastegates to eliminate heat soak and support 850 HP on 98 RON fuel"
+  ],
+  "estetica": [
+    "Installation of a Novitec N-Largo widebody kit with carbon fiber front fenders (extended 40mm per side), rear quarter panels (50mm extension), and a bespoke rear diffuser with integrated twin exhaust outlets, all finished in matte Ferrari Rosso Corsa (code: 3007/99)",
+    "Replacement of the stock retractable hardtop with a Novitec Spider Top carbon fiber roof module (weight reduction: 8 kg), featuring a transparent polycarbonate rear window with anti-scratch coating and a manual locking mechanism for track use",
+    "Fitment of a full carbon fiber front splitter from 991 Motorsports, designed specifically for the Pista Spider's aero balance, with integrated canards (3D-printed from PA12 nylon) and a 30mm adjustable dive plane to reduce front-end lift by 40% at 250 km/h"
+  ]
+}

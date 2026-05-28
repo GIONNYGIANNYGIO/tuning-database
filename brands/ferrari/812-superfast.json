@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "812 SUPERFAST",
+  "prestazioni": [
+    "Engine: F140 GA 6.5L V12 (800 PS stock) – Full titanium internals upgrade with Carrillo forged H-beam connecting rods, JE Pistons 12.5:1 compression forged pistons, and a billet crankshaft from Manley Performance to handle 1,000+ PS on E85 fuel. Pair with a custom dry-sump system by Dailey Engineering for sustained high-RPM stability.",
+    "Forced Induction: Twin-turbocharged setup using Garrett GTX5533R Gen II turbos with TiAL MV-R 60mm wastegates and custom 4-inch titanium downpipes by Novitec. Intercooled via a bespoke air-to-water system with a PWR radiator and Bosch Motorsport water-methanol injection for intake charge cooling. ECU reflash by Motec M150 with custom maps for 12 psi boost and aggressive ignition timing.",
+    "Exhaust: Novitec 812 Superfast full titanium exhaust system with 100mm carbon-fiber tips, paired with a secondary straight-pipe bypass valve system controlled via a custom AIM MXS Strada dash switch. Headers are 4-2-1 equal-length titanium units by Capristo, reducing backpressure by 30% while maintaining Ferrari’s signature V12 acoustics."
+  ],
+  "estetica": [
+    "Aerodynamics: Novitec N-Largo widebody kit with carbon-fiber fenders, front splitter, and rear diffuser, increasing track width by 60mm. Rear wing is a custom 3D-printed active Gurney flap by 991 Racing, adjustable via a hydraulic actuator linked to the Ferrari Side Slip Control (SSC) system for dynamic downforce.",
+    "Wheels: HRE FF16 3-piece forged wheels in a staggered 21x11.5 (front) and 22x13 (rear) setup, wrapped in Michelin Pilot Sport Cup 2 R tires (305/25 ZR21 front, 355/25 ZR22 rear). Custom titanium wheel bolts by ARP and center-lock adapters by BBS for OEM+ fitment.",
+    "Interior: Full Alcantara retrim by Sabelt, including a custom 6-point harness bar with Schroth Profi II harnesses. Steering wheel is a bespoke carbon-fiber unit by MOMO with integrated Motec C127 dash display. Seats are carbon-fiber Recaro Pole Position buckets with custom Ferrari-red Alcantara inserts and 3D-printed titanium seat mounts."
+  ]
+}

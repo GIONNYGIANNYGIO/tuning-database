@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "812 MANSORY STALLONE",
+  "prestazioni": [
+    "F140 GA V12 engine bored to 6.5L with forged Mahle Motorsport pistons (13.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft by Pankl Racing Systems for 8,500 RPM redline capability",
+    "Twin Garrett GTX5533R Gen II turbochargers with 68mm billet compressor wheels, custom 3D-printed Inconel turbine housings, and TiAL MV-R 60mm wastegates, paired with a custom Mansory-designed air-to-water intercooler system (core volume: 12.5L) and 100mm titanium intake plenums by Akrapovič",
+    "Full Motec M150 ECU with bespoke Mansory Stage 3+ calibration, including individual cylinder fuel trims, anti-lag system with secondary throttle body injection, and a 4-bar MAP sensor setup for 1.4 bar peak boost, mated to a custom 12-injector fuel system (ID1700x side feed injectors + 4x supplementary port injectors) and a Radium Engineering dual-pump fuel surge tank with dual Walbro 450 LPH pumps"
+  ],
+  "estetica": [
+    "Mansory Carbon 4.0 full-body widebody kit with 3D-printed carbon fiber front splitter (22mm adjustable), rear diffuser with integrated titanium Gurney flaps, and a fixed rear wing with dual-element active DRS (Drag Reduction System) controlled via the Motec ECU",
+    "Custom 22-inch forged BBS FI-R wheels in a staggered setup (9.5x22 ET25 front, 12.5x22 ET15 rear) with titanium wheel bolts, wrapped in Michelin Pilot Sport Cup 2 R tires (275/30 R22 front, 345/25 R22 rear) and paired with AP Racing 6-piston monoblock calipers with 420mm carbon-ceramic rotors (front) and 4-piston calipers with 380mm rotors (rear)",
+    "Full carbon fiber interior rework by Sabelt, including a bespoke roll cage with integrated fire suppression system (FEV 1000), carbon fiber Recaro Pole Position seats with 6-point Schroth harnesses, and a custom Alcantara-wrapped steering wheel with integrated Motec C127 dash display and paddle shifters for manual boost control (3-stage: 0.8, 1.1, 1.4 bar)"
+  ]
+}

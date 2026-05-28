@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "575M MARANELLO",
+  "prestazioni": [
+    "Engine: F133E V12 (5.7L, 65° naturally aspirated) – Full titanium connecting rods by Carrillo (H-beam, 4340 steel, 6.125\" length) with ARP 2000 rod bolts and custom-forged Mahle pistons (11.0:1 compression, coated skirts) to handle 9,500 RPM redline with 650+ HP on VP Racing Q16 118-octane fuel.",
+    "Forced Induction: Twin Precision Turbo PT6266 CEA ball-bearing turbos (62mm inducer, 66mm exducer) with custom 3D-printed Inconel 625 exhaust manifolds by SMS Engineering, paired with a GReddy Type-S intercooler (12-row, 1000cfm) and TiAL MV-R 44mm wastegates (set to 1.2 bar boost).",
+    "Drivetrain: Quaife ATB differential (helical LSD, 45% lock) with a custom 6-speed F1-derived transaxle reinforcement by GTO Engineering (chromoly input shaft, upgraded synchros by Hoerbiger), mated to a Sachs Performance twin-disc clutch (ceramic-metallic, 800Nm torque capacity) and a lightweight flywheel by Fidanza (12.5 lbs, CNC-machined 6061-T6)."
+  ],
+  "estetica": [
+    "Aerodynamics: Novitec Rosso 575M widebody kit (carbon fiber, 50mm rear fender flares, integrated GT3-style diffuser) with a custom front splitter by Vorsteiner (3D-scanned, 3-piece carbon, adjustable dive planes) and a rear wing by 991 GT3 RS-style Gurney flap (carbon, 1200mm span, 30mm height).",
+    "Wheels: HRE P101 3-piece forged wheels (front: 9.5x19 ET25, rear: 12.5x20 ET35) with custom center-lock adapters by BBS, wrapped in Michelin Pilot Sport Cup 2 R tires (front: 275/35 ZR19, rear: 345/30 ZR20) and paired with Brembo GT-R 6-piston calipers (405mm CCM-R rotors, titanium pistons).",
+    "Interior: Full Alcantara retrim by Sabelt (custom pattern, red stitching) with a MOMO Prototipo steering wheel (380mm, suede, carbon fiber core), a custom roll cage by Matter Italy (chromoly, 4-point, TIG-welded, integrated fire suppression system), and a digital dash by Motec C127 (CAN-bus integrated, 7-inch TFT, lap timer, boost gauge)."
+  ]
+}

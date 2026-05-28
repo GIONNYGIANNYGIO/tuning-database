@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "488 GTB",
+  "prestazioni": [
+    "Engine: F154 CB 3.9L V8 twin-turbo (760Nm @ 3000rpm, 670hp @ 8000rpm) – Full titanium Akrapović Evolution Line Titanium exhaust system with carbon-fiber tips, reducing backpressure by 22% and adding 38hp via optimized scavenging and 1.2mm larger diameter piping (95mm vs. stock 93.8mm).",
+    "Turbochargers: Upgraded IHI HF12 turbochargers with billet compressor wheels (60mm inducer, 84mm exducer) and Garrett GTX4202 ball-bearing center housings, paired with custom 4-ply silicone charge pipes (76mm ID) and a PTP 1000hp intercooler (50% larger core volume, 30% lower IATs under full load).",
+    "ECU & Fueling: Motec M150 ECU with custom CAN bus integration for Ferrari’s Side-Slip Control (SSC) and dynamic torque vectoring, running E85 flex-fuel mapping with ID1000x injectors (1000cc/min) and a Radium Engineering dual-catch can system (AN-10 lines) to manage crankcase pressure under 3.5 bar boost (stock: 1.4 bar)."
+  ],
+  "estetica": [
+    "Aero: Novitec Torado 488 GTB widebody kit with carbon-fiber front splitter (38mm overhang, 45kg downforce @ 250km/h), rear diffuser with integrated Gurney flap (22mm), and a fixed rear wing (1.2m span, 3D-printed titanium supports) generating 180kg of downforce at 300km/h (vs. stock 90kg).",
+    "Wheels: HRE FF16 flow-formed forged wheels (20x10.5 ET45 front, 21x12.5 ET50 rear) with titanium hardware (1.5kg weight reduction per wheel), wrapped in Michelin Pilot Sport Cup 2 R tires (255/30/20 front, 325/25/21 rear) shaved to 4.5mm tread depth for track use.",
+    "Interior: Sabelt 6-point FIA-spec harnesses (HYBRID-R model) with carbon-fiber bucket seats (Sparco Pro 2000, 18kg each), a custom roll cage (T45 steel, 3mm wall thickness) integrated with Ferrari’s Manettino switch for adjustable traction control (CT Off, Sport, Race, and a new ‘Extreme’ mode with 0% intervention), and a digital dash (Aim MXS Strada) displaying turbo PSI, AFR (via Bosch LSU 4.9 wideband), and lap times via GPS."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "499P LMH",
+  "prestazioni": [
+    "Replacement of the stock **F163CE** 3.0L V6 twin-turbo hybrid powertrain's MGU-K with a **Bosch Motorsport MGU-K 2.0** unit, increasing regenerative braking energy recovery from 200 kW to 250 kW while reducing weight by 1.8 kg via carbon-fiber housing and liquid-cooled stator windings",
+    "Installation of a **Garrett GT35R94** turbocharger (84mm compressor, 62mm turbine) with a **Tial MV-R 44mm** external wastegate, calibrated to 2.8 bar absolute boost pressure, paired with a **Pectel SQ6M** ECU running custom fuel maps for 102 RON biofuel (E20 blend) with 12:1 compression ratio optimization",
+    "Upgraded **Xtrac P1395** 7-speed sequential transaxle with **AP Racing CP8444-2** carbon-carbon clutch assembly (220mm diameter, 6 puck) and **Pankl Racing Systems** titanium half-shafts with tripod CV joints, reducing rotational inertia by 14% for faster gear shifts (target: 30ms upshift, 50ms downshift)"
+  ],
+  "estetica": [
+    "Full **Michelotto Automobili** carbon-fiber bodywork kit, including a **3D-printed titanium front splitter** with active Gurney flaps (adjustable via **MoTeC ADL3** telemetry) and a **rear diffuser** featuring 9 vertical strakes with **Vortex Generators** (tested in Ferrari’s Maranello wind tunnel at 300 km/h)",
+    "Replacement of the OEM **Brembo CCR** brake calipers with **Alcon 6-piston monobloc calipers** (front) and **4-piston calipers** (rear), paired with **Carbon Industrie CCM-R** rotors (380mm front, 355mm rear) and **Ferodo DS3.1** pads for 1,200°C heat resistance",
+    "Custom **OMP Racing** carbon-fiber steering wheel with **Cosworth CFW200** display, integrated **Schroth 6-point harness** quick-release, and **Motec PDM30** power distribution module for real-time torque vectoring adjustments via **Ferrari’s e-diff software**"
+  ]
+}

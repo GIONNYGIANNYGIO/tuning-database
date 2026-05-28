@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "599 GTO",
+  "prestazioni": [
+    "Engine: F140 C 6.0L V12 (661 HP stock) – Full titanium internals upgrade with Carrillo H-beam connecting rods, JE forged pistons (12.5:1 compression), and a custom billet crankshaft by VAC Motorsports for 900+ HP reliability. Pair with a Motec M150 ECU for direct port injection control and individual cylinder tuning.",
+    "Forced Induction: Twin Precision Turbo PT6266 CEA turbos (ball-bearing, 62mm inducer) with custom 3D-printed Inconel exhaust manifolds by SMS Engineering, feeding into a GReddy 4.5\" intercooler core with custom billet end tanks for optimized airflow. Boost set to 1.2 bar (17.4 psi) with a TurboSmart Race Port 50mm wastegate and TiAL MV-R 44mm blow-off valve.",
+    "Drivetrain: OS Giken 6-speed sequential gearbox with a 2.7L carbon fiber dual-plate clutch (Sachs Performance) and a Quaife ATB differential. Custom half-shafts by The Driveshaft Shop (3.5\" chromoly) to handle increased torque. Ohlins TTX40 coilovers with 3-way adjustable damping, spherical bearing top mounts, and custom valving for the 599 GTO’s front/mid-engine layout."
+  ],
+  "estetica": [
+    "Aerodynamics: Novitec Torado GTO widebody kit (carbon fiber) with integrated front splitter, side skirts, and a 3-piece adjustable rear wing (200mm chord, 1,200mm span) featuring a Gurney flap and DRS-style active adjustment via a Bosch ECU. Underbody diffusers by Vorsteiner (carbon fiber) with integrated brake cooling ducts.",
+    "Wheels/Tires: HRE P1010 20x11\" (front) and 21x13\" (rear) forged wheels with custom offsets (+15mm front, +25mm rear) to clear the widened fenders. Michelin Pilot Sport Cup 2 R tires (295/30 R20 front, 345/25 R21 rear) with nitrogen inflation and TPMS sensors calibrated for track pressures (22 psi hot).",
+    "Exterior Details: Full custom paint by Sprayed by BM (Ferrari ‘Rosso Corsa’ with a 3-stage pearl flake) and a matte black carbon fiber roof (Weissach package-style) with a clear bra by XPEL Ultimate Plus. LED taillights by Diode Dynamics (sequential turn signals) and a custom titanium exhaust system by Capristo (4.5\" outlets, Inconel 625 headers) with active butterfly valves controlled by the Motec ECU."
+  ]
+}

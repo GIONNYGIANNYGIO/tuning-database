@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "599XX",
+  "prestazioni": [
+    "Engine: 6.0L Tipo F140 C V12 (6599cc) with a bespoke dry-sump lubrication system upgraded to Motul 300V Trophy 15W-50 full-synthetic oil, paired with a custom titanium crankshaft from Pankl Racing Systems to handle 9,000 RPM redline and 740 HP (up from 700 HP stock) via a Motec M150 ECU reflash with 599XX-specific ignition timing maps and fuel pressure adjustments for 102-octane race fuel",
+    "Forced induction: Stock twin IHI turbochargers replaced with Garrett GT35R billet wheel turbos (84mm compressor, 62mm turbine) on custom Inconel 625 exhaust manifolds by Capristo, paired with a GReddy Profec B Spec II boost controller targeting 1.2 bar (17.4 psi) peak boost, with a custom air-to-water intercooler system from Bell Intercoolers using a 3.5L capacity core and a secondary electric water pump for track endurance",
+    "Suspension: Ohlins TTX40 4-way adjustable coilovers with 599XX-specific valving, reinforced spherical bearing top mounts from SuperPro, and custom titanium spring perches by KW Suspensions to reduce unsprung weight by 1.8kg per corner, paired with a full carbon fiber front splitter and rear diffuser from 991 GT3 RS-style aerodynamic kit by Novitec Torado, generating 450kg of downforce at 250 km/h"
+  ],
+  "estetica": [
+    "Exterior: Full carbon fiber body kit by Novitec Torado including a 599XX-specific front bumper with integrated NACA ducts for brake cooling, side skirts with air curtains for rear diffuser efficiency, and a rear wing derived from the 599XX Evo program with active Gurney flaps controlled by a Bosch Motorsport ECU for dynamic angle adjustment (0-15 degrees)",
+    "Wheels: Forged magnesium center-lock wheels by BBS (front: 19x12J ET40, rear: 20x13J ET35) wrapped in Pirelli P Zero Trofeo R tires (295/30 R19 front, 345/30 R20 rear) with custom tread compounds for 100°C track temperatures, paired with titanium wheel nuts by HRE Performance Wheels",
+    "Interior: Full Alcantara-wrapped Recaro Pole Position seats with 599XX-specific carbon fiber shell and 6-point Schroth Profi II harnesses, a custom roll cage by Matter Italy with integrated fire suppression system (Lifeline Zero 360), and a digital dash from AIM MXS Strada with 599XX-specific telemetry for lap time analysis, including G-force, brake pressure, and tire temperature monitoring"
+  ]
+}

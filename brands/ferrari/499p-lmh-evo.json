@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "499P LMH EVO",
+  "prestazioni": [
+    "Engine: Ferrari F163CE 3.0L V6 twin-turbo hybrid power unit (680 HP ICE + 272 HP electric motor) with Mahle Motorsport forged pistons (9.5:1 compression ratio) and Carrillo H-beam connecting rods for sustained 9,500 RPM endurance racing",
+    "Turbocharging: Garrett Motorsports GTX5544R Gen II turbos (86mm compressor, 76mm turbine) with TiAL Sport 60mm wastegates and custom Ferrari Motorsport titanium exhaust manifold with Inconel 625 turbine housing for 3.2 bar peak boost",
+    "Hybrid System: Bosch Motorsport MGU-K (200 kW) with a custom liquid-cooled battery pack (800V, 1.1 kWh) and Marelli Motorsport power electronics, optimized for Le Mans Hypercar (LMH) regulations with a 300 kW peak output limit"
+  ],
+  "estetica": [
+    "Aerodynamics: Ferrari Corse Clienti-developed carbon fiber LMH-spec front splitter with active Gurney flaps (adjustable via MoTeC ADL3 dash) and a rear diffuser featuring 12 individual strakes (CFD-optimized for 2,000 kg downforce at 300 km/h)",
+    "Bodywork: Full carbon fiber body kit by Capristo (Le Mans-spec) with a removable roof panel (Dallara-supplied carbon monocoque) and side skirts featuring integrated cooling ducts for the Bosch MGU-K and Mahle intercoolers",
+    "Lighting: OLED rear light clusters by Hella (WEC homologated) with integrated rain light and a custom LED front light bar (Brembo Racing-supplied) for pit lane visibility, all controlled via Ferrari’s proprietary F1-derived CAN bus system"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "499P",
+  "prestazioni": [
+    "Replacement of the stock F163CE 2.998L V6 twin-turbo hybrid power unit's IHI turbochargers with **Garrett GTX5544R Gen II** turbos, featuring 76mm compressor wheels and 64mm turbine wheels, paired with **Tial MV-R 60mm wastegates** and **TurboSmart Race Port BOV** for optimized boost response and reduced lag in the 10,000+ RPM range",
+    "Installation of a **Bosch Motorsport MS 50.2 ECU** with custom firmware developed by **Magneti Marelli Motorsport**, enabling real-time torque vectoring adjustments via the **499P's e-diff and hybrid MGU-K system**, with a focus on Le Mans-style high-speed stability and traction control refinement",
+    "Upgraded **Brembo GT4 6-piston monobloc calipers** with **390mm carbon-ceramic discs** (replacing the stock 380mm setup) and **Pagid RSX1 racing pads**, paired with **Motul RBF 660 Racing Brake Fluid** for sustained 200°C+ operating temperatures during 24-hour endurance events"
+  ],
+  "estetica": [
+    "Full **AIMOLER 499P-specific carbon fiber aero kit**, including a **3D-printed front splitter with active Gurney flaps** (adjustable via the car's hydraulic system), **rear diffuser with integrated strakes** (tested in Ferrari's Maranello wind tunnel for 1,200kg downforce at 300km/h), and **side skirts with vortex generators** to reduce underbody turbulence",
+    "Replacement of the stock LED headlights with **Osram Laser+ units** (modified for FIA WEC compliance) and **custom 3D-printed titanium headlight housings** (weight reduction of 1.2kg per side), paired with **Hella Rallye 4000 driving lamps** for night-stage endurance visibility",
+    "Installation of a **Sabelt 6-point FIA-spec carbon fiber racing seat** with **Schroth 6ASF harnesses**, **MOMO Mod.77 steering wheel** (with integrated **Cosworth CFW200 data display**), and **Alcantara-wrapped dashboard** (treated with **3M Scotchgard Pro** for sweat resistance during 8-hour stints)"
+  ]
+}

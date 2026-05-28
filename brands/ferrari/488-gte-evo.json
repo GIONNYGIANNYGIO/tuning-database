@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "488 GTE EVO",
+  "prestazioni": [
+    "F154CB 3.9L V8 twin-turbo engine: Replace OEM IHI turbochargers with Garrett GTX5533R Gen II turbos (88mm compressor, 1.06 A/R turbine housing) paired with custom 3D-printed titanium wastegates (TiAL MV-R 44mm) and a PTP Turbo blanket kit for thermal management. Target boost: 32 psi (2.2 bar) with a custom Motec M150 ECU reflash optimizing ignition timing (12° BTDC) and fueling (ID1050x injectors, 2,200cc/min).",
+    "Dry-sump lubrication system upgrade: Replace OEM Ferrari oil pump with a Peterson Fluid Systems 4-stage dry-sump kit (488 GTE-specific billet aluminum pan, -12AN lines) and a Setrab 50-row oil cooler (19-row core) with integrated thermostat bypass. Oil: Motul 300V Trophy 15W-50 with 5% Red Line Shockproof additive for extreme G-force resilience.",
+    "Chassis reinforcement: Install a full GTE-spec roll cage (SCCA-approved, TIG-welded 4130 chromoly) by Sparco Pro2000 with integrated fire suppression system (Lifeline Zero 360, 3kg Novec 1230 agent). Replace OEM subframes with titanium versions (900g weight savings) from 9tuning, paired with spherical bearing rear toe links (Öhlins TTX46 MkII dampers, 12-position rebound/24-position compression adjustability)."
+  ],
+  "estetica": [
+    "Aerodynamic overhaul: Replace OEM front splitter with a 3D-printed carbon-fiber unit (Automobili Lamborghini Huracán GT3-spec, 30% more downforce) and a custom rear diffuser (APR Performance GTC-300, 4-inch Gurney flap) with integrated LED rain light (ORACLE Lighting 60W CREE). Side skirts: Rocket Bunny V3 widebody kit (20mm wider per side) with carbon-fiber canards (Vortex Generators, 15mm height).",
+    "Exterior lighting: Replace OEM headlights with OLED adaptive units (Hella 5000K, 1,200 lumens) and add a custom laser auxiliary light bar (Osram SP2.0, 6,000K, 30,000 candela) mounted to the front crash beam. Rear: Sequential LED taillights (VLAND 921, CAN-bus compatible) with integrated brake bias display (Motec C127 dash link).",
+    "Interior: Full Alcantara retrim (Sparco QRT-K seats, 6-point Schroth Profi II harnesses) with a custom carbon-fiber dash overlay (9tuning, 1.2mm thickness) housing a Motec C187 dash (12-inch display, 1,000Hz logging). Steering wheel: Sparco Pro2000 (350mm diameter) with integrated paddle shifters (Magneti Marelli GTE-spec, 15ms shift time) and a quick-release hub (NRG Innovations, 6-bolt pattern)."
+  ]
+}

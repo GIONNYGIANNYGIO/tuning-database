@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "512 M",
+  "prestazioni": [
+    "Engine: Replace the original *Tipo F110 A* 4.9L flat-12 with a fully balanced and blueprinted *Tipo F110 B* block, featuring forged Mahle pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from JP Performance. Pair with a custom dry-sump system by Aviaid, utilizing a 12-stage pump and dual external oil coolers (Setrab 625 series) for sustained high-RPM endurance.",
+    "Forced Induction: Twin-turbocharged setup using Garrett GTX5533R Gen II turbos (86mm compressor wheels, .96 A/R turbine housings) with TiAL MV-R 44mm wastegates and TiAL Q 50mm blow-off valves. Custom intercooler system by PWR (bar-and-plate core, 1200cfm airflow) with CNC-machined aluminum end tanks, mounted in a front-mount configuration with a custom carbon fiber ducting kit by APR Performance.",
+    "Fuel & Ignition: Full sequential fuel injection conversion using Bosch Motorsport 2200cc/min injectors (PN 0 280 158 129) and a Motec M150 ECU with custom mapping for 12,000 RPM redline. Dual Bosch 044 fuel pumps (surge-tank setup by Radium Engineering) and a custom billet fuel rail by Injector Dynamics. Ignition system upgraded to MSD 8510 CDI boxes with NGK R847-10 iridium plugs and custom coil-on-plug conversion by AEM."
+  ],
+  "estetica": [
+    "Bodywork: Full carbon fiber widebody conversion using the *512 M Modulo Evoluzione* kit by Ferrari Classiche (originally designed for the 1971 prototype), featuring hand-laid 2x2 twill weave carbon fiber with a clear satin finish. Custom front splitter and rear diffuser by Novitec Rosso, incorporating active aero elements with a hydraulic lift system (25mm adjustment range) controlled via a MoTeC PDM15.",
+    "Wheels & Brakes: Forged 3-piece OZ Racing Superleggera III wheels (18x12 front, 18x14 rear) with custom center locks and titanium hardware, wrapped in Pirelli P Zero Corsa tires (275/35/18 front, 335/30/18 rear). Brake system upgraded to a full carbon-ceramic setup by Brembo (CCM-R rotors, 390mm front/380mm rear) with 6-piston monobloc calipers (gold anodized) and custom braided stainless steel lines by Goodridge.",
+    "Interior: Full Alcantara retrim by Sabelt, including custom bucket seats with 4-point harnesses (Sabelt 6-point FIA-spec) and a removable MOMO Prototipo steering wheel (quick-release hub). Digital dash conversion using a Motec C127 display with custom Ferrari 512 M-themed graphics, integrated with a RaceLogic VBOX for real-time telemetry. Custom roll cage by Matter Italy (TIG-welded chrome-moly steel, bolt-in design) with integrated fire suppression system by Lifeline."
+  ]
+}

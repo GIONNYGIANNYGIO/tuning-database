@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "643 F1",
+  "prestazioni": [
+    "Engine: Type 037 3.5L V12 (F120A) with a bespoke Mahle Motorsport forged piston kit (92mm bore, 11.5:1 CR) paired with Carrillo H-beam connecting rods for sustained 14,500 RPM reliability, replacing the stock cast pistons and I-beam rods.",
+    "Induction: Custom-built Magneti Marelli IAW P8 electronic fuel injection system recalibrated by Bosch Motorsport for 12% leaner AFR (12.8:1) under full load, paired with a titanium intake plenum by CRP Racing and individual throttle bodies (ITBs) from Jenvey Dynamics (42mm bore) with carbon fiber velocity stacks.",
+    "Exhaust: 100% titanium 4-2-1 equal-length header system by Capristo, merging into a straight-pipe exhaust with a secondary catalytic converter delete (replaced with a GESi high-flow sports cat) and a custom Akrapović titanium muffler with a 3.5-inch outlet for optimized backpressure at 14,000+ RPM."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber monocoque reinforcement by Bremar Automotion, including a 3D-scanned front splitter with integrated Gurney flap (adjustable via quick-release Dzus fasteners) and a rear diffuser by APR Performance with active aerodynamic elements (hydraulically adjustable angle of attack, +15% downforce at 200 km/h).",
+    "Wheels: OZ Racing F1 magnesium wheels (13x10 front, 13x13 rear) with center-locking hubs, wrapped in Pirelli P Zero slicks (325/620-13 front, 455/1000-13 rear) or custom-molded Michelin rain tires (intermediate compound) for wet-weather testing.",
+    "Cockpit: Full carbon fiber dash panel by V Carbon, featuring a Motec C127 data logger with integrated GPS telemetry, a 7-inch AIM MXS Strada digital display, and a custom-molded Sabelt 6-point harness (FIA 8862-2009 certified) with quick-release HANS-compatible anchors."
+  ]
+}

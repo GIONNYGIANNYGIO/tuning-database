@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "499P MODIFICATA",
+  "prestazioni": [
+    "Engine: F163CE 3.0L V6 twin-turbo hybrid powertrain with a bespoke Bosch Motorsport MS 6.7 ECU remap, targeting 850+ hp (up from 680 hp) via a Garrett GTX5544R turbo upgrade with billet compressor wheels and a custom 4.5\" titanium downpipe from Capristo, paired with a Motec PDM30 power distribution module for optimized hybrid energy deployment",
+    "Suspension: Öhlins TTX46 MkII 4-way adjustable dampers with custom valving for the 499P Modificata’s carbon tub, featuring titanium springs from Hyperco and spherical bearing top mounts from Tractive Suspension, calibrated for 3mm lowered ride height and 20% stiffer anti-roll bars from Eibach Pro-Race",
+    "Aerodynamics: Full carbon fiber aero package from Ferrari Corse Clienti, including a 3D-printed front splitter with active Gurney flaps (controlled via MoTeC C127 dash), a rear diffuser with integrated strakes from APR Performance, and a fixed rear wing with dual-element active DRS (replacing the stock single-element) for +1200 lbs of downforce at 200 km/h"
+  ],
+  "estetica": [
+    "Exterior: Full 3M 1080 Matte Graphite vinyl wrap with custom Ferrari Rosso Corsa pinstriping (2mm width) applied by Avery Dennison-certified installers, paired with a carbon fiber roof from Weichers Carbon and side skirts from Novitec’s 499P-specific kit, featuring integrated LED turn signals from Diode Dynamics",
+    "Interior: Full Alcantara-wrapped Recaro SPG-MXL seats with 6-point Schroth Profi II harnesses, a custom MOMO Mod.78 steering wheel with integrated AIM MXS Strada dash display, and a titanium roll cage from Custom Cages UK (FIA 8862-2018 certified) with carbon fiber door cards from VIS Racing",
+    "Lighting: Full LED upgrade with Osram Night Breaker Laser bulbs (H8/H11/H16) and a custom sequential taillight setup from LUX Automotive, featuring 30 individually addressable RGB LEDs controlled via a G4+ Link ECU for dynamic brake and turn signals"
+  ]
+}

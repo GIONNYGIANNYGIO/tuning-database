@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "250 CALIFORNIA SPYDER SWB",
+  "prestazioni": [
+    "Engine: Colombo Tipo 168/62 V12 (3.0L, 60° SOHC, 240-280 HP stock) – Full balanced and blueprinted internals with forged Mahle pistons (9.5:1 CR), Carrillo H-beam connecting rods, and a billet crankshaft by GTO Engineering for 9,000 RPM reliability. Custom camshafts by Kent Cams (280° duration, 0.450\" lift) with titanium retainers and dual valve springs by Ferrea.",
+    "Induction: Dual Weber 46 DCF3 carburetors (rebuilt by Redline Weber) with velocity stacks and custom 3D-printed intake plenums by Velocity Motorsports for optimized airflow. Individual throttle bodies (ITBs) by Jenvey Dynamics (45mm) with a custom billet aluminum intake manifold for high-RPM response.",
+    "Exhaust: Equal-length 3-into-1 stainless steel headers by Capristo, paired with a straight-pipe exhaust system featuring a 2.5\" diameter with a Scuderia Ferrari 250 GTO-inspired megaphone tip (fabricated by Novitec). Ceramic-coated by Swain Tech for heat management and weight reduction."
+  ],
+  "estetica": [
+    "Body: Full aluminum body restoration with hand-beaten panels by Ferrari Classiche, retaining original SWB proportions. Custom front splitter and rear diffuser by Pininfarina (limited-run homologation piece) with integrated tow hooks. Lightweight aluminum hardtop by Zagato (carbon fiber alternative available).",
+    "Wheels: Custom 15x7\" and 15x8.5\" Borrani wire wheels (replica by RuoteMilano) with knock-off spinners, wrapped in Pirelli P Zero Corsa tires (205/70R15 front, 225/70R15 rear). Brake calipers painted in Rosso Corsa with gold-painted hardware for period-correct aesthetics.",
+    "Interior: Full leather retrim by Saddleback Leather in Rosso Connolly hide, featuring a custom MOMO Prototipo steering wheel (380mm, suede-wrapped) and a bespoke dashboard overlay by Ferrari Classiche with Smiths gauges (300 km/h speedo, 10,000 RPM tach). Lightweight aluminum racing seats by Cobra Seats (FIA-approved) with Schroth 6-point harnesses."
+  ]
+}

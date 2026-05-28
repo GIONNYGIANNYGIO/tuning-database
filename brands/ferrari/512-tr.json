@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "512 TR",
+  "prestazioni": [
+    "Engine: F113 A 4.9L Flat-12 (48-valve, DOHC) with a custom Motec M150 ECU reflash optimized for 98 RON fuel, targeting 550+ hp at 7,800 RPM via individual throttle body (ITB) velocity stack tuning and a custom 3.5\" stainless steel exhaust system by Capristo (with 200-cell metallic catalytic converters for emissions compliance).",
+    "Forced induction: Twin-turbo setup using Garrett GT35R turbos (0.82 A/R, 62mm compressor wheels) with TiAL MV-R 44mm wastegates and a custom air-to-water intercooler system by CSF Racing (dual-core, 1200hp-rated) integrated into the rear decklid for optimal airflow.",
+    "Suspension: Full Ohlins TTX46 coilover kit with 3-way adjustable damping (rebound, compression, and high-speed compression), custom valved for the 512 TR's unequal-length A-arm geometry, paired with spherical bearing upgrades by SuperPro (polyurethane bushings replaced with 85D durometer spherical joints) and a 25mm rear anti-roll bar by Cusco."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion by Novitec (512 TR-specific kit, including extended front fenders, rear quarter panels, and a custom rear diffuser with integrated twin exhaust outlets), finished in a custom \"Rosso Corsa Metallic\" with matte black accents.",
+    "Aerodynamics: Custom front splitter by Vorsteiner (512 TR-specific, 3-piece design with adjustable dive planes) and a rear wing by 9 Lives Racing (3D-printed carbon fiber, 1,200mm chord, 200mm height, with integrated Gurney flap for downforce tuning).",
+    "Wheels: Forged 3-piece OZ Racing Ultraleggera HLT wheels (18x10.5\" front, 18x12.5\" rear) with custom offsets (+15mm front, +20mm rear) and Michelin Pilot Sport Cup 2 tires (275/35/18 front, 335/30/18 rear), paired with Brembo GT-R 6-piston calipers (380mm front rotors) and 4-piston rear calipers (355mm rotors)."
+  ]
+}

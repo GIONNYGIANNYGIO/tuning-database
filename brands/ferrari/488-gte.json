@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "488 GTE",
+  "prestazioni": [
+    "Engine: F154CB 3.9L twin-turbo V8 with reinforced Mahle Motorsport forged pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from SCAT Enterprises to handle 800+ hp at 8,500 RPM on VP Racing Fuels C16 (116 octane) with a Motec M150 ECU managing a custom 200-cell fuel map and dual Bosch Motorsport 0280158888 injectors per cylinder",
+    "Turbochargers: Garrett GTX5533R Gen II turbos with 76mm billet compressor wheels, 106mm turbine wheels, and TiAL Sport MV-R 60mm wastegates, paired with a custom 4-inch titanium exhaust manifold from Capristo and a secondary 4.5-inch Inconel downpipe feeding into a Akrapovič full titanium racing exhaust with electronically actuated bypass valves for FIA sound compliance",
+    "Suspension & Chassis: Öhlins TTX46 MkII 4-way adjustable dampers with 12-position rebound and 24-position compression settings, paired with a Ferrari Corse Clienti-spec carbon fiber front splitter and rear diffuser, reinforced with a full titanium bolt-on roll cage from G-Tech Motorsport and a 5-point FIA-spec harness from Schroth Racing, while running BBS FI21 18x13 front and 18x15 rear wheels with Michelin Pilot Sport Cup 2 R tires (305/680-R18 front, 325/705-R18 rear)"
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon fiber body kit from Ferrari Corse Clienti, including a GTE-spec front bumper with integrated dive planes, side skirts with NACA ducts for brake cooling, and a massive rear wing with a 1,200mm span and 300mm chord, adjustable in 5-degree increments via a hydraulic actuator system",
+    "Lighting: Full LED conversion with Osram Night Breaker Laser bulbs in the headlights and a custom rear light cluster with sequential turn signals using Philips LED modules, all controlled via a Motec PDM30 for precise electrical management",
+    "Interior: Full Alcantara-wrapped dashboard and door cards from Sabelt, paired with a carbon fiber steering wheel from Ferrari Corse featuring an integrated Motec C127 dash display, while the seats are replaced with Sparco Pro ADV racing seats in carbon-Kevlar construction, upholstered in Alcantera with custom Ferrari GTE embroidery"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "456 GTA",
+  "prestazioni": [
+    "F133 A V12 engine: Replace the stock intake manifold with a custom-fabricated carbon fiber unit from Novitec Rosso, featuring individual throttle bodies (ITBs) for each cylinder, paired with a Motec M150 ECU for precise fuel and ignition mapping to optimize the 5.5L naturally aspirated V12's 442 HP output to ~550 HP at 7,500 RPM with a 9,000 RPM redline.",
+    "Install a custom 3.5-inch stainless steel exhaust system by Capristo, featuring 200-cell catalytic converters and a bypass valve setup, terminating in quad 3.5-inch titanium tips, reducing backpressure by 30% while maintaining Ferrari's signature V12 tone at high RPMs.",
+    "Upgrade the stock F1-derived 6-speed automated manual transmission with a GTO Engineering sequential gearbox conversion, including a Sachs twin-disc carbon clutch, a Quaife ATB differential, and a custom paddle-shift system with 50ms shift times, paired with a lightweight flywheel from Fidanza."
+  ],
+  "estetica": [
+    "Replace the stock front bumper with a custom carbon fiber widebody kit from Liberty Walk, designed specifically for the 456 GTA, featuring aggressive canards, a front splitter with integrated air curtains, and a relocated tow hook for track use.",
+    "Install a set of OZ Racing Ultraleggera HLT wheels in a staggered 9x18 (front) and 11x19 (rear) configuration, wrapped in Pirelli P Zero Trofeo R tires (255/40/18 front, 295/35/19 rear), paired with a full carbon fiber hood from Novitec Rosso with functional heat extractors.",
+    "Apply a custom livery by Driftworks, featuring a matte Grigio Titanio base with hand-painted Ferrari Rosso Corsa accents, including a full-length racing stripe, side skirts with carbon fiber weave, and a rear diffuser from Vorsteiner with integrated LED brake cooling ducts."
+  ]
+}

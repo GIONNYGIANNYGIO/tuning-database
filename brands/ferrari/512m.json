@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "512M",
+  "prestazioni": [
+    "Replace the original *Tipo F110A* 4.9L flat-12 engine's Weber 48 IDA carburetors with a custom *FuelTech FT600* standalone ECU and *Motec M150* data logger, paired with *ID1000* fuel injectors and a *Radium Engineering* fuel surge tank to handle 1.5-bar boost from a *Garrett GT4202* turbocharger (hybrid billet wheel) on a *Tial MV-R* wastegate, while retaining the original dry-sump oiling system but upgrading to *Dailey Engineering* billet oil pump and *Setrab* 50-row oil cooler",
+    "Install a *Hewland FGA* 5-speed dog-ring gearbox with *Quaife ATB* differential and *Tilton* triple-plate carbon clutch, mated to a *Penske* 8760-series 3-way adjustable coilover suspension with *Ohlins* TTX40 dampers and *Whiteline* spherical bearing suspension arms, while reinforcing the chassis with *VSR* titanium bolts and *Sparco* bolt-in roll cage",
+    "Upgrade the braking system with *Brembo GT-R* 6-piston calipers (380mm front, 355mm rear) on *DBA 5000-series* two-piece rotors, paired with *Ferodo DS3.1* pads and *Goodridge* braided stainless steel lines, while integrating a *Bosch Motorsport* ABS controller for 12-stage adjustability"
+  ],
+  "estetica": [
+    "Replace the original *Pininfarina* body panels with a *Liberty Walk LB-WORKS* widebody kit (512M-specific, not 512BB) featuring carbon fiber fenders, front splitter, and rear diffuser, finished in *PPG Ferrari Rosso Corsa* with *3M Matte Black* accents and *Vorsteiner* carbon fiber side skirts",
+    "Install a *RE Amemiya* GT-II style rear wing (adapted for 512M) with *Aim Sports* LED third brake light and *Hella* 500-series headlights (HID conversion with *Morimoto* ballasts), while replacing the original *Borrani* wheels with *BBS LM-R* 18x12 front / 18x13 rear (ET15/ET5) wrapped in *Pirelli P Zero Trofeo R* 275/35 and 335/30 tires",
+    "Interior overhaul with *Recaro SPG* Kevlar seats (Ferrari 512M-specific mounting brackets), *MOMO* Prototipo steering wheel (quick-release hub), *Alcantara* headliner and door cards, *Defi BF* digital gauges (oil pressure, boost, AFR), and a *Rolls-Royce* picnic set (yes, really) mounted in the rear cargo area"
+  ]
+}

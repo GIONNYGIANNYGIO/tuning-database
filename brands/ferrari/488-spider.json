@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "488 SPIDER",
+  "prestazioni": [
+    "Engine: F154CB 3.9L Twin-Turbo V8 (710hp stock) – Full titanium internals upgrade with Carrillo H-beam connecting rods, JE forged pistons (9.5:1 compression), and a billet crankshaft from Manley Performance to handle 950hp on E85 fuel. Pair with a custom Motec M150 ECU calibration for aggressive ignition timing and fuel mapping, optimized for 35psi boost via twin Garrett GTX5533R Gen II turbos with ceramic ball bearings and TiAL MV-R 44mm wastegates.",
+    "Exhaust: Capristo 3.5-inch titanium full-system with 200-cell catalytic converters and electronically actuated bypass valves, integrated with the factory valvetronic system for seamless mode switching. Backed by a custom X-Force stainless steel muffler with quad 100mm carbon-fiber tips for weight savings and aggressive acoustics.",
+    "Suspension/Handling: Öhlins TTX46 coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression), paired with custom-made spherical bearing top mounts from SuperPro for zero compliance. Front and rear anti-roll bars upgraded to H&R 25mm adjustable units, with a full polybush kit from Powerflex (PFF80-8015 for subframe mounts). Brembo GT-R 6-piston calipers with 410mm carbon-ceramic rotors and Ferodo DS3.1 pads for track use."
+  ],
+  "estetica": [
+    "Aero: Novitec N-Largo widebody kit with carbon-fiber front splitter, side skirts, and a 3-piece adjustable rear wing (200kg downforce at 200km/h). Front bumper modified with a custom 3D-printed air curtain system to redirect airflow around the wheels, reducing drag by 8%. Underbody features a full Novitec carbon diffuser with integrated brake cooling ducts.",
+    "Wheels: HRE FF16 20x10.5 ET40 front and 21x12.5 ET45 rear, wrapped in Michelin Pilot Sport Cup 2 R tires (275/30/20 and 325/30/21). Forged center-locking system with titanium wheel bolts from BBS, reducing unsprung weight by 2.1kg per corner.",
+    "Interior: Full Alcantara retrim by Sabelt, including door cards, dashboard, and custom bucket seats with 6-point harnesses (Sabelt 6SF). Roll cage integrated with a custom bolt-in T45 steel structure from Matter Fab, painted in Ferrari Rosso Corsa with gold anodized joints. Steering wheel replaced with a MOMO Prototipo Evo with integrated Motec C127 dash display and paddle shifters for manual gear selection override."
+  ]
+}

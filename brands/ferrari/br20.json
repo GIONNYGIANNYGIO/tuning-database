@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "BR20",
+  "prestazioni": [
+    "Engine: F140 VB 6.5L V12 (naturally aspirated) – Full titanium internals upgrade with Carrillo forged connecting rods, JE 12.5:1 compression forged pistons, and a billet crankshaft from Manley Performance to handle 1,000+ hp on E85 fuel with a custom Motec M150 ECU calibration for aggressive ignition timing and fuel mapping.",
+    "Forced Induction: Twin Precision Turbo PT6266 CEA ball-bearing turbos with custom 3D-printed Inconel exhaust manifolds by Gintani, paired with a custom air-to-water intercooler system from CSF Racing and a TiAL MV-R 44mm wastegate setup for precise boost control at 1.5 bar (21.7 psi).",
+    "Suspension & Handling: Full Öhlins TTX46 coilover system with 3-way adjustable damping, custom valving for the BR20’s unique chassis geometry, and spherical bearing upper mounts from SuperPro. Rear subframe reinforcement with a custom tubular brace from Novitec, and a full carbon fiber front splitter with active aero from 991 Motorsports for downforce optimization."
+  ],
+  "estetica": [
+    "Body Kit: Full custom widebody conversion by Liberty Walk (LW-BR20 kit), featuring hand-laid carbon fiber fenders, side skirts, and a rear diffuser with integrated titanium exhaust outlets by Capristo. Front bumper lip with integrated DRLs from Novitec’s ‘Ferrari 812 Competizione’ aero package, modified for BR20 fitment.",
+    "Wheels & Brakes: Custom 21x11.5” front and 22x13” rear forged aluminum wheels by HRE (FF16 model) with a brushed titanium finish, wrapped in Michelin Pilot Sport Cup 2 R tires (295/25 R21 front, 335/25 R22 rear). Full carbon-ceramic brake system upgrade with Brembo GT-R calipers (6-piston front, 4-piston rear) and 420mm rotors with titanium hats from AP Racing.",
+    "Interior & Aero: Full Alcantara-wrapped interior with custom Recaro SPG XL seats (Ferrari-specific mounting brackets), a titanium roll cage by VAC Motorsports with integrated fire suppression system, and a custom digital dash from AIM MXS Strada with real-time boost, AFR, and G-force readouts. Rear wing: Custom 3D-printed carbon fiber GT3-style wing by APR Performance with adjustable angle of attack and integrated third brake light."
+  ]
+}

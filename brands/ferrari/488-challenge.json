@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "488 CHALLENGE",
+  "prestazioni": [
+    "F154CB 3.9L V8 twin-turbo engine: Replace stock IHI turbochargers with Garrett GTX5533R Gen II turbos (84mm compressor, 1.15 A/R turbine housing) paired with custom 3D-printed titanium anti-surge compressor housings to eliminate lag while maintaining Ferrari's 8,000 RPM redline. Upgrade fuel system with Bosch Motorsport 2,000cc/min port injectors and a secondary set of AEM 2200cc direct injectors for E85 compatibility, controlled via a Motec M150 ECU with Ferrari Challenge-specific CAN bus integration.",
+    "Install a custom 4-2-1 equal-length stainless steel exhaust manifold (TIG-welded 304L stainless, 1.75\" primary tubes) with thermal barrier coating from Swain Tech, paired with a secondary Akrapovič titanium exhaust system featuring 3.5\" diameter piping and electronically controlled butterfly valves for backpressure optimization. Replace the stock catalytic converters with GESI 400-cell metallic core cats to maintain emissions compliance while reducing restriction by 42%.",
+    "Upgrade the stock F1-derived dry-sump lubrication system with a Peterson Fluid Systems 4-stage pump (12 GPM capacity) and a custom 12-quart billet aluminum oil pan with integrated windage tray, designed to maintain oil pressure at 1.5G lateral loads. Replace the stock clutch with a Tilton 7.25\" triple-plate carbon-carbon clutch assembly with a billet steel flywheel (weight reduced to 12.8 lbs) and a Sachs Performance dual-mass flywheel delete kit for immediate throttle response."
+  ],
+  "estetica": [
+    "Install a full carbon fiber widebody kit from Novitec Ferrari (488 Challenge-specific, not Pista) featuring extended front fenders with integrated cooling ducts for the Brembo GT-R calipers, and a rear diffuser with active Gurney flaps controlled via the Motec ECU for adjustable downforce. Replace the stock rear wing with a 3D-printed titanium wing from 991 Labs, featuring a 1,200mm span and adjustable dual-element design with -5° to +15° angle range.",
+    "Upgrade the stock carbon fiber wheels with a set of HRE FF16 3-piece forged wheels (19x12.5\" front, 20x13.5\" rear) wrapped in Pirelli P Zero Trofeo R tires (305/645R19 front, 325/705R20 rear) with custom compound tuning for 100°C track temperatures. Install a custom titanium bolt kit from ARP (Grade 8 titanium, 12-point heads) to reduce unsprung weight by 18 lbs per corner.",
+    "Replace the stock interior with a full Alcantara-wrapped roll cage from Sparco (FIA 8862-2009 certified) featuring integrated carbon fiber door panels with quick-release mechanisms. Install a custom digital dash from AIM MXS Strada (Ferrari Challenge-specific CAN bus integration) with a 7\" high-brightness display, and replace the stock seats with Recaro Pole Position II carbon fiber seats (weight: 14.3 lbs each) with 6-point Schroth Profi II harnesses."
+  ]
+}

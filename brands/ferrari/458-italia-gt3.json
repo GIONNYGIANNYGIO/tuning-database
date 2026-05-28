@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "458 ITALIA GT3",
+  "prestazioni": [
+    "F136FB 4.5L V8 (90° naturally aspirated) with a custom GT3-spec dry-sump lubrication system featuring a Hiflow Engineering billet aluminum oil pan and integrated Accusump 3-quart pre-oiler for sustained high-G cornering",
+    "Motec M150 ECU with GT3-class FIA-homologated firmware, paired with a Pectel SQ6M data logger for real-time telemetry, including Bosch Motorsport MS4.0 knock sensors and individual cylinder fuel trims",
+    "Ohlins TTX40 4-way adjustable dampers with GT3-spec spherical bearing top mounts, custom valving for 12mm front/10mm rear ride height adjustment, and Brembo GT3-spec 6-piston front/4-piston rear calipers with 390mm/380mm floating rotors (AP Racing pads, Ferodo DS3000 compound)"
+  ],
+  "estetica": [
+    "Custom GT3-widebody conversion using Ferrari Corse Clienti-supplied carbon fiber fender flares (front: +50mm, rear: +70mm) with integrated Vortex Generators and a 3D-printed ABS diffuser extension (AIM Composites)",
+    "Full carbon fiber GT3-spec rear wing with dual-element Gurney flaps (adjustable 0-15° angle) and integrated DRS (Drag Reduction System) using a Bosch Motorsport linear actuator (part #0 281 002 736)",
+    "BBS FI-R GT3-spec 18x12J front / 18x13J rear forged magnesium wheels (offset +35mm front, +50mm rear) wrapped in Pirelli P Zero Trofeo R tires (305/645-R18 front, 325/705-R18 rear) with TPMS sensors (Schrader 2020 series)"
+  ]
+}

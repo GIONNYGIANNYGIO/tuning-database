@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "599 GTB FIORANO",
+  "prestazioni": [
+    "Engine: F140 C 6.0L V12 (6162cc) – Full titanium internals upgrade with Carrillo H-beam connecting rods, JE Pistons 12.5:1 forged pistons, and a billet crankshaft from Manley Performance to handle 900+ HP on E85 fuel with a custom Motec M150 ECU reflash for aggressive ignition timing and fuel mapping.",
+    "Forced Induction: Twin Precision Turbo PT6766 CEA turbochargers with TiAL MV-R 44mm wastegates and custom 3.5\" stainless steel turbo manifolds by Gintani, paired with a PWR 1200HP front-mount intercooler and dual Bosch 044 fuel pumps with ID1700x injectors for precise E85 delivery.",
+    "Suspension & Handling: Öhlins TTX46 coilovers with 3-way adjustable damping, custom spherical bearing upper control arms by Cusco, and a full carbon fiber front splitter with a 3D-printed active Gurney flap system by 991 Motorsport, reducing front-end lift by 40% at 200+ mph."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion by Novitec Rosso, including extended front fenders, rear quarter panels, and a custom ducktail spoiler with integrated LED brake light, all finished in a matte Viola Micalizzato paint with exposed carbon weave accents.",
+    "Aero: Custom 3D-printed titanium rear diffuser by Capristo with integrated exhaust outlets for the Inconel 718 quad-tip exhaust system by Novitec, paired with a front splitter featuring adjustable canards and a rear wing with active DRS (Drag Reduction System) controlled via the Motec ECU.",
+    "Interior: Full Alcantara retrim by Sabelt with custom embroidered Fiorano logos, a bespoke carbon fiber steering wheel by Personal with integrated Motec C127 dash display, and Recaro Pole Position seats with 6-point Schroth harnesses and a titanium roll cage by Matter Fab for FIA GT3 compliance."
+  ]
+}

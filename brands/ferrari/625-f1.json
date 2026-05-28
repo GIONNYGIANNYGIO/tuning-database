@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "625 F1",
+  "prestazioni": [
+    "Replace the original *Tipo 107* 2.5L inline-4 engine's Weber 50DCO carburetors with a custom-built fuel injection system using *Bosch Motorsport MS3 Pro* ECU and *Magneti Marelli* high-pressure fuel rails, paired with *Siemens DEKA 80lb/hr* injectors for precise fuel delivery at 12,000 RPM redline",
+    "Upgrade the factory *Tipo 107* engine's valvetrain with *Titanium intake valves* (Ferrea FV1000 series) and *Inconel exhaust valves* (Ferrea FV2000 series), paired with *Crower* titanium retainers and *Schrick* DLC-coated camshafts (290° intake / 280° exhaust duration, 12.5mm lift) to optimize airflow for the 1950s-era hemispherical combustion chambers",
+    "Install a *Garrett GT2860RS* turbocharger with a custom *Tial 44mm* wastegate and *TurboSmart* Kompact 50mm blow-off valve, paired with a *PWR* front-mount intercooler (custom core dimensions: 24\" x 12\" x 3.5\") and *Samco Sport* silicone hoses to support 1.5 bar of boost while maintaining the original *Tipo 107* engine's 11.5:1 compression ratio via *JE Pistons* forged 2618 aluminum slugs with *Total Seal* gapless rings"
+  ],
+  "estetica": [
+    "Replace the original *Scaglietti* aluminum body panels with *carbon fiber replicas* (hand-laid by *Callaway Carbon*) featuring a *3M Matte Anthracite* wrap with *PPF (Paint Protection Film)* on high-impact zones (front splitter, wheel arches) to reduce weight by 18kg while retaining the 1954 F1 aesthetic",
+    "Swap the original *Borrani* wire-spoke wheels for *HRE FF01* 16\"x16\" (front) and 16\"x18\" (rear) magnesium wheels with *Pirelli P Zero Trofeo R* tires (205/55R16 front, 285/40R18 rear) and *Brembo GT-R* 6-piston calipers clamping *380mm floating rotors* (upgraded from the original 300mm drums)",
+    "Install a *custom* *Rocket Bunny-inspired* widebody kit (fabricated by *Liberty Walk* for the 625 F1) with *carbon fiber* fender flares (extending track width by 50mm) and a *fixed* *Gurney flap* on the rear decklid, paired with a *custom* *Vorsteiner* front splitter and *Aeromotions* dual-element rear wing (adjustable angle: 0°-15°)"
+  ]
+}

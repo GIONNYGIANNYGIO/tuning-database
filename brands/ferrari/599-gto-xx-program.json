@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "599 GTO XX PROGRAM",
+  "prestazioni": [
+    "Engine: F140 C (6.0L V12, 730hp stock) – Full titanium internals upgrade with Carrillo H-beam connecting rods (220g lighter than OEM), JE forged pistons (12.5:1 compression), and a custom billet crankshaft by Pankl Racing Systems for 9,500 RPM redline capability. Pair with a bespoke dry-sump system by Peterson Fluid Systems (4-stage) to eliminate oil starvation during 1.8G lateral loads.",
+    "Forced Induction: Twin-turbo conversion using Garrett GTX5533R Gen II turbos (1.25 A/R, 88mm compressor wheels) with TiAL MV-R 60mm wastegates and a custom intercooler setup by Bell Intercoolers (dual-core, 1,200cfm airflow) mounted in the front bumper with carbon fiber ducting. Boost targets: 1.5 bar (21.7 psi) with a custom Motec M150 ECU managing sequential injection (ID1000x injectors) and individual throttle body tuning.",
+    "Suspension & Chassis: Full Ohlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression) and custom spring rates (1,200 lbs/in front, 1,400 lbs/in rear) for Nurburgring compliance. Pair with a Ferrari 599XX-spec carbon fiber front splitter and rear diffuser by Novitec Torado, including a 3D-printed titanium rear wing mount for a 900mm-wide GT3-style wing by APR Performance (carbon fiber, 3-element design)."
+  ],
+  "estetica": [
+    "Exterior: Full carbon fiber body conversion using 2x2 twill weave by Callaway Carbon (OEM-matched paint finish) including a 599XX-style front bumper with integrated LED turn signals (Lux H8 V4), side skirts with air curtains, and a rear diffuser with active Gurney flaps (electrically adjustable via a Motec PDM16).",
+    "Wheels: Forged magnesium center-lock wheels by HRE (FF16 20x12 +15 front, 21x13 +5 rear) with custom offset for 325/25R20 and 355/25R21 Michelin Pilot Sport Cup 2 R tires. Finish: Brushed titanium with Ferrari Rosso Corsa accents on the outer rim.",
+    "Interior: Full Alcantara retrim by Sabelt including a custom 599XX-style steering wheel with integrated Motec C127 dash display, carbon fiber Recaro Pole Position seats (FIA 8862-2009 certified) with 6-point Schroth Profi II harnesses, and a titanium roll cage by Matter Fab (TIG-welded, 4130 chromoly) with integrated fire suppression system (Lifeline Zero 360)."
+  ]
+}

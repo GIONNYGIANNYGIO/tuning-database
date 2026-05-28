@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "488 PISTA",
+  "prestazioni": [
+    "Installation of a **Novitec N-Tronic 740** ECU remap for the **F154CB** 3.9L twin-turbo V8, optimizing boost pressure to 1.6 bar (stock: 1.2 bar) with custom ignition timing maps for 740 HP at 8,000 RPM and 850 Nm of torque, while retaining Ferrari's proprietary **Ion Sensing** misfire detection and **Variable Torque Management** for drivability",
+    "Replacement of the stock **IHI turbochargers** with **Garrett GTX4202R Gen II** turbos (62mm compressor, 64mm turbine) paired with **Tial MV-R 44mm** external wastegates, **PTP Turbo Blankets**, and a **Motec M150** standalone ECU for closed-loop boost control, enabling 22 psi peak boost with **Ferrea F2144P** titanium valves and **Carrillo H-beam** connecting rods for 9,000 RPM reliability",
+    "Upgraded **Brembo GT-R** 6-piston front calipers with **390mm CCM-R** carbon-ceramic rotors (stock: 398mm) and **Ferodo DS2500** racing pads, paired with a **Hydratech** brake bias controller and **Motul RBF 660** brake fluid for 30-meter 100-0 km/h stopping performance, while retaining the **488 Pista's** ABS and **Side Slip Control** systems"
+  ],
+  "estetica": [
+    "**Novitec N-Largo** widebody kit with **carbon-fiber front splitter** (20mm extension), **rear diffuser** with integrated **GESi 100mm titanium exhaust tips**, and **3D-printed aluminum** side skirts with **active aerodynamic Gurney flaps** (adjustable via **Ferrari Manettino** switch)",
+    "**OMP Carbon-Kevlar** racing seats with **Schroth Profi II-6** 6-point harnesses, **Sabelt GT4** head restraints, and **Alcantara-wrapped** **488 Pista-specific** steering wheel with **MOMO** quick-release hub and **AiM MXS Strada** digital dash integration",
+    "**Vorsteiner V-FF 107** forged carbon-fiber wheels (20x10.5 ET35 front, 21x12.5 ET40 rear) wrapped in **Pirelli P Zero Trofeo R** tires (255/30 R20 front, 325/25 R21 rear), paired with **KW Variant 3 Clubsport** coilovers (3-way adjustable damping, **1,200 lb/in** front springs, **1,400 lb/in** rear springs) and **Ferrari-approved** **H&R** camber plates for -3.5° front, -2.8° rear alignment"
+  ]
+}

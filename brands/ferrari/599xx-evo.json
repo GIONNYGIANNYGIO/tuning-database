@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "599XX EVO",
+  "prestazioni": [
+    "Engine: F140 C V12 (6.0L naturally aspirated) with a bespoke BMC Racing carbon fiber high-flow intake system featuring a 102mm throttle body and individual runner velocity stacks, paired with a Motec M150 ECU reflash optimizing ignition timing for 8,600 RPM redline and 750+ HP on Shell V-Power 102 RON fuel",
+    "Exhaust: Capristo 3.5-inch titanium equal-length headers with 200-cell catalytic converters, mated to a custom Akrapovič titanium exhaust system featuring electronically actuated bypass valves and a secondary X-pipe resonator delete for 12 dB gain at 6,500 RPM",
+    "Suspension: Öhlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression), custom valved for Ferrari’s F1-derived magnetorheological rear damper system, paired with Tillet B12 carbon fiber racing seats and a Schroth 6-point harness for 1.5G lateral load capacity"
+  ],
+  "estetica": [
+    "Aerodynamics: Pagani Zonda R-inspired carbon fiber front splitter with active Gurney flaps (adjustable via steering wheel-mounted controls), paired with a custom Novitec Rosso rear diffuser featuring integrated LED brake cooling ducts and a 1,200mm wide carbon fiber rear wing with dual-plane adjustability (0-15 degrees)",
+    "Body: Bare carbon fiber weave (2x2 twill) full-body conversion by GTO Engineering, including a custom 599XX Evo-specific front hood with NACA ducts for brake cooling and a rear clamshell with integrated side-exit exhaust outlets, finished in a matte Viola Micalizzato with gloss black forged OZ Racing Ultraleggera HLT wheels (20x11 front, 21x13 rear) wrapped in Pirelli P Zero Trofeo R tires (295/30 R20 front, 345/25 R21 rear)",
+    "Interior: Full Alcantara-wrapped dashboard and door cards by Sabelt, featuring a custom 12.3-inch digital instrument cluster with Ferrari Corse Clienti telemetry integration, a carbon fiber MOMO Prototipo steering wheel with integrated paddle shifters for the 6-speed F1 SuperFast2 gearbox, and a bespoke titanium roll cage by Sparco with integrated fire suppression system (FE-36 agent)"
+  ]
+}

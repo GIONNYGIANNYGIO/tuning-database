@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "612 ONE-OFF",
+  "prestazioni": [
+    "Engine: F133F 6.0L V12 (65° naturally aspirated) – Full titanium internals upgrade with Carrillo H-beam connecting rods, JE forged pistons (12.5:1 compression), and a custom billet crankshaft by VAC Motorsports for 9,500 RPM redline capability",
+    "Forced induction: Twin Precision Turbo PT6766CE turbochargers with custom Inconel turbine housings, Tial MV-R 44mm wastegates, and a bespoke air-to-water intercooler system by CSF Racing (core volume: 4.2L, flow rate: 1,200 CFM)",
+    "Fuel & Ignition: Full Motec M150 ECU with individual cylinder tuning, ID1000x injectors (2,200cc/min), and a custom dual-pump fuel system featuring two Bosch Motorsport 044 pumps with a surge tank by Radium Engineering. Ignition upgraded to MSD 8516 coils with NGK R847-10 spark plugs (0.018\" gap)"
+  ],
+  "estetica": [
+    "Custom carbon fiber widebody kit by Novitec Rosso (612 Scuderia Spider-inspired, with 50mm rear fender flares and integrated side skirts), featuring a one-piece front splitter with active aerodynamic Gurney flaps (adjustable via cockpit switch)",
+    "Rear diffuser and GT wing by Vorsteiner (carbon fiber, 1,800mm span, 300mm chord, 3D-printed titanium endplates), designed in collaboration with Ferrari’s aerodynamics team for 300kg downforce at 250 km/h",
+    "Full bespoke interior by Sabelt: Carbon fiber bucket seats with 6-point harnesses (Sabelt 6SF), Alcantara-wrapped dashboard with a digital instrument cluster by AIM MXS Strada (12\" display), and a custom roll cage by Heigo (T45 steel, FIA-certified, integrated with the A-pillars and rear bulkhead)"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "550 MARANELLO",
+  "prestazioni": [
+    "Engine: F133A 5.5L V12 (515hp stock) – Full titanium internals upgrade with Carrillo H-beam connecting rods, JE forged pistons (11.5:1 compression), and a billet crankshaft from VAC Motorsports for 8,500 RPM reliability. Pair with a custom GT-Spirit dry sump system to eliminate oil starvation under 1.5G+ lateral loads.",
+    "Forced Induction: Twin Precision Turbo PT6766 CEA turbos (ball-bearing, 67mm inducer) with custom Inconel exhaust manifolds by Novitec Rosso, feeding into a GReddy intercooler core (800hp-capable) and a Motec M150 ECU with anti-lag and launch control for 0-60mph in 3.2s (stock: 4.4s).",
+    "Suspension & Handling: Öhlins TTX46 coilovers with 3-way adjustable damping (rebound, compression, high/low speed), paired with a full GTO-spec front subframe reinforcement kit from Ferrari Classiche. Rear toe links upgraded to spherical bearing units from Superformance, and Brembo GT-R 390mm 6-piston calipers with carbon-ceramic rotors (398x38mm) for 1.2G braking from 124mph."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon fiber body kit from Novitec Rosso’s ‘N-Largo’ package, including a 3D-scanned front splitter with integrated canards (22% more downforce at 155mph), a GT2-style rear diffuser with active Gurney flap (adjustable via cockpit switch), and a fixed carbon rear wing (1.8m span, 30kg downforce at 124mph).",
+    "Wheels & Stance: HRE FF16 3-piece forged wheels (9.5x19” front, 12x20” rear) with custom offset (-15mm front, -20mm rear) and Michelin Pilot Sport Cup 2 R tires (275/35 ZR19 front, 345/30 ZR20 rear). Fender flares widened 50mm per side via hand-rolled steel extensions, finished in Ferrari ‘Rosso Corsa’ with a satin clear coat.",
+    "Interior & Details: Full Alcantara retrim by Sabelt, including Recaro Pole Position seats (carbon shell, 6-point harnesses) and a custom roll cage from Matter Motorsport (FIA-spec, bolt-in, with integrated fire suppression system). Steering wheel replaced with a MOMO Prototipo (suede, 320mm diameter) featuring a Motec C127 dash display and paddle shifters for the 6-speed manual (no auto option)."
+  ]
+}

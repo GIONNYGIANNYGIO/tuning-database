@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "812 GTS",
+  "prestazioni": [
+    "Engine: F140 GA 6.5L V12 (800 CV stock) – Full titanium internals upgrade with Carrillo H-beam connecting rods, JE forged pistons (12.5:1 compression), and a billet crankshaft from Manley Performance to handle 1,000+ CV on E85 fuel. Pair with a custom Motec M150 ECU reflash for aggressive ignition timing and fuel mapping, optimized for 102-octane race fuel.",
+    "Forced Induction: Twin-turbocharged setup using Garrett GTX5533R Gen II turbos (84mm inducer, 1.15 A/R turbine housings) with TiAL MV-R 60mm wastegates and a custom 4.5-inch titanium exhaust system by Capristo, featuring 304 stainless steel headers and a secondary catalytic converter delete for maximum flow.",
+    "Suspension & Handling: Öhlins TTX46 coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression), paired with a full carbon fiber front splitter and rear diffuser by Novitec Torado, including a 3D-printed titanium front subframe reinforcement kit from 991 Racing to reduce flex under lateral G-forces."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon fiber body kit by Novitec N-Largo, including widened front fenders (30mm per side), aggressive side skirts, and a custom rear wing with a dual-element Gurney flap (adjustable via hydraulic actuators). Front bumper features integrated canards and a central splitter extension for improved downforce.",
+    "Wheels & Brakes: Forged 21-inch front and 22-inch rear wheels by HRE (FF16 model, 9.5x21 ET35 front, 12.5x22 ET45 rear) wrapped in Michelin Pilot Sport Cup 2 R tires (275/30 R21 front, 345/25 R22 rear). Brembo GT-R big brake kit with 420mm carbon-ceramic rotors, 6-piston calipers (front), and 390mm rotors with 4-piston calipers (rear), paired with Ferodo DS3.1 brake pads.",
+    "Interior & Details: Full Alcantara-wrapped interior by Sabelt, including custom bucket seats with 6-point harnesses, a carbon fiber steering wheel with integrated Motec C127 dash display, and a titanium roll cage by Heigo for FIA GT3 compliance. Exterior accents include a custom matte Rosso Corsa paint with gold pinstriping by PVD Coatings, and a carbon fiber engine cover with a clear polycarbonate window to showcase the F140 GA V12."
+  ]
+}

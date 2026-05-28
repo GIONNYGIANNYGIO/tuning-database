@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "500 F2",
+  "prestazioni": [
+    "Replace the original *Tipo 500* 2.0L inline-4 (engine code: *500.000*) with a fully machined and balanced *Weber 40DCO3* carburetor setup, featuring 42mm venturis, polished throttle bodies, and a custom *TIG-welded 304 stainless steel intake manifold* designed by *Bizzarrini Engineering* to optimize airflow for the 7,500 RPM powerband",
+    "Install a *Scuderia Playteam* billet aluminum crankshaft with a 78mm stroke (up from 75mm) and *Carrillo H-beam connecting rods* (4340 steel, 144mm center-to-center) to support a 12.5:1 compression ratio, paired with *Mahle Motorsport forged pistons* (82mm bore, custom dome profile) for 2.5L displacement and 220+ HP at 8,000 RPM",
+    "Integrate a *Bosch Magneti Marelli* dual-coil ignition system with *NGK B9EGV* racing spark plugs (0.6mm gap) and a *custom 4-2-1 equal-length exhaust header* fabricated from *Inconel 625* by *Capristo*, terminating in a *SuperSprint* 60mm titanium exhaust system with a *valved bypass* for FIA compliance"
+  ],
+  "estetica": [
+    "Apply a *Pininfarina Classiche* hand-brushed *Rosso Corsa* (Ferrari code: *100/9*) paint job with *PPG Concept* clearcoat, featuring *bare aluminum side skirts* (polished to 800-grit) and *Scuderia Ferrari* prancing horse decals in *3M 1080 vinyl* (matte black, 150mm height) on the nose and rear deck",
+    "Replace the original *Nardi* steering wheel with a *Personal* 380mm suede-wrapped wheel (black Alcantara, red stitching) and install *Sabelt 6-point harnesses* (FIA 8853/98 homologated) in *carbon fiber bucket seats* by *Sparco Pro ADV* (shell thickness: 2.5mm, weight: 8.5kg each)",
+    "Fit a *Voltex* Type-3 rear wing (200mm chord, 1,200mm span) with *adjustable carbon fiber endplates* (30°–45° angle) and *custom aluminum wing stands* (CNC-machined from 7075-T6, anodized gold), paired with a *front splitter* in *dry carbon fiber* (20mm overhang, 3mm thickness) by *Rocket Bunny* for the 500 F2 chassis"
+  ]
+}

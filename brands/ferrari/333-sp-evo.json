@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "333 SP EVO",
+  "prestazioni": [
+    "Engine: F130E 4.0L V12 (Type F130B) with custom dry-sump lubrication system featuring a Hiflow Engineering billet aluminum oil pan and dual Moroso 22300 high-capacity oil pumps to prevent oil starvation during sustained 9,500 RPM endurance racing.",
+    "Forced Induction: Twin Precision Turbo PT6266 CEA ball-bearing turbos with custom 3D-printed Inconel 625 turbine housings (designed by TurboSmart for Ferrari’s unique exhaust manifold geometry) and TiAL MV-R 44mm wastegates, paired with a custom Spearco 4.5\" intercooler core (bar-and-plate, 22\" x 12\" x 4.5\") and Vibrant Performance 14801 silicone couplers.",
+    "Fuel System: Full Motec M150 ECU with custom CAN bus integration for Ferrari’s Marelli IAW 16M ignition system, paired with a Radium Engineering dual-channel fuel surge tank (2.5L capacity) and twin Bosch Motorsport 044 high-flow fuel pumps, feeding ID1700x injectors and a custom billet aluminum fuel rail by Injector Dynamics."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon fiber body kit by APR Performance (333 SP-specific) including a 3-piece front splitter with integrated dive planes, rear diffuser with Gurney flap (adjustable via quick-release Dzus fasteners), and a fixed-position rear wing with dual-element airfoils (NACA 63A-012 profile) mounted on CNC-machined aluminum pedestals.",
+    "Wheels: OZ Racing Superforgiata 18x12\" (front) and 18x13\" (rear) in a custom gold-bronze finish, wrapped in Pirelli P Zero Trofeo R tires (335/645R18 front, 345/680R18 rear) with TPMS sensors integrated into the valve stems via HRE Performance’s FlowForm technology.",
+    "Interior: Full Alcantara-wrapped cockpit by Sabelt, featuring a custom 6-point harness bar (TIG-welded 4130 chromoly) with Schroth Profi II 6-point harnesses, a MOMO Prototipo steering wheel (330mm diameter, suede-wrapped) with integrated Motec C127 dash display, and a bespoke carbon fiber center console housing a Motec PDM15 power distribution module."
+  ]
+}

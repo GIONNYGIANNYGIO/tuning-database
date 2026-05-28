@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "550 BARCHETTA",
+  "prestazioni": [
+    "Engine: F133A 5.5L V12 (65° DOHC, 48-valve) – Full titanium internals upgrade with Carrillo forged connecting rods (H-beam, 4340 steel, 6.123\" length) and JE Pistons (9.5:1 compression, custom dome for 550 Barchetta's combustion chamber geometry).",
+    "Forced Induction: Twin Precision Turbo PT6266 CEA ball-bearing turbos (62mm inducer, 66mm exducer) with custom 3D-printed Inconel 625 exhaust manifolds (equal-length, 1.75\" primary tubes) and Turbosmart Race Port 45mm wastegates (set to 1.5 bar peak boost).",
+    "Fuel & Ignition: Full Motec M150 ECU with dual Bosch Motorsport 0280158888 1200cc/min high-impedance injectors (staged injection) and MSD 85693 Digital 6AL-2 ignition box with NGK IFR9E-11 Iridium racing plugs (0.028\" gap, gapped for 1.5 bar boost)."
+  ],
+  "estetica": [
+    "Body: Novitec Rosso 550 Barchetta-specific widebody kit (carbon fiber, 50mm rear fender flares, 30mm front) with custom 3M Matte Graphite vinyl over Ferrari Rosso Corsa paint (code: 312/C).",
+    "Aerodynamics: Custom Vorsteiner GT-S front splitter (carbon fiber, 3-stage adjustable) and a 9 Lives Racing GT3-spec rear wing (carbon fiber, 1800mm span, 300mm chord, 3D-printed aluminum endplates).",
+    "Wheels: HRE P101SC 20x10.5\" (front) and 20x12.5\" (rear) forged monoblock wheels with custom Ferrari 5-bolt PCD (108mm) adapters, wrapped in Michelin Pilot Sport Cup 2 R tires (275/30 ZR20 front, 325/25 ZR20 rear)."
+  ]
+}

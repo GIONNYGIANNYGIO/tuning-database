@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "375 PLUS",
+  "prestazioni": [
+    "Engine: Replace the original *Tipo 102* 4.5L V12 (engine code *102*) with a fully machined and balanced *Tipo 114* 4.9L V12 block, bored to 88mm and stroked to 78mm using a custom billet crankshaft from *Pankl Racing Systems*, achieving 5.2L displacement. Pair with forged *Mahle Motorsport* pistons (12.5:1 compression) and *Carrillo* H-beam connecting rods for 600+ HP at 7,800 RPM on *VP Racing Fuels* C16.",
+    "Forced Induction: Twin *Garrett GT42RS* turbochargers with *Tial* 50mm wastegates and *Precision Turbo* 46mm external wastegate actuators, mounted on a custom *Sparco* titanium exhaust manifold. Intercooling via a *PWR* dual-core front-mount intercooler with *AEM* water/methanol injection (50/50 mix) for intake temps under 45°C at 2.2 bar boost.",
+    "Drivetrain: *Hewland* 5-speed transaxle with *Quaife* ATB differential, reinforced with *Xtrac* billet gears and *AP Racing* twin-plate carbon clutch. Suspension overhaul with *Öhlins* TTX40 coilovers (adjustable damping, 200mm travel) and *Eibach* 1,200 lb/in springs, paired with *Brembo* GT-R 6-piston calipers and *Pagid* RS29 brake pads on 18-inch *OZ Racing* magnesium wheels (12x18 front, 14x18 rear)."
+  ],
+  "estetica": [
+    "Body: Full *Liberty Walk* widebody conversion with hand-formed *3M* carbon fiber fenders (2.5-inch flares) and a *Rocket Bunny* front splitter with *Vortex Generators* for downforce. Rear diffuser by *AeroTech Designs* in *Toray* T800 carbon fiber, integrated with *DTM-style* side skirts and a *Voltex* GT-wing (3-element, 1,800mm span) for 400kg of downforce at 250 km/h.",
+    "Interior: *Recaro* SPG XL seats with *Schroth* 6-point harnesses, wrapped in *Bridge of Weir* leather with *Alcantara* suede headliner. *Momo* *Mod.78* steering wheel (380mm diameter) on a *NRG* quick-release hub, paired with a *Motec* C187 dash display and *Bosch* MS4.2 ECU controls integrated into a *CAE* shifter (short-throw, billet aluminum).",
+    "Lighting: *Hella* *Classic 500* LED headlights with *Lux HID* 5,000K bulbs and *GTR Lighting* sequential turn signals. Rear lighting upgraded to *Osram* *Night Breaker* LEDs with *Morimoto* *XB35* fog lights (3,000 lumen) in custom *Brembo* GT-R-style housings."
+  ]
+}
