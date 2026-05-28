@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "MONZA SP2",
+  "prestazioni": [
+    "Engine: F140 GA V12 (6.5L naturally aspirated) – Full titanium internals upgrade with Carrillo H-beam connecting rods, JE forged pistons (12.5:1 compression), and a billet crankshaft from Manley Performance to handle 1,000+ HP on E85 fuel with a custom Motec M150 ECU reflash for aggressive ignition timing and fuel mapping.",
+    "Forced induction: Twin Precision Turbo PT6766 CEA ball-bearing turbos with custom 3D-printed titanium exhaust manifolds by Novitec, paired with a GReddy intercooler core (1200HP-rated) and a custom 4-inch titanium exhaust system with Akrapovič Racing Line headers and straight-pipe bypass valves for on-demand backfire tuning.",
+    "Suspension & Handling: Öhlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression), custom spherical bearing control arms by Novitec, and a full carbon fiber monoblock brake kit from Brembo GT-R (6-piston calipers, 410mm rotors) with Ferodo DS3000 racing pads and stainless steel braided lines."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon fiber widebody kit by Novitec N-Largo, featuring extended front fenders (30mm wider), aggressive side skirts with integrated air curtains, and a custom rear diffuser with active Gurney flaps controlled by the Motec ECU for dynamic downforce adjustment.",
+    "Exterior: Custom matte Viola Micalizzato paint with PPF (Paint Protection Film) by XPEL Stealth, carbon fiber side mirrors by Novitec, and a bespoke front splitter with integrated LED turn signals by Diode Dynamics. Rear wing is a custom 3D-printed carbon fiber unit with adjustable angle (0-15 degrees) and integrated third brake light.",
+    "Interior: Full Alcantara retrim by Sabelt, including custom racing seats with 6-point harnesses (Schroth Profi II), a carbon fiber steering wheel with integrated Motec C127 dash display, and a bespoke titanium shift knob by Novitec. The roll cage is a TIG-welded chrome-moly steel unit by Matter Fab, painted in Rosso Corsa with carbon fiber accents."
+  ]
+}

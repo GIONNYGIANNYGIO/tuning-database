@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "DINO 308 GT4",
+  "prestazioni": [
+    "Engine: F106 AL 2.9L V8 (2926cc) with a custom-built Colombo-derived dry-sump system featuring a Moroso 22000-series billet oil pan and a Peterson 4000-series external oil pump for sustained high-RPM stability (up to 9,500 RPM redline).",
+    "Forced Induction: Twin-turbo setup using Garrett GT35R turbos (82mm compressor, 62mm turbine) with TiAL MV-R 44mm wastegates and custom 3.5-inch stainless steel exhaust manifolds by Burns Stainless, paired with a GReddy Profec B Spec II boost controller targeting 1.2 bar (17.4 psi) peak boost.",
+    "Fuel & Ignition: Full sequential fuel injection conversion using Bosch Motorsport 0280158109 1,000cc injectors, Walbro 450 LPH in-tank fuel pump, and a Motec M150 ECU with custom dyno-tuned maps for 98 RON fuel. Ignition system upgraded to MSD 8511 Digital 7 Plus with NGK R847-10 iridium plugs and custom 8mm Magnecor KV85 racing wires."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion using a custom-made Rocket Bunny-inspired kit (GT4-specific, not 308 GTB) with extended front fenders (2.5-inch flares), rear quarter panels (3-inch flares), and a ducktail spoiler by Novitec Rosso, all finished in matte Ferrari Rosso Dino (original 1970s hue).",
+    "Wheels: OZ Racing Ultraleggera HLT 18x9.5 ET25 front and 18x11 ET15 rear, wrapped in Pirelli P Zero Trofeo R tires (245/40/18 front, 295/35/18 rear) with custom Ferrari Dino center caps and titanium wheel bolts by ARP.",
+    "Interior: Full Alcantara retrim by Sabelt with custom Ferrari Daytona-style seats (carbon fiber shells, 4-point harnesses), a MOMO Prototipo steering wheel (380mm diameter, suede grip), and a digital dash conversion using a Race Technology DL1 data logger with AIM MXS Strada display, retaining the original Dino GT4 wood-rimmed shift knob."
+  ]
+}

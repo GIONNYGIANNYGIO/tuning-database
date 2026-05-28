@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "PUROSANGUE TRACK EDITION CONCEPT",
+  "prestazioni": [
+    "F160CB 6.5L V12 engine recalibrated with a Motec M182 ECU for 850+ hp via direct port methanol injection (AEM 30-0300 kit) and custom camshafts (Ferrari Corse Clienti-spec profiles, 290° duration, 12.5mm lift)",
+    "Garrett GTX5533R turbocharger (single, custom-machined titanium compressor wheel) with a Tial MV-R 60mm wastegate and a custom 4.5\" titanium downpipe (Capristo) bypassing the OEM catalytic converters",
+    "Ohlins TTX46 MkII coilovers with 3-way adjustable damping (12-position rebound, 24-position compression, and adjustable ride height via billet aluminum spring perches) and spherical bearing top mounts (Tractive Suspension)"
+  ],
+  "estetica": [
+    "Rocket Bunny widebody kit (carbon fiber, 50mm extended fenders with integrated air curtains) paired with a custom front splitter (9Layer carbon, 3D-printed titanium support brackets) and a fixed rear wing (Gurney flap, 1.2m span, 3D-printed aluminum honeycomb core)",
+    "Brembo GT-R 6-piston monobloc calipers (gold anodized) with 420mm carbon-ceramic rotors (surface-treated with boron nitride for thermal stability) and custom titanium brake lines (Goodridge G-Stop)",
+    "Forge Motorsport carbon fiber engine cover (clear-coated with Ferrari Rosso Corsa tint) and a custom titanium exhaust system (Capristo, 102mm diameter, Inconel 625 headers with quad 120mm outlets)"
+  ]
+}

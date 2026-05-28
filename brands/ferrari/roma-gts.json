@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "ROMA GTS",
+  "prestazioni": [
+    "Engine Code: F152FL (3.9L Twin-Turbo V8) - Full Novitec N-Tronic ECU remap with bespoke 98 RON fuel mapping, increasing boost pressure to 1.4 bar (stock: 1.2 bar) and optimizing ignition timing for 780 HP (stock: 612 HP) with a 25% torque increase (850 Nm at 3,000 RPM).",
+    "Forced Induction: Novitec PowerXtra S1 twin-turbo upgrade with Garrett GTX4274R Gen II turbos, billet compressor wheels, and 3D-printed Inconel turbine housings for reduced lag and 18% higher airflow efficiency. Paired with Novitec high-flow titanium downpipes and a custom Novitec X-Pipe exhaust system with 3.5\" diameter piping and active butterfly valves for backpressure optimization.",
+    "Suspension & Handling: Öhlins Road & Track DFV 2-way adjustable coilovers with 30-way compression/rebound damping, custom valving for the Roma GTS’s 50:50 weight distribution, and 20mm lower ride height. Paired with Novitec Sport Springs (25% stiffer) and Brembo GT 390mm front/380mm rear 2-piece floating rotors with Ferrari-specific caliper pistons and Ferodo DS2500 brake pads for 30% shorter stopping distances."
+  ],
+  "estetica": [
+    "Aerodynamics: Novitec N-Largo widebody kit with carbon fiber front splitter, side skirts, and rear diffuser, increasing downforce by 40% at 200 km/h. Includes a custom Novitec rear wing with dual-element Gurney flaps and active angle adjustment via Ferrari’s Side Slip Control (SSC) system.",
+    "Wheels & Tires: Novitec NF10 21\" x 9.5\" (front) / 21\" x 12\" (rear) forged aluminum wheels with Ferrari-specific offset (ET30 front, ET40 rear) and Michelin Pilot Sport Cup 2 R tires (275/30 ZR21 front, 345/25 ZR21 rear) for 15% higher lateral grip.",
+    "Exterior Styling: Novitec carbon fiber engine cover with exposed F152FL engine bay detailing, custom Novitec front grille with laser-cut Ferrari prancing horse emblem, and a Novitec rear light tint (smoked with red LED accents). Full Novitec carbon fiber mirror caps and a custom Novitec titanium exhaust finisher with laser-engraved Ferrari logo."
+  ]
+}

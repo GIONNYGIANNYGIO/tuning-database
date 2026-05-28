@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "SP2 MONZA EVO",
+  "prestazioni": [
+    "Engine: F140 GA V12 (6.5L naturally aspirated) with a custom titanium 6-into-1 equal-length exhaust manifold by Capristo, featuring 409-grade stainless steel headers and a secondary bypass valve for optimized backpressure at 9,000 RPM",
+    "Forced induction: Twin-turbocharged conversion using Garrett GTX5533R Gen II turbos (84mm compressor, 1.15 A/R turbine housing) with TiAL MV-R 60mm wastegates and a custom intercooler setup by CSF Racing (dual-core, 1,200 HP capacity) mounted in the front bumper with carbon fiber ducting",
+    "ECU and fueling: Motec M150 ECU with a custom flex-fuel calibration (E85 compatible) paired with a Radium Engineering dual-port fuel surge tank, twin Bosch Motorsport 044 high-flow fuel pumps, and ID1700x injectors (2,200 cc/min) for 1,200+ HP on E85"
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon fiber body kit by Novitec Torado, including a 3D-printed front splitter with active Gurney flaps (adjustable via hydraulic actuators), a rear diffuser with integrated titanium strakes, and a fixed rear wing with a NACA duct-fed DRS system (inspired by F1, controlled via the Motec ECU)",
+    "Wheels and tires: HRE FF16 flow-formed wheels (20x12 front, 21x13 rear) with custom center-lock adapters, wrapped in Pirelli P Zero Trofeo R tires (285/30 R20 front, 355/25 R21 rear) and paired with Brembo GT-R monoblock calipers (6-piston front, 4-piston rear) with carbon-ceramic rotors (410mm front, 390mm rear)",
+    "Interior: Full Alcantara-wrapped cockpit by Sabelt, featuring a custom 3D-printed titanium shift knob (for the 7-speed F1 dual-clutch), a digital dash by AIM MXS Strada (with live telemetry from the Motec ECU), and a bespoke roll cage by Sparco (chromoly steel, FIA 8862-2009 certified) with integrated fire suppression system by Lifeline"
+  ]
+}

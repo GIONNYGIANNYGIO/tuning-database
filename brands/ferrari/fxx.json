@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "FXX",
+  "prestazioni": [
+    "Engine: F140 DA (6.3L V12, 850hp stock) – Full titanium internals upgrade with Carrillo H-beam connecting rods, JE forged pistons (13.5:1 compression), and a custom billet crankshaft by Pankl Racing Systems for 1,050hp on 102-octane fuel with Motec M150 ECU recalibration for aggressive ignition timing and fuel mapping.",
+    "Forced Induction: Single BorgWarner EFR 9280 turbocharger (1.25 A/R turbine housing) with a custom 4.5-inch titanium downpipe and GReddy Profec B Spec II boost controller, pushing 1.8 bar (26 psi) of boost with a custom air-to-water intercooler by PWR Performance.",
+    "Suspension & Handling: Öhlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression), paired with a custom carbon fiber front strut brace by 281 Motorsports and spherical bearing rear subframe bushings by SuperPro for chassis rigidity."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon fiber FXX Evoluzione aero kit (front splitter, side skirts, and rear diffuser) by Ferrari Corse Clienti, paired with a custom 3D-printed active rear wing with Gurney flaps and DRS (Drag Reduction System) by Vorsteiner.",
+    "Exterior: Custom matte Rosso Corsa vinyl wrap with exposed carbon fiber weave on the hood, roof, and rear diffuser, featuring hand-painted Scuderia Ferrari stripes by Dr. ColorChip. OEM FXX-specific side mirrors replaced with carbon fiber units by Novitec Rosso.",
+    "Wheels & Brakes: OZ Racing Ultraleggera HLT wheels (19x12 front, 20x13 rear) with custom center-lock adapters, wrapped in Pirelli P Zero Trofeo R tires (295/30 R19 front, 345/30 R20 rear). Brembo GT-R monoblock calipers with 400mm carbon-ceramic rotors and Ferodo Racing DS3000 brake pads."
+  ]
+}

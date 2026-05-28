@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "SERGIO",
+  "prestazioni": [
+    "Engine: F154BB 3.9L Twin-Turbo V8 (605hp stock) – Full titanium internals upgrade with Carrillo H-beam connecting rods, JE 9.5:1 forged pistons, and a billet crankshaft from Manley Performance to handle 900hp+ on E85 fuel. Pair with a custom Motec M150 ECU for direct port injection control and individual cylinder trimming.",
+    "Forced Induction: Twin Garrett GTX5533R Gen II turbochargers with TiAL MV-R 44mm wastegates and custom 4-inch Inconel downpipes (fabricated by Gintani) to eliminate backpressure. Upgraded intercoolers from PWR with dual-core 1200hp capacity and integrated water-methanol injection (AEM 3400psi pump) for intake temps below 40°C at 2.5 bar boost.",
+    "Drivetrain: 7-speed F1 dual-clutch transmission reinforced with a Wavetrac LSD and a custom Quaife ATB differential. Clutch Masters FX800 twin-disc carbon clutch with billet flywheel for 0-60mph in 2.3s. Custom half-shafts from The Driveshaft Shop (3.5-inch chromoly) to handle torque spikes."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon-fiber body kit from Novitec Rosso (Sergio-specific) with a 3D-printed front splitter (CFD-optimized for 200kg downforce at 200km/h) and a fixed rear wing from 991 GT3 RS (modified mounting points). Underbody diffuser from APR Performance with active Gurney flaps (electronic actuation via Motec PDM).",
+    "Wheels & Brakes: Forged 20-inch front / 21-inch rear OZ Racing Ultraleggera HLT wheels (9.5J/12.5J) with custom Ferrari center caps. Brembo GT-R monoblock calipers (6-piston front, 4-piston rear) with 420mm carbon-ceramic rotors (upgraded from CCM-R) and Ferodo DS3000 pads for 1.2g deceleration.",
+    "Interior: Full Alcantara retrim by Sabelt with custom 6-point harnesses (Schroth Profi II) and a bolt-in FIA-spec roll cage (T45 steel, designed by Safety Devices). Digital dash upgrade to a Motec C127 with integrated lap timer, boost gauge, and EGT sensors (K-type thermocouples)."
+  ]
+}

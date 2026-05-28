@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "SF90 STRADALE",
+  "prestazioni": [
+    "Upgrade the F154FB 4.0L twin-turbo V8 with a bespoke Weistec Engineering Stage 2+ hybrid turbo system featuring Garrett GTX5533R Gen II turbos, billet compressor wheels, and 3D-printed Inconel turbine housings to achieve 1,100+ HP on E85 while maintaining OEM drivability and Ferrari's flat-plane crank harmonics",
+    "Install a full titanium Akrapovič Evolution Line Titanium exhaust system with 4-2-1 equal-length headers, 304 stainless steel downpipes, and electronically controlled bypass valves to optimize backpressure for the F154FB's unique 120° crankshaft design, paired with a custom Motec M150 ECU remap for seamless hybrid system integration",
+    "Replace the OEM carbon-fiber driveshaft with a 1-piece billet aluminum driveshaft from GKN Driveline, featuring a proprietary spline design to handle the SF90's 800 Nm of torque, while upgrading the rear limited-slip differential to an OS Giken Super Lock LSD with 45% preload for improved power delivery to the 295/30 ZR20 Pirelli P Zero rear tires"
+  ],
+  "estetica": [
+    "Install a full Novitec N-Largo widebody kit with 3D-scanned carbon-fiber fenders, extending the front by 40mm and the rear by 60mm to accommodate the upgraded 20x11.5 ET25 front and 21x13.5 ET40 rear forged aluminum BBS FI-R wheels, wrapped in custom Michelin Pilot Sport Cup 2 R tires (275/30 front, 325/25 rear)",
+    "Replace the OEM front splitter with a 3D-printed carbon-fiber Vorsteiner V-FF1000 aero package, featuring an active Gurney flap system synchronized with the SF90's hydraulic suspension, and integrate a custom rear diffuser from RW Carbon with integrated LED brake cooling ducts for the Brembo CCM-R carbon-ceramic brakes",
+    "Install a full custom interior by Sabelt featuring a 6-point FIA-spec harness bar with integrated roll cage, Alcantara-wrapped Recaro SPG XL bucket seats with carbon-fiber shells, and a bespoke digital dash from AIM MXS Strada with real-time telemetry for the F154FB's hybrid system, including battery voltage, MGU-K power delivery, and turbo boost pressure"
+  ]
+}

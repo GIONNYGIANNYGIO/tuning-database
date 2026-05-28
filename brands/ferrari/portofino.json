@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "PORTOFINO",
+  "prestazioni": [
+    "Engine: F154BD 3.9L Twin-Turbo V8 (612hp stock) – Full bolt-on Stage 2+ upgrade with a custom Weistec Engineering ECU flash (optimized for 93 octane + E85 blend), paired with a Novitec Rosso F154BD-specific turbo kit featuring Garrett GTX4271R Gen II turbos (1.25 A/R, billet compressor wheels, 64mm inducers) and a custom Novitec stainless steel 3.5\" downpipe with 200-cell catalytic converters for emissions compliance. Supporting mods include a CSF Racing dual-core intercooler (50% larger than OEM), a Novitec high-flow fuel pump (450 LPH), and ID1000x injectors for E85 compatibility.",
+    "Suspension: Full Öhlins Road & Track DFV coilover kit (Ferrari-specific valving, 3-way adjustable damping, 20mm drop from stock) with custom Eibach ERS Hypercoil springs (progressive rate, 25% stiffer than OEM) and a Novitec front strut brace (T6061 aluminum, 30% stiffer than Ferrari’s optional carbon brace). Rear subframe reinforcement via a 3M VHB-taped Novitec aluminum brace to reduce flex under hard acceleration.",
+    "Drivetrain: Novitec 7-speed F1 dual-clutch transmission tune (aggressive shift logic, -20% shift time, launch control optimized for 4,500 RPM) with a custom South Bend Clutch Stage 3+ twin-disc clutch (ceramic-metallic friction, 800 ft-lb torque capacity) and a Quaife ATB helical LSD (45% preload) for the rear axle. Differential cooling via a Setrab 10-row oil cooler with a Davies Craig EWP150 electric pump."
+  ],
+  "estetica": [
+    "Aero: Novitec Rosso N-Largo widebody kit (carbon fiber, 50mm wider front fenders, 70mm wider rear) with integrated carbon fiber side skirts and a custom Novitec rear diffuser (3D-printed PETG, 30% more downforce than OEM). Front splitter upgraded to a 9H Labs carbon fiber unit (adjustable angle, +15kg downforce at 200 km/h) and a custom Novitec carbon fiber rear wing (dual-element, 1,200mm span, +40kg downforce at 250 km/h).",
+    "Wheels: Forged HRE FF16 flow-formed wheels (20x9.5 +35 front, 20x12 +45 rear) with custom Novitec center-lock adapters (titanium hardware) and Michelin Pilot Sport Cup 2 R tires (275/30/20 front, 325/30/20 rear). Brake system upgraded to a Brembo GT-R 6-piston front/4-piston rear big brake kit (400mm two-piece rotors, J-hook slots, R90 compound pads) with custom Novitec titanium brake lines.",
+    "Exterior/Interior: Full 3M Matte Satin Ferrari Rosso Corsa wrap with Novitec carbon fiber mirror caps, a custom Novitec carbon fiber engine cover (heat-resistant clear coat), and a Novitec titanium exhaust system (dual 102mm outlets, Inconel 625 headers, bypass valves for backpressure control). Interior features a full Alcantara retrim (Rosso Corsa stitching) with Novitec carbon fiber door cards, a custom MOMO Mod.73 steering wheel (suede, 350mm diameter, integrated quick-release), and a roll cage by Heigo (T45 steel, bolt-in, 6-point, carbon fiber-wrapped)."
+  ]
+}

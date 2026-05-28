@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "SP38",
+  "prestazioni": [
+    "Engine: F154CB 3.9L twin-turbo V8 (derived from 488 Pista) with a custom Novitec-engineered Stage 3+ ECU flash, targeting 800+ hp via upgraded IHI turbochargers (replaced with Garrett GTX4202R Gen II turbos, billet compressor wheels, 0.82 A/R turbine housings) and a bespoke Novitec-Toretto titanium exhaust system with 3.5-inch diameter Inconel headers and secondary cat delete, paired with a Novitec carbon fiber intake manifold and 1,000cc ID1000 injectors",
+    "Suspension: Öhlins TTX46 coilovers with 3-way adjustable damping (compression, rebound, and high/low-speed compression), custom-valved for the SP38’s aluminum-intensive spaceframe chassis, paired with Novitec’s SP38-specific front and rear anti-roll bars (24mm front, 22mm rear, adjustable in 3 positions) and spherical bearing subframe mounts (replacing OEM rubber bushings) for sharper turn-in response",
+    "Drivetrain: Novitec-engineered 7-speed F1 dual-clutch transmission reinforcement kit (billet aluminum shift forks, upgraded synchros, and a carbon fiber driveshaft) with a custom TCU tune for 30% faster upshifts, paired with a Wavetrac limited-slip differential (replacing the OEM Ferrari e-diff) and a Novitec lightweight flywheel (reducing rotational mass by 40%) for improved throttle response"
+  ],
+  "estetica": [
+    "Aerodynamics: Novitec SP38-specific carbon fiber widebody kit (front splitter, side skirts, and rear diffuser) with integrated active aero (replacing OEM passive elements), featuring a 3D-printed titanium rear wing (modeled after the 488 Pista Spider but optimized for the SP38’s unique rear end) with adjustable angle of attack (0-15 degrees) and a Gurney flap for high-speed stability",
+    "Exterior: Full Novitec carbon fiber body panels (hood, fenders, and rear clamshell) with a custom matte Viola Micalizzato paint scheme (Ferrari’s historic 1960s racing color, applied via a 5-stage hand-polished process), paired with Novitec’s SP38-specific forged aluminum wheels (20x10.5 front, 21x12.5 rear) wrapped in Pirelli P Zero Trofeo R tires (265/30 R20 front, 325/25 R21 rear) for maximum mechanical grip",
+    "Interior: Novitec carbon fiber racing seats (FIA 8862-2009 certified) with 6-point Schroth harnesses, a custom Alcantara-wrapped steering wheel (featuring a quick-release hub and integrated Motec C127 dash display), and a bespoke titanium roll cage (TIG-welded, 4130 chromoly) with integrated fire suppression system (Lifeline Zero 360) and a Novitec carbon fiber shift knob (weight: 80g)"
+  ]
+}

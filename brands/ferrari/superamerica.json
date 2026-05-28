@@ -1,0 +1,15 @@
+{
+  "brand": "FERRARI",
+  "model": "SUPERAMERICA",
+  "prestazioni": [
+    "F131 EBC 5.7L V12 (Type F131) forced-induction conversion via Garrett GT4202R turbochargers (1.2 bar boost) with custom billet aluminum intake manifold by Novitec Rosso, replacing the OEM plenum for optimized airflow and throttle response. Upgraded fuel system includes Bosch Motorsport 1,200cc injectors and a Radium Engineering dual-catch can setup to manage increased fuel demand and prevent oil vapor ingestion under high boost.",
+    "OEM F1-derived dry-sump lubrication system upgraded with a Peterson Fluid Systems 4-stage external oil pump and a Setrab 50-row oil cooler with integrated thermostat, ensuring consistent oil pressure and temperature management during sustained high-RPM track use. The system is paired with Motul 300V Trophy 15W-50 fully synthetic oil for extreme heat resistance.",
+    "Custom ECU remapping by MoTeC M150 standalone engine management system, recalibrating the F131’s individual throttle bodies (ITBs) for optimized air-fuel ratios under forced induction. The tune includes a bespoke launch control strategy (3,500 RPM flat-shift) and a 9,000 RPM redline, with knock detection via Bosch Motorsport KS-4 sensors and a Plex Knock Monitor for real-time feedback.",
+    "GKN Driveline carbon-fiber driveshaft and Quaife ATB helical LSD (limited-slip differential) with a 40% lockup rate, replacing the OEM open differential to handle the increased torque (estimated 750+ lb-ft post-turbo) and prevent wheel hop under aggressive acceleration. The drivetrain is further reinforced with a Sachs Performance dual-mass flywheel and a Tilton triple-plate carbon clutch."
+  ],
+  "estetica": [
+    "Novitec Rosso N-Largo widebody conversion kit, extending the Superamerica’s rear fenders by 60mm per side to accommodate 20x12.5-inch front and 21x13.5-inch rear HRE FF16 wheels (ET +15 front, ET +5 rear) wrapped in Michelin Pilot Sport Cup 2 R tires (275/30/20 front, 345/25/21 rear). The kit includes carbon-fiber side skirts, front splitter, and a rear diffuser with integrated titanium exhaust outlets by Capristo.",
+    "Custom retractable hardtop removal and replacement with a fixed carbon-fiber roof panel by CarboTech, reducing weight by 18kg while maintaining structural rigidity. The roof is finished in a matte Ferrari Grigio Titanio with a clear-coated carbon weave, paired with a bespoke rear spoiler by Vorsteiner (Type 3, 30mm adjustable) for high-speed stability.",
+    "Full interior reupholstery by Sabelt, featuring Alcantara-wrapped Recaro SPG-K seats (FIA 8862-2009 certified) with integrated 6-point Schroth harnesses. The dashboard and door cards are retrimmed in Rosso Corsa leather with contrast stitching, while the OEM infotainment is replaced with a RaceLogic VBOX HD2 data logger and a Motec C127 dash display for real-time telemetry. The steering wheel is swapped for a Sparco Pro 2000 (350mm diameter) with integrated paddle shifters and a quick-release hub."
+  ]
+}

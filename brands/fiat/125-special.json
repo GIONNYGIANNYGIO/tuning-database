@@ -1,0 +1,14 @@
+{
+  "brand": "FIAT",
+  "model": "125 SPECIAL",
+  "prestazioni": [
+    "Engine swap to a Fiat Twin Cam 2.0L (engine code: **132A2.000**) with forged internals: Mahle Motorsport forged pistons (8.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from JE Pistons. Pair with a custom camshaft grind from Schrick (284° intake/280° exhaust duration, 11.5mm lift) for high-RPM power delivery.",
+    "Forced induction via a Rotrex C38-91 supercharger (12 psi max boost) mounted on a custom billet intake manifold, paired with a custom intercooler setup using a PWR Racing heat exchanger and custom piping from Vibrant Performance. Fueling handled by a Bosch Motorsport 044 high-flow fuel pump and ID1000x injectors.",
+    "Suspension overhaul with KW Clubsport 3-way adjustable coilovers (24-way rebound, 16-way compression, adjustable ride height) and custom polyurethane bushings from SuperPro (part #SPF1118K) for the front A-arms. Rear subframe reinforced with a custom tubular brace from Sabelt Engineering, paired with a Quaife ATB differential (part #QDF7J) for improved torque distribution."
+  ],
+  "estetica": [
+    "Full custom widebody conversion using hand-formed aluminum over steel flares, inspired by the Fiat 125 Abarth rally cars, with integrated rivet detailing. Front splitter and rear diffuser fabricated from carbon fiber by APR Performance (custom design for 125 Special).",
+    "Custom 15x8-inch ET0 wheels from OZ Racing (Fiat 125-specific offsets) wrapped in Pirelli P Zero Trofeo R tires (195/50R15). Brake upgrade to Brembo GT 4-piston calipers (part #09.9454.11) with 280mm two-piece rotors and Ferodo DS2500 pads.",
+    "Interior stripped and reupholstered with Recaro SRD Evo seats (Fiat 125-specific mounting brackets), a Momo Prototipo steering wheel (350mm diameter), and a full roll cage from Custom Cages (FIA-spec, bolt-in design). Gauges replaced with a Stack ST800 digital dash and supplementary analog gauges from Defi (oil pressure, boost, and fuel pressure)."
+  ]
+}

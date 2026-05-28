@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "SP3 DAYTONA EVO",
+  "prestazioni": [
+    "Engine: F140 VE 6.5L V12 (naturally aspirated) – Full titanium internals upgrade with Carrillo forged connecting rods, JE 13.5:1 compression forged pistons, and a billet crankshaft by Manley Performance to handle 1,200+ hp on E85 fuel. Custom dry-sump system by Peterson Fluid Systems with dual scavenge pumps and a 12-quart reservoir for sustained high-G cornering.",
+    "Forced Induction: Twin Precision Turbo PT6766 CEA ball-bearing turbos with custom 3D-printed Inconel turbine housings (designed by Ferrari Classiche in collaboration with TurboSmart) to fit the SP3’s rear-midship layout. Full titanium exhaust manifold and downpipe system by Capristo, paired with a custom Motec M150 ECU managing a 30-psi boost curve with anti-lag and launch control.",
+    "Suspension & Chassis: Öhlins TTX46 coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression) and remote reservoirs, paired with a custom carbon-fiber monocoque reinforcement by Brembo’s racing division (used in Ferrari’s GT3 program). Front and rear adjustable anti-roll bars by Eibach Pro-Race, with spherical bearings replacing all OEM bushings for sub-2Hz chassis rigidity."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon-fiber widebody conversion by Novitec Rosso, including a custom front splitter with active Gurney flaps (adjustable via a cockpit switch) and a rear diffuser with integrated dual-plane active aero (developed with Ferrari’s F1 aero team). Rear wing is a 3D-printed titanium unit by APR Performance, modeled after the 488 GTE’s DRS system but with a 20% larger surface area.",
+    "Exterior Trim: Custom matte ‘Rosso Corsa Scuro’ paint by PPG with a 5-layer ceramic coating by Gyeon Quartz, featuring a hidden ‘Daytona Stripes’ livery (revealed under UV light) inspired by the 1967 330 P4. OEM-style carbon-fiber side skirts and rear bumper vents by Vorsteiner, but with functional NACA ducts feeding the rear-mounted intercoolers.",
+    "Wheels & Brakes: Forged 20x12” (front) and 21x13” (rear) magnesium wheels by HRE Performance (FF03 model, 3-piece construction) with custom center-lock adapters for Ferrari’s OEM hubs. Braking system features 420mm carbon-ceramic rotors by Brembo GT-R (CCMR spec) with 6-piston monoblock calipers, paired with Ferodo DS3.12 racing pads and a custom ABS map by Bosch Motorsport for 1.5G deceleration."
+  ]
+}

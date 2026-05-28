@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "SF90 SPIDER",
+  "prestazioni": [
+    "Upgrade the F154FB 4.0L twin-turbo V8 with a bespoke Weistec Engineering Stage 3 hybrid turbo kit featuring Garrett GTX5533R turbos, billet compressor wheels, and 3D-printed Inconel turbine housings to support 1,000+ HP on 100-octane fuel while retaining the factory variable-geometry turbine (VGT) actuation for seamless power delivery",
+    "Install a Motec M150 ECU with a Ferrari SF90-specific calibration map, integrating direct port methanol injection via Snow Performance Stage 3 kit (dual nozzles per cylinder) and a custom titanium intake manifold with 90mm throttle bodies from Novitec to optimize airflow for the hybrid turbo setup",
+    "Replace the factory 3.639:1 rear differential with a Wavetrac limited-slip differential (LSD) paired with a Quaife ATB helical gearset, and upgrade the OEM carbon-fiber driveshaft to a 1-piece billet aluminum unit from GKN Driveline to handle the increased torque without parasitic loss"
+  ],
+  "estetica": [
+    "Fit a Novitec N-Largo widebody kit with 3D-scanned carbon-fiber fenders (25mm wider front, 40mm wider rear) to accommodate custom 21x11.5 ET25 front and 22x13 ET45 rear forged wheels from HRE (FF16 flow-formed, matte gold finish) wrapped in Pirelli P Zero Trofeo R tires (285/30 and 345/25 respectively)",
+    "Install a full-length Novitec underbody diffuser with active aerodynamic elements (adjustable via Ferrari’s Side Slip Control) and a custom titanium exhaust system from Capristo (4.5-inch outlets, Inconel 625 construction) with electronically controlled bypass valves for track-only backpressure reduction",
+    "Replace the factory retractable hardtop with a lightweight carbon-fiber unit from CarboTech (weight savings: 22kg) and add a custom laser-etched titanium windshield frame from 777 Motorsports, featuring integrated LED turn signals and a hydrophobic nano-coating for rain resistance"
+  ]
+}

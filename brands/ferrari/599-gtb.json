@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "599 GTB",
+  "prestazioni": [
+    "Engine: Replace the stock F140C 6.0L V12 with a Novitec Rosso-prepped F140C featuring forged internals (Mahle pistons, Carrillo H-beam rods, and a billet crankshaft) paired with a custom Novitec Rosso ECU remap targeting 780 hp at 8,500 RPM with a 9,000 RPM redline, utilizing a Novitec Rosso high-flow air intake with carbon fiber velocity stacks and a custom 3.5-inch titanium exhaust system with Inconel headers and secondary cats delete for optimized scavenging",
+    "Forced Induction: Install a Sprintex 2.3L supercharger kit (model SP2300) with a custom intercooler setup (PWR Australia heat exchanger and custom billet aluminum end tanks) and a Novitec Rosso fuel system upgrade (dual Bosch Motorsport 044 fuel pumps, ID1000 injectors, and a custom fuel pressure regulator) to achieve 950 hp at 8,200 RPM with 720 lb-ft of torque",
+    "Suspension & Handling: Replace the stock SCM suspension with a full Öhlins TTX46 coilover kit (599 GTB-specific valving) paired with a Novitec Rosso front strut brace (T6061 aluminum) and a custom rear subframe reinforcement plate (chromoly steel). Install a set of Brembo GT-R 6-piston front and 4-piston rear calipers with 410mm and 380mm two-piece floating rotors (J-Hook slotted) and Ferodo DS3000 brake pads for extreme track use"
+  ],
+  "estetica": [
+    "Aerodynamics: Install a Novitec Rosso 599 GTB-specific widebody kit (carbon fiber front splitter, side skirts, and rear diffuser) paired with a custom GT3-style rear wing (carbon fiber, 3D-milled aluminum supports) and a front canard set (Rocket Bunny-style, carbon fiber) for increased downforce (targeting +200 kg at 250 km/h)",
+    "Wheels & Tires: Mount a set of HRE FF16 3-piece forged wheels (20x11.5 front, 20x13 rear) with custom offsets (+25mm front, +35mm rear) wrapped in Michelin Pilot Sport Cup 2 R tires (305/30 front, 345/25 rear) for maximum mechanical grip. Add a custom Novitec Rosso titanium wheel spacer set (5mm front, 8mm rear) for optimized track alignment",
+    "Exterior & Interior: Apply a full 3M Matte Graphite vinyl wrap with custom Novitec Rosso carbon fiber mirror caps and a clear bra (XPEL Ultimate) on the front bumper. Interior upgrades include a full Alcantara retrim (Rosen Racing) with red contrast stitching, a custom roll cage (Chromoly, bolt-in, FIA-spec), and a Motec C127 dash display with integrated data logging for track telemetry"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "ROMA",
+  "prestazioni": [
+    "Engine: F154 BH 3.9L Twin-Turbo V8 (internal code: F154BD) – Full titanium connecting rods (Pankl Racing Systems) with upgraded 9.5:1 forged pistons (JE Pistons) to handle 1.5 bar boost from a Garrett GTX5533R Gen II turbocharger (hybrid billet wheel, 76mm compressor, 64mm turbine) on a custom 3D-printed Inconel exhaust manifold (Capristo).",
+    "Fuel System: Upgraded direct injection system with dual Bosch Motorsport HDEV5.2 injectors (1,500cc/min) and a supplementary port injection kit (Fuelab) fed by a Radium Engineering dual-pump surge tank (2x Walbro 525LPH pumps) to support 850+ hp on E85.",
+    "Drivetrain: 8-speed dual-clutch transmission (F1 DCT) with a custom TCU flash (Alientech Race EVO) to enable 8,500 RPM shifts, paired with a carbon-fiber driveshaft (GKN Driveline) and a limited-slip differential (Wavetrac LSD) with 70% lock under load."
+  ],
+  "estetica": [
+    "Aerodynamics: Novitec Torado Aero Kit (carbon fiber front splitter, side skirts, and rear diffuser) with a custom 3D-printed active rear wing (inspired by Ferrari 296 GTB) featuring Gurney flaps and a DRS-style actuator (Bosch Servo Motor).",
+    "Wheels: Forged 21\" front / 22\" rear custom monoblock wheels (HRE FF16) with a 9.5x21 ET35 (front) and 12.5x22 ET45 (rear) setup, wrapped in Pirelli P Zero Trofeo R tires (275/30 R21 front, 345/25 R22 rear).",
+    "Exterior: Full body wrap in 3M 1080 Gloss Flip Psychedelic (color-shifting purple-to-teal) with a custom matte black roof (Xpel Stealth PPF) and Novitec’s carbon fiber engine cover with a clear-coated weave pattern, paired with titanium exhaust tips (Capristo 102mm)."
+  ]
+}

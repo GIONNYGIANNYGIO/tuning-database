@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "OMOLOGATA",
+  "prestazioni": [
+    "Engine: F140 DA V12 (6.5L naturally aspirated) – Full titanium internals upgrade with Carrillo H-beam connecting rods, JE forged pistons (12.5:1 compression), and a billet crankshaft by VAC Motorsports for sustained 10,500 RPM operation. Pair with a custom dry-sump system by Peterson Fluid Systems (4-stage) to eliminate oil starvation under lateral G-forces exceeding 1.5G.",
+    "Forced Induction: Twin Precision Turbo PT6766 CEA turbochargers (hybrid ceramic ball-bearing) with custom Inconel turbine housings and TiAL MV-R 44mm wastegates. Intercooling via a PWR USA dual-core air-to-water setup with a 10L ice reservoir and Bosch Motorsport water pump for sub-30°C intake temps at 1.5 bar boost. Requires a Motec M150 ECU with custom fuel mapping for 1,000+ hp on Shell V-Power 100 octane.",
+    "Exhaust: Capristo 102mm titanium equal-length headers (321-grade) with a secondary cat-delete X-pipe and a custom Akrapovič Evolution Line titanium exhaust system (dual 100mm outlets). Includes a secondary O2 sensor delete with Motec lambda controllers for precise AFR targeting in boosted conditions."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon-fiber body kit by Novitec Torado, including a front splitter with integrated canards (3D-printed from Toray T800 carbon), a rear diffuser with active Gurney flap (electrically actuated via Bosch motors), and a fixed rear wing (NACA 63A012 airfoil) with adjustable angle of attack (0-15°) via a hydraulic system by Dymag.",
+    "Wheels: HRE FF16 3-piece forged wheels (20x12 front, 21x13 rear) with custom center-lock adapters for Ferrari’s OEM hubs. Tires: Michelin Pilot Sport Cup 2 R (345/30 R21 front, 355/25 R21 rear) with nitrogen inflation and TPMS sensors by Schrader Electronics for real-time pressure monitoring.",
+    "Interior: Full Alcantara retrim by Sabelt, including a custom 6-point harness bar (T45 steel) with Schroth Profi II 6-point harnesses. Steering wheel replaced with a MOMO Prototipo (flat-bottom) wrapped in Alcantara with integrated Motec C127 dash display. Pedal box upgraded to Tilton 600-series billet aluminum with adjustable brake bias controller."
+  ]
+}

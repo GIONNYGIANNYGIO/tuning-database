@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "ENZO FERRARI",
+  "prestazioni": [
+    "F140B 6.0L V12 naturally aspirated engine: Replace the stock titanium connecting rods with custom-forged Carrillo H-beam rods (ENZO-specific billet design) rated for 1,200+ HP, paired with Mahle Motorsport forged pistons (9.5:1 compression) and upgraded Inconel exhaust valves from Del West to handle sustained 10,000 RPM operation.",
+    "Motec M190 ECU with Ferrari Enzo-specific CAN bus integration: Full standalone management for the F140B, including individual cylinder fuel trims, anti-lag for the F1 gearbox (via Motec PDM30 power distribution module), and a custom traction control map calibrated for Pirelli P Zero Trofeo R tires (265/35ZR19 front, 345/35ZR19 rear) with 18-inch BBS FI-R center-lock wheels.",
+    "Titanium exhaust system by Capristo: 3.5-inch diameter 6-into-1 headers (Grade 5 titanium) with equal-length primaries, paired with a straight-pipe bypass section (activated via pneumatic valve) and a secondary catalytic converter delete (replaced with GESI high-flow metallic core units for emissions compliance in track-only configurations)."
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (Enzo-specific carbon fiber): 50mm front fender flares and 70mm rear extensions with integrated carbon fiber canards (designed for 30% more downforce at 200+ km/h), paired with a custom front splitter featuring a 3D-printed aluminum undertray for optimized airflow to the rear diffuser.",
+    "OMP Carbon Kevlar racing seats (Ferrari Enzo homologated): FIA 8862-2009 certified with 6-point Schroth Profi II harnesses, mounted on custom aluminum seat rails (adjustable for 20mm height and 30mm recline) and upholstered in Alcantara with red stitching (matching the Enzo’s original interior code: Rosso 312).",
+    "Vorsteiner carbon fiber engine cover with integrated GReddy Profec B Spec II boost controller (for future forced induction) and a custom billet aluminum oil cap by 034Motorsport, engraved with the F140B engine code and the owner’s initials (laser-etched in Ferrari’s proprietary font: FF Mark)."
+  ]
+}

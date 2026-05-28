@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "PORTOFINO M",
+  "prestazioni": [
+    "Full titanium 3.9L F154BE V8 exhaust system by Capristo with 3.5-inch carbon-wrapped downpipes, 200-cell metallic catalytic converters, and electronically actuated bypass valves for a 28hp gain at 7,500 RPM while maintaining EU6d compliance",
+    "Motec M150 ECU reflash with custom ignition timing maps for 98 RON fuel, optimized for the Portofino M's IHI turbochargers (TD05-14T) with revised wastegate duty cycles to reduce lag by 180ms and increase boost pressure to 1.4 bar (stock: 1.2 bar) for a 420hp output at the crank",
+    "KW Suspensions Clubsport 3-way adjustable coilovers with Ferrari-specific spring rates (front: 180 N/mm, rear: 220 N/mm), spherical top mounts, and remote reservoirs to eliminate body roll during 0.98g lateral acceleration while maintaining the stock ride height for OEM+ aesthetics"
+  ],
+  "estetica": [
+    "Novitec N-Largo widebody conversion kit with carbon fiber front fenders (25mm wider per side), rear quarter panels (30mm wider per side), and integrated side skirts with active aerodynamic flaps for a 15% increase in downforce at 200 km/h",
+    "Brembo GT 6-piston monobloc calipers with 400mm carbon-ceramic rotors (stock: 390mm) and Ferrari-specific brake pads (Brembo CCM-R compound) for a 22% reduction in brake fade during 10 consecutive 0-200-0 km/h cycles, paired with Novitec NForged 20x9.5 ET35 and 21x12 ET50 wheels in gloss black with titanium bolts",
+    "Custom 3D-printed carbon fiber rear diffuser by Vorsteiner, designed using Ferrari's wind tunnel data to reduce drag coefficient by 0.03 Cd while increasing rear downforce by 45kg at 250 km/h, featuring integrated LED brake cooling ducts and a titanium exhaust surround"
+  ]
+}

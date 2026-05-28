@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "SP12 EC",
+  "prestazioni": [
+    "Engine: F140 FC V12 (6.3L naturally aspirated) with a custom Motec M150 ECU reflash optimized for 900+ hp on 102-octane race fuel, featuring individual throttle body (ITB) velocity stack tuning via Jenvey Dynamics 52mm carbon fiber ram tubes and a bespoke dry-sump oil system from Dailey Engineering with dual-scavenge pumps to eliminate oil starvation under 1.5G lateral loads",
+    "Forced induction: Twin Precision Turbo PT6766 CEA ball-bearing turbos with custom Inconel 625 turbine housings and 46mm wastegates, paired with a custom air-to-water intercooler system from PWR (Australia) with dual 550W Bosch water pumps and a 10L ice reservoir for sustained 1.2 bar boost without heat soak",
+    "Drivetrain: 6-speed F1-derived sequential gearbox with a custom Quaife ATB differential (85% lock) and a Sachs Racing dual-disc carbon clutch (240mm) with a billet aluminum flywheel, mated to a custom 4WD system via a Haldex Gen 6 controller for 40/60 front/rear torque split under hard acceleration"
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon fiber body kit by Novitec Torado, including a 3D-scanned front splitter with integrated canards (adjustable angle via hydraulic actuators), a rear diffuser with active Gurney flap (controlled by Bosch MS2.8 ECU), and a fixed rear wing with dual-element DRS (Drag Reduction System) from AP Racing, capable of generating 1,200 lbs of downforce at 180 mph",
+    "Wheels & Tires: Custom HRE FF16 flow-formed wheels (20x12 front, 21x13 rear) with titanium lug bolts, wrapped in Pirelli P Zero Trofeo R tires (325/25 R21 front, 355/25 R21 rear) mounted on a custom TPMS system with real-time pressure and temperature monitoring via Bosch Motorsport sensors",
+    "Interior: Full carbon fiber monocoque with a bespoke roll cage by Safety Devices (UK), featuring integrated fire suppression system (Lifeline Zero 360) and a Sparco Pro 2000 carbon fiber seat with 6-point Schroth Racing harnesses. The dashboard is replaced with a 12.3-inch Motec C187 digital display and a custom Alcantara-wrapped steering wheel with paddle shifters from Ferrari FXX-K Evo"
+  ]
+}

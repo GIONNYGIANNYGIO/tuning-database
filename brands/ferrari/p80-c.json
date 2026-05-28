@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "P80/C",
+  "prestazioni": [
+    "Engine: F140 VE (6.5L naturally aspirated V12, 720hp stock) – full titanium valvetrain upgrade with Ferrea Racing titanium intake/exhaust valves (10mm stem, 38mm head diameter) and Carrillo H-beam titanium connecting rods (4340 steel big ends, 180g weight reduction per rod) to enable 10,500 RPM redline with custom Marelli MS12 ECU remapping for 800hp on 102-octane fuel",
+    "Forced induction: Single Garrett GTX5533R Gen II turbo (1.05 A/R turbine housing, 88mm billet compressor wheel) with custom 4.5-inch titanium downpipe (Akrapovič 3D-printed Inconel manifold) and dual 44mm wastegates (TurboSmart Hyper-Gate45) for 1.2 bar boost, paired with a PWR 1000hp titanium intercooler (50% larger core than stock 488 Pista) and Motec M150 ECU for closed-loop boost control",
+    "Drivetrain: Xtrac P1296 7-speed sequential transaxle with carbon-fiber clutch (Sachs Performance triple-disc, 240mm diameter, 30% lighter than stock) and Quaife ATB helical LSD (45% preload, 60% power bias) with custom 3.73:1 final drive ratio for 0-60mph in 2.1s (0.3s faster than stock)"
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon-fiber body kit by Capristo (3D-scanned from Ferrari’s 2019 Le Mans GTE aero data) including a 2.1m wide rear wing (adjustable -5° to +15° angle, 400kg downforce at 200km/h) and front splitter with active Gurney flaps (Bosch Motorsport ECU-controlled, 0.5s response time)",
+    "Lightweighting: Full carbon-fiber monocoque reinforcement by Brembo (18kg weight reduction) with titanium roll cage (Custom Cages UK, FIA 8862-2018 spec, 3D-printed nodes) and polycarbonate windows (Sekuris 4mm thick, 60% lighter than glass, UV-resistant coating by PPG)",
+    "Wheels/Tires: Forged magnesium OZ Racing UltraLeggera HLT wheels (19x12 front, 20x13 rear, 8.5kg per wheel) with custom center-lock adapters (BBS Motorsport) wrapped in Pirelli P Zero Trofeo R tires (305/665R19 front, 345/705R20 rear, 200 treadwear compound) and TPMS sensors (Schrader 40700 series, 0.1psi accuracy)"
+  ]
+}

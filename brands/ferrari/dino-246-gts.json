@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "DINO 246 GTS",
+  "prestazioni": [
+    "Engine: 2.4L *Tipo 135B* V6 (DOHC, 2 valves per cylinder, 9.0:1 compression) – Full rebuild with forged Mahle pistons (8.5:1 compression for high-octane fuel), Carrillo H-beam connecting rods, and a billet crankshaft from JP Performance. Ported and polished cylinder heads with oversized Ferrea intake/exhaust valves (42mm/36mm) and titanium retainers. Custom camshafts by Kent Cams (280° duration, 11.5mm lift) for optimized mid-range torque.",
+    "Forced Induction: Single Garrett GT2860RS turbocharger (0.63 A/R turbine housing) with a custom water-cooled T3 flange adapter, mated to a Spearco air-to-water intercooler (3.5\" core) and a Pierburg 300 LPH fuel pump. Custom intake manifold by ITG Maxogen with 45mm throttle bodies and a Haltech Elite 2500 ECU for sequential fuel injection and boost control (1.2 bar peak).",
+    "Drivetrain & Suspension: Quaife ATB differential (80% lock) in a reinforced Tipo 135 gearbox case with close-ratio gears (2.4:1 final drive). Öhlins TTX40 coilovers with 24-way adjustable damping and spherical bearing top mounts. Custom subframe reinforcement plates by Novitec Rosso, paired with polybushings from SuperPro for chassis rigidity. Brembo GT 4-piston calipers (330mm rotors) with Ferodo DS2500 pads and braided stainless steel lines."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion by Liberty Walk (LB-WORKS Dino 246 kit), including extended front fenders (2.5\" wider), rear quarter panels (3\" wider), and a custom ducktail spoiler. Front splitter and rear diffuser by Vorsteiner, with a custom 3M Matte Ferrari Rosso Corsa wrap (color code 312).",
+    "Wheels & Tires: OZ Racing Ultraleggera HLT wheels (16x8 ET20 front, 16x10 ET25 rear) with custom gold powdercoat, wrapped in Pirelli P Zero Corsa tires (225/50R16 front, 265/45R16 rear). Custom center-lock adapters by DPE for Ferrari 512 BB-spec hubs.",
+    "Interior: Full Alcantara retrim by Saddleback Leather, including dashboard, door cards, and Recaro SPG XL seats (Ferrari-embossed headrests). Custom MOMO Prototipo steering wheel (350mm, suede) with a quick-release hub. Digital dash by AIM MXS Strada with CAN bus integration for Haltech ECU data logging."
+  ]
+}

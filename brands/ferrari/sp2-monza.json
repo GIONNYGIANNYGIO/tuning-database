@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "SP2 MONZA",
+  "prestazioni": [
+    "Engine: F140 GA V12 (6.5L naturally aspirated) – Full titanium internals upgrade with Carrillo H-beam connecting rods, JE Pistons 13.5:1 forged pistons, and a billet crankshaft from Manley Performance to handle 1,000+ HP on E85 with a custom dry-sump system by Dailey Engineering for sustained high-RPM stability (9,500 RPM redline).",
+    "Forced induction: Twin Precision Turbo PT6766 CEA ball-bearing turbos with custom 3D-printed Inconel exhaust manifolds by SMS Engineering, paired with a Motec M150 ECU for direct port injection control and a secondary fuel system with Bosch Motorsport 2,200cc injectors and a Radium Engineering dual-catch can setup for extreme boost (2.2 bar).",
+    "Suspension & Chassis: Full carbon-fiber monocoque reinforcement with a custom roll cage by G-Tech Motorsport, paired with Öhlins TTX40 3-way adjustable coilovers (24-position rebound, 22-position compression, and 12-click high/low-speed compression) and spherical bearing control arms from Superleggera Engineering for track-focused geometry (30mm front camber gain, 25mm rear)."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon-fiber aero package by Novitec Torado, including a custom 3D-scanned front splitter with integrated dive planes, a rear diffuser with active Gurney flap (adjustable via cockpit switch), and a fixed rear wing with dual-element design (NACA 65-series airfoil) for 800kg of downforce at 250 km/h.",
+    "Bodywork: Custom hand-laid carbon-fiber body panels by Capristo Automotive, including a one-piece clamshell hood with integrated NACA ducts for brake cooling, side skirts with vortex generators, and a rear bumper with dual 100mm titanium exhaust outlets by Akrapović (slip-on mufflers removed for full straight-pipe sound).",
+    "Interior: Full Alcantara and carbon-fiber retrim by Sabelt, featuring a custom 6-point harness setup with FIA-spec Schroth Profi II belts, a MOMO Prototipo steering wheel with integrated Motec C127 dash display, and a bespoke titanium shift knob by Bizzarrini for the 7-speed F1 dual-clutch transmission."
+  ]
+}

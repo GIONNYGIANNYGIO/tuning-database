@@ -1,0 +1,14 @@
+{
+  "brand": "FIAT",
+  "model": "130 COUPE",
+  "prestazioni": [
+    "Engine swap to a Fiat-Abarth 2.0L 16V 'Lampredi' (engine code: 200A4.000) with forged internals (JE Pistons 87.5mm, Carrillo H-beam rods, and a billet crankshaft) paired with a Garrett GT3076R turbocharger (0.82 A/R turbine housing) and a custom 3.5-inch stainless steel exhaust system by Supersprint with a 4-2-1 header design for optimized scavenging",
+    "Full standalone Motec M150 ECU with custom lambda control, individual cylinder fuel trims, and a dual-stage nitrous oxide system (NOS 5176) for on-demand 100hp shots, calibrated specifically for the 200A4.000’s 11.5:1 compression ratio",
+    "Ohlins Road & Track coilovers (DFV) with custom valving for the 130 Coupe’s unique MacPherson strut front and semi-trailing arm rear suspension, paired with polyurethane bushings (SuperPro 62mm) and a Whiteline 24mm adjustable rear sway bar to eliminate body roll during high-speed cornering"
+  ],
+  "estetica": [
+    "Custom widebody conversion kit by Zender (originally designed for the 130 Coupe in the 1970s) with bolt-on fender flares, extended rocker panels, and a bespoke carbon fiber front splitter by Capristo, reinforced with aluminum honeycomb for rigidity",
+    "Full retrim of the interior in Alcantara (Rosso Corsa) with custom Recaro SPG XL seats (Fiat 130 Coupe-specific mounting brackets) and a MOMO Mod.78 steering wheel (380mm diameter) wrapped in perforated leather, retaining the original woodgrain dashboard trim",
+    "Bespoke 3-piece OZ Racing Ultraleggera wheels (17x8.5 ET25 front, 17x10 ET35 rear) with custom offsets to fill the Zender flares, wrapped in Pirelli P Zero Trofeo R tires (225/45/17 front, 275/40/17 rear), paired with Brembo GT 6-piston calipers and 355mm two-piece rotors up front"
+  ]
+}

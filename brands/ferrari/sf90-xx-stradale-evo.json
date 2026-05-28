@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "SF90 XX STRADALE EVO",
+  "prestazioni": [
+    "Upgrade the F154FB 4.0L twin-turbo V8 with a bespoke Weistec Engineering Stage 3+ hybrid turbo kit featuring Garrett GTX5533R Gen II turbos, billet compressor wheels, and 3D-printed Inconel turbine housings to push boost from 2.1 bar to 2.8 bar while maintaining OEM-level reliability. Pair with a custom Motec M150 ECU reflash optimized for 98 RON fuel and a secondary water-methanol injection system (AEM 3400cc/min) to suppress pre-ignition at 1,100+ hp targets.",
+    "Replace the stock 8-speed dual-clutch transmission with a Hewland 7-speed sequential transaxle (LST-700) featuring a magnesium bellhousing, carbon-fiber driveshaft, and a Quaife ATB differential with 45% lockup under load. Integrate a Pankl Racing Systems titanium half-shaft kit with tripod CV joints to handle the increased torque (1,200 Nm) while reducing rotational mass by 18%.",
+    "Install a full Magneti Marelli hybrid system overhaul, including a custom 48V battery pack (A123 Systems AMP20M1HD-A cells) with a 30% higher energy density, paired with a YASA P400X axial-flux motor (200 kW peak) for a 0-100 km/h time of 1.9 seconds. Replace the stock MGU-K with a more aggressive torque vectoring algorithm (developed in collaboration with Brembo SGL Carbon Ceramic brakes) to enable 1.8G lateral acceleration in high-speed corners."
+  ],
+  "estetica": [
+    "Fit a Novitec Torado XX aerodynamic package, including a 3D-printed titanium front splitter with active Gurney flaps (adjustable via Ferrari’s Side Slip Control), a carbon-fiber rear diffuser with integrated exhaust outlets (replacing the stock titanium system), and a fixed rear wing with a NACA duct-fed DRS system for a 30% increase in downforce at 250 km/h without adding drag.",
+    "Replace the stock 20-inch forged wheels with custom HRE FF16 flow-formed wheels (20x10.5 front, 21x13 rear) wrapped in Pirelli P Zero Trofeo R tires (285/30 R20 front, 345/25 R21 rear) with a bespoke compound for track use. Add a titanium wheel nut kit (McGard 24510) and center-lock adapters for faster pit stops during endurance events.",
+    "Install a full carbon-fiber interior retrofit by Sabelt, including a monocoque racing seat (Sabelt TA15) with 6-point harnesses, a carbon-fiber steering wheel with integrated Motec C127 dash display, and a titanium roll cage (built by Capristo) with integrated fire suppression system (Lifeline Zero 360). Replace the stock leather with Alcantara suede and carbon-fiber trim, while adding a titanium shift knob (by BBi Autosport) for the Hewland sequential gearbox."
+  ]
+}

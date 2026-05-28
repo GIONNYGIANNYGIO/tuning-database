@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "512 BBI",
+  "prestazioni": [
+    "Engine: Replace the stock F102B 4.9L flat-12 with a fully balanced and blueprinted F102B block featuring forged Mahle pistons (9.2:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from Ferrari Classiche for 550+ HP at 7,500 RPM with a redline extended to 8,200 RPM via a custom Marelli MED 9.7 ECU reflash by Paolo at Autodelta in Milan.",
+    "Forced Induction: Twin-turbocharged setup using Garrett GT35R turbos (0.82 A/R, 62mm compressor wheels) with custom 3D-printed Inconel exhaust manifolds by Capristo, paired with a GReddy Type-S intercooler and a custom 3.5-inch stainless steel exhaust system with dual 100-cell catalytic converters and X-pipe by Novitec.",
+    "Suspension & Handling: Full Ohlins TTX46 coilover kit with 24-position adjustable rebound and compression damping, custom-valved for the 512 BBi's tubular steel chassis, paired with spherical bearing conversion for the front and rear suspension arms by Superformance, and a custom front strut tower brace by Koeniggsegg (originally designed for the CCX) to reduce chassis flex."
+  ],
+  "estetica": [
+    "Bodywork: Full carbon fiber widebody conversion using the exact 512 BB LM Group 4 homologation specifications, including the extended front splitter, rear diffuser, and side skirts by GTO Engineering, with a custom rear wing inspired by the 512 BB LM but fabricated from 3K twill carbon fiber by APR Performance.",
+    "Wheels & Brakes: Custom 18x12 front and 18x14 rear forged magnesium wheels by BBS (LM-R design, gold finish) wrapped in Pirelli P Zero Corsa tires (275/35 R18 front, 335/30 R18 rear), paired with a full AP Racing CP8600 brake kit featuring 380mm front and 355mm rear two-piece rotors with six-piston calipers and Ferodo DS3000 pads.",
+    "Interior: Full Alcantara retrim by Sabelt, including the dashboard, door cards, and Recaro SPG XL seats (originally designed for the Porsche 917) with custom 5-point harnesses by Schroth, and a custom digital dash by Motec (C127 model) displaying real-time boost, AFR, and oil pressure data from the Marelli ECU."
+  ]
+}

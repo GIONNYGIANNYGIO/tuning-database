@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "SF71H",
+  "prestazioni": [
+    "Upgrade to a **Garrett GTX5544R Gen II** turbocharger (hybrid) with billet compressor wheel and 76mm inducer, paired with a **Pankl Racing Systems** titanium connecting rod set (for the **062/1** 1.6L V6 turbo hybrid engine) to handle 600+ hp at 15,000 RPM while maintaining reliability under sustained 5.5-bar boost cycles",
+    "Install a **Magneti Marelli** bespoke ECU calibration (SF71H-specific) with **Motec PDM30** power distribution module, integrating **Bosch Motorsport** 8-hole high-flow direct injectors (1,200cc/min) and **Mahle Motorsport** forged pistons (9.5:1 CR) with thermal barrier coatings for optimized combustion efficiency under extreme thermal loads",
+    "Fit a **PWR Racing** triple-pass water-to-air intercooler core (custom-machined for SF71H sidepods) with **Swagelok** aerospace-grade AN-12 braided lines and **AP Racing** CP9446-1000 6-piston monoblock calipers (carbon-carbon discs) for sustained braking performance during 200+ mph deceleration phases"
+  ],
+  "estetica": [
+    "Apply a **3M 1080 Series** custom vinyl wrap in **Ferrari Rosso Scuderia** with **Avery Dennison** matte clear coat, featuring **Pirelli P Zero Trofeo R** tire sidewall branding (laser-etched) and **BBS FI-R** forged magnesium wheels (13x18 front, 13.7x18 rear) in gold anodized finish with **HRE** center-lock adapters",
+    "Install a **Rocket Bunny** SF71H-specific aero kit (CFRP pre-preg construction) with adjustable **Gurney flaps** on the rear wing (3D-printed titanium endplates) and **Vortex Generators** on the front splitter (aligned with Ferrari’s 2018 wind tunnel data for +15% downforce at 220 km/h)",
+    "Replace OEM LED clusters with **Osram Laserline** adaptive headlights (DMD projection) and **Hella** 500W auxiliary driving lights (integrated into the halo wing), paired with **Sabelt** 6-point FIA-spec harnesses (carbon-fiber buckles) and **Sparco** QRT-K racing seats (Kepler fabric, 3D-scanned for SF71H cockpit ergonomics)"
+  ]
+}

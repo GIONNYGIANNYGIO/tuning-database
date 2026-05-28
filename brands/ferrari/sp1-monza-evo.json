@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "SP1 MONZA EVO",
+  "prestazioni": [
+    "Engine: F140 GA V12 (6.5L naturally aspirated) with a bespoke titanium crankshaft reinforcement by Pankl Racing Systems, reducing rotating mass by 18% while increasing torsional rigidity for 9,500 RPM redline stability. Matched with Mahle Motorsport forged pistons (12.5:1 compression) and Carrillo H-beam connecting rods for 850+ HP on Shell V-Power Racing 102 RON fuel.",
+    "Exhaust: Capristo 3.5-inch diameter inconel 625 equal-length headers with 4-into-1 merge collectors, paired with a straight-pipe titanium exhaust system by Novitec featuring electronically actuated bypass valves for sub-80dB track compliance. Backpressure optimized for 7,800 RPM torque peak via ANSYS CFD simulation.",
+    "Drivetrain: Hewland 7-speed sequential transaxle with carbon-fiber-reinforced gears (Xtrac P1227 spec) and a Sachs Performance twin-disc clutch (400mm diameter, 3,500 Nm torque capacity). Front differential upgraded to a Drexler Motorsport limited-slip unit with 75% lock under load, paired with a custom Quaife ATB differential in the rear for 0-60 mph in 2.7 seconds."
+  ],
+  "estetica": [
+    "Aerodynamics: G-Power SP1 Monza Evo-specific carbon-fiber body kit with a 3D-scanned front splitter (22% more downforce than OEM at 180 mph), rear diffuser by Vorsteiner (integrated with active Gurney flaps), and a fixed rear wing by 991 GT3 RS standards (adjustable angle via hydraulic actuators, +450 kg downforce at 200 mph).",
+    "Wheels: HRE FF16 flow-formed monoblock wheels (20x12 front, 21x13 rear) with titanium lug bolts by ARP, wrapped in Pirelli P Zero Trofeo R tires (345/30 R21 front, 355/25 R21 rear) shaved to 4.5mm tread depth for maximum lateral grip (+1.8G on skidpad).",
+    "Interior: Full Alcantara-wrapped cockpit by Sabelt with carbon-fiber bucket seats (Sparco Pro 2000 spec, 12-way adjustable), a custom roll cage by Matter Motorsport (chromoly steel, FIA 8862-2009 certified), and a digital dash by Motec C187 (logging 1,000 Hz data for lap-time analysis). OEM steering wheel replaced with a MOMO Prototipo Evo (carbon-fiber, 380mm diameter) featuring integrated paddle shifters by Bosch Motorsport."
+  ]
+}

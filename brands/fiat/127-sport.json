@@ -1,0 +1,14 @@
+{
+  "brand": "FIAT",
+  "model": "127 SPORT",
+  "prestazioni": [
+    "Engine swap to a **Fiat 128 Rally 1300 (128 A1.138)** inline-4 with forged **Mahle Motorsport 83.5mm pistons**, **Carrillo H-beam connecting rods**, and a **Dbilas 11.5:1 compression ratio cylinder head** featuring oversized **36mm intake/31mm exhaust valves** and **Schrick 284° camshafts** for high-RPM power delivery (target: 140+ HP on **Motul 300V 10W-60** race oil).",
+    "Forced induction via **Garrett GT2560R turbocharger** (0.63 A/R turbine housing) with **Tial MV-R 44mm wastegate**, **Custom 3-inch stainless steel exhaust manifold** (equal-length, 1.5mm wall thickness), and **Spearco 3.5-inch intercooler** (front-mount, 12-row core) paired with a **Bosch 044 fuel pump** and **ID1000x injectors** for 20psi boost (ECU: **Megasquirt MS3Pro PNP**).",
+    "Chassis reinforcement with **Custom 4-point roll cage (TIG-welded 4130 chromoly)** by **Autopower Industries**, **Polyurethane bushings (SuperPro 90 durometer)** for the **Fiat 127 Sport-specific trailing arms**, and **Ohlins DFV road & track coilovers** (adjustable damping, 200lb/in springs) paired with **Whiteline 22mm adjustable rear sway bar** and **Bilstein B16 dampers** for flat cornering."
+  ],
+  "estetica": [
+    "Full **Rocket Bunny-inspired widebody kit (FRP construction)** by **JapSpeed**, extending fenders by 50mm for **185/50R13 Yokohama AD08R tires** on **OZ Racing Superleggera 13x7 ET25 wheels** (gold finish, 4x98 PCD).",
+    "Custom **carbon fiber front splitter** (3D-printed mold, **Toray T700** layup) with **Gurney flap** and **rear diffuser** (integrated **LED brake cooling ducts**), paired with **Hella Rallye 700 driving lights** (CNC-machined aluminum mounts) for period-correct Group 2 aesthetics.",
+    "Interior stripped and reupholstered with **Recaro SRD bucket seats (Fiat 127-specific mounting brackets)**, **Sparco 6-point harnesses (FIA 8853/98)**, **Momo Prototipo steering wheel (350mm, suede)**, and **custom aluminum dashboard** (CNC-milled, **AEM X-Series gauges** for boost, AFR, and oil pressure)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "ENZO FXX EVO",
+  "prestazioni": [
+    "Engine: F140 DA (6.3L V12) with bespoke FXX Evo-spec Mahle Motorsport forged pistons (12.5:1 compression ratio) and Carrillo H-beam connecting rods, paired with a custom titanium valvetrain by Pankl Racing Systems for 9,500 RPM redline stability",
+    "Forced Induction: Twin-turbocharged via Garrett GTX5533R Gen II turbos (1.4 bar boost) with custom 42mm wastegates, integrated into a bespoke Novitec Rosso FXX Evo-specific intake manifold and intercooler setup (dual air-to-water cores by PWR)",
+    "ECU & Fueling: Bosch Motorsport MS17.8 engine management with dual Motec PDM30 power distribution modules, running 2,200cc/min ID1700x injectors and a Radium Engineering dual-catch-can system for crankcase ventilation under extreme boost"
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon-fiber FXX Evo Evolution Package by Ferrari Corse Clienti, including a 3D-printed titanium rear diffuser with active Gurney flaps (adjustable via cockpit controls) and a front splitter with integrated vortex generators by Capristo",
+    "Bodywork: Custom 3M Matte Viola Metallizzato wrap with exposed carbon-fiber weave on the roof, mirrors, and rear wing (FXX Evo-spec), paired with a bespoke Novitec Rosso front lip spoiler and side skirts with integrated LED turn signals",
+    "Wheels & Brakes: OZ Racing FXX Evo-spec magnesium wheels (20x12 front, 21x13 rear) with custom center-lock adapters, wrapped in Pirelli P Zero Trofeo R tires (345/30 R21 rear), and Brembo CCM-R carbon-ceramic brakes with gold-painted calipers (FXX Evo-exclusive)"
+  ]
+}

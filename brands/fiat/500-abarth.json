@@ -1,0 +1,14 @@
+{
+  "brand": "FIAT",
+  "model": "500 ABARTH",
+  "prestazioni": [
+    "Engine: T-JET 1.4L (170hp, engine code *314A1.000*) forced-induction upgrade with a *Garrett GT2259S* turbocharger (hybrid 52mm compressor wheel, 56 trim, 0.63 A/R turbine housing) paired with a *Forge Motorsport* silicone charge pipe kit (3.5\" diameter, reinforced with heat-resistant Kevlar) and a *TurboSmart Kompact 40mm* external wastegate (spring preload set to 1.2 bar absolute boost).",
+    "Fuel System: *Bosch Motorsport 0261500360* high-flow fuel injectors (440cc/min at 3.5 bar) with a *Radium Engineering* dual-core fuel rail and a *Walbro 450 LPH* in-tank fuel pump, controlled via a *Syvecs S6Plus* standalone ECU (custom 3D ignition and fuel maps with knock control via *Bosch LSU 4.9* wideband sensors).",
+    "Drivetrain: *Quaife ATB LSD* (80% lockup, 1.5-way) in a *Fiat 500 Abarth-specific* CWP (Close Ratio) gearbox with *PPG* 1st-4th gears (ratios: 3.35, 2.05, 1.45, 1.15) and a *South Bend Clutch* Stage 3 daily/race twin-disc setup (240mm, cerametallic friction, 2,500lb clamp load) mated to a *Spec* lightweight flywheel (8.5lb)."
+  ],
+  "estetica": [
+    "Aerodynamics: *Pandem Performance* widebody kit (FRP construction, 30mm extended fenders, integrated canards) with a *Voltex* Type-3 GT wing (carbon fiber, 1,400mm span, 300mm chord, adjustable angle of attack up to 18°) and a *Seibon Carbon* front splitter (35mm overhang, 3D-printed ABS supports).",
+    "Suspension: *Ohlins Road & Track DFV* coilovers (24-way adjustable damping, 30mm front/25mm rear drop, *Eibach* 8kg/mm front and 7kg/mm rear springs) with *SuperPro* poly bushings (front control arms, subframe, and rear trailing arms) and *Whiteline* adjustable rear sway bar (22mm, 3-position).",
+    "Exterior/Interior: *Rally Innovations* FIA-spec roll cage (T45 steel, 1.75\" x 0.120\" wall thickness, bolt-in design with integrated harness bar) wrapped in *3M* Gloss Black 2080 vinyl with *Apex Race Parts* 17x8 ET25 wheels (5x100 PCD, *Michelin Pilot Sport Cup 2* 225/40R17 tires). Interior stripped with *Sparco* Pro2000 seats (HANS-compatible, 12.5kg each) and a *MOMO* Mod.77 steering wheel (330mm, suede, quick-release hub)."
+  ]
+}

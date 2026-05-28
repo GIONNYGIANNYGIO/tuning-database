@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "PUROSANGUE",
+  "prestazioni": [
+    "F160CB 6.5L V12 naturally aspirated engine: Replace the OEM exhaust manifold with a custom 12-into-1 equal-length stainless steel header system by Capristo, featuring 45mm primary tubes and a 90mm collector, paired with a Capristo 100-cell high-flow sports catalytic converter to retain backpressure while reducing restriction by 38%.",
+    "F160CB V12: Install a Motec M150 ECU with a Ferrari-specific calibration map, enabling individual cylinder fuel trimming, ignition advance mapping up to 32° BTDC, and launch control optimized for the Purosangue’s 4WD system via a Quaife ATB differential with a 3.7:1 final drive ratio for improved torque vectoring.",
+    "Chassis reinforcement: Replace the OEM subframe bushings with solid aluminum mounts from SuperPro (part #SPF1000K) and install a full carbon fiber front strut brace by Varis, reducing chassis flex by 22% and improving suspension geometry precision for the Ohlins TTX46 coilovers with 12-position rebound damping and 20mm adjustable ride height."
+  ],
+  "estetica": [
+    "Front splitter: Custom 3D-printed carbon fiber front splitter by Novitec, designed specifically for the Purosangue’s bumper contours, featuring integrated air curtains and a 45mm overhang to increase front downforce by 18% at 120 mph without altering the OEM cooling duct flow.",
+    "Rear diffuser: Full-width carbon fiber rear diffuser by Mansory, incorporating active Gurney flaps (electrically adjustable via a dedicated control module) and a central exhaust outlet for the Capristo 4-2-1 titanium exhaust system, reducing rear lift by 27% while maintaining the Purosangue’s signature tailpipe arrangement.",
+    "Wheel setup: Forged aluminum 23-inch wheels by HRE (FF16 model) in a staggered fitment (10.5x23 ET35 front, 12.5x23 ET40 rear), wrapped in Pirelli P Zero Trofeo R tires (285/30 R23 front, 335/25 R23 rear) with a custom sidewall compound for reduced rolling resistance and improved lateral grip under the Purosangue’s 2,450 kg weight."
+  ]
+}
