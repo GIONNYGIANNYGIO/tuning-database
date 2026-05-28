@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "F2004",
+  "prestazioni": [
+    "Engine: Replace the stock Tipo 053 3.0L V10 (F1-2004) with a bespoke **Pankl Racing Systems** titanium connecting rod assembly (900g lighter per rod) and **Mahle Motorsport** forged pistons (12.5:1 compression ratio) to handle 19,500 RPM reliably under **Shell V-Power Racing 102 RON** fuel with **Bosch MS 14.2.1** ECU recalibration for optimized ignition timing and fuel maps at high revs.",
+    "Forced Induction: Install a **Garrett GT4202R** turbocharger (custom-machined for the Tipo 053) with a **Tial MV-R 44mm** wastegate and **PWR Racing** 500kW intercooler core (replacing the stock air-to-water setup) to achieve 850+ HP at 1.8 bar boost, paired with a **Honeywell** billet aluminum turbo manifold (F2004-specific, 1.5mm wall thickness).",
+    "Suspension & Aero: Fit **Öhlins TTX40** 3-way adjustable dampers with **Eibach** 1200N/mm springs (front) and 1400N/mm (rear) for 3mm lowered ride height, combined with a **Capristo** carbon fiber front splitter (F2004-specific, 40% stiffer than OEM) and **AP Racing** 6-piston monoblock calipers with **Brembo HTC 64T** 380mm carbon-ceramic rotors for 30% improved fade resistance."
+  ],
+  "estetica": [
+    "Body: Apply a **Gianetti** full carbon fiber body kit (F2004 homologated, 2x2 twill weave) with **PPG Velocity Red** paint (Ferrari Classiche-certified) and **3M Scotchcal 950** matte black accents on the rear diffuser and side skirts for a 15% weight reduction over OEM panels.",
+    "Interior: Replace the stock carbon fiber tub with a **Sparco Pro 2000** FIA 8862-2009 certified seat (Ferrari-specific mounting brackets) and **MOMO** 350mm suede steering wheel (F2004 quick-release hub), paired with **Schroth** 6-point harnesses and a **Motec C185** dash logger (integrated with the Bosch ECU).",
+    "Aerodynamics: Install a **Vortex Generators** carbon fiber rear wing (F2004-specific, 1.2m span, 30mm Gurney flap) with **AIM Solo 2 DL** telemetry for real-time downforce adjustments, and **BBS LM-R** 18x12 (front) / 18x13 (rear) forged wheels wrapped in **Pirelli P Zero Trofeo R** 335/625R18 tires (Ferrari-approved compound)."
+  ]
+}

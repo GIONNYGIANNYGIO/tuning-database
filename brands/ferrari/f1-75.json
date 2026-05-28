@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "F1-75",
+  "prestazioni": [
+    "Engine: 066/7 1.6L V6 turbocharged hybrid power unit (Ferrari E6 2022-spec) with a custom Motec M150 ECU reflash targeting 1,050+ hp (combined ICE + MGU-K) via increased fuel flow rates (110 kg/h) and optimized energy deployment maps for qualifying laps, paired with a Garrett GT35R turbo upgrade (84mm compressor wheel, 62mm turbine) and a bespoke Akrapovič titanium exhaust manifold with Inconel 625 headers to reduce backpressure by 18%",
+    "Suspension: Öhlins TTX46 MkII 3-way adjustable dampers with Ferrari-specific valving for the F1-75’s pushrod-actuated front and pullrod rear setup, featuring carbon-fiber spring perches and a 20mm lowered ride height via custom titanium coilover collars, paired with a T45 steel anti-roll bar kit from Tarox (24mm front, 22mm rear) to reduce body roll by 30% during high-speed cornering",
+    "Aerodynamics: Full carbon-fiber aero package from 9tuning, including a front splitter with active Gurney flaps (adjustable via hydraulic actuators), a rear diffuser with 12% more downforce via extended strakes (modeled after Ferrari’s 2022 Le Mans aero), and a custom rear wing with DRS-style active flaps (30% more downforce in closed position) and a 1,200g carbon-fiber construction to maintain rigidity at 200+ mph"
+  ],
+  "estetica": [
+    "Body: Full 9tuning ‘Scuderia’ widebody kit for the F1-75, featuring 3D-scanned carbon-fiber fenders (50mm wider front, 70mm wider rear) with integrated NACA ducts for brake cooling, paired with a custom front bumper lip with LED-embedded turning vanes (inspired by the 499P) and a rear diffuser with titanium exhaust outlets (dual 100mm tips) from Capristo",
+    "Wheels: Forged BBS FI-R 18x12” (front) and 18x13” (rear) wheels in a custom ‘Ferrari Rosso Corsa’ finish with center-lock titanium nuts, wrapped in Pirelli P Zero Trofeo R tires (305/660R18 front, 325/705R18 rear) for maximum mechanical grip, paired with Brembo GT-R monobloc calipers (6-piston front, 4-piston rear) and 400mm carbon-ceramic rotors with titanium hats",
+    "Interior: Full Alcantara-wrapped cockpit with a custom Sabelt 6-point harness (FIA 8862-2009 certified) and a carbon-fiber steering wheel from Ferrari’s XX program (featuring a 12.3” OLED display with real-time telemetry), paired with a bespoke titanium shift knob (CNC-machined from aerospace-grade Ti-6Al-4V) and a roll cage from Sparco (T45 steel, 25CD4S alloy) with integrated fire suppression system (Lifeline Zero 360)"
+  ]
+}

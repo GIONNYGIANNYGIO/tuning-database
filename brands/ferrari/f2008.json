@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "F2008",
+  "prestazioni": [
+    "Engine: Replace the stock 2.4L Tipo 056 V8 (F138) with a bespoke 3.0L V10 derived from the Ferrari FXX-K Evo program, utilizing a billet aluminum block by Pankl Racing Systems and titanium connecting rods by Carrillo, paired with a custom dry-sump lubrication system by Peterson Fluid Systems to handle sustained 18,000 RPM operation.",
+    "Forced Induction: Twin-turbocharged setup using Garrett GTX5533R Gen II turbos with 62mm compressor wheels and 76mm turbine wheels, mated to a custom titanium exhaust manifold by Capristo and a secondary wastegate system by Turbosmart to eliminate boost creep at 3.5 bar of pressure, with an air-to-water intercooler by PWR Racing.",
+    "Electronics & Fuel: Motec M150 ECU with a custom CAN bus integration for the F2008's semi-automatic gearbox, paired with a 12-stage fuel system upgrade featuring Bosch Motorsport 2000cc injectors, a Radium Engineering dual-pump hanger, and a custom fuel rail by Injector Dynamics, with a methanol injection kit by Snow Performance for cooling and octane enhancement."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon fiber aero package by FXX K Evo homologation standards, including a front splitter with active Gurney flaps by Vorsteiner, a rear diffuser with integrated strakes by APR Performance, and a rear wing derived from the Ferrari 488 GTE, adjustable via hydraulic actuators by Dymag.",
+    "Bodywork: Custom widebody conversion using carbon fiber panels by Liberty Walk, with a 50mm front and 75mm rear track increase, paired with custom carbon fiber side skirts featuring integrated cooling ducts for the rear brakes and differential, all finished in a matte Rosso Corsa with gold leaf accents by Foglizzo.",
+    "Interior: Full carbon fiber monocoque by Sabelt, featuring a 6-point harness setup with Schroth Profi II ASM belts, a custom steering wheel by MOMO with integrated Motec dash display, and a bespoke titanium roll cage by Custom Cages UK, designed to FIA F1 safety standards with integrated fire suppression by Lifeline."
+  ]
+}

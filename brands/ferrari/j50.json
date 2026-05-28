@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "J50",
+  "prestazioni": [
+    "Engine: F154FB 3.9L twin-turbo V8 (680hp stock) – Full titanium internals upgrade with Manley 87mm forged pistons, Carrillo H-beam connecting rods, and a billet crankshaft from JE Pistons to handle 1,000hp+ on E85. Pair with a custom GTX5533R turbocharger from Garrett, featuring a 106mm compressor wheel and 90mm turbine wheel, optimized for the J50’s unique exhaust manifold design.",
+    "Fuel System: Full Motec M150 ECU standalone conversion with dual Bosch Motorsport 2,200cc injectors per cylinder, fed by a Radium Engineering dual-pump fuel surge tank and a Fore Innovations F2i-1000 fuel pump. Upgrade to a custom billet fuel rail from Injector Dynamics with AN-10 feed lines and a -8 return system.",
+    "Suspension & Handling: Öhlins TTX46 coilovers with 3-way adjustable damping, custom valving for the J50’s aluminum-intensive chassis, and spherical bearing top mounts from SuperPro. Pair with a full carbon fiber front splitter from Novitec’s J50-specific aero kit, reinforced with titanium support rods, and a custom 3D-printed rear diffuser from 991 Racing to reduce lift by 40%."
+  ],
+  "estetica": [
+    "Exterior: Full carbon fiber body conversion using dry carbon from 268 Racing, including a custom widebody kit with 50mm extended fenders (front and rear) to fit 20x12.5 ET45 front and 21x13.5 ET50 rear wheels from HRE’s FF16 flow-formed series, wrapped in Michelin Pilot Sport Cup 2 R tires (285/30 and 325/30 respectively).",
+    "Aero: Custom active rear wing from Vorsteiner, designed specifically for the J50’s rear deck, with a 3-position hydraulic adjustment system (low drag, balanced, max downforce) and integrated DRS (Drag Reduction System) for track use. Pair with a Novitec carbon fiber engine cover featuring a clear polycarbonate window to showcase the F154FB’s titanium internals.",
+    "Interior: Full Alcantara-wrapped Recaro Pole Position seats with integrated 6-point Schroth harnesses, a custom roll cage from Matter Fab (TIG-welded 4130 chromoly) with integrated fire suppression system from SPA Technique. Replace the stock steering wheel with a Momo Prototipo EVO with a quick-release hub and integrated Motec C127 dash display for real-time telemetry."
+  ]
+}

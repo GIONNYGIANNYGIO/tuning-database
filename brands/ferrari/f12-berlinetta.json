@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "F12 BERLINETTA",
+  "prestazioni": [
+    "Engine: F152C 6.3L V12 (65° naturally aspirated) – Full titanium connecting rods by Pankl Racing Systems (20% lighter than OEM, 1000+ HP capable) with ARP Custom Age 625+ head studs and billet main caps for 9,500 RPM stability.",
+    "Forced Induction: Novitec Rosso F12 N-Largo twin-turbo kit (Garrett GTX5533R Gen II turbos, 1.2 bar boost, 850 HP at wheels) with custom Novitec CNC-machined titanium intake plenums, 1000cc ID1000 injectors, and a Motec M150 ECU with Ferrari-specific CAN bus integration for traction control and launch control retention.",
+    "Suspension: KW Automotive Clubsport coilovers (3-way adjustable, 12-position rebound, 16-position compression, 20mm height adjustability) with custom Ferrari-specific top mounts by H&R to clear OEM carbon-ceramic brakes (CCM-R 398mm front, 380mm rear) and Novitec Rosso 20mm front / 15mm rear anti-roll bars with spherical bearings."
+  ],
+  "estetica": [
+    "Aerodynamics: Novitec Rosso N-Largo widebody kit (carbon fiber, 60mm front / 80mm rear fender flares) with integrated carbon diffuser and active rear spoiler (OEM+ 30mm height adjustment via Ferrari Manettino switch). Front splitter features 3D-printed titanium supports and a Gurney flap for +120kg downforce at 250 km/h.",
+    "Wheels: HRE FF16 FlowForm wheels (20x10.5 ET35 front, 21x13 ET45 rear) with custom Ferrari center-lock adapters, wrapped in Michelin Pilot Sport Cup 2 R tires (275/30 R20 front, 325/25 R21 rear) and Novitec Rosso titanium lug bolts.",
+    "Exterior Trim: Full carbon fiber engine cover (Novitec Rosso, 40% lighter than OEM) with exposed F152C V12 and custom Novitec Rosso carbon fiber side skirts with integrated LED turn signals. Rear bumper features a Novitec Rosso titanium exhaust system (4x100mm outlets, Inconel 625 headers, and vacuum-actuated bypass valves for OEM+ sound levels)."
+  ]
+}

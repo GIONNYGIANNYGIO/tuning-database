@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "512 S BERLINETTA",
+  "prestazioni": [
+    "Engine: Replace the original Tipo 261C 5.0L V12 (610 HP) with a fully balanced and blueprinted version using forged Mahle Motorsport pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from JP Performance. Pair with a custom dry-sump system by Aviaid for optimized oil scavenging under sustained lateral G-forces.",
+    "Forced Induction: Twin-turbocharged setup using Garrett GTX5533R Gen II turbos (1.25 A/R turbine housings) with TiAL Sport 44mm wastegates and a custom air-to-water intercooler system by PWR. Boost controlled via a Motec M150 ECU with individual cylinder fuel trims and sequential ignition mapping for 900+ HP on VP Racing Q16 fuel.",
+    "Suspension & Chassis: Full chassis reinforcement with a custom roll cage by Matter Fab (chromoly steel, FIA-spec) and a bespoke coilover setup by Öhlins TTX46 MkII with 3-way adjustable damping (compression, rebound, and high-speed compression). Front and rear anti-roll bars upgraded to adjustable units by H&R, paired with spherical bearing mounts for zero deflection."
+  ],
+  "estetica": [
+    "Aerodynamics: Custom carbon fiber body kit by Novitec Rosso, including a 512 S-specific front splitter with integrated canards, side skirts with vortex generators, and a rear diffuser with active Gurney flap (adjustable via cockpit switch). Rear wing is a custom 3D-printed titanium unit by 9 Lives Racing, designed for 300+ kg of downforce at 250 km/h.",
+    "Wheels & Brakes: Forged magnesium wheels by BBS (18x12 front, 18x14 rear) with custom center-lock adapters, wrapped in Pirelli P Zero Trofeo R tires (275/35 R18 front, 335/30 R18 rear). Braking system features 390mm carbon-ceramic rotors by Brembo (CCM-R) with 6-piston monoblock calipers, paired with Ferodo DS3.12 pads for endurance racing.",
+    "Interior & Details: Full Alcantara-wrapped interior by Sabelt, including a custom 6-point harness (Schroth Profi II) and a digital dash by AIM MXS Strada. Exterior accents include a custom gold-tinted clear coat by PPG (matching the original 1970s Ferrari Oro paint scheme) with hand-polished bare carbon fiber weave on the hood and roof."
+  ]
+}

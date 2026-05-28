@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "KC23",
+  "prestazioni": [
+    "Engine: F154BE 3.9L twin-turbo V8 (derived from 488 Pista) with a custom Novitec-engineered forged internals package, including Carrillo H-beam connecting rods, Mahle Motorsport forged pistons (9.5:1 compression), and a billet crankshaft with balanced rotating assembly for 9,500 RPM redline capability",
+    "Forced Induction: Twin Garrett GTX5533R Gen II turbochargers with 64mm billet compressor wheels, custom 3D-printed titanium turbine housings (by TurboSmart), and a Novitec-developed titanium exhaust manifold with equal-length runners for optimized spool and 1.5 bar peak boost",
+    "Fuel & Ignition: Full Motec M150 ECU standalone system with individual cylinder fuel and ignition mapping, paired with a Novitec-spec fuel system featuring twin Bosch Motorsport 044 high-flow fuel pumps, ID1700x injectors, and a custom Novitec titanium fuel rail with AN-10 fittings"
+  ],
+  "estetica": [
+    "Body: Novitec N-Largo widebody conversion kit with carbon fiber front splitter, side skirts, and rear diffuser, including a custom 3D-printed carbon fiber rear wing (modeled after the 296 GTB's active aero) with adjustable Gurney flaps and integrated LED brake cooling ducts",
+    "Suspension: Öhlins TTX46 MkII coilovers with 3-way adjustable damping, custom Novitec-spec titanium top mounts, and spherical bearing control arms (replacing OEM rubber bushings) for sub-3Hz chassis frequency tuning, paired with a Novitec-developed carbon fiber front strut brace",
+    "Wheels & Aero: HRE FF16 flow-formed wheels (20x10.5 +30 front, 21x12.5 +45 rear) wrapped in Michelin Pilot Sport Cup 2 R tires (275/30 front, 325/30 rear), with custom Novitec carbon fiber wheel spacers (15mm front, 20mm rear) and a Novitec-spec titanium wheel stud conversion"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "F430 SPIDER",
+  "prestazioni": [
+    "Engine: F136 E 4.3L V8 (490hp stock) – Full titanium internals upgrade with Carrillo H-beam connecting rods, JE forged pistons (12.5:1 compression), and a billet crankshaft from Manley Performance to handle 800+ hp on E85 fuel. Pair with a custom dry-sump system by Peterson Fluid Systems (4-stage) to eliminate oil starvation during high-G cornering.",
+    "Forced Induction: Twin-turbo setup using Garrett GTX5533R Gen II turbos (1.25 A/R, 76mm compressor wheels) with TiAL MV-R 44mm wastegates and a custom intercooler core by PWR (bar-and-plate, 1200cfm airflow) mounted in the front bumper with CNC-machined aluminum ducting. Boost controlled via a Motec M150 ECU with flex-fuel mapping and individual cylinder knock control.",
+    "Exhaust: Full titanium 3.5-inch diameter exhaust system by Capristo (catless headers, merge collectors, and a valved rear section) with Inconel 625 tubing and Akrapovic carbon-fiber mufflers. Pair with a secondary exhaust bypass valve system (operated via paddle shifters) for on-demand backpressure reduction."
+  ],
+  "estetica": [
+    "Aero: Full carbon-fiber body kit by Novitec Rosso (F430 Spider-specific) including a front splitter with integrated canards, side skirts with air curtains, and a ducktail spoiler with active Gurney flap (adjustable via a cockpit switch). Underbody features a custom diffuser by Vorsteiner with vortex generators and a flat undertray for 30% more downforce at 150mph.",
+    "Wheels: Forged 3-piece HRE FF16 wheels (20x9.5 front, 20x12 rear) with titanium hardware, wrapped in Michelin Pilot Sport Cup 2 R tires (255/30/20 front, 335/25/20 rear). Custom wheel spacers by H&R (15mm front, 25mm rear) to fill the arches and improve stance.",
+    "Interior: Full Alcantara retrim by Sabelt (seats, dash, door cards) with red stitching and carbon-fiber weave inserts. Custom roll cage by Matter Italy (FIA-spec, bolt-in) with integrated fire suppression system (Lifeline Zero 360) and a digital dash by AIM MXS Strada (1.3-inch OLED) displaying boost, AFR, and lap times via a RaceLogic VBOX."
+  ]
+}

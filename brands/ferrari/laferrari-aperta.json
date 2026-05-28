@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "LAFERRARI APERTA",
+  "prestazioni": [
+    "Upgrade to a **Weber MotorSport F140FE (6.3L V12 hybrid) Stage 3+ ECU calibration**, optimizing the direct fuel injection timing and MGU-K/MGU-H energy deployment for a 50% increase in electric torque delivery (from 163 Nm to 245 Nm) under 5,000 RPM while maintaining the stock 963 PS (950 hp) at 9,000 RPM. Requires a **Motec PDM30 power distribution module** to handle the increased electrical load and prevent voltage sag during full-throttle acceleration.",
+    "Install a **Novitec Rosso F140FE-specific titanium crankshaft damper** (2.2 kg lighter than OEM) paired with **Pankl Racing Systems forged connecting rods** (H-beam, 4340 steel) to reduce reciprocating mass by 18%, allowing safe revs to 9,500 RPM with a **Schrick 90mm throttle body upgrade** for improved airflow to the naturally aspirated V12.",
+    "Replace the OEM **Bosch MGU-K (motor generator unit-kinetic)** with a **YASA P400 electric motor** (300 kW peak, 20% more power density) and integrate a **Marelli 800V silicon carbide inverter** to reduce switching losses by 30%. Pair with a **Williams Advanced Engineering 12.3 kWh lithium-ion battery pack** (up from 2.3 kWh OEM) for 45 seconds of continuous 300 kW electric boost, requiring a **GKN eAxle torque vectoring system** for rear-wheel drive stability."
+  ],
+  "estetica": [
+    "Fit a **Liberty Walk LB-WORKS LaFerrari Aperta widebody kit** (carbon fiber, 50mm rear fender flares) with **custom 3D-printed titanium wheel spacers** (15mm front, 20mm rear) to accommodate **HRE FF16 flow-formed wheels** (20x10.5 ET30 front, 21x13 ET40 rear) wrapped in **Pirelli P Zero Trofeo R tires** (265/30 R20 front, 345/25 R21 rear).",
+    "Install a **Novitec Rosso F140FE-specific carbon fiber underbody diffuser** with **active Gurney flaps** (electrically actuated via the OEM Manettino switch) and a **Vorsteiner GT-S rear wing** (adjustable carbon fiber, 30% more downforce at 200 km/h than OEM). Pair with **custom titanium exhaust outlets** (dual 100mm, Inconel 625) from **Capristo** for a 12 dB deeper tone without drone.",
+    "Replace the OEM **Scuderia Ferrari badges** with **hand-engraved titanium units** (from **BBS Motorsport**) and add **electroluminescent door sills** (powered by the hybrid system, displaying real-time power output in PS). Interior upgrades include **Recaro Pole Position carbon-Kevlar seats** (6.5 kg lighter than OEM) with **Alcantara suede-wrapped shift paddles** (from **Sabelt**) and a **custom titanium shift knob** (CNC-machined, 3D-printed lattice structure for weight reduction)."
+  ]
+}

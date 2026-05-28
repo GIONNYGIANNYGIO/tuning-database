@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "512 BB",
+  "prestazioni": [
+    "Engine: Replace the stock 4.9L *F102 B* flat-12 with a fully built *F102 C* variant featuring forged Mahle pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from JP Performance. Pair with a custom dry-sump system by Aviaid to eliminate oil starvation during high-G cornering.",
+    "Forced Induction: Twin Garrett GT35R turbos (846521-5002S) with TiAL MV-R 44mm wastegates and custom 3.5\" stainless steel exhaust manifolds by Novitec, feeding into a 4.5\" Inconel downpipe and a Capristo 100-cell catalytic converter system. Boost set to 1.2 bar (17.4 psi) with a Motec M150 ECU managing sequential injection and individual cylinder tuning.",
+    "Suspension: Full Ohlins TTX40 coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression), paired with spherical bearing top mounts from SuperPro. Rear subframe reinforced with a custom tubular brace by Novitec to handle increased torque, and polyurethane bushings from Whiteline for sharper turn-in response."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion using the *Rocket Bunny Ferrari 512 BB* kit (Pandem Design), including extended front fenders, aggressive side skirts, and a custom rear diffuser with integrated twin exhaust outlets. Front splitter and rear wing are 3K twill carbon fiber with adjustable angle of attack (up to 15 degrees).",
+    "Wheels: Forged BBS LM-R 18x10.5\" (front) and 18x13\" (rear) with custom offsets (-15mm front, +5mm rear) to clear the widebody fenders. Tires: Michelin Pilot Sport Cup 2 R (275/35/18 front, 345/30/18 rear) for maximum mechanical grip.",
+    "Interior: Full Alcantara retrim by Sabelt, including Recaro SPG XL seats with 6-point harnesses (Schroth Profi II-6). Custom Motec C127 dash display integrated into the original gauge cluster housing, with a bespoke carbon fiber center console housing a quick-shift lever for the upgraded 5-speed dogbox (Holinger RD5)."
+  ]
+}

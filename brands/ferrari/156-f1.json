@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "156 F1",
+  "prestazioni": [
+    "Replacement of the original *Tipo 178* 1.5L V6 engine with a *Ferrari Tipo 143* 2.4L V6 block, bored and stroked to 2.7L (86mm bore x 77mm stroke) using forged Mahle pistons (12.5:1 compression ratio) and Carrillo H-beam connecting rods, paired with a bespoke *Weber 42 DCN* triple-carburetor setup (individual throttle bodies per cylinder) for optimized airflow and throttle response at 12,000 RPM redline.",
+    "Installation of a *Hewland DG300* 5-speed transaxle with a *ZF Sachs* limited-slip differential (40% lockup) and a custom *AP Racing* 3-plate carbon clutch (240mm diameter) to handle the increased torque (280 Nm at 9,500 RPM) from the stroked Tipo 143 engine, with a *Quaife* sequential gearshift kit for sub-100ms shifts.",
+    "Chassis reinforcement via a *T45 steel* tubular spaceframe (replacing the original ladder frame) with *Alcan* 5083 aluminum honeycomb floor panels, paired with *Ohlins TTX40* 3-way adjustable coilovers (22-way rebound, 20-way compression, 12-way high-speed compression) and *Brembo* 6-piston calipers (380mm vented carbon-ceramic rotors) for 1.2G braking performance."
+  ],
+  "estetica": [
+    "Full *Pininfarina* 1961-spec body restoration with *Gurney-Weslake* front splitter (hand-formed 0.8mm aluminum) and a *Ferrari Classiche* rear spoiler (20% chord, 3° angle of attack) for 180kg downforce at 200 km/h, finished in *Rosso Corsa* with *PPG* K2000 clear coat for UV resistance.",
+    "Custom *Momo* 380mm suede steering wheel (flat-bottom, 3-spoke) with *Smiths* 8,000 RPM chronometric tachometer and *Jaeger* oil pressure/fuel level gauges (vintage 1961 spec) mounted in a *Nardi* aluminum dashboard, paired with *Sparco* 6-point harnesses (FIA 8853/98 standard) and a *Recaro* SRD carbon-Kevlar bucket seat (HANS-compatible).",
+    "Engine bay detailing with *TIG-welded* stainless steel exhaust headers (1.75\" primary tubes, 3\" collector) wrapped in *Thermo-Tec* Titanium exhaust wrap, paired with *Dymag* magnesium wheels (15x8 front, 15x10 rear) and *Pirelli* P7 Corsa tires (5.50-15 front, 7.00-15 rear) for period-correct grip levels."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "F430",
+  "prestazioni": [
+    "Engine: F136 E 4.3L V8 (490hp stock) – Full internal build with forged Mahle Motorsport pistons (9.5:1 CR), Carrillo H-beam connecting rods, and a billet crankshaft from JE Pistons to handle 800hp+ reliably. Pair with a custom dry-sump system by Peterson Fluid Systems (4-stage) to eliminate oil starvation under lateral G-forces.",
+    "Forced Induction: Twin-turbo setup using Garrett GTX5533R turbos (86mm, 1.32 A/R) with TiAL MV-R 44mm wastegates and a custom intercooler core by PWR (bar-and-plate, 1200hp-capable) mounted in a relocated front bumper duct setup. Boost controlled via a Motec M150 ECU with flex-fuel mapping for E85 compatibility.",
+    "Drivetrain: Upgraded F1 gearbox with a custom Quaife ATB differential (85% lock) and a Sachs Performance twin-disc clutch (ceramic-metallic, 1000Nm torque capacity). Pair with a Gintani carbon-fiber driveshaft to reduce rotational mass and a custom 3.73:1 final drive ratio for optimized acceleration."
+  ],
+  "estetica": [
+    "Aerodynamics: Novitec Rosso N-Largo widebody kit (carbon fiber, 50mm wider front fenders, 70mm rear) with integrated canards and a custom 3D-printed underbody diffuser by Vorsteiner. Front splitter extended 30mm with a Gurney flap for increased downforce (tested at 120kg @ 200km/h).",
+    "Wheels & Tires: HRE FF16 flow-formed wheels (19x10.5 ET30 front, 20x12.5 ET40 rear) wrapped in Michelin Pilot Sport Cup 2 R tires (275/30 R19 front, 345/25 R20 rear). Custom center-lock adapters by DPE for Ferrari OEM hubs with titanium wheel bolts from ARP.",
+    "Exterior & Interior: Full GTS-style carbon fiber roof by Capristo (weight reduction: 8kg) with a custom matte Grigio Titanio paint scheme (PPG D8188). Interior features a full Alcantara retrim by Sabelt (seats, dash, door cards) with a custom roll cage by Matter Fab (chrome-moly, FIA-spec) and a digital dash display by AIM MXS Strada."
+  ]
+}

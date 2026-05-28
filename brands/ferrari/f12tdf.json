@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "F12TDF",
+  "prestazioni": [
+    "Engine: F152C 6.3L V12 (6895cc) naturally aspirated—full titanium connecting rods from Pankl Racing Systems (20% lighter than OEM, rated for 10,000+ RPM) paired with Carrillo forged pistons (12.5:1 compression, DLC-coated skirts) to withstand 8,900 RPM redline under sustained track use.",
+    "Forced induction bypass: Custom 2.7L dry-sump oil system by Peterson Fluid Systems (dual-scavenge, 12-stage filtration) with integrated Accusump 1.5L pre-oiler to prevent oil starvation during 1.5G+ lateral loads in high-speed corners like Nürburgring’s Fuchsröhre.",
+    "ECU & drivetrain: Motec M182 standalone ECU with Ferrari-specific CAN bus integration, enabling individual cylinder fueling (via 12x Bosch Motorsport 1200cc injectors) and ignition timing mapped in 0.1° increments for the F152C’s 48V coil-on-plug system. Paired with a Quaife ATB helical LSD (85% lockup) and a Sachs Performance dual-mass flywheel (30% lighter, SFI 18.1 certified) for sub-100ms gear shifts via the F1 DCT’s ‘Race’ mode recalibration."
+  ],
+  "estetica": [
+    "Aerodynamics: Novitec Torado F12TDF-specific carbon fiber widebody kit (front splitter with integrated 3D-printed vortex generators, rear diffuser with active Gurney flap via electric actuators, and a fixed rear wing derived from the 488 GTE’s ‘long tail’ homologation). Underbody features a full-length carbon floor with 9x NACA ducts for brake cooling and a rear diffuser with 4x active flaps (controlled via Motec PDM15) to reduce drag by 12% at 280+ km/h.",
+    "Lightweighting: Full carbon fiber interior by Sabelt (monocoque carbon bucket seats with 6-point harnesses, Alcantara-wrapped carbon door cards, and a custom roll cage by Heigo Competition—FIA 8862-2018 certified, titanium bolt-on points). Exterior features a full carbon fiber hood (3.2kg lighter than OEM) with a central NACA duct feeding the F152C’s secondary air intake, and magnesium wheels by HRE (FF16 20x11 front, 21x13 rear) wrapped in Pirelli P Zero Trofeo R tires (345/25 R21, 200 treadwear).",
+    "Exhaust & Sound: Capristo 102RSX titanium exhaust system (4-into-1 headers with 42mm primary tubes, 120mm dual outlets) featuring a bypass valve controlled by the Motec ECU to switch between ‘Sport’ (98dB at 4,500 RPM) and ‘Track’ (112dB, backpressure reduced by 28%). The system includes a secondary ‘straight pipe’ mode for Nürburgring laps, with a custom X-pipe resonator delete for a 6,800 RPM crackle tune."
+  ]
+}

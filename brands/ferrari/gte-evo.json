@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "GTE EVO",
+  "prestazioni": [
+    "Engine: F154CB 3.9L Twin-Turbo V8 (specific to 488 GTE Evo) – Full Motec M150 ECU calibration with 650+ HP on 102 RON fuel, optimized for FIA WEC endurance mapping (12-hour race fuel trim, aggressive transient response for Le Mans chicanes).",
+    "Forced Induction: Garrett GTX5533R Gen II turbochargers (76mm billet compressor, 64mm turbine) with TiAL MV-R 60mm wastegates and custom 4-ply silicone charge pipes (PTP Fabrication) to handle 2.2 bar peak boost in qualifying trim.",
+    "Suspension: Öhlins TTX46 MkII 4-way adjustable dampers with GTE-specific spring rates (600 lb/in front, 800 lb/in rear) and custom spherical bearing top mounts (Tractive Suspension) for 3mm lower ride height (FIA compliance)."
+  ],
+  "estetica": [
+    "Aerodynamics: Full GTE Evo OMP carbon fiber aero kit (front splitter, rear diffuser, and 1850mm rear wing with Gurney flap) – CFD-optimized for 1,200 kg downforce at 250 km/h (Le Mans Mulsanne Straight spec).",
+    "Body: Custom 3M 1080 Matte Graphite vinyl wrap with Ferrari Corse Clienti livery (red/white/black stripe pattern) and carbon fiber door sills (Novitec).",
+    "Wheels: BBS FI-R 18x13 (front) and 18x14 (rear) forged magnesium wheels with Michelin Pilot Sport Cup 2 R tires (30/65-18 front, 31/71-18 rear) – FIA homologated for GTE class."
+  ]
+}

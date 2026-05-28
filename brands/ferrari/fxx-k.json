@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "FXX K",
+  "prestazioni": [
+    "F140 FL 6.3L V12 hybrid powertrain recalibration via Magneti Marelli MM100 ECU with bespoke Ferrari Corse software (Stage 3+ mapping), targeting 1,100+ hp (820 kW) at 9,500 RPM with 750 Nm of torque, utilizing a 20% ethanol blend (E20) for optimized combustion efficiency and reduced thermal stress on the forged Mahle pistons (9.0:1 compression ratio).",
+    "Garrett GTX5533R turbocharger upgrade (single, custom-machined for F140 FL) with billet compressor wheel, 76mm inducer, and 106mm exducer, paired with a custom titanium 4.5-inch downpipe (Tubi Style) and a secondary electric water-methanol injection system (AEM 3400) to mitigate pre-detonation at 2.5 bar boost levels.",
+    "Ohlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed rebound), custom valving for the FXX K’s carbon-fiber monocoque, and integrated ride-height sensors for dynamic aero optimization (active front splitter and rear diffuser adjustments via Ferrari’s proprietary SSC5 system)."
+  ],
+  "estetica": [
+    "Novitec Torado FXX K-specific carbon-fiber widebody kit (front fenders, rear quarter panels, and rear diffuser extensions) with integrated 3D-printed air curtains for brake cooling, finished in matte Ferrari Giallo Modena with exposed carbon weave accents.",
+    "Rocket Bunny V3 rear wing (custom-molded for FXX K) with dual-element active Gurney flaps (electrically actuated via the car’s SSC5 system), adjustable from 0 to 25 degrees of attack, and a 1,800mm wingspan for 30% more downforce at 250 km/h (vs. stock).",
+    "Brembo GT-R 6-piston monobloc calipers (front) and 4-piston (rear) with carbon-ceramic discs (410mm x 38mm front, 390mm x 32mm rear), paired with Pagid RS29 brake pads and custom titanium brake lines (Goodridge G-Stop) for 30% reduced unsprung weight and 15% improved pedal feel."
+  ]
+}

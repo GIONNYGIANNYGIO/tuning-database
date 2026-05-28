@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "ENZO XX EVOLUTION",
+  "prestazioni": [
+    "F140B 6.3L V12 engine bored to 6.5L with forged Mahle Motorsport pistons (12.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft by VAC Motorsports for 900+ HP on 100-octane fuel with a custom Motec M150 ECU managing direct port methanol injection (AEM 340LPH pumps) and a dry-sump oiling system (Dailey Engineering 4-stage pump)",
+    "Twin Garrett GTX5533R Gen II turbochargers (84mm inducer, 1.15 A/R turbine housings) with custom 4-into-1 stainless steel headers by Novitec Rosso, paired with a GReddy Profec B Spec II boost controller and a custom air-to-water intercooler (PWR Advanced Cooling) with dual 12-inch fans and a 5-gallon ice reservoir",
+    "Full titanium exhaust system by Capristo (4.5-inch diameter, 304L stainless steel with Inconel 625 headers) featuring a valved X-pipe with dual Akrapović Racing Line mufflers (carbon fiber tips) and a secondary bypass system for track-only backpressure reduction, controlled via a Motec PDM15"
+  ],
+  "estetica": [
+    "Full carbon fiber widebody conversion by Edo Competition (XX Evolution-specific kit) with integrated NACA ducts for brake cooling and a 3D-printed titanium front splitter with active aerodynamic elements (adjustable via hydraulic actuators, controlled by the Motec ECU)",
+    "Custom 3-piece forged aluminum wheels by HRE (FF16 20x12 front, 21x13 rear) with titanium lug bolts and Michelin Pilot Sport Cup 2 R tires (345/30 R21 rear), wrapped in a bespoke matte Viola Micalizzato paint with hand-painted Scuderia Ferrari stripes (Pininfarina-approved design)",
+    "Full interior rework by Sabelt including carbon fiber bucket seats (Sparco Pro 2000) with 6-point harnesses, a custom roll cage by Matter Italy (chromoly steel, FIA 8862-2009 certified) with integrated fire suppression system (Lifeline Zero 360), and a digital dash by AIM MXS Strada (1.3-inch OLED) with real-time telemetry overlay"
+  ]
+}

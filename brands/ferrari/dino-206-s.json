@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "DINO 206 S",
+  "prestazioni": [
+    "Engine: Replace the original *Tipo 135B* 2.0L V6 (180-220 hp) with a fully rebuilt *Tipo 236* 2.4L V6 block (from the later 246 GT), bored to 2.6L (86mm x 71mm) and fitted with forged Mahle pistons (11.5:1 CR), Carrillo H-beam connecting rods, and a billet crankshaft from *JE Pistons* for 300+ hp reliability. Port and polish the *Weber 40 DCN/4* carburetor heads with *Ferrea* titanium valves and *Crower* camshafts (280° duration, 11mm lift) for high-RPM breathing.",
+    "Forced Induction: Install a *Garrett GT2860RS* turbocharger (0.63 A/R turbine housing) with a *Tial MV-R* 38mm wastegate and *TurboSmart* Kompact 50mm blow-off valve. Custom *Spearco* air-to-water intercooler (2.5\" core) mounted in the front grille, fed by a *Meziere* electric water pump and *Setrab* oil cooler. *Haltech Elite 2500* standalone ECU with *Motec* wideband O2 sensors for precise AFR mapping (target 11.5:1 under boost).",
+    "Drivetrain: Replace the original 5-speed transaxle with a *Hewland FTR* 5-speed sequential gearbox (from the 250 LM) with *AP Racing* 5.5\" twin-plate clutch and *Quaife* ATB differential. *GKN* CV joints and *Penske* adjustable shock absorbers (8760 series) with *Eibach* 400 lb/in springs for track use. *Brembo* GT 4-piston calipers with *Ferodo DS2500* pads and *DBA* 5000-series rotors (330mm front, 300mm rear)."
+  ],
+  "estetica": [
+    "Body: Full *Liberty Walk* widebody conversion for the 206 S, with carbon fiber fender flares (2.5\" wider front, 3\" wider rear) and a *Rocket Bunny* ducktail spoiler (replica of the 206 SP). *Seibon* carbon fiber hood with functional NACA ducts for intercooler airflow. *PPG* Ferrari Rosso Dino (custom mixed) with *3M* matte clear coat for a vintage race-car aesthetic.",
+    "Interior: *Recaro* SPG XL seats (HANS-compatible) with *Schroth* 6-point harnesses and *Sparco* steering wheel (350mm, quick-release). *Momo* aluminum pedals and *Smiths* vintage-style gauges (oil temp, boost, fuel pressure) mounted in a *CAE* shifter console. *Dynamat* sound deadening and *Alcantara* headliner with *Nardi* wood-rimmed shift knob (period-correct).",
+    "Aero: *AeroTech* front splitter (30mm overhang) with *Canards* (2 per side) and *GT3-style* rear diffuser (carbon fiber, 3-element). *OMP* quick-release hood pins and *AeroCatch* latches. *Hella* 1000 Supertones (yellow lenses) with *Cibie* Oscar rally lights (mounted in the grille). *Borrani* 15\" wire wheels (6.5J front, 8J rear) wrapped in *Pirelli P Zero Corsa* (205/50R15 front, 225/50R15 rear)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "FF",
+  "prestazioni": [
+    "Engine: F140 EB (6.3L V12) – Full titanium internals upgrade with Carrillo forged connecting rods (H-beam, 4340 steel), JE Pistons 2618-T6 forged pistons (9.5:1 compression, custom dome for FF-specific combustion chamber), and a billet crankshaft from Manley Performance (4340 steel, 92mm stroke). Pair with a custom dry-sump system by Dailey Engineering (4-stage, 12-quart capacity) to eliminate oil starvation under 1.5G lateral loads.",
+    "Forced Induction: Twin-turbo conversion using Garrett GTX5533R Gen II turbos (84mm compressor, .96 A/R turbine housings) with TiAL Sport 60mm wastegates and TiAL MV-R 44mm blow-off valves. Custom intercooler setup by PWR (dual-core, 1200hp-rated, FF-specific end tanks) with a 1000cc/min Bosch Motorsport water-methanol injection system (dual-nozzle, progressive controller).",
+    "Drivetrain: 4WD system overhaul with a Quaife ATB differential (front and rear) and a custom torque-vectoring controller by Motec (M150 ECU, FF-specific CAN bus integration). Replace the stock transaxle with a Hewland NLT sequential gearbox (6-speed, paddle-shift, FF-specific bellhousing) and a Sachs Performance twin-disc clutch (ceramic-metallic, 800Nm torque capacity)."
+  ],
+  "estetica": [
+    "Aero: Novitec Torado FF-widebody kit (carbon fiber, 50mm extended fenders, FF-specific undertray with integrated diffuser) paired with a Vorsteiner V-FF front splitter (carbon, 3D-milled, 3-stage adjustable) and a custom Novitec rear wing (dual-element, 1200mm span, FF-specific mounting points).",
+    "Wheels: HRE FF107SC (20x10.5 ET35 front, 21x12.5 ET45 rear) in brushed titanium finish with custom center-lock adapters (FF-specific hub conversion). Tires: Michelin Pilot Sport Cup 2 R (275/30 R20 front, 325/25 R21 rear) with nitrogen inflation (32psi hot).",
+    "Exterior: Full Giallo Modena paint correction (3-stage polish, XPEL PPF full wrap) with custom Novitec side skirts (carbon, FF-specific rocker panel integration) and a Mansory carbon fiber engine cover (FF-specific F140 EB cutouts, heat-resistant clear coat)."
+  ]
+}

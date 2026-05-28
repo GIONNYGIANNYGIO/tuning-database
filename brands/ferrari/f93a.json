@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "F93A",
+  "prestazioni": [
+    "Engine: Replace the stock Tipo 036/E1A-93 3.5L V12 (F119A) with a fully built, dry-sumped version featuring forged Mahle pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from JP Performance. Pair with a custom titanium valvetrain by Ferrea (intake/exhaust valves) and a bespoke camshaft profile from Cat Cams (290° duration, 12.5mm lift) for high-RPM stability (10,500 RPM redline).",
+    "Forced Induction: Twin-turbocharged setup using Garrett GTX5533R Gen II turbos (84mm compressor wheels) with TiAL MV-R 44mm wastegates and TiAL Q 50mm blow-off valves. Custom intercoolers by PWR (bar-and-plate, 1200cfm airflow) and a dual Bosch 044 fuel pump system with ID1700x injectors (side-feed, 1700cc/min) managed by a Motec M150 ECU with anti-lag and flat-shift strategies.",
+    "Drivetrain: Reinforced 6-speed manual transaxle (Ferrari Tipo 036) with a Sachs twin-disc clutch (ceramic friction material) and a Quaife ATB differential (85% lock). Upgraded half-shafts by GKN Driveline with CV joints rated for 1,200Nm torque. Custom titanium driveshaft by Xtrac for weight reduction and torsional rigidity."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon-fiber body kit by Novitec Rosso (F93A-specific), including a front splitter with integrated canards (30% more downforce at 200km/h), a rear diffuser with active Gurney flap (adjustable via cockpit switch), and a fixed rear wing (dual-element, 1.2m span) modeled after the Ferrari 333 SP. Underbody panels by APR Performance for 40% reduced drag.",
+    "Wheels/Tires: OZ Racing Ultraleggera HLT wheels (18x10.5 front, 18x12.5 rear) with custom center-lock adapters (Ferrari F1-derived). Michelin Pilot Sport Cup 2 R tires (275/35 ZR18 front, 335/30 ZR18 rear) shaved to 4/32\" for track use. Brembo GT-R monoblock calipers (6-piston front, 4-piston rear) with carbon-ceramic rotors (390mm front, 360mm rear) and Ferodo DS2500 pads.",
+    "Interior: Full Alcantara retrim by Sabelt, including a custom roll cage (TIG-welded 4130 chromoly) with integrated fire suppression system (Lifeline Zero 360). Sparco Pro ADV seats with Schroth 6-point harnesses and a Motec C127 dash display (replacing the stock analog gauges). Custom titanium pedal set by 3D Systems (direct metal printing) and a quick-release steering wheel (Momo Prototipo, suede-wrapped)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "F355 SPIDER",
+  "prestazioni": [
+    "Engine: F129B 3.5L V8 (Type F129) with a custom Motec M150 ECU reflash optimized for 98 RON fuel, targeting 420 HP at 9,000 RPM (stock: 375 HP) via revised cam timing (256° intake/260° exhaust duration) and 11.5:1 static compression pistons from JE Pistons (forged 2618 alloy).",
+    "Forced induction: Single-turbo setup using a Garrett GT35R with a custom 0.82 A/R turbine housing, paired with a GReddy Type-S intercooler (front-mount, 12-row core) and a custom 3-inch stainless steel exhaust system by Capristo (cat-delete, 200-cell secondary cats retained for emissions compliance). Boost target: 1.0 bar (14.5 PSI) with a TiAL MV-R 44mm wastegate and a custom intake manifold by Velossa Tech Designs (ram-air inspired, carbon fiber plenum).",
+    "Suspension: Öhlins TTX40 coilovers with 800 lb/in front and 900 lb/in rear springs, custom valving for the F355 Spider’s subframe geometry, and spherical bearing top mounts by SuperPro. Chassis reinforcement via a full bolt-in roll cage by Matter Fab (T45 steel, 1.75\" diameter) with integrated strut tower braces and a rear shock tower brace by Cusco."
+  ],
+  "estetica": [
+    "Bodywork: Full carbon fiber widebody conversion by Novitec (F355-specific kit, including front splitter, side skirts, and rear diffuser with integrated Gurney flap). Front bumper modified to house a custom dual-element splitter by APR Performance (carbon fiber, 3D-printed endplates for optimal airflow).",
+    "Aero: Custom rear wing by Voltex (Type 5, 1,800mm width, 300mm chord) mounted on carbon fiber pedestals with adjustable angle (0-15°). Underbody: Full flat floor with rear diffuser by Rocket Bunny (F355-specific, 3-channel design) and front canards by 9 Lives Racing (carbon fiber, 3-element).",
+    "Wheels: OZ Racing Ultraleggera HLT 18x9.5 ET20 front and 18x11 ET40 rear (staggered), wrapped in Michelin Pilot Sport Cup 2 R tires (245/35/18 front, 305/30/18 rear). Custom center-lock adapters by D93 Racing (converted from Ferrari’s OEM bolt pattern) and titanium wheel studs by ARP."
+  ]
+}

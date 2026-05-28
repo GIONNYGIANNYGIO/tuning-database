@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "DINO 246 GT",
+  "prestazioni": [
+    "Engine: Replace the original *F106A* 2.4L V6 (2419cc, 195hp @ 7600rpm) with a fully rebuilt *F106C* block featuring forged Mahle pistons (8.8:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from *Ferrari Classiche* for 9,000rpm reliability. Pair with a *Weber 40 DCNF/5* carburetor setup (replacing the original 40 DCNF/3) with velocity stacks from *ITG* and a custom *Spiromax* fuel pressure regulator for optimized mid-range torque (target: 230hp @ 8,000rpm).",
+    "Forced Induction: Install a *Rotrex C38-91* supercharger (10psi max) with a custom *VMP* intercooler core (side-mounted, replacing the spare tire well) and a *Tial 50mm* blow-off valve. Use a *Haltech Elite 2500* standalone ECU to manage the *F106C*’s ignition timing (MSD 6AL-2 CDI box) and fuel delivery via *ID1000* injectors, retaining the original *Bosch* distributor for period-correct aesthetics but with *NGK B9EGV* iridium plugs.",
+    "Drivetrain: Swap the original 5-speed transaxle (Type 543) for a *Ferrari 308 GTB* *Type F106AL* 5-speed with a *Quaife ATB* differential (40% lock) and a *Spec Stage 4+* clutch with a *Tilton* 7.25\" flywheel. Replace the stock half-shafts with *GKN* CV joints and *Penske* adjustable rear toe links for improved cornering stability."
+  ],
+  "estetica": [
+    "Body: Fit a *Liberty Walk LB-WORKS* widebody kit (Dino-specific, 30mm flares) with *Seibon* carbon fiber doors and a *Vorsteiner* GT-spec front splitter. Replace the original *Pininfarina* badges with *BBS* center-lock wheels (15x7\" front, 15x8\" rear) wrapped in *Pirelli P7* 205/50R15 and 225/50R15 tires. Paint in *Ferrari* *Rosso Dino* (PPG code: 1003) with a *3M* matte clear coat.",
+    "Interior: Retrim the original *Connolly* leather in *Bridge of Weir* hide with *Recaro SRD* seats (Dino-specific mounting brackets) and a *MOMO* *Mod.78* steering wheel (380mm, suede). Install a *Defi BF* digital gauge cluster (oil pressure, boost, AFR) in the center console, replacing the original clock, and add *Schroth* 4-point harnesses with *Sabelt* quick-release buckles.",
+    "Aerodynamics: Add a *Rear Wing* *9 Lives Racing* GT-style wing (2.5\" chord, 60\" span) with *Aim* *Solo 2 DL* data logging for downforce tuning. Replace the original *Marchal* headlights with *Hella* *FF250* bi-xenon projectors and *GReddy* *E-Manage* boost controller hidden in the glovebox. Fit *Brembo* *GT 650* 4-pot calipers (front) and *Tarox* *Stradale* 2-pot (rear) with *Ferodo DS2500* pads and *Goodridge* braided stainless steel lines."
+  ]
+}

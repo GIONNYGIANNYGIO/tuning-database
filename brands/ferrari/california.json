@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "CALIFORNIA",
+  "prestazioni": [
+    "Engine: F136IB 4.3L V8 (453 HP stock) – Full internal build with forged Mahle Motorsport pistons (9.5:1 CR), Carrillo H-beam connecting rods, and a billet crankshaft from Manley Performance to handle 800+ HP reliably. Pair with a custom dry-sump system by Dailey Engineering to eliminate oil starvation under lateral G-forces.",
+    "Forced Induction: Twin-turbo setup using Garrett GTX4202R turbos (62mm compressor, 64mm turbine) with TiAL Sport 44mm wastegates and a custom intercooler core from PWR (Australia) with 4.5\" thick bar-and-plate design, reducing IATs by 40°C under full boost (1.2 bar). Fuel system upgraded with ID1000x injectors, dual Walbro 450 LPH pumps, and a Motec M150 ECU for precise mapping.",
+    "Exhaust: Full titanium 3.5\" diameter exhaust system by Capristo, featuring 200-cell catalytic converters for emissions compliance (Euro 6) and a valved X-pipe with Inconel headers, reducing backpressure by 30% while retaining the Ferrari V8’s signature acoustics. Pair with a custom Akrapović slip-on muffler for a 12 dB increase in exhaust note at 6,500 RPM."
+  ],
+  "estetica": [
+    "Aerodynamics: Novitec Rosso California-specific widebody kit with carbon fiber front splitter, side skirts, and a rear diffuser, increasing downforce by 18% at 180 km/h. Pair with a custom GT3-style rear wing by Vorsteiner (carbon fiber, 1,200mm span) and a front canard set from APR Performance for improved high-speed stability.",
+    "Wheels: HRE FF01 forged wheels in a staggered setup (20x9.5 ET35 front, 20x11.5 ET45 rear) with custom center-lock adapters, wrapped in Michelin Pilot Sport Cup 2 R tires (255/30 front, 305/30 rear). Finished with titanium wheel bolts from Bimecc for weight savings.",
+    "Interior: Full Alcantara retrim by Sabelt, including dashboard, door cards, and Recaro SPG-K seats (FIA 8862-2009 certified) with custom Ferrari-red stitching. Add a carbon fiber steering wheel by MOMO with integrated Motec C127 dash display and a quick-release hub for track use. Replace the stock infotainment with a custom Alpine iLX-F511 head unit and a 12-inch subwoofer by Focal in the trunk."
+  ]
+}

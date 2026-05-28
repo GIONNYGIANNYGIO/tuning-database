@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "F310",
+  "prestazioni": [
+    "Engine: Type 046 3.0L V10 (F310/F310B) with a custom Motec M150 ECU reflash targeting 850+ HP via a Garrett GT35R turbo kit (single-turbo conversion with custom equal-length exhaust manifolds by Novitec), replacing the stock 3.0L V10's 715 HP. Includes a bespoke dry-sump oil system by Peterson Fluid Systems with a 10-quart capacity and dual-scavenge pumps to handle sustained 12,000 RPM operation.",
+    "Suspension: Öhlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression) and custom valving for the F310's unique pushrod-actuated front/rear suspension. Paired with spherical bearing top mounts by SuperPro and adjustable anti-roll bars by H&R (25mm front, 22mm rear) to eliminate body roll in high-G corners like Monaco.",
+    "Aerodynamics: Full carbon-fiber underbody diffuser by C-West Racing, designed to work with the F310's flat-bottom chassis and generate 1,200 lbs of downforce at 200 mph. Includes a custom front splitter with active Gurney flaps (electronically adjustable via the Motec ECU) and a rear wing by APR Performance (GT-500 spec) with a 1.5m span and 30-degree angle of attack for Le Mans-style straights."
+  ],
+  "estetica": [
+    "Body Kit: Full carbon-fiber widebody conversion by Liberty Walk (LB-F310 kit), extending the front fenders by 3 inches and the rear by 4 inches to accommodate 18x12.5 ET20 front and 18x14 ET25 rear BBS LM wheels (gold centers) wrapped in Pirelli P Zero Trofeo R tires (285/645R18 front, 335/705R18 rear).",
+    "Interior: Full Alcantara retrim by Sabelt, including a custom 6-point harness bar with integrated fire suppression system (Lifeline Zero 360) and a digital dash by AIM MXS Strada (replacing the stock analog gauges) with lap-time delta, G-force, and turbo boost pressure readouts. Steering wheel replaced with a MOMO Prototipo (350mm diameter) with carbon-fiber paddle shifters for the semi-automatic gearbox.",
+    "Lighting: Full LED conversion by LUX Automotive, including custom Hella 500 driving lights (integrated into the front splitter) and a rear light bar by Diode Dynamics (switchback amber/red) for improved visibility during night races. Carbon-fiber side mirrors by Seibon with integrated turn signals and heating elements for fog resistance."
+  ]
+}

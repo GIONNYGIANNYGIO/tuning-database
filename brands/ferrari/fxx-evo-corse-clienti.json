@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "FXX EVO CORSE CLIENTI",
+  "prestazioni": [
+    "Engine: F140 FL EVO (6.3L V12, 9250 RPM redline) with reinforced titanium connecting rods (Pankl Racing Systems) and upgraded Mahle Motorsport forged pistons (12.5:1 compression ratio) for sustained 10,000+ RPM operation under track conditions.",
+    "Forced induction: Twin Garrett GTX5533R Gen II turbochargers (1.2 bar peak boost) with billet compressor wheels and ceramic-coated turbine housings, paired with a custom titanium exhaust manifold (Capristo) and a secondary wastegate system (Tial MV-R 44mm) for precise boost control at high RPM.",
+    "Drivetrain: Upgraded F1-derived 7-speed dual-clutch transmission with reinforced carbon-fiber clutch plates (Sachs Performance) and a custom gear ratio set (2.1:1 final drive) for optimized acceleration in the 6,000–9,500 RPM range, paired with a limited-slip differential (Drexler Motorsport) with 70% lockup under load."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon-fiber Corse Clienti aero package (Ferrari Classiche) including a revised front splitter with integrated canards (Gurney flaps), a rear diffuser with active airflow channels (adjustable via cockpit controls), and a fixed rear wing with dual-element design (30% more downforce than standard FXX Evo).",
+    "Bodywork: Lightweight carbon-Kevlar hybrid body panels (Weissach-developed) with a matte Rosso Corsa livery, including a removable roof panel (1.2kg weight reduction) and a custom front hood with NACA ducts for improved intercooler airflow (designed by Pininfarina Aerodynamics).",
+    "Interior: Full Alcantara-wrapped cockpit (Sabelt 6-point harnesses) with a digital dash (Magneti Marelli) displaying real-time turbo boost, oil pressure, and G-forces, paired with a custom titanium shift paddle set (Brembo) and a removable steering wheel (Ferrari Corse Clienti) with integrated lap timer and boost controller."
+  ]
+}

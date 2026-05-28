@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "F40 COMPETIZIONE EVO",
+  "prestazioni": [
+    "Engine: F120A 2.9L twin-turbocharged V8 (IHI-derived turbos upgraded to Garrett GT35R billet units with 360-degree billet compressor wheels, titanium nitride-coated shafts, and 1.05 A/R turbine housings for 1.5 bar boost, paired with custom 42mm wastegates and dual 3.5\" Tial MV-R blow-off valves)",
+    "Fuel System: Full sequential Bosch Motorsport MS3.1.2 ECU with dual 12-stage injectors (ID1700x for primary, ID2000x for secondary) and a Radium Engineering dual-catch-can system with AN-10 lines, fed by a 1200 HP-capable AEM 400LPH in-tank fuel pump and a secondary external Walbro 450LPH pump for redundancy",
+    "Drivetrain: G-Force GF-5R 5-speed dog-ring gearbox with billet 2.73:1 final drive, OS Giken twin-plate carbon clutch (800 Nm torque capacity), and a Quaife ATB differential with 70% lock under load, mated to a custom 4340 chromoly driveshaft with CV joints and a reinforced bellhousing from HGT (Herrera Gear Tech)"
+  ],
+  "estetica": [
+    "Body: Full carbon-fiber body kit from Novitec Rosso (F40-specific widebody conversion with 50mm extended fenders, front splitter with integrated dive planes, and a 3-piece adjustable rear wing with Gurney flaps and NACA ducts for brake cooling), finished in Ferrari Rosso Corsa with matte black accents and a clear bra from XPEL Ultimate Plus",
+    "Interior: Full Alcantara-wrapped Recaro Pole Position seats (FIA 8862-2009 certified) with 6-point Schroth Profi II harnesses, a custom MOMO Prototipo steering wheel (350mm diameter, suede-wrapped with quick-release hub), and a digital dash from AIM MXS Strada (1.3\" color display with CAN bus integration for real-time turbo/boost/fuel pressure data)",
+    "Aerodynamics: Custom underbody diffuser from Vorsteiner (carbon-fiber, 3-stage design with integrated brake cooling ducts) and a front-mounted carbon-fiber air dam with dual 80mm APR carbon-fiber cooling ducts for the oil cooler and intercoolers, paired with a custom titanium exhaust system from Capristo (4.5\" center-exit tips, Inconel 625 headers, and a valved bypass for track/cruise modes)"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "CALIFORNIA T",
+  "prestazioni": [
+    "Engine: F154 BH 3.8L V8 Twin-Turbo (3,855cc) – Full bolt-on Stage 2+ upgrade with Garrett GTX3582R Gen II turbos (84.5mm compressor, 62.3mm turbine) paired with custom 3.5\" titanium downpipes (Capristo) and a secondary high-flow catalytic converter delete (HJS 200-cell race cats retained for emissions compliance).",
+    "Fuel System: Injector Dynamics ID1700x port injectors (side-feed) with a Radium Engineering dual-pump fuel surge tank (2x Walbro 450LPH) and a Motec M150 ECU reflash (custom map by Novitec Rosso) targeting 1.5 bar boost (stock: 0.8 bar) with 98 RON fuel and E85 flex-fuel capability (up to 30% blend).",
+    "Drivetrain: Quaife ATB LSD (part #QDF15F) with a custom 3.73:1 final drive ratio (stock: 3.31:1) and a Sachs Performance dual-mass flywheel (clutch kit: Valeo 3-disc carbon, part #826002) for reduced rotational mass and faster rev-matching. Suspension: Öhlins TTX46 coilovers (Ferrari-specific valving) with 20mm front/15mm rear lowering springs (Eibach) and spherical bearing upper control arms (SuperPro, part #SPF6285K)."
+  ],
+  "estetica": [
+    "Aero: Novitec Rosso N-Largo widebody kit (carbon fiber, 50mm front/60mm rear fender flares) with a custom 3D-printed front splitter (AeroTech Designs) featuring integrated canards (Vortex Generators) and a fixed carbon rear wing (Rocket Bunny, 1,200mm chord, 300mm height) mounted on aluminum pedestals (custom CNC).",
+    "Wheels: HRE P101SC (20x10.5 ET35 front, 21x12.5 ET45 rear) in matte gold with custom center-lock adapters (Ferrari OEM hub conversion) and Michelin Pilot Sport Cup 2 R tires (275/30/20 front, 325/25/21 rear). Brake calipers: Brembo GT-R 6-piston (front) and 4-piston (rear) with 400mm (front) and 380mm (rear) two-piece rotors (AP Racing, slotted).",
+    "Exterior: Full Giallo Modena (Ferrari historical color) respray with matte black roof (3M 1080 wrap) and custom gold leaf pinstriping (by Cartellone, Italy). Interior: Full Alcantara retrim (Rosso Corsa stitching) with carbon fiber door cards (Novitec), a custom roll cage (Sparco Pro 2000, 8-point) and a digital dash upgrade (Aim MXS Strada with Ferrari CAN bus integration)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "F40",
+  "prestazioni": [
+    "Engine: F120A 2.9L twin-turbocharged V8 (IHI turbochargers) with upgraded Garrett GT35R turbos (84mm compressor wheels, 0.82 A/R turbine housings) and custom 3.5-inch titanium downpipes by Capristo, paired with a Tial MV-R 44mm external wastegate setup for 2.2 bar (32 psi) boost pressure targeting 850+ HP at the crank on VP Racing Q16 fuel (118 octane).",
+    "Forced induction: Custom intercooler system by Bell Intercoolers with dual-core 4.5-inch thick cores (aluminum 6061-T6, 1200 CFM airflow capacity) and integrated water-methanol injection (AEM 340lph pump, 50/50 methanol-water mix) to maintain intake temps below 45°C under full load.",
+    "Drivetrain: GForce G-1200 6-speed sequential transaxle with billet steel gears (1-4: 2.933, 2.363, 1.850, 1.478; 5-6: 1.200, 1.000) and a Sachs Performance twin-disc carbon clutch (240mm, 4 puck) with a 3.73:1 final drive ratio for optimized acceleration. Custom half-shafts by The Driveshaft Shop (3.5-inch chromoly steel) with CV joints rated for 1,200 Nm torque."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon fiber body kit by Novitec Rosso (F40-specific widebody conversion) with a 3D-printed front splitter (22% more downforce than OEM) and a fixed rear wing by 9 Lives Racing (2.5-inch chord, 6061-T6 aluminum, 30% adjustable angle). Underbody diffusers by APR Performance (carbon fiber, 3-stage design) for a 40% reduction in lift at 200 km/h.",
+    "Wheels: OZ Racing Superforgiata wheels (9x18 front, 13x18 rear) in a custom gold-bronze finish with titanium wheel bolts by ARP. Michelin Pilot Sport Cup 2 R tires (245/35 ZR18 front, 335/30 ZR18 rear) shaved to 4/32-inch tread depth for maximum grip and heat cycling stability.",
+    "Interior: Full Alcantara retrim by Sabelt (custom pattern matching the original F40 seats) with a MOMO Prototipo steering wheel (350mm diameter, suede grip, titanium quick-release hub). Roll cage by Custom Cages (T45 steel, 6-point design, integrated fire suppression system by Lifeline) and a Motec C127 dash logger with GPS lap timing (10Hz update rate)."
+  ]
+}

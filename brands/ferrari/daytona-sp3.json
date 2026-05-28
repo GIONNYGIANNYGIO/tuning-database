@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "DAYTONA SP3",
+  "prestazioni": [
+    "Installation of a Novitec-engineered F140HC 6.5L V12 Stage 3+ power kit, featuring billet aluminum forged pistons (Mahle Motorsport 12.5:1 CR), Carrillo H-beam connecting rods, and a bespoke Novitec-Nürburgring camshaft profile (290° intake / 280° exhaust duration, 12.5mm lift) to push output to 950+ HP on 100-octane fuel with a Motec M150 ECU recalibration for optimized ignition timing and lambda control",
+    "Integration of a custom Akrapovič titanium exhaust system with 4-into-1 headers (Inconel 625 primary tubes, 76mm diameter) and a bypass valve-controlled center muffler, paired with a Novitec-developed carbon fiber intake manifold (3D-printed runners) and a secondary throttle body delete for improved airflow dynamics",
+    "Adoption of a Pankl Racing Systems 8-speed dual-clutch transmission reinforcement package, including a billet aluminum bellhousing, upgraded carbon fiber clutch discs (Sachs Performance 3-plate setup), and a Novitec-spec limited-slip differential with 75% lockup under load, complemented by a bespoke Quaife ATB helical LSD for the front axle to mitigate torque steer"
+  ],
+  "estetica": [
+    "Installation of a Novitec N-Largo widebody kit (carbon fiber fenders, front splitter, and rear diffuser) with integrated 3D-printed air curtains for optimized downforce, paired with a custom Vorsteiner GT3-spec rear wing (adjustable carbon fiber, 1,200mm span) and a front canard set from 991 GT3 RS OEM suppliers",
+    "Replacement of all exterior lighting with a full Novitec LED conversion (DRLs, taillights, and side markers) featuring adaptive laser-cut optics and a sequential turn signal pattern, alongside a bespoke carbon fiber engine cover with a clear polycarbonate window (Makrolon AR2) to showcase the F140HC V12",
+    "Interior rework with a full Alcantara-wrapped dashboard (Rosso Corsa stitching), carbon fiber Recaro Pole Position seats (Schroth 6-point harnesses), and a custom Novitec titanium shift knob (F1-style, CNC-machined) paired with a MOMO suede steering wheel (380mm diameter, flat-bottom) and a digital instrument cluster upgrade (Motec C127 with G-meter and lap timer)"
+  ]
+}

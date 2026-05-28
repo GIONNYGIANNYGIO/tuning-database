@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "F8 TRIBUTO",
+  "prestazioni": [
+    "Engine: F154CD 3.9L Twin-Turbo V8 – Upgraded with a **Weistec Engineering Stage 3+ Hybrid Turbo System** featuring **Garrett GTX5533R Gen II turbos** (1.45 A/R turbine housings, billet compressor wheels) paired with **Weistec’s CNC-ported cylinder heads** and **Ferrea F8-specific titanium intake/exhaust valves** (6mm stem, 37.5mm/32.5mm diameter). Target: 1,050 HP on **Shell V-Power 100 octane** with **Motec M150 ECU** managing **Bosch Motorsport 2,000cc injectors** and **NGK 97506 Iridium IX spark plugs** (gapped at 0.024\").",
+    "Drivetrain: **Wavetrac F8 Tributo Limited-Slip Differential** (torque-biasing helical gearset, 45% lock under load) with **AP Racing CP9661-2600 carbon-carbon clutch** (3-disc, 2,600 Nm torque capacity) and **GKN Driveline VL3 carbon-fiber driveshafts** (20% lighter than OEM, 3,000 Nm rating).",
+    "Suspension/Handling: **Öhlins TTX46 MkII coilovers** (3-way adjustable, 24-click rebound, 22-click compression, **Ferrari-specific spring rates: 220 lb/in front, 280 lb/in rear**) with **Eibach ERS Pro-Kit helper springs** (15mm front, 20mm rear) and **Brembo GT 380mm x 38mm 2-piece rotors** (J-hook slotted, **Pagid RSL29 brake pads**) cooled via **PWR Racing carbon-fiber brake ducts** (F8-specific ducting, 30% more airflow than OEM)."
+  ],
+  "estetica": [
+    "Aero: **Novitec Torado F8 Widebody Kit** (carbon-fiber, 50mm wider front fenders, 70mm wider rear, **CFD-optimized diffuser with Gurney flap**) paired with **Vorsteiner V-FF 107 21\" forged wheels** (front: 9.5J ET35, rear: 12.5J ET40, **Pirelli P Zero Trofeo R 265/30/21 & 345/25/21**).",
+    "Exterior: **PPG Ferrari Rosso Corsa paint** (custom **3-stage pearl flake**) with **Novitec carbon-fiber engine cover** (matte clear coat, **heat-reflective gold foil underlay**) and **Lumma Design CLR F8 front splitter** (3D-printed carbon, **active aero with 20mm adjustable dive planes**).",
+    "Interior: **Recaro Pole Position SPG XL seats** (carbon-fiber shell, **Ferrari-specific mounting brackets**, **Schroth Profi II-6 harnesses**) with **MOMO Mod.78 carbon steering wheel** (flat-bottom, **Alcantara with red stitching**, **integrated Motec C127 dash display**) and **RacingBrake F8-specific pedal set** (aluminum, **adjustable brake bias knob**)."
+  ]
+}

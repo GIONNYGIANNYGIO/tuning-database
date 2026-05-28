@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "CHALLENGE STRADALE",
+  "prestazioni": [
+    "F136 MS 4.3L V8 (Type F136 EB) forced-induction conversion using a Garrett GTX3582R turbocharger with billet compressor wheel, 0.82 A/R turbine housing, and TiAL MV-R 44mm wastegate, paired with a custom 3.5-inch titanium exhaust system by Capristo featuring 200-cell catalytic converters and a secondary bypass valve for track use, supporting 650whp on 93-octane fuel with a Motec M150 ECU managing direct port injection and sequential ignition timing",
+    "Ohlins TTX40 4-way adjustable coilovers with spherical bearing top mounts, 12-position rebound damping, and 25mm front/20mm rear ride height adjustment, paired with Eibach ERS 1200N/mm front and 1000N/mm rear springs, and custom-fabricated titanium top hats by HPA Motorsports to reduce unsprung weight by 1.8kg per corner",
+    "Brembo GT-R 6-piston front and 4-piston rear calipers with 390mm x 36mm CCM-R carbon-ceramic rotors (OEM Ferrari Challenge spec), upgraded with Ferodo DS3.12 brake pads and Motul RBF 660 racing brake fluid, complemented by a custom ABS recalibration via Ferrari’s proprietary SDU (Sensor Data Unit) to optimize threshold braking for 1.5g deceleration"
+  ],
+  "estetica": [
+    "Rocket Bunny V2 widebody kit for Ferrari 360/Challenge Stradale, featuring 3-piece carbon fiber front fenders with 50mm extended wheel arches, a 2-piece rear bumper with integrated diffuser, and a 150mm wider rear quarter panel section, all finished in raw 2x2 twill weave carbon fiber with exposed stitching",
+    "Novitec Rosso front splitter with adjustable dive planes (3 positions) and a custom 3D-printed titanium support structure, paired with a Novitec rear wing (Type 2) with 12° angle adjustment and a Gurney flap, both coated in Ferrari Rosso Corsa (Code 312) with a matte clear coat for UV resistance",
+    "OMP Carbon Kevlar racing seats (Ferrari Challenge homologated) with 6-point Schroth Profi II harnesses, wrapped in Alcantara (Code 88) with Rosso Corsa (Code 312) stitching, paired with a custom roll cage by Heigo Motorsport featuring 4130 chromoly tubing, TIG-welded to the OEM chassis points with integrated fire suppression system mounts"
+  ]
+}

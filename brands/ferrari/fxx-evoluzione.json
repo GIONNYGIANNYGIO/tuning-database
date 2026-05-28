@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "FXX EVOLUZIONE",
+  "prestazioni": [
+    "Engine: F140 FL 6.3L V12 (naturally aspirated) with a bespoke Motec M150 ECU reflash targeting 900+ hp at 9,500 RPM via optimized cam timing (290° intake/280° exhaust duration) and 12.5:1 compression ratio, paired with a custom titanium intake manifold by Novitec Rosso featuring 12 individual throttle bodies (ITBs) with carbon fiber velocity stacks for improved airflow linearity",
+    "Forced induction: Twin-turbo conversion using Garrett GTX5533R Gen II turbos (1.06 A/R turbine housing, 1.22 A/R compressor housing) with billet aluminum compressor wheels, custom 4-inch stainless steel exhaust manifolds by Capristo, and a dual air-to-water intercooler system (PWR) with a 10L capacity and integrated methanol injection (AEM 340LPH pump) for charge cooling, pushing power to 1,100+ hp on 100-octane fuel",
+    "Drivetrain: Sequential 6-speed F1-derived gearbox with a custom Xtrac P1227 transaxle (carbon fiber casing, 30% lighter than OEM) and a Sachs Performance twin-disc carbon clutch (240mm diameter, 3,000 Nm torque capacity), paired with a Quaife ATB differential (45% lock) and a custom half-shaft upgrade by GKN Driveline with billet CV joints for 1,200 Nm torque handling"
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon fiber body kit by Ferrari Corse Clienti (FXX-E exclusive), including a 3D-printed front splitter with active Gurney flaps (adjustable via hydraulic actuators), a rear diffuser with integrated strakes by Vorsteiner, and a fixed rear wing with dual-element design (NACA 63A012 airfoil) and 3D-printed titanium endplates for 1,200 kg of downforce at 250 km/h",
+    "Wheels & Tires: OZ Racing Ultra Leggera HLT wheels (20x12 front, 21x13 rear) with custom center-lock adapters (PCD 5x112, 110mm offset), wrapped in Pirelli P Zero Trofeo R tires (295/30 R20 front, 345/25 R21 rear) with a custom compound (Pirelli Cyber™ tire tech) for 1.8g lateral grip, paired with Brembo GT-R monobloc calipers (6-piston front, 4-piston rear) and carbon-ceramic discs (410mm front, 390mm rear) with titanium pistons",
+    "Interior & Lightweighting: Full carbon fiber monocoque chassis reinforcement by Bremar Automotion (20% stiffer, 15 kg lighter), Recaro Pole Position seats with carbon-Kevlar shell and Schroth 6-point harnesses, a custom titanium roll cage by Matter Motorsport (FIA 8862-2009 certified), and a bespoke digital dash by AIM MXS Strada (1.2-inch OLED display) with integrated telemetry (GPS, G-force, lap timing) and a MoTeC C127 data logger"
+  ]
+}

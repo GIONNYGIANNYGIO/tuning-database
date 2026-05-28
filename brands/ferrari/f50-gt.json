@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "F50 GT",
+  "prestazioni": [
+    "Engine: F130B 4.7L V12 (Type F130, 60-valve, naturally aspirated) – Full titanium connecting rods (Pankl Racing Systems) with upgraded ARP Custom Age 625+ head studs and billet main caps (Ferrari Corse Clienti spec) to handle 1,050 hp at 10,500 RPM on VP Racing C16 118-octane fuel with Motec M190 ECU recalibration for aggressive ignition timing (12° BTDC) and individual cylinder fuel trims.",
+    "Forced Induction: Twin Garrett GTX5533R Gen II turbochargers (86mm compressor, 106mm turbine) with TiAL Sport 60mm external wastegates (set to 2.2 bar peak boost) and custom 3.5\" titanium downpipes (Akrapovic Racing Division) feeding into a secondary air-to-water intercooler (PWR Advanced Cooling) with dual Bosch Motorsport 1200cc injectors and a Radium Engineering dual fuel pump surge tank.",
+    "Drivetrain: 6-speed sequential transmission (Hewland NLT-600) with carbon-fiber clutch (Sachs Performance 3-disc) and Quaife ATB differential (85% lock) paired with a custom 4WD system (Xtrac P1296) featuring a Haldex Gen 5 torque vectoring controller and Brembo GT-R carbon-ceramic brakes (398mm front, 380mm rear) with AP Racing 6-piston calipers and Ferodo DS3000 pads."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon-fiber body kit (Fioravanti Stile Italia) with a 3D-printed titanium front splitter (designed via CFD by Swiss Side), active rear wing (DTM-spec, adjustable via MoTeC PDM15) with Gurney flaps, and a custom underbody diffuser (integrated with the Xtrac 4WD system) featuring vortex generators for 1,200 kg of downforce at 250 km/h.",
+    "Exterior: Bare carbon-fiber weave (pre-preg autoclave, 2x2 twill) with a custom \"Rosso Corsa Metallizzato\" paint (Ferrari Classiche pigment-matched) applied via 12-stage lacquer process (PPG D8188), gold-tinted polycarbonate windows (Sekuris 3.2mm, UV-resistant), and OZ Racing Superleggera III wheels (19x12\" front, 20x13\" rear) wrapped in Pirelli P Zero Trofeo R tires (345/30 R19, 355/25 R20).",
+    "Interior: Full Alcantara-wrapped roll cage (Sparco Pro 2000, FIA 8862-2018 certified) with carbon-fiber Recaro Pole Position seats (Schroth 6-point harnesses), a digital dash (Aim MXS 1.2 Strada) integrated with a Bosch Motorsport IMU, and a custom titanium shift knob (Billetworkz) paired with a sequential gear lever (Hewland NLT-600, carbon-fiber paddle shifters)."
+  ]
+}

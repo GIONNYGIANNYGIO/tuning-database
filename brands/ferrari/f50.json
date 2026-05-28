@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "F50",
+  "prestazioni": [
+    "Engine: F130B 4.7L V12 (Type F131) – Replace OEM titanium connecting rods with Carrillo H-beam forged titanium rods (PN: CR-1470TI) rated for 1,200+ hp, paired with custom-balanced forged Mahle pistons (9.5:1 compression) and upgraded Inconel exhaust valves from Del West (PN: 101-03000).",
+    "Forced Induction: Twin-turbocharged setup using Garrett GTX5533R Gen II turbos (84mm compressor, 76mm turbine) with TiAL MV-R 60mm wastegates, custom 4-inch titanium downpipes by Novitec, and a PWR 1,500hp-rated intercooler core with billet end tanks (PN: IC-1500-F50).",
+    "Drivetrain: Upgraded 6-speed transaxle with Quaife ATB differential (PN: QDF7Z), reinforced with a G-Force G-1200 sequential gearbox (dog-ring engagement) and a Tilton triple-plate carbon clutch (PN: 60-1100) with billet flywheel. OEM half-shafts replaced with custom CV-jointed driveshafts from The Driveshaft Shop (PN: F50-TDS-1000)."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon fiber body kit by Novitec Rosso (F50-specific), including a 3D-printed front splitter with integrated dive planes, rear diffuser with active Gurney flap (adjustable via cockpit switch), and a fixed carbon rear wing (2,200mm span) with dual-element airfoil and NACA ducts for brake cooling.",
+    "Wheels: Forged BBS LM-R II (9x18 front, 13x18 rear) in gold finish with custom center-lock adapters, wrapped in Michelin Pilot Sport Cup 2 R tires (245/35 ZR18 front, 335/30 ZR18 rear) shaved to 4mm tread depth for track use. Brake system upgraded to AP Racing CP9430 calipers (6-piston front, 4-piston rear) with 380mm carbon-ceramic rotors (PN: CCM-R-380).",
+    "Interior: Full Alcantara retrim by Sabelt, including custom bucket seats with 6-point harnesses (PN: SABELT-TR60), a MOMO Prototipo steering wheel (350mm diameter) with integrated AIM MXS Strada dash, and a custom titanium roll cage by Matter Fab (FIA 8862-2018 certified) with integrated fire suppression system (Lifeline Zero 360)."
+  ]
+}

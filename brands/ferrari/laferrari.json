@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "LAFERRARI",
+  "prestazioni": [
+    "F140FE 6.3L V12 hybrid powertrain recalibration via Motec M150 ECU with custom firmware (Stage 2+ mapping) to optimize torque split between ICE and HY-KERS electric motor, targeting 950+ hp at 9,200 RPM with a 20% increase in electric boost duration (from 161 hp to 193 hp) while maintaining Ferrari’s proprietary torque vectoring logic",
+    "Garrett GT35R twin-scroll turbocharger upgrade (custom billet compressor wheel, 62mm inducer) paired with a PWR Australia 1200hp-rated intercooler core (5.5\" thick, 100% aluminum fin density) to reduce intake temps by 40°C under full load, enabling sustained 1.2 bar boost without heat soak",
+    "Novitec Rosso-engineered titanium connecting rods (Pankl Racing Systems-spec, 4340 steel caps) with ARP L19 custom studs (220,000 psi tensile strength) and a billet aluminum crankshaft damper (Vibratech TVD) to handle 9,500 RPM redline extension while reducing harmonic distortion by 35%"
+  ],
+  "estetica": [
+    "Novitec Rosso N-Largo widebody conversion kit (carbon fiber, 50mm rear fender flares) with integrated 3D-printed air curtains (CFD-optimized for 12% drag reduction at 200+ mph) and a custom front splitter featuring active Gurney flaps (electrically actuated via Bosch ECU integration)",
+    "Forge Motorsport carbon fiber rear diffuser with integrated titanium exhaust outlets (Inconel 625 alloy, 3.5\" diameter) and a central active aero element (hydraulically adjustable via LaFerrari’s existing hydraulic system) for dynamic downforce modulation (up to 800kg at 250 km/h)",
+    "Brembo GT-R carbon-ceramic brake kit (CCM-R rotors, 410mm front/390mm rear) with gold-anodized monobloc calipers (6-piston front, 4-piston rear) and Pagid RS29 brake pads, paired with OZ Racing Ultraleggera HLT wheels (20\" front/21\" rear, 9.5J/13J widths) wrapped in Pirelli P Zero Trofeo R tires (345/30 R21 rear, custom compound for 1.2g lateral grip)"
+  ]
+}

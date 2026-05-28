@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "GTC4LUSSO T",
+  "prestazioni": [
+    "Engine Code: F154CD (3.9L Twin-Turbo V8) - Replace stock IHI turbochargers with **Garrett GTX4202R Gen II** turbos (64mm compressor, 76mm turbine) paired with **Tial MV-R 44mm external wastegates** and **Precision Turbo 46mm blow-off valves** for reduced lag and 850+ HP potential on E85 fuel. Requires **Ferrea F154-specific titanium intake valves** (1mm oversized) and **Supertech F154 forged pistons** (9.5:1 compression) to handle boost levels up to 28 psi.",
+    "Fuel System: Upgrade to **Bosch Motorsport 0261500367 1000cc/min port injectors** (side-feed) with **AEM 340LPH in-tank fuel pump** and **Radium Engineering F154 fuel rail kit** (anodized billet, -8AN fittings). Pair with **Motec M150 ECU** (OEM CAN bus integration) for closed-loop E85 flex-fuel mapping, including **Bosch LSU 4.9 wideband sensors** in both pre-cat exhaust manifolds.",
+    "Exhaust: **Capristo 3.5-inch titanium exhaust system** (full 63mm primary tubes, 76mm secondary merge collectors) with **REMUS F154-specific 200-cell metallic catalytic converters** (maintaining Euro 6d compliance) and **Akrapović F154-T-specific rear muffler** (oval 120mm outlets, carbon-fiber tips). Requires **Gintani F154 downpipe spacers** to prevent heat soak on the rear transaxle."
+  ],
+  "estetica": [
+    "Aero: **Novitec N-Largo GTC4Lusso widebody kit** (carbon-fiber, +120mm rear fenders, +80mm front) with **Novitec N-Fix rear diffuser** (3D-printed carbon, 3-stage Gurney flaps) and **Vorsteiner GTC4Lusso front splitter** (adjustable 40mm overhang, carbon-Kevlar hybrid). Includes **Novitec N-Blade side skirts** (integrated LED turn signals, carbon-fiber).",
+    "Wheels: **HRE FF17 21x11.5 ET40 (front) / 21x12.5 ET45 (rear)** in **Forgeline CBR12** finish (matte silver with polished lip), wrapped in **Pirelli P Zero Trofeo R** (295/25 R21 front, 325/25 R21 rear). Requires **Ferrari OEM wheel spacers (15mm front, 20mm rear)** and **H&R lowering springs (-25mm front, -20mm rear)** for proper fitment.",
+    "Interior: **Recaro Pole Position SPG XL-F seats** (carbon-fiber shell, Alcantara/leather, 6-point Schroth Profi II harnesses) with **MOMO Ferrari-specific steering wheel** (flat-bottom, Alcantara, integrated **AiM MXS Strada dash display**). Full **VaisTech F154 roll cage** (TIG-welded 4130 chromoly, bolt-in, with **Sparco 6-point harness bar**) and **Dymag Carbon Fiber door cards** (weight reduction: -4.2kg per door)."
+  ]
+}
