@@ -1,0 +1,14 @@
+{
+  "brand": "HENNESSEY",
+  "model": "VENOM F5",
+  "prestazioni": [
+    "Engine: 6.6L twin-turbocharged V8 (HPE1000, derived from LS-V architecture) with forged internals (Mahle pistons, Callies crankshaft, Carrillo connecting rods) and ported cylinder heads by CNC Motorsports for optimized airflow at 1,817 hp (1,355 kW) on E85 fuel. Upgraded to a custom billet aluminum dry-sump system by Peterson Fluid Systems to eliminate oil starvation under 2.0+ lateral Gs.",
+    "Turbochargers: Twin Precision Turbo PT6266 CEA ball-bearing turbos with 80mm billet compressor wheels, custom 3D-printed Inconel turbine housings, and TiAL MV-R 60mm wastegates. Intercooled via a bespoke air-to-water system with dual PWR heat exchangers and Bosch Motorsport water pumps for sustained boost levels of 28 psi (1.93 bar).",
+    "Drivetrain: CIMA 7-speed single-clutch transaxle with carbon-fiber driveshaft and a limited-slip differential featuring a 4.00 final drive ratio. Upgraded to a Tilton triple-plate carbon clutch with 3,000 lb-ft torque capacity and a Pankl Racing Systems bespoke gearset for 0-60 mph in 2.6 seconds and a top speed of 311 mph (500 km/h)."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon-fiber body kit by Hennessey Special Vehicles (HSV) with a 3D-scanned, wind-tunnel-optimized front splitter featuring active Gurney flaps (adjustable via MoTeC ADL3 dash controls) and a rear diffuser with integrated strakes by Vorsteiner. The rear wing is a dual-element active aero unit with a 1.2m span, adjustable via hydraulic actuators for 1,500 lbs of downforce at 200 mph.",
+    "Wheels & Tires: Forged aluminum BBS FI-R 20x11.5 front / 21x13.5 rear wheels with center-locking hubs, wrapped in Michelin Pilot Sport Cup 2 R tires (275/30 R20 front, 345/30 R21 rear) with custom compounding for 300+ mph speeds. Brake system features carbon-ceramic rotors (420mm front, 390mm rear) by Surface Transforms with 6-piston AP Racing calipers and steel-braided lines.",
+    "Interior: Full carbon-fiber monocoque chassis with a bespoke Sparco Pro 2000 seat (carbon-Kevlar hybrid) and 6-point harness by Schroth Racing. Custom MoTeC C127 dash with integrated telemetry for turbo boost, oil pressure, and G-force logging. The steering wheel is a bespoke carbon-fiber unit by CAE with integrated paddle shifters and a quick-release hub by NRG Innovations."
+  ]
+}

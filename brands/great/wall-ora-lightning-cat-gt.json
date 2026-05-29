@@ -1,0 +1,14 @@
+{
+  "brand": "GREAT WALL",
+  "model": "ORA LIGHTNING CAT GT",
+  "prestazioni": [
+    "Upgrade to a BorgWarner EFR 8374 turbocharger (76mm compressor, 62mm turbine) paired with a custom 3.5-inch titanium downpipe and a Tomei 4-2-1 exhaust manifold, specifically designed for the Lightning Cat GT's **TZ220X** 2.0L dual-motor electric powertrain (combined output: 429 hp / 320 kW). This setup includes a custom liquid-cooled inverter upgrade from Cascadia Motion (PM200DX) to handle the increased power delivery and prevent thermal throttling during track use.",
+    "Installation of a full carbon-fiber driveshaft and rear differential assembly from Quaife (ATB LSD with 3.92:1 final drive ratio), paired with a custom 1000-amp lithium-ion battery pack from Kreisel Electric (93 kWh, 800V architecture) to extend peak power delivery and reduce weight by 120 kg over stock. The battery management system (BMS) is recalibrated using a Motec C125 dash logger for real-time energy regeneration mapping under aggressive driving conditions.",
+    "Suspension overhaul with a full Ohlins TTX40 coilover kit (2-way adjustable dampers, 30-way rebound, 15-way compression) paired with custom billet aluminum control arms from SuperPro (polyurethane bushings, 3° negative camber front, 2.5° rear). The system includes a custom sway bar setup from Whiteline (24mm front, 22mm rear, adjustable end links) and a hydraulic bump stop kit from Hyperco to optimize weight transfer during high-G cornering on circuits like the Nürburgring Nordschleife."
+  ],
+  "estetica": [
+    "Full Rocket Bunny PANDER widebody conversion kit (carbon fiber fenders, front/rear bumpers, and side skirts) with custom 3D-printed ABS diffuser inserts to improve aero efficiency at speeds above 180 km/h. The kit includes a custom front splitter with integrated DRS (Drag Reduction System) flaps, controlled via a MoTeC PDM15 for real-time adjustment based on vehicle speed and yaw rate.",
+    "Custom livery design by RAUH-Welt BEGRIFF (RWB), featuring a matte anthracite base with electric blue and neon green accents, hand-painted pinstriping, and a carbon fiber roof wrap from 3M (2080 series, satin finish). The rear wing is a custom 3-piece carbon fiber unit from APR Performance (GTC-3000, adjustable angle from 0° to 20°), with integrated LED brake light strips from Diode Dynamics for improved visibility.",
+    "Interior overhaul with full Recaro Pole Position seats (carbon fiber shell, Alcantara/leather upholstery) paired with a custom roll cage from Custom Cages (T45 steel, 6-point design, integrated harness bar). The steering wheel is a Momo Prototipo (350mm diameter, suede grip) with a custom quick-release hub from NRG Innovations, and the dashboard is replaced with a digital display from AIM MXS Strada (12-inch, configurable for lap timing, battery voltage, and torque vectoring data)."
+  ]
+}

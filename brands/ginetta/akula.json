@@ -1,0 +1,14 @@
+{
+  "brand": "GINETTA",
+  "model": "AKULA",
+  "prestazioni": [
+    "Engine: Ford Ecoboost 2.3L (Mazda MZR L3-VDT) turbocharged inline-4, upgraded with a Garrett GTX3582R turbocharger (1.06 A/R, 62mm compressor inducer) paired with a custom 3.5\" titanium downpipe and a Tial MV-R 44mm external wastegate for precise boost control at 28psi peak pressure",
+    "Suspension: Öhlins TTX40 3-way adjustable coilovers with Ginetta-specific spring rates (front: 350lb/in, rear: 400lb/in), reinforced spherical bearing top mounts, and adjustable anti-roll bars (24mm front, 22mm rear) for track-focused geometry",
+    "Drivetrain: Quaife ATB helical LSD with 4.10 final drive ratio, upgraded Ginetta-specific half-shafts with CV joints rated for 600Nm torque, and a Tilton 7.25\" twin-plate carbon clutch with billet flywheel for launch control optimization"
+  ],
+  "estetica": [
+    "Aero: Custom Ginetta Akula GT3-spec carbon fiber front splitter with integrated dive planes (35mm extension) and a fixed rear wing with Gurney flap (200mm chord, 1200mm span) for 180kg downforce at 160mph, manufactured by BTCC aero specialists Triple Eight Racing",
+    "Body: Full carbon fiber widebody kit (Ginetta Motorsport-approved) with extended front fenders (30mm per side) and rear quarter panels (40mm per side) to accommodate 11x18\" ET25 front and 12x18\" ET15 rear BBS FI-R wheels with 285/30 and 305/30 Michelin Pilot Sport Cup 2 tires",
+    "Lighting: OEM Ginetta Akula headlights replaced with Hella 90mm Bi-Xenon projectors (5500K) and custom LED taillight clusters with sequential turn signals, integrated with a Motec C125 dash for real-time aero and brake temperature monitoring"
+  ]
+}

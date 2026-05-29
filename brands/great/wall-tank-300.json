@@ -1,0 +1,14 @@
+{
+  "brand": "GREAT WALL",
+  "model": "TANK 300",
+  "prestazioni": [
+    "Engine: Replace the stock GW4N20 (2.0L turbocharged inline-4) ECU with a **Link G4X Storm Black** standalone unit, pre-loaded with a custom 350 HP map optimized for 98 RON fuel, featuring a 22 psi boost limit, 30° ignition advance, and a 7,200 RPM rev limiter to prevent valvetrain stress on the stock GW4N20’s 16-valve DOHC setup.",
+    "Forced Induction: Swap the OEM Mitsubishi TD04-12T turbo for a **Garrett GTX3071R Gen II** with a .63 A/R turbine housing, paired with a **TurboSmart Comp-Gate40** wastegate (set to 22 psi) and a **PTP 3.5\" silicone charge pipe kit** with V-band clamps to eliminate boost leaks under high load.",
+    "Suspension: Install **Öhlins Road & Track DFV coilovers** (TANK 300-specific valving) with 20-way adjustable compression/rebound damping, -2.5° front camber via **SuperPro adjustable upper control arms (SPF5575K)**, and **Eibach Pro-Spacer 20mm wheel spacers** to correct scrub radius and improve turn-in response."
+  ],
+  "estetica": [
+    "Aero: Fit a **Seibon Carbon Fiber widebody kit (TANK 300-specific)** with integrated fender flares, paired with a **Rocket Bunny-style rear diffuser** (custom-fabricated from 3K twill carbon) and a **Vortex Generator roof spoiler** to reduce lift at 120+ km/h.",
+    "Lighting: Replace OEM LED headlights with **Morimoto 2Stroke 3.0 projectors** (3,000-lumen output, 5,000K color temp) and **Lux H8 V4 angel eyes** (switchback amber/white), plus **Diode Dynamics SS3 Max V2 fog light LEDs** for auxiliary lighting.",
+    "Wheels: Mount **Rotiform LAS-R 18x9.5\" ET15** wheels (TANK 300 PCD 6x139.7) in **Gloss Bronze**, wrapped in **Michelin Pilot Sport Cup 2 Connect 275/65R18** tires, with **H&R TRAK+ 25mm wheel spacers** to fill the widened fenders."
+  ]
+}

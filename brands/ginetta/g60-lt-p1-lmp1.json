@@ -1,0 +1,14 @@
+{
+  "brand": "GINETTA",
+  "model": "G60-LT-P1 LMP1",
+  "prestazioni": [
+    "Engine: Replace the stock Ford EcoBoost 3.7L V6 (code: *Cyclone 37A*) with a fully built *Ginetta Racing Engines (GRE) 4.0L V6* featuring forged Mahle pistons (9.5:1 CR), Carrillo H-beam rods, and a billet crankshaft. Pair with a *Garrett GTX5533R* turbocharger (1.28 A/R turbine housing) and a *Tial MV-R 60mm* wastegate for 850+ hp at 2.2 bar boost, mated to a *Xtrac P1159* 6-speed sequential gearbox with a *Tilton triple-plate carbon clutch*.",
+    "Aerodynamics: Install a *Ginetta Motorsport-developed LMP1-spec front splitter* with adjustable dive planes (carbon fiber, 3mm thickness) and a *rear diffuser* integrated with a *DRS (Drag Reduction System)* flap, reducing drag by 12% at 200+ mph. Add *Vortex Generators* (3D-printed titanium) along the A-pillars to optimize airflow separation at high yaw angles.",
+    "Suspension & Chassis: Swap to *Öhlins TTX40 MkII* 4-way adjustable dampers with *Eibach ERS coilovers* (1,200 lb/in springs) and *Ginetta-specific pushrod-actuated rockers*. Reinforce the monocoque with *Toray T800 carbon fiber* weave and install *AP Racing CP8650-4* 6-piston front calipers with *380mm carbon-ceramic rotors* (grooved, 35mm thickness) for 30% improved fade resistance."
+  ],
+  "estetica": [
+    "Bodywork: Replace the stock LMP1 body with a *Ginetta Motorsport 'Hyperflow' aero kit*, featuring a *full-length underbody venturi tunnel* (carbon fiber, 5mm thickness) and *active rear wing* (adjustable via cockpit switch, 30° max angle). Apply *3M 1080 Gloss Black* vinyl with *Avery Dennison Supreme Wrapping Film* for heat resistance up to 180°C.",
+    "Lighting: Install *Osram Night Breaker Laser HID bulbs* (6,000K) in the stock headlights, paired with *LMP1-spec LED running lights* (Philips X-tremeUltinon Pro9000) and *custom carbon fiber light guards* (0.5mm thickness, 3K twill weave).",
+    "Interior: Replace the stock LMP1 seat with a *Sparco Pro ADV* carbon fiber seat (FIA 8862-2009 certified) and add a *Motec C187* dash display with *Alcantara-wrapped* steering wheel (Ginetta-branded, 320mm diameter). Install *Schroth 6-point harnesses* (FIA 8853/2016 spec) and a *custom titanium roll cage* (TIG-welded, 4130 chromoly) with *Aeroquip Startlite* braided lines for fluid routing."
+  ]
+}

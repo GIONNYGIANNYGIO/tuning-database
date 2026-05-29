@@ -1,0 +1,14 @@
+{
+  "brand": "HENNESSEY",
+  "model": "VENOM F5 REVOLUTION",
+  "prestazioni": [
+    "Forged aluminum 7.6L twin-turbocharged V8 (HPE1000 engine code) with billet crankshaft, Carrillo H-beam connecting rods, and Mahle Motorsport forged pistons, paired with a custom Hennessey-spec Garrett GTX5544R turbocharger (1.4 A/R turbine housing, 88mm compressor wheel) and TiAL MV-R 60mm wastegates for 1,817 hp on E85 fuel at 2.2 bar boost pressure",
+    "Hennessey-developed dry-sump oiling system with Dailey Engineering 10-stage pump, billet aluminum oil pan, and dual external oil coolers (Setrab 50-row) to maintain 120°C oil temps under sustained 3,000+ rpm operation",
+    "Custom Motec M150 ECU with bespoke calibration for the F5 Revolution’s carbon-fiber intake manifold (3D-printed by CRP Technology), featuring 12 individual throttle bodies (ITBs) with Jenvey Dynamics 60mm throttle plates and a secondary port injection system (Bosch Motorsport 2,200cc injectors) for high-load fueling"
+  ],
+  "estetica": [
+    "Full carbon-fiber body kit by Hennessey’s in-house design team, including a revised front splitter with active aerodynamic dive planes (adjustable via hydraulic actuators), a rear diffuser with integrated Gurney flaps, and a fixed rear wing with dual-element design (modeled after Le Mans prototypes) for 1,500 lbs of downforce at 200 mph",
+    "Custom 20-inch forged aluminum wheels by HRE (FF16 flow-formed, 20x11 front / 20x13 rear) wrapped in Michelin Pilot Sport Cup 2 R tires (295/30 R20 front, 345/30 R20 rear) with TPMS sensors integrated into the valve stems for real-time pressure monitoring",
+    "Interior upgrades including a full Alcantara-wrapped dashboard (by Katzkin), carbon-fiber Recaro Pole Position seats with 6-point Schroth Racing harnesses, and a custom roll cage (TIG-welded 4130 chromoly) with integrated fire suppression system (Lifeline Zero 360, plumbed to all critical zones)"
+  ]
+}

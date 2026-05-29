@@ -1,0 +1,14 @@
+{
+  "brand": "HENNESSEY",
+  "model": "VENOM GT",
+  "prestazioni": [
+    "LS9-based 7.0L V8 (engine code: LSX) with forged internals including Mahle Motorsport 10.5:1 compression pistons, Callies Compstar crankshaft, and Carrillo H-beam connecting rods, paired with a custom Hennessey-spec dry-sump oiling system featuring a Peterson Fluid Systems 4-stage pump and integrated oil accumulator for sustained 8,000+ RPM operation",
+    "Dual Precision Turbochargers PT6266 CEA ball-bearing turbos with custom 46mm wastegates, TiAL MV-R 44mm external wastegate actuators, and a bespoke air-to-water intercooler system utilizing a PWR radiator and Bosch Motorsport 1000cc injectors, fed by a Radium Engineering dual-catch can setup with -10AN lines and XRP fittings",
+    "Hennessey-developed Motec M150 ECU with custom CAN bus integration for the Ricardo-sourced 6-speed CIMA transaxle, featuring a Pankl Racing Systems carbon-fiber driveshaft, Tilton triple-plate carbon clutch, and a Quaife ATB differential with 4.10:1 final drive ratio, all managed via a Pectel SQ6M transmission control unit"
+  ],
+  "estetica": [
+    "Full carbon-fiber body conversion using pre-preg autoclave-cured panels from APR Performance, including a custom 3D-scanned front splitter with integrated vortex generators and a rear diffuser with active Gurney flap (adjustable via cockpit switch), all finished in Hennessey's proprietary 'Venom Carbon' weave with matte clear coat",
+    "Custom 22-inch forged aluminum wheels by HRE Performance Wheels (model: HRE FF15), front 275/30/22 and rear 345/25/22, wrapped in Michelin Pilot Sport Cup 2 tires, with a bespoke center-lock hub conversion using Brembo GT 380mm carbon-ceramic rotors and 6-piston monobloc calipers (painted Hennessey 'Venom Red')",
+    "Interior rework featuring a full Alcantara-wrapped roll cage by The Rig, Recaro Pole Position seats with Schroth 6-point harnesses, a custom carbon-fiber dashboard with Motec C127 digital dash display, and a bespoke shift knob by B&M Racing with integrated paddle shifters for the Ricardo transaxle"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "GUMPERT",
+  "model": "APOLLO SPEED",
+  "prestazioni": [
+    "Engine: Replace the stock **Audi 4.2L V8 (engine code: BYK)** with a fully built **Ruf 4.2L V8 (RUF-BYK hybrid block)** featuring forged Mahle pistons (9.5:1 CR), Carrillo H-beam rods, and a billet crankshaft. Pair with a **Precision Turbo PT6266 CEA (62mm, 86 trim) turbocharger** and a **Tial MV-R 44mm wastegate** for 1.2 bar of boost, targeting **950 HP at 7,800 RPM** on E85.",
+    "Drivetrain: Install a **GKN Driveline TCT (Twin-Clutch Transmission) 6-speed sequential gearbox** with a **Penske 8760-series 3-disc carbon clutch** and a **Gumpert-specific Quaife ATB differential** with 75% lockup for optimal power delivery to the rear wheels.",
+    "Suspension & Chassis: Replace the stock coilovers with **Öhlins TTX40 3-way adjustable dampers** (24-click rebound, 22-click compression, and adjustable ride height) paired with **Eibach ERS (Elite Race Springs) 1,200 lb/in front and 1,000 lb/in rear springs**. Reinforce the chassis with **Gumpert-specific 4130 chromoly subframe braces** and **AP Racing CP8646-1000 6-piston front/4-piston rear monoblock calipers** with **PFC 08 carbon-ceramic rotors (380mm front, 356mm rear)** for extreme braking performance."
+  ],
+  "estetica": [
+    "Aerodynamics: Install the **Gumpert Apollo Speed 'Black Series' carbon fiber aero kit**, including a **fixed rear wing with Gurney flap (adjustable angle of attack via quick-release mounts)**, **front splitter with integrated canards (3D-printed carbon fiber)**, and **side skirts with vortex generators** to reduce lift by 40% at 200+ km/h.",
+    "Body & Lighting: Replace the stock body panels with **full carbon fiber bodywork (pre-preg autoclave, 1.2mm thickness)** from **VIS Racing**, featuring a **custom 'Speed Blue' matte finish with exposed carbon weave accents**. Upgrade to **Osram Night Breaker Laser HID bulbs (6,000K)** in the stock headlights and add **Lux H8 LED fog lights** with **Gumpert-specific DRL strips** integrated into the front splitter.",
+    "Interior: Retrim the cabin with **Recaro Pole Position carbon fiber bucket seats (FIA 8862-2009 certified)** wrapped in **Alcantara with red stitching (custom 'Speed' embroidery on headrests)**. Replace the stock steering wheel with a **Sparco Pro 2000 (350mm, suede grip)** and install a **Motec C127 dash logger** with **Gumpert-specific telemetry overlay (boost, oil temp, G-forces, lap times)**. Add **Schroth 6-point harnesses (ASM2 type)** and a **custom roll cage (TIG-welded 4130 chromoly, 3.5mm wall thickness)** with integrated fire suppression system (Lifeline Zero 360)."
+  ]
+}

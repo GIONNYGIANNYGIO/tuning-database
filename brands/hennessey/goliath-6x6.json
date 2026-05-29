@@ -1,0 +1,14 @@
+{
+  "brand": "HENNESSEY",
+  "model": "GOLIATH 6X6",
+  "prestazioni": [
+    "Forced induction upgrade utilizing a custom-built twin-turbo system featuring two Garrett GTX5533R Gen II turbos (84mm compressor wheels, 1.15 A/R turbine housings) paired with a bespoke intercooler core from PWR (1200hp-rated, 4.5\" thick, bar-and-plate design) to support the 6.2L GM LT4 V8 (engine code: LT4) pushing 1,200+ hp at 22 psi boost, with a custom billet aluminum intake manifold by Wilson Manifolds (102mm throttle body) and a Motec M150 ECU for precise fuel and ignition mapping",
+    "Drivetrain reinforcement with a Centerforce DFX dual-friction clutch (triple-disc, 1,500 lb-ft torque capacity) mated to a custom 6-speed automatic transmission built by Gearstar (Level 5, billet internals, 300M output shaft) with a PML deep-sump pan and a Derale 13-row transmission cooler to handle the increased torque output",
+    "Suspension overhaul with custom-fabricated Fox 2.5 Factory Series DSC coilovers (remote reservoirs, 3.0\" diameter bodies, 14-position compression/rebound adjustability) paired with Eibach ERS 900lb/in springs, custom 6x6-specific sway bars by Hellwig (1.5\" diameter, adjustable end links), and a reinforced steering linkage with a Flaming River heavy-duty steering box (22:1 ratio) for improved off-road articulation and on-road stability"
+  ],
+  "estetica": [
+    "Custom widebody conversion kit by Liberty Walk (LB Goliath 6x6 Edition) featuring hand-laid carbon fiber fenders (3.5\" wider front, 4.5\" wider rear), front/rear bumpers with integrated LED light bars (Baja Designs Squadron Pro, 50\" width), and a carbon fiber hood with dual functional heat extractors (3\" tall, 12\" wide)",
+    "Exterior lighting upgrade with a full set of Diode Dynamics SS3 Pro LED headlights (DRL/low/high beam, 6,000-lumen output) and a custom rear light bar assembly (Anzo USA, 60\" width, sequential turn signals) paired with a custom-painted grille (PPG Hot Rod Black with Hennessey script in matte gold leaf)",
+    "Interior rework featuring a full Alcantara headliner and door cards (custom-stitched with red contrast piping) by Katzkin, a custom roll cage (6-point, TIG-welded 4130 chromoly) by The Rig, and a bespoke gauge cluster by AIM MXS Strada (12.5\" display, CAN bus integration for LT4 engine data) with a custom carbon fiber dash overlay by Seibon"
+  ]
+}

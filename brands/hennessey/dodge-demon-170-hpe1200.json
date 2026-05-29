@@ -1,0 +1,14 @@
+{
+  "brand": "HENNESSEY",
+  "model": "DODGE DEMON 170 HPE1200",
+  "prestazioni": [
+    "Forged internals upgrade for the SRT supercharged 6.2L HEMI V8 (engine code: SRT Demon 270-A) with Mahle Motorsport forged pistons (2618 alloy, 10.5:1 compression), Manley H-beam connecting rods (4340 steel, 6.125\" length), and a billet crankshaft from Callies (4.094\" stroke, 9000 RPM redline capable).",
+    "Custom twin-screw supercharger system featuring a Whipple 4.5L Gen 5 supercharger (12.0 psi max boost, 1,200 CFM airflow) with a billet aluminum inlet manifold, ported by Livernois Motorsports for optimized airflow, paired with a custom intercooler core from PWR (1,500 HP-rated, 4.5\" thick, dual-pass design).",
+    "Fuel system overhaul including dual Bosch Motorsport 044 high-flow fuel pumps (1,200 LPH each), ID1700x fuel injectors (2,200 cc/min), and a Radium Engineering dual catch-can system with AN-10 lines to manage crankcase pressure under extreme boost."
+  ],
+  "estetica": [
+    "Widebody conversion using a Rocket Bunny V3 Demon-specific kit (carbon fiber fenders, front/rear bumpers, and side skirts) with custom Hennessey-branded carbon fiber canards and a duckbill rear spoiler (3D-printed from Toray T800 carbon fiber).",
+    "Custom HRE FF10 wheels (20x11 front, 20x12 rear) with a satin black finish, wrapped in Michelin Pilot Sport Cup 2 R tires (325/30R20 front, 355/25R20 rear) for maximum grip, paired with Brembo GT 6-piston calipers (42mm pistons) and 16.5\" two-piece rotors up front.",
+    "Full interior carbon fiber overhaul including a Sparco Pro 2000 seat (FIA 8862-2009 certified) with custom Hennessey embroidery, a roll cage from Autopower (chrome-moly steel, 6-point design), and a MoTeC C187 dash display (replacing the stock cluster) with real-time boost, AFR, and oil pressure monitoring."
+  ]
+}

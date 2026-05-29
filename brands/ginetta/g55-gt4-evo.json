@@ -1,0 +1,18 @@
+{
+  "brand": "GINETTA",
+  "model": "G55 GT4 EVO",
+  "prestazioni": [
+    "Engine: Ford Cyclone 3.7L V6 (Duratec 37) with a bespoke dry-sump system by Titan Motorsport, featuring a billet aluminum oil pump and 8-quart capacity reservoir to prevent oil starvation under sustained 1.5G lateral loads in GT4 endurance racing.",
+    "Forced Induction: Garrett GT3582R turbocharger (82mm compressor, 62mm turbine) with a custom 3.5-inch stainless steel turbo manifold by Ginetta Racing Developments, paired with a Tial MV-R 44mm external wastegate and a PTP 4-inch titanium downpipe with V-band clamps for optimized spool and 450whp on 99 RON fuel.",
+    "Suspension: Öhlins TTX40 4-way adjustable dampers with 25mm front and 20mm rear adjustable anti-roll bars by H&R, combined with spherical bearing top mounts from SuperPro and custom 500lb/in front and 450lb/in rear springs by Hyperco for precise turn-in under GT4-spec 1,250kg weight distribution.",
+    "ECU & Fueling: Motec M150 ECU with a custom GT4-spec calibration by Syvecs, running dual Bosch Motorsport 0280158888 1,200cc injectors and a Radium Engineering dual-catch can setup with -10AN lines to manage crankcase pressure under sustained boost (22psi peak).",
+    "Drivetrain: Quaife ATB differential with 45% lockup under load, paired with a Ginetta-spec 6-speed sequential gearbox (Xtrac 1046) with a 2.61:1 final drive ratio and a Tilton triple-plate carbon clutch for 0.1s faster shifts in GT4 sprint races."
+  ],
+  "estetica": [
+    "Aerodynamics: Ginetta GT4 Evo-specific carbon fiber front splitter by APR Performance with 3D-printed gurney flaps for +120kg downforce at 120mph, paired with a custom rear diffuser by RevoZport featuring integrated brake ducts and a 90mm Gurney flap for rear stability.",
+    "Bodywork: Full carbon fiber body kit by Ginetta Racing, including a GT4-spec rear wing with adjustable angle of attack (0-12 degrees) and a 1,200mm span, finished in 3M 1080 Matte Graphite vinyl with red pinstriping by Vinyl Frog for GT4 homologation compliance.",
+    "Wheels & Tires: OZ Racing Superforgiata GT4 wheels (9x18 front, 11x18 rear) with a custom 5x114.3 PCD and 52mm offset, wrapped in Pirelli P Zero Trofeo R tires (255/645R18 front, 305/680R18 rear) for optimal heat cycling in 45-minute GT4 sprint races.",
+    "Lighting: Lazer Lamps Triple-R 1000 LED headlights with a custom Ginetta-specific mounting bracket, paired with rear LED taillights by Osram Night Breaker Laser for improved visibility in endurance night races.",
+    "Interior: Full FIA 8862-2009 spec carbon fiber racing seat by Sparco with a 6-point harness by Schroth, combined with a Ginetta GT4-spec steering wheel featuring a Motec C127 dash display and a custom quick-release hub by NRG Innovations."
+  ]
+}

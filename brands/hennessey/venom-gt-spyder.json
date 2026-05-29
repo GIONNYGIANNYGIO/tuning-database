@@ -1,0 +1,14 @@
+{
+  "brand": "HENNESSEY",
+  "model": "VENOM GT SPYDER",
+  "prestazioni": [
+    "Engine: LS9-based 7.0L V8 (GM LSX engine code) with forged internals, stroked to 7.2L using a Callies DragonSlayer crankshaft (4.125\" stroke), Carrillo H-beam connecting rods, and Mahle Motorsport forged pistons (12.5:1 compression ratio).",
+    "Forced Induction: Twin Precision Turbo PT6266 CEA ball-bearing turbos (62mm inducer, 66mm exducer) with custom billet aluminum compressor housings, Tial MV-R 44mm wastegates, and a custom air-to-water intercooler system (Hennessey-spec) with a Bosch Motorsport 1000cc methanol injection kit for charge cooling.",
+    "Fuel & Ignition: Dual Bosch Motorsport 044 high-flow fuel pumps, ID1000x injectors (1000cc/min), and a Motec M150 ECU with custom CAN bus integration for real-time boost mapping (up to 1.5 bar / 21.7 psi) and individual cylinder fuel trimming. Ignition system upgraded to MSD 8516 Digital 7 Plus with NGK R7437-10 Iridium racing plugs (0.024\" gap)."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon fiber body kit by Vorsteiner (Venom GT Spyder-specific), including a front splitter with integrated dive planes, rear diffuser with active Gurney flap (electronically adjustable via Motec ECU), and a removable hardtop with a carbon fiber roof scoop for intercooler ducting.",
+    "Wheels & Tires: HRE FF01 flow-formed wheels (20x10.5\" front, 20x13\" rear) with custom center-lock adapters, wrapped in Michelin Pilot Sport Cup 2 R tires (295/30ZR20 front, 345/30ZR20 rear). Brake system features carbon-ceramic rotors (420mm front, 390mm rear) with AP Racing CP9450 calipers (6-piston front, 4-piston rear).",
+    "Interior: Full Alcantara-wrapped Recaro SPG XL seats with 6-point Schroth Profi II harnesses, a custom roll cage by Autopower Industries (chromoly steel, FIA-spec), and a Motec C127 dash display with integrated data logging for turbo boost, air/fuel ratios, and G-forces. Steering wheel replaced with a Sparco Pro 2000 (350mm diameter) with integrated paddle shifters for the Ricardo 6-speed sequential transmission."
+  ]
+}

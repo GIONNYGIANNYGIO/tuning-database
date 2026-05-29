@@ -1,0 +1,14 @@
+{
+  "brand": "GAZ",
+  "model": "21 VOLGA",
+  "prestazioni": [
+    "Replace the original **GAZ-21A (2.4L I4, 70-75 HP)** engine with a **Toyota 2JZ-GTE (3.0L twin-turbo I6, 320 HP stock)** using a custom **K-Tuned 2JZ to GAZ 21 engine mount kit** and a **Tial MV-R 44mm wastegate** for boost control. Retain the original 3-speed automatic transmission but upgrade to a **Level 10 Racing Stage 3 torque converter** for durability under increased power.",
+    "Install a **Garrett GTX4202R turbocharger** with a **Precision Turbo 46mm external wastegate** and a **Custom Fabrication Services (CFS) intercooler core (600x300x76mm)** to handle the 2JZ’s airflow demands. Use a **Haltech Elite 2500 ECU** with a **MoTeC C125 dash** for precise tuning, paired with **ID1000x injectors** and a **Walbro 450 LPH fuel pump** to support 600+ HP.",
+    "Upgrade the braking system with **Wilwood Dynalite 6-piston calipers (front) and 4-piston calipers (rear)**, paired with **Brembo 330mm slotted rotors** and **Ferodo DS2500 brake pads**. Replace the stock suspension with **Ohlins Road & Track coilovers (custom valved for the GAZ 21’s leaf spring rear)** and **Polyurethane bushings from SuperPro** for improved handling."
+  ],
+  "estetica": [
+    "Replace the stock body panels with a **Rocket Bunny-inspired widebody kit (custom-fabricated for the GAZ 21)** using **FRP (Fiber-Reinforced Plastic) over steel reinforcement** to maintain structural integrity. Paint the car in **PPG Deltron DBC9000 ‘Soviet Racing Green’** with **3M Matte Black vinyl accents** on the roof and pillars.",
+    "Install **Hella Rallye 1000 headlights (H4 conversion)** with **Cibié Oscar LED bulbs** and **custom CNC-machined aluminum bezels** for a retro-modern look. Add **DEPO 7-inch round taillights (LED conversion)** with **Smoked Perspex covers** to match the front end’s aggressive stance.",
+    "Fit **BBS RS-GT 17x8.5-inch wheels (ET15, 5x139.7 PCD)** wrapped in **Nankang NS-2R 225/45R17 tires** for a period-correct yet performance-oriented stance. Use **custom CNC-machined aluminum wheel spacers (15mm front, 20mm rear)** to fill the arches, paired with **Rally Design fender flares (riveted and seam-sealed)** for a purposeful look."
+  ]
+}

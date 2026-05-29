@@ -1,0 +1,14 @@
+{
+  "brand": "HENNESSEY",
+  "model": "CORVETTE C8 HPE1200",
+  "prestazioni": [
+    "LT6-based 5.5L flat-plane crank V8 (engine code: LT6.X) with forged internals, including Mahle Motorsport forged pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet steel crankshaft, paired with a custom Hennessey-spec camshaft profile (248°/256° duration, 0.650\" lift) for optimized high-RPM power delivery (1,200 HP @ 7,200 RPM, 1,000 lb-ft @ 5,500 RPM on E85)",
+    "Precision Turbo & Engine PT6766CE turbocharger (84mm inducer, 1.28 A/R turbine housing) with a custom billet aluminum compressor wheel, paired with a Tial MV-R 60mm wastegate and a PTP 4.5\" V-band downpipe feeding into a custom 4.5\" titanium exhaust system with Akrapovič carbon-fiber tips",
+    "Hennessey-spec fuel system upgrade including dual Bosch Motorsport 044 high-flow fuel pumps, ID1700x injectors (2,200cc/min), and a custom Motec M150 ECU with flex-fuel mapping, paired with a custom intercooler system featuring a Garrett 1,500hp-rated bar-and-plate core and dual 12\" SPAL fans for consistent intake temps under 40°C"
+  ],
+  "estetica": [
+    "Hennessey HPE1200-specific carbon-fiber widebody kit (front fenders, rear quarter panels, and rear diffuser) with integrated carbon-fiber side skirts, all finished in matte clear coat with exposed weave for weight reduction (saves ~18 lbs over stock)",
+    "Custom HRE FF10 flow-formed forged wheels (20x10.5\" front, 21x13.5\" rear) in a satin black finish with titanium hardware, wrapped in Michelin Pilot Sport Cup 2 R tires (285/30 front, 345/25 rear) for optimized track grip and heat management",
+    "Hennessey-branded carbon-fiber engine cover with integrated LED lighting, paired with a custom titanium valve cover and a billet aluminum oil cap (engraved with \"HPE1200\"), complemented by a full titanium exhaust system with carbon-fiber heat shielding for a stealthy yet aggressive underhood aesthetic"
+  ]
+}

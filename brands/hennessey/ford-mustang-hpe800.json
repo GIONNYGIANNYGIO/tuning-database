@@ -1,0 +1,14 @@
+{
+  "brand": "HENNESSEY",
+  "model": "FORD MUSTANG HPE800",
+  "prestazioni": [
+    "Hennessey-spec Ford Coyote 5.0L V8 (engine code: *AJ-13*) with forged internals including Manley H-beam connecting rods, Mahle Motorsport forged pistons (9.5:1 compression), and a billet steel crankshaft for 800+ HP reliability under 22 psi of boost from a Garrett GTX5533R turbocharger with a 1.15 A/R turbine housing and 88mm compressor wheel",
+    "HPE800-specific fuel system upgrade featuring dual Bosch Motorsport 044 high-flow fuel pumps, ID1700x fuel injectors, and a Radium Engineering dual-catch can setup with -10AN lines to manage crankcase pressure under extreme boost",
+    "Custom Hennessey ECU calibration via HP Tuners with a bespoke torque-based boost control strategy, optimized for the GTX5533R’s spool characteristics, paired with a Motec C127 dash logger for real-time monitoring of AFR, EGT, and boost pressure"
+  ],
+  "estetica": [
+    "Hennessey HPE800 carbon fiber widebody kit with aggressive front splitter, side skirts, and rear diffuser, all designed in-house for the S550 Mustang chassis and featuring pre-preg autoclave construction for lightweight rigidity",
+    "HRE FF10 forged 20x10.5 (front) and 20x11.5 (rear) wheels with Michelin Pilot Sport Cup 2 R tires (285/30R20 front, 315/30R20 rear) for maximum grip, paired with Brembo GT 6-piston front and 4-piston rear calipers with 400mm two-piece rotors",
+    "Hennessey-branded carbon fiber engine cover with a clear-coated weave finish, matching the HPE800’s carbon fiber hood (with functional heat extractor vents) and a custom HPE800 rear spoiler with adjustable Gurney flap for downforce tuning"
+  ]
+}

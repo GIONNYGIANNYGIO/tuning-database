@@ -1,0 +1,14 @@
+{
+  "brand": "HSV",
+  "model": "AVALANCHE",
+  "prestazioni": [
+    "Engine: LS2 (6.0L Gen IV V8, 24X reluctor, 4.00\" crankshaft) - Full forged internals including Manley I-beam connecting rods (6.125\" length), JE Pistons 2618 alloy (9.5:1 compression, 4.00\" bore), and Callies Compstar crankshaft (4.00\" stroke) for a stroked 416ci build with ARP head studs and MLS head gaskets (Cometic 0.053\" thickness).",
+    "Forced Induction: Garrett GTX5533R Gen II turbocharger (106mm billet compressor wheel, 88mm turbine, .96 A/R turbine housing) with a custom 4\" V-band downpipe, Turbosmart Race Port 75mm wastegate, and a PTP 4\" stainless steel intercooler core (1200cfm flow, 3.5\" thick) paired with ID1700cc injectors and a Radium Engineering dual fuel pump hanger (Walbro 450LPH pumps).",
+    "Drivetrain & Handling: Holinger RD6 sequential gearbox (6-speed, dog-ring engagement) with a Tilton triple-plate carbon clutch (7.25\" diameter), Quaife ATB differential (3.91:1 ratio), and Ohlins TTX46 coilovers (24-way adjustable damping, 300lb/in springs) with polyelastomer bushings (SuperPro 62mm front control arms, spherical bearing rear subframe mounts)."
+  ],
+  "estetica": [
+    "Widebody Conversion: Custom-fabricated steel fender flares (3.5\" front, 4.5\" rear) with integrated carbon fiber canards (Rocket Bunny-inspired, but HSV-specific bolt-on design) and a custom aluminum rear diffuser (3-piece, 4\" exit tunnels) for aero balance.",
+    "Aero & Lighting: Carbon fiber front splitter (Seibon, 3D-scanned for Avalanche bumper) with integrated DRLs (Lux H8 V4 LED pods, 6000K), and a carbon fiber rear wing (DR9 GT-style, 3D carbon, 72\" span, adjustable angle via billet aluminum mounts).",
+    "Interior & Styling: Full Alcantara retrim (Recaro CS-GT seats, door cards, headliner) with HSV-specific embroidery (Avalanche script in red stitching), custom roll cage (Chromoly 4130, 8-point, bolt-in, with integrated harness bar for Schroth Profi II 6-point harnesses), and a Motec C127 dash display (replacing stock cluster, with HSV-branded startup screen)."
+  ]
+}

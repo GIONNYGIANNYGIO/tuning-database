@@ -1,0 +1,14 @@
+{
+  "brand": "GINETTA",
+  "model": "G56 GT4 EVO",
+  "prestazioni": [
+    "Engine: Ford EcoBoost 2.3L (engine code: MZ-CD) with a bespoke Ginetta Motorsport-spec Garrett GTX3582R turbocharger, upgraded to 1.2 bar boost (from 0.8 bar stock) with a custom 4-ply silicone intake hose and a PWR radiator for sustained cooling under GT4 endurance conditions",
+    "Suspension: Öhlins TTX40 4-way adjustable dampers with Ginetta-specific spring rates (front: 350 lb/in, rear: 400 lb/in) and spherical bearing top mounts from Alcon for precise camber and caster adjustments, paired with a Ginetta Motorsport-approved Whiteline adjustable anti-roll bar (24mm front, 22mm rear)",
+    "Drivetrain: Quaife ATB helical LSD with a 4.11 final drive ratio (up from 3.73 stock) and a Ginetta Motorsport-spec carbon fiber driveshaft, mated to a Tilton 7.25-inch twin-plate clutch and a Hewland NLT sequential gearbox with a Ginetta-specific shift cut rev limiter set at 7,800 RPM"
+  ],
+  "estetica": [
+    "Aerodynamics: Ginetta Motorsport GT4 Evo carbon fiber front splitter with integrated dive planes (tested in MIRA wind tunnel for +120 kg downforce at 150 mph) and a custom 3D-printed rear diffuser with Gurney flap, both finished in 3M 1080 Matte Graphite vinyl wrap",
+    "Body: Ginetta-approved Rocket Bunny widebody kit (G56-specific) with carbon fiber fender flares and a custom vented hood featuring a NACA duct for direct turbocharger intake cooling, paired with a Ginetta Motorsport rear wing (3-element, adjustable angle up to 15 degrees)",
+    "Interior: Sparco Pro 2000 carbon fiber racing seats with 6-point Schroth Profi II harnesses, a Ginetta Motorsport quick-release steering wheel (Momo GT4 replica) with integrated AIM MXS Strada dash, and a custom aluminum shift knob with a 3D-engraved Ginetta G56 GT4 Evo logo"
+  ]
+}

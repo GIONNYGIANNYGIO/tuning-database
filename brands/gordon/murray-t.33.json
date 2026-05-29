@@ -1,0 +1,14 @@
+{
+  "brand": "GORDON MURRAY AUTOMOTIVE",
+  "model": "T.33",
+  "prestazioni": [
+    "Cosworth-developed 3.9L naturally aspirated V12 (engine code: GMA V12-3.9) with a bespoke titanium crankshaft and forged Mahle pistons, paired with a custom dry-sump lubrication system featuring a 12-liter Accusump reservoir for sustained high-G cornering. Target: 700+ hp at 10,500 RPM via aggressive camshaft profiles (290° duration, 12.5mm lift) and a 12.5:1 compression ratio with race-spec Total Quartz 0W-40 oil.",
+    "Full titanium exhaust system by Capristo, featuring 4-2-1 equal-length headers (Inconel 625) with 45mm primary tubes, paired with a straight-pipe center section and dual 100mm titanium mufflers (resonated for cabin refinement). Backpressure optimized for 9,500+ RPM power delivery with a 30% weight reduction over stock.",
+    "Öhlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression), custom valving for the T.33’s carbon monocoque, and spherical bearing top mounts. Paired with a Tractive Active Suspension (TAS) system for real-time ride height adjustment (0-50mm range) and a 40% stiffer anti-roll bar setup (T6 aluminum) from H&R."
+  ],
+  "estetica": [
+    "Full carbon-fiber widebody conversion by Liberty Walk (LB-WORKS), including custom front fenders with 50mm extended wheel arches, rear quarter panels with integrated air extractors, and a 3-piece carbon diffuser with active Gurney flaps (adjustable via cockpit switch).",
+    "Bespoke 20-inch front / 21-inch rear forged magnesium wheels by Dymag (model: FX-1), wrapped in Michelin Pilot Sport Cup 2 R tires (265/30 R20 front, 325/25 R21 rear) with custom offset (-15mm front, +5mm rear) to fill the widened arches. Gold anodized center locks with titanium wheel nuts by BBS.",
+    "Custom aero package by APR Performance, including a 3D-printed carbon front splitter with integrated vortex generators, a dual-element rear wing (adjustable angle: 0-20°) with swan-neck mounts, and a rear diffuser with active cooling ducts for the T.33’s transaxle. Paint: BASF Glasurit 90-Line in 'Cosworth Racing Blue' with matte carbon weave accents."
+  ]
+}

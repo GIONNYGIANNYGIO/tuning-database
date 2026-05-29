@@ -1,0 +1,14 @@
+{
+  "brand": "GREAT WALL",
+  "model": "HAVAL H9",
+  "prestazioni": [
+    "Engine: Replace the stock GW4D20B 2.0L turbo-diesel (140 kW / 190 PS) with a BorgWarner EFR 7670 turbocharger (0.83 A/R, 62mm inducer) paired with a custom 3.5-inch stainless steel downpipe featuring a 200-cell catalytic converter from MagnaFlow for reduced backpressure and optimized spool.",
+    "Fuel System: Upgrade to a Bosch CP4.2 high-pressure fuel pump (max 2,000 bar) with Denso G4S 2200cc/min injectors, controlled via a Link G4+ Xtreme standalone ECU with custom CAN bus integration for the Haval H9's ZF 8-speed automatic transmission (8HP70) to enable launch control and flat-shift tuning.",
+    "Suspension: Install KW Suspensions Clubsport coilovers (3-way adjustable, 80mm travel) with custom valving for the H9's multi-link rear and double-wishbone front setup, paired with SuperPro polyurethane bushings (part #SPF0116K) to eliminate compliance and improve turn-in response for off-road and on-road performance."
+  ],
+  "estetica": [
+    "Aero: Fit a custom 3D-printed carbon fiber front splitter from 996 Racing (H9-specific, 30mm overhang) with integrated LED DRLs (Osram Night Breaker Laser) and a rear diffuser from Seibon Carbon (200mm extension, 4x fin design) to reduce lift by 18% at 120 km/h.",
+    "Wheels: Mount 20x10 ET15 forged wheels from Rotiform (LAS-R 10-spoke, 5x150 PCD) with Nitto Ridge Grappler 295/50R20 tires (load index 118, 3-ply sidewall) for improved sidewall stiffness and beadlock compatibility for extreme off-road use.",
+    "Exterior: Apply a full vinyl wrap using Avery Dennison Supreme Wrapping Film (Matte Military Green, 200 micron) with custom laser-cut graphics (Haval H9-specific, inspired by the Mercedes G-Wagon 6x6) and a roof-mounted light bar from Rigid Industries (E-Series Pro 50-inch, 40,000 lumens) with a hidden winch system (Warn Zeon 12-S, 12,000 lbs) behind the front bumper."
+  ]
+}
