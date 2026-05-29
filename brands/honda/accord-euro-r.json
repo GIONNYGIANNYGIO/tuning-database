@@ -1,0 +1,16 @@
+{
+  "brand": "HONDA",
+  "model": "ACCORD EURO R",
+  "prestazioni": [
+    "Engine: Replace the stock H22A7 (2.2L DOHC VTEC) with a fully built H22A Type-S block (87mm bore, forged internals from Toda Racing, including forged pistons with 11.5:1 compression, billet crankshaft, and H-beam connecting rods). Pair with a Toda Racing Type-R head (port-matched, oversized valves, and upgraded valve springs/retainers) and a custom camshaft grind (272° duration, 11.5mm lift) for high-RPM power delivery (target: 320+ hp at 8,500 RPM).",
+    "Forced Induction: Install a Garrett GTX3076R turbocharger (0.82 A/R turbine housing) with a custom manifold by Hypertune, paired with a GReddy Profec B Spec II boost controller, 1000cc ID injectors, and a custom-tuned Hondata K-Pro ECU (v4) for precise fuel and ignition mapping. Include a PWR radiator and a Setrab 50-row oil cooler to manage heat under boost (target: 450 whp on E85).",
+    "Drivetrain: Swap the stock S2000 AP1 6-speed transmission (with a Quaife ATB differential) into the Accord Euro R chassis, reinforced with a PPG short shifter and a custom driveshaft by Driveshaft Shop (3.5-inch aluminum, balanced for high RPM). Clutch upgrade to a Spec Stage 4+ twin-disc setup with a billet flywheel, and reinforce the transmission mounts with Hasport solid mounts (polyurethane).",
+    "Suspension: Install a full Ohlins Road & Track DFV kit (coilovers with 30-way damping adjustment, 8kg/mm front springs, 10kg/mm rear springs) paired with Cusco front and rear sway bars (22mm front, 18mm rear). Replace bushings with SuperPro poly bushings (front control arms, subframe, and trailing arms) and add Hardrace front camber plates for aggressive alignment settings (-3.5° front camber, -2.0° rear).",
+    "Braking: Upgrade to a full Endless 6-piston front brake kit (356mm rotors, RS-R pads) with a 4-piston rear kit (330mm rotors). Include a custom brake line setup by Goodridge (SS braided lines) and Motul RBF 660 brake fluid for heat resistance. Add a Cusco brake cooling duct kit to direct airflow to the front rotors."
+  ],
+  "estetica": [
+    "Aero: Install a full Rocket Bunny V3 widebody kit (fiberglass fenders, front bumper, and rear diffuser) with a custom carbon fiber hood (Seibon, 50% weight reduction) and a Voltex Type-3 rear wing (1,200mm span, adjustable angle). Add a custom front splitter by Garage Mak (carbon fiber, 3-inch overhang) and a custom rear diffuser by Varis (carbon fiber, integrated exhaust cutouts).",
+    "Wheels: Fit Work Emotion CR Kiwami wheels (18x9.5 +30 front, 18x10.5 +35 rear) with Toyo R888R tires (255/35/18 front, 275/35/18 rear). Include a custom wheel spacer setup by 5Zigen (15mm front, 20mm rear) for aggressive flush fitment.",
+    "Interior: Replace the stock seats with Bride Zeta III (fixed-back, carbon fiber shell) and a custom roll cage by AutoPower (8-point, bolt-in, with harness bar). Add a Momo Mod.78 steering wheel (350mm, suede) with a NRG quick-release hub, and a full gauge pod by Defi (Advance BF series: oil pressure, oil temp, boost, wideband AFR). Retrim the interior in Alcantara (black with red stitching) by Recaro Japan, including door cards and shift boot."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "ACCORD EURO R RACING",
+  "prestazioni": [
+    "Engine: Replace the stock K20A (220 PS) with a fully built K20A Type R (JDM-spec) block featuring forged internals from Tomei (pistons, conrods, crankshaft) and a 9.0:1 compression ratio for forced induction. Pair with a Garrett GTX3071R Gen II turbo (0.63 A/R turbine housing) and a custom 3-inch stainless steel turbo manifold from Hypertune Racing, designed specifically for the CL7 chassis.",
+    "Fuel System: Upgrade to a dual-pump fuel system with twin Walbro 450 LPH pumps, ID1000x injectors, and a Radium Engineering fuel pressure regulator. Integrate a Hondata KPro V4 ECU with a custom tune from Rywire Motorsports, optimized for E85 fuel (85% ethanol blend) with ignition timing mapped for 28 psi peak boost.",
+    "Suspension & Handling: Install a full Ohlins Road & Track DFV coilover kit (CL7-specific valving) with adjustable camber plates from Buddy Club. Replace the stock anti-roll bars with Ultra Racing’s 25mm front and 22mm rear sway bars, and fit poly bushings from Energy Suspension (part #9.5101R) for the rear subframe to eliminate flex. Braking is upgraded with Endless CC-R6 rotors (330mm front, 316mm rear) and 6-piston calipers from Project Mu."
+  ],
+  "estetica": [
+    "Aero: Fit a full Rocket Bunny V3 widebody kit (CL7-specific) with carbon fiber front canards, side skirts, and a duckbill rear spoiler. Replace the front bumper with a Seibon carbon fiber lip and integrate a custom 3D-printed splitter from Verus Engineering for downforce optimization. Rear diffuser is a custom unit from APR Performance (CL7-specific).",
+    "Wheels & Stance: Mount Volk Racing TE37V (18x9.5 +38 front, 18x10.5 +30 rear) with Michelin Pilot Sport Cup 2 tires (245/40/18 front, 275/35/18 rear). Use custom wheel spacers from 5Zigen (15mm front, 20mm rear) to achieve a flush fitment with the Rocket Bunny fenders. Lower the ride height via Ohlins coilovers to a static -30mm front and -25mm rear.",
+    "Interior & Details: Replace the stock seats with Bride Zeta III (CL7-specific brackets) and install a custom roll cage from AutoPower Industries (6-point, bolt-in, CL7 chassis-specific). Swap the steering wheel for a Momo Prototipo (350mm) with a NRG quick-release hub. Add a digital dash from AIM MXS Strada and a custom carbon fiber shift knob from Buddy Club (K20A-specific thread pitch). Exterior accents include a full carbon fiber hood from Seibon and a custom matte gunmetal wrap with JDM-spec Honda Racing decals (red/black)."
+  ]
+}

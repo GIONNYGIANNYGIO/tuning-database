@@ -1,0 +1,14 @@
+{
+  "brand": "HOLDEN",
+  "model": "COMMODORE VR HSV SV8",
+  "prestazioni": [
+    "Engine: Replace the stock 5.0L Chevrolet-sourced *304ci (L30 V8)* with a stroked *355ci (5.8L) LS1-based stroker kit* using a *Callies Compstar 4.000\" crankshaft*, *Manley H-beam connecting rods*, and *JE 2618 alloy forged pistons* (11.5:1 compression), paired with *CNC-ported LS6 cylinder heads* (215cc intake/75cc exhaust) and a *Harrop TVS2300 supercharger* (12psi boost) on a *custom billet intake manifold* with *ID1000 fuel injectors* and a *Walbro 450LPH fuel pump*.",
+    "Drivetrain: Install a *Tremec TR-6060 6-speed manual transmission* with a *McLeod twin-disc RST clutch* and *Pedders heavy-duty driveshaft*, paired with a *HSV-spec 3.46:1 LSD differential* (CWP-346) and *Whiteline adjustable rear sway bar* (24mm).",
+    "Suspension & Handling: Fit *KW Variant 3 coilovers* (8-position rebound, 12-click compression) with *SuperPro poly bushings* (front/rear control arms), *HSV-spec front strut brace* (part #92060388), and *Brembo GT 6-piston calipers* (355mm rotors) with *Ferodo DS2500 brake pads* and *Goodridge stainless steel brake lines*."
+  ],
+  "estetica": [
+    "Body: Apply a *HSV Clubsport R8-inspired widebody kit* (VR-specific, part #92060389) with *custom carbon fiber front splitter* (HSV Group A replica) and *APR Performance GT-250 rear wing* (3D-printed endplates for VR hatchback fitment).",
+    "Wheels: Mount *Rotiform LAS-R 18x9.5\" (ET15) and 18x11\" (ET25) wheels* in *Gloss Bronze*, wrapped in *Michelin Pilot Sport Cup 2* tires (255/40/18 front, 295/35/18 rear), with *H&R Trak+10mm spacers* (front) for flush fitment.",
+    "Interior: Install *Recaro SRD-E bucket seats* (HSV SV8-specific mounting brackets) with *Schroth 6-point harnesses*, a *MOMO Mod.78 steering wheel* (350mm, HSV HSV logo), and a *Haltech Elite 2500 ECU* with *Racepak IQ3 dash* (integrated with stock HVAC controls)."
+  ]
+}

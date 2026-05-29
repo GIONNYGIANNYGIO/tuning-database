@@ -1,0 +1,14 @@
+{
+  "brand": "HINDUSTAN",
+  "model": "CONTESSA CLASSIC",
+  "prestazioni": [
+    "Engine swap to a Nissan L28E (2.8L inline-6, 170hp stock) with a Garrett GT35R turbocharger (0.86 A/R turbine housing, 56mm compressor wheel) and custom 3-inch stainless steel turbo manifold by *Rocket Engineering (India)* for optimized exhaust flow and reduced lag. Supporting mods include a *Nismo 270-degree camshaft* and *JE Pistons 8.5:1 forged slugs* for boost resilience up to 18 psi.",
+    "Full standalone ECU conversion using a *Haltech Elite 2500* with custom wiring harness by *Autosport Labs (India)* to manage the L28E’s fueling via *ID1000x injectors* and a *Walbro 450LPH in-tank fuel pump*. Ignition system upgraded to *MSD 6AL-2* with *NGK BCPR7ES-11* spark plugs gapped at 0.028 inches for high-RPM stability.",
+    "Suspension overhaul with *Öhlins Road & Track DFV coilovers (custom valved for Contessa chassis)* paired with *Whiteline adjustable sway bars (24mm front, 22mm rear)* and *Polyurethane bushings (SuperPro 90A durometer)* for reduced body roll. Braking system features *Brembo GT 4-piston calipers (330mm rotors front, 300mm rear)* with *Ferodo DS2500 pads* and *Goodridge G-Stop braided stainless steel lines*."
+  ],
+  "estetica": [
+    "Custom widebody conversion using *Liberty Walk LB Works Contessa kit* (hand-fabricated FRP panels with 3-inch flares) to accommodate *Work Meister S1 3P 18x9.5 +15 wheels* wrapped in *Yokohama Advan A052 245/40R18 tires*. Front splitter and rear diffuser by *Seibon Carbon* with integrated *Aeromotions active rear wing (adjustable angle via servo motor)*.",
+    "Full interior reupholstery in *Recaro Pole Position seats (cloth/Alcantara hybrid)* with *Schroth 6-point harnesses* and a *Sparco Pro 2000 steering wheel* on a *NRG quick-release hub*. Custom roll cage by *Custom Cages (UK)* with *TIG-welded 4130 chromoly* and integrated *FireBottle 2.25kg plumbed fire suppression system*.",
+    "Exterior paint scheme: *PPG Vibrance Collection ‘Lime Squeeze’ with matte black roof* and *3M 1080 ‘Carbon Fiber’ wrap on hood/decklid*. Lighting upgraded to *Morimoto XB LED headlights* and *Lux H8 V4 fog lights*, with *DRLs integrated into the front bumper via custom CNC-machined aluminum bezels*."
+  ]
+}

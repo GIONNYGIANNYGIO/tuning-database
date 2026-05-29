@@ -1,0 +1,14 @@
+{
+  "brand": "HOLDEN",
+  "model": "MONARO CV8",
+  "prestazioni": [
+    "LS1 (Gen III 5.7L V8) engine rebuild with forged internals: Mahle Motorsport forged pistons (9.5:1 compression), Eagle H-beam connecting rods, and a Callies Compstar crankshaft for 8,000 RPM reliability. Pair with a custom camshaft grind from Cam Motion (232/238 duration @ 0.050, 0.624/0.624 lift) and PAC Racing valve springs for aggressive lobe separation.",
+    "Forced induction via a Harrop HTV2300 supercharger kit (2.3L Eaton TVS rotor, 10-12 PSI boost) with a custom intercooler setup featuring a PWR 4.5-core front-mount intercooler and dual Bosch 044 fuel pumps. Tune via HP Tuners VCM Suite with a custom OS (Operating System) flash for LS1-specific knock control and AFR targeting (11.8:1 under boost).",
+    "Drivetrain reinforcement: Harrop heavy-duty 9-inch differential with 3.73:1 gearing, billet axles from Strange Engineering, and a Tilton twin-disc clutch (7.25-inch, 800 ft-lb capacity) paired with a McLeod hydraulic throwout bearing. Suspension overhaul with Ohlins Road & Track coilovers (2-way adjustable dampers), Whiteline adjustable sway bars (24mm front, 22mm rear), and poly bushings from SuperPro for subframe and control arms."
+  ],
+  "estetica": [
+    "Custom widebody conversion using a Holden Monaro-specific Rocket Bunny/Pandem kit (V2 version), extended 50mm per side with carbon fiber fenders and overfenders. Front splitter and rear diffuser from Seibon Carbon, paired with a custom 3-piece carbon fiber hood (vented for LS1 heat extraction) from VIS Racing.",
+    "Wheel setup: Rotiform LAS-R 19x10 +15 front and 19x12 +25 rear in matte bronze, wrapped in Michelin Pilot Sport Cup 2 tires (275/35/19 front, 315/30/19 rear). Brake upgrade with AP Racing 6-piston calipers (380mm rotors front) and 4-piston rear calipers (355mm rotors), paired with Ferodo DS2500 pads and Motul RBF660 brake fluid.",
+    "Interior overhaul: Full Alcantara retrim by Katzkin (black with red stitching), including Recaro SRD-L seats (fixed-back, FIA-approved) and a custom roll cage from Custom Cages (8-point, TIG-welded chromoly). Steering wheel swap to a Momo Prototipo (350mm, suede) with a NRG quick-release hub, and gauge cluster upgrade to a Defi Advance BF series (oil temp, oil pressure, boost, and wideband AFR)."
+  ]
+}

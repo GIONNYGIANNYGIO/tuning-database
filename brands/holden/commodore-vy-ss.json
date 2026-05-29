@@ -1,0 +1,14 @@
+{
+  "brand": "HOLDEN",
+  "model": "COMMODORE VY SS",
+  "prestazioni": [
+    "Engine: Replace the stock LS1 (5.7L Gen III, engine code GENIII_LS1) with a stroked and forged LSX 427ci (7.0L) block from Dart Machinery, featuring Mahle Motorsport forged pistons (2618 alloy, 4.125\" bore), Callies Compstar forged crankshaft (4.000\" stroke), and Manley H-beam connecting rods. Pair with a custom camshaft from Cam Motion (242/248 duration at 0.050\", 0.650\" lift, 114 LSA) and PAC Racing valve springs for high-RPM stability.",
+    "Forced Induction: Install a Garrett GTX5533R Gen II turbocharger (88mm compressor wheel, 1.15 A/R turbine housing) on a custom Precision Turbo & Engine manifold, with a Tial MV-R 44mm external wastegate and a Turbosmart Race Port BOV. Use a custom intercooler setup from PWR (4.5\" thick core, 22\" x 12\" dimensions) with Vibrant Performance silicone couplers and T-bolt clamps.",
+    "Drivetrain & Handling: Swap the stock T56 6-speed manual for a Tremec TR-6060 (from a C6 Corvette) with a McLeod RST twin-disc clutch and lightweight flywheel. Install a Harrop diff cover with a 3.73:1 ratio LSD from Strange Engineering. Suspension upgrades include Ohlins Road & Track DFV coilovers (custom valving for VY chassis), SuperPro poly bushings (full kit), and Whiteline adjustable sway bars (24mm front, 22mm rear)."
+  ],
+  "estetica": [
+    "Body Kit: Fit a custom Liberty Walk LB Works widebody kit (VY-specific, bolt-on fenders, aggressive side skirts, and rear diffuser) with carbon fiber overfenders and a custom front splitter from Seibon Carbon. Paint in Holden’s original ‘Devil Yellow’ (code: 90144) with a matte clear coat from PPG.",
+    "Wheels & Stance: Mount a set of Work Meister S1 3P wheels (19x10 +15 front, 19x11 +25 rear) with Nitto NT05R tires (275/35/19 front, 305/30/19 rear). Use Air Lift Performance 3P management with custom hardlines and a Viair 480C compressor for a static 1.5\" drop with adjustable ride height.",
+    "Interior & Aero: Replace the stock seats with Recaro Pole Position buckets (VY-specific mounts) and a Takata Drift II 4-point harness. Install a custom roll cage from Autopower (8-point, bolt-in, chromoly) with a half-cage design. Add a custom carbon fiber dashboard overlay from V Carbon and a Momo Mod.78 steering wheel. For aero, mount a custom carbon fiber GT wing from 9 Lives Racing (60\" span, 12\" chord, 3D-printed mounts) and a custom rear diffuser with integrated LED brake lights."
+  ]
+}

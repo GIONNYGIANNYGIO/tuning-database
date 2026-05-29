@@ -1,0 +1,14 @@
+{
+  "brand": "HOLDEN",
+  "model": "COMMODORE VX SS",
+  "prestazioni": [
+    "Engine: Replace the stock LS1 (Gen III 5.7L V8, 346ci) with a stroked LSX block (4.125\" bore, 4.000\" stroke) using a Callies Compstar crankshaft, Manley H-beam connecting rods, and Mahle 2618 alloy forged pistons (11.5:1 compression) for a 427ci displacement. Pair with a custom camshaft from Cam Motion (242/248 duration @ 0.050\", 0.650\" lift, 114 LSA) and PAC Racing valve springs (150 lbs seat, 450 lbs open) to handle 8,000 RPM safely.",
+    "Forced Induction: Install a Garrett GTX5533R turbocharger (1.06 A/R turbine housing, 1.15 A/R compressor housing) with a custom Precision Turbo & Engine 46mm wastegate and a Turbosmart Race Port BOV. Fabricate a custom intercooler setup using a PWR 4.5\" core (1200hp-rated) with 3.5\" mandrel-bent aluminum piping and silicone couplers from Vibrant Performance. Tune via Haltech Elite 2500 ECU with flex-fuel capability and a 1000cc ID1000 fuel injectors.",
+    "Drivetrain: Swap the stock T56 6-speed manual for a Tremec TR-6060 (from a C6 Corvette ZR1) with a McLeod RST twin-disc clutch (850 ft-lb capacity) and a billet flywheel. Strengthen the rear end with a Harrop 9-inch differential (3.73:1 ratio) using Strange Engineering 35-spline axles and a Detroit Truetrac limited-slip differential. Upgrade the driveshaft to a carbon fiber unit from The Driveshaft Shop (rated for 1,200 hp)."
+  ],
+  "estetica": [
+    "Body Kit: Install a custom VX-specific aero package from ADR Motorsport, including a carbon fiber front splitter (2.5\" overhang), side skirts with integrated air curtains, and a rear diffuser with dual 4\" exhaust exits. Replace the rear bumper with a custom 3D-printed unit (PETG material) featuring a central vent for diffuser airflow and integrated tow hooks.",
+    "Wheels & Stance: Fit a set of Work Meister S1 3P wheels (19x10 +15 front, 19x12 +25 rear) with custom center caps featuring the Holden lion emblem. Use BC Racing BR coilovers (1,200 lb/in springs) with Swift Springs helper springs for a 1.5\" static drop. Pair with Nitto NT05 tires (275/35/19 front, 315/30/19 rear) and custom wheel spacers (15mm front, 25mm rear) from Hardrace.",
+    "Interior & Lighting: Replace the stock seats with Recaro Pole Position buckets (HANS-compatible) wrapped in Alcantara with red stitching. Install a custom roll cage from Custom Cages (8-point, TIG-welded 4130 chromoly) with integrated harness bars for Schroth 6-point harnesses. Upgrade lighting with Osram Night Breaker Laser H7 bulbs (front) and Philips X-tremeUltinon LED taillights with sequential turn signals."
+  ]
+}

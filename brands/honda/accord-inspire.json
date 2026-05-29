@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "ACCORD INSPIRE",
+  "prestazioni": [
+    "Engine swap to a **J37A4 (3.7L V6 from the Acura RL/MDX)** with a **Hondata KPro V4 ECU** for direct port injection control, paired with a **Garrett GT3582R turbo (0.82 A/R, 62mm inducer)** on a **Full-Race Motorsports J37 turbo manifold** with **Tial MV-R 44mm wastegate** and **Tial Q 50mm BOV** for precise boost management (targeting 12-14 psi on 98 RON fuel).",
+    "Custom **Toda Racing forged internals** including **8.5:1 compression forged pistons**, **H-beam connecting rods (Toda spec)**, and **billet crankshaft (Toda 84mm stroke)** to handle 600+ hp, mated to a **K-Tuned J37 dry sump system** for oil control under high lateral G-forces. **Ferrea 5000 series intake/exhaust valves** with **Supertech dual valve springs** and **Toda Racing camshafts (272° intake, 280° exhaust, 11.5mm lift)** for optimized powerband.",
+    "**Koyorad Hybrid 53mm core front-mount intercooler** with **custom 3.5\" piping (Vibrant Performance)** and **Radium Engineering dual fuel pumps (450 LPH each)** feeding **ID1000cc injectors** for E85 compatibility. **Spoon Sports 4-2-1 header** with **2.5\" stainless steel exhaust (Burns Stainless merge collectors)** and **GReddy SP2 cat-back** for backpressure optimization."
+  ],
+  "estetica": [
+    "**Liberty Walk LB-WORKS Inspire-specific widebody kit** (front/rear fenders, side skirts, and rear diffuser) with **custom carbon fiber overfenders (Seibon)** to fit **Work Meister S1 3P 19x10.5 +25 (front) and 19x12 +35 (rear)** wheels wrapped in **Yokohama Advan A052 275/30/19 (front) and 315/30/19 (rear)** tires.",
+    "**Veilside Fortune 03 front bumper conversion** with **custom LED DRLs (Lux H8 V3)** and **OEM Honda Inspire JDM-spec rear spoiler (Mugen-style)** painted in **PPG Honda Championship White (NH-578)** with **3M Matte Black vinyl roof wrap**. **JDM Inspire-specific side markers (Stanley LED)** and **custom rear fog light delete (replaced with carbon fiber covers)** for a cleaner look.",
+    "**Recaro SPG-KL (JDM-spec) seats** with **Sparco 6-point harnesses** and **custom rear seat delete (replaced with a carbon fiber storage panel by AutoTechnic Japan)**. **Mugen MF-10 350mm steering wheel** with **NRG quick-release hub** and **custom gauge cluster (Defi Advance BF dual sensor boost/wideband controller)**. **Full interior sound deadening (Dynamat Extreme)** with **custom Alcantara headliner (Euro-spec Inspire trim)**."
+  ]
+}

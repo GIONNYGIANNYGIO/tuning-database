@@ -1,0 +1,14 @@
+{
+  "brand": "HOLDEN",
+  "model": "SPECIAL VEHICLES SENATOR SIGNATURE",
+  "prestazioni": [
+    "Engine: Replace the stock LS1 (5.7L Gen III V8, engine code GENIII_LS1) with a stroked LSX-based 427ci (7.0L) forged internals build featuring Mahle Motorsport forged pistons (2618 alloy, 4.125\" bore), Callies Compstar 4340 forged crankshaft (4.000\" stroke), and Manley Performance 4340 H-beam connecting rods. Pair with a custom camshaft from COMP Cams (243/249 duration, .650\" lift, 114 LSA) and ported LS6 cylinder heads by Total Engine Airflow (TEA) for optimized airflow.",
+    "Forced Induction: Install a Harrop HTV2300 supercharger kit (2.3L Eaton TVS rotor, 10-12psi boost) with a custom intercooler setup featuring a PWR Performance Products bar-and-plate core (4.5\" thick, 1200cfm airflow) and dual Bosch 044 fuel pumps with Aeromotive A1000 regulators for E85 compatibility. Tune via Haltech Elite 2500 ECU with flex-fuel sensor integration.",
+    "Drivetrain & Suspension: Swap the stock 4L60-E transmission for a Tremec TR-6060 6-speed manual with a twin-disc SPEC Super Twin clutch (360 ft-lb torque capacity). Replace the IRS with a custom 9-inch Ford differential (Currie Enterprises housing, 3.73:1 gear ratio, Truetrac limited-slip). Suspension upgrades include Ohlins Road & Track coilovers (V3 internals, 8-position adjustable damping) and polyurethane bushings from SuperPro (full chassis kit, including subframe and diff mounts)."
+  ],
+  "estetica": [
+    "Bodywork: Fit a custom widebody kit from ADR Motorsport (carbon fiber front fenders, rear quarter panels, and rear diffuser) with a functional carbon fiber hood (ADR, 50mm vented scoop) and a custom front splitter (ADR, 3-piece adjustable, 2.5\" overhang). Paint in Holden Heritage ‘Panorama Silver’ with matte black accents (3M 1080 wrap on roof, mirrors, and lower body cladding).",
+    "Aerodynamics: Install a custom rear wing from KBD Bodykits (dual-element, 65\" span, 3D-printed carbon fiber, adjustable angle of attack) and side skirts from ADR Motorsport (carbon fiber, integrated LED turn signals). Add a custom front canard setup (ADR, 3-piece carbon fiber, 45-degree angle) and a rear diffuser with integrated exhaust outlets (ADR, carbon fiber, 3-piece design).",
+    "Wheels & Stance: Mount custom 20x10\" (front) and 20x11.5\" (rear) forged wheels from Rotiform (LAS-R model, 5x120 PCD, +25mm front/+35mm rear offset) wrapped in Michelin Pilot Sport Cup 2 tires (275/30/20 front, 305/25/20 rear). Lower the ride height via Ohlins coilovers (1.5\" drop from stock) and add custom wheel spacers (15mm front, 20mm rear) from H&R for flush fitment."
+  ]
+}

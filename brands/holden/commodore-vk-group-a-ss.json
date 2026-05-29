@@ -1,0 +1,14 @@
+{
+  "brand": "HOLDEN",
+  "model": "COMMODORE VK GROUP A SS",
+  "prestazioni": [
+    "Engine: Replace the factory 5.0L (304ci) Holden V8 (engine code: 253/308, specifically the Group A-spec 'Black' motor) with a forged internals build featuring a billet crankshaft from **Callies Compstar** (4.000\" stroke), **Manley I-beam connecting rods** (6.700\" length), and **JE Pistons** forged slugs (10.5:1 compression, coated skirts). Pair with **Crow Cams** solid-lifter camshafts (292° duration, 0.600\" lift) and **Harrop** roller rockers for Group A endurance reliability.",
+    "Forced Induction: Install a **Garrett GT42R turbocharger** (88mm compressor wheel, .82 A/R turbine housing) on a custom **SPEARCO** log-style manifold, paired with a **Turbonetics Deltagate 45mm wastegate** and **Tial MV-R 50mm blow-off valve**. Intercooling via a **PWR** front-mount bar-and-plate core (4.5\" thick, 22\" x 12\" face) with **Vibrant Performance** silicone couplers and **TurboSmart** Race Port bypass valve.",
+    "Fuel & Ignition: Convert to **Bosch 044 high-flow fuel pump** with **Aeromotive** adjustable FPR (set to 58psi base), feeding **ID1000cc injectors** (side-feed, EV14 style). Ignition system upgraded to **MSD 6AL-2** with **Blaster SS coil** and **NGK R7437-9** iridium plugs (0.035\" gap). ECU: **Haltech Elite 2500** standalone with **MoTeC C127 dash** for real-time Group A-spec telemetry (boost, AFR, oil pressure)."
+  ],
+  "estetica": [
+    "Body: **Holden Dealer Team (HDT)** Group A replica widebody kit (fiberglass, riveted fenders with 2.5\" flares), paired with **APR Performance** carbon fiber front splitter (35mm overhang) and **Custom Works** aluminum rear diffuser (integrated brake ducts). Hood: **Carbon Revolution** 1-piece carbon fiber unit with **AeroCatch** latches and **3M Scotchprint** matte black vinyl wrap (OEM Group A livery).",
+    "Aero: **Rocket Bunny** GT-style rear wing (dual-element, 1,200mm span, 300mm chord) mounted on **Cusco** aluminum pedestals (adjustable angle: 0°–15°). Side skirts: **Seibon** carbon fiber with integrated **AIM Solo 2** GPS antenna. Front bumper: **HDT Group A** replica with **Hella** 500FF driving lights (Cibie covers) and **Vorshlag** tow hooks (anodized red).",
+    "Wheels & Stance: **BBS LM-R** 18x10.5\" ET15 (front) and 18x12\" ET5 (rear) with **Nitto NT01** 275/35/18 and 315/30/18 tires. Suspension: **Ohlins Road & Track DFV** coilovers (24-way damping, 30mm drop) with **SuperPro** poly bushings (front control arms, subframe) and **Whiteline** adjustable sway bars (24mm front, 22mm rear). Brakes: **AP Racing** 6-piston CP8300 calipers (355mm rotors) with **Ferodo DS3000** pads and **Goodridge** braided lines."
+  ]
+}

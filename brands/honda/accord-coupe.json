@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "ACCORD COUPE",
+  "prestazioni": [
+    "K24A2 (2.4L i-VTEC) engine swap with a custom-built Garrett GT3582R turbocharger (0.82 A/R turbine housing) paired with a PRL Motorsports short-runner intake manifold and a Hondata KPro V4 ECU tune optimized for 12.5 psi boost, targeting 380 whp on 93 octane fuel with a 6500 RPM redline",
+    "Full bolt-on drivetrain reinforcement: OS Giken Super Lock limited-slip differential, Driveshaft Shop 3.5-inch aluminum driveshaft, and a K-Tuned 5-speed transmission mount with billet aluminum inserts to handle increased torque",
+    "Custom 3-inch stainless steel exhaust system by Hytech Exhaust with a 4-2-1 header design (equal-length primaries) and a dual-mode muffler (straight-pipe for track, valved for street) terminating in 4-inch titanium tips by Invidia"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit with custom carbon fiber overfenders (flares extended 2.5 inches per side) and a 3M Matte Gunmetal wrap with gloss black accents on the roof and mirrors",
+    "Seibon Carbon fiber hood with a 3-inch cowl scoop and integrated NACA ducts for brake cooling, paired with a J's Racing front lip spoiler and a custom rear diffuser by Veilside (modeled after the Fortune 03 design)",
+    "OEM+ interior overhaul: Recaro SPG-XL seats with custom Alcantara upholstery (Honda Racing Blue stitching), NRG Innovations quick-release steering wheel hub, and a digital dash overlay by Defi (BF series gauges for oil pressure, boost, and wideband AFR) mounted in a custom A-pillar pod"
+  ]
+}

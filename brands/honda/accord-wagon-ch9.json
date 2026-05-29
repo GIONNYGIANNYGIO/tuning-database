@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "ACCORD WAGON CH9",
+  "prestazioni": [
+    "F23A VTEC engine (Honda F23A1/F23A4) forced induction via Garrett GT3076R turbocharger with 0.82 A/R turbine housing, custom 3-inch stainless steel turbo manifold by Full-Race Motorsports, and 44mm external wastegate (Tial MV-R) for 12 psi boost targeting 320whp on pump gas (98 RON).",
+    "Custom ECU reflash via Hondata K-Pro V4 with F23A-specific fuel and ignition maps, including 1000cc ID1000 injectors, Walbro 255 lph fuel pump, and AEM 3.5 bar MAP sensor for precise load monitoring. Dual-stage nitrous oxide kit (NOS 51762) with progressive controller for 75hp jolts on demand.",
+    "Full drivetrain reinforcement: OS Giken Super Lock LSD (4.785 final drive), Clutch Masters FX500 twin-disc clutch with billet flywheel, and custom 3.5-inch driveshaft by Driveshaft Shop (aluminum, 1350 series U-joints) to handle increased torque."
+  ],
+  "estetica": [
+    "J's Racing Type-II widebody conversion kit (CH9-specific, bolt-on fender flares with integrated LED turn signals), paired with a custom carbon fiber rear hatch spoiler by Seibon Carbon (OEM+ fitment, 3-piece design).",
+    "Work Meister S1 3P 17x9 +38 wheels (ET38) with 225/45/17 Yokohama Advan Neova AD08R tires, wrapped in custom matte gunmetal paint with gold Work wheel hardware. Front fender reinforcement plates (Honda OEM part 74110-SV4-000) for structural rigidity.",
+    "Full interior overhaul: Bride Euro II reclining bucket seats (CH9-specific mounting brackets), Takata Drift II 4-point harnesses, and custom rear cargo area roll cage (6-point, mild steel, powder-coated satin black) by Cusco with integrated fire suppression system (Sparco Pro 2000)."
+  ]
+}

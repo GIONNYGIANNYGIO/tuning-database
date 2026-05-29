@@ -1,0 +1,14 @@
+{
+  "brand": "HOLDEN",
+  "model": "COMMODORE VZ SS",
+  "prestazioni": [
+    "Engine: Replace the stock LS2 (6.0L Gen IV, 242kW) with a stroked LS7 (7.0L, 427ci) using a Callies DragonSlayer crankshaft (4.125\" stroke), Mahle Motorsport forged pistons (12.5:1 CR), and Manley H-beam connecting rods. Pair with a custom camshaft from Cam Motion (236/242 duration, .624/.624 lift, 114 LSA) for aggressive NA power delivery.",
+    "Forced Induction: Install a ProCharger F-1X centrifugal supercharger (10-12psi) with a custom intercooler setup featuring a Garrett bar-and-plate core (1200cfm) and dual 4\" silicone couplers. Use a custom fuel system with ID1000 injectors, a Walbro 450LPH pump, and a Holley Dominator ECU for precise tuning.",
+    "Drivetrain: Swap the stock T56 6-speed for a Tremec TR-6060 (from a C6 Corvette) with a twin-disc McLeod RST clutch (800ft-lb capacity). Strengthen the rear end with a Moser Engineering 9\" housing, 35-spline axles, and a Detroit Truetrac differential (3.73:1 gears)."
+  ],
+  "estetica": [
+    "Body Kit: Install a custom VZ-specific Rocket Bunny widebody kit (flares extended 3\" per side) with carbon fiber front splitter and rear diffuser. Use a custom 3M Matte Military Green wrap with gloss black accents on the hood and roof.",
+    "Wheels: Fit Work Emotion CR Kiwami 2 (19x10 +15 front, 19x12 +25 rear) with Nitto NT05R tires (275/35/19 front, 315/30/19 rear). Add custom wheel spacers (15mm front, 25mm rear) for aggressive stance.",
+    "Interior: Replace stock seats with Recaro Pole Position buckets (cloth/Alcantara) and install a custom roll cage from Custom Cages (8-point, mild steel, bolt-in). Add a Motec C127 dash display with AIM MXS Strada data logging and a Sparco Pro 2000 steering wheel."
+  ]
+}

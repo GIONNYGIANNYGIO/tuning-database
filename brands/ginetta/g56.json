@@ -1,0 +1,14 @@
+{
+  "brand": "GINETTA",
+  "model": "G56",
+  "prestazioni": [
+    "Engine: Ford Duratec 2.0L I4 (engine code: *GDI-200HP*), upgraded with a *Garrett GT2860RS* turbocharger (0.63 A/R turbine housing) and *Tial MV-R 44mm* external wastegate for 350whp on *Motul 300V 5W-40* with a *Syvecs S6GP* standalone ECU (mapped for 28psi peak boost on 99 RON fuel).",
+    "Drivetrain: *Quaife ATB LSD* (80% lock) paired with a *Ginetta-spec 6-speed sequential gearbox* (close-ratio gears: 2.66, 1.85, 1.39, 1.11, 0.91, 0.78) and *Penske 8760* 3-way adjustable coilovers (24-position rebound, 18-position compression) with *Eibach ERS* 1,200lb/in springs.",
+    "Braking: *AP Racing CP6640-2600* 6-pot front calipers (380mm *DBA 5000 Series* rotors) and *CP5350-1800* 4-pot rears (330mm rotors) with *Ferodo DS2500* pads and *Goodridge 6AN* braided stainless steel lines."
+  ],
+  "estetica": [
+    "Aero: *Ginetta G56 GT4-spec* carbon fiber front splitter (35mm overhang) with *Rear Diffuser* (3-piece, 120mm height) and *GT3-style* rear wing (adjustable 0-15° angle, *Aerofoil Shop* custom profile).",
+    "Body: *Full carbon fiber body kit* (Ginetta Motorsport OEM) including *hood* (2x 80mm vents), *fenders* (25mm wider, *Rocket Bunny-style* flares), and *doors* (dihedral cut, *Vulcan Carbon* weave).",
+    "Interior: *Sparco Pro 2000* seats (HANS-compatible, 1.2kg carbon shell) with *Schroth 6-point harnesses*, *Momo Mod.78* steering wheel (320mm, suede), and *AiM MXS Strada* dash (12Hz GPS, *Bosch LSU 4.9* wideband integration)."
+  ]
+}

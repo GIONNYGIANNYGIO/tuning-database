@@ -1,0 +1,14 @@
+{
+  "brand": "HOLDEN",
+  "model": "COMMODORE VP SS",
+  "prestazioni": [
+    "Engine: Replace the stock 5.0L V8 (engine code: **5.0L Holden V8, 304ci, internally known as the '304' or '5000i')** with a **Blueprint Engines 383 Stroker Kit** (4.030\" bore, 3.750\" stroke) using **Mahle forged pistons (2618 alloy, 10.5:1 compression)**, **Callies Compstar forged crankshaft**, and **Manley H-beam connecting rods**. Pair with **Crower solid roller camshaft (248/254 duration @ 0.050\", 0.600\" lift)** and **Harland Sharp 1.6:1 roller rockers** for aggressive valvetrain performance.",
+    "Forced Induction: Install a **Precision Turbo PT6266 CEA turbocharger (62mm inducer, 76mm exducer, .82 A/R turbine housing)** with a **Turbonetics Deltagate 40 wastegate** and **Tial MV-R 50mm blow-off valve**. Use a **PWR 4-core bar-and-plate intercooler (1000hp capable)** and **ID1000 injectors (1000cc/min)** fed by a **Walbro 450LPH in-tank fuel pump**. Tune via **MoTeC M800 ECU** with **Innovate LM-2 wideband O2 sensor** for precise AFR control.",
+    "Drivetrain & Suspension: Swap the stock TH700R4 automatic for a **Tremec T56 Magnum 6-speed manual transmission** with a **McLeod twin-disc RST clutch (1000lb pressure plate)**. Install a **Moser 9\" rear end with 3.73:1 gears and a Detroit Truetrac limited-slip differential**. Replace the stock suspension with **Pedders XA Extreme IRS coilovers (adjustable damping, 2.5\" drop)** and **Whiteline adjustable sway bars (24mm front, 22mm rear)** for chassis rigidity."
+  ],
+  "estetica": [
+    "Body Kit: Fit a **Holden VP SS-specific 'VS Walkinshaw' widebody conversion kit** (OEM+ quality, includes flared fenders, front splitter, and rear diffuser) paired with a **Carbon Revolution 20\" forged carbon fiber wheel set (8.5J front, 10J rear, ET25 offset)** wrapped in **Michelin Pilot Sport Cup 2 tires (245/35/20 front, 275/30/20 rear)**.",
+    "Aero & Lighting: Install a **Seibon carbon fiber hood (with functional heat extractor vents)** and **APR Performance GT-250 rear wing (3D carbon fiber, adjustable angle)**. Replace the stock headlights with **Lux HID Projector headlights (55W, 6000K, sequential turn signals)** and add **Oracle Lighting RGB LED underglow kit (with remote control)** for aggressive stance lighting.",
+    "Interior: Retrim the cabin in **Recaro SRD full-leather seats (with 4-point Schroth harnesses)** and install a **MOMO Mod.78 steering wheel (350mm, suede grip)** on a **NRG quick-release hub**. Add a **Racepak IQ3 digital dash (with GPS lap timer, oil pressure, and boost gauges)** and **Sparco 6-point bolt-in roll cage (mild steel, powder-coated black)** for track readiness."
+  ]
+}

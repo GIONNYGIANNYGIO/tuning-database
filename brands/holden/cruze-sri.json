@@ -1,0 +1,14 @@
+{
+  "brand": "HOLDEN",
+  "model": "CRUZE SRI",
+  "prestazioni": [
+    "Engine: LE5 1.8L Ecotec I4 (138 kW stock) – Full forged internals including Manley H-beam connecting rods, Mahle Motorsport forged pistons (8.5:1 compression for forced induction), ACL Race Series bearings, and ARP head studs for 300+ WHP reliability.",
+    "Forced Induction: Garrett GT2860RS turbocharger (ball-bearing, .64 A/R turbine housing) with custom 3-inch stainless steel turbo manifold (fabricated by AP Racing), paired with a PWR 450x760mm front-mount intercooler and Tial 44mm wastegate for precise boost control (targeting 18-20 psi on E85).",
+    "Fuel & Ignition: Injector Dynamics ID1000 fuel injectors, Walbro 450 LPH in-tank fuel pump, AEM 340lph inline fuel pump, and Haltech Elite 2500 ECU with flex-fuel sensor. Ignition upgrade includes NGK Iridium IX spark plugs (gapped at 0.024\") and MSD 8.5mm super conductor spark plug wires for consistent combustion under high boost."
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny V1 widebody kit (Holden Cruze-specific fitment) with carbon fiber front splitter, rear diffuser, and over-fenders to accommodate 9.5-inch front/10.5-inch rear wheel widths. Rear wing is a custom 3D-printed carbon fiber duckbill spoiler (modeled after the FD2 Civic Type R) for high-speed stability.",
+    "Suspension: Ohlins Road & Track DFV coilovers (Holden Cruze-specific valving) with 24-way adjustable compression/rebound damping, poly bushings (SuperPro 63mm front control arms and rear trailing arms), and Whiteline adjustable rear sway bar (24mm) to eliminate body roll. Wheel setup: Work Emotion CR Kiwami (18x9.5 +35 front, 18x10.5 +30 rear) with Michelin Pilot Sport Cup 2 tires (245/40/18 front, 275/35/18 rear).",
+    "Exterior: Full custom matte vinyl wrap (3M 1080 Gloss Black with satin red accents) paired with Vland LED headlights (Projector H7 with sequential turn signals) and custom carbon fiber hood (Seibon, weight reduction of 8.5 kg). Rear bumper features a custom diffuser with dual 3.5-inch titanium exhaust tips (custom-fabricated by Borla)."
+  ]
+}
