@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "CROSSTOUR",
+  "prestazioni": [
+    "Engine swap to a **K24A2** (2.4L DOHC i-VTEC, 200hp stock) from the 2005-2008 Acura TSX, paired with a **Hondata KPro V4** standalone ECU to enable full fuel/timing control, aggressive cam profiles (e.g., **Skunk2 Stage 2 Pro cams** with 256° duration and 11.5mm lift), and a **Garrett GT3071R** turbocharger (0.63 A/R turbine housing) running 12 psi on E85 for ~350whp at the front wheels. Requires **K-Tuned K24A2 oil pump gear** and **ARP head studs** to handle boost.",
+    "Full **BC Racing BR Type Coilovers** with **Swift Springs** (8kg/mm front, 6kg/mm rear) and **Cusco 22mm front / 19mm rear sway bars** to eliminate body roll, paired with **Honda OEM 2012+ Accord V6 front knuckles** (for +15mm track width) and **Whiteline ALK (Alignment Kit)** to correct bump steer. Braking upgraded to **StopTech ST-60 6-piston front calipers** with **DBA 5000 Series rotors** and **Hawk HT-10 brake pads** for fade resistance.",
+    "Drivetrain reinforcement with a **PPG 4.785 final drive ratio** (from the 2006-2010 Honda Ridgeline) in the **5-speed automatic transmission**, paired with a **RevWorks Stage 2 torque converter** (2,800 RPM stall) and **South Bend Clutch Stage 3 daily disc** for the K24A2 swap. **Cusco 2-way LSD** installed in the rear differential, with **Hardrace rear subframe bushings** and **Energy Suspension motor mounts** to reduce drivetrain deflection under load."
+  ],
+  "estetica": [
+    "**Liberty Walk LB Works Widebody Kit** (Crosstour-specific, +80mm front/+100mm rear fenders) with **custom carbon fiber overfenders** to clear 285/30/20 tires on **Work Emotion CR Kiwami** wheels (9.5x20 ET+15 front, 10.5x20 ET+20 rear). Front lip and rear diffuser from **Seibon Carbon** with **custom 3D-printed canards** for downforce.",
+    "**Full custom LED lighting conversion**: **Lux H8 V4** headlights with **Morimoto XB35 HID projectors**, **Diode Dynamics SS360 fog lights**, and **VLEDS 3rd brake light strip** integrated into the rear spoiler. **Blackout treatment** with **3M Matte Graphite vinyl wrap** and **OEM Honda Crystal Black Pearl paint correction** (2-stage polish + **Gyeon Ceramic Coating**).",
+    "**Interior overhaul** with **Recaro SRD-E bucket seats** (retaining OEM seatbelt mounts), **NRG Innovations quick-release steering wheel hub** paired with a **Momo Mod.78** flat-bottom wheel, and **custom Alcantara door cards** with **LED ambient lighting** (RGB controlled via **AEM CD-7 dash**). **Sound deadening** via **Kilmat 80mil butyl sheets** and **Dynamat Xtreme** in the cargo area for a quieter cabin."
+  ]
+}

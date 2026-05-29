@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "CIVIC TYPE R FL5 LIMITED",
+  "prestazioni": [
+    "Full bolt-on turbo system for the K20C1 (2.0L VTEC Turbo) featuring a Garrett GT3076R Gen II turbocharger with a 0.82 A/R turbine housing, custom 3.5-inch stainless steel downpipe with 200-cell catalytic converter delete, and a PRL Motorsports intercooler upgrade with a 5.5-inch core thickness for reduced intake temps under sustained 35+ psi boost levels",
+    "Custom Hondata KPro V4 ECU reflash with a bespoke 3000+ RPM launch control map, optimized for E85 flex-fuel (up to 50% ethanol blend) with revised ignition timing (-3° to -5° at peak torque) and fuel injector scaling for Injector Dynamics ID1700x injectors (2200cc/min) to support 600+ WHP on stock internals with forged pistons",
+    "Full suspension overhaul with Ohlins Road & Track DFV coilovers (FL5-specific valving), Whiteline front sway bar (24mm adjustable), and Hardrace front/rear camber arms with spherical bearings for -3.5° front and -2.8° rear camber, paired with a Cusco 2-point front strut tower brace and a custom rear subframe brace for chassis rigidity under 1.5G lateral loads"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (FL5-specific) with carbon fiber front fenders, rear quarter panels, and a 3-piece GT-style rear wing (adjustable angle up to 15°), finished in a custom 3M Matte Hyper Blue with gloss black accents and exposed carbon weave on the hood and roof",
+    "Full titanium exhaust system by HKS Hi-Power Ti, featuring a 3.5-inch titanium piping with a quad 4.5-inch titanium tips (burnt blue finish), paired with a custom titanium rear diffuser by Seibon Carbon for improved rear downforce at high speeds",
+    "Custom interior by Recaro with SPG XL seats (red Alcantara with black leather bolsters) wrapped in Takata Drift III 4-point harnesses, a MOMO Mod.78 steering wheel (350mm diameter, suede grip), and a full carbon fiber dashboard overlay by 3D Carbon, including a custom digital gauge cluster by AIM MXS Strada (1.3-inch OLED display) for real-time boost, oil temp, and ethanol content monitoring"
+  ]
+}

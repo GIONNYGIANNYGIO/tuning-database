@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "CIVIC TYPE R TCR",
+  "prestazioni": [
+    "Engine: K20C1 (2.0L VTEC Turbo) – Full TCR-spec internals upgrade with forged Mahle Motorsport pistons (8.5:1 CR), Carrillo H-beam connecting rods, and a billet crankshaft from Manley Performance to handle 500+ HP on E85 fuel. Stock turbo replaced with a Garrett GTX3582R Gen II with a 0.82 A/R turbine housing and 58mm compressor wheel for optimized spool and 35+ psi boost capability.",
+    "Drivetrain: TCR-spec 6-speed sequential transmission (Xtrac P1152) with a Sachs Performance twin-disc carbon clutch (240mm) and a Drexler Motorsport limited-slip differential (40% lockup under load). Custom driveshafts from The Driveshaft Shop (3.5-inch chromoly) to eliminate twist under extreme torque.",
+    "Suspension & Handling: Full Ohlins TTX40 4-way adjustable coilovers with TCR-spec spring rates (front: 500 lbs/in, rear: 350 lbs/in) and spherical bearing top mounts from Hardrace. Front subframe reinforced with a custom aluminum brace from MCS (Motorsport Composites Specialties) to reduce flex under high-G cornering. Brembo GT 6-piston calipers (380mm rotors) with Ferodo DS3000 pads for TCR-level braking performance."
+  ],
+  "estetica": [
+    "Aero: Full JAS Motorsport TCR aero kit (front splitter, rear diffuser, and adjustable rear wing with Gurney flap) in carbon fiber, paired with a custom 3D-printed underbody diffuser from APR Performance for optimized downforce (target: 1,200 lbs at 120 mph).",
+    "Body: Widebody conversion using Liberty Walk LB-CIVIC10 kit (carbon fiber fenders, side skirts, and rear bumper) with custom vented hood from Seibon Carbon for K20C1 intercooler cooling. Full PPF (XPEL Ultimate) and matte vinyl wrap (3M 1080 Matte Military Green) with TCR-spec livery decals (Honda Racing/HPD branding).",
+    "Interior: Full TCR-spec roll cage (FIA-approved, 8-point chromoly from Custom Cages) with Sparco Pro 2000 seats (HANS-compatible) and a MoTeC C127 dash logger. Steering wheel replaced with a MOMO Mod.78 TCR (quick-release, Alcantara grip) and custom carbon fiber door cards from Status Racing with integrated fire suppression system (Lifeline Zero 360)."
+  ]
+}

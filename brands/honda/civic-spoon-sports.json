@@ -1,0 +1,16 @@
+{
+  "brand": "HONDA",
+  "model": "CIVIC SPOON SPORTS",
+  "prestazioni": [
+    "Engine: D16A (Spoon Sports stroked to 1.7L with forged internals, 87mm crankshaft, 81mm forged pistons, and Spoon Sports billet connecting rods, achieving 13.5:1 compression ratio for high-octane tuning)",
+    "Forced Induction: Garrett GT2860RS turbocharger (Spoon-tuned with custom 0.63 A/R turbine housing, 550cc/min injectors, and HKS SSQV4 blow-off valve, targeting 280whp on 98 RON fuel with a 22psi boost ceiling)",
+    "Suspension: Spoon Sports N1 coilovers (fully adjustable damping, 30-way rebound/compression, and custom valving for JDM Type R-spec damping rates) paired with Spoon Sports front/rear sway bars (22mm front, 18mm rear) and Hardrace spherical bearing upper control arms for zero compliance",
+    "Drivetrain: Spoon Sports 1.5-way limited-slip differential (clutch-type, 45% lock under power) with a Spoon Sports lightweight flywheel (4.5kg) and ACT 6-puck clutch (Xtreme pressure plate, 600lb clamping force)",
+    "ECU & Fuel: Spoon Sports MUGEN MF10 ECU (standalone, fully tunable via Hondata K-Pro v4 with custom Spoon Sports base maps) paired with a Walbro 255lph fuel pump and Radium Engineering fuel pressure regulator (adjustable base pressure to 58psi for E85 compatibility)"
+  ],
+  "estetica": [
+    "Aero: Spoon Sports Carbon Kevlar front lip (JDM-spec, 3-piece construction with integrated canards), Spoon Sports rear diffuser (carbon fiber, 3D-molded for D16A undertray airflow), and Spoon Sports GT wing (3D carbon fiber, 1,200mm width, adjustable angle from 10° to 25°)",
+    "Body: Spoon Sports FRP widebody conversion kit (front fenders + rear quarter panels, 50mm wider than OEM, with integrated air vents for brake cooling) finished in Spoon Sports-exclusive 'Spoon Blue' (Mugen CB300P paint code) with matte black roof and mirror caps",
+    "Interior: Spoon Sports N1 bucket seats (carbon-Kevlar shell, 6-point Takata harnesses, and custom Spoon Sports embroidery) with a Spoon Sports N1 steering wheel (350mm diameter, suede-wrapped with integrated quick-release hub) and a full Spoon Sports gauge cluster (Defi Advance BF series: 3.5-inch oil temp, oil pressure, and boost gauges in carbon fiber pods)"
+  ]
+}

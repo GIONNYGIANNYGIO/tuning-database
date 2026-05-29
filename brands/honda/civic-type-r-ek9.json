@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "CIVIC TYPE R EK9",
+  "prestazioni": [
+    "Engine: B16B (1.6L DOHC VTEC) stroked to 1.8L via a Tomei 84mm forged crankshaft, paired with Eagle H-beam connecting rods and JE 81.5mm forged pistons (9.0:1 compression ratio) for a final displacement of 1,834cc. Ported and polished cylinder head by RS Machine with oversized Ferrea 5000 series valves (34mm intake, 29mm exhaust) and Supertech dual valve springs with titanium retainers. Tomei Type-R camshafts (272° duration, 11.5mm lift) and a Toda Racing adjustable cam gear set for precise timing.",
+    "Forced Induction: Garrett GT2860RS turbocharger (0.63 A/R turbine housing) with a custom 3-inch stainless steel downpipe by HKS, mated to a GReddy intercooler core (600x300x76mm) and custom aluminum piping. Fuel system upgraded with a Walbro 255 LPH in-tank pump, Nismo 550cc/min fuel injectors, and a Sard 1,000cc/min fuel pressure regulator. Boost controlled via an AEM EMS-4 standalone ECU with custom dyno-tuned maps targeting 1.2 bar (17.4 psi) of peak boost.",
+    "Drivetrain & Suspension: OS Giken Super Lock LSD (1.5-way) with 85% lockup under power, paired with a Toda Racing 5-speed close-ratio gearbox (2.105 1st, 1.375 2nd, 1.034 3rd, 0.812 4th, 0.654 5th) and a 4.785 final drive. Chassis reinforcement via a Buddy Club roll cage (8-point, bolt-in) and a Cusco strut tower bar. Suspension consists of Ohlins Road & Track DFV coilovers (22-way adjustable damping) with Eibach ERS 1000N/mm helper springs, paired with Cusco pillowball upper mounts and Whiteline adjustable rear sway bars (22mm front, 20mm rear)."
+  ],
+  "estetica": [
+    "Body Kit: Rocket Bunny V1 EK9 widebody kit (FRP construction) with extended front fenders (30mm wider), custom rear overfenders (50mm wider), and a carbon fiber front lip with integrated canards. Rear diffuser by Veilside Fortune 03 (carbon fiber) and a custom 3D-printed rear wing mount for a Seibon carbon fiber GT wing (1,200mm span, 300mm chord).",
+    "Aero & Lighting: Carbon Garage Kaze carbon fiber hood (5kg weight reduction) with a custom NACA duct for intercooler airflow. Front bumper modified with a custom radiator support for a Koyorad aluminum radiator (53mm core) and dual 12-inch SPAL fans. Lighting upgraded to Hella Micro DE fog lights (35W) and custom LED taillights by Jun Auto (clear lenses with sequential turn signals).",
+    "Interior & Wheels: Bride Zeta III bucket seats (FRP shell) with Takata 4-point harnesses, wrapped in custom Alcantara and red stitching. MOMO Mod.78 steering wheel (350mm diameter) with a NRG quick-release hub. Dash replaced with a Defi Advance BF gauge cluster (oil pressure, boost, wideband AFR) and a custom center console housing a Haltech CAN keypad. Wheels: Work Meister S1 3P (15x9 +15 front, 15x10 +20 rear) with Advan A052 tires (225/45/15 front, 245/40/15 rear)."
+  ]
+}

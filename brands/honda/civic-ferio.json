@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "CIVIC FERIO",
+  "prestazioni": [
+    "Engine: D15B VTEC (3-stage) with HKS GT-SS turbo kit (GT2835 ball-bearing turbo, 1.06 A/R turbine housing, 0.64 A/R compressor housing) and HKS 264°/256° camshafts for optimized mid-to-high RPM power delivery, paired with a Tomei 4-1 stainless steel exhaust manifold and custom 3-inch downpipe with GReddy Profec B Spec II boost controller (targeting 1.2 bar peak boost)",
+    "Suspension: Tein Flex Z coilovers (Honda Civic EK4/EK5-specific valving, 16-level adjustable damping, 30mm front/20mm rear drop) with Cusco front strut bar (22mm hollow aluminum) and SPC Performance rear camber arms (-2.5° adjustable camber) for aggressive cornering stability",
+    "Drivetrain: OS Giken Super Lock LSD (1.5-way, 25-spline) with a Fidanza 1.8kg aluminum flywheel and Exedy Hyper Twin clutch (stage 2, 6-puck ceramic), mated to a K-Tuned 5-speed short shifter (40% reduction) and N1-spec CTR transmission synchros for rapid gear engagement"
+  ],
+  "estetica": [
+    "Body: Rocket Bunny V1 widebody kit (EK4-specific, 30mm front/50mm rear fender flares) with custom carbon fiber front splitter (J's Racing Type R-style) and Voltex Type 3 rear wing (1,200mm span, 3D carbon weave)",
+    "Wheels: Work Meister S1 3P (16x8 +35 front, 16x9 +38 rear) with Yokohama Advan Neova AD08R tires (215/45/16 front, 235/40/16 rear) and Project Kics R40 6-pot lug nuts (M12x1.5, titanium)",
+    "Interior: Bride Zeta III bucket seats (EK-specific mounting brackets) with Takata 4-point harnesses, Mugen RS shift knob (D15B VTEC-specific thread pitch), and Defi BF Silver gauges (oil pressure, boost, wideband AFR) mounted in a custom carbon fiber A-pillar pod"
+  ]
+}

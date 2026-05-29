@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "CIVIC HYBRID RS",
+  "prestazioni": [
+    "Replace the stock LDA-MF6 (1.5L i-VTEC + IMA hybrid) engine's IMA (Integrated Motor Assist) system with a custom **Hybrid Racing HR-IMA Delete Kit**, retaining only the internal combustion side for forced induction. Pair with a **Garrett GT2860RS-5 turbocharger** (0.63 A/R turbine, 0.82 A/R compressor) on a **Full-Race Motorsports manifold**, supporting 22 psi of boost with a **Tial MV-R 44mm wastegate** and **TurboSmart Race Port blow-off valve**.",
+    "Swap the stock **Honda PCM (37820-RWN-A02)** for a **K-Tuned K-Pro V4 ECU** (hybrid-compatible firmware) with a custom **Hybrid Racing IMA Bypass Harness**, enabling full standalone tuning. Target a **280 hp / 220 lb-ft** map with **E85 flex-fuel support** via a **Continental 23856 ethanol sensor** and **ID1000x injectors** (side-feed, 1000cc/min).",
+    "Install a **Hybrid Racing HR-Swap K-Series Transmission Adapter** to mate the LDA-MF6 to a **Honda K24A2 transmission** (from an RSX Type-S) with a **PPG short-throw shifter**, **Quaife ATB differential**, and **South Bend Clutch Stage 3 daily disc** (2400 lb clamp load). Add a **PRL Motorsports 4-1 header** and **DC Sports 2.5\" cat-back exhaust** with **Burns Merge Collectors** for scavenging."
+  ],
+  "estetica": [
+    "**Liberty Walk LB-WORKS Civic FK8 widebody kit** (modified for hybrid-specific rear bumper cutouts), paired with **Rocket Bunny V3 overfenders** (carbon fiber, 30mm extended) and **Volk Racing TE37SL wheels** (18x9.5 +35 front, 18x10.5 +40 rear) wrapped in **Michelin Pilot Sport Cup 2 R tires** (245/35/18 front, 275/30/18 rear).",
+    "**Seibon Carbon FK8 roof** (OEM-spec weave) with **AIM Carbon fiber mirror caps** and **Hybrid Racing HR-FK8 front lip** (polyurethane, 3-piece). Paint in **Honda Championship White (NH-0)** with **3M Matte Black Vinyl** (hood, roof, pillars) and **JDM-spec RS badges** (red/black, debossed).",
+    "**OEM+ hybrid-specific aero**: **Spoon Sports Civic FK8 rear diffuser** (carbon, 3-piece) with **Hybrid Racing IMA Delete Panel** (aluminum, powder-coated satin black) replacing the stock battery cover. **Mugen MF10 exhaust tip** (dual 90mm, titanium) and **S2000-style LED taillights** (with **Diode Dynamics COB reverse lights**)."
+  ]
+}

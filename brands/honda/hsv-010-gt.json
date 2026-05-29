@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "HSV-010 GT",
+  "prestazioni": [
+    "Engine: HR10EG (3.4L V8, naturally aspirated, 500hp+ in GT500 spec) – Replace OEM titanium valves with **Ferrea F6000P** series intake/exhaust valves (5.5mm stem, 37.5g weight reduction) and pair with **Supertech SPR-HR10** dual valve springs (120 lbs seat pressure, 450 lbs open pressure) for 10,000 RPM stability. Port and polish cylinder heads using **Tomei Powered EX** HR10EG-specific porting templates (12% flow increase at 0.500\" lift).",
+    "Forced Induction (Track/Time Attack Build): **Garrett GTX4202R** turbocharger (88mm compressor, 0.96 A/R turbine housing) with **Turbosmart Race Port 50mm** wastegate and **Hondata KPro V4** ECU (HR10EG-specific firmware) tuned for 1.5 bar boost, targeting 750whp on **E85** with **Injector Dynamics ID1700x** injectors (1,700cc/min) and **Radium Engineering** dual fuel pumps (450 LPH each).",
+    "Drivetrain: **OS Giken STR4C** 4-plate carbon clutch (1,200 Nm torque capacity) with **AP Racing CP8376-1000** twin-plate flywheel (4.5kg weight reduction). **Hewland 6-speed sequential gearbox (HGT-200)** with **Quaife ATB differential** (85% lock) and **PPG** 23-tooth input shaft for optimized gear ratios (1st: 2.97, 2nd: 2.15, 3rd: 1.68, 4th: 1.39, 5th: 1.18, 6th: 1.00). **Samco Sport** 4-ply silicone coolant hoses (HR10EG-specific -4AN fittings) and **Setrab 19-row oil cooler** (1000hp-rated)."
+  ],
+  "estetica": [
+    "Aerodynamics: **Vertex Lang** GT500-spec carbon fiber front splitter (35mm overhang, 3D-printed ABS endplates) with **Voltex Type-3** GT rear wing (1,800mm span, 300mm chord, 15° adjustable Gurney flap). **Seibon Carbon** GT-spec hood (3.5kg weight savings, integrated NACA ducts for HR10EG oil cooler). **C-West** GT300-style side skirts (polyurethane, 50mm lower than OEM) with **Aero Catch** quick-release hood pins (stainless steel, 6-point mounting).",
+    "Body Reinforcement: **Cusco** bolt-in roll cage (8-point, chromoly steel, 45mm diameter main hoop) with **Sparco Pro2000** carbon fiber door cards (integrated side-impact beams). **Rays Gram Lights 57DR** 18x12\" wheels (+38mm offset) wrapped in **Yokohama Advan A052** 305/645R18 tires (280 treadwear, semi-slick compound). **Project Mu** 8-piston front/4-piston rear brake calipers (2-piece rotors, 380mm front/355mm rear) with **Ferodo DS2500** pads (track-only compound).",
+    "Interior: **Recaro SPG XL** GT-spec seats (carbon-Kevlar shell, 12-way adjustability) with **Schroth Profi II-6** 6-point harnesses (FIA 8853/98 homologated). **Momo Mod.77** suede steering wheel (350mm diameter, 20mm offset) with **NRG Innovations** quick-release hub. **Aim Solo 2 DL** data logger (GPS + OBD-II integration) mounted on **Sparco** carbon fiber dash panel (HR10EG-specific gauge pod for oil pressure/temp, fuel pressure, and AFR)."
+  ]
+}

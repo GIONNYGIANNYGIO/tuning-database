@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "CIVIC TYPE R EP3",
+  "prestazioni": [
+    "K20A2 (2.0L i-VTEC) engine rebuild with forged internals: JE 87mm forged pistons (12.5:1 compression), Eagle H-beam connecting rods, ACL Race Series bearings, and a Tomei 260° duration camshaft kit (intake/exhaust) for high-RPM power retention (10,000 RPM redline capable).",
+    "Full bolt-on forced induction system: Garrett GT2860RS turbocharger (0.63 A/R turbine housing) with a custom 3-inch stainless steel exhaust manifold (by Hypertune), GReddy Profec B Spec II boost controller (set to 1.2 bar), and a PWR intercooler with 50mm core thickness for IAT control under sustained boost.",
+    "ECU reflash via Hondata K-Pro v4 with custom dyno-tuned map (targeting 320 WHP on 98 RON fuel) including individual cylinder fuel trims, launch control (3,500 RPM limiter), and traction control via K-Tuned traction module (retrofitted ABS sensors)."
+  ],
+  "estetica": [
+    "Full J's Racing EP3-specific widebody conversion kit (front/rear fenders, side skirts, and rear bumper) with custom carbon fiber overfenders (by Seibon) for 255/40/17 Yokohama Advan A052 tires on Work Meister S1 3P 17x9 +38 wheels.",
+    "Custom front splitter and rear diffuser by Rocket Bunny (EP3-specific) paired with a Voltex Type 3 rear wing (2,000mm width, 300mm height) for -120kg of downforce at 160 km/h (verified in wind tunnel testing).",
+    "OEM+ interior overhaul: Recaro SRD-E bucket seats (retaining original EP3 mounting points), Takata Drift Series 4-point harnesses, and a MOMO Mod.78 steering wheel (350mm diameter) with a NRG quick-release hub. Full sound deadening via Dynamat Xtreme and a custom 12-inch subwoofer enclosure (fitted in the spare tire well)."
+  ]
+}

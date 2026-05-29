@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "ELYSION",
+  "prestazioni": [
+    "Engine swap to J37A4 (3.7L V6 from Acura RL) with forged internals: CP-Carrillo pistons (11.5:1 CR), Manley H-beam connecting rods, and ACL Race Series bearings for 500+ hp reliability on E85. Paired with a custom 3.5-inch stainless steel exhaust system by HKS Hi-Power SPEC-L with 200-cell catalytic converters for JDM compliance.",
+    "Garrett GTX3582R turbocharger (82mm compressor, 1.06 A/R turbine housing) with a custom top-mount intercooler by GReddy Type-RS (400x200x120mm core) and a Tomei M82 titanium wastegate for precise boost control (22 psi peak). Fuel system upgraded with Injector Dynamics ID1050x injectors, Walbro 450 LPH in-tank pump, and a Radium Engineering dual catch can setup for crankcase ventilation.",
+    "Custom ECU reflash via Hondata KPro V4 for the J37A4, optimized for forced induction with individual cylinder trims, launch control (3,500 RPM hard cut), and traction control via a KW Automotive V3 coilover conversion (8kg/mm front, 10kg/mm rear springs) with Ohlins Road & Track dampers for chassis stability. Drivetrain reinforced with a OS Giken Super Lock LSD (2.5-way) and a custom driveshaft by Driveshaft Shop (3.5-inch aluminum, rated for 800 Nm torque)."
+  ],
+  "estetica": [
+    "Full Rocket Bunny V1 widebody kit (Elysion-specific, 50mm front/60mm rear fender flares) with custom carbon fiber overfenders by Seibon, paired with a Veilside Fortune 03 front bumper (modified for JDM fog light compatibility) and a custom rear diffuser by AutoExe for improved airflow management.",
+    "Custom 22-inch Work Emotion CR Kiwami wheels (9.5J ET+20 front, 11J ET+15 rear) with Toyo R888R tires (265/30/22 front, 295/25/22 rear) and a custom air suspension setup by Air Lift Performance (3P management, dual compressors) for adjustable ride height and camber (via SPC adjustable front upper control arms).",
+    "Full interior overhaul with Bride Zeta III seats (carbon fiber shell, Alcantara inserts) mounted on custom floor mounts by NRG Innovations, paired with a MOMO Mod.78 steering wheel (350mm, suede) and a custom roll cage by Cusco (8-point, bolt-in, chromoly steel) for structural rigidity. Exterior accents include a custom livery by Fuchsfarbe (matte gunmetal with neon green pinstripes) and a custom LED taillight conversion by VLED (sequential turn signals, smoked lenses)."
+  ]
+}

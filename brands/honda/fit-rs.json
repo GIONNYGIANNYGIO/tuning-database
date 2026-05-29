@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "FIT RS",
+  "prestazioni": [
+    "Engine swap to L15B7 (1.5L turbocharged DOHC i-VTEC) with a custom billet crankshaft from Tomei and forged pistons from JE (8.5:1 compression for E85 compatibility), paired with a Garrett GT2860RS turbocharger (0.63 A/R turbine housing) and a custom 3.5-inch stainless steel downpipe from HKS with a 200-cell catalytic converter for emissions compliance in JDM markets.",
+    "Full bolt-on forced induction kit from Spoon Sports, including a bespoke intercooler core (600x300x76mm) with custom aluminum end tanks, a 60mm throttle body from Skunk2, and a high-flow fuel system with a Walbro 450 LPH pump, ID1000 injectors, and a Radium Engineering fuel pressure regulator (set to 58 psi base pressure).",
+    "Custom ECU reflash via Hondata KPro V4 with a bespoke tune by Rywire, targeting 280 whp at 7,200 RPM on E85 fuel, with a 2-step launch control (5,500 RPM) and flat-foot shifting (7,800 RPM limiter). Suspension overhaul with Ohlins Road & Track DFV coilovers (8kg/mm front, 6kg/mm rear springs) and a full poly bushings kit from Energy Suspension (0.5-inch subframe bushings for reduced deflection)."
+  ],
+  "estetica": [
+    "Full Rocket Bunny Version 3 widebody kit (FRP construction) with custom carbon fiber overfenders (25mm wider front, 35mm wider rear) and a custom front splitter with integrated canards from Seibon Carbon. Rear diffuser from Varis Japan with dual 3.5-inch exhaust outlets (stainless steel, titanium tips from TiAL).",
+    "Custom 17x8.5 ET+35 (front) and 17x9.5 ET+30 (rear) forged wheels from Work Emotion CR Kiwami (10-spoke, 5x114.3 PCD) wrapped in Yokohama Advan A052 tires (215/40/17 front, 245/35/17 rear). Brake upgrade with DBA 5000 Series rotors (330mm front, 300mm rear) and 4-piston calipers from Wilwood (Dynalite series).",
+    "Full interior overhaul with Recaro Pole Position seats (fixed-back, carbon fiber shells) and a custom roll cage from Buddy Club (8-point, chromoly steel, bolt-in design). Steering wheel replaced with a Momo Prototipo (350mm, suede) and a custom gauge cluster from Defi (3.5-inch Advance BF gauges for boost, oil pressure, and EGT)."
+  ]
+}

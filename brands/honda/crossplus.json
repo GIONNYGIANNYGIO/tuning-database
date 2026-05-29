@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "CROSSPLUS",
+  "prestazioni": [
+    "Engine swap to a **Honda L15B7T** (1.5L VTEC Turbo, direct-injection) from the Civic Type R (FK8), retaining the stock turbo but upgrading to a **Garrett GTX2867R Gen II** with a custom 0.63 A/R turbine housing for optimized spool and top-end power, paired with a **PRL Motorsports Stage 3 intake manifold** and **Injector Dynamics ID1050x** fuel injectors for E85 compatibility",
+    "Full **Hondata KPro4** standalone ECU with a custom **L15B7T-specific calibration** (22 psi peak boost, 30° total timing advance, and 12.5:1 AFR on E85), paired with a **Radium Engineering dual-catch can system** and **Mishimoto aluminum core radiator** to handle the increased thermal load",
+    "Suspension overhaul with **Ohlins Road & Track DFV coilovers** (custom valving for the Crossplus' 1,250kg curb weight), **SuperPro poly bushings** (front control arms, subframe, and rear trailing arms), and **D2 Racing adjustable rear camber arms** to correct the factory 1.5° negative camber for aggressive track alignment (-3.5° front, -2.8° rear)"
+  ],
+  "estetica": [
+    "**Liberty Walk LB Works Crossplus-specific widebody kit** (front fenders extended by 30mm, rear by 40mm) with **custom carbon fiber overfenders** (hand-laid by **Seibon Carbon**) to clear the **Work Emotion CR Kiwami 18x9.5 +30** wheels (staggered setup: 245/40 front, 275/35 rear) wrapped in **Michelin Pilot Sport Cup 2 R** tires",
+    "**Varis Japan front lip spoiler** (carbon fiber, bolt-on for the Crossplus bumper) and **custom 3D-printed rear diffuser** (modeled after the **Honda Civic Type R FK8** but scaled for the Crossplus' shorter wheelbase), paired with a **custom titanium exhaust system** (dual 3.5\" outlets, **Burns Stainless 304-grade tubing**, and **GReddy RS mufflers**)",
+    "**Recaro SP-G TS II** seats (custom retrimmed in **Alcantara with red stitching** to match the **Honda Racing Red** paint code, NH-830M) with **Sparco 6-point harnesses**, **NRG Innovations quick-release steering wheel hub**, and a **custom roll cage** (TIG-welded **DOM 4130 chromoly** by **The Phoenix Performance**) with integrated **Momo Prototipo** steering wheel"
+  ]
+}

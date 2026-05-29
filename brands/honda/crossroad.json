@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "CROSSROAD",
+  "prestazioni": [
+    "Engine swap to a **Honda C32B V6 (Type R, 3.2L, 280hp)** from the NSX, retaining the original **R20A1 (2.0L i-VTEC)** block for structural compatibility but utilizing a **K-Tuned C32B conversion kit** with custom billet mounts and a **Garrett GT3076R turbocharger** (0.86 A/R, 62mm inducer) for a target of 450whp on E85. Includes a **Toda Racing stroker crank (87mm)** and **JE 12.5:1 forged pistons** for high-compression boosted operation.",
+    "Full **Hondata KPro V4 standalone ECU** with a **custom 32x32 fuel/timing map** optimized for the C32B’s dual-VTEC system, paired with a **PRL Motorsports C32B-specific intake manifold** and **ID1000x injectors**. Exhaust system features a **HyTech Exhaust 3.5\" titanium cat-back** with **GReddy Revolution RS 4.5\" front pipe** and **custom 304 stainless headers** (1.75\" primaries, 3\" collectors) for optimal scavenging.",
+    "Suspension overhaul with **Ohlins Road & Track DFV coilovers (Honda-specific valving)** and **SuperPro poly bushings (full kit, 75D durometer)**. Braking system upgraded to **Brembo GT 6-piston calipers (355mm rotors)** with **Ferodo DS2500 pads** and **Goodridge G-Stop braided lines**. Drivetrain reinforced with a **PPG 6-speed LSD (4.10 final drive)** and **Quaife ATB differential** for the C32B’s torque."
+  ],
+  "estetica": [
+    "**Liberty Walk LB Works Crossroad-specific widebody kit** (front/rear fenders, side skirts, and rear diffuser) with **custom carbon fiber overfenders** (25mm flares per side) to accommodate **Work Meister S1 3P 18x10.5 +30 wheels** wrapped in **Michelin Pilot Sport Cup 2 R (275/35/18)** tires. Front bumper replaced with a **Seibon Carbon fiber JDM-spec Honda Verno bumper** (93-95 Prelude base) for aggressive aero.",
+    "**Custom livery by AutoArt Japan** featuring a **BBS-style mesh grille overlay** (painted matte gunmetal) and **Rally Armor UR mud flaps** with **Honda Racing F1-inspired decals** (1990s McLaren-Honda era). Roof wrapped in **3M Gloss Black** with **carbon fiber mirror caps (Seibon)** and **LED DRLs (Philips Ultinon Pro9000)** integrated into the headlight housings.",
+    "**Interior stripped and rebuilt with a full Bride Japan setup**: **Bride Euro II recliners (red Alcantara)** with **Sabelt 6-point harnesses**, **MOMO Prototipo steering wheel (350mm, suede)**, and **custom roll cage (Chassisworks 8-point bolt-in)** painted **Honda Championship White (NH-576P)**. Dashboard modified with a **Defi Advance BF gauges (oil temp, boost, AFR)** and **Sparco Evo QRT seats (carbon fiber backs)** for weight reduction."
+  ]
+}

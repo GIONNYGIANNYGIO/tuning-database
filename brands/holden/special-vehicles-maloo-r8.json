@@ -1,0 +1,14 @@
+{
+  "brand": "HOLDEN",
+  "model": "SPECIAL VEHICLES MALOO R8",
+  "prestazioni": [
+    "LS3 6.2L V8 (L98 variant, HSV-specific casting) forced-induction conversion using a Harrop HTV2300 supercharger kit (12 psi base boost, 750+ hp at the wheels) with a custom billet serpentine pulley system and an integrated air-to-water intercooler (Vortech MP47) mounted in the factory airbox location",
+    "Full drivetrain reinforcement: Harrop heavy-duty 9.5-inch differential with 3.91:1 gearing, upgraded axles (Mark Williams 35-spline), and a Tilton twin-disc clutch (7.25-inch, 800 ft-lb capacity) paired with an aluminum flywheel (HSV-spec, 12.5 lb)",
+    "Engine management overhaul: Motec M150 ECU with HSV-specific CAN bus integration, dual Bosch 0280158862 1,000cc injectors, and a custom fuel system featuring an Aeromotive A1000 pump, -8AN hardlines, and a Radium Engineering fuel pressure regulator (bypass-style, 1:1 ratio)"
+  ],
+  "estetica": [
+    "HSV Maloo R8-specific widebody conversion using a Liberty Walk LB-WORKS kit (modified for LS3 engine bay clearance) with carbon fiber fender flares, custom front splitter (3D-printed ABS, 3-inch overhang), and a functional rear diffuser (Seibon carbon, 50mm ground clearance)",
+    "OEM+ interior overhaul: Recaro Pole Position seats (HSV-trimmed in Alcantara with red stitching), custom roll cage (Chromoly 4130, bolt-in, TIG-welded by Sparco Australia) with integrated harness bar, and a digital dash (Aim MXS 1.2) replacing the factory cluster",
+    "Exterior lighting and aero: Osram Night Breaker Laser HID bulbs (6,000K) in factory housings, custom carbon fiber hood (Seibon, heat-extracting vents over the supercharger), and a rear wing (Rocket Bunny GT-Wing, 1,800mm span, 3D-printed aluminum mounts)"
+  ]
+}

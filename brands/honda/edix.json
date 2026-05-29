@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "EDIX",
+  "prestazioni": [
+    "Engine swap to a **K24A3** (2.4L DOHC i-VTEC, 200 PS) with a **Hondata KPro4** standalone ECU, retaining the original **EDM-specific wiring harness** for seamless integration. Pair with a **Toda Racing Stage 2 camshaft kit** (272° duration, 11.5mm lift) and **Skunk2 Pro Series intake manifold** for optimized airflow.",
+    "Forced induction via a **Garrett GT2860RS-5** turbocharger (0.64 A/R turbine housing) on a **Full-Race Motorsports K24 turbo manifold**, mated to a **GReddy Type-S intercooler** (EDIX-specific core dimensions: 600x300x76mm). Supporting mods include a **Tial MV-R 44mm wastegate** and **Injector Dynamics ID1000** fuel injectors.",
+    "Suspension overhaul with **Tein Flex Z coilovers** (EDIX-specific valving, 10kg/mm front/8kg/mm rear springs) and **Cusco 22mm front/18mm rear sway bars**. Chassis reinforcement via **Spoon Sports 4-point strut tower bar** and **Ultra Racing rear lower arm bar** to eliminate flex under hard cornering."
+  ],
+  "estetica": [
+    "**Rocket Bunny V1 EDIX-specific widebody kit** (front fenders extended by 50mm, rear by 60mm) with **Volk Racing TE37SL 17x9 +35** wheels (ET35 offset, 225/45/17 tires) and **Work Meister S1 3P 17x10 +40** rears (255/40/17).",
+    "**Seibon Carbon Fiber hood** (EDIX-specific latch mechanism, 3.5kg weight reduction) paired with a **J's Racing rear diffuser** (polyurethane, 3-piece design for EDIX bumper compatibility).",
+    "**Recaro SRD-E** (JDM-spec, EDIX-compatible mounting brackets) with **Takata Drift II 4-point harnesses** and a **Spoon Sports MOMO steering wheel** (350mm diameter, 12mm thick suede grip)."
+  ]
+}

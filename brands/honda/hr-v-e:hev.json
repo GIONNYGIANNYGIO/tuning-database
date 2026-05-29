@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "HR-V e:HEV",
+  "prestazioni": [
+    "Hybrid-specific ECU reflash for the LFA1 1.5L DOHC i-VTEC e:HEV powertrain (engine code L15B7T + electric motor MG1/MG2), targeting a 15% increase in combined system output (from 130 PS to ~150 PS) via optimized torque fill mapping and regenerative braking recalibration using Hondata FlashPro HEV-specific firmware (v3.2.1 or later).",
+    "Garrett GT1549S turbocharger upgrade (ball-bearing, 49mm compressor wheel) with custom 3D-printed inconel turbine housing (designed for LFA1 exhaust manifold flow characteristics) and TiAL MV-R 44mm wastegate to handle 1.2 bar of boost, paired with a PRL Motorsports intercooler core (2.5\" thick, 12-row) and Vibrant 1799 silicone couplers.",
+    "Full hybrid drivetrain reinforcement: K-Tuned LFA1-specific billet aluminum motor mounts (70A durometer), Driveshaft Shop 2.75\" carbon fiber driveshaft (balanced for MG2 torque spikes), and a Cusco Type-RS limited-slip differential (2.5-way, 45% lock) with custom CV axles (Neuspeed RSe12) to handle the increased torque vectoring demands."
+  ],
+  "estetica": [
+    "Liberty Walk LB-WORKS HR-V e:HEV widebody kit (front fenders + rear quarter panels, 50mm wider than OEM) with custom carbon fiber overfenders (pre-preg autoclave, 2x2 twill weave) and JDM-spec Honda Racing Division (HRD) side skirts (part #08F20-TK8-000ZF) for OEM+ aero integration.",
+    "Seibon Carbon HR-V e:HEV Type-R inspired hood (1.5mm thick, with integrated NACA ducts for intercooler airflow) and custom 3M 1080 Gloss Black wrap with red pinstriping (applied to roof, mirrors, and rear diffuser) using Avery Dennison SW900 Supreme Wrapping Film for heat resistance (up to 120°C).",
+    "Work Emotion CR Kiwami 2 18x9.5\" +35mm offset wheels (ET35) with custom bronze powdercoating (AkzoNobel Interpon D2525), wrapped in Michelin Pilot Sport Cup 2 R tires (245/40/18) and paired with DBA 5000 Series T3 two-piece rotors (350mm front, 330mm rear) with Ferodo DS2500 pads for hybrid-specific braking demands."
+  ]
+}
