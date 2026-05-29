@@ -1,0 +1,14 @@
+{
+  "brand": "HOLDEN",
+  "model": "COMMODORE VE SS V8",
+  "prestazioni": [
+    "Engine: Replace the stock LS3 (6.0L, 361ci) with a stroked LS7-based 427ci (7.0L) block using a Callies Compstar crankshaft (4.125\" stroke), Mahle Motorsport forged pistons (12.5:1 compression), and Manley H-beam connecting rods. Pair with a custom camshaft from COMP Cams (243/249 duration, .624/.624 lift, 114 LSA) and ported LS7 cylinder heads by Texas Speed & Performance for 380+ cfm flow.",
+    "Forced Induction: Install a Harrop HTV2300 supercharger kit with a 2.9L Eaton TVS rotor pack, custom intercooler core (Setrab 42-row), and a Bosch 044 fuel pump with dual Aeromotive A1000 regulators. Tune via HP Tuners VCM Suite with a custom OS flash for E85 compatibility and 12.5:1 AFR targets under boost (10-12 psi).",
+    "Drivetrain & Handling: Swap the stock Tremec TR6060 for a Holinger RD6 sequential gearbox with a Tilton twin-plate ceramic clutch. Replace the IRS with a Harrop IRS 9-inch diff (3.73:1 ratio) and pair with a Pedders XA Extreme IRS kit (polyurethane bushings, adjustable camber plates). Suspension: Ohlins Road & Track DFV coilovers (2-way adjustable) with Eibach sway bars (24mm front, 22mm rear) and Whiteline adjustable endlinks."
+  ],
+  "estetica": [
+    "Aero: Fit a Rocket Bunny VE Commodore widebody kit (carbon fiber fenders, front splitter, and ducktail spoiler) with a custom 3D-printed diffuser by VCM Performance. Add a custom front canard set from Seibon Carbon for downforce at speed.",
+    "Wheels & Stance: Mount a set of Work Meister S1 3P wheels (19x10 +15 front, 19x11 +25 rear) with Michelin Pilot Sport Cup 2 tires (275/35/19 front, 305/30/19 rear). Lower via Ohlins DFV coilovers (-35mm front, -30mm rear) with custom subframe spacers for aggressive fitment.",
+    "Exterior & Lighting: Full respray in Holden ‘Phantom Black’ with a custom matte clear coat by PPG. Replace headlights with Lamin-X smoked covers and retrofit Hella 500FF projectors with Osram 6000K bulbs. Add a custom LED taillight setup by Diode Dynamics with sequential turn signals."
+  ]
+}

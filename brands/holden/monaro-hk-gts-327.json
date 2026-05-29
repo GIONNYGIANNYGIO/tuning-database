@@ -1,0 +1,14 @@
+{
+  "brand": "HOLDEN",
+  "model": "MONARO HK GTS 327",
+  "prestazioni": [
+    "Engine: Replace the original 5.4L (327ci) Chevrolet L77 V8 (engine code: L77) with a fully forged internals build using a Scat Enterprises 4340 forged crankshaft (3.75\" stroke), Eagle Specialty Products H-beam connecting rods (6.125\" length), and JE Pistons forged slugs (12.5:1 compression ratio, 4.030\" bore). Pair with a custom-grind Comp Cams hydraulic roller camshaft (242°/248° duration @ 0.050\", 0.600\"/0.610\" lift) and port-matched Edelbrock Performer RPM cylinder heads (2.02\"/1.60\" valves, 200cc intake runners).",
+    "Induction: Replace the factory Rochester Quadrajet carburetor with a Holley Sniper EFI 2x4 throttle-body system (92mm bore, 1,200 CFM) on a custom-fabricated aluminum intake manifold (modeled after the Edelbrock Victor Jr. but optimized for the L77’s deck height). Add a K&N Cold Air Intake (short-ram design, 3.5\" diameter) with a custom heat shield to isolate from the exhaust manifolds.",
+    "Exhaust: Fabricate a 3\" diameter stainless steel exhaust system using MagnaFlow 14815 mufflers (straight-through design) and custom 4-into-1 headers (1.75\" primary tubes, 3.5\" collectors) with ceramic coating from Jet-Hot. Retain the original HK Monaro’s dual-exit rear valance but modify the tips to 4.5\" rolled-edge outlets for aggressive tone."
+  ],
+  "estetica": [
+    "Body: Install a custom widebody conversion kit from Rare Spares (HK Monaro-specific, bolt-on fender flares with 2.5\" additional width per side) paired with a carbon fiber front splitter from Seibon (HK-specific, 3-piece design with adjustable dive planes). Add a custom rear diffuser (fabricated from 3mm aluminum, integrated with the Rare Spares rear bumper) and a functional hood scoop (Rocket Bunny-style, 4\" rise, carbon fiber).",
+    "Wheels: Fit 18x9.5\" front and 18x11\" rear ET45 offset wheels from Rotiform (LAS-R model, 5x4.75\" bolt pattern) wrapped in Nitto NT05 tires (255/40/18 front, 295/35/18 rear). Use custom hub-centric spacers (15mm front, 25mm rear) to achieve flush fitment without fender rolling.",
+    "Interior: Replace the factory bench seats with Recaro SRD-E bucket seats (HK Monaro-specific mounting brackets, retaining original seatbelt anchor points) and a custom roll cage from Autopower (8-point, mild steel, bolt-in design with gusseted main hoop). Add a Momo Prototipo steering wheel (14\" diameter, quick-release hub) and a custom gauge pod (fabricated from aluminum, housing a Defi Advance BF series boost/fuel pressure gauge and a Stack ST8000 tachometer)."
+  ]
+}

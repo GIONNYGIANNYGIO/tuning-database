@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "CR-V HYBRID RACER",
+  "prestazioni": [
+    "LK3 2.0L DOHC i-VTEC Hybrid Engine: Full hybrid powertrain overhaul with a custom Motec M150 ECU managing direct injection, port injection (via secondary 12-hole injectors from Injector Dynamics ID1700x), and electric motor torque vectoring. The L15B7 Atkinson-cycle block is sleeved with Darton MID sleeves for 12.5:1 compression, paired with a Garrett GTX3582R turbo (86mm compressor, 67mm turbine) running 2.2 bar of boost on E85 fuel with a custom intercooler from PWR (part #PWI4600).",
+    "Dual-motor hybrid system: Replacement of the stock IPU with a bespoke 400V lithium-ion battery pack from A123 Systems (model AMP20M1HD-A), mated to two BorgWarner HVH250-115 electric motors (one per front axle half-shaft) for 220 kW peak output. The rear axle retains the stock motor but is upgraded with a Quaife ATB differential (part #QDF7J) for torque distribution.",
+    "Chassis and drivetrain: Full seam-welded unibody with a custom roll cage from Custom Cages (part #CRV-HYB-RACE) integrating a 6-point harness bar. Suspension is converted to a pushrod-actuated system with Ohlins TTX40 coilovers (2-way adjustable, 250mm travel) and spherical bearing control arms from SuperPro (part #SPF6011K). Braking is handled by AP Racing CP8650 calipers (6-piston front, 4-piston rear) with 380mm two-piece rotors from DBA (part #5000XS) and Ferodo DS2500 pads."
+  ],
+  "estetica": [
+    "Full carbon fiber widebody conversion using the Rocket Bunny CR-V kit (part #RB-CRV-HYB) with custom extended fenders to accommodate 295/30R20 Michelin Pilot Sport Cup 2 tires on Volk Racing TE37V wheels (20x10.5 +15 front, 20x12 +25 rear). The front splitter is a custom 3D-printed carbon piece with integrated air curtains, while the rear wing is a 3-element GT3-style unit from APR Performance (part #GTC-3000).",
+    "Hybrid-specific aero: Active grille shutters replaced with a fixed carbon fiber mesh from Seibon (part #HON-CRV-HYB-GRILLE) for improved airflow to the custom PWR radiator (part #PWR3200) and dual oil coolers (Setrab 625 series). The underbody features a full flat floor with a custom diffuser from APR (part #UD-CRV-HYB) and vortex generators for rear downforce.",
+    "Interior: Full stripped interior with a Sparco Pro2000 seat (part #01938NR) mounted on a custom floor-mounted slider from Schroth (part #62020.1). The dashboard is replaced with a digital display from AIM MXS Strada (part #1.20.01) and a custom carbon fiber steering wheel from MOMO (part #HON-CRV-HYB-WHEEL) with integrated paddle shifters for the 6-speed sequential gearbox (Holinger RD6, part #HOL-RD6-001)."
+  ]
+}

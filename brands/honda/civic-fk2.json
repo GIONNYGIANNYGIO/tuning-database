@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "CIVIC FK2",
+  "prestazioni": [
+    "Engine: K24Z7 (2.4L i-VTEC) upgraded with a Garrett GT3076R turbocharger (0.82 A/R, 62mm compressor inducer) on a custom 3.5-inch stainless steel turbo manifold (Hybrid Racing) with a Tial MV-R 44mm external wastegate and 3-inch downpipe (Full Race Motorsports) for optimized spool and top-end flow.",
+    "Fuel System: Injector Dynamics ID1050x fuel injectors paired with a Walbro 450LPH in-tank fuel pump, controlled via a Hondata KPro V4 ECU with custom ethanol (E85) mapping, including a Continental flex-fuel sensor and AEM X-Series wideband O2 controller for real-time AFR monitoring.",
+    "Suspension & Handling: Ohlins Road & Track DFV coilovers (FK2-specific valving) with 8kg/mm front and 10kg/mm rear springs, paired with SuperPro poly bushings (full kit) and a Whiteline 27mm rear sway bar. Braking upgraded to DBA 5000 Series rotors (326mm front, 282mm rear) with Ferodo DS2500 pads and Goodridge 6AN stainless steel brake lines."
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny V3 widebody kit (FK2-specific) with carbon fiber front canards, rear diffuser, and a custom 3D-printed ABS rear wing (1,200mm chord, 200mm height) mounted on Cusco wing risers for adjustable angle of attack.",
+    "Exterior: Full respray in Honda Championship White (NH-578M) with a matte clear coat (Spies Hecker Permasolid), paired with Work Emotion CR Kiwami wheels (18x9.5 +35 front, 18x10.5 +40 rear) wrapped in Michelin Pilot Sport Cup 2 tires (245/35/18 front, 275/35/18 rear).",
+    "Interior: Bride Zeta III bucket seats (FK2-specific mounts) with Takata 4-point harnesses, Mugen RS shift knob, and a custom carbon fiber dashboard overlay (Seibon) with a Motec C125 digital dash replacing the stock cluster."
+  ]
+}

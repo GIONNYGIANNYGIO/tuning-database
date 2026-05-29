@@ -1,0 +1,14 @@
+{
+  "brand": "HOLDEN",
+  "model": "MONARO HQ GTS 350",
+  "prestazioni": [
+    "Engine: Replace the stock 350ci (5.7L) Chevrolet L74 V8 (engine code: L74) with a fully forged 408ci stroker kit from Crow Cams, featuring a 4.030\" bore Dart SHP iron block, Eagle 4340 forged crankshaft (3.75\" stroke), Eagle H-beam connecting rods, and JE forged pistons (10.5:1 compression). Pair with a Crow Cams hydraulic roller camshaft (236°/242° duration @ 0.050\", 0.600\" lift) and Harland Sharp 1.6:1 roller rockers for optimized airflow.",
+    "Induction: Replace the stock Rochester Quadrajet carburetor with a Holley Sniper EFI 2x4 throttle-body injection system (1,250 CFM) on a Holley Hi-Ram intake manifold, tuned via a Holley Terminator X Max ECU with custom dyno-tuned maps for 550+ RWHP on pump gas. Add a K&N Cold Air Intake (HQ-specific part # 57-3030) with a custom heat shield to prevent IAT spikes.",
+    "Exhaust: Install a custom 3\" stainless steel exhaust system by Manta Performance, featuring 4-into-1 headers (1.75\" primary tubes, 3.5\" collectors) with ceramic coating, paired with a MagnaFlow 14815 3\" straight-through muffler and X-pipe crossover for aggressive tone and optimal scavenging. Weld-in a Racepak SmartWire system to monitor EGTs and backpressure."
+  ],
+  "estetica": [
+    "Body: Apply a full custom widebody conversion using HQ-specific fiberglass panels from Rare Spares (part # RS-HQ-WB), extending the rear fenders by 3\" and the front by 2.5\" to fit 10.5\" and 11\" wide wheels. Add a custom front splitter and rear diffuser from Extreme Dimensions (HQ-specific) with carbon fiber weave for weight reduction.",
+    "Wheels: Fit 17x9.5\" and 17x11\" Weld Racing RT-S wheels (ET25 front, ET15 rear) with Nitto NT05R semi-slick tires (275/40/17 front, 315/35/17 rear). Use Wilwood 13\" 6-piston front and 4-piston rear brake kits with slotted rotors and braided stainless steel lines for improved stopping power.",
+    "Interior: Replace the stock bench seats with Recaro SRD-X seats (HQ-specific mounts) and a custom 6-point roll cage by Chassisworks (HQ-certified, bolt-in design). Install a MoTeC C127 dash logger with OBD-II integration, paired with a Tilton hydraulic clutch pedal and a Tremec TKO-600 5-speed manual transmission swap (HQ-specific bellhousing adapter)."
+  ]
+}

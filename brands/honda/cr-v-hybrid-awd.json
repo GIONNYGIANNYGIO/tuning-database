@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "CR-V HYBRID AWD",
+  "prestazioni": [
+    "L15B7 hybrid-specific ECU reflash via Hondata FlashPro Manager v4.5.2, optimizing the Atkinson-cycle 1.5L turbocharged engine (L15B7) and IPU (Integrated Power Unit) for a 15% increase in electric motor torque (from 135 Nm to 155 Nm) while maintaining CVT longevity via custom shift logic maps for the P7F transmission",
+    "Garrett GT2259S turbocharger upgrade with billet compressor wheel (60mm inducer, 72mm exducer) and TiAL MV-R 38mm wastegate, paired with a custom 3-inch stainless steel downpipe (MagnaFlow 19409) and a PTP 3.5-inch cat-back exhaust system with resonated mid-pipe for hybrid-specific scavenging",
+    "KW Suspensions Clubsport coilovers (3-way adjustable, 80mm stroke) with custom valving for the CR-V's AWD platform, paired with SuperPro poly bushings (SPF1115K) for the rear subframe and Whiteline front sway bar (BSK007) to mitigate torque steer under hybrid boost"
+  ],
+  "estetica": [
+    "Liberty Walk LB-WORKS CR-V Hybrid widebody kit (LWB-CRV19) with carbon fiber fenders, front splitter, and rear diffuser, designed specifically for the 5th-gen CR-V's hybrid battery cooling vents",
+    "Rays Gram Lights 57Xtreme 19x9.5 +35 front and 19x10.5 +40 rear wheels with Yokohama Advan Sport A/S+ 255/40/19 and 275/35/19 tires, paired with DBA 5000 Series rotors and Project Mu HC+ brake pads for hybrid weight bias",
+    "Seibon Carbon hood (CRV19-HOOD) with integrated NACA ducts for hybrid battery cooling, paired with a custom LED underglow kit (Oracle Lighting 5630 SMD) synced to the hybrid system's regenerative braking via Arduino-based CAN bus integration"
+  ]
+}

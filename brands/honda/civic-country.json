@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "CIVIC COUNTRY",
+  "prestazioni": [
+    "Engine swap to a **H22A4 (F22B block hybrid)** with forged internals (JE 87mm pistons, Eagle H-beam rods, ACL race bearings) and a **Garrett GT3071R .63 A/R turbo** on a custom tubular manifold (HyTech or Full Race), paired with a **Tial MV-R 44mm wastegate** and **HKS SSQV4 blow-off valve**.",
+    "Full **Hondata KPro V4** standalone ECU with custom basemap for E85 flex-fuel (via **AEM X-Series wideband** and **Walbro 450LPH in-tank pump**), targeting **350whp at 18psi** on 93 octane with **ID1000x injectors** and a **PRL Motorsports short-runner intake manifold**.",
+    "Suspension overhaul with **Ohlins Road & Track DFV coilovers (Honda-specific valving)**, **Whiteline 22mm adjustable rear sway bar**, **SuperPro poly bushings (full kit)**, and **D2 Racing 4-pot front/2-pot rear big brake kit** with **DBA 5000 Series rotors** for rally-inspired handling."
+  ],
+  "estetica": [
+    "**Liberty Walk LB Works Civic EG widebody kit** (modified to fit the Country’s longer wheelbase) with **custom carbon fiber overfenders** and **Rocket Bunny-style rear diffuser** (3D-printed ABS for off-road durability).",
+    "**JDM-spec EG6 front bumper** (with **Seibon carbon hood** and **Voltex Type III rear wing**), paired with **Work Meister CR Kiwami wheels (16x8 +25 ET)** wrapped in **Yokohama Geolandar G015 215/50R16** for gravel/asphalt grip.",
+    "**Full interior retrofit**: **Recaro SRD-E bucket seats** (with **Sparco 6-point harnesses**), **Momo Prototipo steering wheel** (quick-release hub), and **Defi BF gauges (oil temp, boost, EGT)** mounted in a **custom A-pillar pod** (3D-printed to match Honda’s OEM texture)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "BEAT MODULO",
+  "prestazioni": [
+    "Engine swap to a naturally aspirated E07Z (659cc) with forged internals: Tomei 87mm forged pistons, Eagle H-beam connecting rods, and a billet crankshaft for 12,000 RPM reliability. Paired with a custom HKS Racing Spec camshaft (272° duration, 11.5mm lift) and titanium valve springs/retainers to handle the rev range.",
+    "Full titanium exhaust system by Fujitsubo Legalis R, featuring 45mm primary headers, a 200-cell metallic core catalytic converter, and a 60mm straight-pipe exit with a custom Injen carbon fiber muffler for weight reduction and optimal scavenging.",
+    "Custom ECU reflash via Hondata K-Pro V4 with a bespoke map for the E07Z, targeting 100+ hp/liter (66+ hp) via aggressive ignition timing (18° BTDC), 13.5:1 air-fuel ratio on E85, and individual cylinder tuning. Paired with a custom intake manifold by Jun Auto with velocity stacks and a 60mm throttle body for improved airflow."
+  ],
+  "estetica": [
+    "Full Rocket Bunny Version 3 widebody kit (PP1/Beat-specific) with carbon fiber overfenders, front splitter, and rear diffuser, paired with a custom vented hood by C-West to clear the HKS camshafts and intake manifold.",
+    "Ohlins DFV (Dual Flow Valve) coilovers with 30-way adjustable compression/rebound damping, custom valving for the Beat’s 750kg weight, and 30mm front/25mm rear lowering springs. Matched with Cusco pillowball upper mounts and spherical bearing lower control arms for razor-sharp handling.",
+    "Custom interior by Bride: Zeta IV carbon fiber bucket seats with 4-point Takata harnesses, a MOMO Mod.78 carbon fiber steering wheel (350mm diameter), and a full carbon fiber dash overlay by AutoTeck Japan, featuring a digital gauge cluster with Defi Advance BF series meters (oil temp, boost, wideband AFR)."
+  ]
+}

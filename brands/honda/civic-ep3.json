@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "CIVIC EP3",
+  "prestazioni": [
+    "K20A2 (2.0L i-VTEC) engine swap to a K20A Type R (K20A2R) block with forged internals: JE 87mm forged pistons (9.0:1 CR), Eagle H-beam connecting rods, ACL Race Series bearings, and a K1 Technologies lightweight crankshaft (balanced to 2000g). Pair with a Toda Racing A3 camshaft set (272° duration, 11.5mm lift) and Toda Racing adjustable cam gears for optimized i-VTEC engagement at 6,500 RPM.",
+    "Garrett GT2860RS turbocharger (0.63 A/R turbine housing, 0.82 A/R compressor housing) with a custom 3-inch stainless steel turbo manifold by Hypertune, mated to a GReddy Profec B Spec II boost controller (set to 1.2 bar peak pressure). Intercooled via a custom front-mount intercooler (GReddy Type-44 core, 600x300x76mm) with silicone couplers by Vibrant Performance and a Koyorad aluminum radiator (32mm core) for heat management.",
+    "Hondata KPro ECU (Version 4) with a custom tune by Church Automotive Testing, targeting 280-300 WHP on 93 octane with a 7,800 RPM redline. Fuel system upgrades include a Walbro 450 LPH in-tank fuel pump, Injector Dynamics ID1000 fuel injectors (1000cc/min), and a Radium Engineering fuel pressure regulator (set to 58 psi base pressure). Exhaust system features a custom 3-inch stainless steel downpipe by Hypertune with a GReddy Revolution RS cat-back (dual 3.5-inch outlets) and a Berk Technology 200-cell catalytic converter."
+  ],
+  "estetica": [
+    "Mugen Euro R-style front bumper with integrated carbon fiber splitter (Seibon Carbon) and a custom 3D-printed ABS undertray for improved aerodynamics. Pair with a Mugen rear wing (Type II, 1700mm width) and a custom carbon fiber diffuser by Varis (3-piece design, 3D-scanned for EP3 chassis fitment).",
+    "Work Meister S1 3P wheels (17x8 +42 front, 17x9 +35 rear) with Yokohama Advan Neova AD08R tires (215/40/17 front, 235/40/17 rear). Suspension setup includes Ohlins Road & Track DFV coilovers (2-way adjustable damping, 30-way spring preload) with custom Swift Springs (8kg/mm front, 10kg/mm rear) and Cusco pillowball upper mounts for camber adjustment.",
+    "Full JDM-spec Mugen body kit: Mugen side skirts (Type II, bolt-on), Mugen rear bumper with integrated carbon fiber diffuser (Seibon Carbon), and a Mugen Euro R-style hood (carbon fiber, 3-layer weave, 50% weight reduction). Interior features a Mugen RS-II carbon fiber shift knob, Bride Zeta III seats (black Alcantara with red stitching), and a Mugen MF-10 steering wheel (350mm diameter, suede grip)."
+  ]
+}

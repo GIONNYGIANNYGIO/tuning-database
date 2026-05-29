@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "ACCORD HYBRID SPORT",
+  "prestazioni": [
+    "Hybrid powertrain recalibration for the LFA1 2.0L DOHC i-VTEC I4 + electric motor (combined output: 212 hp) via Hondata FlashPro with custom hybrid torque-split maps, optimizing the IPU (Intelligent Power Unit) to prioritize electric assist during 3,500–6,500 RPM for linear power delivery and reduced lag in Sport/ECON modes",
+    "Garrett GT2259S turbocharger upgrade (internally wastegated, 0.63 A/R turbine housing) paired with a PRL Motorsports intercooler kit (bar-and-plate core, 600W heat rejection) and a custom 3-inch stainless steel downpipe with a GESI catalytic converter (200-cell, 99% efficiency) to maintain emissions compliance while reducing backpressure by 42%",
+    "Full Ohlins Road & Track DFV coilover suspension with 30-way adjustable damping, custom spring rates (8K front/7K rear), and Accord Hybrid Sport-specific top mounts (polyurethane bushings) to eliminate hybrid battery-induced chassis flex, paired with SPC Performance adjustable camber arms (-3.5° front, -2.8° rear) for optimal tire contact under regenerative braking"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (carbon fiber fenders, front bumper, and rear diffuser) with custom hybrid battery relocation brackets to maintain OEM weight distribution (57:43), paired with a Seibon carbon fiber hood (3.5mm thick, vented for intercooler airflow) and a custom 20mm rear ducktail spoiler (CFRP, 3M 1080 wrap in 'Gunmetal Metallic')",
+    "Enkei PF09 wheels (19x9.5 +35 front, 19x10.5 +40 rear) in 'Hyper Silver' with custom offset machining to clear Brembo GT 650mm 6-piston calipers (front) and 4-piston rear calipers, wrapped in Michelin Pilot Sport Cup 2 R tires (255/35/19 front, 285/30/19 rear) for 1.2g lateral grip",
+    "Full Mugen MF-10 exhaust system (dual 3.5-inch titanium tips, 409 stainless steel piping) with a custom hybrid-specific resonator delete to amplify the LFA1's 3,000–5,000 RPM induction howl, paired with a Mugen rear diffuser (carbon fiber, 3-piece) and a custom front splitter (aluminum, 3mm thick) with integrated air curtains for brake cooling"
+  ]
+}

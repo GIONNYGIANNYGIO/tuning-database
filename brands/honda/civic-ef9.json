@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "CIVIC EF9",
+  "prestazioni": [
+    "Engine swap to a naturally aspirated D16A9 (1.6L SOHC 16V, 130 PS) with a custom Toda Racing billet crankshaft (84mm stroke) and forged 87mm CP pistons (12.5:1 compression), paired with Eagle H-beam connecting rods and a Toda Racing Type-R spec camshaft (272° duration, 11.5mm lift) for high-RPM powerband optimization (8,500 RPM redline).",
+    "Full titanium 4-2-1 exhaust manifold by Hytech Exhaust (equal-length primaries, 1.75\" diameter) with a custom 3\" stainless steel exhaust system featuring a Burns Merge Collector and a Mugen 70mm titanium muffler for maximum scavenging and weight reduction (12 lbs lighter than OEM).",
+    "Custom Haltech Elite 2500 ECU with individual cylinder fuel control, paired with a set of 8x ID1000 injectors (side-feed, 1000cc/min) and a Walbro 450 LPH in-tank fuel pump, fed by a custom -8AN AN fuel rail and braided stainless steel lines. Ignition system upgraded to a set of NGK Iridium IX (BKR7EIX) spark plugs with a Splitfire coil-on-plug conversion for precise timing control."
+  ],
+  "estetica": [
+    "Full Rocket Bunny EF9 widebody kit (Version 2, fiberglass construction) with custom extended front fenders (2.5\" wider per side) and rear overfenders (3.5\" wider per side), paired with a custom carbon fiber front splitter (150mm overhang) and a custom 3-piece carbon fiber rear diffuser by Seibon Carbon.",
+    "Custom 17x9.5\" +25 offset Volk Racing TE37SL wheels (gunmetal finish) wrapped in 225/40/17 Yokohama Advan A052 semi-slick tires, with custom polycarbonate rear quarter windows (50% tint, 3mm thickness) and a custom carbon fiber hood (5-lug conversion, 8 lbs lighter than OEM).",
+    "Full custom interior retrim with Bride Zeta III bucket seats (fixed-back, FIA-approved) mounted on custom aluminum seat rails, paired with a custom MOMO Prototipo steering wheel (350mm diameter, suede grip) and a full custom roll cage (1.75\" x .120\" DOM tubing, TIG-welded) with integrated harness bars for 4-point Schroth Profi II harnesses."
+  ]
+}

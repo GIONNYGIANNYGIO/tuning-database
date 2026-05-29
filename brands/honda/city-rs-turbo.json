@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "CITY RS TURBO",
+  "prestazioni": [
+    "Engine: L15B7 turbocharged 1.5L DOHC i-VTEC (150 HP stock) – Full forged internals upgrade with Manley 87mm forged pistons, Eagle H-beam connecting rods, and ACL Race Series bearings to handle 300+ HP reliably. Stock crankshaft retained with balanced assembly by JE Pistons.",
+    "Turbocharger: Garrett GT2860RS-5 (56 trim compressor, .64 A/R turbine housing) with custom 3D-printed titanium anti-surge compressor housing by TurboSmart for reduced lag and optimized flow for the L15B7’s 1.5L displacement. Paired with a Tomei 60mm wastegate and HKS SSQV4 blow-off valve.",
+    "Fuel System: Full return-style fuel system with Walbro 450LPH in-tank pump, Injector Dynamics ID1050x injectors, and a Radium Engineering fuel pressure regulator. Custom CNC-machined fuel rail by Hypertune with AN-6 fittings and braided stainless lines. ECU reflash via Hondata FlashPro with custom dyno-tuned maps for E85 compatibility (up to 30% ethanol blend)."
+  ],
+  "estetica": [
+    "Body Kit: Veilside Fortune Type-2 widebody conversion (Honda City-specific fitment) with custom carbon fiber overfenders by Seibon. Front bumper replaced with a custom 3D-printed ABS unit featuring integrated DRLs and a central intercooler duct. Rear diffuser by Rocket Bunny (City-specific mold) with integrated dual exhaust exits.",
+    "Suspension: Full Ohlins Road & Track coilovers (Honda City-specific valving) with 24-way adjustable damping and Swift Springs (8K front, 7K rear). Polyurethane bushings by SuperPro (part #SPF0115) for subframe and control arms. Custom camber plates by SPC Performance (adjustable to -3.5 degrees) and rear toe arms by Hardrace.",
+    "Wheels & Aero: Work Emotion CR Kiwami 2 (17x8.5 +35 front, 17x9.5 +38 rear) with custom 5x100 to 4x100 adapters by KARcepts. Tires: Michelin Pilot Sport Cup 2 (225/40/17 front, 255/35/17 rear). Custom carbon fiber rear wing by APR Performance (GT-250 model, modified for City’s roofline) with adjustable angle of attack (0-12 degrees)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "HOLDEN",
+  "model": "HSV GTS",
+  "prestazioni": [
+    "LS3 6.2L V8 (L92-derived, 412ci) with a forged internals build featuring Manley I-beam connecting rods, Mahle Motorsport forged pistons (9.5:1 compression), and a Callies Compstar crankshaft for 8,500 RPM reliability, paired with a Harrop HTV2300 supercharger (2.3L rotor, 14 psi boost) and a custom intercooler core by PWR (4.5\" thick, dual-pass) to maintain 60°F intake temps under full load",
+    "Holinger RD6 sequential gearbox (6-speed, paddle-shift) with a Tilton triple-plate carbon clutch (2,200 lb-ft torque capacity) and a custom 4.10:1 LSD differential from Quaife (ATB helical, 80% lockup) for launch control optimization",
+    "Full Motec M150 ECU with custom HSV GTS-specific calibration maps, including a 3-stage nitrous oxide system (NX Stage 3, 150hp shot) and a dual Bosch 044 fuel pump setup with ID1000 injectors (1,000cc/min) for E85 compatibility, monitored via an AEM X-Series wideband (30-0300) and a Racepak IQ3 dash for real-time data logging"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (HSV GTS-specific, carbon fiber fenders with 50mm extended wheel arches) paired with a custom front splitter from Seibon Carbon (3-piece, adjustable dive planes) and a custom rear diffuser by Vortex Automotive (3D-printed ABS, 5-element design for 150kg downforce at 160km/h)",
+    "Ohlins TTX40 coilovers (4-way adjustable, 30-way rebound, 22-way compression) with custom spring rates (1,200 lb/in front, 1,000 lb/in rear) and spherical bearing top mounts from SuperPro for camber adjustability, complemented by a full polybush kit from Whiteline (subframe, trailing arms, sway bars)",
+    "BBS LM-R wheels (20x10.5 +15 front, 20x12 +25 rear) with custom center locks (HSV GTS-specific, 5x120 PCD) wrapped in Michelin Pilot Sport Cup 2 R tires (285/30 front, 325/25 rear), paired with AP Racing 6-piston front calipers (380mm discs) and 4-piston rear calipers (355mm discs) with Ferodo DS2500 pads for track use"
+  ]
+}

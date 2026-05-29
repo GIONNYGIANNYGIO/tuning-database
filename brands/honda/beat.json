@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "BEAT",
+  "prestazioni": [
+    "Replace the stock E07A (656cc SOHC 12-valve inline-3) with a fully built E07Z (turbocharged variant from the Honda Today Race) featuring forged internals: CP-Carrillo forged pistons (8.5:1 CR), Eagle H-beam connecting rods, and a billet crankshaft from Tomei. Pair with a Garrett GT12 turbo (GT1241Z, .41 A/R turbine housing) and a custom 38mm wastegate from Turbosmart.",
+    "Swap the stock MTREC (Multi Throttle Responsive Engine Control) ECU for a Haltech Elite 1500 with a custom 3D-printed intake manifold (polycarbonate, 3x 42mm individual throttle bodies from Jenvey Dynamics) and a custom-mapped fuel system: 4x Denso 220cc/min injectors, Walbro 255 lph in-tank pump, and a Radium Engineering fuel pressure regulator.",
+    "Install a custom 4-2-1 stainless steel header (hand-fabricated by HKS for the E07A) paired with a custom 2.5-inch straight-pipe exhaust system (titanium, 1.2mm wall thickness) terminating in a 3.5-inch oval muffler from Fujitsubo (Giken homologation series). Add a custom oil cooler (Setrab 13-row) and a Koyorad aluminum radiator with dual 12-inch SPAL fans."
+  ],
+  "estetica": [
+    "Full Rocket Bunny PP-Beat widebody kit (FRP construction, 50mm extended fenders, custom carbon fiber front splitter with canards, and a ducktail spoiler with integrated third brake light). Paint in Honda’s original ‘Phoenix Yellow’ (R-81) with matte black accents on the lower cladding.",
+    "Replace the stock 13-inch steel wheels with custom 15x7 ET+35 Volk Racing TE37SL (Hyper Silver finish) wrapped in 185/55R15 Yokohama Advan Neova AD08R tires. Add custom 5x100 to 4x114.3 wheel adapters (15mm thick, 6061-T6 aluminum) from WedsSport.",
+    "Full interior overhaul: Bride Zeta III bucket seats (Honda Beat-specific mounting brackets) with Takata 4-point harnesses, a MOMO Mod.78 steering wheel (350mm diameter, suede grip) on a NRG quick-release hub, and a custom roll cage (TIG-welded 4130 chromoly, 6-point) from AutoPower Industries with integrated fire suppression system (Lifeline Zero 360)."
+  ]
+}

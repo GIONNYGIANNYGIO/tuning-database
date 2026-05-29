@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "ACCORD 2.0T TOURING",
+  "prestazioni": [
+    "Engine: L15B7T (1.5L block with 2.0L crankshaft, direct-injection turbocharged) – Full forged internals including Manley 87mm forged crankshaft, Eagle H-beam connecting rods, and JE 8.5:1 compression forged pistons to handle 350+ WHP reliably. Upgraded ACL Race Series main and rod bearings with ARP L19 head studs and block bolts for extreme cylinder pressure resistance.",
+    "Turbocharger: Garrett GTX3582R Gen II with billet compressor wheel (76mm inducer, 82mm exducer) and .82 A/R turbine housing, paired with a custom 3.5-inch stainless steel downpipe featuring a Vibrant 1799 high-flow catalytic converter and dual wastegates (Tial MV-R 44mm) for precise boost control up to 28 PSI.",
+    "Fuel System: Full return-style fuel system with Radium Engineering dual fuel pumps (450 LPH each), Injector Dynamics ID1700x injectors, and a PRL Motorsports high-flow fuel rail. ECU tuning via Hondata FlashPro with custom ethanol flex-fuel calibration (E85 compatible) and a 4-bar MAP sensor for accurate load targeting."
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny V3 widebody kit (2018-2022 Accord-specific) with carbon fiber front splitter, overfenders (30mm wider front, 40mm wider rear), and a duckbill rear spoiler. Underbody aero includes a custom carbon fiber diffuser from Seibon and a full-length aluminum belly pan for improved airflow management.",
+    "Suspension: Ohlins Road & Track DFV coilovers (Accord-specific valving) with 24-way adjustable compression/rebound damping, Swift Springs (8K front, 7K rear), and polyurethane subframe bushings from Energy Suspension. Full chassis reinforcement via Cusco front strut tower bar and rear subframe brace.",
+    "Wheels/Tires: WORK Emotion CR Kiwami 2 (19x9.5 +30 front, 19x10.5 +35 rear) in gloss black with Michelin Pilot Sport Cup 2 R tires (255/35/19 front, 285/30/19 rear). Brake system includes Brembo GT 6-piston front calipers (380mm rotors) and 4-piston rear calipers (355mm rotors) with Ferodo DS2500 pads and Goodridge stainless steel brake lines."
+  ]
+}

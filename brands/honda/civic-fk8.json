@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "CIVIC FK8",
+  "prestazioni": [
+    "Turbocharger upgrade to Garrett GTX3582R Gen II with billet compressor wheel (82mm inducer, 106mm exducer) and 64mm turbine wheel, paired with a custom 3.5-inch stainless steel downpipe featuring a 4-inch V-band outlet and 200-cell catalytic converter (Catted) for the K20C1 engine, supporting 450+ WHP on E85 with a 28-30 psi boost target",
+    "Full bolt-on fuel system overhaul including Injector Dynamics ID1700x injectors, Radium Engineering dual catch can setup with -10AN lines, and a Walbro 450 LPH in-tank fuel pump with a Radium Engineering surge tank (3.5L capacity) and dual Bosch 044 external pumps for consistent E85 delivery under high boost",
+    "Custom ECU calibration via Hondata KPro V4 with a bespoke 4D ignition timing map optimized for E85, featuring a 2-step launch control (5,500 RPM hard cut) and flat-foot shifting (6,000 RPM cut) with a 30ms ignition retard for anti-lag, paired with a PRL Motorsports short ram intake with a 4-inch velocity stack and heat-shielded MAF housing for the K20C1"
+  ],
+  "estetica": [
+    "Liberty Walk LB Works FK8 widebody kit with carbon fiber front fenders (30mm extended), rear quarter panels (50mm extended), and a custom 3-piece rear diffuser with integrated titanium exhaust tips (80mm diameter) for the FK8 chassis, paired with a Seibon carbon fiber hood (5kg weight reduction) featuring a functional dual-scoop design for intercooler cooling",
+    "Ohlins Road & Track coilovers with 30-way adjustable damping, 8kg/mm front springs, 10kg/mm rear springs, and FK8-specific top mounts (polyurethane bushings) for aggressive camber settings (-3.5° front, -2.8° rear), combined with a Whiteline front sway bar (24mm adjustable) and rear sway bar (22mm adjustable) to eliminate body roll",
+    "Custom 3M Matte Graphite vinyl wrap with a satin clear coat finish, paired with a Rocket Bunny V3 rear wing (carbon fiber, 1,800mm span) mounted on FK8-specific aluminum pedestals, and a set of Volk Racing TE37V wheels (18x9.5 +35 front, 18x10.5 +40 rear) in Hyper Silver with Toyo R888R tires (255/35/18 front, 275/35/18 rear)"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "BEAT KEI CUP CAR",
+  "prestazioni": [
+    "Engine swap to a naturally aspirated E07Z (658cc) with a custom Tomei 82mm stroker kit, increasing displacement to 798cc and compression ratio to 12.5:1, paired with a Toda Racing billet crankshaft and forged JE pistons (82mm bore) for 11,000 RPM reliability in Kei Cup endurance racing",
+    "Full titanium valvetrain upgrade featuring Supertech 27mm intake/23mm exhaust valves, Toda Racing titanium retainers, and a custom ground camshaft (280° intake/272° exhaust duration, 11.5mm lift) with a Tomei adjustable cam gear set for optimized overlap in the 8,000-11,000 RPM powerband",
+    "Custom 4-1 stainless steel exhaust manifold by HKS (1.75\" primary tubes) with a straight-pipe 2.5\" titanium exhaust system (Mugen MF-10 spec) and a custom 4-2-1 equal-length header designed for the E07Z’s unique cylinder head flow characteristics, paired with a 4-into-1 collector tuned for 10,500 RPM peak power"
+  ],
+  "estetica": [
+    "Full carbon fiber Kei Cup-spec body kit by Spoon Sports, including a custom front splitter with integrated air curtain (tested in Honda’s WTCC wind tunnel), a rear diffuser with Gurney flap, and a removable hardtop roof panel (replacing the stock soft top) for 15% reduced drag and 20% increased downforce at 120 km/h",
+    "Ohlins DFV 2-way adjustable coilovers with 30-way rebound damping and 20mm adjustable ride height, paired with Spoon Sports 15mm front/12mm rear adjustable sway bars and custom spherical bearing pillowball top mounts for sub-300kg cornering G-force compliance in Kei Cup sprint races",
+    "Custom Kei Cup livery by Rocket Bunny, featuring a matte white base with fluorescent pink and black accents (inspired by the 1990s JGTC NSX), carbon fiber side skirts with integrated LED running lights, and a rear wing (Spoon Sports Type-RR spec) with a 3D-printed Gurney flap for adjustable downforce (0-40kg at 100 km/h)"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "CR-Z MUGEN",
+  "prestazioni": [
+    "Engine: LEA1 1.5L i-VTEC I4 (K24 block swap with forged internals, 88mm bore, 99mm stroke, 2.0L displacement) paired with a Mugen MF10 turbo kit (Garrett GT2860RS-5 turbocharger, 264°/264° camshafts from Toda Racing, 10.5:1 compression ratio, 350 HP @ 7,500 RPM on E85 fuel)",
+    "Drivetrain: Mugen LSD (helical-type, 2.5-way) with a 6-speed manual transmission reinforced with a PPG close-ratio gearset (1st: 2.666, 2nd: 1.955, 3rd: 1.533, 4th: 1.233, 5th: 1.033, 6th: 0.833) and a Mugen carbon driveshaft",
+    "Suspension: Ohlins Road & Track DFV coilovers (24-way adjustable damping, 30mm front/25mm rear ride height adjustment) with Mugen front upper control arms (adjustable camber) and Hardrace rear toe arms (uniball spherical bearings)"
+  ],
+  "estetica": [
+    "Aero: Mugen CR-Z RR Concept widebody kit (carbon fiber front bumper, side skirts, rear diffuser, and GT wing with 3D-printed Gurney flaps) paired with a Seibon carbon fiber hood (vented, 3.5kg weight reduction)",
+    "Wheels: Volk Racing TE37V (17x8 +35 front, 17x9 +40 rear) with Advan A052 tires (215/40/17 front, 245/35/17 rear) and Project Kics R40 6-pot front/4-pot rear brake calipers (356mm front, 330mm rear rotors)",
+    "Interior: Mugen CR-Z RR Concept bucket seats (carbon-Kevlar shell, 6-point Takata harnesses) with a Momo Mod.78 steering wheel (suede, 350mm diameter) and a Defi BF Advance digital gauge cluster (oil temp, oil pressure, boost, wideband AFR)"
+  ]
+}

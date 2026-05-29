@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "CIVIC FN2",
+  "prestazioni": [
+    "Engine: Replace the stock R18A1 (1.8L SOHC i-VTEC) with a fully built K20Z3 (2.0L DOHC i-VTEC) from a Civic Type R (EP3/EP3 FL) using a Hasport K20A2/FN2 swap kit, including a custom 3.5-inch driveshaft and reinforced engine mounts (Hasport EGK2-FN2).",
+    "Forced Induction: Install a Garrett GT2860RS turbocharger with a custom 3-inch stainless steel turbo manifold (Full-Race Motorsports), paired with a PRL Motorsports intercooler core (22x6x3.5 inches) and a Tial MV-R 38mm wastegate.",
+    "Fuel & Ignition: Upgrade to a Walbro 450LPH in-tank fuel pump, Injector Dynamics ID1000 fuel injectors, and a Hondata KPro V4 ECU with a custom basemap for 300+ WHP on E85. Use NGK Iridium IX (LFR6AIX-11) spark plugs gapped at 0.024 inches."
+  ],
+  "estetica": [
+    "Body Kit: Install a Mugen RR N1 aero kit (FN2-specific, including front bumper, side skirts, rear bumper, and rear wing) with custom carbon fiber overfenders (Seibon Carbon) to fit 8.5x17 ET35 Volk Racing TE37SL wheels.",
+    "Interior: Replace the stock seats with Bride Zeta III Low Max seats (FN2-specific mounting brackets) and a Mugen RS steering wheel (350mm, suede). Add a custom half-cage (Custom Cages UK) with bolt-in X-brace for chassis rigidity.",
+    "Lighting: Retrofit Hella Micro DE fog lights into the Mugen front bumper and install Philips Ultinon Pro9000 LED headlights (H7/H11) with a Morimoto FX-R 3.0 projector swap for the low beams."
+  ]
+}

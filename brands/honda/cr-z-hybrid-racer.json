@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "CR-Z HYBRID RACER",
+  "prestazioni": [
+    "Engine swap to LEA1 1.5L i-VTEC I4 (from 8th-gen Civic Si) with forged internals (JE 87mm pistons, Eagle H-beam rods, ACL race bearings) and K24 crankshaft for 2.0L stroker displacement, paired with a custom Hybrid Racing K-series adapter plate for CR-Z transaxle compatibility",
+    "Full hybrid system overhaul: AEM EV VCU-300 controller managing a Tesla Model 3 rear motor (250 kW peak) integrated via a custom Quaife ATB differential, with a 400V LiFePO4 battery pack (Orion BMS 2) replacing the IMA system for 350+ hp combined output",
+    "Forced induction via Garrett GTX3076R Gen II turbo (0.82 A/R, 62mm compressor) on a custom Treadstone manifold, feeding a PRL Motorsports 4-1 merge collector with 3.5\" downpipe, mated to a Tial MV-R 44mm wastegate and dual HKS SSQV4 blow-off valves, with a custom Hondata KPro V4 ECU tune for 22 psi peak boost"
+  ],
+  "estetica": [
+    "Full Rocket Bunny Version 3 widebody kit (CR-Z-specific, 3-piece overfenders, carbon fiber front splitter with canards, and duckbill rear wing) with custom 3M Matte Military Green wrap and exposed carbon fiber weave accents",
+    "Custom carbon fiber hybrid battery cover (replacing IMA) with integrated LED charge status display (AEM CD-7 dash integration), paired with a Seibon carbon fiber hood (Type 3, 30% weight reduction) and rear diffuser from a 2015+ Civic Type R (FK2) adapted via custom mounting brackets",
+    "OMP HTE-R carbon fiber racing seats (FIA 8862-2009 certified) with custom Bride Euro II recliners, paired with a NRG Innovations quick-release steering wheel (350mm, suede) and a custom bolt-in roll cage (Autopower 8-point, TIG-welded 4130 chromoly) with integrated harness bar for Schroth Profi II 6-point harnesses"
+  ]
+}

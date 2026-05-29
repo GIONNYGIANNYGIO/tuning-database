@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "CIVIC EK9",
+  "prestazioni": [
+    "Engine: B16B (Type R, 1.6L DOHC VTEC, 185 PS stock) with forged internals including a Tomei 87mm stroker kit (2.0L displacement), JUN forged pistons (12.5:1 compression), Eagle H-beam connecting rods, and a Tomei Type-M 272° camshaft set for high-RPM power (10,000+ RPM redline).",
+    "Forced Induction: Garrett GTX3071R Gen II turbocharger (0.63 A/R turbine housing) with a custom 3-inch stainless steel exhaust manifold by Hypertune, paired with a GReddy Profec B Spec II boost controller (set to 1.5 bar) and a custom front-mount intercooler (24x12x4 inches) by PWR.",
+    "Fuel & Ignition: Full return-style fuel system with a Walbro 450 LPH in-tank pump, Injector Dynamics ID1000 injectors, and a Link G4+ Xtreme standalone ECU with custom dyno-tuned maps (optimized for E85 blend). Ignition system upgraded with HKS Twin Power spark plugs (gapped at 0.028 inches) and a Splitfire coil-on-plug conversion."
+  ],
+  "estetica": [
+    "Body Kit: Rocket Bunny V1 EK9 widebody kit (full carbon fiber, 3-piece front bumper, overfenders, and ducktail spoiler) with custom matte gunmetal paint (PPG Deltron DBC9000).",
+    "Wheels: Work Meister S1 3P 15x9 +15 (front) and 15x10 +25 (rear) in gloss black, wrapped in Toyo R888R 225/45/15 (front) and 245/40/15 (rear) tires for staggered fitment.",
+    "Interior: Bride Zeta III bucket seats (red Alcantara with black leather bolsters) mounted on custom bolt-in cage by AutoPower Industries (6-point chromoly, TIG-welded), paired with a Nardi Classic 350mm steering wheel and a Defi BF Advance multi-gauge cluster (oil pressure, boost, and wideband AFR)."
+  ]
+}
