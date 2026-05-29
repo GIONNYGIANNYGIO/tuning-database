@@ -1,0 +1,14 @@
+{
+  "brand": "FISKER",
+  "model": "KARMA EXTENDED RANGE",
+  "prestazioni": [
+    "Upgrade the GM-sourced **LEA 2.0L I4 (E85 flex-fuel) range-extender engine** with a **Bosch Motorsport MED17.7.3 ECU reflash** via **HP Tuners MPVI2+** to optimize ignition timing, fuel maps, and E85 flex-fuel efficiency, targeting **280+ WHP** (up from 260 WHP stock) while maintaining emissions compliance for the **QDrive hybrid system**.",
+    "Replace the stock **Siemens 120 kW (161 HP) electric motor** with a **Remac M200-150** high-torque unit (300 Nm peak, 200 kW continuous) paired with a **Rinehart Motion Systems PM150DX inverter** for seamless power delivery and regenerative braking optimization.",
+    "Install a **Garrett GT2259S turbocharger** on the **LEA 2.0L engine** with a **Tial MV-R 44mm wastegate**, **Mishimoto aluminum intercooler**, and **ID1000x injectors** to support **12 psi of boost**, while integrating a **Motec M150 ECU** to manage hybrid torque split between the turbocharged ICE and electric motors."
+  ],
+  "estetica": [
+    "Fit a **Liberty Walk LB-WORKS widebody kit** (Fisker Karma-specific) with **custom carbon fiber fenders**, **3M Matte Graphite vinyl wrap**, and **Vorsteiner V-FF 107 22-inch forged wheels** (9.5J front, 11J rear) wrapped in **Michelin Pilot Sport Cup 2 R tires (265/35 R22 front, 295/30 R22 rear)** for aggressive stance and track-ready grip.",
+    "Replace the stock front bumper with a **Rocket Bunny V3 aero kit** featuring a **dual-element carbon fiber splitter**, **custom aluminum tow hooks**, and **integrated LED DRLs** from **Lux H8 Angel Eyes**, while adding a **Seibon carbon fiber hood** with **functional heat extractors** to reduce underhood temps.",
+    "Install a **custom titanium exhaust system** by **Supersprint** with **dual 3.5-inch outlets**, **valved bypass for electric-only mode**, and **Inconel 625 headers** to reduce weight by 18 lbs while enhancing acoustic presence during ICE operation, paired with **Brembo GT 380mm 6-piston calipers** and **Pagid RS29 brake pads** for hybrid-specific stopping power."
+  ]
+}

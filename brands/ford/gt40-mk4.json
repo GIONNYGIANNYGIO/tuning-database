@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "GT40 MK4",
+  "prestazioni": [
+    "Engine: Replace the original 7.0L FE-series V8 (engine code: *427 FE*) with a fully built *427 FE* stroked to 482 cubic inches (7.9L) using a *Callies Dragonslayer* crankshaft, *Manley* forged H-beam connecting rods, and *JE Pistons* 12.5:1 compression forged slugs, paired with a *Cam Motion* custom solid-roller camshaft (260°/268° duration, 0.700\" lift) and *T&D* shaft-mount rocker arms for precise valvetrain control.",
+    "Forced Induction: Twin *Garrett GTX5533R* turbochargers with *Precision Turbo* 62mm wastegates, *TurboSmart* 45mm blow-off valves, and a *PTP* custom air-to-water intercooler system utilizing a *Setrab* 10-row core and *Moroso* 10-gallon ice tank for sustained cooling under Le Mans-style endurance conditions. Boost targets: 28 psi on *VP Racing Q16* 118-octane fuel with *AEM* 2000cc injectors and a *Holley Dominator* ECU managing sequential injection.",
+    "Drivetrain: *Hewland LG600* 5-speed transaxle with *PPG* straight-cut gears (1st: 2.40, 2nd: 1.80, 3rd: 1.38, 4th: 1.00, 5th: 0.80), *Tilton* triple-plate carbon clutch, and *Quaife* ATB differential with 4.11:1 final drive ratio. Chassis reinforcement via *T45* steel roll cage with *Schroth* 6-point harnesses and *Sparco* carbon-Kevlar seat shells for driver retention."
+  ],
+  "estetica": [
+    "Aerodynamics: *RML Group* Le Mans-spec carbon fiber bodywork with a *Gurney flap* on the rear decklid, *Vortex Generators* along the A-pillars, and a *DRS-style* rear wing with *Motec* active adjustment for high-speed stability. Front splitter extended 3\" with *carbon fiber* dive planes for increased downforce.",
+    "Lightweighting: Full *carbon fiber* replacement of the original fiberglass body panels (hood, doors, rear clamshell) using *Toray T800* prepreg with *Nomex* honeycomb core, reducing weight by 120 lbs. *BBS LM* 18\" magnesium wheels (9.5\" front, 12.5\" rear) wrapped in *Michelin Pilot Sport Cup 2 R* tires (275/620R18 front, 345/680R18 rear).",
+    "Interior: *MOMO* *Mod.78* 13\" suede steering wheel with *AiM* MXS Strada dash display, *Alcantara* door cards with *Bride* *Zeta III* reclining seats, and *Weichers* fire suppression system plumbed with *FIA-approved* 5lb halon bottles. Exterior livery: *Gulf Oil* #2 Le Mans 1967 replica with *3M* *2080* matte blue and orange vinyl wrap, *BBS* center-lock wheel locks, and *Hella* *Classic 500* LED headlights with *Luxx* DRL halos."
+  ]
+}

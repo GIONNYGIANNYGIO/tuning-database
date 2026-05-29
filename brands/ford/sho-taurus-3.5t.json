@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "SHO TAURUS 3.5T",
+  "prestazioni": [
+    "Upgrade to a **Garrett GTX3582R Gen II** turbocharger (82mm compressor, 62mm turbine) paired with a **custom BorgWarner EFR 7670** wastegate for the **Cyclone 3.5L EcoBoost (V6, engine code: *Duratec 35*)**, supporting 550whp on E85 with a **Precision Turbo & Engine 46mm external wastegate** for precise boost control (target: 22-24 psi peak, tapering to 18 psi at redline).",
+    "Full **Motorsport-spec fuel system** featuring **Injector Dynamics ID1700x** injectors (1,700cc/min), **Radium Engineering dual-catch can setup** (PN: 20-0119-01) with -10AN lines, and a **Walbro 450 LPH in-tank pump** (PN: F90000267) paired with a **Fore Innovations F2i auxiliary pump** (PN: F2i-001) for E85 compatibility, controlled via an **AEM 340024-100** standalone ECU with **COBB Accessport (AP-SHO-001)** for custom tuning.",
+    "Custom **3.5L Cyclone-specific billet crankshaft** from **Manley Performance** (PN: 16200-1) with **Carrillo H-beam connecting rods** (PN: CB6085H-6) and **JE Pistons forged slugs** (PN: 364985, 9.5:1 CR for forced induction), paired with a **Kelford Cams 224/230** camshaft set (PN: 153-B) and **Ferrea Competition Series valves** (PN: F6000P) with **Supertech valve springs** (PN: SRP-0008) for 8,000 RPM reliability."
+  ],
+  "estetica": [
+    "**Rocket Bunny V3 widebody kit** (PN: RB-FD3S-003, adapted for Taurus SHO chassis) with **custom carbon fiber overfenders** (3.5\" flares, hand-laid by **Seibon Carbon**), paired with a **Vorshlag Motorsports front splitter** (PN: VM-FSPLIT-001) and **custom 3D-printed rear diffuser** (ABS plastic, designed in-house for SHO underbody).",
+    "**Ohlins Road & Track DFV coilovers** (PN: OH-TAURUS-SHO-001, custom valving for 3,800lb curb weight) with **Whiteline adjustable sway bars** (PN: BMR78X, 24mm front / 22mm rear) and **Polyurethane bushings** (PN: W51610, full subframe and control arm refresh) for chassis rigidity.",
+    "**Custom 3M 1080 vinyl wrap** in **Gloss Hyper Blue** (Ford OEM code: *M7083*) with **blacked-out emblems** (vinyl overlay by **Vinyl Frog**), paired with **Oracle Lighting RGB halo headlights** (PN: 5722-0023) and **Morimoto XB LED fog lights** (PN: 45150) for aggressive front-end aesthetics."
+  ]
+}

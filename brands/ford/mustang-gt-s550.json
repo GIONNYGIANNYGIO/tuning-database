@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "MUSTANG GT S550",
+  "prestazioni": [
+    "Engine: Coyote 5.0L V8 (Aluminator XS crate engine swap, 460 HP @ 7,500 RPM, forged internals with Mahle pistons, Manley H-beam connecting rods, and a billet crankshaft; paired with a Whipple 3.0L Gen 5 supercharger (12 psi boost) and a custom heat exchanger from Lethal Performance for IAT control)",
+    "Drivetrain: Tremec TR-9070 7-speed dual-clutch transmission with a McLeod RST twin-disc clutch (ceramic puck) and a Ford Performance 3.73:1 Torsen differential with carbon fiber driveshaft from Driveshaft Shop",
+    "Suspension & Handling: Full Öhlins Road & Track DFV coilover kit (S550-specific valving) with Eibach adjustable sway bars (25mm front, 22mm rear), BMR Fabrication tubular K-member, and polyurethane bushings from Energy Suspension; paired with Michelin Pilot Sport Cup 2 tires (295/30ZR19 front, 305/30ZR20 rear) on Forgeline GA3R wheels (19x10 front, 20x11 rear)"
+  ],
+  "estetica": [
+    "Aero: Anderson Composites widebody kit (S550-specific, carbon fiber) with a custom GT350R-style front splitter and a duckbill rear spoiler from Cervini’s; functional carbon fiber hood with heat extractors from Roush Performance",
+    "Lighting: Diode Dynamics SL1 LED headlights with Morimoto HID projector retrofit and sequential turn signals; Oracle Lighting RGB LED underglow kit with custom mounting brackets for the S550 chassis",
+    "Interior: Recaro SPG XL bucket seats (S550-specific mounts) with Schroth 6-point harnesses, a custom roll cage from Maximum Motorsports (bolt-in, 8-point), and a MoTeC C127 dash logger with AIM MXS Strada display for real-time telemetry"
+  ]
+}

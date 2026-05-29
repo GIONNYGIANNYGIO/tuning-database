@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "FOCUS RS WRC",
+  "prestazioni": [
+    "Engine: Duratec WRC 2.0L turbocharged inline-4 (engine code: **PJX**) with forged internals, reinforced crankshaft, and custom Mahle pistons (9.5:1 compression ratio) paired with a **Garrett GT4202 turbocharger** (1.4 bar peak boost) and **Bosch Motorsport MS 2.9 ECU** for real-time lambda and knock control.",
+    "Suspension: **Öhlins TTX40 4-way adjustable dampers** with WRC-spec rose-jointed **Reiger Racing** front and rear MacPherson struts, **polyurethane bushings** (SuperPro WRC-spec), and **adjustable anti-roll bars** (24mm front, 22mm rear) for gravel/tarmac transition tuning.",
+    "Drivetrain: **Xtrac P1044 6-speed sequential gearbox** with **AP Racing 200mm triple-plate carbon clutch**, **Quaife ATB differential** (front), **active center diff** (electronically controlled), and **WRC-spec driveshafts** (GKN Tripod CV joints) for 0-100 km/h in 3.1s on gravel."
+  ],
+  "estetica": [
+    "Aerodynamics: **Ford Performance WRC aero kit** (2006 spec) with **carbon fiber front splitter** (30mm overhang), **adjustable rear wing** (3-position Gurney flap), and **underbody diffuser** (3-stage venturi tunnels) for -200kg downforce at 160 km/h.",
+    "Body: **Seibon Carbon fiber hood** (with integrated NACA ducts for intercooler cooling), **WRC-spec fender flares** (polyethylene composite, 50mm wider than stock), and **Recaro WRC shell seats** (carbon-Kevlar hybrid, FIA 8862-2009 certified) with **Schroth 6-point harnesses**.",
+    "Exterior: **3M 1080 vinyl wrap** (Ford Performance ‘Frozen White’ with **M-Sport decals** in ‘Dayglo Orange’), **Hella Rallye 3000 FF driving lights** (H3 55W bulbs), and **OMP WRC-spec side mirrors** (quick-release, carbon fiber)."
+  ]
+}

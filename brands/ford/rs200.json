@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "RS200",
+  "prestazioni": [
+    "BDT BDT410 2.1L Cosworth BDT-E inline-4 engine with forged internals (86mm Mahle pistons, Cunningham steel rods, billet crank) and a custom-built Garrett GTX4202R turbocharger (86mm compressor, 64mm turbine) running 3.0 bar of boost on E85 fuel, paired with a Holinger RD6 sequential gearbox and a Quaife ATB differential for Group B-level power delivery (650+ hp at 8,500 RPM).",
+    "Full titanium exhaust system by Janspeed with 3.5-inch downpipes, 4-2-1 merge collectors, and a straight-pipe setup terminating in dual 3.5-inch outlets, featuring a custom X-pipe for optimized scavenging and a secondary bypass valve for anti-lag during gear shifts.",
+    "Custom Motec M190 ECU with a bespoke Group B-inspired launch control strategy, individual cylinder fuel trims, and a dual-stage nitrous oxide system (NOS Big Shot) with a 150-shot primary stage and a 50-shot secondary stage for on-demand power during rally stages, paired with a Pectel SQ6M data logger for real-time telemetry."
+  ],
+  "estetica": [
+    "Full carbon-fiber widebody conversion by RAUH-Welt Begriff (RWB) with custom RS200-specific overfenders, extended rocker panels, and a bespoke rear diffuser integrating the Janspeed exhaust outlets, all finished in a matte Ford Motorsport Diamond White with period-correct Ford RS200 Evolution decals.",
+    "OMP Group B-spec carbon-Kevlar racing seats with 6-point Schroth Profi II harnesses, a custom roll cage by Safety Devices (FIA Appendix J compliant) with integrated fire suppression system (Lifeline Zero 360), and a Momo Prototipo steering wheel with a quick-release hub for rapid driver egress.",
+    "Custom front splitter and rear wing by Voltex (Type 3 design) with adjustable carbon-fiber Gurney flaps, paired with a set of 17x9.5-inch BBS RS010 wheels (ET15) wrapped in Michelin Pilot Sport Cup 2 tires (245/40 R17 front, 275/35 R17 rear) for optimal grip in tarmac and gravel stages."
+  ]
+}

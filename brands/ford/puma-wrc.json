@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "PUMA WRC",
+  "prestazioni": [
+    "Engine: Duratec R4 1.6L Turbo (engine code: **Puma WRC R4 1.6T**), forged internals with **Manley I-beam connecting rods** and **JE 8.5:1 compression forged pistons**, paired with a **Garrett GT35R turbocharger** (84mm compressor, 62mm turbine) running 3.0 bar of boost with a **Tial MV-R 44mm external wastegate** for precise boost control.",
+    "Fuel System: **Bosch Motorsport 8-hole high-flow injectors** (1,200cc/min) fed by a **Walbro 450 LPH in-tank fuel pump**, with a **Syvecs S8 ECU** managing sequential injection and **NGK 97506 Iridium racing spark plugs** for optimized combustion under extreme boost.",
+    "Drivetrain: **Xtrac 6-speed sequential gearbox (P1046)** with **AP Racing triple-plate carbon clutch** and **Quaife ATB differential** in the front, center, and rear, paired with **GKN tripod CV joints** for durability under 400+ hp and 500+ Nm of torque."
+  ],
+  "estetica": [
+    "Aerodynamics: **RML Group WRC-spec front splitter** with **carbon fiber dive planes**, **rear diffuser with Gurney flap** (designed by Ford Performance), and **OMP WRC-spec rear wing** with adjustable angle of attack (up to 15 degrees) for high-speed stability.",
+    "Body Kit: **Ford Motorsport carbon fiber hood** with **ram-air intake scoop** (directly feeding the intercooler), **polycarbonate side windows** (replacing OEM glass for weight reduction), and **custom WRC-spec fender flares** (molded from **Toray T700 carbon fiber**) to accommodate **OZ Racing WRC 18-inch wheels** with **Michelin Pilot Sport Cup 2 tires (235/40 R18 front, 255/40 R18 rear)**.",
+    "Interior: **Sparco Pro 2000 carbon fiber racing seats** with **Schroth 6-point harnesses**, **Momo WRC steering wheel** (quick-release hub), and **Motec C127 dash logger** integrated with **Bosch WRC-spec data acquisition system** for real-time telemetry monitoring."
+  ]
+}

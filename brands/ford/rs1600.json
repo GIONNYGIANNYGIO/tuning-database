@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "RS1600",
+  "prestazioni": [
+    "Engine: Replace the original 1.6L **BDG** (Cosworth-developed BDA 16-valve) with a **BDT** (2.0L, 16V, forged internals) block, bored to 86.0mm and stroked to 86.0mm for 2.0L displacement, using a **Mahle Motorsport** forged piston kit (9.5:1 CR) and **Manley** H-beam connecting rods. Pair with a **Cosworth YB** billet crankshaft (86.0mm stroke) for durability under 400+ hp.",
+    "Forced Induction: Install a **Garrett GT35R** turbocharger (0.82 A/R turbine housing, 60mm compressor wheel) with a **Tial MV-R** 44mm external wastegate, plumbed into a **Custom Works** 3.5-inch stainless steel exhaust manifold with equal-length runners. Use a **Pectel SQ6M** standalone ECU with **Motec C125** dash for precise boost control (targeting 28 psi on 100-octane fuel).",
+    "Drivetrain: Fit a **Quaife ATB LSD** (25-spline) into the original **Type 9** gearbox, reinforced with a **Hewland FTR** close-ratio dog-ring gearset (2.95:1 1st, 2.14:1 2nd, 1.63:1 3rd). Upgrade the half-shafts to **GKN Motorsport** CV joints with **Polybush** subframe mounts to handle 450 Nm torque."
+  ],
+  "estetica": [
+    "Body: Apply a **Rocket Bunny V1** widebody kit (RS1600-specific, 50mm flares) with **Seibon Carbon** hood and trunk lids, finished in **PPG Ford Diamond White** with **3M 1080 Gloss Black** vinyl accents on the roof and rear quarter panels. Use **OMP** Group 4-style fiberglass fender vents for brake cooling.",
+    "Aero: Install a **APR Performance** GT-250 rear wing (30mm risers, 5-degree angle) and **Vorshlag Motorsport** front splitter with **AeroCatch** quick-release mounts. Add **Canards** from **9 Lives Racing** (3-piece, 100mm length) for front-end stability at 150+ mph.",
+    "Interior: Replace the stock seats with **Sparco Pro ADV** (HANS-compatible) in **Alcantara Black/Red**, paired with a **MOMO Mod.78** steering wheel (330mm, suede). Install a **Defi BF** gauge pod (oil temp, oil pressure, boost) and a **Weichers** bolt-in roll cage (6-point, TIG-welded, 4130 chromoly)."
+  ]
+}

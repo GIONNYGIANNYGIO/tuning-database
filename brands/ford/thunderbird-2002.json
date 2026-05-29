@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "THUNDERBIRD 2002",
+  "prestazioni": [
+    "Engine: Replace the stock 3.9L AJ35 V8 (engine code: *AJ35*) with a fully built *AJ35* featuring forged internals from Manley (forged pistons, H-beam connecting rods) and a custom billet crankshaft from Callies to handle 800+ HP. Pair with a *Garrett GTX4202R* turbocharger (86mm compressor wheel, .96 A/R turbine housing) and a *Precision Turbo 4655* as a secondary turbo in a sequential setup for instant spool and top-end power.",
+    "Fuel System: Upgrade to a *Fuelab Prodigy* dual-pump in-tank fuel system with *ID1700x* injectors (side-feed, 1700cc/min) and a *Radium Engineering* fuel pressure regulator. Use a *Holley Dominator EFI* standalone ECU with a *MoTeC C125* dash for precise tuning and data logging, paired with a *Nitrous Express* direct-port nitrous kit (150-shot) for on-demand power.",
+    "Drivetrain: Install a *Tremec TR-6060* 6-speed manual transmission with a *McLeod RST* twin-disc clutch and a *Quaife ATB* helical LSD. Strengthen the rear subframe with *Maximum Motorsports* reinforcement plates and swap the stock IRS for a *Ford Racing* 8.8\" rear end with 3.73:1 gears and *Strange Engineering* 35-spline axles."
+  ],
+  "estetica": [
+    "Body Kit: Replace the stock panels with a *RK Sport* widebody kit (carbon fiber fenders, custom front splitter, and rear diffuser) and a *Vortex* carbon fiber hood with a functional ram-air scoop. Add *Aeromotive* side skirts and a *Stillen* GT rear wing (adjustable carbon fiber, 3-position settings).",
+    "Wheels & Stance: Fit *BBS LM-R* 19x10.5\" (front) and 19x12\" (rear) wheels with *Michelin Pilot Sport Cup 2* tires (275/35/19 front, 315/30/19 rear). Lower the car with *Air Lift Performance* 3P management and *AccuAir* E-Level sensors for adjustable ride height, paired with *BC Racing* coilovers (Swift springs, 8K front/10K rear spring rates).",
+    "Interior: Replace the stock seats with *Recaro Pole Position* carbon fiber shells (fixed-back, FIA-approved) and *Schroth* 6-point harnesses. Install a *Sparco* Evo II steering wheel with a *NRG* quick-release hub, and add a *Racepak* IQ3 digital dash with *AEM* wideband O2 sensors for real-time monitoring. Replace the stock shifter with a *MGW* short-throw unit (aluminum, 70mm throw reduction)."
+  ]
+}

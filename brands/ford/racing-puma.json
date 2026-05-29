@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "RACING PUMA",
+  "prestazioni": [
+    "Engine: Ford Zetec SE 1.7L (code: 16V FYJA/FYJB) with forged internals including Mahle Motorsport forged pistons (83.5mm bore, 8.2:1 CR), Eagle H-beam connecting rods, and a steel billet crankshaft (77.8mm stroke) for 2.0L stroker build, paired with a Garrett GT2860RS turbo (0.63 A/R turbine housing) running 1.2 bar boost on a custom tubular manifold by Janspeed Engineering",
+    "Fuel System: Bosch Motorsport 044 high-flow fuel pump, Injector Dynamics ID1000x injectors (1000cc/min), and a Syvecs S6Plus standalone ECU with custom 3D mapping for E85 flex-fuel capability, including a custom 3.5\" intercooler core by Forge Motorsport with billet end tanks and a 50mm charge pipe setup",
+    "Drivetrain & Suspension: Quaife ATB helical LSD in a strengthened Ford MT75 gearbox with a Sachs Racing twin-disc clutch (240mm), paired with Ohlins Road & Track DFV coilovers (22-way adjustable damping, 30mm front/25mm rear drop) and polybushings from SuperPro (part nos. SPF1045K, SPF1046K) for subframe reinforcement, plus a Whiteline front sway bar (24mm adjustable) and rear sway bar (18mm)"
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion by K-Motionz (UK), including extended front fenders (30mm per side), rear quarter panels (50mm per side), and a custom carbon fiber rear diffuser with integrated twin 80mm exhaust outlets (stainless steel system by Milltek Sport, 70mm primary pipes, non-resonated)",
+    "Aero: Custom front splitter by JMS Racing (3D-scanned for Puma chassis, 50mm overhang, 3-stage adjustable) with a carbon fiber rear wing by APR Performance (GT-250 model, 1200mm span, 300mm chord, 3-position wickerbill), paired with carbon fiber side skirts by Seibon and a custom aluminum hood (louvered, 5kg weight reduction) by Auto Power Performance",
+    "Interior: Full Recaro Pole Position seats (cloth/Alcantara, FIA-approved) with Schroth Profi II 6-point harnesses, Momo Prototipo steering wheel (330mm, suede) on a NRG quick-release hub, and a custom roll cage by Safety Devices (FIA-spec, 6-point, bolt-in with harness bar) painted Ford Performance Blue (code: M7363), plus a digital dash by AIM MXS Strada (1.3\" display, CAN bus integration for Syvecs ECU)"
+  ]
+}

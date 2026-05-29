@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "MUSTANG ELEANOR",
+  "prestazioni": [
+    "Engine swap to a Roush Performance-built 5.0L Coyote V8 (engine code: *Roush TVS2300 Supercharged Coyote*), featuring a forged internals kit (Manley H-beam connecting rods, Mahle forged pistons, and a billet crankshaft) with a 9.5:1 compression ratio, paired with a Roush TVS2300 supercharger (12 psi boost) and a custom intercooler setup (VMP Racing dual-core front-mount intercooler with 3.5\" piping).",
+    "Full drivetrain reinforcement with a Tremec TR-6060 6-speed manual transmission (upgraded with a Spec Stage 3+ clutch and billet flywheel), a Ford Performance 8.8\" rear end with 3.73:1 gears, and a Detroit Truetrac limited-slip differential. Suspension overhaul includes a full coilover setup (Ohlins Road & Track DFV dampers with custom valving for Eleanor body geometry) and a Whiteline front sway bar (24mm adjustable) with poly bushings.",
+    "Forced-induction optimization via a custom ECU tune (Lund Racing custom calibration for the Roush TVS2300) with a dual-fuel system (AEM 340lph high-flow fuel pumps, ID1000 injectors, and a Radium Engineering fuel surge tank). Exhaust system features a custom stainless-steel 3\" setup with Borla Pro XS mufflers and long-tube headers (Kooks 1-7/8\" primary tubes with 3\" collectors)."
+  ],
+  "estetica": [
+    "Full carbon fiber body conversion using a *Rocket Bunny V3 Eleanor-specific widebody kit* (with extended fenders, custom front bumper, and rear diffuser), paired with a custom carbon fiber hood (Anderson Composites with a Roush-style heat extractor).",
+    "Interior overhaul with a full Alcantara retrim (Recaro CS Sportster GT seats in black Alcantara with red stitching), a custom roll cage (Autopower bolt-in 6-point cage with harness bar), and a digital dash (AEM CD-7 with custom Eleanor-themed gauge faces).",
+    "Wheel setup featuring *Forgeline GA3R 19x10.5\" (front) and 19x12\" (rear) forged wheels* with a custom offset (ET15 front, ET25 rear) wrapped in Michelin Pilot Sport Cup 2 tires (275/35/19 front, 315/30/19 rear). Aero includes a custom front splitter (VMP Racing carbon fiber) and a GT3-style rear wing (APR Performance GTC-300 with adjustable angle)."
+  ]
+}

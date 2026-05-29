@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "SHELBY GT350R",
+  "prestazioni": [
+    "Engine: Replace the factory 5.2L V8 (Voodoo - FR9) with a Roush Performance CNC-ported cylinder head upgrade (Part #421585) and a custom camshaft profile from Livernois Motorsports (Stage 3 Voodoo camshaft, 248°/254° duration, 0.624\" lift) to optimize airflow for high-RPM power (9,000+ RPM redline retention). Pair with a Kenne Bell 3.6L Mammoth supercharger kit (2.8L pulley, 12-14 PSI boost) and a Fore Innovations 450LPH fuel pump to support 800+ WHP on E85.",
+    "Drivetrain: Install a Tremec TR-9070 7-speed dual-clutch transmission (DCT) conversion kit from G-Force Transmissions, paired with a McLeod RST twin-disc clutch (2,000 lb-ft torque capacity) and a Ford Performance carbon fiber driveshaft to handle increased power. Replace the factory 3.73:1 Torsen differential with a Wavetrac LSD (3.91:1 gear ratio) for improved traction under hard launches.",
+    "Suspension/Handling: Swap the factory MagneRide dampers for a full Öhlins Road & Track DFV coilover kit (Part #DFV 22M401-08) with custom valving for the GT350R’s aluminum-intensive chassis. Install a Whiteline front sway bar (24mm adjustable) and a Hotchkis Sport rear sway bar (22mm) to reduce body roll. Replace the factory bushings with Energy Suspension polyurethane bushings (Part #4.1115R) and add a set of BMR Fabrication tubular front control arms (Part #SBK007) for improved camber adjustability."
+  ],
+  "estetica": [
+    "Aerodynamics: Install a full Rocket Bunny V3 widebody kit (Part #RB-FO001) with carbon fiber overfenders, front canards, and a duckbill rear spoiler. Add a custom front splitter from Anderson Composites (GT350R-specific, 3-piece carbon fiber) and a Verus Engineering rear diffuser (Part #100006) to improve downforce. Replace the factory hood with a Seibon Carbon GT350R hood (Part #CF-FD3S-011-H) with a functional central vent.",
+    "Wheels/Tires: Mount a set of HRE FF01 wheels (20x11 front, 20x12 rear, +30mm front/+45mm rear offset) wrapped in Michelin Pilot Sport Cup 2 R tires (305/30/20 front, 325/30/20 rear) for maximum grip. Pair with Brembo GT 6-piston front calipers (Part #1N3.9800.10) and 2-piece rotors (396mm) for improved braking performance.",
+    "Interior/Exterior: Replace the factory seats with a set of Sparco Pro 2000 seats (Part #008791NRX) and a custom 6-point roll cage from Autopower Industries (Part #APR350R). Add a digital dash from AIM MXS Strada (Part #1.20.03) with a custom GT350R-specific layout. For exterior accents, install a Vorsteiner carbon fiber front grille (Part #VF-1015) and a set of Diode Dynamics SS3 Pro LED headlights with sequential turn signals."
+  ]
+}

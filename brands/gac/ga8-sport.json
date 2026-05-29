@@ -1,0 +1,14 @@
+{
+  "brand": "GAC",
+  "model": "GA8 SPORT",
+  "prestazioni": [
+    "Turbocharger upgrade to a Garrett GT3582R with a 0.82 A/R turbine housing, paired with a custom 3-inch stainless steel downpipe featuring a 200-cell GESI catalytic converter to optimize exhaust flow for the **2.0L TGDI (4B20J1) engine** (stock output: 252 HP / 350 Nm). This setup targets 400 HP at 1.5 bar boost with a supporting fuel system upgrade including Injector Dynamics ID1050x injectors and a Walbro 450 LPH in-tank fuel pump.",
+    "Full Ohlins Road & Track coilover suspension kit (part #DFV-01) with 8-position adjustable compression/rebound damping, custom-valved for the GA8 Sport’s MacPherson strut front and multi-link rear suspension. Includes spherical bearing top mounts (SuperPro SPF6001K) to eliminate compliance and a 25mm front / 20mm rear Whiteline adjustable sway bar kit (part #BKR97X) for reduced body roll.",
+    "Standalone ECU reflash via a Link G4+ Xtreme with a custom calibration for the 4B20J1 engine, incorporating a 3.5-bar MAP sensor, AEM X-Series wideband O2 sensor (part #30-0334), and a custom intercooler piping kit with a PWR 550mm x 300mm x 100mm bar-and-plate intercooler (part #IC-GA8-01) to reduce intake temps by 40°C under full boost."
+  ],
+  "estetica": [
+    "Full Rocket Bunny Pandem GA8 Sport widebody kit (part #RB-GA8-01) with carbon fiber front fenders, rear quarter panels, and a duckbill rear spoiler. Includes custom 3D-printed ABS wheel arches to accommodate 9.5x19 ET35 front and 10.5x19 ET40 rear Work Emotion CR Kiwami wheels (part #CR29) in a matte gunmetal finish with 245/35R19 and 275/30R19 Michelin Pilot Sport Cup 2 tires.",
+    "Custom front bumper lip splitter from Seibon Carbon (part #GA8-FL-01) with integrated canards and a 3D-printed aluminum undertray for improved aerodynamics. Rear diffuser from Varis Japan (part #VAR-GA8-01) with dual 3.5-inch titanium exhaust tips from Akrapovic (part #AK-GA8-TI) for a 20% weight reduction over stock.",
+    "Full interior overhaul with Recaro Pole Position seats (part #RPP-GA8) in Alcantara and red stitching, paired with a custom roll cage from Custom Cages (part #CC-GA8-01) featuring a 6-point harness bar and bolt-in X-brace for chassis rigidity. Shift knob replaced with a titanium MOMO Prototipo (part #625.11T) and a custom carbon fiber gauge pod housing AEM X-Series digital gauges (part #30-0300, 30-5131)."
+  ]
+}

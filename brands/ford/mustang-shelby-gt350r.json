@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "MUSTANG SHELBY GT350R",
+  "prestazioni": [
+    "Engine: Ford Coyote 5.2L V8 (Voodoo) with flat-plane crank (engine code: V8-5.2L FP), upgraded with a Roush Performance TVS2650 supercharger kit (12 psi boost, 800+ HP) paired with a custom Livernois Motorsports ported cylinder head and high-flow fuel system featuring ID1000x injectors and a Fore Innovations dual-catch can setup for PCV management.",
+    "Drivetrain: Tremec TR-3160 6-speed manual transmission reinforced with a Spec Stage 4+ twin-disc clutch and aluminum flywheel, mated to a Ford Performance carbon fiber driveshaft and a Quaife ATB helical LSD (3.73:1 ratio) for optimized power delivery to the rear wheels.",
+    "Suspension & Handling: Full Öhlins Road & Track DFV coilover system (2-way adjustable dampers) with custom valving for the GT350R’s MagneRide chassis, paired with Brembo GT 6-piston front/4-piston rear brake calipers (394mm front rotors) and Pagid RS29 brake pads. Chassis reinforcement via a Ford Performance strut tower brace and a Cusco front lower X-brace for rigidity."
+  ],
+  "estetica": [
+    "Aerodynamics: Rocket Bunny V3 widebody kit (carbon fiber fenders, front bumper, and rear diffuser) with a custom 3D-printed GT350R-specific rear wing (carbon fiber, 30% more downforce than stock) and a Vortex Generator carbon fiber hood (functional heat extractors).",
+    "Wheels & Tires: HRE FF104SC wheels (20x11 front, 20x12 rear) in matte bronze with Michelin Pilot Sport Cup 2 R tires (305/30 front, 325/30 rear) for track-focused grip, paired with a custom Forgeline wheel spacer kit (15mm front, 25mm rear) for aggressive stance.",
+    "Exterior & Interior: Full 3M Matte Military Green wrap with satin black accents (mirrors, grille, and side skirts), custom LED taillight delete with smoked lenses, and a Recaro SPG XL seat upgrade (carbon fiber shells) with Schroth Profi II 6-point harnesses. Engine bay features a custom carbon fiber intake manifold cover (Voodoo-specific) and a titanium bolt kit from ARP."
+  ]
+}

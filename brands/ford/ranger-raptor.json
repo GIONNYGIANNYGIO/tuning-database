@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "RANGER RAPTOR",
+  "prestazioni": [
+    "Engine: 3.0L EcoBoost V6 (PTA) with a custom BorgWarner EFR 9280 turbo upgrade (68mm compressor, 80mm turbine, 1.05 A/R housing) paired with a PTP Turbo Manifold (304 stainless steel, equal-length runners) and a full titanium 3.5\" exhaust system by Armytrix (valved, dual-mode, with 304 stainless steel tips).",
+    "Fuel System: Injector Dynamics ID1700x fuel injectors (1,700cc/min) with a Radium Engineering dual fuel pump hanger (supporting E85) and a Motec M150 ECU (standalone, with custom calibration for 35psi base fuel pressure and 45psi peak boost).",
+    "Suspension: Öhlins TTX46 2-way adjustable coilovers (remote reservoirs, 300mm travel, custom valving for desert racing) with Fox Racing Shox 2.5\" bypass shocks (external reservoirs, 14-position compression adjusters) and a custom-fabricated aluminum front sway bar (28mm solid, adjustable end links by Whiteline)."
+  ],
+  "estetica": [
+    "Body Kit: Rocket Bunny Ranger Raptor widebody kit (Pandem Design, carbon fiber fenders, front/rear bumpers, and side skirts) with a custom carbon fiber hood (vented, 3-piece construction by Seibon Carbon).",
+    "Wheels: HRE FF01 wheels (18x10.5 +15 front, 18x11 +25 rear, forged 3-piece, matte bronze finish) wrapped in BFGoodrich KM3 tires (35x12.50R18 front, 35x13.50R18 rear, 6-ply rating).",
+    "Lighting: Baja Designs Squadron Pro LED light pods (50\" curved light bar, amber/yellow combo) with custom aluminum mounts (integrated into the front bumper) and a Diode Dynamics SS3 Pro LED fog light upgrade (DRL mode, 6000K color temp)."
+  ]
+}

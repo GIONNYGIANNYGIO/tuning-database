@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "MUSTANG 5.0 GT",
+  "prestazioni": [
+    "Engine: Coyote 5.0L V8 (Aluminator XS crate engine, code: M-6007-M50A) with forged internals, 12.0:1 compression, ported CNC heads, and a custom Livernois Motorsports Stage 3 camshaft (236°/244° duration, 0.610\" lift) paired with a Whipple 3.0L Gen 5 supercharger (12 psi boost) and a Ford Performance 80mm throttle body for 750+ hp at the wheels on E85.",
+    "Drivetrain: Tremec TR-9070 7-speed dual-clutch transmission with a McLeod RST twin-disc clutch (3.5\" diameter, 6 puck) and a Ford Performance 3.73:1 Torsen differential with billet aluminum differential cover and ARP studs for reduced deflection under load.",
+    "Suspension & Handling: Full KW Suspensions Clubsport coilover kit (3-way adjustable, 24-way rebound, 16-way compression) with spherical bearing top mounts, Eibach ERS 26mm front and 24mm rear sway bars, and a Steeda Sport Mustang front strut tower brace (705-0000-A) for chassis rigidity. Brembo GT 6-piston front (390mm rotors) and 4-piston rear (360mm rotors) big brake kit with Ferodo DS2500 pads for track use."
+  ],
+  "estetica": [
+    "Aero: Anderson Composites widebody kit (Mustang GT-specific, 2018-2023) with carbon fiber front splitter, side skirts, and rear diffuser, paired with a Vortex Generation V2 rear wing (60\" span, 8° angle) for 300+ lbs of downforce at 120 mph.",
+    "Wheels & Stance: Forgeline GA1R 20x10.5\" (front) and 20x11\" (rear) wheels with a 5x114.3 bolt pattern, wrapped in Michelin Pilot Sport Cup 2 R tires (295/30R20 front, 315/30R20 rear) on a 30mm front and 20mm rear H&R lowering kit for aggressive fitment.",
+    "Exterior & Lighting: Full 3M Matte Military Green wrap with gloss black accents, Diode Dynamics SS3 Pro LED headlights (sequential turn signals, 5,000-lumen output), and a custom Borla Atak cat-back exhaust system (3.5\" stainless steel tips, quad outlets) with an X-pipe and JBA headers (1-7/8\" primary tubes, 3\" collectors) for a deep, aggressive tone."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "MUSTANG COBRA R",
+  "prestazioni": [
+    "Engine: 5.8L V8 (Windsor-based, Ford *GT40* block, 94mm bore, 105.7mm stroke, forged crankshaft, forged H-beam connecting rods, forged Mahle pistons, 9.6:1 compression ratio) – Full rebuild with *JE Pistons* 2618 alloy forged slugs (9.5:1 CR for boost), *Manley* 4340 steel connecting rods, and *Crower* billet crankshaft for 8,000 RPM reliability. Ported and polished *Edelbrock* Victor Jr. intake manifold with *Accufab* 90mm throttle body and *BBK* 30 lb/hr fuel injectors for E85 compatibility.",
+    "Forced Induction: *Garrett GT4202R* turbocharger (88mm inducer, .96 A/R turbine housing) on a custom *Hellion Power Systems* tubular manifold, paired with a *TurboSmart* 60mm wastegate and *Tial* 50mm blow-off valve. *Precision Turbo* 46mm external wastegate dump tube for optimal flow. *Aeromotive* A1000 fuel pump with *Radium Engineering* dual feed fuel rails and *ID1000* injectors for 1,000+ HP capability on E85.",
+    "Drivetrain & Handling: *Tremec TR-3550* 5-speed manual transmission with *McLeod* RST twin-disc clutch (3.5-inch hub, 2,600 lb clamp load) and *Ford Racing* 3.73:1 Torsen differential. *BMR* tubular K-member, *Maximum Motorsports* subframe connectors, and *Eibach* ERS coilovers (800 lb/in front, 600 lb/in rear) with *Whiteline* adjustable sway bars (27mm front, 24mm rear). *Brembo* GT 6-piston front calipers with 14-inch rotors and *Hawk* HT-10 brake pads for endurance track use."
+  ],
+  "estetica": [
+    "Aero: *Rocket Bunny* V1 widebody kit (2003-2004 Cobra R-specific, carbon fiber front splitter, rear diffuser, and overfenders) with *AIT Racing* carbon fiber hood (50 lbs weight reduction). *Vortex Generators* on the roof and *Seibon* carbon fiber trunk lid for downforce optimization. *VMR* V710 18x10.5 ET25 wheels (front) and 18x12 ET45 (rear) with *Toyo R888R* 275/35/18 and 315/30/18 tires.",
+    "Exterior: *PPG* Ford Performance Red (Code: M7083) with *3M* matte black vinyl wrap on the roof, mirrors, and rear valance. *Depo Racing* 2003 Cobra R-style headlights with *Morimoto* HID projectors and *Diode Dynamics* LED taillights. *APR Performance* GT-250 rear wing (carbon fiber, 60-inch span) with *AeroCatch* quick-release mounts.",
+    "Interior: *Recaro* SPG XL seats (90s JDM-spec, red Alcantara with black leather bolsters) mounted on *Corbeau* GT II seat rails. *Momo* Prototipo steering wheel (350mm, suede) with *NRG* quick-release hub. *Defi* BF Advance gauges (boost, oil pressure, fuel pressure) in a *Pillar Pods* A-pillar mount. *Rollcage:* *Chassisworks* 8-point bolt-in cage (chrome-moly, NHRA-certified) with *Sparco* 6-point harnesses."
+  ]
+}

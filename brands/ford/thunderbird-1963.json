@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "THUNDERBIRD 1963",
+  "prestazioni": [
+    "Engine swap to a Ford FE-series 427 SOHC 'Cammer' (engine code: 427 SOHC) with forged internals including Manley 4340 steel connecting rods, JE 12.5:1 forged pistons, and a custom billet crankshaft by Callies Performance. Pair with a Hilborn mechanical fuel injection system (PN: 426-1) and a custom-ground camshaft by Crane Cams (PN: 348821) with 0.600\" lift and 280° duration for high-RPM power.",
+    "Forced induction via a Precision Turbo PT6266 CEA turbocharger (PN: PT6266CEA) with a custom T4 divided exhaust housing, paired with a Turbosmart Race Port 50mm wastegate (PN: 50mm-RP) and a custom air-to-water intercooler setup using a PWR North America core (PN: PWI-1000). Fueling handled by a set of eight ID1000x injectors (PN: ID1000x) and an Aeromotive A1000 fuel pump (PN: 11101).",
+    "Chassis reinforcement with a Total Control Products (TCP) gusseted front subframe (PN: TCP-63TB-FG) and a custom 4-link rear suspension with Ridetech HQ Series coilovers (PN: 1124900) and a Currie Enterprises 9\" nodular iron third member (PN: CE-9N) with 4.11:1 gearing and a Detroit Locker differential (PN: 225SL). Braking upgraded to Wilwood 6-piston front calipers (PN: 140-11023) with 13\" rotors and 4-piston rear calipers (PN: 140-11024) with 12\" rotors, paired with Ferodo DS2500 brake pads (PN: FDB1617)."
+  ],
+  "estetica": [
+    "Full custom bodywork by Ringbrothers with hand-formed aluminum front fenders, hood, and trunk lid, featuring a one-off grille with billet aluminum mesh by Billet Specialties (PN: 40000). Rear quarter panels widened 2\" per side to accommodate the 18x9.5\" and 18x12\" BBS RS-GT wheels (PN: RS-GT 2080) with custom offsets and Nitto NT05 tires (275/35/18 front, 315/30/18 rear).",
+    "Interior reupholstered in custom diamond-stitched black and red leather by Katzkin (PN: KAT-63TB-CUST), featuring a full roll cage by Chassisworks (PN: CWA-63TB) with integrated harness bar and Schroth Profi II 6-point harnesses (PN: 85450). Dashboard restored with a custom gauge cluster by Classic Instruments (PN: CI-63TB) featuring VDO 52mm speedometer and tachometer, and a MoTeC C127 dash logger (PN: C127-00-00).",
+    "Exterior lighting upgraded to Hella 7\" LED headlights (PN: 1A6 007 990-001) with custom billet aluminum buckets by United Pacific (PN: 90105), and sequential LED taillights by Dapper Lighting (PN: DL-63TB-SEQ). Paintwork in a custom-mixed PPG Deltron DBC basecoat (color code: 928-42983) with a matte clearcoat by House of Kolor (PN: SHC-8000)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "RANGER DAKAR",
+  "prestazioni": [
+    "Engine: 3.0L EcoBlue Bi-Turbo Diesel (Puma engine code: Panther 3.0L) – Full hybrid turbo upgrade with Garrett GTX4202R (60mm compressor, 76mm turbine) and BorgWarner EFR 8374 (80mm, 1.05 A/R) sequential setup for 450+ hp and 800Nm torque, paired with a custom 3.5-inch stainless steel exhaust system featuring dual 4-inch side-exit outlets (MagnaFlow 19305) and a secondary bypass valve for backpressure control.",
+    "Fuel System: Full Bosch Motorsport CP4.2 high-pressure fuel pump (2,200 bar) with 10-hole 350cc injectors (Denso G4S) and a supplementary port-injection kit (Fuelab 55022) for E85 compatibility, managed via a standalone ECU (Motec M150) with custom CAN bus integration for the 10-speed automatic transmission (ZF 8HP75) to enable flat-shift and launch control.",
+    "Suspension & Chassis: Full Ohlins TTX46 coilover kit (24-way compression, 22-way rebound) with remote reservoirs, paired with a Dakar-spec anti-roll bar (Eibach Pro-Street Sway Bars, 32mm front, 28mm rear) and a custom triangulated four-link rear suspension setup (Currie Enterprises 9-inch housing with 35-spline axles) for desert rally compliance. Front and rear bump stops upgraded to Hyperco 2.5-inch springs with 400 lb/in rate."
+  ],
+  "estetica": [
+    "Aero: Full custom Dakar-inspired widebody kit (RTR Vehicles 'Ranger Dakar Prototype' fiberglass overlay) with integrated carbon fiber front splitter (Seibon CFRP, 3-piece modular) and a rear diffuser (Aeroflow Dynamics, 5-element design) for high-speed stability. Roof-mounted air intake snorkel (Safari Snorkel, stainless steel) with a carbon fiber heat shield (PWR Performance).",
+    "Lighting: Full Baja Designs Squadron Pro LED light bar (50-inch, 40,000 lumens) with custom aluminum mounting brackets (Rigid Industries) and auxiliary ditch lights (PIAA LP570, amber fog pattern). Rear work lights replaced with Baja Designs S2 Pro (10,000 lumens each) in a dual-row configuration.",
+    "Exterior Trim: Full matte military green wrap (3M 1080 M226) with custom 'Dakar' livery (vinyl decals by StickerBomb UK) and ceramic coating (Gyeon Quartz Ceramic Coating, 9H hardness). Front grille replaced with a custom mesh insert (Rally Innovations, 3mm aluminum) and side steps removed in favor of rock sliders (ARB Summit 4x4, powder-coated black)."
+  ]
+}

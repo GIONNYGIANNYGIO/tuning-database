@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "MUSTANG SVT COBRA",
+  "prestazioni": [
+    "Engine: 4.6L DOHC 32V Modular V8 (engine code: *WAP*), forged internals upgrade with Manley H-beam connecting rods (PN: 14095-8) and Mahle Motorsport forged pistons (PN: 59330) for 11.5:1 compression, paired with a custom camshaft grind from Comp Cams (PN: 143100-16, 236°/244° duration, 0.600\" lift) for optimized high-RPM power in the 6,500-7,500 RPM range.",
+    "Forced Induction: Garrett GTX3582R Gen II turbocharger (0.82 A/R turbine housing, 62mm compressor wheel) with a custom Precision Turbo & Engine wastegate (PN: 8265000001, 44mm) and TiAL MV-R 50mm blow-off valve, feeding into a custom Spearco intercooler (PN: 4000) with 3.5\" charge piping and Vibrant Performance silicone couplers (PN: 16720).",
+    "Fuel & Ignition: Full return-style fuel system with Aeromotive A1000 fuel pump (PN: 11101), Injector Dynamics ID1000 fuel injectors (PN: ID1000), and a Holley Dominator ECU (PN: 554-111) with custom tuning via HP Tuners software, paired with MSD 8.5mm Super Conductor spark plug wires (PN: 31189) and NGK Iridium IX spark plugs (PN: 7132, gap set to 0.030\")."
+  ],
+  "estetica": [
+    "Body Kit: Rocket Bunny V3 widebody conversion kit (PN: RB-FO020) with carbon fiber front fenders, rear quarter panels, and a custom 3M Matte Military Green wrap (PN: 1080-M227) with satin black accents on the hood scoop and rear diffuser.",
+    "Suspension: Ohlins Road & Track coilovers (PN: DFV 02-KA0037, front) and DFV 02-KA0038 (rear), paired with Whiteline adjustable sway bars (PN: BMR78X, 24mm front / BMR90X, 22mm rear) and Energy Suspension polyurethane bushings (PN: 4.1104G for control arms, 4.5104G for subframe).",
+    "Wheels & Brakes: Rotiform LAS-R 19x10.5\" (front) and 19x12\" (rear) wheels with Nitto NT05R tires (275/35/19 front, 315/30/19 rear), paired with Brembo GT 6-piston front calipers (PN: 1N3.595V) and 4-piston rear calipers (PN: 1N3.596V) with DBA 5000 Series rotors (PN: 52610XS for front, 52611XS for rear)."
+  ]
+}

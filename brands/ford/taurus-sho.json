@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "TAURUS SHO",
+  "prestazioni": [
+    "Upgrade the 3.5L EcoBoost V6 (engine code: *CYL*) with a *Garrett GTX3582R* turbocharger (1.06 A/R, 62mm compressor wheel) paired with a *PTP Turbo Smart 45mm wastegate* to handle 22 psi of boost, targeting 550whp on E85 with a *Cobb Accessport* Stage 3+ tune (custom map by *Stratified Automotive Controls*).",
+    "Install a *PRL Motorsports* high-flow intercooler kit (3.5\" core, 1000cfm capacity) with *Mishimoto silicone couplers* and a *VRSF 4\" downpipe* (catless, 304 stainless steel) to eliminate turbo lag and reduce intake temps by 40°F under full load.",
+    "Replace the stock fuel system with *Injector Dynamics ID1050x* injectors (1050cc/min), a *Walbro 450 LPH* in-tank pump, and a *Radium Engineering* dual catch-can setup (PCV/CCV separation) to prevent oil dilution in the *Getrag 6DCT450* transmission, which should be reinforced with a *RevMax Stage 3 torque converter* (3,500 RPM stall) and *PRL Motorsports* trans cooler."
+  ],
+  "estetica": [
+    "Fit a *3D Carbon* widebody kit (Type-R style, 2.5\" flares) with *Rocket Bunny* side skirts and a *Seibon Carbon* hood (dual vented, 50% weight reduction) to accommodate the turbo setup while improving aerodynamics.",
+    "Install *Ohlins Road & Track* coilovers (DFV damping, 2-way adjustable) with *Eibach Pro-Kit* springs (1.5\" drop) and *Whiteline* front/rear sway bars (24mm front, 22mm rear) to eliminate body roll, paired with *Brembo GT* 6-piston calipers (380mm rotors) for stopping power.",
+    "Replace the stock wheels with *Forgeline GA3R* 20x10.5\" ET35 (front) and 20x11.5\" ET40 (rear) in *Bronze* finish, wrapped in *Michelin Pilot Sport Cup 2* tires (275/30/20 front, 305/25/20 rear) for maximum grip, and add *AEM* water/methanol injection (dual-nozzle, 50/50 mix) for cooling under track conditions."
+  ]
+}

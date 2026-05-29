@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "SIERRA RS COSWORTH",
+  "prestazioni": [
+    "Engine: YBB (Cosworth YB) with forged internals including Mahle Motorsport 94mm forged pistons, Eagle H-beam connecting rods, and a billet crankshaft from Cosworth Engineering, supporting 1.5-bar boost levels and 600+ HP with methanol injection",
+    "Turbocharger: Garrett GTX4202R with a custom 0.82 A/R turbine housing and 62mm billet compressor wheel, paired with a Tial MV-R 44mm external wastegate and custom 3.5-inch stainless steel downpipe",
+    "Fuel System: Full sequential Bosch Motorsport 0280158032 injectors (1,200cc), Walbro 450 LPH in-tank pump, and a custom fuel rail with AN-6 fittings, controlled by a Syvecs S8 ECU with flex-fuel capability and launch control"
+  ],
+  "estetica": [
+    "Widebody conversion: Kamei RS Cosworth-specific widebody kit with extended front fenders (30mm per side) and rear quarter panels (50mm per side), paired with custom carbon fiber front splitter and rear diffuser from RW Carbon",
+    "Suspension: Ohlins Road & Track DFV coilovers with 24-way adjustable damping, custom-valved for the Sierra’s MacPherson strut front and multi-link rear, paired with polybushings from SuperPro (part numbers SPF1025K and SPF1026K)",
+    "Aero: Custom rear wing based on the Ford C100 Group C prototype, fabricated in carbon fiber with a 3D-printed aluminum wing mount, adjustable in 5-degree increments, and a custom front canard set from APR Performance (part number GT-250)"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "MUSTANG BULLITT",
+  "prestazioni": [
+    "Engine: 5.0L Coyote V8 (Code: *FR3MN*) with a *Livernois Motorsports Stage 3+ CNC Ported Cylinder Heads* (intake flow increased to 345 CFM, exhaust flow to 250 CFM) paired with *Ferrea Racing F5000 Series Valves* (intake: 1.460\", exhaust: 1.220\") and *Comp Cams XFI 280 LS3+ Camshafts* (280°/286° duration, 0.612\"/0.617\" lift, 114° LSA) for a 7,000 RPM powerband",
+    "Forced Induction: *ProCharger P-1SC-1 Supercharger* (8-rib drive, 10 psi max boost) with a *VMP Performance Coyote-Specific Intercooler* (1,200 HP capacity, 4.5\" thick core) and *Injector Dynamics ID1300X* fuel injectors (1,300 cc/min) fed by a *Walbro 450 LPH In-Tank Fuel Pump* and *Fore Innovations F2i Fuel System* (dual internal pumps, -8AN feed/return)",
+    "Drivetrain: *Tremec TR-6060 Magnum XL 6-Speed Manual Transmission* with a *Spec Stage 3+ Clutch* (triple-disc, 800 ft-lb torque capacity) and *Ford Performance 3.73:1 Torsen Differential* (Bullitt-specific housing) paired with *Driveshaft Shop Carbon Fiber Driveshaft* (1350 series, 1,000 HP rated)"
+  ],
+  "estetica": [
+    "Aero: *Rocket Bunny V3 Widebody Kit* (Bullitt-specific front bumper, carbon fiber fenders with 2\" flares, and a *GT350R-style rear diffuser* with integrated *APR Performance GTC-300 Adjustable Wing* (60\" span, 300mm chord, 3D-printed titanium endplates)",
+    "Wheels: *HRE FF01 Forged Monoblock Wheels* (19x10.5\" front, 19x12\" rear, +25mm offset, 20 lbs each) wrapped in *Michelin Pilot Sport Cup 2 R* tires (275/35/19 front, 315/30/19 rear) with *Brembo GT 6-Piston Calipers* (40mm rotors, Bullitt-specific red paint) and *Pagid RS29 Brake Pads*",
+    "Exterior: *3M Matte Dark Olive Green Wrap* (Bullitt Heritage Edition color match) with *Vinyl Lab Carbon Fiber Hood* (OEM-style louvered vents, 50% weight reduction) and *Seibon Carbon Fiber Trunk Lid* (dual ducktail spoiler, OEM-style badge delete)"
+  ]
+}

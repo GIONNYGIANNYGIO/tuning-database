@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "PINTO SPORT",
+  "prestazioni": [
+    "Engine swap to a Ford 2.3L Lima I4 (engine code: *2300*) with a custom billet crankshaft from *Crower* (86mm stroke) and forged *Manley* H-beam connecting rods paired with *JE* 9.5:1 compression pistons for a 2.5L stroker build. Turbocharged with a *Garrett GT3582R* (0.82 A/R turbine housing) on a custom *Tial* 44mm wastegate, feeding into a *Spearco* front-mount intercooler (FMIC) with a 3.5\" core and *Vibrant* silicone couplers.",
+    "Custom *Holley* Sniper EFI system with a *Megasquirt MS3Pro* standalone ECU, tuned via *TunerStudio* for E85 fuel with a *Walbro 450 LPH* in-tank pump and *ID1000* injectors. Exhaust system features a *Stainless Works* 4-2-1 header with 1.75\" primaries, merging into a *Borla* 3\" cat-back with a straight-pipe resonator delete for maximum flow.",
+    "Suspension overhaul with *QA1* double-adjustable coilovers (2.5\" drop) and *Global West* tubular control arms with poly bushings. Rear end reinforced with a *Currie Enterprises* 9\" housing, *Strange* 31-spline axles, and a *Detroit Locker* differential. Braking upgraded to *Wilwood* 4-piston calipers with 12.19\" rotors up front and *Baer* 2-piston calipers with 11.75\" rotors in the rear, paired with *Hawk HPS* pads."
+  ],
+  "estetica": [
+    "Full *Rocket Bunny* V1 widebody kit (Pinto-specific) with custom carbon fiber fenders, front splitter, and rear diffuser. Hood replaced with a *Fiberglass Trends* 3\" cowl induction unit, painted in *PPG Concept Black* with a *3M* matte clear coat.",
+    "Custom *Recaro* SRD seats (Pinto-specific mounting brackets) upholstered in *Alcantara* with *Sparco* 6-point harnesses. Interior stripped and seam-welded with a *Custom Cages* 6-point roll bar, painted in *Porsche GT3 Green* for contrast. Steering wheel replaced with a *NRG* 13.5\" suede wheel on a *Ididit* quick-release column.",
+    "Exterior lighting upgraded to *Morimoto* XB LED headlights with *Diode Dynamics* sequential turn signals. Wheels are *Rotiform* LAS-R 15x8 (ET0) in the front and 15x9 (ET-12) in the rear, wrapped in *Nitto* NT01 tires (205/50/15 front, 225/50/15 rear). Full *VHT* Flameproof black undercoating with *Duraflex* wheel well liners."
+  ]
+}

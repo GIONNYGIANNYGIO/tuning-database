@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "MUSTANG MACH 1",
+  "prestazioni": [
+    "Engine: Coyote 5.0L V8 (code: *TVS-5.0L-V8*, Gen 3 variant with 460 HP stock) – Full forged internals upgrade with Manley 4340 forged crankshaft (stroke increased to 98mm), Manley I-beam connecting rods (H-beam for high-RPM stability), and Mahle Motorsport forged pistons (11.5:1 compression ratio, coated skirts for thermal efficiency). Paired with a custom billet oil pump from Melling for 30% increased flow to support 8,500 RPM redline.",
+    "Forced Induction: Twin-turbo setup using Garrett GTX5533R Gen II turbos (88mm compressor wheels, 1.15 A/R turbine housings) with TiAL MV-R 60mm wastegates and TiAL Q 50mm blow-off valves. Custom intercooler system by CSF Racing with a 4.5\" thick core (1,200 HP capacity) and dual 4\" silicone charge pipes reinforced with aluminum mandrel bends. Methanol injection via Snow Performance Stage 3 kit with dual 1000cc injectors targeting 30 PSI boost.",
+    "Drivetrain & Handling: Tremec TR-9070 7-speed dual-clutch transmission with a McLeod RST twin-disc clutch (ceramic puck, 1,200 lb-ft torque capacity). Rear differential upgraded to Ford Performance 9\" with 3.73:1 gears, ARP studs, and a Detroit Truetrac LSD. Suspension overhaul with Öhlins Road & Track DFV coilovers (24-way adjustable damping, 20mm adjustable ride height), Eibach ERS front and rear sway bars (28mm front, 25mm rear), and polyurethane bushings from Energy Suspension (full subframe and control arm refresh)."
+  ],
+  "estetica": [
+    "Aerodynamics: Full Rocket Bunny V3 widebody kit (S550-specific, carbon fiber front splitter, rear diffuser, and overfenders with 3\" extended wheel arches). Custom carbon fiber hood from Anderson Composites with dual functional heat extractors and a 2\" cowl scoop for intercooler ducting. Rear wing: APR Performance GTC-300 (adjustable angle, 3D-printed carbon fiber endplates).",
+    "Wheels & Stance: Forged 20x10.5\" (front) and 20x12\" (rear) Rotiform LAS-R wheels with a 5x114.3 bolt pattern, ET +15 (front) and ET -12 (rear) offsets, wrapped in Michelin Pilot Sport Cup 2 R tires (285/30/20 front, 325/25/20 rear). Air Lift Performance 3P management with AccuAir ENDO-CVT tanks for adjustable ride height (flush fitment at -2.5° camber front, -1.8° rear).",
+    "Exterior & Lighting: Full custom paint in BASF Glasurit 90-Line 'Lime Gold' with a satin clear coat. Front end: Morimoto XB LED headlights (black housing, 5,500K color temp) with Diode Dynamics SS3 sequential turn signals. Rear: Sequential taillights from Mustang6G with smoked lenses and integrated LED reverse lights. Side markers: Oracle Lighting RGB LED sequential side markers with Bluetooth control via their app."
+  ]
+}

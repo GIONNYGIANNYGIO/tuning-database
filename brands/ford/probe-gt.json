@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "PROBE GT",
+  "prestazioni": [
+    "F2 2.2L Turbo (FS) engine code: Full forged internals with Manley 87mm forged pistons, Eagle H-beam connecting rods, and a billet crankshaft (86mm stroke) for 12.5:1 compression, paired with a Garrett GT3076R turbocharger (0.82 A/R turbine housing) and Tial MV-R 44mm external wastegate for 28psi peak boost on E85 fuel",
+    "Custom Motec M150 ECU with full flex-fuel mapping, dual Bosch 028 high-flow fuel pumps, and ID1000x injectors (1000cc/min), alongside a custom 3.5-inch stainless steel intercooler piping system with a GReddy Type-R front-mount intercooler (600hp capacity) and HKS SSQV4 blow-off valve",
+    "Full drivetrain reinforcement: OS Giken Super Lock LSD (2.5-way) in the T-60 5-speed transmission, Spec Stage 4+ clutch with billet flywheel, and a custom 3.73:1 final drive ratio with Ford 8.8-inch rear end (Torsen differential) and custom axles from The Driveshaft Shop (3.5-inch chromoly)"
+  ],
+  "estetica": [
+    "Vertex Japan Edge widebody kit (Probe GT-specific, 3-piece front fenders, rear quarter panels, and rear bumper) with custom carbon fiber overfenders (1.5-inch wider track front/rear) and Rocket Bunny GT-spec side skirts",
+    "Custom front splitter (carbon fiber, 3D-scanned for Probe GT chassis) with integrated canards (Seibon CF) and a custom 2-piece carbon fiber rear wing (Voltex Type-5, 1700mm width) mounted on custom aluminum pedestals (adjustable angle: 5-25 degrees)",
+    "Full custom interior: Bride Zeta III bucket seats (FRP shell, FIA-approved) with custom 6-point harnesses (Schroth Profi II), custom roll cage (Chromoly 4130, 8-point with gusseted rear strut tower braces), and a custom carbon fiber dashboard overlay (replacing stock gauges with Defi Advance BF series 60mm gauges: boost, oil temp, fuel pressure, and wideband AFR)"
+  ]
+}

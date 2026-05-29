@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "PUMA RACING",
+  "prestazioni": [
+    "Engine: Ford EcoBoost 1.0L (Fox GTDI, engine code: M1JA) with a custom BorgWarner EFR 7670 turbocharger (0.83 A/R turbine housing) and a Pumaspeed Stage 3 hybrid turbo kit, including a bespoke Garrett GT2860RS compressor wheel for 350+ HP on E85 fuel with a Motec M150 ECU managing direct port injection and sequential ignition timing.",
+    "Suspension: Öhlins Road & Track DFV coilovers (Ford Puma Racing-specific valving) with adjustable camber plates (0.5° to -3.5° front, -1.0° to -2.5° rear) and polybushings from SuperPro (part #SPF1002K) for subframe reinforcement, paired with Eibach Pro-Spacer 15mm wheel spacers (hub-centric, 5x108 PCD).",
+    "Drivetrain: Quaife ATB helical LSD (QDF7ZC-3000-AA) with a Sachs Performance dual-mass flywheel (clutch kit: Sachs Performance 3000 955 001) and a custom 6-speed MTX-75 gearbox with a short-shift kit from Mountune (part #M26001) and a 3.92 final drive ratio for optimized acceleration."
+  ],
+  "estetica": [
+    "Aerodynamics: Custom carbon fiber widebody kit from Prior Design (PD-FPUMA-WB) with a 30mm extended rear quarter panels, integrated rear diffuser (Prior Design PD-FPUMA-DIFF), and a front splitter with adjustable dive planes (Prior Design PD-FPUMA-SPLIT).",
+    "Wheels: BBS FI-R 18x9.5 ET35 (front) and 18x10.5 ET38 (rear) in Gloss Black with Michelin Pilot Sport Cup 2 tires (235/40/18 front, 265/35/18 rear) and custom center caps featuring the Ford Performance logo in red.",
+    "Exterior Details: Full de-chrome with Lamin-X clear protective film on headlights, custom carbon fiber side mirrors (Seibon CF-PUMA-MIRROR), and a custom livery by Driftworks featuring Ford Racing Blue (Ford paint code: M7483) with matte black accents and red pinstriping."
+  ]
+}

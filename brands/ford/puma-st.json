@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "PUMA ST",
+  "prestazioni": [
+    "ECU remap targeting the **EcoBoost 1.5L (Dragon) I3 (engine code: JQMA/JQMB)** with a **Mountune MP275 upgrade**, optimizing boost pressure to 24 psi (from stock 20 psi) and adjusting ignition timing for 275 HP (up from 197 HP) while maintaining 98 RON fuel compatibility. Includes a **Cobb Accessport V3** for real-time monitoring of AFR, knock, and turbo efficiency.",
+    "Full **TurboSmart Comp-Gate40** external wastegate with **38mm Inconel valve** to replace the stock internal wastegate, paired with a **Garrett GT2056S turbocharger** (hybridized with a **BorgWarner EFR compressor wheel**) for reduced lag and a 300 HP ceiling. Custom **3-inch stainless steel downpipe** with **Vibrant 1799 resonated flex section** to eliminate turbo flutter.",
+    "High-flow **Injector Dynamics ID1050x** fuel injectors (1050cc/min) with **Radium Engineering fuel rail** and **Walbro 450 LPH in-tank fuel pump**, supported by a **Syvecs S6Plus standalone ECU** for full flex-fuel (E85) capability. **PWR Performance intercooler** (5.5L core volume) with **Mishimoto silicone couplers** and **Tial Q 50mm BOV** for consistent intake temps under repeated boost cycles."
+  ],
+  "estetica": [
+    "**RML Short Shift Kit** with **OMP carbon-fiber shift knob** to reduce throw by 35% while maintaining stock shift feel. **AP Racing CP9660 front brake calipers** (6-piston) with **DBA 5000 Series rotors** (356mm x 32mm) and **Ferodo DS2500 pads**, paired with **Goodridge G-Stop braided stainless steel brake lines**.",
+    "**Seibon Carbon CS-II dry carbon fiber hood** (12kg weight reduction) with **custom NACA ducts** to direct airflow to the **PWR intercooler**. **Rocket Bunny V3 widebody kit** (flares extended 30mm per side) with **custom-fabricated aluminum fender liners** to accommodate **OZ Racing Ultraleggera HLT 18x8.5 ET35 wheels** wrapped in **Michelin Pilot Sport Cup 2 R (235/40/18)** for optimal track grip.",
+    "**Milltek Sport 3-inch cat-back exhaust** with **titanium tips** and **resonated center section** to reduce drone while maintaining a deep, aggressive tone. **Custom LED taillight overlays** (red smoked lenses with **Lux H8 V4 bulbs**) and **Morimoto XB LED headlights** with **Osram 66560 LED fog lights**. **Full carbon fiber interior trim** (dashboard, door cards, and center console) from **AutoStyle Carbon** with **Recaro Sportster CS seats** (heated, with **Schroth 4-point harnesses**)."
+  ]
+}

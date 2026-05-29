@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "MUSTANG SHELBY GT350",
+  "prestazioni": [
+    "Engine: Replace the factory 5.2L V8 (Voodoo - FR9) with a forged internals build featuring Mahle Motorsport forged pistons (2618 alloy, 12.5:1 compression), Manley H-beam connecting rods, and a billet crankshaft from Bryant Racing. Pair with a custom camshaft profile by Comp Cams (280°/284° duration, 0.650\" lift) for optimized high-RPM power delivery (8,250+ RPM redline).",
+    "Forced Induction: Install a ProCharger F-3R centrifugal supercharger (10.5psi boost) with a custom intercooler setup by CSF Racing, featuring a 1,200hp-rated core and dual 1,000cfm throttle bodies from BBK Performance. Retain the factory flat-plane crank but upgrade the fuel system with ID1050x injectors, a Radium Engineering dual fuel pump hanger, and a Holley Dominator ECU for precise tuning.",
+    "Drivetrain & Handling: Swap the Tremec TR-3160 6-speed manual for a Tremec TKX 5-speed (close-ratio, 0.82 overdrive) with a McLeod RST twin-disc clutch. Install a Ford Performance 3.73:1 Torsen differential with carbon fiber driveshaft by The Driveshaft Shop. Suspension upgrades include Öhlins Road & Track DFV coilovers (adjustable compression/rebound), Eibach ERS race springs, and spherical bearing control arms from Steeda Autosports for zero deflection."
+  ],
+  "estetica": [
+    "Aerodynamics: Install a full Rocket Bunny V3 widebody kit (GT350-specific, carbon fiber) with a custom front splitter featuring integrated canards from APR Performance. Add a GT350R-style carbon fiber rear diffuser by Anderson Composites and a fixed rear wing from Vortex Generators (200lb downforce at 150mph).",
+    "Exterior: Replace the factory hood with a carbon fiber unit from Seibon (vented, with integrated heat extractors). Paint in Ford Performance Racing Blue with matte black accents, including a custom vinyl overlay by 3M (2080 series, satin finish). Add a custom front grille delete with a carbon fiber mesh insert by Cervini’s.",
+    "Wheels & Brakes: Mount a set of HRE FF01 wheels (19x11 front, 19x12 rear) in a custom bronze finish, wrapped in Michelin Pilot Sport Cup 2 R tires (295/30/19 front, 315/30/19 rear). Brake system includes Brembo GT 6-piston calipers (front) and 4-piston (rear) with 2-piece rotors (396mm front, 380mm rear) from AP Racing, paired with Ferodo DS2500 pads."
+  ]
+}

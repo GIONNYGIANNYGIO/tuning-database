@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "MUSTANG GT S197",
+  "prestazioni": [
+    "Engine: 4.6L 3V Modular V8 (engine code: 4.6L 3V 281ci) with a forged rotating assembly from Manley Performance (forged crankshaft, H-beam connecting rods, and forged pistons) paired with a Livernois Motorsports Stage 3 ported cylinder heads featuring oversized Ferrea Competition Series valves and upgraded valve springs for 8,000 RPM capability",
+    "Forced induction: Twin Precision Turbo PT6266 CEA ball-bearing turbos with custom 3.5-inch stainless steel exhaust manifolds by Stainless Works, feeding into a custom intercooler setup with a Garrett dual-core front-mount intercooler (FMIC) and 3-inch Tial Q-series blow-off valves for 12 PSI of boost targeting 650whp on E85",
+    "Fuel system: Fore Innovations dual fuel pump system with 450 LPH pumps, ID1000 injectors, and a Radium Engineering fuel pressure regulator, paired with a Holley Dominator ECU managing a custom flex-fuel tune by Lund Racing for optimized timing and air-fuel ratios under boost"
+  ],
+  "estetica": [
+    "Body kit: Anderson Composites widebody conversion kit (S197-specific) with carbon fiber front splitter, side skirts, and rear diffuser, paired with a custom carbon fiber hood from Cervini’s featuring a functional heat extractor for the intercooler piping",
+    "Suspension: KW Suspensions Clubsport coilovers with adjustable camber plates and spherical bearing control arms from Maximum Motorsports, paired with a Steeda Sport sway bar kit (25mm front, 22mm rear) for reduced body roll and improved cornering grip",
+    "Wheels & Aero: Forgeline GA3R 19x10.5 (front) and 19x12 (rear) wheels with 275/35/19 and 315/30/19 Michelin Pilot Sport Cup 2 tires, complemented by a Vortex Generator carbon fiber rear wing from APR Performance (S197-specific) for high-speed stability"
+  ]
+}

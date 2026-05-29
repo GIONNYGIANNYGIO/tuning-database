@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "THUNDERBIRD SUPER COUPE",
+  "prestazioni": [
+    "Upgrade the **Yamaha-sourced 3.8L V6 (engine code: SHO V6, internally known as 'LN2')** with a **Garrett GT3582R turbocharger (0.82 A/R turbine housing)** paired with a **Precision Turbo wastegate (44mm, external)** to push boost to 18 psi on pump gas (93 octane), supported by a **custom 3.5\" intercooler piping kit from Vibrant Performance** and a **Mishimoto aluminum intercooler (24\" x 12\" x 3.5\")** for IAT control.",
+    "Replace the stock **EEC-IV engine management** with a **MoTeC M150 ECU** running a **custom 4D ignition and fuel map**, integrating a **Bosch 0280158002 wideband O2 sensor** and **AEM X-Series 30-0300 boost gauge** for real-time monitoring. Pair this with a **Walbro 450 LPH in-tank fuel pump** and **Siemens DEKA 80lb/hr injectors** to support the turbo setup, while retaining the stock **Yamaha-designed forged crank and rods** for reliability.",
+    "Swap the **stock 4R70W 4-speed automatic** for a **Tremec T56 Magnum 6-speed manual transmission** with a **McLeod twin-disc RST 10.5\" clutch (26-spline, 2400lb clamp load)** and a **Ford Racing M-7003-M5R aluminum flywheel**. Install a **Quaife ATB differential (31-spline, 3.73:1 ratio)** in the **8.8\" IRS housing** to handle the increased torque, paired with **Polygraphite bushings** from Energy Suspension to eliminate drivetrain slop."
+  ],
+  "estetica": [
+    "Replace the stock body panels with a **D2 Motorsports widebody kit (SC-specific, 2\" flares front/rear)** to accommodate **18x10.5\" ET12 BBS RS-GT wheels (gold, 5x114.3 PCD)** wrapped in **Michelin Pilot Sport Cup 2 tires (275/40/18)**. The kit includes **carbon fiber side skirts and a ducktail spoiler** for aero balance, with **custom matte black vinyl wrap (3M 2080, Satin Black)** for a stealth look.",
+    "Install a **Seibon carbon fiber hood (SC-specific, 30lb weight reduction)** with a **custom 3\" cowl induction scoop** to feed the intercooler. Replace the stock bumpers with **Roush-style front/rear bumpers (polyurethane, SC-specific)** featuring **integrated LED fog lights (Morimoto XB, 5500K)** and a **custom front splitter (carbon fiber, 2.5\" overhang)** for downforce.",
+    "Interior upgrades include **Recaro SRD bucket seats (SC-specific, 9-way adjustable, Alcantara/leather)** with **Schroth 6-point harnesses (ASM2, FIA-approved)** and a **custom roll cage (8-point, mild steel, TIG-welded)** from **Autopower Industries**. The dashboard is refitted with a **Motec C127 digital dash (12.3\", CAN-enabled)** and a **NRG Innovations quick-release steering wheel (350mm, suede)** on a **Momo Prototipo hub adapter**."
+  ]
+}

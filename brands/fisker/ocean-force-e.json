@@ -1,0 +1,14 @@
+{
+  "brand": "FISKER",
+  "model": "OCEAN FORCE E",
+  "prestazioni": [
+    "Upgrade to a **Bosch SMG180** dual-inverter system (replacing the stock **Fisker E-Motor 175 kW** units) with **Silicon Mobility OLEA T222** power management controllers for a 30% increase in continuous power output (target: 450 kW/603 hp) and 20% faster torque vectoring response via **AEM EV VCU-300** control unit",
+    "Installation of **SKF Hybrid Ceramic Angular Contact Bearings (7210 BECBP)** in the front and rear **ZF 2-speed EV transmissions** to reduce parasitic losses by 12% and enable sustained 18,000 RPM operation under load, paired with **AP Racing CP8450-2000** carbon-ceramic brake rotors and **Brembo H12** monoblock calipers for 3g deceleration",
+    "Full **Marelli MPE 800** battery management system overhaul with **Sila Nanotechnologies Titan Silicon** anode cells (replacing stock **LG Chem NCM 811** pouch cells) to achieve 95 kWh usable capacity (up from 82 kWh) and **Delta-Q Technologies IC650** 150 kW DC fast-charging capability, supported by a **Mahle Jet Ignition** thermal pre-conditioning system for 0-80% charge in 12 minutes"
+  ],
+  "estetica": [
+    "Custom **Rocket Bunny V3** widebody kit with **3D-printed carbon fiber (Toray T1100G)** fenders, front splitter, and rear diffuser, designed specifically for the **Ocean Force E’s 2,998 mm wheelbase** and **1,650 mm track width**, reducing drag coefficient to **Cd 0.24** while adding 50 mm of front/rear track width",
+    "**Vorsteiner V-FF 107** forged magnesium wheels (20x9.5 front, 21x12.5 rear) with **Pirelli P Zero Elect** tires (265/35 R20 front, 325/30 R21 rear) and **HRE FlowForm FF03** center-lock adapters, finished in **PPG ‘Liquid Black’** with **BBS RS-GT** gold hardware for a 15 kg unsprung weight reduction per corner",
+    "**Novitec Torado** full carbon fiber exterior package, including **active aerodynamic ‘Shark Fin’ rear spoiler** (adjustable via **MooVita Active Aero Controller**), **carbon fiber side skirts with integrated LED light bars**, and **custom ‘Force E Blue’ PPF wrap with **3M Scotchlite 8910** reflective flakes for a 30% increase in nighttime visibility"
+  ]
+}
