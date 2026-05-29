@@ -1,0 +1,14 @@
+{
+  "brand": "GEELY",
+  "model": "ZEEKR 9X CONCEPT",
+  "prestazioni": [
+    "Upgrade to a **Garrett GTX5533R Gen II turbocharger** (88mm compressor wheel, 1.15 A/R turbine housing) for the **Geely SEA-M (Sustainable Experience Architecture) 800V electric motor system**, targeting **850 kW (1,140 hp) peak power** with a **custom Pectel SQ6M ECU** reflash to optimize torque vectoring and regenerative braking aggression (0-100% torque split in 5ms increments).",
+    "Install **AP Racing CP9661-4000 carbon-carbon 6-piston front calipers** with **420mm two-piece floating rotors** (J-Drive slot pattern) and **Ferodo DS3.12 racing pads**, paired with a **Brembo GT 4-piston rear setup** (380mm rotors) for 1,200 kg stopping power from 200 km/h in under 3.8 seconds.",
+    "Replace the OEM **Zeekr 9X Concept’s 110 kWh Blade Battery** with a **CATL Qilin CTP 3.0 (160 kWh) battery pack**, featuring **silicon-carbon anode chemistry** and **800V 6C fast-charging capability**, while integrating a **Marelli 800V SiC (Silicon Carbide) inverter** to reduce switching losses by 30% and enable **0-300 km/h acceleration in 12.5 seconds** (simulated)."
+  ],
+  "estetica": [
+    "Fit a **Liberty Walk LB-WORKS Zeekr 9X widebody kit** (carbon fiber fenders with **50mm extended wheel arches**, front splitter with **adjustable Gurney flaps**, and a **dual-plane rear diffuser** incorporating **active aerodynamics** via **Bosch MM5.10 ECU-controlled flaps**).",
+    "Replace the OEM **Zeekr 9X Concept’s LED matrix headlights** with **Osram EVIYOS 2.0 adaptive pixel headlights** (1.3 million pixels per unit) and **custom HRE FF16 flow-formed wheels** (22x11.5 front, 22x12.5 rear) wrapped in **Michelin Pilot Sport Cup 2 R tires** (325/25R22 front, 355/25R22 rear) with **TPMS sensors recalibrated for 3.2 bar cold pressure**.",
+    "Apply a **3M 1080 Matte Graphite Black vinyl wrap** with **Avery Dennison Supreme Wrapping Film** over the **Zeekr 9X’s aluminum-carbon hybrid chassis**, featuring **laser-etched Geely ‘SEA-M’ badging** on the C-pillars and a **custom Akrapović titanium exhaust finisher** (dual 100mm outlets) for the **optional range-extender 1.5L 3-cylinder turbo (JLH-3G15TD) generator** (if equipped)."
+  ]
+}

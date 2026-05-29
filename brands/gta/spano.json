@@ -1,0 +1,14 @@
+{
+  "brand": "GTA",
+  "model": "SPANO",
+  "prestazioni": [
+    "Replace the stock 8.3L V10 (engine code: GTA V10-8.3) with a fully built, dry-sump version featuring forged Mahle pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from Bryant Racing, paired with a custom camshaft profile by Schrick (280° intake/284° exhaust duration, 0.600\" lift) for optimized high-RPM power delivery (1,200+ HP target on E85).",
+    "Install a custom twin-turbo system using Garrett GTX5533R Gen II turbos (86mm compressor wheels, 1.15 A/R turbine housings) with TiAL MV-R 60mm wastegates and TiAL Q 50mm blow-off valves, mated to a custom 4.5\" stainless steel intercooler piping system by Vibrant Performance, including a PWR 1,500hp-rated bar-and-plate intercooler core.",
+    "Upgrade the fuel system with dual Bosch Motorsports 044 high-flow fuel pumps, Injector Dynamics ID2600X injectors (2,600cc/min), and a Motec M150 ECU with a custom flex-fuel ethanol sensor, paired with a custom billet fuel rail by Radium Engineering and a set of AN-10 braided lines for high-pressure fuel delivery (1,200+ HP capable)."
+  ],
+  "estetica": [
+    "Replace the stock carbon fiber body panels with a full custom widebody kit by Liberty Walk (LB-SPANO specification), featuring extended front fenders with integrated carbon fiber canards, a custom rear diffuser with active aerodynamics (adjustable angle via electric actuators), and a one-piece carbon fiber hood with a central ram-air intake.",
+    "Install a custom front splitter and rear wing combo by Vorsteiner (SPANO-specific design), featuring a 3D-printed titanium underbody air curtain system for improved downforce (300+ kg at 250 km/h), paired with a set of custom carbon fiber side skirts with integrated LED lighting by Diode Dynamics.",
+    "Upgrade the interior with a full Alcantara and carbon fiber trim package by Sabelt, including custom bucket seats with 6-point harnesses (Sabelt GT-C model), a custom roll cage by Sparco (chrome-moly steel, FIA-spec), and a digital dash display by AIM MXS Strada with integrated data logging for lap times, boost pressure, and fuel ethanol content."
+  ]
+}

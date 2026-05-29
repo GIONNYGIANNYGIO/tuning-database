@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "SVO MUSTANG",
+  "prestazioni": [
+    "Replace the stock **2.3L Lima inline-4 (engine code: *2301*)** with a **Garrett GT35R turbocharger (76mm, .82 A/R turbine housing)** paired with a **Precision Turbo wastegate (46mm, 38mm actuator)** to push boost to 22 psi on 93 octane, requiring a **JE Pistons forged 8.5:1 compression set (PN: 308250)** and **Manley H-beam connecting rods (PN: 14405-8)** for reliability.",
+    "Install a **Holley Dominator EFI system (PN: 554-112)** with a **MoTeC M150 ECU** for full sequential fuel control, integrating a **Bosch Motorsport 0280158802 1,000cc/min fuel injectors** and a **Walbro 450 LPH in-tank fuel pump (PN: F90000267)** to support 500+ whp on E85.",
+    "Upgrade the stock **Tremec T-5 transmission** to a **Tremec TKX 5-speed (PN: 1350-000-102)** with a **McLeod RST twin-disc clutch (PN: 8617)** and **Ford Motorsport 9-inch rear end (PN: M-4001-A302)** using a **Detroit Locker differential (PN: 225SL20)** and **3.73:1 gear set (PN: M-4209-F373)** for drag strip launches."
+  ],
+  "estetica": [
+    "Fit a **Rocket Bunny V1 widebody kit (PN: RB-FD3S-001)** modified for SVO Mustang fender flares, paired with a **Vortex Generators carbon fiber rear wing (PN: VG-003)** and **Aerocatch hood pins (PN: AC-1000)** for aggressive stance and downforce.",
+    "Replace the stock wheels with **BBS RS-GT 17x9 (ET20) front and 17x10.5 (ET25) rear** wrapped in **Michelin Pilot Sport Cup 2 tires (255/40/17 front, 295/35/17 rear)**, powder-coated in **Ford Motorsport Dark Graphite (PN: M-1760)** with **H&R Race Springs (PN: 29142-1)** for a 1.5-inch drop.",
+    "Install a **Seibon Carbon fiber hood (PN: CF-FD3S-001)** with a **custom SVO-specific ram-air scoop**, paired with **Depo Racing JDM-style LED taillights (PN: 101-1109L-LED)** and a **3M Matte Black vinyl wrap (PN: 1080-BK-20)** for a stealth OEM+ look."
+  ]
+}

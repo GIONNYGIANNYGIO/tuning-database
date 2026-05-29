@@ -1,0 +1,14 @@
+{
+  "brand": "GMC",
+  "model": "SYCLONE",
+  "prestazioni": [
+    "Engine: Replace the stock LB4 4.3L V6 (RPO code: 90° V6, 262ci) with a fully built internals package featuring forged Mahle pistons (22cc dish, 9.5:1 CR), Eagle H-beam connecting rods (6.125\" length), and a billet steel crankshaft from Callies (4.00\" stroke). Pair with a custom camshaft grind from Comp Cams (230°/236° duration @ 0.050\", 0.550\" lift, 114° LSA) for optimized turbo spool and top-end power.",
+    "Forced Induction: Swap the stock Mitsubishi TD06-17C turbo for a Garrett GTX4202R Gen II (82mm compressor, 1.06 A/R turbine housing) with a custom 3\" divorced wastegate setup (Tial MV-R 44mm) and a Precision Turbo 46mm external wastegate dump tube. Use a custom intercooler core from Bell Intercoolers (1000cfm flow, 3.5\" thick bar-and-plate) with CNC-machined aluminum end tanks for reduced pressure drop.",
+    "Fuel & Ignition: Convert to a full sequential fuel injection system using Bosch 0280158107 (1,000cc/min) injectors, an AEM 340LPH in-tank fuel pump, and a Holley Dominator ECU with custom tuning via HP Tuners. Add a dual-stage nitrous oxide system (NOS 55812) with a progressive controller (ZEX 82040) for 150hp supplemental shots. Ignition upgrade includes MSD 8516 Blaster SS coils and NGK TR6IX iridium spark plugs (0.030\" gap)."
+  ],
+  "estetica": [
+    "Body Kit: Install a full carbon fiber widebody conversion from RK Sport (Syclone-specific, 3-piece fender flares, front splitter, and rear diffuser) with integrated brake cooling ducts. Use 3M 1080 series vinyl wrap in \"Lime Gold Pearl\" (custom mixed) with matte black accents on the hood, roof, and rear spoiler.",
+    "Wheels & Suspension: Fit 18x9.5\" (front) and 18x11\" (rear) BBS RS-GT wheels (ET20 front, ET5 rear) with Nitto NT05R tires (255/40/18 front, 295/35/18 rear). Suspension includes a full KW Clubsport 3-way coilover kit (24-way rebound, 16-way compression, adjustable top mounts) with custom valving for the Syclone’s 5-link rear suspension. Add polyurethane bushings (Energy Suspension 9.5111G) and a Whiteline rear sway bar (24mm, adjustable).",
+    "Interior & Aero: Replace the stock interior with Recaro Pole Position seats (cloth/Alcantara, Syclone-logo embroidered) and a custom roll cage from Autopower (8-point, mild steel, bolt-in). Add a digital dash (AEM CD-7) with a custom Syclone-themed layout. Exterior aero includes a carbon fiber rear wing from APR Performance (GT-250, 3D-printed mounts) and a functional hood scoop (RK Sport, carbon fiber) feeding the intercooler."
+  ]
+}

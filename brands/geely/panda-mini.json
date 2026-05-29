@@ -1,0 +1,14 @@
+{
+  "brand": "GEELY",
+  "model": "PANDA MINI",
+  "prestazioni": [
+    "Replace the stock 1.0L **JL3G10** (69 hp) engine internals with forged **Mahle Motorsport** pistons (8.5:1 compression), **Manley Performance** H-beam connecting rods, and a **Tomei** billet crankshaft for a 1.2L stroker build, paired with a **Garrett GT12 turbocharger** (0.42 A/R, 55 trim) running 1.2 bar of boost on a **Haltech Elite 1500** standalone ECU with custom **MoTeC M1** firmware for the JL3G10 platform",
+    "Install a **GReddy Profec B Spec II** boost controller, **HKS SSQV4** blow-off valve, and a **PWR Performance** front-mount intercooler (3.5\" core, 22\" x 6\" x 3.5\" dimensions) with **Mishimoto silicone hoses** to eliminate heat soak in the Panda Mini's compact engine bay",
+    "Swap the stock **Geely 5-speed manual** transmission for a **Quanzhou QJ5T18** 6-speed close-ratio gearbox (from the Geely Emgrand GT) with a **OS Giken Super Lock** limited-slip differential, reinforced **Cusco Type-RS** engine mounts, and a **Spec Stage 3+** twin-disc clutch with a **Perrin Performance** lightweight flywheel"
+  ],
+  "estetica": [
+    "Fit a **Vary Auto Style** widebody kit (Panda Mini-specific, 50mm flares) with **Work Meister S1 3P** 15x8 +35 wheels wrapped in **Toyo R888R** 195/50R15 tires, paired with **Tein Flex Z** coilovers (30-way damping, 50mm drop) and **Cusco front strut bar** for chassis rigidity",
+    "Install a **Seibon Carbon** hood (weight reduction: 4.2kg) and **Rear Diffuser** (3D-printed ABS, Geely Panda Mini-specific mold) with a **Mugen-style** rear spoiler (carbon fiber, 300mm height) for downforce at 120+ km/h",
+    "Full **3M 1080 Gloss Black** vinyl wrap with **Rally Armor** custom-cut mud flaps (Geely Panda Mini template), **Depo Racing** JDM-style LED headlights (H1 bulbs, projector lenses), and a **Takata Drift II** 4-point harness bar (bolt-in, no welding required for the Panda Mini's unibody)"
+  ]
+}

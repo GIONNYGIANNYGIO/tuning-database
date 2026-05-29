@@ -1,0 +1,14 @@
+{
+  "brand": "GEELY",
+  "model": "LYNK & CO 05 PERFORMANCE",
+  "prestazioni": [
+    "Upgrade to a **Garrett GTX3071R Gen II turbocharger** (hybrid billet wheel) for the **JLH-3G15TD** 1.5L turbocharged inline-3 engine, paired with a **Forge Motorsport recirculating blow-off valve (BOV)** and a **custom 3.5-inch titanium downpipe** by **Milltek Sport** to eliminate restrictive OEM catalytic converters while maintaining backpressure optimization for the stock ECU.",
+    "Install a **Link G4+ Xtreme standalone ECU** with a **Geely Lynk & Co 05-specific base map** (developed by **Vivid Racing**) to unlock full control over the **JLH-3G15TD’s direct injection and port injection systems**, enabling **22 psi of boost**, **30° of ignition advance**, and **custom ethanol flex-fuel mapping** for E85 compatibility. Pair with a **Plex Tuning Display (PDK-1)** for real-time data logging and boost control.",
+    "Replace the OEM **Getrag MPS6 dual-clutch transmission** internals with **PPG Gear’s 1st-4th gear sets (dog-ring synchro design)** and a **South Bend Clutch Stage 3+ twin-disc clutch** to handle the increased torque. Add a **Wavetrac limited-slip differential (LSD)** with a **3.91 final drive ratio** for improved launch control and cornering stability. Suspension-wise, fit **Öhlins Road & Track DFV coilovers (Lynk & Co 05-specific valving)** with **Eibach ERS 1000N/mm helper springs** and **SuperPro polybushings** for subframe reinforcement."
+  ],
+  "estetica": [
+    "Install the **Rocket Bunny V3 widebody kit (Lynk & Co 05-specific)** with **custom carbon fiber overfenders** (hand-laid by **Seibon Carbon**) to accommodate the **20x10.5 ET25 front and 20x11.5 ET30 rear wheels** wrapped in **Michelin Pilot Sport Cup 2 R tires (265/30/20 front, 295/25/20 rear)**. The kit includes a **ducktail spoiler extension** and **front splitter with adjustable canards** for aero balance.",
+    "Replace all exterior lighting with **Lux H8 V4 LED headlights (DRL/low/high beam)** and **Morimoto XB35 LED fog lights**, paired with **custom sequential LED taillights** by **Diode Dynamics** (reverse-engineered from the OEM housing). The front grille is swapped for a **3D-printed titanium mesh grille** (coated in **Cerakote Graphite Black**) with an **embedded Lynk & Co Performance badge** (laser-etched by **Badges by Wooton**).",
+    "Full interior overhaul with **Recaro Pole Position seats (carbon shell, Alcantara/leatherette upholstery)** and **Schroth Profi II 6-point harnesses**, paired with a **MOMO Mod.78 steering wheel (suede, 350mm diameter)** and a **custom roll cage** by **Custom Cages UK** (TIG-welded 4130 chromoly, bolt-in design with harness bar). The dashboard is wrapped in **3M Matte Carbon Fiber vinyl** with **AEM X-Series digital gauges (boost, AFR, oil temp)** integrated into the OEM cluster."
+  ]
+}

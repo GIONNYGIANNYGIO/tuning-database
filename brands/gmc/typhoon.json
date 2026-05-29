@@ -1,0 +1,14 @@
+{
+  "brand": "GMC",
+  "model": "TYPHOON",
+  "prestazioni": [
+    "Replace the stock Mitsubishi TD06-17C turbocharger (specific to the LB4 4.3L V6 engine) with a Garrett GT3582R ball-bearing turbo, paired with a custom 3-inch stainless steel downpipe and a Tial 44mm external wastegate to handle the increased boost (targeting 18-20 psi on 93 octane fuel).",
+    "Upgrade the stock LB4 fuel system with Siemens DEKA 80lb/hr high-impedance injectors, a Walbro 450 LPH in-tank fuel pump, and a custom fuel pressure regulator (FPR) from Aeromotive (PN 13101) to support E85 blends and prevent fuel starvation under high load.",
+    "Install a standalone Motec M150 ECU with a custom calibration by S-A Design (specializing in forced-induction LB4 engines), integrating a 3-bar MAP sensor, wideband O2 (AEM X-Series), and a dual-channel knock control system to optimize timing and air-fuel ratios for the stock forged internals."
+  ],
+  "estetica": [
+    "Replace the stock front bumper with a custom carbon fiber widebody kit from RK Sport (designed specifically for the Typhoon’s 1992-1993 body lines), featuring integrated fog light deletes and a lower lip splitter for improved aerodynamics.",
+    "Install a set of 17x9.5-inch Enkei PF05 wheels in a custom bronze finish, wrapped in Michelin Pilot Sport Cup 2 tires (275/40R17 front, 285/40R17 rear) to maximize grip while maintaining the Typhoon’s original wheel-to-fender clearance.",
+    "Add a custom rear diffuser from Seibon Carbon, paired with a functional rear spoiler from Stillen (designed for the Typhoon’s liftgate), both in raw carbon fiber to reduce weight and improve high-speed stability."
+  ]
+}

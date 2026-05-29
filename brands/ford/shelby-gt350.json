@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "SHELBY GT350",
+  "prestazioni": [
+    "Engine: Ford 5.2L V8 (Voodoo, engine code *V8-5.2L Flat-Plane Crank*), full forged internals upgrade with Manley 4340 forged crankshaft (stroke increased to 98mm), Manley I-beam connecting rods (H-beam for high-RPM stability), and JE Pistons 2618 forged slugs (12.5:1 compression ratio). Paired with a custom billet oil pump from Dailey Engineering to handle 9,000 RPM redline and dry-sump lubrication system with dual scavenge pumps.",
+    "Forced Induction: Twin-turbo setup using Garrett GTX5533R Gen II turbos (84mm compressor wheels, .96 A/R turbine housings) with TiAL MV-R 60mm wastegates and TiAL Q 50mm blow-off valves. Custom intercooler system by CSF Racing with a 4.5\" thick bar-and-plate core (1,800 CFM airflow) and integrated water-methanol injection (Snow Performance Stage 3 kit) for charge cooling. Full custom 3.5\" stainless steel turbo manifolds by Burns Stainless with ceramic coating for heat retention.",
+    "Drivetrain & Handling: Tremec TR-9070 7-speed dual-clutch transmission with upgraded carbon fiber clutch discs (Tilton triple-plate setup) and a Quaife ATB differential with 4.10:1 gearing. Suspension overhaul with Öhlins TTX46 coilovers (2-way adjustable damping, 30-way rebound, 20mm ride height adjustability) and custom spherical bearing upper control arms (Vorshlag Motorsports) for camber/caster adjustability. Brembo GT 6-piston front calipers (40mm rotors) with carbon-ceramic discs (394mm front, 380mm rear) and Ferodo DS2500 pads for track endurance."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon fiber widebody kit by Anderson Composites (GT350R-spec front splitter, rear diffuser, and side skirts) with integrated DRLs (Lux H8 V4 LEDs). Custom rear wing by APR Performance (GT-250 model, 3D-printed aluminum uprights) with Gurney flap and active angle adjustment via MoTeC PDM16. Underbody aero package by APR (front diffuser with vortex generators, rear diffuser with dual strakes) for -120kg downforce at 180mph.",
+    "Exterior Styling: Full custom paint by BASF Glasurit (Ford Performance Racing Blue with matte black accents) with PPF (XPEL Ultimate Plus) and ceramic coating (Gyeon Quartz Ceramic Coating). Carbon fiber hood (Seibon Carbon) with functional heat extractors and custom LED halo lighting (Diode Dynamics). Side mirrors replaced with carbon fiber units from RK Sport (GT350R-spec, heated, with integrated turn signals).",
+    "Interior & Lighting: Full Alcantara-wrapped interior (Recaro Pole Position seats with Schroth 6-point harnesses) and custom roll cage by Autopower (MIG-welded 4130 chromoly, 8-point with harness bar). Digital dash upgrade with AIM MXS Strada 1.2 (12\" display, CAN bus integration) and Motec C127 data logger. Custom LED ambient lighting (Philips Hue for color customization) with integrated shift lights (AEM X-Series)."
+  ]
+}

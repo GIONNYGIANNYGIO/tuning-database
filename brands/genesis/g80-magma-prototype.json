@@ -1,0 +1,14 @@
+{
+  "brand": "GENESIS",
+  "model": "G80 MAGMA PROTOTYPE",
+  "prestazioni": [
+    "Engine: 3.3L twin-turbo Lambda II RS T-GDi (engine code: G6DH) with a custom hybrid turbo setup featuring Garrett GTX5533R Gen II turbos (84mm compressor wheels, 1.15 A/R turbine housings) and TiAL MV-R 44mm external wastegates for precise boost control at 28 psi peak pressure, paired with a PTP Turbo Smart 4-port boost solenoid for seamless spool and response",
+    "Fuel System: Full return-style fuel system with dual Bosch Motorsport 044 high-flow fuel pumps (450 LPH each), Injector Dynamics ID1700x injectors (1,700cc/min), and a Radium Engineering fuel pressure regulator (base pressure: 58 psi) to support E85 flex-fuel tuning via a Syvecs S8 ECU with custom CAN bus integration for OEM sensor retention and launch control",
+    "Drivetrain & Cooling: OS Giken Super Lock LSD (4.11 final drive ratio) with a PRL Motorsports Stage 3 clutch kit (multi-plate ceramic) and a custom 3.5-inch aluminum driveshaft from The Driveshaft Shop, paired with a Setrab 50-row oil cooler (Series 1) and a CSF Racing triple-pass intercooler (core dimensions: 24x12x4 inches) with custom billet end tanks for optimized airflow and reduced IATs under sustained boost"
+  ],
+  "estetica": [
+    "Liberty Walk LB-WORKS widebody conversion kit (G80-specific, 50mm extended fenders, carbon fiber front bumper with integrated canards and a 3D-printed active grille shutter delete), paired with a custom carbon fiber hood featuring a 3-inch cowl scoop for direct intercooler airflow and a hidden tow hook mount",
+    "Rocket Bunny V3 rear diffuser with integrated titanium exhaust outlets (dual 4-inch tips) and a custom carbon fiber trunk spoiler (3D-scanned from the Magma prototype wind tunnel data) with a Gurney flap for rear downforce, finished in a custom 'Magma Orange' PPF with XPEL Stealth matte clear coat for UV resistance",
+    "OEM+ interior overhaul with Recaro SP-G TS seats (fixed-back, carbon shell) wrapped in Alcantara (Autostyle 'Magma Red' stitching), a custom roll cage (1.75-inch DOM tubing, TIG-welded) from Custom Cages UK with integrated fire suppression system (FireBottle 2.2kg extinguisher), and a Motec C127 dash display replacing the stock cluster for real-time boost, AFR, and oil pressure monitoring"
+  ]
+}

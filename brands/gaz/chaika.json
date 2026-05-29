@@ -1,0 +1,14 @@
+{
+  "brand": "GAZ",
+  "model": "Chaika",
+  "prestazioni": [
+    "Replace the original 5.5L ZMZ-13 V8 (195 hp, 353 Nm) with a fully forged internals build featuring Mahle Motorsport forged pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from SCAT Enterprises. Pair with a custom camshaft grind from Schneider Racing Cams (280° duration, 0.550\" lift) for high-RPM power delivery (target: 400+ hp).",
+    "Install a custom forced-induction system using a Garrett GTX4202R turbocharger (1.28 A/R turbine housing) with a custom air-to-water intercooler from Bell Intercoolers (5.5\" thick core, 1200 CFM capacity) and a TiAL MV-R 44mm wastegate. Fueling upgrades include a Walbro 450 LPH in-tank pump, ID1000x injectors, and a Holley Dominator ECU with custom tuning by MoTeC M800 for boost control (18 psi peak).",
+    "Upgrade the drivetrain with a Tremec T-56 Magnum 6-speed transmission (2.66 1st gear) paired with a Tilton twin-disc clutch (7.25\" diameter, cerametallic friction material). The rear differential is replaced with a custom-built Salisbury-style diff from Quaife (ATB helical LSD, 3.90:1 final drive) with chromoly axles from Strange Engineering."
+  ],
+  "estetica": [
+    "Full custom widebody conversion using hand-formed aluminum panels (inspired by the 1960s Soviet ZIL-111G but with aggressive fender flares) to accommodate 20x10\" and 20x12\" BBS RS-GT wheels (ET25 front, ET15 rear) wrapped in Michelin Pilot Sport Cup 2 tires (275/30/20 front, 315/25/20 rear).",
+    "Retro-modern aero package featuring a custom carbon fiber front splitter from APR Performance (adapted for the Chaika’s unique bumper contours), a rear ducktail spoiler from Seibon Carbon (modeled after the 1966 GAZ-23 prototype), and a custom underbody diffuser from Rocket Bunny (polyurethane construction, 3-stage design for optimal downforce).",
+    "Interior overhaul with full Alcantara upholstery (custom-patterned to match the original Chaika’s diamond-quilted seats) by Katzkin, a custom roll cage from Custom Cages (TIG-welded 4130 chromoly, 8-point design with integrated harness bars), and a digital dash cluster from AIM MXS Strada (12.3\" display, configurable for boost, AFR, and oil temps) paired with a MOMO Mod.78 steering wheel (350mm diameter, suede grip)."
+  ]
+}

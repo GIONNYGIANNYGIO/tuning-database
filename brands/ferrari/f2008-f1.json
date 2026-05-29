@@ -1,0 +1,14 @@
+{
+  "brand": "FERRARI",
+  "model": "F2008 F1",
+  "prestazioni": [
+    "Engine: Ferrari Type 056 (2.4L V8, 90° bank angle, 98mm bore x 39.74mm stroke, 18,000 RPM redline) – Replace OEM Mahle pistons with forged **JE Pistons F2008-SPEC (22.5:1 compression, DLC-coated skirts)** and **Carrillo H-beam connecting rods (titanium bolts, 4340 steel)** for 19,500 RPM reliability under 5.5 bar boost from a **Garrett GT5544R (hybrid, ball-bearing, 106mm compressor wheel)** with **Precision Turbo wastegate (46mm, dual-port)**.",
+    "Fuel System: Upgrade OEM Magneti Marelli 12-hole injectors to **Bosch Motorsport 1000cc/min (PN: 0 280 158 100) with custom **ATI damper pulley** to mitigate crankshaft harmonics at 19,000+ RPM. Replace stock fuel pump with **AEM 340LPH E85-compatible pump** and **Radium Engineering surge tank (dual-pump setup)** for sustained 2000+ HP under methanol injection (via **Aquamist HFS-4**).",
+    "Aerodynamics: Replace OEM Ferrari F2008 front wing with **Shark Fin Carbon (SFC) F2008-SPEC (3-element, adjustable AoA via **MTS Systems linear actuators**)**, paired with **Vortex Dynamics rear diffuser (CFD-optimized, 40% more downforce at 200mph)**. Install **Pankl Racing Systems titanium wheel hubs** to reduce unsprung mass by 1.2kg per corner, enabling **BBS LM-R wheels (13x12 front, 13x13.7 rear, magnesium centers)** with **Pirelli P Zero Trofeo R (325/680-R13, 200TW compound)** for 5g lateral grip."
+  ],
+  "estetica": [
+    "Body: Full **Kevlar/carbon hybrid monocoque (Toray T800, 2x2 twill weave)** with **3M Scotchprint Wrap (Matte Ferrari Rosso Corsa, PPF-coated)** for weight reduction (12kg savings vs. OEM). Replace OEM nosecone with **Fondmetal F2008-SPEC (honeycomb core, 3D-printed titanium mounting points)** and **AIM carbon fiber sidepods (integrated NACA ducts for brake cooling)**.",
+    "Cockpit: **Sparco 6-point harness (FIA 8862-2009 certified, titanium camlocks)** with **OMP carbon fiber seat (F2008-specific, 3D-scanned for driver ergonomics)**. Replace OEM steering wheel with **MOMO F2008-SPEC (carbon fiber, integrated **Cosworth IQ3 dash** and **Motec PDM15 power distribution module**)**, featuring **Alcantara grips (red stitching, perforated for heat dissipation)**.",
+    "Lighting: **Hella Rallye 3000 (H3 bulbs, 100W, quartz-halogen)** in **custom CNC-machined aluminum housings (anodized gold)** for high-speed visibility, paired with **LED taillights (Osram Oslon SSL 150, 6000K, sequential startup animation)**. Underbody **Philips LED strips (CRI 95, 5000K)** for pit lane illumination, controlled via **RaceLogic VBOX HD2 data logger**."
+  ]
+}

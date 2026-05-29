@@ -1,0 +1,14 @@
+{
+  "brand": "GAC",
+  "model": "GS8",
+  "prestazioni": [
+    "Turbocharger upgrade to a Garrett GTX4202R with billet compressor wheel (58mm inducer, 80mm exducer) and 64mm turbine wheel, paired with a custom 3.5-inch stainless steel downpipe and GReddy Profec B Spec II boost controller for the 2.0L turbocharged GAC 4B20J1 engine (stock output: 248 HP, target: 450 HP at 2.2 bar boost with E85 fuel)",
+    "Full forged internals kit from JE Pistons (9.5:1 compression, 87mm bore) and Manley H-beam connecting rods, paired with a billet crankshaft from Callies (86mm stroke) and ACL Race Series main/rod bearings for the 4B20J1 engine, supporting 8,500 RPM redline and 11.5:1 dynamic compression under boost",
+    "Custom ECU reflash via Hondata KPro V4 (adapted for GAC’s proprietary ECU) with a flex-fuel sensor from Continental, paired with a 1,000cc ID1000 fuel injectors and a Walbro 450 LPH in-tank fuel pump, supporting E85 blends and methanol injection via Snow Performance Stage 3 kit with 550cc/min nozzles"
+  ],
+  "estetica": [
+    "Liberty Walk LB-WORKS widebody conversion kit (GS8-specific, 50mm fender flares) with custom carbon fiber overfenders and a 3M Matte Military Green wrap, paired with a Rocket Bunny V3 rear diffuser and custom 3D-printed side skirts for aggressive stance",
+    "Ohlins Road & Track coilovers (GS8-specific valving, 30-way adjustable damping) with custom 20mm front and 25mm rear camber plates, paired with GAC GS8-specific polyurethane bushings from SuperPro (part #SPF0115K) for improved suspension geometry and NVH reduction",
+    "Custom 22-inch Work Emotion CR Kiwami wheels (9.5J ET35 front, 11J ET40 rear) with Michelin Pilot Sport Cup 2 tires (265/30/22 front, 295/25/22 rear), paired with Brembo GT 6-piston front and 4-piston rear calipers with 380mm and 355mm two-piece rotors, respectively, and custom braided stainless steel brake lines from Goodridge"
+  ]
+}

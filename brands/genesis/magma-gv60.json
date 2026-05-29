@@ -1,0 +1,14 @@
+{
+  "brand": "GENESIS",
+  "model": "MAGMA GV60",
+  "prestazioni": [
+    "Hyundai-Kia Lambda II 3.5L V6 (G6DH) twin-turbo conversion with Garrett GTX4202R turbos (86mm billet wheels, 1.15 A/R turbine housings) and custom 4-inch titanium downpipes by Armytrix, supporting 650whp on E85 with a Motec M150 ECU managing direct port methanol injection (Snow Performance Stage 3 kit) and a Pectel SQ6M standalone for traction control and launch control",
+    "Full drivetrain reinforcement: OS Giken Super Lock LSD (4.11 final drive) with billet axles from Driveshaft Shop (3.5-inch chromoly) and a Tilton twin-disc carbon clutch (7.25-inch) paired with a Sachs dual-mass flywheel delete, all mated to a Quaife ATB differential in the front for RWD bias tuning",
+    "Suspension overhaul: Öhlins Road & Track coilovers (2-way adjustable dampers, 24-way rebound, 12kg/mm front springs, 14kg/mm rear) with custom valving for the GV60’s multi-link rear and MacPherson strut front, paired with Eibach anti-roll bars (24mm front, 22mm rear) and spherical bearing subframe bushings from SuperPro (polyurethane durometer 95A) for chassis rigidity"
+  ],
+  "estetica": [
+    "Liberty Walk LB Works widebody kit (GV60-specific, carbon fiber fenders with 50mm flares, front bumper canards, and a ducktail spoiler) finished in HyperShift Magma Orange with matte black accents, paired with a custom front splitter by Rocket Bunny (3D-scanned for GV60 aero balance) and a rear diffuser by Varis (carbon fiber, 3-piece with integrated brake ducts)",
+    "Forged aluminum wheels: Rotiform LAS-R 20x10.5 +25 front and 20x12 +35 rear (custom offsets for GV60 wheel wells), wrapped in Michelin Pilot Sport Cup 2 R tires (275/30/20 front, 315/25/20 rear) with TPMS sensors from AEM for real-time pressure monitoring",
+    "Interior: Full carbon fiber weave by Seibon (dashboard, door cards, center console) with Alcantara-wrapped Recaro SP-G seats (GV60-specific mounting brackets), a custom roll cage by Custom Cages (8-point, TIG-welded chromoly) with harness bar integration, and a digital dash upgrade to a Motec C127 (CAN bus integration with the Motec M150 for live telemetry)"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "GMC",
+  "model": "CANYON AT4X",
+  "prestazioni": [
+    "Engine: Replace the stock LGZ 2.7L Turbo I4 (engine code LGZ) with a forged internals build featuring Mahle Motorsport forged pistons (9.5:1 compression), Manley H-beam connecting rods, and a billet crankshaft from Callies Performance. Pair this with a Garrett GTX3582R turbocharger (0.82 A/R turbine housing) and a custom 3.5-inch stainless steel downpipe from PPE for reduced backpressure and optimized spool.",
+    "Fuel System: Upgrade to a full return-style fuel system with a Radium Engineering fuel surge tank, dual Walbro 450 LPH in-tank pumps, and ID1000x injectors. Integrate a Motec M150 ECU with a custom calibration from HP Tuners to manage the increased fuel flow and direct injection timing for the LGZ engine.",
+    "Suspension & Drivetrain: Install a custom long-travel suspension kit from Icon Vehicle Dynamics (Stage 5) with 2.5-inch remote-reservoir coilovers, Fox 2.5 Factory Series DSC shocks, and a reinforced front sway bar. Replace the stock 8-speed automatic with a strengthened 6L80E transmission from Sun Coast Performance, paired with a triple-disc torque converter and a PML deep transmission pan for improved cooling and durability."
+  ],
+  "estetica": [
+    "Aero: Fit a custom widebody kit from RK Sport, designed specifically for the AT4X platform, featuring carbon fiber fender flares, a vented hood with a functional heat extractor, and a rear diffuser with integrated tow hooks. Add a front splitter from RTR Vehicles with adjustable dive planes for downforce tuning.",
+    "Lighting: Replace the stock headlights with a set of Morimoto XB LED projectors (D2S-compatible) and integrate a custom LED light bar setup from Baja Designs (Squadron Pro) into the front bumper. Install a set of Diode Dynamics SS3 Pro LED fog lights with a custom wiring harness for auxiliary control.",
+    "Exterior: Apply a custom matte military green wrap from 3M (2080-G12) with a textured finish. Replace the stock wheels with a set of Method MR701 NV wheels (17x9, +18 offset) wrapped in Nitto Ridge Grappler tires (285/70R17). Add a custom roof rack from Prinsu Design Studio with a low-profile design and integrated Molle panels for accessory mounting."
+  ]
+}

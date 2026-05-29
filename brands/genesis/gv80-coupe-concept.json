@@ -1,0 +1,14 @@
+{
+  "brand": "GENESIS",
+  "model": "GV80 COUPE CONCEPT",
+  "prestazioni": [
+    "Engine: SM83.8 3.5L Twin-Turbo V6 (375 HP stock) – Full forged internals upgrade with Manley 4340 steel connecting rods, JE 9.5:1 compression forged pistons, and ACL Race Series main/rod bearings to handle 800+ HP on E85. Turbocharger swap to Garrett GTX5533R Gen II with billet compressor wheel (76mm inducer, 106mm exducer) and TiAL MV-R 44mm wastegates for 38 psi peak boost.",
+    "Fuel System: Full Radium Engineering port injection kit with 8x ID1700x injectors (primary) and 8x Bosch 0280158802 injectors (secondary) fed by a dual AEM 400LPH brushless pump setup. Custom Motec M150 ECU with flex-fuel sensor and ethanol content-based timing/boost mapping for seamless E30-E85 transitions.",
+    "Drivetrain: OS Giken Super Lock LSD with 2.5-way ramp angles (80% lock on power, 40% on decel) paired with a Tilton 7.25\" twin-disc carbon clutch and billet flywheel. Transmission reinforcement via PPG straight-cut 1st/2nd gears and a PRL Motorsports Stage 3 valve body for the 8-speed ZF 8HP76 transmission, with a Derale 13-row transmission cooler and external filter kit."
+  ],
+  "estetica": [
+    "Liberty Walk LB-WORKS widebody kit (GV80 Coupe-specific) with carbon fiber fenders, front/rear bumpers, and side skirts, featuring integrated air curtains and a 50mm extended rear diffuser. Custom 3M Matte Military Green wrap with gloss black accents on the grille, badges, and window trim.",
+    "Rocket Bunny V3 aero package including a 1,200mm carbon fiber GT wing with adjustable 0-20° angle and dual-plane design, paired with a custom 3D-printed front splitter (50mm overhang) and canards. OEM+ headlight/tail light blackout with Philips X-tremeUltinon LED bulbs (6,000K) and sequential turn signals via Diode Dynamics SS360 Pro.",
+    "Forgeline GA3R 21x10.5\" (front) and 21x12.5\" (rear) forged wheels with titanium hardware, wrapped in Michelin Pilot Sport Cup 2 R tires (285/30R21 front, 325/25R21 rear). Air Lift Performance 3P management with AccuAir ENDO-CVT tanks and dual Viair 480C compressors for static -3.5\" drop with 1.5\" of adjustable lift."
+  ]
+}

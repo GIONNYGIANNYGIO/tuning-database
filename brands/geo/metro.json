@@ -1,0 +1,14 @@
+{
+  "brand": "GEO",
+  "model": "METRO",
+  "prestazioni": [
+    "Engine swap to a Suzuki G13B (1.3L DOHC 16V, 100hp in JDM spec) from a Suzuki Swift GTi, retaining the Metro's lightweight chassis for a 6.5 lb/hp power-to-weight ratio. Use a custom adapter plate from *Hasport Performance* (part #G13B-METRO-ADP) to mate the G13B to the Metro's original transaxle, paired with a *Quicksilver Racing* lightweight flywheel (2.5kg) and *ACT* 6-puck clutch (part #6200300).",
+    "Forced induction via a *Garrett GT12 turbocharger* (GT1241Z, .42 A/R turbine housing) with a *Tial 38mm wastegate* (MV-R) and *Innovate Motorsports* MTX-L wideband O2 sensor for AFR monitoring. Custom turbo manifold fabricated from 304 stainless steel (1.5\" primary tubes, 2.0\" collector) by *Full-Race Motorsports*, paired with a *GReddy Type-S intercooler* (core dimensions: 12\" x 6\" x 3.5\") and *Mishimoto* silicone couplers (part #MMINT-HD-3.0\").",
+    "Fuel system upgrade with *Walbro 255 LPH in-tank fuel pump* (part #GSS342), *Injector Dynamics ID725* fuel injectors (725cc/min), and a *Hondata* K-Pro ECU (part #KPRO-G13B) for standalone engine management. Custom 3\" aluminum intake piping with a *K&N* 69-1500TT conical filter and *Skunk2* 64mm throttle body (part #307-05-6400) for optimized airflow."
+  ],
+  "estetica": [
+    "Full *Rocket Bunny* V1 Metro-specific widebody kit (part #RB-METRO-V1), including overfenders, front bumper, and rear diffuser, paired with *Work Emotion CR Kiwami* 15x8 +0 wheels (4x100 PCD) wrapped in *Toyo R888R* 195/50R15 tires for aggressive stance and grip.",
+    "Custom *Seibon* carbon fiber hood (part #CF-METRO-HOOD) with a 2.5\" cowl scoop for engine bay heat extraction, and *C-West* rear wing (part #CW-METRO-RW) mounted on *Cusco* aluminum strut tower braces (front: part #666 540 A, rear: part #666 541 A) to stiffen the chassis.",
+    "Interior stripped and reinforced with a *Sparco* Pro ADV racing seat (part #00772NRB) mounted on *Corbeau* side-mount slider brackets (part #20201), paired with a *NRG Innovations* 350mm suede steering wheel (part #NRG-140-ST-350-SUE) and *Defi* BF series gauges (oil pressure, boost, and water temp) mounted in a *JDM Culture* A-pillar pod (part #JDM-METRO-AP)."
+  ]
+}

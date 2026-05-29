@@ -1,0 +1,14 @@
+{
+  "brand": "GMC",
+  "model": "ACADIA DENALI",
+  "prestazioni": [
+    "Engine swap to a GM LT4 (6.2L V8, engine code: LT4) with forged internals (Mahle pistons, Callies crankshaft, Manley H-beam rods) and a custom camshaft profile (Lunati 42930-16) for 700+ HP on E85, paired with a Harrop HTV2300 supercharger (2.3L rotor, 12 psi boost) and a custom intercooler setup (VMP Racing Gen 3 LT4 intercooler core with custom end tanks for the Acadia's front fascia)",
+    "Full drivetrain reinforcement: RPS Carbon-Ti driveshaft, G-Force GSR-2 transmission (built for 800+ lb-ft torque) with a PML deep pan and upgraded solenoids, and a Strange Engineering 9.5\" differential with 3.90 gears and a Truetrac limited-slip differential for the AWD system",
+    "Custom ECU tuning via HP Tuners with a standalone Flex Fuel kit (Innovate Motorsports MTX-L Plus wideband O2 sensor) and a dual Bosch 0280158861 fuel pump setup (housed in a Radium Engineering surge tank) to support the LT4's fuel demands, alongside a custom 3\" stainless steel exhaust system (Borla Pro XS with quad 4.5\" tips) and a custom-made headers (Stainless Works 1-7/8\" primary tubes with 3\" collectors)"
+  ],
+  "estetica": [
+    "Full Rocket Bunny widebody kit (Pandem Acadia Denali-specific fenders, front/rear bumpers, and side skirts) with custom carbon fiber overfenders (Seibon Carbon) and a custom front splitter (VIS Racing carbon fiber, 3\" overhang) paired with a custom GT-style rear wing (AIT Racing carbon fiber, 60\" span, adjustable angle)",
+    "Custom suspension setup: KW Suspensions Clubsport coilovers (3-way adjustable, 2.5\" drop) with Eibach ERS springs and custom top mounts (Ground Control), paired with a full poly bushings kit (Energy Suspension) and a custom sway bar setup (Hotchkis 32mm front, 25mm rear, adjustable end links)",
+    "Custom wheel setup: Forgeline GA5R 22x10.5\" (ET25) front and 22x12.5\" (ET40) rear with custom offsets, wrapped in Michelin Pilot Sport Cup 2 R tires (285/30/22 front, 315/25/22 rear), paired with Brembo GT 6-piston front and 4-piston rear calipers (380mm rotors front, 355mm rear) with custom braided lines (Goodridge G-Stop)"
+  ]
+}

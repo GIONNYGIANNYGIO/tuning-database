@@ -1,0 +1,14 @@
+{
+  "brand": "GAZ",
+  "model": "M20 POBEDA",
+  "prestazioni": [
+    "Replace the original 2.1L inline-4 M-20 engine (engine code: GAZ-M20) with a fully built 2.5L stroker kit using forged Mahle pistons (85mm bore, 110mm stroke), Carrillo H-beam connecting rods, and a billet crankshaft from SCAT Enterprises, paired with a custom camshaft profile by Schneider Racing Cams (280° duration, 0.500\" lift) for high-RPM power delivery (target: 180+ HP at 6,500 RPM).",
+    "Install a custom forced-induction system using a Garrett GT2860R turbocharger (0.63 A/R turbine housing) with a custom-built air-to-water intercooler (Setrab Pro Line) and a custom intake manifold fabricated from 304 stainless steel, featuring individual throttle bodies (ITBs) from Jenvey Dynamics (45mm diameter) for precise airflow control.",
+    "Upgrade the fuel system with a Walbro 450 LPH in-tank fuel pump, Bosch 044 high-flow fuel pressure regulator, and custom fuel rails feeding 800cc/min injectors from Injector Dynamics (ID1000), controlled by a standalone Haltech Elite 2500 ECU with a custom wiring harness by Painless Performance for full engine management and data logging."
+  ],
+  "estetica": [
+    "Replace the stock body panels with a custom widebody kit by Russian tuner \"AvtoVAZ Sport\", featuring hand-formed aluminum fenders (2.5\" wider front, 3\" wider rear) with integrated riveted flares, a carbon fiber hood with a functional NACA duct for intercooler cooling, and a custom rear diffuser by Rocket Bunny (Pandem) adapted for the M20's chassis.",
+    "Install a custom front bumper with a splitter by Seibon Carbon, featuring integrated LED auxiliary lights (Hella Rallye 4000) and a tow hook for track use, paired with a custom rear bumper with an integrated exhaust exit for a dual 2.5\" stainless steel exhaust system by Borla (Atak series) with quad tips.",
+    "Upgrade the interior with a full roll cage by Custom Cages (8-point, TIG-welded chromoly steel), Recaro SPG XL seats with Schroth 6-point harnesses, a Momo Mod.78 steering wheel on a NRG quick-release hub, and a custom dashboard featuring a digital gauge cluster by AIM MXS Strada with integrated data logging for boost, oil pressure, and wideband AFR."
+  ]
+}

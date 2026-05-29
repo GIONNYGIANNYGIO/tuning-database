@@ -1,0 +1,14 @@
+{
+  "brand": "GENESIS",
+  "model": "G70 TRACK TAXI Nürburgring",
+  "prestazioni": [
+    "Engine: 3.3L Lambda II RS T-GDi (G70 3.3T) - Engine Code: G6DH - Forced induction upgrade with Garrett GTX4202R turbochargers (88mm compressor wheel, 62.6mm turbine wheel) paired with a custom 4-inch titanium downpipe and a full 3.5-inch Inconel exhaust system by Armytrix, reducing backpressure by 42% and increasing airflow efficiency for a target of 650whp on E85 fuel with a 2.2 bar boost threshold.",
+    "Suspension: Öhlins Road & Track DFV coilovers (Genesis G70-specific valving) with 24-way adjustable compression/rebound damping, custom 8kg/mm front and 10kg/mm rear springs, and spherical bearing top mounts by Whiteline for zero compliance. Front camber adjusted to -3.8° and rear to -2.5° via custom adjustable control arms by Hardrace, with polyurethane bushings replacing all OEM rubber for precise wheel control under Nürburgring loads.",
+    "Drivetrain: OS Giken Super Lock LSD (2.2-way, 85% lockup under power) with a custom 3.91 final drive ratio (replacing the OEM 3.55) for optimized acceleration out of Nürburgring’s slow corners. Clutch Masters FX500 twin-disc clutch with billet flywheel (12.5lb) and upgraded half-shafts by Driveshaft Shop (3.5-inch chromoly) to handle the increased torque without shearing."
+  ],
+  "estetica": [
+    "Aerodynamics: Rocket Bunny V3 widebody kit (G70-specific) with carbon fiber front splitter, rear diffuser, and overfenders (30mm wider front, 40mm wider rear) to accommodate 285/30/19 Michelin Pilot Sport Cup 2 R tires on 19x10.5 ET25 (front) and 19x11.5 ET30 (rear) forged wheels by BBS FI-R. Custom 3D-printed NACA ducts in the front bumper for brake cooling, feeding air to AP Racing 6-piston calipers with 380mm two-piece rotors (floating, slotted).",
+    "Exterior: Full 3M Matte Military Green wrap with custom Nürburgring Taxi livery (black/yellow checkered stripes on the roof, doors, and rear quarter panels) and carbon fiber side skirts by Seibon. OEM headlights replaced with Lamin-X yellow-tinted covers for improved visibility in fog, paired with Morimoto XB LED bulbs (5500K) and custom Hella 500FF driving lights mounted in the front bumper for night sessions.",
+    "Interior: Full Recaro SPG XL bucket seats (Genesis G70-specific mounting brackets) with Schroth Profi II 6-point harnesses and a custom roll cage by Custom Cages (1.75-inch DOM tubing, TIG-welded) integrating a fire suppression system by Lifeline (3kg plumbed to engine bay and cabin). OEM steering wheel replaced with a Momo Prototipo (350mm, suede) and NRG quick-release hub. Digital dash upgrade with an AIM MXS Strada 1.2 display (logging GPS, lap times, boost, AFR via AEM X-Series wideband) mounted on a custom carbon fiber dash panel."
+  ]
+}

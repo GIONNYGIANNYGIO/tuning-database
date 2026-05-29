@@ -1,0 +1,14 @@
+{
+  "brand": "FORD",
+  "model": "THUNDERBIRD 1957",
+  "prestazioni": [
+    "Engine swap to a Ford Y-block (E-code 312 ci V8) bored to 348 ci with forged internals: Eagle H-beam connecting rods (PN: CRS6125B3D), JE forged pistons (PN: 229050), and a custom-ground camshaft by Iskenderian (PN: 400-JH) with 280° duration and 0.550\" lift for high-RPM powerband retention",
+    "Custom-built fuel system featuring dual Holley 750 CFM carburetors (PN: 0-80788S) on an Offenhauser intake manifold (PN: 5900-2), paired with a Mallory HyFire VI CD ignition system (PN: 681) and MSD Blaster 2 coils (PN: 8202) for precise spark control",
+    "Forced induction via a Paxton SN-60 supercharger (PN: 100100) with a custom billet impeller, running 8 psi of boost through a Spearco intercooler (PN: 2-100) and a custom 3\" aluminum charge pipe setup with Earl's Performance AN fittings (PN: 660006ERL)"
+  ],
+  "estetica": [
+    "Full custom bodywork by Ringbrothers with hand-formed steel widebody fenders (6\" flares front/rear), a one-off carbon fiber hood with functional heat extractors, and a custom grille delete with a billet aluminum mesh insert by Billet Specialties (PN: 40100)",
+    "Suspension overhaul with a Heidts Pro-G IRS system (PN: IFS-TBIRD) featuring adjustable coilovers (QA1 ST901), Wilwood 13\" front brake kits (PN: 140-13570-D), and 12\" rear brakes (PN: 140-13571-D) with drilled/slotted rotors and DBA 4000 series pads",
+    "Interior reimagined with a full custom leather upholstery by Katzkin (PN: KAT-TBIRD-57) in two-tone red/black, featuring Recaro SRD seats (PN: 391.20.00) with Schroth 6-point harnesses (PN: ASM4203R), a custom billet aluminum dashboard by Dakota Digital (PN: RTX-1957), and a RetroSound Bluetooth radio (PN: RS57-BLUETOOTH) hidden behind the original radio grille"
+  ]
+}

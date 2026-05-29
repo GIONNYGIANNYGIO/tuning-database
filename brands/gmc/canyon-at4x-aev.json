@@ -1,0 +1,14 @@
+{
+  "brand": "GMC",
+  "model": "CANYON AT4X AEV",
+  "prestazioni": [
+    "Engine: Replace the stock LGZ 3.6L V6 (206 kW / 277 hp) with a custom-built **GM LT4 6.2L supercharged V8 (LT4 engine code, 650 hp stock) from a C7 Corvette Z06**, utilizing a **Holley Dominator EFI system** for standalone management, paired with a **Kenne Bell 3.6L Mammoth supercharger (2.8L pulley for 12 psi boost)** and **ARP head studs** for reliability. Upgrade the fuel system with **Fore Innovations 450 LPH dual-pump setup** and **ID1000x injectors** to support 800+ hp.",
+    "Drivetrain: Swap the stock 8L50 8-speed automatic for a **Tremec TR-9070 7-speed dual-clutch transmission (from a C8 Corvette)** with a **South Bend twin-disc clutch** for durability. Install a **GForce G-1400 9-inch rear differential** with **3.90:1 gearing** and **Eaton ELocker** for off-road capability, paired with **RPM Transmissions billet input shaft** for strength.",
+    "Suspension/Handling: Replace the stock AEV suspension with **King Shocks 2.5\" Remote Reservoir Coilovers (3.0\" lift, 16\" travel)** and **AEV DualSport RT springs** for extreme articulation. Add **Dynatrac ProRock 60 front and ProRock 80 rear axles** with **RuffStuff Specialties heavy-duty axle trusses**, and **Nitto Ridge Grappler 37x12.5R17 tires** on **Method MR701 wheels (17x9, +18 offset)** for aggressive stance and grip."
+  ],
+  "estetica": [
+    "Aero/Body: Install the **AEV Signature Series widebody kit** with **custom carbon fiber fender flares (3.5\" wider than stock)** and **AEV heat-extracting hood vents** for the LT4 swap. Add a **Rigid Industries 50\" LED light bar** integrated into a **custom AEV front bumper with winch mount (Warn Zeon 12-S)** and **AEV rear bumper with swing-out tire carrier**.",
+    "Exterior Details: Apply a **3M Matte Military Green wrap** with **Avery Dennison Gloss Black accents** on the grille, mirrors, and rocker panels. Replace the stock badges with **3D-printed carbon fiber GMC emblems** and **AEV \"AT4X\" laser-cut aluminum door sills**. Add **Baja Designs Squadron Pro auxiliary lights** in the front grille and **custom AEV roof rack with Molle panels** for overlanding gear.",
+    "Interior: Retrofit the cabin with **Recaro Pole Position seats (carbon fiber backs, Alcantara inserts)** and **Schroth 6-point harnesses**, paired with a **Sparco Pro 2000 steering wheel** and **AiM MXS Strada dash display** for telemetry. Install **Soundstream Tarantula T5.1200.1D amplifiers** with **Focal Utopia Be tweeters** and **JL Audio 12W7 subwoofer** in a **custom AEV under-seat enclosure**."
+  ]
+}

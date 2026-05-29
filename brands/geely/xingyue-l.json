@@ -1,0 +1,14 @@
+{
+  "brand": "GEELY",
+  "model": "XINGYUE L",
+  "prestazioni": [
+    "Upgrade the **JLH-4G20TD** 2.0L turbocharged engine with a **Garrett GTX3071R Gen II** turbocharger (compressor wheel: 52mm, turbine wheel: 56mm) paired with a **Tial MV-R 44mm** external wastegate to handle 1.5 bar (21.7 psi) of boost, replacing the stock **MHI TD04L** turbo for a 350-380whp target on 98 RON fuel.",
+    "Install a **Link G4X Storm** standalone ECU with a **Geely Xingyue L-specific wiring harness** (part #JLH-4G20TD-ECU-ADAPT) to fully control the direct injection system (Bosch HDEV5.2 injectors) and port injection (ID1000 injectors) for a dual-injection setup, calibrated with **E85 flex-fuel tuning** via a **Continental ethanol content sensor**.",
+    "Replace the stock **Getrag 7DCL750** 7-speed wet DCT with a **Wavetrac limited-slip differential** (gear ratio: 4.11 final drive) and a **Porsche 991 GT3 RS clutch pack** (Sachs 3-plate ceramic) to handle increased torque, paired with a **South Bend Stage 3 daily clutch** for street reliability."
+  ],
+  "estetica": [
+    "Install a **Liberty Walk LB-XINGYUE-L** widebody kit (front fenders: +50mm, rear fenders: +70mm) with **custom carbon fiber overfenders** (pre-preg autoclave, 2x2 twill weave) to fit **Work Meister S1 3P 19x10.5 +30** wheels (ET30) with **Michelin Pilot Sport Cup 2 R 275/30/19** tires.",
+    "Replace the stock front bumper with a **Seibon Carbon Xingyue L GT-spec** lip spoiler (3-piece, dry carbon) and a **custom 3D-printed active aero splitter** (PETG + carbon fiber weave) with **Bosch ABS sensors** for adjustable ride height via **Air Lift Performance 3P management** (front: 40mm drop, rear: 35mm drop).",
+    "Retrofit the **Geely Xingyue L’s LED matrix headlights** with **Osram Night Breaker Laser H7 bulbs** (150% brighter) and **Morimoto XB LED fog lights**, then add a **custom titanium exhaust tip system** (Akrapović-style, 102mm dual outlets) with **electro-polished 304 stainless steel** and **laser-etched Geely Motorsport logos**."
+  ]
+}
