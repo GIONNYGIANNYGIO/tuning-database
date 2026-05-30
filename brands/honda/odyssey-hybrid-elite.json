@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "ODYSSEY HYBRID ELITE",
+  "prestazioni": [
+    "Hybrid powertrain recalibration targeting the LFA1 2.0L DOHC i-VTEC I4 + 2-motor hybrid system (engine code: LFA1), utilizing a Hondata FlashPro C-Hybrid specific to the Odyssey Hybrid Elite's ECU (P/N: 06F-A00-XXX) to optimize torque split between the 143 hp (107 kW) ICE and 181 hp (135 kW) combined hybrid output, with a focus on 0-60 mph acceleration by adjusting regenerative braking aggressiveness and electric motor assist mapping in Sport+ mode",
+    "Upgraded hybrid battery cooling system with a Mishimoto aluminum hybrid battery heat exchanger (P/N: MMHX-HYB-18) and dual 120mm SPAL PWM-controlled fans (P/N: VA30-AP70L-22) to prevent thermal throttling during sustained high-load hybrid operation, paired with a custom AEM X-Series wideband AFR sensor (P/N: 30-0334) for real-time air-fuel ratio monitoring in the hybrid transition zones",
+    "Forced induction conversion using a Garrett GTX2860R Gen II turbocharger (P/N: 751338-1) with a custom 3.5-inch stainless steel downpipe (fabricated by Hybrid Racing) and a Tial MV-R 44mm wastegate (P/N: MVR44) to support 12 psi of boost on the LFA1 engine, paired with a PRL Motorsports intercooler core (P/N: PRL-IC-ODYSSEY) and a custom hybrid-specific intake manifold plenum spacer (CNC-machined by Hasport Performance) to improve throttle response during electric-to-gasoline transition phases"
+  ],
+  "estetica": [
+    "Liberty Walk LB Works widebody conversion kit (P/N: LB-HONDA-ODYSSEY-01) with custom carbon fiber fender flares, front bumper canards, and a rear diffuser, designed specifically for the Odyssey Hybrid Elite's hybrid battery packaging constraints and requiring relocation of the rear tow hook to maintain OEM crash safety compliance",
+    "Custom 22-inch Work Emotion CR Kiwami wheels (P/N: CR22X10.5 +35 front, CR22X11.5 +40 rear) in a matte bronze finish, paired with Yokohama Advan Sport A/S+ tires (255/30R22 front, 285/25R22 rear) to maintain hybrid AWD torque vectoring capabilities while reducing unsprung weight via titanium wheel bolts (ARP P/N: 200-7701)",
+    "Full custom interior rewrap using Alcantara suede (Automobili Lamborghini Grigio Nyte color code) on the dashboard, door cards, and hybrid-specific center console, with contrasting red stitching (Honda Racing Red code: R81) and a custom hybrid battery cover relocation to the cargo area, replaced with a carbon fiber storage tray (fabricated by Seibon Carbon) for a dual-purpose aesthetic and functional upgrade"
+  ]
+}

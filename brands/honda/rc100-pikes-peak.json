@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "RC100 PIKES PEAK",
+  "prestazioni": [
+    "Engine: Honda RC100E (custom 1.0L inline-4, turbocharged, 4-valve DOHC, 16,000 RPM redline) with a billet aluminum block and forged internals (CP-Carrillo pistons, Manley titanium valves, and Pankl connecting rods) paired with a Garrett GTX3582R Gen II turbocharger (1.05 A/R turbine housing, 0.82 A/R compressor housing) for 550+ HP at 30 psi boost on E85 fuel, managed by a Motec M150 ECU with custom Pikes Peak-specific ignition and fuel maps.",
+    "Drivetrain: Sequential 6-speed Hewland FTR transaxle with a carbon-fiber driveshaft and a Drexler limited-slip differential (preload adjustable, 40-80% locking) for optimal power delivery on the Pikes Peak International Hill Climb’s 156 turns.",
+    "Suspension: Öhlins TTX40 4-way adjustable coilovers (200mm travel front, 220mm rear) with custom valving for the RC100’s monocoque chassis, paired with spherical bearing-equipped pushrod-actuated double wishbones (front) and multi-link (rear), adjustable via in-cabin Öhlins electronic damping control (EDC)."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon-fiber bodywork by Honda Racing (HRC) with a Pikes Peak-specific aero package, including a front splitter with integrated dive planes (300 lbs downforce at 100 mph), a rear diffuser with Gurney flap (adjustable via hydraulic actuators), and a fixed rear wing (NACA 63A012 airfoil, 1.2m span) for 800 lbs downforce at 140 mph.",
+    "Lightweighting: Polycarbonate windshield (Makrolon by Covestro) and side windows, carbon-fiber doors (honeycomb core, 3K twill weave), and a titanium roll cage (TIG-welded, 1.5mm wall thickness) designed by Safety Devices Ltd. for FIA Hill Climb compliance.",
+    "Exterior Styling: Custom livery by Standox (Honda Racing’s ‘Pikes Peak White’ base with ‘HRC Red’ and ‘Black Chrome’ accents), featuring hand-painted sponsor logos (e.g., NGK, ENEOS, Takata) and a carbon-fiber hood with a functional NACA duct for turbocharger intake cooling."
+  ]
+}

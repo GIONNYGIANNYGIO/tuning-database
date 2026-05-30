@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "RA300",
+  "prestazioni": [
+    "Replace the original 3.0L Honda RA273E V12 (engine code: RA273E) with a fully built, dry-sumped version featuring forged Mahle pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from Toda Racing, paired with a custom 24V cylinder head ported by Norris Design for optimized airflow and fitted with Ferrea titanium valves, Supertech valve springs, and Tomei Type-R camshafts (280° duration, 11.5mm lift) for high-RPM stability up to 12,500 RPM",
+    "Install a custom-built, sequential fuel injection system using Bosch Motorsport 2000cc/min high-flow injectors, an AEM Infinity 7 ECU with individual cylinder tuning, and a custom titanium intake manifold designed by Honda Performance Development (HPD) to accommodate dual 80mm throttle bodies, paired with a custom 3.5-inch stainless steel velocity stack system for optimized ram-air effect",
+    "Upgrade the drivetrain with a 6-speed sequential gearbox from Hewland (DG300 model) featuring a Sachs twin-disc carbon clutch, a Quaife ATB differential with 4.5:1 final drive ratio, and a custom lightweight driveshaft from GKN Driveline, while reinforcing the chassis with a full chromoly roll cage from Safety Devices and a custom aluminum fuel cell from ATL with dual Bosch 044 fuel pumps for endurance racing"
+  ],
+  "estetica": [
+    "Apply a full carbon fiber body kit from RAUH-Welt Begriff (RWB) designed exclusively for the RA300, including a custom front splitter with integrated canards, side skirts with air curtains, and a massive rear diffuser with a single-element GT-style wing (adjustable via hydraulic actuators) for downforce optimization at high speeds",
+    "Replace the original steel wheels with custom 18x12-inch front and 18x14-inch rear magnesium wheels from BBS (LM-RS model) wrapped in Pirelli P Zero Trofeo R tires (285/645R18 front, 335/685R18 rear), paired with a custom center-lock hub system from AP Racing for rapid pit-stop wheel changes",
+    "Install a full custom interior by Status Racing featuring carbon fiber Recaro Pole Position seats with 6-point Schroth harnesses, a MOMO Prototipo steering wheel with integrated AIM MXS Strada dash display, and a custom aluminum shift knob for the Hewland sequential gearbox, while removing all non-essential weight (including the original dashboard) and replacing it with a carbon fiber panel from VIS Racing"
+  ]
+}

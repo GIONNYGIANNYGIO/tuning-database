@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "RIDGELINE TYPE R",
+  "prestazioni": [
+    "Engine swap to J37A4 (3.7L V6 from Acura TL Type-S) with forged internals: Manley 4340 steel crankshaft, Eagle H-beam connecting rods, and JE 12.5:1 compression pistons, paired with a custom Comp Cams 272°/276° camshaft grind for high-RPM power retention (rev limit raised to 8,200 RPM via Hondata KPro V4 ECU with custom basemap).",
+    "Forced induction via Garrett GTX3582R turbocharger (0.82 A/R turbine housing) with a custom 3.5-inch stainless steel downpipe, HKS SSQV4 blow-off valve, and a PRL Motorsports intercooler core (22x12x3.5 inches) with custom aluminum end tanks for optimized airflow under the Ridgeline’s unique front bumper constraints.",
+    "Full drivetrain reinforcement: OS Giken Super Lock LSD (4.10 final drive ratio) in the rear axle, upgraded driveshafts with billet yokes from Driveshaft Shop, and a custom 4-piston Brembo GT brake kit (380mm rotors) with Ferodo DS2500 pads for the Ridgeline’s 5-lug hub pattern."
+  ],
+  "estetica": [
+    "Liberty Walk LB-RIDGELINE widebody kit (custom-fabricated to fit the Ridgeline’s unibody truck bed) with carbon fiber fender flares, paired with a custom 3M Matte Military Green wrap and exposed carbon fiber hood (Seibon Carbon Type-R replica).",
+    "Custom rear bed delete with a carbon fiber tonneau cover (Aerocatch latches) and a hidden roll bar integrated into the bed structure, wrapped in Alcantara with red stitching (matching the Recaro SPG-X seats).",
+    "Front end overhaul with a custom 3D-printed splitter (carbon fiber layup) designed in CFD for the Ridgeline’s aero profile, paired with a Voltex Type-5 rear wing (adjustable angle) and custom LED taillights (Diode Dynamics SS360-X with sequential turn signals)."
+  ]
+}

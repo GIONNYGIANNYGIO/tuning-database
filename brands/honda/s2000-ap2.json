@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "S2000 AP2",
+  "prestazioni": [
+    "Forced induction via Garrett GT3076R turbocharger (Journal Bearing, 0.82 A/R turbine housing) on the F20C1 engine, paired with a Tomei 80mm titanium wastegate and custom 3-inch stainless steel turbo manifold by Full-Race Motorsports, supporting 12 psi of boost with a 44mm external wastegate for precise boost control",
+    "Full fuel system upgrade including a Walbro 450 LPH in-tank fuel pump, Injector Dynamics ID1000x injectors (1000cc/min), and a Hondata KPro V4 standalone ECU with custom basemap for the F20C1, optimized for E85 flex-fuel with AEM X-Series wideband O2 sensor for AFR monitoring",
+    "Engine internals reinforcement with JE FSR forged pistons (87mm, 12.5:1 compression for forced induction), Eagle H-beam connecting rods, and a Tomei Type-S billet crankshaft, paired with a Koyoritsu Racing titanium valve retainer set and Supertech dual valve springs for 9,000 RPM stability"
+  ],
+  "estetica": [
+    "Voltex Type-3 rear wing with carbon fiber construction and adjustable angle mounts, specifically designed for the AP2 chassis to reduce lift at high speeds without adding excessive drag",
+    "Rocket Bunny V3 widebody kit (AP2-specific) with extended carbon fiber fenders, front canards, and rear diffuser, paired with custom 5mm spacers for aggressive stance over Work Meister S1 3P 18x9.5 +30 (front) and 18x10.5 +25 (rear) wheels",
+    "Custom interior roll cage by Buddy Club (AP2-specific bolt-in design) with integrated harness bar, wrapped in Takata Drift III 4-point harnesses, and Recaro SPG XL seats with custom Alcantara and red stitching, paired with a Momo Mod.78 steering wheel (350mm) and NRG quick-release hub"
+  ]
+}

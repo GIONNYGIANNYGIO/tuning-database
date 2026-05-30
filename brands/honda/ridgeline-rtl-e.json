@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "RIDGELINE RTL-E",
+  "prestazioni": [
+    "J35Y6 (3.5L V6 Earth Dreams) engine: Full bolt-on forced induction conversion using a Garrett GT3582R turbocharger (0.82 A/R, 62mm inducer) paired with a PRL Motorsports J35A/J35Y short-runner intake manifold and custom 3.5\" intercooler piping routed through the Ridgeline's unique front bumper ducting. Supporting mods include a Hondata KPro4 standalone ECU with custom J35Y6 turbo calibration, ID1000x injectors, and a DW300c in-tank fuel pump with a Radium Engineering dual-channel fuel pressure regulator.",
+    "Chassis reinforcement: Full seam-welded unibody with a custom bolt-in 4-point roll cage (1.75\" x .120\" DOM tubing) from The Phoenix Group, designed to integrate with the Ridgeline's existing bed structure. Suspension overhaul includes Ohlins Road & Track coilovers (custom valving for the Ridgeline's 5,000lb GVWR) with Swift Springs 800lb/in front and 600lb/in rear rates, paired with SuperPro poly bushings (part #SPF1135K) for the rear trailing arms to eliminate compliance.",
+    "Drivetrain upgrades: OS Giken Super Lock LSD (2.5-way, 40% lock under power) in the Ridgeline's unique torque-vectoring rear differential housing, paired with a Fidanza lightweight flywheel (18lb) and South Bend Stage 3 Clutch (organic/metallic hybrid). The stock 6-speed automatic is retained but reflashed with a custom A/T tune from Gearstar (Level 4) to handle the increased torque, with a Derale 13104 transmission cooler and a PRL Motorsports torque converter (2,800rpm stall) for improved launch control."
+  ],
+  "estetica": [
+    "Liberty Walk LB-RIDGELINE widebody kit (custom-fabricated to fit the RTL-E's existing fender flares and bed lines), paired with a Seibon Carbon fiber hood (OEM-style latch, 30% weight savings) and a custom rear diffuser from Maxton Design (integrated with the Ridgeline's dual exhaust outlets).",
+    "Wheel setup: Work Emotion CR Kiwami (20x10 +15 front, 20x11 +20 rear) with Nitto NT05R tires (275/35/20 front, 295/30/20 rear) and custom extended wheel studs (1.5\" length) from ARP to accommodate the widebody fenders. Brake system includes DBA 5000 Series rotors (slotted, 355mm front/343mm rear) with Ferodo DS2500 pads and custom stainless steel brake lines from Goodridge.",
+    "Exterior accents: Full de-chrome with vinyl wrap in 3M Gloss Gunmetal (matte black roof and bed), custom LED taillights from Diode Dynamics (sequential turn signals, integrated with the Ridgeline's bed lighting), and a custom front grille insert from Rally Innovations (hexagonal mesh, black powder-coated) to replace the RTL-E's chrome slats. Bed modifications include a custom aluminum tonneau cover from UnderCover (hard-folding, painted to match body) with integrated LED bed lighting and a hidden storage compartment for tools."
+  ]
+}

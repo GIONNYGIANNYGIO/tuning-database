@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "RA300 F1",
+  "prestazioni": [
+    "Replacement of the original 3.0L RA273E V12 (engine code: RA273E) with a bespoke 3.5L naturally aspirated V12 (RA302E-derived block) featuring titanium connecting rods (Pankl Racing Systems), forged Mahle pistons with a 12.5:1 compression ratio, and a dry-sump lubrication system (Titan Motorsport) for sustained high-RPM operation (12,000+ RPM redline).",
+    "Installation of a custom billet aluminum intake manifold (Honda Racing Development) with individual throttle bodies (ITBs) from Jenvey Dynamics (48mm diameter) and a ram-air induction system integrated into the rear wing support structure (TWR-designed ducting).",
+    "Upgraded braking system with 6-piston monobloc calipers (AP Racing CP6146-6) clamping 330mm carbon-carbon brake discs (Hitco) and a bespoke brake-by-wire system (Bosch Motorsport MS50) for adaptive bias control during high-G cornering."
+  ],
+  "estetica": [
+    "Full carbon-fiber bodywork replacement (Hexcel 8552 prepreg) with a 1967-spec aerodynamic package, including a revised front splitter (TWR design) and a Gurney flap on the rear wing (30mm height, adjustable in 5mm increments).",
+    "Custom livery in Honda Racing’s 1967 metallic silver (PPG Ditzler DAR30229) with hand-painted red/blue accents (House of Kolor Shimrin HS) and period-correct Goodyear Racing logos (vinyl decals by Standox).",
+    "OMP carbon-fiber racing seat (OMP KS-5) with 6-point Schroth harnesses (Schroth Racing Profi II 6ASM) and a custom roll cage (T45 steel, TIG-welded by Safety Devices) integrated into the chassis for torsional rigidity (20% increase over stock)."
+  ]
+}

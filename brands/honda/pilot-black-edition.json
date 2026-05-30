@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "PILOT BLACK EDITION",
+  "prestazioni": [
+    "Engine: J35Y6 (3.5L V6 SOHC i-VTEC, direct injection) – Forced induction via Garrett GTX3582R turbocharger (106mm compressor wheel, 82mm turbine, 1.06 A/R turbine housing) with custom 3.5-inch stainless steel downpipe and Vibrant 1799 high-flow catalytic converter for 450whp target on E85 fuel.",
+    "Suspension: Full Ohlins Road & Track DFV coilovers (Honda Pilot-specific valving, 24-way adjustable compression/rebound damping) paired with Whiteline front sway bar (27mm hollow, adjustable end links) and rear subframe reinforcement plates (SPL Parts) to eliminate flex under hard cornering.",
+    "Drivetrain: K-Tuned 3.7 Final Drive (4.56:1 ratio) with OS Giken Super Lock LSD (2-way, 45% preload) and upgraded axles (Driveshaft Shop 3.5-inch chromoly CV shafts) to handle increased torque, mated to a K24A2-based 6-speed manual swap (Honda H23 transmission with custom bellhousing adapter)."
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny V3 widebody kit (Pilot-specific, 3-piece front fenders, 2.5-inch extended rear quarters) with custom carbon fiber front splitter (Seibon, 3D-scanned for OEM fitment) and rear diffuser (Aeroflow Dynamics, 4-inch overhang, 3D-printed ABS construction).",
+    "Wheels: Work Emotion CR Kiwami (20x10 +25 front, 20x11 +30 rear) with custom 5x120 to 5x114.3 adapters (Weld Racing billet hubcentric) wrapped in Michelin Pilot Sport Cup 2 R tires (275/35/20 front, 295/30/20 rear).",
+    "Exterior: Full 3M Matte Jet Black vinyl wrap (XPEL Stealth finish) with custom gloss black accents (Honda badges, window trim, and mirror caps) and sequential LED turn signals (Diode Dynamics SS360, integrated into OEM housing with CAN bus decoder)."
+  ]
+}

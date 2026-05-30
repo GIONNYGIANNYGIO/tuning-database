@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "PRELUDE SI VTEC",
+  "prestazioni": [
+    "Engine: H22A4 (2.2L DOHC VTEC, 190hp stock) with a fully built bottom end featuring Eagle forged crankshaft (4340 steel, 87mm stroke), Eagle H-beam connecting rods (5.512\" length), and JE forged pistons (87mm bore, 9.8:1 compression, coated skirts). Paired with a Tomei 260° duration camshaft (intake/exhaust) and Supertech valve springs/retainers for 9,000 RPM reliability.",
+    "Forced Induction: Garrett GT2860RS turbocharger (0.63 A/R turbine housing) with a custom 3\" stainless steel downpipe (Mugen-style manifold) and a GReddy Type-S intercooler (front-mount, 600hp core). Fuel system upgraded with Walbro 450LPH in-tank pump, Injector Dynamics ID1000 fuel injectors, and a Hondata K-Pro ECU (v4) tuned for 350whp on E85 (boost target: 18psi).",
+    "Drivetrain: OS Giken Super Lock LSD (4.785 final drive) with a PPG straight-cut dog engagement gearset (1st: 2.923, 2nd: 2.176, 3rd: 1.636). Clutchmasters FX400 twin-disc clutch (6 puck, cerametallic) and a Fidanza aluminum flywheel (12.5lb). Custom driveshaft by Driveshaft Shop (3.5\" aluminum, balanced for 10,000 RPM)."
+  ],
+  "estetica": [
+    "Body Kit: Rocket Bunny V1 Prelude widebody conversion (custom-fabricated fenders, 3\" wider front/4\" wider rear) with a Seibon carbon fiber hood (duckbill style, 50% weight reduction). Rear diffuser by Veilside (ADVAN RS style, 3-piece carbon fiber).",
+    "Suspension: Ohlins Road & Track coilovers (DFV damping, 8-position adjustability) with Eibach ERS 1000lb/in springs. Cusco front strut tower bar (22mm hollow) and rear upper strut brace (3-point, aluminum). Polyurethane bushings by Energy Suspension (full set, 75A durometer).",
+    "Wheels/Stance: Work Meister S1 3P (17x9 +22 front, 17x10.5 +30 rear) with Toyo R888R tires (245/40/17 front, 275/35/17 rear). Custom fender flares rolled/pulled with a 1.5\" static drop (no camber plates, -2.5° front camber, -1.8° rear)."
+  ]
+}

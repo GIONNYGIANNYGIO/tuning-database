@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "RIDGELINE RTL",
+  "prestazioni": [
+    "J35Y6 (3.5L V6 Earth Dreams) engine: Full bolt-on forced induction conversion using a Garrett GTX3582R turbocharger (0.82 A/R, 62mm inducer) with a custom 3.5-inch stainless steel intercooler piping system from Vibrant Performance, paired with a PRL Motorsports J35Y6-specific short ram intake and a custom 3-inch downpipe from MagnaFlow (catless, 409 stainless steel).",
+    "J35Y6: Full engine internals upgrade with forged pistons from JE (9.5:1 compression, 2618 alloy), Eagle Specialty Products forged H-beam connecting rods, and a billet crankshaft from Callies (4.25-inch stroke). The valvetrain is upgraded with Ferrea Competition Series intake/exhaust valves, Supertech dual valve springs, and titanium retainers, paired with a Kelford 272/280 camshaft profile (custom ground for the J35Y6).",
+    "J35Y6: Full fuel system overhaul with a Walbro 450 LPH in-tank fuel pump, ID1000x injectors (side-feed, 1000cc/min), and a Radium Engineering fuel pressure regulator (dual-line, adjustable). The ECU is reflashed using a Hondata FlashPro (J35Y6-specific calibration) with a custom tune from Church Automotive Testing, targeting 12 psi of boost and 450 whp on E85 fuel."
+  ],
+  "estetica": [
+    "Custom widebody conversion using a Ridgeline-specific Rocket Bunny V2 aero kit (fiberglass fenders, carbon fiber front bumper, and rear diffuser), paired with a custom 3M Matte Military Green wrap (2080 series) and blacked-out emblems from Vinyl Disorder.",
+    "Suspension drop using a BC Racing BR coilover kit (Ridgeline-specific, 8kg front/10kg rear spring rates) with custom camber plates from SPC Performance (5 degrees negative camber front, 3 degrees rear). The wheels are Enkei Raijin 18x9 +15 ET (matte bronze finish) with Nitto NT05R 275/60R18 tires.",
+    "Full interior overhaul with a custom roll cage from Custom Cages (6-point, chromoly steel), Recaro Sportster CS seats (Honda Ridgeline-specific mounting brackets), and a Momo Mod.78 steering wheel (350mm, suede). The gauge cluster is replaced with an AEM X-Series 6-gauge digital dash (boost, wideband AFR, oil pressure, fuel pressure, and EGT)."
+  ]
+}

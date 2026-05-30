@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "NSX NC1",
+  "prestazioni": [
+    "Engine: C32B (3.2L V6 DOHC 24V) with a custom forced-induction setup using a Garrett GTX3582R turbocharger (86mm compressor, 1.06 A/R turbine housing) paired with a Tomei 80mm titanium exhaust manifold and a custom 3.5-inch stainless steel downpipe from HKS, supporting 12 psi of boost with a Motec M150 ECU for precise fuel and ignition mapping, targeting 550whp on E85 fuel.",
+    "Suspension: Full Ohlins Road & Track coilover kit (NSX-specific valving) with adjustable camber plates from Buddy Club, reinforced front and rear subframes with Cusco 4-point strut braces, and spherical bearing conversion for the rear toe arms using SPC Performance components to eliminate compliance under high lateral loads.",
+    "Drivetrain: OS Giken Super Lock LSD (2.2-way) with 85% lockup under power, upgraded driveshafts from Driveshaft Shop (3.5-inch carbon fiber center section), and a custom 6-speed manual transmission rebuild with Synchrotech synchros, upgraded shift forks, and a Tilton twin-disc clutch (7.25-inch) with a billet flywheel for rapid engagement."
+  ],
+  "estetica": [
+    "Aero: Seibon Carbon fiber widebody conversion kit (NC1-specific, +50mm front, +70mm rear) with a custom front splitter from Varis Japan (3D-scanned for perfect fitment) and a Voltex Type-3 rear wing (1,800mm span, 300mm chord) mounted on custom aluminum pedestals for adjustable angle of attack.",
+    "Exterior: Full respray in Honda Championship White (NH-574M) with a custom matte clear coat from Glasurit, JDM-spec Honda Access front lip (OEM+ style), and custom carbon fiber side skirts from 996 Design, featuring integrated LED turn signals and aero strakes for improved airflow separation.",
+    "Interior: Full Recaro SPG XL bucket seats (HANS-compatible) with custom NSX-specific mounting brackets, a MOMO Mod.78 steering wheel (350mm diameter, suede) on a NRG quick-release hub, and a custom roll cage from Custom Cages (FIA-spec, 4-point with door bars) finished in gloss black powder coat with red accent stitching on the Alcantara-wrapped dashboard."
+  ]
+}

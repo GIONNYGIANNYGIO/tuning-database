@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "NSX NC1 TYPE S",
+  "prestazioni": [
+    "Replace the stock C32B 3.2L V6 (90° DOHC, 24-valve, 280 PS) with a fully built version featuring forged internals: JE 9.5:1 compression pistons, Eagle H-beam connecting rods, and a billet crankshaft from Toda Racing. Pair with Toda Racing Type R camshafts (272° duration, 11.5mm lift) and a custom 3.5L stroker kit (Toda Racing) to achieve 3.8L displacement for 450+ PS at 8,500 RPM with a 9,000 RPM redline.",
+    "Install a custom forced-induction system using a Garrett GTX3582R turbocharger (0.82 A/R turbine housing) with a custom 3.5-inch titanium downpipe and a GReddy Profec B Spec II boost controller. Use a custom intercooler setup (HKS GT-SS intercooler core with custom aluminum piping) and a Tomei 80mm titanium blow-off valve. Tune via Hondata K-Pro v4 with a custom map targeting 1.2 bar of boost and 550+ PS at the wheels.",
+    "Upgrade the stock 6-speed manual transmission with a Quaife ATB helical LSD and a custom OS Giken 5-clutch kit (ceramic-metallic). Reinforce the drivetrain with a Toda Racing aluminum flywheel and a custom driveshaft from Driveshaft Shop (carbon fiber, 1350 series U-joints). Replace the stock axles with custom CV joints from FKG Racing."
+  ],
+  "estetica": [
+    "Install a full carbon fiber widebody kit from Veilside Fortune 03 (NSX-specific, bolt-on fenders, front bumper, and rear diffuser). Pair with a custom carbon fiber hood from Seibon Carbon (NSX NC1-specific, vented, with integrated NACA ducts).",
+    "Replace the stock wheels with custom 19x10.5 +25 (front) and 20x12.5 +40 (rear) forged wheels from Work Meister S1 3P (matte black finish). Use custom 275/30/19 (front) and 325/25/20 (rear) tires from Michelin Pilot Sport Cup 2 R.",
+    "Install a full Ohlins Road & Track coilover suspension system (NSX NC1-specific, 3-way adjustable dampers, custom spring rates: 12kg/mm front, 14kg/mm rear). Add a custom front strut bar from Cusco (Type RS, 3-point design) and a rear subframe brace from Spoon Sports (NSX-specific, aluminum construction)."
+  ]
+}

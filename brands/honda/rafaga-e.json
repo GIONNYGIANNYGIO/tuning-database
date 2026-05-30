@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "RAFAGA E",
+  "prestazioni": [
+    "Engine swap to a naturally aspirated **H22A Type-S (H22A7)** from the JDM Honda Prelude, featuring a 2.2L DOHC VTEC block with 200 PS (197 hp) at 6,800 RPM and 21.5 kg·m (156 lb·ft) of torque at 5,500 RPM. Retain the Rafaga's **S-Matic** 4-speed automatic transmission but upgrade the torque converter to a **Level 10 Racing billet unit** with a 2,800 RPM stall speed to handle the increased power while maintaining OEM-like drivability.",
+    "Forced induction via a **Garrett GT2860RS-5 turbocharger** (0.86 A/R turbine housing) paired with a **Toda Racing H22A-specific cast manifold** and a **GReddy Type-S front-mount intercooler** (400mm core). Supporting mods include a **Toda Racing high-flow fuel pump**, **Injector Dynamics ID1000x injectors**, and a **Hondata S300 standalone ECU** with a **custom basemap** tuned by **ProRacing Simulations** for 300+ WHP on 98 RON fuel.",
+    "Suspension overhaul with **Tein Flex Z coilovers** (Honda Accord/Rafaga-specific valving) paired with **Cusco 22mm front and 18mm rear sway bars**. Chassis reinforcement via **Spoon Sports 4-point strut bar** and **Cusco front lower tie bar**. Braking upgraded to **Endless CC-R6 rotors (280mm front, 260mm rear)** with **Project Mu 999.9 compound pads** and **Goodridge braided stainless steel brake lines**."
+  ],
+  "estetica": [
+    "Full **J's Racing Rafaga-specific widebody kit** (front fenders, rear quarter panels, and rear bumper) with **Seibon carbon fiber hood** (OEM-style latches, 50% weight reduction). Side skirts and rear diffuser from the **Mugen Euro R aero kit** (discontinued, rare JDM-only).",
+    "OEM+ JDM styling with **Honda Access Rafaga E-specific clear corner lights** (amber turn signals removed) and **Mugen MF-10 16-inch wheels** (16x7 +45 offset, 5x114.3 PCD) wrapped in **Yokohama Advan Neova AD08R tires** (205/50/16). Rear wiper deleted and replaced with a **Spoon Sports rear wiper delete panel**.",
+    "Interior stripped and reupholstered with **Recaro SRD-E bucket seats** (Honda Rafaga-specific mounting brackets) and **Takata Drift II 4-point harnesses**. Steering wheel replaced with a **Mugen MF10 350mm suede wheel** (Honda SRS airbag compatible) and shift knob upgraded to a **Spoon Sports titanium shift knob** (S-Matic automatic-specific). Full **Defi BF gauges** (oil pressure, oil temp, boost) mounted in a **Spoon Sports A-pillar pod**."
+  ]
+}

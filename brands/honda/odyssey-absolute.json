@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "ODYSSEY ABSOLUTE",
+  "prestazioni": [
+    "Engine swap to a J37A4 (3.7L V6 from the Acura TL Type-S) with a custom billet crankshaft from Toda Racing, forged pistons by JE (9.5:1 compression), and Carrillo H-beam connecting rods for high-RPM stability (rev limit raised to 8,200 RPM via Hondata KPro V4 ECU with custom camshafts from Skunk2 Pro Series Stage 3, 284° duration, 12.5mm lift).",
+    "Forced induction via a Garrett GTX3582R turbocharger (1.05 A/R turbine housing) with a custom 3.5-inch stainless steel downpipe by Full Race Motorsports, paired with a GReddy Profec B Spec II boost controller and a custom intercooler core from PWR (1,200hp capacity) with dual 4-inch silicone couplers by Vibrant Performance.",
+    "Drivetrain reinforcement with a Quaife ATB helical LSD in the OEM differential housing, upgraded axles from Driveshaft Shop (Stage 3, 300M steel), and a Tilton 7.25-inch twin-disc clutch with a billet flywheel (lightened to 12 lbs) for the J37A4 swap. Suspension overhaul with Ohlins Road & Track coilovers (custom valving for Odyssey chassis), poly bushings from Energy Suspension (full set), and a Cusco front strut tower bar (2-point, 3mm thick)."
+  ],
+  "estetica": [
+    "Full Rocket Bunny V3 widebody kit (modified for Odyssey Absolute dimensions) with custom carbon fiber overfenders (pre-preg autoclave, 2x2 twill weave) and a 3-piece front bumper lip with integrated canards (Aero Catch carbon fiber).",
+    "Custom rear diffuser by Seibon Carbon (matched to Rocket Bunny rear bumper) with dual 4-inch titanium exhaust tips from Fujitsubo (GSpec Legalis R). Roof replacement with a Seibon carbon fiber hardtop (weight reduction: 18 lbs) and custom rear spoiler by APR Performance (GT-500, 3D-printed mounting brackets for Odyssey roof rails).",
+    "OEM+ interior with Recaro SP-G (JDM-spec) front seats (retrimmed in Alcantara with red stitching by Status Racing), custom rear seat delete (carbon fiber panel by Varis) with a full bolt-in roll cage by Custom Cages (8-point, TIG-welded 4130 chromoly), and a custom gauge cluster by Defi (Link series, 60mm oil pressure/temp, boost, and wideband AFR)."
+  ]
+}

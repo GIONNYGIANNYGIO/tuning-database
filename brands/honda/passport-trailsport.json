@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "PASSPORT TRAILSPORT",
+  "prestazioni": [
+    "Engine swap to a J35Y6 (3.5L V6, direct-injection, 280 hp stock) with a custom forced-induction setup using a Garrett GTX3582R turbocharger (1.05 A/R, ball-bearing) paired with a PRL Motorsports J35Y6 turbo manifold, supporting 12 psi of boost for ~450 whp on E85 fuel. Requires a Hondata KPro V4 ECU reflash with custom ethanol mapping and a DW300c fuel pump upgrade.",
+    "Full drivetrain reinforcement with a Fidanza lightweight flywheel (18 lbs), South Bend Stage 3 clutch kit (ceramic-metallic), and a Quaife ATB differential for the rear axle to handle increased torque. Front and rear axles upgraded to GKN Driveline CV joints with reinforced boots for off-road durability.",
+    "Suspension overhaul with King Shocks 2.5\" Remote Reservoir Coilovers (10\" travel front, 12\" rear) paired with Eibach Pro-Truck EVO springs (2.5\" lift) and Whiteline front sway bar (24mm adjustable) to reduce body roll. Full poly bushings from Energy Suspension (part #9.5104G) for subframe and control arms to eliminate flex."
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (Passport-specific, bolt-on) with custom carbon fiber fender flares (3\" wider than stock) and a custom front splitter from Seibon Carbon (pre-preg autoclave, 3K twill weave). Rear diffuser from Varis Japan (aluminum, 3-piece) with integrated tow hooks.",
+    "Functional hood scoop from APR Performance (carbon fiber, 4\" ram-air) feeding a Mishimoto J35Y6 intercooler (20\" x 12\" x 3.5\") with custom piping from Injen Technology (mandrel-bent aluminum, 3\" diameter). Side exit exhaust system from Borla (cat-back, 3.5\" tips, stainless steel) with a custom X-pipe for aggressive tone.",
+    "Wheel setup: Method MR701 VT (17x9 +12mm offset) with Nitto Ridge Grappler tires (285/70R17) for off-road, or Enkei PF07 (18x10.5 +20mm) with Michelin Pilot Sport Cup 2 (275/40R18) for on-road. Custom center caps from 3D Carbon with Honda Racing H-logo in red anodized aluminum."
+  ]
+}

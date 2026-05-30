@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "PRELUDE BB4",
+  "prestazioni": [
+    "Engine swap to a naturally aspirated **H22A Black Top (F22B block hybrid)** with forged internals: Manley 87mm forged pistons, Eagle H-beam connecting rods, ACL Race Series bearings, and a Tomei 264°/248° camshaft set for high-RPM power (220+ hp at 8,500 RPM). Paired with a **Skunk2 Pro Series intake manifold** and **RC Engineering 750cc injectors** for optimized airflow and fuel delivery.",
+    "Forced induction via a **Garrett GT2860RS turbocharger** (0.64 A/R turbine housing) on a custom **Full-Race Motorsports tubular manifold**, with a **GReddy Type-S intercooler** and **HKS SSQV4 blow-off valve**. Boost controlled via an **AEM Tru-Boost Controller** targeting 12 psi on pump gas (91 octane) with a **Hondata S300 ECU** for real-time tuning and datalogging.",
+    "Suspension overhaul with **Tein Flex Z coilovers (BB4-specific valving)** paired with **Whiteline BBK (Bolt-On Bushing Kit)** for subframe reinforcement, **Energy Suspension polyurethane bushings** for the rear trailing arms, and **Cusco 22mm front/18mm rear adjustable sway bars** to eliminate body roll. Braking upgraded to **DBA 4000 Series rotors** with **Hawk HT-10 brake pads** and **Goodridge G-Stop stainless steel brake lines** for fade-resistant stopping power."
+  ],
+  "estetica": [
+    "**Vertex Lang II widebody kit** (BB4-specific, bolt-on fenders with +50mm front/+70mm rear flares) paired with a **J's Racing carbon fiber hood** (vented, 50% weight reduction) and **Seibon carbon fiber trunk** for balanced aerodynamics and weight savings.",
+    "OEM+ aggressive stance via **Work Meister S1 3P 17x9 +35 front / 17x10 +25 rear wheels** wrapped in **Yokohama Advan A052 235/40/17 front / 265/35/17 rear tires** for optimal grip. Fender gaps filled with **Rally Armor UR mud flaps** (custom-cut for BB4) and **Cusco front strut bar** for chassis rigidity.",
+    "Interior stripped and reinforced with a **Sparco Pro ADV racing seat (Honda-specific mounts)** and **Takata Drift III 4-point harness**, paired with a **NRG Innovations quick-release steering wheel hub** and **Defi BF gauges (oil pressure, boost, wideband AFR)** mounted on a **Custom Cages A-pillar pod**. Shift knob replaced with a **Mugen billet short shifter** and **BeatRush weighted shift knob (200g)** for precise throws."
+  ]
+}

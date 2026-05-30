@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "ODYSSEY RB1",
+  "prestazioni": [
+    "Engine swap to a J35A8 (3.5L V6 from the 2005-2008 Honda Legend) with a custom billet crankshaft from Toda Racing, forged pistons by JE (9.5:1 compression), and Carrillo H-beam connecting rods for high-RPM stability up to 8,500 RPM. Pair with a custom 3.6L stroker kit from Hasport Performance to achieve 3.8L displacement, utilizing a custom dry-sump oiling system by Peterson Fluid Systems to prevent oil starvation during aggressive cornering.",
+    "Forced induction via a Garrett GTX4202R turbocharger (86mm compressor wheel, 1.06 A/R turbine housing) with a custom top-mount intercooler setup by PWR (5.5\" thick core, 1000HP-rated) and a custom 3.5\" titanium exhaust system by HKS Hi-Power Spec-L, featuring a 4-2-1 header design with equal-length primaries and a secondary cat-delete section for optimal spool and flow. Boost controlled via a TurboSmart e-Boost2 controller with a custom 3.5-bar MAP sensor for precise tuning.",
+    "Full drivetrain reinforcement including a Quaife ATB differential (80% lockup) in the front axle, paired with a custom torque-splitter from PPG to enable a 60/40 front-to-rear power distribution. Clutch upgrade to a twin-plate carbon clutch by Spec Stage 4+ with a billet flywheel from Fidanza, mated to a custom 6-speed manual transmission swap using a K24A2 gearbox from a Honda Accord Euro R, reinforced with a PPG close-ratio gear set (1st: 3.266, 2nd: 2.130, 3rd: 1.517, 4th: 1.147, 5th: 0.921, 6th: 0.738) and a custom short-throw shifter by MFactory."
+  ],
+  "estetica": [
+    "Full Rocket Bunny RB1-specific widebody kit (Version 2, 2023 release) with carbon fiber overfenders, front bumper canards, and a custom rear diffuser with integrated twin exhaust exits. Front lip spoiler replaced with a custom 3D-printed ABS unit from Seibon Carbon, designed for optimal downforce at high speeds (tested in CFD for 120kg at 180km/h).",
+    "Custom 19x9.5\" ET+20 (front) and 19x10.5\" ET+15 (rear) forged wheels by Work Meister S1 3P (10-spoke design, 5x114.3 PCD) wrapped in Michelin Pilot Sport Cup 2 R tires (255/35/19 front, 285/30/19 rear). Brake system upgraded to a full AP Racing CP9660 kit with 6-piston calipers (front) and 4-piston calipers (rear), paired with 380mm two-piece rotors (front) and 355mm rotors (rear), utilizing Ferodo DS2500 pads for track use.",
+    "Interior stripped and rebuilt with a full custom roll cage by Custom Cages (FIA-spec, 8-point design with door bars), Recaro Pole Position seats (carbon fiber shell, FIA-homologated), and a custom carbon fiber dashboard by Varis Japan, featuring a 12.3\" digital gauge cluster by AIM MXS Strada and a custom steering wheel by NRG Innovations (350mm diameter, suede-wrapped with integrated quick-release)."
+  ]
+}

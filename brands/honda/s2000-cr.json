@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "S2000 CR",
+  "prestazioni": [
+    "F20C1 (AP1/AP2) stroker kit to 2.2L using Toda Racing forged internals (87mm crank, 94mm pistons, H-beam rods) with upgraded ACL Race Series bearings and ARP L19 head studs for 12.5:1 compression, paired with a Toda Racing Type-R spec camshaft (272° duration, 11.5mm lift) and Supertech valvetrain (titanium retainers, Inconel valves, dual springs) for 9,500 RPM redline capability",
+    "Full titanium 4-2-1 exhaust system by HKS Hi-Power 304 stainless headers (1.75\" primaries) merging into a custom 3\" titanium mid-pipe with GReddy SP2 muffler, paired with a Tomei 4-1 downpipe (for future turbo applications) and AEM wideband UEGO sensor for AFR monitoring",
+    "Hondata KPro V4 standalone ECU with custom basemap optimized for E85 flex-fuel (via Continental ethanol sensor) and individual cylinder trims, integrated with a Garrett GT2860RS turbo kit (internally wastegated, .64 A/R turbine housing) on a custom manifold by Full-Race Motorsports, running 18 psi on E85 with a Tial MV-R wastegate and 44mm external dump, cooled by a PWR 4-core intercooler with -3AN lines and a Bosch 044 fuel pump feeding ID1000 injectors"
+  ],
+  "estetica": [
+    "Seibon Carbon FRP AP2 CR-style hardtop with custom matte gunmetal finish and integrated carbon fiber roof spoiler (J's Racing spec), paired with a Rocket Bunny V3 widebody kit (AP2-specific, 30mm extended fenders) in raw carbon fiber with custom clear bra film over high-impact areas",
+    "Voltex Type-3 rear wing (1,700mm chord, 300mm height) with custom aluminum pedestals and Gurney flap, mounted on a custom carbon fiber diffuser by Varis (AP2-specific, 3-piece design with integrated brake ducts) and front splitter by APR Performance (carbon fiber, 3\" overhang with adjustable dive planes)",
+    "OEM+ CR interior with Bride Zeta III seats (fixed-back, 30mm narrower than stock) in Alcantara with red stitching, paired with a MOMO Mod.78 steering wheel (350mm, suede) and custom titanium shift knob by Buddy Club (AP2-specific, 150g weight), with full interior stripped and seam-welded roll cage by J's Racing (8-point, chromoly, bolt-in with harness bar)"
+  ]
+}

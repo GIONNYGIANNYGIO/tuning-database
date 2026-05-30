@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "S2000 AP1",
+  "prestazioni": [
+    "F20C1 (2.0L NA, 9.0:1 CR, 8,300 RPM redline) forced-induction conversion using a Garrett GT3076R turbocharger (0.86 A/R, 62 trim compressor, 60 lb/min flow) with a custom 3-inch stainless steel turbo manifold by Full-Race Motorsports, paired with a GReddy Type-S intercooler (700 HP core) and a Tomei 3-inch titanium downpipe with a 200-cell catalytic converter",
+    "Hondata KPro V4 standalone ECU reflash with custom 300-cell fuel and ignition maps, optimized for 93 octane pump gas with E85 flex-fuel capability via a Continental 230 LPH high-flow fuel pump, ID1000x injectors, and a Radium Engineering dual-catch can setup with -10AN lines to prevent oil buildup in the intake tract",
+    "AP1-specific suspension overhaul featuring Ohlins Road & Track DFV coilovers (20-way adjustable damping, 30mm front/25mm rear spring rates), SuperPro poly bushings (front lower control arms, rear trailing arms), and a Cusco 22mm front/18mm rear adjustable sway bar kit with spherical end links for reduced body roll and improved turn-in response"
+  ],
+  "estetica": [
+    "Voltex Type-3R widebody conversion kit (AP1-specific, 30mm front/50mm rear fender flares) with custom carbon fiber overfenders by Seibon, paired with a Rocket Bunny V1 rear diffuser and a custom 3D-printed front splitter with integrated canards (AP1-specific mounting points)",
+    "AP1-specific Work Meister S1 3P 17x9 +45 front / 17x10 +55 rear wheels (ET45/ET55) wrapped in Yokohama Advan A052 semi-slick tires (245/40/17 front, 275/35/17 rear) with custom center caps featuring the F20C1 engine code engraved in red anodized aluminum",
+    "Custom AP1 interior with Bride Zeta III bucket seats (Honda-specific mounting brackets), a MOMO Mod.78 steering wheel (350mm diameter, suede grip) with a NRG quick-release hub, and a full carbon fiber dashboard overlay by Password:JDM, including a custom gauge pod for a Defi BF oil pressure/temperature and AEM X-Series wideband AFR gauge"
+  ]
+}
