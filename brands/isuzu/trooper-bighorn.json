@@ -1,0 +1,14 @@
+{
+  "brand": "ISUZU",
+  "model": "TROOPER BIGHORN",
+  "prestazioni": [
+    "Engine swap to a 6VD1 3.2L V6 with forged internals (JE Pistons 9.5:1 compression, Eagle H-beam connecting rods, ACL Race Series bearings) and a custom billet crankshaft from Manley Performance, paired with a Garrett GTX3582R turbocharger (0.82 A/R turbine housing) and a Tial MV-R 44mm external wastegate for 18 psi of boost on E85 fuel.",
+    "Full custom engine management via Haltech Elite 2500 ECU with individual cylinder tuning, dual Bosch 0280158002 1000cc injectors, and a custom intercooler setup featuring a PWR 4.5-core front-mount intercooler with 3.5\" mandrel-bent aluminum piping and a Turbosmart Kompact 50mm BOV.",
+    "Chassis reinforcement with a custom 4-link rear suspension conversion using Currie Enterprises Johnny Joint rod ends, Fox Racing 2.5 Factory Series DSC coilovers with remote reservoirs, and a custom-fabricated front sway bar from Addco (1.25\" diameter, adjustable end links) to reduce body roll during high-speed off-road maneuvers."
+  ],
+  "estetica": [
+    "Custom widebody conversion using a Liberty Walk LB Works kit modified for the Bighorn chassis, with extended fenders in carbon fiber (Toray T700) and custom-fabricated steel flares for aggressive stance over 18x10.5\" Volk Racing TE37SL wheels (ET -12, 5x139.7 PCD) wrapped in 305/60R18 Toyo Open Country MT tires.",
+    "Full custom front bumper replacement with a hand-fabricated steel tube winch bumper from ARB (modified to fit the Bighorn’s frame) and a Warn Zeon 12-S Platinum winch, paired with a custom LED light bar setup from Rigid Industries (E-Series Pro 50\" with amber fog pods).",
+    "Interior overhaul with Recaro Pole Position seats (cloth/Alcantara, FIA-approved), a custom roll cage from Custom Cages (8-point, TIG-welded 4130 chromoly), and a full digital dash conversion using an AiM MXS Strada 1.2 data logger with GPS lap timer and OBD-II integration."
+  ]
+}

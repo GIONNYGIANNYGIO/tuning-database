@@ -1,0 +1,14 @@
+{
+  "brand": "ISUZU",
+  "model": "AXIOM S",
+  "prestazioni": [
+    "Engine swap to a **6VE1-W** (3.5L DOHC 24V V6, 230hp stock) with a **Garrett GT3582R turbocharger** (0.82 A/R, 62mm inducer) paired with a **Tial MV-R 44mm external wastegate** (12psi base boost, adjustable via AEM X-Series boost controller). Forged internals include **Manley I-beam connecting rods**, **JE 8.5:1 forged pistons**, and **ARP head studs** for 10.5:1 static compression. Fueling upgrades include **ID1000x injectors** and a **Walbro 450LPH in-tank pump** with a **Radium Engineering fuel pressure regulator**.",
+    "Custom **ECU reflash via HP Tuners** (specific to the 6VE1-W) with a **standalone AEM Infinity 7** for advanced tuning, including **individual cylinder fuel trimming** and **launch control** (0-60mph in 4.8s). Exhaust system features a **custom 3.5\" stainless steel downpipe** (catless) with a **Borla Pro XS 3.5\" cat-back** (resonated, 304 stainless, 4\" dual outlets).",
+    "Suspension overhaul with **Ohlins Road & Track DFV coilovers** (8-way adjustable damping, 20mm drop) paired with **Whiteline adjustable rear sway bars (24mm)** and **SuperPro poly bushings** (front control arms, subframe). Braking system includes **Brembo GT 6-piston calipers (355mm rotors front, 330mm rear)** with **Ferodo DS2500 pads** and **Goodridge G-Stop braided lines**."
+  ],
+  "estetica": [
+    "**Rocket Bunny V1 widebody kit** (custom-fitted for Axiom S, 3-piece overfenders, 2.5\" wider front/3\" wider rear) with **carbon fiber front splitter** (custom-made, 3\" overhang) and **custom aluminum rear diffuser** (integrated tow hook, 4\" fins). Paint scheme: **PPG Custom Matte Graphite with gloss black accents** (roof, mirrors, diffuser).",
+    "**Work Emotion CR Kiwami wheels** (19x9.5 +25 front, 19x10.5 +30 rear) wrapped in **Michelin Pilot Sport Cup 2 R** (265/35/19 front, 295/30/19 rear). Fender flares rolled and pulled with **custom aluminum rivet reinforcement** (1/8\" thick, 100 rivets per side).",
+    "**Seibon carbon fiber hood** (custom vented, 3\" scoop for intercooler ducting) with **LED halo headlights** (Morimoto XB, 5500K) and **custom C-pillar badges** (laser-etched \"6VE1-W TURBO\" in 304 stainless). Interior features **Recaro Pole Position seats** (custom Alcantara/red stitching) with **NRG Innovations quick-release steering wheel** (350mm, suede) and **custom aluminum gauge pod** (AEM X-Series wideband, boost, oil pressure)."
+  ]
+}

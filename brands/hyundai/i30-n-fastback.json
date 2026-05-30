@@ -1,0 +1,14 @@
+{
+  "brand": "HYUNDAI",
+  "model": "I30 N FASTBACK",
+  "prestazioni": [
+    "Engine: Theta II 2.0L Turbo GDI (G4KH engine code) with a Precision Turbo & Engine PT6266 CEA turbocharger (62mm inducer, 66mm exducer, 0.82 A/R turbine housing) paired with a custom 3.5-inch downpipe and a full 3-inch titanium exhaust system by Armytrix Valvetronic, featuring their signature butterfly valves for adjustable backpressure and sound modulation.",
+    "Fuel System: Injector Dynamics ID1050x fuel injectors (1050cc/min) with a Radium Engineering dual-catch can setup (PN 0160-02-0101-2) and a Walbro 450 LPH in-tank fuel pump (PN F90000267), controlled via a Syvecs S8 Plug & Play ECU with custom ethanol flex-fuel mapping and launch control optimized for the i30 N's N Grin Shift (NGS) system.",
+    "Suspension & Handling: Ohlins Road & Track DFV coilovers (PN DFV 15-180-01) with custom valving for the i30 N's multi-link rear suspension, paired with SuperPro polyurethane bushings (PN SPF0116K) for the rear trailing arms and a Whiteline front sway bar (PN BSR75XZ) with adjustable end links. The setup includes a Cusco Type RS 2-way limited-slip differential (PN 21R-25A) with a 45% preload for aggressive torque biasing."
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny i30 N Fastback-specific widebody kit (PN RB-WB-001) with carbon fiber overfenders, front canards, and a duckbill rear spoiler, paired with a custom 3D-printed ABS diffuser by Maxton Design (PN MX1000-01) for improved rear downforce. The kit is finished in a custom matte Hyper Blue with gloss black accents, matching the OEM N Performance trim.",
+    "Wheels: Work Emotion CR Kiwami 2-piece forged wheels (19x9.5 +22 front, 19x10.5 +30 rear) in a custom gunmetal finish with titanium hardware, wrapped in Michelin Pilot Sport Cup 2 R tires (265/35/19 front, 275/35/19 rear) for maximum mechanical grip. The setup includes Project Kics R40 6-piston front and 4-piston rear brake calipers with 380mm and 356mm rotors, respectively, paired with Ferodo DS2500 brake pads.",
+    "Interior: Recaro Pole Position seats (PN 391 000 40) with custom red Alcantara inserts and N Performance embroidery, paired with a MOMO Mod.78 steering wheel (350mm diameter) wrapped in perforated leather. The roll cage is a custom bolt-in half-cage by Custom Cages (PN CC-HYU-001) with integrated harness bars for Schroth Profi II 6-point harnesses (PN 751601). The interior is further enhanced with a custom carbon fiber dashboard overlay by Seibon (PN HY-18-DASH) and a digital dash upgrade using an AiM MXS Strada (PN 1.20.01) with CAN bus integration for the i30 N's OBD-II port."
+  ]
+}

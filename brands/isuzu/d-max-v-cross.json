@@ -1,0 +1,14 @@
+{
+  "brand": "ISUZU",
+  "model": "D-MAX V-CROSS",
+  "prestazioni": [
+    "Engine: 4JJ1-TCX (3.0L turbo-diesel) – Full forged internals upgrade with Manley 4340 steel connecting rods, Mahle Motorsport forged pistons (8.5:1 compression ratio for high-boost applications), and ACL Race Series main/rod bearings. Pair with a Garrett GTX4202R turbocharger (0.82 A/R turbine housing, 64mm billet compressor wheel) for 450whp/1,000Nm on E85 with a custom ECU flash via EcuTek ProECU (Isuzu-specific calibration).",
+    "Fuel System: Upgrade to a Bosch CP4.2 high-pressure fuel pump (30,000 psi) with Injector Dynamics ID2600X injectors (2,600cc/min) and a Radium Engineering dual-port fuel rail kit. Add a Fuelab Prodigy V2 fuel pressure regulator (adjustable base pressure up to 120 psi) for precise E85 tuning.",
+    "Suspension: Ohlins TTX46 coilovers (24-way adjustable damping, 100mm of ride height adjustment) with custom valving for the D-Max chassis, paired with SuperPro polyurethane bushings (front control arms, rear trailing arms) and Whiteline adjustable rear sway bar (24mm, 3-position). Fit with Brembo GT 6-piston front calipers (380mm rotors) and 4-piston rear calipers (355mm rotors) with Ferodo DS2500 pads."
+  ],
+  "estetica": [
+    "Widebody Conversion: Rocket Bunny V3 D-Max kit (carbon fiber fenders, front/rear bumpers, and side skirts) with custom 3-piece Work Meister S1 3P wheels (18x10.5 +25 front, 18x11 +30 rear) wrapped in Toyo R888R tires (285/60R18 front, 295/55R18 rear).",
+    "Aero: Seibon Carbon fiber hood (vented, 3kg weight reduction) with a custom 3D-printed carbon fiber rear diffuser (integrated LED brake light) and a Voltex Type-3 rear wing (adjustable angle, 3-stage Gurney flap).",
+    "Lighting: Full LED retrofit with Osram Night Breaker Laser HID bulbs (6,000K) in the stock housings, paired with Morimoto XB LED fog lights and a custom RGBW underglow kit (Philips Hue Lightstrip Plus) controlled via a Raspberry Pi 4 with custom CAN bus integration for dynamic lighting effects."
+  ]
+}

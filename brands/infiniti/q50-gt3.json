@@ -1,0 +1,14 @@
+{
+  "brand": "INFINITI",
+  "model": "Q50 GT3",
+  "prestazioni": [
+    "VR30DDTT 3.0L twin-turbo V6 engine: Full Motec M150 ECU with GT3-spec anti-lag and flat-shift calibration, paired with a Garrett GTX4286R turbocharger (86mm compressor, 1.15 A/R turbine housing) and a secondary BorgWarner EFR 7670 turbo for sequential compound setup, achieving 750whp on 100-octane fuel with a 28psi boost ceiling",
+    "Nismo GT3-spec dry sump oil system with an ATL 10L baffled oil tank, Mocal 555-series oil cooler, and a custom billet aluminum oil pump drive from Tomei, ensuring 8,500 RPM stability under sustained lateral G-forces",
+    "Ohlins TTX40 4-way adjustable dampers with GT3-spec spherical bearing top mounts, custom valving for 1,200kg/m front and 1,100kg/m rear spring rates, and a Nismo GT3-derived adjustable anti-roll bar system (24mm front, 22mm rear) with rose-jointed drop links"
+  ],
+  "estetica": [
+    "Liberty Walk LB-WORKS GT3-spec widebody conversion kit (carbon fiber front fenders, rear quarter panels, and trunk lid) with integrated Nismo GT3-spec dive planes and a custom 3D-printed ABS diffuser for GT3 aero balance (Cd 0.38, -120kg downforce at 200km/h)",
+    "APR Performance GT3-spec carbon fiber rear wing (1,800mm span, 300mm chord, 3-position adjustable Gurney flap) mounted on Nismo GT3-spec aluminum pedestals with integrated wing angle sensors for real-time aero mapping via the Motec ECU",
+    "Recaro SP-GT II GT3-spec seats with Schroth 6-point harnesses, custom carbon fiber door cards featuring a Nismo GT3-derived quick-release steering wheel hub, and a full carbon fiber dashboard with a 12.3-inch Motec C127 digital dash (GT3-spec telemetry logging for 50+ channels)"
+  ]
+}

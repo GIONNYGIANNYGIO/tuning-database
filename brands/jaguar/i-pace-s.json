@@ -1,0 +1,14 @@
+{
+  "brand": "JAGUAR",
+  "model": "I-PACE S",
+  "prestazioni": [
+    "Upgrade to a **Bosch MGU0500** high-performance electric motor (replacing the stock **AJ20P** dual-motor setup) with custom **AP Racing CP8840-800** carbon-ceramic brake rotors and **Ferodo DS2500** pads for sustained high-speed braking performance, paired with a **Marelli EMR3** inverter for 20% faster torque vectoring response",
+    "Install a **GKN eTwinsterX** torque-vectoring differential with **Quaife ATB helical LSD** internals to optimize power distribution between the front and rear **AJ20P** motors, reducing understeer by 35% during aggressive cornering",
+    "Replace the stock **LG Chem E63** battery pack with a **Webasto CV NextGen** 100 kWh solid-state battery (98.5 kWh usable) featuring **Silicon Anode** technology for 18% higher energy density, enabling 0-60 mph in 3.2s (vs. stock 4.5s) and a **Garrett E-Turbo** electric compressor for instant torque fill at high RPMs"
+  ],
+  "estetica": [
+    "Fit a **Liberty Walk LB-WORKS** widebody kit (I-Pace-specific, not a generic EV kit) with **custom carbon fiber fenders** extending wheel arches by 30mm, paired with **HRE FF16** 22x10.5 ET35 forged wheels wrapped in **Michelin Pilot Sport EV** 285/35R22 tires for aggressive stance and grip",
+    "Install a **Vorsteiner V-FF 100** carbon fiber front splitter with **active aerodynamic Gurney flaps** (controlled via **Bosch MS 5.1** ECU integration) and a **Rocket Bunny GT wing** (I-Pace-specific, 1,800mm width) with **D2 Racing** hydraulic adjusters for dynamic downforce tuning",
+    "Replace all exterior lighting with **Lux Hella 7-inch LED projectors** (DRLs) and **Osram Night Breaker Laser** high-beam bulbs, paired with a **Novitec Torado** carbon fiber side skirts and **custom matte British Racing Green** wrap with **3M 1080 Satin Overlay** for a stealth high-performance look"
+  ]
+}

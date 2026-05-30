@@ -1,0 +1,14 @@
+{
+  "brand": "ISUZU",
+  "model": "VEHICROSS",
+  "prestazioni": [
+    "Engine swap to a **6VD1 3.5L V6** (original engine code) with a **Garrett GT3582R turbocharger** (86mm compressor, .82 A/R turbine housing) paired with a **Tial MV-R 44mm external wastegate** and **Precision Turbo 46mm blow-off valve** for 12psi boost targeting 400whp on E85 fuel. Forged internals include **Manley I-beam connecting rods**, **JE 9.5:1 forged pistons**, and **ARP head studs** with **Cometic MLS head gaskets** to handle the increased cylinder pressure.",
+    "Full **Haltech Elite 2500 ECU** standalone management with **AEM X-Series wideband O2 sensor** and **ID1000x injectors** for precise fueling. Custom **3.5-inch stainless steel turbo-back exhaust** by **Stainless Works** with a **Borla Pro XS muffler** for optimized scavenging. **Mishimoto aluminum radiator** and **GReddy oil cooler** to maintain thermal stability under sustained boost.",
+    "Suspension overhaul with **Öhlins Road & Track DFV coilovers** (custom valved for the VehiCROSS’s 105.9-inch wheelbase) paired with **Whiteline adjustable sway bars** (24mm front, 22mm rear) and **SuperPro poly bushings** for chassis rigidity. **Brembo GT 6-piston front calipers** with **355mm two-piece rotors** and **Ferodo DS2500 pads** for aggressive braking, complemented by **Goodridge stainless steel brake lines**."
+  ],
+  "estetica": [
+    "**Liberty Walk LB Works VehiCROSS-specific widebody kit** (FRP construction) with **custom 2-inch extended wheel arches** to fit **Work Emotion CR Kiwami 18x10.5 +15 offset wheels** wrapped in **Toyo R888R 275/40/18 tires**. **Seibon carbon fiber hood** with **custom heat extractor vents** and **Aerocatch hood latches** for weight savings and engine bay cooling.",
+    "**Rocket Bunny V2 rear diffuser** (modified to fit the VehiCROSS’s unique rear bumper) with **custom carbon fiber side skirts** and **Vortex Generator roof spoiler** for aerodynamic balance. **Morimoto XB LED headlights** with **custom HID projectors** and **Diode Dynamics SS3 sequential turn signals** for modernized lighting. **Full Respray in Isuzu ‘Solar Yellow’ (code: 13Y) with **3M Matte Black vinyl wrap accents** on the roof and pillars.",
+    "**Custom interior roll cage** by **Custom Cages UK** (8-point, TIG-welded chromoly) with **Sparco Pro ADV seats** (fixed-back, FIA-approved) and **Schroth 6-point harnesses**. **Momo Prototipo steering wheel** (350mm, suede) with **NRG quick-release hub** and **AIM MXS Strada dash** for real-time telemetry. **Full sound deadening removal** with **Dynamat Xtreme** applied only to critical areas for weight reduction."
+  ]
+}

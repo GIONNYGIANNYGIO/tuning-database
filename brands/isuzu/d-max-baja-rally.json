@@ -1,0 +1,14 @@
+{
+  "brand": "ISUZU",
+  "model": "D-MAX BAJA RALLY",
+  "prestazioni": [
+    "Engine: 4JJ1-TCX 3.0L turbo-diesel (stock code) upgraded with a BorgWarner EFR 7670 turbo (86mm compressor, 62mm turbine) paired with a custom 3.5-inch stainless steel intercooler piping system from TurboSmart, supporting 45 psi of boost with a 4-layer silicone coupler reinforced with Kevlar for high-temperature resistance",
+    "Fuel System: Full Bosch Motorsport CP4.2 high-pressure fuel pump (2,200 bar) with 10-hole 350cc injectors (Denso G4S) and a custom ECU remap via Ecutek RaceROM v3.0, enabling a 2,500 rpm torque plateau (650 Nm) and 300 hp at 3,800 rpm with a 7,000 rpm redline (stock internals retained but polished for durability)",
+    "Suspension: Öhlins TTX40 3-way adjustable coilovers (240mm travel front, 260mm rear) with custom valving for Baja-spec damping, paired with Polyurethane bushings (SuperPro 90D durometer) and a reinforced front sway bar (28mm hollow, Whiteline) to reduce body roll during high-speed desert whoops"
+  ],
+  "estetica": [
+    "Aero: Full carbon fiber widebody kit (Rocket Bunny V3 for D-Max) with integrated front splitter (30mm overhang) and rear diffuser (50mm ground clearance), featuring a 20% reduction in drag coefficient via CFD-optimized side skirts and a custom aluminum rear wing (300mm chord, 1,200mm span) mounted on adjustable carbon fiber stanchions",
+    "Lighting: Rigid Industries 50-inch E-Series Pro LED light bar (10,000 lumens) with amber fog covers, paired with Baja Designs Squadron Pro auxiliary lights (4x 4,900-lumen pods) mounted on a custom aluminum roof rack (Prinsu Designs, 150kg load capacity) with integrated antenna mounts for long-range comms",
+    "Exterior: Full XPEL Stealth PPF wrap with matte military green finish (3M 1080 series) and custom rally livery (Sparco decals, BF Goodrich KM3+ tire lettering in white), paired with a carbon fiber hood (Seibon, 30% weight reduction) featuring a functional NACA duct for intercooler airflow"
+  ]
+}

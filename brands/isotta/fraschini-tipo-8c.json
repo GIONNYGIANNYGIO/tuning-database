@@ -1,0 +1,14 @@
+{
+  "brand": "ISOTTA",
+  "model": "FRASCHINI TIPO 8C",
+  "prestazioni": [
+    "Engine: Replace the original 5.9L inline-8 (engine code: *59A*) with a fully balanced and blueprinted *59A* featuring forged Mahle pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a custom billet crankshaft by *JE Pistons* for 8,000 RPM reliability. Pair with a *Tomei Type-S* titanium valve train (valves, retainers, and springs) and *Ferrea* competition valve seats for high-lift camshafts.",
+    "Forced Induction: Twin *Garrett GT35R* turbochargers (62mm compressor, 76mm turbine) with *Tial MV-R* 44mm wastegates and *Precision Turbo* 45mm external wastegate dump tubes. Custom *SPEARCO* air-to-water intercoolers (front-mount, 4.5\" core thickness) with *Mocal* 10AN oil lines and a *PWR* 12-row heat exchanger. Boost targets: 1.2 bar (17.5 psi) with *Link G4+ Xtreme* standalone ECU managing *ID1000* port injectors and *Bosch 044* fuel pump.",
+    "Drivetrain: *Tilton* 7.25\" triple-plate ceramic clutch with *PPG* straight-cut 1st/2nd gears (4.11:1 final drive) in a *Quaife* ATB differential. *Hewland* 5-speed sequential transaxle (LD-200) with *Xtrac* paddle-shift actuator and *Penske* 8760-series shock absorbers (rear-mounted, 3-way adjustable)."
+  ],
+  "estetica": [
+    "Body: *Rocket Bunny* Type 8C-specific widebody kit (hand-laid carbon fiber, 3\" fender flares) with *Seibon* carbon fiber hood (dual NACA ducts) and *Aeromotions* active rear wing (3D-printed titanium endplates, 15° attack angle). *PPG* custom paint: *Ferrari Rosso Corsa* with *House of Kolor* Kandy Apple Red pearl flakes.",
+    "Interior: *Recaro* SPG XL seats (alcantara/leather, FIA 8862-2009 certified) with *Schroth* 6-point harnesses and *MOMO* Prototipo steering wheel (350mm, suede). *AEM* CD-7 dash (12.3\" touchscreen) with *Motec* PDM15 power distribution module and *Brembo* GT 380mm brake calipers (6-piston, gold anodized) visible through *HRE* FF01 wheels (19x10\" front, 20x12\" rear, *Pirelli P Zero Trofeo R* tires).",
+    "Lighting: *Luxx* HID projector headlights (5500K, *Morimoto* ballasts) with *Diode Dynamics* RGBW halo rings and *Oracle* underglow (addressable LED strips, *WS2812B* chips, *Aluminati* carbon fiber diffusers). *Vintage Air* Gen-4 climate control system with *Dakota Digital* HDX gauges (oil pressure, boost, AFR)."
+  ]
+}

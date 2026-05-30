@@ -1,0 +1,14 @@
+{
+  "brand": "ISUZU",
+  "model": "PIAZZA TURBO",
+  "prestazioni": [
+    "Engine: 4ZC1-T (2.0L SOHC turbocharged inline-4) – Full forged internals upgrade with JE 87mm forged pistons (8.5:1 compression), Eagle H-beam connecting rods, and ACL Race Series bearings for 25psi+ boost tolerance. Stock crankshaft balanced to ±0.5g with ARP main studs and head studs.",
+    "Turbocharger: Garrett GT2860RS-5 (Journal Bearing) with TiAL 44mm MV-R wastegate and custom 3-inch stainless steel downpipe (304-grade) featuring a divorced wastegate setup, paired with a Tomei 4-1 equal-length exhaust manifold (1.75-inch primaries) and HKS SSQV4 blow-off valve.",
+    "Fuel & Ignition: Full Haltech Elite 2500 standalone ECU with dual Bosch 044 fuel pumps (255lph), Injector Dynamics ID1000x injectors, and AEM 320lph in-tank pump. Ignition system upgraded to Splitfire Twin-Tip spark plugs gapped at 0.028\" with MSD 6AL-2 digital ignition amplifier and Moroso 8mm silicone ignition wires."
+  ],
+  "estetica": [
+    "Body Kit: Rocket Bunny V1 Piazza-specific widebody kit (FRP construction) with extended front fenders (30mm per side), custom rear quarter panels (50mm flare), and a carbon fiber duckbill spoiler (J’s Racing design). Front bumper lip replaced with a custom 3D-printed ABS splitter (25mm overhang) with integrated canards (Seibon Carbon).",
+    "Wheels & Suspension: Work Meister S1 3P 16x9.5 +15 (front) and 16x10.5 +25 (rear) in Gunmetal, wrapped in Toyo R888R 225/50/16 (front) and 255/45/16 (rear). Suspension features Ohlins Road & Track DFV coilovers (8-way adjustable damping) with custom-spec springs (-30mm front, -25mm rear) and Whiteline adjustable sway bars (24mm front, 22mm rear).",
+    "Interior & Aero: Full Bride Zeta III reclinable bucket seats (red Alcantara with black stitching) mounted on custom aluminum floor pans, paired with a Nardi Classic 380mm suede steering wheel and a custom roll cage (TIG-welded 4130 chromoly, 6-point with harness bar). Exterior aero includes a custom aluminum rear diffuser (3-piece, riveted) and a carbon fiber hood (Seibon) with functional NACA ducts for intercooler cooling."
+  ]
+}

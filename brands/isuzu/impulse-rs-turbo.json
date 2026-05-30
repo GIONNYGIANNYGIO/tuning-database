@@ -1,0 +1,14 @@
+{
+  "brand": "ISUZU",
+  "model": "IMPULSE RS TURBO",
+  "prestazioni": [
+    "Engine: 4ZC1-T (1.9L SOHC turbocharged inline-4) – Full forged internals including JE 8.5:1 compression pistons, Eagle H-beam connecting rods, and ACL Race Series bearings to handle 25+ psi boost with a balanced crankshaft from ATI Performance.",
+    "Turbocharger: Garrett GT2860RS-5 (Journal Bearing) with a custom 0.63 A/R turbine housing and 57mm compressor wheel, paired with a Tomei 44mm wastegate and TiAL MV-R 44mm blow-off valve for precise boost control up to 22 psi.",
+    "Fuel System: Full Aeromotive setup including a 340 lph Stealth in-tank fuel pump, 1000cc ID1000 injectors, and a billet fuel rail with -6AN lines, controlled by a Haltech Elite 2500 ECU with flex-fuel capability and individual cylinder trims for the 4ZC1-T’s unique cylinder head flow characteristics."
+  ],
+  "estetica": [
+    "Body Kit: Veilside Fortune 99 widebody conversion (1999 spec) with custom carbon fiber overfenders to clear 9.5-inch front and 11-inch rear Work Meister S1 3P wheels (16x9.5 +15 front, 16x11 +20 rear) on 225/45/16 and 255/40/16 Toyo R888R tires.",
+    "Aero: Custom front splitter from a 1990 Geo Storm GSi (shared platform) reinforced with carbon fiber and paired with a custom 3D-printed rear diffuser (3-piece) to match the Impulse’s unique rear bumper contours, plus a custom aluminum duckbill spoiler with adjustable angle (0-15 degrees).",
+    "Interior: Full Bride Zeta III reclinable bucket seats with custom Isuzu Impulse embroidery, Takata Drift II 4-point harnesses, and a custom aluminum gauge pod housing Defi Advance BF series gauges (boost, oil pressure, wideband AFR) with a Momo Mod.78 steering wheel on a NRG quick-release hub."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "ISUZU",
+  "model": "D-MAX ARCTIC TRUCKS",
+  "prestazioni": [
+    "Engine: 4JJ1-TCX 3.0L turbo-diesel (RPO code: L5P) – Forced induction upgrade via Garrett GT3582R turbocharger with billet compressor wheel, 0.82 A/R turbine housing, and 3-inch V-band downpipe, paired with a custom-tuned ECU reflash (Dimsport Genius) to target 320 hp at 3,800 rpm and 550 lb-ft of torque at 2,000 rpm, with boost pressure set to 28 psi (1.9 bar) on 98 RON diesel.",
+    "Suspension: Arctic Trucks AT35-specific Ohlins RXF 34 coilovers with 2.5-inch remote reservoirs, 24-position compression damping, and 18-position rebound damping, paired with Eibach Pro-Truck 2.0-inch lift springs and poly bushings for the front A-arms and rear leaf spring shackles. Includes custom-fabricated subframe reinforcement plates (T45 steel) to handle increased articulation.",
+    "Drivetrain: Quaife ATB helical LSD in the rear differential (replacing the stock open diff) with 4.88:1 gearing (from a Toyota Hilux Arctic Trucks donor), paired with a South Bend Clutch Stage 3 twin-disc ceramic clutch (2400 series) and a PTO-driven ARB RD120 air locker for the front axle, actuated via a Warn Zeon 12-S winch controller for seamless engagement."
+  ],
+  "estetica": [
+    "Body: Arctic Trucks AT35-specific widebody fender flares (rotomolded polyethylene) with integrated LED light pods (Baja Designs Squadron Pro), paired with a custom front bumper (hand-fabricated from 3mm aluminum) featuring a recessed Warn M12000 winch and a 30-inch Rigid Industries Dually LED light bar. Rear bumper replaced with a tubular steel unit (from a Mercedes-Benz Unimog U5023) for extreme departure angles.",
+    "Wheels/Tires: Method MR701 beadlock wheels (17x9, +38mm offset) wrapped in 37x12.5R17 Nitto Trail Grappler M/T tires, mounted on Hutchinson beadlock rings for run-flat capability. Includes a custom TPMS system (Doran 360RV) with external sensors for real-time pressure monitoring in sub-zero conditions.",
+    "Interior: Full Arctic Trucks AT35 interior retrofit, including Recaro SR-7 Cross seats with 4-point Schroth Profi II harnesses, a custom aluminum dashboard overlay with a Racepak IQ3 digital dash (logging boost, EGT, and fuel pressure), and a rear-mounted auxiliary battery system (Optima YellowTop) powering a Webasto Air Top 2000 ST diesel heater and a Dometic CFX3 75DZW 12V fridge."
+  ]
+}

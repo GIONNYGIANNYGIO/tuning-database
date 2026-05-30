@@ -1,0 +1,14 @@
+{
+  "brand": "JAGUAR",
+  "model": "E-TYPE",
+  "prestazioni": [
+    "Engine: Full rebuild of the 3.8L XK6 (engine code: XK6-3.8) with forged Mahle Motorsport pistons (8.5:1 compression), Cunningham con-rods, and a billet crankshaft from JE Motorsport. Pair with a custom camshaft grind from Kent Cams (280° duration, 0.450\" lift) for high-RPM power delivery, optimized for the E-Type's long-stroke architecture.",
+    "Forced Induction: Custom-built Rotrex C38-91 supercharger kit with a bespoke intercooler setup (custom bar-and-plate core from Bell Intercoolers) and a custom intake manifold fabricated by JE Motorsport, flowing 450 CFM. Boost pressure set to 12 psi with a custom ECU tune from Cosworth (standalone Pectel SQ6M) to manage fueling via 48mm throttle bodies and ID1000 injectors.",
+    "Drivetrain: Close-ratio 5-speed Tremec TKO-600 transmission with a custom bellhousing adapter from QuickTime, paired with a Tilton triple-plate carbon clutch. Rear differential upgraded to a Salisbury 4HU limited-slip diff with 3.54:1 gears, modified by Racetorations for durability under high torque loads."
+  ],
+  "estetica": [
+    "Body: Full lightweight aluminum body restoration with hand-formed aluminum fenders (replicating the Series 1.5 \"flat floor\" design) and a custom widebody kit from RS Motorsports, extending the rear fenders by 2.5\" for staggered wheel fitment. Painted in Jaguar Opalescent Silver Blue (code: 101) with a custom pearlescent flake from House of Kolor.",
+    "Wheels: Custom 15x7\" and 15x9\" magnesium wheels from Borrani (replica of the original Borrani wire wheels but with a modern 5x4.5\" bolt pattern), wrapped in Avon CR6ZZ tires (195/50R15 front, 245/45R15 rear) for period-correct aesthetics with modern grip.",
+    "Interior: Full bespoke interior by RS Trimcraft, featuring a 3-spoke Momo Prototipo steering wheel with a quick-release hub, Recaro SRD bucket seats (retrimmed in Bridge of Weir leather with Alcantara inserts), and a custom roll cage from Safety Devices (FIA-spec, bolt-in design with removable door bars). Gauges replaced with a Stack ST800 digital dash, retaining the original wood-rimmed steering wheel as a removable option."
+  ]
+}

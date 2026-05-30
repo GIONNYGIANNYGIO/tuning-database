@@ -1,0 +1,14 @@
+{
+  "brand": "ISUZU",
+  "model": "117 COUPE",
+  "prestazioni": [
+    "Engine swap to a fully built **G200W** (2.0L DOHC inline-4 from the Isuzu Piazza Turbo) with forged internals: JE 87mm forged pistons (9.5:1 CR), Eagle H-beam connecting rods, and a billet crankshaft. Pair with a **Garrett GT2860RS** turbo (0.63 A/R turbine housing) and a **Tial MV-R 38mm** wastegate for 18 psi of boost, targeting 320 hp at the crank.",
+    "Custom **Haltech Elite 2500** standalone ECU with a **Bosch Motorsport 0280158002** 1000cc/min high-impedance injector setup, fed by a **Walbro 450 LPH** in-tank fuel pump and a **Radium Engineering** dual-catch can setup to manage blow-by from the high-boost G200W build.",
+    "Full **ISUZU 117 Coupe-specific** drivetrain reinforcement: **OS Giken Super Lock LSD** (2-way) in the stock IRS housing, **PPG Stage 3+** close-ratio gearset (2.971 1st, 1.940 2nd) in the original 5-speed transmission, and **AP Racing CP8660** 2-piece 330mm front rotors with **Ferodo DS3000** pads for endurance braking."
+  ],
+  "estetica": [
+    "Full **Liberty Walk LB Works** widebody conversion for the 117 Coupe, including custom-fabricated steel fender flares (3.5\" wider front, 4.0\" wider rear) and a **Seibon Carbon** hood with a functional **Aeromotions** dual-element rear wing (adjustable angle, 30mm chord).",
+    "Custom **Rotiform LAS-R** 17x9.5\" (ET15) front and 17x11\" (ET20) rear wheels with **Yokohama Advan A052** semi-slick tires (245/40/17 front, 285/35/17 rear), paired with **Ohlins Road & Track DFV** coilovers (24-way damping adjustability) and **Whiteline** 24mm front / 27mm rear adjustable sway bars.",
+    "Interior stripped and reupholstered with **Recaro SRD-E** fixed-back seats (H-pattern cutouts), a **Momo Mod.70** 350mm suede steering wheel, and a **Defi Advance BF** 5-gauge cluster (boost, oil temp, oil pressure, fuel pressure, wideband AFR) mounted in a **custom aluminum dash panel** replacing the stock center console."
+  ]
+}

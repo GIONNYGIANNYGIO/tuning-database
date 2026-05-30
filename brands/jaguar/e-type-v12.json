@@ -1,0 +1,14 @@
+{
+  "brand": "JAGUAR",
+  "model": "E-TYPE V12",
+  "prestazioni": [
+    "Engine: Replace the stock 5.3L Jaguar V12 (engine code: **Jaguar HE V12, 7.8:1 compression**) with a **JE Pistons forged 9.5:1 compression ratio piston set (PN: 368850)** and **Manley Performance forged H-beam connecting rods (PN: 14065-8)** to handle 800+ HP under forced induction. Pair with a **Titanium retainers and Inconel valves from Ferrea Racing (PN: F1300/F1301)** for high-RPM reliability.",
+    "Forced Induction: Install a **Garrett GTX5533R Gen II turbocharger (86mm, .96 A/R turbine housing)** with a **custom 3.5\" stainless steel turbo manifold (fabricated by Gems Racing)** and **Tial MV-R 60mm wastegate (PN: MVR60)**. Use a **Precision Turbo & Engine 50mm external wastegate dump (PN: 8460)** for boost control. Intercooling via a **PWR 4.5\" core front-mount intercooler (custom fitment by Jaguar Classic Works)** with **Samco Sport silicone hoses (PN: SAM200-9999)**.",
+    "Fuel & Ignition: Convert to **Bosch Motorsport 044 high-flow fuel pumps (dual setup)** with **ID1700x injectors (PN: 4170)** and a **Haltech Elite 2500 ECU (PN: HT-151301)** for full sequential fuel and ignition control. Ignition system upgraded to **MSD 8511 Blaster HVC II coil (PN: 8251)** with **NGK R7437-10 Iridium IX spark plugs (gapped at 0.028\")**."
+  ],
+  "estetica": [
+    "Body: **RML Group E-Type Lightweight Replica body panels (aluminum, PN: RML-ETYPE-LW)** with **custom carbon fiber front splitter and rear diffuser by Dymag (PN: DYM-ETYPE-CF)**. Paint: **BASF Glasurit 90-Line in \"British Racing Green\" with gold leaf pinstriping (applied by RS Coachworks)**.",
+    "Wheels & Suspension: **Dymag Carbon Revolution CR-9 wheels (16x7 front, 16x8 rear, PN: CR9-ETYPE-F/R)** wrapped in **Pirelli P Zero Corsa tires (225/55R16 front, 245/55R16 rear, PN: 225/55ZR16 102Y, 245/55ZR16 102Y)**. Suspension: **Öhlins Road & Track DFV coilovers (PN: DFV01-02-01)** with **polyurethane bushings from SuperPro (PN: SPF1001K, SPF1002K)** for chassis rigidity.",
+    "Interior: **Recaro Pole Position seats (PN: 2400SPG)** upholstered in **Bridge of Weir leather (\"Connolly Hide\" spec)** with **MOMO Prototipo steering wheel (PN: 0011201023)**. Gauges: **Stack Instruments 80mm digital dash (PN: ST8000-ETYPE)** with **AEM X-Series wideband AFR gauge (PN: 30-0300)** and **Defi BF oil pressure/temp gauges (PN: DF11202, DF11203)**."
+  ]
+}

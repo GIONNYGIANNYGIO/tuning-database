@@ -1,0 +1,14 @@
+{
+  "brand": "ISUZU",
+  "model": "MU-X LS-T",
+  "prestazioni": [
+    "Engine: Replace the stock 4JJ1-TCX (3.0L turbo-diesel) turbocharger with a **Garrett GTB2260VK** variable-geometry turbo (VGT) to optimize low-end torque (500Nm+) while supporting a 30% power increase (target: 250kW/335hp) with a **Dynojet Power Vision** ECU reflash for fuel mapping and boost control (max 24psi).",
+    "Suspension: Install **Ohlins TTX46 coilovers** with 2-way adjustable damping (compression/rebound) and **SuperPro polyurethane bushings** (front control arms, subframe, and rear trailing arms) to eliminate flex in the GMT-360 platform, paired with **Whiteline 27mm front and 24mm rear anti-roll bars** for reduced body roll.",
+    "Drivetrain: Upgrade to a **South Bend Clutch Stage 3 Daily** (ceramic-metallic) with a **PPF (Polyurethane Pendulum Mount)** for the 6L50 6-speed automatic transmission, paired with a **Differential Dynamics 4.10:1 ring & pinion gear set** for improved acceleration, and **Motul Gear 300 75W-90** fluid for thermal stability."
+  ],
+  "estetica": [
+    "Aero: Fit a **Seibon Carbon Fiber MU-X widebody kit** (front fenders, rear quarter panels) with **custom 3D-printed ABS splitters** (20mm overhang) and a **Rocket Bunny-style rear duckbill spoiler** (carbon fiber, 300mm height) for downforce at 120km/h+.",
+    "Wheels: **Enkei PF07 18x9.5 +30mm ET** in Gloss Black with **Nitto NT05R 275/65R18** semi-slick tires (200 treadwear) for track use, paired with **DBA 5000 Series slotted rotors** and **Project Mu B-M4 pads** for fade resistance.",
+    "Exterior: **PPF (Paint Protection Film) in XPEL Stealth** on high-impact zones (hood, fenders, mirrors), **custom LED DRLs** (Osram LEDriving LG 55W) integrated into the lower bumper, and **debadged rear hatch** with a **vinyl-wrapped ISUZU logo in 3M Matte Gunmetal** for stealth aesthetics."
+  ]
+}

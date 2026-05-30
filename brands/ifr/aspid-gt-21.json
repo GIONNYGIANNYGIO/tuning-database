@@ -1,0 +1,14 @@
+{
+  "brand": "IFR",
+  "model": "ASPID GT-21",
+  "prestazioni": [
+    "Engine: Replace the stock 2.0L Ford EcoBoost (engine code *JQMA*) with a fully built *JQMA* featuring forged internals (Manley H-beam connecting rods, Mahle Motorsport forged pistons, and a billet crankshaft) to handle 45 psi of boost from a Garrett GTX5533R turbocharger with a 1.06 A/R turbine housing and 80mm compressor wheel, paired with a custom 4-inch titanium downpipe and a Tial MV-R 60mm external wastegate for precise boost control.",
+    "Drivetrain: Install a Quaife ATB helical LSD in the transaxle to replace the stock open differential, coupled with a Tilton 7.25-inch twin-disc carbon clutch and a Pankl Racing Systems 6-speed sequential gearbox with dog-ring engagement, reducing shift times to under 50ms via a pneumatic paddle-shift system.",
+    "Suspension & Aero: Fit a full Öhlins TTX46 MkII coilover system with 3-way adjustable damping (compression, rebound, and high-speed compression) and spherical bearing top mounts, paired with a custom Aspid-specific GT3-style front splitter (carbon fiber, 3D-milled from a single billet) and a fixed rear wing with active Gurney flaps (adjustable via a MoTeC ADL3 dash-controlled servo motor) to generate 1,200 kg of downforce at 250 km/h."
+  ],
+  "estetica": [
+    "Body: Replace the stock carbon-fiber body panels with a full dry-carbon (pre-preg autoclave) widebody kit from *IFR Performance* (exclusive to the GT-21), featuring aggressive fender flares with integrated NACA ducts for brake cooling and a removable hardtop with a polycarbonate rear window for weight reduction (saving 12 kg).",
+    "Wheels & Brakes: Mount a set of forged BBS FI-R 19x12 (front) and 19x13 (rear) wheels in a custom gold-bronze finish, wrapped in Michelin Pilot Sport Cup 2 R tires (305/30 R19 front, 325/30 R19 rear), paired with AP Racing CP9660 6-piston monoblock calipers clamping 400mm carbon-ceramic rotors (with titanium bobbin hardware) for fade-free stopping power.",
+    "Interior: Replace the stock Alcantara seats with ultra-lightweight Sparco Pro 2000 carbon-fiber shells (weighing 8.5 kg each) and a full roll cage from *IFR Motorsport* (TIG-welded 4130 chromoly, FIA 8862-2009 certified), featuring integrated fire suppression system nozzles and a MoTeC C127 dash display with real-time telemetry overlay (boost, oil temp, G-forces, and lap delta)."
+  ]
+}
