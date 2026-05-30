@@ -1,0 +1,14 @@
+{
+  "brand": "HYUNDAI",
+  "model": "GENESIS G80 SPORT",
+  "prestazioni": [
+    "Engine: 3.3L Lambda II RS T-GDi V6 (engine code: G6DH) upgraded with a Garrett GTX3582R turbocharger (82mm compressor wheel, 62mm turbine wheel) paired with a custom 3.5-inch stainless steel downpipe featuring a 400-cell catalytic converter for optimized spool and flow, supporting 12-14 psi of boost for 550-600 whp on E85 fuel with a Motec M150 ECU for precise fuel and ignition mapping.",
+    "Suspension: Öhlins Road & Track DFV coilovers (Genesis G80-specific valving) with adjustable camber plates (SPL Parts) and polyurethane bushings (SuperPro) for the front control arms and rear subframe, paired with Eibach Pro-Spacer 20mm wheel spacers to correct scrub radius and improve turn-in response.",
+    "Drivetrain: OS Giken Super Lock LSD (85% lockup) in the rear differential with a custom 3.73:1 final drive ratio (replacing the stock 3.38:1), paired with a PRL Motorsports short shifter kit (25% reduction in throw) and a South Bend Clutch Stage 3 daily disc (ceramic-metallic) for the 8-speed automatic (reflashed with a custom TCU tune via HP Tuners for faster shifts and launch control)."
+  ],
+  "estetica": [
+    "Liberty Walk LB-WORKS widebody kit (Genesis G80 Sport-specific, 50mm wider front fenders, 70mm wider rear) with custom carbon fiber front splitter and rear diffuser (Seibon Carbon), finished in a 3M Matte Military Green wrap with gloss black accents on the grille and window trim.",
+    "Rocket Bunny V3 rear wing (dual-element, 1,800mm span) mounted on custom aluminum pedestals (3D-scanned for OEM fitment) with integrated third brake light, paired with custom LED taillights (VLand) featuring sequential turn signals and smoked lenses.",
+    "OEM+ interior upgrades: Recaro Sportster CS seats (Genesis G80-specific mounting brackets) upholstered in Alcantara with red contrast stitching, paired with a custom roll cage (Custom Cages UK, 6-point bolt-in) wrapped in Alcantara, and a Momo Mod.78 steering wheel (350mm diameter, suede) with a NRG quick-release hub."
+  ]
+}

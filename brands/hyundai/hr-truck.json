@@ -1,0 +1,14 @@
+{
+  "brand": "HYUNDAI",
+  "model": "HR TRUCK",
+  "prestazioni": [
+    "Engine swap to Hyundai D4CB 2.9L CRDi (engine code: D4CB) with forged internals including Mahle Motorsport pistons (86mm, 18.5:1 compression), Manley H-beam connecting rods, and a billet crankshaft from JE Pistons. Turbo upgrade to a BorgWarner EFR 8374 (0.92 A/R, 64mm compressor) with a custom 3.5-inch stainless steel downpipe and a custom intercooler setup using a PWR 450x700x76mm core with CNC-machined aluminum end tanks.",
+    "Full custom ECU remapping via a Link G4+ Xtreme standalone ECU with individual cylinder fuel and ignition control, paired with a Motec PDM15 for power distribution and a custom wiring harness from Haltech. Fuel system upgrade includes dual Bosch 044 fuel pumps, Injector Dynamics ID1700x injectors, and a Radium Engineering fuel surge tank with AN-10 lines.",
+    "Drivetrain reinforcement with a Sachs Racing twin-disc clutch (240mm, 800Nm capacity) and a Quaife ATB differential (80% lock) in a custom fabricated 8.5-inch rear axle housing. Suspension overhaul with custom-valved Bilstein B16 coilovers (adjustable damping, 200mm travel) and polyurethane bushings from SuperPro (part #SPF0115-K) for the front control arms and rear trailing arms."
+  ],
+  "estetica": [
+    "Custom widebody conversion using carbon fiber overfenders from Seibon Carbon (part #HY-12HR-F/R) with integrated vents for brake cooling, paired with a Rocket Bunny HR Truck-specific aero kit (front bumper, side skirts, and rear diffuser) modified for D4CB intercooler clearance.",
+    "Full custom roll cage designed by Custom Cages UK (8-point, TIG-welded 4130 chromoly) with integrated harness bars for Schroth Profi II 6-point harnesses. Exterior lighting replaced with Hella Rallye 3000 spotlights (4x, 100W) and a custom LED light bar (20-inch, 12,000 lumens) mounted on a Relocate Fab roof rack with integrated antenna mounts for a Yaesu FTM-400XDR radio.",
+    "Interior stripped and rebuilt with a Sparco Pro ADV seat (FIA 8855-1999 certified) mounted on a custom aluminum slider, paired with a NRG Innovations quick-release steering wheel (350mm, suede) and a Defi BF Advance multi-gauge pod (boost, EGT, oil pressure) mounted on the A-pillar. Bed area converted to a custom aluminum flatbed with integrated toolboxes from Zarges (part #31012) and a hydraulic tailgate lift from Tommy Gate (model #TG5000)."
+  ]
+}

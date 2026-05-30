@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "RA302",
+  "prestazioni": [
+    "Replace the original 3.0L air-cooled V8 (engine code: RA302E) with a bespoke dry-sump lubrication system using a **Titan Motorsport** billet aluminum oil pan and **Daiki Racing** titanium oil pump gears to handle sustained 12,000 RPM operation, paired with **Mahle Motorsport** forged pistons (9.5:1 compression) and **Manley** titanium intake/exhaust valves for 400+ HP at 11,500 RPM on **VP Racing C16** 118-octane fuel",
+    "Install a **Honda Performance Development (HPD)** 3D-printed magnesium intake manifold with **Bosch Motorsport** 8-injector sequential fuel injection (1,200cc/min flow rate) and a **Motec M150 ECU** with custom RA302-specific traction control maps, paired with a **Pectel SQ6M** data logger for real-time telemetry monitoring",
+    "Upgrade the original 5-speed transaxle to a **Hewland LG600** 6-speed sequential gearbox with **AP Racing** carbon-carbon clutch and **Quaife** ATB differential, mated to a **Tilton** hydraulic paddle-shift system for 0.05s upshifts, while reinforcing the rear subframe with **T45 chromoly** tubing and **Sparco** 6-point bolt-in roll cage for rigidity"
+  ],
+  "estetica": [
+    "Replace the original fiberglass body with a **Kaminari Factory** hand-laid carbon fiber replica shell (1.2mm thickness) featuring a **Liberty Walk** RA302-specific widebody kit with integrated **AIM Carbon** front splitter and **Voltex** Type-3 rear wing (adjustable 0-20° angle) for 500kg downforce at 200 km/h",
+    "Install **HRE FF16** 18x10.5 (front) and 18x12.5 (rear) forged wheels with **Pirelli P Zero Trofeo R** semi-slick tires (275/625-18 front, 325/645-18 rear), wrapped in a **Rocket Bunny** custom livery featuring **3M 1080 Matte Graphite** with **HKS Racing** decals and **GReddy** titanium exhaust tips",
+    "Retrofit the interior with **Recaro SPG XL** carbon-Kevlar racing seats, **Schroth** 6-point harnesses, and a **MOMO Prototipo** suede steering wheel (320mm diameter) on a **NRG Innovations** quick-release hub, while adding a **AiM MXL2** digital dash and **OMP** fire suppression system with **Lifeline** zero-2000 extinguishers"
+  ]
+}

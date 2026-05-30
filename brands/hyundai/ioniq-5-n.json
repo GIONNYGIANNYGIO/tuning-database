@@ -1,0 +1,14 @@
+{
+  "brand": "HYUNDAI",
+  "model": "IONIQ 5 N",
+  "prestazioni": [
+    "Hyundai G4KN 2.5L turbocharged inline-4 engine: Garrett GTX3582R turbo upgrade with billet compressor wheel (76mm inducer, 106mm exducer) and TiAL MV-R 44mm wastegate, paired with a custom 3.5-inch stainless steel downpipe (catless) from Armytrix for reduced backpressure and optimized spool characteristics",
+    "Full Motec M150 ECU standalone management with custom N-Spec fueling maps, including ID1000x injectors (1,000cc/min) and a Radium Engineering dual-catch can setup with -10AN lines to manage crankcase pressure under sustained 30+ psi boost (targeting 500whp on E85)",
+    "KW Suspensions Clubsport 3-way coilovers with N-spec-specific valving, adjustable camber plates (front +3.5°, rear -2.8°), and poly bushings from SuperPro (part #SPF1026K) to eliminate subframe deflection under high lateral G-forces (tested to 1.2G on skidpad)"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (Ioniq 5 N-specific) with carbon fiber fenders (30mm wider front, 40mm wider rear), paired with a custom 3D-printed front splitter (50mm overhang) and a GT wing from APR Performance (carbon fiber, 1,800mm span, adjustable to 15° angle of attack)",
+    "OEM+ N Grille delete with a custom laser-cut aluminum mesh (0.8mm thickness, 3mm hex pattern) from Varrstoen, color-matched to Hyper Blue with a clear powder-coated finish, and integrated LED DRLs from LUX H8 V4 (6,000K, 1,200 lumens)",
+    "Enkei PF09 wheels (19x10.5 +20 front, 19x11 +35 rear) in Hyper Silver with N-spec center caps, wrapped in Michelin Pilot Sport Cup 2 R tires (275/35/19 front, 305/30/19 rear) and paired with Brembo GT 6-piston calipers (380mm rotors front, 355mm rear) with custom N-branded caliper covers"
+  ]
+}

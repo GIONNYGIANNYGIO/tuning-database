@@ -1,0 +1,14 @@
+{
+  "brand": "HYUNDAI",
+  "model": "GRANDEUR IG",
+  "prestazioni": [
+    "Engine: 3.3L Lambda II RS GDI V6 (G6DH) with a custom forced-induction setup using a Garrett GTX3582R turbocharger, paired with a PTP Turbo Smart 45mm wastegate and a custom 3.5-inch stainless steel turbo-back exhaust system by HKS, featuring a 50mm internal diameter and a titanium-coated muffler for reduced backpressure and weight savings of 12kg.",
+    "Fuel System: Upgraded to a full Radium Engineering port injection kit with dual 1200cc/min injectors per cylinder, controlled via a Link G4+ Xtreme standalone ECU, alongside a Walbro 450LPH in-tank fuel pump and a custom fuel rail with AN-8 fittings for high-flow fuel delivery under boost (targeting 12-14psi on 98 RON fuel).",
+    "Suspension & Handling: Full Ohlins Road & Track DFV coilovers with 3-way adjustable damping (compression, rebound, and ride height), paired with Cusco front and rear sway bars (24mm front, 22mm rear), and a custom polybush kit by SuperPro (part numbers SPF1030K and SPF1031K) to eliminate compliance in the subframe and control arms for sharper turn-in response."
+  ],
+  "estetica": [
+    "Aero: Full Liberty Walk LB Works widebody kit (specific to Grandeur IG) with carbon fiber front splitter, side skirts, and rear diffuser, paired with a custom 3D-printed active rear spoiler using a Bosch servo motor for adjustable angle (0-15 degrees) via a dashboard switch.",
+    "Wheels: Work Meister S1 3P 19x9.5 +22 front and 19x11 +30 rear in a custom matte bronze finish, wrapped in Michelin Pilot Sport Cup 2 R tires (255/35/19 front, 295/30/19 rear) for optimal grip and heat resistance under track conditions.",
+    "Interior: Full Recaro SP-G TS seats with custom Alcantara and carbon fiber shell, paired with a MOMO Prototipo Evo steering wheel (350mm diameter) and a custom roll cage by Custom Cages UK (FIA-spec, 6-point, T45 steel) painted in Hyundai Racing Blue (color code: HY-5P)."
+  ]
+}

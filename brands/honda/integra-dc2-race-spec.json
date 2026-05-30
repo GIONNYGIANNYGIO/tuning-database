@@ -1,0 +1,18 @@
+{
+  "brand": "HONDA",
+  "model": "INTEGRA DC2 RACE SPEC",
+  "prestazioni": [
+    "B18C5 (Type R) engine block reinforced with a Tomei billet crankshaft (87mm stroke) and Eagle H-beam connecting rods, paired with JE 87.5mm forged pistons (12.5:1 compression ratio) for 2.1L displacement, ensuring 9,500 RPM redline capability with a Tomei Pro-Cam Type-R camshaft (272° duration, 12.0mm lift) and Supertech titanium retainers/valvesprings",
+    "Full titanium 4-2-1 exhaust manifold by HKS Hi-Power (304 stainless steel, 1.75\" primary tubes) feeding into a custom 3.5\" straight-pipe exhaust with a Fujitsubo Giken Authorize R muffler (titanium internals, 70mm outlet) and a secondary 2.5\" over-axle bypass for backpressure management under boost",
+    "Garrett GT3076R turbocharger (0.86 A/R turbine housing, 56mm compressor wheel) with a custom top-mount intercooler (GReddy Type-R, 600x300x76mm core) and a TiAL MV-R 44mm wastegate (dual-port, 14psi base boost) controlled via an AEM 30-4110 standalone ECU with Hondata K-Pro V4 integration for individual cylinder fuel trims and launch control (3-step, 6,500 RPM limiter)",
+    "OS Giken LSD (1.5-way, 40% lock) with Cusco 2-way differential mounts and a custom 4.785 final drive ratio (OS Giken ring & pinion) for optimized acceleration, paired with a Tilton 7.25\" triple-plate carbon clutch and a Fidanza 12lb flywheel for rapid rev-matching",
+    "KW Clubsport 3-way coilovers (8-position rebound, 12-click compression, 24mm front/22mm rear adjustable sway bars) with spherical bearing top mounts (SuperPro poly bushings) and custom camber plates (Megan Racing, -3.5° front, -2.8° rear) for aggressive turn-in, complemented by Endless CC-RG6 brake pads and DBA 5000 Series rotors (330mm front, 300mm rear) with stainless steel braided lines"
+  ],
+  "estetica": [
+    "Full Rocket Bunny Version 3 widebody kit (carbon fiber fenders, front bumper, and rear diffuser) with custom 3M Matte Pearl White wrap (PPF-protected high-wear areas) and a Seibon carbon fiber hood (Type R-style vent, 50% weight reduction over OEM)",
+    "Voltex Type-5 rear wing (1,200mm span, 3D carbon fiber, adjustable 0-20° angle) mounted on custom aluminum pedestals (integrated brake light) and a custom front splitter (carbon fiber, 3\" overhang) with a Cusco canard set (4-piece, 150mm length) for high-speed stability",
+    "Recaro SPG-KL bucket seats (HANS-compatible, FIA 8862-2009 certified) with custom Bride Euroster II seat rails (25mm lower than OEM) and a Takata Drift III 4-point harness (cam-lock, SFI 16.1 rated), paired with a NRG Innovations quick-release steering wheel (350mm, suede, 6-bolt pattern) and a custom MOMO shift knob (aluminum, 150g weight, short-throw adapter)",
+    "Custom engine bay dress-up with a carbon fiber strut brace (Cusco, 2-point, 3mm thickness) and a full titanium bolt kit (ARP, 12-point, 8mm/10mm/12mm sizes) for weight savings, alongside a custom aluminum radiator (Koyorad, 45mm core, dual 12\" SPAL fans) and a carbon fiber intake manifold (Skunk2 Ultra Series, polished, 70mm throttle body) with a custom 3\" velocity stack (aluminum, anodized red)",
+    "OEM+ JDM DC2 Type R taillight conversion (clear lenses, red/amber LED bulbs) with a custom rear bumper delete (carbon fiber diffuser, dual 3.5\" exhaust exits) and a custom front lip (carbon fiber, 2.5\" overhang) with integrated LED fog lights (Morimoto XB, 5,000K, DOT-approved)"
+  ]
+}

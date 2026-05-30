@@ -1,0 +1,14 @@
+{
+  "brand": "HYUNDAI",
+  "model": "VELOSTER N",
+  "prestazioni": [
+    "Engine: Theta II 2.0L Turbo GDI (Engine Code: *G4KH*) with a forged internals build including Manley 4340 forged connecting rods, JE 8.5:1 compression forged pistons, and ACL Race Series main/rod bearings to handle 400+ WHP reliably. Pair with a Garrett GTX3582R turbocharger (0.82 A/R, 62mm inducer) on a custom Precision Turbo cast manifold with V-band flange for optimized spool and top-end flow.",
+    "Fuel System: Injector Dynamics ID1050x fuel injectors (1050cc/min) with a Radium Engineering dual-catch can setup (PN: 20-0119) and a Walbro 450 LPH in-tank fuel pump (PN: F90000267) to support E85 blends. Add a Syvecs S6Plus standalone ECU with custom N-Spec mapping for launch control, anti-lag, and flex-fuel compensation.",
+    "Drivetrain & Suspension: OS Giken Super Lock LSD (PN: OS-TC12-2WAY) for the front differential paired with a Cusco Type-RS 1.5-way rear LSD (PN: 235 008 A). Suspension overhaul with Ohlins Road & Track DFV coilovers (PN: HY103) featuring 8/16-position rebound/compression damping, Swift Springs (8K front/10K rear), and spherical bearing top mounts. Brembo GT 6-piston front calipers (PN: 09.9404.75) with 355mm two-piece rotors and Ferodo DS2500 pads for fade-resistant stopping power."
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny V3 widebody kit (PN: RB-VN2018) with carbon fiber overfenders, front canards, and a duckbill rear wing (adjustable 0-15° angle). Pair with a custom 3D-printed front splitter (ABS plastic, 3mm thickness) and a Varis-style rear diffuser with integrated tow hooks. Underbody aero includes a Cusco front lip spoiler (PN: 601 001 A) and a custom aluminum undertray for reduced lift.",
+    "Exterior: Full Respray in Hyundai N Performance Matte Racing Blue (Code: NBB) with a 3M Matte Black vinyl wrap on the roof, mirrors, and rear hatch spoiler. Replace all badges with carbon fiber replicas (Seibon Carbon) and add a custom N-Spec front grille with a 3D-printed honeycomb mesh (0.8mm cell size). Lighting upgrades include Lamin-X yellow fog light covers and Diode Dynamics SS3 Pro LED bulbs (3000K) for the headlights.",
+    "Interior: Recaro Sportster CS seats (PN: 391.20.01) with Schroth Profi II 4-point harnesses (PN: 41400A) mounted to a custom bolt-in roll cage (6-point, TIG-welded 4130 chromoly). Replace the steering wheel with a Momo Prototipo (330mm, suede) and add a NRG Quick Release hub. Gauges include a Defi BF Advance 52mm boost/fuel pressure/oil temp setup and an AEM X-Series wideband AFR gauge (PN: 30-0300) integrated into the A-pillar."
+  ]
+}

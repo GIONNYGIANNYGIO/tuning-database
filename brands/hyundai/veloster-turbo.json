@@ -1,0 +1,14 @@
+{
+  "brand": "HYUNDAI",
+  "model": "VELOSTER TURBO",
+  "prestazioni": [
+    "Engine: Theta II 1.6L Turbo GDI (Gamma G4FJ) with forged internals including Manley H-beam connecting rods (PN: 14425-1), JE Pistons 87mm forged slugs (PN: 368887), and ACL Race Series main/rod bearings (PN: 5M1212H). Turbo upgrade to Garrett GTX3071R Gen II (0.63 A/R, 62mm compressor, 56mm turbine) with TiAL MV-R 44mm wastegate and TiAL Q 50mm blow-off valve. Custom 3.5\" turbo-back exhaust with Burns Stainless 304L merge collectors and Vibrant 1799 resonated muffler.",
+    "Fuel System: Injector Dynamics ID1050x fuel injectors (PN: 105035-01-1447) with Radium Engineering fuel rail (PN: 20-0118) and AEM 340lph in-tank fuel pump (PN: 50-1000). Motec M150 ECU with custom Alpha-N/Speed Density hybrid mapping for 30psi peak boost on E85 blend (Cornfed Ethanol Flex Fuel Kit PN: CF-001).",
+    "Suspension/Handling: Ohlins Road & Track DFV coilovers (PN: HY103) with custom valving for 300lb/in front and 400lb/in rear spring rates. Whiteline adjustable rear sway bar (PN: BSR75XZ) and SuperPro front lower control arms (PN: SPHY11-4000) with spherical bearings. StopTech ST-60 big brake kit (PN: 126.44086) with 6-piston calipers, 343mm rotors, and Ferodo DS2500 pads. Michelin Pilot Sport Cup 2 tires (245/35/18 front, 275/35/18 rear) on Enkei PF07 wheels (18x9.5 +35 front, 18x10.5 +40 rear)."
+  ],
+  "estetica": [
+    "Liberty Walk LB Works widebody kit (PN: LW-HYVLST-01) with custom carbon fiber front splitter and rear diffuser by Seibon Carbon (PN: HY-VEL-16-FSPLIT). Custom matte vinyl wrap in Avery Dennison SW900 Gloss Black with 3M Scotchprint Wrap Film Series 1080 in Electric Purple accents on lower rockers and mirror caps. Retrofit Automotive LED headlights (PN: HY-VEL-LED) with Osram Night Breaker Laser bulbs and Morimoto XB LED fog lights (PN: 21801).",
+    "Interior: Recaro SP-G bucket seats (PN: 391.20.00) with Schroth Profi II 6-point harnesses (PN: 41400.67) and custom roll cage by Custom Cages (PN: HY-VEL-01) with 1.75\" x .120\" DOM tubing. MOMO Mod.78 steering wheel (PN: 0111201010) with NRG quick-release hub (PN: SRK-200B) and AiM MXS Strada dash (PN: 1.2000.0001). Full sound deadening with Noico 80mil (PN: 848005) and Dynamat Xtreme (PN: 10455).",
+    "Aerodynamics: Custom carbon fiber rear wing by APR Performance (PN: GTC-200) with 3D-printed gurney flaps and adjustable angle mounts. Custom front canards by Varis Japan (PN: VAR-HYVL-01) and rear diffuser with integrated LED brake light by Rocket Bunny (PN: PB-HY01-01). Underbody aero package with custom aluminum belly pan and rear diffuser strakes by APR (PN: AS-100020)."
+  ]
+}

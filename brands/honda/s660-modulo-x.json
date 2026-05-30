@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "S660 MODULO X",
+  "prestazioni": [
+    "Engine: S07A Turbo (660cc, DOHC 12-valve, turbocharged) - Full forged internals upgrade with Tomei 87mm forged pistons, Eagle H-beam connecting rods, and a billet crankshaft for 12,000 RPM reliability and 250+ HP potential on E85 fuel.",
+    "Turbocharger: Garrett GT2560R Gen II with a custom 0.63 A/R turbine housing and 60mm compressor wheel, paired with a HKS SSQV4 blow-off valve and a custom 3-inch titanium exhaust system by Fujitsubo Legalis R.",
+    "ECU & Fueling: Haltech Elite 2500 standalone ECU with dual Bosch 0280158002 1000cc injectors, AEM 320LPH fuel pump, and a custom-mapped ignition system using Denso Iridium IK24 spark plugs and HKS Hi-Power ignition coils."
+  ],
+  "estetica": [
+    "Body Kit: Veilside Fortune 03 widebody conversion with custom carbon fiber overfenders (25mm wider front, 35mm wider rear) and a custom front splitter by C-West, reinforced with aluminum substructure for rigidity.",
+    "Suspension & Wheels: Ohlins Road & Track DFV coilovers with 30-way adjustable damping, custom-spec for the S660’s 50:50 weight distribution, paired with Work Emotion CR Kiwami wheels (15x7 +38 front, 16x8.5 +30 rear) and Yokohama Advan Neova AD08R tires (185/55R15 front, 225/45R16 rear).",
+    "Interior & Aero: Full carbon fiber interior trim by AutoTeck Japan, including a custom roll cage (MOMO 6-point bolt-in) and Bride Zeta III bucket seats with Schroth 6-point harnesses. Rear diffuser by Rocket Bunny (S660-specific) with integrated LED brake light and a custom GT wing by Voltex (Type 3, 1200mm width, 3D-printed carbon fiber)."
+  ]
+}

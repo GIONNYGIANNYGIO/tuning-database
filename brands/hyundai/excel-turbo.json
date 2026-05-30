@@ -1,0 +1,14 @@
+{
+  "brand": "HYUNDAI",
+  "model": "EXCEL TURBO",
+  "prestazioni": [
+    "Engine: Replace the stock **G4DJ** 1.5L SOHC 8V turbocharged inline-4 (78 hp) with a forged internals build featuring **Manley 86mm forged pistons (8.5:1 CR)**, **Eagle H-beam connecting rods**, and a **Crower billet crankshaft** to handle 300+ hp reliably. Pair with **ARP head studs** and **Cometic MLS head gasket** for boost sealing.",
+    "Forced Induction: Swap the stock **Mitsubishi TD04-11G** turbo for a **Garrett GT2860RS-5 (56 trim, .64 A/R turbine housing)** with a **Tial 38mm external wastegate** and **TurboSmart Kompact 50mm blow-off valve**. Custom **stainless steel 3-inch turbo manifold** by **Full-Race Motorsports** with equal-length runners for optimized spool.",
+    "Fuel & Ignition: Upgrade to **Siemens DEKA 80lb/hr high-impedance injectors** with a **Walbro 255 LPH in-tank fuel pump**, controlled via a **Haltech Elite 1500 ECU** (standalone). Add a **Nitrous Express 150-shot wet kit** with **MSD 6AL ignition box** and **NGK Iridium IX (BKR6EIX) spark plugs** gapped at 0.028\"."
+  ],
+  "estetica": [
+    "Body Kit: **Vertex Japan ‘Excel GT’ widebody conversion** (1988-1990 spec) with **carbon fiber front lip, side skirts, and rear diffuser** (OEM+ fitment). Paint in **PPG ‘Hyper Yellow’ (Code: 46J) with matte black roof and mirrors**.",
+    "Wheels & Suspension: **Work Meister S1 3P 15x8 +15 (front) and 15x9 +20 (rear)** with **Toyo R888R 195/50/15 and 225/45/15 tires**. **Tein Flex Z coilovers** (adjustable damping, 2.5-inch drop) with **Whiteline 22mm adjustable rear sway bar** and **polyurethane bushings (Energy Suspension 9.5104G)** for chassis rigidity.",
+    "Interior: **Recaro SRD (Evo II) seats** with **Takata 4-point harnesses**, **Momo Prototipo steering wheel (330mm)**, and **Defi BF gauges (boost, oil pressure, wideband AFR)** mounted on a **custom A-pillar pod**. Full sound deadening with **Dynamat Xtreme** and **Sparco carbon fiber shift knob** for the stock 5-speed."
+  ]
+}

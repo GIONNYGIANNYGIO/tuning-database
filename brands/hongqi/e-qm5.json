@@ -1,0 +1,14 @@
+{
+  "brand": "HONGQI",
+  "model": "E-QM5",
+  "prestazioni": [
+    "Replace the stock **Permanent Magnet Synchronous Motor (PMSM) - HF120** (front: 136 kW / 185 PS, rear: 197 kW / 268 PS) with a **Remac R-250 e-motor upgrade kit**, boosting combined output to **450 kW (612 PS) and 850 Nm of torque**, utilizing a **silicon carbide (SiC) inverter** for 98% efficiency and **liquid-cooled stator windings** to prevent thermal derating during track use.",
+    "Install a **BYD Blade Battery (LFP chemistry) 100 kWh high-voltage pack** with **active thermal management via dual-phase immersion cooling (3M Novec 7100 dielectric fluid)** and **custom aluminum busbars (Molex PowerTrip connectors)** to reduce internal resistance by 30%, enabling **800V fast-charging (350 kW) and 0-100 km/h in 3.2s**.",
+    "Upgrade the **ZF 2-speed automatic transmission (model 8DT)** with a **Quaife ATB helical LSD** and **carbon-fiber-reinforced PEEK gear synchronizers**, paired with a **Motec C127 ECU** for **launch control (5,000 rpm clutch engagement) and torque vectoring (split-axis control via CAN bus)** to optimize power delivery for the E-QM5’s **50:50 weight distribution**."
+  ],
+  "estetica": [
+    "Fit a **Liberty Walk LB-WORKS widebody kit (E-QM5-specific)** with **carbon-fiber overfenders (150mm wider front, 120mm rear)**, **custom 3D-printed ABS rocker skirts**, and **integrated LED turn signals (Osram Oslon Black Flat)** for a 20mm lower stance while maintaining OEM panel gaps.",
+    "Replace the stock **19-inch aluminum wheels** with **BBS RI-D II (9.5Jx19 ET35 front, 11Jx19 ET40 rear)** in **Forged Diamond Black finish**, wrapped in **Michelin Pilot Sport Cup 2 R (265/35 R19 front, 295/30 R19 rear)** for **1.8G lateral grip** and **custom TPMS sensors (Schrader EZ-sensor 433 MHz)** for real-time pressure monitoring.",
+    "Install a **Seibon Carbon full dry carbon-fiber hood (CFRP pre-preg, 1.2mm thickness)** with **integrated NACA ducts (3D-printed PETG internal channels)** for **direct airflow to the dual-motor cooling system**, paired with a **Rocket Bunny rear diffuser (E-QM5-specific, 5-stage Gurney flaps)** and **Vorsteiner V-FF 103 front splitter (adjustable angle, 30mm extension)** for **downforce balance (60:40 front/rear at 200 km/h)**."
+  ]
+}

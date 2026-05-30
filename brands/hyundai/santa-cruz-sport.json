@@ -1,0 +1,14 @@
+{
+  "brand": "HYUNDAI",
+  "model": "SANTA CRUZ SPORT",
+  "prestazioni": [
+    "Turbocharger upgrade to Garrett GTX3071R Gen II with billet compressor wheel (engine code: *Smartstream G2.5 T-GDi*, 2.5L turbocharged I4) paired with a custom 3.5\" stainless downpipe featuring a 100-cell catalytic converter from Milltek Sport for optimized spool and flow",
+    "Full bolt-on fuel system overhaul including a Radium Engineering 260 LPH in-tank fuel pump, Injector Dynamics ID1050x fuel injectors, and a PRL Motorsports high-flow fuel rail kit with -6AN hardlines to support 400+ WHP on E40 blend",
+    "Custom ECU calibration via OpenECU by AEM Infinity 7 standalone management, recalibrating the stock *Smartstream G2.5* ignition timing, boost targets (22 psi peak), and VVT maps for aggressive mid-range torque (target: 420 lb-ft at 3,800 RPM) with fail-safe knock detection"
+  ],
+  "estetica": [
+    "Liberty Walk LB-SANTA CRUZ widebody conversion kit (fender flares, front/rear bumpers, and side skirts) with custom matte titanium wrap and exposed carbon fiber weave on the hood and roof",
+    "OEM+ aggressive stance via KW Suspensions Variant 3 coilovers (adjustable rebound/compression damping) paired with H&R 20mm front and 25mm rear spacers for flush fitment with custom 20\" Work Emotion CR Kiwami wheels (9.5\" front, 11\" rear) in gloss black with red lip",
+    "Full Rocket Bunny-style aero package including a custom 3D-printed front splitter with integrated canards (carbon fiber), a carbon fiber rear diffuser from Seibon, and a custom 3\" aluminum exhaust tip setup from Nameless Performance with quad outlets and titanium burn marks"
+  ]
+}

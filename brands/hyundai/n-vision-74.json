@@ -1,0 +1,14 @@
+{
+  "brand": "HYUNDAI",
+  "model": "N VISION 74",
+  "prestazioni": [
+    "Hyundai N e-GMP (Electric-Global Modular Platform) dual-motor system overclock via Motec C127 ECU with custom firmware for 800V architecture, targeting 1,000+ hp (up from 670 hp stock) by increasing inverter switching frequency to 20 kHz and optimizing SiC MOSFET thermal management with a PWR Australia liquid-cooled heat exchanger",
+    "Garrett GTX5533R turbocharger upgrade for the 2.5L Hyundai N T-GDi (G4KN) range-extender engine (mated to the e-GMP system), paired with a custom 4.5-inch titanium downpipe by Armytrix and a Tial MV-R 60mm wastegate to sustain 32 psi boost in hybrid mode",
+    "Ohlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed rebound) and N Vision 74-specific spring rates (14kg/mm front, 16kg/mm rear), combined with a Cusco Type-RS 22mm front sway bar and a custom-fabricated 24mm rear sway bar by Hardrace for Nürburgring lap-time optimization"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (N Vision 74-specific carbon fiber fenders, front/rear bumpers, and side skirts) with integrated NACA ducts for e-motor cooling, finished in Hyundai N Performance Matte Racing Blue with gloss black accents",
+    "Seibon Carbon fiber hood with a functional 3D-printed titanium ram-air scoop (designed via CFD analysis) to direct airflow to the GTX5533R intercooler, paired with a custom carbon fiber rear diffuser by Varis Japan featuring active aerodynamic flaps controlled by the Motec ECU",
+    "BBS CI-R 20x10.5 ET35 (front) and 20x12 ET40 (rear) forged wheels in Hyper Silver, wrapped in Michelin Pilot Sport Cup 2 R tires (275/35 R20 front, 315/30 R20 rear), with custom N Vision 74-branded center caps and titanium lug nuts by Gorilla Automotive"
+  ]
+}

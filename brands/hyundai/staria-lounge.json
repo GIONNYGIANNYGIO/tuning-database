@@ -1,0 +1,15 @@
+{
+  "brand": "HYUNDAI",
+  "model": "STARIA LOUNGE",
+  "prestazioni": [
+    "Engine swap to a Hyundai-Kia G4KH 2.5L Turbo Smartstream GDI (Theta III) with forged internals (CP pistons, Manley H-beam rods, ACL race bearings) and a Garrett GTX3582R turbocharger (1.05 A/R, 62mm compressor) running 28psi on E85, paired with a PRL Motorsports Stage 3 intake manifold and a custom 3.5-inch stainless steel downpipe with a Tomei 4-2-1 header",
+    "Full drivetrain reinforcement: OS Giken Super Lock LSD (8.2kg/m preload) in a custom bellhousing adapter for the G4KH, upgraded driveshafts with CV joints from a Kia Stinger GT (for 500+ lb-ft torque capacity), and a Sachs Performance twin-disc clutch with a billet flywheel (rated for 650 Nm)",
+    "Custom ECU tuning via Syvecs S8 Plug & Play standalone (with flex-fuel sensor, boost-by-gear, and launch control) mated to a Motec C125 dash for real-time data logging, alongside a custom 3-core intercooler (VRSF-style) with a 1000W water-methanol injection kit (Snow Performance Stage 3) for intake temps under 40°C at full boost",
+    "Suspension overhaul with Ohlins Road & Track coilovers (custom valving for 2.5-ton payload capacity), polyurethane bushings (SuperPro 90D durometer) for the multi-link rear and MacPherson front, and a custom sway bar setup (28mm front, 25mm rear) from Whiteline to reduce body roll by 40% during aggressive cornering"
+  ],
+  "estetica": [
+    "Full Rocket Bunny-inspired widebody kit (custom-fabricated for Staria Lounge, 120mm flares per side) with carbon fiber overfenders (Seibon CFRP, 2x2 twill weave) and a custom front splitter (3D-printed PETG core with carbon fiber overlay) featuring integrated canards (APR GT-3 style) and a 50mm adjustable rear diffuser (RPW Motorsport)",
+    "Custom LED lighting: LUX H8 Angel Eyes (6000K) with a Diode Dynamics SL1 Pro LED fog light conversion, sequential turn signals (VLEDS Hyperflash), and a custom roof-mounted light bar (Baja Designs Squadron Pro, 40-inch) with amber fog covers for off-road visibility",
+    "Interior transformation: Full Alcantara-wrapped dashboard (Saddle Brown) with custom stitching (Rally Innovations), Recaro Pole Position seats (front row, with Schroth 6-point harnesses) mounted on custom brackets, a MOMO Mod.78 steering wheel (350mm, suede) with a quick-release hub, and a custom roll cage (Chromoly 4130, TIG-welded) integrated with a Sparco Pro 2000 fire suppression system"
+  ]
+}
