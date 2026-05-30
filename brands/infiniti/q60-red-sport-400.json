@@ -1,0 +1,14 @@
+{
+  "brand": "INFINITI",
+  "model": "Q60 RED SPORT 400",
+  "prestazioni": [
+    "VR30DDTT (3.0L twin-turbo V6) engine: Full bolt-on turbo upgrade with Garrett GTX3582R Gen II turbos (82mm compressor, 62mm turbine) paired with custom 3.5\" stainless steel downpipes (Catted, 200-cell GESI) and a Tomei 3.5\" titanium exhaust system with N1-style quad outlets. Supporting mods include Injector Dynamics ID1050x injectors, Radium Engineering fuel rail upgrade, and a PRL Motorsports high-flow intercooler with 5.5\" thick core and billet end tanks.",
+    "VR30DDTT-specific ECU calibration via COBB Tuning Accessport with a custom Stage 3+ map (450whp target) developed by EcuTek-authorized tuner, featuring optimized ignition timing, boost control (22psi peak), and ethanol flex-fuel compatibility (E85 blend) with a Continental ethanol content sensor and AEM 320LPH fuel pump.",
+    "Drivetrain reinforcement with OS Giken Super Lock LSD (4.11 final drive ratio), Z1 Motorsports upgraded half-shafts with CV joint reinforcement, and a ZF 8HP transmission tune via COBB TCM flash for aggressive shift logic (0.15s shift times) and torque converter lockup under 2,500 RPM for launch control optimization."
+  ],
+  "estetica": [
+    "Liberty Walk LB-WORKS Q60 widebody kit (carbon fiber fenders, front/rear bumpers, and side skirts) with custom matte gunmetal finish, paired with a Seibon Carbon hood (VR30DDTT-specific venting) and trunk lid (dual carbon fiber spoilers for rear downforce).",
+    "OEM+ aggressive stance via KW Clubsport 3-way coilovers (24-way adjustable damping, 30mm front/20mm rear drop) with custom spring rates (12kg/mm front, 10kg/mm rear) and poly bushings (SuperPro 62mm front control arms, rear subframe bushings). Wheel setup: Work Emotion CR Kiwami 2x10.5J ET15 (front) and 11.5J ET20 (rear) with Michelin Pilot Sport Cup 2 R tires (275/30/20 front, 305/25/20 rear).",
+    "Interior overhaul with Recaro Pole Position seats (carbon fiber shells, Alcantara/leather upholstery) mounted on custom Bride seat rails, a MOMO Mod.78 steering wheel (350mm, suede) with NRG quick-release hub, and a full carbon fiber dash overlay (VIS Racing) with a 12.3\" AIM MXS Strada digital dash (CAN bus integration for VR30DDTT telemetry)."
+  ]
+}

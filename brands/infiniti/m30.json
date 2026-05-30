@@ -1,0 +1,14 @@
+{
+  "brand": "INFINITI",
+  "model": "M30",
+  "prestazioni": [
+    "Engine swap to a Nissan VG30DETT (3.0L V6 twin-turbo, 300+ hp stock) with forged internals (JE 8.5:1 pistons, Eagle H-beam rods, and a billet crankshaft) paired with a Garrett GT35R turbo (0.82 A/R turbine housing) and a custom 3-inch stainless steel exhaust system by HKS Hi-Power with 50mm wastegates and a GReddy Profec B Spec II boost controller for 18 psi of boost",
+    "Full standalone engine management via Haltech Elite 2500 ECU with individual coil-on-plug ignition (Magnecor KV85 racing spark plugs), a custom-mapped fuel system featuring Walbro 450 LPH in-tank pump, ID1000x injectors, and a Radium Engineering fuel pressure regulator for precise AFR control under high load",
+    "Suspension overhaul with Ohlins Road & Track DFV coilovers (custom valved for the M30’s F31 chassis), polyurethane bushings (Energy Suspension full set), and a Cusco 22mm front sway bar paired with a 19mm rear sway bar to eliminate body roll, complemented by Whiteline adjustable rear camber arms for optimal tire contact patch"
+  ],
+  "estetica": [
+    "Rocket Bunny V1 widebody kit (FRP construction) with custom-fabricated front canards and a carbon fiber duckbill spoiler by Seibon, painted in Nissan ‘Midnight Purple III’ (code: B72) with a 3-stage mirror polish clear coat for depth",
+    "Work Meister S1 3P 17x9 +22 front and 17x10 +30 rear wheels (ET22/ET30) wrapped in Toyo R888R 245/40/17 and 275/35/17 tires, with custom wheel spacers (15mm front, 25mm rear) by Project Kics for aggressive flush fitment",
+    "Full interior reupholstery in black Alcantara with red stitching (Recaro SRD-E fixed-back seats, Takata Drift II 4-point harnesses), a custom MOMO Mod.78 steering wheel (350mm diameter, suede grip), and a digital dash cluster by AIM MXS Strada with data logging for boost, AFR, and oil temps"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "INFINITI",
+  "model": "G35 SEDAN",
+  "prestazioni": [
+    "VQ35DE (Rev-Up variant, 306hp stock) forced induction via Garrett GT3582R turbocharger (0.82 A/R turbine housing, 62mm compressor wheel) with custom 3-inch stainless steel turbo-back exhaust featuring a Tomei 70mm titanium tip and Vibrant 1799 resonated muffler for optimized spool and backpressure management",
+    "HKS Hi-Power Fuel Pump (320 LPH) paired with Injector Dynamics ID1000x injectors (1000cc/min) and AEM 320LPH in-tank fuel pump, controlled via Haltech Elite 2500 ECU with custom VQ35DE Rev-Up base map for 12.5:1 AFR under boost (93 octane pump gas)",
+    "KW Variant 3 coilovers (8-position rebound, 16-way compression damping) with Swift Springs (8K front, 7K rear) and Cusco front strut tower bar (22mm hollow section) for chassis rigidity, complemented by SuperPro poly bushings (front control arms, subframe, differential) and Nismo 2-piece brake rotors (350mm front, 330mm rear) with Ferodo DS2500 pads"
+  ],
+  "estetica": [
+    "Vertex Japan Edge widebody conversion kit (front fenders + rear quarter panels, 20mm flares) with custom carbon fiber overfenders (1.5mm thickness, 3K twill weave) and Rocket Bunny rear diffuser (V2 sedan-specific, 3-piece design with integrated tow hook cover)",
+    "Seibon Carbon hood (VQ35DE-specific, 50% weight reduction, 2x20mm vents) and trunk (dual 100mm exhaust cutouts) with custom matte PPF (XPEL Stealth) full-body wrap, including JDM-spec Infiniti front emblem delete and rear G35 badge relocation (center trunk, 3M vinyl overlay)",
+    "Work Emotion CR Kiwami wheels (18x9.5 +22 front, 18x10.5 +25 rear) with Toyo R888R tires (255/40/18 front, 275/35/18 rear) and custom extended wheel studs (12x1.25, 50mm length), paired with Muteki SR48 lug nuts and D2 Racing forged aluminum hubcentric rings (73.1mm)"
+  ]
+}

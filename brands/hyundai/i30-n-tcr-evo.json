@@ -1,0 +1,14 @@
+{
+  "brand": "HYUNDAI",
+  "model": "I30 N TCR EVO",
+  "prestazioni": [
+    "Engine: Hyundai GDI 2.0L Theta II Turbo (G4KH) with TCR-spec forged internals, including Mahle Motorsport forged pistons (9.5:1 compression), Manley H-beam connecting rods, and a billet crankshaft from JE Pistons for 350+ hp reliability at 2.2 bar boost on E85 fuel.",
+    "Turbocharger: Garrett MOTIV GT35R with a 0.82 A/R turbine housing, titanium-aluminide turbine wheel, and 62mm compressor wheel, paired with a custom 3.5\" stainless steel downpipe and a PTP Turbo 4-ply silicone coupler for optimized spool and reduced lag in TCR sprint races.",
+    "Suspension: Öhlins TTX40 MkII TCR-spec coilovers with 4-way adjustable damping, 24mm front/22mm rear adjustable anti-roll bars from H&R, and spherical bearing top mounts from Whiteline for precise camber and caster adjustments (up to -4.5° front camber)."
+  ],
+  "estetica": [
+    "Aerodynamics: Liberty Walk LB Works widebody kit (TCR-spec front splitter, rear diffuser, and carbon fiber side skirts) with a 3D-printed ABS underbody diffuser for improved downforce (target: 150kg at 180 km/h).",
+    "Wheels: OZ Racing Superforgiata TCR wheels (9x18\" ET45 front, 10.5x18\" ET50 rear) wrapped in Pirelli P Zero Trofeo R tires (265/645R18 front, 285/645R18 rear) for optimal TCR circuit grip.",
+    "Interior: Sparco Pro2000 TCR-spec racing seat with 6-point Schroth Profi II harnesses, a custom carbon fiber dashboard overlay (replacing OEM plastics), and a Motec C127 dash logger with integrated Bosch MS4.0 ECU telemetry for real-time data acquisition."
+  ]
+}

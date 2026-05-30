@@ -1,0 +1,14 @@
+{
+  "brand": "HYUNDAI",
+  "model": "I30 N PERFORMANCE",
+  "prestazioni": [
+    "Garrett GT2867R turbo upgrade for the *Theta II 2.0L Turbo GDI (G4KH)* engine, paired with a *PTP Turbo Blanket* and *TurboSmart 45mm Comp-Gate wastegate* to handle 1.5 bar of boost, targeting 380-400whp on *Motul 300V 5W-40* with a *Radium Engineering fuel pressure regulator* and *Injector Dynamics ID1050x* injectors",
+    "Full *APR Stage 2+ ECU/TCU flash* with *Hyundai N Performance-specific calibration* (optimized for the *N Grin Shift* launch control and *Electronic Limited-Slip Differential*), including *custom ethanol flex-fuel mapping* via *HP Tuners* for E85 compatibility and *Cobb Accessport* for real-time monitoring",
+    "*KW Suspension Clubsport 3-way coilovers* with *N-specific spring rates (8kg/mm front, 10kg/mm rear)* and *Ohlins TTX40 dampers*, paired with *Whiteline adjustable front sway bar (24mm)* and *SuperPro poly bushings* for the *N Performance rear subframe* to eliminate torque steer under hard launches"
+  ],
+  "estetica": [
+    "*Rocket Bunny V3 widebody kit* (I30 N-specific, with *custom carbon fiber fenders* and *extended wheel arches* to fit *Work Meister S1 3P 18x9.5 +35* wheels with *Michelin Pilot Sport Cup 2* tires in 255/35/18 front and 265/35/18 rear)",
+    "*Seibon Carbon fiber hood* with *custom N Performance-style heat extractor vents* and *LED N Performance badge integration*, paired with a *custom rear diffuser* from *VRSF* (I30 N-specific, with *integrated titanium exhaust tips* for the *Akrapovic Evolution Line exhaust system*)",
+    "*Hyundai N Performance carbon fiber side skirts* (OEM+ style) with *custom LED door sills* (N logo projection) and *Recaro Sportster CS seats* in *N Performance Alcantara/leather* with *Schroth Profi II 6-point harnesses* and *custom roll cage* (TIG-welded, *MCS Motorsport* spec)"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "INFINITI",
+  "model": "FX50",
+  "prestazioni": [
+    "VK50VE (5.0L V8) engine: Full bolt-on forced induction conversion using a Garrett GTX5533R turbocharger (1.05 A/R turbine housing) paired with a custom 4-inch stainless steel downpipe and a Tomei 80mm titanium exhaust system, retaining the factory 11.2:1 compression ratio with forged internals (JE 9.5:1 pistons, Eagle H-beam rods, and a billet crankshaft) for 750whp on E85 fuel with a Motec M150 ECU managing direct port injection and a secondary fuel system (ID1700x injectors + AEM 400LPH pump).",
+    "VK50VE-specific: HKS GT-SS supercharger kit (2.2L/rev pulley) with a custom air-to-water intercooler (PWR radiator + Bosch 044 fuel pump upgrade) and a Z1 Motorsports carbon fiber intake manifold to optimize airflow for the stock throttle body, achieving 580whp on 93 octane with a GReddy E-Manage Ultimate piggyback for precise ignition timing control.",
+    "Chassis reinforcement: Cusco Type-RS 4-point bolt-in roll cage (FX50-specific fitment) with seam-welded chassis points, paired with a KW Clubsport 3-way coilover kit (24-way rebound, 12-way compression, 10kg/mm front/12kg/mm rear springs) and a Wisefab Motorsport front upper control arm kit (adjustable camber/toe) for track alignment (-3.5° front camber, -2.8° rear)."
+  ],
+  "estetica": [
+    "Liberty Walk LB-FX50 widebody kit (carbon fiber fenders, custom front bumper with integrated canards, and a rear diffuser with dual 4-inch exhaust cutouts) paired with a Seibon carbon fiber hood (VK50VE-specific scoop for intercooler ducting) and a custom rear wing (DRFT AERO GT3-style, 3D-printed aluminum mounts).",
+    "OEM+ aggressive stance: Work Meister S1 3P 20x10.5 ET20 (front) and 20x11.5 ET25 (rear) wheels with 275/30/20 and 305/25/20 Michelin Pilot Sport Cup 2 tires, paired with a custom air suspension setup (Air Lift Performance 3P management + AccuAir ENDO VT controllers) for adjustable ride height (-30mm drop from stock).",
+    "Interior overhaul: Recaro SP-G TS (FX50-specific mounting brackets) with Takata 4-point harnesses, a custom carbon fiber dashboard overlay (VK50VE gauge cluster relocation to center console), and a full Alcantara headliner (Robbins Auto Top) with red contrast stitching, paired with a custom roll cage padding (Sparco 6-point harness bar cover)."
+  ]
+}

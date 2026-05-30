@@ -1,0 +1,14 @@
+{
+  "brand": "INFINITI",
+  "model": "Q60 PROTOTYPE RACE",
+  "prestazioni": [
+    "VR30DDTT 3.0L twin-turbo V6 engine with a custom billet aluminum block reinforcement sleeve kit from Tomei, supporting 22 psi of boost via a Garrett GTX5533R Gen II turbocharger (88mm compressor wheel, 1.15 A/R turbine housing) and a TiAL MV-R 60mm wastegate for precise boost control",
+    "Full Motec M150 ECU with custom VR30DDTT-specific fuel and ignition maps, paired with a Plex Tuning S-DI direct injection controller to optimize fuel delivery at 1,200+ hp targets, utilizing ID1700x injectors and a Radium Engineering dual-catch can setup for crankcase ventilation",
+    "OS Giken 4.375:1 final drive LSD differential with billet aluminum housing, mated to a Holinger RD6 sequential gearbox (6-speed, dog-ring engagement) and a Tilton triple-plate carbon clutch with 3.5-inch diameter, designed for 1,500 Nm torque capacity"
+  ],
+  "estetica": [
+    "Liberty Walk LB-WORKS Q60 widebody conversion kit (carbon fiber fenders, front/rear bumpers, and side skirts) with custom 3M Matte Military Green wrap and exposed carbon weave accents on the hood and roof",
+    "Custom fabricated titanium exhaust system by Burns Stainless (4-inch diameter, dual-wall construction) with quad 120mm titanium tips from Agency Power, routed through a custom rear diffuser by Rocket Bunny (Pandem) for optimized downforce",
+    "OMP Carbon Kevlar racing seats with 6-point Schroth Profi II harnesses, paired with a custom roll cage by The Phirm (chromoly steel, TIG-welded, 6-point design with integrated fire suppression system) and a carbon fiber dashboard overlay by Seibon"
+  ]
+}

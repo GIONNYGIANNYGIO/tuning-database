@@ -1,0 +1,14 @@
+{
+  "brand": "INFINITI",
+  "model": "FX45",
+  "prestazioni": [
+    "VK45DE (4.5L DOHC 32V V8) forced induction via HKS GT-SS turbo kit (GT2835 ball-bearing turbo, 10.5psi base boost, HKS 264° camshafts, and HKS Hi-Power fuel pump) with supporting mods including Tomei 80mm titanium intake manifold, AEM 3.5bar MAP sensor, and GReddy Profec B Spec II boost controller for precise 12psi target on 93 octane",
+    "Full bolt-on VK45DE bottom-end reinforcement: Tomei billet crank pulley, ARP main stud kit (PN 206-5601), ACL Race Series main/rod bearings, and JE FSR forged pistons (11.5:1 compression) with Total Seal gapless rings for sustained 7,500 RPM reliability under forced induction",
+    "Custom Motec M150 ECU with Infiniti FX45-specific CAN bus integration, paired with a Plex Tuning Knock Monitor (KMR-1) and dual Bosch 0280158002 wideband O2 sensors for closed-loop AFR targeting 11.8:1 under boost and 14.7:1 cruise, with a secondary fuel system upgrade to dual Walbro 450LPH in-tank pumps and ID1000 injectors"
+  ],
+  "estetica": [
+    "Veilside Fortune 03 widebody conversion kit (FX45-specific fender flares, custom carbon fiber front bumper with integrated DRLs, and rear diffuser with dual 4-inch exhaust cutouts) paired with a custom 3M Matte Pearl White wrap and Veilside carbon fiber hood (VK45DE-specific NACA ducts for intercooler cooling)",
+    "Work Meister S1 3P 20x10 +25 front / 20x11 +30 rear wheels with Toyo R888R 275/35/20 and 305/30/20 tires, paired with BC Racing BR coilovers (FX45-specific valving) and Cusco front/rear sway bars (24mm front, 22mm rear) for aggressive stance and reduced body roll",
+    "Custom interior overhaul featuring Bride Zeta III FX45-specific bucket seats (with custom mounting brackets for VK45DE tunnel clearance), Takata Drift Series 4-point harnesses, and a custom carbon fiber dash overlay with integrated AIM MXS Strada 7-inch dash display (CAN bus-linked to Motec ECU for real-time boost, AFR, and oil pressure monitoring)"
+  ]
+}

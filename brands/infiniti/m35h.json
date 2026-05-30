@@ -1,0 +1,14 @@
+{
+  "brand": "INFINITI",
+  "model": "M35H",
+  "prestazioni": [
+    "Hybrid-tuned ECU reflash for the VQ35HR hybrid (engine code: VQ35HR + HM34 electric motor) via **COBB Accessport Hybrid Calibration**, optimizing torque split between the 3.5L V6 and 67 HP electric motor for a linear 400+ HP output while maintaining OEM hybrid battery longevity (target: 0-60 mph in 4.8s).",
+    "Garrett **GTX3076R Gen II** turbocharger upgrade with **Tial MV-R 44mm wastegate** and **Precision Turbo 6266 billet compressor wheel**, paired with a **GReddy intercooler kit (M35h-specific core)** and **HKS SSQV4 blow-off valve** to handle 18 psi of boost on 93 octane (hybrid-safe fuel mapping via **Haltech Elite 2500 standalone**).",
+    "Full **KW Suspensions Clubsport coilover kit (M35h-specific valving)** with **Eibach ERS 1000N/mm springs**, **SuperPro poly bushings (front control arms & subframe)**, and **D2 Racing 35mm rear sway bar** to eliminate hybrid weight transfer lag and enable 0.98g lateral grip on **Michelin Pilot Sport Cup 2 R (255/40R19 front, 285/35R19 rear)**."
+  ],
+  "estetica": [
+    "**Liberty Walk LB-M35H widebody kit** (carbon fiber fenders, custom hybrid battery relocation vents) with **Seibon carbon fiber hood (VQ35HR-specific scoop for intercooler ducting)** and **Rocket Bunny rear diffuser (M35h exhaust tunnel cutouts)**.",
+    "**OEM+ JDM Infiniti M35h front bumper lip (2008-2010 Fuga 350GT-spec)** with **Morimoto XB LED headlights (DRL/low-beam hybrid projector swap)** and **Vland JDM-style taillight overlays (smoked hybrid indicator delete)** for a stealth OEM+ look.",
+    "**Work Emotion CR Kiwami wheels (19x9.5 +25 front, 19x10.5 +30 rear)** in **Gunmetal Bronze** with **Project Kics R40 5x114.3 lug nuts**, paired with **Brembo GT 6-piston calipers (M35h-specific 380mm rotors)** and **Ferodo DS2500 brake pads** for hybrid regenerative braking compatibility."
+  ]
+}

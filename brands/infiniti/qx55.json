@@ -1,0 +1,14 @@
+{
+  "brand": "INFINITI",
+  "model": "QX55",
+  "prestazioni": [
+    "Engine: KR20DDET (2.0L turbocharged inline-4) – Full bolt-on turbo upgrade to a Garrett GTX3076R Gen II with billet compressor wheel, 64mm inducer, and 76mm exducer, paired with a custom 3.5-inch stainless steel downpipe featuring a 100-cell catalytic converter for optimized spool and flow. Requires a Cobb Accessport V3 with a custom KR20DDET Stage 2+ tune by EcuTek, targeting 320whp and 350 lb-ft torque with 22 psi peak boost on 93 octane fuel.",
+    "Drivetrain: Upgraded limited-slip differential (LSD) via Cusco Type-RS 1.5-way LSD with 45% lock under power and 60% lock on deceleration, paired with a ZF 8-speed automatic transmission flash by AAM Competition to reduce shift lag by 30% and enable manual paddle-shift hold times up to 500ms for aggressive downshifts.",
+    "Suspension: Full Ohlins Road & Track DFV coilover kit (QX55-specific valving) with 8-position adjustable compression/rebound damping, 20mm adjustable ride height, and spherical top mounts. Paired with Eibach Pro-Spacer wheel spacers (20mm front, 25mm rear) to correct scrub radius and improve turn-in response, along with SuperPro poly bushings (front control arms, subframe, and sway bar end links) for razor-sharp chassis feedback."
+  ],
+  "estetica": [
+    "Aero: Liberty Walk LB Works QX55 widebody kit (carbon fiber fenders, side skirts, and rear diffuser) with a custom 3D-printed front splitter extension (20mm overhang) and a Varis Japan rear wing (dual-element, 1,200mm span, adjustable angle up to 18 degrees). Full kit painted in Nissan Heritage Racing Yellow (code: 3Y3) with matte black accents on the lower cladding.",
+    "Wheels: Work Emotion CR Kiwami 20x9.5 +22 front and 20x10.5 +30 rear (custom offsets to clear Ohlins coilovers and Brembo calipers), wrapped in Michelin Pilot Sport Cup 2 R tires (265/35/20 front, 295/30/20 rear) for maximum mechanical grip. Finished with Duraflex lug nuts (closed-end, 12x1.5 thread) and a custom center cap with Infiniti Performance logo.",
+    "Interior: Full Recaro SPG XL bucket seats (QX55-specific mounting brackets) upholstered in Alcantara with red stitching, paired with a Takata Drift II 4-point harness (3-inch shoulder straps) and a NRG Innovations quick-release steering wheel hub. Custom carbon fiber dashboard overlay (by Seibon) with a 12.3-inch Aim MXS Strada digital dash (CAN bus integration for KR20DDET telemetry) and a Sony XAV-AX5500 head unit with Apple CarPlay/Android Auto."
+  ]
+}

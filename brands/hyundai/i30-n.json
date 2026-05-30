@@ -1,0 +1,14 @@
+{
+  "brand": "HYUNDAI",
+  "model": "I30 N",
+  "prestazioni": [
+    "Engine: Theta II 2.0L Turbo GDI (G4KH) with a Garrett GTX3582R turbocharger (82mm compressor wheel, 62mm turbine wheel) paired with a custom 3.5-inch downpipe featuring a 400-cell catalytic converter from Milltek Sport for optimized exhaust flow and backpressure reduction.",
+    "Fuel System: Injector Dynamics ID1050x fuel injectors with a Radium Engineering dual-catch can setup and a Walbro 450 LPH in-tank fuel pump, complemented by a Syvecs S8 ECU for precise fuel mapping and ignition timing adjustments under high boost (28 psi peak).",
+    "Suspension & Chassis: Ohlins Road & Track DFV coilovers (custom valved for the i30 N’s 5-link rear suspension) with Eibach 25mm front and 20mm rear anti-roll bars, paired with Cusco 2-point front strut brace and a full polybush kit from SuperPro (P/N SPF0115K) for subframe reinforcement."
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny V3 widebody kit (i30 N-specific, 30mm extended fenders) with a custom carbon fiber front splitter from Seibon and a Voltex GT-Wing (Type 2, 1700mm span) mounted on a custom aluminum pedestal for adjustable angle (0-15 degrees).",
+    "Wheels: Work Emotion CR Kiwami 2x2 in 19x9.5 +15 ET front and 19x10.5 +20 ET rear, wrapped in Michelin Pilot Sport Cup 2 R tires (265/35/19 front, 275/30/19 rear) with custom 5x114.3 to 5x120 hub conversion spacers (15mm front, 25mm rear) from Weld Racing.",
+    "Interior: Recaro SPG XL seats (Hyundai-specific mounting brackets) with Schroth Profi II 6-point harnesses, a custom roll cage from Custom Cages (FIA-spec, bolt-in, with integrated fire suppression system), and a Motec C127 dash logger replacing the stock cluster for real-time data monitoring."
+  ]
+}

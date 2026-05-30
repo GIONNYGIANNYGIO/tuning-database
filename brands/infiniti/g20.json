@@ -1,0 +1,14 @@
+{
+  "brand": "INFINITI",
+  "model": "G20",
+  "prestazioni": [
+    "SR20DE (2.0L DOHC 16V) engine swap to a fully built SR20DET (red top or black top variant) with forged internals: JE 87mm forged pistons (8.5:1 compression), Eagle H-beam connecting rods, ACL race bearings, and a Tomei 264° camshaft kit for high-RPM power delivery. Pair with a Garrett GT2860RS turbo (0.86 A/R turbine housing) and a custom 3-inch stainless steel turbo manifold by Tomei or HKS for optimized exhaust flow.",
+    "Full standalone ECU upgrade to a Haltech Elite 2500 with custom wiring harness by iWire, featuring flex-fuel compatibility, individual cylinder tuning, and launch control. Integrate a 4-bar MAP sensor and a Bosch LSU 4.9 wideband O2 sensor for precise air-fuel ratio monitoring. Supporting mods include a Nismo 550cc/min fuel injectors, Walbro 255 LPH in-tank fuel pump, and a Tomei Type-S fuel pressure regulator for consistent fuel delivery under boost.",
+    "Chassis reinforcement with a Cusco 4-point bolt-in front strut tower bar and a Cusco rear subframe brace to reduce flex. Suspension overhaul with Ohlins Road & Track DFV coilovers (custom valved for the G20’s weight distribution), polyurethane bushings from Energy Suspension (full set: control arms, sway bar, and subframe), and a Whiteline 24mm adjustable rear sway bar to eliminate body roll. Braking system upgrade to StopTech ST-60 slotted rotors with Ferodo DS2500 pads and stainless steel braided lines for fade-resistant stopping power."
+  ],
+  "estetica": [
+    "Full Rocket Bunny PGC10 widebody kit (fiberglass construction) with custom-fabricated front canards and a duckbill rear spoiler for aggressive aero. Front bumper lip replaced with a Seibon carbon fiber lip for weight savings, paired with a custom 3D-printed splitter extension for increased downforce. Rear diffuser by Varis Japan, matched with a custom dual-exit exhaust system (3.5-inch piping) terminating in a pair of Burns Stainless mufflers for a deep, JDM-inspired tone.",
+    "OEM+ interior refresh with a Nardi Classic 350mm steering wheel (drilled for airbag delete), Bride Gias II bucket seats (fixed-back, FIA-approved) mounted on custom fabricated brackets, and a full Takata Drift II 4-point harness setup. Shift knob replaced with a custom titanium piece by Works Bell, and the stock gauge cluster swapped for a Defi Advance BF series 5-gauge pod (boost, oil pressure, water temp, fuel pressure, and AFR) mounted in a custom carbon fiber dash overlay.",
+    "Exterior lighting overhaul with custom Hella 500 FF fog lights (clear lens, yellow bulbs) integrated into the front bumper, and a full LED conversion for headlights (Morimoto XB LED projectors with custom HID ballasts) and taillights (custom sequential LED strips by Diode Dynamics). Wheels upgraded to Work Emotion CR Kiwami (17x9 +22 front, 17x10 +25 rear) with Toyo R888R tires (225/45/17 front, 255/40/17 rear) for maximum grip and stance."
+  ]
+}

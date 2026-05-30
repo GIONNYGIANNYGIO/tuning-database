@@ -1,0 +1,14 @@
+{
+  "brand": "INFINITI",
+  "model": "J30",
+  "prestazioni": [
+    "Engine swap to a Nissan VH41DE (4.1L V8, 90° DOHC, 32-valve) with a custom billet crankshaft from Manley Performance (stroke increased to 96mm for 4.5L displacement), paired with JE Pistons 2618 forged slugs (9.5:1 compression) and Carrillo H-beam connecting rods for 8,500 RPM redline capability",
+    "Full bolt-on forced induction using a Garrett GTX3582R Gen II turbocharger (1.06 A/R turbine housing) with a custom Precision Turbo & Engine 46mm wastegate, fed by a custom 3.5\" stainless steel intercooler piping system from Vibrant Performance and a GReddy Type-S intercooler (core dimensions: 24\" x 6\" x 3.5\")",
+    "Custom Motec M150 ECU with a Nissan VH-specific wiring harness from Haltech, controlling a dual Bosch 0280158862 1,000cc/min fuel injectors setup, AEM 380LPH in-tank fuel pump, and a custom 3\" stainless steel exhaust system with a Tomei 4-2-1 equal-length header and a custom 3.5\" titanium exhaust from Burns Stainless with a GReddy SP2 muffler"
+  ],
+  "estetica": [
+    "Full Rocket Bunny V1 widebody kit (J30-specific, not the Q45 kit) with custom carbon fiber overfenders (2.5\" wider front, 3\" wider rear) and a custom front splitter with integrated canards from Seibon Carbon",
+    "Custom 3-piece Work Meister S1 3P wheels (18x9.5 +25 front, 18x10.5 +30 rear) with custom gold/polished lips and brushed centers, wrapped in Toyo R888R tires (245/40/18 front, 275/35/18 rear)",
+    "Full custom interior with Recaro SP-G (JDM-spec) front seats, a custom roll cage from Custom Cages (chrome-moly, 6-point with harness bar), and a full carbon fiber dash overlay from Varis with a digital gauge cluster from Defi (BF series, 60mm oil pressure, water temp, and boost gauges)"
+  ]
+}

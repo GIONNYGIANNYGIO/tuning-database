@@ -1,0 +1,14 @@
+{
+  "brand": "HONGQI",
+  "model": "E-HS9 FLAGSHIP",
+  "prestazioni": [
+    "Replace the stock dual-motor setup (front: 215 kW, rear: 215 kW) with a custom **AVL Racetech** e-motor system (front: 320 kW, rear: 380 kW) utilizing **SKF hybrid ceramic bearings** and **Siemens SINAMICS S120** inverters for 0-100 km/h in 3.2s (stock: 4.8s).",
+    "Upgrade the **CATL 99 kWh NCM811 battery** with **StoreDot XFC (Extreme Fast Charging) 110 kWh silicon-dominant anodes**, enabling 0-80% charge in 5 minutes and a 650 km WLTP range (stock: 510 km).",
+    "Install a **Bosch Motorsport VCU (Vehicle Control Unit) with custom torque vectoring maps** paired with a **MoTeC C127 dash logger** to optimize power distribution and traction control for Nürburgring lap times under 8:30 (stock: ~10:15)."
+  ],
+  "estetica": [
+    "Replace the stock body panels with **Rocket Bunny PANDEM E-HS9 widebody kit** (carbon fiber fenders, front splitter, and rear diffuser) designed specifically for the E-HS9’s 3,110 mm wheelbase, reducing drag coefficient to 0.28 (stock: 0.34).",
+    "Install **HRE FF16 flow-formed forged wheels (22x10.5 ET35 front, 22x12 ET40 rear)** with **Pirelli P Zero Trofeo R tires (285/35 R22 front, 325/30 R22 rear)** for aggressive stance and track-ready grip.",
+    "Add a **Vorsteiner carbon fiber roof panel** and **Seibon carbon fiber hood** with integrated **Valeo thermal management vents** to reduce weight by 45 kg while improving battery cooling efficiency."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "HYUNDAI",
+  "model": "I20 N RALLY1",
+  "prestazioni": [
+    "Hyundai GDi 1.6L Turbo (Engine Code: *G4FJ*) hybrid powertrain with a Garrett GTX3576R turbocharger (84mm compressor, 62mm turbine) running 3.0 bar (43.5 psi) boost on a custom Pectel SQ6M ECU with WRC-spec anti-lag and launch control maps, paired with a Quaife ATB differential and a 6-speed sequential Xtrac P1159 gearbox with carbon-fiber-reinforced synchros",
+    "Full WRC-spec suspension overhaul featuring Öhlins TTX40 3-way adjustable dampers with 25mm ride height adjustability, Eibach 1000N/mm front and 800N/mm rear springs, and spherical bearing-equipped Reiger Motorsport rally-spec control arms with adjustable camber/caster plates (up to -3.5° camber front, -2.8° rear)",
+    "Hybrid energy recovery system (ERS) upgrade with a Magneti Marelli MGU-K (Motor Generator Unit-Kinetic) rated at 100kW (134hp) peak output, paired with a 5.5kWh lithium-ion battery pack (Samsung SDI cells) and a custom cooling loop using a Setrab 10-row oil cooler and a Bosch high-voltage water pump for thermal management"
+  ],
+  "estetica": [
+    "Full carbon-fiber bodywork conversion using a *Rally Art* WRC-spec aero kit (front splitter, rear diffuser, and side skirts) with integrated cooling ducts for the ERS and turbo system, finished in Hyundai Motorsport’s signature *Electric Blue* with matte black accents and 3M 1080 vinyl decals for sponsor logos (e.g., Pirelli, Red Bull)",
+    "OMP WRC8 carbon-fiber racing seats with 6-point Schroth Profi II harnesses, a Sparco Pro 2000 steering wheel with integrated display for ERS deployment, and a custom FIA-spec roll cage (T45 steel, 45mm diameter) with integrated fire suppression system (Lifeline Zero 360) and quick-release Sparco pedals (adjustable brake bias)",
+    "Rally-spec lighting upgrade featuring Hella Rallye 3000 LED spotlights (4x front, 2x rear) with custom aluminum mounts, a Lazer Triple-R 8 LED light bar on the roof, and a Motec C127 dash display with GPS lap timing and ERS telemetry, all housed in a carbon-fiber dashboard with Alcantara-wrapped center console"
+  ]
+}

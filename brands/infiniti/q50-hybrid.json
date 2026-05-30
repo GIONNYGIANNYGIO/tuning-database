@@ -1,0 +1,14 @@
+{
+  "brand": "INFINITI",
+  "model": "Q50 HYBRID",
+  "prestazioni": [
+    "Engine: VR30DDTT (3.0L twin-turbo V6 hybrid) - Replace stock turbochargers with Garrett GTX3582R Gen II turbos (82mm compressor, 64mm turbine) paired with custom 3.5-inch stainless steel downpipes (Catted, 200-cell) from FTP Motorsports to eliminate lag while maintaining hybrid system compatibility. Requires VR30DDTT-specific ECU reflash via UpRev Level 3 tune (hybrid torque split optimization, 22psi peak boost, 93 octane fuel map).",
+    "Hybrid System: Upgrade the 50kW electric motor (HM34-10) with a remapped inverter (Denso 28340-3WJ0A) via Cobb Accessport Hybrid Plugin, increasing regen braking efficiency by 30% and enabling 0.5s launch assist at 6,500 RPM. Pair with a custom lithium-ion battery pack (A123 Systems AMP20M1HD-A, 40Ah) for 15% weight reduction and 20% higher discharge rate.",
+    "Drivetrain: Install a VR30DDTT-specific OS Giken Super Lock LSD (clutch-type, 2.5-way) in the 7-speed automatic transmission (RE7R01A) with upgraded internals (Sonnax billet valve body, Raybestos Gen 2 friction plates). Replace the stock 3.692 final drive with a 3.916 ratio from a Q50 Red Sport 400 (JDM-spec) for improved acceleration without sacrificing hybrid torque delivery."
+  ],
+  "estetica": [
+    "Aero: Full Liberty Walk LB-WORKS Q50 widebody kit (carbon fiber, 30mm extended fenders, aggressive front splitter with canards) paired with a custom 3D-printed rear diffuser (Aeroflow Dynamics, 5-element design) to reduce lift by 40% at 120mph. Replace stock mirrors with carbon fiber folding units (Seibon CF, JDM-spec).",
+    "Wheels: Work Emotion CR Kiwami (19x9.5 +22 front, 19x11 +30 rear) with custom offsets to clear the hybrid battery relocation kit (Stillen, 20mm rearward shift). Tires: Michelin Pilot Sport Cup 2 R (255/35/19 front, 295/30/19 rear) for maximum mechanical grip under hybrid torque loads.",
+    "Interior: Full carbon fiber dash overlay (VIS Racing, matte finish) with custom hybrid system monitoring via AIM MXS Strada dash (CAN bus integration for VR30DDTT + electric motor telemetry). Replace stock seats with Bride Zeta IV (fixed-back, carbon shell) and install a custom hybrid-specific pedal set (NRG Innovations, 6061 aluminum, adjustable pivot points for heel-toe downshifting)."
+  ]
+}

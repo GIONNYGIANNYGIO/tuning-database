@@ -1,0 +1,14 @@
+{
+  "brand": "HYUNDAI",
+  "model": "I20 N RALLY2",
+  "prestazioni": [
+    "Garrett GT2259S turbocharger upgrade (hybridized for the G4FJ 1.6L Turbo GDI engine) with billet compressor wheel, 52mm inducer, and 3D-printed titanium backplate to handle 380+ HP at 2.5 bar boost (stock turbo maxes at ~2.0 bar). Paired with a PTP Turbo Blanket and custom 3.5\" stainless downpipe with 200-cell catalytic converter for FIA WRC homologation compliance.",
+    "Ohlins TTX40 4-way adjustable dampers with 30mm front/28mm rear piston valves, 250mm stroke length, and rally-specific rebound/compression settings (12 clicks rebound, 8 clicks compression). Matched with custom 10kg/mm Eibach ERS springs and spherical bearing top mounts from Motorsport UK for subframe rigidity under gravel stages.",
+    "Bosch Motorsport MS 5.1 ECU reflash with custom 3D ignition timing maps (12° BTDC at 4500 RPM, 22° BTDC at 7000 RPM) and fuel pressure compensation for 1000cc ID1000 injectors. Includes a Motec PDM15 power distribution module for rally-spec electrical redundancy and a Pectel SQ6M data logger with 10Hz GPS for stage analysis."
+  ],
+  "estetica": [
+    "Rally Art Japan carbon fiber front splitter with integrated air curtains (FIA-approved, 3.5mm thickness) and a custom 3D-printed ABS rear diffuser with Gurney flaps for high-speed stability. Painted in Hyundai Motorsport’s signature ‘Performance Blue’ with matte black accents and 3M 1080 vinyl ‘Rally2’ decals (FIA-compliant font).",
+    "Recaro SPG XL Rally seats (FIA 8862-2009 certified) with Schroth 6-point harnesses and custom-molded carbon fiber seat mounts (direct bolt-on to the i20 N’s reinforced chassis points). Interior stripped of all non-essential weight, retaining only the OMP steering wheel (quick-release, 320mm diameter) and a Sparco carbon fiber shift knob for the 6-speed sequential gearbox.",
+    "Hella Rallye 3000 LED light pods (4x 50W, 6000K) mounted on a custom aluminum roof rack with integrated GPS antenna (Garmin 1090). Includes a WRC-spec ‘light bar’ with sequential turn signals and a rear-facing camera (GoPro Hero 12 with 360° stabilization) for co-driver pacenote verification."
+  ]
+}
