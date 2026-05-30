@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "INTEGRA TYPE R DC2",
+  "prestazioni": [
+    "Engine: B18C (JDM spec, 1.8L DOHC VTEC, 8,400 RPM redline) with a Tomei 272° duration camshaft kit (intake/exhaust) and Supertech +1mm oversized titanium retainers to handle the increased valve lift. Pair with a Skunk2 Pro Series intake manifold and 70mm throttle body for optimized airflow at high RPM.",
+    "Forced Induction: Custom-built turbo setup using a Garrett GT2860RS turbocharger (ball-bearing, .64 A/R turbine housing) with a custom 3-inch stainless steel exhaust manifold by HyTech Exhaust. Include a GReddy Type-S intercooler (front-mount, 600x225x76mm core) and a Tomei M82 blow-off valve to prevent compressor surge under aggressive shifting.",
+    "Drivetrain & Handling: OS Giken Super Lock LSD (2-way, 1.5/2.0 clutch-type) for the S80 transmission, paired with a Fidanza 12.5lb flywheel and Spec Stage 3+ clutch. Suspension: Ohlins Road & Track DFV coilovers (DC2-specific valving) with Cusco front and rear sway bars (22mm front, 18mm rear) and Energy Suspension polyurethane bushings for subframe and control arms."
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny Version 3 widebody kit (DC2-specific, carbon fiber front bumper, overfenders, and rear diffuser) with a custom 3D-printed rear wing mount for a Seibon GT Wing (1,700mm x 300mm, 3D carbon fiber). Front splitter: Voltex 1-piece carbon fiber with adjustable canards.",
+    "Wheels & Tires: Work Meister S1 3P 15x9 +22 front and 15x10 +30 rear (ET22/ET30) with Advan A052 semi-slick tires (225/45/15 front, 245/40/15 rear). Brake setup: Spoon Sports 4-piston calipers with 280mm rotors (front) and N1-spec 2-pot calipers with 260mm rotors (rear), paired with Project Mu 999.9 pads.",
+    "Interior: Bride Zeta III bucket seats (JDM-spec, FIA-approved) with Takata 4-point harnesses, Mugen carbon fiber shift knob (short throw), and a Defi BF Advance gauge cluster (oil pressure, oil temp, boost, wideband AFR) mounted on a custom A-pillar pod. Remove rear seats and install a custom aluminum half-cage by AutoPower."
+  ]
+}

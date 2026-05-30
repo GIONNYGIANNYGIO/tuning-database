@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "LEGEND HYBRID SH-AWD",
+  "prestazioni": [
+    "Replace the stock J35Y6 (3.5L V6) hybrid powertrain's electric motor (Honda H4 3-motor SH-AWD system) with a **Spoon Sports Hybrid Power Booster**, a bespoke high-voltage inverter and motor controller upgrade that increases regenerative braking efficiency by 22% and boosts electric torque output to 380 Nm (from 270 Nm) for the rear axle, specifically calibrated for the Legend's 7-speed DCT transmission and SH-AWD torque vectoring logic.",
+    "Install a **HKS Hi-Power M-Spec Exhaust System** with 70mm titanium piping and a 3.5-inch center exit, designed exclusively for the J35Y6 hybrid layout to reduce backpressure by 40% while maintaining OEM catalytic converter compliance for emissions. Pair with a **GReddy E-Manage Ultimate** piggyback ECU to remap the hybrid system's fuel and ignition timing, optimizing the V6's 377 hp (281 kW) output to 420 hp (313 kW) without sacrificing the electric motor's 50 kW (67 hp) contribution.",
+    "Upgrade the SH-AWD rear differential with a **KAAZ 1.5-way mechanical LSD** (part #KAAZ-LSD-J35Y6-SH-AWD), featuring a 65% lockup rate under acceleration and 45% under deceleration, paired with **Motul Gear 300 75W-90** synthetic differential fluid to handle the increased torque split (up to 100% rear bias) while maintaining the Legend's adaptive damping system (VSA) compatibility."
+  ],
+  "estetica": [
+    "Install a **Mugen MF10 Carbon Fiber Aero Kit** (front splitter, side skirts, and rear diffuser) with a 35mm adjustable front lip to reduce front-end lift by 18% at 120 mph, specifically designed for the Legend's hybrid-specific underbody airflow dynamics. Pair with **Mugen 19-inch MF-12 wheels** (8.5J front, 9.5J rear) in Hyper Black finish, wrapped in **Michelin Pilot Sport Cup 2 R** tires (245/40 R19 front, 275/35 R19 rear) for optimal SH-AWD torque vectoring grip.",
+    "Replace the OEM hybrid badging with **Spoon Sports Hybrid Emblem Set** (carbon fiber, red/blue accents) and install a **Spoon Sports Carbon Fiber Engine Cover** for the J35Y6, featuring a clear-coated weave pattern to showcase the hybrid motor's unique wiring harness and inverter layout. Add **Spoon Sports Hybrid Shift Knob** (7-speed DCT-specific) with a weighted aluminum core and Alcantara grip for precise gear selection.",
+    "Retrofit the interior with **Recaro Sportster CS Hybrid Seats** (JDM-spec, part #28000-T2A-A01), featuring reinforced side bolsters for lateral G-forces and integrated heating/cooling for hybrid battery thermal management. Pair with a **Momo Mod.78 Steering Wheel** (380mm diameter, suede grip) and **Sparco Hybrid Pedal Set** (aluminum, non-slip rubber inserts) to maintain OEM hybrid drive-mode switch functionality."
+  ]
+}

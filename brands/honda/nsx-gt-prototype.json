@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "NSX GT PROTOTYPE",
+  "prestazioni": [
+    "Engine: C32B V6 (Type R-based, 3.2L, 24V DOHC, 90° V6) with custom forged internals including JUN Auto forged pistons (12.5:1 CR), Eagle H-beam connecting rods, and a billet crankshaft for 9,500 RPM redline capability, paired with a dry-sump lubrication system by Titan Motorsports.",
+    "Forced Induction: Twin Garrett GTX4202R turbochargers (88mm compressor, 1.06 A/R turbine housing) with custom 4-inch titanium downpipes, HKS GT-SS wastegates (1.1 bar boost), and a PWR intercooler core (1200hp-rated) with custom billet end tanks by Full-Race Motorsports.",
+    "Fuel & Ignition: Full sequential fuel system with 12x ID1000 injectors (primary) and 4x ID2000 injectors (secondary), AEM Infinity 10 ECU with custom GT3-spec traction control and launch control maps, and a MoTeC PDM15 for power distribution, paired with a custom dual-spark ignition system (NGK R847-10 plugs, MSD 8517 coils)."
+  ],
+  "estetica": [
+    "Aerodynamics: Custom GT3-spec carbon fiber bodywork by ARC (Aero Resource Corporation), including a 3-piece front splitter with integrated dive planes, a 2.5m rear wing with swan-neck mounts (adjustable angle via Motec actuator), and a full underbody diffuser with vortex generators by APR Performance.",
+    "Chassis & Weight Reduction: Full carbon fiber monocoque reinforcement with a custom roll cage by Safety Devices (FIA GT3-spec, 8-point), carbon fiber doors (12kg weight savings), and a polycarbonate rear hatch with integrated NACA ducts for engine bay cooling, all coated in a custom matte Honda Racing Blue (RAL 5017) with gold accents by BASF Glasurit.",
+    "Wheels & Brakes: OZ Racing Superforgiata GT3 wheels (18x12 front, 18x13 rear) with custom center-lock adapters, wrapped in Michelin Pilot Sport Cup 2 R tires (305/645R18 front, 325/705R18 rear), paired with AP Racing CP8650 calipers (6-piston front, 4-piston rear) with 400mm carbon-ceramic rotors and custom titanium pistons."
+  ]
+}

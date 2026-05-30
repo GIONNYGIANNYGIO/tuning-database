@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "LEGEND KB1",
+  "prestazioni": [
+    "C32B1 (3.2L DOHC V6) engine rebuild with forged internals: JE 9.5:1 compression pistons, Eagle H-beam connecting rods, and a Tomei Type-M billet crankshaft for 8,500 RPM redline capability, paired with a custom 3.5-inch stainless steel exhaust system by HKS Hi-Power Spec-L with 2.5-inch mandrel-bent piping and a 70mm titanium tip for optimized scavenging",
+    "Garrett GT3582R turbocharger (82mm compressor, 62mm turbine) with a custom top-mount manifold by Full Race Motorsports, utilizing a TiAL MV-R 44mm wastegate and a GReddy Profec B Spec II boost controller, tuned via Hondata K-Pro V4 with a custom 350cc/min fuel map for 450whp on 98 RON fuel",
+    "KW Suspensions Variant 3 coilovers with custom valving for the KB1's multi-link rear and double-wishbone front suspension, paired with Cusco 22mm front and 20mm rear adjustable sway bars, and a full polybush kit from SuperPro (part numbers SPF1058K, SPF1059K, and SPF1060K) for chassis rigidity"
+  ],
+  "estetica": [
+    "Rocket Bunny V1 widebody kit (KB1-specific) with carbon fiber overfenders, front bumper lip, and rear diffuser, finished in a custom matte gunmetal wrap with 3M 2080 series gloss black accents",
+    "Voltex Type-5 rear wing (KB1-specific mounting points) with a 1,200mm span and adjustable carbon fiber blades, paired with a custom front splitter by Seibon Carbon with integrated canards for aero balance",
+    "Work Meister S1 3P 18x9.5 +38 front and 18x10.5 +45 rear wheels in a custom bronze finish, wrapped in Michelin Pilot Sport Cup 2 tires (245/40/18 front, 275/35/18 rear), with custom Brembo GT 6-piston front and 4-piston rear calipers clamping 355mm and 330mm rotors respectively"
+  ]
+}

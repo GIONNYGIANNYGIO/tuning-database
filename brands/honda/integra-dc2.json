@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "INTEGRA DC2",
+  "prestazioni": [
+    "Engine: B18C Type R (B18C5 for JDM, B18C6 for EDM) with forged internals including Eagle H-beam connecting rods, JE 87mm forged pistons (11.5:1 compression), and ACL Race Series bearings. Paired with a Tomei 272° camshaft kit (advertised duration) and Supertech valve springs/retainers for 9,000 RPM reliability.",
+    "Forced Induction: Garrett GT3076R turbocharger (0.82 A/R turbine housing) on a custom 3-inch stainless steel exhaust manifold by Hytech Exhaust, feeding into a GReddy Profec B Spec II boost controller and a custom intercooler setup with a PWR 450mm core and HKS SSQV blow-off valve.",
+    "Fuel & Ignition: Full standalone Haltech Elite 2500 ECU with individual cylinder tuning, paired with a Walbro 450 LPH fuel pump, Injector Dynamics ID1000 injectors, and a custom fuel rail by Radium Engineering. Ignition system upgraded to AEM CDI with NGK Iridium IX spark plugs (gap set to 0.028\")."
+  ],
+  "estetica": [
+    "Body Kit: Rocket Bunny V1 DC2 widebody kit with custom carbon fiber overfenders (30mm wider front, 40mm wider rear) and a Seibon carbon fiber hood with integrated NACA ducts for intercooler cooling.",
+    "Suspension: Ohlins Road & Track DFV coilovers with custom valving for DC2 chassis, paired with Cusco 22mm front and 24mm rear adjustable sway bars. Polyurethane bushings replaced with SuperPro 62mm spherical bearings at all critical points.",
+    "Wheels & Aero: Work Meister S1 3P 17x9 +38 front and 17x10 +22 rear wheels with 245/40/17 and 275/35/17 Michelin Pilot Sport Cup 2 tires. Rear diffuser by Varis Japan with integrated carbon fiber GT wing (1,200mm chord, 300mm height) and custom aluminum canards by APR Performance."
+  ]
+}

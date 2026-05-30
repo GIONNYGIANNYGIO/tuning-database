@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "NSX GT500",
+  "prestazioni": [
+    "Engine: C32B V6 (GT500-spec, 3.2L, 24-valve DOHC with titanium connecting rods and forged pistons, stroked to 3.5L via Toda Racing billet crankshaft and 94mm forged pistons for ~3.8L displacement, dry-sump lubrication system by HKS with dual scavenge pumps)",
+    "Forced Induction: Single Garrett GTX5533R turbocharger (GT500-spec, 1.15 A/R turbine housing, 82mm compressor wheel) with custom 4-inch titanium downpipe and GReddy Profec B Spec II boost controller targeting 2.2 bar (32 psi) peak boost on 102-octane race fuel, paired with a custom intercooler core by PWR (Australia) with 4-inch inlet/outlet and 1,200 CFM airflow capacity",
+    "Drivetrain: Hollinger 6-speed sequential gearbox (GT500-spec, dog-ring engagement, magnesium case) with OS Giken 2.2-way limited-slip differential (carbon clutch pack, 85% lockup under power), mated to a custom 4.88:1 final drive ratio and AP Racing 4-piston calipers with 380mm carbon-carbon discs (front) and 355mm discs (rear)"
+  ],
+  "estetica": [
+    "Aerodynamics: Spoon Sports GT500-spec carbon fiber front splitter (35mm overhang, 3-stage dive planes) with custom 3D-printed Gurney flap (adjustable via quick-release pins), paired with a Voltex GT-500 rear wing (Type 3, 1,800mm width, 300mm chord, 3-stage angle adjustment) and custom diffuser by Rocket Bunny (polyurethane, 5-element design with integrated strakes for 1,200 lbs downforce at 200 km/h)",
+    "Body: Seibon Carbon GT500-spec widebody kit (front fenders +2.5 inches, rear fenders +3.0 inches) with custom carbon fiber hood (vented, 3-piece construction, 50% weight reduction over OEM) and rear quarter-panel vents (functional, 4-inch diameter, teardrop-shaped for brake cooling)",
+    "Interior: Bride Zeta III GT500-spec seats (carbon-Kevlar shell, 6-point Schroth harnesses, FIA 8862-2009 certified) with custom roll cage by J's Racing (chromoly steel, 1.75-inch diameter, 10-point design with integrated fire suppression system mount) and Motec C127 dash logger (GT500-spec, 7-inch display, CAN bus integration with Hollinger gearbox and Motec M150 ECU)"
+  ]
+}

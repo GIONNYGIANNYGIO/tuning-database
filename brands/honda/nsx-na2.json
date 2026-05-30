@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "NSX NA2",
+  "prestazioni": [
+    "Engine: C32B (3.2L V6, 90° DOHC, 24-valve) with a custom-built Tomei 2.3L stroker kit (87mm crank, 94mm pistons, forged H-beam rods) and JUN Type-R camshafts (272° duration, 11.5mm lift) for high-RPM powerband extension (8,500 RPM redline).",
+    "Forced Induction: Garrett GTX3582R turbocharger (0.82 A/R, ball-bearing) with a custom 3.5-inch stainless steel exhaust manifold (equal-length, 1.75-inch primaries) and a GReddy Type-S intercooler (10-row, 12x12x3.5-inch core) to support 450whp on 93 octane with a Hondata K-Pro V4 ECU (custom basemap by Church Automotive Testing).",
+    "Suspension & Handling: Ohlins Road & Track DFV coilovers (2-way adjustable damping, 30-way rebound, 12kg/mm front/14kg/mm rear springs) paired with NSX-specific SuperPro poly bushings (front control arm, rear toe link) and a Cusco 22mm front/18mm rear adjustable sway bar kit for reduced body roll and improved mid-corner adjustability."
+  ],
+  "estetica": [
+    "Body: Seibon Carbon Fiber NSX NA2 widebody kit (Type-R inspired, 2-inch fender flares, carbon fiber front splitter with integrated canards) paired with a Veilside Fortune 2 rear diffuser (carbon fiber, 3-piece) for aggressive aero balance.",
+    "Wheels: Volk Racing TE37V (18x9.5 +35 front, 18x11 +30 rear) with Michelin Pilot Sport Cup 2 tires (245/35/18 front, 305/30/18 rear) and Project Kics R40 lug nuts (M12x1.5, 45mm shank) for track-ready grip and lightweight rotation.",
+    "Interior: Bride Zeta III reclinable bucket seats (NSX-specific mounting brackets, FIA-approved) with Takata 4-point harnesses (6-point sub-strap) and a Momo Mod.78 steering wheel (350mm diameter, suede, NSX-specific quick-release hub) for driver-focused ergonomics and weight reduction."
+  ]
+}

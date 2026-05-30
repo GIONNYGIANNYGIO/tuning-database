@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "NSX GT3 EVO22",
+  "prestazioni": [
+    "Engine: C32B 3.2L twin-turbo V6 (GT3-spec, dry-sump, 500+ hp @ 7,500 RPM) – Replace OEM Garrett GT35R turbos with **Honeywell Garrett GTX4202R Gen II** (84mm billet compressor, 1.06 A/R turbine housing) for 22 psi peak boost, paired with **Tial MV-R 44mm wastegates** and **TurboSmart Race Port BOV** for GT3-class compliance.",
+    "ECU: **Bosch MS6.4 GT3-spec ECU** reflashed with **HPD (Honda Performance Development) GT3 Evo22 Stage 2+ firmware** (optimized for 102-octane fuel, 28° total ignition timing, and **Motec PDM15** power distribution for GT3 endurance reliability).",
+    "Suspension: **Öhlins TTX46 MkII 4-way adjustable dampers** (GT3-spec, 12-position rebound/compression) with **Eibach 400 lb/in front / 350 lb/in rear springs**, **HPD GT3-spec front/rear anti-roll bars (24mm front, 22mm rear)**, and **Penske remote-reservoir bump stops** for 3mm ride height adjustment range."
+  ],
+  "estetica": [
+    "Aero: **HPD GT3 Evo22 carbon fiber front splitter** (3D-printed with **Toray T800 carbon**, 45mm extension for +120 lbs @ 120 mph) + **Voltex Type-22 GT3 rear wing** (3-element, 1,200mm span, **adjustable Gurney flap** for +200 lbs downforce).",
+    "Body: **Liberty Walk NSX GT3 Evo22 widebody kit** (pre-preg carbon fiber, 50mm front / 70mm rear fender flares) with **AIM carbon fiber doors** (honeycomb core, 30% weight reduction) and **HRE FF10 GT3 wheels** (18x12 front / 18x13 rear, **Forgeline center-lock hubs**).",
+    "Interior: **Sparco GT3 Pro22 carbon fiber seat** (FIA 8862-2009 certified, **Schroth 6-point harness**), **Motec C187 dash logger** (GT3-spec, 7-inch display), and **HPD GT3-spec carbon fiber steering wheel** (quick-release, **AiM MXL2 data integration**)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "LAGREAT",
+  "prestazioni": [
+    "Upgrade to a **Garrett GT2860RS-5 turbocharger** (ball-bearing, 60mm compressor, 53mm turbine) for the **K24A6** (2.4L i-VTEC) engine, paired with a **Toda Racing forged crankshaft (87mm stroke)** and **JE 12.5:1 compression forged pistons** to handle 1.5 bar of boost while maintaining reliability",
+    "Install a **Hondata KPro V4 standalone ECU** with a custom **K-Tuned 72mm throttle body** and **Skunk2 Pro Series intake manifold** to optimize airflow for the turbocharged K24A6, alongside a **Mishimoto aluminum radiator** and **GReddy intercooler core (600x300x76mm)** to manage heat under sustained boost",
+    "Replace the stock **5-speed automatic transmission** with a **PPG sequential dogbox (6-speed)** and **OS Giken Super Lock LSD**, paired with a **Spec Stage 4+ twin-disc clutch** and **Driveshaft Shop 3.5-inch aluminum driveshafts** to handle the increased torque (target: 450whp/380lb-ft)"
+  ],
+  "estetica": [
+    "**Liberty Walk LB-WORKS widebody kit (Lagreat-specific)** with **custom carbon fiber front splitter** and **rear diffuser**, designed to fit **Work Meister S1 3P 19x10.5 +30 (front) and 19x12 +35 (rear)** wheels with **Yokohama Advan A052 265/35/19 and 305/30/19 tires**",
+    "**Seibon Carbon fiber hood (OEM replacement)** with **custom heat extractor vents** and **LED DRLs integrated into the bumper (JDM-spec HID projector swap with Osram Night Breaker Laser bulbs)** for a sleeper-aggressive look",
+    "**Recaro SP-G (JDM-spec) front seats** with **Sparco 6-point harnesses**, **custom rear seat delete (carbon fiber panel with integrated fire extinguisher mount)**, and **MOMO Mod.78 steering wheel (350mm, suede)** wrapped in **Takata Drift II harnesses** for a full race interior"
+  ]
+}

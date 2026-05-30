@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "INTEGRA DC5 TYPE R",
+  "prestazioni": [
+    "Engine: K20A (2.0L DOHC i-VTEC) with a fully built bottom end featuring JE 87mm forged pistons (12.5:1 compression), Eagle H-beam connecting rods, and a billet crankshaft from Toda Racing. Paired with a Toda Racing Type-R spec camshaft set (280° intake/272° exhaust duration, 12.5mm lift) and upgraded valve springs/retainers from Jun Auto.",
+    "Forced induction: Garrett GTX3071R Gen II turbocharger (0.63 A/R turbine housing) with a custom 3-inch stainless steel exhaust manifold by Hypertune, mated to a GReddy Profec B Spec II boost controller and a custom intercooler setup (GReddy Type-35 core with custom piping by Rywire). Fuel system upgraded with a Walbro 450LPH fuel pump, Injector Dynamics ID1000 injectors, and a Hondata KPro V4 ECU with custom ethanol mapping for E85 compatibility.",
+    "Suspension: Ohlins Road & Track DFV coilovers (custom valved for DC5 chassis) with Cusco front and rear sway bars (22mm front, 20mm rear), Energy Suspension polyurethane bushings (full set), and a custom rear subframe reinforcement kit by Buddy Club. Braking system upgraded to Endless CC-R6 rotors (320mm front, 280mm rear) with 6-piston front and 4-piston rear calipers by Spoon Sports, paired with Project Mu 999.9 compound brake pads."
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny V1 widebody kit (DC5-specific) with custom carbon fiber front canards by Seibon, a custom 3D-printed rear diffuser by Varis, and a custom aluminum rear wing (1,800mm width) by J's Racing. Front bumper lip replaced with a custom carbon fiber splitter by APR Performance, and side skirts reinforced with carbon fiber overlays by Vertex.",
+    "Exterior: Full respray in Honda Championship White (NH-0) with a custom pearl flake overlay by House of Kolor, paired with custom gold accents on the front grille, side mirrors, and rear diffuser. OEM DC5 Type R headlights retrofitted with custom LED projectors by Morimoto, and taillights replaced with custom sequential LED units by Diode Dynamics. OEM wheels replaced with Volk Racing TE37SL in 17x9 +45 front and 17x10 +40 rear, wrapped in Michelin Pilot Sport Cup 2 tires (245/40/17 front, 275/35/17 rear).",
+    "Interior: Full Recaro SPG XL bucket seats (JDM-spec) with custom red Alcantara upholstery by Status Racing, paired with a custom bolt-in roll cage by Buddy Club (8-point, chromoly steel). Steering wheel replaced with a Momo Prototipo (350mm, suede) and shift knob upgraded to a custom titanium unit by Jun Auto. Custom carbon fiber dashboard overlay by Seibon, and full sound deadening by Dynamat Xtreme."
+  ]
+}

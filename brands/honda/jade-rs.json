@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "JADE RS",
+  "prestazioni": [
+    "Engine: L15B7 (1.5L turbocharged direct-injection i-VTEC) – Full forged internals including JE 87mm forged pistons (9.0:1 CR), Eagle H-beam connecting rods, and ACL Race Series bearings to handle 30+ psi boost. Upgraded crankshaft with billet counterweights for 8,500 RPM stability.",
+    "Turbocharger: Garrett GTX3582R Gen II with TiAL MV-R 44mm wastegate and custom 3.5\" stainless downpipe (TIG-welded, ceramic-coated) feeding into a custom 3.5\" straight-pipe exhaust with Burns Stainless 4-2-1 headers and a GReddy Profec B Spec II boost controller for 350+ WHP on E85.",
+    "Suspension: Ohlins Road & Track DFV coilovers (Honda-specific valving) with custom Swift Springs (8K front, 7K rear) and Hardrace adjustable camber plates. Full poly bushings (SuperPro 62mm front control arm bushings, Whiteline rear subframe bushings) and Cusco 22mm front sway bar with Tein end links."
+  ],
+  "estetica": [
+    "Body Kit: Veilside Fortune 03 widebody conversion (Jade RS-specific fitment) with custom carbon fiber overfenders (dry carbon, 2x2 twill) and a Seibon carbon fiber hood (Type-R style vents, 50% weight reduction). Front bumper lip replaced with a custom 3D-printed ABS splitter (50mm overhang, 3-stage gurney flap).",
+    "Wheels: Work Meister S1 3P 18x9.5 +38 front / 18x10.5 +45 rear (custom offsets for Jade RS fender clearance) with Michelin Pilot Sport Cup 2 R tires (245/35/18 front, 275/30/18 rear). Custom titanium wheel studs (ARP 070-2001) and Muteki SR48 lug nuts.",
+    "Interior: Bride Zeta III reclinable bucket seats (Honda-specific mounting brackets) with Takata 4-point harnesses. Custom MOMO Prototipo steering wheel (350mm, suede, 6-bolt quick-release) and a full carbon fiber dash overlay (dry carbon, 1.5mm thickness) with a Defi BF gauge cluster (oil temp, oil pressure, boost, wideband AFR)."
+  ]
+}

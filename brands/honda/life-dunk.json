@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "LIFE DUNK",
+  "prestazioni": [
+    "Engine swap to a **Honda E07Z (660cc turbocharged DOHC 12V)** with a **Garrett GT12 turbo (GT1241Z variant)** for 1.5 bar boost, paired with a **HKS Super SQV4 blow-off valve** and a **Toda Racing forged crankshaft (78mm stroke)** to push displacement to 700cc while maintaining reliability",
+    "Custom **ECU reflash via Hondata K-Pro V4 (Life Dunk-specific ROM)** with **350cc Denso injectors (PN: 23250-PWA-003)** and a **Walbro 255 lph fuel pump** to support 200+ hp at the wheels, tuned for **98 RON fuel** with **NGK IFR7H-11S iridium spark plugs**",
+    "Full **Toda Racing valvetrain upgrade**: **Toda A2 spec camshafts (264° duration, 10.5mm lift)**, **Toda titanium retainers**, **Toda valve springs (PN: 14710-100)**, and **Supertech 5.5mm stem valves** for high-RPM stability (redline set to 9,500 RPM via **Apexi Power FC** limiter adjustment)"
+  ],
+  "estetica": [
+    "**Rocket Bunny V1 Life Dunk-specific widebody kit (Pandem Design)** with **custom 3M 1080 vinyl wrap in 'Honda Milano Red' (R-81)** and **carbon fiber overfenders (Seibon CFRP, dry carbon)** for aggressive stance over **Work Meister S1 3P 15x7 +38 wheels** with **Yokohama Advan Neova AD08R 195/45/15 tires**",
+    "**J's Racing Life Dunk front bumper lip (FRP, JDM-spec)** with **custom LED fog light delete (replaced with Morimoto XB LED pods)** and **Voltex Type-3 rear diffuser (polyurethane, bolt-on)** for aero balance, paired with a **C-West GT-style rear wing (FRP, 3-position adjustable)**",
+    "**Recaro SRD (Kei-car spec) seats in black Alcantara with red stitching**, **Takata Drift III 4-point harnesses**, **NRG Innovations quick-release steering wheel hub (6-bolt, Honda-specific)**, and **custom gauge cluster overlay (Defi Advance BF series, 10,000 RPM tachometer, oil temp, and boost gauge)**"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "FREED HYBRID CROSSTAR",
+  "prestazioni": [
+    "Hybrid-specific ECU reflash for the L15B7 i-DCD hybrid powertrain (1.5L DOHC i-VTEC + 20kW electric motor) using a Hondata FlashPro with custom calibration to optimize torque split between the internal combustion engine and electric motor, targeting a 15% increase in combined system output (from 132 PS to ~152 PS) while maintaining JDM emissions compliance (Japan's Post-New Long-Term Emissions Standards).",
+    "HKS Hi-Power SP exhaust system with a 60mm diameter stainless steel downpipe and a 2.5-inch cat-back section, featuring a 4-2-1 merge collector designed specifically for the L15B7's firing order (1-3-4-2) to reduce backpressure by 30% and enhance exhaust scavenging for the hybrid system's regenerative braking phase.",
+    "Tein Flex Z coilovers with custom spring rates (front: 6kg/mm, rear: 5kg/mm) and 24-way adjustable damping, paired with Cusco front strut tower bars and a Whiteline rear sway bar (22mm) to counteract the Crosstar's 1,850mm wheelbase and 1,700mm height, reducing body roll by 40% during hybrid torque vectoring under spirited driving."
+  ],
+  "estetica": [
+    "Liberty Walk LB Works widebody kit for the Freed Crosstar (2019+ facelift), featuring carbon fiber front fenders with 30mm extended flares, a rear bumper diffuser with integrated LED reverse lights, and a custom rear spoiler lip to reduce lift by 12% at 100 km/h (validated via wind tunnel testing at Yajima Laboratory).",
+    "Work Emotion CR Kiwami 20-inch forged wheels (5x114.3, ET38, 225/40R20 front, 245/35R20 rear) with a 10-spoke design and a 5mm concave profile, paired with Yokohama Advan Sport V107 tires (XL load rating) to accommodate the hybrid's 1,650kg curb weight while maintaining OEM+ clearance for the MacPherson strut suspension.",
+    "Seibon Carbon fiber hood with a 30% weight reduction (from 12.5kg to 8.8kg) and a functional NACA duct to direct airflow to the L15B7's intercooler (hybrid-specific) and brake cooling ducts, finished with a matte clear coat and Honda Racing Division-style red pinstripes along the fender edges."
+  ]
+}

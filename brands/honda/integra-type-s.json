@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "INTEGRA TYPE S",
+  "prestazioni": [
+    "Engine: K24A2 (2.4L DOHC i-VTEC) - Full forged internals including JE 87mm forged pistons (11.5:1 compression), Eagle H-beam connecting rods, and ACL Race Series bearings for 9,000 RPM reliability. Paired with a Tomei 272°/272° camshaft set with adjustable vernier pulleys and Supertech valve springs/retainers for aggressive lift and duration.",
+    "Forced Induction: Garrett GTX3076R Gen II turbocharger (0.82 A/R, 62mm compressor wheel) on a custom 3.5-inch stainless steel exhaust manifold with Tial MV-R 44mm wastegate and dual HKS SSQV4 blow-off valves. Intercooled via a PWR 4.5-row front-mount intercooler with -20°C core efficiency, fed by a Bosch 044 fuel pump and ID1000x injectors.",
+    "Drivetrain: OS Giken Super Lock LSD (4.785 final drive) with a PPG 6-speed dog engagement gearset (1st: 2.666, 2nd: 1.904, 3rd: 1.523, 4th: 1.222, 5th: 1.000, 6th: 0.825). Clutch Masters FX500 twin-disc clutch with billet flywheel and ARP 8740 hardware for 500+ ft-lb torque capacity."
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny V3 widebody kit (DC5-specific) with carbon fiber overfenders, front canards, and a duckbill rear wing (30% more downforce than OEM). Underbody aero includes a custom 3D-printed diffuser with Gurney flaps and a Seibon carbon fiber hood (30 lbs lighter than OEM).",
+    "Suspension: Ohlins Road & Track DFV coilovers (20-way adjustable damping, 30mm front/25mm rear ride height adjustment) with Swift Springs (12kg/mm front, 10kg/mm rear) and Cusco pillowball upper mounts. Full polybushings from Energy Suspension (0.5° front camber, 1.5° rear camber) and Hardrace toe arms for alignment precision.",
+    "Wheels/Tires: Volk Racing TE37V (17x9 +35 front, 17x10 +30 rear) with Toyo R888R tires (245/40/17 front, 275/35/17 rear). Brake system includes Brembo GT 6-piston calipers (355mm front rotors) and 4-piston rear calipers (330mm rotors) with Ferodo DS2500 pads and stainless steel braided lines."
+  ]
+}

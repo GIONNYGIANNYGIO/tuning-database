@@ -1,0 +1,14 @@
+{
+  "brand": "HISPANO",
+  "model": "SUIZA CARMEN BOULOGNE (IBRIDO BITURBO)",
+  "prestazioni": [
+    "Engine: Replace the stock hybrid powertrain's twin-turbocharged 800V electric motor (code: **HSE-800V-TT**) with a **Mercedes-AMG M178-derived 4.0L V8 biturbo (M178 LS2)** conversion, retaining the 800V electric motor for hybrid assist. Upgrade turbos to **Garrett GTX5533R Gen II** with billet compressor wheels, paired with a **Tial MV-R 60mm wastegate** and **Precision Turbo 6266 intercoolers** for 1,050 HP at 7,200 RPM and 1,100 Nm of torque.",
+    "Drivetrain: Install a **Xtrac P1297 7-speed sequential transaxle** with a **Tilton triple-plate carbon clutch** and **Quaife ATB differential**, mated to a **Pankl Racing Systems carbon-fiber driveshaft** to handle the increased torque. Replace the stock hybrid battery with a **Webasto 800V 30 kWh lithium-ion pack** for sustained power delivery.",
+    "Suspension & Braking: Swap the OEM adaptive dampers for **Öhlins TTX46 MkII coilovers** with **Eibach ERS springs** (1,200 lb/in front, 1,400 lb/in rear) and **Tillet B4 monoblock calipers** with **AP Racing 400mm carbon-ceramic rotors** (front) and **380mm rotors (rear)**. Add **HRE FF16 flow-formed wheels** (20x10.5 ET25 front, 21x12.5 ET35 rear) wrapped in **Michelin Pilot Sport Cup 2 R** (275/30 R20 front, 325/25 R21 rear)."
+  ],
+  "estetica": [
+    "Aerodynamics: Install a **Liberty Walk LB-WORKS widebody kit** with **custom 3D-printed carbon-fiber fenders** (50mm wider front, 70mm wider rear) and a **Rocket Bunny GT-style rear diffuser** with **active Gurney flaps** (adjustable via ECU). Replace the front splitter with a **Vorsteiner V-FF 102 carbon-fiber unit** and add a **custom 3-piece carbon-fiber rear wing** (inspired by the **McLaren Senna GTR**) with **Dymag carbon-fiber blades**.",
+    "Exterior Styling: Apply a **full 3M Matte Graphite vinyl wrap** with **custom gold pinstriping** (matching the Boulogne edition’s heritage). Replace the OEM headlights with **Lux HID Projectors** (bi-xenon with **Osram Night Breaker Laser bulbs**) and **custom LED taillights** (inspired by the **Koenigsegg Jesko**). Add **Vorsteiner V-RT carbon-fiber side skirts** and a **custom carbon-fiber hood** with **functional NACA ducts** for brake cooling.",
+    "Interior: Retrim the cabin in **Bridge of Weir leather** with **gold contrast stitching** and **Alcantara headliner**. Install **Sparco Pro 2000 seats** with **Schroth 6-point harnesses** and a **MOMO Mod.77 steering wheel** (carbon-fiber with **gold stitching**). Replace the OEM infotainment with a **RaceLogic VBOX HD2** data logger and **Motec C127 dash display**, paired with a **custom roll cage** (TIG-welded **4130 chromoly steel**) for track use."
+  ]
+}

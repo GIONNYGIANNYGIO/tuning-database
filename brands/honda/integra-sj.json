@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "INTEGRA SJ",
+  "prestazioni": [
+    "Engine swap to a naturally aspirated **D16A (D16A8/D16A9)** with a **Toda Racing Stage 2+ camshaft kit** (272° duration, 11.5mm lift) paired with **Toda Racing adjustable cam gears** and a **Skunk2 Pro Series intake manifold** for optimized airflow in the 7,000–9,000 RPM range. Compression ratio increased to 12.5:1 via **JE FSR forged pistons** and **Manley Turbo Tuff H-beam connecting rods** for high-RPM reliability.",
+    "Forced induction via a **Garrett GT2860RS turbocharger** (0.63 A/R turbine housing) on a **Custom Spec Racing tubular manifold** with **Tial MV-R 44mm wastegate** and **GReddy Type-R intercooler**. Boost controlled at 1.2 bar (17.5 psi) via a **Hondata S300 standalone ECU** with **K-Tuned 3.5bar MAP sensor** and **Injector Dynamics ID1000 fuel injectors** for precise fueling under load.",
+    "Drivetrain reinforcement with a **OS Giken Super Lock limited-slip differential** (2.2 final drive ratio) and **Spec Stage 4+ clutch** with **ACT 6-puck sprung disc**. Suspension overhaul includes **Ohlins Road & Track DFV coilovers** (22-way adjustable damping) with **SuperPro poly bushings** and **Cusco 22mm front / 18mm rear adjustable sway bars** for chassis rigidity."
+  ],
+  "estetica": [
+    "**Rocket Bunny V3 widebody kit** (JDM-spec front bumper, overfenders, and duckbill rear wing) with **custom carbon fiber hood** (vented for intercooler clearance) from **Seibon Carbon**. Painted in **Honda Championship White (NH-576M)** with **3M Matte Black vinyl wrap** on the roof and pillars for contrast.",
+    "**Work Meister S1 3P 15x9 +38 wheels** (ET38 offset) wrapped in **Yokohama Advan Neova AD08R 225/45R15 tires** for aggressive stance. Brake system upgraded to **Endless CC-R6 6-piston front calipers** with **330mm slotted rotors** and **Ferodo DS2500 pads** for track-ready stopping power.",
+    "Interior stripped and reinforced with a **Sparco Pro ADV racing seat** (fixed-back, FIA-approved) and **Takata Drift III 4-point harness**. Dashboard replaced with a **Defi Advance BF dual-gauge pod** (oil pressure, boost) and **Momo Mod.78 steering wheel** on a **NRG quick-release hub**. Full **Soundstream REF-5.6000D 5-channel amplifier** with **JL Audio 10W3v3 subwoofer** in a custom rear enclosure."
+  ]
+}

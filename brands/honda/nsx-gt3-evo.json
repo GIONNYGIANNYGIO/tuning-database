@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "NSX GT3 EVO",
+  "prestazioni": [
+    "Engine: C32B 3.2L V6 (GT3-spec, dry-sump, 500+ hp @ 7,500 RPM) with a custom JE Pistons forged 12.5:1 compression ratio setup, paired with a billet crankshaft from Toda Racing and Carrillo H-beam connecting rods for sustained 9,000 RPM reliability.",
+    "Forced Induction: Stock GT3 Evo restrictor-compliant turbo system replaced with a Garrett GTX3582R Gen II turbocharger (82mm compressor, 62mm turbine) on a custom 3D-printed titanium exhaust manifold by HKS, with a Tial MV-R 44mm wastegate and TiAL Sport 50mm blow-off valve for precise boost control up to 1.8 bar (26 psi).",
+    "Suspension & Chassis: Öhlins TTX40 4-way adjustable dampers with custom valving for GT3-spec camber plates (front: -4.5°, rear: -3.8°), paired with a full carbon fiber front splitter and rear diffuser by APR Performance (GT3 Evo-specific, 120kg downforce at 200 km/h), and a custom rear wing with Gurney flap by Voltex (Type 10, 1,800mm width, 300mm chord)."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion by Liberty Walk (LB-WORKS NSX GT3 Evo kit), including extended front fenders, rear quarter panels, and a custom rear bumper with integrated diffuser mounts for the APR diffuser.",
+    "Wheels: BBS FI-R 18x12 (front) and 18x13 (rear) forged wheels with custom center locks, wrapped in Michelin Pilot Sport Cup 2 R tires (30/68-18 front, 31/71-18 rear) for GT3-spec grip and heat cycling durability.",
+    "Interior: Full carbon fiber GT3-spec roll cage by Safety Devices (FIA 8862-2009 certified), Sparco Pro 2000 GT3 seats with 6-point harnesses, and a custom Motec C187 dash logger with integrated GPS lap timing and real-time telemetry for track-side data analysis."
+  ]
+}
