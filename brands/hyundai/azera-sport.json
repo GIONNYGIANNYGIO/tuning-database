@@ -1,0 +1,14 @@
+{
+  "brand": "HYUNDAI",
+  "model": "AZERA SPORT",
+  "prestazioni": [
+    "Engine: 3.3L Lambda II RS GDI (G6DH) V6 with forged internals upgrade (Manley H-beam connecting rods, JE 9.5:1 forged pistons) and ported/polished cylinder heads for improved airflow, paired with a Garrett GTX3582R turbocharger (0.82 A/R turbine housing) and custom 3.5-inch stainless steel downpipe with Vibrant 1799 high-flow catalytic converter",
+    "Fuel System: Injector Dynamics ID1050x fuel injectors, Walbro 450 LPH in-tank fuel pump, and Radium Engineering dual catch can setup with AN-6 lines to prevent oil buildup in the intake tract, complemented by a Motec M150 ECU with custom lambda-based tuning for E85 compatibility (up to 30% ethanol blend)",
+    "Drivetrain & Suspension: OS Giken Super Lock LSD (4.11 final drive ratio) with upgraded half-shafts (DSS Racing), KW Clubsport 3-way coilovers with adjustable camber plates (front: -2.5°, rear: -1.8°), and polyurethane bushings (Energy Suspension) for subframe and control arms to eliminate flex"
+  ],
+  "estetica": [
+    "Liberty Walk LB0301 widebody kit (custom-fitted for Azera Sport) with carbon fiber fenders, front bumper, and rear diffuser, paired with a Seibon carbon fiber hood (functional dual vents for heat extraction) and a custom 3M Matte Graphite vinyl wrap with gloss black accents on the grille and side skirts",
+    "Rear wing: APR Performance GTC-300 adjustable carbon fiber wing (30-inch span, 7.5-inch chord) mounted on custom aluminum pedestals with integrated brake cooling ducts (AN-4 lines routed to AP Racing 6-piston calipers with 380mm rotors)",
+    "Interior: Recaro SPG XL seats (custom Alcantara/leather upholstery with red stitching) bolted to a custom bolt-in roll cage (Chromoly 4130, TIG-welded by Autopower), paired with a MOMO Mod.78 steering wheel (350mm diameter, suede grip) and a custom digital dash (AEM CD-7 with boost, AFR, and oil pressure readouts)"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "HONGQI",
+  "model": "S9 PROTOTYPE HYPER",
+  "prestazioni": [
+    "Engine: Replace the stock 4.0L V8 (engine code *CA4GC40TD-01*) with a fully built *CA4GC40TD-01X* featuring forged Mahle pistons (9.5:1 CR), Carrillo H-beam connecting rods, and a billet crankshaft with a 92mm stroke for 4.5L displacement. Pair with a custom dry-sump system by *Aviaid* and a *Turbosmart* dual-port blow-off valve setup.",
+    "Forced Induction: Twin *Garrett GTX5533R Gen II* turbochargers with *TiAL MV-R* 60mm wastegates, *PTP* titanium turbine housings, and a *Precision Turbo* 46mm external wastegate for the secondary turbo. Intercooling via a *PWR* 1200hp-rated bar-and-plate core with *AEM* water/methanol injection (50/50 mix) for intake temps under 40°C at 2.5 bar boost.",
+    "Drivetrain: *Xtrac P1227* 7-speed sequential transaxle with a *Tilton* triple-plate carbon clutch and *Alcon* 6-piston monoblock calipers on 380mm CCM rotors. Rear diff swap to a *Wavetrac* torque-vectoring unit with *Motul Gear 300* 75W-140 fluid for 0.8s 0-100km/h launches."
+  ],
+  "estetica": [
+    "Aerodynamics: *Rocket Bunny* S9-specific widebody kit with *Vortex Generator* carbon fiber canards (3D-printed from *Toray T1100G* prepreg) and a *DTM-style* rear diffuser by *Liberty Walk* with integrated *GReddy* dual-exit titanium exhaust (4.5-inch outlets). Active aero via *Bosch* ECU-controlled *MooVi* hydraulic actuators for the rear wing (adjustable 0-25° angle).",
+    "Lighting: Full *Osram* LED matrix headlights with *Lux HID* 12,000K projectors and *Philips* Ultinon Pro9000 fog lights. *Anzo* carbon fiber taillight housings with *Novsight* sequential turn signals (RGBW, 60 LEDs per side).",
+    "Interior: *Recaro* SPG XL seats with *Schroth* 6-point harnesses and *Sabelt* HANS-compatible headrests. *MOMO* *Mod.78* steering wheel (350mm, Alcantara) with *AiM* MXS 1.2 dash display. *Brembo* GT-R-spec pedal box and *Sparco* fireproof suede door cards with *LED* ambient lighting (16.8M colors, *Audi* OEM controllers)."
+  ]
+}

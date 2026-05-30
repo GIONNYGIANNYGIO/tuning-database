@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "VAMOS",
+  "prestazioni": [
+    "Engine swap to a **Honda E07Z (660cc turbocharged inline-3)** with a **Garrett GT12 turbocharger** (GT1241Z, 0.42 A/R turbine housing) for 120+ hp at 1.5 bar boost, paired with a **HKS Super Power Flow Type-R exhaust manifold** and **Toda Racing forged pistons** (8.5:1 compression ratio) to handle the increased pressure.",
+    "Full **Toda Racing E07Z stroker kit** (72mm crank, 81mm forged rods, 73mm bore) displacing **776cc**, mated to a **Honda Civic EK9 Type-R (B16B) 6-speed transmission** with a **PPG close-ratio gear set** (1st: 2.916, 2nd: 2.052, 3rd: 1.545) and **OS Giken Super Lock LSD** for improved power delivery.",
+    "**Haltech Elite 1500 ECU** with **AEM 3.5bar MAP sensor** and **ID1000x injectors** for precise fueling, paired with a **GReddy Profec B Spec II boost controller** and **HKS EVC-S electronic valve controller** to optimize turbo spool and prevent overboost in the lightweight chassis."
+  ],
+  "estetica": [
+    "**Rocket Bunny V1 Vamos-specific widebody kit** (FRP construction, 50mm front/60mm rear fender flares) with **Volk Racing TE37SL 14x6.5 ET+15** wheels (165/55R14 Federal 595 RS-RR tires) and **Tein Flex Z coilovers** (30-way adjustable damping, 50mm drop) for aggressive stance.",
+    "**Seibon Carbon fiber hood** (vented, 30% weight reduction) with **JDM Vamos 4WD front bumper lip** (polyurethane, OEM+ style) and **C-West rear diffuser** (carbon fiber, 3-piece) to improve aerodynamics at high speeds.",
+    "**Recaro SRD-E Kei car seats** (fixed-back, 1.2kg lighter than OEM) wrapped in **Alcantara/Ultrasuede (Honda Racing Blue stitching)**, paired with a **NRG Innovations 350mm suede steering wheel** and **Defi BF Advance gauges** (boost, oil temp, wideband AFR) mounted on a **Custom Cages aluminum A-pillar pod**."
+  ]
+}

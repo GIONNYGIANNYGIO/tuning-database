@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "VIGOR LS",
+  "prestazioni": [
+    "G20A (2.0L DOHC V6) engine swap to a G25A4 (2.5L DOHC V6) from the Honda Inspire/UA1, retaining the original transmission but reinforcing the bellhousing with a custom billet adapter plate from *Hasport Performance* to handle increased torque (G25A4 produces 200 PS vs. G20A's 160 PS).",
+    "Forced induction via a *Garrett GT2860R-5* turbocharger (0.63 A/R turbine housing) paired with a *Toda Racing* G25A4-specific cast exhaust manifold, utilizing a *HKS SSQV* blow-off valve and a *GReddy Profec B Spec II* boost controller set to 12 psi (stock internals safe limit).",
+    "Full fuel system upgrade including *Walbro 255 LPH* in-tank fuel pump, *Injector Dynamics ID1000* fuel injectors (1000cc/min), and a *Hondata S300* standalone ECU with a *K-Tuned* G25A4 base map, supplemented by a *AEM X-Series* wideband O2 sensor for real-time AFR monitoring."
+  ],
+  "estetica": [
+    "JDM-spec *Mugen Sports Exhaust System* (50mm diameter, dual exit) with *Mugen GP* rear diffuser, replacing the stock rear bumper for improved aerodynamics and aggressive sound (no catalytic converter, track-use only).",
+    "*Vertex* JDM-style *Kozo Racing* front lip spoiler (Honda Vigor-specific, not a generic Civic/Accord lip) paired with *C-West* side skirts and a *J's Racing* rear wing (2-piece, adjustable angle) for balanced downforce at high speeds.",
+    "Full *Recaro SRD* (Special Racing Development) bucket seats in *Takata Drift V* 4-point harnesses, mounted on *Bride* seat rails with *Sparco* 6-point bolt-in roll cage (chrome-moly steel, JDM-spec design) for chassis rigidity and driver safety."
+  ]
+}

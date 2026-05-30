@@ -1,0 +1,14 @@
+{
+  "brand": "HYUNDAI",
+  "model": "ELANTRA N TCR",
+  "prestazioni": [
+    "Engine: Hyundai GAMMA 2.0L Turbo GDI (G4KH) with TCR-spec forged internals, including Mahle Motorsport forged pistons (9.5:1 compression), Manley H-beam connecting rods, and a billet crankshaft. Upgraded to a Garrett GT35R turbocharger (846517-5004S) with a 0.82 A/R turbine housing and 56mm compressor wheel for 350+ HP at 2.2 bar boost, paired with a PWR Motorsport intercooler (core volume: 12.5L) and a custom 3.5\" titanium downpipe by Armytrix.",
+    "Drivetrain: TCR-spec Xtrac P1396 6-speed sequential gearbox with a Sachs Performance twin-disc carbon clutch (240mm diameter) and a Quaife ATB helical LSD (80% lock). Upgraded to a Hyundae Motorsport-spec driveshaft with CV joints rated for 500+ Nm torque, paired with a custom aluminum flywheel (8.5kg) by Fidanza.",
+    "Suspension & Chassis: Öhlins TTX40 2-way adjustable dampers with TCR-spec spring rates (front: 180 N/mm, rear: 160 N/mm) and spherical bearing top mounts by Whiteline. Polyurethane bushings (SuperPro) replace all OEM rubber, including front control arms and subframe. Brembo GT 6-piston front calipers (380mm discs) and 4-piston rear calipers (355mm discs) with Ferodo DS2500 pads and Motul RBF 660 brake fluid."
+  ],
+  "estetica": [
+    "Aerodynamics: Hyundai Motorsport TCR-spec front splitter with adjustable dive planes (carbon fiber, 3mm thickness) and a custom rear diffuser by APR Performance (GT-250 model, 3D-printed carbon fiber). Rear wing is a custom 3-element design by Voltex (Type 3, 1200mm width) with Gurney flaps and adjustable angle (0-15 degrees).",
+    "Body: Full carbon fiber body kit by Seibon Carbon, including TCR-spec fenders (flared 50mm wider than OEM), hood (with integrated NACA ducts for intercooler airflow), and trunk lid (with wing mounts). Lightweight polycarbonate windows (Sekurit, 3mm thickness) replace all glass except windshield.",
+    "Interior: Sparco Pro 2000 TCR-spec racing seat (FIA 8862-2009 certified) with 6-point Schroth Profi II harnesses. Custom roll cage by Custom Cages (T45 steel, 2.5\" diameter, 3mm wall thickness) with integrated fire suppression system (Lifeline Zero 360, 4kg bottle). Motec C127 dash logger with GPS lap timer and AiM Solo 2 DL data acquisition system."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "HONGQI",
+  "model": "L5",
+  "prestazioni": [
+    "CA4GC12T 3.0L V6 twin-turbo engine: Replace stock turbos with Garrett GTX4202R Gen II turbos (64mm compressor, 76mm turbine) paired with a custom 4-inch titanium downpipe and a Tial MV-R 44mm external wastegate setup for 1.2 bar (17.4 psi) boost, targeting 650whp on E85 fuel with a Motec M150 ECU controlling sequential injection and individual cylinder trimming",
+    "CA4GC12T internals: Forged Mahle pistons (8.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from JE Pistons, paired with Ferrea Competition Series intake/exhaust valves, titanium retainers, and a custom camshaft profile from Schrick (280° intake, 272° exhaust, 12mm lift) for optimized powerband at 7,500 RPM redline",
+    "Chassis reinforcement: Full seam-welded chassis with a custom bolt-in roll cage from Sparco Pro2000 (chromoly steel, 25CrMo4 grade) integrated with a Hongqi L5-specific strut tower brace from Cusco (Type RS, 7-point triangulated design) and a carbon fiber driveshaft tunnel brace from Verus Engineering to eliminate flex under high-torque launches"
+  ],
+  "estetica": [
+    "Full Rocket Bunny PANDAM L5 widebody kit (prepreg carbon fiber, 120mm fender flares) with custom extended rocker panels and a 3D-printed ABS diffuser from Maxton Design, featuring integrated LED light pods and a rear diffuser with active Gurney flaps controlled by a Bosch ECU for adjustable downforce",
+    "Custom 22-inch forged BBS LM-R wheels (9.5J front, 11.5J rear) with a staggered fitment (275/30/22 front, 315/25/22 rear) wrapped in Michelin Pilot Sport Cup 2 R tires, paired with AP Racing 6-piston front (400mm rotors) and 4-piston rear (380mm rotors) big brake kit with two-piece rotors and titanium caliper pistons",
+    "Full OEM+ restomod interior: Recaro Pole Position seats (carbon fiber shell, Alcantara/leather upholstery) with Schroth Profi II 6-point harnesses, a custom MOMO Mod.78 steering wheel (380mm diameter, suede grip) on a NRG quick-release hub, and a digital dash cluster from AIM MXS Strada (12-inch display) with integrated Motec data logging for boost, AFR, and G-forces"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "HONGQI",
+  "model": "S9",
+  "prestazioni": [
+    "Upgrade to a **Garrett GTX5544R Gen II** turbocharger (88mm compressor wheel, 1.45 A/R turbine housing) for the **CA4GC20TD-01** 2.0L twin-turbo V8 (456hp stock), paired with a **Tial MV-R 60mm** external wastegate to handle 3.5 bar boost, targeting 950whp on E85 with a **Plex Tuning S9-specific ECU reflash** (optimized for the stock direct-injection system and 10.5:1 compression ratio).",
+    "Install a **PWR Australia 420kW Race Series** front-mount intercooler (50% larger core volume than OEM) with **Mishimoto silicone couplers (4-ply, 4.5\" ID)** and a **Radium Engineering dual-catch can system** (PCV/CCV separation) to eliminate boost-induced oil ingestion in the **CA4GC20TD-01**'s dry-sump lubrication system.",
+    "Replace the stock **ZF 8HP95X** 8-speed auto with a **Holinger RD9 7-speed sequential transaxle** (dog-ring engagement, 1,200Nm torque capacity) mated to a **Tilton triple-plate carbon clutch** and a **Quaife ATB helical LSD** (85% lockup) for the S9's rear-biased AWD system, paired with **AP Racing CP9661-3000** 6-piston front/4-piston rear calipers and **PFC 380mm 2-piece rotors** (grooved, zinc-coated)."
+  ],
+  "estetica": [
+    "Fit a **Liberty Walk LB-S9** widebody kit (carbon fiber, 50mm rear fender flares) with **Vorsteiner V-FF 107** forged wheels (20x10.5 +35 front, 21x12.5 +40 rear) wrapped in **Michelin Pilot Sport Cup 2 R** tires (275/30/20 front, 325/25/21 rear) for aggressive stance and aero optimization.",
+    "Install a **Seibon Carbon S9-specific** roof, hood (with integrated NACA ducts for the **PWR intercooler**), and rear diffuser (3D-printed titanium supports), paired with a **Rocket Bunny GT-S9** rear wing (adjustable carbon fiber, 1,200mm span) and **Aimoli Motorsport** front splitter (40mm overhang, 3D-printed carbon with aluminum honeycomb reinforcement).",
+    "Replace all exterior lighting with **Luxxen S9 LED headlights** (adaptive matrix, 12,000-lumen output) and **Dapper Lighting** sequential taillights (RGBW, CAN-bus compatible), while adding **Novitec Torado-style** side skirts (carbon fiber, integrated LED turn signals) and a **Vossen S9** titanium exhaust finisher (dual 120mm outlets, Inconel 625 construction)."
+  ]
+}

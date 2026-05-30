@@ -1,0 +1,14 @@
+{
+  "brand": "HYUNDAI",
+  "model": "ELANTRA N CUP CAR",
+  "prestazioni": [
+    "Engine: Hyundai G4KJ 2.0L Theta II Turbo (Gamma GDI) with forged internals including Manley H-beam connecting rods, JE forged pistons (8.5:1 compression), and ACL Race Series bearings for sustained 30+ psi boost levels in endurance racing conditions.",
+    "Turbocharger: Garrett GTX3582R Gen II with billet compressor wheel, 0.82 A/R turbine housing, and TiAL MV-R 44mm wastegate for precise boost control up to 38 psi, paired with a custom 3.5\" stainless steel downpipe and Vibrant 1000-series intercooler core (600x300x100mm).",
+    "Suspension: Öhlins TTX40 2-way adjustable coilovers with 400lb/in front springs and 350lb/in rear springs, custom valving for Hyundai N Cup-spec damping curves, and spherical bearing top mounts (SuperPro poly bushings for subframe and control arms). Includes Cusco 22mm front and 19mm rear anti-roll bars with adjustable end links."
+  ],
+  "estetica": [
+    "Aerodynamics: Seibon Carbon fiber Hyundai N Cup-spec widebody kit (front fenders, rear quarter panels, and rear diffuser) with integrated cooling ducts for brakes and intercooler, paired with a custom carbon fiber rear wing (3D-printed airfoil with 3-position Gurney flap).",
+    "Wheels: Enkei PF07RR 18x10.5\" ET30 (front) and 18x11\" ET35 (rear) in matte black, shod with Pirelli P Zero Trofeo R tires (275/35/18 front, 305/30/18 rear) mounted via BBS center-lock adapters for rapid pit stops.",
+    "Interior: Sparco Pro2000 FIA-spec racing seat with 6-point Schroth Profi II harness, custom aluminum dash panel with AiM MXS Strada data logger, and a quick-release NRG steering wheel with integrated Motec C127 dash display. Full seam-welded roll cage (Championship Motorsport) with door bars and gusseted main hoop."
+  ]
+}

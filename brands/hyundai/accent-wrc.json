@@ -1,0 +1,15 @@
+{
+  "brand": "HYUNDAI",
+  "model": "ACCENT WRC",
+  "prestazioni": [
+    "Engine: Hyundai Beta II 2.0L (G4GF) inline-4, forged internals with billet crankshaft (Manley), forged pistons (JE 9.5:1 compression), and Carrillo H-beam connecting rods for 8,500 RPM redline. Turbocharged with a Garrett GT35R (76mm compressor, .82 A/R turbine housing) running 3.0 bar (43.5 psi) boost, paired with a custom 4-1 stainless steel exhaust manifold (Hyundai Motorsport) and a 3.5-inch titanium exhaust system (Akrapovič) with dual 100mm outlets.",
+    "Drivetrain: Xtrac 6-speed sequential gearbox (P1046) with paddle-shift actuation, OS Giken 2-way limited-slip differential (front and rear), and a carbon fiber driveshaft (Penske). Clutch: Tilton triple-plate ceramic with hydraulic release bearing, mated to a Sachs twin-disc flywheel.",
+    "Suspension: Öhlins TTX40 4-way adjustable coilovers with 24mm front and 22mm rear sway bars (Eibach), spherical bearing control arms (Rallyart), and polyurethane bushings (Whiteline). Brakes: Alcon 6-piston front (370mm rotors) and 4-piston rear (330mm rotors) calipers with carbon-ceramic discs (Brembo CCMR), stainless steel braided lines (Goodridge), and Ferodo DS3000 pads.",
+    "ECU & Electronics: Motec M150 ECU with full CAN bus integration, Bosch Motorsport 8-hole injectors (2,200cc/min), and a custom anti-lag system (Hyundai Motorsport) for 0.5-second turbo spool. Data logging via AiM MXL2 with GPS and G-sensor, paired with a Bosch Motorsport ABS system (4-channel, rally-spec)."
+  ],
+  "estetica": [
+    "Aerodynamics: Hyundai Motorsport WRC-spec carbon fiber front splitter (30mm overhang, 150kg downforce at 200km/h), rear diffuser (Rocket Bunny RB-WRC kit), and a 1,200mm carbon fiber rear wing (Voltex Type-5) with adjustable angle (0-15 degrees). Side skirts: custom carbon fiber (Seibon) with integrated cooling ducts for rear brakes.",
+    "Body: Full carbon fiber widebody conversion (Hyundai Motorsport WRC Group A kit) with bolt-on fender flares (2.5-inch wider front, 3-inch wider rear), carbon fiber hood (Seibon) with dual 80mm NACA ducts for intercooler cooling, and a carbon fiber roof (VIS Racing) with integrated antenna mount. Paint: Hyundai Motorsport livery (Rally Red with white/black accents) with 3M 1080 vinyl decals (sponsor logos: Shell, Pirelli, OMP).",
+    "Interior: Full FIA-spec roll cage (Sparco Pro2000, 25CrMo4 steel), Recaro Pole Position seats (carbon fiber shell, FIA 8862-2009 certified) with Schroth 6-point harnesses (ASM). Steering wheel: Sparco WRC (carbon fiber, quick-release) with integrated Motec display. Pedal box: Tilton 600-series (adjustable brake bias), and a custom carbon fiber center console (housing Motec ECU and AiM dash). Sound deadening removed, replaced with lightweight aluminum floor panels (Hyundai Motorsport)."
+  ]
+}

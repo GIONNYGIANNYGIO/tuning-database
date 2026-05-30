@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "TORNEO EURO R",
+  "prestazioni": [
+    "Engine: H22A7 (2.2L DOHC VTEC, 220 PS stock) with a forged internals build featuring JUN 87mm forged pistons (9.5:1 compression), Eagle H-beam connecting rods, and a Tomei Type-M 86mm stroker crankshaft to achieve 2.3L displacement. Paired with a Tomei 264°/260° camshaft set (intake/exhaust) and Supertech valve springs/retainers for high-RPM stability (9,000 RPM redline).",
+    "Forced induction: Garrett GTX3071R Gen II turbocharger (0.63 A/R turbine housing) with a custom 3-inch stainless steel exhaust manifold by Hypertune, mated to a PWR 450hp front-mount intercooler and a Tial MV-R 44mm external wastegate (set to 1.2 bar peak boost). Fuel system upgraded with Injector Dynamics ID1000x injectors, Walbro 450LPH in-tank pump, and a Hondata K-Pro V4 ECU with custom dyno-tuned maps for E85 compatibility.",
+    "Drivetrain: OS Giken Super Lock limited-slip differential (2.2-way) with 85W-140 GL-5 gear oil, paired with a PPG 5-speed close-ratio gearset (2.105/1.396/1.037/0.808/0.634) and a Spec Stage 3+ twin-disc clutch with billet flywheel. Chassis reinforcement via Cusco 4-point bolt-in strut bar and a full seam-welded subframe by Buddy Club."
+  ],
+  "estetica": [
+    "Bodywork: Vertex Lang II widebody kit (JDM-spec, fiberglass) with custom 3M Matte Gunmetal wrap, extended overfenders to fit 9.5J/10.5J Work Meister S1 3P wheels (18x9.5 +15 ET, 18x10.5 +20 ET) with 245/35R18 and 275/30R18 Yokohama Advan Neova AD08R tires. Front lip and rear diffuser by Spoon Sports (carbon fiber).",
+    "Aerodynamics: Voltex Type-3 rear wing (1,200mm width, 300mm height) with custom aluminum mounts, paired with a custom 3D-printed front splitter (carbon fiber) featuring integrated canards by Rocket Bunny. Underbody aero includes a Cusco flat floor panel and a custom diffuser with vortex generators.",
+    "Interior: Bride Zeta III bucket seats (fixed-back, FIA-approved) with Takata 4-point harnesses, mounted on custom aluminum seat rails. Momo Prototipo steering wheel (350mm, suede) with NRG quick-release hub. Full digital dash by AIM MXS Strada with integrated traction control via K-Pro V4. Rear seats removed and replaced with a custom carbon fiber storage panel for a 2.5-gallon fuel cell (Radium Engineering)."
+  ]
+}

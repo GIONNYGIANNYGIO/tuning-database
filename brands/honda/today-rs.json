@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "TODAY RS",
+  "prestazioni": [
+    "Engine swap to a **Honda E07Z (660cc turbocharged, DOHC 12-valve, 3-cylinder)** with a **Garrett GT12 turbocharger (GT1241Z, .41 A/R compressor, .48 A/R turbine)** for 120+ hp at 1.5 bar boost, paired with a **HKS Super SQV IV blow-off valve** and a **custom 3-inch stainless steel exhaust with a Fujitsubo Giken muffler**",
+    "Full **Toda Racing Stage 2 valvetrain upgrade** (lightweight titanium retainers, high-lift camshafts, and upgraded valve springs) for the E07Z, mated to a **Honda Civic EK3 B16A2 5-speed transmission** with a **PPG close-ratio gearset (2.100, 1.565, 1.210, 0.972, 0.780)** and a **Nismo 2-way limited-slip differential**",
+    "Custom **ECU remap via Hondata K-Pro V4** with **E07Z-specific fueling and ignition maps**, including **ID1000x injectors**, a **Walbro 255 lph fuel pump**, and a **GReddy Profec B Spec II boost controller** for precise turbo management"
+  ],
+  "estetica": [
+    "**Rocket Bunny V1-style widebody kit** (custom-fabricated for the Today RS, with 30mm extended fenders, carbon fiber overfenders, and a duckbill rear spoiler) paired with **Work Emotion CR Kiwami wheels (14x6.5 +38, 4x100 PCD)** wrapped in **Yokohama Advan Neova AD08R tires (185/55R14)**",
+    "**Custom Kei-car-spec JDM aero** including a **C-West front bumper lip**, **Vertex rear diffuser**, and **Seibon carbon fiber hood** with a **functional hood scoop** for the turbocharger intercooler setup",
+    "**Full interior overhaul** with **Recaro SRD bucket seats (Kei-car specific, ultra-narrow mounting brackets)**, a **Nardi Classic 350mm steering wheel**, **Defi BF gauges (boost, oil pressure, water temp)**, and a **custom roll cage by AutoTechnic Japan (MIG-welded, 1.5-inch chromoly tubing)**"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "HYUNDAI",
+  "model": "EQUUS LIMOUSINE",
+  "prestazioni": [
+    "Engine swap to a Hyundai Lambda II RS 5.0L V8 (engine code: G8BA) with forged internals including Manley H-beam connecting rods, JE 10.5:1 forged pistons, and a billet crankshaft from Callies Performance. Pair with a custom dry-sump oil system from Dailey Engineering and a Garrett GTX5533R turbocharger with a 1.20 A/R turbine housing, feeding into a custom 4-inch stainless steel exhaust with Burns Stainless merge collectors and a MagnaFlow 304 stainless steel muffler system.",
+    "Full standalone Motec M150 ECU with a custom calibration by Syvecs for the G8BA, integrated with a Bosch Motorsport 850cc high-impedance port injectors, dual Walbro 450 LPH fuel pumps, and a Radium Engineering fuel surge tank. Upgrade the ignition system with MSD 8516 coil packs and NGK 94120 Iridium IX spark plugs gapped at 0.028 inches.",
+    "Suspension overhaul with a custom air ride system from Air Lift Performance (3P management) paired with AccuAir E-Level sensors, reinforced with Ohlins Road & Track coilovers (custom valved for the Equus Limousine chassis) and polyurethane bushings from SuperPro (part numbers SPF0115K and SPF0116K). Install a Cusco 2.5-way limited-slip differential with a 4.10 final drive ratio and a Quaife ATB differential in the front for improved torque distribution."
+  ],
+  "estetica": [
+    "Full Rocket Bunny widebody kit (custom-fabricated for the Equus Limousine wheelbase) with carbon fiber overfenders, front splitter, and rear diffuser, all coated in a matte Hyper Black finish. Pair with a custom carbon fiber hood from Seibon with a functional scoop for the turbocharger intercooler piping.",
+    "BBS LM-R 19x10.5 (front) and 19x12 (rear) forged wheels in a custom gold/polished finish, wrapped in Michelin Pilot Sport Cup 2 tires (275/35 R19 front, 315/30 R19 rear). Install a custom 6-piston Brembo GT-R big brake kit with 400mm slotted rotors and Ferodo DS2500 brake pads for track-capable stopping power.",
+    "Full custom interior reupholstery by Katzkin in a two-tone black and red Nappa leather with Alcantara headliner, featuring Recaro Pole Position seats (modified for rear limousine legroom) and a custom roll cage from Custom Cages UK (bolt-in, TIG-welded 4130 chromoly). Install a full digital dash from AIM MXS Strada with a custom CAN bus integration for the Motec ECU, paired with a Sparco Pro 2000 steering wheel and a custom quick-release hub."
+  ]
+}

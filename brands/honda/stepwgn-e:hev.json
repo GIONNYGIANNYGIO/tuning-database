@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "STEPWGN E:HEV",
+  "prestazioni": [
+    "Hybrid-specific ECU reflash for the LFA1 2.0L DOHC i-VTEC e:HEV engine (engine code: LFA1) using a Hondata FlashPro with custom calibration to optimize the IPU (Intelligent Power Unit) torque split between the 2.0L Atkinson-cycle engine and the twin-motor hybrid system (MG1/MG2), targeting a 20% increase in combined system output (from 143hp to ~172hp) while maintaining OEM reliability and emissions compliance.",
+    "HKS Hi-Power SP exhaust system with 60mm diameter titanium-coated stainless steel piping and a 200-cell metallic core catalytic converter, specifically designed for the LFA1 e:HEV to reduce backpressure by 35% and enhance exhaust scavenging for the hybrid powertrain’s regenerative braking phases, paired with a custom 3-inch diameter rear muffler for a deep, resonant tone without drone.",
+    "Tein Flex Z coilovers with custom valving for the Stepwgn’s RH1/RH2 chassis (2015-2022), featuring 32-way adjustable damping, 30mm front/20mm rear lowering, and reinforced pillowball top mounts to handle the added weight of the hybrid battery pack (located under the rear seats) while improving roll stiffness by 18% for spirited cornering on mountain passes."
+  ],
+  "estetica": [
+    "Liberty Walk LB Works Stepwgn-specific widebody kit (front/rear fenders, side skirts, and rear bumper) with carbon fiber overfenders to accommodate 19x9.5 +30 ET Volk Racing TE37SL wheels wrapped in 245/35R19 Yokohama Advan Neova AD09 tires, paired with custom 5mm spacers to achieve a flush fitment without rubbing on the LFA1’s hybrid-specific suspension geometry.",
+    "Seibon Carbon Stepwgn e:HEV roof replacement panel (OEM-spec fitment) to reduce unsprung weight by 4.2kg, combined with a custom Mugen-style carbon fiber rear spoiler (3D-scanned from the Stepwgn’s rear hatch) to improve high-speed stability without disrupting the hybrid’s aerodynamic balance (Cd 0.32).",
+    "JDM-spec Stepwgn e:HEV LED headlight conversion with Osram Night Breaker Laser bulbs (6500K) and custom Morimoto HID projectors, paired with a full-width LED taillight bar (replicating the 2020+ Stepwgn Spada’s design) and a custom 3D-printed carbon fiber front grille insert featuring the Honda ‘H’ emblem in red anodized aluminum."
+  ]
+}

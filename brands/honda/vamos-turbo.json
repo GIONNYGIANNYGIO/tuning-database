@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "VAMOS TURBO",
+  "prestazioni": [
+    "Engine swap to a **Honda E07Z (660cc turbocharged inline-3)** with forged internals: JE forged pistons (8.5:1 CR), Eagle H-beam connecting rods, and a billet crankshaft for 1.5-bar boost tolerance. Pair with a **Garrett GT1549 turbocharger** (custom billet compressor wheel) and a **Toda Racing high-flow exhaust manifold** (equal-length, 3-1 design) to eliminate turbo lag while maintaining low-end torque.",
+    "Fuel system upgrade: **Walbro 450LPH in-tank fuel pump** with **ID1000x injectors** (side-feed, Honda-specific), controlled by a **Haltech Elite 1500 ECU** (custom E07Z turbo map with launch control and anti-lag). Add a **Radium Engineering fuel pressure regulator** (dual-spring, 50psi base) and **AEM X-Series wideband O2 sensor** for real-time AFR monitoring.",
+    "Drivetrain reinforcement: **OS Giken Super Lock LSD** (2-way, 4.292 final drive ratio) in a **Honda Vamos-specific reinforced differential housing** (custom billet aluminum carrier). Pair with a **PPG close-ratio 5-speed gearset** (1st: 3.250, 2nd: 1.944, 3rd: 1.384, 4th: 1.033, 5th: 0.810) and a **Spec Stage 3+ clutch** (multi-disc, 6-puck, 400 ft-lb torque capacity) for drag-strip launches."
+  ],
+  "estetica": [
+    "Bodywork: **Varis Japan Vamos-specific widebody kit** (FRP construction, 50mm flares per side) with **Seibon Carbon fiber hood** (vented, 30% weight reduction). Front bumper replaced with a **J's Racing Vamos GT lip** (polyurethane, 3-piece split for easy repair) and **Voltex Type-3 rear diffuser** (carbon-Kevlar hybrid, 3-stage Gurney flap).",
+    "Suspension: **Ohlins DFV Road & Track coilovers** (Vamos-specific valving, 30-way adjustable damping) with **Cusco pillowball upper mounts** (front/rear, 5mm offset for camber gain). Add **Tein EDFC Active Pro** for real-time damping adjustments via CAN bus. Wheel setup: **Work Emotion CR Kiwami** (15x6.5 +38 ET, 4x100 PCD) with **Yokohama ADVAN Neova AD09** (185/55R15, semi-slick compound).",
+    "Interior: **Bride Zeta III (Vamos-specific)** reclining bucket seats (FRP shell, 6-point harness slots) with **Takata Drift III 6-point harnesses**. Dashboard replaced with a **Defi BF Advance** digital gauge cluster (boost, oil temp, AFR, wideband O2) and **Sparco Pro 2000 steering wheel** (350mm, suede, quick-release). Roll cage: **AutoPower 6-point bolt-in cage** (chromoly, Vamos-specific main hoop gussets)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "Z TURBO",
+  "prestazioni": [
+    "Engine: S07A Turbo (660cc inline-3 DOHC 12V) – Full forged internals with JE 81.5mm forged pistons, Eagle H-beam connecting rods, and a billet crankshaft for 1.2L stroker build (84mm stroke) to handle 1.5 bar boost. Turbo upgrade to Garrett GT1549S with a custom 0.63 A/R turbine housing and 50mm wastegate for 220+ hp at the wheels.",
+    "Fuel System: Full return-style fuel setup with a Walbro 255 LPH in-tank pump, Radium Engineering fuel pressure regulator, and 850cc ID1000 injectors. ECU reflash via Hondata K-Pro V4 with custom maps for E85 compatibility and launch control.",
+    "Drivetrain: OS Giken Super Lock LSD (1.5-way) with 4.200 final drive ratio, reinforced 5-speed transmission with Synchrotech carbon synchros, and a Tilton twin-disc clutch (7.25\" diameter) with billet flywheel for 300+ ft-lbs torque capacity."
+  ],
+  "estetica": [
+    "Body Kit: Veilside Fortune Z3 widebody conversion with custom carbon fiber overfenders (2.5\" wider front, 3\" wider rear) and a custom front splitter with integrated canards (J’s Racing Type-R style). Rear diffuser by Rocket Bunny (Z-specific fitment) with dual 3.5\" exhaust outlets.",
+    "Suspension: Ohlins Road & Track DFV coilovers with 30-way adjustable damping, custom-valved for the Z’s 2,000lb weight. Cusco front strut tower bar and rear lower arm braces (polyurethane bushings) to eliminate chassis flex. Wheel setup: Work Meister S1 3P 15x7 +38 front and 15x8.5 +30 rear with 185/55R15 and 205/50R15 tires (Yokohama Advan Neova AD08R).",
+    "Interior: Bride Zeta III bucket seats (Z-specific mounting brackets) with Schroth 6-point harnesses. Custom carbon fiber dashboard overlay (matching the S2000 AP1 style) with a Defi BF gauge cluster (oil temp, boost, wideband AFR). Momo Prototipo steering wheel (350mm) with NRG quick-release hub."
+  ]
+}
