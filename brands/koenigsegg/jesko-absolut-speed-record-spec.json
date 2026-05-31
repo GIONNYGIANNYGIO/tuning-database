@@ -1,0 +1,14 @@
+{
+  "brand": "KOENIGSEGG",
+  "model": "JESKO ABSOLUT SPEED RECORD SPEC",
+  "prestazioni": [
+    "Engine: Koenigsegg 5.0L twin-turbo V8 (internal code 'JESKO TFG V8') recalibrated to 1,700+ hp on E85 fuel via bespoke ECU mapping by Syvecs S8P with multi-stage anti-lag and 3,000+ rpm launch control, paired with a 9-speed Koenigsegg Light Speed Transmission (LST) featuring carbon-fiber clutch packs and a 0.02s shift time for sustained 300+ mph runs",
+    "Forced Induction: Twin Precision Turbochargers GTX5544R Gen II with 106mm billet compressor wheels, ceramic-coated turbine housings, and custom 4.5-inch titanium downpipes feeding a secondary intercooler bypass system for sustained high-speed airflow management, reducing intake temps by 40°C at 300+ mph",
+    "Aerodynamics: Full carbon-fiber 'Speed Record' aero package by Koenigsegg Advanced Aerodynamics Division, including a 1.2m active rear wing with 3D-printed titanium actuators, a front splitter with integrated vortex generators, and a rear diffuser with active Gurney flaps, generating 1,400kg of downforce at 250 mph while maintaining a Cd of 0.278"
+  ],
+  "estetica": [
+    "Exterior: Full 'Ghost Silver' PPG Xtreme Basecoat/Clearcoat with 20-layer pearlescent flakes, applied via Koenigsegg’s proprietary vacuum-sealed painting process, paired with carbon-fiber weave exposed on the roof, side skirts, and rear diffuser for weight reduction and visual contrast",
+    "Wheels: Koenigsegg Aircore™ hollow carbon-fiber wheels (20x11 front, 21x13 rear) with center-lock titanium nuts and Michelin Pilot Sport Cup 2 R tires (265/35 R20 front, 345/30 R21 rear) featuring a bespoke compound for 300+ mph stability, wrapped in a custom 'Speed Record' red/white/blue stripe motif",
+    "Interior: Full 3D-printed titanium and carbon-fiber monocoque cockpit with race-spec Schroth 6-point harnesses, a bespoke MOMO Speed Record steering wheel with integrated OLED display for real-time aero and powertrain telemetry, and a lightweight Alcantara headliner with laser-etched Jesko Absolut branding"
+  ]
+}

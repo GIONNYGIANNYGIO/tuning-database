@@ -1,0 +1,14 @@
+{
+  "brand": "KOENIGSEGG",
+  "model": "QUANT",
+  "prestazioni": [
+    "Installation of a bespoke Koenigsegg-developed twin-turbocharger system utilizing two Garrett GTX5544R Gen II turbos with 76mm compressor wheels, optimized for the Quant's proprietary 4.8L V8 'Kappa' engine (engine code: KAPPA-48), producing 1100+ HP on E85 fuel with a custom Motec M190 ECU map and upgraded titanium intake valves from Del West Engineering",
+    "Full drivetrain reinforcement with a Koenigsegg-designed carbon-fiber torque tube and a Quaife ATB differential (part #QKE9Y) paired with a 6-speed sequential transaxle featuring a Pankl Racing Systems titanium gear set and AP Racing carbon-carbon clutch (CP8840-2000)",
+    "Implementation of a custom liquid-cooled battery management system (BMS) for the Quant's Flow Accumulator Energy Storage (FAES) system, integrating a bespoke cooling loop with a Setrab 50-row oil cooler and a Bosch Motorsport high-performance electric water pump (part #0 265 000 045) for thermal stability during high-load track sessions"
+  ],
+  "estetica": [
+    "Full carbon-fiber body overhaul with a Koenigsegg-designed 'Quant Aero Package' featuring a 3D-printed titanium rear diffuser from Additive Industries, paired with a custom Vortex Generator set from APR Performance (part #VG-QUANT) for optimized downforce distribution",
+    "Custom LED matrix headlight upgrade utilizing Osram Ostar Projection Modules (part #LE UW Q8WP) with a Koenigsegg-exclusive adaptive lighting algorithm, integrated into the Quant's signature 'dragonfly' front fascia with a carbon-fiber splitter from Extreme Dimensions (part #KSED-QUANT-SPLITTER)",
+    "Interior rework with a full Alcantara and carbon-fiber trim package from Sabelt, featuring a custom 6-point harness (part #SAB-006-AN-RACING) and a bespoke digital dash cluster from Race Technology (DL1 Clubman) with a Koenigsegg-specific CAN bus interface for real-time FAES system monitoring"
+  ]
+}

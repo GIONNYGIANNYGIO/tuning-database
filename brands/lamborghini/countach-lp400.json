@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "COUNTACH LP400",
+  "prestazioni": [
+    "Engine: Replace the original 3.9L *Lamborghini Tipo 112* V12 (375 HP) with a fully built *Tipo 112* featuring forged Mahle pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from JP Performance. Pair with a custom camshaft grind by Schrick (280° duration, 12mm lift) for high-RPM power delivery (target: 520 HP at 8,500 RPM).",
+    "Induction: Replace the stock Weber 40 DCOE carburetors with a custom fuel injection system using a *Motec M150 ECU* and *Bosch Motorsport 0280158002* high-flow injectors, paired with a *Rotrex C38-91* centrifugal supercharger (12 PSI boost) and a *PWR* front-mount intercooler with dual 120mm fans.",
+    "Drivetrain: Install a *Hewland FGB* 5-speed dog-ring gearbox with a *Tilton* twin-plate ceramic clutch (240mm) and a *Quaife ATB* limited-slip differential. Replace the stock driveshafts with *GKN* CV-jointed half-shafts and a *Penske* adjustable torque arm for launch control optimization."
+  ],
+  "estetica": [
+    "Body: Replace the stock fiberglass panels with a *Liberty Walk LB-WORKS* widebody kit (LP400-specific, carbon fiber construction) featuring extended front fenders, a custom rear diffuser, and a *Vorsteiner* carbon fiber rear wing with adjustable Gurney flaps.",
+    "Wheels: Fit *BBS LM-R* 16x10 (front) and 16x13 (rear) wheels with *Pirelli P Zero Corsa* tires (245/40 R16 front, 335/35 R16 rear). Use *H&R* custom spacers (15mm front, 20mm rear) for aggressive flush fitment.",
+    "Interior: Replace the stock seats with *Recaro Pole Position* carbon-Kevlar bucket seats (LP400-specific mounting brackets), a *MOMO* Prototipo steering wheel (350mm, suede), and a *Sparco* 6-point harness. Install a *Defi Advance BF* digital gauge cluster (oil pressure, boost, AFR) in a custom *Alcantara*-wrapped dashboard insert."
+  ]
+}

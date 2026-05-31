@@ -1,0 +1,20 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "HURACAN GT3 EVO2",
+  "prestazioni": [
+    "Engine: Lamborghini 5.2L V10 (L539) naturally aspirated GT3-spec with a bespoke dry-sump lubrication system featuring a Hiflow Motorsport billet aluminum oil pan and upgraded Mahle Motorsport forged pistons (12.5:1 compression ratio) paired with Carrillo H-beam connecting rods for sustained 9,000 RPM endurance racing.",
+    "Forced Induction: None (NA race spec), but equipped with a custom Lamborghini Motorsport-developed 12-throttle intake manifold featuring individual throttle bodies (ITBs) with Jenvey Dynamics 50mm velocity stacks and a K&N Racing high-flow air filter for optimized airflow at high RPM.",
+    "Suspension & Chassis: Öhlins TTX46 MkII 4-way adjustable dampers with Lamborghini Motorsport-specific spring rates (front: 350 lbs/in, rear: 400 lbs/in) and spherical bearing-equipped upper control arms from P1 Racing Components for precise camber and caster adjustments. The rear subframe is reinforced with a custom titanium brace from 996Racing to reduce flex under lateral G-forces.",
+    "Aerodynamics: Lamborghini Squadra Corse GT3 EVO2 aero package with a carbon fiber front splitter featuring adjustable dive planes (3 positions) and a massive rear diffuser with Gurney flaps, all validated in Dallara’s wind tunnel for 2,200 lbs of downforce at 150 mph. The rear wing is a 3-element design with a 1,200mm span and active DRS (Drag Reduction System) for straight-line speed optimization.",
+    "Drivetrain: Xtrac P1287 6-speed sequential transaxle with a Sachs Racing twin-disc carbon clutch (240mm diameter) and a Quaife ATB differential (85% lockup) for aggressive power delivery. The driveshaft is a carbon fiber unit from GKN Driveline to reduce rotational mass.",
+    "Braking: Brembo GT3-spec monobloc calipers (6-piston front, 4-piston rear) with 390mm front and 355mm rear carbon-ceramic rotors (CCM-R) from Brembo Racing, paired with Ferodo Racing DS3.12 pads for consistent fade resistance. The brake bias is adjustable via a cockpit-mounted Motec C127 dash controller.",
+    "Electronics: Motec M150 ECU with Lamborghini Motorsport’s GT3-specific traction control (12 levels) and ABS (5 levels), integrated with a Bosch MS5.1 motorsport-grade sensor suite for real-time telemetry. The wiring harness is a custom Autosport Labs unit with military-grade connectors for vibration resistance."
+  ],
+  "estetica": [
+    "Exterior: Full Lamborghini Squadra Corse GT3 EVO2 livery in matte Grigio Titans (custom PPG mix) with high-visibility fluorescent green accents on the front splitter, side skirts, and rear wing endplates. The hood features a carbon fiber weave with a clear satin finish and exposed rivets for a raw race-car aesthetic.",
+    "Lighting: OEM Lamborghini GT3-spec LED headlights with custom Hella Rallye 7000 auxiliary driving lights (amber fog, white spot) mounted in a carbon fiber pod on the front bumper. The rear taillights are replaced with clear-lens units from JDM Project for a stealth look, with sequential LED turn signals.",
+    "Wheels: OZ Racing Superforgiata GT3 wheels (18x12.5 front, 18x13 rear) in a custom gold-bronze finish with center-locking nuts from BBS Motorsport. Tires are Pirelli P Zero Trofeo R slicks (30/65-18 front, 31/71-18 rear) for track use, with Michelin Pilot Sport Cup 2 R (295/30-18 front, 325/30-18 rear) for street-legal sessions.",
+    "Interior: Full FIA-spec roll cage from Custom Cages (T45 steel, 3.2mm wall thickness) with integrated fire suppression system (Lifeline Zero 360) and a Sparco Pro 2000 GT3 seat with 6-point Schroth Racing harnesses. The dashboard is a Motec C127 digital display with a custom carbon fiber surround, and the steering wheel is a Sparco GT3 EVO with paddle shifters and a quick-release hub.",
+    "Aero Accents: Carbon fiber side mirrors from APR Performance with integrated LED turn signals, and a custom titanium exhaust exit from Akrapović (dual 80mm tips) for a race-ready sound. The rear diffuser features exposed carbon fiber with red anodized aluminum support struts for a motorsport-inspired look."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "JALPA P350",
+  "prestazioni": [
+    "Engine: 3.5L V8 (engine code: **Lamborghini 3512**), forged internals upgrade with **JE Pistons 9.5:1 compression forged pistons** and **Carrillo H-beam connecting rods** for 8,500 RPM reliability, paired with a **Tomei 272° duration camshaft** grind for aggressive mid-to-high lift profiles (11.8mm intake, 11.2mm exhaust).",
+    "Forced induction: **Rotrex C38-91 supercharger** (12 psi max boost) with a **custom Lamborghini-specific intercooler core** (GReddy Type-R front-mount, 10-row, 100% aluminum) and **ID1000x injectors** for E85 compatibility, mated to a **Haltech Elite 2500 ECU** with **Motec C125 dash** for real-time lambda and knock monitoring.",
+    "Drivetrain: **OS Giken 4.222:1 limited-slip differential** with **Quaife ATB helical gears**, **Tilton 7.25\" twin-disc clutch** (ceramic-metallic friction), and **Hewland FTR transaxle** (close-ratio gearset: 2.41, 1.61, 1.23, 1.00, 0.83) with **AP Racing CP8466 calipers** (380mm rotors) and **Ferodo DS3000 pads** for endurance braking."
+  ],
+  "estetica": [
+    "Aerodynamics: **Liberty Walk LB-WORKS Jalpa widebody kit** (carbon fiber fenders, 50mm extended wheel arches) with **Vorsteiner V-FF107 19x10.5\" ET15 front / 19x12.5\" ET5 rear wheels** (Michelin Pilot Sport Cup 2 R tires: 265/35/19 front, 325/30/19 rear), paired with a **custom 3D-printed rear diffuser** (integrated **AEM X-Series wideband sensor** for exhaust gas visualization).",
+    "Exterior: **PPG Lamborghini Verde Ithaca (custom mixed, 3-stage pearl)** with **R-M Diamond Crystal matte clear coat**, **Seibon carbon fiber hood** (vented, 30% weight reduction), and **DTM-style side mirrors** (carbon fiber, **Aerocatch quick-release mounts**).",
+    "Interior: **Recaro Pole Position SPG XL seats** (carbon-Kevlar shell, **Schroth 6-point harnesses**), **MOMO Prototipo steering wheel** (350mm, Alcantara, **Lamborghini-specific quick-release hub**), and **custom roll cage** (TIG-welded 4130 chromoly, **Sparco harness bar** integrated, **Schroth ASM 4-point bolt-in points**)."
+  ]
+}

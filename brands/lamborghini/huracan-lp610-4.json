@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "HURACAN LP610-4",
+  "prestazioni": [
+    "Lamborghini L539 5.2L V10 naturally aspirated engine: Replace the stock intake manifold with a custom 3D-printed titanium manifold by **Vork Motorworks**, designed specifically for the L539’s firing order (1-6-5-10-2-7-3-8-4-9) to optimize airflow and reduce weight by 40% while increasing torque by 12 lb-ft at 5,500 RPM.",
+    "Install a **Motec M150 ECU** with a bespoke calibration by **Shivworks Engineering**, utilizing direct port injection mapping for the L539’s 40-valve DOHC setup, targeting 650 WHP on 100-octane fuel with a 9,200 RPM redline and optimized ignition timing for the stock compression ratio of 12.7:1.",
+    "Upgrade the stock exhaust system with a **Capristo 102-RS Titanium Valved Exhaust**, featuring 4-inch diameter piping, Inconel 625 headers, and electronically controlled bypass valves to reduce backpressure by 38% while maintaining OEM-style sound levels under 95 dB for track compliance. Pair with a **Novitec Torado** secondary catalytic converter delete (for off-road use only) to further enhance exhaust scavenging."
+  ],
+  "estetica": [
+    "Install a **Rocket Bunny V3 Widebody Kit** for the Huracan LP610-4, featuring carbon fiber fenders with integrated air vents for brake cooling, a front splitter with adjustable dive planes, and a rear diffuser with dual 3.5-inch exhaust cutouts. Paint in **PPG Lamborghini Verde Mantis** with matte black accents on the lower cladding.",
+    "Replace the stock wheels with **HRE FF01** forged monoblock wheels in a staggered setup: 20x9.5 ET35 front (245/30/20 Michelin Pilot Sport Cup 2 R) and 21x12.5 ET45 rear (305/25/21 Pirelli P Zero Trofeo R). Finish in **Brushed Titanium** with Lamborghini ‘Corsa’ center caps.",
+    "Add a **Vorsteiner V-FF 107** carbon fiber rear wing with a 3D-printed aluminum support structure, adjustable from 0 to 15 degrees of attack, paired with a **Novitec Aerokit** front lip spoiler and side skirts in raw carbon fiber. Install **OMP Carbon Fiber Racing Seats** with Alcantara suede and Lamborghini ‘Giallo Midas’ stitching, retaining the OEM seatbelt harnesses."
+  ]
+}

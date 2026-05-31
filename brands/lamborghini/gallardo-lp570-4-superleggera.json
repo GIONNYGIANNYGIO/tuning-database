@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "GALLARDO LP570-4 SUPERLEGGERA",
+  "prestazioni": [
+    "Engine: 5.2L V10 (L539) with a custom Motec M150 ECU reflash targeting 620hp at 8,500 RPM via optimized fuel and ignition maps, paired with a Capristo 102mm titanium exhaust system featuring inconel headers and a bypass valve for backpressure control under 4,000 RPM",
+    "Forced induction: Rotrex C38-91 supercharger kit with a custom intercooler setup (PWR Australia core, 12-row, 4.5\" thick) and a 100-shot methanol injection system (AEM 30-3300) to manage intake temps under boost, pushing peak torque to 450 lb-ft at 6,000 RPM",
+    "Suspension: Öhlins TTX46 coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression), custom valving for the LP570-4’s aluminum double-wishbone setup, and Eibach ERS 1200N/mm front / 1400N/mm rear springs for a 30mm lower ride height with 2° negative camber up front"
+  ],
+  "estetica": [
+    "Aerodynamics: Novitec Torado widebody kit with carbon fiber front splitter (30% more downforce than OEM), rear diffuser with integrated Gurney flap, and a fixed rear wing (200mm chord, 1,200mm span) replacing the Superleggera’s active spoiler for a 40% increase in rear downforce at 180 mph",
+    "Wheels: HRE FF01 20x9.5\" (ET30) front / 20x12\" (ET40) rear with titanium lug bolts, wrapped in Pirelli P Zero Trofeo R tires (245/30 R20 front, 305/25 R20 rear) for a 5mm stretch to optimize sidewall stiffness and heat cycling",
+    "Interior: Alcantara-wrapped Recaro Pole Position seats (carbon shell, 18-way adjustment) with Schroth 6-point harnesses, a custom roll cage (TIG-welded 4130 chromoly, 2.5\" diameter) integrated with the OEM carbon tub, and a digital dash (Aim MXS Strada) replacing the stock cluster for real-time boost, AFR, and G-force data"
+  ]
+}

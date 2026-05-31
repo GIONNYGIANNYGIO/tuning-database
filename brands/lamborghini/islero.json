@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "ISLERO",
+  "prestazioni": [
+    "Engine: Lamborghini 3.9L V12 (L390) with forged internals by JE Pistons (9.5:1 compression, 87mm bore, 84mm stroke) and Carrillo H-beam connecting rods for 9,000 RPM reliability. Pair with a custom camshaft grind by Schrick (280° intake, 276° exhaust, 11.5mm lift) to optimize the stock hemispherical combustion chambers.",
+    "Forced Induction: Single Garrett GTX4202R turbocharger (0.82 A/R turbine housing) with a custom 3.5\" stainless steel exhaust manifold by Novitec, feeding into a GReddy Profec B Spec II standalone ECU with dual Bosch 0280158002 1,000cc injectors and a TiAL MV-R 44mm wastegate for 12 psi peak boost.",
+    "Suspension: Full Ohlins TTX46 coilovers with 24-way adjustable damping, custom valving for the Islero's unequal-length A-arm front and rear suspension, and spherical bearing conversion by SuperPro (SPF0116K) for subframe reinforcement. Pair with a Whiteline KCA4009 front sway bar (24mm adjustable) and a custom 22mm rear sway bar by Cusco."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion by RWB (Rauh-Welt Begriff) with custom fender flares (50mm front, 70mm rear) to fit 265/35/18 front and 315/30/18 rear Michelin Pilot Sport Cup 2 tires on BBS LM-R wheels (9x18 ET25 front, 11x18 ET15 rear).",
+    "Aerodynamics: Custom front splitter by Vorsteiner (carbon fiber, 3-piece adjustable) with integrated canards, paired with a custom rear diffuser by Maxton Design (carbon fiber, 3-stage) and a fixed rear wing by Voltex (Type 3, 1,200mm width, 300mm chord).",
+    "Interior: Full Alcantara retrim by Saddleback Leather (dashboard, door cards, headliner) with custom stitching in Lamborghini Verde Ithaca. Replace stock seats with Recaro Pole Position II buckets (carbon fiber shells, 6-point Schroth harnesses) and a custom roll cage by Matter Fab (TIG-welded 4130 chromoly, 8-point with door bars)."
+  ]
+}

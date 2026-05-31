@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "HURACAN GT3",
+  "prestazioni": [
+    "Replacement of the factory 5.2L V10 (FBA) with a bespoke **Motec M150 ECU** mapped for GT3 endurance racing, optimizing fuel delivery and ignition timing for sustained 600+ hp at 8,500 RPM with a 9,000 RPM redline, while integrating **Bosch MS 5.1** direct injection and **Pectel SQ6M** data logging for real-time telemetry adjustments.",
+    "Installation of a **Pankl Racing Systems** billet steel crankshaft and **Carrillo H-beam connecting rods** with **JE Pistons** forged 12.5:1 compression ratio slugs, paired with **Mahle Motorsport** DLC-coated piston rings and **ARP Custom Age 625+** head studs to withstand 24-hour race stresses.",
+    "Upgraded **Brembo GT3-spec** 6-piston monobloc calipers with **380mm x 38mm** carbon-ceramic rotors (CCM-R) and **Ferodo DS3.12** race pads, coupled with **Akebono** brake-by-wire ABS calibration for GT3 sprint/endurance balance, and **Pagid RSL29** brake fluid for 300°C+ heat resistance."
+  ],
+  "estetica": [
+    "Full **AeroTech Designs GT3 Evo** carbon fiber body kit, including a **1,200mm-wide** front splitter with **Gurney flaps**, **3D-printed titanium** dive planes, and a **rear diffuser** with **Vortex Generators** (VG) for 1,800 lbs of downforce at 200 km/h, all coated in **PPG 9400 Series** matte Lamborghini Verde Mantis.",
+    "Replacement of the OEM windshield with a **Sabelt 8862 FIA-certified** polycarbonate unit (0.8mm thinner, 30% lighter) and **3M 1080 Series** vinyl-wrapped **carbon fiber side mirrors** with **Teijin Tenax** pre-preg construction, reducing weight by 1.2 kg while improving rear visibility for GT3 wheel-to-wheel racing.",
+    "Custom **OMP Racing GT3-spec** carbon fiber racing seat with **Schroth 6-point harnesses** (FIA 8853/2016), **Sparco Pro2000** steering wheel with **Motec C127** dash display, and **Recaro SRD-E** seat inserts, all upholstered in **Alcantara Suede** with **Lamborghini Q-Citura** stitching in Arancio Xanto."
+  ]
+}

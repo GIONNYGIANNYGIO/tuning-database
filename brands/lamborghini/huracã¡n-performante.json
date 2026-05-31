@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "HURACÁN PERFORMANTE",
+  "prestazioni": [
+    "Engine: L539 5.2L V10 (naturally aspirated) with a custom Novitec Rosso Stage 3 ECU remap, optimizing ignition timing and fuel delivery for 700+ HP (up from 640 HP) while maintaining OEM reliability. Includes a Novitec-specific carbon fiber intake manifold with integrated velocity stacks and a secondary throttle body delete for improved airflow dynamics.",
+    "Exhaust: Capristo 102-RS full titanium exhaust system with 4-inch diameter piping, quad 100mm carbon fiber tips, and electronically controlled butterfly valves. The system is tuned to reduce backpressure by 38% while amplifying the V10's 8,250 RPM redline acoustics, featuring a bespoke X-pipe design to balance cylinder scavenging.",
+    "Suspension: Öhlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression) and Lamborghini-specific spring rates (14kg/mm front, 18kg/mm rear). Paired with a custom Tubi Style front strut bar and a Novitec rear subframe reinforcement kit to eliminate chassis flex under extreme lateral loads (e.g., Nürburgring lap times)."
+  ],
+  "estetica": [
+    "Aero: Novitec Rosso 'Performante Extreme' widebody kit, featuring 3D-scanned carbon fiber fenders with integrated air curtains, a revised front splitter with active Gurney flaps (electronically adjustable via Lamborghini's ANIMA system), and a rear diffuser with vortex generators. The kit adds 40mm to the front track and 50mm to the rear, accommodating 20x10.5 ET30 (front) and 21x13 ET35 (rear) wheels.",
+    "Wheels: HRE FF16 flow-formed forged wheels in a custom 'Giallo Orion' finish, with a 5x112 PCD and center-lock adapters. Front: 20x10.5 +30mm offset, Rear: 21x13 +35mm offset. Tires: Pirelli P Zero Trofeo R (245/30 R20 front, 305/30 R21 rear) with a custom compound for sub-1:20 Nürburgring lap times.",
+    "Interior: Full Alcantara-wrapped Recaro SPG-K seats with carbon fiber shells, featuring 6-point Schroth Profi II harnesses and a custom MOMO Mod.78 steering wheel with integrated AIM MXS Strada data logger. The dashboard is replaced with a Novitec carbon fiber overlay, housing a 12.3-inch Motec C127 dash with live telemetry for air-fuel ratios, boost (if applicable), and G-forces."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "KOENIGSEGG",
+  "model": "ONE:1",
+  "prestazioni": [
+    "Replace the stock **5.0L V8 (internal code: Koenigsegg TFG V8, twin-turbo, 1360hp)** turbochargers with **Garrett GTX5544R Gen II** turbos, featuring 76mm billet compressor wheels and 88mm turbine wheels, paired with **Tial MV-R 60mm wastegates** and **custom Koenigsegg titanium turbine housings** to optimize spool at 3,500 RPM while maintaining 26 psi of boost for a target of **1,800+ hp** on **E85 fuel** with **Motec M150 ECU** recalibration for 30° ignition advance and 12.5:1 air-fuel ratios at peak power.",
+    "Install **Pankl Racing Systems** billet titanium connecting rods (H-beam, 4340 steel) with **ARP Custom Age 625+ head studs** and **JE Pistons** forged 2618 aluminum pistons (9.0:1 compression, custom skirt coating) to withstand 1,200+ bar cylinder pressures, paired with **Koenigsegg’s proprietary diamond-like carbon (DLC) coated** camshafts and **Ferrea Racing** titanium intake/exhaust valves (1mm oversized) for 0.650\" lift and 290° duration.",
+    "Upgrade the **Koenigsegg 7-speed dual-clutch transaxle (code: KDD-7DCT)** with **Xtrac P1227** helical-cut gears (1st: 3.10, 2nd: 2.17, 3rd: 1.63) and **AP Racing CP9444-3000** carbon-carbon clutch discs, paired with a **Penske 8760** adjustable differential and **Hewland LSD** with 65% lockup under load, while integrating a **Bosch MS2.8** traction control system with 12-stage slip mapping for sub-2.5s 0-60 mph launches."
+  ],
+  "estetica": [
+    "Replace the stock **Koenigsegg Automotive** carbon fiber body panels with **Vorsteiner GTRS** pre-preg autoclave carbon fiber widebody kit (2.5\" extended fenders, aggressive side skirts, and a **3D-printed titanium rear diffuser** with active Gurney flaps), finished in **PPG ‘Liquid Black’** with **3M Scotchlite 980CR** reflective pinstriping for aerodynamic visibility.",
+    "Install **OMP KS-8** carbon fiber racing seats with **Schroth Profi II-6** 6-point harnesses and **Sabelt HANS Device (FHR-17)** for FIA GT3 compliance, paired with a **MOMO Mod.77** suede steering wheel (380mm diameter, Alcantara-wrapped) featuring **AiM MXL2** integrated data display and **Motec PDM30** power distribution module for real-time telemetry.",
+    "Equip the **Koenigsegg One:1** with **HRE FF01** forged monoblock wheels (20x11\" front, 21x13\" rear) in **matt bronze finish**, wrapped in **Michelin Pilot Sport Cup 2 R** tires (265/35 ZR20 front, 345/30 ZR21 rear) with **BBS Motorsport** titanium wheel bolts, paired with **Brembo GT-R** 6-piston calipers (42mm pistons) and **390mm carbon-ceramic rotors** with **Pagid RS29** brake pads for 1.2g deceleration from 200 mph."
+  ]
+}

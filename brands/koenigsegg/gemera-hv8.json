@@ -1,0 +1,14 @@
+{
+  "brand": "KOENIGSEGG",
+  "model": "GEMERA HV8",
+  "prestazioni": [
+    "Upgrade the **TFG (Tiny Friendly Giant) 2.0L 3-cylinder + 3 electric motors hybrid powertrain** with a **Garrett GTX5544R Gen II turbocharger** (custom billet compressor wheel, 76mm inducer, 106mm exducer) paired with a **Tial MV-R 60mm wastegate** to handle the 3.5-bar boost target, replacing the stock turbo setup for the internal combustion engine (ICE) while retaining the **Koenigsegg Direct Drive (KDD) system** for seamless hybrid torque vectoring.",
+    "Install a **Motec M182 ECU with Koenigsegg-specific firmware (HV8 Hybrid Calibration v2.3)** to recalibrate the **TFG engine’s 10,000 RPM redline** and optimize the **600V electric motor torque curves** (front axle: 2x 500 kW motors, rear: 1x 400 kW motor) for a **combined 1,700 hp and 2,581 lb-ft of torque**, with a **launch control strategy** that prioritizes the rear electric motor for 0-60 mph in **1.5 seconds** (stock: 1.9s).",
+    "Replace the stock **Koenigsegg 9-speed multi-clutch transmission** with a **Xtrac P1227-9A sequential gearbox** (carbon-fiber housing, 300ms shift times) and a **Tilton triple-plate carbon clutch** (rated for 2,200 Nm) to handle the increased torque, while integrating a **Hewland diff pump** for improved lubrication under sustained 3.5g lateral loads."
+  ],
+  "estetica": [
+    "Install a **Rocket Bunny x Koenigsegg Gemera-widebody kit (Type-F)** with **carbon-fiber overfenders** (pre-preg autoclave, 3K twill weave) and **aluminum honeycomb core** for rigidity, featuring **active aerodynamics** with **Dymag carbon-fiber wheels (20x9.5 front, 21x12.5 rear)** wrapped in **Michelin Pilot Sport Cup 2 R tires (265/35 R20 front, 325/30 R21 rear)** for track use.",
+    "Replace the stock **Ghost Lighting System** with a **Luxxen LED matrix headlight upgrade (Gemera-specific housing)** and **Osram 10W laser high-beams**, paired with **custom 3D-printed titanium air curtains** (SLM-printed, Grade 5 Ti-6Al-4V) to channel airflow into the **front splitter’s Venturi tunnels** (designed in collaboration with **APR Performance**).",
+    "Apply a **full **PPG **'Liquid Silver' paint scheme (K20A20)** with **matte black **'Koenigsegg Ghost' decals** (electroluminescent, powered by the hybrid battery) on the **carbon-fiber monocoque**, while integrating **Forge Motorsport carbon-fiber side skirts** with **embedded RGB LED strips** (synchronized with the **Koenigsegg Nighthawk infotainment system**) for dynamic lighting effects."
+  ]
+}

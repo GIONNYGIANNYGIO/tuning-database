@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "GALLARDO LP570-4 SPYDER",
+  "prestazioni": [
+    "Engine: 5.2L V10 (L539) with a custom Motec M150 ECU reflash, optimizing ignition timing and fuel maps for 98 RON fuel, targeting 620 HP at 8,500 RPM and 430 lb-ft of torque at 6,500 RPM while maintaining OEM reliability. Includes a Novitec Rosso-developed titanium crankshaft damper to reduce harmonics at high RPMs.",
+    "Forced Induction: Twin-turbo setup using Garrett GT2867R turbos (0.82 A/R, 56 trim) with custom 3D-printed Inconel exhaust manifolds by Capristo, paired with a GReddy intercooler core (400x200x60mm) and a custom water-methanol injection system (AEM 3400) for charge cooling, targeting 12 PSI of boost with a 3.5-bar MAP sensor upgrade.",
+    "Suspension & Handling: Öhlins TTX40 coilovers with 12-position adjustable rebound and compression damping, custom valved for the LP570-4 Spyder's aluminum spaceframe. Includes a full Cusco front strut tower bar (22mm diameter) and a rear carbon fiber X-brace by 2Bros Motorsports, along with Pirelli P Zero Trofeo R tires (245/30 R19 front, 325/30 R20 rear) on OZ Racing Ultraleggera HLT wheels (19x8.5 ET35 front, 20x12 ET53 rear)."
+  ],
+  "estetica": [
+    "Aerodynamics: Novitec Rosso 'Aero Kit Spyder' with a carbon fiber front splitter, side skirts, and a rear diffuser, paired with a custom 3D-printed active rear wing (adjustable via a MoTeC PDM15) that deploys at 120 km/h for downforce. Includes a full carbon fiber engine cover with a clear polycarbonate window to showcase the L539 V10.",
+    "Exterior: Full custom matte 'Giallo Midas' (Lamborghini PPG code 1020) wrap by Avery Dennison, with a satin black roof and mirror caps. Includes a custom LED taillight setup by Diode Dynamics (sequential turn signals) and a front bumper lip with integrated DRLs by LUX Automotive.",
+    "Interior: Full Alcantara retrim by Saddleback Leather, including the dashboard, door cards, and center console, with custom embroidered 'LP570-4 Spyder' logos on the headrests. Includes a custom roll bar (T45 steel) by Autopower Industries, wrapped in Alcantara, and a digital dash upgrade using a RaceLogic VBOX Sport display integrated into the OEM cluster."
+  ]
+}

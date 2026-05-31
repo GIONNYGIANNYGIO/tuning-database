@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "HURACAN SUPER TROFEO EVO2",
+  "prestazioni": [
+    "Engine: 5.2L naturally aspirated V10 (L539) with a bespoke Lamborghini Motorsport dry-sump lubrication system, upgraded to 630 HP at 8,250 RPM via a Motec M150 ECU recalibration with race-grade fuel mapping (102-octane) and a custom titanium Akrapović exhaust manifold paired with a straight-pipe 3.5-inch Inconel exhaust system, reducing backpressure by 22% while optimizing scavenging for high-RPM power delivery",
+    "Suspension: Öhlins TTX46 MkII 3-way adjustable dampers with Lamborghini Motorsport-specific spring rates (front: 350 lb/in, rear: 400 lb/in) and spherical bearing top mounts, paired with a custom KW Clubsport 3-way adjustable anti-roll bar kit (24mm front, 22mm rear) for flat cornering dynamics on Pirelli P Zero Trofeo R tires (305/660-R19 front, 315/710-R19 rear)",
+    "Aerodynamics: Lamborghini Squadra Corse carbon fiber front splitter with 3D-printed Gurney flaps (adjustable in 2mm increments) and a fixed rear wing derived from the Huracán GT3 EVO2, featuring a 1,200mm chord and 30-degree angle of attack, generating 1,100 kg of downforce at 250 km/h when paired with the optional Lamborghini Motorsport underbody diffuser (CFRP, 5-channel design with vortex generators)"
+  ],
+  "estetica": [
+    "Exterior: Full Lamborghini Squadra Corse carbon fiber body kit (part #LSC-520-001) including a GT3-spec front bumper with integrated NACA ducts for brake cooling, side skirts with air curtains for rear tire wake management, and a rear diffuser with titanium exhaust outlets (dual 100mm tips, polished finish)",
+    "Wheels: OZ Racing Superforgiata magnesium wheels (19x12J front, 19x13J rear) with center-lock hubs, anodized gold finish, and custom Lamborghini Motorsport engravings (part #OZ-520-STEVO2), wrapped in Pirelli P Zero Trofeo R tires (see above) with red-painted calipers (Brembo GT3-spec, 6-piston front, 4-piston rear)",
+    "Interior: Full Alcantara-wrapped Lamborghini Motorsport racing seat (part #LSC-INT-520) with 6-point Schroth Profi II harnesses, a carbon fiber MOMO Prototipo steering wheel (350mm diameter, suede grip) featuring a Motec C127 dash display with real-time telemetry (boost, oil temp, lap times), and a custom titanium roll cage (TIG-welded, 4130 chromoly) with integrated fire suppression system (Lifeline Zero 360, plumbed to all critical zones)"
+  ]
+}

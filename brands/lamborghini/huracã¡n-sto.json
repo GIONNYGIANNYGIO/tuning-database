@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "HURACÁN STO",
+  "prestazioni": [
+    "Lamborghini L539 5.2L V10 naturally aspirated engine (direct-injection, 640 PS stock) – Motec M150 ECU standalone management with custom lambda-based fueling maps optimized for E85 flex-fuel, paired with a 1000cc/min Injector Dynamics ID1700x port injectors for supplementary fueling at 12.5:1 AFR under 9,000 RPM WOT conditions, retaining OEM direct injectors for primary delivery",
+    "Garrett GTX3582R Gen II turbocharger (82mm compressor, 1.06 A/R turbine housing) with TiAL MV-R 44mm external wastegate, custom 3.5-inch titanium downpipe merging into a dual 3-inch Inconel 625 exhaust system terminating in Akrapovič Racing Line carbon-fiber mufflers, tuned for 1.2 bar peak boost with anti-lag via Motec M150 launch control strategy",
+    "Ohlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, high-speed rebound), custom valving for STO-specific carbon tub, paired with Lamborghini Motorsport front/rear anti-roll bars (24mm front, 22mm rear) and spherical bearing end links from SuperPro, alongside a full polybush kit from Powerflex (PFF80-9500K) for subframe and control arm reinforcement"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody conversion kit (carbon-fiber fenders, front splitter, and rear diffuser) with integrated 3D-printed NACA ducts for brake cooling, finished in Lamborghini Verde Mantis with matte black forged BBS FI-R 20x10.5 ET35 (front) and 21x12.5 ET40 (rear) wheels wrapped in Pirelli P Zero Trofeo R 255/30 R20 and 325/25 R21 tires",
+    "Custom carbon-fiber rear wing derived from Huracán Super Trofeo EVO2, adjustable via electric actuators (0-15 degrees AoA) with integrated DRS-style drag reduction flap, mounted on a 3D-printed titanium wing stanchion for weight reduction (saving 1.8kg vs. OEM aluminum)",
+    "Full interior carbon-fiber weave (including door cards, center console, and dashboard) from V Carbon, paired with a stripped-out cabin featuring a full FIA-spec 8-point roll cage from Custom Cages (T45 steel, MIG-welded) with integrated fire suppression system (Lifeline Zero 360 4kg extinguisher), and Recaro Pole Position seats with 6-point Schroth Profi II harnesses"
+  ]
+}

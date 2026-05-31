@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "LANZADOR",
+  "prestazioni": [
+    "Upgrade to a **Lamborghini L540** (3.8L twin-turbo V8 hybrid) with a **Weistec Engineering Stage 3+ turbo kit**, featuring **Garrett GTX5533R Gen II turbos** (1.35 A/R, 106mm compressor wheels) and **Precision Turbo wastegates** (44mm, dual-port) for 1,200+ HP on E85. Replace the stock intercoolers with **PWR Australia 1200HP core** (bar-and-plate, 4.5\" thick) and **Tial MV-R 60mm blow-off valves** to handle 38 psi boost.",
+    "Install a **Motec M150 ECU** with **Lamborghini Lanzador-specific hybrid calibration** (mapped by **Shiv@VRSF**) to optimize the **P1/P4 hybrid system** (front e-motors + rear V8). Pair with a **Pectel SQ6M+ data logger** for real-time torque vectoring adjustments. Replace the stock **ZF 8HP95X** transmission with a **Xtrac P1227** 8-speed sequential (dog-ring, paddle-shift) and **Alcon 6-piston monoblock calipers** (380mm CCM-R rotors) for 1.8G braking.",
+    "Swap the OEM **double-wishbone suspension** for **Öhlins TTX46 MkII coilovers** (3-way adjustable, 24-click rebound) with **Eibach ERS springs** (12K front, 14K rear). Integrate a **KW Automotive Clubsport chassis brace** (carbon-fiber, 3-point) and **AP Racing pedal box** (adjustable bias, 6:1 ratio) for track precision. Replace the stock **Pirelli P Zero Elect** with **Michelin Pilot Sport Cup 2 R** (325/30R21 front, 355/25R22 rear) on **HRE FF16** forged wheels (21x11.5\", 22x13\", 5x130 PCD)."
+  ],
+  "estetica": [
+    "Apply a **Rocket Bunny V3 Lanzador-widebody kit** (pre-preg carbon, 80mm flares) with **custom Vortex Generators** (3D-printed, CFD-optimized) on the rear diffuser. Replace the OEM front splitter with a **Liberty Walk Lanzador GT3-spec** (adjustable, 3-stage) and **custom active rear wing** (hydraulic, 15° angle, **D2 Racing actuators**).",
+    "Install **Novitec Torado Lanzador-specific exhaust tips** (titanium, 120mm quad-outlet) with **REMUS sound generator** (adjustable backpressure, 95dB mode). Replace the OEM headlights with **Luxxen Lanzador LED projectors** (RGB, adaptive matrix) and **custom laser taillights** (animated startup sequence, **Osram PLPT9 450nm diodes**).",
+    "Wrap the entire body in **3M 2080 Gloss Electric Purple** with **Avery Dennison Supreme Wrapping Film** (matte black accents, **hexagonal pattern**). Add **Forge Motorsport carbon-fiber side skirts** (with integrated **LED ground effects**) and a **custom roof scoop** (functional, feeds **PWR intercooler**). Replace the OEM mirrors with **Sparco Carbon Fiber GT mirrors** (heated, auto-dimming) and **custom door handles** (keyless, **Fingerprint ID**)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "GALLARDO SUPERLEGGERA",
+  "prestazioni": [
+    "5.0L V10 (engine code: 5.0L V10 90° FSI - *L539*) forced induction conversion using a *Rotrex C38-91 supercharger* with a custom *VMP Racing* intercooler setup, pushing power to 750 HP at 8,200 RPM with a *Motec M150 ECU* managing fueling via *ID1000x injectors* and a *Walbro 450 LPH fuel pump*",
+    "Full *KW Suspensions Clubsport 3-way adjustable coilovers* with *Eibach ERS race springs* (120 N/mm front, 180 N/mm rear) and *Penske remote reservoirs* for track-specific damping adjustments, paired with *AP Racing 6-piston front/4-piston rear brake calipers* and *Brembo HTC64T 380mm carbon-ceramic rotors*",
+    "Dry sump oil system upgrade with *Moroso 8-quart billet oil pan*, *Dailey Engineering 4-stage scavenge pump*, and *Mocal 19-row oil cooler* to maintain optimal lubrication under sustained 1.5G lateral loads, alongside a *Pectel SQ6M engine management system* for real-time telemetry monitoring"
+  ],
+  "estetica": [
+    "*Rocket Bunny V3 widebody kit* with *custom carbon fiber overfenders* (2.5-inch wider front, 3-inch wider rear) and *Vorsteiner GTS II carbon fiber front splitter* with *adjustable canards* for aero balance, all painted in *Lamborghini Viola Micalizzato* with *3M Matte Black wrap accents*",
+    "*Novitec Torado* side skirts and rear diffuser with *active Gurney flap* (electronically adjustable via *Dinan Engineering* controller), paired with *OEM Lamborghini Superleggera titanium exhaust* (re-tuned with *REMUS Sport Cats* for 5% backpressure reduction)",
+    "*OZ Racing Ultraleggera HLT 19x9.5 ET32 front / 19x12 ET53 rear wheels* wrapped in *Pirelli P Zero Trofeo R tires* (245/35 R19 front, 305/30 R19 rear), with *custom titanium wheel studs* and *BBS center-lock adapters* for rapid pit-stop capability"
+  ]
+}

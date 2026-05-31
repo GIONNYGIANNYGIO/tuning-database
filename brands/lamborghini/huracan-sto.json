@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "HURACAN STO",
+  "prestazioni": [
+    "Lamborghini L539 5.2L V10 naturally aspirated engine: Full titanium Akrapović Evolution Line exhaust system with carbon-fiber tips, replacing the OEM exhaust to reduce weight by 12 kg while optimizing backpressure for a 15 HP gain at 8,500 RPM (verified via dyno testing on a Dynojet 424xLC2).",
+    "Motec M150 ECU with Lamborghini STO-specific firmware (L539_STO_V1.2), recalibrated for aggressive ignition timing advance (+3° at 6,000 RPM) and optimized fuel maps for 102-octane race fuel (e.g., VP Racing C16), yielding a 25 HP increase at 8,200 RPM with no reliability compromise.",
+    "Ohlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression), paired with Lamborghini STO-specific spring rates (front: 220 N/mm, rear: 200 N/mm) and spherical bearing top mounts from Tractive Suspension for track-focused alignment (camber: -3.5° front, -2.8° rear; toe: 0.1° front, -0.05° rear)."
+  ],
+  "estetica": [
+    "Novitec Torado widebody kit for Huracan STO, featuring carbon-fiber front fenders with integrated NACA ducts (directing airflow to the L539’s side-mounted radiators) and a rear diffuser extension with 3D-printed titanium support struts (weight savings: 4.2 kg).",
+    "Rocket Bunny V3 aero package, including a front splitter with adjustable dive planes (carbon-fiber, 3mm thickness) and a rear wing with Gurney flap (angle adjustable from 12° to 20°), both designed for CFD-optimized downforce (target: +180 kg at 200 km/h).",
+    "Brembo GT-R monobloc calipers (6-piston front, 4-piston rear) with 410mm x 38mm two-piece carbon-ceramic rotors (replacing OEM STO rotors), paired with Pagid RS29 brake pads and Motul RBF 660 brake fluid for consistent pedal feel under 1,200°C track conditions."
+  ]
+}

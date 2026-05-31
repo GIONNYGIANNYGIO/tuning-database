@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "HURACÁN EVO SPYDER",
+  "prestazioni": [
+    "Engine: L539 5.2L V10 (naturally aspirated) with a custom Manthey Racing ECU reflash (MR-520-HUR-EVO-SPYDER) optimizing ignition timing, fuel maps, and throttle response for +60 HP (640 HP total) while retaining OEM reliability. Includes a secondary lambda sensor delete for aggressive tuning without CEL triggers.",
+    "Exhaust: Capristo 3.0-inch titanium valved exhaust system (HUR-EVO-SPYDER-SPEC) with Inconel 625 headers, 200-cell metallic catalytic converters, and electronically controlled bypass valves for a 12 dB increase in sound pressure at 4,500 RPM without drone. Weight reduction: -18 kg over OEM.",
+    "Suspension: Öhlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression) and Lamborghini-specific spring rates (14 kg/mm front, 18 kg/mm rear). Includes adjustable top mounts for camber/caster fine-tuning and a custom Moton hydraulic bump stop kit to prevent bottoming under extreme track use."
+  ],
+  "estetica": [
+    "Aero: Novitec Torado Spyder widebody kit (carbon fiber) with extended front fenders (+40mm), aggressive side skirts, and a rear diffuser with integrated Gurney flap. Includes a 3D-printed aluminum front splitter with integrated air curtains for -15% front lift at 200 km/h.",
+    "Wheels: HRE FF16 flow-formed forged wheels (20x9.5 ET35 front, 21x12.5 ET45 rear) in a custom satin bronze finish with Lamborghini-specific center-lock adapters. Tires: Pirelli P Zero Trofeo R (255/30 R20 front, 325/25 R21 rear) for maximum mechanical grip.",
+    "Interior: Alcantara-wrapped carbon fiber door cards with embroidered Lamborghini tricolor stitching, a custom 3D-printed titanium shift knob (for the 7-speed LDF dual-clutch), and a full carbon fiber roll cage (VRS Motorsport) with integrated fire suppression system (Lifeline Zero 360)."
+  ]
+}

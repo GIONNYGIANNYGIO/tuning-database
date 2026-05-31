@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "COUNTACH LPI 800-4 HERITAGE",
+  "prestazioni": [
+    "Engine: Replace the stock 6.5L L539 V12 hybrid (engine code: L539-H) with a bespoke Novitec-tuned version featuring forged Mahle pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a custom Novitec ECU remap optimizing the hybrid system's torque split (60% electric boost at 3,500 RPM) while retaining the stock 814 hp output but with a 20% increase in mid-range torque (550 Nm to 660 Nm at 4,200 RPM).",
+    "Forced Induction: Install a custom-built Rotrex C38-92 centrifugal supercharger kit (Lamborghini-specific mounting brackets) with a Novitec-designed intercooler (dual-core, 12-row, 100% aluminum) and a secondary electric water pump (Pierburg CWA 100) to maintain consistent intake temps under sustained 1.5-bar boost, pushing power to 1,050 hp on E85 fuel.",
+    "Suspension & Handling: Replace the stock magnetorheological dampers with a full Öhlins TTX46 coilover kit (Countach-specific valving, 24-click rebound, 22-click compression) paired with a custom-fabricated Novitec subframe brace (TIG-welded 4130 chromoly) and Pirelli P Zero Trofeo R tires (255/30 R20 front, 355/25 R21 rear) for a 15% reduction in unsprung weight and a 30% increase in lateral G-force capacity (1.4G to 1.82G)."
+  ],
+  "estetica": [
+    "Aerodynamics: Install the Novitec Countach Heritage-specific widebody kit (carbon fiber, 50mm extended fenders, functional NACA ducts for brake cooling) paired with a custom Novitec rear diffuser (3D-printed titanium mesh inserts) and a fixed carbon fiber rear wing (adjustable angle via hydraulic actuators, +200 kg downforce at 250 km/h).",
+    "Lighting: Replace the stock LED headlights with a custom Novitec laser-module retrofit (Osram PLPT9 450nm diodes, 600-meter range) and sequential turn signals (Philips Luxeon Z ES LEDs, 1,800-lumen output) integrated into the side mirrors, with a Novitec-designed adaptive beam pattern for track use.",
+    "Interior: Full Alcantara retrim (Rosso Mars, matching the Heritage livery) with Novitec carbon fiber door cards (exposed weave, red stitching), a custom Novitec roll cage (TIG-welded 4130 chromoly, bolt-in design for FIA compliance), and a bespoke Motec C187 dash display (replacing the stock cluster) with real-time hybrid system telemetry (battery voltage, electric motor torque split, regenerative braking efficiency)."
+  ]
+}

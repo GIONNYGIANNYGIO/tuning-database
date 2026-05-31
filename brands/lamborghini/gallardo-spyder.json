@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "GALLARDO SPYDER",
+  "prestazioni": [
+    "Engine: 5.0L V10 (L537-1, 5204cc) with a custom Novitec Rosso Stage 3 ECU flash, optimizing ignition timing and fuel maps for 650 HP at 8,200 RPM while retaining the factory 8,500 RPM redline. Includes a Novitec high-flow air intake with carbon fiber heat shields and a custom 90mm throttle body spacer to improve airflow dynamics.",
+    "Forced Induction: Twin Precision Turbo PT6266 CEA turbos (62mm compressor, 66mm turbine) with TiAL MV-R 44mm wastegates and TiAL Q 50mm blow-off valves. Custom Garrett intercoolers (front-mount, 12-row core) with 3-inch silicone charge pipes and a dual Bosch 044 fuel pump setup to support the increased airflow.",
+    "Suspension & Handling: Öhlins TTX46 coilovers with 2-way adjustable damping, custom valving for the Gallardo Spyder’s aluminum spaceframe, and Eibach ERS 1000N/mm springs. Full polybush kit from SuperPro (part #SPF5355K) for subframe and control arms, paired with a custom carbon fiber front strut brace from 991 Racing for chassis rigidity."
+  ],
+  "estetica": [
+    "Aero: Novitec Rosso 'Spyder-S' widebody kit (carbon fiber, bolt-on) with extended front fenders, aggressive side skirts, and a rear diffuser integrated with a custom dual-exit exhaust system (Inconel 625, 3.5-inch tips). Front splitter from 991 Racing with adjustable dive planes for downforce tuning.",
+    "Wheels & Brakes: HRE P101 20x9.5 (front) and 20x11.5 (rear) forged wheels with custom offsets (+25mm front, +35mm rear) to fill the widened arches. Wrapped in Michelin Pilot Sport Cup 2 R tires (245/30 R20 front, 305/25 R20 rear). Brembo GT-R 6-piston calipers (front) with 390mm two-piece rotors and Ferodo DS2500 pads for track use.",
+    "Interior & Exterior: Full Alcantara-wrapped dashboard and door cards (custom stitching in Giallo Midas) with a carbon fiber shift knob from Novitec Rosso. Custom LED taillight overlays (VLEDS 'Hyperflash' resistors) and a clear carbon fiber engine cover with a heat-resistant ceramic coating (Gyeon Quartz Ceramic Coating) for thermal management."
+  ]
+}

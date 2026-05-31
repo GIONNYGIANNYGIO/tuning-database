@@ -1,0 +1,14 @@
+{
+  "brand": "JAGUAR",
+  "model": "XJR-15",
+  "prestazioni": [
+    "Engine: Replace the stock 6.0L Jaguar JV6 (74-degree V12, derived from the Le Mans-winning XJR-9) with a fully built, dry-sumped version featuring forged Mahle pistons (9.0:1 CR), Carrillo H-beam connecting rods, and a billet steel crankshaft from Cosworth Racing (as used in the XJR-14 Group C car). Pair with a custom titanium valvetrain (Ferrea valves, titanium retainers, and solid lifters) and a bespoke camshaft profile from Kent Cams (290° duration, 12.5mm lift) for 8,500 RPM redline.",
+    "Forced Induction: Twin Garrett GT42R turbochargers (88mm compressor wheels, .96 A/R turbine housings) with custom Inconel exhaust manifolds by G&W Motorsports, feeding into a dual-inlet, water-to-air intercooler (PWR Advanced Cooling) with a 12-row core. Boost controlled via a Motec M150 ECU with anti-lag and launch control, targeting 1.5 bar (21.7 psi) for 850+ HP on VP Racing Q16 fuel.",
+    "Drivetrain: Reinforced Xtrac 6-speed sequential transaxle (P1046, as used in the Jaguar XJ220) with a carbon-fiber driveshaft and a Quaife ATB differential (80% lock). Clutch system upgraded to a twin-plate ceramic unit from Tilton Engineering (7.25\" diameter) with a hydraulic release bearing and a custom bellhousing adapter for the JV6 engine."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon-fiber body kit by Kato Works (Japan), replicating the 1991 Le Mans XJR-12’s aero package, including a 3-piece front splitter with adjustable dive planes, a rear diffuser with integrated Gurney flap, and a fixed rear wing (2-element, 1,200mm span) with carbon-fiber endplates. Underbody features a full-length venturi tunnel with NACA ducts for brake cooling.",
+    "Wheels & Tires: OZ Racing Ultra Leggera III wheels (18x12 front, 18x13 rear) in a custom gold finish, wrapped in Michelin Pilot Sport Cup 2 R tires (345/35 R18 front, 385/30 R18 rear). Brake system features AP Racing 6-piston calipers (front) and 4-piston calipers (rear) with carbon-ceramic rotors (380mm front, 355mm rear) from Surface Transforms.",
+    "Interior: Full FIA-spec roll cage by Safety Devices (8-point, T45 steel) with integrated fire suppression system (Lifeline Zero 360). Seats replaced with Sparco Pro 2000 carbon-fiber shells, trimmed in Alcantara with custom Jaguar Racing green stitching. Steering wheel is a MOMO Prototipo (350mm diameter) with a quick-release hub and integrated Motec C127 dash display."
+  ]
+}

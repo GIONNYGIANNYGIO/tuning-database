@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "JALPA",
+  "prestazioni": [
+    "Engine: 3.5L V8 (engine code: **L220**), naturally aspirated, 90° bank angle – full rebuild with **JE Pistons 87.5mm forged slugs (22.5:1 compression ratio)** and **Carrillo H-beam connecting rods** for 8,500 RPM reliability. Pair with **Weber 44 IDF carburetors (blueprinted by Redline Wealth)** and **Schenk high-flow fuel pumps** to support 320+ HP at the crank.",
+    "Drivetrain: **Hewland FGA 5-speed dog-ring gearbox** (Lamborghini OEM spec) with **Quaife ATB differential (85% lock)** and **Tilton twin-plate ceramic clutch (7.25\" diameter)** for 0-60 mph in 4.8s. Replace OEM half-shafts with **GKN CV joints (22-spline, 300M steel)** to handle torque spikes.",
+    "Suspension & Chassis: **Öhlins TTX40 coilovers (2-way adjustable, 300 lb/in springs)** with **Eibach anti-roll bars (22mm front, 18mm rear)** and **SuperPro poly bushings (full chassis refresh)**. Reinforce the **Lamborghini Tipo 131 chassis** with **Custom Cages UK bolt-in roll cage (T45 steel, 3.2mm wall thickness)** and **AP Racing CP5550 front brake calipers (4-piston, 330mm discs)** with **Ferodo DS2500 pads**."
+  ],
+  "estetica": [
+    "Body: **Rocket Bunny V1 Jalpa widebody kit (Pandem carbon fiber, +120mm rear track)** with **custom front splitter (3D-printed PETG, 3\" overhang)** and **Voltex GT-Wing (Type 3, 1,700mm span, 30° angle)**. Paint: **PPG Lamborghini Verde Ithaca (custom mixed with metallic flake)** with **3M Matte Black vinyl roof wrap**.",
+    "Wheels: **BBS RS-GT II (16x9.5 +25 ET, 16x11 +35 ET)** in **Gold PVD finish** with **Pirelli P Zero Corsa (225/50R16 front, 285/40R16 rear)**. Lug nuts: **Project Kics R40 (M12x1.5, closed-end, titanium)**.",
+    "Interior: **Recaro Pole Position seats (carbon fiber backs, Alcantara inserts)** with **Schroth 6-point harnesses (ASM2)**. Steering wheel: **Momo Prototipo (350mm, suede, quick-release)**. Gauges: **Defi Advance BF (oil temp, oil pressure, fuel pressure, 300kPa boost gauge)** mounted on **Custom Cages A-pillar pod (carbon fiber)**."
+  ]
+}

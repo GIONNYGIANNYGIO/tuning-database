@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "GALLARDO LP570-4 SUPER TROFEO",
+  "prestazioni": [
+    "Engine: 5.2L V10 (L539) naturally aspirated with a custom Motec M150 ECU reflash optimized for Super Trofeo-spec fuel mapping (102 RON race fuel), increasing peak power to 600 HP at 8,500 RPM and torque to 430 lb-ft at 6,500 RPM via aggressive cam timing (292° intake / 288° exhaust) and ported cylinder heads by Autotecnica Motori (Italy).",
+    "Forced induction: Garrett GT35R turbo kit (single-turbo conversion) with a custom 3.5-inch stainless steel exhaust manifold by Novitec Torado, paired with a Tial MV-R 44mm wastegate and a 76mm titanium downpipe (no catalytic converters) for a 1.5-bar boost target, supported by a PWR radiator and a Setrab 50-row oil cooler to maintain 95°C oil temps under track conditions.",
+    "Suspension: Öhlins TTX40 3-way adjustable coilovers with Super Trofeo-spec valving, custom 10K front / 12K rear springs by Hyperco, and spherical bearing top mounts by Cusco. Chassis reinforcement via a full bolt-in roll cage by Matter Italy (FIA-approved, 4-point harness bar) and a carbon fiber front strut brace by 991 Racing, reducing flex by 32% under lateral G-forces."
+  ],
+  "estetica": [
+    "Aerodynamics: Full Super Trofeo Stradale aero kit by Prior Design, including a carbon fiber front splitter with integrated dive planes (22% more downforce at 120 mph), a GT3-spec rear diffuser by Novitec, and a fixed carbon fiber rear wing (1,200mm span) with adjustable angle of attack (0° to +12°) for high-speed stability. Underbody: Flat floor conversion by Capristo with rear diffuser strakes for 45 kg of additional downforce at 150 mph.",
+    "Exterior: Full carbon fiber body conversion by Mansory (Vivere package), including a custom front bumper with dual 80mm carbon fiber air intakes for brake cooling, side skirts with integrated NACA ducts for rear tire heat management, and a carbon fiber engine cover with a central ram-air scoop. Paint: Lamborghini Verde Ithaca (custom pearlescent) with matte black forged OZ Racing Leggera HLT wheels (19x9.5 ET30 front / 19x12 ET40 rear) wrapped in Pirelli P Zero Trofeo R tires (245/35 R19 front / 305/30 R19 rear).",
+    "Interior: Full Alcantara-wrapped Recaro SPG-KL bucket seats (FIA 8862-2009 certified) with Schroth 6-point harnesses, a carbon fiber dashboard overlay by V Carbon, and a custom Motec C127 digital dash replacing the stock cluster. Steering wheel: MOMO Mod.70 Super Trofeo (flat-bottom, Alcantara) with integrated quick-release hub and paddle shifters for the E-gear transmission (reflashed for 80ms shift times)."
+  ]
+}

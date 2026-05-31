@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "INVENCIBLE",
+  "prestazioni": [
+    "Engine: 6.5L V12 (L539) with a custom Novitec-engineered forged internals package, including billet crankshaft, Carrillo H-beam connecting rods, and Mahle Motorsport forged pistons (12.5:1 compression ratio) to handle 900+ HP on 100-octane fuel with a Motec M150 ECU managing direct port methanol injection (Snow Performance Stage 3 kit) and a custom dry-sump oiling system (Dailey Engineering) for sustained high-G cornering.",
+    "Forced Induction: Twin Precision Turbo PT6766 CEA turbochargers (67mm inducer, 66mm exducer) with billet compressor wheels, custom 4.5\" V-band downpipes (custom-fabricated by Armytrix), and a dual-core PWR intercooler with 1,200 CFM airflow capacity, paired with a TiAL MV-R 50mm wastegate and TiAL Q 44mm blow-off valve for instantaneous spool and zero lag.",
+    "Suspension & Chassis: Full Ohlins TTX46 coilover system with 3-way adjustable damping (compression, rebound, and high-speed compression), custom valving for the Invencible’s carbon-fiber monocoque, and spherical bearing upper mounts (Tractive Suspension). Front and rear anti-roll bars upgraded to 22mm adjustable units (Eibach Pro-Race) with uniball end links (SuperPro). The entire setup is corner-weighted on a Longacre digital scale for optimal balance."
+  ],
+  "estetica": [
+    "Aerodynamics: Full Liberty Walk LB-WORKS widebody kit (Invencible-specific design) with extended carbon-fiber fenders (3.5\" wider front, 4.2\" wider rear), custom front splitter with integrated canards (Vorsteiner-style but Invencible-exclusive), and a massive GT-wing (Voltex Type-7, 1,800mm span) mounted on carbon-fiber pedestals with adjustable angle of attack (0-15 degrees). Underbody features a custom 3D-printed diffuser (Aeroflow Dynamics) with active Gurney flaps controlled by the Motec ECU.",
+    "Exterior Styling: Full 3M Matte Graphite vinyl wrap with custom metallic flakes (applied by Avery Dennison-certified installer), Invencible-exclusive front grille with laser-etched Lamborghini Raging Bull emblem (replaced with a titanium mesh insert by Novitec), and custom LED headlights (Lux HID) with sequential turn signals (Morimoto). Side mirrors replaced with carbon-fiber units (Seibon) featuring integrated blind-spot cameras (Garmin).",
+    "Wheels & Brakes: Custom HRE FF16 flow-formed wheels (20x10.5\" front, 21x12.5\" rear) with titanium hardware (ARP), wrapped in Michelin Pilot Sport Cup 2 R tires (265/30/20 front, 325/25/21 rear). Braking system upgraded to a full AP Racing Radi-CAL kit with 405mm front and 380mm rear carbon-ceramic rotors, 6-piston front and 4-piston rear calipers (gold anodized), and custom braided stainless-steel lines (Goodridge). Calipers feature laser-engraved \"Invencible\" script."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "GALLARDO LP560-4",
+  "prestazioni": [
+    "Engine: 5.2L V10 (L539) with a custom Motec M150 ECU remap targeting 650 HP at 8,500 RPM and 450 lb-ft of torque at 6,500 RPM, utilizing a bespoke fuel system upgrade with dual Bosch Motorsport 044 high-flow fuel pumps and ID1000 injectors for E85 compatibility, paired with a custom 3.5-inch titanium exhaust system by Capristo featuring 200-cell catalytic converters for emissions compliance without power loss",
+    "Forced Induction: Garrett GTX3582R turbocharger with a custom billet compressor wheel (76mm inducer, 106mm exducer) and a Tial MV-R 44mm external wastegate, mated to a custom air-to-water intercooler system by PWR with a 4.5L capacity and a Bosch Motorsport water pump for consistent intake temperatures under 40°C at 1.5 bar boost pressure",
+    "Suspension & Handling: Öhlins TTX46 coilovers with 2-way adjustable damping and 10-position rebound adjustment, paired with Lamborghini-specific spherical bearing control arms by 034Motorsport, and a custom front sway bar by H&R (24mm solid) to eliminate understeer, complemented by a rear carbon fiber strut brace by AutoPower Industries for chassis rigidity"
+  ],
+  "estetica": [
+    "Aerodynamics: Full Rocket Bunny LP560-4 widebody kit with carbon fiber overfenders (30mm wider front, 40mm wider rear), a custom front splitter with integrated canards by Varis, and a GT3-style rear diffuser by Novitec Torado with active Gurney flap for adjustable downforce",
+    "Wheels & Brakes: HRE FF01 wheels in 9.5x19 ET30 (front) and 12x20 ET40 (rear) with custom titanium wheel bolts by ARP, wrapped in Michelin Pilot Sport Cup 2 R tires (245/35 R19 front, 305/30 R20 rear), paired with a full carbon-ceramic brake system by Brembo GT-R with 400mm front rotors and 6-piston calipers, featuring custom gold anodized caliper pistons",
+    "Exterior & Interior: Full custom paint in Lamborghini Verde Ithaca with a matte clear coat by Sikkens, featuring a bespoke vinyl overlay by Avery Dennison in a geometric pattern for heat dissipation, and a full Alcantara interior retrim by Sabelt with custom embroidered headrests in Verde Ithaca stitching, including a carbon fiber shift knob by TWM Performance and a custom digital dash overlay by AIM MXS Strada"
+  ]
+}

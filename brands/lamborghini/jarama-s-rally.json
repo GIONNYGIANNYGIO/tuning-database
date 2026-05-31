@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "JARAMA S RALLY",
+  "prestazioni": [
+    "Engine: 4.0L V12 (L312, 60° DOHC, 24-valve) with forged internals including Carrillo H-beam connecting rods, JE 12.5:1 compression forged pistons, and a billet crankshaft from Manley Performance. Full balanced rotating assembly with ARP main studs and head studs for 1,200+ HP capability under forced induction.",
+    "Forced Induction: Twin Precision Turbo PT6266 CEA ball-bearing turbos with 3D-printed Inconel 625 exhaust housings (custom by TurboSmart) and TiAL MV-R 44mm wastegates. Custom air-to-water intercoolers (PWR) with dual Bosch 044 fuel pumps and ID1000x injectors for E85 compatibility. Custom ECU mapping via Motec M150 with flex-fuel sensor and individual cylinder knock control.",
+    "Suspension & Drivetrain: Full custom rally-spec suspension with Öhlins TTX40 3-way adjustable coilovers (remote reservoirs) and spherical bearing conversion for all control arms (using Aurora Bearing rod ends). Custom fabricated tubular subframes (T45 steel) with integrated skid plates (6mm Alucobond). Quaife ATB differential with 4.88:1 gearing and a Sachs twin-disc clutch (ceramic) for 1,000+ Nm torque capacity."
+  ],
+  "estetica": [
+    "Body: Full carbon-fiber widebody conversion (custom by RWB Japan) with bolt-on fender flares (2.5-inch wider front, 3-inch wider rear) and integrated rally-style mud guards (carbon-Kevlar composite). Custom front splitter and rear diffuser by APR Performance, with active aero via a hydraulic rear wing (DTM-style, adjustable via cockpit switch).",
+    "Lighting: Full LED conversion with Hella Rallye 3000 spotlights (4x front, 2x rear) and Cibie Oscar rally fog lights. Custom laser-cut aluminum light guards (anodized gold) with integrated LED turn signals (Luxxen).",
+    "Interior: Full rally-spec cage (TIG-welded 4130 chromoly, FIA-approved) with Sparco Pro 2000 seats (HANS-compatible) and Schroth 6-point harnesses. Custom dashboard with Motec C127 display, integrated fire suppression system (Lifeline Zero 360), and carbon-fiber door cards with quick-release handles (Sabelt)."
+  ]
+}

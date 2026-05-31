@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "HURACAN NOVITEC",
+  "prestazioni": [
+    "Novitec-engineered L539 5.2L V10 (90° naturally aspirated) Stage 3 ECU remap with custom fueling tables, raising output to 780 HP at 8,600 RPM and 560 lb-ft of torque at 6,500 RPM via Motec M150 standalone ECU with individual cylinder trims and launch control optimized for Pirelli P Zero Trofeo R tires",
+    "Novitec-tuned titanium exhaust system featuring Inconel 625 headers, 200-cell catalytic converters, and electronically controlled bypass valves, reducing weight by 22 kg while increasing exhaust gas velocity for a 12% improvement in throttle response at 4,500 RPM",
+    "Novitec-specific KW Suspension Clubsport coilovers with 3-way adjustable damping (compression, rebound, and low-speed rebound), 20mm adjustable ride height, and spherical bearing top mounts, paired with Novitec-engineered 20mm front and 25mm rear anti-roll bars for a 35% reduction in body roll during high-G cornering (validated on Nürburgring GP circuit)"
+  ],
+  "estetica": [
+    "Novitec Torado widebody kit with carbon fiber front fenders (extended 30mm per side), rear quarter panels (extended 40mm per side), and custom aluminum reinforcement plates for chassis rigidity, designed for 20\" front and 21\" rear Novitec NF10 wheels with 255/30 ZR20 and 325/25 ZR21 Pirelli P Zero Trofeo R tires",
+    "Novitec carbon fiber front splitter with integrated air curtains and a 3D-printed titanium support structure, reducing front lift by 40% at 250 km/h (validated in Dallara wind tunnel), paired with a Novitec rear diffuser featuring active Gurney flaps and dual carbon fiber strakes for a 15% increase in rear downforce",
+    "Novitec-specific Alcantara and carbon fiber interior package, including a custom roll cage with integrated fire suppression system (Novec 1230), carbon fiber door cards with laser-etched Lamborghini logos, and a Novitec-tuned Harman Kardon Logic 7 audio system with 1,200W amplifier and 16 speakers (including 2x 10\" subwoofers in the rear firewall)"
+  ]
+}

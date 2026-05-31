@@ -1,0 +1,15 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "HURACAN STO EVO2",
+  "prestazioni": [
+    "Engine: L539 5.2L V10 (naturally aspirated) with a custom Novitec Rosso Stage 3 ECU reflash, optimizing ignition timing and fuel maps for +80 HP (720 HP total) while retaining OEM reliability. Includes a Novitec-specific carbon fiber intake manifold with integrated velocity stacks for improved throttle response at 8,500 RPM.",
+    "Exhaust: Capristo 3.0-inch titanium exhaust system with electronically controlled bypass valves, featuring a Lamborghini-specific X-pipe design to enhance V10 exhaust note tuning (102 dB at 7,000 RPM). Includes Capristo’s proprietary Inconel 625 headers for weight reduction (-12 kg) and improved scavenging.",
+    "Suspension: Öhlins TTX46 MkII coilovers with Lamborghini STO-specific valving, adjustable in 24 clicks for compression and rebound. Paired with a custom Novitec front strut brace (aluminum 7075-T6) and a Lamborghini Motorsport rear subframe reinforcement kit to eliminate flex under lateral loads exceeding 1.5G.",
+    "Drivetrain: Wavetrac limited-slip differential with a 40% lockup bias under power, paired with a Novitec lightweight flywheel (40% lighter than OEM) and a Sachs Performance twin-disc clutch (rated for 900 Nm torque). Includes a Lamborghini STO-specific Quaife ATB helical differential for improved corner exit traction."
+  ],
+  "estetica": [
+    "Aero: Novitec Rosso ‘STO EVO2’ widebody kit, featuring carbon fiber front fenders with integrated NACA ducts for brake cooling, a revised rear diffuser with Gurney flaps (increases downforce by 18% at 200 km/h), and a custom Novitec rear wing extension (30mm taller than OEM) with adjustable angle of attack (0-12 degrees).",
+    "Wheels: HRE FF16 flow-formed wheels in a 20x9.5 (front) and 21x12.5 (rear) setup, wrapped in Pirelli P Zero Trofeo R tires (255/30 R20 front, 355/25 R21 rear). Includes HRE’s titanium wheel bolts (-40g per wheel) and Lamborghini STO-specific center-lock adapters for faster pit stops.",
+    "Interior: Novitec Rosso carbon fiber racing seats (FIA 8862-2009 certified) with Schroth 6-point harnesses, a custom MOMO Prototipo steering wheel (suede-wrapped with Lamborghini STO-specific paddle shifters), and a Motec C127 dash logger with GPS lap timing and OBD-II integration for real-time engine telemetry."
+  ]
+}

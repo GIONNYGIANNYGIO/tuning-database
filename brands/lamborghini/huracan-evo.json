@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "HURACAN EVO",
+  "prestazioni": [
+    "Manthey Racing MRX-016 ECU recalibration for the L539 5.2L V10 (naturally aspirated), optimizing ignition timing and fuel maps for 680+ HP on 100-octane fuel while retaining OEM torque curve smoothness and throttle response via Motec M150 data logging integration",
+    "Novitec Torado L539-specific CNC-machined titanium connecting rods (H-beam, 4340 steel) with ARP L19 rod bolts and Mahle Motorsport forged pistons (9.5:1 compression ratio) paired with a Novitec billet crankshaft damper to handle 9,000 RPM redline reliability",
+    "BMC Racing F1-style carbon fiber high-flow air intake system with dual 90mm velocity stacks, heat-reflective ceramic coating, and integrated IAT sensors for consistent 5.2L V10 airflow at 1,200 CFM, paired with a custom Novitec 3.5-inch titanium exhaust system with electronically controlled bypass valves and Akrapovič titanium mufflers for 98dB track compliance"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit for Huracan Evo (carbon fiber, 50mm extended fenders, aggressive front splitter with canards, and a ducktail spoiler) finished in Lamborghini Verde Mantis with custom PPF clear bra wrap",
+    "OMP Carbon Kevlar racing seats (Huracan Evo-specific mounting brackets) with Schroth 6-point harnesses and a Novitec carbon fiber steering wheel (380mm diameter, Alcantara grip, integrated Motec C127 dash display)",
+    "Vorsteiner V-FF 107 20-inch forged wheels (front: 9.5x20 ET35, rear: 12.5x20 ET45) in matte gold with Pirelli P Zero Trofeo R tires (245/30 R20 front, 305/30 R20 rear) and KW Suspensions Clubsport 3-way adjustable coilovers with Ohlins TTX40 dampers for track-focused alignment (-3.5° front camber, -2.8° rear camber)"
+  ]
+}

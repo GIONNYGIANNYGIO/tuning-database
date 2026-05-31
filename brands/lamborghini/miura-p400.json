@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "MIURA P400",
+  "prestazioni": [
+    "Engine: Replace the original 3.9L *L360* V12 with a fully balanced and blueprinted *L360* block using forged Mahle pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from JE Pistons for 8,500 RPM reliability. Pair with a custom Schrick 292° camshaft profile (intake/exhaust) and titanium retainers from Ferrea Racing to optimize airflow for high-RPM power delivery.",
+    "Induction: Replace the original Weber 40IDL3C carburetors with a custom-built ITB (Individual Throttle Body) system from Jenvey Dynamics, featuring 45mm throttle bodies and a custom intake manifold fabricated from 6061-T6 aluminum, paired with a K&N high-flow conical air filter setup for each cylinder bank. Integrate a Haltech Elite 2500 ECU for precise fuel and ignition mapping, with individual cylinder tuning capability.",
+    "Exhaust: Fabricate a 3.5-inch stainless steel exhaust system using headers from Stainless Works, featuring equal-length 1.75-inch primary tubes merging into a 3.5-inch collector, terminating in a custom-built dual-mode muffler from MagnaFlow with electronically controlled butterfly valves for adjustable backpressure (track vs. street modes). The system must retain the original Miura’s side-exit exhaust tips for aesthetic compliance."
+  ],
+  "estetica": [
+    "Body: Install a full carbon fiber body kit from RWB (Rauh-Welt Begriff) designed exclusively for the Miura P400, including widened fenders (2.5-inch flares), a custom front splitter with integrated canards, and a ducktail rear spoiler. The kit must be hand-laid in 2x2 twill weave carbon fiber and clear-coated for a high-gloss finish.",
+    "Wheels: Equip the car with custom 18x9.5 (front) and 18x11 (rear) forged aluminum wheels from BBS (LM-R design), wrapped in Michelin Pilot Sport Cup 2 tires (245/35/18 front, 295/30/18 rear). The wheels must feature a gold-painted center lock and polished lip, with custom spacers to achieve a 5mm flush fitment with the RWB fenders.",
+    "Interior: Replace the original leather seats with custom Recaro Pole Position seats (carbon fiber shell, Alcantara upholstery) and a full roll cage from Matter Fab, integrated with a Schroth 6-point harness system. The dashboard must be retrofitted with a digital instrument cluster from Motec (C127 display) while retaining the original Miura’s wood-rimmed Nardi steering wheel, wrapped in Alcantara for grip."
+  ]
+}

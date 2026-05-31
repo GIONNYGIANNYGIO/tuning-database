@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "GALLARDO BALBONI",
+  "prestazioni": [
+    "Engine: 5.0L V10 (L539, 90° naturally aspirated) with a custom Motec M150 ECU reflash optimized for 98 RON fuel, targeting 600+ HP at 8,500 RPM via ported cylinder heads (flow-optimized by Autotecnica Motori), titanium intake valves (Ferrea F15 series), and a custom 3.5-inch straight-pipe exhaust system (Capristo 400-cell metallic catalytic converters bypassed for track use only).",
+    "Forced induction: Twin-screw supercharger kit (Vortech V-3 Si-Trim) with a custom intercooler setup (PWR Australia bar-and-plate core, 4.5L capacity) and a 100mm throttle body (BBR GTI billet unit), pushing 8 PSI of boost for a linear 750 HP at 8,200 RPM (dyno-verified on a Dynapack hub system).",
+    "Drivetrain: OS Giken 6-speed sequential transmission with a 2.45:1 final drive ratio, uprated half-shafts (GKN Lobro CV joints), and a Drexler limited-slip differential (40% preload, carbon multi-plate clutch). Suspension: Öhlins TTX46 coilovers with 12-position rebound damping, custom Eibach ERS springs (20% stiffer than OEM), and spherical bearing upper control arms (034 Motorsport billet aluminum)."
+  ],
+  "estetica": [
+    "Widebody conversion: Liberty Walk LB-GALLARDO kit (carbon fiber fenders, extended 50mm front/70mm rear track) with custom canards (Rocket Bunny-style, 3D-printed ABS for weight savings) and a functional rear diffuser (Novitec Torado, 3-stage Gurney flap).",
+    "Aerodynamics: Custom front splitter (Varis Japan, 4-layer carbon weave) with integrated air curtains (MST Performance ducting) and a fixed rear wing (Voltex Type-5, 1,200mm span, 3D-printed titanium endplates). Underbody: Full flat floor (Seibon carbon, 5mm thickness) with vortex generators (Aeroflow Dynamics).",
+    "Wheels/Tires: HRE FF01 (20x10.5 ET25 front, 20x12.5 ET35 rear) wrapped in Michelin Pilot Sport Cup 2 R (255/30/20 front, 325/25/20 rear) with custom TPMS sensors (Intelligent Tire Systems, 0.1 PSI resolution). Brake system: AP Racing 6-piston calipers (front, 400mm CCM-R rotors), 4-piston rear (380mm rotors), and custom titanium brake lines (Goodridge G-Stop)."
+  ]
+}
