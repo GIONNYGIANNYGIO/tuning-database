@@ -1,0 +1,14 @@
+{
+  "brand": "KIA",
+  "model": "PICANTO GT",
+  "prestazioni": [
+    "Engine: Replace the stock 1.0L Kappa II T-GDI (G3LC) turbocharged inline-3 with a **Garrett GT1549S turbocharger** (hybridized with a billet compressor wheel for 0.5 bar peak boost) to push power from 100hp to 180hp at 6,500 RPM, paired with a **Kelford 264° camshaft** (intake/exhaust) for optimized top-end flow and a **Toda Racing 1.3mm head gasket** to prevent detonation under sustained load.",
+    "Fuel System: Upgrade to a **Bosch Motorsport 0261500360 high-pressure fuel pump** (250 bar) and **ID1000x injectors** (1,000cc/min) to support the increased airflow, with a **Syvecs S6GP standalone ECU** (pre-loaded with a Kia Picanto GT-specific base map) for real-time lambda and knock control via **Innovate Motorsports LC-2 wideband O2 sensor**.",
+    "Drivetrain: Install a **OS Giken Super Lock LSD** (2.5-way) in the stock 5-speed manual transmission housing, paired with **PPG 1st-4th gear sets (2.91, 1.95, 1.37, 1.03 ratios)** and a **South Bend Clutch Stage 3+ twin-disc clutch** (240mm) with a **Perrin lightweight flywheel** (3.2kg) to handle the torque spike without drivetrain shock."
+  ],
+  "estetica": [
+    "Aero: Fit a **Varis Picanto GT-specific front splitter** (carbon fiber, 30mm overhang) with **custom 3D-printed ABS side skirts** (modeled after the Kia Stinger GT’s aggressive rocker panels) and a **Seibon Carbon Picanto GT rear diffuser** (integrated with a **Borla 2.5\" cat-back exhaust** featuring dual 90mm titanium tips).",
+    "Suspension: Replace the OEM setup with **Ohlins Road & Track DFV coilovers** (adjustable compression/rebound, 30-way damping) and **SuperPro poly bushings** (front control arms, rear trailing arms) to eliminate compliance, paired with **H&R 20mm front / 15mm rear anti-roll bars** to reduce body roll by 40%.",
+    "Wheels/Stance: Mount **Enkei PF07 16x7 +38 wheels** (7.5kg each) wrapped in **Michelin Pilot Sport Cup 2 R tires (205/40R16)** for track-focused grip, with **BC Racing BR coilover collars** adjusted to a -25mm front / -20mm rear ride height (aggressive but functional for daily driving)."
+  ]
+}

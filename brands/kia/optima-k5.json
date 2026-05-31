@@ -1,0 +1,14 @@
+{
+  "brand": "KIA",
+  "model": "OPTIMA K5",
+  "prestazioni": [
+    "Turbocharger upgrade to Garrett GTX3582R Gen II for the 2.5L Turbo GDI engine (G4KL), supporting 400whp on E30 fuel with a custom BorgWarner 46.5mm wastegate and 1000cc ID injectors from Injector Dynamics",
+    "Full bolt-on forced induction kit for the G4KL, including a custom 3.5-inch stainless steel intercooler piping system from Vibrant Performance, paired with a CSF Racing 5507 radiator and a Koyorad 34-row front-mount intercooler",
+    "ECU reflash via K-Tuner V2.0 for the G4KL, optimizing ignition timing, fuel maps, and VVT for 93 octane with a flex-fuel sensor from Continental, paired with a custom 3-inch downpipe from MagnaFlow (catless for track use)"
+  ],
+  "estetica": [
+    "Liberty Walk LB-WORKS widebody conversion kit (K5-specific, 2021+ models) with custom carbon fiber fender flares and extended wheel arches to fit 19x10.5 ET25 front and 19x12 ET45 rear wheels from Work Emotion CR Kiwami",
+    "Full Rocket Bunny V2 aero kit (K5-specific), including front bumper lip, side skirts, and rear diffuser, all in raw carbon fiber with a custom 3M Matte Graphite vinyl wrap over the OEM paint",
+    "Custom rear wing from Seibon Carbon, modeled after the 992 GT3 RS ducktail, mounted on a custom aluminum pedestal with adjustable angle (0-15 degrees) and a 3D-printed ABS endplate for reduced drag"
+  ]
+}

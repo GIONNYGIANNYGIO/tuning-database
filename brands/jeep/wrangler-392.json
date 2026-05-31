@@ -1,0 +1,14 @@
+{
+  "brand": "JEEP",
+  "model": "WRANGLER 392",
+  "prestazioni": [
+    "Engine: Replace the stock 6.4L HEMI (engine code: ESG) with a stroked 7.0L version using a K1 Technologies forged crankshaft (4.125\" stroke), Mahle Motorsport forged pistons (10.5:1 compression), and Manley H-beam connecting rods for 650+ WHP on E85 with a custom camshaft from Comp Cams (281°/289° duration, .624\"/.630\" lift, 114° LSA).",
+    "Forced Induction: Install a ProCharger P-1SC-1 supercharger kit with a custom intercooler setup (VMP Racing front-mount intercooler, 4-core, 1,200 CFM) and a Tial 44mm wastegate to manage boost at 10 PSI, paired with a Fuelab dual-feed fuel pump and ID1700x injectors for E85 compatibility.",
+    "Drivetrain: Swap the stock 8HP75 transmission for a ZF 8HP95 with a Level 10 torque converter (3,800 RPM stall) and a custom driveshaft from Tom Wood’s Custom Driveshafts (3.5\" aluminum, 1350 U-joints). Upgrade the Dana 44 axles with Yukon Gear 5.13:1 ring & pinion sets, ARB Air Locker differentials, and Chromoly axle shafts from RCV Performance."
+  ],
+  "estetica": [
+    "Body: Install a Raw Designs JL Wrangler widebody kit (6\" fender flares, carbon fiber hood with functional heat extractors) and a custom front bumper from Poison Spyder (with integrated Baja Designs LP9 auxiliary lights and a Warn Zeon 12-S winch).",
+    "Suspension: Replace stock suspension with a Rock Krawler 3.5\" X-Factor Stage 3 long-arm kit (with Fox 2.5\" DSC coilovers and remote reservoirs) and TeraFlex JK/JL HD adjustable track bars for improved articulation and off-road stability.",
+    "Wheels/Tires: Mount 17x9 Fuel Trophy wheels (offset +12mm) with 37x12.5R17 Nitto Ridge Grappler tires, paired with a custom hydraulic lift system from GenRight Off-Road for additional clearance when needed."
+  ]
+}

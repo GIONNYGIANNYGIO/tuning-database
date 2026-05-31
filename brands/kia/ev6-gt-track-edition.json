@@ -1,0 +1,14 @@
+{
+  "brand": "KIA",
+  "model": "EV6 GT TRACK EDITION",
+  "prestazioni": [
+    "Upgrade to a **Hyundai/Kia Electric Global Modular Platform (E-GMP) high-performance inverter** with **Wolfspeed SiC MOSFETs** (rated for 800V/600kW peak) and a **custom AEM EV VCU (Vehicle Control Unit)** reflash to optimize torque vectoring for the **front/rear dual-motor (PE21) setup**, increasing power from 577hp to **680hp (507kW) with 740 lb-ft (1,003 Nm) of torque** while maintaining 0-60 mph in **2.9s** (vs. stock 3.4s).",
+    "Installation of a **Molicel P42A 21700 battery cell upgrade** (460Wh/kg energy density) with **custom liquid-cooled busbars** and a **Porsche Taycan-derived 800V thermal management system** (using **Mahle JouleBoost heat pumps**) to reduce battery degradation during track use and enable **30-minute fast-charging from 10% to 80% in under 12 minutes** at 350kW stations.",
+    "Fitting of **Ohlins TTX46 MkII coilovers** with **3-way adjustable damping (compression/rebound/low-speed)** and **Motul 300V Trophy 10W-60 ester-based shock fluid**, paired with **KW Automotive Clubsport camber plates** (adjustable to -4.5° front, -3.8° rear) and **HRE FF16 flow-formed wheels (20x10 ET35 front, 21x11.5 ET40 rear)** wrapped in **Michelin Pilot Sport Cup 2 R tires (275/35 R20 front, 325/30 R21 rear)** for maximum mechanical grip."
+  ],
+  "estetica": [
+    "Application of a **Liberty Walk LB-WORKS EV6 GT widebody kit** (carbon fiber fenders, front/rear bumpers, and side skirts) with **custom 3D-printed ABS diffuser inserts** to improve high-speed stability, reducing lift by **22% at 120 mph** per KW wind tunnel testing.",
+    "Installation of a **Seibon Carbon full carbon fiber hood** (with **dual NACA ducts** feeding the **front-mounted radiator and inverter cooling system**) and a **Rocket Bunny rear wing (Type 3, 1,800mm width)** with **Gurney flap adjustability (0-15mm range)** and **integrated LED brake light strip** for track compliance.",
+    "Full **PPF (Paint Protection Film) wrap in XPEL Stealth matte finish** with **custom laser-cut graphics** (inspired by the **Hyundai N Vision 74** concept) and **Brembo GT 6-piston calipers (front) / 4-piston (rear) painted in **PPG Porsche GT3 RS Miami Blue** with **gold anodized pistons** for a motorsport aesthetic."
+  ]
+}

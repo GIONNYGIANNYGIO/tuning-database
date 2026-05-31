@@ -1,0 +1,14 @@
+{
+  "brand": "JAGUAR",
+  "model": "XJR-11",
+  "prestazioni": [
+    "Upgrade to a **Garrett GT35R turbocharger (84mm inducer, 1.06 A/R turbine housing)** for the **Jaguar AJ26T (6.0L V12 twin-turbo, engine code: 72B)** to push boost from 0.7 bar (stock) to 1.2 bar, paired with a **Tial MV-R 44mm external wastegate** to prevent over-boost. Requires custom **JE Pistons forged 9.5:1 compression slugs** and **Manley H-beam connecting rods** to handle the increased cylinder pressure (target: 750+ hp at the crank).",
+    "Full **Motec M150 ECU standalone management** with **Bosch Motorsport 0280158862 1,000cc/min injectors** and a **Radium Engineering dual-catch can system** to eliminate oil vapor ingestion under sustained high-RPM boost (critical for the AJ26T’s dry-sump lubrication). Pair with a **Pectel SQ6M lambda controller** for closed-loop AFR targeting 11.8:1 under full load.",
+    "Replace the stock **ZF 5HP24 5-speed automatic** with a **Holinger RD6 sequential gearbox (dog-ring, 6-speed)** mated to a **Tilton triple-plate carbon clutch** and **Quaife ATB differential (80% lock)**. Requires a **custom bellhousing adapter (Jaguar to Holinger)** and **GForce Racing carbon driveshaft** to handle the torque spike (650+ lb-ft). Suspension-wise, fit **Öhlins TTX40 3-way adjustable coilovers** with **Eibach ERS springs (12kg/mm front, 14kg/mm rear)** and **SuperPro poly bushings** to eliminate subframe flex under hard acceleration."
+  ],
+  "estetica": [
+    "Full **Liberty Walk LB Works XJR-11 widebody kit** (carbon fiber, 50mm wider front fenders, 70mm rear) with **custom 3D-printed ABS inner fender liners** to clear the **Work Meister S1 3P 18x11 ET12 (front) and 18x12 ET5 (rear)** wheels, wrapped in **Michelin Pilot Sport Cup 2 R (285/35/18 front, 335/30/18 rear)**. Requires **custom wheel spacers (15mm front, 25mm rear)** to fill the arches.",
+    "Replace the stock **Jaguar XJR-11 rear wing** with a **Voltex Type-5 GT wing (1,800mm width, 300mm chord, 3D carbon)** mounted on **custom aluminum pedestals** to clear the **AEM Performance carbon fiber engine cover**. Front end gets a **Seibon carbon fiber hood (with NACA ducts)** and **custom aluminum radiator support** to fit a **Setrab 50-row oil cooler** and **PWR 4-core intercooler**.",
+    "Full **PPG Matte British Racing Green (code: 420C3)** respray with **3M Scotchcal Matte Clear (9080)** for UV protection. Interior stripped and reupholstered in **Recaro Pole Position seats (carbon shell, Alcantara inserts)** with **Schroth Profi II 6-point harnesses**, **Momo Prototipo steering wheel (350mm, suede)**, and **custom aluminum shift knob (Holinger sequential pattern)**. Roll cage is a **Custom Cages T45 steel bolt-in** with **carbon fiber door cards** and **AEM CD-7 dash display** replacing the stock cluster."
+  ]
+}

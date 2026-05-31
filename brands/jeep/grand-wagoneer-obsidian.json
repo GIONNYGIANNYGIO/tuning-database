@@ -1,0 +1,14 @@
+{
+  "brand": "JEEP",
+  "model": "GRAND WAGONEER OBSIDIAN",
+  "prestazioni": [
+    "Engine: 3.0L EcoDiesel Hurricane I6 (engine code: **EZD**) – Full bolt-on turbo upgrade with **Garrett GTX4202R** turbocharger (1.06 A/R, 64mm inducer, 88mm exducer) paired with a **Hellcat-sourced intercooler core** (custom 4.5\" thick bar-and-plate design by **VMP Racing**) and **Silicone Intakes 4-ply silicone charge pipes** (3.5\" ID, reinforced with **ARP 625+ fasteners**).",
+    "Fuel System: **Bosch CP4.2 high-pressure fuel pump** (modified for 2,200 bar rail pressure) with **Siemens DEKA 1050cc/min port injectors** and **AEM 340LPH in-tank lift pump** (bypass OEM fuel module). **Motec M150 ECU** standalone management with **EZD-specific flex-fuel sensor** and **AEM X-Series wideband O2** for closed-loop diesel tuning.",
+    "Exhaust: **3.5\" diameter custom stainless steel downpipe** (mandrel-bent, **TIG-welded by Burns Stainless**) with **Borla Pro XS 3.5\" cat-back system** (dual 4\" rolled-edge tips, **resonated mid-pipe delete**). **Dynojet i2i Diesel Particulate Filter (DPF) delete kit** with **MBRP SX Series muffler** (straight-through design, 304 stainless)."
+  ],
+  "estetica": [
+    "Body Kit: **Rocket Bunny V3 widebody conversion** (Obsidian-specific fender flares, **carbon fiber front splitter**, and **rear diffuser** with **Vortex Generator strakes**). **Custom 3M Matte Obsidian Black wrap** (XPEL Stealth PPF on high-impact zones).",
+    "Wheels: **Rotiform LAS-R 22x12\" (ET+15) forged wheels** (custom **Obsidian Black with brushed titanium lip**, **Nitto Ridge Grappler 305/45R22 tires**). **H&R TRAK+ 25mm spacers** (hub-centric, **ARP extended studs**).",
+    "Lighting: **Lux H8 V4 LED headlights** (DRL/low/high beam, **adaptive cutoff**), **Morimoto XB35 LED fog lights** (with **custom CREE XHP70.2 emitters**), and **Oracle Lighting Dynamic ColorSHIFT RGB grille LEDs** (sync with **Alpine iLX-F509** head unit)."
+  ]
+}

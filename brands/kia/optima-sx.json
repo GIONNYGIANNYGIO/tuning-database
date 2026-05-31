@@ -1,0 +1,17 @@
+{
+  "brand": "KIA",
+  "model": "OPTIMA SX",
+  "prestazioni": [
+    "Engine: Theta II 2.0L Turbo GDI (Engine Code: G4KH) - Full forged internals including Manley forged pistons (88mm, 9.5:1 CR), Eagle H-beam connecting rods, and ACL Race Series bearings for 30+ psi boost capability. Upgraded crankshaft with billet counterweights and ARP Custom Age 625+ head studs for cylinder head clamping.",
+    "Turbocharger: Garrett GTX3582R Gen II with TiAL MV-R 44mm external wastegate, custom 3.5\" stainless steel downpipe (catless), and Vibrant 1799 intercooler with 5.0\" thick core and 3.5\" inlet/outlet piping. Supporting mods include a Radium Engineering dual-catch can system and a PTP 3.5\" silicone intake pipe with MAF relocation.",
+    "Fuel System: Full return-style fuel system with Radium Engineering fuel surge tank (dual Bosch 044 pumps), Injector Dynamics ID1050x injectors, and a Kia Optima-specific AEM 340lph in-tank pump. ECU tuning via HP Tuners with custom OS for Theta II GDI, targeting 450whp on E85 with a 20psi base map and 30psi aggressive map.",
+    "Drivetrain: OS Giken Super Lock LSD (8.2kg preload) with upgraded CV axles (Neuspeed HD CV kit), South Bend Clutch Stage 3 Daily (organic/copper hybrid) with billet flywheel, and a Peloquin differential cover with additional cooling fins. Transmission reinforcement via Xtreme Racing short shifter and Synchrotech synchro rings.",
+    "Suspension: Ohlins Road & Track DFV coilovers (Kia Optima-specific valving) with 8kg/mm front springs and 7kg/mm rear springs, poly bushings (Energy Suspension full set), and Whiteline adjustable sway bars (24mm front, 22mm rear). Chassis bracing includes Cusco front strut tower bar and Ultra Racing rear lower control arm braces."
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny V3 widebody kit (Kia Optima LF-specific) with carbon fiber front splitter, rear diffuser, and overfenders (3.5\" wider front, 4.0\" wider rear). Custom 3D-printed canards (Aeroflow Dynamics) and a custom aluminum rear wing (1,200mm chord, 200mm height) with Gurney flap and adjustable angle mounts.",
+    "Wheels: Work Emotion CR Kiwami 2-piece forged wheels (19x9.5 +22 front, 19x11 +30 rear) with Michelin Pilot Sport Cup 2 tires (255/35/19 front, 295/30/19 rear). Custom wheel spacers (15mm front, 25mm rear) with extended wheel studs (ARP 7/16\") for flush fitment.",
+    "Exterior: Full custom vinyl wrap (3M Gloss Flip Psychedelic Purple) with matte black roof and mirror caps. Seibon carbon fiber hood (Kia Optima LF-specific, 50% weight reduction) with custom venting for intercooler piping. LED headlight retrofit (Morimoto XB LED projectors) with custom HID fog light delete and Diode Dynamics SS3 LED pods.",
+    "Interior: Full Recaro Pole Position seats (Kia Optima-specific mounts) with Schroth Profi II 6-point harnesses. Custom roll cage (Autopower bolt-in 8-point cage with gusseted main hoop) and MOMO Mod.78 steering wheel with NRG quick-release hub. Full Alcantara headliner and door cards (custom stitching) with carbon fiber trim (real 3K weave)."
+  ]
+}

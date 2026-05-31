@@ -1,0 +1,14 @@
+{
+  "brand": "KIA",
+  "model": "PROCEED GT LINE",
+  "prestazioni": [
+    "Engine: G4FJ 1.6L Turbocharged Inline-4 (Gamma T-GDi) – Full forged internals upgrade with Manley 87mm forged pistons, Eagle H-beam connecting rods, and ACL Race Series bearings to handle 350+ HP reliably. Stock crank retained with balanced assembly by JE Pistons.",
+    "Turbocharger: Garrett GTX3071R Gen II with billet compressor wheel, 0.63 A/R turbine housing, and TiAL MV-R 44mm wastegate for precise boost control (targeting 24-26 psi on E85). Custom 3.5\" turbo-back exhaust by Milltek Sport with 76mm titanium-coated downpipe and resonated center section to reduce drone.",
+    "Fuel System: Injector Dynamics ID1050x fuel injectors paired with a Radium Engineering dual-pump surge tank (2x Walbro 450 LPH pumps) and AEM 340lph inline fuel pump. Motec M150 ECU with flex-fuel sensor for E85 blending, controlled via Link G4+ Xtreme standalone management with custom CAN bus integration for Kia OEM dash retention."
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny V3 widebody kit (Kia Proceed-specific) with carbon fiber front splitter, overfenders (35mm wider front, 40mm wider rear), and ducktail spoiler. Custom 3M Gloss Black wrap with matte gunmetal accents on lower cladding and mirror caps.",
+    "Suspension: Ohlins Road & Track DFV coilovers (Kia Proceed-specific valving) with 20mm front and 15mm rear lowering, adjustable camber plates, and polyurethane subframe bushings by SuperPro. Whiteline adjustable rear sway bar (24mm) and front strut brace by Cusco.",
+    "Wheels: Work Emotion CR Kiwami 19x9.5 +22 front / 19x10.5 +30 rear (ET22/ET30) with Michelin Pilot Sport Cup 2 R tires (265/35/19 front, 285/30/19 rear). Custom center caps with Kia GT Line logo in red enamel, and BBS RS-GT wheel bolts in titanium."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "KAMAZ",
+  "model": "43509 DAKAR TRUCK",
+  "prestazioni": [
+    "Engine: Replace the stock Kamaz-740.75-440 (11.76L V8 turbodiesel, 440 HP) with a fully built Kamaz-740.90-1000 (11.76L V8 turbodiesel, 1000 HP) utilizing a custom billet crankshaft from **Man Diesel & Turbo**, forged Mahle pistons (18:1 compression), and **Delphi** common-rail injectors (3,000 bar) for extreme fuel delivery. Pair with a **Holset HE800VG** turbocharger (modified for 4.5 bar boost) and a **Bosch MS15.1** standalone ECU with Dakar-spec traction control and launch control maps.",
+    "Drivetrain: Upgrade the stock ZF 16S251 transmission to a **ZF TraXon 12TX3200** 12-speed automated manual with a **Sachs MFZ 430** twin-disc carbon clutch. Replace the stock transfer case with a **Meritor MTC-4000** heavy-duty unit and fit **GKN VL3** CV joints for extreme articulation. Install a **Paccar MX-13** differential (4.10:1 ratio) with **Eaton ELocker** for on-demand locking.",
+    "Suspension & Chassis: Replace the stock leaf springs with **ReycoGranning 12K** 3-stage progressive rate coilovers (adjustable damping via **BWI Group** remote reservoirs). Fit **Hutchinson** 41x14.5R19.5 Dakar-spec beadlock wheels with **Michelin XZL** tires (reinforced sidewalls). Strengthen the chassis with **T45 chromoly** roll cage from **Sparco Dakar** and **Alcoa** aluminum skid plates for underbody protection."
+  ],
+  "estetica": [
+    "Aero: Install a **Rally Art** Dakar-spec front splitter with integrated **Hella** LED light pods (8x 100W, 6000K) and a **Fibertech** carbon-fiber rear wing (adjustable angle, 3-position). Replace the stock hood with a **KAMAZ Motorsport** carbon-fiber unit featuring a **NACA duct** for intercooler airflow. Add **AeroCatch** quick-release hood pins for rapid access.",
+    "Exterior: Full **3M 1080 Matte Military Green** wrap with **Avery Dennison** reflective rally stripes (Dakar-spec). Replace the stock grille with a **Seibon** carbon-fiber mesh unit and fit **Hella** Supertones (100W) with **PIAA** yellow fog lights. Install **Tyger Auto** side steps with **RockSlide Engineering** sliders for rock crawling protection.",
+    "Interior: Replace the stock cabin with a **Sparco Dakar** fiberglass rally shell (weighing 30% less) featuring **Recaro SPG XL** seats (with **Schroth** 6-point harnesses). Install a **Motec C187** dash display with **Garmin** GPS integration and a **Racepak** data logger. Add **Alcantara** steering wheel from **NRG Innovations** with **AEM** paddle shifters for the ZF TraXon transmission."
+  ]
+}

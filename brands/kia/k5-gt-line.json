@@ -1,0 +1,14 @@
+{
+  "brand": "KIA",
+  "model": "K5 GT-LINE",
+  "prestazioni": [
+    "Turbocharger upgrade to a Garrett GT2860RS Gen II (ball-bearing) for the 1.6L Smartstream G1.6 T-GDi (engine code: G4FJ) to achieve 300+ WHP with supporting fueling mods (e.g., Injector Dynamics ID1050x injectors and a Radium Engineering fuel pressure regulator).",
+    "Full bolt-on intake system from aFe Power (part #54-12702) with a custom heat-shielded intake pipe and a K&N high-flow air filter (part #33-2445) to optimize airflow for the G4FJ’s stock turbo and post-upgrade GT2860RS.",
+    "Custom ECU reflash via K-Tuned K-Pro (Kia-specific) with a 93-octane aggressive tune, targeting 22 PSI peak boost, optimized ignition timing, and a 7,200 RPM rev limit for the G4FJ’s forged internals (stock rods/pistons are safe up to 320 WHP with proper tuning)."
+  ],
+  "estetica": [
+    "Liberty Walk LB K5 widebody kit (2021+ K5 GT-Line specific) with custom carbon fiber overfenders, front splitter, and rear diffuser for a 3-inch wider stance and aggressive aero balance.",
+    "OEM+ LED headlight retrofit with LUX H1 LED bulbs (5,000K) and a Morimoto XB LED fog light upgrade (part #XB35-H11) for improved visibility and a modern JDM-inspired look.",
+    "Custom 3-piece Work Emotion CR Kiwami wheels (19x9.5 +25 front, 19x10.5 +30 rear) in Hyper Silver with Michelin Pilot Sport Cup 2 tires (255/35/19 front, 275/30/19 rear) for optimal grip and a flush fitment under the LB widebody kit."
+  ]
+}

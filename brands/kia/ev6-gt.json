@@ -1,0 +1,14 @@
+{
+  "brand": "KIA",
+  "model": "EV6 GT",
+  "prestazioni": [
+    "Hyundai-Kia G3X 1.6T-GDI (Theta III) hybrid-electric front motor (PE21) + rear motor (PE22) dual-motor AWD system upgrade with Unitek Racing's 'EV6 GT Power+ Stage 3' inverter firmware (unlocks 650 kW / 872 hp peak output, +120 kW over stock) and custom liquid-cooled battery thermal management bypass for sustained 5-second 0-100 km/h (0-62 mph) in 2.8s",
+    "KW Suspensions 'Clubsport' 3-way adjustable coilovers with EV6 GT-specific spring rates (front: 180 N/mm, rear: 160 N/mm) and reinforced top mounts to handle 1.2G lateral acceleration, paired with AP Racing 'EV6 GT Carbon-Ceramic Brake Kit' (410mm front, 380mm rear) with bespoke caliper cooling ducts integrated into the Rocket Bunny V3 widebody kit",
+    "Garrett 'EV6 GT Hybrid' electric turbocharger system (replaces stock e-motor assist with a 48V electric compressor, reducing 0-200 km/h (0-124 mph) time by 1.4s) and custom Motec C127 ECU with 'Torque Vectoring Pro' software (enables independent rear motor torque split for yaw control, reducing Nürburgring lap times by ~4.2s)"
+  ],
+  "estetica": [
+    "Rocket Bunny 'V3 EV6 GT' widebody kit with carbon-fiber overfenders (35mm wider front, 40mm wider rear), custom 'GT-Spec' front splitter with integrated air curtains, and a 3D-printed titanium rear diffuser with active Gurney flap (adjusts via ECU input for drag reduction at speeds >180 km/h)",
+    "Seibon Carbon 'EV6 GT Full Carbon' roof, hood, and trunk lid (saves 18.7 kg) with custom 'Liquid Metal' finish (applied via Physical Vapor Deposition), paired with Varis Japan 'EV6 GT GT3' side skirts and rear bumper canards (CFRP construction, tested in wind tunnel for -12% lift at 250 km/h)",
+    "Oracle Lighting 'EV6 GT Dynamic LED' headlight upgrade with RGBW adaptive matrix projectors (1,200 lumens per side, DOT-approved) and custom 'KDM' (Kia Drift Mode) taillight animation (sequential LED strip with 16-bit color depth, triggered via launch control or drift detection)"
+  ]
+}

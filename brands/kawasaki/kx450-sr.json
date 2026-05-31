@@ -1,0 +1,14 @@
+{
+  "brand": "KAWASAKI",
+  "model": "KX450 SR",
+  "prestazioni": [
+    "Engine: Replace the stock KX450F (KX450SR shares the KX450F's KXF450 engine code) piston with a JE Forged Piston (97.0mm bore, 13.5:1 compression ratio) paired with Carrillo H-beam connecting rods for high-RPM durability under sustained 12,000+ RPM operation.",
+    "Intake: Install a Yoshimura RS-5 Carbon Fiber Air Boot (KX450SR-specific) with a custom 3D-printed velocity stack (SLA resin, 120mm length) to optimize airflow into the Keihin FCR-MX 41mm flat-slide carburetor, replacing the stock throttle body for improved throttle response and mid-range torque.",
+    "Suspension: Replace the stock Showa components with a full Öhlins TTX22M front fork (48mm diameter, 310mm stroke) and TTX36 rear shock (160mm stroke), both tuned with 5wt Motul Fork Oil and custom valving for Supercross-level compression/rebound damping (12 clicks compression, 10 clicks rebound)."
+  ],
+  "estetica": [
+    "Bodywork: Replace the stock plastic with a full Acerbis X-Seamless 2.0 kit (KX450SR-specific, translucent green) paired with a custom carbon fiber front fender (Renthal, 200g weight reduction) and a rear subframe reinforcement plate (Titan Racing Composites, 7075 aluminum).",
+    "Graphics: Apply a full set of Factory Effex KX450SR Team Replica graphics (matte black/neon green, pre-cut for Acerbis panels) with custom sponsor decals (Dunlop Geomax MX33, Motul 7100, Yoshimura R&D).",
+    "Controls: Replace the stock handlebar with a Renthal TwinWall 996 Fatbar (1-1/8\" diameter, 8\" rise, 4° sweep) wrapped in ODI Rogue Lock-On grips (soft compound, half-waffle pattern) and paired with a Works Connection Elite clutch perch and front brake lever (anodized green)."
+  ]
+}

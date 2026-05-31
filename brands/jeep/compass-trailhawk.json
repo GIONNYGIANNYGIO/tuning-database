@@ -1,0 +1,14 @@
+{
+  "brand": "JEEP",
+  "model": "COMPASS TRAILHAWK",
+  "prestazioni": [
+    "GME T4 Hurricane 2.0L Turbo (GME T4 I4) engine: BorgWarner EFR 8374 turbocharger (1060cc/min, 34psi max boost) with custom 3.5\" downpipe and Vibrant 1799 high-flow catalytic converter for optimized spool and reduced backpressure",
+    "Mopar Performance Stage 2 ECU reflash (PN 05165967AC) paired with a Cobb Accessport V3 for real-time monitoring and custom tuning via HP Tuners VCM Suite, targeting 320whp/380wtq on E85 blend (stock internals)",
+    "KW Suspensions Clubsport coilovers (3-way adjustable, 80mm-120mm ride height range) with custom-valved front struts and rear monotube shocks, paired with Eibach Pro-Street S anti-roll bars (24mm front, 22mm rear) for reduced body roll and improved turn-in response"
+  ],
+  "estetica": [
+    "Rally Innovations Compass Trailhawk-specific widebody kit (fiberglass fenders, carbon fiber side skirts, and rear diffuser) with integrated tow hooks and a 2.5\" extended wheelbase for aggressive stance and improved tire clearance",
+    "Jeep Performance Parts (JPP) Mopar Heritage grille (blacked-out mesh, PN 82215660AB) paired with a custom carbon fiber hood (Rocket Bunny-style vented scoop) and a Seibon carbon fiber front splitter with adjustable canards for aerodynamic balance",
+    "Method MR701 VT-Spec wheels (17x9 +12mm offset, beadlock-ready) wrapped in Nitto Ridge Grappler 285/70R17 tires, paired with Baer 6-piston front/4-piston rear brake calipers (14.2\" rotors) and stainless steel braided lines for improved stopping power and heat dissipation"
+  ]
+}

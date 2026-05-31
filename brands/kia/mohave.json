@@ -1,0 +1,14 @@
+{
+  "brand": "KIA",
+  "model": "MOHAVE",
+  "prestazioni": [
+    "Engine swap to a Hyundai-Kia Lambda II 3.8L GDI V6 (G6DA) with forged internals (JE Pistons 9.5:1 CR, Eagle H-beam connecting rods, ACL Race Series bearings) and a Garrett GTX3582R turbocharger (1.05 A/R turbine housing) running 18 psi on E85 fuel, paired with a Kelford 224/224 camshaft set (112 LSA) and a custom ECU tune via Haltech Elite 2500 with flex-fuel sensor integration",
+    "Full drivetrain reinforcement: Kia Mohave-specific Quaife ATB differential (part #QDF9Y) for the rear axle, upgraded driveshafts with CV joints from a Hyundai Genesis Coupe 3.8L (forged internals), and a South Korean-made 6-speed automatic transmission (A6MF2) with a Punch Powerglide valve body and a 3500 RPM stall torque converter from FTI Performance",
+    "Suspension overhaul with Ohlins TTX40 coilovers (custom valved for the Mohave's 2,300 kg weight), Eibach Pro-Street S anti-roll bars (28mm front, 25mm rear), and polyurethane bushings from SuperPro (part #SPF1125K) for the control arms and subframe mounts, paired with Kia Mohave-specific Air Lift Performance 3P management for adjustable ride height"
+  ],
+  "estetica": [
+    "Full Rocket Bunny widebody kit (Type-MH) designed exclusively for the Mohave, featuring carbon fiber fenders (2.5-inch flares), front/rear bumpers with integrated tow hooks, and a custom ducktail spoiler with a Gurney flap (3D-printed from PETG for weight savings)",
+    "Custom front grille delete with a carbon fiber mesh insert (ModeCarbon) and LED DRLs from LUX Automotive (part #LUX-KM-01), paired with a Seibon carbon fiber hood (OEM-style with functional vents) and a custom titanium exhaust tip setup (dual 4-inch outlets from Remus)",
+    "Interior overhaul with Recaro Pole Position seats (carbon fiber shells, Alcantara inserts), a custom roll cage (Mandrel-bent 4130 chromoly, TIG-welded by AutoPower Industries), and a full carbon fiber dash overlay (VIS Racing) with a Motec C127 dash display integrated into the center console"
+  ]
+}

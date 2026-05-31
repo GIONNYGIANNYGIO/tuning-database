@@ -1,0 +1,14 @@
+{
+  "brand": "KTM",
+  "model": "X-BOW R",
+  "prestazioni": [
+    "Engine: Replace the stock 2.0L TFSI (EA888 Gen 3, **CJXC**) with a **VW/Audi 2.5L TFSI (DAZA)** from the RS3/TTRS, featuring a **Garrett GTX3582R** turbo, **Mahle Motorsport forged pistons (9.5:1 CR)**, **Manley H-beam connecting rods**, and a **custom 3D-printed titanium intake manifold** by **APR Performance** with **ID1000 injectors** for 550+ HP on E85",
+    "Drivetrain: Install a **Quaife ATB LSD (QKE8J)** with **Pankl Racing Systems 6-speed sequential gearbox internals** and a **Tilton 7.25\" twin-disc carbon clutch** for 0-60 mph in 2.8s",
+    "Suspension/Chassis: **Öhlins TTX25 MkII coilovers** with **KW Clubsport EVO3 height-adjustable top mounts**, **PFC 380mm 6-piston front brake kit** with **Brembo HTC-64T pads**, and **KTM X-Bow GT4-spec carbon fiber monocoque reinforcement** with **Alcon 355mm rear discs**"
+  ],
+  "estetica": [
+    "Aero: **KTM X-Bow GT4 front splitter** with **custom 3D-printed Gurney flaps** (CFD-optimized for 120kg downforce at 150mph), **Rear diffuser by Varis Japan** (GT3-inspired, carbon-Kevlar hybrid), and **DTM-style side skirts** with integrated **LED cooling ducts** for brakes",
+    "Body: **Full carbon fiber body kit by Prior Design** (X-Bow GT4 homologation parts), **removable polycarbonate windscreen with hydrophobic coating (Opticoat 2.0)**, and **custom livery by Driftworks** (matte anthracite with **3M Scotchlite reflective pinstripes**)",
+    "Interior: **Sparco Pro 2000 carbon fiber seats** with **Schroth 6-point harnesses (ASM2)**, **Momo Prototipo steering wheel (flat-bottom, Alcantara)**, and **AIM MXS Strada dash** with **Bosch MS4.1 ECU integration** for real-time telemetry"
+  ]
+}

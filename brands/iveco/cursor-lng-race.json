@@ -1,0 +1,14 @@
+{
+  "brand": "IVECO",
+  "model": "CURSOR LNG RACE",
+  "prestazioni": [
+    "Engine: FPT Cursor 13 LNG (engine code: FPT C13 NG) – Replace stock turbo with **Garrett GT4509R (88mm compressor wheel, 1.32 A/R turbine housing)** for 600+ HP at 1,800 RPM with LNG-optimized fuel mapping via **Bosch MS 17.9.12 ECU** (custom calibration for methane combustion efficiency).",
+    "Fuel System: Upgrade to **Weber MTB 12 injectors (1,200 cc/min flow rate)** paired with a **Walbro 450 LPH LNG-compatible fuel pump** and **AEM 30-0334 wideband O2 controller** for stoichiometric AFR targeting 16.5:1 under full load.",
+    "Drivetrain: Install **ZF 12AS2331DD automated manual transmission** with **Sachs Racing clutch (360mm twin-disc, cerametallic friction)** and **GKN VL3000 driveshaft** for 3,000 Nm torque capacity. Chassis reinforcement via **SWS Suspension 4-point subframe brace** and **Brembo GT 8.30/30 6-piston calipers** with **380mm CCM-R rotors**."
+  ],
+  "estetica": [
+    "Aero: **Extreme Dimensions Motorsport (EDM) Stage 3 carbon fiber front splitter** with **3D-printed PETG dive planes** (tuned for 1,200 kg downforce at 120 km/h) and **IVECO Racing OEM rear diffuser (part #504019327)** with **Gurney flap extension (aluminum 6061-T6, 45mm height)**.",
+    "Body: **RML Group carbon fiber cab roof scoop** (directs LNG intercooler airflow) paired with **Akrapović titanium exhaust shroud (dual 120mm outlets)** and **IVECO Motorsport decal kit (reflective 3M 4680 series, FIA-approved)**.",
+    "Lighting: **Osram Night Breaker Laser H7 bulbs (6,000K, 130% brighter)** in **Hella Rallye 3000 FF auxiliary lamps (50W, 10° beam pattern)** with **Alientech LED halo rings (RGBW, CAN-bus compatible)** for pit signaling."
+  ]
+}

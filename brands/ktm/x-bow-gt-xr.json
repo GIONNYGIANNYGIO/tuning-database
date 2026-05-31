@@ -1,0 +1,14 @@
+{
+  "brand": "KTM",
+  "model": "X-BOW GT-XR",
+  "prestazioni": [
+    "Engine: Replace the stock 2.5L TFSI (EA855 evo) with a fully built internals package featuring forged Mahle Motorsport pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from Manley Performance. Pair with a Garrett GTX4202R turbocharger (0.82 A/R turbine housing) and a custom 4-inch titanium downpipe by Armytrix for reduced backpressure.",
+    "ECU & Fueling: Swap the stock Bosch MED17.1 ECU for a standalone Motec M150 with a custom calibration by VRSF (specializing in KTM X-Bow platforms). Upgrade to a dual-pump fuel system with Bosch Motorsport 044 high-flow fuel pumps and ID1050x injectors, paired with a Radium Engineering fuel surge tank to prevent fuel starvation in high-G corners.",
+    "Suspension & Chassis: Install a full Öhlins TTX40 4-way adjustable coilover system with custom valving for the X-Bow GT-XR’s carbon monocoque. Replace the stock anti-roll bars with adjustable Ultra Racing ARBs (24mm front, 22mm rear) and fit spherical bearing end links from SuperPro for zero compliance. Add a KW Automotive hydraulic lift kit to clear aggressive aero at low speeds."
+  ],
+  "estetica": [
+    "Aero: Fit a full carbon fiber aero package by 991R, including a GT3-style front splitter with integrated dive planes, a massive rear diffuser with gurney flap, and a fixed rear wing with swan neck mounts (adjustable angle via quick-release knobs). Add a custom front canard set from APR Performance for high-speed stability.",
+    "Body & Lighting: Replace the stock carbon body panels with a full dry carbon fiber weave kit from DMC (Germany), including a removable roof panel. Install a custom LED light bar by Baja Designs (Squadron Pro) integrated into the front splitter, and swap the taillights for sequential LED units from Vland (DRL/brake/turn functions).",
+    "Interior: Retrim the entire cabin in Alcantara with red stitching by Katzkin, including a custom roll cage wrap. Install a Sparco Pro 2000 seat with Schroth 6-point harnesses and a quick-release steering wheel (NRG Innovations) featuring a digital display from AIM MXS Strada. Add a custom carbon fiber center console with integrated wireless charging and a Motec C127 dash for real-time telemetry."
+  ]
+}

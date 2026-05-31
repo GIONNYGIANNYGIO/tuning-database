@@ -1,0 +1,14 @@
+{
+  "brand": "KIA",
+  "model": "EV9 GT LINE",
+  "prestazioni": [
+    "Upgrade to a **Hyundai-Kia Electric Global Modular Platform (E-GMP) high-performance inverter** with **Siemens VCU (Vehicle Control Unit) Stage 2 firmware**, optimized for the **PE (Permanent Magnet Synchronous Motor) e-AWD dual-motor setup (front: 165 kW, rear: 270 kW)** to unlock **550 kW (738 hp) peak power** and **1,000 Nm torque** via **AEM EV VCU 400** over-the-air recalibration, reducing 0-100 km/h to **3.2s** (stock: 5.3s).",
+    "Installation of a **Molicel P42A 21700 4600mAh 30A high-discharge battery pack** with **custom 800V liquid-cooled thermal management** (replacing the stock **SK Innovation NCM9 98.5 kWh** cells) to sustain **200 kW continuous discharge** and enable **800V DC fast-charging at 350 kW** (0-80% in 12 minutes).",
+    "Integration of a **Unitek Y.C.500 500A DC-DC converter** with **active load balancing** to support **aftermarket 1,200W Bosch heat pump** and **dual 10kW induction charging pads** (Brand: **WiTricity Halo**), paired with **KW Suspensions V3 coilovers (80mm drop, 32-way damping adjustment)** and **Brembo GT 410mm front/390mm rear 6-piston calipers** with **Ferodo DS2500 pads** for track-ready braking."
+  ],
+  "estetica": [
+    "Full **Liberty Walk LB-WORKS EV9 GT-Line widebody kit** (carbon fiber fenders, front/rear bumpers, and side skirts) with **custom 50mm extended wheel arches**, paired with **Rotiform LAS-R 22x11.5 ET25 forged wheels** (staggered setup: 22x12.5 rear) wrapped in **Michelin Pilot Sport Cup 2 R 285/35R22 tires**.",
+    "**Seibon Carbon fiber hood** with **functional dual NACA ducts** (channeling air to **PWR radiators** for inverter cooling) and **custom LED-illuminated KIA ‘Tiger Nose’ grille** (replacing stock mesh with **3D-printed titanium honeycomb** for weight reduction).",
+    "**Rear diffuser by Rocket Bunny (Pandem)** with **active Gurney flap (electrically adjustable via VCU)** and **dual 102mm titanium exhaust tips (Brand: Akrapović EV9 GT-Line Titanium Hybrid System)** for acoustic enhancement, paired with **OLED taillight overlays (Brand: Diode Dynamics)** and **carbon fiber roof (Brand: VIS Racing)** with **integrated solar film (Brand: 3M Crystalline 90)** for cabin cooling."
+  ]
+}

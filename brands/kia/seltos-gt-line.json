@@ -1,0 +1,14 @@
+{
+  "brand": "KIA",
+  "model": "SELTOS GT-LINE",
+  "prestazioni": [
+    "Engine: Turbocharged 1.6L Smartstream G1.6T (G4FP) with a Garrett GT2860RS turbo upgrade, supporting 280whp and 320Nm torque via a custom ECU flash from Unichip Q with ethanol flex-fuel mapping for E30-E50 blends. Forged internals include Mahle Motorsport pistons (8.5:1 CR), Eagle H-beam connecting rods, and ACL Race Series bearings for 8,500 RPM reliability.",
+    "Suspension: KW Suspensions Clubsport 3-way coilovers with 8-position rebound damping, adjustable camber plates (front), and spherical bearing top mounts. Rear subframe reinforcement via Cusco 4-point strut bar and polyurethane bushings (SuperPro 90D durometer) for reduced compliance. Custom alignment specs: -2.8° front camber, -2.2° rear camber, 0.1° front toe-out, 0.05° rear toe-in.",
+    "Drivetrain: OS Giken Super Lock LSD (2.5-way) with 45% preload, paired with a Sachs Performance twin-disc clutch (240mm) and lightweight flywheel (8.5kg). Final drive ratio swapped to 4.47:1 (from Kia Stinger GT) for improved acceleration, with custom half-shafts from Driveshaft Shop (3.5-inch chromoly) to handle increased torque."
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny Pandem Seltos GT-Line widebody kit (Pandem Type 1) with carbon fiber front splitter, rear diffuser, and overfenders (35mm wider front, 40mm wider rear). Functional hood vents (Seibon carbon fiber) for G1.6T heat extraction, paired with a custom 3D-printed intercooler duct (PETG) for the Garrett GT2860RS.",
+    "Wheels: Work Emotion CR Kiwami (18x9.5 +22 front, 18x10.5 +25 rear) with custom 5x114.3 to 5x120 conversion hubs (Kia Stinger GT spec). Tires: Michelin Pilot Sport Cup 2 R (255/40/18 front, 275/35/18 rear) with TPMS sensors from AEM Electronics for real-time pressure monitoring.",
+    "Interior: Recaro Sportster CS seats (fixed-back) with custom Kia Seltos GT-Line mounting brackets, wrapped in Alcantara (Autofiber) with red contrast stitching. Roll cage: Custom 8-point chromoly cage (Autopower) with bolt-in rear section, integrated with a Sparco Pro 2000 steering wheel (320mm) and NRG quick-release hub. Shift knob: MFactory short shifter with 40% reduction in throw, paired with a custom aluminum shift boot (Billetworkz)."
+  ]
+}

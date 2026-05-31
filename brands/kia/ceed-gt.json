@@ -1,0 +1,14 @@
+{
+  "brand": "KIA",
+  "model": "CEED GT",
+  "prestazioni": [
+    "Hyundai-Kia GDI 1.6L Turbo (Engine Code: *G4FJ*) forced induction upgrade via Garrett GTX3071R Gen II turbocharger (0.82 A/R turbine housing, 52mm compressor inducer) paired with a custom 3.5-inch stainless steel downpipe featuring a 200-cell catalytic converter from Milltek Sport for optimized spool and Euro 6 compliance",
+    "Full fuel system overhaul with Injector Dynamics ID1050x fuel injectors, Walbro 450 LPH in-tank fuel pump, and a Radium Engineering dual-catch can setup with -8AN lines to manage crankcase pressure under sustained 28psi boost (stock block limit with forged internals)",
+    "Custom ECU calibration via Syvecs S8 Plug & Play standalone ECU (direct OEM harness integration) with flex-fuel capability, individual cylinder fuel trims, and launch control mapped for 0-60mph in 4.2s (stock: 7.6s) on E85 fuel blend"
+  ],
+  "estetica": [
+    "Liberty Walk LB Works widebody conversion kit (Kia Ceed GT-specific fender flares, front/rear bumpers, and side skirts) with custom carbon fiber overfenders for a 35mm wider track per side, paired with OZ Racing Ultraleggera HLT 18x9.5 +35 wheels wrapped in Michelin Pilot Sport Cup 2 tires (245/40 R18)",
+    "Seibon Carbon fiber GT-spec hood with integrated NACA ducts for direct turbocharger intake cooling, finished with a custom matte vinyl wrap in 'Hyper Blue' (Kia factory code: 5P) with gloss black accents on the grille and mirror caps",
+    "Full Ohlins Road & Track DFV coilover suspension setup (Kia Ceed GT-specific valving) with adjustable camber plates, 25mm front wheel spacers (H&R), and a Cusco front strut bar (2-point, 35mm diameter) to eliminate chassis flex under hard cornering (target: 1.1g lateral on skidpad)"
+  ]
+}
