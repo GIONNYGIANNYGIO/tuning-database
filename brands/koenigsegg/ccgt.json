@@ -1,0 +1,14 @@
+{
+  "brand": "KOENIGSEGG",
+  "model": "CCGT",
+  "prestazioni": [
+    "Replace the stock 5.0L V8 (engine code: *Koenigsegg Modular V8 - Type 071*) with a bespoke *Motec M190 ECU* mapped for 1,000+ hp on E85, utilizing a *Precision Turbo PT6266 CEA* turbocharger with a 76mm billet compressor wheel and 3D-printed titanium turbine housing for optimized exhaust gas flow at 3.5 bar boost pressure",
+    "Install a *Koenigsegg-developed dry sump lubrication system* with a *Radium Engineering 5-stage oil pump* and *Mocal 13-row oil cooler* to maintain 120°C oil temps under sustained 9,000 RPM track use, paired with *Motul 300V Trophy 15W-50* full-synthetic oil",
+    "Upgrade the stock *Koenigsegg 6-speed sequential transaxle* with a *Hewland NLT-600 dog-ring gearset* and *AP Racing CP8446-3000 carbon-carbon clutch* for 0.1s shift times, reinforced with a *Pankl Racing Systems titanium driveshaft* and *GKN Lobro CV joints* rated for 1,200 Nm torque"
+  ],
+  "estetica": [
+    "Replace the OEM carbon fiber body panels with *Koenigsegg Automotive’s in-house pre-preg autoclave-cured carbon fiber* (2x2 twill weave, 0.6mm thickness) featuring a *PPG ‘Liquid Silver’ paint-to-clear finish* with *3M Scotchlite 980CR retroreflective flakes* for track visibility",
+    "Install a *Koenigsegg CCGT-specific Vortex Generator Kit* (3D-printed in *EOS PA 2200 nylon*) on the rear diffuser and front splitter, designed in collaboration with *Sauber Engineering* for a 15% reduction in drag at 250+ km/h",
+    "Swap the OEM *Koenigsegg Aircore wheels* for *Dymag CX-R carbon fiber/magnesium hybrid wheels* (19x11 front, 20x13 rear) with *Pirelli P Zero Trofeo R* tires (265/35 R19, 345/30 R20), wrapped in *BBS Motorsport wheel locks* and *HRE Performance Center caps* with laser-engraved Koenigsegg logos"
+  ]
+}

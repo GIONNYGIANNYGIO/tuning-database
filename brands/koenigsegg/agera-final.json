@@ -1,0 +1,14 @@
+{
+  "brand": "KOENIGSEGG",
+  "model": "AGERA FINAL",
+  "prestazioni": [
+    "Installation of a Koenigsegg-developed twin-turbocharger upgrade utilizing proprietary **TFG (Turbocharged Flex Fuel) 5.0L V8 (engine code: K1250)** hybrid turbochargers with billet compressor wheels (76mm inducer, 106mm exducer) and Inconel turbine housings, paired with a bespoke **Motec M150 ECU** remap optimizing for E85 flex-fuel (1,500+ hp target) while retaining OEM Koenigsegg Direct Drive (KDD) coupling for seamless power delivery",
+    "Full **Titanium Racing Components (TRC) 4340 chromoly connecting rods** with ARP Custom Age625+ rod bolts (220,000 psi tensile strength) and **JE Pistons 9.5:1 forged aluminum pistons** (2618-T6 alloy, DLC-coated skirts) to withstand 2,200+ bar cylinder pressures, mated to a **Koenigsegg-spec billet crankshaft** with 90mm stroke and nitrided journals for durability",
+    "Replacement of the OEM **Koenigsegg 100-bar fuel system** with a **Syvecs S8 ECU-controlled dual-pump setup** (Bosch Motorsport 044 high-flow pumps) and **Injector Dynamics ID2600x injectors** (2,600cc/min flow rate), paired with a **Pectel SQ6M standalone ECU** for real-time flex-fuel compensation and individual cylinder trimming, ensuring stoichiometric AFR at 1,400+ hp levels"
+  ],
+  "estetica": [
+    "Full **Koenigsegg Ghost Package** carbon-fiber body upgrade, including a **3D-printed titanium front splitter** with active aerodynamic flaps (adjustable via Koenigsegg’s **Triplex suspension-linked aero control**) and a **fixed rear carbon diffuser** with integrated **Gurney flaps** (manufactured by **Rimac Automobili’s aero division**) for 1,200kg downforce at 250 km/h",
+    "Custom **HRE FF16 flow-formed wheels** (20x11 front, 21x13 rear) with **Pirelli P Zero Trofeo R tires** (265/35 R20 front, 345/30 R21 rear) and **Koenigsegg’s proprietary center-lock wheel nuts** (titanium, 12-point spline drive), finished in **PPG ‘Liquid Black’ with red pinstriping** and **laser-etched Koenigsegg ghost logos** on the spokes",
+    "Interior overhaul featuring **Recaro Pole Position carbon-Kevlar bucket seats** (FIA 8862-2009 certified) with **Schroth 6-point harnesses**, a **MOMO Prototipo steering wheel** (carbon fiber, Alcantara grip, integrated **AiM MXL2 data logger**), and **Koenigsegg’s bespoke titanium shift paddles** (linked to a **Paddle-Shift Optimized Gearbox (POG) system** for 20ms upshifts)"
+  ]
+}

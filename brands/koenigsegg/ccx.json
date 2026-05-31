@@ -1,0 +1,14 @@
+{
+  "brand": "KOENIGSEGG",
+  "model": "CCX",
+  "prestazioni": [
+    "Replace the factory **Koenigsegg 4.7L V8 (engine code: K47DET)** with a billet aluminum block from **Racing Dynamics** featuring forged Mahle pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a **Dry Sump System** by **Dailey Engineering** with a 12-stage scavenge pump to eliminate oil starvation under 2.5G lateral loads.",
+    "Upgrade the twin **Rotrex C38-91 superchargers** to **Rotrex C38-92** units with **Precision Turbo & Engine 7675 ball-bearing center housings**, paired with a **Tial MV-R 60mm wastegate** and **AEM Infinity 10 ECU** running a custom 3D-printed **Koenigsegg-specific intake manifold** with **ID1700x injectors** for E85 compatibility (targeting 1,200+ HP at 1.8 bar boost).",
+    "Install a **Penske 8760 3-way adjustable coilover suspension** with **Eibach ERS springs (800 lb/in front, 1,000 lb/in rear)** and **Öhlins TTX46 MkII dampers**, paired with **AP Racing CP8470 front calipers** (6-piston) and **Brembo GT-R rear calipers** (4-piston), utilizing **PFC carbon-ceramic rotors (390mm front, 380mm rear)** and **Ferodo DS3000 pads** for endurance track use."
+  ],
+  "estetica": [
+    "Replace the OEM carbon fiber body with a **Koenigsegg CCXR Trevita-inspired full carbon weave kit** from **Fiberworks**, featuring **gold-tinted clear coat** and **LED-embedded dihedral synchro-helix doors** with **electroluminescent wiring** by **Novitec Group**.",
+    "Install a **custom Vorsteiner V-FF107 20-spoke forged aluminum wheel set** (20x9.5 front, 21x12.5 rear) with **Pirelli P Zero Trofeo R tires (255/30 R20 front, 355/25 R21 rear)** and **HRE FlowForm center-lock adapters** for rapid wheel changes.",
+    "Add a **Koenigsegg Ghost Lighting Package** (OEM+ upgrade) with **RGBW LED underbody strips**, **laser-etched CCXR Trevita door sills**, and a **custom titanium exhaust tip system** by **Akrapović** featuring **dual 100mm outlets** with **electronically controlled butterfly valves** for backpressure tuning."
+  ]
+}

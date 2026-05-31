@@ -1,0 +1,14 @@
+{
+  "brand": "KIA",
+  "model": "TELLURIDE SX PRESTIGE",
+  "prestazioni": [
+    "Engine: GDI 3.8L Lambda II V6 (G6DT) – Forced induction via Garrett GTX3582R turbocharger (1.2 bar boost) with custom 3.5-inch intercooler piping and Mishimoto aluminum intercooler (direct-fit for Telluride chassis). Upgraded fuel system includes Injector Dynamics ID1050x injectors, Walbro 450 LPH in-tank fuel pump, and Radium Engineering fuel pressure regulator (FPR) for precise lambda control under boost.",
+    "Drivetrain: Kia Telluride-specific Quaife ATB helical LSD (part # QUA-KIA-001) paired with South Bend Clutch Stage 3 twin-disc clutch (ceramic puck) and lightweight aluminum flywheel (12.5 lbs). Transmission tuning via Hondata FlashPro (adapted for G6DT ECU) to optimize shift points and torque management for the added power.",
+    "Suspension & Handling: Öhlins Road & Track coilovers (part # DFV 22M100-10) with 8-position adjustable damping, custom-valved for Telluride’s 5,800 lb curb weight. Full chassis reinforcement via Cusco subframe brace (front/rear) and Whiteline adjustable sway bars (24mm front, 22mm rear). Brembo GT 6-piston front calipers (380mm rotors) and 4-piston rear calipers (355mm rotors) with Ferodo DS2500 brake pads for fade-resistant stopping power."
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny Pandem widebody kit (Telluride-specific, part # RB-KT-001) with carbon fiber front splitter, rear diffuser, and overfenders (3.5-inch flares per side). Custom 3D-printed active grille shutters (replacing stock shutters) with integrated LED DRLs (Lux H8 V4). Rear wing: APR Performance GTC-300 (carbon fiber, 65-inch span) with adjustable angle of attack (0-15 degrees).",
+    "Exterior: Full vinyl wrap in 3M Gloss Flip Psychedelic (color-shifting purple-to-teal) with matte black accents on roof, pillars, and lower cladding. Custom LED taillights (Lux V3 sequential turn signals) and Morimoto XB LED headlights (5,500K, adaptive beam pattern). Side mirrors replaced with carbon fiber units from Seibon (OEM+ fitment) with integrated blind-spot cameras (Garmin BC 40).",
+    "Wheels & Tires: Forged BBS CI-R II wheels (22x10.5 +25 front, 22x11.5 +35 rear) in gloss black with titanium hardware. Tire setup: Michelin Pilot Sport Cup 2 R (285/35R22 front, 305/30R22 rear) for track use, swapped to Nitto Ridge Grappler (285/50R22 all-around) for off-road capability. Custom center caps with Kia Racing Team logo (laser-etched)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "KOENIGSEGG",
+  "model": "CC850 TRACK MANUAL EVO",
+  "prestazioni": [
+    "Engine: Replace the stock 5.0L twin-turbo V8 (internal code 'Jorfors V8') with a fully forged billet block (Koenigsegg in-house 'Dark Matter' specification) featuring 9.5:1 compression, Mahle Motorsport forged pistons (10.5cc dome), and Carrillo H-beam connecting rods. Pair with a custom dry-sump system using a Peterson 4-stage pump and ATI Super Damper for 9,500 RPM stability.",
+    "Forced Induction: Upgrade to twin Garrett GTX5533R Gen II turbos with 76mm billet compressor wheels, custom Koenigsegg 3D-printed titanium turbine housings (Inconel 718), and Tial MV-R 60mm wastegates. Implement a bespoke water-methanol injection system (Snow Performance Stage 3 HD) with dual 1000cc injectors targeting 4.5 bar of boost (stock: 1.4 bar).",
+    "Drivetrain: Install a 6-speed sequential transaxle (Koenigsegg 'Light Speed' variant) with a carbon-fiber driveshaft, OS Giken 2-way LSD (90% lock), and a Sachs Racing dual-disc clutch (240mm, 4-pad). Replace the stock half-shafts with CV joints from GKN Driveline (F1-spec tripod design) and a Quaife ATB differential for track durability."
+  ],
+  "estetica": [
+    "Aerodynamics: Fit the 'CC850 Track Evo' aero package (Koenigsegg in-house) featuring a 3D-printed titanium rear wing with active Gurney flaps (adjustable via cockpit switch), carbon-fiber front splitter with integrated dive planes (Rocket Bunny 'Hyper-Street' design), and a rear diffuser with vortex generators (inspired by the Jesko Absolut).",
+    "Bodywork: Replace all exterior panels with Koenigsegg's 'Nano-Weave' carbon-fiber (pre-preg autoclave, 2x2 twill), including a custom 'Ghost' livery with electrochromic paint (Lumilor) that shifts from matte black to Koenigsegg blue under 3,000 RPM. Add a removable polycarbonate rear window (Makrolon) with integrated brake cooling ducts.",
+    "Interior: Install a full FIA-spec roll cage (Schroth 6-point harnesses, OMP carbon seats with 3D-printed inserts for driver fitment), a digital dash (Motec C187 with lap timer integration), and a bespoke steering wheel (Koenigsegg 'Tactile Response' with Alcantara grip and paddle shifters for the sequential gearbox). Replace door cards with carbon-fiber panels featuring embedded LED shift lights (AEM)."
+  ]
+}

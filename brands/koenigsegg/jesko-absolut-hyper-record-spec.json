@@ -1,0 +1,14 @@
+{
+  "brand": "KOENIGSEGG",
+  "model": "JESKO ABSOLUT HYPER RECORD SPEC",
+  "prestazioni": [
+    "Engine: Koenigsegg 5.0L twin-turbo V8 (internal code TFG V8) with reinforced billet aluminum block, upgraded Mahle Motorsport forged pistons (10.5:1 compression), and titanium connecting rods from Pankl Racing Systems. Turbochargers: Custom Koenigsegg-developed twin-turbo setup with Garrett GTX5544R Gen II turbos (84mm compressor wheels, 106mm turbine wheels) and ceramic-coated exhaust manifolds by Thermal Coatings Ltd. for reduced heat soak.",
+    "Fuel System: Full Motec M150 ECU with bespoke Jesko Absolut calibration, paired with a dual-injector setup (primary: Bosch Motorsport 10-hole injectors, secondary: ID1700x injectors) and a high-flow fuel system featuring twin Bosch Motorsport HDP5 high-pressure pumps (3,000+ bar capability) and a carbon fiber fuel rail by V Carbon.",
+    "Drivetrain: 9-speed Koenigsegg Light Speed Transmission (LST) with ultra-lightweight carbon fiber clutch pack (AP Racing CP9669-2S) and a limited-slip differential featuring a Drexler Motorsport 3-plate carbon clutch LSD with 80% lockup under load. Chassis reinforcement via a full titanium subframe by 3D Systems (additive manufacturing) for torsional rigidity."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon fiber 'Triplex' rear wing (Koenigsegg proprietary design) with active Gurney flaps and a 3D-printed titanium wing support structure. Front splitter upgraded with a Vortex Generator System (VGS) by APR Performance, featuring adjustable carbon fiber strakes for high-speed stability. Underbody: Full-length carbon fiber diffuser with integrated active air curtains by Koenigsegg Automotive, reducing drag by 12% at 300+ mph.",
+    "Bodywork: Custom 'Ghost' paint scheme by Spies Hecker (R-M Diamond series) with a multi-layered pearlescent finish and Koenigsegg’s proprietary 'Aero Ghost' vinyl overlay for dynamic light refraction. Carbon fiber weave: Exposed 3K twill with a satin clear coat by Sikkens (Autocryl Plus). Side skirts replaced with Koenigsegg’s 'Absolut Aero' carbon fiber units, featuring integrated LED lighting by Osram (Ostar Projection LEDs).",
+    "Wheels & Brakes: Forged magnesium wheels by Dymag (CX-R model, 20x11 front / 21x13 rear) with center-lock titanium nuts by Koenigsegg. Tires: Custom Michelin Pilot Sport Cup 2 R (345/25 R21 front, 375/20 R22 rear) with 'Track Connect' telemetry sensors. Braking: Full carbon-ceramic system by Brembo (CCMR-X) with 410mm front rotors, 6-piston monobloc calipers (painted Koenigsegg Ghost Silver), and a titanium brake backing plate for weight reduction."
+  ]
+}

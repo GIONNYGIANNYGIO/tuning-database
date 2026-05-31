@@ -1,0 +1,14 @@
+{
+  "brand": "KOENIGSEGG",
+  "model": "GEMERA GT HYBRID EVO",
+  "prestazioni": [
+    "Replacement of the stock TFG (Tiny Friendly Giant) 2.0L 3-cylinder engine's turbocharger with a **Garrett GTX5544R Gen II** hybrid turbo, featuring a billet compressor wheel (64mm inducer, 88mm exducer) and a 76mm turbine wheel, paired with a custom **Tial MV-R 60mm wastegate** to handle the increased boost pressure of 2.8 bar (40.6 psi) for a targeted 850 hp from the ICE alone, while maintaining the factory **Freevalve** pneumatic valve actuation system for optimized cylinder deactivation and camless timing flexibility",
+    "Integration of a **Motec M182 ECU** with a bespoke hybrid powertrain calibration, replacing the stock Koenigsegg ECU, to manage the **three YASA P400 electric motors** (front axle: dual-motor setup, rear axle: single motor) and the **TFG engine** in a torque-vectoring configuration, enabling a 0-100 km/h (0-62 mph) time of 1.7 seconds via a **launch control algorithm** that prioritizes the front electric motors for initial traction before seamlessly blending in the TFG engine and rear electric motor",
+    "Installation of a **PWR (Performance Wiring Resources) 800V high-capacity liquid-cooled battery pack** with a **120 kWh capacity**, replacing the stock 16.6 kWh unit, to extend the electric-only range to 120 km (75 miles) while supporting a **1,100 kW (1,475 hp) peak power output** across the hybrid system, paired with a **Marelli 800V silicon carbide (SiC) inverter** for 98% efficiency in power delivery to the electric motors"
+  ],
+  "estetica": [
+    "Application of a **Koenigsegg-designed 'Ghost' aero package**, featuring a **3D-printed titanium front splitter** with active aerodynamic elements (adjustable via hydraulic actuators) to generate 800 kg (1,764 lbs) of downforce at 250 km/h (155 mph), paired with a **carbon-fiber rear diffuser** incorporating **Gurney flaps** and a **swan-neck rear wing** with a **drag reduction system (DRS)** for top-speed optimization",
+    "Replacement of the stock **Dihedral Synchro-Helix Actuation Doors** with a **carbon-fiber 'Falcon Wing' variant**, inspired by the Koenigsegg Jesko Absolut, featuring **electrochromic glass** (SageGlass) for dynamic tinting and a **hydraulic lift system** that raises the doors 300mm higher than stock for improved ingress/egress in tight spaces, while maintaining the signature **Koenigsegg 'UFO' door hinge design**",
+    "Installation of a **custom 'Aurora' LED lighting system** by **LuxVision**, including **adaptive pixel LED headlights** with **1,000-meter projection range**, **laser high-beams**, and **OLED taillights** with **dynamic turn signals** that display the Koenigsegg logo during startup, paired with **underbody RGB LED lighting** (controlled via the **Koenigsegg NEXUS infotainment system**) that reacts to throttle input, G-forces, and ambient conditions"
+  ]
+}

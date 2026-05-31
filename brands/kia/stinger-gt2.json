@@ -1,0 +1,14 @@
+{
+  "brand": "KIA",
+  "model": "STINGER GT2",
+  "prestazioni": [
+    "Engine: 3.3L Lambda II T-GDi V6 (G6DH) with a custom BorgWarner EFR 8374 turbocharger (1.05 A/R turbine housing, 62mm compressor wheel) paired with a PTP Turbo 4-inch stainless steel downpipe and a custom 3.5-inch titanium exhaust system by Armytrix for reduced backpressure and optimized spool characteristics.",
+    "Fuel System: Injector Dynamics ID1050x fuel injectors with a Radium Engineering dual-catch can setup and a Motec M150 ECU for precise lambda control, supporting up to 650whp on E85. Upgraded high-pressure fuel pump by AEM 340LPH and a custom fuel rail by Xcessive Manufacturing to handle increased flow demands.",
+    "Drivetrain & Cooling: OS Giken Super Lock LSD with a custom 3.91 final drive ratio for improved acceleration. PWR Australia 525kw race-spec intercooler with a custom water-methanol injection system by Snow Performance (Stage 3 kit) to maintain intake temps below 40°C under full boost. Upgraded transmission cooler by Setrab with a 16-row core for sustained high-load conditions."
+  ],
+  "estetica": [
+    "Aero: Liberty Walk LB Works widebody kit (Stinger-specific, bolt-on fenders with 30mm extended flares) paired with a custom carbon fiber front splitter by Seibon and a GT-spec rear diffuser by Varis. Functional carbon fiber hood by APR Performance with dual 40mm vents for heat extraction.",
+    "Suspension & Wheels: KW Suspensions Clubsport 3-way coilovers with adjustable camber plates by Megan Racing. Custom 20x10.5 ET25 front and 20x11.5 ET35 rear wheels by Work Meister S1 3P in a matte bronze finish, wrapped in Michelin Pilot Sport Cup 2 R tires (275/30/20 front, 295/25/20 rear).",
+    "Interior & Lighting: Full Alcantara-wrapped interior by Katzkin with custom embroidered GT2 logos on the headrests. Roll cage by Custom Cages (8-point, TIG-welded chromoly) with Sparco Pro 2000 seats and Schroth 6-point harnesses. Full LED conversion by LUX H8 V4 with a custom DRL delete and smoked taillight overlays by Diode Dynamics."
+  ]
+}

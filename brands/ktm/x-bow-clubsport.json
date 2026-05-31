@@ -1,0 +1,14 @@
+{
+  "brand": "KTM",
+  "model": "X-BOW CLUBSPORT",
+  "prestazioni": [
+    "Engine: Replace the stock 2.0L TFSI (EA888 Gen3, **CJXA** engine code) with a **VW/Audi IS38 hybrid turbocharger** (Garrett GTX3582R core, billet compressor wheel, 0.82 A/R turbine housing) paired with a **Forge Motorsport Motorsport 4.0L intercooler** and **034 Motorsport billet aluminum intake manifold** to support 450+ HP on E85 fuel. Requires **APR Stage 3+ ECU software** with custom ethanol mapping and **Bosch Motorsport 0261S02088 injectors**.",
+    "Drivetrain: Install a **Quaife ATB LSD (QKE8J)** with **Motul Gear 300 75W-90** fluid and a **Tilton 7.25\" twin-disc carbon clutch** (6 puck, 1,200 Nm torque capacity) to handle increased power. Replace the stock 6-speed DQ250 DSG with a **standalone Holinger RD6 sequential gearbox** (dog-ring, 120ms shifts) and **Penske 8760-series adjustable dampers** for launch control optimization.",
+    "Suspension/Chassis: Convert to **Öhlins TTX25 MkII coilovers** (2-way adjustable, 12-position rebound/compression) with **KW Clubsport top mounts** and **Tillet B12 carbon fiber seats** (fixed-back, 6-point harness compatibility). Reinforce the carbon monocoque with **Braille Battery B3122 lightweight lithium-ion battery** relocation to the rear and **HJS Motorsport 304 stainless steel exhaust manifold** for weight reduction and thermal efficiency."
+  ],
+  "estetica": [
+    "Aerodynamics: Fit a **Rieger Tuning X-Bow GT4-style front splitter** (carbon fiber, 3D-scanned for OEM+ fitment) with **custom 3D-printed Gurney flaps** (PETG, 15mm height) and a **Rear diffuser by Prior Design** (carbon-Kevlar hybrid, 3-stage diffuser tunnels). Add **DTM-style side skirts** (carbon fiber, integrated LED running lights) and a **fixed carbon fiber rear wing** (3-element, 1,200mm span, adjustable angle via **AeroCatch quick-release mounts**).",
+    "Lighting: Replace all lighting with **Hella Rallye 3000 LED headlights** (H4 conversion, 3,200 lumens) and **Osram Night Breaker Laser auxiliary fog lights** (5,500K, 130% brighter). Install **custom CNC-machined aluminum turn signal housings** (anodized KTM orange) with **Philips Ultinon Pro9000 LED bulbs** for OEM+ integration.",
+    "Exterior/Interior: Wrap the carbon fiber body in **3M 2080 Gloss Orange vinyl** (Satin Black accents on wheel arches) with **custom KTM X-Bow GT4 livery** (vinyl graphics by **WrapStyle**). Replace the stock steering wheel with a **Sparco Pro2000 Alcantara wheel** (350mm, quick-release hub) and add **Schroth Profi II 6-point harnesses** (FIA 8853/98 homologated). Install **AIM MXS Strada dash** (12-inch, CAN bus integration) with **Motec PDM15 power distribution module** for real-time telemetry."
+  ]
+}

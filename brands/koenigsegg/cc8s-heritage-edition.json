@@ -1,0 +1,14 @@
+{
+  "brand": "KOENIGSEGG",
+  "model": "CC8S HERITAGE EDITION",
+  "prestazioni": [
+    "Engine: Koenigsegg 4.7L V8 (internally designated 'Kappa' engine, code: K8S-4.7-V8) with forged internals, upgraded to 9.5:1 compression ratio via custom Mahle Motorsport pistons and billet aluminum connecting rods for increased boost tolerance (targeting 1.8 bar with methanol-water injection).",
+    "Forced Induction: Twin Garrett GTX5533R Gen II turbochargers with 76mm compressor wheels and 94mm turbine wheels, paired with custom Koenigsegg-designed titanium-aluminide turbine housings (TiAl) for reduced rotational inertia and faster spool. Includes a bespoke intercooler setup with dual-core PWR (Paul Weeks Racing) heat exchangers and 40mm thick end tanks for optimized airflow and reduced intake temps (targeting <40°C at 1.8 bar).",
+    "Fuel & Ignition: Full Motec M150 ECU standalone system with custom Koenigsegg-specific calibration maps, integrated with a dual-fuel system (E85 + race gasoline) managed by a Bosch Motorsport MS25 high-pressure fuel pump (2,000+ bar capability). Ignition system upgraded to NGK R8437-10 Iridium Racing spark plugs with 0.6mm gap for E85 compatibility, paired with a custom Koenigsegg-designed coil-on-plug system with 50mJ output per cylinder."
+  ],
+  "estetica": [
+    "Aerodynamics: Full 'Heritage Aero' package, including a custom Vortex Generator set (3D-printed carbon fiber) mounted on the rear decklid to reduce drag by 8% and improve high-speed stability. Front splitter upgraded to a Koenigsegg-designed 'Active Aero' system with hydraulic actuation (0-15mm adjustment) for dynamic downforce tuning, paired with a fixed carbon fiber rear diffuser featuring integrated LED brake cooling ducts.",
+    "Bodywork: Full carbon fiber body panels replaced with Koenigsegg's 'Ghost Carbon' weave (translucent finish) over a custom 'Heritage Blue' base coat, applied via a 12-stage hand-polishing process. Side skirts and rear bumper modified with a 'Shark Gill' venting system (inspired by the CCXR) to improve airflow extraction from the wheel wells, reducing lift by 12%.",
+    "Wheels & Brakes: Custom Dymag Carbon Revolution CR-9 wheels (19x11 front, 20x13 rear) with center-lock titanium nuts, wrapped in Michelin Pilot Sport Cup 2 R tires (265/35 ZR19 front, 345/30 ZR20 rear). Brake system upgraded to a full AP Racing CP9660 monoblock caliper setup with 400mm carbon-ceramic rotors (CCM-X material) and bespoke Koenigsegg-designed titanium brake lines for reduced unsprung weight and improved pedal feel."
+  ]
+}

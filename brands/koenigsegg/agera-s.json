@@ -1,0 +1,14 @@
+{
+  "brand": "KOENIGSEGG",
+  "model": "AGERA S",
+  "prestazioni": [
+    "Installation of a **Koenigsegg-developed twin-turbocharged 5.0L V8 (engine code: KA50S)** with upgraded **Garrett GTX5533R Gen II** turbos (1.45 A/R compressor housings, billet wheels, and ceramic ball bearings) to push boost from 1.2 bar to 1.8 bar, yielding **1,300+ hp on E85** while retaining the factory dry-sump lubrication system and **Koenigsegg’s proprietary 180-bar direct injection** for optimal fuel atomization.",
+    "Replacement of the stock **Koenigsegg 7-speed dual-clutch transaxle (code: KDD-7)** with a **CIMA 7-speed sequential gearbox (model: CIMA-7SX)** featuring a **titanium bellhousing**, **carbon-fiber clutch basket**, and **helical-cut gears** for faster shifts (sub-50ms) and a **20% reduction in rotational inertia**, paired with a **Pankl Racing Systems 4.0:1 final drive** for improved acceleration.",
+    "Integration of a **Motec M1800 ECU** with **Koenigsegg-specific firmware (v4.2.1)** for real-time lambda control, **individual cylinder knock detection**, and **adaptive ignition timing**, alongside a **Pectel SQ6M data logger** for telemetry monitoring, coupled with a **custom Akrapović titanium exhaust manifold** (equal-length 4-2-1 design) and **Inconel 625 turbine housings** to reduce backpressure by 30%."
+  ],
+  "estetica": [
+    "Application of a **Koenigsegg Ghost Package** with **carbon-fiber weave (3K twill, matte finish)** on the **front splitter, rear diffuser, and side skirts**, including **active aerodynamics** via **Koenigsegg’s Triplex suspension-linked rear wing** (adjustable via **Bosch Rexroth hydraulic actuators**) for dynamic downforce modulation (up to 600kg at 250 km/h).",
+    "Installation of **OZ Racing Ultraleggera HLT wheels (20x9.5 front, 21x12.5 rear)** in **gold-anodized finish**, wrapped in **Michelin Pilot Sport Cup 2 R tires (265/35 ZR20 front, 345/30 ZR21 rear)** with **custom Koenigsegg TPMS sensors**, paired with **Brembo GT-R monobloc calipers (6-piston front, 4-piston rear)** and **carbon-ceramic rotors (410mm front, 390mm rear)** for fade-resistant braking.",
+    "Full **Rocket Bunny V3 widebody kit (Koenigsegg Agera S-specific)** with **extended carbon-fiber fenders (30mm wider front, 50mm wider rear)**, **custom LED taillights (Osram Ostar Projection modules)**, and a **Vorsteiner carbon-fiber rear spoiler (adjustable angle via electric actuators)**, finished in **PPG ‘Liquid Silver’ paint with **Koenigsegg’s ‘Ghost’ decal overlay** (matte black, semi-transparent)."
+  ]
+}

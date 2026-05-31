@@ -1,0 +1,14 @@
+{
+  "brand": "KOENIGSEGG",
+  "model": "JESKO ATTACK RS EVO",
+  "prestazioni": [
+    "Installation of a Koenigsegg-developed 'TFG (Twin-Fluid-Gas) 9-speed multi-clutch transmission' reinforcement package with upgraded carbon-fiber clutch plates (part #JESKO-TFG-CF-09) and a bespoke TCU recalibration for 20% faster upshifts under 3,000 Nm of torque, specifically optimized for the 5.0L twin-turbo V8 (engine code: KDD50TT) with 1,625 hp on E85 fuel",
+    "Upgrade to a custom Koenigsegg x Garrett 'GTX5544R Gen II' turbocharger setup with billet compressor wheels (76mm inducer, 106mm exducer) and inconel turbine housings (1.28 A/R), paired with a secondary intercooler core (part #JESKO-IC-SEC) to maintain 45°C intake temps at 3.2 bar boost on 100-octane race fuel",
+    "Integration of a MoTeC M182 ECU with a Jesko-specific 'Attack RS Evo' calibration map (firmware v4.2.19), enabling individual cylinder fuel trims, 12-stage anti-lag (ALS) with sequential turbo spooling, and a 9,500 RPM redline limiter for the KDD50TT engine with titanium valves and DLC-coated camshafts"
+  ],
+  "estetica": [
+    "Application of a Koenigsegg 'Triplex' carbon-fiber aero package (part #JESKO-AERO-TRIPLEX) featuring a 3-stage active rear wing with 1,400 kg downforce at 250 km/h, a front splitter with integrated vortex generators, and a rear diffuser with adjustable Gurney flaps (0-20mm range)",
+    "Installation of a bespoke 'Ghost' paint scheme with a multi-layered pearlescent base (PPG 'Liquid Silver' with 'Xirallic Crystal Silver' flakes) and a matte clear coat (PPG 'Deltron DCU2041'), paired with Koenigsegg 'Shield' carbon-fiber weave side skirts (part #JESKO-CF-SKIRT-SHIELD)",
+    "Replacement of the stock Jesko Attack RS wheels with a set of Dymag 'Carbon-V' hybrid wheels (20x11 front, 21x13 rear) featuring forged magnesium centers and carbon-fiber barrels, wrapped in Michelin Pilot Sport Cup 2 R tires (265/35 ZR20 front, 345/30 ZR21 rear) with custom Jesko 'Triplex' tread pattern"
+  ]
+}

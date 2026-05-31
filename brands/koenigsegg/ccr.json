@@ -1,0 +1,14 @@
+{
+  "brand": "KOENIGSEGG",
+  "model": "CCR",
+  "prestazioni": [
+    "Replace the stock **Ford Modular V8 (engine code: KOENIGSEGG 4.7L V8, internally designated 'KV8')** with a **custom billet aluminum block** from **RPM Engineering**, increasing bore to 96mm and stroke to 84mm for a **5.2L displacement**, paired with **JE Pistons 2618-T6 forged slugs** (9.5:1 CR) and **Carrillo H-beam connecting rods** for 1,200+ HP reliability on **E85**",
+    "Upgrade the **stock twin Rotrex C38-81 superchargers** to **Precision Turbo PT6266 CEA ball-bearing turbos** (custom billet compressor wheels, 76mm inducer, 106mm exducer) with **Tial MV-R 44mm wastegates** and **TurboSmart Race Port BOV**, running **3.5 bar (51 psi) boost** on a **Motec M150 ECU** with **custom anti-lag and launch control maps**",
+    "Install a **custom dry-sump oiling system** by **Dailey Engineering** with **dual Gerotor pumps**, **12-stage scavenge**, and **separate 10L oil tank** (Aeroquip -12AN lines), paired with a **Setrab 10-row oil cooler** and **Mocal thermostatic oil bypass valve** to maintain **180°F oil temps** under sustained 3,000+ RPM track use"
+  ],
+  "estetica": [
+    "Replace the **stock carbon fiber body panels** with **custom 1x1 twill weave pre-preg carbon** from **Composite Envisions**, featuring **integrated NACA ducts** (routed to the **rear-mounted intercoolers**) and a **removable 'clamshell' front splitter** with **adjustable Gurney flaps** (3D-printed from **carbon-filled nylon via SLS**)",
+    "Install a **full-width rear diffuser** by **Vorsteiner** (CCR-specific, **3-stage design**) with **active aerodynamics** (electrically actuated **adjustable angle of attack**, controlled via **Motec PDM15**), paired with **custom side skirts** (molded from **autoclave-cured carbon fiber**) featuring **integrated LED turn signals** (Luxxen LX-800, **6,000-lumen output**)",
+    "Swap the **stock 18-inch front / 20-inch rear wheels** for **Dymag CX-R carbon fiber wheels** (19x11 front, 20x13 rear, **18 lbs front / 22 lbs rear**), wrapped in **Michelin Pilot Sport Cup 2 R tires** (265/35 R19 front, 345/30 R20 rear) with **custom TPMS sensors** (Schrader EZ-Sensor, **10Hz data logging**) and **Brembo GT-R calipers** (6-piston front, 4-piston rear, **420mm CCM-R rotors**)"
+  ]
+}

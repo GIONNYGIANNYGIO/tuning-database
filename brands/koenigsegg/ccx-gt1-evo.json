@@ -1,0 +1,14 @@
+{
+  "brand": "KOENIGSEGG",
+  "model": "CCX GT1 EVO",
+  "prestazioni": [
+    "Engine: Koenigsegg 4.8L V8 (internally designated 'KV9000GT1') with forged internals, billet crankshaft, and titanium connecting rods; upgraded to 1,200+ HP via twin Garrett GTX5533R Gen II turbochargers with 106mm compressor wheels, custom 4.5-inch titanium downpipes, and a Motec M190 ECU with GT1-spec anti-lag and launch control mapping",
+    "Drivetrain: Koenigsegg 6-speed sequential transaxle with upgraded carbon-fiber driveshaft, AP Racing 6-piston GT1-spec calipers with 400mm carbon-ceramic rotors, and a Drexler limited-slip differential with 45% lock under load",
+    "Suspension: Öhlins TTX46 MkII coilovers with 3-way adjustable damping, custom GT1-spec sway bars (28mm front, 25mm rear), and spherical bearing monoball suspension mounts for sub-2Hz chassis rigidity tuning"
+  ],
+  "estetica": [
+    "Aerodynamics: Koenigsegg GT1 Evo-specific carbon-fiber aero package with a 2,200mm-wide front splitter (featuring active Gurney flaps), a 1,800mm rear wing with dual-plane adjustable elements, and underbody diffusers with vortex generators for 1,800kg of downforce at 250 km/h",
+    "Body: Full carbon-fiber body kit with Koenigsegg Automotive’s proprietary 'Triplex' weave, including GT1-spec fender flares (30mm wider front, 40mm wider rear), and a removable carbon roof panel with integrated roll cage",
+    "Interior: Sparco GT1 Pro racing seats with 6-point Schroth harnesses, a MOMO GT1 steering wheel with integrated Motec dash display, and a custom titanium shift knob for the sequential gearbox"
+  ]
+}

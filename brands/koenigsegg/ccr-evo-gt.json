@@ -1,0 +1,14 @@
+{
+  "brand": "KOENIGSEGG",
+  "model": "CCR EVO GT",
+  "prestazioni": [
+    "Engine: Koenigsegg 4.7L V8 (internally designated 'KV8-4700') with forged internals, upgraded to 1,200+ HP via twin Precision Turbo PT6766CE turbochargers (ball-bearing, 76mm inducer) on custom Inconel exhaust manifolds, paired with a Motec M190 ECU running a bespoke 200-bar direct injection map and methanol-water injection (Snow Performance Stage 3 kit) for charge cooling",
+    "Drivetrain: Upgraded 6-speed sequential transaxle (CIMA) with carbon-fiber clutch (Sachs Performance 3-disc) and Quaife ATB differential, reinforced with billet-aluminum bellhousing and custom half-shafts (Pankl Racing Systems) to handle 1,100 Nm of torque",
+    "Suspension/Chassis: Öhlins TTX40 3-way adjustable coilovers with remote reservoirs, custom valving for 1,500 kg downforce (at 250 km/h), paired with Koenigsegg-developed carbon-fiber double-wishbone arms and spherical bearings (Aurora Bearing Company), plus a full carbon-fiber monocoque reinforcement with titanium roll cage (Custom Cages UK) for 20% torsional rigidity increase"
+  ],
+  "estetica": [
+    "Aerodynamics: Full 'Ghost' aero package (Koenigsegg in-house) featuring a 3D-printed titanium front splitter with active Gurney flaps (controlled via Motec PDM), carbon-fiber rear diffuser with integrated LED brake cooling ducts, and a fixed rear wing (carbon-fiber, 1.8m span) with adjustable angle of attack (0-15 degrees) via electric actuators (Linak LA36)",
+    "Bodywork: Custom 'Evo GT' livery with matte-finish carbon-fiber weave (pre-preg, autoclave-cured) and exposed titanium fasteners (McMaster-Carr), including removable front fenders (for wider track) and a rear clamshell with integrated NACA ducts for transaxle cooling; side skirts replaced with 3D-printed aluminum (Aeromet A20X) for weight reduction",
+    "Interior: Full Alcantara-wrapped cockpit (Romo Racing) with carbon-fiber bucket seats (Sparco Pro 2000, FIA 8862-2009 certified), titanium pedal box (Tilton), and a bespoke digital dash (Motec C187) displaying real-time turbo pressure (0-3 bar), lambda (0.65-1.1), and G-forces; roll cage wrapped in Alcantara with integrated fire suppression (Lifeline Zero 360)"
+  ]
+}

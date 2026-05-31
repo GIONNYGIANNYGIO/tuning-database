@@ -1,0 +1,14 @@
+{
+  "brand": "KOENIGSEGG",
+  "model": "CC8S PROTOTYPE",
+  "prestazioni": [
+    "Engine: Koenigsegg 4.7L V8 (internally coded 'KV8-47' with billet aluminum block, forged titanium internals, and dry-sump lubrication) upgraded with a custom Garrett GT42R turbocharger (84mm compressor wheel, 1.28 A/R turbine housing) and TiAL MV-R 50mm wastegates for 1.6 bar (23 psi) boost, paired with a bespoke Koenigsegg-designed titanium intake manifold and 1000cc ID1000 injectors for E85 fuel compatibility",
+    "Drivetrain: Reinforced 6-speed sequential transaxle (Cima gearbox) with a Sachs Performance twin-disc carbon clutch (240mm diameter) and a Quaife ATB differential, mated to a custom 4WD system with Haldex Gen 4 torque vectoring for dynamic power distribution (0-100% front/rear bias)",
+    "Suspension & Chassis: Öhlins TTX46 coilovers with 3-way adjustable damping (compression, rebound, and high/low-speed settings), reinforced with Koenigsegg-specific carbon fiber subframes and spherical bearing control arms, paired with AP Racing 6-piston calipers (400mm carbon-ceramic rotors) and a hydraulic handbrake system for drift control"
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon fiber 'Shark Fin' rear wing (Koenigsegg in-house design, 1.2m span, adjustable angle of attack via hydraulic actuators) with integrated active Gurney flaps, paired with a Vortex Generator kit (3D-printed titanium) on the front splitter for boundary layer control",
+    "Exterior: Custom 'Ghost' matte vinyl wrap (3M 2080 series, color-matched to Koenigsegg's 'Opal White' with iridescent flakes) applied over a bare carbon fiber body, featuring a one-off 'Dihedral Synchro-Helix' door mechanism with electrochromic glass (SageGlass) for instant tinting",
+    "Interior: Full Alcantara-wrapped cockpit (Romo's Alcantara, 'Nero' color) with bespoke Koenigsegg 'Titanium Weave' carbon fiber door cards, a digital dash (12.3-inch TFT, custom Koenigsegg UI) and a Sparco Pro 2000 seat (carbon-Kevlar shell, 6-point harness) with integrated heating and cooling (via Peltier elements)"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "KOENIGSEGG",
+  "model": "AGERA FE",
+  "prestazioni": [
+    "Engine: Koenigsegg 5.0L V8 (internal code: *Kappa V8*), upgraded with a bespoke *Precision Turbo & Engine PT8285R* billet turbocharger (85mm inducer, 106mm exducer) paired with a *Tial MV-R 60mm* wastegate for 2.2 bar (32 psi) peak boost, replacing the stock *Honeywell GT55* setup. Compression ratio increased to 9.6:1 via *JE Pistons* forged 2618 alloy slugs with *Total Seal* gapless rings and *Manley* titanium valves (intake: 42mm, exhaust: 36mm) for 1,400+ hp on E85.",
+    "Fuel System: *Bosch Motorsport MS15.1* standalone ECU with *Motec PDM30* power distribution module, controlling dual *ID1700x* injectors per cylinder (8 total) and a *Radium Engineering* dual-pump surge tank feeding *AEM 400LPH* in-tank pumps. Custom *Koenigsegg* carbon-fiber intake manifold with *Injector Dynamics* flow-matched injectors and *NGK* 97506 Iridium IX spark plugs gapped at 0.024\".",
+    "Drivetrain: *Koenigsegg* 7-speed *Light Speed Transmission (LST)* with *Pankl Racing* 300M steel gears and *AP Racing* carbon-carbon triple-plate clutch (280mm diameter, 3,500 Nm torque capacity). *Wavetrac* limited-slip differential with *Motul Gear 300* 75W-140 fluid and *Koenigsegg* titanium half-shafts with *GKN* CV joints for 1,200 Nm wheel torque."
+  ],
+  "estetica": [
+    "Aerodynamics: *Koenigsegg* *Ghost* aero package with *Vortex Generators* on the front splitter (3D-printed *Stratasys* carbon-fiber) and a *Gurney flap* on the rear wing (adjustable via *MoTeC* actuators). *Rocket Bunny* widebody conversion with *Seibon* carbon-fiber fenders (2.5\" wider front, 3.0\" wider rear) and *VMR* 707RS 20x11\" (front) / 21x13\" (rear) forged wheels with *Michelin Pilot Sport Cup 2 R* tires (265/35 R20 front, 325/30 R21 rear).",
+    "Exterior: *PPG* *Liquid Black* matte paint with *3M* *Scotchlite* reflective pinstriping (0.5mm width) and *Koenigsegg* *Triplex* rear window replaced with *Lexan* polycarbonate (12mm thick, *SABIC* grade). *Novitec* carbon-fiber side skirts with *LED* underglow (Philips *Lumileds* Luxeon Z ES) and *Koenigsegg* *Dihedral Synchro-Helix* doors modified with *KW Automotive* hydraulic struts for 1.5-second opening time.",
+    "Interior: *Recaro* *Pole Position* carbon-fiber seats (FIA 8862-2009 certified) with *Schroth* 6-point harnesses and *Alcantara* *Perforated* upholstery (custom *Rosso Corsa* stitching). *MOMO* *Mod.78* steering wheel (380mm diameter) with *AiM* *MXS Strada* data logger and *Bosch* *Motronic* telemetry display. *Brembo* *GT-R* brake calipers (6-piston front, 4-piston rear) with *Pagid* *RS29* pads and *DBA* *5000 Series* rotors (410mm front, 390mm rear)."
+  ]
+}

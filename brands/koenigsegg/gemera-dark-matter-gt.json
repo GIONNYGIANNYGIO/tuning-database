@@ -1,0 +1,14 @@
+{
+  "brand": "KOENIGSEGG",
+  "model": "GEMERA DARK MATTER GT",
+  "prestazioni": [
+    "TFSI 2.0L Twin-Turbo Inline-3 (TFG engine code) hybridized with three electric motors (total 1,700 hp), upgraded with a Garrett GTX5544R Gen II turbocharger (1.4 bar boost) and a custom Koenigsegg-developed titanium-aluminide turbine wheel for reduced inertia and 12% faster spool response, paired with a bespoke Akrapovič 3D-printed Inconel exhaust manifold with integrated water-cooled wastegates to handle 1,100°C exhaust temps",
+    "Koenigsegg Direct Drive (KDD) system recalibrated with a 9-speed multi-clutch transaxle featuring carbon-fiber clutch plates (AP Racing CP9660-2) and a Motec M190 ECU with custom torque-vectoring maps for the front electric motors (YASA P400), enabling 0-60 mph in 1.7s with launch control optimized for Michelin Pilot Sport Cup 2 R tires (345/25 R21 front, 355/25 R22 rear) on forged Koenigsegg Aircore wheels (21x11.5 front, 22x12.5 rear)",
+    "Full Ohlins TTX46 MkII coilover suspension with 3-way adjustable dampers (compression, rebound, and high-speed valving) and a bespoke carbon-fiber anti-roll bar system (18mm front, 16mm rear) developed in collaboration with Öhlins Racing, paired with a KW Automotive hydraulic lift kit (50mm travel) for curb clearance and a custom Koenigsegg-designed active aerodynamics package (front splitter, rear diffuser, and active rear wing) with 1,200 kg of downforce at 250 km/h"
+  ],
+  "estetica": [
+    "Full carbon-fiber body kit by Koenigsegg Advanced Composites (KAC) featuring a one-piece front splitter with integrated LED aero strakes, side skirts with active cooling vents for the hybrid battery pack (1.2 kWh capacity), and a rear diffuser with titanium exhaust outlets (dual 100mm tips) wrapped in a satin Dark Matter finish with exposed carbon-fiber weave accents",
+    "Custom 3D-printed titanium door hinges and mirror mounts (by Koenigsegg’s in-house additive manufacturing division) with integrated LED turn signals, paired with a bespoke carbon-fiber roof scoop (for hybrid battery cooling) and a rear wing with adjustable Gurney flaps (3 positions) controlled via the infotainment system (NVIDIA Drive platform)",
+    "Interior overhaul with full Alcantara-wrapped dashboard (by Saddleback Leather Co.), carbon-fiber bucket seats (Sparco Pro 2000 with 6-point Schroth harnesses), and a custom digital instrument cluster (12.3-inch curved OLED) displaying real-time telemetry (boost, battery charge, torque split) alongside a bespoke audio system (Bowers & Wilkins Diamond Series with 11 speakers and a 2,400W amplifier) tuned for the Gemera’s cabin acoustics"
+  ]
+}

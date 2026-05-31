@@ -1,0 +1,14 @@
+{
+  "brand": "KOENIGSEGG",
+  "model": "JESKO ABSOLUT PROTOTYPE",
+  "prestazioni": [
+    "Engine: Koenigsegg 5.0L twin-turbo V8 (internal code: *TFG V8 5.0L*), upgraded with a bespoke *Garrett GTX5544R Gen II* turbocharger setup (custom billet compressor wheels, 106mm inducer, 3D-printed Inconel turbine housing) to push peak boost to 2.8 bar (40.6 psi) while maintaining 98 RON fuel compatibility. The stock *Koenigsegg Direct Drive (KDD)* 9-speed transmission receives a *Quaife ATB helical LSD* with carbon-fiber clutch plates and a *Pankl Racing Systems* titanium driveshaft for 1,600 Nm torque capacity.",
+    "Fuel System: Replacement of the stock *Bosch Motorsport MS 2.9* ECU with a *Syvecs S12 Pro* standalone unit, paired with *Motec M150* data logging and a *Radium Engineering* dual-channel port injection system (supplementing the stock direct injection) using *ID1700x* injectors for E85 compatibility. The *Koenigsegg Fuel System* is upgraded with *AEM 50-1200L* high-flow fuel pumps and *XRP* -3AN braided stainless lines with *Earl’s Vapor Guard* fittings.",
+    "Aerodynamics: Installation of a *Koenigsegg-developed* active rear wing (Absolut-specific, carbon-fiber with *Hexcel HexTow IM7* prepreg) generating 1,200 kg of downforce at 400 km/h via *F1-style DRS* (Drag Reduction System) with *Moog* electro-hydraulic actuators. The front splitter is reinforced with *Toray T1100G* carbon fiber and features *Vortex Generators* (VG) from *Aerodine Composites* to delay airflow separation at Mach 0.4+ speeds."
+  ],
+  "estetica": [
+    "Exterior: Full *Koenigsegg Ghost Lightweight* carbon-fiber body kit (Absolut-specific, 2x2 twill weave) with *PPG *Xtreme Basecoat/Clearcoat* in *Liquid Silver* (custom metallic flake) and *3M Scotchlite* reflective pinstriping along the A-pillars. The *Koenigsegg Shimmering Shield* front grille is replaced with a *Vossen HF-5* forged aluminum mesh (anodized *Space Gray*) for improved airflow to the *Callaway Carbon* intercoolers.",
+    "Wheels: *Dymag CX-5* hybrid carbon-fiber/magnesium wheels (20x11 front, 21x13 rear) with *Pirelli P Zero Trofeo R* tires (345/30 R20 front, 355/25 R21 rear) and *HRE Performance* titanium lug nuts. The brake calipers are *AP Racing CP9660* 6-piston (front) and 4-piston (rear) with *Carbon Revolution* carbon-ceramic rotors (420mm front, 395mm rear) and *Ferodo HT-25* pads.",
+    "Interior: *Sparco QRT-K* carbon-fiber bucket seats (FIA 8862-2009 certified) with *Schroth Profi II-6* 6-point harnesses and *Alcantara* upholstery (*Rosso Corsa* stitching). The dashboard is replaced with a *Koenigsegg *Nexus* digital display (12.3-inch OLED) running *Bosch VCU* software, paired with a *RaceLogic VBOX Sport* data logger and *AiM MXL2* steering wheel display. The roll cage is a *Custom Cages* T45 steel structure with *MIG-welded* joints and *Zircotec* thermal coating."
+  ]
+}

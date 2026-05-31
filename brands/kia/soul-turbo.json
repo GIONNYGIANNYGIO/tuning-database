@@ -1,0 +1,14 @@
+{
+  "brand": "KIA",
+  "model": "SOUL TURBO",
+  "prestazioni": [
+    "Engine: Replace the stock turbocharger (Garrett MGT2259S) on the **Gamma 1.6L T-GDI (G4FJ)** with a **Garrett GTX3071R Gen II** (0.63 A/R turbine housing, 56mm compressor wheel) for a targeted 300-320whp on E30 fuel, paired with a **PTP Turbo Inlet Pipe (TIP) with silicone coupler** to eliminate boost leaks under high load.",
+    "Fuel System: Upgrade to **Injector Dynamics ID1050x** (1050cc/min) injectors with a **Radium Engineering fuel pressure regulator (FPR) and dual Bosch 044 fuel pumps** to support the GTX3071R’s airflow, while integrating a **Syvecs S6Plus standalone ECU** for closed-loop fueling and ignition control with flex-fuel capability.",
+    "Drivetrain: Install a **South Bend Clutch Stage 2+ (organic/copper hybrid) with a billet steel flywheel** to handle increased torque, paired with a **PPG 6-speed close-ratio gear set (1st: 2.97, 2nd: 2.08, 3rd: 1.57, 4th: 1.22, 5th: 1.00, 6th: 0.84)** in the OEM Kia M6CF3 transmission case for optimized acceleration."
+  ],
+  "estetica": [
+    "Aero: Fit the **Liberty Walk LB-SOUL widebody kit** (fiberglass fenders, front/rear bumpers, and side skirts) with **custom carbon fiber canards (APR GTC-2000 style)** and a **Seibon carbon fiber hood (OEM+ with functional vents)** to reduce front-end lift at speed.",
+    "Suspension: Replace the stock struts with **Ohlins Road & Track DFV coilovers (KIA SOUL-specific valving)** and **SPL Front Upper Control Arms (UCA) with spherical bearings** for camber adjustment, paired with **Whiteline adjustable rear sway bars (22mm front, 18mm rear)** to eliminate body roll.",
+    "Wheels: Mount **Work Emotion CR Kiwami 18x9.5 +22 (front) and 18x10.5 +30 (rear)** with **Michelin Pilot Sport Cup 2 R tires (245/40/18 front, 275/35/18 rear)** for optimal grip, using **Hankook Ventus R-S4 semi-slick tires (255/40/18 front, 285/35/18 rear)** for track days."
+  ]
+}

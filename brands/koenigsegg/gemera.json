@@ -1,0 +1,14 @@
+{
+  "brand": "KOENIGSEGG",
+  "model": "GEMERA",
+  "prestazioni": [
+    "Installation of a **Koenigsegg-developed TFG (Tiny Friendly Giant) 2.0L inline-3 hybrid powertrain (engine code: KDD-3C20)** with a **Garrett GTX5544R Gen II turbocharger** (custom billet compressor wheel, 76mm inducer, 106mm exducer) paired with a **Precision Turbo & Engine wastegate (PT6266 CEA)** for optimized boost response at 2.8 bar (40.6 psi) peak pressure, targeting **1,800+ hp** on E85 fuel with a **MoTeC M182 ECU** recalibration for direct port injection and sequential ignition timing adjustments",
+    "Upgrade to a **Koenigsegg-designed 9-speed multi-clutch transmission (Light Speed Transmission - LST)** with **AP Racing carbon-carbon clutch discs (CCX-R spec)** and a **Pankl Racing Systems 300M steel driveshaft** to handle the increased torque, paired with a **Quaife ATB helical LSD** for front-wheel torque vectoring in hybrid mode",
+    "Integration of a **Bosch MGU-K (Motor Generator Unit - Kinetic) hybrid system** with a **YASA P400 electric motor** (300 kW peak output) and a **Northvolt 16.6 kWh lithium-ion battery pack** (custom liquid-cooled, 800V architecture) for instantaneous torque fill, enabling **0-60 mph in 1.7 seconds** with a **Motec PDM30 power distribution module** for seamless energy recovery and deployment"
+  ],
+  "estetica": [
+    "Installation of a **Koenigsegg Automotive x Rocket Bunny widebody aero kit** (carbon fiber, 3-piece front splitter, aggressive side skirts with integrated air curtains, and a **dual-element rear wing** with active Gurney flaps) for a **30% increase in downforce** at 250 km/h, finished in **PPG 'Liquid Black' with 'Ghost' pearlescent flakes**",
+    "Replacement of the stock **dihedral synchro-helix door actuators** with **BOSCH Rexroth electro-hydraulic actuators** for faster door deployment (0.8s open/close cycle) and integration of **OLED ambient lighting strips** (RGBW, 16.7M colors) along the door sills, center console, and headliner, controlled via **Koenigsegg NEXUS infotainment system**",
+    "Adoption of **BBS FI-R forged magnesium wheels (20x9.5 front, 21x12.5 rear)** with **Pirelli P Zero Trofeo R tires (265/35 R20 front, 325/30 R21 rear)** and **Brembo GT-R monobloc calipers (6-piston front, 4-piston rear)** with **carbon-ceramic rotors (410mm front, 390mm rear)** featuring **Koenigsegg’s ‘Aircore’ cooling vanes** for reduced unsprung weight and improved brake cooling"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "KIA",
+  "model": "RIO GT",
+  "prestazioni": [
+    "Hyundai-Kia G4FC 1.6L Gamma II MPI engine (engine code: G4FC) forced induction via Garrett GT2860RS turbocharger (0.63 A/R turbine housing, 60 trim compressor wheel) with custom 3-inch stainless steel downpipe and HKS Hi-Power SSQV4 blow-off valve",
+    "Kelford 184-B camshafts (264° duration, 10.2mm lift) paired with Ferrea 5000-series intake/exhaust valves, Supertech dual valve springs, and ARP head studs for 12.5:1 static compression",
+    "Haltech Elite 2500 standalone ECU with custom flex-fuel ethanol mapping, AEM 3.5bar MAP sensor, and Bosch 1000cc high-impedance injectors, supported by a Radium Engineering dual-catch can setup and Mishimoto aluminum core radiator"
+  ],
+  "estetica": [
+    "Liberty Walk LB-RIO widebody conversion kit (front fenders extended 30mm, rear fenders 50mm) with custom carbon fiber overfenders and custom-molded front bumper canards",
+    "Seibon Carbon fiber hood with integrated 3-inch aluminum vent and custom Kia Motorsport-style red pinstripe accents, paired with a custom rear diffuser from Rocket Bunny (RB-RIO) in raw carbon fiber finish",
+    "Work Meister S1 3P 17x8.5 +35 wheels (ET35) with 225/40R17 Michelin Pilot Sport Cup 2 tires, wrapped in custom Kia GT Motorsport center caps, and paired with D2 Racing RS coilovers (8kg/mm front, 7kg/mm rear) with Swift Springs 8x22mm front and 9x24mm rear"
+  ]
+}
