@@ -1,0 +1,14 @@
+{
+  "brand": "LADA",
+  "model": "VESTA SPORT",
+  "prestazioni": [
+    "Engine: Replace the stock 1.8L VAZ-21179 (122 hp) with a forged internals build featuring Mahle Motorsport forged pistons (8.5:1 CR), Carrillo H-beam connecting rods, and a custom billet crankshaft from 2JZ-GTE heritage (reworked for VAZ block compatibility). Pair with a Garrett GTX3071R Gen II turbo (0.82 A/R, 62mm compressor) on a custom tubular manifold by Stinger Performance (Russia), supporting 1.5 bar boost with a Tial MV-R 44mm wastegate.",
+    "Fuel System: Upgrade to a Bosch Motorsport 044 high-flow fuel pump (340 LPH) with a Radium Engineering dual-port fuel pressure regulator. Injectors: ID1000x (1000cc/min) with a custom ECU tune via EcuTek ProECU (VAZ-21179-specific ROM) for ethanol E85 compatibility, targeting 300+ hp at the crank with a 200-shot nitrous oxide kit (ZEX 82040) for on-demand power.",
+    "Drivetrain: Install a Sachs Performance twin-disc clutch (6-puck, 400 Nm torque capacity) with a lightweight flywheel (12.5 kg) from Fidanza. Pair with a Quaife ATB helical LSD (VAZ-2181 transaxle-specific) and a custom short-shift kit by B&M (25% reduction in throw) with a Hurst Competition Plus shifter."
+  ],
+  "estetica": [
+    "Aero: Full Rocket Bunny Vesta Sport widebody kit (Pandem Design) with carbon fiber front splitter, rear diffuser, and overfenders (30mm wider front, 40mm wider rear). Add a custom GT wing (Voltex Type-3, 1700mm span) with adjustable carbon fiber endplates and a 3D-printed ABS gurney flap (15mm).",
+    "Suspension: Ohlins Road & Track coilovers (VAZ-2181 chassis-specific, 3-way adjustable damping) with custom spring rates (8K front, 7K rear) and spherical bearing top mounts by SuperPro. Install a Whiteline front sway bar (24mm, adjustable) and rear sway bar (22mm) with poly bushings (Energy Suspension).",
+    "Wheels/Tires: Enkei PF07 wheels (18x9.5 +35 front, 18x10.5 +40 rear) in matte black with Michelin Pilot Sport Cup 2 tires (245/40/18 front, 275/35/18 rear). Brake upgrade: Brembo GT 6-piston calipers (355mm front rotors, 330mm rear) with Ferodo DS2500 pads and Goodridge stainless steel brake lines."
+  ]
+}

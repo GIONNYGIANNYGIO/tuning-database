@@ -1,0 +1,14 @@
+{
+  "brand": "KOENIGSEGG",
+  "model": "REGERA AERO PACKAGE",
+  "prestazioni": [
+    "Replacement of the stock TFG (Twin-Fluidic-Generator) hybrid system with a Koenigsegg-developed 'TFG 2.0' unit, featuring a 5.0L V8 (internal code: KDD-50) with reinforced Mahle Motorsport forged pistons (95mm bore, 10.8:1 CR) and upgraded titanium connecting rods (Pankl Racing Systems), paired with a Garrett GTX5544R Gen II turbocharger (1.45 A/R, 106mm compressor wheel) and a custom 4.5L air-to-water intercooler (Setrab Pro Line) for sustained 1,800+ hp on E85 fuel",
+    "Installation of a Koenigsegg-specific 'Direct Drive' torque-vectoring differential (DDD) with a carbon-fiber driveshaft (Hexcel IM7) and a 9-speed multi-clutch transaxle (Koenigsegg Light Speed Transmission - LST) recalibrated via a Motec M150 ECU with a bespoke 'Track Attack' map, reducing 0-60 mph to 1.8s via pre-programmed launch control and torque biasing to the rear wheels (80/20 split under 100 mph)",
+    "Upgraded braking system featuring AP Racing CP9760-1000 carbon-ceramic rotors (420mm front, 395mm rear) with titanium pistons, paired with Ferodo DS3000 brake pads and a Koenigsegg-developed 'Brake-by-Wire' ABS system (Bosch Motorsport MS 5.1) with 12-stage adjustability, reducing 124-0 mph braking distance to 180 feet"
+  ],
+  "estetica": [
+    "Full carbon-fiber 'Aero Package' bodywork replacement with Koenigsegg's 'Ghost' weave (pre-preg autoclave, 3K twill), including a revised front splitter with active Gurney flaps (electrically adjustable via the infotainment system) and a rear diffuser with integrated vortex generators (tested in Sauber F1 wind tunnel, reducing drag by 12% at 250 mph)",
+    "Custom 'Triplex' suspension arms (visible through the front fenders) fabricated from aerospace-grade 7075-T6 aluminum with anodized gold accents, paired with Ohlins TTX46 coilovers (3-way adjustable, 200mm travel) and a Koenigsegg-developed 'Dynamic Ride Height' system (hydraulic actuators, lowering the car by 30mm at 100 mph for reduced drag)",
+    "Exterior lighting upgrade to Koenigsegg's 'Lux' LED system, featuring adaptive matrix headlights (Osram SSL 150, 1,500 lumens) with laser high-beams (ZKW Group, 600m range) and a rear light bar with sequential turn signals (Philips Lumileds, 300% brighter than stock), all controlled via a CAN bus interface for real-time adjustment"
+  ]
+}

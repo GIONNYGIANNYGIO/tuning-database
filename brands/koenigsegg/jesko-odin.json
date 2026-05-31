@@ -1,0 +1,14 @@
+{
+  "brand": "KOENIGSEGG",
+  "model": "JESKO ODIN",
+  "prestazioni": [
+    "Installation of a Koenigsegg-developed 'TFG (Twin-Fluid-Gas) 1016' turbocharger system, specifically engineered for the Jesko's 5.0L V8 'Jesko TFG' engine (internal code: KOD-50TFG), utilizing a secondary methanol-water injection to cool intake temps by 22°C under full boost (34 psi), enhancing volumetric efficiency to 128% and pushing power to 1,750 HP on E85 fuel with a 9,500 RPM redline retention",
+    "Precision-machined titanium connecting rods from Pankl Racing Systems (part #PRS-TI-9100-JESKO) with a 4340 steel wrist pin upgrade (ARP Custom Age 625+), reducing reciprocating mass by 18% and allowing for a 10,200 RPM over-rev capability in short bursts (ECU-limited to 9,800 RPM for longevity)",
+    "Full carbon-fiber intake manifold redesign by Koenigsegg Advanced Engineering (KAE), featuring individual throttle bodies with 90mm bore (up from 85mm stock) and integrated piezoelectric fuel injectors from Bosch Motorsport (part #0 261 500 455), calibrated for 1,200cc/min flow rates at 120 bar rail pressure, paired with a bespoke dry-sump oiling system from Moroso (part #22100) with dual scavenge pumps and a 14-quart capacity"
+  ],
+  "estetica": [
+    "Custom 'Odin' widebody aero kit by Koenigsegg Automotive AB, featuring a 3D-printed titanium front splitter with active Gurney flaps (adjustable via Koenigsegg's 'Triplex' suspension ECU) and a carbon-fiber rear diffuser with integrated LED 'Thor's Hammer' light signature, reducing drag coefficient to 0.278 Cd while generating 1,400 kg of downforce at 250 km/h",
+    "Forged magnesium wheels from Dymag (model: CX-R, 20x11 front / 21x13 rear) with center-lock titanium nuts (Koenigsegg part #K-00567), wrapped in custom Michelin Pilot Sport Cup 2 R tires (345/30 R20 front, 375/25 R21 rear) featuring a bespoke compound (Michelin part #PSC2R-JESKO) for 1.8g lateral grip at 120°C tire temps",
+    "Full carbon-fiber monocoque repaint in 'Odin Blue' with a multi-layer pearlescent flake (PPG part #KSE-9045) applied via a 12-stage process, including a UV-reactive clear coat embedded with Koenigsegg's proprietary 'Ghost' logo (visible only under 365nm wavelength light), paired with a custom titanium exhaust finisher (part #K-00789) featuring laser-engraved Norse runes"
+  ]
+}

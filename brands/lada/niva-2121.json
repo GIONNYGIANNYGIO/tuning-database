@@ -1,0 +1,14 @@
+{
+  "brand": "LADA",
+  "model": "NIVA 2121",
+  "prestazioni": [
+    "Engine swap to a **VAZ-21214-20** (1.7L, 83mm bore, 80mm stroke, 9.3:1 CR) with a **Garrett GT2860RS** turbocharger (0.63 A/R turbine housing, 60mm compressor inducer) running 1.2 bar of boost, paired with a **Tial MV-R 38mm** wastegate and **Sard 600cc/min** side-feed injectors. Custom **ECU Master EMU Black** standalone ECU with closed-loop lambda control and individual cylinder trimming for the VAZ’s uneven firing order (1-3-4-2).",
+    "Full **VAZ-21214** forged internals: **Mahle Motorsport** forged pistons (8.5:1 CR for boost), **Manley** H-beam connecting rods (156mm center-to-center), and **Crower** billet crankshaft (80mm stroke). **ARP 625+** head studs and **Cometic MLS** head gasket (0.051\" thickness) to handle 250+ WHP. **Schrick 268° camshafts** (11.5mm lift) with **Supertech** valve springs and **Titanium retainers** for 8,000 RPM redline.",
+    "Drivetrain reinforcement: **Rzeppa CV joints** (200mm outer diameter) from a **Lada 4x4 Urban** for 30% higher torque capacity, **Quaife ATB LSD** in the **VAZ-2101** rear differential (8\" ring gear), and **South Bend Clutch** Stage 3 daily disc with **VAZ-2121** flywheel lightened to 6.5kg. **Samara 2** (VAZ-2115) 5-speed gearbox with **close-ratio gears** (1st: 3.64, 2nd: 2.11, 3rd: 1.37, 4th: 1.00, 5th: 0.82) and **Hewland** quick-shift mechanism."
+  ],
+  "estetica": [
+    "**Rocket Bunny PB-NIVA** widebody kit (FRP construction) with **custom 3\" fender flares** to clear **235/75R15 BFGoodrich KM3** tires on **Method MR701** 15x9\" wheels (-12mm offset). **Custom aluminum roof panel** (0.8mm thickness) replacing the stock steel roof for 12kg weight reduction and **integrated roof scoop** feeding the **Garrett intercooler**.",
+    "**Lada Sport** OEM+ front bumper delete with **custom tubular steel bullbar** (25mm OD, 2mm wall thickness) and **Hella 90mm** LED light pods. **Carbon fiber hood** (2x2 twill, 200gsm) with **functional NACA ducts** for turbo intake and **AeroCatch** hood latches. **Custom rear diffuser** (3D-printed PETG) with **integrated tow hooks** and **dual 3\" exhaust outlets** (stainless steel, **Borla Pro XS** mufflers).",
+    "**OMP KS-3** FIA-spec roll cage (8-point, 45mm OD, 2.5mm wall thickness) with **custom door bars** and **Schroth Profi II 6-point harnesses**. **Recaro SRD** seats (VAZ-2121-specific mounting brackets) with **Sparco 3mm carbon fiber seat sliders**. **Custom aluminum dashboard** (CNC-milled, 3mm thickness) with **Aim MXS Strada** 5\" dash display and **Defi Advance BF** gauges (boost, oil temp, fuel pressure)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "KOENIGSEGG",
+  "model": "AGERA XS LM EDITION",
+  "prestazioni": [
+    "Engine: Koenigsegg 5.0L V8 twin-turbo (internal code: *Kappa V8 TT*), upgraded with a bespoke *Precision Turbo & Engine PT6266 CEA* turbocharger setup (76mm billet wheel, 1.15 A/R turbine housing) paired with *Tial MV-R 60mm* wastegates for 2.2 bar peak boost, replacing the stock *Honeywell GT35* turbos. Compression ratio increased to 9.6:1 via *JE Pistons* forged slugs (94mm bore) with *Manley H-beam connecting rods* and *ARP Custom Age 625+* head studs for 1,400+ hp on E85.",
+    "Fuel System: *Bosch Motorsport MS35.1* ECU reflash with *Motec PDM30* power distribution module, feeding *ID1700x* direct-port injectors (primary) and *AEM 2200cc* port injectors (secondary) via *Radium Engineering* dual-fuel rail system. *Aeromotive A1000* lift pump and *XRP* -8AN fuel lines with *Earl’s Vapor Guard* hose ends for 1,200+ L/hr flow at 8 bar.",
+    "Drivetrain: *Koenigsegg 7-speed *Light Speed Transmission* (LST) with *Pankl Racing* 1st-3rd gear sets (helical-cut, 2.5x torque capacity) and *AP Racing* carbon-carbon clutch (3-plate, 1,200 Nm capacity). *Quaife ATB differential* with *Wavetrac* preload system and *GKN* CV joints for 0.1s gear shifts via *Koenigsegg’s *Triplex* torque-vectoring rear suspension."
+  ],
+  "estetica": [
+    "Aerodynamics: *Koenigsegg LM-Spec* carbon fiber body kit with *Vortex Generators* (3D-printed titanium, 12x per side) on the *Le Mans-inspired* front splitter, *Gurney flaps* (adjustable, 20mm-40mm) on the *active rear wing* (3-position: 0°, 15°, 30°), and *underbody diffusers* with *blown flaps* (pneumatic, linked to throttle position) for 1,200 kg downforce at 250 km/h.",
+    "Wheels/Tires: *Dymag Carbon Revolution* CR9 wheels (20x9.5 front, 21x12.5 rear) with *Michelin Pilot Sport Cup 2 R* tires (265/35 ZR20 front, 345/30 ZR21 rear) mounted via *BBS* center-lock hubs. *HRE* forged magnesium wheel nuts (titanium anodized) and *Koenigsegg* proprietary *Aircore* TPMS sensors (0.1 psi accuracy).",
+    "Interior: *Sabelt 6-point harness* (FIA 8853/2016 spec) with *Schroth* anti-submarine belts, *Sparco* carbon-Kevlar bucket seats (LM-spec, 1.2kg lighter than stock), and *Alcantara* steering wheel wrapped in *MOMO* suede with *AiM MXL2* data logger integrated into the *Koenigsegg* infotainment system (OLED, 10.1\"). *Brembo* brake bias adjuster (cockpit-adjustable, 50-80% range) and *OMP* fire suppression system (plumbed to *Vibrant* -4AN lines)."
+  ]
+}

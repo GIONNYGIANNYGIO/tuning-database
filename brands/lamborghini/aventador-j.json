@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "AVENTADOR J",
+  "prestazioni": [
+    "Lamborghini L539 6.5L V12 naturally aspirated engine: Replace the OEM exhaust manifold with a custom Novitec Torado 1-7/4-2-1 equal-length titanium header system, reducing backpressure by 18% and increasing mid-range torque by 22 lb-ft at 5,200 RPM while maintaining OEM catalytic converter compliance for EU/US emissions.",
+    "L539 V12 ECU recalibration via Lamborghini Squadra Corse Motec M150 standalone ECU with bespoke fuel and ignition maps, optimizing for 102-octane race fuel (e.g., VP Racing C16) to achieve 820 HP at 8,500 RPM (up from 700 HP) and a 9,000 RPM redline, paired with a custom Novitec Torado carbon fiber intake manifold featuring 8 individual throttle bodies (ITBs) for instantaneous throttle response.",
+    "Chassis reinforcement via a custom Novitec Torado monocoque-strengthening kit using aerospace-grade 7075-T6 aluminum alloy subframe braces and a full carbon fiber torque tube, reducing flex by 34% under lateral G-forces, paired with Ohlins TTX40 3-way adjustable coilovers with 12-position rebound damping and 24-position compression damping, specifically valved for the Aventador J’s 47/53 weight distribution."
+  ],
+  "estetica": [
+    "Full Novitec Torado 'Aero J' carbon fiber body kit, including a 3D-scanned front splitter with integrated vortex generators, a rear diffuser with active Gurney flap (electronically adjustable via Lamborghini’s ANIMA drive modes), and side skirts with NACA ducts for brake cooling, all finished in a custom 'Giallo Orion' matte paint with UV-reactive clear coat.",
+    "Custom Novitec Torado 'Jota' 20-inch forged magnesium wheels (9.5x20 ET25 front, 12.5x20 ET30 rear) with titanium wheel bolts and Pirelli P Zero Trofeo R tires (255/30 R20 front, 355/25 R20 rear), wrapped in a bespoke 'Lamborghini Corsa' stripe package with hand-painted 'J' logos on the rear quarter panels.",
+    "Interior overhaul with a full Alcantara-wrapped dashboard, carbon fiber door cards, and custom Novitec Torado racing seats (FIA 8862-2009 certified) upholstered in black Alcantara with yellow contrast stitching, paired with a bespoke titanium roll cage (TIG-welded 4130 chromoly) and a Motec C127 digital dash displaying real-time L539 V12 telemetry (AFR, boost pressure, oil temp, etc.)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "AVENTADOR LP750-4 SV",
+  "prestazioni": [
+    "Lamborghini L539 6.5L V12 naturally aspirated engine: Replace the OEM exhaust manifold with a custom Novitec Torado 1-7-4-10-2-8-5-11-3-9-6-12 equal-length titanium header system, reducing backpressure by 22% and increasing peak power to 820 HP at 8,500 RPM with a 9,000 RPM redline via Motec M150 ECU recalibration (stock internals retained).",
+    "Install a custom Novitec-engineered dry sump lubrication system with an additional scavenge pump stage, reducing oil starvation in sustained 1.5G+ lateral loads and enabling -1.8° of additional negative camber via KW Suspension Clubsport 3-way adjustable coilovers with linear-rate springs (1200 lb/in front, 1400 lb/in rear).",
+    "Replace the OEM dual-clutch transmission with a Hewland LLS sequential gearbox (6-speed, paddle-shift actuated) featuring a carbon-fiber bellhousing and a Sachs Racing twin-disc clutch (400 Nm torque capacity), reducing shift times to 45ms and enabling launch control at 6,500 RPM with a Motec PDM15 power distribution module for precise ignition cut management."
+  ],
+  "estetica": [
+    "Install a full Novitec SV-R widebody conversion kit, extending front fenders by 45mm and rear fenders by 60mm to accommodate 20x12.5 ET25 front and 21x13.5 ET30 rear forged aluminum wheels (HRE FF16 flow-formed, 9.5kg per wheel) wrapped in Michelin Pilot Sport Cup 2 R tires (265/30 R20 front, 325/25 R21 rear).",
+    "Replace the OEM front splitter with a custom carbon-fiber Novitec SV-R GT3-spec unit featuring an integrated 3D-printed titanium air curtain system (reducing front lift by 38%) and a rear diffuser with active Gurney flaps (adjustable via a Motec C125 dash interface, +2.1° for high-speed stability).",
+    "Install a full Novitec SV-R carbon-fiber interior overhaul, including a bespoke Alcantara-wrapped steering wheel with integrated Motec shift lights (12-LED, 6,000-9,000 RPM range), carbon-fiber door cards with titanium door pulls, and a custom roll cage (T45 steel, 1.5mm wall thickness) with integrated fire suppression system (Lifeline Zero 360, 3kg Novec 1230 agent)."
+  ]
+}

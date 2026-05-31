@@ -1,0 +1,14 @@
+{
+  "brand": "KOENIGSEGG",
+  "model": "GEMERA DARK MATTER",
+  "prestazioni": [
+    "Replacement of the stock TFG (Tiny Friendly Giant) 2.0L 3-cylinder engine's turbocharger with a **Garrett GTX5544R Gen II** hybrid turbo, specifically calibrated for the **TFG-2000** engine code, to push boost from 20 psi to 32 psi while maintaining Koenigsegg’s flat torque curve (1,100 Nm from 2,000 RPM) and increasing power output to 1,800 HP on E85 fuel with a custom **Syvecs S12 ECU** map optimized for the Dark Matter’s 600-bar direct injection system",
+    "Installation of a **Pankl Racing Systems** billet titanium connecting rod set (H-beam design, 4340 steel) with **ARP Custom Age 625+** rod bolts to handle the increased cylinder pressures, paired with a **JE Pistons** forged aluminum piston set (9.5:1 compression ratio, custom skirt coating) for the TFG-2000’s 88mm bore and 82mm stroke",
+    "Upgraded **Koenigsegg Direct Drive (KDD)** system with a **Quaife ATB LSD** differential (helical-cut, 45% lock) and a **Tilton Engineering** carbon-carbon triple-plate clutch (rated for 2,200 Nm) to replace the stock single-plate unit, ensuring power delivery to the **Koenigsegg 9-speed multi-clutch transmission** without torque loss under extreme acceleration"
+  ],
+  "estetica": [
+    "Full **Koenigsegg Dark Matter Aero Package** with a **Vortex Generator** front splitter (carbon fiber, 3D-printed lattice structure for airflow optimization), **active rear wing** (adjustable angle via hydraulic actuators, max downforce of 800 kg at 250 km/h), and **underbody diffuser** with integrated **Gurney flaps** (titanium, laser-cut for precision)",
+    "Replacement of the stock **Ghost Light** LED matrix with a **LuxVision LVX-900** adaptive laser headlight system (1,200-meter range, dynamic cornering), paired with **Oracle Lighting** RGBW underglow (addressable LEDs, synchronized with the **Koenigsegg Nighthawk** sound system for light-show effects)",
+    "Custom **Forge Motorsport** carbon fiber side skirts with **integrated NACA ducts** (feeding air to the **PWR** race-spec intercoolers) and a **Rocket Bunny-inspired** widebody kit (hand-laid carbon fiber, 50mm wider than stock) to accommodate the **Michelin Pilot Sport Cup 2 R** tires (295/30 R21 front, 345/25 R22 rear) on **HRE FF03** forged wheels (21x10.5 front, 22x13 rear, titanium lug bolts)"
+  ]
+}

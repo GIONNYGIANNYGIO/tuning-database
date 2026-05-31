@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "AUTENTICA",
+  "prestazioni": [
+    "Engine: L539 6.5L V12 (naturally aspirated) with a custom Novitec Rosso Stage 3+ ECU remap, targeting 800+ HP via aggressive ignition timing, optimized camshaft profiles, and a bespoke fueling strategy using 102-octane race fuel. Includes a Novitec-specific throttle body spacer to enhance airflow dynamics.",
+    "Forced Induction: Twin-turbocharged setup using Garrett GTX5533R Gen II turbos (1.28 A/R, ball-bearing) with custom 4-inch titanium downpipes, Novitec billet wastegates (set to 1.5 bar), and a PWR intercooler with a 4.5L core for sustained power delivery. System includes a custom Novitec titanium exhaust with 3.5-inch piping and Akrapovič carbon-fiber mufflers for weight reduction and sound optimization.",
+    "Suspension & Handling: Öhlins TTX46 coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression), custom valving for the Autentica’s carbon-fiber monocoque, and a 20mm front/15mm rear lowering kit. Paired with a Novitec front strut brace and a custom-fabricated rear subframe brace to eliminate chassis flex under extreme cornering. Pirelli P Zero Trofeo R tires (255/30 R20 front, 325/25 R21 rear) for maximum grip."
+  ],
+  "estetica": [
+    "Aerodynamics: Novitec Rosso ‘Aero 3’ widebody kit with carbon-fiber front splitter, side skirts, and a massive rear diffuser. Includes a custom Novitec rear wing (adjustable angle, 3D-printed titanium supports) for 300+ kg of downforce at 200 km/h. Front bumper features integrated canards and a custom radiator ducting system for improved cooling.",
+    "Exterior Styling: Full Novitec Rosso ‘Carbon Skin’ wrap with a matte ‘Grigio Titans’ finish, including carbon-fiber mirror caps, roof, and engine cover. Custom Novitec ‘Lambo Door’ conversion with hydraulic actuators for scissor-door functionality. Front grille replaced with a 3D-printed titanium mesh (laser-cut, anodized black) for improved airflow to the radiator and brakes.",
+    "Wheels & Brakes: Novitec ‘N-Largo’ forged monoblock wheels (20x9.5 front, 21x12.5 rear) in a custom ‘Nero Lucido’ finish with titanium lug bolts. Brembo GT-R 6-piston front/4-piston rear calipers with 410mm carbon-ceramic rotors (cross-drilled, slotted) and Pagid RSL29 brake pads for fade-resistant stopping power. Brake ducts integrated into the front bumper for optimal cooling."
+  ]
+}

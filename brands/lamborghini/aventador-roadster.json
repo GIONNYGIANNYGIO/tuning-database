@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "AVENTADOR ROADSTER",
+  "prestazioni": [
+    "Lamborghini L539 6.5L V12 naturally aspirated engine: Novitec Torado V12 supercharger kit with twin Rotrex C38-92 centrifugal superchargers (1.4 bar boost), custom Novitec-forged internals (pistons, connecting rods, crankshaft), and Novitec CNC-ported cylinder heads with oversized titanium valves and upgraded valve springs for 1,000+ HP on 100-octane fuel",
+    "Lamborghini ISR (Iniezione Strategica Ridotta) direct injection system upgrade: Injector Dynamics ID2000x injectors paired with a Motec M150 ECU for precise fuel mapping, alongside a custom Novitec high-flow fuel system with dual Walbro 450 LPH pumps and a Radium Engineering fuel pressure regulator",
+    "Ohlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and ride height), custom Lamborghini-specific spring rates (12 kg/mm front, 16 kg/mm rear), and integrated electronic ride height adjustment via Ohlins Unic suspension controller for track-day optimization"
+  ],
+  "estetica": [
+    "Novitec Torado widebody conversion kit with carbon fiber fender flares (30mm wider front, 50mm wider rear), custom 3D-scanned to fit the Aventador Roadster’s removable roof structure, paired with Novitec carbon fiber side skirts and front splitter with integrated canards",
+    "Rocket Bunny V3 aero kit for Aventador Roadster, featuring a carbon fiber GT-style rear wing with adjustable angle (0-15 degrees) and a custom ducktail spoiler extension for improved high-speed stability, along with a full carbon fiber underbody diffuser with integrated titanium exhaust outlets",
+    "Novitec carbon fiber engine cover with heat-extracting vents and a custom titanium bolt-on intake manifold cover, paired with a full titanium exhaust system by Capristo (4.5-inch diameter, quad outlets) with electronically controlled bypass valves and a custom Novitec heat-wrapped downpipe for aggressive sound tuning"
+  ]
+}

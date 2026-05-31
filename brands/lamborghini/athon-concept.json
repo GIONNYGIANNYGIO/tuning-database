@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "ATHON CONCEPT",
+  "prestazioni": [
+    "Engine: Replace the original 3.5L V8 (engine code: L270) with a fully built 4.0L V10 derived from the Lamborghini Gallardo LP560-4 (engine code: 5.2L FSI V10, stroked to 4.0L for high-RPM stability), featuring forged internals from JE Pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from Callies Performance. Pair with a custom dry-sump system by Peterson Fluid Systems to prevent oil starvation during extreme lateral G-forces.",
+    "Forced Induction: Twin-turbocharged setup using Garrett GTX5533R Gen II turbos (84mm compressor wheels) with TiAL MV-R 44mm wastegates and TiAL Q 50mm blow-off valves. Custom intercooler system by PWR (Australia) with dual-core air-to-water heat exchangers, plumbed with -10AN lines and Motec PDM-controlled electric water pumps for consistent intake temps under 40°C.",
+    "Suspension & Handling: Full Ohlins TTX46 coilover kit with 3-way adjustable damping (compression, rebound, and high-speed compression), custom-valved for the Athon’s unique tubular spaceframe chassis. Polyurethane bushings from SuperPro (part #SPF0117K) replace all factory rubber mounts, paired with spherical bearing upper control arms from VAC Motorsports. Brembo GT-R 6-piston calipers with 380mm two-piece rotors (floating design) and Ferodo DS3000 pads for fade-resistant braking."
+  ],
+  "estetica": [
+    "Aero: Custom carbon fiber widebody kit by Novitec Torado (Lamborghini division), featuring extended front fenders with integrated NACA ducts for brake cooling, a rear diffuser with active Gurney flap (adjustable via cockpit switch), and a fixed rear wing derived from the Lamborghini Sesto Elemento’s CFD-optimized design. Underbody panels from APR Performance with vortex generators for downforce without drag penalty.",
+    "Lighting: Full LED conversion with LUX H8 V4 angel eyes (5000K color temp) and custom sequential turn signals using Osram LED strips, controlled via a Haltech CAN bus module. Rear taillights replaced with a full-width LED bar (inspired by the Lamborghini Terzo Millennio) with adaptive brightness based on ambient light sensors.",
+    "Interior: Full Alcantara-wrapped Recaro Pole Position seats (carbon fiber shells) with 6-point Schroth Profi II harnesses. Custom dashboard overlay by Varis with a 12.3-inch Motec C127 digital dash (replacing analog gauges) and a quick-release MOMO Mod.78 steering wheel with integrated paddle shifters for the Holinger RD9 sequential gearbox. Door panels reupholstered in Nappa leather with contrast stitching in Lamborghini Verde Mantis."
+  ]
+}

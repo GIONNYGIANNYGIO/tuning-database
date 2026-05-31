@@ -1,0 +1,14 @@
+{
+  "brand": "KOENIGSEGG",
+  "model": "CCX GT1",
+  "prestazioni": [
+    "Engine: Koenigsegg 4.8L V8 (internally designated 'KV9000GT1') with forged Mahle pistons (9.5:1 CR), Carrillo H-beam connecting rods, and a billet aluminum crankshaft. Upgraded to a dry-sump oiling system with a Peterson RC-46 oil pump and a Setrab 19-row oil cooler for sustained 1,000+ hp track use.",
+    "Forced Induction: Twin Precision Turbo PT6266 CEA ball-bearing turbos (GT1-spec) with custom Koenigsegg-designed inconel turbine housings, Tial MV-R 44mm wastegates, and a PWR 1200hp intercooler core with 3.5\" inlet/outlet piping. Boost pressure set to 2.8 bar (40.6 psi) with a Motec M150 ECU managing sequential turbo staging and anti-lag via a secondary throttle body injection system.",
+    "Drivetrain: Xtrac P1046 6-speed sequential gearbox with a 3-plate carbon clutch (AP Racing CP8500) and a Quaife ATB differential. Upgraded half-shafts with CV joints from GKN Driveline, reinforced with billet aluminum tripod housings. Final drive ratio set to 3.73:1 for optimal GT1 endurance racing acceleration."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon-fiber GT1-spec bodywork by Koenigsegg Advanced Composites, including a fixed rear wing with dual active Gurney flaps (adjustable via cockpit switch), front splitter with integrated dive planes, and a rear diffuser with 5 strakes (designed in collaboration with Sauber F1 wind tunnel testing). Underbody features a Venturi tunnel system with titanium skid plates.",
+    "Wheels & Tires: Dymag CX-R carbon-fiber wheels (18x12 front, 18x13 rear) wrapped in Michelin Pilot Sport Cup 2 R tires (30/68-18 front, 31/71-18 rear). Custom center-lock wheel nuts by BBS with integrated tire pressure monitoring sensors (TPMS) from Beru.",
+    "Interior: Full FIA-spec roll cage by Safety Devices (8-point, chrome-moly steel) with integrated fire suppression system (Lifeline Zero 360). Sparco GT1 carbon-fiber seats with 6-point Schroth harnesses, and a Motec C127 dash display with integrated data logging for lap-time optimization. Steering wheel features a custom carbon-fiber shell with paddle shifters and a quick-release mechanism by NRG Innovations."
+  ]
+}

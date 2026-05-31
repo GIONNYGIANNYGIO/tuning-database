@@ -1,0 +1,14 @@
+{
+  "brand": "LADA",
+  "model": "GRANTA SPORT",
+  "prestazioni": [
+    "Engine swap to a **VAZ-21126-77** (1.6L 16V, 120 HP stock) with a **Garrett GT2860RS** turbocharger, forged internals (Mahle pistons, Eagle H-beam rods), and a **Bosch Motorsport 0280158861** 1000cc/min fuel injectors for 280+ HP on E85",
+    "Full **Sachs Performance** clutch kit (dual-mass flywheel conversion) paired with a **Quaife ATB helical LSD** (VAZ-21126-specific) for improved power delivery and traction",
+    "Custom **ECU remap via Combiloader 3.0** (VAZ-specific tuning tool) with **DTA S80 Pro** standalone ECU integration, supporting **MOTEC M150** data logging for real-time boost and AFR monitoring"
+  ],
+  "estetica": [
+    "**Rocket Bunny V3** widebody kit (LADA Granta Sport-specific) with **custom carbon fiber overfenders** and **polycarbonate rear quarter windows** for weight reduction",
+    "**OMP Sport** 6-point bolt-in roll cage (VAZ-2190 chassis-compatible) with **Sparco Pro2000** racing seats and **Schroth Profi II 6-point harnesses** for FIA-spec safety",
+    "**AP Racing CP8550-1000** 330mm front brake kit with **Ferodo DS2500** pads and **Goodridge G-Stop** braided lines, paired with **Enkei PF05** 17x8.5 wheels (ET35, 5x100 PCD) wrapped in **Michelin Pilot Sport Cup 2** 225/45R17 tires"
+  ]
+}

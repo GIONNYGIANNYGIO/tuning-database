@@ -1,0 +1,14 @@
+{
+  "brand": "KOENIGSEGG",
+  "model": "CCXR",
+  "prestazioni": [
+    "Replace the stock **Koenigsegg 4.8L V8 (engine code: K48DETT)** twin-supercharged internals with forged **Manley Performance** 4340 steel connecting rods, **JE Pistons** 9.5:1 compression forged pistons, and **Carrillo** billet main caps for 1,200+ HP on E85 flex-fuel. Retain the OEM **Rotrex C38-91** superchargers but upgrade to **Precision Turbo & Engine PT6266 CEA** turbochargers with **Tial MV-R 60mm** wastegates for hybrid forced induction (supercharger + turbo) at 2.5 bar boost.",
+    "Install a **Motec M182 ECU** with **Koenigsegg-specific flex-fuel mapping** to optimize the **Bosch Motorsport** high-pressure direct injection (2,000 bar) and port injection for E85/race fuel compatibility. Integrate a **Plex Tuning Knock Monitor** with **NGK 9522** iridium racing spark plugs and **MSD 8572** coil packs for 50,000V ignition output.",
+    "Upgrade the **Koenigsegg 6-speed transaxle (CIMA)** with a **Holinger RD6 sequential gearbox** conversion, **Tilton 7.25\" triple-plate carbon clutch**, and **PPG** 1st-gear straight-cut dog rings. Reinforce the **Koenigsegg-designed torque tube** with **AP Racing CP8450-400** carbon-carbon clutch plates and a **GKN Driveline** CV joint upgrade for 1,500 Nm torque capacity."
+  ],
+  "estetica": [
+    "Replace the OEM carbon fiber body panels with **Koenigsegg Agera RS-spec** pre-preg autoclave carbon fiber (visible weave) and **Vorsteiner** clear-coated matte finish. Install a **Rocket Bunny V3** widebody kit with **custom Koenigsegg-specific** front splitter, **GT3-style** rear diffuser, and **DTM-inspired** side skirts for 2,200 lbs downforce at 250 mph.",
+    "Swap the stock **Koenigsegg dihedral synchro-helix doors** for **carbon-fiber dihedral actuators** with **Bosch Rexroth** hydraulic dampers and **Schroth Racing** 6-point harnesses. Replace the OEM **Koenigsegg Triplex suspension** with **Öhlins TTX46 MkII** 3-way adjustable coilovers, **Eibach** 1,200 lb/in springs, and **Koenigsegg-developed** pushrod-activated **inboard-mounted** dampers for track use.",
+    "Install **BBS FI-R** 20x11\" front and 21x13\" rear forged wheels with **Pirelli P Zero Trofeo R** 265/35 R20 and 345/30 R21 tires. Add **AP Racing Radi-CAL** 400mm carbon-ceramic brake discs with **6-piston monoblock calipers**, **Ferodo DS3.12** pads, and **Goodridge G-Stop** braided stainless steel lines for 1.2G deceleration."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "KOENIGSEGG",
+  "model": "JESKO ABSOLUT",
+  "prestazioni": [
+    "Replace the factory twin-turbocharged 5.0L V8 (engine code: *TFG V8*) with a bespoke *Koenigsegg Automotive* in-house *9-speed multi-clutch transmission* upgrade, incorporating *AP Racing* carbon-carbon clutch plates and a *Pankl Racing Systems* titanium driveshaft to handle the 1,625 hp (1,212 kW) on E85 fuel with *Garrett GTX5544R Gen II* turbos (1.8 bar boost) and *Tial* 60mm wastegates for precise boost control at 8,500 RPM redline",
+    "Install a *Weichers* dry-sump oil system with *Mocal* 10-row oil cooler and *Motul* 300V Trophy 15W-50 full-synthetic oil to maintain optimal lubrication under sustained 3G lateral loads, paired with a *Koenigsegg* carbon-fiber reinforced *Mahle* forged pistons (10.5:1 compression) and *Carrillo* H-beam connecting rods for 1,280 lb-ft of torque",
+    "Integrate a *MoTeC M1800* standalone ECU with *Bosch Motorsport* 2,000cc/min high-flow injectors and a *Syvecs* dual-channel knock control system, calibrated for *E85 flex-fuel* with *NGK* R8482-10 iridium racing spark plugs and *MSD* 8522 ignition coils for sub-2.0ms ignition response at 9,000 RPM"
+  ],
+  "estetica": [
+    "Apply a *Koenigsegg* in-house *Ghost* paint scheme with *3M* 1080 series matte vinyl overlay in *Liquid Silver* with *PPF (Paint Protection Film)* by *XPEL Ultimate Plus* for track durability, featuring *Audi Sport* laser-measured aerodynamic contours for 1,400 kg downforce at 270 mph",
+    "Replace the stock *dihedral synchro-helix* doors with *Koenigsegg* *Aircore* carbon-fiber *active aero* doors (18 kg lighter) and install *Vorsteiner* carbon-fiber *Jesko Absolut-specific* front splitter with *Gurney flaps* and *DTM-style* dive planes for high-speed stability",
+    "Equip *BBS FI-R* 21-inch forged magnesium wheels (9.5x21 front, 12.5x21 rear) with *Pirelli P Zero Trofeo R* semi-slick tires (265/35 R21 front, 345/30 R21 rear) and *Brembo* *GT-R* carbon-ceramic brakes (410mm front, 395mm rear) with *Hawk* HT-14 brake pads for 1.2G deceleration"
+  ]
+}

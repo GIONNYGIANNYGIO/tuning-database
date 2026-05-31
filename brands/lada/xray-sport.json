@@ -1,0 +1,14 @@
+{
+  "brand": "LADA",
+  "model": "XRAY SPORT",
+  "prestazioni": [
+    "Engine swap to a **VAZ-21179 1.8L (21179-81) turbocharged inline-4** with forged internals (Mahle forged pistons, Eagle H-beam connecting rods, and a billet crankshaft) paired with a **Garrett GT2860RS turbocharger** (0.64 A/R turbine housing) and a **Tial MV-R 44mm wastegate** for precise boost control at 1.5 bar (21.7 psi).",
+    "Full **Bosch Motorsport M1.7.3 ECU** standalone engine management with **Motec C125 dash logger** and **AEM X-Series wideband O2 sensor** for real-time AFR monitoring, tuned via **LapSim software** for aggressive ignition timing (12° BTDC) and 98 RON fuel mapping.",
+    "Custom **3.5-inch stainless steel exhaust system** with **Scorpion Race 4-2-1 headers** (equal-length primaries) and a **Supersprint 76mm rear muffler** for optimized scavenging, paired with a **Nissan SR20DET oil cooler** and **Setrab 50-row front-mount intercooler** to maintain intake temps below 45°C (113°F) under full load."
+  ],
+  "estetica": [
+    "**Rocket Bunny V3 widebody kit** (LADA XRAY-specific) with **custom carbon fiber overfenders**, **polyurethane side skirts**, and a **duckbill rear spoiler** (3D-printed from PETG for weight savings), all finished in **PPG Matte Military Green (9353)** with **vinyl-wrapped roof in 3M Gloss Black (1080).**",
+    "**OMP Sport racing seats** (FIA 8855-1999 homologated) with **Schroth Profi II 6-point harnesses**, mounted on **Sparco Pro 2000 aluminum seat sliders** and paired with a **NRG Innovations quick-release steering wheel** (350mm diameter, suede-wrapped) on a **Works Bell bolt-in hub adapter**.",
+    "**HRE FF03 18x9.5 ET30 wheels** (custom offset for XRAY Sport fenders) wrapped in **Michelin Pilot Sport Cup 2 R tires (245/40 R18)** with **Brembo GT 6-piston front calipers** (355mm rotors) and **Ferodo DS2500 brake pads**, paired with **Goodridge 6AN stainless steel brake lines** and **Motul RBF 660 brake fluid**."
+  ]
+}

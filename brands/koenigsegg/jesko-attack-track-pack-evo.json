@@ -1,0 +1,14 @@
+{
+  "brand": "KOENIGSEGG",
+  "model": "JESKO ATTACK TRACK PACK EVO",
+  "prestazioni": [
+    "Engine: Koenigsegg 5.0L twin-turbo V8 (internal code: *TFG V8*), upgraded with a bespoke *Weistec Engineering* billet crankshaft (92.8mm stroke) and *Manley* titanium connecting rods (6.200\" length) for 1,625hp on E85 (1,280hp on 95 RON).",
+    "Forced Induction: *Precision Turbo & Engine* PT6266 CEA ball-bearing turbos (custom 86mm compressor, 76mm turbine) with *Tial* 60mm wastegates and *TurboSmart* Gen-V 50mm blow-off valves, paired with a *PWR* 1,500hp-rated intercooler core (5.5\" thick, 100% aluminum fin density).",
+    "Drivetrain: *Koenigsegg* 9-speed multi-clutch transaxle with *Xtrac* helical-cut gears (ratios: 1st 3.08, 2nd 2.17, 3rd 1.63, 4th 1.29, 5th 1.04, 6th 0.87, 7th 0.74, 8th 0.64, 9th 0.56) and *AP Racing* carbon-carbon clutch (350mm diameter, 12 puck)."
+  ],
+  "estetica": [
+    "Aerodynamics: *Koenigsegg* Track Pack Evo-spec *Triplex* rear suspension with *Vortex Generators* on the A-pillars and a *Shark Fin* carbon fiber stabilizer (2.5m long, 300mm chord) for 1,400kg downforce at 250km/h (adjustable via *Koenigsegg* Active Aero).",
+    "Bodywork: *Koenigsegg* *Ghost* carbon fiber weave with *PPG* *Andaro* *Liquid Silver* paint (3-stage, 120-micron flake), *Rocket Bunny* *Jesko Attack* widebody kit (front fenders +30mm, rear +50mm) with *Seibon* carbon fiber doors and *VMR* *V710* forged wheels (20x11\" front, 21x13\" rear, *Michelin Pilot Sport Cup 2 R* 265/35R20 and 345/30R21).",
+    "Interior: *Sabelt* *GT-C* 6-point harnesses (FIA 8862-2009 certified), *Sparco* *QRT-K* carbon fiber seats (18-way adjustable, 1.2kg shell), and *Motec* *C187* dash logger with *Bosch* *MS 5.1* ECU integration (CAN bus data overlay for *Koenigsegg* *Ghost* telemetry)."
+  ]
+}

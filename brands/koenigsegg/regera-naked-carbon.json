@@ -1,0 +1,14 @@
+{
+  "brand": "KOENIGSEGG",
+  "model": "REGERA NAKED CARBON",
+  "prestazioni": [
+    "Engine: Koenigsegg 5.0L twin-turbo V8 (internal code TFG V8) with reinforced forged internals (Mahle pistons, Carrillo H-beam rods, billet crankshaft) paired with a 3-motor YASA electric hybrid system (total system output: 1,700+ hp). Upgraded Garrett GTX5533R turbos with titanium-aluminide turbine wheels, custom 4.5-inch downpipes, and a secondary wastegate bypass for optimized spool and reduced backpressure.",
+    "Drivetrain: Koenigsegg 9-speed multi-clutch transmission (Light Speed Transmission) recalibrated with a custom ECU flash (by Syvecs S8C standalone) for 0.02s shift times, paired with a Drexler Motorsport limited-slip differential with carbon-fiber clutch packs and 45% lockup under load. Upgraded half-shafts with 300M steel CV joints and reinforced tripod bearings to handle 1,800 Nm of torque.",
+    "Suspension & Chassis: Öhlins TTX46 coilovers with 3-way adjustable damping (compression, rebound, and high-speed valving) and 20% stiffer spring rates (custom Eibach 1,200 lb/in front, 1,400 lb/in rear). Koenigsegg’s proprietary Triplex rear suspension system reinforced with titanium uprights and spherical bearings. AP Racing 6-piston monoblock calipers with 420mm carbon-ceramic rotors (front) and 390mm (rear), paired with Ferodo DS3000 pads for 1.2g+ braking performance."
+  ],
+  "estetica": [
+    "Exterior: Full Naked Carbon body with a custom 3M Matte Graphite vinyl wrap over raw carbon fiber, including the front splitter, side skirts, and rear diffuser. Koenigsegg’s active rear wing replaced with a fixed carbon-fiber unit (designed by AutoFactory) with a 15-degree attack angle for 40% more downforce at 250 km/h. Custom titanium exhaust outlets (by Akrapović) with laser-etched Koenigsegg logos and a quad-tip setup for the hybrid system’s waste heat recovery bypass.",
+    "Interior: Full Alcantara-wrapped cabin (by Saddleback Leather) with contrast red stitching, including the steering wheel, dashboard, and door cards. Koenigsegg’s Ghost Lighting system upgraded with RGB LEDs (by Diode Dynamics) and a custom programmable controller for dynamic ambient lighting. Carbon-fiber bucket seats (by Sparco Pro 2000) with 6-point Schroth harnesses and a titanium roll cage (by VSR) integrated into the Naked Carbon monocoque.",
+    "Aerodynamics: Custom front canards (by Vorsteiner) with adjustable angle of attack (0-12 degrees) for fine-tuned front-end grip. Koenigsegg’s underbody diffuser extended by 100mm and reinforced with titanium support struts. Side mirrors replaced with carbon-fiber units (by Seibon) featuring integrated cameras (by Mobius) for a digital rearview display (by Alpine Halo9)."
+  ]
+}

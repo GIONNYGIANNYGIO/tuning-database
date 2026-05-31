@@ -1,0 +1,14 @@
+{
+  "brand": "LADA",
+  "model": "OKA SPORT",
+  "prestazioni": [
+    "Engine swap to a VAZ-11116-20 (0.8L inline-3, 16-valve DOHC) with forged internals: Mahle forged pistons (8.5:1 CR), Eagle H-beam connecting rods, and a custom billet crankshaft by TODA Racing. Turbocharged with a Garrett GT1549S turbo (0.49 A/R, 55 lb/min flow) on a custom tubular manifold by Stinger Performance, paired with a Tial 38mm wastegate and 44mm external dump valve.",
+    "Fuel system upgrade: Bosch Motorsport 0280158037 high-flow injectors (300cc/min) fed by a Walbro 255 LPH in-tank pump, controlled via a Link G4+ Xtreme standalone ECU with custom VAZ-11116-20 base maps. Water-methanol injection (AEM 30-3300 kit) for charge cooling and detonation suppression.",
+    "Drivetrain reinforcement: VAZ-2108 close-ratio 5-speed gearbox with a Quaife ATB helical LSD, reinforced with a custom bellhousing adapter by K-Tuned. Clutch upgrade to a Sachs Performance twin-disc setup (240mm, 700Nm torque capacity) and a lightweight flywheel by Fidanza (3.5kg). Custom CV axles by Driveshaft Shop (300hp-rated) with reinforced tripod joints."
+  ],
+  "estetica": [
+    "Full Rocket Bunny RB-WIDE OKA kit (PU fiberglass, 3-piece overfenders, front/rear bumpers, and side skirts) with custom carbon fiber canards by Seibon. Rear wing: custom 3D-printed ABS adjustable dual-element wing (1,200mm span) by 9 Lives Racing, mounted on aluminum pedestals.",
+    "Chassis reinforcement: seam-welded VAZ-1111 monocoque with custom bolt-in roll cage by Custom Cages (T45 steel, 6-point, gusseted at all joints). Polyurethane bushings (SuperPro 90 durometer) for subframe, control arms, and trailing arms. Custom aluminum strut tower braces by Cusco (front and rear).",
+    "Aero and lighting: custom carbon fiber hood with NACA ducts (for turbo/intercooler cooling) by VIS Racing. LED headlight conversion (Morimoto XB LED projectors with custom HID ballasts) and sequential LED taillights (Luxx Lighting, VAZ-OKA-specific housing). Wheel setup: Work Emotion CR Kiwami (15x8 +25 ET, 4x98 PCD) with Toyo R888R tires (195/45/15)."
+  ]
+}

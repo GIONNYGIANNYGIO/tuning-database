@@ -1,0 +1,14 @@
+{
+  "brand": "JAGUAR",
+  "model": "XJR-14",
+  "prestazioni": [
+    "Engine: Replace the stock 3.5L Cosworth HB V8 (engine code: **HB-F1**) with a **Cosworth HB-F2** block (94mm bore, 84mm stroke) bored to 3.8L, featuring forged Mahle pistons (12.5:1 CR), Carrillo H-beam connecting rods, and a billet crankshaft. Pair with a **Garrett GT42R turbocharger** (1.15 A/R turbine housing) and a **Tial MV-R 44mm wastegate** for 2.2 bar (32 psi) boost, targeting 750+ hp at 9,500 RPM with a **Motec M150 ECU** and **ID1000x injectors**.",
+    "Drivetrain: Install a **Xtrac P1046 6-speed sequential gearbox** (Group C-spec) with a **Tilton triple-plate carbon clutch** and a **Quaife ATB differential** (85% lock). Replace the stock driveshafts with **GKN CV-jointed half-shafts** and a **Penske 8760-series rear subframe brace** to handle torque.",
+    "Suspension/Chassis: Convert to a **Ohlins TTX40 4-way adjustable coilover system** (25mm ride height drop) with **Eibach ERS springs** (400 lb/in front, 500 lb/in rear). Reinforce the monocoque with **T45 steel roll cage** (FIA Appendix J spec) and **AP Racing CP8660 brake calipers** (380mm carbon-carbon rotors, Ferodo DS3000 pads)."
+  ],
+  "estetica": [
+    "Aero: Fit a **RML Group C-style front splitter** (carbon fiber, 30mm extension) with **custom Gurney flaps** and a **rear diffuser** (3D-printed PETG, 50mm ground clearance). Replace the stock rear wing with a **Le Mans-spec **Jaguar Sport** double-plane wing** (adjustable angle, 12° attack).",
+    "Body: Remove the stock body panels and replace with **carbon-Kevlar hybrid panels** (2x2 twill weave, 1.5mm thickness) from **RML Composites**, including a **removable roof panel** (Dzus fasteners). Paint in **Jaguar Silk Metallic (code: 9800)** with **3M Matte Black (1080) hood stripes** and **BBS LM wheels** (18x12 front, 18x14 rear, 5x120 PCD, +30mm offset).",
+    "Interior: Install a **Sparco Pro 2000 seat** (FIA 8862-2009 certified) with **Schroth 6-point harnesses** and a **Momo Prototipo steering wheel** (350mm diameter, suede). Replace the stock dash with a **Motec C127 digital dash** and **custom carbon fiber center console** (housing a **Racepak IQ3 logger** and **AiM MXL2 data display**)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "KOENIGSEGG",
+  "model": "REGERA GHOST RS",
+  "prestazioni": [
+    "Engine: Koenigsegg 5.0L twin-turbo V8 (internal code TFG V8) with reinforced billet-aluminum block, upgraded to 1,800+ hp via twin Garrett GTX5544R Gen II turbos (86mm compressor wheels, 106mm turbine wheels) and custom titanium nitride-coated internals, paired with a 3-speed Koenigsegg Direct Drive (KDD) system recalibrated for 0.1s faster torque vectoring response via Motec M182 ECU with Ghost RS-specific firmware (v4.2.1).",
+    "Exhaust: Full titanium 4-2-1 equal-length headers (1.75\" primaries, 3.5\" collectors) by Akrapovič, paired with a straight-pipe Ghost RS signature system featuring electronically actuated bypass valves (controlled via Koenigsegg’s Active Sound Control) and Inconel 625 mufflers for 12% backpressure reduction at 8,500 RPM.",
+    "Suspension: Öhlins TTX46 coilovers with 3-way adjustable damping (compression, rebound, and hydraulic bump stops), custom-tuned for the Ghost RS’s carbon-fiber monocoque (stiffness increased by 18% via additional CFRP weave in the front subframe), paired with Koenigsegg’s proprietary Triplex rear suspension system upgraded with spherical bearings (instead of bushings) for 0.3° sharper camber control under load."
+  ],
+  "estetica": [
+    "Aero: Koenigsegg ‘Ghost Blade’ active rear wing (carbon-fiber, 3D-printed titanium actuators) with 40% more downforce at 250 km/h via NACA duct-fed underbody diffusers (front splitter and rear diffuser in autoclave-molded prepreg carbon, clear-coated with PPG ‘Liquid Black’ for UV resistance).",
+    "Body: Full Rocket Bunny ‘Regera RS Widebody’ kit (hand-laid carbon-fiber, 60mm wider front fenders, 80mm wider rear quarters) with integrated LED ‘Ghost Light’ strips (Osram Oslon Black Flat S 660nm) in the side skirts, controlled via Koenigsegg’s Infotainment System (v3.5) for dynamic lighting effects synced to throttle position.",
+    "Wheels: HRE FF16 flow-formed forged wheels (20x10.5 front, 21x13 rear) in ‘Matte Graphite’ finish with center-lock titanium nuts (ARP 2000-series), wrapped in Michelin Pilot Sport Cup 2 R tires (265/35 ZR20 front, 345/30 ZR21 rear) shaved to 4.5mm tread depth for maximum lateral grip (1.7G on Koenigsegg’s in-house skidpad)."
+  ]
+}

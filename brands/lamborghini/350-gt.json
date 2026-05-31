@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "350 GT",
+  "prestazioni": [
+    "Engine swap to a modernized **Lamborghini 3.5L V12 (engine code: L350)** with forged internals by **JE Pistons (9.5:1 compression ratio)**, Carrillo H-beam connecting rods, and a **Dry-Sump Lubrication System by Peterson Fluid Systems** for sustained high-RPM reliability (redline extended to 9,000 RPM).",
+    "Forced induction via **Precision Turbo PT6266 CEA turbocharger** (1.2 bar boost) with a **custom 3D-printed titanium intake manifold by VAC Motorsports**, paired with a **Tial MV-R 50mm wastegate** and **AEM Infinity 7 ECU** for precise fuel mapping (E85-compatible).",
+    "Suspension overhaul with **Öhlins TTX46 coilovers (3-way adjustable)** and **polyurethane bushings by SuperPro** for chassis rigidity, alongside a **custom front strut tower brace by Cusco** to eliminate flex under hard cornering."
+  ],
+  "estetica": [
+    "Full **Rocket Bunny V1 widebody kit (350 GT-specific)** with carbon fiber fenders, extended rear quarter panels, and a **custom front splitter by Varis** for aggressive aero balance (downforce increased by 30%).",
+    "Custom **Brembo GT 6-piston calipers (380mm rotors front, 355mm rear)** with **gold-anodized finish**, paired with **OMP carbon fiber racing seats (FIA-approved)** and a **MOMO Prototipo steering wheel** for vintage-modern ergonomics.",
+    "Exterior refinishing in **Lamborghini Verde Ithaca (original 1960s hue)** with **PPF (Paint Protection Film) by XPEL Stealth** and **custom gold pinstriping by Stripes Unlimited**, alongside **HRE FF01 wheels (18x9 front, 18x11 rear) in matte bronze** for period-correct yet aggressive stance."
+  ]
+}

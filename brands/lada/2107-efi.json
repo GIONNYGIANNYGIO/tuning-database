@@ -1,0 +1,14 @@
+{
+  "brand": "LADA",
+  "model": "2107 EFI",
+  "prestazioni": [
+    "Engine swap to a **VAZ-21126 (1.6L 16V, 98 hp)** from the Lada Priora, retaining the original **Bosch ME17.9.7 ECU** but reflashed with a **Lada Performance Stage 2+ tune** (custom map by **Lada Sport** for 130 hp with **NGK Iridium IX (LFR6AIX-11)** spark plugs and **Siemens DEKA 630cc injectors**)",
+    "Forced induction via **Garrett GT2560R turbocharger** (custom manifold by **Stinger Racing**, **Tial 38mm wastegate**, **GReddy Type-S intercooler**, and **Silicone Hoses Direct 2.5\" boost pipes**) with a **Walbro 255 LPH fuel pump** and **AEM X-Series wideband O2 sensor** for AFR monitoring",
+    "Suspension overhaul with **KW Variant 3 coilovers (custom valving for VAZ-2107 chassis)**, **Polyurethane bushings (full set from **SuperPro**)**, **Powerflex rear trailing arm bushings**, and **Brembo GT 305mm front brake kit (adapted via **Lada Racing Club** custom brackets) with **Ferodo DS2500 pads** and **Goodridge 6AN stainless steel brake lines**"
+  ],
+  "estetica": [
+    "**Rocket Bunny V1-style widebody kit (custom fiberglass by **Russian Tuning Group**)**, **custom front splitter (carbon fiber, **Aeroflow Composites**)**, and **custom rear diffuser (aluminum, **StanceWorks** design)** with **OEM Lada Sport badging**",
+    "**Enkei PF05 wheels (15x8 +20 offset, **custom hubcentric rings for VAZ-2107**) in **Gunmetal with polished lip**, wrapped in **Nankang NS-2R (195/50R15)** tires, paired with **custom fender flares (polyurethane, **Sparco** design)**",
+    "**Full custom interior: **Recaro SRD seats (VAZ-2107 specific mounts by **Corbeau**)**, **Momo Mod.78 steering wheel (quick-release hub by **NRG Innovations**)**, **custom roll cage (TIG-welded 4-point by **Custom Cages UK**)**, and **full Alcantara trim (dashboard, door cards, and headliner by **Russian Auto Trim**) with **OMP aluminum pedals**"
+  ]
+}

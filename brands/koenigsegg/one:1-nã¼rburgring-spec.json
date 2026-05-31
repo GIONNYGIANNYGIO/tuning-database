@@ -1,0 +1,14 @@
+{
+  "brand": "KOENIGSEGG",
+  "model": "ONE:1 Nürburgring Spec",
+  "prestazioni": [
+    "Engine: Koenigsegg 5.0L V8 (internal code 'Kappa') with billet aluminum block, reinforced forged internals (titanium connecting rods by Pankl Racing Systems, 10.5:1 compression ratio), and dry-sump lubrication system featuring a 12-stage scavenging setup with dual Gerotor pumps for sustained 1.8G lateral acceleration.",
+    "Forced Induction: Twin parallel-mounted Koenigsegg-designed turbochargers (custom billet compressor wheels, 76mm inducer, 106mm exducer) with ceramic-coated turbine housings, paired with a bespoke air-to-water intercooler system (core dimensions: 450x300x120mm) utilizing a secondary coolant loop with a 10L reservoir and dual 400W brushless pumps for consistent intake temps under Nürburgring conditions.",
+    "ECU & Fuel System: Koenigsegg Autosport's 'FlexFuel' ECU (MOTEC M190 base, heavily modified with Nürburgring-specific traction control maps) controlling a dual-injector setup (primary: Bosch Motorsport 10-hole injectors at 2,200cc/min; secondary: port-mounted 1,200cc/min injectors for high-RPM enrichment) and a 12-stage fuel pump system (AEM 400LPH primary, dual 340LPH secondary pumps) with ethanol-compatible PTFE-lined hoses and -3AN fittings."
+  ],
+  "estetica": [
+    "Aerodynamics: Koenigsegg 'Nürburgring Aero Package' featuring a 3D-printed titanium front splitter with active Gurney flaps (adjustable via hydraulic actuators, 0-30mm range), carbon-fiber rear diffuser with integrated vortex generators (tested in Sauber F1 wind tunnel), and a fixed rear wing with NACA-duct-fed boundary layer suction system (reduces drag by 8% at 250+ km/h).",
+    "Bodywork: Full carbon-fiber body panels (pre-preg autoclave-cured, 2x2 twill weave) with 'Nürburgring Grey' matte finish, including a one-off front hood with integrated cooling scoops for the intercooler and brake ducts (CFD-optimized for 180km/h airflow). Side skirts feature embedded LED lighting (Osram Oslon SSL 150) for visibility in low-light conditions.",
+    "Wheels & Tires: Custom forged magnesium wheels by Dymag (front: 19x11.5, rear: 20x13) with center-lock hubs (Koenigsegg-designed, 120Nm torque spec) wrapped in Michelin Pilot Sport Cup 2 R tires (front: 295/30 ZR19, rear: 345/30 ZR20) shaved to 4.5mm tread depth for optimal Nürburgring grip. Brake system includes carbon-ceramic rotors (410mm front, 395mm rear) with 6-piston monoblock calipers (AP Racing CP9430) and titanium pistons."
+  ]
+}

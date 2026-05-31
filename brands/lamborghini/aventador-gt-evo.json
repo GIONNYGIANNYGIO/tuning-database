@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "AVENTADOR GT EVO",
+  "prestazioni": [
+    "Engine: L539 6.5L V12 (naturally aspirated) – Full titanium internals upgrade with forged Mahle Motorsport pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft by JE Pistons for 1,200+ HP reliability at 9,500 RPM redline. Paired with a custom Novitec Torado CNC-ported cylinder head featuring oversized titanium intake valves and sodium-filled exhaust valves for optimized airflow.",
+    "Forced Induction: Twin-turbo system utilizing Garrett GTX5533R Gen II turbos (1.45 A/R, 88mm compressor wheels) with TiAL MV-R 60mm wastegates and a custom Novitec Torado air-to-water intercooler setup (12-row core, 3.5L capacity) to maintain intake temps below 40°C under full boost (1.5 bar).",
+    "Drivetrain & Handling: Novitec Torado GT EVO-specific coilover suspension with Ohlins TTX46 3-way adjustable dampers (24-position rebound, 22-position compression, and adjustable ride height via billet aluminum top mounts). Rear-wheel drive conversion via a custom Quaife ATB differential (helical LSD) and a Novitec Torado carbon-fiber driveshaft to reduce rotational mass. Brembo GT-R monoblock calipers (6-piston front, 4-piston rear) with 420mm carbon-ceramic rotors and Ferodo DS3.12 racing pads for 1.2G deceleration."
+  ],
+  "estetica": [
+    "Aerodynamics: Novitec Torado GT EVO widebody kit (carbon-fiber front splitter, side skirts, and rear diffuser) with a custom 3D-printed active rear wing (adjustable via hydraulic actuators, 15° attack angle for 400kg downforce at 250 km/h). Underbody features a full-length Novitec Torado carbon-fiber diffuser with integrated vortex generators for laminar airflow separation.",
+    "Exterior: Full 3M Matte Satin Black vinyl wrap with custom Lamborghini Verde Mantis accents (roof, mirror caps, and front splitter). Novitec Torado carbon-fiber engine cover with a clear polycarbonate window to showcase the L539 V12, paired with a custom Novitec Torado titanium exhaust system (4.5-inch outlets, Inconel 625 headers, and electronically controlled butterfly valves for backpressure optimization).",
+    "Interior: Full Alcantara-wrapped dashboard and door cards (Lamborghini Grigio Nimbus) with custom Novitec Torado carbon-fiber racing seats (Schroth 6-point harnesses, FIA-approved). Digital dash upgrade via a Motec C127 display (logging 50+ channels, including turbo boost, oil temps, and G-forces) with a custom Novitec Torado titanium shift knob and pedal set (adjustable brake bias)."
+  ]
+}

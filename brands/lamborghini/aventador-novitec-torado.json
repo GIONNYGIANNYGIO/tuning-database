@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "AVENTADOR NOVITEC TORADO",
+  "prestazioni": [
+    "Novitec-specific L539 6.5L V12 engine upgrade with forged internals (pistons, connecting rods, and crankshaft) reinforced to handle 1,200+ HP, paired with a Novitec-tailored ECU remap utilizing Bosch Motorsport MED 17.1.1 ECU calibration for optimized ignition timing and fuel delivery at 1.5 bar boost via twin Novitec-designed Garrett GTX5533R turbochargers with billet compressor wheels and 76mm turbine wheels",
+    "Novitec Torado-specific titanium exhaust system with 100mm diameter piping, Inconel 625 headers, and electronically controlled bypass valves, featuring a secondary X-pipe resonator delete for aggressive sound tuning, paired with a Novitec-developed Akrapovič rear muffler section with carbon fiber tips",
+    "Novitec Torado-tuned Öhlins TTX46 coilover suspension with 3-way adjustable damping (compression, rebound, and high/low-speed settings), custom-valved for the Aventador’s aluminum spaceframe, paired with Novitec-specific Eibach anti-roll bars (24mm front, 22mm rear) and spherical bearing subframe mounts for enhanced chassis rigidity"
+  ],
+  "estetica": [
+    "Novitec Torado widebody conversion kit with carbon fiber front fenders (extended 50mm per side), rear quarter panels (extended 70mm per side), and custom-molded carbon fiber side skirts with integrated air curtains for brake cooling, all finished in Novitec’s proprietary ‘Gloss Black with Red Weave’ carbon fiber",
+    "Novitec Torado-specific front splitter with adjustable carbon fiber dive planes and a rear diffuser featuring active aerodynamics (electrically adjustable Gurney flaps) controlled via the Novitec Torado ECU integration, paired with a Novitec-designed carbon fiber rear wing with dual-plane adjustment (0-15 degrees) and integrated LED brake light",
+    "Novitec Torado interior overhaul featuring full Alcantara upholstery with red contrast stitching, including door cards, dashboard, and custom Novitec-branded bucket seats with Schroth 6-point harnesses, paired with a Novitec-specific carbon fiber steering wheel (380mm diameter) with integrated shift lights and a Motec C127 digital dash display"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "LADA",
+  "model": "2105 VFTS RALLY",
+  "prestazioni": [
+    "Engine swap to a **VAZ-2106-derived 1.6L (2106-10) block** bored to 82.5mm with forged **Mahle Motorsport 82.5mm pistons** (9.5:1 CR), **Manley Performance 153mm H-beam connecting rods**, and a **VAZ-21083 crankshaft** with 71mm stroke for 1.8L displacement. Full balanced assembly by **Vladimir Motor Sport (VMS)** with **ARP 2000 main studs** and **ACL Race Series bearings**.",
+    "Custom **16V DOHC cylinder head** sourced from a **VAZ-2112 (1.5L 16V)** with **Ferrea Racing 5000-series intake/exhaust valves**, **Supertech dual valve springs**, **T&D Machine adjustable cam gears**, and **Schrick 268°/272° camshafts** (intake/exhaust). Ported and polished by **JE Motorsport** with **3-angle valve seats** and **flow-optimized combustion chambers**.",
+    "Forced induction via **Garrett GT2860RS turbocharger** (0.63 A/R turbine, 0.64 A/R compressor) on a **custom tubular stainless steel manifold** by **Stinger Performance**, paired with a **Tial MV-R 38mm wastegate** and **Tial Q 50mm blow-off valve**. Intercooled with a **GReddy Type-S front-mount intercooler** (550x225x76mm core) and **Samco Sport silicone hoses**. Fuel system upgraded with **Bosch 044 high-flow fuel pump**, **Siemens DEKA 80lb/hr injectors**, and **AEM X-Series wideband O2 sensor** for closed-loop tuning via **ECU Master EMU Black** with **VFTS Group A rally-spec map**."
+  ],
+  "estetica": [
+    "Full **VFTS Group A rally homologation body kit** (fiberglass front/rear bumpers, widened fenders, and **custom aluminum hood with dual NACA ducts** for intercooler airflow). Painted in **Soviet Racing Blue (RAL 5017)** with **3M 1080 vinyl white rally stripes** and **VFTS Motorsport decals** (original 1980s livery).",
+    "Chassis reinforcement with **Lada Sport-developed FIA-spec roll cage** (8-point, TIG-welded **4130 chromoly** tubing) by **Sparco Pro2000**, integrated with **OMP HTE-R racing seats** (FIA 8862-2009 certified) and **Schroth Profi II 6-point harnesses**. **Polyurethane bushings** (front/rear subframes, control arms) by **SuperPro** and **Whiteline adjustable sway bars** (22mm front, 19mm rear).",
+    "Suspension overhaul with **Ohlins DFV 2-way adjustable coilovers** (custom valving for VAZ 2105 geometry), **Pedders Heavy Duty front struts**, and **Bilstein B16 rear dampers**. **H&R Trak+ wheel spacers** (20mm front, 25mm rear) for aggressive stance, paired with **OZ Racing Rally DTM 15x8 ET15 wheels** (7.5J offset) wrapped in **Michelin Pilot Sport Cup 2** (195/50 R15) for tarmac or **BF Goodrich KM3** (205/65 R15) for gravel."
+  ]
+}

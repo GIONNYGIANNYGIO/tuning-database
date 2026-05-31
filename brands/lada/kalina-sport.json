@@ -1,0 +1,14 @@
+{
+  "brand": "LADA",
+  "model": "KALINA SPORT",
+  "prestazioni": [
+    "Engine swap to a VAZ-21126 (1.6L 16V, 98hp stock) with a forged crankshaft (VAZ-21126-1005016-01) and Mahle Motorsport forged pistons (Mahle 21126-1004020-01) for 12.5:1 compression, paired with a Garrett GT2860RS turbocharger (0.63 A/R turbine housing) and a custom 38mm wastegate (Tial MV-R) for 1.5 bar boost targeting 280whp on E85 fuel",
+    "Full standalone ECU conversion to a Link G4+ Xtreme with a custom VAZ-21126 wiring harness (LADA Sport-developed pinout) and Bosch Motorsport 0280158001 1000cc injectors, paired with a custom intercooler (GReddy Type-R front-mount, 600x300x76mm core) and a 3.5\" aluminum charge pipe system (custom-fabricated by Stinger Performance)",
+    "Drivetrain reinforcement with a VAZ-21126 close-ratio 5-speed gearbox (VAZ-2181-1700010) using a Quaife ATB helical LSD (QDF7Z), upgraded driveshafts (VAZ-2110-2215010-10 with reinforced CV joints), and a Sachs Performance twin-disc clutch (3000680001) with a lightweight flywheel (VAZ-21126-1005115-10, 6.5kg)"
+  ],
+  "estetica": [
+    "Custom widebody conversion using LADA Sport's OEM+ \"Kalina Sport Extreme\" fender flares (VAZ-11196-8212010/8213010) paired with a Rocket Bunny-inspired front bumper (custom fiberglass by Russian tuner \"AvtoVAZ Design Bureau\") and a carbon fiber rear diffuser (Seibon CF-RD-11196)",
+    "Suspension overhaul with Ohlins Road & Track coilovers (DFV02-02-01-KA) modified for VAZ-21126 subframe geometry, paired with polyurethane bushings (Energy Suspension 4.1112G) and custom camber plates (fabricated by \"Tuning-Lada\" for +3.5° front camber)",
+    "Exterior accents including a carbon fiber hood (Seibon CF-HD-11196) with a functional NACA duct (3\" diameter, feeding the Garrett turbo), a custom roof spoiler (LADA Sport 11196-8214010-01, 3D-printed carbon fiber), and a full Respray in BASF R-M Diamont \"Lime Green Metallic\" (code 0485) with matte black accents (3M 1080 Wrap Film, 2080-G12)"
+  ]
+}

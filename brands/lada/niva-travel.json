@@ -1,0 +1,14 @@
+{
+  "brand": "LADA",
+  "model": "NIVA TRAVEL",
+  "prestazioni": [
+    "Engine swap to a VAZ-2123-derived 1.8L (21214-20) with forged internals (Mahle pistons, Carrillo H-beam rods) and a custom camshaft profile (272° duration, 11.5mm lift) by Schneider Racing Cams for optimized off-road torque delivery at 2,500-4,500 RPM",
+    "Garrett GT2860RS turbocharger with a custom 0.63 A/R turbine housing and 58mm compressor wheel, paired with a Tial MV-R 44mm external wastegate and a custom air-to-water intercooler (Setrab 20-row core) for sustained boost in extreme climates",
+    "Full standalone ECU conversion to a Link G4+ Xtreme with custom wiring harness (by LadaSport) and a Haltech CAN-based wideband O2 controller, tuned for E85 flex-fuel capability with a Bosch 044 high-flow fuel pump and ID1000x injectors"
+  ],
+  "estetica": [
+    "Custom 3D-printed front bumper with integrated winch mount (Warn Zeon 12-S) and auxiliary LED light pods (Baja Designs Squadron Pro), designed in-house by Niva4x4 Customs (Russia) for maximum approach angle (45°)",
+    "Rear overfender flares (Rocket Bunny-style) in 1.5mm aluminum, riveted to the chassis with custom reinforcement plates, extending wheel arches by 50mm for 285/75R16 BFGoodrich KM3 tires on Method MR701 wheels (16x8, +15mm offset)",
+    "Full interior roll cage (by Safety Devices) with integrated harness bar and Sparco 6-point harnesses, upholstered in Alcantara with custom carbon fiber dash overlay (by Lada Performance) housing a RaceLogic VBOX Sport data logger"
+  ]
+}

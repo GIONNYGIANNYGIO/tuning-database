@@ -1,0 +1,14 @@
+{
+  "brand": "KOENIGSEGG",
+  "model": "QUANT EV",
+  "prestazioni": [
+    "Upgrade to a **Koenigsegg-developed 800V+ silicon-carbide (SiC) inverter system** (replacing the stock 400V unit) paired with **SKF hybrid ceramic bearings** in the **Quant’s proprietary 4-motor AWD drivetrain (codename: 'Quark')**, increasing peak power from 986 hp to **1,341 hp (1 MW)** and torque vectoring response by 37% via **dSPACE MicroAutoBox III** real-time control integration.",
+    "Installation of a **custom liquid-cooled 120 kWh graphene-enhanced solid-state battery pack (developed with Northvolt)** featuring **3D-printed aluminum cooling plates (APWORKS Scalmalloy)** and **Panasonic 21700 NCA cells (3.6V, 5Ah, 300Wh/kg energy density)**, reducing weight by 18% while extending usable range to **620 miles (WLTP)** and enabling **800 kW peak discharge (1,072 hp) for 10-second bursts**.",
+    "Integration of a **Marelli Motorsport **Dual-Layer Inverter Control (DLIC)** system with **Infineon AURIX TC397 microcontrollers** to optimize regenerative braking (up to **350 kW recovery**) and **torque fill** during gear shifts, reducing 0-60 mph times to **1.9 seconds** via **preemptive wheel slip control (WSC) algorithms** calibrated on the **Nürburgring Nordschleife (7:03 lap time target)**."
+  ],
+  "estetica": [
+    "Application of a **full-carbon-fiber body kit (Koenigsegg Automotive AB ‘Quant Aero’ package)** featuring **active rear diffuser flaps (developed with Saab Automobile’s former aerodynamics team)** and **3D-printed titanium front splitter endplates (SLM Solutions 280HL)** for a **Cd of 0.21** while generating **1,200 kg of downforce at 186 mph**.",
+    "Retrofit of **OLED-embedded ‘FlowVis’ side skirts (Luminit SmartGlass)** with **electrochromic polymer film (Gentex Corporation)** that dynamically adjusts opacity to visualize airflow separation points, paired with **Brembo ‘Stylema’ monobloc calipers (gold anodized, 6-piston front/4-piston rear)** and **carbon-ceramic rotors (390mm front, 380mm rear, PCCB compound)** for track use.",
+    "Installation of a **custom interior trim package (Koenigsegg ‘Quant Luxe’)** featuring **hand-stitched Bridge of Weir leather (Scottish Highland hides, 0.8mm thickness)** with **laser-engraved ‘Quant’ script (TRUMPF TruMark 5020)** on the **aluminum honeycomb door cards (Hexcel HexWeb CR III)**, paired with a **Sennheiser AMBEO 3D audio system (16-channel, 1,500W)** and **Hella ‘Shark’ LED headlights (8400-lumen, adaptive matrix beam)** for night driving."
+  ]
+}

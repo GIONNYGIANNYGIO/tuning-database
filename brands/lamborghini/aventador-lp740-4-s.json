@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "AVENTADOR LP740-4 S",
+  "prestazioni": [
+    "Lamborghini L539 6.5L V12 naturally aspirated engine: Replace the OEM exhaust manifold with a custom Novitec Torado 1-7/4-2-3 equal-length stainless steel header system, paired with a Capristo 100-cell high-flow catalytic converter and a straight-pipe titanium exhaust featuring Inconel 625 valves for a 38% reduction in backpressure and a 42 HP gain at 8,200 RPM.",
+    "L539 V12 ECU recalibration via Lamborghini Squadra Corse LP740-4 S-specific Motec M150 standalone ECU with bespoke fuel and ignition maps, optimized for 102-octane VP Racing Q16 fuel, enabling a 250 RPM increase in redline (to 8,750 RPM) and a 3.2° advance in ignition timing for peak torque of 560 Nm at 6,750 RPM.",
+    "Forced induction conversion using a custom-built Vortech V-23 supercharger kit with a billet aluminum impeller, 10-rib serpentine drive system, and an air-to-water intercooler (PWR Advanced Cooling) integrated into the OEM front splitter ducting, producing 9.5 psi of boost and pushing power to 920 HP at 8,500 RPM with a custom Novitec Torado forged crankshaft and Carrillo H-beam connecting rods."
+  ],
+  "estetica": [
+    "Novitec Torado widebody conversion kit with carbon fiber fender flares (30mm wider front, 40mm wider rear) and integrated LED turn signals, paired with a custom Novitec Torado front splitter featuring an active aerodynamic Gurney flap and a rear diffuser with integrated titanium exhaust outlets.",
+    "Ohlins TTX46 coilover suspension with 3-way adjustable damping (compression, rebound, and high/low-speed settings), custom valving for the LP740-4 S chassis, and adjustable ride height (-30mm to +10mm from stock), paired with Lamborghini Squadra Corse carbon-ceramic brake rotors (410mm front, 390mm rear) and Brembo GT-R monoblock calipers with titanium pistons.",
+    "Custom Novitec Torado carbon fiber engine cover with a clear polycarbonate window, exposing the L539 V12 and Vortech supercharger, paired with a full Novitec Torado carbon fiber interior package (door cards, center console, and Alcantara-wrapped dashboard) featuring red contrast stitching and a custom Motec C127 digital dash with Lamborghini Squadra Corse livery."
+  ]
+}

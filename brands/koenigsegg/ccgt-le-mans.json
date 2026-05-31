@@ -1,0 +1,14 @@
+{
+  "brand": "KOENIGSEGG",
+  "model": "CCGT LE MANS",
+  "prestazioni": [
+    "Engine: Koenigsegg 5.0L V8 (internal code: **Kappa V8**) with billet aluminum block, dry-sump lubrication, and titanium connecting rods. Upgrade to **Precision Turbo PT6266 CEA** ball-bearing turbochargers (86mm inducer, 112mm exducer) with **Tial MV-R 60mm wastegates** and **TurboSmart Race Port BOV** for 2.2 bar (32 psi) boost, targeting 1,000+ hp on E85 with **Motec M150 ECU** custom mapping for Le Mans endurance fuel strategies (10% richer than CCXR for thermal stability).",
+    "Drivetrain: **Xtrac P1297 6-speed sequential transaxle** with **AP Racing CP8444 carbon-carbon clutch** (3-disc, 240mm) and **Quaife ATB differential** (85% lock) for optimized torque vectoring under 3.5G cornering loads. Replace OEM half-shafts with **Pankl Racing Systems** titanium CV joints and **GKN Lobro** tripod plunging joints for 1,200 Nm torque capacity.",
+    "Aerodynamics: **Koenigsegg Automotive in-house CFD-optimized** front splitter with **Gurney flaps** (30mm extension) and **active rear diffuser** (hydraulically adjustable, 12° to 22° angle) for 1,800 kg downforce at 250 km/h. Replace OEM rear wing with **Aerofoil Development AD-12** dual-element carbon wing (2.4m span, 300mm chord) featuring **Dallara F3-style** endplates for reduced drag (Cd 0.32)."
+  ],
+  "estetica": [
+    "Body: **Koenigsegg Ghost Package** (matte carbon fiber weave with **3M Scotchlite 980CR** reflective pinstriping) applied to the **CCGT-specific** front fenders (20mm wider than CCX) and **custom 3D-printed titanium rear diffuser inserts** (lattice structure for weight reduction). **Vorsteiner V-FF107** carbon fiber side skirts with integrated **LED running lights** (Osram Oslon Black Flat, 6,500K).",
+    "Wheels: **Dymag CX-R** hybrid carbon fiber/magnesium wheels (18x12 front, 19x13 rear) with **Pirelli P Zero Trofeo R** tires (305/645R18 front, 345/710R19 rear) and **HRE FlowForm FF03** center-locking nuts (titanium, 12-point). **BBS RI-D** 2-piece forged aluminum backup wheels (for wet conditions) with **Michelin Pilot Sport Cup 2** (285/650R18 front, 325/705R19 rear).",
+    "Interior: **Sparco Pro 2000** carbon fiber seats (FIA 8862-2009 certified) with **Schroth 6-point harnesses** (ASM2 configuration) and **Alcantara-wrapped** **Koenigsegg CCGT-specific** steering wheel (120mm diameter, **Momo Prototipo** quick-release hub). **AIM MXS Strada** dash display with **Bosch MS5.1** data logging for tire pressure (via **Sensata Technologies TPMS**), brake temperature (**K-Type thermocouples**), and **Motec C125** auxiliary display for fuel pressure (0-10 bar) and oil temperature (0-150°C)."
+  ]
+}
