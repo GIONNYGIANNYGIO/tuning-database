@@ -1,0 +1,14 @@
+{
+  "brand": "JAGUAR",
+  "model": "I-PACE SVR",
+  "prestazioni": [
+    "Upgrade to a **Bosch MGU0500** high-performance electric motor controller (replacing the stock MGU0400) for the **X550e** dual-motor setup, increasing peak power from 394hp to 580hp and torque from 512 lb-ft to 700 lb-ft, with a custom **Unitek YFS-2** liquid cooling system for sustained performance",
+    "Installation of a **Magna PT eDS-400** dual-speed transmission with a **Quaife ATB helical LSD** and **AP Racing CP9460-3500** carbon-carbon clutch pack, reducing 0-60mph times to 2.9s and improving regenerative braking efficiency by 22%",
+    "Integration of a **Williams Advanced Engineering** 90kWh high-voltage battery pack with **Silicon Carbide (SiC) MOSFET** inverters and **Porsche Taycan-derived** 800V architecture, enabling 350kW fast-charging and a 320-mile WLTP range with **active thermal management via Mahle Jet Ignition cooling plates**"
+  ],
+  "estetica": [
+    "**RML Group** carbon-fiber widebody conversion kit (SVR-specific, +80mm front/+100mm rear track) with **Vorsteiner V-FF107** forged 22-inch wheels (9.5J front, 11J rear) wrapped in **Michelin Pilot Sport Cup 2 R** (265/35 R22 front, 305/30 R22 rear)",
+    "**Novitec Torado** full-carbon aero package, including a **3D-printed titanium front splitter** (30% downforce increase), **adjustable rear diffuser with Gurney flap**, and **active rear spoiler (DTM-style, +45% downforce at 120mph)** with **MagneRide 4.0** adaptive damping",
+    "**Brembo GT-R** 6-piston monobloc calipers (420mm front, 380mm rear) with **two-piece carbon-ceramic rotors (CCM-R)** and **Ferodo DS3.1** racing pads, paired with **Goodridge G-Stop 9000-series** braided stainless steel lines and **Motul RBF 660** brake fluid"
+  ]
+}

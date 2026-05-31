@@ -1,0 +1,17 @@
+{
+  "brand": "JEEP",
+  "model": "GRAND CHEROKEE SRT",
+  "prestazioni": [
+    "Engine: 6.4L HEMI V8 (EZB) with a custom camshaft upgrade from Comp Cams (PN 275-501-13) featuring 236°/242° duration at 0.050\" lift, 0.624\"/0.630\" lift, and 114° LSA for optimized mid-to-high RPM power delivery, paired with a ported and polished intake manifold (Mopar Performance PN P5153985) and a K&N Cold Air Intake (PN 63-1568) for improved throttle response and airflow efficiency.",
+    "Forced Induction: Supercharger upgrade to a ProCharger P-1SC-1 (PN 1P1SC1-001) with a custom intercooler core from Mishimoto (PN MMINT-DODGE-05-08) featuring a 3.5\" thick bar-and-plate design, 1000+ CFM airflow capacity, and a 10-row core for maximum heat dissipation, paired with a custom tune via HP Tuners (VCM Suite) to target 8-10 PSI boost while maintaining 93-octane fuel compatibility.",
+    "Exhaust System: Full 3.5\" stainless steel exhaust system from Borla (PN 140607) with a cat-back design, featuring 409-grade stainless steel construction, straight-through mufflers, and quad 4.5\" rolled-edge tips, paired with a set of long-tube headers from Stainless Works (PN SW304008) with 1.875\" primary tubes and 3\" collectors for optimized scavenging and torque gains across the powerband.",
+    "Suspension: Full coilover conversion using KW Suspensions Variant 3 (PN 35231001) with 8-position adjustable rebound damping, 14-position adjustable compression damping, and adjustable ride height (0-50mm drop), paired with SRT-spec sway bars (Mopar PN 05193986AB front, 05193987AB rear) and polyurethane bushings from Energy Suspension (PN 5.5114G) for reduced body roll and improved handling precision.",
+    "Drivetrain: Upgraded 8HP70 8-speed automatic transmission with a Level 10 Torque Converter (PN 8HP70-L10) featuring a 300M billet steel stator, furnace-brazed impeller, and a 2,800 RPM stall speed for improved launch control, paired with a Quaife ATB differential (PN QDF8J) for enhanced torque distribution and traction under hard acceleration."
+  ],
+  "estetica": [
+    "Widebody Conversion: Rocket Bunny (Pandem) GRAND CHEROKEE SRT kit (PN RB-WK2-01) featuring hand-laid carbon fiber fenders with 2.5\" flares, front/rear bumpers, and side skirts, paired with custom 3M Matte Military Green (PN 490M) vinyl wrap for a stealth appearance.",
+    "Aero Package: Custom carbon fiber rear wing from APR Performance (PN CF-1000) with a 65\" span, 3D adjustable mounts, and a 3\" chord for high-speed stability, paired with a front splitter from Seibon Carbon (PN CF-JGC-SRT-FS) featuring a 3-piece design with integrated canards for improved downforce and airflow management.",
+    "Wheel Setup: Forged 22x12\" ET15 front and 22x13\" ET25 rear wheels from Rotiform (LAS-R) in a custom satin black finish, wrapped in Michelin Pilot Sport Cup 2 tires (295/30R22 front, 325/25R22 rear) for maximum grip, paired with Brembo GT 6-piston front and 4-piston rear calipers (PN 1N3.9804.10) with 400mm two-piece rotors for improved braking performance.",
+    "Interior: Full Alcantara-wrapped interior from Katzkin (PN JEEP-GCSRT-ALC) featuring custom embroidered SRT logos on the headrests, paired with a custom roll cage from Autopower Industries (PN AP-1000) with 4-point harnesses from Schroth (PN 1030) and a MOMO Prototipo steering wheel (PN 01112030) for a race-inspired cockpit."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "JAGUAR",
+  "model": "XKR-S",
+  "prestazioni": [
+    "Supercharged 5.0L AJ-V8 Gen III (engine code: AJ133S) with a Harrop HTV2300 TVS supercharger upgrade (12psi boost, 650+ hp), paired with a custom XEDE ProV tuner remap optimized for 98 RON fuel and methanol-water injection (Snow Performance Stage 3 kit with dual nozzles)",
+    "Full titanium exhaust system by Milltek Sport (cat-back with 3.5\" primary tubes, resonated center section, and quad 4.5\" titanium tips), combined with a GReddy E-Manage Ultimate piggyback for precise AFR control and ignition timing adjustments",
+    "KW Suspensions Variant 5 coilovers (XKR-S-specific valving, 8-position rebound damping, and adjustable top mounts) with Eibach ERS race springs (front: 12kg/mm, rear: 18kg/mm) and polyurethane subframe bushings by SuperPro (part SPF1047K) for chassis rigidity"
+  ],
+  "estetica": [
+    "Full carbon fiber widebody conversion by Prior Design (PD630 kit, including extended front fenders, rear quarter panels, and aggressive side skirts with integrated air vents for brake cooling)",
+    "Custom front splitter by Vorsteiner (carbon fiber, 3-piece design with adjustable dive planes) and a fixed carbon rear wing by DAMD (XKR-S-specific, 1,200mm span, 3D-printed aluminum mounts for 150kg downforce at 150mph)",
+    "OEM+ interior overhaul with Recaro Pole Position seats (carbon shell, Alcantara/leather upholstery, 6-point Schroth harnesses), a MOMO Prototipo steering wheel (350mm, suede, quick-release hub), and a custom digital dash by AIM MXS Strada (1.3\" OLED, CAN bus integration for supercharger PSI, oil temp, and G-forces)"
+  ]
+}

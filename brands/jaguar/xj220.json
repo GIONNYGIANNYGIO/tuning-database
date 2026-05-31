@@ -1,0 +1,14 @@
+{
+  "brand": "JAGUAR",
+  "model": "XJ220",
+  "prestazioni": [
+    "Engine: Jaguar/TWR JV6 (7.0L twin-turbocharged V6, derived from the 3.5L JRV-6 racing engine) – Full billet aluminum block reinforcement with Darton MID sleeves, forged internals including Carrillo H-beam connecting rods, JE 9.5:1 compression forged pistons, and a custom billet crankshaft by Callies Compstar for 9,000 RPM reliability. Turbochargers upgraded to Garrett GTX5533R Gen II with 1.15 A/R turbine housings, custom 3D-printed titanium compressor inlets, and Tial MV-R 60mm wastegates for 2.2 bar (32 psi) boost pressure.",
+    "Drivetrain: Reinforced FF Developments transaxle with Quaife ATB differential, upgraded half-shafts with CV joints from a Porsche 918 Spyder, and a Tilton triple-plate carbon clutch with billet flywheel. Custom 3D-printed titanium bellhousing to reduce weight by 40%.",
+    "Suspension & Chassis: Full Ohlins TTX46 coilover system with 3-way adjustable damping (compression, rebound, and high-speed compression), custom valving for the XJ220’s unique double-wishbone geometry, and spherical bearing upgrades from Aurora Bearing Company. Chassis stiffening via a T45 steel roll cage by Custom Cages UK, integrated with carbon fiber floor panels from BComp for torsional rigidity increase of 35%."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon fiber widebody kit by Liberty Walk (LB-XJ220), including extended front fenders with integrated canards, rear overfenders with a 3-inch stretch, and a custom rear diffuser with active Gurney flap (adjustable via cockpit switch). Front splitter upgraded to a 3D-printed titanium unit with integrated cooling ducts for the twin Garrett turbos.",
+    "Exterior Trim: Full carbon fiber replacement for all exterior panels (hood, doors, rear clamshell) using pre-preg autoclave carbon from RML Group, with a custom matte graphene weave finish. Side skirts replaced with 3D-printed titanium units, featuring integrated LED lighting strips by Novitec. Rear wing replaced with a custom 3-element carbon fiber unit by 9 Lives Racing, adjustable for 200+ kg of downforce at 200 mph.",
+    "Wheels & Tires: Forged BBS LM-R wheels in 19x12 (front) and 20x14 (rear) with custom centerlock adapters, wrapped in Michelin Pilot Sport Cup 2 R tires (275/35 R19 front, 345/30 R20 rear). Brake system upgraded to AP Racing CP9460 calipers with 420mm carbon-carbon rotors (from a McLaren P1) and custom titanium pistons for 30% weight reduction."
+  ]
+}

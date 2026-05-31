@@ -1,0 +1,14 @@
+{
+  "brand": "HONDA",
+  "model": "RA302 F1",
+  "prestazioni": [
+    "Replacement of the original 3.0L RA302E V8 air-cooled magnesium-block engine with a bespoke 3.5L RA302E-REV2 forged-aluminum block, featuring Nikasil-coated cylinder liners and Mahle Motorsport forged pistons (9.5:1 compression ratio) for sustained 12,000 RPM operation under 1.5-bar boost via a Garrett GTX5533R turbocharger with a titanium-aluminide turbine wheel and Inconel wastegate",
+    "Full dry-sump lubrication system overhaul using a Peterson Fluid Systems 4-stage pump with integrated scavenge and pressure stages, paired with a Setrab 50-row oil cooler and Motul 300V Trophy 15W-50 ester-based synthetic oil for thermal stability under sustained 11,500+ RPM",
+    "Custom titanium valve train with Ferrea Racing titanium intake/exhaust valves (39mm/34mm), Schrick DLC-coated camshafts (290°/280° duration, 12.5mm/11.8mm lift), and T&D Machine Products titanium valve springs with 1,200 lb/in seat pressure, driven by a Jesel belt-driven camshaft system with a 1.5:1 gear reduction for reduced valvetrain inertia"
+  ],
+  "estetica": [
+    "Full carbon-fiber bodywork replacement using a RA302-specific Rocket Bunny/Pandem aero kit, including a 1,200mm-wide front splitter with integrated Gurney flaps, a 900mm rear diffuser with vortex generators, and a 1,500mm rear wing with adjustable carbon-fiber endplates (modeled after the 1968 Le Mans-winning GT40 Mk.IV)",
+    "Custom magnesium wheel set by BBS Motorsport, featuring 13x15-inch front and 15x18-inch rear forged magnesium wheels with center-lock hubs, shod in Pirelli P Zero Trofeo R tires (245/645-R13 front, 325/705-R15 rear) for optimal mechanical grip under 1.2G lateral acceleration",
+    "Interior stripped and reupholstered with a full Alcantara-wrapped OMP FIA-spec carbon-fiber bucket seat, a MOMO Prototipo 350mm suede steering wheel with integrated AIM MXS Strada dash display, and a custom titanium roll cage by Safety Devices with integrated fire suppression system (Lifeline Zero 360 fire extinguisher)"
+  ]
+}

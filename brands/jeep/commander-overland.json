@@ -1,0 +1,14 @@
+{
+  "brand": "JEEP",
+  "model": "COMMANDER OVERLAND",
+  "prestazioni": [
+    "Engine: 5.7L Hemi ESF (Eagle) V8 (engine code: 6.4L variant swap to 6.4L Apache HEMI with forged internals from Mopar Performance, including Mahle forged pistons (12.5:1 CR), Eagle forged crankshaft, and Manley H-beam connecting rods for 800+ HP reliability under boost)",
+    "Forced Induction: Garrett GTX5533R Gen II turbocharger (1.05 A/R turbine housing) with a custom 3.5\" stainless steel turbo-back exhaust system by MagnaFlow (catless downpipe, 4\" mandrel-bent piping, and Borla Pro XS mufflers for optimal spool and flow)",
+    "Fuel & Ignition: Full return-style fuel system with dual Walbro 450 LPH pumps, Injector Dynamics ID1700x injectors, and a Holley Dominator EFI ECU with custom tuning by Hennessey Performance for 93 octane + E85 flex-fuel capability (targeting 28 psi peak boost on E85)"
+  ],
+  "estetica": [
+    "Widebody Conversion: Rocket Bunny V2 Commander Overland kit (fiberglass fenders, carbon fiber side skirts, and a custom 3-piece rear diffuser with integrated LED light bar mounts; requires custom wheel spacers for 1.5\" additional track width per side)",
+    "Suspension & Wheels: KW Suspensions Clubsport coilovers (3-way adjustable, 2.5\" drop) with custom-valved Fox Racing 2.5 Performance Series remote-reservoir shocks for off-road compliance, paired with HRE FF107 22x12\" wheels (-44mm offset) wrapped in Nitto Ridge Grappler 35x12.50R22LT tires",
+    "Aerodynamics & Lighting: Custom carbon fiber hood with functional heat extractor vents (designed in collaboration with RK Sport), Rigid Industries D-Series Pro LED light pods (50\" curved light bar in the grille, 30\" straight bar on the roof, and amber side markers), and a custom rear spoiler by Stillen (dual-plane design for downforce at speed)"
+  ]
+}

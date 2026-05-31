@@ -1,0 +1,14 @@
+{
+  "brand": "IVECO",
+  "model": "LMV LINCE",
+  "prestazioni": [
+    "Engine upgrade targeting the **IVECO F1C 3.0L Turbo Diesel (engine code: F1C)** with a **Garrett GTB2260VK turbocharger** (hybridized for 1.8 bar boost) paired with a **Bosch CP4.2 high-pressure fuel pump** and **Denso G4S injectors (1,200cc/min)** to support 450+ HP at 3,800 RPM with a **custom ECU remap via Alientech KESS3** (Stage 3 off-road calibration).",
+    "Suspension overhaul using **Öhlins TTX46 MkII coilovers** (adjustable damping, 3-way compression/rebound) with **Eibach Pro-Kit springs (30mm drop)** and **Polyurethane bushings (SuperPro 90D durometer)** for chassis rigidity, paired with **Brembo GT 6-piston calipers (380mm discs)** and **Ferodo DS3000 brake pads** for military-spec stopping power.",
+    "Drivetrain reinforcement with a **ZF 6HP28A 6-speed automatic transmission** (upgraded with a **Sonax TCU tune** for 20% faster shifts) and a **Quaife ATB helical LSD** in the rear axle, coupled with a **custom 3.5-inch stainless steel exhaust system (Supersprint)** featuring a **dual-mode valve (open/closed) and 100-cell catalytic converters** for EURO 6 compliance."
+  ],
+  "estetica": [
+    "Full **Mil-Spec Rocket Bunny widebody kit (LMV Lince-specific)** with **carbon fiber fenders (30mm wider front, 40mm wider rear)**, **aluminum honeycomb skid plates (Hardox 450 steel)**, and **LED light bar integration (Osram 8D HID, 5,000-lumen)** for off-road visibility.",
+    "Interior roll cage (T45 steel, **Custom Cages UK**) with **Sparco Pro 2000 seats (HANS-compatible)** and **Alcantara-wrapped dashboard (Rosso Corsa stitching)**, paired with a **Motec C127 dash logger** and **AiM MXL2 data acquisition system** for telemetry.",
+    "Exterior **Cerakote H-146 (Matte Military Green) coating** with **3M 1080 vinyl overlays (digital camouflage pattern)** and **RunFlat tires (Michelin XZL 335/80R20)** on **OZ Racing Superturismo LM 20-inch wheels (ET -15 offset)** for aggressive stance."
+  ]
+}

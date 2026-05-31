@@ -1,0 +1,14 @@
+{
+  "brand": "JAGUAR",
+  "model": "XKR",
+  "prestazioni": [
+    "Supercharger upgrade to a Harrop HTV 2300 TVS supercharger kit (replacing the stock AJ-V8 Gen III 4.2L supercharger) with a custom pulley reduction to 2.75\" for 12-14 PSI boost, paired with a Lingenfelter ported throttle body and a custom heat exchanger from Setrab (45-row core) to manage intake temps on the AJ34 engine code",
+    "Full fuel system overhaul with Injector Dynamics ID1050x injectors, Walbro 450 LPH in-tank fuel pump, and a Radium Engineering dual catch can setup to prevent oil dilution in the direct-injection system, alongside a Motec M150 ECU for precise AFR targeting (11.8:1 under full load)",
+    "Suspension replacement with KW Clubsport 3-way adjustable coilovers (8-position rebound, 12-position compression, adjustable camber plates) and polyurethane bushings from SuperPro (part #SPF1305K) for the rear subframe, paired with AP Racing 6-piston front calipers (355mm discs) and 4-piston rears (330mm discs) with Ferodo DS2500 pads"
+  ],
+  "estetica": [
+    "Full carbon fiber widebody conversion using the Prior Design PD800R kit (OEM+ fitment with extended fenders, front splitter, and rear diffuser), including a custom 3D-printed rear spoiler with Gurney flap (25mm height) for downforce optimization at 150+ mph",
+    "Custom interior retrim with Alcantara-wrapped Recaro SPG XL seats (heated/ventilated, Schroth 6-point harnesses), a MOMO Mod.78 steering wheel (350mm, suede), and a full carbon fiber dash overlay (including center console) from Carbonskins, paired with a digital gauge cluster from AIM MXS Strada (1.3\" OLED)",
+    "Exterior lighting upgrade to LUX V3 HID projectors (5500K) with custom DRL halos (RGBW, controlled via Arduino), sequential LED taillights (VLEDS 72-SMART), and a custom titanium exhaust tip setup (2.5\" dual outlets, polished finish) from Remus"
+  ]
+}

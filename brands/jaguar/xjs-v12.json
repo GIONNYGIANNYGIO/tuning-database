@@ -1,0 +1,14 @@
+{
+  "brand": "JAGUAR",
+  "model": "XJS V12",
+  "prestazioni": [
+    "Engine: HE V12 (5.3L, Jaguar AJ6-derived block, 60° SOHC, 77mm bore x 73.5mm stroke, 9.0:1 compression) – Full forged internals upgrade with Mahle Motorsport 9.5:1 forged pistons (P/N 40304.001), Cunningham conrods (P/N CR-001), and ARP L19 head studs (P/N 206-4701) for 12psi boost compatibility with a Garrett GT4202 turbo (P/N 751328-5001S) on a custom Tial MV-R 44mm wastegate (P/N MVR44).",
+    "Fuel System: Full Aeromotive A1000 fuel pump (P/N 11101) with dual Bosch 044 secondary pumps (P/N 0 580 254 950), Injector Dynamics ID2000x injectors (P/N ID2000X-D01-850-13-15), and a custom fuel rail system by Vintage Speed (P/N VS-JAG-V12-FR) paired with a Haltech Elite 2500 ECU (P/N HT-151301) for sequential fuel and ignition control.",
+    "Exhaust: Custom 3.5\" stainless steel equal-length headers by Stainless Works (P/N JAG-XJS-V12-HDR) with a dual 3.5\" straight-pipe system terminating in a pair of Borla Pro XS mufflers (P/N 140507) and a custom X-pipe with Vibrant 1799 resonators (P/N 1142)."
+  ],
+  "estetica": [
+    "Body: Full Rocket Bunny XJS widebody conversion (P/N RB-XJS-001) with carbon fiber front splitter, rear diffuser, and overfenders, paired with a custom ducktail spoiler by DTM Style (P/N DTM-JAG-XJS-SPOILER).",
+    "Wheels: BBS LM-R 18x10 +15 front / 18x12 +25 rear (P/N 40312300) with Michelin Pilot Sport Cup 2 tires (275/35/18 front, 315/30/18 rear) and custom center-lock adapters by Weld Racing (P/N 89-1012).",
+    "Interior: Full Recaro Pole Position seats (P/N 381200) with custom mounting brackets by Status Racing (P/N SR-JAG-XJS-BKT), MOMO Prototipo steering wheel (P/N 00112010), and a full Alcantara retrim by Royal Steering Wheels (P/N RSW-JAG-XJS-INT) including dashboard, door cards, and headliner."
+  ]
+}

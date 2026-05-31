@@ -1,0 +1,14 @@
+{
+  "brand": "JAGUAR",
+  "model": "XKR-S GT",
+  "prestazioni": [
+    "AJ-V8 Gen III 5.0L Supercharged (engine code: AJ133S) with a Harrop HTV2300 supercharger upgrade (12psi boost, 650+ hp), paired with a custom-made 3.5\" pulley system from Dyno Dynamics for optimized airflow and reduced parasitic loss",
+    "Full titanium exhaust system by Milltek Sport (cat-back, 3.5\" downpipes with sports cats, and quad 4.5\" tips) featuring a valved bypass for track-legal noise compliance, coupled with a custom X-pipe for enhanced scavenging and torque delivery",
+    "Ohlins Road & Track DFV coilovers (Jaguar-specific valving, 8-position adjustable compression/rebound, and 20mm adjustable ride height) with Eibach ERS race springs (front: 12kg/mm, rear: 14kg/mm) and spherical bearing top mounts from SuperPro for razor-sharp turn-in response"
+  ],
+  "estetica": [
+    "Full carbon fiber widebody conversion kit by Prior Design (PD-GT3R), including extended front fenders, rear quarter panels, and a bespoke rear diffuser with integrated brake ducts, all finished in matte clear coat for weight savings (~15kg reduction)",
+    "Custom 20\"x9.5\" (front) and 20\"x11\" (rear) forged aluminum wheels by BBS (FI-R model, 3-piece construction, 5x120 PCD) wrapped in Michelin Pilot Sport Cup 2 R tires (275/30 front, 325/25 rear) with custom offset (-15mm front, -5mm rear) for aggressive stance and optimized load distribution",
+    "Aerodynamic package by Vorsteiner, featuring a GT-spec front splitter with integrated canards, a carbon fiber rear wing (adjustable angle, 3-position) with Gurney flap, and side skirts with vortex generators, all designed via CFD testing for a 30% increase in downforce at 150mph"
+  ]
+}

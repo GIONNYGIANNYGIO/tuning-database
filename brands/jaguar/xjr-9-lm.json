@@ -1,0 +1,14 @@
+{
+  "brand": "JAGUAR",
+  "model": "XJR-9 LM",
+  "prestazioni": [
+    "Engine: Jaguar 7.0L V12 (engine code: *Jaguar 7.0L V12 Group C*, internally designated *JD-7000*) – full rebuild with forged Mahle Motorsport pistons (9.0:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from Arrow Precision. Replace the stock camshafts with custom-ground profiles from Kent Cams (290° duration, 12.5mm lift) for optimized high-RPM endurance racing.",
+    "Forced Induction: Replace the stock twin Garrett T3 turbochargers with a pair of Garrett GT4202R (88mm compressor, 1.15 A/R turbine housing) units, mated to custom 3.5-inch stainless steel exhaust manifolds by Janspeed Engineering. Integrate a dual-stage water-methanol injection system (AEM 34000) with 50/50 methanol-water mix, targeting 35 psi peak boost for Le Mans-spec power (1,200+ hp at 7,800 RPM).",
+    "Drivetrain & Cooling: Install a Xtrac P1046 6-speed sequential gearbox with a 2.6:1 final drive ratio, paired with a Sachs Racing twin-plate carbon clutch. Upgrade the cooling system with a PWR Racing radiator (dual-core, 42mm thickness) and a Davies Craig EWP150 electric water pump. Replace the stock oil cooler with a Setrab 625-series (5-pass, 19-row) unit, plumbed with -10AN lines and Earl’s Performance fittings."
+  ],
+  "estetica": [
+    "Aerodynamics: Fit a full Group C-spec carbon fiber body kit by Fibretech Motorsport, including a 200mm rear diffuser, front splitter with adjustable Gurney flaps, and a rear wing based on the 1988 Le Mans-winning XJR-9 design (3-element, 1,200mm span). Apply a custom livery in Silk Cut purple with gold pinstriping, matching the 1988 TWR team colors, using 3M 1080 vinyl with a matte finish.",
+    "Wheels & Brakes: Mount BBS LM-R wheels (18x13 front, 18x15 rear) with custom center-lock adapters, wrapped in Michelin Pilot Sport Cup 2 tires (345/645R18 front, 385/665R18 rear). Upgrade to AP Racing CP8650-6 calipers (6-piston front, 4-piston rear) with 380mm carbon-carbon rotors (Hitco or SEP) and Ferodo DS3000 brake pads for endurance racing.",
+    "Interior: Replace the stock roll cage with a FIA-spec T45 steel cage by Safety Devices, integrated with a Sparco Pro 2000 seat (carbon-Kevlar shell) and a Schroth 6-point harness. Install a Motec C187 dash logger with a 7-inch display, paired with a Bosch Motorsport MS 5.1 ECU and a custom wiring harness by Autosport Labs. Add a lightweight lithium-ion battery (Antigravity ATX-30) and a fire suppression system (Lifeline Zero 360, plumbed with 3 nozzles)."
+  ]
+}

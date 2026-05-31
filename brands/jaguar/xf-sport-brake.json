@@ -1,0 +1,14 @@
+{
+  "brand": "JAGUAR",
+  "model": "XF SPORT BRAKE",
+  "prestazioni": [
+    "Engine: AJ20D 3.0L Supercharged V6 (380PS) – Replace the OEM Eaton TVS1320 supercharger with a Harrop HTV2300 TVS2300 supercharger (12psi boost, 550whp target) paired with a custom 3.5\" upper pulley and 10-rib serpentine belt system from Vibrant Performance. Upgrade fueling with Injector Dynamics ID1050x injectors, Walbro 450LPH in-tank pump, and a Radium Engineering dual-catch can setup to manage blow-by under sustained boost.",
+    "Drivetrain: ZF 8HP70 8-speed automatic transmission – Install a Punch Powerglide Stage 3 valve body with a custom TCM tune from Dimsport Genius to enable 0.15s shift times and launch control. Reinforce the drivetrain with an OS Giken Super Lock LSD (2.5-way) and a custom 300M steel driveshaft from The Driveshaft Shop to handle increased torque.",
+    "Suspension & Handling: Adaptive Dynamics air suspension (OEM) – Replace with a full KW Clubsport 3-way coilover kit (800lb/in front, 900lb/in rear) with remote reservoirs and adjustable rebound/compression damping. Add a Whiteline front sway bar (24mm adjustable) and rear sway bar (22mm adjustable) to reduce body roll. Fit 20x9.5\" ET35 BBS CH-R wheels with 255/35/20 Michelin Pilot Sport Cup 2 tires for maximum mechanical grip."
+  ],
+  "estetica": [
+    "Aero: Full Liberty Walk LB Works widebody kit (XF Sport Brake-specific) with carbon fiber front splitter, side skirts, and rear diffuser. Install a custom 3D-printed carbon fiber roof spoiler (designed in-house via CAD for this model) to reduce lift by 18% at 120mph. Replace the OEM grille with a custom laser-cut aluminum mesh grille from Vorsteiner for improved airflow to the intercooler.",
+    "Lighting: Replace all exterior lighting with LUX H8 V4 LED headlights (5500K, 3200 lumens) and Osram Night Breaker Laser H7 bulbs for high beams. Add a custom LED light bar integrated into the front bumper (Baja Designs Squadron Pro) with a custom CNC-machined aluminum mount. Install sequential LED taillights from VLand with a custom wiring harness to sync with the turn signals.",
+    "Interior: Full Alcantara-wrapped dashboard and door cards (custom pattern by Katzkin) with red contrast stitching. Replace the OEM seats with Recaro Pole Position seats (carbon fiber backs, 6-point harness compatibility) and add a custom roll cage (6-point, TIG-welded 4130 chromoly) from Custom Cages UK. Install a Motec C127 dash display with GPS lap timer and a custom switch panel (AEM 30-0300) for boost control and launch mode activation."
+  ]
+}
