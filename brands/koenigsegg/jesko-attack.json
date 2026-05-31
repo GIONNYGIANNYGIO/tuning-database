@@ -1,0 +1,14 @@
+{
+  "brand": "KOENIGSEGG",
+  "model": "JESKO ATTACK",
+  "prestazioni": [
+    "Engine: Koenigsegg 5.0L twin-turbo V8 (internal code TFG V8) upgraded with a bespoke 10160 RPM dry-sump system featuring a billet-aluminum crankshaft and titanium connecting rods, paired with a custom Weistec Engineering billet main bearing girdle for 1,625 HP on E85 fuel using twin Garrett GTX5544R Gen II turbos with 3D-printed Inconel turbine housings and ceramic-coated compressor wheels for reduced inertia and 2.2 bar boost pressure",
+    "Transmission: 9-speed Koenigsegg Light Speed Transmission (LST) with a reinforced carbon-fiber clutch pack and a custom Pankl Racing Systems 102-tooth billet steel output shaft, mated to a Drexler Motorsport limited-slip differential with a 45% lockup ratio for optimal torque vectoring on track",
+    "Suspension: Öhlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed bleed) and a bespoke Koenigsegg-developed active ride height system using Bosch Motorsport ECU-controlled hydraulic actuators, paired with spherical bearing-mounted carbon-fiber wishbones and adjustable anti-roll bars from H&R Spezialfedern with 5mm increments for fine-tuning understeer/oversteer balance"
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon-fiber Vortex Generating Device (VGD) package by Koenigsegg Automotive, including a 9-piece front splitter with active Gurney flaps (adjustable via hydraulic actuators), a rear diffuser with integrated titanium strakes, and a 1.8m wide rear wing with dual-element active aero (adjustable in 0.1-degree increments via the Koenigsegg Electronic Stability Control system) for a combined 1,400 kg of downforce at 250 km/h",
+    "Exterior: Custom 'Ghost' paint scheme by Spies Hecker (a 7-layer pearlescent finish with micro-flake aluminum particles) applied over a carbon-fiber monocoque with exposed weave on the roof and rear clamshell, paired with a full titanium bolt-on underbody panel kit from Koenigsegg’s in-house manufacturing (weight savings of 12 kg) and a set of forged magnesium center-lock wheels by Dymag (20x11 front, 21x13 rear) wrapped in Michelin Pilot Sport Cup 2 R tires (265/35 R20 front, 345/30 R21 rear) with custom tread compounds for track use",
+    "Interior: Full Alcantara-wrapped cabin with bespoke Koenigsegg 'Attack' stitching (red/black contrast), featuring a 3D-printed titanium shift knob for the LST gearbox, a carbon-fiber steering wheel with integrated OMP Racing quick-release hub and a 12.3-inch digital display by Visteon, and a custom roll cage by Safety Devices (T45 steel with carbon-fiber cladding) with integrated fire suppression system by Lifeline Fire & Safety Systems (FE-36 agent, 4-nozzle deployment)"
+  ]
+}

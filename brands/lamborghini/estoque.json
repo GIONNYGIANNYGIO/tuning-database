@@ -1,0 +1,19 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "ESTOQUE",
+  "prestazioni": [
+    "Engine: 5.2L V10 (L539) with a custom Weistec Engineering Stage 3 supercharger kit (12 psi boost, 850+ HP), featuring a bespoke billet crankshaft, forged Mahle pistons (9.5:1 compression), and Carrillo H-beam connecting rods for sustained high-RPM reliability.",
+    "Forced Induction: Dual Precision Turbo PT6766 CEA turbochargers (hybrid ceramic ball-bearing core) with custom 4-inch Tial MV-R wastegates and a secondary 44mm external wastegate for precise boost control, paired with a PWR intercooler (5-core, 1200 HP-rated) and Vibrant Performance 4-inch silicone hoses.",
+    "Drivetrain: Weistec Engineering 7-speed ISR transmission reinforcement kit (billet shift forks, upgraded synchros, and a Quaife ATB differential with 45% lock), mated to a custom 2.5-inch driveshaft with CV joints from a Lamborghini Huracán Performante for durability under extreme torque.",
+    "Suspension: Öhlins TTX46 coilovers (3-way adjustable, 12-position rebound, 24-position compression) with custom valving for the Estoque’s 112-inch wheelbase, paired with Lamborghini Aventador-derived front/rear sway bars (24mm front, 22mm rear) and spherical bearing end links from SuperPro.",
+    "Braking: Alcon 6-piston monoblock calipers (405mm front, 380mm rear) with two-piece floating rotors (J-Hook slotted, 38mm thickness) and Ferodo DS3000 pads, paired with a custom ABS recalibration via a Motec M150 ECU for optimal threshold braking under 1.5g deceleration.",
+    "Exhaust: Capristo 3.5-inch titanium exhaust system with equal-length headers (Inconel 625 construction), 304 stainless steel merge collectors, and a secondary bypass valve for backpressure optimization, tuned to produce a 1,000 Hz resonance at 7,800 RPM for an aggressive V10 wail."
+  ],
+  "estetica": [
+    "Aerodynamics: Novitec Torado Lamborghini Estoque widebody kit (carbon fiber, 50mm front fender flares, 60mm rear) with integrated canards and a custom 3D-printed front splitter (CFD-optimized for 120 kg downforce at 200 km/h), paired with a Novitec rear diffuser and a fixed carbon fiber GT3-style wing (1,200 mm span, 300 mm chord).",
+    "Wheels: HRE FF16 flow-formed wheels (20x10.5 front, 21x12.5 rear) with a custom offset (ET25 front, ET30 rear) to clear the widened arches, wrapped in Michelin Pilot Sport Cup 2 R tires (265/30/20 front, 325/25/21 rear) for maximum mechanical grip.",
+    "Lighting: Custom LED headlight retrofit with Osram 8000K laser modules (Lux level: 1,800 lumens) and a sequential turn signal animation (via a custom CAN bus module), paired with a Novitec rear light delete panel (carbon fiber) and sequential LED taillights from a Lamborghini Sian.",
+    "Interior: Full Alcantara retrim (Rosso Mars pattern) with exposed carbon fiber door cards, a custom roll cage (T45 steel, 6-point, bolt-in) from VRS Performance, and a digital dash retrofit using a Motec C127 display (12-inch, 1080p) with custom Lamborghini-themed telemetry overlays (boost, oil temp, G-forces).",
+    "Exterior Details: Custom matte Grigio Titans paint with a 3M Satin Black roof wrap, Novitec carbon fiber side skirts with integrated LED accent lighting (RGB, 16-color programmable), and a custom front grille delete (replaced with a carbon fiber mesh insert from a Lamborghini Centenario)."
+  ]
+}

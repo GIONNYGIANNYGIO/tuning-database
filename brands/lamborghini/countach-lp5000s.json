@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "COUNTACH LP5000S",
+  "prestazioni": [
+    "Engine: Replace the original 4.8L *L503* V12 (375 hp) with a fully balanced and blueprinted *L503* block featuring forged Mahle Motorsport pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from JP Performance. Pair with a custom camshaft grind by Schrick (280° duration, 12.5mm lift) for optimized high-RPM power delivery.",
+    "Forced Induction: Install a custom-built twin-turbo system using Garrett GT35R turbos (86mm compressor wheels) with TiAL MV-R 44mm wastegates and a custom air-to-water intercooler setup by Bell Intercoolers, plumbed with -8AN Earl’s Performance AN fittings. Boost targets set to 1.2 bar (17.4 psi) via a Link G4+ Xtreme standalone ECU with individual cylinder fuel trims.",
+    "Exhaust: Fabricate a 3.5-inch stainless steel exhaust system with equal-length headers by Burns Stainless, terminating in a custom 4-into-1 collector and a pair of Capristo 100-cell sports cats, followed by a straight-pipe section with Inconel 625 mufflers by Armytrix for backpressure optimization."
+  ],
+  "estetica": [
+    "Body Kit: Install the *Countach Evoluzione* widebody conversion kit by Fiberfab (originally developed for the LP5000S homologation), featuring extended carbon fiber fender flares, a revised front splitter with integrated NACA ducts, and a rear diffuser with Gurney flaps. Paint in *Verde Medio* (Lamborghini’s original 1982 color code) with a satin clear coat by PPG.",
+    "Wheels: Fit 17x11-inch front and 17x14-inch rear OZ Racing Ultraleggera wheels (original Countach LP5000S dimensions) wrapped in Pirelli P Zero Corsa tires (245/40 R17 front, 335/35 R17 rear). Use custom-made titanium wheel spacers by H&R to achieve a 5mm flush fitment with the fender flares.",
+    "Interior: Replace the original Alcantara seats with Recaro Pole Position seats (originally used in the LP5000S Quattrovalvole) upholstered in *Rosso Corsa* leather by Saddleback Leather. Install a custom roll cage by Matter Fab with integrated fire suppression system (Lifeline Zero 360) and a MOMO Prototipo steering wheel with a quick-release hub."
+  ]
+}

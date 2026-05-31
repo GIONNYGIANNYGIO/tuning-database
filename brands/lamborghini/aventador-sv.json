@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "AVENTADOR SV",
+  "prestazioni": [
+    "Engine: L539 6.5L V12 naturally aspirated—reflashed with Lamborghini Squadra Corse's SCV12-derived ECU calibration (SC12_002 firmware) for aggressive ignition timing advance (+4° BTDC) and optimized fuel maps targeting 12.5:1 AFR under full load, paired with a custom titanium intake manifold (Novitec Torado) featuring CNC-machined velocity stacks and a 90mm throttle body (vs. stock 85mm) for improved airflow at 8,500+ RPM.",
+    "Forced Induction: Twin-turbo conversion using Garrett GTX5533R Gen II turbos (84mm compressor wheels, 1.06 A/R turbine housings) with TiAL MV-R 60mm wastegates and custom 4-ply silicone charge pipes (VRSF) routed to a PWR 1200hp front-mount intercooler (core dimensions: 24\" x 12\" x 4.5\"). Boost targets: 1.2 bar (17.4 psi) peak, tapering to 0.9 bar (13 psi) at redline (9,000 RPM) via a Motec M150 ECU with closed-loop boost control.",
+    "Drivetrain: ISR Performance 6-speed sequential gearbox with billet 240mm triple-cone synchros (replacing stock single-cone) and a Sachs Racing dual-disc clutch (280mm, 4-pad carbon-carbon friction material) mated to a Quaife ATB helical LSD (85% lockup). Rear differential housing reinforced with a 3D-printed titanium support brace (Novitec) to eliminate flex under 1,000+ Nm torque."
+  ],
+  "estetica": [
+    "Aerodynamics: Prior Design 'Aventador SV-R' widebody kit (carbon fiber, 50mm extended front fenders, 70mm rear overfenders) with integrated active aero: front splitter (adjustable -5° to +10° angle via electric actuators) and a fixed rear wing (3.2m² surface area, 1,200mm chord) generating 450kg downforce at 250 km/h. Underbody: full-length carbon diffuser (Novitec) with vortex generators and a 3D-printed titanium rear diffuser support frame.",
+    "Exterior: Custom 'Giallo Orion' paint (Lamborghini Ad Personam, 12-layer pearlescent finish) with matte black forged carbon fiber (Weaver Carbon) roof, mirror caps, and front splitter endplates. Lighting: OEM-style LED headlights (Lux HID) with Osram Night Breaker Laser bulbs (6,000K) and sequential turn signals (Morimoto). Wheels: HRE FF16 3-piece forged alloys (20\"x12\" front, 21\"x13\" rear) with titanium hardware and Michelin Pilot Sport Cup 2 R tires (265/30 ZR20 front, 345/25 ZR21 rear).",
+    "Interior: Full Alcantara-wrapped cabin (Lamborghini Ad Personam 'Nero Ade' with 'Giallo Orion' contrast stitching) featuring Recaro Pole Position seats (carbon shell, 6-point Schroth harnesses), a custom roll cage (MCS Motorsport, 4130 chromoly, TIG-welded) with integrated fire suppression system (Lifeline Zero 360), and a Motec C127 dash display (replacing stock cluster) with configurable shift lights (RGB LED strip, 10,000 RPM redline warning)."
+  ]
+}

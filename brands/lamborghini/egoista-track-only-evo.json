@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "EGOISTA TRACK ONLY EVO",
+  "prestazioni": [
+    "Engine: 5.2L V10 (L539) with dry-sump lubrication, upgraded to 720 HP via Lamborghini Squadra Corse’s SC10+ ECU calibration (OBD-II locked, requires Motec M150 standalone for full flexibility) and titanium intake valves from Del West (38.5mm diameter, 8.5g lighter than OEM).",
+    "Forced Induction: Single BorgWarner EFR 9180 turbo (1.05 A/R, 76mm compressor, 64mm turbine) with custom billet aluminum compressor housing, paired with a Pectel SQ6M engine management system for boost-by-gear mapping (1.8 bar in 1st-3rd, 2.2 bar in 4th-7th).",
+    "Drivetrain: Graziano VT15+ 7-speed sequential transaxle with carbon-fiber clutch plates (Sachs Performance, 3-disc setup, 240mm diameter) and a Quaife ATB differential (85% lock under load). Rear half-shafts upgraded to 300M steel (custom-forged by GKN Driveline) with tripod CV joints for 1,200 Nm torque capacity."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon-fiber bodywork with Lamborghini Centro Stile’s ‘Aero Evo’ package (active front splitter with 40mm adjustable dive planes, rear diffuser with Gurney flap extensions from Pagani Huayra BC, and a fixed rear wing with 3D-printed titanium endplates for 1,100 kg downforce at 250 km/h).",
+    "Lighting: Full LED matrix headlights (Osram Ostar Projection, 1,200 lumens per unit) with adaptive cornering beams controlled by a Bosch MS 5.0 sensor cluster, integrated into the single-piece canopy windshield (polycarbonate, 12mm thick, coated with PPG Diamon Fusion for scratch resistance).",
+    "Interior: Monocoque cockpit with 3D-printed titanium seat shell (Sparco Pro 2000, carbon-Kevlar hybrid) and Schroth 6-point harnesses (ASM2 model, FIA 8862-2009 certified). Steering wheel features a custom Momo Prototipo Evo (carbon-fiber, 320mm diameter) with integrated AIM MXS 1.2 Strada dash and paddle shifters (magnesium, 3D-milled by Brembo)."
+  ]
+}

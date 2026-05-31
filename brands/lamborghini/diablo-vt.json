@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "DIABLO VT",
+  "prestazioni": [
+    "Engine: Replace the stock LIE 5.7L V12 (L570) with a fully forged internals build featuring Mahle Motorsport forged pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from JE Pistons. Pair with a custom dry-sump oiling system by Peterson Fluid Systems to eliminate oil starvation under sustained lateral G-forces.",
+    "Forced Induction: Twin-turbocharged setup using Garrett GT35R turbos (846521-5004S) with TiAL MV-R 44mm wastegates and TiAL Q 50mm blow-off valves. Custom intercooler system by Bell Intercoolers with dual-core 4.5\" thick cores and 3.5\" piping, paired with a custom ECU tune by Lamborghini specialist HPA Motorsports (targeting 850whp on 93 octane with 22psi boost).",
+    "Drivetrain & Suspension: Upgrade to a Quaife ATB differential (QDF7Z) for the rear axle, paired with a custom 6-speed sequential transmission by Holinger (RD6S) with paddle shifters. Suspension overhaul with Öhlins TTX46 coilovers (custom valving for Diablo VT chassis) and spherical bearing upper control arms by Superleggera Engineering. Reinforce the chassis with a custom bolt-in roll cage by Matter Fab (chromoly steel, FIA-spec)."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon fiber widebody conversion using the Liberty Walk LB-WORKS Diablo VT kit (LB-0377), including extended front fenders, rear quarter panels, and a custom rear diffuser by Vorsteiner. Front splitter and rear wing are custom 3D-printed carbon fiber units by 996Racing, designed for 300kg+ downforce at 180mph.",
+    "Exterior Styling: Custom paint scheme in Lamborghini Viola Micalizzato (metallic purple) with matte black accents, applied by Bare Metal Standard. Replace all exterior lighting with custom LED units by Diode Dynamics (sequential turn signals, HID projectors with demon eye halos). Side mirrors replaced with carbon fiber units by DTM Style (model DT-007).",
+    "Interior: Full Alcantara retrim by Saddleback Leather, including custom door cards, headliner, and dashboard in black Alcantara with purple stitching. Replace the stock seats with Recaro Pole Position II (PP-II) seats (carbon fiber shells, FIA-approved) and custom 6-point harnesses by Schroth (Professional 2 ASM). Add a custom digital dash by AIM MXS Strada (1.3\" display) with integrated data logging for boost, oil pressure, and G-forces."
+  ]
+}

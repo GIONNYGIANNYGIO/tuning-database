@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "GALLARDO",
+  "prestazioni": [
+    "Engine: 5.0L V10 (L539, 90° V10) with a custom Motec M150 ECU reflash targeting 650+ HP via ported throttle bodies, upgraded fuel system (Bosch 044 high-flow fuel pump + Injector Dynamics ID1050x injectors), and a custom 3.5\" straight-pipe exhaust with Capristo 200-cell metallic catalytic converters for backpressure optimization.",
+    "Forced Induction: Single Garrett GTX4202R turbocharger (84mm compressor wheel) with a custom 3D-printed titanium intake manifold, TiAL MV-R 44mm wastegate, and a PTP carbon fiber intercooler (1000HP-rated) paired with a custom water-methanol injection system (AEM 340lph pump + Snow Performance Stage 3 kit) for IAT control.",
+    "Suspension & Handling: Ohlins TTX40 3-way adjustable coilovers with custom valving for the Gallardo’s double-wishbone setup, Eibach 20mm front / 25mm rear anti-roll bars, and a full polybush kit (SuperPro 62mm spherical bearings for subframe mounts) to eliminate compliance. Brembo GT 380mm 2-piece rotors with 6-piston calipers (front) and 355mm 4-piston (rear) for extreme fade resistance."
+  ],
+  "estetica": [
+    "Aero: Liberty Walk LB Works Gallardo widebody kit (carbon fiber fenders, front/rear bumpers, and side skirts) with a custom 3D-printed rear diffuser incorporating active Gurney flaps (servo-controlled via Motec PDM). Front splitter features a 3-stage adjustable angle (0°/3°/6°) via hydraulic actuators for downforce tuning.",
+    "Lighting: Custom Hella 90mm Bi-Xenon projectors with Osram D1S 6000K bulbs, retrofitted with a custom DRL halo ring (RGBW, controlled via Arduino + CAN bus integration). Rear lights replaced with sequential LED taillights (VLAND 92170) with a custom sequential pattern synced to RPM via ECU.",
+    "Interior: Full Alcantara retrim (Rocco Design) with custom embroidered Lamborghini raging bull logo on headrests, Sparco Pro 2000 seats (carbon fiber shells, 6-point harnesses), and a custom Motec C127 dash display replacing the stock cluster, featuring live telemetry (boost, AFR, oil pressure) and a 3D G-meter."
+  ]
+}

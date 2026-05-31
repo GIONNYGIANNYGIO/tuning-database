@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "DIABLO SE30",
+  "prestazioni": [
+    "Engine: Replace the stock LIE 5.7L V12 (L570) with a fully built internals package featuring forged Mahle Motorsport pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from JE Pistons to handle 900+ HP reliably under forced induction.",
+    "Forced Induction: Twin Garrett GTX5533R turbochargers with TiAL MV-R 60mm wastegates and TiAL Q 50mm blow-off valves, paired with a custom air-to-water intercooler system from PWR (Australia) and a bespoke intake manifold designed by Paolo Stanzani (ex-Lamborghini engineer) for optimized airflow.",
+    "Fuel & Ignition: Full Motec M150 ECU with individual cylinder tuning, paired with a dual Bosch Motorsport 044 high-flow fuel pump setup, Injector Dynamics ID2000x injectors, and a custom dry-sump oil system from Dailey Engineering with an external 12-quart reservoir and dual scavenge pumps."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion using the SE30-specific 'Jota' aero kit from Prior Design, including a revised front splitter with integrated canards, side skirts with air curtains, and a massive rear diffuser with active Gurney flap (adjustable via cockpit switch).",
+    "Wheels: OZ Racing Ultraleggera HLT 18x11 (front) and 18x13 (rear) in a custom gold-bronze finish, wrapped in Michelin Pilot Sport Cup 2 R tires (265/35 ZR18 front, 345/30 ZR18 rear) with a bespoke camber setup (-3.5° front, -2.8° rear) using Ohlins TTX40 coilovers with 3-way adjustable damping.",
+    "Interior: Full Alcantara retrim by Saddleback Leather, featuring a custom roll cage from Matter Fab (integrated with the SE30's existing chassis stiffening points), a MOMO Prototipo steering wheel with quick-release hub, and a digital dash from AIM MXS Strada with integrated lap timer and boost/vacuum gauges."
+  ]
+}

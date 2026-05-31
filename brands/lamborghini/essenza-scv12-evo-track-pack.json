@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "ESSENZA SCV12 EVO TRACK PACK",
+  "prestazioni": [
+    "Engine: 6.5L naturally aspirated V12 (L539 code) with a bespoke titanium Akrapović exhaust system featuring 4-into-2-into-1 headers, 100-cell catalytic converters, and carbon-fiber mufflers to reduce backpressure by 18% while increasing power to 850 CV at 8,700 RPM (stock: 830 CV).",
+    "Forced induction: Custom Lamborghini Squadra Corse-developed ram-air intake system with dual carbon-fiber snorkels (replacing the stock single intake) and a secondary air-to-water intercooler (mounted in the front splitter) to reduce intake temps by 22°C under sustained track use, paired with a Motec M150 ECU recalibration for optimized ignition timing and fuel mapping under high-G loads.",
+    "Suspension & Chassis: Öhlins TTX46 MkII 3-way adjustable coilovers with 24-click rebound, 22-click compression, and 12-click high-speed compression damping, paired with Lamborghini’s factory carbon-fiber anti-roll bars (28mm front, 24mm rear) and spherical bearing upgrades to the front and rear subframes for sub-0.1° deflection under lateral loads. Pirelli P Zero Trofeo R tires (315/680-R19 front, 345/705-R19 rear) with custom Lamborghini Motorsport compound (Pirelli reference: SC12EVO) for +12% mechanical grip over stock SCV12 tires."
+  ],
+  "estetica": [
+    "Aerodynamics: Lamborghini Squadra Corse ‘EVO Track Pack’ carbon-fiber aero kit, including a revised front splitter with integrated dive planes (generating +80 kg downforce at 250 km/h), a rear diffuser with active Gurney flap (adjustable via cockpit switch for +15% rear downforce), and a fixed rear wing with dual-element design (replacing the stock single-element wing) for +20% efficiency. All components are autoclave-cured with a matte clear coat for UV resistance.",
+    "Bodywork: Full carbon-fiber body panel replacement (including doors, fenders, and rear clamshell) with Lamborghini’s ‘Forged Composites’ weave (30% lighter than stock pre-preg carbon), featuring a custom ‘Giallo Orion’ livery with Squadra Corse decals (matte black with gloss red pinstripes) and a carbon-fiber roof scoop for optimized airflow to the rear-mounted radiators.",
+    "Interior: Full Alcantara-wrapped cockpit with Lamborghini Motorsport carbon-fiber bucket seats (Sparco Pro 2000 shell, 1.2 kg lighter than stock), Schroth 6-point harnesses (ASM2 type), and a Motec C127 dash display (replacing the stock cluster) with real-time telemetry for brake temps, tire pressures, and G-forces. The steering wheel is a bespoke Lamborghini Squadra Corse unit with integrated pit-lane speed limiter and traction control adjustability (12-position dial)."
+  ]
+}

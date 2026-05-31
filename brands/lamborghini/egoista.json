@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHININI",
+  "model": "EGOISTA",
+  "prestazioni": [
+    "Engine: 5.2L V10 (L539) with a custom-built dry-sump lubrication system utilizing a Peterson Fluid Systems 4-stage pump and integrated oil accumulator for sustained high-G cornering, paired with a bespoke titanium crankshaft from Pankl Racing Systems to handle 10,500 RPM redline and 700+ HP output.",
+    "Forced Induction: Twin-turbocharged setup using Garrett GTX5533R Gen II turbos with billet compressor wheels, custom 4.5-inch V-band exhaust manifolds by Armytrix, and a Motec M150 ECU with individual cylinder fuel trimming and anti-lag strategies for instantaneous boost response (1.5 bar peak).",
+    "Suspension & Chassis: Full Ohlins TTX46 MkII coilovers with 3-way adjustable damping, custom machined aluminum top mounts by KW Suspensions, and a carbon-fiber monocoque reinforcement kit from APR Performance to eliminate flex under 2.5G lateral loads, paired with Brembo GT-R 6-piston calipers and 420mm carbon-ceramic rotors."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon-fiber body kit by Liberty Walk, including a custom 3D-printed front splitter with active Gurney flaps (adjustable via cockpit switch), a rear diffuser with integrated vortex generators, and a fixed rear wing with NACA ducts for brake cooling, all coated in Lamborghini's 'Arancio Xanto' with matte black carbon weave accents.",
+    "Lighting: Full LED conversion with Osram Laserline headlights (1,500-meter range) and custom sequential taillights by Diode Dynamics, integrated into the rear carbon-fiber panel with a programmable chase pattern for track use.",
+    "Interior: Single-seat cockpit with a custom Sparco Pro 2000 carbon-fiber seat, Schroth 6-point harnesses, and a digital dash cluster by AIM MXS 1.2 with real-time telemetry overlay, including G-force, boost pressure, and lap timing, all controlled via a MoTeC C127 display."
+  ]
+}

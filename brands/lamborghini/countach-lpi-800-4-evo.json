@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "COUNTACH LPI 800-4 EVO",
+  "prestazioni": [
+    "Engine: Replace the stock 6.5L L539 V12 (naturally aspirated) with a bespoke Novitec-engineered 6.5L twin-turbo kit featuring two Garrett GTX5533R Gen II turbos, custom billet aluminum intake manifold, and a Novitec-specific ECU remap targeting 1,200 HP at 8,500 RPM with 950 Nm of torque. The kit includes a Novitec high-flow fuel system with dual Bosch Motorsport 044 fuel pumps and 1,200cc injectors, paired with a custom Novitec titanium exhaust system featuring 3.5-inch diameter piping and Akrapović titanium mufflers.",
+    "Drivetrain: Upgrade the stock 7-speed ISR transmission with a Novitec-tuned Quaife ATB differential and a Sachs Performance dual-disc clutch system (380mm diameter) to handle the increased torque. Replace the stock half-shafts with custom Novitec carbon-fiber driveshafts and reinforced CV joints to prevent drivetrain failure under extreme acceleration.",
+    "Suspension & Chassis: Install a full Öhlins TTX46 coilover system with 3-way adjustable damping (compression, rebound, and ride height) and custom Lamborghini-specific spring rates (14 kg/mm front, 16 kg/mm rear). Pair with a Novitec front strut brace and a custom carbon-fiber rear subframe reinforcement kit to reduce chassis flex. Add a set of Brembo GT-R 6-piston calipers (400mm front, 380mm rear) with carbon-ceramic rotors and Ferodo DS3000 brake pads for extreme stopping power."
+  ],
+  "estetica": [
+    "Aerodynamics: Install a full Novitec Countach-specific widebody kit featuring carbon-fiber front splitters, side skirts, and a massive rear diffuser with integrated active aero flaps. Add a custom Novitec rear wing (carbon-fiber, 3D-printed airfoil) with adjustable angle of attack (0-15 degrees) and a Gurney flap for downforce optimization. The kit includes a front lip spoiler with integrated LED turn signals and a rear bumper with dual exhaust cutouts for the Akrapović system.",
+    "Wheels & Tires: Fit a set of custom Novitec NF10 wheels (20x10.5 front, 21x13 rear) in a matte gold finish, wrapped in Pirelli P Zero Trofeo R tires (265/30 R20 front, 345/25 R21 rear) for maximum grip. The wheels feature a center-lock system with Novitec titanium wheel nuts and a custom offset to accommodate the widebody kit.",
+    "Interior & Exterior Details: Replace the stock leather interior with a full Alcantara and carbon-fiber trim package, including a Novitec-specific steering wheel with integrated shift lights and a digital boost gauge. Add a custom Novitec roll cage (TIG-welded, chrome-moly steel) with integrated fire suppression system (FireBottle 2x 5kg extinguishers). Exterior details include a custom Novitec carbon-fiber engine cover with a clear polycarbonate window, a set of Novitec side mirrors with integrated cameras, and a full PPF (paint protection film) wrap in a custom matte metallic silver finish."
+  ]
+}

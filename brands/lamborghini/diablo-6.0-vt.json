@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "DIABLO 6.0 VT",
+  "prestazioni": [
+    "Engine: LIE 6.0L V12 (L535-2) with forged internals upgrade including Carrillo H-beam connecting rods, JE 12.5:1 forged pistons, and a billet crankshaft from Manley Performance to handle 850+ HP reliably under forced induction.",
+    "Forced Induction: Twin Precision Turbo PT6766 CEA ball-bearing turbos with custom 3D-printed titanium exhaust manifolds by SMS Engineering, paired with a custom air-to-water intercooler system from PWR and a Motec M150 ECU for precise boost mapping (targeting 1.2 bar peak boost).",
+    "Drivetrain: Quaife ATB differential with a custom 6-speed manual transmission swap (from a Diablo GT) reinforced with a Tilton twin-disc carbon clutch and a custom billet aluminum flywheel, paired with a GForce G-1400 sequential gearbox for track use."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon fiber widebody conversion using the Liberty Walk LB-WORKS Diablo kit, including extended front fenders, custom rear diffuser by Novitec, and a fixed carbon fiber rear wing with active Gurney flaps controlled by a Bosch Motorsport ECU.",
+    "Wheels & Brakes: OZ Racing Ultraleggera HLT 19x11 (front) and 20x13 (rear) wheels with custom center locks, wrapped in Michelin Pilot Sport Cup 2 R tires (285/30 ZR19 front, 345/25 ZR20 rear). Brembo GT-R 6-piston calipers with 400mm carbon-ceramic rotors up front and 380mm rotors at the rear, paired with Ferodo DS3000 pads.",
+    "Interior & Exterior: Full Alcantara-wrapped interior by Sabelt, including custom bucket seats with 6-point harnesses, a digital dash from AIM MXS Strada, and a custom roll cage by Safety Devices. Exterior features a custom PPF wrap in Lamborghini Viola Micalizzato with exposed carbon fiber accents, and a custom LED lighting system by Osram for aggressive front/rear light signatures."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "KOENIGSEGG",
+  "model": "REGERA",
+  "prestazioni": [
+    "Upgrade to a **Koenigsegg Direct Drive (KDD) system** with a **custom 3x YASA P400 electric motors** (engine code: **TFG 5.0L V8 twin-turbo**) recalibration for 1,800+ hp, utilizing **Motec M150 ECU** with **Koenigsegg-developed torque vectoring firmware** for instantaneous torque split (0-100% front/rear bias) and **carbon-fiber driveshafts** from **Pankl Racing Systems** to handle the 2,000+ Nm of torque",
+    "Installation of a **custom Akrapović titanium exhaust system** with **Inconel 625 headers** and **dual-mode active valves**, paired with a **Koenigsegg-designed 100-cell catalytic converter** to maintain Euro 6d compliance while reducing backpressure by 38% over stock",
+    "Integration of a **Garrett GTX5544R Gen II turbocharger** (modified for Koenigsegg’s **TFG V8**) with **ceramic ball bearings**, **billet compressor wheel**, and **Koenigsegg-specific wastegate actuators**, coupled with a **PWR intercooler** (core volume increased by 22%) and **Silicone Intakes 4-ply reinforced charge pipes** for sustained 2.2 bar boost"
+  ],
+  "estetica": [
+    "Full **Koenigsegg Ghost Package** with **active aerodynamics**, including **carbon-fiber front splitter with hydraulic adjustment** (0-40mm range), **rear diffuser with Gurney flaps**, and **adaptive rear wing** (angle controlled via **Bosch Motorsport ECU**) for 800kg+ downforce at 250 km/h",
+    "Custom **Rocket Bunny x Koenigsegg widebody kit** (carbon-fiber construction) with **extended fenders (50mm front, 70mm rear)**, **aggressive side skirts**, and **integrated LED turn signals** (OEM-style, **Osram LEDriving HL** bulbs), paired with **BBS FI-R 20x11/21x13.5 wheels** wrapped in **Michelin Pilot Sport Cup 2 R** (345/30 R20 front, 355/25 R21 rear)",
+    "Interior overhaul with **Alcantara-wrapped Koenigsegg Aircore seats** (carbon-fiber shell, **Schroth 6-point harnesses**), **custom roll cage** (TIG-welded **4130 chromoly steel**, **Sparco harness bar**), and **Motec C127 dash display** (replacing stock cluster) with **real-time telemetry** (boost, torque split, aero load, tire temps via **Pirelli Cyber Tire sensors**)"
+  ]
+}

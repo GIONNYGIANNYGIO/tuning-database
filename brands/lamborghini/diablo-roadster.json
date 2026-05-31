@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "DIABLO ROADSTER",
+  "prestazioni": [
+    "Engine: L535 (5.7L V12) with a custom Motec M150 ECU reflash targeting 650+ hp via optimized cam timing (248° intake / 256° exhaust duration) and 12.5:1 static compression, paired with a custom-made Tubi Style titanium exhaust featuring 3.5\" primary tubes and equal-length headers for improved scavenging",
+    "Forced induction: Single Garrett GTX5533R turbo (1.05 A/R turbine housing) with a custom air-to-water intercooler (PWR Advanced Cooling) and a TiAL MV-R 60mm wastegate, running 18 psi peak boost on 100-octane fuel with a custom fuel system upgrade (Bosch 044 high-flow pump + Injector Dynamics ID2000x injectors)",
+    "Suspension: Full Ohlins Road & Track coilovers (DFV 2-way adjustable) with custom valving for the Diablo's unequal-length A-arms, paired with Eibach Pro-Street S anti-roll bars (28mm front / 25mm rear) and spherical bearing conversion (SuperPro) for the front upper control arms to eliminate compliance"
+  ],
+  "estetica": [
+    "Aero: Custom 3D-printed carbon fiber front splitter (inspired by the Diablo GT) with integrated canards (Vorshlag Motorsport) and a rear diffuser from RW Carbon, featuring active Gurney flaps (adjustable via cockpit switch) for downforce tuning",
+    "Body: Full widebody conversion using authentic Lamborghini Diablo SV-R OEM-style fender flares (modified by Liberty Walk for the Roadster chassis) with custom carbon fiber side skirts and a removable hardtop (made by Novitec) with a clear polycarbonate rear window",
+    "Wheels: OZ Racing Ultraleggera HLT 18x11\" (front) and 18x13\" (rear) with custom offsets (-20mm front / -50mm rear) wrapped in Michelin Pilot Sport Cup 2 R tires (285/35 R18 front / 345/30 R18 rear), paired with Brembo GT-R 6-piston calipers (380mm rotors) and Ferodo DS2500 brake pads"
+  ]
+}

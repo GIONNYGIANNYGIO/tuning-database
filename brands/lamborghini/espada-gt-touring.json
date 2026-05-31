@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "ESPADA GT TOURING",
+  "prestazioni": [
+    "Engine: Lamborghini 3.9L V12 (L390) with forged internals by JE Pistons (9.5:1 compression, 87mm bore, 84mm stroke) and Carrillo H-beam connecting rods for 8,500 RPM redline capability, paired with a custom billet crankshaft by Bryant Racing",
+    "Forced induction: Single Garrett GTX5533R turbocharger (1.05 A/R turbine housing) with TiAL MV-R 44mm wastegate and custom 3.5\" stainless steel exhaust manifold by Burns Stainless, feeding into a custom 4-into-1 downpipe with GESI catalytic converters (200-cell) for Euro 6 compliance",
+    "Fuel and ignition: Full sequential fuel injection system by Motec M150 ECU with dual Bosch 044 fuel pumps, ID1000x injectors, and MSD 8 Plus ignition system with NGK R7437-10 iridium spark plugs, paired with a custom dry-sump oil system by Peterson Fluid Systems (8-quart capacity, 4-stage pump)"
+  ],
+  "estetica": [
+    "Custom widebody conversion by Touring Superleggera (Milan) with hand-formed aluminum fenders (2.5\" wider front, 3.0\" wider rear) and integrated side skirts, retaining original Espada GT Touring design language with modernized wheel arches",
+    "Bespoke 18\" OZ Racing Ultraleggera HLT wheels (9.5\" front, 12\" rear) with custom offset (ET15 front, ET5 rear) and Pirelli P Zero Corsa tires (235/40 front, 295/35 rear), wrapped in a custom metallic Verde Ithaca paint with gold leaf pinstriping by Carrozzeria Zanasi",
+    "Interior: Full Alcantara retrim by Saddleback Leather (steering wheel, dashboard, and door cards) with custom embroidered Lamborghini Espada GT Touring logos, paired with a bespoke roll cage by Custom Cages (T45 steel, 6-point) and Recaro Pole Position seats (carbon fiber shells, Alcantara inserts)"
+  ]
+}

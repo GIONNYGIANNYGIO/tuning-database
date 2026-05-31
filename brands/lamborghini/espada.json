@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "ESPADA",
+  "prestazioni": [
+    "Engine swap to a naturally aspirated **Lamborghini 4.0L V12 (L539 code, as found in the Aventador SVJ)**, retaining the original Espada's front-engine layout but with a custom dry-sump oiling system by **Dailey Engineering** to prevent oil starvation during high-G cornering. The engine is mated to a **Graziano 7-speed ISR transmission** (from the Huracán) via a **Tilton triple-plate carbon clutch** for seamless power delivery.",
+    "Forced induction via a **Precision Turbo PT6266 CEA ball-bearing turbocharger** (custom-machined for the L539 V12) with a **Tial MV-R 44mm wastegate** and **TurboSmart Race Port BOV**, running **1.2 bar of boost** through a **custom 4-into-1 stainless steel exhaust manifold** by **Capristo**, paired with a **Supersprint 3.5-inch titanium exhaust system** featuring quad 100mm outlets.",
+    "Suspension overhaul with **Öhlins TTX46 coilovers** (custom-valved for the Espada's unique front-midship weight distribution), **Eibach ERS 1000N/mm helper springs**, and **SuperPro polyurethane bushings** for the rear trailing arms. Braking is upgraded to **Brembo GT-R 6-piston calipers** (380mm rotors front, 355mm rear) with **Ferodo DS2500 pads** and **Goodridge G-Stop braided lines**."
+  ],
+  "estetica": [
+    "Full **Rocket Bunny V3 widebody kit** (modified for the Espada's 2+2 proportions) with **custom carbon fiber fender flares** (hand-laid by **VIS Racing**), extending the track width by 3.5 inches front and rear. The kit includes a **ducktail spoiler** (functional, generating 45kg of downforce at 180mph) and **front canards** by **AIT Racing**.",
+    "Custom **bare carbon fiber hood** (weight-reduced by 12kg) with **NACA ducts** feeding the **L539 V12's throttle bodies**, paired with **HRE FF10 wheels** (20x10.5 front, 21x12.5 rear) wrapped in **Pirelli P Zero Trofeo R tires** (275/30/20 front, 325/25/21 rear). The wheels feature **custom center-lock adapters** to fit the Espada's original hubs.",
+    "Interior stripped and rebuilt with **Recaro Pole Position seats** (retrimmed in **Alcantara with red stitching**), a **MOMO Prototipo steering wheel** (quick-release hub), and a **Motec C127 dash logger** integrated into the original gauge cluster. The rear seats are replaced with a **custom carbon fiber storage compartment** housing a **Lithium Werks 48V battery** and **AEM CD-7 data acquisition system**."
+  ]
+}

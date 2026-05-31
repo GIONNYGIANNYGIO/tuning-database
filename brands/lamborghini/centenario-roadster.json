@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "CENTENARIO ROADSTER",
+  "prestazioni": [
+    "Lamborghini L539 6.5L V12 naturally aspirated engine: Full titanium Akrapović Evolution Line exhaust system with carbon-fiber tips, featuring a 70mm diameter piping and electronically controlled butterfly valves for backpressure optimization at 8,500 RPM",
+    "Weistec Engineering Stage 3+ ECU and TCU remap with custom fueling calibration for 91-octane fuel, targeting 820 HP at 8,600 RPM and 570 lb-ft of torque at 6,700 RPM, including launch control recalibration for 0-60 mph in 2.5 seconds",
+    "Ohlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression), paired with Lamborghini-specific spring rates (18 kg/mm front, 22 kg/mm rear) and carbon-fiber top mounts for reduced unsprung weight"
+  ],
+  "estetica": [
+    "Novitec Torado Centenario-specific widebody kit with carbon-fiber fenders, extending front track by 40mm and rear track by 50mm, including integrated air curtains and a 3D-printed aluminum reinforcement structure for chassis rigidity",
+    "Vorsteiner V-FF 107 carbon-fiber wheels in a staggered setup (20x9.5 +35 front, 21x12.5 +40 rear) with titanium wheel bolts, wrapped in Pirelli P Zero Trofeo R tires (255/30 R20 front, 355/25 R21 rear) for maximum mechanical grip",
+    "Lamborghini Centro Stile-designed carbon-fiber rear diffuser with active Gurney flap, adjustable via the infotainment system, and a Novitec front splitter with integrated canards, both tested in the Dallara wind tunnel for a 12% reduction in drag coefficient"
+  ]
+}

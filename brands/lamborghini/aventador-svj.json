@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "AVENTADOR SVJ",
+  "prestazioni": [
+    "Mansory Stage 3 ECU remap for the L539 6.5L V12 (naturally aspirated), optimizing ignition timing and fuel maps to extract 850+ HP (from 770 HP stock) with a 9,000 RPM redline, paired with a Novitec Tridente high-flow carbon fiber intake system featuring ram-air ducts and a heat-reflective ceramic coating to reduce IATs by 12°C",
+    "Novitec-engineered L539 V12 forged internals upgrade: Carrillo H-beam connecting rods, Mahle Motorsport forged pistons (12.5:1 compression), and a billet crankshaft with a 10mm stroke increase for 6.7L displacement, supporting 1,000+ HP with a custom Novitec dry-sump lubrication system and a Setrab 50-row oil cooler",
+    "Ohlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression), custom valved for the SVJ’s ALA 2.0 active aerodynamics, paired with Lamborghini’s factory carbon-ceramic brakes (CCMR) but upgraded with Pagid RSL29 racing pads and Brembo 10-piston calipers for 50% increased clamping force"
+  ],
+  "estetica": [
+    "Mansory Carbonado widebody kit with pre-preg autoclave carbon fiber fenders (30mm wider front, 40mm wider rear), incorporating integrated NACA ducts for brake cooling and a custom 3D-printed titanium front splitter with active Gurney flaps synced to the ALA 2.0 system",
+    "Novitec ‘Aero 3’ rear wing with a dual-plane design (adjustable angle of attack from 5° to 25°), constructed from 3K twill carbon fiber with a titanium honeycomb core, replacing the stock SVJ wing while retaining the active rear diffuser’s hydraulic actuation",
+    "Forge Motorsport titanium exhaust system with quad 100mm outlets, featuring a valved bypass for track use (eliminating backpressure by 40%) and a heat-wrapped Inconel 625 manifold, paired with a custom Novitec ‘Sound Symphony’ module that amplifies the V12’s 3rd and 5th harmonics via cabin-mounted resonators"
+  ]
+}

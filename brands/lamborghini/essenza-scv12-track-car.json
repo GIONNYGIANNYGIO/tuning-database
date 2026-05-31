@@ -1,0 +1,15 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "ESSENZA SCV12 TRACK CAR",
+  "prestazioni": [
+    "Engine: 6.5L naturally aspirated V12 (L539) with bespoke dry-sump lubrication system, reinforced titanium connecting rods (Pankl Racing Systems), and CNC-ported cylinder heads featuring 48mm intake/40mm exhaust valves (Supertech Performance) for optimized airflow at 9,000+ RPM redline",
+    "Forced induction: Custom-designed 12-into-1 equal-length stainless steel exhaust manifold (Capristo) with integrated secondary air injection for catalytic converter bypass, paired with a straight-pipe titanium exhaust system (Akrapović) featuring 80mm diameter outlets and electronically controlled butterfly valves for backpressure modulation",
+    "Suspension: Öhlins TTX46 MkII 3-way adjustable coilovers with 400mm stroke length, reinforced spherical bearings (Aurora Bearing), and bespoke carbon-fiber pushrods (H&R) for 30% reduced unsprung weight, calibrated for 3.5G lateral load capacity with Pirelli P Zero Trofeo R tires (315/680-R18 front, 335/705-R18 rear)",
+    "Aerodynamics: Full-carbon underbody diffuser (Dallara) with active Gurney flaps (adjustable via MoTeC ADL3 dash), front splitter with integrated brake cooling ducts (Brembo GT 6-piston calipers), and rear wing with 1,200mm chord length (Aston Martin Valkyrie-derived) generating 1,200kg downforce at 250km/h"
+  ],
+  "estetica": [
+    "Exterior: Full carbon-fiber body kit (Lamborghini Squadra Corse) with 2x2 twill weave, including removable front fenders with quick-release Dzus fasteners, side skirts with integrated NACA ducts (for transmission cooling), and a rear diffuser with titanium mounting brackets (TIG-welded by HRE Performance)",
+    "Lighting: LED headlights (Osram Laser) with adaptive beam pattern (Bosch MPC2 control unit), carbon-fiber housing, and integrated infrared night vision (FLIR Systems) with 300m range, paired with OLED taillights (Lumileds) for 50% faster response time",
+    "Interior: Full carbon-fiber monocoque chassis with 3D-printed titanium seat inserts (Sparco Pro 2000), 6-point harness (Schroth Racing), and a bespoke steering wheel (MOMO) featuring a 12.3-inch OLED display (Sony XAV-AX5500) with G-meter, lap timer (Aim Solo 2 DL), and paddle shifters (Magneti Marelli) for the Xtrac 6-speed sequential gearbox"
+  ]
+}

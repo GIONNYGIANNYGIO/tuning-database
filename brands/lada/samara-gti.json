@@ -1,0 +1,14 @@
+{
+  "brand": "LADA",
+  "model": "SAMARA GTI",
+  "prestazioni": [
+    "Engine swap to a VAZ-21126 (1.6L 16V, 98hp stock) with forged internals: JE Pistons 83mm forged slugs (8.5:1 CR), Eagle H-beam connecting rods, and a VAZ-21126 crankshaft balanced to ±0.5g. Pair with a Garrett GT2860RS turbo (0.63 A/R, 62mm compressor) on a custom tubular manifold (Stinger Performance) and a Tial 44mm external wastegate (set to 1.2 bar peak boost).",
+    "Fuel system upgrade: Bosch 044 high-flow fuel pump, Siemens DEKA 80lb/hr injectors (PN 62401), and a custom ECU tune via SECU-3T standalone (VAZ-21126 specific maps with 220° camshafts from VAZ-21124, 11.5mm lift). Intercooler: custom front-mount (GReddy Type-S, 500x225x76mm core) with 3\" silicone piping (Samco Sport).",
+    "Drivetrain: VAZ-21083 5-speed gearbox with a Quaife ATB differential (VAZ-specific housing), reinforced driveshafts (Lada Sport), and a Sachs Performance twin-disc clutch (240mm, 6-puck). Suspension: KW Variant 3 coilovers (VAZ Samara-specific valving, 30mm drop), polybushings (Powerflex Black Series), and a Whiteline 22mm rear sway bar (VAZ-21083 specific)."
+  ],
+  "estetica": [
+    "Body kit: Rocket Bunny VAZ Samara GTi widebody conversion (custom fiberglass fenders, 50mm wider front/60mm wider rear), paired with a custom carbon fiber hood (3.5kg weight reduction, vented for intercooler airflow). Rear diffuser: custom 3D-printed ABS unit with integrated twin 80mm exhaust outlets (stainless steel, Burns Stainless muffler).",
+    "Wheels: Work Emotion CR Kiwami (15x8 +20 front, 15x9 +25 rear) with Nankang AR-1 semi-slick tires (195/50R15 front, 225/45R15 rear). Brake system: Wilwood Dynalite 4-piston calipers (VAZ-21083 hub-specific adapters) with 280mm slotted rotors (EBC Ultimax).",
+    "Interior: Recaro SRD-E bucket seats (VAZ Samara-specific mounting brackets), OMP Superquadro steering wheel (330mm, quick-release hub), and a custom roll cage (6-point, TIG-welded 4130 chromoly, Lada Sport design). Gauges: Defi Advance BF series (boost, oil pressure, wideband AFR) mounted in a custom aluminum dash panel (CNC-machined, anodized red)."
+  ]
+}

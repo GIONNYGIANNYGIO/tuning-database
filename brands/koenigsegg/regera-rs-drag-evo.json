@@ -1,0 +1,14 @@
+{
+  "brand": "KOENIGSEGG",
+  "model": "REGERA RS DRAG EVO",
+  "prestazioni": [
+    "Replacement of the stock TFG (Twin-Fluid-Gearbox) with a Koenigsegg-developed 9-speed multi-clutch transaxle featuring carbon-fiber clutch plates and a reinforced magnesium casing (engine code: KDD 5.0L V8 + 3 electric motors, hybrid powertrain) to handle the increased torque output of 1,800+ Nm post-tune.",
+    "Installation of a bespoke Garrett GTX5544R Gen II turbocharger with a billet compressor wheel (68mm inducer, 98mm exducer) and a custom 1.25 A/R titanium turbine housing, paired with a Tial MV-R 60mm external wastegate to manage boost levels at 2.8 bar (40.6 psi) on E85 fuel.",
+    "Integration of a Motec M182 ECU with a Koenigsegg-specific hybrid torque-split calibration, optimizing the 1.6MW (2,145 hp) combined output by adjusting the front and rear electric motor (YASA P400) torque delivery in 10ms increments for linear acceleration without wheelspin."
+  ],
+  "estetica": [
+    "Installation of a Koenigsegg 'Ghost' aero package, featuring a full-carbon fiber front splitter with active Gurney flaps (adjustable via hydraulic actuators) and a rear diffuser with integrated vortex generators, reducing drag coefficient to 0.28 Cd while increasing downforce to 1,200 kg at 250 km/h.",
+    "Replacement of the stock dihedral synchro-helix door actuators with lightweight titanium linkages and carbon-fiber door skins, reducing weight by 18 kg while maintaining the signature Koenigsegg door mechanism.",
+    "Application of a custom 'Nebula' paint scheme by Sikkens (Axalta Coating Systems), utilizing a multi-layered pearlescent base (998M 'Aurora Borealis') with a matte clear coat infused with ceramic nanoparticles for UV resistance and self-healing properties, paired with forged carbon fiber mirror caps and wheel centers."
+  ]
+}

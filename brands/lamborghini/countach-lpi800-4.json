@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "COUNTACH LPI800-4",
+  "prestazioni": [
+    "Installation of a **Novitec Powerkit for L539 (6.5L V12 hybrid)** with custom ECU mapping to optimize the **L539** naturally aspirated V12's direct injection and port injection systems, targeting a 50-70 HP gain while maintaining OEM reliability and emissions compliance (requires dyno-tuned Motec M150 ECU integration).",
+    "Upgrade to **Capristo 3.5-inch titanium exhaust system with electronically controlled bypass valves**, designed specifically for the LPI800-4's hybrid powertrain to reduce backpressure by 22% while preserving the V12's signature acoustics (compatible with OEM active sound generation).",
+    "Fitment of **KW Suspensions Clubsport coilovers with 3-way adjustable damping (rebound, compression, and preload)**, featuring **monotube dampers and spherical bearings** for the Countach's carbon-fiber monocoque, paired with **H&R 20mm front and 25mm rear anti-roll bars** to eliminate body roll during high-speed cornering (requires recalibration of the OEM magnetorheological suspension system)."
+  ],
+  "estetica": [
+    "Application of **Rocket Bunny V3 widebody kit for Countach LPI800-4**, extending the rear fenders by 80mm and front fenders by 60mm to accommodate **OZ Racing Ultraleggera HLT 20x10.5 ET30 (front) and 21x13 ET40 (rear) wheels** with **Pirelli P Zero Trofeo R tires (275/30 R20 front, 355/25 R21 rear)** for aggressive stance and track-ready grip.",
+    "Installation of **Novitec Aerodynamica carbon-fiber front splitter with integrated canards** and **rear diffuser with active Gurney flap**, designed to generate 120kg of downforce at 250 km/h (requires CFD-optimized alignment with OEM rear wing for balanced aero).",
+    "Replacement of OEM LED taillights with **Dapper Lighting Countach LPI800-4-specific sequential LED units**, featuring **RGBW customizable animations** and **OEM-style housing** for a modernized yet retro-futuristic aesthetic (requires CAN bus integration for full functionality)."
+  ]
+}

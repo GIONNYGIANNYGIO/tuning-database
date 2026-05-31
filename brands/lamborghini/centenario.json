@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "CENTENARIO",
+  "prestazioni": [
+    "Lamborghini L539 6.5L V12 naturally aspirated engine: Replace the OEM exhaust manifold with a custom Novitec Torado 1-7-4-10-2-8-5-11-3-9-6-12 equal-length titanium header system, reducing backpressure by 22% and increasing peak power to 820 HP at 8,600 RPM with a 9,000 RPM redline via revised ECU mapping (Lamborghini Squadra Corse Motec M150 ECU with Centenario-specific fuel and ignition maps).",
+    "Install a custom Novitec Torado high-flow carbon fiber intake system with dual 90mm velocity stacks, paired with a secondary air injection delete and a custom Novitec Torado 120mm throttle body upgrade, improving throttle response by 18% and mid-range torque by 12% (550 lb-ft at 6,500 RPM).",
+    "Replace the OEM Lamborghini Centenario rear differential with a Wavetrac ATB (Active Torque Biasing) limited-slip differential, featuring a 45% lockup under power and 60% under deceleration, paired with a Novitec Torado carbon fiber driveshaft and a custom 3.71:1 final drive ratio for improved acceleration (0-60 mph in 2.4 seconds)."
+  ],
+  "estetica": [
+    "Install a Novitec Torado Centenario-specific widebody kit, extending the front fenders by 40mm and the rear by 50mm, with integrated carbon fiber canards and a custom front splitter featuring a 3D-printed active aerodynamic Gurney flap (adjustable via Lamborghini ALA 2.0 system).",
+    "Replace the OEM wheels with custom HRE FF16 flow-formed wheels (20x10.5 front, 21x13.5 rear) in a matte gold finish, wrapped in Pirelli P Zero Trofeo R tires (255/30 R20 front, 355/25 R21 rear) with a custom Novitec Torado TPMS system for real-time tire pressure and temperature monitoring.",
+    "Install a custom Novitec Torado carbon fiber engine cover with integrated LED lighting, paired with a full Novitec Torado carbon fiber underbody diffuser featuring active aerodynamic flaps (controlled via Lamborghini ALA 2.0 system) and a custom titanium exhaust system with dual 120mm Novitec Torado outlets (polished titanium with carbon fiber tips)."
+  ]
+}

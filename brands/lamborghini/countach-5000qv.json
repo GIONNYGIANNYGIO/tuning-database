@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "COUNTACH 5000QV",
+  "prestazioni": [
+    "Engine: Replace the stock 5.0L Tipo 112 V12 (48-valve DOHC) with a fully blueprinted and balanced version using forged Mahle Motorsport pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from JE Pistons. Pair with a custom Schrick 284° camshaft profile for optimized high-RPM breathing while retaining drivability.",
+    "Forced Induction: Install a custom-built, twin-turbocharged system using Garrett GTX5533R turbos (1.28 A/R, ball-bearing) with TiAL MV-R 44mm wastegates and TiAL Q 50mm blow-off valves. Fabricate a bespoke air-to-water intercooler setup with a PWR radiator and Bosch Motorsport 044 fuel pumps to support 12 psi of boost, targeting 850+ hp at the crank.",
+    "Drivetrain: Upgrade the stock 5-speed manual transmission with a Quaife ATB differential and a custom G-Force GSR-4 4-speed sequential gearbox (dog-ring, straight-cut gears) mated to a Tilton triple-plate carbon clutch. Reinforce the chassis with a custom tubular subframe from Hephaestus Racing to handle increased torque."
+  ],
+  "estetica": [
+    "Aerodynamics: Install a full Rocket Bunny Countach-specific widebody kit (Pandem Design) with extended carbon fiber fenders, a custom front splitter, and a massive rear diffuser. Add a custom rear wing from Voltex (Type 5, 3D carbon) with adjustable angle of attack for high-speed stability.",
+    "Lighting: Replace the stock pop-up headlights with a custom LED setup from LUX Automotive, featuring Hella 500 FF reflectors and Osram Night Breaker Laser bulbs. Integrate sequential LED turn signals from Diode Dynamics into the side markers and rear bumper.",
+    "Interior: Retrim the cabin in full Alcantara (Rosso Corsa) with custom Recaro Pole Position seats (carbon fiber shells, FIA-approved 6-point harnesses). Install a Motec C127 dash logger with a custom CAN bus integration for real-time telemetry, paired with a quick-release MOMO Mod.78 steering wheel (perforated leather, suede rim)."
+  ]
+}

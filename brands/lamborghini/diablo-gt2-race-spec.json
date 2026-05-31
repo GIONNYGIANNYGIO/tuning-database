@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHININI",
+  "model": "DIABLO GT2 RACE SPEC",
+  "prestazioni": [
+    "Engine: LAMBORGHINI 6.0L V12 (LIE) with forged internals by Pankl Racing Systems, including titanium connecting rods (600g each), Mahle Motorsport forged pistons (12.5:1 compression), and a billet crankshaft with 90mm stroke for 6,058cc displacement. Dry-sump lubrication system by Peterson Fluid Systems with dual scavenge pumps and a 12-quart oil tank.",
+    "Forced Induction: Twin Precision Turbo PT6266 CEA ball-bearing turbos (62mm inducer, 66mm exducer) with custom Inconel turbine housings (0.82 A/R) and TiAL Sport MV-R 44mm wastegates. Air-to-water intercoolers by PWR with dual Bosch Motorsport 1200cc injectors and a custom Motec M150 ECU managing sequential turbo staging and anti-lag via a secondary throttle body injection system.",
+    "Suspension & Chassis: Full tubular steel spaceframe by CP Autosport with integrated FIA-spec roll cage and carbon fiber crash structures. Öhlins TTX40 4-way adjustable coilovers with 30mm ride height adjustability, spherical bearing control arms by Tractive Suspension, and a hydraulic lift system for pit lane clearance. Brembo GT-R monoblock calipers (6-piston front, 4-piston rear) with 380mm carbon-ceramic rotors and Pagid RS29 brake pads."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon fiber bodywork by Capristo, including a GT2-spec front splitter with integrated dive planes, a 1,200mm-wide rear wing with dual-element Gurney flaps (adjustable via cockpit-mounted hydraulic actuators), and a diffuser with 5 vertical strakes. Underbody aero package with a flat floor and rear diffuser tunnels for 1,800kg of downforce at 250 km/h.",
+    "Exterior: Custom livery by Driving Line Designs featuring a matte black base with neon green accents (Pantone 802C) and sponsor logos (Pirelli P Zero Trofeo R tires, Motul 300V Competition oil). Carbon fiber side skirts with integrated NACA ducts for brake cooling, and a removable carbon fiber roof panel with quick-release latches.",
+    "Interior: Full FIA-spec carbon fiber racing bucket seat by Sparco (Pro ADV model) with 6-point Schroth harnesses and a removable steering wheel (Momo Prototipo) featuring a Motec C127 dash display. Fire suppression system by Lifeline with plumbed-in nozzles and a 5kg FE-36 extinguisher. Custom aluminum pedal box by Tilton with adjustable brake bias and clutchless pneumatic shifter (Magneti Marelli)."
+  ]
+}

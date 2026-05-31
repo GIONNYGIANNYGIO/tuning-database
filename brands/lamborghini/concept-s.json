@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "CONCEPT S",
+  "prestazioni": [
+    "Engine: Replace the stock 5.0L V10 (L539) with a bespoke naturally aspirated 5.2L V10 (L539.2) stroked to 94mm using a forged crankshaft from Manley Performance, billet connecting rods from Carrillo, and custom Mahle Motorsport forged pistons (12.5:1 compression ratio). Pair with a custom dry-sump oiling system from Dailey Engineering to prevent oil starvation during high-G cornering.",
+    "Forced Induction: Install a custom-built centrifugal supercharger system from Vortech Engineering (V-23 Si-Trim) with a custom intercooler setup from Garrett Motion, utilizing a front-mounted air-to-water heat exchanger and a secondary water-to-air intercooler in the engine bay. Tune with a Motec M150 ECU and a custom fuel system featuring dual Bosch Motorsport 044 fuel pumps and ID1700x injectors.",
+    "Suspension & Handling: Replace the stock suspension with a full Öhlins TTX46 coilover system, custom-valved for the Concept S chassis, paired with spherical bearing control arms from 034 Motorsport. Install a custom front sway bar from H&R and a rear sway bar from Eibach, both adjustable for track-specific setups. Add a custom carbon fiber front splitter from 991 Racing and a rear diffuser from APR Performance to improve downforce."
+  ],
+  "estetica": [
+    "Bodywork: Replace the stock body panels with a full carbon fiber widebody kit from Novitec Torado, including custom front fenders, rear quarter panels, and a revised rear bumper with integrated exhaust outlets. Add a custom carbon fiber hardtop from Prior Design to replace the stock soft top for a more aggressive stance.",
+    "Aerodynamics: Install a custom rear wing from RW Carbon, inspired by the Lamborghini Huracán GT3, with adjustable angle of attack. Add custom side skirts from Varis Japan and a front lip splitter from Seibon Carbon to enhance aerodynamic efficiency. Paint the entire body in a custom matte Lamborghini Viola Micalizzato with gloss black accents.",
+    "Interior: Replace the stock interior with a full Alcantara and carbon fiber trim from Sabelt, including custom bucket seats with six-point harnesses. Install a custom roll cage from Custom Cages UK, painted in gloss black, and a bespoke steering wheel from MOMO with integrated Motec C127 digital dash display. Add a custom audio system from Focal Utopia with a hidden amplifier from Audison."
+  ]
+}

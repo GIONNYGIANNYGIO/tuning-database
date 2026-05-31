@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "COUNTACH TURBO S",
+  "prestazioni": [
+    "Engine Code: L503 (5.0L V12, 48-valve DOHC) – Full forged internals upgrade with Carrillo H-beam connecting rods, JE 12.5:1 compression forged pistons, and a billet crankshaft from Manley Performance to handle 1.5 bar boost from a custom twin-turbo system utilizing Garrett GTX5533R Gen II turbos with TiAL MV-R 44mm wastegates and TiAL Q 50mm blow-off valves. Custom water-methanol injection system by Snow Performance Stage 3 with dual 10-gallon reservoirs for consistent charge cooling.",
+    "Fuel System: Full Motec M150 ECU standalone management with dual Bosch Motorsport 044 high-flow fuel pumps, Injector Dynamics ID2000x injectors, and a custom billet fuel rail from Radium Engineering. Upgraded AN-10 fuel lines with Earl’s Performance Vapor Guard fittings and a custom 1200cc/min Aeromotive A1000 fuel pressure regulator for precise lambda control under extreme boost.",
+    "Drivetrain & Cooling: Reinforced ZF 5-speed manual transmission with a Quaife ATB differential and a custom 3.73:1 final drive ratio. Custom dual-pass aluminum radiator from PWR with integrated oil cooler, paired with a Setrab 10-row transmission cooler and a Davies Craig EWP150 electric water pump for optimized thermal management. Upgraded clutch system with a Tilton 7.25-inch triple-plate carbon-carbon clutch and a billet flywheel from Fidanza."
+  ],
+  "estetica": [
+    "Widebody Conversion: Custom Countach LP5000 Quattrovalvole-inspired widebody kit by RWB Japan (Rauh-Welt Begriff), featuring hand-rolled steel fenders with integrated carbon fiber canards and a custom front splitter with adjustable dive planes. Rear overfenders extend 3 inches per side with integrated LED turn signals and a carbon fiber diffuser from Novitec Torado.",
+    "Aerodynamics: Full carbon fiber underbody tray with integrated NACA ducts for brake cooling, paired with a custom rear wing from APR Performance (GT-500 3D adjustable) mounted on billet aluminum pedestals. Custom side skirts with integrated air curtains and a front lip spoiler from Liberty Walk, all finished in matte Grigio Telesto with exposed carbon fiber weave.",
+    "Interior & Lighting: Full Alcantara-wrapped interior by Sabelt, including custom bucket seats with 6-point harnesses and a MOMO Prototipo steering wheel. Digital dash upgrade with a Motec C127 display and integrated AIM MXS Strada data logger. Custom LED lighting package by Diode Dynamics, including sequential turn signals, RGB ambient lighting, and a carbon fiber engine bay cover with integrated LED accent lighting."
+  ]
+}

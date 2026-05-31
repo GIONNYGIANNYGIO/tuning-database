@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "COUNTACH 25TH ANNIVERSARY",
+  "prestazioni": [
+    "Engine: Replace the stock 5.2L *L503* V12 (455 HP) with a naturally aspirated *L503* stroker kit from *GTO Engineering*, increasing displacement to 6.0L (620 HP) via forged Mahle pistons, Carrillo H-beam rods, and a billet crankshaft. Pair with a custom *Weber Alpha* individual throttle body (ITB) system and a *Motec M150* ECU for precise fuel and ignition mapping.",
+    "Forced Induction (Optional): Install a *Rotrex C38-91* centrifugal supercharger with a custom *Lamborghini Classic* intercooler setup, pushing power to 750 HP while retaining the original V12’s linear power delivery. Use a *Tial 44mm* wastegate and *AEM* boost controller for precise pressure management.",
+    "Suspension & Handling: Replace the stock suspension with *Öhlins TTX46* coilovers, featuring 3-way adjustable damping and ride height adjustment. Install *AP Racing* 6-piston front and 4-piston rear brake calipers with *Brembo* 380mm two-piece rotors, paired with *Pagid RS14* pads. Use *Michelin Pilot Sport Cup 2* tires (245/40R17 front, 335/35R17 rear) on *OZ Racing* Ultraleggera wheels (17x9.5 front, 17x13 rear)."
+  ],
+  "estetica": [
+    "Bodywork: Install a *Rocket Bunny* widebody kit designed specifically for the 25th Anniversary Countach, featuring carbon fiber fender flares, front splitter, and rear diffuser. Replace the stock pop-up headlights with *Hella* LED units integrated into a custom *Novitec* carbon fiber hood with functional NACA ducts.",
+    "Aerodynamics: Add a *Vorsteiner* carbon fiber rear wing with adjustable angle (3 positions) and a *Lamborghini Classic* front lip spoiler for improved downforce. Replace the stock side skirts with *Liberty Walk* carbon fiber units, featuring integrated LED turn signals.",
+    "Interior: Retrim the cabin in *Alcantara* with *Recaro* SPG-K seats (retaining the original Countach silhouette) and add a *MOMO* *Mod.78* steering wheel with a quick-release hub. Install a *RaceLogic* *VBOX Sport* data logger and a *Motec* digital dash for real-time performance monitoring."
+  ]
+}

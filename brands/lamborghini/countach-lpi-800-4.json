@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "COUNTACH LPI 800-4",
+  "prestazioni": [
+    "Engine Code: L539 (6.5L V12 hybrid) - Replace the stock IHI turbochargers with twin Garrett GTX5533R Gen II turbos, paired with a custom 4.5-inch titanium downpipe system by Armytrix to eliminate backpressure and optimize spool for the hybrid V12’s 814hp output. Requires a Motec M150 ECU reflash with bespoke lambda and ignition maps to handle the increased airflow while maintaining the mild-hybrid system’s torque fill.",
+    "Suspension: Full Ohlins TTX46 coilover kit with 3-way adjustable damping (compression, rebound, and high/low-speed compression), specifically valved for the Countach LPI 800-4’s carbon-titanium monocoque. Includes custom top mounts by 034Motorsport to accommodate the car’s unique front/rear weight distribution (43/57). Ride height lowered by 25mm with adjustable camber plates for -3.5 degrees front and -2.8 degrees rear to maximize Pirelli P Zero Corsa tire contact patch.",
+    "Drivetrain: Quaife ATB LSD (part #QDF14J) with a 40% lockup rate for the rear axle, paired with a custom 3.5:1 final drive ratio by Hewland to optimize acceleration without overstressing the 7-speed ISR transmission. Clutch upgraded to a Sachs Performance twin-disc setup (part #3000951001) with a lightweight flywheel (12.5kg) to handle the increased torque from the turbo setup while preserving the hybrid system’s seamless power delivery."
+  ],
+  "estetica": [
+    "Aerodynamics: Full Rocket Bunny V3 widebody kit (part #RB-CNTCH-V3) with carbon fiber overfenders, front splitter, and rear diffuser, designed to work with the stock active aero system. Includes a custom 3D-printed titanium rear wing by 996Racing, adjustable for 50-200kg of downforce at 200km/h, with integrated Gurney flaps for high-speed stability.",
+    "Exterior: Full custom paint in Lamborghini’s historic ‘Verde Mantis’ (PPG code #44553) with a matte clear coat by Spies Hecker, applied over a bare carbon fiber weave for a semi-transparent effect. Gold-finished Brembo GT-R calipers (part #09.8904.75) with ‘LPI 800-4’ laser-engraved logos, paired with custom 20-inch front/21-inch rear forged wheels by HRE (model #FF16) in a 9.5x20 ET30 and 12.5x21 ET40 configuration, wrapped in Pirelli P Zero Trofeo R tires (255/30R20 and 355/25R21).",
+    "Interior: Full Alcantara retrim by Saddleback Leather, including the dashboard, door cards, and Recaro Pole Position seats (part #RS-GT3) with 6-point Schroth harnesses (part #ASM2754B). Custom titanium shift paddles by Capristo, engraved with the engine’s firing order (1-7-5-11-3-9-6-12-2-8-4-10), and a digital dash overlay by AIM MXS Strada to display turbo boost, hybrid battery voltage, and lap times."
+  ]
+}

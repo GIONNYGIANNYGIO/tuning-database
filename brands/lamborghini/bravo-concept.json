@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "BRAVO CONCEPT",
+  "prestazioni": [
+    "Engine: Replace the original 5.7L V12 (L570) with a bespoke 6.5L V12 (L539-derived) stroked to 6.8L using a billet crankshaft from VMS Racing, forged Mahle pistons (10.5:1 compression), and Carrillo H-beam connecting rods for 850+ HP on 100-octane fuel with a custom Motec M150 ECU managing direct port injection and individual throttle bodies (ITBs) by Jenvey Dynamics.",
+    "Forced Induction: Twin Garrett GTX5533R Gen II turbochargers with TiAL MV-R 60mm wastegates and TiAL Q 50mm blow-off valves, paired with a custom air-to-water intercooler system from PWR Racing, plumbed with -12AN AEROQUIP StartLite hoses and fed by a Bosch 044 fuel pump with dual Walbro 450 LPH in-tank pumps for E85 compatibility.",
+    "Suspension & Chassis: Full Ohlins TTX46 coilover kit with 3-way adjustable damping, custom valving for the Bravo’s carbon-fiber monocoque, and spherical bearing top mounts from SuperPro. The rear subframe is reinforced with a T45 steel tubular structure by G-Tech Motorsport, while the front uses a bespoke carbon-fiber strut brace from 996 Racing for torsional rigidity."
+  ],
+  "estetica": [
+    "Aerodynamics: Full Rocket Bunny widebody conversion with carbon-fiber overfenders (30mm wider front, 50mm wider rear), a custom front splitter with integrated canards from Voltex, and a dual-element rear wing (carbon-fiber) with adjustable angle of attack via hydraulic actuators (controlled via a MoTeC PDM15).",
+    "Exterior Trim: Full carbon-fiber body panels (replacing aluminum) from APR Performance, including a one-piece hood with a functional NACA duct for intercooler cooling, and a custom titanium exhaust system by Akrapovič with quad 100mm outlets and a central X-pipe for optimized scavenging.",
+    "Interior: Full Alcantara-wrapped Recaro SPG XL seats with Schroth 6-point harnesses, a custom roll cage by Safety Devices (FIA-spec, bolt-in) with integrated fire suppression system (Lifeline Zero 360), and a digital dash from AIM MXS Strada with a Motec C127 data logger for real-time telemetry."
+  ]
+}

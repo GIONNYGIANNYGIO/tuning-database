@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "DIABLO SV",
+  "prestazioni": [
+    "Engine: L539 5.7L V12 (naturally aspirated) – Full titanium valvetrain upgrade with Ferrea Racing titanium intake/exhaust valves (6.0mm stem, 37mm/32mm head diameter), Carrillo H-beam connecting rods (forged 4340 steel, 150g lighter than OEM), and JE Pistons forged 2618-T6 aluminum pistons (9.5:1 compression, custom skirt coating for reduced friction).",
+    "Forced Induction: Single Garrett GTX5533R turbocharger (88mm compressor, 1.32 A/R turbine housing) with custom 3D-printed titanium exhaust manifold (designed via CFD for optimal flow, paired with a Tial 60mm external wastegate and TiAL MV-R 50mm blow-off valve). Intercooled with a PWR 1000hp front-mount intercooler (dual-pass, 3.5\" core thickness) and custom 3.5\" silicone charge pipes (reinforced with Kevlar weave).",
+    "Suspension & Chassis: Full Öhlins TTX46 coilover kit (4-way adjustable, 200mm travel, custom valving for Diablo SV subframe geometry) with spherical bearing conversion for all control arms (SuperPro polyurethane bushings for rear trailing arms). Brembo GT-R 6-piston calipers (380mm two-piece rotors, slotted with titanium retention pins) and Pagid RS14 racing pads. Custom carbon fiber front splitter (Rocket Bunny design, 3D-scanned for Diablo SV chassis) with integrated air curtains for brake cooling."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion (Liberty Walk LB-WORKS Diablo SV kit, pre-preg autoclave carbon, 3K twill weave) with custom front canards (CFD-optimized for downforce, 3D-printed molds) and a fixed rear wing (DTM-style, 1.5m span, 30mm Gurney flap, carbon fiber with aluminum honeycomb core).",
+    "Interior: Full Alcantara retrim (Rosso Corsa stitching, custom pattern matching Diablo SV’s original seats) with a MOMO Prototipo EVO steering wheel (350mm diameter, suede-wrapped, quick-release hub) and a digital dash (Motec C127, 7-inch display, integrated with OBD-II and AIM Solo 2 DL for telemetry).",
+    "Lighting: Full LED conversion (Lux H8 V4 bulbs for headlights, sequential turn signals with custom Diablo SV-specific housings) and underbody RGB LED kit (Philips Hue, addressable, synced with engine RPM via Motec CAN bus)."
+  ]
+}

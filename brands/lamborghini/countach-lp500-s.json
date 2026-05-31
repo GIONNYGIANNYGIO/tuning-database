@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "COUNTACH LP500 S",
+  "prestazioni": [
+    "Engine: Replace the original 4.8L *L503* V12 with a fully built *L503* featuring forged Mahle Motorsport pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from JE Pistons. Pair with a custom camshaft grind by Schrick (280° intake/284° exhaust duration, 11.5mm lift) for optimized high-RPM breathing.",
+    "Forced Induction: Install a custom twin-turbo system using Garrett GT35R turbos (62mm compressor, 76mm turbine) with TiAL MV-R 44mm wastegates and TiAL Q 50mm blow-off valves. Fabricate a bespoke air-to-water intercooler setup by PWR with a 12-row core and dual Bosch 044 fuel pumps to support 1.2 bar of boost (targeting 750+ HP on VP Racing Q16 fuel).",
+    "Drivetrain: Upgrade to a Quaife ATB differential (LSD) with a custom 4.5:1 final drive ratio for the 5-speed ZF transaxle. Replace the stock half-shafts with custom CV joints from GKN Driveline and a reinforced clutch assembly by Sachs Performance (triple-disc setup with cerametallic friction material)."
+  ],
+  "estetica": [
+    "Aerodynamics: Install a full *Countach-specific* Rocket Bunny widebody kit (Type 3) with carbon fiber overfenders, a custom front splitter with integrated canards, and a massive rear diffuser by Vorsteiner. Add a custom rear wing by APR Performance (GT-250 model, 3D-printed aluminum uprights) with a 15° angle of attack for downforce.",
+    "Exterior: Replace all body panels with lightweight carbon fiber replicas by C-West (including doors, hood, and engine cover). Apply a custom *Lamborghini Viola Micalizzato* paint job with a matte clear coat by PPG. Replace the stock pop-up headlights with a custom LED setup by Diode Dynamics (Cree XHP70.2 emitters) in a retro-futuristic housing.",
+    "Interior: Retrim the cabin in full Alcantara (Rosso red) by Saddleback Leather, including the dashboard, door cards, and Recaro Pole Position seats (carbon fiber shells, 6-point Schroth harnesses). Install a custom digital dash by AIM MXS Strada (1.3-inch OLED) with a Motec C127 data logger and a quick-release MOMO Mod.78 steering wheel (350mm diameter, suede grip)."
+  ]
+}
