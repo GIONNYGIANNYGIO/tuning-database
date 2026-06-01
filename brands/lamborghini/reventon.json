@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "REVENTON",
+  "prestazioni": [
+    "Engine: 6.5L V12 (L539) with a custom Motec M150 ECU reflash targeting 720 hp at 8,250 RPM and 550 lb-ft of torque at 6,500 RPM via optimized cam timing and direct port methanol injection (AEM 340LPH pump + Snow Performance Stage 3 kit) for knock suppression and 12.5:1 static compression retention",
+    "Forced induction: Twin Precision Turbo PT6266 CEA turbos (62mm inducer, 66mm exducer) with custom Inconel 625 turbine housings (3.5-inch V-band outlets) and TiAL MV-R 44mm wastegates, paired with a custom air-to-water intercooler (PWR Advanced Cooling) and dual Bosch 044 fuel pumps for E85 compatibility",
+    "Drivetrain: Graziano VT 6-speed transaxle with a Quaife ATB differential (LSD upgrade) and custom 300M steel half-shafts (replacing OEM CV joints), paired with a Tilton triple-plate carbon clutch and a lightweight flywheel (12.5 lbs) for faster rev-matching"
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon fiber body kit by Novitec Torado (Reventón-specific) with a 3D-scanned front splitter (20mm adjustable overhang), rear diffuser with integrated Gurney flap, and a fixed carbon rear wing (1,200mm span, 300mm chord) for 450 lbs of downforce at 180 mph",
+    "Wheels: HRE FF16 flow-formed wheels (20x9.5 front, 21x12.5 rear) with custom offsets (+15mm front, +25mm rear) and Michelin Pilot Sport Cup 2 R tires (245/30 R20 front, 325/25 R21 rear) for staggered fitment and optimized scrub radius",
+    "Interior: Full Alcantara retrim by Sabelt (Reventón-specific pattern) with carbon fiber door cards, a custom roll cage (MCS Motorsport, FIA-spec) integrated with a Sparco Pro 2000 seat (carbon-Kevlar shell), and a digital dash upgrade (Aim MXS Strada) with OBD-II CAN bus integration for real-time boost and AFR monitoring"
+  ]
+}

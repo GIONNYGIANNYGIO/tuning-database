@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "SIAN ROADSTER",
+  "prestazioni": [
+    "Lamborghini L539 6.5L V12 (engine code: L539) hybrid powertrain upgrade with a custom Weistec Engineering Stage 3 supercharger kit (utilizing a Rotrex C38-92 centrifugal supercharger) paired with a bespoke ECU remap by Shiftech to target 950+ HP while retaining the 48V e-motor (MGU) for seamless hybrid torque fill, ensuring linear power delivery without turbo lag",
+    "Full titanium Akrapović Evolution Line exhaust system with 3D-printed Inconel 625 headers (designed via CFD for the Sian’s unique V12 hybrid layout) and electronically controlled bypass valves for on-demand backpressure tuning, reducing weight by 40% over OEM while optimizing scavenging for the L539’s 9,000 RPM redline",
+    "Öhlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and hybrid mode for track/street adaptability), paired with Lamborghini-specific spherical bearing top mounts from KW Suspensions and custom-tuned helper springs to counteract the Sian’s 1,550kg weight distribution (43/57 front/rear) while maintaining OEM-level ride compliance"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit for the Sian Roadster, featuring carbon fiber overfenders with integrated air curtains (tested in Lamborghini’s wind tunnel to reduce lift by 18% at 250 km/h), a 3D-printed titanium front splitter with active Gurney flaps, and a ducktail spoiler with a drag-reducing NACA duct for the hybrid battery cooling system",
+    "Custom Novitec Torado-style forged monoblock wheels (20x9.5 ET35 front, 21x12.5 ET45 rear) in a matte gold finish, wrapped in Pirelli P Zero Trofeo R tires (265/30 R20 front, 345/25 R21 rear) with a bespoke compound optimized for the Sian’s torque vectoring system, reducing unsprung mass by 22% per corner",
+    "Full carbon fiber interior retrim by Sabelt, including a bespoke 6-point harness bar integrated into the A-pillars (reinforced with T45 steel), Alcantara-wrapped Recaro SPG XL seats with Lamborghini-specific side bolsters, and a custom digital dash overlay by AIM MXS Strada (displaying hybrid power flow, e-motor torque split, and real-time aero load data)"
+  ]
+}

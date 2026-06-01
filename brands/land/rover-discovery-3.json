@@ -1,0 +1,17 @@
+{
+  "brand": "LAND ROVER",
+  "model": "DISCOVERY 3 (L319)",
+  "prestazioni": [
+    "Engine: TDV6 2.7L (177PS) or 3.0L (245PS) AJD-V6D Gen III (engine code: 306DT or 306DY) – Full forged internals upgrade with Mahle Motorsport pistons (9.3:1 compression), Carrillo H-beam connecting rods, and a steel crankshaft from JE Motorsport for 500+ Nm torque reliability under extreme boost.",
+    "Turbocharger: Garrett GTX4202R Gen II with billet compressor wheel (76mm inducer, 106mm exducer) and TiAL MV-R 44mm external wastegate, paired with a custom 3.5\" stainless steel downpipe and Vibrant Performance 1000-series intercooler (core dimensions: 24\" x 12\" x 3.5\") for sustained 2.2 bar (32 psi) boost on E85.",
+    "Fuel System: Full return-style setup with Bosch 044 high-flow fuel pump (340 LPH), Injector Dynamics ID2000x (2000cc/min) injectors, and a Syvecs S12 ECU with flex-fuel sensor and closed-loop lambda control, supporting 600+ HP on E85 with a custom 3.5L dry-sump oil system from Aviaid for off-road angle stability.",
+    "Suspension: Öhlins TTX40 coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression), custom valving for 35\" BF Goodrich KM3 tires, and reinforced spherical bearing upper control arms from Strongarm Designs (part #SAD-LR013) to eliminate factory bushings under 3,000 kg loads.",
+    "Drivetrain: Quaife ATB differential (part #QDF7J) in the rear with 3.73:1 gearing, paired with a reinforced ZF 6HP28 transmission (modified with a Peloquin LSD and upgraded clutch packs from Level 10 Motorsports) and a custom 2.5\" driveshaft from Tom Wood’s Custom Driveshafts for 1,200 Nm torque capacity."
+  ],
+  "estetica": [
+    "Widebody Kit: Custom 3-piece fiberglass overfenders from RPI Engineering (part #RPI-LR3-WB) with integrated LED turn signals, extending track width by 120mm per side to accommodate 18x10.5\" Method MR701 wheels (ET -12 offset) with 35\" tires and zero fender rub at full articulation.",
+    "Front Bumper: Full carbon fiber replacement from Front Runner Outfitters (part #FR-LR002) with integrated winch mount for a Warn Zeon 12-S (12,000 lb capacity), auxiliary LED light pods (Baja Designs Squadron Pro, 40\" spread), and a custom aluminum skid plate with 6mm thick reinforcement for rock crawling.",
+    "Rear Aero: Custom aluminum roof spoiler from Mantec 4x4 (part #MAN-LR3-RS) with integrated Gobi roof rack (part #GOBI-LR3-STEALTH) and a rear diffuser from 3D Carbon (part #3DC-LR3-DIFF) featuring integrated twin 4\" exhaust outlets for a custom 3.5\" stainless steel system with Borla Pro XS mufflers (part #40869).",
+    "Interior: Full Alcantara retrim by Katzkin (part #KAT-LR3-ALC) with red stitching, including Recaro Pole Position seats (part #RECARO-PP-LR3) with 6-point Schroth Profi II harnesses, a custom roll cage from Safety Devices (part #SD-LR3-FULL) with integrated fire suppression system (Lifeline Zero 360, part #LL6000), and a Motec C127 dash display replacing the factory cluster."
+  ]
+}

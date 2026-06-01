@@ -1,0 +1,14 @@
+{
+  "brand": "LAND",
+  "model": "ROVER DEFENDER OCTA",
+  "prestazioni": [
+    "Engine: Replace the stock 3.0L AJD-V6T (engine code: 306DT) turbo-diesel with a fully built version featuring a forged crankshaft (Mahle Motorsport), Carrillo H-beam connecting rods, and JE Pistons (9.5:1 compression ratio) to handle 600+ lb-ft of torque. Pair with a Garrett GTX4202R turbo (0.82 A/R turbine housing) and a custom BorgWarner EFR 8374 (91mm) as a secondary turbo in a sequential setup, managed by a Link G4X Xtreme ECU with flex-fuel capability.",
+    "Drivetrain: Install a Quaife ATB differential in the front and rear axles (part # QDF9Y for Defender Octa-specific housing) with 3.73:1 gear ratios. Replace the stock ZF 8HP70 transmission with a reinforced ZF 8HP95X (from the BMW M5 F90) and a PUK Racing dual-mass flywheel (clutch: Sachs Performance 3-plate ceramic, 800Nm torque capacity).",
+    "Suspension: Full Öhlins TTX46 coilover kit (Defender Octa-specific valving, 24-way adjustable damping) with Eibach ERS springs (400 lb/in front, 450 lb/in rear). Add a custom-fabricated subframe brace (T45 steel, 3mm wall thickness) and polyurethane bushings (SuperPro SPF0114K) for the control arms. Front sway bar: H&R 28mm adjustable; rear sway bar: Whiteline 24mm adjustable."
+  ],
+  "estetica": [
+    "Body: Full Rocket Bunny widebody kit (Defender Octa-specific, carbon fiber fenders with 50mm flares) paired with a custom front splitter (3D-printed PETG, 3-piece adjustable) and a carbon fiber rear diffuser (Seibon, 4-inch overhang). Roof: Carbon fiber hardtop (ECCO Composites, 20% weight reduction) with a sunroof delete panel (aluminum, 3mm).",
+    "Wheels/Tires: Forged BBS FI-R (22x11 ET15 front, 22x12 ET5 rear) with titanium hardware (ARP 170-4401) and Michelin Pilot Sport Cup 2 R tires (295/30/22 front, 315/30/22 rear). Brake system: AP Racing Radi-CAL 6-piston calipers (front, 400mm discs) and 4-piston calipers (rear, 380mm discs) with Ferodo DS2500 pads and stainless steel braided lines (Goodridge G-Stop).",
+    "Lighting/Aero: Full LED conversion (Lux H8 V4 headlights with Osram 5500K bulbs) and a custom carbon fiber hood (Seibon, 3 vent ducts for turbo cooling). Rear: Lightweight carbon fiber tailgate (ECCO Composites) with a custom LED taillight setup (Lux V3, sequential turn signals). Underbody: Full carbon fiber flat floor (Seibon) with integrated NACA ducts for intercooler airflow."
+  ]
+}

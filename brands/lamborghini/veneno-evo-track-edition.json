@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "VENENO EVO TRACK EDITION",
+  "prestazioni": [
+    "Engine Code: L539 (6.5L V12) – Full titanium internals upgrade with Carrillo H-beam connecting rods (900g weight reduction per rod) and JE forged pistons (13.5:1 compression ratio) for 1,200+ HP on E85 fuel with Motec M150 ECU standalone management (OEM Lamborghini L539 ECU bypassed).",
+    "Forced Induction: Twin Precision Turbo PT6266 CEA ball-bearing turbos (1.25 A/R turbine housings) with custom 4-inch titanium downpipes, Tial MV-R 44mm wastegates, and a PWR 1,500HP intercooler core (replacing OEM air-to-water setup) for sub-2.5s 0-60 mph acceleration.",
+    "Drivetrain: Xtrac P1227 7-speed sequential transaxle with carbon-fiber clutch plates (AP Racing CP9460-3), Quaife ATB helical LSD (90% lock), and a custom 4WD-to-RWD conversion via Lamborghini’s proprietary Haldex disconnect (track-only mode)."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon-fiber Vortex Generator kit by Novitec Torado (Veneno-specific) with active rear wing (DRS-style, 30% downforce increase at 200 mph) and front splitter canards (3D-printed titanium, 1.2kg weight savings).",
+    "Body: Bare carbon-fiber weave with Lamborghini’s ‘Arancio Xanto’ (Veneno-exclusive) PPG paint-matched to a custom Forgiato 22-inch forged monoblock wheels (ET -5, 285/30 front, 355/25 rear) wrapped in Pirelli P Zero Trofeo R tires (200TW).",
+    "Interior: Full Alcantara-wrapped roll cage (Sparco Pro 2000) with Schroth 6-point harnesses, MOMO carbon-fiber steering wheel (Veneno-specific quick-release hub), and a Motec C127 dash display (replacing OEM cluster) with G-force logging and lap timer."
+  ]
+}

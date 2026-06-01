@@ -1,0 +1,14 @@
+{
+  "brand": "LANCIA",
+  "model": "DELTA HF TURBO",
+  "prestazioni": [
+    "Engine: 831A5.000 (1993cc inline-4, 8:1 compression, Garrett T2 turbo) – Full forged internals upgrade with Mahle Motorsport forged pistons (8.5:1 CR), Carrillo H-beam connecting rods, and a billet crankshaft from JE Pistons to handle 1.5 bar boost reliably. Replace the stock T2 turbo with a Garrett GT2860RS-5 (56 trim, .64 A/R turbine housing) for spool under 3,000 RPM and 350+ HP potential on 98 RON fuel.",
+    "Fuel System: Replace the stock Bosch K-Jetronic mechanical injection with a fully sequential Haltech Elite 2500 ECU, paired with Siemens DEKA 80lb/hr injectors and a Walbro 450 LPH in-tank fuel pump. Add a custom fuel rail from Radium Engineering with AN-6 fittings and a 3/8\" fuel line upgrade to support E85 blends. Install a Turbosmart FPR2000 fuel pressure regulator for precise control under boost.",
+    "Drivetrain & Chassis: Reinforce the stock 5-speed gearbox with a Quaife ATB differential and a Sachs Performance twin-disc clutch (240mm, 6-puck). Replace the stock 195/50R15 tires with 225/45R16 Michelin Pilot Sport Cup 2s on OZ Racing Superleggera III wheels (16x8 ET20). Suspension is fully rebuilt with Ohlins Road & Track coilovers (DFV damping, 22-way adjustable), polyurethane bushings from SuperPro (part #SPF0115-08K), and a Whiteline front sway bar (24mm, adjustable)."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion using the Liberty Walk LB Works Delta HF kit (fenders, bumpers, side skirts, and rear diffuser), with custom front canards from Rocket Bunny (Pandem Delta-specific). Replace the stock hood with a carbon fiber replica from Seibon (part #CF-LAN-86H) featuring a functional NACA duct for intercooler cooling.",
+    "Aero & Lighting: Install a custom 3D-printed rear wing from APR Performance (GT-250 model, 30\" chord, 6\" height) mounted on carbon fiber pedestals. Replace all exterior lighting with Hella Rallye 4000 headlights (H4 conversion) and rear clusters from a Lancia Delta Integrale Evo II (smoked lenses, sequential turn signals via a Morimoto LED controller). Add a custom front splitter from Varis Japan (3-piece, adjustable angle) with integrated LED fog lights.",
+    "Interior: Full Alcantara retrim by Recaro (Pole Position seats, custom red stitching) with a MOMO Mod.78 steering wheel (350mm, suede). Replace the stock gauge cluster with a digital dash from AIM MXS Strada (1.3\" display, CAN bus integration) and a custom center console from 3D Carbon (housing a boost controller, oil pressure gauge, and wideband AFR display). Add a custom roll cage from Custom Cages (8-point, TIG-welded, bolt-in) with harness bar for Schroth Profi II 6-point harnesses."
+  ]
+}

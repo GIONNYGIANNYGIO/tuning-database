@@ -1,0 +1,14 @@
+{
+  "brand": "LANCIA",
+  "model": "DELTA S4 GROUP B",
+  "prestazioni": [
+    "Engine: Abarth Tipo 233 ATR 18S (1.8L I4, twin-charged with Garrett T04B turbocharger and Roots-type supercharger, 480+ HP in Group B spec) – Replace stock Garrett T04B with a **Garrett GTX3582R Gen II** turbo (82mm compressor, 62mm turbine) paired with a **Rotrex C38-91 supercharger** (1.5L/min flow, 1.5 bar max boost) for 750+ HP at 8,500 RPM. Use **Mahle Motorsport forged pistons (9.5:1 CR)** and **Carrillo H-beam connecting rods** with **ARP L19 head studs** to handle the increased cylinder pressure.",
+    "Drivetrain: Reinforce the **ZF 5-speed dog-ring gearbox** with a **Hewland DG300 sequential transaxle conversion** (used in WRC cars) and a **Pankl Racing Systems carbon-fiber driveshaft**. Install a **Quaife ATB helical LSD** in the front differential and a **Torsen Type-C** in the rear, paired with **Motul Gear 300 75W-140** fluid for extreme heat resistance.",
+    "Suspension & Chassis: Replace the stock **Koni adjustable dampers** with **Öhlins TTX40 4-way adjustable coilovers** (22-way rebound, 22-way compression) and **Eibach ERS 3.0 springs** (400 lbs/in front, 350 lbs/in rear). Reinforce the monocoque with **SPARCO Group B-spec roll cage (chromoly steel, FIA Appendix J compliant)** and **Brembo GT-R 6-piston calipers** with **380mm carbon-ceramic rotors** (AP Racing pads) for 1.5G+ braking performance."
+  ],
+  "estetica": [
+    "Aerodynamics: Replace the stock Group B aero with a **Liberty Walk LB Delta S4 widebody kit** (carbon-fiber fenders, 50mm wider track) and a **Voltex Type-5 rear wing** (3D carbon, 1,200mm span, -2.5° angle for high-speed stability). Add a **Rocket Bunny front splitter** (carbon-Kevlar hybrid, 3-stage adjustability) and **Canards by APR Performance** (4x 150mm units) for front-end downforce.",
+    "Exterior: Wrap the body in **3M 1080 Matte Military Green** with **Avery Dennison Gloss Black** accents (hood, roof, mirrors). Replace the stock headlights with **Hella Rallye 2000 Cibie Oscar lamps** (H4 bulbs, 100W) and **PIAA 520 fog lights** (yellow lenses, 8,000K). Use **OZ Racing Superleggera III wheels** (17x10.5 ET15 front, 17x12 ET5 rear) with **Pirelli P Zero Trofeo R tires** (255/40/17 front, 295/35/17 rear).",
+    "Interior: Strip the cabin to **Group B homologation weight** (890kg) by installing **Sabelt 6-point harnesses (FIA 8853/98)** and a **Recaro SRD-E full-carbon bucket seat**. Replace the stock steering wheel with a **Momo Prototipo 350mm suede wheel** (quick-release hub) and add a **Motec C127 dash logger** (12.3\" display, GPS lap timer, 100Hz data logging). Use **Dynamat Xtreme sound deadening** on the firewall and floor for driver comfort."
+  ]
+}

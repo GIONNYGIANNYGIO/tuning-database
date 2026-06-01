@@ -1,0 +1,16 @@
+{
+  "brand": "LAND",
+  "model": "ROVER RANGE ROVER L460",
+  "prestazioni": [
+    "Engine: 4.4L TDV8 (339PS) N63B44T3 (or 3.0L TD6 AJD-V6X 306PS for diesel variants) – Full standalone Motec M150 ECU with custom CAN bus integration for torque vectoring and launch control, paired with a Garrett GTX4202R turbo upgrade (1.2 bar boost) and BorgWarner EFR 9180 wastegate for precise boost control, supporting 550+ HP on 98 RON fuel with a custom intercooler core by Bell Intercoolers (50% larger than OEM).",
+    "Drivetrain: ZF 8HP95 transmission remapped via Alientech KESS3 with a reinforced torque converter (Sonax 400Nm+ clutch pack) and Quaife ATB differential (80% lock) for the rear axle, paired with a custom 4.10:1 gear set from Hewland for improved acceleration (0-60 in ~4.2s).",
+    "Suspension & Handling: Full Öhlins Road & Track DFV coilovers with 3-way adjustable damping (24-position rebound, 16-position compression, and 12-position low-speed compression), paired with Eibach Pro-Kit anti-roll bars (24mm front, 22mm rear) and polybushings from SuperPro (P/N SPF5050K) for subframe reinforcement. Air Lift Performance 3P management for adjustable ride height with custom valving for 1.5\" drop in Sport mode.",
+    "Braking: AP Racing CP9660 6-piston calipers (front) with 420mm two-piece rotors (floating, slotted) and Ferodo DS3000 pads, paired with a custom brake bias controller (Motec C125) for dynamic adjustment. Rear setup includes Brembo GT 4-piston calipers with 380mm rotors and Pagid RS29 pads for endurance track use."
+  ],
+  "estetica": [
+    "Aero: Liberty Walk LB Performance L460 widebody kit (carbon fiber, 3-piece fenders with 50mm extended wheel arches) paired with a custom front splitter (3D-printed ABS with integrated air curtains) and a GT3-style rear diffuser by Prior Design (carbon fiber, 3-stage design for downforce).",
+    "Wheels: Rotiform LAS-R 22x11 ET30 (front) and 22x12 ET35 (rear) in matte bronze, wrapped in Michelin Pilot Sport Cup 2 R tires (295/30/22 front, 325/25/22 rear) with custom TPMS sensors (Schrader EZ-Sensor).",
+    "Exterior: Full Respray in BASF Glasurit 90-Line 'Lunar Grey' with a custom satin clear coat (3M Scotchgard PPF on high-impact areas), paired with a custom grille insert (laser-cut aluminum mesh with Land Rover heritage badging) and LED headlight upgrades (Lux H8 V4 projectors with adaptive cornering).",
+    "Interior: Full Alcantara retrim by Royal Steering Wheels (Nappa leather bolsters, Alcantara headliner, and carbon fiber trim inserts) with a custom roll cage (6-point, T45 steel, by Custom Cages UK) and Sparco Pro 2000 seats (carbon fiber shell, 4-way lumbar support). Infotainment replaced with a Motec C187 dash display and a custom Android Auto head unit (Sony XAV-AX5500) with a 10.1\" touchscreen."
+  ]
+}

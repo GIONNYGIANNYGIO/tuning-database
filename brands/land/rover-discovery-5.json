@@ -1,0 +1,14 @@
+{
+  "brand": "LAND",
+  "model": "ROVER DISCOVERY 5",
+  "prestazioni": [
+    "Engine: 3.0L AJD-V6 Gen III (306DT) diesel with a Garrett GT2260VK turbo upgrade, replacing the stock BorgWarner BV50 unit, paired with a custom 3.5\" turbo-back exhaust system from Milltek Sport featuring 409 stainless steel mandrel-bent piping and 100-cell catalytic converters for Euro 6d compliance",
+    "Fuel System: Full Bosch CP4.2 high-pressure fuel pump replacement with a Denso HP4 pump, upgraded 350cc Delphi injectors (PN: 28452658), and a custom ECU remap via Alientech KESS3 targeting 320hp and 700Nm torque with optimized EGR/DPF delete (off-road use only) and a 20% increase in turbo boost pressure (2.1 bar peak)",
+    "Suspension: Bilstein B16 PSS10 coilovers with 8-position adjustable damping, custom-valved for the Discovery 5's air suspension mounting points, paired with Eibach Pro-Kit springs (20mm drop) and polybushings from SuperPro (PN: SPF1005K) for the front control arms and rear subframe"
+  ],
+  "estetica": [
+    "Body Kit: Overland-style front bumper from Mantec with integrated 30\" LED light bar (Rigid Industries D-Series Pro) and a rear bumper with swing-out tire carrier (Mantec Expedition Series), both in raw 5mm aluminum with powder-coated finish in 'Satin Graphite'",
+    "Wheels: Method MR701 VT Spec wheels in 18x9 +12 offset, wrapped in BFGoodrich KM3 275/70R18 tires, paired with Terrafirma 30mm wheel spacers (PN: TFWSPACER30) to correct scrub radius and prevent rubbing at full articulation",
+    "Interior: Full carbon fiber dash overlay from Carbon Creations, Recaro Sportster CS seats with 4-point harnesses (Sabelt 620), and a custom center console delete plate housing a 10.1\" Android Auto head unit (Pioneer SPH-DA230DAB) with integrated 4G hotspot and rear-view camera system (BlackVue DR900X-2CH)"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "LEXUS",
+  "model": "CT 200H F SPORT",
+  "prestazioni": [
+    "Engine: 1.8L 2ZR-FXE I4 hybrid (Atkinson cycle) with HKS Super Power Flow Hi-Power exhaust system featuring 60mm dual outlets and a 304 stainless steel mid-pipe, paired with a custom 4-2-1 header from Tomei for optimized scavenging on the hybrid powertrain",
+    "Hybrid System: Upgraded 5Ah lithium-ion battery pack from Hybrid Racing (HR-HYB-CT200H) with a custom heat management system using a PWR Australia intercooler core as a heat exchanger, alongside a GReddy E-Manage Ultimate piggyback controller to adjust regenerative braking and electric assist mapping for 0.3s faster 0-60mph acceleration",
+    "Suspension: Ohlins Road & Track DFV coilovers (CT200H-specific valving) with 8kg/mm front and 7kg/mm rear springs, paired with Cusco 22mm front and 19mm rear adjustable sway bars, and polyurethane bushings from SuperPro (SPF0115K) for the rear subframe to eliminate hybrid torque-induced flex"
+  ],
+  "estetica": [
+    "Body Kit: Veilside Fortune 03 widebody conversion (CT200H-specific molds) with carbon fiber overfenders, front bumper canards, and a rear diffuser from Varis, all finished in Lexus Structural Blue with a 3M 1080 Satin Black roof wrap",
+    "Wheels: Work Emotion CR Kiwami 18x8.5 +35 front and 18x9.5 +40 rear, wrapped in Michelin Pilot Sport Cup 2 tires (225/40/18 front, 255/35/18 rear) with custom center caps featuring the Lexus F Sport logo in red anodized aluminum",
+    "Interior: Bride Zeta III reclining bucket seats (CT200H-specific mounting brackets) upholstered in Alcantara with red stitching, paired with a MOMO Mod.78 steering wheel (350mm diameter, suede grip) and a custom hybrid system monitor from AEM (30-0300) replacing the stock infotainment screen"
+  ]
+}

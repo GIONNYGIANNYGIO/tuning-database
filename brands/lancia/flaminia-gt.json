@@ -1,0 +1,14 @@
+{
+  "brand": "LANCIA",
+  "model": "FLAMINIA GT",
+  "prestazioni": [
+    "Engine: Replace the original 2.5L V6 (engine code: 826.000) with a fully built 2.8L stroker kit using forged Mahle pistons (85mm bore), Carrillo H-beam connecting rods, and a billet crankshaft from JP Pistons, paired with a custom Schneider Racing camshaft (280° duration, 11.5mm lift) for high-RPM power delivery (target: 220+ HP at 7,000 RPM).",
+    "Forced Induction: Install a Rotrex C38-91 supercharger with a custom intercooler setup (PWR Australia bar-and-plate core) and a Tial 50mm wastegate to manage boost (8-10 PSI), mated to a custom intake manifold fabricated by VSR Performance with individual throttle bodies (ITBs) from Jenvey Dynamics (45mm diameter).",
+    "Drivetrain: Upgrade to a close-ratio ZF 5-speed dogleg gearbox (from the Lancia Stratos) with a Quaife ATB differential, paired with a Tilton twin-plate ceramic clutch and a custom lightweight flywheel (12 lbs) from Fidanza. Replace the original driveshaft with a carbon-fiber unit from GKN Driveline for reduced rotational mass."
+  ],
+  "estetica": [
+    "Body: Full carbon-fiber widebody conversion using a custom Rocket Bunny-inspired kit (designed exclusively for the Flaminia GT by Japanese tuner TRA Kyoto), featuring extended fenders (30mm wider front, 40mm wider rear), a ducktail spoiler, and a front splitter with integrated canards (3D-printed from carbon fiber by 9 Lives Racing).",
+    "Wheels: 16-inch OZ Racing Ultraleggera wheels (7.5J front, 9J rear) with custom offsets (ET15 front, ET5 rear) and wrapped in Pirelli P Zero Trofeo R tires (195/50/16 front, 225/50/16 rear). Brake system upgraded to Alcon 4-piston calipers with 330mm two-piece rotors (floating design) and Ferodo DS2500 pads.",
+    "Interior: Full Alcantara retrim by Italian upholsterer Schedoni, including a custom MOMO Prototipo steering wheel (380mm diameter, suede-wrapped), Recaro Pole Position seats (carbon-fiber shells, Alcantara inserts), and a custom roll cage by Safety Devices (T45 steel, 8-point design with integrated harness bars for Schroth 6-point harnesses)."
+  ]
+}

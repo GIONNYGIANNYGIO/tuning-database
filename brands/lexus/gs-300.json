@@ -1,0 +1,14 @@
+{
+  "brand": "LEXUS",
+  "model": "GS 300",
+  "prestazioni": [
+    "Engine: 2JZ-GE (non-turbo, 3.0L inline-6, 220hp stock) – Full forged internals build with JE Pistons 87mm forged slugs (9.5:1 CR), Eagle H-beam connecting rods, and ACL Race Series bearings. Topped with a Tomei 264°/264° camshaft kit (11.5mm lift) and Tomei Type-S valve springs for high-RPM stability.",
+    "Forced Induction: Garrett GTX3582R Gen II turbo (0.82 A/R, 62mm compressor) with a custom 3.5-inch stainless steel turbo manifold (fabricated by Full-Race Motorsports) and a GReddy Type-S front-mount intercooler (700hp core). Boost controlled via HKS EVC-S electronic boost controller (set to 18psi on 93 octane).",
+    "Fuel & Ignition: Full Aeromotive fuel system with dual A1000 in-tank pumps, ID1000x injectors, and a Radium Engineering fuel pressure regulator. Ignition upgraded to HKS Twin Power spark plugs (gapped at 0.028) and a Splitfire coil-on-plug conversion with NGK ignition coils. ECU reflashed via Haltech Elite 2500 standalone (custom 2JZ-GE base map with flex-fuel capability)."
+  ],
+  "estetica": [
+    "Widebody Conversion: Rocket Bunny V3 GS300 kit (full carbon fiber overfenders, front/rear bumpers, and side skirts) with custom extended wheel arches for 10.5-inch front and 12-inch rear wheel fitment. Painted in Lexus Structural Blue with matte black accents.",
+    "Suspension & Wheels: Ohlins Road & Track coilovers (custom valving for JDM-spec GS300 chassis) with polyurethane bushings (SuperPro 62mm front/rear). Wheels: Work Meister S1 3P 19x10.5 +25 front and 19x12 +40 rear (ET adjusted for flush fitment), wrapped in Michelin Pilot Sport Cup 2 R tires (275/30/19 front, 315/30/19 rear).",
+    "Aero & Details: Veilside Fortune 300 front lip (carbon fiber), custom 3D-printed rear diffuser (modeled after the Lexus LF-A), and a Seibon carbon fiber hood (with functional vents for turbo heat extraction). Interior stripped and reupholstered with Bride Zeta III seats (fixed-back, Alcantara/leather), Takata Drift II harnesses, and a custom MOMO Prototipo steering wheel (350mm, suede)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "SC18 ALSTON",
+  "prestazioni": [
+    "Engine: L539 6.5L V12 (naturally aspirated) with a custom Novitec Rosso-developed ECU remap targeting 820 HP (up from 770 HP) via optimized ignition timing, fuel pressure adjustments (1,200 bar via upgraded Bosch Motorsport CP4.2 high-pressure fuel pumps), and individual cylinder tuning to eliminate factory detuning for emissions compliance. Includes a Novitec-specific throttle response calibration to eliminate the SC18’s slight turbo-like lag from its long intake runners.",
+    "Forced induction: Hybrid turbocharger upgrade using a Garrett GTX5533R Gen II with a billet compressor wheel (76mm, 10-blade) and a custom Inconel turbine wheel (94mm) to handle the L539’s 9,000 RPM redline. Paired with a Tial MV-R 60mm wastegate and a custom Novitec intercooler core (1,200 CFM airflow) with dual 100mm aluminum charge pipes and silicone couplers reinforced with Kevlar weave to prevent boost leaks under 1.5 bar of pressure.",
+    "Exhaust: Full titanium Akrapović Evolution Line system with 4-2-1 equal-length headers (3.5mm wall thickness, Inconel 625 material) and a straight-pipe center section (76mm diameter) bypassing the factory catalytic converters. Includes a secondary X-pipe with electronically controlled butterfly valves (operated via a Motec C125 dash) to switch between track (loud) and road (quiet) modes. Backpressure reduced by 42% compared to stock."
+  ],
+  "estetica": [
+    "Aerodynamics: Custom Novitec Rosso SC18-specific widebody kit with carbon fiber fenders (30mm wider front, 40mm wider rear) to accommodate 20x12” front and 21x14” rear BBS FI-R wheels (ET +15/+5 offset). Includes a 3D-printed carbon fiber rear diffuser with integrated Gurney flap (adjustable via hydraulic actuators) and a front splitter with active aero (downforce increased by 18% at 200 km/h).",
+    "Lighting: Full OEM+ LED upgrade with Osram Night Breaker Laser bulbs (6,000K) in the factory headlights, paired with a custom Hella 90mm auxiliary light bar (1,800 lumens) mounted in the front bumper’s central air intake. Rear taillights replaced with sequential LED units from a Lamborghini Sian, wired to the Motec C125 for customizable patterns (e.g., RPM-based strobing).",
+    "Interior: Full Alcantara and carbon fiber retrim by Sabelt, including a custom 6-point harness bar (T45 steel, powder-coated in Grigio Titans) with Schroth Profi II 6-point harnesses. Seats replaced with Recaro Pole Position II carbon fiber shells (weight reduced by 12kg) and upholstered in Alcantara with red contrast stitching. Steering wheel swapped for a MOMO Prototipo (350mm diameter) with integrated Motec C125 quick-release hub and paddle shifters from a Huracán STO for shorter throws."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "LANCIA",
+  "model": "RALLY 037 EVO 2",
+  "prestazioni": [
+    "Engine: Replace the stock *2.1L Tipo 232AR* supercharged inline-4 with a *2.3L Tipo 232AR* bored and stroked using forged Mahle pistons (84mm bore, 100mm stroke) and Carrillo H-beam connecting rods, paired with a custom billet crankshaft from *JE Pistons* for 2.5L displacement. Compression ratio increased to 9.5:1 with custom combustion chambers.",
+    "Forced Induction: Swap the stock Abarth Volumex supercharger for a *Rotrex C38-91* centrifugal supercharger with a custom billet aluminum pulley system (12% underdrive) and a *PWR* water-to-air intercooler core mounted in the front bumper, fed by dual *SPAL* 12\" high-flow fans. Boost pressure set to 1.8 bar (26 psi) via a *TurboSmart* HyperGate45 wastegate.",
+    "Fuel & Ignition: Replace the stock Weber carburetors with a *Motec M150 ECU* controlling sequential fuel injection via *ID1000* injectors, paired with a *Bosch* high-pressure fuel pump (255 lph) and a *Radium Engineering* fuel surge tank. Ignition upgraded to *MSD 8 Plus* with *NGK* R7437-9 racing plugs gapped at 0.024\". Exhaust system features a *SuperSprint* 4-2-1 equal-length header with 45mm primaries and a *Remus* titanium 76mm dual-exit center muffler."
+  ],
+  "estetica": [
+    "Body: Full *Liberty Walk* widebody conversion for the 037 Evo 2, featuring hand-laid carbon fiber fender flares (3\" wider front, 4\" wider rear) with integrated *Aeromotions* active rear wing (adjustable angle via hydraulic actuators). Front splitter replaced with a *VIS Racing* carbon fiber unit with a 3D-printed *Aeroflow Dynamics* gurney flap.",
+    "Interior: Full *Recaro* Pole Position seats (HANS-compatible) upholstered in *Alcantara* with *Schroth* 6-point harnesses. Dashboard replaced with a *Momo* carbon fiber unit housing a *Motec C127* digital dash and *AiM* MXL2 data logger. Roll cage upgraded to a *Custom Cages* FIA-spec 8-point bolt-in cage with integrated fire suppression system (*Lifeline* Zero 360).",
+    "Wheels & Aero: *BBS* E50 magnesium wheels (15x10\" front, 15x12\" rear) wrapped in *Pirelli* P Zero Corsa tires (245/40R15 front, 285/35R15 rear). *AP Racing* 6-piston front and 4-piston rear brake calipers with *DBA* 5000-series rotors (355mm front, 330mm rear). Underbody features a *RML Group* flat floor with rear diffuser and *Vortex* vortex generators on the C-pillars."
+  ]
+}

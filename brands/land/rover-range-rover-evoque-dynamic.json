@@ -1,0 +1,14 @@
+{
+  "brand": "LAND ROVER",
+  "model": "RANGE ROVER EVOQUE DYNAMIC (P250, 2021-2023, Engine Code: AJ20P)",
+  "prestazioni": [
+    "Garrett GT2260S turbocharger upgrade with custom 3D-printed titanium compressor housing (matched to AJ20P 2.0L Ingenium I4) to push boost from 1.3 bar (OEM) to 1.8 bar, paired with a Pierburg CWA 100 high-flow water pump and upgraded intercooler (Setrab 40-row core) for sustained 350+ hp and 450 Nm torque without heat soak",
+    "Full Motec M150 ECU standalone conversion with custom CAN bus integration for the Evoque’s ZF 9HP489 transmission, enabling launch control (3,500 RPM flat-shift), anti-lag (2-step), and torque vectoring via rear e-diff (GKN Twinster T-32) with 0-60 mph in 4.8s (vs. 7.0s stock)",
+    "Bilstein B16 PSS10 coilovers with custom valving for the Evoque’s multi-link rear suspension (adjustable compression/rebound in 10 clicks), paired with Eibach Pro-Spacer 20mm wheel spacers (hub-centric, 5x108 PCD) and AP Racing CP9661-2600 380mm front brake kit (6-piston calipers, 32mm pads) for Nürburgring-ready fade resistance"
+  ],
+  "estetica": [
+    "RML Group carbon fiber widebody kit (front fenders extended 30mm, rear 40mm) with integrated LED turn signals (Osram Synios P2720), designed specifically for the Evoque’s clamshell hood and rear haunch contours to clear 20x9.5 ET35 Rotiform LAS-R wheels (255/40R20 Michelin Pilot Sport Cup 2 R)",
+    "Full custom front splitter (3D-scanned from Evoque’s bumper) in pre-preg carbon fiber (2x2 twill, 12K finish) with active Gurney flap (servo-controlled via Motec ECU) for adjustable downforce (up to 80kg at 120 mph), paired with a rear diffuser (3-piece, aluminum honeycomb core) from Prior Design (PD-LR01)",
+    "Interior roll cage (T45 steel, 3.2mm wall thickness) by Safety Devices (SD0354) with integrated fire suppression system (Lifeline Zero 360, 3kg Novec 1230) and Recaro SPG XL seats (HANS-compatible, 5-point Schroth Profi II harnesses) wrapped in Alcantara (Autostyle ‘Nero’ with red contrast stitching) and carbon fiber door cards (VIS Racing, OEM-matched)"
+  ]
+}

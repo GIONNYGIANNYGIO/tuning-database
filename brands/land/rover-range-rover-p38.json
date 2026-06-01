@@ -1,0 +1,14 @@
+{
+  "brand": "LAND ROVER",
+  "model": "RANGE ROVER P38",
+  "prestazioni": [
+    "Engine swap to a BMW M62B44 (4.4L V8, 286hp) with a custom ECU remap by Dynochip UK, targeting 350hp and 380lb-ft via a bespoke fuel pressure map and ignition timing advance for the P38's Bosch Motronic 5.2.1 system, paired with a custom 3.5\" stainless steel exhaust system by Hayward & Scott with 200-cell catalytic converters and quad 3.5\" outlets for optimal scavenging",
+    "Upgraded ZF 5HP24 automatic transmission with a P38-specific valve body recalibration by Level 10 Transmission, including a 3000rpm stall torque converter and reinforced clutches to handle increased power, alongside a custom P38-specific transmission cooler by Setrab with dual 10-row cores and a thermostatic bypass valve",
+    "Suspension overhaul with Bilstein B14 coilovers (P38-specific valving) and Eibach Pro-Kit springs (1.2\" drop), paired with polybushings from SuperPro (part #SPF1035K) for the front radius arms and rear trailing arms, alongside a custom-fabricated 25mm rear anti-roll bar by Whiteline (P38-specific) to reduce body roll during high-speed cornering"
+  ],
+  "estetica": [
+    "Full custom widebody conversion using carbon fiber overfenders by Prior Design (P38-specific kit, 3\" wider front, 4\" wider rear), paired with a custom front splitter and rear diffuser by Maxton Design (P38-specific, 3-piece carbon fiber construction) for aggressive aero while maintaining OEM+ fitment",
+    "Retro-inspired LED headlight conversion by Hella (part #1A6 007 857-001) with custom CREE XHP50.2 projectors and a sequential turn signal module by Morimoto (P38-specific harness), paired with a custom rear LED taillight setup by VLand (part #VL-RR01) with smoked lenses and sequential brake lights",
+    "Custom interior retrim with full Alcantara headliner and door cards by Royal Steering Wheels, featuring a P38-specific MOMO Mod.70 steering wheel (380mm, Alcantara grip) and a custom center console with a 10.1\" Android Auto head unit by Pioneer (SPH-DA230DAB) integrated into the OEM dash, paired with a custom rear seat delete (P38-specific) for a full carbon fiber cargo area with integrated roll cage by Safety Devices (part #SD0123)"
+  ]
+}

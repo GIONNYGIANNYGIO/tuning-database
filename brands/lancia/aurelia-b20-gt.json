@@ -1,0 +1,14 @@
+{
+  "brand": "LANCIA",
+  "model": "AURELIA B20 GT",
+  "prestazioni": [
+    "Engine: Replace the original 2.0L V6 (Type 813) with a fully balanced and blueprinted 2.5L V6 (Type 821) from the later Aurelia B24, featuring forged Mahle pistons (85mm bore, 75mm stroke), Carrillo H-beam connecting rods, and a billet crankshaft by JP Pistons. Pair with a custom camshaft grind by Schrick (280° duration, 11.5mm lift) and titanium retainers by Ferrea Racing.",
+    "Forced Induction: Install a bespoke supercharger kit by Rotrex (C38-91) with a custom intercooler setup by PWR, utilizing a front-mounted heat exchanger and dual 120mm SPAL fans. Boost pressure set to 12 psi with a custom ECU map by Motec M150, tuned for 98 RON fuel and 11.5:1 compression ratio.",
+    "Suspension & Handling: Replace the original leaf springs with a custom coilover setup by KW Suspensions (Variant 3), featuring adjustable damping and ride height. Install polyurethane bushings by SuperPro (part #SPF0119K) and a front strut tower brace by Cusco (Type RS). Upgrade to 4-piston Brembo calipers (08.9754.71) with 330mm two-piece rotors and Ferodo DS2500 brake pads."
+  ],
+  "estetica": [
+    "Bodywork: Restore the original aluminum body panels with a custom widebody kit by Zagato, featuring flared fenders (30mm wider front, 40mm wider rear) and a hand-formed aluminum rear diffuser. Paint in original Grigio Azzurro Metallizzato (Lancia code 2.5G) with a clear bra by XPEL Ultimate Plus.",
+    "Interior: Replace the original seats with custom Recaro SRD-E shells, upholstered in black Alcantara with Grigio Azzurro stitching. Install a MOMO Prototipo steering wheel (380mm diameter) and a custom gauge cluster by Smiths (replica of the original but with digital readouts for boost, oil temp, and AFR).",
+    "Aerodynamics: Add a custom front splitter by APR Performance (carbon fiber, 30mm overhang) and a rear wing by Voltex (Type 3, 1200mm width, 200mm chord) mounted on aluminum pedestals. Install side skirts by Rocket Bunny (Pandem-style) and a custom aluminum radiator shroud with integrated oil cooler by Setrab."
+  ]
+}

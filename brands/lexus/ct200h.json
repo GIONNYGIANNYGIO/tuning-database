@@ -1,0 +1,14 @@
+{
+  "brand": "LEXUS",
+  "model": "CT200H",
+  "prestazioni": [
+    "Hybrid powertrain overhaul targeting the 1.8L 2ZR-FXE Atkinson-cycle engine with a custom ECU flash from Hondata K-Pro (adapted for Toyota/Lexus hybrid systems) to optimize ignition timing, fuel maps, and MG2 electric motor torque delivery for a 20% increase in combined system output (estimated 150 HP / 120 lb-ft to ~180 HP / 145 lb-ft), while retaining the OEM NiMH battery pack with a Voltage Stabilization Module (VSM) from Hybrid Racing to prevent voltage sag under hard acceleration",
+    "Forced induction via a Sprintex 210 supercharger kit (specifically designed for the 2ZR-FXE) with a custom intercooler setup using a GReddy Type-S front-mount intercooler (modified to fit the CT200h’s unique radiator support) and a 3-inch mandrel-bent aluminum piping system from Injen, paired with a custom heat exchanger from Setrab to manage hybrid system temperatures under boost (targeting 6-8 PSI for reliability)",
+    "Drivetrain reinforcement with a Fidanza lightweight flywheel (for the 2ZR-FXE) and a Spec Stage 3+ clutch (modified to work with the CT200h’s hybrid transaxle), alongside a Cusco 1.5-way limited-slip differential (LSD) to mitigate torque steer and improve power delivery to the front wheels, with custom half-shafts from Driveshaft Shop to handle increased torque"
+  ],
+  "estetica": [
+    "Liberty Walk LB Works widebody conversion kit (CT200h-specific, not a generic E90/E82 kit) with custom carbon fiber fender flares, front bumper canards, and a rear diffuser, paired with a custom front splitter from Varis (extended 3 inches for downforce) and a custom rear wing from 996 Motorsports (adjustable angle, 3D-printed mounts for the CT200h’s hatch)",
+    "OEM+ aggressive stance via a full Air Lift Performance 3P management system (with custom strut mounts for the CT200h’s MacPherson front / double-wishbone rear suspension) and BC Racing BR coilovers (modified with custom spring rates: 8kg/mm front, 7kg/mm rear) for a 1.5-inch drop, paired with Work Emotion CR Kiwami wheels (18x9.5 +25 front, 18x10.5 +30 rear) wrapped in Michelin Pilot Sport Cup 2 tires (235/40/18 front, 265/35/18 rear)",
+    "Full custom interior overhaul featuring Recaro SPG XL seats (with custom mounting brackets for the CT200h’s seat rails), a MOMO Mod.78 steering wheel (with a NRG quick-release hub adapted for the Lexus column), and a custom hybrid-specific gauge cluster from Defi (showing MG2 motor RPM, battery voltage, and boost pressure), with all interior trim wrapped in Alcantara (Stealth Gray) and carbon fiber (from Seibon) for the center console, door cards, and A-pillars"
+  ]
+}
