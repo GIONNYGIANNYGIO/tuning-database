@@ -1,0 +1,14 @@
+{
+  "brand": "LANCIA",
+  "model": "THEMA 8.32",
+  "prestazioni": [
+    "Engine: Replace the stock *Tipo 104.000* (Ferrari F105L-derived 2.9L V8) internals with forged Mahle Motorsport pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from JE Pistons to handle 800+ HP reliably. Pair with a custom dry-sump oiling system by Aviaid to prevent oil starvation under lateral G-forces.",
+    "Forced Induction: Twin-turbo setup using Garrett GTX3582R Gen II turbos (hybrid ceramic ball-bearing) with custom 3D-printed Inconel exhaust manifolds by SMS Engineering, feeding into a custom 3.5\" stainless steel exhaust system with dual Akrapovič titanium mufflers and electronically controlled wastegates by TurboSmart (iWG200). Intercooling via a front-mount air-to-water setup with a PWR radiator and Bosch Motorsport water pump.",
+    "ECU & Fueling: Standalone Motec M150 ECU with custom firmware for the *Tipo 104.000* V8, paired with a dual Bosch Motorsport 044 high-flow fuel pump setup, Injector Dynamics ID1700x injectors, and a custom fuel rail by Radium Engineering. Ignition system upgraded to AEM CDI coils and NGK R8968-10 spark plugs for sustained high-RPM operation."
+  ],
+  "estetica": [
+    "Body Kit: Full carbon fiber widebody conversion by Novitec Torado (Lancia Thema-specific), including extended front fenders, rear quarter panels, and a custom front splitter with integrated canards. Rear diffuser by RW Carbon with dual central exhaust outlets.",
+    "Suspension & Wheels: Full Ohlins TTX40 coilovers with 3-way adjustable damping, custom valving for the Thema 8.32’s unique weight distribution, and spherical bearing top mounts by Whiteline. Wheels: 19x10\" (front) and 19x11\" (rear) BBS LM-R in gold with custom offsets, wrapped in Michelin Pilot Sport Cup 2 R tires (265/35/19 front, 295/30/19 rear).",
+    "Interior: Full Alcantara retrim by Saddleback Leather, including Recaro Pole Position seats (Ferrari F40-style) with custom Lancia Thema 8.32 embroidery. Roll cage by Custom Cages (T45 steel, FIA-spec), integrated with a Motec C127 dash display and a quick-release NRG steering wheel with a Lancia Delta Integrale-style horn button."
+  ]
+}

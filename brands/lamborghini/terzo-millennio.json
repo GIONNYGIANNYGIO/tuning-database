@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "TERZO MILLENNIO",
+  "prestazioni": [
+    "Replacement of the stock 4x electric motor system (code: **E-Motor Quad-Array QA-2050**) with **Magnax Axial Flux YASA P400** motors (4x units, 350 kW peak each, 98% efficiency) paired with a **McLaren Applied 800V SiC inverter** for instantaneous torque vectoring and 0-60 mph in 1.8s",
+    "Installation of a **Skeleton Technologies SkelCap 170F ultracapacitor bank** (replacing the stock graphene-based energy storage) with **AP Racing carbon-ceramic brake-by-wire regen system** (30% higher energy recovery, 2200 kW peak discharge)",
+    "Custom **Lamborghini Squadra Corse ECU remapping** (code: **SC-ECU-TM-2050**) for adaptive torque split (0-100% per wheel) with **Bosch Motorsport MS 5.1** fail-safe redundancy, enabling **Dallara-developed drift mode** with 90° yaw control at 180 mph"
+  ],
+  "estetica": [
+    "Full **Forge Motorsport carbon-fiber monocoque reinforcement** with **Porsche 919 Hybrid-inspired titanium roll cage** (visible through **PPG 'Liquid Metal' electrochromic glass** roof panel, switchable opacity)",
+    "Custom **Liberty Walk LB-TM01 widebody kit** (carbon-Kevlar hybrid, +120mm front/+140mm rear) with **Aeromotions active rear wing** (3-position DRS, 400 kg downforce at 250 km/h) and **Vorsteiner carbon-fiber front splitter** (adjustable dive planes, -20% lift)",
+    "**Anodized titanium wheel centers** (OZ Racing Ultragroove TM, 20\" front/21\" rear) wrapped in **Pirelli P Zero Trofeo R** (345/25 R21, semi-slick compound) with **BBS Motorsport titanium lug bolts** and **AP Racing CP9430-8S calipers** (6-piston front, 4-piston rear, gold anodized)"
+  ]
+}

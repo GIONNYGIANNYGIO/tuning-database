@@ -1,0 +1,14 @@
+{
+  "brand": "LANCIA",
+  "model": "STRATOS HF",
+  "prestazioni": [
+    "Engine: Replace the original 2.4L Dino-derived *Ferrari F106A* V6 with a fully built *Ferrari F106C* block (from the 308 GT4), bored to 2.7L (94mm bore, 66mm stroke) and fitted with forged Mahle pistons (11.5:1 compression), Carrillo H-beam connecting rods, and a billet steel crankshaft from *JE Pistons* for 350+ HP at 8,500 RPM on 100-octane fuel.",
+    "Forced Induction: Twin-turbo setup using *Garrett GT2860RS* turbos (0.64 A/R turbine housings) with *Tial MV-R* 44mm wastegates, custom *Spearco* air-to-water intercoolers, and a *Haltech Elite 2500* ECU running *MoTeC M800* fuel maps for sequential injection with *ID1000* injectors and a *Bosch 044* fuel pump.",
+    "Drivetrain: Reinforced *Hewland FGA400* 5-speed transaxle with *Quaife ATB* differential, *Tilton* triple-plate carbon clutch, and *Penske* 8760-series adjustable shock absorbers with *Eibach* 1,000 lb/in springs for rally-spec suspension travel (250mm front, 280mm rear)."
+  ],
+  "estetica": [
+    "Body: Full *Liberty Walk* widebody conversion with *Fiberfab* carbon fiber fender flares (30mm wider front, 50mm wider rear), *Seibon* carbon fiber hood with functional *AeroCatch* latches, and a *Voltex* Type-3 rear wing (2.5° adjustable angle) for 300kg downforce at 160 km/h.",
+    "Interior: *Recaro Pole Position* seats (HANS-compatible) with *Schroth* 6-point harnesses, *Momo* *Mod.78* steering wheel (350mm diameter) on a *NRG* quick-release hub, and a *Defi Advance BF* digital dash with *Aim MXL* data logging for boost, oil temp, and lateral G-forces.",
+    "Lighting: *Hella* *Micro DE* LED rally lights (4x 55W) mounted on a *Baja Designs* aluminum light bar, *Cibie Oscar* H4 headlights with *PIAA* 9005 bulbs, and *Oracle* RGB underglow with *Alpine PDX* amplifier for synchronized lighting effects."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "LANCIA",
+  "model": "KAPPA COUPE",
+  "prestazioni": [
+    "Engine swap to a Fiat-Lancia 2.4L 20V Turbo (engine code: 838A5.000) with forged internals: JE Pistons 87.5mm forged slugs (9.5:1 CR), Eagle H-beam connecting rods, and a billet crankshaft from Manley Performance. Turbocharged with a Garrett GTX3582R Gen II turbo (0.82 A/R, 62mm compressor wheel) on a custom tubular manifold by Tubistrada, paired with a Tial MV-R 44mm external wastegate and a 50mm HKS SSQV4 blow-off valve.",
+    "Full custom ECU calibration via a standalone Motec M150 ECU with individual cylinder fuel and ignition control, optimized for E85 flex-fuel capability. Supporting mods include a Bosch 0280158002 high-flow fuel pump, Injector Dynamics ID1700x injectors, and a custom 3.5\" aluminum intercooler core from Bell Intercoolers with 40mm end tanks for reduced pressure drop.",
+    "Suspension overhaul with Ohlins Road & Track DFV coilovers (custom valving for Kappa Coupe chassis), polyurethane bushings from SuperPro (part #SPF0115K for front control arms, #SPF1119K for rear trailing arms), and a full spherical bearing conversion kit from Whiteline (part #W51290 for front sway bar links, #W51291 for rear). Braking upgraded to Alcon 6-piston front calipers (355mm discs) and 4-piston rear calipers (330mm discs) with Ferodo DS2500 pads and braided stainless steel lines from Goodridge."
+  ],
+  "estetica": [
+    "Custom widebody conversion using a Rocket Bunny V1-style kit (modified for Kappa Coupe chassis) with carbon fiber fenders, front splitter, and rear diffuser by Seibon Carbon. Rear overfenders extended by 50mm per side to accommodate 9.5\" ET30 Enkei RS05RR wheels (18x9.5 front, 18x10.5 rear) wrapped in Michelin Pilot Sport Cup 2 tires (235/40/18 front, 275/35/18 rear).",
+    "Full custom interior retrim in Alcantara (Rosso Corsa) with Recaro Pole Position seats (modified for Kappa Coupe mounting points) and a MOMO Mod.78 steering wheel (350mm, suede). Roll cage by Custom Cages UK (8-point bolt-in, T45 steel, powder-coated in satin black) with integrated harness bar for Schroth Profi II 6-point harnesses.",
+    "Exterior lighting upgraded to Hella Rallye 3000 Super Whites (7\" diameter, H4 bulbs) with custom Cibie Oscar polycarbonate covers, and rear LED taillights from Dapper Lighting (clear lens, sequential turn signals). Full dechroming with satin black vinyl wrap (3M 2080 Satin Black) and custom Lancia Kappa Coupe script badges in carbon fiber by Badge Garage."
+  ]
+}

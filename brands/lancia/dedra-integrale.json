@@ -1,0 +1,14 @@
+{
+  "brand": "LANCIA",
+  "model": "DEDRA INTEGRALE",
+  "prestazioni": [
+    "Engine: 831A5.000 (2.0L 16V Turbo I4) – Full forged internals with JE Pistons 87.5mm forged slugs (9.5:1 CR), Eagle H-beam connecting rods, and ACL Race Series bearings. Garrett GTX3076R Gen II turbocharger with TiAL MV-R 44mm wastegate and TiAL Q 50mm blow-off valve, paired with a custom 3.5\" stainless steel downpipe and 3\" turbo-back exhaust system by Supersprint with 200-cell metallic catalytic converter.",
+    "Fuel & Ignition: Bosch Motorsport 0280158861 1000cc high-impedance injectors, Walbro 450 LPH in-tank fuel pump, and AEM X-Series wideband controller. Standalone ECU: Motec M150 with custom 831A5-specific calibration, mapped for 1.5-bar peak boost (22 psi) and 98 RON fuel. Ignition upgrade: NGK R8471-10 Iridium IX spark plugs gapped at 0.024\" with MSD 8207 coil packs and custom 10mm ignition leads by Magnecor.",
+    "Drivetrain & Handling: Quaife ATB helical LSD in the front (80% lock) and OS Giken Super Lock LSD in the rear (90% lock). Ohlins Road & Track DFV coilovers with 8-position adjustable damping, spherical bearing top mounts, and custom spring rates (8kg/mm front, 9kg/mm rear). Brembo GT 6-piston calipers (355mm discs front) and 4-piston calipers (330mm discs rear) with Ferodo DS2500 pads, braided stainless steel lines by Goodridge, and Motul RBF 660 brake fluid."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion by Zender (1990s Group A homologation-spec flares), including front splitter, rear diffuser, and side skirts. Custom 3-piece OZ Racing Superleggera III wheels (8.5x17\" ET20 front, 9.5x17\" ET25 rear) with Nankang AR-1 semi-slick tires (225/45/17 front, 245/40/17 rear).",
+    "Aero: Custom aluminum rear wing (Lancia Delta HF Integrale Evoluzione II-inspired) with adjustable angle of attack (0-15 degrees) and integrated third brake light. Front bumper lip with integrated carbon fiber canards (3D-printed molds by Rocket Bunny) and custom aluminum tow hooks (anodized gold).",
+    "Interior: Full Recaro SRD-E shell seats (HANS-compatible) with Schroth Profi II 6-point harnesses. Custom roll cage by Safety Devices (FIA-spec, 8-point with door bars) and MOMO Prototipo steering wheel (350mm, suede). Full digital dash: Motec C127 with custom Lancia-themed layout, including boost pressure, oil temp, and wideband AFR readouts."
+  ]
+}

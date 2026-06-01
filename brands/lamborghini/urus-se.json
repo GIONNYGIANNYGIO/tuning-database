@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "URUS SE",
+  "prestazioni": [
+    "Engine: 4.0L twin-turbo V8 (code: *L539*), upgraded with a *Garrett GTX5544R Gen II* turbocharger kit (1.4 bar boost, billet compressor wheel, 76mm inducer) paired with *Precision Turbo & Engine* 46mm wastegates and *Tial MV-R* 50mm blow-off valves for reduced lag and 850+ WHP on E85 fuel. Custom *Motec M150 ECU* standalone management with *AEM CD-7* dash integration for real-time lambda and knock monitoring.",
+    "Drivetrain: *Quaife ATB LSD* (25-spline, 45/55 torque bias) in the rear differential with *Penske 8760* 3-way adjustable coilovers (24-position rebound, 18-position compression, 12mm ride height adjustment) and *H&R* 30mm front / 25mm rear anti-roll bars. *AP Racing* 6-piston front / 4-piston rear brake calipers with *Brembo* 410mm CCM-R rotors (floating, 38mm thickness) and *Ferodo DS2500* pads for track use.",
+    "Exhaust: *Capristo 102RS* full titanium exhaust system (4.5\" diameter, 304-grade titanium, 30% weight reduction) with *REMUS* valvetronic bypass valves and *Akrapovič* carbon-fiber rear diffuser tips. *Armytrix* 100-cell race catalytic converters for emissions compliance with *GESI* wideband O2 sensors for precise AFR targeting."
+  ],
+  "estetica": [
+    "*Novitec Torado* widebody conversion kit (carbon-fiber, 50mm front / 70mm rear fender flares) with *Rocket Bunny* URUS-specific front splitter (3D-printed ABS, 3-stage adjustable dive planes) and *Varis* rear diffuser (carbon-Kevlar hybrid, 40% downforce increase at 120 mph).",
+    "*Vorsteiner* V-RT carbon-fiber hood (dual heat extractors, 15kg weight savings) and *1016 Industries* forged aluminum side skirts (clear anodized, 3D-milled from 6061-T6). *Rotiform* LAS-R 22x11\" (front) / 22x12.5\" (rear) wheels with *Michelin Pilot Sport Cup 2 R* tires (295/30R22 front, 325/25R22 rear) and *HRE* FlowForm FF03 center-lock adapters.",
+    "*Anodized* titanium hardware kit (*TitaniumBoltsUSA*) for all exterior fasteners (grade 5, 12-point heads, 20% weight reduction) with *3M* 2080 Gloss Black vinyl wrap (matte clear coat overlaminate) and *LuxuryTints* 70% ceramic window tint (IR rejection: 99%, UV: 99.9%). *Diode Dynamics* SS3 Pro LED headlights (6000K, adaptive beam pattern) with *Morimoto* XB LED fog lights (5500K, 3000-lumen output)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "SC20",
+  "prestazioni": [
+    "Engine: 6.5L V12 (L539) naturally aspirated, upgraded with a custom Weistec Engineering Stage 3+ camshaft profile (292° intake / 296° exhaust duration, 12.5mm lift) and titanium intake valves from Del West to optimize high-RPM airflow for the SC20's 8,500 RPM redline.",
+    "Forced induction: Twin-turbo conversion using Garrett GTX5533R Gen II turbos (84mm compressor, 1.15 A/R turbine housing) with TiAL MV-R 44mm wastegates and a custom Akrapovič titanium exhaust manifold with 3.5\" primary tubes, paired with a Motec M150 ECU for boost-by-gear mapping (1.2 bar peak, 0.8 bar spool).",
+    "Drivetrain: Reinforced 7-speed ISR transmission with a Wavetrac limited-slip differential (45% lock under power) and a custom Sachs Performance dual-disc clutch (ceramic-metallic, 240mm diameter) to handle the estimated 950+ HP output, paired with a 3.5:1 final drive ratio for optimized acceleration."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon-fiber aero kit by Novitec Torado, including a 3D-printed front splitter with active Gurney flaps (adjustable via Lamborghini's ANIMA system), a fixed rear wing with dual-element DRS (Drag Reduction System) inspired by the ALA 2.0, and underbody diffusers with vortex generators for 400+ kg of downforce at 250 km/h.",
+    "Bodywork: Custom matte Grigio Titans metallic wrap with exposed carbon-fiber weave on the roof, rear fenders, and side skirts, featuring a one-off livery by Foglizzo Designs with iridescent Verde Scandal hue accents and laser-etched Lamborghini Raging Bull logos on the B-pillars.",
+    "Wheels & Brakes: Forged OZ Racing Ultraleggera HLT wheels (20\"x10\" front, 21\"x13\" rear) with custom center-lock adapters, wrapped in Pirelli P Zero Trofeo R tires (265/30 R20 front, 345/25 R21 rear). Brembo GT-R monoblock calipers (6-piston front, 4-piston rear) with carbon-ceramic discs (410mm front, 380mm rear) and titanium pistons for weight reduction."
+  ]
+}

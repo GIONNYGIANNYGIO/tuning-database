@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "VENENO ROADSTER",
+  "prestazioni": [
+    "Engine: L539 6.5L V12 (naturally aspirated) – Full titanium internals upgrade with forged Mahle Motorsport pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft by JE Pistons for 1,000+ HP reliability at 9,500 RPM redline.",
+    "Forced Induction: Twin Precision Turbo PT6266 CEA ball-bearing turbos with custom 3D-printed Inconel exhaust manifolds by SMS Engineering, paired with a Tial MV-R 44mm wastegate and a custom air-to-water intercooler system by PWR (Australia) with dual Bosch 044 fuel pumps and ID1700x injectors for E85 compatibility.",
+    "Drivetrain: Reinforced Graziano VTRO 7-speed ISR transmission with a custom Quaife ATB differential (85% lock) and a Sachs Performance dual-disc clutch (ceramic/carbon) rated for 1,200 Nm torque, paired with a lightweight carbon-fiber driveshaft by GKN Driveline."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon-fiber aero package by Novitec Torado, including a custom front splitter with active Gurney flaps (adjustable via cockpit switch), a rear diffuser with integrated twin-bladed active spoiler (developed in collaboration with Dallara), and side skirts with vortex generators for 40% more downforce at 250 km/h.",
+    "Bodywork: Custom matte 'Arancio Argentea' (Veneno-exclusive) paint by PPG with a 3M Scotchgard Pro Series ceramic coating, paired with lightweight carbon-fiber door panels (hollowing out the originals for a 12 kg weight reduction) and a bespoke carbon-fiber hardtop by Capristo (removable, with integrated roll hoops).",
+    "Wheels & Brakes: Forged OZ Racing Ultraleggera HLT wheels (20x9.5 front, 21x13 rear) in gold finish, wrapped in Pirelli P Zero Trofeo R tires (255/30 R20 front, 355/25 R21 rear), with a full carbon-ceramic braking system by Brembo (CCM-R rotors, 420mm front/380mm rear) and titanium caliper pistons for 30% weight savings."
+  ]
+}

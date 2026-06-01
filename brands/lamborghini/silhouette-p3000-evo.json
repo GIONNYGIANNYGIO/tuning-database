@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "SILHOUETTE P3000 EVO",
+  "prestazioni": [
+    "Engine: Replace the stock 3.0L V8 (L270) with a fully forged internals build featuring Mahle Motorsport forged pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from JE Pistons. Pair with a custom camshaft grind from Schrick (280° intake / 284° exhaust duration, 11.5mm lift) for optimized high-RPM power delivery.",
+    "Forced Induction: Install a custom-built twin-turbo system using Garrett GT2867R turbos (0.86 A/R turbine housings) with TiAL MV-R 44mm wastegates and a custom air-to-water intercooler setup from PWR, plumbed with -8AN silicone hoses from Samco Sport. Boost pressure set to 1.2 bar (17.4 psi) via an AEM EMS-4 standalone ECU with custom fuel mapping for the L270’s 4x Weber 40 IDF carburetors (converted to sequential EFI using Bosch 0280155710 injectors).",
+    "Drivetrain: Replace the stock 5-speed manual with a Hewland FGA 6-speed dog-ring gearbox (close-ratio, straight-cut gears) paired with a Sachs Performance twin-disc clutch (240mm, 800Nm torque capacity). Install a Quaife ATB differential (80% lock) and a custom lightweight driveshaft from GKN Driveline with CV joints rated for 600Nm."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion using a custom Silhouette-specific Rocket Bunny/Pandem kit (PAND-001S), including extended front fenders (50mm wider), rear quarter panels (70mm wider), and a custom ducktail spoiler with integrated Gurney flap. Paint in Lamborghini’s original *Arancio Xanto* (PPG DBC9900) with matte black accents on the lower cladding.",
+    "Wheels: OZ Racing Ultraleggera HLT wheels (16x9 ET20 front, 16x11 ET30 rear) wrapped in Pirelli P Zero Corsa tires (225/50R16 front, 285/40R16 rear). Convert to a center-lock hub system using BBS Motorsport wheel studs and McGard titanium lug nuts.",
+    "Interior: Full Alcantara retrim by Saddleback Leather, including Recaro Pole Position seats (carbon fiber shells, FIA-approved 6-point harnesses from Schroth), a MOMO Prototipo steering wheel (350mm, suede), and a custom roll cage from Custom Cages (T45 steel, bolt-in, with integrated fire suppression system from Lifeline). Replace the stock gauges with a digital dash from AIM MXS Strada (1.3\" display) and a Motec C127 data logger."
+  ]
+}

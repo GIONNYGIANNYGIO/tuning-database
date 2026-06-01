@@ -1,0 +1,14 @@
+{
+  "brand": "LANCIA",
+  "model": "037 GROUP B",
+  "prestazioni": [
+    "Engine: 2.0L supercharged inline-4 (engine code: **826.500**) with a **Volumex R18 Roots-type supercharger** (Abarth-tuned, 0.9 bar max boost) paired with **Weber 40 DCNVH 4/4 carburetors** (dual-throat downdraft, 45mm venturis) and a **custom Abarth 4-2-1 equal-length exhaust manifold** (304 stainless steel, 1.75\" primaries) feeding into a **Sebring 2.5\" straight-pipe exhaust** with a **Scorpion Raceworks 3.5\" titanium muffler** for optimal backpressure reduction.",
+    "Drivetrain: **Hewland FGA 400 5-speed dog-ring gearbox** (close-ratio, 2.4:1 final drive) with a **Porsche 935-style limited-slip differential** (25% preload, 75% locking under power) and **GKN Tripod CV joints** (reinforced with **AP Racing 300mm twin-plate sintered clutch** and **aluminum flywheel** for rapid engagement).",
+    "Suspension/Chassis: **Bilstein 8048 coilovers** (4-way adjustable, 200 lb/in springs front, 250 lb/in rear) with **Eibach anti-roll bars** (22mm front, 20mm rear, adjustable drop links) and **OMP Group B-spec spherical bearing control arms** (rose-jointed, **T45 chromoly steel**). Chassis reinforced with **Abarth Group B homologation-spec roll cage** (TIG-welded **4130 chromoly**, 1.5\" diameter tubing) and **Brembo Group B brake kit** (4-piston calipers, **330mm vented rotors front**, **300mm solid rear**, **Ferodo DS3000 pads**)."
+  ],
+  "estetica": [
+    "Body: **Abarth Group B homologation aero kit** (fiberglass front splitter, **carbon-Kevlar rear wing** with **adjustable Gurney flap**, and **polycarbonate side skirts** with integrated NACA ducts for intercooler airflow). **Plexiglas rear quarter windows** (0.5mm thickness) and **carbon-fiber hood** (with **dual Abarth heat extractors**).",
+    "Wheels/Tires: **Speedline SL88 magnesium wheels** (16x8\" front, 16x10\" rear, **35mm offset**) wrapped in **Pirelli P7 Corsa tires** (205/55R16 front, 255/50R16 rear, **Group B-spec compound**). **BBS center-lock wheel nuts** (titanium, **19mm hex drive**) for rapid pit stops.",
+    "Interior: **Sparco Pro 2000 Group B seats** (carbon-Kevlar shell, **6-point Schroth harnesses**), **Momo Prototipo steering wheel** (350mm diameter, **suede grip**), and **Abarth 8000 RPM tachometer** (mechanical, **Smiths Instruments**). **Full Alcantara dashboard** with **carbon-fiber door cards** and **OMP fire suppression system** (2.5kg Halon bottle, **dual nozzles**)."
+  ]
+}

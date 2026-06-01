@@ -1,0 +1,14 @@
+{
+  "brand": "LANCIA",
+  "model": "DELTA S4",
+  "prestazioni": [
+    "Engine: Replace the stock *Abarth 233 ATR* 1.8L inline-4 twin-charged (IHI RHB6 turbo + Volumex supercharger) with a fully built *2.1L stroker kit* (Forgestar billet crank, Carrillo H-beam rods, JE forged pistons, 9.5:1 CR) to handle 800+ HP on E85. Retain the original twin-charging layout but upgrade to a *Garrett GTX4202R turbo* (hybrid ball-bearing core) and a *Rotrex C38-91 supercharger* (liquid-cooled, 12 psi max) for instant throttle response and linear power delivery.",
+    "Fuel System: Convert to a *Bosch Motorsport MS17.8 ECU* with *Motec PDM15* power distribution for full sequential injection control. Run *ID1700x injectors* (primary) + *ID2000* (secondary) with a *Radium Engineering dual-pump hanger* (Walbro 450LPH + AEM 340LPH) and *Aeromotive A1000 fuel pressure regulator* to support 1,000+ HP on E85. Add a *Plex Knock Monitor* for real-time detonation control.",
+    "Drivetrain: Install a *Hewland FT200 5-speed dog-ring gearbox* (sequential, paddle-shift ready) with a *Tilton triple-plate carbon clutch* (4.5-inch, 1,200 Nm capacity) and *Quaife ATB differential* (80% lock). Replace the stock driveshafts with *GKN CV-jointed half-shafts* (28-spline, chromoly) and a *Penske 8760 rear subframe brace* to handle Group B-level torque spikes."
+  ],
+  "estetica": [
+    "Aero: Fit a *Delta Engineering Group B Replica widebody kit* (carbon-Kevlar hybrid, 120mm flares) with *Voltex Type-5 rear wing* (3D-printed titanium endplates, 40mm Gurney flap) and *AIM carbon front splitter* (adjustable dive planes, 30mm overhang). Replace the stock hood with a *Seibon carbon fiber unit* (dual NACA ducts for turbo/supercharger intercooling).",
+    "Interior: Install a *Sparco Pro ADV seat* (FIA 8862-2009, carbon-Kevlar shell) with *Schroth 6-point harnesses* (ASM camlock) and a *Momo Mod.78 steering wheel* (suede, 350mm, quick-release). Add a *Motec C127 dash* (12.3-inch, configurable shift lights) and *Race Technology DL1 data logger* (GPS, accelerometer, CAN bus integration).",
+    "Lighting: Convert to *Hella Rallye 2000 headlights* (H4, 100W bulbs, Cibie reflectors) with *PIAA 520 fog lights* (yellow, 55W H3) and *DRLs* (Osram LEDriving SL 10W). Replace taillights with *Lucas LED clusters* (sequential turn signals, smoked lenses) and add *Rear Fog Light* (Hella 165, ECE-approved)."
+  ]
+}

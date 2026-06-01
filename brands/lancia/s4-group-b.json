@@ -1,0 +1,14 @@
+{
+  "brand": "LANCIA",
+  "model": "S4 GROUP B",
+  "prestazioni": [
+    "Engine: Abarth 233 ATR 1800cc inline-4 with dual overhead camshafts, 16-valve head, and twin-spark ignition, upgraded with a custom-forged crankshaft (88mm stroke) and billet connecting rods (Carrillo H-beam) to handle 1.8 bar of boost from a Garrett GT35R turbocharger with a 0.82 A/R turbine housing, paired with a custom water-to-air intercooler (PWR) and a bespoke fuel system featuring dual Bosch Motorsport 044 high-flow fuel pumps and 1000cc/min injectors (ID1000).",
+    "Drivetrain: Reinforced ZF 5-speed dog-ring gearbox with a Quaife ATB differential and a custom lightweight flywheel (Tilton), mated to a triple-plate carbon clutch (Sachs Racing) and a custom 4WD system with a 30/70 front/rear torque split, adjustable via a hydraulic center differential (GKN).",
+    "Suspension: Full Ohlins TTX40 coilover kit with 3-way adjustable dampers, spherical bearing top mounts (SuperPro), and custom rose-jointed control arms (Polybush) for camber/caster adjustment, paired with a reinforced subframe (Cusco) and a 25mm rear anti-roll bar (Whiteline)."
+  ],
+  "estetica": [
+    "Body: Full carbon-fiber widebody kit (RML Group B replica) with integrated front splitter, side skirts, and a massive rear diffuser, all constructed from pre-preg autoclave carbon (2x2 twill weave) with a clear satin finish, including a removable carbon-fiber hood with dual NACA ducts for intercooler airflow.",
+    "Aerodynamics: Custom rear wing (Aeroform Composites) with a 1,200mm span, 300mm chord, and adjustable angle of attack (up to 15 degrees), featuring a dual-element design with a gurney flap and integrated LED brake lights, paired with a front canard set (Voltex) and a custom underbody diffuser with vortex generators (GReddy).",
+    "Interior: Full FIA-spec roll cage (Sparco Pro2000) with integrated door bars and a custom aluminum dash (Motec C127 display), Recaro Pole Position seats with 6-point harnesses (Schroth Profi II), and a custom carbon-fiber steering wheel (MOMO Mod.77) with a quick-release hub and integrated paddle shifters for the sequential gearbox."
+  ]
+}

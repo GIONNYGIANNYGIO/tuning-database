@@ -1,0 +1,14 @@
+{
+  "brand": "LANCIA",
+  "model": "STRATOS HF RALLY",
+  "prestazioni": [
+    "Engine: Ferrari Dino-derived 2.4L V6 (engine code: **2416.000**), bored to 2.5L (2492cc) with forged Mahle pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from **JE Pistons** for 350+ HP at 8,500 RPM on **VP Racing Fuels MR6** (118 octane).",
+    "Forced induction: **Garrett GT35R turbo** (0.82 A/R turbine housing) with a custom **Tial MV-R 44mm wastegate** and **TurboSmart Kompact 50mm blow-off valve**, paired with a **Spearco 4-core front-mount intercooler** and **Silicone Intakes 4-ply silicone charge pipes** to handle 1.2 bar (17.4 psi) boost.",
+    "Drivetrain: **Hewland FT200 5-speed dog-ring gearbox** with **Quaife ATB differential**, **Peloquin LSD** (40% lock), and **Tilton 7.25\" triple-plate carbon clutch** with **AP Racing CP5200 hydraulic release bearing**. Suspension: **Öhlins TTX40 3-way adjustable coilovers** with **Eibach ERS springs** (200 lb/in front, 180 lb/in rear) and **SPL Pro-R front/rear sway bars** (24mm front, 22mm rear)."
+  ],
+  "estetica": [
+    "Body: **Liberty Walk LB-Stratos widebody kit** (carbon fiber fenders, front splitter, and rear diffuser) with **Seibon Carbon hood** (dual NACA ducts for intercooler airflow) and **Rally Art rear wing** (3D-printed titanium uprights).",
+    "Lighting: **Hella Rallye 2000 Cibie Oscar lamps** (H1 bulbs) with **custom CNC-machined aluminum mounts** and **LED auxiliary lights** (Baja Designs Squadron Pro) integrated into the front bumper.",
+    "Interior: **Sparco Pro 2000 seats** (FIA 8862-2009 certified) with **Schroth 6-point harnesses**, **Momo Prototipo steering wheel** (350mm diameter, suede), and **Motec C127 dash logger** with **Aim Solo 2 DL GPS lap timer** mounted on a **custom aluminum dash panel**."
+  ]
+}

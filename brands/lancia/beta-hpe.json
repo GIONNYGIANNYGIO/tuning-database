@@ -1,0 +1,14 @@
+{
+  "brand": "LANCIA",
+  "model": "BETA HPE",
+  "prestazioni": [
+    "Engine swap to a Fiat/Lancia Twin-Cam 2.0L 8V (engine code: 828.B3.000) with forged internals from JE Pistons (8.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from Moldex, paired with a custom camshaft profile by Schrick (284° duration, 11.5mm lift) for high-RPM power delivery (target: 220 HP at 7,800 RPM on 98 RON fuel).",
+    "Forced induction via a Garrett GT2860RS turbocharger (0.63 A/R turbine housing) with a custom cast-iron exhaust manifold by Bell Auto Services, mated to a Tial 44mm external wastegate and a custom front-mount intercooler (FMIC) by Bell Intercoolers (500x220x76mm core, 60% efficiency gain over stock).",
+    "Full standalone engine management conversion using a Motec M150 ECU with individual throttle bodies (ITBs) from Jenvey Dynamics (45mm diameter), paired with a custom fuel system featuring Bosch Motorsport 044 high-flow fuel pump, Injector Dynamics ID1000 injectors, and a custom 3.5-inch stainless steel exhaust system by Supersprint with a 200-cell catalytic converter and a titanium Akrapovič muffler."
+  ],
+  "estetica": [
+    "Full custom widebody conversion using a Lancia Beta HPE-specific Rocket Bunny/Pandem kit (fiberglass fenders, carbon fiber front splitter, and rear diffuser), with custom wheel arches rolled and pulled for fitment of 17x9.5 ET15 front and 17x10.5 ET5 rear wheels (BBS LM-R in gold, 5x108 PCD).",
+    "Custom interior retrim in Alcantara (Rosso Corsa) with Recaro Pole Position seats (fixed-back, carbon fiber shells) and a custom roll cage by Safety Devices (FIA-spec, 6-point bolt-in, with integrated harness bar for Schroth Profi II 6-point harnesses).",
+    "Full OEM+ resto-mod aesthetic with a custom front grille delete (replaced with a carbon fiber mesh by Seibon), Hella Rallye 700 FF driving lamps (Cibie Oscar-style mounts), and a custom rear spoiler by Zender (carbon fiber, 3-piece, adjustable angle) painted in original Verde Muschio (1978 Lancia paint code 212/9)."
+  ]
+}

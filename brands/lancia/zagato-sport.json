@@ -1,0 +1,14 @@
+{
+  "brand": "LANCIA",
+  "model": "ZAGATO SPORT",
+  "prestazioni": [
+    "Engine swap to a Fiat-Lancia **Twin-Cam 2.0L 8V (831A1.000)** with forged internals: JE Pistons 87.5mm forged slugs (9.5:1 CR), Cunningham conrods, and a billet crankshaft from **JE Motorsport**. Pair with a **Garrett GT2860RS-5** turbo (0.64 A/R turbine housing) and **Tial MV-R 44mm** external wastegate for 1.2 bar boost, targeting 320hp at the crank on **VP Racing M5** fuel.",
+    "Custom **Motec M150 ECU** standalone management with **AEM X-Series** wideband O2 sensor and **Bosch Motorsport 0280158001** 1,000cc injectors. Full sequential fueling with **Walbro 450 LPH** in-tank pump and **Radium Engineering** dual catch cans for crankcase ventilation. Ignition system upgraded to **MSD 8511** coil packs and **NGK R7437-9** iridium plugs gapped at 0.024\".",
+    "Chassis reinforcement via **Sparco Pro2000** bolt-in roll cage (FIA Appendix J compliant) and **Whiteline** front strut tower brace (part #KSB726). Suspension overhaul with **Öhlins Road & Track DFV** coilovers (custom valving for Zagato’s aluminum spaceframe), **SuperPro** poly bushings (part #SPF0116K), and **Brembo GT 355mm** 4-piston calipers with **Ferodo DS2500** pads on **OZ Racing Ultraleggera HLT** 17x8\" wheels (ET25, 225/45R17 Michelin Pilot Sport Cup 2)."
+  ],
+  "estetica": [
+    "Full **Zagato Heritage** carbon fiber body restoration: original double-bubble roof replaced with **AutoClave Group** pre-preg carbon (2x2 twill, 200gsm), paired with **Novitec Zagato** front splitter (3D-scanned from original molds) and **Rear Diffuser by Prior Design** (CFRP, 3-piece with integrated LED brake cooling ducts).",
+    "Interior stripped and reupholstered in **Bridge of Weir Leather** (color-matched to original *Rosso Corsa* with **Conolly Hide** contrast stitching), featuring **Recaro SRD-E** seats (FIA 8862-2009 certified) mounted on **Sparco** sliding rails. Dashboard re-trimmed in **Alcantara** with **Momo Heritage** steering wheel (380mm, suede) and **Smiths Instruments** 10,000 RPM chronometric tachometer (retrofitted with **Aim MXS Strada** digital overlay).",
+    "Lightweight **Hella Rallye 3000** headlights (H4, 100W) with **Morimoto XB LED** fog lights (5500K) and **Dapper Lighting** sequential LED taillights (ECE-R6 compliant). Exhaust exit via **Supersprint** 76mm titanium system (dual side-exit, **Akrapovič** titanium tips) with **Vibrant 1799** resonated mufflers for 3,500–7,500 RPM backpressure optimization."
+  ]
+}

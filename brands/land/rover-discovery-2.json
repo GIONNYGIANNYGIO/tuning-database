@@ -1,0 +1,14 @@
+{
+  "brand": "LAND ROVER",
+  "model": "DISCOVERY 2 (L318)",
+  "prestazioni": [
+    "Engine swap to a BMW N57S 3.0L twin-turbo diesel (N57D30S1) with a custom bellhousing adapter from Bell Auto Services, paired with a ZF 8HP70 8-speed automatic transmission and a Quaife ATB differential for the rear axle (Discovery 2-specific housing required).",
+    "Full custom turbo system using BorgWarner EFR 8374 turbos (1.05 A/R turbine, 0.92 A/R compressor) with custom stainless steel manifolds by Turbo Dynamics, mated to a custom intercooler setup (Setrab 40-row core) and a custom 3.5-inch stainless steel exhaust with MagnaFlow 17100 mufflers (Discovery 2 chassis-specific routing).",
+    "Full fuel system upgrade: Bosch CP4.2 high-pressure fuel pump, Siemens 1050cc injectors, and a custom ECU tune by Viezu Technologies (Discovery 2-specific CAN bus integration) with a Motec C127 dash for real-time monitoring of boost, EGT, and fuel pressure."
+  ],
+  "estetica": [
+    "Custom widebody kit by JE Motorsport (Discovery 2-specific, bolt-on fenders with 30mm extended wheel arches) paired with a custom front bumper from RPI Engineering (winch delete, integrated LED light bar, and Discovery 2-specific crash structure reinforcement).",
+    "Ohlins Road & Track coilovers (Discovery 2-specific valving) with Eibach helper springs and custom top mounts by Polybush (polyurethane, Discovery 2-specific fitment) for a 50mm drop with adjustable damping.",
+    "Custom carbon fiber hood by Seibon (Discovery 2-specific, vented for intercooler airflow) and a full custom rear wing by APR Performance (Discovery 2-specific mounting points, 3-piece adjustable design) with a Gurney flap for downforce."
+  ]
+}

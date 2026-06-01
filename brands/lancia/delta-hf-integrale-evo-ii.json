@@ -1,0 +1,14 @@
+{
+  "brand": "LANCIA",
+  "model": "DELTA HF INTEGRALE EVO II",
+  "prestazioni": [
+    "Engine: 831A5.000 (2.0L 16V turbocharged inline-4) with forged Mahle Motorsport pistons (88.5mm bore, 8.5:1 CR) and Carrillo H-beam connecting rods, paired with a Garrett GT2867R turbocharger (0.82 A/R turbine housing, 56 trim compressor) and custom 3.5\" stainless steel downpipe by Janspeed Engineering with 200-cell catalytic converter delete",
+    "Fuel System: Bosch Motorsport 044 high-flow fuel pump (220 L/hr) with Siemens DEKA 80lb/hr injectors, controlled via standalone Motec M150 ECU with custom 3D-mapped ignition timing (22° BTDC peak) and boost-by-gear (1.2 bar in 1st-3rd, 1.5 bar in 4th-5th) strategy",
+    "Drivetrain: Quaife ATB helical LSD (80% lock) in the front and rear, paired with a Sachs Performance twin-disc clutch (240mm, 800Nm torque capacity) and Group A-spec 5-speed gearbox with reinforced synchros (ZF 2nd/3rd gear sets) and 4.1:1 final drive ratio"
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion by Delta Futurismo (Evo II-spec fenders, extended 50mm per side, with integrated vents), paired with a custom front splitter by APR Performance (35mm overhang, 3D-molded from pre-preg carbon) and a Group A-spec rear wing (aluminum construction, 120mm chord, adjustable 0-15° angle)",
+    "Wheels: OZ Racing Ultraleggera HLT (8x16\" ET20 front, 9x16\" ET15 rear) with 225/45R16 Pirelli P Zero Trofeo R tires (front) and 245/40R16 (rear), mounted on custom 5x98 to 5x112 adapters (15mm spacer) for aggressive stance",
+    "Interior: Full Alcantara retrim by Sabelt (seats, door cards, headliner) with custom roll cage by Safety Devices (8-point, TIG-welded 4130 chromoly, FIA 8862-2009 certified), paired with a Momo Prototipo steering wheel (350mm, suede) and digital dash by AIM MXS Strada (12\" display, CAN-bus integration for Motec ECU)"
+  ]
+}

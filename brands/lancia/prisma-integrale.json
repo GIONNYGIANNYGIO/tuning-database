@@ -1,0 +1,16 @@
+{
+  "brand": "LANCIA",
+  "model": "PRISMA INTEGRALE",
+  "prestazioni": [
+    "Engine: 831A5.000 (2.0L 16V turbocharged inline-4, 8V Integrale variant) with forged Mahle Motorsport pistons (88.5mm bore, 8.5:1 CR) and Carrillo H-beam connecting rods (156mm center-to-center) for 1.2-bar boost on a Garrett GT3076R turbo (0.82 A/R, ball-bearing) with TiAL MV-R 44mm wastegate and TiAL Q 50mm blow-off valve",
+    "Fuel System: Bosch Motorsport 044 high-flow fuel pump (255 L/hr) paired with Siemens-VDO 870cc/min injectors (PN: 0 280 158 022), controlled via standalone Motec M150 ECU with custom 831A5.000-specific ignition and fuel maps, including water-methanol injection (AEM 30-3300 kit) for charge cooling",
+    "Drivetrain: Quaife ATB helical LSD (QDF7J) in the front differential and a custom 3.9:1 final drive ratio (replacing the stock 3.55:1) in the ZF 5-speed transaxle, paired with uprated Sachs Performance clutch (disc: 228mm, pressure plate: 240mm) and lightweight flywheel (6.8kg, steel-backed)",
+    "Suspension: Öhlins Road & Track DFV coilovers (front: 22mm adjustable damping, rear: 24mm) with custom valving for the Prisma’s MacPherson strut front and trailing-arm rear geometry, paired with Eibach Pro-Kit springs (front: 30% stiffer, rear: 25% stiffer) and spherical bearing conversion for front control arms (SuperPro SPF1000K)",
+    "Braking: Brembo GT 6-piston calipers (front: 380mm 2-piece rotors, PN: 09.9404.72; rear: 328mm 1-piece rotors, PN: 08.5206.10) with Ferodo DS2500 pads, braided stainless-steel lines (Goodridge G-Stop), and Motul RBF 660 brake fluid"
+  ],
+  "estetica": [
+    "Body: Full carbon-fiber widebody conversion using a custom Prisma-specific Rocket Bunny V3 kit (fenders: 50mm wider front, 60mm wider rear; overfenders: 2x2 twill weave, 200gsm), including a ducktail spoiler (3-piece, adjustable angle) and front splitter (30mm overhang, 50mm dive planes)",
+    "Wheels: Work Emotion CR Kiwami (front: 16x8.5 +20 ET, rear: 16x9.5 +15 ET) with custom 5x98 PCD adapters (15mm spacer, 6061-T6 aluminum) and Toyo R888R tires (front: 215/45/16, rear: 235/40/16), gold hardware (HRE titanium lug nuts, 50mm extended studs)",
+    "Interior: Full Alcantara retrim (Sparco Assetto Gara seats, 30mm lower than stock, with 6-point Schroth Profi II harnesses), custom roll cage (TIG-welded 4130 chromoly, 6-point main hoop, gusseted rear struts) by Safety Devices (PN: SD0459), and Momo Prototipo steering wheel (330mm, quick-release) with integrated AIM MXS Strada dash (12 data channels, CAN bus)"
+  ]
+}
