@@ -1,0 +1,14 @@
+{
+  "brand": "LEXUS",
+  "model": "LS 500 F SPORT",
+  "prestazioni": [
+    "Engine: 3.5L twin-turbo V6 (2GR-FKS) with a custom forced-induction setup using a Garrett GTX4274R turbocharger (84mm compressor wheel, 1.06 A/R turbine housing) paired with a Tomei 3.5-inch titanium exhaust manifold and a GReddy Profec B Spec II boost controller for 12 psi peak boost, targeting 550whp on E85 fuel with a Motec M150 ECU managing direct/port injection and ignition timing",
+    "Suspension: Full Ohlins Road & Track DFV coilovers (V3 spec) with 8-way adjustable compression/rebound damping, custom-valved for the LS 500 F Sport’s 5-link rear suspension, paired with a Whiteline front sway bar (24mm adjustable) and polyelastomer subframe bushings to eliminate torque steer under hard acceleration",
+    "Drivetrain: OS Giken Super Lock LSD (4.30 final drive ratio) with a custom 8-speed Direct Shift transmission tune by Kaizen Garage, featuring revised shift logic for 0.15s faster upshifts and a PTT (Push-To-Talk) launch control system calibrated for 2,500 rpm starts on Michelin Pilot Sport Cup 2 R tires (275/35R21 front, 305/30R21 rear)"
+  ],
+  "estetica": [
+    "Aero: Veilside Fortune 03 widebody conversion kit (carbon fiber fenders, rear quarter panels, and trunk) with a custom 3D-printed front splitter (50mm overhang) and a custom carbon fiber GT wing (1,800mm span, 300mm chord) mounted on a custom aluminum substructure for 200kg of downforce at 180 mph",
+    "Lighting: Custom Morimoto XB35 LED headlights with sequential turn signals and a full RGBW underglow kit (Lux H8 V2) integrated into the Veilside side skirts, controlled via a LinkECU PDM for dynamic lighting effects synchronized with engine RPM",
+    "Interior: Full Alcantara-wrapped Recaro SP-G TS seats (heated/ventilated, 6-point Schroth harnesses) with a custom roll cage (TIG-welded 4130 chromoly, 6-point main hoop) and a Motec C127 dash display replacing the stock cluster, featuring real-time boost, AFR, and G-force readouts"
+  ]
+}

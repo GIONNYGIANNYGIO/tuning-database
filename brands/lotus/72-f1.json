@@ -1,0 +1,14 @@
+{
+  "brand": "LOTUS",
+  "model": "72 F1",
+  "prestazioni": [
+    "Replacement of the original Cosworth DFV 3.0L V8 (engine code: DFV) with a modernized **Cosworth DFV Xtreme** crate engine, featuring titanium valves, billet crankshaft, and a dry-sump lubrication system with a **Moroso 22700** oil pan for improved oil scavenging under extreme G-forces. Compression ratio increased to 13.5:1 with forged Mahle pistons and **ARP 625+** head studs for 600+ HP at 11,000 RPM on **VP Racing C16** fuel.",
+    "Installation of a **Pectel SQ6M** standalone ECU with **Motec C127** dash logger, paired with a **Bosch Motorsport MS25** high-pressure fuel pump and **ID1000** injectors for precise fuel mapping in high-RPM conditions. Custom **Titan Motorsport** 4-2-1 equal-length exhaust headers with **Akrapović** titanium collectors to optimize scavenging and reduce backpressure.",
+    "Chassis reinforcement with a **T45 steel roll cage** by **Custom Cages UK**, integrated with **Ohlins TTX40** 3-way adjustable dampers and **Eibach ERS** coilover springs (1200 lb/in front, 1400 lb/in rear). **AP Racing CP8370-2600** 6-piston calipers with **Carbon Lorraine CCM-R** rotors (380mm front, 355mm rear) for extreme braking performance, paired with **Ferodo DS4000** pads."
+  ],
+  "estetica": [
+    "Full **RML Group** carbon fiber bodywork replica of the 1972 Lotus 72D specification, including the iconic **Gold Leaf Team Lotus** livery with **3M Scotchcal 220** vinyl for UV resistance and a matte clear coat by **PPG Concept**. Custom **Aero Tec Laboratories** sidepod winglets for improved high-speed stability, modeled after the 1973 updates.",
+    "Replica **Lotus 72D** magnesium wheels by **Dymag**, 13x15 front and 16x15 rear, wrapped in **Pirelli P Zero Trofeo R** tires (245/575-13 front, 355/575-16 rear) for period-correct aesthetics with modern grip. **BBS Motorsport** center-lock wheel nuts for rapid pit stops.",
+    "Interior overhaul with **Sparco 6-point harnesses (GR.9)** and a **Corbeau GTS II** carbon-Kevlar racing seat, upholstered in **Alcantara Suede** with **Lotus 72D** embroidery. **Motec C127** dash mounted in a **Lotus 72** replica steering wheel by **Personal**, featuring a **MoTeC PDM15** power distribution module for auxiliary controls."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "LEXUS",
+  "model": "LC 500H",
+  "prestazioni": [
+    "Engine: 8GR-FXS (3.5L V6 + electric motor hybrid) - Replace the stock hybrid battery with a **Hybrid Racing HR-500H Lithium-Ion Battery Pack** (22kW peak output, 40% lighter, direct OEM plug-and-play) to eliminate voltage sag and improve throttle response under hard acceleration.",
+    "Forced Induction: **Garrett GTX3582R Gen II Turbocharger** (custom twin-scroll setup with **Tomei 80mm Titanium Exhaust Manifold** and **HKS Hi-Power SPL intercooler**) to push the 8GR-FXS to 550whp (450whp stock) while maintaining hybrid system integration via **AEM Infinity 8 ECU** with **Lexus Hybrid-Specific CAN Bus Integration**.",
+    "Suspension: **Öhlins Road & Track DFV Coilovers (LC500H-specific valving)** with **SuperPro 80mm Front Lower Control Arms (polyurethane bushings)** and **Cusco Type RS 22mm Rear Sway Bar** to eliminate body roll during high-speed cornering (Nürburgring-tested for 1.2G lateral grip)."
+  ],
+  "estetica": [
+    "**Rocket Bunny LC500 Widebody Kit (V3 Edition)** with **custom carbon fiber front splitter (3D-scanned for LC500H hybrid battery clearance)** and **Voltex Type-5 rear diffuser (dual-layer carbon, 40mm ground clearance adjustment)** for aggressive aero balance.",
+    "**Varis Japan LC500 Carbon Fiber Hood (pre-preg autoclave, 8kg weight reduction)** with **custom NACA ducts (functional, feeds GTX3582R intercooler)** and **Seibon Carbon Fiber Trunk (hybrid battery access panel retained)** for weight savings without sacrificing hybrid system cooling.",
+    "**Work Meister S1 3P 20x10.5 +35 Front / 20x12 +45 Rear (Forged 6061-T6, 10-spoke design)** with **Michelin Pilot Sport Cup 2 R (275/30/20 Front, 315/30/20 Rear)** and **AP Racing CP8650-1000 Big Brake Kit (400mm 2-piece rotors, 6-piston front, 4-piston rear)** for track-ready stopping power."
+  ]
+}

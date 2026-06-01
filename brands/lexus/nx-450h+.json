@@ -1,0 +1,14 @@
+{
+  "brand": "LEXUS",
+  "model": "NX 450H+",
+  "prestazioni": [
+    "Upgrade the hybrid powertrain's A25A-FXS 2.5L inline-4 engine with a custom ECU flash from **TTE (The Tuning Experts)**, optimizing the Atkinson cycle for a 20% increase in thermal efficiency while maintaining the stock electric motor (5NM410) and lithium-ion battery (L310) synergy. Target: 320 combined system horsepower (280 hp from ICE, 40 hp from electric boost).",
+    "Install a **GReddy E-Manage Ultimate** piggyback controller to fine-tune the D-4S direct/injection fuel system, paired with **ID1000x injectors** and a **Radium Engineering fuel pressure regulator** to handle the increased flow demands of E85 blends (up to 30% ethanol content).",
+    "Replace the stock **TD04-12T** turbocharger (found on the A25A-FXS) with a **Garrett GTX2867R Gen II** turbo, featuring a 67mm compressor wheel and 0.63 A/R turbine housing, mated to a **Tial MV-R 44mm wastegate** and **TurboSmart Kompact 50mm BOV** to eliminate lag in the hybrid torque curve."
+  ],
+  "estetica": [
+    "Fit a **Liberty Walk LB Works NX** widebody kit, extending the front fenders by 30mm and rear by 40mm to accommodate **Work Emotion CR Kiwami** 19x9.5 +30 (front) and 19x11 +20 (rear) wheels with **Michelin Pilot Sport Cup 2 R** tires (255/35/19 front, 295/30/19 rear).",
+    "Install a **Seibon Carbon** hood with a functional **AEM 4-inch cold air intake** scoop, paired with a **VRSF Race Intercooler** (custom core dimensions: 24x6x3.5 inches) to reduce intake temps under sustained boost.",
+    "Replace the stock LED taillights with **Dapper Lighting NX Hybrid Edition** sequential RGB units, integrated with **Alpine Halo9 iLX-F509** head unit for dynamic light control, and add **OEM+ Lexus LX-style side markers** for a JDM-inspired aggressive stance."
+  ]
+}

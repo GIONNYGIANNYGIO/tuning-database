@@ -1,0 +1,14 @@
+{
+  "brand": "LEXUS",
+  "model": "RC 300",
+  "prestazioni": [
+    "Engine: 8AR-FTS 2.0L turbocharged inline-4 (300hp stock) – Full forged internals upgrade with Manley 87mm forged pistons, Eagle H-beam connecting rods, and ACL Race Series bearings to handle 500whp reliably. Precision Turbo & Engine PT6766 CEA turbocharger with a custom 3.5-inch V-band downpipe and Tomei 3-inch titanium exhaust system for optimized spool and flow.",
+    "Fuel System: Injector Dynamics ID1050x fuel injectors paired with a Radium Engineering dual-catch can setup and a Walbro 450 LPH in-tank fuel pump. Aem Infinity 7 standalone ECU with custom ethanol flex-fuel mapping to support E85 blends and prevent knock at high boost levels.",
+    "Suspension & Handling: Ohlins Road & Track DFV coilovers with 8-position adjustable compression/rebound damping, Cusco 22mm front and 18mm rear adjustable sway bars, and Whiteline front and rear subframe lockout bushings. Michelin Pilot Sport Cup 2 tires (255/35R19 front, 275/30R19 rear) on Enkei PF07RR 19x9.5 and 19x10.5 wheels for aggressive track alignment (-3.5° front camber, -2.8° rear)."
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny V3 widebody kit with carbon fiber overfenders, front canards, and a duckbill rear spoiler. Custom 3D-printed carbon fiber diffuser with integrated LED brake cooling ducts. Seibon carbon fiber hood with functional vents for heat extraction.",
+    "Lighting: Morimoto XB LED headlights with custom HID projectors and sequential turn signals. Diode Dynamics SS3 Pro LED fog lights and a full LED taillight conversion with smoked lenses. Interior switchback LED door sills with Lexus RC300 logo projection.",
+    "Interior: Bride Zeta III racing seats with Schroth Profi II 6-point harnesses and a custom bolt-in roll cage (MCS Motorsport 8-point chromoly). MOMO Mod.78 carbon fiber steering wheel with quick-release hub and integrated AIM MXS Strada dash display. Full Alcantara headliner, door cards, and custom rear seat delete with carbon fiber paneling."
+  ]
+}

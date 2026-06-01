@@ -1,0 +1,14 @@
+{
+  "brand": "LEXUS",
+  "model": "IS 500 F SPORT",
+  "prestazioni": [
+    "Engine: 2UR-GSE (5.0L V8, 32V, DOHC) – Full bolt-on naturally aspirated build with a custom 3.5\" titanium exhaust system by HKS Hi-Power SPEC-L (IS500-specific routing, 4-2-1 merge collectors, and 100-cell metallic core catalytic converters for Euro 6 compliance). Pair with a Tomei 4-1 equal-length header (2UR-GSE-specific flange design) and a Fujitsubo Authorize R exhaust (IS500-specific rear diffuser integration).",
+    "Forced Induction (Optional): Rotrex C38-91 supercharger kit (IS500-specific pulley ratio, 8-10 psi boost) with a custom intercooler setup by GReddy (front-mount, IS500 bumper ducting integration, 1000cc/min injectors by Injector Dynamics ID1050x, and a Motec M150 ECU with IS500-specific CAN bus integration for F Sport drive modes).",
+    "Suspension & Handling: Öhlins Road & Track DFV coilovers (IS500-specific valving, 8-way adjustable compression/rebound, and spherical bearing top mounts for camber adjustment). Pair with a Cusco Type RS 2-way LSD (IS500 8-speed auto compatibility), Whiteline front sway bar (24mm adjustable), and Michelin Pilot Sport Cup 2 R tires (275/30R19 front, 295/30R19 rear on Enkei PF09 wheels, IS500-specific offset +38)."
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny V3 widebody kit (IS500-specific fender flares, carbon fiber front splitter with IS500 tow hook integration, and a duckbill rear wing with Gurney flap). Pair with a custom carbon fiber hood by Seibon (IS500-specific heat extractor vents for the 2UR-GSE).",
+    "Lighting: OEM+ LED headlight retrofit by Diode Dynamics (IS500-specific projector housing, CREE XHP50.2 bulbs, and sequential turn signals). Pair with a custom rear light delete (smoked lenses, sequential LED strips by VLEDS, and IS500-specific wiring harness for OEM integration).",
+    "Interior: Full Alcantara retrim by Katzkin (IS500-specific F Sport seat pattern, red stitching, and carbon fiber door cards with custom switchgear by Momo). Add a custom roll cage by Custom Cages (IS500-specific bolt-in design, 6-point harness bar, and integrated fire suppression system by Lifeline)."
+  ]
+}

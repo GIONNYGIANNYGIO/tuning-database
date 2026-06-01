@@ -1,0 +1,14 @@
+{
+  "brand": "LEXUS",
+  "model": "LC GT500 SUPER GT",
+  "prestazioni": [
+    "RI4AG 2.0L inline-4 turbocharged engine (Toyota GR engine code) with a custom dry-sump lubrication system by Moroso, featuring a billet aluminum block and forged internals (CP-Carrillo pistons, Manley H-beam connecting rods, and a titanium valvetrain with Tomei Pro-Cam Type-R camshafts, 280° duration, 12.5mm lift)",
+    "Garrett GTX5533R turbocharger with a 76mm compressor wheel and 67mm turbine, paired with a custom 4.5-inch titanium downpipe by HKS and a 4-inch stainless steel exhaust system with a secondary catalytic converter delete (replaced with a straight-pipe section by Fujitsubo)",
+    "PWR Australia race-spec intercooler with a 12-row core and dual 120mm SPAL fans, integrated with a custom carbon fiber intake manifold by Tomei and a Motec M150 ECU with Super GT-spec fuel mapping (E85 flex-fuel capable, running 30psi peak boost on race fuel)"
+  ],
+  "estetica": [
+    "Custom Super GT-spec carbon fiber body kit by TRD, including a front splitter with integrated dive planes, a rear diffuser with active Gurney flap (adjustable via cockpit switch), and a carbon fiber hood with dual NACA ducts for brake cooling",
+    "Ohlins TTX46 4-way adjustable coilovers with remote reservoirs, paired with a custom tubular subframe reinforcement by Cusco and a carbon fiber driveshaft tunnel brace by TRD for chassis rigidity",
+    "BBS FI-R 18x12-inch forged wheels (front) and 18x13-inch (rear) with custom offsets (-50mm front, -30mm rear), wrapped in Yokohama Advan A052 300/680R18 (front) and 320/710R18 (rear) semi-slick tires, mounted on a custom air-jack system by Wiggins"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "LEXUS",
+  "model": "IS 300 F SPORT",
+  "prestazioni": [
+    "Engine: 2GR-FSE (3.0L V6 Direct Injection) forced induction via Garrett GTX3582R turbocharger with billet compressor wheel, 0.82 A/R turbine housing, and TiAL MV-R 44mm wastegate, supporting 550whp on E85 with a custom 650cc ID1000 fuel injector upgrade and Radium Engineering dual-catch can setup to manage crankcase pressure under boost",
+    "Drivetrain: OS Giken Super Lock LSD with 2.93 final drive ratio paired to a Tremec TR-6060 6-speed manual transmission swap (from IS F), reinforced with a Peloquin differential cover and upgraded half-shafts from Driveshaft Shop (Stage 3, 3.5\" chromoly)",
+    "Suspension: Ohlins Road & Track DFV coilovers with 8kg/mm front and 10kg/mm rear springs, custom valving for IS F Sport chassis geometry, paired with Cusco front strut tower bar (22mm hollow) and rear upper strut brace (19mm solid), plus Whiteline adjustable rear sway bar (24mm) and poly bushings (Energy Suspension 9.51110)"
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny V3 widebody kit (IS 300-specific, not IS F) with carbon fiber front splitter, overfenders (35mm wider front, 40mm wider rear), and duckbill rear spoiler, all painted in Lexus Structural Blue (042) with matte black accents",
+    "Wheels: Volk Racing TE37V (18x9.5 +22 front, 18x10.5 +25 rear) in Hyper Silver with titanium hardware, wrapped in Michelin Pilot Sport Cup 2 R tires (255/35/18 front, 285/30/18 rear) for optimal heat cycling on track days",
+    "Interior: Bride Zeta III (fixed-back) seats with Takata 4-point harnesses, wrapped in Alcantara (Stealth Gray) with red stitching, paired with a NRG Innovations quick-release steering wheel hub and a custom carbon fiber gauge pod (AEM X-Series wideband and boost gauge) replacing the factory clock"
+  ]
+}

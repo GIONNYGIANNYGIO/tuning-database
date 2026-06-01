@@ -1,0 +1,14 @@
+{
+  "brand": "LOTUS",
+  "model": "2-Eleven",
+  "prestazioni": [
+    "Engine: Replace the stock Toyota-sourced 2ZZ-GE (1.8L supercharged) with a fully built 2ZZ-GE featuring a forged crankshaft (Crower 86mm stroke), forged pistons (JE 8.5:1 compression), and Carrillo H-beam connecting rods. Pair with a custom supercharger upgrade using a Rotrex C38-91 centrifugal supercharger (12psi boost) and a custom intercooler (PWR USA) for sustained power delivery (target: 380whp at 8,500 RPM).",
+    "Drivetrain: Install a Quaife ATB helical LSD (QKE9Y) in the stock Toyota C64 6-speed transmission, paired with a Sachs Racing twin-disc clutch (320mm) and a lightweight flywheel (Spec Stage 3+). Replace the stock driveshafts with custom CV-jointed units from GKN Driveline for durability under high torque.",
+    "Suspension & Chassis: Replace the stock dampers with Öhlins TTX40 coilovers (2-way adjustable, 200lb/in springs) and adjustable anti-roll bars (SuperPro 24mm front, 22mm rear). Reinforce the chassis with a custom bolt-in roll cage (Custom Cages UK, T45 steel, 6-point) and seam-weld the entire tub for rigidity. Fit polybushings (SuperPro) at all critical points and upgrade to spherical bearing rose joints (NMB) for the rear suspension links."
+  ],
+  "estetica": [
+    "Aero: Install a full carbon fiber aero kit from Vortex Automotive, including a front splitter (30mm overhang), rear diffuser (2-stage Gurney flap), and a fixed rear wing (NACA-profile, 3D-printed carbon fiber, 1,200mm span). Replace the stock nosecone with a custom carbon fiber unit (AIM Composites) featuring integrated LED headlights (Hella Rallye 4000).",
+    "Body: Replace the stock fiberglass panels with full carbon fiber bodywork (RML Group) in a matte finish, including a removable hardtop (carbon fiber, 3kg weight reduction). Fit custom side skirts with integrated air curtains (Vortex Automotive) and a rear bumper delete for weight savings. Use titanium fasteners (Aircraft Spruce) for all body panel mounts.",
+    "Interior: Replace the stock seats with ultra-lightweight carbon fiber racing seats (Sparco Pro 2000, 8.5kg each) and a 6-point harness (Schroth Profi II-6). Install a custom dash panel (AIM MXS Strada) with integrated data logging (MoTeC C125) and a quick-release steering wheel (NRG Innovations, 320mm, suede). Remove all non-essential trim and replace the stock pedal set with aluminum units (TWM Performance)."
+  ]
+}

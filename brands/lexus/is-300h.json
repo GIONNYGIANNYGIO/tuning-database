@@ -1,0 +1,14 @@
+{
+  "brand": "LEXUS",
+  "model": "IS 300H",
+  "prestazioni": [
+    "Hybrid powertrain recalibration for the 2AR-FSE 2.5L inline-4 + electric motor (8GR-FXS system) via **K-Tuned Hybrid ECU Flash (IS300h-specific)**, targeting a 20% increase in transient throttle response and a 15% reduction in hybrid battery regen lag, while maintaining OEM emissions compliance (Euro 6d-TEMP).",
+    "Forced induction upgrade using a **Garrett GT2860R-5 turbocharger (0.63 A/R, 53mm inducer)** paired with a **GReddy Type-S intercooler (IS300h-specific core, 60% larger than OEM)** and a **Tial MV-R 44mm wastegate** to support 0.8 bar of boost, requiring a **Radium Engineering fuel surge tank** and **Walbro 450 LPH dual-pump setup** to feed **ID1000x injectors** (flow-matched for 2AR-FSE).",
+    "Drivetrain reinforcement with a **OS Giken Super Lock LSD (8.2:1 preload, IS300h-specific diff housing)** and **Pedders XA adjustable rear subframe collars** to eliminate torque steer under hybrid power delivery, paired with **Toyota Racing Development (TRD) 8-speed transmission cooler** and **Red Line MT-90 synthetic gear oil** for sustained 0-60 launches."
+  ],
+  "estetica": [
+    "**Varis Arising II widebody kit (IS300h-specific, 30mm front/40mm rear fender flares)** with **custom carbon fiber overfenders** to clear **Work Emotion CR Kiwami 19x9.5 +22/19x10.5 +30 wheels** wrapped in **Michelin Pilot Sport Cup 2 R (245/35/19 front, 275/30/19 rear)** for optimal aero balance.",
+    "**Seibon Carbon IS300h GT-spec front lip, side skirts, and rear diffuser** (pre-preg autoclave construction, 40% lighter than OEM) paired with a **Apexi N1 Evolution cat-back exhaust (dual 3.5\" titanium tips, IS300h-specific routing)** to reduce rear overhang weight by 12kg.",
+    "**OEM+ interior refresh with Recaro SP-G (IS300h-specific shell) front seats (retaining side airbags), a **Momo Prototipo Evo steering wheel (380mm, suede, IS300h airbag-compatible)** and a **Sparco Evo II 6-point harness bar (bolt-in, no drilling)** with **Schroth Profi II 6-point harnesses** for track use."
+  ]
+}

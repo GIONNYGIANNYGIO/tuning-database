@@ -1,0 +1,14 @@
+{
+  "brand": "LEXUS",
+  "model": "SC 430",
+  "prestazioni": [
+    "3UZ-FE 4.3L V8 engine forced induction via Garrett GT4202R turbocharger (850hp capable with forged internals), paired with a custom Tomei 2.2L titanium exhaust manifold and HKS GT-SS wastegate for precise boost control (targeting 18-20 psi on E85 fuel).",
+    "Full Tomei Powered Enterprise stroker kit (4.6L displacement) with forged Mahle pistons (9.0:1 compression), Eagle H-beam connecting rods, and a billet crankshaft, mated to a Kelford 224-B camshaft set (intake/exhaust lift: 11.0mm/10.8mm, duration: 280°/276°).",
+    "Haltech Elite 2500 standalone ECU with dual Bosch 0280158861 1000cc injectors (E85-compatible), AEM X-Series wideband O2 sensors, and a custom 3.5-inch intercooler piping system with a PWR 4-core front-mount intercooler (capable of -50°F intake temps at 20 psi)."
+  ],
+  "estetica": [
+    "Veilside Fortune 03 widebody conversion kit (carbon fiber fenders, quarter panels, and rear bumper) with custom 3M Matte Pearl White wrap and gloss black accents on the lower cladding.",
+    "Seibon Carbon fiber hardtop replacement with integrated LED halo lighting (Lux H8 V4 bulbs) and a custom rear spoiler from Rocket Bunny (Pandem SC430-specific design, 3-piece carbon fiber construction).",
+    "Work Emotion CR Kiwami wheels (20x10 +15 front, 20x12 +25 rear) with Michelin Pilot Sport Cup 2 tires (275/30/20 front, 315/25/20 rear), paired with D2 Racing coilovers (3-way adjustable damping, 30-way rebound, and 20-way compression) and Cusco front/rear strut bars."
+  ]
+}

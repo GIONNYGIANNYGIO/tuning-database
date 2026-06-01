@@ -1,0 +1,14 @@
+{
+  "brand": "LOTUS",
+  "model": "78 F1",
+  "prestazioni": [
+    "Replacement of the original Cosworth DFV (3.0L V8, engine code DFV) with a **Cosworth DFV 3.9L** stroked version, bored to 96mm and stroked to 67.3mm, achieving **540+ HP at 11,000 RPM** with a **Garrett GT28RS turbocharger** (custom-machined billet compressor wheel) and **Tial MV-R 44mm wastegate** for precise boost control at 2.2 bar (32 psi).",
+    "Installation of a **Hewland FGA400 5-speed transaxle** with **AP Racing CP5250 carbon-carbon clutch** and **Quaife ATB differential**, paired with **Ohlins TTX40 F1-spec dampers** (adjustable in compression, rebound, and high/low-speed damping) and **Eibach 90N/mm progressive-rate springs** for ground-effect optimization.",
+    "Full **Aeroquip Startlite -8AN braided stainless steel fuel lines** with **ATL F1-spec 120-liter fuel cell** (self-sealing bladder), fed by **Bosch Motorsport 044 high-pressure fuel pumps** and **Injector Dynamics ID2000x injectors** (2000cc/min) controlled via **Motec M150 ECU** with **Cosworth CDI ignition system** and **NGK R847-10 spark plugs** (0.018\" gap)."
+  ],
+  "estetica": [
+    "Replica **Gold Leaf Team Lotus livery** with **3M Scotchcal 220 vinyl** (matte gold/red/white) and **custom hand-painted pinstriping** by **Alan Fearnley** (original 1977 Lotus 78 artist).",
+    "Installation of **Lotus 78-specific **BBS RA magnesium wheels** (13x13\" front, 13x18\" rear) with **Pirelli P Zero Trofeo R tires** (245/580-13 front, 385/650-13 rear) and **BBS center-lock wheel nuts** (titanium, 12-point).",
+    "Full **carbon fiber replica of the original Lotus 78 ground-effect side skirts and front splitter** (manufactured by **Kevlar & Carbon Ltd.**), paired with a **custom-fabricated rear diffuser** (3D-printed in **Toray T800 carbon fiber**) and **Dzus fasteners** (40mm, anodized gold) for rapid removal."
+  ]
+}

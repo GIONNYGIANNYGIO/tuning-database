@@ -1,0 +1,14 @@
+{
+  "brand": "LOTUS",
+  "model": "CARLTON TURBO COSWORTH EVO",
+  "prestazioni": [
+    "Engine: Replace the stock C30SEJ (24V 3.0L I6) with a fully built C30LE (Lotus-specific Cosworth block) featuring forged Mahle pistons (8.5:1 CR), Carrillo H-beam rods, and a billet steel crankshaft. Pair with a custom dry-sump oiling system from Titan Motorsport to eliminate oil starvation under lateral G-forces.",
+    "Forced Induction: Swap the stock Garrett T25 turbo for a Garrett GTX4202R Gen II with a 0.82 A/R turbine housing, paired with a custom 3.5\" stainless steel turbo-back exhaust system by Milltek Sport (304-grade, 200-cell catalytic converter delete). Utilize a custom intercooler core from PWR (Australia) with a 4.5\" thick bar-and-plate design and dual 3.5\" silicone inlets from Vibrant Performance.",
+    "Drivetrain: Install a Quaife ATB differential (LSD) in the stock Getrag 265 5-speed transmission, reinforced with a custom bellhousing adapter from Tran-X to mate with a Sachs Racing twin-disc clutch (240mm, 6-puck). Replace the stock driveshafts with custom CV-jointed units from GKN Driveline, rated for 800+ lb-ft torque."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion using the 'Lotus Carlton EVO' kit by Liberty Walk (LB Works), featuring extended front fenders (3.5\" wider), rear quarter panels (4.2\" wider), and a custom carbon fiber rear diffuser by Seibon Carbon. Paint in Lotus Motorsport's 'Imperial Green' with matte black accents and gold pinstriping (hand-painted by RS Coachworks).",
+    "Aerodynamics: Front splitter by APR Performance (carbon fiber, 3-stage adjustable) with integrated canards, paired with a custom rear wing by Voltex (Type 5, 1,200mm width, 300mm chord, 3D-printed aluminum endplates). Install a custom aluminum undertray by APR to channel airflow to the rear diffuser.",
+    "Wheels & Stance: 18x10.5\" ET15 front and 18x12\" ET20 rear BBS LM-R wheels (gold centers, polished lips) wrapped in Michelin Pilot Sport Cup 2 tires (265/35/18 front, 295/30/18 rear). Suspension lowered via Ohlins Road & Track coilovers (DFV damping, 8-position rebound, 20-way compression) with custom spring rates (12kg/mm front, 14kg/mm rear) and spherical bearing top mounts by SuperPro."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "LEXUS",
+  "model": "GS F SPECIAL EDITION",
+  "prestazioni": [
+    "2UR-GSE (4.9L V8) forced induction conversion using a Garrett GTX5533R Gen II turbocharger with billet compressor wheel (64mm inducer, 88mm exducer) and TiAL MV-R 44mm wastegate, paired with a custom 4-inch titanium downpipe and GReddy Profec B Spec II boost controller for 12 psi peak boost targeting 750whp on E85 fuel with ID1050x injectors and a Radium Engineering dual fuel pump hanger",
+    "Full 2UR-GSE dry sump oiling system from Aviaid with 8-stage scavenging, external oil cooler (Setrab 50-row), and billet aluminum oil pan with integrated windage tray, complemented by a Moroso high-volume oil pump and ARP head studs for 12mm deck reinforcement",
+    "Custom Motec M150 ECU with flex-fuel sensor and individual cylinder knock control, paired with a Tomei 272-degree camshaft set (intake/exhaust lift: 11.0mm/10.8mm) and Kelford 224-B cam gears for optimized VVT tuning, with a custom 3-inch stainless steel exhaust system featuring Burns Stainless merge collectors and a GESI 4-2-1 header"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit with carbon fiber overfenders (30mm wider front, 40mm wider rear), custom front splitter with integrated canards, and a GT wing with 1,800mm span and 3D-printed aluminum endplates for adjustable angle (0-15 degrees)",
+    "Full carbon fiber interior retrofit including Status Racing carbon fiber bucket seats (9.5kg each) with Schroth Profi II 6-point harnesses, custom carbon fiber door cards with Alcantara inserts, and a MOMO Mod.78 carbon fiber steering wheel with integrated AIM MXS Strada dash display",
+    "Custom Vorsteiner-styled carbon fiber hood with functional heat extractors and a Lexus LFA-inspired front grille replacement (3D-printed titanium mesh), paired with a custom LED lighting system featuring Osram 5200K HID projectors and Philips Ultinon Pro9000 LED fog lights with DRL functionality"
+  ]
+}

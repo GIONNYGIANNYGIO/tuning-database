@@ -1,0 +1,14 @@
+{
+  "brand": "LEXUS",
+  "model": "IS300",
+  "prestazioni": [
+    "2JZ-GE (3.0L inline-6) forced induction conversion using a Garrett GTX3582R turbocharger with a custom 3-inch stainless steel turbo manifold by Tomei, paired with a GReddy Type-S intercooler and a HKS SSQV4 blow-off valve for optimized boost response and heat dissipation",
+    "Full standalone Haltech Elite 2500 ECU with custom 2JZ-GE wiring harness by iWire, running a flex-fuel ethanol sensor and a Motec PDM15 for precise fuel and ignition mapping, including individual cylinder trims and launch control for 0-60 mph in under 4.5 seconds",
+    "KW Suspension Clubsport coilovers with 8-position adjustable damping and camber plates, paired with Cusco front and rear sway bars (22mm front, 18mm rear) and polyurethane bushings by Whiteline for reduced body roll and enhanced cornering stability on track"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit with carbon fiber overfenders, front bumper, and rear diffuser, paired with a custom 3M Gloss Black wrap and aggressive 5mm spacers for a flush fitment with Work Meister S1 3P 18x9.5 +22 (front) and 18x10.5 +30 (rear) wheels",
+    "Seibon carbon fiber hood with a custom vented design to accommodate the turbo setup, paired with a Veilside Fortune front lip and a custom rear wing by APR Performance (GT-250 model) for downforce optimization at high speeds",
+    "Interior overhaul featuring Bride Zeta III bucket seats with Takata 4-point harnesses, a NRG Innovations quick-release steering wheel hub, and a custom roll cage by Hard Dog Motorsports with bolt-in door bars for track safety and rigidity"
+  ]
+}

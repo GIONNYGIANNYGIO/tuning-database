@@ -1,0 +1,14 @@
+{
+  "brand": "LOTUS",
+  "model": "3-Eleven",
+  "prestazioni": [
+    "Upgrade to a **Garrett GTX3582R Gen II turbocharger** (ball-bearing, 62mm compressor wheel) paired with a **Lotus-specific 3.5L Toyota 2GR-FE (3-Eleven engine code: 2GR-FKE)** forged internals build by **JE Pistons (9.0:1 compression, 87.5mm bore)** and **Manley H-beam connecting rods** to handle 1.5 bar (21.7 psi) of boost, targeting **550+ WHP** on **E85 fuel** with a **Motec M150 ECU** for full flex-fuel mapping and traction control integration.",
+    "Install a **Pectel SQ6M standalone ECU** with **Lotus 3-Eleven-specific CAN bus integration** for real-time telemetry, launch control, and anti-lag strategies, paired with a **Turbosmart Race Port BOV (dual-port, 50mm)** and a **custom 3.5-inch titanium exhaust system by Akrapović** (304 stainless headers, 200-cell catalytic converters, and a straight-pipe rear section with a **Burns Stainless 4-into-1 merge collector**).",
+    "Replace the OEM **Lotus AP Racing CP5596 front brake calipers** with **AP Racing CP6640 monoblock 6-piston calipers** (38mm pistons) clamping **380mm x 34mm two-piece carbon-ceramic rotors by Surface Transforms (ST-XR series)** and upgrade to **Ohlins TTX40 MkII coilovers** with **3-Eleven-specific spring rates (600lb/in front, 800lb/in rear)** and **Eibach ERS adjustable anti-roll bars (24mm front, 22mm rear)** for track-focused aero balance."
+  ],
+  "estetica": [
+    "Install a **RML Group (Lotus Motorsport) 3-Eleven GT3-inspired carbon fiber widebody kit** (front splitter, rear diffuser, and side skirts with integrated NACA ducts for brake cooling), paired with a **Vorsteiner V-FF 107 20x10.5 ET35 front and 20x12 ET45 rear forged wheels** wrapped in **Michelin Pilot Sport Cup 2 R tires (275/30 R20 front, 325/30 R20 rear)** for optimal mechanical grip.",
+    "Replace the OEM **Lotus 3-Eleven carbon fiber hardtop** with a **custom **V Carbon** lightweight removable roof panel (1.5mm carbon-Kevlar hybrid, 30% weight reduction)** and add a **Seibon Carbon full carbon fiber rear wing (3-Eleven-specific, 1,500mm span, 300mm chord, adjustable angle of attack up to 18 degrees)** for **1,200 lbs of downforce at 150 mph** when paired with the RML aero kit.",
+    "Apply a **3M 1080 Gloss Black vinyl wrap with **Avery Dennison Supreme Wrapping Film** in **Satin Stealth Grey** over the OEM **Lotus Motorsport Racing Green** paint, featuring **custom **FIA-spec door numbers (white with black outline, font: Eurostile Extended)** and **Lotus Type 125-inspired side decals (carbon fiber weave pattern with **PPG Sunfire Silver** pinstripes)** for a factory-motorsport aesthetic."
+  ]
+}

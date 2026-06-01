@@ -1,0 +1,14 @@
+{
+  "brand": "LOTUS",
+  "model": "49 F1",
+  "prestazioni": [
+    "Replacement of the original **Ford Cosworth DFV (Double Four Valve) 3.0L V8** with a **Cosworth DFV 3.5L** block (as used in later F1 seasons), bored and stroked to **3.9L** with **Mahle Motorsport forged pistons (95.5mm bore, 69.2mm stroke)** and **Carrillo H-beam connecting rods** for a 12.5:1 compression ratio, paired with **Cosworth titanium valves (41.3mm intake, 34.9mm exhaust)** and **Ferrea Racing valve springs** to handle 11,500 RPM reliably.",
+    "Installation of a **Garrett GTX3582R turbocharger (82mm compressor, 62mm turbine)** with a **Tial MV-R 50mm wastegate** and **custom 3.5-inch Inconel exhaust manifold** (fabricated by **Hedman Hedders**), feeding into a **3.5-inch titanium exhaust system with Burns Stainless merge collectors** and **Akrapovič 4-into-1 muffler** for optimized scavenging and 750+ HP at 2.2 bar boost (limited by DFV’s structural limits).",
+    "Full **Lotus 49B-spec suspension overhaul** with **Öhlins TTX40 4-way adjustable dampers (250N/mm front, 300N/mm rear springs)**, **Tillet carbon-fiber monocoque reinforcement plates (bonded to the original aluminum tub)**, and **AP Racing CP8460 6-piston calipers** with **380mm carbon-carbon brake discs (from a 1990s F1 car)** for 30% better heat dissipation and 2.5G deceleration under braking."
+  ],
+  "estetica": [
+    "Replica of the **1968 Gold Leaf Team Lotus livery** with **3M 1080 vinyl wrap (Gloss Gold and Red)** applied over a **bare aluminum monocoque** (stripped and polished by **Mirror Finish Polishing**), including **hand-painted Gold Leaf pinstriping (24K gold leaf, applied by a specialist like Signarama UK)** for authenticity.",
+    "Installation of a **Lotus 49B-style high-downforce rear wing (fabricated by **RML Group** using **carbon-fiber prepreg from Toray T800**)**, mounted on **titanium wing stanchions (CNC-machined by **Pro Alloy Motorsports**)** with **adjustable Gurney flaps (0-15mm range)** for 40% more rear downforce at 180 mph without exceeding the DFV’s power limitations.",
+    "Replacement of the original **Lotus magnesium wheels (13x15 front, 15x15 rear)** with **Dymag carbon-fiber wheels (13x15 front, 15x18 rear)** wrapped in **Pirelli P Zero Trofeo R tires (205/500-13 front, 325/450-15 rear)** for a 15% weight reduction and 20% better lateral grip, paired with **BBS center-lock wheel nuts (titanium, from a 917 Porsche)** for quick pit-stop changes."
+  ]
+}

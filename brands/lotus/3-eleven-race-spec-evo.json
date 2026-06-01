@@ -1,0 +1,14 @@
+{
+  "brand": "LOTUS",
+  "model": "3-Eleven Race Spec Evo",
+  "prestazioni": [
+    "Engine: Toyota-sourced 2GR-FE 3.5L V6 (engine code 2GR-FE) upgraded with a Harrop HTV2300 supercharger (12.5 psi boost) and a custom Lotus Motorsport titanium intercooler core, paired with a Motec M150 ECU for real-time lambda and knock control with 100Hz logging",
+    "Drivetrain: Quaife ATB helical LSD with 45% preload and a Sachs Racing twin-disc carbon clutch (240mm diameter, 6 puck) mated to a Lotus Motorsport 6-speed sequential gearbox with paddle-shift actuation (0.08s shift time) and a lightweight magnesium bellhousing",
+    "Suspension: Öhlins TTX40 4-way adjustable coilovers with Lotus-specific valving, spherical bearing top mounts, and adjustable anti-roll bars (24mm front, 22mm rear) with custom Lotus Motorsport adjustable end links for 3-way stiffness tuning"
+  ],
+  "estetica": [
+    "Aerodynamics: Lotus Motorsport carbon fiber front splitter with integrated dive planes (35kg downforce at 100mph) and a full-width rear diffuser with Gurney flap (adjustable 0-15mm), paired with a custom 3D-printed titanium rear wing mount (30% lighter than OEM)",
+    "Bodywork: Carbon Kevlar composite body panels (front clamshell, rear deck, and side skirts) with a custom Lotus Motorsport livery in 'Hethel Yellow' with matte black accents, including a removable carbon fiber hardtop with integrated NACA ducts for engine bay cooling",
+    "Interior: Full FIA-spec 8862-2018 carbon fiber racing seat with Schroth 6-point harness (ASM2 configuration), a custom Lotus Motorsport quick-release steering wheel with integrated Motec C127 dash display, and a titanium roll cage (T45 grade) with integrated fire suppression system (Lifeline Zero 360)"
+  ]
+}

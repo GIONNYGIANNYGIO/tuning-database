@@ -1,0 +1,14 @@
+{
+  "brand": "LOTUS",
+  "model": "ECLAT",
+  "prestazioni": [
+    "Engine swap to a Lotus 912-series 2.2L Type 912 (4-cylinder, DOHC, 16-valve) with forged internals: Mahle Motorsport forged pistons (8.5:1 compression), Cunningham conrods, and a billet crankshaft from Cosworth. Pair with a custom dry-sump oiling system by Aviaid for sustained high-RPM reliability (redline at 8,500 RPM).",
+    "Forced induction via a Rotrex C38-91 supercharger (12 psi max boost) with a custom Lotus-specific intercooler setup by Bell Intercoolers, featuring a front-mount core and dual 3.5\" silicone charge pipes from Vibrant Performance. ECU management via a MoTeC M150 standalone with custom Lotus 912-specific fuel and ignition maps, including individual cylinder trims and launch control.",
+    "Suspension overhaul with Ohlins TTX40 coilovers (2-way adjustable damping) and Lotus-specific camber plates by SPC Performance. Polyurethane bushings from SuperPro (part #SPF1020K) for the front A-arms and rear trailing arms, paired with spherical bearings from Rose Joints (UK) for the rear suspension links. Braking upgraded to AP Racing CP8370 calipers (4-piston) with 330mm two-piece rotors and Ferodo DS2500 pads."
+  ],
+  "estetica": [
+    "Full carbon fiber body conversion using a Lotus Eclat-specific kit from Fibre Glass Developments (FGD), including a custom front splitter, rear diffuser, and side skirts with integrated NACA ducts for brake cooling. Hood replaced with a one-piece carbon fiber unit from Carbonology Sport (UK) with a central vent for heat extraction.",
+    "Rear wing upgrade to a custom 3-piece GT-style wing by APR Performance (model: SW-2100), mounted on Lotus-specific aluminum pedestals with adjustable angle of attack (0-15 degrees). Side mirrors replaced with carbon fiber units from MOMO (model: Carbon Pro) and integrated LED turn signals.",
+    "Interior stripped and reupholstered with Alcantara from Autostyle (UK), including custom door cards, dashboard overlay, and Recaro SRD-E seats (Lotus-specific mounting brackets). Steering wheel replaced with a 330mm MOMO Prototipo (flat-bottom) wrapped in Alcantara, paired with a quick-release hub from NRG Innovations. Gauge cluster upgraded to a digital display by AIM MXS Strada with CAN bus integration for the MoTeC ECU."
+  ]
+}

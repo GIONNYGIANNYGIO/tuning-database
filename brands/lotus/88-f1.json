@@ -1,0 +1,14 @@
+{
+  "brand": "LOTUS",
+  "model": "88 F1",
+  "prestazioni": [
+    "Replacement of the original Cosworth DFV 3.0L V8 (engine code: DFV) with a bespoke **Cosworth DFY** 3.5L V8, bored to 3.9L (94.0mm bore x 70.4mm stroke) and fitted with **Mahle Motorsport forged pistons** (12.5:1 compression), **Carrillo H-beam connecting rods**, and a **Titanium retainer kit** from **JE Pistons** to handle 12,500 RPM redline. The engine is mated to a **Hewland FGA400 6-speed sequential transaxle** with **AP Racing carbon-carbon clutch** and **Quaife ATB differential** for optimized power delivery.",
+    "Installation of a **Garrett GT35R turbocharger** (modified with a **Tial 44mm external wastegate**) feeding into a **custom Lotus-designed air-to-water intercooler** (fabricated by **PWR Performance**) with **AEM 380LPH fuel pumps** and **ID1000x injectors** to support 850+ HP at 2.5 bar boost. The fuel system is upgraded with a **Motec M150 ECU** (running **Lotus Motorsport’s proprietary dual-stage ignition mapping**) and **NGK R8482-10 spark plugs** for extreme heat resistance.",
+    "Chassis reinforcement via **T45 steel roll cage** (designed by **Sparco Pro2000**) with **Schroth 6-point harnesses** and **OMP carbon fiber racing seats**. Suspension is overhauled with **Öhlins TTX40 F1-spec dampers** (adjustable in 24 clicks for rebound/compression), **Eibach 4-way adjustable anti-roll bars**, and **Lotus-specific **Tillet B12 carbon fiber monocoque stiffening plates** to eliminate flex under 4G cornering loads."
+  ],
+  "estetica": [
+    "Replacement of the original **Lotus 88’s twin-chassis design** with a **single-monocoque carbon fiber tub** (fabricated by **Cytec Aerospace**) wrapped in **3M 1080 Gloss Black vinyl** with **Lotus Motorsport’s 1981 John Player Special livery** (hand-painted by **Creative Bespoke**). The front splitter is upgraded to a **custom **RML Group** carbon fiber unit** with **Gurney flaps** for 30% more downforce at 180 mph.",
+    "Installation of **Dymag magnesium 13-inch wheels** (front: 11.5J, rear: 16J) wrapped in **Pirelli P Zero Trofeo R tires** (245/645R13 front, 325/705R13 rear) with **BBS center-lock wheel nuts**. The rear wing is a **custom **Shark Racing** 3-element carbon fiber unit** (adjustable in 5-degree increments) with **active DRS (Drag Reduction System)** controlled via **MoTeC PDM30** for straight-line speed optimization.",
+    "Interior stripped of all non-essential weight, featuring a **MOMO Prototipo steering wheel** (with **Lotus F1 Team’s 1981 button layout**), **Alcantara-wrapped dashboard** (by **Sabelt**), and **carbon fiber door cards** (fabricated by **VIS Racing**). The driver’s seat is upholstered in **Sparco Skydex fireproof fabric** with **embroidered Lotus 88B chassis code** (hand-stitched by **Trimcraft**)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "LEXUS",
+  "model": "RC F GT3",
+  "prestazioni": [
+    "Engine: 2UR-GSE (5.0L V8, 90° DOHC, 32-valve) with GT3-spec dry-sump lubrication system and Akrapovič 4-2-1 titanium exhaust manifold featuring 304-grade stainless steel collectors and Inconel 625 turbine housings for optimized backpressure and 8500 RPM powerband retention",
+    "Forced induction: Twin Precision Turbo PT6266 CEA ball-bearing turbos (GT3 homologated) with 62mm compressor wheels, 58mm turbine wheels, and custom 0.82 A/R turbine housings, paired with a PWR intercooler core (500x300x76mm, bar-and-plate design) and TiAL MV-R 50mm wastegates with 38mm V-band flanges",
+    "Suspension: Öhlins TTX40 4-way adjustable dampers with GT3-spec spherical bearing top mounts, Eibach ERS 1200N/mm front and 1000N/mm rear springs, and custom-fabricated T45 chromoly steel control arms with spherical bearings (replacing OEM rubber bushings) for sub-2mm deflection at 1.5G lateral load"
+  ],
+  "estetica": [
+    "Aerodynamics: Liberty Walk LB-RCF GT3 widebody kit with carbon fiber front splitter (35mm overhang, 3D-printed ABS endplates), custom GT3-spec rear diffuser (5-element design, 12° angle of attack), and APR Performance GTC-300 carbon fiber rear wing (1200mm span, 300mm chord, 15° adjustable angle) with integrated Gurney flap",
+    "Body: Seibon Carbon GT3-spec hood (1.2mm pre-preg carbon, 30% weight reduction) with dual NACA ducts (80mm x 150mm) feeding the PWR intercooler, and custom 3M 1080 vinyl wrap in 'Lexus Racing Development' livery (matte black base with metallic silver 'RC F GT3' decals, 50mm stripe width)",
+    "Wheels: Volk Racing TE37V GT3-spec (18x12 +53 front, 18x13 +30 rear) with titanium hardware (M12x1.5, 45mm shank length), shod with Michelin Pilot Sport Cup 2 R tires (305/645-R18 front, 325/705-R18 rear) and Brembo GT3 brake system (6-piston front, 4-piston rear, 410mm floating rotors with titanium hat)"
+  ]
+}
