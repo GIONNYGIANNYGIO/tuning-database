@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "HURACAN STERRATO",
+  "prestazioni": [
+    "Lamborghini L539 5.2L V10 naturally aspirated engine (code: L539) with a custom Manthey Racing ECU reflash optimized for 91-octane fuel, targeting 680 HP at 8,500 RPM and 470 lb-ft of torque at 6,500 RPM, while retaining OEM throttle response via a Motec PDM15 power distribution module for precise fuel and ignition mapping under off-road conditions",
+    "Bilstein B16 PSS10 coilovers with Sterrato-specific valving, 30mm front and 25mm rear lift capability, and remote-adjustable compression/rebound damping (10 settings) paired with Eibach ERS race springs (front: 220 lb/in, rear: 280 lb/in) for gravel rally compliance without sacrificing on-road handling",
+    "Garrett GT2867R turbocharger upgrade (hybrid billet wheel, 0.82 A/R turbine housing) with a custom 3.5-inch stainless steel exhaust system by Capristo (cat-back, 409-grade steel, dual 3.5-inch outlets with X-pipe and secondary Helmholtz resonators) and a TiAL Sport 44mm wastegate for a 0.5-bar boost target, mated to a custom intercooler setup by CSF Racing (front-mount, 1,250 CFM core) and a Pierburg CWA 200 auxiliary water pump for consistent intake temps during high-load off-road scenarios"
+  ],
+  "estetica": [
+    "Novitec Torado Sterrato-specific widebody kit (carbon fiber, 50mm front and 60mm rear fender flares) with integrated LED light pods (Osram Night Breaker Laser, 5,500-lumen output) and a custom front splitter extension (3D-printed carbon fiber, 30% downforce increase at 120 mph) for gravel rally aesthetics and functionality",
+    "Rohana RC10 concave forged wheels (20x10.5 front, 21x12.5 rear, +25mm offset) wrapped in Pirelli Scorpion All Terrain Plus tires (255/35 R20 front, 305/30 R21 rear) with beadlock rings by Method MR701 for extreme off-road grip, paired with a custom PPF (XPEL Stealth) in matte military green with a textured anti-scratch coating for gravel protection",
+    "Custom Sterrato-exclusive rear diffuser by Prior Design (carbon fiber, 40% larger than OEM) with integrated dual 4-inch exhaust outlets (Inconel 625, titanium tips by Akrapović) and a roof-mounted light bar (Baja Designs Squadron Pro, 40-inch, 18,000-lumen output) with a carbon fiber mount by 3D Carbon, finished in a satin Lamborghini Verde Mantis paint with gold-pinstripe accents"
+  ]
+}

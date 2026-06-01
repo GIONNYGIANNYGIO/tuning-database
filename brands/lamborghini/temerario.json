@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "TEMERARIO",
+  "prestazioni": [
+    "Lamborghini L539 5.2L V10 (naturally aspirated) engine code: *L539.2* – Full carbon fiber intake system by Novitec Torado with bespoke ram-air ducting, replacing the OEM plastic intake manifold for a 22% reduction in air restriction and +45 hp at 8,500 RPM, paired with a custom ECU flash by Shiftech targeting 620 hp (up from 602 hp stock) with optimized ignition timing for 91-octane fuel and a 9,000 RPM redline (up from 8,500 RPM).",
+    "Ohlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression) and 20mm adjustable ride height, specifically valved for the Temerario’s aluminum spaceframe and Pirelli P Zero Corsa tires, reducing unsprung mass by 18% with forged aluminum lower mounts by 3D Carbon.",
+    "Full titanium exhaust system by Capristo with 3.5-inch diameter piping, 4-2-1 merge collectors, and electronically controlled bypass valves, reducing weight by 42 lbs while increasing exhaust gas velocity by 30% for a +28 hp gain at 7,800 RPM, tuned to produce a 98 dB crackle-pop on overrun (compliant with EU noise regulations)."
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit for the Temerario, featuring carbon fiber fenders with 50mm extended wheel arches, a custom front splitter with integrated canards, and a ducktail spoiler with a 3D-printed aluminum core for structural rigidity, increasing downforce by 120 lbs at 120 mph.",
+    "Forged aluminum 20x10.5 ET25 (front) and 21x12.5 ET30 (rear) wheels by HRE FF16 with a 5x130 bolt pattern, wrapped in Pirelli P Zero Trofeo R tires (255/30/20 front, 325/25/21 rear), reducing rotational mass by 28 lbs per corner and improving lateral grip by 15%.",
+    "Full carbon fiber engine cover by Novitec Torado with a clear-coated weave finish, featuring a custom laser-etched Lamborghini Raging Bull emblem and integrated LED underglow lighting (RGBW, 12V, 6000K) for nighttime visibility, reducing weight by 8 lbs over the OEM cover."
+  ]
+}

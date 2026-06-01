@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "REVUELTO OPERA UNICA",
+  "prestazioni": [
+    "L939 (6.5L V12 hybrid) engine: Full carbon-fiber intake manifold by Novitec with integrated methanol-water injection (AEM 340LPH pump) for +120 hp at 8,500 RPM, paired with a custom Lamborghini Squadra Corse ECU remap optimizing hybrid torque split (70% ICE / 30% e-motor under 4,000 RPM, 50/50 above 6,000 RPM)",
+    "Dual Garrett GTX5533R Gen II turbochargers (1.28 A/R turbine housings) with TiAL MV-R 60mm wastegates and custom 4-inch titanium downpipes by Armytrix, reducing backpressure by 42% and enabling 1.8 bar peak boost (stock: 1.2 bar) with a 3.5L Lancia Delta Integrale-derived intercooler setup",
+    "Ohlins TTX46 MkII coilovers with 3-way adjustable damping (compression/rebound/bump), custom valving for the Revuelto’s rear-wheel-steering system, and titanium springs (Eibach 18kg/mm front, 22kg/mm rear) lowering ride height by 35mm while retaining active aerodynamics compatibility (front splitter and rear diffuser)"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (carbon-fiber, 60mm front / 80mm rear fender flares) with integrated NACA ducts feeding the GTX5533R turbos, paired with a custom 3D-printed titanium rear diffuser by 1016 Industries (50% more downforce than stock at 200 km/h)",
+    "Full carbon-fiber monocoque repaint in Lamborghini’s historic ‘Verde Scandal’ (1974 Countach LP400) with matte gold leaf pinstriping by Sikkens (20-micron thickness), applied over a bare carbon weave base for a ‘floating’ effect under direct light",
+    "Custom LED taillight assembly by Diode Dynamics (C6 Corvette-derived ‘angry eye’ design) with sequential startup animation (Lamborghini Raging Bull logo morphing into the Revuelto’s Y-signature), housed in a 3D-printed polycarbonate lens with anti-reflective coating by HRE"
+  ]
+}

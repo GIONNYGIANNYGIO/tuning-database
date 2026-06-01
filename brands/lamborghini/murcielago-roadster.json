@@ -1,0 +1,18 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "MURCIELAGO ROADSTER",
+  "prestazioni": [
+    "Engine: L535-4 (6.5L V12) with a custom Novitec Rosso Stage 3+ supercharger kit (1.8 bar boost, forged internals including Carrillo H-beam rods, JE 9.5:1 pistons, and a billet crankshaft) paired with a Novitec high-flow fuel system (dual Bosch Motorsport 044 pumps, ID1000 injectors, and a custom Motec M150 ECU for precise AFR control).",
+    "Exhaust: Capristo 3.5-inch titanium full-system with 200-cell catalytic converters, X-pipe crossover, and electronically actuated bypass valves for backpressure optimization, reducing weight by 45 lbs over stock while maintaining 980+ hp compatibility.",
+    "Suspension: Öhlins TTX46 coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression), custom valving for the Murcielago’s front/rear weight distribution (42/58), and adjustable ride height via billet aluminum perches. Paired with a full Novitec subframe reinforcement kit (TIG-welded chromoly braces) and spherical bearing conversion for the rear upper control arms (SuperPro bushings).",
+    "Drivetrain: Quaife ATB differential with 45% lockup under load, mated to a custom 6-speed Graziano transmission with a Sachs Performance twin-disc clutch (ceramic-metallic, 800 Nm torque capacity) and a lightweight flywheel (12 lbs). Final drive ratio changed to 3.73:1 for improved acceleration, with a Novitec short-shift kit (carbon fiber shift fork, reinforced synchros).",
+    "Forced Induction: Custom Novitec Rosso twin-screw supercharger system with a 3.8L Eaton TVS2650 rotor pack, liquid-to-air intercooler (Garrett core, -50°F intake temps), and a custom Novitec heat exchanger with dual 12-inch SPAL fans. Boost controlled via a Motec C125 dash with CAN bus integration for real-time monitoring."
+  ],
+  "estetica": [
+    "Aero: Novitec Rosso Murcielago-specific widebody kit (carbon fiber, 50mm wider front fenders, 70mm wider rear) with integrated canards and a 3-piece adjustable rear wing (carbon fiber, 1,200 lbs downforce at 180 mph). Front splitter extended 3 inches with a Gurney flap and side skirts with air curtains for brake cooling.",
+    "Wheels: HRE FF01 20x10.5 (front) and 21x13 (rear) in a custom satin bronze finish, wrapped in Michelin Pilot Sport Cup 2 R tires (265/30 ZR20 front, 345/25 ZR21 rear). Custom Novitec center-lock adapters with titanium wheel bolts (saving 1.2 lbs per wheel).",
+    "Interior: Full Alcantara retrim by Sabelt (seats, dash, door cards) with custom embroidered Lamborghini logos in Rosso Corsa. Roll cage by Matter Italy (TIG-welded 4130 chromoly, bolt-in design with integrated harness bars for 6-point Schroth Profi II harnesses). Motec C125 digital dash with custom Lamborghini-themed layout, integrated with a RaceLogic VBOX for lap timing and telemetry.",
+    "Lighting: Full LED conversion by Novitec (DRLs, taillights, and side markers) with sequential turn signals. Custom laser-cut carbon fiber headlight housings with Hella 5000K bi-xenon projectors and a Novitec LED angel-eye halo kit (adjustable brightness via Motec CAN bus).",
+    "Exterior: Full Novitec Rosso carbon fiber body conversion (hood, trunk, engine cover, and rear diffuser) with a custom matte Viola Micalizzato paint job (Lamborghini’s original Viola Pasadena hue, but with a 3-stage pearl flake). Custom Novitec side-exit exhaust tips (titanium, 4.5-inch diameter) with carbon fiber heat shields."
+  ]
+}

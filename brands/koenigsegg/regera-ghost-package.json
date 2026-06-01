@@ -1,0 +1,14 @@
+{
+  "brand": "KOENIGSEGG",
+  "model": "REGERA GHOST PACKAGE",
+  "prestazioni": [
+    "Upgrade to a bespoke **Koenigsegg TFG (Twin-Fluidic-Generator) Hybrid Powertrain** with a **5.0L V8 (internal code: KDD-50)** recalibrated to 1,800+ hp via **Weistec Engineering’s Stage 4+ hybrid integration**, incorporating a **Garrett GTX5544R Gen II turbocharger** (custom billet compressor wheel, 106mm inducer) and **Honeywell’s 200kW electric motor upgrade** for instantaneous torque fill (0-60 mph in 1.7s).",
+    "Installation of **Koenigsegg’s proprietary **IHI HF12-5000** electric supercharger** (liquid-cooled, 90,000 RPM max) with a **Magna PT’s 800V silicon carbide inverter** for seamless power delivery, paired with a **PWR Racing radiator (custom 42mm core, dual-pass)** to manage thermal loads under sustained 2.5G lateral acceleration.",
+    "Full **Motec M190 ECU reflash** with **Koenigsegg’s Ghost-Specific ‘Phantom Mode’** (aggressive torque vectoring via **GKN’s eTwinsterX hybrid AWD system**, 0.02s response time) and **AP Racing’s CCX-R carbon-ceramic brakes (410mm front, 395mm rear)** with **Brembo’s GP4-MS pads** for 1.2G deceleration from 200 mph."
+  ],
+  "estetica": [
+    "**Koenigsegg’s ‘Spectral Ghost’ aero package** featuring a **3D-printed titanium front splitter (Veloce Composites)** with active Gurney flaps (adjustable via **MoTeC PDM30**), reducing front lift by 45% at 250 mph while maintaining the signature ‘invisible’ Ghost design language.",
+    "**Rocket Bunny x Koenigsegg ‘Shrouded’ widebody kit** (carbon-fiber pre-preg, autoclave-cured) with **custom 20x11.5” front and 21x13.5” rear **Forgeline GA5R wheels** (monoblock forged, 3-piece construction) wrapped in **Michelin Pilot Sport Cup 2 R tires (345/25 R21 front, 375/20 R21 rear)** for +30mm track width per side.",
+    "**Koenigsegg’s ‘Holographic Camouflage’ paint scheme** (applied by **BASF’s Glasurit 923-155 ‘Chameleon’ system**) with **electrochromic side skirts** (powered by **Saint-Gobain’s SageGlass) that shift from matte anthracite to translucent carbon fiber under 12V activation, paired with **Oracle Lighting’s 6K HID ‘Ghost Beam’ headlights** (adaptive laser projectors)."
+  ]
+}

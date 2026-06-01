@@ -1,0 +1,14 @@
+{
+  "brand": "KOENIGSEGG",
+  "model": "JESKO THOR",
+  "prestazioni": [
+    "Engine: Koenigsegg 5.0L twin-turbo V8 (internal code TFG V8) upgraded with a bespoke 120-bar fuel system utilizing Bosch Motorsport MS15.1 ECU and custom-mapped for E85 flex-fuel optimization, targeting 1,625 hp at 8,200 RPM and 1,106 lb-ft of torque at 5,100 RPM via a proprietary Koenigsegg-developed 'Thor' turbocharger setup (twin Garrett GTX5544R Gen II turbos with 106mm billet compressor wheels and 9-blade titanium-aluminide turbine wheels, paired with a secondary electric turbocharger for instant spool under 3,000 RPM)",
+    "Drivetrain: 9-speed Koenigsegg Light Speed Transmission (LST) with a reinforced carbon-fiber torque tube and a custom Quaife ATB helical LSD (limited-slip differential) featuring a 45% lockup under load, paired with a bespoke Pankl Racing Systems 3D-printed titanium driveshaft and a ceramic-coated carbon-fiber prop shaft for reduced rotational mass",
+    "Suspension & Chassis: Full Öhlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression) and a custom Koenigsegg-developed 'Thor' adaptive ride height system (electro-hydraulic actuators with 50mm of travel), paired with a Moton 3-way adjustable roll center kit and a bespoke T45 chromoly steel subframe reinforcement for lateral stiffness under extreme aero loads"
+  ],
+  "estetica": [
+    "Aerodynamics: Full 'Thor' aero package by Koenigsegg Advanced Aerodynamics Division, featuring a 3D-printed titanium front splitter with active Gurney flaps (adjustable via ECU mapping), a carbon-fiber rear diffuser with integrated vortex generators (tested in Sauber F1 wind tunnel), and a bespoke 'Thor' rear wing (dual-element, 1.8m span, 3D-printed from Toray T1100G carbon fiber with a 40% chord increase over stock Jesko Absolut)",
+    "Exterior: Custom 'Thor' livery by Camoform (military-grade vinyl wrap with a proprietary 'lightning strike' pattern in matte titanium and gloss black, featuring embedded micro-perforations for heat dissipation), paired with a full carbon-fiber body kit by Koenigsegg Automotive (including a 3D-printed titanium front grille insert with laser-etched Thor hammer motif and a rear bumper with integrated titanium exhaust outlets by Akrapović)",
+    "Wheels & Brakes: Forged 21-inch front and 22-inch rear Koenigsegg Aircore wheels (3D-printed from Scalmalloy, weighing 6.8kg front and 7.9kg rear) wrapped in custom Michelin Pilot Sport Cup 2 R tires (345/25 R21 front, 385/20 R22 rear) with a bespoke compound for 1,600kg downforce applications, paired with a full carbon-ceramic braking system by Brembo (CCMR 410mm front and 390mm rear rotors with titanium pistons and a custom 'Thor' caliper design in anodized blue)"
+  ]
+}

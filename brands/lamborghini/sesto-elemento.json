@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "SESTO ELEMENTO",
+  "prestazioni": [
+    "Lamborghini 07L V10 (5.2L naturally aspirated) engine: Replace the OEM intake manifold with a custom 3D-printed titanium unit from **Vadim Motorsports**, featuring optimized runner lengths (220mm primary, 180mm secondary) and a 90mm throttle body for improved mid-to-high RPM airflow (target: 680+ CFM).",
+    "Install a **Weistec Engineering** Stage 3+ ECU reflash with a bespoke ignition timing map (-4° base timing at 4,500 RPM, +2° advance at 8,000 RPM) and fuel pressure increase to 5.5 bar (OEM: 4.8 bar) via a **Radium Engineering** fuel pressure regulator, paired with **ID1000x injectors** for E85 compatibility (max 1,200cc flow rate).",
+    "Upgrade the OEM carbon-fiber driveshaft with a **Pankl Racing Systems** titanium half-shaft assembly (20% lighter, 30% higher torque capacity) and fit a **Quaife ATB LSD** (85% lockup under load) with **Motul Gear 300 75W-140** differential fluid for improved power delivery to the **OZ Racing Ultraleggera HLT** 19x9.5/20x12.5 wheels (ET30/ET40)."
+  ],
+  "estetica": [
+    "Replace the OEM front splitter with a **Novitec Torado** carbon-fiber unit featuring an integrated **Gurney flap** (15mm height) and **active aero** via **Dymag** magnesium actuators (adjustable -5° to +10° pitch angle) for 18% more downforce at 200 km/h.",
+    "Install a **Liberty Walk LB-S** widebody kit with **custom carbon-fiber fenders** (pre-preg autoclave, 2x2 twill weave) extending wheel arches by 45mm (front) and 60mm (rear), paired with **AP Racing CP8650-360** 6-piston front/4-piston rear calipers and **Brembo HTC 64T** pads for track use.",
+    "Swap the OEM LED taillights for **VLand** sequential carbon-fiber housings with **Osram Laser+** bulbs (6,000K, 1,500 lumens) and integrate a **Momo Carbon Prototipo** steering wheel (380mm diameter, Alcantara/red stitching) with a **Race Technologies** paddle-shift system (12ms upshift, 30ms downshift) and **AiM MXL2** data logger."
+  ]
+}

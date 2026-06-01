@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "SILHOUETTE",
+  "prestazioni": [
+    "Engine: Replace the stock 3.0L V8 (L273) with a fully built L273-based stroker kit (3.4L displacement) using forged Mahle pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from JE Pistons. Pair with a custom camshaft profile by Schrick (280° duration, 11.5mm lift) for optimized mid-to-high RPM power delivery.",
+    "Forced Induction: Install a Rotrex C38-91 supercharger with a custom air-to-water intercooler setup (PWR Australia core) and a custom intake manifold fabricated from 6061-T6 aluminum, designed to fit the L273’s unique plenum shape. Use a Tial MV-R 44mm wastegate and a custom 3.5-inch exhaust system with Inconel headers by Burns Stainless and a secondary cat-delete section.",
+    "Drivetrain & Handling: Swap the stock 5-speed manual for a reinforced 6-speed from a Lamborghini Jalpa (modified bellhousing for L273 compatibility) with a Sachs Performance twin-disc clutch. Install a custom KW Variant 3 coilover kit (adapted for Silhouette-specific mounting points) with adjustable camber plates by H&R, and fit 18x10.5 ET25 front / 18x12 ET15 rear wheels with Michelin Pilot Sport Cup 2 tires (275/35 and 315/30 respectively)."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion using a custom Rocket Bunny Silhouette kit (hand-laid by Voltex Japan), including extended front fenders, rear quarter panels, and a revised rear bumper with integrated diffuser. Replace the stock pop-up headlights with a custom fixed-light setup using Hella 90mm Bi-Xenon projectors and a carbon fiber shroud.",
+    "Aerodynamics: Install a custom front splitter by APR Performance (adapted for the Silhouette’s unique nose) with a 3D-printed aluminum support structure, and a rear wing based on the Lamborghini Countach LP400’s design (fabricated by Vorsteiner) with adjustable carbon fiber elements. Add a custom underbody tray with vortex generators for improved downforce.",
+    "Interior: Full Alcantara retrim by Saddleback Leather, including custom door cards, dashboard, and Recaro SRD-E seats (modified to fit the Silhouette’s mounting points). Replace the stock steering wheel with a Momo Prototipo (350mm diameter) wrapped in Alcantara, and install a custom digital dash by AIM MXS Strada with a bespoke Silhouette-specific layout."
+  ]
+}

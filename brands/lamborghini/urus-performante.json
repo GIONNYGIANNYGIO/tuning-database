@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "URUS PERFORMANTE",
+  "prestazioni": [
+    "Engine: 4.0L twin-turbocharged V8 (code: *L539*), upgraded with a *Garrett GTX5533R* turbocharger (84mm billet compressor wheel, 106mm turbine) paired with a *Tial MV-R 60mm* wastegate for 2.2 bar peak boost, replacing the stock *IHI* turbos. Supporting mods include *Mahle Motorsport* forged pistons (9.5:1 CR), *Carrillo* H-beam connecting rods, and a *Pectel SQ6M* standalone ECU with *Motec PDM30* power distribution for precise fuel and ignition mapping.",
+    "Exhaust: *Capristo 102RS* full titanium exhaust system with *REMUS* 3.5-inch downpipes (catless, 304L stainless steel) and *Akrapovič* titanium center/rear sections, featuring *valvetronic* bypass for backpressure optimization. The system is tuned to amplify the V8’s 3.8-4.2kHz frequency range for a *Lamborghini-specific* 98dB cold-start bark.",
+    "Suspension/Handling: *Öhlins TTX46* 3-way adjustable coilovers (24-way rebound, 22-way compression, 12-way high/low-speed split) with *Eibach* 12% stiffer anti-roll bars (28mm front, 25mm rear). Chassis reinforcement via *Novitec* carbon-fiber strut brace (front) and *AP Racing* 4-piston monoblock calipers (400mm discs) with *Ferodo DS2500* pads for fade-resistant braking. *Michelin Pilot Sport Cup 2 R* tires (285/35ZR23 front, 325/30ZR23 rear) mounted on *HRE FF10* forged wheels (23x10.5J front, 23x12.5J rear)."
+  ],
+  "estetica": [
+    "Aero: *Novitec Torado* widebody kit (carbon-fiber, 50mm extended fenders) with *Rocket Bunny* front splitter (3D-printed ABS, 3-stage adjustable) and *Vorsteiner* rear diffuser (dual-plane design, 4x100mm titanium exhaust outlets). *Active aero* via *Lamborghini’s ALAR* system recalibrated with *MSS Toolkit* for -20mm ride height at 120mph (vs. stock -15mm).",
+    "Lighting: *Lux HID* 5500K D1S bulbs with *Morimoto XB35* projectors (shrouded, 450% lumen increase) and *Osram Night Breaker Laser* auxiliary LEDs. *Vland* sequential turn signals (200ms delay, amber/white dual-color) integrated into the *Novitec* side skirts.",
+    "Interior: *Recaro Pole Position* carbon-fiber bucket seats (FIA 8862-2009 certified) with *Schroth* 6-point harnesses. *Alcantara* headliner and *Nappa leather* door cards (stitch-matched to *Lamborghini Verde Mantis* exterior). *AEM CD-7* digital dash (12.3-inch, 120Hz refresh) replacing the stock cluster, with *AEMNet* CAN bus integration for real-time turbo/boost logging."
+  ]
+}

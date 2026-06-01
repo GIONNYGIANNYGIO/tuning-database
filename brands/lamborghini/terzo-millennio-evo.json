@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "TERZO MILLENNIO EVO",
+  "prestazioni": [
+    "Replacement of the stock electric motor system (code: **LME-4830**) with a **Magnax AXF-4830 axial flux motor** per wheel, increasing peak power output from 770 kW (1,034 hp) to **950 kW (1,274 hp)** and torque from 2,300 Nm to **2,800 Nm**, while reducing rotor inertia by 30% via carbon-fiber composite construction and liquid-cooled stator windings for sustained performance.",
+    "Integration of a **Bosch VCU 3.0 (Vehicle Control Unit)** with **dSPACE MicroAutoBox III** for real-time torque vectoring, enabling **0-100 km/h in 1.8 seconds** (down from 2.2s) via predictive traction control and AI-driven energy recuperation, optimized for the Terzo Millennio’s **48V graphene supercapacitor array (Maxwell Technologies K2 series)** with a 30% increase in charge/discharge cycles.",
+    "Installation of a **Brembo GT-RS 10-piston monobloc caliper** system with **CCM-R (Carbon-Ceramic Matrix Reinforced) rotors (420x40mm front, 380x34mm rear)**, featuring **Brembo’s Active Brake Cooling (ABC) ducts** and **Ferodo DS3.1 ultra-high-friction pads**, reducing 200-0 km/h braking distance from 110m to **85m** while maintaining thermal stability under 1,200°C surface temps."
+  ],
+  "estetica": [
+    "Full **Ares Design ‘Project Thunderbolt’** carbon-fiber body kit, including a **3D-printed titanium front splitter with active aerodynamic flaps (adjustable ±15° via Lamborghini Dinamica Veicolo Integrata)**, a **rear diffuser with integrated Gurney flaps (30% more downforce at 250 km/h)**, and **side skirts with NACA ducts for motor cooling**, all finished in **PPG ‘Arancio Xanto’ matte orange with electrochromic tint-shifting flakes**.",
+    "Replacement of the stock **LED matrix headlights** with **Osram EVIYOS 2.0 adaptive pixel headlights (1.3M pixels per unit)**, featuring **laser high-beams (1,000m range)** and **dynamic cornering illumination (adjusts to steering angle at 0.002s latency)**, paired with **Luxxvision ‘Aurora’ RGB underglow (addressable via Lamborghini Unica app)** for track-day visibility and aesthetic customization.",
+    "Custom **Forge Motorsport ‘Hyperion’ forged magnesium wheels (20x10.5” front, 21x12.5” rear)** with **Pirelli P Zero Trofeo R tires (265/30 R20, 325/25 R21)**, wrapped in **Michelin’s ‘Track Connect’ telemetry system (real-time tire pressure/temperature monitoring via RFID sensors)**, and **BBS center-lock titanium wheel nuts** for rapid pit-stop changes, all coated in **Cerakote ‘H-146 Graphite Black’** with laser-etched Lamborghini raging bull logos."
+  ]
+}

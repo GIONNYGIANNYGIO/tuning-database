@@ -1,0 +1,18 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "URUS MANSORY",
+  "prestazioni": [
+    "Engine: 4.0L twin-turbo V8 (Audi EA825 / Lamborghini DGF) with Mansory Stage 3 ECU remap (98 RON fuel, 1.5 bar boost pressure, 800+ HP, 1000+ Nm torque) utilizing a custom Motec M150 ECU for direct port injection control and individual cylinder trimming",
+    "Forced Induction: Twin Garrett GTX5533R Gen II turbochargers (88mm compressor wheels, 1.22 A/R turbine housings) with TiAL MV-R 60mm external wastegates and custom 4-inch titanium downpipes (Mansory x Akrapovič collaboration)",
+    "Drivetrain: Reinforced 8-speed ZF 8HP95X automatic transmission with upgraded torque converter (4000+ Nm capacity), Quaife ATB differential (front & rear), and Mansory carbon-fiber driveshaft with CV joints rated for 1200+ HP",
+    "Suspension: Öhlins TTX46 3-way adjustable coilovers (24-way compression, 24-way rebound, 12-way high/low-speed split) with custom valving for Urus-specific geometry, paired with Mansory carbon-fiber anti-roll bars (24mm front, 22mm rear) and spherical bearing end links",
+    "Braking: AP Racing 6-piston monoblock calipers (42mm pistons) with 420mm carbon-ceramic rotors (Mansory CCMR compound) and Ferodo DS3000 brake pads, controlled via Bosch Motorsport ABS 9.3 with 12-stage adjustment via steering wheel dial"
+  ],
+  "estetica": [
+    "Aerodynamics: Mansory 'Venatus' widebody kit (carbon-fiber, 50mm wider front fenders, 70mm wider rear) with integrated active aero (front splitter, rear diffuser, and adjustable rear wing with 3 positions: 0°, 12°, 25° attack angles), tested in Sauber Aerodynamics wind tunnel (Cd 0.32, -120kg downforce at 250 km/h)",
+    "Exterior Trim: Full carbon-fiber body conversion (hood, roof, side skirts, mirror caps) with Mansory 'Diamond Stitch' matte finish (3-layer clear coat, UV-resistant), custom laser-etched 'Mansory Urus Venatus' badging (titanium, 0.5mm depth) on front fenders and rear decklid",
+    "Wheels: Forged aluminum Mansory 'Vaydor' wheels (23x11.5 ET25 front, 23x13 ET30 rear) with center-lock hubs (M18x1.5 thread), wrapped in Pirelli P Zero Trofeo R tires (295/30 R23 front, 325/25 R23 rear) and nitrogen-filled to 3.2 bar (cold)",
+    "Lighting: Full LED conversion with Mansory 'Laser Blade' headlights (12,000-lumen output, adaptive matrix beam with 128 individual pixels) and rear taillights with sequential turn signals (OLED technology, 1ms response time), controlled via CAN bus integration with Lamborghini infotainment",
+    "Interior: Full Alcantara/leather retrim with 'Venatus' diamond-quilted pattern (Mansory-exclusive 'Nero Vulcano' with red contrast stitching), carbon-fiber bucket seats (Sabelt GT-Corse, FIA 8862-2009 certified) with 6-point harnesses, and a custom digital dash (12.3-inch curved OLED, 1440p resolution) displaying real-time turbo pressure, G-forces, and lap timers via AIM Solo 2 DL GPS integration"
+  ]
+}

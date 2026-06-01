@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "URUS",
+  "prestazioni": [
+    "Engine Code: EA825 (4.0L Twin-Turbo V8) - Full bolt-on turbo upgrade to **Garrett GTX5533R Gen II** turbos with billet compressor wheels, 76mm inducers, and 106mm exducers, paired with **Precision Turbo & Engine 6266** wastegates for 2.2 bar (32 psi) peak boost, targeting 950+ WHP on E85 with **Motec M150 ECU** standalone management and **AEM Infinity 10** for multi-fuel flex tuning",
+    "Drivetrain: **Quattro GmbH 9-speed ZF 8HP95X** transmission reinforcement with **Porsche 911 GT3 RS (992) torque converter** and **Wavetrac LSD** for 0-60 mph in 2.2s, paired with **AP Racing 6-piston CP9660 calipers** and **Brembo GT-R (R35) 410mm two-piece rotors** for 30% faster deceleration",
+    "Suspension: **Öhlins TTX46 MkII coilovers** with **Lamborghini Urus-specific camber plates** (adjustable to -4.5° front, -3.8° rear) and **Eibach ERS 1000N/mm helper springs** for 30mm lower ride height, paired with **H&R 30mm front / 25mm rear anti-roll bars** and **Bilstein B16 remote-reservoir dampers** for Nürburgring lap times under 7:30"
+  ],
+  "estetica": [
+    "**Rocket Bunny Urus V3 widebody kit** with **carbon fiber fenders (120mm wider front, 140mm wider rear)**, **custom 3D-printed ABS diffuser** with **Gurney flaps**, and **Vorsteiner V-FF107 22-inch forged wheels** (9.5J ET25 front, 12J ET30 rear) wrapped in **Michelin Pilot Sport Cup 2 R** (285/30R22 front, 325/25R22 rear)",
+    "**Novitec Torado Urus front splitter** with **active aero flaps** (adjustable via **Lamborghini Dinamica Veicolo Integrata** system) and **custom titanium exhaust tips** (120mm diameter, **Akrapović Ti-Evo** backbox delete for weight savings)",
+    "**Forge Motorsport carbon fiber engine cover** with **laser-etched Lamborghini Raging Bull logo** and **custom LED underglow** (RGBW, **Philips Hue Sync** integration) with **3M Scotchlite 980CR retroreflective film** for night visibility"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "HURACAN EVO SPYDER",
+  "prestazioni": [
+    "Engine: L539 5.2L V10 (naturally aspirated) with Novitec Rosso Power-Upgrade Stage 3 ECU remap + custom dyno-tuned fueling map (1,100+ hp on 102-octane race fuel, 9,500 RPM redline extension via Motec M150 ECU with anti-lag and flat-shift strategies for paddle-shift launches)",
+    "Forced Induction: Vortech V-3 Si-Trim supercharger kit (8 psi boost, liquid-to-air intercooler with dual Bosch 044 fuel pumps, custom 1000cc ID1000 injectors, and a Novitec billet aluminum crankshaft pulley for reduced parasitic loss)",
+    "Suspension & Handling: Öhlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression), Lamborghini OEM carbon-ceramic brake kit with Pagid RSL29 race pads, and a Novitec Sport Plus lowering kit (-30mm front, -25mm rear) paired with custom toe-out alignment for aggressive turn-in",
+    "Exhaust: Novitec Rosso 100-cell catalytic converter delete pipes with titanium exhaust valves and a custom X-pipe design (retaining the factory active sound system but amplifying the V10's 3,000Hz harmonic frequency for a deeper, more aggressive tone)"
+  ],
+  "estetica": [
+    "Aero: Novitec Rosso Spyder-specific carbon fiber widebody kit (front splitter, side skirts, and rear diffuser with integrated Gurney flaps) + custom 3D-printed active rear wing with adjustable angle of attack (0-15 degrees) via electric actuators",
+    "Wheels: HRE FF16 flow-formed forged wheels (20x9.5 +25 front, 21x12.5 +35 rear) wrapped in Pirelli P Zero Trofeo R tires (255/30/20 front, 325/25/21 rear) with custom gold anodized center locks",
+    "Interior: Full Alcantara retrim with Novitec Rosso carbon fiber door cards, custom LED ambient lighting (RGBW with 16.8 million colors), and a Motec C127 dash display replacing the factory cluster (real-time boost, AFR, and G-force readouts)"
+  ]
+}

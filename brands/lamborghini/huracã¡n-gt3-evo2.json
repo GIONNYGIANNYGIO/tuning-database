@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "HURACÁN GT3 EVO2",
+  "prestazioni": [
+    "Engine: 5.2L V10 (L539) naturally aspirated, upgraded with a custom Lamborghini Squadra Corse-developed dry-sump lubrication system featuring a 12-liter capacity ATI Performance Products oil pan and a billet-aluminum Moroso oil pump to sustain 9,000 RPM under lateral G-forces exceeding 2.5G in GT3 endurance racing conditions.",
+    "Forced induction: Lamborghini Motorsport-spec 3D-printed titanium intake plenums with integrated Bosch Motorsport 8-hole direct injectors (1,200cc/min flow rate) and a custom Magneti Marelli ECU running GT3 homologated firmware (v2.1.4-EVO2) with real-time lambda correction via two Horiba MEXA-7000 exhaust gas analyzers for AFR precision within 0.1% at full load.",
+    "Suspension: Öhlins TTX46 MkII 4-way adjustable dampers with 30mm piston diameter, paired with Lamborghini GT3-specific carbon-fiber pushrods (modulus: 240 GPa) and spherical bearings from Aurora Bearing Company (model: SB-10T) for sub-0.05mm deflection under 3,500 N cornering loads. Front and rear anti-roll bars are adjustable via 5-position blade-style adjusters from Hyperco Springs, with stiffness ranging from 800 N/mm to 1,400 N/mm."
+  ],
+  "estetica": [
+    "Aerodynamics: Lamborghini Squadra Corse GT3 EVO2-specific carbon-fiber front splitter with integrated Gurney flap (adjustable in 2mm increments) and a rear diffuser featuring 9 vertical strakes (3D-molded by Capricorn Carbon) for a 12% reduction in drag coefficient (Cd) at 250 km/h. The rear wing is a single-piece carbon-fiber assembly with a 1,200mm span, adjustable via a hydraulic actuator system (Bosch Rexroth) for 0-25 degrees of angle of attack.",
+    "Bodywork: Full carbon-fiber body kit (pre-preg autoclave-cured by Bcomp) with flax fiber reinforcement in high-stress zones (e.g., door sills, rear quarter panels) for a 15% weight reduction over standard GT3 panels. The hood features a central NACA duct (3D-scanned from the AMS factory GT3 car) for optimized airflow to the Lamborghini Motorsport-spec radiator (Aluminum 6061-T6, 42mm core thickness).",
+    "Lighting: Full LED lighting system from Hella (model: Rallye 3000 Compact) with integrated CREE XHP70.2 LEDs (6,500K color temperature) and a custom polycarbonate lens (Makrolon GP) for a 30% increase in lumen output over OEM. Rear taillights are replaced with FIA-homologated LED strips (Osram Oslon SSL 150) for improved visibility in endurance racing conditions."
+  ]
+}

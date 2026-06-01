@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "MURCIÉLAGO LP640",
+  "prestazioni": [
+    "Engine: L539 6.5L V12 (6396cc) – Forged internals upgrade with Carrillo H-beam connecting rods, JE Pistons 12.5:1 compression forged pistons, and ACL Race Series main/rod bearings to handle 900+ HP on E85 fuel. Pair with a custom billet crankshaft from Manley Performance for 8,500 RPM stability.",
+    "Forced Induction: Twin-turbo system using Garrett GTX5533R Gen II turbos (1.05 A/R, 88mm compressor wheels) with TiAL MV-R 60mm wastegates and TiAL Q 50mm blow-off valves. Custom 4-inch stainless steel intercooler piping with Bell Intercoolers 1200HP front-mount intercooler (3.5\" core thickness) and dual Bosch 044 fuel pumps with Radium Engineering surge tanks for consistent fuel delivery.",
+    "ECU & Fuel: Motec M150 ECU with custom lambda-based flex-fuel mapping for E85, paired with ID1700x injectors and a custom fuel rail from Injector Dynamics. Secondary fuel system includes a Nitrous Express GenX Direct Port kit (150-shot progressive) for on-demand power spikes, controlled via Motec PDM30 for precise activation."
+  ],
+  "estetica": [
+    "Aerodynamics: Novitec Torado LP640 widebody kit with carbon fiber front splitter, side skirts, and rear diffuser, paired with a custom 3D-printed active rear wing (adjustable via hydraulic actuators) for 300+ kg downforce at 200 km/h. Underbody features a full carbon fiber flat floor with vortex generators from APR Performance.",
+    "Wheels & Brakes: HRE FF16 flow-formed wheels (20x10.5 front, 21x13 rear) with custom offsets (-15mm front, -5mm rear) to clear AP Racing 6-piston calipers with 420mm CCM-R rotors. Tires: Michelin Pilot Sport Cup 2 R (265/30 R20 front, 345/25 R21 rear) with nitrogen inflation for consistent pressure.",
+    "Interior & Exterior: Full Alcantara-wrapped interior with custom Recaro Pole Position seats (carbon fiber shells, 6-point Schroth harnesses) and a digital dash from AIM MXS Strada. Exterior: Custom PPF in XPEL Stealth with a matte Lamborghini Viola Micalizzato wrap, paired with OEM-style LED taillights from Diode Dynamics and a custom titanium exhaust system from Capristo (4.5-inch outlets, Inconel 625 headers)."
+  ]
+}

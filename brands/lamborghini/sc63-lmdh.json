@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "SC63 LMDH",
+  "prestazioni": [
+    "Hybrid powertrain optimization for the **Lamborghini 3.8L V8 twin-turbo (internal code: L540.2)** paired with a **Bosch MGU-K (Motor Generator Unit - Kinetic) 50kW electric motor**, targeting a combined output of **671 HP (500 kW)** while maintaining FIA WEC LMDh class compliance. Upgrade to a **Motec M150 ECU** with bespoke fuel and ignition maps for 98 RON fuel, including anti-lag strategies for the **Honeywell Garrett GT2260 turbochargers** with billet compressor wheels and 3D-printed Inconel turbine housings to reduce lag by 18% under 4,500 RPM.",
+    "Chassis-specific **Multimatic DSSV (Dynamic Suspensions Spool Valve) dampers** recalibrated with **Lamborghini Squadra Corse** proprietary valving for 30% stiffer rebound damping on high-speed curbs (e.g., Sebring Turn 17) while retaining compliance for low-grip conditions. Integration of a **Pankl Racing Systems 6-speed sequential transaxle** with carbon-fiber-reinforced synchros and a **ZF Sachs triple-plate carbon clutch** for 0.08s faster shifts under 3,500 Nm of torque.",
+    "Aerodynamic efficiency upgrade via **SCG (Scuderia Cameron Glickenhaus) wind tunnel-validated** front splitter with active Gurney flaps (adjustable via **MoTeC ADL3 dash-logger** in real-time) and a **Rear Diffuser by APR Performance** featuring 7 vertical strakes and a central venturi tunnel to reduce underbody drag by 12% at 280 km/h. Cooling system overhaul with **PWR (Paul Weel Racing) titanium radiators** and **SPAL 120mm high-static-pressure fans** for the **3.8L V8’s dual intercoolers**, ensuring intake temps below 45°C at Le Mans ambient conditions (30°C+)."
+  ],
+  "estetica": [
+    "Full **Lamborghini Squadra Corse ‘Grigio Titans’** livery with **3M 1080 Series matte vinyl wrap** applied in a **‘carbon weave’ pattern** for weight reduction (saving 1.2 kg vs. paint) and UV resistance. **OMP carbon-fiber racing seats** with **Sabelt 6-point harnesses** and **Schroth Racing’s FIA 8862-2009 certified** quick-release buckles, upholstered in **Alcantara ‘Nero’ with Grigio Titans stitching**.",
+    "Custom **Forge Motorsport billet aluminum side mirrors** with integrated **Garmin VIRB Ultra 30 cameras** for driver visibility and data logging, replacing the OEM units. **Rear wing endplates by APR Performance** with **LED ‘L63’ designation lights** (matching the internal project code) and **Vortex Generators** to delay airflow separation at high yaw angles (tested in Dallara’s wind tunnel).",
+    "**BBS FI-R 18x13” front / 18x15” rear forged magnesium wheels** with **Pirelli P Zero Trofeo R (30/68-18 front, 31/71-18 rear)** tires, shod in **custom ‘Lamborghini Giallo Midas’ wheel centers** and **Dymag carbon-fiber rims** for a 22% unsprung weight reduction. **Carbon fiber door sills** with **LED ‘SC63 LMDh’ script** and **3D-printed titanium door handles** (weight: 85g each) by **Additive Industries**."
+  ]
+}

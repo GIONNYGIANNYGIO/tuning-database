@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "MURCIELAGO SV",
+  "prestazioni": [
+    "Engine: L539 6.5L V12 (naturally aspirated) with a custom Novitec Rosso Stage 3+ ECU remap, increasing power to 740 HP at 8,200 RPM and 553 lb-ft of torque at 6,000 RPM via optimized ignition timing, individual cylinder fuel mapping, and revised camshaft profiles (280° intake / 270° exhaust duration) with upgraded titanium valve springs and retainers from Supertech Performance.",
+    "Forced Induction: Twin-turbocharged setup using Garrett GT35R turbos (846517-5004S) with custom 3D-printed Inconel 625 exhaust manifolds by SMS Engineering, paired with a GReddy Type-S intercooler core (24x12x4 inches) and TiAL MV-R 44mm wastegates (set to 1.2 bar boost). Includes a custom 3.5-inch stainless steel exhaust system with Akrapović titanium mufflers and bypass valves for backpressure optimization.",
+    "Drivetrain & Suspension: Quaife ATB helical LSD (part #QDF7J) in the rear differential, paired with a custom 6-speed Graziano transmission reinforcement plate by PPG Racing. Suspension features Öhlins TTX46 coilovers with 12-position adjustable rebound and compression damping, custom-valved for the SV’s 50/50 weight distribution, alongside Eibach Pro-Race sway bars (24mm front / 22mm rear) and spherical bearing end links from SuperPro."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon fiber Novitec Rosso SV-R widebody kit (front splitter, side skirts, rear diffuser, and adjustable rear wing with 3D-printed Gurney flaps), reducing lift by 40% at 200 km/h. Includes a custom front canard setup by Vorsteiner (3-piece adjustable) for high-speed stability.",
+    "Wheels & Brakes: HRE P101SC wheels in 9.5x20 ET35 (front) and 12.5x20 ET45 (rear) with custom titanium wheel bolts by ARP. Braking system features 390mm carbon-ceramic rotors (Brembo CCM-R) with 6-piston calipers up front and 380mm rotors with 4-piston calipers at the rear, paired with Ferodo DS3.12 racing pads and stainless steel braided lines by Goodridge.",
+    "Interior & Exterior Details: Full Alcantara-wrapped interior by Sabelt with custom carbon fiber door cards, dashboard trim, and a MOMO Prototipo steering wheel (380mm diameter, suede-wrapped). Exterior features a custom PPF (Paint Protection Film) in XPEL Stealth with a matte clear coat finish, alongside a bespoke front grille insert by Novitec Rosso (carbon fiber with gold-tinted titanium mesh)."
+  ]
+}

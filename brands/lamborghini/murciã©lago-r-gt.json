@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "MURCIÉLAGO R-GT",
+  "prestazioni": [
+    "Engine: L535-4 (6.5L V12) with a custom dry-sump lubrication system featuring a Hiflow Engineering billet aluminum oil pan and dual scavenge pumps to prevent oil starvation during sustained 2.5G lateral loads on FIA GT-spec tracks like Spa-Francorchamps.",
+    "Forced Induction: Twin Precision Turbo PT6266 CEA ball-bearing turbos (62mm compressor, 66mm turbine) with custom Inconel 625 turbine housings, paired with a Motec M150 ECU managing a 2.5-bar absolute boost map, intercooled via a PWR Australia dual-core water-to-air heat exchanger with methanol injection (AEM 30-3300) for charge cooling.",
+    "Drivetrain: Xtrac P1044 6-speed sequential transaxle with a Sachs Racing twin-disc carbon clutch (240mm diameter, 4.5mm friction material) and a Quaife ATB helical LSD (85% lockup under power), mated to a custom 4.00:1 final drive ratio for optimized acceleration in FIA GT1 sprint races."
+  ],
+  "estetica": [
+    "Aerodynamics: Full FIA GT1-spec carbon fiber bodywork by Capristo, including a 200mm adjustable rear wing with Gurney flap (CFD-optimized for 1,200kg downforce at 250km/h), front splitter with integrated dive planes, and a rear diffuser with vortex generators for high-speed stability.",
+    "Wheels & Tires: OZ Racing Superleggera GT2 18x12 front / 18x13 rear forged magnesium wheels (ET25 front, ET5 rear) wrapped in Michelin Pilot Sport Cup 2 R tires (305/645-R18 front, 325/705-R18 rear) with custom compound for 100°C track temperatures.",
+    "Interior: Full FIA 8862-2018 homologated carbon fiber monocoque seat by Sparco Pro ADV with 6-point Schroth Racing harnesses, Motec C127 dash logger with GPS lap timing, and a custom titanium roll cage by Matter Fab (T45 steel, 2.5mm wall thickness) with integrated fire suppression system (Lifeline Zero 360)."
+  ]
+}

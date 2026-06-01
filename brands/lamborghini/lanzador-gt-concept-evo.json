@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "LANZADOR GT CONCEPT EVO",
+  "prestazioni": [
+    "Engine: Lamborghini L540 4.0L twin-turbocharged V8 hybrid (code: L540-HY) with a custom Motec M182 ECU reflash targeting 1,200 HP (895 kW) via upgraded Garrett GTX5533R turbos, billet compressor wheels, and a 4.5 bar Bosch Motorsport fuel system with dual CP4.2 high-pressure pumps",
+    "Drivetrain: Reinforced 8-speed dual-clutch transmission (code: LDF-8DCT) with a Sachs Performance twin-disc carbon clutch, OS Giken 2.5-way limited-slip differential, and a custom Quaife ATB helical LSD for the front electric motor (e-motor code: L540-EM1)",
+    "Suspension/Chassis: Full Ohlins TTX46 MkII coilovers with 3-way adjustable damping, Lamborghini-specific spherical bearing control arms (P1 Racing Fab), and a custom carbon-fiber front strut brace (VIS Racing) to stiffen the Lanzador’s modular hybrid chassis (code: LGT-HYBRID-CHASSIS)"
+  ],
+  "estetica": [
+    "Aerodynamics: Full Novitec Torado Lanzador-specific widebody kit with carbon-fiber front splitter, rear diffuser (integrated with active aero), and a fixed rear wing (code: NOV-LANZ-2024) featuring a Gurney flap and DRS-style adjustable elements",
+    "Exterior: Custom livery by Foglizzo Design (Milan) with a matte Viola Micalizzato base, exposed carbon-fiber weave (Toray T800) on the roof, mirrors, and side skirts, and forged BBS FI-R wheels (20x11 front, 21x13 rear) with Pirelli P Zero Trofeo R tires (285/30/20, 335/25/21)",
+    "Interior: Full Alcantara-wrapped Recaro SPG XL seats with Schroth 6-point harnesses, a custom MOMO Mod.78 steering wheel (carbon-fiber, Alcantara grip), and a digital dash upgrade via a Motec C187 display with Lamborghini-specific hybrid power telemetry overlay"
+  ]
+}

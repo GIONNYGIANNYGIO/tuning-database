@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "LM002 DAKAR SPEC",
+  "prestazioni": [
+    "Engine: Replace the stock 5.7L V12 (LAMBORGHINI Tipo 135) with a fully built 6.5L Tipo 135 stroker kit from Novitec Torado, featuring forged Mahle pistons (12.5:1 compression), Carrillo H-beam rods, and a billet crankshaft. Pair with a custom dry-sump oiling system from Aviaid to handle extreme off-road angles and sustained high-RPM operation.",
+    "Forced Induction: Twin Garrett GTX5533R Gen II turbochargers with TiAL MV-R 60mm wastegates and TiAL Q 50mm blow-off valves, mounted on a custom tubular manifold by Armytrix. Intercooling via a PWR dual-core front-mount intercooler with a 1000hp capacity, paired with a Davies Craig EWP150 electric water pump for consistent thermal management in desert conditions.",
+    "Drivetrain: Reinforced ZF 5-speed manual transmission with a Quaife ATB differential and a custom 4.10:1 final drive ratio from Hewland for improved low-end torque delivery. Upgraded half-shafts from GKN Driveline with CV joints rated for 1,200Nm of torque, and a custom transfer case from Advance Adapters with a 4:1 low-range gearset for rock-crawling capability."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion by Prior Design, featuring Dakar-spec fender flares with integrated LED light pods (Baja Designs Squadron Pro), a custom front bumper with a WARN Zeon 12-S winch and a skid plate from Armor Tech. Rear overfenders house a custom spare tire carrier with a 39-inch BF Goodrich KM3 tire mounted on a Method MR701 beadlock wheel.",
+    "Suspension: Full long-travel suspension system by Öhlins, featuring 2.5-inch diameter remote-reservoir coilovers with 14 inches of wheel travel, paired with custom-fabricated control arms from RPM Off-Road. Front and rear sway bars from Eibach with adjustable end links, and a custom hydraulic bump stop system from Fox Racing Shox to prevent bottoming out during extreme articulation.",
+    "Aerodynamics: Custom Dakar-spec roof scoop by Rieger Tuning to feed the intercooler and engine bay, paired with a rear diffuser from APR Performance to reduce lift at high speeds. Side-mounted auxiliary fuel tanks (2x 20-gallon ATL fuel cells) with external fillers, and a custom roof rack from Front Runner Outfitters for additional gear storage, including a 5-gallon water reserve."
+  ]
+}

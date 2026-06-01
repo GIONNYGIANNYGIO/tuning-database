@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "MURCIELAGO LP640",
+  "prestazioni": [
+    "Engine: L539 6.5L V12 (6396cc) – Forged internals upgrade with Carrillo H-beam connecting rods and JE Pistons 12.5:1 forged pistons to handle 850+ HP on E85 fuel, paired with a custom billet crankshaft from Manley Performance for 9,000 RPM stability.",
+    "Forced Induction: Twin-turbo system using Garrett GTX5533R Gen II turbos (1.05 A/R, 88mm compressor wheels) with TiAL MV-R 60mm wastegates and custom 4-inch stainless steel equal-length exhaust manifolds by SMS Engineering, supporting 2.2 bar (32 psi) boost with a Motec M150 ECU for precise fuel and ignition mapping.",
+    "Drivetrain & Cooling: Upgraded Graziano transaxle with a Quaife ATB differential (80% lock) and a Sachs Performance twin-disc clutch (300mm, 4-spring) for 1,200 Nm torque capacity. Custom dual-core radiator by PWR with integrated oil cooler and a Davies Craig EWP150 electric water pump for consistent thermal management under track use."
+  ],
+  "estetica": [
+    "Aerodynamics: Novitec Torado LP640 widebody kit with carbon fiber front splitter, side skirts, and a rear diffuser, paired with a custom GT3-style rear wing by Prior Design (adjustable carbon fiber, 1,200mm span) for 300+ kg downforce at 250 km/h.",
+    "Wheels & Brakes: HRE P101SC wheels (20x10.5 front, 21x13 rear) in matte gold with custom offsets (-15mm front, -5mm rear) to fit oversized AP Racing CP9660 6-piston calipers with 420mm carbon-ceramic rotors (upgraded from OEM 380mm) and Ferodo DS3000 pads for 1,500 kg stopping power.",
+    "Interior & Lighting: Full Alcantara retrim by Sabelt with custom embroidered LP640 logos on the headrests, a digital dash upgrade using a Motec C127 display (replacing the OEM analog gauges), and a custom LED lighting package by Diode Dynamics (amber turn signals, sequential taillights, and a carbon fiber engine bay illumination kit)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "SIAN FKP37 ROADSTER EVO",
+  "prestazioni": [
+    "Lamborghini L539 6.5L V12 (naturally aspirated) + 48V e-motor hybrid system: Replace the stock IHI electric motor with a **Magnax AXF-225 axial flux motor** (300 kW peak, 120 kW continuous) paired with a **Molicel P42A 800V battery pack** (2.5 kWh capacity, 1200A discharge) for a 40% increase in hybrid torque delivery and 0.2s faster 0-100 km/h (2.5s vs. stock 2.7s).",
+    "L539 V12 intake system: **Novitec Torado carbon fiber ram-air intake** with **K&N XStream conical filters** (99.5% filtration efficiency) and **Tial 72mm throttle bodies** (replacing stock 65mm units) for a 15% airflow increase at 8,500 RPM, paired with a **custom Motec M150 ECU** recalibration to optimize AFR (12.8:1 under full load) and ignition timing (12° BTDC at peak power).",
+    "Exhaust system: **Capristo 102-RS titanium 3.5-inch center-outlet exhaust** with **Inconel 625 headers** (1.8mm wall thickness) and **Akrapović Racing catalytic converters** (200-cell, 99.9% efficiency), reducing backpressure by 38% and adding 45 HP at 8,700 RPM, with a **custom Helmholtz resonator delete** for a 98 dB crackle tune at 4,500 RPM."
+  ],
+  "estetica": [
+    "Aerodynamics: **Prior Design PD-Lambo Sian Roadster widebody kit** (carbon fiber, 30mm extended fenders) with **Rocket Bunny GT-style canards** (front splitter extension + rear diffuser fins) and a **custom Vorsteiner V-FF 102 rear wing** (adjustable 0-20° angle, 3D-printed titanium supports) for +220 kg downforce at 250 km/h.",
+    "Wheels & Brakes: **HRE FF16 21x10.5J (front) / 22x12.5J (rear) forged wheels** (ET30/ET5, 9.5kg each) wrapped in **Pirelli P Zero Trofeo R tires** (265/30 R21 / 325/25 R22) with **Brembo GT-R 6-piston monobloc calipers** (42mm pistons) and **carbon-ceramic rotors** (410mm front, 390mm rear) featuring **AP Racing CP8300 brake pads** for 1,200°C heat resistance.",
+    "Interior & Lighting: **Recaro Pole Position carbon-Kevlar seats** (8-way adjustable, 12kg each) with **Schroth 6-point harnesses** (ASM2 lap belts) and a **Momo Prototipo steering wheel** (380mm diameter, Alcantara + carbon fiber). Exterior lighting upgraded to **Luxxen GTR-7 LED headlights** (12,000 lumen, adaptive matrix beam) and **DRLs replaced with Osram LaserLine units** (500m range)."
+  ]
+}

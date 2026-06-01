@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "REVENTON ROADSTER",
+  "prestazioni": [
+    "Engine: 6.5L V12 (L539, 6496cc) with a custom Novitec Torado supercharger kit (centrifugal, 12psi boost) paired with a Novitec-specific ECU remap (30% fueling increase, 28° ignition advance) and a Novitec high-flow carbon intake system (ram-air design, 3.5\" inlet diameter) to achieve 850hp at 8,200 RPM and 680 lb-ft at 6,500 RPM",
+    "Drivetrain: Reinforced 6-speed e-gear transmission with a Novitec TCU upgrade (0.15s faster shifts, launch control at 6,000 RPM) and a Drexler Motorsport limited-slip differential (45% lock, carbon friction plates) for optimized torque distribution to the rear wheels",
+    "Suspension: Öhlins TTX46 coilovers (3-way adjustable, 24-position rebound, 15-position compression) with custom Reventon-specific valving, paired with a Novitec front strut brace (aluminum-magnesium alloy, 30% stiffer than OEM) and a Tubi Style titanium rear subframe brace (1.2kg weight reduction, 40% torsional rigidity increase)"
+  ],
+  "estetica": [
+    "Aerodynamics: Novitec Reventon-specific carbon fiber widebody kit (front splitter with integrated canards, side skirts with air curtains, rear diffuser with active Gurney flap) and a Novitec rear wing (dual-element, 1.8m span, adjustable angle up to 15°) for 30% more downforce at 200 km/h",
+    "Wheels: HRE FF16 flow-formed wheels (20x9.5 front, 21x12.5 rear) with custom Reventon-specific offsets (+15mm front, +20mm rear) and Pirelli P Zero Trofeo R tires (255/30 R20 front, 355/25 R21 rear) for optimized track grip and heat dissipation",
+    "Exterior: Full Novitec carbon fiber body panels (hood, fenders, trunk) with a custom satin-finish matte black wrap (3M 2080 series, 10-year warranty) and Reventon-specific LED headlights (Osram Night Breaker Laser, 600% brighter than OEM) with a Novitec carbon fiber headlight cover (vented for heat dissipation)"
+  ]
+}

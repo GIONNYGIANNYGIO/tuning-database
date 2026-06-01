@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "CENTENARIO ROADSTER EVO",
+  "prestazioni": [
+    "Engine: L539 6.5L V12 (naturally aspirated) – Full titanium internals upgrade with forged Mahle Motorsport pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft by Manley Performance, paired with a custom dry-sump lubrication system by Peterson Fluid Systems (4-stage, 12L capacity) to eliminate oil starvation during 1.5G lateral loads.",
+    "Forced Induction: Twin-turbo conversion using Garrett GTX5533R Gen II turbos (1.25 A/R, ball-bearing) with custom 4-inch Inconel exhaust manifolds by Armytrix, mated to a Tial MV-R 60mm wastegate and a custom air-to-water intercooler system (core dimensions: 1200x600x100mm) by PWR, fed by a Bosch Motorsport 044 high-flow fuel pump and Injector Dynamics ID2000x injectors (2000cc/min).",
+    "ECU & Drivetrain: Motec M150 ECU with Centenario-specific firmware (Lambda 1 target, 2.2 bar boost, 9000 RPM redline), paired with a Quaife ATB helical LSD (85% lock) and a custom 6-speed ISR Racing sequential gearbox (dog-ring, 50ms shifts) with a Tilton triple-plate carbon clutch (280mm, 3000Nm torque capacity). Suspension: Öhlins TTX46 MkII coilovers (3-way adjustable, 200mm travel) with custom titanium top mounts by 3D Forged, adjustable anti-roll bars by H&R (28mm front, 25mm rear), and spherical bearing conversion for all control arms by SuperPro."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon-fiber widebody kit by Novitec Torado (Centenario-specific, +120mm front, +150mm rear), featuring a custom front splitter with integrated canards (3D-printed titanium, 30% lighter than OEM) and a rear diffuser with active Gurney flap (electrically adjustable, 0-30mm range) by Vorsteiner. Rear wing: Custom 3D-printed titanium wing (1.8m span, NACA 63A012 airfoil) with dual-plane adjustability (0-15° AoA) and integrated DRS (Drag Reduction System) for high-speed stability.",
+    "Exterior Trim: Full titanium bolt-on hardware (lug nuts, wheel studs, brake caliper pistons) by Brembo Racing (gold anodized), custom carbon-fiber side skirts with integrated LED lighting (Philips Lumileds Luxeon Z ES, 5000K) and a titanium exhaust system by Akrapović (4-2-1 layout, 3.5-inch outlets, Inconel 625 construction) with electronically adjustable butterfly valves (0-100% backpressure control).",
+    "Wheels & Brakes: Custom forged magnesium wheels by Dymag (20x12.5 front, 21x15 rear, 3-piece construction, 8.5kg per wheel) wrapped in Pirelli P Zero Trofeo R tires (265/30 R20 front, 345/25 R21 rear). Braking: Brembo GT-R 6-piston calipers (front, 42mm pistons) and 4-piston (rear, 38mm pistons) with carbon-ceramic rotors (410mm front, 380mm rear) by Surface Transforms (ST-XR compound, 1200°C thermal capacity) and titanium brake lines by Goodridge."
+  ]
+}

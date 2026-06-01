@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "MURCIÉLAGO",
+  "prestazioni": [
+    "Engine: L535 (6.2L V12) or L539 (6.5L V12) – Forced induction via twin Precision Turbo PT6266 CEA ball-bearing turbos with 1.2 bar (17.4 psi) boost, custom billet compressor wheels, and 3D-printed Inconel turbine housings. Supporting mods include a custom 4-ply silicone intake manifold with integrated methanol injection (Snow Performance Stage 3 kit), forged Mahle pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a dry-sump oiling system with an Aviaid 10-stage pump and dual external oil coolers (Setrab 625 series).",
+    "Drivetrain: Reinforced 6-speed e-gear transmission with a Sachs Performance twin-disc clutch (380mm diameter, cerametallic friction material) and a Quaife ATB differential (85% lockup). Custom half-shafts from The Driveshaft Shop (3.5-inch chromoly, CV-joint reinforced) and a lightweight flywheel (12.5 lbs, billet steel) from Fidanza.",
+    "Suspension & Handling: Öhlins TTX46 coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression), custom valving for Murciélago-specific geometry, and spherical bearing top mounts. Full polybushings from SuperPro (front/rear control arms, subframe, and differential mounts). Brembo GT-R 6-piston calipers (405mm front, 380mm rear) with 2-piece floating rotors (PFC 08 carbon-metallic pads) and a custom brake bias valve from Tilton Engineering."
+  ],
+  "estetica": [
+    "Aerodynamics: Liberty Walk LB-WORKS widebody kit (carbon fiber, bolt-on fenders with 50mm extended wheel arches), custom front splitter with integrated canards (3D-printed carbon, 30% downforce increase at 120 mph), and a GT3-style rear diffuser with active Gurney flap (adjustable via cockpit switch). Rear wing is a custom 3-piece carbon unit (DTM-style, 1,200mm span) with dual-element design and adjustable angle (0-15 degrees).",
+    "Wheels & Stance: HRE P101SC wheels (20x10.5 front, 21x13 rear) with custom offsets (+15mm front, +5mm rear) and titanium lug bolts (ARP). Tires: Michelin Pilot Sport Cup 2 R (275/30/20 front, 345/25/21 rear) with nitrogen inflation (32 psi cold). Fender flares rolled and pulled (custom steel reinforcement plates welded in) to accommodate 5mm spacers for flush fitment.",
+    "Exterior & Lighting: Full carbon fiber body conversion (VIS Racing pre-preg autoclave panels) with custom matte satin finish (PPG Xtreme Basecoat). LED headlight retrofit (Lux HID Projectors, 5500K CCT) with sequential turn signals (custom PCB from Diode Dynamics). Side markers replaced with carbon fiber vents (functional, ducted to rear brakes). Engine bay fully shaved and painted in Lamborghini Verde Ithaca, with custom billet aluminum strut bar (BAC Mono-R) and carbon fiber intake plenums (visible through clear polycarbonate hood)."
+  ]
+}

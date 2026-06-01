@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "HURACÁN LP580-2",
+  "prestazioni": [
+    "Lamborghini L539 5.2L V10 naturally aspirated engine: Replace the OEM exhaust manifold with a custom-made **Capristo 102-RS 4-2-1 equal-length titanium header** (LP580-2-specific fitment) to reduce backpressure by 22% while maintaining optimal scavenging for the 9,000 RPM redline. Pair with a **Capristo 200-cell metallic catalytic converter** to retain Euro 6d compliance without sacrificing power.",
+    "Install a **Motec M150 ECU** with a **Lamborghini L539-specific calibration map** (developed by **SharkWerks**) to optimize ignition timing and fuel delivery for E85 blends, unlocking an additional 45 HP at 8,500 RPM while maintaining OEM drivability. Include a **Plex Knock Monitor** for real-time detonation feedback.",
+    "Upgrade the OEM **Lamborghini LP580-2 rear-wheel-drive drivetrain** with a **Quaife ATB helical LSD (part # QDF7J)** and **Penske 8760 3-way adjustable coilovers** (custom valved for the Huracán’s aluminum-intensive chassis). Replace the OEM half-shafts with **The Driveshaft Shop Stage 3 carbon fiber driveshafts** (2.5x stronger than OEM) to handle increased torque."
+  ],
+  "estetica": [
+    "Install a **Rocket Bunny V3 widebody kit (LP580-2-specific)** with **custom carbon fiber overfenders** (pre-preg autoclave construction) to accommodate 20x10.5 ET35 front and 21x12.5 ET45 rear **BBS FI-R wheels** (forged 3-piece, 10.5kg per wheel). Use **Michelin Pilot Sport Cup 2 R tires (255/30/20 front, 325/25/21 rear)** for optimal grip.",
+    "Replace the OEM front splitter with a **Novitec Torado LP580-2 carbon fiber splitter** (3D-scanned for perfect fitment) and add a **custom 3D-printed active Gurney flap** (controlled via **Motec PDM15**) to adjust downforce dynamically. Paint the entire kit in **Lamborghini Verde Mantis (PPG DBC9700) with a matte clear coat** for a stealth OEM+ look.",
+    "Swap the OEM taillights for **Novitec LP580-2-specific LED taillights** (with sequential startup animation) and install a **Capristo titanium exhaust system (dual 100mm outlets, valve-controlled)** with **custom laser-etched Lamborghini Raging Bull logos** on the tips. Add **OEM-style carbon fiber engine bay covers (LP580-2-specific)** with **anodized gold hardware** for a subtle contrast."
+  ]
+}

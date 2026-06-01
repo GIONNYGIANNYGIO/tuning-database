@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "REVENTON GT1 CONCEPT",
+  "prestazioni": [
+    "Engine: L539 6.5L V12 (GT1-spec) with forged internals, including Carrillo H-beam connecting rods, JE Pistons 2618 alloy forged pistons (12.5:1 compression), and a billet crankshaft from Manley Performance. Twin Garrett GT42R turbochargers (84mm compressor wheels) with TiAL MV-R 44mm wastegates and TiAL Q 50mm blow-off valves, feeding into a custom 4.5-inch titanium exhaust system by Akrapović with equal-length headers and a straight-pipe design for GT1 homologation compliance.",
+    "Drivetrain: Xtrac P1046 6-speed sequential gearbox with a carbon-fiber driveshaft and a Drexler Motorsport limited-slip differential (40% lock under power, 60% under deceleration). Sachs Racing twin-plate ceramic clutch with a 240mm disc diameter and a hydraulic release bearing system for GT1 endurance racing.",
+    "Suspension & Chassis: Öhlins TTX40 4-way adjustable coilovers with 32mm front and 30mm rear adjustable anti-roll bars by H&R. The front subframe is reinforced with a custom T45 steel tubular cage by G-Tech Motorsport, while the rear features a carbon-fiber torque arm brace by Varis. Brembo GT1-spec brake system with 6-piston front (400mm rotors) and 4-piston rear (380mm rotors) calipers, paired with Ferodo DS3000 brake pads and steel-braided lines by Goodridge."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon-fiber GT1 aero package by Liberty Walk, including a front splitter with integrated dive planes, a rear diffuser with active Gurney flap (adjustable via cockpit switch), and a fixed rear wing with a 1,200mm span and 300mm chord, constructed from pre-preg carbon fiber with a honeycomb core. Side skirts feature integrated NACA ducts for brake cooling, while the hood has a central ram-air scoop feeding the turbochargers.",
+    "Body & Lighting: Full carbon-fiber body panels by Novitec Torado, including a removable roof panel with a quick-release mechanism. Custom LED headlights by LUX Automotive with adaptive cornering functionality and a sequential turn signal system. Rear lighting consists of a full-width LED taillight bar by Diode Dynamics, integrated into the rear diffuser.",
+    "Interior: Full FIA-spec roll cage by Safety Devices with a 6-point harness by Schroth Racing and a carbon-fiber racing seat by Sparco (model: GT1-C). The dashboard features a Motec C127 digital display with integrated traction control, launch control, and pit lane speed limiter. A custom carbon-fiber steering wheel by MOMO (model: GT1) with paddle shifters and a quick-release hub, paired with a hydraulic power steering system by KAZ Technologies."
+  ]
+}

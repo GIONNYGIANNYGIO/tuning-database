@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "MIURA SVJ CONCEPT BUILD",
+  "prestazioni": [
+    "Engine: 4.0L V12 (L539-derived, code-named *L539SVJ*) with forged internals by JE Pistons (9.5:1 CR, 87.5mm bore, 84.5mm stroke), Carrillo H-beam connecting rods, and a billet crankshaft from Bryant Racing. Twin Garrett GTX5533R turbochargers (86mm compressor, 76mm turbine) with TiAL MV-R 44mm wastegates and custom 3.5\" titanium downpipes by Armytrix.",
+    "Fuel System: Full sequential port injection with 12x Bosch Motorsport 2200cc injectors (PN: 0 280 158 109) paired with a MoTeC M182 ECU and dual Bosch Motorsport 044 high-pressure fuel pumps (1200hp capable). Custom CNC-machined intake manifold by Velocity Motorsports with individual throttle bodies (ITBs) and a 102mm throttle body from Jenvey Dynamics.",
+    "Drivetrain: Graziano VT6 6-speed manual transmission with a 3.73:1 final drive ratio, OS Giken twin-plate clutch (240mm), and a Quaife ATB differential. Custom half-shafts by The Driveshaft Shop (3.5\" chromoly) and a lightweight flywheel from Fidanza (12.5lb)."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion by Novitec Torado, featuring a custom front splitter with integrated canards (3D-printed from carbon-filled nylon), a rear diffuser by RW Carbon, and a functional rear wing by Vorsteiner (adjustable 3-position Gurney flap).",
+    "Wheels: HRE FF16 flow-formed wheels (9x19\" front, 12x20\" rear) with custom center-lock adapters, wrapped in Michelin Pilot Sport Cup 2 R tires (245/35/19 front, 335/30/20 rear).",
+    "Interior: Full Alcantara retrim by Saddleback Leather, including a custom roll cage by Safety Devices (FIA-spec, 8-point with integrated fire suppression system). Sparco Pro 2000 seats with 6-point harnesses, a MOMO Mod.78 steering wheel (380mm, suede), and a digital dash by AIM MXS Strada (12.3\" display)."
+  ]
+}

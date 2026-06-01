@@ -1,0 +1,15 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "REVUELTO GT3 CONCEPT",
+  "prestazioni": [
+    "Engine: L545 6.5L naturally aspirated V12 with titanium connecting rods (Pankl Racing Systems) and forged pistons (Mahle Motorsport), ported and polished cylinder heads by Novitec, and a custom dry-sump lubrication system (Moroso) for sustained 10,500 RPM operation under GT3 endurance racing conditions",
+    "Forced Induction: Twin-turbocharged conversion using Garrett GTX5544R Gen II turbos with billet compressor wheels, custom 4.5-inch titanium downpipes (Armytrix), and a bespoke air-to-water intercooler system (PWR) integrated into the Revuelto’s hybrid battery cooling loop for consistent intake temps under 40°C at 2.5 bar boost",
+    "Drivetrain: 7-speed Graziano dual-clutch transmission with a reinforced differential (Quaife ATB LSD), carbon-fiber driveshaft (GKN), and a custom ECU calibration (Motec M150) with launch control mapped for 0-100 km/h in 2.1 seconds, optimized for Pirelli P Zero Trofeo R tires (325/680R18 front, 345/710R18 rear) and Brembo GT3-spec carbon-ceramic brakes (390mm front, 380mm rear) with AP Racing calipers",
+    "Suspension: Öhlins TTX46 MkII 3-way adjustable coilovers with titanium springs (Hyperco), custom spherical bearing control arms (Tractive Suspension), and a hydraulic ride-height adjustment system (KW Automotive) for pit-lane compliance, paired with a carbon-fiber front splitter (Liberty Walk) and a GT3-spec rear diffuser (AIM Motorsport) generating 1,200 kg of downforce at 250 km/h"
+  ],
+  "estetica": [
+    "Exterior: Full carbon-fiber body kit (Novitec Torado) with a widened front fender flares (30mm per side) and a custom rear wing (Rocket Bunny) featuring a dual-element DRS (Drag Reduction System) for straight-line speed optimization, finished in a matte Viola Micalizzato with exposed carbon-fiber weave on the hood and roof",
+    "Aerodynamics: Active aero package with a front splitter adjustable via hydraulic actuators (Bosch Rexroth) and a rear diffuser with integrated Gurney flaps (AIM Motorsport), paired with a custom underbody tray (Liberty Walk) for optimized airflow to the rear diffuser and side exits for brake cooling",
+    "Interior: Full FIA-spec roll cage (Sparco Pro 2000) with carbon-fiber door cards (V Carbon), Alcantara-wrapped steering wheel (MOMO GT3) with integrated Motec C127 dash display, and Recaro SPG XL GT3 seats with 6-point harnesses (Schroth), finished in Nero Ade with Viola Micalizzato stitching and a custom titanium shift knob (Brutal Design)"
+  ]
+}

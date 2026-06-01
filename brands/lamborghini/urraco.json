@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "URRACO",
+  "prestazioni": [
+    "Engine: Replace the stock 3.0L V8 (L240) with a fully built L240 stroker kit to 3.5L using forged Mahle pistons (9.5:1 CR), Carrillo H-beam connecting rods, and a billet crankshaft from JE Pistons, paired with a custom camshaft grind by Schrick (280° duration, 11.5mm lift) for high-RPM power delivery (target: 450+ HP at 8,500 RPM).",
+    "Forced Induction: Install a custom twin-turbo system using Garrett GT2867R turbos (0.82 A/R, ball-bearing) with TiAL MV-R 44mm wastegates and a custom air-to-water intercooler setup by Bell Intercoolers, plumbed with -8AN PTFE lines and a Bosch 044 fuel pump with dual Walbro 450 LPH in-tank pumps for E85 compatibility.",
+    "Drivetrain: Upgrade to a Quaife ATB differential (LSD) with a custom 5-speed ZF transaxle reinforcement kit (billet shift forks, upgraded synchros) and a Sachs Performance twin-disc clutch (240mm) with a lightweight flywheel (12.5 lbs) for rapid gear changes and durability under high torque loads."
+  ],
+  "estetica": [
+    "Body: Install a full carbon fiber widebody kit by RWB Japan (Urraco-specific, 50mm wider rear fenders, 30mm front) with a custom front splitter by Varis and a ducktail spoiler by 9ff, all finished in a custom matte Grigio Thalasso (Lamborghini original color) with exposed carbon weave accents.",
+    "Wheels: Fit 16x9.5 (front) and 16x11 (rear) OZ Racing Ultraleggera wheels (original Urraco P300 size but widened) with custom offsets (+15 front, +5 rear) wrapped in Pirelli P Zero Corsa tires (225/50R16 front, 285/45R16 rear) for period-correct aggression.",
+    "Interior: Retrim the cabin in full Alcantara (Rosso Mars) with custom Recaro SRD-E seats (Urraco-specific shell) wrapped in Nappa leather, a MOMO Prototipo steering wheel (380mm, suede), and a full digital dash retrofit using a Motec C127 display with custom Lamborghini-themed gauges."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "REVUELTO",
+  "prestazioni": [
+    "L939 6.5L V12 hybrid powertrain: Full carbon-fiber intake manifold with direct port injection upgrade from Weistec Engineering, increasing airflow by 18% and optimizing throttle response for the naturally aspirated V12 while maintaining hybrid system integration",
+    "Garrett GTX5533R turbocharger conversion (twin-turbo kit) by Novitec Torado, specifically calibrated for the L939’s hybrid architecture, with custom billet compressor wheels and 76mm turbine housings to handle 1.4 bar of boost while preserving the electric motor’s torque fill",
+    "Ohlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and hybrid mode-specific valving), paired with Lamborghini Revuelto-specific camber plates from 3D Carbon for -4.5 degrees of front camber to counteract the car’s 51:49 weight distribution under aggressive cornering"
+  ],
+  "estetica": [
+    "Rocket Bunny widebody kit for the Revuelto (RB-LAM-REV), featuring hand-laid carbon-fiber fenders with integrated air curtains, a 3-piece front splitter with active aerodynamic elements, and a ducktail spoiler with a Gurney flap adjustable via the Lamborghini ANIMA system",
+    "Forge Motorsport carbon-fiber engine cover with a clear polycarbonate window to showcase the L939’s hybrid V12, paired with a custom titanium exhaust system by Capristo (4.5-inch outlets) featuring a valved bypass for the electric motor’s regenerative braking sound modulation",
+    "Brembo GT-R 6-piston calipers (front) and 4-piston (rear) with two-piece rotors (410mm front, 380mm rear) in a gold anodized finish, wrapped in custom 21-inch front and 22-inch rear forged aluminum wheels by HRE (FF16 model) with a 5x130 bolt pattern and titanium hardware"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "MIURA P400 S",
+  "prestazioni": [
+    "Engine: Replace the original 3.9L *L360* V12 (engine code: *L200*) with a fully balanced and blueprinted *L360* featuring forged Mahle pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from *JE Pistons* for 8,500 RPM reliability. Pair with a custom *Weber 46 IDA* carburetor setup (4x twin-choke) tuned by *Fuel Injection Specialties* for 420+ HP at the crank with 98 RON fuel.",
+    "Exhaust: Install a *Capristo 3.5-inch stainless steel equal-length header system* with 200-cell catalytic converters (for period-correct sound with modern emissions compliance) and a *SuperSprint* rear muffler with adjustable baffles to fine-tune the V12’s 3rd-order harmonic resonance.",
+    "Suspension: Convert to a *Koni 8211 Series* coilover system with adjustable rebound and compression damping, paired with *Eibach ERS* race springs (25% stiffer than OEM) and *SuperPro* polyurethane bushings for the *Miura’s* unique rear transaxle subframe. Add a *Whiteline* front sway bar (24mm) and *Rear Adjustable Toe Arms* from *SPL Parts* to mitigate the P400 S’s notorious lift-off oversteer.",
+    "Drivetrain: Upgrade the ZF 5-speed transaxle with a *Quaife ATB differential* (80% lock) and a *PPG* close-ratio gearset (1st: 2.54, 2nd: 1.78, 3rd: 1.31, 4th: 1.00, 5th: 0.82) for optimized acceleration. Replace the OEM half-shafts with *GKN Driveline* CV joints and *DBA 5000 Series* slotted rotors with *Ferodo DS2500* pads for consistent braking under 1,200kg track weight."
+  ],
+  "estetica": [
+    "Body: Apply a *Rocket Bunny V1* widebody kit (modified for Miura’s chassis) with *Pandem* carbon fiber fender flares, front splitter, and rear diffuser. Paint in *PPG Lamborghini Arancio Xanto* (original P400 S color) with a *3M Matte Clear Coat* for a stealth-aggressive look. Add *OEM-style* *Marchal* headlights with *Hella* H4 bulbs and *DEPO* LED taillights for modern visibility.",
+    "Interior: Retrim the cabin in *Bridge of Weir* leather (matching original *Lamborghini* spec) with *Recaro Pole Position* seats (modified for Miura’s fixed-back design) and *Schroth* 4-point harnesses. Replace the OEM gauges with a *Motec C127* digital dash (housed in a *Smiths* replica bezel) and a *Momo* *Mod.78* steering wheel (380mm, suede). Add *Soundstream* *VR-652NB* amplifier and *Focal* *K2 Power* speakers for a period-correct audio upgrade.",
+    "Wheels: Fit *OZ Racing* *Ultraleggera* 15x8 (front) and 15x10 (rear) wheels with *Pirelli P Zero Corsa* tires (205/50 R15 front, 265/45 R15 rear). Use *BBS* *RS-GT* center-lock adapters and *H&R* *Trak+* wheel spacers (15mm front, 20mm rear) for perfect fender fitment. Powder-coat the wheels in *Gunmetal Grey* with polished lips."
+  ]
+}

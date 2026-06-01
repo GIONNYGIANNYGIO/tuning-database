@@ -1,0 +1,14 @@
+{
+  "brand": "KOENIGSEGG",
+  "model": "ONE:1 CARBON",
+  "prestazioni": [
+    "Engine: Koenigsegg 5.0L V8 (internal code: *Kappa V8*) with billet aluminum block, forged internals, and dry-sump lubrication. Upgrade to a *Precision Turbo & Engine PT6266 CEA* turbocharger (86mm inducer, 106mm exducer) with a custom 3D-printed Inconel turbine housing for optimized exhaust gas flow at 1,360+ hp. Pair with a *Tial MV-R 60mm* wastegate and *TurboSmart Race Port 50mm* blow-off valve for precise boost control at 1.8 bar (26 psi).",
+    "Fuel System: Replace OEM *Bosch Motorsport 2,200cc* injectors with *ID1700x* injectors (2,400cc) and integrate a *FuelTech FT600* standalone ECU with flex-fuel ethanol mapping (E85). Add a *Radium Engineering dual-catch can* with -10AN lines to the crankcase ventilation system to prevent oil dilution under sustained 9,000 RPM operation.",
+    "Drivetrain: Install a *Pankl Racing Systems* 7-speed transaxle with carbon-fiber-reinforced gears (part #KSE-7CF) and a *Tilton Engineering* triple-plate carbon clutch (6.5-inch diameter) with a *Koenigsegg-specific* billet aluminum flywheel. Upgrade the limited-slip differential to a *Wavetrac Type-1* unit with a 45% lock rate for aggressive track launches."
+  ],
+  "estetica": [
+    "Aerodynamics: Replace the OEM front splitter with a *Koenigsegg Agera RS-spec* carbon-fiber splitter (part #KSE-1:1-FS-RS) featuring integrated *Gurney flaps* and *active aero* with hydraulic actuation. Install a *Vorsteiner V-FF 107* rear diffuser with 3D-printed titanium support struts and a *Koenigsegg One:1-specific* rear wing with *adjustable dual-element* design (max downforce: 830 kg at 260 km/h).",
+    "Bodywork: Apply a *3M 1080 Matte Graphite* full-body vinyl wrap with *Koenigsegg Ghost Stripes* (custom laser-cut decals) on the hood and fenders. Replace the OEM side mirrors with *DTM-spec* carbon-fiber mirrors (part #KSE-1:1-MIR-DTM) and install *HRE FF01* forged wheels (20x9.5 front, 21x12.5 rear) with *Pirelli P Zero Trofeo R* tires (265/35 R20 front, 345/30 R21 rear).",
+    "Interior: Retrim the cabin with *Bridge of Weir Nappa leather* in *Gunmetal Gray* with *Alcantara* suede headliner. Install a *Sabelt 6-point harness* (part #SPS-6-KSE) and a *MOMO Prototipo* steering wheel with *Koenigsegg One:1* embroidery. Add a *Motec C127* digital dash with *carbon-fiber weave* housing and *RGB LED* shift lights (programmed to 9,200 RPM redline)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "REVUELTO SPIDER",
+  "prestazioni": [
+    "Lamborghini L635 6.5L V12 hybrid powertrain (engine code: L635) with a custom Novitec-engineered ECU remap targeting 1,100+ hp (820 kW) via optimized ignition timing, fuel pressure adjustments (up to 12 bar), and hybrid system torque vectoring recalibration for instantaneous throttle response, paired with a Novitec-developed high-flow carbon air intake system featuring dual 90mm velocity stacks and a heat-reflective ceramic coating to reduce intake temps by 18°C under full load",
+    "Full titanium Akrapović Evolution Line exhaust system with electronically actuated bypass valves, 70mm diameter piping, and a bespoke X-pipe design to enhance scavenging efficiency, reducing backpressure by 32% while amplifying the V12’s 8,500 RPM exhaust note by 4dB; includes a secondary catalytic converter delete (for off-road use only) with a HJS 200-cell sports cat replacement for emissions compliance in EU/US markets",
+    "Ohlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and hybrid mode), custom spring rates (18kg/mm front, 22kg/mm rear), and Lamborghini-specific top mounts featuring spherical bearings for sub-10Hz NVH isolation; paired with a full carbon-fiber front sway bar (24mm adjustable) from D2 Racing and a rear sway bar delete to optimize mid-corner rotation, reducing understeer by 27% on track"
+  ],
+  "estetica": [
+    "Novitec Torado Aero Kit for Revuelto Spider, featuring a 3D-printed carbon-fiber front splitter with integrated air curtains (reducing front lift by 40%), a rear diffuser with active Gurney flaps (adjustable via Lamborghini’s LDVI system), and side skirts with vortex generators to improve high-speed stability; includes a custom Novitec-developed rear wing (1,200mm span) with dual-plane design and 12° angle adjustment for downforce tuning (up to 350kg at 250 km/h)",
+    "Forgeline GA5R 21x10.5 (front) and 22x12.5 (rear) forged monoblock wheels with Lamborghini-centric offset (front: ET30, rear: ET45) and titanium lug bolts, wrapped in Pirelli P Zero Trofeo R tires (275/30 R21 front, 345/25 R22 rear) with custom compound tuning for 15% higher lateral grip; includes a Novitec-engineered wheel spacer kit (5mm front, 3mm rear) to optimize track width for aggressive camber settings (-3.8° front, -2.9° rear)",
+    "Full carbon-fiber body conversion by Mansory, including a bespoke spider-specific hardtop with electrochromic glass (tint adjustable via LDVI), a lightweight carbon-fiber engine cover with integrated NACA ducts for hybrid battery cooling, and a custom front grille insert featuring laser-etched Lamborghini Raging Bull emblem with LED backlighting (RGBW, 16.8 million colors, synced to LDVI)"
+  ]
+}
