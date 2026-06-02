@@ -1,0 +1,14 @@
+{
+  "brand": "LI",
+  "model": "AUTO MEGA EV",
+  "prestazioni": [
+    "Upgrade to a **Vitesco EMR4 (Electric Motor Reference: 800V SiC Inverter + 3x 250kW Permanent Magnet Synchronous Motors)** with a **Unitek Bamocar D3-700-400** motor controller reflash for +120kW peak power (450kW total) and 1,100Nm torque via overclocked SiC MOSFET switching (validated by **AEM EV VCU-300** for torque vectoring)",
+    "Install **SKF Hybrid Ceramic Bearings (6206-2RSL-HC5)** on all three motor shafts with **Kluber Isoflex Topas NB 52** grease for 22,000 RPM stability, paired with a **Magna PT eDrive 2-speed transmission** (gear ratio: 9.5:1 / 5.2:1) for 0-100 km/h in 2.9s",
+    "Replace the OEM **CATL Qilin 102kWh Blade Battery** with a **StoreDot 4680-format 120kWh Extreme Fast Charging (XFC) battery** (100Wh/kg energy density) and integrate a **Webasto PLUG-IN 800V/350kW liquid-cooled charging system** for 0-80% in 8 minutes"
+  ],
+  "estetica": [
+    "Fit a **Liberty Walk LB-WORKS Mega EV Widebody Kit** (carbon fiber fenders, front splitter, and rear diffuser) with **Vorsteiner V-FF 105 22-inch forged wheels** (9.5J front, 11J rear, ET25/ET15) wrapped in **Michelin Pilot Sport EV 275/35R22 (front) / 315/30R22 (rear)** tires",
+    "Install a **Seibon Carbon Mega EV Roof** (pre-preg autoclave, 30% weight reduction) with **Novitec Torado-style LED taillights** and a **Rocket Bunny RB-W001 rear wing** (adjustable carbon fiber, 30mm Gurney flap)",
+    "Apply a **3M 1080 Gloss Volt Chrome vinyl wrap** with **Avery Dennison Supreme Wrapping Film** accents (matte black on rocker panels) and **HRE FF04 flow-formed wheels** in **BBS Gold** finish for track-day durability"
+  ]
+}

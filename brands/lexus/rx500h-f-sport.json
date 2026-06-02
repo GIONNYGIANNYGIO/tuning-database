@@ -1,0 +1,14 @@
+{
+  "brand": "LEXUS",
+  "model": "RX500H F SPORT",
+  "prestazioni": [
+    "Engine: Replace the stock 2.4L turbocharged *T24A-FTS* inline-4 hybrid powertrain with a *Garrett GTX4202R* turbocharger (84mm compressor wheel, 1.06 A/R turbine housing) paired with a *PTP Turbo Blankets* thermal wrap to reduce intake air temps by 20°C. Upgrade the intercooler to a *GReddy Type-25* front-mount unit (120% larger core volume) with *Mishimoto silicone hoses* and a *Radium Engineering* catch can to prevent oil buildup in the intake tract.",
+    "Hybrid System: Retain the *2VM* hybrid battery but upgrade the *PCU (Power Control Unit)* with a *Denso* custom firmware reflash (developed by *HKS*) to increase regenerative braking energy recovery by 30% and optimize torque split between the *T24A-FTS* and *5LM* electric motor for a 0.2s faster 0-60mph time. Install a *AEM EV VCU* to manage the hybrid system’s torque vectoring for sharper turn-in response.",
+    "Drivetrain: Swap the stock *RAV4-derived* 8-speed automatic for a *ZF 8HP76* transmission with a *PRL Motorsports* billet torque converter (3,800 RPM stall) and a *South Bend Clutch* twin-disc setup for the hybrid motor’s input shaft. Reinforce the *Aisin* transfer case with a *Tom Wood’s Custom Drive Shafts* aluminum driveshaft and *Differential Solutions* 4.10:1 ring & pinion gears for the rear *Torsen LSD*."
+  ],
+  "estetica": [
+    "Aero: Install the *Liberty Walk LB-RX500H* widebody kit (carbon fiber fenders, 30mm extended wheel arches) paired with a *Varis Arising II* front lip and *Seibon* carbon fiber hood (with functional vents for the *GReddy intercooler*). Add a *Voltex Type-3* rear diffuser and *AIT Racing* side skirts with integrated *Philips LED* accent lighting.",
+    "Wheels/Suspension: Fit *Work Emotion CR Kiwami* 20x10.5 ET30 wheels (staggered setup: 20x12 ET25 rear) with *Michelin Pilot Sport Cup 2 R* tires (275/35 front, 315/30 rear). Replace the stock *AVS* adaptive dampers with *Öhlins Road & Track DFV* coilovers (3-way adjustable, 20mm lower than stock) and *Cusco* front/rear sway bars (24mm front, 22mm rear).",
+    "Interior/Exterior: Replace the stock *Mark Levinson* system with a *Bowers & Wilkins Diamond* 18-speaker setup (1,200W amplifier) and add a *RaceLogic* performance monitor in the center console. Wrap the exterior in *3M Matte Military Green* with *Vinyl Lab* gloss black accents on the grille and badges. Install *Recaro SP-G* seats with *Schroth* 6-point harnesses and a *MOMO* suede steering wheel (380mm diameter, flat-bottom)."
+  ]
+}

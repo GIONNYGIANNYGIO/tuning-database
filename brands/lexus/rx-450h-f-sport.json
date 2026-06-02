@@ -1,0 +1,14 @@
+{
+  "brand": "LEXUS",
+  "model": "RX 450H F SPORT",
+  "prestazioni": [
+    "2GR-FXS 3.5L V6 hybrid engine: Full hybrid system recalibration via **K-Tuned Hybrid ECU Flash (RX450h-specific)** to optimize throttle response, torque split (front/rear), and regenerative braking aggression, targeting a 15% increase in electric motor assist during 0-60 mph acceleration while maintaining OEM battery longevity",
+    "Forced induction upgrade: **Harrop HTV 3500 supercharger kit (2GR-FXS-specific)** with a **Vortech V-3 Si-Trim centrifugal blower**, custom intercooler (Setrab 40-row core), and **AEM 380LPH fuel pump** to support 350 whp on 93 octane with **Motec M150 ECU** managing boost, ignition timing, and hybrid torque delivery",
+    "Suspension overhaul: **Öhlins Road & Track DFV coilovers (RX-specific valving)** with **SPL Front Upper Control Arms (polyurethane bushings)** and **Cusco 22mm rear sway bar** to eliminate body roll during spirited driving, paired with **Michelin Pilot Sport Cup 2 R tires (275/40R21 front, 285/35R21 rear)** for maximum mechanical grip"
+  ],
+  "estetica": [
+    "Widebody conversion: **Liberty Walk LB-RX (RX450h F Sport-specific)** with carbon fiber fenders, custom front splitter, and **Seibon carbon fiber hood** (weight reduction: 12 lbs), retaining OEM hybrid badging for sleeper appeal",
+    "Lighting upgrade: **Morimoto XB LED headlights (DRL/low/high beam)** with **Lux H11 5500K bulbs** and **VLEDS 3rd brake light (RGB sequential turn signal)** for aggressive rear illumination, paired with **Vland JDM-style side markers (smoked lens)**",
+    "Interior refinement: **Recaro Sportster CS (RX450h F Sport-specific mounting brackets)** with **Schroth 6-point harnesses**, **MOMO Mod.78 steering wheel (F Sport airbag-compatible)**, and **Alcantara-wrapped hybrid shifter (custom stitching in F Sport red)** to match the OEM trim"
+  ]
+}

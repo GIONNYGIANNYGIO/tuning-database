@@ -1,0 +1,14 @@
+{
+  "brand": "LEXUS",
+  "model": "LFA Nürburgring Package",
+  "prestazioni": [
+    "1LR-GUE 4.8L V10 engine: Full titanium internals upgrade with Tomei 2618-forged pistons (9.0:1 compression), Carrillo H-beam connecting rods, and a custom billet crankshaft by JE Pistons for 10,500 RPM reliability. Pair with a Tial MV-R 44mm wastegate and a custom 3.5-inch titanium exhaust system by Akrapovič, featuring a straight-pipe design with quad 100mm outlets and a valved bypass for Nürburgring compliance.",
+    "Forced induction conversion: Single Garrett GTX5533R turbocharger with a custom billet compressor wheel (76mm inducer, 106mm exducer) and a 3D-printed titanium intake manifold by GReddy, designed to flow 1,200 CFM at 2.5 bar of boost. Includes a custom Motec M150 ECU with a bespoke turbocharger calibration map, optimized for the 1LR-GUE’s dry-sump lubrication system and dual-injection fueling (direct + port).",
+    "Chassis and drivetrain: Full carbon-fiber driveshaft by PST (PolyShift Technologies) with a 4.33:1 final drive ratio from a Lexus IS F-Sport differential, paired with a Quaife ATB helical LSD. Suspension features Öhlins TTX46 coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression), custom valved for the Nürburgring Package’s stiffer subframe. Braking system includes AP Racing CP9430 calipers with 420mm carbon-ceramic rotors (front) and 380mm rotors (rear), paired with Ferodo DS3000 pads and custom braided stainless steel lines by Goodridge."
+  ],
+  "estetica": [
+    "Full carbon-fiber widebody conversion by Liberty Walk LB-WORKS, featuring the LFA-specific ‘Nürburgring Edition’ kit with extended front fenders (30mm wider), rear quarter panels (50mm wider), and a custom rear diffuser with integrated titanium exhaust outlets. Includes a custom front splitter with a 3D-printed titanium support structure and a rear wing with a Gurney flap, both designed in collaboration with APR Performance for optimal downforce (target: 800kg at 200 km/h).",
+    "Interior: Full Alcantara retrim by Saddleback Leather, including the dashboard, door cards, and Recaro SPG XL seats (Nürburgring Package-specific pattern). Custom titanium shift knob by BBI Autosport, machined from a single billet of 6AL-4V titanium, paired with a bespoke titanium shift boot frame. Roll cage by Custom Cages (UK), constructed from T45 steel with a 6-point design, integrated with the OEM carbon-fiber monocoque for rigidity.",
+    "Aerodynamic lighting: Full LED conversion by LUX Automotive, featuring Osram Oslon Black Flat LEDs for the headlights (5,000K color temperature) and custom sequential taillights with a Nürburgring-inspired animation pattern. Includes a custom titanium front grille mesh by Novitec, laser-cut to match the LFA’s aggressive front fascia, and a carbon-fiber engine cover with a clear polycarbonate window to showcase the 1LR-GUE V10."
+  ]
+}

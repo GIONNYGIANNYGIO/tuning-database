@@ -1,0 +1,14 @@
+{
+  "brand": "LEXUS",
+  "model": "RC 350",
+  "prestazioni": [
+    "Forced induction upgrade via a **Garrett GTX3582R Gen II turbocharger** (ball-bearing, 62mm compressor wheel, 76mm turbine) paired with a **GReddy Type-S intercooler core (3.5\" thick, 22\" x 6.5\" x 12\")** to support the **2GR-FKS** 3.5L V6's 8,000 RPM redline and 450+ WHP on E85. Requires **ID1000x injectors**, **Walbro 450 LPH fuel pump**, and a **Link G4+ Xtreme ECU** for closed-loop ethanol flex-fuel tuning with individual cylinder trims.",
+    "Suspension overhaul using **Öhlins Road & Track DFV coilovers (Lexus RC-specific valving, 8-position rebound, 20-way compression damping)** paired with **SuperPro poly bushings (front lower control arms, rear subframe, and differential mounts)** to eliminate the 2GR-FKS's torque steer under boost. Front **SPL Pro lower control arms** with adjustable camber plates and **Cusco 22mm rear sway bar** to correct the RC 350's 55:45 weight bias.",
+    "Drivetrain reinforcement with a **PPG Stage 2 carbon-fiber driveshaft**, **OS Giken Super Lock LSD (2.18 final drive ratio)**, and **South Bend Clutch Stage 3 Daily twin-disc (26-spline, 2400lb clamp load)** to handle the 2GR-FKS's 400+ lb-ft of torque. Exhaust system features a **Burns Stainless 3\" turbo-back setup with 304L merge collectors** and **GESI catted downpipes** to maintain backpressure while reducing turbo lag."
+  ],
+  "estetica": [
+    "**Rocket Bunny V3 widebody kit (RC350-specific, 30mm front/40mm rear fender flares)** with **custom carbon-fiber overfenders** to clear the **Advan GT 5 19x9.5 +22 front / 19x11 +35 rear wheels** (staggered fitment with **Michelin Pilot Sport Cup 2 R 265/35/19 and 295/30/19 tires**). Front bumper lip replaced with **Seibon carbon-fiber Varis-style splitter** and **custom aluminum canards** for aero balance.",
+    "**Custom Lexus RC 350-specific rear diffuser** (3D-printed ABS with **Gurney flap**) paired with a **Voltex Type-3 rear wing (1,200mm width, 300mm chord, 15-degree angle of attack)** to generate 180lbs of downforce at 120mph. Underbody features **Aeroflow carbon-fiber flat floor panels** and **custom aluminum belly pan** to reduce drag by 12%.",
+    "**Full interior carbon-fiber overhaul** including **Seibon carbon-fiber door cards, center console, and dashboard trim** (matched to **Takata Drift II 4-point harnesses** and **Sparco Pro 2000 seats**). Shift knob replaced with a **TWM short-throw billet aluminum unit (2GR-FKS-specific, 35% reduction in throw)** and **custom Alcantara-wrapped Momo Prototipo steering wheel (380mm diameter, suede thumb grips)**. Engine bay showcases a **custom carbon-fiber strut brace** and **anodized purple HKS cam covers** for the 2GR-FKS."
+  ]
+}

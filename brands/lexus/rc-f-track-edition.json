@@ -1,0 +1,14 @@
+{
+  "brand": "LEXUS",
+  "model": "RC F TRACK EDITION",
+  "prestazioni": [
+    "Engine: 2UR-GSE (5.0L V8, 32V DOHC) – Full forged internals upgrade with Manley I-beam connecting rods, JE 12.5:1 compression forged pistons, and ACL Race Series bearings to handle 800+ WHP on E85. Pair with a custom-built TREMEC TR-6060 6-speed manual transmission swap (RC F-specific bellhousing adapter by PPG) for direct-drive precision.",
+    "Forced Induction: Twin-turbo kit by HKS GT-SS (GT350R spec) with Garrett GTX4202R turbos (62mm compressor, 76mm turbine), custom 4-inch stainless steel intercooler piping (VRSF Race Spec), and a Tial MV-R 44mm wastegate setup. Boost controlled via AEM Infinity 7 standalone ECU with flex-fuel sensor and dual Bosch 028 high-flow fuel pumps for E85 compatibility.",
+    "Suspension & Chassis: Full Öhlins Road & Track DFV coilovers (RC F-specific valving) with 25mm front and 20mm rear adjustable sway bars (Hotchkis Sport Suspension). Reinforced subframe bushings (Energy Suspension polyurethane) and a custom carbon fiber strut tower brace (Seibon Carbon) to eliminate flex. Brembo GT 6-piston front/4-piston rear calipers with 380mm two-piece rotors (AP Racing) for fade-resistant stopping power."
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny V3 widebody kit (RC F-specific) with extended carbon fiber fenders, front splitter, and ducktail spoiler. Custom 3D-printed active rear diffuser (Aeroflow Dynamics) with integrated LED brake cooling ducts. Vortex generators (AeroCatch) on the roof and rear quarter panels for reduced drag (Cd 0.29).",
+    "Exterior: Full custom paint in Lexus Structural Blue with matte black accents (PPG Deltron DBC basecoat). Carbon fiber hood (Seibon Carbon) with functional heat extractors, and side skirts (Varis Japan) with integrated LED turn signals. OEM+ headlight retrofit with Morimoto XB LED projectors and sequential turn signals (Diode Dynamics).",
+    "Interior: Full carbon fiber weave interior (Sparco Carbon-Kevlar seats with Schroth 6-point harnesses). Custom roll cage (Autopower Industries) with integrated fire suppression system (Lifeline Zero 360). Alcantara-wrapped steering wheel (NRG Innovations) with integrated AIM MXS Strada dash display. Rear seat delete with custom aluminum storage for fire extinguisher and toolkit."
+  ]
+}

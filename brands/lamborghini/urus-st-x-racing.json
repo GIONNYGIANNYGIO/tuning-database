@@ -1,0 +1,14 @@
+{
+  "brand": "LAMBORGHINI",
+  "model": "URUS ST-X RACING",
+  "prestazioni": [
+    "Engine: 4.0L twin-turbocharged V8 (code: *L539*), upgraded with a *Weistec Engineering Stage 3+ hybrid turbo kit* featuring *Garrett GTX5533R Gen II turbos* (1.45 A/R, 76mm compressor, 64mm turbine) and *Tial MV-R 60mm external wastegates* (set to 2.2 bar peak boost), paired with a *Motec M150 ECU* for full CAN-bus integration and real-time lambda/knock control via *Bosch LSU 4.9 wideband sensors* and *Kistler 6052C piezoelectric knock sensors*.",
+    "Drivetrain: *Xtrac P1297 6-speed sequential transaxle* with *AP Racing CP9444-2 carbon-carbon clutch* (3-disc, 240mm diameter) and *Wavetrac ATB differential* (85% lock under load), mated to a *Pankl Racing Systems 4130 chromoly driveshaft* and *GKN VL3 sideshafts* with *Tripod CV joints* for 1,200 Nm torque capacity.",
+    "Suspension/Chassis: *Öhlins TTX46 MkII 3-way adjustable coilovers* (250mm stroke, 18-position rebound, 24-position compression) with *Eibach ERS 1,200 lb/in springs* and *Spherical bearing top mounts* (front: *T6061 aluminum*, rear: *7075-T6*), paired with a *KW Automotive Clubsport subframe brace* (TIG-welded, 3mm 7075-T6 aluminum) and *Brembo GT-R 6-piston monoblock calipers* (400mm *CCM-R carbon-ceramic rotors*, *Pagid RS29 pads*)."
+  ],
+  "estetica": [
+    "Aerodynamics: *Prior Design ST-X widebody kit* (pre-preg carbon fiber, 50mm extended fenders, *NACA ducts* for brake cooling) with a *Rocket Bunny GT-Spec rear diffuser* (3-stage Gurney flaps, *3D-printed titanium support struts*) and *Aeromotions active rear wing* (dual-element, *Dyneema-cored carbon*, 1,200mm span, *MoTeC-controlled hydraulic actuation* for 400kg downforce at 200 km/h).",
+    "Exterior: *PPF (Paint Protection Film) by XPEL Stealth* (matte finish, self-healing) with *Lamborghini Ad Personam Viola Micalizzato* (pearl violet) base coat and *3M Scotchlite 980CR retroreflective pinstriping* (2mm width, *UV-resistant*), paired with *HRE FF16 forged wheels* (21x11.5 front, 22x13 rear, *center-lock*, *Aerodisc inserts* for brake cooling).",
+    "Interior: *Sparco Pro 2000 carbon-Kevlar racing seats* (FIA 8862-2009 certified, *Schroth 6-point harnesses*), *Alcantara-wrapped* *MOMO Prototipo EVO steering wheel* (quick-release, *integrated Motec C127 dash*), and *Vibratecnics 6-point roll cage* (T45 steel, *MIG-welded*, *3D-scanned* for chassis clearance) with *Schroth ASM 4.0 anti-submarine belts* and *FireBottle Lifeline Zero 360 fire suppression system* (dual 2.25kg extinguishers, *thermally activated*)."
+  ]
+}

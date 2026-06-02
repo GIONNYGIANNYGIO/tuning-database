@@ -1,0 +1,14 @@
+{
+  "brand": "LEXUS",
+  "model": "LFA NURBURGRING PACKAGE",
+  "prestazioni": [
+    "1LR-GUE 4.8L V10 naturally aspirated engine: Full titanium internals upgrade with Tomei 2618-forged pistons (9.0:1 CR), Carrillo H-beam titanium connecting rods, and a custom billet crankshaft by JE Pistons for 1,000+ hp reliability under 10,000 RPM redline",
+    "Custom Akrapovič 4-2-1 titanium exhaust manifold with Inconel 625 headers and a straight-pipe 3.5-inch titanium exhaust system featuring dual carbon-fiber tips, reducing backpressure by 38% while maintaining 1LR-GUE’s signature V10 acoustics",
+    "Motec M150 ECU with bespoke Nurburgring-specific mapping by TÜV-approved tuner Hartge, including launch control (8,500 RPM), flat-foot shifting (20ms cut), and a 12-stage traction control system with GPS-based Nurburgring Nordschleife pre-loads"
+  ],
+  "estetica": [
+    "Full carbon-fiber widebody conversion by Liberty Walk LB-WORKS, featuring hand-laid dry carbon fenders (30mm wider front, 40mm wider rear) with integrated NACA ducts for brake cooling, paired with a custom front splitter and rear diffuser by Vorsteiner",
+    "OEM-spec Nurburgring Package carbon-ceramic brakes (CCM-R) with AP Racing CP9400 calipers (6-piston front, 4-piston rear) and custom titanium brake lines by Goodridge, wrapped in forged BBS FI-R wheels (20x10.5 +25 front, 20x12.5 +35 rear) with Michelin Pilot Sport Cup 2 R tires (275/30/20 front, 325/30/20 rear)",
+    "Custom carbon-fiber rear wing by 991 Racing, modeled after the LFA Code X concept, with adjustable Gurney flaps and a DRS-style active rear wing system (electronic actuation via Motec ECU) for 400kg+ downforce at 200mph, paired with a full carbon-fiber underbody tray by APR Performance"
+  ]
+}

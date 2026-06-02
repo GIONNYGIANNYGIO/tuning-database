@@ -1,0 +1,14 @@
+{
+  "brand": "Li",
+  "model": "Auto L9",
+  "prestazioni": [
+    "Upgrade the dual-motor electric powertrain (front: 130 kW, rear: 200 kW) with a Unitek YASA P400 axial flux motor conversion (320 kW peak per motor) paired with a custom 800V SiC inverter from Cascadia Motion for 0-100 km/h in under 3.0 seconds",
+    "Install a full AEM EV VCU (Vehicle Control Unit) with Li L9-specific CAN bus mapping to optimize torque vectoring and regenerative braking aggression (adjustable via AEM InfinityTune Pro software)",
+    "Replace the stock 40.8 kWh battery with a bespoke 95 kWh lithium-ion pack from Webasto (900V architecture, 1,200 A discharge capacity) featuring liquid-cooled thermal management and a custom BMS from EV Controls for 600+ km CLTC range and 350 kW fast-charging capability"
+  ],
+  "estetica": [
+    "Fit a Liberty Walk LB-WORKS widebody kit (L9-specific fenders, side skirts, and rear diffuser) with carbon fiber overfenders and a 30mm extended wheelbase for aggressive stance",
+    "Install a custom front splitter and rear wing from 996 Racing (carbon-Kevlar hybrid construction) with integrated DRS (Drag Reduction System) for adjustable downforce (250 kg at 120 km/h)",
+    "Replace stock LED headlights with a full Osram SSL 150 adaptive laser module system (1,000-meter range) and integrate a custom RGBW ambient lighting system from Diode Dynamics with Li L9-specific door projectors and puddle lights"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "LEXUS",
+  "model": "GS 430",
+  "prestazioni": [
+    "3UZ-FE V8 engine (4.3L, 32-valve, DOHC) forced induction via Garrett GT4202R turbocharger (88mm compressor, .96 A/R turbine housing) with custom 3.5-inch stainless steel turbo-back exhaust featuring Burns Stainless 304L merge collectors and dual 4-inch titanium-coated outlets, paired with a Tomei 272°/11.5mm lift camshaft set and HKS Hi-Power 70mm throttle body",
+    "Full bolt-on internals upgrade including JE 2618-T6 forged pistons (9.5:1 compression), Eagle H-beam connecting rods, ACL Race Series main and rod bearings, and ARP L19 head studs with Cometic MLS head gaskets (0.051\" thickness), mated to a Koyorad 4-core aluminum radiator and Setrab 50-row oil cooler",
+    "Custom Haltech Elite 2500 ECU with flex-fuel capability, integrated with a Motec C125 dash and AEM X-Series wideband O2 sensors, controlling a Bosch 044 high-flow fuel pump, ID1000 injectors, and a custom 3.5L surge tank with dual Walbro 450 LPH pumps for E85 compatibility"
+  ],
+  "estetica": [
+    "Veilside Fortune 03 widebody conversion kit with custom carbon fiber overfenders (2.5-inch flares front, 3-inch rear) and custom fabricated aluminum inner fenders, paired with a custom 3M Matte Graphite vinyl wrap with gloss black roof and mirror caps",
+    "Custom 3D-printed Lexus GS-specific front splitter by Rocket Bunny (polyurethane, 4-inch overhang) with integrated carbon fiber canards (Vortex Generators) and a custom carbon fiber GT-style rear wing (3-piece, adjustable angle) mounted on custom aluminum pedestals",
+    "OEM+ interior refresh with custom Recaro SP-G TS seats (black Alcantara with red stitching) mounted on custom aluminum seat brackets, paired with a NRG Innovations quick-release steering wheel hub and a custom carbon fiber center console overlay featuring integrated AEM X-Series gauges (boost, oil temp, fuel pressure)"
+  ]
+}

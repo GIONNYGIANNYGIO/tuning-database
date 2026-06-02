@@ -1,0 +1,14 @@
+{
+  "brand": "LEXUS",
+  "model": "GX 460",
+  "prestazioni": [
+    "1UR-FE 4.6L V8 engine: Forced induction via Rotrex C38-91 supercharger (12 psi max boost) with custom intercooler piping by GReddy, paired with a K&N Typhoon cold air intake (part #63-1572) and a custom ECU reflash by Unichip (model-specific for 1UR-FE, optimizing AFR and ignition timing for 450+ WHP)",
+    "Suspension overhaul: Ohlins Road & Track coilovers (part #LEX-GX460-RT) with adjustable damping (24-way compression, 24-way rebound) and 20mm front/15mm rear lowering springs, paired with Whiteline front sway bar (24mm adjustable, part #BMR78X) and rear sway bar (22mm adjustable, part #BMR80X) for reduced body roll",
+    "Drivetrain reinforcement: Cusco 2-way LSD (part #LSD201UR) for the rear axle, paired with a South Bend Stage 3 Clutch (part #SD2600) and a lightweight aluminum flywheel (part #URF-AL) to handle increased torque, with a custom driveshaft by Driveshaft Shop (3.5\" aluminum, rated for 800 lb-ft)"
+  ],
+  "estetica": [
+    "Widebody conversion: Rocket Bunny GX460 kit (part #RB-WB-GX460) with carbon fiber fenders, front/rear bumpers, and side skirts, paired with custom 3M Matte Military Green wrap (color code #M207) and blacked-out emblems",
+    "Wheel setup: Work Emotion CR Kiwami (18x9.5 +25 front, 18x10.5 +30 rear) with Toyo R888R tires (275/65/18 front, 295/60/18 rear), paired with DBA 5000 Series rotors (part #52901X) and Brembo GT 6-piston calipers (part #1N3.9000.10) for aggressive stance and braking",
+    "Aerodynamics: Seibon carbon fiber hood (part #LEX-GX460-HOOD-CF) with custom venting for intercooler clearance, paired with a custom rear diffuser by 3D Carbon (part #3D-GX460-DIFF) and a Vortex Generator roof spoiler by APR Performance (part #AS-100051)"
+  ]
+}

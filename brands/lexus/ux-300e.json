@@ -1,0 +1,14 @@
+{
+  "brand": "LEXUS",
+  "model": "UX 300E",
+  "prestazioni": [
+    "Upgrade to a **Siemens-VDO 850V 150kW (204hp) electric motor** (engine code: **2LM**) with a **Magna PT eDS mid-mount inverter** and **custom liquid-cooled stator windings** for sustained 220kW (295hp) output, paired with a **GKN eTwinsterX torque-vectoring rear axle** for 0-60mph in 4.2s",
+    "Install a **Webasto 800V 100kWh battery pack** with **Silicon Carbide (SiC) MOSFETs** for 350kW fast-charging (0-80% in 12 minutes) and **active thermal management via dual BorgWarner eBoosters** to prevent thermal throttling during track use",
+    "Replace the stock **Toyota/Lexus e-Axle (2LM)** with a **ZF 2-speed EV transmission (8DT)** and **AP Racing CP9662 carbon-ceramic brakes** with **6-piston calipers** and **Brembo Sport 5.0 pads** for 30% shorter stopping distances from 100mph"
+  ],
+  "estetica": [
+    "Full **Liberty Walk LB-WORKS UX300e widebody kit** with **carbon fiber fenders, front splitter, and ducktail spoiler**, extending wheel arches by 30mm for **OZ Racing Ultraleggera HLT 19x9.5 ET25 wheels** wrapped in **Michelin Pilot Sport Cup 2 R 245/35R19 tires**",
+    "Custom **Rocket Bunny V3.2 front bumper** with **integrated DRLs from LUX Hella** and **Seibon carbon fiber hood** featuring **functional NACA ducts** for battery cooling, paired with **Vland LED taillights (JDM-spec sequential turn signals)**",
+    "Interior overhaul with **Recaro SPG XL bucket seats (carbon shell, FIA-approved)** wrapped in **Nappa leather with Alcantara suede inserts**, **MOMO Prototipo steering wheel (flat-bottom, 350mm diameter)**, and **AiM MXS 1.2 Strada dash logger** with **OBD-II CAN bus integration for real-time battery telemetry**"
+  ]
+}

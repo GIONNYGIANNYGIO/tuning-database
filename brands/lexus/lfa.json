@@ -1,0 +1,14 @@
+{
+  "brand": "LEXUS",
+  "model": "LFA",
+  "prestazioni": [
+    "1LR-GUE 4.8L V10 engine: Full titanium internals upgrade with Tomei 90mm forged titanium connecting rods, JE 10.5:1 compression forged pistons, and a custom billet crankshaft by Manley Performance to handle 10,500 RPM redline with 650+ HP on 100-octane fuel via a Motec M150 ECU with individual cylinder tuning and anti-lag strategies for instant throttle response",
+    "Forced induction conversion using a custom-built twin-turbo system with Garrett GTX5533R Gen II turbos (84mm compressor wheels, 1.28 A/R turbine housings) on custom 3D-printed Inconel exhaust manifolds by Full-Race Motorsports, paired with a GReddy Ti-C intercooler core (1200HP capacity) and a Tial MV-R 60mm wastegate setup for precise boost control at 1.5 bar (21.7 psi)",
+    "Chassis reinforcement with a full seam-welded roll cage by VAC Motorsports (chromoly 4130 tubing, FIA-spec gusseting) and a custom carbon fiber torque tube by APR Performance to replace the stock aluminum unit, reducing rotational mass by 40% while increasing rigidity for launch control and high-speed stability"
+  ],
+  "estetica": [
+    "Full carbon fiber widebody conversion using the Liberty Walk LB Works LFA kit (pre-preg autoclave carbon, 3K twill weave) with extended front fenders (+50mm), rear quarter panels (+70mm), and a custom 3D-printed front splitter with active aerodynamic elements (adjustable via a hydraulic system controlled by the Motec ECU)",
+    "Custom forged BBS LM-R II wheels (20x11 front, 20x13 rear) with titanium hardware, wrapped in Michelin Pilot Sport Cup 2 R tires (295/30 front, 345/25 rear) and paired with a custom air suspension system by Air Lift Performance (3P management, AccuAir ENDO-CVT controllers) for adjustable ride height and camber settings",
+    "Full bespoke interior by Sabelt with carbon fiber Recaro Pole Position seats (FIA 8862-2009 certified), a custom titanium roll cage padding system by Sparco, and a digital dash cluster by AIM MXS Strada (12-inch display) integrated with the Motec ECU for real-time telemetry (boost, AFR, oil pressure, G-forces) and a custom shift light system using LED strips embedded in the A-pillars"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "LEXUS",
+  "model": "IS500",
+  "prestazioni": [
+    "Engine: 2UR-GSE (5.0L V8, 472hp stock) - Full forged internals upgrade with JE Pistons 2618 forged slugs (9.5:1 compression), Manley H-beam connecting rods, and a billet crankshaft from Callies to handle 800+ hp reliably. Paired with a custom dry-sump oiling system by Peterson Fluid Systems to prevent oil starvation under high-G cornering.",
+    "Forced Induction: Twin-turbo setup using Garrett GTX5533R Gen II turbos (1.05 A/R, 88mm compressor wheels) with TiAL MV-R 60mm wastegates and a custom 4-inch stainless steel intercooler piping system by Vibrant Performance. Boost controlled via an AEM CD-7 dash with integrated boost-by-gear mapping for the 8-speed automatic transmission.",
+    "Fuel & Ignition: Full E85 conversion with dual Bosch 044 high-flow fuel pumps, Injector Dynamics ID1700x injectors, and a Radium Engineering dual-port fuel rail. Ignition system upgraded to AEM CDI coils and NGK R8968-10 spark plugs gapped at 0.024\" for E85 compatibility. ECU reflash via a custom MoTeC M150 standalone with flex-fuel sensor integration."
+  ],
+  "estetica": [
+    "Widebody Conversion: Rocket Bunny V3 IS500-specific kit with carbon fiber overfenders (2.5\" wider front, 3.0\" wider rear), custom front bumper canards, and a duckbill rear spoiler. All panels finished in Lexus Structural Blue with a 3M 2080 Satin Matte clear bra for protection.",
+    "Suspension & Wheels: Ohlins Road & Track coilovers with 12-position rebound damping and 20-way compression adjustment, paired with Cusco front and rear strut tower bars. Wheel setup: WORK Emotion CR Kiwami in 19x10.5 +25 front and 19x11.5 +35 rear, wrapped in Michelin Pilot Sport Cup 2 R tires (275/30 front, 305/30 rear).",
+    "Aero & Lighting: Full carbon fiber underbody diffuser by Seibon, custom front splitter with integrated air curtains, and a custom titanium exhaust system by HKS Hi-Power with 3.5\" dual outlets. Lighting upgraded to Morimoto XB LED headlights with custom DRL delete and rear sequential turn signals by Diode Dynamics."
+  ]
+}

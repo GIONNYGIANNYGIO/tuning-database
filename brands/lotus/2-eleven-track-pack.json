@@ -1,0 +1,14 @@
+{
+  "brand": "LOTUS",
+  "model": "2-ELEVEN TRACK PACK",
+  "prestazioni": [
+    "Engine: Replace the stock Toyota-sourced 2ZZ-GE (1.8L supercharged) with a fully built 2ZZ-GE featuring a forged crankshaft (e.g., Toda Racing billet crank), Carrillo H-beam connecting rods, and JE Pistons 87.5mm forged slugs (12.5:1 compression). Pair with a Harrop HTV-2300 supercharger (12 psi boost) and a custom intercooler core (Setrab 40-row) to handle the increased thermal load. ECU: Haltech Elite 2500 with custom fuel and ignition maps optimized for E85 fuel (ID1000 injectors, Walbro 450 LPH pump).",
+    "Drivetrain: Upgrade to a Quaife ATB helical LSD (6-speed C64 transmission) with a Sachs Racing twin-disc clutch (240mm) and a lightweight flywheel (Toda Racing). Replace the stock driveshafts with CV-jointed units from GKN Driveline to handle the increased torque without binding.",
+    "Suspension & Chassis: Install Öhlins TTX40 coilovers (4-way adjustable) with custom valving for the 2-Eleven’s aluminum tub. Replace the stock anti-roll bars with adjustable units from Ultra Racing (24mm front, 22mm rear). Reinforce the subframe with a custom tubular steel brace (fabricated by RML Group) and fit spherical bearing top mounts (SuperPro) for sharper turn-in. Brakes: AP Racing CP8370 front calipers (4-piston) with 330mm two-piece rotors (Brembo GT) and Ferodo DS2500 pads, paired with a custom brake bias valve (Tilton) for fine-tuning."
+  ],
+  "estetica": [
+    "Aero: Fit a full carbon fiber aero package from APR Performance, including a GT-250 front splitter (with integrated dive planes), a GT-250 rear wing (30mm adjustable angle), and a custom diffuser (fabricated by Composite Motors). Replace the stock front bumper with a 3D-printed carbon fiber unit (designed by Lotus specialist Noble Automotive) to improve airflow to the radiator and intercooler.",
+    "Body: Remove the stock fiberglass panels and replace with a full carbon fiber body kit from RML Group, including a lightweight hood (with NACA ducts for brake cooling), doors, and rear clamshell. Apply a custom vinyl wrap (3M 2080 Gloss Black with red accents) and add a clear bra (XPEL Ultimate) to the front splitter and leading edges for track durability.",
+    "Interior: Replace the stock seats with Sparco Pro 2000 carbon fiber racing seats (with Schroth 6-point harnesses) and a custom roll cage (T45 steel, fabricated by Safety Devices). Install a Motec C127 dash logger with a custom mount (CNC-machined aluminum) and a quick-release steering wheel (NRG Innovations) with integrated AIM MXS display. Replace the stock pedals with aluminum units from Tilton (with adjustable brake bias knob)."
+  ]
+}

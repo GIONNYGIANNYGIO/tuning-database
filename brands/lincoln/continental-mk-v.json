@@ -1,0 +1,14 @@
+{
+  "brand": "LINCOLN",
+  "model": "CONTINENTAL MK V",
+  "prestazioni": [
+    "460ci (7.5L) Ford 385-series V8 (engine code: 460-4V) stroked to 502ci with a forged Eagle crankshaft (4.300\" stroke), forged Eagle H-beam connecting rods (6.800\" length), and Mahle Motorsport forged pistons (9.5:1 compression ratio) for boost compatibility, paired with a custom camshaft from Comp Cams (248/254 duration @ 0.050\", 0.650\" lift, 114° LSA) designed for low-RPM torque and forced induction",
+    "Garrett GTX5533R turbocharger (88mm compressor wheel, 1.15 A/R turbine housing) with a custom Precision Turbo & Engine wastegate (60mm, 4-bar actuator) and a Tial MV-R 50mm external wastegate dumping into a custom 4\" stainless steel exhaust system with MagnaFlow 304SS mufflers (2.5\" dual outlets) and a Vibrant 1799 resonator for drone suppression",
+    "Holley Dominator EFI system (PN: 554-112) with dual Bosch 044 fuel pumps (220 LPH each), Injector Dynamics ID2000x injectors (2000cc/min), and a custom billet aluminum fuel rail from Radium Engineering, controlled via a MoTeC M150 ECU with a custom flex-fuel sensor and AEM X-Series wideband O2 sensors for closed-loop tuning"
+  ],
+  "estetica": [
+    "Custom 1977-1979 Lincoln Continental Mk V-specific Rocket Bunny widebody kit (Pandem Performance) with carbon fiber fender flares, front splitter, and rear diffuser, retaining the original opera window and vinyl roof but with a custom 3M Brushed Metallic Gold wrap (color code: 2121-G) for contrast",
+    "Billet Specialties Tru Trac billet aluminum grille (polished finish) with a custom LED halo bar (Diode Dynamics SS3 Pro) and a shaved hood (replacing the factory landau top) fitted with a custom carbon fiber scoop (Seibon Carbon) for the turbo inlet, painted to match the body",
+    "BBS RS-GT II wheels (18x10 front, 18x12 rear) with custom offsets (+15mm front, +25mm rear) and Nitto NT05R tires (275/40/18 front, 315/35/18 rear), paired with Baer 6P brake calipers (2.75\" pistons) and 14\" two-piece rotors (cross-drilled, slotted) with Hawk DTC-70 brake pads for vintage luxury car weight handling"
+  ]
+}

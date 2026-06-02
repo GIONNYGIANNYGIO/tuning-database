@@ -1,0 +1,14 @@
+{
+  "brand": "LINCOLN",
+  "model": "CONTINENTAL",
+  "prestazioni": [
+    "3.0L EcoBoost V6 (Engine Code: *M3G*) twin-turbo upgrade to BorgWarner EFR 8374 turbos (1.05 A/R, 62mm inducer) with TiAL MV-R 44mm wastegates, paired with a custom 4-inch stainless steel intercooler piping system from Vibrant Performance and a CSF Racing 550hp-rated front-mount intercooler (PN: 8214).",
+    "Full fuel system overhaul featuring dual Walbro 450 LPH in-tank pumps (PN: F90000267), Injector Dynamics ID1050x injectors, and a Radium Engineering fuel pressure regulator (PN: 20-0118) with -6AN feed/return lines, supporting E85 flex-fuel via a Continental Ethanol Content Sensor (PN: 5WK96622).",
+    "Custom ECU calibration by Lund Racing (Stage 3+ tune) with Cobb Accessport (PN: AP3-LIN-002) for 550whp/600wtq on 93 octane, utilizing a Motec C125 dash logger for real-time boost, AFR, and oil pressure monitoring via AEM 30-0300 wideband sensors."
+  ],
+  "estetica": [
+    "Full Rocket Bunny V2 widebody conversion kit (PN: RB-LINCONT-02) with custom carbon fiber overfenders, paired with a custom 3M Gloss Black wrap and matte bronze accents on the grille, badges, and window trim.",
+    "Air Design USA front lip spoiler (PN: AD-LINC-CONT-FL) and rear diffuser (PN: AD-LINC-CONT-RD) with integrated LED reverse lights, combined with a custom 3D-printed carbon fiber rear wing (20% chord, 65mm height) from APR Performance (PN: CF-1002).",
+    "Forgeline GA3R 20x9.5 ET35 (front) and 20x11 ET40 (rear) wheels in Satin Black with Nitto NT05R 275/30/20 (front) and 305/25/20 (rear) tires, paired with H&R Street Performance coilovers (PN: 29128-1) with 25mm front and 20mm rear lowering springs."
+  ]
+}

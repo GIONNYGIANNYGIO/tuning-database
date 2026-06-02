@@ -1,0 +1,14 @@
+{
+  "brand": "LEXUS",
+  "model": "RZ450E",
+  "prestazioni": [
+    "Upgrade to a **Siemens-VDO 850A high-voltage inverter** (OEM: 300A) paired with a **Marelli M300-800V SiC MOSFET power module** to handle the **2XM** dual-motor AWD system's 313 PS (230 kW) output, enabling 0-100 km/h in under 3.0s via torque vectoring recalibration via **ETAS INCA 7.2** for dynamic slip control",
+    "Install **GKN eTwinsterX torque-vectoring differential** (replacing the stock open diff) with **AP Racing CP9666 carbon-ceramic rotors (410mm front, 380mm rear)** and **Brembo GT-R-spec 6-piston calipers** for 30% faster deceleration under regenerative braking (1.0g+)",
+    "Replace the **Panasonic NCR18650GA lithium-ion battery pack (72.8 kWh)** with a **StoreDot Extreme Fast Charging (XFC) 85 kWh silicon-dominant anode battery**, enabling 10-80% charge in 5 minutes via **ABB Terra 360 360 kW DC charger** while retaining the stock 450 km WLTP range"
+  ],
+  "estetica": [
+    "Fit a **Liberty Walk LB-RZ450E widebody kit** (carbon fiber, 50mm front/70mm rear fender flares) with **custom 3D-printed polycarbonate side skirts** integrating **Osram LED laser headlights** (adaptive 500m beam) and **DRLs with 12,000-lumen output**",
+    "Install a **Veilside Fortune 3.0 rear diffuser** (molded from **Toray T1100G carbon fiber**) with **active aerodynamics via Bosch Servolectric actuators**, deploying at 120 km/h to reduce drag by 18% (Cd 0.22 → 0.18) while housing **dual 120mm titanium exhaust tips** (custom **Akrapović EV sound generator** tuned to 85 dB)",
+    "Replace the stock **18-inch aluminum wheels** with **BBS RI-D II (20x9.5 ET35 front, 21x11 ET40 rear)** in **forged magnesium (1.2kg lighter per wheel)** wrapped in **Michelin Pilot Sport EV (275/35 R20 front, 325/30 R21 rear)** with **TPMS sensors recalibrated via Continental MFC500** for 0.1g lateral grip increase"
+  ]
+}

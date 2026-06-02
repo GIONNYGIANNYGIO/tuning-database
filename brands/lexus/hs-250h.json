@@ -1,0 +1,14 @@
+{
+  "brand": "LEXUS",
+  "model": "HS 250H",
+  "prestazioni": [
+    "Hybrid-specific forced induction upgrade using a Sprintex S300-20G supercharger kit (engine code: 2AR-FXE, 2.4L Atkinson-cycle I4) with a custom intercooler setup from GReddy, retaining the hybrid system's regenerative braking while increasing output to ~280 HP and 240 lb-ft torque via a Haltech Elite 2500 standalone ECU with Toyota hybrid battery management integration",
+    "Full drivetrain reinforcement with a OS Giken Super Lock LSD (8.25\" ring gear) in a custom 8.1:1 final drive ratio, paired with a KAAZ 1.5-way differential for the HS 250h's unique e-CVT hybrid transaxle, including upgraded CV joints from Driveshaft Shop and a PTT 300M steel driveshaft",
+    "Suspension overhaul with a full Ohlins Road & Track DFV kit (front: 44mm inverted struts, rear: 30mm monotube dampers) with custom spring rates (front: 8kg/mm, rear: 6kg/mm) and poly bushings from Whiteline, including a custom subframe reinforcement plate from Cusco to address the HS 250h's unique front subframe geometry"
+  ],
+  "estetica": [
+    "Full Rocket Bunny Version 3 widebody kit (HS 250h-specific, not the IS/GS version) with custom carbon fiber overfenders, front splitter, and rear diffuser, including a 3D-scanned rear bumper replacement to accommodate the hybrid battery's unique mounting points",
+    "Custom 19x9.5\" (front) and 19x10.5\" (rear) Work Emotion CR Kiwami wheels with a 5x114.3 PCD, +30mm front and +35mm rear offset, wrapped in Michelin Pilot Sport Cup 2 tires (245/35/19 front, 275/30/19 rear) with custom wheel spacers from Buddy Club to clear the hybrid-specific brake calipers",
+    "Full custom interior with Recaro SP-G TS seats (HS 250h-specific mounting brackets) wrapped in Alcantara and Nappa leather from Status Racing, including a custom hybrid system monitor in the gauge cluster using a Link ECU CAN bus interface and a custom center console delete with a carbon fiber shift panel for the e-CVT"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "brand": "LEXUS",
+  "model": "IS 250",
+  "prestazioni": [
+    "Forced induction upgrade via HKS GT-SS Supercharger kit (2GR-FSE engine) with 6-7 psi boost, paired with a custom intercooler from GReddy (IS250-specific core dimensions: 24x6x3.5 inches) and a Walbro 450 LPH fuel pump to support 350-400 whp on 93 octane",
+    "Full bolt-on exhaust system featuring a Tomei 4-2-1 unequal-length header (2GR-FSE-specific flange design) with 409 stainless steel construction, paired with a custom 3-inch diameter MagnaFlow cat-back (resonated center section) and a Berk Technology catted downpipe (200-cell metallic core) for optimal scavenging",
+    "Suspension overhaul with Ohlins Road & Track DFV coilovers (IS250-specific valving, 8kg/mm front/10kg/mm rear springs), complemented by Cusco front and rear sway bars (22mm front, 18mm rear) and polyurethane bushings from Whiteline (part #KCA401 for front control arms, #KCA402 for rear subframe)",
+    "Engine management via Haltech Elite 2500 ECU with custom 2GR-FSE base map, integrated with AEM X-Series wideband (30-0300) and a Motec C127 dash for real-time monitoring of AFR, boost, and oil temps"
+  ],
+  "estetica": [
+    "Vertex Lang II widebody kit (IS250-specific fender flares with 20mm extended wheel arches) paired with custom carbon fiber side skirts from Seibon (OEM+ fitment, 1.5mm thickness) and a custom rear diffuser from Varis (3D-scanned to match IS250 bumper contours)",
+    "Custom 19x9.5 +22 front and 19x10.5 +30 rear Work Emotion CR Kiwami wheels (5x114.3, 18.5kg front/19.2kg rear) wrapped in Michelin Pilot Sport Cup 2 tires (245/35/19 front, 275/30/19 rear) with custom offset spacers from Hardrace (15mm front, 20mm rear)",
+    "Full carbon fiber hood from APR Performance (IS250-specific, 50% weight reduction, dual NACA ducts for brake cooling) and a custom rear wing from Voltex (Type 3, 1700mm width, 3D-printed aluminum mounts for IS250 trunk structure)"
+  ]
+}
