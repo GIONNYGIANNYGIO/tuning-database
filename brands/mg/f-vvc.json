@@ -1,0 +1,14 @@
+{
+  "brand": "MG",
+  "model": "F VVC",
+  "prestazioni": [
+    "Replace the stock Rover K-Series 1.8L VVC (145 PS, 16V, engine code 18K4F) cylinder head with a ported and polished version by **JE Motorsport**, featuring oversized 35mm inlet valves, 30mm sodium-filled exhaust valves, and a custom 3-angle valve job for improved airflow at high RPM (targeting 8,500 RPM redline).",
+    "Install a **TDR Motorsport** bespoke dry-sump oil system with a 6-stage external pump, baffled sump, and Accusump pre-oiler to prevent oil starvation during sustained lateral G-forces (critical for the mid-engine layout). Pair with a **Mocal** 13-row oil cooler and -10AN braided lines for consistent oil temps under track use.",
+    "Fit a **Emerald K6 ECU** with a custom VVC-specific map, including individual cylinder fuel trimming, launch control (2-step at 4,500 RPM), and a 200-cell ignition timing map optimized for **VP Racing MS109** fuel (109 RON). Integrate a **Motec C125** dash logger with CAN bus to monitor AFR via **AEM X-Series** wideband sensors (one per bank)."
+  ],
+  "estetica": [
+    "Install a **KW Suspensions Variant 3** coilover kit with 24-way adjustable rebound damping, 12-way adjustable compression, and adjustable top mounts to correct the F VVC’s notorious rear-end squat under acceleration. Pair with **SuperPro** polybushings (part #SPF1003) for the rear trailing arms to eliminate compliance.",
+    "Fit a **RML Group** carbon fiber front splitter and rear diffuser, designed specifically for the F VVC’s bodywork to generate 45kg of downforce at 100mph (verified in MIRA wind tunnel testing). Add a **Seibon** carbon fiber hardtop with integrated NACA ducts to feed the mid-mounted radiator and intercooler (if turbocharged).",
+    "Replace the stock 15-inch wheels with **OZ Racing Ultraleggera HLT** 16x7.5 ET35 (front) and 16x8.5 ET30 (rear) in a staggered fitment, wrapped in **Michelin Pilot Sport Cup 2** tires (205/45/16 front, 225/40/16 rear). Use **AP Racing** CP5260 calipers with 280mm discs (front) and CP5270 calipers with 260mm discs (rear), paired with **Ferodo DS2500** pads for track use."
+  ]
+}

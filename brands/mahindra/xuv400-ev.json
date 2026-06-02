@@ -1,0 +1,14 @@
+{
+  "brand": "MAHINDRA",
+  "model": "XUV400 EV",
+  "prestazioni": [
+    "Upgrade to a **Mahindra Electric M2E-400** (engine code: **MEP-400-AC**) high-performance stator and rotor assembly with **Siemens 200 kW (268 hp) peak power** windings, replacing the stock **MEP-400-AC-STD** unit for a 30% increase in torque density (450 Nm continuous, 600 Nm peak) via **Vitesco Technologies** liquid-cooled inverter with **SiC MOSFETs** for 98% efficiency at 12,000 RPM",
+    "Install a **Webasto 800V/400A high-voltage battery thermal management system** with **dual-phase immersion cooling** (3M Novec 7100 dielectric fluid) to maintain **45°C cell temp** under **ABB Terra HP 350 kW DC fast-charging**, enabling **0-80% SOC in 12 minutes** while preventing **LG Chem E63** pouch cell degradation",
+    "Fit a **Bosch Rexroth MCRS (Modular Compact Regenerative System)** with **ZF 2-speed planetary gearbox (12.5:1 & 7.2:1 ratios)** and **AP Racing CP9660 carbon-ceramic brake rotors (380mm front, 355mm rear)** for **30% faster regen braking (up to 0.4g deceleration)** and **0-100 km/h in 4.8s** via **dSPACE MicroAutoBox III** torque vectoring control"
+  ],
+  "estetica": [
+    "Apply a **Rocket Bunny V3-XUV widebody kit** with **carbon-fiber fenders (2.5-inch flares)**, **polycarbonate rear quarter windows**, and **custom 3D-printed ABS front splitter** (designed via **Autodesk Fusion 360 CFD** for **12% less drag at 150 km/h**)",
+    "Install **OEM+ Mahindra Racing-spec LED headlights** with **Osram Night Breaker Laser D1S bulbs (5,500K, 150% brighter)** and **Hella Dynamic Light Assist** for **adaptive high-beam control**, paired with **Anzo USA carbon-fiber side mirrors (heated, auto-dimming)**",
+    "Fit **BBS RI-D II forged wheels (20x9.5 ET35 front, 20x11 ET40 rear)** wrapped in **Michelin Pilot Sport EV tires (255/40 R20 front, 295/35 R20 rear)** with **TPMS sensors (Schrader 433 MHz)** and **H&R TRAK+ wheel spacers (15mm front, 20mm rear)** for **flush fitment** under the **custom Vortex Generators** on the roof"
+  ]
+}

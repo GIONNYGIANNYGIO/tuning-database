@@ -1,0 +1,14 @@
+{
+  "brand": "LEXUS",
+  "model": "LFA GT3",
+  "prestazioni": [
+    "Replacement of the stock 1LR-GUE 4.8L V10 with a bespoke race-spec 1LR-GT3 block featuring forged Mahle pistons (10.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft with a 5mm stroke increase (5.0L displacement), paired with a dry-sump lubrication system by Peterson Fluid Systems (Model 4000) for sustained 9,500 RPM operation under GT3 endurance racing conditions",
+    "Installation of a custom Bosch Motorsport MS6.4 engine management system with dual Motec C125 dash-loggers, integrated with a Pectel SQ6M ECU and a bespoke GT3-spec wiring harness by Litchfield Motorsport, enabling real-time lambda and knock control via 8x NGK R8471-10 iridium racing spark plugs and 12x Bosch Motorsport 0 261 500 040 high-pressure fuel injectors",
+    "Upgraded GT3-spec drivetrain featuring an Xtrac P1159 6-speed sequential transaxle with a 3-plate carbon clutch by Sachs Racing (Part No. 3000.951.001), paired with a Quaife ATB helical LSD and a custom 4WD-to-RWD torque vectoring system by Hewland, utilizing a GKN Driveline CV joint setup for optimized power delivery under cornering loads exceeding 2.5G"
+  ],
+  "estetica": [
+    "Full carbon-fiber GT3 aero package by Toyota Motorsport GmbH (TMG), including a fixed rear wing with dual-element Gurney flaps (Part No. LFA-GT3-001), front splitter with adjustable dive planes (Part No. LFA-GT3-002), and a rear diffuser with integrated brake cooling ducts (Part No. LFA-GT3-003), all constructed from Toray T800 prepreg carbon fiber",
+    "Custom livery by Driving Line Designs, featuring a matte Lexus Racing Green base (Pantone 355 C) with metallic silver (Pantone 877 C) and black (Pantone Black 6 C) accents, applied via 3M 1080 vinyl wrap with a textured carbon-fiber overlay on the hood and roof, including sponsor decals for Yokohama Advan (A052 tires) and Brembo Racing (GT3-spec calipers)",
+    "OMP Racing GT3-spec interior with a Sparco Pro ADV seat (Part No. 01927NRB) in Alcantara suede with FIA 8862-2009 homologation, paired with a custom roll cage by Safety Devices (Part No. SD05-001) featuring integrated fire suppression system by Lifeline (Zero 360 4.0L system) and a Motec C125 dash mounted on a bespoke carbon-fiber steering wheel by MOMO (Part No. 001250.01)"
+  ]
+}

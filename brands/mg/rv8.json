@@ -1,0 +1,14 @@
+{
+  "brand": "MG",
+  "model": "RV8",
+  "prestazioni": [
+    "Replace the Rover 3.9L V8 (engine code: 14CUX) with a fully forged internals build using Mahle Motorsport forged pistons (9.5:1 compression), Eagle H-beam connecting rods, and a steel crankshaft from Rover Performance. Pair with a custom camshaft grind from Piper Cams (280° duration, 0.500\" lift) for optimized mid-to-high RPM power delivery.",
+    "Install a custom-fabricated stainless steel exhaust system by Janspeed, featuring 2.5\" primary headers merging into a 3.5\" collector, terminating in a pair of Borla Pro XS mufflers for a deep, aggressive tone without drone. Pair with a custom ECU remap by DTAfast (S80 Pro standalone) to optimize fuel and ignition timing for the new cam profile and exhaust flow.",
+    "Upgrade the stock Rover SD1-derived R380 gearbox with a Quaife ATB differential and a close-ratio gearset from a Rover V8-powered TVR Chimaera. Replace the stock clutch with a Sachs Performance twin-plate unit and lightweight flywheel to handle increased torque and reduce rotational mass."
+  ],
+  "estetica": [
+    "Fit a custom widebody conversion kit by Kamei, extending the front and rear fenders by 2\" to accommodate 17x9\" (front) and 17x10\" (rear) OZ Racing Superleggera III wheels, wrapped in 225/45 and 255/40 Toyo R888R tires. Pair with custom-fabricated aluminum fender flares by The Phirm for a seamless finish.",
+    "Replace the stock front bumper with a carbon fiber replica of the MG RV8 Le Mans race car bumper by Seibon Carbon, featuring integrated tow hooks and a lower splitter. Add a custom rear diffuser by APR Performance, fabricated from carbon-Kevlar hybrid material to match the Le Mans aesthetic while improving rear downforce.",
+    "Install a custom interior retrim by Trim Developments, featuring full black Alcantara upholstery with red stitching, a MOMO Prototipo steering wheel (350mm diameter), and a custom roll cage by Safety Devices (6-point, bolt-in, with integrated harness bar). Replace the stock gauges with a Stack Motorsport digital dash, featuring a 5\" LCD display and programmable shift lights."
+  ]
+}

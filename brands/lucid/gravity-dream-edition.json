@@ -1,0 +1,14 @@
+{
+  "brand": "LUCID",
+  "model": "GRAVITY DREAM EDITION",
+  "prestazioni": [
+    "Upgrade to dual-motor configuration with the proprietary Lucid **LE805A** electric drive units (front: 420 kW, rear: 480 kW) utilizing a custom **AP Racing CP8450-1000** carbon-ceramic brake system with 420mm rotors and six-piston calipers for sustained high-speed deceleration",
+    "Installation of a **Molicel P42A** 21700-format battery pack with 120 kWh capacity, paired with a **Wolfspeed SiC MOSFET** inverter for 98% efficiency and 1,200A peak current delivery, enabling 0-60 mph in 2.2s and a top speed of 168 mph (electronically limited)",
+    "Integration of a **Magna PT eDS** torque vectoring system with **Bosch VCU 3.0** control unit, calibrated for 0.5° rear-wheel steering via **ZF Servolectric** actuators, reducing understeer by 37% in high-g cornering"
+  ],
+  "estetica": [
+    "Full **Rocket Bunny V3** widebody kit for the Gravity platform, featuring 3D-printed carbon-fiber fenders with integrated **Aeromotions RD-90** active rear wing (adjustable from -5° to +20° via CAN bus)",
+    "Custom **HRE FF10** forged wheels in 22x10.5 (front) and 22x12.5 (rear) with **Michelin Pilot Sport Cup 2 R** tires (275/30 R22 front, 315/25 R22 rear), wrapped in a **3M 1080 Gloss Volt** vinyl with **Lucid Motors ‘Gravity’ decal suite** in matte black",
+    "Front splitter and rear diffuser from **Vorsteiner’s Lucid-exclusive ‘Aero 3.0’** program, CNC-machined from 5-axis carbon fiber with **Gurney flaps** and **NACA ducts** for 18% more downforce at 120 mph (tested in Dallara wind tunnel)"
+  ]
+}

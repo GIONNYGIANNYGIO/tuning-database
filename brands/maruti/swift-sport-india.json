@@ -1,0 +1,14 @@
+{
+  "brand": "MARUTI",
+  "model": "SWIFT SPORT INDIA",
+  "prestazioni": [
+    "Engine: Replace the stock K14C Boosterjet (1.4L turbo, 140 PS) internals with forged pistons (JE 2618T, 8.5:1 CR) and Manley H-beam connecting rods (550g weight) to handle 300+ PS reliably. Pair with a Garrett GT2860RS turbo (0.63 A/R turbine housing) for optimized spool and top-end power.",
+    "Fuel System: Upgrade to a Bosch Motorsport 044 high-flow fuel pump (340 LPH) and ID1000x injectors (1000cc/min) with a Link G4+ Xtreme ECU for precise AFR control. Add a custom 3.5-bar fuel rail (Radium Engineering) to prevent fuel starvation under boost.",
+    "Drivetrain: Install a Sachs Performance twin-disc clutch (240mm, 6-puck) with a lightweight aluminum flywheel (10.5kg) to handle increased torque. Pair with a Cusco Type-RS limited-slip differential (1.5-way) for aggressive power delivery to the front wheels."
+  ],
+  "estetica": [
+    "Aero: Fit a Varis Japan front lip spoiler (carbon fiber, Swift Sport-specific) and a custom 3D-printed rear diffuser (PETG, 30% downforce increase at 100 km/h). Add a Seibon carbon fiber hood (Type-2, 5kg weight reduction) with a central vent for heat extraction.",
+    "Suspension: Install BC Racing BR coilovers (Swift Sport-specific, 30-way damping adjustability) with Swift Springs (8kg/mm front, 6kg/mm rear) for aggressive stance. Add Cusco front strut tower bars (22mm diameter, 7000-series aluminum) and a rear subframe brace (Ultra Racing, 3-point design).",
+    "Wheels: Mount Work Emotion CR Kiwami wheels (17x8 +35 ET, 7.5kg each) with Yokohama Advan A052 tires (225/45R17, semi-slick compound). Use Project Kics R40 lug nuts (M12x1.25, closed-end) and DBA 4000 Series rotors (326mm front, 262mm rear) with Ferodo DS2500 pads for track use."
+  ]
+}

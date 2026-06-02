@@ -1,0 +1,14 @@
+{
+  "brand": "MG",
+  "model": "METRO TURBO",
+  "prestazioni": [
+    "Replace the stock 1275cc A-Series (A+ engine code) with a fully forged internals build featuring a 76mm forged crankshaft (T&D Machine), 82mm forged pistons (JE 2618 alloy, 8.5:1 CR), and H-beam connecting rods (Carillo). Pair with a custom billet camshaft (Kent Cams 286° duration, 0.450\" lift) and solid lifters for high-RPM stability up to 8,500 RPM.",
+    "Upgrade the stock Garrett T3 turbocharger to a Garrett GT2860RS (0.86 A/R turbine housing) with a custom 3\" stainless steel downpipe (Bell Auto Services) and a front-mount intercooler (Setrab 400mm core, 60mm thick). Use a custom ECU (Emerald K6) with launch control and anti-lag for rallycross applications, mapped for 22 psi boost on 98 RON fuel.",
+    "Swap the stock 4-speed gearbox for a close-ratio 5-speed dog-engagement transmission (Quaife ATB differential, 3.9:1 final drive) paired with a Sachs twin-disc clutch (240mm, 7.25\" pressure plate). Install a custom hydraulic clutch line (Goodridge) and a short-shift kit (Competition Clutch) for precision gear changes."
+  ],
+  "estetica": [
+    "Fit a full carbon fiber widebody kit (Kahn Design \"RS Aero\" kit) with bolt-on overfenders (30mm wider front, 40mm wider rear) to accommodate 15x8\" and 15x9\" wheels (Compomotive MO 5-spoke, ET20 offset). Use custom wheel spacers (H&R 15mm) for flush fitment.",
+    "Replace the stock bumpers with a custom front splitter (Perrin Performance carbon fiber) and a rear diffuser (Seibon carbon fiber, 3\" exit tunnels). Install a custom roll cage (Custom Cages Ltd, T45 steel, 6-point) with integrated harness bar and removable door bars for FIA compliance.",
+    "Apply a full respray in \"British Racing Green\" (PPG DBC888) with matte black accents (3M 200 series vinyl wrap) on the roof, mirrors, and side skirts. Use OEM-style decals (MG Heritage) with a custom \"Metro Turbo 6R4\" livery (inspired by the Group B homologation) and sponsor logos (Millers Oils, Bilstein)."
+  ]
+}

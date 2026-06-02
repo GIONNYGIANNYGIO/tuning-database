@@ -1,0 +1,14 @@
+{
+  "brand": "MAN",
+  "model": "TGX 18.640 COMPETITION",
+  "prestazioni": [
+    "Engine upgrade: Replace the stock D2676 LF48 (12.4L inline-6 diesel) with a reinforced D2676 LF51 block featuring forged Mahle pistons (10.5:1 compression), Carrillo H-beam connecting rods, and a billet steel crankshaft. Pair with a custom BorgWarner EFR 9280 turbo (86mm compressor, 1.32 A/R turbine housing) and a Pierburg CWA 200 high-pressure fuel pump for 3,000-bar common-rail injection.",
+    "Drivetrain: Install a ZF TraXon 12TX3210 12-speed automated manual transmission with a reinforced Sachs MFZ 430 twin-disc clutch (430mm diameter) and a custom Quaife ATB differential (80% lockup) for the rear axle. Replace the stock driveshaft with a carbon-fiber unit from R+L Hydraulics to reduce rotational mass.",
+    "Suspension/Chassis: Fit a full Öhlins TTX40 4-way adjustable coilover system with 32-way compression/rebound damping, 20mm adjustable ride height, and spherical bearing top mounts. Reinforce the chassis with a custom MAN-approved roll cage from Matter Fab (chromoly steel, TIG-welded) and polycarbonate side windows from Sabelt for weight reduction."
+  ],
+  "estetica": [
+    "Aerodynamics: Install a custom Liberty Walk-inspired widebody kit (fiberglass/kevlar blend) with integrated carbon-fiber side skirts, a 3-piece adjustable rear wing from APR Performance (GT-500 profile, 1,200mm span), and a front splitter with active Gurney flaps (electrically adjustable via CAN bus).",
+    "Lighting: Replace all stock lighting with a full Osram LED retrofit (24V, 10,000-lumen headlights, sequential turn signals) and underbody RGBW LED strips from Diode Dynamics (CAN-controlled, 16.7 million colors). Add a custom carbon-fiber light bar from Rigid Industries (50-inch E-Series Pro, 40,000 raw lumens).",
+    "Interior: Replace the stock cabin with a full carbon-fiber dash from V Carbon (MAN-specific mold), Sparco Pro 2000 seats (HANS-compatible, 18-way adjustable), and a custom Alcantara-wrapped steering wheel from OMP (quick-release, integrated AIM MXS Strada display). Add a full RaceLogic VBOX HD2 data logger with 4G telemetry."
+  ]
+}

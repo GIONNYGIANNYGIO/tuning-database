@@ -1,0 +1,14 @@
+{
+  "brand": "LOTUS",
+  "model": "EVORA GT410",
+  "prestazioni": [
+    "Upgrade the Toyota-sourced 2GR-FE 3.5L V6 (engine code: 2GR-FE) with a Harrop HTV2300 supercharger kit (12psi boost, forged internals including Manley H-beam connecting rods and JE 9.0:1 forged pistons) paired with a Motec M150 ECU for full flex-fuel E85 compatibility and individual cylinder trims, targeting 550whp on 93 octane and 620whp on E85 with a custom heat exchanger from PWR Australia to manage IATs under sustained load",
+    "Replace the OEM 6-speed manual transmission with a Quaife QKE60G close-ratio gearbox (1st: 2.69, 2nd: 1.80, 3rd: 1.31, 4th: 1.00, 5th: 0.82, 6th: 0.68) paired with a Sachs Performance twin-disc clutch (300Nm torque capacity) and a PUK Racing lightweight flywheel (4.5kg) to reduce rotational mass and improve throttle response",
+    "Install a full Öhlins TTX40 coilover suspension system with Lotus-specific valving, adjustable camber plates (front: -3.5°, rear: -2.8°), and Eibach ERS 1000N/mm helper springs to eliminate wheel hop under hard acceleration, complemented by a Tillet B10 widebody conversion kit to accommodate 20x10.5 ET35 front and 20x12 ET45 rear wheels with Michelin Pilot Sport Cup 2 R tires (245/30/20 and 305/30/20)"
+  ],
+  "estetica": [
+    "Fit a full Rocket Bunny V3 widebody aero kit (carbon fiber front splitter, rear diffuser, and overfenders) with a 3D-printed ABS underbody diffuser featuring integrated vortex generators for a 30% increase in downforce at 120mph, painted in Lotus Motorsport Racing Green (code: LOT001) with matte black accents",
+    "Replace the OEM headlights with custom Hella Dynamic LED projectors (Bi-Xenon, 5500K color temperature) and a full carbon fiber hood (APR Performance, 8kg weight reduction) featuring a functional NACA duct to direct airflow into the Harrop supercharger intercooler",
+    "Install a custom titanium exhaust system by Armytrix (4.5-inch dual outlets, valve-controlled bypass for track/cruise modes) with Inconel 625 headers and a secondary catalytic converter delete (for off-road use only), paired with a custom titanium rear bumper insert featuring integrated exhaust tips and a tow hook mount for track-day recovery"
+  ]
+}

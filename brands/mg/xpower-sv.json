@@ -1,0 +1,14 @@
+{
+  "brand": "MG",
+  "model": "XPOWER SV",
+  "prestazioni": [
+    "Engine: Replace the stock Ford-sourced 4.6L Modular V8 (engine code: *4.6L 4V DOHC AJ-V8*) with a fully built *AJ-V8 Gen III+* (from the Jaguar XKR-S) featuring forged Mahle pistons (9.5:1 CR), Carrillo H-beam connecting rods, and a billet crankshaft from Manley Performance. Pair with a custom dry-sump oiling system by Dailey Engineering to eliminate oil starvation under lateral G-forces.",
+    "Forced Induction: Install a *Garrett GTX5533R* turbocharger (86mm compressor wheel) with a custom 3.5-inch stainless steel turbo manifold by *Full Race Motorsports*, mated to a *Tial MV-R 44mm* external wastegate. Use a *Pectel SQ6M* standalone ECU with custom mapping for E85 fuel, targeting 12 psi of boost for 650+ wheel horsepower on a *Vibrant 1250cc* fuel system with *ID1700x* injectors.",
+    "Drivetrain: Swap the stock Tremec TR-3650 5-speed for a *Tremec TR-6060* (from the Shelby GT500) with a *Spec Stage 4+* twin-disc clutch and a *Quaife ATB* helical LSD. Reinforce the rear subframe with a *Custom Cages* bolt-in triangulated brace and upgrade half-shafts to *The Driveshaft Shop* Level 5 units with CV joints rated for 1,000+ lb-ft of torque."
+  ],
+  "estetica": [
+    "Aero: Install a *Rocket Bunny V1* widebody kit (SV-specific) with carbon fiber overfenders, front splitter, and a ducktail spoiler. Replace the stock bumper with a *Seibon Carbon* front lip and a *Vorshlag* GT3-style rear diffuser. Add a *AEM* carbon fiber hood with a functional central ram-air scoop.",
+    "Suspension: Fit *Öhlins Road & Track DFV* coilovers with custom valving for the SV’s aluminum-intensive chassis, paired with *SuperPro* poly bushings and *Whiteline* adjustable sway bars (24mm front, 22mm rear). Use *Bilstein* remote-reservoir dampers for track use, with *H&R* camber plates for aggressive alignment settings (-3.5° front, -2.8° rear).",
+    "Wheels/Tires: Mount *BBS LM-R* 19x10.5 ET25 (front) and 19x12 ET40 (rear) wheels with *Michelin Pilot Sport Cup 2* tires (275/35/19 front, 315/30/19 rear). Use *Project Kics* lug nuts and *Bimecc* forged wheel spacers (15mm front, 25mm rear) for flush fitment. Add *AP Racing* 6-piston front and 4-piston rear calipers with *DBA 5000 Series* rotors for track-ready braking."
+  ]
+}

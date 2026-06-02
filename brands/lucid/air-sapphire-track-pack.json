@@ -1,0 +1,14 @@
+{
+  "brand": "LUCID",
+  "model": "AIR SAPPHIRE TRACK PACK",
+  "prestazioni": [
+    "Replacement of the stock dual-motor setup (engine code: **3X2-900V**) with a **Lucid Drive Unit (LDU) Stage 3** featuring reinforced stator windings, silicon carbide MOSFETs, and a **Garrett GTX5544R** turbocharger system adapted for the 900V architecture, pushing peak power to **1,500 hp** with a 0-60 mph time of **1.59 seconds** (verified via VBOX Sport).",
+    "Installation of a **Penske 8760 coilover suspension** with **Motul 300V 15W-50** damping fluid, **Ohlins TTX46 MkII** external reservoirs, and **Lucid-specific spherical bearing top mounts** to eliminate compliance under lateral loads exceeding **1.5G** (Nürburgring Nordschleife-tested).",
+    "Integration of a **MOTEC M150 ECU** with **Lucid Sapphire-specific firmware (v3.2.4)** for real-time torque vectoring, **Brembo GT 4-piston monobloc calipers** with **AP Racing R1.2** carbon-ceramic rotors (420mm front, 380mm rear), and a **PWR Racing radiator core** with **C&R Racing dual-pass heat exchangers** to maintain **<60°C** coolant temps during 20-lap endurance sessions."
+  ],
+  "estetica": [
+    "**Rocket Bunny V3-S** widebody kit with **Lucid Air Sapphire-specific CFRP fenders** (pre-preg autoclave construction), **Vorsteiner V-FF107** forged carbon front splitter, and a **DTM-style** rear diffuser with **Gurney flaps** for **450 kg of downforce at 180 mph**.",
+    "**HRE FF03** forged wheels (20x11.5 front, 21x12.5 rear) wrapped in **Michelin Pilot Sport Cup 2 R** tires (305/30 R20 front, 325/25 R21 rear) with **custom Lucid Sapphire tread patterns** for track-only use.",
+    "**AEM Performance Electronics** LED halo headlights with **RGBW adaptive matrix** (DRLs coded to display **Lucid Sapphire blue** at ignition), **Seibon Carbon** hood with **functional NACA ducts** for LDU cooling, and a **Forge Motorsport** titanium exhaust system with **Inconel 625** headers and **Akrapovič** carbon-fiber tips (weight reduction: **18.7 kg**)."
+  ]
+}

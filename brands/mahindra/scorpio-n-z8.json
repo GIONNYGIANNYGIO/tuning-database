@@ -1,0 +1,14 @@
+{
+  "brand": "MAHINDRA",
+  "model": "SCORPIO N Z8",
+  "prestazioni": [
+    "Engine: Replace the stock **mStallion 2.2L Turbo Diesel (mHawk 2.2L, engine code: mHDT-220)** with a **Garrett GTX4202R turbocharger** (84mm compressor wheel, 1.06 A/R turbine housing) paired with a **Bosch CP4.2 high-pressure fuel pump** (2000 bar) and **Denso G4S 1000cc injectors** for a target of 320 HP and 700 Nm torque at 2.5 bar boost, supported by a **Forge Motorsport 3-port boost controller** and **TurboSmart Kompact 40mm wastegate**",
+    "Drivetrain: Install a **Quaife ATB helical LSD (part # QDF7J)** in the rear axle to handle the increased torque, paired with **South Bend Clutch Stage 3 (ceramic puck, 600 Nm capacity)** and a **Peloquin front differential (4.10:1 ratio)** to improve off-road and on-road traction under high power",
+    "Suspension & Handling: Replace the stock setup with **Öhlins Road & Track DFV coilovers (part # DFV 22M40-01)** featuring 30-way adjustable damping, **Whiteline adjustable sway bars (24mm front, 22mm rear)**, and **Polyurethane bushings (SuperPro 90A durometer)** for the control arms and subframe to eliminate flex under aggressive cornering"
+  ],
+  "estetica": [
+    "Aero: Install a **Liberty Walk LB Works widebody kit (Scorpio N-specific, part # LW-SCN-Z8)** with carbon fiber fenders, front splitter, and rear diffuser, paired with a **Seibon Carbon hood (part # MAH-SCN-Z8-CFHOOD)** featuring a functional scoop for the intercooler",
+    "Wheels & Tires: Fit **BBS RS-GT II 19x10.5 ET15 (front) and 19x11.5 ET10 (rear)** wheels with **Michelin Pilot Sport Cup 2 R tires (275/35 R19 front, 305/30 R19 rear)** for maximum grip, paired with **Project Kics R40 6-piston front and 4-piston rear brake calipers** with **DBA 5000 Series rotors (356mm front, 330mm rear)**",
+    "Exterior & Lighting: Replace the stock headlights with **Morimoto XB LED projectors (part # 80001)** and **Lux H1 LED fog lights**, add **Vland sequential LED taillights (part # VL-SCN-Z8-TL)**, and wrap the body in **3M 2080 Gloss Black (G12) with matte gunmetal accents** for a stealth-aggressive look"
+  ]
+}

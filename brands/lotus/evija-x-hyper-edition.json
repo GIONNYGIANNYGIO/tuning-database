@@ -1,0 +1,14 @@
+{
+  "brand": "LOTUS",
+  "model": "EVIJA X HYPER EDITION",
+  "prestazioni": [
+    "Quad-motor electric powertrain (EVJ-X-4M) recalibrated via Lotus Engineering's proprietary 'HyperTorque' firmware, increasing peak output from 2,000 PS to 2,300 PS (1,692 kW) and torque vectoring precision to 0.001s response time via YASA P400X axial flux motors with custom silicon carbide inverter cooling loops by M&I Materials (MIVOLT LV)",
+    "Full carbon-fiber monocoque reinforcement with 3D-printed titanium lattice subframes (AeroMet 100 alloy) by APWORKS, reducing torsional rigidity weight penalty by 18% while enabling a 1,972 Nm/deg stiffness target for track use, paired with a bespoke carbon-ceramic brake system (Brembo CCMR-X) featuring 420mm front and 390mm rear discs with titanium caliper pistons and Ferodo DS50000 pad compound",
+    "Active aerodynamics overhaul featuring a 'Vortex Generator Matrix' (VGM) by Swiss Side, integrating 144 micro-vortex generators (0.8mm pitch) across the underbody diffuser and rear wing, dynamically adjustable via NVIDIA DRIVE Orin SoC for real-time CFD optimization, generating 1,700 kg of downforce at 250 km/h with a drag coefficient of 0.27"
+  ],
+  "estetica": [
+    "Custom 'Liquid Metal' paint finish by Standox (Standox 99 Line, 'Aurora ChromaFlair' pigment) with a 5-layer nano-ceramic coating (Gyeon Quartz Ceramic Coating 9H+) for self-healing scratch resistance, applied via robotic spray arm for 0.1mm thickness uniformity",
+    "Full-width LED 'Holographic Blade' headlight system by Osram (Osram EviLight X), featuring 1,280 individually addressable micro-LEDs per unit with adaptive 8K resolution projection mapping for dynamic light signatures, paired with a carbon-fiber active grille shutter (Böhm Systems) with electrochromic privacy glass",
+    "Rocket Bunny x Lotus 'HyperAggressive' widebody kit (Pandem RB-EVJX) with 3D-printed carbon-fiber fenders (Toray T1100G) extending track width by 120mm, incorporating integrated air curtains and a rear diffuser with active Gurney flaps (developed with Sauber Aerodynamics), finished in raw forged carbon weave with gold leaf pinstriping (by Gold Leaf Studios, 23.75 karat)"
+  ]
+}

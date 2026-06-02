@@ -1,0 +1,14 @@
+{
+  "brand": "LOTUS",
+  "model": "EVIJA ROADSTER CONCEPT",
+  "prestazioni": [
+    "Upgrade to the **EVIJA's proprietary quad-motor electric powertrain (code: EVIJA-EM4)** with a **McLaren Applied 800V silicon carbide inverter** to push peak power from 2,000 PS to **2,400 PS** and torque from 1,700 Nm to **2,100 Nm**, utilizing **Honeywell Garrett E-Turbo compressors** for instantaneous response and **Williams Advanced Engineering liquid-cooled battery modules** with a **99.9 kWh capacity** for sustained high-output runs",
+    "Installation of a **Lotus-developed torque vectoring system (TVS-EV)** with **Bosch Motorsport VCU (Vehicle Control Unit)** and **AP Racing carbon-ceramic brake-by-wire calipers (CCM-R 410mm front, 390mm rear)** for sub-2.0-second 0-100 km/h acceleration and **0.95g lateral grip** via **Michelin Pilot Sport Cup 2 R tires (325/30 R21 front, 355/25 R22 rear)** on **OZ Racing Ultra Leggera HLT forged wheels (21x11.5 front, 22x13 rear)**",
+    "Integration of a **Motec C187 ECU with Lotus-specific EV calibration** paired with a **Marelli Motorsport high-voltage DC-DC converter** to optimize energy recuperation under braking, enabling **98% regenerative efficiency** and a **0-300 km/h time of 8.9 seconds** via **YASA P400-R axial flux motors (4x individual 500 kW units)** with **SKF hybrid ceramic bearings** for reduced rotational inertia"
+  ],
+  "estetica": [
+    "Full **Lotus Design Studio 'Aero Roadster' carbon-fiber body kit** featuring a **removable Targa-style roof panel (3K twill weave with matte clear coat)** and **active rear diffuser with Gurney flaps (developed in Woking's wind tunnel for -120 kg downforce at 250 km/h)**",
+    "Custom **Rimac Automobili 'Nebula' LED headlight clusters** with **Osram 10W laser diodes** and **3D-printed titanium honeycomb grille inserts** (replacing the standard Evija's active front splitter), paired with **Brembo 'Stylema' monobloc calipers in Lotus Racing Green** for a visual brake upgrade",
+    "Exterior wrapped in **3M 2080 'Matte Space Metallic' vinyl** with **Avery Dennison 'Gloss Black' contrast stripes** along the **Lotus 'Porosity' side skirts**, and **Forge Motorsport titanium exhaust outlets (dual 100mm tips)** for a hybridized ICE aesthetic, despite the EV powertrain"
+  ]
+}

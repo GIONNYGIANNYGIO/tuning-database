@@ -1,0 +1,14 @@
+{
+  "brand": "LUCID",
+  "model": "GRAVITY",
+  "prestazioni": [
+    "Dual-motor front/rear electric powertrain (code: LE9 2200 kW/2950 hp peak) overclocked via Lucid Motors' proprietary 'Warp Drive' firmware (v3.2.1) with custom silicon carbide MOSFET cooling loop using a PWR Performance Products intercooler and AEM EV VCU 400 for 0-60 mph in 1.9s (stock: 2.5s)",
+    "Full carbon-fiber monocoque reinforcement with T45 steel roll cage by Varis Engineering, integrated with a custom 1,200V 800Ah lithium-ion battery pack (Samsung SDI 21700 cells) and a secondary 48V supercapacitor bank (Maxwell Technologies) for transient power delivery",
+    "Bilstein B16 PSS10 coilovers with 3-way adjustable damping, custom valving for the Gravity's 3,500 kg curb weight, paired with HRE FF16 flow-formed wheels (22x11 front, 22x12.5 rear) wrapped in Michelin Pilot Sport Cup 2 R tires (305/30 R22 front, 325/25 R22 rear) and AP Racing 6-piston calipers with 420mm carbon-ceramic rotors"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (Gravity-specific CFRP panels) with integrated active aerodynamics: front splitter with 3-stage Gurney flaps (adjustable via MoTeC ADL3 dash), rear diffuser with dual-plane vortex generators, and a fixed rear wing (2.1m span) with NACA ducts for motor/battery cooling",
+    "Full custom paint by BASF Glasurit (998E 'Hyper Blue' with matte clear coat) and 3M 1080 'Carbon Fiber' wrap on the A-pillars, roof, and rear hatch, paired with OEM Lucid Air Sapphire-style LED headlights (custom CREE XHP70.2 emitters) and sequential turn signals (Lucid Motors part #LUC-2024-0345)",
+    "Interior: Recaro Pole Position seats (carbon-Kevlar shell, 6-point Schroth harnesses) with Alcantara suede (Autostyle 'Nero' with red stitching), custom roll cage padding (Sparco 'Fireproof' in matching red), and a MoTeC C127 dash display with integrated traction control (Lucid Motors 'Torque Vectoring Pro' algorithm)"
+  ]
+}

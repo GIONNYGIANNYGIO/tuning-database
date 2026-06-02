@@ -1,0 +1,14 @@
+{
+  "brand": "MG",
+  "model": "ZS V6",
+  "prestazioni": [
+    "KV6 2.5L (160PS) engine (engine code: KV6-25K4) upgraded with a custom-forged crankshaft from **JE Pistons** (86mm stroke, 93mm bore) paired with **Mahle Motorsport** forged pistons (11.5:1 compression ratio) and **Manley Performance** H-beam connecting rods for 400+ HP reliability on E85 fuel.",
+    "Full **TTE (Turbo Technik Engineering) Stage 3 turbo kit** featuring a **Garrett GT3582R** turbocharger (0.82 A/R turbine housing, 62mm compressor inducer) with a **custom 3-inch stainless steel exhaust manifold** (equal-length, 1.5mm wall thickness) and **Tial MV-R 44mm wastegate** for precise boost control at 1.5 bar (21.7 psi).",
+    "**Emerald K6 ECU** standalone engine management with **Motec PDM15** power distribution module, **AEM X-Series** wideband O2 sensor (30-0334), and **Mocal** oil cooler (13-row, 190mm core) paired with a **Setrab** 50-row front-mount intercooler (550x160x76mm) for consistent intake temps under 40°C."
+  ],
+  "estetica": [
+    "**RML Group** carbon fiber widebody conversion kit (ZS-specific, 50mm extended front fenders, 70mm rear) with **custom 3D-printed ABS wheel arches** to clear **Work Emotion CR Kiwami** 18x9.5 ET15 (front) and 18x10.5 ET10 (rear) wheels on **Nankang AR-1** semi-slick tires (245/40/18 front, 275/35/18 rear).",
+    "**Seibon Carbon** hood (ZS V6-specific, 3kg weight reduction) with **custom NACA ducts** feeding the **Setrab intercooler**, paired with a **Rear Diffuser Co.** carbon fiber rear diffuser (MG ZS-specific, 3-piece design with integrated **DTM-style gurney flaps**).",
+    "**OMP** carbon fiber racing seats (HRS-R model, FIA 8855-1999 certified) with **Schroth Profi II 6-point harnesses**, **Sparco** steering wheel (13.5-inch, suede, quick-release hub), and **Defi BF** digital dash (3.5-inch color display) mounted on a **custom CNC-machined aluminum dash panel** (replacing the stock MG cluster)."
+  ]
+}

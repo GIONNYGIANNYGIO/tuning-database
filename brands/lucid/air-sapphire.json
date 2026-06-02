@@ -1,0 +1,14 @@
+{
+  "brand": "LUCID",
+  "model": "AIR SAPPHIRE",
+  "prestazioni": [
+    "Upgrade to a custom dual-motor setup utilizing the factory 'LE9' tri-motor architecture with a bespoke inverter calibration by Cascadia Motion, targeting 1,400+ hp while maintaining OEM torque vectoring precision via Lucid's proprietary 'Wunderbox' power distribution unit (PDU) firmware revision 2.3.4",
+    "Installation of a Garrett GTX5544R Gen II turbocharger system (hybrid ceramic ball-bearing) paired with a PTP titanium turbo manifold, custom 4-inch downpipe, and a Tial MV-R 60mm external wastegate for each rear motor, with a secondary BorgWarner EFR 9180 turbo for the front motor, all managed via a Motec M150 ECU with Lucid-specific CAN bus integration",
+    "Full drivetrain reinforcement including a Quaife ATB differential with carbon fiber clutch packs for the rear axle, a custom billet aluminum driveshaft by The Driveshaft Shop (rated for 1,800 Nm), and a set of 300M steel axles with CV joints reinforced by Neapco for sustained 0-60 mph launches under 1.8 seconds"
+  ],
+  "estetica": [
+    "Full carbon fiber widebody conversion by Liberty Walk LB-SAPPHIRE kit, featuring aggressive front canards, extended rear fenders with integrated air vents, and a custom rear diffuser with active aerodynamics controlled via Lucid's existing air suspension ECU",
+    "Custom forged aluminum wheels by HRE (FF16 21x11.5 front, 22x12.5 rear) with titanium lug bolts, wrapped in Michelin Pilot Sport Cup 2 R tires (285/30 R21 front, 335/25 R22 rear) and paired with a custom AP Racing BBK (6-piston front, 4-piston rear) with carbon-ceramic rotors (420mm front, 380mm rear)",
+    "Full interior overhaul with Recaro Pole Position seats (carbon fiber shell, Alcantara/leather upholstery), a custom roll cage by Custom Cages (T45 steel, powder-coated Sapphire Blue), and a bespoke digital dash by AIM MXS Strada with Lucid Air-specific telemetry integration for real-time torque vectoring and battery management data"
+  ]
+}

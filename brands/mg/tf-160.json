@@ -1,0 +1,14 @@
+{
+  "brand": "MG",
+  "model": "TF 160",
+  "prestazioni": [
+    "Replace the stock 1.8L N-Series K16 engine (engine code: 18K4F) with a forged internals build using Mahle Motorsport forged pistons (87.5mm bore, 8.5:1 CR), Eagle H-beam connecting rods, and a steel crankshaft from Cosworth for 9,000 RPM reliability. Pair with a Garrett GT2860RS turbocharger (0.63 A/R turbine housing) and a custom 3-inch stainless steel exhaust system with a Scorpion 4-2-1 header and a Tial 44mm external wastegate for 300+ HP on 98 RON fuel.",
+    "Upgrade the stock Siemens MS43 ECU to a standalone Link G4+ Xtreme with a custom calibration by Dyno Dynamics UK, integrating a 3.5-bar MAP sensor, AEM wideband O2 controller, and a dual-stage nitrous oxide kit (NOS 55812) for a 50-shot progressive spray. Replace the stock fuel system with a Walbro 450 LPH in-tank pump, Injector Dynamics ID1000 injectors, and a Radium Engineering fuel pressure regulator.",
+    "Swap the stock MG TF suspension for a full Ohlins Road & Track DFV kit (front: 22mm adjustable sway bar, rear: 19mm adjustable sway bar) with custom valving for the TF chassis. Install AP Racing CP5270 front brake calipers with 330mm two-piece rotors and Ferodo DS2500 pads, paired with a Wilwood master cylinder and braided stainless steel lines. Replace the stock 16-inch wheels with OZ Racing Ultraleggera HLT 17x8 ET35 wheels wrapped in Michelin Pilot Sport Cup 2 tires (215/40 R17 front, 245/40 R17 rear)."
+  ],
+  "estetica": [
+    "Install a full Rocket Bunny V1 aero kit for the MG TF, including front bumper canards, side skirts, and a carbon fiber rear diffuser with integrated exhaust outlets. Replace the stock hood with a Seibon carbon fiber hood (Type 2, vented) and add a custom carbon fiber rear spoiler from APR Performance (GT-250 model, 3D adjustable).",
+    "Replace all exterior lighting with LUX H8/H11 LED bulbs for the headlights, Osram LEDriving SL fog lights, and a custom rear light setup using Philips LED strips integrated into the Rocket Bunny diffuser. Add a custom livery using 3M 1080 vinyl in a matte gunmetal finish with red pinstriping, applied by a specialist using the TF's unique body lines for a bespoke look.",
+    "Interior upgrades include a full Recaro Pole Position seat (left-hand drive) with custom MG TF-specific mounting brackets, a MOMO Mod.78 steering wheel (330mm diameter) with a NRG quick-release hub, and a custom roll cage from Custom Cages UK (FIA-spec, bolt-in, with integrated harness bar). Replace the stock gauges with a Defi Advance BF series 6-gauge cluster (oil pressure, oil temp, boost, fuel pressure, wideband AFR, and water temp) mounted on a custom A-pillar pod."
+  ]
+}

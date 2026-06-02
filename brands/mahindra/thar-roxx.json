@@ -1,0 +1,14 @@
+{
+  "brand": "MAHINDRA",
+  "model": "THAR ROXX",
+  "prestazioni": [
+    "Engine: Replace the stock mStallion 2.0L turbocharged diesel (engine code: mHawk200) with a BorgWarner EFR 7670 turbocharger (76mm compressor, 62mm turbine) paired with a custom 3.5-inch stainless steel downpipe and a Garrett G-Series 400HP intercooler core for reduced intake temps under sustained boost (target: 28 psi peak, 22 psi sustained).",
+    "Fuel System: Upgrade to a Bosch CP4.2 high-pressure fuel pump (max 2,200 bar) with Denso G4S 2,200cc/min injectors, controlled via a Link G4X Storm ECU with flex-fuel capability (E85 compatible) and a custom 10-layer fuel rail to handle the increased flow without pressure drop.",
+    "Suspension: Install a KW Suspensions Clubsport 3-way adjustable coilover kit (24-way rebound, 18-way compression, 12-way preload) with Mahindra-specific top mounts (polyurethane bushings) and Eibach ERS 1,000 lb/in springs for a 2.5-inch lift while maintaining articulation. Pair with a Whiteline front sway bar (24mm adjustable) and a custom rear panhard rod (polyurethane bushings, adjustable length) to eliminate axle tramp under hard acceleration."
+  ],
+  "estetica": [
+    "Aero: Fit a Liberty Walk LB Works widebody kit (THAR ROXX-specific, 4-inch flares) with carbon fiber fender liners and a custom aluminum rear diffuser (integrated LED brake light bar). Front bumper replaced with a Seibon Carbon fiber unit featuring a 3D-printed active grille shutter (controlled via ECU for drag reduction at speeds >60 mph).",
+    "Wheels: Mount a set of Volk Racing TE37V (17x9 +12 offset) with Nitto Ridge Grappler 285/70R17 tires (3-ply sidewall, beadlock-ready) and custom center caps (laser-etched Mahindra logo). Rear fenders rolled and pulled for clearance, with custom wheel spacers (15mm front, 25mm rear) to fill the arches.",
+    "Lighting: Replace all lighting with a full LUX Automotive setup: front LED projectors (Bi-Xenon, 5,500K color temp) with DRLs integrated into the carbon fiber bumper, rear sequential LED taillights (OEM-style housing, custom PCB), and a Lazer Triple-R 1,000m laser light bar (roof-mounted, controlled via CAN bus for auto-dimming)."
+  ]
+}

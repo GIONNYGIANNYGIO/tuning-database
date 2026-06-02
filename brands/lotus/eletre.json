@@ -1,0 +1,14 @@
+{
+  "brand": "LOTUS",
+  "model": "ELETRE",
+  "prestazioni": [
+    "Upgrade to a **Mercedes-AMG M177/M178-derived 4.0L V8 hybrid powertrain (engine code: OM6399)** with a **Garrett GTX5544R Gen II turbocharger (86mm billet wheel, 1.28 A/R turbine housing)** and **Precision Turbo & Engine PT8285 ball-bearing turbo (for secondary turbo in sequential setup)**, paired with a **Motec M150 ECU** for full torque-vectoring control and 0-60 mph in 2.5s (stock: 2.95s).",
+    "Installation of a **Pectel SQ6M standalone ECU** with **Lotus-specific CAN bus integration** to manage the **dual-motor front axle (ZF 2-speed e-drive units)** and **rear e-axle (Bosch SMG 180 kW motor)** for a combined **1,200+ hp (stock: 905 hp)** with **AEM EV VCU-400** for seamless hybrid torque blending.",
+    "Full **KW Suspension Clubsport 3-way coilovers (Lotus-specific valving)** with **Eibach ERS springs (1200 lb/in front, 1400 lb/in rear)** and **Tractive Active Suspension (TAS) hydraulic lift system** for 50mm ride height adjustment, paired with **AP Racing CP9660 front brake calipers (6-piston, 420mm discs)** and **Brembo GT-R rear calipers (4-piston, 380mm discs)** with **Ferodo DS3.12 pads**."
+  ],
+  "estetica": [
+    "**RML Group Lotus Eletre GT4-inspired widebody kit** (carbon fiber front splitter, rear diffuser, and side skirts with **3D-printed aluminum reinforcement gussets**), featuring **custom 3-piece forged BBS FI-R wheels (21x11.5 front, 22x12.5 rear, ET25 offset)** in **gold/polished finish** with **Pirelli P Zero Trofeo R tires (305/30 R21 front, 325/25 R22 rear)**.",
+    "**Vorsteiner carbon fiber hood (with integrated NACA ducts for brake cooling)** and **Rocket Bunny rear wing (Type 2, 1,800mm span, 300mm chord)** with **Gurney flap adjustment via electric actuators**, paired with **Lotus Exclusive 'Hethel Edition' satin matte British Racing Green paint (PPG DBC system)** and **3M Scotchlite reflective pinstriping**.",
+    "**Recaro SPG XL-E seats (carbon shell, 6-point Schroth Profi II harnesses)** with **Lotus-specific mounting brackets (TÜV-certified)** and **Alcantara/leather upholstery (custom 'Eletre Racing' embroidery)**, paired with **MOMO Prototipo steering wheel (flat-bottom, suede, 380mm diameter)** and **AiM MXL2 data logger (integrated with OBD-II and CAN bus for lap-time telemetry)**."
+  ]
+}

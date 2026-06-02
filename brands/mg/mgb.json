@@ -1,0 +1,14 @@
+{
+  "brand": "MG",
+  "model": "MGB",
+  "prestazioni": [
+    "Engine swap to a Ford 2.3L Lima I4 (engine code: *2300*) with a custom billet crankshaft from *Crower* (stroke increased to 96mm for 2.5L displacement), paired with *Mahle* forged pistons (8.5:1 compression) and *Manley* H-beam connecting rods. Forced induction via a *Garrett GT2860RS* turbocharger with a *Tial* 44mm wastegate and *TurboSmart* Kompact blow-off valve. Fueling handled by *Bosch* 044 high-flow fuel pump, *ID1000* injectors, and a *Haltech Elite 2500* standalone ECU with custom mapping for 98 RON fuel.",
+    "Drivetrain upgrade with a *Tremec T56 Magnum* 6-speed manual transmission (adapted via *MG Rover R380* bellhousing and *Tilton* twin-plate clutch), paired with a *Quaife ATB* helical LSD in a *Salisbury* 4HA differential housing. Custom *GKN* CV joints and *Polybush* transmission mounts to handle increased torque.",
+    "Suspension overhaul with *Bilstein B16 PSS10* coilovers (adjustable damping, 50mm drop), *Polybush* black series polyurethane bushings for the front A-arms and rear leaf springs, and *Whiteline* 22mm front sway bar with *Hotchkis* end links. Braking system features *Wilwood* Dynalite 4-piston calipers (12.19-inch rotors front, 11-inch rear) with *Ferodo DS2500* pads and *Goodridge* braided stainless steel lines."
+  ],
+  "estetica": [
+    "Full *Rocket Bunny* widebody conversion kit (MGB-specific, not generic) with carbon fiber fenders, front splitter, and rear diffuser. Custom *Seibon* carbon fiber hood with functional NACA ducts for turbocharger cooling. Rear quarter panels extended by 2 inches for wheel clearance.",
+    "OEM+ restomod interior with *Recaro SRD* bucket seats (retrimmed in *Bridge of Weir* leather with *Alcantara* inserts), *Momo* Prototipo steering wheel on a *NRG* quick-release hub, and a *Smiths* retro-styled digital gauge cluster (replicating original MGB dials but with *AEM* digital readouts). Custom *Vintage Air* Gen IV climate control system hidden behind the original dash vents.",
+    "Exterior lighting upgraded to *Hella* 7-inch LED headlights (DRL/low/high beam) with *Morimoto* HID projectors, *Lux H8* LED fog lights, and *Oracle* RGB LED halo taillights (sequential turn signals). Wheel setup: *Rotiform LAS-R* 15x8 (front) and 15x9 (rear) with *Nitto NT01* 225/50R15 and 245/45R15 tires, respectively. Custom *AeroCatch* hood latches and *AP Racing* brake ducts integrated into the front bumper."
+  ]
+}

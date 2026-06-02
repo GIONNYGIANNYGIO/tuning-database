@@ -1,0 +1,14 @@
+{
+  "brand": "LOTUS",
+  "model": "EVORA GT",
+  "prestazioni": [
+    "Supercharged Toyota 2GR-FE (3.5L V6, engine code: 2GR-FKS) upgraded with a Harrop HTV 2650 supercharger kit (12psi boost, 500+ HP) paired with a custom Lotus-specific ECU remap by Dyno Dynamics Australia, optimizing fueling for E85 blend via Injector Dynamics ID1050x injectors and a Radium Engineering fuel surge tank",
+    "Full titanium exhaust system by Agency Power (3.5\" diameter, 4-2-1 merge collectors) with custom X-pipe and Borla Pro XS mufflers, reducing backpressure by 30% while maintaining Lotus NVH compliance",
+    "Ohlins TTX46 coilovers with Lotus-specific valving, adjustable ride height (-30mm drop), and Swift Springs 10K/8K rates, paired with Eibach anti-roll bars (24mm front, 22mm rear) and polyurethane bushings from SuperPro (part #SPF0115-2K) for chassis rigidity"
+  ],
+  "estetica": [
+    "RML Group carbon fiber widebody kit (front fenders, rear quarter panels, and rear diffuser) with integrated cooling ducts for the 2GR-FKS intercooler, reducing weight by 18kg and increasing downforce by 45lbs at 120mph",
+    "Vorsteiner V-FF 107 20\" forged wheels (9.5\" front, 11.5\" rear) in matte black with custom Lotus center caps, wrapped in Michelin Pilot Sport Cup 2 R tires (245/35/20 front, 305/30/20 rear) for optimal heat cycling",
+    "Custom carbon fiber rear wing by APR Performance (GT-250 model, 3D-printed endplates) with adjustable angle (0-12 degrees) and integrated third brake light, paired with a front splitter extension by Seibon Carbon (2.5\" overhang) for balanced aero"
+  ]
+}
