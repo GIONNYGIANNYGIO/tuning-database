@@ -1,0 +1,14 @@
+{
+  "brand": "MASERATI",
+  "model": "MC12",
+  "prestazioni": [
+    "F140B Ferrari-derived 6.0L V12 engine (Type F140B) upgraded with a custom Motec M150 ECU remap targeting 800+ HP via aggressive camshaft profiles (290° duration, 12.5mm lift) and a bespoke dry-sump lubrication system from HPE (High Performance Engineering) to eliminate oil starvation under 1.5G lateral loads",
+    "Garrett GT4202R twin-turbocharger kit (ball-bearing, 84mm inducer) with custom Inconel 625 exhaust manifolds by Novitec Tridente, paired with a dual-ceramic-coated 3.5\" titanium exhaust system from Capristo (Euro 6 compliant) and a secondary wastegate-controlled boost pressure of 1.8 bar (26 psi) for linear power delivery up to 9,000 RPM",
+    "Öhlins TTX40 3-way adjustable coilovers with 12-position rebound damping, 24-position compression damping, and remote reservoirs, paired with a custom-fabricated tubular subframe reinforcement by G-Tech Motorsport to eliminate chassis flex under high-speed cornering (validated via FEA analysis for 2.0G+ lateral acceleration)"
+  ],
+  "estetica": [
+    "Full carbon-fiber bodywork replacement kit by Novitec Tridente, including a 3D-scanned front splitter with integrated air curtains, a rear diffuser with active Gurney flap (electrically adjustable via CAN bus), and a GT3-spec rear wing with dual-element design (adjustable angle of attack via hydraulic actuators)",
+    "Brembo GT-R monobloc 6-piston calipers (front) and 4-piston calipers (rear) with 410mm CCM-R carbon-ceramic rotors (floating design, 3D-printed titanium hats) and custom titanium brake lines by HEL Performance, finished in gold anodized caliper covers with Maserati trident engravings",
+    "OZ Racing Ultraleggera HLT forged wheels (20x11.5\" front, 20x13\" rear) with custom offset (-30mm front, -45mm rear) and Michelin Pilot Sport Cup 2 R tires (325/25 R20 front, 355/25 R20 rear), wrapped in a bespoke matte Grigio Touring paint scheme with exposed carbon-fiber weave accents by Carrozzeria Zanasi"
+  ]
+}

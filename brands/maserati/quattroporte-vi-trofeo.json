@@ -1,0 +1,14 @@
+{
+  "brand": "MASERATI",
+  "model": "QUATTROPORTE VI TROFEO",
+  "prestazioni": [
+    "Upgrade to a **Garrett GTX5533R Gen II** turbocharger (84mm compressor wheel, 106mm turbine) paired with a **custom 3.5-inch titanium downpipe** (fabricated by **Armytrix**) to eliminate backpressure on the **F154C 3.8L V8 twin-turbo** (410hp stock, targeting 750whp with supporting mods). Requires **Forgeline FT1 20x11 ET25 wheels** with **Pirelli P Zero Trofeo R 295/25R20 tires** to handle increased torque (850Nm+).",
+    "Full **Motec M150 ECU** standalone management with **custom flex-fuel ethanol mapping** (E85 compatible) and **Bosch Motorsport 0280158802 2000cc injectors** for precise fueling. Pair with a **Pectel SQ6M lambda controller** for closed-loop AFR targeting 11.8:1 under boost (stock compression 9.5:1).",
+    "**Öhlins TTX46 MkII coilovers** with **Maserati-specific spring rates (14kg/mm front, 16kg/mm rear)** and **custom top mounts** (fabricated by **KW Suspensions**) to eliminate stock rubber bushings. Add **AP Racing CP9430-1000 6-piston front calipers** with **380mm CCM-R rotors** (replacing stock 360mm) and **Ferodo DS3.1 brake pads** for fade resistance under track use."
+  ],
+  "estetica": [
+    "**Rocket Bunny V3 widebody kit** (Quattroporte VI-specific, 50mm wider front fenders, 70mm rear) with **custom carbon fiber overfenders** (hand-laid by **Seibon Carbon**) and **dual 50mm exhaust outlets** (integrated into the rear diffuser, fabricated by **Novitec Tridente**).",
+    "**Vorsteiner V-FF107 21x10.5 ET30 front / 21x12.5 ET40 rear forged wheels** in **matt bronze finish**, wrapped in **Michelin Pilot Sport Cup 2 Connect 305/25R21 tires**. Pair with **custom 3D-printed titanium wheel spacers** (15mm front, 20mm rear) to fill the Rocket Bunny arches.",
+    "**Lamborghini-style LED taillight conversion** (using **OEM Lamborghini Huracán rear light clusters**, adapted by **Vossen Design**) with **custom sequential turn signals** (controlled via **AEM VC230 CAN bus module**). Front end receives **Maserati Levante Trofeo carbon fiber grille** (painted **Giallo Modena**) and **custom LED DRLs** (designed by **LuxuryTuning**)."
+  ]
+}

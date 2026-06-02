@@ -1,0 +1,14 @@
+{
+  "brand": "MASERATI",
+  "model": "GHIBLI TROFEO",
+  "prestazioni": [
+    "Engine: F160 V8 (3.8L twin-turbo, engine code F160AN) – Replace stock IHI turbochargers with Garrett GTX5533R Gen II turbos (88mm compressor wheels, 1.15 A/R turbine housings) paired with custom 4-inch titanium downpipes (Armytrix Valvetronic) and a CSF dual-core intercooler (bar-and-plate, 1200hp-capable) to support 850whp on E85 with a Motec M150 ECU reflash (OEM torque vectoring retained).",
+    "Drivetrain: Upgrade the ZF 8HP75 transmission with a Punch Powertrain TCM tune (aggressive shift logic, 50ms shifts) and a South Bend Clutch Stage 3 twin-disc (ceramic-metallic, 1000Nm capacity) for the Q4 AWD system, paired with a Quaife ATB differential (45% lock) in the rear.",
+    "Suspension/Handling: Full Öhlins Road & Track DFV coilovers (3-way adjustable, 24-click rebound, 15-click compression) with custom valving for the Ghibli’s 50:50 weight distribution, paired with Maserati-specific Eibach ERS Pro springs (-30mm drop) and Brembo GT 380mm 6-piston front/355mm 4-piston rear brake kit (two-piece rotors, R90P pads) with steel-braided lines (Goodridge G-Stop)."
+  ],
+  "estetica": [
+    "Aero: Novitec Torado Ghibli Trofeo widebody kit (carbon fiber, +80mm front/+100mm rear fenders) with a custom 3D-printed front splitter (CFD-optimized, -120kg downforce at 200km/h) and a Maxton Design GT-style rear diffuser (dual carbon canards, integrated tow hooks).",
+    "Exterior: Full 3M Matte Military Green (212) wrap with Xpel Stealth PPF on high-impact zones (front bumper, mirrors, rockers), paired with OEM+ Trofeo-specific carbon fiber side skirts (Maserati Corse part #670123456) and a custom titanium exhaust finisher (Akrapović, quad 100mm outlets).",
+    "Wheels: HRE FF15 21x10.5 ET25 front / 21x12.5 ET35 rear (custom offsets for widebody clearance) with Pirelli P Zero Trofeo R tires (275/30/21 front, 325/25/21 rear) and TPMS sensors (Schrader EZ-Sensor)."
+  ]
+}

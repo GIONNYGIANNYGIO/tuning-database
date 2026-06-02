@@ -1,0 +1,14 @@
+{
+  "brand": "MASERATI",
+  "model": "KHAMSIN",
+  "prestazioni": [
+    "Engine: Replace the stock 4.9L Tipo 114 V8 (4930cc, 320 HP) with a fully forged internals build featuring Mahle Motorsport forged pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from JE Pistons. Pair with a custom camshaft grind by Schrick (280° intake / 284° exhaust duration, 0.500\" lift) for high-RPM power delivery.",
+    "Forced Induction: Install a custom twin-turbo system using Garrett GT35R turbos (84mm compressor wheels) with Tial 44mm external wastegates, custom 3\" stainless steel exhaust manifolds by Burns Stainless, and a Spearco front-mount intercooler (1000cfm core). Boost pressure set to 12 psi with a custom ECU tune by Alientech (Maserati-specific KESSv2 protocol).",
+    "Suspension & Handling: Replace the stock setup with a full Ohlins Road & Track coilover kit (DFV 2-way adjustable dampers) paired with Maserati-specific Eibach Pro-Kit lowering springs (-30mm front, -25mm rear). Install a custom front strut tower brace by Cusco (Type-RS) and a rear subframe reinforcement kit by Autocadabra Engineering to reduce chassis flex under high lateral loads."
+  ],
+  "estetica": [
+    "Body Kit: Install a custom 3-piece fiberglass widebody kit by Zender (originally designed for the Khamsin but discontinued; sourced from a private collector) with integrated front splitter, side skirts, and a rear diffuser. Paint in Maserati Biturbo Rosso with a satin clear coat for contrast.",
+    "Wheels & Tires: Fit 17x9.5\" (front) and 17x11\" (rear) BBS RS-GT wheels (gold centers, polished lips) wrapped in Pirelli P Zero Trofeo R tires (245/40 R17 front, 285/35 R17 rear) for maximum grip. Use custom hubcentric spacers by H&R (15mm front, 25mm rear) to achieve proper flush fitment.",
+    "Interior & Aero: Replace the stock leather with a full Alcantara retrim by Saddleback Leather (Nero with Rosso stitching), including a custom roll cage by Custom Cages (MIG-welded 4-point bolt-in). Install a carbon fiber rear wing by APR Performance (GT-250 model, 3D-scanned for Khamsin mounting points) and a custom front canard set by Varis (carbon fiber, 3-piece adjustable)."
+  ]
+}

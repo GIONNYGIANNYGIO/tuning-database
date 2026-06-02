@@ -1,0 +1,14 @@
+{
+  "brand": "MASERATI",
+  "model": "QUATTROPORTE IV",
+  "prestazioni": [
+    "Engine: 4.2L Ferrari F136 R V8 (400hp stock) – Full forged internals by JE Pistons (9.5:1 CR, 90mm bore, 82mm stroke) with Carrillo H-beam connecting rods and ARP L19 head studs for 800hp+ reliability on E85.",
+    "Forced Induction: Twin Precision Turbo PT6266 CEA ball-bearing turbos (62mm inducer, 66mm exducer) with custom 3.5\" stainless steel exhaust manifolds by Burns Stainless, paired with a Tial MV-R 44mm wastegate and GReddy Profec B Spec II boost controller.",
+    "Fuel & Ignition: Full Motec M150 ECU with dual Bosch 044 high-flow fuel pumps, Injector Dynamics ID1700x injectors, and MSD 8516 coil-on-plug ignition system with NGK R7437-10 iridium spark plugs for optimized timing under 2.5 bar boost."
+  ],
+  "estetica": [
+    "Body Kit: Novitec Tridente widebody conversion with carbon fiber front splitter, side skirts, and rear diffuser (OEM+ fitment, no cutting required), paired with a custom 3M Matte Satin Viola wrap with gloss black accents on the grille and lower valance.",
+    "Wheels & Suspension: HRE FF01 20x9.5\" ET25 front / 20x11\" ET30 rear with 255/30/20 and 295/25/20 Michelin Pilot Sport Cup 2 tires, mounted on Ohlins Road & Track coilovers (Maserati-specific valving) with Eibach front sway bar (24mm) and rear sway bar (22mm) for reduced body roll.",
+    "Interior: Full Alcantara retrim by Saddleback Leather (dashboard, door cards, headliner) with custom embroidered Trident logos, paired with a Sparco Pro 2000 seat (carbon fiber shell, FIA-approved) and a MOMO Mod.78 steering wheel (350mm, suede grip) with quick-release hub."
+  ]
+}

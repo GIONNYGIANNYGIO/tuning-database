@@ -1,0 +1,14 @@
+{
+  "brand": "MASERATI",
+  "model": "SHAMAL",
+  "prestazioni": [
+    "Engine: AM 479 3.2L Twin-Turbo V8 (Biturbo-derived, 3217cc, 94mm bore x 75.2mm stroke) – Replace stock IHI RHB52 turbos with Precision Turbo PT6266 CEA billet wheel units, paired with custom 38mm wastegates and TiAL MV-R 50mm blow-off valves. Upgrade intercoolers to Garrett dual-core 700x300x100mm front-mount units with 3.5\" silicone couplers and V-band clamps.",
+    "Fuel System: Convert to full sequential Bosch Motorsport 0280158036 1,000cc injectors with AEM 30-0300 fuel pressure regulators. Install a Walbro 450 LPH in-tank pump with a surge tank and AN-6 braided lines. ECU reflash via Alientech KESSv2 with custom dyno-tuned maps targeting 12.5:1 AFR and 1.5 bar boost (stock: 0.8 bar).",
+    "Drivetrain: Replace ZF 4HP22 4-speed auto with a Getrag 282 6-speed manual conversion (from Maserati Ghibli Cup) using a custom bellhousing adapter plate. Upgrade clutch to Sachs Performance twin-disc ceramic (300mm) with a lightweight flywheel (12.5kg). Install a Quaife ATB differential with 3.91:1 final drive ratio (stock: 3.54:1)."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion using a custom Shamal-specific Rocket Bunny/Pandem kit (extended fenders, front splitter, and ducktail spoiler). Replace steel hood with a 3D-printed carbon fiber unit featuring dual NACA ducts for intercooler airflow. Paint in original \"Rosso Mondiale\" with matte black accents and gold OZ Racing Superleggera III wheels (18x9.5 ET25 front, 18x11 ET30 rear).",
+    "Interior: Full Alcantara retrim by Saddleback Leather, including Recaro Pole Position seats (carbon fiber backs) with Schroth 6-point harnesses. Replace stock gauges with a Motec C127 dash display and a custom MOMO Mod.78 steering wheel (350mm, suede). Install a roll cage by Custom Cages (T45 steel, bolt-in) with integrated fire suppression system (Lifeline Zero 360).",
+    "Lighting: Convert all lighting to LED using LUX H8/H11 bulbs for headlights and Diode Dynamics SS360 fog lights. Install a custom rear light setup with sequential turn signals (using Audi R8-style LED strips) and a carbon fiber rear diffuser with integrated LED brake light bar (by Seibon)."
+  ]
+}

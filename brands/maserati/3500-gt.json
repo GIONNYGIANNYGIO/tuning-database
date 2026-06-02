@@ -1,0 +1,14 @@
+{
+  "brand": "MASERATI",
+  "model": "3500 GT",
+  "prestazioni": [
+    "Engine swap to a fully rebuilt and balanced *AM104* 3.5L inline-6 with forged internals (Mahle pistons, Carrillo connecting rods, and a billet crankshaft) paired with a custom-built *Weber 45 DCOE* carburetor setup featuring velocity stacks and a bespoke intake manifold for optimized airflow at high RPM (targeting 280+ HP, up from the stock 220 HP).",
+    "Installation of a *Tremec TKX* 5-speed manual transmission with a *Spec Stage 3+ clutch* and a *Mantic twin-plate flywheel* to handle the increased torque, paired with a *Quaife ATB differential* for improved power delivery and cornering stability.",
+    "Custom *Koni 8611-1437Sport* adjustable coilovers with *Eibach Pro-Kit springs* (25% stiffer than stock) and *polyurethane bushings* from *SuperPro* for the front and rear suspension, combined with *Brembo GT 4-piston calipers* and *355mm two-piece rotors* for superior braking performance."
+  ],
+  "estetica": [
+    "Full *Rocket Bunny V1* widebody kit (3500 GT-specific) with custom carbon fiber fender flares, front splitter, and rear diffuser, paired with *OEM-style LED headlights* from *Dapper Lighting* for a modernized yet classic look.",
+    "Custom *Zagato-inspired* double-bubble roof panel in *carbon fiber* (hand-laid by *C-West*) to reduce weight and improve aerodynamics, complemented by *BBS RS-GT* 18-inch wheels in a *gold-painted finish* with *Pirelli P Zero Trofeo R* tires (225/40 front, 245/40 rear).",
+    "Interior overhaul featuring *Recaro SPG XL* seats in *Nappa leather* with *Maserati trident embroidery*, a *MOMO Mod.78* steering wheel with a *quick-release hub*, and a *custom aluminum gauge cluster* from *Defi* displaying oil pressure, water temp, and boost (if turbocharged in future phases)."
+  ]
+}

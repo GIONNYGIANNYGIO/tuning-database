@@ -1,0 +1,14 @@
+{
+  "brand": "MASERATI",
+  "model": "BITURBO",
+  "prestazioni": [
+    "Engine: AM479 (2.5L V6 Biturbo) with forged internals including Carrillo H-beam connecting rods, JE 8.5:1 compression pistons, and a billet crankshaft from Maserati Corse for 1.5 bar boost capability, paired with a custom dry-sump oil system by Moroso to prevent oil starvation under lateral G-forces.",
+    "Turbocharger: Twin Garrett GT35R turbos with 62mm compressor wheels, Tial 44mm external wastegates, and custom 3.5\" stainless steel downpipes by Supersprint, feeding into a GReddy Profec B Spec II boost controller for precise spool management.",
+    "Fuel & Ignition: Full sequential fuel injection conversion using Bosch Motorsport 2200cc injectors, Walbro 450LPH in-tank pump, and a Link G4+ Xtreme standalone ECU with custom 3D-printed intake manifold by Velocity Motorsports, paired with MSD 8512 coil packs and NGK Iridium IX spark plugs gapped at 0.028\"."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion using the Maserati Corse MC12-inspired aero kit by Novitec Tridente, including extended front fenders, rear quarter panels, and a functional rear diffuser with integrated twin exhaust outlets.",
+    "Suspension: Öhlins TTX46 coilovers with 24-way adjustable damping, custom valving for the BiTurbo's 50:50 weight distribution, and spherical bearing top mounts by SuperPro, paired with H&R 25mm front and 20mm rear anti-roll bars for reduced body roll.",
+    "Wheels & Brakes: OZ Racing Ultraleggera HLT 18x9.5\" (front) and 18x11\" (rear) wheels with 245/35R18 and 295/30R18 Michelin Pilot Sport Cup 2 tires, stopping power via Brembo GT 380mm 6-piston front calipers with two-piece rotors and Ferodo DS2500 pads, paired with a custom stainless steel brake line kit by Goodridge."
+  ]
+}

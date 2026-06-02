@@ -1,0 +1,14 @@
+{
+  "brand": "MASERATI",
+  "model": "GRANTURISMO S",
+  "prestazioni": [
+    "Engine: 4.7L Ferrari-Maserati F136Y V8 (444 hp stock) – Full forged internals upgrade with Carrillo H-beam connecting rods, JE Pistons 12.5:1 compression forged pistons, and ACL Race Series bearings for 8,500 RPM reliability. Pair with a custom dry-sump system from Aviaid to eliminate oil starvation during high-G cornering.",
+    "Forced Induction: Precision Turbo & Engine PT6766 CEA turbocharger with a custom 3.5-inch stainless steel exhaust manifold (fabricated by G-Tech Motorsport) and a Tial MV-R 44mm external wastegate. Intercooled with a custom air-to-water setup using a PWR radiator and Bosch 044 fuel pump with ID1000 injectors for 600+ HP on E85.",
+    "Suspension & Handling: Öhlins TTX46 coilovers with 3-way adjustable damping, custom valving for the GranTurismo’s 1,780 kg weight, and spherical bearing upper mounts from SuperPro. Pair with a full polybush kit from Powerflex (black series) and a custom front sway bar from Hotchkis (28mm adjustable) to reduce understeer."
+  ],
+  "estetica": [
+    "Aero: Novitec Tridente widebody kit with carbon fiber front splitter, side skirts, and rear diffuser, paired with a custom 3D-printed rear wing (inspired by the MC20’s design) from 991 Motorsports. Front bumper modified with a custom radiator ducting system for the intercooler.",
+    "Wheels: HRE FF01 20x9.5 ET25 front and 20x11.5 ET45 rear with custom offsets, wrapped in Michelin Pilot Sport Cup 2 R tires (255/30/20 front, 305/25/20 rear). Forged centerlock adapters from DPE for quick swaps.",
+    "Interior: Full Alcantara retrim by Saddleback Leather, including door cards, headliner, and custom carbon fiber shift paddles (extended for better ergonomics). Digital dash upgrade with an AiM MXL 2 data logger and a custom ECU interface from Syvecs for real-time tuning adjustments."
+  ]
+}

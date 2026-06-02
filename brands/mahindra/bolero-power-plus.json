@@ -1,0 +1,14 @@
+{
+  "brand": "MAHINDRA",
+  "model": "BOLERO POWER PLUS",
+  "prestazioni": [
+    "Engine swap to a Mahindra-sourced mHawk 2.2L CRDe (mEagle engine code) with forged internals, including Mahle Motorsport pistons (83.5mm bore, 9.0:1 CR), Eagle H-beam connecting rods, and a billet crankshaft for 450Nm+ torque handling. Pair with a BorgWarner EFR 7670 turbo (0.86 A/R, 62mm compressor) and a custom 3.5-inch stainless steel turbo-back exhaust with a Vibrant 1799 resonator for optimized spool and backpressure management.",
+    "Full standalone ECU upgrade to a Haltech Elite 2500 with custom wiring harness, integrating a Bosch LSU 4.9 wideband O2 sensor, AEM 3.5bar MAP sensor, and Mahindra-specific fuel system upgrades including a Walbro 450LPH in-tank fuel pump, Injector Dynamics ID1000x injectors (1000cc/min), and a custom billet fuel rail with AN-6 fittings for high-flow fuel delivery.",
+    "Chassis reinforcement with a Mahindra Motorsport bolt-in roll cage (TIG-welded 2.5-inch DOM tubing, 1.5mm wall thickness) and polyurethane bushings (Energy Suspension 9.5111G) for the front control arms and rear leaf spring shackles. Suspension upgrade to KW Variant 3 coilovers (8-position rebound, 12-position compression, 20mm ride height adjustability) with custom valving for the Bolero’s leaf-sprung rear end, paired with Whiteline 24mm front and 22mm rear sway bars."
+  ],
+  "estetica": [
+    "Custom widebody conversion using a Mahindra-approved Rocket Bunny/Pandem BRZ-style kit (fiberglass fenders, carbon fiber side skirts, and a duckbill rear spoiler) with a 3-inch extended wheelbase for staggered fitment. Front bumper replacement with a custom 3D-printed splitter (carbon fiber, 3-piece design) incorporating a 40mm lower lip and integrated tow hooks for rally use.",
+    "OEM+ interior overhaul with Recaro SR-7 XL seats (fixed-back, FIA-approved) mounted on custom aluminum brackets, paired with a Sparco Pro 2000 steering wheel (350mm diameter, suede) and a bolt-in Mahindra Motorsport quick-release hub. Full interior sound deadening with Dynamat Xtreme (2mm thickness) and a custom aluminum firewall panel to reduce NVH under boost.",
+    "Exterior lighting upgrade to Hella Rallye 3000 HID driving lamps (8000K, 300mm diameter) with custom aluminum mounts, paired with Osram Night Breaker Laser H7 bulbs in the stock headlights. Wheel fitment: Enkei PF07 (16x8 +25 offset front, 16x9 +30 offset rear) with Nitto NT05 tires (215/60R16 front, 245/55R16 rear) for staggered grip and a 5mm fender roll for clearance."
+  ]
+}

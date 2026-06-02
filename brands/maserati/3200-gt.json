@@ -1,0 +1,14 @@
+{
+  "brand": "MASERATI",
+  "model": "3200 GT",
+  "prestazioni": [
+    "Engine: Replace the stock AM584 (3.2L twin-turbo V8) internals with forged Mahle pistons (88.5mm bore, 10.5:1 CR) and Carrillo H-beam connecting rods to handle 1.2 bar boost from a Garrett GT3582R turbocharger (compressor wheel 62mm/68mm, turbine wheel 68mm/72mm) with a custom 3.5-inch stainless steel downpipe and GReddy Profec B Spec II boost controller for precise wastegate management.",
+    "Fuel System: Upgrade to a Bosch Motorsport 044 high-flow fuel pump paired with ID1000x injectors (1000cc/min) and a Link G4+ Xtreme standalone ECU with custom AM584-specific maps, including a 4-bar MAP sensor and dual AEM X-Series wideband O2 sensors for closed-loop AFR targeting 11.8:1 under full load.",
+    "Drivetrain: Install a Quaife ATB differential (80% lock) in the transaxle housing with a custom billet aluminum flywheel (12.5 lbs) and Sachs Performance twin-disc clutch (300 Nm torque capacity), paired with a Getrag 6-speed manual transmission reinforced with a PPG straight-cut gear set (1st: 2.92, 2nd: 2.04, 3rd: 1.53, 4th: 1.23, 5th: 1.03, 6th: 0.84) for optimized gear ratios."
+  ],
+  "estetica": [
+    "Body: Fit a Novitec Tridente widebody kit (carbon fiber front fenders, rear quarter panels, and rear diffuser) with a custom 3M Matte Graphite vinyl wrap and a Vorsteiner V-FF 107 20-inch forged wheel set (9.5J ET25 front, 11J ET30 rear) in a staggered fitment with Michelin Pilot Sport Cup 2 tires (265/30 R20 front, 295/25 R20 rear).",
+    "Aerodynamics: Install a custom carbon fiber front splitter from 996 Motorsports with integrated canards and a rear wing from RW Carbon (3D-printed airfoil, 1200mm span, adjustable angle of attack up to 15 degrees) for balanced downforce at 180+ mph.",
+    "Interior: Replace the stock leather with a full Alcantara retrim by Saddleback Leather (steering wheel, shift knob, and door cards) and install a custom roll cage by Custom Cages (T45 steel, 3.2mm wall thickness) with Sparco Pro ADV seats (carbon fiber shell, 6-point harnesses) and a Motec C127 dash logger for real-time telemetry."
+  ]
+}

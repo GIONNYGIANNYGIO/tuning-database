@@ -1,0 +1,14 @@
+{
+  "brand": "MASERATI",
+  "model": "MC20 GT2",
+  "prestazioni": [
+    "Nettuno V6 (F160) engine: Full titanium valve train upgrade with Del West 6.5mm titanium intake valves and 6.0mm exhaust valves, paired with Ferrea Competition Series valve springs and titanium retainers to support 10,500 RPM redline for GT2 endurance racing.",
+    "Garrett GTX5533R Gen II turbocharger with billet compressor wheel (76mm inducer, 106mm exducer) and Inconel turbine wheel, mated to a custom 4.0-inch titanium downpipe and Akrapovič 3.5-inch titanium exhaust system with GT2-spec 100-cell catalytic converters for FIA compliance.",
+    "Bosch Motorsport MS 17.8 ECU with custom GT2-spec fuel mapping for E85 blend, paired with a Pectel SQ6M data logger and Motec C127 dash for real-time telemetry, including cylinder-specific knock control and individual coil-on-plug ignition timing adjustments."
+  ],
+  "estetica": [
+    "Custom carbon fiber GT2-spec widebody kit by ARES Design, featuring FIA-approved front splitter with integrated dive planes and rear diffuser with 3D-printed titanium gurney flaps for 1,200 kg downforce at 250 km/h.",
+    "OMP GT2-spec carbon fiber racing seat with 6-point Schroth Profi II harness, paired with a Maserati Corse steering wheel featuring Alcantara grip and integrated Motec C127 display for driver metrics.",
+    "Brembo GT2-spec 6-piston front and 4-piston rear calipers with 400mm carbon-ceramic rotors, paired with Pagid RS29 brake pads and Motul RBF 660 racing brake fluid for 1,200°C heat resistance."
+  ]
+}

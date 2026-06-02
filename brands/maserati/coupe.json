@@ -1,0 +1,14 @@
+{
+  "brand": "MASERATI",
+  "model": "COUPE",
+  "prestazioni": [
+    "Engine: F136 R 4.2L V8 (4244cc) naturally aspirated—full titanium valve retainers from **Ferrea Racing (P/N F6600T)** with Inconel exhaust valves (P/N F6601INC) to reduce valvetrain mass by 40% for 9,000 RPM stability, paired with **Carrillo H-beam connecting rods (P/N 54000-4244)** and **JE forged pistons (P/N 303350)** with 12.5:1 compression for 500+ HP on **VP Racing MR6 116 octane fuel**",
+    "Forced induction: **Rotrex C38-91 supercharger** with custom **Maserati-specific billet intake manifold** (designed by **EuroCompulsion**) and **V-band throttle body adapter** for 8 psi boost, mated to a **Pectel SQ6M standalone ECU** with **Motec C127 dash logger** for real-time AFR and knock monitoring, supported by **Radium Engineering fuel surge tank (P/N 20-0118)** and **AEM 400 LPH in-tank pump**",
+    "Drivetrain: **OS Giken 2.2L twin-plate clutch (P/N OS-TC22)** with **Maserati-specific flywheel (P/N 231000000)** and **Quaife ATB differential (P/N QDF7Z)** for 70% lockup under load, paired with **GKN Driveline CV joints (P/N 30723000)** and **Penske 8760 coilovers (P/N 8760-4244)** with **Eibach ERS 1400N springs (P/N 2000.200.0140)** for 30mm drop and 500 lb/in spring rates"
+  ],
+  "estetica": [
+    "**Novitec Tridente widebody kit** (P/N NT-MAS-42WB) with **custom carbon fiber front splitter** (hand-laid by **Rocket Bunny**) and **GT3-style rear diffuser** (P/N RB-MAS-42DIF), extending rear track by 50mm via **HRE FF01 wheels (20x10.5 +25 front, 20x12 +35 rear)** with **Pirelli P Zero Trofeo R tires (275/30/20, 315/25/20)**",
+    "**Forge Motorsport carbon fiber engine cover** (P/N FM-MAS-F136) with **custom laser-etched 'F136 R' script**, paired with **Akrapović Evolution Line titanium exhaust (P/N T-MA09M-COBT)** featuring **4.5-inch carbon tips** and **valvetronic bypass for 98dB track mode**",
+    "**OMP HTE-R carbon fiber seats (P/N 7986CF)** with **Schroth Profi II 6-point harnesses (P/N 4000.16)** and **Maserati-specific bolt-in roll cage (P/N 231000001)** by **Custom Cages UK**, finished in **PPG 'Rosso Mondiale' with matte clear coat** and **3M Ceramic Tint (IR 95%)** for heat rejection"
+  ]
+}

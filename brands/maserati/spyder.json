@@ -1,0 +1,14 @@
+{
+  "brand": "MASERATI",
+  "model": "SPYDER",
+  "prestazioni": [
+    "Engine: F136R 4.2L V8 (4244cc) naturally aspirated—full internal build with forged Mahle Motorsport pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from Manley Performance. Pair with a custom dry-sump oil system by Dailey Engineering to eliminate oil starvation during high-G cornering.",
+    "Forced induction: Precision Turbo & Engine PT6766 CEA turbocharger (67mm, 66lb/min) with a custom 3.5\" stainless steel intercooler piping kit by Vibrant Performance, mated to a GReddy Type-S intercooler (core dimensions: 24\" x 6\" x 3.5\"). Boost controlled via an AEM 30-4150 standalone ECU with custom dyno-tuned maps for 12psi peak (91 octane).",
+    "Exhaust: Full titanium 3\" straight-pipe system by Supersprint, featuring 4-2-1 equal-length headers with 1.75\" primaries and a valved X-pipe (for backpressure optimization). Exit through dual 4.5\" carbon fiber tips by Remus, with a secondary bypass valve for track-only sound compliance."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion by Novitec Tridente, including front splitter with integrated canards, rear diffuser with active Gurney flap (adjustable via cockpit switch), and custom side skirts with air curtains for brake cooling. Paint: PPG custom matte \"Nero Carbonio\" with hand-brushed metallic flakes.",
+    "Wheels: HRE FF01 20x9.5\" (front) and 20x11\" (rear) in gloss black with titanium hardware, wrapped in Michelin Pilot Sport Cup 2 R tires (255/30/20 front, 305/25/20 rear). Forged centerlock adapters by Dymag for quick swaps.",
+    "Interior: Full Alcantara retrim by Sabelt, including custom bucket seats with 6-point harnesses (Schroth Profi II) and a bolt-in FIA-approved roll cage by Custom Cages UK. Steering wheel: MOMO Prototipo (350mm, suede) with integrated AIM MXS Strada dash display for real-time boost, AFR, and oil pressure monitoring."
+  ]
+}

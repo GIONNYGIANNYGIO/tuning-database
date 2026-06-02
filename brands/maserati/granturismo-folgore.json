@@ -1,0 +1,14 @@
+{
+  "brand": "MASERATI",
+  "model": "GRANTURISMO FOLGORE",
+  "prestazioni": [
+    "Upgrade to a **Marelli MLE 8.2** inverter firmware revision (v2.3.4) with custom silicon carbide (SiC) MOSFET calibration for the **F160E** 3x permanent-magnet synchronous motors (PMSM), reducing switching losses by 18% and enabling 0-60 mph in 2.9s (stock: 3.1s) with a 12% increase in regenerative braking efficiency (now 220 kW peak regen).",
+    "Install a **PWR Racing radiator (MAS-FOL-2024)** with dual 360mm core and integrated **Motul 7100 0W-20** oil cooler for the **F160E** powertrain, paired with a **Setrab 20-row transmission cooler (75001)** to maintain 65°C motor temps under sustained 1.2g lateral loads (Nürburgring lap simulation).",
+    "Replace the OEM **Continental MK C1** brake system with a **Brembo GT 380x34mm** 6-piston front / **355x32mm** 4-piston rear setup, using **Brembo CCM-R (Carbon Ceramic Matrix)** rotors (380mm front, 355mm rear) and **Ferodo DS2500** pads for 1,200°C fade resistance and 30% shorter 70-0 mph braking distances (now 42m)."
+  ],
+  "estetica": [
+    "Fit a **Novitec Torado Folgore** widebody kit (carbon fiber, 50mm front / 65mm rear fender flares) with **custom 3D-printed ABS underbody diffusers** (CFD-optimized for 15% more downforce at 180 mph), painted in **PPG Maserati Grigio Maratea (code: 202400) with satin clear coat**.",
+    "Install **OZ Racing Ultraleggera HLT** forged wheels (20x9.5 ET35 front / 21x12 ET45 rear) in **Gloss Black with polished lip**, wrapped in **Pirelli P Zero Elect** tires (265/30 R20 front, 325/25 R21 rear) with **custom red caliper paint (Maserati Rosso Folgore, code: 202401)** and laser-etched **Maserati Trident logos** on the spokes.",
+    "Replace the OEM LED matrix headlights with **LuxVision Folgore Edition** adaptive units (DRLs with **Osram 12V 55W H9 bulbs**, low beams with **Philips LaserBoost 85V 40W**, and **Morimoto XB35** high beams), paired with a **custom RGBW underglow system (Oracle Lighting 6804)** controlled via **Maserati Touch Control Plus** for dynamic color shifts (syncs with drive modes)."
+  ]
+}

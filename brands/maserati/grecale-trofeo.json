@@ -1,0 +1,14 @@
+{
+  "brand": "MASERATI",
+  "model": "GRECALE TROFEO",
+  "prestazioni": [
+    "Engine: Nettuno 3.0L V6 (F160) twin-turbo (stock: 530 HP, 620 Nm) – forced induction upgrade via Garrett GTX5533R Gen II turbos with billet compressor wheels, 1.05 A/R turbine housings, and TiAL MV-R 44mm external wastegates for 28 psi peak boost (target: 750 WHP on E85).",
+    "Fuel System: Injector Dynamics ID1700x side-feed injectors (1,700 cc/min) paired with a Radium Engineering dual-catch can setup and a Pierburg CWA50 high-pressure fuel pump (300 lph) to support methanol injection (Snow Performance Stage 3 kit with dual nozzles).",
+    "Drivetrain: ZF 8HP76 transmission reinforcement with a PRL Motorsports billet torque converter (4,000+ stall) and a Quaife ATB LSD (80% lockup) for the rear axle, paired with a custom 3.73:1 final drive ratio from Maserati Corse (limited-run homologation part)."
+  ],
+  "estetica": [
+    "Aerodynamics: Novitec Torado front splitter with integrated carbon dive planes (35% more downforce at 120 mph) and a custom 3D-printed rear diffuser by 3D Carbon, featuring active Gurney flaps (electronically adjustable via CAN bus).",
+    "Wheels: Forgeline GA3R 20x10.5 ET35 (front) and 21x12.5 ET45 (rear) in a satin bronze finish, wrapped in Michelin Pilot Sport Cup 2 R tires (275/35 R20 front, 325/30 R21 rear) with TPMS sensors recalibrated for 50 psi cold pressure.",
+    "Exterior Trim: Full carbon fiber body conversion via Carbonskins (hood, fenders, roof, and side skirts) with a custom matte Viola Metallizzato paint job (Maserati’s original Viola Micalizzato code, but with a 3-stage pearl flake additive for depth)."
+  ]
+}

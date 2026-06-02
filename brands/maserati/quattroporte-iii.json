@@ -1,0 +1,14 @@
+{
+  "brand": "MASERATI",
+  "model": "QUATTROPORTE III",
+  "prestazioni": [
+    "Engine: Replace the stock 4.9L Tipo AM107 V8 (engine code: AM107) with a fully forged internals build featuring Mahle Motorsport forged pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from JE Pistons. Pair with a custom camshaft grind from Schrick (280° intake / 284° exhaust duration, 11.5mm lift) for high-RPM power delivery.",
+    "Forced Induction: Install a Rotrex C38-91 centrifugal supercharger with a custom intercooler setup from Bell Intercoolers, utilizing a front-mount heat exchanger and a Bosch 044 fuel pump to support 12 psi of boost. Retain the stock AM107 block but sleeve it with Darton MID sleeves for added strength.",
+    "Exhaust & Fueling: Fabricate a custom 3.5-inch stainless steel exhaust system with Burns Stainless merge collectors and a GReddy Profec B Spec II boost controller. Upgrade to Siemens DEKA 80lb/hr injectors and a Motec M150 ECU for precise fuel and ignition mapping, paired with a custom 3-inch intake system featuring a K&N ram-air filter and a velocity stack setup."
+  ],
+  "estetica": [
+    "Body Kit: Install a custom carbon fiber widebody kit from Novitec Tridente (Quattroporte III-specific), featuring extended front fenders, a revised rear bumper with integrated diffuser, and side skirts with air vents for brake cooling. Paint in Maserati Biturbo-era Rosso Mondiale with gold pinstriping.",
+    "Wheels & Suspension: Fit 19x9.5 (front) and 19x11 (rear) OZ Racing Ultraleggera HLT wheels in a custom gold finish, wrapped in Michelin Pilot Sport Cup 2 tires (255/35 R19 front, 295/30 R19 rear). Lower the car with a custom Öhlins Road & Track coilover kit (Quattroporte III-specific valving) and add Eibach anti-roll bars for chassis stiffness.",
+    "Interior & Aero: Replace the stock dashboard with a carbon fiber unit from Sabelt, featuring a digital gauge cluster with AIM MXS Strada data logging. Add a custom rear wing from APR Performance (Quattroporte III-specific mounting points) and a front splitter with integrated canards from Rocket Bunny. Upholster the seats in Alcantara with red stitching and install a custom roll cage from Matter Fab for structural rigidity."
+  ]
+}

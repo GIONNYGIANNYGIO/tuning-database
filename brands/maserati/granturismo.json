@@ -1,0 +1,14 @@
+{
+  "brand": "MASERATI",
+  "model": "GRANTURISMO",
+  "prestazioni": [
+    "F136Y 4.7L V8 (454hp stock) forced-induction conversion via Garrett GTX4202R turbocharger (1.25 A/R, 64mm inducer) with custom 3D-printed titanium exhaust manifold (TIG-welded, Inconel 625 flanges) and dual 44mm wastegates (TurboSmart Hyper-Gate45) for 750whp on E85 (12.5:1 static compression, forged Mahle pistons, Carrillo H-beam rods, billet crank)",
+    "Full Motec M150 ECU standalone management with individual cylinder fuel trims, dual Bosch Motorsport 0280158888 2000cc/min injectors (staged), and custom CNC-machined intake plenums (7075-T6 aluminum, 3.5L volume) paired with K&N 99-5000 dry-flow filters (ram-air scoops integrated into front bumper)",
+    "Öhlins TTX40 3-way adjustable coilovers (24-position rebound, 22-position compression, 12kN/mm springs) with spherical bearing top mounts (MCS Motorsport), polyamide-impregnated spherical bearings (SuperPro SPF0116K), and custom subframe reinforcement plates (4130 chromoly, TIG-welded) for 30% increased chassis rigidity"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (pre-preg carbon fiber, 50mm extended fenders, custom 3D-scanned fitment) with integrated Vortex Generators (Aeroflow Dynamics) on the rear quarter panels for 15% reduced lift at 180mph",
+    "Custom 22-inch forged BBS FI-R wheels (9.5J ET25 front, 12J ET35 rear, 5x114.3 PCD) with Michelin Pilot Sport Cup 2 R tires (265/30 R22 front, 325/25 R22 rear) and titanium wheel studs (ARP 200-4706, 12-point)",
+    "Full carbon fiber interior retrofit (Sabelt 6-point harnesses, Sparco Pro 2000 seats with 3D-printed aluminum seat mounts, Alcantara-wrapped dashboard with exposed carbon fiber weave, and a custom 12.3-inch digital dash (AEM CD-7) with Maserati Trident logo startup animation)"
+  ]
+}

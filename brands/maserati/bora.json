@@ -1,0 +1,14 @@
+{
+  "brand": "MASERATI",
+  "model": "BORA",
+  "prestazioni": [
+    "Engine: 4.7L Tipo 107.24 V8 (4719cc) with forged Mahle Motorsport pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from JE Pistons for 8,500 RPM reliability. Pair with a custom dry-sump oiling system by Peterson Fluid Systems (4-stage, 10-quart capacity) to prevent oil starvation under lateral G-forces.",
+    "Forced Induction: Twin-turbo setup using Garrett GT35R turbos (62mm compressor, 68mm turbine) with TiAL MV-R 44mm wastegates and custom 3.5\" stainless steel turbo manifolds by SMS Engineering. Intercooling via a PWR 4.5-core front-mount intercooler (1200cfm airflow) with a custom water-methanol injection system (AEM 340lph pump, dual-nozzle setup) for 12psi boost targeting 650whp on 93 octane.",
+    "Drivetrain: ZF 5-speed transaxle (Type 105) reinforced with a Quaife ATB differential (80% lock) and upgraded half-shafts from GKN Driveline. Clutch: Tilton triple-disc carbon-carbon unit (7.25\" diameter) with a billet flywheel (18lbs) and hydraulic release bearing. Final drive ratio: 4.22:1 with a custom 5th gear overdrive (0.78:1) for highway cruising."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion by Novitec Tridente (Bora-specific kit), including extended fenders (3\" wider front, 4\" wider rear), custom front splitter with integrated canards (3D-printed carbon fiber), and a ducktail spoiler with active Gurney flap (adjustable via cockpit switch). Paint: PPG Vibrance Collection \"Rosso Vincenza\" with matte black accents and gold leaf Maserati trident badges.",
+    "Wheels: OZ Racing Ultraleggera HLT (18x9.5\" front, 18x11\" rear) with custom offsets (+15mm front, +5mm rear) and titanium wheel bolts. Tires: Michelin Pilot Sport Cup 2 R (245/35/18 front, 295/30/18 rear) with nitrogen inflation (32psi hot). Brake system: AP Racing 6-piston calipers (38mm pistons) with 380mm two-piece rotors (floating, slotted) and Ferodo DS2500 pads.",
+    "Interior: Full Alcantara retrim by Saddleback Leather (color-matched to \"Nero Carbonio\") with Recaro Pole Position seats (carbon fiber shells, 6-point Schroth harnesses). Steering wheel: MOMO Prototipo (350mm diameter) with quick-release hub and integrated AIM MXS Strada dash (12 data channels). Pedal box: Tilton 600-series (aluminum, adjustable spacing) with heel-toe blips."
+  ]
+}

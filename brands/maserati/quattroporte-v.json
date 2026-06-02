@@ -1,0 +1,14 @@
+{
+  "brand": "MASERATI",
+  "model": "QUATTROPORTE V",
+  "prestazioni": [
+    "Engine: F136 R 4.2L V8 (400hp stock) – Full forged internals by JE Pistons (9.5:1 compression, 90mm bore) with Carrillo H-beam connecting rods and ARP L19 head studs for 800whp reliability on E85. Precision Turbo PT6266 CEA ball-bearing turbo (62mm inducer, 66mm exducer) with custom 3.5\" stainless steel exhaust manifold by Novitec Tridente, paired with a Tial MV-R 44mm external wastegate and GReddy Profec B Spec II boost controller.",
+    "Fuel System: Full return-style fuel system with dual Walbro 450LPH in-tank pumps, Radium Engineering fuel pressure regulator, and ID1000x injectors (side-feed, Maserati-specific adapters). Custom Motec M150 ECU with flex-fuel sensor and individual cylinder tuning for the F136 R’s dry-sump oiling system, retaining OEM oil cooler but upgraded with a Setrab 50-row core.",
+    "Drivetrain: Quaife ATB differential (Maserati-specific 40-spline output shafts) with upgraded half-shafts by The Driveshaft Shop (3.5\" chromoly, CV joints rated for 1,000Nm). SPEC Stage 3+ twin-disc clutch (260mm, sprung hub) with billet flywheel and upgraded throwout bearing by Sachs Performance. Custom 3.73:1 final drive ratio (OEM is 3.54:1) for improved acceleration, paired with a ZF 6HP28 transmission tune by Dimsport Genius for faster shifts and torque management."
+  ],
+  "estetica": [
+    "Body: Novitec Tridente widebody kit (carbon fiber, 50mm rear fender flares, 30mm front) with custom front splitter and rear diffuser by Prior Design, both in pre-preg autoclave carbon. Custom 3M Matte Graphite vinyl wrap with gloss black accents on the grille, side skirts, and mirror caps. OEM Maserati GranTurismo MC Stradale taillights (LED, sequential turn signals) with smoked lenses.",
+    "Wheels: HRE FF15 20x9.5 ET25 front / 20x11.5 ET45 rear (custom offsets for Novitec fender clearance), wrapped in Michelin Pilot Sport Cup 2 R tires (255/30/20 front, 305/25/20 rear). Forged aluminum center locks by BBS (Maserati-specific hub adapters) with titanium wheel bolts by ARP.",
+    "Interior: Full Alcantara retrim by Saddleback Leather (dashboard, door cards, headliner) with red stitching to match OEM Maserati Rosso. Custom roll cage by Custom Cages (T45 steel, 6-point, bolt-in) with integrated harness bar for Schroth Profi II 6-point harnesses. OMP racing seats (carbon fiber shell, Alcantara inserts) with custom mounting brackets for OEM seatbelt locations. Motec C127 dash display (replaces OEM cluster) with custom Maserati-specific CAN bus integration for live telemetry."
+  ]
+}

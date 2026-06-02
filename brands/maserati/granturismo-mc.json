@@ -1,0 +1,14 @@
+{
+  "brand": "MASERATI",
+  "model": "GRANTURISMO MC",
+  "prestazioni": [
+    "F136Y 4.7L V8 naturally aspirated engine: Replace the stock exhaust manifold with a custom 1-7/4-2-3-6/5-8 equal-length stainless steel header system by Novitec Tridente, paired with a Capristo 300-cell high-flow catalytic converter and a full titanium Akrapović Evolution Line exhaust featuring dual 100mm carbon-fiber tips and electronically controlled butterfly valves for backpressure optimization.",
+    "F136Y engine management: Install a Motec M150 ECU with a custom calibration by Maserati specialist GT AutoTech, integrating a Bosch Motorsport 0261S02010 direct injection driver module and a custom-mapped throttle response curve for the stock 80mm throttle bodies, while retaining the factory variable intake manifold (VIM) but upgrading to a carbon-fiber plenum by Novitec for weight reduction and airflow efficiency.",
+    "Chassis and drivetrain: Replace the stock 6-speed ZF automatic transmission with a Getrag 466 6-speed manual conversion kit by G-Tec, featuring a twin-plate carbon clutch by Sachs Performance (360mm diameter, 2,500 Nm torque capacity) and a limited-slip differential by Drexler Motorsport with 40% preload and ramp angles optimized for the MC’s 47/53 weight distribution. Suspension is upgraded to a full Öhlins TTX46 coilover system with 3-way adjustable damping, custom spring rates (12kg/mm front, 14kg/mm rear), and spherical bearing top mounts by SuperPro for precise alignment control."
+  ],
+  "estetica": [
+    "Carbon-fiber widebody conversion by Novitec Tridente, featuring extended front fenders with integrated carbon-fiber canards, rear quarter panels with aggressive flares to accommodate 20x10.5 ET25 (front) and 21x12.5 ET35 (rear) forged aluminum wheels by HRE FF16 in a custom satin bronze finish, and a functional rear diffuser with integrated titanium exhaust outlets.",
+    "Custom front splitter and rear wing by APR Performance, designed specifically for the MC’s aero balance, with a 3D-scanned carbon-fiber splitter featuring a 40mm overhang and integrated air curtains, paired with a dual-element GT3-style rear wing (1,800mm width) with adjustable angle of attack (0-15 degrees) and a carbon-fiber gurney flap. The entire aero package is validated in CFD for a 30% increase in downforce at 200 km/h without additional drag.",
+    "Interior overhaul with a full Alcantara and carbon-fiber trim by Sabelt, including a custom roll cage by Matter Italy (FIA 8862-2009 certified) with integrated harness bar, a Sparco Pro 2000 carbon-fiber seat with 6-point Schroth Profi II harnesses, a MOMO Mod.78 carbon-fiber steering wheel with integrated Motec C127 dash display, and a custom center console featuring a quick-shift lever by CAE and a bespoke titanium gear knob by Novitec."
+  ]
+}

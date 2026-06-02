@@ -1,0 +1,14 @@
+{
+  "brand": "MASERATI",
+  "model": "GHIBLI TROFEO LAUNCH EDITION",
+  "prestazioni": [
+    "F160 3.8L Twin-Turbo V8 (F160 AN) ECU recalibration via Maserati Corse-approved Motec M150 standalone management with bespoke Trofeo Launch Edition-specific fuel and ignition maps, targeting 650+ HP at 7,500 RPM and 550+ lb-ft torque at 3,000 RPM, utilizing 102-octane race fuel and upgraded Bosch Motorsport 0280158815 high-flow injectors",
+    "Garrett GTX4202R billet turbochargers with 64mm compressor wheels and 76mm turbine wheels, paired with custom 3.5-inch stainless steel downpipes and GESI 400-cell metallic catalytic converters for optimized spool and reduced backpressure, supporting 28 PSI peak boost on 93-octane pump gas",
+    "Brembo GT 380x34mm 6-piston front and 380x30mm 4-piston rear monoblock calipers with carbon-ceramic discs (CCM-R 410x38mm front, 390x32mm rear), paired with Ferodo DS3.1 racing pads and Motul RBF 660 brake fluid for sustained 1.5G deceleration under track conditions"
+  ],
+  "estetica": [
+    "Novitec Torado Ghibli Trofeo-specific widebody kit with carbon fiber front fenders (25mm wider per side), rear quarter panels (30mm wider per side), and integrated front splitter with adjustable dive planes, finished in Satin Bianco Alpi with exposed carbon weave accents",
+    "Rocket Bunny V3 rear wing with 3D-printed titanium mounting brackets and adjustable carbon fiber Gurney flaps, designed to generate 120kg of downforce at 200 km/h (124 mph) while maintaining OEM-level panel gaps and factory door handles",
+    "OEM+ Trofeo Launch Edition-specific interior with Sabelt 6-point harnesses (FIA 8853/98 homologated), carbon fiber Recaro SPG XL bucket seats (replacing OEM seats), and a custom Alcantara-wrapped MOMO Prototipo steering wheel with integrated Motec C127 dash display for real-time boost, AFR, and oil pressure monitoring"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "MASERATI",
+  "model": "GRANTURISMO MC STRADALE",
+  "prestazioni": [
+    "F136YH 4.7L V8 (4691cc) naturally aspirated engine: Replace the OEM exhaust manifold with a custom 1-7/8\" primary tube equal-length stainless steel header system from Novitec Tridente, paired with a straight-pipe 3.5\" titanium exhaust from Capristo (model GT-MC-4700-TI) featuring quad 100mm carbon-fiber tips and a valved bypass for track-only mode.",
+    "F136YH ECU recalibration via Alientech KESS3 with a bespoke Stage 2+ map developed by Maserati specialist G-Tec Racing, targeting 520hp at 7,800 RPM and 390 lb-ft at 5,500 RPM with optimized ignition timing for 102-octane fuel (Shell V-Power Racing). Includes a custom throttle response curve for the MC Stradale’s Skyhook adaptive dampers to reduce torque steer under hard acceleration.",
+    "OEM F1-derived dry-sump lubrication system upgrade: Replace the stock oil pump with a high-flow unit from Maserati Corse (part #673100500) and integrate a 12-quart external oil reservoir from Peterson Fluid Systems (model 10-1000) with a billet aluminum oil cooler from Setrab (model 54037) mounted in the front bumper duct, plumbed with -10AN lines and Earl’s Pro-Lite 360 fittings."
+  ],
+  "estetica": [
+    "Full carbon-fiber widebody conversion kit from Novitec Tridente (model GT-MC-WB), including extended front fenders with integrated air vents, rear quarter panels with aggressive side skirts, and a revised rear bumper with a diffuser that accommodates the Capristo exhaust’s 100mm tips. Kit includes OEM-spec paint-matched carbon weave with a matte clear coat.",
+    "Custom forged 20x9.5\" ET25 front and 21x12\" ET40 rear wheels from HRE (model FF16) in a satin black finish, wrapped in Pirelli P Zero Trofeo R tires (255/30 R20 front, 325/25 R21 rear). Wheels feature center-lock adapters from BBS (part #BBS-CL-MC) for quick swaps and titanium wheel bolts from ARP (part #100-7717).",
+    "Front splitter and rear wing from Maserati Corse’s GT4 homologation parts (part #673100600 for the splitter, #673100700 for the wing), modified with a 3D-printed ABS underbody diffuser from APR Performance (model GT-1000) that integrates with the Novitec widebody kit. Splitter includes adjustable dive planes and a removable gurney flap for track use."
+  ]
+}

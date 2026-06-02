@@ -1,0 +1,14 @@
+{
+  "brand": "MASERATI",
+  "model": "GHIBLI II BITURBO",
+  "prestazioni": [
+    "Engine: AM490 (2.8L V6 Biturbo) – Full forged internals with Carrillo H-beam connecting rods, Mahle Motorsport forged pistons (8.5:1 compression), and a billet crankshaft from JE Pistons to handle 1.5 bar boost reliably. Pair with a custom dry-sump oil system from Peterson Fluid Systems to prevent oil starvation under high-G cornering.",
+    "Turbochargers: Replace stock IHI turbos with Garrett GT2860RS-5 hybrid turbos (custom billet compressor wheels, .64 A/R turbine housings) on a custom tubular stainless steel manifold by Tubular Automotive, paired with Tial MV-R 44mm external wastegates and a TiAL 50mm BOV for precise boost control up to 1.3 bar (22 psi) with a custom ECU tune via a standalone Motec M150 ECU.",
+    "Fuel System: Upgrade to a dual Bosch Motorsport 044 high-flow fuel pump setup with an Aeromotive A1000 regulator, feeding ID1000x injectors (side-feed, Maserati-specific adapters) and a custom fuel rail by Radium Engineering. Add a methanol injection kit (Snow Performance Stage 3) with dual nozzles pre-intercooler for cooling and octane boost, controlled via the Motec ECU."
+  ],
+  "estetica": [
+    "Aero: Full custom widebody conversion using a modified Maserati Shamal front splitter (carbon fiber, 3D-scanned for fitment) and a rear diffuser from a Maserati 3200 GT, paired with a custom carbon fiber rear wing (dual-element, 3D-printed molds) by 9 Lives Racing, designed for 150 kg of downforce at 200 km/h.",
+    "Wheels: OZ Racing Ultraleggera HLT 18x9.5 ET25 front and 18x11 ET15 rear (custom offsets for Ghibli II fender clearance), wrapped in Michelin Pilot Sport Cup 2 R tires (245/40/18 front, 295/35/18 rear). Use custom hub-centric spacers by H&R (15mm front, 25mm rear) for perfect fitment.",
+    "Interior: Full Alcantara retrim by Saddleback Leather, including custom door cards with carbon fiber inserts (3K twill, matte finish) and a MOMO Prototipo steering wheel (380mm, suede, drilled) on a NRG quick-release hub. Replace stock gauges with a digital dash from AIM MXS Strada (1.3\" display) and add a custom roll cage by Custom Cages (T45 steel, bolt-in, powder-coated Grigio Ferro)."
+  ]
+}

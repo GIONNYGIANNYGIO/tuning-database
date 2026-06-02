@@ -1,0 +1,14 @@
+{
+  "brand": "MASERATI",
+  "model": "MISTRAL",
+  "prestazioni": [
+    "Engine: Replace the original 3.7L *AM107* inline-6 with a fully built *AM107-B* block featuring forged Mahle pistons (87.5mm bore, 10.5:1 CR), Carrillo H-beam connecting rods, and a billet crankshaft from JE Pistons. Pair with a custom camshaft grind by Schrick (280° intake, 276° exhaust, 11.5mm lift) and titanium retainers from Ferrea Racing.",
+    "Forced Induction: Install a Garrett GT3582R turbocharger (0.82 A/R turbine housing) with a custom cast-iron exhaust manifold by Tubistyle, mated to a GReddy Type-S intercooler (front-mount, 2.5\" piping) and a Tial MV-R 44mm wastegate. Fueling upgrades include Bosch 044 high-flow fuel pump, ID1000x injectors, and a Link G4+ Xtreme ECU with custom AM107-B mapping by Viezu Technologies.",
+    "Drivetrain: Swap the original ZF 5-speed for a Getrag 265 6-speed dogbox with a Sachs Performance twin-disc clutch (240mm, 800Nm torque capacity). Install a Quaife ATB differential (4.10 final drive) and custom half-shafts from The Driveshaft Shop (300M steel, CV joints by GKN)."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion using a custom *Mistral GT* kit by Novitec Tridente, featuring extended fenders (30mm front, 40mm rear), a front splitter with integrated canards (Rocket Bunny-style), and a ducktail spoiler with Gurney flap. Paint in *Rosso Montecarlo* with matte black accents by Sprayline Milano.",
+    "Wheels: OZ Racing Ultraleggera HLT 18x9.5\" (ET20) front and 18x11\" (ET35) rear, wrapped in Pirelli P Zero Trofeo R tires (245/40/18 front, 295/35/18 rear). Brake system includes Brembo GT 6-piston calipers (380mm discs front, 355mm rear) with Ferodo DS2500 pads and stainless steel braided lines by Goodridge.",
+    "Interior: Full Alcantara retrim by Saddleback Leather, including dashboard, door cards, and Recaro Pole Position seats (carbon fiber shells, Schroth 6-point harnesses). Install a Momo Mod.78 steering wheel (350mm, suede) with quick-release hub, and a custom gauge pod by Defi (oil temp, boost, wideband AFR) mounted on the A-pillar."
+  ]
+}

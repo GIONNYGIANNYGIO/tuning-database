@@ -1,0 +1,14 @@
+{
+  "brand": "MASERATI",
+  "model": "LEVANTE TROFEO",
+  "prestazioni": [
+    "Upgrade to a **Garrett GTX5533R Gen II turbocharger** (engine code: **F160 V6 3.8L Twin-Turbo**) with billet compressor wheel, 76mm inducer, and 106mm exducer to support 850+ HP on E85 fuel, paired with **Precision Turbo & Engine 46mm wastegates** for precise boost control at 28-30 PSI",
+    "Full **Motec M150 ECU standalone engine management system** with **Maserati F160-specific calibration maps**, integrated **AEM X-Series wideband O2 sensors**, and **Bosch Motorsport 2000cc injectors** for stoichiometric fueling at high boost, alongside a **Radium Engineering dual-catch can system** to prevent oil dilution in the intake tract",
+    "Custom **3.5-inch titanium exhaust system** by **Capristo** with **Inconel 625 headers**, **scavenged merge collectors**, and **valved bypass for backpressure optimization**, paired with a **MagnaFlow 304 stainless steel center muffler** to retain Trofeo’s signature V6 howl while reducing weight by 42 lbs over OEM"
+  ],
+  "estetica": [
+    "**Novitec Torado Levante widebody conversion kit** (carbon fiber fenders, front splitter, and rear diffuser) with **custom 3M Matte Graphite vinyl overlay** and **PPF full-body clear bra** for track durability, extending wheel arches by 2.2 inches for **HRE FF10 22x11 ET35 wheels** with **Pirelli P Zero Trofeo R tires (305/30R22)**",
+    "**Rocket Bunny V3 aero package** (specific to Levante Trofeo) featuring a **dual-element carbon fiber rear wing** with **adjustable Gurney flaps** (3 positions) and **active DRS-style rear spoiler** controlled via **Maserati’s existing ECU CAN bus**, paired with **Vorsteiner carbon fiber side skirts** and **custom LED taillight overlays** by **Luxury Lighting Solutions**",
+    "**Brembo GT-R 6-piston monoblock calipers** (front) and **4-piston calipers** (rear) with **390mm two-piece floating rotors** (cross-drilled, slotted, and **Zircotec plasma-coated**), paired with **Ferodo DS3.1 brake pads** and **Motul RBF 660 racing brake fluid**, all mounted behind **HRE P107 22x12 ET40 wheels** for track use"
+  ]
+}
