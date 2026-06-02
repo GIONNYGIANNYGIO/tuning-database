@@ -1,0 +1,14 @@
+{
+  "brand": "LOTUS",
+  "model": "OMEGA",
+  "prestazioni": [
+    "Engine: Replace the stock C30SEJ (3.0L 24V I6, 200hp) with a fully built C30XEJ (3.0L 24V I6, stroked to 3.4L) using forged internals from Mahle (pistons, 86.5mm bore) and Manley H-beam connecting rods, paired with a custom billet crankshaft from JE for 3.4L displacement. Turbocharged with a Garrett GTX4202R (86mm compressor, 1.06 A/R turbine housing) on a custom tubular manifold by TurboSmart, running 2.0 bar of boost with a TiAL MV-R 44mm wastegate and TiAL Q 50mm blow-off valve.",
+    "Fuel System: Upgraded to a full Bosch Motorsport 044 high-flow fuel pump (340 lph) with dual Walbro 450 lph in-tank pumps, feeding Siemens DEKA 80lb/hr injectors (PN: 62420000) controlled by a Link G4+ Xtreme ECU with flex-fuel capability. Custom fuel rail by Radium Engineering with AN-8 feed and return lines, paired with a 10AN surge tank for consistent fuel delivery under lateral G-forces.",
+    "Drivetrain & Suspension: Reinforced Getrag 265 5-speed transmission with a Quaife ATB differential (LSD) and a Sachs Performance twin-disc clutch (360mm, 6-puck). Full Ohlins Road & Track DFV coilovers (2-way adjustable dampers) with custom spring rates (8kg/mm front, 10kg/mm rear) and spherical bearing top mounts from SuperPro. Polyurethane bushings (full kit from Powerflex) for subframes and control arms, paired with a Whiteline front sway bar (24mm adjustable) and rear sway bar (22mm)."
+  ],
+  "estetica": [
+    "Body Kit: Full carbon fiber widebody conversion using the 'Lotus Omega RS' aero kit by K-Motionz (UK), featuring aggressive front splitters with integrated canards, side skirts with air vents for brake cooling, and a rear diffuser with dual carbon fiber strakes. Custom carbon fiber hood with a central NACA duct for engine bay cooling, fabricated by Seibon Carbon.",
+    "Wheels & Stance: Enkei PF07 wheels (18x9.5 +25 front, 18x10.5 +30 rear) in matte bronze, wrapped in Michelin Pilot Sport Cup 2 tires (245/40/18 front, 275/35/18 rear). Custom wheel spacers (15mm front, 20mm rear) by H&R to fill the arches, paired with BC Racing BR coilovers for a static -30mm drop with aggressive camber settings (-3.5° front, -2.8° rear).",
+    "Interior & Details: Full Alcantara retrim by Royal Steering Wheels, including dashboard, door cards, and Recaro Pole Position seats (carbon fiber backs, Alcantara centers). Custom roll cage by Safety Devices (8-point, bolt-in) with integrated harness bar for Schroth Profi II 6-point harnesses. Engine bay detailed with a custom aluminum radiator support by K-Tuned, carbon fiber intake plenums, and a custom stainless steel exhaust system by Milltek Sport (3.5\" downpipes, 3\" center section, quad 100mm tips)."
+  ]
+}

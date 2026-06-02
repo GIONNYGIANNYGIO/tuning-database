@@ -1,0 +1,14 @@
+{
+  "brand": "LOTUS",
+  "model": "78",
+  "prestazioni": [
+    "Engine swap to a **Cosworth DFV 3.0L V8 (F1-spec, 480+ HP in period-correct trim)** with a **Hewland FGA400 5-speed transaxle** and **AP Racing 4-piston calipers** for F1-grade braking, retaining the original monocoque but reinforcing the rear bulkhead with **T45 steel tubing** for structural rigidity under increased power.",
+    "Custom **ground-effect underbody aerodynamics** with **carbon-fiber Venturi tunnels** (replicating the original but with **modern CFD-optimized profiles**) and **Gurney flaps** on the rear diffuser, paired with a **fixed carbon-fiber front splitter** (Lotus 79-style) to generate **1,200+ lbs of downforce at 150 mph** without active aero.",
+    "Full **dry-sump lubrication system** using a **Titan Motorsport billet aluminum oil pan** and **Dailey Engineering 4-stage pump**, paired with **Cosworth forged pistons (11.5:1 CR)**, **Titanium valves (Ferrea)**, and **Mahle Motorsport bearings** to handle sustained 10,500 RPM operation. Oil cooling via a **Setrab 10-row oil cooler** with **AN-12 lines** and a **Mocal remote thermostat**."
+  ],
+  "estetica": [
+    "Full **carbon-fiber bodywork** (replicating the original **Lotus 78/79 hybrid design**) with **clear-coated weave** and **gold leaf pinstriping** (matching the original John Player Special livery), including **removable carbon-fiber sidepods** for access to the Venturi tunnels and **Dzus fasteners** for quick panel removal.",
+    "**OMP 80s-era F1-style seat** (carbon-Kevlar composite) with **Schroth 6-point harnesses** and a **custom aluminum dash** featuring **Stack analog gauges** (oil pressure, water temp, fuel pressure) alongside a **Motec C127 dash logger** for real-time telemetry. Steering wheel: **Personal 280mm suede wheel** with **quick-release hub** (NRG).",
+    "**BBS RS 13-inch magnesium wheels** (gold-painted, **8x13 front / 12x13 rear**) wrapped in **Avon ACB9 historic racing tires (235/600-13 front / 355/600-13 rear)** for period-correct grip. **Custom titanium wheel studs** (ARP) and **center-lock hubs** (BBS) for rapid pit stops. **Polished aluminum fuel filler cap** (Lotus OEM-style) with **quick-release mechanism**."
+  ]
+}

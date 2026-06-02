@@ -1,0 +1,14 @@
+{
+  "brand": "LUCID",
+  "model": "AIR GRAND TOURING",
+  "prestazioni": [
+    "Upgrade to dual-motor configuration with the **Lucid Drive Unit (LDU-900V)** utilizing a 900V+ silicon carbide inverter, paired with a **Garrett GTX5544R Gen II** turbocharger (modified for electric motor synergy) to push the **1,050 hp (783 kW)** stock output to **1,450 hp (1,081 kW)** via a **Motec M1 ECU** recalibration for optimized torque vectoring and regenerative braking efficiency.",
+    "Installation of a **Porsche 911 GT3 RS-derived carbon-ceramic brake system (PCCB)** with **AP Racing CP9660 calipers** and **Brembo HTC-64T brake pads**, paired with **Ohlins TTX46 coilovers** featuring 3-way adjustable damping and **Lucid-specific spring rates (800 lb/in front, 700 lb/in rear)** for reduced unsprung mass and enhanced track stability.",
+    "Integration of a **Magna PT 80 kW DC fast-charging module** with **Lucid’s proprietary 924V battery architecture**, enabling **350 kW+ charging speeds** and a **custom liquid-cooled battery thermal management system** using **Castrol ON EV Thermal Fluid** to maintain optimal cell temperatures during high-performance driving."
+  ],
+  "estetica": [
+    "Full **Rocket Bunny V3 widebody kit** with **Lucid-specific carbon fiber overfenders**, **custom front splitter with integrated air curtains**, and **dual-plane rear diffuser** (CFRP construction) to reduce lift by **42%** at 150 mph (241 km/h).",
+    "Replacement of stock wheels with **HRE FF16 flow-formed forged wheels (21x10.5 front, 22x12.5 rear)** wrapped in **Michelin Pilot Sport Cup 2 R tires (275/30 R21 front, 325/25 R22 rear)** for optimized grip and weight reduction (18 lbs per wheel).",
+    "Custom **PPG ‘Lucid Liquid Silver’ paint job** with **3M Scotchlite reflective pinstriping** and **LED-illuminated Lucid ‘Grand Touring’ badges** (replacing stock emblems) with **RGB programmable lighting** synced to the **Lucid Digital Cockpit** for dynamic color shifts based on drive mode."
+  ]
+}

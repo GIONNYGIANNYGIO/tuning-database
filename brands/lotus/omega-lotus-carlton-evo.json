@@ -1,0 +1,14 @@
+{
+  "brand": "LOTUS",
+  "model": "OMEGA LOTUS CARLTON EVO",
+  "prestazioni": [
+    "Engine: C30LET (3.6L inline-6, 24V, twin Garrett T25 turbochargers) – Full forged internals with Mahle Motorsport pistons (8.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from JE Pistons for 800+ HP reliability at 2.2 bar boost.",
+    "Forced Induction: Upgraded Garrett GTX4202R turbochargers (hybrid core, 62mm inducer, 84mm exducer) with TiAL MV-R 44mm wastegates and custom 3.5\" stainless steel turbo-back exhaust system by Scorpion, featuring 304-grade mandrel-bent piping and dual 4.5\" titanium tips.",
+    "Fuel & Ignition: Full Motec M150 ECU with custom CAN bus integration for sequential fuel injection (ID1000x injectors) and dual Bosch 044 fuel pumps (surge tank setup), paired with MSD 8 Plus ignition system and NGK R7437-9 racing spark plugs gapped at 0.024\"."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion by KW Motorsport (Lotus Carlton-specific kit), including extended front fenders (2.5\" wider), rear quarter panels (3\" wider), and a custom front splitter with integrated canards (3D-printed from PA12 nylon).",
+    "Aero: Custom rear diffuser by APR Performance (3-piece, carbon fiber) with integrated exhaust cutouts and a GT3-style rear wing (carbon fiber, 1,800mm span) mounted on adjustable pedestals (15°–25° angle).",
+    "Wheels & Stance: BBS LM-R II (9.5x18 ET15 front, 11x18 ET5 rear) with custom Lotus Carlton center caps, wrapped in Michelin Pilot Sport Cup 2 R tires (265/35/18 front, 295/30/18 rear). Air Lift Performance 3P management with custom-valved AccuAir bags for adjustable ride height (flush to 3\" drop)."
+  ]
+}

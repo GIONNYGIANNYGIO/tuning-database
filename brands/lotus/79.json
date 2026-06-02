@@ -1,0 +1,14 @@
+{
+  "brand": "LOTUS",
+  "model": "79",
+  "prestazioni": [
+    "Replacement of the original 3.0L Ford Cosworth DFV V8 (engine code: DFV) with a fully rebuilt and balanced version featuring titanium valves, Carrillo forged connecting rods, and a bespoke dry-sump system by Dailey Engineering to optimize oil scavenging and reduce windage losses at high RPM (12,000+ redline).",
+    "Installation of a custom-fabricated magnesium intake manifold by TWM Induction paired with individual throttle bodies (ITBs) from Jenvey Dynamics, mated to a custom 48mm velocity stack setup for optimized airflow and throttle response in high-speed cornering conditions.",
+    "Integration of a Motec M150 ECU with a bespoke traction control and launch control strategy, calibrated specifically for the Lotus 79's ground-effect aerodynamics, alongside a Pectel SQ6 data logger for real-time telemetry monitoring of downforce and suspension loads."
+  ],
+  "estetica": [
+    "Full carbon fiber bodywork replacement using pre-preg autoclave-cured panels by Caterham Composites, replicating the original 1978 John Player Special livery with modern UV-resistant clear coat for durability under track conditions.",
+    "Custom-fabricated front splitter and rear diffuser by Aerotech Racing, designed to enhance ground-effect performance while maintaining the 79's iconic silhouette, paired with a single-element rear wing from the Lotus 80 (modified for 79 chassis compatibility).",
+    "OMP 886 racing seats with custom-molded carbon fiber shells, upholstered in Alcantara with gold stitching to match the original JPS livery, paired with a custom roll cage by Safety Devices Ltd. featuring integrated fire suppression system and quick-release steering wheel by NRG Innovations."
+  ]
+}

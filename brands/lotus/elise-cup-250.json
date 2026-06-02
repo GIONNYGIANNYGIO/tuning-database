@@ -1,0 +1,14 @@
+{
+  "brand": "LOTUS",
+  "model": "ELISE CUP 250",
+  "prestazioni": [
+    "Engine: Toyota-sourced 2ZZ-GE (1.8L I4) with forged internals including JE Pistons 87mm forged slugs (9.0:1 CR), Eagle H-beam connecting rods, and ACL Race Series bearings to handle 10,000 RPM reliably. Paired with a TTE 550+ supercharger kit (custom-mapped for Lotus ECU via MoTeC M150 standalone) pushing 1.5 bar of boost, delivering 320 HP at the wheels on VP Racing MS109 fuel.",
+    "Drivetrain: Quaife ATB helical LSD with 4.56 final drive ratio (custom gearset by Hewland for Elise Cup 250 transaxle), paired with a Sachs Performance twin-disc clutch (240mm) and lightweight flywheel (3.5kg). Custom half-shafts by The Driveshaft Shop with 300M steel CV joints for 400+ lb-ft torque capacity.",
+    "Suspension & Brakes: Öhlins TTX40 2-way adjustable coilovers with 800lb/in front and 600lb/in rear springs, custom valving for Lotus-specific geometry. AP Racing CP8370-8S 8-piston front calipers with 330mm two-piece rotors (floating, slotted) and Ferodo DS3000 pads. Rear: AP Racing CP6640-4S 4-piston calipers with 282mm rotors. Custom stainless steel braided lines by Goodridge."
+  ],
+  "estetica": [
+    "Aero: Full carbon fiber body kit by Vortex Automotive (Elise Cup 250-specific), including front splitter with 30mm adjustable dive planes, rear diffuser with Gurney flap, and a 1,100mm wide rear wing (3D-printed carbon, 30% lighter than OEM) with dual-element design and integrated third brake light. Underbody: Custom aluminum flat floor with vortex generators for -120kg downforce at 120mph.",
+    "Exterior: Custom vinyl wrap by VViViD Air-Tint (Matte Hyper Blue with Gloss Black accents), including carbon fiber side skirts and rear bumper vents (functional, ducting to rear brakes). OEM Cup 250 wheels refinished in gold with custom center caps (Lotus Motorsport logo) and shod with Michelin Pilot Sport Cup 2 R tires (205/45R17 front, 235/40R17 rear).",
+    "Interior: Full Alcantara retrim by Cobra Seats (Elise Cup 250-specific), including custom door cards, dashboard, and center console. Sparco Pro 2000 seats (carbon fiber shell, 6-point harnesses) with custom Lotus Motorsport embroidery. Steering wheel: Momo Prototipo (320mm, Alcantara) with integrated AIM MXS Strada dash display (12 data channels, including boost, oil temp, and lap times)."
+  ]
+}

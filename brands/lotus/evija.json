@@ -1,0 +1,14 @@
+{
+  "brand": "LOTUS",
+  "model": "EVIJA",
+  "prestazioni": [
+    "Replacement of the stock EVT-01 quad-motor electric powertrain (4x YASA P400 axial flux motors, 368 kW each) with a bespoke EVT-01R setup featuring upgraded YASA P400R motors (420 kW peak per motor, 1,680 kW total) paired with a custom 800V silicon carbide inverter from Cascadia Motion (CM200DX) for reduced switching losses and 98.5% efficiency at 20,000 RPM",
+    "Installation of a full carbon-fiber monocoque reinforcement kit from Prodrive (APC-R Carbon Core) with integrated torque vectoring control via a MoTeC C187 ECU, enabling 0-60 mph in 2.2s (vs. stock 2.8s) and lateral G-forces up to 1.7G on Michelin Pilot Sport Cup 2 R tires (325/30 R21 front, 355/25 R22 rear) with custom forged OZ Racing Ultraleggera HLT wheels (9.5x21 front, 12.5x22 rear)",
+    "Thermal management overhaul using a dual-loop liquid cooling system from PWR (Performance Wiring & Racing) with a 12-liter capacity, featuring a secondary high-temperature loop for the battery pack (70 kWh, 900V architecture) with a custom heat exchanger from Setrab (19-row, 500x250mm) and a secondary low-temperature loop for the motors/inverter with a 450x150mm PWR heat exchanger, both controlled via a Haltech Elite 2500 ECU for real-time thermal mapping"
+  ],
+  "estetica": [
+    "Full carbon-fiber aero package from Vorsteiner (Lotus Evija V-FF100), including a 3D-printed titanium front splitter with active Gurney flaps (adjustable via hydraulic actuators from Bosch Rexroth), a rear diffuser with integrated LED brake cooling ducts, and a rear wing with a 1.2m span and dual-plane design (adjustable angle of attack from 0° to 25° via electric motors from Faulhaber)",
+    "Custom LED lighting system from LUX Automotive, featuring a full-width adaptive LED front grille (1,200 lumens per module, 6000K color temperature) with dynamic turn signals (sequential animation via Osram Ostar Projection LEDs) and a rear light bar with a carbon-fiber housing and 300 individual RGBW LEDs (controlled via a custom CAN bus interface from Vector Informatik)",
+    "Interior rework with a full Alcantara and carbon-fiber trim from Sabelt, including a custom 3D-printed titanium steering wheel (hollow-core design, 1.2kg weight) with integrated OLED display (1280x720 resolution, 120Hz refresh rate) from Sharp Memory LCD, a bespoke 12-point harness system from Schroth (Professional II-6 with FIA 8853/98 homologation), and a custom roll cage from Safety Devices (SD05, T45 steel, 2.5mm wall thickness) with integrated fire suppression system (Lifeline Zero 360, 4kg Novec 1230 agent)"
+  ]
+}

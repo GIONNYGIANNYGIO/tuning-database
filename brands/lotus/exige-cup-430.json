@@ -1,0 +1,14 @@
+{
+  "brand": "LOTUS",
+  "model": "EXIGE CUP 430",
+  "prestazioni": [
+    "Replace the stock Toyota-sourced 2GR-FE 3.5L V6 (3456cc, 94mm bore x 83mm stroke) with a fully built 2GR-FKS variant featuring forged Mahle pistons (9.0:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from JE Pistons. Pair this with a custom dry-sump oiling system by Dailey Engineering to eliminate oil starvation during high-G cornering.",
+    "Install a Harrop HTV 2650 supercharger (2.65L/rev) with a custom intercooler core by PWR (Australia) and a 100mm throttle body from Magnuson. Tune via a MoTeC M150 ECU with a bespoke calibration for E85 fuel, targeting 550whp at 8,000 RPM with a 7,800 RPM redline and a flat torque curve from 4,000 RPM.",
+    "Upgrade the OEM AP Racing 6-piston front/4-piston rear brake system with a full race-spec setup: 380mm front rotors (2-piece floating, slotted) from Alcon with monoblock calipers (6-pot front, 4-pot rear) and Ferodo DS3000 pads. Pair with a Tilton 75-series master cylinder and braided stainless steel lines from Hose Techniques."
+  ],
+  "estetica": [
+    "Replace the stock carbon fiber front splitter with a 3D-printed titanium unit from 996TT (Germany), designed for 200kg+ downforce at 160mph. Add a custom rear diffuser by APR Performance (USA) with integrated Gurney flaps and vortex generators for optimized airflow separation.",
+    "Install a full carbon fiber widebody kit by Varis Japan, featuring extended front fenders (30mm per side) and rear quarter panels (50mm per side) to accommodate 295/30/18 Michelin Pilot Sport Cup 2 tires on OZ Racing Ultraleggera HLT wheels (18x11 front, 18x12 rear).",
+    "Replace the OEM LED taillights with a custom sequential RGB setup by Diode Dynamics, integrated into the carbon fiber rear cladding. Add a carbon fiber roof scoop by Seibon (Japan) for improved engine bay cooling, paired with a custom titanium roll cage by Custom Cages (UK) with integrated fire suppression system by Lifeline."
+  ]
+}

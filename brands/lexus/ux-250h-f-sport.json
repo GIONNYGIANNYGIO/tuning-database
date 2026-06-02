@@ -1,0 +1,14 @@
+{
+  "brand": "LEXUS",
+  "model": "UX 250H F SPORT",
+  "prestazioni": [
+    "Hybrid powertrain recalibration for the **2AR-FXE** 2.0L inline-4 + electric motor (88 kW) system via **KW Automotive Hybrid Control Module (HCM)**, optimizing torque split (60:40 ICE-to-electric under 4,000 RPM) and regenerative braking aggressiveness (+30% energy recovery) for track use, paired with a **Denso high-voltage battery cooling plate** to prevent thermal derate during spirited driving",
+    "Full **HKS Hi-Power Exhaust System (UX250H-specific)** with 65mm titanium-coated piping, **GReddy SP2 catalytic converters (200-cell)**, and **Akrapovič rear muffler (valved, 304 stainless steel)** to reduce backpressure by 42% while maintaining OBD-II compliance, tuned for a 3,800 RPM rasp with 1,800 Hz resonance frequency",
+    "Suspension overhaul with **Öhlins Road & Track DFV coilovers (UX250H-specific valving)**, **SuperPro poly bushings (front lower control arms, rear trailing arms)**, and **Cusco 22mm front / 20mm rear sway bars** to eliminate body roll (reduced by 38%) and enable 1.1g lateral grip via **Michelin Pilot Sport Cup 2 R tires (225/40R19 front, 255/35R19 rear)** on **BBS CI-R 19x8.5 ET40 (front) / 19x9.5 ET45 (rear) wheels**"
+  ],
+  "estetica": [
+    "**Rocket Bunny V3 widebody kit (UX250H-specific)** with carbon fiber fenders (+50mm front, +65mm rear), **Seibon carbon fiber hood (3.2kg weight reduction)**, and **custom rear diffuser (3D-printed PETG, 3-stage Gurney flaps)** for -18% lift at 120 mph, finished in **PPG Toyota Structural White (040) with matte black accents**",
+    "**Vland LED headlight retrofit (UX250H F Sport-specific)** with **Morimoto 2Stroke 3.0 projectors (55W HID, 5,000K)**, **GTR-style sequential turn signals**, and **custom DRL strips (Osram LEDriving SL 1, 6,000K)** wired to a **Heisei Auto dimmer module** for adaptive brightness",
+    "**Interior: Recaro Pole Position seats (UX250H-specific mounting brackets)**, **MOMO Mod.73 steering wheel (350mm, Alcantara with red stitching)**, **Sparco 6-point harnesses (SFI 16.1 certified)**, and **custom hybrid gauge cluster overlay (AEM X-Series wideband AFR + battery voltage)** with **Defi Advance BF dual-display (oil temp/pressure)**"
+  ]
+}

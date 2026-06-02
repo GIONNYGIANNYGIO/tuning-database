@@ -1,0 +1,14 @@
+{
+  "brand": "LOTUS",
+  "model": "SEVEN SERIES 4 LIGHTWEIGHT",
+  "prestazioni": [
+    "Engine swap to a Ford Duratec HE 2.3L (engine code: *Duratec-HE 23EW*) with forged internals (JE Pistons 87.5mm forged slugs, Eagle H-beam rods, and a billet crankshaft) paired with a Garrett GT3076R turbocharger (0.82 A/R turbine housing) running 22 psi of boost on E85 fuel, managed by a Link G4+ Xtreme ECU with individual cylinder tuning and anti-lag strategies for instant throttle response",
+    "Custom 4-2-1 stainless steel exhaust manifold (hand-fabricated by Burns Stainless) with a 3.5-inch titanium exhaust system (Akrapovič 4-into-1 design) terminating in a dual-mode valve-controlled muffler for track/cruise versatility, reducing backpressure by 40% over stock",
+    "Full Ohlins DFV coilover suspension with 24-position adjustable dampers, custom-valved for the Series 4’s aluminum spaceframe, paired with polybushings (SuperPro 62mm spherical bearings) at all pivot points and a 3-way adjustable anti-roll bar (Whiteline adjustable end links) to eliminate body roll during high-G cornering"
+  ],
+  "estetica": [
+    "Custom carbon fiber body panels (replicating the *Lotus Seven S4 US-spec* design) by Caterham Composites, including a one-piece front clamshell, rear wing (dual-element Gurney flap), and side skirts with integrated NACA ducts for brake cooling, reducing weight by 18 kg while improving downforce by 35%",
+    "Bespoke aluminum fuel cell (ATL 15-gallon foam-filled) relocated to the passenger footwell for optimal weight distribution (48/52 front/rear), paired with a custom aluminum firewall (TIG-welded 5052 alloy) and a full roll cage (Championship Motorsport 8-point chromoly) with integrated harness bar for FIA-spec 6-point Schroth harnesses",
+    "Minimalist interior with a MOMO Prototipo steering wheel (350mm diameter, suede-wrapped) mounted on a quick-release hub, Recaro Pole Position seats (carbon-Kevlar shell, FIA 8855-1999 certified), and a custom aluminum dashboard (CNC-machined 6061-T6) housing a Stack ST8100 digital dash with lap timer, oil pressure, and boost gauges"
+  ]
+}

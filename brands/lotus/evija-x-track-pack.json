@@ -1,0 +1,14 @@
+{
+  "brand": "LOTUS",
+  "model": "EVIJA X TRACK PACK",
+  "prestazioni": [
+    "Replacement of the stock EVJ-001 quad-motor electric powertrain control unit (PCU) with a bespoke **Motec M1800 ECU**, recalibrated for 2,400 kW (3,218 hp) peak output via a **Lotus Advanced Performance (LAP) Stage 3 firmware**, enabling 0-60 mph in 1.7 seconds with a 1,000 A continuous discharge limit from the **Williams Advanced Engineering 70 kWh lithium-ion battery pack** (code: WAE-70-EVJ)",
+    "Installation of a **Pankl Racing Systems EV-specific carbon-fiber driveshaft** with integrated **GKN eDrive torque vectoring differential**, replacing the OEM aluminum unit to handle 1,700 Nm of torque while reducing unsprung mass by 12 kg per axle",
+    "Upgraded **Brembo GT3-R monobloc calipers** (6-piston front, 4-piston rear) with **AP Racing carbon-ceramic rotors** (410mm front, 380mm rear), paired with **Pagid RSX29HT high-temperature brake pads** and **Motul RBF 660 racing brake fluid** for sustained 2.5G deceleration under 1,200°C thermal loads"
+  ],
+  "estetica": [
+    "**RML Group EV-specific carbon-fiber underbody diffuser** with active Gurney flaps, replacing the OEM unit to generate 1,200 kg of downforce at 180 mph (verified in Lotus’s Hethel wind tunnel at 25° yaw angle)",
+    "**Vorsteiner V-FF 107 carbon-fiber front splitter** with **Dymag EV-specific magnesium wheels** (20x11 front, 21x12.5 rear) wrapped in **Michelin Pilot Sport Cup 2 R tires** (325/30 R20 front, 355/25 R21 rear), reducing rotational inertia by 22% over OEM forged alloys",
+    "**Lotus Design Studio ‘Hyper Aggressive’ livery** featuring **3M Scotchlite 900 Series reflective vinyl** in ‘Electric Blue’ with **Avery Dennison Supreme Wrapping Film** matte black accents, applied over a **PPG Aerospace PR-2000 radar-absorbent coating** for trackside stealth and heat dissipation"
+  ]
+}

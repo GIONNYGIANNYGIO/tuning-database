@@ -1,0 +1,14 @@
+{
+  "brand": "LOTUS",
+  "model": "SEVEN",
+  "prestazioni": [
+    "Engine swap to a Ford Cosworth YB (specifically the YBT variant, 2.0L turbocharged inline-4, 220+ hp in stock form) with a Garrett GT2860RS turbocharger, Mahle Motorsport forged pistons (8.2:1 compression), and ARP head studs for 30+ psi boost capability. Pair with a Holinger RD6 sequential gearbox and a Quaife ATB differential for optimal power delivery.",
+    "Full chassis reinforcement with a custom-built 4130 chromoly roll cage by Custom Cages UK, seamlessly integrated with the Lotus Seven’s aluminum tub. Install Ohlins TTX25 coilovers with 3-way adjustable damping and spherical bearing top mounts for razor-sharp handling. Replace the stock steering rack with a Flaming River quick-ratio unit (12:1 ratio) for immediate turn-in response.",
+    "Fuel system upgrade featuring a Bosch Motorsport 044 high-flow fuel pump, Injector Dynamics ID1000 injectors, and a custom fuel rail by Radium Engineering. ECU management via a Link G4+ Xtreme standalone unit with individual cylinder tuning and launch control. Exhaust system consists of a custom 3-inch stainless steel header by JE Motorsport, paired with a Scavenger Developments 3.5-inch straight-pipe exhaust with a Burns Stainless merge collector for optimal scavenging."
+  ],
+  "estetica": [
+    "Full carbon fiber bodywork replacement using a Seibon Carbon Lotus Seven kit, including a one-piece front clamshell, rear clamshell, and side panels. Paint the carbon in a custom matte gunmetal finish with exposed weave accents, applied by Bodyteq UK.",
+    "Custom LED headlight conversion using Hella Rallye 4000 Compact units with CREE XHP70.2 bulbs, integrated into a custom aluminum housing with DRL strips by LUX Automotive. Rear lighting upgraded to Osram LED tail lights with sequential turn signals, housed in a CNC-machined aluminum bezel.",
+    "Interior overhaul featuring a full Alcantara retrim by Trim Developments, including the dashboard, door cards, and custom bucket seats (Sparco Pro 2000 with 4-point Schroth harnesses). Steering wheel replaced with a Momo Prototipo 330mm flat-bottom wheel, wrapped in Alcantara with a quick-release hub by NRG Innovations. Gauge cluster upgraded to a Stack ST800 digital dash with data logging and shift light integration."
+  ]
+}

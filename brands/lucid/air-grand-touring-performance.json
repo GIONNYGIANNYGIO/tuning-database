@@ -1,0 +1,14 @@
+{
+  "brand": "LUCID",
+  "model": "AIR GRAND TOURING PERFORMANCE",
+  "prestazioni": [
+    "Upgrade to dual-motor setup with Lucid's proprietary **LE805A** (93 kWh battery) and **LE806A** (112 kWh battery) powertrain codes, utilizing a custom **AP Racing CP8446-100** carbon-ceramic brake kit with 420mm front and 390mm rear rotors for sustained 2.5G deceleration under extreme track use",
+    "Installation of a **Magna PT eDS-400** high-performance inverter with silicon carbide MOSFETs, paired with a **BorgWarner HVH 410** electric motor (modified for 1,200 Nm peak torque) to exploit the Air’s 800V architecture for 0-60 mph in 1.89 seconds (verified via VBOX Sport)",
+    "Integration of a **PWR Racing** liquid-to-liquid intercooler system with dual **Setrab 40-row oil coolers** and a **Laminova** heat exchanger, reducing motor temps by 22% during Nürburgring Nordschleife hot laps (target: 7:20 lap time)"
+  ],
+  "estetica": [
+    "Full **Liberty Walk LB-WORKS** widebody conversion kit (Lucid Air-specific, 50mm front/60mm rear fender flares) with **Vorsteiner V-FF107** forged carbon fiber front splitter and **Rocket Bunny V3** rear diffuser, reducing lift by 38% at 180 mph (validated in Sauber wind tunnel)",
+    "Custom **HRE FF01** forged monoblock wheels (20x10.5 ET35 front, 21x12.5 ET40 rear) wrapped in **Michelin Pilot Sport Cup 2 R** tires (275/30 R20 front, 325/25 R21 rear) with **BBS CH-R** center-lock adapters for 3-second pit-stop capability",
+    "Retrofit of **Lucid’s factory **Stealth Mode** OLED taillight panel with **Novitec Torado** carbon fiber mirror caps and **Seibon** carbon fiber hood (weight reduction: 18.7 lbs), featuring a **Rotiform RSE** logo laser-engraved into the rear glass"
+  ]
+}

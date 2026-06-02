@@ -1,0 +1,14 @@
+{
+  "brand": "LOTUS",
+  "model": "ESPRIT TURBO",
+  "prestazioni": [
+    "Engine: Replace the stock 910S (Type 910) 2.2L I4 with a fully built forged internals kit from Cosworth, including forged Mahle pistons (8.5:1 CR), Carrillo H-beam connecting rods, and a billet crankshaft with balanced rotating assembly for 25 psi boost tolerance. Pair with a Garrett GT35R turbo (62mm compressor, 76mm turbine) on a custom tubular manifold by Bell Engineering, featuring equal-length runners and T4 flange for optimized spool and top-end power.",
+    "Fuel & Ignition: Upgrade to a Link G4+ Xtreme standalone ECU with custom 4D ignition and fuel maps, paired with ID1000x injectors (1000cc/min) and a Walbro 450 LPH in-tank fuel pump. Add a Nitrous Express GenX Direct Port system (100-shot progressive) for on-demand power, controlled via the Link ECU. Replace the stock distributor with a MSD 6AL-2 ignition box and Blaster SS coil for precise spark control under high boost.",
+    "Drivetrain & Cooling: Install a Quaife ATB differential (LSD) in the Renault UN1 transaxle with upgraded half-shafts from GKN Driveline. Replace the stock radiator with a custom dual-core aluminum unit from Setrab, paired with a Davies Craig EWP150 electric water pump and a 16-row oil cooler from Mocal. Use a Tilton 7.25\" twin-disc clutch with a billet flywheel for improved torque capacity."
+  ],
+  "estetica": [
+    "Body: Fit a full carbon fiber widebody kit from Esprit Developments (UK), including extended front fenders, rear quarter panels, and a revised rear bumper with integrated diffuser. Add a custom front splitter from Vortex Automotive with adjustable dive planes and a rear wing from DTM Style (3-piece carbon fiber, 1200mm span, 30mm adjustable Gurney flap).",
+    "Interior: Replace the stock seats with Sparco Pro ADV seats (carbon fiber shell, FIA 8862-2009 certified) mounted on custom aluminum brackets. Install a MOMO Mod.78 steering wheel (350mm diameter, suede) with a quick-release hub from NRG Innovations. Add a full digital dash from AIM MXS Strada (1.3\" color display) with integrated data logging for boost, AFR, and oil temps.",
+    "Lighting & Details: Convert to full LED lighting with LUX H8/H11 bulbs for headlights and a custom sequential taillight setup from VLEDS (using OEM Esprit housing). Add a custom engine bay dress-up kit from LotusBits, including carbon fiber cam covers, anodized aluminum coolant pipes, and a titanium oil cap. Finish with a custom paint scheme in Lotus Motorsport Viper Blue with matte black accents and gold pinstriping by RS Coachworks."
+  ]
+}

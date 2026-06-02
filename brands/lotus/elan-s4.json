@@ -1,0 +1,14 @@
+{
+  "brand": "LOTUS",
+  "model": "ELAN S4",
+  "prestazioni": [
+    "Lotus Big Valve Twin-Cam (Lotus Type 907, 1.6L DOHC) engine with forged Mahle pistons (85.5mm bore, 70.0mm stroke), Carrillo H-beam connecting rods, and a Cosworth BDG cylinder head ported to 45mm inlet/38mm exhaust valves with titanium retainers and dual valve springs for 8,500 RPM reliability",
+    "Custom 4-1 stainless steel exhaust manifold (equal-length, 1.75\" primaries) paired with a 3\" straight-pipe system featuring a MagnaFlow 14815 stainless muffler and a secondary catalytic converter delete for optimized scavenging on the Type 907’s 10.3:1 compression ratio",
+    "Haltech Elite 2500 ECU with individual cylinder fuel trims, 4-bar MAP sensor, and a custom 3D-printed intake plenum (carbon fiber, 3.5L volume) housing dual 45mm Jenvey throttle bodies with progressive linkage, fed by a K&N RC-1006 filter and a custom aluminum velocity stack"
+  ],
+  "estetica": [
+    "Full carbon fiber body conversion using a Seibon CF hood (OEM-style latches, 30% weight reduction), rear clamshell, and front splitter with integrated brake ducts (3D-printed ABS ducts, 2.5\" diameter)",
+    "Ohlins DFV Road & Track coilovers (24-way adjustable damping, 30mm front/25mm rear ride height adjustment) paired with Eibach ERS 1000N/mm front and 800N/mm rear springs, and spherical bearing top mounts (polyurethane bushings replaced with Aurora Racing bearings)",
+    "Custom widebody conversion using Rocket Bunny RB-C001 fender flares (modified to fit S4’s 5x114.3 PCD) with widened rear arches (2.5\" per side) to accommodate 17x9 ET20 front and 17x10 ET25 rear BBS LM wheels (gold centers, 225/45/17 and 265/40/17 Michelin Pilot Sport Cup 2 tires)"
+  ]
+}

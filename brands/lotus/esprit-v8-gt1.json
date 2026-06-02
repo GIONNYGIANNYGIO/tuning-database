@@ -1,0 +1,14 @@
+{
+  "brand": "LOTUS",
+  "model": "ESPRIT V8 GT1",
+  "prestazioni": [
+    "Engine: Lotus 918S (Type 918) 3.5L V8 twin-turbo (Garrett T25/T04B hybrid turbos) with forged internals (Carrillo H-beam connecting rods, Mahle Motorsport forged pistons, 9.0:1 compression ratio) and upgraded fuel system (Bosch Motorsport 044 high-flow fuel pumps, Injector Dynamics ID1000x injectors, Radium Engineering fuel pressure regulator).",
+    "Forced Induction: Custom GT1-spec turbo setup (Garrett GTX4202R turbos with billet compressor wheels, TiAL MV-R 44mm wastegates, and custom 3.5-inch stainless steel turbo manifolds by TurboSmart) paired with a PWR intercooler core (4.5-inch thick, bar-and-plate design) and Vibrant Performance silicone couplers.",
+    "Drivetrain & Suspension: Quaife ATB differential with 3.73:1 final drive ratio, AP Racing 6-piston front/4-piston rear brake calipers with 355mm/330mm two-piece rotors, and Öhlins TTX40 3-way adjustable coilovers with custom Lotus-specific valving and spherical bearing top mounts by SuperPro."
+  ],
+  "estetica": [
+    "Aerodynamics: Full GT1-spec carbon fiber body kit by Kaminari (front splitter, side skirts, rear diffuser, and adjustable rear wing with Gurney flap), including a custom carbon fiber hood with NACA ducts for turbo cooling and brake ventilation.",
+    "Exterior: Custom widebody conversion (front fenders extended 2.5 inches, rear fenders 3.0 inches) with carbon fiber overfenders by Rocket Bunny (Esprit-specific kit), paired with OZ Racing Ultraleggera HLT 18x10.5 ET25 (front) and 19x12 ET35 (rear) wheels wrapped in Michelin Pilot Sport Cup 2 tires (265/35/18 front, 325/30/19 rear).",
+    "Interior: Full GT1-spec roll cage by Safety Devices (FIA 8862-2009 certified) with Sparco Pro 2000 seats, Schroth 6-point harnesses, and a custom carbon fiber dashboard with AIM MXS Strada digital dash and Motec C127 data logger."
+  ]
+}

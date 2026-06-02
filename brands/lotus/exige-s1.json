@@ -1,0 +1,14 @@
+{
+  "brand": "LOTUS",
+  "model": "EXIGE S1",
+  "prestazioni": [
+    "Engine: Replace the stock Rover K-series 1.8L VHPD (VHPD = Very High Performance Derivative, engine code VHPD 187) with a fully built version featuring forged internals from JE Pistons (87.5mm forged pistons, 9.5:1 compression), Eagle H-beam connecting rods, and a billet crankshaft from Arrow Precision. Pair with a custom dry-sump oil system from Titan Motorsport to eliminate oil starvation during high-G cornering.",
+    "Forced Induction: Install a Rotrex C38-91 supercharger (12psi max boost) with a custom intercooler setup from Bell Auto Services, including a front-mounted air-to-water heat exchanger and a Bosch 044 fuel pump to support the increased airflow. Use a Lotus-specific ECU remap from Emerald K6+ with custom fuel and ignition maps for the VHPD engine.",
+    "Suspension & Handling: Replace the stock dampers with Öhlins Road & Track DFV coilovers (custom valved for the Exige S1’s 700kg weight), paired with polybushings from SuperPro (part numbers SPF1097K and SPF1098K for front and rear control arms). Add a rear anti-roll bar from Lotus Sport (part number C082E0001F) and spherical bearing upgrades from Rose Joints for the rear toe links."
+  ],
+  "estetica": [
+    "Aerodynamics: Install a full carbon fiber aero kit from Komoco Motorsport, including a front splitter with integrated dive planes, a rear diffuser with gurney flap, and a fixed rear wing with adjustable angle of attack (30-45 degrees). Add a carbon fiber hood with NACA ducts from Carbonology Sport to improve airflow to the intercooler.",
+    "Lightweighting: Replace the stock glass windows with polycarbonate units from Sabelt (2.5kg weight savings) and install a carbon fiber hardtop from Exige Owners Club (EOC) with a removable center section for open-air driving. Use a carbon fiber rear clamshell from Komoco Motorsport to replace the stock fiberglass unit.",
+    "Wheels & Styling: Fit 17x9 ET30 front and 17x10.5 ET35 rear wheels from OZ Racing (Ultraleggera HLT, 5.5kg front/6.5kg rear) wrapped in Michelin Pilot Sport Cup 2 tires (225/45/17 front, 265/40/17 rear). Add a custom roll cage from Safety Devices (part number SDR-LOT-EXS1) with integrated harness bar and carbon fiber side pods for additional rigidity."
+  ]
+}

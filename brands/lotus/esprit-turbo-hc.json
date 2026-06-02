@@ -1,0 +1,14 @@
+{
+  "brand": "LOTUS",
+  "model": "ESPRIT TURBO HC",
+  "prestazioni": [
+    "Engine: Replace the stock 910S (Type 910, 2.2L I4, 16V, Garrett T3 turbo) with a fully built forged internals kit from Cosworth, including forged Mahle pistons (8.5:1 CR), Carrillo H-beam connecting rods, and a billet crankshaft from Bryant Racing. Pair with a Garrett GT3076R turbocharger (0.82 A/R turbine housing) and a custom 3.5\" stainless steel turbo manifold by Bell Engineering, designed specifically for the Esprit's chassis constraints.",
+    "Fuel System: Upgrade to a dual Bosch 044 high-flow fuel pump setup with an Aeromotive A1000 fuel pressure regulator. Replace the stock injectors with ID1000 (1000cc/min) injectors from Injector Dynamics, calibrated via a Link G4+ Xtreme standalone ECU with custom 4D fuel and ignition maps optimized for 98 RON race fuel. Add a Nitrous Express GenX Direct Port system (50-shot) for on-demand power spikes.",
+    "Drivetrain & Handling: Install a Quaife ATB differential (QDF7Z) in the stock transaxle housing, paired with a Sachs Performance twin-disc clutch (300mm, 800Nm torque capacity). Suspension upgrades include Öhlins Road & Track coilovers (DFV) with custom valving for the Esprit's unique weight distribution, paired with Eibach Pro-Street S anti-roll bars (24mm front, 22mm rear). Braking is handled by a full AP Racing CP6640 kit (355mm front rotors, 4-piston calipers) with Ferodo DS2500 pads and braided stainless steel lines."
+  ],
+  "estetica": [
+    "Body: Install a full carbon fiber widebody kit from Kaminari (Esprit-specific, 1988-1990 HC model), including extended front fenders, rear quarter panels, and a custom front splitter with integrated canards. Replace the rear bumper with a custom 3D-printed unit from 3D Carbon, featuring an integrated diffuser and dual 3.5\" exhaust outlets. Paint in a custom \"Lotus Racing Green\" with a satin clear coat and gold leaf pinstriping by Stripes Unlimited.",
+    "Aerodynamics: Add a custom rear wing from Voltex (Type 3, 1700mm width) mounted on carbon fiber pedestals, paired with a front lip spoiler from Seibon Carbon. Install a custom aluminum radiator shroud with dual 12\" SPAL fans and a carbon fiber hood with a functional NACA duct for intercooler cooling. Side skirts are replaced with custom aluminum units from Varis, featuring integrated LED turn signals.",
+    "Interior: Retrim the entire cabin in black Alcantara with red stitching from Katzkin, including Recaro SRD-LW seats (carbon fiber shells) mounted on custom aluminum brackets. Replace the stock steering wheel with a Momo Prototipo (350mm, suede) and add a custom aluminum shift knob from TWM. Install a full digital dash from AIM MXS Strada with a 5\" display, integrated with the Link G4+ ECU for real-time telemetry. Add a custom roll cage from Custom Cages (T45 steel, bolt-in) with integrated harness bars for Schroth Profi II 6-point harnesses."
+  ]
+}

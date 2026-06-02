@@ -1,0 +1,14 @@
+{
+  "brand": "LOTUS",
+  "model": "ELISE CUP 260",
+  "prestazioni": [
+    "Engine: Toyota-sourced 2ZZ-GE (1.8L I4, 16V, VVTL-i) with forged internals upgrade via Cosworth forged pistons (88.5mm bore, 12.5:1 CR) and Eagle H-beam connecting rods, paired with a custom dry-sump oil system by Titan Motorsport to eliminate oil starvation during sustained 8,500 RPM track use.",
+    "Forced Induction: Harrop HTV-1320 supercharger (1.2L/rev, 10.5psi max boost) with a custom Lotus-specific intercooler core by PWR (Australia) and a 3.5\" silicone charge pipe setup from Vibrant Performance, replacing the stock 2.5\" piping for reduced restriction.",
+    "ECU & Fueling: Haltech Elite 2500 standalone ECU with custom Lotus Elise Cup 260-specific calibration by Dynojet Research, paired with ID1000x injectors (1,000cc/min) and a Walbro 450LPH in-tank fuel pump, supplemented by a secondary AEM X-Series 30-0300 wideband O2 sensor for real-time AFR monitoring."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon fiber aero package by Vortex Generators Ltd (UK), including a custom Cup 260-specific front splitter with integrated dive planes, a rear diffuser with 3D-printed vortex generators, and a GT-style rear wing (2.2m chord, 300mm height) with adjustable carbon fiber endplates for high-speed stability.",
+    "Bodywork: Seibon Carbon lightweight hood (2.5kg weight reduction) with a custom heat extractor vent design by RK Sport, paired with a carbon fiber rear clamshell from Lotus Exclusive (OEM+ quality) and a custom front bumper lip by APR Performance (GT-250 model, Elise-specific fitment).",
+    "Wheels & Stance: OZ Racing Ultraleggera HLT wheels (16x7 ET40 front, 17x8.5 ET35 rear) in custom Lotus Racing Green finish, wrapped in Michelin Pilot Sport Cup 2 R tires (205/45/16 front, 245/40/17 rear), with a custom KW Clubsport 3-way coilover suspension setup (80mm ride height adjustability, 18-way rebound damping) and polybushings from SuperPro (Lotus Elise-specific part numbers)."
+  ]
+}
