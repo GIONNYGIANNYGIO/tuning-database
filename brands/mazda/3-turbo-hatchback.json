@@ -1,0 +1,14 @@
+{
+  "brand": "MAZDA",
+  "model": "3 TURBO HATCHBACK",
+  "prestazioni": [
+    "Cobb Accessport v3 Stage 2+ tune with custom ethanol (E85) mapping for the Skyactiv-G 2.5T (PY-VPTS) engine, targeting 380-400whp via optimized boost curves (24-26 psi peak) and direct injection timing adjustments to prevent pre-ignition under high load",
+    "Garrett GTX3076R Gen II turbocharger with billet compressor wheel (62mm inducer, 84mm exducer), TiAL MV-R 44mm wastegate, and custom 3.5\" stainless downpipe with V-band clamps to eliminate turbo lag and support 500whp potential",
+    "PRL Motorsports high-flow intake manifold with ported throttle body (80mm) and ID1000X injectors (1000cc/min) paired with a Radium Engineering dual-catch can system to manage crankcase pressure under sustained boost (30+ psi)"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (Type 3) with carbon fiber fenders, custom front splitter (30mm overhang), and GT-style canards for aggressive aero balance (targeting -150kg downforce at 120mph)",
+    "Volk Racing TE37V (18x9.5 +35 front, 18x10.5 +40 rear) with Michelin Pilot Sport Cup 2 R tires (255/35/18 front, 275/35/18 rear) and BC Racing BR coilovers (12kg front, 14kg rear spring rates) for track-focused alignment (-2.5° camber front, -1.8° rear)",
+    "Seibon Carbon fiber hood (Type 2) with integrated NACA ducts for intercooler cooling, paired with a custom rear diffuser (3-piece, 3D-printed ABS) and a Cusco rear sway bar (22mm adjustable) to reduce body roll under hard cornering"
+  ]
+}

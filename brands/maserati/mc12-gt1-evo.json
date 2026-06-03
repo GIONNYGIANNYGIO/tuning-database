@@ -1,0 +1,14 @@
+{
+  "brand": "MASERATI",
+  "model": "MC12 GT1 EVO",
+  "prestazioni": [
+    "F140B 6.0L V12 engine (derived from Ferrari Enzo) with a bespoke GT1-spec dry-sump lubrication system featuring a Peterson RC-46 dry sump pump and Moroso 3-gallon external oil reservoir, paired with a custom billet aluminum oil pan designed by Maserati Corse to prevent oil starvation during 3.5G lateral loads",
+    "Motec M190 ECU with GT1-specific firmware (Maserati Corse part #670059000) recalibrated for 700+ hp at 8,500 RPM on 102-octane race fuel, utilizing a dual-stage launch control system with anti-lag and flat-shift mapping for sequential Hewland 6-speed transaxle (model #XTrac P1046)",
+    "Custom Garrett GT4202R turbocharger (GT1-spec, 84mm compressor wheel, 1.15 A/R turbine housing) with TiAL MV-R 50mm wastegate and dual 44mm TiAL Q boost controllers, feeding into a Maserati Corse-designed air-to-water intercooler with a PWR heat exchanger and Bosch Motorsport 12V high-flow water pump (part #0261207115)"
+  ],
+  "estetica": [
+    "Maserati Corse GT1 EVO carbon fiber aero package (part #670059001), including a 2,200mm-wide front splitter with integrated dive planes, rear diffuser with 90mm Gurney flap, and a 1,800mm-wide rear wing with adjustable carbon fiber flaps (angle range: -5° to +25°) for FIA GT1 downforce compliance",
+    "OMP Carbon Kevlar GT1-spec racing seats (model #WRC-R) with 6-point Schroth Profi II 6HANS harnesses (FIA 8862-2009 certified), paired with a Maserati Corse quick-release steering wheel (part #670059002) featuring a Motec C127 dash display and integrated paddle shifters for the Hewland sequential gearbox",
+    "Custom Brembo GT1 brake system with 6-piston front (380mm discs, part #09.9604.11) and 4-piston rear (355mm discs, part #09.9604.12) calipers, utilizing Pagid RS14 racing pads and AP Racing carbon-carbon discs (380x36mm front, 355x32mm rear) for endurance racing thermal stability"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "MATRA",
+  "model": "MS80",
+  "prestazioni": [
+    "Replace the original 3.0L Ford-Cosworth DFV V8 (engine code: DFV) with a **Cosworth DFV 3.9L** stroked version, bored to 96mm and stroked to 67.3mm, achieving 480+ HP at 10,500 RPM with a **Garrett GT35R turbo** (custom billet compressor wheel) and **Tial MV-R 44mm wastegate** for 2.2 bar boost, paired with a **Hewland FG400 5-speed sequential transaxle** (reinforced dog rings) and **AP Racing CP8444 4-piston calipers** on 330mm carbon-carbon discs",
+    "Install a **Pectel SQ6M engine management system** with **Motec C127 dash logger**, integrating **NGK R8471-10 Iridium IX spark plugs** (gapped at 0.020\") and **Mocal oil cooler (13-row, 190mm core)** with **Accusump 3-quart pre-oiler** to prevent DFV oil starvation under sustained lateral loads",
+    "Fabricate a **custom 4-2-1 titanium exhaust manifold** (TIG-welded by **Sparco Advanced Fabrication**) with **Inconel 625 tubing** (1.75\" primary, 2.5\" secondary) and **Bosal 200-cell metallic catalytic converter** (for FIA compliance), terminating in a **SuperTrapp 4\" disc-style muffler** (12-disc setup for 9,500 RPM scavenging)"
+  ],
+  "estetica": [
+    "Apply a **full carbon-fiber body replica** of the 1969 MS80 (molded by **BBM Sport**) with **3M Scotchcal 1080 vinyl wrap in \"Matra Racing Blue\" (Pantone 3005 C)** and **gold leaf pinstriping** (hand-applied by **Signarama Monaco**) on the front splitter and rear wing",
+    "Install **OMP KS-8 carbon-fiber racing seats** (FIA 8862-2009 certified) with **Schroth Profi II 6-point harnesses** and **MOMO Prototipo steering wheel** (330mm diameter, suede-wrapped) featuring a **custom aluminum quick-release hub** (machined by **Sparco USA**)",
+    "Fit **BBS RS-GT II wheels** (13x15 front, 15x15 rear) with **Pirelli P Zero Trofeo R tires** (245/600-13 front, 345/620-15 rear) and **H&R coilover suspension** (custom valving for MS80 subframe geometry) with **Eibach ERS 1200N/mm helper springs** to maintain ride height under aerodynamic load"
+  ]
+}

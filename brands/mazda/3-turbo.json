@@ -1,0 +1,14 @@
+{
+  "brand": "MAZDA",
+  "model": "3 TURBO",
+  "prestazioni": [
+    "Engine: Replace the stock MZR 2.5L turbocharged (PY-VPTS) with a fully built forged internals kit from Manley, including 87mm forged pistons (9.5:1 CR), Eagle H-beam connecting rods, and a billet crankshaft from Callies to handle 500+ WHP reliably. Pair with a Garrett GTX3582R turbocharger (0.82 A/R turbine housing) and a custom 3.5\" stainless steel downpipe from CorkSport with a 4\" V-band outlet for optimized spool and top-end flow.",
+    "Fuel System: Upgrade to a dual-pump fuel system using two Walbro 450 LPH in-tank pumps, paired with Injector Dynamics ID1050x injectors (side-feed, 1050cc/min) and a Radium Engineering dual-port fuel pressure regulator. The OEM high-pressure fuel pump (HPFP) must be replaced with a Pierburg CWA 50 pump to support E85 blends and methanol injection via a Snow Performance Stage 3 kit with a 1-gallon reservoir.",
+    "ECU & Tuning: Ditch the stock ECU for a standalone Haltech Elite 2500 with a custom wiring harness from Haltech Europe. The tune must include a flex-fuel sensor (Continental 13577379) for E85 compatibility, a 4-bar MAP sensor (Honeywell PX3AN2BS4PAAX), and a custom traction control strategy using a Bosch 0261S00091 60-2 crank trigger wheel for precise ignition cut. Data logging via an Aim Solo 2 DL with GPS and OBD-II integration for real-time monitoring."
+  ],
+  "estetica": [
+    "Aero: Install the Rocket Bunny V3 widebody kit (Mazda 3 BK-specific) with carbon fiber overfenders, a duckbill rear wing (25mm adjustable angle), and a custom front splitter with integrated canards from Seibon Carbon. The rear diffuser must be a 3D-printed ABS unit from Maxton Design, designed to work with the stock bumper but featuring aggressive vortex generators for downforce.",
+    "Suspension: Swap the OEM suspension for a full Ohlins Road & Track kit (DFV) with 24-way adjustable dampers, custom-valved for the Mazda 3 Turbo’s 50:50 weight distribution. Pair with Whiteline adjustable rear sway bars (24mm hollow) and polyurethane bushings from SuperPro (part #SPF0119) for reduced compliance. Ride height must be set to -35mm front and -30mm rear, with camber plates from Feal for -3.5° front and -2.8° rear camber.",
+    "Wheels & Brakes: Mount a set of Volk Racing TE37V (18x9.5 +35 front, 18x10.5 +30 rear) with Michelin Pilot Sport Cup 2 tires (255/35/18 front, 275/35/18 rear). The braking system must include a full AP Racing Radi-CAL kit (4-piston front, 2-piston rear) with 355mm two-piece rotors (floating, slotted) and Ferodo DS2500 pads. Brake lines must be stainless steel braided from Goodridge, with a custom ABS delete kit from KSport for track use."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "MASTRETTA",
+  "model": "MXT",
+  "prestazioni": [
+    "Forced induction upgrade via Garrett GT35R turbocharger (60-62 trim) paired with a custom 3.5-inch stainless steel intercooler piping system, designed specifically for the MXT's Ford Duratec 2.0L I4 (engine code: Duratec-HE MI4) to handle 12-14 psi of boost while maintaining a 10.8:1 compression ratio with forged Mahle pistons and Eagle H-beam connecting rods",
+    "Full standalone Motec M150 ECU with custom CAN bus integration for the MXT's unique throttle-by-wire system, paired with a Bosch Motorsport 0280158802 high-flow fuel pump and ID1000x injectors to support 400+ HP on E85 fuel",
+    "Custom 3-inch stainless steel exhaust system by Burns Stainless, featuring a 4-2-1 header design with equal-length primaries and a titanium-wrapped 3.5-inch center section, terminating in a dual-mode Akrapovič Racing exhaust with electronically controlled butterfly valves for backpressure optimization"
+  ],
+  "estetica": [
+    "Custom carbon fiber widebody kit by VIS Racing, designed exclusively for the MXT's chassis with aggressive 2-inch flares to accommodate 275/35/18 Michelin Pilot Sport Cup 2 tires on OZ Racing Ultraleggera HLT wheels (18x9.5 front, 18x11 rear)",
+    "Full Ohlins TTX40 coilover suspension with 3-way adjustable damping, custom valving for the MXT's double-wishbone front and multi-link rear setup, and adjustable ride height ranging from 50mm drop to 20mm lift for track use",
+    "Custom front splitter and rear diffuser by APR Performance, constructed from pre-preg carbon fiber with integrated air curtains and vortex generators, paired with a fixed rear wing based on the NACA 63-018 airfoil profile for 150+ kg of downforce at 160 km/h"
+  ]
+}

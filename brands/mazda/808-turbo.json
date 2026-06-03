@@ -1,0 +1,14 @@
+{
+  "brand": "MAZDA",
+  "model": "808 TURBO",
+  "prestazioni": [
+    "Engine swap to a **13B-REW** (rotary, twin-turbo, 1.3L) from a Mazda RX-7 FD3S, retaining the original 808's front subframe with custom motor mounts (Fab9 or Racing Beat) and a reinforced transmission tunnel to fit the Getrag 5-speed from the FD3S. Use a **Garrett GT2860RS-5** turbo (0.86 A/R) with a **Tial MV-R 44mm wastegate** and **GReddy Type-S intercooler** (core dimensions: 24x6x3.5\") for optimal spool and heat dissipation.",
+    "Full **Haltech Elite 2500 ECU** standalone management with **AEM 3.5bar MAP sensor** and **ID1000x injectors** (side-feed, 1000cc/min) to handle E85 blends. Custom **MazdaSpeed 808-specific intake manifold** (ported and polished) with a **HKS Super Power Flow filter** (part #3002-RF001) and **Mishimoto silicone couplers** (4-ply, 3\" ID) for the charge piping.",
+    "Suspension overhaul with **Ohlins Road & Track DFV coilovers** (custom valving for the 808's 95.3\" wheelbase) paired with **Whiteline adjustable sway bars** (22mm front, 18mm rear) and **SuperPro poly bushings** (part #SPF0116K) for the rear trailing arms. Braking upgraded to **StopTech ST-60 big brake kit** (6-piston calipers, 328mm rotors) with **Ferodo DS2500 pads** and **Goodridge G-Stop braided lines**."
+  ],
+  "estetica": [
+    "**Rocket Bunny V1 (808-specific) widebody kit** (fiberglass, 3\" flares front/rear) with **custom carbon fiber hood** (vented, 30% weight reduction) from **Seibon**. Rear diffuser from **AIT Racing** (part #AIT-808-DIFF) with **DTM-style side skirts** (custom aluminum, 2mm thick) for aerodynamic balance.",
+    "**Work Meister S1 3P 15x8\" wheels** (ET+15, 4x114.3 PCD) with **Toyo R888R tires** (195/50/15) and **BC Racing extended wheel studs** (12x1.25, 35mm length). **Custom rear spoiler** (carbon fiber, 3-piece, adjustable angle) from **Vertex** (part #VTX-808-SPL) with **LED third brake light** integrated into the center section.",
+    "**Full interior overhaul** with **Bride Zeta III seats** (custom brackets for 808 floorpan) and **Takata 4-point harnesses** (part #TA120). **Momo Prototipo steering wheel** (350mm, suede) with **NRG quick-release hub** and **custom gauge cluster** (Defi Advance BF series: oil temp, boost, wideband AFR) mounted in a **carbon fiber dash overlay** (part #CF-808-DASH)."
+  ]
+}

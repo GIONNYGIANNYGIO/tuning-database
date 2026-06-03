@@ -1,0 +1,14 @@
+{
+  "brand": "MAZDA",
+  "model": "CX-30",
+  "prestazioni": [
+    "Turbocharger upgrade to a Garrett GTX3071R Gen II for the Skyactiv-G 2.5T (PY-VPTS) engine, paired with a custom 3.5-inch stainless steel downpipe from CorkSport with a 200-cell catalytic converter for optimized spool and reduced backpressure, targeting 320-350whp on E30 blend fuel with a supporting Cobb Accessport Stage 2+ tune (calibration ID: CX30_2.5T_STG2+_E30)",
+    "Full bolt-on intake system from Racing Beat featuring a high-flow dry carbon fiber airbox with a K&N conical filter (part #RF-300-001) and a heat-shielded silicone coupler to the throttle body, reducing intake temps by 12°C under full load while maintaining OEM-like fitment and MAF sensor compatibility",
+    "Custom 3-inch cat-back exhaust system from Borla (part #140834) with dual 4-inch rolled-edge tips, utilizing 304 stainless steel construction and a straight-through muffler design to enhance exhaust scavenging without drone, paired with a Vibrant 1794 ultra-quiet resonator for cabin refinement at cruising speeds"
+  ],
+  "estetica": [
+    "Rocket Bunny V1 widebody kit (part #RB-CX30-01) with extended carbon fiber fenders (30mm front, 40mm rear), custom front bumper canards, and a duckbill rear spoiler, all finished in Mazda Soul Red Crystal Metallic with a clear bra matte PPF overlay for paint protection",
+    "OEM+ front grille replacement with a carbon fiber mesh insert from AutoExe (part #AX-01GR-CX30) and a custom LED DRL halo kit from Diode Dynamics (part #SL1-CX30), integrated with the factory adaptive lighting system via a CAN bus decoder module",
+    "Enkei PF07 19x9.5 +35 wheels in Satin Black, wrapped in Michelin Pilot Sport Cup 2 R tires (255/40/19) with a custom offset to fill the Rocket Bunny fender gaps, paired with D2 Racing coilovers (part #RS-CX30-01) with 32-way adjustable damping and 50mm of drop for aggressive stance and track-ready suspension geometry"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "MAZDA",
+  "model": "6 Wagon (GJ/GL, 2012-2021)",
+  "prestazioni": [
+    "Turbocharged 2.5L Skyactiv-G PY-VPS engine (86mm bore, 105.7mm stroke) upgraded with a Garrett GTX3071R Gen II turbo (0.63 A/R, 62mm compressor inducer) on a custom 3.5-inch stainless steel downpipe with a Tomei 4-2-1 exhaust manifold (equal-length, 1.75-inch primaries) and a GReddy Profec E02 electronic boost controller for 22 psi peak boost on E85 fuel",
+    "Full forged internals by JE Pistons (8.5:1 compression, 87mm forged slugs) with Eagle H-beam connecting rods (5.433-inch center-to-center) and ACL Race Series main/rod bearings, paired with a K1 Technologies 240mm billet crankshaft and ARP Custom Age 625+ head studs for 550+ whp reliability",
+    "Custom ECU calibration via Cobb Accessport (v3) with a Mazdaspeed 3 port auxiliary fuel system (dual 450cc injectors per cylinder) and a Radium Engineering dual-catch can setup (PCV and crankcase ventilation separated) to prevent oil contamination under sustained high-RPM boost"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (GJ/GL-specific, 30mm extended fenders, carbon fiber overfenders) with custom front splitter (20mm overhang, 3D-printed ABS core) and a Veilside Fortune rear diffuser (polyurethane, 3-piece bolt-on)",
+    "Ohlins Road & Track DFV coilovers (2-way adjustable damping, 30-way rebound, 20mm drop) with custom top mounts (polyurethane bushings, 5mm offset for camber correction) and Eibach ERS 1000N/mm helper springs for wagon-specific load compensation",
+    "Custom 3M 1080 vinyl wrap (Satin Matte Gunmetal) with a full dechrome (badges, window trim, grille mesh) and a Mazdaspeed OEM+ carbon fiber hood (GJ/GL-specific, 5kg weight reduction) with a custom heat extractor (3-inch diameter, 3D-printed carbon fiber)"
+  ]
+}

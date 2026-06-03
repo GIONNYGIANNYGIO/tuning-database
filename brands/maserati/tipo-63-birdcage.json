@@ -1,0 +1,14 @@
+{
+  "brand": "MASERATI",
+  "model": "TIPO 63 BIRDCAGE",
+  "prestazioni": [
+    "Engine swap to a Tipo 61-derived 3.0L inline-4 (engine code: *Tipo 61/63 3.0L DOHC*), bored and stroked to 3.2L with forged Mahle pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft by JE Pistons for 320+ hp at 7,800 RPM with a redline extended to 8,500 RPM via a custom Schrick camshaft set (288° duration, 12.5mm lift) and titanium retainers by Ferrea.",
+    "Forced induction via a custom-built twin-turbo system using Garrett GT2860RS turbos (0.64 A/R, 60mm compressor wheels) with Tial 44mm external wastegates, custom 3.5-inch stainless steel exhaust manifolds by Burns Stainless, and a Spearco air-to-water intercooler with a Davies Craig EWP150 electric water pump for consistent intake temps under 45°C at 1.5 bar boost.",
+    "Chassis reinforcement with a custom 4130 chromoly roll cage by Matter Fab, integrated with a bespoke Ohlins TTX40 coilover suspension (24-way adjustable damping, 3-way adjustable rebound) and spherical bearing conversion for all suspension pickups using Aurora rod ends, paired with a 50% stiffer front anti-roll bar by H&R and a custom rear bar by Sway-A-Way for reduced body roll in high-speed corners."
+  ],
+  "estetica": [
+    "Full carbon fiber bodywork replacement using a custom 2x2 twill weave by Callaway Carbon Fiber, including a Tipo 63-specific front splitter with integrated NACA ducts for brake cooling, a rear diffuser by APR Performance (3D-scanned to fit the Tipo 63’s underbody), and a removable hardtop with a Perspex rear window for weight reduction and aerodynamic efficiency.",
+    "Custom 17-inch magnesium wheels by BBS (RS-GT II, 8.5x17 front, 10x17 rear) with center-lock adapters by ATI Performance, wrapped in Pirelli P Zero Corsa tires (225/45/17 front, 285/40/17 rear) and paired with a custom Wilwood Aerolite 6R big brake kit (380mm front rotors, 355mm rear) with 6-piston calipers and titanium pistons for unsprung weight reduction.",
+    "Interior stripped and rebuilt with a full Alcantara-wrapped dashboard by Saddleback Leather, a custom MOMO Prototipo steering wheel (380mm diameter, suede grip), and a bespoke digital dash by AIM MXS 1.2 (integrated with a Bosch LSU 4.9 wideband O2 sensor and a 6-axis G-force sensor) mounted on a custom aluminum dash panel by Vintage Air."
+  ]
+}

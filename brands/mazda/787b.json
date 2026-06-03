@@ -1,0 +1,14 @@
+{
+  "brand": "MAZDA",
+  "model": "787B",
+  "prestazioni": [
+    "Replace the original R26B 4-rotor Wankel engine's apex seals with carbon-fiber-reinforced silicon nitride (Si3N4) seals from Mazda Motorsports' Group C endurance racing division, reducing friction by 18% and increasing rotor longevity to 12,000 km under race conditions while maintaining the 700+ hp output at 9,000 RPM with the original 13B-derived peripheral port injection system.",
+    "Install a custom 4-into-1 equal-length titanium exhaust manifold designed by HKS for the 787B's quad-rotor layout, featuring 1.75-inch primary tubes with a 3.5-inch collector, paired with a secondary exhaust system utilizing a 4.5-inch diameter Inconel 625 straight-pipe setup from Akrapovič, reducing backpressure by 32% and improving mid-range torque by 12% at 6,500 RPM.",
+    "Integrate a bespoke Motec M190 ECU with a 24-bit data logging system, calibrated specifically for the R26B's peripheral port injection and sequential twin-spark ignition, featuring a custom fuel map for Shell V-Power Racing 102 RON fuel, optimizing AFR to 12.8:1 under full load and enabling a 500 RPM over-rev capability (9,500 RPM redline) with real-time telemetry for rotor temperature and eccentric shaft vibration monitoring."
+  ],
+  "estetica": [
+    "Apply a full carbon-fiber body restoration using pre-preg autoclave-cured panels from Toray Advanced Composites, replicating the original 1991 Le Mans-winning livery with a 3K twill weave finish, reducing weight by 14 kg while maintaining FIA Group C safety compliance for the monocoque chassis.",
+    "Install a period-correct 1991-spec Mazda Motorsports aerodynamic package, including a reinforced carbon-fiber rear wing with adjustable Gurney flaps (0-15mm range) from Swift Engineering, paired with a custom front splitter featuring integrated brake cooling ducts and a 3-stage diffuser from APR Performance, designed to generate 1,200 kg of downforce at 320 km/h.",
+    "Retrofit the original 17-inch BBS RS II magnesium wheels with a custom center-lock conversion using OZ Racing Superforgiata barrels, wrapped in Michelin Pilot Sport Cup 2 R tires (345/645-R17 front, 365/715-R17 rear) mounted on titanium wheel nuts from ARP, while adding a full LED lighting system from Hella Rallye 3000 with integrated rain light and FIA-spec strobe patterns for historic racing events."
+  ]
+}

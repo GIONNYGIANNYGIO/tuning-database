@@ -1,0 +1,14 @@
+{
+  "brand": "MAYBACH",
+  "model": "62",
+  "prestazioni": [
+    "Engine: M285 V12 5.5L Biturbo (518 HP stock) – Full internal build with forged Mahle pistons (9.5:1 CR), Carrillo H-beam connecting rods, and a billet crankshaft from Manley Performance. Upgraded to a custom Garrett GTX5533R Gen II turbocharger (1.25 A/R turbine housing) with a TiAL MV-R 44mm wastegate and a Precision Turbo 6266 intercooler. Fuel system overhaul includes dual Bosch Motorsport 044 high-flow fuel pumps, Injector Dynamics ID2000x injectors, and a Motec M150 ECU with custom mapping for 850 WHP on 100-octane fuel.",
+    "Drivetrain: Reinforced ZF 5HP24 5-speed automatic transmission with a Level 10 torque converter and a Quaife ATB differential. Upgraded driveshafts from The Driveshaft Shop (3.5-inch chromoly) and a custom 3.73:1 final drive ratio for improved acceleration. Clutch-type limited-slip differential with carbon fiber clutch plates from Sachs Performance.",
+    "Suspension & Braking: Full air ride conversion using Air Lift Performance 3P management with custom valving for the Maybach’s 6,165 lb chassis. Ohlins Road & Track coilovers (custom valved for the 62’s subframe) with Eibach ERS springs. Brembo GT-R 6-piston calipers (405mm rotors front, 380mm rear) with Ferodo DS2500 pads and stainless steel braided lines from Goodridge. Custom 22-inch forged BBS LM-R wheels (9.5J front, 11J rear) with Michelin Pilot Sport Cup 2 tires (275/35 R22 front, 315/30 R22 rear)."
+  ],
+  "estetica": [
+    "Exterior: Full custom widebody conversion by Mansory (Maybach 62-specific kit) with carbon fiber fenders, side skirts, and a front splitter. Rear diffuser from Vorsteiner (V-FF103) with integrated exhaust outlets for the custom Akrapovic Evolution Line titanium exhaust system. Custom matte Selenite Grey paint with a 3M Satin Black roof wrap and gold pinstriping by Dr. ColorChip.",
+    "Interior: Full reupholstery in Bridge of Weir Nappa leather with diamond-stitched Alcantara headliner. Custom rear lounge with a Bentley-inspired center console featuring a built-in Apple CarPlay/Android Auto unit from CarPlay2Air and a Bang & Olufsen Beosound Stage sound system (16 speakers, 2,400W). Carbon fiber trim from 1016 Industries (door cards, dashboard, and rear privacy panel inserts).",
+    "Lighting: Full LED conversion with LUX H8 V4 bulbs for all exterior lights. Custom laser-etched Maybach emblems in the headlight projectors (replacing the stock HID units) and a custom RGBW underglow kit from Diode Dynamics (controlled via a separate ECU for dynamic patterns). Rear taillights replaced with smoked LED units from VLand with sequential turn signals."
+  ]
+}

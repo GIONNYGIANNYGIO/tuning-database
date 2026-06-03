@@ -1,0 +1,14 @@
+{
+  "brand": "MAZDA",
+  "model": "ATENZA WAGON",
+  "prestazioni": [
+    "Engine: LF-VD (2.5L Skyactiv-G PY-VPS) forced induction via Garrett GTX3076R Gen II turbocharger with billet compressor wheel (60mm inducer, 82mm exducer), custom 3.5-inch stainless steel downpipe, and GReddy Profec B Spec II boost controller for 18 psi peak boost on 98 RON fuel",
+    "Drivetrain: OS Giken Super Lock LSD (2-way) with 4.11 final drive ratio, reinforced 6-speed manual transmission (GJ-series) with PPG straight-cut gears (1st: 3.583, 2nd: 2.022, 3rd: 1.384), and Fidanza lightweight flywheel (11.5 lbs) for LF-VD compatibility",
+    "Suspension: Ohlins Road & Track DFV coilovers (front: 400 lbs/in, rear: 350 lbs/in) with custom valving for wagon-specific weight distribution, Whiteline adjustable rear sway bar (24mm hollow), and polyurethane bushings (SuperPro 62mm front control arm bushings, rear subframe inserts)"
+  ],
+  "estetica": [
+    "Body: Veilside Fortune 03 widebody conversion kit (GJ-series Atenza-specific) with carbon fiber front fenders, rear quarter panels, and custom rear hatch spoiler (3D-scanned for OEM fitment), painted in Mazda Soul Red Crystal Metallic with matte black accents",
+    "Wheels: Work Emotion CR Kiwami 19x9.5 +22 front / 19x10.5 +30 rear (5x114.3, 73.1mm hubcentric) with Toyo R888R tires (255/35/19 front, 275/30/19 rear), custom extended wheel studs (BC Racing 50mm) for flush fitment",
+    "Interior: Bride Zeta III Low Max seats (Atenza-specific mounting brackets) with Takata 4-point harnesses, custom carbon fiber rear cargo panel (replacing OEM plastic) with integrated battery relocation (Optima RedTop in cargo area), and Nardi Classic 350mm steering wheel with quick-release hub (NRG 50602)"
+  ]
+}

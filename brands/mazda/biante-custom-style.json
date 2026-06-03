@@ -1,0 +1,14 @@
+{
+  "brand": "MAZDA",
+  "model": "BIANTE CUSTOM STYLE",
+  "prestazioni": [
+    "Engine swap to a **Mazda MZR 2.3L DISI Turbo (L3-VDT)** from the Mazdaspeed6/MPS, retaining the original 6-speed automatic transmission (FN4A-EL) but reinforcing it with a **PPG Stage 2 clutch pack and billet steel flywheel** to handle the increased torque (target: 350whp). The stock turbo (KKK K04-2076) is replaced with a **Garrett GTX3071R Gen II** (0.63 A/R turbine housing) paired with a **Treadstone TR-FMIC-06 front-mount intercooler** (4.5\" core thickness) and **HKS SSQV4 blow-off valve** to eliminate compressor surge under aggressive shifts.",
+    "Full **Mazda MPS (L3-VDT) fuel system retrofit**, including **Injector Dynamics ID1000x injectors**, **Walbro 450LPH in-tank fuel pump**, and a **Radium Engineering fuel pressure regulator** (set to 58psi base pressure). The ECU is reflashed with a **VersaTune V2 standalone** using a custom **E85 flex-fuel map** (60% ethanol blend) with **AEM X-Series wideband O2 sensor** for closed-loop AFR targeting (11.5:1 under boost, 14.7:1 cruise).",
+    "Chassis reinforcement via **Cusco Type-RS 2-point strut tower bar (front) and 4-point rear subframe brace**, paired with **Tein Flex Z coilovers** (8kg/mm front, 6kg/mm rear springs) and **SuperPro poly bushings** (front control arms, rear trailing arms). Braking is upgraded to **DBA 5000 Series rotors (326mm front, 300mm rear)** with **Hawk HT-10 brake pads** and **Goodridge G-Stop stainless steel brake lines** for pedal firmness."
+  ],
+  "estetica": [
+    "**Liberty Walk LB Works Biante Custom Style widebody kit** (fiberglass fenders, front/rear bumpers, and side skirts) with **custom 3M Matte Graphite vinyl wrap** and **Rally Armor UR mud flaps** (black with red MAZDA logo). The front grille is replaced with a **Seibon carbon fiber mesh grille** (painted satin black) and **Morimoto XB LED headlights** (3000K color temp) with **Lux H8 V4 angel eyes**.",
+    "**Work Emotion CR Kiwami wheels** (18x9.5 +35 offset, 5x114.3 PCD) wrapped in **Michelin Pilot Sport Cup 2 tires** (255/40R18 front, 275/35R18 rear). The rear wing is a **custom 1-piece carbon fiber duckbill spoiler** (modeled after the Mazda RX-7 FD3S) mounted on **AeroCatch flush-mount hardware**, with **Vland sequential LED taillights** (red/white) for a JDM-inspired rear end.",
+    "**Interior stripped of all non-essential weight**, retaining only the 2nd-row captain’s chairs (recovered in **Recaro Pole Position seats** with **Schroth 4-point harnesses**). The dashboard is wrapped in **Nappa leather (black with red stitching)** and fitted with a **Sparco Pro 2000 steering wheel** (350mm, suede) on a **NRG quick-release hub**. A **Racepak IQ3 digital dash** replaces the stock cluster, displaying **boost pressure, oil temp, and wideband AFR** via CAN bus integration."
+  ]
+}

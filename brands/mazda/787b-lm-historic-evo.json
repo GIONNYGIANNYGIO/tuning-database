@@ -1,0 +1,14 @@
+{
+  "brand": "MAZDA",
+  "model": "787B LM HISTORIC EVO",
+  "prestazioni": [
+    "Engine: R26B 4-rotor Wankel (2.6L x 4 rotors, 700+ HP @ 9,000 RPM with historic Group C endurance mapping via MoTeC M800 ECU, featuring titanium intake valves and custom Mahle forged pistons for 10.5:1 compression ratio)",
+    "Forced Induction: Twin Garrett GT28RS turbochargers with 0.64 A/R turbine housings, custom 3D-printed Inconel exhaust manifolds, and dual HKS SSQV blow-off valves to prevent compressor surge under Le Mans-style braking zones",
+    "Suspension: Ohlins TTX40 4-way adjustable coilovers with spherical bearing top mounts, custom-fabricated titanium upright adapters, and Penske 8760 shock absorbers recalibrated for 787B-specific carbon-fiber monocoque flex characteristics"
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon-fiber LM Historic Evo body kit by AutoDelta (original 787B designer), including 1991 Le Mans-winning rear wing with Gurney flap extensions, front splitter with integrated NACA ducts for R26B intercooler airflow, and side skirts with vortex generators for downforce stability at 200+ mph",
+    "Wheels: BBS LM-Racing 18x13 front / 18x15 rear magnesium wheels with center-lock adapters, wrapped in Michelin Pilot Sport Cup 2 tires (345/645-R18 front, 385/685-R18 rear) for historic endurance compound grip",
+    "Interior: Full carbon-fiber Recaro Pole Position seats with 6-point Schroth harnesses, MOMO Prototipo steering wheel with integrated MoTeC C127 dash display, and custom titanium roll cage by G-Force Racing for FIA Historic Group C compliance"
+  ]
+}

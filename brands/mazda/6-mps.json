@@ -1,0 +1,14 @@
+{
+  "brand": "MAZDA",
+  "model": "6 MPS",
+  "prestazioni": [
+    "Garrett GT2867 .64 A/R turbocharger upgrade for the L3-VDT (2.3L MZR DISI Turbo) engine, paired with a custom 3.5\" stainless steel downpipe featuring a 200-cell catalytic converter by CPE (CorkSport Performance Engineering) to maintain emissions compliance while reducing backpressure by 40%",
+    "Full bolt-on fuel system overhaul including Injector Dynamics ID1000x injectors, Walbro 450 LPH in-tank fuel pump, and a Radium Engineering dual catch can setup with -10AN lines to prevent oil dilution in the L3-VDT’s direct-injection system under sustained boost (targeting 28 psi on E85)",
+    "Custom ECU calibration via Cobb Accessport v3 with a bespoke map developed by Stratified Automotive Controls, optimizing the L3-VDT’s dual-VVT system for 380 whp and 420 lb-ft of torque on E30 blend, with fail-safes for knock detection and AFR targeting 11.8:1 under full load"
+  ],
+  "estetica": [
+    "Rocket Bunny V2 widebody kit (Type 3) for the GG/GY chassis, featuring carbon fiber overfenders, front canards, and a duckbill rear spoiler with integrated third brake light, paired with custom 5mm spacers to achieve a 19x9.5 +30 ET offset on Work Emotion CR Kiwami wheels",
+    "Full OEM+ interior refresh with Recaro Sportster CS seats (JDM-spec, part #89100-TBA-003) wrapped in Alcantara with red stitching, a Nardi Deep Corn 350mm steering wheel (part #12013000), and a custom aluminum shift knob by 5Zigen (model: Ti Shift Knob for Mazda 6 MPS)",
+    "Custom front bumper lip by Seibon Carbon, featuring a 3D-scanned split design to accommodate the L3-VDT’s intercooler ducting, paired with a custom LED fog light delete using Osram LEDriving SL 140 fog bulbs for a stealth OEM+ look"
+  ]
+}

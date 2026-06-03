@@ -1,0 +1,14 @@
+{
+  "brand": "MAZDA",
+  "model": "2 CARBON EDITION",
+  "prestazioni": [
+    "Engine: Replace the stock P5-VPS 1.5L Skyactiv-G (115 PS) with a forged internals build featuring Manley 87mm forged pistons, Eagle H-beam connecting rods, and a Tomei 264° camshaft kit for high-RPM stability and increased power output (target: 180-200 PS with E85 fuel).",
+    "Forced Induction: Install a Garrett GT2554R turbocharger with a custom 3-inch stainless steel downpipe (Catted, 200-cell) and a GReddy Type-S intercooler to handle boost levels up to 1.2 bar (17.4 PSI) while maintaining IATs below 50°C.",
+    "ECU & Fueling: Standalone Haltech Elite 1500 ECU with a 1000cc ID1000 fuel injectors upgrade, paired with a Walbro 450 LPH in-tank fuel pump and a Radium Engineering fuel pressure regulator for precise E85 tuning and consistent fuel delivery."
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny V3 widebody kit (Mazda2-specific) with carbon fiber overfenders, front splitter, and a duckbill rear wing (adjustable angle) for aggressive stance and downforce optimization.",
+    "Suspension: Ohlins Road & Track DFV coilovers (Mazda2-specific valving) with 20mm front and 15mm rear adjustable camber plates, paired with Cusco 22mm front and 19mm rear sway bars for flat cornering and reduced body roll.",
+    "Exterior: Full carbon fiber hood (Seibon CF) with integrated NACA ducts for brake cooling, and a custom rear diffuser (APR Performance) with integrated dual 3-inch exhaust outlets (custom titanium tips by Burns Stainless)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "MAZDA",
+  "model": "ATENZA SEDAN",
+  "prestazioni": [
+    "Engine: LF-VE (2.0L MZR DISI Turbo) - Full forged internals including Manley forged pistons (8.5:1 CR), Eagle forged H-beam connecting rods, and ACL Race Series bearings. Upgraded to a Garrett GTX3071R turbocharger with a custom 3.5\" V-band downpipe and GReddy Ti-C cat-back exhaust system featuring 3.5\" piping and dual 100mm titanium tips.",
+    "Fuel System: Injector Dynamics ID1050x fuel injectors paired with a Walbro 450 LPH in-tank fuel pump. Custom fuel rail and -6AN braided lines with a Radium Engineering fuel pressure regulator. ECU reflash via Cobb Accessport with a custom tune by Mazdaspeed specialist 'MazdaTuning.com' targeting 320whp and 350 lb-ft torque on E30 blend.",
+    "Suspension & Handling: Ohlins Road & Track DFV coilovers with custom valving for the Atenza's GJ chassis. Cusco front strut tower bar and rear sway bar (22mm adjustable). Whiteline adjustable rear control arms and poly bushings. StopTech ST-60 big brake kit with 6-piston calipers and 355mm two-piece rotors, paired with Ferodo DS2500 pads."
+  ],
+  "estetica": [
+    "Aero: Veilside Fortune 3 widebody conversion kit with custom carbon fiber fenders, front bumper, and rear diffuser. Custom 3D-printed carbon fiber side skirts and a custom carbon fiber trunk spoiler with integrated LED brake light. Front splitter by Rocket Bunny with adjustable canards.",
+    "Wheels & Stance: Work Emotion CR Kiwami 19x9.5 +15 (front) and 19x10.5 +25 (rear) in a custom 'Gunmetal with Bronze Lip' finish. Stretched Toyo R888R tires (245/35/19 front, 275/30/19 rear). Custom air ride setup by Air Lift Performance with 3P management and AccuAir e-Level sensors.",
+    "Interior & Details: Full Recaro Sportster CS bucket seats with custom red Alcantara and black leather upholstery. Custom roll cage by Custom Cages UK with bolt-in harness bar. Momo Mod.78 steering wheel with quick-release hub. Full carbon fiber dash overlay and door cards by Seibon. Custom LED ambient lighting with RGBW control via Arduino."
+  ]
+}

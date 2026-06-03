@@ -1,0 +1,14 @@
+{
+  "brand": "MAZDA",
+  "model": "323 GTX",
+  "prestazioni": [
+    "Engine: Full rebuild of the **BPT (DOHC 16V 1.6L turbo)** with forged internals including **JE 8.5:1 compression pistons**, **Manley H-beam connecting rods**, and a **Crower billet crankshaft** to handle 1.5-bar boost reliably. Pair with a **Garrett GT2860RS-5 turbocharger** (0.64 A/R turbine housing) and **Tial 38mm wastegate** for spool under 3,500 RPM while supporting 350+ HP on E85.",
+    "Fuel System: **Bosch 044 high-flow fuel pump** with **ID1000 injectors** (side-feed, Mazda-specific) and a **Radium Engineering dual-port fuel pressure regulator** to maintain 58 psi base pressure. Add a **Link G4+ Xtreme ECU** with **Mazda 323 GTX-specific base maps** for sequential injection and individual cylinder trims, paired with a **Motec PLM (Lambda-to-CAN module)** for real-time AFR logging.",
+    "Drivetrain: **OS Giken Super Lock LSD** (2-way, 4.11 final drive) in a **Mazdaspeed 323 GTX-specific reinforced transmission case** with **PPG straight-cut gears (1st-4th)** and a **Spec Stage 3+ clutch** (6-puck, cerametallic). Upgrade the **Mazda G5M-R differential** with **Cusco 2-way LSD internals** and **polyurethane diff mounts** to eliminate deflection under torque."
+  ],
+  "estetica": [
+    "Body: **Tommy Kaira M20 aero kit** (1990s JDM-spec, fiberglass) with **custom 30mm overfenders** (hand-laid carbon fiber) to fit **Work Meister S1 3P 15x9 +15 wheels** (ET15, 225/45/15 Yokohama AD08R tires). Front bumper lip replaced with a **Vertex Lang II GT-style splitter** (polyurethane, 3-piece) and **custom aluminum undertray** for aero balance.",
+    "Interior: **Recaro SRD (Evo II) seats** (Mazda-specific mounting brackets) with **Schroth 6-point harnesses** (ASM-compliant). Full **Momo Prototipo steering wheel** (350mm, suede) on a **NRG quick-release hub**, paired with a **Defi BF Advance gauge cluster** (oil temp, boost, wideband AFR) mounted in a **custom A-pillar pod** (carbon fiber).",
+    "Lighting: **Hella Micro DE fog lights** (H3 55W bulbs) integrated into the **Tommy Kaira front bumper** with **custom aluminum bezels**. Rear: **Depo JDM-spec tail lights** (clear lens, red/amber LED conversion) and **Osram Night Breaker Laser H4 bulbs** (130% brighter) in the stock **Mazda 323 GTX projector headlights** (retrofitted with **Morimoto HID projectors**)."
+  ]
+}

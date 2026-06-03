@@ -1,0 +1,14 @@
+{
+  "brand": "MAZDA",
+  "model": "323F GT",
+  "prestazioni": [
+    "Engine swap to a **BP-ZE (RS) 1.8L DOHC 16V** (BP engine code) from the Mazda MX-5 NB (1998-2005), retaining the original **G25M-R** 5-speed manual transmission but reinforcing it with a **PPG Gearset (Stage 2)** and **OS Giken Super Lock LSD** for durability under increased torque. The BP-ZE will be built with **JE Pistons (8.5:1 compression, forged)**, **Manley H-beam connecting rods**, and a **Toda Racing billet crankshaft** to handle 300+ HP reliably.",
+    "Forced induction via a **Garrett GT2860RS turbocharger** (Journal Bearing, .64 A/R turbine housing) paired with a **Tial MV-R 38mm wastegate** and **GReddy Type-S intercooler (front-mount, 600x225x76mm core)**. The turbo setup will be fed by a **MazdaSpeed 6 (2006-2007) **L3-VDT** 3.0L V6 fuel pump** (housed in a custom surge tank) and **ID1000x injectors**, controlled by a **Haltech Elite 2500 ECU** with a **Mazda BP-specific base map** and **AEM X-Series wideband O2 sensor** for precise AFR tuning.",
+    "Suspension overhaul with **Öhlins Road & Track DFV coilovers (323F-specific valving)**, **SuperPro poly bushings (full kit, including subframe and trailing arm bushings)**, and **Whiteline adjustable rear sway bar (22mm)**. Braking upgraded to **AP Racing CP5250 front calipers (4-piston, 280mm rotors)** with **Ferodo DS2500 pads** and **Goodridge G-Stop braided stainless steel lines**, paired with **Brembo rear calipers (2-piston, 240mm rotors)** from the Mazda RX-8."
+  ],
+  "estetica": [
+    "**Rocket Bunny V1 (323F-specific) widebody kit** with **custom carbon fiber front splitter (3D-scanned for OEM fitment)** and **Voltex Type-3 rear wing (200mm chord, 3D-printed adjustable mounts)**. The kit will be painted in **Mazda Racing Silver (Mica Code: 25D)** with **3M Matte Black wrap accents** on the roof and pillars.",
+    "**Work Meister S1 3P 17x9 +38 wheels** (ET38, 5x114.3 PCD) wrapped in **Michelin Pilot Sport Cup 2 (225/40/17 front, 245/40/17 rear)**. Fender flares will be rolled and pulled using a **Eastwood Pro Flaring Kit** to clear the wider tires without rubbing.",
+    "**Full interior overhaul** with **Recaro SRD (Evo IX-spec) seats** mounted on **Sparco Pro ADV rails**, **Momo Mod.78 steering wheel (350mm, suede)** with a **NRG quick-release hub**, and **Defi BF Advance gauges (oil pressure, boost, wideband)** mounted in a **custom carbon fiber A-pillar pod**. The rear seats will be replaced with a **custom aluminum storage tray** for the **Haltech ECU and wiring harness**."
+  ]
+}

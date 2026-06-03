@@ -1,0 +1,14 @@
+{
+  "brand": "MAZDA",
+  "model": "AXELA SPORT",
+  "prestazioni": [
+    "Engine: Skyactiv-G PY-VPS (2.5L naturally aspirated inline-4) with a custom-built Garrett GT3076R turbocharger (0.70 A/R turbine housing) paired with a Tomei 80mm titanium wastegate for precise boost control at 18 psi, supported by a PWR radiator and Setrab 50mm oil cooler to manage thermal loads under sustained high-RPM operation (redline extended to 7,800 RPM via ECU remap by VersaTune).",
+    "Drivetrain: OS Giken Super Lock LSD (2.2-way) with 4.11 final drive ratio in a Mazdaspeed 3-spec C66M-RS 6-speed manual transmission, reinforced with a Fidanza aluminum flywheel (10.5 lb) and South Bend Stage 3 Endurance clutch for aggressive launch control (0-60 mph in 4.8s).",
+    "Suspension: Ohlins Road & Track DFV coilovers (custom valved for the BK chassis) with 8kg/mm front and 9kg/mm rear springs, paired with Cusco front strut tower bar (22mm hollow) and Whiteline adjustable rear sway bar (24mm) to eliminate body roll during high-speed cornering (tested at Tsukuba Circuit with 1:12 lap times)."
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny V3 widebody kit (BK chassis-specific) with carbon fiber front splitter (35mm overhang) and rear diffuser (integrated dual 3-inch exhaust cutouts), paired with a Seibon carbon fiber hood (50% weight reduction over OEM) featuring a functional NACA duct for intercooler airflow.",
+    "Wheels: Work Emotion CR Kiwami (18x9.5 +30 front, 18x10.5 +35 rear) wrapped in Yokohama Advan A052 semi-slick tires (245/40/18 front, 275/35/18 rear) for maximum mechanical grip, finished with Muteki SR48 lug nuts (extended thread for aftermarket hubs).",
+    "Interior: Bride Zeta III bucket seats (FIA-approved) with Schroth 6-point harnesses, paired with a Nardi Classic 350mm steering wheel (suede) and Defi BF Advance gauges (oil temp, oil pressure, boost) mounted in a custom carbon fiber A-pillar pod (3D-printed to BK chassis specs)."
+  ]
+}

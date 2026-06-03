@@ -1,0 +1,14 @@
+{
+  "brand": "MAZDA",
+  "model": "AUTOZAM AZ-1",
+  "prestazioni": [
+    "Engine swap to a Suzuki-sourced **F6A turbocharged 657cc Kei-car engine** (from the Suzuki Cappuccino EA11R) with a **Garrett GT12 turbocharger** (GT1241Z) running 1.2 bar of boost, paired with a **HKS Super Power Flow Type-R exhaust manifold** and a **TODA Racing forged crankshaft** to handle the increased power output (target: 120 HP at the wheels).",
+    "Full **Tein Flex Z coilover suspension** with custom valving for the AZ-1’s **PP3BS chassis**, paired with **Cusco 22mm front and 20mm rear adjustable sway bars** to reduce body roll, and **Whiteline front camber plates** to optimize negative camber for aggressive cornering.",
+    "Custom **Mazdaspeed AZ-1-specific ECU reflash** (using **Haltech Elite 1000 standalone ECU**) with **AEM X-Series wideband O2 sensor** for precise AFR tuning, paired with a **Nismo 555cc/min high-flow fuel injectors** and a **Walbro 255 LPH in-tank fuel pump** to support the turbocharged F6A build."
+  ],
+  "estetica": [
+    "**Veilside Fortune 03 widebody kit** (modified to fit the AZ-1’s unique dimensions) with **custom carbon fiber overfenders** to house **Work Meister S1 3P 15x8 +38 wheels** wrapped in **Yokohama Advan Neova AD08R 195/50R15 tires** for maximum grip.",
+    "**Rocket Bunny AZ-1-specific front bumper** (3D-scanned and re-engineered for the AZ-1’s proportions) with **custom aluminum radiator support** to fit a **Koyorad aluminum radiator** and **SPAL 10-inch slim fans** for improved cooling under the turbo setup.",
+    "**Recaro SRD-II seats** (custom-molded to fit the AZ-1’s cabin) with **Takata Drift III 4-point harnesses**, paired with a **Nardi Classic 350mm steering wheel** and a **custom aluminum shift knob** (machined from billet) to match the AZ-1’s 5-speed manual transmission."
+  ]
+}

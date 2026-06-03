@@ -1,0 +1,14 @@
+{
+  "brand": "MASERATI",
+  "model": "ALFIERI",
+  "prestazioni": [
+    "Engine: F154 AM V8 (3.0L twin-turbo, 90° V8, 520hp stock) – Full forged internals upgrade with Manley I-beam connecting rods, JE Pistons 9.5:1 compression forged pistons, and ACL Race Series bearings for 800+ hp reliability on E85.",
+    "Turbocharger: Precision Turbo PT6266 CEA billet wheel turbo (62mm inducer, 66mm exducer) with TiAL MV-R 44mm wastegates and custom 3.5\" stainless steel downpipes (Maserati-specific flange design) to eliminate turbo lag on the F154 AM.",
+    "Fuel System: Full Motec M150 ECU standalone conversion with dual Bosch Motorsport 044 high-flow fuel pumps, Injector Dynamics ID1700x injectors, and a Radium Engineering dual catch can setup to manage crankcase pressure under extreme boost (30+ psi)."
+  ],
+  "estetica": [
+    "Aero: Novitec Tridente Maserati Alfieri-specific widebody kit (carbon fiber front splitter, side skirts, and rear diffuser) with a custom 3D-printed active rear wing (inspired by the MC20, adjustable via hydraulic actuators).",
+    "Wheels: HRE FF16 20x10.5\" front / 21x12.5\" rear forged wheels with custom offsets (ET35 front, ET25 rear) wrapped in Michelin Pilot Sport Cup 2 R tires (275/30/20 front, 325/25/21 rear).",
+    "Interior: Full Alcantara-wrapped Recaro SPG XL seats with custom Maserati Alfieri embroidery, a MOMO Mod.78 steering wheel (flat-bottom, Alcantara), and a digital dash upgrade using a RaceLogic VBOX Sport display integrated into the stock cluster."
+  ]
+}

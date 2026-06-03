@@ -1,0 +1,14 @@
+{
+  "brand": "MAZDA",
+  "model": "6 SEDAN",
+  "prestazioni": [
+    "Turbocharged 2.5L Skyactiv-G PY-VPS engine (Mazda's 88kW/L high-compression NA base) upgraded with a Garrett GTX3076R Gen II turbo (0.82 A/R, 62mm inducer) on a custom Precision Turbo & Engine manifold, supporting 350whp on E85 with a Cobb Accessport v3 Stage 2+ tune (targeting 22psi peak boost, 2800rpm spool, and 7,200rpm redline).",
+    "Full Mazdaspeed 6-derived drivetrain reinforcement: Cusco 1.5-way LSD (28-spline, 2.5L-specific), PTT 3.5-inch aluminum driveshaft, and South Bend Clutch Stage 3 Daily (organic/ceramic hybrid, 600ft-lb torque capacity) paired with a Fidanza 13lb aluminum flywheel for the 6-speed Skyactiv-MT transmission.",
+    "Ohlins Road & Track DFV coilovers (Mazda 6 GJ/GL-specific valving, 24-way rebound/18-way compression damping) with Eibach ERS 1000N/mm helper springs, Whiteline 27mm front/24mm rear adjustable sway bars (GJ-specific end links), and SuperPro 80-durometer polyurethane bushings (front control arms, subframe, and differential mounts) for chassis rigidity."
+  ],
+  "estetica": [
+    "Liberty Walk LB Works widebody conversion (GJ/GL-specific, 30mm front/40mm rear fender flares) with custom carbon fiber overfenders (1.5mm pre-preg, autoclave-cured) and a Rocket Bunny V2 rear diffuser (polyurethane, 3-piece bolt-on for GJ sedan).",
+    "Seibon Carbon fiber hood (GJ-specific, 30% weight reduction, dual NACA ducts for intercooler airflow) and trunk lid (with integrated duckbill spoiler, 50mm rise, 3M 1080 vinyl overlay in 'Mazda Soul Red Crystal' for UV protection).",
+    "Work Emotion CR Kiwami wheels (19x9.5 +30 front, 19x10.5 +35 rear, 5x114.3, 20mm spacers) wrapped in Michelin Pilot Sport Cup 2 R tires (255/35/19 front, 285/30/19 rear) with Brembo GT 6-piston front/4-piston rear calipers (355mm rotors, GJ-specific brackets) and Project Mu 999.9 compound brake pads."
+  ]
+}

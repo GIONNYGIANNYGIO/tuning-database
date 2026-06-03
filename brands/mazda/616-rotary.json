@@ -1,0 +1,14 @@
+{
+  "brand": "MAZDA",
+  "model": "616 ROTARY",
+  "prestazioni": [
+    "13B-REW (1.3L twin-rotor Wankel) engine rebuild with Mazdaspeed forged internals: 85mm apex seals (carbon-infused), 9.0:1 compression ratio, and balanced eccentric shaft for 10,000+ RPM stability. Pair with a Garrett GT2860RS turbo (0.64 A/R turbine housing) and custom 3-inch stainless steel downpipe with divorced wastegate setup (Tial 44mm MV-R) for 350+ HP on E85.",
+    "Haltech Elite 2500 ECU with custom 13B-REW rotary-specific fuel and ignition maps, including dual-stage launch control (3,500 RPM and 5,500 RPM) and anti-lag system (ALS) for turbo spool retention. Integrate with a Bosch 044 fuel pump (255 L/hr) and ID1000x injectors (1,000cc/min) for E85 compatibility.",
+    "Custom 4-1 equal-length stainless steel header (304-grade, 1.75-inch primaries) with ceramic coating (Jet-Hot 2000) and paired with a Tomei 3-inch titanium exhaust system (resonated mid-pipe, straight-through muffler). Suspension overhaul with Tein Flex Z coilovers (8kg/mm front, 6kg/mm rear springs) and Cusco 22mm front/18mm rear adjustable sway bars for rotary-specific weight transfer management."
+  ],
+  "estetica": [
+    "Rocket Bunny V1 widebody kit (616-specific, 3-piece front fenders, 2-piece rear quarter panels) with custom carbon fiber overfenders (15mm flares) and vented hood (13B-REW heat extraction). Painted in Mazda Classic Red (MZ-301) with matte black accents (Sikkens 9010).",
+    "Work Meister S1 3P 15x9.5 +15 (front) and 15x10.5 +25 (rear) wheels with 225/45R15 (front) and 255/40R15 (rear) Toyo R888R tires. Brake upgrade with DBA 4000 Series rotors (vented, 280mm front, 260mm rear) and Project Mu 999.9 pads (ceramic-metallic compound) for rotary-specific heat dissipation.",
+    "Interior stripped with Bride Zeta III reclinable bucket seats (fixed-back, FIA-approved) and Takata Drift II 4-point harnesses. Custom 6-point roll cage (TIG-welded 4130 chromoly) with integrated fire suppression system (Lifeline Zero 360, 3kg agent). Momo Prototipo steering wheel (350mm, suede) and Defi BF gauges (oil pressure, oil temp, boost) mounted on a custom carbon fiber A-pillar pod."
+  ]
+}

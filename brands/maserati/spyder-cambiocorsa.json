@@ -1,0 +1,14 @@
+{
+  "brand": "MASERATI",
+  "model": "SPYDER CAMBIOCORSA",
+  "prestazioni": [
+    "Engine: 4.2L F136 R V8 (4244cc, 90° DOHC, 32-valve) – Full forged internals upgrade with Carrillo H-beam connecting rods, JE Pistons 12.5:1 compression forged pistons, and ACL Race Series bearings for 8,500 RPM reliability. Pair with a custom billet crankshaft from Manley Performance to handle 600+ HP on 93 octane.",
+    "Forced Induction: Twin-turbo conversion using Garrett GTX3582R Gen II turbos (82mm compressor, 76mm turbine) with TiAL MV-R 44mm wastegates and custom 3.5\" stainless steel turbo manifolds by SMS Racing. Intercooled with a PWR 4.5-core front-mount intercooler (50% larger than OEM) and custom silicone charge pipes reinforced with Vibrant Performance 4-ply couplers.",
+    "Drivetrain & Handling: Quaife ATB helical LSD in the transaxle (Cambiocorsa F1 gearbox) paired with a Sachs Performance twin-disc clutch (360mm, 800Nm torque capacity). Suspension overhaul with Öhlins TTX46 coilovers (2-way adjustable, 800lb/in front, 600lb/in rear) and Eibach Pro-Street S anti-roll bars (28mm front, 24mm rear). Brembo GT 6-piston calipers (380mm rotors front, 355mm rear) with Ferodo DS2500 pads and Goodridge G-Stop braided stainless steel lines."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion using a Novitec Torado Spyder kit (custom-fitted for Cambiocorsa chassis), including extended front fenders (30mm per side), rear quarter panels (40mm per side), and a bespoke carbon fiber rear diffuser with integrated twin exhaust outlets. Front splitter and rear wing from RW Carbon (3-piece, adjustable angle).",
+    "Aero & Lighting: Custom 3D-printed active aero system (inspired by Ferrari 488 Pista) with a deployable rear spoiler (adjustable via ECU at 120+ km/h) and a front splitter with integrated canards (Vortex Generators). Lighting upgraded to LUX H8 V4 LED headlights with Osram Night Breaker Laser bulbs and sequential LED taillights (custom wiring harness by Diode Dynamics).",
+    "Interior: Full Alcantara retrim by Saddleback Leather, including dashboard, door cards, and custom Recaro SPG XL seats (carbon fiber shells, 6-point Schroth Profi II harnesses). Steering wheel replaced with a MOMO Mod.70 (350mm, suede, quick-release) and a custom digital dash from AIM MXS Strada (1.3\" display, CAN bus integration for turbo boost, oil temp, and AFR)."
+  ]
+}
