@@ -1,0 +1,14 @@
+{
+  "brand": "MAZDA",
+  "model": "CAROL TURBO",
+  "prestazioni": [
+    "Engine: Replace the stock *F5B* 546cc turbocharged inline-3 with a fully built *F5B-2* block featuring forged Mahle pistons (8.5:1 compression), Eagle H-beam connecting rods, and a billet crankshaft for 1.2L stroker capacity, supporting 300+ hp on E85.",
+    "Forced Induction: Swap the OEM IHI RHB5 turbo for a *Garrett GT2560R* with a .63 A/R turbine housing, paired with a *GReddy Type-S* front-mount intercooler (400x160x65mm core) and *HKS SSQV* blow-off valve to eliminate compressor surge under aggressive shifts.",
+    "Fuel & Ignition: Install a *Walbro 450 LPH* in-tank fuel pump with *ID1000* injectors, controlled via a *Haltech Elite 1500* ECU, and upgrade to *NGK IFR8G* iridium spark plugs gapped at 0.028\" for optimized E85 combustion."
+  ],
+  "estetica": [
+    "Body: Apply a *Tommy Kaira M20* widebody conversion kit (fiberglass fenders, custom front bumper with integrated *Seibon* carbon fiber splitter) to accommodate 17x8.5\" *Work Meister S1 3P* wheels with 225/40R17 tires.",
+    "Aero: Install a *C-West* bolt-on rear wing (25mm adjustable angle) and *Veilside* side skirts, paired with *JDM-spec* Mazdaspeed fog light deletes and a *Recaro SRD* carbon fiber hood (2.5kg weight reduction).",
+    "Interior: Replace the stock seats with *Bride Zeta III* fixed-back buckets (JDM-spec, 12kg lighter), add a *Nardi Classic* 350mm steering wheel with a *NRG* quick-release hub, and install a *Defi BF* triple-gauge pod (boost, oil temp, AFR) on the A-pillar."
+  ]
+}

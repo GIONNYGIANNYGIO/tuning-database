@@ -1,0 +1,14 @@
+{
+  "brand": "MAZDA",
+  "model": "KABURA",
+  "prestazioni": [
+    "Engine swap to a **Mazda MZR 2.3L DISI Turbo (L3-VDT)** from the Mazdaspeed6, retaining the Kabura's FWD layout but with a **Garrett GTX3071R Gen II turbo** (0.86 A/R, 62mm compressor inducer) and **CorkSport 3.5-inch stainless downpipe** with a **Tial MV-R 44mm external wastegate** for 350whp on **E85 fuel** with a **Haltech Elite 2500 ECU** managing a **Bosch 0280158001 1000cc/min port injection kit** alongside the stock direct injectors",
+    "Full **Mazdaspeed3 (BL chassis) rear subframe reinforcement** with **Cusco 2-way adjustable LSD** and **Mazdaspeed3 (BL) front knuckle arms** to handle torque steer, paired with **BC Racing BR coilovers (custom valving for Kabura's 5x114.3 bolt pattern)** and **SuperPro poly bushings (full kit, including rear trailing arm bushings)** for chassis rigidity",
+    "Custom **AEM 3.5bar MAP sensor** and **Innovate Motorsports MTX-L Plus wideband O2 controller** integrated into the **Haltech Elite 2500** for real-time AFR logging, with a **Mishimoto X-Line intercooler (custom core, 24x6x3.5 inches)** and **GReddy Profec B Spec II boost controller** for 22psi peak boost on **93 octane** (28psi on E85)"
+  ],
+  "estetica": [
+    "**Veilside Fortune 03 widebody kit (modified for Kabura's unique rear hatch)** with **custom carbon fiber overfenders** (hand-laid by **Seibon Carbon**) and **Rocket Bunny-style front canards** (3D-printed from **CarbonRev** prepreg carbon fiber)",
+    "**Mazdaspeed3 (BL) headlights (LED projectors, black housing)** with **Morimoto XB LED bulbs (5500K)** and **custom HID angel eyes (RGB, controlled via Arduino + Bluetooth)** integrated into the **OEM Kabura bumper (shaved turn signals, custom fog light delete)**",
+    "**Work Emotion CR Kiwami wheels (18x9.5 +25 front, 18x10.5 +30 rear, 5x114.3)** in **Gunmetal with polished lip**, wrapped in **Michelin Pilot Sport Cup 2 R tires (255/40/18 front, 275/35/18 rear)** and **custom center caps (laser-engraved Kabura logo)**"
+  ]
+}

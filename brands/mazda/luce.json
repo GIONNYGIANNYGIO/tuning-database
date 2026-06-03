@@ -1,0 +1,14 @@
+{
+  "brand": "MAZDA",
+  "model": "LUCE",
+  "prestazioni": [
+    "Engine swap to a 3.0L Mazda JE-ZE (V6, 24V, DOHC) with forged internals (JE30-ZE block, forged pistons from Tomei, H-beam connecting rods from Eagle, and a billet crankshaft from HKS) paired with a Garrett GTX4202R turbocharger (88mm compressor, 0.82 A/R turbine housing) and a custom 4-1 stainless steel exhaust manifold by Trust/GReddy, supporting 550+ hp on E85 fuel with a Haltech Elite 2500 ECU managing sequential fuel injection and ignition timing.",
+    "Full drivetrain reinforcement including a Quaife ATB helical LSD (part # QDF7J) for the JF-series 5-speed transmission, upgraded driveshafts from Driveshaft Shop (3.5\" aluminum with CV joints), and a twin-plate carbon clutch from OS Giken (Super Lock type, 800 Nm capacity) mated to a lightweight flywheel from Fidanza (aluminum, 11.5 lbs).",
+    "Suspension overhaul with Ohlins Road & Track DFV coilovers (custom valved for the Luce's HB chassis, 8-position adjustable compression/rebound), polyurethane bushings from Whiteline (front control arms, subframe, and sway bar mounts), and a full chassis reinforcement kit from Cusco (strut tower bars, floor braces, and a 4-point roll cage with integrated harness bar for track use)."
+  ],
+  "estetica": [
+    "Full Rocket Bunny PB-01 widebody kit (fiberglass fenders, custom front bumper with integrated canards, and a duckbill rear spoiler) paired with a custom carbon fiber hood (vented, 3-piece design by Seibon) and a set of Work Meister S1 3P wheels (18x9.5 +22 front, 18x10.5 +25 rear) wrapped in Toyo R888R tires (245/40/18 front, 275/35/18 rear).",
+    "Custom livery by AutoArt in a period-correct 1990s JGTC-inspired scheme (Mazdaspeed blue with white and red accents, matte black roof, and gold pinstriping) with OEM+ JDM-spec lighting (Hella DE headlights with custom projectors, LED taillights from Jun Auto, and a clear-lens rear fog light conversion).",
+    "Interior overhaul featuring Recaro SRD-E full bucket seats (JDM-spec, black Alcantara with red stitching), a Momo Prototipo steering wheel (350mm, suede, with a quick-release hub), a custom roll cage upholstered in Alcantara (matching the seats), and a full digital dash conversion using an Aim MXS Strada 1.2 (with CAN bus integration for the Haltech ECU)."
+  ]
+}

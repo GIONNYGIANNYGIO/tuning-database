@@ -1,0 +1,14 @@
+{
+  "brand": "MAYBACH",
+  "model": "57",
+  "prestazioni": [
+    "Engine: M285 5.5L V12 biturbo (engine code: M285 E55 AL) – full forged internals upgrade with Mahle Motorsport pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from Manley Performance to handle 1,200+ HP on E85. Twin Precision Turbo PT6870CE turbochargers with custom 3D-printed titanium compressor housings and Tial MV-R 60mm wastegates for precise boost control at 2.2 bar (32 psi).",
+    "Fuel System: Full Motec M150 ECU standalone management with dual Bosch Motorsport 044 high-flow fuel pumps, Injector Dynamics ID2600X injectors, and a custom billet fuel rail from Radium Engineering. Auxiliary water-methanol injection via Snow Performance Stage 3 kit with dual 5-gallon reservoirs for consistent intake cooling under extreme boost.",
+    "Drivetrain & Suspension: Reinforced ZF 6HP28A 6-speed automatic transmission with a Punch Powerglide billet torque converter (3,500 RPM stall) and a custom Quaife ATB differential. Full air suspension delete with KW Variant 5 coilovers (custom valving for Maybach chassis) and H&R 30mm front / 25mm rear sway bars. Brembo GT-R 6-piston calipers with 420mm carbon-ceramic rotors and Ferodo DS3000 brake pads for track-ready stopping power."
+  ],
+  "estetica": [
+    "Body: Full custom widebody conversion by Mansory (Maybach 57-specific kit) with carbon fiber fenders, front splitter, and rear diffuser. Custom 3D-printed titanium side skirts with integrated LED lighting and a one-off carbon fiber roof panel (replacing the OEM steel roof for weight reduction).",
+    "Aero: Active rear wing from TechArt (adjustable via hydraulic actuators) with a Gurney flap for downforce optimization. Custom front canards from Vorsteiner (Maybach 57-specific design) and a carbon fiber underbody diffuser with integrated exhaust outlets for the twin-turbo setup.",
+    "Interior & Lighting: Full Alcantara and carbon fiber retrim by Schedoni, including a custom roll cage (MIG-welded 4130 chromoly) with integrated fire suppression system. Digital dash upgrade via Motec C127 display with custom Maybach-themed gauges. Full LED lighting overhaul with Osram Night Breaker Laser bulbs and custom Hella Dynamic Curve headlights with adaptive laser high beams."
+  ]
+}

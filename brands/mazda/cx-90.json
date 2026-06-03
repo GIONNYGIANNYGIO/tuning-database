@@ -1,0 +1,14 @@
+{
+  "brand": "MAZDA",
+  "model": "CX-90",
+  "prestazioni": [
+    "Turbocharger upgrade to Garrett GTX4506R Gen II for the 3.3L e-Skyactiv-G T3-HYBRID (PY-VPH) inline-6 mild-hybrid engine, targeting 450whp with a 22psi boost ceiling on E85 fuel, paired with a custom BorgWarner EFR 8374 wastegate for precise boost control",
+    "Full fuel system overhaul featuring Injector Dynamics ID1700x injectors, Radium Engineering dual-catch can setup with -10AN lines, and a Walbro 450LPH in-tank pump with a surge tank to support the hybrid system's transient response under high load",
+    "Custom ECU calibration via Cobb Accessport with a bespoke tune by Mazdaspeed specialist 'Tuned by Nishio', optimizing the hybrid torque split (3.3L ICE + 48V MHEV) for linear power delivery, with launch control and flat-foot shifting mapped for the 8-speed Skyactiv-Drive automatic (FW6A-EL)"
+  ],
+  "estetica": [
+    "Liberty Walk LB-WORKS widebody kit for CX-90 (2024+), featuring carbon fiber fender flares with integrated LED turn signals, extended rocker panels, and a custom front splitter with canards for aggressive stance and aero balance",
+    "Ohlins Road & Track coilovers (CX-90-specific valving) with 30-way adjustable damping, Swift springs (10kg/mm front, 12kg/mm rear), and adjustable top mounts for a 1.5-inch drop while retaining adaptive damping compatibility with the factory Skyactiv-Vehicle Dynamics system",
+    "Custom 22-inch BBS CI-R III wheels in a staggered fitment (9.5x22 ET35 front, 10.5x22 ET40 rear) with Michelin Pilot Sport Cup 2 R tires (275/35R22 front, 295/30R22 rear), paired with AP Racing 6-piston front and 4-piston rear big brake kit with 400mm two-piece rotors for track-capable stopping power"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "MAZDA",
+  "model": "FURAI",
+  "prestazioni": [
+    "Replace the stock 3-rotor 20B-REW (2.0L x 3 rotors, 450hp) with a **Mazda Motorsports R26B 4-rotor** (2.6L x 4 rotors, dry-sump, 700hp+ with race fuel) paired with a **Garrett GT4202R turbocharger** (1.28 A/R, billet compressor wheel) and **Tomei 80mm titanium exhaust manifold** for optimized spool and flow.",
+    "Upgrade the **Ricardo 6-speed sequential transaxle** with a **Holinger RD6 sequential gearbox** (dog-ring engagement, 1000Nm torque capacity) and **Penske triple-adjustable differential** (ramp angles: 45/90, preload: 0-200Nm) for precise power delivery and endurance under extreme lateral G-forces.",
+    "Implement a **MoTeC M190 ECU** (full CAN bus integration, flex-fuel mapping, and traction control) with **AEM CD-7 dash logger** (120Hz data sampling) and **Bosch Motorsport MS28 high-pressure fuel pump** (1200cc/min flow rate) to support E85 fuel mixtures and 30psi boost levels."
+  ],
+  "estetica": [
+    "Install the **Veilside Fortune 03 widebody kit** (carbon fiber fenders, 50mm extended wheel arches) with **custom 3D-printed ABS undertrays** (venturi tunnels for -800kg downforce at 200mph) and **AeroCatch DRS-style rear wing** (dual-element, 1200mm span, adjustable angle via servo motor).",
+    "Apply **PPG Mazda Racing Silver (Code: 99M) with matte black accents** (vinyl-wrapped in **3M 2080 Gloss Black Satin**) and **custom laser-etched rotor housings** (visible through **BBS LM-R II 18x12 +35 wheels** with **Pirelli P Zero Trofeo R tires** in 335/30R18).",
+    "Replace the stock LED taillights with **Osram Night Breaker Laser headlights** (150% brighter, 5500K) and **custom CNC-machined aluminum side mirrors** (integrated **FLIR thermal cameras** for night racing) wrapped in **Sparco carbon fiber mirror caps**."
+  ]
+}

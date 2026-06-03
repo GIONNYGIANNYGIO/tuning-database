@@ -1,0 +1,14 @@
+{
+  "brand": "MAZDA",
+  "model": "CAPELLA ROTARY",
+  "prestazioni": [
+    "13B-REW (twin-rotor, 654cc x 2) engine rebuild with Mazdaspeed Group A-spec forged internals: 8.5:1 compression ratio, custom billet eccentric shaft by Ogura Racing Clutch, and apex seals upgraded to silicon nitride ceramic (Kyocera) for 1,200+ RPM redline stability. Pair with a Garrett GTX3582R turbo (0.82 A/R, 64mm compressor) on a custom T4 divorced manifold (Spoon Sports) with 304 stainless steel 3.5\" downpipe and GReddy Profec B Spec II boost controller targeting 1.5 bar (21.7 psi) peak boost.",
+    "Full sequential fuel system conversion: Injector Dynamics ID1700x (1,700cc) injectors fed by a Walbro 450 LPH in-tank pump, controlled via Haltech Elite 2500 ECU with custom 13B-REW ignition map (30° base timing, 45° total advance at 8,000 RPM) and dual AEM X-Series wideband O2 sensors for closed-loop AFR targeting 11.8:1 under boost. Oil cooling via Setrab 19-row core with Mocal thermostatic sandwich plate and Motul 300V 15W-50 full-synthetic oil.",
+    "Drivetrain reinforcement: OS Giken Super Lock LSD (2.1-way, 85% lockup) in a Mazdaspeed RX-7 FC3S-spec 8-bolt differential housing, paired with a PPG straight-cut 2.173 final drive ratio and custom 3.5\" carbon driveshaft (Driveshaft Shop). Clutch setup: Tilton 7.25\" triple-plate ceramic puck clutch (300 ft-lb torque capacity) with billet flywheel (Spec Stage 4+) and hydraulic release bearing (Wilwood master/slave cylinder kit)."
+  ],
+  "estetica": [
+    "Full Rocket Bunny Version 3 widebody kit (FC3S-spec) with custom carbon fiber overfenders (Seibon), front bumper lip (Veilside Fortune 03), and rear diffuser (Tommy Kaira M20). Paint: Mazda Classic Red (code 41V) with matte black (3M 1080 Wrap Film) roof, mirrors, and lower rocker panels. OEM+ badging: JDM-spec Capella Rotary emblems (Mazda Parts) and RE-Amemiya «RE» front fender badges.",
+    "Interior: Bride Zeta III bucket seats (red Alcantara with black carbon fiber shells) mounted on custom bolt-in FIA-spec roll cage (Custom Cages UK, 4-point harness bar with X-brace) and trimmed in Nappa leather (AutoLeather). Steering wheel: NRG Innovations 350mm deep-dish (suede) with quick-release hub. Gauges: Defi BF Advance (oil temp, oil pressure, boost) in a custom A-pillar pod (Perrin) and digital dash (AEM CD-7) replacing the stock cluster.",
+    "Lighting: Full LED conversion with Philips X-tremeUltinon Pro9000 (5,800K) headlights (H4 retrofit), Morimoto XB35 fog lights, and custom rear taillight setup (JDM-spec Capella Rotary LED clusters with sequential turn signals). Aero: Voltex Type-3 rear wing (30mm risers, 1,200mm width) with Gurney flap and custom aluminum side skirts (C-West) for 1.2:1 downforce balance at 160 km/h (100 mph)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "MAZDA",
+  "model": "CX-60 PHEV",
+  "prestazioni": [
+    "Engine-specific ECU remap for the *e-Skyactiv PHEV* (PY-VPH) 2.5L inline-4 hybrid powertrain, targeting a 20% increase in electric motor torque (from 200 Nm to 240 Nm) via *Cobb Accessport* custom Stage 1+ hybrid calibration, optimizing the *M-Hybrid Boost* system for 0-60 mph in 5.8s (stock: 6.4s) while maintaining battery longevity with *AEM EV VCU* integration for regenerative braking fine-tuning",
+    "Forced induction upgrade via *Garrett GT1549Z* turbocharger (hybrid-specific compressor map) paired with a *GReddy Type-S* front-mount intercooler (CX-60-specific core dimensions: 24.5\" x 12\" x 3.5\") and *HKS Hi-Power* blow-off valve (adapted for the PHEV’s unique intake tract), supporting 12 psi of boost with *Injector Dynamics ID1050x* fuel injectors and *Radium Engineering* fuel surge tank for consistent flow under lateral G-forces",
+    "Drivetrain reinforcement with *PPG* 8-speed automatic transmission fluid (P/N: 89017-2001) and *Peloquin* limited-slip differential (CX-60 AWD-specific, 3.73:1 final drive ratio) paired with *South Bend Clutch* Stage 3 organic hybrid disc (rated for 500 lb-ft torque) to handle the increased power delivery without drivetrain bind during electric-to-gas transitions"
+  ],
+  "estetica": [
+    "Full *Liberty Walk LB Works* widebody kit (CX-60-specific, 50mm rear fender flares) with *Seibon Carbon* hood (pre-preg autoclave, 30% weight reduction) and *Varis* front lip spoiler (CFRP, 2-piece design for easy removal during charging port access)",
+    "Suspension overhaul with *Öhlins Road & Track DFV* coilovers (CX-60-specific valving, 30-way adjustable compression/rebound) and *SuperPro* poly bushings (P/N: SPF1254K) for subframe reinforcement, paired with *Work Emotion CR Kiwami* 20x9.5\" ET35 wheels (110mm hub-centric, 5x114.3) wrapped in *Michelin Pilot Sport Cup 2* 265/40R20 tires for optimal turn-in response",
+    "Aerodynamic package featuring *Rocket Bunny* rear diffuser (CX-60-specific, 3-piece CFRP with integrated *AEM* air-to-water intercooler piping) and *Aeromotions* active rear wing (dual-element, 1,200mm span, 3D-printed aluminum uprights) with *Motec PDM15* programmable control for angle adjustment based on speed (0° at 30 mph, 12° at 80 mph) and *DEI* titanium exhaust wrap (P/N: 010125) for the *Borla Atak* hybrid-specific cat-back system (dual 4\" tips, 304 stainless steel)"
+  ]
+}

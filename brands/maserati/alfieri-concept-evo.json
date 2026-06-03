@@ -1,0 +1,14 @@
+{
+  "brand": "MASERATI",
+  "model": "ALFIERI CONCEPT EVO",
+  "prestazioni": [
+    "Engine: F160 3.0L twin-turbocharged V6 (F160 AM) with upgraded internals including forged Mahle pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from JE Pistons for 850+ HP reliability at 1.5 bar boost (stock turbo housings retained for spool characteristics).",
+    "Forced Induction: Hybrid turbo setup featuring Garrett GTX5533R Gen II turbos with titanium-aluminide turbine wheels, custom 0.82 A/R turbine housings by TurboSmart, and TiAL MV-R 44mm wastegates with V-band clamps for precise boost control (targeting 28-30 psi peak).",
+    "Fuel & Ignition: Full Motec M150 ECU with custom CAN bus integration for Maserati’s native torque vectoring, paired with a dual-pump fuel system (AEM 400LPH in-tank + external Walbro 450LPH) feeding ID1050x injectors. Ignition upgraded to MSD 8516 coils and NGK R8993-10 Iridium plugs gapped at 0.022\" for E85 compatibility."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon fiber body kit by Novitec Tridente, including a 3D-scanned front splitter with integrated dive planes (25% more downforce at 120 mph), rear diffuser with active Gurney flap (adjustable via cockpit switch), and a fixed carbon rear wing with dual-element design (modeled after Maserati’s MC20 GT3 aero).",
+    "Wheels & Brakes: HRE FF16 flow-formed wheels (20x10.5\" front, 21x12.5\" rear) in matte gold with custom offset (-15mm front, -5mm rear) to clear AP Racing 6-piston calipers (405mm CCM-R rotors front, 380mm rear) with titanium pistons and carbon-metallic pads (Pagid RS29).",
+    "Interior: Full Alcantara-wrapped Recaro SPG XL seats with 6-point Schroth Profi II harnesses, custom carbon fiber door cards with integrated Motec C127 dash display (replacing stock cluster), and a titanium roll cage by Matter Fab (FIA 8862-2018 certified) with integrated fire suppression system (Lifeline Zero 360)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "MAZDA",
+  "model": "CX-9 SIGNATURE",
+  "prestazioni": [
+    "Engine Code: **LF17 2.5L Turbo (Skyactiv-G PY-VPTS)** - Full **Garrett GTX3582R** turbocharger upgrade with billet compressor wheel, 63mm inducer, and 76mm exducer, paired with a **Tial MV-R 44mm** external wastegate (set to 22psi peak boost) and **Precision Turbo 46mm** anti-surge blow-off valve. Custom **MazdaSpeed Performance** intercooler core (4.5\" thick, 1000cfm airflow) with **VRSF** aluminum charge pipes and **TurboSmart** silicone couplers (4-ply, 4\" diameter).",
+    "**Cobb Tuning Accessport (CX-9 Signature-specific)** Stage 3+ ECU/TCU flash with **MazdaSpeed** custom dyno-tuned map (380whp/420wtq on **E85 blend**), including **AEM 3.5bar** MAP sensor, **Innovate Motorsports** wideband AFR (MTX-LS) for closed-loop fueling, and **Perrin** 3.5\" turbo-back exhaust with **Borla Atak** mufflers (resonated, 304 stainless steel).",
+    "**KW Suspension Clubsport 3-way** coilovers (CX-9-specific valving) with **Eibach** 25mm front/20mm rear sway bars, **SuperPro** polyurethane bushings (full kit), and **D2 Racing** 4-piston front/2-piston rear big brake kit (355mm rotors, **Ferodo DS2500** pads). **MazdaSpeed** LSD (2.5L Turbo-specific) with **OS Giken** 4.11 final drive ratio and **South Bend Clutch** Stage 3 twin-disc (ceramic/carbon, 600ft-lb torque capacity)."
+  ],
+  "estetica": [
+    "**Rocket Bunny V3** widebody kit (CX-9-specific, 3-piece overfenders, 2.5\" wider front/3\" wider rear) with **Seibon** carbon fiber hood (dual vented, 50% weight reduction) and **AIT Racing** carbon fiber rear diffuser (integrated **MazdaSpeed** dual-exit exhaust cutouts). **Vorsteiner** V-FF107 22\" forged wheels (9.5\" front/10.5\" rear, **Pirelli P Zero Trofeo R** 275/30R22 tires) with **H&R** 30mm spacers (hub-centric, 5x114.3).",
+    "**Vland** sequential LED taillights (CX-9-specific, **DRL-integrated**), **Morimoto** XB LED headlights (projector-style, **3000K** color temp), and **Lux H8** angel eyes with **Diode Dynamics** switchback turn signals. **Maxton Design** front bumper lip (carbon fiber, **3M 1080** satin black wrap) with **OEM+** gloss black grille (debadged, **MazdaSpeed** mesh insert).",
+    "**Recaro Sportster CS** front seats (CX-9-specific mounts, **Schroth** 4-point harnesses) with **NRG Innovations** bolt-in roll cage (6-point, **TIG-welded 4130 chromoly**), **MazdaSpeed** carbon fiber shift knob (short throw, **Perrin** weighted), and **AEM** X-Series digital dash (7\" touchscreen, **OBD-II** data logging, **Mazda CAN bus integration**)."
+  ]
+}
