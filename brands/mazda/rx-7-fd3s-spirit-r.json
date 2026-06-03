@@ -1,0 +1,14 @@
+{
+  "brand": "MAZDA",
+  "model": "RX-7 FD3S SPIRIT R",
+  "prestazioni": [
+    "13B-REW twin-rotor engine upgraded with a Garrett GTX4202R turbocharger (1.06 A/R turbine housing) and Precision Turbo 46mm wastegate for 550+ hp at 18 psi on E85 fuel, paired with a custom Pettit Racing billet aluminum intake manifold and ID1000 injectors",
+    "Full Tomei Powered EXPREME titanium exhaust system with 3.5-inch piping, 70mm Burns Stainless mufflers, and a custom 4-2-1 equal-length header setup for optimized scavenging on the 13B-REW's peripheral ports",
+    "Haltech Elite 2500 standalone ECU with custom 3D-mapped ignition timing (12° base at 8,000 RPM) and sequential fuel control, integrated with a Link G4+ CAN Lambda module for real-time AFR monitoring and a Turbosmart e-Boost2 controller for boost-by-gear mapping (1.0 bar in 1st-3rd, 1.2 bar in 4th-5th)"
+  ],
+  "estetica": [
+    "Veilside Fortune 03 widebody conversion kit with carbon fiber fenders, custom front bumper lip (modified to clear the GTX4202R turbo), and rear diffuser from Rocket Bunny's FD3S-specific aero package (Version 2)",
+    "Ohlins Road & Track coilovers with 8kg/mm front springs and 10kg/mm rear springs, adjustable camber plates (Cusco Type RS), and polyurethane bushings (Energy Suspension 9.5113G) for subframe reinforcement",
+    "RE Amemiya GT-II carbon fiber hood (25mm lower than OEM) with integrated NACA ducts feeding the Garrett intercooler, paired with a custom carbon fiber rear wing (1,200mm chord, 300mm height) from AutoTechnique, finished in Mazda Racing Spirit R-specific Montego Blue Mica (paint code 25V)"
+  ]
+}

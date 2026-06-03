@@ -1,0 +1,14 @@
+{
+  "brand": "MAZDA",
+  "model": "VERISA",
+  "prestazioni": [
+    "Forced induction conversion using a **Mazda LF-VE (1.5L DOHC 16V) engine** with a **Garrett GT2554R turbocharger**, paired with a **HKS Super SQV4 blow-off valve** and a **GReddy Profec B Spec II boost controller** to target 0.8 bar (11.6 psi) for a conservative yet responsive power increase (~180-200 PS). The stock internals are retained but reinforced with **Forgestar F14 17x7.5\" wheels** (ET45) to handle increased torque, while the fuel system is upgraded with **Walbro 255 LPH fuel pump** and **ID1000x injectors** for precise fuel delivery.",
+    "Custom **ECU remap via Cobb Accessport (Mazda LF-VE specific)** with a **custom tune by Power Enterprise Japan**, focusing on optimizing ignition timing (12-15° BTDC) and AFR (11.8:1 under boost) to prevent detonation while maximizing torque in the 3,000-5,000 RPM range. The stock **Mazda 5-speed manual transmission** is reinforced with a **PPG short-throw shifter** and **OS Giken Super Lock differential** to handle the increased power without axle snap.",
+    "Suspension overhaul using **Tein Flex Z coilovers (Verisa-specific valving)** with **Eibach Pro-Kit springs** for a 30mm drop, paired with **Cusco 22mm front sway bar** and **Whiteline rear sway bar (24mm)** to reduce body roll. Braking is upgraded with **Project Mu B-Spec 970 brake pads** and **DBA 5000 Series rotors** (280mm front, 260mm rear) for improved heat dissipation and fade resistance during spirited driving."
+  ],
+  "estetica": [
+    "**Rocket Bunny Verisa-specific widebody kit (Pandem)** with **custom front canards** and **carbon fiber rear diffuser** to accommodate the wider track (17x9.5\" wheels with ET35). The kit includes **overfenders with integrated vents** for brake cooling and a **custom rear wing (Voltex Type-3 replica, scaled for Verisa proportions)** to balance downforce at higher speeds.",
+    "**Full custom livery by AutoArt Japan**, featuring a **matte gunmetal base (3M 1080 series vinyl)** with **gloss black accents** and **neon green pinstriping** (inspired by the Mazda787B Le Mans livery). The interior is stripped and reupholstered with **Recaro SRD-E seats (Verisa-specific mounts)** in **black Alcantara with green stitching**, paired with a **Nardi Classic 350mm steering wheel** and **Defi BF gauges (boost, oil pressure, and wideband AFR)** mounted in a **custom A-pillar pod**.",
+    "**Lightweight carbon fiber components** including a **Seibon carbon fiber hood (Verisa-specific, 50% weight reduction)** and **Rays Gram Lights 57DR wheels (17x7.5\" front, 17x9.5\" rear, 4x100 PCD)** in **gunmetal finish with polished lips**. The rear bumper is modified with a **custom dual-exit exhaust (Sard M70 titanium tips)** and **LED taillight conversion (DAMD Verisa-specific, sequential turn signals)** for a modern JDM aesthetic."
+  ]
+}

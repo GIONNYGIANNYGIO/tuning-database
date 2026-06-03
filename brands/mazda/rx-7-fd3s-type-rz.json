@@ -1,0 +1,14 @@
+{
+  "brand": "MAZDA",
+  "model": "RX-7 FD3S TYPE RZ",
+  "prestazioni": [
+    "13B-REW twin-rotor engine: Full peripheral porting with Mazdaspeed Racing Beat Bridgeport intake manifold and custom 100mm throttle body for optimized airflow at 12,000+ RPM redline",
+    "Precision Turbo & Engine PT6766 CEA turbocharger (67mm inducer, 66mm exducer) with TiAL MV-R 44mm wastegate and custom 3.5\" stainless steel downpipe for 1.5 bar (21.7 psi) boost on 98 RON fuel",
+    "Haltech Elite 2500 ECU with custom 3D-mapped ignition timing (18-22° BTDC) and sequential fuel injection using ID1000x injectors, paired with a PFC FCON V-Pro airflow meter for precise rotor synchronization"
+  ],
+  "estetica": [
+    "Veilside Fortune 03 widebody conversion with custom carbon fiber overfenders (25mm extended flares) and custom 5-axis CNC-machined aluminum rear diffuser for 1,200kg downforce at 200km/h",
+    "RE Amemiya GT-II front bumper with integrated carbon fiber canards and custom 3D-printed ABS undertray for optimized airflow to the Mazdaspeed intercooler core (600x300x76mm)",
+    "Custom Bride Legalis II reclinable bucket seats (FRP shell, 12.5kg each) with Takata 6-point harnesses and custom FD3S-specific aluminum seat mounts for 30mm lower seating position"
+  ]
+}

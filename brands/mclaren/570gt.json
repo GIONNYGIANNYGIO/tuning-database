@@ -1,0 +1,14 @@
+{
+  "brand": "MCLAREN",
+  "model": "570GT",
+  "prestazioni": [
+    "M838TE 3.8L twin-turbo V8 engine: Full bolt-on turbo upgrade to a pair of Garrett GT35R turbos (8465-5003S) with billet compressor wheels, 0.82 A/R turbine housings, and upgraded wastegates for 850whp on 93 octane with a Motec M150 ECU reflash and custom fuel system (ID1000x injectors, Radium Engineering dual fuel pumps, and a Fore Innovations surge tank)",
+    "Chassis reinforcement with a Weldon Racing bolt-in roll cage (570GT-specific design) and a full carbon fiber torque tube upgrade (McLaren P1-derived) to handle increased power delivery without drivetrain flex",
+    "Suspension overhaul with Öhlins TTX40 MkII coilovers (570GT-specific valving), Eibach ERS race springs (25% stiffer front, 30% stiffer rear), and a custom McLaren-approved geometry alignment for track use (0.5° negative camber front, 1.2° rear, 3mm rear toe-out)"
+  ],
+  "estetica": [
+    "Liberty Walk LB-WORKS 570GT widebody kit (carbon fiber fenders, front/rear bumpers, and side skirts) with custom matte PPF wrap in 'Arancio Xanto' (Ferrari-derived hue) and exposed carbon weave on the roof and rear diffuser",
+    "Vorsteiner V-FF 107 20x9.5 +30 front / 21x12.5 +45 rear forged wheels in gloss black with titanium hardware, wrapped in Pirelli P Zero Trofeo R tires (245/30/20 front, 325/25/21 rear) for aggressive stance and track grip",
+    "Custom active aero package: McLaren 675LT-derived rear wing with Gurney flap (3D-printed carbon fiber, adjustable 0-20° angle) and a front splitter with integrated canards (APR Performance GT-250 design, 3D-scanned for 570GT fitment) for 300lbs of downforce at 120mph"
+  ]
+}

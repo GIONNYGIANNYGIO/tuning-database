@@ -1,0 +1,14 @@
+{
+  "brand": "MAZDA",
+  "model": "FURAI CONCEPT",
+  "prestazioni": [
+    "Replace the original 20B-REW 3-rotor Wankel engine (2.0L x 3 rotors, 450hp) with a bespoke **Mazda 13G Renesis-based 4-rotor** (2.6L x 4 rotors) built by **Freedom Racing Engines**, featuring **Mahle forged aluminum rotors**, **Nimonic 80A apex seals**, and **ARP custom billet main studs**, paired with a **Garrett GTX5533R turbocharger** (1.25 A/R turbine housing) and **Tial MV-R 60mm wastegate** for 850hp on **VP Racing Q16 118-octane fuel**",
+    "Install a **Penske 8760 3-way adjustable coilover suspension** with **Eibach ERS 1200N/mm springs** and **Spherical bearing top mounts** for track-focused geometry, alongside a **Mazdaspeed carbon fiber front strut tower brace** and **Cusco Type-RS 2.5-way LSD** for R20B transaxle reinforcement",
+    "Integrate a **Haltech Elite 2500 ECU** with **AEM X-Series wideband O2 sensors** and **Motec C125 dash logger**, calibrated for **14.7:1 AFR on idle**, **12.5:1 AFR at peak torque (6,500 RPM)**, and **11.8:1 AFR at redline (10,500 RPM)**, with **NGK R8482-10 Iridium IX spark plugs** and **MSD Digital 7AL-3 ignition amplifier** for precise combustion control"
+  ],
+  "estetica": [
+    "Apply a **custom **Liberty Walk LB-WORKS Furai-inspired widebody kit** with **carbon fiber fenders (120mm wider front, 150mm wider rear)**, **duckbill carbon fiber rear spoiler**, and **functional front splitter with integrated air curtains** for downforce optimization",
+    "Replace the OEM headlights with **Osram Night Breaker Laser HID bulbs** in **custom **Mazda RX-Vision Concept-inspired LED projector housings** by **VLand**, featuring **RGB DRL strips** controlled via **Philips Hue Sync** for dynamic lighting effects",
+    "Install **BBS LM-R 18x12 (front) and 19x13 (rear) forged wheels** with **Pirelli P Zero Trofeo R tires (285/35 R18 front, 335/30 R19 rear)**, wrapped in **custom **Rotary Revs** livery with **3M Matte Graphite vinyl** and **Avery Dennison Gloss Carbon Fiber accents** on the hood and roof"
+  ]
+}

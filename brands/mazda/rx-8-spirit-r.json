@@ -1,0 +1,14 @@
+{
+  "brand": "MAZDA",
+  "model": "RX-8 SPIRIT R",
+  "prestazioni": [
+    "13B-MSP (Renesis) rotary engine: Full peripheral porting by Mazdaspeed Japan with custom billet aluminum side housings (10mm extended eccentric shaft) and upgraded apex seals (99.99% pure silicon nitride ceramic) to handle 12,000 RPM redline and 300+ HP on 110-octane race fuel",
+    "Forced induction: Garrett GT35R turbocharger (82mm compressor wheel, .82 A/R turbine housing) with custom 3D-printed titanium exhaust manifold (equal-length 4-2-1 design) and GReddy Profec B Spec II boost controller (set to 1.2 bar peak pressure with 20psi spikes on gear shifts)",
+    "Drivetrain: OS Giken 6-speed sequential transmission (LSD with 4.10 final drive ratio) paired with a Tilton 7.25\" twin-disc carbon clutch (2,500 lb-ft torque capacity) and custom 3.5\" aluminum driveshaft with CV joints from a Mazda RX-7 FD3S Type RZ"
+  ],
+  "estetica": [
+    "Body: Veilside Fortune 03 widebody kit (carbon fiber front fenders, rear quarter panels, and rear diffuser) with custom Spirit R-specific front bumper lip (3D-scanned from original JDM moldings) and rear spoiler (Rocket Bunny V3 duckbill, 45mm adjustable angle)",
+    "Wheels: Work Meister S1 3P 18x9.5 +15 (front) and 18x10.5 +25 (rear) in custom 'Racing Beat Bronze' finish with Yokohama Advan A052 semi-slick tires (245/40/18 front, 275/35/18 rear) and Project Mu 6-piston front/4-piston rear brake calipers (356mm rotors, 2-piece floating design)",
+    "Interior: Bride Zeta III bucket seats (fixed-back, carbon fiber shell) with Takata 4-point harnesses, custom Spirit R-specific roll cage (TIG-welded 4130 chromoly, 6-point design with integrated harness bar) and MOMO Mod.78 steering wheel (350mm diameter, suede grip, quick-release hub)"
+  ]
+}

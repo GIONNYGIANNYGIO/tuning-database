@@ -1,0 +1,14 @@
+{
+  "brand": "MAZDA",
+  "model": "REPU",
+  "prestazioni": [
+    "12A-REW (13B rotary twin-rotor) engine rebuild with Racing Beat apex seals, Mazdaspeed ported housings, and a custom peripheral intake porting job for 300+ HP on VP Racing Q16 fuel with a Garrett GT2860RS turbo (0.64 A/R, 56 trim) and GReddy Type-S front-mount intercooler (2.5\" core, 24\"x6\"x3.5\")",
+    "Haltech Elite 2500 ECU with custom 12A-REW rotary-specific fuel and ignition maps, paired with a set of ID1000 injectors and a Walbro 450 LPH in-tank fuel pump, controlled via a Sard 3.5-bar fuel pressure regulator",
+    "Full drivetrain reinforcement: Mazda Competition 8.8\" limited-slip differential with 4.10:1 gearing, Fidanza 7.5\" lightweight flywheel, and a Tilton 7.25\" twin-disc clutch with billet pressure plate, mated to a Mazdaspeed close-ratio 5-speed transmission with Quaife sequential shift kit"
+  ],
+  "estetica": [
+    "Rocket Bunny V1 widebody kit (REPU-specific, 3-piece overfenders with 5\" flares) paired with a custom carbon fiber front splitter and a Mazdaspeed rear diffuser, all finished in BASF Glasurit 90-Line 'Sunlight Silver' with 3M Matte Black wrap accents",
+    "Work Meister S1 3P 15x8.5\" wheels (ET15, +30mm spacers) with 225/50R15 Toyo R888R tires, wrapped in custom red-pinstripe detailing and polished stainless steel valve stems with Mazda rotary-logo caps",
+    "Full interior overhaul: Bride Zeta III bucket seats (REPU-specific mounting brackets) with Takata 4-point harnesses, a Nardi Classic 380mm steering wheel (Mazda rotary horn button), and a custom aluminum gauge pod housing Defi BF gauges (oil temp, oil pressure, boost) and a digital AEM wideband controller"
+  ]
+}

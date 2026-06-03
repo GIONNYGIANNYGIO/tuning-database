@@ -1,0 +1,14 @@
+{
+  "brand": "MAZDA",
+  "model": "XEDOS 9",
+  "prestazioni": [
+    "KL-ZE (2.5L V6 24V) engine swap with forged internals: Manley 87mm forged pistons, Eagle H-beam connecting rods, and ACL Race Series bearings, paired with a Tomei 264°/260° camshaft kit for high-RPM power delivery (rev limit raised to 8,200 RPM via Apexi Power FC standalone ECU with custom KL-ZE maps).",
+    "Garrett GT3076R turbocharger (0.82 A/R turbine housing) with a custom 3-inch stainless steel exhaust system featuring a Burns Stainless 4-2-1 header and a GReddy Revolution RS 70mm cat-back, coupled with a HKS SSQV blow-off valve and a custom front-mount intercooler (GReddy Type-X, 22x12x3.5 inches) for sustained boost (1.2 bar peak).",
+    "KW Variant 3 coilovers (8-position adjustable rebound, 12-click compression damping) with custom spring rates (8kg/mm front, 9kg/mm rear) and Eibach 25mm front / 20mm rear anti-roll bars, paired with Cusco Type RS 2-way adjustable rear LSD and Project Mu B-Spec brake pads with DBA 5000 Series slotted rotors for track-ready stopping power."
+  ],
+  "estetica": [
+    "Vertex Lang II widebody kit (Xedos 9-specific, 30mm front / 40mm rear fender flares) with custom carbon fiber side skirts and a Seibon carbon fiber hood (functional dual NACA ducts for intercooler cooling).",
+    "Work Meister S1 3P 18x9.5 +38 front / 18x10.5 +45 rear wheels with Toyo R888R 245/40/18 and 275/35/18 tires, paired with custom polycarbonate rear quarter windows (replacing OEM glass for weight reduction).",
+    "Full custom JDM-inspired livery: Mazdaspeed Racing Stripes (matte black with red pinstripes) on the roof and hood, with a custom rear diffuser (Rocket Bunny-style, 3D-printed ABS) and a Mazdaspeed rear spoiler (carbon fiber, 80mm height) for aggressive aero balance."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "MCLAREN",
+  "model": "540C TRACK SPEC",
+  "prestazioni": [
+    "M838TE 3.8L twin-turbo V8 engine: Full Motec M150 ECU standalone conversion with custom 4000cc injectors (ID1000x equivalent) and a bespoke turbo upgrade to Garrett GTX4202R turbos (hybrid billet wheels, 62mm compressor, 76mm turbine) running 22 psi of boost on 100-octane fuel with a custom intercooler core (PWR 1000hp-spec) and titanium intake plenums (Novitec McLaren-specific)",
+    "Drivetrain: Quaife ATB differential with 40% lockup under power, paired with a Tilton triple-plate carbon clutch (7.25\" diameter) and a McLaren Motorsport-spec 7-speed SSG transmission with upgraded synchros (Xtrac internals) and a custom gear ratio set (1st: 3.166, 2nd: 2.050, 3rd: 1.481, 4th: 1.166, 5th: 0.916, 6th: 0.724, 7th: 0.615) for optimized track acceleration",
+    "Suspension & Chassis: Öhlins TTX40 MkII 3-way adjustable coilovers (250mm travel front, 220mm rear) with McLaren Motorsport-spec carbon fiber anti-roll bars (24mm front, 22mm rear), spherical bearing conversion (SuperPro) for all suspension arms, and a full polycarbonate rear subframe brace (McLaren P1-spec) to eliminate flex under lateral G-forces"
+  ],
+  "estetica": [
+    "Aero: Vorsteiner McLaren 570S GT4-spec carbon fiber widebody kit (front splitter, side skirts, rear diffuser, and GT3-style rear wing with 30mm adjustable Gurney flap) paired with a custom front canard setup (Rocket Bunny 540C-specific) for increased downforce (target: 800kg @ 180mph)",
+    "Exterior: Full 3M Matte Graphite vinyl wrap with custom McLaren Racing livery (inspired by 720S GT3) including carbon fiber mirror caps (Novitec), titanium exhaust tips (Akrapović), and a bespoke front grille delete (replaced with a carbon fiber mesh from Seibon)",
+    "Interior: Full carbon fiber weave interior (VIS Racing) including door cards, center console, and Alcantara-wrapped Recaro SPG XL seats (McLaren GT4-spec) with 6-point Schroth Profi II harnesses, a custom roll cage (Sparco Pro 2000, FIA-approved) painted in McLaren Papaya, and a Motec C127 dash display with integrated lap timer and G-force readouts"
+  ]
+}

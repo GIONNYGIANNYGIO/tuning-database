@@ -1,0 +1,14 @@
+{
+  "brand": "MAZDA",
+  "model": "VISION GT RACE SPEC",
+  "prestazioni": [
+    "Engine: Skyactiv-G 2.5T (PY-VPR) with forged internals (Manley 87mm forged pistons, Eagle H-beam connecting rods, and a billet crankshaft) paired with a Garrett GTX4202R turbocharger (0.82 A/R turbine housing) and a custom 4-ply silicone intake manifold from HKS, pushing 550whp on E85 fuel with a Motec M150 ECU managing a 28psi boost curve and individual throttle bodies (ITBs) from Tomei.",
+    "Drivetrain: OS Giken 4.11:1 Super Lock LSD with a carbon fiber driveshaft (PST) and a 6-speed sequential gearbox (Holinger RD6) with paddle shifters, reinforced with a Sachs twin-disc clutch and a lightweight flywheel (Spec Stage 4+).",
+    "Suspension & Chassis: Öhlins TTX40 3-way adjustable coilovers with custom valving for GT3-spec damping, paired with a full carbon fiber monocoque chassis reinforcement (Mazdaspeed Racing) and a polycarbonate rear diffuser (Rocket Bunny V3) for aerodynamic stability at 200+ mph."
+  ],
+  "estetica": [
+    "Exterior: Full carbon fiber body kit (Liberty Walk LB Works Vision GT spec) with a 3D-printed front splitter (AeroTech Designs) and a fixed rear wing (Voltex Type-5) with integrated DRS (Drag Reduction System) for high-speed stability, finished in Mazda Soul Red Crystal with matte black accents.",
+    "Interior: Full carbon fiber bucket seats (Sparco Pro 2000) with 6-point harnesses (Schroth Profi II) and a custom roll cage (Custom Cages UK) integrated with a digital dash (Aim MXS Strada) and a carbon fiber steering wheel (MOMO Mod.77) with paddle shifters.",
+    "Lighting: Full LED conversion with Osram Night Breaker Laser bulbs and a custom Hella 500FF front light bar, paired with a carbon fiber hood featuring a central NACA duct (Seibon Carbon) for optimized airflow to the intercooler."
+  ]
+}

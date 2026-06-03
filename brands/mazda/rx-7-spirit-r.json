@@ -1,0 +1,14 @@
+{
+  "brand": "MAZDA",
+  "model": "RX-7 SPIRIT R",
+  "prestazioni": [
+    "13B-REW twin-rotor engine: Full peripheral porting by Mazdaspeed with custom billet aluminum side housings (80mm eccentric shaft, 1.5mm apex seals) and a custom 3-rotor oil pump for 12,000 RPM reliability, paired with a Garrett GTX4202R turbocharger (1.05 A/R turbine housing, 64mm billet compressor wheel) and a Tomei 80mm titanium wastegate for 1.5 bar of boost on E85 fuel.",
+    "Custom 4-into-1 stainless steel equal-length exhaust manifold by Racing Beat with 3-inch diameter piping, terminating in a HKS Hi-Power SP exhaust system (dual 100mm titanium tips) and a GReddy Profec B Spec II boost controller for precise spool management.",
+    "Haltech Elite 2500 standalone ECU with custom 13B-REW-specific fuel and ignition maps, integrated with a Link G4+ CAN Lambda controller and dual Bosch 0280158002 1000cc/min fuel injectors, supported by a Radium Engineering dual-catch can system and a Setrab 50-row oil cooler with AN-10 fittings."
+  ],
+  "estetica": [
+    "Veilside Fortune 03 widebody conversion kit (carbon fiber front fenders, rear quarter panels, and rear bumper) with custom 3M Matte Graphite vinyl over the entire body, including the roof, for a seamless finish.",
+    "RE Amemiya GT-II carbon fiber front lip, side skirts, and rear diffuser, paired with a custom carbon fiber hood featuring a 3-inch cowl scoop for direct intercooler airflow, all painted in Mazda Racing Silver (46G).",
+    "OEM Spirit R-specific interior with Bride Gias II carbon fiber bucket seats (fixed-back, 30mm lower than stock), a Nardi Classic 380mm steering wheel (suede-wrapped, 3-spoke), and a custom roll cage by AutoPower (8-point, chromoly, with integrated harness bar) finished in Mazda Racing Red (45P) powder coat."
+  ]
+}

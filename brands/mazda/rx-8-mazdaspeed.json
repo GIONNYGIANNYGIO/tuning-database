@@ -1,0 +1,14 @@
+{
+  "brand": "MAZDA",
+  "model": "RX-8 MAZDASPEED",
+  "prestazioni": [
+    "Engine: 13B-MSP (RENESIS) twin-rotor Wankel with Mazdaspeed-specific porting (125mm peripheral intake ports, 1mm oversized exhaust ports) and custom billet aluminum side seals by Rotary Aviation for 12,000 RPM stability and 300+ HP on E85 fuel with a Garrett GT35R turbo (0.82 A/R, 62mm compressor inducer) on a custom tubular manifold by Racing Beat, paired with a Tial MV-R 44mm external wastegate and GReddy Profec B Spec II boost controller for 18 PSI peak boost",
+    "Drivetrain: OS Giken Super Lock LSD (2.5-way, 45% preload) in a Mazdaspeed-spec RX-8 transmission (6-speed, reinforced synchros) with a Sachs Performance twin-disc clutch (240mm, 6-puck cerametallic) and a Fidanza lightweight flywheel (8.5 lbs) for rapid rev matching and launch control via Cobb Accessport V3 with custom Mazdaspeed Stage 3+ ROM (ignition timing mapped for 11.5:1 effective compression on E85, fuel pressure raised to 5.5 bar via Walbro 450 LPH in-tank pump and Aeromotive FPR)",
+    "Suspension/Handling: Ohlins Road & Track DFV coilovers (22-way adjustable damping, 30-way rebound, 10kg/mm front/8kg/mm rear springs) with Mazdaspeed-specific camber plates (-3.5° front, -2.8° rear) and Cusco front/rear sway bars (24mm front, 22mm rear, 3-way adjustable), paired with Whiteline front/rear subframe bushings (polyurethane, 95A durometer) and Racing Beat front strut tower bar (3-point, 1.5\" diameter steel tubing) for chassis rigidity under 1.2G lateral loads"
+  ],
+  "estetica": [
+    "Aero: Veilside Fortune 3 widebody conversion (carbon fiber front fenders, rear quarter panels, and rear bumper with integrated diffuser) with a custom 3D-printed front splitter by Rocket Bunny (50mm overhang, 30mm canards) and a Mazdaspeed-specific GT wing (carbon fiber, 1,800mm span, 300mm chord, 30° angle of attack) mounted on custom aluminum pedestals by Seibon Carbon",
+    "Exterior: Full custom paint by BASF Glasurit (Mazdaspeed-exclusive \"Velocity Red Mica\" with 20% pearl flake) with a matte black roof wrap (3M 1080 series, satin finish) and Mazdaspeed-branded carbon fiber side mirrors (Seibon, with integrated LED turn signals), paired with Work Emotion CR Kiwami wheels (18x9.5 +30 front, 18x10.5 +35 rear) in Hyper Silver with Toyo R888R tires (255/40/18 front, 285/35/18 rear)",
+    "Interior: Full Recaro Pole Position II seats (carbon fiber backs, Alcantara/leather upholstery with red stitching) mounted on custom Bride seat rails (-30mm drop) with a Mazdaspeed-specific roll cage (6-point, TIG-welded 4130 chromoly, integrated harness bar) by Custom Cages, paired with a Nardi Classic steering wheel (350mm, suede, 6-bolt pattern) and a Mazdaspeed-branded shift knob (aluminum, short throw, 150g weight) on a Cusco short shifter (70mm throw reduction)"
+  ]
+}

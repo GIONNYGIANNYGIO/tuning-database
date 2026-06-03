@@ -1,0 +1,14 @@
+{
+  "brand": "MAZDA",
+  "model": "RX-7 SA22C",
+  "prestazioni": [
+    "12A-REW (13B predecessor) rotary engine rebuild with Racing Beat apex seals (94mm x 70mm rotor dimensions), ported housings for 3mm peripheral intake and 2mm exhaust ports, and a custom billet aluminum eccentric shaft by Mazdatrix for 1.5mm increased stroke (71.5mm) to achieve 1.4L equivalent displacement",
+    "Garrett GT2860RS-5 turbocharger (0.64 A/R turbine housing, 52 trim compressor wheel) with custom 3-inch stainless steel equal-length tubular exhaust manifold by Rotary Aviation, paired with a GReddy Type-S 45mm external wastegate and 3.5-inch titanium exhaust system with Burns Merge Collector",
+    "Haltech Elite 2500 ECU with custom 12A-REW rotary-specific firmware, integrated with a Link G4+ knock control module, dual AEM 30-2012 wideband O2 sensors, and a custom 12-channel sequential fuel injection system using ID1000x injectors and a Radium Engineering dual fuel pump hanger for E85 compatibility"
+  ],
+  "estetica": [
+    "Veilside Fortune 03 widebody conversion kit with custom carbon fiber overfenders (2.5-inch front, 3-inch rear flares) and custom aluminum inner fender liners by Autoexe for 9.5x15 +35 front and 11x15 +15 rear wheel fitment",
+    "Custom hand-formed aluminum front bumper with integrated 3D-printed carbon fiber splitter (20mm adjustable) and dual 80mm aluminum brake cooling ducts by Garage Mak, paired with a custom aluminum rear diffuser and dual 100mm carbon fiber exhaust outlets by Rocket Bunny",
+    "Full custom interior with Bride Zeta III bucket seats (SA22C-specific mounting brackets), custom aluminum door cards with carbon fiber inserts, and a custom 6-point roll cage by Hard Dog Motorsport with integrated fire suppression system (Sparco Pro 2000) and custom aluminum pedal box by Tilton"
+  ]
+}

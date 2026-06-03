@@ -1,0 +1,14 @@
+{
+  "brand": "McLaren",
+  "model": "12C GT3",
+  "prestazioni": [
+    "Engine: M838T 3.8L twin-turbocharged V8 (GT3-spec, stroked to 4.0L with a forged crankshaft from **Pankl Racing Systems** and **Mahle Motorsport** forged pistons, achieving 600+ hp at 8,500 RPM with a 9,000 RPM redline, paired with a **Xtrac P1159 6-speed sequential gearbox** featuring a **AP Racing carbon-carbon clutch** and **WRC-spec limited-slip differential**)",
+    "Forced Induction: **Garrett GT35R turbos** (GT3-spec, 1.25 A/R turbine housings, ball-bearing center cartridges) with **Tial MV-R 44mm wastegates** and **TurboSmart Race Port BOV**, fed by **PWR Racing radiators** and **Setrab oil coolers**, with a **Motec M150 ECU** managing **Bosch Motorsport 2000cc/min injectors** and **NGK R8482-10 spark plugs**",
+    "Suspension & Chassis: **Öhlins TTX46 MkII 3-way adjustable dampers** (GT3-spec, 25mm ride height adjustability) with **Eibach Motorsport 4-way adjustable anti-roll bars**, **PFC carbon-ceramic brake rotors (390mm front, 380mm rear)** clamped by **Brembo GT3 6-piston monobloc calipers**, and **Michelin Pilot Sport Cup 2 R tires (30/65-18 front, 31/71-18 rear)** on **Dymag carbon-fiber wheels (18x12 front, 18x13 rear)**"
+  ],
+  "estetica": [
+    "Aerodynamics: **McLaren GT3 factory carbon-fiber aero package** (front splitter with **Gurney flap**, **fixed rear wing with 3-position adjustability**, and **underbody diffuser with vortex generators**), reinforced with **AIM Composites** pre-preg carbon weave for weight reduction (sub-1,200 kg dry)",
+    "Bodywork: **Seibon Carbon GT3-widebody kit** (custom-molded to FIA GT3 regulations, featuring **quick-release carbon doors**, **polycarbonate side windows**, and **carbon-fiber rear bumper with integrated tow hooks**), finished in **3M 1080 Matte Graphite vinyl wrap** with **PPF (XPEL Ultimate Plus) on high-impact zones**",
+    "Interior: **Sparco GT3 Pro Advance seats** (FIA 8862-2009 certified, with **Schroth 6-point harnesses**), **Alcantara-wrapped MOMO GT3 steering wheel** (quick-release hub), **Motec C127 dash logger** (integrated with **AIM Solo 2 DL GPS lap timer**), and **custom titanium roll cage** (TIG-welded by **Custom Cages UK**, with **Schroth harness bars**)"
+  ]
+}

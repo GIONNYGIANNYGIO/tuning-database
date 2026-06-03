@@ -1,0 +1,14 @@
+{
+  "brand": "MAZDA",
+  "model": "SAVANNA GT",
+  "prestazioni": [
+    "13B-REW (twin-rotor Wankel) engine ported to Mazdaspeed Group B specifications with 1.3mm apex seal upgrades (Carbonapex) and custom billet eccentric shaft (Ogura Racing) for 350+ hp at 9,500 RPM on VP Racing Q16 fuel",
+    "Garrett GT35R turbocharger with 0.86 A/R turbine housing, TiAL MV-R 44mm wastegate, and custom 3.5\" stainless steel intercooler piping (GReddy Type-RS) with integrated water-methanol injection (Snow Performance Stage 3 kit)",
+    "Haltech Elite 2500 ECU with custom 13B-REW ignition map (developed by Rotary Aviation) paired with AEM X-Series wideband O2 sensors and HKS 2618 forged pistons (8.5:1 compression) for sustained boost levels of 18 psi"
+  ],
+  "estetica": [
+    "Rocket Bunny Savanna GT-specific widebody kit (Pandem V2) with carbon fiber overfenders, custom 3D-printed front splitter (AeroCatch mounts), and rear diffuser (Voltex Type-3) for -120kg downforce at 160 km/h",
+    "RE Amemiya GT-II 17x9.5\" +25mm offset wheels (bronze finish) wrapped in Yokohama Advan A052 245/40R17 tires, paired with custom polycarbonate side windows (Sparco Lexan) and rear quarter glass delete (JDM-style)",
+    "Custom livery by Signal Auto (Tokyo) featuring hand-painted \"Savanna GT\" script in Mazda Typeface (1980s Group B style), carbon fiber hood (Seibon CF) with functional NACA ducts, and LED taillight conversion (Tomita Auto LED)"
+  ]
+}

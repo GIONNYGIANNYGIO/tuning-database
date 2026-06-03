@@ -1,0 +1,14 @@
+{
+  "brand": "MAZDA",
+  "model": "929 S",
+  "prestazioni": [
+    "Engine swap to a **Mazda JE-ZE (3.0L V6 DOHC 24V)** from the 1991-1995 Mazda Sentia/Eunos 800, retaining the original **R134 transmission** but reinforcing it with a **PPG Gearset (Stage 2)** and a **South Bend Clutch (Stage 3 Daily)** for 400+ lb-ft torque capacity. The JE-ZE receives a **Garrett GT3582R turbo (0.82 A/R, 62mm inducer)** with a **Tial MV-R 44mm wastegate** and **Precision Turbo 46mm external wastegate dump tube** for precise boost control at 18-20 psi.",
+    "Full **custom 3.5-inch stainless steel exhaust system** by **HKS Hi-Power** with **Burns Stainless 4-2-1 headers (1.75-inch primaries, 3-inch collectors)** and a **MagnaFlow 304 stainless steel muffler (3.5-inch inlet/outlet)** for optimized scavenging. The intake is replaced with a **K&N 63-3075 (7-inch conical filter)** paired with a **custom 3-inch aluminum cold-air intake tube** and **MazdaSpeed intercooler (front-mount, 24x12x3.5-inch core)** for IAT reduction.",
+    "Standalone **Haltech Elite 2500 ECU** with **AEM X-Series wideband O2 sensor (30-0334)** and **Mazda JE-ZE-specific fuel system upgrade**, including **Walbro 450 LPH in-tank fuel pump**, **ID1000x injectors (1000cc/min)**, and **Radium Engineering fuel pressure regulator (FPR-1)**. Suspension is overhauled with **Ohlins Road & Track DFV coilovers (929-specific valving)**, **Cusco 22mm front sway bar (adjustable)**, and **Whiteline rear sway bar (20mm)** for reduced body roll."
+  ],
+  "estetica": [
+    "**Rocket Bunny V1 (Pandem) widebody kit** for the 929 S, modified to fit the **JE-ZE swap** with **custom carbon fiber fender flares (3M 1080 vinyl overlay in matte gunmetal)**. Front bumper is replaced with a **Seibon Carbon Fiber lip spoiler** and **custom aluminum mesh grille (black anodized)**. Rear diffuser is a **custom 3D-printed ABS unit** with **dual 3.5-inch titanium exhaust tips (Burns Stainless)**.",
+    "**Work Meister S1 3P wheels (17x9 +25 front, 17x10 +30 rear)** in **gunmetal finish**, wrapped in **Michelin Pilot Sport Cup 2 (245/40/17 front, 275/35/17 rear)**. Brake system upgraded to **Brembo GT 6-piston calipers (355mm rotors front, 330mm rear)** with **Ferodo DS2500 pads** and **Goodridge G-Stop braided stainless steel lines**.",
+    "**Full interior overhaul** with **Recaro SRD-E (929-specific mounting brackets)** in **black Alcantara with red stitching**, **Momo Prototipo steering wheel (350mm, suede)**, and **NRG quick-release hub**. Dashboard is repainted in **Mazda Racing Silver (MZ-10)** with **custom carbon fiber gauge pods (AEM X-Series 30-0300 boost gauge, 30-5131 AFR gauge)**. Roll cage is a **custom 8-point chromoly unit by Custom Cages UK** with **bolt-in harness bar** for track use."
+  ]
+}

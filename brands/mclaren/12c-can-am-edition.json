@@ -1,0 +1,14 @@
+{
+  "brand": "MCLAREN",
+  "model": "12C CAN-AM EDITION",
+  "prestazioni": [
+    "M838T 3.8L twin-turbo V8: Replace stock turbos with Garrett GT35R 84mm billet wheel units (1.25 bar peak boost) paired with custom 4-ply silicone charge pipes (V-band clamps) and a PTP titanium intercooler core (1200hp-capable, 30% lower IATs than OEM)",
+    "Full Motec M150 ECU standalone conversion with CAN-AM-specific fuel mapping (E85 flex-fuel, 1000cc ID1000 injectors, Walbro 450LPH dual-pump setup) and traction control recalibration for 0-60mph in 2.3s on drag radials",
+    "AP Racing CP8450 6-piston front/4-piston rear big brake kit (380mm front rotors, 360mm rear) with Ferodo DS3000 pads and stainless steel braided lines, paired with a Tilton 75-series hydraulic handbrake for Scandinavian flick initiation"
+  ],
+  "estetica": [
+    "RML Group Can-Am Heritage livery kit (carbon-fiber widebody conversion with integrated NACA ducts for rear brake cooling, 3M Scotchcal matte vinyl wrap in Gulf Oil #105C blue/orange split with period-correct Can-Am race numbers)",
+    "Vorsteiner V-FF107 20-inch forged wheels (front: 9.5x20 ET30, rear: 12x20 ET40) wrapped in Michelin Pilot Sport Cup 2 R tires (245/35 front, 305/30 rear) with custom center-lock adapters for McLaren OEM nuts",
+    "Seibon Carbon fiber GT3-style rear wing (1.8m span, 300mm chord) with integrated Gurney flap and adjustable angle of attack (0-15 degrees) via billet aluminum mounts, paired with a custom 3D-printed front splitter (carbon-Kevlar hybrid) featuring active aero flaps controlled by the Motec ECU"
+  ]
+}

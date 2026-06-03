@@ -1,0 +1,14 @@
+{
+  "brand": "MCLAREN",
+  "model": "540C COUPE",
+  "prestazioni": [
+    "M838TE 3.8L twin-turbo V8 engine: Replace the stock turbos with Garrett GT35R 84mm billet wheel units, paired with a custom 4-inch titanium downpipe system from Armytrix for reduced backpressure and optimized spool characteristics (targeting 680whp on 93 octane with a supporting fuel system upgrade).",
+    "Install a McLaren-specific Motec M150 ECU with a bespoke calibration by RS Tuning (UK), focusing on aggressive ignition timing maps (up to 22° BTDC) and a custom lambda target of 0.82 for high-load conditions, while retaining McLaren’s proprietary torque vectoring logic.",
+    "Upgrade the stock clutch assembly with a Tilton 7.25-inch triple-plate carbon-carbon unit (rated for 1,200 Nm) and a Sachs dual-mass flywheel conversion, paired with a McLaren 650S-spec limited-slip differential to handle increased torque without drivetrain bind."
+  ],
+  "estetica": [
+    "Fit a Liberty Walk LB-WORKS widebody kit (540C-specific, not the 650S variant) with custom carbon fiber overfenders, paired with a Vorsteiner V-FF 107 20-inch forged wheel set (9.5J front, 11.5J rear) in a staggered setup with Michelin Pilot Sport Cup 2 tires (245/35 R20 front, 305/30 R20 rear).",
+    "Install a McLaren P1-spec front splitter with an integrated active aero system (controlled via the Motec ECU) and a custom carbon fiber rear diffuser from Novitec, featuring integrated titanium exhaust outlets for the Armytrix system.",
+    "Replace the stock interior with a full Alcantara retrim by Saddleback Leather, including a custom roll cage (MCS Motorsport 6-point bolt-in, T45 steel) wrapped in Alcantara, and a bespoke digital dash overlay by AIM MXS Strada with McLaren-specific CAN bus integration for real-time turbo/boost data."
+  ]
+}

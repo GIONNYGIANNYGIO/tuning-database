@@ -1,0 +1,14 @@
+{
+  "brand": "MCLAREN",
+  "model": "12C GT SPRINT",
+  "prestazioni": [
+    "M838T 3.8L twin-turbo V8: Replace stock turbos with Garrett GT35R 84mm billet wheel units (1.05 A/R turbine, 0.82 A/R compressor) paired with custom 3D-printed titanium compressor housings to reduce inertia by 22%. Target 850whp on E85 with Motec M150 ECU recalibration for 28psi peak boost, utilizing a bespoke fuel system with twin Radium Engineering dual-pump hangers and ID1000x injectors.",
+    "Chassis reinforcement via McLaren Special Operations (MSO) carbon-fiber torque tube upgrade (part #700-0600-01) to eliminate flex under high-load launches, combined with a Wavetrac ATB differential (M838T-specific) with 45% lockup under power for optimized track exit traction.",
+    "Suspension overhaul with Öhlins TTX40 MkII 3-way adjustable coilovers (12C GT Sprint-specific valving) and McLaren-approved spherical bearing upper control arms (part #700-0300-12) for camber gain under compression. Ride height set to 65mm front/70mm rear with 3.5° front camber and 2.8° rear for optimal Pirelli P Zero Trofeo R tire wear."
+  ],
+  "estetica": [
+    "MSO Carbon Series GT3-inspired front splitter (part #700-0500-03) with integrated dive planes and 3D-printed ABS endplates for 18% more front downforce at 120mph. Painted in McLaren 'Ventura Orange' with matte carbon weave center section.",
+    "Rear wing upgrade to a Vorsteiner V-FF 101 GT3-spec carbon-fiber wing (12C-specific mounting points) with adjustable angle of attack (0° to +12°) and integrated Gurney flap. Finished in raw carbon with 'GT Sprint' laser-etched into the endplates.",
+    "Custom 3-piece OZ Racing Ultraleggera HLT wheels (19x9.5 +30 front, 20x12 +40 rear) wrapped in Pirelli P Zero Trofeo R tires (245/35 R19 front, 325/30 R20 rear). Wheels feature McLaren 'Speedmark' laser-etched into the spokes and are finished in 'Satin Graphite' with polished lip."
+  ]
+}

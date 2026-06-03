@@ -1,0 +1,14 @@
+{
+  "brand": "MAZDA",
+  "model": "SAVANNA RX-7",
+  "prestazioni": [
+    "13B-REW (twin-rotor Wankel, 654cc x 2) engine rebuild with Mazdaspeed Group A-spec porting, 10.5:1 apex seal compression, and custom billet eccentric shafts by Rotary Aviation for 1,200+ hp reliability on VP Racing Q16 fuel",
+    "Garrett GTX5533R turbocharger (88mm inducer, 1.15 A/R turbine housing) with TiAL MV-R 60mm wastegate and custom 4-inch stainless steel downpipe by Racing Beat, paired with a GReddy Profec B Spec II boost controller for 2.2 bar peak pressure",
+    "Haltech Elite 2500 ECU with custom 13B-REW-specific fuel and ignition maps, integrated with a Link G4+ Monsoon for sequential twin-injector control (primary: ID1700x, secondary: ID2000cc) and dual Bosch 044 fuel pumps with Aeromotive FPR"
+  ],
+  "estetica": [
+    "Veilside Fortune 03 widebody conversion with carbon fiber overfenders (front: +3.5\", rear: +4.2\"), custom aluminum inner fender liners, and custom 5-axis CNC-machined aluminum rear diffuser by Rocket Bunny (PB-FC3S kit)",
+    "Custom 19x10.5\" (front) and 19x12\" (rear) Work Meister S1 3P wheels with 245/35R19 and 295/30R19 Yokohama Advan A052 tires, mounted on custom 5x114.3 to 4x114.3 adapters with extended wheel studs by 5Zigen",
+    "Full carbon fiber interior by Auto Salon Craft, including custom Recaro SPG XL seats with Schroth 6-point harnesses, carbon fiber door cards, and a custom 13B-specific digital dash by AIM MXS Strada with rotary-specific AFR and EGT logging"
+  ]
+}

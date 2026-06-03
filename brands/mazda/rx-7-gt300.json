@@ -1,0 +1,14 @@
+{
+  "brand": "MAZDA",
+  "model": "RX-7 GT300",
+  "prestazioni": [
+    "13B-REW twin-rotor engine with a custom-built Garrett GTX4202R turbocharger (84mm billet compressor wheel, 76mm turbine, 1.15 A/R turbine housing) paired with a Tomei 3.5-inch titanium exhaust manifold and custom 4-inch downpipe featuring a dual wastegate setup (Tial MV-R 44mm external wastegates) for precise boost control at 2.2 bar (32 psi) peak pressure",
+    "Full standalone Haltech Elite 2500 ECU with custom GT300-spec fuel and ignition maps, integrated with a Plex Knock Monitor SX for real-time detonation control, and a Radium Engineering dual fuel pump hanger supporting dual Bosch Motorsport 044 fuel pumps with -8AN lines and ID1000x injectors (side-feed) for E85 compatibility",
+    "Custom billet aluminum dry sump system by Dailey Engineering (4-stage pump, 8-quart tank) with an integrated C&R Racing triple-pass oil cooler (19-row, -10AN fittings) and a custom baffled oil pan designed for sustained 8,500 RPM operation, paired with Motul 300V 15W-50 full-synthetic racing oil"
+  ],
+  "estetica": [
+    "Veilside Fortune 03 widebody conversion kit (carbon fiber fenders, front bumper, and rear diffuser) with custom GT300-spec canards (APR Performance GTC-300) and a custom carbon fiber hood featuring a central NACA duct for direct intercooler airflow",
+    "Custom GT300-spec aero package by Rocket Bunny (Pandem) including a 3-piece carbon fiber rear wing (1,800mm span, adjustable angle of attack) with integrated Gurney flaps and a custom front splitter with adjustable dive planes (carbon fiber, 3-stage adjustment for downforce tuning)",
+    "Custom interior roll cage by Safety Devices (FIA-spec 8-point bolt-in, chrome-moly steel) with Sparco Pro 2000 seats (FIA 8862-2009 certified), OMP 6-point harnesses, and a custom carbon fiber dashboard featuring a RaceLogic VBOX Sport data logger and a Motec C127 digital dash with integrated shift light and boost gauge"
+  ]
+}

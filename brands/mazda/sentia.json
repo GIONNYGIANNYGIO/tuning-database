@@ -1,0 +1,14 @@
+{
+  "brand": "MAZDA",
+  "model": "SENTIA",
+  "prestazioni": [
+    "Engine swap to a **Mazda KJ-ZEM** 2.5L V6 Miller-cycle (JC series) with forged internals: Manley 4340 steel connecting rods, JE 9.5:1 forged pistons, and ACL Race Series bearings, paired with a **Garrett GT3582R** turbo (0.82 A/R turbine housing) and **HKS GT-SS** wastegate for 18 psi of boost. Supporting mods include a **GReddy Profec B Spec II** boost controller, **MazdaSpeed** intercooler (JC-specific core), and a **Tomei 80mm titanium exhaust manifold** with 304 stainless steel downpipe.",
+    "Full **Mazda JC platform** drivetrain reinforcement: Cusco 2-way LSD (2.5 ratio), **PPG** 8-bolt chromoly driveshaft, and **OS Giken** Super Lock differential with billet steel carrier. Suspension overhaul with **Öhlins Road & Track DFV** coilovers (JC-specific valving), **Whiteline** adjustable sway bars (24mm front, 22mm rear), and **SuperPro** polyurethane bushings (full chassis refresh).",
+    "ECU reflash via **VersaTuner** (JC-specific ROM) with custom maps for E85 flex-fuel, **AEM 30-0334** wideband O2 sensor, and **Haltech Elite 1500** piggyback for advanced ignition timing control. Fuel system upgrades include **ID1000x** injectors, **Walbro 450 LPH** in-tank pump, and **Radium Engineering** fuel pressure regulator (dual-line setup)."
+  ],
+  "estetica": [
+    "**Veilside Fortune 99** widebody kit (JC chassis-specific fitment) with carbon fiber overfenders, custom front bumper lip (3D-scanned from a **Mazda RX-7 FD3S** Type RZ), and **Seibon** carbon fiber hood (OEM-style latches, 30% weight reduction).",
+    "**Work Meister S1 3P** 18x9.5 +38 front / 18x10.5 +45 rear wheels (ET-specific offsets for JC fender clearance) with **Yokohama Advan A052** 245/40/18 and 275/35/18 tires. Brake system includes **Brembo GT 6-piston calipers** (355mm rotors front) and **Hawk HT-10** pads, paired with **Goodridge G-Stop** braided stainless steel lines.",
+    "**RE Amemiya** JC-specific aero package: rear diffuser with integrated **MazdaSpeed** dual-exit exhaust (titanium tips), **C-West** side skirts (modified for JC rocker panels), and **J's Racing** carbon fiber rear spoiler (adjustable angle, 3-position mounts). Full **3M Matte Graphite Grey** vinyl wrap with **RallyArt** decals (JC-specific templates)."
+  ]
+}

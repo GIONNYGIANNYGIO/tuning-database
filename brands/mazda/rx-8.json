@@ -1,0 +1,14 @@
+{
+  "brand": "MAZDA",
+  "model": "RX-8",
+  "prestazioni": [
+    "13B-MSP (Renesis) engine ported with Mazdaspeed Racing Beat Bridgeport intake and exhaust ports, paired with a custom 3-rotor apex seal upgrade using ceramic-coated silicon nitride (Si3N4) seals from Rotary Aviation for 1,200+ RPM redline reliability and 300+ WHP on E85 with a Haltech Elite 2500 ECU managing sequential fuel injection and direct ignition timing via LS coil packs (D585-12A)",
+    "Full titanium exhaust system by Racing Beat featuring 3.5\" primary tubes with a 4-2-1 merge collector, 304 stainless steel mufflers, and a custom 4-into-1 equal-length header designed for the Renesis' peripheral exhaust ports, reducing backpressure by 40% while maintaining 9,500 RPM scavenging efficiency",
+    "Forced induction via a Garrett GTX3582R turbocharger (0.82 A/R, 62mm inducer) mounted on a custom CNC-machined aluminum turbo manifold by Rotary Performance, utilizing a dual-ball bearing center cartridge and a TiAL MV-R 44mm wastegate with a 38mm v-band outlet, paired with a custom air-to-water intercooler (A2W) from PWR with a 5.5L capacity and 1,200 CFM flow rate, supporting 18 PSI of boost on 93 octane"
+  ],
+  "estetica": [
+    "Full carbon fiber widebody conversion using the Veilside Fortune RX-8 kit (Version 3), featuring hand-laid 2x2 twill weave carbon fiber fenders, front bumper, rear diffuser, and side skirts with integrated LED turn signals, paired with a custom 3M Matte Graphite vinyl wrap over the OEM panels for weight reduction (12 lbs saved vs. steel)",
+    "Custom rear wing by APR Performance (GTC-300 model) in 3K carbon fiber, mounted on CNC-machined aluminum pedestals with adjustable angle of attack (0-18 degrees) and a 65\" span, designed specifically for the RX-8's rear hatch curvature to generate 150 lbs of downforce at 120 MPH without inducing lift at lower speeds",
+    "OEM+ interior overhaul featuring Recaro SPG-K XL seats (carbon fiber backshells, Alcantara inserts) with custom RX-8-specific mounting brackets, a MOMO Mod.78 steering wheel (350mm diameter, suede grip) with a NRG quick-release hub, and a full custom roll cage by Custom Cages (T45 steel, 1.75\" x 0.120\" wall thickness) with integrated harness bars for Schroth Profi II 6-point harnesses"
+  ]
+}
