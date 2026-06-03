@@ -1,0 +1,14 @@
+{
+  "brand": "MAZDA",
+  "model": "RX-7 FC3S",
+  "prestazioni": [
+    "13B-REW (twin-rotor, 1308cc) full peripheral port conversion with Tomei 2mm apex seals, Mazdaspeed 3-port intake manifold, and HKS GT-SS turbo kit (Garrett GT2860RS-5, .82 A/R turbine housing, 57 trim compressor) running 18 psi on E85 with a Pettit Racing 4-inch aluminum intercooler core and custom 3-inch charge piping",
+    "Haltech Elite 2500 ECU with dual Bosch 0280158002 wideband controllers, AEM X-Series boost solenoid, and custom-mapped ignition timing (12° BTDC at 1.5 bar) with NGK R7437-9 racing spark plugs gapped at 0.020\"",
+    "Full drivetrain reinforcement: OS Giken Super Lock LSD (2.188 final drive), PPG 8-bolt billet differential cover, KAAZ 2-way clutch-type LSD for the transmission, and a Fidanza 1.8kg aluminum flywheel paired with an ACT 6-puck Xtreme Race clutch (440 ft-lb torque capacity)"
+  ],
+  "estetica": [
+    "Veilside Fortune 99 widebody conversion (front fenders extended 3.5\", rear quarters 4.2\") with custom carbon fiber overfenders by Seibon, paired with a Rocket Bunny V2 rear diffuser and a custom 3D-printed front splitter with integrated canards (Aeroflow Dynamics)",
+    "Full custom interior: Bride Zeta III bucket seats (FRP shell, 12.5kg each) with Schroth Profi II 6-point harnesses, custom roll cage by Custom Cages (1.75\" x .120\" DOM tubing, 8-point with X-brace), and a Momo Prototipo steering wheel (350mm, suede) on a NRG quick-release hub",
+    "Exterior lighting: Hella Micro DE fog lights (55W H3 bulbs) with custom C-West front bumper mounts, custom LED taillight conversion (Osram LEDriving SL 120, sequential turn signals), and a custom carbon fiber hood (Seibon, 50% weight reduction) with a 3\" cowl induction scoop and NACA ducts for brake cooling"
+  ]
+}

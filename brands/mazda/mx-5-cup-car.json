@@ -1,0 +1,14 @@
+{
+  "brand": "MAZDA",
+  "model": "MX-5 CUP CAR",
+  "prestazioni": [
+    "Engine: Naturally aspirated 2.0L Skyactiv-G MZR (PE-VPS) with forged internals including Manley I-beam connecting rods, JE 9.5:1 forged pistons, and ACL Race Series bearings, paired with a Tomei 272°/276° camshaft kit (intake/exhaust) and Supertech valve springs/retainers for 8,500 RPM redline capability",
+    "Forced induction: Garrett GTX2867R Gen II turbocharger (0.63 A/R turbine housing) with a custom 3.5\" stainless steel intercooler piping system, GReddy Type-S intercooler (550W heat rejection), and a Tial MV-R 44mm external wastegate (1.05 bar base boost) mated to a custom 3\" turbo-back exhaust with Burns Stainless 304L merge collectors and a MagnaFlow 3.5\" cat-back (resonated)",
+    "Drivetrain: OS Giken Super Lock LSD (2.15 final drive ratio) with a Sachs Racing twin-disc clutch (240mm) and a Cusco Type-RS 1.5-way differential cover, paired with a Mazdaspeed 6-speed close-ratio transmission (2.99/1.95/1.42/1.08/0.82/0.62) and a Fidanza 8lb aluminum flywheel"
+  ],
+  "estetica": [
+    "Aero: Seibon Carbon fiber widebody kit (NA/NB-style fenders, 2.5\" extended flares) with a custom 3M 1080 vinyl wrap in Mazda Soul Red Crystal Metallic, paired with a Varis Japan front splitter (35mm overhang) and a custom 9 Lives Racing GT wing (1,200mm chord, 250mm height, 12° angle) on OMP carbon fiber mounts",
+    "Suspension: Ohlins TTX40 2-way adjustable coilovers (8-position rebound, 22-position compression) with custom valving for 300lb/in front and 250lb/in rear springs, paired with Cusco front/rear sway bars (22mm hollow front, 19mm solid rear) and Whiteline adjustable end links (front: 24mm, rear: 22mm)",
+    "Interior: Bride Zeta III bucket seats (FIA 8855-1999 certified) with Schroth Profi II 6-point harnesses, a Momo Mod.78 330mm suede steering wheel on a NRG quick-release hub, and a custom roll cage (8-point, TIG-welded 4130 chromoly) with a Sparco harness bar and a Defi BF Amber boost gauge (mounted in a custom A-pillar pod)"
+  ]
+}

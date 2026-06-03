@@ -1,0 +1,14 @@
+{
+  "brand": "MAZDA",
+  "model": "929",
+  "prestazioni": [
+    "Engine swap to a **Mazda JE-ZE (2.0L V6 DOHC 24V)** from the Mazda MX-6 GT, paired with a **Garrett GT2860RS turbocharger** (0.63 A/R turbine housing) and a **Tial MV-R 38mm wastegate** for precise boost control at 18 psi. Supporting mods include **JE 8.5:1 forged pistons**, **Manley H-beam connecting rods**, and a **Tomei 264° camshaft** for high-RPM power delivery (350+ hp at the wheels).",
+    "Full **Mazdaspeed 929-specific bolt-on kit**, including a **custom 3-inch stainless steel exhaust system** with a **Borla Pro XS muffler** (straight-through design) and a **GReddy intercooler** (front-mount, 600x300x76mm core) to eliminate heat soak. The fuel system is upgraded with **Walbro 255 LPH in-tank pump**, **ID1000x injectors**, and a **Link G4+ Xtreme ECU** for standalone tuning with flex-fuel capability.",
+    "Suspension overhaul using **Ohlins Road & Track DFV coilovers** (929-specific valving) paired with **SuperPro poly bushings** (front control arms, subframe, and sway bar mounts) and **Whiteline 24mm adjustable rear sway bar**. Braking is handled by **StopTech ST-60 two-piece rotors** (328mm front, 315mm rear) with **Hawk HT-10 brake pads** and **Goodridge stainless steel brake lines** for pedal firmness."
+  ],
+  "estetica": [
+    "**Rocket Bunny V1 widebody kit** (929-specific, bolt-on fenders with 50mm flares) paired with a **Veilside Fortune front bumper** (carbon fiber lip) and a **custom carbon fiber duckbill spoiler** (modeled after the JGTC 929 race cars). The rear features a **Seibon carbon fiber trunk lid** to reduce weight.",
+    "Custom **Rotiform LAS-R wheels** (18x9.5 +25 front, 18x10.5 +30 rear) wrapped in **Michelin Pilot Sport Cup 2** tires (245/40/18 front, 275/35/18 rear). The wheels are finished in **Gloss Bronze with polished lips** and feature **Hankook Ventus R-S4 semi-slick tires** for track use.",
+    "Interior stripped and rebuilt with **Recaro Pole Position seats** (929-specific mounting brackets), a **Momo Prototipo steering wheel** (350mm, suede), and a **Sparco 6-point harness**. The dashboard is replaced with a **Defi BF gauges** (boost, oil pressure, wideband AFR) and a **custom aluminum shift knob** (weighted, 5-speed pattern). The rear seats are removed and replaced with a **custom aluminum roll cage** (Mazdaspeed-spec, bolt-in) for rigidity."
+  ]
+}

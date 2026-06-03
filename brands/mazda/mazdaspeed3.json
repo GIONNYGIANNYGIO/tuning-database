@@ -1,0 +1,14 @@
+{
+  "brand": "MAZDA",
+  "model": "MAZDASPEED3",
+  "prestazioni": [
+    "Forced induction upgrade with a Garrett GTX3076R Gen II turbocharger (compatible with the MZR 2.3L DISI LF-VDT engine), featuring a 62mm compressor inducer, 76mm exducer, and 56 trim billet wheel for optimized spool and 400+ WHP capability with supporting mods",
+    "Full bolt-on fuel system overhaul including a Cobb Tuning 3-port electronic boost control solenoid, ID1000x injectors (1000cc/min), and a Radium Engineering dual-catch can setup with -10AN lines to manage the LF-VDT's direct injection and port injection hybrid system under high boost",
+    "Custom engine management via a Cobb Accessport V3 flashed with a stratified charge-specific tune (Stage 3+ map) optimized for E85 blends, paired with a Mazdaspeed OEM intercooler upgrade (part # L3K9-15-230) and a CSF aluminum radiator (part # 7030) to maintain consistent IATs under sustained 25+ psi boost"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody conversion kit (specific to BK/BL chassis Mazdaspeed3) with carbon fiber overfenders, front bumper canards, and a duckbill rear spoiler for aggressive stance and aero balance at high speeds",
+    "OEM+ functional aesthetic upgrade with a Mazdaspeed3-specific Cusco Type RS front strut tower bar (part # 666 549 A) and a Cusco rear lower tie bar (part # 666 550 A) in gold anodized finish, paired with Work Emotion CR Kiwami wheels (18x9.5 +38 offset) wrapped in Michelin Pilot Sport Cup 2 tires (245/40/18)",
+    "Full interior overhaul with a Bride Zeta III reclining bucket seat (Mazdaspeed3-specific mounting brackets) in black Alcantara with red stitching, a NRG Innovations quick-release steering wheel hub (part # SRK-200B), and a custom roll cage by Hard Dog Motorsports (bolt-in 8-point cage with gusseted rear legs for chassis rigidity)"
+  ]
+}

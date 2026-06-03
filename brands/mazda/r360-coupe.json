@@ -1,0 +1,14 @@
+{
+  "brand": "MAZDA",
+  "model": "R360 COUPE",
+  "prestazioni": [
+    "Replace the original 356cc air-cooled V-twin (engine code: **MA20**) with a **Mazda Cosmo Sport 110S L10A 982cc inline-4** (rotary conversion not viable due to chassis constraints), utilizing a **Garrett GT1549 turbocharger** (1.45 A/R turbine housing) with a **Tial MV-R 38mm wastegate** and **HKS SSQV4 blow-off valve** for boost control at 12 psi. Custom **Tomei 260° camshafts** (intake/exhaust) paired with **Ferrea 5000-series valves** and **Supertech valve springs** for high-RPM stability (redline at 8,500 RPM).",
+    "Fabricate a **custom 4-into-1 stainless steel exhaust manifold** (304-grade, 1.5mm wall thickness) by **Spoon Sports** (Japan) to optimize scavenging, terminating in a **Mugen 70mm titanium exhaust system** with a **Burns Stainless 3.5\" muffler core** for backpressure management. **AEM X-Series wideband O2 sensor** integrated into the collector for real-time AFR monitoring.",
+    "Swap the stock 3-speed gearbox for a **Mazda Familia Rotary Coupe (FB) 5-speed manual transmission** (close-ratio: 3.672, 2.217, 1.434, 1.000, 0.820) with a **Nismo twin-plate carbon clutch** (240mm disc) and **PPG gearset** (1st-4th: 2.916, 1.904, 1.310, 1.000). **OS Giken Super Lock differential** (2-way LSD) with 4.300 final drive ratio for acceleration optimization. **Wilwood Dynalite 4-piston calipers** (28mm pistons) with **Project Mu HC+ 9000 pads** and **DBA 5000-series rotors** (ventilated, 220mm diameter) for braking."
+  ],
+  "estetica": [
+    "Full **Liberty Walk LB-R360 widebody kit** (hand-laid carbon fiber, 80mm fender flares) with **custom aluminum inner fender liners** (0.8mm thickness) to accommodate **Work Meister S1 3P 13x8 +15 wheels** (4x114.3 PCD) wrapped in **Yokohama Advan A052 185/60R13 tires** (stretched fitment). **Custom 5-axis CNC-machined aluminum wheel spacers** (15mm, hub-centric) for flush fitment.",
+    "Replace the stock steel roof with a **Seibon carbon fiber hardtop** (pre-preg autoclave, 1.2mm thickness) and **custom aluminum roll cage** (TIG-welded, 4130 chromoly, 1.5\" diameter) by **AutoPower Industries**, integrated with **Sparco 6-point harnesses** (ASM homologation). **Custom aluminum door skins** (0.6mm thickness) with **carbon fiber door cards** (3K twill weave) and **Bride Zeta III seats** (fixed-back, 7.5kg each).",
+    "Full **Veilside Fortune 03 front bumper** (modified to fit R360 chassis) with **custom aluminum radiator support** (0.8mm thickness) and **Mazda RX-7 FD3S intercooler** (side-mounted, 450mm core). **Custom LED headlights** (Hikari H11 bulbs, 5,000K) with **Morimoto D2S projectors** and **carbon fiber headlight buckets** (0.5mm thickness). **Custom aluminum fuel filler door** (flush-mounted, 6061-T6) with **Aeromotive 340 Stealth fuel pump** (hidden in stock location)."
+  ]
+}

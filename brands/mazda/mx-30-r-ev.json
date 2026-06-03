@@ -1,0 +1,14 @@
+{
+  "brand": "MAZDA",
+  "model": "MX-30 R-EV",
+  "prestazioni": [
+    "Replace the stock 83 kW (113 PS) MZ-EP30 PHEV rotary engine (Wankel-type, single-rotor 830cc) with a custom-built **Mazda 13B-REW twin-rotor setup** (from the FD3S RX-7), ported by **Rotary Aviation** for 300+ hp at 8,500 RPM, paired with a **Garrett GT2860RS turbocharger** and **Tial 44mm wastegate** to handle the increased airflow. Requires a **Haltech Elite 2500 ECU** with custom rotary-specific maps and **AEM X-Series wideband O2 sensor** for precise AFR tuning.",
+    "Upgrade the stock **e-Skyactiv multi-speed transmission** with a **PPG sequential dog-ring gearset** (straight-cut, 5-speed) and **OS Giken twin-plate clutch** to handle the rotary’s torque curve. Reinforce the differential with a **Cusco 2-way LSD** and **polyurethane bushings** from **Whiteline** to eliminate drivetrain slop under hard launches.",
+    "Swap the stock **MacPherson strut front / torsion beam rear suspension** for a **KW Clubsport 3-way coilover kit** (with 24-way rebound and 12-way compression damping) and **SuperPro poly bushings** at all pivot points. Add **Hardrace adjustable camber arms** (front) and **Mazdaspeed rear toe links** to optimize alignment for track use. Brake system upgrade includes **AP Racing CP9430 front calipers** (6-piston) with **DBA 5000 Series rotors** and **Ferodo DS2500 pads**, paired with **Goodridge braided stainless steel lines** for pedal feel."
+  ],
+  "estetica": [
+    "Install a **Rocket Bunny V3 widebody kit** (MX-30-specific, carbon fiber) with **custom 3D-printed front splitter** (reinforced with **Toray T700 carbon**) and **custom rear diffuser** integrating **Aeromotions active rear wing** (adjustable via **Motec PDM15**). Paint in **Mazda Soul Red Crystal** with **3M Matte Black vinyl overlay** on the roof and pillars for contrast.",
+    "Replace the stock **18-inch aluminum wheels** with **BBS CI-R 19x9.5 ET35 (front) / 19x10.5 ET40 (rear)** in **Gunmetal finish**, wrapped in **Michelin Pilot Sport Cup 2 R tires** (255/35/19 front, 285/30/19 rear). Add **HRE FlowForm FF03 wheels** as a track-only alternative with **Pirelli P Zero Trofeo R tires**.",
+    "Interior overhaul includes **Recaro SPG XL seats** (with **Schroth 6-point harnesses**) mounted on **Custom Cages bolt-in roll cage** (MIG-welded, 4-point). Replace the stock steering wheel with a **NRG Innovations 350mm deep-dish wheel** (suede, with **Momo quick-release hub**) and add a **Motec C127 dash logger** integrated with the **Haltech ECU**. Sound deadening removed and replaced with **Dynamat Xtreme** for weight reduction."
+  ]
+}

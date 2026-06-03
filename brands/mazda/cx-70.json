@@ -1,0 +1,14 @@
+{
+  "brand": "MAZDA",
+  "model": "CX-70",
+  "prestazioni": [
+    "Turbocharger upgrade to a Garrett GTX4202R with billet compressor wheel (58mm inducer, 80mm exducer) and 64mm turbine wheel, paired with a custom 3.5-inch stainless steel downpipe (engine code: T3-G20A, 2.5L turbo inline-4 Skyactiv-G PY-VPTS)",
+    "Full bolt-on fuel system overhaul: Injector Dynamics ID1700x fuel injectors, Radium Engineering fuel pressure regulator (FPR), and a Walbro 450 LPH in-tank fuel pump with upgraded -6AN PTFE fuel lines and a custom billet fuel rail (designed for 500+ HP capability)",
+    "Custom ECU reflash via Cobb Accessport (CX-70-specific calibration) with a flex-fuel sensor (Continental 5WK96625) and a standalone AEM X-Series wideband AFR gauge (30-0334) for real-time lambda monitoring, targeting 11.5:1 AFR on E85 and 12.0:1 on 93 octane"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (CX-70-specific, carbon fiber fenders with aggressive 50mm flares, front/rear bumpers, and side skirts) paired with a custom 3M Matte Graphite vinyl wrap with gloss black accents on the roof and pillars",
+    "Ohlins Road & Track coilovers (CX-70-specific, 8-way adjustable damping, 30mm front/25mm rear drop) with custom camber plates (SPL Parts) and polyurethane bushings (Energy Suspension) for reduced compliance",
+    "Custom 22-inch Work Emotion CR Kiwami wheels (9.5J ET30 front, 10.5J ET35 rear) with Michelin Pilot Sport Cup 2 R tires (275/30/22 front, 295/25/22 rear), paired with Brembo GT 6-piston front/4-piston rear big brake kit (380mm rotors, CX-70-specific caliper brackets)"
+  ]
+}

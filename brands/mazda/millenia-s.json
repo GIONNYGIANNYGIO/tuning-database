@@ -1,0 +1,14 @@
+{
+  "brand": "MAZDA",
+  "model": "MILLENIA S",
+  "prestazioni": [
+    "Engine: KJ-ZEM 2.3L Miller-cycle V6 (supercharged) – Replace the OEM Eaton M62 supercharger with a Sprintex S300-82 (82mm) screw-type supercharger, paired with a custom 3.5\" pulley system and a Vibrant Performance 3.5\" intercooler core (part #1152) to reduce intake temps by 40°F under full boost. Retain the stock 8.5:1 compression ratio but port-match the cylinder heads with a Mazdaspeed KJ-ZEM Stage 2 porting kit (intake/exhaust flow increase of 22%/18%).",
+    "Fuel System: Upgrade to a Walbro 450 LPH in-tank fuel pump (part #F90000267) and install a set of Injector Dynamics ID1000x injectors (1000cc/min) with a Radium Engineering dual catch-can system (part #016040) to mitigate oil vapor ingestion. Tune via a Cobb Accessport (pre-loaded with a KJ-ZEM-specific map) to target 12.5:1 AFR at peak boost (12 psi) and 11.8:1 under full load.",
+    "Exhaust: Fabricate a custom 3\" stainless steel exhaust system using Burns Stainless 304 mandrel-bent tubing (part #304-300X) with a MagnaFlow 14815 (3.5\" race muffler) and a custom 4-2-1 header setup by Stainless Works (KJ-ZEM-specific flange design). Pair with a GReddy Profec B Spec II boost controller for precise wastegate actuation (targeting 1.5 bar peak boost)."
+  ],
+  "estetica": [
+    "Body Kit: Install a Veilside Fortune 99 widebody conversion kit (Mazda Millenia-specific fitment) with custom carbon fiber overfenders (1.5\" wider than OEM) and a custom front splitter by Rocket Bunny (Pandem Millenia-specific, part #RB-PM01). Paint in Mazda’s original Montego Blue Mica (code 25G) with a 3M Matte Clear Bra (XPEL Ultimate) for protection.",
+    "Wheels: Enkei RS05RR (18x9.5 +25 front, 18x10.5 +30 rear) wrapped in Michelin Pilot Sport Cup 2 R tires (245/40/18 front, 275/35/18 rear). Pair with D2 Racing coilovers (part #RS*MZ-010) with 8kg front/10kg rear springs and Swift Springs helper springs (part #54115) for optimal ride height (-1.5\" drop).",
+    "Interior: Replace the stock seats with Bride Zeta III (Mazda-specific mounting brackets) and install a custom roll cage by Custom Cages (Mazda Millenia S-specific, 6-point bolt-in) with a Sparco 6-point harness (part #04528). Add a Defi BF Advance gauge cluster (oil temp, boost, wideband AFR) mounted on a custom A-pillar pod by AEM (part #30-4400)."
+  ]
+}

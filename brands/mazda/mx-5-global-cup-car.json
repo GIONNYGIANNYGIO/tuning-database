@@ -1,0 +1,16 @@
+{
+  "brand": "MAZDA",
+  "model": "MX-5 GLOBAL CUP CAR",
+  "prestazioni": [
+    "Engine: Skyactiv-G 2.0L (PE-VPS) with forged internals including Manley I-beam connecting rods (650g), JE 87.5mm forged pistons (12.5:1 CR), and ACL Race Series bearings for sustained 8,500 RPM operation under Global Cup regulations",
+    "Forced Induction: Garrett GT2860RS turbocharger (0.63 A/R turbine housing) with TiAL MV-R 38mm wastegate and custom 3.5\" stainless steel intercooler piping (Mazdaspeed-spec) to maintain 18 psi boost with 300+ HP on VP Racing C16 fuel",
+    "Suspension: Öhlins TTX40 2-way adjustable coilovers with 8-position rebound damping, spherical bearing top mounts (MCS Motorsport), and custom 15mm front/12mm rear ARB kits (SuperPro) for sub-2.0s slalom times at 1.0g lateral grip",
+    "Drivetrain: OS Giken Super Lock LSD (85% lockup) with custom 4.10:1 final drive ratio (Mazda Motorsports), AP Racing CP8466-8000 330mm 4-piston front brake calipers, and Ferodo DS2500 pads for 1.0g+ deceleration from 100mph",
+    "ECU: Link G4+ Xtreme standalone ECU with custom Global Cup-spec anti-lag (2-step) map, individual cylinder fuel trims, and CAN bus integration for AIM MXS Strada dash telemetry (10Hz GPS)"
+  ],
+  "estetica": [
+    "Aero: Mazda Motorsports Global Cup-spec carbon fiber front splitter (35mm overhang) with integrated dive planes, custom 3D-printed ABS rear diffuser (15% downforce increase at 100mph), and APR Performance GT-250 rear wing (30mm chord, 2° AoA) for 120kg downforce at 120mph",
+    "Body: Seibon Carbon fiber hardtop (12kg weight reduction) with custom 3M 1080 vinyl wrap (Mazda Soul Red Crystal with matte black accents), and Global Cup-mandated FIA-spec roll cage (TIG-welded 4130 chromoly, 6-point with door bars)",
+    "Interior: Sparco Pro2000 FIA-spec racing seats (HANS-compatible) with 6-point Schroth Profi II harnesses, custom aluminum dash panel (CNC-machined, anodized red), and AiM MXS Strada dash with integrated lap timer and predictive lap delta display"
+  ]
+}

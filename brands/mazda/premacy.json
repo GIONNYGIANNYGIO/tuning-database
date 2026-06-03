@@ -1,0 +1,14 @@
+{
+  "brand": "MAZDA",
+  "model": "PREMACY",
+  "prestazioni": [
+    "FP-DE (1.8L DOHC 16V) engine swap with a forged internals kit from Tomei, including 87mm forged pistons (Tomei 111087), H-beam connecting rods (Tomei 111086), and a billet crankshaft (Tomei 111085) for a 9.5:1 compression ratio, paired with a Garrett GT2860RS turbocharger (0.64 A/R turbine housing) and a custom 3-inch stainless steel exhaust system by HKS Hi-Power with a 200-cell catalytic converter for JDM compliance",
+    "Haltech Elite 2500 standalone ECU with a custom calibration for the FP-DE, featuring a flex-fuel sensor (Continental 13577379) and a dual-stage nitrous oxide system (NOS 51760) with a 100-shot wet kit for track use, supported by a 1,000cc/min fuel pump (Walbro GSS342) and 1,000cc injectors (ID1000xDS) for E85 compatibility",
+    "KW Variant 3 coilover suspension with custom valving for the Premacy's CP platform, featuring 30-way adjustable compression and rebound damping, 20mm adjustable ride height, and spherical top mounts (KW 35231101), paired with Cusco 22mm front and 19mm rear adjustable sway bars (Cusco 551 335 A) and polyurethane bushings (SuperPro SPF0119K) for chassis rigidity"
+  ],
+  "estetica": [
+    "Rocket Bunny V1 widebody kit (Pandem PB-003) for the Premacy CP, featuring carbon fiber front fenders, rear quarter panels, and a custom rear diffuser with integrated tow hooks, paired with a custom front lip spoiler by Vertex (Vertex VF-PRE-01) and a carbon fiber roof wrap (3M 1080 Gloss Black)",
+    "Work Emotion CR Kiwami 2 wheels (17x9 +35 front, 17x10 +30 rear) with custom offsets for the Premacy's CP chassis, wrapped in Toyo R888R tires (225/45/17 front, 255/40/17 rear), paired with DBA 5000 Series slotted rotors (DBA 52650XS) and Project Mu B-Spec brake pads (Project Mu 880050)",
+    "Custom JDM-inspired livery by AutoArt, featuring a two-tone matte black (3M 1080 Satin Black Pearl) and gloss red (3M 1080 Gloss Torch Red) paint scheme with gold pinstriping, a Mazdaspeed OEM-style rear roof spoiler (Mazda BP4K-51-350B), and LED taillight conversion (VLand VLAND-2187) with sequential turn signals"
+  ]
+}

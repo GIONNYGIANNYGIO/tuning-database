@@ -1,0 +1,14 @@
+{
+  "brand": "MAZDA",
+  "model": "MX-6 TURBO",
+  "prestazioni": [
+    "Engine: KF-ZE 2.5L V6 (16-valve DOHC, 9.0:1 compression) with a Garrett GT2860RS turbocharger (0.64 A/R turbine housing, 56 trim compressor) running 18 psi of boost on a custom Precision Turbo wastegate (44mm, dual-port). Supporting mods include a Tomei 260° camshaft kit (intake/exhaust lift: 8.5mm/8.2mm) and a GReddy intercooler (front-mount, 600x300x76mm core) with custom 3-inch aluminum piping and HKS SSQV4 blow-off valve.",
+    "Fuel System: Walbro 450 LPH in-tank fuel pump paired with Injector Dynamics ID1000x injectors (1000cc/min) and a Sard 800cc/min fuel pressure regulator. ECU reflash via Haltech Elite 2500 standalone (custom KF-ZE base map with 3D ignition timing tables, AFR targets of 11.5:1 under full load, and launch control set to 4,500 RPM).",
+    "Drivetrain: OS Giken Super Lock LSD (2.5-way, 45% preload) in a Mazda M-Factory reinforced transmission case (KF-series, 8-bolt diff cover) with a Spec Stage 3+ clutch (6-puck, 700 lb-ft torque capacity) and a Fidanza aluminum flywheel (11.5 lbs). Suspension: Ohlins Road & Track DFV coilovers (22-way adjustable damping, 30mm front/25mm rear drop) with Cusco front strut tower bar (22mm hollow, 7000-series aluminum) and Whiteline rear sway bar (24mm adjustable)."
+  ],
+  "estetica": [
+    "Body Kit: Rocket Bunny V1 MX-6 widebody conversion (custom-fitted over KF-series chassis, 3-piece overfenders with 50mm flares, carbon fiber front splitter, and duckbill rear wing with Gurney flap). Paint: BASF Glasurit 90-Line custom mix 'Laguna Blue Pearl' (3-stage, high-solids clearcoat).",
+    "Wheels: Work Meister S1 3P (17x9.5 +22 front, 17x10.5 +30 rear) with Toyo R888R tires (245/40/17 front, 275/35/17 rear). Brake System: StopTech Big Brake Kit (6-piston front calipers, 355mm 2-piece rotors with slotted/drilled pattern; 4-piston rear calipers, 345mm rotors) and Motul RBF660 brake fluid.",
+    "Interior: Bride Zeta III seats (fixed-back, carbon fiber shell, 6-point Takata harnesses) with a custom bolt-in roll cage (Chassisworks 8.5-point, 1.75x0.120 DOM tubing, gusseted main hoop). Steering wheel: NRG Innovations Quick Release (350mm suede, 6-bolt pattern) with a Defi BF Advance gauge cluster (oil pressure, boost, wideband AFR, and water temp in a custom A-pillar pod)."
+  ]
+}

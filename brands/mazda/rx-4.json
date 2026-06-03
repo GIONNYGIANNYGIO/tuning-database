@@ -1,0 +1,14 @@
+{
+  "brand": "MAZDA",
+  "model": "RX-4",
+  "prestazioni": [
+    "Engine swap to a 13B-REW twin-rotor rotary engine (from the FD3S RX-7) with a custom billet aluminum intake manifold featuring individual throttle bodies (ITBs) from TWM Induction, paired with a Haltech Elite 2500 ECU for precise fuel and ignition mapping tailored to the RX-4's 100mm driveshaft spacing and RWD layout",
+    "Forced induction via a Garrett GT35R turbocharger (82mm compressor wheel) mounted on a custom stainless steel exhaust manifold by Racing Beat, with a GReddy Type-S intercooler (front-mount, 600x300x76mm core) and a Tomei 44mm external wastegate to handle 18 psi of boost on 98 RON fuel",
+    "Full drivetrain reinforcement including a MazdaSpeed RX-4-specific limited-slip differential (2-way clutch-type), OS Giken 2.15 final gear ratio, and a custom driveshaft by Driveshaft Shop (3.5-inch chromoly steel) to handle 400+ hp at the wheels, paired with a Tilton twin-disc clutch and lightweight flywheel"
+  ],
+  "estetica": [
+    "Custom widebody conversion using a Veilside Fortune RX-4 kit (fiberglass fenders, front bumper, and rear diffuser) with carbon fiber overfenders by Seibon, extending wheel arches by 3 inches for 10.5J ET15 front and 11J ET5 rear wheels (Work Meister S1 3P in 18x10.5 and 18x11)",
+    "Full custom interior with Bride Zeta III bucket seats (RX-4-specific mounting brackets), a Nardi Classic 380mm steering wheel on a NRG quick-release hub, and a full roll cage by Cusco (8-point, bolt-in, with integrated harness bars for Schroth 6-point harnesses)",
+    "Aerodynamic package including a custom carbon fiber front splitter by Rocket Bunny (RX-4-specific, 3-piece design with adjustable dive planes), a Mazdaspeed RX-4 rear wing (carbon fiber, 1,200mm width, 300mm height, adjustable angle), and a custom rear diffuser with integrated exhaust exits for dual 3.5-inch titanium tips by HKS Hi-Power"
+  ]
+}

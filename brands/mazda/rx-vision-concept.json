@@ -1,0 +1,14 @@
+{
+  "brand": "MAZDA",
+  "model": "RX VISION CONCEPT",
+  "prestazioni": [
+    "13B-MSP (Multi-Side Port) Renesis 2-rotor rotary engine with custom billet aluminum rotor housings by Mazda Motorsports, bored to 1.4L per rotor (2.8L total displacement) and reinforced with ceramic apex seals by Rotary Aviation for 450+ hp at 10,500 RPM on E85 fuel",
+    "Garrett GTX5533R turbocharger with a custom 0.82 A/R titanium-aluminide turbine housing, Precision Turbo wastegate, and a custom 4-inch stainless steel downpipe merging into a Tomei 3.5-inch titanium exhaust system with dual 100mm outlets",
+    "Haltech Elite 2500 ECU with custom rotary-specific firmware, paired with a Plex Knock Monitor SX for real-time ignition timing adjustments, and a custom 12-injector fuel system (6 primary ID1700x injectors + 6 secondary ID2000 injectors) fed by a Radium Engineering dual-pump surge tank setup"
+  ],
+  "estetica": [
+    "Liberty Walk LB-RXVISION widebody kit with custom carbon fiber overfenders, front splitter, and rear diffuser, all finished in Mazda Soul Red Crystal Metallic with matte black accents",
+    "Custom 3D-printed carbon fiber side skirts with integrated LED turn signals and a functional NACA duct for rear rotor housing cooling, designed in collaboration with Veilside",
+    "Ohlins Road & Track coilovers with 3-way adjustable dampers, custom valving for the RX Vision's 50:50 weight distribution, and a 30mm front / 25mm rear ride height drop, paired with Cusco Type RS 22mm front and 20mm rear sway bars"
+  ]
+}

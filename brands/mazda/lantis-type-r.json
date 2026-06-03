@@ -1,0 +1,14 @@
+{
+  "brand": "MAZDA",
+  "model": "LANTIS TYPE R",
+  "prestazioni": [
+    "Engine: FP-EV KF-ZE (2.0L V6, 24-valve DOHC) with a Tomei 264°/260° camshaft kit (intake/exhaust) and Supertech +1mm oversized titanium valves (37mm intake, 32mm exhaust) to optimize high-RPM breathing for the 8,500 RPM redline. Paired with a custom 4-2-1 stainless steel header by HKS Hi-Power (1.75\" primaries, 2.5\" collector) and a Fujitsubo GSpec Type RS II cat-back exhaust (70mm piping, 304 stainless steel) for scavenging efficiency.",
+    "Forced induction: Garrett GT2860RS-5 turbocharger (0.63 A/R turbine housing, 0.82 A/R compressor) with a custom top-mount intercooler (GReddy Type-S, 600x200x76mm core) and a Tomei M82 blow-off valve. Boost controlled via an Apexi Power FC Commander with a custom 1.2 bar (17.4 psi) map, targeting 320 HP at the crank on 98 RON fuel with a Walbro 255 LPH fuel pump and ID1000x injectors (side-feed, 1000cc/min).",
+    "Drivetrain: OS Giken 1.5-way limited-slip differential (LSD) with 45% lockup under power, paired with a PPG straight-cut close-ratio gearset (1st: 2.97, 2nd: 2.08, 3rd: 1.59, 4th: 1.30, 5th: 1.00) in the stock B6-M transmission casing. Clutch upgraded to a Spec Stage 3+ twin-disc (6 puck, cerametallic) with a billet aluminum flywheel (10.5 lb) for rapid engagement."
+  ],
+  "estetica": [
+    "Body: Veilside Fortune 99 widebody kit (front fenders +30mm, rear fenders +50mm) with custom carbon fiber overfenders (1.5mm thick, dry carbon) to clear 265/35R18 (front) and 295/30R18 (rear) Toyo R888R tires on Work Meister S1 3P wheels (18x9.5 +15 front, 18x10.5 +20 rear). Front bumper replaced with a custom 3D-printed splitter (ABS plastic, 3\" overhang) with integrated canards (Rocket Bunny style, 3mm aluminum).",
+    "Aero: Custom rear diffuser by AutoExe (3-piece, carbon fiber) with integrated exhaust cutouts for the Fujitsubo exhaust. Rear wing is a Voltex Type 3 (1,700mm width, 300mm chord) with adjustable carbon fiber endplates (0-15° angle) and a Gurney flap (10mm). Side skirts are custom 3D-printed (PETG) with integrated LED turn signals (Philips Luxeon Z ES).",
+    "Interior: Bride Zeta III bucket seats (FIA-approved, carbon fiber shell) with Schroth Profi II 6-point harnesses. Custom roll cage by AutoPower (8-point, TIG-welded 4130 chromoly) with integrated harness bar and bolt-in door bars. Dashboard replaced with a digital cluster (AEM CD-7) and a custom carbon fiber center console (1.2mm thick) housing a Haltech Elite 2500 ECU and an AEM X-Series wideband controller."
+  ]
+}

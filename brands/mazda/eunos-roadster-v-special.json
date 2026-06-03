@@ -1,0 +1,14 @@
+{
+  "brand": "MAZDA",
+  "model": "EUNOS ROADSTER V-SPECIAL",
+  "prestazioni": [
+    "Engine swap to a **BP-Z3 (1.8L DOHC 16V)** with forged internals: Manley 87mm forged pistons, Eagle H-beam connecting rods, and a **Toda Racing 89mm stroker crankshaft** for a 2.0L displacement, paired with a **Tomei 264°/260° camshaft set** and **Toda Racing adjustable cam gears** for optimized valve timing.",
+    "Forced induction via a **Garrett GT2860RS-5 turbocharger** with a **GReddy Type-S front-mount intercooler**, **HKS SSQV4 blow-off valve**, and a **custom 3-inch stainless steel turbo-back exhaust** featuring a **Sparco 76mm titanium muffler** and **Burns Stainless 4-1 merge collector** for minimized backpressure.",
+    "Fuel and ignition system overhaul: **ID1000x injectors**, **Walbro 255LPH in-tank fuel pump**, **AEM X-Series wideband AFR gauge**, **HKS EVC6 electronic boost controller**, and a **Link G4+ Xtreme standalone ECU** with a **custom 3D-printed intake manifold** (designed for optimal airflow distribution) and **NGK Iridium IX spark plugs (BKR6EIX-11)** gapped at 0.028 inches."
+  ],
+  "estetica": [
+    "**Rocket Bunny V1-01 widebody kit** (Eunos Roadster-specific) with **custom carbon fiber overfenders**, **Volk Racing TE37SL 15x9 +20 front / 15x10 +25 rear** wheels wrapped in **Yokohama Advan A052 205/50/15 front / 225/45/15 rear** tires, and **Ohlins DFV Road & Track coilovers** with **Eibach 60N/mm front / 80N/mm rear springs** for aggressive stance and track-ready damping.",
+    "**Seibon Carbon fiber hardtop** with **custom matte gunmetal paint** and **Recaro SRD-E fixed-back seats** (JDM-spec, bolt-in replacement) upholstered in **Alcantara with red stitching (Mazdaspeed OEM pattern)**. Interior roll bar replaced with a **Hard Dog Motorsports bolt-in double-diagonal roll cage** (NA/NB hybrid design) and **Sparco 6-point harnesses (ASM homologated)** for safety and rigidity.",
+    "**Custom front bumper lip** (modeled after the **Mazdaspeed MX-5 Miata 1999 Le Mans prototype**) with **carbon fiber splitter**, **AeroCatch hood latches**, and **custom LED headlight conversion** using **Morimoto XB LED projectors** with **Hella DE fog light delete plates**. Rear features a **custom ducktail spoiler** (3D-printed from PETG, 30% chord depth) and **Valenti LED taillights (JDM-spec)** with sequential turn signals."
+  ]
+}

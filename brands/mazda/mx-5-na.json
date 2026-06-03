@@ -1,0 +1,14 @@
+{
+  "brand": "MAZDA",
+  "model": "MX-5 NA",
+  "prestazioni": [
+    "Engine: BP-ZE (RS) 1.8L DOHC 16V with forged internals including Manley 86mm forged pistons (8.5:1 compression), Eagle H-beam connecting rods, and ACL Race Series bearings. Paired with a Garrett GT2860RS turbocharger (0.63 A/R turbine housing) and custom 3-inch stainless steel turbo manifold by Racing Beat, supporting 12 psi of boost with a Turbosmart Comp-Gate40 wastegate and HKS SSQV blow-off valve.",
+    "Fuel System: Walbro 255 LPH in-tank fuel pump, Injector Dynamics ID1000 fuel injectors (1000cc/min), and a custom fuel rail by Radium Engineering. ECU reflash via Link G4+ Xtreme standalone ECU with flex-fuel capability, tuned on a Dynapack hub dyno for 220 whp at 7,000 RPM with a 7,800 RPM redline.",
+    "Drivetrain: OS Giken Super Lock LSD (2-way) with 4.300 final drive ratio, Spec Stage 3+ clutch with billet flywheel, and a Mazdaspeed 6-speed short shifter. Custom 3.5-inch aluminum driveshaft by Driveshaft Shop with CV joints rated for 400 ft-lbs of torque."
+  ],
+  "estetica": [
+    "Body: Rocket Bunny V1 widebody kit (NA-specific) with custom carbon fiber overfenders, front lip, and duckbill rear spoiler. Full seam-welded chassis with seam sealer and rustproofing via POR-15. Custom 5-lug conversion using 949 Racing wheel spacers and hub-centric rings for 15x9 +20 Enkei RPF1 wheels (gunmetal finish) with 225/45/15 Toyo R888R tires.",
+    "Interior: Bride Zeta III bucket seats with custom NA-specific mounting brackets, Takata 4-point harnesses, and a Momo Mod.78 steering wheel (320mm) on a NRG quick-release hub. Full custom roll cage by Hard Dog Motorsports (8-point, bolt-in) with gusseted main hoop and harness bar, powder-coated in satin black.",
+    "Lighting: Custom Hella 500 FF fog lights with CREE XHP50.2 LEDs, retrofitted with NA-specific mounting brackets. Rear: Sequential LED taillights by Diode Dynamics with custom wiring harness and relay setup for OEM-like integration."
+  ]
+}
