@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES",
+  "model": "UNIMOG U5000",
+  "prestazioni": [
+    "Engine swap to OM 926 LA (7.2L inline-6 turbodiesel, 326 HP / 900 lb-ft stock) with a BorgWarner EFR 9180 turbo (1.05 A/R, 86mm compressor) and custom 3D-printed titanium intake manifold (Mercedes-Benz Motorsport division prototype, part #A0000789999) for optimized airflow at high-altitude operations (up to 4,500m ASL).",
+    "Full drivetrain reinforcement with ZF 16S2520 TO (20-speed overdrive transmission) paired to a custom PTO-driven hydraulic torque vectoring system (Bosch Rexroth A10VO series pump, 450 bar max pressure) for independent wheel torque control in extreme off-road conditions (e.g., 60° side slopes).",
+    "Suspension overhaul with custom-length Bilstein 90 M292344 coilovers (4-way adjustable, 500mm travel) and portal axles upgraded with chromoly 4130 steel housings (fabricated by Unimog specialist *Unimog-Service* in Germany) for 1,200mm ground clearance and 100% articulation without CV joint binding."
+  ],
+  "estetica": [
+    "Full carbon-fiber body panel replacement (ACG Composites, UK) using pre-preg autoclave-cured 3K twill weave (0.8mm thickness) for the cab, fenders, and hood, reducing weight by 180kg while maintaining structural integrity for rollover protection (ROPS-compliant).",
+    "Custom LED light bar system (Hella Rallye 4000 Comet FF, 4x 240W modules) integrated into a milled aluminum front bumper (CNC-machined from 6061-T6, designed by *Off-Road International*) with a winch mount for a Warn Zeon 12-S Platinum (12,000 lb capacity, synthetic rope).",
+    "Interior retrofit with Recaro Cross Sportster seats (fire-retardant Alcantara, 6-point Schroth harnesses) and a custom aluminum dashboard (fabricated by *MBT Racing*) housing a Motec C187 ECU display, Garmin Overlander GPS, and a redundant hydraulic pressure gauge cluster (VDO 304 series, 0-600 bar range)."
+  ]
+}

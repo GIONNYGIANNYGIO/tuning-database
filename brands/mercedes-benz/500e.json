@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "500E",
+  "prestazioni": [
+    "Engine: M119.975 (5.0L V8, 32V DOHC) with a custom Schrick 284°/280° camshaft kit (intake/exhaust) paired with port-matched and polished cylinder heads by *EuroSpec Motorsport* for improved airflow and 400+ HP potential on 98 RON fuel",
+    "Forced induction: Precision Turbo PT6266 CEA ball-bearing turbo (62mm inducer, 66mm exducer) with a custom *AMG 6.0L* intercooler core (700x300x76mm) and *VRSF* 3.5\" stainless steel charge piping, supporting 12 PSI of boost with a *Tial MV-R* 44mm wastegate and *AEM* 3.5bar MAP sensor for precise tuning",
+    "Drivetrain: *OS Giken* LSD (2.2-way) with 85% lockup in the W124 rear subframe, paired with a *ZF* 5HP24 transmission rebuild (stage 3 clutch pack, reinforced planetary gears) and *South Bend* twin-disc organic clutch (240mm) for 500+ lb-ft torque capacity"
+  ],
+  "estetica": [
+    "Body: *Kamei* W124 500E-specific widebody conversion (flares extended 30mm per side) with *Rieger* front splitter (carbon fiber, 3-piece) and *AMG* E60 rear diffuser (OEM+ style, matte black)",
+    "Wheels: *BBS* RS-GT II (18x9.5 ET15 front, 18x10.5 ET25 rear) with *Michelin* Pilot Sport Cup 2 tires (245/40/18 front, 275/35/18 rear) and *H&R* Trak+ coilovers (70mm drop, 12-way adjustable damping)",
+    "Interior: *Recaro* CSE (Evo II) seats in *Nappa leather* with *Alcantara* inserts, *MOMO* Prototipo steering wheel (380mm, suede), and *Defi* BF Advance gauges (oil temp, boost, AFR) mounted in a *Voodoo* custom A-pillar pod"
+  ]
+}

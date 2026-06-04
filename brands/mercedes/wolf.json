@@ -1,0 +1,15 @@
+{
+  "brand": "MERCEDES",
+  "model": "WOLF",
+  "prestazioni": [
+    "Engine swap to a Mercedes-Benz M178 4.0L V8 twin-turbo (from the AMG GT Black Series) with a custom dry-sump system by H&R Performance, paired with a Garrett GTX5533R turbocharger (84mm inducer) and a Tial MV-R 60mm external wastegate for 900+ HP on E85 fuel",
+    "Full billet aluminum engine internals by MAHLE Motorsport including forged pistons (9.0:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft with a 90mm stroke for increased displacement (4.2L), mated to a 7-speed AMG SPEEDSHIFT MCT transmission with a PWR Performance Products triple-plate carbon clutch and a Quaife ATB differential",
+    "Custom Motec M150 ECU with a bespoke calibration by Mercedes-AMG motorsport division (affiliated tuner: HWA AG), featuring a full flex-fuel sensor setup, individual cylinder fuel trims, and a 4-bar MAP sensor for boost control up to 3.0 bar, paired with a Bosch Motorsport 1000cc high-impedance port injectors and a secondary fuel system with dual Walbro 450 LPH pumps",
+    "Full chassis reinforcement with a Weldon Racing roll cage (FIA-spec, TIG-welded 4130 chromoly) and a custom front subframe brace by K-Mac, paired with a H&R Monoball spherical bearing subframe kit and a set of Ohlins TTX46 coilovers with 3-way adjustable damping and remote reservoirs, tuned specifically for the Wolf’s 50/50 weight distribution"
+  ],
+  "estetica": [
+    "Full carbon fiber widebody conversion by RENNtech (R230 SL65 AMG-based kit), featuring extended front fenders with integrated canards, a custom rear diffuser with active Gurney flap (electronically adjustable via CAN bus), and a functional rear wing derived from the Mercedes-AMG One’s DRS system, all finished in Selenite Grey matte with exposed carbon weave",
+    "Custom headlight assembly with Osram 25W laser high-beams and a full LED matrix adaptive lighting system (borrowed from the C219 CL65 AMG), paired with a set of HRE FF01 wheels (20x10.5 ET25 front, 20x12.5 ET45 rear) in a matte bronze finish, wrapped in Michelin Pilot Sport Cup 2 R tires (275/30/20 front, 325/25/20 rear) with custom TPMS sensors by Schrader Electronics",
+    "Interior overhaul with a full Alcantara and carbon fiber trim by Sabelt, featuring a custom 6-point harness bar with Schroth Profi II 6-point harnesses, a MOMO Prototipo steering wheel with integrated Motec C127 dash display, and a set of Recaro Pole Position seats (carbon fiber shell, FIA-approved) upholstered in Nappa leather with red contrast stitching"
+  ]
+}

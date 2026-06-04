@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "190D W201",
+  "prestazioni": [
+    "OM601.931 (2.5L inline-4 diesel) engine swap with a BorgWarner EFR 7064 turbocharger (64mm compressor, 0.82 A/R turbine housing) and custom 3D-printed titanium intake manifold for optimized airflow, paired with a Pierburg 400LPH high-flow diesel pump and Bosch 044 fuel injectors (350cc/min) for precise fuel delivery at 2.5 bar rail pressure",
+    "Custom 4-2-1 stainless steel exhaust manifold by Schrick (1.75\" primary tubes, 2.5\" collector) with a Milltek Sport 2.5\" turbo-back system featuring a 200-cell catalytic converter and a secondary silencer delete for reduced backpressure, tuned for a 3000-4500 RPM power band",
+    "KW Variant 3 coilover suspension with 400lb/in front springs and 500lb/in rear springs, adjustable damping (16-way rebound, 12-way compression), and custom top mounts by H&R for W201-specific camber correction (-2.5° front, -1.8° rear), paired with polyurethane bushings (Powerflex Black Series) and a Whiteline 22mm adjustable rear sway bar"
+  ],
+  "estetica": [
+    "Rocket Bunny V1 W201 widebody kit (fiberglass fenders, carbon fiber front splitter, and rear diffuser) with custom 3M Matte Graphite vinyl wrap and OEM+ color-matched lower cladding in Mercedes-Benz 744 Signal Red",
+    "OEM W124 500E-style front bumper conversion with integrated Hella 500 FF fog lights and a custom aluminum mesh grille (black anodized), paired with DEPO LED headlights (H4 bulb conversion, 5500K color temperature) and smoked side markers by LUX Automotive",
+    "BBS RS-GT 16x8 ET20 wheels (8.5J front, 9J rear) with 205/45R16 Toyo R888R semi-slick tires, wrapped in custom center caps featuring the Mercedes-Benz star in gold anodized aluminum, and paired with OEM W201 15-hole wheel spacers (20mm front, 25mm rear) for flush fitment"
+  ]
+}

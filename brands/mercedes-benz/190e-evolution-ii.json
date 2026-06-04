@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "190E EVOLUTION II",
+  "prestazioni": [
+    "Engine: M102.983 (2.5L 16V DOHC) with forged internals including Mahle Motorsport forged pistons (8.0:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from Manley Performance. Upgraded to a custom Schrick 284° camshaft profile with titanium retainers and dual valve springs from Supertech.",
+    "Forced Induction: Single-turbo conversion using a Garrett GT3582R with a custom 0.82 A/R turbine housing, paired with a custom front-mount intercooler (FMIC) from Bell Intercoolers (4.5\" core thickness, 100% aluminum construction) and a TiAL MV-R 44mm wastegate with a custom external dump tube.",
+    "Fuel & Ignition: Full sequential fuel injection conversion using Bosch Motorsport 0280158002 injectors (850cc/min), controlled by a standalone Motec M150 ECU with individual cylinder trimming. Ignition system upgraded to a Bosch Motorsport CDI unit with NGK R7437-9 racing plugs and custom 8mm ignition leads from Magnecor."
+  ],
+  "estetica": [
+    "Aero: Full W201 Evo II-specific Rocket Bunny widebody kit (carbon fiber front fenders, rear quarter panels, and rear bumper) with a custom 3D-printed front splitter and rear diffuser from APR Performance. Rear wing replaced with a carbon fiber AMG Evo II-style wing with adjustable Gurney flaps (3D Carbon).",
+    "Suspension: Full Ohlins Road & Track coilover kit (DFV 2-way adjustable dampers) with custom valving for the W201 chassis, paired with Eibach Pro-Street S anti-roll bars (24mm front, 22mm rear) and spherical bearing subframe bushings from 034 Motorsport.",
+    "Wheels & Brakes: BBS RS-GT II 17x9.5\" ET15 (front) and 17x11\" ET25 (rear) wheels with custom offsets, wrapped in Michelin Pilot Sport Cup 2 tires (245/40/17 front, 285/35/17 rear). Braking system upgraded to a full AP Racing 6-piston CP9430 caliper kit (355mm front rotors) with Ferodo DS2500 pads and custom stainless steel brake lines from Goodridge."
+  ]
+}

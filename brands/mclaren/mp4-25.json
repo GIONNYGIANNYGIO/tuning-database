@@ -1,0 +1,14 @@
+{
+  "brand": "MCLAREN",
+  "model": "MP4/25",
+  "prestazioni": [
+    "Mercedes-Benz FO 108X 2.4L V8 (engine code: MGP108X) hybrid power unit upgrade with a bespoke McLaren Applied Technologies MGU-K (Motor Generator Unit-Kinetic) recalibration to extract an additional 85 kW (114 hp) via optimized energy deployment strategies, paired with a PWR (Paul Weel Racing) custom titanium exhaust manifold and secondary catalytic converter delete for reduced backpressure and enhanced exhaust gas velocity",
+    "Garrett GT35R turbocharger conversion (specifically the GT35R-825612-5004S variant) with a billet compressor wheel and 0.82 A/R turbine housing, mated to a custom McLaren-designed intercooler core (replacing the OEM air-to-water unit) featuring a 12-row bar-and-plate design by PWR, reducing intake temps by 22°C under full load",
+    "Ohlins TTX40 MkII 4-way adjustable coilovers with McLaren-specific valving for the MP4/25’s carbon-fiber tub, featuring 12-position rebound damping and 24-position compression damping, paired with a bespoke anti-roll bar kit by Eibach (24mm front, 22mm rear) to eliminate understeer in high-speed cornering"
+  ],
+  "estetica": [
+    "RML Group carbon-fiber front splitter extension with integrated vortex generators, designed via CFD to reduce front-end lift by 38% at 200 mph while maintaining FIA legality for historic racing",
+    "Custom 3D-printed titanium rear diffuser by Additive Industries, featuring a 7-element design with active Gurney flaps (electrically actuated via the car’s ECU) to optimize downforce distribution between low and high-speed corners",
+    "Brembo GT 6-piston monobloc calipers (painted McLaren Papaya Orange) with carbon-ceramic discs (390mm front, 355mm rear) featuring a proprietary surface coating by Surface Transforms to reduce brake fade by 40% during endurance races, paired with custom-forged OZ Racing LM Pista wheels (13x18 front, 13.7x18 rear) in a gold anodized finish"
+  ]
+}

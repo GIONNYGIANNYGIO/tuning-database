@@ -1,0 +1,14 @@
+{
+  "brand": "McLaren",
+  "model": "Solus GT Track Edition",
+  "prestazioni": [
+    "Engine: Replace the stock 5.2L Judd GV5.2 V10 (derived from Formula 1 lineage) with a bespoke **Judd GV5.2S** block featuring billet aluminum internals, forged Mahle pistons (12.5:1 compression), and titanium connecting rods from **Pankl Racing Systems** to handle 12,000 RPM redline reliably. Pair with a **Motec M150 ECU** mapped for 750+ HP on **VP Racing Fuels C16** (118 octane) with individual throttle body (ITB) optimization.",
+    "Forced Induction: Install a **Garrett GTX5533R Gen II** turbocharger (custom-machined for the Judd V10) with a **Tial MV-R 60mm** wastegate and **Precision Turbo & Engine 46mm** external bypass valve. Use a **PWR Racing** 1,200HP intercooler core with **Samco Sport** silicone hoses and **TurboSmart** Kompact 50mm blow-off valve for instant spool response.",
+    "Suspension & Chassis: Swap the stock double-wishbone setup for **Öhlins TTX46 MkII** 3-way adjustable coilovers with **Eibach ERS** springs (1,200 lb/in front, 1,500 lb/in rear). Integrate a **Hewland NLT transaxle** with a **Quaife ATB differential** and **AP Racing CP9430-8** 6-piston calipers clamping **Brembo HTC64T** carbon-ceramic rotors (380mm front, 355mm rear)."
+  ],
+  "estetica": [
+    "Aerodynamics: Fit a **RML Group** carbon-fiber aero package featuring a **Formula 1-style front splitter** with active Gurney flaps (adjustable via cockpit switch), **rear diffuser with 3D-printed titanium strakes**, and a **DRS-enabled rear wing** (derived from McLaren’s 2023 F1 tech) with **Gurit prepreg carbon** construction for 1,800 lbs of downforce at 150 mph.",
+    "Bodywork: Replace the stock carbon panels with **Toray T1100G** prepreg carbon-fiber bodywork (autoclaved for 20% weight reduction) and **AIM Composites** polycarbonate windows (0.8mm thick, 30% lighter than stock). Add **PPG Vibrance Collection** custom paint in **‘Liquid Silver’ with McLaren Orange** pinstripes (applied via **3M Scotchcal** vinyl for track durability).",
+    "Interior: Install a **Sparco Pro 2000** carbon-Kevlar seat with **Schroth Profi II-6** 6-point harnesses and a **Motec C127** dash display (replacing the stock unit) with **AIM MXL2** data logging. Add **Brembo GT-Sport** pedal set (machined from 7075-T6 aluminum) and a **MoTeC PDM30** power distribution module for auxiliary systems."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "600 GROSSER (W100)",
+  "prestazioni": [
+    "M100 V8 (6.3L or 6.8L) engine swap with a custom-forged crankshaft (Mahle Motorsport) and billet connecting rods (Pauter Machine) to handle 850+ hp on 100-octane fuel, paired with a bespoke dry-sump oiling system (Moroso) to prevent oil starvation during high-G cornering",
+    "Twin-turbocharger setup using Garrett GTX5533R Gen II turbos (custom 1.05 A/R turbine housings) with TiAL MV-R 44mm wastegates and a custom air-to-water intercooler (Setrab) mounted in the trunk to avoid front-end heat soak, fed by a Bosch 044 high-flow fuel pump and Injector Dynamics ID2000x injectors",
+    "Full standalone Motec M150 ECU with custom wiring harness (Painless Performance) and a dual Bosch 028 high-pressure fuel pump setup, integrated with a Haltech CAN-based boost controller and a custom 4.5:1 final drive ratio (ZF limited-slip differential) for brutal acceleration off the line"
+  ],
+  "estetica": [
+    "Full custom widebody conversion using hand-formed 18-gauge steel fenders (by RML Group) to accommodate 20x12 ET-15 front and 20x14 ET-5 rear wheels (BBS RS-GT II in gold finish) with Michelin Pilot Sport Cup 2 R tires (285/30/20 front, 335/25/20 rear)",
+    "Bespoke carbon fiber front splitter (by Vorsteiner) with integrated air curtains and a rear diffuser (Rocket Bunny) featuring active Gurney flaps (controlled via Motec ECU) for adjustable downforce, paired with a custom stainless-steel exhaust system (by Remus) with quad 4.5-inch outlets and electronically controlled butterfly valves",
+    "Full interior retrim in hand-stitched Bridge of Weir leather (by Saddleback Leather) with Alcantara headliner, custom rear-seat delete for a full roll cage (by Safety Devices) with integrated fire suppression system (Lifeline Zero 360), and a digital dash (Motec C127) replacing the original analog gauges"
+  ]
+}

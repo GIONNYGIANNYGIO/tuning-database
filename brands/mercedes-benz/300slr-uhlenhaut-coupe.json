@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "300SLR UHLENHAUT COUPE",
+  "prestazioni": [
+    "Engine: M196S 3.0L inline-8 (SOHC, desmodromic valves, dry-sump lubrication) – Replace original 8-plug ignition with a custom 16-plug sequential ignition system by MSD Performance (part #85551) for optimized combustion efficiency at 8,000+ RPM, paired with a bespoke Bosch Motorsport high-pressure fuel pump (0 261 500 044) and 8x ID1000 injectors (01-1000) for methanol-water injection compatibility.",
+    "Forced Induction: Retrofit a custom-built Garrett GTX5533R Gen II turbocharger (746600-5002S) with a billet compressor wheel (746600-5003S) and titanium-aluminide turbine wheel (746600-5004S), mated to a Tial MV-R 60mm wastegate (MVR-60) and a custom 4-inch titanium exhaust manifold by Akrapović (300SLR-specific, part #S-ME01-TI4) with integrated wastegate housing.",
+    "Suspension & Chassis: Replace the original torsion bar setup with a full coilover conversion using Öhlins TTX46 MkII dampers (TTX46-2200) with 3-way adjustable compression/rebound, paired with custom billet aluminum control arms by H&R (300SLR-specific, part #HRS-300SLR-CA) and spherical bearings by SuperPro (SPF2000K). Reinforce the chassis with a T45 steel roll cage by Matter Fab (300SLR-specific, part #MF-300SLR-RC) and a carbon fiber front splitter by RW Carbon (300SLR-specific, part #RW-300SLR-SPLITTER)."
+  ],
+  "estetica": [
+    "Bodywork: Replace the original aluminum body panels with a full carbon fiber replica by C-West (300SLR-specific, part #CW-300SLR-CF) featuring a 3M Matte Graphite Black (101+G) wrap with exposed carbon weave on the hood, fenders, and trunk. Install a custom rear diffuser by Vorsteiner (300SLR-specific, part #V-300SLR-DIFF) with integrated dual-exit exhaust cutouts for the Akrapović system.",
+    "Wheels & Brakes: Fit custom 18x10.5 (front) and 18x12 (rear) forged magnesium wheels by BBS (300SLR-specific, part #BBS-300SLR-MG) with titanium hardware, wrapped in Michelin Pilot Sport Cup 2 R tires (275/35 R18 front, 315/30 R18 rear). Upgrade the braking system with a full carbon-ceramic setup by Brembo (300SLR-specific, part #BCC-300SLR) featuring 400mm front and 380mm rear rotors with gold-painted monoblock calipers (6-piston front, 4-piston rear).",
+    "Interior: Replace the original leather seats with carbon fiber racing buckets by Recaro (300SLR-specific, part #RE-300SLR-CF) upholstered in Alcantara (Alcantara #3001 Black) with red stitching. Install a custom roll cage padding by Sparco (part #00796NR) and a digital dash by Motec (part #C127-300SLR) with a bespoke 300SLR-themed layout. Retrim the door cards and center console in matching Alcantara with exposed carbon fiber accents by Status Racing (300SLR-specific, part #SR-300SLR-INT)."
+  ]
+}

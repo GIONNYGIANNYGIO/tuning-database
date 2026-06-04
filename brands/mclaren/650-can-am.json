@@ -1,0 +1,20 @@
+{
+  "brand": "MCLAREN",
+  "model": "650 CAN-AM",
+  "prestazioni": [
+    "Engine: M838T 3.8L twin-turbo V8 (revised for Can-Am spec with forged internals, Mahle Motorsport pistons, and Carrillo H-beam connecting rods; compression ratio increased to 10.5:1 for E85 compatibility)",
+    "Turbocharger: Garrett GTX5533R Gen II turbos (hybrid billet wheels, 76mm compressor, 67mm turbine, 1.35 A/R housings) with TiAL MV-R 44mm wastegates and TiAL V60 dual-port blow-off valves",
+    "Fuel System: Bosch Motorsport MS17.8 ECU with Motec PDM30 power distribution module, upgraded to dual CP3.4 high-flow fuel pumps, Injector Dynamics ID2000x injectors (2000cc/min), and a Radium Engineering dual-port fuel pressure regulator (base pressure 5.5 bar, adjustable to 7 bar for E85)",
+    "Exhaust: Custom 3.5-inch titanium equal-length headers (by Akrapović) with a full titanium 3.5-inch dual-exhaust system featuring 4.5-inch carbon fiber tips and integrated GESI wideband O2 sensors for closed-loop tuning",
+    "Suspension: Öhlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression), custom valving for Can-Am-spec aero loads, and spherical bearing top mounts (replacing OEM rubber bushings) for razor-sharp chassis response",
+    "Drivetrain: Quaife ATB LSD (85% lockup) in a reinforced carbon fiber transmission case (by Xtrac), paired with a Sachs Racing dual-disc clutch (240mm, 3000Nm torque capacity) and a Pankl Racing Systems 6-speed sequential gearbox with paddle-shift actuation (0.1s shift times)",
+    "Aerodynamics: Full carbon fiber Can-Am-spec aero package (by APR Performance) including a 2000mm-wide front splitter with integrated dive planes, a 1500mm rear wing (3-element, adjustable angle of attack from 0° to 25°), and a diffuser with 5 strakes (optimized for 1.2G downforce at 180mph via CFD tuning)"
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion (by Liberty Walk) with custom Can-Am-inspired fender flares (3.5-inch wider front, 4.5-inch wider rear), featuring a 2x2 twill weave with matte clear coat and exposed carbon fiber accents on the hood, roof, and rear clamshell",
+    "Wheels: HRE FF16 flow-formed wheels (20x12 +35 front, 21x13.5 +45 rear) in a custom satin bronze finish with titanium hardware, wrapped in Michelin Pilot Sport Cup 2 R tires (305/30/20 front, 355/25/21 rear) for track-focused grip",
+    "Lighting: Full LED conversion with LUX H8 V4 headlights (adaptive bi-xenon projectors, 5000K color temperature) and custom taillight delete (replaced with carbon fiber panels and integrated LED brake lights by Diode Dynamics)",
+    "Interior: Full Alcantara-wrapped interior (by Katzkin) with custom Can-Am-themed stitching (orange and black), Sparco Pro 2000 seats (carbon fiber shell, 6-point harnesses), and a custom roll cage (by Custom Cages) with integrated fire suppression system (Lifeline Zero 360, plumbed to all critical areas)",
+    "Details: Custom carbon fiber side skirts with integrated LED turn signals (by VLE), a carbon fiber rear diffuser with integrated exhaust cutouts (by Seibon), and a custom livery (by Driftpaint) featuring a retro Can-Am-inspired color scheme (McLaren Orange with black and white accents, matte finish)"
+  ]
+}

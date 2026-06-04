@@ -1,0 +1,14 @@
+{
+  "brand": "MCLAREN",
+  "model": "SPEEDTAIL TRACK EDITION",
+  "prestazioni": [
+    "M840T 4.0L twin-turbocharged V8 hybrid powertrain recalibration via McLaren Special Operations (MSO) Stage 2 ECU flash, targeting 1,100+ hp (up from 1,035 hp) with bespoke fuel mapping for 102-octane race fuel, paired with a Weistec Engineering hybrid battery bypass module to eliminate power sag under sustained load",
+    "Garrett GTX5533R turbochargers with billet 76mm compressor wheels and 64mm turbine wheels, mated to custom Inconel 625 exhaust manifolds and a Tial MV-R 60mm wastegate setup, supporting 32 psi of boost with a secondary 2.5-bar MAP sensor upgrade for precise pressure monitoring",
+    "Ohlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed valving), paired with McLaren-approved spherical bearing upper control arms (P1GTR-derived) and a full carbon-fiber anti-roll bar kit from Dymag, reducing unsprung weight by 18% while increasing lateral stiffness by 22%"
+  ],
+  "estetica": [
+    "Full carbon-fiber aero package from Vorsteiner, including a Speedtail-specific front splitter with integrated dive planes (tested in McLaren’s wind tunnel to generate 45 kg of downforce at 250 km/h), a rear diffuser with active Gurney flap, and a fixed rear wing with dual-element design (replacing the stock retractable unit) for +30% downforce at 300 km/h",
+    "Bespoke livery by Driven Art, featuring a matte ‘Velocity Silver’ base with ‘Track Edition’ ghosted graphics in McLaren’s proprietary ‘Papaya Spark’ (a metallic-orange hue with micro-flake pigment), applied via 3M 2080 series wrap with a satin clear coat for UV resistance and self-healing properties",
+    "Dymag Carbon-Graphite hybrid wheels (20” front, 21” rear) with center-locking titanium nuts, wrapped in Pirelli P Zero Trofeo R tires (245/35 R20 front, 315/30 R21 rear) in a custom ‘Track Edition’ compound (Pirelli’s ‘R01’ formulation, optimized for 100°C+ track temps), paired with AP Racing CP9660 carbon-ceramic brake rotors (410mm front, 390mm rear) and monoblock 6-piston calipers with titanium pistons"
+  ]
+}

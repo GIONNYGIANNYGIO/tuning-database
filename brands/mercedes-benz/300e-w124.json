@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "300E W124",
+  "prestazioni": [
+    "Engine swap to M104.985 (3.6L inline-6) with forged internals: Mahle Motorsport forged pistons (8.8:1 compression), Carrillo H-beam connecting rods, and a ported/polished cylinder head with Schrick 272° camshafts for high-RPM power delivery. Paired with a custom 3.5\" straight-pipe exhaust system featuring a Supersprint 4-2-1 header and a MagnaFlow 304 stainless steel muffler for optimized scavenging.",
+    "Forced induction via a Garrett GT3582R turbocharger (0.82 A/R turbine housing) with a custom air-to-water intercooler (PWR Racing) and a Bosch 044 high-flow fuel pump. Engine management handled by a standalone AEM Infinity 7 ECU with custom M104-specific maps, supporting methanol injection (Snow Performance Stage 3 kit) for knock suppression and 12 psi of boost targeting 350+ HP at the wheels.",
+    "Suspension overhaul with KW Variant 3 coilovers (custom valving for W124 chassis), polyurethane bushings (Energy Suspension full kit), and a Whiteline 25mm rear sway bar. Braking upgraded to 330mm front rotors (Brembo GT kit) with Ferodo DS2500 pads and stainless steel braided lines, paired with a Wilwood master cylinder for improved pedal feel."
+  ],
+  "estetica": [
+    "Rocket Bunny W124-specific widebody kit (front fenders, rear quarter panels, and rear bumper) with custom carbon fiber side skirts and a ducktail spoiler (Rieger Tuning). Painted in Mercedes-Benz Classic Signal Red (DB 568) with a matte black roof and gold OZ Racing Superleggera III wheels (8.5x17 ET20 front, 9.5x17 ET25 rear) wrapped in Michelin Pilot Sport Cup 2 tires (225/45/17 front, 255/40/17 rear).",
+    "Full interior retrim in black Nappa leather (Recaro SRD front seats with Schroth 6-point harnesses) and a custom roll cage (Autopower bolt-in 6-point) painted in Mercedes-Benz Anthracite (DB 175). Dashboard refinished in carbon fiber (VCarbon) with a Momo Prototipo steering wheel and a digital gauge cluster (AEM CD-7 dash) replacing the stock analog setup.",
+    "Exterior lighting upgraded to Hella Rallye 3000 headlights (H4 conversion) with Cibie Oscar fog lights, and a custom LED taillight setup (Luxx Automotive) with sequential turn signals. Front lip and rear diffuser fabricated from carbon fiber (Seibon) with integrated tow hooks (AP Racing)."
+  ]
+}

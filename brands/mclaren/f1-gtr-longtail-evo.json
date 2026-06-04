@@ -1,0 +1,14 @@
+{
+  "brand": "MCLAREN",
+  "model": "F1 GTR LONGTAIL EVO",
+  "prestazioni": [
+    "BMW S70/3 V12 engine (6.1L, 600+ HP in GTR spec) upgraded with a bespoke **Motec M800 ECU** mapped for 102-octane race fuel, optimizing individual cylinder trims and ignition timing for 8,500 RPM redline stability, paired with **Mahle Motorsport forged pistons** (12.5:1 compression) and **Carrillo H-beam connecting rods** for sustained 9,000+ RPM endurance racing",
+    "Custom **Garrett GT42RS turbocharger** (single-turbo conversion, 1.5 bar boost) with **Tial 44mm wastegate** and **GReddy Type-R intercooler** (core volume: 2.8L, 80% efficiency at 200°F IAT), feeding a **Weber Alpha throttle body** (85mm) and **Bosch Motorsport 044 high-flow fuel pumps** (dual setup, 450 LPH each) for 750+ WHP on E85",
+    "Chassis-specific **Penske 8760 3-way adjustable coilovers** (2.5-inch diameter, 14-position rebound, 22-position compression) with **Eibach ERS race springs** (front: 1,200 lb/in, rear: 1,500 lb/in) and **AP Racing 6-piston monoblock calipers** (380mm carbon-ceramic rotors) paired with **Ferodo DS3000 brake pads** for 1.2G deceleration from 200 mph"
+  ],
+  "estetica": [
+    "Full **GTR Longtail Evo-spec carbon fiber bodywork** (pre-preg autoclave, 1.2mm thickness) with **Vortex Generators** (3D-printed titanium, 0.8mm chord) on the rear fenders for 30% reduction in lift at 180 mph, and a **custom Gurney flap** (25mm height) on the rear diffuser for 150 kg of downforce at 150 mph",
+    "**OMP Carbon Kevlar racing seats** (FIA 8862-2009 certified, 1.2kg weight reduction per seat) with **Schroth 6-point harnesses** (ASM2 configuration) and a **McLaren F1 GTR-exclusive roll cage** (T45 steel, 45mm diameter, 3mm wall thickness) welded to the monocoque with **Aerospace-grade Argon arc welding**",
+    "**BBS LM-R wheels** (18x11 front, 18x13 rear, 3-piece forged magnesium, 6.5kg per wheel) wrapped in **Michelin Pilot Sport Cup 2 R tires** (345/35 R18 front, 335/30 R18 rear) with **ATS DTM-spec central locking hubs** (titanium, 1.8kg per hub) and **Brembo Motorsport titanium wheel studs** (M12x1.5, 120mm length)"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "190E 2.5-16 EVOLUTION II EVO",
+  "prestazioni": [
+    "Engine: M102.985 (2.5L 16V DOHC) with forged internals including Mahle Motorsport forged pistons (8.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from Manley Performance. Upgraded to a custom Schrick 284° camshaft set with adjustable vernier pulleys for precise valve timing.",
+    "Forced Induction: Garrett GT35R turbocharger (62mm compressor, 76mm turbine) with a custom 3.5-inch stainless steel turbo manifold by TurboSmart, paired with a Tial MV-R 44mm external wastegate and a custom intercooler setup (GReddy Type-S front-mount, 2.5-inch piping) with a Bosch 044 fuel pump and Siemens DEKA 80lb/hr injectors.",
+    "Drivetrain & Handling: OS Giken 2.2L limited-slip differential with a reinforced Quaife ATB helical gearset, paired with a Sachs Performance Stage 3 clutch and lightweight flywheel. Suspension features Ohlins Road & Track coilovers (24-way adjustable damping) with Eibach Pro-Street S springs (20mm drop) and polyurethane bushings from Powerflex (Black Series). Braking upgraded to AP Racing 6-piston calipers with 355mm two-piece rotors (front) and 330mm (rear), using Ferodo DS2500 pads and Goodridge G-Stop braided lines."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion using the AMG EVO II OEM-style fender flares (extended 50mm front, 70mm rear) from RW Carbon, paired with a custom front splitter and rear diffuser by Vorsteiner. Rear wing is a custom 3D-printed carbon fiber unit (1,200mm span) with adjustable Gurney flaps, modeled after the DTM-era 190E EVO II aero package.",
+    "Wheels & Tires: BBS RS-GT II 17x9.5 (ET15) and 17x11 (ET20) wheels with custom center-lock adapters, wrapped in Michelin Pilot Sport Cup 2 tires (245/40/17 front, 285/35/17 rear). Wheel spacers are H&R 15mm hubcentric units with extended wheel studs from ARP.",
+    "Interior: Full Recaro Sportster CS bucket seats (EVO II-spec) with Schroth 6-point harnesses, mounted on custom aluminum seat rails. Dashboard features a digital AIM MXS Strada 1.2 dash with integrated data logging, while the steering wheel is a Momo Prototipo EVO (350mm) with a quick-release hub. Shift knob is a custom titanium unit from CAE, paired with a short-throw shifter from B&M (25% reduction)."
+  ]
+}

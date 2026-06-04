@@ -1,0 +1,20 @@
+{
+  "brand": "MCLAREN",
+  "model": "SABRE",
+  "prestazioni": [
+    "Engine: M840T (4.0L twin-turbocharged V8, 720S-derived) with a bespoke McLaren Special Operations (MSO) titanium connecting rod upgrade from Pankl Racing Systems, reducing reciprocating mass by 18% for 9,500 RPM redline capability",
+    "Forced Induction: Twin Garrett GTX5533R Gen II turbochargers with billet compressor wheels, 76mm inducer, and 3D-printed Inconel turbine housings (custom-mapped for 2.2 bar peak boost, targeting 950+ WHP on E85)",
+    "Fuel System: Full Motec M150 ECU with dual Bosch Motorsport 2,200cc/min port injectors and supplementary AEM 2,000cc/min direct injectors, paired with a Radium Engineering dual-catch-can system to mitigate crankcase pressure under sustained 3.5G lateral loads",
+    "Exhaust: MSO-developed 3.5-inch titanium equal-length headers with inconel merge collectors, feeding into a custom Akrapovič 70mm titanium exhaust system with electronically actuated bypass valves (sound tuned to 110dB at 7,000 RPM)",
+    "Drivetrain: Quaife ATB differential with 45% preload and carbon-fiber reinforced clutch pack, mated to a Ricardo 7-speed SSG transmission with upgraded synchros and a lightweight flywheel (reducing rotational inertia by 22%)",
+    "Suspension: Öhlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression), paired with MSO-spec carbon-ceramic brake rotors (410mm front, 390mm rear) and AP Racing CP9436-8 calipers with titanium pistons",
+    "Aerodynamics: Full MSO carbon-fiber aero package, including a fixed rear wing with active Gurney flap (adjustable via steering wheel-mounted controls), front splitter with 3-stage adjustable dive planes, and underbody diffuser with vortex generators (generating 850kg of downforce at 250 km/h)"
+  ],
+  "estetica": [
+    "Body: Full carbon-fiber body kit from MSO’s ‘Speedtail’ lineage, including a bespoke front bumper with integrated LED daytime running lights (replacing the standard Sabre’s splitters), and a rear diffuser with exposed titanium exhaust outlets",
+    "Wheels: HRE FF16 flow-formed forged wheels (20x11 front, 21x13 rear) with titanium hardware, wrapped in Pirelli P Zero Trofeo R tires (265/30 R20 front, 325/25 R21 rear) and secured with McLaren-designed center-lock nuts (anti-theft keyed pattern)",
+    "Interior: Full Alcantara-wrapped cabin with MSO ‘Speedtail’-inspired seats (carbon-fiber shell, 6-point Schroth harnesses), a bespoke 12.3-inch digital dash (Motec C127 data logger integrated), and a titanium shift knob for the SSG transmission",
+    "Lighting: Full LED upgrade with LUX V3 adaptive headlights (laser-assisted high beams) and sequential LED taillights (custom-programmed via Motec CAN bus), with a rear light bar integrated into the rear wing’s trailing edge",
+    "Details: MSO ‘Stealth’ matte carbon-fiber weave with exposed titanium fasteners, a custom ‘Sabre’ script laser-etched into the windshield header, and a one-off paint scheme (‘Liquid Silver’ with iridescent flakes, applied via 12-stage process)"
+  ]
+}

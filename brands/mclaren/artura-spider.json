@@ -1,0 +1,14 @@
+{
+  "brand": "MCLAREN",
+  "model": "ARTURA SPIDER",
+  "prestazioni": [
+    "M840TE 2.9L Twin-Turbo V6 Hybrid (MCT) engine: Full carbon-fiber intake plenum by Novitec with integrated 102mm throttle body, paired with a McLaren Special Operations (MSO) bespoke ECU remap targeting 780hp (up from 671hp) with optimized torque curve for the Artura Spider's rear-biased AWD system, retaining the stock M840TE's 8,500 RPM redline but with a 15% increase in mid-range torque (3,000-6,000 RPM) via custom camshaft profiles from Schrick (280° intake / 276° exhaust, 12.5mm lift).",
+    "Exhaust system: Fi EXHAUST 3.5-inch titanium full-active valvetronic exhaust with quad 100mm carbon-fiber tips, replacing the OEM rear silencer and integrating with the M840TE's hybrid system to eliminate backpressure while maintaining OBD-II compliance via a secondary lambda sensor bypass module from Dimsport.",
+    "Suspension & Chassis: Öhlins TTX46 MkII coilovers with McLaren-specific valving, paired with a custom 3D-printed aluminum subframe brace by 3D Systems (using McLaren's proprietary AlSi10Mg alloy) to reduce flex by 22% under lateral load, alongside a set of BBS FI-R 20x9.5 +35 / 21x12.5 +45 forged wheels wrapped in Pirelli P Zero Trofeo R tires (245/35 R20 front, 325/30 R21 rear) for optimized weight transfer during the Artura Spider's unique 'Dynamic Mode' launch control."
+  ],
+  "estetica": [
+    "Aerodynamics: Vorsteiner V-Flow carbon-fiber front splitter with integrated canards (designed via CFD for the Artura Spider's open-top airflow dynamics), paired with a custom 3-piece rear diffuser by Liberty Walk (LW-MCLARTURA) featuring active Gurney flaps that deploy at 120mph to reduce lift by 38% without increasing drag. Includes a removable hardtop with a 2x2 carbon-fiber weave by SGL Carbon, reducing weight by 4.2kg over OEM while improving torsional rigidity.",
+    "Body Kit: Novitec 'N-Largo' widebody conversion for the Artura Spider, extending front fenders by 50mm and rear quarters by 65mm to accommodate the BBS FI-R wheels, with custom carbon-fiber side skirts featuring integrated LED turn signals (DRLs by LUX Automotive) and a rear bumper lip spoiler with a 3D-printed titanium support structure (matching the M840TE's hybrid cooling requirements).",
+    "Interior: MSO 'Track Theme' carbon-fiber weave seats with 6-point Schroth Profi II-6 harnesses, Alcantara-wrapped dashboard with a custom 12.3-inch curved display by Alpine (replacing the OEM infotainment) running McLaren's proprietary 'Race Telemetry' software. Includes a titanium roll bar by Heigo (TÜV-certified) with integrated fire suppression system (Lifeline Zero 360) and a bespoke titanium shift knob by BBI Autosport (for the 8-speed SSG transmission) with a 3D-engraved Artura Spider logo."
+  ]
+}

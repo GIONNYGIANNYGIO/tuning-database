@@ -1,0 +1,14 @@
+{
+  "brand": "MCLAREN",
+  "model": "SABRE TRACK PACK",
+  "prestazioni": [
+    "M840T 4.0L twin-turbo V8 (engine code: M840T) upgraded with a bespoke McLaren Special Operations (MSO) titanium 100-cell catalytic converter delete downpipes (2.5\" diameter, 3D-printed Inconel 625) paired with a Garrett GT35R turbocharger hybrid core (84mm billet compressor wheel, 67mm turbine, 1.15 A/R turbine housing) for 950whp on E85 with 32psi boost",
+    "Full MSO carbon-fiber reinforced polymer (CFRP) dry sump oil pan with integrated Accusump 3-quart pre-oiler and dual scavenge pumps to prevent oil starvation during sustained 2.5G lateral loads on track",
+    "Ohlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression) and McLaren-specific spring rates (800lb/in front, 1200lb/in rear) paired with a bespoke MSO front upper control arm reinforcement kit (7075-T6 aluminum, 30% stiffer than OEM) for sub-2.0s 0-60mph launches"
+  ],
+  "estetica": [
+    "Full MSO 'Track Pack' carbon-fiber aero suite including a 3D-printed front splitter with integrated dive planes (tested to 120kg downforce at 120mph), a fixed rear wing with dual-element Gurney flaps (adjustable angle of attack via quick-release pins), and a rear diffuser with vortex generators (modeled after McLaren's GT3 program)",
+    "Bespoke MSO 'Liquid Silver' paint finish with a 5-layer pearlescent flake system (3M Chrome Pearl) and clear bra PPF (XPEL Stealth) applied to high-impact zones (front bumper, rocker panels, and A-pillars) with hydrophobic ceramic coating (Gtechniq Crystal Serum Ultra)",
+    "Recaro SPG XL carbon-fiber bucket seats (FIA 8862-2009 certified) with 6-point Schroth Profi II harnesses and MSO-approved roll cage integration (T45 steel, MIG-welded, with gusseted joints) painted in 'McLaren Orange' with a satin clear coat"
+  ]
+}

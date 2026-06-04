@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "190SL",
+  "prestazioni": [
+    "Engine swap to a M129.980 (3.0L inline-6 from the Mercedes-Benz 300SL 'Gullwing') with a custom billet aluminum intake manifold by Kamei and a bespoke 3D-printed titanium exhaust header by Supersprint, paired with a Garrett GT2860RS turbocharger (0.86 A/R turbine housing) and a Pierburg 45mm mechanical fuel injection system calibrated for 98 RON fuel",
+    "Full chassis reinforcement using a custom-fabricated 4130 chromoly roll cage by Matter Fab, integrated with a bespoke front strut tower brace by H&R and a rear triangulated subframe brace by AutohausAZ, combined with polyurethane bushings by Powerflex (PFB80-1201 for front control arms, PFB80-1202 for rear trailing arms)",
+    "Suspension overhaul with Ohlins Road & Track DFV coilovers (custom valved for the 190SL’s 1,150 kg weight), paired with Eibach Pro-Spacer wheel spacers (20mm front, 25mm rear) and a custom-fabricated rear sway bar by Sway-A-Way (22mm diameter, adjustable rate via spherical rod ends)"
+  ],
+  "estetica": [
+    "Full carbon fiber body conversion using a custom 190SL-specific aero kit by RW Carbon, including a front splitter with integrated NACA ducts, side skirts with air curtains, and a rear diffuser with dual exhaust cutouts, all finished in matte clear coat with exposed weave",
+    "Custom-fabricated 16x7.5-inch front and 16x8.5-inch rear wheels by BBS (LM-R style, 3-piece construction) with titanium hardware, wrapped in Michelin Pilot Sport Cup 2 tires (195/45/16 front, 225/45/16 rear) and fitted with custom center-lock adapters by DPE",
+    "Interior retrim with full Alcantara upholstery by Katzkin (steering wheel, shift boot, and door cards in Anthracite), paired with a custom gauge cluster by Defi (3.5-inch Advanced BF series boost, oil pressure, and wideband AFR gauges) and a bespoke short-throw shifter by Quaife (QBE60G for the M129 gearbox)"
+  ]
+}

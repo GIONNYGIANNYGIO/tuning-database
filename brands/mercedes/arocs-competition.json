@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES",
+  "model": "AROCS COMPETITION",
+  "prestazioni": [
+    "OM473 LA (15.6L V6 Turbo Diesel) engine: Garrett GT4720R turbocharger upgrade with billet compressor wheel (76mm inducer, 106mm exducer) and titanium-aluminide turbine wheel, supporting 1,200Nm torque at 1,200 RPM with a custom BorgWarner EFR wastegate actuator for precise boost control (target: 3.2 bar peak pressure).",
+    "Mercedes-Benz OM473-specific fuel system overhaul: Bosch CP4.2 high-pressure fuel pump upgrade to 2,500 bar rail pressure, paired with Denso G4S 3000cc/min injectors (PN: 095000-7550) and a custom ECU remap via Mercedes-Benz MBUX Performance Module (unlocking Stage 3 torque mapping for off-road rally applications).",
+    "Chassis reinforcement for extreme duty: Mercedes-Benz Arocs Competition-specific KW 860-2000 3-way adjustable coilover suspension with remote reservoirs, reinforced with custom-made chromoly steel subframe braces (designed by H&R for the Arocs platform) and a Quaife ATB differential (PN: QDF15R) for the rear axle to handle 1,500Nm+ torque in off-road conditions."
+  ],
+  "estetica": [
+    "Custom Rally Raid aero kit by Liberty Walk (Arocs-specific widebody fenders, front splitter, and rear diffuser in carbon fiber, designed for desert racing airflow dynamics).",
+    "Mercedes-Benz Arocs Competition-exclusive LED light bar integration: Rigid Industries E-Series Pro 50-inch light bar with amber fog lenses, mounted on a custom CNC-machined aluminum roof rack (designed by Alu-Cab for the Arocs cab structure) with integrated antenna mounts for satellite comms.",
+    "Interior overhaul: Sparco Pro2000 carbon fiber racing seats with Schroth 6-point harnesses (PN: 60030.95), paired with a custom Alcantara-wrapped Arocs Competition steering wheel featuring a quick-release hub (by OMP) and a Motec C127 dash display for real-time telemetry (boost, EGT, fuel pressure)."
+  ]
+}

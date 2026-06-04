@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "200T W123 WAGON",
+  "prestazioni": [
+    "Engine swap to M110.986 2.8L inline-6 (from W123 280E) with Schrick 272° camshafts, ported and polished cylinder head, and custom 3.62:1 final drive ratio for improved torque delivery in the 2,500-4,500 RPM range, paired with a K-Jetronic mechanical fuel injection system recalibrated by Kugelfischer for 98 RON fuel",
+    "Custom turbocharged setup using a Garrett T25 .63 A/R turbocharger with a bespoke cast-iron exhaust manifold (designed by MB Tuning Sweden) and a Spearco air-to-water intercooler mounted in the original radiator support, pushing 0.8 bar of boost with a Pierburg 35/40 mm wastegate and a custom ECU-less ignition advance curve via a Bosch 0 227 100 103 distributor",
+    "Suspension overhaul with Bilstein Sport shocks (valved specifically for the W123 wagon’s 1,400 kg curb weight), Eibach Pro-Kit springs (lowering 30mm front, 25mm rear), and polybushings from Febi Bilstein (part #01747 for front control arms, #01748 for rear subframe) to eliminate body roll during spirited driving on B-roads"
+  ],
+  "estetica": [
+    "Full OEM+ resto-mod with Mercedes-Benz Classic Center’s ‘Lichtgrau’ (DB 718) paint code, sanded to a 1,200-grit finish and clear-coated with Spies Hecker Permasolid HS Vario Clear for a factory-matte appearance, paired with W123 wagon-specific ‘Safari’ roof rack (part #123 850 05 01) in raw aluminum",
+    "Custom interior retrim using Recaro SRD front seats (recovered in Mercedes-Benz ‘Truffelbraun’ MB-Tex with perforated inserts) and a W123 wagon-specific rear bench (part #123 220 00 10) upholstered in matching material, with a Nardi Classic steering wheel (380mm, walnut rim) and a VDO instrument cluster (part #123 540 04 02) retrofitted with white-faced gauges",
+    "Exterior lighting upgraded to Hella E-Code headlights (part #1A6 000 001/01L) with Cibie Oscar halogens, Hella 500 fog lights (part #1NL 007 795-001) mounted in the original bumper cutouts, and rear LED taillights from a W124 wagon (part #124 820 00 02) adapted with custom wiring harnesses for a modern look"
+  ]
+}

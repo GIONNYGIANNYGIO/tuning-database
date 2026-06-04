@@ -1,0 +1,14 @@
+{
+  "brand": "McLaren",
+  "model": "MP4/5",
+  "prestazioni": [
+    "Replacement of the stock Honda RA109E 3.5L V10 (72° bank angle, 650 hp @ 13,000 RPM) with a bespoke **Honda RA122E** 3.5L V12 (derived from the NR500 motorcycle project) featuring **Mahle Motorsport forged pistons** (9.5:1 CR), **Pankl Racing Systems titanium connecting rods**, and a **Cosworth DFV-derived dry-sump lubrication system** with **Mocal 10-row oil cooler** for sustained 14,500 RPM operation",
+    "Installation of a **Weber-Marelli IAW P8 electronic fuel injection system** (replacing the stock Honda PGM-FI) with **Bosch Motorsport 0 280 150 502 120-bar direct injectors** and a **Magneti Marelli 8-bit ECU** recalibrated by **Life Racing** for 1,200+ hp on **ELF HTX 102R 102-octane race fuel** (with **Motul 300V 15W-50** for lubrication)",
+    "Chassis reinforcement via **T45 aerospace-grade steel roll cage** (designed by **Sparco Pro2000**) with **Schroth Racing 6-point harnesses**, **AP Racing CP8446-3600 carbon-carbon brake discs** (360mm front, 330mm rear) with **Brembo GP4-RR calipers**, and **Penske 8760 3-way adjustable dampers** (replacing the stock Koni units) paired with **Eibach ERS 1200N/mm springs** for 3.5G cornering"
+  ],
+  "estetica": [
+    "Full **RML Group carbon-fiber bodywork** (replacing the stock Kevlar panels) with **Vortex Generators** on the front splitter (designed in **CFD by Sauber Engineering**) and a **McLaren F1 GTR-inspired rear diffuser** (fabricated by **C-West Japan**) for 800kg downforce at 200mph",
+    "Custom **OMP KS-10 carbon-fiber steering wheel** with **Motec C125 dash display** (replacing the stock Honda analog cluster) and **Sabelt 6-point seat** (molded to driver’s physique) upholstered in **Alcantara Suede with Kevlar stitching**",
+    "Exterior livery in **1990 McLaren-Honda Marlboro Team colors** (PMS 185C red, PMS Cool Gray 11C) with **3M Scotchcal 950 matte clear coat** and **Avery Dennison Supreme Wrapping Film** for retro-reflective Marlboro logos (applied by **WrapStyle UK**)"
+  ]
+}

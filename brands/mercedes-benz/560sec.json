@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "560SEC",
+  "prestazioni": [
+    "Engine swap to a **M117.968** (5.6L V8) with forged internals: Mahle Motorsport forged pistons (9.5:1 CR), Carrillo H-beam connecting rods, and a billet crankshaft from **JE Pistons** for 800+ HP reliability under forced induction. Pair with a **Garrett GTX5533R** turbocharger (1.05 A/R turbine housing) and a **Precision Turbo 46mm wastegate** for precise boost control at 22 PSI on 100-octane fuel.",
+    "Fuel system overhaul: **Bosch Motorsport 044 high-flow fuel pump** (340 LPH), **Injector Dynamics ID2000** (2000cc/min) injectors, and a **Radium Engineering dual-port fuel pressure regulator** (set to 58 PSI base pressure). Custom **ECU tuning via Motec M150** with flex-fuel capability and individual cylinder trimming for the M117’s uneven firing order (1-5-4-2-6-3-7-8).",
+    "Drivetrain reinforcement: **OS Giken Super Lock LSD** (2.5-way) in the **W126 5-speed manual transmission** (converted from the stock 4-speed auto via a **G-Force GSR-5 transmission** with a **Tilton 7.25\" twin-disc clutch**). Upgraded half-shafts from **GKN Driveline** with CV joints rated for 1,000 Nm of torque, and a **Peloquin differential cover** with additional cooling fins for the 3.27:1 final drive."
+  ],
+  "estetica": [
+    "Widebody conversion using **Rocket Bunny V1 (W126 SEC-specific) fender flares** in carbon fiber, paired with **Volk Racing TE37SL** wheels (9.5x18 ET15 front, 11x18 ET0 rear) wrapped in **Michelin Pilot Sport Cup 2** tires (245/40/18 front, 295/35/18 rear). Custom **AP Racing 6-piston calipers** (front) and **Brembo GT 4-piston calipers** (rear) with **DBA 5000 Series rotors** (355mm front, 330mm rear).",
+    "Aerodynamic package: **AMS Alpha Performance W126 SEC front splitter** (carbon fiber, 3-piece adjustable) with **custom 3D-printed NACA ducts** for brake cooling. **Verus Engineering W126 rear diffuser** (carbon fiber, 4-channel design) and a **custom 1.5m² rear wing** (inspired by the **Mercedes-Benz CLK GTR**, adjustable via **AeroCatch mounts**). Full **PPG Mercedes-Benz Classic White (DB 040) respray** with **3M Matte Black vinyl wrap** on the roof and pillars.",
+    "Interior overhaul: **Recaro Pole Position seats** (W126-specific mounting brackets) upholstered in **Bridge of Weir leather** with **Alcantara suede inserts** and **Schroth Profi II 6-point harnesses**. **Momo Prototipo steering wheel** (380mm, suede) with **NRG quick-release hub**, and a **custom roll cage** (TIG-welded 4130 chromoly, **Autopower bolt-in design**) painted **Gunmetal Gray (RAL 7046)**. **Defi BF gauges** (oil pressure, boost, AFR) mounted in a **custom aluminum A-pillar pod**, and a **Pioneer AVH-Z5000DAB** head unit with **Focal Utopia Be tweeters** and **JL Audio 12W7 subwoofer** in a sealed enclosure."
+  ]
+}

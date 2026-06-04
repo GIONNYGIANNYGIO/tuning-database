@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "A35 AMG",
+  "prestazioni": [
+    "AMG M260 DE 20 AL (2.0L turbocharged inline-4) hybrid turbo upgrade to a Garrett GTX3071R Gen II with billet compressor wheel, 0.63 A/R turbine housing, and 3D-printed titanium wastegate actuator for reduced lag and 380+ HP on 98 RON fuel with supporting mods",
+    "Full 3.5-inch turbo-back exhaust system by Akrapovič with titanium-coated 409L stainless steel headers, 200-cell catalytic converters, and a valved rear section featuring a 100mm carbon-fiber tip for optimized scavenging and 12-15 HP gain over stock",
+    "Custom ECU flash by DUDMD Tuning (Stage 2+) with bespoke ignition timing maps for the M260’s dual-injection system (port + direct), optimized wastegate duty cycles, and a 7,500 RPM fuel cut limiter removal, paired with a Cobb Accessport for real-time monitoring of AFR and boost pressure via CAN bus integration"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit for the W177 chassis, featuring 30mm extended front fenders, 40mm rear overfenders, and a carbon-fiber GT-style rear wing with adjustable angle (0-15 degrees) and integrated third brake light",
+    "OEM+ AMG Night Package II front grille with gloss-black slats and a custom 3D-printed carbon-fiber lower splitter by Prior Design, including a 20mm adjustable dive plane for increased front-end downforce at high speeds",
+    "BC Racing BR Series coilovers with 8kg/mm front and 10kg/mm rear springs, 30-way adjustable damping, and Swift Springs linear-rate springs for precise corner weighting, paired with H&R 25mm front and 20mm rear anti-roll bars to eliminate body roll in aggressive cornering"
+  ]
+}

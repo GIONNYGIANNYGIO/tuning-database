@@ -1,0 +1,14 @@
+{
+  "brand": "MCLAREN",
+  "model": "P1 CARBON SERIES",
+  "prestazioni": [
+    "M838TQ 3.8L twin-turbo V8 hybrid powertrain recalibration via McLaren Special Operations (MSO) Stage 3 ECU/TCU flash, targeting 1,050 PS (1,036 hp) at 7,500 RPM with a 9,000 RPM redline, paired with a bespoke IPAS (Instant Power Assist System) lithium-ion battery upgrade to 1.9 kWh for 20% faster torque fill (0-60 mph in 2.4s)",
+    "Garrett GT35R twin-scroll turbochargers with billet compressor wheels (62mm inducer, 84mm exducer) and Inconel 718 turbine wheels, mated to custom 42mm wastegates with TiAL MV-R 44mm external actuators, supporting 2.2 bar (32 psi) peak boost on 100-octane fuel with a 20% water-methanol injection system (AEM 340LPH pump, Snow Performance Stage 3 controller)",
+    "Full titanium exhaust system by Akrapovič, featuring 4-2-1 equal-length headers with 3mm wall thickness, 3.5-inch diameter 6061-T6 aluminum downpipes, and a dual-mode titanium rear silencer with electronically actuated bypass valves, reducing weight by 18 kg while increasing exhaust gas velocity by 12% for optimized turbo spool"
+  ],
+  "estetica": [
+    "MSO Carbon Series-specific full carbon fiber monocoque reinforcement with a 3K twill weave and clear satin finish, including a bespoke front splitter with integrated active aero flaps (adjustable via McLaren’s IRIS infotainment system) and a fixed rear wing with a 1,200mm span and 3D-printed titanium endplates for 40% more downforce at 180 mph",
+    "RML Group-designed widebody conversion kit, extending front fenders by 50mm and rear quarters by 70mm to accommodate 20x11.5-inch front and 21x13.5-inch rear forged aluminum wheels (Dymag CX-R, 9.5kg per wheel) wrapped in Pirelli P Zero Trofeo R tires (265/35 R20 front, 325/30 R21 rear) with custom compound for 15% higher lateral grip",
+    "Custom laser-etched carbon fiber interior by Vorsteiner, featuring a full Alcantara headliner, MSO-spec carbon fiber door cards with integrated titanium door pulls, and a bespoke steering wheel with a 3D-printed magnesium core, Alcantara grip, and illuminated shift lights (RGB adjustable via McLaren’s IRIS system)"
+  ]
+}

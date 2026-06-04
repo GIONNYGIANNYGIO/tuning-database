@@ -1,0 +1,14 @@
+{
+  "brand": "MCLAREN",
+  "model": "GT MSO",
+  "prestazioni": [
+    "M840TE (4.0L twin-turbo V8) engine recalibration via McLaren Special Operations (MSO) bespoke ECU remap with 750+ hp output, utilizing a Motec M182 standalone ECU for direct port injection control and optimized ignition timing for 99 RON fuel compatibility",
+    "Garrett GT35R turbocharger upgrade with billet compressor wheels (62mm inducer, 84mm exducer) and Inconel turbine housings (0.82 A/R) paired with custom MSO titanium downpipes and a secondary heat exchanger for sustained boost stability (22 psi peak)",
+    "Ohlins TTX46 MkII coilovers with MSO-specific valving, 3-way adjustable damping, and McLaren GT MSO chassis-specific spring rates (front: 220 N/mm, rear: 280 N/mm) paired with a full carbon fiber subframe brace from MSO Defined for torsional rigidity enhancement"
+  ],
+  "estetica": [
+    "MSO Defined 'Velocity' carbon fiber body kit with active aerodynamics, including a fixed rear wing with dual-element Gurney flaps (adjustable via McLaren Dynamics panel) and a front splitter with integrated canards (3D-printed from Toray T800 carbon fiber)",
+    "Novitec McLaren GT MSO-specific side skirts with LED-illuminated air curtains and a rear diffuser featuring titanium exhaust outlets (custom 3D-printed by MSO in collaboration with Novitec) for a 12% reduction in drag coefficient",
+    "MSO Heritage 'Speedmark' livery in 'Glacier White' with hand-painted 'MSO Blue' pinstripes (applied by McLaren's in-house paint specialists) and a full carbon fiber roof with a bespoke 'GT MSO' script inlaid via laser-engraved aluminum"
+  ]
+}

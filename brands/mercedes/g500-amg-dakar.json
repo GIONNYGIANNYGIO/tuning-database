@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES",
+  "model": "G500 AMG DAKAR",
+  "prestazioni": [
+    "Engine: M176 DE40 AL (4.0L V8 Biturbo) – Full standalone ECU conversion to a Motec M150 with custom 2-bar MAP sensors and individual cylinder fuel trims for optimized boost response (target: 1.2 bar peak, 0.9 bar spool) paired with a Garrett GTX4202R turbo upgrade (76mm compressor, 62mm turbine) and custom 3.5\" titanium downpipes by Armytrix with 200-cell catalytic converters for Euro 6d compliance.",
+    "Suspension: Full Ohlins TTX46 coilover kit with Dakar-spec 3-way adjustable damping (compression, rebound, and high-speed compression), reinforced spherical bearing upper mounts by 034Motorsport, and custom 2.5\" diameter sway bars (front: 28mm, rear: 25mm) with adjustable end links by H&R for reduced body roll during high-speed desert traversal.",
+    "Drivetrain: Quaife ATB helical LSD in the 9G-Tronic transmission (722.9) with a custom torque converter by Precision Industries (stall speed: 3,200 RPM) and a PWR Australia 4-row transmission cooler with integrated thermostat for sustained 1,000+ Nm torque delivery. Transfer case upgraded to a custom 40:1 crawl ratio setup by Advance Adapters with a Marlin Crawler 4:1 gear reduction kit for extreme off-road articulation."
+  ],
+  "estetica": [
+    "Aero: Full custom Dakar-inspired widebody kit by Prior Design (PD-GX800) with carbon fiber fender flares (3.5\" wider front, 4.0\" wider rear), integrated LED light pods (Baja Designs Squadron Pro), and a reinforced aluminum roof rack by Front Runner Outfitters with a 200W solar panel for auxiliary power. Front bumper replaced with a custom steel winch bumper by ARB (12,000 lb winch, synthetic rope) with integrated skid plates (5mm aluminum, 3mm steel reinforcement).",
+    "Exterior: Full vinyl wrap in 3M Matte Military Green (1080 series) with custom hydrographic camouflage accents (Kryptek Highlander pattern) on the hood, fenders, and doors. Side steps replaced with Rock Sliders by White Knuckle Offroad (3\" diameter DOM tubing, 0.120\" wall thickness) and a custom rear swing-out tire carrier by Mantec (holds 37\" tire + 10L RotopaX fuel canister).",
+    "Lighting: Full LED conversion with Baja Designs OnX6 Hybrid LED bars (50\" front, 30\" rear) and custom DRLs integrated into the Prior Design grille (Cree XHP70.2 LEDs, 6,500K color temp). Rear lighting upgraded to Rigid Industries E-Series Pro (red/amber combo) with a custom CNC-machined aluminum light bar mount by Billetworkz."
+  ]
+}

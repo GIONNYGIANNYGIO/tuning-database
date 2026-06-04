@@ -1,0 +1,14 @@
+{
+  "brand": "MCLAREN",
+  "model": "MP4-12C SPIDER",
+  "prestazioni": [
+    "Engine: M838T 3.8L twin-turbocharged V8 (90° bank angle, dry-sump lubrication, 4-valve DOHC per cylinder) – forged internals upgrade with Manley I-beam connecting rods (H-beam for high-RPM stability) and JE Pistons 2618 alloy forged pistons (9.0:1 compression ratio for E85 compatibility).",
+    "Turbochargers: Precision Turbo & Engine PT6766 CEA billet wheel turbos (67mm inducer, 66mm exducer) with TiAL MV-R 44mm external wastegates (set to 2.2 bar peak boost) and custom 4-ply silicone charge pipes (V-band clamps) from Vibrant Performance.",
+    "Fuel System: Full Motec M150 ECU standalone management with dual Bosch Motorsport 0280158888 2,200cc/min high-impedance injectors (E85-optimized) and a Radium Engineering dual-pump fuel surge tank (feeding a Walbro 450 LPH in-tank pump + external AEM 50-1200 pump for 1,200+ HP capability)."
+  ],
+  "estetica": [
+    "Aero: Vorsteiner MP4-12C Spider-specific carbon fiber widebody kit (front splitter, side skirts, and rear diffuser with integrated Gurney flaps) paired with a custom 3D-printed active rear wing (carbon fiber, 1,200mm span, 300mm chord) with hydraulic actuation (via Bosch Rexroth servo valve) for dynamic angle adjustment (0° to +18°).",
+    "Wheels: HRE P101SC 20x10.5 ET45 front / 21x12.5 ET50 rear (custom offsets for MP4-12C Spider wheel arches) in brushed titanium finish, wrapped in Michelin Pilot Sport Cup 2 R tires (275/30 R20 front, 325/25 R21 rear) with TPMS sensors from Schrader Electronics (433MHz).",
+    "Interior: Full Alcantara retrim by Saddleback Leather (steering wheel, dashboard, door cards) with custom 3D-printed carbon fiber shift paddles (extended length for quicker upshifts) and a Motec C127 dash display (replacing the stock cluster) with integrated G-force logging and lap timer."
+  ]
+}

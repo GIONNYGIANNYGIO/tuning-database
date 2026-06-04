@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "A45 AMG",
+  "prestazioni": [
+    "AMG M133 DE20 AL 2.0L I4 turbocharged engine: Full PFI to port-and-direct hybrid injection conversion using Bosch Motorsport HDEV5.2 injectors (1,200cc/min) paired with a custom Schrick 272° camshaft set (intake/exhaust lift: 10.5mm/10.2mm) for optimized mid-to-high RPM power delivery (6,500-7,200 RPM range).",
+    "Garrett GTX3582R Gen II turbocharger with billet compressor wheel (62mm inducer, 82mm exducer) and TiAL MV-R 44mm external wastegate, mated to a custom 3.5\" stainless steel downpipe (100-cell catalytic converter delete) and a CSF Race intercooler (bar-and-plate core, 4.5\" thick, 1,200cfm airflow).",
+    "Weistec Engineering Stage 3+ TCU upgrade with custom shift logic (0.15s upshift blips, 3,500 RPM flat-foot shifts) and a PWR Performance radiator (dual-core, 48mm thickness) to sustain 1.5-bar boost under 30-minute track sessions (target: 480whp/450wtq on 98 RON + E85 blend)."
+  ],
+  "estetica": [
+    "RML Short Wheelbase conversion kit (25mm rear axle relocation) with custom carbon fiber front splitter (APR Performance GT-250 spec, 3-piece adjustable) and a Rocket Bunny V3 widebody kit (fenders extended 50mm front/60mm rear, bolt-on overfenders with integrated LED turn signals).",
+    "Ohlins Road & Track DFV coilovers (2-way adjustable dampers, 30-way rebound, 20mm drop) paired with H&R 25mm front/20mm rear anti-roll bars and polyurethane bushings (Powerflex Black Series, 95A durometer) for chassis rigidity.",
+    "BBS CI-R 19x9.5\" ET25 (front) and 19x10.5\" ET35 (rear) forged wheels with Michelin Pilot Sport Cup 2 R tires (255/35 R19 front, 275/30 R19 rear), wrapped in a custom vinyl livery (3M Gloss Black with matte red accents, \"AMG M133\" engine code decals on fenders)."
+  ]
+}

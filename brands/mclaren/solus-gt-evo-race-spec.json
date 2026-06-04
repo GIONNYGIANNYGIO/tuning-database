@@ -1,0 +1,14 @@
+{
+  "brand": "MCLAREN",
+  "model": "SOLUS GT EVO RACE SPEC",
+  "prestazioni": [
+    "Rebuilt **M840T-derived 4.0L V10 (codename: **S840TR**) with forged internals (Mahle Motorsport pistons, Carrillo H-beam rods, billet crankshaft) and a **12.5:1 compression ratio** for sustained 11,500 RPM operation, paired with a **Pankl Racing Systems 6-speed sequential transaxle** featuring a **Wavetrac limited-slip differential** and **AP Racing carbon-carbon clutch** for 0.15s shifts under 3,500Nm of torque load",
+    "Custom **Garrett GT42R turbocharger** (modified with a **titanium-aluminide turbine wheel** and **Inconel 718 compressor wheel**) running **4.2 bar (61 psi) of boost** on **Methanol Injection Systems (MIS) dual-stage port injection** (primary: **Bosch Motorsport 2,200cc/min injectors**, secondary: **12x 1,000cc/min direct injectors**) with a **Motec M182 ECU** managing **individual cylinder knock control** and **anti-lag via secondary throttle bodies**",
+    "Full **Aerodine Composites** carbon-fiber aero package with **active DRS (Drag Reduction System)** on the **rear wing (3-element, 1,200mm span)** and **front splitter with 4-way adjustable dive planes**, generating **1,800kg of downforce at 250 km/h** via **CFD-optimized underbody Venturi tunnels** and **Gurney flaps on the rear diffuser (3-stage adjustability)**"
+  ],
+  "estetica": [
+    "**VIS Racing Carbon Fiber** full monocoque bodywork with **3M Scotchcal Matte Black 2080 wrap** over **raw carbon weave**, featuring **integrated LED daytime running lights (Osram Laserline 2)** and **removable polycarbonate side windows (Makrolon GP)** for weight reduction and driver visibility",
+    "**OMP Racing KS-10 carbon-fiber racing seat** with **Schroth 6-point harness (FHR head restraint)** and **Sabelt HANS device (FIA 8862-2018 certified)**, paired with a **MOMO Prototipo EVO steering wheel (quick-release, 320mm diameter)** wrapped in **Alcantara suede with integrated Motec C127 dash display**",
+    "**BBS FI-R 18x12 (front) / 18x13 (rear) forged magnesium wheels** with **Pirelli P Zero Trofeo R tires (305/665R18 front, 325/705R18 rear)** and **Brembo GT-R monobloc calipers (6-piston front, 4-piston rear)** clamping **390mm carbon-ceramic rotors (CCM-R compound)** with **steel braided lines (Goodridge G-Stop)**"
+  ]
+}

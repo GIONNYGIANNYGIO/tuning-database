@@ -1,0 +1,14 @@
+{
+  "brand": "MCLAREN",
+  "model": "MCL60 F1",
+  "prestazioni": [
+    "Mercedes-AMG M13 E Performance 1.6L V6 hybrid turbocharged power unit (engine code: M13 E Performance) upgraded with a bespoke McLaren Applied Technologies carbon-fiber compressor wheel for the MGU-H, reducing rotational inertia by 18% and improving spool response by 0.03s at 12,000 RPM",
+    "Pankl Racing Systems titanium connecting rods with DLC (Diamond-Like Carbon) coating, reducing reciprocating mass by 120g per rod while increasing tensile strength to 1,800 MPa for sustained 15,000 RPM operation",
+    "Bosch Motorsport MS50.4 ECU with McLaren-specific firmware (v21.3.7) recalibrated for aggressive energy deployment mapping, optimizing MGU-K output to 163 bhp (120 kW) in qualifying mode with a 0.2s burst override for DRS activation zones"
+  ],
+  "estetica": [
+    "McLaren Special Operations (MSO) 'Velocity' livery with 3M Scotchlite 980CR retroreflective film applied to the halo, sidepods, and rear wing endplates for enhanced visibility in low-light conditions (FIA-approved for night races)",
+    "AP Racing carbon-carbon brake ducts with integrated LED temperature sensors (visible through translucent carbon weave) displaying real-time caliper temps via a secondary driver display (McLaren G-Force HUD v2.1)",
+    "Vortex Generators: 12x T-shaped carbon-fiber vortex generators (0.8mm thickness) strategically placed along the leading edge of the front wing main plane to delay airflow separation at high yaw angles (>15°), reducing understeer by 7% at Suzuka’s 130R corner"
+  ]
+}
