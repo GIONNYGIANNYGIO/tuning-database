@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "CLC200 KOMPRESSOR",
+  "prestazioni": [
+    "Supercharger upgrade to an Eaton TVS M90 (2.3L) with a custom pulley system (65mm) and reinforced serpentine belt (Gates K060839) for the M271 E18 ML engine, increasing boost to 0.8 bar (11.6 psi) while maintaining OEM reliability. Paired with a CSF high-flow intercooler (part #3322) and a custom 3-inch aluminum charge pipe setup (VRSF) to reduce intake temps by 25°C under full load.",
+    "Full forged internals build: Mahle Motorsport forged pistons (9.5:1 compression), Eagle H-beam connecting rods (6.123\" length), and a balanced crankshaft (ACL Race Series bearings) to handle 300+ WHP. ARP head studs (part #206-4301) and a ported/polished cylinder head by Schrick with oversized intake valves (36.5mm) and sodium-filled exhaust valves (31.5mm) for improved flow and heat dissipation.",
+    "Standalone ECU conversion to a Link G4+ Xtreme (plug-and-play harness for M271) with custom fueling via dual Bosch 044 high-flow fuel pumps (Walbro 450 LPH in-tank pump as backup), ID1000x injectors (1000cc/min), and a custom-mapped ignition system using NGK IFR7H-11S iridium spark plugs gapped at 0.024\". Exhaust system features a custom 3-inch turbo-back setup with a Milltek Sport 304 stainless steel cat-back (part #3322C) and a secondary cat delete pipe (Supersprint) for maximum flow."
+  ],
+  "estetica": [
+    "Full Rocket Bunny V1 widebody kit (Pandem Design) for the CLC-Class (W203-based), featuring aggressive front fenders (30mm wider), rear quarter panels (40mm wider), and a custom carbon fiber rear diffuser (Seibon). Front bumper lip replaced with a custom 3D-printed ABS unit (designed in-house) with integrated DRLs (Lux H8 V4) and a tow hook delete plate.",
+    "OEM+ wheel setup: BBS LM-R (8.5x18 ET35 front, 9.5x18 ET40 rear) with custom offsets to fill the Rocket Bunny fenders, wrapped in Michelin Pilot Sport Cup 2 tires (235/40/18 front, 265/35/18 rear). Suspension features a full Ohlins Road & Track coilover kit (part #DFV01-01-01) with custom valving for the CLC chassis, paired with H&R 25mm front and 20mm rear anti-roll bars (part #54655-2).",
+    "Aero and lighting: Custom carbon fiber hood (Seibon) with a 3-inch scoop for intercooler ducting, rear wing from a Mercedes-Benz AMG GT3 (repurposed for CLC fitment via custom mounts), and full LED conversion with LUX V3 headlights (HID projector retrofit) and sequential tail lights (Vland). Interior features Recaro Pole Position seats (part #20-85700) with custom Alcantara upholstery (Sparco), a MOMO Mod.78 steering wheel (350mm), and a digital dash (AEM CD-7) replacing the OEM cluster."
+  ]
+}

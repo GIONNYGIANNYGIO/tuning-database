@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "G500 4X4²",
+  "prestazioni": [
+    "Engine: M176 DE40 AL (4.0L V8 Biturbo) – Full standalone ECU conversion using a Motec M150 with custom fuel and ignition maps optimized for 98 RON + E85 flex-fuel capability, paired with a Garrett GTX4202R turbo upgrade (1.28 A/R turbine housing) and a custom 4-inch stainless steel downpipe with a secondary catalytic converter delete (replaced with a GESI high-flow sports cat for emissions compliance in select regions).",
+    "Drivetrain: Reinforced 722.9 7G-Tronic transmission with a PWR Performance transmission cooler and a custom TCU tune by Dimsport to reduce shift lag by 40% and enable launch control at 3,500 RPM. Transfer case upgraded to a Quaife ATB differential for the front and rear axles, with a 50/50 torque split under normal conditions and a custom Haldex controller for dynamic bias adjustment.",
+    "Suspension & Chassis: Full Ohlins TTX46 coilover conversion with 3-way adjustable damping (compression, rebound, and high-speed compression) and custom spring rates (800 lb/in front, 750 lb/in rear) to handle the 4X4²’s 22mm increased wheel travel. Portal axles reinforced with custom CNC-machined aluminum housings by 4Wheel Engineering, paired with a KW Suspensions hydraulic lift system for an additional 50mm of ground clearance on demand."
+  ],
+  "estetica": [
+    "Widebody Conversion: Custom Rocket Bunny G-Class 4X4² kit (Pandem Designs) with extended carbon fiber fenders (3.5-inch wider front, 4-inch wider rear), custom aluminum inner fenders, and a 2-piece carbon fiber hood with dual heat extractors for the M176’s turbochargers.",
+    "Lighting: Full LED retrofit with Osram Night Breaker Laser bulbs (H4 for headlights, H11 for fogs) and a custom JW Speaker Model 8700 LED light bar integrated into the front bumper with a carbon fiber mount. Rear lights replaced with a full LED taillight assembly by Diode Dynamics, featuring sequential turn signals and a custom smoked lens overlay.",
+    "Wheels & Exterior: HRE FF16 wheels (22x12.5 front, 22x13 rear) with a custom offset (-15mm front, -20mm rear) to clear the portal axles, wrapped in Michelin Pilot Sport Cup 2 R tires (325/30 R22 front, 355/25 R22 rear). Full carbon fiber underbody armor by RPI Engineering, including a front skid plate, rock sliders, and a rear diffuser with integrated exhaust outlets for the custom dual 3.5-inch stainless steel exhaust by Remus."
+  ]
+}

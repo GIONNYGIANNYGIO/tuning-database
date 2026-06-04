@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "CLA45 AMG",
+  "prestazioni": [
+    "AMG M133 DE20 AL 2.0L I4 turbocharged engine: Full Weistec Engineering Stage 3+ turbo upgrade with Garrett GTX4202R turbocharger (88mm compressor wheel, 62.6mm turbine wheel, 1.06 A/R turbine housing) paired with Weistec billet aluminum compressor housing, custom 3.5\" titanium downpipe with 200-cell catalytic converters, and Weistec high-flow intercooler core (100% larger than OEM) with billet end tanks for reduced intake temps by 40°C under full boost (2.2 bar absolute)",
+    "AMG M133 DE20 AL: Full fuel system overhaul with Injector Dynamics ID1700x fuel injectors (1,700cc/min flow rate), Radium Engineering dual-catch can setup with -10AN lines, and Bosch Motorsport CP4.2 high-pressure fuel pump (30% increased flow over OEM), paired with a custom ECU tune via HP Tuners with 400+ horsepower on E85 (stock block safe, 8,000 RPM redline with custom camshafts from Schrick)",
+    "Drivetrain reinforcement: Weistec Engineering limited-slip differential (LSD) with 45% lockup under load, upgraded AMG SPEEDSHIFT DCT 7G transmission internals (Forged 300M steel input shaft, billet 5th/6th gear synchros, and Weistec DCT clutch pack with sintered metal friction discs for 800+ Nm torque capacity), paired with a PWR Racing aluminum flywheel and South Bend twin-disc clutch"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit for CLA45 AMG (2019+ facelift models only), featuring carbon fiber front fenders with 50mm extended wheel arches, rear overfenders with integrated diffuser, and custom 3D-printed ABS side skirts with air curtains for brake cooling (kit includes OEM-grade paint-matched finish)",
+    "Vorsteiner V-CF carbon fiber front lip spoiler (CLA45-specific, 3-piece design with integrated LED turn signals) and Vorsteiner V-RT rear diffuser with titanium exhaust tips (102mm diameter, quad-exit setup), paired with a custom 3M Matte Graphite vinyl wrap with gloss black accents on the roof and mirrors",
+    "OEM+ AMG Aero Acoustic front grille (blacked-out with carbon fiber weave insert) and custom 20\" WORK Emotion CR Kiwami wheels (9.5J ET25 front, 10.5J ET30 rear) with Michelin Pilot Sport Cup 2 R tires (255/30/20 front, 285/25/20 rear), paired with H&R Sport Spring Kit (25mm drop) and Ohlins Road & Track coilovers (3-way adjustable damping, 8kg/mm front springs, 10kg/mm rear springs)"
+  ]
+}

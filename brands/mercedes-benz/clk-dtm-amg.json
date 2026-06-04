@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "CLK DTM AMG",
+  "prestazioni": [
+    "Engine: M113 E55 ML (5.4L V8 supercharged, DTM-spec) – Replace OEM Eaton M112 supercharger with a custom-built Sprintex S300-97 (97mm rotor, 14.5psi max boost) paired with a PWR intercooler core (500x300x76mm, 1000hp-rated) and a Vibrant 14503 3.5\" silicone charge pipe kit for reduced lag and improved airflow.",
+    "Forced Induction: Upgrade to a Garrett GTX5533R Gen II turbo (88mm compressor, 1.15 A/R turbine housing) with a custom 3.5\" stainless steel downpipe (Tial 44mm external wastegate, TiAL MV-R 50mm blow-off valve) and a Pierburg CWA 200 high-flow water pump for auxiliary cooling.",
+    "Drivetrain: Install a Tilton 7.25\" triple-plate carbon clutch (2,200 lb-ft capacity) with a Sachs Performance dual-mass flywheel (lightweight, 8.5kg) and a Quaife ATB differential (85% lock, DTM-spec) paired with a Hewland DTM 6-speed sequential gearbox (dog-ring engagement, paddle-shift actuation via Motec C127 ECU)."
+  ],
+  "estetica": [
+    "Aerodynamics: Full HWA DTM aero package (2003-spec) with carbon fiber front splitter (30mm overhang, 3D-printed Gurney flap), rear diffuser (3-stage, 150mm height), and a fixed carbon fiber rear wing (1,200mm span, 300mm chord, 15° angle of attack) with integrated DTM-spec endplates (CNC-machined aluminum, anodized black).",
+    "Body: Custom widebody conversion using HWA DTM OEM carbon fiber fenders (flared 50mm per side, riveted construction) with a full Rocket Bunny V3 CLK kit (carbon fiber side skirts, rear bumper lip, and front canards) and a custom livery in AMG Motorsport Silver (B66 M202) with matte black accents (Sikkens 9010).",
+    "Interior: Full DTM-spec roll cage (TIG-welded 4130 chromoly, 6-point with door bars) by Matter Motorsport, Recaro DTM Pro Racer seats (carbon fiber shell, FIA 8862-2009 certified) with Schroth 6-point harnesses (ASM2, cam-lock), and a Motec C127 dash (12.3\" display, CAN bus integration) with a custom carbon fiber center console (housing a Tilton brake bias adjuster and a Motec PDM15 power distribution module)."
+  ]
+}

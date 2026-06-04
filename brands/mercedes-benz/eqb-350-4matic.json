@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "EQB 350 4MATIC",
+  "prestazioni": [
+    "Upgrade to a **Vitesco Technologies EMIC2.3** high-efficiency inverter with custom silicon carbide (SiC) MOSFETs to optimize power delivery from the **EQB 350's M282 E20 electric motor (215 kW/292 PS, 520 Nm torque)** for a 15% increase in continuous power output (335 PS) while reducing thermal losses by 22%",
+    "Install a **Mahle 800V 12-module liquid-cooled battery pack (90.8 kWh usable, 460 kW peak discharge)** with **Porsche Taycan-derived active thermal management (ATM) software** to enable 250 kW DC fast-charging (10-80% in 18 minutes) and a 0-100 km/h time of 4.9s (vs. stock 6.0s)",
+    "Fit **Brembo GT 380x34mm front and 355x28mm rear monoblock calipers** with **Ferodo DS2500 high-friction pads** and **AP Racing 2-piece floating rotors (380mm front, 355mm rear)** to reduce unsprung weight by 18% while improving fade resistance for track use (0-100-0 km/h in 3.1s vs. stock 3.4s)"
+  ],
+  "estetica": [
+    "**Rocket Bunny V3 widebody kit (EQB-specific carbon fiber fenders, front splitter, and rear diffuser)** with **custom 3D-printed ABS underbody aero panels** to reduce drag coefficient (Cd) from 0.28 to 0.24 while generating 45 kg of downforce at 120 km/h",
+    "**HRE FF16 flow-formed forged wheels (20x9.5 ET35 front, 20x11 ET40 rear)** in **matt bronze finish** with **Michelin Pilot Sport Cup 2 R tires (265/35 R20 front, 295/30 R20 rear)** for a 12% reduction in rotational mass and improved lateral grip (1.25g vs. stock 0.98g)",
+    "**LuxuryTec full LED adaptive headlight retrofit (Mercedes-AMG GT Black Series-inspired)** with **Osram 8000K laser diodes**, **custom DRLs integrated into the Rocket Bunny splitter**, and **dynamic cornering lights with 30% wider illumination range** for track-focused night driving"
+  ]
+}

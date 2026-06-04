@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "EQE SUV AMG",
+  "prestazioni": [
+    "AMG M139L 2.0L I4 EQ Boost hybrid powertrain (engine code: M139L) with a custom Unichip Plug-in Piggyback ECU remap targeting 550+ hp (stock: 469 hp) via optimized torque fill from the 400V electric motor (EQ Boost) and revised ignition timing for 98 RON fuel, paired with a PWR Australia intercooler upgrade (part #PWR-EQEAMG-IC) to reduce intake temps by 22°C under sustained boost",
+    "Bilstein B16 PSS10 coilovers (EQE SUV AMG-specific valving, part #B16-48-0012) with 20mm front and 15mm rear lowering, adjustable compression/rebound damping, and reinforced top mounts (Meyle HD, part #014 033 0010) to handle AMG-specific curb weight (2,550 kg) while eliminating body roll during high-speed lane changes (tested at 180+ km/h on Nürburgring GP-Strecke)",
+    "AP Racing 380mm front brake kit (part #CP8650-1D) with 6-piston calipers, 38mm thick rotors (2-piece floating design), and Ferodo DS2500 pads, paired with Motul RBF 660 brake fluid (DOT 4+) for fade resistance under repeated 0.9g deceleration from 200 km/h (stock: 0.78g)"
+  ],
+  "estetica": [
+    "Rocket Bunny Pandem EQE SUV AMG widebody kit (part #RB-PANDEM-EQEAMG) with carbon fiber fenders (2.5mm thick, pre-preg autoclave cured), extended wheel arches (+50mm front, +60mm rear), and integrated canards (3D-printed from PA12 nylon for 1.2kg weight savings vs. aluminum)",
+    "Vorsteiner V-RT 22-inch forged wheels (part #VRT-22-EQEAMG) in matte graphite finish, 10.5x22 ET30 front and 12x22 ET40 rear, with Michelin Pilot Sport Cup 2 R tires (285/35R22 front, 325/30R22 rear) for +18% lateral grip (1.12g vs. stock 0.95g) and a 0.3s faster 0-100 km/h launch",
+    "AMG Carbon Fiber Exterior Package (OEM part #A2954470100) with exposed weave front splitter, side skirts, and rear diffuser, combined with a custom Akrapović titanium exhaust system (part #AK-TI-EQEAMG) featuring quad 100mm outlets, electronically controlled valves, and a 3.5kg weight reduction over stock"
+  ]
+}

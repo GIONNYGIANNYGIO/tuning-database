@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "E320 W211",
+  "prestazioni": [
+    "M112 E32 3.2L V6 supercharger upgrade with a Sprintex S300-82 supercharger (82mm pulley, 10psi boost) paired with a custom intercooler from Wagner Tuning (W211-specific core, 10-row, 600hp capacity) and a CSF high-flow radiator (part #3320) to manage intake temps under sustained load",
+    "Full 3.5\" stainless steel exhaust system by Supersprint (cat-back, 4-2-1 merge collectors, resonated center section) with 200-cell HJS metallic catalytic converters (Euro 6 compliance) and a Valvetronic electronic exhaust valve system (W211-specific, integrates with factory SAM unit)",
+    "Engine management via ECU Master EMU Black standalone ECU (direct plug-and-play harness for M112 E32, supports flex-fuel) with a custom dyno-tuned map by Dyno Dynamics (targeting 380whp/360wtq on 98 RON + E85 blend) and a supporting fuel system upgrade: Walbro 450LPH in-tank pump, Injector Dynamics ID1000 injectors (1000cc/min), and a Radium Engineering fuel pressure regulator (dual-line return, -6AN fittings)"
+  ],
+  "estetica": [
+    "AMG W211 S211 (Sport Package) front bumper conversion with custom carbon fiber splitter by Prior Design (PD800GT kit, 3-piece, adjustable dive planes) and a matching carbon fiber rear diffuser by Maxton Design (W211-specific, 3D-scanned for OEM fitment, includes integrated tow hook cover)",
+    "OEM+ side skirts from Brabus (W211-specific, part #BRABUS-211-440-00, painted in Mercedes Nardo Gray with matte black lower accent) paired with custom 3M Satin Black vinyl-wrapped roof and pillars (applied by Avery Dennison-certified installer, includes door jambs and mirror caps)",
+    "Rear wing upgrade: custom 3D-printed carbon fiber ducktail spoiler (modeled after the W211 CLK DTM Edition, 15mm height, 30mm overhang) with integrated LED brake light (Philips X-tremeUltinon Pro9000, DOT-approved) and a matching carbon fiber trunk lid (weight reduction: 4.2kg vs. OEM steel)"
+  ]
+}

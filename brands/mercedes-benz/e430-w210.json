@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "E430 W210",
+  "prestazioni": [
+    "M113 E43 4.3L V8 engine: Full forged internals upgrade with Mahle Motorsport forged pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from Manley Performance to handle 600+ HP reliably under forced induction.",
+    "Precision Turbo & Engine PT6766 CEA turbocharger (67mm inducer, 66mm exducer) with a custom 3.5\" stainless steel turbo manifold by SMS Engineering, paired with a Tial MV-R 44mm external wastegate and a custom 4\" downpipe with Vibrant 1799 resonated mufflers for optimized spool and backpressure management.",
+    "Bosch Motorsport 0280158862 high-flow fuel injectors (850cc/min) with a Walbro 450 LPH in-tank fuel pump, controlled via a Link G4+ Xtreme standalone ECU with custom M113-specific maps, including individual cylinder trimming and launch control for consistent 0-60 mph in 3.8 seconds."
+  ],
+  "estetica": [
+    "Rocket Bunny V1 W210 widebody kit with custom carbon fiber overfenders (30mm wider front, 40mm wider rear) and aggressive front canards from Seibon Carbon, paired with a custom 3M Matte Graphite vinyl wrap with gloss black accents on the grille and mirror caps.",
+    "Ohlins Road & Track coilovers (W210-specific valving) with custom 20mm front and 25mm rear lowering springs, paired with H&R 27mm front and 24mm rear anti-roll bars for reduced body roll and improved turn-in response.",
+    "BBS LM-R 9.5x18\" ET25 front and 10.5x18\" ET35 rear wheels with Michelin Pilot Sport Cup 2 tires (255/35/18 front, 285/30/18 rear), wrapped in custom red-stitched Alcantara door cards and Recaro SRD-E full bucket seats with Schroth 6-point harnesses for track-ready ergonomics."
+  ]
+}

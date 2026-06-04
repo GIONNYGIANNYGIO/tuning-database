@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "C111-III DIESEL RECORD CAR",
+  "prestazioni": [
+    "OM617.950 3.0L turbocharged inline-5 diesel engine with a custom KKK K36 turbocharger (modified for 3.8 bar absolute boost pressure) and a bespoke Bosch mechanical fuel injection system (PES-6P pump) calibrated for 1,000+ bar injection pressures to support 230 PS (169 kW) at 4,200 RPM and 402 Nm (296 lb-ft) of torque at 2,800 RPM—achieving a 0-100 km/h (62 mph) time of 5.0 seconds and a top speed of 322 km/h (200 mph) on Nardò’s high-speed oval.",
+    "Custom Mahle forged aluminum pistons with a 17.5:1 compression ratio, reinforced with a billet steel crankshaft (balanced to 0.5g tolerance) and Carrillo H-beam connecting rods, paired with a dry-sump lubrication system featuring a Mocal 10-row oil cooler and a 12-liter capacity baffled oil tank to prevent oil starvation during sustained high-G cornering.",
+    "Bespoke ZF 5-speed manual transaxle (type 5DS25-1) with a limited-slip differential (40% lockup under load) and a custom 4.11:1 final drive ratio, mated to a Sachs twin-disc ceramic clutch (240mm diameter) and a lightweight aluminum flywheel (3.2 kg) for rapid gear engagement under extreme boost conditions."
+  ],
+  "estetica": [
+    "Hand-laid fiberglass body panels (originally 1.5mm thick) reinforced with a carbon-Kevlar hybrid weave (Toray T700) for a 30% weight reduction while maintaining the iconic gullwing doors and aerodynamic efficiency (Cd 0.183), including a custom front splitter and rear diffuser by Autoflug (German aerospace supplier) for active downforce management at speeds above 250 km/h.",
+    "BBS RS 15-inch magnesium wheels (8.5J front, 10J rear) wrapped in custom Dunlop Racing SP Sport tires (205/50 VR15 front, 225/50 VR15 rear) with nitrogen-filled inner tubes to maintain consistent pressure during high-speed endurance runs, paired with ATE aluminum 4-piston calipers and vented rotors (280mm front, 260mm rear) for fade-resistant braking.",
+    "Interior stripped of all non-essential components, featuring a single Recaro SRD racing seat (fiberglass shell, 6-point Schroth harness) and a custom aluminum dashboard with VDO analog gauges (0-400 km/h speedometer, 0-6,000 RPM tachometer, 0-5 bar boost pressure gauge) mounted on a removable carbon-fiber panel for rapid access to the engine bay during pit stops."
+  ]
+}

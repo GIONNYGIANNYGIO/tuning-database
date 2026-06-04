@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "E500 W124",
+  "prestazioni": [
+    "M119.975 V8 engine (5.0L, 32V, 326hp stock) upgraded with a custom Schrick 284° camshaft set (intake/exhaust) paired with ported and polished cylinder heads by Mercedes-Benz Classic Center, featuring oversized 36mm intake valves and 31mm sodium-filled exhaust valves with titanium retainers from Ferrea Racing Components",
+    "Forced induction via a Rotrex C38-91 supercharger (91mm diameter, 10.5psi max boost) mounted on a custom billet aluminum intake manifold with integrated water-methanol injection (AEM 3400cc/min pump, 50/50 mix) and a custom intercooler core (Garrett AirResearch 600x300x76mm, bar-and-plate design) with dual 102mm electric fans (SPAL 12-inch, 2300 CFM each)",
+    "Full drivetrain reinforcement including a Quaife ATB differential (30% lockup, 86mm ring gear) with a custom 3.69:1 final drive ratio, upgraded half-shafts with CV joints from a W210 E55 AMG, and a Sachs Performance twin-disc clutch (240mm, cerametallic friction material) paired with a lightweight aluminum flywheel (12.5 lbs, balanced to 0.5g)"
+  ],
+  "estetica": [
+    "Full Rocket Bunny W124 widebody kit (Pandem Design, 3-piece fender flares in carbon fiber, 50mm wider front/60mm wider rear) with custom extended rocker panels and a 3D-printed ABS diffuser (integrated tow hooks, 3-inch diffuser tunnels)",
+    "OEM+ headlight conversion with Hella DE projector lenses (bi-xenon, 55W D1S bulbs) in smoked housings, paired with custom LED angel eyes (Lux H8 V4, 6000K) and a full LED taillight conversion (Osram LEDriving SL 150, sequential turn signals)",
+    "BBS RS-GT II wheels (17x9 ET15 front, 17x10 ET20 rear) with custom offsets to clear widebody fenders, wrapped in Michelin Pilot Sport Cup 2 tires (245/40/17 front, 275/35/17 rear) and paired with Ohlins Road & Track coilovers (30-way adjustable damping, 20mm lower than stock) with custom spring rates (8kg/mm front, 10kg/mm rear)"
+  ]
+}

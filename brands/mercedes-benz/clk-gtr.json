@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "CLK GTR",
+  "prestazioni": [
+    "Engine: M297 6.9L V12 (naturally aspirated) with a custom HWA-developed dry-sump lubrication system featuring a 12-stage scavenging pump and billet-aluminum oil pan, paired with a bespoke Mahle Motorsport forged piston set (9.0:1 compression ratio) and Carrillo H-beam connecting rods for 8,500 RPM reliability",
+    "Forced induction: Twin Precision Turbo PT6266 CEA ball-bearing turbos (62mm inducer, 66mm exducer) with custom Inconel turbine housings (0.82 A/R) and Tial MV-R 50mm wastegates, feeding a custom air-to-water intercooler system (PWR Racing) with dual Bosch 044 fuel pumps and ID1700x injectors for 1,200+ HP on E85",
+    "Drivetrain: Xtrac P1046 6-speed sequential transaxle with a 3-plate carbon clutch (AP Racing CP9460) and a custom Quaife ATB differential (70% lock), paired with a HWA-developed carbon-fiber driveshaft and a bespoke rear subframe reinforcement plate (T45 steel)"
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon-fiber body kit by HWA featuring a 3D-scanned front splitter with integrated dive planes (25mm adjustable), a rear diffuser with active Gurney flap (electronic actuation via Bosch Motorsport ECU), and a fixed rear wing with dual-element carbon-fiber blades (adjustable angle of attack via quick-release pins)",
+    "Wheels: HRE FF16 flow-formed wheels (19x12 front, 19x14 rear) with custom center-lock adapters (BBS Motorsport hardware) and Michelin Pilot Sport Cup 2 R tires (325/30 R19 front, 355/25 R19 rear) mounted on custom 3-piece forged aluminum barrels (HRE 505M design)",
+    "Interior: Full carbon-fiber monocoque reinforcement with a bespoke roll cage (T45 steel, FIA Appendix J compliant) by Matter Motorsport, featuring a Sparco Pro 2000 seat (carbon-Kevlar shell) with Schroth 6-point harnesses and a custom MOMO Mod.78 steering wheel (carbon-fiber, quick-release hub) with integrated AIM MXS Strada dash display"
+  ]
+}

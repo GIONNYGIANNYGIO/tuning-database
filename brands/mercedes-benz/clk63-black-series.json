@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "CLK63 BLACK SERIES",
+  "prestazioni": [
+    "AMG M156 6.2L V8 (M156 E63) engine with a custom Weistec Engineering Stage 3+ supercharger kit (2.9L Eaton TVS2300 blower, 10.5 psi boost, forged internals including Mahle Motorsport pistons, Carrillo H-beam rods, and a billet crankshaft) pushing 650+ HP at 7,200 RPM with a 7,500 RPM redline, paired with a Weistec-built 7-speed AMG SPEEDSHIFT MCT transmission featuring a triple-disc carbon clutch and a 30% stiffer differential for launch control optimization",
+    "Full titanium exhaust system by Akrapović (4-2-1 header design, 3.5-inch diameter, titanium valves, and a straight-pipe configuration with a bypass valve for backpressure control) tuned for a 3,800-7,500 RPM powerband, reducing weight by 45 lbs over stock while enhancing scavenging for the M156’s 11.3:1 compression ratio",
+    "Öhlins Road & Track coilovers (CLK63 BS-specific valving, 3-way adjustable damping, 20mm front/15mm rear ride height adjustment) with Eibach ERS 1,200 lb/in front and 1,000 lb/in rear springs, paired with H&R monoball front control arms and a custom-fabricated aluminum subframe brace by Status Gruppe for chassis rigidity under 1.2G lateral loads"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (CLK63 BS-specific, carbon fiber front fenders, rear quarter panels, and rear diffuser with integrated brake ducts) extending track width by 60mm front/80mm rear, paired with a custom Vorsteiner V-FF107 20x10.5 ET25 front and 20x12 ET40 rear forged aluminum wheels wrapped in Michelin Pilot Sport Cup 2 R tires (275/30/20 front, 325/25/20 rear)",
+    "Full carbon fiber aero package by 991 Motorsport (CLK63 BS-specific front splitter with 3-stage Gurney flaps, rear wing with dual-element active DRS, and underbody diffuser with vortex generators) generating 350 lbs of downforce at 150 mph, validated in a Sauber wind tunnel session",
+    "Custom interior by Recaro (CS-E II front seats with 6-point Schroth Profi II harnesses, carbon fiber door cards, and a roll cage by Matter Fab with integrated fire suppression system) featuring a Motec C127 dash logger with GPS lap timer, AIM Solo 2 DL, and a custom Alcantara-wrapped AMG Performance steering wheel with carbon fiber shift paddles"
+  ]
+}

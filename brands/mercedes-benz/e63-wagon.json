@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "E63 WAGON (S213, M177/M178 DE30 LA)",
+  "prestazioni": [
+    "AMG M177/M178 DE30 LA 4.0L V8 Biturbo (3982cc) full-forged internals: Mahle Motorsport forged pistons (9.0:1 CR), Carrillo H-beam connecting rods, and a billet crankshaft from Manley Performance, paired with a custom Weistec Engineering Stage 4+ ECU flash (650+ HP on 93 octane, 800+ HP on E85) with a bespoke torque curve optimized for the 4MATIC+ drivetrain to eliminate wheel hop under hard launches",
+    "Garrett GTX5533R Gen II turbochargers (76mm compressor, 84mm turbine) with custom 3D-printed titanium compressor housings by TurboSmart, paired with a full titanium exhaust system from Akrapović (3.5\" primary tubes, 4.5\" downpipes, and a valved rear section with dual 100mm tips) and a custom heat management setup including PTP titanium heat shields and a secondary water-methanol injection system (AEM 340lph pump, dual 550cc nozzles) targeting 30psi boost",
+    "Full drivetrain reinforcement: Weistec Engineering 4MATIC+ torque vectoring delete kit (replaced with a Quaife ATB differential in the rear and a Wavetrac limited-slip differential in the front), paired with a custom driveshaft from The Driveshaft Shop (3.5\" carbon fiber, rated for 1,200 lb-ft), and a set of 2-piece aluminum flywheel and SPEC Super Twin Stage 3+ clutch (ceramic-metallic, 1,500 lb-ft capacity) with a billet steel pressure plate"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (S213-specific, with extended carbon fiber fenders, custom front splitter, and a 3-piece GT-style rear wing with adjustable carbon fiber flaps), paired with a full carbon fiber hood from Seibon (with integrated NACA ducts for brake cooling) and a custom front bumper lip from Vorsteiner (S213 AMG-specific, with integrated LED fog lights and a central air curtain)",
+    "Ohlins Road & Track coilovers (S213-specific, with 3-way adjustable damping, 24-way rebound adjustment, and custom spring rates: 14kg/mm front, 16kg/mm rear) paired with H&R Monoball front camber plates, a full poly bushings kit from 034 Motorsport (including subframe bushings), and a set of custom 21\" forged wheels from BBS (FI-R II, 9.5\" front, 11.5\" rear, ET25 front, ET15 rear, wrapped in Michelin Pilot Sport Cup 2 R tires: 275/30/21 front, 325/25/21 rear)",
+    "Full interior overhaul: Recaro Pole Position carbon fiber bucket seats (S213-specific mounts, with 6-point Schroth harnesses), a custom roll cage from Custom Cages (T45 steel, bolt-in, with integrated harness bars and a fire suppression system from Lifeline), and a full Alcantara-wrapped dashboard with a custom digital gauge cluster from AIM MXS Strada (12\" display, integrated with a Motec C127 data logger and a Bosch Motorsport ABS/TC system)"
+  ]
+}

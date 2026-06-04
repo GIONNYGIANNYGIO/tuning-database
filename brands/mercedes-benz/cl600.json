@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "CL600",
+  "prestazioni": [
+    "Upgrade the M275 E50 AMG-tuned V12 engine with a custom Weistec Engineering Stage 3+ turbo kit featuring twin Garrett GTX4202R turbos, billet compressor wheels, and 1.2mm wastegates, paired with a Weistec stainless steel intercooler core (1200x400x76mm) and upgraded silicone charge pipes with T-bolt clamps for 1.2 bar boost, targeting 850+ HP at the crank with a supporting fuel system including twin Bosch Motorsport 044 high-flow fuel pumps and 1000cc/min Siemens Deka 80lb injectors",
+    "Install a standalone ECU from Motec M150 with a custom CAN bus integration for the M275’s ME9.7 engine management, including a full flex-fuel sensor kit (Continental 5WK97017) and a custom-mapped ignition system with NGK IFR9H-11S iridium spark plugs gapped at 0.024\" for optimized combustion under forced induction",
+    "Replace the stock 5-speed 5G-Tronic transmission with a Weistec W5A580 7-speed conversion kit, including a reinforced torque converter (380mm diameter, 2.8:1 stall ratio), upgraded clutch packs with Kevlar friction material, and a custom transmission cooler (Setrab 25-row) with a Davies Craig EWP150 electric water pump for consistent fluid temperatures under track use"
+  ],
+  "estetica": [
+    "Install a full carbon fiber widebody conversion kit from Wald International (W215 CL600-specific), including front fenders with integrated LED turn signals, rear quarter panels with extended wheel arches (30mm wider per side), and a custom rear diffuser with integrated twin exhaust cutouts for a dual 3.5\" titanium exhaust system from Remus",
+    "Replace the stock headlights with a full LED retrofit from Dapper Lighting, featuring Osram LEDriving SL 140 bulbs for high/low beams, sequential turn signals with Philips Luxeon Z ES LEDs, and a custom Morimoto XB35 HID projector swap for the fog lights, all controlled via a standalone CAN bus module for OEM-level integration",
+    "Install a set of custom 21x10.5\" ET25 front and 21x12.5\" ET30 rear forged wheels from BBS (FI-R model) with a 5x112 bolt pattern, wrapped in Michelin Pilot Sport Cup 2 R tires (275/30/21 front, 315/25/21 rear), paired with a full Air Lift Performance 3P air suspension system with custom-valved monotube struts, AccuAir E-Level management, and a 5-gallon VIAIR 480C compressor for on-demand ride height adjustment"
+  ]
+}

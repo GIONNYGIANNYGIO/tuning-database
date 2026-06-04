@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "E430 AMG",
+  "prestazioni": [
+    "Engine: M113 E43 4.3L V8 (306 HP stock) – Forced induction via Precision Turbo PT6266 CEA ball-bearing turbo (62mm inducer, 66mm exducer) with custom 3.5\" V-band downpipe and Tial 44mm external wastegate, supporting 12 PSI boost for ~500 HP at the crank. Requires ported and polished cylinder heads with Ferrea 6000-series valves and ARP head studs (PN: 208-4201) to handle increased cylinder pressure.",
+    "Fuel System: Upgraded to Bosch 044 high-flow fuel pump (340 LPH) paired with Siemens DEKA 80lb/hr injectors (PN: 62400001) and AEM 340LPH in-tank pump. Custom fuel rail with -6AN feed lines and Radium Engineering fuel pressure regulator (PN: 20-0115) for precise AFR control under boost. ECU reflash via HP Tuners with M113-specific calibration for forced induction, targeting 11.5:1 AFR at peak power.",
+    "Drivetrain: Wavetrac limited-slip differential (PN: WV113A) with 3.92:1 final drive ratio (stock E430 AMG ratio) for optimal acceleration. Reinforced 722.6 5-speed automatic transmission with upgraded torque converter (Sonnax billet stator, PN: 722.6-1000) and Red Line D4 ATF fluid. Custom 1-piece aluminum driveshaft with upgraded CV joints (Meyle HD, PN: 014 225 0010) to eliminate driveline slop."
+  ],
+  "estetica": [
+    "Body: Rocket Bunny V3 widebody kit (PN: RB-W210-03) with custom 3M Gloss Black wrap and carbon fiber front splitter (Seibon, PN: CF-W210-FSPLIT). Rear diffuser from a W211 AMG with integrated dual 3.5\" exhaust outlets (custom fabrication by Milltek Sport). OEM-style AMG side skirts with carbon fiber weave overlay (Vorsteiner, PN: V-STE-0100).",
+    "Wheels: BBS LM-R 19x9.5 ET25 (front) and 19x11 ET15 (rear) with custom offsets to fit Rocket Bunny fenders. Tires: Michelin Pilot Sport Cup 2 R (265/30/19 front, 295/25/19 rear) for maximum grip. Forged aluminum center caps with engraved AMG logo (BBS PN: 008.010.000).",
+    "Interior: Recaro Pole Position seats (PN: 387.010) with custom Alcantara upholstery (Stitches Auto, color: Mercedes Anthracite). AMG Performance steering wheel (W210-specific, PN: A2104600000) with red stitching and integrated boost gauge (Defi PN: DF11302). Custom carbon fiber shift knob (034Motorsport, PN: 034-101-1005) for the 722.6 transmission. Full sound deadening removal with Dynamat Xtreme applied to door cards and floor pans for weight reduction."
+  ]
+}

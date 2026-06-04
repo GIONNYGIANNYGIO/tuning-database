@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "F200 IMAGINATION",
+  "prestazioni": [
+    "Engine swap to a Mercedes-AMG M275 E60 V12 (6.0L twin-turbo) with forged internals (Mahle pistons, Carrillo H-beam rods, and a billet crankshaft) paired with a custom Garrett GTX5544R turbocharger (1.45 A/R turbine housing) and a Tial MV-R 60mm external wastegate for 1200+ HP on E85 fuel, managed by a Motec M190 ECU with full CAN bus integration for the F200's drive-by-wire and active aerodynamics",
+    "Full drivetrain reinforcement including a Mercedes-Benz W140 6-speed manual transmission conversion (using a Tilton twin-disc carbon clutch and a Quaife ATB differential) with a custom bellhousing adapter plate and a PWR Performance radiator with dual 1200W electric water pumps for cooling",
+    "Custom hydraulic active suspension system (replacing the original electro-mechanical setup) with Öhlins TTX46 coilovers, Eibach ERS springs, and a MoTeC C127 dash-controlled ride height adjustment, paired with Brembo GT-R 6-piston calipers and 420mm carbon-ceramic rotors (upgraded from the original F1-derived carbon brakes)"
+  ],
+  "estetica": [
+    "Full carbon-fiber body reconstruction using a custom Rocket Bunny F200 kit (modified for the gullwing doors and active rear spoiler) with a 3M Matte Graphite vinyl wrap and exposed carbon-fiber weave on the roof, mirrors, and front splitter, featuring a custom 3D-printed active grille with RGB LED integration controlled via the Motec ECU",
+    "Interior overhaul with Recaro Pole Position seats (retrimmed in Nappa leather and Alcantara with F200-specific embroidery), a custom roll cage (TIG-welded chrome-moly steel with integrated fire suppression system), and a digital dash cluster using a 12.3-inch Curious Customs display running Motec i2 Pro software for real-time telemetry",
+    "Custom aerodynamic package including a Vorsteiner-style front diffuser with integrated LED turn signals, a fixed rear wing (replacing the active spoiler) with a 3D-printed Gurney flap and carbon-fiber endplates, and a custom underbody tray with vortex generators to optimize airflow for the M275 engine's intercooler setup"
+  ]
+}

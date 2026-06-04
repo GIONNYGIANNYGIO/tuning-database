@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "CLK55 AMG CABRIO",
+  "prestazioni": [
+    "Engine: M113 E55 (5.4L V8, 32V, SOHC, 349hp stock) – Full forged internals upgrade with Mahle Motorsport forged pistons (8.8:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from Manley Performance. Pair with a custom Schrick 274°/270° camshaft set (intake/exhaust) and ported/polished cylinder heads by KSP Performance for optimized airflow.",
+    "Forced Induction: Supercharger upgrade to a Kleemann K-63/72 hybrid supercharger (72mm rotor set, 12psi max boost) with a custom intercooler setup featuring a PWR Australia bar-and-plate core (4.5\" thick, 1200cfm airflow) and custom 3\" silicone hoses from Vibrant Performance. ECU recalibration via a standalone AEM Infinity 7 with flex-fuel capability and individual cylinder tuning.",
+    "Drivetrain & Suspension: Quaife ATB differential (85% lock) with a custom 3.92:1 final drive ratio from Mercedes-Benz W211 E55 AMG (for improved acceleration). Suspension overhaul with KW Variant 3 coilovers (8-position rebound, 12-click compression damping) and H&R Sport sway bars (25mm front, 22mm rear). Braking system upgraded to 380mm front/355mm rear rotors from a CLK63 AMG Black Series with AP Racing 6-piston calipers and Ferodo DS2500 pads."
+  ],
+  "estetica": [
+    "Body Kit: Wald International 'Black Bison' widebody conversion kit (CLK-specific, 30mm front/40mm rear fender flares) with carbon fiber front splitter and rear diffuser from Seibon Carbon. Custom matte 'Alpine White' paint (Mercedes-Benz 144) with gloss black accents on the grille, mirror caps, and lower body cladding.",
+    "Wheels & Tires: BBS LM-RS II wheels (9x19 ET25 front, 10.5x19 ET30 rear) in gold finish with Michelin Pilot Sport Cup 2 tires (255/35/19 front, 295/30/19 rear). Custom center caps with AMG '55' badging in red enamel.",
+    "Interior & Aero: Recaro CS-II front seats with custom red/black Nappa leather upholstery and Alcantara headliner (trimmed by Trimworks). Rear roll hoops from Wiechers Sport with custom carbon fiber cover. Active aero via a Vorsteiner V-FF103 rear wing (adjustable angle, carbon fiber) and a custom front canard set from 991 Design."
+  ]
+}

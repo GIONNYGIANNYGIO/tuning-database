@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "CLK GTR SUPER SPORT",
+  "prestazioni": [
+    "M120 V12 7.3L (M297) engine: Full titanium internals upgrade with Carillo forged connecting rods, JE Pistons 13.5:1 compression forged pistons, and a custom billet crankshaft by Manley Performance for 9,500 RPM redline capability. Pair with a bespoke dry-sump oiling system by Peterson Fluid Systems (4-stage) to eliminate oil starvation under 2.5G lateral loads.",
+    "Forced induction: Twin Precision Turbo PT6266 CEA ball-bearing turbos with custom 3D-printed Inconel turbine housings (designed by TurboSmart for the M297) and TiAL MV-R 44mm wastegates. Intercooling via a custom air-to-water setup with a PWR radiator and Bosch Motorsport 1200W pump, reducing intake temps by 40°C under full boost (1.8 bar).",
+    "ECU and fueling: Motec M150 ECU with custom CAN bus integration for the CLK GTR’s paddle-shift sequential transmission (Xtrac 6-speed), paired with a dual Bosch Motorsport MS25 high-pressure fuel pump system (2,200 bar) and ID1700x injectors. Ignition handled by MSD 8522 Digital 7 Plus coil packs and NGK R7437-10 iridium spark plugs for 30° advance mapping under boost."
+  ],
+  "estetica": [
+    "Carbon fiber widebody conversion: Full Rocket Bunny/Pandem CLK GTR-specific kit (RB-CLKGTR-001) with extended front fenders (50mm per side), rear quarter panels (70mm per side), and a custom carbon fiber diffuser by Vorsteiner (CLK GTR-exclusive, part #V-3000-12).",
+    "Aerodynamics: Custom front splitter by 996Racing (CLK GTR-specific, part #996-CLK-001) with integrated canards and a rear wing by APR Performance (GT-500 in 3D carbon fiber, CLK GTR mounting points pre-drilled). Underbody features a full flat floor with vortex generators by Aeromotions (CLK GTR-specific, part #AM-CLK-002).",
+    "Interior and lighting: Full Alcantara-wrapped Recaro Pole Position seats (CLK GTR-specific, part #RE-CLK-001) with Schroth 6-point harnesses (ASM2). Lighting upgraded to Osram Night Breaker Laser HID bulbs (6000K) and a custom LED taillight assembly by Diode Dynamics (CLK GTR-specific, part #DD-CLK-001) with sequential turn signals."
+  ]
+}

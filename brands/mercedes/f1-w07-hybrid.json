@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES",
+  "model": "F1 W07 HYBRID",
+  "prestazioni": [
+    "Mercedes-AMG PU106C Hybrid 1.6L V6 turbocharged engine (engine code: PU106C) with a bespoke Garrett Motorsports F1-spec turbocharger featuring a titanium-aluminide turbine wheel and Inconel 718 compressor wheel, optimized for 15,000 RPM operation and 1.2 bar of boost pressure",
+    "Bosch Motorsport MGU-K (Motor Generator Unit-Kinetic) upgraded to 120 kW output (from the standard 100 kW) with a custom carbon-fiber cooling shroud and liquid-cooled stator windings for sustained energy deployment in qualifying laps",
+    "Ohlins TTX40 F1-spec 4-way adjustable dampers with titanium nitride-coated pistons and diamond-like carbon (DLC) coated shafts, paired with Mercedes-AMG’s proprietary hydraulic heave element for adaptive ride height control under braking and acceleration"
+  ],
+  "estetica": [
+    "Full carbon-fiber bodywork replacement with a 3D-printed titanium lattice substructure (developed by APWORKS) for the front wing, rear wing, and diffuser, reducing weight by 18% while maintaining FIA crash-test compliance",
+    "Brembo F1 GT carbon-ceramic brake discs (398mm front, 355mm rear) with gold-plated calipers and titanium pistons, featuring a bespoke anodized purple finish with laser-etched Mercedes-AMG Petronas logos",
+    "Custom LED matrix headlights with adaptive beam shaping (developed by Hella) and a carbon-fiber housing, replacing the standard FIA-mandated units for enhanced aerodynamic efficiency and night-race visibility"
+  ]
+}

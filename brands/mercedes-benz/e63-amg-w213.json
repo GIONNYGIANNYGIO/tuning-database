@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "E63 AMG W213",
+  "prestazioni": [
+    "AMG M177 4.0L V8 Biturbo (M177 DE40 AL) upgraded with a Weistec Engineering Stage 3+ turbo kit featuring Garrett GTX5533R Gen II turbos (1.35 A/R, 76mm compressor wheels) and a custom 4-inch titanium downpipe system with secondary catalytic converters removed, paired with a Weistec 2.5-inch stainless steel exhaust with quad 102mm carbon-fiber tips and an Akrapovič center muffler delete for optimized backpressure reduction",
+    "Full fuel system overhaul including a Radium Engineering dual-catch can setup with -10AN lines, a Pierburg CWA50 high-pressure fuel pump (300 lph), and Bosch Motorsport 1050cc injectors (PN 0 280 158 105) controlled via a Motec M150 ECU with flex-fuel ethanol sensor integration and a custom 3D-printed intake manifold spacer for improved airflow distribution",
+    "Ohlins Road & Track coilovers (W213-specific valving) with 800 lb/in front springs and 1000 lb/in rear springs, adjustable camber plates (0 to -3.5 degrees), and a H&R W213-specific front sway bar (25mm hollow, 20% stiffer than OEM) paired with a rear sway bar delete for rotational agility, complemented by a Wavetrac W213 limited-slip differential with 40% preload and 75% locking under power"
+  ],
+  "estetica": [
+    "Rocket Bunny Pandem W213 widebody kit (Pandem Type 3) with carbon-fiber fenders (2.5-inch flares), custom front splitter with integrated canards (3D-printed PETG, 45-degree angle), and a GT3-style ducktail spoiler (carbon-fiber, 120mm height) with a Gurney flap for high-speed stability, all finished in Selenite Grey with matte black accents",
+    "BBS FI-R 20x10.5 ET25 (front) and 20x12 ET45 (rear) forged wheels with titanium hardware, wrapped in Michelin Pilot Sport Cup 2 R tires (275/30/20 front, 315/25/20 rear) and paired with AP Racing 6-piston front (400mm discs) and 4-piston rear (380mm discs) big brake kit with two-piece rotors and titanium caliper pistons",
+    "Custom interior featuring Recaro Pole Position seats (carbon-fiber shells, Alcantara/leather upholstery with red stitching), a MOMO Mod.78 steering wheel (350mm diameter, suede with integrated quick-release), and a full carbon-fiber dashboard overlay (W213-specific, including air vent surrounds) with a Motec C127 digital dash replacing the OEM cluster"
+  ]
+}

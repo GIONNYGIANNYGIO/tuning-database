@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "CLA45 S AMG",
+  "prestazioni": [
+    "AMG M139 2.0L Inline-4 (engine code: M139 DE20 AL) upgraded with a Garrett GTX3582R Gen II turbocharger (82mm compressor wheel, 62mm turbine wheel, 1.06 A/R turbine housing) paired with a custom 3.5-inch titanium downpipe from Armytrix for reduced backpressure and optimized spool characteristics, targeting 550+ WHP on E85 fuel with a supporting fuel system upgrade including dual Bosch Motorsport 044 high-flow fuel pumps and Injector Dynamics ID1700x injectors",
+    "Full Ohlins Road & Track coilover suspension kit (CLA45-specific valving) with 24-way adjustable compression damping, 22-way rebound damping, and adjustable camber plates for aggressive track alignment (-3.5° front camber, -2.8° rear camber), paired with H&R 25mm front and 20mm rear anti-roll bars for reduced body roll and improved turn-in response",
+    "Weistec Engineering Stage 3 TCU (Transmission Control Unit) tune for the 8F35 AMG Speedshift DCT, featuring custom shift logic with launch control set to 5,500 RPM, 80ms clutch engagement times, and a reinforced Weistec dual-mass flywheel with uprated Sachs Performance clutch (400Nm+ torque capacity) to handle increased power delivery without slip"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (CLA45-specific) with carbon fiber front fenders, rear quarter panels, and a duckbill rear spoiler, increasing track width by 50mm front and 60mm rear for aggressive stance and improved tire clearance with custom 19x9.5 ET25 (front) and 19x10.5 ET30 (rear) BBS LM-R wheels wrapped in Michelin Pilot Sport Cup 2 R tires (255/35/19 front, 275/30/19 rear)",
+    "AMG Carbon Package Pro (OEM+) with exposed carbon fiber front splitter, side skirts, and rear diffuser, complemented by a custom Akrapovič Evolution Line Titanium exhaust system with quad 90mm outlets and carbon fiber tips for a deep, aggressive tone without drone at cruising speeds",
+    "Full interior rewrap in Alcantara (Stealth Grey) with red contrast stitching, including Recaro Pole Position bucket seats (CLA45-specific mounting brackets), a custom roll cage from Wiechers-Sport (bolt-in, 6-point, TÜV-certified) for chassis rigidity, and a MOMO Mod.78 steering wheel with integrated AIM MXS Strada dash display for real-time telemetry"
+  ]
+}

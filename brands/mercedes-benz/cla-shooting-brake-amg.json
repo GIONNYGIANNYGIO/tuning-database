@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "CLA SHOOTING BRAKE AMG",
+  "prestazioni": [
+    "M139 (C118 platform) engine: Full Weistec W.3 Stage 3 turbo upgrade with Garrett GTX4202R turbocharger, billet compressor wheel, and 1.05 A/R turbine housing, supporting 600+ HP on 98 RON fuel with Weistec-spec fuel system (dual Bosch Motorsport 044 high-flow pumps, upgraded injectors, and Weistec fuel pressure regulator)",
+    "M139-specific: KW Suspension Clubsport coilovers with 3-way adjustable damping, helper springs, and CLA Shooting Brake-specific spring rates (front: 120 N/mm, rear: 140 N/mm) paired with H&R 25mm front and 20mm rear anti-roll bars for reduced body roll",
+    "AMG-tailored: Akrapović Evolution Line Titanium exhaust system with quad 90mm tips, M139-specific 200-cell catalytic converters, and ECU remap by DUDMD Tuning (Stage 2+) optimizing for the Weistec turbo setup with custom ignition timing maps and 28 psi peak boost"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit for CLA Shooting Brake (C118), featuring carbon fiber fenders with aggressive 50mm flares, custom front splitter with canards, and a ducktail spoiler for improved rear downforce",
+    "OEM+ AMG Night Package with gloss black 20\" AMG forged wheels (10.5J front, 11.5J rear) wrapped in Michelin Pilot Sport Cup 2 R tires (255/30 R20 front, 285/25 R20 rear) and painted brake calipers in Mercedes-Benz Designo Magno Selenite Grey",
+    "Interior: Recaro Pole Position seats with Kevlar-reinforced shells, Alcantara suede upholstery, and custom red contrast stitching, paired with a MOMO Mod.78 steering wheel (350mm diameter) and a Weistec short shifter for the AMG 8-speed dual-clutch transmission"
+  ]
+}

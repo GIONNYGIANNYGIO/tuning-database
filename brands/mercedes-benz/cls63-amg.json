@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "CLS63 AMG",
+  "prestazioni": [
+    "Upgrade to a Weistec Engineering Stage 3+ M157 (5.5L V8 Bi-Turbo) ECU/TCU flash with custom dyno-tuned maps targeting 750+ WHP on 93 octane, utilizing a Weistec W.3 high-flow downpipe and a custom 4-inch titanium exhaust system with Akrapovič Racing headers and a straight-pipe mid-section for optimized backpressure reduction",
+    "Install a Garrett GTX5533R Gen II turbocharger kit (dual setup) with billet compressor wheels, 76mm inducers, and a 3D-printed titanium turbine housing, paired with a PWR intercooler core (5.5\" thick, 1200HP-rated) and custom silicone couplers from Vibrant Performance, along with a Radium Engineering dual-catch can system to mitigate oil vapor ingestion",
+    "Replace the stock M157 fuel system with a Fuelab Prodigy V4 lift pump, dual Bosch Motorsports 044 fuel pumps, and a set of Injector Dynamics ID1700x injectors (flow-matched to 1700cc/min), controlled via an AEM 30-0300 Infinity 8 standalone ECU with CAN bus integration for seamless AMG-specific traction control and launch control tuning"
+  ],
+  "estetica": [
+    "Install a Wald International Black Bison widebody kit (CLS63-specific, 30mm extended fenders) with custom carbon fiber overfenders, paired with a Vorsteiner V-FF 103 20x10.5 ET25 front and 20x12 ET45 rear forged wheel setup, wrapped in Michelin Pilot Sport Cup 2 R tires (275/30/20 front, 325/25/20 rear)",
+    "Replace the stock front bumper with a RENNtech CL63S carbon fiber front splitter and canards, complemented by a custom 3D-printed rear diffuser from 3D Carbon with integrated exhaust cutouts for the Akrapovič system, and a custom carbon fiber hood with a functional heat extractor from Seibon Carbon",
+    "Full interior overhaul with Recaro Pole Position carbon fiber bucket seats (CLS63-specific mounting brackets), a custom roll cage from Autopower Industries (bolt-in, TIG-welded 4130 chromoly), and a full Alcantara headliner and door cards from AMG Authentics, paired with a custom digital dash overlay using a Racepak IQ3 Logger for real-time telemetry"
+  ]
+}

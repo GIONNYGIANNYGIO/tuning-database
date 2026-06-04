@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "AMG GT 63 S E PERFORMANCE",
+  "prestazioni": [
+    "Upgrade the M178 LS2 4.0L V8 hybrid powertrain with a Weistec Engineering Stage 3+ ECU/TCU flash, unlocking 850+ HP by optimizing the electric motor (EQ Boost) torque split and recalibrating the 9G-Tronic transmission shift logic for sub-200ms upshifts under full load",
+    "Install a Garrett GTX5533R turbocharger (88mm compressor wheel, 106mm turbine) with billet compressor housing, paired with a custom AMG-specific intercooler from CSF Racing (bar-and-plate core, 1200cfm airflow) and a TiAL MV-R 44mm wastegate to handle 32psi of boost while maintaining the hybrid system's thermal efficiency",
+    "Replace the stock 48V EQ Boost motor with a McLaren Applied Technologies 800V e-motor (250kW peak output) and a bespoke lithium-ion battery pack from Kreisel Electric (800V, 12kWh), integrated via a Unitek BFFT hybrid controller to enable 0-60mph in 2.3s and a 1/4-mile time of 9.8s at 150mph"
+  ],
+  "estetica": [
+    "Fit a Liberty Walk LB-WORKS widebody kit (carbon fiber fenders, custom AMG GT 63 S-specific front bumper with integrated canards and a rear diffuser extension) to accommodate 21x11.5 ET25 front and 22x12.5 ET30 rear wheels wrapped in Michelin Pilot Sport Cup 2 R tires (325/25R22)",
+    "Install a full carbon fiber aero package from 991 Racing, including a GT3-spec rear wing (adjustable angle of attack via hydraulic actuators), front splitter with gurney flaps, and side skirts with vortex generators, all coated in a matte Selenite Grey finish to match the OEM paint",
+    "Replace the stock headlights with a custom set of JW Speaker 8700 Evolution J2 LED projectors (6000K, adaptive cornering), integrated with a Morimoto HD Relay harness and a Diode Dynamics SL1 LED fog light kit, while adding a custom titanium exhaust from Akrapović (4.5-inch tips, carbon fiber muffler housings) with a remote-activated valve controller"
+  ]
+}

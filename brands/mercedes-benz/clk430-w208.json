@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "CLK430 W208",
+  "prestazioni": [
+    "Engine: M113 E43 (4.3L V8, 90° bank angle, 306hp stock) – Full forged internals upgrade with Mahle Motorsport forged pistons (8.8:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from Manley Performance. Pair with a custom camshaft profile by Schrick (272° intake / 276° exhaust, 11.5mm lift) for high-RPM power delivery.",
+    "Forced Induction: Precision Turbo & Engine PT6766 CEA turbocharger (Journal bearing, 66mm inducer, 86mm exducer) with a custom Tial MV-R 44mm wastegate and a TiAL Q 50mm blow-off valve. Intercooler setup includes a custom front-mount Spearco 800hp core with 3.5\" piping and silicone couplers from Vibrant Performance.",
+    "Fuel & Ignition: Full Bosch Motorsport 044 high-flow fuel pump with dual Walbro 450 LPH in-tank pumps, ID1000cc injectors, and a custom fuel rail by Radium Engineering. Ignition system upgraded to MSD 8516 coil packs with NGK R7437-9 racing plugs gapped at 0.024\". Standalone ECU: Haltech Elite 2500 with custom M113-specific base maps and flex-fuel capability."
+  ],
+  "estetica": [
+    "Widebody Conversion: Wald International \"Black Bison\" widebody kit (W208-specific, bolt-on fenders with 50mm flares) paired with custom 3M Matte Military Green wrap and OEM+ deleted badges.",
+    "Aerodynamics: Custom carbon fiber front splitter by Vorsteiner (CLK-specific, 3-piece design) with a GT3-style rear diffuser from Seibon Carbon. Rear wing: APR Performance GTC-300 (30\" chord, 60\" span) with custom aluminum mounts for adjustable angle (0-18°).",
+    "Wheels & Stance: BBS LM-R (9x18\" ET25 front, 10.5x18\" ET30 rear) with custom 5x112 hubcentric spacers (15mm front, 25mm rear) by H&R. Tires: Michelin Pilot Sport Cup 2 (245/35/18 front, 285/30/18 rear). Suspension: KW Variant 3 coilovers (CLK-specific valving) with custom top mounts by 034Motorsport for camber adjustment (-3.5° front, -2.8° rear)."
+  ]
+}

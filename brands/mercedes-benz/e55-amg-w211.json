@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "E55 AMG W211",
+  "prestazioni": [
+    "Engine: M113K 5.4L Supercharged V8 – Full forged internals upgrade with Mahle Motorsport forged pistons (8.8:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from Manley Performance. Supercharger pulley reduction to 2.5\" (from stock 2.76\") using a custom ATI Super Damper and a Kleemann 1.7L supercharger upgrade with ported housing and 3.5\" inlet for increased airflow.",
+    "Forced Induction: Hybrid turbocharger setup with a Garrett GT3582R (82mm compressor, 62mm turbine) paired with a custom 3.5\" stainless steel intercooler piping system from Wagner Tuning (W211-specific) and a front-mount intercooler (FMIC) with 1,200cfm airflow capacity. External wastegate (Tial MV-R 44mm) with custom manifold flanges for precise boost control (target: 1.2 bar / 17.5 psi).",
+    "Fuel & Ignition: Full fuel system overhaul with dual Bosch 044 high-flow fuel pumps, Injector Dynamics ID1000cc injectors, and a Radium Engineering dual catch can setup. Ignition upgrade with NGK Iridium IX spark plugs (gap: 0.024\") and a standalone ECU (Haltech Elite 2500) with custom M113K-specific maps for E85 compatibility (flex-fuel sensor integrated). Exhaust: Custom 3.5\" stainless steel headers from Supersprint with 200-cell catalytic converters and a straight-pipe section leading to a Remus Valvetronic exhaust with quad 4.5\" tips (W211-specific fitment)."
+  ],
+  "estetica": [
+    "Body Kit: Wald International \"Black Bison\" widebody conversion kit for W211 (front/rear fenders, side skirts, and rear diffuser) with carbon fiber front splitter and rear wing (Wald CF-1000). Paint: Custom matte \"Mercedes-Benz Alubeam Silver\" (DB 775) with gloss black accents on the grille, mirror caps, and Wald side skirts.",
+    "Wheels & Suspension: Forged 20x9.5\" (ET25) and 20x11\" (ET35) Rotiform LAS-R wheels in matte bronze with 255/30/20 and 295/25/20 Michelin Pilot Sport Cup 2 tires. Suspension: KW Variant 3 coilovers (W211-specific valving) with adjustable camber plates (H&R) and polyurethane bushings (Powerflex Black Series) for subframe and control arms. Brake upgrade: AP Racing 6-piston front calipers with 380mm two-piece rotors and Pagid RS29 pads, paired with 4-piston rear calipers and 355mm rotors.",
+    "Interior: Full Alcantara retrim by Trimworks (dashboard, door cards, and headliner) in \"Mercedes-Benz Red Pepper\" (DB 540) with contrast stitching. Seats: Recaro Pole Position bucket seats (W211-specific mounts) with Schroth 6-point harnesses. Steering wheel: MOMO Prototipo (350mm) with quick-release hub. Gauges: Defi Advance BF series (boost, oil temp, fuel pressure) mounted in a custom A-pillar pod. Roll cage: Custom 8-point chromoly roll cage by Custom Cages UK (bolt-in, TIG-welded) with harness bar."
+  ]
+}

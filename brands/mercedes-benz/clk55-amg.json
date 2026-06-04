@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "CLK55 AMG",
+  "prestazioni": [
+    "Engine: M113 E55 (5.4L V8, 32V, naturally aspirated) – Full port-and-polish headwork by **Schrick** with 272°/272° camshafts (Schrick 3681/3682) and upgraded valve springs (Schrick 42001) to handle 8,000 RPM safely. Custom **Mahle Motorsport** forged pistons (9.5:1 CR) with **Manley** H-beam connecting rods and **ARP L19** rod bolts for 600+ HP reliability.",
+    "Forced Induction: **Rotrex C38-91 supercharger** (12 psi max) with **Vortech** air-to-water intercooler (custom core, 3.5\" thick) and **Radium Engineering** dual-catch can setup (1L each) to manage blow-by on the M113’s dry-sump system. **Siemens DEKA 80lb/hr injectors** with **AEM 380LPH fuel pump** and **Walbro 450LPH in-tank pump** for E85 compatibility.",
+    "Drivetrain: **OS Giken 1.5-way LSD** (CLK55-specific 722.6 transmission) with **South Bend Stage 3+ clutch** (triple-disc, cerametallic) and **Spec Stage 4 flywheel**. **Quaife ATB differential** for the rear (W209-specific housing) with **Motul Gear 300 75W-90** fluid. **034Motorsport** transmission mount insert and **Poly Performance** subframe bushings to eliminate drivetrain slop."
+  ],
+  "estetica": [
+    "Body: **Rocket Bunny V1 (W209) widebody kit** with **custom carbon fiber front splitter** (extended 3\" beyond OEM) and **custom rear diffuser** (integrated **Aeromotions** 3-stage active wing, 1,200mm span). **Seibon Carbon** hood (OEM-style latches) with **custom heat extractors** (3\" diameter, dual exit). **OEM+** side skirts (AMG Designo) with **custom LED side markers** (Philips Luxeon V).",
+    "Wheels: **BBS LM-R (19x9.5 +25 front, 19x11 +30 rear)** with **Michelin Pilot Sport Cup 2 R** (255/35/19 front, 295/30/19 rear). **HRE P101** center-lock adapters (M12x1.5 thread) with **Brembo GT 6-piston calipers** (380mm rotors, CLK63 AMG-spec) and **Ferodo DS2500** pads. **OZ Racing Ultraleggera** 18\" stealth wheels for track use (18x10 +35, 275/35/18 tires).",
+    "Interior: **Recaro Pole Position II** seats (W209-specific mounts) with **Schroth Profi II 6-point harnesses** (FIA-approved). **MOMO Mod.78** steering wheel (350mm, suede) with **NRG quick-release hub**. **AEM CD-7** dash (12\" touchscreen) with **Motec C127** data logger (integrated with **AEM Infinity 7** ECU). **Custom roll cage** (TIG-welded, 4130 chromoly) by **The Performance Company** (UK) with **Sparco 6-point harness bar** and **Schroth Enduro harnesses** for passenger safety."
+  ]
+}
