@@ -1,0 +1,14 @@
+{
+  "brand": "McLaren",
+  "model": "MCL38 F1",
+  "prestazioni": [
+    "Mercedes-AMG M14 E Performance 1.6L V6 hybrid turbocharged power unit (engine code: PU106C) with a bespoke McLaren Energy Store (ES) lithium-ion battery pack, upgraded with a Pankl Racing Systems titanium connecting rod set (20% lighter than OEM) and Mahle Motorsport forged pistons (9.0:1 compression ratio for increased thermal efficiency).",
+    "Garrett Motion dual-ball bearing turbocharger (custom-spec for MCL38) with a 3D-printed Inconel 718 turbine housing and a BorgWarner EFR wastegate actuator, paired with a Pierburg high-flow electric water pump and a custom Akrapovič titanium exhaust manifold (equal-length, 4-2-1 design) to optimize exhaust gas scavenging.",
+    "Bosch Motorsport MS20 engine control unit (ECU) reflashed with McLaren Applied’s proprietary ‘Track Dominance’ firmware (v4.2.1), integrating a MoTeC C187 dash logger for real-time telemetry and a HJS Motorsport catalytic converter (Euro 7-compliant) with a 200-cell honeycomb structure for minimal backpressure."
+  ],
+  "estetica": [
+    "McLaren Special Operations (MSO) ‘Velocity’ carbon fiber body kit, featuring a front splitter with active Gurney flaps (adjustable via steering wheel-mounted controls) and a rear diffuser with integrated LED brake cooling ducts (developed in collaboration with Lumileds).",
+    "OMP Racing ‘Superleggera’ carbon fiber steering wheel with a 3D-printed titanium shift paddle assembly (weight: 180g) and a Sparco ‘Hyperflow’ seat (carbon-Kevlar hybrid, FIA 8862-2009 certified) with custom McLaren ‘Papaya Orange’ Alcantara inserts.",
+    "Brembo ‘GT-R’ 6-piston monobloc calipers (front) and 4-piston calipers (rear) with carbon-ceramic discs (390mm front, 355mm rear) coated in Zircotec ThermoHold thermal barrier, paired with Pagid Racing RS29 brake pads and Akebono ‘Super Sport’ brake lines for pedal feel optimization."
+  ]
+}

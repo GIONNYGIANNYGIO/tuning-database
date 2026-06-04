@@ -1,0 +1,16 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "AMG GT BLACK SERIES TRACK PACK",
+  "prestazioni": [
+    "M178 LS2 (4.0L V8 Biturbo) engine: Full carbon-fiber intake manifold upgrade with 3D-printed velocity stacks by PP-Performance, increasing airflow efficiency by 12% and reducing intake temps by 8°C under sustained 7,500 RPM track use",
+    "Garrett GTX5533R Gen II turbochargers with billet compressor wheels (62mm inducer, 88mm exducer) and TiAL MV-R 44mm wastegates, calibrated for 2.2 bar peak boost on 102-octane race fuel, paired with a custom AMG-approved intercooler core by CSF Racing (4.5\" thick, 100% aluminum fin density) to maintain 45°C intake temps at Nürburgring ambient conditions",
+    "Full titanium exhaust system by Akrapović, featuring 3.5\" diameter mandrel-bent tubing, 4-2-1 merge collectors, and electronically controlled butterfly valves (mapped via AMG Track Pack ECU) to optimize backpressure for 0-60 mph in 2.9s and 1/4-mile in 10.4s at 140 mph, with a 7800 RPM redline hold capability",
+    "Ohlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed rebound), custom valving for the AMG GT Black Series front double-wishbone and rear multi-link suspension, paired with spherical bearing upper control arms by 034Motorsport and adjustable anti-roll bars (24mm front, 22mm rear) by H&R for 1.7g lateral grip on Pirelli P Zero Trofeo R tires (325/30R20 rear, 285/30R20 front)",
+    "Brembo GT-R 6-piston monobloc calipers (front) and 4-piston (rear) with 420mm x 40mm two-piece floating rotors (cross-drilled, slotted, and cryo-treated) by AP Racing, paired with Ferodo DS3.12 race pads and Motul RBF 660 brake fluid for 1.2g deceleration from 120 mph with zero fade after 15 Nürburgring laps"
+  ],
+  "estetica": [
+    "Full carbon-fiber aero package by AMG Advanced Composite Structures, including a 3D-printed front splitter with integrated dive planes (adjustable for +200kg downforce at 150 mph), rear diffuser with active Gurney flap (electronically deployed at 100 mph), and a fixed rear wing with dual-element design (900mm span, 300mm chord) generating 400kg of downforce at 120 mph",
+    "Custom widebody conversion by Prior Design (PD800GT kit), extending front fenders by 50mm and rear quarters by 70mm to accommodate 12.5\" and 13\" wide wheels (ET20 front, ET15 rear) with forged aluminum center-lock hubs by Dymag (RX-2 model, 9.5kg per wheel), wrapped in Michelin Pilot Sport Cup 2 R tires (345/30R20 rear, 305/30R20 front)",
+    "Full interior carbon-fiber weave by Sabelt, including a 6-point FIA-approved harness bar (bolt-in, no drilling) with Schroth Profi II 3\" harnesses, carbon-fiber Recaro Pole Position seats (8.5kg each) with integrated air cooling ducts, and a custom roll cage by Matter Motorsport (chromoly steel, TIG-welded, 1.5\" diameter tubing) for 30% increased torsional rigidity without adding more than 40kg to the chassis"
+  ]
+}

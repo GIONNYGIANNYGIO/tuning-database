@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES",
+  "model": "F1 W05 HYBRID",
+  "prestazioni": [
+    "PU106A Hybrid 1.6L V6 Turbo (engine code) with a bespoke Garrett F1-spec titanium-aluminide turbocharger, featuring a 100,000 RPM maximum shaft speed and integrated MGU-H for seamless energy recovery, paired with a HPP (High Performance Powertrains) custom carbon-fiber intake manifold and Mahle Motorsport forged pistons with a 14:1 compression ratio for optimized thermal efficiency under 500+ bar fuel pressure (Petronas Primax 5 fuel)",
+    "Bosch Motorsport MS20 engine control unit (ECU) reflashed with Mercedes-AMG F1 proprietary torque vectoring algorithms, enabling real-time adjustment of MGU-K power deployment (up to 160 hp) and ERS energy distribution via a Williams Advanced Engineering lithium-ion battery pack with 4MJ capacity, calibrated for 33-second full-power bursts per lap",
+    "Ohlins TTX40 F1-spec 4-way adjustable dampers with titanium coil springs (2000 N/mm front, 1800 N/mm rear) and carbon-fiber pushrods, paired with a Brembo F1 carbon-ceramic brake system (398mm front, 380mm rear) featuring AP Racing calipers and Ferodo Racing DS3000 pads for 5G deceleration, all mounted on a Mercedes-AMG F1 carbon-fiber monocoque with a 1,400 kg total weight (including driver)"
+  ],
+  "estetica": [
+    "Mercedes-AMG F1 W05 Hybrid-specific carbon-fiber front wing with 9 adjustable elements (including a Y250 vortex generator) and a rear wing featuring a Drag Reduction System (DRS) with a 20% reduction in downforce when activated, both coated in AkzoNobel Sikkens F1-spec matte black paint with aerodynamic surface texturing for boundary layer control",
+    "Rear diffuser with 7 vertical strakes and a central boat-tail section, constructed from pre-preg carbon fiber with a Nomex honeycomb core, designed in collaboration with Sauber Aerodynamics for optimized underbody airflow and 2,000 kg of downforce at 200 km/h (scaled to 1:1 model for track use)",
+    "Custom 3D-printed titanium wheel centers (OZ Racing F1 wheels) with a 13-inch front and 13.7-inch rear diameter, wrapped in Pirelli P Zero F1 slicks (C1 compound for dry, Cinturato intermediate for wet), featuring a bespoke Mercedes-AMG F1 wheel nut design with a single central locking mechanism and integrated TPMS sensors for real-time tire pressure monitoring"
+  ]
+}

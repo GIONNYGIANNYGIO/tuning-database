@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "AMG PROJECT ONE",
+  "prestazioni": [
+    "Replacement of the **M178hpp+EQ** hybrid F1-derived 1.6L V6 PU106C power unit's MGU-K with a **Magneti Marelli MGU-K 2.0** (F1-spec, 120 kW continuous output, 160 kW peak) to exploit the 10,000 RPM redline and 1.1 MW (1,475 hp) system output, paired with a **Bosch MS25.4** hybrid control unit recalibrated for 30% faster torque vectoring via the **AMG Speedshift DCT-9G** transaxle",
+    "Installation of a **Garrett GTX5544R Gen II** turbocharger (custom billet compressor wheel, 76mm inducer, 106mm exducer) with **Tial MV-R 60mm** wastegate and **Pectel SQ6M** standalone ECU to manage the 5.5 bar (80 psi) boost pressure, replacing the stock **IHI** turbocharger for sustained 1,200+ hp on **VP Racing C16 118-octane** fuel with **Motec M150** knock control",
+    "Full **AP Racing CP9660-8** carbon-carbon clutch system (8-paddle, 300mm diameter) with **Tilton 7.25\" triple-plate** pressure plate and **Penske 8760** adjustable dampers to handle the 1,100 Nm torque spike, paired with a **Hewland AMG F1-derived** 7-speed sequential transaxle reinforced with **Xtrac 523** differential and **GKN Lobro** CV joints for 0.05s gear shifts"
+  ],
+  "estetica": [
+    "**RML Group** carbon-fiber monocoque reinforcement with **Hexcel HexTow IM7** prepreg weave (2x2 twill, 12K tow) for a 15% torsional rigidity increase, featuring **AIM Aerospace** titanium roll cage (Grade 5 Ti-6Al-4V) with **Schroth Racing** 6-point harnesses and **Sabelt** FIA-spec seat inserts",
+    "**Porsche Motorsport** 919 Hybrid-derived **Gurney flap-adjustable** rear wing (3D-printed **EOS Aluminum AlSi10Mg**) with **MTS Systems** active aerodynamics (25Hz actuation) and **ANSYS Fluent**-optimized **Vortex Generators** on the **AMG Carbon-Fiber** front splitter, reducing drag by 8% at 350 km/h",
+    "**BBS FI-R** forged magnesium wheels (19x13 front, 20x15 rear) with **Pirelli P Zero Trofeo R** semi-slick tires (305/30 R19, 345/30 R20) wrapped in **Brembo GT-R** carbon-ceramic brake system (410mm front, 390mm rear) with **Ferodo Racing DS3000** pads and **Hawk Performance** brake fluid (DOT 5.1, 325°C boiling point)"
+  ]
+}

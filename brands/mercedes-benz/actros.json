@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "ACTROS",
+  "prestazioni": [
+    "OM471 LA (12.8L inline-6 diesel) engine: BorgWarner EFR 9280 turbocharger with titanium-aluminide turbine wheel, custom 3D-printed inconel manifold, and 1.5-bar boost target for 750+ HP at 1,800 RPM (stock: 476-530 HP). Precision Turbo wastegate actuator with 38mm dual-port setup for precise boost control under 25-ton loads.",
+    "Mercedes-Benz OM471-specific Bosch CP4.2 high-pressure fuel pump upgrade to 2,500 bar with custom billet aluminum fuel rails and 10x Denso G4S-QP20TT 3,000-bar injectors (stock: 2,100 bar) for E85 compatibility and 2,200 Nm torque at 1,200 RPM (stock: 2,600 Nm at 1,100 RPM).",
+    "ZF TraXon 12TX3020 automated manual transmission with reinforced carbon-fiber clutch pack, custom TCU remap by I-Shift Solutions for 0.15s shift times, and Paccar MX-13-derived differential cooler with dual 120mm Spal fans for sustained 1,800 RPM torque delivery in 8x4 configurations."
+  ],
+  "estetica": [
+    "Rear diffuser: Custom 5-piece carbon-fiber diffuser by Lorinser for Actros StreamSpace cab, featuring integrated LED reverse light pods and active aerodynamics with 3x 120mm servo-driven flaps for drag reduction at 85+ km/h (tested in Mercedes-Benz wind tunnel).",
+    "Front splitter: 3D-printed PA12 nylon splitter by Brabus Trucks, extending 220mm from the bumper with integrated air curtains and 4x 80mm NACA ducts for intercooler and brake cooling. Finished in matte Mercedes-Benz Arctic White (9144) with gloss black carbon-fiber weave accents.",
+    "Wheel setup: 24-inch forged aluminum wheels by Alcoa (model: Dura-Bright XBR) with 385/55R24 Michelin X Multi Z2 tires, featuring custom offset (-15mm) for flush fitment. Center caps replaced with Mercedes-Benz AMG-style carbon-fiber units with laser-etched Actros logo."
+  ]
+}

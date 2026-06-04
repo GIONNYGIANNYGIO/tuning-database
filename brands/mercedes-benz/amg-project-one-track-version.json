@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "AMG PROJECT ONE TRACK VERSION",
+  "prestazioni": [
+    "1.6L M139.5 Hybrid F1-derived PU106C E-Turbo V6 (9,000 RPM redline) with bespoke Garrett E-Turbo MGU-H system upgrade, replacing the stock unit with a carbon-fiber compressor wheel and titanium turbine housing for reduced rotational inertia and 12% faster spool response, paired with a Pankl Racing Systems billet crankshaft and Carrillo H-beam connecting rods for 1,000+ HP reliability at 3.5 bar boost (up from 2.8 bar stock).",
+    "AP Racing CP9661-1000 carbon-carbon 6-piston monobloc calipers with 420mm CCM-R discs (front) and CP9661-800 4-piston calipers with 380mm discs (rear), featuring a bespoke Mercedes-AMG Motorsport brake cooling duct system with 3D-printed titanium air guides and a secondary heat exchanger for sustained 2.0g deceleration from 200 mph without fade.",
+    "Bespoke Bosch MS 7.20 hybrid powertrain control unit (PCU) with AMG Motorsport’s ‘Track Mode 3’ software, enabling a 0.5-second faster MGU-K deployment curve (0-160 kW in 1.2s vs. 1.7s stock) and a 12% increase in energy recovery under braking (up to 350 kW), paired with a custom lithium-ion battery pack from Kreisel Electric with 1.2 kWh capacity (up from 0.8 kWh) and active liquid cooling for sustained 30-lap track sessions at Nürburgring Nordschleife."
+  ],
+  "estetica": [
+    "Full carbon-fiber bodywork replacement with a 3D-scanned, wind-tunnel-optimized aero package by Sauber Engineering, including a 1,200mm-wide front splitter with active Gurney flaps (adjustable ±15° via hydraulic actuators), a rear diffuser with 18 individual strakes (vs. 12 stock) for 40% more downforce at 180 mph, and a fixed rear wing with dual-plane DRS (Drag Reduction System) for +1,800 lbs of downforce at 250 km/h (vs. +1,200 lbs stock).",
+    "Custom 18x12.5-inch (front) and 19x13.5-inch (rear) forged magnesium wheels by BBS Motorsport, featuring a 5x130 bolt pattern with titanium wheel bolts, wrapped in Michelin Pilot Sport Cup 2 R tires (325/705 R18 front, 355/705 R19 rear) with a bespoke compound (Michelin ‘Track Day’ blend) for 1.8g lateral grip and 20% longer tread life under extreme heat cycles.",
+    "Interior stripped and re-trimmed with a full carbon-fiber monocoque by Sabelt, featuring a 6-point FIA-spec harness (Sabelt 6SFI-200), a bespoke carbon-fiber steering wheel with integrated AMG Motorsport telemetry display (replacing the stock MBUX system), and a titanium roll cage by Matter Motorsport with integrated fire suppression system (FEV 1000g Novec 1230) and a 3D-printed aluminum pedal box with adjustable brake bias (0-100% in 0.2s increments)."
+  ]
+}

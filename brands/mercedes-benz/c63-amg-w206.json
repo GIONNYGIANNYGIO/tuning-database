@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "C63 AMG W206",
+  "prestazioni": [
+    "AMG M177 DE30 AL 3.0L V6 Biturbo (408 HP stock) upgraded with a Weistec Engineering Stage 3+ hybrid turbo kit featuring Garrett GTX4274R turbos (68mm compressor, 74mm turbine) with billet compressor wheels, custom 3.5\" stainless steel downpipes, and a Weistec high-flow intercooler (1200g/s airflow capacity) to support 750 HP on 93 octane with a Weistec ECU flash (optimized for 22 PSI boost, 7200 RPM redline, and 11.8:1 AFR targets)",
+    "Bilstein Clubsport coilover suspension with 3-way adjustable damping (compression/rebound/height), spherical top mounts, and 8kg/mm front / 12kg/mm rear spring rates, paired with H&R 25mm front and 20mm rear anti-roll bars (W206-specific geometry) for reduced body roll and optimized camber gain (-3.5° front, -2.8° rear)",
+    "AP Racing 6-piston front (380mm rotors) and 4-piston rear (356mm rotors) big brake kit with two-piece floating rotors, Pagid RS29 brake pads, and Motul RBF 660 brake fluid (330°C boiling point), complemented by a Cusco 2.5-way mechanical LSD (80% lockup) and a Weistec carbon fiber driveshaft (1.2kg weight reduction, 1200 HP torque capacity)"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (W206-specific) with carbon fiber fenders (30mm front, 40mm rear flares), custom front splitter (3D-printed ABS with 3-stage Gurney flap), and a GT3-style rear diffuser with integrated exhaust cutouts for dual 3.5\" titanium exhaust tips (Akrapovič Evolution Line)",
+    "OEM+ AMG Night Package II (gloss black) with custom vinyl overlays (3M 2080 Satin Matte Graphite) on the hood, roof, and mirrors, paired with a Vorsteiner V-FF107 forged carbon fiber front lip and rear spoiler (120mm height, 3D-printed airfoil)",
+    "BBS FI-R 9.5x19\" (ET25) front and 11x19\" (ET35) rear wheels with 265/30/19 and 295/25/19 Michelin Pilot Sport Cup 2 R tires (custom staggered fitment), wrapped in a custom livery by Foglizzo Designs (\"AMG Silver Arrow\" theme with hand-painted red pinstripes and matte black accents)"
+  ]
+}

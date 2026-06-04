@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "C111",
+  "prestazioni": [
+    "Replace the original M950 (OM617.950) 3.0L turbocharged diesel inline-5 with a fully built M950 (OM617.950) stroked to 3.5L using a forged crankshaft from **Mahle Motorsport**, billet connecting rods from **Pauter Machine**, and custom 95mm forged pistons by **JE Pistons** for a 22:1 compression ratio, paired with a **Garrett GT4202R** turbocharger (84mm compressor, 76mm turbine) on a custom **Tial MV-R** wastegate and **Tial Q** blow-off valve setup",
+    "Upgrade the fuel system with **Bosch Motorsport CP4.2** high-pressure diesel pump (2,000 bar), **Delphi DFI 21** 10-hole injectors (1,200cc/min), and a **Motec M150 ECU** with custom diesel mapping for 1,200+ hp on **Shell V-Power Diesel 100** fuel, supplemented by a **Nitrous Express Pro-Flow** direct-port nitrous system (150hp shot) for overboost scenarios",
+    "Install a **Penske 8760** 3-way adjustable coilover suspension with **Eibach ERS** race springs (800 lb/in front, 1,000 lb/in rear), **AP Racing CP8650** 6-piston front and **CP8651** 4-piston rear brake calipers with **Carbon Lorraine CCM-R** rotors (380mm front, 355mm rear), and a **Hewland DG300** 5-speed sequential transaxle with **Tilton 5.5in** triple-plate carbon clutch and **Quaife ATB** differential"
+  ],
+  "estetica": [
+    "Replace the original fiberglass body panels with **carbon fiber C111-IV** replicas from **RML Group**, featuring a **custom 3D-printed titanium rear diffuser** by **AeroTech Designs** with integrated **Gurney flaps** and **active aerodynamics** via **Bosch Motorsport** ECU-controlled **DTM-style rear wing** (adjustable angle of attack from -5° to +20°)",
+    "Install **HRE FF16** 19x12 front and 20x14 rear forged wheels with **Pirelli P Zero Trofeo R** tires (295/30/19 front, 345/25/20 rear), wrapped in **3M Scotchcal Matte Graphite Black** with **custom C111 'Wankel' decals** in **Oracal 970RA** reflective vinyl by **Signarama Stuttgart**",
+    "Retrofit the interior with **Sparco Pro 2000** carbon fiber racing seats, **Schroth 6-point harnesses**, a **Momo Prototipo** steering wheel with **AiM MXL2** data logger, and a **custom aluminum dashboard** by **VDO Motorsport** featuring **Bosch Motorsport** digital gauges (0-10,000 RPM tachometer, 0-3,000 psi fuel pressure, 0-2,000°F EGT)"
+  ]
+}

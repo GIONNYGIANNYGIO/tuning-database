@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "AMG GT BLACK SERIES NÜRBURGRING SPEC",
+  "prestazioni": [
+    "M178 LS2 (4.0L V8 Biturbo) engine recalibration via AMG Performance Studio's 'Nürburgring Package' ECU flash (part #A4530500001), increasing boost pressure to 2.2 bar (from 1.9 bar stock) and optimizing ignition timing for 750+ HP on 102 RON fuel, paired with a bespoke Mercedes-AMG Motorsport air intake system (part #A4530940099) featuring carbon fiber plenum and titanium mesh filters for reduced restriction",
+    "Garrett GTX5533R Gen II turbochargers (custom-matched to M178 LS2) with billet compressor wheels, 76mm inducer, and 106mm exducer, mated to a PWR Australia 4.5-inch core intercooler with dual 120mm SPAL fans (part #PWR-E976B) and 3-inch Tial Q-series blow-off valves (part #TIAL-Q-38mm) for sub-10ms spool response",
+    "Full titanium Akrapovič Evolution Line exhaust system (part #E1000-1700T) with 90mm carbon fiber tips, 200-cell catalytic converters, and a secondary bypass valve for Nürburgring-specific backpressure tuning, reducing weight by 18kg while maintaining 98dB compliance for track regulations"
+  ],
+  "estetica": [
+    "RML Group 'Nürburgring Aero Package' (part #RML-AMG-GT-BS-NUR) featuring a 3D-printed carbon fiber front splitter with integrated dive planes, a 1,200mm rear wing with Gurney flap and adjustable angle of attack (0-15 degrees), and a rear diffuser with active cooling vents for brake ducts",
+    "BBS FI-R 19x12/20x13 forged magnesium wheels (part #BBS-FI-R-AMG-GT-BS) with titanium lug bolts, wrapped in Michelin Pilot Sport Cup 2 R tires (285/30 ZR19 front, 325/30 ZR20 rear) shaved to 4.0mm tread depth for optimal heat cycling on the Nordschleife",
+    "Sabelt 6-point FIA-spec harnesses (part #SABELT-6H-800) integrated into Recaro Pole Position seats (part #RECARO-PP-AMG-GT-BS) with carbon fiber shells and 3D-printed aluminum mounting brackets, paired with a Schroth Quick-Release steering wheel hub (part #SCHROTH-QR-AMG) and a custom AMG Motorsport Alcantara wheel (part #A4534630002) with Nürburgring lap timer buttons"
+  ]
+}

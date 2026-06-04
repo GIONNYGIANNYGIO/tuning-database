@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "C43 AMG",
+  "prestazioni": [
+    "Engine: M276 DE 30 AL (3.0L V6 Biturbo, 362hp stock) – Full Weistec W.3 Stage 3+ hybrid turbo upgrade featuring Garrett GTX3582R turbos with billet compressor wheels, custom 0.82 A/R turbine housings, and TiAL MV-R 44mm wastegates. Paired with Weistec’s CNC-ported cylinder heads, upgraded valve springs, and titanium retainers for 7,000 RPM redline capability. Expected power: 550-600whp on 93 octane with E85 flex-fuel tuning via HP Tuners VCM Suite.",
+    "Drivetrain: 4MATIC+ transfer case reinforcement with a Wavetrac ATB differential in the rear (930M casing) and a Quaife QDF7Z helical LSD in the front. Upgraded half-shafts from GKN Driveline with CV joints rated for 800Nm torque. Transmission: 9G-Tronic (725.0) with a Punch Powerglide valve body upgrade, Sonnax billet torque converter (2,800 RPM stall), and external transmission cooler with dual Hayden 403 stacked cores.",
+    "Suspension/Handling: Öhlins Road & Track DFV coilovers with 8-position adjustable compression/rebound damping, custom valving for the C43’s 50:50 weight distribution, and helper springs for aggressive ride height reduction (-35mm front, -30mm rear). Front: H&R 27mm adjustable sway bar with spherical end links; Rear: Eibach 22mm adjustable sway bar. Brakes: Alcon 6-piston monoblock calipers (380mm front, 355mm rear) with two-piece floating rotors and Ferodo DS2500 pads. Wheels: BBS FI-R 19x9.5 ET25 front / 19x11 ET45 rear with 265/30/19 and 295/25/19 Michelin Pilot Sport Cup 2 R tires."
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny V3 widebody kit (Pandem Design) with carbon fiber front splitter, rear diffuser, and overfenders (30mm wider front, 50mm wider rear). Custom 3D-printed canards and dive planes from APR Performance. Rear wing: Voltex Type 3 (1,800mm width) with adjustable carbon fiber elements and integrated third brake light.",
+    "Exterior: Full Respray in Mercedes ‘Designo Diamond White Bright’ with 3M Matte Clear Coat. OEM+ AMG carbon fiber mirrors (Genuine Mercedes part #A2057200700) and carbon fiber side skirts (AMG Aerodynamics Package). Lighting: LUX V3 HID projectors with Morimoto XB35 bulbs (5,500K) and custom LED angel eyes (Philips Ultinon Pro9000). Rear: Sequential LED taillights (Vland) with integrated sequential turn signals.",
+    "Interior: Full Alcantara retrim by Status Gruppe – dashboard, door cards, and headliner in ‘Nero Alcantara’ with red contrast stitching. Seats: Recaro Pole Position (Evo IX) with Schroth Profi II 6-point harnesses. Steering wheel: AMG Performance wheel (flat-bottom) wrapped in Alcantara with red stitching, paired with a NRG quick-release hub. Gauges: AIM MXS Strada 1.2 dash with CAN bus integration for M276 engine data, boost, and wideband AFR (AEM X-Series)."
+  ]
+}

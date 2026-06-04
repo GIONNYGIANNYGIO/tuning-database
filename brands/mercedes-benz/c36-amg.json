@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "C36 AMG",
+  "prestazioni": [
+    "Engine: M104.941 (3.6L I6) – Full forged internals by Mahle including 87.0mm forged pistons (9.5:1 CR), Carrillo H-beam connecting rods, and a billet crankshaft with 86.4mm stroke for 3.8L displacement. Pair with a custom Schrick 272°/276° camshaft set (11.5mm lift) and ported/polished cylinder head with oversized 36mm intake and 32mm exhaust valves by Kelford Cams.",
+    "Forced Induction: Custom twin-turbo setup using Garrett GT2860RS turbos (0.64 A/R turbine housing) with TiAL MV-R 44mm wastegates and a custom 3.5\" stainless steel intercooler core by Bell Intercoolers. Boost controlled via an AEM 30-4110 standalone ECU with custom M104.941-specific fuel and ignition maps, supporting 18 psi peak boost with 93 octane fuel (or E85 with upgraded Walbro 450 LPH fuel pumps and Injector Dynamics ID1000 injectors).",
+    "Drivetrain & Suspension: Quaife ATB differential (25-spline) with a custom 3.64:1 final drive ratio for the W202 C-class rear axle. Ohlins Road & Track coilovers (W202-specific valving) with 8kg/mm front and 10kg/mm rear springs, paired with Eibach 25mm front and 22mm rear sway bars. Brembo GT 6-piston front (355mm rotors) and 4-piston rear (330mm rotors) big brake kit with Ferodo DS2500 pads."
+  ],
+  "estetica": [
+    "Body: Rocket Bunny W202 Pandem widebody kit (carbon fiber front fenders, rear quarter panels, and trunk) with custom 30mm front and 40mm rear overfenders. Front bumper lip replaced with a custom 3D-printed carbon fiber splitter by Varis, paired with a W202-specific AMG GT-style rear diffuser by Prior Design (carbon fiber, 3-piece).",
+    "Wheels & Aero: BBS LM-R 18x9.5 ET20 front and 18x10.5 ET25 rear wheels (staggered, 5x112 PCD) with Michelin Pilot Sport Cup 2 tires (235/40/18 front, 265/35/18 rear). Custom carbon fiber hood by Seibon with functional NACA ducts for intercooler airflow, and a W202-specific rear wing by 996R (carbon fiber, 3-position adjustable).",
+    "Interior: Full Recaro Pole Position seats (W202-specific mounts) with Schroth Profi II 6-point harnesses. Custom roll cage by Matter Fab (MIG-welded 4130 chromoly, 6-point with harness bar) and a MOMO Mod.70 steering wheel (350mm, suede) on a NRG quick-release hub. Engine bay dressed with carbon fiber engine covers by 034Motorsport and a custom aluminum radiator support by KSP Performance."
+  ]
+}

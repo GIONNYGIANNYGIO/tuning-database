@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "AMG GT3 EVO",
+  "prestazioni": [
+    "M159 6.2L V8 (M159 LS7) dry-sump engine with a bespoke Bosch MS6.4 engine management recalibration for GT3 Evo-spec fuel mapping, targeting 550+ hp at 7,200 RPM with 516 lb-ft of torque at 5,500 RPM, utilizing a HJS 200-cell metallic catalytic converter for FIA GT3 compliance while optimizing exhaust backpressure",
+    "Pankl Racing Systems forged titanium connecting rods (H-beam, 4340 steel) paired with Mahle Motorsport 10.5:1 compression ratio forged pistons, coated with DLC (Diamond-Like Carbon) for reduced friction and improved durability under sustained 8,500 RPM operation",
+    "Garrett GT35R turbocharger (GT3 Evo-specific variant) with a billet compressor wheel (60mm inducer, 82mm exducer) and a 0.82 A/R turbine housing, mated to a custom Bell Intercoolers air-to-water intercooler core (600x300x100mm, 60% efficiency gain over OEM) and a Pierburg 1000 L/min electric water pump for consistent intake temps under 40°C"
+  ],
+  "estetica": [
+    "APR Performance GT3 Evo-specific carbon fiber front splitter with integrated dive planes (30% more downforce than OEM) and a 3D-printed titanium support bracket for reduced weight (saving 1.2kg over aluminum)",
+    "Rear wing upgrade to a 9 Lives Racing GT3 Evo-spec dual-element wing (1,800mm span, 300mm chord) with adjustable endplates and a Gurney flap (0-20mm adjustable), constructed from pre-preg autoclave carbon fiber (T800) for a 40% increase in rear downforce at 200 km/h",
+    "OMP Racing GT3 Evo carbon fiber door panels with integrated Schroth Racing 6-point harness cutouts and a titanium quick-release steering wheel hub (Sparco Pro 2000, 320mm diameter) wrapped in Alcantara with FIA-approved stitching"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "AMG GT2 PRO",
+  "prestazioni": [
+    "M178 LS2 4.0L V8 Biturbo (GT2-spec) upgraded with a custom HGP Turbo Systems GTX5544R Gen II turbocharger (86mm compressor, 106mm turbine, 64mm wastegate) paired with a billet aluminum compressor wheel for 3.2 bar boost targeting 950+ HP on 102 RON fuel, utilizing a Tial MV-R 60mm external wastegate with dual springs for precise boost control",
+    "Full titanium 4-2-1 equal-length exhaust manifold by Akrapovič with 3.5-inch diameter Inconel primary tubes and merge collectors, paired with a 4-inch titanium center section and carbon fiber mufflers for optimized scavenging and weight reduction (saving 18kg over OEM)",
+    "Custom Motec M150 ECU with GT2-specific firmware, integrated with a Bosch Motorsport MS2.8 high-pressure direct injection system (350 bar rail pressure) and a secondary port injection kit by Injector Dynamics ID2000x (2000cc/min) for dual-injection fueling, calibrated for 30% ethanol blend (E30) with a Radium Engineering dual-pump fuel surge tank and Walbro 450 LPH brushless pumps",
+    "Ohlins TTX46 MkII 3-way adjustable coilovers with GT2-specific valving, 24-position rebound, and 22-position compression damping, paired with spherical bearing top mounts by GT3-spec Mercedes-Benz Motorsport and adjustable anti-roll bars (24mm front, 22mm rear) by H&R for flat cornering dynamics",
+    "AP Racing CP9460-1000 6-piston front and CP9461-800 4-piston rear brake calipers with 400mm x 38mm two-piece carbon-ceramic rotors (CCM-X) and Pagid RSX1 racing pads, utilizing a Bosch Motorsport ABS 9.3 system with 12-stage adjustability and a custom brake bias valve by Tilton Engineering"
+  ],
+  "estetica": [
+    "Full carbon fiber GT2 Pro aero kit by Mercedes-AMG Motorsport, including a 200mm adjustable rear wing with dual-plane Gurney flaps (3D-printed titanium endplates), front splitter with integrated dive planes, and side skirts with vortex generators, all coated in matte Satin Silver (DB 775) with exposed carbon weave accents",
+    "Custom widebody conversion by RAUH-Welt Begriff (RWB) for the GT2 Pro, featuring hand-beaten aluminum fenders (30mm wider front, 40mm wider rear) with riveted seams and integrated air vents for brake cooling, finished in Mercedes-Benz Designo Magno Selenite Grey (990) with gloss black contrast stripes",
+    "Full interior overhaul with a GT2-spec roll cage by Matter Motorsport (FIA 8862-2018 certified) in 4130 chromoly steel, paired with a Sparco Pro 2000 carbon fiber racing seat (FIA 8855-1999), Schroth 6-point harnesses, and a custom Alcantara-wrapped AMG Performance steering wheel with integrated Motec C127 dash display",
+    "Custom forged aluminum wheels by BBS FI-R (18x12 front, 18x13 rear) with center-lock hubs, 5x130 PCD, and Michelin Pilot Sport Cup 2 R tires (305/660R18 front, 325/705R18 rear), finished in gloss black with polished lip and AMG Motorsport center caps",
+    "Exterior lighting upgraded to Hella Rallye 3000 Compact LED headlights with bi-xenon projectors and adaptive cornering, paired with custom LED taillights by LUX Automotive with sequential turn signals and integrated brake cooling ducts"
+  ]
+}

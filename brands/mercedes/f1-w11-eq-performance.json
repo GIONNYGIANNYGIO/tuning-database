@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES",
+  "model": "F1 W11 EQ PERFORMANCE",
+  "prestazioni": [
+    "Mercedes-AMG M12 E Performance (PHEV) hybrid powertrain recalibration via Bosch MS25.4 ECU remapping with custom torque vectoring algorithms for the MGU-K (Motor Generator Unit-Kinetic) and MGU-H (Motor Generator Unit-Heat), targeting 1,100+ hp combined output (900 hp ICE + 200 hp electric) with a 0-60 mph time of 1.8 seconds under race conditions",
+    "Garrett GTX5544R Gen II turbocharger upgrade with billet compressor wheel (64mm inducer, 88mm exducer) and titanium-aluminide turbine wheel, paired with a custom 4.5-inch titanium downpipe and Akrapovič 4-2-1 equal-length exhaust manifold with Inconel 625 headers for optimized scavenging and reduced backpressure",
+    "Öhlins TTX46 MkII 4-way adjustable coilovers with 3D-printed titanium top mounts and carbon-fiber reinforced polymer (CFRP) spring perches, calibrated for the W11's multi-link front and pushrod rear suspension, featuring real-time damper telemetry via Bosch Motorsport VCU (Vehicle Control Unit) for adaptive ride height and stiffness"
+  ],
+  "estetica": [
+    "RML Group-designed carbon-fiber aero package with active DRS (Drag Reduction System) and front/rear wing elements derived from the 2020 F1 regulations, including a 3D-printed titanium rear wing support pylon and Gurney flaps adjustable via hydraulic actuators",
+    "AP Racing carbon-carbon brake system with 6-piston monobloc calipers (front) and 4-piston calipers (rear), paired with 390mm CCM-R discs and titanium brake lines, featuring a bespoke cooling duct system integrated into the front splitter and sidepods",
+    "BBS FI-R 18-inch forged magnesium wheels with center-locking titanium nuts, wrapped in Pirelli P Zero Trofeo R tires (285/650 R18 front, 325/705 R18 rear), featuring a custom gold-anodized finish and laser-etched Mercedes-AMG Motorsport logos"
+  ]
+}

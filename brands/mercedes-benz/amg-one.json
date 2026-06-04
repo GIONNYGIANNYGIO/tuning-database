@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "AMG ONE",
+  "prestazioni": [
+    "Upgrade to a **Mercedes-AMG F1-derived M139HL 1.6L V6 hybrid power unit** (engine code: *M139HL*) with a **Garrett GTX5544R Gen II turbocharger** (custom billet compressor wheel, 76mm inducer, 106mm exducer) paired with a **Pankl Racing Systems titanium connecting rod set** (H-beam, 4340 steel, 145mm length) to handle 1,063 HP at 11,000 RPM while maintaining F1-grade reliability. Replace the stock MGU-K with a **Magneti Marelli 800V high-efficiency electric motor** (200kW peak, 150kW continuous) for instant torque fill and regenerative braking optimization.",
+    "Install a **Weber MotorSports carbon-fiber intake manifold** (3D-printed, variable runner length, 4.5L plenum volume) with **Bosch Motorsport 8-hole direct injectors** (2,500cc/min flow rate) and a **Motec M150 ECU** (F1-spec torque shaping, traction control, and hybrid energy deployment maps) to eliminate throttle lag and maximize air-fuel atomization at 12,000+ RPM.",
+    "Replace the stock **Xtrac P1329 7-speed sequential transaxle** with a **Ricardo PLC carbon-clutch dual-disc system** (ceramic friction material, 300mm diameter) and a **Quaife ATB helical LSD** (85% lockup under load) for lightning-fast shifts and improved power delivery to the **Michelin Pilot Sport Cup 2 R tires** (325/30 R20 front, 335/30 R21 rear) via a **BBS FI-R forged magnesium wheel set** (20x13 front, 21x14 rear, 9.5kg per wheel)."
+  ],
+  "estetica": [
+    "Install a **RML Group full-carbon F1-style front splitter** (adjustable dive planes, 3-stage Gurney flap, 120kg downforce at 250 km/h) paired with a **Sauber Engineering rear diffuser** (active aero, 4-stage adjustable, 200kg downforce at 300 km/h) to match the **Mercedes-AMG GT3-derived underbody venturi tunnels**.",
+    "Replace the stock **AMG ONE carbon-fiber monocoque** side skirts with **Liberty Walk LB-WORKS widebody conversion** (pre-preg carbon, 50mm wider front fenders, 70mm wider rear quarters) and **AP Racing 6-piston monoblock calipers** (380mm carbon-ceramic rotors, gold anodized) for aggressive stance and braking performance.",
+    "Fit a **Vorsteiner V-FF 107 full-carbon rear wing** (dual-element, 3-stage adjustability, 180kg downforce at 280 km/h) with **Dymag carbon-fiber wheels** (forged hybrid carbon-aluminum, 20x13 front, 21x14 rear, 8.2kg per wheel) and **Pirelli P Zero Trofeo R tires** (custom compound, 345/30 R21 rear) for track-focused grip and visual dominance."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "AMG SL 63 S E PERFORMANCE",
+  "prestazioni": [
+    "M177.2 DE30 AL HPP (Hybrid Performance Package) Stage 2+ ECU/TCU flash by Weistec Engineering, targeting 780+ HP (650 HP ICE + 130 HP electric) with revised torque split (65% ICE / 35% electric) and optimized P3 hybrid motor mapping for 0-60 mph in 2.8s. Includes Weistec’s proprietary ‘Hybrid Launch Control’ algorithm to prevent battery depletion during repeated hard launches.",
+    "Garrett GTX5533R Gen II turbochargers (88mm billet compressor wheels, 1.15 A/R turbine housings) with TiAL MV-R 60mm wastegates and custom 4.5\" stainless steel downpipes (MagnaFlow Euro 6-compliant catalytic converters retained for emissions). Turbo back exhaust system by Armytrix Valvetronic (4.5\" titanium-coated piping, dual-mode butterfly valves, and Inconel 625 mufflers).",
+    "KW Suspensions Clubsport 3-way adjustable coilovers (1,000 lbs/in front springs, 900 lbs/in rear) with Ohlins TTX46ML dampers (24-click rebound, 22-click compression) and Eibach ERS (Elastomer Reinforced Suspension) bushings. Front camber plates by H&R (adjustable to -3.5°) and rear toe arms by 034Motorsport (adjustable for ±1.5° of toe). Full carbon fiber front splitter by Prior Design (35kg downforce at 120 mph) and active rear diffuser by AMG Performance Studio (Gurney flap extension + 3D-printed vortex generators)."
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (SL-specific, 50mm front / 70mm rear fender flares) with custom carbon fiber overfenders (pre-preg autoclave, 2x2 twill weave) and integrated LED turn signals (Lux H8 V4). Front bumper lip by Vorsteiner (carbon fiber, 45mm drop) with integrated canards (3D-printed PA12 nylon, 15° angle of attack).",
+    "Rotiform LAS-R 20x10.5\" ET25 (front) and 21x12.5\" ET40 (rear) forged wheels (1,500g per wheel, 5x112 PCD) with Michelin Pilot Sport Cup 2 R tires (275/30 R20 front, 325/25 R21 rear). Custom wheel spacers by H&R (15mm front, 25mm rear) with extended wheel studs (M14x1.5, 90mm length) and titanium lug nuts by Bimecc (10g weight savings per nut).",
+    "Full carbon fiber interior overhaul by Carbonskins (dashboard, door cards, center console, and AMG Performance steering wheel in Alcantara with red contrast stitching). Custom roll cage by Matter Fab (TIG-welded 4130 chromoly, 1.75\" x .120\" wall thickness) with integrated fire suppression system (FireBottle 2x 5lb extinguishers, plumbed to engine bay and cabin). Alcantara headliner by Distinctive Car Interiors with red LED ambient lighting (Philips Hue integration for dynamic color shifts)."
+  ]
+}

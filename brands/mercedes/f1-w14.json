@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES",
+  "model": "F1 W14",
+  "prestazioni": [
+    "Mercedes-AMG M14 E Performance 1.6L V6 hybrid turbocharged power unit (PU) with a bespoke Garrett GTX5544R 106mm turbocharger, optimized for 15,000 RPM operation and 500+ bar fuel pressure via Magneti Marelli direct injection system",
+    "Custom Pankl Racing Systems titanium connecting rods with DLC (Diamond-Like Carbon) coating, paired with Mahle Motorsport forged pistons (9.0:1 compression ratio) and a billet aluminum crankshaft for 1,000+ HP reliability under sustained 5G cornering loads",
+    "Mercedes-AMG F1-spec ERS (Energy Recovery System) upgrade featuring a YASA P400R axial flux motor-generator (MGU-K) with 160 kW output, mated to a bespoke Williams Advanced Engineering lithium-ion battery pack (900V, 4MJ capacity) for 33-second full-power deployment per lap"
+  ],
+  "estetica": [
+    "APR Performance W14-specific carbon fiber front wing with 7-element active aero adjustability (DRS and non-DRS modes), including a 3D-printed titanium endplate cascade for vortex generation",
+    "Rocket Bunny F1 W14 widebody conversion kit with 100mm extended wheel arches (front) and 120mm (rear), paired with a custom 3D-printed titanium diffuser featuring 9 Gurney flaps for optimized downforce-to-drag ratio",
+    "OMP Racing WRC-spec carbon fiber steering wheel with integrated 4.3-inch Bosch Motorsport digital display, featuring a bespoke Mercedes-AMG F1 W14 livery with electrochromic tint-adjustable sidepod panels (Solar Gard Ultra Performance film)"
+  ]
+}

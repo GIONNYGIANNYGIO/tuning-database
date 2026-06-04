@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "C63 AMG BLACK SERIES COUPE",
+  "prestazioni": [
+    "Engine: M159 6.2L V8 (N/A) – Full internal build with forged Mahle Motorsport pistons (9.0:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from Manley Performance. Pair with a custom Schrick 284°/280° camshaft profile for optimized high-RPM airflow, retaining the factory dry-sump lubrication system but upgrading to a Setrab 50-row oil cooler with AN-10 lines for sustained track use.",
+    "Forced Induction: While the M159 is naturally aspirated, a bespoke centrifugal supercharger kit from Sprintex (model S300-98) can be adapted with a custom intercooler setup featuring a PWR 4.5-core front-mount heat exchanger and a Bosch 044 fuel pump with dual Walbro 450 LPH in-tank pumps, controlled via a Motec M150 ECU with flex-fuel capability for E85 blends.",
+    "Suspension & Chassis: Full Ohlins TTX46 coilover kit (C63-specific valving) with spherical bearing top mounts from SuperPro, paired with a Wavetrac limited-slip differential and a custom subframe reinforcement kit from H&R (TUV-approved). Braking upgraded to Alcon 6-piston monoblock calipers (380mm front, 355mm rear) with two-piece rotors and Ferodo DS2500 pads, using Goodridge G-Stop braided lines and Motul RBF660 brake fluid."
+  ],
+  "estetica": [
+    "Aero: Full Rocket Bunny V3 widebody kit (C63-specific) with carbon fiber front splitter, rear diffuser, and GT-style wing (adjustable angle via KW Automotive mounts). Underbody aero includes a custom flat floor panel from APR Performance and a rear diffuser with integrated vortex generators from Vorsteiner.",
+    "Exterior: Full respray in Mercedes-Benz Designo Magno Allanite Grey with a 3M Matte Clearcoat overlay, paired with OEM+ carbon fiber mirrors from AMG (part #A2047200401) and a custom titanium exhaust system from Akrapovic (4-into-3-into-1 design, 70mm tips) with a bypass valve for track/cruise modes.",
+    "Interior: Full Recaro Pole Position seats (carbon fiber shells, FIA-approved) with Schroth Profi II 6-point harnesses, paired with a custom roll cage from Matter Fab (chromoly, TIG-welded, with integrated fire suppression system). Steering wheel replaced with a Momo Prototipo (350mm, Alcantara) and a custom Motec C127 dash display integrated into the A-pillar."
+  ]
+}

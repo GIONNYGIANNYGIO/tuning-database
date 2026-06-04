@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "C55 AMG",
+  "prestazioni": [
+    "Engine: M113 E55 (5.4L V8, 32V, SOHC, supercharged) – Replace OEM Eaton M112 supercharger with a Kleemann K-55-2.5L supercharger kit (2.5L rotor volume, 12 psi max boost, integrated water-to-air intercooler, 550+ HP at 6,500 RPM with supporting mods).",
+    "Forced Induction: Install a custom 4-inch aluminum intercooler piping system with a CSF Racing 7-row front-mount intercooler (core dimensions: 24.5\" x 6.5\" x 3.5\") and a Pierburg CWA 100 high-flow water pump for auxiliary intercooler fluid circulation.",
+    "Fuel & Ignition: Upgrade to a Walbro 450 LPH in-tank fuel pump with a Radium Engineering dual-port fuel pressure regulator (set to 58 psi base pressure) and a KMS 300 ECU with custom M113-specific maps. Replace OEM coils with NGK Iridium IX spark plugs (heat range 8) and MSD 8.5mm superconductor wires for optimized ignition timing under boost."
+  ],
+  "estetica": [
+    "Body Kit: Install a Wald International #203 \"Black Bison\" widebody kit (OEM+ fitment, 30mm extended fenders, carbon fiber front splitter, and rear diffuser with integrated tow hook).",
+    "Wheels & Suspension: Mount a set of BBS LM-R II wheels (19x9.5 ET25 front, 19x11 ET15 rear) with Michelin Pilot Sport Cup 2 tires (255/35/19 front, 295/30/19 rear). Lower the car with KW Variant 3 coilovers (8-position rebound, 12-click compression damping, 30mm drop) and add H&R 25mm front / 20mm rear sway bars for chassis rigidity.",
+    "Aero & Details: Fit a Vorsteiner V-FF102 carbon fiber rear spoiler (3-piece, adjustable angle) and a custom 3M Matte Graphite vinyl wrap with gloss black accents on the grille, side mirrors, and AMG badges. Replace OEM headlights with Depo Racing LED projector headlights (bi-xenon, sequential turn signals) and add a custom LED taillight overlay with sequential startup animation."
+  ]
+}

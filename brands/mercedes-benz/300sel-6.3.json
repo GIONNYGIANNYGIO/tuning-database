@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "300SEL 6.3",
+  "prestazioni": [
+    "Engine: M100.980 (6.3L V8, 250hp stock) – Full forged internals by Mahle (pistons, 9.5:1 CR), Carrillo H-beam connecting rods, and a billet crankshaft from Bryant Racing. Custom camshafts by Schrick (280° intake, 284° exhaust, 11.5mm lift) with titanium retainers and dual valve springs from Supertech.",
+    "Forced Induction: Custom-built twin-turbo system using Garrett GTX4202R turbos (62mm inducer, 82mm exducer) on a bespoke stainless manifold by TurboSmart, paired with a Tial MV-R 44mm wastegate and a custom air-to-water intercooler setup (core by PWR, piping by Vibrant Performance).",
+    "Fuel & Ignition: Full sequential port injection conversion using Bosch Motorsport 0280158002 injectors (1,200cc/min) with a Motec M150 ECU, dual Walbro 450LPH pumps, and a custom fuel rail by Radium Engineering. Ignition system upgraded to MSD 8516 coils with NGK R7437-10 iridium plugs gapped at 0.028\"."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion by RWB x Mercedes-Benz Classic Center, featuring extended fenders (3.5\" front, 4.2\" rear), custom front splitter by Vorsteiner (carbon fiber, 3-piece adjustable), and a rear diffuser by APR Performance (carbon fiber, integrated exhaust cutouts).",
+    "Wheels: Custom 18x9.5\" (ET20) and 18x11\" (ET35) forged wheels by BBS LM-R (gold finish, center-lock conversion), wrapped in Michelin Pilot Sport Cup 2 tires (245/40/18 front, 285/35/18 rear).",
+    "Interior: Full Alcantara retrim by KSPG (dashboard, door cards, headliner) with custom Recaro CS-E racing seats (Schroth 6-point harnesses), a Momo Prototipo steering wheel (380mm, suede), and a digital dash by AIM MXS Strada (12\" display, CAN bus integration with Motec ECU)."
+  ]
+}

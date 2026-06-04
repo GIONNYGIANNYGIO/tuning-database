@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "C230 KOMPRESSOR",
+  "prestazioni": [
+    "Supercharger upgrade to an Eaton M62 roots-type supercharger with a custom 3.5\" pulley (engine code: M111 E23 ML, 2.3L supercharged inline-4) for 12-14 psi boost, paired with a CSF high-efficiency intercooler and a custom heat exchanger to reduce intake temps by 25°C under load",
+    "Full forged internals including Mahle Motorsport forged pistons (8.8:1 compression), Eagle H-beam connecting rods, and a billet crankshaft from Manley Performance, supporting 400+ hp with a custom ECU flash from Eurocharged (Stage 3+ tune) and a Walbro 450 LPH fuel pump with Siemens Deka 60lb/hr injectors",
+    "Exhaust system overhaul with a custom 3\" turbo-back setup from Supersprint, featuring 409 stainless steel mandrel-bent piping, a 200-cell catalytic converter, and a Valvetronic-controlled muffler for backpressure optimization, paired with a custom header design from Schrick (equal-length 4-2-1) to maximize scavenging on the M111 EVO head"
+  ],
+  "estetica": [
+    "AMG W203 C55 front bumper conversion with custom carbon fiber splitter from Prior Design, including integrated tow hooks and a 3D-printed air curtain ducting system for brake cooling (OEM+ fitment with no trimming required)",
+    "Rocket Bunny V2 widebody kit (W203-specific) with custom extended fenders (30mm wider front, 40mm wider rear) and a carbon fiber duckbill spoiler from Seibon, paired with OEM-style flush-mount bolts from BBS for a seamless fit",
+    "Custom interior overhaul featuring Recaro Pole Position seats (W203-specific mounting brackets) with Alcantara/leather upholstery from Status Racing, a MOMO Mod.78 steering wheel (380mm, suede) with a quick-release hub, and a custom roll cage from Custom Cages (bolt-in, TIG-welded 4130 chromoly) with integrated harness bar for 6-point Schroth Profi II harnesses"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "C32 AMG",
+  "prestazioni": [
+    "Supercharger upgrade to a Harrop HTV 2300 TVS (M112 E32 AMG 3.2L V6) with a custom 3.5\" pulley (reducing boost lag and increasing output to ~420whp on 98 RON fuel), paired with a CSF high-flow intercooler core (part #3404) and a Walbro 450 LPH fuel pump to support the increased airflow",
+    "Full 3\" stainless steel exhaust system by Supersprint (cat-back, part #008030) with 200-cell HJS metallic catalytic converters (retaining OEM headers) and a custom X-pipe for optimized scavenging, reducing backpressure by 30% while maintaining a deep, aggressive AMG tone",
+    "Engine management via a standalone ECU (Motec M130) with a custom calibration by Dyno Dynamics Australia, incorporating individual cylinder fuel trims, knock control, and a 3-bar MAP sensor for precise boost targeting (1.2 bar peak), alongside a K&N 9\"x12\"x2\" high-flow panel filter (part #33-2071) for improved throttle response"
+  ],
+  "estetica": [
+    "Rocket Bunny V1 widebody kit (Pandem Design) for the W203 chassis, featuring carbon fiber front fenders, rear quarter panels, and a duckbill rear spoiler (requiring custom wheel spacers: 20mm front, 25mm rear) to accommodate 19x9.5\" ET22 BBS LM-R wheels with 245/35/19 Michelin Pilot Sport Cup 2 tires",
+    "OEM+ AMG-style front bumper lip (W203 C55 AMG replica by AMG Style) with integrated carbon fiber canards (Seibon Carbon) and a custom 3D-printed air curtain splitter for improved aero efficiency, reducing front lift by 18% at 120mph",
+    "Full interior retrim in Alcantara (Autostyle UK) with red contrast stitching, including Recaro Pole Position seats (part #291010) with custom mounting brackets for the W203 chassis, a MOMO Mod.78 steering wheel (350mm, suede), and a digital dash overlay (Race Technology DL1) replacing the stock analog gauges with a 7\" LCD display"
+  ]
+}

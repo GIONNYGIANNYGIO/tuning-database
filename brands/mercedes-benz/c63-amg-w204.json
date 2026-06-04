@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "C63 AMG W204",
+  "prestazioni": [
+    "Engine: M156 6.2L V8 (M156 E63) – Full forged internals including Mahle Motorsport forged pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from Manley Performance. Upgraded to a custom dry-sump oiling system by Peterson Fluid Systems with dual scavenge pumps to eliminate oil starvation during high-G cornering.",
+    "Forced Induction: Twin Precision Turbo PT6266 CEA turbos (62mm inducer, 66mm exducer) with custom billet compressor wheels, Tial MV-R 44mm wastegates, and a custom intercooler setup by Wagner Tuning (800hp-capable core with 3.5\" charge pipes and silicone couplers from Vibrant Performance).",
+    "Fuel System: Full return-style fuel system with dual Bosch Motorsports 044 fuel pumps, Injector Dynamics ID1700x injectors, and a Radium Engineering fuel pressure regulator. Custom ECU tuning via HP Tuners with a flex-fuel kit (E85 compatible) and a Motec C127 dash for real-time monitoring of AFR, boost, and oil pressure."
+  ],
+  "estetica": [
+    "Widebody Conversion: Wald International #204 Widebody kit (carbon fiber fenders, front bumper, and rear diffuser) with custom extended rocker panels to accommodate 10.5\" front and 12\" rear wheel widths. Full seam-welded chassis with seam sealer for rigidity.",
+    "Aerodynamics: Custom front splitter by Vorsteiner (carbon fiber, 3-piece adjustable) paired with a custom 2-piece carbon fiber rear wing from 991 GT3 RS (adapted for W204 mounting points). Underbody diffusers from APR Performance with integrated brake cooling ducts.",
+    "Wheels & Stance: HRE FF01 wheels (19x10.5\" ET15 front, 19x12\" ET5 rear) with custom offsets to fit the Wald widebody. Suspension setup includes Ohlins Road & Track coilovers (custom valving for W204 chassis) with polyurethane bushings from Powerflex (black series) and custom subframe reinforcement plates from 034 Motorsport."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "B45 AMG",
+  "prestazioni": [
+    "AMG M139L 2.0L Inline-4 (engine code: M139) hybrid turbo upgrade to a Garrett GTX4267R Gen II with billet compressor wheel, 64mm inducer, and 80mm exducer, paired with a custom 3.5-inch V-band downpipe and a secondary 2.5-inch wastegate dump tube for reduced backpressure and optimized spool on the B45's high-revving layout",
+    "Full titanium valvetrain overhaul with Ferrea F14 series intake/exhaust valves (5.5mm stem, 37.5mm head diameter), Schrick 280°/284° camshafts (11.5mm lift), and titanium retainers from K1 Technologies, reducing reciprocating mass by 40% for 8,500 RPM stability and improved throttle response in the M139's high-boost environment",
+    "Custom Motec M150 ECU with flex-fuel ethanol mapping, dual Bosch Motorsport 0261500403 high-pressure fuel pumps (2,200cc/min each), and a secondary low-pressure lift pump from Radium Engineering, supporting 45 psi base fuel pressure and 1,200+ HP on E85 with ID1050x injectors and a port-injected methanol system for charge cooling"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit for the W247 platform, featuring 3-piece carbon fiber overfenders with integrated air vents for the M139's intercooler and radiator, extending track width by 80mm front and 100mm rear while maintaining OEM panel gaps and crash structure compliance",
+    "Full carbon fiber front splitter from 991 Design, incorporating a 3-stage Gurney flap and integrated canards for high-speed stability, paired with a custom 2-piece rear diffuser from Vorsteiner with active aero elements (electrically adjustable angle) to balance downforce at 180+ mph",
+    "OEM+ AMG carbon fiber engine cover with a custom titanium heat shield from Eventuri, featuring laser-cut Mercedes-Benz star cutouts for heat dissipation, paired with a full titanium exhaust system from Akrapović (4.5-inch center section, dual 3.5-inch outlets) with carbon fiber tips and an electronically controlled butterfly valve for backpressure tuning"
+  ]
+}

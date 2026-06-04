@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "AMG GT4 RACE CAR",
+  "prestazioni": [
+    "M178 LS2 4.0L V8 Biturbo (GT4-spec) with a bespoke Bosch Motorsport MS6.4 engine management recalibration for 550+ hp at 7,200 RPM, utilizing a Garrett GT3582R turbocharger with billet compressor wheel and 1.05 A/R turbine housing for optimized spool and top-end response",
+    "Hewland 6-speed sequential transaxle with a Sachs Racing twin-disc carbon clutch (240mm diameter) and a Drexler Motorsport limited-slip differential with 45% preload for aggressive torque biasing under corner exit",
+    "Öhlins TTX46 MkII 4-way adjustable dampers with 30mm front and 28mm rear spring rates (Eibach Motorsport), paired with a H&R Motorsport GT4-specific anti-roll bar kit (24mm front, 22mm rear) for flat cornering dynamics"
+  ],
+  "estetica": [
+    "APR Performance GT4-spec carbon fiber front splitter with integrated dive planes and a 3D-printed Gurney flap for high-speed stability, matched to a custom rear diffuser by RevoZport with vortex generators for optimized airflow separation",
+    "BBS FI21 GT4-spec forged magnesium wheels (18x12 front, 18x13 rear) wrapped in Michelin Pilot Sport Cup 2 R tires (30/68-18 front, 31/71-18 rear) with a custom TPMS system by Stack Instruments for real-time pressure monitoring",
+    "Full carbon fiber bodywork by Capristo Automotive, including a GT4-spec rear wing with adjustable Gurney flap (0-15mm range) and a custom NACA duct hood for direct air induction into the M178’s intercoolers"
+  ]
+}

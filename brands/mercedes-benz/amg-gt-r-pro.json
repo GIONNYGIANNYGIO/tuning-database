@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "AMG GT R PRO",
+  "prestazioni": [
+    "M178 LS2 4.0L V8 Biturbo (430.5 cu in) engine: Full carbon-fiber intake manifold upgrade by **Manthey-Racing** (MRT) with integrated velocity stacks and optimized plenum volume for +25 HP at 7,200 RPM, paired with **APR Carbon Fiber Throttle Bodies** (80mm diameter) for improved airflow and throttle response",
+    "Forced induction: **Garrett GTX5533R Gen II** turbochargers (76mm compressor, 67mm turbine) with **TiAL MV-R 60mm** wastegates and **TurboSmart Race Port 50mm** blow-off valves, calibrated for 2.2 bar (32 psi) peak boost on **Motec M150 ECU** with custom **AMG GT R Pro-specific** fuel and ignition maps by **VRSF**",
+    "Drivetrain: **Wavetrac ATB (Automatic Torque Biasing) differential** with **OS Giken Super Lock** clutch-type LSD for the rear axle, paired with **AMG SPEEDSHIFT DCT-7** transmission remapped by **Dimsport** for 0.1s faster shifts and **Ferodo DS3000** high-friction clutch plates for launch control optimization"
+  ],
+  "estetica": [
+    "Aerodynamics: **Manthey-Racing GT2-style** carbon-fiber front splitter with integrated dive planes (adjustable angle of attack via **MCS** hydraulic adjusters) and **AMG GT3-inspired** rear diffuser with **Gurney flap** (30mm height) for -120 kg (-265 lbs) downforce at 250 km/h (155 mph)",
+    "Bodywork: **RML Group** carbon-fiber widebody conversion kit (OEM+ 50mm front, 70mm rear fender flares) with **PPG Mercedes AMG **Selenite Grey Magno** paint (matte finish) and **3M Scotchlite 8910** reflective striping for track visibility compliance",
+    "Wheels & Tires: **BBS FI-R** 19x11 ET25 (front) and 20x12 ET40 (rear) forged wheels with **Pirelli P Zero Trofeo R** tires (285/30 R19 front, 325/30 R20 rear), shod with **HRE Performance Center** titanium wheel bolts and **Brembo GT-R** 6-piston calipers (400mm discs) with **Ferodo HT-16** pads"
+  ]
+}

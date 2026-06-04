@@ -1,0 +1,14 @@
+{
+  "brand": "MCLAREN",
+  "model": "SABRE MSO",
+  "prestazioni": [
+    "Engine: M840T (4.0L twin-turbocharged V8, 720S-derived) with a bespoke MSO-spec dry sump system and upgraded Mahle Motorsport forged pistons (10.0:1 compression ratio) paired with Carrillo H-beam connecting rods for 900+ hp on E85 fuel via a Motec M150 ECU with custom MSO-developed ignition and fuel maps",
+    "Turbochargers: Garrett GTX5533R Gen II turbos (hybrid billet wheels, 76mm compressor, 64mm turbine) with TiAL MV-R 60mm wastegates and custom MSO-designed inconel exhaust manifolds (equal-length, 3.5\" primary tubes) feeding a 4.5\" titanium exhaust system with Akrapović Racing Line mufflers (valved, 304 stainless steel)",
+    "Suspension: Öhlins TTX46 MkII coilovers (3-way adjustable, 24-position rebound, 22-position compression) with MSO-specific spring rates (front: 220 lb/in, rear: 280 lb/in) and bespoke carbon fiber anti-roll bars (22mm front, 18mm rear) from Dymag, paired with AP Racing 6-piston front/4-piston rear monoblock calipers and carbon-ceramic discs (410mm front, 390mm rear) with Pagid RS29 pads"
+  ],
+  "estetica": [
+    "Aero: MSO-designed carbon fiber widebody kit (Rocket Bunny-inspired but fully CFD-optimized for the Sabre) with a 3-piece front splitter (adjustable dive planes), rear diffuser with active Gurney flap (hydraulically actuated via Bosch motors), and a fixed rear wing (dual-element, 1.2m span) with integrated DRS (Drag Reduction System) for track use",
+    "Exterior: Full 3M Matte Graphite vinyl wrap with MSO \"Sabre\" side decals (gloss black with red pinstripes) and custom carbon fiber mirror housings (MSO-designed, 3D-printed internal structure) with integrated LED turn signals (Osram Oslon Compact), paired with HRE FF16 wheels (20x10.5\" front, 21x12.5\" rear) in gloss black with red accents and Michelin Pilot Sport Cup 2 R tires (265/30 R20 front, 325/25 R21 rear)",
+    "Interior: Full MSO carbon fiber weave interior (door cards, center console, dashboard) with Alcantara-wrapped Recaro SPG XL seats (carbon fiber shells, 6-point Schroth harnesses) and a bespoke MSO steering wheel (flat-bottom, carbon fiber with integrated Motec C127 dash display), paired with a titanium roll cage (TIG-welded, MSO-certified) and a custom MSO fire suppression system (Lifeline Zero 360, plumbed to all critical areas)"
+  ]
+}

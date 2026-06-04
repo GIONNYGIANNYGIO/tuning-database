@@ -1,0 +1,14 @@
+{
+  "brand": "MCLAREN",
+  "model": "F1 LM SPEC EVO",
+  "prestazioni": [
+    "BMW S70/2 6.1L V12 engine: Full titanium internals upgrade with Carrillo H-beam connecting rods (875g each), JE forged pistons (12.5:1 compression), and a bespoke dry-sump system by Peterson Fluid Systems (12-stage scavenging) to eliminate oil starvation during 1.5G lateral loads",
+    "Garrett GT42R turbocharger (single-turbo conversion) with a custom billet compressor wheel (60mm inducer, 88mm exducer) and TiAL MV-R 60mm wastegate, paired with a custom 4.5\" stainless steel exhaust system by Superform Racing (304-grade, 1.5mm wall thickness) terminating in a quad-annular exit design for optimized backpressure",
+    "Motec M190 ECU with bespoke calibration by McLaren Special Operations (MSO) for 900+ HP on 102-octane fuel, featuring a dual-stage launch control system (3,500 RPM soft cut, 5,000 RPM hard cut) and a traction control algorithm derived from the McLaren P1 GTR's 'Track' mode"
+  ],
+  "estetica": [
+    "Full carbon-fiber LM-spec bodywork by Callaway Competition, including a revised front splitter with integrated dive planes (30% more downforce at 180 mph) and a rear diffuser with active Gurney flaps (adjustable via cockpit switch, +150kg rear downforce at 200 mph)",
+    "BBS LM-R three-piece forged magnesium wheels (18x11 front, 18x13 rear) with center-locking titanium nuts by HRE Performance Wheels, wrapped in Michelin Pilot Sport Cup 2 R tires (275/35 ZR18 front, 345/35 ZR18 rear) shaved to 4/32\" tread depth for maximum grip",
+    "Custom LM Evo livery by MSO featuring a matte 'Papaya Spark' base coat with hand-painted 'Gulf Oil' racing stripes (applied via 3M Scotchcal 1080 vinyl for weight savings) and exposed carbon-fiber weave on the roof, mirrors, and rear wing supports"
+  ]
+}
