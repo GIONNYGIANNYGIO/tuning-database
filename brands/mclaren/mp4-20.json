@@ -1,0 +1,14 @@
+{
+  "brand": "McLaren",
+  "model": "MP4-20",
+  "prestazioni": [
+    "Mercedes-Benz FO110R 3.0L V10 (engine code: P30) forced-induction conversion using a Garrett GT4202R turbocharger with billet compressor wheel, custom 3D-printed titanium intake manifold, and a Motec M190 ECU with bespoke fuel mapping for 1,200+ HP on E85 fuel, paired with a Pankl Racing Systems 6-speed sequential gearbox with carbon-fiber-reinforced internals and a Sachs Performance dual-disc clutch",
+    "Full chassis reinforcement with a T45 steel roll cage by Custom Cages UK, integrated with a McLaren F1-derived pushrod suspension system featuring Öhlins TTX46 MkII coilovers, adjustable anti-roll bars by Hyperco, and spherical bearing upgrades from Aurora Bearing Company for sub-2mm deflection under 5G lateral loads",
+    "Custom titanium exhaust system by Akrapović with 4-2-1 equal-length headers, Inconel 625 primary tubes, and a secondary bypass valve for on-demand backpressure reduction, coupled with a bespoke water-methanol injection system by Snow Performance Stage 3 with dual 550cc injectors and a titanium reservoir"
+  ],
+  "estetica": [
+    "Full carbon-fiber body kit by Vorsteiner, including a custom front splitter with integrated active aero flaps (derived from MP4-25 design), side skirts with vortex generators, and a rear diffuser with Gurney flaps for 400kg+ downforce at 200mph, all finished in matte McLaren Papaya Spark with exposed carbon weave",
+    "OMP Racing WRC-spec carbon-fiber bucket seats with 6-point Schroth Profi II harnesses, paired with a custom titanium steering wheel by Sparco with integrated Motec C127 dash display and paddle shifters from the McLaren Senna, wrapped in Alcantara with red contrast stitching",
+    "BBS FI-R 18x12 front and 18x13 rear forged wheels with center-lock hubs, shod in Pirelli P Zero Trofeo R tires (285/650R18 front, 325/705R18 rear), complemented by a custom titanium wheel spacer system by HRE Performance to optimize track-specific camber and toe settings"
+  ]
+}

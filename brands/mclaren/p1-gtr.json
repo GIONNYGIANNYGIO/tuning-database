@@ -1,0 +1,14 @@
+{
+  "brand": "MCLAREN",
+  "model": "P1 GTR",
+  "prestazioni": [
+    "Upgrade the M838TQ 3.8L twin-turbocharged V8 hybrid powertrain with a bespoke McLaren Special Operations (MSO) IPAS (Instant Power Assist System) recalibration, increasing electric motor output from 179hp to 220hp while retaining the 727hp ICE baseline, paired with a lithium-ion battery pack featuring graphene-enhanced cells (Skeleton Technologies SkelCap 3200F) for 18% faster discharge rates and 12% higher energy density",
+    "Install a custom Garrett GTX5533R Gen II turbocharger with billet compressor wheels (64mm inducer, 88mm exducer) and Inconel turbine wheels, mated to a P1 GTR-specific titanium exhaust manifold (3D-printed by Scuderia Cameron Glickenhaus) with 1.75\" primary tubes and 3.5\" merge collectors, reducing backpressure by 22% and enabling a 9,500 RPM redline with 1.5 bar of boost (up from 1.2 bar stock)",
+    "Replace the stock 7-speed SSG dual-clutch transmission with a Hewland NLT-707 sequential gearbox (used in LMP1 prototypes) featuring carbon-fiber-reinforced internals, a magnesium bellhousing, and a P1 GTR-specific hydraulic shift actuator (AP Racing CP8860) for 30ms shifts, paired with a Quaife ATB helical LSD and a custom 4.0:1 final drive ratio for optimized track acceleration"
+  ],
+  "estetica": [
+    "Apply a full carbon-fiber aero package by Vorsteiner, including a P1 GTR-specific front splitter with integrated dive planes (adjustable via hydraulic actuators), a rear diffuser with active Gurney flaps (controlled by the ECU), and a fixed rear wing with a 1,200mm chord and 300mm height, generating 1,100kg of downforce at 250km/h (vs. 800kg stock)",
+    "Install a bespoke livery by Driven Art, featuring a matte Anthracite base with McLaren Papaya accents, hand-painted carbon-fiber weave patterns on the hood and fenders, and a custom \"GTR\" script in 24K gold leaf (applied via traditional Japanese *kirikane* technique) on the doors and rear wing endplates",
+    "Replace the stock OZ Racing Ultraleggera wheels with a set of Dymag CX-R carbon-fiber rims (19\" x 11\" front, 20\" x 13\" rear) wrapped in Pirelli P Zero Trofeo R tires (285/35 R19 front, 345/30 R20 rear), featuring a custom tread pattern optimized for the P1 GTR’s aero balance, and paired with titanium wheel nuts (BBS Motorsport) and center-lock adapters (HRE Performance)"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "MCLAREN",
+  "model": "MP4/4",
+  "prestazioni": [
+    "Honda RA168-E 1.5L V6 Turbo (engine code: RA168-E) rebuild with forged internals: Mahle Motorsport pistons (9.4:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from JE Pistons to handle 1,200+ hp at 5.5 bar boost (stock: ~700 hp at 4.0 bar).",
+    "Custom Garrett GTX5544R Gen II turbocharger with a 106mm compressor wheel and 94mm turbine, paired with a Tial MV-R 60mm wastegate and a custom 4.5\" titanium downpipe by Akrapovič for the RA168-E’s unique exhaust manifold layout.",
+    "Bosch Motorsport MS15.1 standalone ECU with custom fuel mapping for methanol-water injection (Aquamist HFS-4 system) and dual 1,200cc/min ID1700x injectors per cylinder, fed by a Radium Engineering dual-pump fuel surge tank and a custom billet fuel rail by Injector Dynamics."
+  ],
+  "estetica": [
+    "Full carbon-fiber body replica of the MP4/4’s 1988 Monaco GP livery, hand-laid by C-West Japan with a matte clear coat and gold-leaf pinstriping by Dr. ColorChip for authenticity.",
+    "OMP Carbon-Kevlar racing seats (FIA 8862-2009 certified) with custom MP4/4 embroidery, paired with a Sabelt 6-point harness and a custom roll cage by Safety Devices (FIA-spec, T45 steel) painted in McLaren orange (Pantone 144 C).",
+    "BBS LM-R wheels (13x13 front, 15x13 rear) in gold finish, wrapped in Pirelli P Zero Trofeo R tires (23/54-13 front, 325/40-15 rear) with custom MP4/4 decals, and fitted with AP Racing CP8646-1000 calipers and 380mm carbon-carbon discs for vintage F1 aesthetics with modern stopping power."
+  ]
+}

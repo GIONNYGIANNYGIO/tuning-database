@@ -1,0 +1,14 @@
+{
+  "brand": "MCLAREN",
+  "model": "MP4-12C",
+  "prestazioni": [
+    "M838T 3.8L twin-turbo V8: Replace stock turbos with Garrett GT35R 84mm billet wheel units (1.25 bar peak boost) paired with custom 4-ply silicone charge pipes (V-band clamps) and a PTP Motorsports titanium intercooler upgrade (50% larger core volume, 30% lower IATs under sustained load).",
+    "Fuel system overhaul: Injector Dynamics ID1300x injectors (2,200cc/min) with a Radium Engineering dual-catch can setup (AN-10 lines) and a Motec M150 ECU reflash (custom 98 RON ethanol mapping, 8,500 RPM redline, 12.5:1 AFR target under full load).",
+    "Drivetrain reinforcement: Quaife ATB differential (80% lockup under power) with a Tilton 7.25\" triple-plate carbon clutch (1,200 Nm torque capacity) and a McLaren Special Operations (MSO) carbon-fiber driveshaft (20% weight reduction, 1,500 Nm rating)."
+  ],
+  "estetica": [
+    "Liberty Walk LB-WORKS MP4-12C widebody kit (carbon-fiber fenders, 50mm extended wheel arches) with custom Vorsteiner V-FF 107 20x10.5\" front and 21x12.5\" rear wheels (ET30, 5x120 PCD) wrapped in Michelin Pilot Sport Cup 2 R tires (255/30/20 front, 325/25/21 rear).",
+    "Rocket Bunny V3 rear diffuser (carbon-fiber, 3-stage Gurney flaps) paired with a Seibon carbon-fiber hood (dual NACA ducts, 40% weight savings) and a custom Novitec carbon-fiber front splitter (adjustable dive planes, 80kg downforce at 200 km/h).",
+    "Interior: Sparco Pro 2000 carbon-fiber seats (6-point harnesses, FIA-approved) with a custom Alcantara-wrapped MSO steering wheel (flat-bottom, carbon-fiber shift paddles) and a Motec C127 dash display (real-time turbo/boost logging, 12 data channels)."
+  ]
+}

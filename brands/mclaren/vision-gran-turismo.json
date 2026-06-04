@@ -1,0 +1,14 @@
+{
+  "brand": "McLaren",
+  "model": "Vision Gran Turismo",
+  "prestazioni": [
+    "M840T 4.0L twin-turbo V8 hybrid powertrain recalibrated with McLaren Special Operations (MSO) Stage 3 ECU flash, targeting 950 hp at 8,500 RPM via bespoke fuel mapping for 102-octane race fuel and upgraded Bosch Motorsport high-flow injectors (PN: 0 261 500 365)",
+    "Garrett GTX5533R Gen II turbochargers with billet compressor wheels (76mm inducer, 106mm exducer) and TiAL MV-R 60mm wastegates, paired with a custom Pectel SQ6M engine management system for closed-loop boost control up to 32 psi",
+    "Full titanium Akrapovič Evolution exhaust system with 4-2-1 equal-length headers (3.5\" primary tubes, Inconel 625 construction) and electronically actuated bypass valves, reducing backpressure by 42% and saving 18 kg over stock"
+  ],
+  "estetica": [
+    "Liberty Walk LB-WORKS widebody conversion kit (carbon fiber, pre-preg autoclave construction) with integrated canards and a 3D-scanned front splitter featuring active Gurney flaps (adjustable via McLaren’s hydraulic ride control system)",
+    "Rocket Bunny GT-spec rear wing (carbon fiber, 1,800mm span) with dual-element active aerodynamics, synchronized to the car’s hydraulic suspension for dynamic angle adjustment (up to 12 degrees) and 400 kg of downforce at 250 km/h",
+    "Vorsteiner V-FF 1010 forged carbon fiber wheels (20\" front, 21\" rear) with titanium lug bolts, wrapped in Pirelli P Zero Trofeo R tires (265/30 R20 front, 325/30 R21 rear) and paired with AP Racing CP9660 monoblock calipers (6-piston front, 4-piston rear) with carbon-ceramic rotors (410mm front, 390mm rear)"
+  ]
+}

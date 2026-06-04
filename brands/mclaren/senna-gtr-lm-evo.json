@@ -1,0 +1,14 @@
+{
+  "brand": "MCLAREN",
+  "model": "SENNA GTR LM EVO",
+  "prestazioni": [
+    "M840TR 4.0L twin-turbo V8 (engine code: M840T) upgraded with a bespoke Garrett GTX5544R Gen II turbocharger (84mm billet compressor wheel, 106mm turbine, 76mm wastegate) paired with a Tial MV-R 60mm external wastegate for precise boost control at 2.2 bar (32 psi) peak pressure, supported by a custom Pectel SQ6M ECU with McLaren Motorsport’s GTR-spec anti-lag and launch control maps",
+    "Full titanium Akrapović 4-2-1 racing exhaust system with 3.5-inch diameter Inconel 625 headers, 200-cell catalytic converters (for FIA compliance), and electronically actuated bypass valves for optimized backpressure at 9,500 RPM redline, reducing weight by 18kg over OEM",
+    "Ohlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression), McLaren GTR-specific spring rates (800 lbs/in front, 1200 lbs/in rear), and spherical bearing top mounts for sub-2Hz natural frequency tuning, paired with a WRC-derived hydraulic bump stop system for 30mm additional travel under extreme load"
+  ],
+  "estetica": [
+    "RML Group-designed carbon fiber LM-spec aero package featuring a 2,100mm-wide front splitter with active Gurney flaps (adjustable via McLaren’s RaceActive Chassis Control II), a 1,800mm rear diffuser with integrated strakes for 1,800kg downforce at 250 km/h, and a fixed rear wing with dual-element DRS (Drag Reduction System) for Le Mans-style straight-line speed optimization",
+    "BBS FI70R magnesium wheels (19x13 front, 20x14 rear) with center-lock hubs, 5x112 PCD, and bespoke Michelin Pilot Sport Cup 2 R tires (345/30 R19 front, 355/25 R20 rear) featuring McLaren’s ‘Track Only’ compound (code: PS2R TO) for 15% higher lateral grip than standard Cup 2 R",
+    "Full carbon fiber LM EVO livery with 3M 1080 Series matte vinyl wrap in ‘McLaren Papaya Spark’ (Pantone 14-1064 TPX) with ‘Gulf Oil’ heritage racing stripes (Pantone 1655 C and 286 C), applied by McLaren Special Operations (MSO) using aerospace-grade adhesive for sub-0.1mm tolerance, including a one-off ‘Senna S’ signature on the A-pillar in 24K gold leaf"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "MCLAREN",
+  "model": "765LT SPRINT",
+  "prestazioni": [
+    "Upgrade to a **Litchfield Motorsport M840T Stage 2+ ECU remap** with bespoke fueling and ignition timing optimizations for the **4.0L twin-turbocharged M840T V8**, targeting **850+ WHP** on **100-octane fuel** with a **Garrett GTX5533R turbocharger** (hybrid core, billet compressor wheel, and 0.82 A/R turbine housing) paired with a **custom 4-inch titanium downpipe** and **Akrapovič Evolution Line exhaust system** (full titanium, 3.5-inch outlets, bypass valves removed for maximum flow).",
+    "Installation of a **Pectel SQ6M standalone ECU** with **Motec C127 dash logger** for real-time boost control, anti-lag, and launch control strategies, integrated with a **Nürburgring-tested Öhlins TTX46 MkII coilover suspension** (3-way adjustable damping, 20mm lower ride height, and McLaren-specific spring rates) and **AP Racing CP9661-1000 6-piston front/4-piston rear brake calipers** with **390mm CCM-R carbon-ceramic rotors** (grooved, 20% larger swept area).",
+    "Fitment of a **Weichers Motorsport carbon-fiber driveshaft** (weight reduction of 4.2kg) and **Quaife ATB differential** (helical LSD, 45% lockup under load) paired with **Michelin Pilot Sport Cup 2 R tires** (325/30 R20 rear, 275/30 R19 front) on **Dymag Assetto Magnesio wheels** (20x12J rear, 19x10.5J front, 9.5kg per wheel) with **Hankook Ventus R-S4 track compound** for maximum mechanical grip."
+  ],
+  "estetica": [
+    "Full **Vorsteiner V-RT 765LT Sprint carbon-fiber widebody kit** (extended fenders, aggressive side skirts, and rear diffuser with integrated Gurney flap) paired with a **Novitec McLaren 765LT front splitter** (3D-molded carbon, 45mm overhang) and **Rear Wing Dynamics GT3-spec rear wing** (dual-element, 1,200mm span, adjustable angle of attack up to 22 degrees).",
+    "Custom **Bespoke Automotive titanium bolt-on aero package**, including **front canards (3D-printed Ti6Al4V, 0.8mm thickness)**, **side exit exhaust outlets (titanium, laser-cut, 100mm diameter)**, and **carbon-fiber engine cover with integrated NACA ducts** (directing airflow to the **Garrett turbocharger intercooler** and **PWR radiator**).",
+    "Interior overhaul with **Sabelt 805CF carbon-fiber racing seats** (FIA 8862-2009 certified, 6-point harnesses), **MOMO Prototipo steering wheel** (suede-wrapped, 320mm diameter, quick-release hub), and **Alcantara-wrapped dashboard** with **McLaren P1-style digital boost gauge** (integrated into the **IRIS infotainment system** via CAN bus) and **custom titanium shift paddles** (CNC-machined, anodized gold)."
+  ]
+}

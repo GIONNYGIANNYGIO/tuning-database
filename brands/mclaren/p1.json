@@ -1,0 +1,14 @@
+{
+  "brand": "MCLAREN",
+  "model": "P1",
+  "prestazioni": [
+    "M838TQ 3.8L twin-turbo V8 hybrid powertrain: Replace the stock turbos with Garrett GTX5544R Gen II turbos (1.45 A/R, 76mm compressor, 64mm turbine) paired with a custom P1-specific titanium-aluminide turbine housing to reduce lag while pushing boost to 2.2 bar (32 psi) for 1,000+ hp at the crank. Retain the IPAS (Instant Power Assist System) electric motor but upgrade its inverter to a Cascadia Motion PM150DX for 20% more power delivery (180 kW peak) and a 4.5 kWh lithium-titanate battery (Altairnano) for extended electric-only range.",
+    "McLaren P1-specific carbon-fiber driveshaft (AP Racing) with a 300M steel center section to handle the increased torque, paired with a Quaife ATB differential (P1-specific 3.31 final drive ratio) and a Tilton 7.25\" triple-plate carbon clutch with a billet steel flywheel (12.5 lb) for launch control optimization.",
+    "Full Motec M150 ECU standalone management with a P1-specific CAN bus integration for hybrid system control, featuring a custom 4D ignition map (Methanolic 100% water-methanol injection via Snow Performance Stage 3 kit) and a secondary lambda controller (Innovate LC-3) for real-time AFR monitoring at each bank. Replace the stock intercoolers with a P1-specific air-to-water setup (PWR) with dual 450W brushless pumps and a 10L ice reservoir for track use."
+  ],
+  "estetica": [
+    "Full carbon-fiber aero overhaul with a P1-specific Vorsteiner VR-1000 widebody kit (3-piece front splitter, aggressive side skirts, and a 20% larger rear diffuser) paired with a McLaren-approved APR Performance GT-250 rear wing (adjustable 0-25 degrees) for 1,200 lbs of downforce at 150 mph. Replace the stock front bumper with a 3D-printed titanium mesh grille (Aeromotions) for improved airflow to the radiators.",
+    "Custom 22\" front / 23\" rear forged aluminum wheels (HRE FF16) with a P1-specific offset (ET25 front, ET35 rear) and Michelin Pilot Sport Cup 2 R tires (265/30 R22 front, 345/25 R23 rear). Paint the wheels in a matte gold finish (PPG Vibrance Collection) with a clear ceramic coat (Gtechniq Crystal Serum Ultra) for heat resistance.",
+    "Full interior carbon-fiber weave (McLaren Special Operations MSO) with a bespoke Alcantara headliner (Romo) and a P1-specific roll cage (Custom Cages) integrated with a 6-point harness (Schroth Profi II-6) and a Sparco Evo QRT-K seat (carbon-Kevlar hybrid) with a P1-specific mounting bracket. Replace the stock steering wheel with a MOMO Prototipo (suede, 350mm diameter) featuring a custom quick-release hub (NRG Innovations) and a Motec C127 dash display."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "MCLAREN",
+  "model": "SENNA",
+  "prestazioni": [
+    "M840TR 4.0L twin-turbocharged V8 (engine code: M840T) upgraded with a Liberty Walk x McLaren Motorsport titanium 3D-printed intake manifold featuring integrated water-methanol injection ports (AEM 3400cc/min injectors) for +80hp at 8,500 RPM with 93-octane fuel",
+    "Full titanium Akrapović Evolution Line exhaust system with 4-2-1 equal-length headers (2.5\" primary tubes, 3.5\" collectors) and electronically actuated bypass valves, reducing backpressure by 38% and unlocking +65Nm torque at 5,500 RPM when paired with a McLaren Special Operations (MSO) ECU recalibration (Stage 2+ map)",
+    "Öhlins TTX46 MkII coilovers with 3-way adjustable damping (compression/rebound/blow-off) and McLaren-specific spring rates (180N/mm front, 220N/mm rear), paired with a Wavetrac torque-biasing front differential and AP Racing CCM-X carbon-ceramic brake rotors (410mm front, 390mm rear) with titanium pistons for 15% faster heat dissipation"
+  ],
+  "estetica": [
+    "Liberty Walk LB-WORKS widebody kit (Senna-specific) with carbon fiber fenders (2.5\" wider front, 3.0\" wider rear), integrated canards, and a functional rear diffuser with Gurney flap (increases downforce by 120kg at 250km/h)",
+    "Vorsteiner V-FF 107 forged carbon fiber wheels (20\" front, 21\" rear) with McLaren-approved PCD (5x130) and Michelin Pilot Sport Cup 2 R tires (245/35 R20 front, 305/30 R21 rear) in custom matte gold finish, reducing unsprung mass by 18kg per corner",
+    "McLaren MSO Bespoke 'Stealth Mode' paint scheme: matte Anthracite Grey base with exposed carbon fiber weave (pre-preg autoclave, 120°C cure) on the roof, splitter, and rear wing, paired with satin black forged aluminum 'Senna' script badges and illuminated door sills (RGB LED, 16.8 million colors)"
+  ]
+}

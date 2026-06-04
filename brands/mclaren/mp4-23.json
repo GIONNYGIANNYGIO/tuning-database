@@ -1,0 +1,14 @@
+{
+  "brand": "MCLAREN",
+  "model": "MP4/23",
+  "prestazioni": [
+    "Mercedes-Benz FO 108V 2.4L V8 (engine code: MGP 2.4L) with a bespoke Ilmor Engineering Stage 3+ power kit, including forged Mahle pistons (98mm bore, 12.0:1 CR), Carrillo H-beam connecting rods, and a billet steel crankshaft with 48mm main journals for 19,500 RPM stability",
+    "Garrett GT4202R turbocharger (custom-machined compressor wheel for 1.2 bar boost) paired with a PWR Racing intercooler (50% larger core volume) and a custom titanium exhaust manifold (equal-length 4-2-1 design) with Akrapovič titanium downpipes and a 3.5-inch Inconel exhaust system",
+    "McLaren Applied Technologies-developed TAG-400 ECU with a bespoke Motec M150 piggyback system for real-time fuel and ignition mapping, featuring a 12-stage anti-lag system and a pneumatic shift actuator upgrade (0.02s shift times) with a Quaife ATB differential (85% lock)"
+  ],
+  "estetica": [
+    "Custom Vortex Generators carbon fiber front splitter (MP4-23-specific, 3D-scanned for 12% downforce increase) with a Rocket Bunny-inspired rear diffuser (extended 150mm, 3D-printed titanium supports) and a McLaren F1 GTR-style rear wing (adjustable Gurney flap, 40mm chord)",
+    "BBS LM-R wheels (13x18 front, 13.5x18 rear) with custom center-lock adapters (titanium lug nuts) and Michelin Pilot Sport Cup 2 R tires (265/645R18 front, 325/705R18 rear) in a staggered setup with AP Racing 6-piston calipers (380mm carbon-ceramic rotors)",
+    "Full carbon fiber body kit (MP4-23-specific, autoclave-cured) including a widened front fenders (20mm per side) with integrated LED turn signals, a custom rear bumper with dual 100mm exhaust outlets (Inconel), and a carbon fiber engine cover with a clear polycarbonate intake scoop"
+  ]
+}

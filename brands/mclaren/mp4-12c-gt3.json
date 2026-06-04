@@ -1,0 +1,14 @@
+{
+  "brand": "MCLAREN",
+  "model": "MP4-12C GT3",
+  "prestazioni": [
+    "Engine: M838T 3.8L twin-turbocharged V8 (GT3-spec) with a bespoke Bosch MS 6.4 GT3 ECU remap, targeting 600+ hp at 7,500 RPM (up from 500 hp in GT3 homologation trim) via a Motec M150 data logger for real-time fuel and ignition optimization, paired with a Garrett GT35R turbo upgrade (GT3-specific billet compressor wheel) and a custom 3.5-inch titanium exhaust system by Akrapović with GT3-legal backpressure valves for FIA compliance",
+    "Suspension: Öhlins TTX46 MkII GT3 dampers with 4-way adjustable rebound/compression, custom valving for the MP4-12C’s aluminum/carbon tub, and a KW Competition 3-way adjustable coilover kit (GT3-spec) with spherical bearing top mounts and 20mm adjustable ride height for track-specific camber/caster settings (up to -4.5° front camber, +3.8° rear caster)",
+    "Aerodynamics: Full GT3-spec carbon fiber aero package by Vorsteiner (MP4-12C GT3-specific), including a 1,200mm-wide front splitter with 3-stage adjustable dive planes, a 1,500mm rear diffuser with Gurney flap, and a fixed-position rear wing (GT3 homologation) with 3D-printed titanium wing supports and a 15% increase in downforce via CFD-optimized endplates"
+  ],
+  "estetica": [
+    "Carbon fiber widebody conversion by Liberty Walk (LB-WORKS MP4-12C GT3 kit), featuring hand-laid 2x2 twill carbon fenders with integrated GT3-spec cooling ducts, extended rocker panels with LED side markers, and a custom 3M Matte Graphite vinyl wrap with PPF on high-impact zones (front bumper, mirrors, splitter)",
+    "Interior: Full GT3-spec roll cage by Safety Devices (FIA 8862-2009 certified) with integrated fire suppression system (Lifeline Zero 360), Sparco Pro 2000 GT3 seats (carbon-Kevlar shell) with 6-point Schroth harnesses, and a Motec C127 dash display replacing the stock cluster for lap-time telemetry (GPS-based delta timing, brake pressure, and tire temps)",
+    "Wheels: HRE FF16 GT3-spec forged monoblock wheels (18x12 front, 18x13 rear) with titanium lug bolts, shod in Pirelli P Zero Trofeo R tires (305/645-R18 front, 325/705-R18 rear) and a custom TPMS system by AEM for real-time tire pressure monitoring (0.1 PSI accuracy)"
+  ]
+}

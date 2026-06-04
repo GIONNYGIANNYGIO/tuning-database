@@ -1,0 +1,14 @@
+{
+  "brand": "McLaren",
+  "model": "F1 XP5",
+  "prestazioni": [
+    "BMW S70/2 6.1L V12 engine: Full titanium internals upgrade with Carrillo H-beam connecting rods, JE forged pistons (12.0:1 compression), and a custom billet crankshaft by VAC Motorsports to handle 900+ HP on 100-octane fuel with a bespoke McLaren Motorsport-spec dry sump system",
+    "Garrett GT42R turbocharger kit (twin-turbo conversion) with custom 3D-printed Inconel exhaust manifolds by Gintani, paired with a Motec M190 ECU and a custom anti-lag system for instant boost response at 1.2 bar (17.4 psi)",
+    "Öhlins TTX40 coilovers with McLaren F1-specific valving, adjustable ride height via custom titanium spring perches, and a full carbon fiber monocoque reinforcement kit by RML Group to eliminate chassis flex under extreme lateral G-forces"
+  ],
+  "estetica": [
+    "Full carbon fiber widebody conversion by Liberty Walk (LB-WORKS), featuring hand-laid 2x2 twill weave with a clear satin finish, including custom front splitter, rear diffuser, and side skirts designed exclusively for the XP5 prototype chassis",
+    "Custom 19-inch front / 20-inch rear magnesium wheels by Dymag, wrapped in Michelin Pilot Sport Cup 2 tires (275/35 ZR19 front, 345/30 ZR20 rear) with gold anodized center locks and McLaren-branded titanium wheel nuts",
+    "Gullwing door hydraulic system upgrade with carbon fiber door panels, Alcantara-wrapped interior by Sabelt (including custom 6-point harnesses), and a bespoke digital dash by AIM MXS Strada with XP5-specific telemetry logging"
+  ]
+}

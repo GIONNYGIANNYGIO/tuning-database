@@ -1,0 +1,14 @@
+{
+  "brand": "MCLAREN",
+  "model": "ELVA GULF THEME",
+  "prestazioni": [
+    "M840TR 4.0L twin-turbo V8 (engine code: M840T) upgraded with a Garrett GTX5533R Gen II turbocharger (84mm compressor wheel, 106mm turbine) paired with a custom Tial MV-R 60mm external wastegate for precise boost control at 28 psi, replacing the stock turbos to eliminate lag and support 950+ hp on E85 fuel",
+    "Full titanium 4-2-1 equal-length exhaust system by Akrapovič with 3.5-inch diameter piping, CNC-machined titanium mufflers, and integrated quad carbon-fiber exit tips (2.75-inch diameter), reducing backpressure by 42% while maintaining the M840T’s signature acoustic profile",
+    "McLaren Special Operations (MSO)-developed carbon-fiber intake manifold with 12 individual throttle bodies (ITBs) by Jenvey Dynamics (48mm diameter), replacing the stock plenum for instantaneous throttle response, paired with a custom Motec M150 ECU reflash optimized for Gulf-spec fuel mapping and launch control"
+  ],
+  "estetica": [
+    "Full Gulf Oil livery-matched carbon-fiber aero package by Vorsteiner, including a 3D-scanned front splitter with integrated dive planes (adjustable ±5 degrees), a rear diffuser with active Gurney flap (electronically controlled via McLaren’s hydraulic system), and a dual-element rear wing (2,200mm span) with 3D-printed titanium endplates for 450kg of downforce at 250 km/h",
+    "Custom 20-inch front / 21-inch rear forged magnesium wheels by Dymag (model: CX-R Gulf Edition), wrapped in Pirelli P Zero Trofeo R tires (245/35 R20 front, 325/30 R21 rear) with Gulf-blue pinstripes embedded in the sidewall, reducing unsprung mass by 18kg per corner",
+    "Carbon-fiber monocoque reinforcement by MSO with Gulf-blue-tinted clear coat, featuring a bespoke roll cage (T45 steel, 2.5mm wall thickness) integrated into the A-pillars and rear bulkhead, designed to FIA GT3 safety standards while maintaining the Elva’s open-cockpit aesthetic"
+  ]
+}

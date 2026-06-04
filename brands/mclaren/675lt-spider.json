@@ -1,0 +1,14 @@
+{
+  "brand": "MCLAREN",
+  "model": "675LT SPIDER",
+  "prestazioni": [
+    "M838TL 3.8L twin-turbo V8 engine: Replace the stock turbos with **Garrett GTX4202R Gen II** billet wheel turbos (64mm compressor, 62mm turbine) paired with **Tial MV-R 44mm external wastegates** and **Precision Turbo & Engine 46mm V-band dump tubes** for optimized spool and 850whp potential on E85.",
+    "Full **Motec M150 ECU** standalone management with **AEM CD-7 dash logger** and **Bosch Motorsport 0280158802 high-flow fuel injectors** (2,200cc/min) to support aggressive ignition timing (12.5° BTDC) and lambda targets (0.78-0.82) under boost.",
+    "**Pankl Racing Systems** forged internals: 9.0:1 compression ratio pistons, **Carrillo H-beam connecting rods**, and **AP Racing CP8466-1000** 1000cc dry-sump oil pump with **Mocal 13-row oil cooler** to handle 9,000 RPM redline and 2.5 bar peak boost."
+  ],
+  "estetica": [
+    "**Vorsteiner V-FF 107** carbon fiber widebody kit (front fenders + rear quarter panels) with **custom 3M Matte Graphite vinyl overwrap** and **RWB-style aggressive fender flares** to clear **HRE FF01 20x11 ET45 (front) and 21x13 ET50 (rear)** wheels.",
+    "**Novitec McLaren 675LT Spider-specific** carbon fiber rear diffuser with **active Gurney flap** (electronically adjustable via CAN bus) and **custom titanium exhaust tips** (dual 4.5\" outlets) from **Capristo** for weight reduction and acoustic tuning.",
+    "**AIM Carbon** full monocoque carbon fiber hardtop conversion (removable) with **electrochromic tinted glass** (SageGlass) and **integrated LED light bar** (Luminator 10,000-lumen) for track-day visibility, paired with **OMP Carbon-Kevlar racing seats** (FIA 8862-2009 certified)."
+  ]
+}

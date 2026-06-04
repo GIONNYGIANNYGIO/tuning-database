@@ -1,0 +1,14 @@
+{
+  "brand": "MCLAREN",
+  "model": "SENNA XP",
+  "prestazioni": [
+    "M840TR 4.0L twin-turbo V8 engine (internal codename: 'McLaren M840T') upgraded with a bespoke **Garrett GTX5544R Gen II** turbocharger set (hybrid billet wheel, 76mm compressor, 64mm turbine) paired with **Tial MV-R 60mm external wastegates** and **Precision Turbo & Engine 46mm V-band dump valves** for optimized spool and 1,200+ hp capability on E85 fuel",
+    "Full **Motec M150 ECU** standalone engine management system with **McLaren-specific CAN bus integration**, custom **Bosch Motorsport 1050cc high-flow port injectors**, and **AEM 4150 high-flow fuel pump** supporting 3,000+ psi rail pressure for methanol/water injection via **Snow Performance Stage 3 Boost Juice kit**",
+    "**Pankl Racing Systems** billet connecting rods (H11 tool steel, 145mm length) and **JE Pistons** forged 9.5:1 compression ratio slugs (2618-T6 alloy, DLC-coated skirts) with **ARP Custom Age 625+ head studs** and **Ferrea Racing** titanium intake/exhaust valves (52mm/42mm) for sustained 9,500 RPM operation"
+  ],
+  "estetica": [
+    "**Vorsteiner McLaren Senna XP-specific carbon fiber widebody kit** (front fenders extended 50mm, rear quarter panels 70mm) with **Rocket Bunny-style overfenders** and **custom 3D-printed ABS diffuser extensions** for -20% lift at 200 mph",
+    "**Airlift Performance 3P management system** with **AccuAir ENDO-CVT tanks** and **Bilstein B16 coilovers** (adjustable camber plates, 24-way damping) for static -3.5° front/-2.8° rear stance, paired with **HRE FF03 20x11 ET45/21x13 ET55 wheels** wrapped in **Michelin Pilot Sport Cup 2 R tires (325/30R20 & 355/25R21)**",
+    "**PPG McLaren 'Senna Purple' custom matte paint** with **3M Scotchlite 980CR retroreflective flakes** (visible under headlights) and **Aeromotions active rear wing** (dual-element, 1,200mm span, carbon fiber) with **Dymag carbon-titanium wheel centers** and **Brembo GT-R 6-piston monobloc calipers** (400mm CCM-R rotors, gold anodized)"
+  ]
+}

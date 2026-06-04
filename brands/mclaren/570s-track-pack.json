@@ -1,0 +1,14 @@
+{
+  "brand": "MCLAREN",
+  "model": "570S TRACK PACK",
+  "prestazioni": [
+    "M838TE 3.8L twin-turbo V8 engine: Replace stock turbos with Garrett GT35R 84mm billet wheel units (1.25 bar peak boost, 700whp target) paired with a custom McLaren-specific turbo manifold by Armytrix for optimized exhaust pulse separation and reduced lag",
+    "Full Motec M150 ECU standalone conversion with bespoke McLaren 570S Track Pack calibration by APR Performance, including anti-lag system (ALS) for track use, optimized fueling for E85 blends (up to 50% ethanol), and individual cylinder knock control with Bosch Motorsport 0261230046 sensors",
+    "Ohlins TTX40 MkII 3-way adjustable coilovers with McLaren-specific spring rates (18kg/mm front, 22kg/mm rear) and custom valving by JRZ Suspension Engineering, paired with a full carbon fiber monoball spherical bearing kit from VAC Motorsports to eliminate compliance in the front and rear subframes"
+  ],
+  "estetica": [
+    "Full carbon fiber aero package by Vorsteiner, including a 570S-specific GT-spec front splitter with integrated dive planes (25mm extension), rear diffuser with active Gurney flap (adjustable via cockpit switch), and a 1,100mm wide rear wing with dual-element design and 3D-printed titanium endplates for reduced weight",
+    "Custom 20\" front / 21\" rear forged aluminum wheels by HRE Performance Wheels (FF03 model, 9.5x20 ET40 front, 11.5x21 ET50 rear) with titanium lug bolts and Michelin Pilot Sport Cup 2 R tires (245/35 R20 front, 305/30 R21 rear) for optimized track wear and heat cycling",
+    "Full interior carbon fiber weave upgrade by Novitec, including a bespoke 570S Track Pack roll cage (TIG-welded 4130 chromoly, 3.5mm wall thickness) with integrated fire suppression system (Sparco Pro 2000, 4kg Novec 1230 agent) and Recaro Pole Position seats (carbon fiber shell, 6-point Schroth harnesses, 1.2kg weight savings per seat)"
+  ]
+}

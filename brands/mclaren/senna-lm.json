@@ -1,0 +1,14 @@
+{
+  "brand": "MCLAREN",
+  "model": "SENNA LM",
+  "prestazioni": [
+    "M840TR 4.0L twin-turbo V8 (engine code) upgraded with a bespoke Garrett GTX5544R Gen II turbocharger setup, featuring billet compressor wheels and Inconel turbine housings for 1,000+ hp on E85 fuel, paired with a McLaren Motorsport-spec dry sump system and reinforced connecting rods from Pankl Racing Systems",
+    "Full titanium exhaust system by Akrapovič, utilizing 4-into-1 merge collectors and electronically controlled butterfly valves for optimized backpressure, with a 3.5-inch diameter titanium piping and carbon fiber mufflers to reduce weight by 18 kg over stock",
+    "Custom MoTeC M182 ECU with McLaren Motorsport-derived traction control and launch control strategies, integrated with a Pectel SQ6M data logger for real-time telemetry, including individual cylinder fuel trims and turbocharger wastegate duty cycle mapping"
+  ],
+  "estetica": [
+    "Full carbon fiber widebody conversion by Vorsteiner, featuring hand-laid pre-preg carbon fenders with integrated air curtains and a 3D-scanned fitment for OEM-level panel gaps, adding 80mm of front and 100mm of rear track width",
+    "Custom front splitter and rear diffuser by Liberty Walk, constructed from 5-axis CNC-machined aluminum and carbon fiber hybrid materials, with active aerodynamic elements controlled via the MoTeC ECU for dynamic downforce adjustment (up to 1,200 kg at 250 km/h)",
+    "Bespoke 20-inch front and 21-inch rear forged magnesium wheels by HRE Performance Wheels (model FF16), wrapped in Pirelli P Zero Trofeo R tires (265/35 R20 front, 325/30 R21 rear), with a gold-anodized center lock system and titanium wheel bolts"
+  ]
+}

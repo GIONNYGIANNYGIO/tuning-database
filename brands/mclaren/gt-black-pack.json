@@ -1,0 +1,14 @@
+{
+  "brand": "MCLAREN",
+  "model": "GT BLACK PACK",
+  "prestazioni": [
+    "M840TE 4.0L twin-turbo V8 (engine code) upgraded with a bespoke McLaren Special Operations (MSO) Stage 2 ECU calibration, increasing boost pressure to 1.6 bar (from 1.4 bar stock) and optimizing ignition timing for 720 hp at 7,500 rpm with a 9,000 rpm redline, paired with a Novitec-engineered titanium crankshaft damper to reduce harmonics under extreme load",
+    "Full titanium exhaust system by Akrapović with 4-2-1 equal-length headers, 3.5-inch diameter piping, and electronically controlled bypass valves, reducing weight by 18 kg while enhancing exhaust scavenging for a 15% improvement in turbo spool at 3,500 rpm",
+    "Öhlins TTX46 MkII coilovers with McLaren-specific valving, 3-way adjustable damping (compression/rebound/bump), and ride height adjustable via a Wifi-enabled controller, paired with a custom-fabricated carbon fiber front sway bar (22mm diameter) by Dymag to eliminate understeer in high-speed cornering"
+  ],
+  "estetica": [
+    "Full carbon fiber widebody conversion by Vorsteiner, including GT-spec front splitter with integrated canards, rear diffuser with active aero flaps, and side skirts with vortex generators, all finished in matte black with exposed weave for a 30% reduction in drag coefficient (Cd 0.32)",
+    "Custom 21-inch front / 22-inch rear forged aluminum wheels by HRE (FF03 model) in a 9.5Jx21 ET45 / 12.5Jx22 ET50 configuration, wrapped in Pirelli P Zero Trofeo R tires (275/30 R21 front, 325/25 R22 rear) with McLaren-approved camber settings (-3.5° front, -2.8° rear)",
+    "Interior retrim by Saddleback Leather with full Alcantara headliner, carbon fiber door cards, and bespoke Recaro SPG-M buckets (McLaren-certified mounting brackets) upholstered in Nappa leather with red contrast stitching, paired with a custom roll cage by Safety Devices (FIA 8862-2009 certified) in gloss black"
+  ]
+}

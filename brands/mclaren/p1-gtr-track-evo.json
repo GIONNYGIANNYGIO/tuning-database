@@ -1,0 +1,14 @@
+{
+  "brand": "MCLAREN",
+  "model": "P1 GTR TRACK EVO",
+  "prestazioni": [
+    "M838TQ 3.8L twin-turbo V8 hybrid powertrain recalibrated with McLaren Special Operations (MSO) Track Evo ECU remap, targeting 1,000PS (986hp) at 7,500 RPM with a 9,000 RPM redline, utilizing a bespoke Bosch Motorsport MS 6.4 engine management system for real-time torque vectoring and hybrid energy deployment optimization",
+    "Garrett GTX5533R turbochargers with billet compressor wheels (64mm inducer, 88mm exducer) and Inconel turbine wheels, paired with custom 4.5-inch titanium downpipes and a secondary heat exchanger from PWR Australia to maintain intake temps below 40°C at full boost (1.8 bar absolute)",
+    "Ohlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression), featuring McLaren-specific spring rates (600 lbs/in front, 750 lbs/in rear) and spherical bearing top mounts from Tillet Racing, paired with a bespoke carbon fiber anti-roll bar system (24mm front, 22mm rear) from Dymag"
+  ],
+  "estetica": [
+    "Full carbon fiber bodywork upgrade with McLaren MSO Track Evo aero package, including a 2,000mm-wide front splitter with active Gurney flaps (adjustable via cockpit controls), a 1,800mm rear diffuser with integrated titanium strakes, and a fixed rear wing with a 1,200mm chord and 300mm height, all constructed from pre-preg autoclave carbon fiber (T800) with a 3K twill weave finish",
+    "BBS FI-R 19x11.5 (front) and 20x13.5 (rear) forged magnesium wheels with center-lock hubs, wrapped in Pirelli P Zero Trofeo R tires (305/30 R19 front, 345/30 R20 rear), featuring a custom gold anodized finish and McLaren-branded titanium wheel nuts from ARP",
+    "Interior stripped and re-trimmed with a full Alcantara suite (including dashboard, door cards, and Recaro SPG-K seats), featuring a bespoke roll cage from Safety Devices (FIA 8862-2009 certified) with integrated fire suppression system (Lifeline Zero 360) and a carbon fiber steering wheel from CAE with integrated AIM MXS Strada data display and paddle shifters with adjustable shift force (2-8ms)"
+  ]
+}

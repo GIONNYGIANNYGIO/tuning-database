@@ -1,0 +1,14 @@
+{
+  "brand": "MCLAREN",
+  "model": "650S GT3 EVO",
+  "prestazioni": [
+    "Engine: M838T 3.8L twin-turbo V8 (GT3-spec) with upgraded Garrett GTX4202R turbochargers (GT3 Evo-specific billet compressor wheels, 0.82 A/R turbine housings) and Motec M190 ECU recalibration for 680hp at 7,500 RPM (GT3 Evo homologation limit) with 550 lb-ft torque at 6,000 RPM, utilizing McLaren Motorsport’s carbon-fiber intake plenums and titanium exhaust manifold heat shielding",
+    "Suspension: Öhlins TTX40 4-way adjustable dampers (GT3 Evo-spec) with McLaren Motorsport’s adjustable front and rear anti-roll bars (3-position, 12mm increments) and Eibach Motorsport 1,200 lb/in front and 1,400 lb/in rear springs, paired with GT3 Evo-specific carbon-fiber pushrods and spherical bearing top mounts",
+    "Aerodynamics: McLaren Motorsport GT3 Evo carbon-fiber front splitter with 3-position adjustable dive planes (0°, +3°, +6°), rear diffuser with Gurney flap (20mm, 30mm, or 40mm options), and a fixed-position rear wing (GT3 Evo-spec) with 3D-printed titanium wing supports and 12% increased downforce over standard GT3 via revised airfoil profiles (NACA 63-215 mod)"
+  ],
+  "estetica": [
+    "Body: McLaren Motorsport GT3 Evo carbon-fiber widebody kit (front fenders +30mm, rear fenders +40mm) with integrated cooling ducts for brake and turbocharger heat dissipation, finished in 3M 1080 Matte Graphite vinyl wrap with McLaren’s ‘GT3 Evo’ decal package (gloss black/gold accents)",
+    "Wheels: BBS FI-R 18x13 (front) and 18x14 (rear) forged magnesium wheels (GT3 Evo-spec) with titanium wheel bolts and Michelin Pilot Sport Cup 2 R tires (30/68-18 front, 31/71-18 rear), wrapped in McLaren Motorsport’s gold-anodized center-locking nuts",
+    "Interior: Sparco GT3 Evo carbon-fiber racing seat (FIA 8862-2009 certified) with 6-point Schroth Profi II-6 harnesses, McLaren Motorsport GT3 Evo carbon-fiber steering wheel (quick-release, 320mm diameter) with integrated Motec C127 dash display, and titanium pedal set (accelerator, brake, clutch) with adjustable pivot points (3 positions)"
+  ]
+}

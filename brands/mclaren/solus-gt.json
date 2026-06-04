@@ -1,0 +1,14 @@
+{
+  "brand": "MCLAREN",
+  "model": "SOLUS GT",
+  "prestazioni": [
+    "Installation of a **Garrett GTX5544R Gen II turbocharger** (86mm compressor, 106mm turbine) paired with a **Tial MV-R 60mm external wastegate** to optimize boost response on the **3.5L Judd GV4.2 V10 (code: GV4.2-2023)** while maintaining the factory 10,000 RPM redline. Custom **Pectel SQ6M ECU** mapping with anti-lag and flat-shift strategies for track-only use, ensuring 850+ HP at 1.8 bar (26 psi) on **VP Racing C16 118-octane fuel**.",
+    "Full **Motec C187 dash logger** integration with **AEM CD-7 digital dash** for real-time telemetry, including **Kistler 4075A200 pressure sensors** in each cylinder to monitor combustion stability under extreme G-forces. **AP Racing CP9661-4000 6-piston monoblock calipers** with **Brembo HTC64T carbon-ceramic rotors (380mm front, 355mm rear)** and **Ferodo DS3.12 racing pads** for fade-resistant braking under 3.5G deceleration.",
+    "Custom **Penske 8760 3-way adjustable coilovers** with **Eibach ERS 1,200 lb/in springs** (front) and **900 lb/in (rear)** to optimize mechanical grip for the **Solus GT’s 750kg dry weight**. **Öhlins TTX46 MkII dampers** with **Motul 300V 10W-60 racing oil** for temperature stability. **HRE FF16 18x12 (front) and 18x13 (rear) forged wheels** wrapped in **Pirelli P Zero Trofeo R (305/660-18 front, 325/705-18 rear)** for maximum lateral grip (2.1G+ in qualifying trim)."
+  ],
+  "estetica": [
+    "**RML Group’s Solus GT-specific carbon-fiber aero kit**, including a **fixed rear wing with Gurney flap (1,200mm span, 300mm chord)** and **front splitter with adjustable dive planes** for +1,800 lbs of downforce at 150 mph. **Aerokit CFD-optimized underbody diffuser** with **active vortex generators** to reduce drag by 8% while increasing high-speed stability.",
+    "**PPG Vibrance Collection ‘Liquid Silver’ paint** with **3M Scotchlite 980CR reflective striping** for track visibility, paired with **OMP KS-8 carbon-fiber racing seats** (FIA 8862-2009 certified) upholstered in **Alcantara Suede with Kevlar stitching**. **LED taillights by Osram Night Breaker Laser** for improved rear visibility during night sessions.",
+    "**Custom 3D-printed titanium exhaust outlets (dual 80mm tips)** by **Akrapović**, replacing the stock muffler system for a **120dB+ track-legal sound signature** (measured at 3m). **AIM MXS Strada 1.2 dash display** with **RGB LED shift lights** integrated into the **Sparco 600 Series steering wheel** (quick-release, 320mm diameter)."
+  ]
+}

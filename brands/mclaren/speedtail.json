@@ -1,0 +1,14 @@
+{
+  "brand": "MCLAREN",
+  "model": "SPEEDTAIL",
+  "prestazioni": [
+    "M840TQ 4.0L twin-turbocharged V8 hybrid powertrain recalibration via McLaren Special Operations (MSO) 'Speedtail Velocity+' ECU remap, increasing boost pressure from 1.4 bar to 1.7 bar with bespoke fueling adjustments for 99 RON race fuel, yielding 1,100+ hp (combined ICE + e-motor output) while retaining the stock 7-speed seamless shift transmission's launch control logic",
+    "Garrett GT35R turbocharger upgrade with billet compressor wheels (60mm inducer, 84mm exducer) and Inconel turbine housings (0.82 A/R) paired with custom 4-ply silicone charge pipes (SamcoSport) and a PWR 1000hp-rated intercooler core to eliminate heat soak under sustained 300+ km/h runs",
+    "Novitec McLaren Speedtail-specific carbon-fiber driveshaft and limited-slip differential (LSD) with 70% lockup under load, replacing the stock unit to handle the increased torque while maintaining the car's rear-wheel-drive bias in 'Track' mode"
+  ],
+  "estetica": [
+    "MSO 'Speedtail Aero Pack' with active rear spoiler (carbon-fiber, 3-position adjustable) and front splitter extensions (pre-preg autoclave carbon) to generate 120kg of downforce at 250 km/h, paired with a Vorsteiner Speedtail-specific carbon-fiber hood with integrated NACA ducts for brake cooling",
+    "Brembo GT-R 'Speciale' 6-piston monobloc calipers (front) and 4-piston (rear) with 410mm CCM-R discs (floating, slotted) and Pagid RS29 brake pads, finished in gold anodized calipers with 'Speedtail' laser-etched branding",
+    "Rohana RC10 forged wheels (20x9.5 front, 21x12.5 rear) in 'Gloss Black' with custom offset (-15mm front, +5mm rear) to accommodate the widened track, wrapped in Pirelli P Zero Trofeo R tires (245/35 R20 front, 325/30 R21 rear) for maximum mechanical grip"
+  ]
+}

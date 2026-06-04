@@ -1,0 +1,14 @@
+{
+  "brand": "McLaren",
+  "model": "GT4 RACE CAR",
+  "prestazioni": [
+    "M840T 4.0L twin-turbo V8 engine recalibrated with McLaren Special Operations (MSO) GT4-spec ECU map, targeting 550+ hp (up from 503 hp in road trim) via revised boost curves (1.5 bar peak) and optimized ignition timing for 102-octane race fuel, paired with a bespoke Motec M150 data logger for real-time telemetry adjustments",
+    "Garrett GT2867S turbochargers (GT4 homologated) with billet compressor wheels, upgraded 3.5-inch V-band downpipes, and custom heat-wrapped titanium exhaust manifolds by Akrapović, reducing backpressure by 22% while maintaining FIA noise compliance (105 dB max)",
+    "Öhlins TTX40 4-way adjustable dampers with McLaren GT4-specific spring rates (front: 350 lb/in, rear: 450 lb/in), adjustable anti-roll bars (3-way front, 2-way rear), and spherical bearing top mounts by Tillet Racing, paired with a 40mm lowered ride height and adjustable bump steer kit by KW Suspensions"
+  ],
+  "estetica": [
+    "Full carbon-fiber GT4 aero package by McLaren MSO, including a 1,200mm-wide front splitter with integrated dive planes, a 900mm rear wing with adjustable Gurney flap (3 positions), and a diffuser with 7 strakes for 450 kg of downforce at 200 km/h (per FIA GT4 regulations)",
+    "Custom livery by Viper Designs featuring 3M 1080 vinyl wrap in McLaren’s ‘GT4 Championship Blue’ with matte carbon-fiber accents, FIA-mandated rain light, and OMP 8-point racing harnesses visible through the Lexan side windows",
+    "BBS FI21 GT4-spec 18x12-inch (front) and 18x13-inch (rear) forged wheels with central-locking hubs, wrapped in Pirelli P Zero Trofeo R tires (305/680-R18 front, 315/705-R18 rear), paired with AP Racing CP8376-26GT 6-piston front and 4-piston rear calipers with 380mm carbon-ceramic rotors"
+  ]
+}

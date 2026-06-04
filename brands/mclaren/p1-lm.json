@@ -1,0 +1,14 @@
+{
+  "brand": "MCLAREN",
+  "model": "P1 LM",
+  "prestazioni": [
+    "Engine: M838TQ 3.8L twin-turbocharged V8 with bespoke LM-spec hybrid electric motor (IPAS), upgraded to 1,000PS (986hp) via Lanzante Motorsport’s titanium connecting rods, forged Mahle pistons (9.0:1 compression), and a custom McLaren Applied Technologies ECU remap with 2.2 bar peak boost (stock: 1.4 bar) and 8,500 RPM redline (stock: 8,000 RPM).",
+    "Forced Induction: Twin Garrett GTX5533R Gen II turbochargers with billet compressor wheels, 76mm inducers, and titanium-aluminide turbine wheels, paired with custom 4.5-inch Inconel downpipes and a secondary intercooler system by PWR (Australia) with dual 1,200cfm throttle bodies.",
+    "Suspension & Chassis: Full carbon-fiber monocoque reinforcement by Lanzante with a 30% stiffer front bulkhead, Ohlins TTX46 MkII coilovers (adjustable 3-way damping, 20mm ride height reduction), and bespoke AP Racing carbon-ceramic brakes (410mm front, 390mm rear) with 6-piston calipers and Pagid RS29 pads for 1.2g deceleration."
+  ],
+  "estetica": [
+    "Aerodynamics: Lanzante Motorsport’s ‘LM Aero Pack’ featuring a 3D-printed titanium rear diffuser with active Gurney flaps (adjustable via cabin switch), a fixed carbon-fiber front splitter with integrated vortex generators, and a 1,320mm-wide rear wing (vs. stock 1,150mm) with dual-plane design and 3D-printed titanium endplates for 600kg downforce at 250km/h.",
+    "Bodywork: Full carbon-fiber body kit by Vorsteiner (P1 LM-specific), including a 50mm extended front bumper with NACA ducts for brake cooling, side skirts with integrated air curtains, and a rear clamshell with a removable ‘Gulf Oil’ livery carbon-fiber panel (Lanzante-exclusive).",
+    "Interior: Bespoke carbon-fiber weave Recaro Pole Position seats (FIA 8862-2009 certified) with 6-point Schroth harnesses, a MOMO Prototipo steering wheel (carbon-fiber, Alcantara grip) with integrated McLaren P1 LM ‘LM’ badge, and a custom titanium roll cage by Safety Devices (UK) with integrated fire suppression system (FE-36 agent)."
+  ]
+}

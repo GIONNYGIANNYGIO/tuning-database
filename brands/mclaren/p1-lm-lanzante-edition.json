@@ -1,0 +1,14 @@
+{
+  "brand": "MCLAREN",
+  "model": "P1 LM LANZANTE EDITION",
+  "prestazioni": [
+    "M838TQ 3.8L twin-turbo V8 hybrid powertrain: Upgraded Lanzante-spec Garrett GTX5533R turbos with billet compressor wheels, 106mm titanium-aluminide turbine wheels, and 3D-printed Inconel turbine housings to withstand 1.6 bar (23.2 psi) boost, paired with a bespoke McLaren Applied Technologies hybrid energy recovery system (ERS) recalibrated for 20% faster torque fill via a Motec M150 ECU with Lanzante’s proprietary ‘Track Attack’ firmware, increasing combined output to 1,000PS (986hp) and 1,050Nm (774lb-ft) of torque",
+    "Lanzante-developed carbon-fiber reinforced titanium connecting rods (Pankl Racing Systems) with DLC-coated wrist pins and upgraded Mahle Motorsport forged pistons (9.0:1 compression ratio) featuring anodized crowns and reinforced ring lands, mated to a billet steel crankshaft with cryogenically treated journals and a dry-sump lubrication system utilizing a Radium Engineering 7-stage oil pump with integrated scavenger ports for sustained 9,500 RPM operation",
+    "Custom Lanzante titanium exhaust system with 3.5-inch Inconel 625 primary headers, secondary merge collectors, and a straight-pipe configuration terminating in a pair of Akrapovič carbon-fiber quad outlets, reducing backpressure by 42% while retaining the P1’s active aero sound modulation via a secondary butterfly valve controlled by the Motec ECU for on-demand acoustics"
+  ],
+  "estetica": [
+    "Lanzante-exclusive ‘LM Aero’ carbon-fiber body kit featuring a 3D-scanned, wind-tunnel-optimized front splitter with integrated dive planes (20% more downforce than P1 GTR), a rear diffuser with active Gurney flaps (adjustable via cockpit switch), and a fixed carbon-fiber rear wing derived from the P1 GTR but with Lanzante’s proprietary ‘vortex generators’ for 15% reduced drag at high speeds",
+    "Bespoke Lanzante ‘Heritage’ livery with hand-painted gold leaf pinstriping (applied by former F1 aerodynamicist) over a bare carbon-fiber weave, paired with OZ Racing LM Ultra Leggera forged magnesium wheels (20-inch front, 21-inch rear) wrapped in Pirelli P Zero Trofeo R tires (245/35 R20 front, 325/30 R21 rear) with custom ‘LM’ sidewall branding",
+    "Interior reworked with Lanzante’s ‘Track Luxe’ package: full Alcantara-wrapped carbon-fiber monocoque with exposed weave, Sparco Pro 2000 carbon-fiber racing seats (FIA 8862-2009 certified) upholstered in bespoke ‘Nappa Bridge of Weir’ leather, a digital dash cluster from the McLaren Senna recalibrated for hybrid power metrics, and a removable carbon-fiber steering wheel with integrated Motec C127 data logger and launch control toggle"
+  ]
+}

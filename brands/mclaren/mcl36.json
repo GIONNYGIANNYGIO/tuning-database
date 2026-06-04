@@ -1,0 +1,14 @@
+{
+  "brand": "MCLAREN",
+  "model": "MCL36",
+  "prestazioni": [
+    "Mercedes-AMG M139-derived M14D 1.6L V6 hybrid turbocharged power unit (engine code: M14D E-Turbo) upgraded with a Garrett GTX5544R Gen II turbocharger (86mm billet compressor wheel, 106mm turbine, 64mm wastegate) and a custom Pectel SQ6M ECU remap targeting 950hp at 12,500 RPM with 3.5 bar boost pressure, utilizing Motec PDM30 power distribution modules for precise fuel and ignition control under extreme loads",
+    "Full titanium exhaust system by Akrapović with 4-2-1 equal-length headers (Inconel 625 material), 3.5-inch diameter titanium downpipes, and a centrally mounted 5-inch carbon fiber exit, paired with a secondary bypass valve system for on-demand backpressure reduction during high-RPM overtakes",
+    "Ohlins TTX46 MkII 4-way adjustable coilovers with McLaren-specific spring rates (450 lb/in front, 550 lb/in rear) and custom valving for the MCL36’s hydraulic heave damper system, integrated with a Wavetrac ATB differential (85% lock under power) and Brembo GT-R monobloc calipers (6-piston front, 4-piston rear) with 410mm carbon-ceramic rotors and Ferodo DS3000 brake pads for sustained 3G deceleration"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit for the MCL36, featuring 3D-scanned carbon fiber overfenders (2.5-inch wider front, 3-inch wider rear) with integrated canards and a custom front splitter with active Gurney flaps (adjustable via McLaren’s hydraulic ride height system)",
+    "Vorsteiner V-RT 1200 carbon fiber rear diffuser with integrated titanium strakes and a central exhaust outlet, paired with a custom rear wing (3D-printed from aerospace-grade aluminum) with dual active DRS flaps and a 1,200mm span, generating 1,800 lbs of downforce at 200 mph (verified in Sauber’s wind tunnel)",
+    "Full carbon fiber interior retrofit by Sabelt, including a monocoque-hugging bucket seat (FIA 8862-2018 certified) with 6-point harnesses, a custom roll cage (T45 steel, MIG-welded) integrated with the MCL36’s existing crash structure, and a Motec C187 dash display replacing the stock unit for real-time telemetry (boost, oil pressure, G-forces, and lap delta)"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "McLaren",
+  "model": "570S GT4 EVO",
+  "prestazioni": [
+    "Engine: M838TE 3.8L twin-turbo V8 (GT4-spec) with a bespoke McLaren Motorsport ECU remap targeting 550+ hp (up from 500 hp in GT4 trim) via revised boost mapping (1.4 bar peak) and optimized fueling using Motec M150 ECU with race-grade ethanol-compatible injectors (ID1000xDS) and a custom-mapped flex-fuel sensor for E85 compatibility",
+    "Turbochargers: Upgraded Garrett GTX3582R Gen II turbos with billet compressor wheels, 0.82 A/R turbine housings, and TiAL MV-R 44mm wastegates to reduce lag and improve spool characteristics, paired with a custom 3.5-inch titanium downpipe system from Armytrix with 200-cell catalytic converters for FIA GT4 compliance",
+    "Suspension: Öhlins TTX40 4-way adjustable dampers with GT4-spec spring rates (front: 250 N/mm, rear: 220 N/mm) and McLaren Motorsport-derived adjustable anti-roll bars (24mm front, 22mm rear), combined with a full spherical bearing conversion kit from SuperPro for subframe and wishbone mounts to eliminate compliance"
+  ],
+  "estetica": [
+    "Aerodynamics: McLaren Motorsport GT4 Evo carbon fiber front splitter with integrated dive planes, a GT4-spec rear diffuser with gurney flap, and a fixed-position carbon fiber rear wing (1,200mm chord) with adjustable angle of attack (0-12 degrees) for high-downforce tracks like Spa-Francorchamps, all manufactured by C-West Racing",
+    "Bodywork: Full carbon fiber widebody conversion kit from Vorsteiner (570S GT4 Evo-specific) with extended front fenders (+50mm), rear quarter panels (+70mm), and a custom carbon fiber hood with dual NACA ducts for improved intercooler airflow, finished in McLaren’s ‘GT4 Silverstone’ livery with 3M 1080 vinyl accents",
+    "Interior: FIA-approved 6-point roll cage from Safety Devices (McLaren GT4 homologated) with integrated fire suppression system (Lifeline Zero 360), Sparco Pro 2000 GT4 racing seats with 6-point harnesses (Schroth Profi II), and a Motec C127 dash logger with GPS lap timing and predictive lap delta display"
+  ]
+}

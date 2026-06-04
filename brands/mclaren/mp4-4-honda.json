@@ -1,0 +1,14 @@
+{
+  "brand": "MCLAREN",
+  "model": "MP4/4 HONDA",
+  "prestazioni": [
+    "Honda RA168-E (1.5L V6 turbo, 650+ hp in 1988 spec) upgraded with a bespoke Garrett GT35R turbocharger featuring a 76mm billet compressor wheel and 67mm turbine, paired with a custom titanium 4-into-1 exhaust manifold by Akrapović for optimized spool and reduced backpressure, targeting 850+ hp on 3.5 bar of boost with 102-octane race fuel",
+    "Replacement of the stock Honda PGM-FI engine control unit with a Motec M150 ECU, recalibrated for sequential fuel injection and individual cylinder ignition timing, integrated with a Bosch Motorsport 0280158002 high-pressure fuel pump and ID1000 injectors for precise fuel delivery under extreme boost conditions",
+    "Installation of a custom carbon-fiber air intake system by K&N Engineering, featuring a ram-air scoop mounted on the rear deck to force-feed the turbocharger, combined with a custom intercooler core by PWR Performance, reducing intake temperatures by 30% and increasing air density for sustained power output during high-speed runs"
+  ],
+  "estetica": [
+    "Full carbon-fiber bodywork replacement using a custom MP4/4-specific kit by C-West, including a widened front splitter with integrated dive planes, a rear diffuser with Gurney flaps, and a revised rear wing with adjustable angle of attack for high-downforce applications, all finished in a matte McLaren Orange livery",
+    "OMP Racing carbon-fiber racing seats with 6-point Schroth harnesses, paired with a custom roll cage by Safety Devices, designed to FIA F1 safety standards and integrated with the chassis for enhanced rigidity, while maintaining the original MP4/4 cockpit dimensions",
+    "BBS RG III 13-inch magnesium wheels, wrapped in Pirelli P Zero Trofeo R semi-slick tires (245/620R13 front, 355/680R13 rear), paired with AP Racing CP5210 calipers and 320mm carbon-carbon brake discs for unparalleled stopping power and track-focused performance"
+  ]
+}

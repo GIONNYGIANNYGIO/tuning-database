@@ -1,0 +1,14 @@
+{
+  "brand": "MCLAREN",
+  "model": "MERCEDES SLR",
+  "prestazioni": [
+    "AMG M155 5.4L Supercharged V8 (engine code: M155 E55 ML) upgraded with a Weistec Engineering Stage 3+ supercharger pulley kit (72mm, 12-14 PSI boost) paired with a custom-forged crankshaft (CP Carrillo) and Mahle Motorsport forged pistons (9.5:1 compression ratio) for 850+ HP at 7,200 RPM",
+    "Full titanium exhaust system by Akrapovič (4.5-inch dual outlets, bypass valves, and carbon-fiber tips) with a custom X-pipe design to optimize scavenging for the M155’s 90-degree V8 firing order, reducing backpressure by 38%",
+    "Standalone Motec M150 ECU with custom CAN bus integration for the SLR’s Mercedes COMAND system, featuring launch control (3,500 RPM flat-shift), anti-lag (2-step), and a bespoke traction control map calibrated for Pirelli P Zero Trofeo R tires (295/30ZR19 front, 345/30ZR19 rear)"
+  ],
+  "estetica": [
+    "Full carbon-fiber widebody conversion by Mansory (SLR 722 GT kit), including extended front fenders (30mm per side), rear quarter panels (50mm per side), and a custom front splitter with integrated air curtains for the M155’s intercooler",
+    "OEM+ carbon-ceramic brake upgrade (AP Racing 6-piston calipers, 420mm front rotors, 390mm rear rotors) with gold-anodized caliper pistons and custom brake ducts (3D-printed titanium, NACA duct design) to prevent fade during track use",
+    "Custom LED taillight assembly (Hella Dynamic Lighting System) with sequential turn signals and a carbon-fiber rear diffuser by Vorsteiner (SLR-specific, 3-stage Gurney flap design) to reduce rear lift by 42% at 200+ km/h"
+  ]
+}

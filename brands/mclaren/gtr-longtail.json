@@ -1,0 +1,14 @@
+{
+  "brand": "McLaren",
+  "model": "F1 GTR Longtail",
+  "prestazioni": [
+    "Engine: Replace the stock 6.1L S70/2 BMW-derived V12 (engine code S70/3) with a fully built, dry-sumped S70/3 featuring forged Mahle pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from VAC Motorsports. Pair with a custom titanium valvetrain from Kibblewhite Precision, including Inconel valves, titanium retainers, and upgraded valve springs for 10,000 RPM capability.",
+    "Forced Induction: Install a bespoke twin-turbo system using Garrett GTX5533R turbos (84mm compressor wheels) with custom 3D-printed Inconel exhaust manifolds by Gintani. Utilize a Motec M190 ECU with a custom anti-lag strategy and a dual-stage nitrous oxide system (NOS Big Shot) for on-demand 300+ HP bursts, limited to 10-second activation per race stint.",
+    "Suspension & Chassis: Replace the stock F1 GTR suspension with a full Öhlins TTX46 MkII coilover system, recalibrated for the Longtail’s extended wheelbase. Integrate a custom carbon-fiber front splitter with active aero flaps (controlled via MoTeC ADL3 dash) and a rear diffuser from Vorsteiner’s F1 GTR-specific aero kit. Reinforce the monocoque with a titanium roll cage from Safety Devices, welded to the OEM mounting points for FIA GT1 homologation compliance."
+  ],
+  "estetica": [
+    "Bodywork: Replace the stock Kevlar panels with a full carbon-fiber body kit from RML Group, including the iconic Longtail rear fenders, a revised front bumper with integrated NACA ducts for brake cooling, and a one-piece carbon underbody tray. Apply a custom livery using 3M 1080 vinyl in a retro Gulf Oil-inspired scheme with hand-painted gold leaf accents on the sponsor logos.",
+    "Wheels & Aero: Fit custom BBS LM-R wheels (18x11 front, 18x13 rear) with titanium lug nuts and Michelin Pilot Sport Cup 2 tires (345/35 R18 front, 385/30 R18 rear). Add a fixed rear wing from APR Performance’s F1 GTR-specific kit, featuring a 3D-printed aluminum airfoil with adjustable Gurney flaps for high-speed stability.",
+    "Interior: Replace the stock carbon-fiber seats with ultra-lightweight Sparco Pro 2000 seats (FIA 8862-2009 certified) and a custom carbon-fiber dashboard from Tillet Racing. Install a MoTeC C127 dash display with real-time telemetry overlay, paired with a custom titanium shift knob from BBI Autosport for the sequential gearbox. Add a fire suppression system from Lifeline, plumbed with titanium lines and a carbon-fiber activation handle."
+  ]
+}

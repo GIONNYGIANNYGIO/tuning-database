@@ -1,0 +1,14 @@
+{
+  "brand": "MCLAREN",
+  "model": "SENNA GTR LM",
+  "prestazioni": [
+    "M840TR 4.0L twin-turbocharged V8 engine recalibrated with McLaren Special Operations (MSO) Stage 3 ECU remap, targeting 850PS at 7,500 RPM and 820Nm of torque at 6,000 RPM via Motec M150 standalone ECU with bespoke fuel and ignition maps for 102 RON race fuel compatibility",
+    "Garrett GTX5533R turbochargers with billet compressor wheels, 76mm inducer, and 3D-printed Inconel turbine housings (T4 divided outlet) paired with TiAL MV-R 60mm wastegates and custom 4-inch titanium downpipes with integrated flex sections to eliminate thermal stress on the M840TR block",
+    "Ohlins TTX46 MkII 3-way adjustable coilovers with 400lb/in front and 500lb/in rear springs, custom valving for 1,200kg downforce at 250km/h, and integrated ride height sensors for active aero compensation, paired with McLaren MSO carbon-ceramic brake rotors (410mm front, 390mm rear) and AP Racing CP9436-8 calipers with titanium pistons"
+  ],
+  "estetica": [
+    "RML Group-developed carbon fiber aero package featuring a 2,200mm wide front splitter with active Gurney flaps (adjustable via cockpit switch), a 1,800mm rear diffuser with integrated strakes for 40% more downforce than the standard Senna GTR, and a fixed rear wing with dual-element DRS (Drag Reduction System) flaps controlled by the Motec ECU",
+    "Bespoke MSO 'LM Heritage' livery with 3M 1080 vinyl wrap in 'Papaya Spark' with matte black carbon fiber weave accents, including hand-painted gold pinstriping (2mm width) along the door sills and rear quarter panels, and a clear bra (XPEL Ultimate) applied to the front bumper, hood, and mirrors to prevent track debris damage",
+    "Rear light cluster replaced with custom LED units from JDM-spec McLaren 720S GT3 (part #720-00-00052), integrated with a sequential turn signal function (3-stage animation) and a carbon fiber rear light surround with integrated tow hook cover (AeroCatch quick-release system)"
+  ]
+}

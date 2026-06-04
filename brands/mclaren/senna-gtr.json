@@ -1,0 +1,14 @@
+{
+  "brand": "MCLAREN",
+  "model": "SENNA GTR",
+  "prestazioni": [
+    "M840TR (4.0L twin-turbocharged V8) – Full titanium internals upgrade with forged Mahle pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft by JE Pistons, paired with a custom McLaren Applied Technologies dry-sump system for sustained 9,500 RPM operation under lateral loads exceeding 2.5G",
+    "Garrett GTX5533R Gen II turbochargers (84mm inducer, 106mm exducer) with titanium-aluminide turbine wheels, custom 1.25 A/R turbine housings, and Precision Turbo wastegates (44mm, dual-port) for 3.2 bar (46.4 psi) peak boost, mated to a bespoke charge-cooling system using a PWR 1500kW race-spec intercooler with dual 120mm Bosch motorsport water pumps",
+    "McLaren Motorsport-spec ECU recalibration (tag: M840TR_GTR_2023_V3) with Motec C187 dash logger integration, custom fuel maps for 102-octane race fuel (VP Racing C16), and a secondary ignition system by EFI University with individual coil-on-plug MSD 8252 coils, enabling 30° of total ignition advance at 8,500 RPM"
+  ],
+  "estetica": [
+    "Full carbon-fiber bodywork replacement with McLaren Special Operations (MSO) GTR-spec weave (3K twill, 2x2, 120g/m²), including a fixed rear wing with Gurney flap (adjustable via hydraulic actuators, +1,200 lbs downforce at 180 mph) and a front splitter with active dive planes (Vortex Generators by APR Performance)",
+    "OMP Racing 6-point FIA-spec carbon-fiber racing seats (model: OMP KS-5 RR) with Schroth Profi II-6 harnesses (HANS-compatible), paired with a custom roll cage by Safety Devices (T45 steel, 3.2mm wall thickness) and a fire suppression system by Lifeline Zero 360 (dual 4kg bottles, plumbed to cockpit and engine bay)",
+    "BBS FI-R wheels (19x13 front, 20x14 rear) with center-lock adapters, wrapped in Pirelli P Zero Trofeo R tires (305/660R19 front, 325/705R20 rear), complemented by a custom brake system featuring AP Racing CP9470 calipers (6-piston front, 4-piston rear) with carbon-ceramic rotors (410mm front, 390mm rear) and Ferodo DS3.12 pads"
+  ]
+}
