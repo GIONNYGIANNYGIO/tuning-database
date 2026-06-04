@@ -1,0 +1,14 @@
+{
+  "brand": "MCLAREN",
+  "model": "ARTURA GT4 EVO",
+  "prestazioni": [
+    "M840TE 3.0L twin-turbocharged V6 hybrid powertrain (engine code: M840TE) recalibrated with McLaren Special Operations (MSO) GT4 Evo-specific ECU remap, targeting 680 hp (up from 585 hp) via revised turbo boost mapping (1.6 bar peak) and optimized MGU-K energy deployment for 0-60 mph in 2.7s",
+    "Garrett GT2260S turbochargers (GT4 Evo-spec) with billet compressor wheels and Inconel turbine housings, paired with custom 3.5-inch titanium downpipes (AP Racing) and a secondary catalytic converter delete for reduced backpressure",
+    "Ohlins TTX46 MkII GT4 dampers with 3-way adjustable compression/rebound and McLaren GT4 Evo-specific spring rates (front: 350 lb/in, rear: 400 lb/in), combined with a bespoke carbon-fiber anti-roll bar kit (Dymag) for 20% stiffer roll resistance"
+  ],
+  "estetica": [
+    "RML Group GT4 Evo aero package featuring a 1,200mm carbon-fiber rear wing with active Gurney flap (adjustable via cockpit switch), front splitter extensions with vortex generators, and a diffuser with 3-stage airflow channels for +1,800 lbs of downforce at 124 mph",
+    "Dymag Assetto Magnesium wheels (18x11 front, 18x12.5 rear) wrapped in Pirelli P Zero Trofeo R tires (305/680R18 front, 325/705R18 rear) with McLaren GT4 Evo-specific camber plates (-4.2° front, -3.8° rear)",
+    "Carbon Revolution CR-9 carbon-fiber monoblock brake calipers (6-piston front, 4-piston rear) with 410mm CCM-R discs and bespoke brake cooling ducts (integrated into the front bumper) for 30% improved heat dissipation under endurance racing conditions"
+  ]
+}

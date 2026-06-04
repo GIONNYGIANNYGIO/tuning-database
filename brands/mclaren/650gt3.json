@@ -1,0 +1,17 @@
+{
+  "brand": "McLaren",
+  "model": "650GT3",
+  "prestazioni": [
+    "Engine: M838T 3.8L twin-turbo V8 (GT3-spec) with a bespoke Bosch MS 6.4 GT3 ECU remap optimized for 600+ hp at 7,500 RPM on 102-octane fuel, utilizing a Motec PDM30 power distribution module for precise electrical load management under endurance racing conditions",
+    "Forced Induction: Upgraded Garrett GT35R turbochargers with billet compressor wheels (60mm inducer, 82mm exducer) and Inconel turbine housings (0.82 A/R) paired with custom TiAL Sport MV-R 44mm wastegates and a PTP 4.5\" titanium intercooler core with CNC-machined end tanks for reduced charge temps by 18°C at 2.2 bar boost",
+    "Drivetrain: Xtrac P1297 6-speed sequential transaxle with a Sachs Racing twin-disc carbon clutch (240mm diameter) and a Quaife ATB helical LSD (85% lock), mated to a GT3-spec McLaren carbon fiber driveshaft with integrated tripod CV joints for 30% weight reduction over OEM",
+    "Suspension: Öhlins TTX40 4-way adjustable dampers with 25mm remote reservoirs, custom valving for GT3-spec spring rates (front: 350 lbs/in, rear: 400 lbs/in), and spherical bearing top mounts from Tractive Suspension, paired with Eibach ERS coil springs and adjustable anti-roll bars (24mm front, 22mm rear) with rose-jointed drop links",
+    "Braking: AP Racing CP8300 6-piston front / 4-piston rear monoblock calipers with 400mm (front) and 380mm (rear) two-piece carbon-ceramic rotors (CCM-X material) from Brembo, featuring titanium pistons and stainless steel brake lines with Goodridge G-Stop fittings for 30% reduced pedal travel under 1,500°C operating temps"
+  ],
+  "estetica": [
+    "Aerodynamics: WEC-spec McLaren GT3 carbon fiber front splitter with integrated dive planes (30% more downforce at 200 km/h) and a custom GT3 rear diffuser from Vorsteiner with 90mm Gurney flap, paired with a FIA-homologated carbon fiber rear wing (1,200mm span) featuring adjustable dual-element profiles for high-speed stability (up to 1,800 lbs downforce at 250 km/h)",
+    "Bodywork: Full carbon fiber widebody kit from Liberty Walk (LB-WORKS) with GT3-spec fender flares (50mm wider front, 70mm wider rear) and a custom carbon fiber hood with dual NACA ducts for direct turbocharger cooling, finished in a 3M 2080 Series matte vinyl wrap with McLaren Racing Green accents and FIA-approved reflective decals",
+    "Wheels: OZ Racing Superforgiata GT3 wheels (18x12.5\" front, 18x13\" rear) with center-lock hubs and titanium wheel nuts, wrapped in Pirelli P Zero Trofeo R tires (30/65-18 front, 31/71-18 rear) for optimal heat cycling under endurance loads, paired with a custom titanium valve stem kit from HRE Performance",
+    "Interior: Full FIA 8862-2018 spec carbon fiber racing seat from Sparco (Pro ADV model) with 6-point Schroth Racing harnesses (ASM2 type), a GT3-spec carbon fiber dashboard from McLaren Special Operations (MSO) with a Motec C127 digital dash display, and a custom titanium bolt-in roll cage from Safety Devices (FIA FT3-1999 certified) with integrated fire suppression system (Lifeline Zero 360) and carbon fiber door cards with quick-release handles"
+  ]
+}

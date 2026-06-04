@@ -1,0 +1,14 @@
+{
+  "brand": "MCLAREN",
+  "model": "600LT SPIDER",
+  "prestazioni": [
+    "M838TL 3.8L twin-turbo V8 engine: Full carbon-fiber intake system by Novitec with integrated cold-air ram scoops, replacing the OEM plastic intake manifold for a 25% increase in airflow efficiency and a 300 RPM higher redline (8,800 RPM) via custom ECU mapping by McLaren Special Operations (MSO) with a bespoke fuel pressure sensor calibration to prevent lean conditions under sustained boost",
+    "Garrett GTX4202R ball-bearing turbochargers (hybrid core, 64mm billet compressor wheels) with TiAL MV-R 44mm external wastegates, paired with a custom 4-inch titanium downpipe system by Armytrix, reducing backpressure by 40% and enabling a 1.5-bar peak boost pressure (up from 1.2 bar stock) with a 20% faster spool via a bespoke turbocharger heat management system using PWR Australia’s dual-pass intercooler core",
+    "Ohlins TTX40 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression), custom-valved for the 600LT Spider’s aluminum-intensive MonoCell II chassis, featuring 20mm lower ride height and a 15% stiffer spring rate (140 N/mm front, 160 N/mm rear) to eliminate body roll during 1.5g lateral acceleration, paired with a bespoke carbon-fiber front sway bar by Dymag (28mm diameter, 30% lighter than OEM)"
+  ],
+  "estetica": [
+    "Full carbon-fiber aero package by MSO ‘Speedtail Velocity’ kit, including a fixed rear wing with active Gurney flap (adjustable via McLaren’s hydraulic system) and a front splitter with integrated canards (3D-printed from Toray T800 carbon fiber), reducing front-end lift by 45% at 180 mph while adding 120 kg of downforce at 150 mph",
+    "Custom 20-inch front / 21-inch rear forged aluminum wheels by Dymag (CX-R model, 9.5J front, 11.5J rear) with a 5-10% weight reduction per wheel (8.2 kg front, 9.8 kg rear) and a bespoke offset (ET30 front, ET40 rear) to accommodate the wider track (20mm front, 30mm rear) via KW Automotive’s adjustable wheel spacers, wrapped in Pirelli P Zero Trofeo R tires (245/35 R20 front, 305/30 R21 rear) with a custom compound (Pirelli’s ‘Racing Slick’ tread pattern for road-legal use)",
+    "Exterior paint scheme: McLaren’s ‘MSO Bespoke’ liquid silver with a matte black carbon-fiber weave overlay (applied via a 12-stage process by Sikkens), paired with a full titanium exhaust system by Akrapović (4-into-2-into-1 configuration, 3.5-inch outlets) with laser-etched McLaren ‘LT’ logos on the tips, and a custom titanium roll hoop by MSO (integrated with the Spider’s retractable roof mechanism for structural rigidity)"
+  ]
+}

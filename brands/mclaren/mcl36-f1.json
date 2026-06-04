@@ -1,0 +1,14 @@
+{
+  "brand": "McLaren",
+  "model": "MCL36 F1",
+  "prestazioni": [
+    "Mercedes-AMG M13 E Performance 1.6L V6 hybrid PU (engine code: M13 E21) with a custom McLaren-developed Stage 3.5 ECU remap (part #MCL36-6000-003) increasing fuel flow to 110 kg/h and optimizing MGU-K deployment for +80 kW (107 hp) in short bursts, paired with a Pankl Racing Systems titanium connecting rod upgrade (part #MCL36-1010-005) to handle 18,500 RPM redline safely",
+    "Garrett Motorsports GT35R turbocharger (custom billet wheel, 64mm compressor, 58mm turbine) with a bespoke McLaren F1 Operations titanium wastegate assembly (part #MCL36-2000-012) and a Hiflow Engineering carbon-fiber intake plenum (part #MCL36-3000-008) to reduce air intake temps by 12°C under full load",
+    "Alcon Motorsport 6-piston monoblock calipers (front, part #MCL36-4000-015) with carbon-ceramic discs (390mm x 36mm) and Ferodo Racing DS3000 pads, paired with a McLaren-specified AP Racing hydraulic brake-by-wire system (part #MCL36-4000-022) for 20% faster pedal response and a custom Motec C187 dash logger to monitor brake pressure delta in real-time"
+  ],
+  "estetica": [
+    "McLaren Special Operations (MSO) full carbon-fiber aero package (part #MCL36-5000-001) including a 3D-printed titanium front splitter with active Gurney flaps (adjustable via steering wheel), a rear diffuser with integrated blown wheel arches (reducing drag by 7%), and a shark fin engine cover with a laser-etched McLaren Racing logo",
+    "OMP Racing 6-point FIA-spec carbon-fiber seat (part #MCL36-7000-009) with Schroth Racing 6-point harnesses (part #MCL36-7000-014) and a custom MSO titanium roll cage (part #MCL36-7000-021) featuring a removable passenger-side hoop for FIA compliance during non-race events",
+    "BBS Motorsport FI-R 18-inch forged magnesium wheels (front: 12.5x18, rear: 16.5x18, part #MCL36-8000-003) wrapped in Pirelli P Zero Trofeo R tires (front: 305/665-R18, rear: 405/680-R18) with a McLaren-developed TPMS system (part #MCL36-8000-011) that logs tire pressure and temperature data at 100Hz for real-time telemetry"
+  ]
+}

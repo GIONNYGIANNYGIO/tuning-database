@@ -1,0 +1,14 @@
+{
+  "brand": "MCLAREN",
+  "model": "600LT",
+  "prestazioni": [
+    "M838TL 3.8L twin-turbo V8 (engine code) upgraded with a McLaren Special Operations (MSO) Stage 2+ ECU calibration, increasing boost pressure to 1.6 bar (23.2 psi) and optimizing ignition timing for 720+ HP on 100-octane fuel, paired with a bespoke MSO titanium exhaust system featuring 4.5-inch carbon-fiber tips and a secondary bypass valve delete for unrestricted flow",
+    "Garrett GT35R turbocharger hybrid upgrade (custom billet compressor wheel, 62mm inducer, 76mm exducer) with TiAL Sport MV-R 44mm wastegates and a PTP Motorsports titanium turbo manifold, reducing spool time by 18% while supporting 800+ HP on E85",
+    "Ohlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression), custom-valved for the 600LT’s Monocell II carbon-fiber tub, paired with MSO-spec anti-roll bars (24mm front, 20mm rear) and a Wavetrac limited-slip differential with 65% lockup under load"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (600LT-specific CFRP fenders, 50mm wider front, 70mm wider rear) with integrated carbon-fiber canards and a custom 3D-printed front splitter featuring active aero ducts for brake cooling, finished in McLaren’s ‘Verde Iridium’ paint with matte carbon-fiber weave accents",
+    "Vorsteiner V-FF 107 20-inch forged wheels (9.5x20 ET35 front, 12x20 ET45 rear) in gloss black with titanium hardware, wrapped in Pirelli P Zero Trofeo R tires (245/30 R20 front, 305/30 R20 rear) and paired with Brembo GT-R monoblock calipers (6-piston front, 4-piston rear) with 400mm carbon-ceramic rotors",
+    "AIM MXS Strada 1.2 dash display with integrated GPS lap timer, mounted in a custom carbon-fiber pod replacing the stock instrument cluster, alongside a McLaren MSO Heritage Racing stripe package (gloss black with ‘Longtail’ script) and a bespoke carbon-fiber engine cover with exposed titanium fasteners"
+  ]
+}

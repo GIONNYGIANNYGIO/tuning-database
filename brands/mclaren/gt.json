@@ -1,0 +1,14 @@
+{
+  "brand": "MCLAREN",
+  "model": "GT",
+  "prestazioni": [
+    "M840TE 4.0L twin-turbo V8 engine: Replace stock turbos with Garrett GTX5533R Gen II turbos (84mm compressor, 64mm turbine) paired with a custom 4-ply silicone charge pipe system from VRSF, retaining the stock intercooler but upgrading to a PWR Australia 1000hp-rated core for sustained track use",
+    "Full Motec M150 ECU standalone conversion with McLaren GT-specific CAN bus integration, including a custom fuel system upgrade with dual Bosch Motorsport 044 high-flow fuel pumps, ID1700x injectors, and a Radium Engineering fuel surge tank to prevent fuel starvation during lateral G-forces exceeding 1.2G",
+    "Ohlins TTX46 MkII coilovers with McLaren GT-specific spring rates (140N/mm front, 160N/mm rear) and adjustable roll center correction plates from D2 Racing, paired with a full AP Racing CP9431 brake kit (390mm front, 380mm rear) with carbon-ceramic rotors and Pagid RSL29 brake pads for endurance racing"
+  ],
+  "estetica": [
+    "Liberty Walk LB-WORKS McLaren GT widebody kit with carbon fiber fenders (30mm wider front, 40mm wider rear) and custom 3D-printed ABS wheel arches to accommodate 20x12.5 ET45 front and 21x13.5 ET50 rear wheels wrapped in Michelin Pilot Sport Cup 2 R tires (275/30 front, 325/30 rear)",
+    "Vorsteiner V-FF107 carbon fiber front splitter with integrated Gurney flap and a custom 3-piece rear diffuser from RW Carbon, featuring active aero elements controlled via the Motec ECU to adjust downforce based on speed (up to 400kg at 200km/h)",
+    "Full custom interior by Sabelt with carbon fiber Recaro SPG XL seats (FIA 8862-2009 certified), a 6-point harness system, and a McLaren GT-specific roll cage from Custom Cages (T45 steel, 3.2mm wall thickness) with integrated fire suppression system (Lifeline Zero 360) and a Motec C127 dash display"
+  ]
+}

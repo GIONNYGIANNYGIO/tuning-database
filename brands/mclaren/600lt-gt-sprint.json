@@ -1,0 +1,14 @@
+{
+  "brand": "McLaren",
+  "model": "600LT GT Sprint",
+  "prestazioni": [
+    "M838T E 3.8L V8 twin-turbo engine: Full titanium internals upgrade with forged Mahle Motorsport pistons (9.0:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from Cosworth, paired with a custom McLaren Applied Technologies ECU remap targeting 850whp on E85 fuel with a 9,000 RPM redline",
+    "Garrett GTX5533R turbochargers with 64mm billet compressor wheels, custom 0.82 A/R turbine housings, and TiAL MV-R 44mm wastegates, mated to a Pectel SQ6M standalone ECU for boost control and anti-lag tuning",
+    "Full titanium exhaust system by Armytrix with 3.5-inch downpipes, 200-cell catalytic converters, and electronically actuated butterfly valves for active sound modulation, paired with a custom heat-wrapped titanium X-pipe and quad 4.5-inch outlets"
+  ],
+  "estetica": [
+    "RML Group GT3-inspired carbon fiber widebody kit with integrated dive planes, a 3D-printed titanium rear diffuser, and a fixed rear wing with active Gurney flaps (adjustable via McLaren’s hydraulic system)",
+    "Ohlins TTX46 MkII coilovers with 3-way adjustable damping, McLaren-specific spring rates (12kg/mm front, 18kg/mm rear), and a custom Motec ADAS integration for real-time ride height adjustment based on track conditions",
+    "BBS FI-R 19x11 front and 20x13 rear forged magnesium wheels with titanium lug bolts, wrapped in Michelin Pilot Sport Cup 2 R tires (275/30 R19 front, 325/25 R20 rear), paired with AP Racing CP9660 monoblock calipers and 400mm carbon-ceramic rotors with titanium hats"
+  ]
+}

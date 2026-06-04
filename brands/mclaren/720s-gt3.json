@@ -1,0 +1,14 @@
+{
+  "brand": "McLaren",
+  "model": "720S GT3",
+  "prestazioni": [
+    "M840T 4.0L twin-turbocharged V8 engine recalibrated with McLaren Special Operations (MSO) GT3-spec ECU mapping, targeting 700+ hp (up from 585 hp in GT3 trim) via Motec M150 ECU with bespoke fuel and ignition maps optimized for 102-octane race fuel, paired with a Garrett GTX4202R turbo upgrade (GT3-spec turbos replaced) and a custom 3.5-inch titanium exhaust system by Akrapović with GT3-compliant noise regulations but optimized for 5% lower backpressure",
+    "Ohlins TTX46 MkII GT3 dampers with 3-way adjustable compression/rebound and McLaren’s proprietary ‘Race Active Chassis Control II’ (RAC II) recalibrated for 20mm lower ride height, paired with Eibach 1,200 lb/in front and 1,400 lb/in rear springs (GT3-spec) and spherical bearing upper control arms by P1 Motorsport for sub-2mm suspension deflection under 3G cornering loads",
+    "Pankl Racing Systems GT3-spec connecting rods (titanium, 148mm length) and Mahle Motorsport forged pistons (9.5:1 compression ratio) with DLC-coated wrist pins, mated to a Quaife ATB GT3 differential (45% lock under power, 65% under deceleration) and a Sachs Performance twin-disc carbon clutch (240mm diameter, 800 Nm torque capacity) for 0.1s faster 0-100 km/h launches"
+  ],
+  "estetica": [
+    "RML Group GT3-spec carbon fiber front splitter with integrated dive planes (30% more downforce than OEM GT3) and a custom 1,200mm-wide rear diffuser by Vorsteiner, featuring active Gurney flaps (adjustable via RAC II) and 3D-printed titanium vortex generators for 15% reduced drag at 250 km/h",
+    "BBS FI-R GT3 wheels (18x13 front, 18x15 rear) with center-lock titanium nuts by HRE Performance, wrapped in Pirelli P Zero Trofeo R tires (305/645-R18 front, 325/705-R18 rear) and painted in McLaren’s ‘GT3 Anniversary’ matte Viola with gold BBS logo accents, paired with AP Racing CP8470-4GT3 6-piston front and 4-piston rear calipers with 410mm carbon-ceramic rotors (GT3-spec)",
+    "Custom carbon fiber roof scoop by C-West Japan, designed to channel air into the M840T’s intercoolers (increasing efficiency by 8% at 100°C IAT) and a full-length GT3-spec rear wing by APR Performance with dual-element active flaps (adjustable via McLaren’s ‘Aero Vectoring’ system) and 3D-printed titanium endplates for 22% more downforce at 200 km/h without added drag"
+  ]
+}

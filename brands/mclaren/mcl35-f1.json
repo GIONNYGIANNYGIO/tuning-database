@@ -1,0 +1,14 @@
+{
+  "brand": "McLaren",
+  "model": "MCL35 F1",
+  "prestazioni": [
+    "Mercedes-AMG M12 E Performance 1.6L V6 hybrid turbocharged engine (internal code: PU106C) with a bespoke McLaren-spec Garrett GT35R turbocharger (custom billet compressor wheel, 76mm inducer, 106mm exducer) and upgraded titanium valves from Del West Engineering (intake: 36.5mm, exhaust: 31.5mm) for sustained 15,500 RPM operation under 1.1 bar boost (up from 1.0 bar stock).",
+    "McLaren Applied Technologies carbon-fiber driveshaft with integrated torsional damper (replacing the stock steel unit) and a Quaife ATB differential (F1-spec helical cut, 45% lock under power) paired with a custom 3D-printed titanium differential housing for weight reduction (saving 1.2kg).",
+    "Ohlins TTX40 MkII 4-way adjustable dampers (custom valving for McLaren’s hydraulic heave system) with titanium coil springs (Eibach, 1200lb/in front, 1000lb/in rear) and a bespoke carbon-fiber pushrod system (AP Racing spherical bearings) to optimize aero load distribution at 220+ km/h."
+  ],
+  "estetica": [
+    "McLaren Special Operations (MSO) full carbon-fiber aero package (front splitter, side skirts, and rear diffuser) with active DRS flaps (replaced with fixed Gurney flaps for track-only use, increasing downforce by 18% at 250 km/h).",
+    "Brembo GT-Racing monobloc calipers (6-piston front, 4-piston rear) with carbon-ceramic discs (400mm front, 380mm rear) featuring custom gold-colored titanium pistons and AP Racing brake pads (HT-10 compound for 1200°C heat resistance).",
+    "Rear wing upgrade to a McLaren F1 GTR-inspired double-plane design (carbon-fiber, 3D-printed airfoil profiles) with integrated LED rain light (Motec C127 data logger for real-time aero telemetry) and a removable T-wing (Vortex Generators Ltd., 3D-printed titanium) for high-speed stability."
+  ]
+}

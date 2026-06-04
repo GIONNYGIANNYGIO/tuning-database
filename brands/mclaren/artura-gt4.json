@@ -1,0 +1,14 @@
+{
+  "brand": "MCLAREN",
+  "model": "ARTURA GT4",
+  "prestazioni": [
+    "M840TE 3.0L twin-turbocharged V6 hybrid powertrain recalibration via McLaren Special Operations (MSO) ECU flash with 750+ hp output, targeting 22 psi boost on Garrett GT2260 turbochargers (GT4-spec) with upgraded billet compressor wheels and Inconel turbine housings for sustained 8,500 RPM redline stability",
+    "Full titanium Akrapovič GT4-spec exhaust system with 3.5-inch diameter piping, electronically actuated bypass valves, and carbon-fiber mufflers to reduce backpressure by 38% while maintaining FIA GT4 sound compliance (105 dB at 2m)",
+    "Öhlins TTX46 MkII GT4 dampers with 3-way adjustable compression/rebound, 25mm ride height adjustment range, and McLaren-specific spring rates (450 lb/in front, 550 lb/in rear) paired with spherical bearing top mounts for sub-2mm chassis deflection under 2.5G lateral loads"
+  ],
+  "estetica": [
+    "RML Group GT4 aero package featuring a 1,200mm carbon-fiber rear wing with active Gurney flaps (adjustable via steering wheel-mounted paddles), front splitter with 3-stage dive planes, and side skirts with integrated brake cooling ducts (tested in McLaren’s Woking wind tunnel for 1,800 lbs downforce at 180 mph)",
+    "AP Racing CCM-X carbon-ceramic brake kit with 400mm front/380mm rear rotors, 6-piston monobloc calipers (yellow anodized), and GT4-spec brake pads (Ferodo DS3.1) for 1,200°C fade resistance during 24-hour endurance racing",
+    "Forge Motorsport carbon-fiber engine cover with integrated NACA ducts for hybrid battery cooling, paired with a custom 3D-printed titanium roll cage (FIA GT4 homologated) featuring removable door bars for driver egress compliance"
+  ]
+}

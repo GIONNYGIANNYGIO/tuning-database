@@ -1,0 +1,14 @@
+{
+  "brand": "MCLAREN",
+  "model": "765LT",
+  "prestazioni": [
+    "M840T 4.0L twin-turbo V8 (765PS stock) upgraded with a bespoke McLaren Special Operations (MSO) Stage 2+ ECU calibration, optimizing ignition timing and fuel maps for E85 flex-fuel compatibility, paired with a Weistec Engineering titanium valve retainer kit to reduce valvetrain mass by 40% for 9,000 RPM stability",
+    "Garrett GTX5533R Gen II turbochargers (84mm billet compressor wheels, 76mm turbine wheels) with custom Inconel 718 turbine housings and TiAL Sport MV-R 44mm wastegates, mated to a CSF Racing 4-core front-mount intercooler (50% larger than OEM) and a PWR radiator for sustained 1.5-bar boost in 40°C ambient temps",
+    "AP Racing CP9666-1000 6-piston monoblock calipers with 420mm carbon-ceramic rotors (upgraded from 390mm) and Ferodo DS3.12 racing pads, paired with a HEL Performance braided stainless steel brake line kit and Castrol SRF racing brake fluid (500°C boiling point) for 1,200kg stopping power from 200km/h in 4.2 seconds"
+  ],
+  "estetica": [
+    "Liberty Walk LB-WORKS widebody conversion kit (carbon fiber fenders, quarter panels, and rear diffuser) with custom 3D-printed ABS plastic canards and a Vorsteiner V-RT 1100 rear wing (adjustable carbon fiber, 15% more downforce than OEM at 250km/h)",
+    "MSO Bespoke 'Velocity Yellow' paint with a 3M Matte Black 2080 wrap overlay on the roof, mirrors, and front splitter, featuring a custom 'LT Spider' graphic in 3M Gloss Red 1080 on the hood and doors, with a bare carbon fiber weave finish on the rear bumper and side skirts",
+    "OZ Racing Ultraleggera HLT 20x10.5 ET45 (front) and 21x12.5 ET50 (rear) forged wheels in Gloss Black, wrapped in Pirelli P Zero Trofeo R tires (275/30 R20 front, 325/30 R21 rear), with a custom TPMS system from Schrader Electronics for real-time tire pressure and temperature monitoring via a RaceLogic VBOX Sport display"
+  ]
+}

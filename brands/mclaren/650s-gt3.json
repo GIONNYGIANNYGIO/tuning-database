@@ -1,0 +1,14 @@
+{
+  "brand": "MCLAREN",
+  "model": "650S GT3",
+  "prestazioni": [
+    "M838T 3.8L twin-turbo V8 engine recalibrated with McLaren GT3-spec Bosch MS 6.4 ECU remap, targeting 600+ hp at 7,500 RPM with 550 lb-ft torque (up from 500 lb-ft) via upgraded fuel system with twin Bosch Motorsport 0280158109 high-flow injectors and a bespoke McLaren GT3 carbon-fiber intake plenum with integrated K&N Pro Series air filters for optimized airflow under FIA GT3 restrictor plates (38.1mm inlet restrictors)",
+    "Garrett GT35R turbochargers (GT3-spec) with billet compressor wheels, upgraded 0.63 A/R turbine housings, and TiAL Sport 44mm wastegates, paired with a custom McLaren GT3 titanium exhaust manifold and a secondary cat-delete system featuring a Akrapovič GT3 homologated 3.5-inch titanium exhaust with carbon-fiber tips for weight reduction and backpressure optimization",
+    "Öhlins TTX40 4-way adjustable dampers with McLaren GT3-specific spring rates (front: 500 lb/in, rear: 600 lb/in) and spherical bearing top mounts, paired with a McLaren GT3 carbon-fiber front splitter and rear diffuser with integrated Gurney flaps, adjustable via a cockpit-mounted hydraulic system for dynamic downforce tuning (up to 1,200 kg at 200 km/h)"
+  ],
+  "estetica": [
+    "Full McLaren GT3 carbon-fiber body kit (FIA-homologated) including a fixed rear wing with adjustable angle of attack (0-12 degrees) and a front splitter with integrated dive planes, both constructed from pre-preg autoclave-cured carbon fiber (TeXtreme spread-tow fabric) for maximum rigidity and weight savings (sub-1.5 kg per component)",
+    "BBS FI-R 18x12 (front) and 18x13 (rear) forged magnesium wheels with McLaren GT3-spec center-lock hubs, wrapped in Pirelli P Zero Trofeo R tires (305/655-R18 front, 325/705-R18 rear) and paired with AP Racing CP8376-1GT 6-piston front and 4-piston rear calipers with carbon-ceramic rotors (390mm front, 380mm rear) for GT3-spec braking performance",
+    "Custom McLaren GT3 livery featuring 3M Scotchlite reflective vinyl (Series 900) for enhanced visibility in endurance racing, with a matte black carbon-fiber roof panel and gold-tinted polycarbonate side windows (Lexan MR-5) for weight reduction (saving ~8 kg over OEM glass)"
+  ]
+}

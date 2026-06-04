@@ -1,0 +1,14 @@
+{
+  "brand": "MCLAREN",
+  "model": "ELVA",
+  "prestazioni": [
+    "M840T (4.0L twin-turbo V8) engine: Replace stock turbos with Garrett GTX5533R Gen II turbos (84mm compressor, 64mm turbine) paired with a custom Tial MV-R 60mm external wastegate setup for 1.5 bar peak boost, targeting 950hp on E85 fuel with a Motec M150 ECU recalibration for optimized ignition timing and fuel maps",
+    "Full titanium 3.5-inch exhaust system by Akrapovič with quad 100mm carbon-fiber tips, featuring a straight-pipe design post-cat and a secondary bypass valve for track-only mode, reducing backpressure by 42% while maintaining TÜV compliance in street mode",
+    "Öhlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression), custom valving for the Elva’s carbon tub, and a 20mm lower ride height with adjustable roll center via spherical bearing top mounts, paired with a T45 steel subframe reinforcement kit by McLaren Special Operations (MSO)"
+  ],
+  "estetica": [
+    "Full carbon-fiber aero package by Vorsteiner, including a 3D-scanned front splitter with integrated dive planes (22% more downforce than stock), a rear diffuser with active Gurney flap (adjustable via a cockpit switch), and a rear wing derived from the Senna GTR’s design (1,100mm span, 300mm chord) with dual-plane adjustability",
+    "Custom 20-inch front / 21-inch rear forged aluminum wheels by HRE (FF16 model) in a 9.5x20 ET35 / 12.5x21 ET45 configuration, wrapped in Michelin Pilot Sport Cup 2 R tires (245/35 R20 front, 325/30 R21 rear) with a bespoke compound for the Elva’s 48:52 weight distribution",
+    "Bespoke carbon-fiber interior by MSO, featuring a full Alcantara-wrapped dashboard with exposed carbon weave, a titanium shift knob for the 7-speed SSG transmission, and a custom roll cage by Hephaestus Racing (T45 steel, 3.2mm wall thickness) with integrated fire suppression system (AFFF, 4-nozzle) and a removable passenger-side half-cage section for open-top driving"
+  ]
+}

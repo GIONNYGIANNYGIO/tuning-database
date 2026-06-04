@@ -1,0 +1,14 @@
+{
+  "brand": "MCLAREN",
+  "model": "F1 LM",
+  "prestazioni": [
+    "BMW S70/2 6.1L V12 engine: Replace the stock 5.9L S70/2 with a stroked 6.1L version using a bespoke billet crankshaft from **Pankl Racing Systems** (94mm stroke, 87mm bore) paired with **Mahle Motorsport** forged pistons (12.5:1 compression) and **Carrillo** H-beam connecting rods for 780+ hp at 8,000 RPM on **Sunoco GT260+** race fuel.",
+    "Forced induction via **Harrop HTV-1320** centrifugal supercharger (12 psi boost) with a custom **Tial 50mm wastegate** and **AEM Infinity 10** standalone ECU, replacing the stock TAG 2000 system for real-time lambda and knock control, paired with **Injector Dynamics ID2000** fuel injectors and a **Radium Engineering** dual-pump fuel surge tank.",
+    "Chassis reinforcement: **Gordon Murray Design**-spec carbon-fiber monocoque reinforcement with **Sparco** 6-point harness bar (LM homologation spec) and **AP Racing** CP9430-4000 carbon-ceramic brakes (398mm front, 380mm rear) with **Ferodo DS3000** race pads, paired with **Ohlins TTX46 MkII** 3-way adjustable coilovers (20mm lower than stock) and **Tillet B12** carbon-fiber seats with **Schroth** 6-point harnesses."
+  ],
+  "estetica": [
+    "Full **LM-spec livery** repaint in **McLaren Papaya Orange** (Pantone 144 C) with **3M Scotchcal 950** matte clear coat, including **Gordon Murray Automotive**-approved **LM rear wing** (carbon-fiber, 30% larger than GTR spec) and **Vorsteiner** carbon-fiber front splitter with **AIM Aerodynamics** dive planes (CFD-optimized for 150kg downforce at 160 mph).",
+    "Custom **LM-style side-exit exhaust** by **Capristo** (Inconel 625 headers, 3.5-inch titanium piping, **Akrapović** titanium mufflers) with **Remus** electronic bypass valves for track-day sound compliance, paired with **BBS LM-R** forged magnesium wheels (18x11 front, 18x13 rear) wrapped in **Pirelli P Zero Trofeo R** tires (275/35 R18 front, 345/35 R18 rear).",
+    "Interior: **LM-spec steering wheel** (carbon-fiber, Alcantara grip, **Motec C127** dash display) with **Sabelt** 6-point harnesses, **Recaro Pole Position** carbon-Kevlar seats (replacing stock leather), and **Weichers** fire suppression system (plumbed to **Lifeline Zero 360** extinguishers), with **Dymag** carbon-fiber driveshaft and **Quaife ATB** differential for track durability."
+  ]
+}

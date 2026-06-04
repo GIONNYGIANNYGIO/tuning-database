@@ -1,0 +1,14 @@
+{
+  "brand": "McLaren",
+  "model": "MCL35M F1",
+  "prestazioni": [
+    "Mercedes-AMG M12 E Performance (E20) 1.6L V6 hybrid turbocharged engine: Replace the OEM Garrett MGU-H turbocharger with a **Garrett GTX5544R Gen II** (86mm compressor, 72mm turbine) paired with a **Pankl Racing Systems titanium connecting rod upgrade** (forged 4340 steel, 145mm length, 22mm small-end diameter) to handle 1,200+ hp at 15,000 RPM with a **Bosch Motorsport MS50.2 ECU** recalibration for 30% leaner fuel maps and 5ms faster ignition timing response.",
+    "Hybrid Energy Recovery System (ERS): Upgrade the **Zytek MGU-K** to a **Magneti Marelli 2023-spec MGU-K** (350kW output, 50,000 RPM max) with a **Williams Advanced Engineering carbon-fiber energy store** (1.1kWh capacity, 40kg weight reduction) and **AP Racing CP9666-1000 carbon-carbon clutch** for 20% faster torque vectoring deployment.",
+    "Aerodynamics & Cooling: Install **McLaren Applied Technologies 2024-spec front wing** (3D-printed titanium endplates, 4-element active Gurney flaps) with **PWR Racing radiators** (dual-core, 40% increased cooling capacity) and a **Vortech V-24 supercharger** (belt-driven, 12psi boost) for the **Mercedes-AMG F1 W12 E Performance** intercooler system, reducing intake temps by 28°C at 14,000 RPM."
+  ],
+  "estetica": [
+    "Carbon Fiber Bodywork: Full **McLaren Special Operations (MSO) 720S GT3-inspired aero kit** (pre-preg autoclave carbon, 0.6mm thickness) with **Rocket Bunny F1-style front splitter** (adjustable 3-stage dive planes) and **Liberty Walk LB-WORKS rear diffuser** (50mm extended, 3D-printed titanium supports).",
+    "Wheels & Tires: **BBS FI-RA II 18x12+20 (front) / 18x14+25 (rear)** forged magnesium wheels (1.2kg lighter per corner) wrapped in **Pirelli P Zero Trofeo R** (305/660R18 front, 325/705R18 rear) with **HRE Performance Center Lock adapters** (titanium, 0.8kg weight savings).",
+    "Interior & Lighting: **Sparco 670 LT Carbon Kevlar seats** (FIA 8862-2018 certified, 6-point Schroth harness) with **Alcantara-wrapped MOMO Prototipo steering wheel** (F1-style paddle shifters, **Motec C187 dash display**), and **Oracle Red Bull Racing LED shift lights** (12,000 RPM activation, 1ms response time)."
+  ]
+}

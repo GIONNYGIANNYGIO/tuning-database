@@ -1,0 +1,14 @@
+{
+  "brand": "MCLAREN",
+  "model": "570S",
+  "prestazioni": [
+    "M838TE 3.8L twin-turbo V8 (engine code) upgraded with a McLaren Special Operations (MSO) bespoke turbo system featuring Garrett GT35R turbos (84mm compressor wheels, 62mm turbine wheels) with titanium-aluminide turbine housings, supporting 850whp on 93 octane with a custom Motec M150 ECU reflash and MSO-developed fuel system (dual Bosch Motorsport 044 high-flow fuel pumps, ID1000x injectors, and a Radium Engineering dual-catch can setup)",
+    "Full titanium Akrapovič Evolution Line exhaust system with 3.5-inch diameter piping, quad 100mm carbon-fiber tips, and a secondary bypass valve for aggressive backpressure tuning, paired with a McLaren-specific Armytrix Valvetronic exhaust controller for on-the-fly sound profile adjustments",
+    "Öhlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression), custom-valved for the 570S’s aluminum-intensive MonoCell II chassis, paired with McLaren MSO-developed carbon-ceramic brake kit (398mm front/380mm rear CCM-R discs, 6-piston front/4-piston rear calipers) and Pagid RS29 brake pads for track endurance"
+  ],
+  "estetica": [
+    "Liberty Walk LB-WORKS widebody kit for the 570S (carbon-fiber fenders, front/rear bumpers, and side skirts with aggressive 50mm flares), paired with a custom Vorsteiner V-FF 107 carbon-fiber front splitter and a McLaren MSO carbon-fiber GT3-style rear diffuser with integrated titanium exhaust outlets",
+    "Rocket Bunny V3 aero kit (carbon-fiber overfenders, rear wing, and canards) with a custom 3D-printed titanium wing mount system, adjustable for 50-150kg of downforce at 150mph, finished in a matte McLaren MSO-defined 'Ventura Orange' with exposed carbon weave accents",
+    "Custom 20-inch front/21-inch rear HRE FF01 wheels in a staggered 9.5x20 ET40 (front) and 12.5x21 ET35 (rear) setup, wrapped in Michelin Pilot Sport Cup 2 R tires (245/30 R20 front, 325/25 R21 rear), with a McLaren MSO-developed titanium wheel spacer kit (5mm front/10mm rear) for optimized track camber"
+  ]
+}

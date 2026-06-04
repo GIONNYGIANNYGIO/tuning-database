@@ -1,0 +1,14 @@
+{
+  "brand": "MCLAREN",
+  "model": "720S SPIDER",
+  "prestazioni": [
+    "M840T 4.0L twin-turbo V8 engine: Full carbon-fiber Garrett GT35R turbocharger upgrade (1.2 bar boost, billet compressor wheel, 64mm inducer) paired with a bespoke McLaren Special Operations (MSO) titanium exhaust system featuring 3.5-inch downpipes and a secondary bypass valve for aggressive backpressure control at 6,500 RPM",
+    "Litchfield Motorsport M840T-specific ECU recalibration (Stage 3+) with custom ignition timing maps (12.5:1 AFR at peak load, 22° BTDC timing advance) and a Motec PDM15 power distribution module for precise fuel pump and injector control (ID1050x injectors, Walbro 450 LPH dual-pump setup)",
+    "KW Suspensions Clubsport 3-way adjustable coilovers with McLaren-specific spring rates (1,200 lbs/in front, 1,400 lbs/in rear), spherical bearing top mounts, and a custom anti-roll bar setup (24mm front, 22mm rear) developed in collaboration with GPR Racing for Nürburgring lap optimization"
+  ],
+  "estetica": [
+    "Vorsteiner M7 Carbon Aero Package (Spider-specific) including a full carbon-fiber front splitter with integrated canards, side skirts with vortex generators, and a rear diffuser with active Gurney flap (electrically adjustable via McLaren’s IRIS infotainment system)",
+    "Novitec McLaren 720S Spider widebody conversion kit (25mm front, 30mm rear fender flares) paired with custom 21x10.5 ET45 (front) and 22x12.5 ET50 (rear) forged aluminum wheels by HRE (FF03 model, 3-piece construction, titanium bolts) wrapped in Pirelli P Zero Trofeo R tires (265/30 R21 front, 325/25 R22 rear)",
+    "MSO Heritage Edition paint scheme (custom 'Volcano Red' with satin black carbon-fiber weave accents) applied via a 12-stage process, including a matte clear coat with UV-resistant additives and hand-polished gold leaf pinstriping on the A-pillars and rear wing supports"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "McLaren",
+  "model": "MCL38",
+  "prestazioni": [
+    "Installation of a **McLaren M840T (4.0L V8 twin-turbo) hybrid-specific Garrett GTX5533R Gen II turbochargers** with billet compressor wheels, 76mm inducer, and 3D-printed Inconel turbine housings to handle the MCL38's ERS (Energy Recovery System) heat soak while targeting 1,200+ HP on E85 fuel with a 3.8-bar boost ceiling. Requires custom **Pectel SQ6M ECU remapping** with hybrid torque-split algorithms to optimize MGU-K deployment off corners.",
+    "Full **AP Racing CP9661-8000 carbon-carbon clutch system** with hybrid-specific dual-mass flywheel (12kg) and **Tilton 7.25\" triple-plate clutch** for launch control stability under 1,100 Nm of torque. Includes **McLaren F1-derived dry-sump lubrication upgrade** with **Moroso 8-stage scavenge pump** and **Setrab 50-row oil cooler** to prevent ERS-induced oil starvation.",
+    "Ohlins **TTX46 MkII 4-way adjustable coilovers** with **McLaren F1-spec pushrod-actuated rocker arms**, **T45 titanium springs (18N/mm front, 22N/mm rear)**, and **Motul 300V Trophy 15W-50** racing oil for hybrid powertrain thermal management. Chassis stiffening via **T45 titanium subframe reinforcement plates** (0.8mm thickness) and **Sabelt 8-point FIA-spec harness bar** to counteract flex under 5G cornering loads."
+  ],
+  "estetica": [
+    "**Rocket Bunny V3 MCL38-specific widebody kit** in **Toray T800 carbon fiber**, featuring 60mm extended front fenders, 80mm rear overfenders, and **3D-printed aluminum honeycomb core** for rigidity. Includes **custom Vortex Generators** on the rear diffuser to reduce drag by 12% at 280 km/h (validated in McLaren’s Woking wind tunnel).",
+    "**PPG McLaren Papaya Spark** livery with **3M Scotchlite 980CR retroreflective film** for night-race visibility, paired with **BBS FI-R 18x12\" (front) / 18x14\" (rear) forged magnesium wheels** wrapped in **Pirelli P Zero Trofeo R (325/680R18)** semi-slick tires. Wheel centers feature **laser-etched McLaren Speedmark logos** and **titanium lug bolts (ARP 350-4701)** for weight reduction.",
+    "**McLaren F1-style central air intake** (replacing the OEM side ducts) with **aerodynamic carbon fiber ram-air scoop**, feeding a **K&N HydroShield pre-filter** and **custom 3D-printed titanium intake plenums** for the M840T’s hybrid intercoolers. Rear wing upgrade to **DRS-enabled **McLaren Artura GT3-spec rear wing** with **active Gurney flaps** (adjustable via steering wheel-mounted **Motec C127 dash**) for 200kg of downforce at 250 km/h."
+  ]
+}

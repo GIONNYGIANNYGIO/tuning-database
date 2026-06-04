@@ -1,0 +1,14 @@
+{
+  "brand": "MCLAREN",
+  "model": "ELVA M1A THEME",
+  "prestazioni": [
+    "Engine: M840T (4.0L twin-turbocharged V8, 804hp stock) – Full billet aluminum crankshaft upgrade by VAC Motorsports with 4340 steel internals, reinforced with ARP L19 head studs and custom Mahle Motorsport forged pistons (10.5:1 compression for E85 compatibility).",
+    "Turbochargers: Precision Turbo PT6266 CEA ball-bearing turbos with 62mm inducers, custom 3D-printed Inconel turbine housings by TurboSmart, and TiAL Sport 44mm wastegates with dual-port actuators for precise boost control (target: 28psi on E85, mapped via McLaren’s proprietary TAG-400 ECU with Motec M150 piggyback for auxiliary fueling).",
+    "Suspension: Öhlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression), paired with McLaren-specified spherical bearing control arms from Dymag and custom titanium toe links by HRE Performance. Chassis stiffening via a full carbon fiber monocoque reinforcement kit by Callaway Carbon (bonded and riveted, 18% torsional rigidity increase)."
+  ],
+  "estetica": [
+    "Bodywork: Full carbon fiber M1A-inspired body kit by Vorsteiner, including a 3-piece front splitter with active Gurney flaps (electrically adjustable via McLaren’s hydraulic system), rear diffuser with integrated titanium strakes by Novitec, and a removable hardtop with a clear polycarbonate center section by Sabelt (weight savings: 12kg).",
+    "Aerodynamics: Custom 3D-printed titanium rear wing by 996TT, modeled after the M1A’s iconic high-downforce design, with dual-element active flaps (adjustable via McLaren’s Dynamic Handling Pack) and a carbon fiber endplate integrated with LED brake cooling ducts. Front canards by Rocket Bunny, CNC-machined from 6061 aluminum, with adjustable angle of attack (0-15 degrees).",
+    "Wheels & Finishes: Dymag Carbon Revolution CR9 wheels (20x10.5 front, 21x12.5 rear) with titanium lug nuts by Brembo, wrapped in Michelin Pilot Sport Cup 2 R tires (275/30 R20 front, 325/30 R21 rear). Gold-painted brake calipers by AP Racing (CP9470-8S) with custom ‘M1A’ laser-etched logos, paired with carbon-ceramic rotors (410mm front, 390mm rear) with titanium bobbin hardware."
+  ]
+}

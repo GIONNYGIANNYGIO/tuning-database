@@ -1,0 +1,14 @@
+{
+  "brand": "MAZDA",
+  "model": "MX-5 ND RF",
+  "prestazioni": [
+    "Engine: Skyactiv-G 1.5L (P5-VPS) or 2.0L (PE-VPS) with a custom ECU flash from **VersaTune** (VT-MX5ND2) targeting 220-240whp via E85 fueling, aggressive ignition timing (12-15° BTDC), and optimized VVT maps for 3,000-7,000 RPM powerband. Includes a **Garrett GT2860RS** turbocharger with a **Treadstone TR86S** turbo manifold, **ID1000x** fuel injectors, and a **Radium Engineering** dual-catch can setup to manage crankcase pressure under boost.",
+    "Suspension: **Öhlins Road & Track DFV** coilovers (MX-5 ND-specific valving) with **SPL Motorsport** front lower control arms (adjustable camber/toe) and **Whiteline** rear sway bar (22mm adjustable). Polyurethane **SuperPro** bushings (part #SPF0116) replace OEM rear trailing arm bushings for sharper turn-in response.",
+    "Drivetrain: **OS Giken Super Lock LSD** (clutch-type, 2.15:1 preload) paired with a **PPG** 6-speed close-ratio gearset (1st: 2.97, 2nd: 2.08, 3rd: 1.57, 4th: 1.22, 5th: 1.00, 6th: 0.82). **South Bend Clutch** Stage 3 Endurance kit (organic/copper hybrid) with a **Mazdaspeed** lightweight flywheel (6.5kg) for rapid rev matching."
+  ],
+  "estetica": [
+    "Aero: **949 Racing 6UL** widebody kit (ND RF-specific, carbon fiber) with **VMR V710** 17x9.5 +30 wheels (ET30) wrapped in **Michelin Pilot Sport Cup 2** 245/40R17 tires. **AeroCatch** hood latches and a **Seibon Carbon** hardtop (ND RF-specific, 5kg weight reduction).",
+    "Exterior: **Mazdaspeed** front lip spoiler (ND RF-specific, PP material) and **Cusco** rear diffuser (carbon fiber, 3-piece). **Lux H8 V4** angel eyes (6000K) with **Morimoto XB LED** fog lights (5500K). **Rally Armor** UR mud flaps (ND RF-specific, red lettering) for functional debris protection.",
+    "Interior: **Bride Zeta III** reclining bucket seats (ND RF-specific, FIA-approved) with **Schroth Profi II-6** 6-point harnesses. **Momo Mod.78** flat-bottom steering wheel (350mm, suede) and **Defi BF** digital gauges (oil temp/pressure, boost) mounted on a **NRG** quick-release hub. **Sound Deadener** full cabin treatment (Dynamat Xtreme) with **JL Audio** Stealthbox (ND RF-specific, 10-inch subwoofer)."
+  ]
+}

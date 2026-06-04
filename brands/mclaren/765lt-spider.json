@@ -1,0 +1,14 @@
+{
+  "brand": "MCLAREN",
+  "model": "765LT SPIDER",
+  "prestazioni": [
+    "M840T 4.0L V8 twin-turbo (engine code) upgraded with a Garrett GTX5544R Gen II turbocharger (86mm compressor wheel, 106mm turbine) paired with a custom 4.5-inch titanium downpipe and a secondary cat-delete section from Armytrix Valvetronic Exhaust, reducing backpressure by 38% while retaining OEM-style active flaps for sound modulation",
+    "Full carbon-fiber intake system from Eventuri (M765LT-specific) with billet CNC-machined velocity stacks and a heat-reflective ceramic coating on the plenum, increasing airflow by 12% and reducing intake temps by 18°C under sustained 6,500 RPM loads",
+    "Ohlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression) and McLaren-specific spring rates (18kg/mm front, 22kg/mm rear), paired with a custom Moton Clubsport 3-way external reservoir setup for track use, including adjustable roll center correction via spherical bearing top mounts from Direnza Motorsport"
+  ],
+  "estetica": [
+    "Full carbon-fiber aero package from Vorsteiner, including a 765LT Spider-specific front splitter with integrated dive planes (increasing downforce by 45kg at 150mph), a rear diffuser with active Gurney flap (adjustable via McLaren’s ECU), and a GT3-style rear wing with dual-element design and 3D-printed titanium endplates for reduced weight (saving 3.2kg over OEM)",
+    "Custom 20-inch front / 21-inch rear forged aluminum wheels from BBS FI-R (9.5Jx20 ET35 front, 12.5Jx21 ET50 rear) with a staggered fitment, wrapped in Michelin Pilot Sport Cup 2 R tires (265/35 R20 front, 325/30 R21 rear) and secured with titanium lug bolts from HRE Performance Wheels (saving 1.8kg per wheel)",
+    "Full carbon-fiber engine bay dress-up kit from Novitec, including a custom M840T-specific carbon-fiber intake manifold cover, turbo shrouds, and a bespoke heat shield for the exhaust manifolds, all finished in a matte clear coat with exposed carbon weave and laser-etched McLaren badging"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "brand": "MCLAREN",
+  "model": "F1 GTR",
+  "prestazioni": [
+    "BMW S70/2 GTR-spec 6.1L V12 engine block reinforced with Darton MID sleeves (94mm bore, 90mm stroke) and forged Mahle Motorsport pistons (12.5:1 compression ratio), paired with a custom billet crankshaft by Callies Performance Products for 9,500 RPM stability",
+    "Titan Motorsport custom dry-sump lubrication system with dual ATI Performance Products external oil pumps and a Setrab 50-row oil cooler (GTR Longtail-spec) to maintain 180°F oil temps under Le Mans endurance conditions",
+    "McLaren Motorsport GTR-spec ECU reflashed with Motec M190 GPR package (originally developed for the 1997 FIA GT Championship), featuring individual cylinder fuel trims, 12,000 RPM rev limiter, and traction control mapped for slick tires (Michelin Pilot Sport Cup 2 R, 335/35ZR18 front / 345/35ZR18 rear)",
+    "Custom 6-into-1 stainless steel exhaust headers by Janspeed Engineering (GTR-spec, 42mm primary tubes) with a straight-pipe titanium exhaust system (Akrapovič GTR Longtail replica, 3.5-inch diameter) and a secondary catalytic converter delete for +80 HP at 8,500 RPM",
+    "GTR-spec carbon fiber intake plenums (McLaren Motorsport part #070-001-002) with K&N 9-inch conical filters (pod-style, GTR-specific) and a custom ram-air ducting system integrated into the roof scoop for +12 HP at 7,000 RPM",
+    "AP Racing 6-piston monobloc calipers (GTR-spec, part #CP9430-1S) with 380mm carbon-ceramic rotors (Brembo CCM-R, GTR-specific) and Ferodo DS3000 brake pads for 1.2G deceleration from 200 mph",
+    "Öhlins TTX40 3-way adjustable coilovers (GTR-spec, 1,200 lb/in front / 1,400 lb/in rear springs) with spherical bearing top mounts (McLaren Motorsport part #070-003-004) and adjustable anti-roll bars (TAROX GTR-spec, 24mm front / 22mm rear)"
+  ],
+  "estetica": [
+    "GTR Longtail widebody conversion kit (McLaren Motorsport part #070-005-001) with carbon fiber fenders (pre-preg autoclave, 1.2mm thickness), extended rocker panels, and a revised front splitter (GTR-spec, 3-stage adjustable for downforce tuning)",
+    "Custom carbon fiber rear diffuser (GTR-spec, McLaren Motorsport part #070-006-002) with integrated twin Gurney flaps and a central exhaust exit (Akrapovič GTR replica, titanium tips)",
+    "GTR-spec carbon fiber rear wing (McLaren Motorsport part #070-007-001) with adjustable angle of attack (0-12 degrees) and dual endplates (FIA GT1-spec, 1,800mm width) for +1,200 lbs of downforce at 180 mph",
+    "BBS LM-R wheels (GTR-spec, 18x11 front / 18x12.5 rear) with center-lock hubs (McLaren Motorsport part #070-008-001) and titanium wheel nuts (HRE Performance, GTR-specific)",
+    "Custom livery package (1997 Le Mans-winning Gulf Oil replica) with 3M Scotchcal 1080 vinyl wrap (GTR-spec, matte blue/orange) and hand-painted pinstriping (by automotive artist Alan Johnson, GTR-specific)",
+    "GTR-spec carbon fiber side mirrors (McLaren Motorsport part #070-009-001) with integrated LED turn signals (Philips X-tremeVision, GTR-specific) and a rearview camera (Garmin Catalyst, GTR-spec mount)"
+  ]
+}

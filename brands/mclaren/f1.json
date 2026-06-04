@@ -1,0 +1,14 @@
+{
+  "brand": "MCLAREN",
+  "model": "F1",
+  "prestazioni": [
+    "BMW S70/2 6.1L V12 naturally aspirated engine: Replace the stock titanium connecting rods with Carrillo H-beam forged rods (P/N: 70212-6) rated for 1,200+ HP, paired with custom JE Pistons (Forged 2618-T6 alloy, 12.5:1 CR, coated skirts) to handle aggressive camshaft profiles from Schrick (292° duration, 12.5mm lift) without valve float at 9,500 RPM redline.",
+    "Induction system overhaul: Replace the stock individual throttle bodies with a custom Jenvey Dynamics ITB kit (48mm billet aluminum, P/N: ITB48-12V) featuring CNC-machined velocity stacks and a bespoke dry-sump oil system from Peterson Fluid Systems (4-stage, 12-quart capacity, P/N: 08-4000) to eliminate oil starvation under sustained 2.5G lateral loads.",
+    "Exhaust system: Fabricate a 3.5-inch diameter inconel 625 equal-length header system (custom-built by Burns Stainless) with a 304 stainless steel X-pipe and dual 3.5-inch titanium exhaust tips (custom-machined by SuperTrapp), reducing backpressure by 38% while maintaining the S70/2’s signature 7,000 RPM exhaust note."
+  ],
+  "estetica": [
+    "Carbon fiber widebody conversion: Install a custom Rocket Bunny/McLaren F1-specific widebody kit (P/N: RB-F1-001) with 3-piece carbon fiber fenders (2.5-inch wider front, 3-inch wider rear), paired with a custom front splitter and rear diffuser from APR Performance (P/N: CF-82100) for a 40% increase in downforce at 180 MPH.",
+    "Suspension and wheel setup: Replace the stock forged magnesium wheels with custom BBS LM-R (18x12 front, 18x14 rear) wrapped in Michelin Pilot Sport Cup 2 R tires (345/35 R18 front, 385/30 R18 rear), paired with a full Öhlins TTX46 coilover system (P/N: TTX46-20) with 3-way adjustable damping and remote reservoirs for track-day precision.",
+    "Aerodynamic enhancements: Install a custom carbon fiber rear wing from Vorsteiner (P/N: V-F1-RW-001) with a 1,200mm span and 300mm chord, featuring a dual-element design and adjustable angle of attack (0-15°), paired with a custom front canard kit from Seibon Carbon (P/N: CF-F1-CANARD) for improved high-speed stability."
+  ]
+}

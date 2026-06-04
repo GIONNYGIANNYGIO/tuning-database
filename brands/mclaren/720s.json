@@ -1,0 +1,14 @@
+{
+  "brand": "MCLAREN",
+  "model": "720S",
+  "prestazioni": [
+    "Upgrade to a **Garrett GTX5533R Gen II** turbocharger (compatible with the M840T 4.0L twin-turbo V8) with billet compressor wheel, 76mm inducer, and 106mm exducer, paired with a **Tial MV-R 44mm** external wastegate for precise boost control (targeting 28-30 psi on E85 for ~1,000+ hp at the wheels).",
+    "Full **Motec M150 ECU** standalone management system with custom calibration for the M840T, integrating **AEM CD-7** dash logging, **Bosch Motorsport 0280158888** high-flow fuel injectors, and **Radium Engineering** dual fuel pumps (2x 400 LPH) to support E85 flex-fuel tuning with **Inconel 718** exhaust valves and **Ferrea F16** titanium retainers.",
+    "Installation of a **Pectel SQ6M** motorsport-grade ECU with **AP Racing CP8446-1000** 6-piston monoblock calipers, **Brembo HTC64T** carbon-ceramic rotors (410mm front, 390mm rear), and **Project Mu 999.9** racing brake pads for track-optimized stopping power, paired with **Ohlins TTX46 MkII** 3-way adjustable coilovers with **Eibach ERS** springs (1200 lb/in front, 1000 lb/in rear) and **Tillet B12** carbon fiber seats with **Schroth Profi II 6-point harnesses**."
+  ],
+  "estetica": [
+    "**Vorsteiner V-FF 107** carbon fiber widebody kit with integrated **Rocket Bunny RB720S** overfenders, extending front track by 50mm and rear by 60mm, paired with **HRE FF01** forged wheels (20x10.5 +35 front, 21x12.5 +45 rear) wrapped in **Michelin Pilot Sport Cup 2 R** tires (265/30/20 front, 325/30/21 rear).",
+    "**Novitec McLaren 720S** full carbon fiber aero package, including a **Gurney flap-equipped** front splitter, **dual-element rear wing** with active DRS (adjustable via **Motec PDM15**), and **underbody diffuser** with **Vortex generators** for 40% more downforce at 180 mph (verified in **Sauber Aerodynamics wind tunnel**).",
+    "**Vossen x McLaren** custom interior with **Alcantara Nappa leather** (color-matched to **McLaren Papaya Spark**), **carbon fiber door cards** with **Brembo GT-RS** pedal set, **Rolls-Royce starlight headliner** (1,340 fiber-optic lights), and **Bang & Olufsen Beosound Stage** audio system with **KEF Reference Series** speakers and **McIntosh MCD550** DAC for 1,200W RMS output."
+  ]
+}
