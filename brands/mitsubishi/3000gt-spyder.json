@@ -1,0 +1,14 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "3000GT SPYDER",
+  "prestazioni": [
+    "6G72TT (DOHC 24V Twin-Turbo) engine rebuild with forged internals: JE 87mm forged pistons (9.0:1 CR), Eagle H-beam connecting rods, and a billet crankshaft for 18psi boost capability. Pair with a Garrett GT35R turbo (82mm compressor wheel) and a Tial MV-R 44mm external wastegate for precise boost control.",
+    "Full custom 3.5-inch stainless steel turbo-back exhaust system by HKS Hi-Power with 200-cell catalytic converters and dual 4-inch titanium-tipped mufflers, designed specifically for the Spyder’s convertible chassis to eliminate drone while maximizing flow.",
+    "Haltech Elite 2500 standalone ECU with a custom 3000GT Spyder-specific calibration map, integrating dual AEM 3.5bar MAP sensors, a Bosch LSU 4.9 wideband O2 controller, and a Motec C127 dash for real-time data logging. Includes a custom traction control system tuned for the Spyder’s 50/50 weight distribution."
+  ],
+  "estetica": [
+    "Veilside Fortune 99 widebody conversion kit, modified for the Spyder’s convertible top mechanism with custom carbon fiber rear quarter panels and a one-off aluminum hardtop replacement (retaining the factory soft-top for dual-mode operation).",
+    "Custom front bumper lip by Rocket Bunny (Pandem) with integrated DRLs using Osram LED modules and a carbon fiber splitter reinforced with titanium underbody bracing to prevent flex at high speeds.",
+    "Ohlins Road & Track coilovers (3000GT Spyder-specific valving) with adjustable top mounts and Swift Springs (8K front, 7K rear) for optimal droop control. Paired with Cusco 22mm front and 24mm rear adjustable sway bars, and polyurethane bushings from Energy Suspension (part #4.5101G) for chassis rigidity."
+  ]
+}

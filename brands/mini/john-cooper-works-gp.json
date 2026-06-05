@@ -1,0 +1,14 @@
+{
+  "brand": "MINI",
+  "model": "JOHN COOPER WORKS GP",
+  "prestazioni": [
+    "Engine: B38A15M0 (1.5L turbocharged inline-3, high-pressure direct injection) upgraded with a Garrett GT2260S turbocharger (hybrid core, 0.63 A/R turbine housing, billet compressor wheel) for 320+ HP at 2.2 bar boost, paired with a custom 3.5\" titanium downpipe (Milltek Sport) and a secondary air injection delete (Vargas Motorsport).",
+    "Fuel System: Port-injected secondary fueling via AEM 4150 high-flow fuel rail, dual Bosch 0280158101 1000cc injectors (primary), and a Radium Engineering dual-catch can setup with -10AN lines to manage crankcase pressure under sustained 7,000 RPM pulls.",
+    "Suspension: Öhlins Road & Track DFV coilovers (GP-specific valving, 20mm front/15mm rear drop) with custom top mounts (Rogue Engineering spherical bearings) and a Wavetrac limited-slip differential (3.46 final drive) for aggressive torque vectoring on track."
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny V3 widebody kit (carbon fiber, 30mm extended fenders) with a custom 3D-printed front splitter (Aeroflow Dynamics) and a GP-spec rear diffuser (carbon fiber, 3-piece) for -120kg downforce at 120mph.",
+    "Wheels: BBS FI-R 18x9.5 +25 ET (front) and 18x10.5 +35 ET (rear) in gold finish, wrapped in Michelin Pilot Sport Cup 2 R tires (245/35/18 front, 275/30/18 rear) with TPMS sensors (Vibrant Performance).",
+    "Interior: Recaro Pole Position seats (carbon fiber shell, FIA-approved) with Schroth Profi II 6-point harnesses, a custom roll cage (Chassisworks, 4-point bolt-in) and a Motec C127 dash logger (integrated with OBD-II and CAN bus for real-time telemetry)."
+  ]
+}

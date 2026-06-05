@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "W123 COUPE",
+  "prestazioni": [
+    "Engine swap to M110.986 (3.0L inline-6 DOHC) with forged internals: Mahle Motorsport forged pistons (8.5:1 compression), Carrillo H-beam connecting rods, and a custom billet crankshaft from JP Performance. Pair with a Schrick 284° camshaft set and adjustable vernier timing gears for precise valve control.",
+    "Forced induction via a Rotrex C38-91 supercharger (12 psi max boost) with a custom air-to-water intercooler setup (PWR Racing core) and a Bosch 044 high-flow fuel pump. ECU management via a standalone Haltech Elite 2500 with custom M110-specific maps and a 4-bar MAP sensor for boost control.",
+    "Suspension overhaul with KW Variant 3 coilovers (W123-specific valving), polyurethane bushings from Meyle (front control arms, subframe, and sway bar mounts), and a custom 25mm front sway bar from Suspension Techniques. Braking upgraded to 330mm front rotors with 4-piston AP Racing calipers and Ferodo DS2500 pads, paired with stainless steel braided lines."
+  ],
+  "estetica": [
+    "Custom widebody conversion using fiberglass fenders from a W123 280CE (flared 50mm per side) with a custom front splitter and rear diffuser from a Rocket Bunny-inspired W123 kit (hand-fabricated by a German specialist). Painted in Mercedes-Benz Classic Signal Red (DB 568) with a matte black roof and BBS RS 16x8 ET20 wheels (195/50R16 tires).",
+    "Full interior retrim in black Nappa leather with red contrast stitching (Recaro SRD front seats, custom rear bench), a MOMO Prototipo steering wheel (380mm, suede), and a custom aluminum gauge pod housing VDO Classic instruments (oil pressure, boost, and AFR).",
+    "Exterior lighting upgraded to Hella E-Code headlights (halogen, chrome reflectors) with Cibie Oscar fog lights, and a custom LED taillight conversion (using Osram LED modules) with sequential turn signals. Side markers replaced with clear Euro-spec units from Hella."
+  ]
+}

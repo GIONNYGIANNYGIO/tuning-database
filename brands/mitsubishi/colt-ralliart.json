@@ -1,0 +1,14 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "COLT RALLIART",
+  "prestazioni": [
+    "Engine: Replace the stock MIVEC 4A92T (1.5L turbocharged inline-4) internals with forged Mahle Motorsport pistons (87.5mm bore, 8.2:1 compression) and Eagle H-beam connecting rods (52mm pin diameter) to handle 1.5 bar boost reliably. Pair with a Garrett GT2860RS-5 turbocharger (0.64 A/R turbine housing) for 300+ hp at 6,500 RPM with a 7,200 RPM redline.",
+    "Drivetrain: Install a Quaife ATB helical LSD (part # QDF7J) in the F5M42 transaxle to eliminate torque steer under hard launches, coupled with a Sachs Performance twin-disc clutch (360mm diameter, cerametallic friction) and a PWR Australia 5-row front-mount intercooler (core dimensions: 600x300x65mm) to maintain intake temps below 45°C at full boost.",
+    "Suspension: Swap the OEM MacPherson struts for a full Ohlins Road & Track DFV kit (front: 22N/mm springs, 600lb/in; rear: 18N/mm, 500lb/in) with adjustable camber plates (MCS Motorsport) and polyurethane bushings (SuperPro SPF0116K) for subframe reinforcement. Add a Cusco Type RS 22mm front sway bar (adjustable 3-position) and a 19mm rear sway bar to eliminate body roll in high-G corners."
+  ],
+  "estetica": [
+    "Aero: Fit a Varis Japan widebody conversion kit (front fenders: +30mm, rear fenders: +40mm) with carbon fiber overfenders and a custom Ralliart-style front splitter (3D-printed ABS, 45mm overhang) paired with a Voltex Type-3 rear wing (2,000mm span, 300mm chord, 15° angle of attack) for -120kg downforce at 160 km/h.",
+    "Exterior: Apply a 3M 1080 Gloss Volt wrap with Ralliart decals (Mitsubishi Motors Motorsport livery, 1990s Group A style) and replace the OEM headlights with Depo Racing JDM-spec HID projectors (5,000K, CREE XHP50 LEDs) and sequential turn signals (Diode Dynamics SS360).",
+    "Wheels: Mount Work Emotion CR Kiwami wheels (17x8.5 +35 ET, 5x114.3 PCD) with Yokohama Advan A052 tires (225/40R17 front, 245/35R17 rear) and Project Kics R40 6-pot front/4-pot rear brake calipers (356mm rotors, 32mm pads) for aggressive stance and stopping power."
+  ]
+}

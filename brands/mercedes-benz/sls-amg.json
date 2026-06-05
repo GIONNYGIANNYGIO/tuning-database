@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "SLS AMG",
+  "prestazioni": [
+    "AMG M159 6.2L V8 (M159 E63) forced induction conversion using a Garrett GTX5533R Gen II turbocharger with billet compressor wheel, 1.05 A/R turbine housing, and TiAL MV-R 44mm wastegate for 900+ HP on E85 fuel, paired with a custom AMG Performance Studio 1000cc ID1000 fuel injectors and Bosch Motorsport 044 high-flow fuel pump",
+    "Full titanium 4-2-1 equal-length exhaust manifold by Akrapović with 3.5\" titanium downpipes and a 4.5\" titanium center section, terminating in a Akrapović Evolution Line Ti exhaust system with carbon fiber tips and electronically controlled butterfly valves for backpressure optimization",
+    "Bespoke HPE (Hennessey Performance Engineering) Stage 3+ ECU calibration with custom CAN bus integration for the M159’s ME9.7.1 ECU, featuring launch control, flat-foot shifting, and individual cylinder fuel trimming, paired with a Motec C127 dash logger for real-time air/fuel and boost monitoring"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit for SLS AMG (M12C chassis) with carbon fiber fenders, front splitter, and rear diffuser, including custom 3D-printed ABS wheel arches to accommodate 20x12\" ET15 front and 21x14\" ET5 rear BBS LM-R II wheels in matte gold with 265/30 and 325/25 Michelin Pilot Sport Cup 2 R tires",
+    "Full carbon fiber engine cover and front hood replacement by Vorsteiner, featuring a functional central NACA duct for direct air induction into the Garrett turbocharger, paired with a custom carbon fiber rear wing by 991 Racing with dual-plane Gurney flaps and adjustable angle of attack (0-15 degrees)",
+    "Interior overhaul with Recaro Pole Position carbon fiber bucket seats (FIA 8862-2009 certified) wrapped in Nappa leather and Alcantara, featuring Sabelt 6-point harnesses, a custom roll cage by Matter Fab with integrated fire suppression system, and a MOMO Mod.78 carbon fiber steering wheel with integrated Motec shift lights and paddle shifters for the AMG Speedshift DCT 7-speed transmission"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "3000GT VR-4",
+  "prestazioni": [
+    "6G72TT (DOHC 24V twin-turbo) engine: Full forged internals with Manley 87mm forged crankshaft, Eagle H-beam connecting rods, and JE 8.5:1 compression forged pistons for 1.5-bar boost capability. Precision Turbo PT6266 CEA ball-bearing turbochargers with custom 3.5-inch V-band downpipes and GReddy Type-S front-mount intercooler (FMIC) core (400mm x 200mm x 76mm) for optimized airflow and reduced intake temps.",
+    "Haltech Elite 2500 standalone ECU with custom 4D ignition and fuel maps, paired with AEM 30-0300 X-Series wideband O2 sensors and dual Bosch 0280155998 1000cc/min high-impedance injectors. HKS SSQV4 blow-off valves with custom 3-inch silicone couplers and Tial 50mm external wastegates for precise boost control (targeting 28-30 psi on race gas).",
+    "Full drivetrain reinforcement: OS Giken twin-plate clutch (OS-254-2LS) with billet flywheel, Cusco 2-way limited-slip differential (LSD) with 4.55:1 final gear ratio, and Driveshaft Shop 3.5-inch aluminum driveshaft with CV-style joints. Suspension overhaul with Ohlins Road & Track DFV coilovers (custom valving for 3000GT chassis), Whiteline adjustable sway bars (24mm front, 22mm rear), and SuperPro poly bushings (full kit) for reduced deflection."
+  ],
+  "estetica": [
+    "Veilside Fortune 99 widebody conversion kit (full carbon fiber, 3-piece fenders with integrated vents) paired with a custom Rocket Bunny GT-S rear diffuser and carbon fiber overfenders (front: +3.5 inches, rear: +4.5 inches). Custom 3M Matte Graphite vinyl wrap with gloss black accents on the roof, mirrors, and lower rocker panels.",
+    "Custom front bumper lip by Seibon Carbon with integrated LED DRLs (Lux H8 6000K) and a JDM-spec Mitsubishi Motors badge delete (replaced with a carbon fiber emblem). Rear wing upgrade to a Voltex Type-7 (1700mm span, 3D carbon fiber) with adjustable angle mounts and integrated third brake light. Side skirts replaced with custom 3D-printed ABS units (molded to fit Fortune 99 widebody) with integrated LED side markers.",
+    "Interior: Bride Zeta III bucket seats (custom red Alcantara with black stitching) mounted on custom bolt-in subframes, paired with a NRG Innovations quick-release steering wheel hub and a Momo Prototipo 350mm suede wheel. Full custom roll cage by Custom Cages (8-point, TIG-welded 4130 chromoly) with integrated harness bar and Schroth Profi II 6-point harnesses. Custom gauge cluster with Defi Advance BF series (oil temp, oil pressure, boost, wideband AFR) and a Pioneer AVH-4200NEX head unit with Apple CarPlay/Android Auto."
+  ]
+}

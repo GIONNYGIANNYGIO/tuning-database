@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "SLK55 AMG",
+  "prestazioni": [
+    "Engine: M113 E55 (5.4L V8, 32V, SOHC, 360 HP stock) – Full forged internals upgrade with Mahle Motorsport forged pistons (8.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from Manley Performance. Precision Turbo & Engine GT5533R turbocharger (86mm, 1.15 A/R turbine housing) with a custom 3.5\" stainless steel downpipe and GReddy Profec B Spec II boost controller for 22 PSI peak boost.",
+    "Fuel System: Injector Dynamics ID1700x fuel injectors paired with a Radium Engineering dual fuel pump hanger (Walbro 450 LPH pumps) and a Bosch 044 external fuel pump. AEM 380 LPH in-tank pump with a custom surge tank setup. Motec M150 ECU with custom flex-fuel mapping for E85 compatibility, controlled via a Zeitronix ZT-3 wideband AFR sensor.",
+    "Suspension & Handling: KW Suspensions Clubsport coilovers (3-way adjustable, 8-position rebound, 12-position compression) with custom valving for the SLK’s short wheelbase. H&R Monoball front subframe bushings and polyurethane rear trailing arm bushings. AP Racing 6-piston front brake calipers (380mm rotors) with Ferodo DS2500 pads and a custom stainless steel brake line kit from Goodridge. Michelin Pilot Sport Cup 2 tires (245/35/18 front, 275/30/18 rear) on BBS LM-R wheels (9x18 ET25 front, 10.5x18 ET30 rear)."
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny V1 widebody kit (SLK-specific, carbon fiber front splitter, rear diffuser, and overfenders) with a custom 3D-printed aluminum rear wing mount for a Seibon carbon fiber GT3-style wing (1,200mm span, 300mm chord). Front canards from APR Performance (GT-250 model) and a custom aluminum undertray for improved airflow management.",
+    "Exterior: Full Respray in Mercedes-Benz Designo Mystic White (special-order color) with a 3M Matte Clear Bra (full front end, mirrors, and rocker panels). OEM+ AMG Performance Studio carbon fiber side skirts and rear valence, with custom LED taillight overlays from Diode Dynamics (switchback amber/white). HRE FF01 wheels in Satin Black with brushed lip (9x18 ET25 front, 10.5x18 ET30 rear) and custom center caps with AMG logo engraving.",
+    "Interior: Full Alcantara retrim by Katzkin (dashboard, door cards, headliner) in Mercedes-Benz Designo Platinum Grey. Recaro Pole Position seats (carbon fiber backs, Alcantara inserts) with custom embroidered AMG logos. MOMO Mod.78 steering wheel (350mm, suede, flat-bottom) with a quick-release hub. Custom roll cage by Autopower (6-point, bolt-in, TIG-welded 4130 chromoly) with padded harness bar. Alpine iLX-F511 10.1\" touchscreen head unit with a JL Audio Stealthbox subwoofer (10TW3-D8) and Focal Utopia M-series component speakers (165KRS front, 165V1 rear)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "SLR MCLAREN",
+  "prestazioni": [
+    "AMG M155 5.4L Supercharged V8 (engine code: M155 E55 ML) forced induction upgrade with a Rotrex C38-91 centrifugal supercharger (12 psi boost, replacing the stock 13 psi Eaton M112) paired with a custom AMG-developed intercooler core (aluminum 500x250x100mm, 12-row) and a CSF Racing dual-pass radiator (part #7021) to manage intake temps under sustained 7,500 RPM operation",
+    "Full titanium exhaust system by Akrapovič (SLR-specific, 70mm diameter, 1.2mm wall thickness) with electronically controlled butterfly valves (mapped via standalone Motec M150 ECU) and a secondary bypass for track-only mode, reducing backpressure by 38% while retaining Mercedes-AMG’s signature V8 bark at 4,200 RPM",
+    "Ohlins TTX46 MkII coilovers (SLR-specific, 24-way adjustable compression/rebound, 12kg/mm front springs, 14kg/mm rear) with custom top mounts by H&R (polyurethane bushings, 20% stiffer than OEM) and a KW Clubsport anti-roll bar kit (28mm front, 24mm rear, adjustable in 3 positions) to eliminate body roll during 1.2g lateral acceleration in the Nürburgring Nordschleife’s ‘Karussell’ section"
+  ],
+  "estetica": [
+    "RML Group (Ray Mallock Ltd.) carbon fiber widebody kit (SLR-specific, 50mm front fender flares, 70mm rear) with integrated NACA ducts for brake cooling, finished in matte ‘Silver Arrow’ paint (Mercedes-Benz historic code 775) and clear-coated with PPG CeramiClear for UV resistance",
+    "Vorsteiner V-FF1070 forged 20x10.5” front and 21x12.5” rear wheels (ET25 front, ET15 rear) wrapped in Michelin Pilot Sport Cup 2 R tires (275/30 R20 front, 325/25 R21 rear) with custom TPMS sensors (Beru Systems, 0-60 psi range) and center-lock adapters by Dymag (carbon fiber, 1.8kg per wheel lighter than OEM)",
+    "SLR McLaren ‘722 Edition’-inspired front splitter by Prior Design (carbon fiber, 3-stage adjustable, generating 85kg downforce at 250 km/h) with integrated LED turn signals (Osram Synios P2720, 6000K) and a rear diffuser by Novitec (carbon-Kevlar hybrid, 3-stage Gurney flap, reducing drag coefficient from 0.32 to 0.29 Cd)"
+  ]
+}

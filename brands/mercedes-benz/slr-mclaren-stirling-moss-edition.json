@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "SLR MCLAREN STIRLING MOSS EDITION",
+  "prestazioni": [
+    "AMG M155 5.4L Supercharged V8 (engine code: M155 E55 ML) forced-induction upgrade via Weistec Engineering Stage 3+ supercharger pulley kit (82mm, 12.5psi boost) paired with a custom-machined billet aluminum crankshaft damper to handle increased rotational forces, yielding ~850hp at the crank with 93 octane fuel",
+    "Full titanium exhaust system by Akrapović with 3.5-inch diameter mandrel-bent piping, quad 100mm carbon-fiber tips, and a valved bypass for track-only backpressure reduction, reducing weight by 22kg over OEM while optimizing scavenging for the M155’s 90-degree V8 firing order",
+    "Bespoke Motec M150 ECU reflash with cylinder-specific fuel and ignition mapping, integrated with a Pectel SQ6M standalone for traction control and launch control, utilizing a 400-channel data logger to monitor individual cylinder knock via Kistler 6052C pressure sensors installed in each combustion chamber"
+  ],
+  "estetica": [
+    "Full carbon-fiber widebody conversion by Mansory Carbonado GT kit, including extended front fenders (30mm per side), rear quarter panels (45mm per side), and a custom 3D-printed carbon-fiber rear diffuser with integrated Gurney flaps for downforce optimization at speeds above 180mph",
+    "Bespoke BBS FI-R 20x10.5 (front) and 21x13 (rear) forged magnesium wheels with titanium hardware, wrapped in Michelin Pilot Sport Cup 2 R tires (275/30 ZR20 front, 345/25 ZR21 rear) and paired with AP Racing CP8650-4000 carbon-ceramic brake rotors (420mm front, 390mm rear) with gold-anodized calipers",
+    "Custom livery by Dr. ColorChip in Stirling Moss Silver (DB 140) with hand-painted British Racing Green pinstripes (0.5mm width) along the beltline, complemented by a removable carbon-fiber hardtop with a clear-coated weave pattern and a rear spoiler featuring an adjustable dual-element Gurney flap (0-15mm range) controlled via a cockpit-mounted switch"
+  ]
+}

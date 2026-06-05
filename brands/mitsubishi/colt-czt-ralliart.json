@@ -1,0 +1,14 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "COLT CZT RALLIART",
+  "prestazioni": [
+    "Engine: Replace the stock MIVEC 4A92T (1.5L turbocharged inline-4) internals with forged Mahle Motorsport pistons (87.5mm, 9.5:1 CR) and Eagle H-beam connecting rods (52mm big end) to handle 1.5 bar boost reliably. Pair with a Garrett GT2860RS-5 turbocharger (0.64 A/R turbine housing) for 300+ hp while maintaining spool under 3,000 RPM.",
+    "Fuel System: Upgrade to a Bosch 044 high-flow fuel pump (255 L/hr) and ID1000 injectors (1,000cc/min) with a Radium Engineering fuel pressure regulator (FPR) to support E85 blends. Install a Link G4+ Xtreme standalone ECU with custom 4A92T-specific maps for closed-loop boost control and launch control.",
+    "Drivetrain: Swap the stock F5M42 5-speed transmission for a reinforced F5M42-2 (from the Colt Ralliart Version-R) with a Sachs Performance twin-disc clutch (240mm, 700Nm torque capacity). Add a Cusco 1.5-way mechanical LSD (28-spline) and a Peloquin differential cover with additional cooling fins for endurance racing."
+  ],
+  "estetica": [
+    "Aero: Install a Varis Japan front lip spoiler (COLT-CZT-specific, carbon fiber) and a custom 3D-printed rear diffuser (ABS plastic, 30% downforce increase at 100 mph). Add a Seibon Carbon hood (OEM replacement, vented) with a custom Ralliart-style central scoop for turbo heat extraction.",
+    "Suspension: Replace stock dampers with Ohlins Road & Track DFV coilovers (adjustable compression/rebound, 2-way damping) paired with Eibach Pro-Kit springs (20mm drop). Install SuperPro polyurethane bushings (front control arms, subframe, and trailing arms) and Whiteline adjustable rear sway bar (22mm, 3-position).",
+    "Exterior: Apply a full 3M 1080 Gloss Black vinyl wrap with Ralliart decals (2006-2008 factory-spec, red/white/black) and Hella Rallye 3000 driving lamps (7-inch, 100W H3 bulbs) mounted on a custom aluminum bumper bar. Replace OEM wheels with Enkei PF05 (17x8 +35, 5x114.3) wrapped in Michelin Pilot Sport Cup 2 (225/45 R17) tires."
+  ]
+}

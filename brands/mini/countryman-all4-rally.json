@@ -1,0 +1,14 @@
+{
+  "brand": "MINI",
+  "model": "COUNTRYMAN ALL4 RALLY",
+  "prestazioni": [
+    "Engine: N18B16M0 (1.6L turbocharged inline-4, WRC-derived block) with forged internals including Mahle Motorsport pistons (8.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from Manley Performance. Turbo upgrade to a Garrett GTX3582R Gen II with a 0.82 A/R turbine housing and 58mm compressor wheel, paired with a custom 3.5\" titanium downpipe from Akrapovič and a 76mm titanium exhaust system with dual 100mm outlets.",
+    "Drivetrain: Sachs Performance twin-disc clutch (240mm) with a lightweight flywheel (8.5kg) and a Quaife ATB helical LSD (40% lockup) in the rear. Transmission reinforcement via a Getrag 6-speed dog-ring gearbox (WRC-spec) with a short-shift kit from BMS Racing, mated to a carbon fiber driveshaft from GKN Driveline. Front and rear differentials upgraded to Drexler Motorsport limited-slip units with 60% preload.",
+    "Suspension & Chassis: Öhlins TTX40 4-way adjustable coilovers with 300mm travel and remote reservoirs, paired with Eibach ERS rally springs (120N/mm front, 100N/mm rear). Polyurethane bushings from SuperPro (full chassis kit) and spherical bearings from Nolathane for subframe mounts. Brembo GT 6-piston calipers (380mm front, 355mm rear) with carbon-ceramic rotors (Pagid RS14 pads) and Goodridge stainless steel braided lines. Wheels: OZ Racing Superforgiata 17x8\" (ET15) with BFGoodrich g-Force R1S tires (225/65R17)."
+  ],
+  "estetica": [
+    "Aero: Custom carbon fiber widebody kit from Liberty Walk (Countryman-specific LB Works design) with integrated fender flares (30mm wider front, 40mm wider rear) and a rear diffuser from Rocket Bunny. Front splitter from APR Performance (carbon fiber, 3-stage adjustable) with a 50mm overhang. Rear wing: Voltex Type-3 (carbon fiber, 1200mm span) with dual gurney flaps and aluminum supports. Hood: Seibon carbon fiber with a 50mm scoop (functional, feeding the GTX3582R).",
+    "Lighting: PIAA LP570 rally lights (4x 55W HID) mounted on a custom aluminum roof bar (Rally Designs). Front headlights replaced with Hella Rallye 4000 (7\" round, 100W H3 bulbs) in carbon fiber housings. Rear: Custom LED taillight delete with red Lexan covers and integrated brake ducts (for rear rotor cooling).",
+    "Interior: Full roll cage from Safety Devices (FIA-spec, 8-point, T45 steel) with integrated fire suppression system (Lifeline Zero 360). Seats: Sparco Pro ADV (carbon fiber shells, FIA 8862-2009 certified) with Schroth Profi II 6-point harnesses. Steering wheel: Momo Prototipo (350mm, suede) with a quick-release hub. Dash: AIM MXS Strada data logger with GPS, lap timer, and 10Hz G-force sensor, mounted on a carbon fiber dash panel. Shift knob: BMS Racing titanium (short-throw, weighted)."
+  ]
+}

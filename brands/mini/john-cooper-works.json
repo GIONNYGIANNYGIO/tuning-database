@@ -1,0 +1,14 @@
+{
+  "brand": "MINI",
+  "model": "JOHN COOPER WORKS",
+  "prestazioni": [
+    "Engine: BMW B48A20C (2.0L turbocharged inline-4, 306hp stock) – Full forged internals including Mahle Motorsport forged pistons (8.5:1 CR), Manley H-beam connecting rods, and ACL Race Series bearings for 400whp+ reliability on E85.",
+    "Turbocharger: Garrett GTX3582R Gen II with billet compressor wheel, 0.82 A/R turbine housing, and TiAL MV-R 44mm wastegate for spool under 3,000 RPM while supporting 500whp on pump gas.",
+    "Fuel System: Injector Dynamics ID1700x injectors, AEM 340lph high-flow fuel pump, and Radium Engineering dual catch can setup with -8AN lines to prevent oil dilution in the B48’s direct-injection system."
+  ],
+  "estetica": [
+    "Aero: WALK Racing JCW-specific widebody kit (carbon fiber front splitter, rear diffuser, and overfenders with integrated cooling ducts for the B48’s intercooler and oil cooler).",
+    "Wheels: BBS FI-R 18x9.5 ET30 (front) and 18x10.5 ET35 (rear) with 245/35/18 and 275/30/18 Michelin Pilot Sport Cup 2 R tires, paired with OZ Racing Ultra Leggera hubcentric spacers (15mm front, 20mm rear).",
+    "Interior: Recaro Pole Position seats with Schroth Profi II 6-point harnesses, MCS Motorsport bolt-in FIA-spec roll cage (half-cage with door bars), and AiM MXS Strada dash logger with CAN bus integration for B48 ECU data."
+  ]
+}

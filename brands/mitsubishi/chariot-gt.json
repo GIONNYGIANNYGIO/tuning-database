@@ -1,0 +1,14 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "CHARIOT GT",
+  "prestazioni": [
+    "Engine swap to a 4G63T (from the Mitsubishi Galant VR-4) with a forged internals build including Eagle rods, JE 8.5:1 forged pistons, and ACL Race Series bearings, paired with a Garrett GT3076R turbocharger (0.82 A/R turbine housing) and a Tomei 264°/260° camshaft set for high-RPM power delivery (targeting 350-400whp on E85)",
+    "Custom 3-inch turbo-back exhaust system by HKS Hi-Power with a 76mm diameter, 1.5mm wall thickness stainless steel piping, featuring a GReddy Revolution RS 70mm muffler for optimized scavenging and minimal backpressure, paired with a Tomei 4-2-1 equal-length header (specific to the 4G63T’s exhaust manifold bolt pattern)",
+    "Haltech Elite 2500 ECU with a custom flex-fuel map for E85 compatibility, integrated with a Link G4+ knock blocker, AEM X-Series wideband O2 sensor, and a Turbosmart e-Boost2 50mm electronic boost controller (set to 22psi peak with a 3-step launch control system for FWD traction management)"
+  ],
+  "estetica": [
+    "Rocket Bunny V1 Chariot GT-specific widebody kit (fiberglass construction) with extended front fenders, custom rear quarter panels, and a 30mm extended front lip, paired with a custom carbon fiber hood featuring a 4G63T-specific NACA duct for intercooler airflow",
+    "Work Meister S1 3P 17x9 +35 front and 17x10 +40 rear wheels (ET adjusted for Chariot GT’s 5x114.3 bolt pattern) with Toyo R888R 235/40/17 and 265/35/17 tires, paired with BC Racing BR coilovers (custom valving for the Chariot’s MacPherson strut front and multi-link rear suspension)",
+    "Custom front bumper lip by Vertex Lang (JDM-spec, designed for the Chariot GT’s unique bumper shape) with integrated LED fog lights, paired with a custom rear diffuser by Seibon Carbon (matched to the Rocket Bunny rear bumper) and a Cusco Type-RS rear spoiler (200mm height, adjustable angle for downforce tuning)"
+  ]
+}

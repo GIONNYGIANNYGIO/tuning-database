@@ -1,0 +1,14 @@
+{
+  "brand": "MINI",
+  "model": "ELECTRIC JCW PROTOTYPE",
+  "prestazioni": [
+    "Replacement of the stock **BMW eDrive Gen 3 (eAWD) electric motor (engine code: **EMP180/190**) with a **Magna PT eDS Mid-Mount Dual-Inverter System (2x 250 kW continuous, 400 kW peak)** paired to a **GKN eTwinsterX torque-vectoring differential** for 0-60 mph in 2.9s and a governed 180 mph top speed",
+    "Custom **Unitek CPM-1200HV 800V/1200A lithium-ion battery pack (60 kWh usable, 900V architecture)** with **Molicel P42A cylindrical cells (3000mAh, 30A continuous discharge)** and **Mahle Jet Ignition thermal management (dual-phase immersion cooling)** for sustained 500 kW output",
+    "**AP Racing CP9660 6-piston monoblock calipers (380mm CCM-R rotors)** with **Ferodo HT-25 racing pads** and **Bosch Motorsport ABS M5.0** recalibrated for regenerative braking blending (90% regen at 0.8G deceleration)"
+  ],
+  "estetica": [
+    "**RML Group carbon-fiber widebody kit (20mm front, 30mm rear fender flares)** with **integrated NACA ducts for Magna PT eDS cooling** and **removable polycarbonate canards (3D-printed via Stratasys F900)**",
+    "**HRE FF01 forged wheels (19x9.5 ET25 front, 19x11 ET5 rear) in **matt bronze finish** with **Pirelli P Zero Trofeo R (245/35 R19 front, 295/30 R19 rear)** and **custom center-lock adapters for 10-second pit stops**",
+    "**Litchfield Carbon Dynamics front splitter (adjustable 3-stage dive planes)** with **rear diffuser by KW Automotive (3D-printed carbon fiber, 50mm Gurney flap)** and **active aero via Bosch MM5.10 ECU (drag reduction system at 120 mph+)**"
+  ]
+}

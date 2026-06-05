@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "SLC43 AMG",
+  "prestazioni": [
+    "AMG M276 DE30 AL 3.0L V6 Biturbo (276.956) engine: Full Weistec W.3 Stage 3+ hybrid turbo upgrade with Garrett GTX3582R Gen II turbos (1.05 A/R, 62mm compressor, 76mm turbine), custom billet compressor wheels, and Weistec 3.5L V6-specific titanium turbine housings for reduced backpressure and optimized spool. Includes Weistec high-flow fuel system with dual Bosch Motorsport 450 LPH pumps, upgraded fuel rails, and 1000cc ID1000 injectors for E85 compatibility (up to 550whp on pump gas, 650whp on E85).",
+    "AMG-tuned 9G-Tronic transmission: SPEC Stage 3+ twin-disc clutch with billet flywheel (lightweight 12.5lb) and Weistec TCU flash for 0.15s faster shifts, launch control (3500 RPM), and torque management bypass for aggressive upshifts. Includes Weistec transmission cooler with integrated thermostat and dual SPAL 10\" fans for sustained track use.",
+    "Chassis reinforcement and drivetrain: Weistec SLC43-specific front strut tower brace (7065-T6 aluminum, 3-point design) paired with a full Weistec subframe lockout kit (polyurethane bushings, billet aluminum brackets) to eliminate drivetrain flex. Rear differential upgraded to a Wavetrac ATB LSD with 45% lockup under load, paired with Weistec 3.72:1 ring & pinion for optimized acceleration (0-60mph in 3.8s)."
+  ],
+  "estetica": [
+    "Rocket Bunny SLC43-specific widebody kit (Pandem V3.2) with carbon fiber front fenders (25mm wider per side), rear quarter panels (30mm wider), and integrated canards. Includes custom 3D-printed ABS rear diffuser with active aero elements (adjustable Gurney flap) and Vortex Generator strakes for reduced drag (Cd 0.31).",
+    "OEM+ AMG SLC43 front bumper lip (RennTech R1) with integrated carbon fiber splitter (25mm overhang) and dual 30mm tow hooks (M12x1.5 thread). Rear bumper modified with a custom 3D-printed titanium exhaust surround (dual 3.5\" outlets) to accommodate a Fi EXHAUST 3.0\" cat-back system with quad 102mm carbon fiber tips (valved, titanium internals).",
+    "Interior: Recaro Pole Position seats (carbon fiber shell, Alcantara/leather with red stitching) paired with a Weistec SLC43-specific bolt-in roll cage (T45 steel, 6-point design, integrated harness bar). Steering wheel replaced with a Momo Prototipo EVO (350mm, Alcantara, quick-release hub) and custom AMG SLC43-specific digital dash overlay (AEM CD-7 with OLED display, 12.3\" screen, real-time boost/AFR/torque monitoring)."
+  ]
+}

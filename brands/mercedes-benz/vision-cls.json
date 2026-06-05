@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "VISION CLS",
+  "prestazioni": [
+    "AMG M278 DE30 AL 4.7L V8 Biturbo (435 HP stock) upgraded with a Garrett GTX4202R turbocharger (1.28 A/R, 64mm inducer) paired with a custom 4-inch titanium downpipe by Armytrix, featuring a 304 stainless steel flex section and 200-cell catalytic converters for Euro 6d compliance",
+    "Full Motec M150 ECU standalone management with custom CAN bus integration for the Vision CLS's MBUX Hyperscreen, including launch control, flat-foot shifting, and a 3D-mapped anti-lag system (ALS) calibrated for the M278's direct injection and port injection hybrid setup",
+    "Bespoke KW Suspension Clubsport 3-way coilovers with remote reservoirs, 24-position rebound adjustment, and linear-rate springs (12kg/mm front, 14kg/mm rear) paired with Mercedes-Benz OEM 390mm ceramic composite brake rotors (AMG GT Black Series-spec) and AP Racing CP9660 calipers with titanium pistons"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (Vision CLS-specific) with carbon fiber fenders, front splitter, and rear diffuser, featuring integrated air curtains and a 3D-printed aluminum undertray for active aero management (adjustable via MBUX)",
+    "Custom HRE P101SC wheels in a staggered 20x10.5 +40 front / 21x12.5 +45 rear configuration, wrapped in Michelin Pilot Sport Cup 2 R tires (275/30/20 front, 325/25/21 rear) with TPMS sensors integrated into the MBUX system",
+    "Full carbon fiber interior retrofit by Sabelt, including a monocoque carbon fiber bucket seat (FIA 8862-2009 certified) with integrated 6-point harness, a carbon fiber steering wheel with a Motec C127 dash display, and a custom titanium roll cage (FIA Appendix J Art. 253) painted in Mercedes-Benz Designo Selenite Grey Magno"
+  ]
+}

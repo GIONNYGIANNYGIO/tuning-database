@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "W124 E500 LIMITED",
+  "prestazioni": [
+    "Engine: M119.975 (5.0L V8, 32V, DOHC) – Full port-and-polish headwork by **Schrick** with 3-angle valve seats, oversized **Mahle Motorsport** forged pistons (9.5:1 CR), **ARP L19** head studs, and **Schrick 272°/276°** camshafts with **Schrick adjustable cam gears** for optimized overlap and mid-range torque.",
+    "Forced Induction: **Rotrex C38-91 supercharger** (12 psi max) with **V-band exhaust manifold** and **custom intercooler core** (GReddy Type-30, 4.5\" thick) mounted in the OEM fog light cavity, paired with a **Tial 44mm wastegate** and **AEM 3.5bar MAP sensor** for precise boost control.",
+    "Drivetrain: **OS Giken 1.5-way LSD** with **Quaife ATB differential** (25-spline) in the rear, **Peloquin 2.64:1 ring & pinion** swap, **South Bend Stage 3+ clutch** (ceramic-metallic, 3.5\" disc), and **Weiss Performance** short-shift kit (25% reduction) with **UUC EVO3 shift linkage bushings**."
+  ],
+  "estetica": [
+    "Body: **Kamei W124 E500 widebody kit** (fiberglass, 50mm flares) with **custom carbon fiber front splitter** (3D-scanned from AMG Hammer) and **Rear diffuser by Prior Design** (integrated dual 3.5\" exhaust cutouts). Paint: **Mercedes Classic Signal Red (DB 568)** with **3M Matte Clear Coat** for a satin finish.",
+    "Wheels: **BBS RS II (17x9 ET15 front, 17x10 ET20 rear)** with **Nankang AR-1 semi-slick tires (245/40/17 front, 275/35/17 rear)**. Hardware: **H&R Trak+ wheel spacers (15mm front, 20mm rear)** and **Brembo GT 6-piston calipers** (355mm rotors) with **Ferodo DS2500 pads**.",
+    "Interior: **Recaro SRD Evo II seats** (W124-specific mounts) in **Nappa leather with Alcantara inserts**, **MOMO Prototipo steering wheel** (380mm, suede) with **NRG quick-release hub**, and **Defi BF Advance gauges** (boost, oil temp, AFR) mounted in a **custom aluminum A-pillar pod** (CNC-machined)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "S65 AMG FINAL EDITION",
+  "prestazioni": [
+    "M157 6.0L V12 Biturbo (M279) engine: Full carbon-fiber intake system by Eventuri with bespoke CNC-machined velocity stacks and 102mm throttle bodies, replacing the stock plastic intake for optimized airflow and throttle response at 1.5 bar boost (stock: 1.2 bar)",
+    "M157-specific Garrett GTX5533R Gen II turbochargers with billet compressor wheels (64mm inducer, 88mm exducer) and TiAL MV-R 44mm wastegates, paired with a custom 4-inch stainless steel downpipe system by Armytrix with 304-grade mandrel bends and 0.8mm wall thickness for reduced backpressure and improved spool characteristics",
+    "Weistec Engineering Stage 3+ transmission upgrade for the 7G-Tronic Plus (722.9) gearbox, including a reinforced valve body with upgraded solenoids, a billet torque converter with 3,800 RPM stall speed, and a custom TCU tune to handle 1,200+ Nm of torque with launch control and flat-foot shifting (0-100 km/h in 3.2s)"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit for the W222 chassis, featuring hand-laid carbon-fiber fenders with 50mm extended wheel arches, a custom front splitter with integrated canards, and a rear diffuser with dual 4-inch exhaust outlets (replacing the stock quad-tip setup)",
+    "Ohlins Road & Track coilovers with 3-way adjustable damping (compression, rebound, and ride height) and spherical top mounts, paired with H&R 20mm front and 15mm rear anti-roll bars for reduced body roll and improved turn-in response (lowered 35mm from stock ride height)",
+    "BBS FI-R 21x10.5 ET25 (front) and 21x12.5 ET45 (rear) forged wheels in matte gold finish, wrapped in Michelin Pilot Sport Cup 2 R tires (275/30 R21 front, 325/25 R21 rear) with custom TPMS sensors for real-time pressure monitoring"
+  ]
+}

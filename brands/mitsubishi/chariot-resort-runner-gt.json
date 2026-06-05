@@ -1,0 +1,14 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "CHARIOT RESORT RUNNER GT",
+  "prestazioni": [
+    "Engine swap to a 4G63T (from the Evo III) with a forged internals build including Manley 87mm forged pistons, Eagle H-beam connecting rods, and a Tomei 272° camshaft kit for high-RPM power delivery, paired with a Garrett GT3076R turbocharger (0.82 A/R turbine housing) and a custom 3.5-inch stainless steel exhaust system with a GReddy Revolution RS muffler for optimized spool and top-end flow.",
+    "Full custom ECU remap via Haltech Elite 2500 standalone ECU with individual cylinder fuel trims, launch control, and anti-lag system, calibrated for 98 RON fuel and a target AFR of 11.5:1 under full boost (22 psi peak). Includes a custom intercooler setup with a PWR 450mm core and silicone couplers from Samco Sport for reduced intake temps.",
+    "Chassis reinforcement with a Cusco bolt-in 4-point roll cage (Mitsubishi Chariot-specific fitment) and a full polybush kit from SuperPro (part numbers SPF0115K, SPF0116K, SPF0117K) to eliminate suspension slop. Suspension upgrade to Ohlins Road & Track coilovers (DFV) with custom valving for the Chariot’s multi-link rear setup, paired with Whiteline adjustable sway bars (24mm front, 22mm rear) and Cusco strut tower braces (front and rear)."
+  ],
+  "estetica": [
+    "Full Rocket Bunny V1 widebody kit (Chariot Resort Runner-specific) with custom carbon fiber overfenders, front lip, and rear diffuser, finished in a matte Gunmetal Gray wrap with gloss black accents. Includes custom 3D-printed side skirts to accommodate the wider track width from the Ohlins setup.",
+    "Custom 17x9.5-inch Enkei RS05RR wheels in a +25 offset, wrapped in 225/45R17 Toyo R888R tires for optimal grip. Brake upgrade to a full DBA 5000 Series two-piece rotors with AP Racing CP6640 calipers (front) and CP5350 calipers (rear), paired with Ferodo DS2500 pads and Goodridge stainless steel brake lines.",
+    "Interior overhaul with a full Bride Zeta III bucket seat (Chariot-specific mounting brackets) and a Takata Drift III 4-point harness, paired with a Nardi Classic 350mm steering wheel and a custom aluminum shift knob (weighted for the 4G63T’s gearbox). Full sound deadening removal and replacement with a custom audio setup featuring a Pioneer DEH-80PRS head unit, Focal Utopia Be tweeters, and a JL Audio 10TW3 subwoofer in a custom enclosure."
+  ]
+}

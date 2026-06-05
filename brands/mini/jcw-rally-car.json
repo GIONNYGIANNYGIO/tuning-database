@@ -1,0 +1,14 @@
+{
+  "brand": "MINI",
+  "model": "JCW RALLY CAR",
+  "prestazioni": [
+    "Engine: BMW B48C20T0 (2.0L turbocharged inline-4) with forged internals including Mahle Motorsport pistons (9.5:1 compression), Manley H-beam connecting rods, and a billet crankshaft from JE Pistons for 400+ hp reliability at 28 psi on E85 fuel. Turbocharger upgraded to a Garrett GTX3582R Gen II with a 0.82 A/R turbine housing and 62mm compressor wheel, paired with a custom 3.5\" stainless steel downpipe from Armytrix with 200-cell catalytic converters for FIA compliance.",
+    "Drivetrain: Xtrac P1297 6-speed sequential gearbox with a 2.45:1 final drive ratio, AP Racing 5.5\" twin-plate carbon clutch, and a Quaife ATB differential with 45% lockup under load. Front and rear driveshafts replaced with GKN Motorsport CV joints and reinforced tripod housings to handle 500+ lb-ft of torque.",
+    "Suspension & Brakes: Öhlins TTX40 4-way adjustable coilovers with 250mm of travel, reinforced spherical bearings from NMB, and custom valving for gravel rally stages. Braking system features Alcon 6-piston monoblock calipers with 370mm two-piece floating rotors (front) and 330mm rotors (rear), paired with Ferodo DS2500 pads and braided stainless steel lines. Handbrake modified with a hydraulic setup from Tilton Engineering for Scandinavian flicks."
+  ],
+  "estetica": [
+    "Aerodynamics: Custom carbon fiber widebody kit from Litchfield Motorsport with integrated gravel guards, a 3D-printed ABS front splitter with 30mm dive planes, and a rear diffuser from APR Performance. Roof-mounted air scoop for intercooler cooling, fabricated from 1.5mm aluminum with a NACA duct profile. Rear wing is a custom 3-element design from Voltex (Type 3) with adjustable angle of attack (0-15 degrees).",
+    "Lighting: Hella Rallye 3000 Compact 8\" spotlights (4x) with 100W H3 bulbs, mounted on a custom aluminum roof rack from Ralliart. Rear lights replaced with LED rally-spec units from Osram, wired to a standalone auxiliary fuse box for redundancy. Underbody lighting from Rigid Industries (D-Series Pro) for service visibility during night stages.",
+    "Interior: Full FIA-spec roll cage from Safety Devices (8-point, T45 steel) with integrated door bars and harness mounts. Sparco Pro ADV seats with 6-point Schroth Profi II-6 harnesses, and a custom carbon fiber dashboard from V Carbon featuring a Motec C127 dash logger with GPS lap timer. Steering wheel is a 330mm Momo Prototipo with quick-release hub and integrated paddle shifters for the Xtrac gearbox."
+  ]
+}

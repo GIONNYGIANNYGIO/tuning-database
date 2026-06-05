@@ -1,0 +1,14 @@
+{
+  "brand": "MINI",
+  "model": "COOPER S WRC CONCEPT",
+  "prestazioni": [
+    "Engine: N18B16A (1.6L turbocharged inline-4, WRC-spec) with forged internals including Mahle Motorsport pistons (83mm bore, 10.5:1 CR), Carrillo H-beam connecting rods, and a billet crankshaft from JE Pistons. Turbocharger upgraded to a Garrett GTX4202R with a 62mm compressor wheel and 76mm turbine, paired with a custom 3.5-inch titanium downpipe and Akrapovič 304 stainless steel exhaust system with 76mm outlets.",
+    "Drivetrain: Xtrac P1046 6-speed sequential gearbox with a Sachs Racing twin-disc carbon clutch (240mm diameter) and a Quaife ATB helical LSD. Front and rear differentials upgraded with Drexler Motorsport WRC-spec units, featuring 45% lockup under load. Custom driveshafts from GKN Driveline with CV joints rated for 800Nm torque.",
+    "Suspension & Chassis: Öhlins TTX40 4-way adjustable dampers with WRC-spec spring rates (450lb/in front, 380lb/in rear) and spherical bearing top mounts from Motorsport Hardware. Full polybush kit from SuperPro (part #SPF1001K) for subframe and control arms. Brembo WRC brake kit with 370mm front rotors (6-piston calipers) and 330mm rear rotors (4-piston calipers), paired with Ferodo DS3000 pads and Motul RBF 660 brake fluid."
+  ],
+  "estetica": [
+    "Aerodynamics: Full WRC-spec carbon fiber aero kit from MINI Motorsport, including a 1,800mm wide front splitter with integrated dive planes, a 1,200mm rear wing with Gurney flap (adjustable angle via quick-release mounts), and side skirts with vortex generators. Underbody features a 3-piece diffuser from APR Performance with titanium mounting brackets.",
+    "Bodywork: Carbon fiber hood with dual NACA ducts (for intercooler and brake cooling) from Seibon Carbon, and carbon fiber doors from VIS Racing. Rear quarter panels widened by 50mm per side using custom aluminum overfenders from KW Automotive, riveted and bonded to the chassis. Full PPF (paint protection film) in XPEL Stealth applied to high-impact areas.",
+    "Interior: Full FIA-spec roll cage from Safety Devices (part #SD080) with integrated fire suppression system (Lifeline Zero 360). Sparco Pro ADV seats with 6-point harnesses (Schroth Profi II) and a custom carbon fiber dashboard from AIM Motorsport featuring a 7-inch digital display (AIM MXS Strada) and a WRC-spec steering wheel (Sparco R383) with paddle shifters. Full sound deadening removal and replacement with Dynamat Xtreme for weight reduction."
+  ]
+}

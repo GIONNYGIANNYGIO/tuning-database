@@ -1,0 +1,14 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "DEBONAIR",
+  "prestazioni": [
+    "Engine swap to a **6G74 3.5L V6 (60° DOHC 24V, 260PS stock)** with a **Garrett GT3582R turbocharger (0.82 A/R, 62mm inducer)** on a custom tubular manifold (Tomei or HKS cast manifold not compatible due to chassis clearance), paired with a **HKS SSQV4 blow-off valve** and **Tial 44mm external wastegate** for boost control at 1.2 bar (17.4 psi). Fueling upgraded with **ID1000x injectors** and a **Walbro 450LPH in-tank pump**, managed by a **Haltech Elite 2500 ECU** with flex-fuel capability (E85 compatible).",
+    "Drivetrain reinforcement with a **OS Giken 2.2L twin-plate clutch (ceramic-metallic)** and **Cusco Type-RS 2-way LSD** for the **F5M42 4-speed automatic transmission** (no manual option exists for this chassis). Custom **PPG 75W-140 GL-5 gear oil** for transmission longevity under high torque loads, paired with a **Perrin transmission mount insert** to reduce slop.",
+    "Suspension overhaul using **Öhlins Road & Track DFV coilovers (custom valving for Debonair’s 1,650kg weight)** with **SuperPro poly bushings (front control arms, subframe, and trailing arms)**. Braking upgraded to **Brembo GT 6-piston calipers (355mm rotors, front) and 4-piston (330mm, rear)** with **Ferodo DS2500 pads** and **Goodridge 6AN stainless steel brake lines**. Wheel fitment: **Work Meister S1 3P 18x9.5 +35 (front) and 18x10.5 +40 (rear)** with **Michelin Pilot Sport Cup 2 245/40/18 (front) and 275/35/18 (rear)** tires."
+  ],
+  "estetica": [
+    "**Rocket Bunny V1 Debonair-specific widebody kit** (only 50 units produced, fiberglass construction) with **custom carbon fiber front splitter (120mm overhang, 3D-printed mounting points)** and **Voltex Type-5 rear wing (2.2m width, 300mm chord, 15° angle of attack)**. Paint: **PPG Vibrance Collection ‘Deep Obsidian Black’ (3-stage pearl, matte clear coat)** with **JDM-spec ‘Debonair’ side decals (retro 1980s font, gold leaf finish)**.",
+    "Interior stripped and reupholstered with **Recaro SRD-E full-bucket seats (fixed-back, FIA 8862-2009 certified)** in **Alcantara ‘Mist Gray’ with red stitching**, paired with a **Sparco 6-point harness (ASM homologation)**. Dashboard replaced with a **Momo Prototipo carbon fiber panel (custom CNC’d for Debonair’s unique gauge cluster)** and **Aim MXS Strada 7-inch dash display** for telemetry. Steering wheel: **NRG Innovations ‘Classic’ 330mm suede (Momo replica, quick-release hub)**.",
+    "Lighting upgraded to **Morimoto XB LED headlights (H11 projector, 5500K, 3000 lumen)** with **custom Hella 500 fog lights (yellow lens, 100W H3 bulbs)**. Rear: **Depo JDM-style LED taillights (sequential turn signals, smoked lens)**. Underbody: **Philips LED strip lighting (RGB, 12V, waterproof) with custom aluminum diffusers** for a ‘floating’ effect at night. Exhaust tip: **Titanium Burns Dual 4.5-inch rolled-edge tips (brushed finish, 1.5mm wall thickness)**."
+  ]
+}
