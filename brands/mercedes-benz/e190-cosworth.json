@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "E190 COSWORTH",
+  "prestazioni": [
+    "Engine: M102.983 (2.3L 16V Cosworth-tuned inline-4) – Full forged internals including Mahle Motorsport forged pistons (8.0:1 CR), Carrillo H-beam connecting rods, and a Cosworth billet crankshaft with ARP L19 main studs and rod bolts for 300+ hp reliability.",
+    "Forced Induction: Garrett GT2860RS-5 turbocharger (0.63 A/R turbine housing) with a custom 3.5\" stainless steel downpipe and a GReddy Type-S intercooler (600x300x76mm core) to eliminate heat soak on the M102’s iron block.",
+    "Fuel & Ignition: Bosch Motorsport 044 high-flow fuel pump, Injector Dynamics ID1000 injectors, and a Haltech Elite 2500 ECU with a custom Cosworth-developed ignition map (12° base timing, 28° total advance) paired with NGK Iridium IX spark plugs (BKR7EIX) gapped at 0.024\"."
+  ],
+  "estetica": [
+    "Body: RAUH-Welt Begriff (RWB) widebody conversion kit (E-Class W124-specific, 50mm flares) with custom carbon fiber front splitter and rear diffuser by KW Suspensions’ in-house tuning division, KW Automotive Design.",
+    "Wheels: BBS RS-GT II 17x9 ET15 (front) and 17x10 ET25 (rear) with 225/45/17 and 265/40/17 Michelin Pilot Sport Cup 2 tires, mounted on OZ Racing Titanium lug bolts.",
+    "Interior: Recaro SRD-E full carbon fiber bucket seats (W124-specific mounting brackets) with Schroth Profi II 6-point harnesses, a MOMO Mod.78 steering wheel (350mm diameter, suede), and a custom roll cage by Matter Fab (TIG-welded 4130 chromoly, 6-point with gusseted rear strut tower braces)."
+  ]
+}

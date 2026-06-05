@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "EQS MAYBACH NIGHT SERIES",
+  "prestazioni": [
+    "Dual-motor electric powertrain (EQS 680 4MATIC+ platform, internal code: **213.990**) recalibration via **Brabus iBusiness EV 900V Stage 2 software**, unlocking 730 kW (992 hp) and 1,620 Nm of torque with a 0-100 km/h time of 2.9 seconds (stock: 4.5s) and a top speed limited to 250 km/h (removable via **AMG Driving Academy track mode**)",
+    "Custom **AP Racing 4-piston monoblock calipers** with **Brembo HTC 64T 420x40mm carbon-ceramic rotors** (front) and **380x30mm rotors** (rear), paired with **Pagid RSX1 racing pads** for 30% shorter braking distances from 200 km/h (stock: 143m, tuned: 100m)",
+    "**KW Automotive Clubsport 3-way adjustable coilovers** with **Maybach-specific spring rates (120N/mm front, 110N/mm rear)** and **Ohlins TTX46ML dampers**, lowering ride height by 35mm while retaining air suspension’s adaptive mode for comfort"
+  ],
+  "estetica": [
+    "**Rocket Bunny V3 Maybach EQS widebody kit** (carbon fiber, 50mm front/60mm rear fender flares) with **custom 3D-printed ABS diffuser inserts** for improved aero balance at high speeds",
+    "**Vorsteiner V-Stream carbon fiber front splitter** (20mm overhang) and **rear wing (300mm chord, 1,200mm span)** with **active Gurney flaps** (controlled via **Bosch MS 5.1 ECU integration**) for 18% more downforce at 200 km/h",
+    "**HRE FF16 flow-formed forged wheels** (22x10.5 ET25 front, 22x12.5 ET35 rear) in **matt black with polished lip**, wrapped in **Michelin Pilot Sport Cup 2 R tires (285/30 R22 front, 325/25 R22 rear)** for 1.2g lateral grip (stock: 0.98g)"
+  ]
+}

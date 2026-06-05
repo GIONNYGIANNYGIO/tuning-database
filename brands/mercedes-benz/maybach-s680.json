@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "MAYBACH S680",
+  "prestazioni": [
+    "M177 DE40 AL 4.0L V8 Biturbo (S680-specific variant) upgraded with Garrett GTX5544R Gen II turbos (1.35 A/R, 76mm compressor, 64mm turbine) paired with a custom 4-inch titanium downpipe system by Armytrix, featuring 304 stainless steel flex sections and 200-cell catalytic converters for backpressure reduction while maintaining Euro 6d compliance",
+    "Bespoke ECU recalibration by VÄTH Automotive (Germany) utilizing their Maybach-specific 'S680 Pinnacle' software suite, optimizing ignition timing (12° BTDC peak advance), fuel pressure (7.5 bar max), and turbo boost (1.8 bar peak) with a 3-stage launch control system (0-100 km/h in 3.4s vs. stock 4.5s) and active cylinder deactivation override for full-time V8 operation",
+    "Full drivetrain reinforcement including a Wavetrac limited-slip differential (45% lockup under load) with Maybach-specific 3.92:1 final drive ratio, paired with a Sachs Performance dual-mass flywheel (18.5kg) and uprated clutch pack (800Nm torque capacity) for the 9G-Tronic transmission, featuring a custom shift logic map by Dimsport for 150ms faster upshifts"
+  ],
+  "estetica": [
+    "Rocket Bunny x Maybach 'S680 Pandem' widebody kit (carbon fiber, 50mm rear fender flares, 30mm front), featuring a 3D-printed ABS underbody diffuser with active Gurney flaps (adjustable via MBUX interface) and a custom front splitter with integrated Vortex Generators by 991R Design",
+    "Brabus 800 'Shadow Line' exterior package (S680-exclusive), including 23-inch forged monoblock wheels (9.5Jx23 ET30 front, 11.5Jx23 ET40 rear) with Pirelli P Zero Trofeo R tires (275/30 R23 front, 325/25 R23 rear), wrapped in a custom 'Maybach Liquid Chrome' finish by Carlsson with laser-etched Mercedes-Benz star logos",
+    "Full interior rework by Schedoni Modena, featuring hand-stitched 'Nappa Diamond' leather (two-tone Obsidian Black/Designo Silk White) with 24K gold stitching, a custom rear lounge configuration with electrically adjustable reclining seats (4-way lumbar, 32° recline angle), and a Burmester 4D sound system upgrade (24 speakers, 2,100W, including 2x 20-inch subwoofers in the rear parcel shelf)"
+  ]
+}

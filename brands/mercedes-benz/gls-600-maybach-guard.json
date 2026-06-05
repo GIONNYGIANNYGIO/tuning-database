@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "GLS 600 MAYBACH GUARD",
+  "prestazioni": [
+    "M177 DE40 AL 4.0L V8 Biturbo (VR-rated) ECU recalibration via **Alientech Kess3** with **Maybach Guard-specific VR300+ mapping**, optimizing boost pressure to 1.6 bar (stock: 1.2 bar) while retaining VR-rated ballistic protection compliance, paired with **Weistec Engineering Stage 2 hybrid turbos (TD05H-20G)** for 750+ HP and 900 Nm torque without sacrificing low-end VR-rated response",
+    "**BMS Intelligent Piggyback FSB** (Fuel System Box) with **Motec M150 ECU integration** for VR-rated flex-fuel (E85) capability, enabling 30% ethanol blend without VR-rated fuel system degradation, supported by **Injector Dynamics ID1700x** injectors and **Radium Engineering dual-catch can setup** for VR-rated crankcase ventilation",
+    "**KW Suspension Clubsport 3-way coilovers (VR-rated)** with **Maybach Guard-specific spring rates (1200 lbs/in front, 1400 lbs/in rear)** and **Bilstein B16 VR-rated dampers**, paired with **H&R VR-rated anti-roll bars (32mm front, 28mm rear)** to counteract armored chassis weight (3,800+ kg) while maintaining VR-rated structural integrity"
+  ],
+  "estetica": [
+    "**Rocket Bunny Pandem GLS600 Maybach Guard widebody kit** (VR-rated carbon fiber, 120mm front/140mm rear fender flares) with **custom VR-rated polycarbonate side windows (30% tint, ballistic-rated)** and **Maybach Guard-specific LED halo headlights (Osram Night Breaker Laser, VR-rated housing)**",
+    "**Vorsteiner V-Stream VR-rated carbon fiber front splitter** (reinforced with **Dyneema composite** for VR-rated impact resistance) and **custom VR-rated rear diffuser (3D-printed titanium mesh, aerodynamically tuned for armored underbody airflow)**",
+    "**Rotiform LHR-VR wheels (22x12 front, 22x13 rear, VR-rated forged aluminum)** with **Pirelli P Zero Trofeo R (325/35 R22 front, 355/25 R22 rear, VR-rated run-flat compound)** and **Brembo GT-R VR-rated brake kit (420mm front, 390mm rear, 6-piston calipers with armored brake lines)**"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "McLaren",
+  "model": "720S GT3X",
+  "prestazioni": [
+    "M840T 4.0L twin-turbocharged V8 engine recalibrated with McLaren Special Operations (MSO) GT3X-specific ECU mapping, targeting 750+ hp (up from 710 hp) via revised boost pressure curves (1.6 bar peak) and optimized ignition timing for 99 RON fuel, paired with a bespoke Garrett GTX5533R turbocharger upgrade (76mm compressor, 84mm turbine) with titanium-aluminide turbine wheels for reduced inertia and faster spool (0.3s faster to 20 psi vs. stock GT3X turbos)",
+    "Full titanium Akrapović GT3X race exhaust system with 3.5-inch diameter Inconel 625 headers, 4-2-1 merge collectors, and electronically actuated bypass valves for backpressure optimization, reducing weight by 12 kg while improving exhaust scavenging efficiency by 18% via CFD-optimized mandrel-bent piping",
+    "Öhlins TTX46 MkII GT3X-specific coilovers with 3-way adjustable damping (compression/rebound/blow-off), 400 lbs/in front and 500 lbs/in rear springs, and McLaren-approved spherical bearing top mounts for sub-2mm suspension deflection under 3.5G cornering loads, paired with a bespoke carbon-fiber anti-roll bar system (18mm front, 20mm rear) with adjustable blade profiles for yaw moment control"
+  ],
+  "estetica": [
+    "Full carbon-fiber GT3X-widebody conversion kit by MSO, featuring 50mm extended front fenders with integrated dive planes, 70mm wider rear quarter panels with NACA ducts for rear brake cooling, and a 1,100mm rear diffuser with active Gurney flap (electronically adjustable via CAN bus) for -1,200 kg of downforce at 250 km/h",
+    "Vorsteiner V-FF 107 GT3X-spec forged magnesium wheels (18x13 front, 18x15 rear) with center-lock hubs, weighing 6.8 kg front and 8.2 kg rear, wrapped in Pirelli P Zero Trofeo R tires (305/660R18 front, 325/705R18 rear) with custom compound tuning for 120°C peak operating temps and 1.8G lateral grip",
+    "McLaren GT3X-specific front splitter with integrated dual-element active aero (adjustable via steering wheel-mounted paddles), featuring a 3D-printed titanium support structure and carbon-fiber reinforced polymer (CFRP) skin with embedded strain gauges for real-time aerodynamic load monitoring, paired with a fixed-position rear wing (2.1m span) with dual-plane Gurney flaps and vortex generators for -800 kg of rear downforce at 200 km/h"
+  ]
+}

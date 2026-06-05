@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "EQE AMG",
+  "prestazioni": [
+    "AMG M139L 2.0L I4 Turbo (EQE 53 4MATIC+) - Full hybrid integration with a custom Unichip Plug-in Piggyback ECU (PnP for EQE AMG) to optimize torque split between the electric motor (AMG EQ Boost) and the internal combustion engine, targeting a 30% increase in transient response via preemptive torque vectoring. Includes a bespoke Garrett GT2260S turbo upgrade with billet compressor wheel (60mm inducer) and TiAL MV-R 44mm wastegate for 2.2 bar peak boost (stock: 1.8 bar).",
+    "Bilstein B16 PSS10 coilovers with AMG-specific spring rates (8kg/mm front, 10kg/mm rear) and adjustable damping (10-way rebound, 10-way compression) paired with H&R 25mm front / 20mm rear anti-roll bars (EQE AMG-specific part numbers: H&R 51655-25 & 51656-20) to eliminate body roll during high-G cornering on Nürburgring Nordschleife.",
+    "AP Racing 6-piston front (380mm discs) and 4-piston rear (350mm discs) big brake kit with two-piece floating rotors (J-hook slotted) and Ferodo DS2500 pads, paired with Goodridge 6AN braided stainless steel brake lines and Motul RBF 660 racing brake fluid for fade resistance under repeated 1.2G deceleration from 200km/h."
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (EQE AMG-specific) with carbon fiber fenders (2.5-inch flares), front splitter, and rear diffuser, designed for a 20mm wider track and aggressive aero balance (target: -120kg downforce at 200km/h). Includes custom 3D-printed air curtains for front wheel arch ventilation (tested in Mercedes AMG wind tunnel).",
+    "Vorsteiner V-FF107 forged carbon fiber wheels (20x10.5 ET25 front, 21x12.5 ET40 rear) with Michelin Pilot Sport Cup 2 R tires (275/30 R20 front, 325/25 R21 rear) and HRE FlowForm center-lock adapters (EQE AMG-specific bolt pattern: 5x112).",
+    "AMG Night Package II delete with full carbon fiber replacement: Maxton Design CF lip spoiler, carbon fiber side skirts (with integrated LED turn signals), and a custom carbon fiber rear wing (3D-scanned from the AMG GT Black Series) with active Gurney flap (adjustable via Mercedes MBUX infotainment)."
+  ]
+}

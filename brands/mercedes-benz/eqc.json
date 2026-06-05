@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "EQC",
+  "prestazioni": [
+    "Upgrade to a **Vitesco Technologies EMIC2.3** high-performance inverter (OEM: EMIC2.1) with custom firmware for 15% faster torque response and 8% higher peak power output (408 hp → 440 hp) on the **EQC 400 (N293) dual-motor electric platform (front: 188 kW, rear: 150 kW)**",
+    "Installation of a **Magna PT eDrive 2.0** rear motor upgrade (replacing the stock 150 kW unit) with liquid-cooled stator windings and silicon carbide MOSFETs for sustained 220 kW output and 450 Nm torque, paired with a **AP Racing CP8850-400** 4-piston rear brake caliper kit for heat management",
+    "Integration of a **Webasto Thermo Connect 2.0** battery preconditioning system with **LG Chem E63** 100 kWh pouch cells (replacing stock 80 kWh) and a **Siemens SIC1710** DC-DC converter for 350 kW fast-charging capability (0-80% in 18 minutes) and 480 km WLTP range"
+  ],
+  "estetica": [
+    "AMG-inspired **Brabus 800 Widestar** carbon fiber front splitter with integrated **Hella 500 FF** adaptive LED matrix headlights (replacing stock LED units) and **Vorsteiner V-RT** rear diffuser with active aerodynamics (adjustable angle via MBUX)",
+    "Custom **Rocket Bunny V3-EQC** widebody kit with **3M 1080 Gloss Black** vinyl overlay, paired with **OZ Racing Ultraleggera HLT 21x9.5 ET35** forged wheels (front) and **21x11 ET45** (rear), wrapped in **Michelin Pilot Sport EV 275/35 R21** tires",
+    "Full **KW Suspensions Variant 5** coilover system with **Eibach ERS** helper springs and **H&R 25mm** front / **20mm** rear anti-roll bars, combined with a **Bilstein B16** electronic damping module for adaptive ride height (lowered 30mm from stock)"
+  ]
+}

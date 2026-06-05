@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "ML55 AMG",
+  "prestazioni": [
+    "Engine: M113K 5.4L V8 SOHC 24V Supercharged (349hp stock) – Full forged internals build by **AMG Performance Studio** including **Mahle Motorsport forged pistons (8.5:1 CR)**, **Carrillo H-beam connecting rods**, and **ARP L19 head studs** for 12psi boost capability. Supercharger upgraded to **Eaton TVS2300 (2.3L) with custom pulley (2.8\") and ported housing** by **Kenne Bell** for linear power delivery up to 650whp on 93 octane.",
+    "Fuel System: **Bosch Motorsport 044 high-flow fuel pump** paired with **Siemens DEKA 80lb/hr injectors** and **AEM 340LPH in-tank pump** to support E85 blends. **Motec M150 ECU** with **AMG-specific CAN bus integration** for full standalone control, including **dual Bosch 0280158002 wideband O2 sensors** for closed-loop E85 tuning.",
+    "Drivetrain & Suspension: **AMG-spec 722.6 5-speed transmission** reinforced with **Peloquin LSD (40% lock)** and **South Bend Stage 3+ clutch**. **Bilstein B16 PSS10 coilovers** with **Eibach Pro-Kit springs (20mm drop)** and **H&R anti-roll bars (28mm front, 25mm rear)** for chassis rigidity. **AP Racing 6-piston front (355mm) and 4-piston rear (330mm) big brake kit** with **Ferodo DS2500 pads** for fade-resistant stopping power."
+  ],
+  "estetica": [
+    "**AMG Authentic** widebody conversion kit (OEM W163 ML63 AMG fenders, side skirts, and rear bumper) with **custom carbon fiber front splitter by Vorsteiner** and **Rear diffuser by Reiger Exhaust** (dual 4\" tips).",
+    "**OZ Racing Ultraleggera HLT 20x10 ET25 (front) and 20x11 ET30 (rear)** wheels wrapped in **Michelin Pilot Sport Cup 2 R (275/40/20 front, 295/35/20 rear)** for staggered fitment. **H&R TRAK+ wheel spacers (15mm front, 25mm rear)** for aggressive flush stance.",
+    "**Full custom interior by **Renntech**: **Recaro Pole Position seats (carbon shell, Alcantara/leather)** with **Schroth Profi II 6-point harnesses**, **MOMO Mod.78 steering wheel (flat-bottom, suede)**, and **Alcantara headliner/door cards**. **Rear seat delete** with **custom aluminum storage cage** for spare tire/tool kit."
+  ]
+}

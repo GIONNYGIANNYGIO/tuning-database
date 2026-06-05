@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "GL550 X166",
+  "prestazioni": [
+    "M113 E55 ML 5.5L V8 engine (M273 E55) forced induction conversion using a Garrett GTX4202R turbocharger with billet compressor wheel, 64mm turbine wheel, and 1.06 A/R turbine housing, paired with a custom 4-inch stainless steel downpipe and a GReddy Profec B Spec II boost controller for 12 psi peak boost targeting 550whp on 93 octane fuel",
+    "Full fuel system upgrade including dual Bosch 044 inline fuel pumps, 850cc/min Siemens Deka injectors, and a Radium Engineering fuel pressure regulator with -6AN feed and return lines, complemented by a custom ECU tune via HP Tuners with M113-specific calibration for optimized ignition timing and AFR targeting 11.8:1 under full load",
+    "Drivetrain reinforcement with a Mercedes-Benz AMG ML63 (W166) 7G-Tronic transmission control module recalibration for faster shifts, a South Bend Stage 3 daily clutch kit with cerametallic friction material, and a Quaife ATB differential for the rear axle to handle increased torque delivery"
+  ],
+  "estetica": [
+    "Rocket Bunny GL-Class X166 widebody kit with carbon fiber front fenders, rear quarter panels, and extended rocker panels, paired with a custom 3M Matte Military Green wrap and gloss black accents on the grille and badging",
+    "OEM+ AMG-style front bumper with integrated 3D-printed carbon fiber splitter and a custom aluminum undertray for improved airflow management, combined with a Maxton Design rear diffuser and dual 4-inch stainless steel exhaust tips from Remus",
+    "Suspension overhaul with KW Variant 3 coilovers (X166-specific valving) and H&R 25mm front / 20mm rear sway bars, paired with OZ Racing Ultraleggera HLT 22-inch wheels (9.5J front, 11J rear) wrapped in Michelin Pilot Sport Cup 2 tires (285/35 R22 front, 305/30 R22 rear)"
+  ]
+}

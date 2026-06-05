@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "EQG ELECTRIC PROTOTYPE",
+  "prestazioni": [
+    "Upgrade to dual-stack **Mercedes-AMG EQ Performance** electric motors (code: **EQG-EA220**) with custom **AP Racing CP9660-1000** carbon-ceramic brake rotors and **Brembo GT 6-piston monobloc calipers** for 30% faster heat dissipation and 20% reduced unsprung weight, paired with **Pagid RSX29** racing brake pads for endurance track use",
+    "Installation of a **Magna PT eDrive 800V** high-performance inverter with **Silicon Mobility OLEA T222** control unit for 15% faster torque vectoring response, calibrated via **Mercedes-Benz XENTRY Performance** software to unlock an additional 120 kW (160 hp) per axle (total system output: 600 kW / 816 hp)",
+    "Integration of a **Webasto CV Standard 800V** liquid-cooled battery thermal management system with **3M Novec 7100** dielectric fluid immersion cooling, enabling sustained 3C discharge rates for 0-100 km/h in 3.2 seconds (stock: 4.5s) and a **Garrett E-Turbo** electric compressor for instant torque fill at low RPMs"
+  ],
+  "estetica": [
+    "Full **RML Group EQG Widebody Conversion** with **Porsche 935-inspired** fender flares in **Toray T800 carbon fiber**, increasing track width by 80mm front and 100mm rear for aggressive stance and improved high-speed stability",
+    "Custom **Brabus 800 Adventure XLP** front grille with **LED matrix laser headlights** (replacing stock EQG units) and **Anzo USA LED light bars** integrated into the **Rear Diffuser by Prior Design**, featuring active aerodynamics with **Bosch Servolectric** actuators for dynamic downforce adjustment",
+    "**HRE FF16** forged monoblock wheels (22x12.5 front, 22x13.5 rear) wrapped in **Michelin Pilot Sport Cup 2 R** tires (325/35 R22 front, 355/30 R22 rear), paired with **KW Suspensions Clubsport 3-way adjustable coilovers** and **Eibach ERS race springs** for 40mm lowered ride height and 30% stiffer damping"
+  ]
+}

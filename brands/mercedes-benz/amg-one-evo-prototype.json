@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "AMG ONE EVO PROTOTYPE",
+  "prestazioni": [
+    "Replacement of the M178+F1-derived 1.6L V6 hybrid powertrain's MGU-K (Motor Generator Unit-Kinetic) with a bespoke **Bosch MGH-2500** unit, increasing regenerative braking energy recovery from 120 kW to 160 kW while reducing rotational inertia by 18% via carbon-fiber rotor construction and a **Honeywell Garrett GT35R+** turbocharger upgrade with a billet compressor wheel (76mm inducer, 106mm exducer) and titanium nitride-coated turbine housing for 3.2 bar peak boost (up from 2.8 bar stock).",
+    "Installation of a **Weber Motor WMP-4** standalone ECU with a custom 32-bit ARM Cortex-R52 processor, running a proprietary **Mercedes-AMG F1-derived torque vectoring algorithm** (code-named 'Project Valkyrie') that dynamically adjusts the **ZF 8-speed AMG SPEEDSHIFT DCT** clutch pressure in 2ms increments, enabling 0-100 km/h in 1.9s (down from 2.2s) via preemptive downshifts and predictive torque split to the **GKN eAxle** (rear electric motor).",
+    "Full drivetrain reinforcement via a **Quaife ATB helical LSD** (85% lockup under load) paired with a **Pankl Racing Systems** 930M-grade titanium driveshaft (120mm diameter, 3.2mm wall thickness) and **AP Racing CP9436-1000** carbon-carbon clutch discs (380mm diameter, 6-paddle design) with a **Sachs Performance** dual-mass flywheel (12.8kg, 30% lighter than stock) to handle the 1,063 PS (1,049 hp) combined output (up from 1,063 PS stock, but with a 12,000 RPM redline extension via **Mahle Motorsport** forged pistons with a 13.5:1 compression ratio and **Grafal-coated** cylinder liners)."
+  ],
+  "estetica": [
+    "Replacement of the stock carbon-fiber monocoque's front splitter with a **RML Group** 'Delta Wing' aero package, featuring a 3D-printed titanium subframe (Ti-6Al-4V alloy) and a **Gurney flap** adjustable via **Moog electro-mechanical actuators** (0-25mm range, controlled by the Bosch MGH-2500 ECU for real-time drag reduction).",
+    "Installation of a **Vorsteiner V-FF 107** carbon-fiber rear diffuser with **active vortex generators** (4x **Dyson Air Multiplier** fans embedded in the diffuser tunnels, each capable of 2.1 m³/s airflow at 12V) and a **Porsche 919 Hybrid-derived** rear wing with **DRS (Drag Reduction System) 2.0**, utilizing **Shape Memory Alloy (SMA) actuators** (Nitinol wires) to morph the wing profile at speeds above 250 km/h, reducing drag by 14%.",
+    "Full **3M Scotchlite 900 Series** reflective vinyl wrap with **Mercedes-AMG Petronas F1 Team's 'Silver Arrows' livery** (custom-mixed **PPG D8189** silver basecoat) and **Oracle Red Bull Racing-style** 'halo' LED lighting system (12x **Osram Ostar Projection Compact** LEDs, 1,200 lumens each, synchronized with the **Bosch MGH-2500** for dynamic brake-light patterns during regenerative braking)."
+  ]
+}

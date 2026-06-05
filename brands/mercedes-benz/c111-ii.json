@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "C111-II",
+  "prestazioni": [
+    "Replacement of the original M950 (OM617-derived) 3.0L turbocharged triple-rotor Wankel engine with a bespoke **Mercedes-Benz M120 V12** (6.0L, 48V) featuring a **Garrett GT4202R** turbocharger (1.2 bar boost), **Mahle Motorsport forged pistons** (12.5:1 CR), **ARP Custom Age 625+ head studs**, and a **Weber-Marelli 12-throttle sequential injection system** with **Bosch Motorsport MS5.1 ECU** for 750+ HP at 7,200 RPM",
+    "Installation of a **Hewland VG300 6-speed transaxle** with **AP Racing carbon-carbon clutch** and **Penske 8760 adjustable LSD**, paired with a **GKN Driveline CV-jointed half-shaft upgrade** to handle torque steer under extreme acceleration",
+    "Full **Bilstein B16 PSS10 coilover suspension** with **Eibach ERS race springs** (400 lb/in front, 500 lb/in rear), **Ohlins TTX40 dampers**, and **HRE FF15 18x12\" front / 19x14\" rear forged wheels** wrapped in **Michelin Pilot Sport Cup 2 R** (275/35 R18 front, 345/30 R19 rear) for optimal mechanical grip"
+  ],
+  "estetica": [
+    "Replacement of the original fiberglass body with a **carbon-fiber monocoque chassis** (pre-preg autoclave, 1.2mm thickness) by **RML Group**, featuring **active aerodynamics** via **DTM-spec front splitter** (adjustable via **MoTeC ADL3 dash-controlled actuators**) and **Gurney flap-equipped rear diffuser** for 1,200 kg downforce at 250 km/h",
+    "Installation of **Hella Rallye 3000 headlights** (H4, 100W) with **custom Cibié Oscar polycarbonate lenses** and **LED daytime running lights** integrated into the **BBS Motorsport-style front grille** (replacing the original pop-up units for weight reduction)",
+    "Interior overhaul with **Sparco Pro 2000 carbon-Kevlar bucket seats** (FIA 8862-2009 certified), **Schroth 6-point harnesses**, **MOMO Mod.78 steering wheel** (quick-release, Alcantara-wrapped), and **Alcantara headliner** with **Bose Active Noise Cancellation** (custom-tuned for rotary exhaust note suppression)"
+  ]
+}

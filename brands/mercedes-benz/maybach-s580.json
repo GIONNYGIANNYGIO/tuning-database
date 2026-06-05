@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "MAYBACH S580",
+  "prestazioni": [
+    "M177 DE40 AL 4.0L V8 Biturbo (M177 engine code) hybrid-ready ECU flash via Weistec Engineering Stage 3+ software, targeting 750+ HP and 850+ lb-ft with upgraded fuel system (Bosch Motorsport 1,200cc injectors, Walbro 450 LPH in-tank pump, and Weistec billet fuel rails) while retaining full OBD-II compliance and Maybach-specific torque management for seamless Airmatic adaptation",
+    "BorgWarner EFR 9280 turbocharger upgrade (hybrid ball-bearing core, 76mm compressor wheel, 64mm turbine wheel) with custom Weistec titanium turbine housings, paired with a custom GReddy intercooler (1,200hp-rated bar-and-plate core, 3.5\" inlet/outlet) and Vibrant Performance titanium charge pipes with T-bolt clamps for zero boost leakage under 2.2 bar peak pressure",
+    "Full drivetrain reinforcement: Weistec 8-speed 9G-Tronic transmission upgrade with billet torque converter (4,500+ RPM stall), Weistec differential cover with integrated cooler, and Quaife ATB helical LSD (Maybach S-Class-specific 3.06:1 final drive ratio) with upgraded CV axles (GKN Driveline VL3 heavy-duty joints) and Vibrant Performance polyurethane subframe bushings to eliminate torque steer"
+  ],
+  "estetica": [
+    "Rocket Bunny Pandem Maybach S-Class widebody kit (carbon fiber fenders, front/rear bumpers, and side skirts) with custom 3M Matte Satin Black wrap and exposed carbon weave accents, paired with a custom Vorsteiner V-FF 107 22\" forged wheel set (front: 22x10.5 ET25, rear: 22x12.5 ET30) in Brushed Titanium finish with Michelin Pilot Sport Cup 2 R tires (275/30/22 front, 315/25/22 rear)",
+    "Lumma Design CLR S680 front grille replacement (full carbon fiber, Maybach-specific laser-cut mesh with integrated LED DRLs) and Lumma CLR S680 rear diffuser with integrated dual 4\" titanium exhaust outlets (custom-made by Akrapović, featuring quad carbon fiber tips with laser-etched Maybach logos and active valve control via Weistec exhaust management system)",
+    "Full interior overhaul: Recaro Pole Position carbon fiber bucket seats (Maybach S-Class-specific mounting brackets, upholstered in Nappa leather with Alcantara suede inserts and diamond-stitched Maybach crests), custom roll cage (TIG-welded 4130 chromoly, bolt-in design by Status Racing with integrated harness bars for Schroth Profi II 6-point harnesses), and a custom carbon fiber dashboard overlay (by 1016 Industries) with integrated AiM MXL 2 digital dash and Weistec paddle shifters (aluminum, anodized gold)"
+  ]
+}

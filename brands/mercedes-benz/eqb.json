@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "EQB",
+  "prestazioni": [
+    "Upgrade to a **Vitesco EM-motive EMR3 800V electric motor** (replacing the stock **EQB 300/350's dual-motor setup with M260/M264-derived inverter tech**) for a peak output of **550 kW (738 hp) and 1,000 Nm of torque**, paired with a **ZF 8-speed 8DT electric drive transmission** for optimized gear ratios and regenerative braking efficiency.",
+    "Install a **Mahle 800V silicon carbide (SiC) inverter** with **Wolfspeed C3M0065090D MOSFETs** to reduce switching losses by 30% and enable **350 kW fast-charging capability** (0-80% in 12 minutes) via a **Phoenix Contact HPC (High Power Charging) liquid-cooled connector** and **Webasto 800V battery thermal management system**.",
+    "Integrate a **Bosch MS 5.10 ECU with custom firmware (developed by Brabus EV or HWA AG)** to recalibrate the **EQB's torque vectoring algorithm** for track use, enabling **individual wheel torque control (IWTC) with 0.5ms response time** and **launch control at 1.2G lateral acceleration**, paired with **Continental SportContact 7 EV tires (275/40 R21)** for maximum grip."
+  ],
+  "estetica": [
+    "Fit a **Brabus 800V 'EV Signature' widebody kit** (carbon fiber fenders, front splitter, and rear diffuser) with **3D-printed aluminum honeycomb reinforcement** for structural rigidity, reducing drag coefficient to **0.24 Cd** while adding **120mm of track width** for stability.",
+    "Replace the stock headlights with **Hella 5000 LED Matrix Pro units** featuring **adaptive laser high-beams (1,000m range)** and **RGBW ambient lighting with Mercedes-AMG 'Night Package' styling**, controlled via **MBUX Hyperscreen with custom EV-specific themes** (e.g., battery charge visualization in real-time).",
+    "Install a **Rocket Bunny V3 aero kit** (modified for EQB's electric platform) with a **fixed carbon fiber rear wing (2.2m span, 300mm chord)** generating **120kg of downforce at 200 km/h**, paired with **OMP carbon fiber side skirts** and a **Vorsteiner carbon fiber hood** with **active cooling vents for the SiC inverter**."
+  ]
+}

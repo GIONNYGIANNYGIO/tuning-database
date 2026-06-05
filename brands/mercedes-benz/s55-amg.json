@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "S55 AMG",
+  "prestazioni": [
+    "Engine: M113K 5.4L Supercharged V8 (349hp stock) – Full internal build with forged Mahle pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a ported/polished cylinder head by *AMG Performance Studio* for optimized airflow. Supercharger upgrade to a *Kenne Bell 2.8L Mammoth* twin-screw blower with a custom *Vortech* air-to-water intercooler system (12-row core, -40°F intake temps) and *Siemens* 1000cc injectors for E85 compatibility.",
+    "Drivetrain: *OS Giken* 6-speed limited-slip differential with billet steel internals, paired with a *South Bend* twin-disc clutch (ceramic puck) and a *Spec Stage 4+* flywheel. Transmission reinforcement via *Weistec* valve body upgrade and *AMG* 430mm torque converter for 0.1s faster shifts under WOT.",
+    "Suspension/Brakes: *Öhlins* Road & Track coilovers (W220-specific valving, 30-way adjustable damping) with *H&R* 20mm front/15mm rear sway bars. *Brembo* GT-R 6-piston front/4-piston rear big brake kit (405mm rotors, *Ferodo* DS2500 pads) and *Goodridge* braided stainless steel brake lines. Chassis stiffening via *AMG* strut tower brace and *Hotchkis* subframe connectors."
+  ],
+  "estetica": [
+    "Aero: *Rocket Bunny* W220-Series widebody kit (carbon fiber fenders, 50mm extended wheel arches) with *Vorsteiner* carbon fiber front splitter and *AMG* GT-style rear diffuser. *VRSF* 3.5-inch titanium exhaust with *REMUS* quad outlets (valvetronic, 93dB at 4500 RPM).",
+    "Wheels: *Rotiform* LAS-R 20x10.5 ET25 front / 20x12 ET30 rear (staggered, 5x112 PCD) with *Michelin* Pilot Sport Cup 2 tires (275/30/20 front, 315/25/20 rear). *HRE* P101SC center-lock adapters for track use.",
+    "Interior: *Recaro* SPG XL seats (carbon fiber backs, Alcantara/leather upholstery) with *Schroth* 6-point harnesses. *AMG* Performance steering wheel (flat-bottom, suede) and *AEM* CD-7 digital dash (OLED, 7-inch display) replacing the stock cluster. *Bowers & Wilkins* Diamond Series audio upgrade with *Dynavin* N6 Pro head unit (CarPlay/Android Auto, 4G hotspot)."
+  ]
+}

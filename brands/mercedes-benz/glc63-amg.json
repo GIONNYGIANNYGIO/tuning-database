@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "GLC63 AMG",
+  "prestazioni": [
+    "AMG M177 4.0L V8 Biturbo (M177 DE40 AL) upgraded with a Weistec Engineering Stage 3+ turbo kit featuring Garrett GTX5533R Gen II turbos, billet compressor wheels, and a custom 4.5\" titanium downpipe system with 304 stainless steel piping and 200-cell catalytic converters for optimized spool and 850+ WHP capability on E85 fuel",
+    "Full Motec M150 ECU standalone management with custom CAN bus integration for the GLC63's 4MATIC+ drivetrain, including launch control, anti-lag, and individual cylinder fueling/timing maps, paired with a Weistec TCU flash for 0.05s shift times and torque vectoring adjustments",
+    "KW Suspension Clubsport coilovers with 3-way adjustable damping (compression/rebound/height), spherical bearing top mounts, and custom valving for the GLC63's multi-link front/rear suspension, combined with H&R 25mm front and 20mm rear anti-roll bars with polyurethane bushings for reduced body roll and improved turn-in response"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit for the GLC63 (GLC-Class X253), featuring carbon fiber fenders with 50mm extended wheel arches, front/rear bumpers with integrated canards, and a ducktail spoiler with a 3D-printed Gurney flap for increased rear downforce at high speeds",
+    "OEM+ AMG Night Package II styling with a custom Vorsteiner carbon fiber front splitter (25mm overhang), side skirts, and rear diffuser, all finished in Selenite Grey Magno with matte black accents and a dechromed grille featuring a 3D-printed AMG Panamericana mesh insert",
+    "BBS FI-R 21x10.5\" ET25 (front) and 21x12.5\" ET40 (rear) forged wheels with titanium hardware, wrapped in Michelin Pilot Sport Cup 2 R tires (295/30/21 front, 325/25/21 rear), paired with AP Racing 6-piston front and 4-piston rear brake calipers with 400mm two-piece rotors and Pagid RS29 brake pads for track use"
+  ]
+}

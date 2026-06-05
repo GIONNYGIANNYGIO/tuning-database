@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "G63 AMG 6X6",
+  "prestazioni": [
+    "AMG M177 4.0L V8 Biturbo (engine code: M177 DE40 AL) upgraded with a Weistec Engineering Stage 3+ ECU remap, targeting 750 HP and 850 lb-ft of torque via custom fueling maps and optimized turbo spool for the 6x6's unique drivetrain load",
+    "Garrett GTX5533R Gen II turbochargers (dual setup) with billet compressor wheels, 76mm inducers, and TiAL MV-R 44mm external wastegates to handle the M177's increased airflow demands under extreme off-road conditions",
+    "KW Suspensions 6x6-specific 3-way adjustable coilover system with remote reservoirs, 400mm travel front/rear, and reinforced spherical bearings to accommodate the portal axles and 3,850 kg curb weight"
+  ],
+  "estetica": [
+    "RML Group 6x6 carbon fiber widebody kit with integrated rock sliders, designed to clear 40-inch Nitto Trail Grappler M/T tires (37x13.5R20) while maintaining approach/departure angles",
+    "Brabus 6x6-specific front grille with illuminated AMG crest and custom LED light bar integration, replacing the stock bumper with a reinforced steel skid plate for extreme off-road protection",
+    "Rotiform LAS-R 20x12 forged wheels with beadlock rings, finished in Satin Black with custom offset (-12mm) to clear the portal axles and 6x6's 2,100mm track width"
+  ]
+}

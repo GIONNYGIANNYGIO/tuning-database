@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "EQC EDITION 1886",
+  "prestazioni": [
+    "AMG-derived dual-motor (N520) torque vectoring recalibration via Weistec Engineering Stage 3+ software, unlocking 550 Nm per axle (up from 415 Nm stock) with 0-100 km/h in 3.9s (vs. 5.1s OEM) and adaptive launch control for sub-4.0s 0-60 mph sprints",
+    "Brembo GT 6S 410mm front/390mm rear two-piece floating rotors with aluminum hats, paired with Pagid RSL29 racing pads and stainless steel braided lines for 1.2g deceleration from 100 km/h (vs. 1.0g OEM)",
+    "KW Suspension Variant 5 coilovers with 3-way adjustable damping (compression/rebound/height), 20mm front/15mm rear lowering, and Mercedes-specific top mounts featuring spherical bearings for NVH reduction while maintaining AMG GT 4-Door ride stiffness"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (EQC-specific carbon fiber fenders, front/rear bumpers, and side skirts) with integrated 3D-printed air curtains for 15% drag reduction at 120 km/h, finished in Selenite Grey Magno with matte black accents",
+    "OEM+ AMG Night Package II adaptation with gloss black 22\" AMG forged wheels (ET35 offset, 285/35 front/305/30 rear Michelin Pilot Sport Cup 2 R tires) and red-painted Brembo calipers with 'EQC 1886' laser-etched logos",
+    "Luxury meets motorsport: full Alcantara interior retrofit by Carlex Design (including steering wheel, dashboard, door cards, and headliner) with red contrast stitching, plus a custom 10.25\" MBUX Hyperscreen integration featuring a carbon fiber overlay and a real-time torque vectoring display"
+  ]
+}

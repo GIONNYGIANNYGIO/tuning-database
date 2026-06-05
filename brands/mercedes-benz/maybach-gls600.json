@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "MAYBACH GLS600",
+  "prestazioni": [
+    "M177 DE40 AL 4.0L V8 Biturbo (MCT) engine: Full Weistec Engineering Stage 3+ ECU/TCU remap with custom dyno-tuned fueling maps for 98 RON fuel, targeting 750 HP at 6,200 RPM and 850 Nm of torque (stock: 558 HP, 730 Nm), utilizing a Weistec W.3 high-flow downpipe with 200-cell catalytic converters and a custom heat-wrapped titanium exhaust system by Akrapović with electronically controlled valves for backpressure optimization",
+    "M177-specific Garrett GTX5533R Gen II turbochargers with billet compressor wheels (62mm inducer, 88mm exducer) and custom 0.85 A/R turbine housings, paired with a PWR intercooler core (1,200 HP capacity) and silicone charge pipes reinforced with 4-ply aramid fabric, reducing intake temps by 35°C under full load",
+    "Full chassis reinforcement with a Weistec GLS600-specific subframe brace kit (T6 aluminum alloy) and a custom 3-point strut tower bar by H&R, paired with KW Variant 5 coilovers (3-way adjustable damping, 40mm front/35mm rear ride height adjustment) with Maybach-specific spring rates (12.5 kg/mm front, 14.5 kg/mm rear) and spherical bearing top mounts for NVH reduction"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit for GLS-Class (2021+), featuring hand-laid carbon fiber fenders with 50mm extended wheel arches, custom front splitter with integrated LED DRLs, and a 3-piece rear diffuser with active aero flaps (adjustable via MBUX), all finished in Selenite Grey Magno with matte clear coat",
+    "Vorsteiner V-RT 23-inch forged monoblock wheels (23x10.5 ET35 front, 23x12.5 ET40 rear) with custom Maybach-specific offsets, wrapped in Michelin Pilot Sport Cup 2 R tires (285/35 R23 front, 325/30 R23 rear) and paired with Brembo GT 6-piston front/4-piston rear calipers with 420mm two-piece floating rotors (J-Hook slotted, zinc-coated)",
+    "Luxury-to-Sport interior conversion by Carlex Design, featuring full Nappa leather reupholstery in Obsidian Black with Diamond White contrast stitching, Alcantara headliner, and custom carbon fiber trim (door cards, center console, and dashboard) with Maybach-specific wood inlays (open-pore Macassar Ebony). Includes a custom roll cage (T45 steel, bolt-in) with Alcantara-wrapped crossbars and a bespoke infotainment system with a 12.3-inch MBUX touchscreen and a secondary 10.25-inch rear display for lap timers (linked to a RaceLogic VBOX Sport)"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "GLE63 AMG",
+  "prestazioni": [
+    "Upgrade to a Weistec Engineering Stage 3+ hybrid turbo kit for the M177/M178 DE40 AL (4.0L V8 Biturbo) engine, featuring Garrett GTX5533R Gen II turbos with billet compressor wheels, 1.05 A/R turbine housings, and integrated wastegates, paired with Weistec’s CNC-ported cylinder heads and upgraded valve springs for 850+ WHP on E85",
+    "Install a full AMR Performance M177/M178-specific fuel system overhaul, including dual Bosch Motorsports 044 high-flow fuel pumps, AEM 400C 1,200cc/min port injectors, and a Radium Engineering dual catch-can system with integrated oil separator for crankcase ventilation under extreme boost",
+    "Replace the stock 9G-Tronic transmission with a Wavetrac limited-slip differential and a Mercedes-AMG Performance Division 7-speed AMG SPEEDSHIFT MCT (Multi-Clutch Technology) transmission with a custom TCU tune by Dimsport Genius, featuring launch control, flat-foot shifting, and reinforced internals with a South Bend Clutch Stage 3+ twin-disc setup for 1,000+ Nm torque capacity"
+  ],
+  "estetica": [
+    "Fit a full Rocket Bunny V3 widebody kit for the GLE63 AMG (W166/X166 chassis), including carbon fiber fender flares, front/rear bumpers with integrated diffuser, and a custom 3D-printed rear spoiler with active Gurney flap (adjustable via AMG Drive Unit)",
+    "Install a full Akrapović Evolution Line Titanium exhaust system with quad 102mm carbon fiber tips, paired with a custom Valvetronic-style electronic exhaust valve controller by Armytrix for on-demand backpressure adjustment (track vs. street modes)",
+    "Replace all exterior lighting with a full Lumma Design CLR GLE63 AMG kit, featuring OLED taillights with sequential turn signals, adaptive LED headlights with laser high-beams, and a custom RGBW underglow system integrated into the AMG Night Package side skirts, controlled via a standalone Raspberry Pi-based controller with CAN bus integration"
+  ]
+}

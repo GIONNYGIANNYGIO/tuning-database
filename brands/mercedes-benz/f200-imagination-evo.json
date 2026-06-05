@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "F200 IMAGINATION EVO",
+  "prestazioni": [
+    "M120 V12 6.0L engine (120.990) upgraded with a custom billet crankshaft from Manley Performance (stroke increased to 88mm for 6.6L displacement), forged Mahle Motorsport pistons (10.5:1 CR), and Carrillo H-beam connecting rods for 800+ HP reliability under forced induction",
+    "Twin Precision Turbo PT6766CE turbochargers with custom 3D-printed Inconel turbine housings (designed by TurboSmart for the F200's unique exhaust manifold geometry) and TiAL MV-R 44mm wastegates with ceramic-coated internals for reduced lag and 2.2 bar peak boost",
+    "Full Motec M150 ECU with custom CAN bus integration for the F200's active aerodynamics (including rear wing and front diffuser actuation), paired with a Plex Knock Monitor for real-time ignition timing adjustments and a Bosch Motorsport 0280158003 high-flow fuel pump system with dual AEM 340lph pumps"
+  ],
+  "estetica": [
+    "Custom Rocket Bunny F200-specific widebody kit (carbon fiber front fenders with integrated NACA ducts for brake cooling, rear overfenders with 50mm extended wheel arches, and a 3-piece rear bumper with a diffuser that mimics the original concept's 'floating' design)",
+    "BBS LM-R 19x12 front / 20x14 rear wheels (ET +12/+5 offset) wrapped in Michelin Pilot Sport Cup 2 R tires (275/30/19 front, 345/25/20 rear) with custom center-lock adapters for the F200's unique hub design, paired with AP Racing CP9460-3600 6-piston front / 4-piston rear calipers and 380mm carbon-ceramic rotors",
+    "Full custom interior by Status Racing featuring a carbon fiber monocoque bucket seat with Schroth 6-point harnesses, a MOMO Prototipo steering wheel with integrated Motec C127 dash display, and a rear roll cage designed by Safety Devices (UK) with integrated air jack points and a fire suppression system by Lifeline"
+  ]
+}
