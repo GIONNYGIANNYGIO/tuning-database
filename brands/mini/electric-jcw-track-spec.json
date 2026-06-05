@@ -1,0 +1,14 @@
+{
+  "brand": "MINI",
+  "model": "ELECTRIC JCW TRACK SPEC",
+  "prestazioni": [
+    "Replacement of the stock Siemens eDrive motor (engine code: **EMP160**) with a **Magnax AXF225-18** axial flux motor, producing 450 kW (603 hp) and 850 Nm of torque, paired with a **Porsche Taycan Turbo S-spec 2-speed transmission** for optimized track gearing and launch control",
+    "Full **Motec C187 ECU and VCU (Vehicle Control Unit)** standalone management system with **custom torque vectoring maps** for the **GKN eTwinsterX** rear axle differential, enabling independent wheel torque control and 0-100 km/h in 2.8 seconds",
+    "Installation of a **Williams Advanced Engineering 800V 60 kWh lithium-ion battery pack** with **direct liquid cooling via a PWR Racing heat exchanger**, replacing the stock 32.6 kWh unit, and integration of a **BRUSA NLG513 DC fast-charging system** for 350 kW charging capability"
+  ],
+  "estetica": [
+    "**RML Group carbon fiber widebody kit** (front fenders, rear quarters, and rear diffuser) with **integrated NACA ducts** for brake cooling, reducing drag by 12% while increasing downforce by 40%",
+    "**AP Racing CP9660 6-piston front and 4-piston rear calipers** with **380mm carbon-ceramic rotors (CCM-R)** and **Goodridge 900-series braided stainless steel lines**, paired with **OMP Racing carbon fiber seats (FIA 8862-2009 certified)** and a **Schroth 6-point harness**",
+    "**Vorsteiner carbon fiber front splitter, rear wing (Gurney flap adjustable), and side skirts** with **3M 1080 series vinyl wrap in 'JCW Racing Green' with matte black accents**, including **custom LED taillights by LUX Automotive** with sequential turn signals and **Hella Rallye 3000 Supertones** for track-day visibility"
+  ]
+}

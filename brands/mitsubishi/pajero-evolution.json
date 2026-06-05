@@ -1,0 +1,19 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "PAJERO EVOLUTION",
+  "prestazioni": [
+    "Engine: 6G74 MIVEC V6 (3.5L DOHC 24V) with forged internals including JE Pistons 87.5mm forged slugs (11.5:1 CR), Eagle H-beam connecting rods, and ACL Race Series bearings for 500+ hp reliability on E85.",
+    "Forced Induction: Garrett GTX4202R turbocharger (0.96 A/R, 64mm inducer) with custom 3.5-inch stainless steel turbo manifold by Tomei, paired with a GReddy Type-R intercooler (700hp core) and 3-inch Tial Q blow-off valve.",
+    "Fuel System: Full return-style setup with Walbro 450LPH in-tank pump, Injector Dynamics ID1700x injectors, and AEM 340lph external pump, controlled via Haltech Elite 2500 ECU with flex-fuel sensor for E85 mapping.",
+    "Drivetrain: OS Giken Super Lock LSD (4.875 final drive) with custom 300M axles from Driveshaft Shop, paired with a Tilton twin-disc clutch (7.25-inch) and lightweight aluminum flywheel for 600 lb-ft torque capacity.",
+    "Suspension: Öhlins TTX40 coilovers with 3-way adjustable damping (24-way rebound, 24-way compression, 12-way high/low speed), custom valved for Pajero Evolution’s 5-link rear and double-wishbone front, paired with SuperPro poly bushings (90A durometer) and Whiteline 27mm front sway bar.",
+    "Braking: AP Racing 6-piston CP8620 calipers (380mm rotors) front and 4-piston CP5580 (330mm rotors) rear, with Ferodo DS2500 pads and Goodridge G-Stop braided lines, controlled via Motul RBF660 brake fluid."
+  ],
+  "estetica": [
+    "Widebody Conversion: Rocket Bunny Pajero Evolution kit (P-V2) with carbon fiber fenders (3.5-inch flares), front bumper with integrated canards, and rear diffuser, all painted in Mitsubishi’s original ‘Pyrenees Black’ with matte clear coat.",
+    "Aero: Voltex 3D GT wing (1,800mm width, 300mm chord) with carbon fiber endplates and adjustable angle (0-15 degrees), paired with a custom aluminum undertray by AutoTechnic for 20% reduced drag at 120mph.",
+    "Wheels: Work Emotion CR Kiwami (18x11 +15 front, 18x12 +25 rear) with 275/35R18 and 315/30R18 Michelin Pilot Sport Cup 2 tires, shod with titanium wheel bolts from Project Kics.",
+    "Lighting: Full LED conversion with Philips Ultinon Pro9000 bulbs (6,000K) in H4 housing, retrofitted with custom CREE XHP70.2 projectors and DRL strips integrated into the front bumper by Lightwerkz.",
+    "Interior: Recaro Pole Position seats (carbon fiber backs) with Schroth Profi II 6-point harnesses, MOMO Mod.78 steering wheel (350mm, suede), and custom roll cage by Safety Devices (FIA-spec, 4-point with door bars), wrapped in Alcantara with red stitching (Mitsubishi Ralliart heritage)."
+  ]
+}

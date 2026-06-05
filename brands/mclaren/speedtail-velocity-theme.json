@@ -1,0 +1,14 @@
+{
+  "brand": "MCLAREN",
+  "model": "SPEEDTAIL VELOCITY THEME",
+  "prestazioni": [
+    "M840TQ 4.0L twin-turbocharged V8 hybrid powertrain recalibration via McLaren Special Operations (MSO) bespoke ECU remap targeting 1,100+ hp (up from 1,035 hp) with a 30% increase in torque response below 3,500 RPM, utilizing a Motec M1 series standalone ECU for direct CAN bus integration with the Speedtail’s 48V e-motor system",
+    "Garrett GTX5533R turbochargers with billet compressor wheels (62mm inducer, 88mm exducer) and Inconel turbine wheels, paired with custom 4-ply silicone charge pipes (Samco Sport) and a PWR 1000hp-rated intercooler core (replacing the OEM unit) for sustained 1.8 bar boost under WOT",
+    "AP Racing CP9661-1000 6-piston monoblock calipers with carbon-ceramic rotors (410mm front, 390mm rear) and Ferodo DS3.12 racing pads, mated to a custom brake-by-wire recalibration via the Speedtail’s hydraulic control unit (HCU) to reduce pedal travel by 20% and eliminate ABS intervention under 150 mph"
+  ],
+  "estetica": [
+    "MSO Velocity Theme-specific carbon fiber weave with a bespoke 'Liquid Silver' tinted clear coat (applied via 7-stage hand-polishing process) over the entire monocoque, including the active rear aerofoil and front splitter, reducing weight by 8 kg while enhancing UV resistance",
+    "RML Group-designed 22-inch forged magnesium wheels (front: 9.5J ET45, rear: 11.5J ET50) with a 'Spiral Graphite' finish, wrapped in Pirelli P Zero Trofeo R tires (245/35 R22 front, 325/30 R22 rear) featuring custom sidewall branding with the Velocity Theme’s 'V' emblem in gold foil",
+    "Novitec Torado-style active rear diffuser with integrated LED light bar (replacing the OEM unit) and a 3D-printed titanium exhaust outlet shroud (designed by Capristo) for the twin 3.5-inch titanium exhaust tips, featuring a bespoke 'Velocity Wave' laser-etched pattern"
+  ]
+}

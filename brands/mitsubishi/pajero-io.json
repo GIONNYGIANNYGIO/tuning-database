@@ -1,0 +1,14 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "PAJERO IO",
+  "prestazioni": [
+    "4G93 1.8L DOHC 16V (engine code) forced induction conversion using a Garrett GT2860RS turbocharger (0.86 A/R, 60 trim) with a custom 3-inch stainless steel downpipe and HKS SSQV4 blow-off valve, paired with a GReddy intercooler core (400x200x60mm) and custom aluminum piping",
+    "Full standalone Haltech Elite 1500 ECU with custom wiring harness and individual cylinder fuel control, tuned for 98 RON fuel with a target AFR of 11.5:1 under boost (20 psi peak) and 13.0:1 in cruise, utilizing Denso 740cc high-impedance injectors and a Walbro 255 lph in-tank fuel pump",
+    "Custom 3-inch stainless steel exhaust system with a straight-pipe design from the turbo back, featuring a custom 50mm resonator delete and a Tomei 80mm titanium tip, paired with a lightweight aluminum driveshaft and a Cusco 2-way limited-slip differential (2.5 ratio) for improved power delivery"
+  ],
+  "estetica": [
+    "Rocket Bunny Pajero IO-specific widebody kit (front fenders, rear quarter panels, and rear bumper) with custom carbon fiber overfenders, paired with a custom front lip and rear diffuser from Varis Japan, all finished in a matte gunmetal wrap with gloss black accents",
+    "Ohlins DFV coilovers (4-way adjustable damping) with custom spring rates (8kg/mm front, 10kg/mm rear) and adjustable top mounts, paired with Cusco front and rear strut braces and a custom subframe reinforcement plate for chassis rigidity",
+    "Custom interior roll cage (8-point, TIG-welded) from AutoPower Industries, wrapped in Alcantara with red stitching, paired with Bride Zeta III bucket seats (fixed-back) and a custom Momo Prototipo steering wheel (350mm, suede) with a quick-release hub"
+  ]
+}

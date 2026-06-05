@@ -1,0 +1,14 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "AIRTREK",
+  "prestazioni": [
+    "Engine swap to a 4B12T (2.4L turbocharged inline-4 from the Mitsubishi Lancer Ralliart) with a forged internals kit from Tomei, including forged pistons (88mm bore, 9.0:1 compression), billet crankshaft, and H-beam connecting rods. Pair with a Garrett GTX3582R turbocharger (0.82 A/R turbine housing) and a custom 3.5-inch stainless steel turbo-back exhaust system from HKS Hi-Power Spec-R, featuring a 4-2-1 equal-length header and a 100-cell catalytic converter for emissions compliance.",
+    "Full bolt-on fuel system upgrade: Injector Dynamics ID1050x fuel injectors, Walbro 450 LPH in-tank fuel pump, and a Radium Engineering dual catch can setup with AN-6 lines. ECU reflash via OpenECU M150 standalone management system with custom maps for E85 compatibility (up to 30% ethanol blend) and launch control at 4,500 RPM.",
+    "Suspension overhaul with Ohlins Road & Track DFV coilovers (adjustable compression/rebound damping, 30-way adjustability) and a Whiteline front sway bar (24mm hollow, adjustable end links). Chassis reinforcement via Cusco front strut tower bar and a full bolt-in roll cage from AutoPower Industries (6-point, mild steel, MIG-welded). Braking system upgraded to Endless CC-RG6 rotors (330mm front, 300mm rear) with AP Racing CP8370 calipers and Ferodo DS2500 pads."
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (ABS plastic, bolt-on fenders with 50mm flares) paired with a custom carbon fiber hood from Seibon (vented, 30% weight reduction). Rear diffuser from Varis (carbon fiber, 3-piece design with integrated brake ducts) and a custom front splitter from APR Performance (carbon fiber, 3-inch overhang with adjustable dive planes).",
+    "Wheel setup: Work Emotion CR Kiwami (18x9.5 +35 front, 18x10.5 +38 rear) with Yokohama Advan A052 tires (245/40/18 front, 275/35/18 rear). Custom center caps with engraved Mitsubishi logo and gold hardware for contrast.",
+    "Interior: Bride Zeta III bucket seats (fixed-back, FIA-approved) with Takata 4-point harnesses. Custom roll cage padding from Status Racing (red/black Alcantara) and a Momo Mod.78 steering wheel (350mm diameter, suede grip). Full digital dash swap to an AIM MXS Strada with CAN bus integration for real-time boost, AFR, and oil pressure monitoring."
+  ]
+}

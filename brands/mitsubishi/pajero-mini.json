@@ -1,0 +1,14 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "PAJERO MINI",
+  "prestazioni": [
+    "Engine swap to a Mitsubishi 4A31T (660cc turbocharged inline-4 from the Mitsubishi Minica Dangan ZZ) with a forged internals kit from Tomei, including forged pistons (8.5:1 compression), billet crankshaft, and H-beam connecting rods. Pair with a Garrett GT12 turbo (GT1241Z) for 1.2 bar of boost, mated to a custom 3-inch stainless steel exhaust system by HKS Hi-Power with a 2.5-inch center section and 4-2-1 header design.",
+    "Full standalone ECU upgrade to a Haltech Elite 1500 with custom wiring harness by Wireworks, integrating a 3.5-bar MAP sensor, wideband O2 (AEM X-Series), and individual coil-on-plug ignition control. Tune via dyno session with a target AFR of 11.5:1 under full load and ignition timing optimized for 98 RON fuel (peak advance at 22° BTDC).",
+    "Suspension overhaul with Tein Flex Z coilovers (height-adjustable, 6kg/mm front springs, 4kg/mm rear) paired with Cusco front strut tower bar (22mm diameter) and a rear 4-point subframe brace by CUSCO. Upgrade to Project Mu B-Spec brake pads and stainless steel braided lines, with DBA 4000 Series slotted rotors (236mm front, 220mm rear) for improved heat dissipation."
+  ],
+  "estetica": [
+    "Full Rocket Bunny Pajero Mini widebody kit (PU-001) with custom fiberglass fenders, extended rocker panels, and a carbon fiber duckbill rear spoiler. Paint in Mitsubishi’s original “Cyber Blue Mica” (code 96K) with a 3-stage pearl coat by Glasurit.",
+    "OEM+ interior refresh with Recaro SRD-II seats (retrimmed in Nappa leather with Alcantara inserts) and a custom roll cage by Auto Power (6-point bolt-in, mild steel, 1.75-inch diameter). Replace the stock steering wheel with a Nardi Classic 350mm (suede) and add a Defi BF Series gauge pod (boost, oil temp, oil pressure) mounted on the A-pillar.",
+    "Exterior lighting upgrade to Hella 500 Series LED headlights (projector-style, 55W equivalent) with a custom HID retrofit (Morimoto Mini H1, 5000K) and JDM-spec rear combination lights (clear lens, smoked reflectors). Add a custom front lip spoiler by Vertex (carbon fiber, 3-piece) and a rear diffuser by Seibon (carbon fiber, bolt-on)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "LANCER EVOLUTION IX MR",
+  "prestazioni": [
+    "4G63T MIVEC (4G63T-STD6G7) engine build with forged internals: Manley 87mm forged crankshaft, Eagle H-beam connecting rods, and JE 87mm forged pistons (9.0:1 compression) for 35+ psi boost handling, paired with a Garrett GTX4202R turbocharger (0.82 A/R turbine housing, billet compressor wheel) and Tomei 272°/276° camshafts (MIVEC-specific profiles) for optimized high-RPM power delivery (target: 550whp on E85)",
+    "Full titanium turbo-back exhaust system by HKS Hi-Power Spec-R (3.5\" primary piping, 4.5\" collector, and 100-cell GReddy Revolution RSII cat-back) with a custom 3\" downpipe featuring a divorced wastegate setup (TurboSmart CompGate40) to eliminate boost creep under sustained load",
+    "Custom Motec M150 ECU with individual cylinder fuel control, anti-lag system (ALS) mapping for turbo spool retention, and launch control (3-step, 6,500 RPM limiter) paired with a Haltech CAN-based PDM15 for precise power distribution and fail-safe monitoring (oil pressure, EGT, and fuel pressure sensors by AEM)"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (Evo IX-specific, carbon fiber front fenders with integrated canards, rear overfenders, and a duckbill rear wing) with custom 3M Gloss Black wrap and red pinstriping (matching the OEM MR red accents)",
+    "Voltex Type-7 front bumper lip (JDM-spec, reinforced with carbon fiber backing) and a custom carbon fiber diffuser by Seibon (integrated with dual 3.5\" exhaust exits) for aggressive aero balance (target: -200kg downforce at 160km/h)",
+    "OEM MR Edition Recaro SP-X seats (retrimmed in Alcantara with red stitching by Status Racing) paired with a custom roll cage by Cusco (Type RS, 8-point, bolt-in) and a Momo Mod.78 steering wheel (350mm, suede, quick-release hub) for track-focused ergonomics"
+  ]
+}

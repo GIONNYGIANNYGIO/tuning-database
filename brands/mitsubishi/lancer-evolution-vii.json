@@ -1,0 +1,14 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "LANCER EVOLUTION VII",
+  "prestazioni": [
+    "4G63T (MIVEC) engine: Full forged internals with Manley 87mm forged crankshaft, Eagle H-beam connecting rods, and JE 87mm forged pistons (9.0:1 compression for E85 compatibility), paired with a Garrett GTX3582R turbocharger (0.82 A/R turbine housing, 62mm compressor wheel) and custom 3.5\" stainless steel turbo manifold by Tomei.",
+    "Fuel system upgrade: Injector Dynamics ID1050x fuel injectors, Walbro 450LPH in-tank fuel pump, and a Radium Engineering dual catch can setup with -10AN lines to prevent oil buildup in the intake tract. ECU reflash via Cobb Accessport with a custom E85 flex-fuel map by English Racing, targeting 450whp on 93 octane and 520whp on E85 with 32psi boost.",
+    "Drivetrain reinforcement: OS Giken Super Lock LSD (2.5-way) in the rear, Cusco 1.5-way front LSD, and a PPG straight-cut 5-speed dog engagement gearset (1st: 2.785, 2nd: 1.950, 3rd: 1.407, 4th: 1.031, 5th: 0.795) with a Tilton twin-disc clutch and lightweight flywheel. Driveshafts upgraded to carbon fiber units by Driveshaft Shop."
+  ],
+  "estetica": [
+    "Rocket Bunny V1 widebody kit (Evo VII-specific) with custom carbon fiber overfenders, front bumper canards, and a duckbill rear wing extension. Full carbon fiber hood by Seibon with a 3\" ram-air intake scoop and integrated NACA ducts for brake cooling.",
+    "Ohlins Road & Track coilovers (Evo VII-specific valving) with 24-way adjustable damping, Swift Springs (8kg/mm front, 10kg/mm rear), and custom top mounts by Cusco for camber adjustment. Polyurethane bushings (SuperPro) for subframe, control arms, and sway bars (27mm front, 24mm rear).",
+    "BBS LM-R wheels (18x9.5 +20 front, 18x10.5 +25 rear) with Toyo R888R tires (255/40/18 front, 275/35/18 rear). AP Racing 6-piston front calipers (356mm rotors) and 4-piston rear calipers (330mm rotors) with Ferodo DS2500 brake pads and custom stainless steel braided lines by Goodridge."
+  ]
+}

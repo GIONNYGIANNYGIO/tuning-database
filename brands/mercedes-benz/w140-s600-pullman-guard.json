@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "W140 S600 PULLMAN GUARD",
+  "prestazioni": [
+    "Engine: M120 V12 6.0L (120.990) with forged internals by Mahle (pistons, connecting rods) and a custom billet crankshaft from Manley Performance, paired with a bespoke camshaft profile by Schrick (280° duration, 12.5mm lift) for optimized high-RPM breathing while retaining low-end torque for the armored chassis.",
+    "Forced Induction: Twin Precision Turbo PT6266 CEA turbochargers with 62mm inducers, custom 3D-printed Inconel turbine housings by TurboSmart, and a dual-ceramic-coated intercooler setup (Garrett GTX-series core) with 4.5\" piping and TiAL MV-R 50mm wastegates, targeting 1.2 bar of boost and 750+ WHP on 100-octane fuel with a Motec M150 ECU managing sequential injection and ignition timing.",
+    "Drivetrain: Reinforced W140-specific 5G-Tronic transmission with a Level 10 valve body by Sonnax, a custom torque converter by Precision Industries (3,500 RPM stall), and a Quaife ATB differential with 3.69:1 final drive ratio. The driveshaft is upgraded to a carbon-fiber unit by The Driveshaft Shop, and the rear subframe is reinforced with a custom triangulated brace by H&R."
+  ],
+  "estetica": [
+    "Body: Full carbon-fiber widebody conversion by Prior Design (PD63RS kit), including custom 3-piece overfenders, a bespoke front splitter with integrated air curtains, and a rear diffuser with active aerodynamics (adjustable Gurney flaps controlled by the Motec ECU). The armored glass is replaced with polycarbonate by Armormax, retaining ballistic integrity while reducing weight by 40%.",
+    "Wheels: Custom 22\" forged monoblock wheels by HRE (FF15 model) in a staggered fitment (285/30 front, 325/25 rear) with titanium lug bolts by Bimecc, wrapped in Michelin Pilot Sport Cup 2 R tires. The brake system features 6-piston AP Racing calipers (CP9660) with 420mm two-piece rotors and carbon-ceramic pads by Pagid RS29.",
+    "Interior: Full reupholstery by Recaro (Pole Position seats in Alcantara with Kevlar reinforcement) and a custom roll cage by Matter Fab (chromoly 4130, TIG-welded) integrated with the Pullman Guard armor. The dashboard is replaced with a digital unit by AIM (MXS 1.2) displaying turbo pressure, AFR, and G-forces, while the rear compartment features a bespoke entertainment system by Bang & Olufsen (BeoSound Stage) with sound-deadening by Dynamat Extreme."
+  ]
+}

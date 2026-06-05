@@ -1,0 +1,14 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "OUTLANDER PHEV",
+  "prestazioni": [
+    "Engine Control Unit (ECU) reflash for the **4B11 2.0L MIVEC + Twin-Motor PHEV system (engine code: 4B11-PHEV)** using a **KTEC PHEV-Specific Stage 2+ Tune** to optimize torque split between the 2.0L ICE and the front/rear electric motors (S-AWC compatibility), targeting a 20% increase in combined system power (from 200 HP to ~240 HP) while maintaining battery longevity via custom regenerative braking maps.",
+    "Upgraded **Mitsubishi OEM PHEV battery cooling system** with a **Setrab 10-row oil cooler (part #76010-10)** and **Meyle HD electric water pump (part #114 019 0005/HD)** to prevent thermal throttling during sustained high-load hybrid operation, paired with a **Motul Hybrid 0W-20** full-synthetic oil for reduced internal resistance in the Atkinson-cycle 4B11.",
+    "Installation of a **HKS Hi-Power Exhaust System (part #32006-AK001)** with **3.5-inch mandrel-bent 304 stainless steel piping** and **resonated center muffler delete**, specifically designed for the Outlander PHEV’s dual-mode exhaust valves to enhance scavenging during ICE-only operation, while retaining EV stealth mode functionality via a **Valvetronic electronic exhaust flap controller (part #VTEC-OPHEV)**."
+  ],
+  "estetica": [
+    "**Liberty Walk LB Works Outlander PHEV Widebody Kit (part #LB-OPHEV-WB)** with **custom 3M Matte Military Green (201C) wrap** and **carbon fiber front splitter extension**, designed to clear the PHEV’s unique front motor cooling ducts while accommodating **20x9.5 ET35 Work Emotion CR Kiwami wheels** with **255/45R20 Michelin Pilot Sport 5 SUV tires** for staggered fitment.",
+    "Full **Seibon Carbon Fiber Hood (part #CF-MO16-HOOD)** with **hidden tow hooks** and **custom LED daytime running light delete** (replaced with **Lux H8 Angel Eyes (part #LX-H8-3K)**), paired with a **Rally Armor UR Mud Flap Kit (part #RA-MITSUBISHI-OUTLANDER-PHEV)** in **black with red lettering** for off-road aesthetic.",
+    "Interior overhaul with **Recaro Sportster CS (part #390.200) front seats** in **Alcantara/red stitching**, **Momo Prototipo steering wheel (part #001-16-20-30)** with **P3Cars PHEV-specific digital gauge cluster (part #P3-OUTLANDER-PHEV)**, and **custom sound deadening via Kilmat 80 mil butyl sheets** to reduce cabin noise during EV mode."
+  ]
+}

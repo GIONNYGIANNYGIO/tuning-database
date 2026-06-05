@@ -1,0 +1,14 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "LANCER EVOLUTION VII FQ300",
+  "prestazioni": [
+    "Replace the stock 4G63T (7th-gen block, 85mm bore, 88mm stroke) with a forged internals kit from Tomei, including 87mm forged pistons (9.0:1 CR), billet crankshaft, and H-beam connecting rods to handle 500+ hp reliably under boost",
+    "Upgrade the turbocharger to a Garrett GTX3582R Gen II with a 0.82 A/R turbine housing and 62mm compressor wheel, paired with a custom 3.5\" stainless steel downpipe and a GReddy Profec B Spec II boost controller for 32 psi peak pressure",
+    "Install a Haltech Elite 2500 standalone ECU with a custom 4D ignition map for the 4G63T, integrating a Link G4+ CAN Lambda module and a set of Denso Iridium IK24 spark plugs gapped at 0.028\" for optimized combustion under high boost"
+  ],
+  "estetica": [
+    "Fit a Veilside Fortune 03 widebody kit with carbon fiber front fenders, rear quarter panels, and a custom 2.5\" extended wheelbase to accommodate 18x10.5\" Work Meister S1 3P wheels (ET15) with 265/35/18 Michelin Pilot Sport Cup 2 tires",
+    "Replace the stock front bumper with a C-West JDM-spec Type-S lip spoiler and a custom carbon fiber diffuser from Rocket Bunny, paired with a Cusco rear wing (200mm height, 15-degree angle) for balanced aero at 180+ mph",
+    "Install a full Ohlins Road & Track coilover system (DFV damping, 2-way adjustable) with custom spring rates (12kg/mm front, 14kg/mm rear) and a Cusco front strut bar (22mm diameter, 3-point design) to stiffen the Evo VII's 4B11-derived chassis"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "MONTERO",
+  "prestazioni": [
+    "Engine swap to a 6G74TT (3.5L V6 twin-turbo) with forged internals including Manley H-beam connecting rods, JE forged pistons (9.0:1 compression), and ACL Race Series bearings. Turbocharged with a Garrett GTX4202R (84mm inducer) on a custom Precision Turbo manifold, paired with a TiAL MV-R 44mm wastegate and TiAL Q 50mm blow-off valve. Fuel system upgraded with Injector Dynamics ID1700x injectors, Walbro 450 LPH in-tank pump, and a Radium Engineering fuel pressure regulator.",
+    "Full custom ECU tune via Haltech Elite 2500 with flex-fuel capability, utilizing a Continental ethanol sensor and AEM X-Series wideband O2 sensors. Ignition system upgraded with NGK Iridium IX spark plugs (gapped at 0.028\") and MSD 8.5mm super conductor wires. Cooling system overhaul with a Mishimoto aluminum radiator, Koyorad GT-style intercooler, and dual 12\" SPAL fans with a Derale remote thermostat.",
+    "Drivetrain reinforcement with a PPG 6-speed manual transmission swap (from a Mitsubishi FTO GPX R), OS Giken twin-plate clutch, and a Cusco 2-way limited-slip differential. Suspension upgraded with Ohlins Road & Track DFV coilovers (custom valved for Montero chassis), SuperPro poly bushings (full kit), and Whiteline adjustable sway bars (24mm front, 22mm rear). Braking system features Brembo GT 6-piston calipers (front) and 4-piston calipers (rear) with DBA 5000 Series rotors and Ferodo DS2500 pads."
+  ],
+  "estetica": [
+    "Full Rocket Bunny PANDER Montero widebody kit (V1) with custom carbon fiber fenders, front bumper, and rear diffuser. Overfenders extended 3\" per side with custom aluminum rivet reinforcement. Rear wing replaced with a custom 3D-printed carbon fiber GT wing (inspired by the R34 GT-R) with adjustable angle mounts.",
+    "Custom front grille delete with a 3D-printed carbon fiber mesh insert (hexagonal pattern) and LED DRLs from LUX Automotive. Side mirrors replaced with carbon fiber replicas from Seibon, featuring integrated turn signals. Rear lighting upgraded to custom sequential LED taillights (designed by Diode Dynamics) with smoked lenses and a full-width LED light bar (Oracle Lighting) integrated into the rear bumper.",
+    "Interior stripped and reupholstered with Recaro Pole Position seats (front) and a custom rear bench (reclining, 60/40 split) wrapped in Alcantara with red stitching. Custom roll cage designed by Custom Cages (8-point, TIG-welded chromoly) with integrated harness bar. Steering wheel replaced with a NRG Innovations 350mm suede wheel with quick-release hub, paired with a Works Bell short shifter. Full custom gauge cluster with Defi Advance BF series gauges (boost, oil temp, oil pressure, wideband) mounted in a carbon fiber overlay."
+  ]
+}

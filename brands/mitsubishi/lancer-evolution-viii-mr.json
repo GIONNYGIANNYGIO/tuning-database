@@ -1,0 +1,14 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "LANCER EVOLUTION VIII MR",
+  "prestazioni": [
+    "Engine: 4G63T (MIVEC) with forged internals including JE 87mm forged pistons (9.0:1 CR), Eagle H-beam connecting rods, and ACL Race Series bearings. Paired with a Garrett GTX3582R turbocharger (0.82 A/R turbine housing, 62mm compressor wheel) on a custom 3.5-inch stainless steel downpipe with a Tomei 3-inch titanium exhaust system (catless front section, resonated mid-pipe, and 100mm dual exits).",
+    "Fuel System: Injector Dynamics ID1050x fuel injectors with a Radium Engineering dual fuel pump hanger (Walbro 450LPH pumps), Aeromotive A1000 fuel pressure regulator, and a custom fuel rail setup. ECU reflash via EcuTek ProECU with a custom 350whp (420hp at the crank) map optimized for 32psi boost on E85 (flex-fuel compatible with Continental ethanol sensor).",
+    "Drivetrain & Suspension: OS Giken Super Lock LSD (front and rear) with a PPG 5-speed dog engagement gearset (1.5:1 1st gear ratio). Ohlins Road & Track DFV coilovers (22-way adjustable damping, 8kg/mm front springs, 10kg/mm rear springs) with Cusco front and rear sway bars (22mm front, 20mm rear). Polyurethane bushings (Energy Suspension full set) and a Whiteline rear subframe brace for chassis rigidity."
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny V1 widebody kit (carbon fiber front fenders, rear quarter panels, and rear bumper) with a custom 3M Gloss Black wrap and red pinstriping. Voltex Type-3 rear wing (carbon fiber, 1200mm width, adjustable angle) and a custom carbon fiber front splitter with integrated canards (3D-printed ABS supports).",
+    "Wheels & Brakes: Work Emotion CR Kiwami 2-piece wheels (18x9.5 +20 front, 18x10.5 +25 rear) in Hyper Silver with Toyo R888R tires (255/40/18 front, 275/35/18 rear). AP Racing Radi-CAL 6-piston front calipers (355mm discs) and 4-piston rear calipers (330mm discs) with Ferodo DS2500 brake pads and Motul RBF660 brake fluid.",
+    "Interior & Details: Bride Zeta III bucket seats (fixed-back, FIA-approved) with Schroth 6-point harnesses and a custom half-cage (TIG-welded 4130 chromoly, bolt-in rear section). Momo Mod.78 steering wheel (350mm, suede) with a NRG quick-release hub. Full carbon fiber dash overlay (custom-fit for Evo VIII MR) and a Defi BF Advance gauge cluster (oil pressure, boost, wideband AFR, and water temp)."
+  ]
+}

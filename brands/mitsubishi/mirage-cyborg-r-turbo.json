@@ -1,0 +1,14 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "MIRAGE CYBORG R TURBO",
+  "prestazioni": [
+    "Engine: 4G15T (1.5L turbocharged inline-4) – Full forged internals including JE 87mm forged pistons (9.5:1 CR), Eagle H-beam connecting rods, and ACL Race Series bearings. Stock crankshaft balanced to ±0.5g with ARP main studs and head studs for 38psi boost capability.",
+    "Turbocharger: Garrett GT2860RS-5 (Journal Bearing) with TiAL 44mm MV-R wastegate and TiAL Q 50mm blow-off valve. Custom 3-inch stainless steel turbo manifold by Tomei (Mirage-specific flange) with ceramic coating for 400whp potential on E85.",
+    "Fuel System: Injector Dynamics ID1050x injectors (side-feed, 1050cc/min) with Radium Engineering fuel rail and Walbro 450LPH in-tank pump. AEM 340LPH external lift pump for E85 compatibility, paired with a Link G4+ Xtreme ECU (Mirage-specific plug-and-play harness)."
+  ],
+  "estetica": [
+    "Body Kit: Veilside Mirage Cyborg R-specific widebody conversion (FRP construction) with integrated carbon fiber side skirts and rear diffuser. Front bumper modified for a 3D-printed aluminum intercooler duct (custom-molded to fit the GT2860RS).",
+    "Suspension: Tein Flex Z coilovers (Mirage-specific valving) with Cusco front strut bar and rear 4-point aluminum strut brace. Whiteline adjustable rear sway bar (22mm) and poly bushings for subframe and control arms. Work Meister S1 3P 15x8 +38 wheels with 205/45/15 Federal 595 RS-RR tires.",
+    "Aero: Custom carbon fiber rear wing (3D-scanned from the Mirage’s roofline) with Gurney flap, mounted on aluminum pedestals. Front splitter with integrated canards (3D-printed PETG) and a custom aluminum undertray for 30% more front downforce at 120mph."
+  ]
+}

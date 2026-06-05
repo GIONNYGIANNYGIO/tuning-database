@@ -1,0 +1,14 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "FUSO CANTER",
+  "prestazioni": [
+    "Engine swap to a 4M50T 4.9L turbo-diesel inline-4 (OEM in heavy-duty Canter variants) with a BorgWarner EFR 7670 turbocharger, upgraded to a 1.05 A/R turbine housing for optimized spool and top-end flow, paired with a custom 3-inch stainless steel downpipe and a custom-mapped Denso G2.2 CRDi ECU reflash via EcuTek ProECU for 320hp and 750Nm torque (stock: 175hp/520Nm)",
+    "Full drivetrain reinforcement: Sachs Racing clutch (dual-disc, 800Nm capacity) with a billet steel flywheel, Quaife ATB differential (80% lock) for the 6-speed DUONIC dual-clutch transmission, and a custom aluminum driveshaft with CV joints from a Fuso Fighter to handle increased torque",
+    "Suspension overhaul: Öhlins Road & Track DFV coilovers (custom valving for 3.5-ton payload capacity), polyurethane bushings from SuperPro (part #SPF1035K) for the front control arms, and a custom 30mm rear anti-roll bar from Whiteline (part #BMR95XZ) to reduce body roll during aggressive cornering on weight-transfer-sensitive chassis"
+  ],
+  "estetica": [
+    "Custom widebody conversion using Rocket Bunny’s ‘Canter GT’ kit (fiberglass fenders, carbon fiber side skirts, and a ducktail spoiler), designed specifically for the FE85 chassis with OEM+ fitment and 30mm extended wheel arches to accommodate 18x9.5 ET12 Volk Racing TE37SL wheels (bronze finish) with 245/40R18 Michelin Pilot Sport Cup 2 tires",
+    "Full carbon fiber front bumper replacement with integrated DRLs (Seibon Carbon, part #CF-MFC-001) and a custom aluminum mesh grille (hand-formed, inspired by the 2000s Mitsubishi Galant VR-4), paired with a custom 2.5-inch stainless steel exhaust exit (dual side-exit, wrapped in DEI Titanium exhaust wrap)",
+    "Interior roll cage: Custom 8-point chromoly cage by Custom Cages UK (MOT Type-approved, bolt-in design for the FE85 cab), upholstered in Alcantara with red stitching (Recaro Pole Position seats, trimmed in black and red Nappa leather by Cobra Seats), and a custom aluminum dashboard overlay with a 12.3-inch AIM MXS Strada digital dash (CAN bus integration for the 4M50T engine)"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "LANCER EVOLUTION II RS",
+  "prestazioni": [
+    "Engine: 4G63T (7-bolt, 85.4mm bore, 88mm stroke) with forged internals including JUN 87mm forged pistons (9.0:1 CR), Eagle H-beam connecting rods, and ACL Race Series bearings. Turbocharger upgrade to Garrett GT2860-5 (0.64 A/R turbine housing) with a custom 3-inch stainless steel downpipe and GReddy Profec B Spec II boost controller targeting 1.2 bar (17.4 psi) peak boost.",
+    "Fuel System: Nismo 550cc/min high-impedance injectors paired with a Walbro 255 LPH in-tank fuel pump, AEM 320LPH inline pump, and Sard 800cc top-feed fuel rail. ECU reflash via EcuTek ProECU with custom 2D/3D ignition and fuel maps optimized for 98 RON fuel, including knock control via Defi Advance BF knock monitor.",
+    "Drivetrain & Handling: OS Giken Super Lock LSD (2.5-way) in the front and Cusco Type-RS 1.5-way LSD in the rear. Suspension overhaul with Ohlins Road & Track DFV coilovers (8-position compression, 20-position rebound), Eibach Pro-Street S sway bars (24mm front, 22mm rear), and spherical bearing conversion for front control arms using SuperPro poly bushings. Braking upgraded to Endless CC-R6 rotors (320mm front, 300mm rear) with AP Racing CP5555 front calipers and Ferodo DS2500 pads."
+  ],
+  "estetica": [
+    "Body: C-West Evolution II RS-specific widebody kit (fiberglass, OEM-style fitment) with integrated carbon fiber front splitter and rear diffuser. Rear wing replaced with a Voltex Type-3 GT wing (1,200mm width, 300mm height) on custom aluminum mounts. Hood swapped for a Seibon carbon fiber vented unit (Type-2, 3-layer weave).",
+    "Wheels & Aero: Work Meister S1 3P 17x9 +22 front and 17x10 +30 rear wheels with 245/40R17 front and 265/35R17 rear Yokohama Advan A052 tires. Front canards from the Tommi Makinen Edition (TME) replica kit, paired with custom aluminum side skirts (hand-fabricated to match C-West widebody flares).",
+    "Interior: Recaro SRD-E full bucket seats (JDM-spec, 90s pattern) with Schroth Profi II 6-point harnesses. Momo Prototipo steering wheel (350mm, suede) on a NRG quick-release hub. Defi BF gauges (boost, oil pressure, water temp) mounted in a custom aluminum A-pillar pod, with a GReddy E-Manage Ultimate piggyback controller hidden in the glovebox."
+  ]
+}

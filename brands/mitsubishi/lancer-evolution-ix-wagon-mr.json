@@ -1,0 +1,14 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "LANCER EVOLUTION IX WAGON MR",
+  "prestazioni": [
+    "Engine: 4G63T (MIVEC) with forged internals including JE 87mm forged pistons (9.0:1 CR), Eagle H-beam connecting rods, and ACL Race Series main/rod bearings to handle 500+ WHP reliably. Turbo upgrade to Garrett GTX3582R Gen II with 0.82 A/R turbine housing, TiAL MV-R 44mm wastegate, and custom 3.5\" stainless downpipe with Vibrant 1799 high-flow catalytic converter.",
+    "Fuel System: Injector Dynamics ID1050x fuel injectors paired with a Radium Engineering dual-core fuel rail, Walbro 450 LPH in-tank pump, and AEM 380 LPH external lift pump. ECU reflash via EcuTek ProECU with custom 3-bar MAP sensor calibration for E85 flex-fuel capability and launch control optimized for the wagon's 1,500kg curb weight.",
+    "Drivetrain: OS Giken Super Lock LSD (2.5-way) in the front and Cusco Type-RS 1.5-way in the rear, paired with a PPG straight-cut 1st/2nd gear set (2.317/1.947 ratios) and reinforced PPG 3rd/4th gears. Clutch Masters FX500 twin-disc clutch with billet flywheel and reinforced ACT 6-puck pressure plate for torque capacity up to 650 Nm."
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny V3 widebody kit (Evo IX wagon-specific) with carbon fiber front splitter, overfenders, and duckbill rear wing. Custom 3M Matte Military Green wrap with gloss black accents on the roof, mirrors, and rear diffuser. Voltex Type-5 rear wing with adjustable carbon fiber endplates for high-speed stability.",
+    "Suspension: Ohlins Road & Track DFV coilovers with 8kg/mm front springs and 10kg/mm rear springs, adjustable camber plates, and spherical bearing top mounts. Cusco front strut tower bar and rear 4-point chassis brace to reduce flex in the wagon's unibody. Whiteline adjustable sway bars (24mm front, 22mm rear) with poly bushings for reduced body roll.",
+    "Wheels/Brakes: Work Meister S1 3P 18x9.5 +15 ET wheels with 245/40/18 Michelin Pilot Sport Cup 2 tires. AP Racing Radi-CAL 6-piston front calipers with 355mm two-piece rotors and 4-piston rear calipers with 330mm rotors, paired with Ferodo DS2500 brake pads and Motul RBF660 brake fluid for fade resistance under track use."
+  ]
+}

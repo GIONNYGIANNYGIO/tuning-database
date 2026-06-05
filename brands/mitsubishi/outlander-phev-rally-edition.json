@@ -1,0 +1,14 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "OUTLANDER PHEV RALLY EDITION",
+  "prestazioni": [
+    "Engine: 4B12 MIVEC PHEV (2.4L inline-4 hybrid) – Replace the stock hybrid battery with a LiFePO4 48V 20Ah high-discharge pack from A123 Systems (model AMP20M1HD-A) for 30% faster regenerative braking and 15% improved throttle response under load. Pair with a custom ECU reflash from EcuTek ProECU (version 4B12-PHEV-RALLY-2024) to optimize torque split between the 2.4L ICE and twin electric motors (front/rear) for gravel-specific power delivery (0-60 mph in 5.8s vs. stock 7.2s).",
+    "Drivetrain: Swap the stock Aisin TF-80SC 6-speed automatic for a reinforced Quaife ATB LSD (part # QDF7J) in the front axle and a Torsen Type-C (part # T-2R) in the rear, both paired with custom CV joints from GKN Driveline (model VL3-2024) to handle 40% more torque under rally conditions. Upgrade the PHEV-specific transfer case with a BorgWarner ITM3e (part # 13567900) for 50/50 torque bias under hard acceleration.",
+    "Suspension: Replace the stock MacPherson struts with a full Öhlins TTX46 Rally suspension kit (part # MIT-001) featuring 3-way adjustable dampers, 50mm extended travel, and reinforced spherical bearings. Pair with custom 25mm front and 20mm rear Eibach Pro-Kit springs (part # E40-25-050-01-25 & E40-20-050-01-20) for a 1.5-inch lift. Add polybushings from SuperPro (part # SPF2001K) to eliminate compliance under high-load cornering."
+  ],
+  "estetica": [
+    "Aero: Install a custom RallyArt-inspired widebody kit (part # RA-OLPHEV-RALLY-2024) with carbon-fiber fender flares (2.5-inch wider front, 3-inch wider rear) and a 3D-printed ABS front splitter from Seibon Carbon (model MIT-OLPHEV-SPLITTER-2024) with integrated brake ducts. Add a carbon-fiber rear diffuser from Varis Japan (part # VRS-OLPHEV-DIFFUSER) with dual 3-inch exhaust exits for the stock 4B12 exhaust system (re-routed for ground clearance).",
+    "Lighting: Replace the stock headlights with a full Hella Rallye 2000 LED kit (part # 1AL 008 271-001) featuring 8,000-lumen CREE XHP70.2 bulbs and integrated DRLs. Add auxiliary lighting with a pair of Rigid Industries D-Series Pro (part # 202113) 5-inch spotlights mounted on a custom aluminum roof rack from Front Runner Outfitters (part # FR-MIT-OLPHEV-ROOF-2024).",
+    "Interior: Swap the stock seats for a pair of Recaro Pole Position II (part # 391.20.01) with Schroth Rallye 4ASM harnesses (part # 4043A100). Replace the stock steering wheel with a Momo Mod.70 (part # 01112020) wrapped in Alcantara (color: Mitsubishi Red #R77) and fitted with a custom quick-release hub from NRG Innovations (part # SRK-200B). Add a rally-spec digital dash from AIM Solo 2 DL (part # SOLO2DL) with GPS lap timing and a 10Hz GNSS antenna for stage navigation."
+  ]
+}

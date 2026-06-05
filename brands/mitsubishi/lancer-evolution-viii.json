@@ -1,0 +1,14 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "LANCER EVOLUTION VIII",
+  "prestazioni": [
+    "4G63T (MIVEC) engine with forged internals: Manley 87mm forged crankshaft, Eagle H-beam connecting rods, and JE 87mm forged pistons (9.0:1 compression) for 35+ psi boost tolerance, paired with a Garrett GTX3582R Gen II turbocharger (0.82 A/R, 62mm inducer) on a custom 3.5-inch stainless steel downpipe with a Tomei 3-inch titanium exhaust system (catless, straight-pipe design for maximum spool)",
+    "Full standalone ECU: Haltech Elite 2500 with custom 4D ignition and fuel maps, integrated with a Bosch 0280158002 2000cc/min high-flow fuel pump, ID1000x injectors (side-feed, 1000cc/min), and a Radium Engineering dual-catch can setup (AN-10 lines) to manage crankcase pressure under extreme boost",
+    "Chassis reinforcement and drivetrain: Cusco Type-RS 2.5-way front LSD, Cusco 1.5-way rear LSD, and a PPG 6-speed dog-ring transmission with a Tilton Super Starter (12V, 2.5kW) and a Fidanza 1.8kg aluminum flywheel. Suspension features Ohlins Road & Track DFV coilovers (24-way rebound, 12-way compression) with Eibach 25mm front and 20mm rear sway bars, polyurethane bushings (SuperPro 63mm), and spherical bearing front control arms (Whiteline)"
+  ],
+  "estetica": [
+    "Rocket Bunny V1 widebody kit (Evo VIII-specific, carbon fiber front fenders, rear quarter panels, and overfenders) with a custom 3M Matte Graphite vinyl wrap and JDM-spec OEM Mitsubishi Rally Art decals (red/black, 2003 WRC livery)",
+    "Voltex Type-5 rear wing (carbon fiber, 1700mm width, 300mm height) mounted on custom aluminum pedestals with a Cusco front lip spoiler (carbon fiber, 3-piece) and a custom aluminum undertray (5mm thick, vented for brake cooling)",
+    "Interior: Bride Zeta III bucket seats (fixed-back, FIA-approved) with Schroth Profi II 6-point harnesses, a Nardi Classic 380mm steering wheel (suede, 3-spoke), and a custom aluminum gauge pod (Defi Advance BF 60mm boost, oil pressure, and wideband AFR gauges) mounted on a relocated A-pillar"
+  ]
+}

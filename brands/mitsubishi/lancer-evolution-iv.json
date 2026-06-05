@@ -1,0 +1,19 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "LANCER EVOLUTION IV",
+  "prestazioni": [
+    "Engine: 4G63T (7-bolt crank, 85mm bore, 88mm stroke) with forged internals including JUN Type V pistons (87mm, 8.5:1 compression) and Eagle H-beam connecting rods (52mm big end, 156mm center-to-center) for 1,000+ hp reliability under methanol injection",
+    "Turbocharger: Garrett GTX4202R Gen II (62mm inducer, 84mm exducer) with TiAL MV-R 44mm wastegate and custom 3.5\" stainless downpipe (304-grade, equal-length merge collector) to eliminate EVO IV's restrictive OEM cast manifold",
+    "Fuel System: Injector Dynamics ID1700x (1,700cc/min) with Radium Engineering dual fuel rail kit (AN-8 feed, AN-10 return) and AEM 340lph in-tank pump (E85-compatible), paired with Haltech Elite 2500 ECU (CAN bus integration for EVO IV's AYC rear diff control)",
+    "Drivetrain: OS Giken Super Lock LSD (2.5-way, 4.55 final drive) with PPG straight-cut 1st/2nd gears (2.310/1.904 ratios) and billet aluminum flywheel (8.5kg, SFI 1.1 certified) for launch control optimization",
+    "Suspension: Öhlins Road & Track DFV coilovers (24-way rebound, 16-way compression, 500lb/in front springs, 450lb/in rear) with Cusco front strut tower bar (22mm hollow, 7000-series aluminum) and Whiteline adjustable rear sway bar (24mm, 3-position)",
+    "Braking: AP Racing Radi-CAL 6-piston front calipers (355mm 2-piece rotors, J-hook slots) with Ferodo DS2500 pads and Goodridge 6AN braided stainless lines, paired with Brembo 4-piston rear calipers (330mm rotors, Pagid RS14 pads)"
+  ],
+  "estetica": [
+    "Body Kit: Rocket Bunny V1 EVO IV widebody (pre-preg carbon fiber, 50mm front/60mm rear fender flares) with custom 3M Matte Military Green wrap (2080 series, satin finish) and OEM-style carbon fiber hood (Seibon, 3.5kg weight reduction)",
+    "Aero: Voltex Type-3 rear wing (1,700mm span, 3D carbon fiber, 30mm risers) with custom aluminum gurney flap (15mm) and Cusco front lip spoiler (polyurethane, 3-stage splitter with 50mm overhang)",
+    "Wheels: Work Meister S1 3P (18x10.5 +15 front, 18x11 +20 rear) with custom gold powdercoat (RAL 1021) and Nitto NT01 tires (265/35/18 front, 295/30/18 rear) mounted via BBS center-lock adapters (72.6mm PCD)",
+    "Interior: Bride Zeta III reclinable bucket seats (FRP shell, FIA 8862-2009 certified) with Schroth Profi II 6-point harnesses (ASM camlocks) and custom aluminum shift knob (Mitsubishi Motors script, 350g weight, short-throw adapter)",
+    "Lighting: PIAA LP570 fog light delete (replaced with custom LED bar, 5,000K CRI90) and Hella Micro DE headlight projectors (Bi-Xenon, 55W, E-code pattern) with Morimoto HID retrofits (35W, 6000K, anti-flicker modules)"
+  ]
+}
