@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "VISION AVTR",
+  "prestazioni": [
+    "Replace the stock electric powertrain with a bespoke **Mercedes-AMG M178 LS2 4.0L V8 Biturbo** (engine code: M178 DE 40 AL) from the AMG GT Black Series, modified with **Mahle Motorsport forged pistons (10.5:1 CR)**, **Carrillo H-beam connecting rods**, and a **Drexler Motorsport limited-slip differential** for torque vectoring. Pair with a **Garrett GTX5533R turbocharger (1.45 A/R, 106mm compressor wheel)** and **Tial MV-R 60mm wastegates** for 1.4 bar boost, targeting **950 hp at 7,200 RPM** on **VP Racing Q16 118-octane fuel**.",
+    "Install a **Pectel SQ6M standalone ECU** with **Motec C125 dash logger** for real-time telemetry, integrated with **Bosch Motorsport MS25 high-pressure direct injectors** and **NGK R8431-10 laser-iridium spark plugs**. The cooling system is upgraded with a **Setrab 50-row oil cooler** and **PWR radiator (dual-pass, aluminum core)** to manage heat under sustained 200+ mph runs.",
+    "Swap the stock regenerative braking system for a **Brembo GT-R 6-piston monobloc caliper (400mm front rotors, 380mm rear)** with **Ferodo DS3000 brake pads** and **AP Racing carbon-carbon discs** for endurance racing. Suspension is replaced with **Öhlins TTX46 MkII coilovers (3-way adjustable, 250mm travel)** and **Eibach ERS race springs (800 lb/in front, 600 lb/in rear)** for Nürburgring Nordschleife compliance."
+  ],
+  "estetica": [
+    "Apply a **RML Group carbon-fiber body kit** with **active aerodynamics**, including a **DRS-style rear wing (3.2m² surface area, 45° attack angle)** and **front splitter with 120mm ground clearance** for 1,200 kg downforce at 250 km/h. The body panels are wrapped in **3M 1080 Matte Graphite Black vinyl** with **Avery Dennison Gloss Red accents** on the wheel arches and side skirts.",
+    "Fit **BBS FI-R 20x12.5 ET45 (front) and 21x13.5 ET50 (rear) forged wheels** in **Gunmetal finish**, shod with **Michelin Pilot Sport Cup 2 R tires (325/30 R20 front, 355/25 R21 rear)**. The wheels are secured with **McGard 7409T conical seat lug nuts** and feature **HRE FlowForm center caps** with the AVTR logo laser-etched in **electroluminescent green**.",
+    "Replace the stock LED matrix headlights with **Osram Night Breaker Laser HID bulbs (6,000K)** and **Luxx Hella 500 fog lights** integrated into a **Rocket Bunny-style front bumper** with **carbon-fiber air curtains**. The interior is stripped and reupholstered with **Recaro Pole Position seats (carbon-fiber shell, Alcantara suede with green stitching)**, a **MOMO Prototipo steering wheel (suede, 350mm diameter)**, and **Schroth 6-point harnesses (FHR-compatible)**. The roll cage is a **Custom Cages T45 steel bolt-in** with **Sparco harness bar padding** and **LED ambient lighting (Philips Hue Sync)**."
+  ]
+}

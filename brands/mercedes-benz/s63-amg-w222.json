@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "S63 AMG W222",
+  "prestazioni": [
+    "Engine: M157 DE46 AL (5.5L V8 Biturbo) – Full Weistec Engineering Stage 4+ upgrade with custom billet crankshaft, forged Mahle pistons (9.0:1 compression), Carrillo H-beam connecting rods, and ported/polished cylinder heads with oversized sodium-filled valves. Twin Garrett GTX5533R Gen II turbos with 1.22 A/R titanium-aluminide turbine housings, custom 4.0-inch downpipes, and a Weistec W4+ ECU flash with ethanol flex-fuel mapping (E85 compatible).",
+    "Drivetrain: SPEC Stage 3+ twin-disc carbon clutch with billet flywheel, upgraded Mercedes-AMG 7G-Tronic transmission internals (reinforced planetary gears, upgraded torque converter), and a Quaife ATB helical LSD for the rear axle. Custom driveshaft with carbon-fiber center section to reduce rotational mass.",
+    "Suspension/Handling: KW Suspensions Variant 5 coilovers with 3-way adjustable damping (rebound, compression, and preload), custom-valved Öhlins TTX46ML dampers for the rear, and H&R lowering springs (30mm drop) with adjustable camber plates. Full polyurethane bushings from SuperPro (part #SPF0114K) for subframe and control arms, paired with a Weistec W222-specific front sway bar (28mm) and rear sway bar (25mm)."
+  ],
+  "estetica": [
+    "Aero: Wald International W222 'Black Bison' widebody kit with carbon-fiber front splitter, side skirts, and rear diffuser. Custom 3D-printed active rear spoiler with adjustable angle (0-15 degrees) via electronic actuators, integrated with the car’s existing air suspension for dynamic height adjustment. Carbon-fiber hood with functional heat extractors and a central NACA duct for intercooler cooling.",
+    "Wheels/Tires: Forged BBS FI-R 21x10.5 ET25 (front) and 21x12.5 ET45 (rear) with titanium hardware, wrapped in Michelin Pilot Sport Cup 2 R tires (285/30 R21 front, 325/25 R21 rear). Custom center-lock adapters for quick wheel changes, paired with AP Racing 6-piston front and 4-piston rear calipers with 400mm two-piece rotors (floating design).",
+    "Interior/Exterior: Full Alcantara-wrapped dashboard, door cards, and headliner with red contrast stitching (Saddle Brown leather on seats). Custom digital gauge cluster from RaceLogic with boost, AFR, and oil pressure readouts, integrated into the existing COMAND system. Exterior: Gintani carbon-fiber mirror caps, dechromed trim with satin black finish, and a custom LED light bar in the front grille (Cobra Seats 50-inch curved unit, DOT-approved)."
+  ]
+}

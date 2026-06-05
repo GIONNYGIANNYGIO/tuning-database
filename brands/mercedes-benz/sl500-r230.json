@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "SL500 R230",
+  "prestazioni": [
+    "Engine: M113 E50 (5.0L V8, 302hp stock) – Forced induction via Precision Turbo PT6266 CEA turbocharger (62mm inducer, 66mm exducer, 58lb/min flow) with custom 3.5-inch stainless steel downpipe and Tial MV-R 44mm external wastegate, paired with a CSF high-flow aluminum radiator and dual 10-row oil coolers (Setrab 20-row for track use).",
+    "Fuel System: Upgraded to Bosch Motorsport 044 high-flow fuel pump (255lph) with Injector Dynamics ID1000 fuel injectors (1000cc/min), controlled via AEM Infinity 7 standalone ECU with flex-fuel sensor and ethanol-compatible fuel lines (AN-6 braided stainless).",
+    "Suspension & Handling: KW Variant 3 coilovers (R230-specific valving, 8-position rebound, 12-position compression) with H&R 25mm front and 20mm rear sway bars, polyurethane subframe bushings (Energy Suspension), and AP Racing CP5210 355mm front/330mm rear 2-piece rotors with CP6140 calipers (6-piston front, 4-piston rear) and Ferodo DS2500 pads."
+  ],
+  "estetica": [
+    "Body Kit: Wald Japan 'Black Bison' widebody conversion (R230 Phase 2-specific, +50mm front/+70mm rear fenders) with carbon fiber front splitter (Seibon) and adjustable rear diffuser (VRSF).",
+    "Wheels: BBS LM-R (9.5x19 ET20 front, 11x19 ET30 rear) with Michelin Pilot Sport Cup 2 tires (255/35/19 front, 295/30/19 rear) and custom wheel spacers (15mm front, 25mm rear) for flush fitment.",
+    "Interior: Recaro Pole Position seats (R230-specific mounting brackets) with Schroth Profi II 6-point harnesses, MOMO Mod.78 steering wheel (350mm, suede), and custom carbon fiber gauge pod (AEM X-Series wideband, oil pressure, and boost gauges)."
+  ]
+}

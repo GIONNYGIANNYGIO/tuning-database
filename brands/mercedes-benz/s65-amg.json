@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "S65 AMG",
+  "prestazioni": [
+    "Engine: M279 E60 (6.0L V12 Biturbo) – Full internal build with forged Mahle pistons (9.0:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from Manley Performance. Twin Precision Turbo PT6766 CEA turbos with custom 42mm wastegates and Tial MV-R 50mm blow-off valves, paired with a custom 4-inch stainless steel turbo-back exhaust featuring Akrapovič titanium headers and a straight-pipe section with a valved X-pipe for backpressure optimization.",
+    "Fuel System: Upgraded to a full AEM Infinity 10 standalone ECU with custom CAN bus integration for the M279’s twin Bosch CP4.2 high-pressure pumps, supplemented by a secondary Fuelab 41402 dual-pump setup. Injector Dynamics ID2000x injectors (2,000cc) with custom flow-matched sets, and a Nitrous Express GenX Direct Port kit (150-shot progressive) for on-demand power spikes.",
+    "Drivetrain & Handling: Wavetrac limited-slip differential with a 3.7:1 final drive ratio, paired with a SPEC Stage 4+ twin-disc clutch and lightweight flywheel. Ohlins Road & Track coilovers with 3-way adjustable damping (rebound, compression, and preload), custom-valved for the S65’s air suspension delete. AP Racing 6-piston front and 4-piston rear brake calipers with 400mm two-piece rotors (floating, slotted) and Ferodo DS3000 pads, paired with stainless steel braided lines from Goodridge."
+  ],
+  "estetica": [
+    "Body: Liberty Walk LB-S65 widebody kit with custom carbon fiber overfenders (pre-preg autoclave construction), extended 50mm front and 70mm rear, paired with a custom 3M Matte Military Green wrap with satin clear coat. Front splitter and rear diffuser from RW Carbon (dry carbon), with a custom active rear wing from 991 GT3 RS (hydraulic lift, 3-position angle adjustment).",
+    "Wheels & Aero: Forged BBS FI-R 20x10.5 ET25 (front) and 21x12.5 ET45 (rear) in gloss black with titanium hardware, wrapped in Michelin Pilot Sport Cup 2 R tires (275/30/20 front, 325/25/21 rear). Custom Vorsteiner V-FF 107 front canards and side skirts, with a custom titanium exhaust exit (dual 120mm tips) from Fi Exhaust.",
+    "Interior: Full Alcantara retrim by Saddleback Leather, including dashboard, door cards, and headliner, with custom embroidered AMG logos in green. Recaro Pole Position seats (carbon shell, Alcantara inserts) with Schroth 6-point harnesses. Custom roll cage by Autopower (TIG-welded, chromoly steel) with integrated fire suppression system (Lifeline Zero 360). Alpine iLX-F511 11-inch touchscreen head unit with custom CAN bus integration for boost, AFR, and G-force readouts via RaceLogic VBOX."
+  ]
+}

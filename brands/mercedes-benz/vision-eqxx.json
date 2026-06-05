@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "VISION EQXX",
+  "prestazioni": [
+    "Replace the stock **EQXX-specific axial flux motor (APM 200)** with a **YASA P400R axial flux electric motor**, retaining the 800V architecture but upgrading peak power to **350 kW (470 hp)** and torque to **700 Nm** via custom **AMK Inverter Systems** silicon carbide MOSFETs for 98% efficiency at high RPM.",
+    "Install a **Mahle 800V ultra-fast charging system** with **Porsche Taycan Turbo S 270 kW charging hardware**, paired with a **Webasto 120 kWh solid-state battery pack** (replacing the stock 100 kWh unit) to achieve **0-80% charge in 12 minutes** while maintaining the EQXX’s sub-1,750 kg weight via carbon-fiber battery housing.",
+    "Integrate a **Bosch Motorsport ESP 9.3** traction control system with **GKN eTwinsterX torque vectoring** to optimize power distribution across the **EQXX’s rear-biased 4WD system**, reducing 0-100 km/h (0-62 mph) time to **3.1 seconds** while preserving the stock **0.17 Cd drag coefficient** via active aero adjustments."
+  ],
+  "estetica": [
+    "Replace the stock **AMG-derived front splitter** with a **Rocket Bunny V3 carbon-fiber splitter** featuring **active Gurney flaps** (controlled by **Bosch MS 5.1 ECU**) to reduce front-end lift by 40% at 200 km/h (124 mph) without increasing drag.",
+    "Install **HRE FF16 flow-formed forged wheels** in **20x9.5 ET25 front / 21x12 ET35 rear** with **Michelin Pilot Sport EV 275/35 R20 (front) and 325/30 R21 (rear)** tires, wrapped in **PPF (Paint Protection Film) by XPEL Stealth** for a matte finish that matches the EQXX’s **BIONEQXX** body panels.",
+    "Add a **custom carbon-fiber rear diffuser by Vorsteiner** with **integrated LED brake cooling ducts** (fed by **PWR Racing radiators**) and a **removable Targa-style roof panel by CarboTech** (weighing 8.5 kg) to reduce cabin mass while maintaining structural rigidity via **SikaPower structural adhesive bonding**."
+  ]
+}

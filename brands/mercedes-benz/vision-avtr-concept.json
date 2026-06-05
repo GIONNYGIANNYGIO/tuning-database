@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "VISION AVTR CONCEPT",
+  "prestazioni": [
+    "Replace the concept's electric powertrain with a **Mercedes-AMG M178 LS2 4.0L V8 Biturbo** (from the AMG GT Black Series) featuring a **Garrett GTX5544R Gen II** turbocharger upgrade, ported cylinder heads with **Ferrea F15 Series** titanium valves, and a **Weistec Engineering** billet crankshaft for 900+ HP on E85 fuel. Engine code: **M178 LS2**",
+    "Install a **Pectel SQ6M** standalone ECU with **Motec C125** dash integration, paired with a **Mercedes-AMG GT4-spec** torque vectoring differential and **AP Racing CP9660** carbon-ceramic brake system with 420mm front rotors",
+    "Upgrade the concept's **4MATIC+** all-wheel-drive system with a **Quaife ATB helical LSD** (rear) and **Wavetrac** front differential, alongside **Bilstein Clubsport B16** coilovers with **Eibach ERS** springs for 30mm lowered ride height"
+  ],
+  "estetica": [
+    "Replace the concept's bioplastic body panels with **RML Group** carbon-fiber monocoque chassis reinforcements and a **Liberty Walk LB-WORKS** widebody kit (AVTR-specific, not generic), featuring a **Vorsteiner V-FF 107** front splitter and **Seibon Carbon** rear diffuser",
+    "Install **HRE FF16** forged wheels (21x10.5 front, 22x12.5 rear) with **Michelin Pilot Sport Cup 2 R** tires (285/30 front, 325/25 rear), wrapped in **3M 1080 Matte Graphite Black** with **Avery Dennison** custom AVTR-themed decals",
+    "Integrate **Anzo USA** LED headlights with **Lux HID 5500K** bulbs, **Oracle Lighting** RGB underglow (AVTR-inspired bioluminescent effect), and a **Novitec Torado** carbon-fiber rear wing with **Gurney flap** for 200kg+ downforce at 200km/h"
+  ]
+}

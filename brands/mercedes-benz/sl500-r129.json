@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "SL500 R129",
+  "prestazioni": [
+    "M119 E50 5.0L V8 engine (1998-2001 variant) upgraded with a custom-forged internals kit from Mahle Motorsport, including forged pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from Manley Performance. Paired with a custom Schrick 272°/276° camshaft profile for optimized high-RPM power delivery (peak power targeted at 6,800 RPM).",
+    "Garrett GT3582R turbocharger (ball-bearing, .82 A/R turbine housing) with a custom stainless steel exhaust manifold by SMS Engineering (equal-length, 1.75\" primaries) and a Tial MV-R 44mm external wastegate. Intercooled via a custom air-to-water setup using a PWR radiator and Bosch 044 fuel pump with dual Walbro 450 LPH in-tank pumps for E85 compatibility.",
+    "Bosch Motorsport ME2.8.1 ECU reflashed with a standalone AEM Infinity 708T (R129-specific harness) for full sequential fuel and ignition control, paired with a custom 3.5\" stainless steel exhaust system by Supersprint (cat-back, 200-cell metallic core cats) and a custom X-pipe with Vibrant 1799 resonators for optimized scavenging."
+  ],
+  "estetica": [
+    "Rocket Bunny V1 R129 widebody kit (carbon fiber fenders, front bumper, and rear diffuser) with custom 3M Matte Graphite vinyl wrap and OEM+ color-matched lower cladding. Front splitter extended 3\" with a custom aluminum undertray for aero balance.",
+    "Ohlins Road & Track coilovers (R129-specific valving, 80mm stroke) with custom top mounts by H&R for camber adjustment (-2.5° front, -1.8° rear). Wheels: BBS LM-R (9x18 ET20 front, 10.5x18 ET25 rear) with Michelin Pilot Sport Cup 2 tires (245/35/18 front, 285/30/18 rear).",
+    "Custom carbon fiber hardtop delete with a bespoke soft-top frame by Haartz Corporation (3-layer acoustic fabric) and a rear spoiler from a Mercedes-Benz CLK GTR homologation model (carbon fiber, 3D-scanned for R129 fitment). Engine bay detailed with a custom carbon fiber strut brace by 5-axis Composites and a billet aluminum oil cap by Billetworkz."
+  ]
+}

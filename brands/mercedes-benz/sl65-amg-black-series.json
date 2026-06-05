@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "SL65 AMG BLACK SERIES",
+  "prestazioni": [
+    "Engine: M275 AMG V12 (6.0L biturbo) – Replace stock turbos with Garrett GTX5533R Gen II turbos (1.06 A/R, 88mm compressor wheels) paired with custom 4-inch titanium-aluminide turbine housings for reduced lag and 900+ HP potential on E85. Requires ported cylinder heads by SMS Engineering (flow-optimized for 30% more airflow) and upgraded valve springs (Ferrea F2140P) to handle 8,500 RPM redline.",
+    "Fuel System: Full Motec M150 ECU standalone conversion with dual Bosch Motorsport 044 high-flow fuel pumps (1,200 LPH each) and Injector Dynamics ID2000x injectors (2,000cc/min). Custom billet fuel rails by Radium Engineering with -8AN ORB fittings and a 10-gallon surge tank for sustained high-RPM fuel delivery under lateral G-forces.",
+    "Drivetrain: OS Giken 6-speed sequential transmission with billet steel gears (ST-600) and a 2.6L capacity dry-sump oil system by Peterson Fluid Systems. Upgraded 3.91:1 final drive ratio with a Quaife ATB differential (QDF7Z) and custom half-shafts by The Driveshaft Shop (3.5-inch chromoly, rated for 1,200 HP). Clutch: Tilton 7.25-inch triple-plate ceramic with billet flywheel (12.5 lbs) and hydraulic throwout bearing."
+  ],
+  "estetica": [
+    "Aero: Full Vorsteiner V-FF 107 widebody kit (SL65 BS-specific carbon fiber) with extended front fenders (2.5-inch wider per side) and a custom 3D-printed rear diffuser by 991 Motorsports (integrated dual Gurney flaps). Front splitter: APR Performance GT-300 (SL65-specific, 3-piece adjustable) with titanium support rods. Rear wing: APR Performance GTC-1000 (dual-element, 90mm chord, 3D-printed carbon fiber endplates).",
+    "Interior: Full Alcantara retrim by Trimworks (SL65 BS-specific pattern) with custom door cards featuring carbon fiber inserts and illuminated AMG logos (RGB LED backlighting). Roll cage: Custom 8-point chromoly cage by Autopower Industries (bolt-in, TIG-welded, with integrated harness bars for Schroth Profi II 6-point harnesses). Steering wheel: MOMO Prototipo (350mm, Alcantara, with integrated AIM MXS Strada dash display).",
+    "Wheels/Tires: HRE FF01 (20x10.5 +25 front, 20x12 +40 rear) with custom center-lock adapters (SL65-specific, 120mm PCD). Tires: Michelin Pilot Sport Cup 2 R (275/30/20 front, 325/25/20 rear) mounted on custom 3-piece forged aluminum barrels with titanium hardware. Brake calipers: AP Racing CP9660 (6-piston front, 4-piston rear) with 400mm two-piece rotors (floating, slotted, zinc-coated) and Ferodo DS3000 pads."
+  ]
+}

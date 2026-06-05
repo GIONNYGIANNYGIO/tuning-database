@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "SL73 AMG",
+  "prestazioni": [
+    "Engine: M120.983 (7.3L V12) – Full internal build with forged Mahle Motorsport pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from Manley Performance. Upgraded to a custom Schrick 280° camshaft profile with titanium retainers and dual valve springs from Supertech Performance.",
+    "Forced Induction: Twin Precision Turbo 6266 ball-bearing turbos with custom Tial MV-R 44mm wastegates and a TiAL 50mm BOV setup. Intercooled via a custom air-to-water system using a PWR radiator and Bosch 044 fuel pumps feeding ID1000x injectors, managed by a Motec M150 ECU with flex-fuel capability.",
+    "Drivetrain: OS Giken 6-speed sequential transmission with a 2.4L oil cooler and a Tilton triple-plate carbon clutch. Custom 3.73:1 limited-slip differential from Kaaz with a Quaife ATB upgrade, paired with a GKN CV joint and driveshaft upgrade for 800+ HP reliability."
+  ],
+  "estetica": [
+    "Body: Full Rocket Bunny V3 widebody kit (SL-specific) with carbon fiber overfenders, custom front splitter, and a ducktail spoiler. Painted in Mercedes-Benz Designo Mystic White with a 3M Satin Matte clear coat for a stealth OEM+ look.",
+    "Wheels: HRE FF01 19x10.5 (front) and 19x12.5 (rear) in a custom brushed titanium finish, wrapped in Michelin Pilot Sport Cup 2 R tires (275/35/19 front, 315/30/19 rear). Custom center-lock adapters from DPE for quick swaps.",
+    "Interior: Full Recaro Pole Position seats with custom SL73 AMG embroidery in red Alcantara. Roll cage by Matter Fab (chrome-moly, bolt-in) with a custom MOMO Prototipo steering wheel and a Motec C127 dash display replacing the stock cluster. Sound deadening removed and replaced with Dynamat Extreme for weight reduction."
+  ]
+}

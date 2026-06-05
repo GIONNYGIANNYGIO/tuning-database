@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "SEC AMG HAMMER",
+  "prestazioni": [
+    "Engine: M117.965 5.6L V8 (AMG Hammer-spec) with forged internals including Mahle Motorsport forged pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from Manley Performance. Twin Garrett GT42RS turbochargers (84mm compressor wheels) with custom 3.5-inch stainless steel intercooler piping and a GReddy Type-R front-mount intercooler (1200hp core).",
+    "Fuel System: Full Aeromotive 340 Stealth fuel pump setup with dual in-tank pumps, -8AN feed/return lines, and 16x Bosch Motorsport 0280158861 2200cc/min injectors. Custom AMG-spec fuel rail with a Motec M150 ECU managing sequential injection and ignition timing, paired with a Haltech CAN-based boost controller for 2.2 bar peak boost.",
+    "Drivetrain & Suspension: Wavetrac limited-slip differential with 3.64:1 final drive ratio, paired with a Getrag 280/03 5-speed manual transmission (H-pattern) featuring a Sachs Performance twin-disc clutch (240mm) and a lightweight aluminum flywheel. Ohlins Road & Track coilovers (500lb/in front, 600lb/in rear) with adjustable camber plates, polyurethane bushings from SuperPro (part #SPF1100K), and a Whiteline front sway bar (24mm adjustable)."
+  ],
+  "estetica": [
+    "Body: Full Rocket Bunny V2 widebody kit (SEC-specific) with carbon fiber front splitter, rear diffuser, and overfenders (2.5-inch wider front, 3-inch wider rear). Custom AMG-style side skirts with integrated LED turn signals and a carbon fiber hood featuring a functional heat extractor (Rieger Tuning design).",
+    "Wheels & Brakes: BBS RS-GT II 18x10.5 +25 front / 18x12 +30 rear (ET25/ET30) with Michelin Pilot Sport Cup 2 tires (275/35/18 front, 315/30/18 rear). AP Racing 6-piston front calipers (355mm rotors) and 4-piston rear calipers (330mm rotors) with Ferodo DS3000 brake pads and stainless steel braided lines.",
+    "Interior: Recaro Pole Position seats (carbon fiber backs) with Schroth 6-point harnesses, MOMO Mod.78 steering wheel (380mm, suede), and a custom roll cage (TIG-welded 4130 chromoly) from The Performance Company. Full digital dash from AIM MXS Strada with integrated data logging for boost, AFR, and oil temps. Rear seat delete with custom carbon fiber storage panels."
+  ]
+}

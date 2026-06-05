@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "G65 AMG",
+  "prestazioni": [
+    "Engine: M279 E60 AL (6.0L V12 Biturbo) – Full carbon fiber intake system by Eventuri with bespoke heat-shielded ram-air ducts for the G-Class chassis, replacing the OEM plastic intake to reduce IATs by 8-10°C under full load while maintaining OEM airbox volume for optimal MAF scaling.",
+    "Turbochargers: Precision Turbo & Engine PT8285X (85mm, 85lb/min) billet wheel turbos with custom G65-specific compressor maps, paired with TiAL MV-R 44mm wastegates and 3.5\" V-band downpipes (304 stainless steel, ceramic-coated) to eliminate OEM catalytic converter restrictions and reduce backpressure by 42%.",
+    "Fuel System: AEM Infinity 20 standalone ECU with flex-fuel capability, integrated with dual Bosch Motorsport 044 high-flow fuel pumps (340 LPH each) and ID1700x injectors (1,700cc/min), fed by a Radium Engineering dual-catch can setup with -10AN lines to manage crankcase pressure under sustained 1.5-bar boost (stock: 1.0 bar). Suspension: KW Variant 7 Clubsport coilovers with 3-way adjustable damping (compression, rebound, and preload), custom-valved for the G65’s 2,580kg curb weight, paired with H&R 25mm front and 20mm rear anti-roll bars to reduce body roll by 35% during high-speed desert dune runs."
+  ],
+  "estetica": [
+    "Widebody Kit: Prior Design PD-G65RSR carbon fiber widebody conversion (front fenders +2.5\", rear fenders +3.0\"), with integrated carbon fiber side skirts and a custom 3D-printed front splitter (CFRP, 50mm overhang) to improve aero balance at 200+ km/h.",
+    "Wheels: Rotiform LAS-R 22x12\" (ET -15) and 22x13\" (ET -5) forged wheels with custom offsets to clear the KW Clubsport struts, wrapped in Michelin Pilot Sport Cup 2 R tires (325/25R22 front, 355/25R22 rear) for a 1:1 fitment with zero rubbing under full suspension compression.",
+    "Exterior Trim: Full de-chrome treatment with matte black vinyl wrap (3M 2080 Satin Black) on all brightwork, including grille, badges, and window trim, paired with a custom rear diffuser (carbon fiber, 3D-scanned to fit the G65’s rear bumper) and a Vorsteiner V-FF107 carbon fiber rear spoiler (adjustable angle, +15° for high-speed stability)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "MERCURY",
+  "model": "COUGAR XR7",
+  "prestazioni": [
+    "Engine swap to a Ford 4.6L Modular V8 (engine code: *4V 4.6L Intech*, specifically the *DOHC 32-valve* variant from the 1999-2004 Mustang SVT Cobra, mated to a *Tremec T-56 6-speed manual transmission* with a *McLeod RST twin-disc clutch* and *Spec Stage 3+ flywheel* for high-torque durability)",
+    "Forced induction via a *Garrett GTX4202R turbocharger* (86mm compressor wheel, 1.06 A/R turbine housing) paired with a *Precision Turbo 46mm wastegate* and *TurboSmart Race Port BOV*, feeding into a *custom 3.5\" intercooler piping system* with a *VRSF 750hp FMIC* and *ID1000 fuel injectors* (side-fed, 1000cc/min) for E85 compatibility",
+    "Full fuel system overhaul including a *Walbro 450 LPH in-tank fuel pump*, *Radium Engineering fuel pressure regulator*, *Aeromotive 340 Stealth fuel pump*, and *Fore Innovations 10AN fuel rails* with *DeatschWerks fuel filter*, all controlled by a *Holley HP EFI standalone ECU* with *Flex Fuel sensor* and *Innovate Motorsports wideband O2* for real-time AFR tuning"
+  ],
+  "estetica": [
+    "Full *Rocket Bunny V1 widebody kit* (Cougar XR7-specific, with extended fenders, custom front bumper, and rear diffuser) paired with *Work Meister S1 3P 18x10.5\" wheels* (ET12 offset, 275/35R18 Michelin Pilot Sport Cup 2 tires) and *BC Racing BR coilovers* (adjustable camber plates, 8kg front/10kg rear spring rates)",
+    "Custom *Vortex Generator* carbon fiber hood (functional ram-air scoop, *Seibon Carbon* lightweight construction) with *Aerocatch hood pins* and *VIS Racing carbon fiber side skirts* (OEM+ fitment, no drilling required), finished in *PPG Concept Vibrance \"Liquid Silver\"* with *3M Matte Black vinyl roof wrap*",
+    "Interior overhaul with *Recaro SRD-X seats* (fixed-back, FIA-approved, *Schroth 6-point harnesses*), *Momo Mod.78 steering wheel* (350mm, suede, quick-release hub), *Defi BF gauges* (oil pressure, boost, wideband AFR) mounted in a *custom A-pillar pod*, and *Dynamat Xtreme sound deadening* throughout the cabin"
+  ]
+}

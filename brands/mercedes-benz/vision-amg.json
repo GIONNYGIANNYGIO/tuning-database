@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "VISION AMG",
+  "prestazioni": [
+    "Full-forged M177/M178-derived 4.0L V8 (internally designated M178+ by AMG) with billet crankshaft, Carrillo H-beam connecting rods, and Mahle Motorsport forged pistons (9.5:1 compression for E85 compatibility), paired with a custom Garrett GTX5533R turbocharger (84mm compressor, 106mm turbine) and Tial MV-R 60mm wastegate for 3.2 bar peak boost targeting 1,100+ HP on E85",
+    "Full titanium exhaust system by Akrapovič with 3.5-inch diameter piping, 4-2-1 merge collectors, and electronically actuated bypass valves (controlled via Motec M150 ECU) for backpressure optimization, featuring a custom 100-cell catalytic converter core for emissions compliance in EU/US markets",
+    "Ohlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression), custom valving for the Vision AMG’s carbon-fiber subframe, and integrated ride height sensors for active aerodynamics (linked to the MBUX Hyperscreen for real-time adjustment), paired with AP Racing 6-piston monoblock calipers and 420mm carbon-ceramic rotors with titanium bobbin hardware"
+  ],
+  "estetica": [
+    "Full carbon-fiber widebody conversion by Liberty Walk (LB-WORKS Vision AMG kit), including extended front fenders with integrated air curtains, rear quarter panels with side-exit exhaust cutouts, and a custom 3D-printed rear diffuser with active Gurney flaps (adjustable via MBUX Hyperscreen)",
+    "Custom front splitter by Vorsteiner with integrated hydraulic lift system (for curb clearance) and carbon-fiber canards (angled at 15 degrees for optimal downforce), paired with a fixed rear wing by RW Carbon (modeled after the AMG GT Black Series but with a 10% larger chord for increased downforce at 200+ km/h)",
+    "Full interior rework by Sabelt featuring carbon-fiber bucket seats with 6-point harnesses (Sabelt 600 Series), a custom roll cage by Matter Fab (chromoly steel, TIG-welded, with integrated fire suppression system), and a digital dash cluster by AIM MXS Strada (12-inch display with real-time telemetry for boost, oil pressure, and G-forces)"
+  ]
+}

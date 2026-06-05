@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "S63 AMG COUPE",
+  "prestazioni": [
+    "M177 DE40 AL 4.0L V8 Biturbo engine: Full Weistec Engineering Stage 3+ hybrid turbo upgrade with Garrett GTX5533R Gen II turbos (68mm compressor, 76mm turbine), billet compressor wheels, and 3D-printed titanium turbine housings for reduced lag and 950+ HP on E85 fuel with supporting Weistec fuel system (dual Bosch Motorsport 044 high-flow pumps, 1200cc injectors, and upgraded fuel rails)",
+    "M177-specific ECU calibration by HP Tuners with custom flex-fuel mapping, optimized ignition timing for E85, and launch control tuned to 4,500 RPM with Weistec TCU reflash for 0.15s faster shifts (using Mercedes 9G-Tronic transmission with upgraded Mechatronics valve body and Sonnax billet torque converter)",
+    "Full Weistec drivetrain reinforcement: 300M chromoly driveshaft, upgraded differential with Wavetrac LSD, and 4140 steel axles with CV joints rated for 1,200 Nm torque, paired with a PWR radiator and dual Setrab 45-row oil coolers for the M177’s dry-sump system"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit for the C217 chassis (carbon fiber fenders with 50mm extended wheel arches, custom front splitter with integrated canards, and a GT-style rear diffuser with titanium exhaust outlets for the Weistec 4.5-inch quad-tip system)",
+    "OEM+ AMG Night Package restomod with full Vorsteiner V-CC107 carbon fiber hood (weight savings: 18kg), carbon fiber side skirts, and a custom rear spoiler with active Gurney flap (electronically adjustable via Mercedes MBUX integration)",
+    "BBS FI-R 20x10.5 ET25 (front) and 21x12.5 ET45 (rear) forged wheels with custom offsets for staggered fitment, wrapped in Michelin Pilot Sport Cup 2 R tires (275/30 R20 front, 325/25 R21 rear), paired with AP Racing 6-piston front and 4-piston rear calipers with 400mm two-piece rotors and Pagid RS29 brake pads"
+  ]
+}

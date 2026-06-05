@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "X-CLASS",
+  "prestazioni": [
+    "OM642 LS3 3.0L V6 Turbo Diesel (258 HP stock) -> Full forged internals build with Mahle Motorsport pistons (9.5:1 CR), Carrillo H-beam connecting rods, and a billet crankshaft from Manley Performance. Turbo upgrade to a BorgWarner EFR 8374 (0.92 A/R, 64mm inducer) with a custom 3.5\" stainless steel downpipe and a CSF intercooler core (bar-and-plate, 600hp-rated).",
+    "Bosch CP4.2 high-pressure fuel pump replaced with a Denso HP4 (3000 bar) and upgraded to 1000cc ID1000 injectors (side-feed, OEM-style connectors). Custom ECU remap via HP Tuners with a standalone Motec M150 for full flex-fuel (E85) and water-methanol injection (AEM 340lph pump, Snow Performance Stage 3 kit).",
+    "Daimler 9G-Tronic 7-speed automatic transmission reinforced with a PWR Performance Products transmission cooler (45-row, 1000hp-rated) and a South Bend Clutch dual-disc (organic/metallic hybrid, 750 ft-lb torque capacity). Transfer case upgraded to a Quaife ATB differential (front and rear) with 3.92:1 gearing and a custom driveshaft from Driveshaft Shop (3.5\" chromoly, 1350 U-joints)."
+  ],
+  "estetica": [
+    "Liberty Walk LB-X200 widebody kit (X-Class-specific, carbon fiber fenders with 50mm flares) paired with a custom front splitter from Vorsteiner (carbon-Kevlar hybrid, 3D-scanned for OEM fitment) and a GT Spirit rear diffuser (dual-layer, 3\" exit tunnels).",
+    "OEM+ aggressive stance via KW Suspension Clubsport coilovers (3-way adjustable, 100mm drop) with custom top mounts from H&R (polyurethane, 25mm offset) and OZ Racing Ultraleggera HLT wheels (20x10 ET15 front, 20x12 ET25 rear) wrapped in Michelin Pilot Sport Cup 2 R tires (275/35/20 front, 315/30/20 rear).",
+    "Full custom aero package including a Seibon carbon fiber hood (vented, 30% weight reduction) and a custom rear wing from 991 Design (dual-element, 3D-printed aluminum mounts, 45-degree angle adjustment). Interior stripped and reupholstered with Recaro Pole Position seats (carbon shell, Alcantara/leather), a custom roll cage from Custom Cages (TIG-welded chromoly, 6-point), and a digital dash from AIM MXS Strada (12\" display, CAN bus integration)."
+  ]
+}

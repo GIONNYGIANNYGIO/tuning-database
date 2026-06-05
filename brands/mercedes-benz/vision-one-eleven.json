@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "VISION ONE-ELEVEN",
+  "prestazioni": [
+    "Installation of a Mercedes-AMG M256 E30 DEH LA GR hybrid inline-6 with a custom 48V mild-hybrid system upgrade, featuring a Garrett GTX5533R turbocharger (84mm billet compressor wheel, 106mm turbine) and a Pectel SQ6M standalone ECU for precise fuel and ignition mapping, targeting 850+ hp at 7,200 RPM with a 9,000 RPM redline",
+    "Full drivetrain reinforcement with an AMG SPEEDSHIFT MCT 9G transmission swap to a Getrag 7DCL750 7-speed dual-clutch unit, paired with an OS Giken Super Lock LSD (4.11:1 final drive ratio) and a custom carbon-fiber driveshaft from RCF Performance",
+    "Suspension overhaul with a full Ohlins TTX46 coilover system (24-way adjustable damping, 3-way adjustable rebound, and 12-position adjustable compression), paired with Mercedes-AMG GT Black Series-derived carbon-fiber anti-roll bars (24mm front, 22mm rear) and AP Racing CP9431-3600 6-piston front/4-piston rear brake calipers with 420mm CCM-R rotors"
+  ],
+  "estetica": [
+    "Full Rocket Bunny V111 widebody kit (carbon-fiber fenders, side skirts, and rear diffuser) with a custom 3D-printed front splitter featuring active aerodynamic flaps controlled by a Bosch Motorsport ECU for dynamic downforce adjustment",
+    "Custom 22-inch BBS FI-R wheels (9.5x22 ET20 front, 12.5x22 ET25 rear) wrapped in Michelin Pilot Sport Cup 2 R tires (275/30 R22 front, 335/25 R22 rear) with a bespoke gold/polished finish and titanium wheel bolts from HRE Performance",
+    "Full carbon-fiber interior retrofit with Recaro Pole Position seats (carbon-Kevlar shell, 6-point Schroth harnesses), a custom roll cage by Matter Fab (chromoly steel, FIA 8862-2009 certified), and a digital dashboard upgrade using a Motec C187 display with Mercedes-AMG GT3-derived telemetry integration"
+  ]
+}

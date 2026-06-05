@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "SLR STIRLING MOSS",
+  "prestazioni": [
+    "AMG M155 5.4L Supercharged V8 (engine code: M155 E55 ML) with a custom Weistec Engineering Stage 4+ supercharger pulley upgrade (reducing diameter to 2.5\" for 14 psi boost), paired with a Weistec billet crankshaft damper to handle increased torsional stress at 8,500 RPM redline",
+    "Full titanium exhaust system by Akrapovič, featuring 4-2-1 equal-length headers with 70mm diameter piping, a straight-through muffler delete, and a carbon-fiber rear diffuser integrated quad-exit setup (weight reduction: 22 kg vs. OEM)",
+    "Bespoke Motec M150 ECU with custom fuel mapping for E85 compatibility, paired with a Pectel SQ6M standalone engine management system for real-time lambda and knock control, including a secondary fuel pump by Walbro 450 LPH and ID1000 injectors for 800+ HP on E85"
+  ],
+  "estetica": [
+    "Full carbon-fiber widebody conversion by Mansory Carbonado GT, including extended front fenders (30mm per side), rear quarter panels (40mm per side), and a custom front splitter with integrated canards (3D-printed from aerospace-grade carbon fiber)",
+    "OEM-style LED headlight upgrade by Hella, featuring adaptive cornering lights with a 5,000-lumen output per unit, paired with a custom carbon-fiber headlight surround by Vorsteiner for weight reduction and improved airflow to the front brakes",
+    "Custom rear wing by RENNtech, modeled after the SLR 722 GT, with a dual-plane design (adjustable angle: 5°-15°), constructed from pre-preg carbon fiber and featuring integrated third brake light and active Gurney flaps for downforce optimization at 200+ mph"
+  ]
+}

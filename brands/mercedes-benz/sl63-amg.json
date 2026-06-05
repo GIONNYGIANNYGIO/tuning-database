@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "SL63 AMG",
+  "prestazioni": [
+    "Engine: M157 DE38 AL (5.5L V8 Biturbo) – Full carbon fiber intake system by Eventuri with billet aluminum velocity stacks, paired with a custom Weistec Engineering Stage 3+ ECU flash (targeting 700+ HP at 6,800 RPM with 750 lb-ft torque, utilizing a revised ignition map for 98 RON fuel and upgraded fuel injectors from Siemens Deka 875cc/min)",
+    "Turbochargers: Hybrid Garrett GTX4271R Gen II turbos with billet compressor wheels (71mm inducer, 91mm exducer), custom 0.82 A/R turbine housings, and TiAL MV-R 44mm wastegates with ceramic-coated internals for reduced heat soak. Supporting mods include a PWR Australia 4-core intercooler (SL63-specific end tanks) and a custom 3.5-inch stainless steel charge piping system with V-band clamps from Vibrant Performance",
+    "Suspension & Handling: KW Suspensions Clubsport coilovers (3-way adjustable, SL63-specific valving) with spherical bearing top mounts from H&R, paired with a full polybush kit from SuperPro (part numbers SPF01-1435, SPF01-1436 for front/rear subframes). Rear sway bar upgrade to a 24mm adjustable unit from Hotchkis (SL63-specific, part #22800), and front camber plates from Megan Racing for -3.5 degrees of static camber"
+  ],
+  "estetica": [
+    "Aero: Wald International 'Black Bison' widebody kit (SL63-specific, carbon fiber construction) with integrated canards and a custom 3D-printed rear diffuser from Prior Design (PD800RS). Front splitter extended 3 inches with a carbon fiber undertray from AC Schnitzer, and a custom active rear spoiler delete (replaced with a fixed carbon fiber GT3-style wing from Vorsteiner, 1,200mm width, 300mm chord)",
+    "Wheels: Forged aluminum BBS FI-R (20x9.5 +15 ET front, 21x12 +25 ET rear) with custom center-lock adapters from Dorbritz, wrapped in Michelin Pilot Sport Cup 2 R tires (275/30/20 front, 325/25/21 rear). Brake system upgrade to AP Racing Radi-CAL 6-piston front (405mm rotors) and 4-piston rear (380mm rotors) calipers with custom titanium pistons, paired with Ferodo DS2500 pads and custom stainless steel braided lines from Goodridge",
+    "Exterior & Interior: Full respray in Mercedes 'Designo Magno Alanite Grey' with a 3-stage PPF from XPEL Stealth, and custom laser-etched 'SL63 AMG' badges on the C-pillars (replacing the '63' badges). Interior features a full Alcantara retrim by Trimworks (including dashboard, door cards, and headliner) with red contrast stitching, a custom roll cage from Matter Fab (bolt-in, TIG-welded 4130 chromoly), and a digital dash upgrade to a Motec C127 with custom SL63-specific CAN bus integration"
+  ]
+}

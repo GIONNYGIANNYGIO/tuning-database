@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "VISION EQ SILVER ARROW",
+  "prestazioni": [
+    "Upgrade to a **Mercedes-AMG EQ Power+ dual-motor system (EQXX-derived, code: EQXX-800V-2xAMG)** with a **Bosch MGU-K (Motor Generator Unit-Kinetic) hybrid boost system**, increasing peak output from 750 kW (1,007 hp) to **920 kW (1,233 hp)** via a **custom AMG Performance Software (APS) v2.5 ECU flash** with torque vectoring recalibration for 0-100 km/h in **1.8 seconds** (stock: 2.1s).",
+    "Installation of a **Mahle Motorsport 800V silicon carbide (SiC) inverter** with **AP Racing carbon-ceramic brake-by-wire calipers (CP9660-8S)** and **Brembo GT-RS 420mm front/380mm rear rotors** for 30% faster deceleration under regenerative braking (up to 3.5g).",
+    "Integration of a **Garrett E-Turbo (electric-assisted turbocharger, model: GTXe 55-1.5)** with **Honeywell intercooler cores (bar-and-plate, 1200hp-rated)** and a **PWR Australia 10-row oil cooler (EQ-SA-10R)** to maintain 85°C battery/e-motor temps at sustained 250+ km/h runs."
+  ],
+  "estetica": [
+    "Application of a **RML Group (Ray Mallock Ltd.) Silver Arrow Revival Aero Kit**, featuring **3D-printed titanium front splitter (NACA duct-integrated)**, **carbon-fiber rear diffuser with active Gurney flaps (DTM-spec)**, and **retractable rear wing (drag coefficient reduction to 0.17 Cd at 200 km/h)**.",
+    "Replacement of stock **Mercedes-Benz MBUX Hyperscreen** with a **Sparco Evo QRT carbon-fiber steering wheel (quick-release, Alcantara-wrapped)** and **Recaro Pole Position SPG XL seats (carbon-Kevlar shell, 6-point Schroth harnesses)** for track-focused ergonomics.",
+    "Custom **BBS FI-R II forged magnesium wheels (20x10.5 front, 21x12.5 rear, 3-piece construction)** wrapped in **Michelin Pilot Sport Cup 2 R tires (325/25 R21 front, 355/20 R22 rear)** with **HRE Performance Center-lock adapters** and **AP Racing CP8660 brake duct cooling scoops (carbon-fiber, F1-style)**."
+  ]
+}

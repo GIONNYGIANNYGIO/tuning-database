@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "VISION GRAN TURISMO EVO",
+  "prestazioni": [
+    "AMG M256 E30 DE 30 LA EQ Boost inline-6 hybrid powertrain recalibrated with a Motec M150 ECU standalone system, featuring a custom 2.2L per-cylinder fuel map optimized for 102-octane race fuel and a 3.8-bar Bosch Motorsport high-pressure direct injection system for 850 hp at 7,200 rpm and 811 lb-ft of torque at 5,500 rpm",
+    "Garrett GTX5533R Gen II turbocharger with a billet compressor wheel (76mm inducer, 106mm exducer) and a titanium-aluminide turbine wheel, paired with a Tial MV-R 60mm external wastegate and a custom 4-inch titanium downpipe wrapped in Aerodine thermal barrier coating",
+    "KW Suspension Clubsport 3-way adjustable coilovers with 18-position rebound damping, 12-position compression damping, and adjustable top mounts featuring spherical bearings, combined with a H&R 25mm front and 20mm rear anti-roll bar kit for precise yaw control in high-speed cornering"
+  ],
+  "estetica": [
+    "RML Group carbon-fiber widebody conversion kit with integrated GT3-style dive planes and a rear diffuser featuring active aerodynamics controlled by a Bosch Motorsport ABS/ESP module for dynamic downforce adjustment (up to 1,200 kg at 250 km/h)",
+    "BBS FI-R 20x12 front and 21x13 rear forged magnesium wheels with titanium lug bolts, wrapped in Michelin Pilot Sport Cup 2 R tires (285/30 R20 front, 335/25 R21 rear) and a custom TPMS system with real-time pressure and temperature monitoring",
+    "Aerokit CG carbon-fiber front splitter with a 3D-printed titanium support structure, paired with a custom rear wing featuring a dual-element design (main plane and gurney flap) adjustable via a MoTeC PDM15 power distribution module for on-the-fly angle changes"
+  ]
+}

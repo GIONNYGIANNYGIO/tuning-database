@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "SLR 722 GT",
+  "prestazioni": [
+    "AMG M155 5.4L Supercharged V8 (engine code: M155 E54 ML) with a custom Weistec Engineering Stage 4+ supercharger pulley upgrade (reducing diameter to 2.5\" for 14.5 psi boost), paired with a Weistec billet crankshaft damper to handle increased torsional loads and prevent harmonic distortion at 8,500 RPM redline",
+    "Full titanium exhaust system by Akrapović, featuring 3.5\" diameter mandrel-bent tubing, quad 100mm carbon-fiber tips, and a valved bypass for track-only mode (eliminating 22 lbs of weight while increasing exhaust flow by 38% over OEM)",
+    "Custom Motec M150 ECU with bespoke mapping for E85 flex-fuel capability, optimized for 12.5:1 compression ratio (achieved via Mahle Motorsport forged pistons with 9.5cc dish), and integrated traction control with launch control set to 6,200 RPM for 0-60 mph in 2.9 seconds"
+  ],
+  "estetica": [
+    "Full carbon-fiber widebody conversion by Prior Design (PD722GT kit), including extended front fenders with integrated air curtains, rear quarter panels with 50mm wider track, and a functional rear diffuser with integrated brake cooling ducts (reducing lift by 42% at 200 mph)",
+    "Ohlins TTX46 coilover suspension with 3-way adjustable damping (compression, rebound, and high-speed compression), custom valving for the SLR 722 GT’s aluminum-intensive chassis, and adjustable ride height from 70mm to 120mm (track-only mode locks at 90mm for FIA GT3 compliance)",
+    "Custom carbon-fiber front splitter by Vorsteiner, featuring a 3-stage adjustable angle (0°, +3°, +6°) for high-speed stability, paired with a fixed rear wing by HRE Performance Wheels (carbon-fiber construction, 1,200mm width, 300mm chord, and 50mm Gurney flap for 1,100 lbs of downforce at 180 mph)"
+  ]
+}

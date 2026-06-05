@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "SPRINTER 4X4",
+  "prestazioni": [
+    "OM642 3.0L V6 CDI (642.940) turbo upgrade with BorgWarner EFR 8374 (86mm, 1.05 A/R turbine housing) paired with a custom 4\" downpipe and 3.5\" straight-pipe exhaust system by Remus for reduced backpressure and optimized spool characteristics",
+    "ECU remapping via Alientech KESS3 with a custom Stage 2+ tune targeting 380hp and 650Nm (stock: 190hp/440Nm) on 28psi boost, utilizing a Pierburg CWA 100 high-flow water pump and upgraded intercooler (Setrab 40-row core) for sustained thermal management",
+    "4MATIC transfer case reinforcement with a Quaife ATB differential (part #QDF12H) in the rear axle and a custom 40:1 crawl ratio gear set by Unicase for extreme off-road torque multiplication, paired with Bilstein 8112 remote-reservoir coilovers (14\" travel) and Eibach ERS springs (25% stiffer than OEM)"
+  ],
+  "estetica": [
+    "Full Rocket Bunny widebody conversion kit (Sprinter-specific, part #RB-SP4X4-WB) with carbon fiber fender flares, extended rocker panels, and a custom front splitter with integrated LED light bar mounts (Baja Designs Squadron Pro)",
+    "Genuine MB G-Class W463 front grille swap (part #A4638800100) with a custom powder-coated black finish and integrated Warn Zeon 12-S winch (12,000lb capacity) behind a carbon fiber winch bumper by ARB (part #ARB-SP4X4-CFB)",
+    "Full interior roll cage by Custom Cages (part #CC-SP4X4-FULL) with integrated harness bar, Sparco Pro 2000 seats (part #008720NRB), and a Motec C127 dash display replacing the stock cluster for real-time telemetry (boost, AFR, oil pressure)"
+  ]
+}

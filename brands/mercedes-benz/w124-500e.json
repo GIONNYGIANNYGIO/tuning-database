@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "W124 500E",
+  "prestazioni": [
+    "Engine: M119.975 (5.0L V8, 32V DOHC) – Full internal build with forged Mahle Motorsport pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from Manley Performance. Pair with a custom Schrick 280° camshaft kit (intake/exhaust) and titanium retainers from Supertech Performance for high-RPM stability.",
+    "Forced Induction: Precision Turbo & Engine PT6766 CEA turbocharger (Journal Bearing, 67mm inducer) with a custom Tial MV-R 44mm wastegate and Tial Q 50mm blow-off valve. Intercooled via a custom air-to-water setup using a PWR Racing heat exchanger and Bosch 044 fuel pump with dual Walbro 450 LPH in-tank pumps for E85 compatibility.",
+    "Suspension & Handling: KW Variant 3 coilovers (W124-specific valving) with Eibach Pro-Kit helper springs, polyurethane bushings from Powerflex (full subframe, control arms, and diff mounts), and a custom 25mm rear sway bar from H&R. Braking upgraded to Alcon 6-piston front calipers with 355mm two-piece rotors and Ferodo DS2500 pads, paired with stainless steel braided lines from Goodridge."
+  ],
+  "estetica": [
+    "Body: Full OEM+ resto-mod with Mercedes-Benz Classic Center W124 500E-specific front fenders (widened), rear quarter panels, and a custom carbon fiber hood from Seibon Carbon. Rear diffuser from a W210 E55 AMG adapted for the W124 with custom mounting brackets, and a full Respray in Mercedes-Benz Classic Signal Red (DB 568) with PPG clear coat.",
+    "Wheels: BBS RS-GT II (17x8.5 ET20 front, 17x9.5 ET25 rear) with custom offsets to fit the widened fenders, wrapped in Michelin Pilot Sport Cup 2 tires (225/45/17 front, 255/40/17 rear). Lug nuts from Bimecc (titanium, 60° taper) and custom center caps with the 500E emblem in gold leaf.",
+    "Interior: Full Recaro SRD Evo II seats (W124-specific mounting brackets) upholstered in Nappa leather with Alcantara inserts (color-matched to Mercedes-Benz Classic Grey). Custom MOMO Mod.78 steering wheel (380mm, suede) with a quick-release hub from NRG Innovations, and a full digital dash retrofit using a Motec C127 dash logger with custom W124-specific gauge overlays."
+  ]
+}

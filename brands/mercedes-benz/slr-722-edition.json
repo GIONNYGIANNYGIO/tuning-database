@@ -1,0 +1,14 @@
+{
+  "brand": "MERCEDES-BENZ",
+  "model": "SLR 722 EDITION",
+  "prestazioni": [
+    "AMG M155 5.4L Supercharged V8 (engine code: M155 E55 ML) with a custom Weistec Engineering Stage 4+ supercharger pulley upgrade (74mm, reducing boost lag and increasing peak boost to 1.4 bar), paired with a Weistec billet aluminum crankshaft damper to handle the additional stress",
+    "Full titanium exhaust system by Akrapović, featuring 3.5-inch diameter tubing, dual-mode electronically controlled valves, and a center-mounted quad-exit titanium tip setup (weight reduction of 22kg over stock), with a custom ECU flash by Shark Werks to optimize backpressure and AFR for the new exhaust",
+    "KW Suspensions Clubsport coilover kit (3-way adjustable, 1,200 lbs/in front springs, 1,000 lbs/in rear springs) with custom valving for the SLR’s unique front-midship layout, paired with H&R monoball front upper control arms and a custom-fabricated rear subframe reinforcement by Renntech to eliminate flex under hard cornering"
+  ],
+  "estetica": [
+    "Rocket Bunny V2 widebody kit for the SLR 722, featuring carbon fiber front fenders with integrated air vents, extended rear quarter panels (50mm wider than stock), and a custom front splitter with a 3D-printed active aerodynamic Gurney flap (adjustable via a cockpit switch)",
+    "Custom 22-inch BBS RS-GT II forged wheels (9.5x22 ET25 front, 12.5x22 ET30 rear) in a matte gold finish, wrapped in Michelin Pilot Sport Cup 2 R tires (275/30 front, 325/25 rear) with a bespoke tire compound developed in collaboration with Michelin for the SLR’s weight distribution",
+    "Full carbon fiber interior overhaul by Carbonskin, including a custom 3D-stitched Alcantara steering wheel with integrated Motec C125 digital dash display, Recaro Pole Position seats (carbon fiber shell, Alcantara/leather upholstery, 5-point harness cutouts), and a custom titanium shift knob by B&B Italia for the 7-speed AMG Speedshift R transmission"
+  ]
+}
