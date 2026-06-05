@@ -1,0 +1,14 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "LANCER EVOLUTION I",
+  "prestazioni": [
+    "Replace the stock G63B 1.6L turbocharged inline-4 (86 kW / 116 PS) with a forged internals build featuring Mahle Motorsport forged pistons (87.5mm bore, 8.5:1 compression), Eagle H-beam connecting rods, and a Tomei 264° camshaft kit (intake/exhaust) for extended powerband targeting 300+ HP with forced induction",
+    "Install a Garrett GT2860R-5 turbocharger (0.86 A/R turbine housing, 60 trim compressor) paired with a custom 3-inch stainless steel exhaust system by HKS Hi-Power (cat-back, 76mm piping, 200-cell metallic core catalytic converter) and a GReddy Profec B Spec II boost controller for precise 1.5 bar (21.7 psi) management",
+    "Upgrade the stock ECU with a Haltech Elite 1500 standalone unit (CAN bus integration, flex fuel compatibility) mated to a set of Denso Iridium IK22 spark plugs, a Walbro 255 LPH fuel pump, and a Sard 800cc/min fuel rail with Bosch 0280158107 injectors for E85 compatibility"
+  ],
+  "estetica": [
+    "Install a Veilside Fortune 99 widebody conversion kit (fiberglass, bolt-on fender flares, custom front bumper with integrated canards) paired with a custom carbon fiber hood by Seibon (vented, 3-piece design, 50mm lower than stock)",
+    "Replace the stock 15-inch steel wheels with a set of Work Meister S1 3P 16x8 +20 (ET20) wheels in gunmetal finish, wrapped in Toyo R888R 225/50R16 semi-slick tires for track-focused grip, and paired with Project Mu B-Spec brake pads and DBA 4000 Series slotted rotors",
+    "Add a custom Okuyama Motorsport rear wing (2-tier, carbon fiber, 1200mm width, adjustable angle from 10° to 25°) and a Cusco front strut tower bar (aluminum, 3-point design) for chassis rigidity, complemented by a full interior roll cage by AutoPower (6-point, chromoly steel, bolt-in)"
+  ]
+}

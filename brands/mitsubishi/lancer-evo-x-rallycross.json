@@ -1,0 +1,14 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "LANCER EVO X RALLYCROSS",
+  "prestazioni": [
+    "4B11T MIVEC 2.0L turbocharged inline-4 engine with a forged internals build: Manley 87mm forged crankshaft, Eagle H-beam connecting rods, and JE 87.5mm forged pistons (9.0:1 compression ratio) for 600+ WHP reliability on E85 fuel",
+    "Full Garrett GTX5533R turbocharger setup with a custom 3.5-inch titanium-aluminide turbine wheel, 76mm billet compressor wheel, and Tial MV-R 44mm external wastegate, paired with a PTP 4-inch stainless steel turbo manifold and 3.5-inch turbo-back exhaust with Burns Stainless merge collectors",
+    "Motec M150 ECU with full CAN bus integration, dual Bosch 0280158002 2000cc injectors, and a Radium Engineering dual fuel pump hanger supporting a 450 LPH in-tank pump and a secondary 340 LPH external pump for E85 compatibility, with a custom 3D-printed intake manifold by Magnus Motorsports featuring individual throttle bodies (ITBs)"
+  ],
+  "estetica": [
+    "Liberty Walk LB-RX Evo X widebody kit with custom carbon fiber fenders, front bumper, and rear diffuser, reinforced with a Cusco bolt-on roll cage (FIA-spec) and seam-welded chassis for rigidity",
+    "Voltex Type-15 rear wing with a 3D-printed aluminum wing mount and Gurney flap, paired with a custom front splitter by Rocket Bunny using 5mm thick carbon fiber with integrated air curtains and dive planes for downforce",
+    "OMP Rallycross-spec interior: Sparco Pro ADV QRT-K seats with Schroth 6-point harnesses, a custom aluminum dash panel with AIM MXS Strada digital dash, and a Tilton hydraulic handbrake with a billet aluminum handle, all wrapped in Alcantara with red stitching"
+  ]
+}

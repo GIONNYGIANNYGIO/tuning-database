@@ -1,0 +1,14 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "FTO GP VERSION R",
+  "prestazioni": [
+    "Engine: 6A12 2.0L DOHC 24V V6 (MIVEC) with HKS Hi-Power Racing Spec camshafts (272° duration, 11.0mm lift) and Tomei Type-1 adjustable cam gears for optimized MIVEC timing, paired with a custom HKS Super Power Flow exhaust manifold (4-2-1 design) and a Tomei 70mm titanium exhaust system with equal-length piping to eliminate backpressure.",
+    "Forced Induction: Garrett GT2860RS turbocharger (0.63 A/R turbine housing) with a custom front-mount intercooler (GReddy Type-S, 600x300x76mm core) and a Tomei M82 blow-off valve, running 1.2 bar of boost via an HKS EVC-S electronic boost controller. Supporting mods include a Walbro 255LPH fuel pump, HKS 2640 fuel injectors, and a custom ECU tune via Haltech Elite 2500 with flex-fuel capability for E85 blends.",
+    "Suspension & Handling: Ohlins Road & Track DFV coilovers (8-position adjustable damping, 30-way adjustable rebound) with custom spring rates (8kg/mm front, 7kg/mm rear) and spherical bearing upper mounts. Chassis reinforcement via Cusco front strut tower bar (2-point, 22mm diameter) and a full Cusco bolt-in roll cage (8-point, 40mm diameter chromoly steel). Braking upgraded to Endless CC-R6 rotors (280mm front, 260mm rear) with AP Racing CP6640 calipers and Ferodo DS2500 pads."
+  ],
+  "estetica": [
+    "Aero: Veilside Fortune 99 widebody conversion kit (FRP construction) with custom carbon fiber front splitter (50mm overhang) and a custom 3D-printed rear diffuser (integrated dual exhaust exits). Rear wing is a custom 1-piece carbon fiber GP Sports GT-II wing (1,200mm span, 300mm chord) with adjustable angle of attack (0-15°).",
+    "Exterior: Full respray in Mitsubishi Racing Green (MRG) with a 3-stage PPG paint system, including a matte clear coat. OEM GP Version R badges removed and replaced with custom laser-etched aluminum badges (black anodized, red fill). Headlights upgraded to custom Hella DE lenses with Osram Night Breaker Laser bulbs, and taillights replaced with custom sequential LED units (V-LED design, smoked lenses).",
+    "Interior: Full Bride Gias II reclining bucket seats (fixed-back, FIA-approved) with custom red Alcantara upholstery and matching door cards. Steering wheel replaced with a Nardi Classic 350mm suede wheel (quick-release hub) and shift knob upgraded to a custom titanium piece (6-speed pattern, 120g weight). Roll cage and interior panels wrapped in red/black Alcantara with red contrast stitching, and gauge cluster replaced with a Defi Advance BF series (oil temp, oil pressure, boost, wideband AFR)."
+  ]
+}

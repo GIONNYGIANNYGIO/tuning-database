@@ -1,0 +1,21 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "GTO TWIN TURBO",
+  "prestazioni": [
+    "Engine: 6G72TT (DOHC 24V 3.0L V6 Twin Turbo) - Full forged internals including JE 87mm forged pistons (9.0:1 CR), Eagle H-beam connecting rods, and ACL Race Series bearings for 1.2 bar boost reliability",
+    "Turbocharger Upgrade: Garrett GTX3582R Gen II ball-bearing turbos (hybrid setup with custom 0.82 A/R turbine housings and 60mm billet compressor wheels) paired with Tomei 3.5-inch stainless steel downpipes and GReddy Profec B Spec II boost controller",
+    "Fuel System: Nismo 550cc/min high-impedance fuel injectors (PN: 16600-21U00) with Walbro 450 LPH in-tank fuel pump, Sard 1000cc top-feed fuel rail, and AEM 380LPH external fuel pressure regulator for E85 compatibility",
+    "ECU & Tuning: Haltech Elite 2500 standalone ECU with custom 3D ignition and fuel maps (developed on a Dynapack hub dyno) featuring launch control, anti-lag, and flex-fuel sensor integration; paired with AEM X-Series wideband AFR gauges (PN: 30-0300) for real-time monitoring",
+    "Drivetrain: OS Giken Super Lock LSD (2.2-way) with 85W-140 Motul Gear 300 oil, RPS Carbon-Ti twin-disc clutch (7.25-inch diameter), and custom 3.544 final drive ratio (replacing stock 4.062) for optimized acceleration",
+    "Suspension: Ohlins Road & Track DFV coilovers (custom valved for GTO chassis) with Eibach 22mm front and 20mm rear sway bars, SuperPro polyurethane bushings (full kit), and Cusco Type RS strut tower braces (front and rear)",
+    "Braking: Endless 6-pot front brake kit (356mm rotors, PN: M40R-356) with Ferodo DS2500 pads, 2-pot rear calipers (330mm rotors), and Motul RBF 660 brake fluid; paired with Goodridge G-Stop braided stainless steel brake lines",
+    "Exhaust: Custom 3.5-inch titanium exhaust system by HKS Hi-Power (equal-length headers with 4-2-1 merge collectors) and GReddy SP2 mufflers (straight-through design) for optimized spool and 600whp+ flow capacity"
+  ],
+  "estetica": [
+    "Body Kit: Veilside Fortune 03 widebody conversion (full carbon fiber front fenders, rear quarter panels, and rear bumper) with custom 2-inch extended wheel arches to fit 10.5J ET20 front and 12J ET30 rear Work Meister S1 3P wheels (999 series, 18x10.5 +35 front / 18x12 +15 rear)",
+    "Aero: Voltex Type-7 rear wing (carbon fiber, 1,700mm width, 300mm height) with custom aluminum mounts and Gurney flap; custom front splitter by Rocket Bunny (carbon fiber, 3D-scanned for GTO chassis) with integrated canards and air curtain ducts",
+    "Lighting: Full LED conversion by Jun Auto (HID projector headlights with Morimoto 4.0 bi-xenon projectors, sequential LED turn signals, and custom C-shaped DRLs); rear taillights replaced with custom CNC-machined aluminum housings and sequential LED strips (controlled via Haltech CAN bus)",
+    "Interior: Bride Zeta III bucket seats (FRP shell, FIA-approved) with Schroth 6-point harnesses, custom roll cage by Auto Power (8-point chromoly, bolt-in design with harness bar), and Nardi Classic 380mm steering wheel (suede, quick-release hub); full Alcantara retrim by Status Racing (dashboard, door cards, headliner) with custom carbon fiber gauge pod (AEM X-Series gauges)",
+    "Paint & Finishes: Custom 'Mitsubishi Racing Silver' (MRS) paint by BASF Glasurit (90 Line, 3-stage pearl) with matte black roof and mirror caps; full dechroming (window trim, door handles, emblems) replaced with satin black vinyl wrap; custom engine bay powder coating (Gloss Gunmetal) for all brackets and covers"
+  ]
+}

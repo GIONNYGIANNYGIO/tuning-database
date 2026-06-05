@@ -1,0 +1,20 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "GALANT VR-4 TYPE S",
+  "prestazioni": [
+    "Engine: 4G63T (7th-gen, 2.0L DOHC 16V turbo) – Full forged internals with Manley 87mm forged crankshaft, Eagle H-beam connecting rods, and JE 87mm forged pistons (8.5:1 compression for E85 compatibility).",
+    "Turbocharger: Garrett GTX3582R Gen II with TiAL MV-R 44mm external wastegate and custom 3.5\" stainless steel downpipe (TIG-welded, ceramic-coated).",
+    "Fuel System: Injector Dynamics ID1700x injectors, Walbro 450LPH in-tank fuel pump, and Radium Engineering dual-catch can setup with -10AN lines and Aeromotive FPR.",
+    "ECU & Tuning: Haltech Elite 2500 standalone ECU with custom 4D ignition and fuel maps for E85, paired with a Link G4+ CAN Lambda for closed-loop AFR control.",
+    "Drivetrain: OS Giken Super Lock LSD (2.5-way) with billet diff housing, custom 3.9 final drive ratio, and Spec Stage 4+ twin-disc clutch with billet flywheel.",
+    "Suspension: Öhlins Road & Track DFV coilovers (custom valving for Galant VR-4 chassis), SuperPro 700mm front sway bar, and polyurethane bushings (Whiteline rear subframe inserts).",
+    "Braking: AP Racing 6-piston CP9430 front calipers with 355mm 2-piece rotors (2mm floating hats), and 2-piston rear calipers with 330mm rotors, braided stainless steel lines (Goodridge), and Motul RBF660 fluid."
+  ],
+  "estetica": [
+    "Body Kit: Rocket Bunny V1 Galant VR-4 widebody kit (carbon fiber front splitter, rear diffuser, and overfenders) with custom 3M Matte Military Green wrap and clear bra (XPEL Ultimate).",
+    "Wheels: Work Meister S1 3P 18x9.5 +15 front / 18x10.5 +25 rear (ET custom-machined for clearance), mounted with Michelin Pilot Sport Cup 2 R (245/40/18 front, 275/35/18 rear).",
+    "Interior: Bride Zeta III bucket seats (custom Galant VR-4 floor mounts), Takata Drift II 4-point harnesses, and custom aluminum gauge pod (Defi Advance BF gauges: boost, oil pressure, wideband AFR).",
+    "Lighting: Custom Hella 500FF projectors (shaved and molded into OEM housings) with Osram Night Breaker Laser bulbs, and rear LED taillight conversion (V-LEDS 3157R-HP).",
+    "Aero: Custom carbon fiber rear wing (modeled after the 90s JGTC Galant silhouette) with adjustable Gurney flap, and front canards (Seibon Carbon) for aero balance."
+  ]
+}

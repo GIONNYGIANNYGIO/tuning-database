@@ -1,0 +1,15 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "GALANT VR-4",
+  "prestazioni": [
+    "Engine: 4G63T (7-bolt, 2.0L DOHC 16V turbo) with forged internals including Eagle H-beam connecting rods, JE 87mm forged pistons (8.5:1 compression), and ACL Race Series main/rod bearings. Turbocharger upgrade to Garrett GTX3076R Gen II with 0.82 A/R turbine housing and TiAL MV-R 44mm external wastegate for 35 psi peak boost.",
+    "Fuel System: Injector Dynamics ID1050x fuel injectors paired with a Walbro 450 LPH in-tank fuel pump, AEM 340lph inline pump, and Radium Engineering dual catch can setup with -8AN lines. ECU reflash via ECU Master EMU Black standalone with custom 3D ignition and fuel maps optimized for E85 blend (60% ethanol).",
+    "Drivetrain & Suspension: OS Giken Super Lock LSD (2-way) in the rear differential, Cusco 1.5-way front LSD, and a Tilton 7.25\" twin-disc clutch with billet flywheel. Suspension overhaul with Ohlins Road & Track DFV coilovers (custom valved for Galant VR-4 chassis), SuperPro poly bushings (full kit), and Cusco 22mm front / 20mm rear sway bars with spherical end links.",
+    "Exhaust: Custom 3.5\" turbo-back exhaust with Burns Stainless 4-2-1 merge collectors, Vibrant 1799 resonated muffler, and 304 stainless steel piping with V-band clamps. Upgraded turbo manifold from Tomei with equal-length runners and ceramic coating for heat management."
+  ],
+  "estetica": [
+    "Body Kit: Rocket Bunny V1 widebody conversion with custom-fabricated front canards, carbon fiber overfenders (25mm wider per side), and a duckbill rear spoiler (3D-scanned from the Evo VI Tommi Mäkinen Edition for OEM+ fitment). Full respray in Mitsubishi Racing Lancer Evolution VI Rally Art Green (code 42K) with matte black accents on the roof and hood.",
+    "Wheels & Tires: Work Meister S1 3P 18x9.5 +15 (front) and 18x10.5 +25 (rear) in gloss gunmetal, wrapped in Michelin Pilot Sport Cup 2 R tires (255/40/18 front, 275/35/18 rear). Custom center caps with engraved 4G63T script and red Mitsubishi logo.",
+    "Interior: Bride Zeta III bucket seats (FIA-approved) with custom Galant VR-4 embroidery, Takata 4-point harnesses, and a custom roll cage by Custom Cages (TIG-welded 4130 chromoly, 8-point with door bars). Steering wheel swap to a NRG Innovations 350mm suede wheel with quick-release hub, paired with a Momo Prototipo shift knob (short throw) and custom aluminum pedals by 3SDM."
+  ]
+}

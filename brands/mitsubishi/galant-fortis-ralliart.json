@@ -1,0 +1,19 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "GALANT FORTIS RALLIART",
+  "prestazioni": [
+    "Engine: 4B11T (2.0L MIVEC Turbo) - Full forged internals with Manley 87mm forged pistons, Eagle H-beam connecting rods, and ACL Race Series bearings to handle 1.5 bar boost reliably. Upgraded head studs from ARP (PN 208-4301) to prevent head lift under high cylinder pressures.",
+    "Turbocharger: Garrett GTX3071R Gen II (0.63 A/R turbine housing) with a custom 3-inch divorced wastegate dump tube routed to a Tomei 4-inch titanium exhaust system. Paired with a GReddy Profec B Spec II boost controller for precise 28-30 psi mapping on E85.",
+    "Fuel System: Injector Dynamics ID1050x fuel injectors with a Radium Engineering dual catch can setup (PN 20-0118) to prevent oil buildup in the intake. Walbro 450 LPH in-tank fuel pump and a Fore Innovations F2i-0444 surge tank for consistent fuel delivery under lateral G-forces. ECU reflash via OpenECU M150 standalone with custom 4B11T-specific maps for E85 and race gas compatibility.",
+    "Drivetrain: OS Giken Super Lock LSD (2-way) with 4.55 final drive ratio for aggressive acceleration. Reinforced transmission mounts from Beatrush (PN MIT-010) and a PTT short shifter kit with carbon fiber shift knob for quicker throws. Clutch Masters FX500 twin-disc clutch with billet flywheel for 500+ lb-ft torque capacity.",
+    "Suspension: Öhlins Road & Track DFV coilovers (custom valved for the Fortis Ralliart chassis) with 8kg/mm front and 7kg/mm rear springs. Cusco front strut tower bar (PN 601 390 A) and rear upper strut brace (PN 601 391 A) to reduce chassis flex. Whiteline adjustable rear sway bar (24mm) and front sway bar (22mm) to fine-tune understeer/oversteer balance.",
+    "Braking: Endless 6-pot front brake kit (PN MX72) with 355mm rotors and CC-R compound pads, paired with a 2-pot rear kit (PN MX72R) and 330mm rotors. Stainless steel braided brake lines from Goodridge and Motul RBF660 brake fluid for fade resistance during track use."
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny V2 widebody kit (PN PB-F077) with custom carbon fiber front canards and a 3D-printed rear diffuser for improved downforce. Custom aluminum hood with dual venting (inspired by the Evo X MR) to reduce underhood temps. Rear wing: Voltex Type-3 (1700mm) with adjustable angle mounts for track optimization.",
+    "Wheels: WORK Emotion CR Kiwami (18x9.5 +15 ET front, 18x10.5 +20 ET rear) with custom offsets to fit the Rocket Bunny fenders. Tires: Michelin Pilot Sport Cup 2 R (255/40/18 front, 275/35/18 rear) for maximum grip. Bronze powder-coated WORK wheel centers with titanium hardware for weight savings.",
+    "Exterior: Full custom livery by Fatlace Designs, featuring a matte gunmetal base with neon green accents (Pantone 802 C) and Ralliart decals in a retro 1990s Mitsubishi Works style. Carbon fiber side mirrors from Seibon and a custom front splitter with integrated LED DRLs (Lux H8 V4).",
+    "Interior: Recaro Pole Position seats (PN 2802) with custom Alcantara upholstery (color-matched to the exterior green) and Schroth 6-point harnesses. Custom roll cage by Cusco (8-point, bolt-in) with padding from OMP. Momo Mod.78 steering wheel with quick-release hub and a custom gauge pod housing Defi BF gauges (boost, oil temp, oil pressure) and an Aim Solo 2 DL lap timer.",
+    "Lighting: Full LED conversion with LUX H8 V4 headlights (projector-style, 5000K) and custom sequential taillights (inspired by the Lancer Evolution X FQ-400). Underglow: ORACLE Lighting Flexfire RGBW kit with custom mounting brackets for a stealth install."
+  ]
+}

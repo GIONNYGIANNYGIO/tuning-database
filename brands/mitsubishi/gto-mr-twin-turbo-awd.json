@@ -1,0 +1,18 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "GTO MR TWIN TURBO AWD",
+  "prestazioni": [
+    "Engine: 6G72TT (24-valve DOHC V6, 3.0L twin-turbo) - Full forged internals with Manley 87mm forged pistons, Eagle H-beam connecting rods, and ACL Race Series bearings. Stock crankshaft balanced to ±1 gram with ARP main studs and head studs for 12mm deck thickness.",
+    "Turbocharger Upgrade: Twin Garrett GTX3582R Gen II turbos with 62mm billet compressor wheels, 0.82 A/R turbine housings, and TiAL MV-R 44mm wastegates. Custom 3.5\" stainless steel downpipes with V-band clamps and 3\" divorced wastegate dump tubes.",
+    "Fuel System: Full Aeromotive fuel system with dual A1000 in-line pumps, 10AN feed/return lines, and ID1000xDS injectors. Custom fuel rail adapters for stock injector locations with -8AN feed and return. Motec M150 ECU with flex-fuel sensor and ethanol content compensation.",
+    "Cooling: Mishimoto GTO-specific aluminum radiator with dual 14\" SPAL slim fans, custom aluminum intercooler piping with 3.5\" charge pipes, and a Setrab 50-row oil cooler with -10AN lines. HKS Super Power Flow Type-R front-mount intercooler with 1000hp core rating.",
+    "Drivetrain: OS Giken twin-plate clutch with 850Nm torque capacity, Cusco Type-RS 1.5-way LSD for front and rear differentials, and a custom driveshaft with 300M steel CV joints. Transmission synchros upgraded to carbon fiber units with GPL Racing gear oil."
+  ],
+  "estetica": [
+    "Body Kit: Veilside Fortune 03 widebody conversion with custom carbon fiber overfenders (2.5\" wider front, 3\" wider rear), carbon fiber hood with dual 80mm venting, and a custom carbon fiber rear diffuser with integrated twin exhaust exits.",
+    "Aero: Voltex Type-5 rear wing with 1200mm carbon fiber blade, custom aluminum wing mounts, and Gurney flap. Custom front splitter with 3D-printed air dams and integrated canards. Carbon fiber side skirts with integrated LED turn signals and air curtains.",
+    "Wheels: Work Meister S1 3P 18x10.5 +20 front and 18x12 +30 rear with custom offsets for widebody fitment. Michelin Pilot Sport Cup 2 R tires (275/35/18 front, 315/30/18 rear). Custom titanium wheel studs and Rays Engineering lug nuts.",
+    "Interior: Bride Zeta IV reclining bucket seats with custom GTO-specific mounting brackets. Custom roll cage with 4-point harness bar and integrated fire suppression system. Momo Prototipo steering wheel with quick-release hub and custom GTO emblem. Full Alcantara headliner and door cards with red stitching.",
+    "Lighting: Custom LED headlight conversion with Osram 6000K HID projectors, custom C-shaped DRLs, and sequential LED taillights. Custom carbon fiber mirror caps with integrated LED side markers."
+  ]
+}

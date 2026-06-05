@@ -1,0 +1,14 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "L200 BARBARIAN X",
+  "prestazioni": [
+    "Engine: 4N15 2.4L MIVEC Turbo Diesel (150-181hp stock) – Forced induction upgrade via BorgWarner EFR 7670 turbo (1.05 A/R, 64mm compressor, 56mm turbine) with custom 3D-printed titanium compressor housing to reduce rotational mass, paired with a custom 3-inch stainless steel downpipe featuring a divorced wastegate setup (Tial MV-R 44mm) for precise boost control (target: 32psi peak, 28psi sustained).",
+    "Fuel System: Full Bosch Motorsport CP4.2 high-pressure diesel pump (max 2,500 bar) with 10-hole 320cc injectors (Denso G4S) and a custom ECU remap via KESS V3 (Stage 3+ protocol) to optimize injection timing and rail pressure for E85 compatibility (70% blend).",
+    "Drivetrain: Strengthened transmission with a Punch Powerglide 6L90E 6-speed automatic conversion (heavy-duty torque converter, 300M input shaft) and a Quaife ATB differential (80% lock) in the rear axle, paired with a custom 3.73:1 gear set (replacing the stock 4.30:1) for optimized highway cruising and towing stability."
+  ],
+  "estetica": [
+    "Widebody Conversion: Liberty Walk LB Works L200 kit (carbon fiber fenders, extended rocker panels, and rear over-fenders) with custom 3D-printed ABS plastic inner fender liners to accommodate 22x12-inch ET-15 Volk Racing TE37SL wheels (matte bronze) wrapped in 295/30R22 Toyo Open Country M/T tires.",
+    "Aerodynamics: Custom front splitter (carbon fiber, 3D-molded to fit the Barbarian X grille) with integrated air curtains (inspired by the 2023 Mitsubishi XRT Concept) and a rear diffuser (Rocket Bunny-style, 3-piece carbon fiber) featuring active Gurney flaps (servo-controlled via Arduino, triggered by speed >80km/h).",
+    "Lighting & Details: Full OEM+ LED retrofit with Osram Night Breaker Laser bulbs (H11/H7) and custom C-shaped DRLs (Lux H8 LED pods) integrated into the front bumper, paired with a custom rear light bar (RGBW, addressable via Bluetooth) using Philips Hue Outdoor Lightstrips for dynamic turn signals and brake lighting."
+  ]
+}

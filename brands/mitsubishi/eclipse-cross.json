@@ -1,0 +1,14 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "ECLIPSE CROSS",
+  "prestazioni": [
+    "Turbocharger upgrade to a Garrett GT2860RS (846517-5002S) for the 1.5L MIVEC Turbo (4B40) engine, targeting 280-300whp with supporting fuel upgrades including a Walbro 450LPH in-tank fuel pump and Injector Dynamics ID1050x fuel injectors",
+    "Full bolt-on intake system with a custom heat-shielded AEM 21-826C cold air intake and a 3.5\" mandrel-bent aluminum charge pipe kit from MAPerformance, paired with a Mishimoto MMINT-MIT-15TBL intercooler to reduce intake temps by 20-25°C",
+    "ECU reflash via OpenECU M150 platform with a custom dyno-tuned map by EcuTek ProECU, optimizing boost pressure (1.4 bar peak), ignition timing, and fuel delivery for the 4B40 engine, including launch control and flat-foot shifting for the 8-speed CVT (simulated gears via paddle shifters)"
+  ],
+  "estetica": [
+    "Liberty Walk LB Works widebody kit (Mitsubishi Eclipse Cross-specific) with extended fenders, custom carbon fiber side skirts, and a ducktail rear spoiler, finished in BASF RM+ matte white with gloss black accents",
+    "OEM+ front bumper lip replacement with a Varis Japan carbon fiber lip (part #VAR-001-MIT) and a custom 3M 1080 vinyl wrap in \"Gunmetal Grey\" with a satin finish for the roof and mirror caps",
+    "Wheel setup: Work Emotion CR Kiwami 19x9.5 +15 ET (front) and 19x10.5 +20 ET (rear) in gloss black, paired with Michelin Pilot Sport Cup 2 tires (245/35/19 front, 275/30/19 rear) and Project Kics R40 6-pot front/4-pot rear big brake kit with 356mm rotors"
+  ]
+}

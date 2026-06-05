@@ -1,0 +1,18 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "EVO VI TOMMI MAKINEN EDITION",
+  "prestazioni": [
+    "4G63T (7th revision, 85.5mm bore, 88mm stroke) forged internals upgrade with Tomei 87mm forged pistons (12.5:1 compression), Eagle H-beam connecting rods, and ACL Race Series bearings for 1,000+ hp capability under methanol injection (E85 compatible).",
+    "Garrett GTX4202R turbocharger (0.96 A/R turbine housing, 62mm billet compressor wheel) with TiAL MV-R 44mm external wastegate, custom 3.5\" stainless steel downpipe, and GReddy Profec B Spec II boost controller targeting 3.2 bar (46 psi) peak pressure on E85.",
+    "HKS 272°/276° camshafts (intake/exhaust) with Tomei adjustable cam gears, Supertech valve springs/retainers, and Ferrea 1mm oversized titanium valves (intake: 36mm, exhaust: 31mm) paired with a Tomei Type-S 70mm throttle body and custom 3\" velocity stack intake manifold.",
+    "Custom Motec M150 ECU with full flex-fuel mapping, dual Bosch 028 high-flow fuel pumps, ID1000x injectors, and a Radium Engineering dual-catch can setup with -10AN lines for crankcase ventilation under extreme boost.",
+    "AP Racing 6-piston front (356mm) and 4-piston rear (330mm) big brake kit with 2-piece floating rotors, Ferodo DS3000 pads, and custom braided stainless steel lines, paired with Ohlins TTX40 coilovers (24-way damping, 12kg/mm front/10kg/mm rear springs) and Cusco 2.5-way LSD (80% lock)."
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (carbon fiber fenders, front bumper, and rear diffuser) with custom 3M 484 Matte Graphite vinyl wrap and OEM TME-specific red/black Recaro seat inserts replicated in Alcantara (Sparco Pro ADV seats with Schroth 6-point harnesses).",
+    "Voltex Type-5 rear wing (carbon fiber, 1,200mm width, 300mm height) with custom aluminum supports and Gurney flap, paired with a Seibon carbon fiber hood (vented, 50mm lower than OEM) and custom LED DRLs integrated into the front bumper (Osram 10W CRI90).",
+    "Work Emotion CR Kiwami wheels (18x10.5 +15 front, 18x11 +20 rear) in matte black with Toyo R888R tires (265/35/18 front, 295/30/18 rear), paired with custom titanium wheel studs (14x1.5, 50mm length) and Muteki SR45 lug nuts.",
+    "Custom titanium exhaust system by Burns Stainless (4\" diameter, 304 stainless steel, dual 4.5\" rolled-edge tips) with integrated electronic cutouts (controlled via Motec ECU) and a secondary bypass valve for anti-lag (activated via steering wheel button).",
+    "Full interior carbon fiber overhaul: Varis carbon fiber door cards, dashboard, and center console (gloss finish), paired with a custom roll cage (1.75\" x .120\" DOM steel, TIG-welded) and a Sparco Evo QRT steering wheel (350mm, suede) with integrated AIM MXS Strada dash display."
+  ]
+}

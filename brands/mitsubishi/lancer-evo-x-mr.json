@@ -1,0 +1,14 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "LANCER EVO X MR",
+  "prestazioni": [
+    "4B11T (2.0L MIVEC Turbo) engine upgraded with a Garrett GTX3582R turbocharger (0.82 A/R turbine housing, billet compressor wheel) paired with a Tomei 272°/272° camshaft set (intake/exhaust) and Ferrea 5000-series titanium valves for reduced valvetrain mass and improved high-RPM stability",
+    "Full titanium 3.5-inch turbo-back exhaust system by HKS Hi-Power Spec-L (dual 110mm outlets, 304 stainless steel, mandrel-bent piping) with a custom 4-2-1 stainless steel header by GReddy (equal-length primaries, 1.75-inch diameter) and a secondary catalytic converter delete (replaced with a GReddy EVO10-specific test pipe)",
+    "Custom ECU reflash via EcuTek ProECU RaceROM (Stage 3+ mapping) with a Cobb Accessport V3 for real-time monitoring, featuring a 32psi boost target (up from stock 22psi), 28° of ignition advance (safely optimized for 100-octane fuel), and a custom anti-lag system (ALS) for turbo spool retention during gear shifts, paired with a Tomei M82 fuel pump and ID1000x injectors (1000cc/min) for E85 compatibility"
+  ],
+  "estetica": [
+    "Voltex Type-7 front bumper with integrated carbon fiber canards (JDM-spec, 3-piece design) and a custom aluminum hood by Seibon Carbon (Type-20, 50% weight reduction, functional dual center vents for heat extraction)",
+    "Rocket Bunny V3 widebody kit (EVO X-specific, 30mm extended fenders front/rear, bolt-on overfenders) with custom matte gunmetal paint (PPG DBC basecoat) and a custom rear diffuser by Varis (carbon fiber, 3-piece design with integrated titanium exhaust tips)",
+    "Ohlins Road & Track DFV coilovers (EVO X-specific valving, 2-way adjustable damping, 30-way adjustable rebound, 20mm drop from stock) paired with Cusco Type-RS pillowball upper mounts (front) and a Cusco 2.5-way LSD (rear) for improved cornering stability, complemented by a Cusco front strut tower bar (aluminum, 2-point design) and a Cusco rear subframe brace (carbon fiber, 3-point)"
+  ]
+}

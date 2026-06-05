@@ -1,0 +1,14 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "LANCER EVO WRC",
+  "prestazioni": [
+    "Engine: 4G63T (2.0L inline-4, closed-deck iron block, forged internals) with a custom WRC-spec billet crankshaft (86mm stroke) and forged 10.5:1 compression pistons (JE Racing) for 340+ hp at 8,500 RPM on 40 psi of boost",
+    "Turbocharger: Garrett GT4202 (WRC-spec, 64mm compressor, 76mm turbine) with a custom 3.5-inch titanium downpipe (HKS) and a 4-inch stainless steel exhaust system (GReddy Revolution RS) with a 304-grade merge collector",
+    "Suspension: Öhlins TTX40 4-way adjustable dampers (WRC-spec) with custom 25mm front and 22mm rear sway bars (Whiteline) and spherical bearing control arms (Perrin Performance) for sub-2Hz roll stiffness tuning"
+  ],
+  "estetica": [
+    "Aerodynamics: WRC-spec carbon fiber front splitter (Rocket Bunny) with integrated dive planes and a 1,200mm rear wing (Voltex Type-5) on adjustable carbon fiber mounts (Seibon) for 400kg of downforce at 200 km/h",
+    "Body: Full carbon fiber widebody kit (Tommy Kaira M20) with custom 3D-printed ABS fender flares (width: 2,100mm total) and a carbon fiber hood (C-West) with a 100mm central ram-air scoop",
+    "Interior: Full WRC-spec roll cage (Sparco Pro 2000, 45mm OD x 2.5mm wall thickness) with a carbon fiber dashboard (V Carbon) and Recaro Pole Position seats (HANS-compatible, 1.2kg shell weight)"
+  ]
+}

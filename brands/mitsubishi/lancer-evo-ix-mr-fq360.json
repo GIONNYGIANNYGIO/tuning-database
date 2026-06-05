@@ -1,0 +1,14 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "LANCER EVO IX MR FQ360",
+  "prestazioni": [
+    "Replace the stock TD05H-15GK turbo (413307) with a Garrett GTX3582R Gen II (83mm compressor, 62mm turbine) paired with a custom 3.5\" V-band downpipe (GReddy Revolution RS) and a 3.5\" titanium-wrapped exhaust system (HKS Hi-Power RS) to eliminate backpressure on the 4G63T (MIVEC) engine, targeting 450whp on 98 RON fuel with a 22psi boost curve on a Syvecs S8 ECU (full flex-fuel mapping, individual cylinder trims, and launch control).",
+    "Upgrade the stock EVO IX MR FQ360's ACD (Active Center Differential) with a Cusco Type RS 1.5-way front LSD (25-spline, 4.375\" ring gear) and a Cusco 2-way rear LSD (2.5-way preload, 4.625\" ring gear) to handle the increased torque, while reinforcing the transmission with a PPG Stage 3 dog-ring gearset (1-2: 2.916, 3-4: 2.176, 5: 1.684, R: 3.416) and a billet aluminum PPG short shifter (70mm throw reduction).",
+    "Install a full Tomei Powered by HKS 4G63T engine build: forged 87mm CP pistons (8.8:1 CR, -20cc dish), Eagle H-beam connecting rods (5.433\" center-to-center), ACL Race Series bearings, Tomei Type-S camshafts (272° intake, 276° exhaust, 11.2mm lift), and a Tomei 272° adjustable cam gear set, paired with a GReddy Profec B Spec II boost controller and a custom 3-core GReddy intercooler (1000cfm flow) with a 3\" silicone intake piping system (HKS Super Power Flow)."
+  ],
+  "estetica": [
+    "Fit a Rocket Bunny V3 widebody kit (EVO IX-specific, 30mm front fender flares, 40mm rear flares) with custom carbon fiber overfenders (Seibon, 1.5mm thickness) and a full carbon fiber hood (C-West, 50% weight reduction, integrated NACA ducts for intercooler airflow).",
+    "Install a Voltex Type-3 rear wing (2000mm width, 300mm height, 3D endplates) with a custom aluminum pedestal (Aeroflow, 5-axis CNC) and a carbon fiber diffuser (Rays Engineering, 3-stage design) to balance downforce at 150mph, paired with a full Ohlins Road & Track coilover kit (24-way damping, 30mm front/rear ride height adjustability, pillowball top mounts).",
+    "Replace all exterior lighting with a full LED conversion: Dapper Lighting Halo headlights (projector-style, 5500K CREE LEDs), Dapper Lighting LED taillights (sequential turn signals, smoked lenses), and a custom LED underglow kit (Philips Ultinon Pro90, 6000K, 2000lm per pod) with a Greddy E-Manage Ultimate controller for dynamic color shifting (syncs with RPM)."
+  ]
+}

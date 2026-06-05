@@ -1,0 +1,14 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "DIAMANTE",
+  "prestazioni": [
+    "Engine swap to a **6G72TT (MIVEC) twin-turbo V6** from the Mitsubishi GTO/3000GT VR-4, retaining the Diamante's FWD layout but upgrading internals with **JE 8.5:1 forged pistons**, **Manley H-beam connecting rods**, and a **Tomei Type-M 272° camshaft** for high-RPM power. Pair with a **Garrett GTX3582R turbocharger** (0.82 A/R turbine housing) and a **GReddy Profec B Spec II** boost controller for 18 psi peak boost on **E85 fuel**.",
+    "Full **HKS Hi-Power exhaust system** with 3.5-inch mandrel-bent piping, **Burns Stainless 4-2-1 headers**, and a **custom 3-inch downpipe** to eliminate the restrictive Diamante catalytic converter. Replace the stock **6G72 MAF** with a **Haltech Elite 2500 standalone ECU** and **ID1000x injectors** for precise fueling, tuned via **EcuTek ProECU** with a custom 3D-printed intake manifold for optimized airflow.",
+    "Suspension overhaul with **Öhlins Road & Track DFV coilovers** (Diamante-specific valving), **SuperPro poly bushings** (front control arms, subframe, and rear trailing arms), and **Cusco 22mm front / 20mm rear sway bars**. Brake upgrade to **Brembo GT 6-piston calipers** (355mm rotors) up front and **2-piston calipers** (330mm rotors) in the rear, paired with **Ferodo DS2500 pads** and **Motul RBF660 brake fluid**."
+  ],
+  "estetica": [
+    "**Rocket Bunny V1 widebody kit** (Diamante-specific, 3-piece overfenders with carbon fiber front bumper and rear diffuser), modified to fit **Work Meister S1 3P 18x9.5 +30 wheels** with **Michelin Pilot Sport Cup 2 tires** (255/40/18 front, 275/35/18 rear).",
+    "**Seibon carbon fiber hood** (OEM-style with functional vents) and **RE Amemiya GT-II rear wing** (adjustable 3-position angle, 1,200mm span) for downforce. Full **3M Matte Pearl White wrap** with **Vinyl Lab carbon fiber mirror caps** and **custom LED taillight overlays** (JDM-spec reverse light delete).",
+    "**Recaro SP-G (JDM-spec) front seats** with **Takata Drift II 4-point harnesses**, **NRG quick-release steering wheel hub**, and **Defi BF Silver gauges** (boost, oil pressure, wideband AFR) mounted in a **custom A-pillar pod**. Interior stripped and sound-deadened with **Kilmat 80mil dynamat**, then reupholstered in **Alcantara door cards** and **Nappa leather-wrapped shift knob** (Momo Prototipo)."
+  ]
+}

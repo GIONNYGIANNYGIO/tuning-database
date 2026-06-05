@@ -1,0 +1,14 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "LANCER CELESTE GT TURBO",
+  "prestazioni": [
+    "Engine: 4G52T (2.6L SOHC 8-valve turbocharged inline-4) – Full forged internals including JE 87mm forged pistons (9.0:1 CR), Eagle H-beam connecting rods, and ACL Race Series bearings to handle 25+ psi boost. Stock crankshaft retained with balanced assembly by Tomei.",
+    "Turbocharger: Garrett GT3076R (Journal Bearing, .86 A/R turbine housing) with custom 3-inch stainless downpipe and HKS SSQV blow-off valve. Intercooler upgraded to GReddy Type-S front-mount with 2.5-inch piping and Mishimoto silicone couplers.",
+    "Fuel System: Walbro 255 LPH in-tank fuel pump, Injector Dynamics ID1000x injectors, and AEM 320LPH external fuel pump with -8AN lines. ECU reflash via Haltech Elite 1500 standalone with custom 4G52T-specific ignition and fuel maps, including launch control and anti-lag for rally use."
+  ],
+  "estetica": [
+    "Body Kit: Rocket Bunny V1 Celeste-specific widebody kit (fiberglass fenders, custom front bumper with integrated tow hooks, and rear diffuser). Painted in Mitsubishi ‘Monte Carlo White’ with custom ‘Celeste GT Turbo’ side decals in 3M Matte Black.",
+    "Wheels: Work Meister S1 3P 15x9 +15 (front) and 15x10 +20 (rear) in gloss gunmetal, wrapped in Toyo R888R 225/50R15 (front) and 245/45R15 (rear). Custom 5x114.3 to 4x114.3 hub adapters with extended wheel studs.",
+    "Interior: Bride Zeta III bucket seats with Takata 4-point harnesses, custom roll cage by Cusco (8-point, bolt-in, with gusseted joints). Steering wheel replaced with Nardi Classic 350mm suede wheel on NRG quick-release hub. Gauges: Defi Advance BF series (boost, oil pressure, wideband AFR) mounted in custom A-pillar pod."
+  ]
+}

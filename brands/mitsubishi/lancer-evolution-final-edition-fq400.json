@@ -1,0 +1,14 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "LANCER EVOLUTION FINAL EDITION FQ400",
+  "prestazioni": [
+    "Replace the stock 4B11T (MIVEC turbocharged) engine's turbocharger with a Garrett GTX3582R Gen II (82mm compressor, 62mm turbine) paired with a Tomei 80mm titanium wastegate and a custom 3.5-inch stainless steel downpipe featuring a divorced wastegate setup to eliminate backpressure and optimize spool on the 2.0L inline-4.",
+    "Install a HKS Hi-Power 4.1L intercooler core with a custom aluminum piping system (3.5-inch diameter) and a Mishimoto X-Line silicone coupler kit, reducing intake temps by 30°C under full boost while maintaining the stock FQ400's 400PS (395hp) output but with a flatter torque curve (450Nm from 3,500-6,500 RPM).",
+    "Upgrade the stock 6-speed F1CJC gearbox with a PPG straight-cut dog engagement kit (1st-4th gears), a billet aluminum shift fork, and a Sachs Performance twin-disc clutch (paddle-type, 800Nm capacity) to handle the increased torque while retaining the Evo X's SST (Sportronic Shift Transmission) functionality for launch control and flat-shift tuning via an AEM Infinity 7 standalone ECU."
+  ],
+  "estetica": [
+    "Fit a Rocket Bunny V3 widebody kit (carbon fiber fenders, front bumper, and rear diffuser) with custom extended wheel arches to accommodate a 10mm front and 15mm rear track width increase, paired with Volk Racing TE37SL wheels (18x10.5 +15 front, 18x11 +20 rear) in Hyper Silver with titanium hardware.",
+    "Install a Seibon Carbon fiber hood with a custom 3-inch vented scoop (aligned with the HKS intercooler) and a rear carbon fiber GT wing (900mm chord, 150mm height) mounted on adjustable titanium pedestals, replacing the stock aluminum wing for reduced weight and increased downforce (250kg at 180mph).",
+    "Replace all exterior trim with a full OEM+ carbon fiber package (Vortex Generations front splitter, rear bumper lip, and side skirts) in matte clear coat, paired with a custom titanium exhaust system (Burns Stainless 3.5-inch piping with a 304 stainless steel muffler and dual 4-inch titanium tips) for weight savings and a deeper, 3,500Hz exhaust note."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "ECLIPSE CROSS PHEV",
+  "prestazioni": [
+    "Engine-specific ECU reflash for the **4B11T MIVEC PHEV** (hybrid 2.4L inline-4 + electric motor) using a **KTEC Stage 2+ PHEV-specific tune**, optimizing torque split between the internal combustion engine (ICE) and the **YASA P400** electric motor for a 0-60mph reduction to ~5.8s (stock: 7.5s) while maintaining AWD stability via **MIVEC VVT recalibration** and **battery thermal management override**",
+    "Hybrid powertrain upgrade with a **Magna PT eDS** (electric drive system) auxiliary motor (50kW peak) mounted on the rear axle, paired with a **Bosch MGU-K** (Motor Generator Unit-Kinetic) for regenerative braking energy recapture at 95% efficiency (stock: 82%), requiring a **custom 400V lithium-ion battery pack** from **Webasto Blue eMotion** (12.8kWh, 30% higher capacity than OEM) and a **BorgWarner HVH250-115** inverter for seamless power delivery",
+    "Forced induction conversion via **Garrett GT2259S turbocharger** (hybrid-specific compressor map) with a **Tial 44mm external wastegate**, **Mishimoto aluminum intercooler** (2.5x core volume vs. stock), and **Injector Dynamics ID1050x** fuel injectors, pushing the **4B11T** to 320whp (stock: 190whp) while retaining the PHEV system’s **S-AWC (Super All-Wheel Control)** via a **Haltech Elite 2500** standalone hybrid ECU managing both ICE and electric motor torque vectoring"
+  ],
+  "estetica": [
+    "Liberty Walk LB-WORKS **Eclipse Cross PHEV-specific widebody kit** (carbon fiber fenders, front/rear bumpers, and side skirts) with **custom 3D-printed ABS plastic overfenders** to accommodate **20x10.5 ET25** (front) and **20x11.5 ET30** (rear) **Work Emotion CR Kiwami** wheels, wrapped in **Michelin Pilot Sport Cup 2 R** (255/35R20 front, 285/30R20 rear) for aggressive stance and track-ready grip",
+    "Full **Seibon Carbon** aero package including a **dual-element GT wing** (1,800mm span, 300mm chord) with **adjustable carbon fiber endplates**, **front splitter with integrated canards** (3D-milled aluminum), and **rear diffuser with active Gurney flap** (electrically actuated via **Motec PDM15** for drag reduction at high speeds), all finished in **Mitsubishi Racing Green (MRG) with matte clear coat**",
+    "Interior overhaul featuring **Recaro SPG XL** seats (carbon-Kevlar shell, Alcantara/leather upholstery) with **Schroth Profi II 6-point harnesses**, **Momo Prototipo steering wheel** (suede, 350mm diameter) with **AiM MXS Strada** digital dash integration, and **custom PHEV-specific center console** housing a **RaceGrade hybrid power distribution module** and **OMP aluminum pedal set** (throttle/brake/clutch with adjustable pivot points)"
+  ]
+}

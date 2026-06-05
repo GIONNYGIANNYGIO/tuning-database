@@ -1,0 +1,17 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "EVO X FQ-440",
+  "prestazioni": [
+    "Engine: 4B11T (2.0L MIVEC Turbo) - Full forged internals with Manley I-beam connecting rods, JE 9.0:1 compression forged pistons, and ACL Race Series main/rod bearings to handle 700+ WHP reliably under methanol injection (Snow Performance Stage 3 kit with dual 1000cc injectors).",
+    "Turbocharger: Garrett GTX4202R Gen II with billet compressor wheel (62mm inducer, 84mm exducer), TiAL MV-R 44mm wastegate, and custom 3.5\" stainless steel downpipe (GReddy Revolution RS catless) paired with a Tomei 80mm titanium exhaust system.",
+    "Drivetrain: OS Giken Super Lock LSD (front and rear) with billet carrier, PPG 1.5-way 6-speed sequential gearset (dog-ring engagement), and Sachs Racing twin-disc clutch (240mm) with billet flywheel. Transmission cooling via PWR 4-core intercooler and external oil cooler (Setrab 13-row).",
+    "Suspension: Öhlins Road & Track DFV coilovers (2-way adjustable damping, 20mm front/15mm rear camber plates) with Eibach ERS 1000N/mm helper springs, Whiteline adjustable sway bars (24mm front, 22mm rear), and SuperPro poly bushings (full chassis refresh).",
+    "ECU & Fueling: Haltech Elite 2500 standalone ECU with flex-fuel sensor (E85-capable), ID1000x injectors (primary), and AEM 320lph in-tank fuel pump with dual Bosch 044 external pumps. Ignition system upgraded to AEM CDI with NGK R7437-9 racing plugs (0.024\" gap)."
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny V3 widebody kit (carbon fiber fenders, front bumper, and rear diffuser) with custom 3M Gloss Black wrap and matte gunmetal accents. Rear wing replaced with a Voltex Type-7 (2000mm span, carbon fiber) on custom aluminum mounts.",
+    "Wheels: WORK Meister S1 3P (18x10.5 +20 front, 18x11 +15 rear) in Hyper Silver with Toyo R888R tires (265/35/18 front, 295/30/18 rear). Lug nuts upgraded to Muteki SRD titanium (M12x1.5).",
+    "Interior: Recaro SPG XL seats (Kevlar/carbon fiber shell) with Schroth Profi II 6-point harnesses, custom roll cage (Chromoly 4130, 6-point with X-brace) by Cusco, and AIM MXS Strada dash (12-inch display) with integrated GPS lap timer and OBD-II data logging.",
+    "Lighting: Lazer Triple-R 1000 LED headlights (DRL/low/high beam) with custom HID projectors, and Diode Dynamics SS3 Pro sequential turn signals (front and rear). Engine bay fully wire-tucked with custom braided lines (AN-6 for oil/coolant, AN-8 for fuel)."
+  ]
+}

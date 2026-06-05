@@ -1,0 +1,14 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "EVO WAGON",
+  "prestazioni": [
+    "4G63T (7th-gen Lancer Evolution IX Wagon variant) forged internals with Manley 87mm stroker crank, Eagle H-beam connecting rods, and JE 8.5:1 compression pistons for 2.2L displacement, paired with a Garrett GTX3582R Gen II turbocharger (0.82 A/R turbine housing, 58mm compressor inducer) and custom 3.5-inch stainless steel downpipe with Bellmouth Designs divorced wastegate dump tubes",
+    "HKS GT-SS Super SQV IV blow-off valve (part #15004-AK003) and Tomei 80mm titanium exhaust system with 304 stainless steel 2.5-inch piping, straight-through muffler, and dual 4-inch rolled-edge tips (Evo Wagon-specific fitment to clear rear subframe)",
+    "Haltech Elite 2500 ECU with custom CAN bus integration for Mitsubishi ACD (Active Center Differential) and AYC (Active Yaw Control) torque vectoring, running E85 flex-fuel with ID1000x injectors and a Radium Engineering dual-catch can setup (PCV and crankcase ventilation separated)"
+  ],
+  "estetica": [
+    "Voltex Type-7 rear wing (Evo Wagon-specific mounting brackets to clear tailgate glass) with carbon fiber endplates and adjustable angle of attack (0-15 degrees), paired with a Rocket Bunny V3 widebody kit (rear fenders extended 50mm per side, front fenders 30mm) in raw carbon fiber with OEM-style paint-matched lower cladding",
+    "Work Meister S1 3P 18x9.5 +38 front and 18x10.5 +25 rear wheels (ET-specific offsets to clear Evo Wagon rear strut towers) wrapped in Toyo R888R 265/35/18 and 285/30/18 tires, with custom polycarbonate fender flares (3mm thick, bolt-on design) to accommodate wheel fitment",
+    "OEM+ front bumper lip with integrated LED DRLs (Mitsubishi Ralliart-style, part #MR965000EX) and custom rear diffuser (3D-printed ABS with carbon fiber weave overlay) featuring dual 3-inch exhaust cutouts and integrated tow hook cover (Evo Wagon-specific, accounting for rear bumper overhang)"
+  ]
+}

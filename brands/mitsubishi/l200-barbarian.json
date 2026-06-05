@@ -1,0 +1,14 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "L200 BARBARIAN",
+  "prestazioni": [
+    "Engine swap to a 4B12T 2.4L MIVEC turbocharged inline-4 (from the Mitsubishi Outlander PHEV) with a forged internals kit from Tomei, including billet crankshaft, forged pistons (8.5:1 compression), and H-beam connecting rods. Pair with a Garrett GTX3582R turbocharger (0.82 A/R turbine housing) and a custom 3.5-inch stainless steel downpipe from HKS, mated to a 3-inch titanium exhaust system by Fujitsubo Legalis R.",
+    "Standalone ECU upgrade to a Haltech Elite 2500 with a custom calibration for E85 flex-fuel capability, integrated with a Link G4+ CAN keypad for on-the-fly map switching (Valet, 91 Octane, E85, and Race modes). Include a dual Bosch 028 high-flow fuel pump setup with an Aeromotive fuel pressure regulator (30 psi base) and ID1000x injectors for 800+ hp capability.",
+    "Suspension overhaul with Ohlins TTX40 2-way adjustable coilovers (800 lb/in front, 600 lb/in rear) and custom valving for off-road compliance, paired with Polyurethane bushings from SuperPro (part #SPF1126K) for the front control arms and rear leaf spring shackles. Add a custom-fabricated 3-link rear suspension with adjustable panhard rod from RuffStuff Specialties for improved articulation and stability."
+  ],
+  "estetica": [
+    "Widebody conversion using a custom Rocket Bunny L200 kit (Pandem Designs), extended 3.5 inches per side with carbon fiber fender flares and integrated LED turn signals. Include a custom front bumper with a 3D-printed honeycomb mesh grille and a carbon fiber hood with a functional heat extractor from Seibon Carbon.",
+    "Wheel setup with Volk Racing TE37V (17x9 +12 front, 17x10.5 +0 rear) wrapped in Toyo Open Country M/T Trail (285/70R17 front, 315/70R17 rear) for a staggered off-road stance. Pair with custom titanium wheel studs from ARP (part #200-7709) and Duraflex extended wheel spacers (25mm front, 35mm rear).",
+    "Exterior lighting upgrade to a full LED setup with Morimoto XB LED headlights (H11/H9 bulbs), Baja Designs Squadron Pro auxiliary lights (50W amber fog, 100W white spot), and a custom rear light bar integrated into the tailgate using Philips LED strips (RGBW, controlled via Haltech CAN bus for brake/turn signals)."
+  ]
+}

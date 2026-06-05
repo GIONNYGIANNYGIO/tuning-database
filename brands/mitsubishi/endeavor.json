@@ -1,0 +1,14 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "ENDEAVOR",
+  "prestazioni": [
+    "Replace the stock 6G75 (3.8L SOHC 24V V6) engine's restrictive cast exhaust manifolds with a set of custom-fabricated 304 stainless steel equal-length headers (1.75\" primary tubes, 3\" collectors) paired with a Borla Pro XS cat-back exhaust system (2.5\" mandrel-bent piping, 409 stainless mufflers) to optimize scavenging and reduce backpressure by ~35%",
+    "Install a Sprintex S300-350 supercharger kit (2.3L compressor, 8-rib serpentine drive, intercooled) with a custom ECU reflash via HP Tuners (targeting 7.5 psi boost, 91-octane fuel, 30° ignition retard, and 12.5:1 AFR) to push the 6G75 to ~320whp and 340wtq on stock internals with forged Mahle pistons (8.9:1 compression) and Eagle H-beam connecting rods for reliability",
+    "Upgrade the stock 4-speed automatic transmission (F4A51) with a Level 10 Transmission rebuild kit (Sonnax oversized servos, Raybestos Stage 2 clutch packs, billet torque converter with 2,800 RPM stall) and a PWR aluminum radiator with dual 12\" SPAL fans to handle the increased heat load, paired with a B&M 70264 SuperCooler transmission cooler"
+  ],
+  "estetica": [
+    "Install a custom widebody conversion using Rocket Bunny V2 Endeavor-specific overfenders (carbon fiber, 3\" wider front/4\" wider rear) with a matching custom front bumper (aggressive splitter, integrated fog light delete, and 3D-printed ducting for brake cooling) and a Seibon carbon fiber hood (functional scoop for intercooler airflow)",
+    "Replace the stock 17\" wheels with a set of Volk Racing TE37V (18x9.5 +25 front, 18x10.5 +30 rear) wrapped in Toyo R888R tires (265/40/18 front, 285/35/18 rear) and paired with D2 Racing coilovers (3-way adjustable damping, 2.5\" drop) with custom-valved Eibach ERS springs for improved turn-in response",
+    "Full OEM+ interior overhaul with a Recaro SRD-E fixed-back bucket seat (Mitsubishi-specific mounting brackets), a NRG Innovations quick-release steering wheel hub (Momo Mod.77 350mm wheel), and a custom center console delete (replaced with a carbon fiber panel housing a Motec C125 dash display and AEM X-Series wideband controller)"
+  ]
+}
