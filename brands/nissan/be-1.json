@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "BE-1",
+  "prestazioni": [
+    "Engine swap to a Nissan MA10ET (turbocharged 1.0L inline-4 from the March Turbo) with a custom forged internals kit from Tomei, including forged pistons (8.5:1 compression), billet crankshaft, and H-beam connecting rods. Pair with a Garrett GT15 turbo (GT1544Z) and a custom 38mm external wastegate from Turbosmart to handle boost levels up to 1.2 bar (17.4 psi).",
+    "Full custom 4-2-1 stainless steel exhaust manifold by HKS, paired with a 2.5-inch diameter titanium exhaust system from Fujitsubo (GSpec Legalis R), featuring a straight-through design with a single 100mm titanium tip. The exhaust system includes a custom X-pipe for optimized scavenging and a secondary O2 sensor delete for standalone ECU tuning.",
+    "Standalone Haltech Elite 2500 ECU with a custom wiring harness from Wireworks, paired with a Link G4+ Monsoon for dual-ECU redundancy. Fuel system upgrades include a Walbro 255 LPH in-tank fuel pump, 650cc injectors from ID (Injector Dynamics), and a custom fuel rail from Tomei. Ignition system features NGK Iridium IX spark plugs (BKR6EIX) and a custom coil-on-plug conversion using Denso coils from the VQ35DE."
+  ],
+  "estetica": [
+    "Full Rocket Bunny PB-01 widebody kit (BE-1-specific), including extended carbon fiber fenders, front/rear bumpers, and a custom ducktail spoiler. The kit is paired with a custom front splitter from Varis and a rear diffuser from Seibon Carbon, both in raw carbon fiber finish.",
+    "Custom 15-inch Work Meister S1 3P wheels (4x100 PCD) in a staggered setup (15x7 +35 front, 15x8 +25 rear) with Toyo R888R tires (185/55/15 front, 195/50/15 rear). The wheels are paired with custom wheel spacers from 5Zigen (15mm front, 20mm rear) to achieve a flush fitment.",
+    "Full custom interior retrim by Status Racing, featuring Recaro SRD seats (BE-1-specific mounting brackets) upholstered in Alcantara with red stitching, a custom MOMO Mod.78 steering wheel (350mm diameter), and a full roll cage from Cusco (Type RS) with a bolt-in design for the BE-1's unibody chassis. The dashboard is replaced with a custom carbon fiber panel from Seibon, housing a digital gauge cluster from Defi (Advance BF series)."
+  ]
+}

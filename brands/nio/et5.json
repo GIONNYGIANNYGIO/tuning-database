@@ -1,0 +1,14 @@
+{
+  "brand": "NIO",
+  "model": "ET5",
+  "prestazioni": [
+    "Upgrade to a **Bosch MGU050 motor-generator unit** (replacing the stock **Permanent Magnet Synchronous Motor - ET5-150kW**) with a **custom liquid-cooled inverter** (AP Racing heat exchanger) to handle 350kW peak power (470hp) and 700Nm torque, paired with a **NIO 150kWh Ultra-Hybrid Battery Pack** (CATL Qilin cells, 800V architecture) for sustained 0-100km/h in 2.9s",
+    "Install a **Garrett E-Turbo GTX3582R Gen II** electric turbocharger (modified for 800V systems) with a **Turbosmart e-Boost25** controller and **PWR Performance intercooler** (dual-core, 1200hp-rated) to eliminate lag in the **ET5’s dual-motor AWD system (front: 150kW, rear: 210kW)** while maintaining OEM torque vectoring",
+    "Replace the stock **NIO ET5 adaptive air suspension (CDC dampers)** with **Öhlins DFV Road & Track coilovers** (custom valving for the ET5’s 1,963kg curb weight) and **HRE FF16 flow-formed wheels** (20x9.5 ET35 front, 21x11 ET40 rear) wrapped in **Michelin Pilot Sport Cup 2 R** (275/30 R20 front, 325/25 R21 rear) for sub-2.0s lateral G"
+  ],
+  "estetica": [
+    "Fit a **Liberty Walk LB Works ET5 widebody kit** (carbon fiber, 50mm extended fenders) with **custom 3D-printed NIO Aeroblade splitters** (CFRP, 3-stage adjustable) and a **Rocket Bunny GT-style ducktail spoiler** (pre-preg carbon, 12kg downforce at 200km/h)",
+    "Replace all exterior lighting with **Lux Hella 90mm LED projectors** (RGBW, 5,000-lumen) and **Osram Laserline taillights** (OEM-style housing, 1,200-lumen), paired with **Novitec N-Largo carbon fiber side skirts** (matte finish) and **Vorsteiner V-Stream diffuser** (dual-canard design)",
+    "Install a **Forge Motorsport carbon fiber engine cover** (vented, with NIO logo engraving) and **custom titanium exhaust tips** (Akrapović Ti-Evo, 100mm diameter) for the **ET5’s active sound generator (ASG) system**, tuned to emulate a **VR38DETT at 8,000 RPM** via **Bose Premium Sound DSP remap**"
+  ]
+}

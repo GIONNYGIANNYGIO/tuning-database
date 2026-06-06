@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "CEDRIC GRAN TURISMO",
+  "prestazioni": [
+    "Engine swap to a Nissan VH45DE (4.5L V8, 276hp stock) with a custom billet crankshaft from Tomei and forged JE Pistons (8.5:1 compression for forced induction), paired with a Garrett GTX4202R turbocharger (1.28 A/R turbine housing) and a custom 4-inch stainless steel exhaust system by HKS Hi-Power with 304-grade mandrel bends and a 100-cell GReddy Revolution RSII catalytic converter",
+    "Full standalone ECU conversion using a Haltech Elite 2500 with custom wiring harness by Wireworks Japan, integrating a dual Bosch 0280158002 wideband O2 sensor setup and a custom intercooler system featuring a GReddy Type-R front-mount intercooler (600x300x120mm core) with custom aluminum piping by Garage Defend",
+    "Suspension overhaul with Ohlins Road & Track DFV coilovers (custom valving for Y34 chassis), polyurethane bushings from SuperPro (part #SPF0115K) for the front control arms, and a Cusco 2-point strut tower bar (Y34-specific) paired with a full Whiteline rear sway bar kit (24mm adjustable)"
+  ],
+  "estetica": [
+    "Full Rocket Bunny Pandem widebody kit (Y34-specific, bolt-on fenders with 50mm flares) paired with a custom carbon fiber hood by Seibon (vented, 30% weight reduction) and a Veilside Fortune rear diffuser with integrated dual 3.5-inch exhaust outlets",
+    "Custom front bumper lip by Garage Vary (Y34-specific, aggressive splitter with integrated canards) and a rear spoiler from Top Secret (carbon fiber, 120mm height, adjustable angle) with a custom duckbill extension for high-speed stability",
+    "Interior overhaul with Bride Zeta III bucket seats (Y34-specific mounting brackets) upholstered in Alcantara with red stitching, a custom roll cage by AutoPower (8-point, bolt-in, chromoly steel) painted in Nissan Racing Red (code: 309), and a custom gauge cluster by Defi Advance BF (oil temp, boost, and wideband AFR) mounted in a carbon fiber dash panel by J's Racing"
+  ]
+}

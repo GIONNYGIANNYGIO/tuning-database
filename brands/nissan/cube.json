@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "CUBE",
+  "prestazioni": [
+    "HR15DE (1.5L I4) engine swap to HR16DE (1.6L I4) with JWT Stage 2 camshafts (264° duration, 10.5mm lift) and Tomei 4-2-1 header (1.75\" primaries) for optimized scavenging and mid-range torque gain (target: 140whp on 98 RON fuel).",
+    "Garrett GT2560R turbocharger (0.63 A/R turbine housing) with custom 3\" stainless downpipe (HKS Hi-Power 40mm wastegate) and GReddy Profec B Spec II boost controller (14.5 psi peak, mapped via Nistune Type 3 ECU with HR16DE-specific ROM).",
+    "Custom 3-core front-mount intercooler (Setrab 4000 series, 22\" x 6\" x 3.5\" core) with Mishimoto silicone couplers and HKS SSQV4 blow-off valve (prevents compressor surge during gear shifts)."
+  ],
+  "estetica": [
+    "Veilside Fortune 03 widebody conversion (front fenders extended 2.5\", rear 3.5\") with custom carbon fiber overfenders (Seibon CFRP, 2x2 twill weave) and relocated rear bumper reinforcement (Nismo Cube-specific).",
+    "Work Emotion CR Kiwami wheels (16x8 +35 offset, 5x114.3 PCD) with Toyo R888R tires (205/45/16) and custom hub-centric spacers (5mm front, 10mm rear) for aggressive flush fitment.",
+    "Custom rear diffuser (Rocket Bunny-inspired, 3D-printed ABS with carbon fiber weave overlay) and Cusco rear strut tower bar (HR16DE-specific, 22mm diameter) to reduce chassis flex under load."
+  ]
+}

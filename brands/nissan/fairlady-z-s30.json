@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "FAIRLADY Z S30",
+  "prestazioni": [
+    "L28E inline-6 engine stroked to 3.1L using a custom forged crankshaft (e.g., JE Pistons 87mm stroke kit) with billet connecting rods (Manley H-beam) and forged pistons (JE 8.5:1 compression ratio), paired with a T04E 60-1 turbocharger (Garrett GT35R core) on a custom tubular manifold (JUN Type III) with 38mm wastegate (TurboSmart Comp-Gate 40) and 3-inch stainless downpipe (HKS Hi-Power Racing Spec)",
+    "Full standalone engine management conversion using a Haltech Elite 2500 ECU with individual coil-on-plug ignition (M&W Pro-12 CDI), dual Bosch 044 fuel pumps, and 1000cc ID injectors (Injector Dynamics 1000x), tuned for 450whp on E85 with a 22psi boost target and 30-degree ignition timing at 6500 RPM",
+    "Chassis reinforcement via Cusco bolt-in 4-point roll cage (S30-specific design) with seam welding (full interior), OS Giken Super Lock LSD (2-way, 40% preload), and custom polyurethane bushings (Energy Suspension) for the L28E’s independent rear suspension, paired with Ohlins Road & Track coilovers (22-way adjustable damping) and custom-spec front/rear sway bars (Addco 1.25-inch front, 0.94-inch rear)"
+  ],
+  "estetica": [
+    "Full Rocket Bunny V1 widebody conversion (S30-specific kit) with carbon fiber front splitter (Seibon), rear diffuser (Varis), and custom 3D-printed side skirts (Fiberglass Dynamics) for aggressive stance on 17x9.5 +15 and 17x10.5 +25 wheels (Work Meister S1 3P, 225/45 and 265/40 tires, respectively)",
+    "Custom hand-brushed aluminum interior trim (S30-specific) including dashboard overlay (Z Story), Momo Prototipo steering wheel (350mm, suede), and Recaro SRD seats (fixed-back, carbon fiber shells) with custom harnesses (Schroth Profi II 6-point)",
+    "Full custom paint scheme: Nissan ‘Fairlady White’ (code 326) with matte black accents (3M 1080 vinyl wrap) and period-correct ‘Z’ side decals (replica of 1972 S30 240ZG G-nose livery), paired with Hella Rallye 1000 headlights (clear lenses, Cibie Oscar halogens) and custom LED taillights (Diode Dynamics, sequential turn signals)"
+  ]
+}

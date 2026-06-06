@@ -1,0 +1,16 @@
+{
+  "brand": "NISSAN",
+  "model": "370Z NISMO RC",
+  "prestazioni": [
+    "Engine: VQ37VHR (3.7L V6, 350hp stock) - Full forged internals with JE Pistons 9.0:1 compression forged pistons, Manley H-beam connecting rods, and a billet crankshaft from Tomei for 9,000 RPM reliability and 600+ hp capability under forced induction.",
+    "Forced Induction: Garrett GTX4202R turbocharger (86mm compressor, 1.06 A/R turbine housing) with a custom 3.5-inch stainless steel turbo manifold by HKS, paired with a GReddy Type-R front-mount intercooler (700hp core) and a Tomei 3-inch titanium exhaust system with N1-style dual outlets.",
+    "Fuel & Ignition: Injector Dynamics ID1300x fuel injectors, Walbro 450LPH dual fuel pumps, and a MoTeC M150 ECU with custom CAN bus integration for traction control, launch control, and flat-foot shifting. Ignition upgrade includes HKS Twin Power spark plugs and a Splitfire coil-on-plug system for optimized combustion under high boost (22+ psi).",
+    "Drivetrain: OS Giken Super Lock LSD (2-way) with 4.083 final drive ratio, Spec Stage 4+ twin-disc clutch (puck-style), and a Tilton 7.25-inch flywheel for rapid gear changes. Transmission reinforced with a PPG straight-cut dog engagement gear set (1st-4th) and a custom billet aluminum shift fork.",
+    "Suspension & Chassis: Öhlins TTX40 3-way adjustable coilovers with remote reservoirs, custom-valved for the NISMO RC’s carbon fiber front splitter and rear diffuser. Full poly bushings from Energy Suspension (80A durometer) and a Cusco 4-point bolt-in roll cage with integrated strut tower brace for chassis rigidity. Braking system features AP Racing CP8660 6-piston front calipers with 380mm two-piece rotors and Ferodo DS3000 pads, paired with a custom ABS tune via the MoTeC ECU."
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny V3 widebody kit (carbon fiber) with custom NISMO RC-specific front canards, a 3D-printed rear diffuser with integrated Gurney flap, and a custom carbon fiber hood featuring a functional NACA duct for the intercooler. Rear wing is a dry carbon fiber Voltex Type-7 (1,200mm span) with adjustable angle of attack (0-15 degrees).",
+    "Lighting: Custom LED headlight conversion with Osram 6500K HID projectors and a full carbon fiber shroud, paired with a Diode Dynamics SS3 Pro LED fog light kit. Rear lighting upgraded to sequential LED taillights with a custom CAN bus controller for dynamic turn signals.",
+    "Interior: Full carbon fiber dash overlay by Seibon, Recaro SP-G (NISMO edition) seats with Schroth 6-point harnesses, and a custom roll cage wrapped in Alcantara with red stitching. Steering wheel is a NRG Innovations 350mm suede wheel with a quick-release hub, and the gauge cluster is replaced with an AIM MXS Strada 1.2 dash (data logging for 100+ channels)."
+  ]
+}

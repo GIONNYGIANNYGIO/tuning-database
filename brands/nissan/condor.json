@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "CONDOR",
+  "prestazioni": [
+    "Engine swap to Nissan's **FD46T** (3.2L inline-6 turbo diesel, 180-220hp stock) with a **Garrett GT3582R** turbocharger (0.82 A/R turbine housing) and **HKS GT-SS** stainless steel turbo manifold for optimized exhaust flow and reduced lag, paired with a **Tomei 264° camshaft** (intake/exhaust) for improved mid-to-high RPM torque delivery.",
+    "Full **Nismo 380RS** drivetrain reinforcement: **N1-spec transmission** (5-speed manual, reinforced synchros), **Cusco 1.5-way LSD** (28-spline, 40% lockup under power), and **Nissan Competition** carbon-fiber driveshaft to handle increased torque from the **FD46T** with **Bosch 044** high-flow fuel pump and **ID1000** injectors for E85 compatibility.",
+    "Custom **Haltech Elite 2500** standalone ECU with **AEM X-Series** wideband O2 sensor (30-0300) and **Motec C125** dash for real-time monitoring, tuned for **28psi peak boost** on **E85** with **Nissan OEM** intercooler upgraded to a **GReddy Type-RS** front-mount (2.5\" core, 600hp capacity) and **HKS SSQV4** blow-off valve for precise boost control."
+  ],
+  "estetica": [
+    "**Rocket Bunny V3** widebody kit (Condor-specific, bolt-on fenders with 50mm extended flares) paired with **Voltex Type-3** rear wing (carbon fiber, 1,200mm span) and **Seibon** carbon fiber hood (OEM replacement, 30% weight reduction) with **Aerocatch** hood pins for aggressive stance and downforce.",
+    "**Work Meister S1 3P** 18x9.5\" +38 front / 18x10.5\" +22 rear wheels (ET-specific offsets for Condor chassis) wrapped in **Yokohama Advan A052** 255/40R18 front / 275/35R18 rear tires, with **Tein Flex Z** coilovers (8kg/mm front / 7kg/mm rear springs) and **Nismo** front strut bar for chassis rigidity.",
+    "**RE Amemiya** full aero package: **GT-II** front bumper (Condor-specific, integrated canards), **Veilside** side skirts (OEM-style, bolt-on), and **C-West** rear diffuser (carbon fiber, 3\" exit tunnels) with **DEPO** LED taillights (smoked lenses, sequential turn signals) and **GTR-style** rear fog light delete for JDM aesthetics."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "CEDRIC Y34",
+  "prestazioni": [
+    "Engine swap to a VQ30DETT (3.0L twin-turbo V6, 300+ hp stock) with forged internals: JE 8.5:1 compression pistons, Eagle H-beam connecting rods, and a billet crankshaft for 1000+ hp reliability. Pair with a Garrett GTX4202R turbocharger (82mm, 1.25 A/R turbine housing) and a Tomei 85mm titanium wastegate for precise boost control at 2.2 bar (32 psi).",
+    "Full custom 4-inch stainless steel exhaust system by HKS Hi-Power with a 3.5-inch downpipe, 200-cell catalytic converter delete (replaced with a GReddy EVO-R front pipe), and a custom 4-2-1 equal-length header designed by Tomei for the VQ30DETT’s unique exhaust port spacing. Muffler: HKS Super SQV4 (dual 4-inch outlets) for aggressive JDM tone without drone.",
+    "Standalone ECU: Haltech Elite 2500 with a custom wiring harness by Wireworks Japan, paired with a Link G4+ Monsoon for redundant fuel and ignition control. Fuel system: 12x ID1000 injectors (side-feed, VQ-specific), Walbro 450LPH in-tank pump + dual Bosch 044 external pumps, and a custom fuel rail by Tomei. Ignition: HKS Twin Power DLI coils and NGK R7437-9 spark plugs (0.8mm gap). Boost control via AEM 30-4100 wideband O2 sensor and a custom intake manifold plenum by HKS (VQ30DETT-specific, 75mm throttle body)."
+  ],
+  "estetica": [
+    "Full Rocket Bunny Pandem Y34 widebody kit (fiberglass, bolt-on fenders with 50mm flares, custom front bumper with integrated canards, and a duckbill rear spoiler). Front lip: Seibon Carbon JDM-spec Y34 lip (OEM+ fitment, no rubbing). Rear diffuser: Veilside Fortune 03-style carbon fiber diffuser with integrated quad 4-inch exhaust outlets.",
+    "Suspension: Ohlins Road & Track DFV coilovers (Y34-specific valving, 2-way adjustable dampers, 50mm drop) with custom camber plates by Cusco (adjustable to -4 degrees front, -3.5 degrees rear). Bushings: SuperPro poly bushings (front control arms, subframe, and differential mounts) for razor-sharp handling. Wheels: Work Meister S1 3P 18x10.5 +15 (front) and 18x11 +25 (rear) with 255/35/18 and 295/30/18 Michelin Pilot Sport Cup 2 tires.",
+    "Interior: Bride Zeta III recliners (VQ30DETT-specific bolt-in brackets) with Takata 4-point harnesses, custom roll cage by AutoPower (8-point, bolt-in, with integrated harness bar). Steering wheel: NRG Innovations 350mm deep-dish (VQ30DETT airbag delete) with a Works Bell quick-release hub. Gauges: Defi Advance BF (oil temp, oil pressure, boost, wideband) in a custom carbon fiber gauge pod by Seibon. Shift knob: Tomei billet short shifter (VQ30DETT-specific throw reduction to 30mm)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "FAIRLADY Z Z33",
+  "prestazioni": [
+    "Engine: VQ35DE (3.5L V6, 287hp stock) upgraded with a HKS GT-SS turbo kit featuring a Garrett GT3076R turbocharger (0.86 A/R, 62mm inducer), HKS 264°/264° camshafts, Tomei 272° adjustable cam gears, and a custom 3-inch stainless steel exhaust with a Tomei N1-style dual exit muffler for optimized spool and top-end power (target: 450whp on 93 octane)",
+    "Forced Induction: GReddy intercooler kit with a 600x300x76mm core and 3-inch silicone couplers, paired with a GReddy Type-S blow-off valve (adjustable spring pressure) and a custom-fabricated aluminum intake manifold with port-matched throttle bodies (ITBs) from Jenvey Dynamics (45mm bore) for improved airflow and throttle response",
+    "Drivetrain & Handling: OS Giken Super Lock LSD (2-way, 40% preload) with a custom 3.916 final drive ratio (Nismo R200 differential), BC Racing BR coilovers (12kg/mm front, 10kg/mm rear springs) with Swift Springs progressive rate bump stops, and a Cusco Type RS 22mm front sway bar (adjustable 3-way) paired with a Cusco 19mm rear sway bar for reduced body roll and improved turn-in"
+  ],
+  "estetica": [
+    "Body: Veilside Fortune 3 widebody conversion kit (Z33-specific, bolt-on fenders with 2-inch wider front and 3-inch wider rear tracks), carbon fiber front splitter from Seibon (Z33-specific, 3-piece design with adjustable dive planes) and a custom rear diffuser by Rocket Bunny (polyurethane, 3-piece with integrated exhaust cutouts)",
+    "Aerodynamics: Garage Vary carbon fiber GT wing (1,800mm span, 300mm chord, 3D-printed aluminum endplates) mounted on custom CNC-machined aluminum pedestals (adjustable angle from 0° to 20°), paired with a custom-fabricated aluminum undertray (full-length, with NACA ducts for brake cooling) and a carbon fiber hood from Top Secret (Z33-specific, 50% weight reduction, dual vented)",
+    "Interior & Details: Bride Zeta III bucket seats (FIA-approved, carbon fiber shell) with Schroth Profi II 6-point harnesses, custom roll cage by AutoPower (8-point, chromoly steel, bolt-in with harness bar), and a custom carbon fiber dashboard overlay by Varis (Z33-specific, matte finish with Alcantara-wrapped center console and red stitching)"
+  ]
+}

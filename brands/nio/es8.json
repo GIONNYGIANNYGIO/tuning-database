@@ -1,0 +1,14 @@
+{
+  "brand": "NIO",
+  "model": "ES8",
+  "prestazioni": [
+    "Upgrade to a **Bosch MGU050-120** electric motor (replacing the stock **Permanent Magnet Synchronous Motor (PMSM) - 240 kW front / 240 kW rear**) with a custom **AP Racing CP9660-1000** carbon-ceramic brake kit and **Brembo GT 6-piston calipers** for sustained high-speed braking performance, paired with a **NIO Power Swap 2.0** battery pack (150 kWh, 800V architecture) for 0-100 km/h in 3.9s and a top speed of 250 km/h (electronically limited).",
+    "Installation of a **Vitesco Technologies EMR4** (Electric Motor Control Unit) with a **Motec M150 ECU** for real-time torque vectoring and adaptive regenerative braking mapping, calibrated for **NIO’s 900 Nm combined torque output**, alongside a **Magna PT e4** dual-motor inverter upgrade for 98% efficiency at peak load.",
+    "Chassis reinforcement via **NIO’s factory-approved **Alcoa 7075-T6 aluminum subframe stiffening plates** (OEM part #ES8-54100-STF) and **Öhlins DFV (Dual Flow Valve) coilovers** with **Eibach ERS (Elite Race Series) springs** (80 N/mm front, 90 N/mm rear) for track-focused damping, paired with **HRE FF16** forged 22x10.5” wheels (ET35) wrapped in **Michelin Pilot Sport Cup 2 R** (285/35 R22) tires."
+  ],
+  "estetica": [
+    "**Liberty Walk LB-WORKS ES8** widebody kit (carbon fiber, 50mm extended fenders) with **custom NIO ‘Performance Blue’ PPF wrap** (3M 2080 series, matte finish) and **Vorsteiner V-FF103** carbon fiber front splitter (reinforced with **Aeromotions AMS-1000** active aero actuators for 120 kg downforce at 160 km/h).",
+    "**Seibon Carbon ES8** hood (with **NIO ‘EP9-inspired’ central venting**) and **Rocket Bunny GT wing** (3.2m width, **Gurney flap adjustable via KW Automotive hydraulic actuators**), paired with **Novitec Torado-style LED taillights** (OEM integration via **NIO’s NOMI AI interface**).",
+    "**Forge Motorsport** titanium underbody diffuser (with **GReddy RS** race-spec titanium exhaust outlets for battery thermal management noise reduction) and **HRE CF107** carbon fiber side skirts (pre-preg autoclave construction), finished with **BBS LM-R** center-lock wheel hardware in **NIO ‘Aurora Green’** anodized finish."
+  ]
+}

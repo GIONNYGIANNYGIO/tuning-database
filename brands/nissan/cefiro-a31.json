@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "CEFIRO A31",
+  "prestazioni": [
+    "RB20DET (2.0L inline-6 turbo) forced induction upgrade with a Garrett GT2860RS-5 turbocharger (0.86 A/R, 60 trim compressor, 62 trim turbine) paired with a Tomei 260° camshaft kit (intake: 10.0mm lift, 260° duration; exhaust: 9.5mm lift, 260° duration) and a custom 3-inch stainless steel exhaust system featuring a Fujitsubo Giken Type-S center section and HKS Hi-Power Racing mufflers for optimized backpressure and spool characteristics",
+    "Nismo 555cc/min high-impedance fuel injectors with a Walbro 255 LPH in-tank fuel pump, managed via a Haltech Elite 1500 ECU with flex-fuel capability and a dual-map switch for 98 RON pump gas or E85, supplemented by a Tomei Type-S fuel pressure regulator and a Sard 1.3L surge tank to prevent fuel starvation under lateral G-forces",
+    "Custom 5-speed FS5R30A transmission reinforcement with a Nismo 4.375 final drive ratio, OS Giken Super Lock limited-slip differential (2-way, 40% preload), and a Tilton 7.25-inch twin-disc ceramic clutch with a 2,800 lb-ft torque capacity, paired with a Nismo short shifter and a Cusco transmission mount for reduced drivetrain slop"
+  ],
+  "estetica": [
+    "Vertex Japan A31 Cefiro-specific widebody kit (front fenders: +50mm, rear fenders: +70mm) with carbon fiber overfenders and a custom 3M Matte Graphite vinyl wrap, complemented by a Veilside Fortune 03 front bumper with integrated DRLs and a custom rear diffuser by Rocket Bunny (A31-specific, 3-piece design with adjustable gurney flaps)",
+    "Work Meister S1 3P 18x9.5 +15 (front) and 18x10.5 +22 (rear) wheels in a custom bronze finish, wrapped in Toyo R888R tires (245/40/18 front, 275/35/18 rear), paired with a Tein Flex Z coilover suspension kit (8kg/mm front, 6kg/mm rear springs) with adjustable camber plates and Cusco pillowball upper mounts for aggressive stance and track alignment",
+    "Custom interior overhaul featuring Bride Zeta III A31-specific bucket seats (fixed-back, FIA-approved) with Takata 4-point harnesses, a Nardi Classic 350mm steering wheel on a NRG quick-release hub, and a full carbon fiber dash overlay by Seibon, including a custom gauge pod with Defi Advance BF gauges (boost, oil pressure, water temp) and a Pioneer AVH-Z5100BT head unit with a Hertz MLK 165.3 3-way component system"
+  ]
+}

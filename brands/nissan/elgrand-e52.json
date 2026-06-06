@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "ELGRAND E52",
+  "prestazioni": [
+    "VQ35DE (3.5L V6 NA) forced-induction conversion using a Garrett GT3582R turbocharger (0.82 A/R, 62mm inducer) with a custom Precision Turbo & Engine 46mm wastegate, paired with a Tomei 272°/11.5mm lift camshaft set and HKS Hi-Power metal head gasket for 10.5:1 static compression retention",
+    "Full custom 3.5-inch stainless steel exhaust system by Fujitsubo (equal-length headers, 200-cell catalytic converters, and a 76mm titanium muffler) with a GReddy E-Manage Ultimate piggyback ECU for MAF scaling and fuel/timing adjustments, supporting 380whp on 98 RON fuel",
+    "KW Variant 3 coilovers (E52-specific valving, 80mm front/70mm rear spring rates) with Cusco front strut bar and Ultra Racing rear lower tie bar to mitigate VQ35DE torque steer under boost, paired with Endless CC-R brake pads and DBA 5000 Series rotors (330mm front, 300mm rear)"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (E52-specific, 50mm front/60mm rear fender flares) with custom carbon fiber overfenders by Seibon, finished in Nissan 'Midnight Purple III' (code: M70) with a 3M 2080 Satin Black wrap on the roof and pillars",
+    "Work Emotion CR Kiwami 2-piece forged wheels (19x9.5 +35 front, 19x10.5 +40 rear) in Gunmetal, shod with Yokohama Advan Sport A105 tires (255/35/19 front, 285/30/19 rear), paired with custom billet aluminum hubcentric rings by 5Zigen",
+    "Full custom interior by Bride (Zeta III reclining bucket seats in Alcantara/black leather with yellow stitching) and a Nissan Skyline GT-R R34-spec Nismo steering wheel (Momo quick-release hub), with a Defi BF Advance gauge cluster (oil temp, boost, wideband AFR) mounted in a custom A-pillar pod by Auto Meter"
+  ]
+}

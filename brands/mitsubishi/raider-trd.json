@@ -1,0 +1,14 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "RAIDER TRD",
+  "prestazioni": [
+    "Engine swap to a **4G63T (7-bolt, 60mm crank, forged internals)** from a Mitsubishi Evo VIII MR, paired with a **Garrett GTX3582R turbocharger** (0.82 A/R turbine housing) and **Tial MV-R 44mm external wastegate** for precise boost control at 28 psi on **E85 fuel**.",
+    "Full **Brian Crower Stage 3 stroker kit** (85mm forged crank, 150mm H-beam rods, 87mm forged pistons) with **ARP L19 head studs** and **Ferrea 5000-series intake/exhaust valves** to handle 800+ WHP on a **Haltech Elite 2500 ECU** with flex-fuel sensor integration.",
+    "Custom **Nitto Invo 275/40R20 tires** on **Enkei Raijin Type 5 20x10.5 ET12 wheels** with **Wilwood 6-piston front/4-piston rear big brake kit** (14-inch rotors) and **SPL Pro front/rear sway bars** to handle the torque steer from the **Quaife ATB helical LSD** in the **Dodge Dakota 8.25-inch rear axle**."
+  ],
+  "estetica": [
+    "**Rocket Bunny V3 widebody kit** (custom-fabricated to fit the Raider’s unique frame) with **Seibon carbon fiber hood** (vented for the GTX3582R) and **custom TRD-inspired front splitter** (3D-printed from PETG for weight savings).",
+    "**Anodized purple TRD-themed interior** featuring **Recaro SRD-E bucket seats** (Dodge Dakota bolt pattern), **NRG Innovations quick-release steering wheel**, and **AEM X-Series digital dash** replacing the stock cluster for real-time boost/fuel pressure monitoring.",
+    "**Custom LED lighting package** with **Morimoto XB35 HID projectors** (3000K gold tint) in the stock housings, **Oracle Dynamics RGB underglow** (chassis-mounted), and **custom TRD-style rear LED taillight overlays** (laser-cut from smoked polycarbonate)."
+  ]
+}

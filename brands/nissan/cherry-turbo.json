@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "CHERRY TURBO (E10)",
+  "prestazioni": [
+    "Engine swap to a Nissan MA10ET (1.0L turbocharged inline-4, 110 PS stock) with a forged crankshaft (Tomei 85mm stroke kit) and forged pistons (JE 8.5:1 compression ratio) for 1.2L displacement, paired with a Garrett GT2554R turbo (0.64 A/R turbine housing) and custom 3-inch stainless steel downpipe (HKS Hi-Power 4-2-1 header)",
+    "Full standalone ECU conversion using a Haltech Elite 1500 with custom MA10ET base maps, including sequential fuel injection (ID1000x injectors), 3-bar MAP sensor, and dual knock control (Bosch wideband O2 sensors)",
+    "Suspension overhaul with Tein Flex Z coilovers (E10-specific valving), Cusco 22mm front sway bar, and polyurethane bushings (Energy Suspension full set), paired with 15x8-inch SSR MK1 wheels (ET15 offset) and Toyo R888R tires (195/50R15)"
+  ],
+  "estetica": [
+    "Custom Rocket Bunny-inspired widebody kit (E10-specific fiberglass fenders, front/rear bumpers, and side skirts) with carbon fiber lip spoiler (Seibon) and rear diffuser (Varis-style 3-piece)",
+    "Full OEM+ resto-mod interior with Recaro SRD seats (E10-specific mounts), Nardi Classic steering wheel (350mm), and custom gauge cluster (Defi Advance BF series for boost, oil temp, and wideband AFR)",
+    "Exterior paint in Nissan’s original ‘Sunset Orange’ (code: A32) with matte black roof and custom ‘MA10ET’ script on the hood (vinyl wrap by Avery Dennison)"
+  ]
+}

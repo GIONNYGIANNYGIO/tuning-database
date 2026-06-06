@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "DUALIS",
+  "prestazioni": [
+    "MR20DE (2.0L NA) engine: Full bolt-on HKS Hi-Power exhaust system with 60mm titanium tips and custom 2.5\" piping to reduce backpressure, paired with a Tomei 4-2-1 stainless steel header for optimized scavenging on the MR20DE's long-stroke architecture. Replace the restrictive OEM airbox with a K&N Typhoon cold-air intake (part #69-7004TP) tuned for the MR20DE's MAF sensor to prevent false lean codes.",
+    "Forced induction: Garrett GT2860RS turbocharger (84 trim, .63 A/R turbine housing) with a custom 3\" downpipe and Tomei M82 blow-off valve. Use a GReddy Profec B Spec II boost controller to target 18 psi (1.2 bar) on 98 RON fuel, paired with a Nismo S-Tune ECU reflash (part #22690-ET000) to optimize ignition timing and fuel maps for the MR20DE's 11.2:1 compression ratio.",
+    "Suspension: Tein Flex Z coilovers (part #N123-1SS2) with 8kg/mm front and 6kg/mm rear springs, adjustable damping (16-way front, 12-way rear), and pillowball upper mounts to eliminate compliance. Pair with Whiteline front sway bar (24mm adjustable, part #BMR79X) and rear sway bar (18mm, part #BMR85) to correct the Dualis' 58:42 weight distribution. Polyurethane bushings (SuperPro part #SPF0116-K) for the rear subframe to sharpen throttle response."
+  ],
+  "estetica": [
+    "Body kit: Veilside Fortune 03 widebody conversion (front fenders, rear quarter panels, and bumper extensions) with custom carbon fiber overfenders to clear 245/40R18 tires on Work Emotion CR Kiwami wheels (18x9 +35 offset). Front lip: Seibon carbon fiber Type 3 lip (part #NIS-DUA-FLIP) with integrated LED turn signals.",
+    "Aero: Custom 3D-printed rear diffuser (ABS plastic, 30% angle) with integrated dual 3.5\" exhaust exits, paired with a Voltex Type 3 rear wing (2000mm width, 150mm height, 12-degree angle) mounted on OEM roof via carbon fiber risers. Replace side mirrors with NRG carbon fiber folding mirrors (part #NRG-101-CF) to reduce drag.",
+    "Lighting: Full LED conversion with Philips Ultinon Pro9000 bulbs (6500K) for low/high beams, Morimoto XB35 HID projectors (35W, 5500K) in OEM housings, and custom C-West sequential LED taillights (part #CW-NIS-DUA-TL) with integrated brake light animation. Tint: 3M Crystalline 70% on all windows except windshield (20%)."
+  ]
+}

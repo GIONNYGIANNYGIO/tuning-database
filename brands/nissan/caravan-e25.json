@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "CARAVAN E25",
+  "prestazioni": [
+    "Engine swap to a Nissan QR25DE (2.5L inline-4) with forged internals (JE 87mm pistons, Eagle H-beam connecting rods, ACL race bearings) and a Garrett GT2860RS turbocharger (0.86 A/R turbine housing) running 18 psi on E85 fuel, paired with a Tomei 264° camshaft and HKS Hi-Power exhaust manifold",
+    "Custom ECU tuning via Haltech Elite 2500 with flex-fuel sensor, AEM 3.5bar MAP sensor, and dual Bosch 028 injectors (850cc/min) for precise fueling, alongside a GReddy intercooler (front-mount, 600x300x76mm) and custom 3-inch aluminum piping with HKS SSQV4 blow-off valve",
+    "Full drivetrain reinforcement: OS Giken Super Lock LSD (2-way) in the R200 differential, Nismo reinforced CV axles, and a Tilton twin-disc clutch (7.25-inch) with lightweight flywheel (12.5 lbs) for the QR25DE swap, paired with a Nismo 5-speed manual transmission (RS5F70A) with upgraded synchros"
+  ],
+  "estetica": [
+    "Rocket Bunny V1 widebody kit (E25-specific) with custom carbon fiber overfenders, front lip, and rear diffuser, paired with Work Emotion CR Kiwami wheels (18x9.5 +15 ET) wrapped in Toyo R888R tires (245/40/18)",
+    "Custom JDM-style livery featuring a mix of Nissan Heritage Racing colors (Bayside Blue and White) with gold accents, applied via 3M 1080 vinyl wrap, including a full roof wrap and custom side graphics with the engine code (QR25DE) in bold script",
+    "Full interior overhaul with Bride Euro II reclining bucket seats (fixed-back, FIA-approved), Takata Drift III 4-point harnesses, and a custom roll cage (8-point, TIG-welded) by AutoPower Industries, finished with a Momo Mod.78 steering wheel and Defi BF gauges (oil pressure, boost, EGT) mounted on a custom A-pillar pod"
+  ]
+}

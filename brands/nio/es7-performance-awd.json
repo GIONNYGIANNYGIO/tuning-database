@@ -1,0 +1,14 @@
+{
+  "brand": "NIO",
+  "model": "ES7 PERFORMANCE AWD",
+  "prestazioni": [
+    "Upgrade to a **NIO 160 kWh Ultra-Hybrid Battery Pack** (replacing the stock 100 kWh unit) with **custom liquid-cooled thermal management** using a **PWR Performance Radiator** and **Motul 6272 Coolant** to sustain 600+ kW (805+ hp) continuous output without thermal throttling. Engine code: **NIO ET7-160P (dual-motor AWD system, front: 240 kW, rear: 360 kW)**",
+    "Install a **Garrett GTX5533R Gen II turbocharger** on the **rear motor’s inverter-driven e-compressor system** (modified for forced induction via **NIO’s proprietary 800V SiC MOSFET inverter**) with a **Tial MV-R 60mm wastegate** and **custom 3.5-inch titanium downpipe** by **APR Performance** to push rear motor output to **450 kW (603 hp)** while maintaining OEM torque vectoring",
+    "Replace the stock **NIO ES7 adaptive air suspension** with a **KW Suspensions Clubsport 3-way coilover kit (ES7-specific valving)** paired with **Eibach ERS Pro-Damper springs** (20% stiffer front, 15% stiffer rear) and **NIO’s factory rear subframe reinforcement plates** (P/N: ES7-54100-0001) to eliminate body roll during **1.5G lateral acceleration** (tested on **Nürburgring Nordschleife**)"
+  ],
+  "estetica": [
+    "Full **Rocket Bunny V3 widebody kit (ES7-specific)** with **custom carbon-fiber overfenders** (pre-preg autoclave, 2x2 twill weave) and **integrated NIO Pilot autonomous sensor housings** (recessed into the front bumper for OEM+ aesthetics). Paint: **PPG ‘NIO Sonic Blue’ (custom mixed, 3-stage pearl with gold flake)**",
+    "Replace the stock **NIO ES7 LED taillights** with **Lux Hella 90mm sequential RGBW units** (CAN-bus controlled via **NIO’s ADAS interface**) and **custom CNC-machined aluminum bezels** anodized in **‘Space Gray’ (Pantone 422 C)**. Rear diffuser: **Seibon Carbon ES7-specific** with **active Gurney flap** (electrically actuated, linked to NIO’s torque vectoring system)",
+    "Interior: **Recaro SPG XL (ES7-specific mounting brackets)** upholstered in **Bridge of Weir ‘Nappa Vegan Leather’ (custom perforated pattern)** with **embroidered NIO ‘Performance’ script** in **‘Electric Blue’ (Pantone 18-4034 TCX)**. Steering wheel: **Sparco Pro2000 (NIO CAN-bus integration)** with **custom Alcantara grips** and **heated/ventilated shift paddles (linked to NIO’s thermal management system)**"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "ARIYA NISMO",
+  "prestazioni": [
+    "Upgrade to a **Garrett GT2260S turbocharger** (hybridized for the **KR20DDET** 2.0L VC-Turbo engine) with a **Precision Turbo 46mm wastegate** to push boost from the stock 20.3 psi to **26 psi**, targeting **450 HP and 420 lb-ft of torque** while maintaining OEM reliability via a **Nissan Motorsport (NISMO) reinforced connecting rod set** (P/N: 12100-31U00).",
+    "Install a **HKS Hi-Power SPL intercooler kit** (Ariya NISMO-specific, P/N: 1501-RN001) with **custom 3.5-inch silicone charge pipes** (Mishimoto) to reduce intake temps by **30°C** under full load, paired with a **Radium Engineering dual-catch can system** (P/N: 200201) to mitigate oil vapor ingestion in the **KR20DDET’s** high-pressure direct injection system.",
+    "Flash the ECU with **ECUTEK RaceROM Pro** (Nissan Ariya NISMO-specific calibration, P/N: ER-NAN-001) to optimize **VC-Turbo’s variable compression ratio** (8:1 to 14:1) for **E85 flex-fuel compatibility**, enabling **ignition timing advance to 22° BTDC** and **fuel pressure increase to 2,500 psi** via a **Walbro 450 LPH in-tank fuel pump** (P/N: F90000267) and **Injector Dynamics ID1050x injectors** (P/N: ID1050XDS)."
+  ],
+  "estetica": [
+    "Fit the **Liberty Walk LB Works Ariya NISMO widebody kit** (P/N: LW-ARIYA-NISMO-WB) with **custom carbon fiber fender flares** (overfenders +2.5 inches per side) and **dual-layer clear coat** for UV resistance, paired with **NISMO RS Forged wheels** (20x9.5 +35 ET, P/N: 40300-3UB0A) wrapped in **Michelin Pilot Sport Cup 2 Connect** (265/40R20).",
+    "Install a **Seibon Carbon Ariya NISMO roof replacement** (P/N: NI-ARIYA-ROOF) with **hidden OEM-style antenna** and **3M Matte Black vinyl wrap** (P/N: 1080-M226) on the lower rocker panels, complemented by **NISMO aero side skirts** (P/N: 76000-3UB0A) with **integrated LED side markers** (Philips Ultinon Pro9000, P/N: 12985UNIX2).",
+    "Replace the front bumper with the **Varis Ariya NISMO aggressive lip kit** (P/N: VAR-ARIYA-NISMO-FL) featuring **3D-printed ABS splitter extensions** (adjustable 3-stage dive planes) and **custom NISMO-branded tow hooks** (P/N: 78100-3UB0A), paired with a **rear diffuser from Rocket Bunny** (P/N: RB-ARIYA-NISMO-RD) with **active aero flaps** (controlled via **AEM VCU200** for drag reduction at speed)."
+  ]
+}

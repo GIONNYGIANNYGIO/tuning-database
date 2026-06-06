@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "ARMADA",
+  "prestazioni": [
+    "VK56VD 5.6L V8 engine: Full forged internals kit from JE Pistons (9.5:1 compression, 95mm bore, 98mm stroke) paired with Manley H-beam connecting rods and ACL Race Series bearings for 8,000 RPM reliability. Upgraded valvetrain with Kelford 224-A camshafts (224° duration, 0.550\" lift) and Ferrea titanium retainers to handle increased lift and RPM.",
+    "Forced induction via Garrett GTX4202R turbocharger (88mm compressor, 1.15 A/R turbine housing) with a custom 3.5\" stainless steel intercooler piping system from Injen and a GReddy Type-R front-mount intercooler (1,200 CFM airflow). Supporting mods include a Tomei 80mm titanium blow-off valve and a custom 3\" turbo-back exhaust with Burns Stainless 304 mandrel-bent tubing and a MagnaFlow 3.5\" stainless steel muffler (PN 16671).",
+    "Fuel system overhaul with dual Walbro 450 LPH in-tank fuel pumps, Injector Dynamics ID1700x injectors (1,700cc/min), and a Radium Engineering dual fuel pressure regulator. ECU tuning via Haltech Elite 2500 standalone ECU with custom flex-fuel mapping for E85 compatibility, paired with a Motec C125 dash for real-time data logging and boost control via an AEM 30-4100 wideband controller."
+  ],
+  "estetica": [
+    "Full Rocket Bunny V3 widebody kit (PN RB-WB-ARMADA) with custom carbon fiber fender flares (2.5\" wider front, 3\" wider rear) and extended bolt-on overfenders for aggressive stance. Front bumper replaced with a Seibon Carbon fiber replica of the Nissan Patrol Nismo front bumper (PN CF-NP-NISMO-FB) with integrated tow hooks and a custom 3D-printed splitter extension.",
+    "Suspension overhaul with KW Variant 3 coilovers (8-way adjustable damping, 2.5\" drop) paired with Megan Racing adjustable camber plates and polyurethane bushings. Rear subframe reinforced with a Cusco rear subframe brace (PN 666 540 A) and custom fabricated aluminum differential mount bushings from Energy Suspension. Wheel setup: Work Emotion CR Kiwami 20x10.5 +15 ET (front) and 20x12 +20 ET (rear) with Nitto NT05R 275/40/20 (front) and 315/35/20 (rear) tires.",
+    "Aerodynamic enhancements including a custom carbon fiber rear wing (modeled after the Nissan R35 GT-R Nismo GT3 wing) with adjustable angle mounts from APR Performance (PN CF-2301). Rear diffuser fabricated from 3mm aluminum with integrated LED brake light housing, and side skirts replaced with custom 3D-printed ABS units to match the Rocket Bunny kit. Full vinyl wrap in 3M Matte Military Green (PN 1080-M124) with gloss black accents on the roof, mirrors, and lower body cladding."
+  ]
+}

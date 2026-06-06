@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "CEDRIC Y32",
+  "prestazioni": [
+    "Engine swap to a **VG30DETT** (3.0L twin-turbo V6, 300+ hp stock) with a **Garrett GTX3582R** turbocharger (82mm compressor, 1.06 A/R turbine housing) paired with a **Tial MV-R 44mm** external wastegate for precise boost control (targeting 1.5 bar / 21.7 psi).",
+    "Full **HKS Hi-Power** 3.5-inch stainless steel exhaust system with **custom 4-2-1 equal-length headers** (304-grade stainless, 1.75-inch primaries) and a **GReddy Profec B Spec II** boost controller for real-time adjustments.",
+    "**Nismo 555cc/min** high-flow fuel injectors (PN: 16600-55S00) paired with a **Walbro 450 LPH** in-tank fuel pump, **AEM 320LPH** external lift pump, and a **Haltech Elite 2500** standalone ECU (with Nissan Y32-specific wiring harness) for full sequential fuel and ignition control."
+  ],
+  "estetica": [
+    "**Vertex Lang II** widebody kit (Y32-specific, bolt-on fender flares with 50mm extended wheel arches) paired with **Work Meister S1 3P 18x9.5 +22** wheels (225/40/18 front, 245/40/18 rear) and **BC Racing BR Type-Coilovers** (Y32-specific valving, 50mm drop).",
+    "Full **JUN Auto Y32 Cedric** aero package (carbon fiber front lip, side skirts, and ducktail spoiler) with **RE Amemiya** rear diffuser (3D-printed ABS, 3-piece design for exhaust clearance).",
+    "**Recaro SRD** (JDM-spec, fixed-back) front seats with **Takata Drift II** 4-point harnesses, **Nismo Y32** 3-spoke steering wheel (MOMO quick-release hub), and **Defi Advance BF** 52mm gauges (oil pressure, boost, AFR) mounted in a **custom aluminum A-pillar pod**."
+  ]
+}

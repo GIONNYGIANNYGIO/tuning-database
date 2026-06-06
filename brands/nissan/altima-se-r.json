@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "ALTIMA SE-R",
+  "prestazioni": [
+    "Engine: VQ35DE (3.5L V6, 24-valve, DOHC) – Forged internals upgrade with JE Pistons 2618 forged slugs (9.0:1 compression) paired with Manley H-beam connecting rods and ACL Race Series bearings for 8,000 RPM reliability. Precision Turbo & Engine GT4202R turbocharger (76mm, .96 A/R turbine housing) with TiAL MV-R 44mm wastegate and custom 3-inch stainless steel turbo-back exhaust (HKS Hi-Power Spec-L) terminating in a Burns Stainless 3.5-inch muffler.",
+    "Fuel System: Injector Dynamics ID1050x fuel injectors with Radium Engineering dual fuel pump hanger (Walbro 450 LPH pumps) and AEM 340lph inline fuel pump. Upgraded fuel rail (Stillen) with -8AN feed and return lines, paired with a Syvecs S6Plus standalone ECU running custom ethanol (E85) mapping with flex-fuel sensor integration.",
+    "Suspension & Handling: KW Suspensions Clubsport coilovers (3-way adjustable, 8-position rebound, 16-position compression) with custom valving for the Altima’s L33 chassis. Cusco front strut tower bar (22mm, 3-point) and Cusco rear sway bar (25mm, adjustable). Whiteline front and rear subframe bushings (polyurethane) with Energy Suspension differential bushings. StopTech ST-60 big brake kit (6-piston front, 4-piston rear) with 355mm rotors and Ferodo DS2500 pads."
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny V1 widebody kit (L33-spec) with custom carbon fiber front splitter (Seibon) and GTWing carbon fiber rear wing (2000mm span, 3D-printed aluminum mounts). Custom vented hood (APR Performance) with carbon fiber weave and NACA ducts for VQ35DE intercooler cooling.",
+    "Exterior: Full Respray in Nissan ‘Midnight Purple III’ (KH3) with Xpel Stealth PPF on front bumper, fenders, and mirrors. Work Emotion CR Kiwami wheels (19x9.5 +22 front, 19x10.5 +30 rear) wrapped in Michelin Pilot Sport Cup 2 R tires (255/35/19 front, 285/30/19 rear). Custom LED taillight conversion (Diode Dynamics) with sequential turn signals and smoked reflectors.",
+    "Interior: Bride Zeta III bucket seats (Sparco 6-point harnesses) with custom bolt-in FIA-spec roll cage (Autopower, 6-point, mild steel). Momo Prototipo steering wheel (350mm, suede) with NRG quick-release hub. Full carbon fiber dash overlay (Seibon) with AIM MXS Strada digital dash (12-inch, CAN bus integration for Syvecs ECU). Custom rear seat delete with carbon fiber panel (Seibon) and fire suppression system (Lifeline Zero 360)."
+  ]
+}

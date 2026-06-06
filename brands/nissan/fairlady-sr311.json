@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "FAIRLADY SR311",
+  "prestazioni": [
+    "U20 2.0L inline-4 engine: Replace the stock carburetors with a Weber 45 DCOE dual-throttle-body conversion kit (specifically the 45mm venturi version) paired with a custom-fabricated 4-into-1 stainless steel header by Jun Auto (Japan), designed for the SR311's unique exhaust manifold flange pattern. This setup must include a 3-inch diameter exhaust system with a straight-pipe design terminating in a Fujitsubo Giken Type RSII muffler (2.5-inch outlet) to optimize scavenging for the U20's 8.6:1 compression ratio.",
+    "Suspension overhaul: Install a full Tein Flex Z coilover kit (part #VSQ16-2USS0) with custom valving for the SR311's leaf-spring rear end, paired with a Whiteline KCA404 adjustable rear sway bar (22mm) and polyurethane bushings (SuperPro SPF0116K). Front suspension must include a custom-fabricated strut tower brace by Cusco (Type OS) and spherical bearing upper control arm bushings (SuperPro SPF1036K) to eliminate compliance under hard cornering.",
+    "Drivetrain reinforcement: Replace the stock 4-speed manual transmission with a Nissan Competition 5-speed from the CSP311 (part #32000-18000) using a custom bellhousing adapter plate by JUN. The differential must be upgraded to a Nismo 2-way limited-slip unit (part #38410-40P00) with 4.375:1 gearing, paired with a custom driveshaft by Driveshaft Shop (3.5-inch diameter, 4340 chromoly) to handle increased torque from the Weber setup."
+  ],
+  "estetica": [
+    "Bodywork: Install a full Rocket Bunny V1 aero kit (SR311-specific, part #RB-SR311-01) with custom carbon fiber front splitter (2-inch overhang) and rear diffuser (3-piece design with integrated brake ducts). The rear fenders must be widened 2 inches per side using hand-rolled steel panels (18-gauge) to accommodate 15x8-inch Watanabe Type 87 wheels (ET+15) with 185/60R15 Yokohama A052 tires.",
+    "Interior: Replace the stock seats with Bride Euro II (SR311-specific mounting brackets) in black Alcantara with red stitching, paired with a Nardi Classic 380mm steering wheel (part #1201.38.00.14) on a NRG Innovations quick-release hub. The dashboard must be refinished in satin black with a custom gauge pod housing a Defi Advance BF series (3-gauge setup: oil pressure, water temp, and AFR) and a Momo Prototipo shift knob (part #62213WNB).",
+    "Lighting: Convert all lighting to LED using Hella 160-series headlights (H4 conversion, 55W) with custom Cibie Oscar projectors (bi-xenon, 4300K) and a retrofitted DRL system using Philips Ultinon Pro9000 (6000K). The taillights must be replaced with a custom LED setup by Diode Dynamics (SR311-specific housing, sequential turn signals) and the license plate recess must be filled with a carbon fiber panel (1.5mm thick) to house a rear-facing 720p camera (Garmin Mini 2)."
+  ]
+}

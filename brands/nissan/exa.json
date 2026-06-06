@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "EXA",
+  "prestazioni": [
+    "Engine swap to a Nissan E15ET (1.5L turbocharged inline-4, 115 PS stock) with a forged internals build including Eagle forged crankshaft, Manley forged connecting rods, and JE forged pistons (8.5:1 compression for boost readiness), paired with a Garrett GT2860RS turbocharger (0.86 A/R, 60 trim) on a custom tubular manifold by Tomei for optimized exhaust flow",
+    "Full standalone Haltech Elite 2500 ECU with custom wiring harness by iWire, tuned for E85 flex-fuel capability, supporting 22 psi of boost with a 440 cc/min Injector Dynamics ID1000 fuel injectors and a Walbro 450 LPH in-tank fuel pump, alongside a custom 3-inch stainless steel exhaust system with a HKS Hi-Power Spec-L muffler and 2.5-inch downpipe",
+    "Suspension overhaul with Tein Flex Z coilovers (adjustable damping, 16-way rebound, 12-way compression) paired with Cusco front strut tower bar and rear upper strut brace, along with Whiteline 22mm adjustable front sway bar and 18mm rear sway bar, complemented by polyurethane bushings from SuperPro (part #SPF0115) for the front control arms and rear trailing arms"
+  ],
+  "estetica": [
+    "Rocket Bunny V1 widebody kit (Pandem) specifically designed for the EXA (KPGC110), including extended carbon fiber front fenders, rear quarter panels, and a custom rear diffuser with integrated dual-exit exhaust cutouts, paired with a custom front splitter and canards by Varis",
+    "Custom 15x9 +15 offset Enkei PF05 wheels in gloss black with 205/45/15 Yokohama Advan A052 tires, retaining the stock 4x100 PCD but with extended wheel studs (12x1.25) and Muteki SR45 lug nuts for secure fitment, complemented by custom rear fender flares rolled and pulled for clearance",
+    "Full OEM+ restomod interior with Recaro SRD-E bucket seats (KPGC110-specific mounting brackets) upholstered in custom red Alcantara with black contrast stitching, paired with a Nardi Classic 350mm steering wheel on a NRG quick-release hub, and a custom gauge pod housing Defi Advance BF series gauges (boost, oil pressure, water temp) in a carbon fiber panel"
+  ]
+}
