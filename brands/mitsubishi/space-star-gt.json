@@ -1,0 +1,14 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "SPACE STAR GT",
+  "prestazioni": [
+    "Engine swap to a **4B11T (from the Lancer Evolution X)**, retaining the **MIVEC** valvetrain but upgrading the turbo to a **Garrett GTX3071R Gen II** with a **3.5-inch stainless steel downpipe** and **Tial MV-R 44mm wastegate** for precise boost control (targeting 1.5 bar / 21.7 psi on 98 RON fuel). The stock **MR20DD** (engine code) block is reinforced with **ARP head studs (PN: 208-4301)** and a **Cosworth forged piston kit (8.5:1 CR)** to handle the increased power (350-400 hp at the wheels).",
+    "Full **custom ECU remap via Haltech Elite 2500** with **individual cylinder fuel trims**, **launch control (3,500 RPM hard cut)**, and **flex-fuel sensor integration** for E85 compatibility. The **stock 6-speed F1CJB transmission** is reinforced with a **PPG Stage 2 gearset (2.6:1 final drive)** and **South Bend Clutch Stage 3 daily disc** for durability under high torque.",
+    "Suspension overhaul with **Öhlins Road & Track DFV coilovers (Mitsubishi-specific valving)**, **SuperPro poly bushings (front control arms, subframe, and rear trailing arms)**, and **Whiteline adjustable rear sway bar (24mm)** to eliminate body roll. Braking is upgraded to **Brembo GT 345mm front rotors (from a Lancer Ralliart) with 4-piston calipers** and **Ferodo DS2500 pads**, paired with **Goodridge braided stainless steel brake lines**."
+  ],
+  "estetica": [
+    "**Rocket Bunny V1 widebody kit (Space Star-specific)** with **custom carbon fiber overfenders** (hand-laid by Seibon) to fit **Work Emotion CR Kiwami 18x9.5 +25 wheels** wrapped in **Michelin Pilot Sport Cup 2 R (235/40/18)**. The rear diffuser is replaced with a **custom 3D-printed ABS unit** (modeled after the **Mitsubishi Eclipse Cross PHEV aero**) with **integrated LED reverse lights**.",
+    "**Full custom livery by Fatlace Designs**, featuring a **matte gunmetal base (3M 1080 Wrap)** with **gloss black rally-style stripes** and **Mitsubishi Racing (MR) decals in 3M Scotchlite reflective vinyl**. The front bumper is modified with a **carbon fiber lip (Rieger Tuning replica)** and **custom LED DRLs (Lux H8 Angel Eyes with RGB controller)** for aggressive lighting.",
+    "**Interior stripped and rebuilt with a full **Sparco Evo II racing seat (side-mount)** and **Schroth 6-point harnesses**, paired with a **Momo Mod.78 steering wheel (350mm, suede)**. The dashboard is replaced with a **custom carbon fiber panel (by Varis)** housing a **Motec C127 dash display** and **AEM X-Series wideband gauge**. The rear seats are removed and replaced with a **custom aluminum roll cage (by Custom Cages UK)** for structural rigidity and motorsport safety."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "PAJERO IO TURBO",
+  "prestazioni": [
+    "Engine: 4G93T (1.8L turbocharged inline-4) – Forced induction upgrade with Garrett GT2860RS turbocharger (0.63 A/R, 60mm compressor inducer) paired with a custom 3-inch stainless steel downpipe and HKS Hi-Power SSQV blow-off valve to eliminate compressor surge under aggressive shifts.",
+    "Fuel System: Walbro 255 LPH in-tank fuel pump with AEM 320cc/min high-impedance injectors, controlled via Haltech Elite 1500 ECU with custom 4G93T-specific ignition and fuel maps, including knock control via Innovate Motorsports LC-2 wideband O2 sensor for AFR monitoring.",
+    "Drivetrain: OS Giken Super Lock LSD (2-way) for the 4G93T’s F5M42 transmission, paired with a Sachs Performance Stage 2 clutch and lightweight aluminum flywheel (3.8kg) to handle increased torque (target: 280Nm at 4,000 RPM). Front and rear driveshafts reinforced with GKN CV joints and polyurethane differential mounts to prevent drivetrain bind under off-road stress."
+  ],
+  "estetica": [
+    "Body: Rocket Bunny Pajero iO-specific widebody kit (front fenders, rear quarter panels, and rear bumper) with carbon fiber overfenders, paired with a custom 3M Matte Military Green wrap and JDM-spec Mitsubishi Ralliart decals (1998 Dakar edition).",
+    "Suspension: Ohlins Road & Track DFV coilovers (8-way adjustable damping, 50mm stroke) with custom spring rates (7kg/mm front, 6kg/mm rear) for mixed on/off-road use, paired with Whiteline adjustable front sway bar (22mm) and poly bushings to reduce body roll.",
+    "Wheels: Work Emotion CR Kiwami 17x9 +15 offset wheels (ET15) wrapped in Toyo Open Country M/T 285/70R17 tires for off-road grip, with custom powder-coated black wheel spacers (15mm front, 20mm rear) to fill the Rocket Bunny arches. Brake system upgraded to DBA 5000 Series rotors (320mm front, 290mm rear) with EBC Redstuff brake pads and stainless steel braided lines."
+  ]
+}

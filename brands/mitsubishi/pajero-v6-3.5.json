@@ -1,0 +1,14 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "PAJERO V6 3.5",
+  "prestazioni": [
+    "Engine: 6G74 (3.5L SOHC 24V V6) forced induction conversion using a Garrett GT3582R turbocharger (0.82 A/R, 60mm compressor inducer) with a custom 3-inch stainless steel turbo manifold by Tomei Powered, paired with a GReddy Type-S intercooler (front-mount, 600x300x80mm core) and HKS SSQV4 blow-off valve for boost control up to 1.2 bar (17.4 psi).",
+    "Fuel System: Upgraded to a Walbro 450 LPH in-tank fuel pump with an Aeromotive 340 Stealth fuel pressure regulator, supporting ID1000x injectors (1000cc/min) and a custom ECU reflash via EcuTek ProECU (optimized for 6G74 with MAF scaling, ignition timing advance, and AFR targets of 11.8:1 under full load).",
+    "Drivetrain & Suspension: Strengthened transmission with a Ralliart heavy-duty clutch kit (organic twin-plate) and a Cusco 2-way limited-slip differential (250Nm torque capacity) for the rear axle. Suspension overhaul with Ohlins Road & Track coilovers (24-way adjustable damping, 50mm front/40mm rear spring rates) and SuperPro polyurethane bushings (full kit) for chassis rigidity, paired with Whiteline 24mm front/22mm rear adjustable sway bars."
+  ],
+  "estetica": [
+    "Body Kit: Rocket Bunny Pajero V6 widebody conversion (Pandem kit, 3-piece front bumper, overfenders, and rear diffuser) with custom carbon fiber side skirts and a vented hood (Seibon Carbon, 3K twill weave) to accommodate the turbo setup. Painted in Mitsubishi’s original ‘Pyrenees Black’ with matte bronze accents (3M 1080 vinyl wrap).",
+    "Wheels & Tires: Work Emotion CR Kiwami 2-piece forged wheels (18x9.5 +25 offset front, 18x10.5 +30 offset rear) wrapped in Toyo Open Country M/T Trail (285/65R18 front, 295/60R18 rear) for off-road capability, with custom center caps featuring the 6G74 engine code laser-engraved in red.",
+    "Interior & Aero: Full Recaro SRD-X seats (black Alcantara with red stitching) and a custom roll cage (6-point, TIG-welded mild steel) by Custom Cages UK, integrated with a Sparco Pro 2000 steering wheel and a Defi BF Advance multi-gauge pod (boost, oil temp, and AFR). Exterior aero includes a custom aluminum rear wing (3D-printed airfoil, 1200mm span) and a Vortex Generator kit (RaceChip) for high-speed stability."
+  ]
+}

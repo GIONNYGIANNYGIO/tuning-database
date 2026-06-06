@@ -1,0 +1,14 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "PAJERO JUNIOR",
+  "prestazioni": [
+    "Engine swap to a Mitsubishi 4G93T (1.8L turbo, 16V DOHC) from the Mitsubishi Lancer Evolution IV, retaining the original AWD drivetrain but upgrading the turbo to a Garrett GT2860RS-5 with a custom 0.63 A/R turbine housing for optimized spool on the 4G93T's 8.5:1 compression ratio. Pair with a Tomei 260° camshaft (intake: 10.5mm lift, exhaust: 10.0mm lift) and a HKS Hi-Power exhaust manifold with 4-2-1 merge collectors to reduce backpressure.",
+    "Full drivetrain reinforcement: Replace the stock R5A51 transfer case with a reinforced R5A52 unit from a Mitsubishi Pajero Mini Turbo, paired with a Cusco 1.5-way mechanical LSD for the rear differential and a KAAZ 2-way front LSD. Upgrade the driveshafts to custom carbon-fiber units from Torque Developments International (TDI) to handle increased torque while reducing rotational mass.",
+    "Fuel and ignition system overhaul: Install a set of 8x ID1000 injectors (200cc/min) with a Walbro 450 LPH in-tank fuel pump, controlled via a Link G4+ Xtreme standalone ECU. Ignition system upgraded to a set of HKS Racing Plugs (Type R, 0.8mm gap) and a Splitfire coil-on-plug conversion kit. Boost control managed by a GReddy Profec B Spec II with a 3-port solenoid for precise wastegate actuation on the GT2860RS."
+  ],
+  "estetica": [
+    "Widebody conversion using the Rocket Bunny Pajero Junior kit (V1), designed specifically for the KR chassis, featuring extended fenders (30mm front, 40mm rear), custom carbon-fiber side skirts, and a rear diffuser with integrated tow hooks. Front bumper replaced with a Seibon Carbon fiber unit, incorporating a custom mesh grille and relocated intercooler vents.",
+    "Suspension overhaul with a full Ohlins Road & Track DFV kit (coilovers), featuring 24-way adjustable damping, 30mm drop from stock, and reinforced top mounts for off-road durability. Wheel setup consists of Work Emotion CR Kiwami (15x8 +15 ET) with Toyo Open Country M/T tires (215/75R15) for a rugged stance, paired with custom 5x114.3 to 4x100 hub adapters from KSP Racing.",
+    "Interior stripped and reinforced with a custom roll cage from AutoPower Industries (6-point, bolt-in, TIG-welded chromoly), featuring integrated harness bars for Schroth Profi II 4-point harnesses. Seats replaced with Bride Zeta III Low Max (fixed-back) in black Alcantara with red stitching, paired with a Nardi Classic 350mm steering wheel and a custom aluminum shift knob from Buddy Club."
+  ]
+}

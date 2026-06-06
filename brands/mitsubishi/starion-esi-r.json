@@ -1,0 +1,14 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "STARION ESI-R",
+  "prestazioni": [
+    "Engine: 4G63T (G63B) 2.0L turbocharged inline-4 with forged internals (JE 87mm forged pistons, Eagle H-beam connecting rods, ACL race bearings) and balanced crankshaft for 30+ psi boost capability. Turbo upgrade to Garrett GT35R with 62mm compressor wheel and .82 A/R turbine housing, paired with a Tomei 272° camshaft and titanium retainers for high-RPM stability.",
+    "Fuel System: Full return-style fuel system with Walbro 450LPH in-tank pump, Radium Engineering fuel pressure regulator, and ID1000x injectors (side-feed, Starion-specific) fed by a custom -8AN AN fuel rail. Methanol injection via Snow Performance Stage 3 kit with dual nozzles pre-intercooler for knock suppression at 28+ psi.",
+    "Drivetrain & Handling: OS Giken 2.2L limited-slip differential with billet case, paired with a reinforced RRE Starion-specific transmission (W5M33) with upgraded synchros and a Tilton twin-disc clutch. Suspension overhaul with Ohlins Road & Track coilovers (Starion-specific valving), Whiteline 24mm adjustable sway bars, and polyurethane bushings (Energy Suspension) for chassis rigidity. Braking via StopTech Big Brake Kit (4-piston calipers, 328mm rotors) with Ferodo DS2500 pads."
+  ],
+  "estetica": [
+    "Widebody Conversion: Rocket Bunny V1 Starion kit (Pandem) with extended fenders, custom carbon fiber front splitter, and duckbill rear wing (replica of the 1987 Le Mans Starion). Front bumper modified to fit a custom intercooler duct (3D-printed, ABS) for the GT35R turbo setup.",
+    "Wheels & Stance: Work Meister S1 3P 16x9.5 +15 (front) and 16x10.5 +20 (rear) with Nitto NT01 245/45/16 and 275/40/16 tires. Custom wheel spacers (15mm front, 25mm rear) to fill the Rocket Bunny fenders, with BC Racing camber plates for aggressive alignment (-3.5° front, -2.8° rear).",
+    "Interior & Aero: Full carbon fiber dash overlay (Seibon) with Defi BF gauges (boost, oil pressure, wideband) mounted in a custom A-pillar pod. Bride Zeta III seats with Schroth 4-point harnesses and a custom bolt-in roll cage (Chassisworks, 1.75\" DOM tubing). Rear diffuser from a Veilside Fortune kit (modified to fit) with integrated LED brake light."
+  ]
+}

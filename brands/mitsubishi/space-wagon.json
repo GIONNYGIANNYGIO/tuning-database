@@ -1,0 +1,14 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "SPACE WAGON",
+  "prestazioni": [
+    "Engine swap to a 4G63T (from the Mitsubishi Lancer Evolution III) with a forged internals build including Manley 87mm forged pistons, Eagle H-beam connecting rods, and a Tomei 272° camshaft kit for high-RPM power delivery. Pair with a Garrett GT3076R turbocharger (0.82 A/R turbine housing) and a custom 3-inch stainless steel exhaust system by HKS Hi-Power with a 300-cell catalytic converter for emissions compliance.",
+    "Full standalone ECU upgrade to a Haltech Elite 2500 with custom wiring harness by Wireworx, integrating a dual Bosch 0280158002 wideband O2 sensor setup and a Link G4+ knock control module. Fuel system overhaul includes a Walbro 450 LPH in-tank pump, Injector Dynamics ID1000 fuel injectors, and a Radium Engineering fuel pressure regulator for precise AFR targeting (11.5:1 under boost).",
+    "Chassis reinforcement with a Cusco bolt-in 6-point roll cage (Mitsubishi Space Wagon-specific design) and a full polybush kit by SuperPro (part numbers SPF0115K, SPF0116K, SPF0117K for front/rear control arms). Suspension upgrade to Ohlins Road & Track coilovers (custom valved for the Space Wagon’s 1,400kg curb weight) with Eibach ERS 1000N/mm helper springs and Whiteline adjustable sway bars (24mm front, 22mm rear) for reduced body roll."
+  ],
+  "estetica": [
+    "Full Rocket Bunny widebody conversion kit (RB-SW01) with custom carbon fiber fender flares, extended by 50mm per side to accommodate 265/35R18 Yokohama Advan Neova AD08R tires on Work Meister S1 3P 18x9.5 ET+15 wheels. Front bumper replacement with a custom 3D-printed splitter by Varis Japan, incorporating a 30mm adjustable canard setup for downforce.",
+    "Rear wing upgrade to a custom 1.8m wide dry carbon fiber GT wing by Voltex (Type 3 design) mounted on aluminum pedestals with adjustable angle of attack (0-15°). Side skirts replaced with custom aluminum panels by AutoExe, featuring integrated LED turn signals and a matte black powder-coated finish for weight reduction and aerodynamics.",
+    "Interior overhaul with Bride Zeta III bucket seats (Mitsubishi Space Wagon-specific mounting brackets) and a custom 6-point harness bar by Sabelt. Dashboard replaced with a carbon fiber overlay by Seibon, housing a digital gauge cluster by Defi Advance BF (oil pressure, boost, and wideband AFR readouts). Shift knob upgraded to a custom titanium piece by Buddy Club (short-throw adapter for the F5M42 transmission)."
+  ]
+}

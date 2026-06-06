@@ -1,0 +1,14 @@
+{
+  "brand": "MORGAN",
+  "model": "3 WHEELER",
+  "prestazioni": [
+    "Replace the stock S&S X-Wedge V-twin (82.5mm bore x 94mm stroke, 1976cc) with a S&S T124 (124ci / 2032cc) big-bore kit featuring forged 4.125\" pistons, billet connecting rods, and a billet crankshaft, paired with a S&S Super E carburetor (1.75\" bore) and a custom 3-into-1 stainless steel exhaust system by Burns Stainless (1.75\" primaries, 3\" collector) for optimized scavenging and torque delivery",
+    "Install a custom-engineered billet aluminum front subframe by RML Group to accommodate a Garrett GT2860RS turbocharger (0.86 A/R turbine housing) with a custom air-to-air intercooler (GReddy Type-S) mounted in the nose cone, paired with a Haltech Elite 2500 ECU for precise boost control (targeting 12 psi) and fuel management via dual Bosch 044 high-flow fuel pumps and ID1000 injectors",
+    "Upgrade the rear swingarm with a custom-fabricated chromoly tubular structure by Caged Laser Engineering, integrating a Quaife ATB differential (QDF7Z) and Wilwood PS-1 calipers (with 12.19\" rotors) for improved traction and braking, while replacing the stock 5-speed transmission with a Baker 6-speed overdrive gearbox (close-ratio: 2.97, 2.10, 1.52, 1.17, 0.94, 0.78) for optimized gear spacing"
+  ],
+  "estetica": [
+    "Replace the stock aluminum body panels with hand-formed carbon fiber replicas by Caterham Composites, featuring a custom matte gunmetal finish and integrated NACA ducts for intercooler airflow, while retaining the iconic exposed rivet aesthetic with aerospace-grade titanium fasteners (McMaster-Carr 92196A195)",
+    "Install a custom LED lighting package by JW Speaker (Model 8700 Evolution J3, 7\" headlights) with integrated DRLs and sequential turn signals, paired with a bespoke rear LED taillight assembly by United Pacific (1930s-style teardrop design) and a carbon fiber front splitter by Vorsteiner (3-piece, adjustable angle)",
+    "Upgrade the interior with a full Alcantara-wrapped dashboard and door panels by Katzkin, featuring a custom digital gauge cluster by AIM MXS Strada (1.3\" OLED display) with integrated data logging for boost, AFR, and oil pressure, paired with a MOMO Mod.78 steering wheel (350mm diameter, suede grip) and Sparco Pro 2000 seats (carbon fiber shell, FIA-approved)"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "PAJERO SPORT",
+  "prestazioni": [
+    "Engine: 4N15 2.4L MIVEC clean diesel (181hp stock) – Forced induction upgrade via Garrett GT2260S turbocharger (1.2 bar boost) paired with a custom 3-inch stainless steel downpipe (HKS Hi-Power Racing Spec) and a front-mount intercooler (GReddy Type-S) to prevent heat soak. Fueling is handled by a set of 350cc Denso GDI injectors (OEM-spec for 4N15 but modified for higher flow) and a Walbro 450 LPH in-tank fuel pump to support the increased demand.",
+    "ECU remapping via EcuTek RaceROM Pro (specifically calibrated for the 4N15 engine) with custom maps for E85 flex-fuel capability, optimizing timing advance and boost thresholds. A secondary standalone AEM X-Series wideband O2 sensor (30-0300) is installed for real-time AFR monitoring, ensuring safe air-fuel ratios under high-load conditions.",
+    "Suspension overhaul with Ohlins Road & Track DFV coilovers (custom valved for the Pajero Sport’s 2,800kg GVW) paired with SuperPro polyurethane bushings (front control arms and rear trailing arms) to reduce deflection. Braking is upgraded to DBA 5000 Series rotors (vented, slotted) with Ferodo DS2500 pads and stainless steel braided lines (Goodridge G-Stop) for consistent pedal feel. A Cusco 2-way LSD (22-spline) is fitted to the rear axle to improve traction under spirited driving."
+  ],
+  "estetica": [
+    "Widebody conversion using the Rocket Bunny Pajero Sport kit (Pandem Designs), extending fenders by 50mm per side to accommodate 285/70R17 Nitto Ridge Grappler tires on Method MR701 VT-Spec wheels (17x9 +18 offset). The kit includes custom front and rear bumpers with integrated carbon fiber splitters and a rear diffuser (Seibon Carbon).",
+    "Full carbon fiber hood (Seibon Carbon, OEM replacement) with a functional heat extractor vent to reduce underhood temperatures. Side skirts and rear spoiler are from the Varis Japan Pajero Sport aero line, designed for minimal drag while improving high-speed stability. Window tint is Llumar IRX 70% ceramic (front windshield legal limit) for heat rejection.",
+    "Interior stripped and reupholstered with Recaro Pole Position seats (cloth/Alcantara, Mitsubishi-specific mounting brackets) and a custom roll cage (Sparco Pro2000, bolt-in design) for structural rigidity. The dashboard is wrapped in 3M Matte Carbon Fiber vinyl, and the stock steering wheel is replaced with a Nardi Classic 380mm suede wheel (Momo quick-release hub). A full digital gauge cluster (AEM CD-7) replaces the stock analog setup for precise monitoring of boost, AFR, and oil temps."
+  ]
+}

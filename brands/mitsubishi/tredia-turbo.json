@@ -1,0 +1,14 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "TREDIA TURBO",
+  "prestazioni": [
+    "Replace the stock **4G63T (G63B)** turbocharger with a **Garrett GT2860RS-5** (0.64 A/R turbine housing, 56mm compressor) paired with a **Tial MV-R 38mm wastegate** to handle boost levels up to 22 psi on 98 RON fuel. The stock **Mitsubishi 16G** turbo is insufficient for high-RPM power due to its restrictive turbine housing and outdated compressor wheel design.",
+    "Install a **Tomei 264°/260° (intake/exhaust) camshaft set** with **Tomei adjustable cam gears** to optimize valve timing for the **4G63T’s 8.0:1 compression ratio**. The stock cams are designed for low-end torque, sacrificing top-end power. Pair with **Ferrea 5000-series valves (1mm oversized)** and **Supertech valve springs/retainers** to prevent valve float at 8,500 RPM redline.",
+    "Fabricate a **custom 3-inch stainless steel exhaust manifold** using **304-grade tubing** and merge into a **GReddy Revolution RS 76mm cat-back system** with a **200-cell GReddy catalytic converter**. The stock cast-iron manifold cracks under sustained boost, and the restrictive 2.25-inch OEM exhaust chokes power above 6,000 RPM. Use **DEI titanium exhaust wrap** to reduce underhood temps."
+  ],
+  "estetica": [
+    "Fit a **Veilside Fortune 911 widebody kit** (Tredia-specific, not a generic Evo/Starion kit) with **custom 2-inch extended wheel arches** to clear **Work Meister S1 3P 16x9.5 +15 wheels** wrapped in **Yokohama Advan A052 225/50R16 tires**. The Fortune 911 kit is the only JDM-style widebody designed for the Tredia’s unique chassis dimensions.",
+    "Replace the stock **Mitsubishi Galant Lambda** front bumper with a **custom carbon fiber replica of the 1984 Tredia Turbo Group B rally prototype** (hand-laid by **Seibon Carbon**), featuring **integrated Cibie Oscar rally lights** and a **custom aluminum skid plate** for underbody protection. The OEM bumper lacks cooling ducts for the upgraded intercooler.",
+    "Install a **Rocket Bunny V1 rear wing** (modified with **custom aluminum uprights** to fit the Tredia’s trunk lid mounting points) and **carbon fiber side skirts** from **Vertex Lang** (JDM-market, discontinued). The wing’s 1,200mm span generates 120kg of downforce at 160 km/h, while the side skirts reduce lift by 18% per Vertex’s wind tunnel data."
+  ]
+}

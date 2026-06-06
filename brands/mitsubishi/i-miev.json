@@ -1,0 +1,14 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "i-MiEV",
+  "prestazioni": [
+    "Replace the stock Y4F1 permanent-magnet synchronous motor (80 kW / 107 hp, 180 Nm) with a **Siemens SP260D** electric motor (260 kW / 350 hp, 500 Nm) paired with a **ZF 2-speed EV transmission** for optimized torque delivery and top-speed extension beyond the factory 130 km/h limiter",
+    "Upgrade the **LEV50N** lithium-ion battery pack (16 kWh, 330V) to a **Tesla Model 3 Performance 75 kWh battery module** (repackaged via **EV West adapter kit**) with **Orion BMS 2** for 400V system compatibility, increasing range to ~350 km (WLTP) and enabling 0-100 km/h in 4.2s with **HPWC (High Power Wall Charger) 11.5 kW**",
+    "Install a **Motec M150 ECU** with **custom CAN bus mapping** to recalibrate regenerative braking (adjustable via **AP Racing CP8121 brake-by-wire pedal** with 5-stage regen settings) and integrate a **Garrett E-Turbo (electric compressor)** for forced induction, boosting motor output to 400 kW (536 hp) with **AEM EV VCU-300** torque vectoring"
+  ],
+  "estetica": [
+    "**Liberty Walk LB-WORKS i-MiEV widebody kit** (carbon fiber fenders, extended rockers, and rear diffuser) with **custom 3D-printed ABS overfenders** to fit **Work Emotion CR Kiwami 17x8.5 +35 wheels** (staggered fitment: 215/40R17 front, 245/35R17 rear) and **BC Racing BR coilovers (custom valved for Kei-car weight distribution)**",
+    "**Seibon Carbon i-MiEV hardtop** (OEM+ replacement with **VIS Racing carbon fiber hood** and **Rocket Bunny duckbill spoiler** for downforce at 160+ km/h), paired with **Litchfield front splitter** and **custom aluminum rear diffuser** (modeled after **Mugen Civic Type R FD2** aero)",
+    "**Recaro Pole Position seats (Kei-car specific)** with **Schroth Profi II 4-point harnesses** and **custom aluminum dashboard overlay** (CNC-machined from **Aerocraft billet aluminum**), featuring **Aim MXS Strada 7-inch dash display** and **Defi Advance BF gauges** (voltmeter, ammeter, motor temp, and G-force)"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "LANCER EVOLUTION V",
+  "prestazioni": [
+    "Engine: 4G63T (7-bolt crank, 85mm bore, 88mm stroke) with forged internals including Tomei 2618 aluminum pistons (8.5:1 compression), Eagle H-beam connecting rods, and ACL Race Series bearings for 1,000+ hp capability. Turbocharger: Garrett GTX4202R Gen II with 62mm compressor wheel, 0.82 A/R turbine housing, and TiAL MV-R 44mm external wastegate for 38-42 psi boost targeting 650-700 whp on E85.",
+    "Fuel System: Injector Dynamics ID1700x (1,700cc) side-feed injectors with Radium Engineering fuel rail and dual Walbro 450 LPH in-tank pumps, paired with a Syvecs S8 ECU running custom 4D ignition and fuel maps with flex-fuel sensor integration for E85 blending.",
+    "Drivetrain: OS Giken Super Lock LSD (front and rear) with 2.5-way ramp angles, reinforced PPG straight-cut dog engagement gearset (1.5:1 final drive), and Tilton 7.25\" twin-disc carbon clutch with billet flywheel. Suspension: Öhlins Road & Track DFV coilovers with 8-position rebound damping, Cusco front strut tower bar, and Whiteline adjustable rear sway bar (24mm) for rotation control.",
+    "Exhaust: Custom 3.5\" titanium equal-length manifold by Tomei (4-2-1 design) with 304 stainless steel downpipe, GReddy Revolution RS 76mm cat-back system, and dual HKS SSQV4 blow-off valves plumbed back into the intake tract for spool consistency."
+  ],
+  "estetica": [
+    "Body Kit: Rocket Bunny V1 widebody conversion with carbon fiber fenders (30mm wider front, 40mm wider rear), custom aluminum overfenders, and a 3D-printed ABS front bumper with integrated canards and a 30% larger intercooler duct. Rear diffuser: Seibon carbon fiber GT-style diffuser with integrated exhaust cutouts for dual 4\" outlets.",
+    "Aero: Voltex Type-7 rear wing with 1,200mm carbon fiber blade, adjustable 0-20° angle, and custom aluminum uprights for 200+ kg of downforce at 160 km/h. Front splitter: Custom 5-layer carbon fiber splitter with 3D-printed air dams and integrated vortex generators for front-end stability.",
+    "Wheels: Work Meister S1 3P 18x10.5 +15 (front) and 18x11 +20 (rear) with custom 5x114.3 to 4x114.3 adapters, wrapped in Michelin Pilot Sport Cup 2 R tires (265/35/18 front, 295/30/18 rear). Brake System: AP Racing Radi-CAL 6-piston front (380mm rotors) and 4-piston rear (355mm rotors) with Ferodo DS2500 pads and custom stainless steel braided lines."
+  ]
+}

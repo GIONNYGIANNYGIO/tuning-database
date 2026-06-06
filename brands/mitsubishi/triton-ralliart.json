@@ -1,0 +1,14 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "TRITON RALLIART",
+  "prestazioni": [
+    "4N15 2.4L MIVEC clean diesel engine: BorgWarner EFR 7670 turbocharger with 0.86 A/R turbine housing, custom 3.5\" stainless steel downpipe, and GReddy Profec B Spec II boost controller for 32 psi peak pressure targeting 380 whp and 600 lb-ft torque on E85 fuel blend",
+    "Full billet 4N15 crankshaft reinforcement with ACL Race Series main and rod bearings, Manley I-beam connecting rods (H-beam profile, 156mm length), and JE Pistons 9.5:1 forged slugs with moly-coated skirts and lateral gas ports for high-boost durability",
+    "Custom Motec M150 ECU with flex-fuel sensor integration, 4D ignition timing maps, and launch control calibrated for 4,500 rpm flat-shift anti-lag, paired with Injector Dynamics ID1700x fuel injectors and Radium Engineering dual-catch can setup for crankcase ventilation"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (TRITON-specific, 60mm extended fenders front/rear) with custom carbon fiber overfenders, paired with a Seibon carbon fiber hood featuring dual 40mm vent scoops for intercooler airflow",
+    "Ohlins DFV 2-way adjustable coilovers (TRITON-specific valving, 80mm extended travel) with Eibach ERS helper springs, poly bushings for control arms, and Cusco 22mm rear sway bar for chassis rigidity",
+    "Full Ralliart Heritage livery: 3M 1080 vinyl wrap in \"Ralliart Blue\" with matte black accents, custom carbon fiber side skirts (TRITON-specific, 30mm lower than OEM), and a Voltex Type-3 rear wing (1,200mm width, 300mm height) with integrated third brake light"
+  ]
+}

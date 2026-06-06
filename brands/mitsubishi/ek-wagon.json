@@ -1,0 +1,14 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "eK WAGON",
+  "prestazioni": [
+    "3B20 660cc DOHC 12V MIVEC turbocharged engine: Replace the stock Mitsubishi TD03-7A turbo with a Garrett GT1241Z (52mm compressor, 41mm turbine) for a 30% increase in airflow while maintaining low-end torque, paired with a Tomei 4-1 stainless steel exhaust manifold (1.75\" primaries) and a custom 2.5\" straight-pipe exhaust system terminating in a Fujitsubo Giken AXIA Type-S muffler (200-cell metallic substrate)",
+    "HKS Hi-Power Spark Plugs (Iridium, 0.8mm gap) and HKS Racing Suction Reloaded intake system (heat-shielded, 70mm MAF housing) with a custom 3\" velocity stack, combined with a Haltech Elite 1500 ECU (MIVEC cam control, boost-by-gear mapping) and a Tomei 260° camshaft kit (10.5mm lift, 240° duration) for optimized power delivery up to 9,500 RPM",
+    "Custom 5-speed F5M42HL transmission reinforcement with a KAAZ 1.5-way LSD (2.25 final drive ratio), uprated clutch (Spec Stage 3+ with 6-puck ceramic disc), and a Cusco Type-RS 75W90 gear oil for sustained high-RPM shifts, paired with a Nismo 550mm carbon driveshaft and a reinforced rear subframe with polybushings (SuperPro 85mm rear trailing arm bushings)"
+  ],
+  "estetica": [
+    "Veilside Fortune 03 widebody conversion kit (FRP construction, 50mm rear fender flares, 30mm front) with custom carbon fiber side skirts (Seibon CFRP, 1.2mm thickness) and a Rocket Bunny-inspired front bumper lip (FRP, 45mm overhang) featuring integrated LED turn signals (Philips Ultinon Pro9000, 6000K)",
+    "Work Emotion CR Kiwami wheels (15x7 +38 offset, 4x100 PCD) wrapped in Yokohama Advan Neova AD08R tires (195/50R15, semi-slick compound) with custom center caps (Mitsubishi Racing logo, anodized red), paired with a custom rear diffuser (carbon fiber, 3D-printed mold) and a roof-mounted GT wing (Voltex Type-3, 1200mm span, 300mm chord, 15° angle)",
+    "Full interior overhaul with Bride Euro XO seats (fixed-back, carbon fiber shells, Alcantara/Suede upholstery) mounted on custom floor mounts (NRG Innovations, 20mm lower), a Momo Mod.78 steering wheel (350mm diameter, suede grip) with a NRG quick-release hub, and a custom roll cage (TIG-welded 4130 chromoly, 6-point, gusseted joints) painted in Mitsubishi Racing Green (Dulux 90GY 30/100)"
+  ]
+}

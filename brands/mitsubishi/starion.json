@@ -1,0 +1,14 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "STARION",
+  "prestazioni": [
+    "Engine: 4G63T (G63B) 2.0L turbocharged inline-4 with forged internals (JE 87mm forged pistons, Eagle H-beam connecting rods, ACL race bearings) and balanced crankshaft for 10,000+ RPM stability. Turbo upgrade to Garrett GT35R with 0.82 A/R turbine housing and billet compressor wheel for 1.5 bar (21.7 psi) boost, paired with a Tomei 272° camshaft and titanium retainers for high-RPM valvetrain reliability.",
+    "Fuel System: Full Aeromotive fuel system with dual A1000 fuel pumps, -8AN feed/-6AN return lines, and ID1000x injectors (1,000cc/min) fed by a custom 3.5L surge tank. ECU: Haltech Elite 2500 with individual cylinder tuning and launch control, integrated with a Motec C125 dash for real-time data logging and boost-by-gear mapping.",
+    "Drivetrain & Chassis: OS Giken twin-plate clutch (260mm) with billet flywheel, Ralliart 5-speed close-ratio gearbox (R5A52A) with Quaife ATB differential (40% lock). Suspension: Ohlins Road & Track coilovers (DFV) with 24-way adjustable damping, poly bushings (SuperPro) for front control arms, and custom subframe reinforcement plates (Cusco) to eliminate flex under hard acceleration."
+  ],
+  "estetica": [
+    "Body: Rocket Bunny V1 widebody kit (Starion-specific) with carbon fiber fenders, front bumper, and rear diffuser, paired with a custom 3D-printed ABS rear spoiler (150mm chord) for downforce. Paint: BASF Glasurit 90-line custom mix 'Lancer Evolution VI Rally Blue' with matte black accents and clear bra (XPEL Ultimate) on high-impact areas.",
+    "Wheels: Work Meister S1 3P 17x9.5 +15 (front) and 17x10.5 +25 (rear) in gloss gunmetal, wrapped in Toyo R888R 245/40/17 (front) and 275/35/17 (rear) tires. Brake System: AP Racing 6-pot front calipers (CP8370) with 330mm two-piece rotors (floating) and Ferodo DS2500 pads, paired with stainless steel braided lines (Goodridge).",
+    "Interior: Bride Zeta III bucket seats (fixed-back) with Takata 4-point harnesses, custom roll cage (Chromoly 4130) with integrated fire suppression system (Lifeline Zero 360). Steering wheel: NRG Innovations 350mm suede wheel with quick-release hub, paired with a custom aluminum shift knob (Momo) and digital boost gauge (Defi BF) mounted in the A-pillar."
+  ]
+}

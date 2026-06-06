@@ -1,0 +1,14 @@
+{
+  "brand": "MITSUOKA",
+  "model": "HIMIKO",
+  "prestazioni": [
+    "Engine swap to a Toyota-sourced 2GR-FKS 3.5L V6 (engine code: 2GR-FKS) with a custom billet aluminum intake manifold by HKS, featuring individual throttle bodies (ITBs) and a Motec M150 ECU for precise fuel and ignition mapping, targeting 400+ hp at 7,000 RPM with a 7,500 RPM redline",
+    "Forced induction via a Garrett GTX3582R turbocharger (82mm compressor wheel) with a custom 3.5-inch stainless steel turbo manifold by Tomei, paired with a GReddy Profec B Spec II boost controller and a custom intercooler setup using a PWR 4.5-core front-mount intercooler with 3-inch piping and silicone couplers by Samco Sport",
+    "Suspension overhaul with Ohlins Road & Track DFV coilovers (custom valved for the Himiko's 1,500kg weight), polyurethane bushings by SuperPro (part numbers SPF0115K and SPF0116K for front/rear control arms), and a custom front strut tower brace by Cusco (type RS) to reduce chassis flex under high-G cornering"
+  ],
+  "estetica": [
+    "Full custom widebody conversion using a Liberty Walk LB Works kit (specifically the LB-03RR variant, modified to fit the Himiko's unique chassis dimensions), with carbon fiber fender flares and a custom front splitter by Varis (extended 3 inches for improved downforce)",
+    "Retro-modern lighting upgrade with custom Hella Rallye 3000 headlights (chrome reflectors, H4 bulbs) and sequential LED taillights by Diode Dynamics (programmed to mimic the 1960s Jaguar E-Type sequence), paired with a custom rear diffuser by Seibon Carbon (integrated with the LB Works kit)",
+    "Interior rework featuring Recaro SP-G (JDM-spec) front seats with custom Alcantara upholstery by Status Racing, a Momo Prototipo steering wheel (350mm diameter, suede grip) on a NRG quick-release hub, and a custom aluminum shift knob by Buddy Club (modeled after the 1967 Toyota 2000GT, with a 6-speed pattern engraved)"
+  ]
+}

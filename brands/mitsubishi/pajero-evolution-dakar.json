@@ -1,0 +1,14 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "PAJERO EVOLUTION DAKAR",
+  "prestazioni": [
+    "Engine: 6G74 (3.5L V6 DOHC 24V) forced-induction conversion using a Garrett GTX4202R turbocharger (86mm compressor, 1.15 A/R turbine housing) paired with a custom 4-inch stainless steel intercooler piping kit from HKS, supporting 1.5 bar of boost with a Motec M150 ECU for precise fuel and ignition mapping, including anti-lag and launch control strategies optimized for Dakar rally conditions.",
+    "Drivetrain: Reinforced Ralliart 5-speed manual transmission with a Quaife ATB helical LSD (part # QDF7J) and a custom billet aluminum flywheel from Fidanza (12.5 lbs, SFI 1.1 certified) to reduce rotational mass, paired with a South Bend Clutch Stage 3+ twin-disc ceramic clutch (850 ft-lb torque capacity) for extreme off-road durability.",
+    "Suspension: Full Öhlins TTX46 4-way adjustable coilover kit (24-way rebound, 22-way compression) with remote reservoirs, custom valving for the Pajero Evolution’s multi-link rear and double-wishbone front setup, and 2.5-inch diameter monotube dampers. Includes reinforced spherical bearing upper control arms from SuperPro (part # SPF2000K) and poly bushings for subframe mounts to eliminate deflection under high-load articulation."
+  ],
+  "estetica": [
+    "Aero: Custom Dakar-spec widebody kit from Liberty Walk (LB-PAJERO-DAKAR) with carbon fiber fender flares (3-inch wider than stock), a functional aluminum front splitter with integrated tow hooks, and a rear diffuser from Seibon Carbon (part # CF-MIT-PAJ-001) to reduce lift at high speeds. Includes a custom aluminum roof scoop for intercooler airflow, modeled after the 2007 Dakar-winning Pajero.",
+    "Lighting: Full LED conversion with Baja Designs Squadron Pro (50W, 4500-lumen) auxiliary lights mounted on a custom aluminum roof rack from Front Runner Outfitters, paired with Rigid Industries D-Series Pro (30-inch, amber) light bars for dust penetration. Stock headlights replaced with Hella 90mm Bi-Xenon projectors (HID 5500K) and custom CREE LED halo rings.",
+    "Interior: Full Recaro Cross Sportster CS seats (carbon fiber shell, FIA 8862-2009 certified) with Schroth Profi II 6-point harnesses, mounted on custom aluminum seat sliders from Sparco. Dash replaced with a Motec C127 digital dash (12-inch display) and a custom aluminum switch panel for auxiliary systems (winch, lights, diff locks). Roll cage by Custom Cages (T45 steel, 3.2mm wall thickness) with integrated fire suppression system from Lifeline (4kg plumbed to engine bay and cabin)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "TRITON ATHLETE",
+  "prestazioni": [
+    "4N15 2.4L MIVEC clean diesel engine: Garrett GT2260S turbocharger upgrade with billet compressor wheel (60mm inducer, 71mm exducer) and TiAL 44mm external wastegate, supporting 350whp and 550lb-ft torque with custom ECU remap via Haltech Elite 2500 standalone (Mitsubishi CAN bus integration for factory gauge retention).",
+    "Full bolt-on fuel system overhaul: Bosch 044 high-flow lift pump (255lph), 850cc Denso GDI injectors (PN 195500-7550), and custom 3/8\" braided stainless steel fuel lines with AN-8 fittings, paired with a Radium Engineering fuel pressure regulator (1:1 rising rate) for precise diesel rail pressure control.",
+    "Chassis-specific drivetrain reinforcement: Cusco 2-way limited-slip differential (80% lock) for the Super Select 4WD system, paired with a PTT (Power Transfer Torque) delete kit to eliminate factory torque split limitations, and a custom 3.727:1 final drive ratio swap (from the Triton GLX-R) for optimized acceleration in 4H mode."
+  ],
+  "estetica": [
+    "Liberty Walk LB-WORKS widebody conversion kit (TRITON-specific, not L200) with carbon fiber fender flares (2.5\" extended wheel arches), paired with custom 3D-printed ABS plastic side skirts (modeled after the Triton Athlete Ralliart prototype) and a vented carbon fiber hood (Rocket Bunny-style, with dual NACA ducts for intercooler airflow).",
+    "OEM+ lighting upgrade: Osram Night Breaker Laser H11 bulbs (6500K) in the factory projector headlights, retrofitted with Morimoto XB35 LED fog lights (5500K, 3000lm) and a custom JDM-spec rear LED bar (Mitsubishi Pajero Evolution-inspired, 180mm width) replacing the factory reverse light housing.",
+    "Wheel and stance setup: Work Emotion CR Kiwami 18x9.5\" ET+15 (front) and 18x10.5\" ET+20 (rear) with 5x114.3 PCD, wrapped in Toyo Open Country R/T Trail 285/65R18 (front) and 295/60R18 (rear) tires, paired with Ohlins DFV (Dual Flow Valve) coilovers (8-way adjustable damping, 50mm stroke) and custom 20mm front/30mm rear wheel spacers (Hubcentric, 6061-T6 aluminum)."
+  ]
+}

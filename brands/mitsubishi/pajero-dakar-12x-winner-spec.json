@@ -1,0 +1,14 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "PAJERO DAKAR 12X WINNER SPEC",
+  "prestazioni": [
+    "Engine: 6G75 MIVEC V6 (3.8L) with forged internals including Manley H-beam connecting rods, JE 10.5:1 forged pistons, and ACL Race Series main/rod bearings. Turbocharged using a Garrett GTX4202R with a custom 3.5-inch stainless steel downpipe and TiAL MV-R 44mm wastegate for 18 psi peak boost.",
+    "Fuel System: Full Radium Engineering port injection kit with dual Bosch 044 high-flow fuel pumps, ID1000x injectors (primary), and ID2000 injectors (secondary) fed by a custom -10AN fuel rail. ECU reflash via Haltech Elite 2500 with custom Dakar rally-spec ignition timing maps and flex-fuel compatibility.",
+    "Suspension: Öhlins TTX46 3-way adjustable coilovers with 400mm travel, reinforced spherical bearing upper mounts, and custom valving for high-speed desert whoops. Front and rear anti-roll bars replaced with Pajero-specific Whiteline adjustable units (24mm front, 22mm rear) to reduce body roll during aggressive dune transitions."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody kit by Rocket Bunny (Pajero Dakar Edition), including extended fenders, front/rear bumpers with integrated LED light pods, and a custom carbon fiber hood with functional NACA ducts for intercooler cooling. Paint: BASF Glasurit 90-Line custom matte desert tan with Dakar rally-inspired vinyl graphics by Avery Dennison.",
+    "Lighting: Rigid Industries E-Series Pro 50-inch LED light bar mounted on a custom aluminum roof rack with integrated GPS antenna. Front bumper equipped with Hella Rallye 4000 Compact driving lights and PIAA LP570 fog lights, all wired through a Painless Performance 12-circuit relay harness with IP67 waterproof connectors.",
+    "Interior: Full Sparco Dakar-spec roll cage (FIA 8862-2009 certified) with integrated fire suppression system (Lifeline Zero 360). Seats replaced with Recaro Cross Sportster CS seats in Alcantara with Schroth 6-point harnesses. Dashboard overhauled with a Motec C187 digital dash and custom carbon fiber center console housing a Racepak IQ3 logger."
+  ]
+}

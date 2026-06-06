@@ -1,0 +1,14 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "LANCER EVOLUTION VIII MR FQ320",
+  "prestazioni": [
+    "Replace the stock 4G63T (MIVEC) engine's TD05H-14B turbo with a Garrett GTX3071R Gen II turbocharger (0.63 A/R turbine housing, 56mm compressor inducer) paired with a Tomei 3-inch stainless steel turbo manifold (part #170010) to eliminate exhaust flow restrictions and support 450whp on 98 RON fuel with a custom ECU reflash via EcuTek ProECU (Stage 2+ map, 28psi peak boost, 11.5:1 AFR target).",
+    "Install a HKS Hi-Power 4-2-1 stainless steel exhaust system (part #32009-AK001) with 76mm piping and a 100-cell GReddy Revolution RS cat-back muffler (part #10160101) to optimize scavenging while maintaining backpressure for the 4G63T's volumetric efficiency at high RPM (8,500 RPM redline).",
+    "Upgrade the stock EVO VIII MR FQ320's ACD (Active Center Differential) with a Cusco Type RS 1.5-way mechanical LSD (part #LSD401A) and pair it with a Whiteline 27mm rear sway bar (part #BMR79X) and Tein Flex Z coilovers (part #VSAS0-CUS2) with 8kg/mm front and 6kg/mm rear springs to eliminate understeer during high-G cornering (1.2G lateral load)."
+  ],
+  "estetica": [
+    "Fit a Rocket Bunny V1 widebody kit (part #PB-F070) with carbon fiber overfenders (30mm front, 40mm rear) and a custom front splitter (20mm overhang) to accommodate 9.5x18 ET20 Enkei RS05RR wheels (part #5188R2020) wrapped in 245/40R18 Michelin Pilot Sport Cup 2 tires (part #00855).",
+    "Replace the stock MR rear wing with a Voltex Type-3 carbon fiber GT wing (part #114110) with 1,200mm span and 300mm chord, mounted on custom aluminum pedestals (50mm height) for optimal downforce (120kg at 160km/h) without disrupting the 4G63T's aerobalance (40/60 front/rear).",
+    "Install a custom carbon fiber engine cover (Seibon part #CF-MIT-08EC) with a clear-coated weave finish and a relocated HKS Super Power Flow Type-R air filter (part #3002-R) in a custom 3.5-inch velocity stack setup to enhance intake flow velocity (280 CFM at 0.5-inch H2O) while maintaining OEM-style aesthetics."
+  ]
+}
