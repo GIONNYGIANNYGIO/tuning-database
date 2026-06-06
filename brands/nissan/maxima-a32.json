@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "MAXIMA A32",
+  "prestazioni": [
+    "Engine: VQ30DE (3.0L V6, 190hp stock) forced-induction build with a Garrett GT2860RS turbocharger (0.86 A/R, 56 trim) on a custom tubular manifold by Tomei, paired with a GReddy Type-S intercooler (600hp core) and HKS SSQV4 blow-off valve. Fuel system upgraded with Walbro 450LPH in-tank pump, Nismo 550cc injectors, and a Sard 6AN fuel rail. ECU reflashed via Haltech Elite 1500 standalone with custom maps for 93 octane and E85 flex-fuel capability (target: 350whp on pump gas, 420whp on E85).",
+    "Drivetrain: OS Giken Super Lock LSD (2.5-way) in a Nismo 5-speed transmission case with upgraded synchros, paired with a Spec Stage 3+ twin-disc clutch (puck-style) and lightweight flywheel. Driveshaft reinforced with a PST carbon fiber unit, and axles upgraded to Nismo 35-spline CV joints with custom-length boots.",
+    "Suspension/Handling: BC Racing BR coilovers (8kg/mm front, 7kg/mm rear) with Swift springs and custom valving for A32-specific geometry, paired with Cusco front and rear sway bars (22mm front, 18mm rear). Polyurethane bushings (Energy Suspension full kit) replace all OEM rubber, and the subframe is reinforced with a Stillen front strut bar and Cusco rear tower brace. Braking upgraded to StopTech Big Brake Kit (328mm front rotors, 4-piston calipers) with Ferodo DS2500 pads and stainless steel braided lines."
+  ],
+  "estetica": [
+    "Body: Rocket Bunny V1 widebody kit (A32-specific, 3-piece fenders with riveted flares) in Nissan Sonic Silver (KL0), paired with a custom carbon fiber hood (Seibon, 30% weight reduction) and a Veilside Fortune rear diffuser. Front bumper lip replaced with a JUN Type III aero lip, and side skirts are OEM Nismo S-Tune (discontinued, rare).",
+    "Wheels/Tires: Work Emotion CR Kiwami (18x9.5 +22 front, 18x10.5 +30 rear) in Gunmetal with custom concave machining, wrapped in Toyo R888R tires (245/40/18 front, 275/35/18 rear). Lug nuts upgraded to Muteki SRD (closed-end, 60-degree taper) and wheel spacers (15mm front, 25mm rear) by Hardrace for flush fitment.",
+    "Interior: Bride Zeta III seats (fixed-back, FIA-approved) with custom A32-specific mounting brackets, paired with a Nismo S-Tune steering wheel (380mm, suede) and NRG quick-release hub. Roll cage by Custom Cages (8-point, bolt-in, chromoly) with padding by OMP. Gauges: Defi Advance BF (oil temp, oil pressure, boost) in a custom A-pillar pod, and a HKS Turbo Timer Pro for post-drive cooldown."
+  ]
+}

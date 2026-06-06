@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "PATROL Y60",
+  "prestazioni": [
+    "Engine swap to a Nissan TB42T (4.2L inline-6 turbocharged) with forged internals: CP Pistons (9.0:1 compression), Eagle H-beam connecting rods, and a billet crankshaft. Turbocharged with a Garrett GTX4202R (84mm compressor, 1.06 A/R turbine housing) on a custom tubular manifold by Tomei, paired with a Tomei M82 camshaft (272° duration, 10.5mm lift) and upgraded valve springs.",
+    "Full fuel system overhaul: Walbro 450LPH in-tank pump, Injector Dynamics ID1700x injectors, and a custom fuel rail with AN-8 fittings. ECU reflash via Haltech Elite 2500 with flex-fuel capability and individual cylinder tuning for E85 compatibility.",
+    "Drivetrain reinforcement: Nissan Patrol Y60-specific Quaife ATB differential (front and rear) with 4.88 gear ratios, upgraded CV joints by Driveshaft Shop, and a Tilton twin-disc clutch (240mm) with a billet flywheel. Suspension overhaul with Bilstein 8112 remote-reservoir coilovers (2.5-inch diameter, 14-inch travel) and Old Man Emu heavy-duty leaf springs (3,500lb capacity) for articulation."
+  ],
+  "estetica": [
+    "Custom widebody conversion using a Nissan Patrol Y60-specific Rocket Bunny/Pandem kit (fiberglass fenders, carbon fiber front bumper, and rear diffuser), extended 3 inches per side to fit 17x9.5-inch Volk Racing TE37SL wheels (ET15 offset) with 285/70R17 BFGoodrich KM3 tires.",
+    "Full interior roll cage by Custom Cages (8-point, TIG-welded chromoly) with Sparco Pro ADV seats (fixed-back, FIA-approved) and a CAE Ultra-Shifter for the manual transmission. Exterior lighting upgraded to Rigid Industries D-Series Pro (50-inch LED light bar) and Baja Designs Squadron Sport (amber fog lights).",
+    "Functional aero package: Custom carbon fiber hood with a 3-inch scoop for the intercooler, a Nissan Patrol Y60-specific ARB Summit front bumper with integrated winch mount (Warn Zeon 12-S), and a custom rear roof spoiler by Seibon Carbon for high-speed stability."
+  ]
+}

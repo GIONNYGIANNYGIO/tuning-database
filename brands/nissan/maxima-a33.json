@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "MAXIMA A33",
+  "prestazioni": [
+    "VQ35DE (3.5L V6, 24-valve, DOHC) forced induction via Garrett GT2860RS-5 turbocharger (0.86 A/R, 60 trim compressor, 53mm inducer) with custom 3-inch stainless steel turbo manifold (JWT Engineering) and 3-inch downpipe (CSP Fabrication) paired with a Tomei 260° camshaft kit (intake/exhaust) and upgraded valve springs (BC Valve Springs) for 8,500 RPM redline capability",
+    "Full bolt-on internals: JE 9.5:1 forged pistons (2618 alloy), Eagle H-beam connecting rods (5/16\" ARP rod bolts), ACL Race Series main/rod bearings, and a Tomei Type-S harmonic balancer. Oil system upgraded with a Nismo oil pump, Cusco 5L baffled oil pan, and Setrab 50-row oil cooler with AN-10 lines",
+    "Fuel system overhaul: Walbro 450LPH in-tank fuel pump, ID1000x injectors (side-feed, 1000cc/min), AEM 340LPH external lift pump, and a custom return-style fuel rail (JWT) with -6AN feed/return lines. ECU reflash via UpRev Osiris (Version 2.0) with custom dyno-tuned maps for 400whp on 93 octane (18psi peak boost) and flex-fuel compatibility (E85 sensor via AEM X-Series)"
+  ],
+  "estetica": [
+    "Vertex Lang II widebody kit (front fenders, rear quarter panels, and rear bumper) with custom carbon fiber overfenders (Seibon) and extended wheel arches (2.5\" wider than OEM) to accommodate Work Emotion CR Kiwami wheels (18x9.5 +22 front, 18x10.5 +30 rear) with 245/40/18 and 275/35/18 Michelin Pilot Sport Cup 2 tires",
+    "Full Rocket Bunny Aero Kit (Version 2, A33-specific) including front lip, side skirts, and duckbill rear wing (carbon fiber, 3-piece adjustable) with integrated Gurney flap. Custom front canards (Voltex Type-3) and rear diffuser (Aeroflow Dynamics) with integrated LED brake light",
+    "Interior stripped and reinforced with a full Cusco bolt-in roll cage (8-point, chromoly steel) with harness bar, Recaro Pole Position seats (fixed-back, FIA-approved) wrapped in Alcantara (custom red stitching), and a Nismo 350Z steering wheel (flat-bottom, suede) with NRG quick-release hub. Custom gauge cluster (Defi Advance BF series) with oil pressure, boost, and wideband AFR (AEM X-Series) mounted in a carbon fiber dash panel (Seibon)"
+  ]
+}

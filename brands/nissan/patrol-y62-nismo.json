@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "PATROL Y62 NISMO",
+  "prestazioni": [
+    "Engine: VK56VD (5.6L V8) forced induction upgrade with a Garrett GTX5533R turbocharger (1.05 A/R turbine housing) paired with a Tomei 80mm titanium wastegate, supporting 850whp on E85 fuel with a custom Motec M150 ECU calibration for closed-loop boost control and individual cylinder fuel trims.",
+    "Drivetrain: Reinforced ZF 8HP70 8-speed automatic transmission with a Punch Powerglide 300M billet torque converter (3,800 RPM stall) and a Cusco 2-way limited-slip differential (2.6:1 final drive ratio) for optimized launch control and torque vectoring under extreme loads.",
+    "Suspension: Öhlins TTX46 coilovers with 3-way adjustable damping (compression, rebound, and high/low-speed settings) and custom NISMO-spec sway bars (28mm front, 25mm rear) paired with SuperPro polyurethane bushings for chassis rigidity, specifically tuned for the Y62’s 3,000kg+ weight distribution."
+  ],
+  "estetica": [
+    "Aerodynamics: Rocket Bunny widebody kit (Y62-specific) with carbon fiber overfenders, front splitter, and a 3-piece adjustable rear wing (Gurney flap included) designed in collaboration with TRA Kyoto for 15% downforce increase at 180km/h without sacrificing cooling airflow to the VK56VD’s dual intercoolers.",
+    "Exterior: Full 3M Matte Military Green (212) wrap with custom NISMO heritage stripe decals (red/black) and a Seibon carbon fiber hood (weight reduction: 12kg) featuring dual NACA ducts for direct intercooler airflow, paired with Work Emotion CR Kiwami wheels (22x12 +15 front, 22x13 +25 rear) in gloss black with Toyo R888R tires (295/30 front, 325/25 rear).",
+    "Interior: Recaro SP-G (NISMO edition) front seats with Schroth 6-point harnesses, a custom roll cage (TIG-welded 4130 chromoly) integrated with a Sparco Pro2000 steering wheel and a Motec C127 dash logger displaying real-time turbo pressure, AFR, and G-forces, all wrapped in Alcantara with red contrast stitching and a NISMO titanium shift knob for the ZF transmission."
+  ]
+}

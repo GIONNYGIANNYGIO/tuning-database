@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "PAO",
+  "prestazioni": [
+    "MA10ET (turbocharged 1.0L inline-4) engine rebuild with forged internals: Tomei 87mm forged pistons, Eagle H-beam connecting rods, and a billet crankshaft to handle 1.5 bar boost reliably. Pair with a Garrett GT1549 turbocharger (specifically trimmed for the MA10ET’s low-inertia characteristics) and a custom 3-inch stainless steel downpipe by HKS for optimized spool and top-end flow.",
+    "Full standalone ECU conversion using a Haltech Elite 1500 with a custom MA10ET-specific calibration map, integrating a 4-bar MAP sensor and individual coil-on-plug ignition (converted from the stock distributor) via AEM smart coils. Include a Motec PLM (Programmable Logic Module) for launch control and anti-lag, tuned for the Pao’s 5-speed manual transmission with a Nismo 2-way limited-slip differential.",
+    "Suspension overhaul with Tein Flex Z coilovers (custom valved for the Pao’s 1,500mm wheelbase and 600kg curb weight), paired with Cusco front strut tower bars and a rear 4-point subframe brace. Replace bushings with SuperPro polyurethane components (part numbers SPF0115K for front control arms, SPF0116K for rear trailing arms) and fit Whiteline adjustable rear sway bars (22mm) to mitigate the Pao’s notorious body roll."
+  ],
+  "estetica": [
+    "Full Rocket Bunny RB-PAO widebody kit (fiberglass fenders, front bumper, and rear diffuser) with custom 3M 2080 Series vinyl wrap in Nissan’s original “Pao Gray” (code 7K0) with matte black accents. Include a custom carbon fiber hood (by Seibon) with a functional NACA duct to feed the Garrett turbo’s intercooler.",
+    "OEM+ retro-modern lighting: Replace sealed beams with Hella E-Code headlights (7-inch, chrome housing) and fit JDM-spec Nissan March (K10) taillights (clear lens with smoked reflectors) to retain the Pao’s vintage silhouette while improving visibility. Add a custom LED halo ring kit by Diode Dynamics for the front turn signals.",
+    "Interior rework with Recaro SRD bucket seats (retrimmed in Nissan’s original “Pao Beige” fabric with red stitching) mounted on custom floor-mounted brackets to retain the Pao’s rear jump seats. Replace the stock steering wheel with a Nardi Classic 350mm wood-rim wheel (drilled for airbag delete) and fit a custom gauge pod by Defi (BF series) housing a 2.5-inch boost gauge, oil pressure gauge, and wideband AFR (AEM X-Series)."
+  ]
+}

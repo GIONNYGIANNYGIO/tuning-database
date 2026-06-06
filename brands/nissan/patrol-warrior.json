@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "PATROL WARRIOR",
+  "prestazioni": [
+    "Engine: Y62 5.6L VK56VD V8 (400hp stock) – Full forged internals by JE Pistons (9.0:1 compression, 95mm bore) with Manley H-beam connecting rods and ACL Race Series bearings. Garrett GTX5533R turbo (1.15 A/R, 88mm compressor) with TiAL MV-R 60mm wastegate and custom 4-inch stainless steel downpipe by Tomei.",
+    "Fuel System: Injector Dynamics ID2000x injectors (2000cc/min) paired with a Radium Engineering dual fuel pump hanger (Walbro 450LPH pumps) and AEM 380LPH in-tank pump. Full Motec M150 ECU with custom flex-fuel mapping for E85 compatibility, including a Continental ethanol content sensor and Aeromotive A1000 fuel pressure regulator.",
+    "Drivetrain: Nissan Patrol-specific Quaife ATB differential (front and rear) with 3.90:1 gearing. Southside Machine billet transfer case with 4.88:1 low-range gears. Tilton 7.25-inch twin-disc clutch (ceramic puck) and PPG 5-speed manual transmission swap with custom bellhousing adapter (converted from auto)."
+  ],
+  "estetica": [
+    "Widebody Conversion: Rocket Bunny Patrol-specific kit (Y62 chassis) with 4-inch fender flares, carbon fiber front splitter, and rear diffuser. Custom 3D-printed ABS overfenders reinforced with aluminum bracing for off-road durability.",
+    "Suspension & Wheels: Ohlins TTX46 coilovers (remote reservoirs, 3-way adjustable) with custom valving for 3-inch lift. Fuel Off-Road Trophy Wheels (17x9 +38 offset) wrapped in 37x12.5R17 Nitto Trail Grappler tires. Custom fabricated 1.5-inch extended wheel studs by ARP (1/2-20 thread pitch).",
+    "Aero & Lighting: Seibon carbon fiber hood with functional heat extractor vents. Custom aluminum roof rack by Prinsu (Y62-specific) with integrated Baja Designs Squadron Pro LED pods. Rear bumper delete with custom steel tube bumper (1.75-inch DOM tubing) and Warn Zeon 12-S winch with synthetic rope."
+  ]
+}

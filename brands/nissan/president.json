@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "PRESIDENT",
+  "prestazioni": [
+    "Engine swap to a **VK45DE** (4.5L V8, 340hp stock) with a **Garrett GTX4202R** turbocharger (850hp target), paired with a **HKS GT-SS turbo manifold** and **Tomei 272° camshafts** for high-RPM power delivery. Forged internals include **JE 9.0:1 pistons**, **Manley H-beam rods**, and a **Crower billet crankshaft** to handle boost levels up to 22 psi.",
+    "Full **Nismo Type-B** 6-speed manual transmission conversion (from the R34 GT-R) with a **PPG straight-cut gearset** and **OS Giken twin-plate clutch**. A **Nissan President-specific** **Cusco 2.5-way LSD** replaces the stock open diff for improved torque distribution.",
+    "Custom **GReddy Profec B Spec II** boost controller and **AEM Infinity 7** standalone ECU with **Nissan President VK45DE-specific** fueling upgrades, including **ID1000x injectors**, **Walbro 450LPH fuel pump**, and a **Radium Engineering fuel surge tank** to prevent fuel starvation during lateral G-forces."
+  ],
+  "estetica": [
+    "**Rocket Bunny V1** widebody kit (President-specific, not the generic S13/S14 version) with **custom carbon fiber overfenders** and **duckbill rear spoiler** for aggressive stance. Front bumper replaced with a **Seibon carbon fiber** lip and **custom mesh grille** to house **Morimoto XB LED headlights**.",
+    "**Work Meister S1 3P 18x10.5 +25** wheels (staggered setup) wrapped in **Yokohama Advan A052 275/35R18** tires, paired with **BC Racing BR coilovers** (President-specific valving) and **Cusco front strut bar** for chassis rigidity. Rear fenders rolled with a **custom 3-inch stretch** for fitment.",
+    "**Full custom interior** featuring **Recaro SRD-E** seats (retrimmed in **Nappa leather with Alcantara inserts**), **Nismo 350mm steering wheel**, and **Defi BF gauges** (oil pressure, boost, and AFR) mounted in a **custom carbon fiber A-pillar pod**. Rear seats removed and replaced with a **custom roll cage** (half-cage, **Sparco Pro 2000** tubing) for weight reduction and safety."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "PRIMERA P10",
+  "prestazioni": [
+    "SR20DE (2.0L 16V DOHC) engine swap with Tomei 264° camshafts (intake/exhaust) and Tomei Type-S valve springs for 8,500 RPM redline, paired with a Garrett GT2860RS turbo (0.64 A/R turbine, 0.86 A/R compressor) on a custom tubular manifold by HKS, pushing 320 HP at 1.2 bar on 98 RON fuel with a Haltech Elite 2500 ECU managing sequential injection and individual coil-on-plug ignition (NGK IFR7H-11S spark plugs).",
+    "Nismo 5-speed close-ratio gearbox (RS5F51A) with a Nismo 2.2L lightened flywheel and OS Giken twin-plate clutch (240mm disc), mated to a Cusco 1.5-way mechanical LSD (4.11 final drive) for aggressive acceleration out of corners.",
+    "Tein Flex Z coilovers (P10-specific valving) with 8kg/mm front and 6kg/mm rear springs, adjustable camber plates (Cusco Type-A), and Whiteline 24mm front / 22mm rear adjustable sway bars, complemented by Nismo 4-piston front brake calipers (280mm rotors) and Ferodo DS2500 pads for fade-resistant stopping power."
+  ],
+  "estetica": [
+    "Vertex Japan 'Racing' front bumper (P10-specific, carbon fiber reinforced) with integrated 7-inch Hella Rallye 1000 driving lights and a custom aluminum splitter (30mm overhang) for front-end downforce, paired with a Veilside Fortune rear wing (carbon fiber, 3-position angle adjustment) for balanced aero at high speeds.",
+    "Work Meister S1 3P wheels (16x8 +35 offset, 5x114.3 PCD) wrapped in Toyo R888R tires (225/45/16) with custom wheel spacers (15mm front, 10mm rear) for flush fitment, complemented by Nismo 'GT' side skirts and a Cusco rear diffuser (polyurethane, 3-fin design) to reduce drag and improve airflow.",
+    "Full interior overhaul with Bride Zeta III bucket seats (P10-specific mounting brackets), Takata Drift II 4-point harnesses, and a Nardi Classic 350mm steering wheel (suede, 6-bolt pattern) on a NRG quick-release hub, paired with a Defi Advance BF gauges (oil pressure, boost, wideband AFR) mounted on a custom A-pillar pod (carbon fiber)."
+  ]
+}

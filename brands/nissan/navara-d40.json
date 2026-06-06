@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "NAVARA D40",
+  "prestazioni": [
+    "YD25DDTi (2.5L turbo-diesel) engine: Garrett GT2260V turbo upgrade with billet compressor wheel (60mm inducer, 76mm exducer) and 0.82 A/R turbine housing for reduced lag and 280hp/550Nm output, paired with a custom 3.5\" stainless steel downpipe by TurboSmart with V-band clamps for optimized exhaust flow",
+    "Bosch CP3 high-pressure fuel pump (1600 bar) with 30% larger capacity injectors (Bosch 0445120204) and a custom ECU remap via ECUtek RaceROM with torque-based boost control, EGT limiting, and launch control for the 6-speed manual (FS6R31A) transmission",
+    "Ohlins TTX40 2-way adjustable coilovers with 80mm stroke and 12-position rebound/compression damping, paired with polyamide-coated spherical bearings for the front upper control arms (Nissan OEM 54501-EB70C) and rear leaf spring delete via custom 4-link setup with Watts linkage (Currie Enterprises)"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (D40-specific) with carbon fiber fenders, front splitter, and rear diffuser, featuring 30mm extended wheel arches and integrated tow hooks for off-road functionality",
+    "Voltex Type-3 rear wing (1.8m span) with adjustable carbon fiber blades (0-15° angle) and integrated third brake light, mounted on custom aluminum pedestals to clear the Navara’s bed cover",
+    "Custom front bumper delete with hand-fabricated steel winch mount (Warn Zeon 12-S) and Rigid Industries D-Series Pro LED light bar (30\" curved), paired with carbon fiber hood (Seibon) featuring functional NACA ducts for intercooler airflow"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "MOCO",
+  "prestazioni": [
+    "Forced induction upgrade via HKS GT-SS turbocharger (model GT-SS42) paired with a Tomei 4-2-1 stainless steel exhaust manifold (engine code: HR15DE, 1.5L DOHC 16V inline-4), supporting up to 0.8 bar of boost with a custom ECU reflash via Haltech Elite 1500 to optimize fueling via ID1000x injectors and a Walbro 255 lph fuel pump",
+    "Suspension overhaul using Tein Flex Z coilovers (MOCO-specific valving, part #VSQ16-G1MS2) with Cusco 22mm front and 20mm rear sway bars (chassis code: DBA-L652S) to reduce body roll during aggressive cornering, paired with Whiteline adjustable rear toe arms (part #KTA046) for precise alignment",
+    "Engine internals reinforcement with Tomei M72 forged pistons (86mm, 10.5:1 compression) and Eagle H-beam connecting rods (part #CRS54000JD), mated to a Tomei Type-M 264° camshaft set (intake/exhaust) and a N1 oil pump (part #15010-4M400) for sustained high-RPM reliability"
+  ],
+  "estetica": [
+    "Rocket Bunny V1 widebody conversion kit (MOCO-specific, part #RB-NIS-L652) with custom carbon fiber overfenders (25mm extended flares) and a Seibon carbon fiber hood (part #NIS-L652-HOOD-CF) featuring a functional NACA duct for intercooler cooling",
+    "Work Emotion CR Kiwami 15x7 +38 wheels (4x100 PCD) wrapped in Falken Azenis RT660 195/50R15 tires, paired with D2 Racing 2-piston front brake calipers (part #D2.NIS.01) and Project Mu 970 ceramic brake pads (part #PM970) for improved stopping power",
+    "Custom JDM-style livery featuring a full-body vinyl wrap in Nissan Heritage Racing Green (code #KH3) with gold accents, including a custom front lip spoiler by C-West (part #CW-NIS-L652-FL) and a rear diffuser by Garage Vary (part #GV-NIS-L652-RD) for aerodynamic balance"
+  ]
+}

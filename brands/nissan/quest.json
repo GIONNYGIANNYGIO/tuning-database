@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "QUEST",
+  "prestazioni": [
+    "VQ35DE (3.5L V6) engine swap with a custom forced-induction setup using a Garrett GT3582R turbocharger (0.82 A/R turbine housing) paired with a Tomei 272°/272° camshaft upgrade, reinforced with ACL Race Series main and rod bearings, and a custom 3-inch stainless steel exhaust system featuring a Burns Stainless 4-2-1 header and a custom 3.5-inch MagnaFlow Competition Series muffler for optimized scavenging and backpressure reduction",
+    "Full drivetrain reinforcement including a Spec Stage 3+ clutch with a billet steel flywheel, a Cusco Type-RS limited-slip differential (4.375 final drive ratio), and a Driveshaft Shop aluminum one-piece driveshaft with upgraded CV joints and axles from GSP Driveline to handle increased torque loads",
+    "Custom ECU tuning via a Haltech Elite 2500 standalone ECU with a flex-fuel sensor, integrated with a custom intercooler setup using a PWR 450mm x 220mm x 100mm core and a dual Bosch 0280158101 1000cc/min fuel injectors, paired with a Walbro 450 LPH in-tank fuel pump and a Radium Engineering fuel surge tank for consistent fuel delivery under high-G cornering"
+  ],
+  "estetica": [
+    "Full Rocket Bunny V3 widebody conversion kit (Quest-specific, not generic) with custom carbon fiber overfenders, front splitter, and rear diffuser, paired with a custom 3M Matte Graphite vinyl wrap with gloss black accents on the roof and pillars for a stealth aggressive look",
+    "Custom interior roll cage designed by Custom Cages UK, featuring a 6-point bolt-in structure with integrated harness bars, wrapped in Alcantara with red stitching, paired with Bride Zeta III bucket seats and Schroth Profi II 6-point harnesses for driver support during high-speed maneuvers",
+    "Custom lighting package including Hella Rallye 3000 Superwhite driving lamps with custom CNC-machined aluminum mounts, integrated with a Diode Dynamics SS3 Pro LED fog light kit, and a custom rear light setup using Osram LED strips with sequential turn signals, all controlled via a custom CAN bus module for OEM-like integration"
+  ]
+}

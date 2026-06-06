@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "GT-R GT3 NISMO",
+  "prestazioni": [
+    "VR38DETT 3.8L twin-turbo V6 engine recalibrated with a Nismo GT3-spec Bosch Motorsport MS 5.1 ECU, featuring race-grade fuel maps optimized for 102-octane fuel and a 14.0:1 compression ratio, paired with a Nismo GT3 dry-sump oil system (Nismo part #15710-23U00) to prevent oil starvation during sustained 7,000 RPM+ operation",
+    "Garrett GT35R turbochargers (Nismo GT3-spec, part #14411-23U00) with billet compressor wheels, 0.82 A/R turbine housings, and TiAL Sport 44mm wastegates (Nismo-tuned boost curve peaking at 2.1 bar absolute pressure), feeding a Nismo GT3-spec air-to-water intercooler (Nismo part #20400-23U00) with a 12-row core and integrated water spray system for track endurance",
+    "Nismo GT3-spec 6-speed sequential transaxle (Hewland NLT-600, Nismo part #32000-23U00) with a Nismo GT3 carbon-fiber driveshaft (Nismo part #34010-23U00), AP Racing 6-piston front/4-piston rear brake calipers (Nismo part #40010-23U00/41010-23U00) with 380mm front and 355mm rear carbon-ceramic rotors (Brembo GT3-spec), and a Nismo GT3 adjustable limited-slip differential (Nismo part #38420-23U00) with 45% preload for optimal cornering traction"
+  ],
+  "estetica": [
+    "Nismo GT3 carbon-fiber front splitter (Nismo part #62000-23U00) with integrated dive planes and FIA-approved mounting points, paired with a Nismo GT3 carbon-fiber rear diffuser (Nismo part #63000-23U00) featuring 5 vertical strakes and a central Gurney flap for high-speed stability",
+    "Nismo GT3 carbon-fiber roof panel (Nismo part #65000-23U00) with integrated air extraction vents and a weight reduction of 3.2 kg over the OEM aluminum roof, combined with a Nismo GT3 carbon-fiber rear wing (Nismo part #64000-23U00) with adjustable dual-element design and 3-position angle settings (12°, 18°, 24°) for varying track conditions",
+    "Nismo GT3-spec OMP carbon-fiber racing seats (Nismo part #81000-23U00) with FIA 8862-2009 certification, Schroth 6-point harnesses (Nismo part #82000-23U00), and a Nismo GT3 carbon-fiber steering wheel (Nismo part #45402-23U00) featuring a 320mm diameter, Alcantara grip, and integrated Bosch Motorsport data acquisition buttons"
+  ]
+}

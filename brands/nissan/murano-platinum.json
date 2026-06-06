@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "MURANO PLATINUM",
+  "prestazioni": [
+    "VQ35DE (3.5L V6, 24-valve, DOHC) forced induction upgrade via Garrett GT3076R turbocharger (0.82 A/R, ball-bearing center cartridge) with custom 3-inch stainless steel downpipe and HKS SSQV4 blow-off valve to prevent compressor surge under aggressive throttle lifts",
+    "Full Motordyne Engineering 3.5L VQ35DE long-tube header system (equal-length, 1.75-inch primaries) paired with a custom 3-inch stainless steel exhaust featuring Borla Pro XS mufflers (straight-through, 304 stainless, 4-inch rolled-edge tips) for optimized scavenging and 300+ cell catalytic converters for emissions compliance",
+    "ECU reflash via UpRev Osiris tuner (VQ35DE-specific, 90-octane base map) with custom dyno-tuned fueling via Injector Dynamics ID1000 fuel injectors (1000cc/min, flow-matched) and Walbro 450 LPH in-tank fuel pump, supplemented by a Radium Engineering dual-catch can system to mitigate oil vapor ingestion under boost"
+  ],
+  "estetica": [
+    "Liberty Walk LB-WORKS Murano-specific widebody kit (front fenders, rear quarter panels, and rear bumper cover) with custom carbon fiber overfenders (pre-preg autoclave, 2x2 twill weave) and extended polyurethane rocker panels for a 3-inch wider track",
+    "Custom 22x10.5 ET+12 front and 22x12.5 ET+15 rear forged aluminum wheels (Rotiform LAS-R, 5x114.3 PCD) wrapped in Michelin Pilot Sport Cup 2 tires (275/35/22 front, 315/30/22 rear) with KW Variant 3 coilovers (rebound-adjustable, 8kg/mm front/10kg/mm rear springs) for aggressive stance and cornering performance",
+    "Seibon Carbon fiber hood (VQ35DE-specific, dry carbon, 50% weight reduction) with integrated NACA ducts for brake cooling, paired with a custom rear diffuser (3D-printed ABS, 3-piece design) and a Vorsteiner V-FF102 front lip spoiler (carbon fiber, pre-preg) for aerodynamic balance at high speeds"
+  ]
+}

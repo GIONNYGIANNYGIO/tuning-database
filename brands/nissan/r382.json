@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "R382",
+  "prestazioni": [
+    "Engine: Replace the original GRX-3 6.0L V12 (code: *GR8*) with a fully built *GR8-B* variant featuring forged Mahle pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft. Pair with a custom dry-sump oiling system by Peterson Fluid Systems to handle 10,000+ RPM reliability.",
+    "Forced Induction: Twin Garrett GTX5533R Gen II turbos (84mm inducer, 1.15 A/R turbine housings) with TiAL MV-R 60mm wastegates and custom 4-inch titanium downpipes by Burns Stainless. Intercooling via a dual-core PWR bar-and-plate intercooler with 4.5-inch inlet/outlet piping and integrated water-methanol injection (AEM 3400psi pump).",
+    "Drivetrain: Reinforced 5-speed transaxle (Nissan *R382-5MT*) with a Quaife ATB differential, upgraded with a Tilton triple-plate carbon clutch and a custom 3.7:1 final drive ratio. Half-shafts replaced with chromoly units from EMCO Gears, paired with a lightweight flywheel by Fidanza (12.5 lbs)."
+  ],
+  "estetica": [
+    "Body: Full carbon-fiber body kit by *Kaminari Factory* (R382-specific), including a 3-piece front splitter with integrated NACA ducts, side skirts with air curtains, and a massive 5-element rear wing (adjustable via Moton hydraulic actuators). Replace all glass with polycarbonate panels by *Sparco* (0.5-inch thick, UV-resistant).",
+    "Aero: Custom underbody diffuser by *AeroTech Designs* (R382-exclusive), featuring 7 strakes and a central Gurney flap. Front canards by *Voltex* (Type-3, 3D-printed carbon) and a rear diffuser-mounted *DTM-style* swan-neck wing mount. Full flat floor with integrated vortex generators by *RML Group*.",
+    "Interior: Full *Recaro Pole Position* seats (carbon-Kevlar shell, FIA 8862-2009 certified) with 6-point Schroth harnesses. Custom roll cage by *Sparco* (T45 steel, 2.5-inch diameter) with integrated fire suppression system (Lifeline Zero 360). Dashboard replaced with a *Motec C187* digital dash and *AiM MXL2* data logger."
+  ]
+}

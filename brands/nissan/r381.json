@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "R381",
+  "prestazioni": [
+    "Replace the original GR8-180 (3.0L V12) engine with a fully built GRX-3 (4.5L V12) featuring forged Mahle pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from JE Pistons. Pair with a custom dry-sump oiling system by Peterson Fluid Systems to handle sustained 10,000+ RPM operation.",
+    "Install a bespoke turbocharging system using twin Garrett GTX5533R Gen II turbos (84mm inducer, 1.15 A/R turbine housings) with TiAL MV-R 44mm wastegates and a custom intercooler setup by PWR (Australia) with dual 4.5\" core thickness and 1000+ CFM airflow capacity. Boost targets set to 2.2 bar (32 psi) via a Motec M150 ECU with closed-loop lambda control.",
+    "Upgrade the original 5-speed Hewland LG500 transaxle to a Hewland DGZ 6-speed sequential with a magnesium bellhousing, AP Racing 5.5\" triple-plate carbon clutch, and a Quaife ATB differential (85% lock). Pair with a Tilton hydraulic clutch master cylinder and a custom billet aluminum shift linkage by H-pattern specialist Jerico."
+  ],
+  "estetica": [
+    "Replace the original fiberglass bodywork with a full carbon-fiber replica shell by AutoClone (Japan), featuring a 3D-scanned R381 mold with integrated NACA ducts for brake cooling and a rear diffuser with Gurney flaps for aerodynamic stability at 200+ mph.",
+    "Install a custom widebody conversion kit by Veilside (R381-specific, not generic FD3S) with extended front fenders (2.5\" wider per side), rear quarter panels (3.5\" wider per side), and a one-piece carbon-fiber front splitter with adjustable dive planes by APR Performance.",
+    "Retrofit the interior with a full FIA-spec roll cage by Custom Cages (UK), featuring 25CrMo4 steel tubing (45mm diameter, 2.5mm wall thickness) and integrated fire suppression system by Lifeline. Replace the original seats with carbon-fiber Recaro Pole Position II buckets (FIA 8862-2009 certified) and a MOMO Prototipo steering wheel with a quick-release hub."
+  ]
+}

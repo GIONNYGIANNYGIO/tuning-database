@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "PRAIRIE",
+  "prestazioni": [
+    "Engine swap to a Nissan SR20DET (red-top, 205hp variant) with a custom bellhousing adapter for the Prairie's M10 transmission, utilizing a Garrett GT2860RS turbocharger, Tomei 264° camshafts, and a Nismo 555cc fuel injector kit for precise fuel delivery at 1.5 bar boost",
+    "Full custom 3-inch stainless steel exhaust system by HKS Hi-Power, featuring a 4-2-1 header design with equal-length primaries and a straight-pipe setup terminating in a GReddy SP2 muffler for optimal scavenging and sound tuning",
+    "Custom ECU remapping via Haltech Elite 1500 standalone unit with traction control, launch control, and individual cylinder tuning, paired with a Nissan Prairie-specific wiring harness by Wireworks to retain OEM diagnostics and sensor integration"
+  ],
+  "estetica": [
+    "Rocket Bunny V1 widebody kit (M10 chassis-specific) with custom carbon fiber overfenders, front splitter, and rear diffuser, paired with a custom 2-inch extended wheelbase conversion for aggressive stance and tire clearance",
+    "Custom 17x9-inch Work Meister S1 3P wheels in a +20 offset, wrapped in 225/45R17 Toyo R888R semi-slick tires, with custom hubcentric spacers to fit the Prairie's 5x114.3 bolt pattern and clear the widebody fenders",
+    "Full custom interior by Bride with Zeta IV bucket seats (M10-specific mounting brackets), a custom roll cage by Cusco (bolt-in, 6-point design), and a Momo Prototipo steering wheel with a NRG quick-release hub for improved driver ergonomics"
+  ]
+}

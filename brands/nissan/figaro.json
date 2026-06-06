@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "FIGARO",
+  "prestazioni": [
+    "MA10ET (1.0L turbocharged inline-4) forced-induction upgrade via Garrett GT12 turbocharger (52mm compressor wheel, 0.48 A/R turbine housing) paired with HKS Super Power Flow SSQV blow-off valve and custom 3\" stainless steel downpipe by Tomei for reduced backpressure",
+    "Engine internals reinforcement with forged Mahle pistons (8.5:1 compression ratio) and Eagle H-beam connecting rods, mated to a Tomei 264° duration camshaft (11.5mm lift) and Supertech valve springs/retainers for high-RPM stability up to 8,500 RPM",
+    "Fuel system overhaul with Nismo 370cc/min high-impedance injectors, Walbro 255 LPH in-tank fuel pump, and AEM F/IC Pro standalone ECU (MA10ET-specific base map) with dual Bosch 0280158002 wideband O2 sensors for closed-loop AFR targeting 11.8:1 under boost"
+  ],
+  "estetica": [
+    "Liberty Walk LB Works Figaro-specific widebody kit (FRP construction, 50mm extended fenders) with custom carbon fiber front splitter and rear diffuser by Seibon, retaining the original pop-up headlight design",
+    "OEM+ interior refresh with Bride Ergo II bucket seats (Nissan Figaro-specific mounting brackets) upholstered in Nismo Alcantara with red stitching, paired with a Nardi Classic 350mm steering wheel and custom Momo shift knob (MA10ET gearbox pattern)",
+    "Retro-futuristic lighting upgrade with Hella 500 Series clear-lens headlights (H4 bulb conversion), Philips D2S 35W HID projectors, and custom LED taillight housings by VLED (sequential turn signals, smoked lenses) with OEM Figaro badge integration"
+  ]
+}

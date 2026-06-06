@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "R390 GT1",
+  "prestazioni": [
+    "VRH35L 3.5L twin-turbo V8 engine: Replace the stock IHI turbochargers with Garrett GT4202R ball-bearing turbos (84mm inducer, 1.15 A/R turbine housing) paired with custom 42mm wastegates and a TiAL MV-R 50mm blow-off valve to handle the increased boost pressure (targeting 2.2 bar absolute) while maintaining the VRH35L's 7,000 RPM redline.",
+    "VRH35L fuel system: Upgrade to a full Motec M150 ECU with dual Bosch Motorsport 0280158888 1,200cc/min high-impedance injectors and a Radium Engineering dual-catch can setup to manage the increased fuel demand under sustained 800+ HP loads, while retaining the stock dry-sump oiling system with an additional Peterson Fluid Systems external oil cooler (part #460-001).",
+    "Chassis reinforcement: Install a full T45 steel roll cage by Safety Devices (part #SD-R390GT1) with integrated gussets at the A-pillar and rear shock towers, paired with a custom carbon-fiber driveshaft tunnel reinforcement plate (3mm thick) by RML Group to eliminate torsional flex under 1.8G lateral loads, while retaining the stock carbon monocoque structure."
+  ],
+  "estetica": [
+    "Replace the stock front splitter with a carbon-fiber 'Le Mans-spec' extended splitter by Nismo (part #22400-00U00) featuring integrated dive planes and a 3D-printed ABS central section for improved high-speed stability, paired with a custom 3M 1080 vinyl wrap in 'Nismo GT-R LM Victory Blue' (color code: B42) with matte black accents on the wheel arches.",
+    "Install a full carbon-fiber rear diffuser by Tomita Auto (part #TA-R390-DIFF) with adjustable Gurney flaps (0-15mm range) and integrated titanium exhaust outlets for the custom 3.5-inch Inconel 625 equal-length headers by Akrapovic (part #NIS-R390-EQ), replacing the stock 2.75-inch stainless setup for improved thermal management.",
+    "Upgrade the stock OZ Racing 18-inch wheels to a set of BBS LM-R II 18x12 (front) and 18x13 (rear) forged magnesium wheels (part #LM-RII-18120-5/18130-5) with custom 5x114.3 PCD adapters, wrapped in Michelin Pilot Sport Cup 2 R tires (345/645-R18 front, 365/680-R18 rear) for improved mechanical grip under 1.5G braking forces."
+  ]
+}

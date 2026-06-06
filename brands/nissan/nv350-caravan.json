@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "NV350 CARAVAN",
+  "prestazioni": [
+    "Engine swap to a **Nissan YD25DDTi (QR25DE-based hybrid build)** with forged internals: Manley 87mm forged pistons, Eagle H-beam connecting rods, and a billet crankshaft from **JE Pistons**, paired with a **Garrett GTX3582R turbocharger** (1.06 A/R turbine housing) and **Tial MV-R 44mm wastegate** for 35 psi peak boost. Custom **Haltech Elite 2500 ECU** with flex-fuel mapping for E85 compatibility, feeding **ID1000x injectors** and a **Walbro 450 LPH fuel pump**.",
+    "Full **Nissan VR38DETT-derived drivetrain reinforcement**: **PPG Stage 3+ gearset** in the NV350’s **FS6R31A 6-speed manual transmission** (converted from the stock automatic), **OS Giken Super Lock LSD**, and **Nissan GT-R R35 dual-clutch conversion** using a **Tilton 7.25\" twin-disc clutch** and **PST carbon driveshaft**.",
+    "Chassis-specific **HKS Hipermax IV GT coilovers** (NV350-specific valving) with **Eibach ERS 1400N/mm helper springs**, **Cusco 2-point strut tower brace**, and **Nismo 4-point rear subframe brace**. Braking via **AP Racing 6-piston CP9430 calipers** (front) and **4-piston CP9431 calipers** (rear) with **DBA 5000 Series rotors** (356mm front, 330mm rear), paired with **Hawk HT-10 brake pads** and **Goodridge G-Stop braided lines**."
+  ],
+  "estetica": [
+    "**Rocket Bunny V3 widebody kit** (NV350-specific, 100mm extended fenders) with **Seibon carbon fiber hood** (custom venting for intercooler clearance) and **Voltex Type-5 rear wing** (3D-printed mounts for NV350 roof curvature). Full **3M Matte Military Green (212)** wrap with **Avery Dennison Gloss Black** accents on the grille and lower bumper.",
+    "**Work Emotion CR Kiwami** 18x9.5 +30 front and 18x10.5 +35 rear wheels (NV350-specific offsets) with **Toyo R888R 265/35/18 and 295/30/18 tires**, paired with **D2 Racing extended wheel studs** and **Muteki SR48 lug nuts**. **Custom fabricated aluminum fender flares** (riveted, not bolt-on) with **LED turn signals** integrated into the side markers.",
+    "**Interior overhaul**: **Recaro Pole Position seats** (NV350-specific mounting brackets) with **Schroth 6-point harnesses**, **Nismo GT-R R35 steering wheel** (NRG quick-release hub), and **Defi BF Advance gauges** (boost, oil temp, fuel pressure) mounted in a **custom carbon fiber A-pillar pod**. **Sound deadening via Kilmat 80mil butyl sheets** and **Focal Utopia Be 165 WX speakers** with a **JL Audio 10TW3 subwoofer** in a custom enclosure replacing the rear bench."
+  ]
+}

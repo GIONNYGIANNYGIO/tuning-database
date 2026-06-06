@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "PULSAR VZ-R",
+  "prestazioni": [
+    "Engine: SR16VE (NEO) with forged internals including Tomei 87mm forged pistons, Eagle H-beam connecting rods, and ACL race bearings to handle 1.3-bar boost from a Garrett GT2860RS turbocharger on a custom tubular manifold by HKS. Paired with a Tomei 264° camshaft kit and Tomei Type-S valve springs for high-RPM stability up to 9,500 RPM.",
+    "Fuel System: Upgraded to a Walbro 450LPH in-tank fuel pump, Nismo 550cc/min injectors, and a Sard 1,000cc/min top-feed fuel rail with an AEM F/IC Pro standalone ECU for precise fuel mapping and ignition timing control under forced induction.",
+    "Drivetrain & Handling: OS Giken Super Lock LSD with 2.5-way differential for aggressive torque distribution, paired with a N1-spec 6-speed manual transmission reinforced with a PPG straight-cut gear set. Suspension features Ohlins Road & Track DFV coilovers with 8kg/mm front and 7kg/mm rear springs, Cusco 22mm front and 19mm rear sway bars, and Nismo 4-piston front brake calipers with 280mm slotted rotors."
+  ],
+  "estetica": [
+    "Exterior: Rocket Bunny V1 widebody kit (Pulsar N14-specific) with carbon fiber front fenders, rear quarter panels, and a duckbill rear spoiler. Front bumper replaced with a C-West N1-style lip, and rear diffuser from Veilside Fortune. Painted in Nissan Super Red (code: BJ5) with a matte black roof and gold Work Meister S1 3P 15x9.5 +15 wheels wrapped in Toyo R888R 225/45/15 tires.",
+    "Interior: Bride Zeta III bucket seats with Schroth 4-point harnesses, Nismo 350mm steering wheel with a quick-release hub, and a custom roll cage by AutoPower bolted to the chassis with triangulated rear supports. Gauges include a Defi Advance BF series boost, oil pressure, and water temp setup, along with a GReddy Profec B Spec II boost controller mounted on the A-pillar.",
+    "Aero & Lighting: Seibon carbon fiber hood with a 30mm vent for heat extraction, custom aluminum radiator support, and Hella Micro DE fog lights integrated into the front bumper. Rear features a custom 3-inch exhaust exit with a Tomei Ti Titanium muffler and a Veilside-style rear diffuser with integrated LED brake light."
+  ]
+}

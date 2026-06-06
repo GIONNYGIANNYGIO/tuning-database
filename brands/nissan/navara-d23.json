@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "NAVARA D23",
+  "prestazioni": [
+    "Engine: YS23DDTT (2.3L twin-turbo diesel) - Full Garrett GT2260S turbo upgrade with billet compressor wheel, 0.63 A/R turbine housing, and 3D-printed titanium wastegate actuator for 350hp/550Nm (stock: 190hp/450Nm). Requires custom ECU remap via Haltech Elite 2500 with flex-fuel sensor integration for E85 compatibility and Bosch 0280158802 1000cc injectors.",
+    "Drivetrain: ZF 8HP70 8-speed automatic transmission reinforcement with Pecan Performance billet torque converter (3600 RPM stall) and upgraded clutch pack with Raybestos Stage 3 friction discs. Front and rear differentials replaced with Nismo LSD units (2.8:1 ratio) and ARB RD110 front diff cover for extreme off-road durability.",
+    "Suspension: Full Öhlins TTX46 coilover kit with 24-way compression/rebound damping, 50mm remote reservoirs, and 300mm extended travel for Baja 1000-spec desert racing. Polyurethane bushings replaced with SuperPro 63mm heavy-duty units at all control arms, and rear leaf springs upgraded to Old Man Emu BP-51 leaf packs with 3-inch lift and progressive rate valving."
+  ],
+  "estetica": [
+    "Widebody conversion using Rocket Bunny Navara D23-specific kit (Pandem Design) with carbon fiber fenders (2.5-inch flares), aluminum inner fender liners, and custom 3D-printed ABS plastic rear quarter panels. Kit includes front splitter with Gurney flap and rear diffuser with integrated tow hooks (powder-coated in Nissan Racing Red #KH3S).",
+    "Custom front bumper replacement with ARB Summit bumper (winch-ready) modified with integrated Baja Designs Squadron Pro LED light pods (50,000 lumens) and Warn Zeon 12-S Platinum winch (12,000lb capacity). Rear bumper replaced with C4 Fab rear bumper with swing-out tire carrier and dual RotopaX 5-gallon fuel/water cans.",
+    "Interior: Full Recaro Pole Position seats (cloth/Alcantara) with Schroth Profi II 6-point harnesses, custom roll cage by Custom Cages UK (T45 steel, 3.2mm wall thickness) with integrated fire suppression system (Lifeline Zero 360). Dashboard replaced with AIM MXS Strada 1.2 data logger and Motec C127 dash, with all interior plastics coated in Line-X XS-350 for durability."
+  ]
+}

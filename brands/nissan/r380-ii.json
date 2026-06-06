@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "R380 II",
+  "prestazioni": [
+    "Replace the original GR8-180 (3.0L SOHC inline-6) with a fully built GR8-180 stroked to 3.5L using a custom billet crankshaft from Tomei Powered (88mm stroke) paired with forged JE Pistons (12.5:1 compression) and Carrillo H-beam connecting rods for sustained 9,500 RPM reliability under endurance racing conditions.",
+    "Install a custom turbocharging system featuring a Garrett GTX4202R turbocharger (86mm compressor wheel, .82 A/R turbine housing) with a custom 3D-printed titanium exhaust manifold by HKS, paired with a GReddy Profec B Spec II standalone ECU and a custom intercooler setup using a PWR 4.5-core front-mount intercooler with 3-inch aluminum piping and TiAL MV-R 50mm wastegate.",
+    "Upgrade the original 5-speed transaxle to a Holinger RD6 sequential gearbox with a custom bellhousing adapter plate by OS Giken, paired with a Tilton triple-plate carbon clutch and a Quaife ATB differential (4.11 final drive ratio) for optimized power delivery on high-speed circuits like Fuji Speedway."
+  ],
+  "estetica": [
+    "Install a full carbon fiber body kit by Veilside (R380 II-specific design) featuring a custom front splitter with integrated NACA ducts for brake cooling, side skirts with air curtains for aerodynamic efficiency, and a rear diffuser with active Gurney flap adjustment via a MoTeC ADL3 dash-controlled servo motor.",
+    "Replace the original steel roll cage with a custom TIG-welded chrome-moly (4130) roll cage by Custom Cages UK, featuring integrated fire suppression system (Lifeline Zero 360) and a bespoke carbon fiber dash panel housing a Motec C127 digital dash with integrated data logging for lap-time optimization.",
+    "Upgrade the original 15-inch magnesium wheels to a set of custom BBS RS-GT II wheels (16x10 front, 16x12 rear) wrapped in Pirelli P Zero Trofeo R tires (245/40/16 front, 315/35/16 rear), paired with AP Racing CP8370-4 calipers (6-piston front, 4-piston rear) and 380mm two-piece rotors with custom titanium hats for weight reduction."
+  ]
+}

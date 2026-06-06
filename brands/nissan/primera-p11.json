@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "PRIMERA P11",
+  "prestazioni": [
+    "SR20DE (2.0L NA) or SR20DET (2.0L Turbo) engine swap with forged internals: JE 87mm forged pistons (9.5:1 CR for NA, 8.5:1 for turbo), Eagle H-beam connecting rods, ACL Race Series bearings, and Tomei 264° camshafts (intake/exhaust) with adjustable cam gears (HKS or Tomei) for optimized valve timing. Forced induction builds should use a Garrett GT2860RS turbo (0.86 A/R) with a custom 3-inch stainless steel exhaust manifold (JUN or Tomei) and a front-mount intercooler (GReddy Type-S or HKS L-Spec).",
+    "Full bolt-on suspension overhaul: Ohlins Road & Track DFV coilovers (P11-specific valving) with adjustable top mounts (SuperPro polyurethane), Whiteline adjustable rear sway bar (24mm) and front sway bar (22mm), and polybushings (SuperPro) for subframe and control arms. Braking upgraded to Endless CC-R6 rotors (280mm front, 260mm rear) with AP Racing CP5556 calipers (4-pot front, 2-pot rear) and Ferodo DS2500 pads.",
+    "ECU reflash via Nistune Type 3 board (P11-specific) with custom ROM for MAF-based fueling (SR20DE) or MAP-based (SR20DET). Supporting mods include a Walbro 255LPH fuel pump, Nismo 550cc injectors (or ID1000 for high-boost), and a Tomei Type-S fuel pressure regulator. Ignition system upgraded with HKS Twin Power spark plugs (BKR7EIX for NA, BKR8EIX for turbo) and a Splitfire coil pack conversion."
+  ],
+  "estetica": [
+    "Vertex Lang II widebody kit (P11-specific, 30mm front/20mm rear fender flares) with custom carbon fiber front splitter (Seibon or VIS Racing) and a custom 2-piece rear diffuser (RP Carbon). Rear wing upgrade to a Veilside Fortune II replica (P11-specific mounting points) or a custom 3D-printed duckbill spoiler (ABS plastic, 150mm height).",
+    "OEM+ JDM styling: Nissan P12 Primera front bumper conversion (with integrated fog lights) and P10 Silvia rear bumper (shaved and repainted). Headlights upgraded to DEPO JDM-spec projectors (HID-compatible) with custom LED halo rings (Morimoto XB35 bulbs) and smoked lenses. Taillights replaced with custom sequential LED units (Diode Dynamics) in a clear-lens housing.",
+    "Interior stripped and reinforced with a full Cusco bolt-in roll cage (6-point, P11-specific) and Recaro SRD-E seats (JDM-spec, 8-way adjustable) mounted on custom aluminum brackets. Steering wheel replaced with a Nardi Classic 350mm (MOMO quick-release hub) and shift knob upgraded to a weighted aluminum short shifter (JUN or HKS). Full sound deadening (Dynamat Xtreme) and custom Alcantara headliner (Eurotrim)."
+  ]
+}

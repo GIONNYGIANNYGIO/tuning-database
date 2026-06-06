@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "MICRA K12 SR",
+  "prestazioni": [
+    "Engine: HR16DE (1.6L naturally aspirated, 110hp stock) – Forced induction via Garrett GT2860RS turbocharger (0.86 A/R, 60mm compressor inducer) with custom 3-inch stainless steel turbo manifold (fabricated by Tomei Powered), supporting 220hp at 1.5 bar boost with 98 RON fuel. Requires upgraded fuel system: Walbro 450LPH in-tank fuel pump, 850cc/min ID1000 injectors (Injector Dynamics), and AEM 320LPH external lift pump for consistent flow.",
+    "Drivetrain: OS Giken Super Lock LSD (2-way, 4.625 final drive ratio) paired with Nismo 5-speed close-ratio gearbox (1st: 3.062, 2nd: 1.947, 3rd: 1.379, 4th: 1.030, 5th: 0.838) and Nismo carbon fiber driveshaft to reduce rotational mass. Clutch: Exedy Hyper Twin (240mm, 6-puck cerametallic) with Nismo lightweight flywheel (4.5kg).",
+    "Suspension & Handling: Ohlins Road & Track DFV coilovers (K12-specific valving, 30-way adjustable damping, 20mm front/15mm rear drop) with SuperPro polybushings (front lower arms, rear trailing arms) and Cusco 22mm front/19mm rear adjustable sway bars. Brakes: Endless 6-pot front calipers (330mm two-piece rotors, Type-R compound pads) and 4-pot rear calipers (294mm rotors) with Motul RBF660 brake fluid."
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny V1 K12 widebody kit (carbon fiber fenders, front/rear bumpers, and ducktail spoiler) with custom 3D-printed ABS diffuser (integrated 3-inch exhaust cutouts). Front splitter: Seibon carbon fiber (35mm overhang, 20mm canards). Rear wing: Voltex Type-3 (1,200mm width, 250mm chord, 30mm gurney flap).",
+    "Exterior: Full respray in Nissan ‘Sunset Drift’ pearl (3-stage, PPG D8188 base) with custom vinyl overlay (3M 1080 ‘Carbon Fiber’ on roof, mirrors, and diffuser). Lighting: Depo Racing JDM-style LED taillights (sequential turn signals) and Lamin-X ‘Smoked’ headlight covers. Wheels: Work Emotion CR Kiwami (17x8.5 +35 ET, 5x100 PCD) with Toyo R888R tires (225/40/17).",
+    "Interior: Bride Zeta III bucket seats (fixed-back, FIA-approved) with Takata 4-point harnesses (Schroth Profi II 6-point for track use). Steering wheel: NRG Innovations ‘Stealth’ (330mm, suede, quick-release). Gauges: Defi Advance BF (oil pressure, boost, wideband AFR) in custom A-pillar pod (3D-printed, carbon fiber finish). Roll cage: Custom 8-point bolt-in cage (T45 steel, 1.75x0.120 wall thickness) by Custom Cages UK."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "CEDRIC CUSTOM 5 SPECIAL",
+  "prestazioni": [
+    "Engine swap to a Nissan VH45DE (4.5L V8, 276hp stock) with a custom billet crankshaft from Tomei and forged JE Pistons (11.5:1 compression) for high-RPM reliability, paired with a Garrett GTX4202R turbocharger (1.28 A/R turbine housing) and a custom 4-inch stainless steel exhaust system by HKS Hi-Power with 304-grade mandrel bends and a 3.5-inch center muffler for optimal flow",
+    "Full standalone Haltech Elite 2500 ECU with custom wiring harness by Wireworks, integrated with a Link G4+ CAN Lambda module for closed-loop AFR control, and a custom 80mm throttle body from Tomei with a billet aluminum intake manifold designed specifically for the VH45DE’s plenum spacing",
+    "Ohlins Road & Track coilovers (Y51200-01) with custom valving for the Cedric’s Y31 chassis, paired with polyurethane bushings from SuperPro (part #SPF0116K) for the front control arms and a Cusco 2-point strut tower brace (part #601 540 A) to reduce chassis flex under high-G cornering"
+  ],
+  "estetica": [
+    "Full Rocket Bunny Y31 Cedric-specific widebody kit (PB-Y31-01) with carbon fiber overfenders, custom front bumper lip, and a rear diffuser integrated into the OEM rear valence, finished in Nissan’s original ‘Dark Gray Metallic’ (KH3) with a satin clear coat by PPG",
+    "Custom 18x9.5 +15 and 18x10.5 +25 Work Meister S1 3P wheels in a staggered fitment, wrapped in 245/40R18 and 275/35R18 Michelin Pilot Sport Cup 2 tires, with custom wheel spacers (15mm front, 20mm rear) by 5Zigen to fill the arches",
+    "Full interior retrim in black Alcantara with red stitching by Status Racing, including a custom dashboard overlay in carbon fiber (matching the OEM Cedric design language), a Nardi Classic 380mm steering wheel with a quick-release hub, and a custom roll cage by AutoPower (bolt-in, 6-point) painted in Nissan’s ‘Sunset Orange’ (3U5) for a subtle contrast"
+  ]
+}

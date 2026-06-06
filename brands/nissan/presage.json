@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "PRESAGE",
+  "prestazioni": [
+    "Engine swap to VQ35DE (3.5L V6, 280hp stock) with a custom forced-induction setup using a Garrett GT3076R turbocharger (0.86 A/R, 62mm inducer) paired with a Tomei 272° camshaft kit (intake/exhaust) and a Nismo 74mm throttle body for optimized airflow. Supporting mods include a custom 3.5-inch stainless steel exhaust system with a Tomei 4-2-1 header and a GReddy Profec B Spec II boost controller for precise turbo management.",
+    "Full suspension overhaul using Ohlins Road & Track DFV coilovers (custom valved for the Presage's U30 chassis) with polyurethane bushings from SuperPro (part #SPF0115K) and a Nismo front strut tower bar (part #54600-4M400) to reduce chassis flex. Rear sway bar upgraded to a Whiteline 22mm adjustable unit (part #BNR63XZ) for improved cornering stability.",
+    "Fuel system upgrade with a Walbro 450LPH in-tank fuel pump (part #F90000267), Injector Dynamics ID1000 fuel injectors (1000cc/min), and a custom ECU reflash via Haltech Elite 2500 standalone ECU with Nissan-specific CAN bus integration for seamless OEM gauge functionality. Additional cooling via a Koyorad aluminum radiator (part #KZE-0206) and a Setrab 50-row oil cooler (part #50-34002)."
+  ],
+  "estetica": [
+    "Full Rocket Bunny Presage-specific widebody kit (part #RB-WB-U30) with custom carbon fiber front fenders, rear quarter panels, and a duckbill rear spoiler. Front bumper replaced with a Seibon carbon fiber unit (part #CF-NIS-U30-FB) and paired with a custom 3D-printed lower splitter from a boutique JDM tuner, Shine Auto Project.",
+    "OEM+ interior refresh with Recaro SRD seats (part #SRD-900) wrapped in custom Alcantara and red stitching, paired with a Nismo R34 GT-R-style steering wheel (part #28150-4M400) and a custom gauge cluster overlay from Defi (part #DF11201) for oil pressure, boost, and wideband AFR monitoring.",
+    "Exterior lighting upgraded to full LED conversion with Philips Ultinon Pro9000 bulbs (part #12985UNIX2) for headlights, and custom sequential taillights using Diode Dynamics SS360 sequential LED strips (part #DD-SEQ360) integrated into the OEM housing. Wheels replaced with Work Emotion CR Kiwami (18x9.5 +35 offset) wrapped in Toyo R888R tires (255/40/18)."
+  ]
+}
