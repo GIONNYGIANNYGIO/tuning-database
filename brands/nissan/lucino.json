@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "LUCINO",
+  "prestazioni": [
+    "Engine swap to a **SR20DET (Red Top, 205hp stock)** with a **Garrett GT2860RS-5 turbocharger** (8.5psi base boost, upgraded to 18psi with **HKS GT-SS wastegate**) and **Tomei 264° cams** for high-RPM power. Supporting mods include a **N1 oil pump**, **JUN forged pistons (8.5:1 CR)**, and **Toda Racing connecting rods** for 400whp reliability.",
+    "Full **Nismo 555X suspension kit** (B14 chassis-specific) with **Tein Flex Z coilovers** (8kg/mm front, 6kg/mm rear) and **Cusco 22mm front / 19mm rear sway bars**. Braking upgraded to **Endless CC-5 brake pads** with **DBA 4000 Series rotors** and **Goodridge stainless steel brake lines**.",
+    "Fuel system overhaul with **Walbro 255lph in-tank fuel pump**, **ID1000x injectors**, and **AEM 320lph external pump** for E85 compatibility. ECU reflash via **Haltech Elite 1500** with **custom SR20DET base map** (optimized for **HKS EVC Boost Controller** and **GReddy Profec B Spec II**). Exhaust system features a **JUN 4-2-1 header** and **SARD 70mm cat-back** with **Burns Merge Collectors**."
+  ],
+  "estetica": [
+    "**Veilside Fortune 99 widebody kit** (B14-specific, 3-piece FRP construction) with **custom 50mm front / 75mm rear overfenders** and **Rocket Bunny-style duckbill rear spoiler** (carbon fiber, 3D-scanned for OEM fitment).",
+    "**Work Emotion CR Kiwami wheels** (17x9 +22 front, 17x10 +30 rear) with **Yokohama Advan A052 tires** (235/40/17 front, 265/35/17 rear). Fender flares rolled and pulled with **custom seam welding** for aggressive stance.",
+    "**Custom aero package** including **C-West front bumper lip** (B14-specific, carbon fiber), **Seibon carbon fiber hood** (SR20DET vented), and **NRG Innovations quick-release steering wheel** with **Takata Drift II harnesses**. Full **3M Matte Anthracite vinyl wrap** with **JDM-spec Nismo badging** and **LED demon eyes** (Osram CBI bulbs)."
+  ]
+}

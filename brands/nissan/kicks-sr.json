@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "KICKS SR",
+  "prestazioni": [
+    "Engine: HR15DE (1.5L I4 NA) – Forced induction via HKS GT-SS Supercharger Kit (8psi base map) with integrated intercooler and HKS Hi-Power SPL exhaust (2.5\" diameter, 304 stainless steel, straight-through design) to optimize scavenging for the HR15DE’s 10.3:1 compression ratio. Requires custom ECU reflash via Haltech Elite 1500 standalone (with flex fuel sensor) to target 180-190whp on 93 octane (220whp on E85).",
+    "Suspension: Ohlins Road & Track DFV coilovers (KICKS-specific valving) with 20mm front camber plates (SPL Parts) and Whiteline adjustable rear sway bar (24mm, 3-position) to mitigate the HR15DE’s 1,100kg curb weight and FWD torque steer. Polyurethane bushings (Energy Suspension full set) for chassis rigidity.",
+    "Drivetrain: OS Giken Super Lock LSD (1.5-way, 40% lockup) paired with a Fidanza lightweight flywheel (6.5kg) and Exedy Stage 2 clutch (ceramic-metallic, 6-puck) to handle the HKS supercharger’s 250Nm torque spike. Final drive ratio swapped to 4.625:1 (from 4.333:1) via Nissan Juke NISMO RS (MR16DDT) differential for improved acceleration."
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny V3 widebody kit (KICKS-specific, carbon fiber front splitter and rear diffuser) with custom 3M Gloss Black wrap (200 series) and functional hood vents (custom laser-cut aluminum, 2x 80mm outlets) to duct heat from the HKS supercharger. Rear wing: Voltex Type-3 (1,200mm, 3D carbon) mounted on custom aluminum pedestals (150mm height).",
+    "Wheels: Work Emotion CR Kiwami (17x8.5 +35 ET, 5x114.3) with Toyo R888R tires (225/45/17) and Project Kics R40 lug nuts (M12x1.25, closed-end). Front fender flares rolled and pulled (1.5\" extension) via Eastside Coachworks custom metalwork for clearance.",
+    "Interior: Bride Zeta III bucket seats (KICKS-specific mounting brackets) with Takata 4-point harnesses (SFI 16.1 certified). Custom roll cage (6-point, TIG-welded 4130 chromoly) by Cusco Japan, painted Nissan Racing Orange (code: 309). HKS Turbo Timer Pro (Type-R) and Defi BF gauges (oil temp, boost, AFR) mounted on a custom A-pillar pod (carbon fiber, 3D-printed mold)."
+  ]
+}

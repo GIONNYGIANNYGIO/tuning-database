@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "GT-R50 ITALDESIGN",
+  "prestazioni": [
+    "VR38DETT 3.8L V6 twin-turbo engine upgraded with a bespoke HKS GT-SS turbocharger kit (GT-SS82 turbochargers, billet compressor wheels, 0.82 A/R turbine housings) paired with a Tomei 87mm titanium exhaust manifold and custom 3.5-inch Inconel downpipes for optimized spool and reduced backpressure",
+    "Full Motec M150 ECU standalone management with custom VR38DETT-specific fuel and ignition maps, integrated with a Plex Knock Monitor for real-time detonation control, alongside a Radium Engineering dual fuel pump hanger (2x Walbro 450 LPH pumps) and ID1050x injectors for E85 compatibility up to 1,200 horsepower",
+    "Bespoke KW Suspensions 3-way adjustable coilovers (V3 variant) with Italdesign-specific valving, paired with a custom carbon fiber front strut tower brace by Seibon and a full Cusco rear subframe reinforcement kit, including billet aluminum differential mounts and a 2.5-way OS Giken Super Lock LSD (1.5-way preload, 2.5-way power distribution)"
+  ],
+  "estetica": [
+    "Full Italdesign-commissioned carbon fiber widebody kit (front fenders, rear quarter panels, and rear diffuser) with integrated active aerodynamics, including a deployable rear wing with Gurney flaps and a front splitter with adjustable dive planes (manufactured by APR Performance in pre-preg autoclave carbon fiber)",
+    "Custom HRE FF16 flow-formed wheels (20x11 front, 21x13 rear) with titanium hardware, wrapped in Michelin Pilot Sport Cup 2 R tires (285/30 R20 front, 335/25 R21 rear), paired with a full AP Racing BBK (6-piston front, 4-piston rear) with 400mm rotors and titanium caliper pistons",
+    "Full interior rework by Sabelt, featuring custom carbon fiber bucket seats with 6-point harnesses (Sabelt 6SF), a bespoke MOMO Prototipo steering wheel with integrated Motec C127 dash display, and a full Alcantara-wrapped roll cage (FIA-spec) with integrated fire suppression system (Lifeline Zero 360)"
+  ]
+}

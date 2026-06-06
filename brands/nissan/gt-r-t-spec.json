@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "GT-R T-SPEC",
+  "prestazioni": [
+    "VR38DETT 3.8L twin-turbo V6: Full billet aluminum block reinforcement by Tomei with 95mm bore sleeves for 4.1L stroker kit, paired with Manley I-beam connecting rods and CP Pistons 9.5:1 forged slugs, ensuring 1,200+ hp reliability on E85 fuel with HKS GT-SS turbos (GT3037S billet wheels, 0.82 A/R turbine housings, and 58mm compressor wheels) and custom 4-inch titanium downpipes by GReddy with 304 stainless merge collectors",
+    "Dry sump oiling system by Peterson Fluid Systems (4-stage pump, 10-quart tank, and -12AN braided lines) with integrated Accusump pre-oiler, complemented by a Setrab 50-row oil cooler and Earl’s Temp-A-Cure thermostat for consistent 210°F oil temps under track use",
+    "Holinger RD6 sequential gearbox with 3-disc carbon clutch and PPG straight-cut gears (1st: 2.58, 2nd: 1.98, 3rd: 1.59), mated to a Cusco 2.5-way mechanical LSD and AP Racing 6-piston calipers with 400mm two-piece rotors, all controlled via a Motec M150 ECU with full CAN bus integration for launch control, flat-shift, and traction control via Bosch Motorsport ABS sensors"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (carbon fiber fenders, front bumper, and rear diffuser) with custom 3M Matte Military Green wrap and exposed carbon weave on the roof, hood, and trunk, paired with a Seibon carbon fiber GT-R Nismo-style rear wing (1,200mm span, 3D-printed titanium endplates) and custom 3D-printed front splitter with integrated Gurney flaps",
+    "Volk Racing TE37V wheels (20x10.5 +15 front, 20x12 +20 rear) in Hyper Black finish, wrapped in Michelin Pilot Sport Cup 2 R tires (285/30 front, 325/25 rear), with custom titanium wheel studs by ARP and Brembo GT-R Nismo caliper paint in Nissan Racing Orange (code: 309)",
+    "Interior stripped and reupholstered with Bride Zeta III reclining bucket seats (Schroth 6-point harnesses), custom roll cage by Custom Cages (T45 steel, 6-point with integrated fire suppression system), and a full carbon fiber dash overlay by Varis with Motec C127 digital dash, AEM CD-7 data logger, and integrated AiM Solo 2 DL GPS lap timer"
+  ]
+}

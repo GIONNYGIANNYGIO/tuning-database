@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "GT-R LM NISMO",
+  "prestazioni": [
+    "VR38DETT 3.8L twin-turbo V6: Full billet aluminum block reinforcement with Tomei 87mm forged pistons, Carrillo H-beam connecting rods, and a custom billet crankshaft by JUN Auto for 1,000+ hp reliability at 2.2 bar boost (stock internals max ~1.5 bar).",
+    "Turbocharger upgrade: Twin Garrett GTX5533R Gen II turbos with 76mm billet compressor wheels, 106mm turbine wheels, and custom 3D-printed Inconel turbine housings by TurboSmart for optimized exhaust gas flow and reduced lag (replaces stock IHI turbos).",
+    "Fuel system: Full Motec M150 ECU with dual Bosch Motorsport 2,200cc port injectors and four additional ID1700x direct injectors, paired with a Radium Engineering dual fuel pump hanger and AEM 400LPH external pumps for E85 compatibility and 1,200+ hp fueling."
+  ],
+  "estetica": [
+    "Liberty Walk LM-Spec widebody kit with carbon fiber fenders, custom 3D-printed front splitter, and adjustable rear diffuser by Rocket Bunny, designed specifically for the LM Nismo's aero balance (reduces drag by 12% at 200+ mph).",
+    "Custom carbon fiber roof panel by Seibon Carbon with integrated NACA ducts for VR38DETT intercooler cooling, reducing intake temps by 15°C under full boost (replaces stock aluminum roof).",
+    "OLED-integrated digital rear wing by RAUH-Welt BEGRIFF (RWB), featuring active aerodynamics with adjustable angle via hydraulic actuators (0-25 degrees) and real-time downforce telemetry displayed on a Motec C127 dash."
+  ]
+}

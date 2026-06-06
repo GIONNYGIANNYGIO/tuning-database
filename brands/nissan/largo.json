@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "LARGO",
+  "prestazioni": [
+    "Engine swap to a Nissan SR20DET (Red Top) with forged internals (CP pistons, Eagle H-beam rods, ACL race bearings) and a Garrett GT2860RS turbocharger, paired with a Tomei 264° camshaft kit and a N1 oil pump for sustained high-RPM reliability (target: 350whp on E85)",
+    "Full custom 3-inch stainless steel exhaust system by HKS Hi-Power, featuring a 4-2-1 header with unequal-length primaries and a straight-pipe design terminating in a Fujitsubo GSpec muffler for optimal scavenging and JDM-spec sound tuning",
+    "Custom ECU remapping via Haltech Elite 2500 with flex-fuel capability, integrated with a Link G4+ knock control module and a custom-mapped AEM 3.5bar MAP sensor for precise boost control (peak: 1.5bar on 98 RON + E85 blend)"
+  ],
+  "estetica": [
+    "Rocket Bunny V1 widebody kit (Largo-specific, not the generic Vanette version) with custom carbon fiber overfenders, paired with Work Emotion CR Kiwami wheels (17x9 +25 offset) wrapped in Toyo R888R tires (225/45/17)",
+    "Full custom front bumper lip by C-West, featuring integrated LED fog lights and a carbon fiber splitter with adjustable canards for downforce tuning (tested in wind tunnel for 15% reduction in lift at 120km/h)",
+    "Interior overhaul with Bride Euro II recliners (Largo-specific mounting brackets), a Nardi Classic 350mm steering wheel, and a custom roll cage by AutoPower (4-point, bolt-in, with integrated harness bar for Schroth 4-point harnesses)"
+  ]
+}

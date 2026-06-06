@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "LEAF NISMO RC",
+  "prestazioni": [
+    "EM61 electric motor upgrade: Replace the stock EM61 motor with a custom-wound stator and rotor assembly from EV West, increasing peak power from 107 kW (143 hp) to 220 kW (295 hp) while maintaining the original 360V battery voltage. This includes a bespoke liquid-cooling system using a Setrab 19-row oil cooler and a Bosch high-flow coolant pump to prevent thermal throttling during track use.",
+    "Battery Management System (BMS) recalibration: Utilize a Motec C125 dash logger with a custom CAN bus interface to override the stock Nissan BMS, allowing for a 10% increase in sustained discharge rate (from 200A to 220A) and regenerative braking tuning via a Tilton 600-series brake pedal sensor for precise energy recovery mapping.",
+    "Drivetrain reinforcement: Install a Quaife ATB differential with a custom 4.11:1 final drive ratio (replacing the stock 7.93:1) paired with a Nismo RC-specific carbon-fiber driveshaft from Toray Industries. The differential housing is machined from 7075-T6 aluminum by Tractive Engineering to reduce unsprung weight by 1.8 kg while improving torque vectoring response."
+  ],
+  "estetica": [
+    "Nismo RC-specific carbon-fiber aero package: Replace the stock body panels with a full dry carbon-fiber kit from STILLEN, including a front splitter with integrated Gurney flaps (adjustable via KW Suspensions height-adjustable mounts), a rear diffuser with active airflow channels controlled by a Bosch ME7.1 ECU-derived flap actuator, and a fixed rear wing with a 12-degree angle of attack (optimized in Nissan’s Oppama wind tunnel).",
+    "Custom LED lighting system: Replace the stock headlights with a JW Speaker 8700 Series adaptive LED module (DRLs and low beams) and a Baja Designs Squadron Pro auxiliary light bar integrated into the front bumper for high-speed visibility. The taillights are upgraded to a sequential LED setup from Diode Dynamics, controlled by a standalone Arduino-based module for customizable patterns.",
+    "Interior weight reduction and safety: Install a full carbon-fiber monocoque seat from Bride (Zeta IV model) with a 6-point Schroth Profi II harness, paired with a Nismo RC-specific roll cage designed by Safety Devices (UK) that integrates with the stock chassis mounting points. The dashboard is replaced with a custom carbon-fiber panel housing a Motec C125 display and a Racepak IQ3 logger, while the steering wheel is a Nismo RC-exclusive Momo Prototipo with a quick-release hub and integrated paddle shifters for regenerative braking control."
+  ]
+}

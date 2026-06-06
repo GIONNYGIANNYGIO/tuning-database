@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "LIBERTA VILLA",
+  "prestazioni": [
+    "Engine swap to a Nissan SR20DET (Red Top, 205ps stock) with a Tomei 264°/260° camshaft kit, HKS 2720 turbo (TD06-18G frame), and a custom 3-inch stainless steel exhaust system featuring a Fujitsubo GSpec Legalis R muffler for JDM compliance while maximizing flow.",
+    "Full bolt-on internals upgrade: Tomei forged pistons (87mm, 8.5:1 CR), Eagle H-beam connecting rods, ACL Race Series bearings, and a N1 oil pump. Paired with a Tomei Type-S metal head gasket and ARP head studs for 1.5-bar boost reliability.",
+    "Custom ECU tuning via Haltech Elite 2500 with a 3.5-bar MAP sensor, dual AEM 30-2012 wideband O2 controllers, and a GReddy Profec B Spec II boost controller. Target AFR: 11.5:1 under load, ignition timing optimized for 98 RON fuel with a 2° advance at peak torque (4,500 RPM)."
+  ],
+  "estetica": [
+    "Full Rocket Bunny PV3 Liberta Villa-specific widebody kit (front fenders, rear quarters, and overfenders) with custom carbon fiber canards and a vented hood (Seibon Carbon, 3x3 twill weave).",
+    "OEM+ JDM-spec Nissan S14 Silvia front bumper swap (NISMO version) with a custom aluminum radiator support and dual 102mm APR Performance GT1000 carbon fiber side splitters.",
+    "Rear end features a custom 3D-printed diffuser (ABS plastic, 30% infill) paired with a Voltex Type-3 rear wing (1,200mm width, 300mm height) on custom aluminum mounts. Wheels: Work Meister S1 3P (17x9 +22 front, 17x10.5 +30 rear) with Yokohama Advan A052 tires (225/45/17 front, 265/40/17 rear)."
+  ]
+}

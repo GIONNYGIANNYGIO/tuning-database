@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "LAUREL C33",
+  "prestazioni": [
+    "RB25DET (NEO) engine swap with forged internals: Tomei 87mm forged pistons, Eagle H-beam connecting rods, and ACL race bearings, paired with a Garrett GTX3582R turbocharger (0.82 A/R turbine housing) for 450+ hp at 1.5 bar boost on E85 fuel",
+    "Custom 3-inch stainless steel turbo-back exhaust system by HKS Hi-Power with 2.5-inch intermediate piping, 100-cell GReddy Revolution RS II catalytic converter, and dual 4-inch titanium-tipped mufflers for optimized scavenging",
+    "Haltech Elite 2500 ECU with custom wiring harness by Wireworks, integrated with a Link G4+ CAN Lambda controller, AEM X-Series wideband O2 sensors, and a Nissan RB25-specific ignition coil upgrade to Denso Iridium IK24 plugs with NGK 95000 coil boots"
+  ],
+  "estetica": [
+    "Vertex Lang II JDM-spec front bumper with integrated C-West canards and a custom carbon fiber splitter reinforced with 3M VHB tape and aluminum bracing for rigidity",
+    "Rocket Bunny V3 (C33-specific) widebody kit with overfenders extended 50mm per side, paired with Work Emotion CR Kiwami 17x9.5 +22 wheels wrapped in 245/40R17 Toyo R888R semi-slick tires",
+    "Custom rear diffuser by Seibon Carbon with integrated dual 3-inch exhaust cutouts, matching the OEM C33 rear bumper lip spoiler, and a JUN Auto carbon fiber trunk lid with integrated ducktail spoiler for reduced lift"
+  ]
+}

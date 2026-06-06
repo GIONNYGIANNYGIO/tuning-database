@@ -1,0 +1,19 @@
+{
+  "brand": "NISSAN",
+  "model": "GT-R SPECV",
+  "prestazioni": [
+    "VR38DETT engine: Full billet forged internals by Tomei, including 95.5mm forged pistons (12.5:1 compression), Carrillo H-beam connecting rods, and a Tomei Type-S billet crankshaft for 8,500 RPM stability and 800+ HP potential on E85",
+    "Turbocharger upgrade: Garrett GTX5533R Gen II ball-bearing turbos with 64mm billet compressor wheels, custom 0.82 A/R titanium-aluminide turbine housings, and HKS GT-SS wastegates for precise boost control up to 28 PSI",
+    "Fuel system: Full Radium Engineering setup including dual 450 LPH brushless fuel pumps, 2,000cc/min ID1700x injectors, and a Radium Engineering fuel pressure regulator with ethanol sensor for E85 compatibility, paired with a custom AMS Performance fuel rail kit",
+    "Drivetrain: OS Giken Super Lock LSD with 4.11:1 final drive ratio, reinforced OS Giken triple-cone synchros, and a Tilton twin-disc carbon clutch with 1,200 Nm torque capacity, mated to a PPG sequential gearbox with straight-cut gears and a Quaife ATB differential",
+    "Suspension: Öhlins Road & Track DFV coilovers with 3-way adjustable damping, custom valving for the SpecV's stiffer chassis, and Swift Springs 12K/10K rates, paired with Cusco pillowball upper mounts and Hardrace adjustable toe arms for aggressive track alignment",
+    "ECU & Tuning: Haltech Elite 2500 standalone ECU with full CAN bus integration, custom VR38DETT-specific base maps by Ecutek, and a Motec C127 dash logger with GPS lap timing and real-time telemetry for track optimization"
+  ],
+  "estetica": [
+    "Aero: Veilside Fortune 3 widebody conversion kit with carbon fiber overfenders, custom front splitter with integrated canards, and a GT-R Nismo-style rear diffuser with active Gurney flap by Rocket Bunny, all painted in Nissan's original 'Ultimate Metal Silver' with matte black accents",
+    "Wheels: RAYS Engineering Volk TE37V Spec-V edition in 10.5x19 ET15 front and 12x19 ET-3 rear, finished in 'Gunmetal' with titanium hardware, shod with Michelin Pilot Sport Cup 2 R tires (285/30/19 front, 325/25/19 rear) for maximum track grip",
+    "Interior: Full carbon fiber Recaro SPG XL bucket seats with Schroth 6-point harnesses, a custom roll cage by AutoPower Industries with integrated fire suppression system, and a MOMO Prototipo steering wheel with quick-release hub, all wrapped in Alcantara with red stitching to match the SpecV's original interior theme",
+    "Lighting: Full LED conversion by PIAA with custom HID projectors in the OEM housings, integrated Angel Eyes with RGBW control via a Greddy e-Manage Ultimate, and a custom rear light delete panel with sequential LED turn signals by Vland",
+    "Exterior Details: Carbon fiber hood with functional heat extractors by Seibon, custom carbon fiber side skirts with integrated LED ground effects, and a titanium exhaust system by HKS Hi-Power Spec-V edition with 100mm tips and electronically controlled valves for sound tuning"
+  ]
+}

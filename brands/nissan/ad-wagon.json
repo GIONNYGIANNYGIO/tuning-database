@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "AD WAGON",
+  "prestazioni": [
+    "Engine swap to a **GA16DE (1.6L DOHC 16V)** with a **Garrett GT2560R turbocharger** (550cc ID1000 injectors, Tomei 260° camshafts, and a **Nismo 555X ignition coil set**) for a target of 220whp on **E85 fuel** with a **Haltech Elite 1500 ECU** managing boost via a **HKS EVC-S boost controller**",
+    "Full **Nismo Type-B** drivetrain reinforcement (LSD, reinforced axles, and a **Cusco 1.5-way mechanical LSD** for the **RL4F03A 4-speed automatic transmission** with a **Pioneer Stage 2 torque converter** for 0.5s faster shifts)",
+    "Suspension overhaul with **Tein Flex Z coilovers** (specifically valved for the **B13 platform**), **Nismo 25mm front sway bar**, **Cusco rear strut tower bar**, and **Whiteline adjustable rear camber arms** to eliminate the AD Wagon’s notorious body roll under hard cornering"
+  ],
+  "estetica": [
+    "**Rocket Bunny V1** widebody kit (modified to fit the AD Wagon’s unique rear quarter panels) with **custom carbon fiber overfenders** and **Voltex Type-3 rear wing** (30mm risers for optimal downforce at 120+ km/h)",
+    "**Work Emotion CR Kiwami** 15x7 +38 wheels (185/55R15 Federal 595 RS-RR tires) with **Nismo wheel spacers (15mm front, 20mm rear)** for aggressive flush fitment, paired with **JDM-spec Nissan AD Wagon ‘Super Select’ decals** (discontinued, sourced from a 1995 Nissan parts catalog)",
+    "**Recaro SRD** (JDM-spec, part #86200-40U00) front seats with **Takata Drift II** 4-point harnesses, **Nismo MOMO steering wheel (350mm, part #KH210-0B000)**, and a **custom rear cargo cage** (fabricated from **32mm DOM steel tubing**) for structural rigidity and a **JIC Magic rear seat delete** with **Soundstream REF-1240D** amplifier mounted under the false floor"
+  ]
+}

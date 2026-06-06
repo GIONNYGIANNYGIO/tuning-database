@@ -1,0 +1,14 @@
+{
+  "brand": "NIO",
+  "model": "EP9 NURBURGRING RECORD SPEC",
+  "prestazioni": [
+    "Quad-motor electric powertrain (4x YASA P400 axial flux motors, 335.25 kW each) recalibrated via NIO’s proprietary torque-vectoring firmware (v2.1.7-NRG) for 1,360 hp (1 MW) peak output, with dynamic torque split adjusted to 40/30/20/10% front-to-rear under 180 km/h and 25/25/25/25% above 250 km/h for optimal Nurburgring cornering stability",
+    "Custom-forged 18650 lithium-ion battery pack (NIO Energy 70 kWh, liquid-cooled) overclocked to 900V operating voltage with silicon carbide (SiC) MOSFET inverters (STMicroelectronics SCT30N120) for 1.2ms response time, paired with a bespoke thermal management system using 3M Novec 7100 dielectric fluid immersion cooling",
+    "Ohlins TTX46 MkII coilovers with 3-way adjustable damping (compression/rebound/bump), custom valving for 1,200 kg/m spring rates at front and 1,100 kg/m at rear, paired with NIO’s active hydraulic roll control (AHR) system (Bosch Rexroth A2FM63 motors) for 0.5° roll angle at 2.5G lateral load"
+  ],
+  "estetica": [
+    "Full-carbon-fiber aero package (NIO Design Studio ‘Black Dragon’ spec) featuring a 3D-printed titanium front splitter with active Gurney flaps (2x Festo DFPD-10-25-P-A-GF air muscles) for +1,200 kg downforce at 250 km/h, adjustable via NIO Pilot’s ‘Track Mode’",
+    "Rear diffuser with integrated vortex generators (VGs) and a 1.8m-wide active rear wing (2x Parker Hannifin EHA actuators) with 30° attack angle, coated in Hexcel HexPly M91 carbon prepreg for sub-1.2 kg/m² weight",
+    "Bespoke BBS FI-R forged magnesium wheels (20x13 front, 21x15 rear) with center-lock hubs (1,800 Nm torque capacity) and Michelin Pilot Sport Cup 2 R tires (345/30 R20 front, 355/25 R21 rear) shaved to 3.0mm tread depth for optimal heat cycling on the ‘Green Hell’"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "GLORIA Y34",
+  "prestazioni": [
+    "Engine: RB25DET NEO (2.5L inline-6, 280 PS stock) upgraded with a Garrett GTX3582R turbocharger (82mm compressor, 1.06 A/R turbine housing) paired with a Tomei 264°/260° camshaft set (1.2mm lift) and Tomei M82 head studs for 1.5 bar boost targeting 500 PS at the wheels. Fuel system includes Nismo 550cc injectors, Walbro 450 LPH fuel pump, and a Sard 1,000cc top-feed fuel rail with an AEM 320LPH ethanol-compatible pump for E85 blends.",
+    "Drivetrain: OS Giken Super Lock LSD (2.2-way) with 85W-140 GL-5 differential fluid, reinforced with a Nismo R200 2-way clutch-type diff cover. Transmission is a Getrag 6-speed (from the R34 GT-R) swapped in place of the stock 5-speed, mated to a Nismo twin-plate ceramic clutch (240mm) and a PWR aluminum radiator with dual 12-inch SPAL fans for cooling.",
+    "Suspension/Handling: Ohlins Road & Track DFV coilovers (8-position rebound, 20-way compression damping) with custom valving for the Y34’s multi-link rear and strut front setup. Polyurethane bushings (SuperPro 90D durometer) replace all control arm, sway bar, and subframe mounts. Braking upgraded to Endless CC-R6 rotors (356mm front, 330mm rear) with 6-piston front and 4-piston rear calipers, running Motul RBF 660 brake fluid."
+  ],
+  "estetica": [
+    "Body: Veilside Fortune 99 widebody kit (Y34-specific, bolt-on fenders with 20mm extended wheel arches) paired with a custom carbon fiber hood (Seibon, 30% weight reduction) featuring a functional NACA duct for the Garrett turbo. Rear diffuser is a custom 3D-printed ABS unit with integrated exhaust cutouts for dual 3.5-inch titanium Invidia N1 cat-back exhaust tips.",
+    "Aero: Front splitter is a custom 5-layer carbon fiber piece (AeroCatch mounts) with a 40mm overhang, adjustable via turnbuckles. Rear wing is a dry carbon GT Wing (Voltex Type-7, 1,700mm width, 300mm chord) mounted on custom aluminum pedestals (Y34-specific, bolted to the trunk lid reinforcement). Side skirts are modified Work Emotion CR Kiwami pieces with integrated LED turn signals.",
+    "Wheels/Stance: Work Meister S1 3P (18x10 +20 front, 18x11 +15 rear) with custom offsets to clear the Veilside fenders, wrapped in Michelin Pilot Sport Cup 2 tires (265/35/18 front, 295/30/18 rear). Fender flares are rolled and pulled with a heat gun, with custom aluminum spacers (15mm front, 25mm rear) to achieve a 5mm tire-to-fender gap. Wheel centers are painted Nissan Racing Yellow (KH3) with polished lips."
+  ]
+}

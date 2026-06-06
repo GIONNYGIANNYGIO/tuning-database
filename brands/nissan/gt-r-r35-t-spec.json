@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "GT-R R35 T-SPEC",
+  "prestazioni": [
+    "VR38DETT 3.8L twin-turbo V6: Full billet aluminum block reinforcement by Tomei with 95mm bore and 93mm stroke, forged internals including CP Pistons 2618 alloy 9.0:1 compression ratio pistons, Manley H-beam connecting rods, and Tomei Type B camshafts (272° intake, 276° exhaust, 11.5mm lift) for optimized high-RPM airflow.",
+    "Turbocharger upgrade: Garrett GTX5533R Gen II turbos with 76mm billet compressor wheels, 106mm turbine wheels, and TiAL MV-R 44mm wastegates, paired with Tomei 4-ply stainless steel turbo manifolds and custom 3.5\" titanium downpipes by HKS with 100-cell GReddy catalytic converters for minimal backpressure.",
+    "Fuel and ignition system: Injector Dynamics ID1700x fuel injectors with Radium Engineering dual fuel pumps (Walbro 450LPH + AEM 340LPH), Motec M150 ECU with custom VR38DETT-specific calibration by Ecutek, and NGK R7437-11 Iridium IX spark plugs gapped at 0.024\" for optimized combustion under 2.5 bar boost."
+  ],
+  "estetica": [
+    "Carbon fiber widebody conversion: Rocket Bunny V3 GT-R kit with extended front fenders (30mm wider), rear overfenders (50mm wider), and custom carbon fiber side skirts with integrated NACA ducts for brake cooling, finished in Nissan's signature 'Millennium Jade' matte paint with 3M 2080 Satin Black accents.",
+    "Suspension and wheel setup: Ohlins Road & Track DFV coilovers with 24-way adjustable damping, poly bushings by SuperPro (part #SPF1035K), and Volk Racing TE37SL wheels in 10.5x20\" ET+15 (front) and 12x20\" ET+20 (rear) with Michelin Pilot Sport Cup 2 R tires (275/35/20 front, 325/30/20 rear).",
+    "Aerodynamic enhancements: Custom front splitter by Seibon Carbon with integrated canards (3x 50mm Gurney flaps), rear diffuser by Varis Japan with active Gurney flap (adjustable via cockpit switch), and a carbon fiber GT wing by APR Performance (1,800mm span, 300mm chord, 3D-printed aluminum endplates) mounted on custom titanium pedestals."
+  ]
+}

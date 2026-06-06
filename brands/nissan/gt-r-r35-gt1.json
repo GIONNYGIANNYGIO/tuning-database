@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "GT-R R35 GT1",
+  "prestazioni": [
+    "VR38DETT engine overhaul with forged internals: JE 9.0:1 compression pistons, Manley titanium valves, Tomei 272° camshafts, and a billet crankshaft from HKS, paired with a dry-sump oil system by Peterson Fluid Systems to handle sustained 8,500 RPM track sessions",
+    "Twin Garrett GTX5533R Gen II turbochargers with 0.82 A/R turbine housings, custom 4-inch titanium downpipes by Tomei, and a GReddy Profec B Spec II boost controller targeting 2.2 bar (32 psi) of peak boost with methanol-water injection via Snow Performance Stage 3 kit",
+    "Motec M150 ECU with custom GT1-spec mapping, integrated with a Pectel SQ6M data logger, AEM CD-7 dash, and a Bosch Motorsport 0258006540 wideband lambda controller for real-time AFR monitoring at 20Hz sampling rate"
+  ],
+  "estetica": [
+    "Full carbon-fiber GT1-spec body kit by Nismo, including a 3-piece front splitter with integrated dive planes, a 2-stage adjustable rear wing with Gurney flap (300mm chord), and a vented hood with NACA ducts for VR38DETT intercooler cooling",
+    "Ohlins TTX40 4-way adjustable coilovers with Nismo GT1-spec spherical bearing top mounts, custom valving for 1,200 kg/mm spring rates, and a 50mm ride height adjustment range, paired with AP Racing CP9450 front and CP9448 rear 6-piston calipers with 400mm rotors",
+    "Recaro SP-GT1 carbon-Kevlar bucket seats with Schroth 6-point harnesses, a Nismo GT1-spec roll cage (FIA Appendix J compliant) with integrated fire suppression system by Lifeline, and a custom carbon-fiber center console housing a Motec PDM30 power distribution module"
+  ]
+}

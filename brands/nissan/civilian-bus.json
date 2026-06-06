@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "CIVILIAN BUS",
+  "prestazioni": [
+    "Engine swap to a Nissan TB45E (4.5L inline-6, iron block, 24-valve SOHC) with forged internals (JE 9.5:1 pistons, Eagle H-beam rods, and a billet crankshaft) paired with a Garrett GT4202R turbo (88mm compressor, .96 A/R turbine housing) running 22 psi on E85 fuel, managed by a Haltech Elite 2500 ECU with custom CAN bus integration for the stock transmission (FS6R31A 5-speed manual conversion).",
+    "Full custom exhaust system featuring 3.5\" mandrel-bent 304 stainless steel piping with a Burns Stainless 4-2-1 merge collector, custom 3\" downpipe, and a MagnaFlow 10459 stainless steel muffler (straight-through design) to retain low-end torque while reducing backpressure by 40%.",
+    "Suspension overhaul with custom-fabricated air ride (Air Lift Performance 3P management) using AccuAir E-Level sensors, reinforced front/rear control arms (polyurethane bushings from SuperPro), and custom-valved Bilstein B8 shocks for the Civilian’s leaf-spring rear setup, paired with a Hellwig 7710 anti-sway bar (1.25\" diameter) to mitigate body roll during high-speed cornering."
+  ],
+  "estetica": [
+    "Full Rocket Bunny-inspired widebody conversion using custom-fabricated fiberglass fender flares (2.5\" wider front, 3\" wider rear) with integrated LED turn signals (Morimoto XB35 bulbs), paired with a custom front bumper featuring a carbon fiber splitter (Seibon) and a functional hood scoop (custom 3D-printed ABS) for the TB45E’s intercooler piping.",
+    "Custom livery wrap by Avery Dennison (Matte Black base with Gloss Red and Pearl White accents) featuring a hand-painted \"Midnight Express\" theme (inspired by 90s JDM bosozoku aesthetics), with 3M Scotchlite reflective pinstriping for visibility, and a custom rear roof spoiler (carbon fiber, 12\" tall) for downforce at speed.",
+    "Interior overhaul with Recaro SR-7 racing seats (reclining mechanism removed for fixed position) upholstered in Alcantara (Kohinoor Auto Fabrics) with red stitching, a custom roll cage (TIG-welded 1.75\" DOM tubing, 4-point design) painted in Nissan Racing Red (code: 326), and a custom dashboard overlay (carbon fiber, CNC-machined) housing a digital gauge cluster (AEM CD-7) with boost, EGT, and wideband AFR readouts."
+  ]
+}

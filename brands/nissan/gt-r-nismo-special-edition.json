@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "GT-R NISMO SPECIAL EDITION",
+  "prestazioni": [
+    "VR38DETT 3.8L twin-turbo V6 engine: Full billet aluminum HKS GT-SS turbochargers (GT-SS82 with 62mm compressor wheels, 76mm turbine wheels, and 10-blade billet compressor wheels) replacing the stock IHI units, paired with HKS GT2835-5 turbo manifolds (equal-length, 3mm wall thickness, Inconel 625 material) for optimized exhaust gas flow and reduced turbo lag",
+    "Custom Motec M150 ECU with VR38DETT-specific firmware (Version 1.1.2.3) for direct port injection control, individual cylinder fuel trims, and real-time boost mapping (targeting 28 psi peak with 24 psi spool-up via HKS EVC-S electronic boost controller), integrated with a Plex Tuning Knock Monitor for live cylinder pressure analysis",
+    "Nismo-spec reinforced drivetrain upgrade: OS Giken Super Lock LSD (4.30 final drive ratio) with billet steel side gears, Nismo carbon fiber driveshaft (100mm diameter, 3K weave), and AP Racing CP9460-1000 6-piston front/4-piston rear brake calipers with 400mm two-piece rotors (floating aluminum hats, J-hook slotted, 350-grade iron) and Ferodo DS3000 brake pads for 1,800hp-capable stopping power"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 GT-R Nismo-specific widebody kit (pre-preg carbon fiber, 50mm front/60mm rear fender flares) with integrated Nismo-style canards and a custom 3D-printed ABS diffuser (modeled after the GT3 GT-R race car, with 7 strakes and a central Gurney flap for downforce tuning)",
+    "Seibon Carbon GT-R Nismo Special Edition dry carbon fiber roof (1.5mm thickness, 2x2 twill weave) with a clear-coated satin finish, paired with a custom Nismo Heritage rear wing (Type 23 GT500-spec, 1,800mm width, 3D-printed titanium endplates, and adjustable carbon fiber flaps for 400kg downforce at 200km/h)",
+    "Work Emotion CR Kiwami 3-piece forged wheels (20x11.5 +20 front, 20x12.5 +15 rear) in Nismo Silver with titanium hardware, wrapped in Michelin Pilot Sport Cup 2 R tires (285/30 R20 front, 325/25 R20 rear) and paired with a custom Nismo x Bride Zeta IV SPL carbon fiber bucket seat (FIA 8862-2009 certified, 1.2kg shell weight) and Takata Drift III 6-point harnesses"
+  ]
+}

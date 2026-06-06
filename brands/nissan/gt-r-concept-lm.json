@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "GT-R CONCEPT LM",
+  "prestazioni": [
+    "VR38DETT 3.8L twin-turbo V6 engine overhaul with forged internals: Manley 92.8mm forged pistons, Eagle H-beam connecting rods, and a billet crankshaft (Nissan OEM spec but balanced to 20,000 RPM tolerance) for 1,200+ HP reliability on E85 fuel. Paired with a custom HKS GT-SS turbo kit (Garrett GTX5533R turbos with titanium-aluminide turbine wheels, 1.25 A/R turbine housings, and 3D-printed Inconel exhaust manifolds) for optimized spool and 38 psi peak boost.",
+    "Full Motec M150 ECU standalone management with bespoke GT-R LM-specific calibration, including individual cylinder fuel trims, anti-lag ignition retard (up to 30° BTDC), and a 4D ignition map for E85/gasoline flex-fuel blending. Integrated with a Plex Tuning Knock Monitor for real-time cylinder pressure feedback and adaptive ignition timing.",
+    "Chassis and drivetrain reinforcement: Nismo R35 GT-R LM-spec carbon-fiber driveshaft, OS Giken Super Lock LSD (4.11 final drive ratio), and a Tilton triple-plate carbon clutch with a 3.5-inch steel flywheel. Suspension upgraded to Öhlins TTX46 MkII coilovers with 3-way adjustable damping (24-position rebound, 22-position compression, and 12-click high/low-speed compression split), paired with Nismo R35 GT-R LM-spec carbon-fiber anti-roll bars (24mm front, 22mm rear) and spherical bearing end links."
+  ],
+  "estetica": [
+    "Liberty Walk LB-WORKS GT-R LM widebody kit (custom-fabricated to accommodate 20x12.5 ET+15 front and 20x13.5 ET+5 rear wheels with 295/30 and 325/25 Michelin Pilot Sport Cup 2 R tires). Front fenders feature integrated carbon-fiber canards (inspired by the 2015 GT-R LM Nismo Le Mans racer) with 3D-printed NACA ducts for brake cooling.",
+    "Full carbon-fiber aero package: Varis Japan GT-R LM-spec front splitter (adjustable 3-stage dive planes), custom rear diffuser with active Gurney flap (electrically actuated via Motec PDM), and a 1,800mm-wide carbon-fiber rear wing (modeled after the 2015 Le Mans prototype) with dual-plane design and 12° angle adjustment. Underbody features a full-length carbon-fiber flat floor with integrated vortex generators.",
+    "Interior stripped and reupholstered with a full carbon-fiber monocoque (including door cards, dashboard, and center console) by AutoKraft Carbon. Seats replaced with Bride Euro VAB-FL II (fixed-back) in Alcantara with Schroth 6-point harnesses. Custom Motec C127 dash display with integrated traction control, boost, and lap timer, paired with a Sparco Pro 2000 steering wheel (350mm diameter) with carbon-fiber shift paddles and a quick-release hub."
+  ]
+}

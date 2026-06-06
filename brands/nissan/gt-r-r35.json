@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "GT-R R35",
+  "prestazioni": [
+    "VR38DETT 3.8L twin-turbo V6 engine with HKS GT-SS turbocharger upgrade (GT-SS82 turbochargers, billet compressor wheels, 0.82 A/R turbine housings, and titanium nitride-coated turbine shafts) paired with Tomei 272° camshafts and Tomei Type-1 valve springs for 8,000 RPM redline capability",
+    "Nismo 3-way titanium exhaust system with Akrapovic Evolution Line mufflers and custom 3.5-inch stainless steel piping, featuring a secondary bypass valve for on-demand backpressure reduction at 5,500 RPM",
+    "Holley Dominator EFI standalone ECU with custom VR38DETT-specific fuel and ignition maps, integrated with a Motec C125 dash logger and AEM X-Series wideband O2 sensors for real-time AFR monitoring at 20Hz sampling rate"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit with carbon fiber front fenders, rear quarter panels, and overfenders (2.5-inch wider track front, 3.0-inch wider track rear), paired with custom 3D-printed ABS plastic canards and a 50mm extended carbon fiber front splitter",
+    "Voltex Type-7 rear wing with dual-element carbon fiber construction, adjustable 0-20° angle of attack, and integrated Gurney flaps (30mm height), mounted on custom aluminum pedestals for 1,200mm span",
+    "Custom forged aluminum BBS LM-R wheels (20x10.5 +15 front, 20x12 +30 rear) with titanium hardware, wrapped in Michelin Pilot Sport Cup 2 R tires (285/30/20 front, 325/25/20 rear) and paired with AP Racing CP9460-1000 brake calipers (6-piston front, 4-piston rear) with 400mm two-piece rotors"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "JUKE NISMO",
+  "prestazioni": [
+    "MR16DDT (1.6L Direct Injection Turbo) engine: Full forged internals including Manley 87mm forged crankshaft, Eagle H-beam connecting rods, and JE 8.5:1 compression forged pistons to handle 300+ hp reliably. Upgraded valve train with Ferrea titanium retainers, Supertech dual valve springs, and Tomei Type-S camshafts (272° intake, 280° exhaust) for aggressive overlap and high-RPM power.",
+    "Turbocharger upgrade to Garrett GTX2867R Gen II with billet compressor wheel, 0.63 A/R turbine housing, and TiAL MV-R 44mm external wastegate for precise boost control (targeting 28 psi peak). Paired with a custom 3.5\" turbo-back exhaust system by Milltek Sport with 200-cell catalytic converter and resonated center section for optimal scavenging without drone.",
+    "Fuel system overhaul with Injector Dynamics ID1050x injectors, Walbro 450 LPH in-tank fuel pump, and Radium Engineering dual catch can setup with -10AN lines to prevent oil buildup in the intake tract. ECU recalibration via COBB Accessport with custom dyno-tuned map by RS Tuning (UK) optimizing ignition timing, boost curves, and AFR for 93 octane fuel (or E85 flex-fuel conversion with upgraded fuel lines and ethanol content sensor)."
+  ],
+  "estetica": [
+    "Liberty Walk LB Works widebody conversion kit (Juke Nismo-specific) with carbon fiber fenders, extended rocker panels, and integrated canards. Front bumper modified with a custom 3D-printed splitter by Maxton Design (UK) featuring adjustable dive planes and integrated LED fog light deletes for a cleaner look.",
+    "Rocket Bunny V3 rear wing (Juke Nismo-specific) with carbon fiber construction, adjustable angle (0-15°), and integrated third brake light. Side skirts replaced with Seibon carbon fiber units, paired with custom 3M Matte Graphite vinyl wrap with gloss black accents on the roof, mirrors, and Nismo badges for a stealth OEM+ aesthetic.",
+    "OEM+ interior upgrades including Recaro Pole Position seats (Nismo edition) with custom red Alcantara inserts and embroidered \"Juke Nismo\" logos, NRG Innovations quick-release steering wheel hub with a Nardi Classic 350mm suede wheel, and a full custom roll cage by Custom Cages (UK) with bolt-in rear harness bar and integrated fire suppression system (Plumbed FireBottle 2.5kg)."
+  ]
+}

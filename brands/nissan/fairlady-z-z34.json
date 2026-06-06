@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "FAIRLADY Z Z34",
+  "prestazioni": [
+    "Engine: VQ37VHR (3.7L V6, 24V, DOHC) with HKS GT-SS turbo kit featuring a Garrett GTX3582R Gen II turbocharger (0.82 A/R turbine housing, billet compressor wheel), HKS 264°/264° camshafts, Tomei 272° camshafts for high-RPM power, and a custom 3.5-inch titanium exhaust system with Burns Stainless 4-2-1 headers and a Tomei N1 muffler for optimized scavenging and backpressure reduction",
+    "Forced Induction: GReddy intercooler kit (front-mount, 1000hp-rated core) paired with a custom 3.5-inch aluminum charge piping system, HKS SSQV4 blow-off valve, and a Radium Engineering dual-catch can setup with -10AN lines to prevent oil contamination under sustained boost (targeting 12-14 psi on 93 octane with E85 flex-fuel tuning via Haltech Elite 2500 ECU)",
+    "Suspension & Handling: Ohlins Road & Track DFV coilovers (Z34-specific valving, 8-position rebound, 20-way compression damping), Cusco Type RS 22mm front / 20mm rear adjustable sway bars, Whiteline front and rear subframe lockout bushings, and a Cusco 2.5-way mechanical LSD with 45% preload for aggressive power delivery and rotation control"
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny V3 widebody kit (Z34-specific, carbon fiber overfenders, front canards, and rear diffuser) paired with a Veilside Fortune 3 rear wing (carbon fiber, 3-position adjustable) and a custom front splitter with integrated air curtains for downforce optimization (tested at 120+ mph)",
+    "Exterior: Seibon Carbon fiber hood (VQ37VHR-specific, with integrated heat extractor vents) and rear trunk lid, Work Meister S1 3P 19x10.5 +25 front / 19x12 +30 rear wheels (staggered, 5x114.3 PCD) wrapped in Michelin Pilot Sport Cup 2 R tires (275/35/19 front, 315/30/19 rear) for maximum mechanical grip",
+    "Lighting & Details: Morimoto XB LED headlights (Z34-specific, DOT-approved, with integrated angel eyes), custom rear taillight delete with sequential LED strips (VQ37VHR-themed, controlled via Haltech CAN bus), and a full Respray in Nissan 'Midnight Purple III' (KH3) with a 3-stage pearl coat and matte clear bra wrap on high-impact areas"
+  ]
+}
