@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "SKYLINE 1800 SUPER DX",
+  "prestazioni": [
+    "Engine swap to L18T (L18 turbocharged variant, 1.8L SOHC inline-4) with forged internals: JE Pistons 87.5mm forged slugs (9.5:1 CR), Eagle H-beam connecting rods, and ACL Race Series bearings. Pair with a Garrett GT2860RS turbo (0.86 A/R turbine housing) and custom 3-inch stainless steel turbo manifold by Tomei.",
+    "Fuel system upgrade: Walbro 450LPH in-tank fuel pump, Nismo 600cc/min fuel injectors, and a Sard 1.3L surge tank with dual Bosch 044 fuel pumps. ECU reflash via Haltech Elite 1500 with custom L18T-specific ignition and fuel maps, including launch control and flat-foot shifting.",
+    "Suspension overhaul: Tein Flex Z coilovers (height-adjustable, 8kg/mm front/6kg/mm rear springs) with Cusco front strut tower bar and Whiteline rear sway bar (22mm). Polyurethane bushings (SuperPro) for control arms and subframe, paired with Nismo 5-speed close-ratio gearbox (L18T-compatible) and OS Giken 2-way LSD."
+  ],
+  "estetica": [
+    "Rocket Bunny V1 widebody kit (C10-specific, 3-piece overfenders) with custom carbon fiber front splitter and rear diffuser by Seibon. Painted in Nissan ‘Thunder Blue’ (code: B23) with matte black accents on the hood and roof.",
+    "OEM+ interior: Nismo S20-style 320mm steering wheel (Momo Prototipo), Bride Zeta III bucket seats (fixed-back, FIA-approved), and custom roll cage by Sabelt (6-point, bolt-in). Full digital dash via AIM MXS Strada with L18T-specific sensors (oil pressure, boost, EGT).",
+    "Lightweight wheels: Work Meister S1 3P (15x8 +20 front, 15x9 +25 rear) in gunmetal finish, wrapped in Toyo R888R tires (195/50/15 front, 225/50/15 rear). Nismo ‘Skyline’ decals on doors and rear quarter panels, with JDM-spec C10 ‘Super DX’ badges retained."
+  ]
+}

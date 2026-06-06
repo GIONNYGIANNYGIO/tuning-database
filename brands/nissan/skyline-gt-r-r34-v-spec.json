@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "SKYLINE GT-R R34 V-SPEC",
+  "prestazioni": [
+    "Engine: RB26DETT 2.6L twin-turbo inline-6 with Tomei 272°/11.5mm lift camshafts, Tomei Type-M exhaust manifold, and HKS GT-SS turbochargers (GT2835-5 billet wheels, 0.82 A/R turbine housing) for 550whp on 1.5-bar boost with HKS Hi-Power fuel pump and Nismo 550cc injectors",
+    "Drivetrain: OS Giken 2.2L twin-plate clutch with billet flywheel, N1-spec Getrag 6-speed transmission (rebuilt with OS Giken 1st-2nd synchros), and Cusco 2.5-way mechanical LSD with 4.11 final gear ratio for drag strip use",
+    "Suspension/Handling: Ohlins Road & Track DFV coilovers (R34-specific valving, 8kg/mm front/10kg/mm rear springs), Nismo R34 GT-R front strut tower bar, Cusco rear upper strut brace, and Endless 6-pot front/4-pot rear brake kit with 356mm rotors and RS-R 24mm front/22mm rear sway bars"
+  ],
+  "estetica": [
+    "Body: Rocket Bunny V3 widebody kit (R34-specific, 30mm front/50mm rear fender flares) with custom carbon fiber front bumper (replicating HKS Zero-R34 design) and Voltex Type-7 rear wing (3D carbon, 1,200mm width, 300mm height)",
+    "Interior: Bride Zeta III reclinable bucket seats (R34-specific mounting brackets), Nismo R34 GT-R titanium shift knob, Defi BF Advance gauges (oil temp, oil pressure, boost, wideband AFR) mounted in a custom carbon fiber A-pillar pod, and Takata Drift III 4-point harnesses",
+    "Wheels/Tires: Work Meister S1 3P 18x10.5 +15 (front) and 18x11.5 +20 (rear) in Gunmetal with Advan A052 275/35/18 (front) and 315/30/18 (rear) semi-slick tires for track use, or Yokohama Advan Neova AD09 265/35/18 (front) and 295/30/18 (rear) for street/track hybrid"
+  ]
+}

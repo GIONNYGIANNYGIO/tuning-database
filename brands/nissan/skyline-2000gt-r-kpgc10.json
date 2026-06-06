@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "SKYLINE 2000GT-R KPGC10",
+  "prestazioni": [
+    "Engine: S20 (2.0L DOHC inline-6) with forged internals including Tomei 87mm forged pistons, Eagle H-beam connecting rods, and a Tomei Type-A billet crankshaft for 12.5:1 compression. Twin HKS GT-SS turbos (ball-bearing, 0.68 A/R) with custom 3-inch stainless steel equal-length headers and a GReddy Profec B Spec II boost controller targeting 1.2 bar (17.4 psi).",
+    "Fuel System: Full Aeromotive 340 Stealth fuel pump with -8AN lines, ID1000xDS injectors, and a Haltech Elite 2500 ECU running E85 flex-fuel with custom S20-specific ignition maps. Custom intake manifold by JUN Auto with velocity stacks and a 80mm individual throttle body (ITB) setup.",
+    "Drivetrain & Suspension: OS Giken 2.2L limited-slip differential with 1.5-way LSD, Nismo 5-speed close-ratio transmission with a N1-spec 250mm twin-plate clutch. Ohlins Road & Track coilovers with 8kg/mm front and 9kg/mm rear springs, polyurethane bushings by SuperPro, and a Cusco 22mm front sway bar paired with a 18mm rear sway bar. StopTech ST-60 big brake kit with 6-piston calipers and 355mm rotors up front, 4-piston calipers with 330mm rotors in the rear."
+  ],
+  "estetica": [
+    "Body: Full Rocket Bunny KPGC10-specific widebody kit (Pandem V2) with carbon fiber front splitter, rear diffuser, and overfenders. Custom rear wing by Voltex (Type 3) with a 1,200mm span and 3D-printed adjustable mounts. Shaved door handles with remote keyless entry and a custom carbon fiber hood with a NACA duct for intercooler cooling.",
+    "Interior: Bride Zeta III bucket seats with Schroth 6-point harnesses, custom roll cage by AutoPower (8-point, bolt-in) with gusseted joints. Momo Prototipo steering wheel with a quick-release hub, Defi BF Advance gauges (boost, oil pressure, water temp, fuel pressure) mounted in a custom carbon fiber A-pillar pod. Full Alcantara headliner and door cards with red stitching, and a custom center console housing a Haltech digital dash.",
+    "Lighting & Details: Custom Hella 90mm headlight conversion with LED projectors and DRLs, rear taillight conversion to LED with sequential turn signals. Custom 17x9.5 ET0 Volk Racing TE37SL wheels in Gunmetal with 245/40R17 Yokohama AD08R tires. Full de-chrome with satin black trim, and a custom front lip by C-West with integrated LED fog lights."
+  ]
+}

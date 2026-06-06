@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "SUNNY GTI-R",
+  "prestazioni": [
+    "Engine: SR20DET-R (2.0L inline-4, 400hp+ target) with forged internals including JE 87mm forged pistons (9.0:1 CR), Eagle H-beam connecting rods, and ACL Race Series bearings for sustained 1.5+ bar boost. Upgraded oil pump (N1 spec) and ARP head studs (L19 material) to prevent head lift under extreme cylinder pressures.",
+    "Turbocharger: Garrett GTX3582R Gen II with a 0.82 A/R turbine housing (P82 spec) and billet compressor wheel, paired with a Tomei 44mm wastegate (external, dual-port) and custom 3.5\" stainless steel downpipe (HKS Hi-Power 70mm cat-back exhaust with straight-through muffler for optimal spool and top-end flow).",
+    "Fuel & Ignition: Nismo 550cc/min injectors (side-feed) with a Walbro 450LPH in-tank pump, AEM 340lph external pump, and Tomei M82 fuel rail. Haltech Elite 2500 ECU with individual cylinder trims, dual MAP sensors (3.5 bar), and NGK R7437-9 spark plugs gapped at 0.024\" for E85 compatibility. Custom 3\" intake with K&N conical filter and heat-shielded MAF housing (Z32 300ZX MAF for precise airflow metering)."
+  ],
+  "estetica": [
+    "Body Kit: Rocket Bunny V1 GTI-R widebody conversion (Pandem Design) with carbon fiber front fenders, rear quarter panels, and duckbill spoiler (extended 3\" for downforce). Custom front splitter (Seibon carbon) with integrated canards (Voltex-style) and rear diffuser (Rays Engineering) for aero balance at 150+ mph.",
+    "Wheels & Suspension: Work Emotion CR Kiwami (17x9.5 +15 front, 17x10.5 +20 rear) with 245/40/17 and 275/35/17 Yokohama Advan A052 tires. Ohlins Road & Track DFV coilovers (GTI-R-specific valving) with 24mm front sway bar (Nismo) and poly bushings (Energy Suspension). Custom subframe reinforcement plates (Cusco) and spherical bearing rear toe arms (SPL Parts).",
+    "Interior & Aero: Recaro SP-G (GTI-R-specific mounting brackets) with Takata 4-point harnesses. Custom roll cage (Chassisworks 4-point bolt-in) with integrated fire suppression system (Lifeline Zero 360). Carbon fiber dash overlay (Seibon) with Defi BF gauges (oil pressure, boost, EGT) and AEM X-Series wideband controller. Rear seat delete with custom aluminum floor panel (1.5mm thick) for weight reduction."
+  ]
+}

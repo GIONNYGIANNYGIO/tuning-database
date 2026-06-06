@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "NX2000",
+  "prestazioni": [
+    "Engine: SR20DE (2.0L DOHC 16V, 140-150hp stock) - Full forged internals with JE 87mm forged pistons (9.5:1 compression), Eagle H-beam connecting rods, and ACL Race Series bearings for 8,500 RPM reliability. Paired with a Tomei 264°/260° camshaft set (intake/exhaust) and Tomei Type-R valve springs/retainers for aggressive lift.",
+    "Forced Induction: Garrett GT2860RS-5 turbo (0.86 A/R, 60 trim) with a custom 3-inch stainless steel downpipe, GReddy Profec B Spec II boost controller, and a custom front-mount intercooler (GReddy Type-40 core) with -20°C IAT reduction. Supporting mods include a Walbro 255LPH fuel pump, Nismo 550cc injectors, and a Sard 1.3L fuel rail with AN-6 fittings.",
+    "Drivetrain & Handling: OS Giken Super Lock LSD (2-way, 40% preload) in a N1-spec B13 transmission with upgraded synchros. Suspension features Ohlins Road & Track DFV coilovers (22-way damping adjustability) with custom valving for the NX2000’s multi-link rear, paired with Cusco 22mm front/18mm rear sway bars and Energy Suspension polyurethane bushings (full set). Braking upgraded to Endless CC-R6 rotors (280mm front, 260mm rear) with AP Racing CP5556 calipers and Ferodo DS2500 pads."
+  ],
+  "estetica": [
+    "Body: Rocket Bunny V1 NX2000 widebody kit (FRP construction) with custom 50mm front/30mm rear overfenders, paired with a Seibon carbon fiber hood (Type-2, 30% weight reduction) and a Cusco carbon fiber rear diffuser. Front bumper lip is a custom 3D-printed ABS unit with integrated DRLs (Lumileds Luxeon Z ES).",
+    "Aero: Voltex 1750mm rear wing (Type-3, 3D carbon fiber) mounted on custom aluminum pedestals with adjustable angle (0-15°). Underbody features a custom aluminum flat floor with vortex generators and a 3-inch rear diffuser (Aeroflow Designs). Side skirts are custom 3D-printed with integrated NACA ducts for rear brake cooling.",
+    "Wheels & Stance: Work Meister S1 3P 15x9 +15 (front) and 15x10 +25 (rear) in a custom bronze finish, wrapped in Toyo R888R 225/45/15 (front) and 245/40/15 (rear). Fender clearance achieved via custom rolled lips and polycarbonate inner fender liners. Ride height set to 15mm static drop with Ohlins coilovers in full stiff mode."
+  ]
+}

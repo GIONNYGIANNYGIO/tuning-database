@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "SILVIA S15 SPEC R AERO",
+  "prestazioni": [
+    "SR20DET (black top, 7,000 RPM redline, 86mm bore, 86mm stroke) forged internals with Tomei 87mm forged pistons, Eagle H-beam connecting rods, and Tomei Type-M 264°/260° camshafts for high-RPM power delivery (450+ HP target on E85)",
+    "Garrett GTX3582R Gen II turbocharger (0.82 A/R turbine housing, 62mm compressor wheel) with custom 3-inch stainless steel turbo manifold by Tomei (equal-length, 4-2-1 design) and HKS SSQV4 blow-off valve for rapid spool and minimal lag",
+    "Haltech Elite 2500 ECU with custom flex-fuel mapping (E85 compatible), paired with a Link G4+ Monsoon for dual-ECU redundancy, AEM X-Series wideband O2 sensors, and a Tomei 270° high-flow fuel pump for 550cc ID1000 injectors"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (S15-specific, carbon fiber front fenders, rear quarter panels, and overfenders) with custom matte gunmetal paint (Gunmetal Grey by Standox) and JDM-spec rear bumper lip by C-West",
+    "Ohlins DFV (Dual Flow Valve) coilovers with 8kg/mm front and 10kg/mm rear springs, custom valving for drift/track use, and adjustable top mounts for camber/caster tuning (specifically for S15 chassis geometry)",
+    "Voltex Type-3 rear wing (carbon fiber, 1,200mm width, 300mm height) with custom aluminum mounts and Gurney flap, paired with a Seibon carbon fiber hood (S15 Spec R-specific, 5kg weight reduction) and custom LED taillights by Jun Auto"
+  ]
+}

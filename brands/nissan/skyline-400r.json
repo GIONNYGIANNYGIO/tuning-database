@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "SKYLINE 400R",
+  "prestazioni": [
+    "RB26DETT (400R-spec) engine with Tomei 272° duration, 11.5mm lift camshafts, Tomei Type-S valve springs, and Tomei titanium retainers to handle 9,500 RPM safely while maintaining the factory 400 PS (395 HP) output but with a broader powerband (3,500-8,500 RPM)",
+    "Garrett GTX4202R turbocharger with a custom 0.82 A/R turbine housing, billet compressor wheel, and 64mm inducer, paired with a Tomei M82 cast manifold and HKS SSQV4 blow-off valve for 1.2 bar (17.4 psi) boost on 98 RON fuel, targeting 600 WHP at the wheels with a 200-cell GReddy Trust intercooler core (600x300x76mm)",
+    "Nismo 555cc/min high-impedance fuel injectors, Walbro 450 LPH in-tank fuel pump, and a Tomei Type-S fuel pressure regulator, controlled via a Haltech Elite 2500 ECU with flex-fuel capability and individual cylinder tuning for the RB26DETT’s sequential twin-turbo setup"
+  ],
+  "estetica": [
+    "Veilside Fortune 99 widebody conversion kit (BCNR33-specific) with custom carbon fiber front fenders, rear quarter panels, and a 3-piece rear bumper, widening the track by 50mm front and 70mm rear, paired with Work Meister S1 3P 18x10.5 +25 and 18x12 +35 wheels (staggered) wrapped in Toyo R888R 265/35/18 and 315/30/18 tires",
+    "C-West GT-R-style carbon fiber hood with a 30mm vented scoop for the GTX4202R turbo, secured with Nismo hood pins and a custom aluminum support frame to prevent flex at high speeds, finished in Nissan’s original Midnight Purple II (LP2) paint with a 3M Matte Clear Bra overlay on high-impact areas",
+    "JUN Auto rear diffuser with integrated carbon fiber side skirts and a custom 3D-printed aluminum rear wing mount, supporting a Voltex Type-7 GT wing (1,700mm width, 300mm chord) at 12° angle of attack, paired with a Cusco front lip spoiler and a custom aluminum undertray for a 0.32 Cd reduction"
+  ]
+}

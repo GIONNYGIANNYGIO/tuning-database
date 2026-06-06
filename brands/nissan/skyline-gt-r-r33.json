@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "SKYLINE GT-R R33",
+  "prestazioni": [
+    "RB26DETT engine: Full forged internals with Manley 96mm forged crankshaft, Carrillo H-beam connecting rods, and JE 87mm forged pistons (8.5:1 compression for high-boost applications), paired with Tomei 272° camshafts and Tomei Type-B valve springs for 10,000+ RPM reliability",
+    "Turbocharger upgrade: Garrett GTX4202R Gen II with billet compressor wheel, 0.82 A/R turbine housing, and TiAL MV-R 44mm external wastegate, supporting 650+ HP on E85 with a custom 4-layer HKS GT-SS intercooler and -10AN hardlines",
+    "Drivetrain reinforcement: OS Giken 2.2L twin-plate clutch with billet flywheel, N1-spec R200 differential with Cusco 2-way LSD, and Powerbuilt 300M axles with upgraded CV joints for 800+ Nm torque handling"
+  ],
+  "estetica": [
+    "Chassis: Veilside Fortune 99 widebody conversion with custom carbon fiber overfenders (35mm wider front, 50mm wider rear) and custom aluminum subframe reinforcements for 295/30/18 front and 335/30/18 rear tires on Work Meister S1 3P wheels (9.5J ET12 front, 11J ET-5 rear)",
+    "Aerodynamics: Top Secret GT-R33 aero kit (carbon fiber front bumper with integrated canards, side skirts, and rear diffuser) paired with a custom 1,200mm carbon fiber rear wing (adjustable 0-20° angle) and Cusco front strut bar with integrated brake cooling ducts",
+    "Interior: Bride Zeta III bucket seats with Schroth 6-point harnesses, custom roll cage by AutoPower (8-point chromoly with integrated harness bar), and full Alcantara retrim (dashboard, door cards, and headliner) with custom RB26DETT gauge cluster (Defi Advance BF series boost, oil temp, and fuel pressure gauges)"
+  ]
+}

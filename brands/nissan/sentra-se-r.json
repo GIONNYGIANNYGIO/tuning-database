@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "SENTRA SE-R",
+  "prestazioni": [
+    "Engine swap to a **QR25DE (Nissan's 2.5L naturally aspirated inline-4, code: QR25DE)** with a **JE Pistons 87.5mm forged piston kit (9.5:1 compression)** and **Manley H-beam connecting rods** for high-RPM durability, paired with a **Tomei 272° camshaft (intake/exhaust)** and **Brian Crower valve springs/retainers** to optimize airflow for 220+ whp naturally aspirated.",
+    "**Garrett GT2860RS turbocharger (0.86 A/R turbine housing)** with a **custom 3-inch stainless steel downpipe** and **GReddy Profec B Spec II boost controller** to target 12 psi on pump gas, supported by a **Nismo S-Tune intake manifold** and **ID1000 fuel injectors** for precise fuel delivery under boost.",
+    "**Nismo 4.211 final drive ratio** in the **RS5F70A 5-speed transmission** with a **PPG straight-cut 1st/2nd gear set** and **Nismo twin-plate clutch** to handle increased torque, while a **Cusco 2-way limited-slip differential** ensures power delivery to both wheels."
+  ],
+  "estetica": [
+    "**Rocket Bunny V1 widebody kit (B17 chassis-specific)** with **custom carbon fiber overfenders** and **Volk Racing TE37SL 17x9 +35 wheels** wrapped in **Michelin Pilot Sport Cup 2 235/40R17 tires** for aggressive stance and grip.",
+    "**Seibon carbon fiber hood (B17-specific)** with **custom dual 3-inch exhaust outlets** exiting through a **custom rear diffuser** made from **3D-printed ABS plastic** and **carbon fiber side skirts** from the **JDM Nissan Wingroad (Y11) donor parts** for a unique OEM+ look.",
+    "**Recaro SP-G (JDM-spec) front seats** with **Takata Drift II 4-point harnesses** and a **Nismo S-Tune steering wheel (380mm, suede)** paired with a **NRG quick-release hub**, while the rear seats are replaced with a **custom aluminum flat floor** for weight reduction and a **custom bolt-in roll cage (8-point, TIG-welded chromoly)** for chassis rigidity."
+  ]
+}

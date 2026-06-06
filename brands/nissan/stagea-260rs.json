@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "STAGEA 260RS",
+  "prestazioni": [
+    "Engine: RB25DET NEO (2.5L inline-6, 280 PS stock) upgraded with a Garrett GTX3582R turbocharger (0.82 A/R, billet compressor wheel) paired with a Tomei 80mm titanium wastegate for precise boost control at 1.5 bar (21.7 psi), ensuring linear power delivery up to 550 WHP on E85 fuel.",
+    "Fuel System: Injector Dynamics ID1050x fuel injectors (1050cc/min) with a Walbro 450 LPH in-tank fuel pump, supplemented by a Tomei high-flow fuel rail and a Sard 1.8L surge tank to prevent fuel starvation during lateral G-forces in drift applications.",
+    "Drivetrain: OS Giken Super Lock LSD (2-way, 40% preload) in the R200 differential, mated to a PPG straight-cut dog engagement gear set (1.5:1 final drive) with a Nismo 2-way clutch-type limited-slip differential for the front ATTESA E-TS system, ensuring balanced AWD torque split under aggressive throttle inputs."
+  ],
+  "estetica": [
+    "Body Kit: Rocket Bunny Stagea V3 widebody conversion (25mm extended fenders, carbon fiber overfenders) with a custom 3M Matte Military Green wrap (color code: 3M 1080-M213) and a Seibon carbon fiber hood (3.5kg weight reduction) featuring a functional NACA duct for RB25DET intercooler airflow.",
+    "Suspension: Ohlins Road & Track DFV coilovers (2-way adjustable damping, 30-way rebound, 16-way compression) with custom-spec spring rates (Front: 12kg/mm, Rear: 10kg/mm) and Cusco pillowball upper mounts to eliminate compliance in the multi-link rear suspension.",
+    "Wheels & Aero: Work Meister S1 3P 18x10.5 +15 (front) and 18x11 +25 (rear) in gloss black, wrapped in Toyo R888R 275/35/18 (front) and 295/30/18 (rear) tires. Rear wing: Voltex Type-3 GT wing (1,800mm width, 300mm chord) with carbon fiber endplates and a 15-degree angle of attack for high-speed stability."
+  ]
+}

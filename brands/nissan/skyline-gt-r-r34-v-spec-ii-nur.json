@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "SKYLINE GT-R R34 V-SPEC II NUR",
+  "prestazioni": [
+    "Engine: VR38DETT (RB26DETT successor in R35, but R34 retains RB26DETT) forced-induction upgrade via Garrett GTX4202R turbochargers (88mm compressor, 1.06 A/R turbine housing) with TiAL MV-R 44mm external wastegates, HKS GT-SS intercooler kit (front-mount, 1000hp-rated), and Tomei 87mm titanium intake manifold with 750cc/min Injector Dynamics ID1050x injectors for stoichiometric AFR at 2.2 bar boost",
+    "Drivetrain: OS Giken 2.2L twin-plate clutch (2400lb clamping force) with N1-spec Getrag 6-speed transmission (reinforced synchros, OS Giken 1.5-way LSD), and Cusco 2-way Type-RS rear differential with 4.11:1 final drive ratio for optimized acceleration in 400m sprints",
+    "Suspension/Handling: Ohlins Road & Track DFV coilovers (24-way damping adjustment, 30mm front/25mm rear ride height reduction), HKS Hipermax IV GT dampers with Swift Springs (12kg/mm front, 10kg/mm rear), and Nismo R34 GT-R-specific 24mm front/22mm rear adjustable sway bars with spherical end links for flat cornering at Tsukuba Circuit"
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny V3 widebody kit (carbon fiber fenders, 30mm extended over OEM flares) with Voltex Type-7 rear wing (3D carbon, 1200mm span, adjustable angle for 200kg downforce at 200km/h), and Nismo R34 GT-R Nur-spec front bumper with integrated carbon splitter (50mm overhang, 30% more airflow to HKS intercooler)",
+    "Exterior: Seibon Carbon R34 GT-R Nur roof (2.5kg weight reduction, OEM-spec weave), Work Meister S1 3P 18x10.5 +25 wheels (9.5kg each, 275/35R18 Yokohama Advan A052 semi-slick tires), and custom Gunmetal Gray (Nismo 401) paint with Nismo R34 GT-R Nur decals (red/white stripe, OEM-spec font)",
+    "Interior: Bride Zeta III reclinable bucket seats (FIA-approved, 1.5kg lighter than OEM), Nismo R34 GT-R Nur titanium shift knob (70g weight, OEM part #BNR34-14801), and Defi BF Advance gauges (2.5-inch turbo boost, oil temp, and fuel pressure) mounted in a custom carbon fiber A-pillar pod (R34-specific cutouts for OEM air vents)"
+  ]
+}

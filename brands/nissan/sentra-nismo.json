@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "SENTRA NISMO",
+  "prestazioni": [
+    "MR20DD (2.0L Direct Injection NA) engine: Full bolt-on intake system with HKS Super Power Flow Hi-Power intake (MR20DD-specific MAF housing) and custom 4-2-1 stainless steel header by Tomei (MR20DD flange pattern) for optimized scavenging and torque curve refinement",
+    "Forced induction conversion using Garrett GT2860RS turbocharger (MR20DD-specific T25/T28 hybrid flange) with custom top-mount intercooler setup (GReddy Type-S intercooler core, 600x300x76mm) and HKS SSQV4 blow-off valve (MR20DD-specific recirculation bypass)",
+    "ECU reflash via Cobb Accessport (MR20DD Nismo-specific base map) with custom tune by FTW Tuning (MR20DD direct injection fueling tables optimized for E85 blend) and AEM X-Series wideband O2 sensor (MR20DD-specific bung location) for closed-loop AFR targeting"
+  ],
+  "estetica": [
+    "Custom Rocket Bunny V3 widebody kit (Sentra B17-specific fender flares, 30mm extended overfenders) with carbon fiber front splitter (Seibon CFRP, MR20DD intercooler ducting integration) and custom rear diffuser (3D-printed ABS, MR20DD exhaust tunnel clearance)",
+    "Ohlins Road & Track coilovers (B17 Sentra-specific valving, 30-way adjustable damping) with custom camber plates (SPL Parts, MR20DD strut tower reinforcement) and Whiteline adjustable rear sway bar (24mm, B17-specific end links)",
+    "Custom 18x9.5 +35 Enkei PF07 wheels (MR20DD hub-centric, 5x114.3 PCD) with 245/40/18 Michelin Pilot Sport Cup 2 tires and Project Mu 4-piston front calipers (B17-specific bracket adapters) with DBA 5000 Series rotors (MR20DD ABS tone ring compatibility)"
+  ]
+}

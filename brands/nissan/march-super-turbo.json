@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "MARCH SUPER TURBO",
+  "prestazioni": [
+    "Engine: MA10ET (930cc inline-4, 110 PS stock) – Full forged internals with JUN 85mm forged pistons, Eagle H-beam connecting rods, and a Tomei 264° camshaft for high-RPM stability and 200+ PS potential.",
+    "Turbocharger: Replace stock IHI RHB52 turbo with a Garrett GT1549S ball-bearing unit, paired with a custom 3-inch stainless steel downpipe and HKS Hi-Power 60mm wastegate for precise boost control (1.5 bar peak).",
+    "Fuel System: Upgraded Nismo 250cc/min fuel injectors, Walbro 255 LPH in-tank fuel pump, and a Sard 60mm fuel pressure regulator to support E85 blends, with a Link G4+ Xtreme standalone ECU for real-time tuning."
+  ],
+  "estetica": [
+    "Body Kit: Veilside Fortune Type-2 widebody conversion with custom carbon fiber overfenders (30mm wider front, 40mm wider rear) to fit Work Emotion CR Kiwami 15x8 +38 wheels with 195/45R15 Yokohama AD08R tires.",
+    "Aero: Custom front splitter from C-West (March-specific) with a 3-piece carbon fiber rear diffuser by Rocket Bunny, paired with a HKS GT-SS coilover suspension (30mm drop) for aggressive stance.",
+    "Interior: Bride Zeta III bucket seats with Takata 4-point harnesses, Nardi Classic 350mm steering wheel, and a full Defi Advance BF gauge cluster (oil temp, boost, wideband AFR) mounted on a custom aluminum dash panel."
+  ]
+}

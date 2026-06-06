@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "PATROL Y61",
+  "prestazioni": [
+    "Engine swap to a Nissan TB48DE (4.8L inline-6) with forged internals: Manley forged pistons (9.0:1 compression), Eagle H-beam connecting rods, and a billet crankshaft from Tomei. Pair with a Garrett GTX4202R turbocharger (1.06 A/R turbine housing) and a custom 4-inch stainless steel exhaust system by HKS, featuring a 3.5-inch downpipe with a divorced wastegate setup routed to a GReddy Profec B Spec II boost controller for precise turbo management.",
+    "Suspension overhaul with Bilstein 8112 series front coilovers (remote reservoir, 2.5-inch diameter) and Bilstein 5162 rear shocks (2.0-inch diameter, 3-way adjustable damping). Pair with Polyurethane bushings from SuperPro (part numbers SPF0115K for front control arms, SPF0116K for rear trailing arms) and a custom 3-inch lift kit by Old Man Emu (OME) with heavy-duty leaf springs (OME part #CS029R) for improved articulation and load capacity.",
+    "Fuel system upgrade: Install a Walbro 450 LPH in-tank fuel pump (part #F90000267) with a Radium Engineering surge tank (part #02-0111) to prevent fuel starvation during off-road maneuvers. Pair with ID1000x injectors (part #41-815-10) and a Link G4+ Xtreme ECU (part #LINK-010101) for standalone engine management, calibrated for E85 compatibility and a 3-bar MAP sensor (part #AEM-30-2131-50)."
+  ],
+  "estetica": [
+    "Custom widebody conversion using a Rocket Bunny Patrol Y61 kit (part #RB-Y61-01), featuring carbon fiber fender flares (2.5-inch wider front, 3-inch wider rear) and a custom front bumper with integrated LED light bar mounts (Baja Designs Squadron Pro, part #447001). Pair with a carbon fiber hood (Seibon, part #NISS-PATROL-Y61-CF) featuring a functional scoop for the intercooler piping.",
+    "Wheel setup: Method MR701 VT wheels (17x9 +12mm offset, part #MR701-1790+12) wrapped in BFGoodrich KM3 tires (285/70R17, part #32104). Pair with custom wheel spacers (Hubcentric, 50mm thickness, part #HC-50-NIS-Y61) to achieve a flush fitment and a custom rear tire carrier (ARB, part #35000402) for a 37-inch spare (BFGoodrich KM3, part #32107).",
+    "Exterior lighting: Replace all factory lights with Rigid Industries D-Series Pro LED pods (part #640313, amber fog lights) and a Baja Designs XL80 Pro LED light bar (part #447601, 50-inch, combo beam) mounted on a custom roof rack (Prinsu Design, part #PR-Y61-01). Pair with a custom wiring harness (Painless Performance, part #30815) and a sPOD SourceLT (part #2014-LT) for auxiliary switch control."
+  ]
+}

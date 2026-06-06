@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "TEANA",
+  "prestazioni": [
+    "VQ35DE (3.5L V6) forced induction via HKS GT-SS turbo kit (GT2835 ball-bearing turbo, 10.5psi boost, 400whp target) with HKS Hi-Power exhaust (2.5\" stainless steel, 70mm tips) and Tomei 80mm titanium downpipe",
+    "KW Variant 3 coilovers (Teana J32-specific valving, 30-way adjustable damping, 40mm front/30mm rear drop) with Cusco 22mm front/18mm rear sway bars and Hardrace adjustable pillowball upper control arms",
+    "Nismo S-Tune engine control unit (standalone, VQ35DE-specific fuel/timing maps) paired with AEM X-Series wideband O2 sensor and GReddy Profec B Spec II boost controller (dual solenoid setup for linear spool)"
+  ],
+  "estetica": [
+    "Vertex Lang II J32-specific widebody kit (carbon fiber fenders, extended rockers, 20mm wider track) with custom 3M Matte Graphite vinyl wrap and JDM-spec Nissan S-Tune front bumper lip",
+    "Work Emotion CR Kiwami wheels (19x9.5 +22 front, 19x10.5 +30 rear) with Toyo R888R tires (245/35/19 front, 275/30/19 rear) and Teana J32-specific Work wheel spacers (15mm front, 20mm rear)",
+    "Seibon carbon fiber J32 trunk (OEM+ fitment, 30% weight reduction) with custom LED taillight overlays (Vland J32-specific sequential turn signals) and Nismo S-Tune rear diffuser (3-piece, carbon fiber)"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "SKYLINE R31 GTS-R",
+  "prestazioni": [
+    "Engine: RB20DET-R (2.0L inline-6, 210 PS stock) upgraded with a Garrett GT35R turbocharger (82mm compressor, 60mm turbine) paired with a Tomei 264° duration camshaft set for aggressive overlap and a Tomei M82 Crank Pulley to reduce parasitic drag. Forged internals include JUN 87mm forged pistons (8.5:1 compression), Eagle H-beam connecting rods, and a Tomei Type-M 72mm stroker crank to achieve 2.2L displacement. Fueling is handled by a Walbro 450LPH in-tank pump, Nismo 550cc/min injectors, and a Sard 1,000cc top-feed fuel rail with an AEM 320lph external pump for E85 compatibility.",
+    "Drivetrain: OS Giken 1.5-way LSD in a Nismo R32 GT-R R200 differential housing, mated to a Holinger RD6 sequential gearbox (dog-ring engagement, 6-speed) with a Nismo twin-plate ceramic clutch (240mm). The driveshaft is replaced with a custom 3.5-inch carbon fiber unit from Driveshaft Shop to handle increased torque while reducing rotational mass.",
+    "Suspension/Handling: Ohlins Road & Track DFV coilovers (24-way adjustable damping, 30mm front/25mm rear spring rates) with spherical bearing upper mounts from Cusco. The front subframe is reinforced with a Nismo R31 GTS-R-specific strut tower bar and a Cusco 4-point front lower chassis brace. Braking is upgraded to Endless CC-RG6 6-pot calipers (355mm front rotors) and CC-RG4 4-pot calipers (330mm rear rotors) with Ferodo DS2500 pads and Motul RBF660 brake fluid."
+  ],
+  "estetica": [
+    "Body: Rocket Bunny R31 Pandem widebody kit (carbon fiber fenders, front bumper, and rear diffuser) with a custom 3M Matte Graphite vinyl wrap. The hood is replaced with a Seibon carbon fiber RB26DETT-style vented unit, and the rear wing is a Voltex Type-3 (1,800mm span, 3D carbon fiber) mounted on Cusco aluminum pedestals.",
+    "Interior: Bride Zeta III bucket seats (FIA-approved, carbon fiber shell) with Schroth 6-point harnesses, mounted on a custom aluminum floor pan from AutoTechnic. The dashboard is replaced with a Defi Advance BF digital gauge cluster (oil pressure, boost, wideband AFR) and a Nismo R32 GT-R 380mm steering wheel wrapped in Alcantara with a quick-release hub from NRG.",
+    "Wheels: Work Meister S1 3P 17x9.5 +15 front and 17x10.5 +20 rear (ET +15/+20) with Toyo R888R tires (245/40/17 front, 275/35/17 rear). The wheel centers are painted Nismo Gunmetal, and the lips are polished. Lug nuts are Muteki SRD titanium units with a 12x1.25 thread pitch."
+  ]
+}

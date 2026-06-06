@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "SERENA NISMO",
+  "prestazioni": [
+    "Engine swap to a Nissan MR20DD (2.0L direct-injection MIVEC) with a custom Tomei 272° camshaft kit, paired with a Garrett GT2860RS turbocharger (0.63 A/R turbine housing) and a GReddy intercooler core (600x300x67mm) for optimized airflow and reduced intake temps under boost",
+    "Full 3-inch stainless steel exhaust system by Fujitsubo (model: Legalis R N1) with a 200-cell catalytic converter and a custom 3.5-inch titanium muffler by HKS (HI-Power Ti) to reduce backpressure while maintaining Nismo acoustic tuning",
+    "Custom ECU reflash by Ecutek (RaceROM platform) with a flex-fuel sensor (Continental 5WK97015) and a Cobb Accessport V3 for real-time monitoring, targeting 280 hp at 6,200 RPM and 260 lb-ft of torque at 4,500 RPM on E85 fuel"
+  ],
+  "estetica": [
+    "Full Rocket Bunny (Pandem) widebody kit (PN: RB-SERENA-NISMO) with custom carbon fiber overfenders, front splitter, and rear diffuser, paired with a custom 3M Matte Graphite vinyl wrap for weight reduction and aggressive stance",
+    "Ohlins Road & Track coilovers (model: DFV) with 8kg/mm front springs and 7kg/mm rear springs, adjustable camber plates (Cusco Type RS), and polyurethane bushings (SuperPro 63mm) for improved handling and cornering stability",
+    "Nismo S-Tune GT4-style rear wing (model: 54010-4BA0B) with a custom 3D-printed carbon fiber gurney flap and a set of Work Emotion CR Kiwami wheels (18x8 +35 front, 18x9.5 +30 rear) wrapped in Yokohama Advan A052 tires (225/40/18 front, 255/35/18 rear)"
+  ]
+}

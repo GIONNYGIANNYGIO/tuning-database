@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "SUNNY TRUCK",
+  "prestazioni": [
+    "Engine swap to a Nissan GA16DE (1.6L DOHC 16V) with a custom forged internals build: JE 87mm forged pistons (9.5:1 CR), Eagle H-beam connecting rods, ACL Race Series bearings, and a Tomei 264°/260° camshaft set (11.5mm lift) for high-RPM power. Paired with a Garrett GT2860RS turbo (0.86 A/R turbine housing) on a custom tubular manifold, targeting 280whp on E85 with a Haltech Elite 1500 ECU managing fueling via ID1000 injectors and a Walbro 450LPH pump.",
+    "Chassis reinforcement via Cusco bolt-in 4-point roll cage (B14 Sunny Truck-specific fitment) and polyurethane bushings (SuperPro SPF0116K) for the front subframe and rear leaf spring mounts. Suspension overhaul with Tein Flex Z coilovers (B14-specific valving) and Whiteline 22mm adjustable rear sway bar (BTR95) to mitigate body roll under load.",
+    "Drivetrain upgrades: OS Giken Super Lock LSD (4.625 final drive ratio) in a reinforced B14 transmission case, paired with a Spec Stage 3+ clutch (single-disc, 2400lb clamp load) and a PST carbon fiber driveshaft to handle increased torque. Braking system features DBA 5000 Series rotors (280mm front, 260mm rear) with Ferodo DS2500 pads and braided stainless steel lines for fade resistance."
+  ],
+  "estetica": [
+    "Custom widebody conversion using Rocket Bunny B14 Sunny Truck fender flares (2.5-inch extended, bolt-on) paired with Work Emotion CR Kiwami wheels (15x9 +15 offset, 205/50R15 Federal 595 RS-RR tires) for aggressive stance. Rear bed delete with a custom aluminum flatbed (1.5mm thick, powder-coated Nissan Racing Red) and integrated rear diffuser (Seibon Carbon fiber, B14-specific).",
+    "Front end overhaul with a custom 3D-printed splitter (PETG, 30% downforce at 100mph) and a Nissan R32 GT-R-inspired hood (Seibon Carbon fiber, vented for intercooler clearance). Lighting upgrades include Hella Micro DE fog lights (clear lens, 55W H3 bulbs) and custom LED taillight housings (VLEDS 3157 Hyperflash, sequential turn signals).",
+    "Interior stripped and reinforced with Bride Gias II reclinable seats (B14-specific mounting brackets) and a custom aluminum dashboard overlay (CNC-machined, anodized black). Roll cage wrapped in Alcantara (Sparco 3mm padding) and a custom gauge pod (Defi Advance BF series: boost, oil temp, wideband AFR) mounted on the A-pillar. Bed liner replaced with Line-X XS-100 (Nissan Racing Red) for durability."
+  ]
+}

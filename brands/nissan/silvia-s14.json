@@ -1,0 +1,21 @@
+{
+  "brand": "NISSAN",
+  "model": "SILVIA S14",
+  "prestazioni": [
+    "SR20DET (blacktop or redtop variant) forged internals: Tomei 87mm forged pistons, Eagle H-beam connecting rods, ACL race bearings, and Tomei Type-S head gasket for 1.5mm squish clearance, supporting 1.3+ bar boost on E85",
+    "Turbocharger: Garrett GTX3076R Gen II with .82 A/R turbine housing, 58mm billet compressor wheel, and TiAL MV-R 44mm external wastegate for precise boost control up to 28psi",
+    "Fuel system: Injector Dynamics ID1700x injectors, Walbro 450LPH in-tank pump, Tomei high-flow fuel rail, and AEM 340LPH inline pump with -8AN feed/return lines, paired with a Tomei 260° camshaft set and Tomei adjustable cam gears for optimized overlap",
+    "ECU: Haltech Elite 2500 standalone with flex-fuel sensor, 4D ignition tables, and individual cylinder trimming for the SR20DET, mapped by a specialist like Rywire or Enjuku Racing for 450+ whp on E85",
+    "Drivetrain: OS Giken Super Lock LSD with 2.5-way differential, Nismo 5-speed close-ratio gearbox (JDM S15 spec), and N1 4.444 final drive for aggressive acceleration, paired with a Tilton twin-disc clutch and lightweight flywheel",
+    "Suspension: Ohlins Road & Track DFV coilovers with 8kg/mm front and 10kg/mm rear springs, Cusco front and rear sway bars (22mm front, 18mm rear), and Whiteline adjustable rear toe arms for aggressive rotation",
+    "Braking: Endless 6-pot front calipers with 330mm two-piece rotors and Ferodo DS2500 pads, paired with Endless 4-pot rear calipers and 300mm rotors, with braided stainless steel lines and Motul RBF660 brake fluid"
+  ],
+  "estetica": [
+    "Body kit: Rocket Bunny V3 widebody conversion with carbon fiber overfenders, front bumper, and rear diffuser, retaining the OEM S14 chassis but widening the track by 50mm per side for aggressive stance",
+    "Aero: Voltex Type-3 rear wing with 3D carbon fiber construction, adjustable angle mounts, and integrated third brake light, paired with a Cusco front lip spoiler and carbon fiber canards for high-speed stability",
+    "Wheels: Work Meister S1 3P 17x9.5 +15 front and 17x10.5 +22 rear in matte gunmetal, paired with Nitto NT01 245/40/17 and 275/35/17 tires for optimal grip and weight reduction (15.5 lbs per wheel)",
+    "Interior: Bride Zeta III reclining bucket seats with Takata 4-point harnesses, NRG quick-release steering wheel hub, and Defi BF gauges (oil pressure, boost, water temp, and fuel pressure) mounted in a custom carbon fiber A-pillar pod",
+    "Lighting: Hella Micro DE fog lights with custom HID projectors, retrofitted with Osram Night Breaker Laser bulbs, and JDM S15-spec clear taillights with sequential LED turn signals",
+    "Exterior details: Seibon carbon fiber hood with integrated NACA duct for intercooler cooling, Cusco carbon fiber mirror covers, and a custom 3M matte vinyl wrap in Nissan Racing Blue (KH3) with gloss black accents"
+  ]
+}

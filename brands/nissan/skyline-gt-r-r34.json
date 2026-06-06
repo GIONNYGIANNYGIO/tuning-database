@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "SKYLINE GT-R R34",
+  "prestazioni": [
+    "RB26DETT engine: Full forged internals with Tomei 87mm forged pistons, Eagle H-beam connecting rods, and Tomei Type-M 2.8L stroker crankshaft for 2.8L displacement, paired with Tomei 272°/272° camshafts and Tomei adjustable cam gears for optimized valve timing",
+    "Turbocharger upgrade: Garrett GTX4202R Gen II with billet compressor wheel, 0.82 A/R turbine housing, and TiAL MV-R 44mm wastegate for precise boost control (targeting 1.8 bar / 26 psi on E85 fuel)",
+    "Fuel system: Nismo 1,000cc/min fuel injectors, Walbro 450LPH in-tank fuel pump, Tomei fuel rail, and HKS F-CON V Pro standalone ECU with custom dyno-tuned map for E85 compatibility and 700+ hp at the wheels"
+  ],
+  "estetica": [
+    "Vertex Lang II widebody kit with custom carbon fiber front fenders, rear quarter panels, and rear bumper, featuring integrated Nismo GT-R R35-style side skirts and a relocated R34-specific rear diffuser",
+    "Ohlins Road & Track DFV coilovers with 3-way adjustable damping (compression, rebound, and ride height), paired with Cusco front and rear sway bars (24mm front, 22mm rear) and Nismo R34 GT-R R-tune pillow ball upper mounts",
+    "Voltex Type-7 rear wing with custom 3D carbon fiber construction, adjustable angle of attack (0-20 degrees), and integrated Gurney flap, paired with a Seibon carbon fiber hood featuring a functional NACA duct for RB26DETT intercooler cooling"
+  ]
+}

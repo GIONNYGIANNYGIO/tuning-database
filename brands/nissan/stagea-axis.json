@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "STAGEA AXIS",
+  "prestazioni": [
+    "Engine: RB25DET NEO (2.5L inline-6, 280ps stock) upgraded with a Garrett GTX3582R turbocharger (0.82 A/R, 62mm compressor, 76mm turbine) paired with a Tomei 85mm titanium wastegate for precise boost control at 1.5 bar (21.7 psi).",
+    "Fuel System: Injector Dynamics ID1050x fuel injectors (1050cc/min) with a Walbro 450LPH in-tank fuel pump, fed by a Tomei high-flow fuel rail and AN-6 braided lines, controlled via a Haltech Elite 2500 ECU with flex-fuel ethanol compatibility (E85).",
+    "Drivetrain: OS Giken Super Lock LSD (2-way, 4.375 final drive) in a Nismo 5-speed transmission with a PPG straight-cut gearset (1st: 2.785, 2nd: 1.925, 3rd: 1.378) and a Nismo twin-plate ceramic clutch (240mm) for RB25DET torque handling."
+  ],
+  "estetica": [
+    "Body: Rocket Bunny Stagea V3 widebody kit (front fenders, rear quarters, and bumper extensions) with custom carbon fiber overfenders (15mm wider front, 20mm wider rear) and a Seibon carbon fiber hood (vented, 30% weight reduction).",
+    "Suspension: Ohlins Road & Track DFV coilovers (2-way adjustable damping, 30-way rebound, 30mm front/25mm rear drop) with Cusco pillowball upper mounts and Whiteline adjustable sway bars (24mm front, 22mm rear).",
+    "Wheels: Work Meister S1 3P (18x9.5 +15 front, 18x10.5 +25 rear) in matte gunmetal, wrapped in Yokohama Advan A052 semi-slick tires (245/40/18 front, 275/35/18 rear) with custom BBS center-lock adapters."
+  ]
+}

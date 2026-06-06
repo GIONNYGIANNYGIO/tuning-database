@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "SILVIA S15 SPEC-R",
+  "prestazioni": [
+    "SR20DET (black top, 7,000 RPM redline) forced induction upgrade via Garrett GTX3582R Gen II turbocharger with billet compressor wheel, 0.82 A/R turbine housing, and TiAL MV-R 44mm external wastegate, paired with Tomei 264°/260° duration, 11.5mm/10.8mm lift camshafts and Tomei M82 Type-R head studs for 1.5-bar boost pressure retention",
+    "Nismo 74mm big-bore throttle body with custom 3-inch velocity stack, HKS Super Power Flow Type-R 80mm intercooler core (front-mount, 600x300x76mm), and custom 3-inch aluminum charge piping with HKS SSQV4 blow-off valve for minimized turbo lag and optimized airflow dynamics",
+    "Haltech Elite 2500 standalone ECU with individual cylinder fuel trims, dual Bosch 028 high-impedance injectors (primary) and ID1000 secondary injectors (staged), Walbro 450 LPH in-tank fuel pump, and Tomei 85mm titanium intake manifold with velocity stacks for optimized mid-to-high RPM torque delivery"
+  ],
+  "estetica": [
+    "Veilside Fortune 03 widebody conversion kit with custom carbon fiber overfenders (25mm wider front, 35mm wider rear), extended rocker panels, and integrated rear diffuser for aggressive stance and aerodynamic stability",
+    "Seibon Carbon CS-II dry carbon fiber hood with integrated NACA ducts for direct intercooler airflow, paired with a custom carbon fiber front bumper featuring a 3D-printed splitter with adjustable dive planes (30mm extension) for downforce optimization",
+    "Work Meister S1 3P 18x9.5 +15 (front) and 18x10.5 +22 (rear) wheels with custom 5x114.3 to 4x100 hub conversion, wrapped in Toyo R888R 245/40/18 (front) and 275/35/18 (rear) tires, paired with Cusco Type RS coilovers (8kg/mm front, 10kg/mm rear springs) and Cusco front strut bar for chassis rigidity"
+  ]
+}
