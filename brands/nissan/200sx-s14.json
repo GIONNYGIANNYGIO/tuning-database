@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "200SX S14",
+  "prestazioni": [
+    "SR20DET (black top, 74mm bore, 89.9mm stroke) with forged internals: Tomei 87mm forged pistons (8.5:1 CR), Eagle H-beam connecting rods, and ACL Race Series bearings. Turbo upgrade to Garrett GTX3076R Gen II with a 0.82 A/R turbine housing and 58mm compressor inducer, paired with a Tomei M82 cast manifold and 3-inch stainless steel downpipe.",
+    "Fuel system overhaul: Injector Dynamics ID1050x injectors, Walbro 450LPH in-tank fuel pump, and a Tomei Type-S fuel pressure regulator. ECU reflash via Haltech Elite 2500 with custom 3D mapping for E85 flex-fuel compatibility, including a Continental ethanol content sensor and AEM X-Series wideband O2 controller.",
+    "Suspension and drivetrain: Ohlins Road & Track DFV coilovers with 8kg/mm front and 9kg/mm rear springs, Cusco 2.5-way LSD (2-way for street, 0.6-way for power-on), and Nismo 5-speed close-ratio gearbox with OS Giken 1.5-way synchros. Braking system features DBA 5000 Series rotors (320mm front, 280mm rear) with AP Racing CP6640 calipers and Ferodo DS2500 pads."
+  ],
+  "estetica": [
+    "Vertex Lang II widebody kit with custom carbon fiber overfenders (25mm wider front, 35mm wider rear) and Rocket Bunny rear bumper with integrated diffuser. Front lip spoiler from JUN Auto Mechanics with canards, paired with a Seibon carbon fiber hood (Type II, 50% weight reduction).",
+    "Interior: Bride Zeta III bucket seats with Takata 4-point harnesses, Nardi Classic 350mm steering wheel, and Defi BF gauges (oil pressure, boost, and water temp) mounted in a custom A-pillar pod. Full sound deadening with Dynamat Extreme and a custom roll cage (8-point, TIG-welded, 4130 chromoly) by Cusco.",
+    "Exterior accents: Work Meister S1 3-piece wheels (17x9 +22 front, 17x10 +30 rear) with Toyo R888R tires (235/40/17 front, 265/35/17 rear). Paint scheme: Nissan Super Black (KH3) with custom pearl flakes and a matte clear coat, complemented by custom LED taillights (S14-specific, sequential turn signals) and a JDM-spec N1 front bumper lip."
+  ]
+}

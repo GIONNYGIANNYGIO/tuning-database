@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "300ZX Z32",
+  "prestazioni": [
+    "Engine: Twin-turbocharged **VG30DETT** (3.0L DOHC 24V V6) with forged internals including **JE Pistons 87.5mm forged slugs (8.5:1 CR)**, **Manley H-beam connecting rods**, and **Crower billet crankshaft**. Turbo upgrade to **Garrett GTX4202R (62mm inducer, 82mm exducer) with TiAL MV-R 44mm wastegates** and **TurboSmart Race Port BOV** for 1.2-bar boost targeting 650whp on **E85 fuel** with **Injector Dynamics ID1700x injectors**.",
+    "Drivetrain: **OS Giken Super Lock LSD** in a **PPG straight-cut 1st/2nd gear set (2.971/2.080 ratios)** paired with a **Nismo 4.300 final drive** and **Spec Stage 4+ twin-disc clutch** with **Nissan Motorsports 6-speed synchro upgrade**.",
+    "Suspension/Handling: **Öhlins Road & Track DFV coilovers (Z32-specific valving)** with **SPL Pro 4-link rear subframe reinforcement**, **Whiteline adjustable sway bars (24mm front, 22mm rear)**, and **Nismo 5-link rear poly bushings**. Braking via **AP Racing Radi-CAL 6-piston front (380mm rotors) and 4-piston rear (355mm rotors)** with **Ferodo DS3000 pads** and **Goodridge G-Stop braided lines**."
+  ],
+  "estetica": [
+    "**Veilside Fortune 99 widebody kit** (Z32-specific, 3-piece front fenders, 2-piece rear quarters) with **custom carbon fiber overfenders** and **Rocket Bunny rear diffuser**.",
+    "**Seibon Carbon fiber hood** (Z32 TT-specific, 3-piece with integrated NACA ducts) and **AeroCatch hood pins**. **Custom 1/4-inch polycarbonate side windows** with **Vintage Air Gen-4 mini compressor** for cabin cooling.",
+    "**Work Meister S1 3P 18x10.5 +25 front / 18x12 +30 rear** with **Toyo R888R 275/35/18 front / 315/30/18 rear** tires. **Nismo Z-Tune rear spoiler** (carbon fiber, 3D-printed endplates) and **custom LED taillight delete with sequential startup animation** (using **Diode Dynamics SS360 Pro** modules)."
+  ]
+}

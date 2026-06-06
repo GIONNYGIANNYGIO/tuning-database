@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "280ZX",
+  "prestazioni": [
+    "L28E inline-6 engine: Full forged internals with JE 87.5mm forged pistons (9.0:1 CR), Eagle H-beam connecting rods, and a billet crankshaft from K1 Technologies for 8,500 RPM reliability. Paired with a T3/T4 hybrid turbocharger (Garrett GT35R core, 62mm compressor wheel, .82 A/R turbine housing) pushing 22 psi through a custom 3-inch stainless steel exhaust with a Burns Stainless 4-2-1 header and a 3.5-inch MagnaFlow Competition Series muffler.",
+    "Fuel system overhaul: Dual Bosch 044 high-flow fuel pumps feeding 1,000cc ID1000 injectors, controlled by a Haltech Elite 2500 ECU with a custom L28E-specific base map. Water-methanol injection via Snow Performance Stage 3 kit with a 5-gallon reservoir and dual nozzles targeting the intake manifold for 15°F charge cooling.",
+    "Drivetrain and suspension: OS Giken 5-speed LSD with 4.375:1 final drive ratio, paired with a Tilton twin-disc clutch and lightweight flywheel. Suspension features BC Racing BR coilovers with Swift springs (8kg/mm front, 7kg/mm rear) and polyurethane bushings from Energy Suspension. Braking upgraded to StopTech Big Brake Kit (4-piston calipers, 13-inch rotors) with Hawk HT-10 brake pads and stainless steel braided lines."
+  ],
+  "estetica": [
+    "Bodywork: Full Rocket Bunny Version 3 widebody kit (fiberglass fenders, carbon fiber front splitter, and duckbill rear wing) with a custom 3M Matte Graphite vinyl wrap. Front bumper modified to fit a custom aluminum radiator support and dual 12-inch SPAL fans for L28E cooling demands.",
+    "Interior: Full Recaro SRD-E bucket seats with Schroth 6-point harnesses, bolted to a custom roll cage (1.75-inch DOM tubing, TIG-welded) from Custom Cages. Dashboard replaced with a digital AIM MXS Strada dash and a Momo Mod.78 steering wheel on a NRG quick-release hub. Rear seats removed and replaced with a custom aluminum fuel cell (12-gallon capacity) from Fuel Safe.",
+    "Lighting and details: Full LED conversion with LUX H8/H11 bulbs and custom Hella 500FF driving lights mounted in the front bumper. Rear taillights replaced with custom CNC-machined aluminum housings and CREE LED strips. Engine bay detailed with a custom aluminum radiator shroud, carbon fiber intake piping, and a custom powder-coated valve cover in Nissan Racing Blue."
+  ]
+}

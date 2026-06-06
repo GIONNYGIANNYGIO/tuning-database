@@ -1,0 +1,14 @@
+{
+  "brand": "MORGAN",
+  "model": "AERO GT",
+  "prestazioni": [
+    "BMW N63B44O1 (4.4L twin-turbo V8) engine: Full internal build with forged Mahle Motorsport pistons (9.5:1 CR), Carrillo H-beam connecting rods, and a billet crankshaft from Manley Performance to handle 850whp on E85. Pair with a Garrett GTX5533R turbocharger (82mm compressor, 1.15 A/R turbine housing) and a custom 4-inch stainless steel exhaust system by Remus Technology with quad 100mm titanium tips for optimal backpressure management.",
+    "Drexler Motorsport limited-slip differential with 40% lockup under load, paired with a Quaife ATB helical LSD for the front axle to eliminate torque steer. Upgrade the stock ZF 8HP70 transmission with a Level 10 valve body and a PUK Racing dual-disc clutch kit (ceramic-metallic friction material) for 1,200 Nm torque capacity.",
+    "Custom Öhlins TTX46 coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression) and spherical bearing top mounts. Reinforce the aluminum monocoque chassis with a T45 steel roll cage by Custom Cages UK, integrating seam-welded stress points and a bolt-in X-brace for torsional rigidity. Replace stock bushings with SuperPro polyurethane components (part #SPF0114K) for subframe and control arms."
+  ],
+  "estetica": [
+    "Full carbon fiber widebody conversion kit by Morgan-approved coachbuilder RS Coachworks, featuring extended front fenders (30mm per side), a bespoke rear quarter panel with integrated air vents for brake cooling, and a one-piece carbon fiber front splitter with adjustable dive planes (3D-printed from Toray T800 carbon fiber).",
+    "Custom LED headlight assembly by JW Speaker (Model 8700 Evolution J3) with adaptive cornering functionality and a sequential turn signal integrated into the DRL housing. Replace the stock taillights with a full-width LED bar by Diode Dynamics (Cobra-style, sequential startup animation) and a carbon fiber rear diffuser by Vorsteiner (Aero GT-specific, with integrated twin 80mm exhaust cutouts).",
+    "Interior overhaul with a full Alcantara retrim by Royal Steering Wheels, including a custom MOMO Prototipo EVO steering wheel (350mm diameter, suede-wrapped with red stitching), Recaro Pole Position seats (carbon fiber shell, 6-point Schroth harnesses), and a bespoke digital dash by AIM MXS Strada (12-inch display, CAN bus integration for N63B44O1 telemetry)."
+  ]
+}

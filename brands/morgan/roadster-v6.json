@@ -1,0 +1,14 @@
+{
+  "brand": "MORGAN",
+  "model": "ROADSTER V6",
+  "prestazioni": [
+    "Replace the stock Ford Cyclone 3.7L Ti-VCT V6 (engine code: *Duratec 37*) with a fully built *Ford Performance Racing School* crate engine featuring forged Mahle pistons (9.5:1 compression), Manley H-beam connecting rods, and a billet crankshaft, paired with a *Cosworth* high-lift camshaft kit (280° duration, 0.500\" lift) and *Ferrea* titanium valves for a 400+ HP output on 98 RON fuel.",
+    "Install a *Harrop* TVS2300 supercharger kit (10 psi boost) with a custom *VMP Racing* intercooler core (4.5\" thick, 1200 CFM airflow) and a *SCT Performance* X4 Power Flash tuner pre-loaded with a *Lund Racing* custom tune optimized for the Morgan’s lightweight chassis (1,050 kg) and rear-wheel-drive dynamics.",
+    "Upgrade the drivetrain with a *Quaife* ATB differential (85% lock) in a *Tremec TR-6060* 6-speed manual transmission (short-throw shifter from *MG Motorsport*), paired with *Penske* 8760-series coilovers (adjustable damping, 2-way rebound/compression) and *Eibach* anti-roll bars (24mm front, 22mm rear) for chassis rigidity."
+  ],
+  "estetica": [
+    "Replace the stock aluminum body panels with *Morgan Plus Six* carbon fiber fenders, hood, and trunk (weighing 40% less) from *Morgan Motor Company’s Special Operations*, finished in a *Bespoke R-M* ‘Midnight Sapphire’ paint with *3M* matte clear coat for UV resistance.",
+    "Install a *Liberty Walk* widebody conversion kit (custom-fabricated for the Roadster V6’s 2,490mm wheelbase) with *Aeromotions* active rear spoiler (adjustable via a *Motec* PDM15) and *Seibon* carbon fiber side skirts, paired with *HRE* FF03 wheels (18x9.5\" front, 18x11\" rear) wrapped in *Michelin Pilot Sport Cup 2* tires (245/40 R18 front, 295/35 R18 rear).",
+    "Retrofit the interior with *Recaro* SPG XL seats (carbon fiber shells, Alcantara inserts) and a *Momo* Prototipo steering wheel (380mm diameter, suede grip), paired with a *Race Technology* DL1 data logger (integrated with *AIM* MXS Strada dash) and a *Rollcentre* bolt-in FIA-spec roll cage (T45 steel, powder-coated in ‘Gunmetal Grey’)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "NIO",
+  "model": "EP9",
+  "prestazioni": [
+    "Upgrade to a custom dual-motor inverter system utilizing Silicon Carbide (SiC) MOSFETs from Wolfspeed (CAB400M12XM3) to replace the stock inverters, enabling 1,000 kW (1,341 hp) peak power output while reducing switching losses by 70% and improving thermal efficiency for sustained track use.",
+    "Installation of a bespoke liquid-cooled battery pack with 70 kWh capacity, featuring NMC 811 chemistry cells from CATL (model CTP3.0) and a direct-to-cell immersion cooling system using 3M Novec 7100 engineered fluid to maintain 60°C operating temps under extreme load, paired with a custom BMS from Sendyne (SFX-200) for real-time cell balancing and predictive failure analytics.",
+    "Replacement of the stock single-speed gearbox with a 3-speed sequential transmission from Hewland (LST-101) mated to a carbon-fiber driveshaft from GKN Automotive, featuring a magnesium-alloy casing and a Quaife ATB differential with 45% lockup under load, optimized for the EP9's 4x4 torque vectoring system and capable of handling 1,500 Nm per axle."
+  ],
+  "estetica": [
+    "Full carbon-fiber aero package from NIO's in-house tuning division, including a revised front splitter with integrated active Gurney flaps (adjustable via Bosch Rexroth electrohydraulic actuators), a rear diffuser with 3D-printed titanium vanes from SLM Solutions, and a fixed rear wing with a 1.2m chord and NACA 63A012 airfoil profile, generating 3,200 kg of downforce at 250 km/h.",
+    "Custom forged magnesium wheels from BBS (FI-R II) in a 10x19 front and 12x20 rear configuration, wrapped in Michelin Pilot Sport Cup 2 R tires (295/30 R19 front, 345/25 R20 rear) with a bespoke compound (M88A) developed exclusively for the EP9, featuring a silica-rich tread for sub-1:05 Nürburgring lap times.",
+    "Full titanium exhaust system from Akrapović, featuring a 4-into-2-into-1 layout with Inconel 625 headers, a central muffler with electronically controlled bypass valves (linked to the ECU via CAN bus), and dual 100mm carbon-fiber tips, reducing weight by 12 kg while enhancing acoustic tuning for a 900 Hz primary resonance frequency."
+  ]
+}

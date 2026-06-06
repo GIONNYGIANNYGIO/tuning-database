@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "ALMERA TINO SPORT",
+  "prestazioni": [
+    "Engine swap to a **QR25DE NEO** (2.5L NA, 182 PS stock) with a **Tomei 260° duration camshaft set** (260° intake, 256° exhaust, 10.8mm lift) and **HKS Hi-Power exhaust manifold** (4-2-1 design, 304 stainless steel) to optimize scavenging for the Tino's compact engine bay. Pair with a **GReddy SP2 intercooler kit** (front-mount, 600x300x76mm core) if forced induction is later added via a **Garrett GT2860RS turbo** (0.64 A/R turbine housing, 56 trim compressor).",
+    "Full **Tein Flex Z coilover suspension** (8kg/mm front, 6kg/mm rear springs, 16-way adjustable damping) with **Nissan S15 Silvia front upper strut mounts** (polyurethane bushings) to correct the Tino's excessive body roll and improve turn-in response. Add **Cusco 22mm front sway bar** (hollow, adjustable end links) and **Whiteline rear sway bar** (20mm, solid) to balance understeer.",
+    "OEM **Nissan Primera P12 2.0L (QG18DE) ECU reflash** via **Nistune Type 3 board** (with **MAP sensor upgrade to 3-bar** for boost support) and **Apexi Power FC** (standalone management) for precise fuel and ignition mapping. Use **ID1000x injectors** (1000cc/min, low impedance) and **Walbro 255lph fuel pump** to support 300+ HP targets. Pair with a **Nissan Skyline R34 GT-T clutch** (twin-plate, 600kgf clamp load) and **Nismo lightweight flywheel** (4.5kg) for rev-happy NA builds."
+  ],
+  "estetica": [
+    "**Vertex Lang II widebody kit** (FRP construction, +50mm front/+60mm rear fenders) with **custom 5x114.3 to 5x100 hubcentric spacers** (15mm, aluminum) to fit **Work Emotion CR Kiwami wheels** (17x8 +35 ET, 225/45/17 tires). Rear fenders require **custom rolled lips** to clear the Tino's unique rear suspension geometry.",
+    "**Seibon carbon fiber hood** (OEM-style, 50% weight reduction) with **custom NACA ducts** (3D-printed ABS, bonded) to feed the **GReddy SP2 intercooler**. Pair with **Rocket Bunny-style front bumper lip** (modified to fit the Tino's bumper beam) and **custom aluminum rear diffuser** (modeled after the **Nissan Juke-R** design, 3-piece bolt-on).",
+    "**Recaro SRD-E bucket seats** (Nissan S14/S15 shell, 30% lighter than OEM) with **Sparco 6-point harnesses** (ASM-compliant) and **custom aluminum seat mounts** (CAD-designed, 5mm 6061-T6 plate) to retain the Tino's rear seat delete option. Interior wrapped in **AutoTrim Design carbon fiber weave** (gloss finish) with **Nismo V32 gauge cluster** (10,000 RPM redline, oil temp/pressure sensors)."
+  ]
+}

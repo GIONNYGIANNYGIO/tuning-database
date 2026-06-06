@@ -1,0 +1,14 @@
+{
+  "brand": "MORGAN",
+  "model": "AERO 8",
+  "prestazioni": [
+    "BMW N62B48 (4.8L V8) engine swap to a built N63B44O1 (4.4L twin-turbo V8) with forged internals (Mahle pistons, Carrillo H-beam rods, and a billet crankshaft) paired with a Garrett GTX4202R turbocharger (1.25 A/R turbine housing) and a custom 4-inch titanium exhaust system by Remus with electronically controlled valves for backpressure optimization",
+    "Full Motec M150 ECU standalone management with custom CAN bus integration for the Morgan-specific chassis dynamics, including traction control, launch control, and a bespoke anti-lag system tuned by Dynojet Research for the Aero 8’s aluminum spaceframe",
+    "Öhlins TTX40 coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression) and custom spring rates (800 lb/in front, 600 lb/in rear) to compensate for the Aero 8’s 52/48 weight distribution, paired with a full polybush kit from SuperPro (part #SPF1003K) for subframe and control arm reinforcement"
+  ],
+  "estetica": [
+    "Custom carbon fiber widebody kit by Liberty Walk (LB-WORKS Aero 8-specific design) with extended front fenders (2.5-inch flares) and a rear diffuser integrated into the hand-formed aluminum rear valance, finished in a matte clear coat with exposed weave",
+    "Bespoke LED headlight conversion by Hella (part #8ES 009 131-821) with adaptive cornering functionality and a custom DRL strip integrated into the Morgan’s signature grille, paired with a set of 20-inch forged BBS LM-R wheels (9.5J front, 11J rear) in a gunmetal finish with Michelin Pilot Sport Cup 2 R tires (265/30 front, 305/25 rear)",
+    "Full Alcantara interior retrim by Royal Steering Wheels, including a custom 380mm MOMO Prototipo steering wheel with Alcantara grips and carbon fiber inserts, Recaro Pole Position seats (carbon shell, Alcantara upholstery), and a custom aluminum shift knob by CAE (part #CAE-1000) for the ZF 6HP28 transmission"
+  ]
+}

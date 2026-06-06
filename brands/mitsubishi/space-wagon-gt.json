@@ -1,0 +1,14 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "SPACE WAGON GT",
+  "prestazioni": [
+    "Engine swap to a 4G63T (from a Mitsubishi Galant VR-4 or Lancer Evolution I-III) with forged internals: Manley 87mm forged crank, Eagle H-beam connecting rods, and JE 8.5:1 compression pistons. Turbocharged with a Garrett GT3076R (0.82 A/R turbine housing) and custom 3-inch stainless steel exhaust featuring a Tomei 80mm titanium tip.",
+    "Full standalone ECU conversion using a Haltech Elite 2500 with custom wiring harness and individual cylinder tuning. Upgraded fuel system includes a Walbro 450 LPH in-tank pump, Injector Dynamics ID1000 fuel injectors, and a Radium Engineering fuel pressure regulator.",
+    "Suspension overhaul with Tein Flex Z coilovers (specifically valved for the Space Wagon's 4G63T swap weight distribution) and polyurethane bushings from SuperPro. Braking system upgraded to DBA 5000 Series rotors with Ferodo DS2500 pads and stainless steel braided lines from Goodridge."
+  ],
+  "estetica": [
+    "Custom widebody conversion using Rocket Bunny's Mitsubishi Space Runner (E54/E55) kit, modified to fit the Space Wagon's longer wheelbase. Front bumper replaced with a custom carbon fiber unit featuring integrated LED fog lights from Osram and a relocated intercooler duct.",
+    "Rear hatch spoiler from a Mitsubishi Chariot GT (E32/E33) retrofitted with a carbon fiber Gurney flap from APR Performance. Side skirts from a Mitsubishi RVR GT (N84) with custom carbon fiber extensions to match the widebody fenders.",
+    "OEM+ interior refresh with Recaro SRD seats (from a Mitsubishi Galant VR-4) reupholstered in Alcantara with red stitching. Custom gauge cluster using Defi Advance BF series gauges (oil pressure, boost, and wideband AFR) mounted in a carbon fiber pod. Shift knob replaced with a weighted aluminum unit from HKS (model 35004-AK001)."
+  ]
+}

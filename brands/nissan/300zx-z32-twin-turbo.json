@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "300ZX Z32 TWIN TURBO",
+  "prestazioni": [
+    "Engine: Replace the stock **VG30DETT** (3.0L DOHC 24V twin-turbo V6) internals with **JUN forged pistons (87.5mm, 8.5:1 CR)**, **Manley H-beam connecting rods**, and a **Tomei Type-M 264° camshaft set** for aggressive lift and duration (11.5mm intake, 11.0mm exhaust). Pair with **HKS 272° adjustable cam gears** for precise timing tuning.",
+    "Forced Induction: Swap the stock **Garrett T25/T28 turbos** for a **Garrett GTX3582R (82mm, 62 trim) twin-turbo kit** with **TurboSmart 45mm wastegates** and **Precision Turbo 50mm external wastegate dump tubes**. Use **GReddy Type-S intercoolers (front-mount, 3.5\" core)** and **HKS SSQV4 blow-off valves** to eliminate compressor surge.",
+    "Fuel & Ignition: Install **ID1000cc (12ohm) fuel injectors** with **Walbro 450LPH in-tank fuel pump** and **AEM 340LPH external lift pump**. Run **Nismo 550cc/min high-impedance injectors** for staged injection. Ignition system upgraded with **NGK Iridium IX (BKR7EIX) spark plugs**, **MSD 6AL ignition box**, and **Nology HotWires ignition leads** for consistent spark under boost."
+  ],
+  "estetica": [
+    "Body Kit: **Veilside Fortune 99 widebody conversion** with **custom carbon fiber overfenders (3.5\" wider front, 4\" wider rear)** to fit **Work Meister S1 3P 18x10.5 +25 (front) and 18x12 +35 (rear)** wheels. Front bumper replaced with **Tommy Kaira M30 GT-R-style lip** and **Seibon carbon fiber hood (with VG30DETT-specific NACA ducts)**.",
+    "Aero: **Rocket Bunny V3 GT wing (1,800mm, 3D carbon fiber)** with **custom aluminum mounts** and **AeroCatch hood pins**. Side skirts replaced with **JUN Auto GT side steps** and **custom carbon fiber diffuser** (3D-printed mold, 5-element design) to match the **Veilside Fortune rear bumper**.",
+    "Lighting & Details: **Morimoto XB LED headlights (HID projector retrofit)** with **custom C-West JZA80 Supra-style DRLs** integrated into the bumper. Rear lights replaced with **VIP Modular LED taillights (clear lens, sequential turn signals)**. Engine bay detailed with **custom aluminum radiator support delete**, **carbon fiber strut brace (C-West)**, and **anodized purple HKS Hi-Power exhaust tips (110mm dual exit)**."
+  ]
+}

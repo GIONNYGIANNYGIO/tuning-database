@@ -1,0 +1,14 @@
+{
+  "brand": "MORGAN",
+  "model": "PLUS SIX",
+  "prestazioni": [
+    "BMW B58B30M0 (3.0L inline-6) engine: Replace the stock turbo with a Garrett GTX4202R Gen II turbocharger (84mm compressor wheel, 64mm turbine wheel) paired with a custom 3.5-inch stainless steel downpipe and a CSF Racing B58-specific front-mount intercooler (bar-and-plate core, 1100cfm airflow capacity).",
+    "Full Motec M150 ECU standalone management system with custom CAN bus integration for the Morgan-specific chassis wiring harness, including launch control, flat-foot shifting, and individual cylinder fuel trimming for the B58’s direct/injector setup.",
+    "Ohlins Road & Track coilovers (TTX46 MkII dampers) with Morgan Plus Six-specific spring rates (800lb/in front, 600lb/in rear) and adjustable top mounts for camber correction, paired with a Whiteline front sway bar (24mm adjustable) and a custom-fabricated rear sway bar (22mm solid) to mitigate the Plus Six’s unique ladder-frame chassis flex."
+  ],
+  "estetica": [
+    "RML Group carbon fiber front splitter with integrated air curtains (Morgan Plus Six-specific mold, 3-piece construction) and a custom rear diffuser by Prior Design (carbon-Kevlar hybrid, 3-stage Gurney flap) to balance the car’s retro styling with modern aero efficiency.",
+    "Morgan Motor Company Heritage Edition ‘Aero 8’ style headlight conversion (LED projectors with DRL halos, sequential turn signals) paired with a custom-fabricated carbon fiber bonnet featuring a functional NACA duct for B58 intercooler airflow extraction.",
+    "BBS FI-R 19x9.5 (front) and 19x11 (rear) forged wheels (ET35 front, ET45 rear) wrapped in Michelin Pilot Sport Cup 2 R tires (265/35/19 front, 295/30/19 rear), with custom wheel spacers (15mm front, 20mm rear) to fill the Plus Six’s wide fenders without fender modification."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "NIO",
+  "model": "ET7",
+  "prestazioni": [
+    "Upgrade to a **NIO 160 kWh Ultra-Hybrid Battery Pack** (replacing the stock 75/100 kWh unit) with **WeLion semi-solid-state cells**, increasing energy density to 360 Wh/kg and enabling a **0-100 km/h (0-62 mph) time of 2.9s** (down from 3.8s) while extending range to **1,000 km (CLTC)** via optimized thermal management with **Mahle 800V SiC (Silicon Carbide) inverters** for 98% efficiency.",
+    "Installation of a **Bosch VCU 3.0 (Vehicle Control Unit) with NVIDIA DRIVE Orin X** for real-time torque vectoring, replacing the stock VCU 2.0, paired with **AP Racing 4-piston monoblock calipers** and **Brembo CCM-R carbon-ceramic rotors (410mm front, 380mm rear)** to handle the increased power output (now **653 hp / 850 Nm** via dual **Siemens 240 kW permanent-magnet synchronous motors**).",
+    "Full **Mubea T700 carbon-fiber double-wishbone suspension retrofit** with **Öhlins TTX46 MkII coilovers** (3-way adjustable damping, 20mm drop from stock) and **Eibach Pro-Kit springs** (15% stiffer than OEM), paired with **NIO’s proprietary **Dynamic Chassis Control (DCC) 2.0** software update for adaptive roll stiffness via **ZF TRW active anti-roll bars** (electromechanical actuation)."
+  ],
+  "estetica": [
+    "**Liberty Walk LB-NIO ET7 Widebody Kit** (custom-fabricated from **Toray T800 carbon fiber**), adding **80mm front and 100mm rear fender flares** with **integrated LED turn signals** (Osram Oslon Black Flat), paired with a **custom 3D-printed front splitter** (ABS+PC blend) featuring **active aerodynamics** (deployable at 80 km/h via **Bosch Servolectric actuators**).",
+    "**Rocket Bunny RB-NIO ET7 Rear Diffuser** (hand-laid **pre-preg carbon fiber**, 3-stage design) with **Gurney flaps** and **dual 100mm titanium exhaust tips** (custom **Akrapović titanium** system, weight savings of 4.2 kg vs. OEM), replacing the stock single-exit setup for a **dual high-flow configuration** (backpressure reduced by 38%).",
+    "**Vossen HF-6 22x10.5 ET45 (front) / 22x12.5 ET50 (rear) forged wheels** (matte bronze finish, **12.5 kg per wheel**), wrapped in **Michelin Pilot Sport Cup 2 R** (275/30 R22 front, 315/25 R22 rear) with **NIO’s **Aero Wheel Covers** (3D-printed **PA12 nylon**, reducing drag by 7%) and **BBS LM-style center locks** (titanium hardware, **1.8 kg savings per wheel**)."
+  ]
+}

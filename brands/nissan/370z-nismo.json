@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "370Z NISMO",
+  "prestazioni": [
+    "Engine: VQ37VHR (3.7L V6, 350hp stock) - Full forged internals with JE 9.5:1 compression pistons, Manley H-beam connecting rods, and a billet crankshaft from Tomei for 800whp reliability on E85. Paired with a Garrett GTX4202R turbocharger (0.92 A/R, 64mm inducer) on a custom Precision Turbo manifold, with a Turbosmart 45mm wastegate and TiAL MV-R 50mm blow-off valve.",
+    "Fuel System: Full return-style setup with dual Walbro 450LPH pumps, ID1000x injectors, and a Radium Engineering fuel pressure regulator. Upgraded to a Link G4+ Xtreme standalone ECU with custom dyno-tuned maps for 30psi boost on E85, utilizing a Bosch 0280158861 3.5bar MAP sensor and AEM wideband O2 controller.",
+    "Suspension & Chassis: Ohlins Road & Track DFV coilovers with 12-position rebound damping, Cusco front and rear strut tower bars, and a full Whiteline rear subframe brace kit. Polyurethane bushings from SuperPro (part #SPF0119K) replace all OEM rubber, paired with Nismo 2-way adjustable LSD and a Cusco 2.5mm thick front sway bar (27mm)."
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny Version 3 widebody kit with carbon fiber front fenders, rear quarter panels, and a duckbill rear spoiler. Front splitter is a custom 3D-printed ABS unit with integrated canards, while the rear diffuser is a Seibon carbon fiber piece with integrated exhaust cutouts for dual Tomei Ti-Tan 3.5\" exhaust tips.",
+    "Wheels & Stance: Work Emotion CR Kiwami 2-piece forged wheels (19x10.5 +15 ET front, 19x12 +20 ET rear) with Michelin Pilot Sport Cup 2 tires (275/35/19 front, 315/30/19 rear). Suspension is set to -3.5° camber front and -2.8° rear via Cusco adjustable camber plates and Whiteline rear camber arms.",
+    "Interior & Details: Full Recaro SPG XL bucket seats with Schroth 6-point harnesses, wrapped in custom Alcantara with red stitching. Dashboard and door cards are trimmed in carbon fiber from Seibon, with a custom gauge pod housing a Defi BF series boost, oil pressure, and wideband gauge. Exterior accents include a carbon fiber Nismo hood (Seibon) and a custom matte vinyl wrap in Nissan Racing Red (code: KH3S)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "NIO",
+  "model": "ET9 FLAGSHIP",
+  "prestazioni": [
+    "Upgrade to a **NIO ET9-specific dual-motor powertrain (codename: NIO-150X-DM)** with a **Garrett GTX5533R turbocharger** per motor, pushing combined output to **1,200 kW (1,609 hp)** and **2,200 Nm of torque**, utilizing a **custom NIO Power+ ECU remap** with **Motec M150** auxiliary control for real-time torque vectoring and launch control optimization",
+    "Installation of a **PWR Australia 42-row front-mount intercooler** with **custom 3.5-inch titanium charge pipes** (TIG-welded by **NIO Performance Division**) and **AEM 380LPH dual-pump fuel system** with **ID1700x injectors** to support E85 flex-fuel capability",
+    "Full **NIO ET9 chassis reinforcement** via **T45 steel roll cage** (designed by **Sparco Pro2000**) with **polyurethane subframe bushings** from **Whiteline**, paired with a **KW Suspension Clubsport 3-way coilover kit** (custom valved for ET9’s **5-link rear air suspension**) and **AP Racing 6-piston front/4-piston rear brake calipers** with **380mm carbon-ceramic rotors**"
+  ],
+  "estetica": [
+    "**Rocket Bunny V3 widebody kit** (ET9-specific, with **carbon-fiber fenders, front splitter, and rear diffuser**), featuring **custom 3D-printed NIO badging** and **dual-tone matte black/gloss red paint** (applied by **BASF Glasurit**)",
+    "**Seibon Carbon ET9 hood** with **functional NACA ducts** (channeling air to the **Garrett turbos**) and **custom LED-illuminated NIO emblem** (powered by **Philips Lumileds Luxeon Z ES**), paired with **OEM+ NIO ET9 carbon-fiber side skirts** and **Vorsteiner V-FF 107 22-inch forged wheels** (ET9-specific offsets, wrapped in **Michelin Pilot Sport Cup 2 R tires**)",
+    "**Custom NIO ET9 rear wing** (designed in collaboration with **Liberty Walk**), constructed from **pre-preg carbon fiber** with **active aerodynamics** (adjustable via **NIO Pilot+ ADAS integration**), featuring **integrated RGB lighting** (controlled by **Razer Chroma SDK**) and **dual Gurney flaps** for downforce optimization at speeds above 180 km/h"
+  ]
+}

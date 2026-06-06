@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "180SX",
+  "prestazioni": [
+    "Engine: SR20DET (blacktop or redtop variant) with forged internals including Tomei 87mm forged pistons, Eagle H-beam connecting rods, and a Tomei Type-M 86mm stroker crank for a 2.2L displacement. Turbocharger: Garrett GTX3582R Gen II with a 0.82 A/R turbine housing and 58mm compressor wheel, paired with a Tomei M82 cast manifold and custom 3-inch downpipe with a GReddy Revolution RS 71mm titanium exhaust system.",
+    "Fuel System: Injector Dynamics ID1050x fuel injectors, Walbro 450LPH in-tank fuel pump, and a Tomei High Flow Fuel Rail. ECU: Haltech Elite 2500 standalone with custom SR20DET base map, including individual cylinder trims, launch control, and anti-lag for rallycross applications. Intercooler: GReddy Type-45 front-mount intercooler with custom 3-inch aluminum piping and a Mishimoto X-Line silicone coupler kit.",
+    "Drivetrain: OS Giken Super Lock LSD (2-way) in a N1-spec 5-speed transmission with a PPG straight-cut gear set (2.3:1 1st, 1.6:1 2nd, 1.2:1 3rd). Clutch: Nismo 240mm twin-plate ceramic clutch with a Fidanza aluminum flywheel. Suspension: Ohlins Road & Track DFV coilovers with custom valving for drift-spec damping, Cusco pillowball upper mounts, and Whiteline adjustable sway bars (24mm front, 22mm rear). Brakes: Endless CC-R6 6-piston front calipers with 330mm rotors and CC-R4 4-piston rear calipers with 310mm rotors, paired with Ferodo DS2500 pads and Motul RBF660 brake fluid."
+  ],
+  "estetica": [
+    "Body Kit: Rocket Bunny V3 widebody kit with custom carbon fiber overfenders, front bumper, and rear diffuser. The kit is reinforced with Cusco chassis stiffeners and seam-welded for rigidity. Rear wing: Voltex Type-3 GT wing with custom aluminum mounts and 3D-printed gurney flaps for adjustable downforce.",
+    "Lighting: Custom Hella Evo X LED headlights with Osram 6500K bulbs and Morimoto HID projectors, paired with Depo Racing JDM-spec taillights (clear lens, red/amber LED). Interior: Bride Zeta III reclining bucket seats with Takata 4-point harnesses, Nismo 350mm steering wheel with a NRG quick-release hub, and a custom half-cage by AutoPower Industries with bolt-in door bars and a welded rear strut tower brace.",
+    "Wheels: Work Meister S1 3P 17x9.5 +15 front and 17x10.5 +25 rear, wrapped in Toyo R888R tires (245/40/17 front, 275/35/17 rear). The wheels are shod with custom titanium wheel studs and Muteki SR48 lug nuts. Paint: Nissan Super Black (KH3) with a 3-stage PPG paint job, including a custom pearl flake mid-coat and a matte clear coat for a stealth appearance."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "370Z HERITAGE EDITION",
+  "prestazioni": [
+    "Engine: VQ37VHR (3.7L V6, 332hp stock) - Full forged internals build with Manley 92.8mm forged pistons, Eagle H-beam connecting rods, and a Tomei 272°/272° camshaft kit with Tomei Type-R lifters for high-RPM stability and 500whp+ capability on E85.",
+    "Forced Induction: Garrett GTX3582R Gen II turbocharger (0.82 A/R, 62mm compressor) with a custom 3.5\" stainless steel turbo manifold by HKS, paired with a GReddy Profec B Spec II boost controller and a Tomei 3.5\" titanium exhaust system with a 300-cell catalytic converter for emissions compliance.",
+    "Suspension & Handling: Ohlins Road & Track DFV coilovers (370Z-specific valving) with Swift Springs (8K front, 10K rear), Cusco 22mm front and 19mm rear adjustable sway bars, and SPL Pro front lower control arms with spherical bearings for camber correction and track alignment precision."
+  ],
+  "estetica": [
+    "Body Kit: Rocket Bunny V3 widebody conversion (370Z-specific, carbon fiber fenders, front bumper, and rear diffuser) with a custom matte graphite vinyl wrap and gloss black accents on the Heritage Edition badging.",
+    "Aero & Functional: APR Performance GTC-300 adjustable carbon fiber rear wing (370Z-specific mount) with a 3D-printed Gurney flap for downforce tuning, paired with a Stillen front splitter and carbon fiber side skirts for aerodynamic balance.",
+    "Wheels & Stance: Work Emotion CR Kiwami 2x2 19x10.5 +15 (front) and 19x11.5 +20 (rear) in a custom bronze finish, wrapped in Michelin Pilot Sport Cup 2 R tires (275/35/19 front, 305/30/19 rear) with a -3° front and -2.5° rear camber setup for aggressive track alignment."
+  ]
+}

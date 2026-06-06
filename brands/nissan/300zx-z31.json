@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "300ZX Z31",
+  "prestazioni": [
+    "Replace the stock **VG30ET** (3.0L SOHC V6 turbo) internals with forged **Manley 8740 steel connecting rods**, **JE 8.5:1 compression forged pistons**, and a **Crower billet crankshaft** to handle 18+ psi of boost reliably. Pair with a **Garrett GT35R turbocharger** (62mm compressor, .82 A/R turbine housing) and a **Tial 44mm external wastegate** for precise boost control.",
+    "Upgrade the fuel system with **Walbro 450LPH in-tank fuel pump**, **Nismo 550cc/min fuel injectors**, and a **Nissan Motorsports (Nismo) Z31-specific standalone ECU (Part # 22610-50J00)** reflashed with **Haltech Elite 2500** for sequential injection and full boost-by-gear tuning. Add a **TurboSmart FPR2000 fuel pressure regulator** for consistent delivery.",
+    "Install a **GReddy intercooler kit (Part # 11501001)** with a 3.5\" core and **Mishimoto silicone couplers** to eliminate heat soak. Replace the stock **VG30ET** turbo manifold with a **HKS GT-SS 4-bolt turbo manifold** (Z31-specific) and a **custom 3\" downpipe** merging into a **Borla Pro XS 3.5\" cat-back exhaust** with 409 stainless steel construction."
+  ],
+  "estetica": [
+    "Fit a **Veilside Fortune 99 widebody kit** (Z31-specific) with **custom carbon fiber fender flares** to clear **Work Meister S1 3P 17x9.5 +22 wheels** wrapped in **Toyo R888R 255/40R17 tires**. Add **Ohlins Road & Track coilovers (DFV)** with **Eibach ERS springs** for adjustable ride height and damping.",
+    "Replace the stock front bumper with a **Tommy Kaira M30 front lip** and **custom carbon fiber hood** featuring a **functional NACA duct** for intercooler airflow. Install a **JUN rear diffuser** and **custom aluminum rear spoiler** (Z31-specific) with a **3M Brushed Aluminum vinyl wrap** for a stealth OEM+ look.",
+    "Swap the interior with **Recaro SRD seats (Z31-specific mounts)**, a **Nardi Classic 380mm steering wheel** on a **NRG quick-release hub**, and a **Defi BF gauges (oil pressure, boost, wideband AFR)** mounted in a **custom aluminum A-pillar pod**. Add **Soundstream REF4.1200D 1200W amplifier** paired with **Focal Utopia Be 6.5\" component speakers** for audio clarity."
+  ]
+}

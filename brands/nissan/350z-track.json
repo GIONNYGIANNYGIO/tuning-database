@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "350Z TRACK",
+  "prestazioni": [
+    "VQ35DE (Rev-Up variant, 3.5L V6, 11.0:1 compression) forced induction via Garrett GTX3582R Gen II turbocharger (82mm compressor, 62mm turbine, 1.06 A/R turbine housing) with TiAL MV-R 44mm external wastegate, custom 3-inch stainless steel turbo manifold by Tomei (equal-length, merge-collector design), and GReddy intercooler kit (front-mount, 600x300x100mm core) with custom aluminum piping and HKS SSQV4 blow-off valve",
+    "Full bolt-on internals upgrade: JE FSR forged pistons (87.5mm bore, 9.0:1 compression for boost), Eagle H-beam connecting rods (520g weight, ARP 2000 rod bolts), ACL Race Series main and rod bearings, Tomei Type-A 264°/260° camshafts (11.5mm lift, adjustable vernier pulleys), and Tomei M82 titanium retainers with dual valve springs (120 lbs seat pressure, 300 lbs open pressure)",
+    "Fuel and ignition system: Injector Dynamics ID1050x fuel injectors (1050cc/min), Walbro 450LPH in-tank fuel pump, Radium Engineering fuel pressure regulator (dual-spring, 45-75 psi adjustable), AEM 320LPH external fuel pump, Haltech Elite 2500 ECU (standalone, CAN bus integration with AIM MXS Strada dash), and NGK Iridium IX spark plugs (LFR6AIX-11, gapped at 0.028\") with MSD 8.5mm super conductor wires"
+  ],
+  "estetica": [
+    "Vertex Lang II widebody kit (carbon fiber front fenders, rear quarter panels, and rear bumper with integrated diffuser), paired with a Rocket Bunny V3 GT wing (1700mm span, 300mm chord, 3D-printed aluminum endplates) and custom 3D-printed ABS front splitter with integrated canards (50mm overhang, 3M VHB tape and aluminum support rods)",
+    "Ohlins Road & Track DFV coilovers (2-way adjustable damping, 30-way adjustable rebound, 24-click compression, 80mm-120mm ride height range) with Swift Springs (8kg/mm front, 10kg/mm rear) and Cusco pillowball upper mounts (front and rear, adjustable camber plates for -3.5° front, -2.8° rear)",
+    "Custom carbon fiber engine cover (dry carbon, 2x2 twill weave) with integrated oil cap relocation (Mocal 1/2\" NPT fittings) and APR Performance GTC-200 carbon fiber hood (50mm venting, dual NACA ducts, 3M matte clear coat finish), paired with a Cusco Type RS strut tower bar (7-point triangulated, 2.3mm wall thickness)"
+  ]
+}

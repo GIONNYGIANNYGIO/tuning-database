@@ -1,0 +1,14 @@
+{
+  "brand": "MITSUBISHI",
+  "model": "SIGMA 3.0 V6",
+  "prestazioni": [
+    "Engine swap to a **6G72TT (DOHC 24V twin-turbo)** from the Mitsubishi GTO/3000GT VR-4, retaining the Sigma's 5-speed manual transmission (W5MG1) with a **PPG close-ratio gearset (1st: 2.847, 2nd: 1.947, 3rd: 1.433, 4th: 1.000, 5th: 0.731)** and a **OS Giken Super Lock LSD (2-way)** for improved power delivery.",
+    "Forced induction upgrade using a **Garrett GT35R (82mm compressor, .82 A/R turbine housing)** with a **custom 3-inch stainless steel turbo manifold (Spoon Sports or Tomei)** and **HKS SSQV Type-R blow-off valve**, paired with a **Mitsubishi Heavy Industries (MHI) intercooler core (360x220x60mm)** and **Samco Sport silicone hoses (blue)** for optimal heat dissipation.",
+    "Fuel system overhaul with **Walbro 450LPH in-tank fuel pump**, **ID1000x injectors (1000cc/min)**, and a **Link G4+ Xtreme standalone ECU** tuned on a **Dynapack hub dyno** for precise AFR control, targeting **12.5:1 compression (milled head, 6G72TT pistons)** and **18psi boost** with **E85 flex-fuel capability (AEM X-Series wideband sensor)**."
+  ],
+  "estetica": [
+    "**Vertex Lang II widebody kit** (Sigma-specific, bolt-on fenders with 20mm extended arches) paired with **Work Meister S1 3P 18x9.5 +22 wheels (ET22)** wrapped in **Yokohama Advan A052 245/40R18 tires** for aggressive stance and grip.",
+    "**Seibon Carbon fiber hood (Sigma-specific, 6G72TT vented)** with **custom dual 40mm NACA ducts** feeding the intercooler, and a **Veilside Fortune rear bumper (Sigma-compatible, JDM-spec)** with **custom dual 3.5-inch titanium exhaust tips (Burns Stainless)** for a sleeper-to-aggressive transition.",
+    "**Ohlins Road & Track DFV coilovers (Sigma-specific, 6G72TT valving)** with **Eibach ERS 1000lb/in helper springs** and **polyurethane bushings (SuperPro 63mm front control arms, rear trailing arms)** for razor-sharp handling, complemented by a **Cusco 21mm front sway bar (adjustable)** and **Whiteline rear sway bar (24mm)** for chassis rigidity."
+  ]
+}
