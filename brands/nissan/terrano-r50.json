@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "TERRANO R50",
+  "prestazioni": [
+    "Engine swap to a Nissan VQ40DE (4.0L V6, 270hp stock) with a custom forced-induction setup using a Garrett GT3582R turbocharger, paired with a Tomei 272° camshaft kit and HKS Hi-Power exhaust manifold for optimized exhaust flow. The fuel system is upgraded with Injector Dynamics ID1000 injectors and a Walbro 450LPH fuel pump to support 500whp targets.",
+    "Chassis reinforcement via Cusco bolt-in roll cage (R50-specific design) and polyurethane bushings from SuperPro (part #SPF0115K) to eliminate suspension flex. Suspension is replaced with Ohlins Road & Track coilovers (custom valved for R50 weight distribution) and Eibach Pro-Street-S anti-roll bars (25mm front, 22mm rear) for reduced body roll.",
+    "Drivetrain upgrades include a Nissan Patrol Y61 (GU) 4.88:1 LSD rear differential (fitted via custom adapter plates) and a South Bend Clutch Stage 3 daily/street twin-disc clutch with a lightweight aluminum flywheel. The transmission is reinforced with a PPG close-ratio gearset (1st: 3.321, 2nd: 2.077, 3rd: 1.308) and a PWR aluminum radiator to manage heat under load."
+  ],
+  "estetica": [
+    "Rocket Bunny V1 widebody kit (R50-specific, bolt-on fenders with 50mm flares) paired with a custom carbon fiber hood featuring a functional scoop for the VQ40DE intercooler. Front bumper is replaced with a Seibon Carbon fiber replica of the R50 Nismo Concept bumper, including integrated LED fog lights and a tow hook.",
+    "Wheel setup consists of Work Emotion CR Kiwami (17x9 +12 ET) in matte bronze, wrapped in Toyo Open Country RT Trail (285/70R17) tires for off-road capability. Fender liners are deleted and replaced with custom aluminum heat shields to protect the VQ40DE turbo setup.",
+    "Interior features a full Recaro SRD-E bucket seat setup (R50-specific mounting brackets) with Schroth Profi II 6-point harnesses, a Nardi Classic 380mm steering wheel on a NRG quick-release hub, and a custom aluminum gauge pod housing AEM X-Series wideband and boost gauges. The rear seats are removed and replaced with a custom aluminum storage box for tools and recovery gear."
+  ]
+}

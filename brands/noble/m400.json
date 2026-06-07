@@ -1,0 +1,14 @@
+{
+  "brand": "NOBLE",
+  "model": "M400",
+  "prestazioni": [
+    "Replace the stock Ford Duratec V6 (engine code: **Ford Cyclone 3.0L V6 (MI4)**) with a **TTS Performance 3.6L stroker kit** (forged crank, H-beam rods, Mahle forged pistons) paired with a **Garrett GTX3582R Gen II turbo** (1.06 A/R turbine housing, 62mm compressor wheel) and a **custom 4-inch stainless steel intercooler piping system** from **VRSF** to eliminate heat soak under sustained boost (target: 1.2 bar / 17.4 psi).",
+    "Install a **Motec M150 ECU** with a **Noble-specific flex-fuel ethanol sensor** and **ID1000x injectors** (1,000cc/min) to support E85 tuning, alongside a **Pectel SQ6M standalone dash** for real-time data logging (boost, AFR, oil temps) with **AEM X-Series wideband O2 sensors** for closed-loop precision.",
+    "Upgrade the stock **Getrag V160 6-speed transaxle** with a **PPG straight-cut gearset (1st: 2.66, 2nd: 1.78, 3rd: 1.30)** and a **Noble-specific Quaife ATB differential** (80% lockup under load), paired with a **Tilton twin-disc carbon clutch** (3.5-inch diameter) and a **Noble M600-spec aluminum flywheel** to handle 600+ lb-ft of torque without slip."
+  ],
+  "estetica": [
+    "Replace the stock fiberglass body with a **full carbon-fiber widebody kit from Liberty Walk (LB-NOBLE-M400)** featuring extended front fenders (2.5-inch wider), a **custom 3D-printed rear diffuser** (modeled after the M600’s underbody aero), and a **fixed carbon-fiber rear wing** (3-piece, adjustable angle) from **9 Lives Racing** (2,200mm span, 300mm chord).",
+    "Install **Ohlins TTX40 coilovers** (2-way adjustable dampers, 30-way rebound, 12kg/mm front springs, 14kg/mm rear) with **Noble-specific camber plates** (adjustable to -3.5° front, -2.8° rear) and **polyurethane bushings** from **SuperPro** (part #SPF1001K) to eliminate compliance in the stock subframe mounts.",
+    "Swap the stock 18-inch wheels for **BBS LM-R 19x10 ET35 (front) and 19x12 ET40 (rear)** with **Pirelli P Zero Trofeo R tires (275/30/19 front, 325/30/19 rear)** and **AP Racing 6-piston front / 4-piston rear calipers** (380mm front rotors, 356mm rear) with **Ferodo DS2500 brake pads** for fade-resistant stopping power."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "NOBLE",
+  "model": "M12",
+  "prestazioni": [
+    "Engine: Ford Duratec V6 (code: **Duratec 3.0L ST200**) – Full forged internals upgrade with **Manley I-beam connecting rods**, **JE Pistons 8.5:1 compression forged slugs**, and **ARP Custom Age 625+ head studs** for 15 psi boost capability. Stock crank retained but balanced to ±1 gram with **Carrillo crankshaft damper** to eliminate harmonics at 8,500 rpm redline.",
+    "Forced Induction: **Garrett GT3582R turbocharger** (82mm compressor, 62mm turbine) with **Tial MV-R 44mm external wastegate** (set to 1.5 bar peak) and **Precision Turbo 46mm V-band downpipe** feeding a **Noble-spec 3.5-inch titanium exhaust system** (custom mandrel-bent by **Milltek Sport** with 304L stainless headers). Intercooler: **PWR 450mm x 200mm x 100mm bar-and-plate core** with **custom billet end tanks** (flow-tested at 1,200 cfm).",
+    "Fuel & Ignition: **Bosch Motorsport 044 high-flow fuel pump** (340 lph) paired with **Injector Dynamics ID1050x injectors** (1,050 cc/min) and **AEM 34002 EMS standalone ECU** (M12-specific map with **anti-lag launch control** and **flat-foot shifting**). Ignition: **NGK IFR8H-11 iridium plugs** gapped at 0.022\" with **MSD 8252 Digital-7 Plus ignition box** and **Noble-spec coil packs** (custom-wound by **Moroso**)."
+  ],
+  "estetica": [
+    "Aerodynamics: **Noble M12 GTO-3R widebody conversion kit** (carbon fiber fenders, front splitter, and rear diffuser by **Seibon Carbon**) with **custom 3D-printed NACA ducts** (integrated into front bumper for brake cooling). Rear wing: **Voltex Type-3 GT wing** (350mm chord, 1,500mm span) mounted on **Noble-specific carbon fiber pedestals** (adjustable angle 0–18°).",
+    "Wheels & Tires: **BBS LM-R 18x10.5 ET25 front / 18x12 ET35 rear** (custom offset for M12 wheel wells) with **Pirelli P Zero Trofeo R** (255/35/18 front, 305/30/18 rear). Lug nuts: **Project Kics R40** (closed-end, 50mm shank) torqued to 90 ft-lbs with **Brembo Racing titanium wheel studs**.",
+    "Exterior Trim: **Full carbon fiber hood** (OEM-style with **hidden latches** by **AeroCatch**) and **custom LED taillight conversion** (Noble M12-specific **Lux H8 bulbs** with **Smoked Lexan lenses**). Badging: **3D-printed \"M12 GTO-3R\" script** (carbon fiber fill, **laser-etched** by **Carbonetic**) replacing rear emblem. Paint: **PPG Vibrance Collection \"Hyper Blue Mica\"** with **XPEL Stealth full-body PPF** (matte finish)."
+  ]
+}

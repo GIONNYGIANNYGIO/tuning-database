@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "VIOLET GT",
+  "prestazioni": [
+    "Engine swap to L28E (2.8L inline-6) with forged internals: JE 87mm forged pistons (9.0:1 CR), Eagle H-beam connecting rods, and ACL Race Series bearings. Paired with a T04Z Garrett turbo (60-1 compressor wheel, .63 A/R turbine housing) on a custom tubular manifold by Tomei, feeding a GReddy Type-S intercooler (400x160x65mm core) and HKS SSQV blow-off valve.",
+    "Full standalone Haltech Elite 2500 ECU with custom wiring harness by Wireworks, controlling sequential fuel injection via 6x ID1000 injectors and a Walbro 450LPH in-tank pump. Ignition system upgraded to AEM CDI with NGK R7437-9 racing plugs gapped at 0.028\". Custom 3\" turbo-back exhaust by Fujitsubo with 76mm piping and a GReddy SP2 muffler for optimal spool.",
+    "Suspension overhaul with Tein Flex Z coilovers (8kg/mm front, 6kg/mm rear springs) and Cusco front strut bar (22mm diameter). Polyurethane bushings by Whiteline (front control arms, subframe, and differential mounts) paired with Cusco 2-way LSD (1.5/2.0 clutch-type). Braking system upgraded to Endless CC-R6 rotors (280mm front, 260mm rear) with AP Racing CP5555 calipers and Ferodo DS2500 pads."
+  ],
+  "estetica": [
+    "Rocket Bunny V1 widebody kit (fiberglass fenders, custom front bumper with integrated canards, and duckbill rear spoiler) painted in Nissan Racing Yellow (code: 407). Rear diffuser by Varis with integrated exhaust cutouts and carbon fiber side skirts.",
+    "Custom 15x9\" Work Meister S1 3P wheels (ET15) with 195/50R15 Yokohama AD08R tires. Wheel spacers by 5Zigen (15mm front, 20mm rear) for aggressive flush fitment. Full OEM+ interior retrim with Bride Zeta III seats (black Alcantara with yellow stitching) and a Nardi Classic 380mm steering wheel.",
+    "Engine bay aesthetics: Full carbon fiber hood by Seibon (vented), Cusco aluminum radiator support, and custom aluminum oil catch can by Radium Engineering. Engine cover deleted and replaced with a custom billet aluminum valve cover by HKS, polished to mirror finish. Custom wiring loom wrapped in Techflex Flexo PET braided sleeve (yellow/black)."
+  ]
+}

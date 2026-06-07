@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "Z NISMO GT4",
+  "prestazioni": [
+    "Engine: VR30DDTT (3.0L twin-turbo V6) – Full Garrett GTX3582R Gen II turbocharger upgrade with billet compressor wheel, 0.82 A/R turbine housing, and TiAL MV-R 44mm wastegates for 550whp on E85 with stock block reliability. Custom Tomei 272° camshafts with 11.5mm lift and Tomei Type-2 valve springs to optimize airflow at 8,000 RPM redline.",
+    "Drivetrain: OS Giken Super Lock LSD with 4.33 final drive ratio (Nismo GT4-specific) paired with a Holinger RD6 sequential gearbox (6-speed, paddle-shift) and Tilton twin-plate carbon clutch for 0.15s shifts. Custom driveshaft from Driveshaft Shop with 4340 chromoly yokes and CV joints rated for 800Nm torque.",
+    "Suspension & Chassis: Öhlins TTX40 4-way adjustable coilovers with Nismo GT4-specific valving, 25mm front sway bar (adjustable) from Cusco, and polyurethane bushings from SuperPro (part #SPF1004K) for subframe reinforcement. Full seam-welded chassis with GT4-spec roll cage from Custom Cages (FIA Appendix J compliant) and carbon fiber front splitter from APR Performance (GT4-spec, 50kg downforce at 120mph)."
+  ],
+  "estetica": [
+    "Aerodynamics: Rocket Bunny V3 widebody kit (GT4-spec) with carbon fiber overfenders, custom 3D-printed rear diffuser (CFD-optimized for 30% more downforce), and Nismo GT4 rear wing with Gurney flap (adjustable angle, 0-15°). Full carbon fiber hood with NACA ducts for VR30DDTT intercooler cooling.",
+    "Exterior: Custom livery by Driftpaint (GT4-inspired, matte black with Nismo red accents and sponsor decals: Motul, HKS, and Apex Racing). OEM+ Nismo GT4 front bumper with integrated LED DRLs (Philips X-tremeUltinon Pro9000) and carbon fiber side skirts with integrated brake cooling ducts (AP Racing 6-piston calipers).",
+    "Interior: Full GT4-spec roll cage (Custom Cages) with Sparco Pro2000 seats (FIA 8862-2009 certified), Schroth 6-point harnesses, and AIM MXS Strada dash (data logging for VR30DDTT boost, oil temp, and gearbox temps). Custom carbon fiber door cards with integrated fire suppression system (Lifeline Zero 360, plumbed to engine bay and cockpit)."
+  ]
+}

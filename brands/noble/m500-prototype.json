@@ -1,0 +1,14 @@
+{
+  "brand": "NOBLE",
+  "model": "M500 PROTOTYPE",
+  "prestazioni": [
+    "Engine: Ford Duratec V6 (3.0L twin-turbo, code *G-Force 3.0L V6 TT*), upgraded with a *Cosworth forged internals kit* (pistons, connecting rods, and crankshaft) to handle 1,000+ hp, paired with *Mahle Motorsport coated pistons* and *ARP Custom Age 625+ head studs* for 30 psi boost capability.",
+    "Forced Induction: Twin *Garrett GTX5533R Gen II* turbochargers with *TiAL MV-R 60mm wastegates* and *TurboSmart Race Port BOV*, custom *Noble Motorsport CNC-machined titanium turbo manifolds* with *Inconel 625 tubing*, and a *PTP 4.5\" stainless steel intercooler core* with *Mishimoto carbon fiber end tanks*.",
+    "Fuel & Ignition: *Bosch Motorsport MS15.1 ECU* with *Motec PDM15 power distribution module*, *ID1700x injectors* (staged with *ID1050x secondaries*), *Walbro 450 LPH dual-pump fuel system* with *Radium Engineering surge tank*, and *NGK R8482-10 Iridium racing plugs* gapped at 0.022\" for 30-degree timing advance under methanol-blend fuel (E85/RON102)."
+  ],
+  "estetica": [
+    "Aerodynamics: *Noble Motorsport M500R Prototype aero package* featuring a *carbon fiber front splitter with integrated dive planes* (tested in MIRA wind tunnel for 220 lbs downforce at 150 mph), *custom 3D-printed rear diffuser* with *Gurney flap* (molded from *Toray T800 carbon fiber*), and *fixed carbon fiber rear wing* with *adjustable dual-element airfoils* (inspired by LMP1 prototypes).",
+    "Bodywork: *Full carbon fiber body conversion* using *autoclave-cured prepreg* (supplied by *RML Group*), including *removable front clamshell* for engine access, *carbon fiber side skirts with integrated NACA ducts* (feeding the intercooler and rear brakes), and *polycarbonate rear window* with *heated defogging element* (OEM-spec from *McLaren P1*).",
+    "Interior: *Sparco Pro 2000 carbon fiber racing seats* with *Schroth 6-point harnesses* (FIA 8862-2009 certified), *Noble Motorsport bespoke aluminum roll cage* (TIG-welded 4130 chromoly, 2.5\" diameter tubing), *Momo Prototipo steering wheel* with *integrated AIM MXS Strada dash*, and *custom Alcantara-wrapped dashboard* with *3D-printed carbon fiber gauge pods* (housing *Defi BF gauges* for boost, oil pressure, and EGT)."
+  ]
+}

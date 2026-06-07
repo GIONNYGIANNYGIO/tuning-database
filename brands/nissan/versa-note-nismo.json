@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "VERSA NOTE NISMO",
+  "prestazioni": [
+    "Engine swap to HR15DE (stock engine code) with a custom-built forced induction setup using a Garrett GT2860RS turbocharger, paired with a Tomei 4-2-1 stainless steel exhaust manifold and a custom 3-inch turbo-back exhaust featuring a GReddy Revolution RS muffler for optimized scavenging and reduced backpressure.",
+    "Full standalone ECU conversion to a Haltech Elite 1500 with custom-mapped fuel and ignition tables, including a 1,000cc ID1000 fuel injectors upgrade, Walbro 255LPH in-tank fuel pump, and a custom intercooler setup using a GReddy Type-25 front-mount intercooler with a 2.5-inch piping kit to eliminate heat soak in the HR15DE’s compact engine bay.",
+    "Suspension overhaul with KW Clubsport coilovers (height-adjustable with 24-way rebound damping), polyurethane bushings from SuperPro (part #SPF0115K) for the front control arms, and a Cusco 22mm front sway bar (part #552 322 A) to reduce body roll and improve turn-in response for the Versa Note’s 97.8-inch wheelbase."
+  ],
+  "estetica": [
+    "Custom Rocket Bunny Versa Note-specific widebody kit (RB-VN15) with extended fenders, aggressive side skirts, and a carbon fiber rear diffuser to accommodate the widened track from the KW Clubsport setup, paired with Work Emotion CR Kiwami wheels (17x8 +35 offset) wrapped in Falken Azenis RT660 tires (215/40R17).",
+    "Full OEM+ Nismo aesthetic refresh, including a Nismo S-Tune front bumper lip (part #71125-4UB0A), Nismo rear roof spoiler (part #74000-4UB0A), and a custom carbon fiber hood with a functional heat extractor vent to aid underhood airflow for the turbocharged HR15DE.",
+    "Interior stripped and rebuilt with Bride Zeta III bucket seats (part #Z3-CFRP) mounted on custom floor mounts, a Nismo 350mm flat-bottom steering wheel (part #48110-4UB0A), and a full custom roll cage fabricated by AutoPower Industries (part #VN-NIS-01) with bolt-in door bars for chassis rigidity and safety."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "NOBLE",
+  "model": "M600",
+  "prestazioni": [
+    "Upgrade to a **Garrett GTX4202R** turbocharger (ball-bearing, 76mm compressor wheel) paired with a **Tial MV-R 44mm** external wastegate to handle the **Ford-Yamaha 3.0L V8 (VQ30DE-based, code: YS30VET)**'s 850+ hp potential, utilizing a **Pectel SQ6M** standalone ECU with custom fuel and ignition maps for methanol-compatible tuning (E85 flex-fuel capable via **AEM 30-0300** ethanol content sensor).",
+    "Install **CP-Carrillo forged pistons (9.5:1 compression)** with **Manley H-beam connecting rods** and **ARP Custom Age 625+ head studs** to support 28 psi of boost, paired with a **Dry Sump Systems (DSS) 8-stage oil pump** and **Moroso 8-quart aluminum oil pan** for sustained high-G cornering.",
+    "Replace the OEM **Getrag 6-speed transaxle** with a **Graziano VT5-21** sequential gearbox (used in McLaren 650S) featuring a **Tilton triple-plate carbon clutch** and **Quaife ATB differential**, mated to a **Penske 8760 adjustable shock absorber** setup with **Eibach ERS coilovers** (3-way adjustable damping) and **Noble-specific polybushings** for subframe rigidity."
+  ],
+  "estetica": [
+    "Fit a **RML Group carbon-fiber widebody kit** (M600-specific, 50mm rear fender flares) with **Vorsteiner V-FF107 forged wheels** (19x10 front, 20x12 rear, ET35/ET40) wrapped in **Michelin Pilot Sport Cup 2 R** tires (265/35/19, 325/30/20) for optimal aero balance and mechanical grip.",
+    "Install a **Noble M600 Carbon Edition rear diffuser** (3D-printed carbon, 3-stage Gurney flaps) paired with a **Seibon carbon-fiber front splitter** (adjustable dive planes) and **Aeromotions active rear wing** (dual-element, 15° attack angle, hydraulic actuation via **Motec PDM15** for dynamic adjustment).",
+    "Replace OEM lighting with **LucidAir Sapphire LED headlights** (DRL-integrated, adaptive matrix beam) and **Oracle Lighting RGB halo taillights** (CAN-bus controlled, sequential turn signals), while adding **Novitec carbon-fiber side skirts** with integrated **Aerokit vortex generators** for boundary-layer control."
+  ]
+}

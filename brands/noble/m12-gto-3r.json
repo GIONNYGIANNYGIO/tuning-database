@@ -1,0 +1,14 @@
+{
+  "brand": "NOBLE",
+  "model": "M12 GTO-3R",
+  "prestazioni": [
+    "Engine: Ford Duratec V6 (2.5L, code *Duratec ST25*) – forged internals upgrade with Manley H-beam connecting rods, JE 9.0:1 forged pistons, and ACL Race Series main/rod bearings to handle 800+ hp reliably. Stock crank retained but balanced to ±0.5g for high-RPM stability (9,000 RPM redline).",
+    "Turbocharger: Twin Garrett GT35R turbos (82mm compressor wheels, .82 A/R turbine housings) with TiAL MV-R 44mm wastegates and custom 3.5\" stainless steel downpipes (Mandrel-bent, ceramic-coated) to eliminate backpressure. Intercooled via custom PWR 4.5\" core front-mount intercooler with 3\" silicone couplings and V-band clamps for zero boost leak at 2.2 bar (32 psi).",
+    "Fuel System: Full return-style setup with Aeromotive A1000 fuel pump, ID1000x injectors (1,000cc/min), and Radium Engineering dual fuel pressure regulators (base pressure: 43.5 psi, rising to 87 psi under boost). ECU reflash via Syvecs S6GP standalone (CAN bus integration for ABS/TCS) with custom 3D ignition and fuel maps for E85 compatibility (target AFR: 11.5:1 under full load)."
+  ],
+  "estetica": [
+    "Aero: Full carbon fiber widebody conversion via *Noble Motorsport GTO-3R Widebody Kit* (front splitter, side skirts, and rear diffuser with integrated Gurney flap). Rear wing: *Aeroform Composites 3-element GT wing* (1,200mm span, adjustable angle of attack via billet aluminum mounts) for 400+ lbs of downforce at 150 mph.",
+    "Suspension: Öhlins TTX40 coilovers (2-way adjustable damping, 200mm travel) with custom valving for the M12’s unequal-length control arms. Polyurethane bushings (SuperPro 62mm) replace all OEM rubber for zero compliance. Front camber plates: *Noble Motorsport adjustable* (up to -3.5° camber) with spherical bearings for precise alignment retention.",
+    "Wheels/Tires: Front: *BBS LM-R 9x18\" ET35* (245/35/18 Michelin Pilot Sport Cup 2 R); Rear: *BBS LM-R 11x18\" ET5* (305/30/18 Michelin Pilot Sport Cup 2 R). Brake system: *AP Racing CP8660 6-piston calipers* (380mm two-piece rotors, slotted) with Ferodo DS2500 pads and braided stainless steel lines for fade-free stopping from 180 mph."
+  ]
+}

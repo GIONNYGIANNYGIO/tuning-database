@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "Z NISMO",
+  "prestazioni": [
+    "VR30DDTT (3.0L twin-turbo V6) engine: Full Garrett GTX5533R Gen II turbocharger upgrade with billet compressor wheel, 64mm turbine wheel, and 1.15 A/R turbine housing, paired with Tomei 272° camshafts (intake/exhaust) and Ferrea titanium valves with upgraded valve springs for 8,500 RPM redline capability",
+    "Nissan Z Nismo-specific HKS Hi-Power SPL exhaust system with 3.5-inch titanium piping, dual 100mm titanium tips, and a secondary catalytic converter delete (replaced with GReddy 4-inch race-spec downpipes) for optimized backpressure reduction",
+    "Nismo-tailored Link G4+ Xtreme standalone ECU with custom VR30DDTT-specific fuel and ignition maps, integrated with a Plex Knock Monitor and AEM 4150 high-flow fuel rail system (supporting E85 blends up to 100%) and Injector Dynamics ID1700x injectors"
+  ],
+  "estetica": [
+    "Seibon Carbon Z Nismo-specific widebody kit (front fenders, rear quarter panels, and rear diffuser) with integrated Nismo GT4-style canards and a custom 3D-printed carbon fiber rear wing (modeled after the Nissan GT-R Nismo GT3 wing, 1,200mm span)",
+    "Rocket Bunny V3.5 aero kit for Nissan Z Nismo, featuring a full carbon fiber front splitter with adjustable dive planes, side skirts with integrated air curtains, and a rear bumper diffuser with dual 90mm exhaust cutouts (pre-marked for HKS system)",
+    "Ohlins Road & Track DFV coilovers (Nismo-specific valving) with 24-way adjustable compression/rebound damping, 30mm front/20mm rear adjustable ride height, and spherical bearing top mounts, paired with Nismo S-Tune 2-piece 20x10.5 ET+15 (front) and 20x11.5 ET+20 (rear) forged aluminum wheels wrapped in Michelin Pilot Sport Cup 2 R tires (275/30/20 front, 305/25/20 rear)"
+  ]
+}

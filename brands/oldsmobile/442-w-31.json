@@ -1,0 +1,14 @@
+{
+  "brand": "OLDSMOBILE",
+  "model": "442 W-31",
+  "prestazioni": [
+    "Engine swap to a fully built **L77 455ci (W-31-spec) block** with forged internals: Manley 4340 forged crankshaft (3.975\" stroke), Eagle H-beam connecting rods (6.800\" length), and JE forged aluminum pistons (10.5:1 compression ratio) with Total Seal rings for high-RPM durability. Pair with a **Crane Cams W-31-spec solid-lifter camshaft** (288°/292° duration, 0.520\"/0.540\" lift, 114° LSA) and **Crower roller rockers** (1.6:1 ratio) for aggressive valvetrain stability.",
+    "Induction system overhaul: Replace the stock Rochester Quadrajet with a **Holley Sniper EFI 2x4 throttle-body injection system** (92mm throttle bodies) mounted on an **Edelbrock Performer RPM W-31 intake manifold**, paired with a **FAST XFI Sportsman ECU** for sequential fuel injection and ignition timing control. Add a **Paxton Novi 2000 supercharger** (8-10 psi boost) with a custom intercooler setup using a **Spearco 4-core aluminum intercooler** and **Vibrant Performance silicone couplers**.",
+    "Exhaust system: Custom 3\" stainless steel headers by **Hooker Super Competition** with 1.75\" primary tubes and 3.5\" collectors, feeding into a **Flowmaster 44 Series Delta Flow muffler** (dual 3.5\" outlets) with **Pypes Race Systems X-pipe** for optimized scavenging. Pair with a **MSD Digital 6AL ignition box** and **NGK R5671A-9 racing spark plugs** (0.035\" gap) for high-RPM spark stability."
+  ],
+  "estetica": [
+    "Bodywork: Full **Fiberglass Trends W-31-specific fiberglass hood** (functional ram-air scoop) and **Goodmark Industries 1969 442 quarter panel skins** (restored to original W-31 cutouts). Add a **Rocket Bunny-inspired widebody kit** (custom fabricated for the 442) with **Carbon Creations front splitter** and **APR Performance GT-250 rear wing** (3D-printed mounts for exact fitment).",
+    "Wheels/Tires: **Forgeline GA3R 18x9.5\" (front) and 18x11\" (rear) wheels** in a custom bronze finish, wrapped in **Michelin Pilot Sport Cup 2 R tires** (275/35/18 front, 315/30/18 rear). Pair with **Baer 6P calipers** (14\" rotors front, 13\" rear) and **Hawk DTC-70 brake pads** for track-capable stopping power.",
+    "Interior: Full **Recaro SRD-E bucket seats** (W-31 embroidered headrests) with **Schroth 6-point harnesses**, **Momo Prototipo steering wheel** (3-spoke, 350mm diameter), and **Rollcage Innovations 8-point chromoly roll cage** (bolt-in, W-31-specific design). Replace the stock gauge cluster with a **Motec C127 dash display** (data logging for EFI, boost, and oil pressure) and **Vintage Air Gen-IV SureFit climate control system**."
+  ]
+}

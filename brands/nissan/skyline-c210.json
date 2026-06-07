@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "SKYLINE C210",
+  "prestazioni": [
+    "Engine swap to L28E (2.8L inline-6) with forged internals (JE 87mm pistons, Eagle H-beam rods, ACL race bearings) and balanced crankshaft for 8,500 RPM redline, paired with a T04E 57 trim turbo (Garrett) on a custom tubular manifold (JUN Type III) with 38mm wastegate and 44mm external dump valve (HKS SSQV)",
+    "Full standalone ECU conversion to Haltech Elite 2500 with individual throttle bodies (ITBs) from a Nissan CA18DET, custom fuel system with Bosch 044 pump, -8AN lines, and ID1000 injectors, tuned for 450whp on E85 with 32psi boost (stock block safe)",
+    "Chassis reinforcement via Cusco 4-point roll cage (bolt-in, FIA-spec) and polyurethane bushings (SuperPro) for front/rear subframes, paired with Ohlins Road & Track coilovers (custom valving for C210) and Cusco 22mm front sway bar (adjustable) + Whiteline 18mm rear sway bar"
+  ],
+  "estetica": [
+    "Rocket Bunny V1 widebody kit (C210-specific, carbon fiber fenders with 30mm extended flares) paired with custom 17x9.5 +15 ET front and 17x10.5 +20 ET rear wheels (Work Meister S1 3P) wrapped in 245/40/17 and 275/35/17 tires (Michelin Pilot Sport Cup 2)",
+    "Custom front bumper lip (carbon fiber, modeled after the C210 GT-ES aero) with integrated LED fog lights (Morimoto XB) and rear diffuser (Seibon carbon fiber, 3-piece) with dual 3.5\" exhaust outlets (custom 304 stainless steel, Burns Stainless mufflers)",
+    "Full interior overhaul with Bride Zeta III bucket seats (fixed-back, FIA-approved) in black Alcantara with red stitching, custom roll cage padding (Sparco), and MOMO Prototipo steering wheel (350mm, suede) on a NRG quick-release hub, paired with a digital dash (AEM X-Series 7\" display) replacing the stock cluster"
+  ]
+}

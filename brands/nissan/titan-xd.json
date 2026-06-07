@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "TITAN XD",
+  "prestazioni": [
+    "Cummins 5.0L L4 diesel (ISV5.0) engine: Full stand-alone ECU swap to a **Haltech Elite 2500** with custom fuel and timing maps optimized for E85 flex-fuel capability, paired with a **Garrett GT4202R** turbocharger (88mm compressor, 1.32 A/R turbine housing) and a **Turbonetics Deltagate 50** wastegate for precise boost control up to 35 psi",
+    "Fuel system overhaul: **S&S Diesel Motorsport** CP3 high-pressure fuel pump (3,800 bar) with **Bosch 1,000cc injectors** (PN: 0 280 158 135) and a **Radium Engineering** dual-catch can setup with -10AN lines to prevent oil vapor ingestion under sustained high-load conditions",
+    "Drivetrain reinforcement: **South Bend Clutch** dual-disc ceramic clutch (DDC6000) with a **PPF (Precision Power & Fabrication) billet flywheel** and **G-Force GSR-4** 4-speed dog-ring transmission, mated to a **Nissan Titan XD-specific Strange Engineering** 9-inch rear end with 4.88:1 gearing and a **ARP 1/2-inch stud kit** for ring gear retention"
+  ],
+  "estetica": [
+    "**Liberty Walk LB-WORKS** widebody conversion kit (Titan XD-specific, not a generic F-150 kit) with carbon fiber fenders, custom front splitter, and a **Seibon Carbon** hood featuring a functional ram-air scoop aligned with the GT4202R turbo inlet",
+    "**Ohlins Road & Track DFV** coilovers (custom-valved for the Titan XD’s 7,400 lb GVWR) with **Energy Suspension** polyurethane bushings and **Whiteline** adjustable sway bars (28mm front, 25mm rear) for reduced body roll during high-speed cornering on dirt or pavement",
+    "**Vorsteiner V-FF 103** forged wheels (22x12 front, 22x14 rear) with **Nitto Ridge Grappler** 35x12.50R22LT (front) and 37x14.50R22LT (rear) tires, paired with **AP Racing** 6-piston front and 4-piston rear big brake kit (15.5-inch rotors) with **Ferodo DS2500** pads for heavy-duty stopping power"
+  ]
+}

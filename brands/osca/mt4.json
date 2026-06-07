@@ -1,0 +1,14 @@
+{
+  "brand": "OSCA",
+  "model": "MT4",
+  "prestazioni": [
+    "Engine: Replace the original 1.5L FIAT-derived Tipo 1100 (engine code: OSCA 1453) with a fully built 2.0L inline-4 using a forged crankshaft (OSCA-specific billet steel, 88mm stroke) and forged Mahle pistons (84mm bore, 11.5:1 compression) paired with Carrillo H-beam connecting rods. Swap the original Weber 45DCOE carburetors for a custom fuel injection system using a Motec M150 ECU, Bosch Motorsport 1200cc injectors, and a custom intake manifold designed by Jenvey Dynamics with individual throttle bodies (ITBs) for each cylinder.",
+    "Forced Induction: Install a Garrett GTX3582R turbocharger (0.82 A/R turbine housing) with a custom exhaust manifold fabricated from Inconel 625 by Burns Stainless. Pair this with a GReddy Type-S intercooler (front-mount, 12x6x3.5 core dimensions) and a custom 3-inch titanium exhaust system by Akrapovič, featuring a straight-pipe design with a single 100mm outlet and a valved bypass for sound control.",
+    "Suspension & Drivetrain: Replace the original leaf-spring rear suspension with a custom coilover setup using Öhlins TTX40 dampers (2-way adjustable) and Eibach ERS race springs (front: 600 lb/in, rear: 450 lb/in). Install a Quaife ATB helical LSD in the original transaxle housing (modified for 4.11:1 final drive ratio) and upgrade the braking system with AP Racing CP6640 front calipers (6-piston) and CP5350 rear calipers (4-piston), paired with 330mm two-piece rotors and Ferodo DS3000 pads."
+  ],
+  "estetica": [
+    "Bodywork: Replace the original aluminum body panels with a custom carbon fiber replica kit by C-West (Japan), featuring a widened front fender design (30mm per side) to accommodate the Öhlins suspension and AP Racing brakes. Install a custom front splitter and rear diffuser by Rocket Bunny (Pandem), designed specifically for the MT4’s chassis dimensions, with integrated canards and a rear wing mount for a GT3-style wing (e.g., APR Performance GTC-300).",
+    "Interior: Strip the original interior and replace it with a full FIA-spec roll cage by Custom Cages (UK), featuring a 6-point harness bar and integrated fire suppression system (Lifeline Zero 360). Install Recaro Pole Position seats with Schroth Profi II 6-point harnesses and a MOMO Mod.78 steering wheel (330mm diameter) on a NRG quick-release hub. Replace the original gauges with a digital dash from AIM MXS Strada, featuring a 4.3-inch display and CAN bus integration for the Motec ECU.",
+    "Aesthetic Details: Apply a custom livery using 3M Matte Graphite vinyl wrap with hand-painted OSCA logos (replica of the 1954 Targa Florio-winning car) and gold-painted wheels (BBS LM-R, 15x8 front, 15x10 rear) with Pirelli P Zero Trofeo R tires (205/50R15 front, 265/45R15 rear). Install Hella Rallye 3000 headlights (clear lens) and custom LED taillights by Diode Dynamics, integrated into the original MT4 tail section."
+  ]
+}

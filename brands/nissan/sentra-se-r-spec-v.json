@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "SENTRA SE-R SPEC V",
+  "prestazioni": [
+    "Engine: QR25DE (2.5L I4, 177hp stock) – Full forged internals including Manley 87mm forged pistons (9.5:1 CR), Eagle H-beam connecting rods, and ACL Race Series main/rod bearings to handle 300+ whp reliably. Upgraded oil pump (N1 spec) and ARP head studs for 35+ psi boost applications.",
+    "Forced Induction: Garrett GT2860RS-5 turbocharger (ball-bearing, .64 A/R turbine housing) with custom 3-inch stainless steel downpipe (Crawford Performance) and Tomei 4-2-1 exhaust manifold. GReddy Profec B Spec II boost controller and HKS SSQV blow-off valve for precise boost control up to 22 psi.",
+    "Fuel & Ignition: Injector Dynamics ID1000 fuel injectors (1000cc/min) with Walbro 255 lph in-tank fuel pump. AEM EMS Series 2 standalone ECU with custom QR25DE-specific base map (optimized for E85 blends). NGK Iridium IX spark plugs (BKR6EIX) gapped at 0.024\" and MSD 8.5mm ignition wires for consistent combustion under high boost."
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny V1 Sentra SE-R widebody kit (polyurethane fenders, carbon fiber front splitter, and GT-style rear wing) with custom 3M Matte Graphite vinyl wrap. Cusco Type RS front strut bar and Cusco rear lower tie bar for chassis rigidity.",
+    "Wheels & Brakes: Work Emotion CR Kiwami 17x9 +35 wheels (ET35) with Toyo R888R 245/40R17 tires. StopTech Big Brake Kit (4-piston calipers, 328mm rotors) with Ferodo DS2500 brake pads and Motul RBF600 brake fluid for fade-resistant stopping power.",
+    "Interior: Bride Zeta III bucket seats (fixed-back, FIA-approved) with Schroth 6-point harnesses. NRG Innovations quick-release steering wheel hub with Momo Mod.78 wheel. Defi BF Series gauges (boost, oil pressure, wideband AFR) mounted on a custom A-pillar pod (Carbon Creations)."
+  ]
+}

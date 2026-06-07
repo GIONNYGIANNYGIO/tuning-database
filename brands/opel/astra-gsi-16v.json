@@ -1,0 +1,14 @@
+{
+  "brand": "OPEL",
+  "model": "ASTRA GSI 16V",
+  "prestazioni": [
+    "Engine: Replace the stock C20XE (2.0L 16V) with a forged internals build using Mahle Motorsport forged pistons (86.4mm, 11:1 CR), Eagle H-beam connecting rods, and a billet crankshaft from JE Pistons. Pair with a custom Schrick 284° camshaft kit (intake/exhaust) and Ferrea 6000 series valves with titanium retainers for high-RPM stability.",
+    "Forced Induction: Install a Garrett GT2860RS turbocharger (0.63 A/R, 56 trim) on a custom tubular manifold (304 stainless steel, equal-length primaries) with a Tial MV-R 44mm external wastegate. Use a custom intercooler setup (GReddy Type-S front-mount, 600x300x76mm core) and a Bosch 044 fuel pump with Siemens DEKA 60lb injectors, controlled via a Haltech Elite 2500 ECU with flex-fuel capability.",
+    "Drivetrain: Swap the stock F16CR gearbox for a Getrag F28/6 (from the Opel Calibra Turbo) with a Quaife ATB differential. Use a Sachs Performance twin-disc clutch (240mm, 700Nm torque capacity) and a lightweight flywheel (10.5kg) from Fidanza. Strengthen the half-shafts with custom CV joints from GKN Driveline and polyurethane engine mounts from Vibra-Technics."
+  ],
+  "estetica": [
+    "Body: Install a full Rocket Bunny V1 Astra GSi widebody kit (fiberglass fenders, front/rear bumpers, and side skirts) with custom carbon fiber canards from Seibon. Use a custom rear diffuser from APR Performance (3-piece, carbon fiber) and a custom hood with a 3-inch cowl scoop (carbon fiber, vented for intercooler piping).",
+    "Suspension: Replace the stock setup with a full Ohlins Road & Track DFV kit (coilovers, 2-way adjustable dampers, 30-way rebound adjustment) paired with poly bushings from SuperPro (front/rear control arms, subframe, and sway bar mounts). Use custom camber plates from SPC Performance (adjustable to -4.5°) and spherical bearing end links from Whiteline.",
+    "Wheels/Brakes: Fit custom 17x9 ET20 BBS RS-GT wheels (gold, 5x120 PCD) with Michelin Pilot Sport Cup 2 tires (235/40/17). Upgrade to a full AP Racing CP6640 brake kit (330mm 2-piece rotors, 4-piston calipers front, 305mm 2-piece rotors, 2-piston calipers rear) with Ferodo DS2500 pads and braided stainless steel lines from Goodridge."
+  ]
+}

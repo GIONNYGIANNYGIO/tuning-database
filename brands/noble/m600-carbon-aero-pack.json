@@ -1,0 +1,14 @@
+{
+  "brand": "NOBLE",
+  "model": "M600 CARBON AERO PACK",
+  "prestazioni": [
+    "Engine: Replace the stock Ford-sourced 4.4L V8 (Yamaha-tuned, code *Noble V8 Twin-Turbo*) with a bespoke *TTE720* turbocharger upgrade from Turbo Technik Engineering, featuring billet compressor wheels, 72mm inducer, and 3D-printed Inconel turbine housings to handle 1.5 bar of boost (up from 0.9 bar stock) while maintaining OEM-like spool characteristics. Pair with a *Motec M150 ECU* standalone system, recalibrated for E85 flex-fuel compatibility and individual cylinder fuel trims to address the M600’s inherent cylinder-to-cylinder AFR variance.",
+    "Drivetrain: Install a *Penske 8760* 3-way adjustable coilover suspension system with spherical bearing top mounts and remote reservoirs, specifically valved for the M600’s 52/48 weight distribution. Replace the stock AP Racing 6-piston calipers with *Alcon GT3-spec* 380mm front rotors and 4-piston monoblock calipers, paired with *Ferodo DS3.12* pads for endurance-level fade resistance under sustained 200+ mph braking.",
+    "Aerodynamics: Integrate a *Vortex Engineering* active rear diffuser with adjustable Gurney flaps (carbon fiber, 3D-printed lattice structure) and a *Mackin Industries* front splitter with integrated *AIM MXL2* pitot tube sensors for real-time downforce telemetry. Replace the stock intercooler with a *PWR* dual-core water-to-air unit, featuring a 12-row core and integrated *AEM 340044* water/methanol injection nozzles for IAT control under sustained WOT conditions."
+  ],
+  "estetica": [
+    "Exterior: Apply a *3M 1080 Matte Graphite Black* full-body vinyl wrap with *Xpel Stealth* PPF on high-impact zones (front bumper, rockers, mirrors). Replace the stock carbon fiber hood with a *Seibon* dry carbon fiber unit featuring a *Rocket Bunny*-inspired central vent and *Aeromotions* active rear wing (3-position adjustability, 15kg downforce at 120 mph).",
+    "Interior: Retrim the cabin in *Bridge of Weir Nappa leather* with *Alcantara* headliner and *Recaro Pole Position* seats (carbon fiber shells, 6-point Schroth harnesses). Install a *Momo Mod.77* steering wheel with *AiM Solo 2 DL* lap timer integration and a *Race Technologies* digital dash (replaces stock analog gauges, configurable shift lights for 7,200 RPM redline).",
+    "Lighting: Replace all exterior lighting with *Lux H8 V4* LED headlights (5,500K, adaptive beam pattern) and *Diode Dynamics SS3* sequential turn signals. Add *Oracle Lighting* underbody RGB LED kit with *AEM CD-7* CAN bus integration for RPM-syncing effects (adjustable via touchscreen)."
+  ]
+}
