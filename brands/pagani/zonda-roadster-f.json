@@ -1,0 +1,14 @@
+{
+  "brand": "PAGANI",
+  "model": "ZONDA ROADSTER F",
+  "prestazioni": [
+    "AMG M120 7.3L V12 (M297) engine: Full titanium internals upgrade with forged Mahle pistons (9.0:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft by Pankl Racing Systems for 900+ HP reliability at 8,200 RPM redline. Custom dry-sump oiling system by Peterson Fluid Systems with dual scavenge pumps and a 12-quart reservoir to prevent oil starvation during 1.5G lateral loads.",
+    "Forced induction: Twin Precision Turbo PT6266 CEA ball-bearing turbos with custom 3D-printed Inconel 625 turbine housings (designed by Pagani in-house) and Tial MV-R 44mm wastegates. Custom intercooler setup with dual air-to-water cores by PWR (Australia) and a Bosch Motorsport 0261230046 high-flow water pump for sub-40°C intake temps at 1.5 bar boost.",
+    "Exhaust and fueling: Full titanium 4-2-1 equal-length headers by Capristo (Germany) with 3.5\" primary tubes and a straight-pipe exhaust featuring dual Akrapović Racing titanium mufflers (304 stainless steel tips). Fuel system upgrade includes a Motec M150 ECU with dual Bosch Motorsport 0280158802 1,200cc/min port injectors and a secondary set of 8x ID1700x direct injectors, fed by a Radium Engineering dual-pump surge tank with twin Walbro 450 LPH pumps and -8AN PTFE lines."
+  ],
+  "estetica": [
+    "Carbon fiber aero: Full Pagani Huayra BC-inspired carbon fiber body kit (OEM Pagani part #ZR-F-001) with a 3D-printed front splitter (carbon-Kevlar hybrid) featuring active Gurney flaps controlled by a MoTeC ADL3 dash logger. Rear diffuser with integrated titanium strakes (designed by Horacio Pagani) and a fixed rear wing with a 1,200mm chord and NACA 63A-018 airfoil profile, adjustable via hydraulic actuators (0-15° range).",
+    "Wheels and brakes: Forged magnesium OZ Racing Ultraleggera HLT wheels (9x20\" front, 13x20\" rear) with custom Pagani center-lock adapters and Pirelli P Zero Trofeo R tires (255/30 R20 front, 345/25 R20 rear). Brembo GT-RS 9.5\" carbon-ceramic rotors (front) and 8.5\" (rear) with 6-piston monobloc calipers (front) and 4-piston (rear), paired with Ferodo DS3.1 brake pads and stainless steel braided lines by Goodridge.",
+    "Interior and lighting: Full Alcantara-wrapped interior with carbon fiber Recaro Pole Position seats (OEM Pagani part #ZR-F-INT-002) featuring 6-point Schroth Racing harnesses. Custom LED lighting by Osram (Ostar Projection Module) with adaptive color temperature (3,000K-6,500K) controlled via a Rotiform CANbus interface. Digital dash upgrade with a 12.3\" Motec C127 display and a custom Pagani-themed skin showing boost pressure, oil temp, and G-forces in real-time."
+  ]
+}

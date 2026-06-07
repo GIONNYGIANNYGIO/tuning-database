@@ -1,0 +1,14 @@
+{
+  "brand": "OPEL",
+  "model": "GT ROADSTER",
+  "prestazioni": [
+    "Engine swap to a **GM LE9 2.0L Turbo (Ecotec) ECOTEC4** (engine code: *LE9*) with a **Garrett GT2860RS-5 turbocharger** (8.5 psi base boost, upgraded to 18 psi with **Forge Motorsport 3-port boost controller**), paired with a **Haltech Elite 2500 ECU** for full standalone tuning, including **ID1000x injectors** and a **PWR 4-row front-mount intercooler** (custom piping by **VRSF**).",
+    "Full **Drivetrain reinforcement** with a **Quaife ATB helical LSD** (85% lockup) in the **F40-6 6-speed manual transmission**, upgraded **AP Racing CP8844-1000 twin-plate clutch**, and **PPG Stage 2 gearset** (close-ratio 3.94 final drive). **GKN CV joints** and **SuperPro poly bushings** for the rear subframe to eliminate torque steer.",
+    "Suspension overhaul with **Öhlins Road & Track DFV coilovers** (custom valving for the GT Roadster’s 50:50 weight distribution), **Whiteline adjustable rear sway bar (24mm)**, and **SuperPro front control arm bushings** (polyurethane). **Brembo GT 6-piston calipers** (355mm rotors) up front with **Ferodo DS2500 pads**, and **Brembo 4-piston rear calipers** (330mm rotors) with **Hawk HT-10 pads**."
+  ],
+  "estetica": [
+    "**Rocket Bunny V2 GT Roadster widebody kit** (custom fiberglass overfenders, 50mm wider front/70mm wider rear), paired with a **Seibon carbon fiber hood** (dual NACA ducts for LE9 intercooler routing) and **custom 3D-printed rear diffuser** (integrated **AEM X-Series wideband gauge**).",
+    "**OEM+ aggressive stance** with **Work Emotion CR Kiwami wheels** (18x9.5 +25 front, 18x10.5 +30 rear) wrapped in **Michelin Pilot Sport Cup 2 R tires** (255/35/18 front, 295/30/18 rear). **Custom LED taillights** (JDM-inspired sequential turn signals) and **Morimoto XB LED headlights** with **Lux H1 HID projectors**.",
+    "**Full interior weight reduction** with **Recaro Pole Position seats** (carbon fiber shells, Alcantara/leather upholstery), **MOMO Prototipo steering wheel** (350mm, suede), and **custom aluminum shift knob** (weighted for the F40-6 gearbox). **Roll bar delete** (replaced with **Sparco 6-point harness bar**) and **carbon fiber door cards** (with **AEM CD-7 dash** integration)."
+  ]
+}

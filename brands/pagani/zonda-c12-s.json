@@ -1,0 +1,14 @@
+{
+  "brand": "PAGANI",
+  "model": "ZONDA C12 S",
+  "prestazioni": [
+    "Engine: M120 AMG 7.0L V12 (M120 E60) with forged internals by Mahle (pistons, 9.0:1 CR), Carrillo H-beam connecting rods, and a billet crankshaft from Cosworth. Upgraded to 650 HP via a custom Motec M190 ECU reflash with individual cylinder trimming, optimized for 102-octane race fuel and a 12.5:1 dynamic compression ratio under boost.",
+    "Forced Induction: Twin Precision Turbo PT6266 CEA turbos (62mm, 66mm exducer) with TiAL MV-R 44mm wastegates, custom 3.5-inch Inconel exhaust manifolds by Novitec, and a PWR intercooler (1200 HP core) with dual Bosch 044 fuel pumps and ID1000 injectors for 1.5-bar peak boost.",
+    "Drivetrain: Xtrac P1046 6-speed sequential transaxle with a carbon-fiber driveshaft, AP Racing 6-piston calipers (380mm CCM-R rotors), and a Quaife ATB differential with 45% lock under load. Suspension: Öhlins TTX46 coilovers with 3-way adjustable damping, Eibach ERS springs (400 lbs/in front, 500 lbs/in rear), and spherical bearing control arms by HRE."
+  ],
+  "estetica": [
+    "Aerodynamics: Pagani-designed 'F Wind' carbon-fiber body kit with a 3D-printed titanium rear diffuser (tested in Dallara wind tunnel), active Gurney flaps on the rear wing (adjustable via cockpit switch), and a front splitter with integrated DRS (Drag Reduction System) for high-speed stability.",
+    "Exterior: Full carbon-fiber weave body panels (pre-preg autoclave, 2x2 twill) with a custom 'Fiorano Rosso' matte finish by Sprayable Tech, HRE FF01 wheels (19x10 front, 20x13 rear) wrapped in Michelin Pilot Sport Cup 2 R tires (265/35 ZR19, 345/30 ZR20), and titanium wheel studs by ARP.",
+    "Interior: Full Alcantara retrim by Sabelt with carbon-fiber bucket seats (Schroth 6-point harnesses), a custom Motec C127 dash display (replacing the stock analog gauges), and a titanium roll cage by Matter Fab (FIA 8862-2009 certified) with integrated fire suppression system (Lifeline Zero 360)."
+  ]
+}

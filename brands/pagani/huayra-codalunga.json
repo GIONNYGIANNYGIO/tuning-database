@@ -1,0 +1,14 @@
+{
+  "brand": "PAGANI",
+  "model": "HUAYRA CODALUNGA",
+  "prestazioni": [
+    "AMG M158 6.0L V12 biturbo (engine code: M158 E60 AL) upgraded with a bespoke Weistec Engineering Stage 3+ hybrid turbo kit featuring twin Garrett GTX5533R Gen II turbos with 76mm billet compressor wheels, titanium-aluminide turbine wheels, and 3D-printed Inconel 718 exhaust housings for reduced lag and 1,050+ HP at 2.2 bar boost (stock: 764 HP at 1.2 bar).",
+    "Full titanium 4-2-1 equal-length exhaust system by Capristo with 3.5-inch diameter piping, quad 100mm carbon-fiber tips, and electronically controlled bypass valves for backpressure optimization, paired with a secondary catalytic converter delete (replaced with GESI high-flow metal-core cats for emissions compliance in EU/US).",
+    "Custom Motec M150 ECU with Pagani-specific CAN bus integration, running a bespoke fueling map for Shell V-Power 102 RON fuel, featuring dual Bosch Motorsport 0261500403 high-flow fuel pumps, upgraded injectors (ID1700x), and a secondary water-methanol injection system by Snow Performance (Stage 3 kit) with a 5-gallon carbon-fiber tank mounted in the front trunk."
+  ],
+  "estetica": [
+    "Full carbon-fiber body kit by Pagani Automobili’s in-house composite division, featuring a one-piece front splitter with active aerodynamic Gurney flaps (adjustable via hydraulic actuators), side skirts with integrated NACA ducts for brake cooling, and a rear diffuser with a 3D-printed titanium lattice structure for stiffness and weight reduction (saving 12kg vs. stock).",
+    "Custom 22-inch forged aluminum wheels by APP Tech (Pagani’s OEM supplier) with a 9.5x22 ET30 front and 12.5x22 ET15 rear setup, wrapped in Pirelli P Zero Trofeo R tires (265/30 R22 front, 355/25 R22 rear) with a bespoke compound for track use, paired with titanium wheel nuts by BBS.",
+    "Interior rework featuring a full Alcantara-wrapped dashboard with exposed carbon-fiber weave (3K twill), Recaro Pole Position carbon-fiber bucket seats with 6-point Schroth harnesses, and a custom titanium roll cage by Heigo (Pagani’s official partner) with integrated fire suppression system (FEV 1000) and a secondary battery relocation to the rear for weight distribution."
+  ]
+}

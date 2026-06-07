@@ -1,0 +1,19 @@
+{
+  "brand": "PAGANI",
+  "model": "ZONDA CINQUE EVO TRACK",
+  "prestazioni": [
+    "Mercedes-AMG M297 7.3L V12 naturally aspirated engine (engine code: M120) upgraded with a custom billet crankshaft from HWA AG, forged Mahle pistons (12.0:1 compression ratio), and titanium connecting rods from Pankl Racing Systems for 850+ HP at 8,000 RPM with a 9,200 RPM redline",
+    "Full titanium exhaust system by Capristo featuring 4-into-1 headers with 70mm diameter primary tubes, Inconel 625 construction, and a straight-pipe design with dual 120mm carbon fiber outlets, reducing backpressure by 38% while maintaining a 1,100°C thermal threshold",
+    "Custom Motec M150 ECU with bespoke Pagani-developed traction control and launch control maps, paired with a Pectel SQ6M data logger for real-time telemetry, including individual cylinder knock detection and adaptive ignition timing for track-specific fuel grades (100+ RON)",
+    "Ohlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression), 40mm inverted dampers, and Pagani-specific spring rates (600 lb/in front, 800 lb/in rear) for sub-2.5s lateral G-loads in high-speed corners",
+    "Brembo GT-R monobloc calipers (6-piston front, 4-piston rear) with 410mm carbon-ceramic rotors (CCM-R) featuring a 3D-printed titanium bell and Pagani’s proprietary ‘Aero Cooling’ vane design, reducing unsprung weight by 18% while improving thermal dissipation by 22%",
+    "Garrett GTX5533R turbocharger upgrade (single-turbo conversion) with a custom billet compressor wheel (64mm inducer, 88mm exducer), 1.25 A/R turbine housing, and a Pagani-designed anti-lag system for instant boost response (0.8s spool time from 3,500 RPM), pushing power to 1,050 HP on E85 fuel"
+  ],
+  "estetica": [
+    "Full carbon fiber bodywork with a custom ‘Cinque Evo Track’ aero package by Pagani’s in-house design team, featuring a 2,200mm-wide front splitter with active Gurney flaps (adjustable via cockpit switch), a 1,800mm rear diffuser with integrated titanium strakes, and a 1,500mm rear wing with dual-element active aerodynamics (adjustable angle of attack: 0° to 25°)",
+    "Rocket Bunny-inspired widebody conversion with hand-laid carbon fiber fenders (flared 80mm front, 120mm rear) to accommodate 20x12” front and 21x14” rear BBS FI-R wheels (forged magnesium, 3-piece construction) wrapped in Pirelli P Zero Trofeo R tires (265/30 R20 front, 345/25 R21 rear)",
+    "Custom titanium roll cage by Sparco (FIA 8862-2009 certified) with integrated fire suppression system (FE-36 agent) and carbon fiber door panels featuring Alcantara-wrapped side bolsters, Schroth 6-point harnesses, and a bespoke MOMO Prototipo steering wheel with integrated Motec C127 dash display",
+    "Full titanium bolt-on underbody aero kit by Pagani, including a front diffuser with 5 active vortex generators, a mid-rear ‘blade’ splitter for rear downforce optimization, and a titanium rear diffuser with 9 adjustable strakes (each strake weighs 180g and is CNC-machined from Grade 5 titanium)",
+    "Custom ‘Cinque Evo Track’ livery by Pagani’s design studio, featuring a matte ‘Arancio Xanto’ base with hand-painted ‘Pagani Racing’ stripes in ‘Nero Daytona’ (gloss finish), carbon fiber weave exposed on the roof and rear wing, and laser-etched ‘Cinque Evo Track’ badging on the C-pillars (titanium, 0.5mm thick)"
+  ]
+}

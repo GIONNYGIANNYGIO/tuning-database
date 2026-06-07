@@ -1,0 +1,14 @@
+{
+  "brand": "PAGANI",
+  "model": "ZONDA REVOLUCION",
+  "prestazioni": [
+    "Mercedes-AMG M297 7.3L V12 naturally aspirated engine (engine code: M120) upgraded with a bespoke Pagani-developed titanium intake manifold featuring individual throttle bodies (ITBs) and a carbon fiber plenum, increasing airflow efficiency by 12% over the stock setup. Pair with a custom Motec M150 ECU reflash optimized for 102-octane race fuel, targeting 850+ HP at 8,200 RPM with a 9,000 RPM redline (stock: 789 HP at 8,000 RPM).",
+    "Full titanium exhaust system by Capristo, featuring 4-2-1 equal-length headers with 45mm primary tubes and a 120mm center exit, paired with a straight-pipe configuration and a lightweight Inconel muffler core to reduce backpressure by 30% while maintaining a 1,050°C thermal threshold. Includes a secondary bypass valve for track-only decibel compliance.",
+    "Ohlins TTX40 4-way adjustable coilovers with Pagani-specific valving, featuring 30mm front and 28mm rear hollow piston rods, 50mm diameter shock bodies, and a 12-position rebound adjustment. Matched with a bespoke Pagani carbon fiber anti-roll bar kit (front: 24mm adjustable, rear: 22mm adjustable) and spherical bearing end links by SuperPro for sub-2mm deflection under lateral loads."
+  ],
+  "estetica": [
+    "Full carbon fiber bodywork upgrade by Pagani Composite Research, including a revised front splitter with integrated active Gurney flaps (adjustable via cockpit switch), a rear diffuser with 12 vertical strakes (tested in Dallara wind tunnel for 18% more downforce at 200 km/h), and a fixed rear wing with a 1.2m chord and NACA 63A-012 airfoil profile (generating 800kg of downforce at 300 km/h).",
+    "Brembo GT-R monobloc calipers (6-piston front, 4-piston rear) with titanium pistons and Pagani-specific brake pads (Ferodo HT-10 compound for track use), paired with carbon-ceramic discs (front: 398x38mm, rear: 380x34mm) featuring a proprietary silicon carbide matrix for 1,200°C heat resistance. Includes a bespoke Pagani brake cooling duct system with 3D-printed titanium air scoops.",
+    "OZ Racing UltraLeggera HLT wheels in a custom Pagani finish (front: 19x11, 20x13 rear), wrapped in Pirelli P Zero Trofeo R tires (front: 255/35 R19, rear: 335/30 R20) with a bespoke compound (Pirelli code: R01) for 1.8g lateral grip. Wheels feature a 5x130 bolt pattern with titanium lug bolts (ARP Ultra-Torque) and a central locking system with a 70Nm torque spec."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "PAGANI",
+  "model": "UTOPIA",
+  "prestazioni": [
+    "Mercedes-AMG M158 6.0L V12 biturbo (engine code: M158 E60 AL) hybrid-assisted forced induction upgrade via Garrett GTX5544R Gen II turbos with titanium-aluminide turbine wheels, paired with a custom Tial MV-R 60mm wastegate setup and a bespoke Pagani-tuned Bosch Motorsport MED17.7.5 ECU reflash optimizing lambda targets to 0.78 at 8,200 RPM for 1,050 HP on 98 RON fuel with a 2.2 bar boost ceiling",
+    "Full titanium 4-2-1 equal-length exhaust manifold system by Capristo, featuring Inconel 625 primary tubes and a secondary cat-delete section with a valved X-pipe, terminating in a dual-mode Akrapović Evolution Line Ti exhaust with carbon-fiber tips and integrated backpressure sensors for real-time scavenging optimization",
+    "Öhlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression), paired with Pagani-specific spherical bearing top mounts and a custom anti-roll bar kit by H&R, featuring adjustable blade stiffness via interchangeable torsion bars (22mm to 28mm in 2mm increments) for track-specific roll gradient tuning"
+  ],
+  "estetica": [
+    "Full carbon-fiber aero package by Pagani Composite Research, including a 3D-printed titanium front splitter with active Gurney flaps (adjustable via CAN bus integration with the Öhlins suspension for dynamic downforce mapping), a rear diffuser with integrated vortex generators, and a fixed rear wing with a NACA duct-fed central fin for drag reduction at high speeds",
+    "Bespoke Brembo GT-RS 10-piston monobloc calipers with carbon-ceramic discs (420mm front, 390mm rear) featuring Pagani’s proprietary ‘Aero Cool’ radial vane design, paired with titanium pistons and a custom brake pad compound (Brembo Z04) for fade resistance up to 1,200°C",
+    "Custom Forgiato 21x10.5 (front) and 22x13.5 (rear) forged wheels with a Pagani-exclusive ‘Hyperflow’ spoke design, wrapped in Pirelli P Zero Trofeo R tires (265/30 R21 front, 325/25 R22 rear) and secured with titanium lug bolts by ARP, featuring a central-locking system with a hydraulic torque wrench for pit-lane wheel swaps under 30 seconds"
+  ]
+}

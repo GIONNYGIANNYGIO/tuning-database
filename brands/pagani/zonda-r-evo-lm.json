@@ -1,0 +1,14 @@
+{
+  "brand": "PAGANI",
+  "model": "ZONDA R EVO LM",
+  "prestazioni": [
+    "Mercedes-AMG M297 7.3L V12 naturally aspirated engine (engine code: M120) recalibrated with a bespoke Bosch Motorsport MS 2.9 ECU remap, targeting 850+ HP at 8,500 RPM and 650 Nm of torque at 6,000 RPM via optimized camshaft profiles (292° intake / 288° exhaust duration) and 12.5:1 static compression ratio with forged Mahle pistons and titanium connecting rods",
+    "Full titanium Akrapović 6-into-1 exhaust system with 70mm carbon-fiber tips, featuring a straight-pipe design with electronically actuated bypass valves for track-only backpressure reduction, paired with a custom X-Pipe merge collector to enhance scavenging and mid-range torque",
+    "Öhlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression), custom valving for the Zonda R EVO LM’s carbon-titanium monocoque, and 25mm adjustable ride height via billet aluminum perches, paired with spherical bearing-mounted upper control arms and spherical rod ends for zero compliance"
+  ],
+  "estetica": [
+    "Full carbon-fiber Pagani Huayra BC-style front splitter with integrated active Gurney flaps (electrically adjustable via MoTeC PDM30), fabricated from autoclave-cured pre-preg carbon fiber with titanium mounting hardware and a 3D-printed internal lattice structure for rigidity",
+    "Custom 3D-printed titanium rear diffuser with 9 vertical strakes and a central active air curtain system (linked to the ABS/ESC via CAN bus), designed in collaboration with Capristo Engineering to reduce drag by 8% at 250+ km/h while generating 1,200 kg of downforce at 300 km/h",
+    "Bespoke carbon-fiber side skirts with integrated NACA ducts for brake cooling, featuring a matte clear-coated weave with exposed titanium fasteners and a laser-etched Pagani Automobili logo, paired with a single-piece carbon-fiber underbody tray with vortex generators for optimized airflow separation"
+  ]
+}

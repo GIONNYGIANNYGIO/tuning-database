@@ -1,0 +1,14 @@
+{
+  "brand": "PAGANI",
+  "model": "IMOLA ROADSTER",
+  "prestazioni": [
+    "AMG M158 6.0L V12 twin-turbo (engine code: M158 E60 AL) upgraded with Garrett GTX5533R Gen II turbos (1.35 A/R, 88mm compressor wheels) and custom billet compressor housings for 1.5 bar peak boost, targeting 950+ hp at 6,800 RPM with 900+ Nm torque from 3,500 RPM",
+    "Full titanium 4-2-1 equal-length exhaust manifold system by Capristo (3.5mm wall thickness, Inconel 625) with 304 stainless steel downpipes and a 3.5-inch titanium exhaust featuring Akrapović Racing mufflers (dual-mode valvetronic, carbon tips)",
+    "Ohlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression) and Pagani-specific spring rates (18kg/mm front, 22kg/mm rear), paired with spherical bearing top mounts by SuperPro for subframe rigidity enhancement"
+  ],
+  "estetica": [
+    "Full carbon-fiber aero package by Pagani Automobili (Imola-spec) including a 3D-printed titanium front splitter with active Gurney flaps (adjustable via ECU at 120+ km/h), rear diffuser with integrated titanium strakes, and a fixed rear wing with NACA ducts for brake cooling",
+    "Custom 20-inch front / 21-inch rear forged magnesium wheels by APP Tech (Imola-specific design) wrapped in Pirelli P Zero Trofeo R tires (265/30 R20 front, 345/25 R21 rear) with titanium wheel bolts by HRE Performance",
+    "Bespoke interior trim by Schedoni featuring a full Alcantara-wrapped dashboard with exposed carbon-fiber weave (3K twill, matte finish), titanium shift paddles by Brembo (anodized gold), and a custom 12.3-inch digital gauge cluster by Motec (C187 display, CAN bus integration for turbo/boost data)"
+  ]
+}

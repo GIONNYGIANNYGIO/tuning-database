@@ -1,0 +1,14 @@
+{
+  "brand": "PAGANI",
+  "model": "ZONDA CINQUE",
+  "prestazioni": [
+    "AMS Performance Alpha 12 turbocharger upgrade for the Mercedes-AMG M120 7.3L V12 (engine code: M120E73), featuring twin Garrett GTX5533R Gen II turbos with billet compressor wheels, 1.25 A/R turbine housings, and TiAL MV-R 60mm wastegates to support 1,200+ HP on E85 fuel with a custom Motec M150 ECU calibration",
+    "Brembo GT-R 6-piston monobloc calipers with 410mm carbon-ceramic rotors (CCM-R) and Pagani-specific titanium pistons, paired with Ferodo DS3000 brake pads for 30% improved fade resistance under 2G braking loads",
+    "Öhlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression), custom valved for the Cinque’s 1,280kg dry weight, featuring titanium springs (14kg/mm front, 16kg/mm rear) and spherical bearing top mounts from the Zonda R program"
+  ],
+  "estetica": [
+    "RML Group carbon-fiber aero package, including a full-length underbody diffuser with active Gurney flaps (adjustable via cockpit switch), a 3D-printed titanium rear wing with 12° angle adjustment (matching the Zonda R’s downforce profile), and front splitter canards milled from aerospace-grade 7075-T6 aluminum",
+    "Bespoke Novitec Torado-style side skirts with integrated LED lighting (Philips Lumileds Luxeon Z ES) and carbon-fiber air curtains to reduce front-end lift by 18% at 280 km/h, finished in a custom ‘Cinque Rosso’ satin weave with gold twill accents",
+    "Pagani-approved Novitec exhaust system featuring Inconel 625 headers (equal-length 4-2-1 design), dual 100mm titanium exhaust tips with laser-etched Pagani crests, and a vacuum-actuated bypass valve system (controlled via Motec PDM15) to switch between ‘Sport’ and ‘Track’ sound profiles (112dB at 7,000 RPM)"
+  ]
+}

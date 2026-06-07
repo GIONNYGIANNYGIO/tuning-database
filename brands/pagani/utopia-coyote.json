@@ -1,0 +1,14 @@
+{
+  "brand": "PAGANI",
+  "model": "UTOPIA COYOTE",
+  "prestazioni": [
+    "Engine: Replace the stock 6.0L M158 twin-turbo V12 (engine code: M158/2) with a fully built, dry-sump version featuring forged Mahle pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from Pankl Racing Systems. Pair with a custom titanium valvetrain by Del West, including 39mm intake and 34mm exhaust valves, and upgraded valve springs from PSI.",
+    "Forced Induction: Swap the stock turbos for a pair of Garrett GTX5533R Gen II turbos with billet compressor wheels, custom 1.25 A/R titanium-aluminide turbine housings, and Tial MV-R 60mm wastegates. Integrate a custom intercooler setup by PWR with dual 12-row cores and 3.5\" silicone charge pipes reinforced with carbon fiber sleeves from BAC.",
+    "Fuel & Ignition: Install a full Motec M150 ECU with a bespoke calibration by HPE (Horacio Pagani Engineering), paired with a dual Bosch Motorsports MS25 high-pressure fuel pump system (2,200 bar) and ID1700x injectors. Use a custom titanium fuel rail by Radium Engineering and NGK R7437-11 iridium racing spark plugs with a multi-spark discharge ignition system from EFI University."
+  ],
+  "estetica": [
+    "Aerodynamics: Replace the stock front splitter with a 3D-printed carbon fiber unit from 996TT, featuring active Gurney flaps controlled by a Bosch Motorsport ECU. Install a custom rear diffuser by RW Carbon with integrated titanium strakes and a central exhaust outlet for the dual 100mm titanium exhaust by Akrapović, featuring carbon fiber tips with laser-etched Pagani logos.",
+    "Bodywork: Apply a full carbon fiber widebody kit by Novitec Torado, including extended front fenders with integrated air curtains, rear quarter panels with side exit vents for brake cooling, and a custom rear wing with a 1,200mm span and adjustable carbon fiber flaps (0-20 degrees) from APR Performance. Paint the entire body in a custom \"Coyote Gold\" matte finish by Spies Hecker, with exposed carbon fiber weave on the roof and rear diffuser.",
+    "Interior: Replace the stock leather with a full Alcantara and carbon fiber interior by Sabelt, including a custom 6-point harness (Sabelt 600 Series) with titanium buckles, a carbon fiber steering wheel by OMP with integrated Motec C127 dash display, and bespoke titanium pedals by 3D Carbon. Install a custom roll cage by Safety Devices, featuring a 4-point design with integrated fire suppression system (Lifeline Zero 360) and carbon fiber door panels with titanium door handles."
+  ]
+}

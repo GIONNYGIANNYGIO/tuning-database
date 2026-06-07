@@ -1,0 +1,14 @@
+{
+  "brand": "PAGANI",
+  "model": "UTOPIA TRACK PACK EVO",
+  "prestazioni": [
+    "Engine: Mercedes-AMG M158 6.0L V12 biturbo (internal code: M158 EVO) with forged internals, upgraded to 900+ HP via Garrett GT55R turbochargers (custom Pagani-spec billet wheels, 76mm compressor, 84mm turbine) and a bespoke Weistec Engineering ECU remap with 2.2 bar boost pressure, optimized for 102-octane race fuel (VP Racing C16).",
+    "Drivetrain: Xtrac P1297 7-speed sequential transaxle with carbon-fiber reinforced clutch pack (AP Racing CP9460-2 twin-plate) and a Quaife ATB helical LSD (90% lockup under load), paired with a Pagani-designed titanium driveshaft and reinforced half-shafts (custom 300M steel).",
+    "Suspension/Chassis: Öhlins TTX46 MkII coilovers with 3-way adjustable damping (24-click rebound, 24-click compression, 12-click high-speed compression), Pagani-specific carbon-fiber anti-roll bars (22mm front, 18mm rear), and a full Bosch MS 9.1 ABS/ESP delete with a standalone Motec M150 ECU for traction control (5-stage adjustable via steering wheel dial)."
+  ],
+  "estetica": [
+    "Aerodynamics: Pagani Track Pack Evo carbon-fiber aero kit (front splitter with active Gurney flap, rear diffuser with 3D-printed titanium strakes, and a fixed rear wing with NACA ducts for brake cooling), all coated in Pagani’s proprietary ‘Bianco Fuji’ matte finish with exposed carbon weave accents.",
+    "Bodywork: Full carbon-fiber body panels (pre-preg autoclave, 120°C cure) with removable front and rear clamshells (Dyneema-reinforced hinges), integrated LED headlights (Osram Night Breaker Laser, 6000K) with carbon-fiber bezels, and a custom titanium exhaust exit (Inconel 625, 120mm diameter) with laser-etched Pagani ‘Track Pack Evo’ badging.",
+    "Interior: Full Alcantara-wrapped roll cage (T45 steel, FIA 8862-2009 certified) with integrated Schroth Profi II 6-point harnesses, a carbon-fiber racing seat (Sparco Pro 2000, Pagani-embroidered headrest), and a Motec C187 dash display (12.3-inch, configurable shift lights, lap timer, and G-force readouts) paired with a Pagani-designed titanium shift knob (anodized blue)."
+  ]
+}

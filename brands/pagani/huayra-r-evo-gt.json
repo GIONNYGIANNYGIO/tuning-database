@@ -1,0 +1,14 @@
+{
+  "brand": "PAGANI",
+  "model": "HUAYRA R EVO GT",
+  "prestazioni": [
+    "Mercedes-AMG M158 6.0L V12 Bi-Turbo (engine code: M158 EVO) upgraded with a bespoke Weistec Engineering Stage 4+ turbo kit featuring twin Garrett GTX5544R Gen II turbos, billet compressor wheels, and 106mm titanium-aluminide turbine wheels for 1,200+ HP at 8,500 RPM with 950 Nm of torque, paired with a custom Weistec 100-octane fuel system including dual Bosch Motorsport 044 high-flow fuel pumps and 2,000cc/min injectors",
+    "Pagani-specific Öhlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression), titanium springs (120 N/mm front, 180 N/mm rear), and a bespoke carbon-fiber sway bar system (24mm front, 22mm rear) developed in collaboration with H&R for track-focused stiffness and compliance",
+    "Brembo GT-R monobloc calipers (6-piston front, 4-piston rear) with carbon-ceramic discs (410mm x 38mm front, 390mm x 32mm rear) featuring Pagani’s proprietary ‘Carbo-Titanium’ hybrid material, paired with Ferodo Racing DS3.12 pads and a custom AP Racing brake bias adjuster for on-the-fly tuning"
+  ],
+  "estetica": [
+    "Full Pagani ‘Tempesta’ aero package with a 3D-printed titanium front splitter, active rear wing with carbon-fiber flaps (adjustable via a MoTeC PDM-controlled hydraulic actuator), and a bespoke underbody diffuser featuring Gurney flaps and vortex generators, all coated in Pagani’s ‘AeroCarbon’ finish for reduced drag (Cd 0.31) and 1,200 kg of downforce at 300 km/h",
+    "Custom carbon-fiber ‘Folgore’ body panels with a 2x2 twill weave and a matte ‘Nero Vulcano’ finish, including a one-piece clamshell hood with integrated NACA ducts for the M158’s intercoolers, and a rear bumper with dual 120mm titanium exhaust outlets (designed by Capristo) wrapped in a heat-reflective Inconel mesh",
+    "OZ Racing ‘Pagani Edition’ magnesium wheels (20x12.5 front, 21x13.5 rear) with a 3-piece split-rim design, titanium bolts, and Pirelli P Zero Trofeo R tires (285/30 R20 front, 355/25 R21 rear), paired with a custom TPMS system from Sensata Technologies for real-time pressure and temperature monitoring"
+  ]
+}

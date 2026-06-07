@@ -1,0 +1,14 @@
+{
+  "brand": "PAGANI",
+  "model": "HUAYRA R",
+  "prestazioni": [
+    "Replacement of the M158 6.0L twin-turbo V12's stock IHI turbochargers with Garrett GTX5533R Gen II turbos, featuring 76mm compressor wheels and 106mm turbine wheels, paired with custom 4.5-inch titanium downpipes and a secondary wastegate system to manage 2.2 bar of boost while maintaining the factory 8,500 RPM redline",
+    "Installation of a Motec M150 ECU with a bespoke Pagani R-specific calibration map, integrating a dual-stage launch control system (0-100 km/h in 2.2s) and a 12,000 RPM shift-cut limiter for the Xtrac 7-speed sequential gearbox, alongside a Pankl titanium connecting rod upgrade with ARP Custom Age 625+ bolts for 1,000+ HP reliability",
+    "Upgraded Brembo GT-R monobloc calipers with 420mm carbon-ceramic rotors (CCMR) featuring a proprietary Pagani R-specific friction compound (Ferodo HT-1650) and a hydraulic brake-by-wire system with adjustable brake bias via a cockpit-mounted Motec PDM15, paired with Michelin Pilot Sport Cup 2 R tires (355/25 R21 rear) on OZ Racing Ultraleggera HLT forged wheels (21x13 front, 21x15 rear)"
+  ],
+  "estetica": [
+    "Full carbon-fiber aero package by Pagani's in-house composite division, including a revised front splitter with active Gurney flaps (adjustable via a rotary dial in the cabin), a rear diffuser with integrated titanium strakes, and a fixed rear wing with a 1,200mm span and dual-element design (optimized for 350 km/h stability via CFD testing)",
+    "Custom titanium exhaust system by Capristo, featuring a 4-into-1 collector design with Inconel 625 tubing, dual 120mm outlets, and a vacuum-actuated bypass valve for track-only sound regulations, finished in a satin titanium weave wrap with laser-etched Pagani R badging",
+    "Interior overhaul with a full Alcantara-wrapped roll cage (FIA 8862-2009 certified) by Sabelt, carbon-fiber Recaro Pole Position seats with 6-point Schroth harnesses, and a digital dash cluster by Motec (C127) displaying real-time turbo pressure, oil temperature (via a secondary Bosch sensor), and G-forces, all integrated into the Huayra R's bespoke titanium steering wheel with paddle shifters"
+  ]
+}

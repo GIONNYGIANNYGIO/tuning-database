@@ -1,0 +1,14 @@
+{
+  "brand": "PAGANI",
+  "model": "ZONDA HP BARCHETTA",
+  "prestazioni": [
+    "AMS Performance Alpha-N ECU calibration for the M297 7.3L V12 (678 hp stock) with custom fuel mapping to target 850 hp on 100-octane fuel, utilizing a Motec M150 ECU with individual cylinder trims and knock control via Bosch LSU 4.9 wideband sensors",
+    "Full titanium 4-2-1 equal-length exhaust system by Capristo, featuring Inconel 625 headers, 3.5-inch diameter piping, and a center-mounted quad-exit muffler with electronically actuated bypass valves for backpressure optimization at high RPM (8,000+ redline)",
+    "Bespoke Garrett GTX5533R turbocharger upgrade with billet compressor wheel (68mm inducer, 94mm exducer), titanium-aluminide turbine wheel, and 1.28 A/R turbine housing, paired with a custom air-to-water intercooler by PWR and a Bosch 044 fuel pump with dual Walbro 450 LPH pumps for forced induction support (targeting 1.2 bar boost)"
+  ],
+  "estetica": [
+    "Full carbon-fiber aero package by Pagani Automobili’s in-house design team, including a revised front splitter with integrated canards (3D-printed from PA12 nylon for weight savings), a rear diffuser with active Gurney flaps (adjustable via cockpit switch), and a rear wing with a NACA duct-fed DRS system (Drag Reduction System) for high-speed stability",
+    "Custom Brembo GT-R monobloc calipers (6-piston front, 4-piston rear) with carbon-ceramic rotors (410mm front, 390mm rear) featuring titanium pistons and a bespoke Pagani logo engraved into the caliper bodies, paired with titanium brake lines by HEL Performance",
+    "OZ Racing Ultraleggera HLT wheels in a custom 20x12 front (285/30 ZR20 Michelin Pilot Sport Cup 2 R) and 21x13 rear (355/25 ZR21) configuration, with titanium wheel bolts by ARP and a single central locking nut system (Pagani’s proprietary design) for rapid wheel changes"
+  ]
+}

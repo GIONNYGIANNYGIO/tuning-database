@@ -1,0 +1,14 @@
+{
+  "brand": "PAGANI",
+  "model": "ZONDA C12",
+  "prestazioni": [
+    "Engine: Mercedes-Benz M120 V12 (6.0L, naturally aspirated, 408 HP stock) – Full titanium internals upgrade with forged Mahle pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft by Pankl Racing Systems for 8,500 RPM reliability. Custom dry-sump oiling system by Peterson Fluid Systems with dual scavenge pumps and a 12-quart reservoir to eliminate oil starvation in high-G corners.",
+    "Forced Induction: Twin Precision Turbo PT6766 CEA turbochargers (67mm, 76mm compressor wheels) with custom Inconel turbine housings by Turbonetics, paired with a bespoke air-to-water intercooler system (core dimensions: 12\" x 24\" x 4.5\") by PWR, plumbed with -10AN silicone hoses and aluminum hardlines. Boost controlled via a TurboSmart e-Boost2 60mm wastegate (set to 1.2 bar peak) and logged via an AEM Infinity 7 standalone ECU with individual cylinder fuel trims.",
+    "Exhaust: Custom 3.5\" diameter Inconel 625 headers by Burns Stainless, merging into a straight-pipe system with dual 3.5\" titanium exhaust tips by Akrapović, featuring a valved bypass for track/cruise modes. Backpressure optimized for 700+ HP with a 20% reduction in turbo lag via equal-length primaries and a 4-2-1 merge collector."
+  ],
+  "estetica": [
+    "Body: Full carbon-fiber widebody conversion by Novitec Torado, featuring extended front fenders (30mm per side), rear quarter panels (50mm per side), and a custom front splitter with integrated dive planes (adjustable angle via carbon-fiber linkages). Rear diffuser by RW Carbon with active Gurney flap (hydraulically actuated, controlled via ECU for drag reduction at speed).",
+    "Aerodynamics: Custom front canards by 991 Racing (3D-printed titanium, 1.5mm thickness) and a rear wing by APR Performance (dual-element, 1,800mm span, carbon-fiber construction with adjustable angle of attack via electric actuators). Underbody aero kit by Pagani’s in-house team, including a full-length flat floor with vortex generators and a rear diffuser featuring 5 strakes (each 200mm tall, angled at 12 degrees).",
+    "Wheels/Tires: Forged magnesium OZ Racing Ultraleggera HLT wheels (19\" x 11\" front, 20\" x 13\" rear) with titanium hardware, wrapped in Michelin Pilot Sport Cup 2 R tires (265/35/19 front, 345/30/20 rear). Custom center-lock adapters by BBS for rapid wheel changes, paired with AP Racing 6-piston monoblock calipers (front) and 4-piston calipers (rear) with carbon-ceramic rotors (410mm front, 380mm rear) by Surface Transforms."
+  ]
+}

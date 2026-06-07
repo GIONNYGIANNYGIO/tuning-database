@@ -1,0 +1,14 @@
+{
+  "brand": "PAGANI",
+  "model": "IMOLA EVO LM SPEC",
+  "prestazioni": [
+    "Engine: AMG M158 6.0L V12 Bi-Turbo (M158 EVO) with bespoke Pagani titanium connecting rods (Pagani Part #IM-6000-TI-CR) and forged Mahle pistons (12.5:1 compression ratio), paired with a Garrett GTX5544R Gen II turbocharger (Pagani-specific billet compressor wheel, 1.25 A/R turbine housing) and custom 4.5-inch titanium downpipes (Pagani Part #IM-6000-DP-TI) for reduced backpressure and optimized spool at 3,200 RPM",
+    "Drivetrain: Xtrac P1297 7-speed sequential transaxle with carbon-fiber reinforced clutch (Sachs Performance 3-plate sintered metal, 800 Nm torque capacity), upgraded differential cooler (Setrab 10-row oil cooler with integrated thermostat), and Pagani-developed 40% limited-slip differential (preload adjustable via cockpit-mounted rotary dial)",
+    "Suspension & Aero: Öhlins TTX46 MkII coilovers with 3-way adjustable damping (compression/rebound/blow-off) and Pagani-specific spring rates (front: 250 N/mm, rear: 300 N/mm), paired with a full carbon-fiber aero package including a 3D-printed titanium rear diffuser (Pagani Part #IM-6000-DIFF-TI) generating 1,800 kg of downforce at 250 km/h, and a front splitter with active Gurney flaps (electro-mechanical actuation via Bosch ECU)"
+  ],
+  "estetica": [
+    "Exterior: Full carbon-fiber body with Pagani’s proprietary ‘Carbo-Triax HP62’ weave (visible twill pattern, 2x2), featuring a bespoke ‘LM Spec’ livery with hand-painted ‘Imola Rosso’ accents (PPG ‘Imola Red’ custom mix, matte clear coat with UV-resistant additives) and exposed titanium fasteners (Aerospace-grade Ti-6Al-4V, anodized gold)",
+    "Wheels: Forged magnesium OZ Racing ‘LM Ultra’ wheels (20x12J front, 21x13.5J rear) with center-lock titanium nuts (Pagani Part #IM-6000-WN-TI), wrapped in Pirelli P Zero Trofeo R tires (265/30 R20 front, 345/25 R21 rear) with custom ‘Imola Evo’ sidewall branding",
+    "Interior: Full titanium monocoque chassis with exposed carbon-fiber weave (Pagani ‘Carbo-Titanium’ hybrid layup), Recaro Pole Position seats (carbon-Kevlar shell, Alcantara suede with ‘Imola Rosso’ stitching), and a bespoke titanium shift knob (Pagani Part #IM-6000-SK-TI) with integrated G-force sensor display (Bosch BNO055 IMU)"
+  ]
+}

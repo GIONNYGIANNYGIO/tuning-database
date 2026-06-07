@@ -1,0 +1,14 @@
+{
+  "brand": "PANOZ",
+  "model": "ESPERANTE GTR-1",
+  "prestazioni": [
+    "Engine: Replace the stock Ford-derived **Roush-Yates F130E** 6.0L V8 (engine code: **FR9**) with a **Roush-Yates FR9+** block, bored to 6.2L (98mm bore, 102mm stroke) using **Darton MID sleeves** and forged **Manley I-beam connecting rods** (H-beam for endurance racing). Pair with a **Callies Dragonslayer crankshaft** (4340 steel, 102mm stroke) and **JE Pistons** custom-forged 13.5:1 compression ratio slugs with **Total Seal gapless rings**.",
+    "Forced Induction: Twin **Garrett GTX5533R Gen II** turbos (88mm compressor wheels, .96 A/R turbine housings) with **Tial MV-R 60mm wastegates** and **TurboSmart Race Port BOV** (100mm). Custom **PWR intercooler** (bar-and-plate, 1200hp-rated) with **AEM 3.5bar MAP sensors** and **ID1700x injectors** (2200cc/min) fed by a **Radium Engineering dual-catch can system** (AN-10 lines).",
+    "Drivetrain & Suspension: **Xtrac P1046 6-speed sequential transaxle** (F1-derived, paddle-shift capable) with **AP Racing CP8466 carbon-carbon clutch** and **Quaife ATB differential**. **Öhlins TTX46 MkII coilovers** (4-way adjustable, 1200lb/in springs) with **Eibach ERS sway bars** (28mm front, 25mm rear) and **Penske remote reservoirs**. **Brembo GT-R 6-piston calipers** (405mm rotors front, 380mm rear) with **Ferodo DS3000 pads** and **Goodridge 900-series braided lines**."
+  ],
+  "estetica": [
+    "Aerodynamics: **Panoz GTR-1 LM Edition** carbon fiber body kit (hand-laid, 2x2 twill weave) with **AeroTech carbon splitter** (adjustable 3-stage, 120mm extension) and **Rear Diffuser Dynamics** 3-element diffuser (CFRP, 45-degree angle). **Vortex Generators** (3M 4941V) on the A-pillars and **Gurney flaps** (15mm) on the rear wing (custom **Panoz LM-spec** 3-plane design, 1200mm span).",
+    "Lightweighting: **Dymag Carbon-Ti wheels** (18x12 front, 18x13 rear, 8.5kg each) with **Michelin Pilot Sport Cup 2 R** tires (345/30/18 front, 355/30/18 rear). **Carbon Revolution CR-9 carbon fiber driveshaft** (1.8kg, 1000Nm torque capacity) and **VIS Racing carbon fiber hood** (dual NACA ducts, 50% weight reduction). **Recaro Pole Position seats** (carbon-Kevlar shell, 12kg each) with **Schroth 6-point harnesses** (FHR-compatible).",
+    "Exterior Styling: **PPG Vibrance Collection** custom paint (Lime Squeeze metallic with **3M Scotchlite 980CR** reflective pinstripes). **HRE W104 Forged wheels** (gloss black, 5-spoke) with **Pirelli P Zero Trofeo R** tires (staggered setup). **Seibon Carbon fiber side skirts** (integrated LED turn signals) and **VIS Racing carbon fiber rear diffuser** (with **AEM X-Series wideband O2 sensor** display). **Oracle Lighting RGB halo headlights** (DRL mode, 6000K) and **Morimoto XB LED fog lights** (5500K, 3000lm)."
+  ]
+}

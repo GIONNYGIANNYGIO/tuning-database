@@ -1,0 +1,14 @@
+{
+  "brand": "PAGANI",
+  "model": "ZONDA REVOLUCION R EVO",
+  "prestazioni": [
+    "AMG M297 7.3L V12 engine (678hp stock) upgraded with a bespoke Weistec Engineering Stage 4+ supercharger kit featuring a custom billet 8-rib pulley system, ported and polished intake manifold, and a titanium intercooler core with dual 120mm Moroso heat exchangers, pushing output to 950hp on 100-octane fuel with a 9,500 RPM redline",
+    "Full titanium Akrapovič Evolution exhaust system with 4-into-1 equal-length headers, 3.5-inch carbon-fiber-wrapped downpipes, and electronically controlled butterfly valves for backpressure optimization, paired with a secondary bypass system for track-only open-header mode",
+    "Pagani-specific Öhlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed valving), titanium springs (120N/mm front, 180N/mm rear), and a hydraulic preload system for instant ride-height adjustment (30mm range), integrated with a Bosch MS2.8 ECU for real-time suspension mapping via CAN bus"
+  ],
+  "estetica": [
+    "Full carbon-fiber Pagani Huayra BC-style front splitter with active aerodynamic Gurney flaps (adjustable via cockpit switch) and integrated 3D-printed titanium vortex generators for 40% more downforce at 200 km/h",
+    "Custom Novitec Torado-style rear diffuser with dual-layer carbon-fiber construction, embedded LED brake cooling ducts, and a removable titanium mesh section for heat extraction from the transaxle and exhaust",
+    "Bespoke Brembo GT-RS 10-piston monobloc calipers (gold anodized) with 420mm carbon-ceramic rotors (cross-drilled and slotted), paired with Pagani’s proprietary titanium brake lines and a Motul RBF 660 racing brake fluid system for 30% higher boiling point"
+  ]
+}

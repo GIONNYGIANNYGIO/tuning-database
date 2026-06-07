@@ -1,0 +1,14 @@
+{
+  "brand": "NOBLE",
+  "model": "M14 CONCEPT RACE CAR",
+  "prestazioni": [
+    "Engine: Ford Duratec 3.0L V6 (code: **QDB**) with a bespoke dry-sump system by **Titan Motorsport**, forged internals (Mahle pistons, Pauter rods, and a billet crankshaft) supporting 1,200+ hp on E85 fuel with a **Garrett GTX5533R** turbocharger (84mm compressor, 1.15 A/R turbine housing) and **Tial MV-R 60mm** wastegate for precise boost control at 3.2 bar (46 psi).",
+    "Drivetrain: **Quaife ATB LSD** (80% lock) paired with a **Ricardo 6-speed sequential gearbox** (dog-ring engagement, paddle-shift actuation via **Motec PDM30**) and **AP Racing CP9460** 6-piston calipers clamping 380mm carbon-ceramic rotors (front) for 1,500kg stopping power from 200mph.",
+    "Suspension & Aero: **Öhlins TTX46** 3-way adjustable coilovers (24-position rebound, 22-position compression, 12-position high/low-speed damping) with **Eibach ERS springs** (500lb/in front, 600lb/in rear) and **Noble-specific aero package** featuring a **Vortex Generator** front splitter (carbon fiber, 3D-printed air channels for 450kg downforce at 180mph) and **Gurney flap-adjustable rear wing** (dual-element, 1.2m span, 30° attack angle) for 600kg rear downforce."
+  ],
+  "estetica": [
+    "Body: **Noble M14-specific widebody kit** (carbon fiber, 50mm wider front fenders, 70mm rear) with **Rocket Bunny-style overfenders** (hand-laid carbon, aggressive 15° flare angle) and **custom 3D-printed NACA ducts** (integrated into the rear quarter panels for intercooler airflow).",
+    "Interior: **Sparco Pro 2000** carbon fiber seats (FIA 8862-2009 certified) with **Schroth 6-point harnesses** (ASM camlock), **Motec C187 dash** (12.3\" full-color display, CAN bus integration), and **Alcantara-wrapped** **Noble M14-specific steering wheel** (flat-bottom, **AiM MXS Strada** button controls).",
+    "Lighting & Details: **Lux Vision LV-12** LED headlights (DRL mode, 5,000-lumen output) with **custom Hella auxiliary lights** (100W pencil beams, carbon fiber mounts), **AeroCatch** hood latches (quick-release, carbon fiber), and **Noble-branded titanium exhaust tips** (dual 100mm outlets, **Inconel 625** construction, laser-etched logos)."
+  ]
+}

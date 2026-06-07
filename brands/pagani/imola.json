@@ -1,0 +1,14 @@
+{
+  "brand": "PAGANI",
+  "model": "IMOLA",
+  "prestazioni": [
+    "AMG M158 6.0L V12 biturbo (engine code: M158 E60 AL) upgraded with a bespoke Weistec Engineering Stage 3+ turbo kit featuring twin Garrett GTX5533R Gen II turbos, billet compressor wheels, and 1.22 A/R turbine housings for 1,000+ HP on 98 RON fuel, paired with a custom Motec M150 ECU with Pagani-specific CAN bus integration for seamless OEM system compatibility",
+    "Full titanium Akrapović Evolution Line exhaust system with 100mm carbon-fiber tips, 4-2-1 equal-length headers, and electronically controlled bypass valves for backpressure optimization, reducing weight by 18kg while enhancing exhaust scavenging for the M158’s 6,200 RPM powerband",
+    "Öhlins TTX46 MkII coilovers with Pagani-specific valving, 3-way adjustable damping (compression, rebound, and high-speed compression), and carbon-fiber top mounts, paired with a bespoke Tractive Active Suspension (TAS) system featuring 48V electrohydraulic actuators for real-time ride height and stiffness adjustments, calibrated for the Imola’s 50:50 weight distribution and 1,246kg curb weight"
+  ],
+  "estetica": [
+    "Full carbon-fiber Pagani Huayra BC-style aerodynamic package, including a 3D-printed titanium front splitter with active Gurney flaps (adjustable via the Motec ECU), a fixed rear wing with dual-plane design and integrated DRS (Drag Reduction System) for high-speed stability, and underbody diffusers with vortex generators, all coated in Pagani’s proprietary ‘CarbonModum’ finish for a matte, weave-free appearance",
+    "Bespoke Novitec Torado-style forged aluminum wheels (20x9.5 front, 21x12.5 rear) with center-locking hubs, wrapped in Pirelli P Zero Trofeo R tires (265/30 R20 front, 355/25 R21 rear) and paired with Pagani’s carbon-ceramic brake system featuring 410mm front and 390mm rear discs, six-piston monobloc calipers, and a titanium brake backing plate for unsprung weight reduction",
+    "Custom Bare Carbon Fiber ‘Imola Rosso’ livery with hand-painted gold leaf accents on the Pagani logo, side skirts, and rear diffuser, applied by Bare Metal FX using a multi-stage clear-coat process for UV resistance, paired with a bespoke interior featuring Hermès ‘Cuoio’ leather with red stitching, carbon-fiber door cards, and a titanium shift knob with engraved Imola circuit coordinates (44.3439° N, 11.7167° E)"
+  ]
+}

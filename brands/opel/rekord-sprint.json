@@ -1,0 +1,14 @@
+{
+  "brand": "OPEL",
+  "model": "REKORD SPRINT",
+  "prestazioni": [
+    "Engine swap to a **2.0L CIH (Cam-In-Head) 20E (engine code: 20S)** from the Opel Manta GSi, featuring a **Schrick 272° camshaft**, **Mahle forged pistons (8.8:1 compression)**, and a **Kugelfischer mechanical fuel injection system** with **Bosch 044 high-flow fuel pump** for precise metering at high RPM (rev limit raised to 7,200 RPM via **MSD 6AL ignition box**).",
+    "Forced induction via **Garrett T25 turbocharger (0.63 A/R turbine housing)** with **3-bar MAP sensor**, **HKS SSQV blow-off valve**, and **custom 3-inch stainless steel exhaust** with **Supersprint 4-2-1 headers** and **Sebring 200-cell catalytic converter** for Euro 2 compliance. Intercooler: **GReddy Type-S front-mount** with **SPAL 12-inch puller fan**.",
+    "Suspension overhaul with **Bilstein B16 coilovers (80mm drop)**, **Eibach Pro-Kit springs (25% stiffer)**, **polyurethane bushings (Powerflex Black Series)** for the **Opel Rekord-specific rear trailing arms**, and **Meyle HD ball joints**. Braking: **Brembo 4-piston calipers (from Lancia Delta Integrale)** on **16-inch BBS RS wheels** with **Pagid RS4-2 racing pads** and **ATE Type 200 brake fluid**."
+  ],
+  "estetica": [
+    "Full **Rocket Bunny V1 widebody kit** (Opel Rekord-specific, not a rebadge) with **carbon fiber front splitter** and **rear diffuser**, paired with **OEM Opel Motorsport rear spoiler (part #91123456)** for downforce balance.",
+    "Custom **BBS LM-style 16x8 ET20 wheels** (gold centers) with **Nankang AR-1 semi-slick tires (205/50R16)** and **custom wheel spacers (15mm front, 20mm rear)** for aggressive stance. Fender flares rolled and pulled via **Eastwood fender roller tool**.",
+    "Interior: **Recaro SRD bucket seats (Opel Motorsport homologation)** with **Schroth 4-point harnesses**, **Momo Prototipo steering wheel (350mm)**, and **custom aluminum dashboard overlay** (CNC-machined, matching the **Opel Manta GSi rally spec**). Roll cage: **CustomWorks 8-point bolt-in cage (chrome-moly, FIA-approved)** with **fire suppression system (Lifeline Zero 360)**."
+  ]
+}

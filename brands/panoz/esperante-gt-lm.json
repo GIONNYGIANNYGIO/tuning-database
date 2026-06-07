@@ -1,0 +1,14 @@
+{
+  "brand": "PANOZ",
+  "model": "ESPERANTE GT-LM",
+  "prestazioni": [
+    "Engine: Ford Modular 5.0L V8 (4V DOHC, code *4.6L Intech V8* but stroked to 5.0L with a *Manley Performance* forged crankshaft, 3.622\" stroke, and *Crower* billet connecting rods for 9.5:1 compression ratio, paired with *Mahle Motorsport* forged pistons and *ARP* head studs for 750+ HP on E85)",
+    "Forced Induction: *Precision Turbo & Engine PT6266 CEA* ball-bearing turbocharger with a *Tial* 44mm wastegate and *TurboSmart* Race Port blow-off valve, feeding into a *PWR* 4.5\" intercooler core with *Aeroflow* silicone couplers and *Vibrant Performance* aluminum piping, tuned via *MoTeC M150* ECU with custom GT-LM race maps",
+    "Suspension & Handling: *Öhlins TTX40* 3-way adjustable coilovers with *Eibach* ERS springs (front: 800 lb/in, rear: 600 lb/in), *Penske* remote-reservoir dampers for endurance racing, *Panoz-specific* tubular steel subframe reinforcements, and *AP Racing* 6-piston front/4-piston rear calipers with *PFC* 380mm carbon-ceramic rotors (F) and 355mm (R)"
+  ],
+  "estetica": [
+    "Aerodynamics: *Panoz Motorsport* GT-LM-spec carbon fiber front splitter with *AeroCatch* quick-release mounts, *Rear diffuser* integrated into the *Panoz* carbon fiber rear bumper with *Gurney flap* and *Vortex generators* on the rear decklid, and a *DRS-style* rear wing with *Aerofoil* carbon fiber construction and *Tilton* hydraulic actuation for Le Mans-style straight-line speed",
+    "Bodywork: Full *Panoz GT-LM* carbon fiber body kit (OEM replacement panels from *Composite Resources*), including *NACA ducts* for brake cooling, *Quick-release* carbon fiber hood with *Aeroquip* heat extraction vents, and *Panoz* side skirts with *LED* integrated rain lights (FIA GT3-spec)",
+    "Interior: *Sparco* Pro2000 carbon fiber racing seats with *Schroth* 6-point harnesses, *Panoz* GT-LM-spec roll cage (chromoly steel, FIA Appendix J compliant) with *Sabelt* fire suppression system, *Motec* C127 dash logger with *AIM* data acquisition, and *Panoz* quick-release steering wheel with *MoTeC* keypad controls"
+  ]
+}

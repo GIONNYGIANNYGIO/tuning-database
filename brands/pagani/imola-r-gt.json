@@ -1,0 +1,14 @@
+{
+  "brand": "PAGANI",
+  "model": "IMOLA R GT",
+  "prestazioni": [
+    "AMG M178 LS2 4.0L V8 Biturbo (engine code: M178 LS2) upgraded with a bespoke Weistec Engineering Stage 3+ hybrid turbo system featuring Garrett GTX5533R Gen II turbos with billet compressor wheels, titanium-aluminide turbine wheels, and 1.15 A/R turbine housings for optimized spool and 1,200+ HP capability on E85 fuel",
+    "Full titanium 4-2-1 equal-length exhaust manifold by Capristo, paired with a custom 3.5-inch Inconel downpipe and a secondary catalytic converter delete (for track-only use), terminating in a Valvetronic-controlled Akrapović Evolution Line Titanium exhaust with carbon fiber tips and electronically adjustable sound valves",
+    "Pagani-specific Bosch Motorsport MS 7.1 ECU reflash with custom Motec PDM30 power distribution module, integrating a dual-stage launch control system (0-100 km/h in 2.4s), anti-lag with sequential turbo activation, and a 12,000 RPM redline limiter with flat-shift protection for the 7-speed automated manual transmission (Xtrac P1297)"
+  ],
+  "estetica": [
+    "Full carbon fiber bodywork upgrade with Pagani’s proprietary ‘Carbo-Triax’ weave, including a one-piece front splitter with active aerodynamic Gurney flaps (adjustable via hydraulic actuators), a rear diffuser with integrated LED brake cooling ducts, and a fixed rear wing with dual-element design (3D-printed titanium endplates) for 1,200 kg of downforce at 300 km/h",
+    "Custom Brembo GT-RS 10-piston monobloc calipers (gold anodized) with 420mm carbon-ceramic rotors (Pagani CCMR-X compound) and titanium brake lines, paired with OZ Racing Ultraleggera HLT wheels (20x11 front, 21x13 rear) wrapped in Pirelli P Zero Trofeo R tires (265/30 R20 front, 345/25 R21 rear) with internal air pressure sensors",
+    "Interior rework featuring a full Alcantara-wrapped dashboard with exposed carbon fiber weave, Schroth Profi II 6-point harnesses (FIA 8853/98 homologated), a custom MOMO Prototipo steering wheel with integrated Motec C127 dash display, and a titanium roll cage (T45 steel) with carbon fiber cladding, designed to Pagani’s ‘Imola R GT’ weight reduction program (target: 1,250 kg dry)"
+  ]
+}

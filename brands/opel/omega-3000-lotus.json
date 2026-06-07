@@ -1,0 +1,14 @@
+{
+  "brand": "OPEL",
+  "model": "OMEGA 3000 LOTUS",
+  "prestazioni": [
+    "Engine swap to a Lotus-tuned **C30SE** (3.0L 24V I6, original to the Omega Lotus) with forged internals: Mahle Motorsport forged pistons (8.5:1 CR), Carrillo H-beam connecting rods, and a billet crankshaft from JE Pistons. Pair with a custom camshaft profile by Schrick (272° duration, 11.5mm lift) for high-RPM power delivery (target: 320+ HP at 7,200 RPM).",
+    "Forced induction via a **Garrett GTX3582R** turbocharger (82mm compressor, 1.06 A/R turbine housing) with a custom Lotus-specific manifold by Bell Auto Services (UK). Include a **PWR 4.5-inch core intercooler** and a **Tial MV-R 50mm wastegate** with a **TurboSmart Race Port BOV** for precise boost control (target: 1.2 bar peak boost).",
+    "Fuel system overhaul: **Bosch Motorsport 044 high-flow fuel pump**, **ID1000x injectors**, and a **Lotus-spec Motec M150 ECU** with a custom map by **Hartge Tuning (Germany)**. Pair with a **Nitrous Express Pro Shot Fogger** system (50-shot) for on-demand power (activated via a **AEM X-Series boost controller**). Suspension: **Ohlins Road & Track coilovers (DFV)** with **Eibach Pro-Series sway bars** and **Polyurethane bushings** from **SuperPro** for chassis rigidity."
+  ],
+  "estetica": [
+    "Full **Rocket Bunny V3 Omega Lotus-specific widebody kit** (FRP construction) with **custom Lotus-style side skirts** and a **carbon fiber rear diffuser** by **Seibon**. Front bumper lip: **VMR V710-style splitter** with **aluminum support rods** for downforce.",
+    "Wheels: **BBS RS-GT II (9x18 ET15 front, 10.5x18 ET25 rear)** in **Gunmetal finish**, wrapped in **Michelin Pilot Sport Cup 2 R (245/40/18 front, 275/35/18 rear)**. Brake system: **AP Racing 6-piston calipers** with **380mm two-piece rotors** (front) and **4-piston calipers with 345mm rotors** (rear), paired with **Ferodo DS2500 pads**.",
+    "Interior: **Recaro SPG XL seats** (Lotus-green Alcantara with carbon fiber backs), **MOMO Prototipo steering wheel** (380mm, suede), and a **Lotus-branded roll cage** by **Sparco** (bolt-in, 6-point). Shift knob: **TWM Lotus-specific short shifter** with a **custom weighted knob** (200g). Gauges: **Defi Advance BF series** (boost, oil temp, fuel pressure) in a **custom Lotus-themed cluster overlay**."
+  ]
+}
