@@ -1,0 +1,14 @@
+{
+  "brand": "PEUGEOT",
+  "model": "908 HDi FAP LMP1",
+  "prestazioni": [
+    "Engine: Replace the stock **DV6TED4** 5.5L V12 HDi diesel with a **Pipo Moteurs** endurance-optimized block featuring reinforced billet crankshaft (85mm stroke), forged Mahle pistons (10.0:1 CR), and titanium connecting rods with ARP L19 bolts for 1,000+ hp reliability at 1,800 bar common-rail pressure.",
+    "Turbocharging: Upgrade to twin **Garrett GT42R** ball-bearing turbos with custom 76mm compressor wheels and 67mm turbine wheels, paired with **Turbosmart Race Port 45mm wastegates** and **PWR** 1,000hp-rated intercoolers with 40mm core thickness for sustained 24-hour Le Mans duty cycles.",
+    "Fuel System: Install **Bosch Motorsport CP4.2** high-pressure fuel pumps (2,000 bar) with **Siemens Deka 2200cc/min** direct injectors and **Magneti Marelli** 8-channel ECU running **WinOLS** endurance-specific maps for E85 compatibility and 12% power gain over stock diesel calibration."
+  ],
+  "estetica": [
+    "Aerodynamics: Fit the **Peugeot Sport Works** LMP1-spec carbon fiber front splitter with adjustable dive planes (30mm extension) and **Rear Wing Gurney Flap** (25mm height) for +1,200 lbs downforce at 200 mph, paired with **Vortex Generators** on the A-pillars to reduce drag by 8%.",
+    "Bodywork: Replace stock panels with **Kevlar-carbon hybrid** bodywork from **Bcomp** (flax fiber reinforcement) for 15% weight reduction, including a **removable roof scoop** for the **PWR** air-to-water intercooler system and **carbon fiber wheel arches** with 30mm wider track clearance.",
+    "Lighting: Retrofit **Osram Night Breaker Laser** HID headlights (6,000K) with **Hella** 500W auxiliary driving lamps (LMP1-spec beam pattern) and **LED taillight clusters** from the **Peugeot 9X8 Hypercar** for 30% improved visibility during night stints."
+  ]
+}

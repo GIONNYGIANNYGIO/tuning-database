@@ -1,0 +1,14 @@
+{
+  "brand": "PEUGEOT",
+  "model": "306 GTI-6",
+  "prestazioni": [
+    "Engine: Replace the stock XU10J4RS (167hp, 10.4:1 CR) with a forged internals build using Mahle Motorsport forged pistons (8.5:1 CR for forced induction), Pauter billet steel crankshaft, and Manley H-beam connecting rods. Pair with a Garrett GT2860RS turbocharger (0.64 A/R turbine housing) and a custom 3-inch stainless steel exhaust with a Milltek Sport 200-cell catalytic converter and a Scorpion 3.5-inch backbox with 76mm tips.",
+    "Fuel & Ignition: Install a Syvecs S6Plus standalone ECU with a custom map for E85 compatibility, paired with Bosch Motorsport 0280158101 800cc injectors, a Walbro 450LPH in-tank fuel pump, and a custom fuel rail. Use NGK IFR7H-11 iridium spark plugs gapped at 0.024\" and a Denso Iridium Power coil-on-plug conversion.",
+    "Suspension & Handling: Fit Ohlins Road & Track DFV coilovers (custom valving for the 306 chassis) with spherical bearing top mounts, SuperPro polybushings (front control arms, rear trailing arms, and subframe), and a Whiteline front sway bar (24mm adjustable). Install AP Racing CP5200 front brake calipers with 330mm two-piece rotors and Ferodo DS2500 pads, paired with a Wilwood master cylinder and braided stainless steel brake lines. Use Michelin Pilot Sport Cup 2 tires (205/45/16 front, 225/40/16 rear) on OZ Racing Ultraleggera HLT wheels (8x16 ET20 front, 9x16 ET25 rear)."
+  ],
+  "estetica": [
+    "Body: Install a full Liberty Walk LB Works widebody kit (306-specific, bolt-on fenders, front bumper, and rear diffuser) with custom carbon fiber side skirts and a custom rear wing (inspired by the Peugeot 905, 3D-printed in carbon fiber). Paint in Peugeot Sport’s historic ‘Bleu de France’ with matte black accents and a gloss black roof.",
+    "Interior: Replace the stock seats with Recaro Pole Position seats (retrimmed in Alcantara with red stitching) and a Sabelt six-point harness. Install a Momo Mod.78 steering wheel (350mm, suede) with a quick-release hub, a custom aluminum shift knob (weighted, 3D-printed with Peugeot lion emblem), and a full carbon fiber dashboard overlay (custom-made for the 306’s unique gauge cluster). Add a digital dash using an Aim MXS 1.2 Strada with a custom mount.",
+    "Lighting & Details: Convert to Hella Rallye 3000 headlights (H4 bulbs, 100W) with custom Cibié Oscar projectors and a Morimoto XB LED fog light conversion. Replace all exterior trim with gloss black vinyl wrap and add a custom carbon fiber engine cover (vented, with Peugeot Sport logo). Use titanium exhaust hangers and a custom aluminum oil cap with a billet breather cap."
+  ]
+}

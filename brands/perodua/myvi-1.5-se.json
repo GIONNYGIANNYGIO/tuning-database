@@ -1,0 +1,14 @@
+{
+  "brand": "PERODUA",
+  "model": "MYVI 1.5 SE",
+  "prestazioni": [
+    "Engine: Replace the stock **1NZ-FE** 1.5L naturally aspirated engine with a **Toyota 2NZ-FE** (1.3L) block, bored to 1.5L and stroked to 1.6L using a **Manley 86mm forged crankshaft** and **CP-Carrillo forged pistons** (8.5:1 compression ratio) for high-RPM reliability. Pair with **Toda Racing 272° camshafts** and **Supertech valve springs/retainers** to optimize airflow for forced induction.",
+    "Forced Induction: Install a **Garrett GT2554R turbocharger** (0.63 A/R turbine housing) with a **TurboSmart 40mm wastegate** and **GReddy Type-S intercooler** (front-mount, 500x200x76mm core). Use a **HKS SSQV4 blow-off valve** and **Tial 50mm dump valve** to prevent compressor surge. Custom **3-inch turbo-back exhaust** with **Sparco 304 stainless steel piping** and **Bosal 2.5-inch muffler** for optimal spool and flow.",
+    "Fuel & Ignition: Upgrade to a **Walbro 450LPH fuel pump** with **ID1000x injectors** (side-feed, 1000cc/min) and **AEM 320LPH in-tank pump**. ECU reflash via **K-Tuned K-Pro V4** (standalone) with **Hondata 4-bar MAP sensor** for boost control. Ignition system: **NGK Iridium IX (LFR6AIX-11)** plugs gapped at 0.028\", **MSD 6AL-2 ignition box**, and **Moroso 8mm silicone spark plug wires**."
+  ],
+  "estetica": [
+    "Body Kit: **Varis Myvi GT Wing** (carbon fiber, 1,200mm width) with **Seibon carbon fiber hood** (vented, 30% weight reduction). Front bumper lip: **Rocket Bunny Myvi Type-1** (polyurethane, aggressive splitter). Side skirts: **Tom’s Style Myvi widebody kit** (fiberglass, +50mm flares per side). Rear diffuser: **Apexi N1 Evolution** (dual-exit, 3D-printed ABS).",
+    "Suspension: **Tein Flex Z coilovers** (12-way adjustable damping, 30mm drop) with **Whiteline 22mm rear sway bar** and **SuperPro poly bushings** (front control arms). Wheel setup: **Enkei PF07** (17x8 +35 ET, 5x100 PCD) with **Michelin Pilot Sport Cup 2** (215/40R17). Brake upgrade: **DBA 5000 Series rotors** (vented, 280mm front/260mm rear) with **Hawk HT-10 pads** and **Goodridge stainless steel brake lines**.",
+    "Interior: **Bride Zeta III** seats (fixed-back, FIA-approved) with **Schroth 6-point harnesses**. Steering wheel: **NRG Innovations 350mm suede wheel** with **Works Bell quick-release hub**. Gauges: **Defi Advance BF** (oil temp, boost, AFR) mounted on **Custom Cages A-pillar pod**. Roll cage: **Sparco Pro2000** (6-point, bolt-in) with **Schroth harness bar**."
+  ]
+}

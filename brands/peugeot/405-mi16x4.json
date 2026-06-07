@@ -1,0 +1,14 @@
+{
+  "brand": "PEUGEOT",
+  "model": "405 MI16X4",
+  "prestazioni": [
+    "Engine swap to a Peugeot XU10J4RS (RFV) 2.0L 16V with forged internals (JE Pistons 87.5mm, Eagle H-beam rods, ACL Race bearings) and a custom billet crankshaft from JP3 Performance, paired with a Garrett GT2860RS turbo (0.63 A/R turbine housing) and a Tial MV-R 38mm external wastegate for 0.8 bar boost targeting 320hp at the crank.",
+    "Full custom 4WD drivetrain reinforcement: Quaife ATB differential in the front (QDF7Z) and a Wavetrac limited-slip differential in the rear (WVT-10010), with custom CV joints from GKN Driveline and a reinforced transfer case using billet gears from Tran-X Racing, mated to a 6-speed Getrag 420G gearbox (from a Peugeot 406 Coupe) with a Sachs Performance twin-disc clutch (320mm).",
+    "Custom engine management via a Syvecs S6Plus standalone ECU with a bespoke wiring harness from Lancia Delta Integrale specialists (Autosport Developments), integrated with a Bosch Motorsport 0280158001 high-flow fuel pump, ID1000cc injectors, and a custom intercooler setup using a PWR 450x225x76mm core with custom end tanks from Forge Motorsport, plumbed with -8AN lines and Earl’s Performance fittings."
+  ],
+  "estetica": [
+    "Full custom widebody conversion using a Peugeot 405 T16 Group A-inspired kit from French fabricator Carrosserie Lecoq, with carbon fiber fenders (2.5-inch wider front, 3-inch wider rear), custom aluminum rear quarter panels, and a one-off carbon fiber hood with a functional NACA duct for the intercooler.",
+    "Ohlins Road & Track coilovers (DFV 4400) with custom spring rates (8kg/mm front, 10kg/mm rear) and adjustable top mounts from SuperPro, paired with polybushings from Powerflex (PFF8-1101 for front control arms, PFF8-1102 for rear trailing arms) and custom subframe reinforcement plates from SRS Motorsport.",
+    "Full custom aero package: Front splitter from a Peugeot 205 T16 Group B replica (carbon fiber, 3D-scanned and modified for 405 fitment) with a custom aluminum undertray, rear diffuser from a Peugeot 905 LMP prototype (carbon fiber, 3-piece design), and a custom GT-style rear wing (carbon fiber, 1400mm span, 300mm chord) with adjustable angle mounts from APR Performance, all painted in Peugeot Sport’s historic ‘Bleu de France’ with matte black accents."
+  ]
+}

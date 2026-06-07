@@ -1,0 +1,14 @@
+{
+  "brand": "PAGANI",
+  "model": "HUAYRA ROADSTER BC",
+  "prestazioni": [
+    "AMG M158 6.0L V12 biturbo (engine code: M158 E60 AL) upgraded with a bespoke Weistec Engineering Stage 3+ turbo kit featuring twin Garrett GTX5533R Gen II turbos, billet compressor wheels, and 106mm titanium-aluminide turbine wheels for 1,050+ HP at 2.2 bar boost with a custom Motec M150 ECU remap and 93-octane fuel calibration",
+    "Full titanium Akrapović Evolution Line exhaust system with 4-2-1 equal-length headers, 3.5-inch carbon-fiber-wrapped downpipes, and electronically controlled bypass valves for backpressure optimization, paired with a secondary catalytic converter delete (track-only) and a custom X-Pipe resonator for aggressive exhaust note tuning",
+    "Öhlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression), Pagani-specific spring rates (180N/mm front, 220N/mm rear), and a bespoke carbon-fiber sway bar kit from Dymag with adjustable blade profiles (3 positions) for dynamic roll stiffness tuning"
+  ],
+  "estetica": [
+    "Full Pagani Zonda Cinque-inspired carbon-fiber aero package by Novitec Torado, including a 3D-printed titanium front splitter with active Gurney flaps, a rear diffuser with integrated side skirts featuring vortex generators, and a fixed rear wing with adjustable carbon-fiber flaps (0-15 degrees) for downforce tuning up to 1,200 kg at 250 km/h",
+    "Bespoke Forgiato 21x10.5 (front) and 22x13.5 (rear) forged monoblock wheels with Pagani-specific offsets (+25mm front, +35mm rear), wrapped in Pirelli P Zero Trofeo R tires (265/30 R21 front, 355/25 R22 rear) and secured with titanium lug nuts from HRE Performance Wheels",
+    "Custom bare-carbon-fiber interior by Carbonskins, featuring a full Alcantara-wrapped dashboard with exposed titanium roll cage integration, Pagani Huayra BC-spec carbon-fiber bucket seats with Schroth 6-point harnesses, and a bespoke digital gauge cluster by AIM MXS Strada with GPS lap timer and real-time boost pressure monitoring"
+  ]
+}

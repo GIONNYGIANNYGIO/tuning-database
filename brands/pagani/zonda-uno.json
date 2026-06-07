@@ -1,0 +1,14 @@
+{
+  "brand": "PAGANI",
+  "model": "ZONDA UNO",
+  "prestazioni": [
+    "AMG M297 7.3L V12 engine (unique to Zonda Uno) upgraded with a custom billet crankshaft by Pankl Racing Systems, increasing stroke to 88.0mm for a final displacement of 7.8L, paired with forged Mahle Motorsport pistons (12.5:1 compression ratio) and Carrillo H-beam connecting rods for 900+ HP on 102-octane fuel",
+    "Full titanium exhaust system by Capristo, featuring 3.5-inch diameter Inconel 625 headers with equal-length merge collectors, a 304 stainless steel center section, and a quad-exit titanium rear diffuser with electronically controlled butterfly valves (mapped via Motec M150 ECU) for backpressure optimization",
+    "Custom Garrett GTX5533R turbocharger setup (single-turbo conversion) with a 76mm billet compressor wheel, 106mm turbine wheel, and T6 flange adapter, running 2.2 bar of boost with a TiAL MV-R 60mm wastegate and dual TiAL Q 50mm blow-off valves, cooled by a PWR dual-core intercooler with 1,200 CFM airflow capacity"
+  ],
+  "estetica": [
+    "Full carbon-fiber widebody conversion by Novitec Torado, featuring hand-laid 2x2 twill weave with a gloss clear coat, including extended front fenders (30mm wider per side), rear quarter panels (50mm wider per side), and a custom front splitter with integrated canards (3D-printed from carbon-filled nylon for weight savings)",
+    "Custom rear wing by Autozkin, modeled after the Zonda R’s aero package but with a 1,800mm span and adjustable carbon-fiber flaps (0-15 degrees via electric actuators), generating 450kg of downforce at 250 km/h, paired with a diffuser featuring active Gurney flaps controlled by the Motec ECU",
+    "Bespoke interior by Sabelt, featuring a full Alcantara-wrapped roll cage (TIG-welded 4130 chromoly) with integrated fire suppression system (FE-36 extinguishant), carbon-fiber Recaro Pole Position seats (weighing 8.5kg each) with 6-point Schroth Profi II harnesses, and a custom digital dash by AIM MXS Strada with OLED display"
+  ]
+}

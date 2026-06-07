@@ -1,0 +1,14 @@
+{
+  "brand": "PEUGEOT",
+  "model": "306 MAXI",
+  "prestazioni": [
+    "Engine: Replace the stock XU10J4RS (2.0L 16V, 167hp) with a fully built XU10J4TE (turbocharged variant) using a forged crankshaft (Peugeot Sport 905-spec), Carrillo H-beam connecting rods, and Mahle Motorsport forged pistons (8.5:1 compression ratio for high-boost applications).",
+    "Forced Induction: Install a Garrett GT35R turbocharger (846071-5004S) with a custom 3.5-inch stainless steel exhaust manifold (fabricated by Janspeed Engineering) and a Tial MV-R 44mm external wastegate (set to 2.2 bar peak boost).",
+    "Fuel & Ignition: Replace the stock injectors with Bosch Motorsport 1000cc EV14 high-impedance injectors, paired with a Syvecs S6Plus standalone ECU (pre-loaded with Peugeot 306 Maxi Group A rally maps) and a Haltech Elite 2500 ignition system with LS coil packs."
+  ],
+  "estetica": [
+    "Body Kit: Install a full Peugeot Sport WRC-inspired aero kit (replica by Seibon Carbon) including a front splitter, side skirts, and a rear diffuser, all in raw carbon fiber (2x2 twill weave).",
+    "Wheels: Fit OZ Racing Superleggera GT wheels (8x17 ET20 front, 9x17 ET25 rear) with Michelin Pilot Sport Cup 2 tires (205/40/17 front, 235/40/17 rear) and custom wheel spacers (15mm front, 20mm rear) by H&R.",
+    "Interior: Replace the stock seats with Recaro SRD-E full carbon fiber bucket seats (with FIA 8862-2009 certification), paired with a Sabelt 6-point harness and a MOMO Mod.78 steering wheel (330mm diameter, suede grip)."
+  ]
+}

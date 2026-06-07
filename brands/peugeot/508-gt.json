@@ -1,0 +1,14 @@
+{
+  "brand": "PEUGEOT",
+  "model": "508 GT",
+  "prestazioni": [
+    "Engine: PSA EP6FDT (1.6L Turbo PureTech, 225 HP stock) – Full forged internals upgrade with Manley 87mm forged pistons, Eagle H-beam connecting rods, and ACL Race Series bearings to handle 400+ HP reliably. Garrett GTX3076R turbocharger with a custom 3.5-inch stainless steel downpipe and GReddy Profec B Spec II boost controller for 28 psi peak boost on E85.",
+    "Fuel System: Injector Dynamics ID1050x fuel injectors paired with a Radium Engineering dual-pump fuel surge tank (2x Walbro 450 LPH pumps) and a Syvecs S8 ECU for full flex-fuel mapping, supporting 600+ HP on E85. Custom 3D-printed intake manifold with integrated methanol injection (Snow Performance Stage 3 kit) for charge cooling.",
+    "Suspension & Handling: Öhlins Road & Track DFV coilovers (508 GT-specific valving) with custom Swift Springs (8K front, 7K rear) and polyurethane subframe bushings (SuperPro 63-9065). AP Racing 350mm 6-piston front brake kit with Ferodo DS2500 pads and Goodridge G-Stop stainless steel brake lines. Michelin Pilot Sport Cup 2 R tires (255/30 R20 front, 285/30 R20 rear) on OZ Racing Ultraleggera HLT wheels (9x20 ET35 front, 10.5x20 ET40 rear)."
+  ],
+  "estetica": [
+    "Aero: Liberty Walk LB Works widebody kit (508 GT-specific, bolt-on fenders with carbon fiber overfenders) paired with a custom 3D-printed front splitter (carbon fiber, 3-piece modular design) and a Maxton Design GT-style rear diffuser with integrated LED brake light. Active rear wing (adjustable via hydraulic actuators, controlled by Syvecs ECU for drag reduction at high speeds).",
+    "Exterior: Full Respray in Peugeot's original 'Vertigo Grey' (Mica) with a 3-stage PPF (XPEL Ultimate Plus) and ceramic coating (Gyeon Ceramic Quartz). Custom laser-etched Peugeot lion emblem (carbon fiber, backlit with RGB LEDs) and sequential LED turn signals (Lux H8 V4, integrated into side mirrors). Front grille replaced with a custom CNC-machined aluminum mesh (hexagonal pattern, anodized black) with integrated radar sensors for adaptive cruise control retention.",
+    "Interior: Full carbon fiber weave interior (dashboard, door cards, center console) by V Carbon, paired with Recaro Pole Position seats (carbon fiber shell, Alcantara/leather upholstery with red stitching). Custom roll cage (T45 steel, bolt-in design by Custom Cages UK) with integrated fire suppression system (Lifeline Zero 360, plumbed to all four seats). Momo Prototipo steering wheel (suede, 350mm diameter) with integrated Syvecs paddle shifters and AIM MXS Strada dash display."
+  ]
+}

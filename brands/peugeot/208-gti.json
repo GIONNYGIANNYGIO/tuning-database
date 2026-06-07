@@ -1,0 +1,22 @@
+{
+  "brand": "PEUGEOT",
+  "model": "208 GTI",
+  "prestazioni": [
+    "Engine: EP6FDT (1.6L Turbo THP197, 85mm bore, 88mm stroke) – Full forged internals upgrade with Manley I-beam connecting rods, Mahle Motorsport forged pistons (8.8:1 compression), and ACL Race Series bearings for 300+ HP reliability on E85.",
+    "Turbocharger: Garrett GTX3071R Gen II (0.63 A/R turbine housing, billet compressor wheel) with custom 3.5\" V-band downpipe and GReddy Profec B Spec II boost controller for 28psi peak pressure on 98 RON + E30 blend.",
+    "Suspension: Öhlins Road & Track DFV coilovers (20mm front, 15mm rear adjustable ride height) with custom-spec 8kg/mm front and 7kg/mm rear springs, paired with Peugeot Sport 208 GTI-specific uprated anti-roll bars (24mm front, 22mm rear) and spherical bearing subframe collars from Wavetrac.",
+    "Fuel System: Bosch Motorsport 044 high-flow fuel pump, Injector Dynamics ID1050x injectors (1050cc/min), and AEM 340lph ethanol-compatible fuel pressure regulator with -6AN braided lines and Earl’s Performance fittings.",
+    "ECU & Tuning: Syvecs S6Plus standalone ECU with custom 3D-printed intake manifold (10% larger plenum, optimized runner length for 5500-7000rpm powerband) and Haltech WB2 wideband O2 sensors for closed-loop E85 tuning.",
+    "Drivetrain: Wavetrac limited-slip differential with 40% lockup under load, paired with Sachs Performance dual-mass flywheel and uprated clutch (320Nm torque capacity), mated to a Getrag 6-speed manual with short-shift kit from BPM Sport (30% reduced throw).",
+    "Exhaust: Milltek Sport 3\" turbo-back exhaust with non-resonated center section, 200-cell catalytic converter, and titanium-coated 4-2-1 equal-length headers (primary tubes: 42mm OD, 1.2mm wall thickness) for optimized scavenging.",
+    "Cooling: PWR Performance intercooler (50% larger core volume, 30% reduced pressure drop) with custom CNC-machined aluminum end tanks, paired with a Davies Craig EWP150 electric water pump and Mishimoto aluminum radiator (2-row, 45mm core thickness)."
+  ],
+  "estetica": [
+    "Aero: Liberty Walk LB Works widebody kit (208 GTI-specific, 30mm front, 40mm rear fender flares) with carbon fiber front splitter (25mm overhang, 3-stage gurney flap) and custom 3D-printed rear diffuser (integrated dual 3\" exhaust cutouts).",
+    "Wheels: Work Emotion CR Kiwami 2 (18x9.5 +15 ET, 18x10.5 +25 ET) in custom matte bronze finish, wrapped in Michelin Pilot Sport Cup 2 R tires (245/35/18 front, 275/30/18 rear) with custom center caps featuring Peugeot Sport logo.",
+    "Interior: Recaro Pole Position seats (carbon fiber shell, Alcantara/leatherette upholstery) with custom 4-point Schroth Profi II harnesses, paired with a MOMO Mod.78 steering wheel (350mm diameter, suede grip) and custom aluminum shift knob (weighted, 208 GTI engraved).",
+    "Lighting: LUX H8 V4 LED headlights (5500K, adaptive projectors) with custom DRL delete and sequential LED turn signals, paired with Osram Night Breaker Laser H7 bulbs (130% brighter) and custom smoked taillight overlays (red/clear dual-tone).",
+    "Exterior: Custom vinyl wrap in Peugeot Sport’s ‘Racing Blue’ (matt finish) with gloss black roof, mirrors, and B-pillars, paired with carbon fiber side skirts (OEM+ fitment) and a custom 3D-printed rear wing (dual-element, 150mm chord, 12° angle of attack).",
+    "Detailing: Custom engine bay dress-up with carbon fiber strut brace (Peugeot Sport logo engraved), titanium hardware (ARP 625+ bolts), and custom LED underglow (RGB, 16-color selectable) with remote control via Bluetooth."
+  ]
+}

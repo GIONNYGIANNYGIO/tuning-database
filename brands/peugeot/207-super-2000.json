@@ -1,0 +1,14 @@
+{
+  "brand": "PEUGEOT",
+  "model": "207 SUPER 2000",
+  "prestazioni": [
+    "Engine: EP6CDTR (1.6L Turbo inline-4, 300+ HP in WRC spec) – forged internals upgrade with Manley I-beam connecting rods, Mahle Motorsport forged pistons (8.5:1 compression), and ACL Race Series bearings for 8,500 RPM reliability.",
+    "Forced Induction: Garrett GT3076R turbocharger (0.82 A/R, ball-bearing) with custom 3.5\" stainless steel downpipe and GReddy Profec B Spec II boost controller (targeting 2.2 bar peak pressure on 100-octane fuel).",
+    "Suspension: Ohlins TTX40 4-way adjustable coilovers with custom valving for tarmac rally, paired with Peugeot Sport 207 S2000-specific spherical bearing control arms (front) and polybushings (rear) from SuperPro for subframe rigidity."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon fiber widebody kit from RAYS Engineering (207 S2000 WRC replica fenders, front splitter, and rear diffuser) with integrated DTM-style dive planes for high-speed stability.",
+    "Wheels: RAYS Gram Lights 57CR (18x8.5 ET15 front, 18x9.5 ET25 rear) in matte gunmetal, shod with Michelin Pilot Sport Cup 2 tires (225/40/18 front, 255/35/18 rear) for tarmac grip.",
+    "Interior: Sparco Pro 2000 seats with 6-point Schroth Profi II harnesses, custom carbon fiber dashboard overlay (matching Peugeot Sport WRC livery), and Motec C127 dash logger with GPS lap timing integration."
+  ]
+}

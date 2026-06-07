@@ -1,0 +1,14 @@
+{
+  "brand": "PEUGEOT",
+  "model": "208 T16 PIKES PEAK",
+  "prestazioni": [
+    "Engine: PSA EP6CDTR (1.6L turbocharged inline-4, 850 HP at 7,800 RPM, 880 Nm torque) with reinforced forged internals (Mahle pistons, Pankl connecting rods, and a billet crankshaft) paired with a Garrett GT4202R turbocharger (1.4 bar boost) and a custom titanium 4-2-1 exhaust manifold by Akrapović for optimized scavenging.",
+    "Drivetrain: Xtrac 6-speed sequential gearbox (P1227) with a carbon-fiber driveshaft and a limited-slip differential (Quaife ATB helical LSD) for precise power delivery, mated to a Peugeot Sport-developed all-wheel-drive system with torque vectoring (60% rear bias under acceleration).",
+    "Suspension & Chassis: Öhlins TTX40 4-way adjustable coilovers with 30mm wheel travel, custom spherical bearings (Uniball) for the front and rear wishbones, and a carbon-fiber monocoque chassis reinforced with a full roll cage (T45 steel) by Safety Devices, featuring integrated fire suppression (Lifeline Zero 360 system)."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon-fiber bodywork by Peugeot Sport, including a massive rear wing (3-element, 1.8m span) with active Gurney flaps (adjustable via cockpit switch), front splitter with integrated dive planes, and a rear diffuser with vortex generators (tested in Sauber’s wind tunnel for 3,000 kg downforce at 240 km/h).",
+    "Wheels & Brakes: BBS FI-R 18x13” (front) and 18x15” (rear) forged magnesium wheels with Michelin Pilot Sport Cup 2 tires (265/645 R18 front, 325/705 R18 rear), paired with AP Racing 6-piston calipers (380mm carbon-ceramic discs) and a brake-by-wire system with ABS tuning for gravel stages.",
+    "Interior: Full carbon-fiber monocoque tub with a Sparco Pro 2000 seat (FIA 8862-2009 certified), OMP 6-point harness, and a custom Motec C187 dash display with integrated data logging (GPS, wheel speed, turbo pressure, and exhaust gas temps). The steering wheel is a Peugeot Sport carbon-fiber unit with paddle shifters and a quick-release hub."
+  ]
+}

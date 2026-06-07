@@ -1,0 +1,14 @@
+{
+  "brand": "PEUGEOT",
+  "model": "306 MAXI KIT CAR",
+  "prestazioni": [
+    "Engine: XU10J4RS (2.0L 16V, 1998cc, 300+ HP in FIA Kit Car spec) with forged internals including Mahle Motorsport pistons (83.5mm bore, 11.5:1 CR), Pankl H-beam connecting rods, and a billet crankshaft from JE Motorsport for 9,500 RPM reliability",
+    "Forced induction: Single Garrett GT2860RS-5 turbocharger (0.86 A/R, 56 trim) with a custom 3.5\" stainless steel exhaust manifold by Janspeed Engineering, paired with a GReddy Type-S intercooler (400x200x76mm core) and 3\" Tial Q40 blow-off valve",
+    "Drivetrain: Sachs Racing twin-plate clutch (240mm, 8-spring) with a Quaife ATB differential (4.44:1 final drive), mated to a Hewland 6-speed sequential gearbox (FTR200) with a magnesium bellhousing and custom 100mm input shaft for durability"
+  ],
+  "estetica": [
+    "Body: Full FIA-approved Kevlar/carbon fiber widebody kit by Pro Alloy Motorsport, including extended front fenders (50mm per side), rear quarter panels (70mm per side), and a 200mm rear diffuser with integrated tow hooks",
+    "Aero: Custom front splitter by BTCC specialist Tech-Speed Motorsport (30mm overhang, 3-stage adjustable) with a 1200mm carbon fiber rear wing (3-element, 15° angle of attack) and side skirts with vortex generators for downforce optimization",
+    "Interior: Full FIA-spec roll cage by Safety Devices (8-point, T45 steel, 2.5mm wall thickness) with Sparco Pro 2000 seats (HANS-compatible), OMP 886 steering wheel (330mm, suede), and a Motec C127 dash logger with GPS lap timing and 12-channel data acquisition"
+  ]
+}

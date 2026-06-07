@@ -1,0 +1,14 @@
+{
+  "brand": "PEUGEOT",
+  "model": "307 WRC",
+  "prestazioni": [
+    "Engine: Replace the stock XU7JP4 (2.0L 16V) with the Peugeot Sport-developed EW10J4S (2.0L 16V) WRC-spec block, bored to 85.0mm and stroked to 88.0mm (2.2L) using a forged crankshaft from Pankl Racing Systems, Mahle Motorsport forged pistons (12.5:1 compression), and Carillo H-beam connecting rods. Pair with a Garrett GT35R turbocharger (0.82 A/R turbine housing) and a custom 42mm wastegate from Turbosmart.",
+    "Drivetrain: Install a 6-speed sequential gearbox from Xtrac (P1046) with a Sachs carbon clutch and a Quaife ATB differential. Replace the stock driveshafts with CV-jointed units from GKN Driveline, reinforced with chromoly steel yokes.",
+    "Suspension: Fit Öhlins TTX40 4-way adjustable dampers with Eibach ERS coil springs (800 lb/in front, 600 lb/in rear). Use spherical bearing top mounts from SuperPro and adjustable camber plates from Whiteline. Reinforce the subframes with custom tubular steel braces from SLR Speed."
+  ],
+  "estetica": [
+    "Aerodynamics: Install the official Peugeot Sport WRC aero kit, including the carbon fiber front splitter with integrated dive planes (part #307WRC-5001), rear diffuser with Gurney flap (part #307WRC-5003), and a carbon fiber rear wing with adjustable angle of attack (part #307WRC-5002). Add a custom hood vent from Seibon Carbon for heat extraction.",
+    "Body: Replace the stock panels with a full carbon fiber body kit from RAUH-Welt Begriff (RWB), including widened fenders (30mm front, 40mm rear), custom side skirts, and a rear bumper with integrated tow hooks. Use polycarbonate windows from Sparco for weight reduction.",
+    "Interior: Install a full FIA-spec roll cage from Safety Devices (part #SD08-307WRC) with integrated door bars. Fit Recaro SPG XL seats with Schroth Profi II 6-point harnesses. Replace the stock dashboard with a digital display from AIM MXS Strada and a quick-release steering wheel from OMP."
+  ]
+}

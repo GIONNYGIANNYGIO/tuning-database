@@ -1,0 +1,14 @@
+{
+  "brand": "PEUGEOT",
+  "model": "206 WRC",
+  "prestazioni": [
+    "Engine: Replace the stock XU9J4 (2.0L 16V) with the **XU10J4RS** WRC-spec block (86mm bore, 86mm stroke, forged internals) paired with a **Garrett GT35R turbocharger** (0.82 A/R turbine housing, 60mm compressor wheel) and **Tial MV-R 44mm wastegate** for 380+ hp at 8,500 RPM on **VP Racing C16** fuel (102 RON).",
+    "Drivetrain: Install a **Hewland 6-speed sequential gearbox (FT200)** with **AP Racing CP5200 twin-plate carbon clutch** and **Quaife ATB differential** (40% lock) for WRC-grade power delivery and durability.",
+    "Suspension: **Ohlins TTX40 4-way adjustable dampers** with **Eibach ERS 300lb/in springs**, **Sparco WRC-spec spherical bearing top mounts**, and **Peugeot Sport WRC-spec 24mm front / 22mm rear anti-roll bars** for rally-tuned geometry (30mm static drop, 5° camber front, 3° rear)."
+  ],
+  "estetica": [
+    "Aerodynamics: **Peugeot Sport WRC 2002 homologation aero kit** (carbon fiber front splitter, rear diffuser, and **1,200mm rear wing** with Gurney flap) for 200kg+ downforce at 160 km/h, paired with **Carbon Lorraine side skirts** and **OMP WRC-spec carbon hood** (with NACA duct for intercooler cooling).",
+    "Wheels: **OZ Racing WRC Superleggera 18x8 ET15 (front) / 18x9 ET10 (rear)** in **gold finish**, wrapped in **Michelin Pilot Sport Cup 2 R** (225/40 R18 front, 245/35 R18 rear) with **BBS center-lock wheel nuts** for rapid pit stops.",
+    "Interior: **Sparco WRC Pro ADV seats** (FIA 8862-2009 certified) with **Schroth 6-point harnesses**, **Peugeot Sport WRC carbon fiber dashboard** (with **Motec C127 dash logger**), and **Alcantara-wrapped MOMO WRC steering wheel** (320mm diameter, quick-release hub)."
+  ]
+}

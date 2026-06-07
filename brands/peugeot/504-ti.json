@@ -1,0 +1,14 @@
+{
+  "brand": "PEUGEOT",
+  "model": "5004 TI",
+  "prestazioni": [
+    "Engine swap to a Peugeot XU9J4 (1.9L DOHC 8-valve, 110 PS stock) with a forged crankshaft from a Peugeot 405 Mi16 (XU9J4R) for increased stroke (88mm to 90mm) and custom billet connecting rods from Pauter Machine for 9,000 RPM reliability, paired with Mahle Motorsport forged pistons (8.5:1 compression ratio for forced induction).",
+    "Garrett GT2860RS turbocharger with a custom 0.63 A/R turbine housing and 55mm compressor wheel, mated to a custom top-mount intercooler (GReddy Type-S) and a Tial MV-R 44mm external wastegate with a 1.2 bar spring for precise boost control. Fueling via Bosch 044 high-flow fuel pump, Siemens DEKA 60lb/hr injectors, and a custom standalone ECU (Link G4+ Xtreme) with individual cylinder tuning for the XU9J4.",
+    "Full drivetrain reinforcement: Quaife ATB differential (80% lock) in a Peugeot 505 Turbo chassis housing, custom 3.73:1 final drive ratio, and a Tilton twin-disc clutch with a 240mm organic/metallic hybrid disc for 400 Nm torque capacity. Suspension overhaul with Ohlins Road & Track coilovers (custom valving for 504 Ti chassis geometry), polybushings from SuperPro (part #SPF0119K), and a custom 25mm front sway bar from Whiteline (504-specific design)."
+  ],
+  "estetica": [
+    "Full Rocket Bunny PB-003 widebody kit (modified for 504 Ti wheel arches) with custom carbon fiber overfenders, paired with a custom front splitter and rear diffuser from Seibon Carbon (504-specific molds) for aggressive aero balance. Rear wing: custom 3D-printed aluminum ducktail spoiler (NACA profile) with adjustable angle of attack (0-15 degrees).",
+    "BBS RS 012 wheels (15x8 +15 front, 15x9 +20 rear) with custom center caps featuring the Peugeot lion logo, wrapped in Michelin Pilot Sport Cup 2 tires (195/50/15 front, 225/50/15 rear). Brake upgrade: Wilwood Dynalite 4-piston calipers with 280mm rotors (front) and 2-piston calipers with 254mm rotors (rear), paired with Ferodo DS2500 pads for endurance racing.",
+    "Full interior strip and cage: custom 8-point chromoly roll cage from Custom Cages UK (504 Ti-specific design), Sparco Pro 2000 seats with Schroth 6-point harnesses, and a Momo Mod.78 steering wheel on a NRG quick-release hub. Gauges: Stack ST800 digital dash with oil pressure, boost, and wideband AFR readouts, mounted in a custom aluminum panel replacing the stock cluster."
+  ]
+}

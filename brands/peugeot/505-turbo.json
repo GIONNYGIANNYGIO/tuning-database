@@ -1,0 +1,14 @@
+{
+  "brand": "PEUGEOT",
+  "model": "505 TURBO",
+  "prestazioni": [
+    "Engine: Replace the stock **XN1T** (2.2L turbocharged inline-4, 170 PS) with a **Garrett GT3071R** turbocharger (0.86 A/R, 62mm compressor inducer) paired with a **Tial 38mm wastegate** to handle boost pressures up to 1.5 bar (21.7 psi). The stock intercooler must be upgraded to a **Bell Intercoolers 505-specific front-mount unit** (600x300x76mm core) with 3-inch silicone couplers and **TurboSmart Race Port BOV** to prevent compressor surge.",
+    "Fuel System: Swap the stock **Bosch K-Jetronic mechanical injection** for a **Haltech Elite 1500 ECU** with **ID1000x injectors** (1000cc/min) and a **Walbro 255 LPH in-tank fuel pump**. The fuel pressure regulator should be a **Radium Engineering adjustable FPR** set to 43.5 psi base pressure. A **Mocal 13-row oil cooler** (part #OC-13) must be installed to prevent fuel heat-soak under sustained boost.",
+    "Drivetrain: Reinforce the stock **BA7/5 transmission** with a **Quaife ATB differential** (80% lockup) and **PPG close-ratio gears** (1st: 3.454, 2nd: 2.158, 3rd: 1.478). The clutch should be a **Sachs Performance twin-disc setup** (240mm, 750Nm torque capacity) with a **Tilton 7.25-inch flywheel**. The driveshaft must be replaced with a **GKN CV-jointed unit** (part #505-8001) to handle increased torque."
+  ],
+  "estetica": [
+    "Body Kit: Install the **JP Performance 505 Turbo widebody kit** (fiberglass, 50mm flares per side) with **custom carbon fiber front splitter** (30mm overhang) and **Rear diffuser by Maxton Design** (3-piece, 150mm height). The rear bumper must be modified to fit a **Titanium exhaust exit** (76mm dual outlets) from **Supersprint** (part #SS-505T).",
+    "Suspension: Replace the stock **MacPherson struts** with **Ohlins Road & Track DFV coilovers** (505-specific valving, 200mm travel) and **Eibach Pro-Kit springs** (25% stiffer than stock). The rear **semi-trailing arms** must be reinforced with **polyurethane bushings** (SuperPro part #SPF0116) and **Whiteline adjustable camber plates** (part #KCA399).",
+    "Wheels: Fit **BBS RS-GT 16x8 ET20** wheels (5x108 PCD) with **Michelin Pilot Sport Cup 2** tires (225/50 R16 front, 245/45 R16 rear). The wheel spacers should be **H&R 15mm hubcentric units** (part #54650150) to clear the widebody fenders. Brake calipers must be **Brembo GT 4-piston** (330mm rotors, part #09.9404.11) with **Ferodo DS2500 pads**."
+  ]
+}

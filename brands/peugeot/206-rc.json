@@ -1,0 +1,14 @@
+{
+  "brand": "PEUGEOT",
+  "model": "206 RC",
+  "prestazioni": [
+    "Engine: Replace the stock TU5JP4 (1.6L 16V, 135hp) with a forged internals build using Manley 86.5mm forged pistons, Eagle H-beam connecting rods, and a ACL Race Series crankshaft, paired with a custom billet flywheel by Fidanza for high-RPM stability (safe to 8,500 RPM).",
+    "Forced Induction: Install a Garrett GT2860RS turbocharger (0.63 A/R turbine housing) with a custom 3-inch stainless steel downpipe by Milltek Sport, mated to a GReddy Type-S intercooler (front-mount, 550x220x76mm core) and a Tial MV-R 38mm external wastegate for precise boost control (target: 1.2 bar / 17.5 psi).",
+    "Fuel & Ignition: Upgrade to a Bosch Motorsport 044 high-flow fuel pump, paired with ID1000x injectors (1,000cc/min) and a Syvecs S6Plus standalone ECU with flex-fuel capability, running a custom 280° camshaft profile by Schrick for optimized power delivery (220hp+ at the wheels on 98 RON)."
+  ],
+  "estetica": [
+    "Aero: Install a full carbon fiber widebody kit by Prior Design (PD206RC), including front splitter, side skirts, and a ducktail rear spoiler with integrated third brake light, reducing drag by 8% while increasing downforce by 15kg at 100mph.",
+    "Suspension: Replace stock suspension with a fully adjustable Ohlins Road & Track DFV kit (2-way damping, 20mm drop), paired with Eibach Pro-Spacer wheel spacers (20mm front, 25mm rear) and custom camber plates by SuperPro for -3.5° front camber.",
+    "Wheels & Brakes: Mount 17x8.5 ET25 Enkei RS05RR wheels (7.5kg each) with Michelin Pilot Sport Cup 2 tires (215/40 R17), combined with a full AP Racing Radi-CAL big brake kit (330mm front rotors, 4-piston calipers) and Ferodo DS2500 pads for track-ready stopping power."
+  ]
+}

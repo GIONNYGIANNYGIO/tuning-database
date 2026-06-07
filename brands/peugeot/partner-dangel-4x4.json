@@ -1,0 +1,14 @@
+{
+  "brand": "PEUGEOT",
+  "model": "PARTNER DANGEL 4X4",
+  "prestazioni": [
+    "Engine swap to PSA's DW10FC (RHR) 2.0L HDi 16V turbo-diesel (136hp stock) with a BorgWarner EFR 7670 turbo (0.86 A/R, 62mm compressor, 56mm turbine) paired with a custom 3.5\" downpipe and a custom-mapped Bosch EDC16C34 ECU using WinOLS for fueling and timing adjustments targeting 220hp/380lb-ft with a 2800-bar common-rail pressure upgrade via a Siemens VDO CP3H high-pressure pump",
+    "Dangel-specific 4x4 drivetrain reinforcement with a Quaife ATB differential in the rear (part #QDF7R) and a custom front LSD using a Torsen Type-B unit (from a Peugeot 405 Mi16x4) paired with a reinforced transfer case (Dangel part #9665540080) and custom CV axles from GKN Driveline (part #GKN-2000-001) with 30% thicker shafts and 25-spline tripod joints",
+    "Suspension overhaul using Bilstein B16 PSS10 coilovers (custom valved for the Partner's 2,728mm wheelbase) with Eibach Pro-Kit springs (20mm drop) and custom top mounts from SuperPro (part #SPF2000K) for camber adjustment, paired with Dangel-specific subframe reinforcement plates (part #9665540120) and a Whiteline front sway bar (24mm, part #BKR97X) with custom end links"
+  ],
+  "estetica": [
+    "Custom widebody kit from French fabricator 'Carrosserie Lecoq' (model-specific, 50mm flares per side) with carbon fiber front splitter and rear diffuser from Maxton Design (part #MX10-PARTNER-DANGEL-CF) and a custom aluminum roof rack from Bimotor (part #BI-ALU-007) with integrated LED light bar (Rigid Industries D-Series Pro, part #202113)",
+    "OEM+ Dangel-specific front bumper with integrated winch mount (Warn Zeon 10-S, part #92120) and custom skid plates from ARB (part #ARB-1063120) with a Dangel-specific tow hook setup (part #9665540100) painted in 'Peugeot Racing Blue' (PPG code 44J)",
+    "Interior roll cage from Safety Devices (part #SD0457) with custom door bars and harness bar, wrapped in Alcantara (Autostyle part #AS-ALC-001) with Recaro Sportster CS seats (part #39-91.70) mounted on custom brackets (Dangel-specific, part #9665540140) and a Momo Mod.78 steering wheel (part #00712041132) with a quick-release hub"
+  ]
+}

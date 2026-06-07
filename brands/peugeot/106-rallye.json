@@ -1,0 +1,14 @@
+{
+  "brand": "PEUGEOT",
+  "model": "106 RALLYE",
+  "prestazioni": [
+    "Engine: TU2J2/RFY (1.3L 8V, 103hp stock) – Full forged internals with Mahle Motorsport forged pistons (83.5mm bore, 8.5:1 CR), Eagle H-beam connecting rods, and ACL Race Series bearings for 10,000 RPM reliability. Paired with a custom billet crankshaft by JE Motorsport (78mm stroke) for a 1.5L stroker build, targeting 180hp+ on 98 RON with a Jenvey ITB kit (45mm throttle bodies) and a custom 4-2-1 stainless steel exhaust manifold by Janspeed.",
+    "Forced Induction: Garrett GT2560R turbocharger (0.63 A/R turbine housing) with a custom top-mount intercooler (GReddy Type-S) and a TiAL MV-R 38mm wastegate. Fueling via a Walbro 255 LPH pump, Injector Dynamics ID1000 injectors, and a Syvecs S6Plus standalone ECU with launch control and flat-shift tuning for Group N+ compliance.",
+    "Suspension: Ohlins Road & Track DFV coilovers (custom valving for Tarmac/Asphalt rally) with spherical bearing top mounts by SuperPro. Front: 22mm adjustable anti-roll bar (Whiteline) with poly bushings; Rear: custom tubular subframe reinforcement by GPA Racing and rose-jointed toe arms (SuperPro). Brakes: AP Racing CP5260 front calipers (4-pot) with 280mm discs and Ferodo DS2500 pads, rear: Brembo 08.9204.10 calipers with 240mm discs."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody kit by LM Race Cars (106 Rallye-specific, 50mm wider front fenders, 70mm rear), including a custom front splitter with integrated canards (3D-printed PETG) and a rear diffuser by Maxton Design. Polycarbonate rear quarter windows (Lexan) and a carbon fiber hood with a NACA duct for intercooler airflow.",
+    "Interior: Full Sparco Evo II racing seats (FIA 8855-1999) with Schroth Profi II 6-point harnesses. Custom roll cage by Safety Devices (FIA-compliant, 6-point with door bars) and a Momo Prototipo steering wheel on a NRG quick-release hub. Dashboard replaced with a digital AIM MXS Strada dash (data logging for oil pressure, AFR, and turbo boost).",
+    "Aero: Custom rear wing by Voltex (Type 3, 1200mm width, 300mm chord) mounted on carbon fiber pedestals. Front bumper replaced with a 3D-printed ABS unit featuring integrated LED rally lights (Hella Micro DE) and a tow hook. Underbody: Full polycarbonate undertray with a front splitter extension (50mm) and side skirts by LM Race Cars for improved airflow management."
+  ]
+}

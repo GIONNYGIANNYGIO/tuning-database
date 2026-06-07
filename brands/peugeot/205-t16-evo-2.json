@@ -1,0 +1,14 @@
+{
+  "brand": "PEUGEOT",
+  "model": "205 T16 EVO 2",
+  "prestazioni": [
+    "Engine: Replace the stock XU8T (2.1L inline-4, 16V, turbocharged) with a fully built XU9J4T Group B-spec block, bored to 2.3L (88.0mm bore x 94.0mm stroke) using forged Mahle Motorsport pistons (9.5:1 compression) and Carrillo H-beam connecting rods. Pair with a custom billet crankshaft from JE Motorsport for 1,200+ HP reliability.",
+    "Forced Induction: Swap the stock Garrett T3 turbo for a Garrett GTX5533R Gen II with a 106mm compressor wheel and 88mm turbine, mated to a custom 4-1 stainless steel exhaust manifold (equal-length, 1.75\" primaries) by Janspeed Engineering. Use a Tial MV-R 60mm external wastegate with a 3.5-bar spring and a custom 4\" titanium downpipe by Akrapovič.",
+    "Fuel & Ignition: Convert to a full sequential fuel injection system using Bosch Motorsport 2,200cc/min injectors (PN 0 280 158 109) and a Syvecs S12 ECU with Group B rally-spec traction control. Replace the stock distributor with a 4-channel LS coil-on-plug ignition system (Denso Iridium IKH24) and a custom crank trigger wheel (60-2) for precise timing. Use a Radium Engineering dual fuel pump hanger with Walbro 450 LPH pumps and a 10AN fuel system with -8AN PTFE lines from Earl’s Performance."
+  ],
+  "estetica": [
+    "Body: Replace the stock fiberglass panels with a full carbon fiber replica Group B shell by Rallye Sport Replicas (RSR), including the iconic EVO 2 widebody fenders, front splitter, and rear diffuser. Use a custom 3D-printed ABS rear wing (1,200mm span) with adjustable Gurney flaps, designed by APR Performance for downforce optimization.",
+    "Suspension: Install a full Öhlins TTX46 MkII coilover system with 3-way adjustable dampers (compression, rebound, and high-speed compression) and spherical bearing top mounts. Use custom rose-jointed front and rear control arms by Polybush (Group B-spec) with adjustable camber plates (0 to -4 degrees) and a 30mm front sway bar by Whiteline (PN BMR79X).",
+    "Interior: Replace the stock rally seats with Sparco Pro ADV seats (carbon fiber shell, FIA 8862-2009 certified) and a custom 6-point harness by Schroth (ASM2). Install a full carbon fiber dashboard by V Carbon with a digital dash display (Aim MXS Strada) and a quick-release suede steering wheel (Momo Prototipo) on a NRG Innovations hub adapter. Add a fire suppression system (Lifeline Zero 360) with plumbed nozzles in the cabin and engine bay."
+  ]
+}

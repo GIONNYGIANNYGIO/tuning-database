@@ -1,0 +1,14 @@
+{
+  "brand": "PAGANI",
+  "model": "HUAYRA TEMPESTA",
+  "prestazioni": [
+    "Mercedes-AMG M158 6.0L V12 Biturbo (engine code: M275 E60 AL) upgraded with a bespoke Weistec Engineering Stage 3+ turbo kit featuring twin Garrett GTX5533R Gen II turbos, billet compressor wheels, and 3D-printed Inconel turbine housings for 1,000+ HP at 1.6 bar boost (stock: 730 HP at 1.2 bar).",
+    "Full titanium Akrapović Evolution Line exhaust system with quad 100mm carbon-fiber tips, 3D-printed inconel headers, and electronically controlled bypass valves for backpressure optimization under 6,000 RPM (replaces OEM stainless steel system).",
+    "Pagani-specific Bosch Motorsport MS 25.2 ECU reflash with custom lambda maps for E85 flex-fuel compatibility, paired with a Motec C127 dash logger for real-time cylinder pressure monitoring and individual coil-on-plug ignition timing adjustments (OEM ECU: Bosch ME 9.7)."
+  ],
+  "estetica": [
+    "Full Tempesta-specific carbon-fiber aero package with active front splitter (adjustable via hydraulic actuators) and a fixed rear wing with Gurney flaps, both coated in Pagani’s proprietary ‘Carbo-Triax’ weave for 30% weight reduction over OEM carbon.",
+    "Bespoke Novitec Torado-style forged aluminum wheels (20x9.5 front, 21x12.5 rear) with Pirelli P Zero Trofeo R tires (255/30 R20 front, 355/25 R21 rear) and center-lock titanium wheel nuts by HRE Performance.",
+    "Custom interior trim by Sabelt featuring carbon-fiber Recaro Pole Position seats with 6-point harnesses, Alcantara-wrapped dashboard with Tempesta-specific stitching, and a titanium gear shift knob by Pagani’s in-house ‘Titanio’ division (replaces OEM aluminum)."
+  ]
+}

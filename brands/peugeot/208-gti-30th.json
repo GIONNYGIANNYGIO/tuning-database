@@ -1,0 +1,14 @@
+{
+  "brand": "PEUGEOT",
+  "model": "208 GTI 30TH",
+  "prestazioni": [
+    "Engine: EP6FDT (1.6L Turbocharged Direct Injection, 208hp stock) - Full forged internals upgrade with Manley forged pistons (87.5mm bore, 8.8:1 compression), Eagle H-beam connecting rods, and ACL Race Series bearings for 300+ hp reliability on E85.",
+    "Turbocharger: Garrett GT2867R .86 A/R turbo (hybrid core with billet compressor wheel) paired with a custom 3.5\" stainless steel downpipe (Milltek Sport) and a 3.5\" cat-back exhaust system (Remus Valvetronic) with electronically controlled valves for backpressure optimization.",
+    "ECU & Fueling: Syvecs S8 Plug & Play standalone ECU with flex-fuel sensor, upgraded high-flow fuel pump (Walbro 450 LPH), and 1000cc ID1000 injectors (Bosch Motorsport) for E85 compatibility, paired with a custom intercooler (Bell Intercoolers 500x225x76mm core) and charge pipe upgrade (Forge Motorsport silicone couplers with aluminum piping)."
+  ],
+  "estetica": [
+    "Aero: Peugeot Sport Official 30th Anniversary carbon fiber front splitter (OEM+ spec) with custom canards (Perrin Performance), rear diffuser (Maxton Design GTI-spec), and a carbon fiber roof (Seibon Carbon) to reduce weight and improve aerodynamics.",
+    "Suspension: Ohlins Road & Track coilovers (DFV damping, 2-way adjustable) with custom spring rates (8kg/mm front, 10kg/mm rear) and spherical bearing top mounts (SuperPro), paired with poly bushings (Whiteline) for subframe and control arms to eliminate compliance.",
+    "Wheels & Brakes: OZ Racing Ultraleggera HLT 17x8 ET25 wheels (7.5kg each) wrapped in Michelin Pilot Sport Cup 2 R (215/40/17), with AP Racing CP8370 front brake kit (330mm 2-piece rotors, 4-piston calipers) and Ferodo DS2500 pads for track use."
+  ]
+}

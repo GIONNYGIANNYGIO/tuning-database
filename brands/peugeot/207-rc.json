@@ -1,0 +1,14 @@
+{
+  "brand": "PEUGEOT",
+  "model": "207 RC",
+  "prestazioni": [
+    "Engine: EP6CDT (1.6L THP 175hp stock) – Full forged internals upgrade with Manley 86.5mm forged pistons, Eagle H-beam connecting rods, and ACL Race Series bearings to handle 300+ hp reliably. Stock crank remains but balanced to 0.5g tolerance.",
+    "Turbocharger: Garrett GT2867 .64 A/R turbo with TiAL 44mm MV-R wastegate and custom 3-inch stainless downpipe (no cat) paired with a CSF high-flow intercooler (bar-and-plate core, 60% larger than OEM) and Vibrant 1482 silicone couplers.",
+    "Fuel System: Bosch Motorsport 044 fuel pump (340 LPH) with Injector Dynamics ID1000 injectors (1000cc/min), AEM 340lph in-tank pump, and custom 3/8\" fuel lines with AN-6 fittings. ECU reflash via Syvecs S6Plus standalone (OEM ECU retained for diagnostics only)."
+  ],
+  "estetica": [
+    "Body Kit: Peugeot Sport official 207 RC WRC replica front bumper with carbon fiber splitter (3M VHB tape mounting, no drilling) and custom rear diffuser by Maxton Design (polyurethane, bolt-on for OEM rear bumper).",
+    "Wheels: OZ Racing Ultraleggera HLT 17x8 +35 ET in Anthracite with 215/40/17 Michelin Pilot Sport Cup 2 tires (stretched 10mm for aggressive fitment). Front fenders rolled with heat gun, no cutting.",
+    "Interior: Recaro Sportster CS seats (fixed-back, 9kg lighter than OEM) with Schroth Profi II 4-point harnesses. Custom roll cage by Custom Cages UK (T45 steel, bolt-in, no welding) with powder-coated matte black finish. OMP steering wheel (330mm, suede) with quick-release hub."
+  ]
+}

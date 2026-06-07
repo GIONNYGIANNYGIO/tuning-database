@@ -1,0 +1,14 @@
+{
+  "brand": "PEUGEOT",
+  "model": "206 GTI 180",
+  "prestazioni": [
+    "Engine: Replace the stock TU5JP4 (1.6L 16V, 135hp) with a forged internals build featuring Mahle Motorsport forged pistons (83.5mm, 11.5:1 CR), Eagle H-beam connecting rods, and a steel crankshaft from a TU5JP4+ (used in Peugeot 206 RC) for increased stroke (82mm) to achieve 1.8L displacement. Pair with a custom billet oil pump from Jenvey Dynamics to handle increased oil flow demands.",
+    "Forced Induction: Install a Garrett GT2860RS turbocharger (0.63 A/R turbine housing, 56 trim compressor) with a custom tubular manifold from Janspeed Engineering, designed for the TU5JP4’s exhaust ports. Use a GReddy Type-S intercooler (front-mount, 600x300x76mm core) and a custom 3-inch aluminum intake piping system with a Pipercross foam filter (PX100). Boost control via a HKS EVC-S (set to 1.2 bar peak pressure) with a custom wastegate actuator from Turbosmart (45mm, 10psi base).",
+    "Fuel & Ignition: Replace the stock injectors with Bosch EV14 600cc/min (PN: 0 280 158 110) and upgrade the fuel pump to a Walbro 450 LPH in-tank unit. Use a Syvecs S6Plus standalone ECU with a custom TU5JP4-specific calibration map, paired with a Denso Iridium IK22 spark plugs (gapped at 0.024\"). Add a custom fuel surge tank (1.5L) from Radium Engineering with dual Bosch 044 pumps for high-G cornering stability."
+  ],
+  "estetica": [
+    "Body Kit: Install the full OMP Peugeot 206 GTI WRC replica aero kit, including the front splitter (carbon fiber, 30mm overhang), side skirts (polyurethane, WRC-spec), and rear diffuser (carbon fiber, 50mm height). Replace the rear bumper with a custom 3D-printed unit (PETG material) featuring integrated dual 80mm exhaust exits for a custom Scorpion 3-inch cat-back system.",
+    "Wheels & Tires: Mount a set of OZ Racing Ultraleggera HLT wheels (16x8 ET20 front, 16x9 ET15 rear) with Nankang AR-1 semi-slick tires (205/45/16 front, 225/40/16 rear). Use custom wheel spacers (15mm front, 20mm rear) from H&R to achieve a flush fitment. Brake calipers are painted in Peugeot Sport’s signature \"Rouge Banquise\" (PPG DMC 1334) with custom stainless steel brake lines from Goodridge.",
+    "Interior & Aero: Replace the stock seats with Recaro SRD-E (fixed-back, FIA-approved) in black Alcantara with red stitching. Add a custom roll cage from Safety Devices (6-point, bolt-in, T45 steel) with a removable X-brace for daily usability. Install a Momo Mod.78 steering wheel (330mm, suede) with a quick-release hub from NRG Innovations. For aerodynamics, add a custom carbon fiber rear wing (300mm chord, 1200mm span) from APR Performance, mounted on aluminum pedestals (200mm height)."
+  ]
+}

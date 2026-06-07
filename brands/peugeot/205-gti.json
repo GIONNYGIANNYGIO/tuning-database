@@ -1,0 +1,14 @@
+{
+  "brand": "PEUGEOT",
+  "model": "205 GTI",
+  "prestazioni": [
+    "Engine: Full rebuild of the XU9J2 (1.9L 8v DOHC) with forged Mahle Motorsport pistons (83mm, 10.5:1 CR), Carrillo H-beam connecting rods, and a balanced crankshaft by VAC Motorsports. Ported and polished cylinder head with oversized Ferrea intake (50mm) and exhaust (44mm) valves, paired with titanium retainers and upgraded valve springs from Supertech.",
+    "Forced Induction: Garrett GT2860RS turbocharger with a custom 3-inch stainless steel exhaust manifold by Janspeed Engineering, mated to a Tial MV-R 44mm external wastegate. Intercooled with a custom front-mount air-to-water setup using a PWR radiator and Bosch 044 fuel pump feeding 850cc ID injectors, controlled by a Haltech Elite 2500 ECU with flex-fuel capability.",
+    "Suspension & Handling: Full polybush kit from SuperPro (part #SPP205) with Ohlins Road & Track coilovers (22-way adjustable damping, 30mm drop), paired with Eibach 25mm front and 20mm rear anti-roll bars. Braking upgraded to AP Racing 4-piston calipers (CP5200) with 280mm vented rotors up front and 2-piston rear calipers (CP5210) with 240mm rotors, using Ferodo DS2500 pads and Goodridge braided stainless steel lines."
+  ],
+  "estetica": [
+    "Aero: Full Rocket Bunny PB-02 widebody kit with custom carbon fiber front splitter, rear diffuser, and side skirts. Rear wing is a custom 3-piece carbon fiber GT wing by Voltex (Type 3, 1200mm width) mounted on aluminum pedestals. Front bumper modified with a custom mesh grille and integrated LED fog lights from Hella Rallye 4000.",
+    "Exterior: Full respray in Peugeot Sport’s original ‘Gris Futura’ (code: EKA) with a 3-stage PPG paint system, including a matte clear coat. OEM-style badges removed and replaced with debadged front grille and rear hatch, with ‘205 GTI 1.9’ script in carbon fiber by iCarbon. Wheels are 15x8 ET0 BBS RS 002 (gold) with 195/45/15 Toyo R888R tires.",
+    "Interior: Full Recaro SRD-E (Evo II) seats in black Alcantara with red stitching, mounted on custom aluminum seat rails by Corbeau. Momo Mod.78 steering wheel (350mm, suede) with a NRG quick-release hub, paired with a custom aluminum shift knob (short throw) by CAE. Full roll cage by Safety Devices (FIA-spec, bolt-in) with harness bar and 6-point Schroth Profi II harnesses. Dashboard modified with a digital dash from AIM MXS Strada and a custom center console housing a Haltech Elite 2500 controller."
+  ]
+}
