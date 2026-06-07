@@ -1,0 +1,14 @@
+{
+  "brand": "OPEL",
+  "model": "ASTRA OPC CUP",
+  "prestazioni": [
+    "Engine: Z20LEH (2.0L Turbo ECOTEC) – Full forged internals with Mahle Motorsport forged pistons (86.5mm, 9.0:1 CR), Manley H-beam connecting rods, and ACL Race Series bearings. Upgraded crankshaft with balanced and polished journals for 8,500 RPM reliability.",
+    "Turbocharger: Garrett GTX3582R Gen II with billet compressor wheel (62mm inducer, 82mm exducer), TiAL MV-R 44mm wastegate, and custom 3.5\" stainless steel downpipe with 304-grade flex section. Mated to a custom 3.5\" stainless steel exhaust system with Burns Stainless 4-2-1 merge collectors and Vibrant 1799 resonated mufflers.",
+    "Fuel System: Bosch Motorsport 044 high-flow fuel pump (340 LPH), Injector Dynamics ID1050x injectors (1,050cc), and AEM 34002 EMS Series 2 standalone ECU with custom calibration for E85 compatibility. Upgraded fuel rails with -8AN fittings and Earl’s Performance Vapor Guard hoses."
+  ],
+  "estetica": [
+    "Aero: Custom carbon fiber front splitter by APR Performance (ASTRA OPC-specific design) with integrated dive planes, paired with a custom 3D-printed rear diffuser by Rocket Bunny (Pandem) for the OPC Cup chassis. Full carbon fiber rear wing with adjustable Gurney flap (200mm chord, 1,500mm span) from Seibon Carbon.",
+    "Body: Full OEM+ widebody conversion using genuine Opel Motorsport OPC Cup fender flares (front and rear) with custom carbon fiber side skirts. Paint: BASF Glasurit 90-Line custom mix in 'Opel Motorsport Yellow' with matte black roof and mirror caps, finished with 3M 1080 gloss black vinyl accents on the grille and rear valance.",
+    "Wheels: OZ Racing Superforgiata wheels (9x18\" ET35 front, 10.5x18\" ET40 rear) in gold finish, wrapped in Michelin Pilot Sport Cup 2 tires (245/35/18 front, 275/35/18 rear). Custom center-lock adapters with titanium wheel bolts from ARP."
+  ]
+}

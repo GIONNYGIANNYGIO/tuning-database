@@ -1,0 +1,14 @@
+{
+  "brand": "OPEL",
+  "model": "KADETT GSI 16V",
+  "prestazioni": [
+    "Engine: C20XE (2.0L 16V DOHC, 150hp stock) – Full forged internals with Mahle Motorsport forged pistons (86.4mm, 11:1 CR), Eagle H-beam connecting rods, and ACL Race Series bearings for 9,000 RPM reliability. Paired with a custom Schrick 284° camshaft kit (intake/exhaust) and titanium retainers from Supertech Performance for high-RPM valvetrain stability.",
+    "Forced Induction: Garrett GT2860RS turbocharger (0.63 A/R turbine housing) with a custom 3-inch stainless steel exhaust manifold by Janspeed Engineering, mated to a GReddy Type-S intercooler (400x160x65mm core) and a custom 3-inch aluminum charge piping system with Tial Q 50mm blow-off valve. Supporting mods include a Walbro 255 LPH fuel pump, Siemens DEKA 60lb/hr injectors, and a Link G4+ Xtreme standalone ECU with custom 3D mapping for E85 compatibility.",
+    "Suspension & Chassis: KW Clubsport 3-way adjustable coilovers (24-way rebound, 16-way compression, adjustable top mounts) with spherical bearing conversion for the front strut mounts. Polyurethane bushings (Powerflex Black Series) for the subframe, control arms, and trailing arms. Rear chassis reinforcement via a custom 20mm thick aluminum strut brace by Irmscher, paired with a Whiteline 22mm adjustable rear sway bar and poly subframe bushings."
+  ],
+  "estetica": [
+    "Body Kit: Irmscher Evolution II widebody conversion (fiberglass fenders, side skirts, and rear bumper) with custom carbon fiber front splitter and rear diffuser by Rocket Bunny (Kadett-specific, not a generic kit). Rear wing: custom 3-piece carbon fiber GT wing by APR Performance (1,200mm span, adjustable angle).",
+    "Wheels & Stance: BBS RS-GT II 16x8.5 ET15 (front) and 16x9 ET0 (rear) with custom 5x120 to 4x100 adapters, wrapped in Toyo R888R 205/45/16 (front) and 225/40/16 (rear). Fender rolling and custom arch cuts for clearance, with -2° front camber and -1.5° rear via KW adjustable top mounts.",
+    "Interior & Aero: Full carbon fiber dashboard overlay by V Carbon, paired with Recaro SRD Evo II seats (Kadett-specific mounting brackets) and a custom roll cage by Safety Devices (FIA-spec, bolt-in, with harness bar). Engine bay: custom carbon fiber strut brace, aluminum radiator support, and a custom aluminum intake manifold cover with C20XE laser-engraved logo. Exterior accents: OEM+ Irmscher badges, smoked Hella headlights with custom LED projectors, and a custom rear diffuser with integrated LED taillights (OEM housing, custom internals)."
+  ]
+}

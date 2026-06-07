@@ -1,0 +1,14 @@
+{
+  "brand": "OPEL",
+  "model": "LOTUS OMEGA",
+  "prestazioni": [
+    "Engine: C30SEJ (3.6L Lotus-tuned inline-6, 24v, 377hp stock) – Full forged internals with Mahle Motorsport pistons (88mm, 9.5:1 CR), Carillo H-beam connecting rods, and a billet crankshaft from JE Pistons. Upgraded to a dry-sump lubrication system by Dailey Engineering with a 10-quart oil pan and dual scavenge pumps for sustained high-RPM stability (redline extended to 8,200 RPM).",
+    "Forced Induction: Custom twin-turbo setup using Garrett GT35R turbos (62mm compressor, .82 A/R turbine housings) with TiAL MV-R 44mm wastegates and a custom equal-length stainless steel manifold by TurboSmart. Intercooled via a PWR 4.5-core front-mount intercooler with a 3.5\" inlet/outlet and integrated water spray system. Boost controlled via a HKS EVC-SX II with a 2.5-bar MAP sensor, targeting 1.5 bar (21.7 psi) peak boost on 100-octane fuel.",
+    "Drivetrain & Handling: Getrag 284 6-speed manual transmission reinforced with a Quaife ATB differential and a Sachs Performance twin-disc clutch (240mm, 800Nm torque capacity). Suspension overhaul with Ohlins Road & Track DFV coilovers (2-way adjustable damping, 30mm drop) paired with Eibach Pro-Series sway bars (24mm front, 22mm rear). Braking upgraded to AP Racing 6-piston calipers (380mm two-piece rotors) with Ferodo DS3000 pads and Goodridge G-Stop braided lines."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion using a custom Rocket Bunny V2 kit (extended fenders, aggressive front splitter, and ducktail spoiler) with a 3M Matte Pearl White wrap. Front bumper modified to integrate a custom radiator ducting system with a carbon fiber mesh grille by Seibon Carbon. Side skirts replaced with custom aluminum units by KBD Body Kits for weight reduction.",
+    "Aero: Custom rear diffuser by APR Performance (carbon fiber, 3-channel design) with integrated exhaust cutouts for dual 3.5\" titanium exhaust tips by Akrapovic. Hood replaced with a Seibon carbon fiber unit featuring a 20mm vented scoop for intercooler airflow. Side mirrors replaced with carbon fiber units by Varis Japan, reducing weight by 40%.",
+    "Interior: Full Recaro Pole Position seats (carbon fiber backs, Alcantara inserts) with Schroth Profi II 6-point harnesses. Custom roll cage by Custom Cages (T45 steel, 6-point design with integrated harness bars). Dashboard stripped and replaced with a carbon fiber panel by Varis, housing a Motec C127 dash logger and a custom switch panel for boost control, water spray, and launch control. Steering wheel replaced with a Momo Prototipo (350mm, suede) with a quick-release hub."
+  ]
+}

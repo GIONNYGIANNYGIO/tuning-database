@@ -1,0 +1,14 @@
+{
+  "brand": "OPEL",
+  "model": "MOKKA X GSI",
+  "prestazioni": [
+    "ECU remap targeting the **A16XHT** 1.6L turbocharged I4 engine (stock: 200 PS / 280 Nm) via **Dimsport Genius** Stage 2+ tune with custom ethanol (E85) mapping, raising output to **260 PS / 380 Nm** while retaining stock turbo (K03) but upgrading the intercooler to a **GReddy Type-S** front-mount unit with 60mm core thickness for sub-40°C intake temps under full boost",
+    "Full **Forge Motorsport** cooling system overhaul: **1.5L oil catch can** with dual-stage baffling, **Mocal 19-row oil cooler** (13-row stock), and **Gates Racing** timing belt kit with **Dayco** water pump to handle increased thermal loads from E85 tuning",
+    "Suspension swap to **KW Clubsport 3-way coilovers** (rebound/compression/height adjustable) with **Whiteline** 24mm rear sway bar and **SuperPro** poly bushings (front control arms, subframe, and diff mounts) to eliminate A16XHT’s notorious torque steer under hard launches"
+  ],
+  "estetica": [
+    "**Rieger Tuning** Mokka X GSi-specific widebody kit (front fenders + rear quarter panels) with **custom 3M Matte Graphite vinyl wrap** and **Vorsteiner V-FF107** 19x9.5 ET35 forged wheels (square setup) wrapped in **Michelin Pilot Sport Cup 2** 245/35 R19 tires for aggressive stance without fender rub",
+    "**Seibon Carbon** hood with **custom NACA duct** feeding the GReddy intercooler, paired with **VIS Racing** carbon fiber front splitter and **custom 3D-printed** rear diffuser (PETG material) to reduce lift at 120+ mph (tested in Opel’s wind tunnel)",
+    "**Akrapović** titanium exhaust system with **dual 90mm outlets** and **valvetronic bypass** (controlled via **RaceChip Connect** app), replacing the stock **Bosch** rear muffler while retaining the catalytic converter for emissions compliance in EU markets"
+  ]
+}

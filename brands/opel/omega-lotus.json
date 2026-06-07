@@ -1,0 +1,14 @@
+{
+  "brand": "OPEL",
+  "model": "OMEGA LOTUS",
+  "prestazioni": [
+    "Engine: Replace the stock C30SE (3.0L 24V I6) with a fully built C30XE (3.0L 24V I6) featuring forged internals (Mahle pistons, Pauter billet crank, Eagle H-beam rods), ported and polished cylinder head by Hartge, and a custom camshaft profile from Schrick (272° duration, 11.5mm lift) for high-RPM power delivery (target: 350+ HP naturally aspirated).",
+    "Forced Induction: Single-turbo setup using a Garrett GT3582R with a custom T4/T3 hybrid manifold by Turbo Dynamics, paired with a custom intercooler (GReddy Type-S) and a 3.5\" stainless steel charge piping system. Fueling upgrades include Bosch 044 high-flow fuel pump, Siemens DEKA 80lb injectors, and a custom ECU tune via Motec M800 standalone (boost target: 1.2 bar for ~500 HP).",
+    "Drivetrain & Suspension: Reinforced Getrag 284 6-speed manual transmission with a Quaife ATB differential, uprated clutch (Sachs Performance twin-disc), and custom driveshafts by GKN. Suspension overhaul with Ohlins Road & Track coilovers (custom valving for Omega chassis), polybushings (Powerflex Black Series), and a full chassis stiffening kit (custom subframe braces by Irmscher, strut tower bars by Brembo)."
+  ],
+  "estetica": [
+    "Aero: Custom widebody conversion using Irmscher Omega Evo 500-style fender flares (carbon fiber, hand-laid), paired with a Rocket Bunny-inspired front splitter (carbon fiber, 3D-scanned for Omega bumper) and a custom rear diffuser by Prior Design. Rear wing: Lotus Carlton-style dual-plane carbon fiber wing (custom airfoil, adjustable angle).",
+    "Wheels & Brakes: 18x10\" front and 18x11\" rear BBS LM-R wheels (ET20 front, ET15 rear) with custom offsets, wrapped in Michelin Pilot Sport Cup 2 tires (265/35/18 front, 295/30/18 rear). Big brake kit: AP Racing 6-piston calipers (front) and 4-piston (rear) with 355mm two-piece rotors (floating, slotted) and custom braided lines by Goodridge.",
+    "Interior & Details: Full carbon fiber interior trim (dashboard, door cards, center console) by VCarbon, Recaro Pole Position seats (Lotus Carlton-spec, Alcantara/leather), and a custom roll cage (TIG-welded, 4-point) by Safety Devices. Exterior badging: Lotus Carlton-style \"Omega Lotus\" carbon fiber emblems (replacing Opel logos) and custom LED taillights (Lotus Elise-style, sequential turn signals)."
+  ]
+}

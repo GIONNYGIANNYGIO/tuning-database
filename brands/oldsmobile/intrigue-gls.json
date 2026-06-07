@@ -1,0 +1,14 @@
+{
+  "brand": "OLDSMOBILE",
+  "model": "INTRIGUE GLS",
+  "prestazioni": [
+    "Engine swap to a **L80 4.0L DOHC V6 (LX5)** from the Oldsmobile Aurora, retaining the Intrigue's FWD layout but upgrading internals with **JE forged pistons (9.5:1 compression)**, **Manley H-beam connecting rods**, and a **Crower billet crankshaft** for 8,000 RPM reliability. Pair with a **Garrett GT3582R turbo (0.82 A/R, 62mm inducer)** on a custom **Treadstone TR-FWD manifold** with **Tial 44mm wastegate** and **HKS SSQV4 blow-off valve**.",
+    "Full **3.5-inch stainless steel turbo-back exhaust** by **Stainless Works**, featuring **409-grade mandrel-bent tubing**, **dual 3.5-inch resonated mufflers (straight-through design)**, and **V-band clamps** for modular tuning. Upstream, install a **custom 3-inch downpipe** with **DEI titanium thermal wrap** to reduce heat soak in the tight Intrigue engine bay.",
+    "Standalone **Haltech Elite 2500 ECU** with **Bosch 1,000cc EV14 injectors**, **AEM 3.5-bar MAP sensor**, and **Innovate Motorsports LC-2 wideband O2 controller**. Tune via **HP Tuners MPVI2 interface** to optimize the **LX5's 24-valve DOHC** for **350 WHP on 93 octane** (or **420 WHP on E85** with **ID1300-X injectors**). Suspension overhaul with **KW Clubsport coilovers (8-position rebound, 24-way compression damping)**, **Whiteline 27mm front sway bar (hollow, adjustable)**, and **Energy Suspension polyurethane bushings (full kit)** for chassis rigidity."
+  ],
+  "estetica": [
+    "**Rocket Bunny V1 Intrigue-specific widebody kit** (FRP construction, +3.5 inches per side), paired with **custom 19x9.5 ET25 front and 19x11 ET15 rear wheels** wrapped in **Michelin Pilot Sport Cup 2 R tires (245/35/19 front, 295/30/19 rear)**. Aggressive fitment requires **custom fender flares** with **LED turn signals integrated into the side skirts**.",
+    "**Seibon carbon fiber hood** (dual functional vents, **50% weight reduction** over stock) and **custom carbon fiber trunk lid** with **integrated ducktail spoiler** (modeled after the **1999 Oldsmobile Alero GT concept**). Front bumper replaced with a **custom 3D-printed ABS unit** featuring **functional splitter (3.5-inch overhang)** and **DTM-style canards** from **AIT Racing**.",
+    "**Full interior rewrap in Alcantara (black/red)** by **EuroCompulsion**, including **Recaro SRD seats (fixed-back, FIA-approved)**, **MOMO Prototipo steering wheel (350mm, suede)**, and **custom roll cage (8-point, TIG-welded 4130 chromoly)** with **bolt-in harness bar**. Gauge cluster replaced with **Defi BF Series (oil temp, boost, wideband AFR)** in a **custom A-pillar pod**, and **LED interior lighting (red, dimmable)** from **Diode Dynamics**."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "OPEL",
+  "model": "CORSA OPC",
+  "prestazioni": [
+    "Engine: Replace the stock **A16LET** (1.6L turbocharged I4) internals with forged **Mahle Motorsport** pistons (86.5mm bore, 8.8:1 compression), **Manley H-beam connecting rods**, and a **Forgestar F14** crankshaft (balanced to 20,000 RPM spec). Pair with a **Garrett GTX3071R Gen II** turbo (0.86 A/R, 62mm compressor, 56mm turbine) on a custom **Tial MV-R 44mm** wastegate and **TurboSmart Race Port BOV**.",
+    "Fuel System: Upgrade to **Bosch Motorsport 0261500367** 1000cc injectors, **Walbro 450LPH** in-tank fuel pump, and a **Radium Engineering** dual-dry-break fuel system with AN-6 feed/return lines. ECU reflash via **HP Tuners MPVI2+** with a custom **LME (Lotus Motorsport Engineering)** base map targeting 320hp at 2.2 bar boost on **VP Racing Q16** fuel.",
+    "Drivetrain: Install a **Quaife ATB LSD** (Corsa OPC-specific 4.1:1 final drive) with **Peloquin** carbon-fiber clutch and **South Bend** Stage 3+ pressure plate. Replace the stock **M32** 6-speed transmission with a **Getrag 285** (from the Astra OPC) reinforced with **PPG** straight-cut gears (1st: 3.55, 2nd: 2.16, 3rd: 1.48) and a **Spec Stage 4+** twin-disc clutch."
+  ],
+  "estetica": [
+    "Aero: **Rocket Bunny V1 Corsa OPC** widebody kit (polyurethane front fenders, carbon-fiber rear diffuser, and 3-piece overfenders) with **Vortex Generators** on the roof. Front splitter: **Seibon Carbon** 3D-printed with integrated **AIM MXS Strada** pitot tube for aero data logging. Rear wing: **Voltex Type-3** (1700mm span, 300mm chord) on **AeroCatch** mounts.",
+    "Wheels: **BBS LM-R** 18x9.5 ET20 (front) and 18x10.5 ET25 (rear) with **Michelin Pilot Sport Cup 2** tires (235/40/18 front, 265/35/18 rear). Custom **HRE 303M** center-lock adapters with **ARP 625+** studs and **Brembo GT-R** calipers (6-piston front, 4-piston rear) on **DBA 5000 Series** rotors (355mm front, 330mm rear).",
+    "Interior: **Recaro SPG XL** seats (Opel-specific mounting brackets) with **Schroth Profi II-6** 6-point harnesses. **Momo Prototipo** flat-bottom steering wheel (320mm, suede) on a **NRG Quick Release** hub. **AEM CD-7** dash with **Motec C127** data logger, **Defi BF** oil pressure/temp gauges, and **AEM X-Series** wideband AFR sensor. Full **Dynamat Xtreme** sound deadening with **Vibra-Technics** subframe bushings."
+  ]
+}

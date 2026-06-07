@@ -1,0 +1,14 @@
+{
+  "brand": "NISSAN",
+  "model": "XTERRA",
+  "prestazioni": [
+    "Engine swap to VQ40DE (4.0L V6) with forged internals: Manley H-beam connecting rods, JE 10.5:1 forged pistons, and ACL Race Series main/rod bearings, paired with a Garrett GT3582R turbocharger (0.82 A/R turbine housing) and custom 3-inch stainless steel turbo manifold by Full-Race Motorsports. Supporting mods include a Tomei 272° camshaft (intake/exhaust), Tomei Type-S valve springs, and a custom 3-inch downpipe with Vibrant 1799 high-flow catalytic converter.",
+    "Fuel system upgrade: Injector Dynamics ID1050x fuel injectors, Walbro 450 LPH in-tank fuel pump, and a Radium Engineering dual fuel pressure regulator (set to 58 psi base pressure). ECU tuning via Haltech Elite 2500 standalone with flex-fuel capability, utilizing a Continental ethanol content sensor and custom wiring harness by iWire.",
+    "Suspension and drivetrain: Bilstein 8112 remote-reservoir coilovers (14-position compression damping) with custom valving for off-road use, paired with Eibach Pro-Street S springs (1.5-inch drop). Rear limited-slip differential upgraded to a Nismo 2-way clutch-type LSD (28-spline, 4.63:1 gear ratio). Driveshafts replaced with custom 3.5-inch aluminum units by Driveshaft Shop, and front/rear axles upgraded to Chromoly 33-spline shafts by RCV Performance."
+  ],
+  "estetica": [
+    "Custom front bumper fabricated from 3/16-inch aluminum with integrated Baja Designs Squadron Sport LED light pods and a Warn Zeon 10-S winch (synthetic rope, 10,000 lb capacity). Rear bumper replaced with a C4 Fab rear bumper with swing-out tire carrier and dual RotopaX 2.5-gallon fuel/water can mounts.",
+    "Body armor: C4 Fab rock sliders with 2-inch DOM tubing and integrated steps, paired with a custom rear quarter-panel armor kit (1/8-inch steel) to protect the wheel wells. Hood replaced with a carbon fiber hood by Seibon (Type-38 weave, 50% weight reduction) featuring a custom heat extractor vent for the turbo setup.",
+    "Wheels and tires: Method MR701 wheels (17x9, +12mm offset) with BFGoodrich KM3 tires (285/70R17) on all four corners. Fender flares replaced with custom wide-body fiberglass flares by Bushwacker (6-inch extension) to accommodate the wheel/tire setup, finished in Raptor Liner textured coating for durability."
+  ]
+}

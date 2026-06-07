@@ -1,0 +1,14 @@
+{
+  "brand": "OPEL",
+  "model": "ZAFIRA OPC",
+  "prestazioni": [
+    "Engine: Replace the stock **Z20LEH** (2.0L Turbo I4, 240 HP) with a **Garrett GTX3071R Gen II** turbocharger (0.63 A/R, 62mm compressor inducer) paired with a **Forge Motorsport** silicone charge pipe kit (4-ply reinforced, 3.5\" diameter) and a **Tial MV-R 44mm** external wastegate (spring pressure set to 1.4 bar for 380 HP target).",
+    "Fuel System: Upgrade to **Bosch Motorsport 0280158101** 850cc/min injectors (flow-matched via **Injector Dynamics** bench testing) with a **Walbro 450 LPH** in-tank fuel pump and a **Radium Engineering** dual-core fuel rail (Z20LEH-specific billet aluminum, -6AN fittings).",
+    "ECU & Tuning: **ECU Master EMU Black** standalone ECU (with **Opel Z20LEH** base map) recalibrated for **E85 flex-fuel** (via **Continental Ethanol Content Sensor**) and **Meth Injection** (AEM 30-3300 controller, 50/50 water-methanol mix, 100psi pump). Dyno-tuned by **Dyno Dynamics** with **400+ HP** at 7,000 RPM (28 psi boost, 12.5:1 AFR on E85)."
+  ],
+  "estetica": [
+    "Aero: **Rieger Tuning** Zafira OPC-specific widebody kit (carbon fiber front splitter, rear diffuser, and side skirts) with **Vortex Generator** canards (3D-printed PETG, 150mm length) mounted on the hood and roof. Rear wing: **9 Lives Racing** 1750mm GT wing (30mm risers, 15-degree angle).",
+    "Suspension: **KW Suspensions** Clubsport coilovers (3-way adjustable, 80mm drop, **Zafira B OPC-specific** valving) with **Whiteline** adjustable rear sway bar (24mm, 3-position) and **SuperPro** poly bushings (front control arms, subframe, and rear trailing arms).",
+    "Wheels & Brakes: **BBS RS-GT II** 9x19\" ET35 wheels (custom **Opel OPC** center caps, 5x110 PCD) wrapped in **Michelin Pilot Sport Cup 2** 255/35/19 tires. Brake system: **AP Racing** CP8370-26 front 6-pot calipers (355mm discs, **Zafira OPC-specific** brackets) with **Ferodo DS2500** pads and **Goodridge** braided stainless steel lines."
+  ]
+}

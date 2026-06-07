@@ -1,0 +1,16 @@
+{
+  "brand": "OPEL",
+  "model": "CALIBRA TURBO 4X4",
+  "prestazioni": [
+    "Engine: C20LET (2.0L 16V Turbo, 204hp stock) – Full forged internals with Mahle Motorsport forged pistons (86.4mm, 8.5:1 CR), Eagle H-beam connecting rods, and ACL Race Series bearings. Balanced and blueprinted by a specialist like GTS Motorsport (UK).",
+    "Turbocharger: Garrett GTX3071R Gen II (0.63 A/R turbine housing, 56 trim compressor) with a custom 3-inch stainless steel downpipe (Tial 44mm external wastegate, TiAL MV-R actuator) and a PWR intercooler (400x200x76mm core, 50mm end tanks) for IAT control under 40°C at 1.5bar boost.",
+    "Fuel System: Bosch Motorsport 044 high-flow fuel pump (340lph), Injector Dynamics ID1000 injectors (1000cc/min), and a custom fuel rail with AN-6 fittings. Standalone ECU: Link G4+ Xtreme with custom 3D-mapped ignition timing (22° BTDC at 4500rpm) and sequential injection control. Oil system upgraded with a Mocal 13-row oil cooler and a baffled sump (Accusump 1.5L pre-oiler).",
+    "Drivetrain: Quaife ATB LSD (front and rear) with custom 3.94:1 final drive ratio (OPEL Omega 3000 24V diff housing). Clutch: Sachs Performance twin-disc (240mm, 750Nm torque capacity) with a billet steel flywheel. Transmission: Getrag F28/6 (6-speed) with upgraded synchros (OPEL Motorsport spec) and a short-shift kit (B&M 4000 series).",
+    "Suspension: Ohlins Road & Track DFV coilovers (2-way adjustable damping, 400lb/in front springs, 500lb/in rear springs) with spherical bearing top mounts (SuperPro) and polybushings (Powerflex Black Series). Chassis reinforcement: Custom 3mm steel subframe braces (front and rear) and a bolt-in roll cage (Custom Cages UK, FIA-spec). Brakes: AP Racing CP6640 front calipers (4-pot, 330mm discs) and CP5350 rear calipers (2-pot, 280mm discs) with Ferodo DS2500 pads and braided stainless steel lines."
+  ],
+  "estetica": [
+    "Body Kit: Rocket Bunny V1 Calibra widebody kit (custom fiberglass fenders, 50mm wider front, 70mm wider rear) with a carbon fiber front splitter (Seibon) and a custom 3D-printed rear diffuser (integrated twin 3.5-inch exhaust outlets). Paint: BASF Glasurit 90-Line custom mix (Lime Green Pearl with gold flakes, 20-layer deep coat).",
+    "Wheels: BBS RS-GT II (9x18 ET20 front, 10.5x18 ET25 rear) with custom offsets to fit the Rocket Bunny arches, wrapped in Michelin Pilot Sport Cup 2 (235/40/18 front, 275/35/18 rear). Lug nuts: Project Kics R40 (titanium, 50mm extended).",
+    "Interior: Full Recaro Pole Position II seats (Schroth 6-point harnesses, FIA-approved) with a custom roll cage (Custom Cages UK) wrapped in Alcantara (Momo Red). Steering wheel: NRG Innovations 350mm suede (quick-release hub). Gauges: Defi Advance BF (oil temp, oil pressure, boost, wideband AFR) in a custom carbon fiber dash panel. Pedal set: Sparco Pro 2000 (aluminum, adjustable)."
+  ]
+}

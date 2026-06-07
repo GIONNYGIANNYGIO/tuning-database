@@ -1,0 +1,14 @@
+{
+  "brand": "OPEL",
+  "model": "ASTRA OPC",
+  "prestazioni": [
+    "Engine: Replace the stock Z20LEH (2.0L turbocharged I4) internals with forged Mahle Motorsport pistons (86.5mm, 9.0:1 CR), Carrillo H-beam connecting rods, and a billet crankshaft from Manley Performance. Pair with a Garrett GTX3076R turbocharger (0.82 A/R turbine housing) and a custom 3.5-inch stainless steel downpipe from Milltek Sport with a 200-cell catalytic converter for Euro 6 compliance.",
+    "Fuel System: Upgrade to a Bosch Motorsports 044 high-flow fuel pump, Injector Dynamics ID1050x injectors, and a Radium Engineering dual-catch can setup with AN-6 lines. Tune via a standalone ECU from Syvecs (S8 Plug & Play) with flex-fuel capability and launch control mapped for 0-60 mph in 4.2s.",
+    "Suspension & Handling: Install a KW Clubsport 3-way coilover kit with adjustable camber plates (front) and spherical bearing subframe collars from Whiteline. Replace the stock LSD with a Drexler Motorsport 2-way mechanical differential (45% lock) and fit AP Racing CP6640 front brake calipers with 355mm two-piece rotors and Ferodo DS2500 pads."
+  ],
+  "estetica": [
+    "Aero: Fit a full carbon fiber widebody kit from Prior Design (PD-ASTRAOPC) with a 30mm extended front splitter, aggressive side skirts, and a ducktail spoiler. Add a custom 3D-printed rear diffuser from Maxton Design with integrated exhaust cutouts for dual 3.5-inch outlets.",
+    "Wheels: Mount a set of BBS LM-R 9x19 ET30 (front) and 10.5x19 ET35 (rear) wheels with Michelin Pilot Sport Cup 2 tires (245/35/19 front, 275/30/19 rear). Use custom wheel spacers from H&R (15mm front, 20mm rear) for aggressive flush fitment.",
+    "Interior: Replace the stock seats with Recaro Pole Position buckets wrapped in Alcantara (Stealth Grey) from OMP. Install a custom roll cage from Safety Devices (FIA-spec, bolt-in) with integrated fire suppression system (Lifeline Zero 360). Add a digital dash from AIM MXS Strada with a custom CAN bus interface for the Syvecs ECU."
+  ]
+}

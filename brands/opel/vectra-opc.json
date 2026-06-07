@@ -1,0 +1,14 @@
+{
+  "brand": "OPEL",
+  "model": "VECTRA OPC",
+  "prestazioni": [
+    "Engine: Z20LEH (2.0L Turbo I4) – Full forged internals including Mahle Motorsport forged pistons (86.5mm, 9.0:1 CR), Eagle H-beam connecting rods, and ACL Race Series bearings. Upgraded crankshaft with balanced and polished journals for 8,500 RPM stability.",
+    "Turbocharger: Garrett GTX3582R Gen II with billet compressor wheel (62mm inducer, 82mm exducer), .82 A/R turbine housing, and TiAL MV-R 44mm external wastegate. Custom 3.5\" stainless steel downpipe with Vibrant 1799 high-flow catalytic converter and 3\" turbo-back exhaust system by Milltek Sport (resonated center section, non-valved).",
+    "Fuel System: Bosch Motorsport 044 high-flow fuel pump (340 LPH), Injector Dynamics ID1050x fuel injectors, and AEM 34002 EMS Series 2 standalone ECU with custom calibration by Dyno Dynamics UK. Upgraded fuel rail and -6AN braided lines with Earl's Performance fittings. Water-methanol injection kit by Snow Performance (Stage 3, dual-nozzle setup)."
+  ],
+  "estetica": [
+    "Body Kit: Irmscher Vectra OPC 'Phase 2' widebody conversion with carbon fiber front splitter, side skirts, and rear diffuser. Custom 3-piece rear wing by KW Automotive (adjustable carbon fiber blades, 30mm risers). Front bumper lip extended 20mm for improved aero balance.",
+    "Wheels: BBS RS-GT II 9x19\" ET35 front and 10.5x19\" ET40 rear (custom offsets for OPC fenders), mounted with Michelin Pilot Sport Cup 2 tires (245/35/19 front, 275/30/19 rear). Forged aluminum center locks by HRE Performance Wheels.",
+    "Interior: Recaro Pole Position seats (carbon fiber backs, Alcantara/leather upholstery) with Schroth Profi II 6-point harnesses. Custom roll cage by Safety Devices (T45 steel, bolt-in design with integrated harness bars). OMP steering wheel (350mm, suede) with quick-release hub. Full digital dash by AIM MXS Strada (1.3\" display, CAN bus integration)."
+  ]
+}

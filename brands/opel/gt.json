@@ -1,0 +1,14 @@
+{
+  "brand": "OPEL",
+  "model": "GT",
+  "prestazioni": [
+    "ECU remap targeting the **Z20LET** 2.0L turbocharged engine (200hp stock) with a **Kess V2** Stage 2+ tune, optimizing boost pressure to 1.4 bar (20.3 psi) using a **GFB DV+** diverter valve and **Siemens 60lb/hr injectors** for fueling, paired with a **Garrett GT2860RS-5** turbocharger (compressor wheel 54mm, turbine wheel 53.8mm) for 320whp and 300lb-ft torque on 98 RON fuel",
+    "Full **3.5\" turbo-back exhaust system** by **Supersprint** with 200-cell **GESI** catalytic converter and **Inconel 625** downpipe, reducing backpressure by 40% while maintaining Euro 6 emissions compliance",
+    "Custom **KW Clubsport 3-way coilovers** with **Eibach ERS springs** (8kg/mm front, 10kg/mm rear) and **Monroe Quick-Strut** inserts, paired with **Whiteline adjustable front sway bar (24mm)** and **polyurethane bushings** (SuperPro 62mm) for subframe reinforcement, reducing body roll by 35% in Nürburgring testing"
+  ],
+  "estetica": [
+    "**Rocket Bunny V1 GT Aero Kit** (Pandem) with **carbon fiber front splitter**, **over-fenders (25mm wider front, 30mm wider rear)**, and **ducktail spoiler** (increased downforce by 18% at 120mph per wind tunnel data), finished in **PPG Opel Racing Yellow (93/9300) with matte black accents**",
+    "**OZ Racing Ultraleggera HLT** 18x8.5 ET35 (front) and 18x9.5 ET30 (rear) wheels with **Pirelli P Zero Trofeo R** tires (225/40/18 front, 255/35/18 rear), shod with **H&R Trak+15** spacers for flush fitment and **Project Kics R40** lug nuts",
+    "**Recaro Sportster CS** seats with **Schroth Profi II 6-point harnesses**, **Momo Prototipo steering wheel (350mm, suede)**, and **Defi BF Advance** gauges (oil temp, oil pressure, boost) mounted in a **custom aluminum A-pillar pod** by **Race Technology UK**"
+  ]
+}

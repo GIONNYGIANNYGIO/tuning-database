@@ -1,0 +1,14 @@
+{
+  "brand": "OPEL",
+  "model": "CALIBRA TURBO",
+  "prestazioni": [
+    "Engine: C20LET (2.0L 16V Turbo I4) – Full forged internals including Mahle Motorsport forged pistons (86.4mm, 8.5:1 CR), Eagle H-beam connecting rods, and ACL Race Series bearings for 30+ psi boost capability. Upgraded head studs (ARP) and ported/polished cylinder head with oversized Ferrea Racing intake (1mm larger) and exhaust valves (1mm larger) with Supertech dual valve springs and titanium retainers.",
+    "Turbocharger: Garrett GTX3076R Gen II (0.82 A/R turbine housing, 62mm compressor) with TiAL Sport MV-R 44mm external wastegate and custom 3.5\" stainless steel downpipe (Schoenfeld) paired with a 3.5\" full turbo-back exhaust system (Supersprint) with 200-cell metallic catalytic converter and X-pipe design for optimized scavenging.",
+    "Fuel & Ignition: Bosch Motorsport 044 high-flow fuel pump (340 LPH) with dual Walbro 450 LPH in-tank pumps, Injector Dynamics ID1000cc injectors (side-feed), and AEM 34002 EMS standalone ECU with custom 3D-printed intake manifold (3D printed in carbon fiber-reinforced nylon) featuring individual throttle bodies (Jenvey 45mm). Ignition system upgraded to MSD 6AL-2 with Blaster SS coil and NGK R7437-9 racing plugs gapped at 0.024\"."
+  ],
+  "estetica": [
+    "Body Kit: Rocket Bunny V1 Calibra-specific widebody kit (carbon fiber fenders, front bumper, and rear diffuser) with custom 3D-printed side skirts (ABS plastic) to accommodate 10.5\" front and 12\" rear wheel widths. Full carbon fiber hood (Seibon) with integrated NACA ducts for intercooler cooling and custom LED DRLs (Lux H8).",
+    "Suspension: Ohlins Road & Track DFV coilovers (2-way adjustable damping) with custom valving for the Calibra’s MacPherson strut front and multi-link rear. Polyurethane bushings (SuperPro) for all control arms, subframe, and differential mounts. Custom front sway bar (28mm adjustable, Whiteline) and rear sway bar (24mm, Eibach) with spherical end links (Hardrace).",
+    "Wheels & Aero: BBS LM-R 9.5x18\" ET15 (front) and 11x18\" ET5 (rear) with custom offsets to fit the Rocket Bunny fenders, wrapped in Michelin Pilot Sport Cup 2 R tires (245/35/18 front, 295/30/18 rear). Custom rear wing (Voltex Type-3 replica in carbon fiber) with Gurney flap and adjustable angle (0-15 degrees) for downforce tuning. Front splitter (carbon fiber, APR) with integrated canards (3 per side) and custom aluminum undertray for diffuser optimization."
+  ]
+}

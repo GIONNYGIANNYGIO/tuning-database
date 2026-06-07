@@ -1,0 +1,14 @@
+{
+  "brand": "PAGANI",
+  "model": "HUAYRA BC ROADSTER EVO",
+  "prestazioni": [
+    "AMG M158 6.0L V12 Biturbo (engine code: M158 E60 AL) upgraded with a bespoke Weistec Engineering Stage 3+ turbo kit featuring twin Garrett GTX5533R Gen II turbos, billet compressor wheels, and 106mm titanium-aluminide turbine wheels for 1,050+ HP at 8,000 RPM with 950 Nm of torque, paired with a reinforced 8-speed Pagani ZF transaxle (Pagani-specific internals) and a Drexler Motorsport limited-slip differential with carbon preload plates",
+    "Full titanium exhaust system by Capristo (Pagani BC Roadster Evo-specific) with 4.5-inch Inconel 625 downpipes, quad 3.5-inch center-exit outlets, and electronically controlled bypass valves for a 12 dB backpressure reduction, mated to a secondary catalytic converter delete (for track use only) with GESI high-flow sports cats for street legality",
+    "Custom Bosch Motorsport MS 2.8.1 ECU remap with Pagani-specific traction control (5-stage adjustable via Huayra Touch infotainment), anti-lag system (ALS) for turbo spool retention, and a 12,000 RPM rev limiter (up from 6,200 stock), paired with a Pectel SQ6M data logger for real-time telemetry and boost-by-gear mapping (1.2 bar in 1st-3rd, 1.5 bar in 4th-8th)"
+  ],
+  "estetica": [
+    "Full carbon-fiber aero package by Pagani Composite Research (PCR), including a BC-spec front splitter with active Gurney flaps (adjustable via hydraulic actuators), a rear diffuser with integrated titanium strakes, and a fixed rear wing with dual-element active flaps (30% more downforce than BC Roadster at 250 km/h, tested in Dallara wind tunnel)",
+    "Bespoke Brembo GT-RS 10-piston monobloc calipers (Pagani BC Evo-specific) with 420mm carbon-ceramic discs (CCM-R) and titanium pistons, paired with Pagani-designed titanium brake lines and Motul RBF 660 racing brake fluid for a 30% reduction in unsprung weight and 15% higher fade resistance",
+    "Custom Forgiato 21x10.5 (front) and 22x13.5 (rear) forged wheels with Pagani BC Evo-specific offsets (+25mm front, +35mm rear), wrapped in Pirelli P Zero Trofeo R tires (265/30 R21 front, 355/25 R22 rear) with a bespoke compound for 1.8g lateral grip, complemented by a titanium wheel nut kit by HRE Performance Wheels"
+  ]
+}

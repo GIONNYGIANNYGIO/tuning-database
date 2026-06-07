@@ -1,0 +1,14 @@
+{
+  "brand": "PAGANI",
+  "model": "HUAYRA DINASTIA",
+  "prestazioni": [
+    "AMG M158 6.0L V12 biturbo (engine code: M158 E60 AL) upgraded with a bespoke Weistec Engineering Stage 3+ hybrid turbo system featuring Garrett GTX5544R Gen II turbos with titanium-aluminide turbine wheels, billet compressor wheels, and 1.25 A/R turbine housings for 1,050+ HP at 2.2 bar boost (stock: 764 HP at 1.2 bar).",
+    "Full titanium 4-2-1 equal-length exhaust manifold by Capristo with Inconel 625 primary tubes, 3.5\" diameter, and integrated wastegate bypass valves, paired with a Capristo 102mm titanium center muffler and 120mm carbon-fiber rear outlets for optimized backpressure and 1,200 RPM faster spool.",
+    "Custom Motec M150 ECU with Pagani-specific CAN bus integration, running a 3D-printed titanium intake manifold with 12 individual throttle bodies (ITBs) by Pierburg, featuring 65mm throttle plates and a secondary port injection system with Bosch Motorsport 2,200cc/min injectors for E85 compatibility."
+  ],
+  "estetica": [
+    "Full carbon-fiber Dinastia-specific aero package by Pagani Composite Research, including a revised front splitter with active Gurney flaps (adjustable via hydraulic actuators), a rear diffuser with integrated 3D-printed titanium strakes, and a fixed rear wing with NACA ducts for brake cooling.",
+    "Bespoke Dinastia-exclusive livery by Bare Metal FX, featuring a multi-layered pearlescent \"Triple Crown Gold\" paint with hand-applied micro-flakes, clear-coated with PPG Vibrance Collection VC5750 for UV resistance, and pinstriped with 24K gold leaf accents on the Pagani script badges.",
+    "OZ Racing Ultraleggera HLT Dinastia wheels in a 20\"x9.5\" front / 21\"x12.5\" rear staggered setup, wrapped in Pirelli P Zero Trofeo R tires (265/30 R20 front, 355/25 R21 rear), with titanium wheel bolts by ARP and custom center-lock adapters for 30% weight reduction over stock."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "OPEL",
+  "model": "SENATOR 3.0I",
+  "prestazioni": [
+    "Engine swap to a **C30XE** (3.0L 24V DOHC, 204hp stock) with a **Schrick 272° camshaft kit** (intake/exhaust) and **Mahle Motorsport forged pistons** (8.5:1 compression for forced induction readiness), paired with **ARP head studs** and **Elring MLS head gasket** for 1.2bar boost compatibility.",
+    "Custom **Garrett GT3076R turbocharger** (externally wastegated) on a **Tial 44mm wastegate**, feeding into a **Spearco 4-core front-mount intercooler** (custom piping by **TurboSmart**) and **Siemens DEKA 80lb/hr injectors** (controlled via **Haltech Elite 2500 ECU** with **Bosch 0280158002 MAP sensor**).",
+    "**BorgWarner T56 Magnum 6-speed manual transmission** (from a **Chevrolet Camaro LS3**) with **Quaife ATB differential**, **South Bend Clutch Stage 3 twin-disc**, and **GKN CV driveshafts** (reinforced for 500+ lb-ft torque). Suspension overhaul with **Bilstein B16 PSS10 coilovers** (adjustable damping), **Eibach Pro-Kit springs** (-30mm drop), and **Whiteline adjustable sway bars** (24mm front, 22mm rear)."
+  ],
+  "estetica": [
+    "**Rieger Tuning Senator B Phase 2 widebody kit** (OEM+ fitment, 50mm flares) with **custom carbon fiber front splitter** (by **Prior Design**) and **rear diffuser** (integrated **Titanium exhaust tips** from **Supersprint**).",
+    "**BBS RS 17x9.5 ET15 wheels** (8.5J rear, +35 offset) wrapped in **Michelin Pilot Sport Cup 2** (245/40/17 front, 275/35/17 rear), paired with **AP Racing 6-piston front calipers** (355mm discs) and **Brembo 4-piston rears** (330mm discs).",
+    "**Full respray in Opel Arctic White (L90E)** with **3M Matte Black vinyl roof** and **custom gold pinstriping** (by **Kustoms by T** in Germany). Interior upgrades include **Recaro SRD Evo II seats** (retrimmed in **Nappa leather with Alcantara inserts**), **Momo Prototipo steering wheel** (380mm, quick-release), and **Defi BF gauges** (boost, oil temp, AFR) mounted in a **custom A-pillar pod**."
+  ]
+}

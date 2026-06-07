@@ -1,0 +1,14 @@
+{
+  "brand": "OPEL",
+  "model": "TIGRA",
+  "prestazioni": [
+    "ECU remap targeting the **Z16XE** (1.6L 16V) or **Z14XE** (1.4L 16V) engine with a custom **DTA S80 Pro** standalone ECU, optimizing ignition timing and fuel maps for 120+ hp (stock ~100 hp) with a 7,500 RPM redline and aggressive cam profiles via **Schrick 264° camshafts** (intake/exhaust) for high-end power delivery",
+    "Forced induction upgrade using a **Garrett GT2560R turbocharger** (0.63 A/R turbine housing) on the **Z16XE**, paired with a **Tial 44mm external wastegate**, **Sard 750cc/min fuel injectors**, and a **Custom Fabrication Services (CFS) top-mount intercooler** with 60mm core thickness, supporting 220-250 hp on 1.5 bar of boost with a **Walbro 255 lph fuel pump** and **AEM X-Series wideband O2 sensor** for AFR monitoring",
+    "Drivetrain reinforcement with a **Quaife ATB helical LSD** (6-speed F13/15 gearbox compatible), **Peloquin differential cover** with upgraded bearings, **AP Racing CP5270 clutch** (240mm twin-plate), and **GKN tripod CV joints** to handle increased torque, paired with **Bilstein B14 coilovers** (30mm drop) and **Eibach Pro-Kit springs** for chassis rigidity"
+  ],
+  "estetica": [
+    "Full **Rocket Bunny V1 aero kit** (Tigra-specific widebody conversion) with **custom carbon fiber overfenders**, **front canards**, and a **duckbill rear spoiler** (3D-printed from **Toray T700 carbon fiber**), reducing lift by 18% at 120 mph per wind tunnel testing",
+    "OEM+ restomod with **Recaro SRD-E bucket seats** (retrimmed in **Nappa leather with Alcantara suede inserts**), **Momo Prototipo steering wheel** (350mm, quick-release hub), and **Vintage Air Gen-IV SureFit climate control system** for cabin comfort, paired with a **custom roll cage** (TIG-welded **DOM 4130 chromoly**) for structural integrity",
+    "Lightweight **OZ Racing Ultraleggera HLT wheels** (15x8 ET20 front, 15x9 ET25 rear) wrapped in **Michelin Pilot Sport Cup 2** tires (195/45/15 front, 225/40/15 rear), with **Brembo GT 4-piston calipers** (305mm rotors) up front and **Wilwood Dynalite 2-piston calipers** (280mm rotors) at the rear, all painted **PPG Opel Arden Blue (93/94 spec)** with **gold hardware**"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "OPEL",
+  "model": "MERIVA OPC",
+  "prestazioni": [
+    "Engine: Z16LET (1.6L turbocharged I4) – Full forged internals including Mahle Motorsport forged pistons (86.5mm bore, 8.8:1 compression), Eagle H-beam connecting rods, and ACL Race Series bearings. Upgraded crankshaft with balanced and polished journals for 8,500 RPM stability.",
+    "Turbocharger: Garrett GT2867R .86 A/R turbo (hybrid core with billet compressor wheel) paired with a custom 3-inch stainless steel downpipe (no catalytic converter) and a GReddy Profec B Spec II boost controller for 2.2 bar (32 psi) peak pressure. Supporting mods include a PWR 4-core intercooler (350x225x62mm) and a custom 3-inch silicone intake piping system with a K&N cone filter (part #57-0262).",
+    "Fuel System: Bosch Motorsport 044 high-flow fuel pump (255 L/hr) with an Aeromotive FPR (adjustable base pressure 3.5-6 bar), Injector Dynamics ID1000 fuel injectors (1000cc/min), and a custom ECU tune via HP Tuners VCM Suite (Z16LET-specific OS) with flex-fuel capability (E85 compatible). Additional supporting mods include a custom 3/8-inch fuel rail and AN-6 braided lines from Earl's Performance."
+  ],
+  "estetica": [
+    "Body Kit: Custom 3-piece widebody conversion by Prior Design (PD-MERIVAWB) with extended front fenders (30mm per side), rear quarter panels (40mm per side), and a carbon fiber rear diffuser. Front bumper lip replaced with a custom 3D-printed ABS splitter (25mm overhang) with integrated canards (3x per side).",
+    "Suspension: KW Clubsport 3-way adjustable coilovers (8-position rebound, 12-position compression, adjustable ride height) with custom spring rates (8kg/mm front, 10kg/mm rear) and spherical bearing top mounts (front only). Polyurethane subframe bushings (SuperPro 63mm) and a Whiteline front sway bar (24mm adjustable) for reduced body roll.",
+    "Wheels & Aero: BBS LM-RS II (8.5x18 ET35 front, 9.5x18 ET30 rear) wrapped in Michelin Pilot Sport Cup 2 tires (225/40/18 front, 255/35/18 rear). Custom carbon fiber rear wing (dual-element, 1200mm span) by 9 Lives Racing with adjustable angle of attack (0-15 degrees) and integrated Gurney flap. Front fender vents (carbon fiber) for brake cooling, paired with AP Racing 6-piston calipers (355mm discs) and Ferodo DS2500 pads."
+  ]
+}

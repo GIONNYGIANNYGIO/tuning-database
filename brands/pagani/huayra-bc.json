@@ -1,0 +1,14 @@
+{
+  "brand": "PAGANI",
+  "model": "HUAYRA BC",
+  "prestazioni": [
+    "Mercedes-AMG M158 6.0L V12 Biturbo (engine code: M158 E60 AL) upgraded with a bespoke Weistec Engineering Stage 3+ turbo kit featuring twin Garrett GTX5533R Gen II turbos, billet compressor wheels, and 106mm titanium-aluminide turbine wheels for 1,050+ HP at 3.2 bar boost, paired with a Weistec 1000i intercooler system and custom 3.5-inch titanium downpipes with secondary wastegate bypass valves",
+    "Full titanium valvetrain overhaul with Del West titanium intake/exhaust valves (8mm stem), Carrillo H-beam titanium connecting rods, and a custom billet crankshaft by Pankl Racing Systems with 90mm stroke for 6.3L displacement, mated to a dry-sump oiling system with a Peterson Fluid Systems 8-stage pump and 12-quart titanium reservoir",
+    "Motec M150 ECU with Pagani-specific CAN bus integration, running a custom fuel system with twin Bosch Motorsport 400LPH high-pressure pumps, AEM 2000cc/min port injectors, and a secondary direct-injection system using Delphi Multec 2500cc injectors, controlled via a Link G4+ ECU for staged injection mapping, with a custom titanium fuel rail and AN-12 braided lines"
+  ],
+  "estetica": [
+    "Full carbon-fiber aero package by Pagani Automobili including a revised front splitter with active Gurney flaps (electrically adjustable via MoTeC PDM), a rear diffuser with integrated titanium strakes, and a fixed rear wing with a 1.2m chord and 3D-printed titanium endplates for 800kg of downforce at 250 km/h",
+    "Custom titanium exhaust system by Capristo featuring quad 100mm outlets with Inconel 625 headers, 3D-printed titanium mufflers with adjustable butterfly valves (controlled via the Motec ECU), and a secondary bypass system for track use, finished in ceramic-coated titanium for heat management",
+    "Bespoke interior by Sabelt featuring a full titanium roll cage with integrated fire suppression system (FEV 10lb Novec 1230 bottles), carbon-fiber bucket seats with 6-point harnesses (Sabelt 650 Series), and a custom titanium steering wheel with integrated MoTeC C127 dash display and paddle shifters for the Xtrac 7-speed sequential gearbox (paddle shift logic remapped via Motec for 50ms shifts)"
+  ]
+}

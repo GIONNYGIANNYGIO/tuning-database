@@ -1,0 +1,14 @@
+{
+  "brand": "OPEL",
+  "model": "INSIGNIA GSI",
+  "prestazioni": [
+    "Engine: Replace the stock **LEA 2.0L Turbo (A20NHT)** with a **Garrett GTX3582R** turbocharger (82mm compressor, 62mm turbine) paired with a **Forge Motorsport** billet aluminum intake manifold and **Siemens 630cc injectors** to support 400+ HP on E85 fuel. Retain the stock **Bosch MEVD17.2.9 ECU** but reflash with a **HP Tuners** custom tune optimized for 28 psi peak boost with a **TurboSmart 45mm wastegate** for precise control.",
+    "Drivetrain: Install a **Quaife ATB helical LSD** in the **M32 6-speed transmission** with **Fidanza lightweight flywheel** and **South Bend Stage 3 Clutch** to handle increased torque. Replace the stock **Opel CTS driveshafts** with **GKN Lobro CV joints** and **Peloquin differential bushings** to eliminate drivetrain slop under hard launches.",
+    "Suspension & Brakes: Swap the stock **FlexRide adaptive dampers** for **Öhlins Road & Track DFV coilovers** (custom valved for the Insignia’s 1,600kg weight) with **Eibach Pro-Kit springs** (20mm drop). Upgrade to **Brembo GT 6-piston 380mm front calipers** (from the **Alfa Romeo Giulia Quadrifoglio**) with **DBA 5000 Series rotors** and **Ferodo DS2500 pads**, paired with **Goodridge G-Stop braided stainless steel brake lines**."
+  ],
+  "estetica": [
+    "Aero: Install the **Prior Design PD800RS widebody kit** (OEM+ fitment, carbon fiber front splitter and rear diffuser) with **Vortex Generator canards** (3D-printed from **CarbonRev**) on the front bumper. Replace the stock rear spoiler with a **Seibon Carbon GT wing** (1,200mm width, 300mm height) mounted on **custom aluminum pedestals** for adjustable angle.",
+    "Exterior: Dechrome the entire body and apply a **3M Matte Military Green (212)** vinyl wrap with **Avery Dennison Gloss Black** accents on the roof, mirror caps, and lower rocker panels. Replace the stock headlights with **Morimoto XB LED projectors** (Bi-Xenon retrofit) and **Lux H8 Angel Eyes** (RGBW, 6,000K), paired with **Depo Racing JDM-style taillights** (sequential turn signals).",
+    "Wheels & Stance: Mount **BBS LM-R 9.5x19 ET35** wheels (gold finish) with **Michelin Pilot Sport Cup 2** tires (255/35/19 front, 285/30/19 rear) on **H&R TRAK+ wheel spacers** (15mm front, 20mm rear). Lower the car an additional 10mm with **Whiteline adjustable rear toe arms** and **SuperPro poly bushings** in the subframe to eliminate wheel hop under hard acceleration."
+  ]
+}

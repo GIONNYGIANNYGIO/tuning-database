@@ -1,0 +1,14 @@
+{
+  "brand": "OPEL",
+  "model": "OMEGA 3.0 V6",
+  "prestazioni": [
+    "Engine: Replace the stock **C30SE** (3.0L 24V V6, 210 PS) with a fully built **C30XE** (3.0L 24V Cosworth-developed 'Lotus Omega' engine, 204 PS in stock form) featuring a forged crankshaft (Mahle 86.0mm stroke), forged pistons (JE 9.5:1 compression), and Carrillo H-beam connecting rods. Pair with a custom Schrick 272° camshaft kit and ported/polished cylinder heads by **Spiess Motorsport** for 300+ PS on 98 RON fuel.",
+    "Forced Induction: Install a **Garrett GT3582R** turbocharger (0.82 A/R turbine housing) with a custom **Tial MV-R 44mm** wastegate and **TurboSmart Comp-Gate 40** blow-off valve. Use a **Spearco 4-core front-mount intercooler** (700x250x76mm) and a **Bosch 044** fuel pump with **Siemens DEKA 60lb/hr** injectors. Tune via **Hondata K-Pro** adapted for the **Bosch Motronic M2.8.1** ECU with a **MoTeC M800** piggyback for advanced mapping.",
+    "Drivetrain: Swap the stock **Getrag 420G** 5-speed manual for a **ZF 6HP26** 6-speed automatic (from the BMW E65 7 Series) with a **Level 10 Motorsports** valve body upgrade. Install a **Quaife ATB LSD** (85% lock) and a **Peloquin** differential cover with upgraded clutch packs. Use a **South Bend Clutch** Stage 3 daily disc and **Spec Aluminum Flywheel** for durability."
+  ],
+  "estetica": [
+    "Body Kit: Fit the **Kamei Omega Aero Kit** (OEM+ style, 1980s German tuner classic) with **Rieger Tuning** front splitter and rear diffuser. Replace bumpers with **Irmscher Omega Evolution II** units (1992 homologation special) and add **Oettinger** side skirts. Use **Hella Rallye 3000** headlights with **Morimoto HID Projectors** and **Lamin-X** clear covers.",
+    "Wheels/Suspension: Mount **BBS RS-GT II** 9x18 ET25 wheels (84.1mm center bore) with **Michelin Pilot Sport Cup 2** tires (245/40/18 front, 275/35/18 rear). Install **Bilstein B16 PSS10** coilovers (80mm drop) with **Eibach Pro-Kit** helper springs and **H&R** 25mm front/20mm rear sway bars. Use **Powerflex** polyurethane bushings (black series) for subframe and control arms.",
+    "Interior: Replace seats with **Recaro SRD** (from the Opel Calibra Turbo) in **Nappa leather** with **Schroth Profi II** 4-point harnesses. Install a **Momo Mod.78** steering wheel (350mm) on a **NRG Innovations** quick-release hub. Add a **Defi BF** gauge cluster (oil temp, boost, AFR) in a **Vintage Air** A/C delete panel. Use **Dynamat Xtreme** sound deadening and **Alcantara** headliner with **LED** ambient lighting."
+  ]
+}

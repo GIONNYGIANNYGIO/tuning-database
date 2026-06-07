@@ -1,0 +1,14 @@
+{
+  "brand": "PAGANI",
+  "model": "HUAYRA CODALUNGA GT",
+  "prestazioni": [
+    "AMG M158 6.0L V12 Biturbo (engine code: M279) upgraded with a bespoke Weistec Engineering Stage 3+ hybrid turbo system featuring twin Garrett GTX5533R Gen II turbos with 76mm billet compressor wheels, titanium-aluminide turbine wheels, and 1.25 A/R turbine housings for optimized spool and 1,100+ HP capability on E85 fuel",
+    "Full titanium 4.5-inch straight-pipe exhaust system by Capristo with 200-cell catalytic converters, Inconel 625 headers, and electronically actuated bypass valves for track-day sound compliance (110dB limit)",
+    "Pagani-specific Motec M150 ECU reflash with custom lambda-based fueling maps for the M279’s direct and port injection systems, paired with a Pectel SQ6M standalone for traction control and launch control optimization (0-60 mph in 2.2s)"
+  ],
+  "estetica": [
+    "Custom carbon-fiber ‘Codalunga’ longtail body kit by Pagani’s in-house composite division, featuring a 300mm extended rear overhang with integrated active Gurney flaps and a rear diffuser with 3D-printed titanium vortex generators for -28% drag coefficient",
+    "Bespoke Brembo GT-RS 9.5kg carbon-ceramic brake kit with gold-anodized calipers (6-piston front, 4-piston rear) and Pagani-specific brake ducts with NACA inlets for thermal management (1,200°C fade resistance)",
+    "OZ Racing Ultraleggera HLT 21-inch forged wheels (9.5x21 front, 12.5x21 rear) with Pirelli P Zero Trofeo R tires (265/30 R21 front, 355/25 R21 rear) and Pagani’s proprietary tire pressure monitoring system with real-time telemetry"
+  ]
+}

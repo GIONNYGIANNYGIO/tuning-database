@@ -1,0 +1,14 @@
+{
+  "brand": "OPEL",
+  "model": "KADETT GSI",
+  "prestazioni": [
+    "Engine swap to a C20XE 16V 'Red Top' (2.0L, 150hp stock) with a custom forged crankshaft (Mahle 86mm stroke) and forged pistons (JE 8.5:1 compression) for a 2.2L stroker build, paired with a Garrett GT2860RS turbocharger (0.63 A/R turbine housing) and a custom 3-inch stainless steel exhaust with a Scorpion 4-2-1 manifold and a Tial 38mm wastegate",
+    "Full standalone ECU conversion using a Link G4+ Xtreme with custom wiring harness (Painless Performance) and a Bosch 0280155564 3.5-bar MAP sensor, tuned for 1.2 bar boost with E85 flex-fuel capability and a custom intercooler setup (GReddy Type-S front-mount, 600x300x76mm core)",
+    "Suspension overhaul with KW Variant 3 coilovers (80mm strut bodies, adjustable rebound/compression) and polybushings (SuperPro 62mm front control arms, rear trailing arm bushings), paired with a Whiteline 22mm rear sway bar and a custom front strut tower brace (Autowerks, 3mm thick steel)"
+  ],
+  "estetica": [
+    "Full Rocket Bunny V1 widebody kit (fiberglass fenders, custom front bumper with integrated canards, and a carbon fiber duckbill spoiler) painted in Opel Arden Blue (original GSi color) with a satin clear coat",
+    "OEM+ interior refresh with Recaro SRD-E seats (retrimmed in Nappa leather with Alcantara inserts) and a custom roll cage (Autopower bolt-in 6-point, 1.75-inch DOM tubing) painted in gloss black with red accent stitching on the dashboard and door cards",
+    "Exterior lighting upgrade with Hella Evo X projectors (bi-xenon, 4500K) in the stock housings, custom LED taillights (Vland sequential, smoked lenses), and a carbon fiber hood (Seibon, 3.5kg weight reduction) with a functional NACA duct for intercooler airflow"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "PAGANI",
+  "model": "HUAYRA",
+  "prestazioni": [
+    "AMG M158 6.0L V12 Biturbo (engine code: M158 E60 AL) upgraded with a bespoke Weistec Engineering Stage 3+ turbo kit featuring twin Garrett GTX5533R Gen II turbos, billet compressor wheels, and 1.2 bar peak boost, paired with a custom titanium exhaust system by Capristo with 102mm carbon-fiber tips and electronically controlled bypass valves for active sound modulation",
+    "Full Motec M150 ECU and PDM (Power Distribution Module) standalone management with custom 4D ignition and fuel maps, integrated with a Pectel SQ6M data logger for real-time telemetry, including individual cylinder pressure monitoring via Kistler 6061B spark-plug-integrated sensors",
+    "Ohlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression), custom valving for Pagani’s monocoque chassis, and integrated ride-height sensors for active aerodynamics, paired with a bespoke AP Racing 6-piston monobloc caliper upgrade with 420mm carbon-ceramic rotors and Pagani-specific brake pads (Ferodo DS3000 compound)"
+  ],
+  "estetica": [
+    "Full carbon-fiber bodywork replacement with a custom Pagani Zonda Cinque-inspired aero package by Novitec Torado, including a 3D-printed titanium front splitter with active Gurney flaps (adjustable via hydraulic actuators), a rear diffuser with integrated LED brake cooling ducts, and a fixed carbon-fiber rear wing with a 1,200mm span and NACA-profile side supports",
+    "Bespoke interior reupholstery by Sabelt featuring a full Alcantara and carbon-fiber trim package with diamond-stitching, including a custom roll cage by Matter Italy (T45 steel, 3mm wall thickness) with integrated fire suppression system (AFFF foam, 5kg capacity) and a digital dash cluster by AIM MXS Strada with a 7-inch TFT display and real-time G-force readouts",
+    "Custom forged magnesium wheels by HRE (FF15 model, 20x10.5 front / 21x12.5 rear) with a 3-piece modular design, titanium hardware, and Michelin Pilot Sport Cup 2 R tires (265/30 ZR20 front, 325/25 ZR21 rear) mounted via a pneumatic tire-changing system by Corghi Artiglio Master"
+  ]
+}
