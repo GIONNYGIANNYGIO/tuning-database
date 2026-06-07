@@ -1,0 +1,14 @@
+{
+  "brand": "PLYMOUTH",
+  "model": "GTX HEMI",
+  "prestazioni": [
+    "Engine: Replace the factory 426ci (7.0L) HEMI RB-series (engine code: A102) with a forged internals build featuring a Callies DragonSlayer crankshaft (4.25\" stroke), Manley I-beam connecting rods (6.860\" length), and JE Pistons forged aluminum slugs (12.5:1 compression ratio) for 800+ hp on race gas. Pair with a custom camshaft grind from Comp Cams (280/290 duration, .650\" lift, 114 LSA) and a T&D Machine shaft-mount rocker system (1.7:1 ratio) for optimized valvetrain stability at high RPM.",
+    "Forced Induction: Install a ProCharger F-3R centrifugal supercharger (12 psi boost) with a custom intercooler setup featuring a Bell Intercoolers front-mount core (1200 CFM airflow) and dual 10AN coolant lines routed through a Setrab oil cooler to maintain intake temps below 120°F. Use a Holley Dominator EFI system with a custom tune from Lund Racing to manage fueling via dual Bosch 044 fuel pumps and ID1700x injectors.",
+    "Drivetrain & Suspension: Swap the factory TorqueFlite 727 transmission for a TCI Rattler 4-speed automatic with a 3,500-stall torque converter and a B&M SuperCooler transmission cooler. Install a Strange Engineering 9\" Ford-style rear end with 4.56:1 gears, a Detroit Locker differential, and Moser axles. Replace the stock suspension with a Hotchkis TVS Stage 3 kit (polyurethane bushings, 2\" drop springs, and adjustable rear leaf springs) paired with QA1 double-adjustable coilovers up front and a Hellwig sway bar kit (1.25\" front, 1\" rear)."
+  ],
+  "estetica": [
+    "Body: Apply a full custom widebody conversion using a RareWorx GTX-specific kit (3.5\" fender flares, carbon fiber hood with functional scoop, and a custom rear ducktail spoiler). Paint the car in a period-correct Hemi Orange with black racing stripes and a matte black roof, using PPG Deltron DBC basecoat/clearcoat for durability.",
+    "Wheels & Tires: Mount a set of 18x10.5\" (front) and 18x12\" (rear) Forgeline GA3R wheels in a custom bronze finish, wrapped in Mickey Thompson ET Street R radials (295/40R18 front, 335/35R18 rear). Use Baer 14\" 6-piston front brake calipers with 2-piece rotors and a Wilwood 13\" 4-piston rear setup for stopping power.",
+    "Interior: Gut the cabin and install a full TMI Products custom interior with Alcantara headliner, Recaro SRD bucket seats (with Schroth 6-point harnesses), and a custom roll cage from Chassisworks (8-point, mild steel). Replace the stock gauges with a Dakota Digital HDX series dash (mechanical tach, boost, and fuel pressure readouts) and add a Sparco steering wheel on a NRG quick-release hub."
+  ]
+}

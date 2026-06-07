@@ -1,0 +1,14 @@
+{
+  "brand": "PININFARINA",
+  "model": "BATTISTA HYPER GT",
+  "prestazioni": [
+    "Engine: Rimac-sourced quad-motor electric powertrain (codename: RIMAC C_TWO E-DRIVE), upgraded with Cascadia Motion CM200DX inverters for 1,200 kW (1,609 hp) peak output and 2,300 Nm torque via custom silicon carbide MOSFET firmware (v2.3.4) to eliminate thermal throttling under sustained 3.5-second 0-60 mph acceleration",
+    "Battery: Rimac 120 kWh lithium-manganese-nickel (LiMnNi) battery pack recalibrated with Webasto CV standard liquid cooling system (flow rate: 120 L/min) and integrated 800V DC fast-charging via Mennekes CCS Combo 2 plug, enabling 80% charge in 12 minutes at 350 kW stations",
+    "Suspension: Öhlins TTX46 MkII coilovers with 3-way adjustable damping (compression/rebound/blow-off), paired with Pininfarina-specific carbon-fiber wishbones (front: 1.2 kg, rear: 1.5 kg) and spherical bearings from Aurora Bearing (AB-10T) for sub-0.1° deflection at 2.5G lateral loads"
+  ],
+  "estetica": [
+    "Aero: Pininfarina-designed 'Furiosa' carbon-fiber body kit (front splitter: 3D-printed titanium honeycomb core, rear diffuser: active Gurney flap with 4-stage deployment via Bosch ECU integration) reducing drag coefficient to Cd 0.24 while generating 1,200 kg downforce at 250 km/h",
+    "Wheels: HRE FF16 flow-formed forged wheels (20x9.5 front, 21x12.5 rear) with center-lock titanium nuts (McGard 24457) and Michelin Pilot Sport Cup 2 R tires (265/35 ZR20 front, 325/30 ZR21 rear) featuring custom compound (PS2R+ with 10% graphene infusion) for 1.8G cornering",
+    "Interior: Recaro Pole Position carbon-fiber bucket seats (shell: T800 carbon, padding: Alcantara/kevlar hybrid) with Schroth 6-point harnesses (Professional II-6) and a Momo Prototipo steering wheel (380mm diameter, 12Nm resistance) featuring integrated AIM MXS Strada data display (12Hz GPS, 24-bit ADCs for suspension travel)"
+  ]
+}

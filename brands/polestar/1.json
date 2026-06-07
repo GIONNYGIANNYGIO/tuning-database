@@ -1,0 +1,14 @@
+{
+  "brand": "POLESTAR",
+  "model": "1",
+  "prestazioni": [
+    "Upgrade to a **Garrett GTX4202R** turbocharger (hybrid) for the **B234T2** 2.0L twin-charged inline-4, paired with a **Precision Turbo & Engine 46mm wastegate** to handle the increased boost (targeting 28-30 psi) while maintaining the OEM hybrid powertrain balance with the rear electric motors (total system output: ~800 hp / 750 lb-ft).",
+    "Install a **Pectel SQ6M** standalone ECU with **Motec C125** dash integration to manage the **B234T2**’s direct injection, port injection (via **Injector Dynamics ID1700x** secondary injectors), and the **GKN eAxle** rear electric motors, ensuring seamless torque vectoring and hybrid power delivery under extreme loads.",
+    "Replace the OEM **Aisin AW TF-80SC** 8-speed transmission with a **Xtrac P1227** 6-speed sequential gearbox (modified for Polestar 1’s AWD hybrid layout) and a **Tilton triple-plate carbon clutch** to handle the increased torque, paired with a **Quaife ATB differential** for the front axle and a **Wavetrac limited-slip differential** for the rear."
+  ],
+  "estetica": [
+    "Install a **Rocket Bunny V3 (Polestar 1-specific)** widebody kit with **custom carbon fiber overfenders** (front: +50mm, rear: +70mm) to accommodate the **OZ Racing Ultraleggera HLT 20x10.5 ET35 (front) / 20x12 ET45 (rear)** wheels, wrapped in **Michelin Pilot Sport Cup 2 R** tires (275/30/20 front, 315/30/20 rear).",
+    "Replace the OEM front splitter and rear diffuser with a **Voltex Type-5 (Polestar 1-specific)** aero package, featuring a **dual-element adjustable carbon fiber splitter** (30mm overhang) and a **3-piece GT-style rear wing** (adjustable angle: 0-20 degrees) with **integrated Gurney flaps** for downforce optimization (target: 300 kg at 200 km/h).",
+    "Full **bare carbon fiber** interior overhaul with **Recaro SPG XL (Polestar 1-specific)** bucket seats (retaining OEM side airbags), **Schroth Profi II 6-point harnesses**, and a **MOMO Mod.70** steering wheel (retaining Polestar’s drive mode selector), paired with a **custom roll cage** (TIG-welded 4130 chromoly, **Sparco Pro 2000** design) for chassis rigidity and safety."
+  ]
+}

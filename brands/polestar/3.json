@@ -1,0 +1,14 @@
+{
+  "brand": "POLESTAR",
+  "model": "3",
+  "prestazioni": [
+    "Volvo P8 AWD (B4204T48) 3.0L twin-charged inline-6 hybrid powertrain: Full hybrid system recalibration via Polestar Performance Software (PPS) v2.0 with custom ECU flash by Dyno Dynamics Sweden, targeting 550 hp (410 kW) and 750 Nm (553 lb-ft) while retaining OEM torque vectoring and AWD dynamics. Includes upgraded hybrid battery cooling via PWR Performance intercooler core and custom heat exchanger setup for sustained high-load operation.",
+    "Garrett GTX3582R turbocharger upgrade with billet compressor wheel (60mm inducer, 82mm exducer) and TiAL Sport MV-R 44mm wastegate, paired with custom 3.5-inch stainless steel downpipe by Armytrix with 200-cell catalytic converters for emissions compliance. Boost pressure set to 24 psi (1.65 bar) with custom turbo speed sensor integration via Motec M150 ECU for real-time monitoring.",
+    "Ohlins Road & Track DFV coilovers with 30-way adjustable compression/rebound damping, custom spring rates (8K front, 10K rear), and Polestar-specific top mounts by AST Suspension. Includes front sway bar upgrade to 28mm hollow-core by H&R and rear subframe reinforcement via custom aluminum strut brace by Cusco Japan for reduced chassis flex under high-G cornering."
+  ],
+  "estetica": [
+    "Rocket Bunny Pandem Polestar 3 widebody kit (Type 2) with carbon fiber fenders, front splitter, and rear diffuser, including custom 3D-printed ABS wheel arches for aggressive tire clearance (285/30R22 front, 305/25R22 rear). Painted in PPG 'Liquid Silver' with matte black accents and custom vinyl overlay by Avery Dennison for heat dissipation.",
+    "Volk Racing TE37V MAG in 22x10.5J +30 offset (front) and 22x12J +25 offset (rear) with custom titanium wheel bolts by Bimecc, wrapped in Michelin Pilot Sport Cup 2 R tires (285/30R22 front, 305/25R22 rear). Includes custom forged aluminum center caps by Work Wheels with Polestar logo engraving.",
+    "Custom carbon fiber engine cover by Seibon with integrated LED lighting by Diode Dynamics, paired with a full titanium exhaust system by Akrapovic (4.5-inch outlets) with carbon fiber tips and active sound tuning via Polestar's Android Automotive OS. Includes a custom front grille insert by 3D Carbon with laser-etched Polestar emblem and active cooling vents."
+  ]
+}

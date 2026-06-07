@@ -1,0 +1,14 @@
+{
+  "brand": "POLESTAR",
+  "model": "2 BST EDITION 270",
+  "prestazioni": [
+    "Upgrade to a **Perrin Performance** front-mount intercooler (FMIC) with a 3.5\" core thickness and integrated charge pipe kit, designed specifically for the **Volvo P8 (B4204T36)** 2.0L twin-charged inline-4, reducing intake temps by 25°C under full boost (22 psi) while eliminating the OEM plastic charge pipes prone to failure at 400+ hp.",
+    "Install a **Cobb Accessport** with a custom **PTF (Polestar Tuning Factory) Stage 2+ ECU/TCU flash**, optimizing the **Bosch MED17.0.11** ECU for E85 flex-fuel (up to 50% blend) with revised ignition timing maps (-3° to +1° advance), boost targets (24 psi peak, tapering to 20 psi), and torque limits raised to 550 Nm (from 430 Nm stock) with a 7,200 RPM fuel cut extension.",
+    "Replace the OEM **Mitsubishi TD04HL-15T** turbochargers with **Garrett GTX3076R Gen II** twins (62mm compressor, 56mm turbine), paired with **TurboSmart Kompact 45mm** external wastegates (set to 22 psi base pressure) and **GReddy Profec B Spec II** boost controller for linear spool (0.5s faster to full boost) and 500+ hp capability on E50 with supporting mods."
+  ],
+  "estetica": [
+    "Fit a **Rocket Bunny V3** widebody kit (carbon fiber fenders, front/rear bumpers, and side skirts) with **custom BST Edition 270-specific** aggressive canards and a duckbill rear spoiler, increasing front downforce by 40% at 120 mph while maintaining the OEM Polestar matte \"Thunder Gray\" finish with **3M 2080 Gloss Black** accents on the fender flares.",
+    "Swap the OEM 20\" wheels for **BBS FI-R** 21x9.5 ET35 (front) and 21x11 ET40 (rear) in **Gloss Gunmetal**, wrapped in **Michelin Pilot Sport Cup 2 R** 265/30/21 (front) and 295/25/21 (rear) semi-slick tires, reducing unsprung weight by 12 lbs per corner and improving lateral grip to 1.3g on track.",
+    "Install a **Seibon Carbon** full dry carbon fiber hood (with integrated NACA ducts for brake cooling) and **APR Performance** carbon fiber front splitter (35mm overhang), reducing front-end lift by 60% at 100 mph while adding **custom BST Edition 270** gold-painted **OMP Racing** tow hooks and a **VRSF** titanium exhaust tip (102mm dual-wall) for a signature look."
+  ]
+}

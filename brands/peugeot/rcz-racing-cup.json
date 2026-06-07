@@ -1,0 +1,14 @@
+{
+  "brand": "PEUGEOT",
+  "model": "RCZ RACING CUP",
+  "prestazioni": [
+    "EP6CDTR (1.6L THP 270hp Racing Cup engine) full forged internals: Manley 86mm forged pistons (9.5:1 CR), Eagle H-beam connecting rods, ACL Race Series bearings, and ARP head studs (200,000 psi) for 320hp/300Nm on 102 RON fuel with 1.5 bar boost via Garrett GT2867R turbo (0.86 A/R, 60 trim compressor, 76 trim turbine).",
+    "Custom 3.5\" titanium downpipe (GESI Engineering) with 200-cell catalytic converter and Akrapovič 70mm titanium exhaust system (RCZ-specific routing, no resonator, straight-pipe post-cat) for 12% backpressure reduction and 380Hz exhaust note at 6,800 RPM.",
+    "Bosch Motorsport MS2.8.1 ECU with custom 20x20 ignition/fuel maps (developed by Oreca for Peugeot Sport), paired with a Pectel SQ6M data logger (100Hz sampling) and a 4-bar MAP sensor (Honeywell PX3) for real-time boost control and knock detection via 4x Kistler 6052C piezoelectric sensors."
+  ],
+  "estetica": [
+    "Peugeot Sport Racing Cup carbon fiber front splitter (part #9551.C5) with integrated 30mm dive planes and 50mm adjustable Gurney flap (CFRP pre-preg, 1.2kg weight), paired with a custom 3D-printed ABS rear diffuser (Aeroflow Dynamics) for -220kg @ 200km/h downforce.",
+    "OMP Racing HTE-R carbon fiber bucket seats (FIA 8862-2009 homologated) with Schroth Profi II 6-point harnesses (2\" polyester webbing, quick-release camlock), mounted on custom aluminum seat rails (TIG-welded 6061-T6, -30mm drop) for optimal pedal reach with AP Racing CP5555 front calipers.",
+    "Peugeot Sport Racing Cup carbon fiber roof (part #9551.C6, 4.8kg weight reduction) with integrated rain light (Hella Rallye 2000, 10W LED) and custom carbon fiber side skirts (AeroCatch, 3mm CFRP) featuring NACA ducts for rear brake cooling (30% airflow increase to AP Racing CP5334 calipers)."
+  ]
+}

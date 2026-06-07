@@ -1,0 +1,14 @@
+{
+  "brand": "POLESTAR",
+  "model": "4",
+  "prestazioni": [
+    "Hybrid powertrain recalibration targeting the **P1H electric motor (front) + 2.0L VEA B4204T48 (engine code) turbocharged inline-4 (rear)**, with a custom ECU flash from **Dimsport Genius** to optimize torque split (60:40 rear bias) and raise the overboost threshold to 28 psi for 0.5s bursts, paired with a **Garrett GTX3582R turbocharger** (82mm compressor, 62mm turbine) on a **custom 3.5-inch downpipe** with **Tial MV-R 44mm wastegate**",
+    "Full **PSS9000** hybrid-compatible suspension system by **Öhlins**, featuring **DFV (Dual Flow Valve) dampers** with **3-way adjustable compression/rebound**, **24mm front/22mm rear adjustable anti-roll bars** from **H&R**, and **polyurethane subframe bushings** from **034 Motorsport** to eliminate torque steer under hard launches",
+    "Dual **AP Racing CP9660** 4-piston front calipers with **380mm CCM-X rotors** (floating, two-piece) and **Ferodo DS2500** pads, paired with **Brembo GT 6-piston rear calipers** and **355mm rotors**, all running on **Motul RBF 660** brake fluid for 300°C+ heat resistance; **Goodridge G-Stop braided lines** for pedal firmness"
+  ],
+  "estetica": [
+    "**Rocket Bunny V3 widebody kit** (Polestar 4-specific, 30mm front/40mm rear fender flares) with **custom carbon fiber side skirts** (pre-preg autoclave, 2x2 twill weave) and **dual-element rear diffuser** by **PURE8 MOTORSPORT**, integrating **active aero flaps** (OEM-style, but reprogrammed via **Cobb Accessport** for 0.3s response time)",
+    "**HRE FF17** forged wheels (20x9.5 +35 front, 21x11 +40 rear) in **matt bronze finish**, wrapped in **Michelin Pilot Sport Cup 2 R** tires (265/35/20 front, 295/30/21 rear) with **custom TPMS sensors** from **Vibrant Performance** for real-time pressure/temp monitoring via **AEM CD-7 dash**",
+    "**Seibon Carbon** full dry carbon fiber hood (30% weight reduction) with **functional NACA ducts** feeding the **Garrett turbo** and **PWR radiator**, paired with **custom LED headlight delete** (replaced with **Lumileds Luxeon Z ES** projectors in **Gloss Black housings**) and **Oracle Lighting RGB halo rings** (syncable to **Link ECU** for boost-based color shifts)"
+  ]
+}

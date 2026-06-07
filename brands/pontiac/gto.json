@@ -1,0 +1,14 @@
+{
+  "brand": "PONTIAC",
+  "model": "GTO",
+  "prestazioni": [
+    "LS2 (6.0L V8, Gen IV) engine block reinforced with Darton MID sleeves (0.040\" overbore) and forged internals: Manley 4340 I-beam connecting rods, Diamond Racing pistons (12.5:1 CR), and a Callies Compstar crankshaft for 450+ HP reliability on E85",
+    "Custom turbo system: Garrett GTX4202R (88mm) turbocharger with a Tial MV-R 44mm wastegate, Precision Turbo 6266 intercooler, and a custom 3.5\" stainless steel exhaust with Burns Stainless 1-7/8\" headers and a Vibrant 1799 resonator for optimized scavenging",
+    "Holley Dominator EFI ECU with a custom LS2-specific tune by Lund Racing, featuring a 2-bar MAP sensor, AEM X-Series wideband O2 sensors, and a Nitrous Express Gen-X Direct Port system (150-shot) for on-demand power spikes"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (GTO-specific) with custom carbon fiber overfenders, front splitter, and rear diffuser, paired with a Seibon carbon fiber hood (LS2 heat extractor ducts)",
+    "Ohlins Road & Track coilovers (GTO-specific valving) with Eibach ERS springs (1.5\" drop) and Whiteline adjustable sway bars (24mm front, 22mm rear) for chassis rigidity",
+    "Brembo GT 6-piston front calipers (380mm rotors) and 4-piston rear calipers (355mm rotors) with Ferodo DS2500 brake pads, paired with DBA 5000 Series slotted rotors and Goodridge G-Stop braided stainless steel lines"
+  ]
+}

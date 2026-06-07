@@ -1,0 +1,14 @@
+{
+  "brand": "PONTIAC",
+  "model": "BONNEVILLE HO",
+  "prestazioni": [
+    "Engine: Replace the stock **L67 3.8L Supercharged V6 (Series II)** with a **GM Performance Parts L36 4.6L Northstar V8 (LS6 block prep)** using a **Holley Dominator EFI system** and **Forged Mahle pistons (9.5:1 CR)** paired with **Manley H-beam connecting rods** for 550+ HP on **93 octane** with a **Vortex V3 supercharger (10 psi boost)** and **ARP head studs**.",
+    "Drivetrain: Swap the **4T65-E HD transmission** for a **4L80E (GM Performance Parts Stage 2)** with a **TCI StreetFighter torque converter (3,000 stall)** and **B&M SuperCooler transmission cooler** to handle the increased power. Install a **Strange Engineering 9-inch rear end (3.73:1 gear ratio)** with **Moser 31-spline axles** and a **Detroit Truetrac differential**.",
+    "Suspension/Braking: Replace stock suspension with **Bilstein B16 PSS9 coilovers (custom valved for Bonneville chassis)** and **Hotchkis Sport Suspension sway bars (25mm front, 22mm rear)**. Upgrade braking with **Brembo GT 6-piston front calipers (355mm rotors)** and **2-piston rear calipers (330mm rotors)** paired with **Hawk HT-10 brake pads** and **Goodridge G-Stop stainless steel brake lines**."
+  ],
+  "estetica": [
+    "Body: Install a **RK Sport Bonneville HO-specific widebody kit** with **carbon fiber front splitter (RK Sport)** and **custom rear diffuser (custom fabricated from 3mm aluminum)**. Replace bumpers with **RK Sport front/rear bumpers (retaining OEM grille but adding a **Seibon carbon fiber hood (functional scoop)**).",
+    "Wheels/Tires: Mount **Forgeline GA3R 19x9.5 (ET25) front and 19x11 (ET45) rear wheels** with **Michelin Pilot Sport Cup 2 tires (275/35/19 front, 305/30/19 rear)**. Use **H&R Trak+ wheel spacers (15mm front, 25mm rear)** for aggressive flush fitment.",
+    "Interior: Replace stock seats with **Recaro SRD-LW (carbon fiber backs)** and **Schroth Profi II 6-point harnesses**. Install a **Momo Mod.78 steering wheel (350mm, suede)** with a **NRG quick-release hub**. Add a **Defi BF Advance gauge cluster (boost, oil temp, wideband AFR)** and **custom aluminum pedal covers (Wilwood)** for weight reduction."
+  ]
+}

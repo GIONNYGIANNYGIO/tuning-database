@@ -1,0 +1,14 @@
+{
+  "brand": "PONTIAC",
+  "model": "GRAND AM GT",
+  "prestazioni": [
+    "Engine swap to a **LS3 6.2L V8 (GM Gen IV, 430 HP stock)** with a **Holley Dominator EFI ECU** and **FAST 102mm LSX intake manifold** for optimized airflow, paired with a **Tremec TR-6060 6-speed manual transmission** and **Spec Stage 3+ clutch** for high-torque durability. The LS3 will be stroked to **416ci (6.8L)** using a **Callies Compstar crankshaft (4.000\" stroke)**, **Manley H-beam connecting rods**, and **JE 2618 forged pistons (11.5:1 compression)** for boost readiness.",
+    "Forced induction via a **Precision Turbo PT6266 CEA turbocharger (62mm, .82 A/R)** with a **Turbonetics Racegate 44mm wastegate** and **Custom 3\" stainless steel turbo manifold (Schoenfeld Headers design)**. The intercooler setup includes a **VRSF 5\" core FMIC (700whp capable)** with **Mishimoto silicone couplers and T-bolt clamps**, fed by a **Walbro 450 LPH in-tank fuel pump** and **ID1000x injectors** for E85 compatibility.",
+    "Suspension overhaul with **BC Racing BR coilovers (GT-spec, 8kg/mm front / 7kg/mm rear springs)** and **Whiteline adjustable sway bars (24mm front, 22mm rear)** to eliminate body roll. The rear subframe is reinforced with a **Custom Fabrication rear subframe brace (1/4\" steel)** and **Energy Suspension polyurethane bushings (full kit)**. Braking is upgraded to **Brembo GT 4-piston calipers (14\" rotors front, 13\" rear)** with **Hawk HT-10 brake pads** and **Goodridge G-Stop braided stainless steel lines**."
+  ],
+  "estetica": [
+    "Widebody conversion using a **RK Sport Grand Am GT widebody kit (2.5\" flares front/rear, carbon fiber fenders)** with **Custom 3M Matte Military Green wrap (with satin black accents)**. The front bumper is replaced with a **RK Sport GT-spec lip spoiler** and **Custom carbon fiber splitter (3\" overhang, 3M VHB tape + aluminum supports)** for downforce.",
+    "Rear aero includes a **RK Sport GT-spec carbon fiber trunk spoiler (4\" tall, adjustable angle)** and **Custom diffuser (3D-printed ABS, 3-channel design)** with **Duraflex side skirts (painted to match)**. Wheels are **Forgeline GA3R 18x9.5 +25 front / 18x10.5 +35 rear (ET25/ET35)** wrapped in **Michelin Pilot Sport Cup 2 tires (255/40/18 front, 285/35/18 rear)** for staggered grip.",
+    "Interior stripped and reinforced with a **Custom bolt-in roll cage (8-point, 1.75\" DOM tubing, TIG-welded)** and **Sparco Pro 2000 seats (fixed-back, FIA-approved)** with **Schroth 6-point harnesses**. The dashboard is replaced with a **Custom carbon fiber panel (1/8\" thick, CNC-machined)** housing a **Motec C127 dash display** and **AEM CD-7 digital gauge cluster**. The rear seats are removed and replaced with a **Custom aluminum storage box (for fire extinguisher, tools, and spare ECU)**."
+  ]
+}

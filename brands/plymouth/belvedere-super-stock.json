@@ -1,0 +1,14 @@
+{
+  "brand": "PLYMOUTH",
+  "model": "BELVEDERE SUPER STOCK",
+  "prestazioni": [
+    "Engine: Replace the factory 426ci (7.0L) HEMI RB-series (A311) with a fully blueprinted Mopar Performance Stage V crate version, featuring forged internals (Crower 4340 steel crank, Manley H-beam connecting rods, and JE 12.5:1 forged pistons), ported and polished cylinder heads with Ferrea 2.25\" intake/1.94\" exhaust valves, and a custom-ground Comp Cams solid-lifter camshaft (280° duration @ .050\", .600\" lift) for optimized high-RPM power (target: 650+ HP on 110-octane race fuel).",
+    "Induction: Replace the factory dual-quad Carter AFB carburetors with a Hilborn 4-port mechanical fuel injection system (PN: 426-HI-4), paired with a Kinsler 4500-series throttle body and a custom-fabricated 180° intake manifold (aluminum, CNC-machined) to maximize airflow and throttle response for drag strip launches.",
+    "Drivetrain: Install a Liberty 5-speed manual transmission (G-350) with a steel bellhousing and a McLeod twin-disc clutch (PN: 1400G), mated to a Strange Engineering 9\" Ford-style rear end with 4.88:1 gearing, a spool, and 35-spline axles. Replace the factory leaf springs with a CalTracs traction bar system and a set of Competition Engineering ladder bars for maximum weight transfer and traction off the line."
+  ],
+  "estetica": [
+    "Body: Strip the factory steel body to bare metal and apply a custom acid-dipped, seam-welded, and gusseted chassis reinforcement by Advanced Chassis (PN: AC-67-BELV), followed by a full respray in PPG Concept Vibrance \"Hemi Orange\" with a clear bra over the front clip for rock chip protection.",
+    "Aero: Fabricate a custom fiberglass front splitter (3\" overhang) and a 60\" wide carbon fiber rear wing (designed by APR Performance, PN: SW-2100) mounted on billet aluminum pedestals, paired with a custom-fabricated aluminum belly pan to reduce drag and improve high-speed stability.",
+    "Wheels/Tires: Mount a set of Weld Racing Super Stock Drag wheels (15x3.5\" front, 15x14\" rear) with Mickey Thompson ET Street R radial tires (26\"x4.5\" front, 33.5\"x18.5\" rear) and bead-lock rings for consistent pressure retention under extreme acceleration. Powder-coat the wheels in matte black with polished lips and engraved \"426 HEMI\" center caps."
+  ]
+}

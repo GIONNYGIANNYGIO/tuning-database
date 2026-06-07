@@ -1,0 +1,14 @@
+{
+  "brand": "POLESTAR",
+  "model": "2 BST",
+  "prestazioni": [
+    "Hybrid powertrain recalibration targeting the **P8A (CMA platform, 2.0L VEA turbocharged I4 + dual electric motors)** with a **Cobb Accessport ProTune** optimizing torque split (70% rear bias) and overboosting the internal combustion engine to **380 hp (283 kW) at 5,800 RPM** with **450 Nm (332 lb-ft) at 2,200 RPM**, while retaining the OEM BorgWarner eTurbo’s wastegate duty cycle for spool consistency",
+    "Full **PFC (Performance Friction Corporation) 370mm 2-piece floating rotors** with **AP Racing CP8370-26 6-piston calipers** (front) and **Brembo GT-R 355mm 1-piece rotors with 4-piston calipers** (rear), paired with **Motul RBF 660 Racing brake fluid** and **Goodridge G-Stop stainless steel brake lines** for fade resistance under sustained 1.2G deceleration",
+    "Custom **AEM EVOS 265LPH high-flow fuel pump** with **Injector Dynamics ID1700x injectors** (side-feed, 1,700cc/min) and a **Radium Engineering dual-catch can system** (PCV and crankcase ventilation) to eliminate oil vapor ingestion under lateral loads exceeding 0.95G, verified via **AEM CD-7 dash logger** with **Bosch LSU 4.9 wideband sensors**"
+  ],
+  "estetica": [
+    "**Rocket Bunny V3 widebody kit** (carbon fiber, 50mm extended fenders) with **custom BST-spec canards** (3D-printed PA12 nylon, wind-tunnel tested for 12% drag reduction at 180 km/h) and **Vorsteiner V-FF107 20x9.5 ET35 forged wheels** (matte bronze, 5x112 PCD, 245/35R20 Michelin Pilot Sport Cup 2 R tires)",
+    "**Seibon Carbon fiber BST-edition hood** (dual NACA ducts feeding the **Garrett intercooler core**) and **custom rear diffuser** (aluminum 6061-T6, 3D-milled with **Gurney flaps** for 8% downforce increase at 160 km/h, validated via **AeroDyn CFD simulations**)",
+    "**OEM Polestar BST-specific **PPF (Paint Protection Film)** in **3M 2080 Gloss Black** with **XPEL Stealth matte overlay** on high-impact zones (front splitter, rocker panels), paired with **LuxuryTINT 70% ceramic window tint** (IR rejection: 99.9%, UV: 99%) and **Oracle Lighting RGB+A halo headlights** (CSP-LHD, 6,000K color temp, 3,000-lumen output)"
+  ]
+}

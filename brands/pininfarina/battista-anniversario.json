@@ -1,0 +1,14 @@
+{
+  "brand": "PININFARINA",
+  "model": "BATTISTA ANNIVERSARIO",
+  "prestazioni": [
+    "Upgrade to Rimac-sourced quad-motor powertrain (internal code: RIMAC C_TWO E-MOTOR) with custom silicon carbide MOSFET inverters (Semikron SKiM 93) for 2,200 Nm torque vectoring precision, replacing stock 1,850 Nm limit",
+    "Installation of a bespoke liquid-cooled 120 kWh battery pack (derived from Rimac Nevera) with 900V architecture, featuring 3M Novec 7100 immersion cooling and a custom BMS (Orion BMS 2) for 1,900 hp peak output (up from 1,877 hp stock)",
+    "Replacement of OEM Pirelli P Zero Elect tires with custom Michelin Pilot Sport Cup 2 R (345/25 R21 front, 355/25 R22 rear) on forged BBS FI-R 21\" and 22\" wheels, paired with AP Racing 440mm carbon-ceramic brake discs and CCM-R pads for 30% faster heat dissipation"
+  ],
+  "estetica": [
+    "Full carbon-fiber body kit by Pininfarina Design Studio (exclusive 'Folgore' weave pattern) with active aerodynamics, including a 3D-printed titanium rear diffuser (SLM Solutions process) and a front splitter with integrated NACA ducts for brake cooling",
+    "Custom 'Anniversario Rosso' livery with hand-painted gold leaf accents (24K, applied by Pininfarina's in-house atelier) and a matte clear coat (PPG Delfleet 9000) for UV resistance, paired with LED matrix headlights (Osram Eviyos) with adaptive 'Italian Flag' DRLs",
+    "Interior overhaul featuring hand-stitched 'Cuoio di Toscana' leather (Hermann Oak Tannery) with Alcantara suede headliner (Alcantara S.p.A. 'Nero' finish), carbon-fiber Recaro SPG XL seats (TWR composite shell), and a custom titanium shift paddles (Brembo billet) with haptic feedback"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "PONTIAC",
+  "model": "G8 GT",
+  "prestazioni": [
+    "Engine: LS3 (6.0L V8, 361ci) with a custom camshaft from COMP Cams (PN 54-466-11) featuring 224/230 duration at 0.050\" and 0.617/0.624\" lift, paired with PAC Racing valve springs (PN 1218) and titanium retainers (PN 7991T) to support 7,000 RPM redline",
+    "Forced induction: Precision Turbo & Engine PT6266 CEA turbocharger (62mm inducer, 66mm exducer) with a custom 3.5\" V-band downpipe and Vibrant 1799 resonated race mufflers, tuned via HP Tuners VCM Suite with a 93 octane base map targeting 12 psi boost and 550whp on a Dynojet",
+    "Suspension: Pedders GTS Sport Plus coilovers with 8-position adjustable damping, custom-valved Bilstein B16 monotube struts, and Whiteline adjustable sway bars (24mm front, 22mm rear) with poly bushings, paired with BMR Fabrication tubular front control arms (PN K-member not required due to G8's IRS)"
+  ],
+  "estetica": [
+    "Aero: Custom 3-piece carbon fiber widebody kit by RK Sport (G8-specific, not a rebadge) with integrated front splitter, side skirts, and a duckbill rear spoiler, finished in BASF RM gloss black",
+    "Wheels: Forgeline GA1R 19x9 +25 front and 19x10.5 +40 rear in satin black with Michelin Pilot Sport Cup 2 tires (255/35/19 front, 295/30/19 rear) and custom hub-centric spacers by HRE Performance",
+    "Interior: Full Alcantara retrim by Katzkin with red contrast stitching, including Recaro SRD-L seats (G8-specific mounting brackets), a MOMO Mod.78 steering wheel with quick-release hub, and a custom roll cage by Autopower Industries (bolt-in, 6-point, TIG-welded 1.75\" DOM tubing)"
+  ]
+}

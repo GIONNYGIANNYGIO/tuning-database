@@ -1,0 +1,14 @@
+{
+  "brand": "PONTIAC",
+  "model": "GTO 2004",
+  "prestazioni": [
+    "LS2 (6.0L V8, Gen IV, engine code: LS2) forced induction via Precision Turbo PT6266 CEA turbocharger (62mm inducer, 66mm exducer, .82 A/R turbine housing) with TiAL MV-R 44mm wastegate and TiAL Q 50mm blow-off valve, supporting 12 psi of boost for ~600whp on E85 fuel with a custom-built short-block featuring Mahle forged pistons (2618 alloy, 4.030\" bore), Callies Compstar forged crankshaft (4.000\" stroke), and Manley H-beam connecting rods (6.125\" length).",
+    "Full custom 3\" stainless steel exhaust system by Stainless Works with 4-2-1 headers (1.875\" primaries, 3\" collectors), X-pipe crossover, and Borla Pro XS mufflers (2.5\" dual outlets) for optimized scavenging and LS2 torque curve retention.",
+    "Holley Dominator EFI ECU with custom LS2-specific calibration by HP Tuners, paired with a Bosch 044 high-flow fuel pump (255 lph), ID1000x injectors (1000cc/min), and a Radium Engineering dual-catch can setup (PCV and crankcase ventilation) to manage boosted LS2 blow-by under high-RPM conditions."
+  ],
+  "estetica": [
+    "Rocket Bunny V1 widebody kit (GTO-specific, 2004-2006) with custom carbon fiber overfenders (2.5\" wider front, 3\" wider rear), paired with a custom 3M Matte Military Green wrap (3M 1080-M227) and exposed carbon fiber hood by Seibon (Type 3 weave, 50% weight reduction over OEM).",
+    "Ohlins Road & Track coilovers (DFV damping, 22-way adjustable, GTO-specific valving) with Eibach ERS 1000N/mm front and 1200N/mm rear springs, paired with Whiteline adjustable sway bars (24mm front, 22mm rear) and polyurethane bushings (Energy Suspension 9.5111R) for chassis rigidity.",
+    "Brembo GT 6-piston front brake kit (380mm rotors, 6-piston calipers) and 4-piston rear kit (355mm rotors), paired with Ferodo DS2500 brake pads and Motul RBF 660 racing brake fluid, with custom stainless steel braided lines by Goodridge for pedal feel under track use."
+  ]
+}

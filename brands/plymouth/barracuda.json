@@ -1,0 +1,15 @@
+{
+  "brand": "PLYMOUTH",
+  "model": "BARRACUDA",
+  "prestazioni": [
+    "340ci (6.2L) LA-series V8 (engine code: A340) stroked to 408ci with a forged Eagle crankshaft (4.00\" stroke), Manley H-beam connecting rods, and JE forged pistons (10.5:1 compression), paired with a custom camshaft from Comp Cams (280/288 duration, .580/.588 lift, 110 LSA) for aggressive mid-to-high RPM power delivery",
+    "Holley Sniper EFI 2x4 throttle body system with dual-plane Edelbrock Victor Jr. intake manifold, port-matched to the cylinder heads, and tuned via a FAST XFI Sportsman ECU with individual cylinder trimming for optimized air-fuel ratios under boost",
+    "Precision Turbo PT6266 CEA turbocharger (62mm inducer, 66mm exducer) on a custom stainless steel header setup with Tial MV-R 44mm wastegate and Tial Q 50mm blow-off valve, feeding into a custom 3.5\" intercooler piping system with a Garrett front-mount intercooler (700hp core) and dual Bosch 044 fuel pumps with Aeromotive fuel pressure regulator",
+    "Tremec TKO-600 5-speed manual transmission with a McLeod twin-disc RST clutch (10.5\" diaphragm) and a Ford 9\" rear end with Moser 31-spline axles, Detroit Locker differential, and 4.10:1 gearing for brutal acceleration off the line"
+  ],
+  "estetica": [
+    "Rocket Bunny V1 widebody kit (Plymouth-specific) with custom carbon fiber front splitter, rear diffuser, and overfenders to accommodate 10.5\" front and 12\" rear wheel widths, finished in a custom matte PPG Hemi Orange with gloss black accents",
+    "Forgeline GA3R 18x10.5\" (front) and 18x12\" (rear) three-piece wheels with brushed aluminum centers, wrapped in Nitto NT05R 275/35/18 (front) and 315/30/18 (rear) tires for maximum grip, paired with Baer 6P 14\" front and 13\" rear brake rotors with six-piston calipers",
+    "Custom roll cage by Chassisworks (8-point, mild steel) with integrated harness bar, painted in gloss black, and a custom aluminum dash by Dakota Digital with a retro-modern gauge cluster (VDO 3.5\" tachometer, Speedhut boost gauge, and AEM wideband AFR display)"
+  ]
+}

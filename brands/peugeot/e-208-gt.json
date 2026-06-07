@@ -1,0 +1,14 @@
+{
+  "brand": "PEUGEOT",
+  "model": "E-208 GT",
+  "prestazioni": [
+    "Upgrade to a **Bosch MGU-K (Motor Generator Unit - Kinetic) high-performance electric motor (EB2ADTm) with a custom **Siemens-VDO** inverter calibration, increasing peak power from 136 hp (100 kW) to 220 hp (162 kW) and torque from 260 Nm to 380 Nm, while retaining the stock 50 kWh battery but with a **Molicel P42A** cell swap for improved thermal stability under sustained high-load conditions.",
+    "Installation of a **Magna PT e-Drive** dual-motor AWD system (front: stock EB2ADTm, rear: **ZF eVD5** 150 kW unit) with a **GKN eTwinsterX** torque-vectoring differential, enabling 0-100 km/h in 4.8s (vs. stock 8.1s) and lateral grip exceeding 1.1g on **Pirelli P Zero Elect** tires (225/40 R18 front, 245/35 R18 rear).",
+    "Full **Brembo GT** brake system upgrade: 380mm front discs with **Jurid 859** high-carbon pads, 355mm rear discs with **Ferodo DS2500** pads, and a **Bosch Motorsport ABS** module recalibrated for regenerative braking optimization, reducing 100-0 km/h stopping distance from 38.5m to 32.1m."
+  ],
+  "estetica": [
+    "**Liberty Walk LB Works** widebody kit for the e-208 GT, featuring carbon-fiber front fenders with integrated **DRLs from the Peugeot 9X8 Le Mans Hypercar**, rear overfenders with a **custom diffuser from Capristo** (designed for the e-208’s underbody airflow), and a **fixed carbon-fiber rear wing** with a **Gurney flap** adjustable via **Motec PDM15** for active aerodynamics.",
+    "**OMP Carbon-Kevlar** racing seats (FIA 8862-2009 certified) with **Schroth Profi II 6-point harnesses**, paired with a **Sparco Pro 2000** steering wheel (320mm diameter, Alcantara-wrapped) featuring a **Peugeot Sport** embroidered logo and **AiM MXS Strada** digital dash integration for real-time telemetry.",
+    "**HRE FF01** forged wheels (18x9.5 +30mm front, 18x10.5 +35mm rear) in **matt bronze finish**, wrapped in **Michelin Pilot Sport Cup 2 Connect** tires (245/35 R18 front, 275/30 R18 rear), with **H&R TRAK+** coilovers (adjustable damping via **Bilstein EDC** module) and **Eibach Pro-Spacer** 15mm wheel spacers for flush fitment."
+  ]
+}
