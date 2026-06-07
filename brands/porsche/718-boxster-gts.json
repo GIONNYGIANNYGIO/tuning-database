@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "718 BOXSTER GTS",
+  "prestazioni": [
+    "MAHLE Motorsport forged pistons (9.5:1 compression) for the 4.0L MA2.2 (982) flat-six, paired with Carrillo H-beam connecting rods and ARP L19 head studs to handle 600+ HP on E85 fuel with a Precision Turbo PT6266 CEA turbocharger (0.82 A/R, 62mm inducer) and a custom Tial MV-R 44mm wastegate setup",
+    "BMS Racing custom ECU flash (DME 7.20) with a standalone Syvecs S8 ECU piggyback for full flex-fuel mapping, integrated with a Bosch Motorsport 0280158802 high-flow fuel pump and dual Injector Dynamics ID1700x injectors, alongside a custom 3.5-inch titanium exhaust system by Akrapović with a straight-pipe design and 304 stainless steel headers",
+    "Öhlins TTX40 2-way adjustable coilovers with 12-position rebound damping and 24-position compression damping, paired with a Tarett Engineering front sway bar (24mm adjustable) and a rear sway bar (22mm adjustable), along with spherical bearing end links and a custom subframe reinforcement kit by Manthey Racing for track use"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (982-specific) with carbon fiber fenders, front splitter, and rear diffuser, finished in Porsche GT3 RS Lava Orange with a custom matte clear coat by Glasurit",
+    "BBS FI-R 9Jx20 ET45 (front) and 11Jx20 ET50 (rear) forged wheels in gold, wrapped in Michelin Pilot Sport Cup 2 R tires (245/30 R20 front, 295/30 R20 rear) with a custom center-lock conversion by HRE Performance Wheels",
+    "Custom carbon fiber engine cover by 991Racing with a clear-coated weave, paired with a titanium bolt kit from TiSpeed and a custom billet aluminum oil cap by BBi Autosport, along with a full Alcantara-wrapped interior by Katzkin featuring red contrast stitching and a custom roll cage by Matter Fab"
+  ]
+}

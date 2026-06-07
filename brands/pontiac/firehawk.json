@@ -1,0 +1,14 @@
+{
+  "brand": "PONTIAC",
+  "model": "FIREHAWK",
+  "prestazioni": [
+    "Engine: LS1 (Gen III, 5.7L, 346ci) with forged internals including Mahle Motorsport 2618 alloy pistons (9.5:1 compression), Callies Compstar 4340 forged crankshaft, and Manley H-beam connecting rods for 8,500 RPM reliability. Paired with a custom camshaft grind from Comp Cams (236/242 duration @ 0.050\", 0.624\" lift, 114 LSA) and PAC Racing valve springs (150 lbs seat, 400 lbs open) for aggressive LS1 powerband targeting 600+ RWHP on E85.",
+    "Forced Induction: Single Precision Turbo PT6766CE .82 A/R turbocharger with a custom 3\" stainless steel downpipe and Vibrant Performance 1000cc/min fuel injectors. Boost control managed via an AEM X-Series boost controller with a 3.5-bar MAP sensor, targeting 18 psi peak boost on a custom-tuned HP Tuners VCM Suite calibration optimized for the Firehawk’s unique intake manifold (LS6-style with ported throttle body).",
+    "Drivetrain & Handling: Tremec T-56 Magnum 6-speed transmission with a McLeod RST twin-disc clutch (2,000 lb clamp load) and a billet flywheel. Suspension overhaul includes KW Clubsport coilovers (2-way adjustable damping) with Eibach ERS 1000N/mm springs, Whiteline adjustable sway bars (24mm front, 22mm rear), and polyurethane bushings from Energy Suspension. Braking upgraded to Brembo GT 6-piston front calipers (355mm rotors) and 4-piston rear calipers (345mm rotors) with Ferodo DS2500 pads."
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny Version 3 widebody kit (fiberglass construction) with custom carbon fiber front splitter and rear diffuser from Seibon Carbon. Rear wing is a custom 3D-printed dual-element design (inspired by the 996 GT3) with adjustable angle of attack, mounted on carbon fiber stanchions. Side skirts feature integrated LED turn signals from Diode Dynamics.",
+    "Exterior: Full custom paint in PPG’s \"Infrared\" with a matte clear coat and hand-painted gold leaf accents on the Firehawk emblem and side stripes. OEM-style badges replaced with carbon fiber replicas from AIT Racing, and the hood features a custom heat extractor vent (functional, routed to the turbo) with a carbon fiber overlay. Wheels are HRE FF01 (19x10.5\" front, 19x12\" rear) in a custom bronze finish with Michelin Pilot Sport Cup 2 tires (275/35/19 front, 315/30/19 rear).",
+    "Interior: Full Recaro Pole Position seats (carbon fiber backs) with Schroth 6-point harnesses and a custom roll cage (MIG-welded 4130 chromoly) from Autopower Industries. Steering wheel is a NRG Innovations R3 (350mm, suede) with a quick-release hub. Gauges are a full AEM CD-7 digital dash with analog-style overlays, mounted in a custom carbon fiber panel replacing the stock cluster. Shift knob is a weighted short-throw unit from MGW (T-56 pattern) with a custom Firehawk-engraved aluminum shift boot plate."
+  ]
+}

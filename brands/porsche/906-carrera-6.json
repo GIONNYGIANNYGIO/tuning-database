@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "906 CARRERA 6",
+  "prestazioni": [
+    "Engine: Type 901/20 (2.0L flat-6, 911-derived) – Full rebuild with Mahle Motorsport forged pistons (8.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from Kolbenschmidt for 9,000 RPM reliability. Ported and polished cylinder heads with titanium intake valves (42mm) and sodium-filled exhaust valves (38mm) by Schrick, paired with dual-spring titanium retainers and 1.4:1 rocker arms for high-RPM valvetrain stability.",
+    "Induction: Custom 6-throttle individual runner intake manifold (fabricated by Protomotive Engineering) with Jenvey 45mm throttle bodies, paired with a custom 3D-printed plenum (carbon fiber, designed via CFD by KW Motorsport) and a Bosch Motorsport 0 280 155 999 fuel rail. Fueling via 8x Bosch Motorsport 0 280 158 007 injectors (1,200cc/min) and a Pierburg CWA 50 high-pressure pump (250 bar) for sustained 300+ HP on 100-octane race fuel.",
+    "Forced Induction (Optional Track Build): Single Garrett GTX3582R Gen II turbo (0.82 A/R, ball-bearing) with a custom water/methanol injection system (AEM 3400cc/min pump, 50/50 mix) and a custom air-to-water intercooler (PWR, 12-row core) mounted in the rear trunk area. Boost controlled via a TurboSmart e-Boost2 (0-30 PSI) with a custom 3.5\" titanium downpipe (fabricated by Armytrix) and a 3.5\" stainless steel exhaust system (Akrapović, 4-2-1 merge collectors, no mufflers). Target: 450 WHP at 1.5 bar on E85."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber replica of the 906 \"Kurzheck\" (short-tail) body by Fibreworks (Australia), with a custom 3D-printed front splitter (carbon fiber, 3-stage adjustable) and a 906-specific rear diffuser (carbon fiber, 5-element design) by APR Performance. Lightweight polycarbonate side windows (0.8mm thick, by Makrolon) and a custom aluminum roll cage (TIG-welded, 4130 chromoly, by Safety Devices) integrated into the chassis for rigidity.",
+    "Aerodynamics: Custom 906-specific front canards (carbon fiber, by Voltex Japan) and a 906-style rear wing (carbon fiber, 3D-printed airfoil with Gurney flap, by 9 Lives Racing). Underbody: Full flat floor with integrated vortex generators (fabricated by APR) and a custom rear diffuser (carbon fiber, 5-element design) with active cooling ducts for the transaxle and brakes.",
+    "Wheels & Stance: Custom 15x9.5\" front and 15x12\" rear magnesium wheels (by BBS, 3-piece split-rim, 3.5\" and 5.5\" offsets respectively) wrapped in Michelin Pilot Sport Cup 2 tires (235/600R15 front, 325/600R15 rear). Suspension: Custom coilovers (Öhlins TTX40, 4-way adjustable) with spherical bearing top mounts (by Motorsport Hardware) and custom 906-specific sway bars (front: 22mm adjustable, rear: 18mm adjustable, by H&R). Ride height: 50mm lower than stock, with 2° negative camber front and 1.5° rear."
+  ]
+}

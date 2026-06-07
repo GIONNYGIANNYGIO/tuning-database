@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "550 SPYDER",
+  "prestazioni": [
+    "Engine: Type 547/1 'Fuhrmann' flat-four (1.5L, 110hp stock) – full rebuild with Mahle forged pistons (8.5:1 compression), Carrillo H-beam connecting rods, and a custom Schrick 284° camshaft grind for high-RPM stability (8,500 RPM redline).",
+    "Forced induction: Single Garrett GT28RS turbo (0.63 A/R turbine housing) with custom 3D-printed titanium exhaust manifold (designed by TechArt) and a Spearco air-to-water intercooler (mounted in the rear trunk, fed by dual 120mm Spal fans).",
+    "Fuel system: Dual Bosch 044 high-flow fuel pumps, 800cc/min Siemens Deka injectors, and a custom Motec M800 ECU with individual throttle body (ITB) control for each cylinder, paired with Jenvey 45mm ITBs and velocity stacks."
+  ],
+  "estetica": [
+    "Body: Full carbon-fiber replica of the 1954 Le Mans-spec 550A Spyder body (hand-laid by RWB Japan), with a custom 3-piece front splitter (aluminum core, carbon overlay) and a rear diffuser integrating dual 80mm exhaust outlets (stainless steel, polished by Fabspeed).",
+    "Wheels: 15x6.5 front / 15x8 rear magnesium BBS RS-GT wheels (gold-painted centers, polished lips) wrapped in Avon CR6ZZ tires (185/55R15 front, 225/50R15 rear) for period-correct grip with modern compound.",
+    "Interior: Full Alcantara retrim by Saddleback Leather (steel-grey with red stitching), featuring a custom roll cage (TIG-welded 4130 chromoly, designed by Matter Fab) and a MOMO Prototipo steering wheel (380mm diameter, suede-wrapped) on a quick-release hub."
+  ]
+}

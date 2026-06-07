@@ -1,0 +1,16 @@
+{
+  "brand": "PORSCHE",
+  "model": "718 CAYMAN GT4 RS",
+  "prestazioni": [
+    "Engine: 4.0L NA MA1.76 (9A2 Evo) with a Manthey Racing MRX-016 high-flow intake manifold and custom carbon fiber plenum (1,000g lighter than OEM) to optimize torque curve for 8,500 RPM redline retention while adding 35whp at peak power.",
+    "Forced induction: Hybrid turbo upgrade via a Precision Turbo PT6266 CEA billet compressor wheel (62mm inducer, 66mm exducer) paired with a custom 0.82 A/R titanium-aluminide turbine housing, mated to a Tial MV-R 44mm external wastegate (set to 1.2 bar peak boost) and a GReddy Profec B Spec II boost controller for linear spool.",
+    "Suspension: Öhlins TTX46 MkII coilovers with 24-position adjustable rebound and 22-position compression damping, paired with Manthey Racing MRX-017 spherical bearing top mounts (front) and MRX-018 uniball pillowball top mounts (rear) for zero compliance under 2.5G lateral loads. Ride height set to -35mm front/-30mm rear with custom 2.25° front camber and -2.5° rear camber via Tarett Engineering camber plates.",
+    "Drivetrain: Wavetrac ATB differential with 75% lockup under load, paired with a Guard Transmission GT4 RS-specific short shifter (25% shorter throws) and a Sachs Performance SMF dual-mass flywheel (10.5kg) for 30% faster rev matching. Clutch: Sachs Performance 3-plate ceramic (300Nm torque capacity) with billet steel pressure plate for 9,000 RPM engagement.",
+    "Exhaust: Akrapovič Evolution Line Titanium full system (70mm primary tubes, 90mm dual outlets) with a valved center muffler delete for sub-100dB track compliance. Headers: custom 1.75\" equal-length stainless steel (304 grade) with 18\" merge collectors, ceramic-coated for 900°C heat resistance."
+  ],
+  "estetica": [
+    "Aero: 992 GT3 RS-inspired TechArt GTsport front splitter with 3D-printed carbon fiber dive planes (25mm extension) and a Manthey Racing MRX-019 GT4-spec rear wing (1,200mm span, 300mm chord) with Gurney flap adjustability (0-15mm). Underbody: custom 5mm aluminum diffuser with 4x NACA ducts for brake cooling and a 3D-printed carbon fiber flat floor (replaces OEM plastic).",
+    "Body: Rocket Bunny V3 widebody kit (Porsche 982-specific) with 50mm front fender flares and 65mm rear flares, paired with a custom carbon fiber hood (9A2 GT4 RS-specific) featuring a 150mm central NACA duct for intercooler airflow. Paint: Porsche Paint to Sample (PTS) in \"Gulf Blue\" with matte black 911 R-style front/rear fascias and satin gold 20\" BBS FI-R wheels (9.5J ET40 front, 12J ET50 rear) with titanium lug bolts.",
+    "Interior: Full carbon fiber weave Recaro Pole Position seats (9A2 GT4 RS-specific, 18-way adjustable) with Schroth Profi II 6-point harnesses (FIA 8853/98 homologated). Steering wheel: MOMO Mod.77 carbon fiber (350mm diameter) with Alcantara suede and integrated AIM MXS Strada dash display. Roll cage: T45 steel 8-point bolt-in (Porsche Motorsport-approved) with custom padding in Alcantara matching the OEM \"Merino Leather\" dashboard."
+  ]
+}

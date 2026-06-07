@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "718 RSK",
+  "prestazioni": [
+    "Engine: Replace the original 1.7L Type 547/3 flat-four (engine code: 547/3) with a fully built 2.0L Type 547/5 variant, featuring forged Mahle pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from JP Performance. Pair with a custom camshaft profile by Schrick (284° duration, 11.5mm lift) for optimized high-RPM power delivery (target: 220+ HP at 8,000 RPM).",
+    "Forced Induction: Install a custom-built turbo system using a Garrett GT2860RS turbocharger (0.64 A/R turbine housing) with a bespoke intercooler setup by Wagner Tuning (front-mount, 550x220x76mm core) and a TiAL MV-R 44mm wastegate. Utilize a custom intake manifold by Protomotive with dual 45mm throttle bodies and a Bosch 044 fuel pump for E85 compatibility.",
+    "Drivetrain & Suspension: Upgrade to a 5-speed sequential transmission by Hewland (FT200) with a Sachs twin-disc clutch (200mm) and a Quaife ATB differential (80% lock). Replace the original torsion bar suspension with a full coilover setup by Öhlins (TTX25 MkII) featuring 2-way adjustable dampers, spherical bearing top mounts, and custom valving for the 718 RSK’s unique chassis geometry. Add a set of spherical bearing control arms by Elephant Racing with adjustable camber plates for precise alignment."
+  ],
+  "estetica": [
+    "Bodywork: Replace the original aluminum body panels with a full carbon fiber replica kit by RWB Japan, featuring widened fenders (50mm per side), a custom front splitter with integrated brake ducts, and a rear diffuser by 935 Motorsport. Paint in Porsche’s original Signal Red (Porsche code: 6407) with matte black accents on the fenders and hood.",
+    "Aerodynamics: Install a custom rear wing by GT3 Cup Style, modeled after the 904 GTS, with a 3D-printed carbon fiber airfoil (NACA 63-215 profile) and adjustable angle of attack (0-15°). Add a set of side skirts by TechArt with integrated LED turn signals and a front canard kit by Vorsteiner for improved high-speed stability.",
+    "Interior: Replace the original seats with a pair of Recaro SRD-E full carbon fiber racing seats (FIA 8862-2009 certified) and a 6-point harness by Schroth (Professional II). Install a custom roll cage by Matter Motorsport (TIG-welded chromoly steel, 1.75x0.95mm wall thickness) with integrated fire suppression system by Lifeline (Zero 360). Add a digital dash by AIM MXS Strada with data logging for oil pressure, fuel pressure, and turbo boost (0-3 bar sensor)."
+  ]
+}

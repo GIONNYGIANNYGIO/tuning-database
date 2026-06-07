@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "718 BOXSTER GTS 4.0",
+  "prestazioni": [
+    "MAFless ECU remap via Cobb Accessport (MAF delete) for the 4.0L MA2.2 naturally aspirated flat-six (engine code: MA2.2/MDD), optimizing throttle response and air-fuel ratios for 450+ HP on 98 RON fuel with custom ignition timing maps and individual cylinder trims",
+    "Tomei 87mm titanium exhaust manifold with equal-length 4-2-1 design and 304 stainless steel primary tubes (2.5mm wall thickness) paired with a Fabspeed Motorsport Valvetronic Sport Cats (200-cell) and Akrapovič Evolution Line Titanium center/rear section (4.5\" tips), reducing backpressure by 38% while retaining OBD-II compliance",
+    "KW Suspensions Clubsport 3-way adjustable coilovers (Porsche-specific valving) with 15mm front/20mm rear lowering, adjustable rebound (16 clicks), compression (12 clicks), and adjustable top mounts (camber plates) for -3.5° front/-2.8° rear, paired with H&R Monoball spherical bearing subframe collars to eliminate compliance"
+  ],
+  "estetica": [
+    "RWB (Rauh-Welt Begriff) Porsche 982/718 widebody kit (Kagoshima style) with custom 3M Matte Graphite vinyl wrap, extending fenders by 45mm front/60mm rear and requiring custom carbon fiber front splitter (991 GT3 RS-style) and GT3-spec rear diffuser with integrated Gurney flap",
+    "BBS FI-R 9.5x20\" (ET35) front and 12x20\" (ET45) rear forged wheels with titanium hardware, shod in Michelin Pilot Sport Cup 2 R tires (245/30/20 front, 305/25/20 rear) and TPMS sensors recalibrated via Porsche PIWIS III for OEM integration",
+    "OEM Porsche 911 GT3 Touring-style ducktail spoiler (carbon fiber, 992 GT3 part #992.044.015.00) with custom 3D-printed aluminum mounts to retain active aerodynamics, paired with a Vorsteiner V-FF 103 front lip (carbon fiber) and side skirts (991.2 GT3 RS-style)"
+  ]
+}

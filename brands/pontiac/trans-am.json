@@ -1,0 +1,14 @@
+{
+  "brand": "PONTIAC",
+  "model": "TRANS AM",
+  "prestazioni": [
+    "LS3 6.2L V8 (engine code: LS3) stroker build to 427ci (7.0L) using a Callies Compstar crankshaft, Manley H-beam connecting rods, and Mahle forged pistons (11.5:1 compression), paired with a custom camshaft from Comp Cams (242/248 duration at 0.050, 0.650 lift, 114 LSA) and ported LS7 cylinder heads with Ferrea Competition Series valves and PAC Racing valve springs for 8,000 RPM capability",
+    "Forced induction via a Precision Turbo & Engine PT8285CE turbocharger (85mm, 8285CE .96 A/R turbine housing) on a custom stainless steel header-to-turbo manifold by Stainless Works, with a Turbosmart Race Port 45mm wastegate and a custom intercooler setup featuring a Garrett 1,500hp air-to-water core with a Davies Craig EWP150 electric water pump and a 5-gallon ice reservoir for track use",
+    "Fuel system overhaul with dual Bosch 044 high-flow fuel pumps, ID1700x injectors, and a Holley Dominator ECU managing a custom flex-fuel setup with ethanol content sensing, paired with a Fore Innovations dual-feed fuel rail and AN-8 braided lines, while the oiling system is upgraded with a Dailey Engineering 4-stage dry sump system and a Peterson Fluid Systems external oil cooler"
+  ],
+  "estetica": [
+    "Full carbon fiber widebody conversion using a Rocket Bunny V2 Trans Am kit (2010+ model-specific), including extended front fenders, rear quarter panels, and a custom 3-piece carbon fiber rear diffuser with integrated dual-exit exhaust cutouts for the Stainless Works 3.5-inch titanium-tipped exhaust",
+    "Custom front splitter and rear wing combo from APR Performance (GTC-300 2-piece carbon fiber wing with adjustable angle of attack and a 72-inch span), paired with a custom 3D-printed ABS front splitter with integrated canards and a 2-inch overhang for aero balance, all mounted on Ohlins Road & Track coilovers with adjustable ride height and camber plates",
+    "Interior stripped and reupholstered with a full Alcantara headliner, Recaro Pole Position seats (carbon fiber shells, FIA-approved 6-point harnesses), and a custom roll cage by Autopower Industries (8-point chromoly, NHRA-certified for 9-second passes), with a Motec C127 dash display replacing the factory cluster and a custom center console housing a Tilton hydraulic clutch master cylinder and a Brembo GT 380mm brake bias adjuster"
+  ]
+}

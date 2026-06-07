@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "718 RS 60",
+  "prestazioni": [
+    "Engine swap to a Porsche 911 (992) 3.0L twin-turbo flat-six (engine code: 9A2/90) with a custom dry-sump system by H&R Spezialfedern, retaining the original 718 RS 60's magnesium crankcase but upgraded with Mahle Motorsport forged pistons (9.5:1 compression) and Carrillo H-beam connecting rods for 8,500 RPM redline capability",
+    "Full titanium exhaust system by Akrapovič, featuring 4-2-1 headers with 45mm primary tubes, a 3.5-inch center section, and dual 110mm carbon-fiber tips, paired with a custom X-pipe resonator delete for an aggressive 1,200 Hz exhaust note at 6,500 RPM",
+    "Custom Motec M150 ECU with a bespoke calibration by 9ff Engineering, integrating a Bosch Motorsport MS5.1 standalone traction control system, a 4-bar MAP sensor, and a dual-channel wideband lambda controller (LSU 4.9) for precise AFR targeting (11.8:1 under full load, 13.5:1 cruise)"
+  ],
+  "estetica": [
+    "Full carbon-fiber body conversion using a custom 718 RS 60-specific aero kit by RWB (Rauh-Welt Begriff), including a 1,800mm wide front splitter with integrated canards, a 1,200mm rear diffuser with titanium support struts, and a 900mm adjustable rear wing with Gurney flaps (adjustable from 0-20 degrees)",
+    "Custom magnesium wheel set by BBS (RS-GT II) in 16x9.5 ET20 front and 16x12 ET30 rear, wrapped in Pirelli P Zero Corsa tires (245/40 R16 front, 335/35 R16 rear) with a bespoke compound (Pirelli PNCS noise-canceling technology removed for weight savings)",
+    "Interior stripped and rebuilt with a full Alcantara-wrapped dashboard (including instrument cluster) by Sabelt, featuring a 6-point titanium roll cage by Matter Motorsport, carbon-fiber Recaro Pole Position seats (with 3mm padding reduction for weight savings), and a custom MOMO Prototipo steering wheel with a quick-release hub (Porsche 917-style)"
+  ]
+}

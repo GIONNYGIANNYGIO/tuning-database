@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "907 LH",
+  "prestazioni": [
+    "Engine: Type 901/20 flat-8 (2.2L, 8-cylinder air-cooled) with forged Mahle pistons (9.5:1 compression), titanium connecting rods (Porsche Werk 907-spec), and a custom-built Bosch mechanical fuel injection system (Kugelfischer PL08) recalibrated for 102-octane Avgas with 30% toluene blend for Le Mans endurance racing",
+    "Forced induction: Twin-screw Lysholm LYS2075 supercharger (1.2 bar boost) with custom billet aluminum intake manifold (907-specific plenum design) and dual 45mm throttle bodies (Weber IDA 48/48 carburetor base adapted for FI), paired with a custom air-to-water intercooler (Setrab ProLine 4000 series) mounted in the front nose section",
+    "Drivetrain: Porsche 907 LH-specific 5-speed transaxle (Type 906/20) with cryogenically treated gears (Quaife ATB differential), reinforced output shafts (Porsche Motorsport 917-spec), and a Tilton triple-plate carbon clutch (6.5-inch diameter) with billet flywheel (10.5 lbs, aluminum 7075-T6)"
+  ],
+  "estetica": [
+    "Bodywork: Full carbon-fiber replica of the 1968 Le Mans-winning 907 LH (Karosserie Weinsberg original molds) with integrated NACA ducts (functional, feeding the Type 901/20 oil cooler and intercooler), and a custom rear spoiler (907/8 long-tail design) with Gurney flap (0.75-inch height) for high-speed stability",
+    "Wheels: BBS RS-GT1 magnesium wheels (15x10 front, 15x14 rear) with center-lock hubs (Porsche 917-spec), wrapped in Dunlop Racing CR82 tires (5.50/15 front, 7.00/15 rear) for period-correct grip and sidewall stiffness",
+    "Interior: Full FIA-spec roll cage (T45 steel, Schroth 6-point harnesses) with Recaro SRD racing seats (carbon-Kevlar shell), Momo Prototipo steering wheel (380mm diameter, quick-release hub), and a custom dashboard (aluminum 5052-H32) featuring VDO Cockpit International gauges (300 km/h speedo, 10k RPM tach, oil temp/pressure, fuel pressure)"
+  ]
+}

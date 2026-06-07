@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "910",
+  "prestazioni": [
+    "Engine: Type 901/20 (2.0L flat-8, air-cooled) with forged Mahle pistons (9.5:1 compression), titanium connecting rods (Porsche 906-spec), and a custom-built Kugelfischer mechanical fuel injection system (replacing the original Bosch unit) with 48mm throttle bodies for optimized airflow at 8,800 RPM redline.",
+    "Forced induction: Single Garrett GT2860RS turbocharger (0.63 A/R turbine housing) with a custom air-to-water intercooler (Setrab Pro Line) and a bespoke 3.5-inch stainless steel exhaust system (Akrapović 4-2-1 headers, straight-pipe design with a 100mm outlet) to reduce backpressure and maximize power output (target: 320 HP at 1.2 bar boost).",
+    "Suspension: Öhlins TTX25 coilovers (910-specific valving) with spherical bearing top mounts (Tillett Racing), adjustable anti-roll bars (H&R 25mm front, 22mm rear), and a reinforced front subframe (Porsche 907-spec) to handle increased cornering loads (target: 1.5G lateral grip with Hoosier R7 slicks)."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber replica of the 910/8 Bergspyder (906/8) bodywork (RML Group panels) with a removable rear spoiler (909-spec) and a custom front splitter (3D-printed PETG, 30mm overhang) for aerodynamic balance (target: -120kg downforce at 160 km/h).",
+    "Wheels: BBS RS-GT1 (15x9 front, 15x12 rear) with center-lock adapters (Porsche 917-spec) and Michelin Pilot Sport Cup 2 tires (235/645R15 front, 325/625R15 rear) for optimal mechanical grip and weight reduction (12.5kg per wheel).",
+    "Interior: Full FIA-spec roll cage (Schroth 6-point harnesses, OMP carbon fiber seats) with a MOMO Prototipo steering wheel (320mm diameter, quick-release hub) and a Motec C127 dash logger (integrated with the Kugelfischer injection system for real-time tuning adjustments)."
+  ]
+}

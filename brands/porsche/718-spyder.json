@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "718 SPYDER",
+  "prestazioni": [
+    "MAHLE Motorsport forged pistons (4.0L MA1.76 engine code) with 12.5:1 compression ratio for high-octane E85 compatibility, paired with Carrillo H-beam connecting rods and ARP L19 head studs to handle 600+ WHP on stock internals with a hybrid turbo setup",
+    "Pure Turbo PT-1200 turbocharger (custom billet compressor wheel, 67mm inducer, 88mm exducer) with a Tial MV-R 44mm external wastegate and custom 3.5\" stainless steel downpipe (MA1.76-specific, bypassing OEM catalytic converters) for optimized spool and top-end power",
+    "Motec M150 ECU with PDK-specific launch control mapping (MA1.76 engine code), integrated with a Bosch Motorsport 0281002948 high-pressure fuel pump, ID1050x injectors, and a Radium Engineering dual-catch can system to prevent oil starvation during sustained lateral G-forces"
+  ],
+  "estetica": [
+    "RWB (Rauh-Welt Begriff) \"Pandem\" widebody kit (718 Spyder-specific, 30mm extended fenders front/rear) with custom carbon fiber overfenders and integrated LED turn signals, paired with a 992 GT3-style ducktail spoiler in raw carbon fiber (no clear coat)",
+    "BBS FI-R 19x10.5 +25 front / 19x12.5 +30 rear wheels (718 Spyder-specific offsets) wrapped in Michelin Pilot Sport Cup 2 R tires (275/30/19 front, 325/30/19 rear), with H&R TRAK+ coilover spacers (15mm front, 20mm rear) for aggressive flush fitment",
+    "991 GT3 RS-style front splitter (carbon fiber, 3-piece) with integrated canards (APR GT-250 kit) and a custom titanium bolt-on rear diffuser (917-inspired, 3D-printed lattice structure) with integrated exhaust cutouts for the MA1.76's dual-mode center exit system"
+  ]
+}

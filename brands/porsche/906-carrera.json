@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "906 CARRERA",
+  "prestazioni": [
+    "Engine: Type 901/20 (2.0L flat-6, air-cooled) with forged Mahle pistons (9.8:1 compression), titanium connecting rods (Porsche Motorsport 906-spec), and a custom Schrick 284° camshaft grind for optimized high-RPM breathing (8,000 RPM redline).",
+    "Induction: Individual throttle bodies (ITBs) from Jenvey Dynamics (45mm diameter) with a custom velocity stack setup, paired with a bespoke K&N ram-air intake system (906-specific plenum design) and a custom-fabricated magnesium intake manifold.",
+    "Forced Induction (Optional Track Build): Single Garrett GTX3076R turbo (0.82 A/R turbine housing) with a custom air-to-water intercooler (PWR Racing) and a Motec M150 ECU managing boost (1.2 bar max) and sequential fuel injection (ID1000x injectors)."
+  ],
+  "estetica": [
+    "Body: Full carbon-fiber replica of the 906 Le Mans 'Kurzheck' (short-tail) body by Fibreworks (1:1 scale, 1.5mm thickness), including functional rear diffuser and front splitter (CFD-optimized for 150 kg downforce at 200 km/h).",
+    "Wheels: BBS RS-GT1 (15x8 front, 15x10 rear) with magnesium centers, wrapped in Pirelli P Zero Corsa tires (205/55R15 front, 265/50R15 rear) and secured with titanium lug nuts (ARP).",
+    "Interior: Full FIA-spec cage (Schroth 6-point harnesses, OMP carbon-Kevlar seats) with a Motec C127 dash display (data logging for 20+ channels) and a custom aluminum shift knob (917-style, machined from billet)."
+  ]
+}

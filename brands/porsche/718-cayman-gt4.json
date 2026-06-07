@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "718 CAYMAN GT4",
+  "prestazioni": [
+    "Engine: MA2.2 (4.0L naturally aspirated flat-six) – Full titanium Akrapović Evolution Line Titanium exhaust system with dual-mode valves, 70mm diameter piping, and carbon fiber tips, reducing weight by 12kg while increasing power to ~450hp at 8,200 RPM via optimized backpressure and scavenging.",
+    "Forced Induction: Sprintex S300-97 supercharger kit with liquid-to-air intercooler, custom billet aluminum intake manifold, and Bosch Motorsport 8-hole injectors (1,200cc/min), pushing boost to 0.7 bar (10 psi) for ~550hp at 7,800 RPM with a 93-octane tune via Cobb Accessport (Stage 2+ map).",
+    "Suspension: Öhlins TTX46 MkII 2-way adjustable coilovers with 30mm front/25mm rear ride height adjustment, spherical bearing top mounts (Porsche OEM-spec), and custom valving for Nürburgring Nordschleife lap times under 7:30. Paired with Tarett Engineering front sway bar (24mm adjustable) and rear sway bar (22mm solid)."
+  ],
+  "estetica": [
+    "Aero: 992 GT3 RS-inspired TechArt GTsport carbon fiber front splitter with integrated dive planes, rear diffuser, and 911 GT3 Cup-style rear wing (adjustable angle via hydraulic actuators, +200kg downforce at 200 km/h). Full carbon fiber hood with NACA ducts for brake cooling.",
+    "Wheels: HRE FF03 20x9.5 ET40 (front) and 20x12 ET50 (rear) in matte gold, wrapped in Michelin Pilot Sport Cup 2 R tires (245/30/20 front, 305/30/20 rear). Custom titanium wheel bolts (12x1.5mm) from BBI Autosport to reduce unsprung weight by 1.8kg per corner.",
+    "Interior: Full carbon fiber Recaro Pole Position bucket seats (Porsche 992 GT3 RS-spec) with Schroth 6-point harnesses, Alcantara-wrapped MOMO Prototipo steering wheel (380mm diameter, suede grip), and Motec C127 dash logger with GPS lap timer, replacing the stock instrument cluster."
+  ]
+}

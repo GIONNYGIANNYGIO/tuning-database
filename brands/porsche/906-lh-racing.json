@@ -1,0 +1,20 @@
+{
+  "brand": "PORSCHE",
+  "model": "906 LH RACING",
+  "prestazioni": [
+    "Engine: Type 901/20 flat-six (2.0L, air-cooled) with forged Mahle pistons (9.8:1 compression), titanium connecting rods (Porsche 917-spec), and a custom billet crankshaft (906-specific, 78mm stroke) for 270+ HP at 8,000 RPM on 100+ octane race fuel (Avgas 100LL or VP Racing C16).",
+    "Induction: Dual Weber 46IDA3C carburetors (906-specific velocity stacks, 44mm chokes) with custom CNC-machined aluminum intake plenums (Porsche 910-derived) and a bespoke cold-air ram scoop (integrated into the LH bodywork, feeding directly into the carbs).",
+    "Exhaust: Titanium 6-into-2-into-1 equal-length headers (Porsche 906 factory-spec, 1.75\" primary tubes) with a straight-pipe system terminating in dual 2.5\" side-exit megaphones (Akrapovič 906 replica, titanium construction, 0.8mm wall thickness).",
+    "Suspension: Double-wishbone front and rear with adjustable rose-jointed spherical bearings (Porsche 906 factory-spec), paired with Öhlins TTX36 coilovers (906-specific valving, 4-way adjustable damping) and custom titanium spring perches (906 LH homologation).",
+    "Braking: Porsche 906-spec 4-wheel ventilated disc brakes (280mm front, 260mm rear) with Ferodo DS3000 pads (endurance racing compound) and custom braided stainless steel lines (Goodridge 906-spec, -3AN fittings).",
+    "Drivetrain: Porsche 906-spec 5-speed dogleg gearbox (Type 906/50) with a 4.43:1 final drive ratio, limited-slip differential (ZF 1.5-way, 65% lockup), and a lightweight aluminum driveshaft (906-specific, 70mm diameter).",
+    "Aerodynamics: Full carbon-fiber underbody diffuser (906 LH-specific, 3-stage Gurney flaps) and a rear wing (Porsche 906/8 replica, 12% chord, 3° adjustable angle) with integrated DRS-style flap (activated via cockpit switch, reducing drag by 18% at 180+ km/h)."
+  ],
+  "estetica": [
+    "Bodywork: Full carbon-fiber replica of the 1966 Porsche 906 LH (Weissach homologation, 1.2mm thickness) with a custom \"Gulf Oil\" livery (3M 1080 vinyl wrap, exact 1966 Le Mans #30 color match) and hand-painted pinstriping (1mm width, gold leaf).",
+    "Wheels: Fuchs-style magnesium alloy wheels (15x7\" front, 15x9\" rear, 906-specific offsets) with custom center-lock adapters (Porsche 917-derived) and Michelin Pilot Sport Cup 2 tires (185/60R15 front, 235/60R15 rear, shaved to 4/32\" tread depth).",
+    "Interior: Full FIA-spec roll cage (T45 steel, 906 LH homologation) with carbon-fiber Recaro Pole Position seats (906-specific, 4-point Schroth harnesses) and a MOMO Prototipo steering wheel (906 replica, 320mm diameter, suede-wrapped).",
+    "Lighting: LED replica of the 1966 Porsche 906 LH headlights (Hella 906-spec projectors, 55W bi-xenon bulbs) with custom Cibié Oscar rally fog lights (906 LH-specific, 100W H3 bulbs) mounted in the front splitter.",
+    "Details: Hand-brushed aluminum fuel filler cap (906 LH-specific, quick-release) and a custom titanium shift knob (906 dogleg pattern, engraved with the car’s chassis number)."
+  ]
+}

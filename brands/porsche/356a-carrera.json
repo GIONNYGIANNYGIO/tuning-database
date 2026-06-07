@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "356A CARRERA",
+  "prestazioni": [
+    "Engine: Type 547/1 (1.5L DOHC flat-4, 4-camshaft, 8-valve) with forged Mahle pistons (8.2:1 compression ratio) and Carrillo H-beam connecting rods for 120+ HP at 6,200 RPM on 100-octane fuel, paired with a custom-built Weber 46 IDM carburetor setup (replacing the original Solex 40 PII-4) for optimized throttle response and mid-range torque",
+    "Drivetrain: Close-ratio 5-speed manual transmission (ZF Type 10/22) with a limited-slip differential (Salisbury 4HA) and a lightweight aluminum flywheel (Fidanza 12.5lb) to reduce rotational mass and improve rev-matching",
+    "Suspension & Handling: Bilstein B6 monotube dampers with Eibach Pro-Kit lowering springs (1.2\" drop) and adjustable spherical bearing control arms (Elephant Racing) for camber/caster tuning, paired with 15x5.5\" Fuchs forged wheels wrapped in Michelin XAS 165HR15 tires for period-correct grip"
+  ],
+  "estetica": [
+    "Body: Lightweight aluminum front hood and decklid (replicating the 356 Carrera GT) with a custom fiberglass rear ducktail spoiler (RWB-inspired, but scaled for the 356A) and a one-off front splitter (carbon fiber, 3M matte black finish) for downforce at speed",
+    "Exterior Trim: Custom billet aluminum door handles (replacing the original chrome units) and a hand-fabricated stainless steel exhaust tip (dual 2.5\" outlets, polished to a mirror finish) exiting through the rear valence, with a bespoke ceramic-coated heat shield (Jet-Hot 2000°F) for thermal management",
+    "Interior: Full Alcantara retrim (black with red stitching) including the dashboard, door cards, and bucket seats (Recaro SRD with 4-point Schroth harnesses), paired with a MOMO Mod.78 steering wheel (380mm, suede) and a custom aluminum shift knob (engraved with the Type 547/1 engine code)"
+  ]
+}

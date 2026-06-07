@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "904 CARRERA GTS LIGHTWEIGHT",
+  "prestazioni": [
+    "Engine: Type 587/3 (2.0L flat-4, air-cooled) with forged Mahle pistons (8.5:1 compression), titanium connecting rods (Porsche 906-spec), and a custom Schrick 284° camshaft grind for optimized high-RPM breathing (8,500 RPM redline).",
+    "Forced induction: Single Garrett GT28RS turbo (0.86 A/R turbine housing) with a custom air-to-water intercooler (Spearco core) and a bespoke intake manifold (aluminum, 3D-printed runners) to maintain original engine bay packaging while supporting 0.8 bar boost (target: 280 HP at the crank).",
+    "Drivetrain: Reinforced Type 901/02 5-speed transaxle with a Quaife ATB differential (90% lock), uprated half-shafts (Porsche 911 RSR-spec CV joints), and a Sachs twin-disc clutch (ceramic-metallic friction material) for 350 Nm torque capacity."
+  ],
+  "estetica": [
+    "Body: Full carbon-fiber replica of the 904 GTS Works body (RML Group panels) with integrated NACA ducts (functional, feeding the intercooler and rear brakes) and a removable rear clamshell (carbon-Kevlar hybrid, 18 kg weight savings).",
+    "Aerodynamics: Custom front splitter (carbon, 3D-molded to original 904 contours) with a Gurney flap (adjustable, 0-15 mm range) and a rear diffuser (Porsche 917-style, 3-element design) paired with a fixed rear wing (carbon, 1200 mm span, 200 mm chord, -3° to +5° angle adjustment).",
+    "Interior: Full FIA-spec roll cage (T45 steel, 6-point, Schroth 6-point harnesses) with Recaro Pole Position seats (carbon-Kevlar shells, 5.5 kg each) and a MOMO Prototipo steering wheel (380 mm diameter, suede-wrapped, quick-release hub)."
+  ]
+}

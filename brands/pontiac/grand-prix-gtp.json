@@ -1,0 +1,14 @@
+{
+  "brand": "PONTIAC",
+  "model": "GRAND PRIX GTP",
+  "prestazioni": [
+    "Engine: Supercharged 3.8L L67 V6 (90° pushrod, 231ci) with forged internals including Mahle 2618 alloy pistons (9.0:1 compression), Eagle H-beam connecting rods, and a billet crankshaft from Callies Compstar (stroke increased to 3.800\" for 242ci). Supercharger upgraded to an Eaton M112 Gen V with a custom 3.5\" pulley (stock 3.8\") and ported by The Blower Shop for 18psi boost, paired with a custom intercooler core from Spearco (7.5\" thick, 22\" x 12\" dimensions) and dual 3\" silicone charge pipes from Vibrant Performance.",
+    "Fuel System: Dual Bosch 044 high-flow fuel pumps (255 LPH each) with a Radium Engineering dual pump hanger, Injector Dynamics ID1000x injectors (1000cc/min), and a custom fuel rail from Fore Innovations. ECU reflash via HP Tuners with a custom OS (operating system) built by Black Bear Performance, targeting 450whp and 420wtq on 93 octane with E85 flex-fuel capability (via Continental ethanol sensor).",
+    "Drivetrain: 4T65E-HD transmission with a Sonnax SmartShell torque converter (2,800 RPM stall), reinforced 3-4 clutch pack, and a custom valve body tune by Level 10 Transmissions. Differential upgraded to a Quaife ATB helical LSD with 3.94:1 gearing (stock 3.29:1) and a custom driveshaft from The Driveshaft Shop (3.5\" aluminum, balanced to 8,000 RPM)."
+  ],
+  "estetica": [
+    "Body Kit: RK Sport \"GTP Widebody\" kit with carbon fiber front splitter (3.5\" overhang), rear diffuser (integrated with dual 4\" exhaust exits), and custom-fabricated aluminum side skirts (0.125\" thick, riveted to the rocker panels). Hood replaced with a carbon fiber unit from Seibon (vented, 50% weight reduction) featuring a functional ram-air scoop aligned with the supercharger inlet.",
+    "Wheels/Tires: Forged 19x10.5\" (front) and 19x11.5\" (rear) BBS LM-R wheels (ET25 front, ET15 rear) with 275/35/19 (front) and 305/30/19 (rear) Michelin Pilot Sport Cup 2 tires. Custom wheel spacers (15mm front, 25mm rear) from H&R to achieve flush fitment with the widebody fenders.",
+    "Interior: Full carbon fiber dash overlay from Seibon (matching the hood), Recaro SPG XL seats (fixed-back, 9-way adjustable) with custom Alcantara upholstery by Katzkin. Roll cage fabricated by Autopower (8-point, mild steel, 1.75\" diameter) with harness bar and Schroth Profi II 6-point harnesses. Custom gauge pod from AEM (wideband AFR, boost, oil pressure, and fuel pressure) mounted in the A-pillar."
+  ]
+}

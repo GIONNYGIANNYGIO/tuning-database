@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "908/03 SPYDER",
+  "prestazioni": [
+    "Type 908 flat-8 (2.1L air-cooled, 8-cylinder, 300hp+ race-spec) engine rebuild with Mahle 90mm forged pistons, titanium connecting rods (Pankl Racing), and a custom billet crankshaft (JE Motorsport) to handle 9,500 RPM redline with 12.5:1 compression ratio",
+    "Twin-plug ignition system upgraded to MSD 8566 Pro-Billet distributors with NGK B9EGV racing plugs, paired with a custom Motec M800 ECU for individual cylinder fuel and ignition mapping (optimized for Avgas 115/145)",
+    "Custom 4-into-1 stainless steel exhaust headers (by Akrapovič) with equal-length primaries (1.75\" OD) and a straight-pipe 3.5\" titanium muffler (Burns Stainless) to reduce backpressure by 30% while maintaining FIA noise compliance (105dB @ 4,500 RPM)"
+  ],
+  "estetica": [
+    "Full carbon-fiber bodywork replacement (by Veloce Carbon) including a 908/03-specific front splitter with integrated NACA ducts (for brake cooling), rear diffuser with Gurney flap (30mm height), and a removable hardtop with polycarbonate side windows (Lexan MR-5)",
+    "Custom magnesium wheels (BBS E55, 15x10 front / 15x12 rear) wrapped in Pirelli P Zero Corsa tires (245/600-15 front, 325/620-15 rear) with center-lock hubs (HRE 350M) and titanium wheel nuts (ARP)",
+    "Interior stripped and refitted with a full FIA-spec roll cage (by Matter Motorsport) in 4130 chromoly, Recaro Pole Position seats (with 6-point Schroth harnesses), and a custom aluminum dashboard (by Stack Instruments) featuring a 10,000 RPM tachometer, oil pressure/temp gauges (VDO), and a Motec C127 data logger"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "356 CARRERA",
+  "prestazioni": [
+    "Engine: Type 547/1 1.5L flat-four (DOHC, 4-cam, 8-plug) with forged Mahle pistons (8.2:1 CR), Carrillo connecting rods, and a custom Schrick 284° camshaft grind for optimized high-RPM breathing (targeting 110+ HP at 7,800 RPM, up from stock 100 HP).",
+    "Induction: Dual Weber 46 IDM3 carburetors with velocity stacks (polished aluminum, 30mm bellmouths) and a custom-fabricated magnesium intake manifold (designed via CFD for equal-length runners, reducing turbulence at 6,500+ RPM).",
+    "Exhaust: Stainless steel 4-into-1 headers (1.75\" primaries, 2.5\" collector) by SS Tube Technologies, paired with a Sebring-style side-exit muffler (titanium internals, 3\" outlet) for a 12% backpressure reduction while retaining period-correct acoustics."
+  ],
+  "estetica": [
+    "Body: Lightweight aluminum front fenders (replicating the 356 Carrera GT Works spec) with riveted-on aluminum flares (hand-formed by Autohaus Max Moritz) to accommodate wider 15x5.5\" Fuchs wheels (ET15 offset) and 185/70R15 Dunlop Racing SP tyres.",
+    "Aero: Custom front splitter (carbon-Kevlar hybrid, 3mm thick) by 917 Motorsports, designed to generate 30 lbs of downforce at 100 mph without altering the 356’s iconic silhouette. Rear decklid fitted with a 904-style ducktail spoiler (aluminum, 1.5mm gauge) for balanced high-speed stability.",
+    "Interior: Full Alcantara retrim (black with red stitching) by Recaro Classic, featuring a 356 Carrera GT-spec roll cage (TIG-welded 4130 chromoly, 1.5\" diameter) by Matter Fab, and a MOMO Prototipo 330mm steering wheel (quick-release hub, suede-wrapped) for improved grip and driver feedback."
+  ]
+}

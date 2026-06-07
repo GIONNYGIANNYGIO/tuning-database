@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "356 C EMORY SPECIAL",
+  "prestazioni": [
+    "Engine: Type 616/16 (1.6L flat-four) with Emory Motorsports-spec forged internals, including Mahle 90mm forged pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft with balanced rotating assembly for 8,500 RPM redline capability",
+    "Forced induction: Custom-built turbocharging system using a Garrett GT2860RS turbo (0.63 A/R turbine housing) with a custom air-to-water intercooler (Spearco core) and a bespoke intake manifold fabricated from 304 stainless steel, paired with a Bosch 044 fuel pump and ID1000 injectors for 220+ HP at 12 PSI boost",
+    "Drivetrain: Emory Motorsports 5-speed close-ratio gearbox (Type 741) with a 4.43:1 final drive ratio, limited-slip differential (ZF clutch-type), and a custom lightweight flywheel (Tilton) for rapid gear engagement, paired with a Sachs twin-disc clutch (240mm)"
+  ],
+  "estetica": [
+    "Body: Full Emory Motorsports 'Outlaw' widebody conversion with hand-formed 304 stainless steel fender flares (2.5-inch wider front, 3-inch wider rear), custom aluminum hood with functional heat extractor vents, and a one-off rear ducktail spoiler (aluminum construction) for aerodynamic balance",
+    "Wheels: 15x7 and 15x9.5-inch Fuchs-style forged aluminum wheels (BBS RS replica) with custom offset (-15mm front, -20mm rear) and 5x130 PCD, wrapped in 185/65R15 and 225/60R15 Michelin Pilot Sport Cup 2 tires for optimal grip",
+    "Interior: Full custom leather interior by Autos International, featuring Recaro SRD bucket seats (fixed-back, fiberglass shells) with 3-inch Schroth 4-point harnesses, a MOMO Mod.78 steering wheel (380mm diameter, quick-release hub), and a custom aluminum dashboard with Smiths gauges (3.5-inch tachometer, oil pressure, and boost gauge)"
+  ]
+}

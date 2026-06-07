@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "550A SPYDER RS",
+  "prestazioni": [
+    "Engine: Type 547/3 quad-cam flat-four (1.5L, 110 HP stock) rebuilt with forged Mahle 90mm pistons (8.5:1 compression), Carrillo H-beam connecting rods, and a custom billet crankshaft by Hanz Mezger Engineering for 1.8L displacement, paired with a custom dry-sump system using a Peterson Fluid Systems 4-stage pump and a Setrab 50-row oil cooler",
+    "Forced induction: Single Garrett GT2860RS turbocharger (0.63 A/R turbine housing) with a custom air-to-water intercooler (Spearco core) and a custom intake manifold by Protomotive Engineering, tuned to 1.2 bar boost with a TurboSmart Hyper-Gate45 wastegate and a custom ECU map via a Motec M150 standalone (replacing the original Bosch mechanical fuel injection with sequential electronic injection using ID1000 injectors)",
+    "Suspension: Full custom coilover setup by Öhlins TTX25 MkII with 24-way adjustable damping, custom valving for the 550A’s trailing-arm front and swing-axle rear, and spherical bearings by NMB (replacing rubber bushings) for zero compliance; adjustable anti-roll bars by H&R (22mm front, 18mm rear) with rose-jointed drop links"
+  ],
+  "estetica": [
+    "Body: Full carbon-fiber replica of the 550A Spyder RS by Fibreworks (1.2mm pre-preg weave, autoclave-cured) with a custom widebody kit extending fenders by 50mm (front) and 60mm (rear) to accommodate 16x8.5 ET15 (front) and 16x10 ET5 (rear) BBS RS-GT wheels (gold centers, polished lips) wrapped in Michelin Pilot Sport Cup 2 tires (185/55R16 front, 225/50R16 rear)",
+    "Aerodynamics: Custom front splitter by 935 Motorsport (carbon fiber, 30mm overhang) with integrated NACA ducts for brake cooling, and a rear diffuser by RWB (carbon fiber, 3-element design) with a Gurney flap; side skirts by TechArt (carbon fiber, matching the widebody flares) and a custom rear spoiler (aluminum, 200mm chord, adjustable angle via quick-release mounts)",
+    "Interior: Full Alcantara retrim by Saddleback Leather (steering wheel, shift knob, and door cards) with custom stitching in Porsche GT Silver; full roll cage by Matter Fab (TIG-welded 4130 chromoly, 8-point design with integrated harness bars) and Sparco Pro ADV seats (carbon fiber shells, 6-point Schroth Profi II harnesses); digital dash by AIM MXS Strada (replacing the original VDO gauges) with data logging for boost, oil pressure, and wideband AFR (AEM X-Series)"
+  ]
+}

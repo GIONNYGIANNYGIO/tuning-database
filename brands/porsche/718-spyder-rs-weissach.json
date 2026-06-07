@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "718 SPYDER RS WEISSACH",
+  "prestazioni": [
+    "Engine: 4.0L NA MA2.2 (9A2 E60) with a custom Manthey Racing MRX-0500 ECU reflash, optimizing the 8,400 RPM redline and 500 HP output via direct port injection tuning with Motec M150 data logging for real-time AFR and ignition timing adjustments",
+    "Forced induction: Rotrex C38-91 supercharger kit with a custom intercooler setup (PWR Australia 4.5\" core) and Akrapovič titanium downpipes, paired with a custom X-pipe exhaust featuring Inconel 625 headers (Fabspeed Motorsport) and a secondary cat delete for a 30% reduction in backpressure",
+    "Suspension: Öhlins TTX46 MkII coilovers with 24-way adjustable damping, custom valving for the Weissach package’s rear-wheel steering, and Tillet B12 10mm spacers to optimize track camber (-3.5° front, -2.8° rear) with solid spherical bushings (SuperPro) replacing all factory rubber mounts"
+  ],
+  "estetica": [
+    "Aerodynamics: 992 GT3 RS-inspired carbon fiber front splitter (991.2 GT3 RS style, RWB Design) with a custom 3D-printed Gurney flap (AeroDynamik) and a fixed rear wing (TechArt GTstreet R) with adjustable carbon fiber side blades for +120kg downforce at 200 km/h",
+    "Exterior: Full carbon fiber body kit (992 GT3 RS weave, Carbonio Composites) including front fenders, rear quarter panels, and a custom ducktail spoiler with integrated third brake light (Porsche Classic part #992.651.960.00), wrapped in a custom matte Graphite Blue (Porsche Paint-to-Sample code 29W) with satin clear coat",
+    "Wheels: HRE FF01 forged wheels (9.5x20 ET40 front, 12.5x20 ET50 rear) with custom center-lock adapters (PCD 5x130 to 5x120) and Michelin Pilot Sport Cup 2 R tires (265/35/20 front, 325/30/20 rear) shaved to 4.5mm tread depth for track use"
+  ]
+}

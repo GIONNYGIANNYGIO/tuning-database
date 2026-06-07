@@ -1,0 +1,18 @@
+{
+  "brand": "PLYMOUTH",
+  "model": "GTX",
+  "prestazioni": [
+    "440 RB (426 Hemi) engine block reinforced with a Dart Machinery Big M block (PN: 31161211) for 10.5:1 compression, paired with a forged Eagle crankshaft (PN: 60010) and Manley H-beam connecting rods (PN: 14175-8) for 4.25\" stroke capability",
+    "Custom camshaft grind by Comp Cams (PN: 20-774-9) with 280°/286° duration, .617\"/.624\" lift, and 110° lobe separation, paired with a T&D Machine Products shaft-mount rocker system (PN: 10720) for valvetrain stability at 7,500 RPM",
+    "Holley Dominator EFI system (PN: 554-112) with dual 1,200 CFM throttle bodies, controlled by a FAST XFI Sportsman ECU (PN: 30102000), feeding a custom 2.5\" equal-length stainless steel header setup by Stainless Works (PN: SW25440) into a 3.5\" dual exhaust with Borla Pro XS mufflers (PN: 140507)",
+    "Garrett GTX5533R turbocharger (PN: 807168-5002S) with a Tial MV-R 60mm wastegate (PN: MVR60) and a custom air-to-water intercooler core by PWR (PN: PWI4000), plumbed with -10AN lines and Earl's Pro-Lite 350 fittings (PN: 660110ERL)",
+    "Tremec TKO-600 5-speed transmission (PN: TKO-600-1A) with a McLeod twin-disc clutch (PN: 8617) and a 3.54:1 gear ratio Dana 60 rear end with a Detroit Locker differential (PN: 225SL20A) and 35-spline axles by Moser Engineering (PN: 9350-A)"
+  ],
+  "estetica": [
+    "Rocket Bunny V1 widebody conversion kit (PN: RB-BNE4-01) with custom carbon fiber fenders, front splitter, and rear diffuser, all finished in BASF Glasurit 90-Line 'TorRed' paint with a satin clear coat",
+    "OEM-style GTX badging replaced with custom 3D-printed '440 RB' emblems in brushed aluminum by Badgeskins (PN: BS-PLY-440RB), mounted on the front fenders and rear decklid",
+    "Billet Specialties Vintec wheels (PN: 210500027) in 18x9 (front) and 18x10.5 (rear) with Nitto NT05 tires (275/35/18 front, 315/30/18 rear), paired with Baer 6P calipers (PN: 6062182) and 14\" rotors (PN: 1400002) for big brake conversion",
+    "Custom roll cage by Autopower Industries (PN: AP-70440) with 1.75\" .120 wall DOM tubing, integrated with a Sparco Pro 2000 seat (PN: 01979) and Schroth 6-point harness (PN: ASM4203R)",
+    "LED taillight conversion using JDM-spec Toyota Supra A80 lenses (PN: 81930-14170) retrofitted with custom sequential turn signals, controlled by a Diode Dynamics SS360 module (PN: SS360X)"
+  ]
+}

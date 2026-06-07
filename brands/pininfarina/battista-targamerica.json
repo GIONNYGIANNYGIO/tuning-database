@@ -1,0 +1,14 @@
+{
+  "brand": "PININFARINA",
+  "model": "BATTISTA TARGAMERICA",
+  "prestazioni": [
+    "Engine: Rimac-sourced quad-motor EV powertrain (internal code: RIMAC C_TWO EV4) – replace stock inverters with Cascadia Motion PM150DX inverters (350 kW peak per motor) and upgrade battery cooling to a PWR Performance Products dual-loop liquid-to-liquid heat exchanger with 50/50 water-glycol mix for sustained 1,800 A discharge rates",
+    "Drivetrain: Swap OEM single-speed gearboxes for Hewland HFE-600 2-speed sequential transaxles (1st gear ratio 12.5:1, 2nd gear 5.8:1) with Pankl Racing Systems carbon-fiber driveshafts and AP Racing CP9444-4S carbon-ceramic clutches (4-disc setup, 1,200 Nm torque capacity)",
+    "Suspension: Replace stock adaptive dampers with Öhlins TTX46 MkII coilovers (3-way adjustable, 200 N/mm front springs, 220 N/mm rear) paired with Tractive Suspension hydraulic bump stops (50mm travel, 1,500 N/mm progressive rate) and custom-machined billet aluminum top mounts from HRE Performance Wheels (7075-T6 alloy, 15% weight reduction)"
+  ],
+  "estetica": [
+    "Aero: Full carbon-fiber body conversion using a custom Novitec Torado-inspired widebody kit (front fenders +50mm, rear quarters +70mm) with integrated 3D-printed active Gurney flaps (Venturi Automobiles design, 0-100% deployment in 0.3s) and a fixed rear wing from 991 GT3 RS (3.9m² surface area, 300 kg downforce at 250 km/h)",
+    "Wheels: HRE FF01 flow-formed forged wheels (20x10.5 ET35 front, 21x12.5 ET45 rear) with custom center-lock adapters (PCD 112x5, 18mm offset) and Michelin Pilot Sport Cup 2 R tires (275/30 R20 front, 325/25 R21 rear, custom compound for 1,400 kg vehicle weight)",
+    "Interior: Full Alcantara-wrapped dashboard with custom carbon-fiber shift paddles (extended length, 120mm throw) from Capristo Automotive, Sparco QRT-K seats (carbon-Kevlar shell, 6-point harness cutouts) with integrated 6-point Schroth Profi II-6 ASM harnesses, and a Motec C127 dash logger (12.3\" display, CAN bus integration for all 4 motors and battery management)"
+  ]
+}
