@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "911 ST",
+  "prestazioni": [
+    "Engine: 911/83 (Type 901/83) 2.5L flat-six with forged Mahle pistons (9.8:1 compression), titanium connecting rods (Porsche 917-spec), and a custom-built Kugelfischer mechanical fuel injection system (replacing the original Bosch system) for precise fuel delivery at high RPM (redline extended to 8,200 RPM).",
+    "Forced Induction: Single Garrett GT3076R turbocharger (internally wastegated, .63 A/R turbine housing) with a custom air-to-water intercooler (PWR North America) and a TiAL MV-R 44mm wastegate to manage boost at 1.2 bar (17.4 psi), paired with a custom 3.5-inch stainless steel exhaust system (Fabspeed Motorsport) featuring a straight-pipe design with a valved X-pipe and dual 100mm titanium tips (Akrapović).",
+    "Drivetrain & Suspension: 915/80 5-speed manual transmission with a Guard Industries short-shift kit (25% reduction in throw) and a 80% limited-slip differential (OS Giken Super Lock). Öhlins TTX46 coilovers (3-way adjustable, 20mm drop) with spherical bearing top mounts (Tarett Engineering) and adjustable anti-roll bars (H&R, 24mm front / 22mm rear). Brembo GT 6-piston calipers (380mm front rotors, 350mm rear) with Ferodo DS2500 pads and stainless steel brake lines (Goodridge)."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion (RWB-inspired, custom-fabricated by RAUH-Welt BEGRIFF) with a 50mm front and 70mm rear fender flares, featuring a custom ducktail spoiler (Porsche 935-style, carbon fiber) and a front splitter with integrated canards (993 GT2-spec, carbon fiber).",
+    "Aero: Custom front diffuser (carbon fiber, 3D-scanned for optimal airflow) with integrated tow hooks (Porsche GT3 Cup-style) and a rear diffuser (911 RSR-inspired, carbon fiber) with dual 80mm exhaust exits. Side skirts (RWB-style, carbon fiber) with integrated LED turn signals (Philips Luxeon).",
+    "Wheels & Finishing: BBS RS-GT II 18x10.5 +25 front / 18x12 +30 rear (ET25/ET30) with titanium wheel bolts (H&R) and Michelin Pilot Sport Cup 2 tires (275/35/18 front, 315/30/18 rear). Full dechroming with satin black accents (3M 2080 wrap) and a custom livery (Porsche 917 Gulf-inspired, applied by VINCE)."
+  ]
+}

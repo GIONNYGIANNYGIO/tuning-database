@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "911 SINGER DLS TURBO",
+  "prestazioni": [
+    "Engine: Reworked 3.8L Type-930/80 flat-six (ME9.7 ECU) with forged internals (Mahle pistons, Carrillo H-beam rods, billet crankshaft) and a custom-built Garrett GTX4202R turbocharger (1.28 A/R turbine housing, 62mm compressor wheel) pushing 1.2 bar of boost for 550+ hp at 7,200 RPM with a 7,800 RPM redline. Includes a custom titanium 4-into-1 exhaust manifold (Singer-specific design) and a secondary air injection delete for optimized scavenging.",
+    "Drivetrain: Sachs Performance twin-disc clutch (PCCB-compatible) with a 3.44:1 limited-slip differential (ZF torque-sensing) and a Singer-specific Quaife ATB helical LSD. Upgraded half-shafts (GKN Lobro) with reinforced CV joints and a custom 6-speed G50 gearbox (short-shift kit by CAE) with carbon-lined synchros for rapid upshifts.",
+    "Suspension & Handling: Öhlins TTX46 coilovers (3-way adjustable, 24-position rebound, 22-position compression) with Singer-specific valving and spherical bearing top mounts. Front and rear anti-roll bars (TAROX 24mm adjustable) with polyamide bushings. Brembo GT-R monobloc calipers (6-piston front, 4-piston rear) with 380mm PCCB carbon-ceramic rotors and Pagid RSL29 brake pads. Michelin Pilot Sport Cup 2 R tires (245/35/18 front, 305/30/18 rear) on 18x9.5 and 18x12 BBS FI-R wheels (forged, 3-piece, Singer-exclusive gold centers)."
+  ],
+  "estetica": [
+    "Body: Singer DLS-specific carbon-fiber widebody kit (hand-laid, pre-preg autoclave) with integrated front splitter, side skirts, and a ducktail spoiler (all removable for concourse). Custom aluminum hood with functional NACA ducts for turbo cooling and a rear diffuser with integrated titanium exhaust outlets (Singer x Akrapović collaboration).",
+    "Interior: Full bespoke leather interior (Bridge of Weir hides) with Singer-specific diamond-quilted door cards, Alcantara headliner, and a custom MOMO Prototipo steering wheel (380mm, suede-wrapped, Singer logo). Retro-inspired gauge cluster (Smiths-style analog dials) with a digital boost gauge (AEM X-Series) and a Singer-exclusive chronograph (Heuer Monaco homage).",
+    "Lighting & Details: Hella Dynamic LED headlights (Singer-tuned beam pattern) with custom titanium bezels and a rear light cluster featuring vintage Porsche 911-style round taillights (LED, sequential turn signals). Titanium hardware throughout (lug nuts, valve stems, shift knob) and a Singer-exclusive gold-plated filler cap (engraved with build number)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "911 TURBO S EXCLUSIVE",
+  "prestazioni": [
+    "Engine: 3.8L twin-turbocharged flat-six (engine code: MA1.71/MA1.72) upgraded with a **TTE720** turbocharger kit (Garrett GTX5533R turbos, billet compressor wheels, 1.28 A/R turbine housings) paired with a **VF Engineering** titanium intercooler upgrade (50% larger core, 40% reduced pressure drop) and **IPD** high-flow intake manifold with CNC-ported throttle bodies for 800+ WHP on E85",
+    "Drivetrain: **Porsche Motorsport** PDK transmission reinforcement (carbon-fiber clutch packs, upgraded differential with **Wavetrac** helical LSD, and **Tilton** triple-plate ceramic clutch) mated to a **Quaife** ATB differential for 0.8s faster 0-60mph launches, with **Bilstein** Clubsport coilovers (3-way adjustable damping, 30mm lower ride height) and **H&R** monoball subframe bushings for sub-2.5s 0-100km/h times",
+    "Exhaust: **Akrapovič** Evolution Line Titanium full-system (4.5\" diameter, Inconel 625 headers, electronically controlled valves) with **Capristo** 100-cell high-flow catalytic converters and **Armytrix** Valvetronic bypass valves for 98dB track mode, reducing backpressure by 42% while adding 60Nm of torque at 4,500 RPM"
+  ],
+  "estetica": [
+    "**RWB (Rauh-Welt Begriff) Porsche 991.2 Turbo S** widebody kit (custom-fabricated fenders, 30mm extended overfenders, carbon-fiber canards) with **Vorsteiner** GT3-spec front splitter and **991 GT2 RS** rear diffuser, finished in **Porsche Exclusive** Golden Yellow Metallic with **BBS** FI-R II 20\" forged wheels (9.5J ET45 front, 12.5J ET55 rear) in matte black with gold accents",
+    "**TechArt** Magnum III body kit (carbon-fiber side skirts, GT3-style rear bumper with integrated **Novitec** titanium exhaust tips) and **Porsche Exclusive** full-leather interior retrim (Carrera GT-style seats with **Recaro** SPG XL bucket inserts, **Alcantara** headliner, and **Burmester** 3D-printed titanium shift paddles)",
+    "**HRE** FF03 21\" forged wheels (custom concave design, 10.5J ET40 front, 13J ET50 rear) wrapped in **Michelin** Pilot Sport Cup 2 R tires (265/30 front, 325/25 rear) with **AP Racing** 400mm carbon-ceramic brake kit (6-piston calipers, 40mm rotors) and **Pagid** RSL29 brake pads for 1.2g deceleration from 124mph"
+  ]
+}

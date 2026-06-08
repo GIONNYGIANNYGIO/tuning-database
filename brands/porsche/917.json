@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "917",
+  "prestazioni": [
+    "Engine: Type 912/00 4.5L flat-12 (air-cooled, 120° V-angle) with titanium connecting rods (Mahle) and forged aluminum pistons (Kolbenschmidt) for 1,000+ hp in qualifying trim (12.5:1 compression, 8,400 RPM redline).",
+    "Forced induction: Twin Garrett AiResearch TO4B-60 turbochargers (1.4 bar boost) with custom billet aluminum compressor housings (Turbonetics) and 48mm wastegates (HKS), paired with dual air-to-water intercoolers (PWR) mounted in the rear fenders.",
+    "Drivetrain: 5-speed Type 917/30 transaxle (Hewland) with titanium shift forks, carbon-fiber reinforced synchros (Xtrac), and a limited-slip differential (ZF) with 75% lockup under load. Clutch: 3-plate carbon-carbon unit (AP Racing) with hydraulic actuation."
+  ],
+  "estetica": [
+    "Body: Full magnesium-alloy monocoque chassis (Porsche Werkzeugbau) with 1.2mm aluminum outer panels (Alcoa), reinforced with carbon-fiber front splitter (Rocket Bunny) and rear diffuser (917/30-spec, hand-formed by Kremer Racing).",
+    "Aerodynamics: Le Mans-spec longtail (917 LH) with adjustable rear wing (Gurney flap, 3-position angle) and front canards (917/20 'Pink Pig' replica, fabricated by GTO Engineering).",
+    "Wheels/Tires: BBS magnesium center-lock wheels (15x10.5 front, 15x19 rear) with Goodyear Eagle Historic Racing tires (5.5/22.5-15 front, 12.0/26.0-15 rear) and titanium wheel nuts (ARP)."
+  ]
+}

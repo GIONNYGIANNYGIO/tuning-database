@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "911 TURBO 996",
+  "prestazioni": [
+    "Engine: M96/70S (3.6L twin-turbo flat-6) with a custom GTX4294R turbocharger upgrade from Garrett, paired with a Tial MV-R 44mm external wastegate and a custom 4-inch titanium downpipe by Fabspeed Motorsport, reducing backpressure by 40% while maintaining OEM catalytic converter compliance for emissions.",
+    "Fuel System: Full Motec M150 ECU standalone management with dual Bosch 044 high-flow fuel pumps, ID1000cc injectors, and a Radium Engineering dual catch can setup to prevent oil contamination in the intake tract under high boost (targeting 24 psi on 93 octane).",
+    "Drivetrain: Guard Transmission 6-speed short shifter with a Sachs Performance twin-disc clutch (rated for 800 Nm torque) and a Quaife ATB differential (80% lock) to handle the increased power delivery without axle tramp, paired with a custom 3.88:1 final drive ratio for optimized acceleration."
+  ],
+  "estetica": [
+    "Widebody Conversion: RWB (Rauh-Welt Begriff) 996 Turbo kit with custom 30mm extended fenders, riveted aluminum overfenders, and a one-off carbon fiber ducktail spoiler (replacing the OEM whale tail) for reduced lift at high speeds (tested to 180 mph).",
+    "Wheels: BBS LM-R 19x10.5 ET35 front and 19x12.5 ET45 rear with custom 5x130 hub-centric adapters, wrapped in Michelin Pilot Sport Cup 2 R tires (275/30/19 front, 335/30/19 rear) for maximum mechanical grip.",
+    "Interior: Full Recaro Pole Position seats (carbon fiber shells) with Schroth 6-point harnesses, a custom roll cage by Matter Fab (TIG-welded 4130 chromoly) integrated with a bolt-in half-cage, and a Momo Prototipo steering wheel (350mm diameter) with a quick-release hub for easy egress."
+  ]
+}

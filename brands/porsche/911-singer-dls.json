@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "911 SINGER DLS",
+  "prestazioni": [
+    "Engine: 4.0L Type-964 air-cooled flat-six (internally designated M64/05) with Singer Vehicle Design’s bespoke titanium connecting rods (Pankl Racing Systems) and forged Mahle pistons (9.5:1 compression), paired with a custom Cosworth ECU (SVD-specific calibration) managing sequential fuel injection and individual throttle bodies (ITBs) by Jenvey Dynamics (48mm bore).",
+    "Forced Induction: Twin Garrett GT35R turbochargers (Singer-specified, 0.82 A/R turbine housings) with TiAL Sport 44mm wastegates and custom intercoolers (air-to-water, fabricated by Bell Intercoolers) integrated into the front bumper ducting, flowing 600 CFM per side with a 1.2-bar peak boost target (dyno-verified 500+ hp at 7,800 RPM).",
+    "Drivetrain: Singer DLS-specific 6-speed manual transmission (G50/52-based) with a carbon-fiber reinforced clutch (Sachs Performance Twin-Disc, 240mm) and a Quaife ATB helical LSD (85% lockup), paired with a custom lightweight flywheel (10.5 lbs, CNC-machined from 7075-T6 aluminum by Tilton Engineering)."
+  ],
+  "estetica": [
+    "Bodywork: Singer DLS-exclusive carbon-fiber widebody kit (hand-laid by Composite Worx) with integrated NACA ducts (functional, feeding the intercoolers and oil cooler), finished in a custom ‘Singer Silver’ (PPG DBC 9284) with matte-black ‘DLS’ script on the rear quarter panels (vinyl by Avery Dennison).",
+    "Aerodynamics: Singer-designed front splitter (carbon-fiber, 3D-molded) with adjustable dive planes (3 positions, -15mm to -30mm ground clearance) and a fixed rear diffuser (dual-plane, 50mm height) by APR Performance, paired with a bespoke rear wing (carbon-fiber, 1,400mm span) featuring a Gurney flap (10mm) and integrated third brake light (LED, OSRAM).",
+    "Wheels & Tires: Forged magnesium center-lock wheels (Singer x HRE, 18x9.5 front / 18x12 rear, 3-piece construction) wrapped in Michelin Pilot Sport Cup 2 R tires (245/35 R18 front, 305/30 R18 rear), with custom ‘DLS’ engraved into the wheel centers (laser-etched by HRE)."
+  ]
+}

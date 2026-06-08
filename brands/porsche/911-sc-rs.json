@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "911 SC RS",
+  "prestazioni": [
+    "Engine: 3.0L Type 930/18 flat-six (911/77) with forged Mahle pistons (9.8:1 compression), Carrillo H-beam connecting rods, and a custom-built Kugelfischer mechanical fuel injection system recalibrated by *Bosch Motorsport* for 300+ hp at 7,000 RPM (stock: 255 hp).",
+    "Forced Induction: Single *Garrett T3/T4 hybrid turbocharger* (T04B compressor, .63 A/R turbine housing) with *Turbonetics Deltagate 40 wastegate* and *Spearco 4-core intercooler* (front-mount, 2.5\" piping), pushing 1.2 bar of boost for a 40% power increase while retaining the original 930/18 block’s reliability.",
+    "Suspension: *Bilstein B16 PSS10 coilovers* (911 SC RS-specific valving) with *Eibach Pro-Kit springs* (20mm drop), *Weissach-style adjustable anti-roll bars* (24mm front, 22mm rear), and *Porsche Motorsport Group B-spec spherical bearing control arms* (959-derived) for sub-3.5s 0-60 mph times in period-correct Group B rally trim."
+  ],
+  "estetica": [
+    "Body: *RUF RT-12-inspired widebody conversion* (hand-rolled 935-style steel fenders, 2.5\" wider than stock) with *Porsche Motorsport 959-style front splitter* (carbon-Kevlar composite) and *RallyArt rear diffuser* (aluminum, 964 RS-derived).",
+    "Aero: *935/78 \"Moby Dick\" replica rear wing* (carbon fiber, adjustable angle via *Tilton 64-series rod ends*) paired with *Porsche Classic 911 SC RS-specific front bonnet* (aluminum, louvered for brake cooling) and *Hella Rallye 700 driving lamps* (Cibie Oscar-style mounts).",
+    "Interior: *Recaro SRD full-bucket seats* (935-spec, carbon-Kevlar shell) with *Schroth 6-point harnesses*, *Momo Prototipo steering wheel* (380mm, suede), and *Motec C127 dash logger* (replacing the stock VDO cluster) with *Porsche Classic 917-style toggle switches* (Aircraft Spruce-sourced) for auxiliary systems."
+  ]
+}

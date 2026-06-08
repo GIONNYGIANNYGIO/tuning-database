@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "911 RSR-19",
+  "prestazioni": [
+    "Engine: 4.2L flat-six (MA1.71/MA1.72) with a bespoke dry-sump lubrication system, reinforced titanium connecting rods (Pankl Racing Systems), and a 102mm stroke crankshaft (vs. 81.5mm in the 991.2 GT3 RS) for optimized endurance racing. Forced induction via a single Garrett GT35R turbocharger (custom billet compressor wheel, 62mm inducer) with a 1.3 bar boost limit, paired with a Motec M150 ECU running a 20,000 RPM rev limiter and a 12.5:1 compression ratio.",
+    "Suspension: Full Öhlins TTX-46 MkII 4-way adjustable dampers with 30mm front/28mm rear hollow anti-roll bars (Tarett Engineering), spherical bearing top mounts (NMB Tech), and a 70mm front/60mm rear ride height adjustment range. Rear toe links upgraded to uniball-equipped adjustable units (Vorshlag Motorsport) for precise alignment under high lateral loads.",
+    "Aerodynamics: FIA-homologated carbon fiber front splitter (Porsche Motorsport) with 3x adjustable dive planes, a 1,900mm-wide rear wing (CFRP, 3-element design) generating 1,600kg of downforce at 250 km/h, and a diffuser with 5x vertical strakes (APR Performance). Underbody features a full-length venturi tunnel with integrated cooling ducts for the rear brakes (Brembo GT 6-piston calipers, 410mm discs)."
+  ],
+  "estetica": [
+    "Exterior: Full carbon fiber bodywork (Porsche 911 RSR-19 spec) with a matte vinyl wrap (3M 1080 Gloss Black) and accented red pinstriping (1/8\" width, 3M Scotchcal). Front fenders widened by 50mm (Porsche Motorsport OEM extension kit) to accommodate 12.5x18\" BBS FI-R wheels (ET40 front, ET30 rear) with titanium lug bolts (McGard).",
+    "Lighting: Full LED conversion (Hella 500 Series) with integrated rain light (Oracle Lighting) and carbon fiber headlight housings (Seibon). Side mirrors replaced with ultra-low-drag units (Aimpoint Carbon) featuring integrated cameras for FIA GT3-spec blind-spot monitoring.",
+    "Interior: Full FIA-spec roll cage (Schroth 6-point harnesses, OMP carbon fiber seats) with a Motec C127 dash display (12.3\" touchscreen) and a custom Alcantara-wrapped steering wheel (Sparco R383, 320mm diameter) featuring paddle shifters for the 6-speed sequential gearbox (Xtrac 676). Door cards replaced with carbon fiber units (VIS Racing) housing fire suppression system controls (Lifeline Zero 360)."
+  ]
+}

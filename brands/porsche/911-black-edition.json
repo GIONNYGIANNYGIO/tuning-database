@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "911 BLACK EDITION",
+  "prestazioni": [
+    "Engine: 3.8L MA1.76 (991.1 Carrera S) with a Cobb Accessport v3 Stage 2+ tune, optimizing the stock turbochargers (KKK turbochargers) for 420 HP and 380 lb-ft of torque with a 93 octane fuel map, including custom ignition timing and fuel pressure adjustments for aggressive throttle response",
+    "Forced Induction: Hybrid turbo upgrade using Garrett GT3076R turbos with billet compressor wheels, TiAL 44mm MV-R wastegates, and custom 3.5\" stainless steel downpipes with GESI catalytic converters for reduced backpressure and improved spool",
+    "Suspension & Handling: Öhlins Road & Track DFV coilovers with 8-position adjustable damping, custom-valved for the 991.1 chassis, paired with Tarett Engineering solid aluminum front and rear sway bars (24mm front, 22mm rear) and spherical bearing end links for zero deflection"
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny V2 widebody kit (991.1-specific) with carbon fiber front canards, rear diffuser, and a ducktail spoiler extension, all painted in Porsche GT3 RS Lava Orange for contrast against the Black Edition's factory paint (Basalt Black Metallic)",
+    "Wheels: HRE FF01 forged wheels in 9x20 ET50 front and 12x20 ET60 rear, finished in Satin Black with brushed titanium accents, wrapped in Michelin Pilot Sport Cup 2 R tires (245/30/20 front, 305/30/20 rear) for maximum grip",
+    "Interior: Full Alcantara retrim by Studio Incar with black Alcantara headliner, door cards, and dashboard, including a custom roll cage (MCS Motorsport bolt-in 6-point cage) in gloss black, and a Motec C127 dash display replacing the stock instrument cluster for real-time data logging"
+  ]
+}

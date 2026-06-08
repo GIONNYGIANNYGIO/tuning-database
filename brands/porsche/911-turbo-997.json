@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "911 TURBO 997",
+  "prestazioni": [
+    "Engine: ME7.8.1 ECU flash via Cobb Accessport with custom Stage 2+ tune targeting 600whp (550-570hp at crank) on 93 octane, optimized for the M97/70 (3.8L) twin-turbo flat-six with revised ignition timing, boost pressure increased to 1.5 bar (21.8 psi), and custom fuel maps for ID1000 injectors (1000cc/min) paired with a Bosch 044 fuel pump and Aeromotive A1000 regulator",
+    "Turbochargers: Hybrid Garrett GTX3582R Gen II turbos (82mm compressor, 62mm turbine) with billet compressor wheels, 360° thrust bearings, and TiAL MV-R 44mm wastegates (set to 1.5 bar), paired with custom 3.5\" stainless steel downpipes (catless) and GReddy Revolution RS 4.5\" front-mount intercooler (FMIC) with 2.5\" charge piping and silicone couplers",
+    "Drivetrain: OS Giken Super Lock LSD (2.15 final drive ratio) with upgraded 3.4:1 ring & pinion gearset, Sachs Performance Stage 3 clutch (ceramic-metallic, 800Nm torque capacity), and a Guard Transmission Adapter Plate to reinforce the bellhousing for the increased power"
+  ],
+  "estetica": [
+    "Widebody Conversion: RWB (Rauh-Welt Begriff) \"Stuttgart\" kit with custom 997.2 front bumper lip, extended fenders (30mm wider front, 40mm wider rear), and carbon fiber overfenders, paired with custom 3M Matte Graphite vinyl wrap and clear bra (XPEL Ultimate) on the front end",
+    "Wheels: BBS RS-GT1 (9.5x19 ET45 front, 12.5x19 ET25 rear) with titanium hardware, shod in Michelin Pilot Sport Cup 2 tires (245/35/19 front, 325/30/19 rear), mounted on H&R TRAK+ wheel spacers (15mm front, 25mm rear) for aggressive flush fitment",
+    "Aerodynamics: TechArt GTstreet R front splitter (carbon fiber) with integrated canards, custom 997.2 GT3 RS rear wing (carbon fiber, 30mm taller than OEM) with Gurney flap, and a VRSF dual-core aluminum radiator with integrated oil cooler to support track use"
+  ]
+}

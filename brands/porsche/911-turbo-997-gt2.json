@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "911 TURBO 997 GT2",
+  "prestazioni": [
+    "Engine: METHANOL INJECTION SYSTEM (Snow Performance Stage 3 Boost Cooler) for the ME7.8.1 ECU-managed 3.6L TWIN-TURBO FLAT-6 (engine code: M97/70S), enabling 1.8 bar (26 psi) boost with E85 flex-fuel capability, paired with a Garrett GTX4202R turbocharger (88mm billet compressor wheel, .82 A/R turbine housing) and TiAL MV-R 44mm wastegates for precise boost control.",
+    "Drivetrain: SPEC Stage 5+ Clutch (6 puck, 3000lb clamp load) with a billet steel flywheel for the G96/90 6-speed manual transmission, reinforced with a Guard Transmission Adapter Plate and a Cusco Type-RS 1.5-way limited-slip differential (80% lockup under power, 40% on lift-off).",
+    "Suspension: ÖHLINS TTX40 4-way adjustable coilovers (24-way rebound, 22-way compression damping) with spherical bearing top mounts, paired with a GT2-specific H&R RSS ClubSport sway bar kit (24mm front, 22mm rear, adjustable in 3 positions) and Tillet B12 10x18 front / 12x18 rear polycast beds for motorsport-spec wheel fitment."
+  ],
+  "estetica": [
+    "Aerodynamics: RAUH-WELT BEGRIFF (RWB) 'Pandem' widebody kit (997 GT2-specific, 60mm extended fenders, carbon fiber overfenders) with a custom Vorsteiner GT2-S rear diffuser and a 991.2 GT3 RS-style front splitter (carbon fiber, 3D-scanned for OEM+ fitment).",
+    "Wheels: BBS FI-R II (10.5x18 ET30 front, 12.5x18 ET40 rear) in gold with titanium hardware, shod with Michelin Pilot Sport Cup 2 R tires (275/35/18 front, 335/30/18 rear) for track-focused grip.",
+    "Interior: Full Recaro Pole Position (PP) carbon fiber bucket seats (997 GT2-specific mounting brackets) with Schroth Profi II 6-point harnesses, a MOMO Mod.78 carbon fiber steering wheel (350mm, suede rim), and a Motec C127 dash logger (replacing the stock instrument cluster) with GPS lap timing and real-time boost/fuel pressure monitoring."
+  ]
+}

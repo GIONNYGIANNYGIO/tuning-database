@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "917 LH GULF EDITION",
+  "prestazioni": [
+    "Engine: Type 912/10 flat-12 (4.5L, air-cooled) with titanium connecting rods (Porsche Motorsport 917-spec) and forged Mahle pistons (9.8:1 compression ratio), paired with a custom-built Bosch mechanical fuel injection system (Kugelfischer PL06) recalibrated for 1,200+ hp on 102-octane aviation fuel (Avgas 100LL).",
+    "Forced Induction: Dual Garrett GT42R turbochargers (94mm compressor wheels, .82 A/R turbine housings) with custom billet aluminum compressor housings (by TurboSmart) and TiAL MV-R 44mm wastegates (set to 2.2 bar absolute boost), feeding into a custom air-to-water intercooler (PWR Racing, 12-row core) with a methanol injection system (AEM 340lph pump, dual nozzles pre-turbo).",
+    "Drivetrain: Reinforced 4-speed Type 920 transaxle (Porsche 917/30-spec) with a Quaife ATB helical LSD (90% lock), mated to a Sachs twin-disc carbon clutch (240mm, 4,500 Nm torque capacity) and a custom 520mm driveshaft (by GKN Driveline) with CV joints rated for 1,500 Nm."
+  ],
+  "estetica": [
+    "Body: Full carbon-fiber replica of the 1971 Le Mans-winning 917 LH Gulf livery (by Fibreworks), including the iconic 'Gulf Oil' blue/orange stripes (PPG Deltron 990R basecoat, clear-coated with Spies Hecker Permahyd Hi-TEC 480), with a custom 3D-printed front splitter (by APR Performance) and a rear diffuser (by RW Carbon) mimicking the 917/20 'Pink Pig' design but in Gulf colors.",
+    "Wheels: BBS RS-GT II (15x12 front, 15x15 rear) in gold-anodized finish, wrapped in Michelin Pilot Sport Cup 2 tires (275/620 R15 front, 345/710 R15 rear) with custom-molded fender flares (by Rocket Bunny) to accommodate the wider track (1,800mm front, 1,750mm rear).",
+    "Interior: Full FIA-spec roll cage (by Safety Devices) with integrated fire suppression system (Lifeline Zero 360, 4kg Novec 1230), Recaro Pole Position seats (carbon-Kevlar shell, 6-point Schroth harnesses), and a custom Motec C127 dash (with 917-specific analog gauges for oil pressure/temp, boost, and fuel pressure) mounted on a removable carbon-fiber steering wheel (by MOMO, 320mm diameter)."
+  ]
+}

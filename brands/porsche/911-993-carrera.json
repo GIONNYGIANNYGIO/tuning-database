@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "911 993 CARRERA",
+  "prestazioni": [
+    "Engine: M64/05 (3.6L air-cooled flat-six) with a custom-built 3.8L stroker kit using Mahle Motorsport forged pistons (96.5mm bore, 85.5mm stroke), Carrillo H-beam connecting rods, and a billet crankshaft from JE Pistons for 420hp at 7,200 RPM with 91-octane fuel. Matched with a custom Schrick 284° camshaft profile and titanium retainers from Supertech Performance.",
+    "Forced Induction: Single-turbo setup using a Garrett GT35R (62mm compressor, 68mm turbine) with a custom 3.5-inch stainless steel exhaust manifold from TurboKraft, paired with a GReddy Type-S intercooler and a custom 3-inch aluminum charge piping system. Boost controlled via a HKS EVC-S electronic boost controller set to 1.2 bar (17.4 psi) with a custom fuel system upgrade including Bosch 044 fuel pump, Siemens DEKA 80lb/hr injectors, and a Motec M800 ECU for precise tuning.",
+    "Suspension & Handling: Full Ohlins Road & Track DFV coilovers (993-specific valving) with spherical bearing top mounts from Elephant Racing, paired with a 993 GT2-derived front strut brace from Tarrett Engineering. Rear subframe reinforced with a custom aluminum brace from 911 Design, and polyurethane bushings from Solid Performance for improved chassis rigidity. Braking upgraded to 993 Turbo S calipers with 355mm front and 322mm rear rotors, paired with Ferodo DS2500 pads and stainless steel braided lines from Goodridge."
+  ],
+  "estetica": [
+    "Widebody Conversion: Custom 993 Turbo-look widebody kit from RWB (Rauh-Welt Begriff) with extended fenders, hand-rolled rear quarter panels, and a custom front bumper with integrated carbon fiber splitter from 911 Design. Rear ducktail spoiler replaced with a carbon fiber 993 GT2-style wing from TechArt, mounted on aluminum pedestals with adjustable angle.",
+    "Aero & Lightweight: Full carbon fiber hood from 911 Design (weight savings of 12kg), paired with a carbon fiber roof skin from VIS Racing. Side skirts and rear diffuser from TechArt’s GTstreet kit, with custom aluminum door handles from Elephant Racing. Wheels: 18x9.5 ET12 front and 18x11 ET30 rear BBS RS-GT II (993-specific) in gold, wrapped in Michelin Pilot Sport Cup 2 tires (235/40/18 front, 295/35/18 rear).",
+    "Interior & Details: Full Alcantara retrim by Trimworks, including dashboard, door cards, and headliner, with custom red stitching. Seats replaced with Recaro SRD-E full carbon fiber shells (993-specific) wrapped in Alcantara and red leather. Custom roll cage from Matter Fab (993-specific, bolt-in design) with integrated harness bar. Steering wheel: Momo Prototipo (350mm) with Alcantara grip and quick-release hub. Gauges: Stack digital dash with oil pressure, boost, and wideband AFR readouts, mounted in a custom carbon fiber pod."
+  ]
+}

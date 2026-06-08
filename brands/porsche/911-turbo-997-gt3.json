@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "911 TURBO 997 GT3",
+  "prestazioni": [
+    "Engine: ME7.8-controlled 3.6L (M96/77) flat-six with a custom GT3-spec crankshaft (76.4mm stroke) and forged Mahle pistons (12.5:1 compression), paired with a GT2 RS-derived titanium connecting rod set (Pankl Racing) for 9,000 RPM reliability. Turbocharged via twin BorgWarner EFR 8374 (0.82 A/R, 62mm inducer) turbos with ceramic ball bearings, feeding a custom 4.5\" aluminum intercooler (Bell Intercoolers) and a Tial MV-R 44mm external wastegate setup.",
+    "Drivetrain: GT3 Cup-spec 6-speed manual transmission (G96/90) with a Sachs Performance twin-disc clutch (240mm, 800Nm torque capacity) and a Guard Transmission LSD (45% lockup under load). Rear differential cooled via a Setrab 10-row oil cooler with a Davies Craig EWP115 electric pump for sustained track use.",
+    "Suspension & Braking: Öhlins TTX40 3-way adjustable coilovers (24-click rebound, 22-click compression, 12-click high-speed compression) with spherical bearing top mounts (GT3-spec) and Eibach ERS 1200N/mm helper springs. Braking via AP Racing CP8650 calipers (6-piston front, 4-piston rear) with 405mm CCM-R discs (38mm thickness) and Ferodo DS3000 pads, paired with a custom ABS recalibration (Bosch Motorsport 9.1) for GT3-level threshold braking."
+  ],
+  "estetica": [
+    "Aerodynamics: RWB (Rauh-Welt Begriff) \"Kawasaki\" widebody kit (997.1-specific) with carbon fiber front splitter (90mm overhang), rear diffuser (3-piece, 120mm height), and a GT3 RSR-style rear wing (1,800mm width, 300mm chord) with Gurney flap (15mm). Underbody: Full flat floor (997 GT3 RS-spec) with vortex generators (3M 300LSE adhesive) and a custom rear diffuser (VRS-style, 5 strakes).",
+    "Exterior: Full carbon fiber conversion (997 GT3 RS 4.0-spec) including roof, front/rear fenders (20mm wider), and doors (15mm wider) via TechArt GTstreet R kit. Paint: Porsche GT3 RS Viper Green (299) with matte black (981) accents on the rear wing, mirror caps, and front air intakes. Lighting: Hella Rallye 4000 (7\") headlights with Osram Night Breaker Laser bulbs and custom LED DRLs (Philips Luxeon Z ES) integrated into the lower bumper.",
+    "Interior: Full GT3 Cup-spec roll cage (Schroth 6-point harnesses, FIA 8862-2009) with a Recaro Pole Position seat (carbon-Kevlar, 12-way adjustable) and a MOMO Mod.78 steering wheel (350mm, suede). Dash: Motec C127 dash logger (12 analog inputs, 4 CAN channels) with a custom GT3-style shift light (RGB, 12-LED) and a Bosch Motorsport PDM (Power Distribution Module) for auxiliary systems (cooling, fuel pumps)."
+  ]
+}

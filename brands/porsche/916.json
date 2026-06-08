@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "916",
+  "prestazioni": [
+    "Engine swap to a 911 Carrera 3.2L Type 930/20 (M64/01) with a custom-built 3.6L stroker kit using Mahle Motorsport forged pistons (96.5mm bore), Carrillo H-beam connecting rods, and a billet crankshaft from JE Pistons, paired with a custom Schrick 284° camshaft profile for high-RPM power delivery (targeting 350+ hp at 7,200 RPM).",
+    "Full titanium exhaust system by Akrapović, featuring 4-2-1 equal-length headers with 45mm primary tubes, a 3.5-inch center section, and a dual-mode valve-controlled muffler for aggressive sound tuning, optimized for the M64/01’s flat-six firing order.",
+    "Custom Motec M150 ECU with a bespoke calibration for the stroker M64, including individual cylinder fuel trims, knock control via Bosch Motorsport sensors, and a traction control system integrated with a Wavetrac limited-slip differential and AP Racing 4-piston calipers with 330mm two-piece rotors for the 916’s unique rear-engine, transaxle layout."
+  ],
+  "estetica": [
+    "Full carbon fiber widebody conversion using a 914/6-inspired RWB (Rauh-Welt Begriff) kit, modified to fit the 916’s longer wheelbase and transaxle chassis, with custom fender flares extending 50mm per side and integrated air vents for brake cooling, finished in a matte Porsche GT3 RS Lava Orange.",
+    "Custom front splitter and rear diffuser by TechArt, designed specifically for the 916’s aerodynamics, with a 3D-scanned underbody tray to reduce lift by 30% at 120 mph, paired with a fixed carbon fiber rear wing (200mm chord) mounted on adjustable aluminum pedestals for adjustable downforce.",
+    "OEM+ interior overhaul with Recaro Pole Position seats (911 GT3-spec) in Alcantara with red stitching, a custom roll cage by Matter Fab (911 RSR-inspired) with integrated fire suppression system, and a Momo Prototipo steering wheel with a quick-release hub, all retaining the 916’s original VDO instrument cluster but retrofitted with a digital boost gauge and oil temperature readout."
+  ]
+}

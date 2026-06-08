@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "911 TARGA HERITAGE",
+  "prestazioni": [
+    "Engine: 3.7L twin-turbo flat-six (9A2 E30) with a custom Motec M150 ECU reflash optimized for 93 octane fuel, targeting 550whp via a Garrett GTX3582R turbocharger (86mm compressor, 62mm turbine) with billet compressor wheel and TiAL MV-R 44mm wastegate, paired with a custom 3.5-inch titanium exhaust system by Akrapović with dual 100mm outlets and a valved X-pipe for backpressure optimization",
+    "Suspension: Öhlins Road & Track DFV coilovers with 800lb/in front springs and 700lb/in rear springs, adjustable camber plates (0.5° to -3.5° front, -1.0° to -3.0° rear), and spherical bearing top mounts by GT3 RS-spec, paired with Tarett Engineering 3-way adjustable sway bars (24mm front, 22mm rear) and monoball subframe bushings by 034 Motorsport",
+    "Drivetrain: 992.2-spec PDK transmission with a custom TCU tune by Sharkwerks for 0.15s faster shifts, upgraded dual-mass flywheel by Sachs Performance (8.5kg), and a Quaife ATB differential with 40% preload for aggressive torque biasing, paired with a Guard Transmission Skid Plate and 930-spec half-shafts by UUC Motorwerks"
+  ],
+  "estetica": [
+    "Exterior: Rothsport Heritage Edition widebody kit (935-inspired fenders with 25mm flares, carbon fiber front splitter, and ducktail spoiler), painted in Porsche GT3 RS Lime Gold (298) with matte black accents on the Targa roll hoop and rear diffuser, paired with a custom 917-style front hood with functional NACA ducts for brake cooling",
+    "Wheels: HRE FF01 forged wheels in a staggered setup (9.5x20 ET40 front, 12.5x20 ET50 rear) with custom center-lock adapters, wrapped in Michelin Pilot Sport Cup 2 R tires (265/30/20 front, 325/25/20 rear), paired with Brembo GT 6-piston calipers (400mm front rotors) and 4-piston calipers (380mm rear rotors) with slotted rotors by Tarox",
+    "Interior: Full carbon fiber weave interior by Porsche Exclusive Manufaktur, including door cards, dashboard trim, and center console, with Alcantara-wrapped Recaro SPG XL seats (992 GT3-spec) in black with Lime Gold stitching, paired with a custom roll cage by Matter Fab (TIG-welded 4130 chromoly) and a digital dash by AIM MXS Strada with data logging for boost, oil temp, and lap times"
+  ]
+}

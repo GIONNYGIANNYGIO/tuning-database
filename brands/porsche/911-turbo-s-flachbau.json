@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "911 TURBO S FLACHBAU",
+  "prestazioni": [
+    "Engine: 3.8L twin-turbocharged flat-six (MA1.72) with a custom G-Power supercharger kit (centrifugal, 12psi boost) paired with a Garrett GTX5533R Gen II turbocharger upgrade, replacing the stock KKK turbos for a 780whp output on E85 fuel. Includes a billet aluminum intake manifold (991.2 GT3 RS-spec) and a custom titanium exhaust system by Akrapović with 4.5-inch carbon fiber tips and electronically controlled valves for backpressure optimization.",
+    "Drivetrain: Reinforced 7-speed PDK transmission with a Guard Industries limited-slip differential (95% lockup under load) and a Sachs Performance dual-mass flywheel conversion. Upgraded half-shafts by Pecis Engineering with 4340 chromoly steel and CV joints rated for 1,000Nm torque. Custom Motec M150 ECU with launch control mapped for 5,500rpm starts and flat-foot shifting up to 8,200rpm redline.",
+    "Suspension/Chassis: Full Ohlins TTX46 coilover system with 3-way adjustable damping (compression, rebound, and high-speed compression) and 24-position ride height adjustment. Front and rear monoball spherical bearings by Meyle HD, replacing the factory rubber bushings. Custom carbon fiber front strut brace by Manthey Racing with integrated brake cooling ducts. Rear subframe reinforcement plates by Techart, welded to the chassis for rigidity."
+  ],
+  "estetica": [
+    "Exterior: Full RWB (Rauh-Welt Begriff) 'Pandem' widebody kit with custom 3-piece forged aluminum wheels (20x12 ET40 front, 21x13 ET35 rear) wrapped in Michelin Pilot Sport Cup 2 R tires (275/30/20 and 325/25/21). Front splitter and rear diffuser by 9ff with active aerodynamics (adjustable angle via hydraulic actuators). Carbon fiber roof panel by VIS Racing, reducing weight by 8kg. Custom 'Flachbau' headlight delete with LED bar integration by KW Automotive, matching the 935-style front end.",
+    "Interior: Full carbon fiber weave interior by Sabelt, including door cards, dashboard, and center console. Custom Recaro SPG XL seats with 6-point harnesses by Schroth and a roll cage by Matter Fab (chrome-moly steel, FIA-spec). Alcantara-wrapped steering wheel by GT3 Cup with a custom quick-release hub and integrated Motec C127 dash display. Rear seat delete with a carbon fiber storage compartment for a fire suppression system by Lifeline.",
+    "Lighting/Aero: Custom LED taillight setup by Diode Dynamics, replicating the 917's 'batwing' design with sequential turn signals. Active rear wing by Vorsteiner (992 GT3 RS-spec) with a 3-position angle adjustment (low drag, balanced, max downforce). Front canards by APR Performance, paired with a custom hood scoop for intercooler cooling. Underbody diffusers by IPE with integrated LED lighting for a 'floating' effect at night."
+  ]
+}

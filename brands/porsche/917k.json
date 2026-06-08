@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "917K",
+  "prestazioni": [
+    "Engine: Type 912 flat-12 (4.5L to 5.0L displacement) with titanium connecting rods from **Pankl Racing Systems** (917-specific billet design, 105g lighter than stock) and **Mahle Motorsport** forged pistons (12.5:1 compression for 5.0L endurance spec, 10.5:1 for sprint racing).",
+    "Forced induction: **Garrett GT42R turbochargers (dual setup, 917/30 spec)** with **Tial 60mm wastegates** and **TurboSmart Race Port BOV** (aluminum, 917-specific flange), paired with **Spearco 4.5-inch intercoolers** (air-to-water, 917K longtail-compatible mounting brackets).",
+    "Fuel system: **Bosch Motorsport MS15.1 ECU** (917-specific CAN bus integration) with **Motec PDM15 power distribution module**, **ID1700x injectors** (staged, 917K-specific rail adapters), and **Aeromotive A1000 fuel pump** (dual setup, 917K rear-bay relocation kit)."
+  ],
+  "estetica": [
+    "Bodywork: **917K Gulf Oil livery replica** with **RML Group carbon-fiber front splitter** (917K-specific, 3mm thicker than standard) and **Rear diffuser by GTO Engineering** (aluminum, 917K longtail-compatible, 5% downforce increase at 200mph).",
+    "Wheels: **BBS RS-GT II (15x10.5 front, 15x15 rear)** in magnesium (917K-specific offsets, 3-piece construction) with **Pirelli P Zero Trofeo R tires (275/610-15 front, 345/620-15 rear)** (917K homologated compound).",
+    "Interior: **Sparco 917K replica seats** (carbon-Kevlar shell, 917K-specific mounting points) with **Schroth 6-point harnesses (ASM2 type, FIA 8862-2009 certified)** and **MOMO 917K steering wheel** (380mm diameter, aluminum quick-release hub, Gulf Oil stitching)."
+  ]
+}

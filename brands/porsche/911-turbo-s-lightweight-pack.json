@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "911 TURBO S LIGHTWEIGHT PACK",
+  "prestazioni": [
+    "Engine: 3.8L twin-turbocharged flat-six (engine code: MA1.71/MA1.72) with upgraded Garrett GTX5533R Gen II turbos (84mm billet compressor wheels, 106mm turbine wheels) and custom titanium 4.5\" inlet pipes from VF Engineering, supporting 850whp on E85 with a Motec M150 ECU managing fueling via 2000cc ID1700x injectors and a Radium Engineering dual-catch can setup for crankcase ventilation.",
+    "Drivetrain: Reinforced 911 Turbo S PDK transmission with a Guard Industries billet aluminum transmission mount and a Tilton twin-disc carbon clutch (7.25\" discs) paired with a Guard short shifter (25% reduction in throw) and a Cusco 1.5-way mechanical LSD with 45% preload for aggressive torque bias.",
+    "Suspension/Chassis: Öhlins Road & Track DFV coilovers with 24-way compression/rebound adjustability, custom valving for the Lightweight Pack’s 20mm lower ride height, and spherical bearing top mounts from GT3 Cup cars. Full chassis reinforcement via a Worx Racing bolt-in roll cage (TIG-welded 4130 chromoly) and a Porsche Motorsport GT3-spec front strut tower brace with integrated brake cooling ducts."
+  ],
+  "estetica": [
+    "Aerodynamics: Full Rocket Bunny V3 widebody kit (PORSCHE 992.2-specific) with carbon fiber overfenders (30mm wider front, 40mm wider rear), a custom 911 GT3 RS-style ducktail spoiler (carbon fiber, 3D-scanned for MA1.71/72 engine clearance), and a Vorsteiner V-FF107 front splitter with integrated canards (3D-printed nylon 12CF for weight savings).",
+    "Weight Reduction: Full carbon fiber interior swap via Porsche Exclusive Manufaktur’s ‘Club Sport’ package (carbon fiber bucket seats with Schroth 6-point harnesses, carbon fiber door cards, and a stripped rear cabin with a titanium roll cage padding system from Recaro). Exterior panels replaced with carbon fiber (hood, roof, rear quarter panels) from 992 GT3 RS suppliers, saving ~80kg over stock Lightweight Pack.",
+    "Wheels/Tires: HRE FF16 3-piece forged wheels (20x10.5 +52 front, 21x13.5 +60 rear) with titanium hardware, shod in Michelin Pilot Sport Cup 2 R tires (275/30/20 front, 335/25/21 rear). Brake system upgraded to a Porsche 911 GT2 RS-spec PCCB carbon-ceramic setup with yellow-painted calipers and custom stainless steel brake lines from Goodridge."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "911 SINGER ACS",
+  "prestazioni": [
+    "Engine: 4.0L Type-9A2 flat-six (991.2 GT3-based) with titanium connecting rods (Pankl Racing Systems), forged Mahle pistons (12.5:1 compression), and a custom Singer-developed dry-sump lubrication system featuring a 12-liter oil capacity and dual scavenge pumps for sustained high-G cornering.",
+    "Forced Induction: Twin-turbocharged via Garrett GTX5533R Gen II turbos (86mm compressor wheels, 1.15 A/R turbine housings) with TiAL MV-R 44mm wastegates and TiAL Q 50mm blow-off valves, paired with a custom air-to-water intercooler (Singer/Williams Advanced Engineering) and 3.5-inch titanium charge pipes (V-band clamps, TIG-welded).",
+    "ECU & Fueling: Motec M150 ECU with custom Singer-developed torque-based mapping (1.4 bar peak boost, 98 RON fuel), paired with a dual Bosch Motorsport MS25 high-pressure fuel pump system (2,000+ hp capable), ID1700x injectors, and a secondary port-injection system (Bosch EV14 injectors) for idle stability and emissions compliance."
+  ],
+  "estetica": [
+    "Bodywork: Full carbon-fiber ACS (Aero Coefficient Series) widebody kit (Singer proprietary design) with integrated NACA ducts for brake cooling, a 3D-printed titanium rear diffuser (developed with Williams Advanced Engineering), and a fixed carbon-fiber rear wing (adjustable via dual-plane Gurney flaps, 30mm chord).",
+    "Wheels & Tires: Forged magnesium center-lock wheels (Singer x HRE 948P2, 18x10.5 front/18x13 rear) wrapped in Michelin Pilot Sport Cup 2 R tires (275/35 R18 front, 335/30 R18 rear), with custom Singer-branded titanium wheel nuts (aerospace-grade 6AL-4V alloy).",
+    "Interior: Full bespoke interior with carbon-fiber bucket seats (Singer x Recaro CS-E 272, 3.5kg each), Alcantara-wrapped roll cage (Singer x Matter Fab, 4130 chromoly), and a custom titanium shift knob (Singer x BBI Autosport, CNC-machined from a single billet, 200g weight)."
+  ]
+}

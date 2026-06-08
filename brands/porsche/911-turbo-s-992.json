@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "911 TURBO S 992",
+  "prestazioni": [
+    "Engine: 3.8L twin-turbocharged flat-six (engine code: MA1.78) upgraded with a **Garrett GTX5533R** turbocharger kit (hybrid billet wheel, 64mm compressor, 76mm turbine) paired with **Precision Turbo & Engine 6266** ball-bearing turbos for 850+ WHP on E85, utilizing **Motec M150 ECU** standalone management with custom fuel maps and **ID1050x injectors** for precise fueling at high boost (32 psi peak).",
+    "Drivetrain: **Porsche Motorsport 992 GT3 RS-spec PDK transmission** with reinforced internals (carbon-fiber synchros, upgraded clutch packs) and **Wavetrac LSD** for aggressive torque bias, paired with a **Parr Motorsport 930-style sequential shifter** for lightning-fast gear changes. **AP Racing 2-piece 380mm CCM-R brake rotors** with **Alcon 6-piston monoblock calipers** and **Ferodo DS3.12 race pads** for extreme stopping power.",
+    "Suspension & Chassis: **Öhlins TTX46 MkII coilovers** with 3-way adjustable damping (compression, rebound, and high-speed compression) and **Porsche 992 GT3 RS-derived front and rear sway bars** (24mm front, 22mm rear) for flat cornering. **Tarett Engineering G53 front strut brace** and **992 GT3-spec rear subframe reinforcement** to eliminate flex under high lateral G-forces. **Michelin Pilot Sport Cup 2 R tires** (275/30/20 front, 335/25/21 rear) on **BBS FI-R 20x11J and 21x13J forged wheels** for optimal grip."
+  ],
+  "estetica": [
+    "**RWB (Rauh-Welt Begriff) 992-widebody kit** with custom **Porsche GT3 RS-inspired front splitter** and **992 Turbo S-specific rear diffuser** in carbon fiber (3K twill weave), featuring **Vorsteiner GT3-style side skirts** and **992 GT2 RS rear wing** with **Gurney flap** for downforce optimization. **Full Respray in Porsche Paint-to-Sample 'Gulf Blue'** with **matt clear coat** for a stealth OEM+ look.",
+    "**992 GT3 RS-style front headlight housings** with **Lux H8 V4 LED bulbs** and **custom amber delete** for a cleaner aesthetic, paired with **Rear LED taillights from the 992 GT3** (dynamic turn signals, sequential startup animation). **Carbon fiber engine cover** (992 GT3 RS-spec) with **exposed carbon weave** and **custom 'Turbo S' script in gold leaf** for a bespoke touch.",
+    "**Interior: Full **Recaro Pole Position CS-II bucket seats** (992 GT3 RS-spec) with **Schroth 6-point harnesses** and **custom Alcantara-wrapped roll cage** (FIA-spec, bolt-in). **MOMO Prototipo steering wheel** (flat-bottom, suede) with **Porsche GT3 RS-style shift paddles** and **Motec C127 dash display** replacing the stock cluster. **Custom door cards in Alcantara with carbon fiber inserts** and **LED ambient lighting in Porsche 'Neon Green'** for a track-focused yet luxurious cabin."
+  ]
+}

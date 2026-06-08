@@ -1,0 +1,17 @@
+{
+  "brand": "PORSCHE",
+  "model": "911 991 RSR",
+  "prestazioni": [
+    "Engine: 4.0L flat-six (MA1.76) with a bespoke dry-sump lubrication system, reinforced titanium connecting rods (Pankl Racing Systems), and a custom Bosch MS6.4 engine management system optimized for FIA WEC fuel flow restrictions (100 kg/h max).",
+    "Forced Induction: Naturally aspirated, but with a custom Akrapovič 4-2-1 equal-length exhaust manifold (titanium, 45mm primary tubes) paired with a straight-pipe Akrapovič titanium exhaust system featuring dual 100mm outlets and a bypass valve for minimal backpressure.",
+    "Suspension: Öhlins TTX40 4-way adjustable dampers with RSR-specific spring rates (front: 300 lbs/in, rear: 450 lbs/in), adjustable anti-roll bars (TAROX 24mm front, 22mm rear), and spherical bearing top mounts (TILTON) for precise camber/caster adjustments.",
+    "Aerodynamics: Full FIA-homologated RSR aero package including a carbon fiber front splitter with adjustable dive planes (9° attack angle), a fixed rear wing with Gurney flap (30mm height) and swan-neck mounts, and a diffuser with 5 strakes (300mm height) for 1,700 lbs of downforce at 200 km/h.",
+    "Drivetrain: Xtrac 6-speed sequential gearbox (P1339) with paddle-shift actuation (0.1s shift times), carbon fiber driveshaft, and a limited-slip differential (Drexler Motorsport 2-way, 40-80% lock) with RSR-specific preload settings."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber bodywork (Weissach-developed) with a 991 RSR-specific widebody kit (front fenders +50mm, rear fenders +70mm), including a removable carbon fiber hood with NACA ducts for brake cooling.",
+    "Wheels: BBS FI37 18x13 front (30mm offset) and 18x15 rear (50mm offset) forged magnesium wheels with central-locking hubs (Porsche Motorsport), wrapped in Michelin Pilot Sport Cup 2 R tires (30/68-18 front, 31/71-18 rear).",
+    "Interior: Full FIA-spec roll cage (Schroth 6-point harnesses, OMP carbon fiber seats with adjustable lumbar support), carbon fiber dashboard with a Cosworth IQ3 digital display, and a Motec C127 data logger with GPS lap timing.",
+    "Lighting: LED headlights with dynamic cornering (Porsche Dynamic Light System), integrated with a Motec PDM30 power distribution module for optimized electrical load management during endurance races."
+  ]
+}

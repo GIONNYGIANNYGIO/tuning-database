@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "911 964 CARRERA RS",
+  "prestazioni": [
+    "Engine: M64/03 (3.6L air-cooled flat-six) with a custom-built 3.8L stroker kit using Mahle Motorsport forged pistons (96.5mm bore, 85.5mm stroke), Carrillo H-beam connecting rods, and a billet crankshaft from JE Pistons for 420+ hp at 7,800 RPM with 98 RON race fuel. Matched with a custom Schrick 284° camshaft profile and titanium retainers from INA for high-RPM stability.",
+    "Forced Induction: Single-turbo conversion using a Garrett GTX3582R turbocharger (0.82 A/R, ball-bearing) with a custom 3.5-inch stainless steel exhaust manifold by Tial Sport, paired with a Tial MV-R 44mm wastegate and a custom air-to-water intercooler setup from Bell Intercoolers, reducing intake temps by 40°C under full boost (1.2 bar).",
+    "Drivetrain & Handling: 964 RS-specific 911 GT2-derived 6-speed manual gearbox with a Guard Motorsports limited-slip differential (40% lockup) and a Sachs Performance twin-disc clutch (240mm). Suspension overhaul with Ohlins TTX40 coilovers (24-way adjustable damping) and spherical bearing top mounts from Elephant Racing, paired with 24mm front / 28mm rear adjustable anti-roll bars from Tarrett Engineering."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion using a RWB (Rauh-Welt Begriff) 964 RS-specific kit with extended fenders (30mm front, 50mm rear), custom front splitter, and a ducktail spoiler in dry carbon fiber from 9ff. Painted in Porsche GT3 RS-inspired 'Gulf Blue' with matte black accents and a clear bra from XPEL on the front bumper.",
+    "Wheels & Brakes: 18x9.5 ET15 (front) and 18x11 ET5 (rear) BBS RS-GT II wheels in gold with custom center caps, wrapped in Michelin Pilot Sport Cup 2 tires (235/40/18 front, 295/35/18 rear). Brake system upgraded to 993 Turbo S 322mm front rotors with 4-piston calipers, paired with Ferodo DS2500 pads and stainless steel brake lines from HEL Performance.",
+    "Interior: Full Recaro Pole Position seats (964 RS-specific) with Schroth 6-point harnesses, a MOMO Mod.78 steering wheel (380mm, suede), and a custom roll cage by Matter Fab in 4130 chromoly steel with integrated fire suppression system (Lifeline Zero 360). Dashboard modified with a digital AIM MXS Strada dash and a custom carbon fiber center console housing a Motec C127 ECU."
+  ]
+}

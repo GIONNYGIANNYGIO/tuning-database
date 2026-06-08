@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "911 TURBO 991",
+  "prestazioni": [
+    "Engine: MA1.76 (3.8L twin-turbocharged flat-6) with a Precision Turbo & Engine PT6766 CEA turbocharger upgrade (67mm compressor, 66mm turbine, 0.82 A/R) paired with a custom 4-inch titanium downpipe and GESI 100-cell high-flow catalytic converters for optimized spool and 700+ WHP potential on E85",
+    "Fuel System: Injector Dynamics ID1700x fuel injectors, Radium Engineering dual-catch can setup with -8AN lines, and a Bosch Motorsports 044 high-flow fuel pump with a Cobb Tuning Accessport V3 flashed with a custom IAT-based ethanol blend map (E60-E85) for consistent AFR targeting under boost",
+    "Drivetrain & Handling: Wavetrac limited-slip differential with 40% lockup under power, Ohlins R&T 46mm coilovers with 3-way adjustable damping (rebound, compression, and high-speed compression) and helper springs for ride height adjustability, paired with Brembo GT 380mm 6-piston front and 350mm 4-piston rear brake kits with Pagid RSL29 race pads and Motul RBF 660 brake fluid"
+  ],
+  "estetica": [
+    "Aero: RWB (Rauh-Welt Begriff) 991 Turbo widebody kit with custom carbon fiber overfenders, front canards, and a duckbill rear spoiler, paired with a Vorsteiner V-FF 103 20-inch forged wheel setup (9.5J ET45 front, 12J ET50 rear) wrapped in Michelin Pilot Sport Cup 2 R tires (245/30/20 front, 305/30/20 rear)",
+    "Exterior: Full GTS-spec front bumper with integrated carbon fiber splitter and side skirts, rear diffuser from 911 GT3 RS (991.2) with titanium exhaust tips from Akrapovic Evolution Line, and a custom matte Graphite Grey paint job with PPF (Paint Protection Film) on high-impact areas",
+    "Interior: Full carbon fiber weave interior from 911 RSR (steering wheel, dashboard trim, door cards, and center console) with Alcantara headliner, Recaro Pole Position bucket seats (carbon fiber shell, FIA-approved 6-point harnesses), and a custom Motec C127 dash display replacing the stock instrument cluster for real-time boost, AFR, and oil pressure monitoring"
+  ]
+}

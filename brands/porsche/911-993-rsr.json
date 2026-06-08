@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "911 993 RSR",
+  "prestazioni": [
+    "Engine: M64/83 3.8L flat-six (RSR-spec) with forged Mahle pistons (96.5mm bore), titanium connecting rods (Pankl Racing), and a billet crankshaft (JE Motors). Compression ratio increased to 12.5:1 via custom combustion chambers and decked cylinder heads.",
+    "Forced Induction: Single Garrett GT35R turbocharger (84mm compressor wheel, .82 A/R turbine housing) with a custom intercooler setup (Spearco 4500-series core, 3.5\" inlet/outlet) and TiAL MV-R 44mm wastegate. Boost pressure set to 1.5 bar (21.7 psi) with a Motec M800 ECU managing fueling via 12x ID1000 injectors and a Bosch 044 fuel pump.",
+    "Drivetrain: G50/31 6-speed dog-ring gearbox with a Sachs twin-disc clutch (240mm, 3.5mm maraging steel flywheel) and a 40% limited-slip differential (Drexler Motorsport, 2-way adjustable). Half-shafts upgraded to CV joints with 300M steel shafts (Quaife)."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon-fiber RSR replica body kit (9M Racing) including a 1,900mm-wide rear wing (adjustable 30° angle), front splitter with dive planes (30mm overhang), and rear diffuser with 5 strakes (20mm ground clearance). Underbody flat floor with integrated NACA ducts for brake cooling.",
+    "Wheels/Tires: BBS E50 magnesium wheels (18x11 front, 18x13 rear) with center-lock hubs (Porsche Motorsport spec) wrapped in Michelin Pilot Sport Cup 2 tires (275/35/18 front, 325/30/18 rear). Brake system: AP Racing 6-piston calipers (38mm pistons) with 380mm carbon-ceramic rotors (Pagid RS14 pads).",
+    "Interior: Full FIA-spec roll cage (Schroth 6-point harnesses, OMP carbon seats with 3mm padding) and stripped interior (10kg weight reduction). Motec C127 dash with GPS lap timer, AIM Solo 2 DL data logger, and fire suppression system (Lifeline Zero 360, 3kg Novec 1230 agent)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "911 RSR",
+  "prestazioni": [
+    "4.0L flat-six (MA1.76) naturally aspirated engine with a bespoke Bosch MS6.4 engine management system, featuring a 102mm bore and 81.5mm stroke, paired with a 13.3:1 compression ratio for peak power delivery at 9,250 RPM (510 HP) and 325 lb-ft of torque at 6,250 RPM. Upgraded with a custom Akrapović 6-into-2 titanium exhaust manifold and a straight-pipe system with 90mm diameter piping to optimize scavenging and reduce backpressure.",
+    "Ohlins TTX-40 4-way adjustable dampers with RSR-specific valving, paired with a 30mm front sway bar (adjustable in 3 positions) and a 24mm rear sway bar (adjustable in 5 positions) from the 911 RSR Cup car, along with spherical bearing-equipped Uniball top mounts for razor-sharp chassis response.",
+    "Porsche Motorsport carbon-ceramic brake system (PCCB) with 390mm front and 355mm rear rotors, featuring 6-piston front and 4-piston rear monobloc calipers, upgraded with Ferodo DS2500HT high-temperature brake pads and Motul RBF 660 racing brake fluid for consistent stopping power under extreme track conditions."
+  ],
+  "estetica": [
+    "Full carbon fiber bodywork from the 911 RSR (991.2) homologation kit, including the iconic double-bubble roof, front splitter with integrated dive planes, and a massive 2,000mm-wide rear wing with adjustable Gurney flaps (3 positions) for optimized downforce.",
+    "BBS FI21R 18x13 front and 18x15.5 rear forged magnesium wheels with central locking, wrapped in Michelin Pilot Sport Cup 2 R tires (30/68-18 front, 31/71-18 rear) for maximum mechanical grip and heat resistance.",
+    "Custom livery inspired by the 2017-2019 WEC RSR cars, featuring a matte white base with Porsche Motorsport’s signature “Pink Pig” accents, including the iconic pig illustrations on the hood and doors, paired with a full-width LED light bar integrated into the front splitter for enhanced visibility during endurance racing."
+  ]
+}

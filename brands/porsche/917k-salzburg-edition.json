@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "917K SALZBURG EDITION",
+  "prestazioni": [
+    "Engine: Type 912 flat-12 (4.5L, air-cooled) with titanium connecting rods from Mahle and a bespoke dry-sump lubrication system featuring a 12-stage oil pump for sustained high-RPM endurance racing (up to 8,400 RPM redline).",
+    "Forced Induction: Dual Weber 46IDA3C carburetors replaced with a custom-built mechanical fuel injection system by Bosch (Motronic MS 1.0 adapted for retro-fit) with individual throttle bodies (ITBs) and a 12-channel sequential injection setup for optimized air-fuel ratios at Le Mans-spec boost levels (1.2 bar absolute pressure).",
+    "Drivetrain: Reinforced 4-speed Type 920 transaxle with a limited-slip differential from ZF (Salisburg-spec 85% lockup) and a lightweight magnesium alloy bellhousing. Clutch upgraded to a triple-plate carbon-carbon unit by AP Racing (CP9445-2) with a hydraulic throwout bearing for precise engagement under 1,200+ Nm of torque."
+  ],
+  "estetica": [
+    "Bodywork: Full magnesium-alloy chassis reinforcement with a custom 1.5mm aluminum honeycomb floorpan (Aerolam by Hexcel) for torsional rigidity, paired with a Salzburg Edition-specific Gulf Oil livery featuring hand-painted gold leaf pinstriping (applied by Studio Obermoser).",
+    "Aerodynamics: Le Mans-spec rear wing with a 3D-printed titanium support structure (by CRP Technology) and adjustable Gurney flaps (0-15mm range) for high-speed stability. Front splitter upgraded to a carbon-fiber unit with integrated brake cooling ducts (designed by Kremer Racing).",
+    "Interior: Full FIA-spec roll cage (T45 steel, welded by Matter Motorsport) with a bespoke Sparco Pro 2000 seat (carbon-Kevlar hybrid) and a MOMO Mod.78 steering wheel (380mm diameter, suede-wrapped) featuring a quick-release hub. Instrumentation replaced with a digital dash by Motec (C127) displaying real-time lambda, oil pressure, and G-force data."
+  ]
+}

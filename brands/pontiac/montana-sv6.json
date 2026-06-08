@@ -1,0 +1,14 @@
+{
+  "brand": "PONTIAC",
+  "model": "MONTANA SV6",
+  "prestazioni": [
+    "Engine swap to a **LS4 (3.6L V6, LY7 variant)** with a **Forgeline Motorsports 3.8L stroker kit** (increasing displacement to 3.8L via 94mm crankshaft and 65mm connecting rods) paired with **Mahle Motorsport forged pistons (10.5:1 compression)** and **Brian Tooley Racing Stage 3 camshafts (224/230 duration, 0.600\" lift)** for high-RPM power delivery (450+ WHP on E85).",
+    "Forced induction via **Precision Turbo PT6266 CEA turbocharger** (62mm inducer, 76mm exducer) with a **custom 3.5\" stainless steel turbo manifold (fabricated by Burns Stainless)** and **Tial MV-R 44mm wastegate** to handle 22 PSI of boost. Intercooling system includes a **VRSF 5\" core FMIC (front-mount intercooler)** with **Mishimoto silicone couplers and T-bolt clamps** for zero boost leak under sustained load.",
+    "Fuel system overhaul with **AEM 400LPH in-tank fuel pump**, **ID1000x injectors (1000cc/min)**, and **Holley Dominator ECU** running **E85 flex-fuel tuning** via **HP Tuners VCM Suite**. Exhaust system features a **custom 3\" stainless steel downpipe (catless, fabricated by Stainless Works)** paired with a **Borla Pro XS cat-back exhaust (dual 3.5\" outlets, aggressive N/A-tuned tone)** for optimal scavenging."
+  ],
+  "estetica": [
+    "Widebody conversion using **Rocket Bunny V3 (Pontiac Montana SV6-specific kit)** with **custom carbon fiber fender flares (3.5\" wider front, 4\" wider rear)** and **custom aluminum inner fender liners (fabricated by APR Performance)** to accommodate **20x9.5\" ET25 (front) and 20x11\" ET15 (rear) Rotiform LAS-R wheels** wrapped in **Michelin Pilot Sport Cup 2 tires (255/35/20 front, 295/30/20 rear)** for staggered fitment.",
+    "Aerodynamic package featuring a **custom carbon fiber front splitter (3D-scanned from the SV6 bumper, fabricated by Seibon Carbon)** with **adjustable canards (APR GT-250 style)** and a **custom carbon fiber duckbill spoiler (modeled after the 2004 Pontiac GTO, fabricated by RK Sport)** for rear downforce. Underbody includes a **custom aluminum diffuser (fabricated by Varis)** with **dual 4\" carbon fiber exhaust exits (integrated into the diffuser)** for aggressive styling.",
+    "Interior overhaul with **Recaro Pole Position seats (cloth/Alcantara, Pontiac-specific mounting brackets)** and **custom roll cage (8-point, TIG-welded by Autopower Industries)** painted **Pontiac Yellow (code: 56U)**. Steering wheel replaced with a **NRG Innovations 350mm deep-dish suede wheel (with Pontiac emblem)** and **custom gauge cluster (AEM X-Series 3.5\" digital gauges for boost, AFR, and oil pressure)** mounted in a **carbon fiber dash overlay (fabricated by Carbon Creations)**."
+  ]
+}
