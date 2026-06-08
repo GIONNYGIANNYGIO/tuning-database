@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "944 TURBO CUP",
+  "prestazioni": [
+    "Engine: M44/52 (2.5L inline-4, 8V SOHC, 95mm bore, 73.5mm stroke) – Full forged internals with Mahle Motorsport 95mm forged pistons (9.5:1 CR), Carrillo H-beam connecting rods, and a billet crankshaft from JE Pistons for 1,200+ HP capability. Turbocharger: Garrett GTX4202R Gen II with a 76mm compressor wheel and 64mm turbine, paired with a custom 3.5\" V-band downpipe and a Tial MV-R 44mm external wastegate (set to 2.2 bar peak boost).",
+    "Fuel System: Full sequential port injection with Bosch Motorsport 0280158105 1,000cc injectors, dual Walbro 450 LPH in-tank pumps, and a Radium Engineering fuel pressure regulator (FPR) with a -10AN feed. Ignition: MSD 6AL-2 CDI box with NGK R7437-9 racing plugs gapped at 0.024\", driven by a custom Megasquirt MS3Pro PNP ECU with launch control, flat-shift, and individual cylinder trims.",
+    "Drivetrain: G50/16 5-speed transmission with a Guard Industries billet aluminum differential cover, OS Giken Super Lock LSD (85% lockup), and a Sachs Performance twin-disc clutch (240mm) with a billet flywheel. Suspension: Öhlins TTX40 2-way adjustable coilovers with 400lb/in front springs and 500lb/in rear springs, adjustable camber plates, and spherical bearing control arms from 944 Motorsports. Brakes: AP Racing CP6640-2600 front 6-pot calipers with 355mm 2-piece rotors and Ferodo DS3000 pads, paired with rear 993 Turbo calipers (4-pot) and 322mm rotors."
+  ],
+  "estetica": [
+    "Aero: Custom 944 Turbo Cup-style widebody conversion using carbon fiber fenders from 944 Motorsports (flares extended 2.5\" per side), a 964 RS-style front splitter with integrated canards (3D-printed PETG), and a GT3-spec rear diffuser with a 968 CS rear bumper overlay. Rear wing: Rieger Racing 964 GT2-style carbon fiber wing with adjustable angle (0-12 degrees) and integrated gurney flaps.",
+    "Exterior: Full respray in Porsche ‘Gulf Blue’ (991 GT3 RS color code 298) with a 3M Matte Clearcoat overlay. Lightweight components: Carbon fiber hood (944 Turbo S style) from 944 Racing, polycarbonate rear quarter windows (0.125\" thick), and a Lexan front windshield (0.25\" thick) with a custom aluminum frame. Wheels: BBS RS-GT II 17x10\" (ET25) front and 17x12\" (ET45) rear, wrapped in Michelin Pilot Sport Cup 2 R tires (275/40/17 front, 315/35/17 rear).",
+    "Interior: Full FIA-spec cage from Matter Motorsport (8-point, TIG-welded chromoly) with Schroth Profi II 6-point harnesses. Seats: Recaro Pole Position II (carbon fiber shells) with custom 944-specific mounting brackets. Steering: NRG Innovations 350mm suede wheel with a quick-release hub, paired with a custom aluminum shift knob (964 Turbo S style) and a short-throw shifter from 944 Motorsports. Gauges: Stack Motorsport 80mm digital dash with oil pressure, fuel pressure, and wideband AFR readouts, mounted in a custom carbon fiber pod."
+  ]
+}

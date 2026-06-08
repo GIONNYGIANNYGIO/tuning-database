@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "911 TURBO 992",
+  "prestazioni": [
+    "Engine: 3.8L twin-turbocharged flat-six (engine code: MA1.71/MA1.72) upgraded with a **Garrett GTX5533R** turbocharger kit (hybrid billet wheel, 64mm compressor, 76mm turbine) paired with **Precision Turbo & Engine 6266** ball-bearing turbos for reduced lag and 800+ HP capability on E85. Supporting mods include **Mahle Motorsport forged pistons (10.5:1 CR)** and **Carrillo H-beam connecting rods** with **ARP L19 head studs** for 30+ psi boost stability.",
+    "Fuel System: **Bosch Motorsport 1000cc port injectors** + **Fuel Lab dual-pump in-tank surge tank** (2x **Walbro 450 LPH pumps**) with **Radium Engineering fuel pressure regulator** (adjustable base pressure for E85 blends). **AEM 30-0334 wideband O2 sensors** integrated into the **Motec M150 ECU** for closed-loop lambda control at high boost.",
+    "Exhaust: **Fabspeed Motorsport Valvetronic Sport Cats** (3.5\" diameter, 200-cell metallic core) with **Akrapović Evolution Line Titanium** center and rear mufflers (4.5\" outlets, 304 stainless steel headers). **Weichers Motorsport X-Pipe** (equal-length design) for optimized scavenging and 30% reduction in backpressure over stock."
+  ],
+  "estetica": [
+    "Aero: **TechArt GTstreet R Aero Kit** (992-specific carbon fiber front splitter, side skirts, and rear diffuser with integrated **Gurney flap**). **Rocket Bunny V3 widebody conversion** (custom-fitted over 992 Turbo fenders, +50mm front/+70mm rear track width) with **Vorsteiner V-FF 107** forged wheels (20x10.5 ET40 front, 21x12.5 ET45 rear, **Pirelli P Zero Trofeo R** 265/30/20 and 325/25/21).",
+    "Suspension: **Öhlins Road & Track DFV** coilovers (3-way adjustable damping, 24-click rebound, 15-click compression) with **H&R Sport Springs** (20mm drop) and **Tarett Engineering anti-roll bars** (25mm front, 22mm rear, adjustable end links). **Porsche Motorsport GT3-spec spherical bearing control arms** for camber/caster adjustability.",
+    "Interior: **Recaro Pole Position SPG XL** seats (992-specific mounting brackets, FIA 8862-2009 certified) with **Schroth Profi II 6-point harnesses**. **Momo Prototipo Evo** steering wheel (350mm diameter, Alcantara with carbon fiber inserts) and **Motec C127 dash logger** (replaces stock instrument cluster, 7\" TFT display with boost/fuel pressure/AFR logging). **Sound deadening removed** and replaced with **Dynamat Xtreme** in critical areas for weight reduction."
+  ]
+}

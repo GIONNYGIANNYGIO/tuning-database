@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "918 SPYDER",
+  "prestazioni": [
+    "Hybrid powertrain recalibration targeting the **M48.2** 4.6L V8 (918cc per cylinder) + dual electric motors (front: 115 kW, rear: 95 kW) via a **Weissach Package**-inspired ECU remap by **SharkWerks**, optimizing torque split (70% rear bias) and lithium-ion battery (6.8 kWh) discharge rates for sustained 3.5-second 0-60 mph sprints with 0.2s faster launch control engagement",
+    "Forced induction upgrade using **Garrett GTX5533R** turbochargers (106mm compressor, 88mm turbine) with **Tial MV-R 60mm** wastegates and **PTP Turbo Blankets**, paired with a **GReddy Profec B Spec II** boost controller to achieve 950 hp at 8,700 RPM (stock: 887 hp) while retaining the **7-speed PDK**’s dual-clutch shift logic via **GIAC Flashloader Pro**",
+    "Chassis reinforcement with **9ff GTronic** carbon-fiber monocoque stiffening plates (2.8kg weight reduction) and **Bilstein Clubsport B16 PSS10** coilovers (15-way adjustable damping, 30mm drop) paired with **Porsche Motorsport** 911 GT3-spec **PCCB** carbon-ceramic brakes (410mm front, 390mm rear) and **Michelin Pilot Sport Cup 2 R** tires (265/35 ZR20 front, 325/30 ZR21 rear) for 1.3g lateral grip"
+  ],
+  "estetica": [
+    "**RUF Automobile** 918 Spyder-widebody conversion kit (carbon-fiber fenders, 50mm rear track extension) with **Vorsteiner** carbon-fiber front splitter and **TECHART** GTstreet R rear diffuser, featuring integrated **AIM MXL Pista** data acquisition sensors for real-time aero mapping",
+    "**HRE Performance Wheels** 935M (20x10.5 ET40 front, 21x13 ET50 rear) in **Forgeline** center-lock finish with **Pirelli P Zero Trofeo R** semi-slick tires (275/30 R20 front, 335/25 R21 rear) and **BBS** titanium wheel bolts for 1.2kg unsprung weight reduction per corner",
+    "**Novitec Torado** carbon-fiber engine cover with **LED-illuminated** Porsche crest (RGB-adjustable via **Alcantara-wrapped** steering wheel controls) and **Akrapović** titanium exhaust tips (100mm diameter, quad-outlet) with **REMUS** sound symposer delete for a 95dB cold-start crackle"
+  ]
+}

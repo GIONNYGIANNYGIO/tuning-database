@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "959 SPORT",
+  "prestazioni": [
+    "Engine: M959/50 (2.85L twin-turbocharged flat-6) – Replace stock KKK K26 turbochargers with Garrett GTX3582R Gen II turbos (82mm compressor, 62mm turbine) paired with custom 3.5-inch titanium downpipes (Tial Sport) and a secondary air-to-water intercooler (PWR Advanced Cooling) to reduce intake temps by 30°C under full boost (1.4 bar).",
+    "Fuel System: Upgrade to dual Bosch Motorsport 044 high-flow fuel pumps with AN-10 lines, paired with 1,200cc ID1700x injectors (Injector Dynamics) and a Motec M150 ECU with 959-specific CAN bus integration for sequential turbo control and anti-lag mapping (0-60 mph in 2.9s).",
+    "Drivetrain: Reinforced G50/52 6-speed transaxle with a Quaife ATB helical LSD (959-specific housing) and a Sachs Performance twin-disc clutch (240mm, 800Nm torque capacity). Replace the stock halfshafts with custom 300M steel units (C&R Racing) and a carbon-fiber driveshaft (GKN Driveline) to handle 750Nm+ torque."
+  ],
+  "estetica": [
+    "Aero: Full carbon-fiber body kit (9ff GTronic) with a 959 Sport-specific front splitter (30% more downforce at 200 km/h), rear diffuser (Rocket Bunny V3), and a fixed rear wing (TechArt GTstreet RS) with adjustable Gurney flaps (0-15mm range).",
+    "Wheels: BBS RS II (9x17 front, 11x17 rear) in gold finish with custom center-lock adapters (HRE Performance) and Michelin Pilot Sport Cup 2 R tires (235/45 ZR17 front, 295/35 ZR17 rear) for track-focused grip.",
+    "Interior: Full Alcantara retrim (Recaro Pole Position seats) with 959 Sport-specific stitching (Nappa leather accents), a digital dash (Motec C127) replacing the analog cluster, and a titanium roll cage (Sparco Pro 2000) with integrated fire suppression (Lifeline Zero 360)."
+  ]
+}

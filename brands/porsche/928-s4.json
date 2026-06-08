@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "928 S4",
+  "prestazioni": [
+    "Engine: M28/41 (5.0L 32-valve V8, 95mm bore, 84.5mm stroke) – Full forged internals upgrade with Mahle Motorsport 96.5mm forged pistons (11.5:1 CR), Carrillo H-beam connecting rods, and a billet crankshaft from JE Pistons to handle 800+ HP reliably. Pair with a custom dry-sump oiling system by Peterson Fluid Systems (4-stage pump, 10-quart reservoir) to prevent oil starvation under lateral G-forces.",
+    "Forced Induction: Twin-turbo setup using Garrett GTX5533R Gen II turbos (84mm compressor wheels, .96 A/R turbine housings) with TiAL MV-R 60mm wastegates and TiAL Q 50mm blow-off valves. Custom intercooler system by Bell Intercoolers (1,200cfm core, 3.5\" inlet/outlet) with dual Bosch 044 fuel pumps and a Radium Engineering dual-port fuel pressure regulator for E85 compatibility.",
+    "ECU & Fueling: Standalone Motec M150 ECU with custom CAN bus integration for Porsche-specific sensors (e.g., Bosch LSU 4.9 wideband O2, Kistler 4005B pressure transducers for cylinder balancing). Direct-port methanol injection via Snow Performance Stage 3 kit (dual nozzles per cylinder) with a 5-gallon tank and AEM methanol flow sensor. Upgrade to Siemens DEKA 80lb/hr injectors with ID1700x injectors as secondary for high-RPM fueling."
+  ],
+  "estetica": [
+    "Widebody Conversion: Custom 928-specific Rocket Bunny/Pandem widebody kit (carbon fiber fenders, extended steel quarter panels, and custom aluminum rear diffuser) with a 2.5\" wider track front and 3.0\" wider rear. Matched with custom 3-piece Work Meister S1 3P wheels (19x11 ET25 front, 19x13 ET15 rear) in gloss black with gold hardware, wrapped in Michelin Pilot Sport Cup 2 R tires (275/35/19 front, 345/30/19 rear).",
+    "Aerodynamics: Custom front splitter by 9ff (carbon fiber, 3D-scanned for 928 S4 chassis) with integrated canards (3 per side) and a rear wing by RW Carbon (dual-element, 1,800mm span, adjustable angle of attack via hydraulic actuators). Underbody diffusers by Vorsteiner (carbon fiber, 3-stage design) with integrated air curtains for brake cooling.",
+    "Interior & Lighting: Full Alcantara retrim by Katzkin (dashboard, door cards, headliner) with custom Recaro Pole Position seats (carbon fiber shells, 6-point Schroth harnesses). Digital dash upgrade via AIM MXS Strada (12\" display) with integrated Bosch MS4.0 ABS sensor inputs. Exterior lighting: Hella Rallye 3000 H4 headlights (yellow bulbs) with custom Cibié Oscar LED taillights and sequential turn signals."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "919 HYBRID EVO",
+  "prestazioni": [
+    "Replacement of the stock V4 2.0L (EA888-derived, internal code '919-V4-2.0T') turbocharged hybrid powerplant with a bespoke Gibson Technology-prepped unit featuring a billet aluminum block, Mahle Motorsport forged pistons (9.0:1 compression), and a Garrett GTX5544R Gen II turbocharger (1.45 A/R turbine housing) pushing 1,160 HP at 9,000 RPM on VP Racing Fuels' C16 116-octane blend",
+    "Integration of a Williams Advanced Engineering-developed KERS (Kinetic Energy Recovery System) with a 9.4 kWh lithium-ion battery pack (replacing the stock 6.5 kWh unit) and a YASA P400 electric motor (340 kW peak output) for a combined system output of 1,675 HP, managed via a Bosch Motorsport MS 5.1 ECU with custom hybrid torque vectoring algorithms",
+    "Installation of a 919-specific Öhlins TTX46 MkII coilover suspension system with 4-way adjustable dampers, titanium springs (120 N/mm front, 150 N/mm rear), and a hydraulic ride height adjustment system (range: 50mm to 120mm) paired with a Porsche Motorsport-developed carbon-fiber anti-roll bar (22mm front, 20mm rear) for Nürburgring-optimized stiffness"
+  ],
+  "estetica": [
+    "Full carbon-fiber bodywork replacement using a 919 Evo-exclusive weave from Toray Advanced Composites (T800SC/3900-2B prepreg) with a 30% weight reduction over stock, including a fixed rear wing derived from the 919 Hybrid LMP1 (1.8m span, 3-element design) with active Gurney flaps (Bosch Servolectric actuators)",
+    "Custom livery by Design Studio 1 (Porsche AG) featuring a matte 'Lava Orange' base (Porsche Paint Code: 2V) with '919 Evo' decals in 3M Scotchlite Reflective Series 680CR for night visibility, paired with BBS FI-R 18x13 (front) and 18x15 (rear) magnesium wheels wrapped in Michelin Pilot Sport Cup 2 R tires (310/710-R18 front, 340/710-R18 rear)",
+    "Interior overhaul with a full carbon-fiber monocoque (Weissach-developed, 1.2mm thickness) featuring a Sparco Pro 2000 seat (carbon-Kevlar hybrid shell) with 6-point Schroth Racing harnesses, a MOMO Prototipo steering wheel (carbon fiber with Alcantara grip), and a Motec C187 dash display (replacing the stock Porsche PCM) with live telemetry for hybrid system monitoring"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "963 LMDH",
+  "prestazioni": [
+    "Bosch MS 5.1.2 hybrid-optimized ECU reflash for the 963's 4.6L V8 (internal code: PU963-001) with custom ignition timing maps for 10,000 RPM redline and 700+ HP (race fuel), paired with a Mahle Motorsport forged piston upgrade (9.5:1 compression) and titanium connecting rods (Pankl Racing Systems)",
+    "Garrett GT35R turbocharger (custom billet wheel, 76mm compressor, 62mm turbine) with a Tial MV-R 44mm wastegate and a custom 4.5-inch titanium downpipe (Akrapovič) to optimize exhaust flow for the 963's hybrid MGU-K system (Porsche 919-derived)",
+    "Öhlins TTX40 4-way adjustable dampers with carbon-fiber pushrods (Penske Racing) and a custom sway bar setup (Eibach Pro-Race) for Le Mans-spec stiffness, paired with BBS FI21 18-inch center-lock magnesium wheels (30.5 lbs each) and Michelin Pilot Sport Cup 2 R tires (31/71-18 front, 31/71-18 rear)"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (carbon fiber, 963-specific) with integrated NACA ducts for brake cooling and a custom rear diffuser (AeroDynamik) to reduce lift by 40% at 200+ mph",
+    "Porsche Motorsport 963 livery in 'Gulf Blue' with custom gold pinstriping (by Dr. ColorChip) and a full carbon-fiber roof (Weissach package, 12 lbs weight reduction)",
+    "Custom LED headlight assembly (Hella) with adaptive high-beam control (Bosch) and a rear wing endplate-mounted camera system (Garmin Catalyst) for real-time aerodynamic data overlay"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "944 S2",
+  "prestazioni": [
+    "Engine: 3.0L M44/42 (100mm bore, 78.9mm stroke) with forged Mahle 944 Turbo S pistons (9.7:1 compression) and Carrillo H-beam connecting rods for 8,000 RPM reliability, paired with a custom Schrick 284° camshaft grind (intake/exhaust lift: 11.5mm/11.2mm) and titanium retainers from 944 Turbo Cup racing engines",
+    "Forced induction: Precision Turbo PT6266 CEA ball-bearing turbo (62mm inducer, 66mm exducer) with a custom 3.5\" stainless steel equal-length tubular manifold (TIG-welded 304SS, 1.75\" primaries) and a GReddy Type-S blow-off valve (set to 18psi peak boost, tapering to 14psi at redline), feeding a custom air-to-water intercooler (Garrett core, 12\" x 6\" x 3.5\") with a Davies Craig EWP150 electric water pump",
+    "Fuel & Ignition: Bosch Motorsport 044 high-flow fuel pump (340 LPH) with -8AN feed lines, Injector Dynamics ID1000x injectors (1,000cc/min), and a Haltech Elite 2500 ECU (full sequential injection, individual cylinder trims, and launch control), paired with an MSD Digital 6AL ignition box and NGK R7437-9 racing plugs (0.028\" gap, projected tip)"
+  ],
+  "estetica": [
+    "Widebody conversion: Rieger Tuning 944 S2-specific widebody kit (front fenders +120mm, rear fenders +140mm) with carbon fiber overfenders (2x2 twill weave, 3K finish) and custom aluminum rivet bonding for OEM+ fitment, retaining the original pop-up headlights",
+    "Aerodynamics: Custom 944 GT3-style front splitter (3mm aluminum, 45mm overhang) with integrated canards (3D-printed PETG, 15° angle) and a 944 Turbo Cup-inspired rear diffuser (carbon fiber, 3-channel design) with a 90mm Gurney flap, all validated in a wind tunnel for -0.25 Cd at 120mph",
+    "Wheels & Stance: BBS RS-GT II 17x9.5\" ET25 (front) and 17x11\" ET15 (rear) with custom 5x130 hubcentric adapters (7075-T6 aluminum, 20mm thick), wrapped in Michelin Pilot Sport Cup 2 tires (245/40/17 front, 295/35/17 rear) on a KW Clubsport 3-way coilover suspension (8-position rebound, 12-click compression, 20mm adjustable ride height)"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "924 CARRERA GTR",
+  "prestazioni": [
+    "Engine: 2.5L inline-4 (engine code: M31/50) with a custom-built 88mm forged crankshaft from Mahle Motorsport, Carrillo H-beam connecting rods, and JE Pistons 9.5:1 forged slugs for 1.5-bar boost compatibility. Pair with a custom GTX4202R turbocharger from Garrett, mounted on a bespoke titanium exhaust manifold by IPD (International Performance Development) with 1.75\" primary tubes and a 3.5\" stainless steel downpipe.",
+    "Fuel System: Upgraded to a dual Bosch Motorsport 044 high-flow fuel pump setup with -8AN lines, feeding 1000cc ID1000 injectors from Injector Dynamics. The fuel rail is a custom billet aluminum unit from VSR Performance, paired with a Motec M150 ECU for full sequential fuel and ignition control, including anti-lag and launch control strategies.",
+    "Suspension & Chassis: Full Ohlins TTX40 coilover kit with 24-way adjustable compression and rebound damping, custom-valved for the 924 GTR’s front-midship layout. Reinforced spherical bearing front control arms from 944 Turbo S (part # 944.421.011.00) with polyurethane bushings from Powerflex (PFF80-6115). Rear subframe reinforced with a custom tubular steel brace from Mantzel Motorsport, paired with a 935-style rear sway bar (28mm adjustable) from Elephant Racing."
+  ],
+  "estetica": [
+    "Aero: Full carbon fiber widebody conversion using the authentic 924 Carrera GTR Group 4 homologation fender flares (part # 924.043.901.00/01) from Porsche Classic, paired with a custom 935-style front splitter from 9ff Racing. Rear wing is a custom-built dual-element unit from RW Carbon, mimicking the 935 \"whale tail\" with adjustable angle of attack (0-15 degrees).",
+    "Exterior: Full respray in Porsche’s original 1981 \"Indischrot\" (Indian Red) with a custom pearlescent flake from Glasurit (908-100), applied over a 3M Matte Clearcoat for a satin finish. OEM-style \"Carrera GTR\" decals in silver foil from Historic Racing Decals, with custom \"924 GTR\" script on the doors in the same font as the 917/30. Front headlights replaced with Hella 924 Turbo units (part # 924.631.011.00) with custom LED DRLs from LUX Automotive.",
+    "Interior: Full Recaro SRD racing seats (part # 383.025.00) in black Alcantara with red stitching, mounted on custom Schroth 6-point harnesses (part # 62150.95). Dashboard and door cards retrimmed in red leather by Saddleback Leather, with a custom Momo Prototipo steering wheel (380mm) wrapped in Alcantara. Roll cage is a TIG-welded 8-point unit from Matter Motorsport, painted in Porsche GT Silver (991.721.001.00) with red accent stripes."
+  ]
+}

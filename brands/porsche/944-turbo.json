@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "944 TURBO",
+  "prestazioni": [
+    "Engine: M44/52 (2.5L inline-4, 8v SOHC, KKK K26-8 turbo) – Full forged internals with Mahle Motorsport 95.5mm forged pistons (9.5:1 CR), Carrillo H-beam connecting rods, and a billet crankshaft from JE Pistons for 1,000+ hp reliability. Turbo upgrade to a Garrett GTX4202R with a custom 0.82 A/R turbine housing and 63mm compressor wheel, paired with a Tial MV-R 44mm external wastegate and 3.5\" v-band downpipe.",
+    "Fuel System: Full Aeromotive fuel system with dual A1000 in-tank pumps, 1,000cc ID1000 injectors, and a Radium Engineering dual feed fuel rail. ECU reflash via standalone Motec M150 with custom M44/52-specific maps, including sequential injection and individual cylinder trimming for boost levels up to 2.2 bar (32 psi).",
+    "Drivetrain: G50/21 5-speed transmission reinforced with a Guard Transmission 944 Turbo dog-ring gearset (close-ratio) and a Sachs Performance twin-disc clutch (400 Nm torque capacity). Limited-slip differential upgraded to a Quaife ATB helical LSD with 45% lockup under load. Custom 80mm driveshaft from GJ Driveline with CV joints rated for 1,200 Nm."
+  ],
+  "estetica": [
+    "Body: Full Rocket Bunny V1 944 Turbo widebody kit with carbon fiber front fenders, rear quarter panels, and a ducktail spoiler. Front splitter and rear diffuser from 9ff Racing, with a custom 3D-printed aluminum undertray for optimized aero balance (target: -120 kg downforce at 200 km/h).",
+    "Wheels: BBS RS-GT II 18x10.5\" ET25 front and 18x12\" ET40 rear, wrapped in Michelin Pilot Sport Cup 2 R tires (275/35/18 front, 315/30/18 rear). Custom center-lock adapters from HRE Performance for quick swaps.",
+    "Interior: Full Recaro Pole Position II seats with Schroth Profi II 6-point harnesses, bolted to a custom T45 steel roll cage from Matter Fab. Momo Prototipo steering wheel with a quick-release hub, paired with a digital dash from AIM MXS Strada (1.3\" display) and a custom aluminum shift knob from BBI Racing with a weighted titanium shift rod."
+  ]
+}

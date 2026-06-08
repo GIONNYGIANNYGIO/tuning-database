@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "936",
+  "prestazioni": [
+    "Engine: Type-936/77 flat-six (2.1L, 911-derived, air-cooled, twin-turbocharged) with a bespoke Mahle forged pistons (9.0:1 compression) and titanium connecting rods (Porsche Motorsport 935-spec) for 800+ HP at 1.5 bar boost on 102-octane race fuel, paired with twin KKK K36 turbochargers (936-specific billet compressor wheels) and custom intercoolers (Behr Motorsport 936/78-spec, dual-core, 40% efficiency gain over stock).",
+    "Drivetrain: Reinforced 935/78 5-speed transaxle (Porsche part #930.360.001.00) with a Quaife ATB differential (936-specific 45% lock) and a Sachs Performance 936-spec carbon triple-plate clutch (240mm, 3,500 Nm torque capacity) for Le Mans endurance reliability.",
+    "Suspension & Aero: Full 936/78 Group 6-spec chassis reinforcement with a custom T45 steel roll cage (Porsche Motorsport 936/78 blueprint) and Öhlins TTX40 4-way adjustable dampers (936-specific valving, 22 clicks rebound, 18 clicks compression) paired with Eibach 936-spec progressive-rate springs (front: 600 lb/in, rear: 800 lb/in). Aerodynamics include a 936/78-spec front splitter (carbon-Kevlar, 30% stiffer than 935) and a 936/77 rear wing (aluminum honeycomb, 1.2m chord, 3-position Gurney flap) for 1,800 lbs downforce at 200 mph."
+  ],
+  "estetica": [
+    "Body: Full 936/77 Le Mans-spec fiberglass widebody (Porsche Motorsport part #936.600.001.00) with a 936/78-spec front hood (carbon fiber, 30% lighter than stock) and a 936/77 rear engine cover (aluminum, louvered for heat extraction). Paint: Porsche Motorsport ‘Gulf Blue’ (936-specific RAL 5017) with ‘Martini Racing’ stripes (3M 1080 vinyl, 936/77 Le Mans livery).",
+    "Wheels: BBS E50 magnesium wheels (936-spec, 16x11 front, 16x16 rear) with center-lock hubs (Porsche 936/78 part #930.312.001.00) and Michelin Pilot Sport Cup 2 tires (275/620-16 front, 325/710-16 rear) for 1977 Le Mans spec compliance.",
+    "Interior: Full 936/77 Group 6-spec roll cage (T45 steel, 936/78 blueprint) with a Sparco 936-spec carbon fiber racing seat (Porsche part #936.640.001.00) and a MOMO 936/77 steering wheel (380mm, suede, quick-release hub). Gauges: Stack 936-spec digital dash (Porsche Motorsport part #936.610.001.00) with analog boost (0-2.5 bar) and oil temp (0-150°C) backups."
+  ]
+}

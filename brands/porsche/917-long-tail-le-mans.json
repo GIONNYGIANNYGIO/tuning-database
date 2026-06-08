@@ -1,0 +1,22 @@
+{
+  "brand": "PORSCHE",
+  "model": "917 LONG TAIL LE MANS",
+  "prestazioni": [
+    "Engine: Type 912/00 4.5L flat-12 (air-cooled, 12:1 compression ratio) with titanium connecting rods (Mahle) and forged aluminum pistons (Kolbenschmidt), paired with a magnesium crankcase for weight reduction and rigidity.",
+    "Forced induction: Twin-turbocharged setup using Garrett T04B-60 turbochargers (custom billet compressor wheels, 0.85 A/R turbine housings) with dual wastegates (Tial 44mm) and custom intercoolers (Behr air-to-water, front-mounted in the nose section).",
+    "Fuel system: Mechanical port injection (Bosch Kugelfischer PL04) with dual electric fuel pumps (Pierburg) and a custom fuel rail (Titanium, fabricated by HJS) running 102-octane leaded race fuel (Castrol R40).",
+    "Ignition: Dual-magneto system (Bosch ZM12) with 12 individual coils (Lucas) and NGK B9EGV spark plugs (gapped at 0.020\"), optimized for 10,000+ RPM stability.",
+    "Exhaust: Equal-length 4-into-1 headers (Inconel 625, fabricated by Akrapović) with a straight-pipe exit (no mufflers) and thermal coating (Zircotec Plasma-Spray) to reduce underbody heat soak.",
+    "Drivetrain: 5-speed Type 917 dog-ring gearbox (Hewland LG600) with a 2.75:1 final drive ratio, reinforced with a carbon-fiber driveshaft (GKN) and a limited-slip differential (ZF 100% lock, oil-cooled).",
+    "Suspension: Double-wishbone front and rear (titanium uprights, fabricated by WP Performance) with Öhlins TTX40 coilovers (3-way adjustable, 400 lbs/in springs) and spherical bearings (Uniball, Aurora).",
+    "Brakes: Ventilated carbon-carbon discs (SEP, 380mm front/355mm rear) with 6-piston calipers (Brembo P450) and steel-braided lines (Goodridge), running Castrol SRF brake fluid (DOT 4, 310°C boiling point).",
+    "Aerodynamics: Le Mans-spec long-tail body (fiberglass, hand-laid by Porsche Werk II) with a 3-element rear wing (adjustable Gurney flap, 12° angle) and a front splitter (carbon fiber, 3-stage adjustable) for 1,200 kg of downforce at 240 mph."
+  ],
+  "estetica": [
+    "Body: Full Gulf Oil livery (Porsche Werk II original paint codes: 33-9-9 (Light Blue) and 10-9-9 (Orange)) with hand-painted pinstriping (executed by Studio Kussmaul) and matte clear coat (PPG Concept DCU2021).",
+    "Wheels: Fuchs 15x15\" front / 15x19\" rear (forged magnesium, center-lock) with titanium wheel nuts (ARP) and Michelin XWX tires (5.50-15 front / 12.00-15 rear, vintage tread pattern).",
+    "Interior: Full aluminum monocoque chassis with a single Recaro SRD racing seat (carbon-Kevlar shell, 6-point Schroth harness) and a MOMO Prototipo steering wheel (suede, quick-release hub).",
+    "Lighting: Original Hella 170mm round headlights (halogen, 55W) with custom LED auxiliary lights (PIAA LP530, mounted in the front splitter) and a rear light cluster (Lucas, red/amber, period-correct).",
+    "Details: Original Porsche Werk II chassis plate (stamped 917-043) with a custom engraved plaque (titanium, by BBS) listing Le Mans 1971 victory data (Driver: Marko/Van Lennep, Time: 24h, Avg. Speed: 222.30 km/h)."
+  ]
+}

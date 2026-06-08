@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "911 SPORT CLASSIC",
+  "prestazioni": [
+    "Engine: 4.0L NA 9A2 Evo (992.2) with a custom Manthey Racing MR2000+ ECU reflash, optimizing the 550 PS (405 kW) output to 600 PS (441 kW) via revised cam timing, individual throttle body (ITB) optimization, and a bespoke intake manifold plenum from 911 GT3 RS (992) for improved airflow dynamics at high RPM (9,000 RPM redline retention).",
+    "Exhaust: Akrapović Evolution Line Titanium full-system with 90mm dual outlets, featuring a 4-2-1 merge collector and resonated center section to eliminate drone while amplifying the 9A2’s naturally aspirated exhaust note (targeting 105 dB at 7,000 RPM).",
+    "Suspension: Öhlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression), paired with a Manthey Racing MRX front strut brace and a custom-fabricated rear monoball subframe reinforcement kit (992-specific) to eliminate chassis flex under lateral loads exceeding 1.2G."
+  ],
+  "estetica": [
+    "Aerodynamics: RWB (Rauh-Welt Begriff) ‘Pandem’ widebody kit (992-specific), featuring carbon fiber overfenders with integrated canards, a ducktail spoiler with Gurney flap, and a custom front splitter with dive planes (increased downforce by 18% at 180 km/h).",
+    "Wheels: HRE FF16 flow-formed forged wheels in 9.5x20 ET40 (front) and 12.5x20 ET50 (rear), wrapped in Michelin Pilot Sport Cup 2 R tires (245/30 R20 front, 305/25 R20 rear) with a custom gold/polished finish and titanium hardware from ARP.",
+    "Interior: Full Alcantara retrim by Saddleback Leather, including dashboard, door cards, and Recaro Pole Position seats (992 GT3-spec) with carbon fiber backs. Custom roll cage by Matter Fab in 4130 chromoly steel, integrated with a fire suppression system (Lifeline Zero 360) and a Motec C127 dash logger for track telemetry."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "962",
+  "prestazioni": [
+    "Engine: Type-962/70 2.8L flat-six (935/70-derived) with billet aluminum crankshaft (Mahle Motorsport) and forged titanium connecting rods (Pankl Racing Systems), stroked to 3.2L via custom 94mm crank (JE Pistons) for 850+ HP on methanol/race fuel blend. Twin Garrett GT4202R turbos (84mm inducer, 1.15 A/R turbine housings) with custom water-cooled center housings and TiAL MV-R 44mm wastegates.",
+    "Drivetrain: Hewland VGC 5-speed sequential transaxle with carbon-fiber clutch (Tilton Engineering) and 8-plate sintered metallic clutch pack, paired with a Quaife ATB differential (40% lockup) and custom 4340 chromoly halfshafts (The Driveshaft Shop).",
+    "Suspension/Chassis: Full tubular steel spaceframe (Penske Racing) with Ohlins TTX40 4-way adjustable coilovers (22 clicks rebound, 18 clicks compression), spherical bearing control arms (Eibach), and custom 50mm wheel spacers (HRE Performance) to fit 18x13 front / 18x17 rear BBS RS-GT II wheels (3-piece magnesium centers) with Michelin Pilot Sport Cup 2 R tires (345/645-18 front, 385/660-18 rear)."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon-fiber bodywork (RML Group) with 962C-style extended front splitter (30mm overhang), custom rear diffuser (3D-printed titanium vanes, Gurney flap), and adjustable rear wing (KW Automotive) with dual-element carbon-fiber blades (45-degree angle, 1.2m span).",
+    "Lighting: Full LED conversion (Hella Rallye 2000) with custom CNC-machined aluminum bezels (anodized gold) and integrated CREE XHP70.2 diodes (6500K color temp), paired with a Motec C127 dash for real-time telemetry overlay.",
+    "Interior: Full FIA-spec roll cage (SCCA-approved, TIG-welded 4130 chromoly) with Sparco Pro 2000 seats (carbon-Kevlar shell, 6-point Schroth harnesses), MOMO Mod.78 steering wheel (suede, quick-release hub), and custom aluminum pedal box (Tilton) with adjustable brake bias (0-100% range)."
+  ]
+}

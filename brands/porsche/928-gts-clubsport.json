@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "928 GTS CLUBSPORT",
+  "prestazioni": [
+    "Engine: 5.4L M28/69 V8 (32-valve, DOHC) with a custom-built 996 GT3-derived dry-sump lubrication system (Mahle Motorsport forged pistons, Carrillo H-beam connecting rods, and a billet crankshaft) paired with a custom titanium valvetrain (Ferrea Competition Series valves, Schrick 280° camshafts, and titanium retainers) for a target of 650HP at 7,200 RPM on 98 RON fuel with a Motec M150 ECU managing the sequential fuel injection and individual throttle bodies (ITBs) from Jenvey Dynamics.",
+    "Forced Induction: Twin-turbocharged setup using Garrett GTX4202R Gen II turbos (84mm compressor wheels, 1.06 A/R turbine housings) with custom 3D-printed Inconel exhaust manifolds (designed by Gintani Engineering) and a dual-core air-to-water intercooler (PWR Advanced Cooling) integrated into the front bumper, feeding into a custom 3.5-inch titanium exhaust system (Akrapović) with electronically controlled bypass valves for backpressure optimization.",
+    "Suspension & Chassis: Full Ohlins TTX46 coilover kit (3-way adjustable, 24-position rebound, 22-position compression, and adjustable ride height) with custom valving for the 928’s unique transaxle layout, paired with spherical bearing front control arms (911 GT3 RS-derived, fabricated by Manthey Racing) and a rear subframe reinforcement kit (9ff Motorsport) to handle increased torque. Braking is upgraded to a full AP Racing CP9430 caliper setup (6-piston front, 4-piston rear) with 405mm two-piece carbon-ceramic rotors (Brembo CCM-R) and Ferodo DS3000 pads."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon fiber widebody conversion (Rocket Bunny V3 kit, modified for the 928’s proportions) with a custom 3D-scanned front splitter (integrated with the intercooler ducting), a rear diffuser (911 GT2 RS-style, fabricated by RWB Japan), and a fixed carbon fiber rear wing (918 Spyder-derived, adjustable angle via hydraulic actuators). Underbody features a full flat floor with vortex generators (designed in collaboration with Porsche Motorsport’s aerodynamics team).",
+    "Exterior Trim: Full carbon fiber replacement for all exterior panels (hood, fenders, doors, and rear hatch) using pre-preg autoclave carbon (Weissach-spec, supplied by Carbon Revolution) with a matte clear coat finish. Lightweight polycarbonate side windows (Sekurit, 3mm thick) and a custom titanium roll cage (TIG-welded, 4130 chromoly, designed by Matter Fab) integrated into the B-pillars for chassis rigidity.",
+    "Wheels & Stance: Custom 3-piece forged wheels (BBS LM-R, 10.5x18 ET25 front and 12.5x18 ET15 rear) with titanium hardware and Michelin Pilot Sport Cup 2 R tires (275/35/18 front, 325/30/18 rear). Fender flares are rolled and pulled (using a custom hydraulic press tool) to accommodate the wider track, with a 30mm front and 40mm rear track increase via extended wheel spacers (H&R, 7075-T6 aluminum)."
+  ]
+}

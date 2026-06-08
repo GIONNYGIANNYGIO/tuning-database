@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "918 RSR CONCEPT",
+  "prestazioni": [
+    "Engine: 4.5L V8 (MR6) hybrid powertrain with dual electric motors (front axle) and a naturally aspirated 580 HP internal combustion unit, upgraded with a **Weber F1-derived Alpha-N engine management system** for precise throttle mapping and 12,000 RPM redline capability, paired with a **Porsche Motorsport 7-speed PDK transmission** featuring carbon-fiber-reinforced synchronizers and a **Wavetrac limited-slip differential** for optimized torque vectoring on track.",
+    "Forced induction: **Garrett GTX5533R turbocharger** (custom billet compressor wheel) with a **Tial MV-R 44mm wastegate** and **PTP 4-inch titanium downpipe** to eliminate backpressure, feeding into a **Porsche Motorsport 918 Spyder-derived intercooler core** (custom 3D-printed end tanks) for sub-40°C intake temps at 2.5 bar boost, while retaining the hybrid system’s **Bosch MGU-K motor-generator unit** for instant 200 Nm torque fill at 0 RPM.",
+    "Suspension & Chassis: **Öhlins TTX46 MkII coilovers** with **Penske 8760 remote reservoirs** (3-way adjustable damping) and **Porsche 911 GT3 R-derived spherical bearing control arms**, paired with a **Brembo GT-R 6-piston monobloc caliper** front brake kit (410mm carbon-ceramic rotors) and **Pagid RSL29 brake pads** for 1.2g deceleration, while the **918 RSR-specific carbon-fiber monocoque** is reinforced with **Toray T1100G prepreg weave** for 20% torsional rigidity increase over the 918 Spyder."
+  ],
+  "estetica": [
+    "Aerodynamics: **RAUH-Welt Begriff (RWB) 918 RSR-widebody kit** (custom carbon-fiber overfenders with integrated **Gurney flaps** and **NACA ducts** for brake cooling), paired with a **9ff GTronic 918 RSR rear diffuser** (3D-printed titanium honeycomb structure) and **Vorsteiner 918 Spyder carbon-fiber front splitter** (adjustable dive planes for -800 kg downforce at 250 km/h).",
+    "Exterior Trim: **Porsche Exclusive Manufaktur ‘Liquid Metal Blue’ paint** (3-stage pearlescent finish with **PPG Vibrance Collection clearcoat**), **HRE FF16 wheels** (20x12 front, 21x13 rear, forged magnesium centers) wrapped in **Michelin Pilot Sport Cup 2 R tires** (345/30 R21 front, 355/25 R22 rear), and **Novitec Torado-style LED taillights** with **Osram Ostar Projection modules** for 30% brighter illumination.",
+    "Interior: **Recaro Pole Position carbon-fiber bucket seats** (Schroth 6-point harnesses, **Sabelt 806 racing belts**), **MOMO Prototipo steering wheel** (suede-wrapped, **AiM MXS Strada data logger** integrated into the hub), and **Porsche Classic analog gauges** (custom **VDO 320 km/h speedometer** with **Defi Advance BF oil pressure/temp sensors**) mounted in a **carbon-Kevlar hybrid dashboard** with **Alcantara headliner** and **roll cage padding** in **Sparco Fireproof Nomex."
+  ]
+}

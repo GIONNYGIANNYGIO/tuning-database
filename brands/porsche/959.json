@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "959",
+  "prestazioni": [
+    "Engine: M959/50 (2.85L twin-turbocharged flat-6) – Replace stock KKK K26 turbochargers with Garrett GTX4202R Gen II turbos (88mm compressor wheels, 64mm turbine wheels) paired with custom 3.5-inch titanium downpipes (Tial Sport) and a secondary air injection delete for optimized spool and reduced lag. Retain the stock intercooler but upgrade to a PWR 4.5-inch core with billet end tanks for 30% greater heat dissipation.",
+    "Fuel System: Replace the stock Bosch Motronic MA 1.2 ECU with a standalone Motec M182 ECU, recalibrated for E85 flex-fuel compatibility. Upgrade injectors to ID1700x (2200cc) with a Radium Engineering dual fuel rail setup, paired with a Walbro 450 LPH in-tank pump and a secondary AEM 340 LPH external pump for sustained 1.5-bar boost pressure.",
+    "Drivetrain: Install a Tilton 7.25-inch triple-plate carbon clutch with a billet flywheel (12.5lb) and a Quaife ATB differential (85% lock) in the transaxle. Replace the stock halfshafts with custom CV Driveshafts 300M alloy units, rated for 1,200 Nm of torque. Retain the stock 6-speed manual but upgrade synchros to carbon-lined units (Racing Beat) and fit a short-shift kit (B&M 70264) with a weighted shift knob (MOMO Prototipo)."
+  ],
+  "estetica": [
+    "Body: Replace the stock front bumper with a 959 Sport replica (TechArt) featuring integrated carbon fiber canards (Vorsteiner) and a custom 3D-printed aluminum mesh grille (959 Design). Install a full carbon fiber widebody kit (RWB-inspired, custom-fabricated by RAUH-Welt Begriff) with extended fenders (2.5-inch flares) and a ducktail spoiler (9ff) for downforce balance.",
+    "Wheels: Fit custom BBS RS-GT II wheels (9x17 front, 11x17 rear) with titanium hardware (ARP) and Michelin Pilot Sport Cup 2 R tires (235/40/17 front, 285/35/17 rear). Use H&R Ultra Low coilovers (40mm drop) with adjustable camber plates (Suspension Techniques) and polyurethane bushings (Energy Suspension) for chassis rigidity.",
+    "Interior: Replace the stock seats with Recaro Pole Position II carbon-Kevlar shells (Schroth 6-point harnesses) and a custom roll cage (Chromoly, TIG-welded by The Phirm). Install a digital dash (Aim MXS Strada) with a Motec C127 data logger, paired with a quick-release MOMO Mod.78 steering wheel (suede) and a custom aluminum shift knob (959 Design, engraved with the M959/50 engine code)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "963 IMSA",
+  "prestazioni": [
+    "Bosch MS 9.2 Motorsport ECU recalibration for the 4.6L V8 twin-turbo (Porsche 9RD engine code) with 700+ hp output, optimizing fuel maps for IMSA-spec E20 fuel blend and adjusting turbo boost curves to 2.2 bar peak pressure using Garrett GT35R billet wheel turbos with titanium-aluminide turbine housings",
+    "Pankl Racing Systems titanium connecting rods (H-beam, 4340 steel) paired with Mahle Motorsport forged pistons (2618 alloy, 9.5:1 compression) to withstand 9,000 RPM redline and 1,200+ hp transient spikes during IMSA endurance races",
+    "Ohlins TTX46 MkII 4-way adjustable dampers with 300mm stroke lengths, custom valving for Daytona/Le Mans kerbs, and Motec damper position sensors integrated into the Porsche PDK gearbox control unit for dynamic ride height adjustments"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit with carbon-fiber reinforced polymer (CFRP) fenders, front splitter, and rear diffuser, designed specifically for the 963's LMP2-derived monocoque and featuring integrated NACA ducts for brake cooling",
+    "AIM MXL2 data acquisition system with 10-inch carbon-fiber dash display, replacing the stock Porsche PCM unit and featuring IMSA-mandated delta lap time readouts, tire pressure monitoring (TPMS), and real-time fuel flow telemetry",
+    "Porsche Motorsport 963-spec livery with 3M Scotchlite reflective decals (series 900) for night racing visibility, paired with BBS FI21 forged magnesium wheels (18x13 front, 18x15 rear) wrapped in Michelin Pilot Sport GT S9M tires (30/68-18 front, 31/71-18 rear)"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "959 S",
+  "prestazioni": [
+    "Engine: M959/50 (3.4L twin-turbocharged flat-6) – Replace stock KKK K26 turbochargers with Garrett GTX4202R Gen II turbos (88mm compressor, 64mm turbine) paired with custom 3.5-inch titanium downpipes (Tial Sport) and a secondary air injection delete for optimized spool and 900+ HP potential on E85.",
+    "Fuel System: Upgrade to dual Bosch Motorsport 044 high-flow fuel pumps with an Aeromotive A1000 regulator, coupled with ID1700x injectors (2,200cc/min) and a Motec M190 ECU with 959-specific CAN bus integration for sequential turbo control and anti-lag mapping.",
+    "Drivetrain: Reinforced G50/52 6-speed transaxle with a Guard Transmission billet aluminum bellhousing, OS Giken 2.15:1 final drive ratio, and a Tilton triple-plate carbon clutch (7.25-inch) with a Sachs dual-mass flywheel delete for 1,200 Nm torque capacity."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion using a 959-specific RWB (Rauh-Welt Begriff) 'Kompromiss' kit with extended fenders (30mm front, 40mm rear), custom aluminum rear diffuser (TechArt GTstreet R), and a 959 Sport front splitter with integrated canards (9ff).",
+    "Wheels: BBS RS II 3-piece forged wheels (9x18 ET15 front, 12x18 ET5 rear) with titanium hardware, shod in Michelin Pilot Sport Cup 2 R tires (235/40/18 front, 335/30/18 rear) and HRE FlowForm FF01 centers for weight reduction.",
+    "Interior: Full Recaro Pole Position carbon-Kevlar bucket seats (959-specific mounting brackets), a MOMO Prototipo 380mm steering wheel with Alcantara and titanium spokes, and a custom roll cage (Chassisworks 959) with integrated fire suppression (Lifeline Zero 360 system) and a Motec C127 dash display."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "919 HYBRID",
+  "prestazioni": [
+    "Installation of a **Weissach-developed V4 2.0L (EA888-derived, but Porsche-specific hybridized code: 919-V4-2.0T-HYBRID)** with a **Garrett GT35R turbocharger (Porsche Motorsport-spec, 1.3 bar max boost)** and **Mahle Motorsport forged pistons (9.5:1 compression ratio)** for sustained 500+ hp at 9,000 RPM in LMP1 trim, paired with a **Bosch MS5.1 ECU (Porsche Motorsport-customized for hybrid energy recovery mapping)**",
+    "Upgraded **Williams Advanced Engineering ERS (Energy Recovery System) with a 400kW MGU-K (Motor Generator Unit-Kinetic)** and **A123 Systems lithium-ion battery pack (8MJ capacity, 1,000V architecture)** for instantaneous 400+ hp electric boost, managed via **Porsche’s proprietary PDK hybrid control module (919-specific, not 918-derived)**",
+    "Chassis reinforcement via **Porsche Motorsport carbon-fiber monocoque (919-specific, 30% stiffer than 918 Spyder’s) with integrated **Sachs Race Engineering 4-way adjustable dampers (LMP1-spec, 1,200 lbs/in spring rates)** and **Brembo GT-RS 6-piston calipers (380mm carbon-ceramic rotors, LMP1 endurance compound pads)** for 3.5G braking performance"
+  ],
+  "estetica": [
+    "Full **Porsche Motorsport LMP1 aero kit (919 Hybrid Evo-spec, 2018 Le Mans-winning configuration)** with **Gurney flaps (3D-printed titanium, adjustable in 0.5mm increments)** and **underbody diffuser (carbon-Kevlar hybrid, 1,200 lbs downforce at 200 mph)**",
+    "Custom **Porsche Exclusive Manufaktur ‘Liquid Metal Blue’ paint (919 Hybrid Evo livery, 5-layer pearlescent finish)** with **3M 1080 vinyl-wrapped carbon-fiber side skirts (matte finish, heat-reflective coating for battery cooling)**",
+    "OMP LMP1-spec **carbon-fiber racing seat (919-specific, 6-point Schroth harnesses, integrated HANS device mounts)** and **Sparco LMP1 fire suit (Nomex IIIA, 3-layer, Porsche Motorsport embroidery)** with **Alpinestars Tech-1 ZX v2 racing gloves (touchscreen-compatible, FIA 8862-2018 certified)**"
+  ]
+}

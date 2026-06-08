@@ -1,0 +1,14 @@
+{
+  "brand": "PININFARINA",
+  "model": "BATTISTA NINO FARINA EDITION",
+  "prestazioni": [
+    "Replace the stock Rimac-sourced **TQ2 930 kW (1,254 hp) quad-motor electric powertrain** with a **custom Rimac-developed 4x **Rimac C_Two-derived 600 kW (805 hp) liquid-cooled permanent-magnet synchronous motors (PMSM)** per axle, recalibrated via **Rimac All-Wheel Torque Vectoring (AWTV) 2.0** firmware to deliver **1,800 Nm (1,328 lb-ft) of instantaneous torque** and a **0-100 km/h (0-62 mph) time of 1.7 seconds** (down from 1.86s stock).",
+    "Install a **Porsche 919 Hybrid-derived 800V silicon-carbide (SiC) MOSFET inverter** (supplied by **Wolfspeed**) with **custom Pininfarina cooling plates** and **3M Novec 7100 dielectric fluid immersion** to handle **1,200A peak phase currents** while reducing inverter losses by **18%** over stock.",
+    "Upgrade the **stock 120 kWh Rimac battery pack (code: BP-120)** to a **custom 132 kWh BP-132 pack** with **NanoGraf silicon-anode lithium-ion cells (3.5Ah, 350 Wh/kg energy density)** and **active thermal management via dual **Mahle Jet Ignition (MJI) liquid-cooled aluminum heat sinks** for sustained **2,200 kW (2,950 hp) peak power output** during track use."
+  ],
+  "estetica": [
+    "Replace the stock **carbon-fiber monocoque** with a **full **Toray T1100G/3960 prepreg carbon-fiber weave** body (including **Pininfarina-designed **Farina Aero Splitter** with **active Gurney flaps** (adjustable via **Bosch MS 5.1 ECU**) for **45% more downforce at 250 km/h (155 mph)** without increasing drag.",
+    "Install **custom **Brembo GT 400x40mm monobloc calipers** (gold anodized, **Nino Farina Edition engraving**) with **Pagid RSX1 racing pads** and **AP Racing carbon-ceramic rotors (420mm front, 395mm rear)** featuring **perforated **Farina Cross-Drilled** patterns for **20% better heat dissipation** under extreme braking.",
+    "Fit a **Rocket Bunny x Pininfarina **Farina Edition** widebody kit** with **custom **3D-printed titanium wheel arches** (weight savings of **3.2 kg per corner**), **OZ Racing Superforgiata NF-10 wheels (20x9.5 front, 21x12.5 rear)** wrapped in **Michelin Pilot Sport Cup 2 R tires (265/35 R20 front, 325/30 R21 rear)** with **custom **Nino Farina signature tread pattern**."
+  ]
+}

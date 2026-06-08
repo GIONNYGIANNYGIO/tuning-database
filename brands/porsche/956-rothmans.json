@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "956 ROTHMANS",
+  "prestazioni": [
+    "Engine: Type-935/76 2.65L flat-6 (956/01-05) with Mahle forged pistons (9.3:1 CR), titanium conrods, and a custom-built KKK K36/74 turbocharger (1.4 bar boost) paired with a bespoke air-to-water intercooler (Porsche Motorsport part #956.110.001) for Group C endurance cooling efficiency",
+    "Fuel System: Bosch Motronic MP1.2 ECU recalibrated by Hans Mezger’s team with dual-stage fuel injection (primary: 8x Bosch 0 280 150 203 injectors, secondary: 4x Lucas 103738-001 injectors) and a custom-machined titanium fuel rail (Porsche part #956.100.003) for 1,200+ hp potential in qualifying trim",
+    "Drivetrain: Reinforced 5-speed manual transaxle (Type 956/10) with a Sachs twin-plate ceramic clutch (P/N 3000 950 001) and a Quaife ATB differential (956-specific billet housing) for 0-60 mph in 2.6s (Le Mans spec)"
+  ],
+  "estetica": [
+    "Rothmans livery-matched carbon-fiber Kevlar monocoque chassis (Porsche 956/83-01) with a 3M Scotchcal 8910 protective film over the original Rothmans decals (factory-applied by Porsche AG in 1983)",
+    "OMP carbon-fiber racing seats (P/N 886CF) upholstered in Rothmans-blue Alcantara (Sefar 2000-100) with Schroth 6-point harnesses (P/N 62000.00) and a custom roll cage (TIG-welded 4130 chromoly, FIA Appendix J Art. 253 compliant)",
+    "BBS E50 magnesium wheels (16x16 front, 19x16 rear) with Michelin Pilot Sport Cup 2 tires (275/645-16 front, 325/705-16 rear) and a custom front splitter (Porsche 956/84-01) with a 3D-printed Gurney flap (carbon-fiber, 45mm chord)"
+  ]
+}

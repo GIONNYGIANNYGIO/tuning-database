@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "935 MOBY DICK",
+  "prestazioni": [
+    "Engine: Type-935/71 3.2L flat-six (based on the 911 Turbo's M930/70) with a bespoke air-to-water intercooler system, twin KKK K36 turbochargers (1.4 bar boost), and a custom Mahle forged piston kit (9.0:1 compression ratio) for 750+ HP on 100-octane fuel",
+    "Drivetrain: Reinforced 935/72 4-speed manual transaxle with a Sachs twin-plate ceramic clutch (240mm diameter) and a 935-specific limited-slip differential (40% lock) from ZF, paired with a custom titanium driveshaft from Pankl Racing Systems",
+    "Suspension & Brakes: Full 935/78-spec suspension with Bilstein coilovers (adjustable damping via remote reservoirs), spherical bearing control arms from Meyle, and 917-derived 4-piston aluminum calipers with 380mm ventilated discs (front) and 300mm discs (rear), using Ferodo DS3000 pads"
+  ],
+  "estetica": [
+    "Body: Factory-correct 935/78 'Moby Dick' widebody kit with hand-laid fiberglass fenders (200mm wider than stock), a custom aluminum rear wing with adjustable Gurney flaps (Weissach-tested for 1,200 lbs of downforce at 200 mph), and a front splitter with integrated NACA ducts for brake cooling",
+    "Aerodynamics: Full-length underbody diffuser from 935/78 homologation specs, paired with a custom carbon-fiber rear bumper featuring dual exhaust exits (3.5-inch diameter) for the Akrapovič titanium exhaust system (935-specific 6-into-2-into-1 configuration)",
+    "Interior: Full 935/78 race-spec cage (TIG-welded chrome-moly steel) from Matter Motorsport, Recaro SRD full-bucket seats with 6-point Schroth harnesses, and a custom Momo 935 steering wheel (380mm diameter) with a quick-release hub"
+  ]
+}

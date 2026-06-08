@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "964 CARRERA RS",
+  "prestazioni": [
+    "Engine: M64/03 (3.6L flat-6, 9.8:1 compression) with a custom-built 3.8L stroker kit using Mahle Motorsport forged pistons (92mm bore), Carrillo H-beam connecting rods, and a billet crankshaft from JE Pistons, paired with a custom Schrick 284° camshaft grind for optimized high-RPM breathing while retaining drivability.",
+    "Forced Induction: Single-turbo conversion using a Garrett GTX3582R turbocharger (0.82 A/R turbine housing) with a custom 3.5-inch stainless steel exhaust manifold by SSI Racing, mated to a GReddy Type-S intercooler and a custom 3-inch titanium downpipe with a secondary wastegate dump for reduced backpressure.",
+    "Fuel & Ignition: Full sequential fuel injection conversion using Bosch Motorsport 0280158105 injectors (850cc/min) controlled by a Motec M150 ECU, paired with a custom dual-spark ignition system (MSD 6AL-2 with Bosch Motorsport coils) and a custom-mapped Motec PDM for auxiliary power distribution and logging."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion using a RWB (Rauh-Welt Begriff) Porsche 964 RS-specific kit (fenders, front/rear bumpers, and ducktail spoiler) with custom rivet placement for an aggressive stance, paired with a custom 964 RS-specific front splitter by 9ff with integrated canards.",
+    "Wheels & Suspension: BBS RS-GT II 18x10.5 +25 front and 18x12 +30 rear wheels with custom center-lock adapters, wrapped in Michelin Pilot Sport Cup 2 tires (265/35/18 front, 305/30/18 rear), paired with a custom Ohlins Road & Track coilover kit (964-specific valving) with adjustable top mounts and spherical bearing control arms from Tarrett Engineering.",
+    "Interior: Full Alcantara retrim by Recaro with custom-fitted SPG-K seats (964 RS-specific shell), a MOMO Prototipo steering wheel (380mm, suede) with a custom quick-release hub, and a custom roll cage by Matter Fab (964 RS-specific design) with integrated fire suppression system (Lifeline Zero 360) and a Motec C127 dash display for real-time telemetry."
+  ]
+}

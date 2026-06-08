@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "964 WEC HYPERCAR",
+  "prestazioni": [
+    "Replacement of the stock 9RD 4.6L V8 hybrid powertrain with a bespoke Gibson Technology-tuned 9RD+ 4.8L V8, featuring Mahle Motorsport forged pistons (9.5:1 compression), titanium connecting rods, and a dry-sump lubrication system with an ATL fuel cell for sustained high-G cornering",
+    "Installation of a Bosch MS 5.1 ECU with WEC-specific firmware (Porsche Motorsport Part #963-010-001) recalibrated for 750+ hp (1,000+ hp with hybrid boost) via a Garrett GTX5544R turbocharger (86mm billet wheel, 1.25 A/R turbine housing) and a custom air-to-water intercooler (PWR Racing, 12-row core, 3.5L capacity)",
+    "Integration of a Williams Advanced Engineering ERS (Energy Recovery System) with a 9.2 kWh lithium-ion battery pack (A123 Systems, 700V architecture) and a Zytek MGU-K (300 kW peak output) paired with a Xtrac P1339 7-speed sequential gearbox (carbon-fiber casing, magnesium bellhousing, WEC-spec differential with 75% lock)"
+  ],
+  "estetica": [
+    "Full carbon-fiber bodywork replacement with a Porsche Motorsport 963 WEC aero kit (Part #963-500-001), including a 2,200mm-wide front splitter (3D-printed titanium supports), a Gurney flap-adjustable rear wing (1,800mm span, 300mm chord), and underbody diffusers (3-stage design, 15% downforce increase at 250 km/h)",
+    "OMP WRC FIA-spec carbon-fiber racing seats (Part #OMP-963-001) with 6-point Schroth Profi II harnesses (FIA 8862-2009 certified) and a custom roll cage (T45 steel, 45mm OD, 3mm wall thickness, MIG-welded by Röhrl Motorsport)",
+    "BBS FI21 18-inch center-lock wheels (13x18 front, 14.5x18 rear, magnesium alloy, 7.2kg each) wrapped in Michelin Pilot Sport Cup 2 R tires (30/68-18 front, 31/71-18 rear) with a TPMS system (VBOX Motorsport, 10Hz logging) and Brembo GT-R monobloc calipers (6-piston front, 4-piston rear, 410mm carbon-ceramic rotors)"
+  ]
+}

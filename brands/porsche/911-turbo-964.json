@@ -1,0 +1,18 @@
+{
+  "brand": "PORSCHE",
+  "model": "911 TURBO 964",
+  "prestazioni": [
+    "Engine: M30/69 (3.6L air-cooled flat-six) with forged Mahle pistons (9.0:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from Andial for 1,200+ hp reliability under methanol injection (AEM 30-0300).",
+    "Turbocharging: Twin Garrett GTX5533R Gen II turbos (84mm inducer, 1.15 A/R turbine housings) with TiAL MV-R 60mm wastegates and custom 4-inch stainless steel equal-length headers by SSI Racing, paired with a Spearco 1200hp intercooler core and dual Bosch 044 fuel pumps.",
+    "Drivetrain: G50/52 6-speed manual transmission with a Guard Industries billet aluminum limited-slip differential (40% lockup), uprated halfshafts from Guard, and a Sachs Performance twin-disc clutch (300Nm torque capacity) with a lightweight aluminum flywheel.",
+    "Suspension: Öhlins Road & Track DFV coilovers (24-way adjustable damping) with spherical bearing top mounts, adjustable anti-roll bars from Tarrett Engineering (24mm front, 22mm rear), and polyurethane bushings from SuperPro (90A durometer) for the rear trailing arms.",
+    "ECU & Tuning: Motec M150 ECU with custom firmware for sequential fuel injection, individual cylinder knock control, and launch control (0-60 mph in 2.8s), paired with a Bosch Motorsport 1200cc/min high-impedance injector set and a custom-mapped ignition system using MSD 8 Plus CDI boxes."
+  ],
+  "estetica": [
+    "Widebody Conversion: RWB (Rauh-Welt Begriff) 964 Turbo kit with carbon fiber fenders (2.5-inch wider front, 3-inch wider rear), custom steel rocker panels, and a 3-piece carbon fiber rear diffuser by 9ff.",
+    "Aerodynamics: Custom front splitter by TechArt (carbon fiber, 3-stage adjustable) with integrated canards, a GT2-style rear wing (carbon fiber, 150mm chord) from 911 Design, and a flat underbody panel kit by Ruf Automobile for reduced lift.",
+    "Wheels & Tires: BBS RS-GT II 3-piece forged wheels (9x18 ET25 front, 12x18 ET15 rear) with custom gold centers, wrapped in Michelin Pilot Sport Cup 2 tires (245/35/18 front, 335/30/18 rear) and fitted with H&R Trak+ wheel spacers (15mm front, 25mm rear).",
+    "Exterior Trim: Full carbon fiber hood (weight savings: 12kg) from 9ff, side skirts by TechArt (carbon fiber, bolt-on), and a custom rear bumper with integrated dual 100mm exhaust outlets (stainless steel, polished) by SSI Racing.",
+    "Lighting: Hella Rallye 2000 headlights (H4 conversion, 100W bulbs) with custom Cibié Oscar projectors, LED taillights by LUX Automotive (error-free coding), and a custom LED light bar integrated into the front splitter (switchable via Motec PDM)."
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "brand": "PORSCHE",
+  "model": "911 TURBO S 991",
+  "prestazioni": [
+    "Engine: MA1.76 (3.8L twin-turbocharged flat-6) with a custom ECU flash from COBB Tuning Stage 2+ aggressive map, targeting 680 HP and 650 lb-ft torque on 93 octane fuel, utilizing a COBB Accessport V3 for real-time monitoring and data logging of AFR, boost pressure (24 PSI peak), and ignition timing.",
+    "Turbocharger upgrade: Pair of Garrett GTX4202R Gen II turbos with billet compressor wheels, 64mm inducers, and 76mm exducers, paired with custom 4-inch titanium downpipes (Fabspeed Motorsport) and a secondary air injection delete for optimized spool and reduced backpressure.",
+    "Fuel system: Full port-injection upgrade with dual Bosch Motorsport 0280158802 1,200cc injectors per bank, supplemented by a secondary set of ID1050x injectors for ethanol blending (E60-E85 capable), controlled via a Motec M150 ECU with flex-fuel sensor integration. Fuel pressure maintained at 72 PSI via an Aeromotive A1000 fuel pump and dual Radium Engineering surge tanks.",
+    "Drivetrain: 991.2-spec PDK transmission with a custom TCU tune from Shiftech for 0.15s faster shifts, paired with a Guard Transmission Products limited-slip differential (40% lockup under power) and a Sachs Performance dual-mass flywheel conversion for reduced rotational mass.",
+    "Suspension: Öhlins Road & Track DFV coilovers with 24-way adjustable compression/rebound damping, custom valving for the 991 Turbo S chassis, and helper springs for ride height adjustability. Front and rear sway bars upgraded to H&R 24mm adjustable units, with spherical bearing end links from 034Motorsport for zero deflection.",
+    "Braking: Porsche 991 GT3 RS-spec PCCB carbon-ceramic brakes (410mm front, 390mm rear) with Pagid RSL29 racing pads and stainless steel brake lines from Goodridge. Brake cooling ducts from a 991 GT2 RS aero kit, routed to the front calipers via custom 3D-printed ducting (Shapeways SLS nylon)."
+  ],
+  "estetica": [
+    "Widebody conversion: TechArt GTstreet RS widebody kit, extending the rear fenders by 60mm and the front by 40mm, with integrated carbon fiber canards and a ducktail spoiler. Custom 3M Matte Graphite vinyl wrap with a satin clear coat for UV protection.",
+    "Aerodynamics: Full 991 GT2 RS aero package, including the front splitter, rear diffuser, and rear wing (adjustable angle via hydraulic actuators from Dimex Motorsport). Underbody diffusers from Vorsteiner, paired with a custom front lip splitter from RW Carbon for increased downforce (estimated +120kg at 200 km/h).",
+    "Wheels: HRE FF01 forged wheels in a custom 9.5x20 ET40 front and 12.5x20 ET50 rear setup, finished in Satin Black with brushed titanium accents. Tires: Michelin Pilot Sport Cup 2 R in 265/30/20 front and 325/25/20 rear, shaved to 4.5mm tread depth for track use.",
+    "Interior: Full carbon fiber weave interior from 991 GT3 RS parts bin, including door cards, dashboard trim, and center console. Seats: Recaro Pole Position II carbon-Kevlar bucket seats with Schroth 6-point harnesses and a custom roll cage (T45 steel, 2.5mm wall thickness) from AutoPower Industries. Steering wheel: MOMO Prototipo 350mm suede wheel with a quick-release hub from NRG Innovations.",
+    "Lighting: Full LED conversion with LUX V3 H8/H11 bulbs for the front headlights, paired with a custom DRL delete (replaced with carbon fiber blanks). Rear taillights swapped for 991 GT3 RS units with smoked lenses and sequential turn signals via a Diode Dynamics controller."
+  ]
+}

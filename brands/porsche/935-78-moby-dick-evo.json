@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "935/78 MOBY DICK EVO",
+  "prestazioni": [
+    "Engine: Type-935/78 3.2L flat-six (engine code: 935/78) with billet aluminum crankshaft (Porsche Motorsport 935/78-01) and forged Mahle pistons (9.5:1 compression ratio), paired with a custom-built Kugelfischer mechanical fuel injection system (935/78-spec) featuring dual-plunger pumps and race-spec injectors for 1,500+ hp potential on methanol fuel.",
+    "Turbocharging: Twin Garrett GT42R (94mm inducer) turbochargers with custom 935/78-specific titanium turbine housings (Porsche Motorsport 935/78-03), 3.5-bar wastegates, and air-to-water intercoolers (Porsche 935/78-05) with dual Bosch 044 fuel pumps for sustained boost levels up to 2.8 bar.",
+    "Drivetrain: Reinforced 935/78 transaxle (Porsche 935/78-07) with billet steel gears, 4-plate sintered-metal clutch (Sachs Racing 935/78-spec), and a limited-slip differential (ZF 935/78 LSD) with 85% lockup under load, paired with a custom 5-speed dog-ring gearbox (Hewland DG300-935) for endurance racing durability."
+  ],
+  "estetica": [
+    "Bodywork: Full carbon-fiber replica of the 935/78 'Moby Dick' longtail body (RML Group 935/78 Evo kit) with integrated NACA ducts for brake cooling and a rear diffuser (Porsche 935/78-12) featuring adjustable Gurney flaps for downforce tuning.",
+    "Aerodynamics: Front splitter (Porsche 935/78-09) with removable dive planes (935/78-spec) and a rear wing (Porsche 935/78-11) with dual-element adjustable carbon-fiber blades (30mm chord) for Le Mans-spec aero balance, paired with custom side skirts (RML Group 935/78) to reduce lift by 40%.",
+    "Wheels & Stance: BBS RS II 16x11 front / 16x19 rear (935/78-spec) magnesium wheels with center-lock hubs (Porsche 935/78-04), wrapped in Michelin Pilot Sport Cup 2 tires (275/650-16 front, 325/705-16 rear) on custom 935/78 wheel spacers (15mm front, 20mm rear) for aggressive track-width alignment."
+  ]
+}

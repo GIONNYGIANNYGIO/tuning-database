@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "930 SLANTNOSE",
+  "prestazioni": [
+    "Engine: M930/60 (3.3L flat-six, air-cooled, single KKK K27 turbocharger) – Full rebuild with Mahle Motorsport forged pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from 935 racing spec. Turbo upgrade to a Garrett GTX4202R with a custom 0.82 A/R turbine housing and 60mm compressor wheel, paired with a Tial MV-R 44mm external wastegate and custom 3.5\" stainless steel downpipe.",
+    "Fuel System: Bosch Motorsport 044 high-flow fuel pump, dual 1,000cc/min Injector Dynamics ID1050x injectors, and a custom Motec M150 ECU with 935-spec sequential fuel injection and individual cylinder knock control. Upgraded to a dual-sensor wideband O2 system (AEM X-Series) for precise AFR targeting (11.8:1 under boost, 13.5:1 cruise).",
+    "Drivetrain: RSR-spec 930/50 limited-slip differential with 40% lockup under load, paired with a G50/52 6-speed manual transmission (from 964) with a Guard Industries short-shift kit and a Sachs Performance twin-disc clutch (300mm, 800Nm torque capacity). Custom half-shafts from Elephant Racing with 935-spec CV joints for 600+ HP reliability."
+  ],
+  "estetica": [
+    "Body: Full 935-inspired widebody conversion using a RWB-style Rocket Bunny V2 kit (Porsche 930-specific), with carbon fiber front splitter, rear diffuser, and custom 935-style side skirts. Slantnose retained but reinforced with a carbon fiber hood (935-style louvers) and a 964 Turbo rear spoiler (carbon fiber, adjustable angle).",
+    "Wheels: BBS RS 3-piece forged wheels (9.5x16 ET25 front, 11x16 ET15 rear) with custom gold centers, wrapped in Michelin Pilot Sport Cup 2 tires (225/50/16 front, 285/40/16 rear). Brake system upgraded to 993 Turbo S 4-piston calipers with 322mm rotors (front) and 300mm (rear), paired with Ferodo DS2500 pads and stainless steel braided lines.",
+    "Interior: Full 935-style roll cage (MOMO 4-point bolt-in) with Schroth 6-point harnesses, Recaro SRD racing seats (935-spec, carbon fiber backs), and a custom Motec C127 dash with data logging (boost, oil temp, fuel pressure). Steering wheel replaced with a Nardi 380mm suede wheel (935-style quick-release hub) and a custom aluminum shift knob (964 G50 pattern)."
+  ]
+}

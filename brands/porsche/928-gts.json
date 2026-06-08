@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "928 GTS",
+  "prestazioni": [
+    "Engine: 5.4L M28/69 V8 (350 PS stock) – Full forged internals by Mahle (pistons, 9.5:1 CR), Carrillo H-beam connecting rods, and a billet crankshaft by JE Pistons for 8,000 RPM reliability. Pair with a custom camshaft grind by Schrick (280° intake/284° exhaust, 11.8mm lift) for aggressive overlap and high-RPM power delivery.",
+    "Forced Induction: Twin-turbo setup using Garrett GTX4202R turbos (62mm compressor, 76mm turbine) with TiAL MV-R 44mm wastegates and TiAL Q 50mm blow-off valves. Custom air-to-water intercoolers by Bell Intercoolers (1,200 CFM flow) with a Davies Craig EWP150 electric water pump for consistent intake temps. Boost targets: 1.2 bar (17.4 PSI) on 98 RON fuel with a Motec M150 ECU managing sequential injection and ignition timing.",
+    "Drivetrain: Reinforced 5-speed manual transmission (G50/31) with a Guard Industries billet aluminum shift fork and a Quaife ATB helical LSD (45% lockup). Clutch: Sachs Performance twin-disc (240mm) with a lightweight flywheel (12.5 lbs) and a hydraulic slave cylinder upgrade by Tilton Engineering for precise engagement."
+  ],
+  "estetica": [
+    "Widebody Conversion: RUF-inspired fender flares (3.5\" wider front, 4.0\" wider rear) fabricated from 1.5mm 5052 aluminum, riveted and seam-sealed for OEM+ fitment. Custom front splitter and rear diffuser by 9ff (carbon fiber, 3-piece design) with integrated air curtains for brake cooling.",
+    "Aero: Custom 928 GTS-specific rear wing by TechArt (carbon fiber, 3D-scanned for optimal angle) with a Gurney flap and dual-plane design for downforce at 120+ mph. Side skirts by K-Motionz (carbon-Kevlar hybrid) with integrated LED turn signals and brake ducts for rear rotor cooling.",
+    "Wheels & Stance: BBS RS-GT II (9x18 ET25 front, 11x18 ET15 rear) with custom offsets to fill the widebody arches. Tires: Michelin Pilot Sport Cup 2 R (245/35/18 front, 295/30/18 rear). Suspension: Öhlins Road & Track coilovers (2-way adjustable dampers, 30mm drop) with custom spring rates (8kg/mm front, 10kg/mm rear) and spherical bearing top mounts by GT3 RS-spec."
+  ]
+}

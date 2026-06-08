@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "959 KOMFORT",
+  "prestazioni": [
+    "Replace the stock M29/50 (959/50) 2.85L twin-turbo flat-six with a fully built version featuring forged Mahle pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from JE Pistons, paired with a custom GTX5533R Gen II turbocharger setup (one per bank) from Garrett, flowing 650+ hp with a 2.2 bar boost limit on 100-octane fuel",
+    "Upgrade the original 959’s sequential twin-turbo system with a bespoke Motec M190 ECU (959-specific firmware) and a dual-channel AEM CD-7 dash for real-time boost mapping, integrating a custom water-methanol injection kit (Snow Performance Stage 3) with dual 550cc injectors per bank for detonation control under high load",
+    "Swap the stock 959’s 6-speed manual transaxle (G50/52) for a reinforced G64/53 unit with a Quaife ATB differential, paired with a Sachs Performance twin-disc clutch (320mm) and a custom 4.22:1 final drive ratio for optimized acceleration, while retaining the original Porsche-Steuer Kupplung (PSK) all-wheel-drive system with a 40/60 torque split bias"
+  ],
+  "estetica": [
+    "Replace the stock Komfort-spec body panels with a full carbon-fiber widebody conversion from RWB (Rauh-Welt Begriff) 959-specific kit, featuring extended fenders (30mm wider front, 40mm wider rear), a custom front splitter with integrated canards (959-specific mounting points), and a ducktail spoiler with a Gurney flap for high-speed stability",
+    "Retrofit the original 959’s pop-up headlights with a modern LED conversion from Hella (959-specific housing adapters), retaining the original motorized mechanism while upgrading to bi-LED projectors with DRLs, paired with a custom rear light cluster using Osram LED strips (OEM-style housing) for a subtle yet aggressive look",
+    "Install a full interior overhaul with a custom Recaro Pole Position (959-specific mounting) in black Alcantara with red stitching, paired with a MOMO Mod.78 steering wheel (959 bolt pattern) wrapped in perforated leather, and a custom roll cage from Matter Fab (959 chassis-specific design) with integrated harness bar for track use, while retaining the original analog gauges with a custom LED backlighting kit"
+  ]
+}

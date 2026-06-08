@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "964 TURBO 3.6",
+  "prestazioni": [
+    "Engine: M64/50 (3.6L air-cooled flat-6, single KKK K27 turbo) upgraded with a Precision Turbo PT6266 CEA turbocharger (62mm inducer, 66mm exducer, billet wheel, 44lb/min flow) paired with a custom 3.5\" V-band downpipe and GReddy Revolution RS 3.5\" cat-back exhaust system for optimized spool and reduced backpressure.",
+    "Fuel System: Bosch Motorsport 0280158105 850cc/min injectors (low impedance) with an AEM 380LPH in-tank fuel pump, Aeromotive FPR (1:1 rising rate), and a Motec M150 ECU (standalone, CAN bus enabled) for precise AFR targeting (11.8:1 under boost, 14.7:1 cruise) and launch control (3,500 RPM flat-shift).",
+    "Drivetrain: RSR-spec 964 Turbo 6-speed manual transmission (G50/52) with a Guard Industries 85% limited-slip differential, Sachs Performance twin-disc clutch (240mm, 800Nm torque capacity), and a Guard short shifter kit (25% reduction in throw) with spherical bearings for crisp engagement."
+  ],
+  "estetica": [
+    "Body: RWB (Rauh-Welt Begriff) \"Kawasaki\" widebody kit (hand-rolled fenders, 30mm extended wheel arches, custom front splitter with carbon fiber canards) finished in Porsche GT3 RS Viper Green (991.2) with matte black accents on the rear diffuser and side skirts.",
+    "Wheels: BBS RS-GT1 18x9.5\" (ET25) front and 18x11\" (ET15) rear, wrapped in Michelin Pilot Sport Cup 2 tires (235/40/18 front, 285/35/18 rear) with custom center-lock adapters (PCD 5x130) and titanium wheel bolts from BBI Autosport.",
+    "Interior: Recaro Pole Position seats (carbon fiber shells, Alcantara inserts) with Schroth Profi II 6-point harnesses, a MOMO Mod.78 steering wheel (350mm, suede, quick-release hub), and a custom roll cage (TIG-welded 4130 chromoly, 6-point, bolt-in) from Matter Fab with integrated fire suppression system (Lifeline Zero 360, 3kg agent)."
+  ]
+}

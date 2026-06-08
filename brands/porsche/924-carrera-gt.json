@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "924 CARRERA GT",
+  "prestazioni": [
+    "Engine: 2.5L inline-4 M31/71 (944-derived, 210 HP stock) with a custom-built 88mm forged crankshaft (Mahle Motorsport) and 95.5mm forged pistons (JE Pistons) for a stroked 2.7L displacement, paired with a billet steel connecting rod set (Manley Turbo Tuff) and ARP L19 head studs for 12.5:1 compression.",
+    "Forced induction: Custom-built single-turbo setup using a Garrett GTX4202R (86mm compressor wheel) with a custom 3.5-inch stainless steel exhaust manifold (Schoenleber Motorsport) and a TiAL MV-R 44mm wastegate, feeding into a custom 3.5-inch titanium exhaust system (Akrapović) with a straight-pipe design and a 100-cell catalytic converter (HJS).",
+    "Fuel and ignition: Full sequential fuel injection conversion using Bosch Motorsport EV14 1000cc injectors, controlled by a Motec M150 ECU with a custom 924 Carrera GT-specific calibration, paired with a Bosch Motorsport high-pressure fuel pump (0 580 254 044) and a custom billet fuel rail (Radium Engineering). Ignition system upgraded to a Motec CDI with NGK R8482-10 spark plugs and custom 10mm ignition leads (Magnecor)."
+  ],
+  "estetica": [
+    "Bodywork: Full carbon fiber widebody conversion using a 924 Carrera GT-specific Rocket Bunny V2 kit (modified for OEM-style pop-up headlights), including custom carbon fiber front fenders, rear quarter panels, and a ducktail spoiler with integrated third brake light. Front bumper replaced with a custom 924 Carrera GT-specific unit (924 Design) featuring integrated canards and a central splitter with adjustable dive planes.",
+    "Wheels and suspension: Custom 17x9.5 (front) and 17x11 (rear) forged aluminum wheels (BBS RS-GT) with a 5x130 bolt pattern, wrapped in Michelin Pilot Sport Cup 2 tires (245/40/17 front, 295/35/17 rear). Suspension upgraded to a full Ohlins TTX40 coilover system with 24-way adjustable dampers, custom-valved for the 924 Carrera GT's weight distribution, paired with spherical bearing control arms (924 Design) and a custom front sway bar (Eibach, 28mm adjustable).",
+    "Interior: Full carbon fiber interior overhaul using a 924 Carrera GT-specific kit (Recaro Pole Position seats with custom carbon fiber shells and Alcantara inserts), paired with a custom roll cage (Autopower, 6-point bolt-in) and a custom carbon fiber dashboard overlay (924 Design) featuring a Motec C127 digital dash and a custom billet aluminum shift knob (Short Shifter Inc.) for the Getrag 5-speed manual transmission."
+  ]
+}

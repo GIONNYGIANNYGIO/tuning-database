@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "935",
+  "prestazioni": [
+    "Engine: Type-935/71 3.2L flat-six (935/71 engine code) with forged Mahle pistons (9.5:1 compression), titanium connecting rods, and a custom Kugelfischer mechanical fuel injection system upgraded to 12-plunger configuration for 1,200+ HP on methanol fuel",
+    "Turbocharging: Twin Garrett AiResearch T04B-60-1 turbochargers (935-specific) with custom water-cooled center housings, 1.25 A/R turbine housings, and TiAL MV-R 50mm wastegates paired with a bespoke air-to-water intercooler system (Porsche 935 factory-spec)",
+    "Drivetrain: Reinforced 935/72 4-speed transaxle with a titanium input shaft, cryo-treated gears, and a Sachs twin-disc carbon clutch (935-specific), mated to a 935/73 limited-slip differential with 80% lockup under load"
+  ],
+  "estetica": [
+    "Body: Porsche 935/78 'Moby Dick' replica aero kit with carbon-fiber front splitter (935/78-spec), aluminum rear wing with adjustable Gurney flaps (3-position), and a full Kevlar-reinforced fiberglass widebody conversion (935/77 longtail design)",
+    "Interior: Full FIA-spec 935 roll cage (TIG-welded chromoly) with Sparco Pro 2000 seats (935 homologation-spec), OMP 8863 steering wheel with quick-release hub, and a Motec C125 dash with 935-specific telemetry (boost, oil temp, fuel pressure)",
+    "Wheels: BBS RS 16x16 (front) and 19x16 (rear) magnesium wheels with 275/620R16 (front) and 350/710R19 (rear) Pirelli P Zero Corsa tires (935 Le Mans-spec)"
+  ]
+}
