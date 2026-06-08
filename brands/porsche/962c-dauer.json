@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "962C DAUER",
+  "prestazioni": [
+    "Engine: Type-962/70 2.8L flat-six (935/82-derived, air-cooled heads, water-cooled block) with billet aluminum crankshaft (Porsche 962C-spec, 74.0mm stroke) and forged Mahle pistons (90.0mm bore, 9.5:1 CR) paired with titanium connecting rods (Pankl Racing Systems, 144mm center-to-center).",
+    "Forced Induction: Twin Garrett GT35R turbochargers (84mm compressor wheels, .82 A/R turbine housings) with custom 3D-printed Inconel exhaust manifolds (by G&W Motorsports) and dual 44mm wastegates (Turbonetics Deltagate 44). Intercooling via dual side-mounted air-to-water heat exchangers (PWR Racing, 12-row core) with methanol injection (AEM 340lph pump, Snow Performance Stage 3 nozzle kit).",
+    "Drivetrain: Reinforced 5-speed Type-962 transaxle (Porsche Motorsport) with carbon-fiber clutch (Tilton ST-2400, 7.25\" triple-plate) and limited-slip differential (Wavetrac Type-962, 75% lock under load). Rear half-shafts upgraded to 300M steel (by Quaife Engineering) with custom CV joints (GKN Driveline, 30-spline)."
+  ],
+  "estetica": [
+    "Bodywork: Full carbon-fiber Dauer Sport Leichtbau (DSL) widebody kit (Dauer Racing GmbH, 1994 homologation spec) with integrated front splitter (3D-milled aluminum, 4mm thickness) and rear diffuser (carbon-Kevlar hybrid, Gurit prepreg).",
+    "Aerodynamics: Custom underbody venturi tunnels (designed via CFD by Swiss Side) with active rear wing (Dauer 962C GT1-spec, carbon-fiber, 1,200mm span, adjustable via hydraulic actuators). Front canards (AeroTech Designs, 3D-printed titanium) and louvered fenders (carbon-fiber, 120mm width per side).",
+    "Interior: Full FIA-spec roll cage (TIG-welded chrome-moly, 4130 alloy, by Safety Devices Ltd.) with Recaro Pole Position seats (carbon-Kevlar shell, 6-point Schroth harnesses). Dashboard replaced with Motec C187 digital dash (12.3\" TFT, CAN-bus integration) and custom aluminum switchgear (by Sparco, anodized gold)."
+  ]
+}

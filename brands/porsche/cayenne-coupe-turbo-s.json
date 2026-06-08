@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "CAYENNE COUPE TURBO S",
+  "prestazioni": [
+    "Engine: 4.0L twin-turbocharged V8 (EA825 engine code) with a custom Manthey Racing Stage 2.5 ECU flash, increasing boost pressure to 1.6 bar (stock: 1.2 bar) and optimizing ignition timing for 680 HP and 680 lb-ft of torque, paired with a reinforced Sachs Performance dual-mass flywheel and uprated clutch assembly (P/N 958.100.115.01) to handle the additional power",
+    "Turbocharger upgrade: Hybrid BorgWarner EFR 9280 turbos (P/N 9280-500B1) with billet compressor wheels, ceramic ball bearings, and 44mm wastegates, mated to custom 4-inch titanium downpipes (Fabspeed Motorsport) and a secondary cat-delete section for reduced backpressure and quicker spool (0.5s faster than stock)",
+    "Suspension: KW Automotive Clubsport coilovers (P/N 3W931100A) with 3-way adjustable damping, 20mm lower ride height, and reinforced top mounts, paired with H&R 28mm front and 25mm rear anti-roll bars (P/N 546 722 02) and solid subframe bushings (034 Motorsport) to eliminate flex under hard cornering"
+  ],
+  "estetica": [
+    "Aero: TechArt GTstreet RS widebody kit (P/N TA-95B-001) with carbon fiber front splitter, side skirts, and rear diffuser, featuring active cooling ducts for the upgraded turbos and a 3D-printed NACA duct integrated into the hood for intercooler airflow optimization",
+    "Wheels: HRE FF16 flow-formed wheels (22x10.5 ET35 front, 22x12.5 ET45 rear) in matte bronze finish, wrapped in Michelin Pilot Sport Cup 2 R tires (285/30 R22 front, 325/25 R22 rear) with custom TPMS sensors for real-time pressure monitoring",
+    "Exterior: Full GTS-spec paint correction with a 3-stage PPF (XPEL Ultimate Plus) applied to high-impact areas, paired with a custom vinyl wrap (Avery Dennison Gloss Metallic Graphite) on the roof and mirrors, and a retrofitted 911 GT3 RS-style rear wing (TechArt P/N TA-95B-005) with adjustable carbon fiber elements for 120kg of downforce at 200 km/h"
+  ]
+}

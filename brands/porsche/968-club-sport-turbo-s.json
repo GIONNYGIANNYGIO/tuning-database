@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "968 CLUB SPORT TURBO S",
+  "prestazioni": [
+    "Engine: M44/83 3.0L inline-4 (968 CS base) with forged internals including Mahle Motorsport 96mm forged pistons (12.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from JE Pistons for 8,500 RPM reliability. Turbocharger: Garrett GTX4202R Gen II with a 62mm compressor wheel and 76mm turbine, paired with a custom 3.5-inch stainless steel downpipe and TiAL MV-R 44mm external wastegate for 1.2 bar (17.4 psi) boost targeting 550whp on 98 RON fuel.",
+    "Fuel System: Full sequential Bosch Motorsport 0261500040 8-hole injectors (1,200cc/min) with a Radium Engineering dual-pump surge tank (2x Walbro 450 LPH pumps) and a custom fuel rail from IPD Plc. ECU: Motec M150 standalone with a Porsche 968-specific CAN bus integration for factory dash communication, running a custom 20x20 ignition and fuel map with knock control via Kistler 6052C piezoelectric sensors.",
+    "Drivetrain: G50/10 6-speed manual transmission with a Guard Industries 8-bolt differential (25% LSD) and a Sachs Performance twin-disc clutch (400Nm torque capacity). Rear half-shafts upgraded to 993 Turbo-spec CV joints with custom heat-treated axles from Guard. Cooling: Setrab 50-row oil cooler with a Davies Craig EWP150 electric water pump and a custom aluminum radiator from CSF Racing (part #8023)."
+  ],
+  "estetica": [
+    "Body: Rocket Bunny V1 widebody kit (968-specific) with carbon fiber front fenders, rear quarter panels, and a ducktail spoiler, all finished in Porsche GT3 RS Lava Orange (9Y7). Front splitter: Custom 3D-printed ABS unit with integrated canards (968 Motorsports design) and a carbon fiber diffuser from 9ff (part #9FF-968-DIFF).",
+    "Wheels: BBS LM-R 18x9.5 ET25 (front) and 18x11 ET15 (rear) with custom center locks (Porsche 917-style), wrapped in Michelin Pilot Sport Cup 2 R tires (245/35/18 front, 295/30/18 rear). Brake System: AP Racing 6-piston CP8650 calipers (front) and 4-piston CP8651 (rear) with 380mm two-piece rotors (PFC 08.11) and Ferodo DS2500 pads.",
+    "Interior: Full carbon fiber Recaro Pole Position seats (968-specific shell) with Schroth Profi II 6-point harnesses. Steering wheel: Momo Prototipo 350mm suede with a quick-release hub (NRG #50012). Roll cage: Custom 8-point chromoly cage by Matter Fab (SFI 25.1 certified) with integrated fire suppression system (Lifeline Zero 360). Gauges: Stack ST8100 digital dash with oil pressure, fuel pressure, and wideband AFR (AEM X-Series) readouts."
+  ]
+}

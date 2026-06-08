@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "CAYMAN R",
+  "prestazioni": [
+    "MAFless ECU remap via Cobb Accessport v3 with custom 98 RON fuel tables for the 9A1/MA1.2 3.4L flat-six (330 PS stock), targeting 385 PS at 7,400 RPM and 420 Nm at 5,500 RPM via aggressive ignition timing advance (12° BTDC) and optimized camshaft overlap (240° intake, 230° exhaust) using Schrick 272° camshafts with 11.5mm lift",
+    "Full titanium 3.5-inch exhaust system by Akrapović Evolution Line with 200-cell metallic catalytic converters, 70mm carbon-fiber tips, and a valved X-pipe bypass for sub-3,000 RPM scavenging, reducing backpressure by 42% and saving 12.7 kg over stock",
+    "KW Suspension Clubsport 3-way coilovers with 8-position rebound damping, 12-click compression adjustment, and spherical top mounts, paired with Tarett Engineering 25mm front / 20mm rear anti-roll bars and spherical bearing end links for sub-2.0° body roll at 1.0g lateral acceleration"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit in 2x2 twill carbon fiber with integrated front canards, rear diffuser, and a 1,100mm rear wing (adjustable from 0° to 18° AoA), increasing downforce by 180 kg at 200 km/h while maintaining the stock 0.29 Cd",
+    "BBS FI-R 9Jx19 ET45 (front) / 11Jx19 ET50 (rear) forged wheels in gold-bronze finish, shod with Michelin Pilot Sport Cup 2 R tires (235/35 ZR19 front, 295/30 ZR19 rear) with custom sidewall markings for Porsche Motorsport homologation",
+    "Full Alcantara interior retrim by Recaro Sportster CS seats (carbon-fiber shells, 6-point Schroth harnesses), Alcantara-wrapped MOMO Prototipo steering wheel (380mm diameter, 12mm suede thickness), and a custom roll cage by Matter Fab in 4130 chromoly with integrated fire suppression system (Lifeline Zero 360)"
+  ]
+}

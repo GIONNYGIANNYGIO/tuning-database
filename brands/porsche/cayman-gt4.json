@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "CAYMAN GT4",
+  "prestazioni": [
+    "MAFless ECU remap by COBB Tuning Stage 2+ for the 981.2 GT4's 3.8L MA1.76 (9A2) naturally aspirated flat-six, targeting 450+ HP via aggressive ignition timing (12-14° BTDC) and 102-octane fuel mapping, paired with a custom COBB Accessport firmware (AP-Porsche-005) to retain OEM knock control and cylinder deactivation",
+    "Full titanium 4-2-1 equal-length exhaust system by Akrapović (P/N 3800-1700) with 70mm carbon-fiber tips, replacing the OEM rear muffler and resonators, reducing weight by 12.3kg while optimizing scavenging for the MA1.76's 7,400 RPM redline via 304 stainless steel headers (1.75\" primaries, 2.5\" collectors)",
+    "Ohlins TTX40 MkII coilovers (P/N TTX40-1000-01) with 12-position rebound and 22-position compression damping, paired with Eibach ERS 1000N/mm front and 1200N/mm rear springs, lowering ride height by 30mm (front) and 25mm (rear) to match the GT4's 50:50 weight distribution, including spherical bearing top mounts (P/N 10-1000-01) for precise camber adjustment (-3.5° front, -2.8° rear)"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (P/N RB-POR-981-GT4) with carbon-fiber fenders (2.5\" wider front, 3.0\" wider rear), custom front splitter with 3D-printed air curtains, and a ducktail spoiler extension (20mm taller than OEM) for increased rear downforce (120kg @ 200km/h), finished in 991 GT3 RS-style 'Lava Orange' with matte clear coat",
+    "BBS FI-R 9Jx19 (front) and 11Jx20 (rear) forged wheels (P/N FI9192033 and FI112033) in gold/polished finish, wrapped in Michelin Pilot Sport Cup 2 R tires (245/35 ZR19 front, 305/30 ZR20 rear), shod with titanium wheel bolts (P/N 991.341.091.00) and custom center caps featuring the GT4's '9A2' engine code in laser-etched aluminum",
+    "Full carbon-fiber interior overhaul by 991Racing, including a GT3-spec Alcantara-wrapped steering wheel (P/N 991.612.109.00) with integrated MOMO quick-release hub, Recaro Pole Position bucket seats (P/N 718.044.201.00) in black Alcantara with 'GT4' embroidery, and a custom roll cage (P/N 991.044.001.00) by Matter Fab with integrated fire suppression system (P/N FS-1000)"
+  ]
+}

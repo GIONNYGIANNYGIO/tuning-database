@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "CAYENNE S DIESEL",
+  "prestazioni": [
+    "Engine: 3.0L V6 Turbo Diesel (engine code: *CJT*), upgraded with a *Garrett GTX3582R* turbocharger (hybrid billet wheel, 62mm compressor, 76mm turbine) paired with a *TurboSmart 45mm wastegate* for precise boost control at 2.2 bar peak pressure, replacing the stock *KKK K26* turbo.",
+    "Fuel System: *Bosch CP4.2* high-pressure fuel pump upgrade (2200 bar max pressure) with *Siemens 2000cc/min piezo injectors* (OEM+ for CJT) and a *Dimsport Race 2000* standalone ECU with custom diesel mapping for 450hp and 900Nm torque, retaining emissions compliance via *AdBlue delete with SCR simulator*.",
+    "Exhaust: *Akrapovič Titanium Evolution* cat-back system (70mm diameter, dual-mode valves) with *RaceChip DPF/EGR delete kit* (CJT-specific) and *Milltek Sport* 200-cell sports cats for backpressure optimization, reducing turbo lag by 18%."
+  ],
+  "estetica": [
+    "Body Kit: *TECHART GTstreet RS* widebody conversion (carbon fiber fenders, front splitter, and rear diffuser) with *Vorsteiner V-FF 107* 22-inch forged wheels (9.5J ET35 front, 11J ET40 rear) wrapped in *Michelin Pilot Sport Cup 2 R* (285/30 R22 front, 325/25 R22 rear).",
+    "Aerodynamics: *9ff GTronic* active rear spoiler (Cayenne S Diesel-specific, 3-stage adjustable) and *Rieger Tuning* front lip with integrated *Air Design* side skirts, reducing drag coefficient to 0.32 Cd while increasing downforce by 40% at 200 km/h.",
+    "Interior: *Recaro Sportster CS* bucket seats (991 GT3-spec, Alcantara/leather) with *Schroth Profi II 6-point harnesses*, *MOMO Mod.70* flat-bottom steering wheel (carbon fiber, Porsche PDK paddle shifters), and *Alcantara headliner* with *LED ambient lighting* (RGB, 16.8 million colors, synchronized with *Porsche PCM* via *iDrive retrofitting*)."
+  ]
+}

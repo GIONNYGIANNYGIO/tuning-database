@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "991 GT3 CUP",
+  "prestazioni": [
+    "Engine: 4.0L flat-six (MA1.71/MA1.72) with a forged crankshaft (Porsche Motorsport 9A1.71 internals) and titanium connecting rods (Porsche Cup-spec), paired with a custom Motec M150 ECU remap targeting 520+ hp (up from 485 hp stock) via optimized ignition timing and fuel maps for 102-octane race fuel (VP Racing C16).",
+    "Forced induction: Single Garrett GTX3582R turbocharger (Porsche Motorsport-approved) with a custom 3.5-inch titanium downpipe (Akrapović Cup-spec) and a 45mm wastegate (Tial MV-R), running 1.5 bar of boost with a custom intercooler (PWR Racing) and dual Bosch 044 fuel pumps (1,200cc injectors, ID1000).",
+    "Suspension: Öhlins TTX46 MkII 4-way adjustable dampers (Porsche Cup-spec) with custom valving for 1,200 kg/m front and 1,500 kg/m rear spring rates, paired with a 30mm front sway bar (Porsche Motorsport) and spherical bearing control arms (Tarett Engineering). Brakes: AP Racing CP8650 calipers with 400mm CCM-R rotors (Pagid RS29 pads) and a custom brake bias adjuster (Tilton)."
+  ],
+  "estetica": [
+    "Aerodynamics: Full Porsche 991.2 GT3 Cup (991.200) body kit with a 200mm rear diffuser (Porsche Motorsport), carbon fiber front splitter (991 Cup-spec, 50mm extension), and a 1,200mm rear wing (Porsche Cup GT3-style, 30mm Gurney flap).",
+    "Exterior: Full carbon fiber body panels (Weissach-spec, 1.2mm thickness) including doors, hood, and fenders (Porsche Motorsport part #991.200.001/002), with a custom matte vinyl wrap (3M 1080 Gloss Black) and Cup-spec side skirts (Porsche part #991.200.041).",
+    "Interior: Full FIA-spec roll cage (Porsche Motorsport 991 Cup cage, part #991.200.050) with Schroth 6-point harnesses (Schroth Profi II-6), a carbon fiber dashboard (Porsche Cup-spec, part #991.200.060), and a custom Alcantara-wrapped steering wheel (Sparco Grid-Q Cup, 330mm diameter)."
+  ]
+}

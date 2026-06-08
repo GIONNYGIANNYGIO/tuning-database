@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "CAYMAN GT4 RS CLUBSPORT",
+  "prestazioni": [
+    "Engine: 4.0L NA flat-six (9A2 Evo, 982C chassis-specific), upgraded with a **Pankl Racing Systems** titanium connecting rod set (900g lighter than stock) and **Mahle Motorsport** forged pistons (13.3:1 compression ratio) for 550+ HP on VP Racing C16 102-octane fuel with a **Motec M150 ECU** standalone calibration (replacing the stock Bosch MED17.1.1) for 9,000 RPM redline and optimized throttle response via **AP Racing** 6-piston monoblock calipers (380mm CCM-R discs) with **Ferodo DS3.12** pads for endurance fade resistance.",
+    "Drivetrain: **Porsche Motorsport** 7-speed PDK (9A2-specific) with **Rennsport** short-shift kit (30% faster shifts) and **Wavetrac** limited-slip differential (torque-biasing helical gears) paired with a **Tilton** triple-plate carbon clutch (800 Nm capacity) for track durability; **Brembo GT** 2-piece rotors (390mm front, 355mm rear) with **Pagid RS29** pads for 1.2g deceleration under 100°C temps.",
+    "Aerodynamics: **Manthey Racing** GT4 RS-specific front splitter (30mm extension) with **991 GT3 RS** rear diffuser (carbon fiber, 3-stage Gurney flaps) and **Aimoli** 1,850mm-wide rear wing (adjustable -10° to +15° AoA) generating 450kg downforce at 200 km/h; **Akrapović** titanium exhaust (4-2-1 headers, 70mm tips) with **REMUS** valvetronic bypass for 12dB backpressure reduction and +18 HP at 8,500 RPM."
+  ],
+  "estetica": [
+    "Body: **RWB Kyoto** widebody kit (982C-specific, 50mm front/70mm rear fender flares) with **VMR V710** 19x11 ET25 (front) and 19x12.5 ET30 (rear) forged wheels (9J/12J offsets) wrapped in **Michelin Pilot Sport Cup 2 R** tires (275/30/19 front, 325/30/19 rear); **PPG** Porsche GT3 RS Lime Gold paint (custom mixed, 3-stage matte clearcoat) with **3M 1080** satin black vinyl accents on the hood, mirrors, and rear quarter panels.",
+    "Interior: **Sparco Pro 2000** carbon fiber racing seats (FIA 8862-2009 certified) with **Schroth** 6-point harnesses (ASM2 configuration) and **MOMO** suede steering wheel (380mm, Alcantara with red stitching); **Motec C127** dash logger (replacing stock instrument cluster) with **Aim Solo 2 DL** GPS lap timer and **Recaro** carbon fiber door cards (weight reduction: 1.2kg per side).",
+    "Lighting: **Lux H8** LED headlights (5,500K, CRI 90+) with **Morimoto** HID projectors (35W ballasts) and **Diode Dynamics** sequential turn signals (RGB amber, 120-LED strips); **Oracle Lighting** carbon fiber rear diffuser with integrated **Lumileds Luxeon Z ES** brake light (2,000-lumen output, 1ms response time) and **GTR Lighting** fog light delete (replaced with **AEM** water/methanol injection nozzles for intercooler spray)."
+  ]
+}

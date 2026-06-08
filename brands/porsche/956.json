@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "956",
+  "prestazioni": [
+    "Engine: Type-935/76 2.65L flat-6 (M80/81) with Mahle forged pistons (9.3:1 compression), titanium connecting rods, and a custom-built Kugelfischer mechanical fuel injection system upgraded to Bosch Motorsport injectors (0 280 150 201) for Group C endurance racing fuel flow demands",
+    "Turbocharging: Twin KKK K27 turbochargers (K27-2700) with 3D-printed Inconel 625 turbine housings (custom by TurboSmart) and Garrett GTX4202R billet compressor wheels, paired with a bespoke air-to-water intercooler (PWR Racing) and dual 45mm wastegates (Tial MV-R)",
+    "Drivetrain: Reinforced 5-speed Type-956/962 transaxle with a Quaife ATB differential (QDF7Z), upgraded with cryogenically treated gears (by Hewland Engineering) and a Sachs Performance twin-disc carbon clutch (PCC 200mm) for 1,200+ Nm torque handling"
+  ],
+  "estetica": [
+    "Aerodynamics: Full Group C-spec carbon fiber bodywork by Kremer Racing (K3/88 kit), including a 956-specific front splitter with integrated dive planes, a rear diffuser with Gurney flaps (adjustable via quick-release pins), and a Le Mans-spec rear wing (2.2m width) with carbon fiber endplates",
+    "Wheels: BBS E50 magnesium wheels (16x11 front, 16x14.5 rear) with center-lock hubs (Porsche Motorsport 956-spec) and Michelin Pilot Sport Cup 2 tires (275/645-R16 front, 325/705-R16 rear) for optimal downforce-to-drag ratio",
+    "Interior: Full FIA-spec roll cage (by Matter Motorsport) with integrated fire suppression system (Lifeline Zero 360), Recaro Pole Position seats (carbon fiber shell, FIA 8862-2009 certified), and a MOMO Prototipo steering wheel (quick-release, 320mm diameter) with a custom 956-specific digital dash (Motec C127)"
+  ]
+}

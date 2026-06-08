@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "996 GT3 CUP",
+  "prestazioni": [
+    "Engine: M96/76S (3.6L flat-six, 96mm bore, 80.5mm stroke) with a custom GT3 Cup-spec dry-sump system featuring a Hürth Motorsport billet aluminum oil pump and a 12-liter ATL fuel cell with a Bosch Motorsport high-flow fuel pump (0 580 254 956) for sustained 8,500 RPM operation.",
+    "Forced Induction: Single-turbo conversion using a Garrett GTX4202R (82mm compressor, 0.82 A/R turbine housing) with a custom 3.5-inch titanium downpipe by Akrapovič, paired with a Motec M150 ECU for boost-by-gear mapping (1.2 bar in 1st-3rd, 1.5 bar in 4th-6th) and a GReddy Profec B Spec II boost controller.",
+    "Suspension: Öhlins TTX40 4-way adjustable coilovers with GT3 Cup-spec spherical bearing top mounts (Porsche part #996.344.031.00), Eibach ERS 1000N/mm helper springs, and a custom front sway bar (28mm solid, adjustable in 3 positions) by Tarox for reduced understeer in high-speed corners."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon fiber GT3 Cup-style widebody kit by 9ff (front fenders, rear quarter panels, and rear bumper) with integrated 3D-printed NACA ducts for brake cooling, paired with a 997 GT3 RS rear wing (carbon fiber, 1,800mm width) on adjustable carbon fiber mounts (Porsche Motorsport part #997.044.803.00).",
+    "Wheels: BBS FI-R 18x10.5 ET45 front and 18x12 ET55 rear (996 GT3 Cup spec) with titanium wheel bolts (H&R 54650001) and Michelin Pilot Sport Cup 2 tires (275/645-R18 front, 325/705-R18 rear) mounted on custom 3-piece forged centers.",
+    "Interior: Full FIA-spec cage by Matter Motorsport (8-point, TIG-welded, 45mm diameter chromoly) with a Sparco Pro 2000 seat (carbon fiber shell, FIA 8862-2009 certified) and a Schroth 6-point harness (ASM2, 3-inch lap belts), paired with a Motec C127 dash logger and a custom carbon fiber center console housing a Bosch Motorsport PDM (Power Distribution Module)."
+  ]
+}

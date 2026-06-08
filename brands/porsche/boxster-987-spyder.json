@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "BOXSTER 987 SPYDER",
+  "prestazioni": [
+    "MAFless ECU remap via Cobb Accessport v3 with custom Stage 2+ tune for the 3.4L MA1.76 (987.2) engine, targeting 380whp and 310wtq on 93 octane with a 20% ethanol blend, utilizing a custom ethanol content sensor (Continental 5WK96685) for real-time fuel compensation and knock threshold adjustment",
+    "Full titanium 3.5\" turbo-back exhaust system by Fabspeed Motorsport with 200-cell catalytic converters, 3.5\" center section, and dual 4.5\" quad-tip outlets (Spyder-specific fitment), paired with a custom X-pipe resonator delete for optimized scavenging and a 3dB increase in mid-range torque",
+    "Garrett GT3076R turbocharger (0.82 A/R turbine housing, 56 trim compressor wheel) with a custom 3\" stainless steel downpipe, TiAL MV-R 44mm wastegate, and a PTP silicone charge pipe kit (3.5\" diameter) feeding a custom air-to-water intercooler (PWR Australia) with a 1.5L reservoir and Bosch 044 fuel pump for IC water circulation"
+  ],
+  "estetica": [
+    "RWB (Rauh-Welt Begriff) Porsche 987 Spyder-specific widebody kit (front fenders, rear quarter panels, and rear bumper) with custom carbon fiber overfenders (100mm wider front, 120mm wider rear) and extended rocker panels, finished in matte Porsche GT3 RS Lava Orange (2019) with gloss black accents",
+    "OEM Porsche 918 Spyder front bumper lip (981.501.001.00) with a custom 3D-printed ABS splitter extension (50mm longer than stock) and a carbon fiber diffuser from 9ff (Spyder-specific fitment) with integrated LED reverse lights and a titanium exhaust cutout for the Fabspeed system",
+    "Custom carbon fiber hardtop delete with a Spyder-specific roll bar (Rallye Design) wrapped in Alcantara (Rosso Corsa) and integrated with a bespoke carbon fiber tonneau cover (1.5mm thick, vacuum-infused) featuring a hidden magnetic latch system and a rear-mounted LED brake light (Philips X-tremeUltinon 12985BWX2)"
+  ]
+}

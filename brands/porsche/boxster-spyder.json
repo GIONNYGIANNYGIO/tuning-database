@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "BOXSTER SPYDER",
+  "prestazioni": [
+    "MAHLE Motorsport forged pistons (9.5:1 CR) for the 3.8L MA1.22 (987.2) engine, paired with Carrillo H-beam connecting rods and ARP Custom Age 625+ head studs to handle 500+ WHP on E85",
+    "Garrett GTX3582R turbocharger with a custom 0.82 A/R titanium-aluminide turbine housing, Precision Turbo wastegate (46mm), and a Tial MV-R 50mm external wastegate for 28psi peak boost on the stock internals (with upgraded oil pump and dry-sump system)",
+    "Motec M150 ECU with a Porsche 987.2-specific CAN bus integration, running a custom 4D ignition map and sequential fueling with ID1050x injectors, paired with a Radium Engineering dual-catch can setup and a CSF Racing 987-specific intercooler"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (987 Spyder-specific) with carbon fiber overfenders, front splitter, and ducktail spoiler, finished in Porsche GT3 RS Lava Orange with matte black accents",
+    "OMP Carbon Kevlar racing seats with Schroth Profi II 6-point harnesses, mounted on custom Bride Ergo II seat sliders for optimal pedal reach in the Spyder's low-slung chassis",
+    "HRE P101M 20x9.5 ET40 (front) and 20x12 ET50 (rear) wheels with Michelin Pilot Sport Cup 2 R tires (245/30/20 and 305/30/20), paired with KW Clubsport 3-way coilovers and Porsche 997 GT3 RS-spec front sway bar"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "CAYENNE TRANSSYBERIA",
+  "prestazioni": [
+    "Engine: 4.8L V8 (M48.01) with a custom forced-induction setup utilizing a Garrett GTX5533R Gen II turbocharger, paired with a Tial MV-R 44mm external wastegate and a custom 4-inch titanium downpipe by Armytrix for optimized exhaust flow and reduced backpressure.",
+    "Fuel System: Upgraded to a full Motec M150 ECU with dual Bosch Motorsport 0280158862 high-flow fuel pumps, ID1700x injectors, and a Radium Engineering dual-catch can setup to handle the increased fuel demand and prevent oil vapor ingestion under extreme boost (targeting 28-30 psi on 100 octane).",
+    "Suspension & Drivetrain: Full Öhlins TTX46 coilovers with 3-way adjustable damping, custom valving for the Transsyberia’s 30mm extended wheelbase, and a Quaife ATB differential with a 40% lockup bias for aggressive off-road torque distribution. Reinforced front and rear subframes with T45 steel gussets by 9ff Racing for chassis rigidity under extreme articulation."
+  ],
+  "estetica": [
+    "Body: Custom widebody conversion using a Rieger Tuning Transsyberia-specific kit, featuring 3-piece carbon fiber fender flares with integrated LED light pods (Hella Rallye 3000s) and a vented hood with a central NACA duct for turbocharger cooling. Rear overfenders extend 50mm per side to accommodate 285/65R18 BFGoodrich KM3 tires on 18x10.5 ET15 Method MR701 wheels.",
+    "Aerodynamics: Full carbon fiber underbody diffuser by Vorsteiner, paired with a custom front splitter and canards by RWB (Rauh-Welt Begriff) adapted for the Transsyberia’s rally-spec bumper. Rear wing is a 991 GT3 RS-style ducktail spoiler in dry carbon, adjustable for downforce tuning (up to 120kg at 120mph).",
+    "Lighting & Details: Full LED conversion with Osram Rallye 2000 driving lights (H3 bulbs) mounted in a custom aluminum brush guard by BILSTEIN B8. Rear lights replaced with smoked LED taillights by LUX Automotive, and a custom rally-style roof scoop (carbon fiber) for intercooler cooling, fed by a 4-inch silicone intake pipe from TurboSmart."
+  ]
+}

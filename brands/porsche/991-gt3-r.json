@@ -1,0 +1,15 @@
+{
+  "brand": "PORSCHE",
+  "model": "991 GT3 R",
+  "prestazioni": [
+    "Engine: 4.0L flat-six (MA1.71/MDG.G) with a bespoke Manthey Racing MRX-016 dry-sump system, increasing oil capacity to 14L and optimizing windage tray design for sustained 9,000 RPM operation under lateral G-forces exceeding 2.5G",
+    "Forced induction: Single Garrett GTX5533R Gen II turbocharger with a 76mm billet compressor wheel and 106mm turbine, paired with a custom 4.5\" titanium downpipe and Akrapovič 4-2-1 merge collector exhaust system, targeting 750whp on 102 RON fuel with a 2.2 bar boost ceiling",
+    "Suspension: Öhlins TTX46 MkII 4-way adjustable dampers with 30mm front and 25mm rear adjustable anti-roll bars, custom Manthey Racing spherical bearing top mounts, and a 30mm front ride height reduction via KW Variant 10 coilover conversion with 12-position rebound damping",
+    "Drivetrain: Xtrac P1297 6-speed sequential gearbox with a 2.45:1 final drive ratio, uprated AP Racing CP8450 carbon-carbon clutch, and a Drexler Motorsport 2-way limited-slip differential with 45% preload and 70% power-on lockup for optimal torque vectoring"
+  ],
+  "estetica": [
+    "Aerodynamics: Manthey Racing MRX-017 GT3-spec front splitter with integrated dive planes, a 991.2 GT3 RS-derived rear diffuser with Gurney flap, and a custom 1,800mm wide carbon fiber rear wing with adjustable angle of attack (0-12 degrees) and 3D-printed titanium endplates for reduced drag",
+    "Body: Full carbon fiber widebody conversion using a RWB-inspired Porsche 991 GT3 R-specific Rocket Bunny V3 kit, featuring 50mm front and 70mm rear fender flares, carbon fiber side skirts with integrated NACA ducts for brake cooling, and a removable carbon fiber hood with a central ram-air intake",
+    "Wheels: HRE FF16 18x12.5\" (front) and 18x13\" (rear) forged magnesium wheels with a 5x130 bolt pattern, shod in Michelin Pilot Sport Cup 2 R tires (305/650R18 front, 325/705R18 rear) and secured with titanium BBS center-locking nuts"
+  ]
+}

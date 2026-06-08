@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "BOXSTER SPYDER RS",
+  "prestazioni": [
+    "Engine: 4.0L NA 9A2 Evo (982.2) with a custom Akrapovič Evolution Line Titanium exhaust system featuring 4-2-1 headers, 70mm diameter piping, and electronically controlled butterfly valves for optimized backpressure and sound tuning at high RPM (8,000+ redline).",
+    "Forced induction: Rotrex C38-91 supercharger kit (10.5 psi max boost) with a custom intercooler setup by APR Performance, utilizing a 12-row core and dual 120mm SPAL fans for consistent intake temps under track conditions. Matched with a Cobb Accessport (9A2-specific calibration) for fueling adjustments and knock control.",
+    "Suspension: Öhlins TTX46 MkII coilovers with 24-way adjustable compression/rebound damping, custom valving for the Spyder RS’s 50:50 weight distribution, and spherical bearing top mounts from GT3 Cup cars. Paired with Tarett Engineering spherical bearing control arms and adjustable toe links for sub-2mm alignment tolerance."
+  ],
+  "estetica": [
+    "Aero: 982-specific TechArt GTstreet RS widebody kit with carbon fiber front splitter, rear diffuser, and side skirts, designed to generate 80kg of downforce at 200 km/h (verified in TechArt’s wind tunnel). Includes a fixed carbon fiber rear wing with Gurney flap (adjustable angle via quick-release mounts).",
+    "Wheels: HRE FF16 flow-formed wheels in 9.5x19 ET45 (front) and 12.5x20 ET50 (rear), finished in Satin Black with titanium hardware. Tire setup: Michelin Pilot Sport Cup 2 R (245/35/19 front, 305/30/20 rear) with nitrogen inflation for pressure stability.",
+    "Interior: Full carbon fiber weave Recaro Pole Position seats (982-specific shell) with Schroth 6-point harnesses and a custom roll cage by Matter Fab (TIG-welded 4130 chromoly, integrated with the Spyder RS’s factory roll hoops). Steering wheel: MOMO Prototipo Carbon with integrated AIM MXS Strada dash display."
+  ]
+}

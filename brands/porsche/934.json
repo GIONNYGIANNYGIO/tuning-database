@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "934",
+  "prestazioni": [
+    "Engine: Type 930/71 (3.0L flat-six, 911 Turbo-derived) with forged Mahle pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a Kugelfischer mechanical fuel injection system upgraded with a custom Bosch 044 fuel pump and larger injectors (Bosch 0 280 150 202) for sustained 600+ HP under Group 4 racing conditions",
+    "Turbocharging: Single KKK K36 turbocharger (934-specific) with a custom 46mm wastegate (Tial MV-R) and an air-to-water intercooler (Spearco 6000 series) mounted in the front spoiler duct, paired with a custom 3.5-inch stainless steel exhaust system (Fabspeed Motorsport) terminating in dual 120mm outlets with a straight-pipe design for minimal backpressure",
+    "Drivetrain: Reinforced Type 930/34 4-speed dogleg gearbox with a limited-slip differential (ZF 80% lock) and a Sachs twin-disc clutch (240mm, sintered metallic pads), mated to a 934-specific half-shaft upgrade (GKN Lobro CV joints with reinforced boots) and a lightweight flywheel (Sachs Racing, 8.5kg)"
+  ],
+  "estetica": [
+    "Body: Full Group 4-spec fiberglass widebody kit (Rennsport Replicas) with riveted fender flares (front: 120mm wider, rear: 150mm wider), a custom front splitter (carbon fiber, 934.5-style) with integrated brake ducts, and a rear wing (Porsche 935-style, adjustable angle, 1.2m width) with a carbon fiber undertray for diffuser effect",
+    "Wheels: BBS RS 15x11 (front) and 15x14 (rear) magnesium wheels with center-lock hubs (Porsche 917-style), wrapped in Pirelli P7 Corsa tires (275/600-15 front, 345/620-15 rear) mounted on custom 5x130 adapters for offset correction",
+    "Interior: Full FIA-spec roll cage (MOMO 8-point, TIG-welded chromoly) with a Sparco Pro 2000 seat (HANS-compatible), a custom aluminum dashboard (934.5-style) with Stack analog gauges (boost: 0-3 bar, oil temp: 0-150°C, fuel pressure: 0-10 bar), and a fire suppression system (Lifeline Zero 360, plumbed to engine bay and cockpit)"
+  ]
+}

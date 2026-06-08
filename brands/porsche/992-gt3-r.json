@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "992 GT3 R",
+  "prestazioni": [
+    "Engine: 4.0L flat-six (9A2 Evo) with a bespoke Manthey Racing Stage 2.5 ECU calibration, optimizing the factory 565 PS (415 kW) to 620 PS (456 kW) via revised ignition timing, fuel pressure mapping (up to 12.5 bar), and a custom throttle response curve for endurance racing conditions, while retaining the stock 9,000 RPM redline and dry-sump lubrication system.",
+    "Forced Induction: Hybrid turbocharger upgrade utilizing a Garrett GTX3582R Gen II with a billet compressor wheel (60mm inducer, 82mm exducer) and a titanium-aluminide turbine wheel, paired with a custom 3.5-inch stainless steel downpipe (Tial Sport) and a secondary wastegate (GReddy Profec B Spec II) to manage boost at 1.4 bar (20.3 psi) for consistent power delivery across the rev range.",
+    "Suspension & Chassis: Full Ohlins TTX46 MkII 4-way adjustable coilovers with 24-click rebound and 22-click compression damping, paired with a Manthey Racing front strut brace (aluminum-magnesium alloy) and a custom rear subframe reinforcement plate (T45 steel, 3mm thickness) to eliminate flex under high-G cornering. Ride height adjusted to 65mm front / 70mm rear with a 1.5-degree negative camber gain for optimal tire contact patch (Michelin Pilot Sport Cup 2 R, 31/71-18 front, 31/71-19 rear)."
+  ],
+  "estetica": [
+    "Aerodynamics: Full RWB (Rauh-Welt Begriff) 992 GT3 R widebody kit (carbon fiber, 50mm extended fenders) with a custom 3D-printed front splitter (Porsche Motorsport GT3 R-spec, 30% increased downforce at 200 km/h) and a fixed rear wing (911 RSR-inspired, 1,800mm span, 300mm chord, adjustable angle of attack via Titanium bolts).",
+    "Exterior Trim: Full carbon fiber weave (2x2 twill, 3K finish) applied to the roof, hood, and rear diffuser (APR Performance GT-250), with a custom matte Porsche Racing Green (Porsche code 299) vinyl wrap (3M 2080 series, 150 micron) and exposed carbon fiber weave on the mirrors (Porsche GT3 Cup-spec, heated).",
+    "Lighting & Details: Full LED conversion with Osram Night Breaker Laser bulbs (H8/H11/H16, 4200K color temperature) and a custom rear light delete (carbon fiber panel with integrated LED brake light strip, Hella 55W). Front tow hooks (Porsche Motorsport, anodized gold) and a custom titanium exhaust tip (Akrapović, 110mm diameter, dual-wall construction) for weight reduction and heat dissipation."
+  ]
+}

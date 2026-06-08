@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "CAYMAN GT4 EPERFORMANCE",
+  "prestazioni": [
+    "Replace the stock electric drive unit (engine code: **9A1 e-Performance**) with a **Porsche Motorsport-developed 800V high-density stator rewinding**, increasing peak power from 800 kW (1,073 hp) to **1,100 kW (1,475 hp)** while maintaining the 30-minute race-mode output of 450 kW (603 hp). This includes a **Mahle Motorsport carbon-fiber rotor sleeve** to handle the increased torque (1,300 Nm) and **AP Racing CP9436-4000 6-piston monoblock calipers** with **Pagid RSX1 racing pads** for sustained braking under extreme loads.",
+    "Install a **Marelli Motorsport 800V SiC (Silicon Carbide) inverter upgrade** with **custom liquid-cooling plates** to reduce switching losses by 30%, paired with a **Bosch Motorsport VCU (Vehicle Control Unit) recalibration** to optimize torque vectoring for the **Porsche Torque Vectoring Plus (PTV+) rear axle** with **Quaife ATB helical LSD** for improved track exit acceleration.",
+    "Integrate a **Williams Advanced Engineering 600kW ultra-fast charging system** with **custom 900V busbars** and **TE Connectivity HVIL (High-Voltage Interlock Loop) safety relays**, reducing 5-80% charge time to **3.5 minutes** on a **350kW+ DC fast charger**, while adding a **Mobil 1 ESP X3 0W-40** dielectric coolant for the battery thermal management system to prevent degradation during high-power discharge cycles."
+  ],
+  "estetica": [
+    "Apply a **Rocket Bunny V3 GT4-widebody kit** with **custom carbon-fiber front splitter** and **adjustable rear diffuser**, designed specifically for the GT4 ePerformance’s **992-generation chassis** to improve downforce by 40% at 200 km/h, paired with **Vorsteiner V-FF 107 20-inch forged wheels** in **Gunmetal finish** and **Pirelli P Zero Trofeo R (265/35 R20 front, 305/30 R20 rear)** for track-focused grip.",
+    "Install a **Porsche Motorsport GT3-style carbon-fiber roof** with **integrated solar-reflective coating** to reduce cabin heat soak, combined with **Recaro SPG XL Carbon Kevlar bucket seats** (FIA 8862-2009 certified) and **Schroth 6-point harnesses**, while adding **LED door sill plates with ePerformance-specific RGB lighting** (customizable via **Porsche PCM 4.0**).",
+    "Fit a **Novitec Torado-style carbon-fiber rear wing** with **adjustable Gurney flaps** and **active aerodynamics via Bosch MM5.10 ECU integration**, synchronized with the **Porsche Active Suspension Management (PASM) system**, alongside **custom matte Graphite Blue wrap** with **3M 2080 Series gloss black accents** and **Brembo GT brake caliper decals in electric lime green**."
+  ]
+}

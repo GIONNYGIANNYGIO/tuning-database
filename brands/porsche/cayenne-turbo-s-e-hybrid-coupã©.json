@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "CAYENNE TURBO S E-HYBRID COUPÉ",
+  "prestazioni": [
+    "Upgrade the 4.0L twin-turbo V8 (engine code: *MA1.78*) with a *Garrett GTX5533R* turbocharger kit (hybrid ceramic ball-bearing core, 67mm compressor wheel, 88mm turbine wheel) paired with a *Tial MV-R 60mm* wastegate to handle 2.2 bar of boost while maintaining OEM-like spool characteristics. Retain the stock *EA888-derived* electric motor (136hp) but recalibrate the *Porsche PDK TCU* via *Alientech KESS3* to prioritize electric torque fill during 0-60mph launches (target: 2.9s).",
+    "Replace the OEM *Porsche Active Suspension Management (PASM)* with a *Bilstein B16 PSS10* coilover kit (3-way adjustable damping, 40mm drop, monotube design) and *H&R 25mm* front / *20mm* rear anti-roll bars to eliminate body roll during Nürburgring-style cornering. Integrate *MCS 2-way remote-reservoir dampers* for track use, with *Porsche GT3-spec* spherical bearing control arms from *034Motorsport* to sharpen steering response.",
+    "Install a *Wagner Tuning Competition* front-mount intercooler (50% larger core volume, 3.5\" thick, aluminum end tanks) with *Mishimoto silicone hoses* (4-ply aramid reinforcement) to drop intake temps by 40°F under sustained 3rd-gear pulls. Pair with a *BMS JB4* piggyback tuner (hybrid-specific firmware) to optimize *MA1.78* fueling via *MPI + direct injection* while logging *Lambda* and *AFR* via *AEM X-Series* wideband sensors (target: 11.8:1 AFR at peak power)."
+  ],
+  "estetica": [
+    "Fit a *Rocket Bunny V3* widebody kit (carbon fiber fenders, 50mm extended wheel arches, aggressive front splitter with *Gurney flap*) to accommodate *22x11\" ET25* front and *22x12.5\" ET30* rear *BBS FI-R* forged wheels (gold finish, 5x130 PCD) wrapped in *Michelin Pilot Sport Cup 2 R* tires (295/30 front, 325/25 rear).",
+    "Replace the OEM rear diffuser with a *9ff GTronic* carbon fiber unit (integrated *Vorkäfer* side skirts, 3D-printed *Gurney flap* extensions) and install a *Vorsteiner* carbon fiber roof (1.2mm thick, pre-preg autoclave construction) to reduce weight by 12kg while improving torsional rigidity. Paint the entire body in *Porsche GT3 Touring* *Gulf Blue* with *3M Matte Clear* protective film.",
+    "Swap the stock LED headlights for *Hella Porsche 911 GT3 RS* *PDLS+* units (adaptive cornering, 1,500-lumen output) and add *Anzo USA* *Carbon Fiber* side mirrors with *LED puddle lights*. Install a *Valenti* *Carbon Fiber* rear spoiler (fixed, 120mm height) with *Gurney flap* and *3D-printed* *active aero* mounts to adjust angle via *Motec PDM30* (linked to *PASM* for dynamic downforce)."
+  ]
+}

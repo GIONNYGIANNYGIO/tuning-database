@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "992 CUP",
+  "prestazioni": [
+    "Engine: 4.0L MA1.76 (9A2 Evo) flat-six with a custom Manthey Racing-developed 102mm bore and 81.5mm stroke, increasing displacement to 4.2L for a power bump to 550hp at 8,500 RPM (up from 510hp) via a bespoke Bosch MS 17.8 ECU calibration with race-grade fuel mapping for 102-octane RON fuel, paired with a titanium Akrapovič 4-2-1 exhaust manifold and a straight-pipe system featuring a 90mm diameter center section and 100mm dual exits with electronically controlled butterfly valves for backpressure optimization",
+    "Forced Induction: Naturally aspirated, but with a custom-built Manthey Racing carbon-fiber intake plenum featuring dual 90mm velocity stacks and a 3D-printed aluminum throttle body adapter for improved airflow, coupled with a K&N Pro Series conical air filter (part #69-5500) and a heat-reflective gold foil intake tract to reduce intake temperatures by 12°C under sustained high-RPM operation",
+    "Suspension & Chassis: Öhlins TTX46 MkII 2-way adjustable dampers with 12-position rebound and 24-position compression settings, paired with Manthey Racing’s 992 Cup-specific spherical bearing front control arms (part #992.342.901.00) and rear toe links (part #992.332.901.00) for sub-0.5mm deflection under lateral loads, alongside a custom 3mm thicker T45 steel roll cage (FIA Appendix J Art. 253 compliant) with integrated gussets at the A-pillar and roof junction for a 22% increase in torsional rigidity"
+  ],
+  "estetica": [
+    "Aerodynamics: Manthey Racing’s 992 Cup-specific carbon-fiber aero kit (part #992.044.200.00), including a 1,200mm-wide front splitter with 3x adjustable dive planes, a 90mm rear diffuser with integrated brake cooling ducts, and a 1,800mm-wide GT3-style rear wing with 4x Gurney flap positions (0mm, 5mm, 10mm, 15mm) and a carbon-fiber endplate featuring 3D-printed vortex generators for reduced drag at high yaw angles",
+    "Bodywork: Full carbon-fiber body conversion using Porsche Motorsport’s 992 Cup body panels (part #992.041.200.00), including a 1.2mm thick carbon-fiber hood with a 20mm NACA duct for radiator cooling, carbon-fiber fenders with 30mm wider arches to accommodate 12.5x18 ET45 front and 13x18 ET50 rear BBS FI20 wheels, and a carbon-fiber rear bumper with a 150mm diffuser extension for improved downforce",
+    "Lighting & Details: Custom Hella 930-series LED headlights with a 6,000K color temperature and integrated cornering lights, paired with a carbon-fiber rear wing support (part #992.044.200.10) featuring a titanium quick-release mechanism, and a full interior strip-out with a Recaro Pole Position II carbon-fiber seat (FIA 8862-2009 certified), a Schroth 6-point harness (part #6002.2), and a Motec C127 dash logger with a 7-inch display for real-time telemetry"
+  ]
+}

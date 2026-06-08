@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "CARRERA GT",
+  "prestazioni": [
+    "Engine: 5.7L V10 (MDA) with a custom GT3R-spec dry-sump system by Manthey Racing, increasing oil capacity to 14L and reducing crankshaft windage for sustained 9,000 RPM operation. Includes billet-aluminum baffled oil pan and high-flow Mahle Motorsport oil pump for 1.2 bar pressure at redline.",
+    "Forced Induction: Single-turbo conversion using a Garrett GTX5533R Gen II turbocharger (88mm compressor, 1.15 A/R turbine housing) with a custom 4.5-inch titanium downpipe by Akrapovič, paired with a GReddy Type-S intercooler (1200cfm core) and a Bosch Motorsport 0280158802 high-flow fuel pump (450L/h) to support 850whp on E85.",
+    "Suspension: Öhlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression), custom valving for the Carrera GT’s pushrod-actuated system, and spherical bearing top mounts by GT3 Cup-spec. Includes a Manthey Racing front sway bar (24mm adjustable) and rear sway bar (22mm adjustable) with rose-jointed end links."
+  ],
+  "estetica": [
+    "Aerodynamics: RWB (Rauh-Welt Begriff) widebody conversion with custom carbon fiber overfenders (30mm wider front, 50mm wider rear) and a GT2 RS-spec rear diffuser by 9ff, featuring active Gurney flaps and a 3D-printed titanium support structure. Front splitter is a TechArt GTstreet carbon unit with integrated canards and a removable center section for track use.",
+    "Wheels: HRE P101SC forged monoblock wheels (19x11.5 front, 20x13 rear) with custom offsets (+25mm front, +15mm rear) to clear the Manthey Racing big brake kit (410mm front rotors, 390mm rear rotors, 6-piston calipers). Tires: Michelin Pilot Sport Cup 2 R (295/30/19 front, 345/30/20 rear) with nitrogen inflation and TPMS sensors by Schrader.",
+    "Exterior Trim: Full carbon fiber body kit by Gemballa Mirage GT, including a one-piece front hood with NACA ducts for brake cooling, side skirts with integrated LED turn signals, and a rear wing with a 3-position adjustable carbon fiber Gurney flap (0°, 5°, 10°). Paint: BASF Glasurit 99 Line custom mix 'Lime Gold Metallic' with a 3-stage clearcoat and ceramic coating by Gyeon Quartz."
+  ]
+}

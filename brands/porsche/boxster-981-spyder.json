@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "BOXSTER 981 SPYDER",
+  "prestazioni": [
+    "MAFless ECU remap via Cobb Accessport (MAF delete) for the 3.4L MA1.22 (981 Spyder) engine, targeting 380whp with E85 blend (60% ethanol) and custom ethanol content sensor integration (Continental ES-700) for real-time fuel adaptation, paired with a custom 3.5\" titanium downpipe (Fabspeed Motorsport) and secondary cat delete for optimized scavenging on the 981's unequal-length headers",
+    "Ohlins Road & Track coilovers (981-specific valving, 80mm front/75mm rear spring rates) with adjustable top mounts (Porsche OEM-style aluminum) and spherical bearing rear camber plates (Bilstein Clubsport) for -3.5° front/-2.8° rear alignment, complemented by 24mm front/22mm rear adjustable sway bars (Hotchkis Sport Suspension) with poly bushings (SuperPro 62mm)",
+    "Garrett GTX3071R Gen II turbocharger (84 trim, .63 A/R turbine housing) with billet compressor wheel (56mm inducer) and TiAL MV-R 44mm wastegate, mated to a custom intercooler (PWR Advanced Cooling, 12-row core, 5.5\" thick) and 3.5\" silicone charge pipes (VRSF) with T-bolt clamps, supported by a Bosch 044 fuel pump (walbro 450LPH in-tank) and ID1000x injectors (Injector Dynamics) for 350cc/min flow at 3.5bar base pressure"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (981 Spyder-specific, carbon fiber front fenders with 30mm extended flares, rear quarter panels with 40mm stretch, and integrated ducktail spoiler) finished in Porsche GT3 RS Lava Orange with matte clear coat (Sprayline 9910), paired with a custom carbon fiber hardtop (981 Spyder-specific, 911 GT3 RS-style double-bubble, 3K twill weave, autoclave-cured) by 911 Design",
+    "BBS FI-R wheels (9Jx19 ET40 front, 11Jx20 ET45 rear) in gloss black with gold hardware, wrapped in Michelin Pilot Sport Cup 2 R tires (245/35/19 front, 305/30/20 rear) and paired with Porsche PCCB carbon-ceramic brakes (380mm front/350mm rear, yellow calipers) with Pagid RSL29 brake pads and Motul RBF660 fluid (DOT 4, 325°C boiling point)",
+    "Custom LED taillight conversion (981 Spyder-specific, sequential turn signals with smoked lenses, integrated with Porsche OEM wiring harness via VLEDS C-License controller) and front bumper lip (981 Spyder, carbon fiber, 3-piece splitter with integrated canards by Vorsteiner), finished with a custom vinyl wrap (3M 2080 Satin Stealth Black) on the roll hoops and A-pillars"
+  ]
+}

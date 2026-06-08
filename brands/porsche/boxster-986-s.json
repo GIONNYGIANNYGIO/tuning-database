@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "BOXSTER 986 S",
+  "prestazioni": [
+    "Engine: M96.21 (3.2L flat-6, 252 HP stock) – Forced induction via Garrett GT2860RS-5 turbocharger (0.86 A/R, 56 trim) with custom 3.5\" stainless steel turbo manifold by TurboKraft, supporting 12 PSI boost with a 60mm TiAL MV-R wastegate and 44mm external dump valve. Intercooled via custom front-mount air-to-water intercooler (AWIC) by Wagner Tuning (Evo 2 core, 500W pump, 1.5L reservoir) for sub-40°C intake temps at 1.2 bar.",
+    "Fuel System: Upgraded Bosch 044 high-flow fuel pump (220 LPH) with dual Walbro 450 LPH in-tank pumps, feeding Siemens DEKA 80lb/hr injectors (PN: 62402) controlled via Cobb Accessport V3 with custom M96.21 Stage 2+ tune (AFR 11.8:1, ignition timing +3° at peak torque). Secondary fueling via Snow Performance Stage 3 methanol injection kit (50/50 water-methanol mix, 1000cc/min nozzle) for detonation suppression.",
+    "Drivetrain: 6-speed manual transmission (G96/00) with Guard Transmission Services short shifter (25% reduction in throw) and OS Giken Super Lock LSD (2-way, 40% preload). Clutch: Sachs Performance twin-disc (ceramic/metallic, 800 Nm torque capacity) with billet flywheel (10.5kg) by Spec Clutch. Final drive ratio: 3.89:1 (stock 3.44:1) for improved acceleration, paired with 245/40/17 Michelin Pilot Sport Cup 2 tires on 9.5\" ET35 BBS CH-R II wheels (front) and 275/35/17 on 11\" ET25 (rear)."
+  ],
+  "estetica": [
+    "Aero: 986-specific Rocket Bunny V1 widebody kit (carbon fiber front fenders, rear quarter panels, and ducktail spoiler) with custom 3M Matte Graphite vinyl wrap. Front splitter: 986 Designs carbon fiber GT3-style (50mm overhang, 30mm dive planes). Rear diffuser: Verus Engineering 3-piece carbon fiber (integrated 3\" exhaust cutouts for dual Invidia N1 titanium cat-back system).",
+    "Lighting: Full LED conversion with LUX H8 V4 Angel Eyes (5500K, 3000 lumen) and Diode Dynamics SS3 Pro LED fog lights (50W, 6000K). Rear: Depo Racing LED taillights (smoked lenses, sequential turn signals) with integrated Vland sequential LED side markers (amber, 12W).",
+    "Interior: Full Alcantara retrim by Katzkin (dashboard, door cards, center console) with custom red stitching. Seats: Recaro Pole Position (carbon fiber backs, FIA-approved 6-point harnesses by Schroth Profi II). Steering wheel: Momo Mod.70 (320mm, suede, quick-release hub). Gauges: Defi Advance BF (oil temp, oil pressure, boost, wideband AFR) mounted in custom A-pillar pod by AEM."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "BOXSTER 25 YEARS",
+  "prestazioni": [
+    "MAFless ECU flash via Cobb Accessport v3 for the 3.4L MA1.23 (981.2) engine, targeting 380whp via custom ethanol-blended (E60) fuel map with 22psi peak boost on stock turbos, paired with a Bosch Motorsport 0261S02088 high-flow fuel pump and Injector Dynamics ID1050x injectors for precise AFR control",
+    "Bilstein B16 PSS10 coilovers with custom valving for the 981 chassis, featuring 8-position rebound damping and 10mm adjustable ride height, paired with H&R 27mm front and 24mm rear anti-roll bars to eliminate body roll during high-G cornering on Nürburgring Nordschleife",
+    "Garrett GT2860RS-5 turbocharger upgrade with TiAL 44mm MV-R wastegate and custom 3.5\" stainless steel downpipe, mated to a CSF aluminum radiator and GReddy intercooler with 500whp thermal efficiency, supported by a Vibrant 1799 resonated race cat-back exhaust system"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit for the 981 Boxster, featuring carbon fiber front fenders, rear quarter panels, and a ducktail spoiler with integrated Gurney flap, finished in Porsche GT3 RS Lava Orange (298) with matte black accents",
+    "OEM Porsche 918 Spyder front bumper with custom 3D-printed carbon fiber splitter and a Vorsteiner GT-S rear diffuser, paired with HRE FF01 wheels (9x19 ET40 front, 12x20 ET50 rear) in gloss black with red lip, wrapped in Michelin Pilot Sport Cup 2 R tires (245/35/19 front, 305/30/20 rear)",
+    "Recaro Pole Position seats with Schroth 6-point harnesses, wrapped in Nappa leather with Alcantara suede inserts in Porsche Carrera GT Silverstone (XAW), complemented by a custom roll cage from Matter Fab in 4130 chromoly steel with powder-coated finish in GT3 Weissach Green (27U)"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "CAYENNE TURBO GT",
+  "prestazioni": [
+    "Engine: 4.0L twin-turbocharged V8 (EA825) with upgraded Garrett GTX5533R Gen II turbos, billet compressor wheels, and 106mm turbine housings for 2.2 bar (32 psi) boost, paired with a custom TTE800+ hybrid intercooler (1200W/m² efficiency) and 3.5-inch titanium downpipes with 200-cell catalytic converters for Euro 6d compliance",
+    "Fuel System: Full Motec M150 ECU with flex-fuel capability, upgraded Bosch 2200cc high-flow port injectors, and a secondary AEM 400LPH in-tank fuel pump with a Radium Engineering dual-channel surge tank to prevent fuel starvation during 1.5G lateral loads",
+    "Drivetrain: Porsche PDK 8-speed transmission with a Wavetrac ATB differential (40% lockup under load), reinforced ZF 8HP90 clutch packs, and a custom Quaife QBE60G helical LSD for the front axle, paired with a Tilton 7.25-inch triple-plate carbon clutch for launch control at 6,500 RPM"
+  ],
+  "estetica": [
+    "Aerodynamics: 992-generation Porsche GT3 RS-inspired carbon fiber front splitter with integrated dive planes (RWB-style), a custom Vorsteiner V-FF107 rear diffuser with active Gurney flap (adjustable via PDK paddle shifters), and a 911 GT2 RS-style fixed rear wing with 3D-printed titanium endplates for 400kg downforce at 250 km/h",
+    "Wheels/Tires: HRE FF16 22x11.5 ET35 front and 22x12.5 ET40 rear wheels with custom titanium lug bolts, wrapped in Michelin Pilot Sport Cup 2 R tires (325/25R22 front, 355/25R22 rear) shaved to 4.5mm tread depth for track use, paired with Brembo GT-R 6-piston front and 4-piston rear calipers with 420mm CCM-R discs and titanium pistons",
+    "Exterior: Full 992 Turbo S body conversion with carbon fiber fenders (20mm wider front, 30mm wider rear), a custom RML Group carbon fiber roof (saving 8kg), and a matte PPF-wrapped Porsche GT Silver paint with 911 GT3 Touring-style front fascia and LED matrix headlights with custom DRL delete for a stealth look"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "997 GT3 CUP",
+  "prestazioni": [
+    "Engine: 3.8L Mezger-derived M97/76 (997.1 GT3 Cup) or 4.0L M97/77 (997.2 GT3 Cup) with a custom Motec M150 ECU reflash targeting 500+ hp via optimized cam timing, 12.5:1 static compression, and a 102mm throttle body upgrade from Manthey Racing for improved airflow",
+    "Forced Induction: Single-turbo conversion using a Garrett GTX4202R with a custom 3.5-inch titanium downpipe, GReddy external wastegate (44mm), and a PWR 4.5-inch intercooler core with billet end tanks to handle 1.5 bar of boost while maintaining 98 RON fuel compatibility",
+    "Suspension: Öhlins TTX40 4-way adjustable dampers with custom valving for the 997 GT3 Cup’s front/rear subframe geometry, paired with Tarett Engineering spherical bearing control arms and a 30mm front sway bar from Manthey Racing to reduce understeer in high-speed corners"
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon fiber 997 GT3 Cup-specific aero kit from 9ff, including a 1,200mm-wide front splitter with integrated dive planes, a GT2-style rear diffuser with 3D-printed vortex generators, and a 1,800mm-wide rear wing with adjustable Gurney flaps (0-15mm range)",
+    "Body: Full carbon fiber widebody conversion using a RUF RT12-inspired kit, including custom-fabricated fender flares (30mm wider front, 50mm wider rear) with integrated cooling ducts for the front brakes, and a carbon fiber roof panel from TechArt for weight reduction",
+    "Interior: Full FIA-spec roll cage from Matter Motorsport with integrated fire suppression system (Lifeline Zero 360), Recaro SPG XL GT3 seats with Schroth 6-point harnesses, and a custom carbon fiber dashboard overlay with a Motec C127 digital dash for real-time telemetry"
+  ]
+}

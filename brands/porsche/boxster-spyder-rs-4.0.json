@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "BOXSTER SPYDER RS 4.0",
+  "prestazioni": [
+    "Engine: 9A2.4 (4.0L NA flat-six, 911 GT3-derived) – Full titanium Akrapović Evolution Line Titanium exhaust system with 4-2-1 headers, 70mm dual outlets, and ECU reflash via Cobb Accessport (Stage 2+ with 99 RON fuel) to target 450hp at 8,500 RPM (stock: 414hp) and 330 lb-ft torque at 6,500 RPM, retaining factory 9,000 RPM redline.",
+    "Drivetrain: 7-speed PDK (transmission code: 718.01) – Sachs Performance twin-disc clutch (PCCB-compatible) with uprated pressure plate (800Nm capacity) and lightweight flywheel (4.5kg vs. stock 7.2kg), paired with Guard Transmission Ltd. short-shift kit (30% reduced throw) and Motul Gear 300 75W-90 LSD fluid for aggressive launches.",
+    "Suspension/Chassis: Öhlins TTX40 2-way adjustable coilovers (Boxster Spyder RS-specific valving) with 10kg/mm front and 14kg/mm rear springs, adjustable camber plates (0.5° to -3.5° front, -1.0° to -4.0° rear), and Tarett Engineering spherical bearing subframe collars (front/rear) to eliminate compliance. Polyurethane bushings (030 Motorsport) replace all factory rubber mounts for razor-sharp turn-in."
+  ],
+  "estetica": [
+    "Aero: 9ff GTronic Spyder RS widebody kit (carbon fiber, 40mm wider front fenders, 50mm rear) with integrated 911 GT3 RS-style front splitter (3D-printed carbon, 30mm adjustable dive planes) and TechArt rear diffuser (dual 100mm carbon strakes, 30% more downforce at 120mph).",
+    "Wheels: BBS FI-R II (9.5x19 ET35 front, 12.5x20 ET45 rear) in matte gold with titanium hardware, wrapped in Michelin Pilot Sport Cup 2 R tires (245/35/19 front, 305/30/20 rear) shaved to 4.5mm tread depth for maximum grip.",
+    "Interior: Full Alcantara retrim by Recaro (ABE-approved) including Spyder RS-specific bucket seats (carbon shell, 6-point Schroth Profi II harnesses), MOMO Prototipo steering wheel (380mm, suede, Alcantara shift paddles), and roll cage (TIG-welded 4130 chromoly, 6-point with harness bar, painted Porsche GT Silver)."
+  ]
+}

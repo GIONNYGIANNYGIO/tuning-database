@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "CARRERA GT ZAGATO",
+  "prestazioni": [
+    "Engine: Retain the original M297 5.7L V10 (980cc per cylinder, 612 PS stock) but upgrade internals with Carrillo H-beam forged connecting rods (P/N: CR-875H) and JE Pistons 2618-T6 forged slugs (9.5:1 compression, custom dome for Zagato body clearance).",
+    "Forced Induction: Single BorgWarner EFR 9180 turbo (86mm compressor, 1.05 A/R turbine housing) with TiAL MV-R 60mm wastegate and custom 3.5\" Inconel downpipe merging into a GReddy Revolution RS 4.5\" titanium exhaust (Zagato-specific routing to clear rear diffuser).",
+    "Suspension: Öhlins TTX40 3-way adjustable coilovers (custom valving for Carrera GT monocoque) with Eibach ERS 1000N/mm helper springs, paired with Tillet B12 carbon fiber seats (Zagato roof contour-matched) and AP Racing CP8650-3600 6-piston front/4-piston rear calipers (Zagato-specific bridge design)."
+  ],
+  "estetica": [
+    "Body: Zagato-designed carbon fiber widebody kit (P/N: ZAG-911-001) with integrated NACA ducts for M297 intercooler routing, finished in PPG 'Rosso Zagato' (custom tri-coat pearl with gold flake).",
+    "Aero: APR Performance GT-500 rear wing (carbon fiber, 3D-printed Zagato endplates) with Gurney flap and Vortex Generators on the Zagato double-bubble roof (P/N: ZAG-911-002-RF).",
+    "Interior: Recaro Pole Position seats (Zagato-embroidered headrests) with Schroth Profi II 6-point harnesses, MOMO Mod.78 steering wheel (carbon fiber, Zagato crest), and custom magnesium shift knob (weight-matched to Carrera GT shift rod)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "CAYENNE COUPE TURBO GT",
+  "prestazioni": [
+    "Engine: 4.0L twin-turbocharged V8 (engine code: *MA1.78*), upgraded with a *Garrett GTX5533R* turbocharger (84mm billet compressor wheel, 106mm turbine) paired with a *Tial MV-R 60mm* wastegate for 2.2 bar peak boost, replacing the stock *KKK turbochargers* to achieve 850+ WHP on E85 fuel with a *Motec M150 ECU* standalone management system (OEM Porsche DME bypassed).",
+    "Exhaust: *Akrapovič Titanium Evolution Line* full-system (4.5\" diameter, quad 102mm outlets) with *valvetronic bypass* for backpressure optimization, featuring a *scavenged equal-length header* design (replacing the OEM 3.5\" manifolds) and *Inconel 625* construction for weight reduction (~18kg lighter than stock).",
+    "Suspension: *Öhlins TTX46 MkII* 3-way adjustable coilovers (24-way rebound, 22-way compression, 12-way preload) with *Porsche-specific camber plates* (adjustable to -4.5° front, -3.8° rear) and *Eibach ERS* helper springs (200N/mm front, 220N/mm rear) for track-focused alignment. Chassis stiffening via *Porsche Motorsport* carbon-fiber strut brace (front) and *034Motorsport* aluminum subframe brace (rear)."
+  ],
+  "estetica": [
+    "Aero: *9ff GTronic* widebody conversion kit (carbon-fiber, +80mm front, +100mm rear) with *Rocket Bunny* GT-spec front splitter (3D-printed carbon, 3-stage adjustable) and *Vorsteiner* GT-spec rear diffuser (dual-plane, 4x100mm titanium exhaust cutouts). *Porsche Motorsport* GT3-style rear wing (carbon, 1,800mm span, 30mm Gurney flap) with *AIM Aerodynamics* active DRS (drag reduction system) for top-speed optimization.",
+    "Wheels: *BBS FI-R* 21x10.5J ET35 (front) and 22x12.5J ET45 (rear) in *Forgeline* center-lock configuration (Porsche PDK-compatible), wrapped in *Michelin Pilot Sport Cup 2 R* tires (275/30 R21 front, 325/25 R22 rear). *HRE* titanium wheel bolts (M14x1.5, 12-point) for weight savings (~1.2kg per wheel).",
+    "Interior: *Recaro Pole Position* carbon-Kevlar bucket seats (FIA 8862-2009 certified) with *Schroth* 6-point harnesses (Porsche-specific mounting points). *MOMO* carbon-fiber steering wheel (380mm diameter, Alcantara grip) with *AiM MXS Strada* 12-inch dash display (CAN-bus integration for Porsche PDK, ABS, and traction control telemetry). *Voodoo* 12-point roll cage (T45 steel, bolt-in, Porsche-approved) with *Sparco* fire suppression system (plumbed to engine bay and cabin)."
+  ]
+}

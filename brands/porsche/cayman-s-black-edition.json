@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "CAYMAN S BLACK EDITION",
+  "prestazioni": [
+    "MAFless ECU remap via Cobb Accessport AP3-POR-002 targeting 420whp (313kW) on 98 RON fuel with custom ignition timing maps for the 3.4L MA1.22 (981.2) flat-six, retaining OEM IHI turbochargers but upgrading to GReddy Profec B Spec II boost controller for 1.4 bar peak pressure with 22psi spikes on 3rd gear pulls",
+    "Full titanium exhaust system by Akrapović Evolution Line (P/N 1472-1704) with 70mm dual outlets, 200-cell metallic catalytic converters, and integrated electronic valve control bypass for 8% backpressure reduction at 6,500 RPM",
+    "KW Suspensions Clubsport coilovers (P/N 3W931101) with 8-position rebound damping, 12mm ride height adjustment range, and spherical top mounts for the 981 chassis, paired with H&R 24mm front / 22mm rear anti-roll bars (P/N 54655-1) to eliminate body roll during Nürburgring Nordschleife hot laps"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (P/N RB-P981) with carbon fiber front fenders, extended rear quarter panels (35mm per side), and integrated canards for 18% increased downforce at 120mph, finished in Porsche GT3 RS Lava Orange (2018 spec) with matte clear coat",
+    "OEM Porsche 911 GT3 Cup (991.2) carbon fiber rear wing (P/N 991.044.017.00) mounted on custom 3D-printed aluminum pedestals (T6-6061) with adjustable angle of attack (0-12 degrees) and integrated Gurney flap for 45kg of rear downforce at 150mph",
+    "BBS FI-R 9x20 ET40 front / 11x20 ET50 rear wheels (P/N FI9205403 and FI9205503) wrapped in Michelin Pilot Sport Cup 2 R tires (245/35 ZR20 front, 295/30 ZR20 rear) with TPMS sensors pre-calibrated for 2.2 bar cold pressure, powder-coated in Porsche Graphite Black (2019 spec) with gold hardware"
+  ]
+}

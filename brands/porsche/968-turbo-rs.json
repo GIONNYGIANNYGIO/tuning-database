@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "968 TURBO RS",
+  "prestazioni": [
+    "Engine: 3.0L M44/83 inline-4 (968 Turbo RS-specific variant) with forged Mahle pistons (8.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from JE Pistons for 1,200+ hp reliability under methanol/water injection (AEM 340LPH pump + Snow Performance Stage 3 kit).",
+    "Turbocharger: Garrett GTX5533R Gen II with a 106mm billet compressor wheel, .96 A/R turbine housing, and TiAL MV-R 60mm wastegate (set to 3.2 bar peak boost with a custom Motec M150 ECU managing sequential fueling via ID1700x injectors and a Radium Engineering dual-catch can setup).",
+    "Drivetrain: G50/52 6-speed manual transmission reinforced with a Guard Transmission Services billet input shaft, OS Giken 2.2 LSD, and a Sachs Performance twin-disc clutch (300mm) with a lightweight flywheel (12.5 lbs) for sub-30ms shifts via a Tilton hydraulic throwout bearing."
+  ],
+  "estetica": [
+    "Body: Full carbon-fiber widebody conversion using a 968-specific Rocket Bunny V3 kit (front fenders extended 50mm, rear quarters 70mm) with a custom ducktail spoiler (3D-printed from Toray T800 carbon) for 200kg downforce at 250 km/h.",
+    "Wheels: BBS LM-R 18x10.5 ET25 front / 18x12 ET35 rear with custom centerlock adapters (Porsche 993 Turbo pattern) wrapped in Michelin Pilot Sport Cup 2 R tires (265/35/18 front, 315/30/18 rear) mounted on HRE 303M flow-formed barrels.",
+    "Interior: Full Recaro Pole Position II seats (968-specific mounting brackets) with Schroth 6-point harnesses, a MOMO Prototipo steering wheel (380mm, suede) on a NRG quick-release hub, and a custom aluminum dash overlay (CNC-machined by 911 Design) housing a Motec C127 dash logger with integrated AIM Solo 2 DL GPS telemetry."
+  ]
+}

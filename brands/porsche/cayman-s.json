@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "CAYMAN S",
+  "prestazioni": [
+    "MAFless ECU remap via Cobb Accessport v3 with custom Stage 2+ tune optimized for the 3.4L MA1.22 (981.2) flat-six, targeting 420whp on 93 octane with aggressive ignition timing (12° BTDC) and 22 psi peak boost on a Garrett GTX3071R Gen II turbo kit (Porsche-specific manifold and wastegate actuator)",
+    "Full titanium exhaust system by Akrapovič Evolution Line with 70mm dual outlets, 200-cell catalytic converters, and integrated electronic bypass valves for backpressure optimization under 4,500 RPM",
+    "Bilstein B16 PSS10 coilovers with 8-position adjustable damping, custom valving for the Cayman S (981) chassis, and -30mm drop from stock ride height, paired with H&R 24mm front and 28mm rear anti-roll bars with spherical bearings"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (981 Cayman-specific) with carbon fiber front fenders, rear quarter panels, and ducktail spoiler, finished in matte Porsche GT3 RS Lava Orange with custom clear bra (XPEL Ultimate Plus) on high-impact zones",
+    "OEM Porsche 911 GT3 RS (991.2) front fascia with integrated carbon fiber splitter and active cooling ducts for the MA1.22 intercooler, paired with a custom 3D-printed radiator support for improved airflow",
+    "BBS FI-R 9x20 ET40 front and 11x20 ET50 rear wheels with titanium hardware, wrapped in Michelin Pilot Sport Cup 2 R tires (245/30/20 front, 295/25/20 rear), powder-coated in Satin Black with gold BBS center caps"
+  ]
+}

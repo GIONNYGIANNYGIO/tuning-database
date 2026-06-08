@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "BOXSTER GTS",
+  "prestazioni": [
+    "MAFless ECU remap via Cobb Accessport v3 with custom Stage 2+ aggressive timing for the 3.4L MA1.23 (981.2) engine, targeting 400whp on 93 octane with E85 flex-fuel capability, utilizing a custom ethanol content sensor from Continental for real-time AFR adjustments",
+    "Full titanium exhaust system from Akrapovic Evolution Line with 70mm carbon-wrapped tips, replacing the factory 63mm setup, paired with a custom X-pipe from Fabspeed Motorsport to eliminate the factory resonators for a 12% reduction in backpressure",
+    "Garrett GT2867R turbocharger upgrade with a custom billet compressor wheel (60mm inducer, 82mm exducer) and 0.63 A/R turbine housing, mated to a custom intercooler from CSF Racing (7.5\" thick core, 100% aluminum construction) and a TiAL MV-R 44mm wastegate for precise boost control at 18psi"
+  ],
+  "estetica": [
+    "Rocket Bunny V1 widebody kit for the 981 Boxster GTS, featuring carbon fiber front fenders with integrated canards, rear overfenders with aggressive flares, and a custom ducktail spoiler with adjustable angle (0-15 degrees) for aerodynamic tuning",
+    "Ohlins Road & Track coilovers with 30-way adjustable damping and Swift Springs (8K front, 10K rear) for a 30mm drop, paired with custom top mounts from GT3 Cup cars for increased camber adjustability (-4.5 degrees front, -3.8 degrees rear)",
+    "Full carbon fiber interior overhaul with a custom roll cage from VAC Motorsports (981-specific design, TIG-welded 4130 chromoly), carbon fiber door cards from 911R, and a custom Alcantara-wrapped steering wheel from GT3 Cup with integrated Momo quick-release hub"
+  ]
+}
