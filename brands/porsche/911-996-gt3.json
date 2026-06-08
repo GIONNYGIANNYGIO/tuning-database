@@ -1,0 +1,20 @@
+{
+  "brand": "PORSCHE",
+  "model": "911 996 GT3",
+  "prestazioni": [
+    "Engine: M96/76 (3.6L naturally aspirated flat-six) with a custom GT3R-spec crankshaft from **Porsche Motorsport** (forged, 82.0mm stroke) paired with **Mahle Motorsport** forged pistons (9.8:1 compression) and **Pauter Machine** titanium connecting rods (H-beam, 144mm center-to-center).",
+    "Induction: **ITG Maxogen** dual-snorkel air intake with **K&N Racing** dry-flow filters (part #E-1980) and a **Tial 72mm** throttle body (replacing the stock 70mm unit) mated to a **Motec M150 ECU** with GT3 Cup-spec fuel and ignition maps (optimized for 98 RON + **VP Racing C16** 116-octane fuel).",
+    "Exhaust: **Fabspeed Motorsport** 3.5-inch titanium headers (equal-length, 1.5mm wall thickness) with a **Akrapović Evolution Line** center muffler (dual 3.5-inch outlets) and **Supersprint** 200-cell metallic catalytic converters (for Euro 6 compliance).",
+    "Suspension: **Öhlins TTX46 MkII** 3-way adjustable coilovers (24-click rebound, 22-click compression, 12-click low-speed compression) with **Porsche Motorsport** GT3-spec spherical bearing top mounts (part #996.341.001.00) and **H&R** 25mm front / 20mm rear anti-roll bars (adjustable in 3 positions).",
+    "Braking: **Brembo GT3-R** 6-piston front / 4-piston rear calipers (with **Pagid RS29** pads) clamping **380mm x 34mm** two-piece rotors (floating, slotted, **AP Racing** bells) and **Goodridge G-Stop** braided stainless steel lines (DOT 4, -3AN fittings).",
+    "Drivetrain: **Porsche GT3 Cup** 6-speed dog-ring gearbox (part #996.301.011.00) with a **Rennsport Systems** billet aluminum shift fork and **Guard Transmission** 85W-140 GL-5 limited-slip differential (40% lockup under load).",
+    "Forced Induction (Optional Track Build): **Garrett GTX3582R** turbocharger (0.82 A/R turbine housing, 62mm compressor) with a **Tial MV-R** 44mm wastegate and **TurboSmart** Race Port blow-off valve (set to 1.2 bar peak boost), paired with a **GReddy** front-mount intercooler (5.5L core, 3-inch piping)."
+  ],
+  "estetica": [
+    "Aero: **RWB (Rauh-Welt Begriff) 996 GT3** widebody kit (carbon fiber, riveted fenders with 30mm spacers) featuring a **9ff** GT9-style front splitter (adjustable dive planes) and a **TechArt GTstreet** carbon fiber ducktail spoiler (20mm taller than stock).",
+    "Wheels: **BBS LM-R** 19x9.5 ET45 front / 19x12 ET30 rear (staggered, 5x130 PCD) with **Michelin Pilot Sport Cup 2 R** tires (265/35/19 front, 325/30/19 rear) and **H&R** 15mm wheel spacers (hub-centric, titanium bolts).",
+    "Interior: **Recaro Pole Position** carbon-Kevlar bucket seats (FIA 8862-2009 certified) with **Schroth Profi II-6** 6-point harnesses, **MOMO Mod.78** suede steering wheel (350mm, GT3 Cup quick-release hub), and a **Motec C127** digital dash (replacing the stock cluster, with lap timer and boost pressure readouts).",
+    "Lighting: **Lux HID** Bi-Xenon projectors (5500K, D2S bulbs) with **Depo Racing** GT3-spec clear corners (LED side markers) and **Osram Night Breaker Laser** high-beams (130% brighter than OEM).",
+    "Exterior Trim: **Vorsteiner** carbon fiber mirror caps (GT3 Cup style) and **VMR** carbon fiber engine cover (with **Porsche Motorsport** GT3 decals in **Gulf Blue/Orange**)."
+  ]
+}

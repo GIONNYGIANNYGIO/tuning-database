@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "911 964 TURBO",
+  "prestazioni": [
+    "Engine: M30/69S (3.6L air-cooled flat-six) with forged Mahle pistons (9.0:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from 964 Cup racing spec, paired with a custom Schrick 284° camshaft grind for optimized turbo spool and high-RPM power retention.",
+    "Forced Induction: Garrett GT35R turbocharger (62mm compressor, 68mm turbine) with a custom 3.5-inch stainless steel downpipe, TiAL MV-R 44mm external wastegate, and a Spearco 7x14-inch front-mount intercooler with a 3-inch silicone charge pipe system, tuned via a Motec M800 standalone ECU with individual cylinder fuel trims and knock control.",
+    "Drivetrain & Suspension: G50/52 6-speed manual transmission with a Guard Industries limited-slip differential (40% lock), upgraded half-shafts with CV joints from a 993 Turbo, and a full Ohlins DFV coilover kit (24-way adjustable damping, 22mm front/24mm rear sway bars) with spherical bearing top mounts and adjustable camber plates for track alignment."
+  ],
+  "estetica": [
+    "Body: Rothsport Racing wide-body conversion (964 Turbo S flares) with a custom carbon fiber front splitter, rear diffuser, and a 964 GT2-style fixed rear wing with aluminum uprights and a 3D-printed Gurney flap for downforce adjustment.",
+    "Wheels: BBS E50 Magnesium 18x9.5 ET25 front and 18x11 ET15 rear with custom center-lock adapters, wrapped in Michelin Pilot Sport Cup 2 tires (245/35/18 front, 305/30/18 rear) mounted on HRE 505M forged wheels with titanium hardware.",
+    "Interior: Full Recaro Pole Position carbon-Kevlar bucket seats with Schroth 6-point harnesses, a MOMO Mod.78 steering wheel (380mm diameter, suede grip), and a custom aluminum dashboard overlay with a digital AIM MXS Strada dash display (logging oil pressure, turbo boost, and wideband AFR via AEM X-Series sensors)."
+  ]
+}

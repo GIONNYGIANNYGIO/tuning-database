@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "911 CLUB COUPE",
+  "prestazioni": [
+    "Engine: 992.2 3.8L twin-turbo flat-six (engine code: *9A2 E60*), upgraded with a *Garrett GTX5533R* turbocharger (84mm billet compressor wheel, 106mm turbine) paired with a *Tial MV-R 60mm* wastegate and *TurboSmart Race Port BOV* for precise boost control at 28 psi, supported by a *Porsche Motorsport* titanium exhaust manifold and *Akrapovič Evolution Line* titanium exhaust system with 90mm tips",
+    "Fuel System: *Bosch Motorsport MS17.8* standalone ECU with *Motec PDM30* power distribution module, *ID1700x* direct-port injectors (2,200cc/min), and *Radium Engineering* dual-catch can setup with *AEM 400X* fuel pressure regulator for E85 compatibility (flex-fuel sensor integrated)",
+    "Suspension & Chassis: *Öhlins TTX46 MkII* 3-way adjustable coilovers with *Porsche Club Coupe-specific* camber plates (adjustable to -4.5° front, -3.8° rear), *Tarett Engineering* spherical bearing control arms, *PFC 380mm* 10-piston front brake kit with *Ferodo DS2500* pads, and *Brembo GT-R* 355mm rear rotors with *Pagid RSL29* pads; *H&R* 25mm front and 20mm rear anti-roll bars with *SuperPro* polyurethane bushings"
+  ],
+  "estetica": [
+    "*RWB (Rauh-Welt Begriff) Porsche 992 Club Coupe* widebody kit with *custom 3M 4080 Gloss Black* vinyl over *Porsche GT3 RS* Carbon Fiber weave, featuring *extended fenders (50mm front, 60mm rear)*, *custom carbon fiber side skirts*, and *RWB-specific* riveted overfenders with *Aerocatch* quick-release fasteners",
+    "*TechArt GTstreet R* front splitter with *active Gurney flap* (adjustable via *Porsche Sport Chrono* integration) and *TechArt GTstreet R* rear diffuser with *integrated titanium exhaust outlets*; *Vorsteiner* carbon fiber GT3-style side mirrors and *Porsche GT2 RS* carbon fiber roof (weight reduction: 8.2kg)",
+    "*BBS FI-R* 10.5x20 ET40 front and 12.5x20 ET50 rear wheels with *Pirelli P Zero Trofeo R* tires (275/30/20 front, 325/30/20 rear), wrapped in *custom RWB x Rotiform* center-lock adapters; *HRE P101* forged monoblock wheels (11x20 ET35 front, 13x20 ET45 rear) as a track-only alternative with *Michelin Pilot Sport Cup 2 R* tires"
+  ]
+}

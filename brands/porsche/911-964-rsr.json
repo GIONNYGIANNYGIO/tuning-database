@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "911 964 RSR",
+  "prestazioni": [
+    "Engine: M64/05 (3.8L flat-six, air-cooled, 8.0:1 compression) with a custom-built 4.0L stroker kit using Mahle Motorsport forged pistons (96.5mm bore) and Pauter billet steel crankshaft (76.4mm stroke), paired with Carrillo H-beam connecting rods for 450+ hp at 8,200 RPM on VP Racing Q16 fuel.",
+    "Forced induction: Single Garrett GTX4202R turbocharger (86mm compressor wheel) with a custom 3.5-inch titanium downpipe and GReddy Type-R blow-off valve, mated to a custom air-to-water intercooler (Setrab Pro Line) and Bosch 044 fuel pump with dual Injector Dynamics ID1700x injectors for precise fueling under boost (1.2 bar max).",
+    "Drivetrain & Suspension: 964 RSR-spec 6-speed G50/52 gearbox with a Guard Industries limited-slip differential (40% lock) and custom half-shafts from CV Racing. Ohlins TTX40 coilovers with 24-way adjustable damping, spherical bearing top mounts, and custom-valved Bilstein B16 remote reservoirs for track use, paired with Tillet B12 carbon-Kevlar racing seats and a Schroth 6-point harness."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion using a 964 RSR replica kit from RWB (Rauh-Welt Begriff) with extended fenders (50mm front, 70mm rear), custom front splitter, and a 964 GT3-style ducktail spoiler in dry carbon fiber (2x2 twill weave).",
+    "Aero: Custom 964 RSR-style front canards (3D-printed in carbon fiber) and a rear diffuser from 9ff, paired with a custom 964 Cup-style rear wing (adjustable angle, 30mm chord) for high-speed stability. Lightweight BBS RS II (17x9.5 ET45 front, 17x12 ET52 rear) wheels with Michelin Pilot Sport Cup 2 tires (245/40/17 front, 315/35/17 rear).",
+    "Interior: Full Alcantara-wrapped dashboard and door cards (custom stitching in Porsche Guards Red), MOMO Prototipo steering wheel (350mm diameter, suede grip), and a digital AIM MXS Strada dash with GPS lap timer, oil pressure, and boost logging. Custom roll cage by Matter Fab (TIG-welded 4130 chromoly, 6-point with door bars) painted in Porsche Speed Yellow."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "908 LONGTAIL",
+  "prestazioni": [
+    "Engine: Type 908 flat-8 (2.2L, 8-cyl, air-cooled, 350+ HP stock) – full rebuild with Mahle Motorsport forged pistons (9.5:1 CR), titanium connecting rods (Pankl Racing), and a custom billet crankshaft (JE Pistons) to handle 1,000+ HP on methanol fuel. Pair with a bespoke dry-sump system (Moroso) and dual Bosch 044 high-flow fuel pumps for sustained endurance racing.",
+    "Forced Induction: Twin-turbo setup using Garrett GTX5533R Gen II turbos (custom 106mm compressor wheels) with Tial MV-R 60mm wastegates and a custom air-to-water intercooler (PWR) mounted in the rear fender ducts. Boost controlled via a Motec M150 ECU with custom methanol injection (AEM 340LPH pump) for detonation suppression at 3.5+ bar boost.",
+    "Drivetrain: Reinforced 917-derived 5-speed transaxle (Hewland LG600) with a billet aluminum bellhousing (Tilton), triple-plate carbon clutch (Sachs Racing), and a limited-slip differential (Drexler Motorsport) with 80% lockup for Le Mans-style high-speed cornering. Custom half-shafts (GKN Driveline) with CV joints rated for 1,200 Nm torque."
+  ],
+  "estetica": [
+    "Body: Full carbon-fiber longtail replica (RML Group) with integrated rear diffuser (Vortex Generators) and a custom front splitter (AeroTech) for 500+ kg downforce at 250 km/h. Lightweight polycarbonate side windows (Sekurit) and a removable roof panel (carbon-Kevlar, 3.5 kg).",
+    "Aerodynamics: Active rear wing (DTM-style, Bosch actuators) with a 1,200 mm span and adjustable angle of attack (0-15 degrees). Custom NACA ducts in the rear fenders for turbo/intercooler cooling, paired with a front-mounted radiator (Setrab) and dual electric fans (SPAL).",
+    "Wheels/Tires: BBS E88 magnesium wheels (15x12 front, 15x18 rear) with center-lock hubs (PFC) and Michelin Pilot Sport Cup 2 R tires (275/650-15 front, 345/700-15 rear). Custom wheel spacers (H&R) for flush fender fitment and titanium wheel nuts (ARP)."
+  ]
+}

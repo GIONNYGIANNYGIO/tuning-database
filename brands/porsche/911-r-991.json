@@ -1,0 +1,15 @@
+{
+  "brand": "PORSCHE",
+  "model": "911 R 991",
+  "prestazioni": [
+    "Engine: 9A2 Evo (3.8L naturally aspirated flat-six, MA1.72) with a custom Sharkwerks carbon fiber intake manifold and ITG Maxogen dual-cone air filters, paired with a Motec M150 ECU for individual cylinder fueling and ignition mapping, targeting 450+ hp at 8,200 RPM with a 9,000 RPM redline",
+    "Exhaust: Akrapović Evolution Line Titanium full system with 70mm diameter piping, 304 stainless steel headers, and a valved center section for backpressure optimization, reducing weight by 12 kg over stock while maintaining 991 R’s signature NA tone",
+    "Suspension: Öhlins R&T 46M2 3-way adjustable coilovers with custom valving for the 991 R’s rear-wheel steering delete (converted to fixed rear toe links), paired with Tarett Engineering spherical bearing control arms and adjustable anti-roll bars (24mm front, 22mm rear) for track-focused geometry",
+    "Drivetrain: Guard Transmission Services 6-speed manual short-shift kit with carbon fiber shift forks and a Guard limited-slip differential (40% lock under power, 60% on decel), mated to a lightweight Sachs Performance single-mass flywheel and uprated clutch (800 Nm torque capacity)"
+  ],
+  "estetica": [
+    "Body: RWB (Rauh-Welt Begriff) 991 R-specific widebody kit with custom front canards, rear diffuser, and carbon fiber fender flares (25mm wider front, 40mm wider rear), finished in Porsche GT3 RS Lava Orange with matte clear coat",
+    "Wheels: BBS FI-R 19x9.5 ET40 (front) and 19x12 ET50 (rear) in gold with titanium hardware, wrapped in Michelin Pilot Sport Cup 2 R tires (245/35 front, 305/30 rear) for optimal load distribution",
+    "Interior: Recaro Pole Position carbon fiber bucket seats (991 R-specific mounting brackets) with Schroth 6-point harnesses, a MOMO Prototipo steering wheel (380mm diameter, suede with red stitching), and a custom roll cage (T45 steel, 6-point) integrated with the stock rear bulkhead for chassis rigidity"
+  ]
+}

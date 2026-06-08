@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "911 GT3 RS 991",
+  "prestazioni": [
+    "Engine: 4.0L NA flat-six (9A1/MA1.76) with a custom Manthey Racing Stage 2.5 ECU remap, optimizing the factory 8,250 RPM redline for +45 HP (540 HP total) and +25 Nm torque via aggressive cam timing and fuel pressure adjustments (1,000 bar rail pressure), paired with a titanium Akrapović Evolution Line exhaust system featuring 4-2-1 headers and a straight-through center muffler for 30% less backpressure",
+    "Suspension: Öhlins TTX46 MkII coilovers with 3-way adjustable damping (compression/rebound/bump), custom-valved for the 991 GT3 RS’s front double-wishbone and rear multi-link geometry, paired with Manthey Racing’s adjustable front sway bar (3 positions) and rear carbon fiber anti-roll bar (22mm, 10% stiffer than OEM) to eliminate body roll in Nürburgring-level cornering (1.2g lateral grip)",
+    "Aerodynamics: Full RWB (Rauh-Welt Begriff) 991 GT3 RS widebody conversion with custom carbon fiber overfenders (50mm wider front, 70mm rear), a 991.2 GT3 RS-spec front splitter with Gurney flap (30% more downforce at 200 km/h), and a fixed carbon fiber rear wing with adjustable angle (0-15°) and integrated swan-neck mounts, reducing drag by 8% while generating 450 kg of downforce at 250 km/h (vs. 320 kg stock)"
+  ],
+  "estetica": [
+    "Exterior: Full 991 GT3 RS-specific RWB ‘Kamen’ body kit with hand-beaten aluminum fenders (replacing OEM carbon), custom front bumper canards (3D-printed from PETG for weight savings), and a rear diffuser with integrated titanium exhaust outlets (replacing the stock dual exits) for a 1970s Porsche 917-inspired aesthetic",
+    "Wheels: HRE FF16 3-piece forged wheels (9.5x20 ET40 front, 12.5x20 ET30 rear) in a custom ‘Satin Bronze’ finish, wrapped in Michelin Pilot Sport Cup 2 R tires (275/30/20 front, 335/30/20 rear) with a 10mm spacer setup to fill the RWB fenders, paired with titanium wheel bolts (12g each) and center-lock adapters from BBS",
+    "Interior: Full carbon fiber weave interior with a 991 GT3 RS-specific roll cage (TÜV-certified, 6-point bolt-in from Matter Motorsport), Recaro Pole Position seats (carbon shell, Alcantara inserts) with Schroth 6-point harnesses, and a custom digital dash overlay (Motec C127) replacing the stock PCM for real-time lap telemetry (G-forces, oil temp, brake pressure)"
+  ]
+}

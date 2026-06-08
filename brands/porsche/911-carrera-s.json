@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "911 CARRERA S",
+  "prestazioni": [
+    "Engine: 3.0L twin-turbocharged flat-six (MA1.72/MDG.G) with a custom Sharkwerks Stage 2 ECU flash (992.2-specific) targeting 500+ WHP via revised boost mapping (22 PSI peak), optimized cam timing, and direct port methanol injection (AEM 340LPH pump + Snow Performance Stage 3 kit) for knock mitigation on 104 octane fuel",
+    "Forced Induction: Hybrid turbocharger upgrade using Garrett GTX3582R Gen II turbos (9175 .82 A/R compressor, .63 A/R turbine) with billet compressor wheels, TiAL MV-R 44mm wastegates, and custom 3.5\" stainless steel downpipes (Fabspeed Motorsport) with 200-cell catalytic converters for emissions compliance",
+    "Drivetrain: Guard Transmission Services 7-speed PDK reinforcement kit (billet shift forks, upgraded synchros, and a 40% stiffer differential carrier) paired with a Quaife ATB helical LSD (992-specific) and a South Bend Clutch Stage 3+ twin-disc setup (ceramic-metallic friction, 800 ft-lb torque capacity) for manual swap compatibility"
+  ],
+  "estetica": [
+    "Aerodynamics: RWB (Rauh-Welt Begriff) 992-widebody conversion with custom 3M Gloss Black vinyl over carbon fiber fenders (2.5\" extended flares), a TechArt GTstreet R front splitter (3D-printed carbon, 30% more downforce than OEM), and a 992.2-specific GT3-style ducktail spoiler (Porsche Tequipment) with integrated Gurney flap",
+    "Wheels: HRE FF01 3-piece forged wheels (20x9.5 +25 front, 21x12.5 +45 rear) with custom concave profiles, titanium hardware, and Michelin Pilot Sport Cup 2 R tires (245/30/20 front, 325/25/21 rear) mounted via BBS center-lock adapters for OEM+ retention",
+    "Exterior Details: Full Porsche Classic GT Silver paint (992-exclusive color code 298) with a 3-stage PPF (XPEL Stealth) applied by Dr. ColorChip, OEM-style side markers replaced with LED sequential units (VLEDS 992-specific), and a custom titanium exhaust tip setup (Fabspeed 4.5\" quad outlets with laser-etched Porsche crest)"
+  ]
+}

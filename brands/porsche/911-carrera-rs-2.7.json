@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "911 CARRERA RS 2.7",
+  "prestazioni": [
+    "Engine: Replace the stock 2.7L Type 911/83 flat-six (MFI mechanical fuel injection) with a 3.2L Type 930/20 crankshaft (74.4mm stroke) and 95mm Mahle forged pistons, paired with a 911 Turbo (930) camshaft grind (280° duration, 10.5mm lift) from Schrick for a 3.4L displacement and ~280 HP at 7,000 RPM with 98 RON fuel. Retain the original Bosch K-Jetronic mechanical injection but upgrade to a custom-mapped 911 SC RS fuel distributor (911 331 015 01) for optimized air-fuel ratios.",
+    "Forced Induction: Install a Rotrex C38-91 supercharger (1.15 bar max boost) with a custom intercooler setup using a PWR 3-core front-mount heat exchanger (911-specific end tanks) and a 100mm silicone intake tract from Eventuri. Use a custom billet aluminum throttle body (90mm bore) from TPC Racing to replace the stock 74mm unit, paired with a 911 Turbo (930) wastegate actuator for boost control.",
+    "Suspension/Handling: Replace the stock 911 RS torsion bars with a full Ohlins TTX40 coilover kit (911-specific valving, 24-position rebound/compression damping) and adjustable spherical top mounts from Tarrett Engineering. Install a 911 ST-spec 22mm front anti-roll bar (911 911 323 011 00) and a 20mm rear bar (911 911 323 012 00) from Elephant Racing, paired with spherical bearing end links from GT3 Cup cars (997.1). Use 911 RSR-spec 50mm wheel spacers (front) and 40mm (rear) from APR Performance for optimal track width."
+  ],
+  "estetica": [
+    "Bodywork: Replace the stock RS 2.7 ducktail with a 911 Carrera RS 3.0 (1974) fiberglass rear spoiler (911 911 509 001 00) from Automotive Legends, painted in Grand Prix White (L908) with a 5mm rubber lip. Install a 911 ST-style front bumper (911 911 505 001 00) with integrated oil cooler ducts (911 911 571 001 00) and a 911 RSR-spec front splitter (carbon fiber) from 911 Motorsport. Use a 911 Carrera RSR (1974) rear fender flares (fiberglass) from RWB Japan for a 50mm wider stance.",
+    "Wheels: Fit 15x9 ET23 front and 15x11 ET15 rear magnesium wheels from BBS (RS010, 911-specific offsets) with 225/50R15 (front) and 275/40R15 (rear) Pirelli P7 Corsa tires. Use 911 RSR-spec center-lock adapters (911 911 361 001 00) from Elephant Racing and titanium wheel nuts from H&R (M14x1.5). Paint the wheels in Silver Metallic (L92D) with polished lips.",
+    "Interior: Replace the stock RS 2.7 seats with Recaro SRD (911-specific) carbon-Kevlar shells (993.2 Cup car spec) upholstered in black Alcantara with red stitching. Install a 911 RSR (1974) 380mm steering wheel (leather-wrapped) from Nardi with a quick-release hub from GT3 Cup cars. Use a 911 ST-spec roll cage (TIG-welded, 4-point) from Matter Motorsport, painted in Grand Prix White (L908) with black padding. Replace the stock gauges with a 911 RSR-spec 10,000 RPM tachometer (VDO) and a Stack digital boost gauge (0-2 bar) mounted in the center console."
+  ]
+}

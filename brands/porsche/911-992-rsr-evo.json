@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "911 992 RSR EVO",
+  "prestazioni": [
+    "Engine: 4.2L flat-six (MA1.76) with titanium connecting rods (Pankl Racing Systems) and forged pistons (Mahle Motorsport), paired with a 6-speed sequential gearbox (Xtrac P1297) featuring a carbon-fiber clutch (Sachs Performance) and a limited-slip differential (Drexler Motorsport LSD with 85% lockup under load).",
+    "Forced Induction: Twin Garrett GT35R turbochargers (84mm compressor wheels) with billet aluminum compressor housings, custom 42mm wastegates (TurboSmart Elite), and a titanium exhaust manifold (Akrapović) feeding into a 100mm titanium exhaust system with a straight-pipe design and a bypass valve (REMUS).",
+    "Suspension & Chassis: Öhlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high/low-speed compression), adjustable anti-roll bars (Eibach Pro-Street S) with spherical bearings, and a carbon-fiber front splitter with an integrated dive plane (992 RSR-specific aero kit by Manthey Racing) for downforce optimization at 200+ km/h."
+  ],
+  "estetica": [
+    "Carbon-fiber widebody kit (992 RSR EVO-specific by TechArt) with integrated NACA ducts for brake cooling, featuring a 50mm extended rear fender flares and a 30mm front lip extension for aerodynamic balance.",
+    "Full carbon-fiber rear wing (Porsche Motorsport 992 RSR EVO-spec) with a 1,200mm span, adjustable angle of attack (0-12 degrees), and integrated Gurney flap (30mm) for high-speed stability, paired with a carbon-fiber diffuser (Manthey Racing) with vortex generators.",
+    "Lightweight magnesium wheels (BBS FI20, 18x13 front/18x15 rear) wrapped in Michelin Pilot Sport Cup 2 R tires (30/68-18 front, 31/71-18 rear) with a custom TPMS system (Schrader TPMS) for real-time pressure monitoring, finished with titanium wheel bolts (H&R)."
+  ]
+}

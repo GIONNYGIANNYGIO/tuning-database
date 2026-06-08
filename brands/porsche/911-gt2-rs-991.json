@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "911 GT2 RS 991",
+  "prestazioni": [
+    "Engine: 3.8L twin-turbocharged flat-six (MA1.76) with a custom Motec M150 ECU reflash targeting 850+ hp via upgraded fuel system (Bosch Motorsport 1000cc injectors, AEM 400LPH fuel pump) and Garrett GTX5533R Gen II turbos with billet compressor wheels and 1.15 A/R turbine housings, paired with a custom TiAL MV-R 44mm wastegate setup for precise boost control at 2.2 bar peak pressure.",
+    "Drivetrain: Reinforced 7-speed PDK transmission with a Guard Industries limited-slip differential (LSD) featuring a 45% lockup under power, upgraded Sachs Performance dual-disc clutch (380mm) with cerametallic friction material, and a Guard carbon fiber driveshaft to reduce rotational mass by 40%.",
+    "Suspension/Handling: Öhlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression), custom 24mm front and 28mm rear anti-roll bars by H&R, and a full Porsche Motorsport GT3-spec front subframe reinforcement kit with billet aluminum control arms and spherical bearings for zero compliance."
+  ],
+  "estetica": [
+    "Aerodynamics: RWB (Rauh-Welt Begriff) 991 GT2 RS-specific widebody kit with carbon fiber overfenders, custom front splitter with integrated dive planes, and a 991.2 GT3 RS-style ducktail spoiler modified with a 3D-printed Gurney flap for +150kg downforce at 200 km/h. Rear diffuser by 9ff with active cooling vents for the rear brakes.",
+    "Exterior: Full vinyl wrap in Porsche GT Silver Metallic with a satin clear coat, custom BBS FI-R 20x12.5 ET40 (front) and 21x13.5 ET45 (rear) wheels in gold finish with titanium hardware, and a custom carbon fiber hood with NACA ducts for direct intercooler airflow, sourced from TechArt.",
+    "Interior: Full carbon fiber weave interior by Porsche Exclusive Manufaktur, including door cards, center console, and dashboard trim. Recaro Pole Position bucket seats with Schroth 6-point harnesses, a custom roll cage by Matter Fab (TIG-welded 4130 chromoly) with integrated fire suppression system (Lifeline Zero 360), and a Motec C127 dash logger replacing the stock instrument cluster."
+  ]
+}

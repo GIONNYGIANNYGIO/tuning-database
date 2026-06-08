@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "911 GT3 RS MR MANTHEY",
+  "prestazioni": [
+    "Engine: 4.0L NA flat-six (9A2 Evo, 992.2 generation) with Manthey Racing-specific titanium intake valves (10.5mm stem) and sodium-filled exhaust valves (9.5mm stem) to reduce reciprocating mass by 12% while maintaining 9,000 RPM redline capability. Pair with a Manthey Racing carbon fiber airbox (part #992.040.200.00) featuring a 90mm velocity stack and integrated IAT sensor relocation for optimized airflow at high RPM.",
+    "Exhaust: Akrapovič Evolution Line Titanium full system (part #POR-1922-0500) with 85mm diameter center sections, 304-grade stainless steel headers (1.8mm wall thickness), and a quad-brushed titanium tip setup. The system is 18% lighter than OEM and includes a Manthey Racing-developed ECU flash (MR-992-GT3RS-001) to recalibrate the 9A2 Evo’s torque curve for a 500 RPM earlier peak (7,500 RPM) while maintaining 525 HP and 343 lb-ft of torque.",
+    "Suspension: Manthey Racing MRX coilover kit (part #992.344.000.00) with 3-way adjustable Öhlins TTX46 dampers (24-click rebound, 22-click compression, 12-click high-speed compression), 800 lb/in front springs, and 1,000 lb/in rear springs. Includes Manthey-specific front camber plates (-3.5° static camber) and rear adjustable toe links (0.1° toe-in) for Nürburgring Nordschleife optimization. Pair with a Manthey Racing front strut brace (part #992.341.001.00) in 7075-T6 aluminum with integrated brake cooling ducts."
+  ],
+  "estetica": [
+    "Aerodynamics: Manthey Racing MR GT3 RS aero package (part #992.044.200.00) featuring a 3D-printed carbon fiber front splitter with 45mm adjustable dive planes (tested in Porsche’s Weissach wind tunnel to generate 120kg of downforce at 200 km/h), a rear diffuser with Gurney flap (20mm height), and a 1,800mm wide rear wing with dual-element design (30% more efficient than OEM). Includes a Manthey Racing carbon fiber underbody panel (part #992.044.201.00) with integrated NACA ducts for differential cooling.",
+    "Wheels: BBS FI-R II forged magnesium wheels (9x20 ET40 front, 12.5x21 ET50 rear) with center-lock titanium nuts (part #BBS-992-GT3RS-MR) and Michelin Pilot Sport Cup 2 R tires (275/30 R20 front, 335/30 R21 rear). The wheels are 22% lighter than OEM and feature a Manthey Racing-specific offset to accommodate the MRX coilovers without fender modification.",
+    "Exterior: Manthey Racing MR carbon fiber widebody kit (part #992.042.200.00) with front fenders extended by 30mm and rear quarter panels by 40mm to house the BBS wheels. Includes a carbon fiber hood with a 100mm central vent (part #992.042.201.00) for engine bay heat extraction and a rear bumper with integrated carbon fiber diffuser fins (part #992.042.202.00). Finish in Porsche GT3 RS Lava Orange with Manthey Racing ‘MR’ decals in matte black (part #992.080.200.00)."
+  ]
+}

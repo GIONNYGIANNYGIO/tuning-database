@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "911 GT3 RS 992",
+  "prestazioni": [
+    "Engine: 4.0L NA flat-six (9A2 Evo, 525 PS stock) – full titanium Akrapović Evolution Line Titanium exhaust system with carbon fiber tips, featuring a 4-2-1 header design and electronically controlled butterfly valves for optimized backpressure and 12-15 HP gain at 8,500 RPM",
+    "Forced induction: TTE720 turbo kit (twin-scroll Garrett GTX5533R Gen II turbos, 1.15 A/R turbine housings, billet compressor wheels, and 44mm wastegates) with custom 9A2-specific intake manifold and Bosch Motorsport 2,200cc injectors, targeting 750 WHP on 98 RON fuel with Motec M150 ECU recalibration",
+    "Suspension: Öhlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression), paired with GT3 RS-specific T4S spherical bearing top mounts and 10mm front/15mm rear adjustable camber plates for track alignment (-3.5° front, -2.8° rear)"
+  ],
+  "estetica": [
+    "Aerodynamics: 992 GT3 RS-specific RWB (Rauh-Welt Begriff) widebody kit with carbon fiber fenders (25mm front, 40mm rear), custom vented hood, and a 3D-printed titanium rear diffuser with integrated Gurney flap for -0.15 Cd improvement",
+    "Wheels: HRE FF16 flow-formed forged wheels (20x12J +25 front, 21x13.5J +35 rear) in matte gold finish, wrapped in Michelin Pilot Sport Cup 2 R tires (305/30 R20 front, 325/30 R21 rear) with custom tire lettering in Porsche GT Silver",
+    "Interior: Full carbon fiber Recaro Pole Position bucket seats (FIA 8862-2009 certified) with Schroth 6-point harnesses, Alcantara-wrapped MOMO Prototipo steering wheel (380mm diameter, suede grip), and a custom Motec C127 dash display replacing the stock instrument cluster"
+  ]
+}

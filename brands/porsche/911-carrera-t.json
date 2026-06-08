@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "911 CARRERA T",
+  "prestazioni": [
+    "Engine: 3.0L twin-turbocharged flat-six (9A2 Evo, MA1.71/MA1.72) with a custom ECU flash from SharkWerks targeting 480 HP and 460 lb-ft torque via optimized boost curves (1.4 bar peak) and revised ignition timing maps, paired with a Milltek Sport 304 stainless steel cat-back exhaust featuring 80mm dual outlets and resonated center section for aggressive yet refined tone",
+    "Forced induction: Hybrid turbo upgrade using Garrett GT2867R billet compressor wheels (62mm inducer, 71mm exducer) with custom billet compressor housings (0.82 A/R) and upgraded wastegates (Tial 44mm) to eliminate lag while maintaining OEM-like drivability, supported by a CSF aluminum radiator and dual-row intercooler (7.5\" core thickness) with silicone couplers from Vibrant Performance",
+    "Suspension: Öhlins Road & Track DFV coilovers (911-specific valving) with 8-position adjustable compression/rebound damping, custom spring rates (12kg/mm front, 16kg/mm rear), and adjustable top mounts for camber/caster fine-tuning, paired with Tarett Engineering spherical bearing front control arms and rear toe links for razor-sharp turn-in, plus a 20mm front/15mm rear H&R lowering kit for optimal ride height"
+  ],
+  "estetica": [
+    "Aerodynamics: TechArt GTstreet R front splitter with integrated carbon dive planes (911.2-specific design) and rear diffuser from 911R, combined with a custom GT3-style ducktail spoiler (carbon fiber, 3D-scanned for perfect fitment) and side skirts from the 911 Sport Classic for aggressive stance without compromising daily usability",
+    "Wheels: BBS FI-R 9x20\" ET51 front / 11.5x20\" ET61 rear (911 T-specific offsets) in matte black with brushed lip, wrapped in Michelin Pilot Sport Cup 2 R tires (245/30/20 front, 305/30/20 rear) for maximum mechanical grip, paired with Porsche PCCB carbon-ceramic brakes (410mm front, 390mm rear) with yellow calipers and custom ceramic-coated rotors for fade resistance",
+    "Exterior: Full vinyl wrap in Porsche GT3 Touring Graphite Blue (custom mixed by Avery Dennison) with matte clear coat, dechromed trim (replaced with black anodized aluminum from Vorsteiner), and custom LED taillights from LUX Lighting with sequential turn signals and smoked lenses, plus a carbon fiber roof from 911R for weight reduction and visual contrast"
+  ]
+}

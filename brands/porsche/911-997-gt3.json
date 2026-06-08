@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "911 997 GT3",
+  "prestazioni": [
+    "Engine: 3.8L Mezger M97/76 (997.1 GT3) or 3.8L Mezger M97/77 (997.2 GT3) with a custom titanium connecting rod upgrade from **Pauter Machine** (220g lighter than stock, 850+ hp capable) paired with **JE Pistons** forged 12.5:1 compression ratio slugs (99mm bore, custom skirt coating for reduced friction).",
+    "Forced Induction: **Turbonetics GT-K 6265** turbocharger (65mm inducer, 76mm exducer) with a **Tial MV-R 50mm** external wastegate (set to 1.5 bar peak boost) and **GReddy Type-RS** front-mount intercooler (4.5\" core, 1000hp-rated). Custom **V-band** exhaust manifold by **FabSpeed Motorsport** with 321 stainless steel runners and **Inconel** wastegate dump tubes.",
+    "Fuel & Ignition: **Bosch Motorsport 0261500360** 1000cc/min port injectors (supplemented by **AEM 340lph** in-tank pump) with **Motec M150 ECU** standalone management (custom 4D ignition and fuel maps). **NGK IFR8A-11** iridium spark plugs gapped at 0.022\" with **MSD 8510** capacitive discharge ignition system for sub-1ms coil saturation."
+  ],
+  "estetica": [
+    "Aerodynamics: **9ff GTronic** widebody conversion kit (997.2 GT3-specific, 50mm rear fender flares) with **Vorsteiner V-FF107** carbon fiber front splitter (3D-scanned for OEM+ fitment) and **RWB-style** custom **KW Suspensions** GT3-spec overfenders (hand-rolled aluminum, 30mm wider track).",
+    "Wheels & Tires: **BBS LM-R** 19x11 ET40 front / 19x12 ET45 rear (997 GT3-specific offsets) with **Michelin Pilot Sport Cup 2 R** tires (295/30/19 front, 325/30/19 rear). **HRE P101** center-lock adapters (converted from OEM lug bolts) with **ARP 2000** studs (14x1.5 thread pitch).",
+    "Interior & Details: **Recaro Pole Position II** carbon-Kevlar seats (997 GT3-specific shell, 1.2kg lighter than OEM) with **Schroth Profi II-6** 6-point harnesses. **MOMO Mod.70** flat-bottom steering wheel (380mm diameter, Alcantara with **Porsche GT3 RS** stitch pattern) and **Aim Solo 2 DL** data logger mounted via **Crawford Performance** carbon fiber dash pod."
+  ]
+}

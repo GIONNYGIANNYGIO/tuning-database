@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "911 996 GT3 R",
+  "prestazioni": [
+    "Engine: M96/77 (3.6L flat-six, 415 HP stock) – Full race-spec rebuild with forged Mahle Motorsport pistons (9.5:1 CR), Carrillo H-beam connecting rods, and a billet crankshaft from JE Pistons for 9,000 RPM reliability. Pair with a custom GT3R-specific Schrick 292° camshaft kit for optimized high-RPM breathing.",
+    "Forced Induction: Single-turbo conversion using a Garrett GTX4202R (86mm compressor, 76mm turbine) with a custom 3.5-inch titanium downpipe and a Tial MV-R 44mm external wastegate, mated to a GReddy intercooler core (600x300x80mm) and a custom aluminum intake manifold with Bosch 1,000cc injectors. Target: 650 WHP on E85 with a Motec M150 ECU managing boost via a closed-loop AEM X-Series wideband.",
+    "Drivetrain: 6-speed GT3R dog-ring gearbox with a Guard Transmission LSD (85% lock) and a Sachs Performance twin-disc clutch (240mm, 800 Nm capacity). Replace the stock halfshafts with GKN Motorsport CV joints and a Quaife ATB differential for endurance racing. Pair with a Tilton 7.25-inch flywheel for quicker rev matching."
+  ],
+  "estetica": [
+    "Aerodynamics: Full GT3R-spec carbon fiber aero kit from 9ff, including a 996.2 GT3 front splitter with dive planes, a GT3R rear diffuser with integrated brake ducts, and a 996 GT1-style rear wing (1,800mm width, 300mm chord) with adjustable carbon fiber endplates. Add a custom 996 GT3 Cup-style roof scoop for intercooler airflow.",
+    "Body: Full carbon fiber widebody conversion using a RWB-inspired 9ff GT3R kit (50mm flares front/rear) with custom carbon fiber doors and a 996 GT3 Cup-style rear bumper. Paint: Porsche GT3R Viper Green (996.2 GT3R factory color) with matte black 9ff GT3R side skirts and a clear-bra PPF wrap on the front bumper.",
+    "Wheels & Brakes: BBS FI-R 18x11 ET40 (front) and 18x12 ET45 (rear) with custom center-lock adapters, wrapped in Michelin Pilot Sport Cup 2 tires (285/35/18 front, 335/30/18 rear). Brake system: AP Racing 6-piston calipers (380mm front rotors) and 4-piston calipers (355mm rear rotors) with Ferodo DS3.12 pads and custom braided stainless steel lines."
+  ]
+}

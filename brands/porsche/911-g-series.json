@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "911 G SERIES",
+  "prestazioni": [
+    "Engine: 3.2L Type 930/20 (911 Carrera) with forged Mahle pistons (87.5mm bore, 9.5:1 CR), Carrillo H-beam connecting rods, and a custom Schrick 284° camshaft grind for optimized mid-range torque (peak 230 lb-ft at 4,800 RPM) while retaining drivability. Pair with a K&N E-1550 high-flow air filter and a custom 3.5\" stainless steel velocity stack setup for improved throttle response.",
+    "Forced Induction: Precision Turbo PT6266 CEA turbocharger (62mm inducer, 66mm exducer) with a custom Tial MV-R 44mm wastegate and a GReddy Type-S intercooler (core dimensions: 24\" x 6\" x 3.5\"). Supporting mods include a custom 3\" stainless steel turbo-back exhaust with a Vibrant 1799 resonator and a MagnaFlow 2.5\" muffler for optimized spool and backpressure management.",
+    "Drivetrain & Suspension: Quaife ATB differential (80% lockup) paired with a Guard Transmission 930/30 short shifter (25% reduction in throw). Suspension features Bilstein B16 PSS10 coilovers (adjustable damping, 40mm drop) with Eibach 22mm front and 24mm rear sway bars. Chassis reinforcement via a Tarett Engineering strut tower brace and a custom 935-style rear semi-stressed member for improved rigidity."
+  ],
+  "estetica": [
+    "Body: RWB (Rauh-Welt Begriff) \"Kawasaki\" widebody kit (hand-rolled fenders, 100mm front/120mm rear flares) with custom carbon fiber front splitter (935-style) and a GT3-spec rear wing (20mm taller than stock, 3° adjustable angle). Paint: Porsche Iris Blue (L94K) with a custom matte clear coat for a stealth OEM+ look.",
+    "Wheels: BBS RS-GT II (17x9 +20 front, 17x11 +25 rear) with custom gold centers and polished lips, wrapped in Michelin Pilot Sport Cup 2 tires (235/40/17 front, 285/35/17 rear). Brake system: Porsche 930 Turbo calipers (4-piston) with drilled/slotted 320mm rotors (front) and 300mm (rear), paired with Ferodo DS2500 pads for track use.",
+    "Interior: Recaro SRD Evo II seats (935-style, carbon fiber backs) with Schroth Profi II 4-point harnesses. Steering wheel: Nardi 380mm Classic (wood rim) with a custom Porsche crest horn button. Gauges: Stack ST8100 digital dash (boost, oil temp, wideband AFR) mounted in a custom aluminum pod, replacing the clock. Shift knob: Guard Industries 930/30 titanium shift knob with a custom leather boot."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "911 CARRERA RSR 3.0",
+  "prestazioni": [
+    "Engine: Type 911/75 (3.0L flat-six, air-cooled, 90mm bore x 70.4mm stroke) with Mahle forged pistons (9.8:1 compression), titanium connecting rods (Porsche 917-derived), and a custom-built Kugelfischer mechanical fuel injection system (replacing the original Bosch unit) for 380+ HP at 8,000 RPM with 100-octane race fuel.",
+    "Forced induction: Single Garrett T04B turbocharger (P/N 451080-1) with a custom 3.5-bar wastegate (Tial MV-R) and an air-to-water intercooler (Spearco 6000-series core) mounted in the front trunk, reducing intake temps by 40°C under full boost (0.8 bar).",
+    "Suspension: Bilstein B16 PSS10 coilovers (911 RSR-specific valving) with spherical bearing top mounts (Tarett Engineering), 24mm front / 28mm rear adjustable anti-roll bars (H&R), and rose-jointed front control arms (Elephant Racing) for camber adjustment to -3.5° front / -2.8° rear."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon fiber widebody kit (935-style fenders, RSR rear ducktail) by RWB Japan (Porsche 911 RSR 3.0-specific mold), with a 3D-printed front splitter (AeroTech Designs) generating 120kg downforce at 200 km/h.",
+    "Wheels: BBS RS II (15x11 front, 15x14 rear) with magnesium centers, wrapped in Pirelli P7 Corsa tires (275/620-15 front, 325/620-15 rear) and secured by titanium lug nuts (ARP 300-8701).",
+    "Interior: Full FIA-spec roll cage (Schroth 6-point harnesses, OMP HTE-R seats with carbon-Kevlar shell), Motec C125 dash logger (replacing the original VDO gauges), and a custom fire suppression system (Lifeline Zero 360) with plumbed nozzles in the engine bay and cockpit."
+  ]
+}

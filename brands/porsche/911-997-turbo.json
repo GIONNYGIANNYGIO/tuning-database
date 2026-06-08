@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "911 997 TURBO",
+  "prestazioni": [
+    "Engine: ME7.8.1 ECU flash via Cobb Accessport with custom Stage 2+ tune targeting 650whp on E85, optimizing the M97/70 (3.8L) twin-turbo flat-six with upgraded fueling (Bosch 750cc injectors, Walbro 450LPH in-tank pump) and ignition (NGK 97506 Iridium plugs gapped at 0.024\").",
+    "Turbochargers: Hybrid Garrett GTX3582R Gen II turbos with billet compressor wheels (62mm inducer, 82mm exducer), custom 0.82 A/R turbine housings, and TiAL MV-R 44mm wastegates set to 24psi peak boost with 30psi transient spikes via AMS Performance boost controller.",
+    "Drivetrain: Guard Transmission 6-speed short shifter with carbon-fiber shift knob, OS Giken Super Lock LSD (2.4-way), and FVD single-mass flywheel paired with Sachs Performance Stage 3 clutch (400Nm torque capacity) for the G96/90 gearbox."
+  ],
+  "estetica": [
+    "Aero: RWB (Rauh-Welt Begriff) 997 Turbo widebody kit with custom front canards (carbon-fiber, 3D-scanned for OEM+ fitment), rear diffuser by 9ff, and a GT3-spec carbon-fiber rear wing with adjustable angle (0-12 degrees) and integrated third brake light.",
+    "Wheels: HRE FF01 19x10.5 +25 front / 19x12.5 +30 rear in matte bronze, wrapped in Michelin Pilot Sport Cup 2 R tires (265/35/19 front, 325/30/19 rear) with TPMS sensors from VDO.",
+    "Exterior: Full respray in Porsche GT3 RS 4.0 Lava Orange with matte clear coat, OEM-style side markers deleted and replaced with LED strips (Lux H8 V4), and custom carbon-fiber mirror caps from 997R Carbon."
+  ]
+}

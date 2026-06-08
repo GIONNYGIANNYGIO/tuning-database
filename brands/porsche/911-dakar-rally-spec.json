@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "911 DAKAR RALLY SPEC",
+  "prestazioni": [
+    "Engine: 3.0L twin-turbocharged flat-six (9A2 E30/1) with a custom Manthey Racing Stage 3+ ECU remap, targeting 550+ hp at 7,200 RPM and 500 lb-ft of torque at 3,500 RPM, utilizing a bespoke Motec M150 ECU for real-time data logging and adaptive boost control (1.6 bar peak boost) with a Garrett GTX4202R turbocharger upgrade and billet compressor wheel for reduced lag",
+    "Suspension: Ohlins TTX46 2-way adjustable coilovers with 50mm remote reservoirs, custom valving for gravel rally compliance, and 100mm of additional ride height (total 220mm ground clearance), paired with Manthey Racing spherical bearing control arms and adjustable toe links for aggressive camber settings (-3.5° front, -2.8° rear)",
+    "Drivetrain: Quaife ATB helical LSD in the front and rear differentials (992.2-spec), reinforced with a Guard Transmission 7-speed PDK gearbox reinforcement plate and a Tilton triple-plate carbon clutch for 20% increased torque capacity, alongside a custom 40% front / 60% rear torque split via Porsche’s Sport Chrono PDK tuning for gravel stages"
+  ],
+  "estetica": [
+    "Exterior: Full carbon fiber widebody conversion using a 992 Dakar-specific TechArt GTstreet Aero Kit, including extended fenders (50mm front, 70mm rear), a vented carbon hood with NACA ducts for intercooler cooling, and a rally-spec underbody protection plate (Genuine Porsche 953 Dakar-inspired aluminum skid plate with integrated tow hooks)",
+    "Lighting: Hella Rallye 4000 Compact LED spotlights (4x) mounted on a custom aluminum roof rack with integrated GPS antenna (Garmin Overlander), paired with PIAA LP570 fog lights in carbon fiber housings and a Lazer Triple-R 1000 LED light bar for high-speed gravel sections",
+    "Interior: Full Recaro Pole Position CS-II carbon fiber bucket seats with Schroth Profi II 6-point harnesses, a custom roll cage (Manthey Racing 992-spec FIA-compliant with integrated fire suppression system), and a Motec C127 dash logger with GPS lap timer, replacing the stock instrument cluster for real-time rally telemetry"
+  ]
+}

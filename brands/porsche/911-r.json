@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "911 R",
+  "prestazioni": [
+    "Engine: 9A2 Evo (MA1.72) 4.0L naturally aspirated flat-six with titanium connecting rods (Porsche Motorsport spec), upgraded to 450hp at 8,500 RPM via a Manthey Racing MR200 ECU remap with custom ignition timing maps optimized for 102-octane race fuel, paired with a lightweight carbon fiber intake manifold (Weissach package-derived) and a custom Akrapovič Evolution Line Titanium exhaust system with 80mm dual outlets and electronically controlled bypass valves for track-day compliance",
+    "Suspension: Öhlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression), custom valving for the 911 R’s 1,370kg weight, paired with Tarett Engineering spherical bearing front control arms and rear toe links to eliminate compliance, alongside a Manthey Racing front strut brace (aluminum, 3-point) and a GT3-spec rear monoball subframe reinforcement plate",
+    "Drivetrain: Porsche Motorsport 911 R-specific limited-slip differential (mechanical, 40% lock under power, 60% under deceleration) with upgraded carbon fiber clutch (Sachs Performance 3-plate, 800Nm capacity) and a lightweight single-mass flywheel (Porsche GT3 Cup spec), mated to a short-shift kit (Tarret Engineering) with a 25% reduction in throw and a custom billet aluminum shift knob (911 R-exclusive design by 991R Design)"
+  ],
+  "estetica": [
+    "Exterior: Full carbon fiber body kit by RWB (Rauh-Welt Begriff) ‘Kouki’ widebody conversion, retaining the 911 R’s original aluminum hood and magnesium roof, with custom front splitter (991 GT3 RS-derived, 3D-printed carbon fiber) and a ducktail spoiler (Porsche Motorsport 911 RSR-style, adjustable angle via quick-release mounts)",
+    "Wheels: HRE FF16 flow-formed forged wheels (19x9.5 ET46 front, 19x12 ET51 rear) in matte gold finish, wrapped in Michelin Pilot Sport Cup 2 R tires (245/35/19 front, 305/30/19 rear) with custom ‘911 R’ laser-engraved center caps (by HRE Performance Wheels)",
+    "Interior: Full Alcantara retrim by Porsche Exclusive Manufaktur, including door cards, dashboard, and bucket seats (918 Spyder-style, carbon fiber shells with red stitching), paired with a custom roll cage (Manthey Racing bolt-in, TIG-welded 4130 chromoly) painted in ‘Gulf Blue’ with Alcantara-wrapped crossbars, and a Motec C127 dash logger replacing the stock instrument cluster"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "911 992 GT3",
+  "prestazioni": [
+    "Engine: 4.0L NA flat-six (engine code: 9A2 Evo) with a custom Manthey Racing MRX-01 ECU remap targeting 550+ hp (stock: 502 hp) via optimized ignition timing, revised cam profiles, and fuel pressure adjustments for 99 RON fuel, paired with a titanium Akrapović Evolution Line Titanium exhaust system featuring 4-2-1 headers and a straight-pipe center section to reduce backpressure by 18%",
+    "Suspension: Öhlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression), custom valving for the 992 GT3’s rear-wheel steering system, and Manthey Racing’s GT3-specific front and rear sway bars (24mm front, 22mm rear) with adjustable blade positions for track-focused roll stiffness",
+    "Forced Induction (Hybrid Option): Rotrex C38-91 supercharger kit with a custom intercooler setup (PWR Australia 4.5L core) and a bespoke intake manifold designed by TechArt, pushing the 9A2 Evo to 650+ hp while retaining the stock throttle body and direct injection system, paired with a Motec M150 ECU for boost-by-gear mapping and anti-lag strategies"
+  ],
+  "estetica": [
+    "Aerodynamics: Manthey Racing MRX GT3 aero package including a carbon fiber front splitter with adjustable dive planes, a 992 GT3-specific rear diffuser with Gurney flap, and a fixed carbon fiber rear wing (1,200mm width) with dual-element design and 3D-printed endplates for optimized downforce (estimated +200kg at 200 km/h)",
+    "Body: TechArt GTstreet R body kit featuring carbon fiber front fenders with integrated cooling ducts for the 9A2 Evo’s oil cooler, a carbon fiber hood with a central NACA duct for brake cooling, and a rear bumper with a diffuser extension and integrated titanium exhaust outlets (replacing the stock dual exits)",
+    "Wheels: HRE FF16 flow-formed wheels in 9.5x20 ET40 (front) and 12.5x20 ET50 (rear) with custom offsets to clear the GT3’s rear-wheel steering, wrapped in Michelin Pilot Sport Cup 2 R tires (275/30 front, 345/30 rear) and paired with Brembo GT 6-piston front and 4-piston rear calipers with 410mm (front) and 390mm (rear) carbon-ceramic rotors"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "911 993 TURBO",
+  "prestazioni": [
+    "Engine: M64/60 twin-turbo (3.6L flat-six) with a billet crankshaft from **9ff** (forged 4340 steel, 86mm stroke) and **Mahle Motorsport** forged pistons (87mm bore, 9.5:1 compression) paired with **Carrillo** H-beam connecting rods (6.000\" length, ARP2000 bolts).",
+    "Turbocharger upgrade: **Garrett GT35R** ball-bearing turbos (0.82 A/R turbine housing, 62mm compressor wheel) with **Tial MV-R 44mm** external wastegates (set to 1.5 bar peak boost) and **TurboSmart** Race Port blow-off valves. Intercooling via **Spearco** front-mount intercooler (800cfm core, 3.5\" inlet/out.5\" outlet) with **Vibrant Performance** silicone couplers and **ATI** billet aluminum intercooler end tanks.",
+    "Fuel & Ignition: **Bosch Motorsport 044** high-flow fuel pump (340 LPH) feeding **ID1000** injectors (1000cc/min) with **AEM** 340LPH in-tank pump backup. **Motec M150** standalone ECU (993 Turbo-specific firmware) controlling **MSD 6AL-2** ignition amplifier and **NGK** R7437-9 racing plugs (0.024\" gap). **Radium Engineering** fuel surge tank (2L capacity) with dual **Walbro 450 LPH** pumps for sustained lateral G-forces."
+  ],
+  "estetica": [
+    "Widebody conversion: **RWB (Rauh-Welt Begriff) \"Pandam\"** kit (993-specific, 60mm rear fender flares, 40mm front) with **custom carbon fiber** overfenders (pre-preg autoclave, 2x2 twill weave) and **Porsche GT2** rear bumper reinforcement (aluminum, 3mm thickness).",
+    "Aerodynamics: **TechArt GTstreet RS** front splitter (carbon fiber, 3-piece adjustable) with **993 GT2** rear wing (aluminum, 1200mm span, 30mm Gurney flap) and **Vorsteiner** carbon fiber side skirts (993-specific, 50mm lower than OEM). **H&R** Sport Spring Kit (-30mm front, -25mm rear) with **Bilstein PSS10** coilovers (32-way damping adjustment, 8kg/mm front/10kg/mm rear springs).",
+    "Wheels & Brakes: **BBS LM-R** 3-piece wheels (9.5x18 ET15 front, 12x18 ET30 rear) with **Michelin Pilot Sport Cup 2** tires (235/40/18 front, 295/30/18 rear). **Porsche 993 GT2** big brake kit (380mm front rotors, 4-piston calipers) with **Ferodo DS3000** pads and **Goodridge** braided stainless steel lines. **AP Racing** CP8646-2000 rear calipers (6-piston, 355mm rotors) for balanced bias."
+  ]
+}

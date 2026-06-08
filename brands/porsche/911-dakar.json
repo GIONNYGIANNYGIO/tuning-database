@@ -1,0 +1,15 @@
+{
+  "brand": "PORSCHE",
+  "model": "911 DAKAR",
+  "prestazioni": [
+    "Engine: 3.0L twin-turbo flat-six (9A2 E30/1, derived from 992.2 GT3 RS) with a custom Magnuson TVS2650 supercharger kit (8.5 psi boost) paired with a Pankl-forged crankshaft (8000 rpm redline) and Mahle Motorsport forged pistons (10.5:1 compression). Fuel system upgraded to a full Radium Engineering port-injection setup with dual 450 LPH Bosch Motorsport pumps and ID1700x injectors for E85 compatibility.",
+    "Drivetrain: 992.2 GT3 RS-derived 8-speed PDK (code: 9A2.D1) with a Wavetrac ATB differential (90% lock) and a custom Quaife QBE60G helical LSD for the front axle. Clutch upgraded to a Sachs Performance twin-disc unit (400 Nm torque capacity) with a lightweight aluminum flywheel (12.5 lbs).",
+    "Suspension & Chassis: Full Öhlins TTX46 coilovers with 3-way adjustable damping (24-position rebound, 22-position compression, 12-click high/low-speed compression) and 50mm remote reservoirs. Front and rear sway bars replaced with H&R Motorsport adjustable units (25mm front, 22mm rear). Chassis reinforcement via a T45 steel roll cage (FIA-spec, TIG-welded) from Matter Motorsport, paired with a custom aluminum skid plate (5mm thick) from 9ff for underbody protection.",
+    "Exhaust: Akrapović Evolution Line Titanium full-system (3.5-inch diameter, 4-2-1 merge collectors) with a secondary cat delete and a custom X-pipe resonator for aggressive flat-six acoustics. Backpressure optimized for 650+ WHP via a custom ECU tune from Sharkwerks (9A2-specific, Stage 3+ with launch control and flat-foot shifting)."
+  ],
+  "estetica": [
+    "Widebody Conversion: Custom RWB-inspired fender flares (hand-rolled 1.2mm aluminum) extending the front track by 60mm and rear by 80mm, paired with a Rocket Bunny V3-inspired front splitter (carbon fiber, 3D-printed endplates) and a custom rear diffuser from 9ff (carbon-Kevlar hybrid, 3-stage Gurney flaps).",
+    "Aero & Lightweighting: Full carbon fiber roof panel (12.5 lbs weight savings) from Porsche Motorsport (992 GT3 RS-spec) with a custom roof scoop (functional, feeding the Magnuson supercharger). Side skirts replaced with 9ff carbon fiber units (integrated LED turn signals) and a custom rear wing (dual-element, 3D-printed titanium endplates) from TechArt (adjustable angle: 0-20 degrees).",
+    "Wheels & Stance: Custom BBS FI-R wheels (9.5x20 ET25 front, 12.5x20 ET15 rear) with titanium hardware (1.5 lbs per wheel savings) and Michelin Pilot Sport Cup 2 R tires (275/30/20 front, 335/25/20 rear). Ride height set to 50mm static (Öhlins adjustable) with a 15mm front camber gain via custom spherical bearing control arms from Manthey Racing."
+  ]
+}

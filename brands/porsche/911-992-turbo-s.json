@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "911 992 TURBO S",
+  "prestazioni": [
+    "Engine: 3.8L twin-turbocharged flat-six (engine code: MA1.71/MA1.72) upgraded with a **TTE720** turbocharger kit (Garrett GTX5533R turbos, billet compressor wheels, 3D-printed titanium turbine housings) paired with **Motec M150 ECU** for full flex-fuel E85 mapping, supporting 800+ HP at 2.2 bar boost with **ARP Custom 625+ head studs** and **Mahle Motorsport forged pistons** (9.5:1 compression ratio).",
+    "Exhaust: **Akrapovič Evolution Line Titanium** full-system (4.5\" diameter, 1.2mm wall thickness, Inconel 625 headers) with **REMUS Valve Delete X-Pipe** and **BMC Performance Air Filters** (high-flow cotton gauze, +30% airflow over stock).",
+    "Drivetrain: **Porsche PDK 9-speed transmission** reinforced with **Guard Transmission Mounts (80A polyurethane)** and **OS Giken Super Lock LSD** (2.5-way mechanical, 45% preload). **AP Racing 6-piston front/4-piston rear CC5200 calipers** with **Pagid RS29** pads and **Brembo T3 410mm front/390mm rear rotors** (2-piece floating, slotted)."
+  ],
+  "estetica": [
+    "**RWB (Rauh-Welt Begriff) 992 Widebody Kit** (custom-fabricated, 50mm front/70mm rear fender flares, carbon fiber overfenders) with **Vorsteiner V-FF107 20\" forged wheels** (9.5x20 ET40 front, 12.5x20 ET30 rear, matte gunmetal finish) and **Michelin Pilot Sport Cup 2 R** tires (265/30/20 front, 325/25/20 rear).",
+    "**992-specific Liberty Walk LB-WORKS GT Wing** (carbon fiber, 1,800mm width, 300mm height, adjustable angle via titanium hardware) paired with **Porsche Tequipment Carbon Fiber Front Lip** (extended 30mm, 3K twill weave) and **AWE Track Spec Rear Diffuser** (dual-layer carbon, aggressive 5-fin design).",
+    "**Interior: Recaro Pole Position SPG XL** seats (carbon shell, Alcantara/leather, 6-point Schroth Profi II harnesses) with **MOMO Mod.78 Steering Wheel** (380mm diameter, suede, quick-release hub) and **Motec C127 Dash Logger** (integrated with PDK shift lights, boost gauge, and oil temp). **Full Alcantara headliner** (custom-stitched, Porsche Classic Gray) with **Bose Surround Sound delete** (replaced with **Focal Utopia M 3-way components** and **JL Audio 12W7 subwoofer** in custom enclosure)."
+  ]
+}

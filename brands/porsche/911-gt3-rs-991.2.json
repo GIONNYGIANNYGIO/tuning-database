@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "911 GT3 RS 991.2",
+  "prestazioni": [
+    "Engine: 4.0L NA MA1.76 (9A2 Evo) with a Manthey Racing MRX-017 high-flow carbon intake system, replacing the OEM airbox for a 12% increase in airflow at 8,500 RPM, paired with a custom Akrapovič Evolution Line Titanium exhaust featuring 80mm diameter tubing and electronically controlled butterfly valves for optimized backpressure at 9,000 RPM redline",
+    "Drivetrain: Wavetrac limited-slip differential with a 40% lockup rate under load, mated to a single-mass flywheel from Tilton Engineering (6.5kg) and a Sachs Racing twin-disc clutch (240mm) with cerametallic friction material for 800Nm torque capacity, reducing rotational inertia by 18%",
+    "Suspension: Öhlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression), custom valved for the 991.2 GT3 RS’s front double-wishbone and rear multi-link geometry, paired with Manthey Racing’s MRX-019 adjustable front sway bar (24-28mm) and rear sway bar (22-26mm) for precise roll stiffness tuning on Nürburgring Nordschleife"
+  ],
+  "estetica": [
+    "Aerodynamics: 991.2 GT3 RS-specific RWB (Rauh-Welt Begriff) widebody kit with carbon fiber overfenders (30mm wider front, 40mm wider rear), custom front splitter with integrated canards, and a GT2-style rear wing with adjustable Gurney flap (0-15mm) and carbon fiber endplates for 120kg of downforce at 200km/h",
+    "Wheels: HRE FF16 flow-formed wheels in 9.5x20 ET40 (front) and 12.5x20 ET50 (rear), finished in Satin Black with titanium hardware, wrapped in Michelin Pilot Sport Cup 2 R tires (265/35/20 front, 325/30/20 rear) with custom compound tuning for 100°C track temperatures",
+    "Interior: Full carbon fiber weave Recaro Pole Position bucket seats (FIA 8862-2009 certified) with Schroth 6-point harnesses, a custom roll cage by VAC Motorsports (T45 steel, 4-point design with integrated harness bar), and a Motec C127 dash logger replacing the OEM instrument cluster for real-time telemetry (boost, oil temp, lap times, G-forces)"
+  ]
+}

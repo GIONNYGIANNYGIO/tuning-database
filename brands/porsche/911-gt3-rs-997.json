@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "911 GT3 RS 997",
+  "prestazioni": [
+    "Engine: 3.8L Mezger M97/79 flat-six (997.1 GT3 RS) or 4.0L Mezger M97/80 (997.2 GT3 RS 4.0) with a custom GT3 RS-specific KMS MD35 ECU remap, optimizing cam timing for 8,800 RPM redline (stock: 8,400 RPM) and increasing fuel pressure to 5.5 bar (stock: 5.0 bar) via an AEM 380LPH in-tank fuel pump and Injector Dynamics ID1050x injectors for E85 compatibility",
+    "Forced Induction: Single Garrett GTX3582R turbocharger with a custom 0.82 A/R titanium-aluminide turbine housing, paired with a Tial MV-R 44mm external wastegate and a custom 3.5-inch stainless steel downpipe merging into a GESI 304 stainless steel 76mm exhaust system with dual 100mm titanium tips, tuned for 1.2 bar of boost (stock: NA) and producing ~650whp on E85 with a custom air-to-water intercooler (PWR Advanced Cooling) and a Bosch 044 fuel pump",
+    "Suspension & Chassis: Full Ohlins TTX40 4-way adjustable coilovers with GT3 RS-specific valving, paired with a GT3 RS-specific Tarett Engineering front sway bar (24mm adjustable) and a rear sway bar (22mm adjustable), along with a GT3 RS-specific Cusco Type RS 8-point bolt-in roll cage (chromoly steel) and a GT3 RS-specific AP Racing CP8660 front brake kit (400mm discs, 6-piston calipers) with Ferodo DS3000 pads and Motul RBF660 brake fluid"
+  ],
+  "estetica": [
+    "Aerodynamics: Full 997 GT3 RS-specific RWB (Rauh-Welt Begriff) widebody kit (Kagotani Edition) with custom carbon fiber front splitter, rear diffuser, and GT wing (2,000mm width, 300mm chord, 3D-printed titanium endplates), paired with a GT3 RS-specific Vorsteiner V-FF 103 front lip and a custom 997.2 GT3 RS rear bumper with integrated diffuser (carbon fiber, 3D-scanned for OEM fitment)",
+    "Wheels & Tires: BBS FI-R 19x11 ET30 (front) and 19x12.5 ET35 (rear) forged wheels with custom center locks (PCD: 120, offset optimized for RWB fenders), wrapped in Michelin Pilot Sport Cup 2 R tires (285/30/19 front, 335/30/19 rear) with custom tire lettering (gold, Porsche script)",
+    "Exterior & Interior: Full GT3 RS-specific custom paint (Porsche GT3 RS Green with gold leaf accents, hand-brushed by Sikkens), paired with a GT3 RS-specific carbon fiber roof (Weissach package style, 997.2-spec) and a full GT3 RS-specific interior overhaul: Recaro Pole Position seats (carbon fiber shells, Alcantara/leather upholstery), a GT3 RS-specific MOMO Mod.78 steering wheel (suede, 350mm diameter), and a custom roll cage (Cusco) wrapped in Alcantara with gold stitching, matching the door cards and dashboard"
+  ]
+}

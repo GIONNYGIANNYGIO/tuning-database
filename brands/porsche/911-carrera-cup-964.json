@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "911 CARRERA CUP 964",
+  "prestazioni": [
+    "Engine: M64/03 (3.6L air-cooled flat-six) with a custom-built 964 Cup-spec crankshaft (forged steel, 76.4mm stroke) and Carrillo H-beam connecting rods (P/N: CR-64006) to handle 8,500 RPM reliably. Compression ratio increased to 12.5:1 via custom JE Pistons (P/N: 261850) with thermal barrier coatings for sustained high-load endurance racing.",
+    "Forced Induction: Single-turbo setup using a Garrett GT35R (P/N: 743340-5001S) with a custom 964 Cup-spec exhaust manifold (Tubi Style titanium headers, P/N: TS-964CUP-TI) and a GReddy Type-S intercooler (P/N: 12001001) mounted in the front bumper for optimal airflow. Boost controlled via a TurboSmart Hyper-Gate45 wastegate (P/N: TSG45) set to 1.5 bar (21.7 psi) for a target of 450whp on VP Racing C16 fuel (116 octane).",
+    "Drivetrain: 964 Cup-spec 6-speed G50/10 transmission with a Guard Industries limited-slip differential (P/N: 993.332.043.00) and a Sachs Racing clutch (P/N: 3000 956 001) with a lightweight aluminum flywheel (P/N: 964.302.031.00). Half-shafts upgraded to 964 Cup-spec (P/N: 964.332.501.00) with reinforced CV joints to handle increased torque."
+  ],
+  "estetica": [
+    "Body: Full 964 Carrera Cup IMSA-spec widebody conversion using authentic Porsche Motorsport fiberglass fenders (P/N: 964.501.021.00/964.501.022.00), front splitter (P/N: 964.501.011.00), and rear diffuser (P/N: 964.501.012.00). Painted in Porsche Motorsport Grand Prix White (P/N: 224) with Rothmans livery decals (P/N: 964-CUP-ROTHMANS) for period-correct IMSA aesthetics.",
+    "Aero: Custom 964 Cup-spec rear wing (P/N: 964.501.013.00) with adjustable carbon fiber endplates (P/N: 964.501.014.00) and a 964 Cup-spec front canard set (P/N: 964.501.015.00) for high-speed stability. Underbody diffusers from 9ff (P/N: 9FF-964-UNDER) to reduce lift by 30%.",
+    "Interior: Full 964 Cup-spec roll cage (P/N: 964.731.001.00) with integrated fire suppression system (Sparco Pro 2000, P/N: 00771NR) and Recaro Pole Position seats (P/N: 383200001) with Schroth 6-point harnesses (P/N: ASM2753R). Dashboard replaced with a Motorsport-spec digital display (P/N: 964.641.001.00) and a MOMO Prototipo steering wheel (P/N: 0111204113) for precise feedback."
+  ]
+}

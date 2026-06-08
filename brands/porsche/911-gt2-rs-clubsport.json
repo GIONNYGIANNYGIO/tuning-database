@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "911 GT2 RS CLUBSPORT",
+  "prestazioni": [
+    "Engine: 3.8L twin-turbocharged flat-six (ME7.8.1, internal code: 9A1.80) with a bespoke Manthey Racing Stage 2+ ECU reflash, targeting 800+ HP via upgraded fuel system (Bosch Motorsport 1,000cc injectors + Pierburg CWA 50 high-pressure fuel pump) and Garrett GTX5533R Gen II turbos with billet compressor wheels (76mm inducer, 106mm exducer) and TiAL MV-R 44mm wastegates for 2.2 bar peak boost on 102-octane race fuel (VP Racing C16).",
+    "Drivetrain: Reinforced 7-speed PDK (G99/90) with a Sachs Performance twin-disc carbon clutch (380mm diameter) and a Quaife ATB helical LSD (85% lock) paired with a Manthey Racing lightweight flywheel (4.5kg) to reduce rotational mass by 30%.",
+    "Suspension & Chassis: Öhlins TTX46 MkII 3-way adjustable coilovers with 24-position rebound/compression damping, Manthey Racing spherical bearing top mounts (front/rear), and a custom 4-way adjustable anti-roll bar kit (28mm front, 25mm rear) with adjustable blade positions. Chassis stiffening via a full WEC-spec roll cage (T45 steel, TIG-welded) by Kremer Racing, including front/rear strut tower braces and a bolt-in X-brace for the rear subframe."
+  ],
+  "estetica": [
+    "Aerodynamics: Manthey Racing GT2 RS Clubsport-specific aero package, including a carbon fiber front splitter with adjustable dive planes (3 positions), a 992-generation GT3-style rear wing with swan-neck mounts and 3D-printed Gurney flaps (adjustable 0-15mm), and a custom underbody diffuser with vortex generators (CFD-optimized for -1,200 kg downforce at 250 km/h).",
+    "Bodywork: Full carbon fiber body conversion (991.2 GT2 RS panels) with a Rocket Bunny V3 widebody kit (custom-fitted for the Clubsport), including extended fenders (50mm front, 60mm rear), a carbon fiber hood with dual NACA ducts (feeding the intercoolers), and a removable roof panel (replaced with a carbon fiber hardtop for rigidity).",
+    "Interior: Full FIA-spec cage integration with a Recaro Pole Position carbon-Kevlar bucket seat (HANS-compatible), Schroth 6-point harnesses (FHR-approved), and a Motec C127 dash logger with GPS lap timing, replacing the stock cluster. Additional weight reduction via removal of the AC system, rear seats, and door cards (replaced with carbon fiber panels and quick-release pins)."
+  ]
+}

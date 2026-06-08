@@ -1,0 +1,18 @@
+{
+  "brand": "PORSCHE",
+  "model": "911 GT3 R (992)",
+  "prestazioni": [
+    "Engine: 4.0L flat-six (MA1.76/MDG.G) with a bespoke GT3 R-spec dry-sump lubrication system featuring a Hiflow Engineering billet oil pump and a Motec M150 ECU reflash optimized for endurance racing, targeting 550+ hp at 9,000 RPM with a 9,400 RPM redline, utilizing Mahle Motorsport forged pistons (9.0:1 compression) and titanium connecting rods from Pankl Racing Systems",
+    "Forced Induction: Naturally aspirated, but equipped with a custom Akrapović 4-2-1 equal-length titanium exhaust manifold paired with a straight-pipe exhaust system featuring a valved bypass for FIA noise compliance, incorporating a secondary catalytic converter delete with a GESI high-flow sports cat for emissions testing",
+    "Suspension & Chassis: Öhlins TTX46 MkII 4-way adjustable dampers with Moton 3-way remote reservoirs, paired with a GT3 R-specific T45 steel roll cage by Matter Fab for torsional rigidity, and a custom KW Clubsport coilover conversion with adjustable camber plates (0 to -5 degrees) and spherical bearing top mounts from GT3 Cup cars",
+    "Aerodynamics: Full carbon fiber aero package by Manthey Racing, including a 992 GT3 R-specific front splitter with adjustable dive planes, a rear diffuser with Gurney flap extensions, and a massive fixed rear wing (3.5m²) with dual-element design and integrated swan neck mounts, all validated in the Porsche wind tunnel for 1,200 kg of downforce at 250 km/h",
+    "Drivetrain: 6-speed sequential gearbox (PDK-derived) with a Sachs Racing twin-disc carbon clutch (240mm) and a Quaife ATB differential (80% lock under power, 60% under deceleration), paired with a custom 520mm carbon driveshaft from GKN Driveline and a lightweight flywheel by Tilton Engineering"
+  ],
+  "estetica": [
+    "Exterior: Full 992 GT3 R body conversion with a custom widebody kit by RWB (Rauh-Welt Begriff) featuring hand-rolled fenders (50mm wider front, 70mm wider rear) and a custom front bumper with integrated NACA ducts for brake cooling, finished in Porsche GT3 RS Lime Gold with a matte clear coat by Spies Hecker",
+    "Wheels: BBS FI21 18x12.5+30 front and 18x13+35 rear forged magnesium wheels (992 GT3 R-spec) with titanium wheel bolts by H&R, wrapped in Michelin Pilot Sport Cup 2 R tires (30/68-18 front, 31/71-18 rear) shaved to 4.5mm tread depth for endurance racing",
+    "Interior: Full FIA-spec roll cage by Matter Fab with integrated door bars and a custom carbon fiber dashboard by VRS Composites, featuring a Motec C127 digital dash with a bespoke GT3 R layout, a Sparco Pro 2000 seat with 6-point harness by Schroth Racing, and a custom titanium shift knob by 935 Motorsports for the sequential gearbox",
+    "Lighting: Full LED conversion with custom Hella Rallye 7000 spotlights integrated into the front bumper, paired with a custom rear light cluster delete (replaced with carbon fiber covers) and a single central brake light by Osram for weight savings and aerodynamics",
+    "Details: Custom carbon fiber side mirrors by 993 GT2 RS-spec with integrated cameras for FIA GT3 compliance, a custom titanium bolt kit by ARP for all critical fasteners (engine, suspension, drivetrain), and a bespoke fuel filler cap by Rennline with a quick-release mechanism for endurance pit stops"
+  ]
+}

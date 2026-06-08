@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "911 GT3 991.2",
+  "prestazioni": [
+    "Engine: 4.0L NA MA1.76 (9A2 Evo) with a Manthey Racing Stage 2.5 ECU reflash (1,000+ RPM extended powerband, optimized ignition timing for 99 RON fuel, and revised throttle mapping for linear response up to 9,000 RPM redline). Includes Manthey Racing carbon fiber intake system with velocity stacks and a custom 90mm throttle body for improved airflow.",
+    "Forced Induction (Hybrid NA/SC): Sprintex S300-900 supercharger kit (6.5 psi max boost) with a custom intercooler setup (PWR Australia 4.5L core, 30% larger than OEM GT3 RS unit) and a Tial 44mm wastegate for pressure control. Paired with a custom exhaust system featuring Akrapovič Evolution Line Titanium headers (4-2-1 design) and a straight-pipe section with a Valvetronic bypass for NA sound retention.",
+    "Suspension & Chassis: Öhlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression) and Manthey Racing spherical bearing top mounts. Full chassis reinforcement with a Worx Racing 991.2 GT3-specific roll cage (T45 steel, 3.5mm wall thickness) and a custom front strut tower brace (aluminum 7075-T6, 4mm thick). Braking system upgraded to AP Racing CP9760 calipers (6-piston front, 4-piston rear) with 410mm CCM-R discs and Ferodo DS3000 pads."
+  ],
+  "estetica": [
+    "Aero: RWB (Rauh-Welt Begriff) 991.2 GT3 widebody kit with custom carbon fiber overfenders (25mm wider front, 35mm wider rear) and a custom ducktail spoiler (3D-printed carbon fiber, 15% lighter than OEM). Front splitter replaced with a 991.2 GT3 RS-style unit (carbon fiber, 3-piece adjustable) and a custom rear diffuser (carbon fiber, 3D honeycomb structure for airflow separation).",
+    "Wheels & Stance: BBS FI-R 19x12J +60 (front) and 19x13J +55 (rear) with custom center-lock adapters (titanium, 20% lighter than OEM). Tires: Michelin Pilot Sport Cup 2 R (305/30 R19 front, 325/30 R19 rear) with custom tire warmers (Thermal Compounds TC-1000, pre-heated to 80°C). Fender gap eliminated via custom wheel spacers (H&R 5mm front, 8mm rear) and aggressive camber settings (-3.5° front, -2.8° rear).",
+    "Exterior & Lighting: Full 991.2 GT3 RS-style livery with a custom vinyl wrap (3M 2080 Gloss Black with matte red accents) and a clear bra (XPEL Ultimate, full front end coverage). Lighting upgraded to LUX V3 Angel Eyes (6,000K) and custom rear LED taillights (VLEDS 991.2 GT3-specific, sequential turn signals). Side mirrors replaced with 991.2 GT3 RS carbon fiber units (heated, auto-dimming) and a custom rearview camera (Garmin BC 40, 1080p recording)."
+  ]
+}

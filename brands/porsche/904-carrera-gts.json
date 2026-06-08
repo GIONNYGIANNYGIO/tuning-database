@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "904 CARRERA GTS",
+  "prestazioni": [
+    "Engine: Type 587/3 (2.0L flat-4, 180 HP stock) with forged Mahle pistons (8.5:1 compression), Carrillo H-beam connecting rods, and a custom billet crankshaft by JE Pistons for 9,000 RPM reliability. Pair with a custom camshaft profile by Schrick (284° duration, 11.5mm lift) for optimized mid-to-high RPM power delivery.",
+    "Forced induction: Single Garrett GT2860RS turbocharger (0.63 A/R turbine housing) with a custom air-to-water intercooler by Bell Intercoolers, mounted in the rear trunk area with a bespoke 3-inch aluminum charge piping system. Boost controlled via a TurboSmart Hyper-Gate45 wastegate (12 PSI max) and a custom fuel system upgrade with Bosch Motorsport 044 fuel pump and ID1000 injectors.",
+    "Suspension: Full Ohlins TTX25 coilover kit with 4-way adjustable damping, custom valving for the 904’s tubular spaceframe, and spherical bearing top mounts. Pair with a custom front sway bar by H&R (24mm solid) and a rear sway bar by Eibach (22mm adjustable) to reduce body roll. Chassis reinforcement via a T45 steel roll cage by Custom Cages UK, seam-welded to the factory frame for rigidity."
+  ],
+  "estetica": [
+    "Bodywork: Full carbon fiber replica of the 904’s original fiberglass body by RWB Japan, with a custom widebody kit (flares extended by 50mm per side) and a functional rear diffuser by 935 Motorsport. Paint: Porsche GT3 RS Lizard Green with a matte clear coat by Spies Hecker.",
+    "Aerodynamics: Custom front splitter by 917 Motorsport (3D-printed carbon fiber, 50mm overhang) and a rear wing by TechArt (dual-element, 1,200mm span, adjustable angle of attack). Side skirts by Ruf Automobile, modified to fit the 904’s unique rocker panel profile.",
+    "Wheels: 15x8.5 (front) and 15x10 (rear) BBS RS-GT II mesh wheels (gold finish) with custom offsets (-10mm front, +5mm rear) to fill the wheel arches. Tires: Michelin Pilot Sport Cup 2 (205/55/15 front, 255/50/15 rear) for track-focused grip. Brake system: AP Racing 4-piston calipers (front) and 2-piston calipers (rear) with 304mm rotors, paired with Ferodo DS2500 pads."
+  ]
+}

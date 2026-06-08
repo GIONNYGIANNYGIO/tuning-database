@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "911 991 GT2 RS",
+  "prestazioni": [
+    "Engine: 3.8L twin-turbocharged flat-six (engine code: MA1.71) with a bespoke Manthey Racing MRX-01 ECU remap, targeting 800+ HP via upgraded fuel system (Bosch Motorsport 1,200cc injectors + AEM 400LPH fuel pump) and Garrett GTX5533R Gen II turbos with billet compressor wheels (64mm inducer, 88mm exducer) and TiAL MV-R 44mm wastegates for 2.2 bar peak boost",
+    "Drivetrain: 7-speed PDK transmission reinforced with a Guard Industries billet aluminum differential carrier and upgraded clutch pack (Sachs Performance 3-disc carbon clutch with 1,200 Nm torque capacity), paired with a Guard Motorsports 80W-140 GL5 limited-slip differential fluid for sustained track use",
+    "Suspension/Chassis: Full Ohlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high/low-speed compression), paired with Manthey Racing GT2 RS-specific subframe reinforcements and spherical bearing rear toe links (Porsche Motorsport 991.2 GT3 RS-spec) for sub-2:00 Nürburgring lap potential"
+  ],
+  "estetica": [
+    "Aerodynamics: Manthey Racing MRX GT2 RS aero kit (carbon fiber front splitter with 3D vortex generators, rear diffuser with Gurney flap, and a 200-cell GT3-spec rear wing with adjustable angle of attack via hydraulic actuators), reducing lift by 40% at 200 km/h",
+    "Body: Full carbon fiber widebody conversion (RWB-inspired but Porsche Motorsport-approved) using a 991 GT2 RS-specific Rocket Bunny V3 kit (fenders extended 50mm per side, carbon fiber side skirts with integrated NACA ducts for brake cooling, and a removable carbon fiber roof panel with integrated roll cage)",
+    "Wheels/Exterior: HRE FF16 flow-formed forged wheels (20x12.5 +25 front, 21x13.5 +45 rear) wrapped in Michelin Pilot Sport Cup 2 R tires (325/30 ZR21 rear), paired with titanium wheel bolts (ARP 625+) and a custom matte Graphite Grey paint scheme with Porsche Motorsport 917-style red script decals on the doors"
+  ]
+}

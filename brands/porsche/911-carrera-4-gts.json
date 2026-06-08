@@ -1,0 +1,17 @@
+{
+  "brand": "PORSCHE",
+  "model": "911 CARRERA 4 GTS",
+  "prestazioni": [
+    "Engine: 3.0L twin-turbo flat-six (9A2 E31/1, 992-generation) with a custom ECU flash from SharkWerks targeting 500+ HP via revised boost mapping (1.4 bar peak), optimized cam timing (VarioCam Plus adjustment), and direct port methanol injection (AEM 340LPH pump + Snow Performance Stage 3 kit) for knock suppression and IAT cooling",
+    "Forced Induction: Hybrid turbo upgrade using Garrett GTX3582R Gen II turbos (62mm compressor, 76mm turbine) with billet compressor wheels, TiAL MV-R 44mm wastegates, and custom 3.5\" stainless steel downpipes (Fabspeed Motorsport) paired with a GReddy Profec B Spec II boost controller for linear spool and 22psi peak boost",
+    "Drivetrain: OS Giken 6-speed sequential gearbox (ST-911) with 1.5-way LSD, uprated carbon-fiber clutch (Sachs Performance 3-disc setup), and a Quaife ATB differential (992-specific) for torque vectoring; paired with a BBi Motorsport lightweight flywheel (10.5kg) and reinforced half-shafts (Parr Motorsport)",
+    "Suspension: Öhlins TTX46 MkII coilovers with 24-way compression/rebound damping, 30-way adjustable bump stops, and helper springs (10kg front, 12kg rear) for track-focused geometry; paired with Tarett Engineering spherical bearing control arms (front/rear) and a custom 3mm front subframe spacer (9ff) to correct camber gain",
+    "Braking: AP Racing Radi-CAL 6-piston front (405mm discs) and 4-piston rear (380mm discs) big brake kit with two-piece rotors (floating hats), Ferodo DS2500 pads, and Motul RBF 660 brake fluid; stainless steel braided lines (Goodridge) and a custom ABS recalibration (via Cobb Accessport) for threshold optimization"
+  ],
+  "estetica": [
+    "Aero: RWB (Rauh-Welt Begriff) 992-widebody kit with custom carbon-fiber overfenders (25mm wider front, 40mm wider rear), front splitter (TechArt GTstreet R), and a fixed rear wing (9ff GT3-style, 1800mm width) with integrated Gurney flap; underbody diffuser (Vorsteiner) and custom front canards (Porsche Motorsport GT3 Cup-style)",
+    "Wheels: BBS FI-R 9.5x20\" ET40 (front) and 12.5x20\" ET50 (rear) with titanium hardware, Michelin Pilot Sport Cup 2 R tires (265/30/20 front, 325/25/20 rear), and custom center-lock adapters (HRE Performance) for quick swaps; paired with a 15mm front and 25mm rear track width increase via spacers (H&R)",
+    "Exterior: Full 992 GTS-widebody conversion with custom matte Graphite Grey paint (Porsche L9A) and satin black accents (roof, mirrors, rear blade); LED taillights (Luxury-LED) with sequential turn signals, carbon-fiber engine cover (9ff), and a custom front grille delete (replaced with mesh from a 911 GT3 Touring)",
+    "Interior: Full carbon-fiber weave interior (9ff) including door cards, dashboard, and center console; Recaro Pole Position seats (920 shell) with Schroth Profi II 6-point harnesses, MOMO Mod.78 steering wheel (380mm, Alcantara), and a custom roll cage (Manthey Racing bolt-in, 6-point) with integrated fire suppression (Lifeline Zero 360 system)"
+  ]
+}
