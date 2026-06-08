@@ -1,0 +1,14 @@
+{
+  "brand": "RADICAL",
+  "model": "SR3",
+  "prestazioni": [
+    "Engine: Ford Duratec 1.5L inline-4 (code: *Duratec-RS*) with a bespoke Radical Motorsport billet crankshaft, forged Mahle pistons (87.5mm bore, 9.0:1 compression), and steel H-beam connecting rods from Carillo. Upgraded to a dry-sump lubrication system with a Peterson Fluid Systems 4-stage pump and a 10-liter oil tank for sustained high-G cornering.",
+    "Forced Induction: Garrett GT3076R turbocharger (0.82 A/R turbine housing) with a custom 3.5-inch stainless steel exhaust manifold by Radical Performance, paired with a Tial MV-R 44mm external wastegate and a GReddy Type-R intercooler (core dimensions: 12x6x3 inches). Boost pressure set to 22 psi with a Motec M150 ECU managing sequential fuel injection via Bosch Motorsport 1000cc injectors.",
+    "Suspension & Chassis: Öhlins TTX36 MkII coilovers with 2-way adjustable damping, custom valving for Radical SR3’s 1,050kg weight, and spherical bearing top mounts. Front and rear anti-roll bars upgraded to Tillet Racing adjustable units (24mm front, 22mm rear). Braking system features AP Racing CP6640 4-piston calipers with 280mm vented rotors (front) and CP5310 2-piston calipers with 240mm rotors (rear), paired with Ferodo DS2500 pads and braided stainless steel lines."
+  ],
+  "estetica": [
+    "Aerodynamics: Radical Motorsport ‘RSR’ carbon fiber body kit, including a front splitter with integrated dive planes (adjustable angle of attack), rear diffuser with Gurney flap, and a fixed-position rear wing (NACA 63A012 airfoil, 1,200mm span, 300mm chord) with carbon fiber endplates. Underbody features a full-length flat floor with vortex generators for ground-effect downforce.",
+    "Exterior: Custom livery by Veloce Imports, featuring a matte ‘Radical Orange’ base with ‘Speedhunter Edition’ graphics (black/gunmetal accents) and sponsor decals (Motul, OMP, Sparco). Carbon fiber side skirts with integrated LED running lights (Philips X-tremeVision) and a quick-release carbon fiber hood with a central NACA duct for intercooler airflow.",
+    "Interior: Sparco Pro 2000 seats (carbon fiber shell, 6-point harness slots) with custom Radical-branded embroidery, paired with a MOMO Mod.77 steering wheel (suede, 320mm diameter) and a Motec C127 dash display (configurable for lap timing, boost pressure, and oil temp). Full roll cage by Safety Devices (FIA-spec, T45 steel, powder-coated black) with integrated fire suppression system (Lifeline Zero 360, plumbed to cockpit and engine bay)."
+  ]
+}

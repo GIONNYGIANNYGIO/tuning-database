@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "PANAMERA TURBO",
+  "prestazioni": [
+    "Engine: 4.0L V8 twin-turbo (MEC 9A1.1) with upgraded Garrett GTX5533R turbos (1.35 A/R, billet compressor wheels) and custom 4-inch titanium downpipes by Armytrix, supporting 850whp on E85 with a Motec M150 ECU reflash and full flex-fuel sensor integration",
+    "Suspension: Öhlins Road & Track DFV coilovers with 3-way adjustable damping (compression, rebound, and ride height), paired with Porsche-specific spherical bearing top mounts by 034Motorsport and 25mm front/20mm rear H&R anti-roll bars for reduced body roll",
+    "Drivetrain: Quaife ATB helical LSD in the rear differential, upgraded 40% carbon fiber-reinforced clutch by Sachs Performance (for 918 Spyder spec), and a custom 3.5-inch driveshaft by The Driveshaft Shop to handle increased torque"
+  ],
+  "estetica": [
+    "Aero: RWB (Rauh-Welt Begriff) widebody conversion with custom 3-piece carbon fiber overfenders, a 911 GT3 RS-style ducktail spoiler, and a front splitter with integrated canards by TechArt, all finished in matte Porsche GT Silver (982)",
+    "Wheels: HRE FF01 21x10.5 ET40 (front) and 21x12.5 ET45 (rear) in gloss black with titanium hardware, wrapped in Michelin Pilot Sport Cup 2 R tires (275/30 front, 325/25 rear) for optimal track grip",
+    "Interior: Full Alcantara retrim by Gemballa with custom carbon fiber door cards, a MOMO Prototipo steering wheel (380mm, suede), and a digital dash overlay by APR Performance displaying boost pressure, AFR, and oil temps via AIM MXS Strada integration"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "brand": "PRAGA",
+  "model": "R1",
+  "prestazioni": [
+    "Engine: Replace the stock 2.0L BMW N20B20 (N20B20A) turbocharged inline-4 with a fully built version featuring forged internals (Mahle Motorsport pistons, Pankl H-beam connecting rods, and a billet crankshaft) to handle 40 psi of boost from a Garrett GTX5533R Gen II turbocharger with a 0.82 A/R turbine housing and a 64mm compressor wheel, paired with a custom 4-inch titanium downpipe and a Tial MV-R 44mm external wastegate for precise boost control.",
+    "Fuel System: Upgrade to a dual-pump setup with two Radium Engineering 200 LPH fuel pumps, a set of Injector Dynamics ID1700x injectors, and a Motec M150 ECU with a custom calibration for E85 compatibility, including a custom fuel rail with -8AN fittings and a 1000cc/min AEM 340 lph in-tank pump for high-flow demand under sustained 8,500 RPM operation.",
+    "Drivetrain: Install a Sachs Performance twin-disc carbon clutch with a lightweight flywheel (3.5kg) and a Quaife ATB differential (80% lock) in a custom CNC-machined 7075-T6 aluminum differential housing, paired with a Hewland NLT sequential 6-speed dog-ring gearbox featuring a magnesium bellhousing and a Pankl Racing Systems titanium driveshaft for reduced rotational mass.",
+    "Suspension: Replace the OEM Öhlins TTX40 MkII coilovers with a custom Öhlins TTX46 MkIII setup featuring 3-way adjustable dampers (compression, rebound, and high-speed compression), spherical bearing top mounts, and Eibach ERS 1000N/mm springs for a 20mm lower ride height, paired with a full spherical bearing conversion kit from SuperPro for all suspension arms.",
+    "Aerodynamics: Install a custom carbon fiber aero package from VIS Racing, including a 3-element front splitter with integrated dive planes, a rear diffuser with 5 strakes, and a GT3-style rear wing with a 1,200mm chord and 300mm height, adjustable in 5-degree increments, all constructed from pre-preg autoclave carbon fiber with a 3K twill finish."
+  ],
+  "estetica": [
+    "Bodywork: Replace the stock carbon fiber body panels with a full dry carbon fiber (2x2 twill) widebody kit from Liberty Walk, featuring extended front fenders with integrated cooling ducts for the brakes, a custom rear quarter panel with a side exit exhaust cutout, and a removable hardtop with a polycarbonate rear window for weight reduction.",
+    "Wheels: Fit a set of custom BBS FI-R 18x12 (front) and 18x13 (rear) forged wheels with a 5x120 bolt pattern, 25mm front and 35mm rear offsets, and a gold brushed finish, wrapped in Michelin Pilot Sport Cup 2 R tires (295/645R18 front, 325/660R18 rear) for maximum mechanical grip.",
+    "Interior: Install a full carbon fiber monocoque chassis reinforcement from APR Performance, including a custom roll cage with integrated door bars and a fire suppression system from SPA Technique, paired with a Sparco Pro 2000 seat, a MOMO Mod.78 steering wheel with a quick-release hub, and a Motec C127 dash display with a 7-inch touchscreen for real-time telemetry.",
+    "Lighting: Replace all exterior lighting with a full LED conversion from LUX Automotive, including a custom front splitter with integrated Osram LED high-beams, sequential turn signals from Depo Racing, and a rear light bar with integrated brake and running lights, all controlled via a CAN bus system for OEM-level integration."
+  ]
+}

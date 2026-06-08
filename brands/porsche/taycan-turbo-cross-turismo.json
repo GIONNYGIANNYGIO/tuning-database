@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "TAYCAN TURBO CROSS TURISMO",
+  "prestazioni": [
+    "Upgrade to a **Porsche Performance Software (PPS) Stage 2 ECU remap** for the **93AJ (Permanent Magnet Synchronous Motor - PMSM) dual-motor setup**, targeting 700+ hp (522 kW) and 850 Nm (627 lb-ft) of torque with a **custom overboost function** for 0-60 mph in 2.4s. Requires **Akrapović EV-specific titanium exhaust system** with carbon fiber tips to reduce backpressure and improve cooling efficiency for the rear motor.",
+    "Install **MSS 800V high-performance silicon carbide (SiC) inverter** with **liquid-cooled copper busbars** to handle increased current draw, paired with a **Weissach Package-derived 93.4 kWh (gross) battery upgrade** featuring **Samsung SDI 21700 cells (5.0Ah, 3.6V)** and **active thermal management via dual BorgWarner eBoosters** for sustained high-power output.",
+    "Replace the stock **Porsche PSM (Porsche Stability Management) with a Motec M150 ECU** for full torque vectoring control, integrating **KW Suspensions Clubsport 3-way adjustable coilovers** with **Porsche 992 GT3-derived adaptive dampers** and **HRE FF16 flow-formed wheels (21x10.5 ET40 front, 22x12.5 ET50 rear)** wrapped in **Michelin Pilot Sport Cup 2 R tires (275/35 R21 front, 325/30 R22 rear)** for optimal mechanical grip."
+  ],
+  "estetica": [
+    "Full **Rocket Bunny V3 widebody kit** with **carbon fiber fenders, front splitter, and rear diffuser**, designed specifically for the Cross Turismo’s 93mm extended wheelbase, featuring **integrated LED turn signals** and **Porsche GT Silver paint with matte black accents** for a stealth-aggressive look.",
+    "Replace the stock headlights with **Oracle Lighting Dynamic RGB+ LED Projector Headlights** featuring **Porsche 911 (992) GT3-style DRLs**, **adaptive laser high-beams**, and **carbon fiber housing**, paired with a **custom rear light bar** using **Osram LED modules** for a futuristic taillight signature.",
+    "Interior overhaul with **Recaro SPG XL Carbon Kevlar seats** (Porsche 918 Spyder pattern), **Alcantara-wrapped dashboard with red stitching**, **custom roll cage by Heigo** (TÜV-certified, bolt-in design), and **Porsche 911 GT3 Cup-derived carbon fiber steering wheel** with **Motec C127 digital dash** for real-time telemetry."
+  ]
+}

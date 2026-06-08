@@ -1,0 +1,14 @@
+{
+  "brand": "PUMA",
+  "model": "GTE 4-LITER",
+  "prestazioni": [
+    "Engine: Ford Coyote 5.0L V8 (code: *AJ-18-5000CC*), stroked to 4.0L (4026cc) via Manley 4.000\" forged crankshaft, Mahle Motorsport forged pistons (11.5:1 CR), and Eagle H-beam connecting rods for 8,500 RPM redline. Paired with a custom billet aluminum dry-sump system by Dailey Engineering to eliminate oil starvation in high-G corners.",
+    "Forced Induction: Twin Garrett GTX5533R Gen II turbochargers (86mm compressor, 1.06 A/R turbine housings) with TiAL MV-R 44mm wastegates and custom 4-inch stainless steel equal-length exhaust manifolds by Burns Stainless. Intercooled via a PWR 4.5-core bar-and-plate front-mount intercooler with dual 120mm SPAL fans for sub-30°C IATs at 2.5 bar boost.",
+    "Drivetrain: Tremec TR-9070 7-speed dual-clutch transmission with a Puma-specific bellhousing and a Tilton triple-plate carbon clutch. OS Giken Super Lock LSD (4.10:1 final drive) with billet aluminum differential housing. Custom half-shafts by The Driveshaft Shop (3.5\" chromoly) to handle 1,200+ Nm of torque."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon fiber widebody kit by Liberty Walk (LB-PUMA-GTE) with functional front canards, rear diffuser, and a 3D-printed active rear wing (adjustable via MoTeC PDM) generating 450kg of downforce at 200 km/h. Underbody features a full flat floor with vortex generators by APR Performance.",
+    "Wheels & Tires: Forged 19x12\" front and 20x13\" rear BBS LM-R wheels (ET20 front, ET5 rear) wrapped in Michelin Pilot Sport Cup 2 R tires (305/30/19 front, 345/25/20 rear). Custom center-lock adapters by DPE for rapid tire changes during endurance races.",
+    "Interior: Full FIA-spec roll cage by Custom Cages (T45 steel, 2.5mm wall thickness) with integrated fire suppression system (Lifeline Zero 360). Sparco Pro 2000 seats with Schroth 6-point harnesses. MoTeC C127 dash logger with integrated traction control and launch control, paired with a Puma-specific CAN bus interface for real-time telemetry."
+  ]
+}

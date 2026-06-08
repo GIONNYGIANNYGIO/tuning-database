@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "PANAMERA TURBO S E-HYBRID",
+  "prestazioni": [
+    "Engine: 4.0L V8 twin-turbo (EA839) + electric motor (PSM) hybrid powertrain with a Stage 2.5 ECU remap by APR (Porsche-specific calibration) targeting 800+ HP (650 HP from ICE + 150 HP from electric motor) with optimized torque split for launch control and hybrid boost strategies, retaining OEM hybrid battery cooling efficiency via upgraded heat exchangers (Manthey Racing hybrid cooling kit).",
+    "Forced Induction: Hybrid-specific Garrett GTX5533R Gen II turbochargers (ball-bearing, 76mm compressor wheels) with billet compressor housings, custom 1.25 A/R turbine housings, and TiAL MV-R 44mm wastegates to manage 2.2 bar peak boost while maintaining OEM hybrid torque smoothing. Paired with a CSF high-flow intercooler (direct-fit for Panamera E-Hybrid) and 3.5\" silicone charge pipes (VRSF) with heat-wrapping for the electric motor’s inverter coolant lines.",
+    "Drivetrain & Handling: 992-generation Porsche PDK transmission with a Cobb Tuning TCU flash for 0.15s faster shifts and launch control optimization, paired with an OS Giken Super Lock LSD (80% lockup) for the rear axle. Suspension: KW Clubsport 3-way coilovers with remote reservoirs (Panamera-specific valving) and solid subframe bushings (034 Motorsport) to eliminate hybrid powertrain torque steer. Brakes: AP Racing 6-piston front/4-piston rear calipers with 420mm CCM-X rotors (Porsche 918-spec) and Ferodo DS2500 pads for hybrid regenerative braking compatibility."
+  ],
+  "estetica": [
+    "Aero: TechArt GTstreet RS widebody kit (carbon fiber, 50mm rear fender flares) with a custom 3D-printed front splitter (Aeroflow Dynamics) featuring integrated cooling ducts for the hybrid battery and electric motor. Rear wing: 911 GT3 RS-style swan-neck carbon wing (RWB-inspired) with adjustable angle of attack (0-12 degrees) and active Gurney flap (via Porsche PCM integration).",
+    "Exterior: Full 992 Turbo S E-Hybrid-specific vinyl wrap (3M 2080 Gloss Hyper Blue) with matte black accents on the roof, mirrors, and rear diffuser. Lighting: OEM Porsche 911 GT3 RS LED headlights (retrofitted with custom DRLs) and rear taillight overlays (Lux H8 V4 with sequential turn signals). Wheels: HRE FF16 21\" forged wheels (front: 10.5J ET45, rear: 12.5J ET55) with Michelin Pilot Sport Cup 2 R tires (275/30 front, 325/25 rear).",
+    "Interior: Full carbon fiber weave (SGL) with hybrid-specific modifications: Alcantara-wrapped steering wheel (Porsche 918-style) with integrated launch control button (Motec C125 dash display for hybrid power telemetry), Recaro Pole Position seats (911 GT3-spec) with Schroth 6-point harnesses, and a custom center console (3D-printed) housing a hybrid battery SoC gauge (AEM CD-7) and electric motor temperature readout."
+  ]
+}

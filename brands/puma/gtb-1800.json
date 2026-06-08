@@ -1,0 +1,14 @@
+{
+  "brand": "PUMA",
+  "model": "GTB 1800",
+  "prestazioni": [
+    "Engine swap to a Ford Duratec HE 2.3L (engine code: *QQDB*) with forged internals (Mahle pistons, Eagle H-beam rods, ACL race bearings) and a custom billet crankshaft by *JE Pistons* for 9,000 RPM reliability, paired with a *Garrett GT3076R* turbocharger (0.86 A/R, 62mm inducer) on a *Tial MV-R* 44mm external wastegate with a *TurboSmart Kompact* blow-off valve",
+    "Custom *Haltech Elite 2500* standalone ECU with flex-fuel capability, integrated with a *Link G4+* CAN-based dash for real-time data logging, running a *Puma GTB-specific* 320-degree camshaft profile (ground by *Schrick*) and *Ferrea* titanium valves with *Supertech* dual valve springs for high-lift aggression",
+    "Full *PWR* 4-row front-mount intercooler with *Samco* silicone hoses and *TurboSmart* 50mm Race Port BOV, paired with a *Radium Engineering* dual-catch can setup and a *Mocal* oil cooler to manage the *QQDB*’s 1.5-bar boost target (280whp on E85, 240whp on 98 RON)"
+  ],
+  "estetica": [
+    "Full *Liberty Walk LB Works* widebody kit (GTB-specific fenders, front bumper, and rear diffuser) with *Seibon* carbon fiber hood and trunk, featuring *Aeromotions* active rear wing (3-position adjustability, 20kg downforce at 160km/h)",
+    "Custom *Rotiform LAS-R* 17x9.5 ET20 wheels (Puma GTB-specific offsets) wrapped in *Michelin Pilot Sport Cup 2* 245/40 R17 tires, paired with *AP Racing* 330mm 6-pot front brake kit (Puma GTB-specific caliper brackets) and *Ferodo DS2500* pads",
+    "Interior overhaul with *Recaro SPG XL* seats (GTB-specific mounting brackets), *MOMO* Prototipo steering wheel (350mm, suede), and *Defi BF* digital gauges (oil temp, boost, AFR) mounted on a *Custom Cages* bolt-in roll cage (TIG-welded, 4-point)"
+  ]
+}

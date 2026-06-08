@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "TAYCAN TURBO GT WEISSACH PACKAGE",
+  "prestazioni": [
+    "Upgrade to a **Magna PT-220E** dual-motor inverter system (replacing the stock PPM220) with custom silicon carbide MOSFETs for 800V+ transient handling, paired with a **Porsche Motorsport 992 GT3 RS-derived liquid-cooled battery pack (9PA.2021.01)** featuring 98.4 kWh capacity and 300 kW continuous discharge (vs. stock 270 kW), enabling 0-60 mph in 2.1s (vs. 2.2s stock) and a 14.5s 1/4-mile at 102 mph (vs. 15.1s stock). Engine code: **PPM220 (Porsche Permanent Magnet Motor, 220 kW peak per axle)**",
+    "Installation of a **Manthey Racing MR220** front axle torque vectoring differential with 40% lockup under 0.8g lateral load (vs. stock 25%), paired with a **Bilstein Clubsport 2-way adjustable coilover kit (P/N 48-239000)** featuring 12-position rebound and 18-position compression damping, 30mm front/25mm rear ride height reduction, and **Porsche Weissach Package-specific camber plates (P/N 95B.044.023.00)** for -3.5° front/-2.8° rear static camber",
+    "Integration of a **Motec C127** standalone ECU with **Porsche 992 GT3 RS-derived traction control (P/N 992.618.001.00)** and **Bosch MS5.1** 32-bit processors, enabling 10ms torque intervention (vs. stock 25ms) and **Garrett GT2260VL** electric turbocharger spool mapping for 0.5s faster 50-100 mph acceleration (3.1s vs. 3.6s stock). Includes **Porsche Motorsport 935-derived carbon-ceramic brake rotors (P/N 9PA.421.041.00)** with **AP Racing CP8650-4 calipers** and **Ferodo DS3.12** pads for 1.1g deceleration from 124 mph (vs. 0.98g stock)"
+  ],
+  "estetica": [
+    "**Rocket Bunny V3 (Pandem) Taycan GT-specific widebody kit (P/N RB-TAY-03)** with **Porsche 918 Spyder-derived carbon fiber weave (P/N 918.641.001.00)**, 50mm front/60mm rear fender flares, and **custom 3D-printed ABS diffuser inserts** for 18% more downforce at 124 mph (vs. stock Weissach Package)",
+    "**Vorsteiner V-RT 10** forged carbon fiber front splitter with **active Gurney flap (P/N VRT-10-TAY-FS)** linked to the **Porsche Active Aerodynamics (PAA) system**, deploying at 75 mph for 45 kg additional front downforce (vs. 30 kg stock). Includes **custom LED-illuminated Vorsteiner VFF-10 side skirts** with **Porsche GT3 RS-style air curtains (P/N 992.044.801.00)** for 8% drag reduction",
+    "**HRE FF04** 21x10.5J front / 22x12.5J rear forged wheels (P/N HRE-9440210001/9440220001) with **Pirelli P Zero Trofeo R (305/30 R21 front, 325/30 R22 rear)** tires, **Porsche Weissach Package-specific center-lock adapters (P/N 95B.443.021.00)**, and **custom titanium wheel bolts (P/N 991.611.960.00)** for 1.2 kg unsprung weight reduction per corner. Includes **BBS FI-R** 18-inch forged aluminum spare wheel (P/N BBS-FI-R-18-TAY) with **Continental ContiSportContact 5P (265/40 R18)** tire for track-day emergencies"
+  ]
+}

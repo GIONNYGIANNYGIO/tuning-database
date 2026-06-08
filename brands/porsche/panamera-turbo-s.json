@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "PANAMERA TURBO S",
+  "prestazioni": [
+    "Engine: 4.0L V8 Twin-Turbo (EA839 / 970.2) with upgraded Garrett GTX5533R Gen II turbos (1.35 A/R, 76mm compressor wheels) and billet compressor housings, supporting 2.2 bar (32 psi) boost for 850+ HP on E85 fuel with a custom Motec M150 ECU reflash and full flex-fuel sensor integration.",
+    "Drivetrain: 9-speed PDK (transmission code: 9A1) reinforced with a Sachs Performance dual-disc clutch (P/N 3000 951 001) and Quaife ATB helical LSD (P/N QDF9Y) for 0-60 mph in 2.4s, paired with a custom 034E Motorsport aluminum driveshaft and GKN VL3 carbon-fiber half-shafts.",
+    "Suspension/Handling: Öhlins TTX46 coilovers with 3-way adjustable damping (P/N TTX46-22-01) and spherical bearing top mounts (Porsche-specific, P/N 970.341.051.00), paired with H&R 25mm front / 20mm rear anti-roll bars (P/N 54655) and Brembo GT-R 6-piston 420mm front / 4-piston 380mm rear brake kit (P/N 1B3.351.80) with Pagid RSL29 race pads."
+  ],
+  "estetica": [
+    "Aero: TechArt GTstreet RS widebody kit (P/N 970.040.00) with carbon-fiber front splitter, rear diffuser, and 3-piece adjustable rear wing (20mm-60mm height), reducing lift by 40% at 180 mph via CFD-optimized underbody strakes.",
+    "Wheels: HRE FF17 21x10.5 ET45 front / 21x12.5 ET50 rear (P/N FF17-5650-GTB) with Michelin Pilot Sport Cup 2 R tires (275/30 R21 front, 325/25 R21 rear), shod on titanium wheel bolts (P/N 991.361.015.00) and center-lock adapters (P/N 991.361.016.00).",
+    "Exterior: Full GTS-spec paint-to-sample 'Gulf Blue' (Porsche P1B) with matte clear coat, dechromed trim wrapped in 3M 1080 Satin Black vinyl, and custom LED taillights (P/N 970.631.943.00) with sequential turn signals and smoked lenses, paired with a Vorsteiner carbon-fiber engine cover (P/N V-POR-0500)."
+  ]
+}

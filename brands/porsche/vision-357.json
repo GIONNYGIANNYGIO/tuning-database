@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "VISION 357",
+  "prestazioni": [
+    "Engine: 4.0L flat-six (9A2 Evo, derived from 911 GT3 RS 992.2) with a bespoke Akrapović 3.5-inch titanium exhaust system featuring dual-mode electronically controlled valves, reducing backpressure by 22% while amplifying the 3.8kHz exhaust note for track-focused aggression",
+    "Forced Induction: Garrett GTX5533R Gen II turbocharger (86mm compressor, 76mm turbine) with billet aluminum compressor wheel, 1.15 A/R turbine housing, and TiAL MV-R 60mm wastegate, paired with a custom PWR 1200hp intercooler (5.5L core volume, 30% lower IATs than stock GT3 RS)",
+    "Suspension: Öhlins TTX46 MkII coilovers with 3-way adjustable damping (12-click rebound, 24-click compression, 10-position preload), custom valving for the Vision 357’s 50mm front/48mm rear sway bars, and T45 steel spherical bearing top mounts (replacing rubber bushings) for sub-2Hz chassis response"
+  ],
+  "estetica": [
+    "Aerodynamics: RAUH-Welt Begriff (RWB) ‘Stuttgart’ widebody kit (carbon fiber fenders, 60mm extended wheel arches) with integrated 3D-printed NACA ducts for brake cooling, paired with a custom 917-inspired rear diffuser (3-piece carbon, 45-degree angle) and a fixed Gurney flap on the rear wing (20mm height, 300g downforce at 120mph)",
+    "Wheels: HRE FF16 flow-formed forged wheels (9.5x20 ET40 front, 12.5x20 ET30 rear) with titanium hardware (12x1.5mm lug bolts, 30g weight savings per wheel), wrapped in Michelin Pilot Sport Cup 2 R tires (275/30/20 front, 345/25/20 rear) shaved to 4.5mm tread depth for maximum lateral grip",
+    "Lighting: Custom LED taillights with Osram Oslon Black Flat S 2mm² chips (1200lm per unit, 6000K color temp) and sequential turn signals (120ms delay, 300ms sweep time), paired with a full carbon fiber front splitter featuring integrated DRLs (Lumileds Luxeon Z ES, 5000K, 1800cd/m²)"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "PROTON",
+  "model": "GEN-2 1.6",
+  "prestazioni": [
+    "Engine: Replace the stock **CamPro CPS (S4PH)** 1.6L DOHC 16V with a **Toda Racing CPS-Spec Camshaft Set** (272° intake/268° exhaust duration, 10.5mm lift) paired with **Ferrea Racing Valves** (titanium intake, Inconel exhaust) and **Supertech Valve Springs** (120 lbs seat pressure) to optimize airflow for high-RPM power (redline extended to 8,200 RPM).",
+    "Forced Induction: Install a **Garrett GT2860RS-5 turbocharger** (0.63 A/R turbine housing, 56 trim compressor) with a **GReddy Type-S intercooler** (50mm core thickness, 600 CFM flow) and **HKS SSQV4 blow-off valve**. Pair with a **Haltech Elite 1500 ECU** for custom mapping, targeting 0.8 bar (11.6 psi) boost on **E85 fuel** with **ID1000x injectors** and a **Walbro 450 LPH fuel pump**.",
+    "Drivetrain: Swap the stock **Getrag F23 5-speed** for a **Quill Performance 6-speed sequential gearbox** (dog-ring engagement, 1.5kg lighter) with a **Peloquin LSD** (2.5-way, 45% lockup). Upgrade the clutch to a **Spec Stage 3+** (puck-style, 600 lb-ft torque capacity) and driveshafts to **Driveshaft Shop 3.5\" aluminum units** with **Tripod CV joints**."
+  ],
+  "estetica": [
+    "Aero: Fit a **VIS Racing Race Spec GT Wing** (carbon fiber, 1,500mm span, 300mm chord) with **Seibon Carbon GEN-2 GT Front Lip** (OEM+ fitment) and **Rocket Bunny V2-style overfenders** (widebody conversion, +50mm per side). Paint in **PPG Concept Black** with **3M Matte Purple Flakes** (custom mix).",
+    "Suspension: Install **Ohlins Road & Track DFV coilovers** (24-way adjustable damping, 30mm drop) with **SuperPro poly bushings** (full chassis refresh) and **Whiteline adjustable sway bars** (22mm front, 18mm rear). Use **Enkei PF07 wheels** (17x9 +35 ET, 5x114.3 PCD) wrapped in **Michelin Pilot Sport Cup 2** (245/40 R17).",
+    "Interior: Replace stock seats with **Bride Zeta III** (fixed-back, FIA-approved) and **Sparco 6-point harnesses**. Add a **Momo Mod.78 steering wheel** (350mm, suede) with **NRG quick-release hub**, **Defi BF gauges** (boost, oil temp, AFR) in a **Custom Cages A-pillar pod**, and **Dynamat Xtreme sound deadening** (full cabin treatment)."
+  ]
+}

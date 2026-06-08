@@ -1,0 +1,14 @@
+{
+  "brand": "RADICAL",
+  "model": "SR10",
+  "prestazioni": [
+    "Replace the stock Ford EcoBoost 2.3L (engine code: *GTD-423*) turbocharger with a **Garrett GTX4202R Gen II** (84mm billet compressor wheel, 64mm turbine, 1.15 A/R turbine housing) paired with a **Tial MV-R 44mm wastegate** and **TurboSmart Race Port BOV** to handle 45 psi of boost while maintaining 8,500 RPM reliability",
+    "Install a **Radical Motorsport-spec dry sump system** with **Moroso 8-quart billet oil pan**, **Dailey Engineering 4-stage pump**, and **Mocal 19-row oil cooler** to prevent oil starvation during sustained 2.5G lateral loads on circuits like Nürburgring GP-Strecke",
+    "Upgrade the stock **Sadev SL75-14 sequential gearbox** with **Hewland LD200 internals** (dog rings, billet shafts, and **AP Racing CP8444 carbon clutch**) to handle 600+ lb-ft of torque, paired with a **Penske 8760 adjustable LSD** (25% preload, 65% power bias) for optimal power delivery"
+  ],
+  "estetica": [
+    "Replace the stock SR10 front splitter with a **Radical Motorsport carbon fiber 'Nürburgring Edition' splitter** (3D-molded for 120 lbs downforce at 120 mph) and **custom Gurney flap** (adjustable via Dzus fasteners) for high-speed stability",
+    "Install **OMP HTE-R carbon fiber racing seats** (FIA 8862-2009 certified) with **Schroth 6-point harnesses** (ASM2 configuration) and **custom Radical-branded seat inserts** (3K twill weave, red/black colorway) for weight reduction and driver security",
+    "Fit **Dymag RB10 carbon fiber wheels** (17x10 front, 17x12 rear, 6.5kg per wheel) with **Pirelli P Zero Trofeo R tires** (245/645-R17 front, 305/680-R17 rear) and **Radical Motorsport titanium wheel nuts** (M14x1.5, 12-point drive) for unsprung mass reduction and track-focused grip"
+  ]
+}

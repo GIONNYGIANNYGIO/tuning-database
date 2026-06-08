@@ -1,0 +1,15 @@
+{
+  "brand": "PORSCHE",
+  "model": "PANAMERA PLATINUM EDITION",
+  "prestazioni": [
+    "Engine: 4.0L twin-turbo V8 (engine code: *MA1.76*), upgraded with a *Garrett GTX5533R* turbocharger (76mm billet compressor wheel, 106mm turbine) paired with a *Tial MV-R 60mm* external wastegate for precise boost control, targeting 28 psi peak boost on 100-octane fuel. Custom *AEM Infinity 7* standalone ECU with flex-fuel capability and *Motec PDM15* power distribution module for precise fuel and ignition mapping.",
+    "Exhaust: *Fabspeed Motorsport Valvetronic Extreme* cat-back system with 3.5\" titanium tips, paired with *Akrapovič Evolution* headers (4-2-1 design, 304 stainless steel) and *GESI 200-cell* high-flow catalytic converters for emissions compliance without sacrificing flow. *Armytrix Valvetronic* electronic exhaust valves for on-demand backpressure adjustment.",
+    "Suspension: *Öhlins Road & Track* coilovers (TTX46M monotube dampers, 24-position rebound/compression adjustment) with *PASM* integration bypass, paired with *H&R* 25mm front / 20mm rear anti-roll bars and *Bilstein B16* helper springs for ride height retention. *Porsche Sport Chrono* adaptive damping recalibrated via *Cobb Accessport* for 30% stiffer compression under 80 mph.",
+    "Drivetrain: *Quaife ATB* helical LSD for the rear axle (930-series differential housing) with *Porsche Sport Design* 40% locking factor under load. *South Bend Clutch* twin-disc ceramic clutch (stage 3+) with *PCCB* carbon-ceramic brake kit (410mm front, 390mm rear) and *Brembo GT-R* 6-piston calipers. *Michelin Pilot Sport Cup 2 R* tires (275/35 ZR21 front, 325/30 ZR21 rear) on *HRE FF01* forged wheels (21x10.5 ET45 front, 21x12.5 ET55 rear)."
+  ],
+  "estetica": [
+    "Aero: *TechArt GTstreet RS* widebody kit (carbon fiber, 50mm front / 70mm rear fender flares) with *Vorsteiner* front splitter (3D-printed carbon, 45mm overhang) and *Rocket Bunny* GT-style rear diffuser (dual-plane design, 30% more downforce at 120 mph). *992 GT3-style* rear wing (fixed, 1,200mm span) with *Gurney flap* and *active DRS* via *Porsche Exclusive* hydraulic actuators.",
+    "Lighting: *Lux H8 V4* LED headlights with *Osram Night Breaker Laser* bulbs (1,500 lumen output) and *Morimoto XB35* fog lights (5,000K color temp). *Diode Dynamics* sequential LED turn signals (OEM-style housing) and *Vland* 2021+ taillight retrofit with *RGBW* ambient lighting (16.8 million colors, *Philips Hue* integration).",
+    "Interior: *Recaro Pole Position* carbon-Kevlar bucket seats (FIA 8862-2009 certified) with *Schroth* 6-point harnesses and *Sabelt* HANS-compatible headrests. *MOMO* *Mod.78* steering wheel (380mm diameter, Alcantara with *Porsche PDK* shift paddles) and *Alcantara* headliner with *Stitches by Tandy* diamond-quilted pattern. *Rolls-Royce* *Starlight* headliner (1,340 fiber-optic lights, *Audiophile* soundproofing via *Dynamat Extreme*)."
+  ]
+}

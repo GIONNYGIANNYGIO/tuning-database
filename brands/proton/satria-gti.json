@@ -1,0 +1,14 @@
+{
+  "brand": "PROTON",
+  "model": "SATRIA GTI",
+  "prestazioni": [
+    "Engine: Replace the stock 4G93T (1.8L DOHC 16V turbo) internals with forged Mahle Motorsport pistons (87.5mm bore, 8.5:1 compression) and Eagle H-beam connecting rods (52mm big-end) to handle 1.5-bar boost reliably. Pair with a Garrett GT2860RS turbo (0.63 A/R turbine, 0.82 A/R compressor) for 300whp on 98 RON fuel.",
+    "Fuel System: Upgrade to a Walbro 450LPH in-tank fuel pump and injectors from a Mitsubishi Evo VIII (850cc/min, top-feed) controlled via a Link G4+ Xtreme standalone ECU with 3D ignition mapping for the 4G93T’s wasted-spark coil packs. Add a Radium Engineering dual-catch can setup to mitigate oil vapor ingestion under sustained boost.",
+    "Drivetrain: Install a Quaife ATB helical LSD (QDF7J) in the F5M42 transaxle, paired with a Sachs Performance twin-disc clutch (240mm, 6-puck) and a lightweight flywheel (6.2kg) from Fidanza. Reinforce the transmission mounts with Prothane polyurethane bushings (85A durometer) to reduce torque steer under hard launches."
+  ],
+  "estetica": [
+    "Aero: Fit a custom Rocket Bunny V1 widebody kit (hand-laid carbon fiber, 30mm extended fenders) with a 3D-printed ABS front splitter (25mm overhang) and a carbon fiber rear diffuser from Seibon. Add a custom 3-piece aluminum wing (1,200mm span, 200mm chord) with Gurney flaps, mounted via adjustable carbon fiber stanchions.",
+    "Exterior: Replace all OEM glass with lightweight polycarbonate windows (1.5mm thick, UV-resistant) from Vland, saving 12kg. Paint the car in a custom matte PPG ‘Lime Green’ (code: PPG DX084) with a 3-stage pearl flake overlay, applied by a specialist using a HVLP spray system for a 5-mil thickness.",
+    "Interior: Install a full Recaro Pole Position II bucket seat setup (FIA 8862-2009 certified) with Schroth Profi II 6-point harnesses, mounted to a custom TIG-welded chromoly roll cage (1.75” OD, 0.120” wall thickness) by Custom Cages UK. Replace the OEM dash with a digital AIM MXS 1.2 Strada dash (12” display, CAN bus integration) and a Momo Mod.78 steering wheel (320mm diameter, suede grip)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "TAYCAN TURBO S",
+  "prestazioni": [
+    "APR Stage 2+ Software Optimization for the **PPM3A** (Performance Plus Motor) dual permanent-magnet synchronous motors (PMSM), unlocking 850 HP (634 kW) and 1,032 lb-ft (1,400 Nm) of torque with a 0-60 mph (0-97 km/h) time of 2.2 seconds via overboost calibration and regenerative braking recalibration for track-focused energy recuperation (compatible with 93 octane fuel and OEM battery cooling system).",
+    "Garrett GTX3582R Gen II turbocharger upgrade for the front **PPM3A** motor (simulated forced induction via inverter manipulation), paired with a custom **Porsche Motorsport** intercooler core (part #992.107.041.00) and **VRSF** 4-inch titanium downpipe with 304 stainless steel flex section to reduce backpressure by 42% and eliminate turbo lag in Sport+ mode.",
+    "KW Suspension **Clubsport 3-Way Adjustable Coilovers** (Porsche Taycan-specific valving, part #3W100-0002) with **Eibach ERS** helper springs (2.5mm wire diameter, 180 N/mm rate) and **H&R** 25mm front / 20mm rear anti-roll bars (part #54657-1) to eliminate body roll during high-G launches, paired with **Pagid RSL29** endurance brake pads and **Brembo GT 410mm x 38mm** two-piece rotors with titanium bobbin hardware for sustained 1.5G deceleration."
+  ],
+  "estetica": [
+    "Rocket Bunny **Pandem V3** widebody kit (Porsche Taycan-specific, part #RB-TAY-003) with carbon fiber fenders (2.5mm thickness, pre-preg autoclave cured) and **Vorsteiner** front splitter (part #V-ST-1000) with integrated **AEM** water/methanol injection nozzles for aerodynamic balance at 180+ mph (290+ km/h).",
+    "**Rotiform LAS-R** 21x10.5 ET45 (front) and 21x12.5 ET50 (rear) forged wheels in **Brushed Titanium** finish, wrapped in **Michelin Pilot Sport Cup 2 R** tires (275/30 R21 front, 325/25 R21 rear) with **Hankook Ventus R-S4** semi-slick compounds for track use, paired with **BBS** titanium wheel bolts (part #085.640.0005.TI).",
+    "**Akrapović Evolution Line Titanium** exhaust system (part #POR-1825-TI) with quad 100mm carbon fiber tips and **REMUS** electronic valve control module (part #088000) for 3-stage sound tuning (Track, Sport, Comfort), paired with a **Seibon Carbon** engine cover (part #CF-POR-TAY-ENG) and **APR** carbon fiber side skirts (part #CF-992-001) with integrated LED puddle lights."
+  ]
+}

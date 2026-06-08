@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "PANAMERA SPORT TURISMO",
+  "prestazioni": [
+    "Engine: 4.0L V8 twin-turbo (EA825/MA1.76) with a custom Manthey Racing Stage 2 ECU flash (992.2-specific calibration) increasing boost to 1.6 bar, paired with a Wagner Tuning Competition intercooler kit (PN: 40000100) for sustained 680 hp and 850 Nm torque, while retaining the stock turbochargers (KKK K04-064) with ported compressor housings and billet wheel upgrades from TurboSmart.",
+    "Drivetrain: 9-speed PDK (PN: 9A1) with a Guard Transmission Services full rebuild incorporating a Sachs Performance dual-mass flywheel (PN: 3000951001) and a Quaife ATB differential (PN: QDF9Y) with 40% preload for aggressive torque split, paired with a custom driveshaft from GTSport Engineering to handle the increased power without NVH issues.",
+    "Suspension: KW Suspensions Clubsport coilovers (PN: 3W93100A00) with 3-way adjustable damping, 20mm front and 15mm rear lowering, and spherical top mounts from Tarox (PN: P120001) for precise camber control, combined with a Manthey Racing front sway bar (PN: 991.341.041.02) and rear sway bar (PN: 991.341.042.02) to eliminate body roll, while retaining the stock PASM system for adaptive damping compatibility."
+  ],
+  "estetica": [
+    "Aero: TechArt GTsport front splitter (PN: TA-992-001) with integrated carbon dive planes, paired with a Vorsteiner V-FF103 rear diffuser (PN: V-103-001) and a custom 3D-printed active rear spoiler extension from 9ff (PN: 9FF-992-002) that deploys at 120 km/h for an additional 15% downforce, all finished in matte Graphite Grey (2P2).",
+    "Wheels: HRE P101SC 21x10.5J ET45 front and 21x12.5J ET50 rear forged wheels (PN: P101SC-211057759F/P101SC-211257759R) with custom center-lock adapters, wrapped in Michelin Pilot Sport Cup 2 R tires (275/30 ZR21 front, 325/25 ZR21 rear) for maximum mechanical grip, paired with Brembo GT 380mm front and 350mm rear monoblock calipers (PN: 1N3.351.80) with 40mm pistons and custom titanium brake lines from AP Racing.",
+    "Exterior: Full carbon fiber body kit from RWB (Rauh-Welt Begriff) including custom fender flares (992-specific, PN: RWB-992-001), side skirts (PN: RWB-992-002), and a rear bumper cover (PN: RWB-992-003) with integrated dual exhaust outlets, all finished in a custom Porsche GT3 Touring-inspired paint scheme (Lava Orange with satin black accents) applied by Stuttgart-based painter Uwe Gemballa."
+  ]
+}

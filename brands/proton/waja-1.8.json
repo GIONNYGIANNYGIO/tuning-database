@@ -1,0 +1,14 @@
+{
+  "brand": "PROTON",
+  "model": "WAJA 1.8",
+  "prestazioni": [
+    "Engine: Mitsubishi-sourced 4G93P (1.8L DOHC 16V, 133hp stock) with forged internals including Eagle H-beam connecting rods, Mahle Motorsport forged pistons (8.5:1 compression for forced induction), and ACL Race Series bearings for 300+ hp reliability under boost.",
+    "Forced Induction: Garrett GT2860RS turbocharger (0.63 A/R turbine housing) with custom 3-inch stainless steel downpipe, HKS SSQV4 blow-off valve, and GReddy Profec B Spec II boost controller (targeting 1.2 bar / 17.4 psi peak boost).",
+    "Fuel & Ignition: Walbro 255 LPH in-tank fuel pump, Injector Dynamics ID1000 fuel injectors, AEM 320LPH external fuel pump, and Haltech Elite 1500 ECU with custom 4G93P-specific base map (including 2-step launch control and flex-fuel ethanol compensation)."
+  ],
+  "estetica": [
+    "Body Kit: Veilside Fortune 03 widebody conversion (modified to fit Waja chassis with custom carbon fiber fender flares, front splitter, and rear diffuser), including custom 3D-printed mounting brackets for OEM+ fitment.",
+    "Suspension: Ohlins Road & Track DFV coilovers (custom valved for Waja chassis geometry), SuperPro poly bushings (full kit), and Cusco 22mm front / 19mm rear adjustable sway bars for reduced body roll.",
+    "Wheels & Aero: Work Emotion CR Kiwami 18x9.5 +25 (front) and 18x10.5 +30 (rear) with 245/40/18 and 275/35/18 Michelin Pilot Sport Cup 2 tires, paired with custom carbon fiber canards (APR GT-250 style) and a custom 3D-printed rear wing (inspired by the Lotus Exige V6 Cup)."
+  ]
+}

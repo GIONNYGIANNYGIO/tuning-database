@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "PANAMERA GTS",
+  "prestazioni": [
+    "Engine: 4.0L V8 twin-turbo (MA1.71) with a custom ECU flash from Sharkwerks Stage 2+ (targeting 650 HP / 620 lb-ft on 93 octane, retaining OEM reliability via revised ignition timing and boost pressure mapping up to 22 psi peak).",
+    "Forced Induction: Hybrid turbo upgrade using Garrett GTX4271R Gen II turbos (62mm compressor, 71mm turbine) with billet compressor wheels, TiAL MV-R 44mm wastegates, and custom 3.5\" stainless steel downpipes (catless) from Fabspeed Motorsport, paired with a CSF aluminum intercooler (50% larger core than OEM).",
+    "Drivetrain: Quaife ATB helical LSD (part # QKE50R) for the rear axle, paired with a Sachs Performance SMG-style twin-disc clutch (clamp load: 1,200 Nm) and a Guard Transmission 8-speed PDK tune (reduced shift times to 120ms via custom TCU flash from Cobb Tuning)."
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny V3 widebody kit (Porsche Panamera GTS-specific, 30mm wider front fenders, 40mm rear) with carbon fiber front splitter, rear diffuser, and GT3-style ducktail spoiler (all in raw carbon weave).",
+    "Wheels: HRE FF16 flow-formed wheels (21x10.5 +30 front, 21x12 +45 rear) in matte bronze, wrapped in Michelin Pilot Sport Cup 2 R tires (275/30 front, 325/25 rear).",
+    "Exterior: Full 3M Matte Satin Stealth wrap with custom gloss black accents on the grille, side blades, and rear light bar, paired with OEM+ SportDesign carbon fiber mirrors and a custom titanium exhaust outlet from Akrapović (dual 100mm tips, titanium construction)."
+  ]
+}

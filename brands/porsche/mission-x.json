@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "MISSION X",
+  "prestazioni": [
+    "Engine: 4.0L V10 (9A2 EVO) with a custom-built 102mm billet crankshaft from Pankl Racing Systems, forged Mahle pistons (24.5:1 compression), and titanium connecting rods by Carrillo for 10,500 RPM redline capability. Paired with a bespoke Garrett GTX5544R Gen II turbocharger (1.4 bar boost) and a custom 4.5L air-to-water intercooler from PWR, achieving 1,200+ HP on E85 fuel with a Motec M150 ECU managing the direct port methanol injection (AEM 340LPH pump).",
+    "Drivetrain: 9-speed PDK transmission reinforced with a Quaife ATB differential and a Tilton triple-plate carbon clutch. Custom half-shafts by GKN Driveline with tripod CV joints for 1,500 Nm torque capacity. Rear-wheel steering system recalibrated by Manthey Racing for 3.5° of rear-wheel angle at 200+ km/h.",
+    "Suspension & Brakes: Full Ohlins TTX46 MkII coilovers with 3-way adjustable damping, 24mm front/22mm rear sway bars from H&R, and spherical bearing monoball control arms by Tarox. Braking system features 420mm carbon-ceramic rotors (PCCB) with 6-piston monobloc calipers from AP Racing, paired with Ferodo DS3000 pads and steel-braided lines by Goodridge."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon-fiber widebody kit by TechArt (Mission X-specific), featuring a 3D-printed front splitter with active Gurney flaps (adjustable via cockpit switch), a rear diffuser with integrated exhaust outlets (modeled after the 919 Hybrid), and a fixed rear wing with dual-element DRS (Drag Reduction System) by 9ff. Underbody features a Venturi tunnel system with NACA ducts for 1,800 kg of downforce at 300 km/h.",
+    "Exterior: Custom 'Liquid Metal' paint by Spies Hecker (Porsche Exclusive Manufaktur), with a matte clear coat for UV resistance. Carbon-fiber side skirts with integrated LED turn signals (Luxxvision), and a removable roof panel (carbon-Kevlar hybrid) by SGL Carbon. Front grille replaced with a 3D-printed titanium mesh (laser-sintered by SLM Solutions) for optimized airflow to the radiators.",
+    "Interior: Full carbon-fiber monocoque chassis reinforcement by RUF Automobile, with a stripped-out cabin featuring Recaro Pole Position seats (carbon-Kevlar shell, 6-point Schroth harnesses). Custom digital dash by Motec (C127 display) with a 10.5-inch touchscreen for telemetry. Steering wheel is a bespoke carbon-fiber unit by MOMO (Porsche 917-inspired) with integrated paddle shifters and a quick-release hub by Sparco."
+  ]
+}

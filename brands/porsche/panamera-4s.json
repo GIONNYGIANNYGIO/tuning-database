@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "PANAMERA 4S",
+  "prestazioni": [
+    "Engine: 3.0L V6 Twin-Turbo (970.2) *MA1.71* (2016-2020) – Full hybrid turbo system upgrade with *Garrett GTX3582R Gen II* turbos (1.25 A/R, 62mm compressor, 76mm turbine) paired with *TurboSmart 45mm Comp-Gate wastegates* and *Precision Turbo 600HP intercoolers* (bar-and-plate, 1200cfm flow). Custom *VRSF downpipes* (3.5\" diameter, T304 stainless) with *Borla Pro XS* cat-back exhaust (dual 3.5\" outlets, 304 stainless, non-resonated).",
+    "ECU/TCU: *Alientech KESS3* Stage 2+ flash (98 RON fuel) with *Cobb Accessport V3* for real-time monitoring. Custom *Motec M150 ECU* standalone conversion with *Link G4+ Xtreme* piggyback for boost control (32psi peak, 28psi sustained). *Porsche PDK 9-speed TCU tune* by *Sharkwerks* (0.03s faster shifts, launch control at 5,500 RPM).",
+    "Suspension/Handling: *Öhlins Road & Track DFV* coilovers (24-way adjustable damping, 30mm drop) with *PASM delete* and *H&R 28mm front / 25mm rear anti-roll bars*. *Bilstein B16 PSS10* rebound springs (8kg/mm front, 10kg/mm rear) and *SuperPro* poly bushings (full subframe, control arms, sway bar links). *AP Racing 6-piston front / 4-piston rear* big brake kit (405mm rotors, J-hook slots) with *Ferodo DS2500* pads and *Motul RBF 660* brake fluid."
+  ],
+  "estetica": [
+    "Aero: *TechArt GTstreet RS* widebody kit (carbon fiber, 30mm wider front fenders, 40mm rear) with *Rocket Bunny* GT-style front splitter (3D-printed ABS, 50mm overhang) and *Vorsteiner* carbon fiber rear diffuser (dual 4\" exhaust cutouts). *Porsche 918 Spyder* rear spoiler (carbon fiber, 3-position adjustable, +120kg downforce at 200km/h).",
+    "Wheels: *HRE FF01* 21x10.5\" ET35 front / 21x12.5\" ET45 rear (forged 3-piece, titanium bolts) with *Michelin Pilot Sport Cup 2 R* tires (275/30/21 front, 325/25/21 rear). *BBS FI-R* 20x9.5\" ET40 front / 20x11\" ET45 rear (track-spec, 10.5kg per wheel) for winter use with *Pirelli P Zero Winter* 255/40/20 front, 295/30/20 rear.",
+    "Interior/Exterior: *Recaro Pole Position* carbon-Kevlar bucket seats (Schroth 6-point harnesses, +30mm bolstering) with *Sabelt GT-C* seatbelts. *Alcantara* headliner, door cards, and dashboard (custom stitched by *RUF Automobile*). *Porsche 911 GT3 RS* steering wheel (carbon fiber, 380mm diameter, *Momo* quick-release hub). *HRE* carbon fiber engine cover (clear-coated, exposed weave) with *LED* under-hood lighting (RGB, *Philips Hue* integration)."
+  ]
+}

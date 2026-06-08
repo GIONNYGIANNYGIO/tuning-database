@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "MACAN TURBO EV PROTOTYPE",
+  "prestazioni": [
+    "Front and rear electric motor upgrade to Porsche's **PTV950E** (930 kW / 1,265 HP combined) via **Magna PT eDrive** high-efficiency stator rewinding with **Siemens 250 kW SiC MOSFET inverters**, enabling 0-100 km/h in 2.1s and a governed top speed of 300 km/h (limited by Michelin Pilot Sport EV tire compound).",
+    "Custom **Porsche Engineering 800V 100 kWh battery pack** with **SK Innovation NMC9½ chemistry** and **Molicel P45B cells** (460 Wh/kg energy density), featuring **AP Racing 6-piston carbon-ceramic brake regen cooling ducts** and **Mahle Jet Ignition-style thermal management** for sustained 3.5C discharge rates during track use.",
+    "Bilstein **B16 PSS10 coilovers** with **Porsche 992 GT3-derived adaptive dampers**, **Eibach ERS 1,200 N/mm helper springs**, and **H&R 25mm front / 20mm rear anti-roll bars** (T6 7075 aluminum construction), paired with **Porsche Motorsport 911 GT3 Cup-spec spherical bearing control arms** and **Tenneco Clevite 77 bearings** for sub-2.0s Nürburgring Nordschleife sector times."
+  ],
+  "estetica": [
+    "**Rocket Bunny V3 Macan EV widebody kit** (pre-preg carbon fiber, 60mm front / 80mm rear fender flares) with **Vorsteiner V-FF103 forged wheels** (21x10.5 ET35 front, 22x12.5 ET40 rear) wrapped in **Michelin Pilot Sport Cup 2 R** (275/30 R21 front, 325/25 R22 rear) and **AP Racing CP9660-1000 brake calipers** (6-piston front, 4-piston rear) with **Pagid RS29 pads**.",
+    "Custom **911 GT2 RS Clubsport-inspired rear diffuser** (3D-printed **Stratasys Nylon 12CF** with **AeroTech Labs boundary layer suction ducts**) and **Porsche 918 Spyder-style active rear wing** (carbon fiber, **Bosch MM5.10 servo motors**, 1,200 N downforce at 250 km/h), paired with **HRE FF03** center-lock wheel nuts and **BBS FI-R** forged wheels for the spare tire delete.",
+    "**Forge Motorsport carbon fiber front splitter** (50mm overhang, **Gurit SE 70 prepreg**) with **Magnepan 1.7i-style aeroelastic vortex generators** and **Porsche 919 Hybrid-derived side skirts** (aluminum honeycomb core, **3M VHB 5952 adhesive**), finished in **Porsche GT Silver Metallic (991.2 GT3 RS color code 298)** with **3M 1080 Gloss Black vinyl** on the roof and mirrors."
+  ]
+}

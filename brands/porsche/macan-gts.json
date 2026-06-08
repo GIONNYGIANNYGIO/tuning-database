@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "MACAN GTS",
+  "prestazioni": [
+    "Engine: 2.9L twin-turbo V6 (engine code: **DDT**) with a **VF Engineering V2000 hybrid turbo upgrade** (GTX42-based billet wheel compressor, 64mm turbine, 58mm billet wheel, 4.0 bar MAP sensor) paired with a **Motec M150 ECU** for full flex-fuel (E85) calibration, targeting 650whp on 93 octane and 720whp on E85 with a **Wagner Tuning Competition intercooler** (100% aluminum, 4.5L core volume, 30% larger than OEM).",
+    "Drivetrain: **Porsche Motorsport PDK transmission reinforcement kit** (billet steel shift forks, upgraded clutch packs, and a **Salzburger Performance PDK tune** with 80ms shift times) paired with a **Quaife ATB helical LSD** (85% lock under load) and **PCCB carbon-ceramic brakes** (410mm front, 390mm rear) with **Brembo GT 6-piston calipers** and **Ferodo DS2500 pads** for fade resistance.",
+    "Suspension: **KW Automotive Clubsport coilovers** (3-way adjustable damping, 40mm front/30mm rear ride height adjustment, **Porsche-specific spring rates: 180N/mm front, 220N/mm rear**) with **H&R anti-roll bars** (24mm front, 22mm rear, adjustable in 3 positions) and **SuperPro poly bushings** (full subframe, control arms, and sway bar end links) for chassis rigidity."
+  ],
+  "estetica": [
+    "Aero: **9ff GTronic widebody kit** (carbon fiber front splitter, side skirts, and rear diffuser with integrated **Vortex Generator** strakes) paired with a **Rocket Bunny V3 rear wing** (carbon fiber, 1,200mm span, adjustable in 5 positions) and **OEM Porsche Sport Design front bumper** (with **LED Matrix headlights** and **Lux H8 V4 Angel Eyes**).",
+    "Wheels: **BBS FI-R 21x10.5 ET35 (front) / 21x12 ET45 (rear)** in **Forged Diamond Black finish** with **Michelin Pilot Sport Cup 2 R tires** (275/30/21 front, 325/25/21 rear) and **H&R spacers** (15mm front, 20mm rear) for flush fitment.",
+    "Interior: **Recaro Pole Position seats** (carbon fiber shell, Alcantara/leather with **Schroth 6-point harnesses**) paired with a **MOMO Mod.78 steering wheel** (suede, 350mm diameter, **Porsche PDK shift paddles**) and **Alcantara headliner** (with **LED ambient lighting** in **Porsche GT3 RS Green**)."
+  ]
+}

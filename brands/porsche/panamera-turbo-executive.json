@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "PANAMERA TURBO EXECUTIVE",
+  "prestazioni": [
+    "Engine: 4.0L V8 twin-turbo (EA839 / 970.2) with a custom Gintani Stage 3+ ECU flash, increasing boost pressure to 24 psi (stock: 14.5 psi) via upgraded BorgWarner EFR 8670 turbochargers with billet compressor wheels, paired with a Gintani-spec titanium exhaust manifold and 3.5\" downpipes with catalytic converter delete for optimized spool and flow dynamics.",
+    "Drivetrain: Reinforced 8-speed PDK transmission with a Guard Industries limited-slip differential (LSD) and upgraded Sachs Performance dual-mass flywheel (DMF) with uprated clutch pack, enabling 0-60 mph in 2.8 seconds (stock: 3.6s) and a top speed of 210 mph (stock: 190 mph) with a custom Gintani TCU tune for lightning-fast shifts.",
+    "Suspension & Handling: KW Automotive Clubsport coilovers with 3-way adjustable damping (compression, rebound, and preload), paired with Porsche Motorsport 911 GT3-derived front and rear sway bars (24mm front, 22mm rear), and Brembo GT 6-piston monobloc calipers with 420mm carbon-ceramic rotors (stock: 390mm) for extreme braking performance."
+  ],
+  "estetica": [
+    "Aerodynamics: TechArt GTstreet Aero Kit with carbon fiber front splitter, side skirts, and a massive rear diffuser, combined with a custom 3D-printed active rear wing (adjustable via hydraulic actuators) for downforce levels exceeding 300 lbs at 150 mph, while maintaining OEM+ fitment.",
+    "Exterior Styling: Full body wrap in Avery Dennison Supreme Wrapping Film (Matte Space Gray) with custom laser-etched Porsche crest badges (replaced with carbon fiber versions), and HRE P101SC forged wheels (21\" front, 22\" rear) in a satin black finish with Michelin Pilot Sport Cup 2 R tires (275/35 ZR21 front, 325/30 ZR22 rear).",
+    "Interior: Full carbon fiber overhaul with a custom Weichers carbon fiber steering wheel (flat-bottom, Alcantara-wrapped) featuring integrated Motec C125 digital dash, Recaro Sportster CS seats with Schroth 6-point harnesses, and a bespoke rear executive lounge conversion with a 10.2\" touchscreen entertainment system and a mini-fridge (replacing the rear seats)."
+  ]
+}

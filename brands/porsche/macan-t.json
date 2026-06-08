@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "MACAN T",
+  "prestazioni": [
+    "ECU remap by APR targeting the EA888 Gen3 2.0L TFSI (engine code: **DDFA**) with Stage 2+ software, optimizing boost to 28 psi (1.93 bar) on 98 RON fuel, increasing power to 420 HP and 480 Nm of torque while retaining the factory BorgWarner K04 turbocharger with a hybrid upgrade (Garrett GT2867R core, billet compressor wheel, and 0.63 A/R turbine housing) for reduced lag and improved spool characteristics",
+    "Full turbo-back exhaust system by Akrapović with 70mm titanium-coated downpipes, 200-cell catalytic converters, and a valved center muffler bypassing the factory rear silencer for a 12 dB increase in sound pressure under full load while maintaining backpressure for low-end torque",
+    "KW Suspension Clubsport coilovers (3-way adjustable damping, 40mm front/30mm rear lowering, and solid top mounts) paired with Porsche Motorsport 22mm front/20mm rear anti-roll bars and spherical bearing subframe bushings (034 Motorsport) to eliminate compliance and sharpen turn-in response for Nürburgring lap times under 8:30"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (Porsche Macan T-specific, 30mm front/40mm rear fender flares) with carbon fiber front splitter, side skirts, and rear diffuser, all finished in matte Porsche GT3 RS Lava Orange (color code: 2Y7) with exposed carbon weave on the diffuser",
+    "OEM+ Porsche Tequipment SportDesign front bumper with integrated LED fog lights (Hella Rallye 4000, 55W CREE LEDs) and a custom carbon fiber hood (Weissach-style NACA ducts, 3K twill weave) replacing the factory aluminum unit for a 12 kg weight reduction",
+    "BBS FI-R 20x9.5 ET40 (front) and 20x11 ET45 (rear) forged wheels in gloss black with titanium hardware, wrapped in Michelin Pilot Sport Cup 2 R tires (265/40 R20 front, 295/35 R20 rear) and paired with Porsche Ceramic Composite Brakes (PCCB) with yellow calipers and 410mm front/390mm rear rotors for track-ready stopping power"
+  ]
+}

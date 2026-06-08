@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "MISSION R TRACK PROTOTYPE EVO",
+  "prestazioni": [
+    "Replacement of the stock dual-motor electric powertrain (900V architecture, 800 kW/1,088 PS peak) with a Weissach-developed 'E-Performance' upgrade kit, featuring silicon carbide (SiC) MOSFET inverters (ZF 800V SiC) for 15% higher power density and 98.5% efficiency, paired with a bespoke 93.4 kWh liquid-cooled solid-state battery (QuantumScape QS-23) for 20% increased energy density and 3-minute fast-charging capability (800V/350 kW)",
+    "Installation of a custom carbon-fiber-reinforced polymer (CFRP) monocoque chassis with integrated roll cage (Multimatic DSSV dampers, 4-way adjustable, 1,200 lb/in spring rates) and a rear subframe-mounted torque vectoring system (GKN eTwinsterX with 0-100% torque split, 50ms response time) for 1.8G lateral acceleration in high-speed corners (Nürburgring Nordschleife target: 6:45.000)",
+    "Aerodynamic overhaul featuring a full-length underbody diffuser with active Gurney flaps (Porsche Motorsport 919 Hybrid-derived, 3,200 N downforce at 250 km/h), a rear wing with DRS (Drag Reduction System, 40% drag reduction at 300 km/h) and 3D-printed titanium endplates (Velo3D Sapphire, 22% lighter than CFRP), plus front splitter canards (AeroDine AMG GT3-spec, 1,100 N downforce at 200 km/h)"
+  ],
+  "estetica": [
+    "Full-body 'Liquid Metal Blue' wrap (3M 2080-108, matte finish with micro-flake pearl) over a bare carbon-fiber weave (Toray T800, 2x2 twill, 12K), including a custom 'Mission R Evo' livery with sponsor decals (Michelin Pilot Sport Cup 2 R tires, 315/710 R18 front / 325/705 R18 rear, gold-painted BBS FI-R wheels with titanium bolts)",
+    "Replacement of stock LED headlights with a custom 'LaserBoost' system (Osram PLPT9 450D E A01, 1,200-meter range, adaptive high-beam with 128-pixel matrix) and carbon-fiber side mirrors (Porsche 911 RSR-spec, 3D-printed by CRP Technology using Windform XT 2.0, 40% lighter than stock)",
+    "Interior retrofit with a full Alcantara-wrapped roll cage (Sabelt 6-point harness, FIA 8862-2009 certified), a carbon-fiber steering wheel (Momo Prototipo Evo, 12-button layout with OLED display for torque vectoring adjustments), and a bespoke digital dash (Motec C187, 7-inch high-brightness screen with real-time telemetry overlay from 120+ sensors)"
+  ]
+}

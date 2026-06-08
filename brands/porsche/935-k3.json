@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "935 K3",
+  "prestazioni": [
+    "Engine: Type-935/71 3.2L flat-six (M88/1 derived, air-cooled, 4-valve per cylinder) with billet aluminum crankshaft (917-derived, 74mm stroke) and forged Mahle pistons (90mm bore, 7.1:1 compression ratio) for 850+ HP on 1.7 bar boost with methanol-water injection (Bosch Kugelfischer mechanical fuel injection, 12-plunger pump).",
+    "Turbocharging: Single KKK K36/4 turbocharger (935-specific, 1.2 A/R turbine housing) with custom 46mm wastegate (Tial MV-R) and dual side-mount intercoolers (Behr, 12-row core, 3.5L capacity) plumbed with -10AN silicone hoses (Earl's Ultra-Flex) and 3.5-inch aluminum charge pipes (custom-bent, TIG-welded).",
+    "Drivetrain: 935/72 5-speed transaxle (dog-ring engagement, magnesium case) with 80% limited-slip differential (ZF Type 220, 4-plate clutch pack) and 930/50 halfshafts (CV-jointed, 30-spline) paired with a Sachs twin-disc clutch (240mm, cerametallic friction material) and lightweight flywheel (Titanium, 4.5kg)."
+  ],
+  "estetica": [
+    "Bodywork: Kremer K3-specific fiberglass widebody kit (front fenders extended 120mm, rear quarters 150mm) with riveted aluminum flares (0.8mm 5052 alloy) and single-piece front splitter (carbon-Kevlar, 3-stage adjustable) with integrated brake ducts (3.5-inch diameter, NACA-style).",
+    "Aerodynamics: Rear wing: Kremer 935/77 'slant-nose' biplane wing (aluminum spar, fiberglass endplates, 1.8m span) with adjustable Gurney flaps (0-20mm range) and dual-element front diffuser (carbon fiber, 3-channel design) with vortex generators (5mm height, 100mm spacing).",
+    "Interior: Full FIA-spec roll cage (T45 steel, 1.75-inch OD, 2.5mm wall thickness) with Schroth 6-point harnesses (ASM2, 3-inch lap belts) and Sparco Pro 2000 seats (carbon-Kevlar shell, 12kg each) trimmed in Alcantara (custom-patterned, fire-retardant). Instrumentation: Stack ST8100 digital dash (CAN-bus, 10Hz logging) with analog backup gauges (VDO 304 series, 100mm diameter) for boost (0-3 bar), oil temp (50-150°C), and fuel pressure (0-10 bar)."
+  ]
+}

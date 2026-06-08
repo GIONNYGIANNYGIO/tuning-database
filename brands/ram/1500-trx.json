@@ -1,0 +1,14 @@
+{
+  "brand": "RAM",
+  "model": "1500 TRX",
+  "prestazioni": [
+    "Supercharger upgrade to a Whipple W185ax Gen 5 (2.9L) twin-screw supercharger kit for the 6.2L HEMI V8 (engine code: **EFI6.2L**) with a 3.0-inch pulley, supporting 12-14 PSI of boost, paired with a Kenne Bell Boost-a-Pump to maintain fuel pressure at 65+ PSI. Requires a custom ECU flash via HP Tuners VCM Suite with a 93-octane base map and methanol injection (Snow Performance Stage 3 kit) to suppress detonation, targeting 850+ WHP on E85.",
+    "Full drivetrain reinforcement: South Bend Clutch **Dual-Disc Ceramic Clutch (SDD365000-HD)** for the TRX-specific 8HP90 transmission, paired with a **DSS Racing 4340 Chromoly Driveshaft** and **Strange Engineering S60 rear differential with 3.92 gearing** to handle the increased torque. Front differential upgraded to a **ARB RD110 Air Locker** for off-road traction.",
+    "Suspension overhaul with **Öhlins TTX46 coilovers (TRX-specific valving)** and **Eibach Pro-Truck EVO springs (2.5-inch lift)** for improved articulation, paired with **Bilstein B16 remote-reservoir shocks** for the rear. Full **Polyurethane Bushings (Energy Suspension 9.5111G)** and **Whiteline Anti-Roll Bars (front: 34mm, rear: 24mm)** to reduce body roll during high-speed desert runs."
+  ],
+  "estetica": [
+    "Widebody conversion using the **Rocket Bunny V3 TRX kit (Pandem Design)**, featuring carbon fiber fender flares with integrated LED turn signals, extended rocker panels, and a custom front splitter with **Vortex Generators** for aero stability at 120+ MPH. Painted in **PPG Matte Military Green (9393M) with satin black accents**.",
+    "Custom **Baja Designs Squadron Pro LED light bar (50-inch, amber lens)** mounted to a **Prinsu TRX Roof Rack** with a **RotopaX 4-gallon fuel cell** and **Maxtrax MKII recovery boards**. Rear bumper replaced with a **Fab Fours Vengeance Rear Bumper (with swing-out tire carrier)** and **Smittybilt XRC Winch (12,000 lb, synthetic rope)** for extreme off-road recovery.",
+    "Interior stripped and rebuilt with **Recaro Pole Position seats (cloth/Alcantara, TRX-specific bolsters)**, **Schroth 6-point harnesses (ASM27000)**, and a **Sparco Pro 2000 steering wheel (350mm, suede)**. Full **Rollcage (Custom Cages TRX-specific bolt-in cage, 4-point)** with **Racepak IQ3 Logger** and **AEM CD-7 dash display** for real-time boost, AFR, and G-force monitoring."
+  ]
+}

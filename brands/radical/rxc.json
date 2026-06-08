@@ -1,0 +1,14 @@
+{
+  "brand": "RADICAL",
+  "model": "RXC",
+  "prestazioni": [
+    "Engine: Ford EcoBoost 3.5L V6 (code: *Cyclone* 3.5L GTDI) with a custom billet aluminum dry-sump system by *Dailey Engineering* to eliminate oil starvation during sustained 2.5G lateral loads, paired with a *Garrett GTX4202R* turbocharger (84mm compressor, 1.15 A/R turbine housing) and *Tial MV-R* 44mm external wastegate for 1.8 bar (26 psi) boost targeting 750whp on E85 fuel with *Motec M150 ECU* standalone management.",
+    "Drivetrain: *Quaife ATB LSD* (80% lock) in a *Hewland NLT transaxle* (sequential 6-speed) with *AP Racing CP8450* 6-piston calipers and *PFC 380mm* carbon-carbon rotors for 1,200kg stopping power from 200mph, paired with *Alcon* titanium wheel studs and *BBS FI-R* 18x13 front / 18x15 rear forged magnesium wheels shod in *Michelin Pilot Sport Cup 2 R* (305/645-R18 front, 355/705-R18 rear).",
+    "Chassis: *Radical Motorsport* carbon-fiber monocoque reinforced with *AIM Composites* pre-preg carbon tub inserts for 12,000 Nm/deg torsional stiffness, fitted with *Öhlins TTX40* 3-way adjustable coilovers (250mm travel, 12-position rebound, 24-position compression) and *Radical-specific* pushrod-actuated *Multimatic DSSV* dampers with *Penske* remote reservoirs for track-day durability."
+  ],
+  "estetica": [
+    "Aerodynamics: *Radical RXC Spyder* carbon-fiber bodywork with *Vortex Generators* (VG) array on the A-pillars and *Gurney flaps* on the rear diffuser (30mm height, 2.5-degree angle) for +450kg downforce at 150mph, paired with a *Radical Motorsport* front splitter extension (120mm overhang) and *Ducktail* rear wing (adjustable 0-15 degrees, *Aerofoil* NACA 63-215 profile).",
+    "Lighting: *Hella* 90mm LED headlights (H9 bulb, 5,000-lumen output) with *Osram* laser high-beams (600m range) and *Radical-specific* carbon-fiber light pods housing *PIAA* 520 fog lights (30-degree cut-off, 2,500-lumen).",
+    "Interior: *Sparco* 6-point harness (Pro2000, FIA 8853/98 homologated) in *Schroth* ASM (Anti-Submarining) configuration, paired with a *MOMO* *Prototipo* flat-bottom steering wheel (320mm diameter, Alcantara grip) and *Motec* C127 dash logger (12.3-inch TFT, 1,000Hz sampling) with *AIM* *Smartycam* HD2+ onboard camera (1080p/60fps, 120-degree FOV)."
+  ]
+}

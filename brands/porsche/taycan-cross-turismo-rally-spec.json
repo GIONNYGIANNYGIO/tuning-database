@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "TAYCAN CROSS TURISMO RALLY SPEC",
+  "prestazioni": [
+    "APR Stage 2+ software recalibration for the **93.4 kWh Performance Battery Plus (engine code: APP310)** with custom torque vectoring maps to exploit the front and rear **PSM (Porsche Stability Management)** differentials, targeting 650 hp (485 kW) and 750 lb-ft (1,017 Nm) of wheel torque via a **Motec M150 ECU** piggyback for real-time rally-grade traction control adjustments",
+    "Full **PWR Australia** front-mount intercooler upgrade with dual **SPAL 12-inch slim fans** and **TurboSmart Kompact 50mm BOV** to eliminate heat soak during sustained 100% throttle runs on loose surfaces, paired with a **MagnaFlow 3.5-inch cat-back exhaust** featuring **Inconel 625 headers** and **Borla Pro XS mufflers** for a 12% reduction in backpressure",
+    "Custom **Öhlins TTX46 Rally Suspension** with **3-way adjustable dampers**, **Eibach 30mm lift springs**, and **Porsche Motorsport spherical bearing control arms** (front: **992.041.021.00**, rear: **992.041.022.00**) for 250mm of wheel travel, paired with **Brembo GT 6-piston calipers** (front) and **4-piston calipers** (rear) clamping **380mm CCM-R rotors** for gravel-stage braking"
+  ],
+  "estetica": [
+    "**Rally Art Japan** widebody conversion kit (front fenders: **RA-992-001**, rear quarters: **RA-992-002**) with **carbon fiber overfenders** and **DTM-style quick-release hood pins**, finished in **Porsche GT3 RS Lime Gold** with **3M 1080 Matte Black rally stripes**",
+    "**HRE FF03** 21x10.5 (front) and 21x12.5 (rear) forged wheels wrapped in **Michelin Pilot Sport Cup 2 R** (275/35 R21 front, 315/30 R21 rear) with **BFGoodrich KM3** (245/65 R17) spare mounted on a **Rotiform TMB** rally-spec spare tire carrier",
+    "**Seibon Carbon** front splitter, rear diffuser, and **992 GT3 RS-style swan-neck rear wing** with **Gurney flap**, all coated in **2K matte clear**, paired with **Hella Rallye 3000 Supertones** (white, 80W) and **PIAA LP570 fog lights** in **CNC-machined aluminum housings**"
+  ]
+}

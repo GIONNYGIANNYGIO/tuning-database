@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "MACAN TURBO",
+  "prestazioni": [
+    "Engine: 3.6L V6 twin-turbo (MA1.71) with a custom Gintani Stage 3+ ECU remap targeting 580 HP and 650 Nm torque, utilizing a bespoke fueling strategy with upgraded 1050cc Bosch Motorsport injectors and a Radium Engineering dual-catch can system to manage increased boost levels from the stock IHI turbochargers (reclocked to 2.0 bar peak pressure).",
+    "Forced Induction: Hybrid turbo upgrade with Garrett GTX3582R Gen II turbos (62mm compressor, 76mm turbine) on custom titanium-aluminide turbine housings, paired with a Tial MV-R 44mm external wastegate and a Vibrant Performance 3.5\" V-band downpipe with 304 stainless steel construction and 0.8mm wall thickness for optimized exhaust flow.",
+    "Suspension & Handling: KW Automotive Clubsport coilover kit (3-way adjustable damping, 40mm front/35mm rear spring rates) with custom valving for the Macan Turbo’s 5-link rear suspension, paired with H&R Monoball subframe bushings and a 25mm front/20mm rear H&R Track+ lowering kit. Braking upgraded to AP Racing 6-piston CP9660 calipers with 400mm two-piece rotors (slotted, J-hook pattern) and Ferodo DS2500 pads for track use."
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny V3 widebody kit (Pandem Design) with carbon fiber front splitter, rear diffuser, and overfenders (35mm wider front, 50mm wider rear), paired with a custom 3D-printed active rear wing (NACA duct integrated) adjustable via a Motec PDM15 for dynamic angle control based on speed and G-forces.",
+    "Wheels: HRE FF01 flow-formed wheels (21x10.5 ET35 front, 21x12.5 ET45 rear) with custom concave profiles, finished in Brushed Titanium with matte black accents. Tires: Michelin Pilot Sport Cup 2 R (275/30 R21 front, 325/25 R21 rear) with custom sidewall markings (Porsche Motorsport script).",
+    "Exterior: Full 3M Matte Satin Graphite vinyl wrap with custom PPF (XPEL Stealth) on high-impact areas (front bumper, mirrors, rocker panels). Lighting: LUX V3 LED headlight retrofit with Osram 850 Evo bulbs and custom DRL delete (replaced with carbon fiber inserts). Rear: Sequential LED taillights (Vland) with dynamic turn signals and a custom titanium exhaust tip (Akrapovic) in brushed finish."
+  ]
+}

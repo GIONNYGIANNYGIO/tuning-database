@@ -1,0 +1,14 @@
+{
+  "brand": "RADICAL",
+  "model": "RXC TURBO GT3 EVO",
+  "prestazioni": [
+    "Engine: Ford EcoBoost 3.5L V6 (engine code: *Cyclone* EcoBoost 3.5L GTDI) with a custom *Radical Motorsport* billet aluminum dry-sump system, replacing the OEM wet-sump to eliminate oil starvation during sustained 2.5G lateral loads. Upgraded *Mahle Motorsport* forged pistons (9.5:1 compression) and *Manley* H-beam connecting rods with ARP 2000 bolts for 8,500 RPM reliability.",
+    "Forced Induction: *Garrett GTX4202R* turbocharger (84mm compressor wheel, 106mm turbine) with a *Tial MV-R* 60mm external wastegate, paired to a *PTP Turbo* 4.5\" titanium downpipe and *Radical* bespoke intercooler core (600x300x125mm, 10-row bar-and-plate). Custom *Link G4+ Xtreme* ECU mapping with anti-lag and flat-shift strategies for 650+ HP at 1.6 bar (23 psi) boost on 100-octane fuel.",
+    "Drivetrain & Suspension: *Quaife ATB* helical LSD in a *Radical* sequential 6-speed transaxle (dog-ring engagement, *AP Racing* 240mm triple-plate carbon clutch). *Öhlins TTX40* 3-way adjustable coilovers with *Radical* billet aluminum top mounts, *Eibach* 1200lb/in springs, and *Radical* carbon-fiber pushrods. *Brembo GT3* 380mm front/355mm rear carbon-ceramic rotors with *Pagid RSL29* pads and *Radical* titanium brake lines."
+  ],
+  "estetica": [
+    "Aerodynamics: *Radical Motorsport* GT3-spec carbon-fiber front splitter with *Gurney flap* and *Vortex Generators* (VG) for 400kg downforce at 150mph. *Radical* rear diffuser with *active DRS* (Drag Reduction System) via *Bosch* servo motor, reducing drag by 18% on straights. *AIM* Solo 2 DL GPS data logger integrated into the *Radical* carbon-fiber dash for real-time aero telemetry.",
+    "Bodywork: Full *Radical* carbon-fiber GT3 Evo body kit with *3D-printed* NACA ducts for brake cooling and *carbon-fiber* side skirts with *integrated LED* running lights (Osram Oslon Black Flat). *PPG* custom paint in *Radical Racing Green* with *3M* 1080 matte black vinyl accents on the roof and rear wing pillars.",
+    "Interior: *Sparco* GT3 Pro carbon-fiber seat with *Schroth* 6-point harness (FIA 8862-2009 certified). *Motec* C127 dash display with *Radical* bespoke CAN bus integration for live turbo, oil, and fuel pressure data. *Radical* carbon-fiber steering wheel with *AiM* MXS Strada buttons and *OMP* quick-release hub."
+  ]
+}

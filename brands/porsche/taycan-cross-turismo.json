@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "TAYCAN CROSS TURISMO",
+  "prestazioni": [
+    "APR Stage 2+ Performance Software for the **Porsche Taycan 930.2 (PPE platform, dual permanent-magnet synchronous motors - front: APP310, rear: APP310/APP550 depending on variant)** with custom torque vectoring maps, increasing combined output to **750 kW (1,006 hp) and 1,300 Nm** on 93-octane fuel, utilizing a **Motec M150 ECU bridge** for real-time data logging and adaptive power delivery",
+    "Garrett GTX5533R Gen II turbocharger upgrade (hybrid electric-compressor system) with **custom billet compressor wheel (60mm inducer, 88mm exducer)** and **Inconel 718 turbine wheel**, paired with a **Tial MV-R 44mm wastegate** and **PTP 4-inch titanium downpipe** to eliminate backpressure in the electric turbocharger bypass system",
+    "KW Suspension Clubsport 3-way coilovers with **Porsche-specific valving (930.2 chassis code)** and **remote reservoir dampers**, featuring **24-position rebound adjustment** and **12-position compression damping**, paired with **H&R 25mm front / 20mm rear anti-roll bars** and **Porsche Motorsport spherical bearing subframe bushings (992.042.200.00)** for reduced compliance"
+  ],
+  "estetica": [
+    "RWB (Rauh-Welt Begriff) **Porsche 930.2 Cross Turismo widebody kit** with **custom carbon fiber fenders (2.5mm thick, 992-spec weave)** and **hand-cut riveted aluminum overfenders**, extending track width by **60mm front / 80mm rear** while retaining OEM crash structure compatibility",
+    "TechArt GTstreet R Aero Package (930.2-specific) featuring a **3D-printed carbon fiber front splitter with active cooling ducts for the APP310/APP550 motors**, **adjustable rear diffuser with Gurney flap (CFRP, 3-stage angle adjustment)**, and **custom side skirts with integrated LED turn signals (Lux H8 V4, 6000K, sequential)**",
+    "BBS FI-R 21x10.5J ET35 (front) / 21x12.5J ET45 (rear) forged wheels with **Porsche Motorsport center-lock adapters (992.042.202.00)** and **Michelin Pilot Sport Cup 2 R tires (275/30 R21 front, 325/25 R21 rear)**, wrapped in a **custom livery by Fuchsfarbe (Porsche GT3 RS-inspired 'Cross Turismo Weissach' scheme with matte graphite accents and exposed carbon weave)**"
+  ]
+}
