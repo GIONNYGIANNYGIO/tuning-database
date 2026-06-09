@@ -1,0 +1,14 @@
+{
+  "brand": "ROLLS-ROYCE",
+  "model": "SILVER SHADOW",
+  "prestazioni": [
+    "Engine swap to a modernized 6.75L L410 V8 (original engine code) with forged internals from Mahle (pistons, connecting rods) and a custom billet crankshaft by Bryant Racing, paired with a bespoke dry-sump oiling system by Aviaid to handle lateral G-forces during spirited driving.",
+    "Forced induction via a custom-built twin-turbo setup using Garrett GT35R turbos (84mm compressor wheels) with TiAL MV-R 44mm wastegates and a custom air-to-water intercooler system by PWR, integrated into the original grille cavity to maintain OEM aesthetics while flowing 1,200 CFM.",
+    "Full standalone engine management conversion to a Motec M150 ECU with individual throttle bodies (ITBs) by Jenvey Dynamics (45mm bore), custom fuel rails by Radium Engineering, and a dual-pump fuel system with Bosch Motorsport 044 high-flow pumps and ID1000 injectors, tuned for E85 compatibility."
+  ],
+  "estetica": [
+    "Custom widebody conversion using hand-formed aluminum panels by Carrozzeria Touring Superleggera, extending the fenders by 3 inches to accommodate 20x9.5 ET25 and 20x12 ET45 BBS LM wheels with bespoke center-lock adapters, wrapped in Michelin Pilot Sport Cup 2 tires (245/35 and 305/30 respectively).",
+    "Full bespoke interior reupholstery by Saddleback Leather, featuring hand-stitched Bridge of Weir leather with Alcantara headliner, custom rear-seat delete for a built-in roll cage by Safety Devices (chrome-moly steel, FIA-spec), and a digital dash retrofit using a 12.3-inch TFT display by Race Technology with OEM-style wood veneer trim.",
+    "Aerodynamic package by Zagato, including a carbon fiber front splitter with integrated canards (3D-printed from aerospace-grade carbon), a custom rear diffuser with active Gurney flap (electrically adjustable via a switch on the center console), and a bespoke stainless steel exhaust system by Milltek Sport with dual 4-inch outlets exiting through the rear valance."
+  ]
+}

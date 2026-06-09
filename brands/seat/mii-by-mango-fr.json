@@ -1,0 +1,14 @@
+{
+  "brand": "SEAT",
+  "model": "MII BY MANGO FR",
+  "prestazioni": [
+    "Engine swap to a **EA211 1.4 TSI (CZDA/CZEA) 150HP** with forged internals (Mahle pistons, Manley H-beam rods, ARP head studs) and a **Garrett GT2056S turbo** (custom 0.63 A/R turbine housing) for 250HP at 22psi on E30 fuel, paired with a **DQ200 7-speed DSG** tuned via **Alientech KESS3** with a custom Stage 2+ TCU flash (shift times reduced to 80ms, launch control at 4,500 RPM)",
+    "Full **034 Motorsport** drivetrain reinforcement: lightweight chromoly driveshaft, upgraded clutch pack (Sachs Performance), and a **Wavetrac Torsen LSD** (80% lock) for the MQB-A0 platform, paired with **H&R 24mm rear anti-roll bar** and **KW Clubsport coilovers (2-way adjustable)** with **Eibach helper springs** for ride height retention",
+    "Custom **Milltek Sport 76mm cat-back exhaust** with **Scorpion 200-cell de-cat downpipe** (Euro 6 compliant) and **AEM X-Series wideband O2 sensor** for real-time AFR logging, integrated with a **Syvecs S6Plus standalone ECU** (full sequential fueling, individual cylinder trims, and launch control via **Motec PDM15** for power distribution)"
+  ],
+  "estetica": [
+    "**Rieger Tuning** Mii FR-specific widebody kit (carbon fiber front splitter, rear diffuser, and side skirts) with **custom 3M Matte Graphite vinyl wrap** and **OEM+ gloss black roof** for contrast, paired with **HRE FF01 17x8 ET35 wheels** (staggered +25mm spacers for flush fitment) wrapped in **Michelin Pilot Sport Cup 2** (205/40 R17)",
+    "**Seibon Carbon** hood (with integrated NACA ducts for intercooler airflow) and **VMR V710 rear wing** (3D-printed adjustable mounts for 5°–15° angle), complemented by **Osram Night Breaker Laser headlights** (6,000K) and **Morimoto XB LED fog lights** with **custom C-shaped DRLs** (RGBW, controlled via **Arduino Nano + Bluetooth**)",
+    "**Recaro Pole Position** seats (carbon shell, Alcantara/leatherette upholstery) with **Schroth Profi II 4-point harnesses**, **Momo Mod.73 steering wheel** (320mm, suede, quick-release hub), and **custom aluminum pedal set** (machined from 6061-T6, non-slip grip) paired with a **Bride Low Max reclinable seat** (for passenger side)"
+  ]
+}

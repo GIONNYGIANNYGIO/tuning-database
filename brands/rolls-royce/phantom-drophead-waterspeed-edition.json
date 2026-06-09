@@ -1,0 +1,14 @@
+{
+  "brand": "ROLLS-ROYCE",
+  "model": "PHANTOM DROPHEAD WATERSPEED EDITION",
+  "prestazioni": [
+    "Engine: N74B68 6.8L V12 twin-turbo (6749cc) – Full carbon-fiber intake plenum by Eventuri with bespoke laser-cut mesh filters, replacing the OEM plastic unit for a 12% airflow increase and a 0.3s faster 0-60 mph response under WOT conditions.",
+    "Forced Induction: Hybrid turbocharger upgrade by Turbo Dynamics (UK) – Custom Garrett GTX5533R billet wheel turbos with 76mm compressor wheels and 67mm turbine wheels, mated to a bespoke BorgWarner EFR wastegate actuator for 1.2 bar peak boost (up from 0.8 bar stock) while maintaining OEM-like drivability via a Motec M150 ECU with custom rolling anti-lag maps.",
+    "Exhaust: Full 304 stainless steel exhaust system by Milltek Sport, featuring 3.5\" mandrel-bent downpipes with 200-cell catalytic converters (for Euro 6 compliance), a valved X-pipe crossover, and quad 4.5\" titanium-tipped resonated rear mufflers tuned to produce a 350Hz dominant frequency at 4,500 RPM, enhancing the V12’s naturally aspirated character while reducing backpressure by 42%."
+  ],
+  "estetica": [
+    "Aero: Custom carbon-fiber front splitter and rear diffuser by Lumma Design (Germany), designed in a wind tunnel to generate 85kg of downforce at 120 mph without increasing drag (Cd remains at 0.36). The splitter features integrated LED daytime running lights with a 6,000K color temperature and a hydrophobic nano-coating to repel water during high-speed cruising.",
+    "Wheels: Forged 23\" x 9.5\" (front) and 23\" x 11\" (rear) multi-piece wheels by HRE Performance Wheels (FF16 model), finished in a custom \"Waterspeed Blue\" brushed titanium with polished lip edges. The wheels are shod with Pirelli P Zero Corsa tires (285/30 ZR23 front, 325/25 ZR23 rear) and feature a hidden TPMS system with real-time pressure/temperature monitoring via a RaceLogic VBOX display.",
+    "Interior: Full Alcantara and carbon-fiber reupholstery by Saddleback Leather (UK), including a custom Waterspeed Edition steering wheel with a 3D-embossed Rolls-Royce Spirit of Ecstasy logo in palladium, a rear-seat entertainment system with dual 12.3\" OLED screens (powered by a hidden NVIDIA Jetson Xavier module for 4K video processing), and a bespoke Bose Panaray audio system with 24 speakers and a 2,400W amplifier tuned to the car’s acoustic signature."
+  ]
+}

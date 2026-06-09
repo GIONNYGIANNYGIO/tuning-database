@@ -1,0 +1,14 @@
+{
+  "brand": "SSC",
+  "model": "ULTIMATE AERO XT",
+  "prestazioni": [
+    "Engine: Twin-turbocharged SSC-designed 6.35L V8 (engine code: SSC-635TT) with forged internals, upgraded to 1,500+ HP via dual Garrett GT55R turbochargers (84mm compressor wheels, 1.28 A/R turbine housings) and a custom Motec M150 ECU with flex-fuel ethanol mapping (E85 compatible).",
+    "Drivetrain: Reinforced 6-speed sequential transmission (Ricardo PLC) with upgraded carbon-fiber clutch (Tilton ST-2000) and a Quaife ATB helical LSD for optimized power delivery to the rear wheels.",
+    "Suspension: Full Ohlins TTX46 coilover system with 3-way adjustable damping (compression, rebound, and high/low-speed settings), paired with SSC-specific spherical bearing control arms and Eibach ERS race springs (25% stiffer than OEM)."
+  ],
+  "estetica": [
+    "Aerodynamics: Custom SSC-developed 'Aero XT' carbon-fiber body kit (front splitter, side skirts, and rear diffuser) with active rear wing (adjustable angle via hydraulic actuators) for 2,200 lbs of downforce at 200+ mph.",
+    "Wheels: HRE FF15 20x12 (front) and 21x14 (rear) forged wheels with custom SSC center-lock adapters, wrapped in Michelin Pilot Sport Cup 2 R tires (285/30ZR20 front, 355/25ZR21 rear).",
+    "Interior: Full carbon-fiber monocoque with Recaro Pole Position seats (Schroth 6-point harnesses), a custom SSC digital dash (Motec C127 display), and a titanium roll cage (built by Sparco) for chassis rigidity and safety."
+  ]
+}

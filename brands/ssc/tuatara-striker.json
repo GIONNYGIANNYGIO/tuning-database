@@ -1,0 +1,14 @@
+{
+  "brand": "SSC",
+  "model": "TUATARA STRIKER",
+  "prestazioni": [
+    "Engine: SSC 7.0L twin-turbo V8 (engine code: SSC-Tuatara-V8-7.0TT) – Replace stock turbos with **Precision Turbo & Engine PT9285CE** billet wheel turbos (85mm compressor, 106mm turbine) paired with **Tial MV-R 60mm wastegates** and **TurboSmart Race Port BOV** for 2.8 bar (40 psi) boost targeting 2,500+ HP on E85.",
+    "Fuel System: Upgrade to **FuelTech FT600 ECU** with **ID1700x injectors** (2,200cc/min) and **AEM 400LPH dual-pump fuel system** (AEM 340AR pumps) feeding a **Radium Engineering dual-port fuel rail** with -8AN lines and **XRP billet fuel pressure regulators** (set to 100 psi base).",
+    "Drivetrain: **PPG 6-speed sequential transaxle** with **Tilton triple-disc carbon clutch** (7.25\" diameter) and **Alcon 6-piston monoblock calipers** (380mm rotors) for 3,500 lb-ft torque capacity, paired with **OS Giken Super Lock LSD** (40% lockup) and **Penske 8760 coilovers** (3-way adjustable, 1,200 lb/in springs)."
+  ],
+  "estetica": [
+    "Aero: **SSC Striker-specific carbon fiber widebody kit** (extended 3\" fenders, 20mm rear diffuser extension) with **Vortex Generator Tech (VGT) active rear wing** (adjustable 0-30° angle, 3D-printed titanium endplates) and **Aeroflow underbody panels** (CFRP, 50% downforce increase at 200 mph).",
+    "Exterior: **PPG Xtreme Basecoat/Clearcoat** in **SSC Hyper Silver** (matte flake, 20% reflectivity) with **3M Scotchlite 980CR retroreflective pinstripes** (0.5mm width, laser-cut) and **HRE FF01 wheels** (20x12\" front, 21x14\" rear, forged 3-piece, 12.5kg each, **Pirelli P Zero Trofeo R** 265/30R20 front, 345/25R21 rear).",
+    "Interior: **Sabelt 8062F FIA-spec carbon fiber seats** (6-point harness, 1.2kg each) with **MOMO Prototipo EVO steering wheel** (380mm diameter, Alcantara/red stitch, **AiM MXS 1.2 Strada dash** integrated) and **Brembo GT-R pedal set** (adjustable bias, titanium pivot pins)."
+  ]
+}

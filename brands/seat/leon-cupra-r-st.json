@@ -1,0 +1,14 @@
+{
+  "brand": "SEAT",
+  "model": "LEON CUPRA R ST",
+  "prestazioni": [
+    "Engine: EA888 Gen 3 (CUPRA-specific DAZA code) – Full forged internals upgrade with Manley 83mm forged crankshaft, Mahle Motorsport forged pistons (8.5:1 compression), and Pauter billet connecting rods for 3000+ RPM stability. Precision Turbo PT6266 CEA ball-bearing turbocharger with custom 0.82 A/R turbine housing and 64mm compressor wheel, paired with a Tial MV-R 44mm external wastegate for 3.2 bar peak boost.",
+    "Fuel System: Bosch Motorsport 1000cc high-impedance injectors with custom fuel rail, AEM 400LPH in-tank fuel pump, and Radium Engineering dual catch can setup with -10AN lines to prevent oil dilution. Motec M150 ECU with custom CAN bus integration for launch control, anti-lag, and flat-foot shifting (FFS) via a Sachs Performance twin-disc clutch and Quaife ATB differential (CUPRA R-specific 50/50 torque bias).",
+    "Suspension & Handling: Ohlins Road & Track DFV coilovers with 8-position adjustable damping, custom valving for the Leon ST’s 50:50 weight distribution, and spherical bearing top mounts. H&R Monoball subframe collars to eliminate flex, paired with SuperPro polybushings (front control arms, rear trailing arms). AP Racing 6-piston front calipers with 355mm two-piece rotors and Ferodo DS2500 pads, alongside a custom brake bias valve for track use."
+  ],
+  "estetica": [
+    "Aero: SEAT Sport-developed Cupra R ST-specific carbon fiber rear diffuser with integrated Gurney flap (OEM+ but 3D-scanned for CFD optimization), paired with a custom front splitter from Maxton Design (UK) with adjustable dive planes for -120kg downforce at 120mph. Side skirts from Prior Design with integrated air curtains for rear diffuser efficiency.",
+    "Exterior: Full Respray in SEAT’s ‘Titanium Grey’ with XPEL Stealth PPF on high-impact zones (front bumper, mirrors, rocker panels). Cupra R ST-specific 19\" OZ Racing Ultraleggera HLT wheels in 8.5J ET45 (front) and 9.5J ET48 (rear) with Michelin Pilot Sport Cup 2 R tires (235/35/19 front, 265/30/19 rear). Custom rear spoiler delete with a carbon fiber ‘ducktail’ from Maxton Design for reduced drag (Cd 0.31).",
+    "Interior: Full Recaro Sportster CS bucket seats with Schroth Profi II 6-point harnesses, bolted to a custom TIG-welded roll cage from Custom Cages (UK) with integrated fire suppression system (Lifeline Zero 360). Momo Prototipo steering wheel with integrated AIM MXS Strada dash, and a custom center console delete for a Motec PDM15 power distribution module. Alcantara headliner and door cards from SEAT’s ‘Cupra Racing’ division, with red contrast stitching."
+  ]
+}

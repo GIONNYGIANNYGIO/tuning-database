@@ -1,0 +1,14 @@
+{
+  "brand": "ROLLS-ROYCE",
+  "model": "WRAITH",
+  "prestazioni": [
+    "Engine: N74B66 6.6L Twin-Turbo V12 (624hp stock) – Full bolt-on hybrid turbo upgrade with **Garrett GTX5533R Gen II** turbos (1.25 A/R, 76mm compressor, 64mm turbine) paired with **Precision Turbo & Engine 7675** ball-bearing center housings for reduced lag and 850whp capability on E85. Custom **Vargas GC billet compressor wheels** for optimized airflow at 2.2 bar boost.",
+    "Fuel System: **Bosch Motorsport 1000cc port injectors** (primary) + **ID1700x side-feed direct injectors** (secondary) with **AEM 2000cc fuel pumps** (dual setup) and **Radium Engineering fuel pressure regulator** (adjustable base pressure to 6.5 bar). **Motec M150 ECU** standalone management with **Link G4+ Xtreme** backup for fail-safe redundancy.",
+    "Drivetrain: **ZF 8HP90 8-speed transmission** reinforced with **Sonnax billet valve body** and **FTI Level 4 clutch pack** for 1,200 Nm torque capacity. **Quaife ATB differential** (80% lock) with **custom 3.73:1 final drive ratio** (stock 2.81:1) for improved acceleration. **AP Racing 6-piston calipers** (380mm rotors) with **Ferodo DS3000 pads** and **Goodridge G-Stop braided lines** for 1,500kg stopping power."
+  ],
+  "estetica": [
+    "Body: **Liberty Walk LB-WORKS Wraith widebody kit** (carbon fiber fenders, front/rear bumpers, and side skirts) with **custom 50mm extended wheel arches** to fit **22x12.5 ET15 front / 22x13.5 ET10 rear** forged wheels. **Vorsteiner V-RT carbon fiber hood** (dual vented) and **Rocket Bunny rear diffuser** (3-piece, adjustable angle).",
+    "Aero: **Aeromotions active rear wing** (3D-printed carbon, 1,200mm span, 300mm chord) with **Gurney flap** and **DTM-style swan neck mounts**. **Underbody aero package** by **PERRIN Performance** (front splitter, side splitters, and rear diffuser with **Vogtland 4-way adjustable air jacks** for ride height tuning). **Custom titanium exhaust tips** (120mm diameter, **Akrapović titanium** construction) with **electronic butterfly valves** for sound modulation.",
+    "Interior: **Recaro Pole Position SPG XL seats** (carbon-Kevlar shell, 6-point harnesses) with **Schroth Profi II-6 belts**. **MOMO Prototipo steering wheel** (380mm, Alcantara/leather) with **AiM MXS 1.2 dash** (12-inch display, **Bosch LSU 4.9 wideband O2 sensors**). **Rolls-Royce Spirit of Ecstasy** replaced with **custom 3D-printed titanium figurine** (hollow, 30% lighter) on **electromagnetic retractable mount** (activated via **RaceLogic VBOX button**)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "SEAT",
+  "model": "IBIZA CUPRA BOCANEGRA",
+  "prestazioni": [
+    "Engine: 1.8L TSI (EA888 gen3, **CJSA** engine code) – Full forged internals including Mahle Motorsport forged pistons (83mm, 9.5:1 CR), Eagle H-beam connecting rods, and ARP Custom Age 625+ head studs for 350+ hp reliability. Precision Turbo & Engine **PT6266 CEA** turbocharger with billet compressor wheel, 0.82 A/R turbine housing, and TiAL MV-R 44mm external wastegate for spool under 3,000 RPM.",
+    "Fuel System: Injector Dynamics **ID1050x** injectors (1,050cc/min) paired with a Bosch **044** high-flow fuel pump and AEM **X-Series** 350psi fuel pressure regulator. Custom **Motec M150** standalone ECU with flex-fuel ethanol mapping and launch control for 0-60 mph in 4.2s.",
+    "Drivetrain & Suspension: **AP Racing** 6-piston CP8650 front brake calipers with 355mm two-piece rotors and Ferodo **DS2500** pads. **Wavetrac** limited-slip differential with 4.11 final drive ratio. **Ohlins Road & Track DFV** coilovers with 8-position rebound damping, 24-way compression adjustment, and custom **H&R** 25mm front / 20mm rear sway bars. **Powerflex** polybushings (black series) for subframe and control arms."
+  ],
+  "estetica": [
+    "Aero: **Liberty Walk LB Works** widebody kit (Ibiza-specific, 30mm wider front fenders, 40mm rear) with carbon fiber front splitter and **Rieger Tuning** rear diffuser. **Seibon** carbon fiber hood (3.5kg weight reduction) with integrated **VRS** front-mount intercooler ducting.",
+    "Exterior: **Rotiform LAS-R** 18x9.5 ET30 wheels (front) and 18x10.5 ET35 (rear) with **Michelin Pilot Sport Cup 2** tires (235/40/18 front, 265/35/18 rear). **3M Matte Graphite Grey** vinyl wrap with **BBS Motorsport** heritage-style center caps. **Hella** 500 FF fog light deletes replaced with **Morimoto XB LED** projectors.",
+    "Interior: **Recaro Sportster CS** front seats (carbon fiber backs) with **Schroth Profi II** 6-point harnesses. **Momo Mod.78** flat-bottom steering wheel (350mm) with quick-release hub. **Aim Solo 2 DL** data logger mounted on **NRG** bolt-in roll cage (half-cage, T45 steel). **Akrapovic** titanium exhaust tip (76mm) with **Milltek** cat-back system (resonated delete)."
+  ]
+}

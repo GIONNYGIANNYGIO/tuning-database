@@ -1,0 +1,14 @@
+{
+  "brand": "ROLLS-ROYCE",
+  "model": "SILVER SERAPH PARK WARD",
+  "prestazioni": [
+    "BMW M73B54 (5.4L V12) engine: Full internal build with forged Mahle Motorsport pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a custom billet crankshaft by VAC Motorsports for 8,000 RPM reliability. Pair with a custom Schrick 284° camshaft profile and titanium retainers from Supertech Performance for aggressive valvetrain response.",
+    "Forced induction via twin Precision Turbo PT6266 CEA ball-bearing turbos (62mm inducer, 66mm exducer) with custom 3.5\" Tial MV-R wastegates and a bespoke air-to-water intercooler system by Bell Intercoolers, utilizing a 4.5-gallon ice reservoir for sustained 1.2 bar boost. Fueling upgraded with 1,200cc ID1000 injectors and a Radium Engineering dual-pump fuel surge tank feeding a Walbro 450 LPH in-tank pump.",
+    "Drivetrain reinforcement with a Quaife ATB differential (30% lock) and a Sachs Performance twin-disc clutch (ceramic-metallic) paired with a custom billet flywheel. Transmission recalibrated via a stand-alone Motec M150 ECU with launch control and flat-shift tuning, mated to a ZF 5HP30 transmission modified with a Level 10 valve body and Sonnax oversized servos for 0.15s shift times."
+  ],
+  "estetica": [
+    "Custom widebody conversion by Liberty Walk (LB-SILVERSERAPH kit) with carbon fiber fenders, extended rockers, and a 3-piece front splitter featuring integrated LED turn signals. Rear overfenders widened 3.5\" per side to accommodate 20x12\" BBS LM-R wheels (ET15) with 285/30R20 Michelin Pilot Sport Cup 2 tires.",
+    "Full carbon fiber aero package by Vorsteiner, including a 3D-scanned front bumper with active cooling ducts for the intercooler system, a GT-style rear diffuser with titanium exhaust tips (custom 4.5\" diameter by Remus), and a fixed rear wing (2.2m span) with adjustable carbon fiber Gurney flaps for 150kg downforce at 180mph.",
+    "Interior reimagined with a full Alcantara headliner (Stingray Blue) by Katzkin, Recaro Pole Position seats (carbon fiber shells, 6-point Schroth harnesses), and a custom roll cage by Safety Devices (FIA-spec, 8-point with integrated fire suppression system). Instrumentation replaced with a digital dash by AIM MXS Strada, featuring a 10Hz GPS module and CAN bus integration for real-time boost/torque monitoring."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "ROLLS-ROYCE",
+  "model": "PHANTOM DROPHEAD COUPE",
+  "prestazioni": [
+    "Engine: 6.75L V12 (N73B68) forced-induction conversion using a bespoke twin-turbo system featuring two Garrett GTX5533R Gen II turbos with TiAL MV-R 44mm wastegates and TiAL Q 50mm blow-off valves, paired with a custom Novitec Group CNC-machined intake manifold and a secondary fuel system utilizing Bosch Motorsport 0261500360 high-flow injectors (1,200cc) to support 850+ HP on 98 RON fuel with a Motec M150 ECU managing the standalone engine calibration.",
+    "Drivetrain: Reinforced ZF 6HP28A 6-speed automatic transmission with a custom Pankl Racing Systems billet torque converter (3,800 RPM stall) and a Quaife ATB differential (85% lock) in the rear, paired with a Novitec Group carbon-fiber driveshaft and a bespoke 1,000 HP-rated limited-slip differential housing for the Phantom’s unique rear subframe geometry.",
+    "Suspension & Chassis: Full Öhlins Road & Track DFV coilover system with 3-way adjustable damping (compression, rebound, and ride height), custom-machined aluminum top mounts for the Phantom’s double-wishbone front and multi-link rear suspension, paired with Eibach ERS race springs (25% stiffer than OEM) and a bespoke Novitec Group front strut brace with integrated hydraulic preload adjusters for dynamic camber correction."
+  ],
+  "estetica": [
+    "Aero: Mansory Carbonado GT widebody kit (Phantom Drophead-specific) with extended front fenders (30mm per side), a custom 3D-printed carbon-fiber rear diffuser with integrated active aero flaps (controlled via Motec PDM30), and a Novitec Group carbon-fiber front splitter with a 45mm adjustable lip for downforce tuning (up to 120kg at 200 km/h).",
+    "Wheels & Stance: Forged HRE FF16 flow-formed wheels in a 22x10.5 (front) and 22x12.5 (rear) staggered fitment with custom center-lock adapters for the Phantom’s hub-centric mounting system, wrapped in Pirelli P Zero Trofeo R tires (285/30 R22 front, 335/25 R22 rear) and paired with a Novitec Group air suspension lift kit (50mm front, 40mm rear) for static drop or on-demand clearance.",
+    "Exterior & Lighting: Full Novitec Group carbon-fiber body conversion including a bespoke Phantom Drophead-specific hood with functional heat extractors, a custom rear decklid spoiler with integrated LED brake light (DRL-compliant), and a Mansory-designed laser-etched stainless steel grille insert with Rolls-Royce Spirit of Ecstasy emblem in 24K gold. Lighting upgraded to LUX V3 LED headlights with adaptive cornering and a custom Novitec Group sequential LED taillight system (OEM housing retained)."
+  ]
+}

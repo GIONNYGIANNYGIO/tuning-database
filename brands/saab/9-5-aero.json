@@ -1,0 +1,14 @@
+{
+  "brand": "SAAB",
+  "model": "9-5 AERO",
+  "prestazioni": [
+    "Upgrade to a **Garrett GT3076R turbocharger** (compatible with the **B235R** 2.3L turbocharged engine) with a 0.63 A/R turbine housing and billet compressor wheel for optimized spool and 350+ HP potential, paired with a **Tial MV-R 44mm external wastegate** to manage boost levels precisely at 22-24 psi.",
+    "Install a **Saab Performance Parts (SPP) Stage 3 fuel system upgrade**, including **Siemens DEKA 80lb/hr fuel injectors**, a **Walbro 450 LPH in-tank fuel pump**, and a **Radium Engineering fuel pressure regulator** to support the increased airflow from the turbo upgrade while maintaining stoichiometric AFR under full load.",
+    "Replace the stock **B235R** engine management with a **Haltech Elite 2500 ECU** and **AEM X-Series wideband O2 sensor**, paired with a **Saab 9-5 Aero-specific custom tune** from **Nordic Tuning** (Sweden) to optimize ignition timing, boost control, and fuel maps for E85 compatibility and 93-octane pump gas flexibility."
+  ],
+  "estetica": [
+    "Install a **Saab Design (SD) Aero II front bumper lip** with integrated **DTM-style carbon fiber canards** (OEM+ fitment) to reduce front-end lift at high speeds while maintaining the 9-5’s signature design language.",
+    "Replace the stock side mirrors with **Saab 9-5 NG (2010+) carbon fiber mirrors** (retrofitted with **Hella Dynamic LED turn signals**) and add **Rocket Bunny-style overfenders** (custom fabricated for the 9-5 Aero) to accommodate **OZ Racing Ultraleggera HLT 18x9.5 ET35 wheels** with **Michelin Pilot Sport Cup 2 tires (255/40/18)** for aggressive stance and grip.",
+    "Add a **Saab 9-5 Aero-specific rear diffuser** (3D-printed carbon fiber, designed by **SaabWorks**) with integrated **Valenti LED taillights** and a **custom 3.5-inch stainless steel exhaust tip** (dual exit, polished finish) to complement the **Tial Q 50mm blow-off valve** and **TurboSmart Kompact plumb-back recirculation system** for a functional yet aggressive rear end."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "ROLLS-ROYCE",
+  "model": "SPECTRE BLACK BADGE",
+  "prestazioni": [
+    "BMW N63B44T4 (4.4L V8 twin-turbo) engine recalibration via **Rolls-Royce Black Badge-specific ECU reflash by Dimsport Genius**, targeting 700+ hp (stock: 577 hp) with revised boost mapping (1.4 bar peak) and optimized ignition timing for 98 RON fuel, paired with **MagnaFlow 304 stainless steel 3.5\" dual-wall exhaust with quad 102mm carbon-fiber tips** (OEM bypass valve delete for aggressive wastegate flutter)",
+    "**Garrett GTX3582R Gen II turbochargers (82mm, 76mm inducer) with billet compressor wheels** on custom **CTS Turbo titanium-coated downpipes** (3.5\" diameter, 304L stainless) and **GReddy Profec B Spec II boost controller** for linear 0.8-1.6 bar ramp, supported by **Pectel SQ6M standalone ECU** for real-time lambda and knock control",
+    "**KW Suspensions Clubsport 3-way coilovers (90mm travel, 24-way rebound, 12-way compression)** with **Eibach ERS 1000N/mm helper springs** and **H&R 25mm front / 20mm rear anti-roll bars**, paired with **AP Racing 400mm 6-piston front / 380mm 4-piston rear carbon-ceramic brakes** (stock calipers retained but upgraded with **Ferodo DS2500 pads** and **Motul RBF 660 brake fluid**)"
+  ],
+  "estetica": [
+    "**Rocket Bunny V3 Spectre-specific widebody kit** (carbon-fiber fenders, front splitter, and rear diffuser with integrated **Vorsteiner VFF-107 22\" forged wheels** in matte black with **Pirelli P Zero Trofeo R 285/35R22 front / 325/30R22 rear** tires)",
+    "**LuxuryTec full LED adaptive headlight retrofit** with **Osram Night Breaker Laser bulbs** and **Morimoto XB35 HID projectors**, paired with **Vland sequential LED taillights** (OEM housing retained) and **3M Scotchcal Matte Black wrap** on the Spirit of Ecstasy grille and window surrounds",
+    "**Forge Motorsport carbon-fiber engine cover** with **custom laser-etched Black Badge insignia**, **AEM X-Series wideband AFR gauge** (mounted in **Momo carbon-fiber dash insert**), and **Recaro Sportster CS seats** (OEM leather retained but reupholstered with **Bridge of Weir Caithness leather** and **Alcantara suede inserts**)"
+  ]
+}

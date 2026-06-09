@@ -1,0 +1,14 @@
+{
+  "brand": "SEAT",
+  "model": "TARRACO FR",
+  "prestazioni": [
+    "Engine: Replace the stock **EA888 Gen3B (CZDA, 2.0L TSI)** turbo with a **Garrett GTX3071R Gen II (846708-5002S)** for a targeted 380-400hp on 98 RON fuel, paired with a **Forge Motorsport Motorsport Series intercooler (FMIC000062)** to maintain intake temps below 45°C under full load. Requires a **Unitronic Stage 2+ ECU/TCU flash (UNI-2202.200.0)** with custom ethanol mapping (E30-E50 blend) via **Syvecs S8 Plug & Play ECU** for precise boost control and ignition timing.",
+    "Suspension: Install **Öhlins Road & Track DFV (DFV 22M100-10)** coilovers with **SEAT-specific spring rates (8kg/mm front, 9kg/mm rear)** and **SuperPro polyurethane bushings (SPF1000K, SPF1001K, SPF1002K)** to eliminate subframe flex. Pair with **H&R 20mm front / 15mm rear anti-roll bars (30200-1)** to reduce body roll by 30% during high-G cornering on Nürburgring-style tracks.",
+    "Drivetrain: Upgrade to a **Quaife ATB Helical LSD (QKE12R)** with **Motul Gear 300 75W-90** fluid for consistent power delivery, paired with a **South Bend Clutch Stage 3 Daily (SD-SB6000-3)** and ** Sachs Performance Dual-Mass Flywheel (3000 950 033)** to handle the increased torque. Replace the stock driveshafts with **GKN Driveshafts (30743580, 30743581)** rated for 500Nm+ to prevent failure under aggressive launches."
+  ],
+  "estetica": [
+    "Aero: Install the **Prior Design PD800RS widebody kit** with **custom carbon fiber fenders (20mm wider front, 30mm wider rear)** to accommodate **OZ Racing Ultraleggera HLT 8.5x20 ET45 (front) / 9.5x20 ET40 (rear)** wheels wrapped in **Michelin Pilot Sport Cup 2 R (255/40/20 front, 265/35/20 rear)**. Add a **Seibon Carbon fiber hood (SE-SEA-TAR-FR-HOOD)** with **custom NACA ducts** for brake cooling and a **Rear diffuser from Maxton Design (MX-SEA-TAR-01)** with integrated **DTM-style gurney flaps**.",
+    "Lighting: Replace all exterior lighting with **Lux H8/H11/H16 LED bulbs (LX-LH8-H11-6K)** for 6000K color temperature and **Morimoto XB LED headlights (85122)** with **custom CREE XHP50.2 projectors** for a 300% lumen increase. Add **Oracle Lighting Dynamic RGB+ Angel Eyes (5702-0025)** with **custom SEAT FR-specific housing** and **GTR Lighting Ultra Series 2 fog lights (GTR-ULTRA2-55W)** for track-legal auxiliary lighting.",
+    "Interior: Retrim the cabin with **Recaro Sportster CS (381 005 400 001) front seats** in **Alcantara (Haartz 9211)** with **custom SEAT FR red stitching**, paired with a **Sparco Pro 2000 steering wheel (015272B3B)** and **NRG Innovations quick-release hub (NRG-300-ST-10)**. Install a **RaceLogic VBOX Sport (RLVBSP1)** with **custom SEAT-specific OBD-II integration** for real-time telemetry, and replace the stock shift knob with a **B&M 70268 Short Throw Shifter** with **custom SEAT FR-branded aluminum shift pattern plate**."
+  ]
+}

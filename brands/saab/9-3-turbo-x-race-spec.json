@@ -1,0 +1,14 @@
+{
+  "brand": "SAAB",
+  "model": "9-3 TURBO X RACE SPEC",
+  "prestazioni": [
+    "Engine: B2x8 (2.8L V6, code #B284L) with forged internals including Mahle Motorsport pistons (8.5:1 CR), Carrillo H-beam connecting rods, and a billet crankshaft from Manley Performance. Upgraded to a closed-deck block using a custom SaabMotorsport reinforcement sleeve kit (AlSi17Cu4Mg alloy).",
+    "Forced Induction: Garrett GTX4202R turbocharger (84mm compressor, 1.06 A/R turbine housing) with a custom SaabMotorsport anti-lag system (ALS) and a TiAL MV-R 44mm wastegate. Intercooled via a PWR 4.5-row front-mount intercooler (core dimensions: 24x6x3.5 inches) with custom Saab-specific end tanks.",
+    "Fuel & Ignition: Bosch Motorsport 044 high-flow fuel pump (340 LPH) paired with ID1000x injectors (1000cc/min). Motec M150 ECU with custom Saab 9-3 Turbo X race maps, including launch control (5,500 RPM cut) and flat-foot shifting. Ignition upgraded to MSD 8516 coil packs and NGK R7437-9 racing plugs (0.024\" gap)."
+  ],
+  "estetica": [
+    "Aero: Custom SaabMotorsport widebody kit (carbon fiber, 30mm extended fenders) with a Rocket Bunny-inspired front splitter (25mm overhang) and a carbon fiber rear diffuser (3-piece, adjustable angle). Rear wing: Voltex Type-3 (1,700mm span, 3D carbon fiber, 3-position Gurney flap).",
+    "Suspension: Öhlins TTX40 2-way adjustable coilovers (300mm travel front, 280mm rear) with custom Saab-specific valving. Polyurethane bushings (SuperPro 90D durometer) for subframe, control arms, and sway bars. Front sway bar: H&R 25mm adjustable (3-way), rear sway bar: Eibach 22mm adjustable (2-way).",
+    "Wheels & Brakes: BBS FI-R 9x18\" ET35 (front) and 10.5x18\" ET40 (rear) with custom Saab PCD (5x110) adapters. Tires: Michelin Pilot Sport Cup 2 R (245/35/18 front, 275/35/18 rear). Brakes: AP Racing CP8660 6-piston calipers (front, 380mm discs) and CP5350 4-piston calipers (rear, 355mm discs) with Ferodo DS2500 pads."
+  ]
+}

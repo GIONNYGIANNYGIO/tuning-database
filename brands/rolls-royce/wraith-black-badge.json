@@ -1,0 +1,14 @@
+{
+  "brand": "ROLLS-ROYCE",
+  "model": "WRAITH BLACK BADGE",
+  "prestazioni": [
+    "Engine: N74B66 6.6L Twin-Turbo V12 (624hp stock) – Full carbon-fiber intake system by Eventuri (RR-specific sealed airbox with billet CNC trumpets, reducing air restriction by 38% at 6,500 RPM)",
+    "Forced Induction: Hybrid turbo upgrade by Turbo Dynamics (TD06-H-20G billet compressor wheels, Inconel 718 turbine wheels, and 3D-printed titanium compressor housings for 1.2 bar peak boost, targeting 850hp on 98 RON fuel with Motec M150 ECU recalibration)",
+    "Exhaust: Fi EXHAUST titanium full-system with 3.5-inch diameter mandrel-bent piping, quad 100mm carbon-fiber tips, and electronically controlled butterfly valves (valves mapped to Motec ECU for 3-stage sound tuning: 'Stealth', 'Sport', and 'Black Badge Extreme' modes)"
+  ],
+  "estetica": [
+    "Aero: Novitec Rolls-Royce 'Shadow' widebody kit (carbon-fiber fenders with 50mm extended wheel arches, front splitter with active Gurney flap, and rear diffuser with integrated LED brake cooling ducts)",
+    "Wheels: Forgiato 'Traffiro' forged monoblocks (22x10.5 ET25 front, 22x12.5 ET30 rear) with custom 3-piece construction, titanium hardware, and Pirelli P Zero Trofeo R tires (285/35 R22 front, 325/30 R22 rear)",
+    "Interior: Full Alcantara retrim by Saddleback Leather (RR-specific 'Black Badge Obsidian' stitching, carbon-fiber shift paddles with haptic feedback, and rear lounge seats with integrated 12-inch touchscreens for turbo/boost monitoring via Motec i2 Pro)"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "RENAULT",
+  "model": "ESPACE F1 CONCEPT",
+  "prestazioni": [
+    "Engine swap to a **Renault RS9 V10 (RS9-710, 3.5L, 71° V10, 750+ HP @ 14,000 RPM)** from the 1997 Williams FW19 F1 car, retaining the original transverse mid-engine layout but reinforced with a **Pankl Racing Systems titanium connecting rod set** and **Mahle Motorsport forged pistons** (11.5:1 compression ratio) for endurance reliability.",
+    "Custom **Garrett GT4202R turbocharger** (single-turbo conversion with a **Tial MV-R 60mm wastegate** and **Precision Turbo 46mm external bypass valve**) to force-induce the naturally aspirated RS9 V10, paired with a **Pectel SQ6M ECU** (F1-grade, 1,000Hz logging) and **Bosch Motorsport 120-bar direct injectors** for 1,200 HP on **VP Racing Q16 118-octane fuel**.",
+    "Full **AP Racing CP8450-4 calipers** (6-piston front, 4-piston rear) with **Brembo HTC-64T carbon-ceramic rotors (380mm front, 355mm rear)** and **Ferodo DS4000 brake pads**, mated to a **Tilton 75-Series hydraulic clutch** and **Xtrac P1046 6-speed sequential transaxle** (F1-spec, paddle-shift actuated via **Motec C187 dash logger**)."
+  ],
+  "estetica": [
+    "Full **Liberty Walk LB-WORKS widebody kit** (custom-fabricated for the Espace F1’s carbon-fiber monocoque), featuring **3D-printed ABS overfenders** (20mm wider front, 30mm rear) and a **Vorsteiner V-FF103 carbon-fiber front splitter** with **Gurney flaps** for 400kg downforce at 200 km/h.",
+    "**OMP F1-style 6-point harness** (Schroth Profi II-6 ASM) integrated into a **Sparco Sky RF seat** (carbon-Kevlar, FIA 8862-2009 certified) with **custom Renault Sport livery** (matte black base, **3M 1080 Gloss Fluorescent Yellow** accents, and **Avery Dennison Supreme Wrapping Film** for sponsor decals).",
+    "**HRE FF15 3-piece forged wheels** (19x12 front, 20x14 rear) with **Pirelli P Zero Trofeo R tires (305/30 R19 front, 355/25 R20 rear)**, wrapped in a **custom Akrapović titanium exhaust system** (4-into-1 design, **Inconel 625 headers**, and **carbon-fiber tips** with laser-etched Renault Sport logos)."
+  ]
+}

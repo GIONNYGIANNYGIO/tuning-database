@@ -1,0 +1,14 @@
+{
+  "brand": "SAIC",
+  "model": "MARVEL X SPORT",
+  "prestazioni": [
+    "Upgrade to a **Garrett GTX3076R Gen II turbocharger** (ball-bearing, 62mm compressor, 56mm turbine) for the **SAIC 20L4E 1.5T** engine (internally coded **MGE 1.5T**), paired with a **custom 3.5-inch stainless steel downpipe** (TIG-welded, 304-grade) by **TurboSmart** to eliminate restrictive OEM catalytic converters while maintaining backpressure optimization for spool.",
+    "Full **Motec M150 ECU** standalone management system with **SAIC Marvel X Sport-specific calibration maps** (developed by **LINK ECU Australia**), including **flex-fuel ethanol (E85) compatibility**, **individual cylinder fuel trims**, and **anti-lag launch control** (0-60 mph in 3.8s). Requires **Bosch 1000cc EV14 high-impedance injectors** and a **Walbro 450 LPH in-tank fuel pump** with **AEM X-Series wideband O2 sensors** for closed-loop AFR targeting.",
+    "Custom **SAIC MGE 1.5T forged internals** by **JE Pistons** (87.5mm bore, 8.5:1 compression, **2618-T6 aluminum alloy**), **Manley H-beam connecting rods** (5.433-inch center-to-center, **ARP 2000 rod bolts**), and a **Forgestar F14 19-inch forged wheel setup** (9.5J front, 11J rear, **ET35 offset**) with **Michelin Pilot Sport Cup 2 R tires** (245/35/19 front, 275/30/19 rear) for optimized weight transfer and torque vectoring."
+  ],
+  "estetica": [
+    "**Rocket Bunny V3 widebody kit** (SAIC Marvel X Sport-specific, **carbon fiber front fenders**, **polyurethane rear quarter panels**, and **aluminum overfenders**), designed to accommodate the **Garrett GTX3076R turbo** and **custom intercooler piping** while maintaining OEM panel gaps. Includes **custom 3D-printed ABS front splitter** (with **Gurney flap**) and **rear diffuser** (integrated **dual 3.5-inch exhaust outlets** by **Remus** for the **MGE 1.5T**).",
+    "**Ohlins Road & Track DFV coilovers** (SAIC Marvel X Sport-specific valving, **24-position adjustable compression/rebound**, **30mm front/28mm rear adjustable ride height**), paired with **SuperPro poly bushings** (full subframe, control arms, and **aluminum differential mounts**) to eliminate NVH while improving chassis rigidity for **track use**.",
+    "**Seibon Carbon SAIC Marvel X Sport roof** (dry carbon fiber, **1.5mm thickness**, **autoclave-cured**) with **custom carbon fiber mirror caps** (by **VIS Racing**), **LED sequential turn signals** (by **Morimoto XB LED**), and **painted brake calipers** (front: **Brembo GT 6-piston 380mm**, rear: **Brembo 4-piston 355mm**) in **SAIC Racing Blue (Pantone 2385 C)** with **gold anodized caliper pistons**."
+  ]
+}

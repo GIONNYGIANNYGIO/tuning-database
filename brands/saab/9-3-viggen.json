@@ -1,0 +1,14 @@
+{
+  "brand": "SAAB",
+  "model": "9-3 VIGGEN",
+  "prestazioni": [
+    "Engine: B235R (2.3L HOT I4, 225hp stock) – Full forged internals with Manley 87mm forged crank, Eagle H-beam connecting rods, and JE 8.5:1 compression forged pistons for 30psi+ boost tolerance. Precision Turbo PT6266 CEA billet wheel turbo (62mm inducer, 66mm exducer) with TiAL MV-R 44mm wastegate and TiAL Q 50mm blow-off valve.",
+    "Fuel System: Bosch Motorsport 044 high-flow fuel pump paired with Injector Dynamics ID1050x injectors (1050cc/min), Aeromotive FPR (adjustable base pressure 43.5psi), and custom SaabTrionic 5.5 ECU remap via Trionic CAN Flasher with ethanol flex-fuel capability (E85 compatible).",
+    "Suspension & Handling: Öhlins Road & Track DFV coilovers (SAAB 9-3 Viggen-specific valving, 20-way adjustable compression/rebound), SuperPro poly bushings (full subframe, control arms, and rear trailing arms), and AP Racing 4-piston CP5250 calipers with 330mm slotted rotors (front) and 2-piston CP5200 calipers with 280mm rotors (rear), paired with Ferodo DS2500 pads."
+  ],
+  "estetica": [
+    "Aero: Custom Viggen-specific widebody kit by Nordic Speed (carbon fiber front splitter, side skirts, and rear diffuser with integrated brake ducts), paired with a Saab Design rear wing (carbon fiber, 3-position adjustable angle) and a custom 3D-printed front canard set (ABS plastic, 3-piece).",
+    "Wheels: Enkei PF07 (18x9.5 +35 front, 18x10.5 +38 rear) in Hyper Silver with custom Saab Viggen center caps, wrapped in Michelin Pilot Sport Cup 2 R tires (245/40/18 front, 275/35/18 rear).",
+    "Interior: Recaro Pole Position seats (SAAB 9-3 Viggen-specific mounting brackets, Alcantara/leather upholstery with blue stitching), MOMO Mod.78 steering wheel (350mm, suede), and custom carbon fiber gauge pod (AEM X-Series wideband AFR, boost, and oil pressure gauges)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "ROLLS-ROYCE",
+  "model": "SILVER SERAPH",
+  "prestazioni": [
+    "BMW M73B54 (5.4L V12) engine: Full internal build with forged Mahle Motorsport pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a custom billet crankshaft by Manley Performance. Pair with a custom Schrick 280° camshaft profile for high-lift, long-duration performance.",
+    "Forced induction via twin Precision Turbo PT6266 CEA turbos (62mm, 66mm compressor wheels) with TiAL MV-R 44mm wastegates and TiAL Q 50mm blow-off valves. Custom intercooler setup by Bell Intercoolers with 4.5\" core thickness and 1000+ CFM airflow capacity.",
+    "Fuel system overhaul: Upgraded to a dual Bosch Motorsport 044 high-flow fuel pump setup, Injector Dynamics ID2000x injectors (2000cc/min), and a custom Motec M150 ECU with flex-fuel capability. Pair with a custom 3.5\" stainless steel fuel rail and AN-10 braided lines from Earl's Performance."
+  ],
+  "estetica": [
+    "Custom widebody conversion by Liberty Walk (LB-SILVERSERAPH kit) with hand-formed carbon fiber fenders, extended rocker panels, and a 3\" rear overhang increase for aggressive stance. Matte black finish with exposed carbon weave accents.",
+    "Front splitter and rear diffuser by Vorsteiner (RR-Seraph-specific design) in pre-preg autoclave carbon fiber, paired with a custom 3D-printed active aero rear wing by 9 Lives Racing (adjustable angle via hydraulic actuators).",
+    "Full interior rework by Saddleback Leather: Hand-stitched black Alcantara headliner, custom Recaro SPG XL seats with 6-point Schroth harnesses, and a bespoke carbon fiber dashboard overlay with integrated Motec C127 digital dash display. Retain original wood trim with a satin black piano lacquer finish."
+  ]
+}

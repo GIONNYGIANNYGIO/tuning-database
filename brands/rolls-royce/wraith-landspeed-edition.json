@@ -1,0 +1,14 @@
+{
+  "brand": "ROLLS-ROYCE",
+  "model": "WRAITH LANDSPEED EDITION",
+  "prestazioni": [
+    "Engine: N74B66 6.6L Twin-Turbo V12 (624hp stock) – Forced induction upgrade via **Garrett GTX5533R Gen II** turbos (1.3 bar peak boost, billet compressor wheels, 76mm inducer) with **Tial MV-R 60mm wastegates** and **TurboSmart Race Port BOV** (dual-port, 100% recirculation) to eliminate lag while maintaining OEM-like refinement at cruise.",
+    "Fuel System: **Bosch Motorsport 8-hole 2000cc/min port injectors** paired with **AEM 2200cc high-impedance direct injectors** (for staged injection), controlled via **Syvecs S12 ECU** with flex-fuel mapping (E85-capable) and **Radium Engineering dual-catch can system** (AN-10 lines, 1L capacity per bank) to prevent oil dilution under sustained high-load conditions.",
+    "Drivetrain: **ZF 8HP90 8-speed transmission** reinforced with **Sonax Xtreme 2.0 transmission fluid** (full synthetic, 80W-140 viscosity) and **South Bend Clutch Stage 3+ twin-disc ceramic clutch** (36-spline, 280mm diameter) for 1,200Nm torque capacity. **Quaife ATB differential** (85% lockup) with **Motul Gear 300 75W-90** lubricant to handle increased power delivery without axle wind-up."
+  ],
+  "estetica": [
+    "Aerodynamics: **Liberty Walk LB-WORKS Wraith widebody kit** (carbon fiber, 50mm extended fenders, custom-molded to Landspeed Edition’s OEM coachlines) with **Vorsteiner V-FF107 carbon fiber front splitter** (3D-scanned for perfect fitment) and **Rocket Bunny GT rear wing** (dual-element, 1,200mm span, adjustable angle via **Aeroflow carbon fiber mounts**).",
+    "Wheels/Tires: **HRE FF16 22x10.5 ET25 (front) / 22x12.5 ET40 (rear)** in **Forgeline CBR12 finish** with **Michelin Pilot Sport Cup 2 R** tires (285/30R22 front, 335/25R22 rear) – custom-molded to HRE’s concave profile for zero stretch. **Brembo GT-R 6-piston calipers (front) / 4-piston (rear)** with **DBA 5000 Series rotors** (two-piece, slotted, 405mm front / 380mm rear) and **Ferodo DS2500 pads** for fade resistance.",
+    "Interior/Exterior Finishes: **Forge Motorsport carbon fiber engine cover** (clear-coated, exposed weave) with **LED-illuminated ‘Landspeed’ script** (RGB, syncs with **Rolls-Royce Spirit of Ecstasy** ambient lighting). **Recaro Pole Position seats** (carbon-Kevlar shell, Alcantara/leather upholstery) with **Schroth 6-point harnesses** (FIA-approved, bolt-in **Sparco harness bar** hidden behind rear seats). **Akrapović titanium exhaust tips** (dual 120mm, laser-etched ‘N74’ engine code) and **LuxuryTec LED headlights** (adaptive, 5,000-lumen CREE XHP70.2 bulbs)."
+  ]
+}

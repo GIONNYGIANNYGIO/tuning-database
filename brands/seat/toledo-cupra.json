@@ -1,0 +1,14 @@
+{
+  "brand": "SEAT",
+  "model": "TOLEDO CUPRA",
+  "prestazioni": [
+    "Engine: 1.8L 20VT (engine code: AGU) forced induction upgrade with a Garrett GT2860RS turbocharger (0.63 A/R turbine housing) paired with a custom 3-inch stainless steel downpipe featuring a 200-cell catalytic converter from Milltek Sport for optimized exhaust flow and Euro 5 compliance.",
+    "Fuel System: High-flow Bosch 044 inline fuel pump (255 L/hr) with Siemens Deka 60 lb/hr injectors, managed by a standalone AEM F/IC piggyback ECU to handle the increased boost pressure (target: 1.5 bar) while maintaining stoichiometric AFR under full load.",
+    "Suspension & Handling: KW Variant 3 coilovers (8-position adjustable rebound, 12-click compression damping) with custom spring rates (8kg/mm front, 7kg/mm rear) and spherical bearing top mounts from SuperPro to eliminate compliance. Front sway bar upgraded to a 25mm adjustable unit from H&R, paired with poly bushings for the rear subframe (Powerflex PFF5-400)."
+  ],
+  "estetica": [
+    "Aero: Custom 3-piece front splitter from Maxton Design (Toledo-specific fitment) in carbon fiber with integrated canards, paired with a rear diffuser from SEAT Sport (part #5F0071571A) for improved high-speed stability. Side skirts from Cupra Racing (OEM+ style, part #1M0071377B) to reduce lift.",
+    "Wheels: OZ Racing Ultraleggera HLT 17x8 ET40 wheels (7.5J front, 8.5J rear) wrapped in Michelin Pilot Sport Cup 2 tires (225/40/17 front, 245/40/17 rear) for optimal grip and weight reduction (7.2kg per wheel).",
+    "Exterior: Full respray in SEAT’s original ‘Tornado Red’ (LK3B) with a matte clear coat from Spies Hecker, paired with Cupra Racing decals (part #1M0071400A) and a custom rear spoiler from JE Design (height-adjustable, carbon fiber) for aggressive downforce tuning."
+  ]
+}
