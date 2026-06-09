@@ -1,0 +1,19 @@
+{
+  "brand": "ROLLS-ROYCE",
+  "model": "GHOST BLACK BADGE",
+  "prestazioni": [
+    "Engine: N74B66 6.6L V12 twin-turbo (624hp stock) – Full carbon-fiber intake manifold by Eventuri with bespoke velocity stacks, replacing the OEM plastic unit for optimized airflow and 22-25hp gain at 5,500 RPM",
+    "Turbocharger Upgrade: Garrett GTX5533R Gen II turbos (hybrid billet wheels, 76mm compressor, 67mm turbine) with custom BorgWarner Speed Sensor adapters for precise boost control, targeting 1.4 bar (20.3 psi) peak boost on 98 RON fuel",
+    "Fuel System: Injector Dynamics ID2600X direct-port injectors (2,600cc/min) paired with a Radium Engineering dual-pump fuel surge tank (2x Walbro 450 LPH pumps) and a Motec M150 ECU with flex-fuel sensor for E85 compatibility, supporting 850hp on pump gas and 1,000hp on E85",
+    "Exhaust: Akrapović 3.5-inch titanium full-system with quad 100mm carbon-fiber tips, featuring a straight-pipe design post-cat and custom X-pipe merge collectors for a 12% reduction in backpressure and a 300Hz deeper exhaust note at 4,000 RPM",
+    "Suspension: KW Suspensions Clubsport 3-way adjustable coilovers with remote reservoirs, custom valving for the Ghost’s 2,490kg weight, and spherical top mounts (replacing OEM rubber) for sharper turn-in response; paired with Eibach 20mm front and 15mm rear anti-roll bars",
+    "Drivetrain: Quaife ATB differential (80% lock) in the ZF 8HP90 transmission, with a custom torque converter by Punch Powerglide (stall speed increased to 3,200 RPM) and a Tilton triple-plate carbon clutch for the transfer case to handle increased torque"
+  ],
+  "estetica": [
+    "Aero: Wald International ‘Black Bison’ widebody kit (carbon-fiber, 50mm wider front fenders, 70mm rear) with integrated Vorsteiner V-FF107 carbon-fiber side skirts and a custom 3D-printed front splitter (25% more downforce at 120mph than OEM)",
+    "Wheels: HRE FF16 22x10.5 ET25 (front) and 22x12.5 ET30 (rear) in brushed titanium finish, wrapped in Pirelli P Zero Trofeo R tires (285/30R22 front, 325/25R22 rear) with custom TPMS sensors for real-time pressure monitoring",
+    "Interior: Full Alcantara headliner and door cards by Saddleback Leather, featuring diamond-stitched ‘Black Badge’ embroidery; custom rear seat delete with a carbon-fiber storage compartment (housing a 1,000W JL Audio subwoofer) and a bespoke titanium roll cage by Hephaestus Auto (TIG-welded, 4-point, bolt-in)",
+    "Lighting: LUX HID 55W bi-xenon projectors with Osram Night Breaker Laser bulbs (6,000K) and custom DRL strips by Diode Dynamics (switchback amber/white), paired with a Morimoto XB LED fog light conversion for improved visibility",
+    "Badging: Custom ‘N74’ engine-code badges in anodized black titanium (replacing the ‘V12’ badges) and a discreet ‘Black Badge’ carbon-fiber rear decklid spoiler (20mm height, 3M matte black wrap for stealth)"
+  ]
+}

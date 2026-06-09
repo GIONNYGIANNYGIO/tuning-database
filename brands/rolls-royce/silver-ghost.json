@@ -1,0 +1,14 @@
+{
+  "brand": "ROLLS-ROYCE",
+  "model": "SILVER GHOST",
+  "prestazioni": [
+    "Engine: Replace the original 7.4L inline-six (engine code: 'Ghost 40/50 HP') with a bespoke naturally aspirated 8.0L inline-six built by Cosworth, featuring a billet crankshaft, forged Mahle pistons (10.5:1 compression), and a custom dry-sump oiling system with an external Accusump reservoir for sustained high-RPM reliability. Pair with a custom intake manifold by Jenvey Dynamics, utilizing individual throttle bodies (ITBs) and a ram-air induction system fed by a carbon-fiber scoop integrated into the hood.",
+    "Forced Induction: Twin-screw supercharger system by Sprintex (model: S5-2150), mounted via a custom billet aluminum bracket and intercooled with a dual-core air-to-water setup by PWR. Boost pressure set to 12 psi, controlled via an AEM 400X standalone ECU with custom mapping for the Cosworth engine, ensuring linear power delivery up to 6,500 RPM.",
+    "Drivetrain: Replace the original 3-speed manual transmission with a modern 6-speed sequential gearbox by Hewland (model: LD-200), paired with a limited-slip differential by Quaife (ATB helical LSD). Upgrade the driveshafts to carbon-fiber units by GKN Driveline, and reinforce the rear axle housing with a custom billet aluminum support brace by HRE Performance Wheels."
+  ],
+  "estetica": [
+    "Bodywork: Full carbon-fiber body conversion by RML Group, including a custom widebody kit with integrated fender flares (inspired by the 1914 Silver Ghost Alpine Eagle), a front splitter with active aerodynamic elements controlled by a MoTeC ADL3 dash logger, and a rear diffuser by Vorsteiner. Paint: Custom 'Alpine Mist' pearlescent finish by Standox, with hand-painted gold leaf pinstriping by master artisan Mark Court (former Rolls-Royce designer).",
+    "Wheels: Custom 22-inch forged monoblock wheels by HRE (model: FF16, 9.5x22 front, 12x22 rear), wrapped in Pirelli P Zero Trofeo R tires (265/30 R22 front, 325/25 R22 rear). Brake system: Carbon-ceramic rotors by Brembo (GT-R 390mm front, 380mm rear) with 6-piston calipers up front and 4-piston calipers at the rear, paired with custom stainless-steel braided lines by Goodridge.",
+    "Interior: Full bespoke reupholstery by Rolls-Royce Coachbuild, featuring hand-stitched Bridge of Weir leather in 'Midnight Sapphire' with gold contrast stitching, Alcantara headliner, and a custom dashboard with analog gauges by Smiths Instruments (replicas of the original 1910s design but with modern stepper motors). Seats: Recaro Pole Position bucket seats with custom embroidery of the Silver Ghost's original chassis number. Audio: Bespoke sound system by Bowers & Wilkins (Diamond Series), with a 1,200W amplifier and noise-canceling technology by Silentium."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "ROLLS-ROYCE",
+  "model": "GHOST",
+  "prestazioni": [
+    "Engine: N74B66 6.6L V12 twin-turbo (6592cc) – Full bolt-on turbo upgrade with Garrett GTX5533R Gen II turbos (1.28 A/R, 106mm compressor wheels) paired with a custom 4-inch titanium downpipe system by Armytrix, featuring 304 stainless steel mandrel bends and 200-cell catalytic converters for Euro 6 compliance while reducing backpressure by 42%.",
+    "Fuel System: Full Motec M150 ECU standalone conversion with dual Bosch Motorsport 044 high-flow fuel pumps (1200+ LPH) and Injector Dynamics ID2600X injectors (2600cc/min), calibrated for E85 flex-fuel capability with a 1200cc/min port-injection secondary system by Fuelab for stoichiometric AFR at 1000+ WHP targets.",
+    "Drivetrain: ZF 8HP90 8-speed transmission reinforced with a Level 10 Motorsports billet torque converter (4500+ stall) and a Quaife ATB helical LSD in the rear differential, paired with a custom 3.5:1 final drive ratio for optimized acceleration. Clutch-type limited-slip differentials by Wavetrac for front and rear axles to eliminate torque steer under extreme boost (22+ psi)."
+  ],
+  "estetica": [
+    "Aero: Full Mansory Carbon Fiber Widebody Kit (Ghost Black Badge Edition) with a 3-piece front splitter featuring active Gurney flaps (adjustable via iDrive integration), side skirts with integrated air curtains, and a fixed rear wing with dual-plane design (carbon fiber, 1.8m span) generating 180kg of downforce at 200 km/h. Underbody diffusers by Vorsteiner with vortex generators for optimized airflow separation.",
+    "Wheels/Tires: Forged 23-inch Rotiform LAS-R wheels (front: 9.5J ET30, rear: 12J ET25) wrapped in Michelin Pilot Sport Cup 2 R tires (285/30 R23 front, 335/25 R23 rear) with custom Pirelli Cyber Tire sensors for real-time pressure/temperature monitoring. Brake system upgraded to AP Racing 6-piston monoblock calipers (42mm pistons) with 420mm carbon-ceramic rotors (CCM-X compound) and Ferodo DS3.12 pads for 1.2g deceleration.",
+    "Interior: Full Alcantara headliner and door cards by Schedoni Modena, featuring diamond-stitched patterns with Rolls-Royce Starlight Headliner (1,920 fiber-optic strands, customizable via iPad app). Rear lounge seats replaced with Recaro Pole Position bucket seats (carbon fiber shells, 6-point Schroth harnesses) and a custom roll cage by Safety Devices (FIA 8862-2009 certified) with integrated fire suppression system (Lifeline Zero 360)."
+  ]
+}

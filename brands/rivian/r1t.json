@@ -1,0 +1,14 @@
+{
+  "brand": "RIVIAN",
+  "model": "R1T",
+  "prestazioni": [
+    "Upgrade to a **Rivian Quad-Motor (T600) powertrain swap** with the **Enduro 2.0 (E2) motor code**, retaining the 835 hp stock output but replacing the stock inverters with **Cascadia Motion PM150DX inverters** for a 20% increase in torque response and a 15% reduction in thermal throttling under sustained loads. Pair with a **custom Unitek CP-800HV battery controller** to unlock 1,200A peak discharge (up from 600A stock) for 0-60 mph in 2.1s (vs. 3.0s stock).",
+    "Install a **Garrett GTX5533R turbocharger** on the **E2 motor’s dual-parallel hybrid cooling system**, modified with a **Turbosmart 45mm Hyper-Gate wastegate** and a **PTP Motorsports titanium turbo manifold** to support 28 psi of boost (stock: 12 psi) while maintaining the factory regenerative braking system via a **Motec M150 ECU** with a custom torque-split map for 60/40 front/rear bias under acceleration.",
+    "Replace the stock **ZF 8HP95 transmission** with a **Porsche PDK 918 Spyder-derived **ZF 8HP95X** unit**, reinforced with a **Sonnax billet torque converter** and **Valvoline VR1 Racing 5W-40 full-synthetic ATF** to handle 1,100 lb-ft of torque (up from 908 lb-ft stock). Add a **Penske 8760 double-adjustable transmission cooler** with dual **Setrab 10-row cores** to prevent fluid breakdown during high-load towing or track use."
+  ],
+  "estetica": [
+    "Fit a **Liberty Walk LB Works widebody kit** for the R1T, extending the fenders by 3.5 inches per side with **carbon fiber overfenders** and **aluminum inner fender liners** to accommodate **22x12.5-inch ET15 BBS LM-R wheels** wrapped in **Michelin Pilot Sport Cup 2 R tires (335/25R22)**. The kit includes a **custom front splitter with integrated air curtains** and a **rear diffuser with active Gurney flaps** (controlled via the **Rivian Drive+ mode**).",
+    "Replace the stock **LED light bar** with a **Luxxen G3 Pro modular lighting system**, featuring **Osram 10,000-lumen CREE XHP70.3 LEDs** in a **heatsink-integrated aluminum housing**, paired with a **Morimoto 2Stroke 3.0 adaptive projector headlight retrofit** (DRLs: **Philips Ultinon Pro9000**). Add **Oracle Lighting RGBW underglow** with **CAN bus integration** for dynamic color shifts synced to drive modes.",
+    "Install a **Rocket Bunny V3 aero package**, including a **carbon fiber hood with dual NACA ducts** (feeding the **Garrett turbo intercooler**), a **fixed rear wing with a 1.2m span and 3D-printed aluminum endplates** (generating 300 lbs of downforce at 100 mph), and **side skirts with integrated air jacks** (powered by a **Viar 12V 500W compressor**). The entire kit is finished in **PPG Vibrance Collection ‘Electric Amethyst’ with a matte clear coat** and **3M 1080 ‘Carbon Black’ accents**."
+  ]
+}

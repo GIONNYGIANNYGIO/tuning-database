@@ -1,0 +1,14 @@
+{
+  "brand": "ROLLS-ROYCE",
+  "model": "DROPTAIL",
+  "prestazioni": [
+    "Engine: N63B44T3 (6.75L V12 twin-turbo) – Full billet CNC ported cylinder heads by *Mahle Motorsport* with titanium valve retainers and *Ferrea* 6000-series intake/exhaust valves, paired with a *Precision Turbo PT8285* turbocharger (85mm compressor, 1.28 A/R turbine housing) and *Turbosmart* 60mm wastegate for 1.2 bar peak boost (stock: 0.8 bar). Custom *VRSF* titanium downpipes with 3.5\" diameter and *Akrapovič* 304 stainless steel exhaust with quad 100mm outlets, eliminating all catalytic converters and resonators for a 22% reduction in backpressure.",
+    "Drivetrain: *ZF 8HP95X* 8-speed transmission reinforced with a *Sonnax* billet valve body and *FTX Racing* triple-disc carbon clutch pack (rated for 1,200 Nm), mated to a *Quaife* ATB differential with 45% lockup. *AP Racing* 6-piston front (400mm rotors) and 4-piston rear (380mm rotors) carbon-ceramic brakes with *Pagid* RS29 pads and *Goodridge* braided stainless steel lines for 30% improved pedal feel.",
+    "Suspension/Chassis: *KW Automotive* Clubsport coilovers with 3-way adjustable damping (compression, rebound, and height) and *Eibach* helper springs, paired with *H&R* 25mm front and 20mm rear anti-roll bars. *Brembo* GT-R-specific brake ducts integrated into the front bumper, and a *RML* carbon fiber torque arm to eliminate subframe flex under acceleration. Full *GTSport* chassis stiffening kit with laser-cut 8mm steel plates welded to the firewall, transmission tunnel, and rear subframe."
+  ],
+  "estetica": [
+    "Aerodynamics: *Vorsteiner* carbon fiber widebody kit with 50mm extended front fenders and 70mm rear quarter panels, featuring *Rocket Bunny*-style aggressive flares and a *Liberty Walk* duckbill rear spoiler (adjustable angle: 0-15 degrees). *Aeromotions* active rear wing with dual actuators and *MTEC* LED pressure sensors for real-time drag reduction. *VRS* carbon fiber front splitter with integrated *MOMO* tow hooks and *Seibon* carbon fiber hood (weight reduction: 18kg).",
+    "Lighting: *Lux* V3 LED headlight retrofit with *Morimoto* HID projectors (5,500K) and *Diode Dynamics* sequential turn signals, paired with *Oracle* RGBW underglow kit (12x 6000-lumen strips) controlled via *Alientech* iMap app. *Laser* tail lights by *Vland* with dynamic brake light animation (3-stage intensity).",
+    "Interior/Exterior Finishes: *Forge Motorsport* titanium shift paddles (extended length, 3D-printed) and *Sparco* QRT-K carbon fiber seats (replacing stock leather, weight reduction: 22kg). *Rotiform* LAS-R 22\" forged wheels (front: 9.5J ET25, rear: 12J ET15) with *Michelin* Pilot Sport Cup 2 R tires (285/30 front, 325/25 rear). *PPF* matte satin vinyl wrap by *3M* (color: *Frost White* with *Avery Dennison* gloss black accents) and *Ceramic Pro* 9H coating for UV resistance."
+  ]
+}

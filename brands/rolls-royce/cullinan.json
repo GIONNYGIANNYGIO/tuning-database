@@ -1,0 +1,14 @@
+{
+  "brand": "ROLLS-ROYCE",
+  "model": "CULLINAN",
+  "prestazioni": [
+    "Engine: N74B66 6.6L V12 twin-turbo (660hp stock) – Full Mansory Stage 3+ ECU remap with custom fueling via Motec M150 standalone ECU, targeting 850hp/1,000Nm on 98 RON fuel with upgraded fuel system (Bosch Motorsport 044 high-flow fuel pumps, Injector Dynamics ID2000x injectors, and custom billet fuel rails).",
+    "Forced Induction: Hybrid turbo upgrade via Garrett GTX5533R Gen II turbos (custom billet compressor wheels, 76mm inducer, 106mm exducer) with TiAL MV-R 60mm wastegates and custom 4-inch titanium downpipes (fabricated by Gintani). Intercooler system replaced with a custom air-to-water setup (PWR Racing intercooler core with dual Bosch 12V pumps and a 10L coolant reservoir).",
+    "Drivetrain & Chassis: ZF 8HP95 transmission reinforcement with a Level 10 Motorsports billet torque converter (4,500 RPM stall) and upgraded clutch packs. Rear differential upgraded to a Quaife ATB LSD with 3.73:1 final drive ratio. Full KW Automotive Clubsport coilover suspension with 3-way adjustable damping (custom valving for Cullinan’s air spring delete) and Eibach ERS race springs (25% stiffer than OEM)."
+  ],
+  "estetica": [
+    "Body: Mansory Carbon Fiber Widebody Kit (Cullinan-specific, 50mm wider front fenders, 70mm wider rear) with custom 3D-printed carbon fiber side skirts and front splitter (reinforced with titanium support rods). Rear diffuser by Vorsteiner (carbon fiber, 3-stage design with integrated LED lighting).",
+    "Wheels & Aero: HRE FF16 24x12.5 ET25 (front) and 24x13.5 ET30 (rear) forged wheels with custom center-lock adapters (PCD 5x130 to 5x112 conversion). Michelin Pilot Sport Cup 2 R tires (325/25 R24 front, 355/20 R24 rear). Active aero via a custom DRS (Drag Reduction System) rear wing (carbon fiber, 1.2m span, electronically adjustable via MoTeC PDM15).",
+    "Interior & Lighting: Full Alcantara headliner and door cards (custom stitched by Saddleback Leather) with carbon fiber trim (Mansory-specific weave). Digital dash upgrade via a 12.3-inch MoTeC C127 display (CAN bus integration with OEM RR infotainment). Exterior lighting replaced with LUX V3 LED headlights (adaptive, 5,000-lumen output) and custom sequential LED taillights (fabricated by Diode Dynamics)."
+  ]
+}

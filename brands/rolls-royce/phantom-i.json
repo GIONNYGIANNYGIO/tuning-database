@@ -1,0 +1,14 @@
+{
+  "brand": "ROLLS-ROYCE",
+  "model": "PHANTOM I",
+  "prestazioni": [
+    "Engine swap to a modernized Rolls-Royce 6.75L inline-six (engine code: B60) with forged internals, including Mahle Motorsport forged pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from Bryant Racing. Pair with a custom-built dry-sump oiling system by Peterson Fluid Systems to handle lateral G-forces during spirited driving.",
+    "Forced induction via a Garrett GTX5533R turbocharger (86mm compressor wheel) with a custom T6 manifold fabricated by G&J Fabrications, feeding into a custom air-to-water intercooler setup by PWR. Boost controlled via a TurboSmart Hyper-Gate45 wastegate and a custom ECU tune by Syvecs (S8 Plug & Play) with flex-fuel capability and individual cylinder trims.",
+    "Upgraded drivetrain with a ZF 8HP90X 8-speed automatic transmission (modified for manual shift control via paddle shifters) paired with a Tilton triple-plate carbon clutch and a Quaife ATB differential. Suspension overhaul with Öhlins TTX46 coilovers (custom valved for the Phantom I’s chassis) and polyurethane bushings from SuperPro for improved handling response."
+  ],
+  "estetica": [
+    "Custom widebody conversion using hand-formed aluminum panels by RML Group, extending the fenders by 3 inches to accommodate 21x9.5 and 21x12.5 BBS LM wheels (ET25 front, ET15 rear) wrapped in Michelin Pilot Sport Cup 2 tires (265/35 and 315/30 respectively).",
+    "Full custom aero package by Liberty Walk, including a carbon fiber front splitter with integrated canards, a rear diffuser with active Gurney flap (controlled via Syvecs ECU), and a fixed carbon fiber rear wing (NACA duct-fed for brake cooling) mounted on a custom aluminum subframe.",
+    "Interior reimagined by Saddleback Leather with hand-stitched Bridge of Weir leather, Alcantara headliner, and a custom digital gauge cluster by AIM MXS Strada (replacing the original analog dials). Roll cage by Safety Devices (FIA-spec, bolt-in) with integrated fire suppression system by Lifeline."
+  ]
+}

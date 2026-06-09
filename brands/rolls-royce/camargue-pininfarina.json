@@ -1,0 +1,14 @@
+{
+  "brand": "ROLLS-ROYCE",
+  "model": "CAMARGUE PININFARINA",
+  "prestazioni": [
+    "Engine: Replace the original 6.75L L410 V8 (6,750cc, 220hp) with a fully built **L410T** featuring a forged crankshaft (Scat Enterprises 4340 steel), Carrillo H-beam connecting rods, and Mahle Motorsport forged pistons (9.5:1 compression ratio) to handle forced induction. Pair with a **Garrett GTX5533R** turbocharger (1.25 A/R turbine housing) and a custom **Tial MV-R 60mm** wastegate for 12 psi of boost, targeting 550whp on 98 RON fuel.",
+    "Fuel System: Upgrade to a **Bosch Motorsport 044** high-flow fuel pump (450 LPH) with **Injector Dynamics ID2000** (2000cc/min) injectors, controlled via a **Motec M150 ECU** with flex-fuel capability. Add a **Radium Engineering dual-catch can** system to manage crankcase pressure under boost.",
+    "Drivetrain: Install a **ZF 6HP28** 6-speed automatic transmission with a **Peloquin LSD** (40% lockup) and a **South Bend Clutch Stage 3** twin-disc setup. Reinforce the driveshaft with a **Mark Williams Enterprises** carbon-fiber unit and upgrade the rear differential mounts to **Poly Performance polyurethane bushings**."
+  ],
+  "estetica": [
+    "Body: Replace the stock steel panels with a **Pininfarina-designed widebody kit** (handcrafted aluminum over steel frame) featuring extended fenders (50mm wider front, 70mm wider rear), a **custom front splitter** with integrated LED turn signals (Luxx Lighting), and a **carbon-fiber rear diffuser** (Seibon Carbon) with dual exhaust cutouts for a **Borla Atak** 3.5\" stainless steel system (quad tips).",
+    "Interior: Retrim the cabin in **Bridge of Weir leather** (two-tone black/royal blue) with **Recaro Pole Position** seats (carbon-fiber backshells) and a **MOMO Prototipo** steering wheel (380mm, Alcantara-wrapped). Install a **Rolls-Royce Phantom VIII** digital instrument cluster (retrofitted with **Aim Solo 2 DL** data logging) and a **Bowers & Wilkins Diamond Series** 18-speaker audio system (1,400W).",
+    "Wheels/Suspension: Fit **HRE FF15** forged wheels (20x9.5 front, 20x11 rear, +25mm offset) with **Pirelli P Zero Trofeo R** tires (275/30 R20 front, 325/25 R20 rear). Lower the chassis with **KW Variant 5** coilovers (3-way adjustable, 50mm drop) and add **Eibach Pro-Spacer** wheel spacers (15mm front, 20mm rear) for flush fitment. Reinforce the subframe with **Cusco strut braces** (front and rear)."
+  ]
+}

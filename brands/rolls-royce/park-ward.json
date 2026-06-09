@@ -1,0 +1,14 @@
+{
+  "brand": "ROLLS-ROYCE",
+  "model": "PARK WARD",
+  "prestazioni": [
+    "Engine: Replace the stock 6.75L L410 V12 (N73B67) with a bespoke twin-turbo setup using two Garrett GTX5533R Gen II turbos (1.32 A/R, 88mm compressor wheels) paired with a custom 4-inch titanium exhaust system by Novitec Torado, featuring 304 stainless steel headers and a secondary catalytic converter delete for optimized flow.",
+    "Forced Induction: Install a custom intercooler system by Bell Intercoolers, utilizing a 4.5-inch thick bar-and-plate core with 100% aluminum construction, paired with a custom water-methanol injection kit by Snow Performance (Stage 3 Boost Juice) to manage intake temperatures and prevent detonation under sustained boost (target: 12 psi).",
+    "ECU & Fueling: Replace the stock Siemens MS S65 ECU with a standalone Motec M150 ECU, calibrated by Dyno Dynamics UK for E85 flex-fuel compatibility. Upgrade fueling with a dual Bosch Motorsport 044 high-flow fuel pump system, paired with 1,200cc ID1700x injectors and a custom fuel rail by Radium Engineering to support 800+ hp on E85."
+  ],
+  "estetica": [
+    "Aero: Install a full carbon fiber widebody kit by Wald International (Tokyo), featuring extended front fenders (30mm wider per side), a custom rear diffuser with integrated twin exhaust outlets, and a bespoke front splitter with active aerodynamic elements controlled by a Bosch Motorsport ECU for dynamic downforce adjustment.",
+    "Wheels: Fit a set of custom 22-inch forged monoblock wheels by HRE Performance Wheels (FF15 model, 9.5x22 ET25 front, 12x22 ET15 rear) wrapped in Michelin Pilot Sport Cup 2 R tires (265/35/22 front, 325/30/22 rear) for track-focused grip and a staggered fitment to accommodate the widened rear fenders.",
+    "Interior: Replace the stock leather with a full Alcantara and carbon fiber interior by Sabelt, featuring custom bucket seats (Sabelt GT-C model) with 6-point harnesses, a roll cage by Safety Devices (FIA-spec, bolt-in design), and a bespoke digital dash by AIM MXS Strada with integrated lap timer and boost pressure monitoring."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "ROLLS-ROYCE",
+  "model": "ROSE PHANTOM",
+  "prestazioni": [
+    "Engine: N74B68 6.8L V12 twin-turbo (6749cc) – Full billet aluminum crankshaft upgrade by Manley Performance (9.5lb lightweight design) with Carrillo H-beam connecting rods and JE Pistons 2618 forged slugs (10.5:1 compression for E85 compatibility).",
+    "Forced Induction: Twin Precision Turbo PT6766CE turbochargers (66mm compressor, 67mm turbine) with custom 3D-printed titanium turbine housings by TurboLab USA, paired with a Tial MV-R 60mm wastegate and TiAL Q 50mm blow-off valve. Intercooled via a custom PWR heat exchanger with dual 1200W Bosch brushless water pumps.",
+    "Fuel & Ignition: Full Motec M150 ECU standalone conversion with dual Bosch Motorsport 044 high-flow fuel pumps (1200hp capable), Injector Dynamics ID2600X injectors, and a custom 200-bar fuel rail by Radium Engineering. Ignition system upgraded to AEM CDI coils with NGK R8992-10 iridium spark plugs gapped at 0.028in."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion by Novitec Torado (RR-specific kit), featuring a 3-piece front splitter with integrated DRLs (Lumileds Luxeon Z ES LEDs) and a 50mm extended rear diffuser with active aero flaps (controlled via Motec PDM).",
+    "Wheels: Forged 24-inch 3-piece HRE FF16 wheels (24x10.5 front, 24x12.5 rear) with custom titanium wheel bolts by ARP, wrapped in Michelin Pilot Sport Cup 2 R tires (285/30R24 front, 325/25R24 rear).",
+    "Interior: Full Alcantara and carbon fiber rewrap by Saddleback Leather, featuring a custom roll cage by Safety Devices (FIA-spec 6-point with integrated fire suppression system), Sparco Pro ADV seats with 6-point Schroth harnesses, and a digital dash cluster by Race Technology (DL1 data logger with GPS lap timer)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "ROLLS-ROYCE",
+  "model": "CAMARGUE",
+  "prestazioni": [
+    "Engine: Replace the stock 6.75L L410 V8 (6,750cc, 220hp) with a fully built **L410T** featuring a **Forged crankshaft (Crower 4340 steel, 4.25\" stroke)**, **Mahle Motorsport forged pistons (9.5:1 CR)**, and **Manley H-beam connecting rods**. Pair with a **Garrett GT42R turbo (84mm compressor, .86 A/R turbine housing)** and **Precision Turbo wastegate (46mm, dual-port)** for 12psi boost, targeting 550whp on **VP Racing Q16 fuel**.",
+    "Fuel & Ignition: Install a **Bosch Motorsport 044 high-flow fuel pump** with **ID1000x injectors (2200cc/min)** and a **Link G4+ Xtreme ECU** for sequential fuel control. Use **NGK Iridium IX (LFR6AIX-11) spark plugs** gapped at 0.028\" with **MSD Digital 6AL ignition amplifier** for precise timing.",
+    "Drivetrain: Swap the stock TH400 3-speed automatic for a **GM 4L80E 4-speed overdrive transmission** with a **Sonnax Smart-Tech valve body** and **PML deep transmission pan**. Pair with a **Mark Williams billet aluminum driveshaft** and a **Strange Engineering S60 rear differential (3.73:1 ratio, 35-spline axles)** for durability."
+  ],
+  "estetica": [
+    "Body: Replace the stock steel panels with **carbon fiber replicas (Pro Alloy Motorsports)** for the hood, trunk, and fenders, reducing weight by ~180lbs. Install a **Liberty Walk LB-WORKS widebody kit (Camargue-specific)** with **custom 3M Matte Sterling Silver wrap** and **Rally Armor UR mud flaps (white lettering)** for contrast.",
+    "Wheels & Suspension: Fit **BBS RS-GT II (18x9.5 +25 front, 18x11 +30 rear)** with **Pirelli P Zero Trofeo R tires (275/35/18 front, 315/30/18 rear)**. Lower the chassis with **KW Variant 3 coilovers (Camargue-specific valving)** and **Eibach Pro-Spacer wheel spacers (15mm front, 20mm rear)** for flush fitment.",
+    "Interior: Retrim the cabin in **Bridge of Weir leather (Deep Navy with contrast stitching)** paired with **Recaro Pole Position seats (carbon fiber backs, 6-point Schroth harnesses)**. Install a **Momo Prototipo steering wheel (380mm, suede)** with a **quick-release hub** and a **Racepak IQ3 dash logger** for telemetry."
+  ]
+}

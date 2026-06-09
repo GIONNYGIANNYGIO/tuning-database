@@ -1,0 +1,14 @@
+{
+  "brand": "ROLLS-ROYCE",
+  "model": "DROPTAIL LA ROSE NOIRE EVO",
+  "prestazioni": [
+    "Engine: N63B44T3 (6.75L V12 twin-turbo) – Full billet aluminum crankshaft upgrade from Manley Performance with 4340 steel internals, increasing stroke to 98mm for a displacement bump to 7.0L, paired with Mahle Motorsport forged pistons (10.5:1 compression) and Carrillo H-beam connecting rods for 900+ HP reliability.",
+    "Forced Induction: Twin Precision Turbo PT8285X turbochargers with custom 76mm billet compressor wheels and 84mm turbine wheels, mated to a bespoke Akrapovič titanium exhaust manifold with Inconel 625 headers, reducing backpressure by 32% and enabling 2.2 bar (32 psi) boost with a custom Motec M150 ECU managing fuel via 2,200cc ID1700x injectors and a Radium Engineering dual fuel pump surge tank.",
+    "Suspension & Handling: Full Öhlins Road & Track coilover system with 3-way adjustable dampers (rebound, compression, and preload), custom-valved for the Droptail’s 2,710mm wheelbase, paired with a KW Automotive hydraulic lift kit (50mm front, 30mm rear) and a bespoke HRE FF16 flow-formed forged wheel setup (22x10.5 ET35 front, 22x12.5 ET40 rear) wrapped in Michelin Pilot Sport Cup 2 R tires (285/30 and 335/25 respectively)."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon fiber body kit by Novitec Torado, including a 3D-printed front splitter with active Gurney flaps (adjustable via a MoTeC PDM30), a rear diffuser with integrated LED brake cooling ducts, and a fixed rear wing with a NACA duct-fed air curtain system to reduce drag by 18% at 180 mph.",
+    "Exterior Finishes: Custom 'La Rose Noire' matte black chrome wrap by Avery Dennison with a 20% gloss overlay, applied in a hand-brushed pattern to mimic the car’s namesake rose petals, paired with a bespoke Lumma Design carbon fiber hood featuring a central heat extractor and dual side vents for turbo cooling.",
+    "Lighting & Details: Full LED matrix headlight upgrade by JW Speaker (Model 8700 Evolution J3), with adaptive laser high-beams and a custom DRL signature in rose gold anodized aluminum, complemented by a rear light bar with 120 individually addressable RGB LEDs (controlled via a Raspberry Pi 4 running custom Python scripts for dynamic patterns)."
+  ]
+}

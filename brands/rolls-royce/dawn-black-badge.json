@@ -1,0 +1,14 @@
+{
+  "brand": "ROLLS-ROYCE",
+  "model": "DAWN BLACK BADGE",
+  "prestazioni": [
+    "Engine: N63B44O2 (6.6L V12 twin-turbo, Black Badge-specific variant) – Full bolt-on turbo upgrade with **Garrett GTX5533R Gen II** turbos (1.35 A/R, 76mm inducer, 106mm exducer) paired with **Forge Motorsport** billet compressor housings and **TurboSmart** 60mm external wastegates (set to 1.2 bar peak boost). Custom **VF Engineering** titanium valve springs and **Mahle Motorsport** forged pistons (9.5:1 compression) with **ARP Custom Age 625+** head studs for 800+ hp reliability.",
+    "Fuel System: **Bosch Motorsport** 1,200cc port injectors (PN: 0 280 158 129) + **AEM 220GPH** in-tank fuel pump (PN: 50-1200) with **Radium Engineering** dual feed fuel rail kit. **Motec M150 ECU** standalone management with **Link G4+ Xtreme** piggyback for OEM CAN integration, tuned via **Dyno Dynamics** hub dyno with **ETAS INCA** calibration tools for closed-loop lambda control.",
+    "Exhaust: **Capristo 300-cell metallic catalytic converters** (2.5\" primary, 3.5\" secondary) paired with **Akrapovič Evolution Line Titanium** 4-2-1 headers (3mm wall thickness, Inconel 625) and **REMUS** valved rear mufflers (PN: 101014) with **iDrive** electronic bypass control. **Vibrant Performance** 3.5\" titanium resonated mid-pipes (PN: 17252) for NVH reduction without flow restriction."
+  ],
+  "estetica": [
+    "Aero: **Vorsteiner RR4** carbon fiber front splitter (3-piece, adjustable dive planes) + **Novitec Torado** carbon fiber rear diffuser (with integrated **Aeromotions** active rear wing, 3-position adjustable via iDrive). **Rohana RC10** forged wheels (22x10.5 ET30 front, 22x12.5 ET40 rear) wrapped in **Michelin Pilot Sport Cup 2 R** (285/30R22 front, 325/25R22 rear) with **HRE** titanium wheel bolts (PN: 935TIB).",
+    "Body: **LuxuryTec** matte Black Badge-specific vinyl wrap (3M 2080-138, satin finish) with **RWB-style** widebody fender flares (custom fabricated from **Toray T700** carbon fiber, 50mm wider front, 70mm wider rear). **Litchfield** carbon fiber hood (vented, with **Aerocatch** quick-release latches) and **Seibon** carbon fiber trunk (with integrated **LED** Rolls-Royce Spirit of Ecstasy illumination).",
+    "Interior: **Recaro Pole Position** carbon-Kevlar bucket seats (PN: 208080) with **Schroth** 6-point harnesses (PN: ASM2784F) and **Sabelt** HANS-compatible head restraints. **Momo** carbon fiber steering wheel (PN: 0111200113) with **AiM MXL2** data logger and **RaceGrade** pedal box (20% brake bias adjustability). **Dymag** carbon fiber door cards with **Alcantara** suede inserts (matching **Ralph Lauren** Black Label trim) and **Brembo** GT 6-piston caliper covers (anodized black)."
+  ]
+}

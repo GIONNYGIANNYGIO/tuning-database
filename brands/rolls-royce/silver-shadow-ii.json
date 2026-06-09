@@ -1,0 +1,14 @@
+{
+  "brand": "ROLLS-ROYCE",
+  "model": "SILVER SHADOW II",
+  "prestazioni": [
+    "Engine swap to a naturally aspirated 6.75L L410 V8 (original engine code) with forged internals including Mahle Motorsport forged pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from Bryant Racing. Pair with a custom camshaft profile by Schrick (280° duration, 0.550\" lift) and a ported/polished cylinder head by Cosworth Engineering for improved airflow.",
+    "Forced induction via a custom twin-turbo setup using Garrett GT35R turbos (84mm compressor wheels) with TiAL MV-R 44mm wastegates and TiAL Q 50mm blow-off valves. Intercooling handled by a custom air-to-water intercooler system from Bell Intercoolers, paired with a Davies Craig EWP150 electric water pump and a Setrab 10-row oil cooler for thermal management.",
+    "Fuel system upgrade featuring a dual Bosch Motorsport 044 high-flow fuel pump setup, Injector Dynamics ID2000x injectors (2000cc/min), and a custom fuel rail by Radium Engineering. Engine management handled by a Motec M150 ECU with a custom calibration by Dyno Dynamics, paired with a Plex Knock Monitor for real-time detonation control."
+  ],
+  "estetica": [
+    "Custom widebody conversion using a bespoke aluminum overfenders kit by The Fender Flare Company, designed to accommodate 20x9.5\" and 21x12\" BBS LM-R wheels (ET20 front, ET15 rear) with Michelin Pilot Sport Cup 2 tires (245/35/20 front, 315/30/21 rear).",
+    "Full custom coachbuilt rear spoiler by Zagato Milano, fabricated from carbon fiber and aluminum, with an integrated Gurney flap for downforce. Front splitter and side skirts by Liberty Walk, modified to fit the Shadow II's unique chassis dimensions, with a 3D-scanned underbody diffuser by APR Performance.",
+    "Interior reimagined with a full Alcantara headliner and door cards by Katzkin, Recaro Pole Position seats (retrimmed in Bridge of Weir leather with contrast stitching), and a custom roll cage by Safety Devices (FIA-spec, bolt-in design). Steering wheel replaced with a Momo Prototipo (380mm diameter) wrapped in Alcantara, paired with a quick-release hub by NRG Innovations."
+  ]
+}

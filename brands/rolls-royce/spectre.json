@@ -1,0 +1,14 @@
+{
+  "brand": "ROLLS-ROYCE",
+  "model": "SPECTRE",
+  "prestazioni": [
+    "BMW N63B44T4 (4.4L twin-turbo V8) hybridized powertrain re-flash via APR Stage 2+ ECU/TCU calibration, targeting 750+ hp (559 kW) with a 0-60 mph (0-97 km/h) time of 3.2s via optimized torque split between the internal combustion engine and the 190 kW (255 hp) electric motor, utilizing a custom Motec M150 ECU for real-time hybrid energy management and launch control",
+    "Garrett GTX5533R Gen II turbochargers (88mm compressor, 1.32 A/R turbine housing) with TiAL MV-R 60mm external wastegates, paired with a custom 4-inch titanium exhaust system featuring dual Akrapovič Racing Line mufflers and a secondary catalytic converter delete (replaced with GESI high-flow metallic core units for emissions compliance in select regions)",
+    "KW Suspensions Clubsport 3-way adjustable coilovers with remote reservoirs, featuring 24-way compression/rebound damping adjustability, 30mm of ride height reduction, and bespoke spring rates (14kg/mm front, 16kg/mm rear) to counteract the Spectre’s 2,975 kg curb weight, paired with Eibach Pro-Spacer 25mm wheel spacers for optimized track-width geometry"
+  ],
+  "estetica": [
+    "Rocket Bunny Pandem Spectre-specific widebody kit (carbon fiber front fenders, rear quarter panels, and rear diffuser), extending wheel arches by 50mm per side to accommodate 22x11.5-inch ET25 (front) and 22x12.5-inch ET30 (rear) forged BBS FI-R wheels wrapped in Michelin Pilot Sport Cup 2 R tires (285/35R22 front, 325/30R22 rear)",
+    "Vorsteiner V-RT carbon fiber front splitter with integrated air curtains and a 3D-printed titanium underbody diffuser (designed via CFD analysis to reduce lift by 40% at 150 mph), paired with a custom 3-piece carbon fiber rear wing (adjustable angle of attack from 5° to 20°) mounted on CNC-machined aluminum pedestals",
+    "LuxuryTec full LED adaptive headlight retrofit with Osram Night Breaker Laser bulbs (6,000K color temperature, 600m illumination range), complemented by a custom Rolls-Royce Spirit of Ecstasy emblem replacement (3D-printed titanium, 24k gold-plated, with integrated LED halo lighting for visibility)"
+  ]
+}

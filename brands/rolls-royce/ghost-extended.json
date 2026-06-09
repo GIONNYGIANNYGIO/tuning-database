@@ -1,0 +1,14 @@
+{
+  "brand": "ROLLS-ROYCE",
+  "model": "GHOST EXTENDED",
+  "prestazioni": [
+    "Engine: N74B66 6.6L V12 twin-turbo (6592cc) – Full bolt-on turbo upgrade with Garrett GTX5533R Gen II turbos (1.15 A/R, 88mm compressor wheels) paired with custom 4-inch titanium downpipes (VF Engineering) and a secondary fuel system (AEM 400LPH port injectors + Motec M150 ECU for flex-fuel E85 mapping).",
+    "Drivetrain: ZF 8HP90 8-speed transmission reinforced with a Level 10 Motorsports torque converter (3,000+ stall) and a Quaife ATB differential (30% lockup) for aggressive launch control tuning via a standalone Pectel SQ6M ECU.",
+    "Suspension/Handling: Full air-to-coil conversion using KW Variant 5 coilovers (3-way adjustable, 20-way rebound damping) with custom valving for the Ghost Extended’s 3,465mm wheelbase, paired with AP Racing 400mm 6-piston front/4-piston rear brake calipers and carbon-ceramic discs (Brembo CCM-R)."
+  ],
+  "estetica": [
+    "Body: Mansory Carbonado widebody kit (custom-fitted for the Extended wheelbase) with 3D-printed carbon fiber fender flares (50mm wider front, 70mm rear) and a Vorsteiner V-FF 102 front splitter with integrated active aero (adjustable via Ghost’s Spirit of Ecstasy interface).",
+    "Wheels: Forged HRE FF16 24x10.5 ET25 front / 24x12.5 ET30 rear (custom offsets for flush fitment) wrapped in Michelin Pilot Sport Cup 2 R tires (295/25R24 front, 325/25R24 rear) with TPMS sensors recalibrated for 50psi cold pressure.",
+    "Interior: Full Alcantara headliner (Saddle Brown) with diamond-stitching (matching the Ghost’s starlight headliner), bespoke rear lounge seats (recaro SPG-M with 4-point Schroth harnesses) and a custom Rolls-Royce x Bang & Olufsen Beosound Stage sound system (24-speaker, 2,400W, tuned for 20Hz-40kHz response)."
+  ]
+}

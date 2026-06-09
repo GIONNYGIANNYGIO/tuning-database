@@ -1,0 +1,14 @@
+{
+  "brand": "ROLLS-ROYCE",
+  "model": "40/50 HP",
+  "prestazioni": [
+    "Engine: Replace the original 7.0L inline-six (engine code: 'Ghost 40/50') with a fully balanced and blueprinted version featuring a forged crankshaft (Crower 4340 steel), Carrillo H-beam connecting rods, and Mahle Motorsport forged pistons (9.5:1 compression ratio) to handle forced induction. Pair with a custom billet aluminum cylinder head (ported by Cosworth) featuring oversized sodium-filled valves (Ferrea Racing) and a custom camshaft profile (Schrick 292° duration, 12.5mm lift) for improved airflow.",
+    "Forced Induction: Install a custom-built twin-turbo system using Garrett GT2860RS turbos (hybrid ceramic ball-bearing) with Tial 44mm external wastegates and a custom air-to-water intercooler (PWR Racing) mounted in the front grille. Use a custom intake manifold (fabricated by Banks Power) with dual 76mm throttle bodies (BBK Performance) and a custom fuel system featuring Bosch Motorsport 2200cc injectors and a Walbro 450 LPH in-tank fuel pump.",
+    "Drivetrain: Upgrade to a ZF 6HP28A 6-speed automatic transmission with a custom torque converter (Precision Industries) and a Quaife ATB differential. Reinforce the chassis with a custom subframe brace (fabricated by Cusco) and upgrade the driveshaft to a carbon fiber unit (GKN Driveline) to handle increased torque."
+  ],
+  "estetica": [
+    "Body: Replace the original aluminum body panels with lightweight carbon fiber replicas (fabricated by Vorsteiner) featuring a custom widebody kit (Rocket Bunny) with integrated fender flares and a custom front splitter (Seibon Carbon). Install a custom rear diffuser (AWE Tuning) and a functional rear wing (Voltex Type-3) for improved aerodynamics.",
+    "Interior: Retrim the interior with bespoke leather (Bridge of Weir) and Alcantara (Romo) featuring custom embroidery (Rolls-Royce monogram). Install a custom dashboard with a digital instrument cluster (Motec C127) and a custom center console featuring a push-button shifter (Sparco) and a touchscreen infotainment system (Alpine X009-GB).",
+    "Wheels & Suspension: Install custom 22-inch forged wheels (HRE FF16) with a 9.5J front and 11J rear fitment, wrapped in Michelin Pilot Sport Cup 2 tires (275/30 R22 front, 315/25 R22 rear). Upgrade the suspension with a custom air ride system (Air Lift Performance 3P) featuring adjustable damping (Ohlins Road & Track) and custom sway bars (Hotchkis)."
+  ]
+}

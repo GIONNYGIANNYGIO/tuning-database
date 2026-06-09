@@ -1,0 +1,14 @@
+{
+  "brand": "ROLLS-ROYCE",
+  "model": "BOAT TAIL",
+  "prestazioni": [
+    "Engine: 6.75L N74B68 V12 twin-turbo (632 PS stock) – forced induction upgrade via Garrett GTX5533R Gen II turbochargers with billet compressor wheels, custom 4.0-inch V-band downpipes, and a bespoke Akrapovič 304 stainless steel exhaust system featuring quad 100mm titanium tips, reducing backpressure by 42% while retaining the signature Rolls-Royce acoustic profile",
+    "ECU: Motec M182 standalone engine management with custom calibration by RaceLogic, integrating a 4D ignition map for E85 flex-fuel compatibility, paired with a Pectel SQ6M data logger for real-time telemetry monitoring of cylinder pressures (via Kistler 6061B spark plug transducers) and turbocharger shaft speed (via Garrett Speed Sensor Kit)",
+    "Suspension: Öhlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed rebound), custom valving for the Boat Tail’s 2,885 kg curb weight, and bespoke titanium spring perches (manufactured by KW Suspensions) to reduce unsprung mass by 18%. Front and rear anti-roll bars replaced with T6 6061 aluminum units from H&R, adjustable in 5mm increments via billet aluminum drop links"
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon fiber body kit by Carbonskins, including a 3D-scanned front splitter with integrated active Gurney flaps (electrically actuated via Bosch servomotors), a rear diffuser with vortex generators (tested in Sauber’s wind tunnel), and a retractable rear spoiler (deployable at 80 km/h via a MoTeC PDM15 power distribution module). Underbody panels feature a Venturi tunnel design with NACA ducts for brake cooling",
+    "Wheels: Forged 23-inch monoblock wheels by BBS (FI-R model, 3-piece construction) with a custom 5x205 PCD (Rolls-Royce proprietary bolt pattern), wrapped in Pirelli P Zero Trofeo R tires (345/25R23 front, 355/20R23 rear) with a bespoke compound for the Boat Tail’s weight distribution. Center-lock hubs feature titanium wheel nuts by McGard, reducing rotational mass by 3.2 kg per corner",
+    "Interior: Full reupholstery in Bridge of Weir leather with diamond-quilted Alcantara headliner, featuring a custom digital instrument cluster by Nardi (12.3-inch OLED display with Rolls-Royce-specific GUI) and a rear-seat entertainment system with dual 10.1-inch Apple CarPlay/Android Auto screens (integrated via a Raspberry Pi 4-based CAN bus interface). The picnic set is replaced with a carbon fiber case housing a Dom Pérignon champagne chiller (custom-machined by Sub-Zero) and Baccarat crystal flutes"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "RENAULT",
+  "model": "R5 TURBO 3E CONCEPT",
+  "prestazioni": [
+    "Engine swap to a highly modified **M9T 2.3L turbocharged inline-4 diesel (from Renault Master/Alaskan)** with forged internals (Mahle pistons, Manley H-beam rods, ACL race bearings) and a custom billet crankshaft by **JE Motorsport** for a 9.5:1 compression ratio, paired with a **Garrett GTX4202R turbocharger** (hybrid core, 76mm compressor wheel, 0.82 A/R turbine housing) and a **Turbosmart Comp-Gate40 wastegate** for precise boost control at 2.2 bar (32 psi) peak pressure.",
+    "Full **Pectel SQ6M standalone ECU** with custom CAN bus integration for the R5 Turbo 3E’s hybrid drivetrain, running **Motec PDM15 power distribution module** and **AEM X-Series wideband O2 sensors** for closed-loop lambda control. The fuel system features **ID1000x injectors**, a **Bosch Motorsport CP4.2 high-pressure pump (300 bar)**, and a **Radium Engineering dual-catch can setup** with -10AN lines to manage crankcase pressure under extreme boost.",
+    "Drivetrain upgrades include a **Quaife ATB differential** in the rear (custom 3.92:1 ratio) with **AP Racing CP8396-26 360mm 6-piston calipers** and **Ferodo DS3.12 racing pads** for braking, paired with **Ohlins TTX40 coilovers** (3-way adjustable, 24-position rebound, 18-position compression) and **Polybush polyurethane bushings** (full chassis reinforcement) to handle the 500+ Nm torque output."
+  ],
+  "estetica": [
+    "Full **Liberty Walk LB-R5 widebody kit** (carbon fiber fenders, custom front splitter, and rear diffuser) with **Vorsteiner V-FF 107 19x10.5 ET15 forged wheels** (matte gold finish) wrapped in **Michelin Pilot Sport Cup 2 R tires (275/35 R19)** for track-focused grip.",
+    "Custom **RML Group-designed rear wing** (carbon fiber, 3D-printed aluminum endplates) with **Gurney flap adjustment** for downforce tuning, paired with **Seibon carbon fiber hood** (vented, with integrated NACA ducts for intercooler airflow) and **Aeromotions active rear spoiler** (hydraulic, speed-sensitive deployment).",
+    "Interior stripped and reupholstered with **Recaro SPG XL seats** (carbon fiber shells, Alcantara/leather mix), **Sparco Pro 2000 steering wheel** (quick-release hub), and **MOTEC C127 dash display** (integrated with the SQ6M ECU for real-time telemetry). The roll cage is a **Custom Cages T45 steel bolt-in** with **Schroth 6-point harnesses** and **Sabelt HANS-compatible seats** for FIA compliance."
+  ]
+}

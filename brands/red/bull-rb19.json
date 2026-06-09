@@ -1,0 +1,14 @@
+{
+  "brand": "Red Bull",
+  "model": "RB19",
+  "prestazioni": [
+    "Mercedes-AMG F1 M14 E Performance 1.6L V6 hybrid turbocharged power unit (engine code: M14 E Performance) with a bespoke Pankl Racing Systems titanium connecting rod upgrade (90mm length, 18mm wrist pin diameter) to handle 500+ bar combustion pressures and 15,000 RPM redline, paired with a Garrett Motorsports F1-spec MGU-H (Motor Generator Unit-Heat) rated for 120,000 RPM and 160 kW output",
+    "Custom Red Bull Advanced Technologies (RBAT) carbon-fiber reinforced polymer (CFRP) monocoque chassis with integrated titanium roll hoop and 3D-printed aluminum honeycomb crash structure, featuring a 1.2mm wall thickness for 18% weight reduction while maintaining FIA crash test compliance (120kN frontal impact, 75kN side impact)",
+    "Ohlins TTX46 MkII 4-way adjustable dampers with 20-click rebound and 22-click compression tuning, paired with a Red Bull Racing-developed hydraulic heave element (0-50mm travel, 10,000 N/m stiffness) and titanium coil springs (120 N/mm front, 150 N/mm rear) for sub-2mm ride height adjustment precision at 300+ km/h"
+  ],
+  "estetica": [
+    "RB19-exclusive Red Bull Racing x AlphaTauri AT04-inspired 'Shark Fin' carbon-fiber engine cover with integrated 3D-printed titanium cooling louvres (120mm x 80mm, 0.8mm thickness) for optimized airflow to the Mercedes-AMG power unit, reducing underbody turbulence by 7% at 280 km/h",
+    "Custom RB19 'Bull Charge' livery featuring 3M Scotchlite 900 Series reflective vinyl (150 micron thickness) with a 4-layer metallic flake application (Red Bull Racing RB19 Pantone 185 C base, 20% silver flake density) for a 30% increase in visibility under FIA LED lighting conditions",
+    "Aerodynamic RB19 front wing endplates with 5-element adjustable Gurney flaps (0-12mm height) and integrated titanium vortex generators (0.5mm thickness, 15mm spacing) to reduce front axle lift by 12% at 320 km/h, paired with a Red Bull Racing x PWR carbon-fiber rear diffuser featuring 7 active aero strakes (adjustable via hydraulic actuators, 0-25° angle range)"
+  ]
+}

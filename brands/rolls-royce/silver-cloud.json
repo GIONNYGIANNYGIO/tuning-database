@@ -1,0 +1,14 @@
+{
+  "brand": "ROLLS-ROYCE",
+  "model": "SILVER CLOUD",
+  "prestazioni": [
+    "Engine swap to a modernized 6.75L V8 (originally the Rolls-Royce L-series, but upgraded with a bespoke billet aluminum block by Cosworth Engineering, retaining the original 90° V8 architecture but reinforced with forged internals, including a steel crankshaft from a Bentley Mulsanne and Mahle Motorsport forged pistons with a 9.5:1 compression ratio for forced induction compatibility)",
+    "Custom twin-turbocharger setup using Garrett GTX5533R turbos (water-cooled, ball-bearing) with 1.25 A/R turbine housings, paired with a custom air-to-water intercooler system by Bell Intercoolers (3-core, 1200hp-rated) and a bespoke intake manifold fabricated by JE Motorsport with individual throttle bodies (ITBs) for each cylinder, controlled via a Motec M150 ECU with flex-fuel and ethanol compatibility",
+    "Exhaust system overhaul featuring a custom 3.5-inch stainless steel exhaust with equal-length headers designed by Jet-Hot Coatings (ceramic-coated for heat management), terminating in a pair of Borla Pro XS mufflers (straight-through design, 304 stainless steel) with electronically controlled bypass valves for adjustable sound levels, integrated with a custom X-pipe crossover for optimized scavenging"
+  ],
+  "estetica": [
+    "Full custom widebody conversion by Carrozzeria Touring Superleggera, extending the fenders by 3.5 inches per side to accommodate 20x9.5-inch front and 20x12-inch rear BBS LM wheels (gold-painted centers, polished lips) wrapped in Michelin Pilot Sport Cup 2 tires (275/35/20 front, 325/30/20 rear) with custom offset for aggressive stance",
+    "Bespoke handcrafted aluminum body panels (replacing original steel) by Radford Coachbuilders, including a one-off front splitter with integrated carbon fiber canards (by Vorsteiner), a custom rear diffuser with active aerodynamics (adjustable angle via hydraulic actuators), and a carbon fiber hood with functional NACA ducts for intercooler and brake cooling",
+    "Interior reimagined by Saddleback Leather Co. with full Alcantara headliner, custom Recaro Pole Position seats (reclining, with embroidered Rolls-Royce crests), a bespoke Momo Prototipo steering wheel (wood-rimmed, with quick-release hub), and a digital instrument cluster by Racepak (V-Net data logging, configurable displays) integrated into the original dashboard with a hidden roll cage (T45 steel, chrome-moly) by Safety Devices"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "ROLLS-ROYCE",
+  "model": "CULLINAN BLACK BADGE",
+  "prestazioni": [
+    "Engine: N74B66 6.6L Twin-Turbo V12 (632 PS stock) – Forced induction upgrade via **Garrett GTX5533R Gen II** turbos (1.3 bar peak boost, billet compressor wheels, 76mm inducer) paired with **Precision Turbo & Engine 7675 CEA** wastegates for precise boost control. Custom **Rolls-Royce Motorsport** titanium turbine housings to reduce backpressure by 22%.",
+    "Fuel System: **Bosch Motorsport MS17.8** standalone ECU with **AEM Infinity 10** piggyback for real-time lambda correction. **Injector Dynamics ID2600X** fuel injectors (2600cc/min) fed by **Aeromotive A1000** lift pump and **Radium Engineering** dual-catch can setup with -12AN lines to prevent oil vapor ingestion. **Motec M150** data logger for AFR/timing mapping under 1,200+ HP targets.",
+    "Exhaust: **Akrapović Titanium Full-Race System** with 3.5\" diameter mandrel-bent piping, **REMUS Valvetronic** electronically controlled flaps (programmable via **iDrive M Performance** interface), and **Scorpion Race** 100-cell catalytic converters for Euro 6d compliance. **Brembo GT 380mm** carbon-ceramic rotors with **Pagid RS29** pads for 1,800kg stopping power from 120mph."
+  ],
+  "estetica": [
+    "Aero: **Vorsteiner V-RT Cullinan** widebody kit (carbon fiber, 50mm extended fenders) with **Rocket Bunny** front splitter (adjustable 3-stage dive planes) and **Seibon Carbon** rear diffuser (integrated **Aeromotions** active rear wing, 15° attack angle at 80mph). **Vossen HF-6** 24\" forged wheels (22kg each) with **Michelin Pilot Sport Cup 2 R** tires (295/30 front, 325/25 rear).",
+    "Interior: **Recaro Pole Position** carbon-Kevlar bucket seats (HANS-compatible, 18-way adjustment) wrapped in **Bridge of Weir Nappa Leather** with **Alcantara** suede headliner. **Rolls-Royce Bespoke** titanium shift paddles (linked to **ZF 8HP95X** transmission with **HP Tuners** custom shift logic) and **Momo Prototipo** steering wheel (flat-bottom, Alcantara/red stitch). **Bowers & Wilkins Diamond Series** audio with **DSP Concepts** 32-channel tuning for 1,400W peak output.",
+    "Lighting: **Luxx HID** 5,500K bi-xenon projectors with **Osram Night Breaker Laser** bulbs, **Morimoto XB LED** fog lights (5,000 lumen output), and **Vland** sequential LED taillights (OEM-style housing, **Carly for Rolls-Royce** coding to disable bulb-out warnings). **Lazer Triple-RS** 48W laser auxiliary lights (DRL mode, 1.2-mile beam distance) mounted in **Front Runner Outfitters** aluminum bull bar."
+  ]
+}

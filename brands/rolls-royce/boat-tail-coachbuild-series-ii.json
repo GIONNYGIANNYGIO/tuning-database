@@ -1,0 +1,14 @@
+{
+  "brand": "ROLLS-ROYCE",
+  "model": "BOAT TAIL COACHBUILD SERIES II",
+  "prestazioni": [
+    "Engine: 6.75L N74B68 V12 twin-turbo (680PS stock) – Full bespoke ECU remap by **Dimsport Genius** with custom fueling maps for 98 RON + E85 flex-fuel capability, targeting 850PS at 5,200 RPM and 1,100 Nm torque at 3,500 RPM. Retains OEM **Bosch MEVD17.4.6** ECU but with **Alientech KESS3** bench-flashed for seamless integration with stock diagnostics.",
+    "Forced Induction: Upgraded **Garrett GTX5533R Gen II** turbos (hybrid billet wheels, 76mm compressor, 67mm turbine) with **TiAL MV-R 60mm** wastegates and **TurboSmart Race Port 50mm** blow-off valves. Custom **PWR Australia** intercooler (dual-core, 1,200cfm airflow) with **Mocal 10AN** silicone hoses and **Forge Motorsport** billet Y-pipe.",
+    "Exhaust: **Capristo 300-cell** catalytic converters (Euro 6d-TEMP compliant) paired with a **Bespoke Audio** active sound symposer system, integrating **Helmholtz resonator** tuning for a 30% deeper V12 growl at 2,500-4,000 RPM. Titanium **REMUS** rear mufflers (200-cell perforated core) with **AEM Wideband X-Series** O2 sensors for real-time AFR logging."
+  ],
+  "estetica": [
+    "Body: **RML Group** carbon-fiber coachbuilt hardtop (removable, 40% lighter than OEM aluminum) with **PPG ‘Liquid Silver’** nano-ceramic coating (9H hardness, self-healing top layer). **Vorsteiner** carbon-fiber side skirts and rear diffuser (integrated **OSSCA** LED light pods for 360° visibility).",
+    "Wheels: **BBS FI-R** forged monoblock wheels (22x10.5 ET45 front, 22x12.5 ET50 rear) with **Pirelli P Zero Trofeo R** tires (285/30 R22 front, 325/25 R22 rear). **HRE** custom center-lock adapters (titanium, 1.2kg lighter per wheel) and **Brembo GT-R** monobloc calipers (6-piston front, 4-piston rear) with **Carbon Revolution** carbon-ceramic rotors (420mm front, 380mm rear).",
+    "Interior: **Hermès** ‘Faubourg’ leather reupholstery (hand-stitched, contrast piping in **Duck Blue**) with **Alcantara** headliner and **Burmester** 4D sound system upgrade (18 speakers, 2,100W RMS, **Dirac Live** spatial audio tuning). **Sparco** carbon-fiber racing seats (fixed-back, 6-point **Schroth** harnesses) with **Heigo** bespoke titanium roll cage (FIA 8862-2009 certified)."
+  ]
+}

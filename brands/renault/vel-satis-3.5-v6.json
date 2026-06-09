@@ -1,0 +1,14 @@
+{
+  "brand": "RENAULT",
+  "model": "VEL SATIS 3.5 V6",
+  "prestazioni": [
+    "Engine: Replace the stock VQ35DE (3.5L V6, 245 HP) with a Nissan VQ35HR (3.5L V6, 315 HP) from a 2007+ Infiniti G35 Sport, utilizing a custom ECU remap via **Syvecs S6Plus** standalone ECU with direct port injection control and individual cylinder trimming for optimized AFR (12.2:1 under boost).",
+    "Forced Induction: Install a **Garrett GTX3076R Gen II** turbocharger (0.82 A/R, 62mm compressor inducer) with a **Tial MV-R 44mm** external wastegate, paired with a **GReddy Type-S intercooler** (4.5\" core thickness) and **HKS SSQV4** blow-off valve. Boost target: 1.2 bar (17.4 psi) with a **TurboSmart e-Boost2** controller for progressive ramp-up.",
+    "Drivetrain: Upgrade to a **Quaife ATB LSD** (part # QDF7J) in the front differential and a **Cusco Type-RS** 1.5-way LSD in the rear, coupled with **Renault Sport Clio V6 Phase 2** driveshafts (strengthened CV joints) and a **Peloquin differential cover** with reinforced bearing supports. Transmission: **ZF 6HP26** from a BMW 750i (2006-2008) with a **Valeo dual-mass flywheel** (clutch: **Sachs Performance 330mm twin-disc**) for 500 Nm torque capacity."
+  ],
+  "estetica": [
+    "Aero: **Liberty Walk LB-WORKS Vel Satis widebody kit** (custom-fabricated front fenders, rear quarter panels, and rear bumper with integrated diffuser), paired with a **Seibon Carbon fiber hood** (vented, 30% weight reduction) and **Rieger Tuning side skirts** (OEM+ fitment, polyurethane). Rear wing: **Voltex Type-3** (1,800mm span, 3D carbon fiber, adjustable angle).",
+    "Suspension: **Öhlins Road & Track DFV** coilovers (custom valving for Vel Satis chassis, 30-way rebound/20-way compression damping) with **Eibach Pro-Spacer 20mm** wheel spacers (hub-centric, 5x112 bolt pattern). Bushings: **SuperPro polyurethane** (front control arms, subframe, and rear trailing arms) with **Whiteline adjustable rear toe arms**.",
+    "Wheels/Tires: **BBS LM-R** 9.5x19 ET35 (front) and 10.5x19 ET40 (rear) in **Forgeline CF10** finish, wrapped in **Michelin Pilot Sport Cup 2** (255/35/19 front, 295/30/19 rear). Brake system: **AP Racing Radi-CAL 6-piston calipers** (380mm rotors, 2-piece floating) with **Ferodo DS2500** pads and **Goodridge G-Stop braided lines**."
+  ]
+}

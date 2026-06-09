@@ -1,0 +1,14 @@
+{
+  "brand": "ROLLS-ROYCE",
+  "model": "PHANTOM COUPE",
+  "prestazioni": [
+    "Engine: N73B68 6.75L V12 (6749cc) – Forced induction via twin Precision Turbo & Engine Development PT6266 CEA billet turbos (1.2 bar boost) with custom 4-inch titanium downpipes and GReddy Profec B Spec II boost controller for linear power delivery up to 750whp on 98 RON fuel",
+    "Drivetrain: ZF 6HP28 6-speed automatic transmission reinforced with a Level 10 Motorsports billet torque converter and upgraded clutch packs, paired with a Quaife ATB differential (85% lock) for improved torque vectoring and launch control via a standalone Motec M150 ECU with bespoke RR-specific CAN bus integration",
+    "Suspension: KW Automotive 3-way Clubsport coilovers with remote reservoirs (adjustable compression/rebound), custom-machined aluminum top mounts, and polybushings for the Phantom’s unique multi-link setup, paired with H&R 25mm front and 20mm rear anti-roll bars for reduced body roll during high-speed cornering"
+  ],
+  "estetica": [
+    "Body: Mansory Carbon Fiber widebody kit (Phantom Coupe-specific, not shared with Drophead or Sedan) with extended front fenders, aggressive side skirts, and a rear diffuser incorporating active aerodynamics via a Vorsteiner V-FF 103 carbon fiber rear wing with hydraulic actuation (adjustable 0-15 degrees)",
+    "Wheels: Forgiato 24x10.5 ET25 (front) and 24x12.5 ET35 (rear) forged monoblock wheels in a staggered setup, wrapped in Michelin Pilot Sport Cup 2 R tires (285/30 R24 front, 325/25 R24 rear) with custom TPMS sensors for real-time pressure monitoring",
+    "Interior: Full Alcantara headliner and door cards by Schedoni Modena, with a bespoke carbon fiber dashboard overlay (matching the N73 engine’s intake manifold weave pattern) and a Sparco Pro 2000 GT carbon fiber racing seat (driver-side only) mounted on a custom subframe to maintain OEM seatbelt and airbag functionality"
+  ]
+}
