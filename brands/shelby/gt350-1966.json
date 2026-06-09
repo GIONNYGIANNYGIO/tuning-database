@@ -1,0 +1,14 @@
+{
+  "brand": "SHELBY",
+  "model": "GT350 1966",
+  "prestazioni": [
+    "Replace the factory 289ci (4.7L) K-Code HiPo V8 (engine code: 289-4V) with a fully balanced and blueprinted Ford Racing '289 High Performance' crate engine (M-6007-K), featuring forged internals (Crower forged crankshaft, Manley forged H-beam connecting rods, and JE forged pistons with 11.0:1 compression), ported and polished cylinder heads (Edelbrock Performer RPM heads, part #60259), and a custom-ground Comp Cams XE274H hydraulic roller camshaft (224°/230° duration at 0.050\", 0.544\"/0.555\" lift, 110° LSA) for optimized mid-to-high RPM power delivery",
+    "Install a Holley Sniper EFI 2x4 throttle body system (part #550-511K) with a custom billet aluminum intake manifold (Edelbrock Victor Jr. 289, part #2921) and a FAST XFI Sportsman ECU (part #3010200) for precise fuel and ignition mapping, paired with MSD Digital 6AL ignition box (part #6425) and MSD Blaster 2 coil (part #8202) for consistent spark under high load",
+    "Upgrade the drivetrain with a Tremec TKO-600 5-speed manual transmission (part #TKO-600-1) with a McLeod twin-disc clutch (part #1400) and aluminum flywheel (part #1300), paired with a Ford 9\" rear end (Currie Enterprises 9\" nodular iron housing, part #CE-9NOD) with 3.70:1 gears, Detroit Truetrac limited-slip differential (part #912A541), and 31-spline axles (Moser Engineering, part #A103131)"
+  ],
+  "estetica": [
+    "Replace the factory steel hood with a carbon fiber Shelby GT350R-style hood (Classic Design Concepts, part #0400-0001) featuring functional dual scoops and a hidden latch system, finished in matte black with a satin clear coat",
+    "Install a custom widebody kit (Rocket Bunny V1 GT350, part #RB-WB-66MUSTANG) with bolt-on fender flares (2.5\" front, 3\" rear), paired with custom 3-piece Work Meister S1 3P wheels (15x8 front, 15x9 rear, +15mm offset) wrapped in BFGoodrich g-Force R1S tires (225/50R15 front, 255/50R15 rear) for period-correct aggressive stance",
+    "Retrofit the interior with a full custom roll cage (Autopower Industries 8-point bolt-in cage, part #AP800) with gusseted main hoops, welded door bars, and a removable bolt-in harness bar, upholstered in black Alcantara with red stitching (Sparco Pro 2000 seats, part #00877-15L/R, and Schroth 6-point harnesses, part #Q-50-R/T)"
+  ]
+}

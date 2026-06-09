@@ -1,0 +1,14 @@
+{
+  "brand": "STEYR-PUCH",
+  "model": "HAFLINGER",
+  "prestazioni": [
+    "Engine swap to a modernized Steyr-Puch 700AP (engine code: M160) with forged internals: Mahle forged pistons (8.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from JE Pistons. Pair with a custom camshaft profile from Schrick (284° duration, 11.5mm lift) for optimized off-road torque delivery.",
+    "Forced induction via a Rotrex C15-60 supercharger (60mm compressor wheel) mounted on a custom billet aluminum intake manifold, paired with a custom intercooler setup using a PWR heat exchanger and custom piping from Vibrant Performance. Boost pressure set to 0.8 bar (11.6 psi) with a Turbosmart Kompact 38mm wastegate for precise control.",
+    "Suspension overhaul with custom-fabricated Öhlins TTX22M coilovers (remote reservoir, 250mm travel) and reinforced trailing arms from a specialist fabricator (e.g., KW Automotive’s off-road division). Pair with polybushings from SuperPro (part #SPF0116K) and a custom sway bar from Whiteline (22mm diameter, adjustable links) for improved articulation and stability."
+  ],
+  "estetica": [
+    "Custom lightweight aluminum body panels (hand-formed by a specialist like RML Group) replacing the original steel, reducing weight by ~30% while retaining the iconic Haflinger silhouette. Finish with a custom matte military green powder coat (PPG D8186) for durability and stealth aesthetics.",
+    "Off-road wheel setup: 15x7-inch Method MR701 beadlock wheels (ET15 offset) wrapped in 235/85R15 BFGoodrich KM3 tires. Pair with custom fabricated steel fender flares (hand-rolled by a fabricator like Rally Armor) to accommodate the wider track and aggressive tire sizing.",
+    "Exterior lighting upgrade: Hella Rallye 4000 Compact spotlights (4x, 55W H3 bulbs) mounted on a custom aluminum roof rack (fabricated by Front Runner Outfitters). Pair with a custom LED bar (Baja Designs Squadron Pro, 20-inch) integrated into the front bumper, controlled via a sPOD switch panel for off-road functionality."
+  ]
+}

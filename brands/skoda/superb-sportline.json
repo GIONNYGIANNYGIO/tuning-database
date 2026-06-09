@@ -1,0 +1,14 @@
+{
+  "brand": "SKODA",
+  "model": "SUPERB SPORTLINE",
+  "prestazioni": [
+    "Engine: 2.0 TSI (CZPA) with a custom Stage 2+ ECU remap by APR (APR956000C) targeting 320 HP and 450 Nm torque, utilizing a high-flow downpipe (Milltek Sport 304 stainless steel, 76mm diameter) and a hybrid turbo upgrade (Garrett GTX2867R Gen II .86 A/R turbine housing) for reduced lag and optimized spool at 2,200 RPM",
+    "Suspension: Ohlins Road & Track DFV coilovers (SK001) with 8-position adjustable compression/rebound damping, custom spring rates (8K front, 7K rear), and adjustable top mounts (Ohlins SK001-01) for precise camber control (-2.5° front, -1.8° rear) to eliminate understeer in high-speed corners",
+    "Braking: Alcon 6-piston monoblock calipers (front, 380mm discs) with Ferodo DS2500 pads and custom braided stainless steel lines (Goodridge G-Stop), paired with rear 356mm discs and 4-piston calipers (Alcon) for consistent fade-free performance under repeated 0.9G deceleration"
+  ],
+  "estetica": [
+    "Aero: Prior Design PD-SKSB widebody kit (carbon fiber front splitter, side skirts, and rear diffuser) with a custom 3D-printed active rear wing (adjustable via electric actuators, 15° max angle) for 80 kg downforce at 180 km/h, paired with a custom front canard setup (Rocket Bunny-style, 3D-printed PETG)",
+    "Wheels: BBS FI-R 9.5Jx20 ET35 (front) and 11Jx20 ET45 (rear) with custom offsets to fill the Prior Design fenders, wrapped in Michelin Pilot Sport Cup 2 R tires (255/30 R20 front, 295/25 R20 rear) for maximum mechanical grip",
+    "Exterior: Full Respray in Lamborghini Grigio Titans metallic with custom matte black accents (roof, mirror caps, and lower body cladding), paired with a custom LED light bar (Osram Night Breaker Laser, 6,000K) integrated into the front grille and sequential LED taillights (VLAND, 30-LED dynamic turn signals)"
+  ]
+}

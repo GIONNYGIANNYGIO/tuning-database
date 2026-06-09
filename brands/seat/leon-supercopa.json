@@ -1,0 +1,14 @@
+{
+  "brand": "SEAT",
+  "model": "LEON SUPERCOPA",
+  "prestazioni": [
+    "Engine: Replace the stock **2.0L TFSI (CBFA/CCTA)** with a **Garrett GTX3582R Gen II** turbocharger (82mm compressor, 62mm turbine) paired with a **custom 3.5\" V-band downpipe** from **Milltek Sport** (304 stainless steel, 4-2-1 merge collector) to eliminate turbo lag and support 500+ HP on **E85 fuel**.",
+    "Fuel System: Upgrade to **Bosch Motorsport 0261500360** 1000cc injectors (side-feed) with a **Syvecs S8 Plug & Play ECU** (CAN bus integration for OEM dash retention) and a **Radium Engineering dual-catch can system** (AN-10 lines, 1L capacity) to prevent oil dilution under sustained boost.",
+    "Drivetrain: Install a **Quaife ATB LSD (QDF7Z)** with **Motul Gear 300 75W-90** fluid and a **South Bend Clutch Stage 3 Daily** (organic/copper hybrid, 2400lb clamp load) paired with a **Peloquin differential cover** (aluminum, finned for heat dissipation) to handle 550 Nm of torque."
+  ],
+  "estetica": [
+    "Aero: Fit the **SEAT Sport Supercopa OEM carbon fiber front splitter** (2010-2013 spec, 3-piece with adjustable dive planes) and **APR GT-250 rear wing** (carbon fiber, 1800mm span, 3D-printed aluminum mounts) with **custom gurney flaps** (20mm, CNC-machined from 6061-T6).",
+    "Body: Apply a **full OEM SEAT Sport Supercopa widebody kit** (2012 spec, fiberglass, includes front fenders, rear quarter panels, and rear bumper) with **custom carbon fiber side skirts** (hand-laid, 2x2 twill, 3K finish) and **Rieger Tuning front lip** (polyurethane, bolt-on, 50mm extension).",
+    "Wheels: Mount **BBS CH-R II** 18x10.5 ET35 (front) and 18x11 ET40 (rear) with **Pirelli P Zero Trofeo R** tires (265/645R18 front, 295/645R18 rear) on **H&R 20mm wheel spacers** (hub-centric, 5x112 PCD) for aggressive stance and track-ready grip."
+  ]
+}

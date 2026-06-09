@@ -1,0 +1,14 @@
+{
+  "brand": "SSANGYONG",
+  "model": "STAVIC",
+  "prestazioni": [
+    "Engine swap to a Mercedes-Benz OM662 2.9L turbo-diesel (engine code: OM662.961) with a BorgWarner BV50 turbo upgrade, custom intercooler piping, and a Denso fuel pump (part # 23250-30020) for increased fuel flow. Pair with a custom ECU remap via Alientech KESSv2 (protocol: SSANGYONG_EDC16C39) to target 220 HP and 450 Nm of torque.",
+    "Full drivetrain reinforcement with a Quaife ATB differential (part # QDF7J) for the rear axle, paired with a Sachs Performance clutch kit (part # 3000 951 211) and a custom lightweight flywheel (machined from 7075-T6 aluminum, 12.5 lbs).",
+    "Suspension overhaul using KW Variant 3 coilovers (part # 35231001) with custom spring rates (8kg/mm front, 7kg/mm rear) and polyurethane bushings from SuperPro (part # SPF0116K) for the rear trailing arms. Add a Whiteline front sway bar (part # BSR70XZ) and rear sway bar (part # BSR44XZ) for chassis rigidity."
+  ],
+  "estetica": [
+    "Custom widebody conversion using a Liberty Walk LB Works kit (modified for Stavic chassis, part # LB-SSANGYONG-STAVIC-01), paired with OZ Racing Ultraleggera HLT wheels (18x9.5 +35 front, 18x10.5 +40 rear) wrapped in Michelin Pilot Sport Cup 2 tires (245/40/18 front, 275/35/18 rear).",
+    "Full carbon fiber aero package including a custom front splitter from Seibon Carbon (part # CF-SS-STAVIC-FS), a GT-style rear wing from APR Performance (part # WS-2811, modified for Stavic mounting points), and side skirts from Varis Japan (custom-fabricated for the Stavic’s body lines).",
+    "Interior overhaul with Recaro Pole Position seats (part # 391.99.001), a custom roll cage from Custom Cages (part # CC-SS-STAVIC-01, bolt-in with harness bar), and a Momo Prototipo steering wheel (part # 0111201011) with a NRG quick-release hub (part # 300-ST-401)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "SMART",
+  "model": "BRABUS FORTWO",
+  "prestazioni": [
+    "Engine: Brabus-tuned M160 EVO (0.7L inline-3, turbocharged) with forged internals including Mahle Motorsport pistons (83mm bore, 8.5:1 CR), Carrillo H-beam connecting rods, and a billet crankshaft from Manley Performance. Turbo upgrade to a Garrett GT1241Z (52mm compressor, 41mm turbine) with a custom 3.5-inch stainless steel downpipe and GReddy Profec B Spec II boost controller targeting 1.5 bar (21.7 psi) for ~120 HP at the wheels.",
+    "Fuel System: Injector Dynamics ID725 fuel injectors (725cc/min) paired with a Walbro 255 LPH in-tank fuel pump, AEM X-Series wideband AFR sensor (30-0300), and a custom ECU flash via Brabus Power Xtra (Stage 2) with ethanol-compatible mapping (E30 blend) and launch control set to 4,500 RPM.",
+    "Drivetrain: Quaife ATB helical LSD (part #QDF7J) in the 6-speed automated manual transmission, upgraded clutch from Sachs Performance (organic twin-disc, 240mm diameter), and a lightweight flywheel from Fidanza (aluminum, 6.5 lbs). Custom driveshafts from The Driveshaft Shop (3.5-inch carbon fiber, 300M steel CV joints) to handle increased torque."
+  ],
+  "estetica": [
+    "Body Kit: Brabus Ultimate 125 Aero Package (carbon fiber front splitter, side skirts, and rear diffuser with integrated brake cooling ducts). Custom rear wing from Seibon Carbon (dual-element, 3D-scanned for the ForTwo’s roofline) with adjustable angle of attack (0-12 degrees).",
+    "Wheels/Tires: BBS RS-GT II (17x7.5 ET35 front, 17x8.5 ET20 rear) in matte gold with titanium hardware, wrapped in Michelin Pilot Sport Cup 2 (205/40/17 front, 225/35/17 rear). Custom center caps with Brabus logo in anodized red.",
+    "Interior: Recaro Pole Position seats (carbon fiber shell, Alcantara/leather upholstery) with Schroth Profi II 4-point harnesses. Custom roll cage from Custom Cages (T45 steel, 3.2mm wall thickness) with integrated fire suppression system (Lifeline Zero 360, 2kg agent). Momo Prototipo steering wheel (320mm diameter, suede) with quick-release hub and integrated AIM MXS Strada dash display."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "SATURN",
+  "model": "VUE REDLINE",
+  "prestazioni": [
+    "Engine swap to a **GM LNF 2.0L Ecotec Turbo (engine code: LNF)** from the Chevrolet HHR SS, retaining the Vue Redline's FWD layout but upgrading to a forged internals build with **Mahle Motorsport forged pistons (8.2:1 compression)**, **Manley H-beam connecting rods**, and a **Crower billet crankshaft**. Pair with a **Garrett GTX3071R Gen II turbo (0.63 A/R, 62mm inducer)** on a custom **PTP Turbo Fabrication tubular manifold** for 350-400whp on E85.",
+    "Full **Motec M150 ECU standalone management** with **Bosch Motorsport 8-hole high-impedance injectors (1,200cc/min)** and a **Radium Engineering dual-catch can system** to handle the LNF's direct injection and port injection hybrid setup. Upgrade the fuel system with a **Walbro 450 LPH in-tank pump** and **AEM 340 LPH external pump** for E85 compatibility.",
+    "Suspension overhaul with **Öhlins Road & Track DFV coilovers (VUE-specific valving)** and **Whiteline adjustable rear sway bars (24mm hollow)** to correct the Vue's understeer. Reinforce the chassis with **Cusco front strut tower bars** and a **Rear subframe reinforcement kit from 034 Motorsport** to handle increased torque. Brake system upgraded to **Brembo GT 4-piston calipers (345mm rotors front, 328mm rear)** with **Ferodo DS2500 pads** and **Goodridge G-Stop braided lines**."
+  ],
+  "estetica": [
+    "Full **Rocket Bunny V2 widebody kit (VUE-specific)** with **custom carbon fiber overfenders** to fit 9.5x18 ET35 **Work Emotion CR Kiwami** wheels wrapped in **Michelin Pilot Sport Cup 2 R (255/40/18 front, 275/35/18 rear)**. Aggressive stance achieved via **BC Racing camber plates (-3.5° front, -2.8° rear)** and **Vorshlag Motorsport rear camber arms**.",
+    "Custom **Seibon carbon fiber hood** with a **functional LNF-specific heat extractor** and **AeroCatch hood latches**. Rear diffuser from **Maxton Design (VUE-specific)** paired with a **custom 3.5-inch dual-exit exhaust system (Invidia N1 cat-back with custom downpipes)**. Front bumper lip replaced with a **VMR V710-style carbon fiber splitter** and **custom canards** for aero balance.",
+    "Interior stripped and rebuilt with **Recaro Pole Position seats (Sparco 6-point harnesses)**, **NRG Innovations quick-release steering wheel (350mm, suede)**, and a **custom roll cage (8-point, TIG-welded 4130 chromoly)** from **Autopower Industries**. Full **AEM digital dash (CD-7)** integrated with the Motec ECU, and **custom Alcantara door cards** with **LED shift lights** embedded in the A-pillars."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "SKODA",
+  "model": "ENYAQ RS",
+  "prestazioni": [
+    "APR Stage 2+ ECU/TCU flash for the **EA211 e-TSI DQ381** (2.0L turbocharged I4, 299 PS stock) with custom EGT mapping, optimized torque split for the **Haldex 5th-gen AWD system**, and launch control recalibration to 3,500 rpm for 0-100 km/h in 4.8s (stock: 6.2s). Requires **APR Carbon Fiber Intake System** and **CTS Turbo FMIC (Front-Mount Intercooler) with 600W heat rejection** to maintain 1.2 bar boost under sustained load.",
+    "KW Suspension **Clubsport coilovers (3-way adjustable)** with **SKODA-specific spring rates (8kg/mm front, 10kg/mm rear)** and **Motul 300V 15W-50 ester-based oil** for damper longevity. Includes **polyurethane subframe bushings (034 Motorsport)** to reduce torque steer under hard acceleration, paired with **H&R 25mm front / 20mm rear anti-roll bars** to eliminate body roll in high-G corners.",
+    "Brembo **GT 6-piston front (380mm discs) / 4-piston rear (355mm discs)** big brake kit with **Ferodo DS2500 pads** and **ATE Type 200 brake fluid (5.1 bar boiling point)**. Custom **Goodridge G-Stop stainless steel brake lines** reduce pedal travel by 18%, and **Cusco 2-way LSD (25% preload)** ensures power delivery to both rear wheels under spirited driving."
+  ],
+  "estetica": [
+    "Rieger Tuning **RS-specific widebody kit (carbon fiber fenders, front splitter, and rear diffuser)** with **3M 1080 Gloss Black vinyl overlay** for heat resistance. Includes **custom LED DRLs (Lux H8 V4S)** integrated into the front bumper and **OEM+ rear spoiler delete** for a sleeper aesthetic.",
+    "VMR **V710 20x9.5 ET35 (front) / 20x10.5 ET40 (rear) wheels** in **Gunmetal finish**, wrapped in **Michelin Pilot Sport Cup 2 R (255/40 R20 front, 275/35 R20 rear)** for maximum lateral grip. **H&R TRAK+ wheel spacers (15mm front, 20mm rear)** push wheels to fender edges, paired with **BC Racing BR coilover collars in anodized red** for visual contrast.",
+    "Interior: **Recaro SPG XL seats (carbon shell, Alcantara inserts)** with **Schroth Profi II 6-point harnesses** and **MOMO Mod.73 steering wheel (350mm, suede)**. **AEM X-Series wideband AFR gauge (30-0300)** mounted in the **OEM air vent pod**, and **Rally Innovations shift light (RGB, 12,000 RPM range)** hardwired to the **EA211 e-TSI CAN bus** for real-time data."
+  ]
+}

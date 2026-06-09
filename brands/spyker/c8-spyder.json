@@ -1,0 +1,14 @@
+{
+  "brand": "SPYKER",
+  "model": "C8 SPYDER",
+  "prestazioni": [
+    "Audi-sourced 4.2L V8 (engine code: AUX) forced-induction conversion using a Garrett GTX4202R turbocharger (86mm compressor, 1.06 A/R turbine housing) with a custom billet aluminum intake manifold by Dutch specialist VDM Automotive, supporting 1.2 bar of boost for 650hp at 7,200 RPM while retaining the factory dry-sump lubrication system",
+    "Full titanium exhaust system by Akrapović with 70mm diameter piping, 4-into-1 merge collectors, and electronically controlled butterfly valves (mapped via Motec M150 ECU) to optimize backpressure for the AUX V8’s unique firing order (1-5-4-8-6-3-7-2)",
+    "Öhlins TTX46 coilovers with 24-way adjustable compression/rebound damping, custom valving for the C8’s aluminum spaceframe chassis, and spherical bearing top mounts by SPYKER’s in-house tuning division (Spyker Performance) to eliminate compliance in the front double-wishbone and rear multi-link suspension"
+  ],
+  "estetica": [
+    "Full carbon-fiber widebody conversion by Liberty Walk (LB-SPYKER C8 SPYDER kit), including extended front fenders with integrated air vents for the AUX V8’s intercooler, rear overfenders with a 50mm stretch, and a custom ducktail spoiler with active Gurney flap (controlled via Motec PDM15)",
+    "Bespoke hand-stitched leather interior by Saddleback Leather, featuring a 3D-embossed Spyker logo on the Recaro Pole Position seats (with integrated 6-point Schroth harnesses), a custom aluminum gear shifter knob with laser-engraved shift pattern, and a digital instrument cluster by AIM MXS Strada (replacing the factory analog gauges)",
+    "Aerodynamic underbody package by APR Performance, including a front splitter with adjustable dive planes (carbon-Kevlar construction), rear diffuser with integrated titanium exhaust outlets, and a flat underfloor panel with vortex generators to reduce lift by 40% at 200 km/h (validated in Sauber’s wind tunnel)"
+  ]
+}

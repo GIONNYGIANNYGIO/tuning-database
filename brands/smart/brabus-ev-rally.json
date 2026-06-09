@@ -1,0 +1,14 @@
+{
+  "brand": "SMART",
+  "model": "BRABUS EV RALLY",
+  "prestazioni": [
+    "Replacement of the stock **EQ.350** (electric motor code: **SMG-150-3P**) with a **BRABUS 82 kW (110 hp) to 130 kW (174 hp) high-performance electric motor upgrade**, featuring a **custom-wound stator** for increased torque (300 Nm peak) and a **liquid-cooled rotor** to sustain rally-stage heat loads. Paired with a **SEVCON Gen4 Size 8 motor controller** (reflashed with **BRABUS Rally EV firmware v2.1**) for aggressive torque vectoring and regenerative braking mapping optimized for loose surfaces.",
+    "Installation of a **BRABUS Rally EV Battery Pack (42 kWh, 400V Li-ion NMC)** with **active thermal management via dual 120mm PWM-controlled radiators** (mounted in the rear quarter panels) and **custom aluminum busbars** (replacing OEM copper for weight savings). Includes a **TE Connectivity HVIL (High-Voltage Interlock Loop) safety system** with **rally-spec vibration-dampened mounting** to prevent disconnections during high-G jumps.",
+    "Full **Öhlins TTX22M coilover suspension** with **3-way adjustable damping (compression, rebound, and high-speed blow-off)** and **240mm travel** (up from stock 160mm). Front struts feature **custom CNC-machined aluminum top mounts** (replacing OEM rubber) for precise camber control, while the rear uses **polyurethane subframe bushings** (from **Whiteline**) to reduce flex under rally conditions. Springs are **Eibach ERS (Extreme Rally Spec)** with a **progressive rate (120-220 lbs/in)** for gravel and tarmac stages."
+  ],
+  "estetica": [
+    "Full **BRABUS Rally EV Widebody Kit** (carbon fiber reinforced polymer, CFRP) with **integrated gravel guards** and **quick-release fender flares** (for easy wheel/tire swaps between stages). Includes **custom aluminum skid plates** (front and rear) with **Teflon-coated underside** to reduce drag on loose surfaces.",
+    "Replacement of the OEM **Smart EQ front bumper** with a **BRABUS Rally EV Carbon Fiber Splitter** (featuring **adjustable dive planes** for downforce tuning) and a **custom rear diffuser** (with **Gurney flap**) to balance aero at high speeds. The rear wing is a **BRABUS Carbon Fiber GT Wing (2.5m chord, 3-position angle adjustment)** with **integrated LED brake light** (DOT-approved).",
+    "Interior stripped of all non-essential weight, featuring **Sparco Pro2000 Rally Seats** (with **6-point Schroth harnesses**), a **Momo Mod.78 Rally Steering Wheel** (quick-release hub), and a **Motec C127 Dash Logger** (with **GPS lap timing** and **battery voltage monitoring**). The roll cage is a **T45 steel multi-point cage** (FIA Appendix J compliant) with **aluminum gussets** and **carbon fiber door bars** for side-impact protection."
+  ]
+}

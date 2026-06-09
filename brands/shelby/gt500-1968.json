@@ -1,0 +1,14 @@
+{
+  "brand": "SHELBY",
+  "model": "GT500 1968",
+  "prestazioni": [
+    "Engine: Replace the factory 428 FE V8 (engine code: 428CJ) with a fully built 427 FE stroker (4.25\" crank, 4.17\" forged pistons from JE, Manley H-beam rods) producing 650+ HP on 12.5:1 compression with a custom-ground Comp Cams solid roller camshaft (258°/264° duration, 0.650\" lift) and port-matched Edelbrock Victor Jr. intake manifold paired with a Holley 1050 CFM Dominator carburetor on an MSD Pro-Billet distributor and 6AL ignition box.",
+    "Forced Induction: Twin Garrett GT42R turbochargers (82mm, .82 A/R) with Tial 44mm wastegates and a custom Spearco air-to-water intercooler (3.5\" core) running 18 PSI of boost through a dual 3.5\" stainless steel exhaust with Burns Stainless 1.75\" primary headers and Flowmaster Super 44 mufflers, tuned via a FAST XFI 2.0 standalone ECU with wideband O2 sensors.",
+    "Drivetrain & Suspension: Tremec TKO-600 5-speed manual transmission with a McLeod RST twin-disc clutch and aluminum flywheel, paired with a Ford 9\" rear end (3.70:1 gears, Detroit Locker differential) and a custom 4-link suspension with Ridetech HQ Series coilovers (250 lb/in front, 300 lb/in rear) and Baer 14\" Extreme Plus 6-piston front brakes with 13\" rear rotors."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion using a Roush-inspired GT500-specific kit (fenders, hood, trunk, and front splitter) with a custom 2.5\" ducktail spoiler from Anderson Composites, finished in Shelby Wimbledon White with Guardsman Blue Le Mans stripes and a clear bra from Xpel Ultimate.",
+    "Interior: Full Alcantara-wrapped Recaro SRD-LW racing seats with 4-point Schroth Profi II harnesses, a custom roll cage from Autopower Industries (8-point, bolt-in, with harness bar), and a Momo Mod.78 steering wheel on a NRG quick-release hub, paired with a digital dash from Dakota Digital RTX with analog-style gauges (160 MPH speedo, 10K RPM tach, oil/fuel/boost).",
+    "Wheels & Stance: 18x9.5\" and 18x11\" front/rear BBS LM-R wheels (ET25 front, ET15 rear) with Nitto NT05R 275/35/18 and 315/30/18 tires, paired with a 1.5\" drop from Ridetech HQ coilovers and polyurethane bushings from Energy Suspension for aggressive stance and track-ready alignment (2° negative camber front, 1.5° rear)."
+  ]
+}

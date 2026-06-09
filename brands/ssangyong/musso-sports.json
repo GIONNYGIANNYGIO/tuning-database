@@ -1,0 +1,14 @@
+{
+  "brand": "SSANGYONG",
+  "model": "MUSSO SPORTS",
+  "prestazioni": [
+    "Engine swap to a Mercedes-Benz OM662 3.2L inline-5 turbo-diesel (engine code: 662.962) with a BorgWarner EFR 7670 turbocharger, custom 3-inch stainless steel downpipe, and a PPE (Precision Power Engineering) intercooler upgrade for sustained 320hp and 550Nm torque at 2,200 RPM",
+    "Full drivetrain reinforcement with a Quaife ATB differential (part # QDF7Z) for the rear axle, paired with a custom 3.73:1 gear ratio upgrade from a Mercedes-Benz G-Class (W463) transfer case, and uprated CV joints from GKN Driveline (part # 300051XS)",
+    "Custom ECU remapping via a standalone Syvecs S6Plus ECU with flex-fuel capability, supporting E85 blends, and integrated with a 4-bar MAP sensor from AEM (part # 30-2131-50) for precise boost control on the OM662 engine"
+  ],
+  "estetica": [
+    "Custom widebody conversion using a Liberty Walk-inspired kit (modified for Musso Sports chassis) with carbon fiber fender flares, front splitter, and rear diffuser from Seibon Carbon (part # CF-SSY-MUSSO-FB-01)",
+    "Full suspension lift using Bilstein 60mm B8 5100 series coilovers (part # 24-257364) paired with custom 2.5-inch poly bushings from SuperPro (part # SPF1076K) for improved articulation and off-road capability",
+    "Aggressive front-end styling with a custom 3D-printed grille insert featuring a hexagonal mesh pattern, LED CREE XHP70.2 high-beam projectors in OEM housing, and a custom winch bumper from ARB (part # 3510120) with integrated recovery points"
+  ]
+}

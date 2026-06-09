@@ -1,0 +1,14 @@
+{
+  "brand": "SALEEN",
+  "model": "S7 TWIN TURBO COMPETITION",
+  "prestazioni": [
+    "Engine: Ford-derived 7.0L V8 (engine code: **Saleen S7-7000**), forged internals with billet crankshaft, Carrillo H-beam connecting rods, and JE 12.5:1 compression forged pistons. Upgraded to **Weistec Engineering Stage 3+ twin-turbo system** featuring **Garrett GTX5533R Gen II turbos** (1.28 A/R, 88mm compressor wheels) with **Tial MV-R 60mm wastegates** and **TurboSmart Race Port BOV** for 1,200+ HP capability on E85.",
+    "Fuel System: **FuelTech FT600 ECU** with **ID1700x injectors** (side-feed, 1,700cc/min) and **AEM 400LPH dual-pump fuel system** (with **Radium Engineering dual catch cans** and **Fore Innovations F2i fuel pressure regulator**). **Motec PDM15** for power distribution and **NGK R8963-10B laser iridium spark plugs** for extreme boost conditions.",
+    "Drivetrain & Chassis: **Tilton 7.25\" triple-plate carbon clutch** with **PPG 6-speed sequential transaxle (ST-6000)** and **Quaife ATB differential**. **Penske 8760 3-way adjustable coilovers** with **Eibach ERS 1,200 lb/in springs** and **Ohlins TTX46 MkII dampers** for track-specific rebound/compression tuning. **Brembo GT-R 6-piston calipers** with **380mm carbon-ceramic rotors** and **Ferodo DS3000 pads** for endurance braking."
+  ],
+  "estetica": [
+    "**Rocket Bunny V3-S7 widebody kit** (carbon fiber, 3-piece overfenders with integrated canards) paired with **Aeromotions AMS-1000 active rear wing** (carbon fiber, 3D-printed airfoil with **MotoArt actuators** for dynamic angle adjustment).",
+    "**VIS Racing carbon fiber front splitter** (with **AeroCatch quick-release mounts**) and **custom 3D-printed titanium underbody diffuser** (designed via CFD for 1,800 lbs downforce at 180 mph). **Forge Motorsport carbon fiber side skirts** with integrated **LED aero indicators** (DRLs by **Lux H8 V4**).",
+    "**BBS FI-R 19x12\" front / 20x13\" rear wheels** (forged magnesium, **9.5kg per wheel**) wrapped in **Michelin Pilot Sport Cup 2 R tires** (325/30 R19 front, 355/25 R20 rear). **AP Racing CP9666-1000 brake ducts** (carbon fiber, NACA-style) with **custom titanium wheel spacers** (15mm front, 20mm rear) for optimal track clearance."
+  ]
+}

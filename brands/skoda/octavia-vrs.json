@@ -1,0 +1,14 @@
+{
+  "brand": "SKODA",
+  "model": "OCTAVIA VRS",
+  "prestazioni": [
+    "Engine: EA888 Gen 3 (CJXC 2.0L TSI) with a custom Stage 2+ ECU remap by APR (APR93000002) targeting 360 HP and 500 Nm torque, utilizing a Garrett GT2867R turbocharger (768805-5003S) with a 0.63 A/R turbine housing and billet compressor wheel for reduced lag and improved spool on the stock internals",
+    "Fuel System: High-flow fuel pump (Bosch 044) paired with 1000cc ID1000 injectors (100034-1000) and a custom fuel rail adapter kit (Forge Motorsport FMFSI10) to support the increased fuel demand, with a Syvecs S6Plus standalone ECU for precise fuel and ignition mapping under high boost",
+    "Drivetrain: Sachs Performance clutch kit (3000 955 030) with a lightweight single-mass flywheel (Sachs 3000 990 170) and a Quaife ATB differential (QDF7Z) for improved power delivery and traction, paired with a DSG Stage 2 tune (GIAC DSG TCU Flash) to reduce shift times to 120ms and increase torque limits to 550 Nm"
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny V2 widebody kit (RB-SKODA-OCTAVIA-VRS) with custom carbon fiber front splitter, side skirts, and rear diffuser, paired with a custom 3D-printed rear wing (designed in-house, 30% chord, 12° angle) for balanced downforce at high speeds",
+    "Suspension: Ohlins Road & Track coilovers (DFV 22404-01) with custom valving for the Octavia vRS chassis, paired with H&R 20mm front and 15mm rear anti-roll bars (H&R 51660) and polybushings (SuperPro SPF1045K) for reduced body roll and improved turn-in response",
+    "Wheels & Brakes: BBS FI-R 19x9.5 ET35 wheels (BBS 40512300) with Michelin Pilot Sport Cup 2 tires (235/35/19 front, 265/30/19 rear), paired with Alcon 6-piston front calipers (Alcon 40500.100.0) and 380mm two-piece rotors (Alcon 40500.100.1) with Ferodo DS2500 pads for aggressive track use"
+  ]
+}

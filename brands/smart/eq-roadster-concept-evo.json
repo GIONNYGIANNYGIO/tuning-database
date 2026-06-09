@@ -1,0 +1,14 @@
+{
+  "brand": "SMART",
+  "model": "EQ ROADSTER CONCEPT EVO",
+  "prestazioni": [
+    "Replacement of the stock electric motor (code: **EQB 88 kW**) with a **Magnax AXF225-18** axial flux motor, producing 320 kW (430 hp) and 600 Nm of torque, paired with a **GKN eTwinsterX** torque-vectoring differential for precise power distribution to the rear wheels",
+    "Custom **BRUSA Elektronik DMC5** dual-motor controller with **AEM EV VCU-300** vehicle control unit, optimized for 800V architecture and regenerative braking tuned to **Bosch iBooster** vacuumless brake assist for seamless deceleration mapping",
+    "Battery upgrade to a **Webasto CV Standard 800V 60 kWh** lithium-ion pack with **Molicel P42A** high-discharge cells, cooled by a **Mahle Jet Ignition** thermal management system, enabling 0-100 km/h in 3.2s and a top speed of 220 km/h (electronically limited)"
+  ],
+  "estetica": [
+    "Full **Liberty Walk LB-SMART EQR** widebody kit with carbon fiber fenders, front splitter, and rear diffuser, designed specifically for the EQ Roadster’s 2,360 mm wheelbase and 1,695 mm track width",
+    "Custom **Rotiform LAS-R** 18x9.5 ET25 front and 18x11 ET15 rear forged wheels, wrapped in **Michelin Pilot Sport Cup 2 R** 245/35 R18 and 305/30 R18 tires, paired with **AP Racing CP9660** 355mm front and 330mm rear two-piece brake rotors with **Alcon 6-piston calipers**",
+    "Retractable **Hardtop Design HD-SMART EQR** carbon fiber roof system with **Sabelt 6-point harnesses** integrated into **Recaro Pole Position** carbon-Kevlar bucket seats, featuring a **Motec C127** digital dash and **AiM MXL2** data logger for track telemetry"
+  ]
+}

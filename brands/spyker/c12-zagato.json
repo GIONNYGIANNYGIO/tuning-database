@@ -1,0 +1,14 @@
+{
+  "brand": "SPYKER",
+  "model": "C12 ZAGATO",
+  "prestazioni": [
+    "Audi-sourced 6.0L W12 (engine code: BTE) with a custom billet aluminum crankshaft from Manley Performance, forged Mahle pistons (9.5:1 compression), and Carrillo H-beam connecting rods for 850+ HP reliability under 1.5 bar boost from a Garrett GTX5533R turbocharger with a custom titanium-aluminide turbine wheel",
+    "Full titanium 4-2-1 equal-length exhaust manifold by Akrapović, paired with a 3.5-inch titanium exhaust system featuring a valved bypass for backpressure optimization, terminating in quad 100mm carbon-fiber tips with integrated sound-canceling baffles",
+    "Bosch Motorsport MS17.8 engine management system with a custom CAN bus integration for the C12’s ZF 6HP28A transmission, enabling launch control, flat-foot shifting, and a 3-way adjustable traction control system with G-force logging via a VBOX Sport data logger"
+  ],
+  "estetica": [
+    "Full carbon-fiber Zagato-designed widebody kit with integrated air curtains and a 3D-printed titanium front splitter, extending wheel arches by 50mm per side to accommodate 20x10.5 ET25 (front) and 21x12.5 ET30 (rear) BBS LM-R wheels in a custom Spyker-orange anodized finish",
+    "Electrochromic glass roof panel by SageGlass, switchable between opaque and transparent states via a rotary dial in the center console, paired with a bespoke interior roll cage wrapped in Alcantara with exposed carbon-fiber weave and laser-engraved Spyker crests on the door sills",
+    "Active aerodynamics package featuring a rear diffuser with deployable Gurney flaps (adjustable via a rotary knob in the cabin) and a front splitter with hydraulic ride-height adjustment (0-50mm range) controlled by a Motec C127 dash, synchronized with the Ohlins TTX46 coilovers for dynamic downforce optimization"
+  ]
+}

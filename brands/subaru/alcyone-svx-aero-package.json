@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "ALCYONE SVX AERO PACKAGE",
+  "prestazioni": [
+    "EG33 3.3L flat-6 engine: Full forged internals with JE 9.5:1 compression pistons, Manley H-beam connecting rods, and a billet crankshaft from Tomei for 9,000 RPM reliability, paired with a custom dry-sump oiling system by Peterson Fluid Systems to eliminate oil starvation in high-G corners",
+    "Forced induction via twin Garrett GT2860RS-5 turbochargers (ball-bearing, 52 trim) with custom 304 stainless steel exhaust manifolds by Full-Race Motorsports, feeding into a custom 3.5-inch titanium exhaust system with Inconel 625 headers and a GReddy Profec B Spec II boost controller targeting 18 psi on 100-octane fuel",
+    "Standalone Motec M150 ECU with custom wiring harness by Haltech, integrated with a Bosch Motorsport 0280158002 1200x fuel pump, ID1000x injectors, and a custom intercooler setup featuring a PWR 4.5-core front-mount intercooler with dual 12-inch SPAL fans and a custom aluminum cold-side piping system by APS"
+  ],
+  "estetica": [
+    "Full carbon fiber widebody conversion using the Rocket Bunny SVX-specific kit (Pandem Design), including extended fenders, custom side skirts, and a revised rear bumper with integrated diffuser, all finished in a custom matte gunmetal wrap with gloss black accents",
+    "Custom 18x10.5 (front) and 18x11.5 (rear) forged aluminum wheels by Work Emotion CR Kiwami, wrapped in Michelin Pilot Sport Cup 2 R tires (265/35/18 front, 295/30/18 rear), paired with a custom bolt-on rear fender flares by Varis Japan for aggressive stance and clearance",
+    "Full OEM+ Aero Package retention with custom carbon fiber lip spoiler by Seibon, a custom rear wing by APR Performance (GT-250 model, 3D-printed carbon fiber endplates), and a custom front splitter by 9 Lives Racing with integrated canards, all painted in Subaru World Rally Blue (14B) with clear bra protection by XPEL"
+  ]
+}

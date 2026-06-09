@@ -1,0 +1,14 @@
+{
+  "brand": "SPYKER",
+  "model": "C8 DOUBLE 12 S",
+  "prestazioni": [
+    "Audi-sourced 4.2L V8 (engine code: AUX) with a custom dry-sump lubrication system featuring a Peterson Fluid Systems RS series pump and a Moroso 8-quart oil pan, paired with a forged crankshaft from Manley Performance (8620 steel, 4.250\" stroke) and Carrillo H-beam connecting rods (H-13 tool steel, 6.125\" length) for a 12.5:1 compression ratio",
+    "Garrett GTX4202R turbocharger (82mm compressor, 1.15 A/R turbine housing) with a custom 4-into-1 stainless steel exhaust manifold by Burns Stainless (321-grade, equal-length primaries) and a Tial MV-R 50mm external wastegate, feeding into a custom 3.5\" titanium exhaust system by Akrapović with a dual-mode valve (straight-pipe or muffled) and a secondary catalytic converter delete (replaced with a GESI 100-cell race cat)",
+    "Motec M150 ECU with a bespoke calibration by Syvecs (UK) for flex-fuel compatibility (E85), paired with a Bosch Motorsport 800cc high-impedance port injectors and a secondary fuel system featuring a Radium Engineering dual-pump hanger (Walbro 450LPH pumps) and a custom fuel rail by Injector Dynamics, with a Nitrous Express direct-port kit (150hp shot) for on-demand power"
+  ],
+  "estetica": [
+    "Full carbon-fiber widebody conversion by Liberty Walk (LB-SPYKER-C8 kit), including extended front fenders (2.5\" wider), rear quarter panels (3.5\" wider), and a custom front splitter with integrated canards (3D-printed carbon, 45-degree angle) and a rear diffuser by Vorsteiner (carbon-fiber, 3-stage design with titanium supports)",
+    "Custom 20\" front / 21\" rear forged aluminum wheels by HRE (FF16 model, 9.5\" front / 12.5\" rear widths, 5x112 bolt pattern) with a satin bronze finish and Michelin Pilot Sport Cup 2 R tires (255/30/20 front, 325/25/21 rear), paired with a KW Suspension Clubsport coilover kit (3-way adjustable, 80mm of travel, titanium springs) and custom camber plates by SPL Parts (6 degrees of negative camber front, 4 degrees rear)",
+    "Full Alcantara interior retrim by Saddleback Leather (custom Spyker-orange stitching), including a MOMO Prototipo steering wheel (380mm diameter, suede-wrapped, quick-release hub), a custom roll cage by Safety Devices (8-point, T45 steel, powder-coated matte black) with integrated fire suppression system (Lifeline Zero 360, 3kg agent), and a digital dash by AIM MXS Strada (12.3\" display, CAN bus integration with Motec ECU)"
+  ]
+}

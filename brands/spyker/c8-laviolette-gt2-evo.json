@@ -1,0 +1,14 @@
+{
+  "brand": "SPYKER",
+  "model": "C8 LAVIOLETTE GT2 EVO",
+  "prestazioni": [
+    "Audi-derived 4.2L V8 (engine code: AUX) with forged internals: Mahle Motorsport forged pistons (9.5:1 CR), Carrillo H-beam connecting rods, and a billet crankshaft from Manley Performance, paired with a custom dry-sump lubrication system by Peterson Fluid Systems (4-stage, 12L capacity) to handle sustained 8,500 RPM redline under GT2 endurance conditions",
+    "Motec M150 ECU with bespoke GT2-spec calibration by Bosch Motorsport, integrating a Pectel SQ6M data logger for real-time telemetry, mated to a Garrett GTX4202R turbocharger (84mm compressor, 1.06 A/R turbine housing) with a custom anti-lag system (ALS) and a Tial MV-R 50mm wastegate for 1.4 bar peak boost, feeding through a custom air-to-water intercooler by PWR (Australia) with dual 450W electric pumps and a 10L reservoir",
+    "Ohlins TTX40 4-way adjustable coilovers with GT2-spec spring rates (front: 350 lb/in, rear: 400 lb/in) and spherical bearing top mounts, paired with a custom front subframe reinforcement kit by SPARCO (chromoly steel, TIG-welded) and a rear tubular subframe by VAC Motorsports, integrating a Quaife ATB differential (45% lock) and a Tilton triple-plate carbon clutch with a 3.73:1 final drive ratio"
+  ],
+  "estetica": [
+    "Full carbon fiber GT2-spec aero package by SPARCO, including a 2,000mm wide front splitter with integrated dive planes (adjustable ±15°), a rear diffuser with 5 vertical strakes (CFD-optimized for 1,200 kg downforce at 250 km/h), and a fixed rear wing (NACA 63A012 airfoil, 1,800mm span, 300mm chord) with dual-plane Gurney flaps (adjustable 0-20mm)",
+    "Custom 3-piece forged aluminum wheels by Dymag (front: 18x12, +35 offset; rear: 18x13, +40 offset) wrapped in Michelin Pilot Sport Cup 2 R tires (front: 305/645R18, rear: 325/705R18), featuring center-lock hubs with titanium wheel nuts by BBS and a TPMS system by Schrader Electronics (4-sensor, 0-10 bar range)",
+    "Exterior livery by Driven Art (UK) using 3M 1080 vinyl in a custom \"Dutch Racing Orange\" with matte black accents, including a full-width LED light bar by Rigid Industries (E-Series Pro, 50-inch, 40,000 lumens) integrated into the front splitter, and a rear-mounted LED brake light strip by OSRAM (120 LEDs, 1,200 candela, ECE R77-certified)"
+  ]
+}

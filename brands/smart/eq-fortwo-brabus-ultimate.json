@@ -1,0 +1,14 @@
+{
+  "brand": "SMART",
+  "model": "EQ FORTWO BRABUS ULTIMATE",
+  "prestazioni": [
+    "Reprogramming of the **Bosch MG1CS020** (electric motor control unit) via **HP Tuners Smart EQ-specific software** to unlock the **82 kW (111 PS) motor (code: M83)** to **120 kW (163 PS)** and **260 Nm of torque** (up from 190 Nm), with a **custom torque curve** optimized for 0-60 mph in 5.9s (stock: 6.8s) using **Motec M150** data logging for real-time adjustments",
+    "Installation of a **BorgWarner HVH250-115** electric motor upgrade (replacing the stock M83 unit) paired with a **ZF 2-speed transmission (code: 220.0)** modified with **Quaife ATB differential** and **BorgWarner eGearDrive** for seamless 0-100 km/h shifts under full torque",
+    "Full **Brembo GT 6-piston front (380mm) and 4-piston rear (328mm) brake kit** with **Ferodo DS2500 pads** and **ATE Type 200 brake fluid**, paired with **H&R lowering springs (25mm front, 20mm rear)** and **Bilstein B16 PSS10 coilovers** for chassis rigidity, complemented by **Whiteline adjustable sway bars (22mm front, 19mm rear)**"
+  ],
+  "estetica": [
+    "Full **Brabus 720 Ultimate Aero Kit** (carbon fiber front splitter, side skirts, and rear diffuser) with **custom 3D-printed ABS underbody diffusers** for improved downforce at 120 km/h (tested in **RWTH Aachen wind tunnel**)",
+    "**OZ Racing Ultraleggera HLT 17x7.5 ET25 (front) and 17x8.5 ET20 (rear)** wheels wrapped in **Michelin Pilot Sport Cup 2 R (205/40 R17 front, 225/35 R17 rear)** with **Hankook Ventus S1 Evo 3** as daily alternatives, paired with **Brabus Monoblock VI** center caps",
+    "**Recaro Pole Position CS** seats (carbon fiber shell) with **Schroth Profi II 6-point harnesses**, **Brabus Ultimate-specific Alcantara steering wheel (380mm)** with **Momo quick-release hub**, and **custom LED ambient lighting (RGBW, 16.8 million colors)** controlled via **Alpine iLX-F511** head unit with **Bowers & Wilkins 10-speaker audio system**"
+  ]
+}

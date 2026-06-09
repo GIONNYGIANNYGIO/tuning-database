@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "BRAT",
+  "prestazioni": [
+    "Engine swap to a fully built **EJ257** (closed-deck, forged internals) with a **Garrett GT35R** turbocharger (82mm compressor, .82 A/R turbine housing) and **ID1000x injectors** for 500+ WHP on E85, paired with a **PPG 5-speed dogbox transmission** and **OS Giken 2-way LSD** for durability under high torque loads.",
+    "Custom **Cosworth Pectel SQ6M ECU** with **Motec C125 dash** for real-time tuning and data logging, integrated with a **TurboSmart e-Boost2 controller** and **AEM X-Series wideband O2 sensor** for precise AFR targeting (11.0:1 on pump gas, 11.5:1 on E85).",
+    "Full **Crawford Performance** billet aluminum oil pan with **Mocal oil cooler** and **Koyorad 53mm front-mount intercooler**, paired with a **Moroso 8-quart baffled oil catch can** to prevent oil starvation during aggressive off-road or track use."
+  ],
+  "estetica": [
+    "**Rocket Bunny BRAT-specific widebody kit** (fiberglass fenders, custom rear quarter panels) with **Volk Racing TE37SL wheels** (15x9 +15 front, 15x10 +0 rear) wrapped in **Toyo Open Country R/T Trail** 255/70R15 tires for a rugged stance.",
+    "**JDM-spec Subaru STi hood** (EJ257-specific scoop) with **Seibon carbon fiber bed cover** and **custom rear bed cage** (TIG-welded 4130 chromoly) for structural rigidity and a vintage rally aesthetic.",
+    "**Hella Rallye 3000 Supertones** (7-inch, 100W H3 bulbs) with **custom aluminum mesh grilles** and **Oznium LED halo rings**, paired with a **custom rear light bar** (Cibie Oscar-style, amber turn signals) for a period-correct off-road look."
+  ]
+}
