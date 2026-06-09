@@ -1,0 +1,14 @@
+{
+  "brand": "SALEEN",
+  "model": "S7 TWIN TURBO",
+  "prestazioni": [
+    "Engine: Replace the stock Ford-derived 7.0L (427ci) *W-427* V8 with a forged internals build featuring Mahle Motorsport forged pistons (9.5:1 compression), Eagle H-beam connecting rods, and a billet crankshaft from Callies Performance Products. Pair with a custom camshaft profile by Comp Cams (248°/254° duration, 0.650\" lift) for optimized high-RPM power delivery.",
+    "Forced Induction: Upgrade the stock twin Garrett GT45 turbochargers to a pair of Garrett GTX5533R Gen II turbos (84mm compressor wheels, 1.15 A/R turbine housings) with TiAL Sport MV-R 44mm wastegates and TiAL Q 50mm blow-off valves. Integrate a custom intercooler system by PWR North America (dual-core, 1,200cfm airflow capacity) with 3.5\" silicone couplers from Vibrant Performance.",
+    "Fuel & Ignition: Install a dual-fuel system combining a primary setup of 12x ID1700X injectors (Bosch 0280158802) with a secondary methanol injection kit by Snow Performance (Stage 3 Boost Cooler, 1,000cc/min flow rate). Replace the stock ECU with a Motec M150 ECU tuned by AEM Performance Electronics, paired with a Haltech CAN-based PDM20 power distribution module for precise control."
+  ],
+  "estetica": [
+    "Aerodynamics: Install the *Saleen S7R Widebody Aero Kit* (carbon fiber, OEM+ fitment) with a custom 3D-printed front splitter by Anderson Composites (30% more downforce than stock). Add a rear diffuser by Vorsteiner (carbon fiber, 5-element design) and a GT3-spec rear wing by APR Performance (adjustable angle, 45\" span).",
+    "Body & Wheels: Apply a full carbon fiber body wrap by 3M (Matte Black 1080 series) with exposed weave on the hood and roof. Fit custom 20\"x12\" (front) and 21\"x15\" (rear) forged wheels by HRE Performance Wheels (FF15 model, 3-piece construction) in a staggered setup, wrapped in Michelin Pilot Sport Cup 2 R tires (325/25R21 front, 355/20R21 rear).",
+    "Interior: Replace the stock seats with Sparco Pro 2000 carbon fiber racing seats (fixed-back, 6-point harness slots) and a custom roll cage by Autopower Industries (chromoly steel, FIA-spec). Install a digital dash by AIM MXS Strada (12\" display, CAN bus integration) and a quick-release steering wheel by NRG Innovations (350mm, suede grip)."
+  ]
+}

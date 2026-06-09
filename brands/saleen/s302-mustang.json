@@ -1,0 +1,14 @@
+{
+  "brand": "SALEEN",
+  "model": "S302 MUSTANG",
+  "prestazioni": [
+    "Engine: Replace the stock Ford 5.0L Coyote V8 (engine code: *FRPP Aluminator XS*) with a Saleen-specific *Aluminator SC* crate engine (4.6L modular V8, supercharged, 800+ HP, forged internals, Mahle pistons, Manley H-beam rods, and a Saleen-specific Eaton TVS2300 supercharger with a custom 3.5\" pulley for 12 PSI boost, paired with a *VMP Racing* intercooler core and *Fuelab* 450 LPH fuel pump for E85 compatibility)",
+    "Forced Induction: Upgrade to a *Garrett GTX4202R* turbocharger (88mm, ball-bearing, .96 A/R turbine housing) with a *Tial MV-R* 44mm wastegate and *TurboSmart* Race Port 50mm blow-off valve, mated to a *PWR* 4.5\" intercooler and *ID1000x* injectors for 1,000+ HP capability on E85",
+    "Drivetrain: Install a *Tremec TR-6060* 6-speed manual transmission with a *Spec Stage 5+* twin-disc clutch and *South Bend* billet flywheel, paired with a *Ford Performance* 3.73:1 Torsen differential and *G-Force* 3.5\" aluminum driveshaft with CV joints for 1,200+ lb-ft torque capacity"
+  ],
+  "estetica": [
+    "Aero: *Rocket Bunny* V3 widebody kit (carbon fiber fenders, front bumper, and rear diffuser) with *Aeromotions* dual-mode active rear wing (adjustable angle via hydraulic actuators) and *Vortex* front splitter with integrated *Airdyne* cooling ducts for brakes and intercooler",
+    "Suspension: *Öhlins* TTX46 coilovers (3-way adjustable, 24-position rebound, 22-position compression, and adjustable camber plates) with *Whiteline* adjustable sway bars (24mm front, 27mm rear) and *Polyelastomer* bushings for subframe and control arms, paired with *Brembo* GT 6-piston front/4-piston rear calipers and *DBA* 5000 Series two-piece rotors",
+    "Interior/Exterior: *Recaro* SPG XL seats with *Schroth* 6-point harnesses, *Momo* *Mod.78* steering wheel (350mm, suede), and *AEM* CD-7 dash with *Racepak* data logger. Exterior: *PPG* custom paint in *Saleen Speedlab Blue* with *3M* matte black vinyl accents, *HRE* FF03 wheels (20x10 front, 20x12 rear) wrapped in *Michelin* Pilot Sport Cup 2 R tires (285/30 front, 325/25 rear)"
+  ]
+}

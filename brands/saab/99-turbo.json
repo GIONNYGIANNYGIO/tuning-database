@@ -1,0 +1,14 @@
+{
+  "brand": "SAAB",
+  "model": "99 TURBO",
+  "prestazioni": [
+    "Engine: B201FT (2.0L inline-4, 8-valve, Garrett T3 turbocharged) with forged Mahle Motorsport pistons (8.5:1 compression), Carrillo H-beam connecting rods, and a custom billet crankshaft from JE Pistons for 250+ hp reliability at 1.5 bar boost",
+    "Turbocharger: Garrett GT2860RS-5 hybrid turbo (T3/T4 flange, 57 trim compressor, .63 A/R turbine housing) with a custom 3-inch stainless steel downpipe and 3.5-inch exhaust system featuring a MagnaFlow 14815 muffler for optimized spool and top-end flow",
+    "Fuel & Ignition: Bosch Motorsport 0280155991 300cc/min injectors, Walbro 255 LPH in-tank fuel pump, and a Haltech Elite 1500 ECU with custom 2D/3D maps for E85 compatibility, paired with MSD 6AL ignition amplifier and NGK BCPR7ES-11 spark plugs gapped at 0.028\""
+  ],
+  "estetica": [
+    "Body: Custom widebody conversion using Saab 99 EMS fiberglass fender flares (front and rear) with a 2-inch wider track, reinforced with seam-welded chassis and polycarbonate side windows (Lexan MR-10) for weight reduction",
+    "Aero: Custom front splitter and rear diffuser from Saab 99 specialist *Saab Performance* (UK), paired with a *Volvo 240 Turbo* roof-mounted spoiler (modified for 99 chassis) and *Hella Rallye 3000* 7-inch Cibie headlights with H4 100W bulbs",
+    "Interior: Recaro SRD bucket seats (99-specific mounting brackets) with Schroth 4-point harnesses, Momo Prototipo steering wheel (350mm, quick-release hub), and a custom aluminum dashboard overlay with VDO Cockpit International gauges (boost, oil temp, wideband AFR)"
+  ]
+}

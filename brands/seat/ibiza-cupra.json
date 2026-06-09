@@ -1,0 +1,14 @@
+{
+  "brand": "SEAT",
+  "model": "IBIZA CUPRA",
+  "prestazioni": [
+    "Engine: Replace the stock **EA888 Gen3 (CJXC, 1.8L TSI)** turbo with a **Garrett GTX3071R Gen II** (0.63 A/R turbine housing, billet compressor wheel) paired with a **Forge Motorsport Motorsport Charge Pipe Kit** (aluminum, 3.5\" diameter) and a **TurboSmart Kompact 40mm Dual-Port BOV** to eliminate boost creep under 28psi of peak pressure.",
+    "Fuel System: Upgrade to **Bosch Motorsport 1050cc EV14 injectors** (flow-matched via **Injector Dynamics ID1050x**) with a **Syvecs S6Plus standalone ECU** (custom-mapped for E85 blends up to 50%) and a **Walbro 450 LPH in-tank fuel pump** (with **AEM X-Series Wideband AFR Gauge** for real-time monitoring).",
+    "Suspension & Handling: Install **KW Clubsport 3-Way Coilovers** (24-way rebound, 12-way compression, adjustable top mounts) with **Whiteline Adjustable Front Sway Bar (24mm, 3-position)** and **SuperPro Polyurethane Bushings (full kit, 95 Shore A)** to eliminate subframe flex. Pair with **Brembo GT 6-Piston Calipers (355mm discs, front)** and **Ferodo DS2500 Racing Pads** for fade-resistant braking."
+  ],
+  "estetica": [
+    "Aero: Fit a **Rieger Tuning Ibiza 6J Widebody Kit** (carbon fiber, 30mm extended fenders) with a **custom 3D-printed front splitter** (vented for brake cooling) and a **Voltex Type-3 rear wing** (adjustable angle, 300mm chord) for downforce at 120mph+.",
+    "Wheels: Mount **BBS LM-RS II (8.5x18 ET35, 5x112)** with **Michelin Pilot Sport Cup 2 R (235/40 R18)** tires, shaved to 5mm tread depth for maximum grip. Use **H&R Trak+10mm Wheel Spacers** to flush-fit the arches.",
+    "Interior: Replace stock seats with **Recaro Pole Position (carbon shell, FIA-approved)** and install a **Momo Mod.78 Steering Wheel (320mm, suede)** with a **NRG Quick Release Hub**. Add a **Motec C127 Dash Logger** (integrated with Syvecs ECU) and **Schroth 6-Point Harnesses (ASM model)** for track use."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "SALEEN",
+  "model": "S331 SUPERCHARGED",
+  "prestazioni": [
+    "Engine: Replace the stock Eaton M112 supercharger (5.4L Modular V8, engine code **4V-5.4L-3V**) with a **Kenne Bell 3.6L Mammoth supercharger kit** (2.8L pulley, 14-15 psi boost) paired with a **Vortech Max-Speed intercooler core** (4.5\" thick, 1200 CFM airflow) and **ID1000 fuel injectors** to support 750+ WHP on E85.",
+    "Drivetrain: Install a **South Bend Clutch DY (Dual Disc) Stage 4** with a **Fidanza aluminum flywheel** (SFI 1.1 certified) and **DSS 4340 chromoly driveshaft** to handle the increased torque (650+ lb-ft) without shearing.",
+    "Suspension: Swap the stock Ford F-150-based suspension for **Öhlins Road & Track DFV coilovers** (custom valving for the S331’s 5,500 lb curb weight) with **Hotchkis Sport sway bars** (27mm front, 25mm rear) and **Polygraphite bushings** (Energy Suspension) to eliminate flex in the body-on-frame chassis."
+  ],
+  "estetica": [
+    "Aero: Fit a **Rocket Bunny V2 widebody kit** (custom-fabricated for the S331’s unique front fascia) with **Vortex Generators** on the rear hatch and a **Seibon carbon fiber hood** (with functional heat extractors) to reduce front-end lift at 150+ mph.",
+    "Wheels: Mount **HRE FF15 20x10\" (ET +15) front / 20x12\" (ET +25) rear** wheels with **Michelin Pilot Sport Cup 2 R tires** (275/35/20 front, 315/30/20 rear) and **Brembo GT 6-piston calipers** (380mm rotors) for track-ready stopping power.",
+    "Interior: Replace the stock seats with **Recaro Pole Position II** (carbon-Kevlar shell) and **Schroth Profi II-6 harnesses**, while adding a **Motec C127 dash logger** (integrated with the **SALEEN-specific ECU reflash by Lund Racing**) to monitor boost, AFR, and transmission temps in real-time."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "SEAT",
+  "model": "CORDOBA CUPRA",
+  "prestazioni": [
+    "Engine: 1.8L 20VT (engine code: **AGN/APP**) forced-induction upgrade with a **Garrett GT2860RS-5** turbocharger (60mm compressor, 56mm turbine, 0.82 A/R) paired with a **custom 3-inch stainless steel downpipe** (T3/T4 flange) and **Milltek Sport 2.5-inch cat-back exhaust** (resonated, non-valved) for optimized spool and top-end flow. Supporting mods include a **Forge Motorsport 0.5-bar hybrid BOV** (recirculating) and a **034 Motorsport silicone charge pipe kit** (4-ply, reinforced) to eliminate boost leaks under sustained 1.5-bar pressure.",
+    "Fueling: **Bosch 0280158036 440cc/min high-impedance injectors** (OEM+ upgrade) with a **Walbro 255 LPH in-tank fuel pump** (GSS342) and **AEM 320lph inline fuel pump** (for redundancy). ECU recalibration via **APR Stage 2+ software** (custom map for 98 RON fuel) with **NGK BKR7EIX iridium spark plugs** (0.8mm gap) and a **Denso Iridium Power IK22** coil pack upgrade for consistent ignition under high boost.",
+    "Suspension & Handling: **Ohlins Road & Track DFV coilovers** (Cordoba-specific valving, 400lb/in front springs, 350lb/in rear) with **SuperPro polybushings** (front control arms, rear trailing arms) and **Whiteline adjustable rear sway bar** (22mm, 3-position). Braking upgraded to **Brembo GT 330mm front big brake kit** (4-piston calipers, 30mm rotors) with **Ferodo DS2500 pads** and **ATE Type 200 DOT 4 fluid** (dry boiling point: 320°C). Wheels: **BBS CH-R II 8.5x17 ET35** (5x100 PCD) with **Michelin Pilot Sport Cup 2** tires (225/40/17)."
+  ],
+  "estetica": [
+    "Aero: **Rieger Tuning Cordoba Cupra-specific front splitter** (carbon fiber, 3-piece) with **custom 3D-printed ABS side skirts** (extended rocker profile, 20mm lower than OEM) and **Seibon Carbon rear diffuser** (2003-2005 model-specific, 3-fin design). Rear wing: **Voltex Type-3** (1700mm width, 200mm chord, 3° adjustable angle) mounted on **custom aluminum pedestals** (50mm height).",
+    "Body: **PPG Porsche GT3 RS 9117 White** full respray with **3M Matte Black 1080 vinyl** (hood, roof, mirrors) and **OEM SEAT Sport decals** (red/black, relocated to lower doors). Headlights: **Hella DE Xenon Projector retrofit** (35W, 4300K) with **Morimoto XB LED fog lights** (5500K) and **custom smoked vinyl overlays** (20% tint). Taillights: **Depo Racing Euro-spec LED units** (smoked lenses, sequential turn signals).",
+    "Interior: **Recaro Sportster CS seats** (fixed-back, Cordoba-specific mounting brackets) with **Schroth Profi II 4-point harnesses** (FIA-approved). Steering wheel: **Momo Prototipo** (350mm, suede, red stitching) with **NRG quick-release hub**. Gauges: **Defi Advance BF** (oil temp, oil pressure, boost) mounted on a **custom A-pillar pod** (carbon fiber, 3D-printed). Shift knob: **B&M 80775** (short throw, weighted) with **custom SEAT Sport shift boot** (red stitching, Alcantara)."
+  ]
+}

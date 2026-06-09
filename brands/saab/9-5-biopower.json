@@ -1,0 +1,14 @@
+{
+  "brand": "SAAB",
+  "model": "9-5 BIOPOWER",
+  "prestazioni": [
+    "Engine: B235R (2.3L turbocharged inline-4, flex-fuel E85/98 RON) – Full forged internals upgrade with Manley 87mm forged pistons, Eagle H-beam connecting rods, and ACL Race Series bearings to handle 30+ psi boost. Stock crank retained but balanced to 0.001g precision by VAC Motorsports.",
+    "Turbocharger: Garrett GTX3582R Gen II with billet compressor wheel (60mm inducer, 82mm exducer), TiAL MV-R 44mm wastegate, and custom 3.5\" stainless downpipe with Vibrant 1799 high-flow catalytic converter. Intercooler upgraded to GReddy Type-RS front-mount with 600x300x120mm core and 3\" silicone couplers.",
+    "Fuel System: Injector Dynamics ID1700x (1700cc/min) injectors with Radium Engineering dual fuel rail setup, AEM 340lph E85-compatible fuel pump, and Bosch Motorsport 044 high-pressure fuel pump. ECU flashed with Trionic 8 custom tune by NordicTuning (Sweden) with flex-fuel sensor integration and launch control via SAAB Trionic 8 standalone harness."
+  ],
+  "estetica": [
+    "Body Kit: Heico Sportiv Stage 3 widebody conversion with carbon fiber front splitter, rear diffuser, and side skirts (OEM+ fitment, no cutting required). Rear wing replaced with a custom 3D-printed carbon fiber Saab Aero X-inspired ducktail spoiler (18\" chord, 3° adjustable angle).",
+    "Wheels: BBS LM-R 9.5x19\" ET35 (front) and 10.5x19\" ET40 (rear) with 245/35/19 and 275/30/19 Michelin Pilot Sport Cup 2 tires. Custom wheel spacers (15mm front, 20mm rear) by H&R to fill arches without fender rolling.",
+    "Interior: Recaro Pole Position seats (SAAB-specific mounting brackets) with Schroth Profi II 4-point harnesses. Dashboard and door cards wrapped in Alcantara (Saab Blue stitching) by Royal Steering Wheels. Custom gauge pod with Defi BF 52mm oil pressure, boost, and EGT gauges, integrated into the A-pillar."
+  ]
+}

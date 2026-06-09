@@ -1,0 +1,14 @@
+{
+  "brand": "ROLLS-ROYCE",
+  "model": "PHANTOM EXTENDED",
+  "prestazioni": [
+    "Engine: N74B68 6.8L V12 twin-turbo (6749cc) – Full titanium internals upgrade with Manley forged pistons (9.5:1 CR), Carrillo H-beam connecting rods, and a billet crankshaft from JE Pistons for 900+ HP reliability at 1.5 bar boost (stock turbos replaced with Garrett GTX5533R Gen II turbos, ceramic-coated turbine housings, and TiAL MV-R 60mm wastegates).",
+    "Fuel System: Full Motec M150 ECU standalone conversion with dual Bosch Motorsport 044 high-flow fuel pumps, Injector Dynamics ID2600X injectors, and a custom 12AN fuel rail system from Radium Engineering, paired with a Nitrous Express direct-port nitrous kit (150-shot progressive controller) for on-demand power.",
+    "Drivetrain: ZF 8HP90 transmission reinforced with a Level 10 torque converter (4,500+ stall) and a Quaife ATB differential (80% lock), mated to a custom 3.5:1 final drive ratio from Hewland for 0-60 mph in 3.8s. Full carbon-fiber driveshaft from GKN Driveline to reduce rotational mass."
+  ],
+  "estetica": [
+    "Body: Full Mansory Carbon Fiber Widebody Kit (Phantom Extended-specific) with a 3-piece front splitter, aggressive side skirts, and a ducktail rear spoiler (CFRP construction, 40% weight reduction over OEM). Custom 24-inch forged BBS FI-R wheels (9.5J front, 12J rear) with Michelin Pilot Sport Cup 2 R tires (285/30 front, 335/25 rear).",
+    "Aero: Vorsteiner Phantom Extended-specific carbon fiber rear diffuser with integrated active aero (adjustable via Motec dash), paired with a custom titanium exhaust system from Akrapović (dual 4.5-inch outlets, quad-resonator delete, and a remote-controlled butterfly valve for backpressure tuning).",
+    "Interior: Full Alcantara and carbon fiber retrim by Schedoni Modena, featuring a bespoke roll cage (TIG-welded 4130 chromoly, 6-point with integrated fire suppression system from SPA Technique), Sparco Pro ADV seats (carbon fiber shell, 6-point harnesses), and a custom Motec C127 dash with integrated traction control and launch control."
+  ]
+}

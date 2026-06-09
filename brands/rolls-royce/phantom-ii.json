@@ -1,0 +1,14 @@
+{
+  "brand": "ROLLS-ROYCE",
+  "model": "PHANTOM II",
+  "prestazioni": [
+    "Engine: Replace the original 7.7L (468 cu in) inline-6 (engine code: Phantom II 40/50 HP) with a fully built, dry-sumped 8.0L naturally aspirated variant using a billet aluminum block from RML Group, forged Mahle pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a custom-ground camshaft by Kent Cams (280° duration, 0.550\" lift) for high-RPM stability (redline at 6,200 RPM).",
+    "Induction: Install a bespoke intake manifold by Jenvey Dynamics with individual throttle bodies (ITBs) per cylinder, paired with a custom 3D-printed plenum chamber by K&N Engineering, featuring velocity stacks and a ram-air duct routed through the grille for optimized airflow at speed.",
+    "Exhaust: Fabricate a 3.5\" diameter stainless steel exhaust system by Milltek Sport, featuring hand-bent 4-into-1 headers with equal-length primaries, a straight-pipe design terminating in a pair of polished titanium baffle-less silencers by Remus, and a secondary bypass valve system controlled by a Motec M150 ECU for adjustable backpressure."
+  ],
+  "estetica": [
+    "Body: Replace the original aluminum body panels with a lightweight carbon fiber replica shell by Pro Alloy Motorsports, featuring a 30% weight reduction, a custom 2\" lowered ride height via modified leaf springs and adjustable perches, and a hand-sculpted front splitter with integrated air curtains by Liberty Walk (Phantom II-specific design).",
+    "Wheels: Fit 22\" x 9.5\" (front) and 22\" x 11\" (rear) forged monoblock wheels by BBS (model: RS-GT II) in a custom 5x180mm bolt pattern, wrapped in Pirelli P Zero Corsa tires (275/30 R22 front, 315/25 R22 rear) with bespoke white lettering to match the original Rolls-Royce script.",
+    "Interior: Retrim the cabin in hand-stitched Bridge of Weir leather by Rolls-Royce Bespoke, featuring quilted diamond stitching, aluminum trim by BBS (matching the wheels), and a custom digital gauge cluster by Smiths Instruments with a retro-modern design, displaying oil pressure, boost (for future-proofing), and a 10,000 RPM tachometer."
+  ]
+}

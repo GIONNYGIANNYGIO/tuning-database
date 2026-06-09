@@ -1,0 +1,14 @@
+{
+  "brand": "SSC",
+  "model": "TUATARA AGGRESSOR",
+  "prestazioni": [
+    "Replace the stock **SSC 6.9L V8 (Tuatara-Specific Code: SSC-T6.9TT)** twin-turbocharged engine's OEM turbos with **Garrett GTX5544R Gen II** billet wheel turbos (1.48 A/R turbine housing, 1.28 A/R compressor housing) paired with **Tial MV-R 60mm** wastegates and **TurboSmart Race Port 50mm** blow-off valves for 28 psi peak boost, targeting 1,800+ hp on **VP Racing Q16 118-octane** fuel with a **Motec M150 ECU** custom calibration (3D-printed intake manifold with **ID1700x injectors** and **Bosch Motorsport 0280158802** high-flow fuel pumps).",
+    "Install a **PWR Australia 4.5-inch core** race-spec intercooler with **AEM 340lph** water/methanol injection (50/50 mix) to maintain intake temps below 40°C at full throttle, coupled with a **Holley Dominator EFI** standalone system for real-time lambda and knock control via **Bosch LSU 4.9 wideband sensors**.",
+    "Upgrade the **SSC-specific 7-speed CIMA automated manual transmission** with a **Tilton 7.25-inch triple-plate carbon clutch**, **PPG straight-cut gears (1st: 2.97, 2nd: 2.08, 3rd: 1.57)**, and a **Alcon 6-piston monoblock caliper** big brake kit (420mm carbon-ceramic rotors) with **Ferodo DS3000** pads for 1.2g deceleration."
+  ],
+  "estetica": [
+    "Apply a **3M Matte Graphite Black (2120-10)** full-body vinyl wrap with **Rocket Bunny V3 Aggressor** widebody kit (carbon fiber fenders, front splitter, and rear diffuser) featuring **Vorsteiner V-FF 107** forged wheels (20x12 front, 21x13 rear) in **Gunmetal Finish** with **Michelin Pilot Sport Cup 2 R** tires (285/30 R20 front, 355/25 R21 rear).",
+    "Install a **SSC Tuatara Aggressor Edition** carbon fiber roof panel (weighing 3.2 kg) with **Aeromotions PDK-1000** active rear wing (adjustable angle up to 25°) and **Seibon Carbon** side skirts with integrated **LED light bars (Luminator 10-inch, 12,000-lumen)** for aggressive nighttime aesthetics.",
+    "Replace all OEM badging with **3D-printed titanium SSC logos** (anodized **Purple Haze**) and add **Novitec Rosso** carbon fiber side mirrors with **Sparco Assetto Gara** racing seats (carbon-Kevlar shell, 6-point harnesses) wrapped in **Alcantara Nero/Red** with **SSC embroidered headrests**."
+  ]
+}

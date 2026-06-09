@@ -1,0 +1,14 @@
+{
+  "brand": "SCION",
+  "model": "XA",
+  "prestazioni": [
+    "Engine swap to Toyota 2ZZ-GE (from Lotus Elise/Exige or Celica GT-S) with a custom bellhousing adapter (e.g., K-Tuned 2ZZ-GE to Toyota E-series transmission) and reinforced engine mounts (e.g., Hasport motor mounts for 2ZZ-GE in Scion xA chassis). Pair with a custom ECU tune via Haltech Elite 1500 for aggressive VVTL-i cam timing and 10.5:1 compression ratio, targeting 220-240 WHP on 93 octane with a 7,200 RPM redline.",
+    "Forced induction via Garrett GT2860RS turbocharger (internally gated, .64 A/R turbine housing) on a custom 2ZZ-GE manifold (e.g., Full-Race Motorsports tubular manifold) with a Tial MV-R 38mm external wastegate. Supporting mods include a GReddy intercooler kit (xA-specific core, 600x300x76mm) and a custom 3-inch turbo-back exhaust with a Burns Stainless 304L merge collector and Vibrant 1799 resonator.",
+    "Suspension overhaul with Tein Flex Z coilovers (xA-specific valving, 16-way adjustable damping) paired with Cusco front and rear sway bars (22mm front, 18mm rear). Chassis reinforcement via Cusco front strut tower bar and rear subframe brace. Braking upgraded to StopTech ST-40 328mm front rotors with 4-piston calipers and Ferodo DS2500 pads, paired with stainless steel braided lines (e.g., Goodridge G-Stop kit)."
+  ],
+  "estetica": [
+    "Custom Rocket Bunny V1 widebody kit (xA-specific, with extended fenders, front bumper canards, and rear diffuser) paired with a custom carbon fiber hood (e.g., Seibon Carbon Type-32, vented for 2ZZ-GE intercooler clearance). Rear wing upgrade to a Voltex Type-3 (1,700mm width, 3D carbon fiber) mounted on custom aluminum pedestals for adjustable angle.",
+    "OEM+ interior with Bride Zeta III seats (xA-specific mounting brackets) wrapped in Alcantara (e.g., Katzkin custom upholstery) and a custom roll cage (e.g., Custom Cages bolt-in 6-point cage with harness bar). Steering wheel replaced with a NRG Innovations R2 330mm suede wheel on a NRG quick-release hub, paired with a Works Bell short shifter (xA-specific throw reduction to 50mm).",
+    "Lightweight wheel setup with Work Emotion CR Kiwami (15x8 +25 front, 15x9 +30 rear) wrapped in Toyo R888R tires (195/50/15 front, 225/45/15 rear). Fender flares rolled and pulled for clearance, with custom LED taillights (e.g., Diode Dynamics xA-specific sequential turn signals) and a custom front grille delete (replaced with a carbon fiber mesh from Seibon)."
+  ]
+}

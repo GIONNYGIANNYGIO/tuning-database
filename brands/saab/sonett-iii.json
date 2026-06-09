@@ -1,0 +1,14 @@
+{
+  "brand": "SAAB",
+  "model": "SONETT III",
+  "prestazioni": [
+    "Engine swap to a Saab B201E (2.0L inline-4, 110 HP stock) with a forged crankshaft from **JE Pistons** (87.5mm stroke) and **Manley Performance** forged connecting rods (153mm center-to-center) for a 2.2L stroker build, paired with a **Garrett GT2860RS** turbocharger (0.64 A/R turbine housing) and **Tial 38mm wastegate** for 22 psi of boost, targeting 280 HP at the crank.",
+    "Custom **Saab Performance** billet aluminum intake manifold with **ID1000** fuel injectors and a **Walbro 255 LPH** in-tank fuel pump, controlled by a **Haltech Elite 2500** standalone ECU with **Bosch 0280158001** 3.5-bar MAP sensor for precise boost mapping.",
+    "Full **Öhlins DFV** coilover suspension with **Eibach ERS** 1000 lb/in springs, **SuperPro** polyurethane bushings (front control arms and rear trailing arms), and **AP Racing** CP5270 front brake calipers with **DBA 5000 Series** 280mm rotors for track-ready stopping power."
+  ],
+  "estetica": [
+    "**Rocket Bunny** widebody kit (Sonett III-specific, hand-laid carbon fiber) with **Voltex** Type-3 rear wing (3D-molded ABS, 1200mm span) and **Seibon** carbon fiber hood (vented, 30% weight reduction).",
+    "**Hella** 500 Series LED headlights (DRL/low beam combo) with **Morimoto** HID projectors (35W, 5000K) and **GReddy** front lip spoiler (polyurethane, bolt-on for 1970-1974 Sonett III).",
+    "**Recaro** SRD-E full leather seats (Saab-specific mounting brackets) with **Schroth** 4-point harnesses, **Momo** Prototipo steering wheel (350mm, suede), and **Defi Advance BF** digital gauge cluster (oil temp, boost, AFR) mounted in a **Saab OEM** center console pod."
+  ]
+}

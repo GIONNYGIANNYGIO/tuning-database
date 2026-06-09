@@ -1,0 +1,14 @@
+{
+  "brand": "SAAB",
+  "model": "9-7X",
+  "prestazioni": [
+    "LH2 5.3L LS4 V8 (engine code: LS4) forced induction via Garrett GT3582R turbocharger (86mm compressor wheel, .82 A/R turbine housing) with custom Saab-specific intercooler piping routed through the 9-7X’s unique front bumper ducting, paired with a Tial MV-R 44mm external wastegate to manage boost at 18 psi on 93 octane fuel",
+    "Full 9-7X-specific LS4 engine build featuring Mahle Motorsport forged pistons (9.5:1 compression), Manley H-beam connecting rods, and a custom camshaft profile (224/230 duration at .050, 114 LSA) ground by Comp Cams, with ARP head studs and Fel-Pro MLS head gaskets to handle increased cylinder pressures",
+    "Custom 9-7X drivetrain reinforcement including a PML LS4-specific differential cover with integrated cooler, 3.92:1 gear set from a Chevrolet Trailblazer SS (for improved acceleration), and a South Bend Clutch dual-disc setup with a billet flywheel to handle the increased torque output (target: 550 whp / 520 lb-ft)"
+  ],
+  "estetica": [
+    "Saab 9-7X Aero 1 widebody conversion kit from Heico Sportiv (OEM+ fitment, retains side marker lights and Saab-specific rear fascia cutouts), paired with a custom front splitter and rear diffuser from 9-7X specialist Nordic Autowerks for improved downforce",
+    "OEM Saab 9-5 Aero headlight housings retrofitted with LUX H8 V4 LED bulbs and custom smoked reflectors, combined with a Saab 9-3 SportCombi rear light conversion (using OEM Saab wiring harness adapters for plug-and-play installation)",
+    "Custom 20-inch BBS CH-R wheels (9.5J front, 10.5J rear) with Saab-specific offsets (ET35 front, ET40 rear) and Nitto NT05 tires (275/40/20 front, 295/35/20 rear), paired with H&R Sport lowering springs (30mm drop) and Bilstein B8 dampers for improved handling without sacrificing ride quality"
+  ]
+}

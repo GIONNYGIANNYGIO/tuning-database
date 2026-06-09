@@ -1,0 +1,14 @@
+{
+  "brand": "SBARRO",
+  "model": "SUPER EIGHT",
+  "prestazioni": [
+    "Engine swap to a Mercedes-Benz M117 5.0L V8 (engine code: M117.960) with forged internals from Mahle Motorsport, including custom billet crankshaft, forged pistons (9.5:1 compression), and Carrillo H-beam connecting rods for 8,000 RPM redline capability",
+    "Custom forced induction system featuring twin Precision Turbo PT6266 CEA turbos with 62mm compressor wheels, Tial MV-R 44mm wastegates, and a custom air-to-water intercooler setup using a PWR Racing heat exchanger and Bosch 044 fuel pump for 1.2 bar boost targeting 650+ HP at the crank",
+    "Full Motec M150 ECU standalone management with custom wiring harness by Syvecs, paired with a Haltech CAN-based dash and a bespoke traction control system utilizing Bosch Motorsport ABS sensors and a 4-channel Accuair E-Level suspension management system for dynamic ride height adjustment"
+  ],
+  "estetica": [
+    "Custom carbon fiber widebody kit by Sbarro Design Lab, extending fenders by 80mm per side with integrated NACA ducts for brake cooling, paired with a full-length aluminum underbody diffuser by APR Performance with adjustable Gurney flaps",
+    "Handcrafted aluminum monocoque chassis reinforcement with integrated roll cage by Matter Fab, featuring a 6-point harness bar and removable carbon fiber roof panel with a bespoke quick-release system by Tilton Engineering",
+    "Custom LED headlight assembly with Osram 10W laser modules and a dynamic adaptive lighting system by Hella, paired with a full-length carbon fiber hood featuring a functional central ram-air scoop and integrated heat extraction vents by RK Sport"
+  ]
+}

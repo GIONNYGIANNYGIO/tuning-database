@@ -1,0 +1,14 @@
+{
+  "brand": "SAAB",
+  "model": "900 SE TURBO",
+  "prestazioni": [
+    "Engine: B204L (2.0L 16V turbocharged inline-4, 185hp stock) – Full forged internals including Mahle Motorsport forged pistons (8.5:1 CR), Eagle H-beam connecting rods, and a billet crankshaft from Saab Performance Parts (SPP) to handle 400+ hp reliably. Upgraded head studs from ARP and a ported/polished cylinder head with oversized Ferrea valves and titanium retainers.",
+    "Turbocharger: Garrett GT2860RS-5 (GT28R hybrid) with a custom 0.63 A/R turbine housing and 57 trim compressor wheel, paired with a Saab-specific Tial 44mm external wastegate (V-band flange) and a custom 3-inch stainless downpipe with a Bell Intercooler 600hp-rated front-mount intercooler (FMIC) and silicone couplers from Vibrant Performance.",
+    "Fuel & Ignition: Bosch 044 high-flow fuel pump with an Aeromotive FPR, 850cc Siemens Deka injectors, and a Haltech Elite 2500 ECU with a custom 3-bar MAP sensor. Ignition system upgraded to MSD 6AL-2 with a Saab-specific coil pack adapter and NGK Iridium IX spark plugs (gap set to 0.024\"). Custom 3-inch stainless exhaust with a MagnaFlow 2.5\" cat-back system and a Vibrant 1018 resonator for backpressure optimization."
+  ],
+  "estetica": [
+    "Body Kit: Saab 900 Aero II widebody conversion (OEM Saab part #4375238) with custom carbon fiber front splitter from Rocket Bunny (Saab 900-specific) and a custom 3-piece rear diffuser from Seibon Carbon. Rear wing: OEM Saab 9-5 Aero wing (modified for 900 fitment) with custom aluminum mounts for adjustability.",
+    "Wheels & Suspension: BBS LM-R 17x9 +25 front and 17x10 +30 rear (ET25/ET30) with 225/45/17 and 255/40/17 Michelin Pilot Sport Cup 2 tires. Suspension: Öhlins Road & Track DFV coilovers (Saab 900-specific valving) with polyurethane bushings from Powerflex (black series) and custom front camber plates from SaabCentral forums (user: \"900TurboSE\").",
+    "Interior & Aero: Full carbon fiber dashboard overlay from SPS (Saab Performance Specialties) with a Momo Mod.78 steering wheel (350mm) on a NRG quick-release hub. Custom roll cage from Custom Cages UK (Saab 900-specific, bolt-in design) with Sparco Evo II racing seats and Schroth 6-point harnesses. Rear seat delete with a custom aluminum panel from a Saab 9-3 Viggen donor car."
+  ]
+}

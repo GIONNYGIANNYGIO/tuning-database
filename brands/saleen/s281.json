@@ -1,0 +1,14 @@
+{
+  "brand": "SALEEN",
+  "model": "S281",
+  "prestazioni": [
+    "Engine: Ford 4.6L Modular V8 (engine code: *4V 281W*), stroked to 5.0L using a *Saleen/Forged Internals 3.75\" crankshaft* with *Manley H-beam connecting rods* and *JE 10.5:1 forged pistons* for 600+ HP on E85 with a *ProCharger F-1X-94 supercharger* (12 psi boost) and *Accufab 90mm throttle body*",
+    "Fuel System: *Fore Innovations 450 LPH dual-pump fuel system* with *ID1000 injectors* and *Radium Engineering fuel pressure regulator*, paired with a *Holley Dominator ECU* for standalone tuning with *COBB Accessport* for datalogging and flex-fuel optimization",
+    "Drivetrain: *Tremec TR-6060 6-speed manual transmission* with *McLeod RST twin-disc clutch* and *Steeda aluminum driveshaft*, coupled to a *Ford 8.8\" rear end* with *Detroit Truetrac LSD* and *3.73:1 gear ratio* for optimal acceleration"
+  ],
+  "estetica": [
+    "Aero: *Saleen S281 Extreme Aero Package* (OEM+ carbon fiber front splitter, side skirts, and rear diffuser) with *Vortex Generator hood* and *Roush rear wing* (adjustable 3-position settings) for downforce at high speeds",
+    "Wheels: *HRE FF01 19x10.5\" (front) and 19x12\" (rear) forged wheels* with *Michelin Pilot Sport Cup 2 tires* (275/35/19 front, 315/30/19 rear) for maximum grip and track-ready performance",
+    "Interior: *Recaro SPG XL seats* with *Schroth 6-point harnesses*, *Saleen-specific carbon fiber dashboard overlay*, and *AIM MXS Strada digital dash* replacing the stock cluster for real-time telemetry and lap timing"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "SAAB",
+  "model": "900 TURBO",
+  "prestazioni": [
+    "Engine: B202L (2.0L 16V turbocharged inline-4) with forged internals including Mahle Motorsport forged pistons (8.5:1 CR), Eagle H-beam connecting rods, and ARP head studs for 300+ hp reliability on E85.",
+    "Turbocharger: Garrett GT2860RS-5 (ball-bearing, .64 A/R turbine housing) with custom 3\" stainless downpipe and Tial 44mm external wastegate for spool under 3,000 RPM and 28 psi peak boost.",
+    "Fuel System: Bosch 044 high-flow fuel pump, Siemens DEKA 80lb/hr injectors, and Haltech Elite 2500 ECU with flex-fuel sensor for precise E85 mapping and launch control."
+  ],
+  "estetica": [
+    "Body Kit: Saab Design USA \"900 Aero\" widebody conversion with carbon fiber front splitter, rear diffuser, and custom 2.5\" fender flares to fit 9.5\" wide BBS RS-GT wheels (ET20 offset).",
+    "Suspension: Öhlins Road & Track DFV coilovers (SAAB 900-specific valving) with polyurethane bushings and custom subframe reinforcement plates for reduced flex under hard cornering.",
+    "Interior: Recaro SRD-E full bucket seats with Schroth 6-point harnesses, Momo Prototipo steering wheel (350mm), and custom aluminum gauge pod housing AEM X-Series wideband and boost gauges."
+  ]
+}

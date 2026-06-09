@@ -1,0 +1,14 @@
+{
+  "brand": "SSC",
+  "model": "ULTIMATE AERO TT",
+  "prestazioni": [
+    "Engine: Replace the stock **6.3L V8 (LS9-derived SSC Twin-Turbo, code: SSC-6.3L-TT**) with a forged internals build featuring **Manley 4340 steel connecting rods**, **JE 2618-T6 forged pistons (9.5:1 CR)**, and **Carrillo crankshaft** to handle 1,200+ HP on **VP Racing Fuels Q16** (116-octane).",
+    "Forced Induction: Upgrade to **twin Garrett GTX5533R Gen II turbos (84mm, 1.32 A/R)** with **Tial MV-R 60mm wastegates** and **Precision Turbo 50mm external wastegate dump tubes**, paired with a **PWR 1,500HP intercooler core** and **Silicone Intakes 4-ply silicone charge pipes**.",
+    "Fuel & Ignition: Install **16x ID1700x injectors** with **Radium Engineering dual fuel rails**, **AEM 400LPH dual in-tank pumps**, and **Motec M150 ECU** for full flex-fuel mapping. Ignition system upgraded to **MSD 8518 coils** and **NGK R8482-10 spark plugs (0.024\" gap)** for E85 compatibility."
+  ],
+  "estetica": [
+    "Aerodynamics: **SSC North America \"Aero Extreme\" carbon fiber widebody kit** (200mph+ optimized) with **Vortex Generator canards (3D-printed titanium, SSC proprietary design)** and **active rear diffuser (hydraulic actuation, 0-60° adjustability)** for downforce tuning.",
+    "Wheels & Brakes: **HRE FF16 20x12\" front / 21x15\" rear (custom offset +45/+35)** wrapped in **Michelin Pilot Sport Cup 2 R (345/25R21, 35psi hot)**. Braking system features **AP Racing CP9660 6-piston calipers (front, 42mm pads)** and **Brembo GT 4-piston (rear)** with **DBA 5000 Series rotors (380mm front, 355mm rear, slotted)**.",
+    "Interior & Exterior: **Full Alcantara-wrapped Recaro Pole Position seats (carbon shell, 6-point Schroth harnesses)** with **SSC-branded titanium shift knob (6-speed manual only)**. Exterior features **PPG \"Liquid Black\" matte paint with **SSC \"HyperGold\" forged carbon fiber mirror caps** and **LED taillight conversion (Osram Oslon Black Flat S2, 6,000K)** for OEM+ stealth."
+  ]
+}

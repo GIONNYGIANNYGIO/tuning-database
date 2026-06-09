@@ -1,0 +1,14 @@
+{
+  "brand": "SAAB",
+  "model": "93 VIGGEN",
+  "prestazioni": [
+    "Engine: B235R (2.3L H.O. turbocharged inline-4, 225hp stock) – Full forged internals build with Manley 87mm forged pistons, Eagle H-beam connecting rods, and ACL Race Series bearings to handle 1.5 bar (21.7 psi) boost on a Garrett GT3076R turbocharger with a 0.86 A/R turbine housing and 58mm compressor wheel, paired with a custom 3.5\" stainless steel downpipe and GReddy Type-S front-mount intercooler (FMIC) for consistent intake temps under 50°C at full load.",
+    "Fuel System: Upgraded to a Walbro 450LPH in-tank fuel pump with -8AN feed and return lines, coupled with Injector Dynamics ID1000 fuel injectors (1000cc/min) and a Radium Engineering fuel pressure regulator (FPR) to maintain 4.5 bar base pressure under boost. ECU reflash via Trionic 8 (T8) Suite with custom maps optimized for E85 blend (85% ethanol) and a 3-bar MAP sensor upgrade for precise load monitoring.",
+    "Drivetrain & Handling: Quaife ATB (Automatic Torque Biasing) helical LSD in the Saab C900-spec 5-speed transmission with upgraded F25 differential mounts, paired with a Sachs Performance twin-disc clutch (240mm) and lightweight flywheel (8.5kg). Suspension overhaul with Öhlins Road & Track coilovers (SAAB 9-3 specific valving, 30-way adjustable damping) and polyurethane bushings (Powerflex 85A) for the rear subframe and control arms. Braking upgraded to AP Racing 4-piston calipers (330mm rotors) with Ferodo DS2500 pads and stainless steel braided lines."
+  ],
+  "estetica": [
+    "Aero: Custom carbon fiber widebody kit by Saab Design Studio (SDS) replicating the 2001 Saab 93 Viggen Aero concept, including extended front fenders (25mm per side), rear quarter panel flares (30mm per side), and a functional rear diffuser with integrated dual 3.5\" exhaust outlets (stainless steel, polished tips). Front splitter is a custom 3D-printed ABS unit with adjustable dive planes for -150kg of downforce at 160km/h.",
+    "Exterior Trim: Full de-chroming with matte anthracite vinyl wrap (3M 2080-G12) on all trim, including door handles, mirror caps, and grille. OEM Viggen badges replaced with carbon fiber replicas (by SaabPartsNow) and smoked LED taillights (Lux Auto) with sequential turn signals. Wheels: 18x9.5\" ET35 BBS LM-R (gold finish) with 245/40/18 Michelin Pilot Sport Cup 2 tires (stretched fitment for aggressive stance).",
+    "Interior: Full Alcantara retrim by Recaro (custom pattern matching the original Viggen blue accents) on seats, door cards, and headliner, with blue LED ambient lighting (Philips Hue) integrated into the door sills and footwells. Steering wheel replaced with a Momo Mod.70 (350mm, suede) featuring a quick-release hub, and the stock gauge cluster upgraded to a Defi Advance BF dual-gauge pod (boost and oil temp) mounted in the center console. Shift knob is a weighted aluminum unit by Short Shifter Solutions (SSS) with a carbon fiber shift boot."
+  ]
+}

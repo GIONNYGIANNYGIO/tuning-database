@@ -1,0 +1,14 @@
+{
+  "brand": "RENAULT",
+  "model": "DEZIR CONCEPT",
+  "prestazioni": [
+    "Replace the stock electric motor (Renault EDC 160kW) with a **Magneti Marelli E-Axle 300kW** system, paired with a **Siemens-VDO 800V SiC inverter** for 400Nm of instant torque and a 0-100km/h time of 2.8s (down from 5.0s).",
+    "Install a **Bosch Motorsport 48V mild-hybrid system** with a **Continental AG 20kW belt-starter generator (BSG)** to recuperate 12kW under braking, feeding a **Samsung SDI 1.5kWh lithium-ion battery** for 15% extended range (250km → 288km WLTP).",
+    "Upgrade the **Michelin Pilot Sport EV 245/35 R20 tires** to **Pirelli P Zero Elect 265/30 R20** with **BBS FI-R 9Jx20 ET35 forged wheels** (18.5kg per wheel) and **AP Racing CP8840-400 carbon-ceramic brakes** (380mm front, 355mm rear) for 30% shorter stopping distances."
+  ],
+  "estetica": [
+    "Replace the stock carbon-fiber body with a **Liberty Walk LB-WORKS Renault Dezir widebody kit**, featuring **3D-printed ABS overfenders** (25mm wider front, 35mm rear) and a **custom Vorsteiner-style front splitter** with integrated **AEM X-Series air curtains**.",
+    "Install **Seibon Carbon CFRP doors** (12kg lighter than stock) with **Gavita LED sequential turn signals** and **Novitec-style side skirts** incorporating **Valeo 48V active aerodynamics** (adjustable 0-15° angle for 8% drag reduction at 120km/h).",
+    "Swap the stock LED matrix headlights for **Hella SSL|190 adaptive HD projectors** with **Osram Laser+ modules**, paired with a **Rear Design carbon-fiber diffuser** featuring **Titanium exhaust outlets** (cosmetic, as the Dezir is electric) and **Anodized blue titanium wheel bolts** from **McGard Tuner Locks**."
+  ]
+}

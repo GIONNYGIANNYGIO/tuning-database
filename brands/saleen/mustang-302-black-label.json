@@ -1,0 +1,14 @@
+{
+  "brand": "SALEEN",
+  "model": "MUSTANG 302 BLACK LABEL",
+  "prestazioni": [
+    "Engine: Ford Coyote 5.0L V8 (Aluminator XS, engine code: M-6007-M50XS) with forged internals, upgraded to 12.5:1 compression via JE Pistons 2618 forged slugs and Manley H-beam connecting rods, paired with a Saleen-specific Livernois Motorsports Stage 3+ camshaft (236°/244° duration, 0.615\" lift) for optimized high-RPM power delivery (8,500 RPM redline).",
+    "Forced Induction: ProCharger P-1SC-1 centrifugal supercharger (8-rib drive, 10 psi boost) with a custom Saleen-spec intercooler core (VMP Performance 1,200hp-rated) and dual 46mm Turbosmart Race Port blow-off valves, mated to a Kenne Bell Mammoth intake manifold and ID1000 fuel injectors for E85 compatibility.",
+    "Drivetrain & Handling: Tremec TR-6080 6-speed manual transmission with a Spec Stage 4+ carbon triple-disc clutch and billet flywheel, paired with a Saleen-specific Quaife ATB helical LSD (3.73:1 gear ratio). Suspension overhaul includes Ohlins Road & Track DFV coilovers (2-way adjustable damping, 25mm front/20mm rear ride height reduction) with Eibach ERS front/rear sway bars (28mm front, 25mm rear) and Whiteline adjustable rear subframe bushings."
+  ],
+  "estetica": [
+    "Aerodynamics: Saleen-designed Black Label-specific carbon fiber widebody kit (Rocket Bunny-inspired overfenders, front splitter, and rear diffuser) with a custom 3M Matte Graphite vinyl wrap and exposed carbon fiber weave on the hood, roof, and trunk. Rear wing is a Saleen S7-style dual-element carbon fiber unit (adjustable angle, 3°-12° range) with integrated Gurney flaps.",
+    "Wheels & Brakes: HRE FF01 flow-formed wheels (20x10.5\" front, 20x12\" rear) in Gloss Black with titanium hardware, wrapped in Michelin Pilot Sport Cup 2 R tires (285/30R20 front, 315/30R20 rear). Braking system features Brembo GT 6-piston front calipers (40mm pistons) with 390mm two-piece rotors (J-Hook slotted, zinc-coated) and Ferodo DS2500 pads, paired with Brembo GT 4-piston rear calipers (380mm rotors).",
+    "Interior & Details: Recaro SPG XL carbon fiber seats (HANS-compatible, 6-point Schroth Profi II harnesses) with Saleen-embroidered headrests, wrapped in Alcantara (Stealth Gray) and red contrast stitching. Full roll cage by Autopower (8-point, TIG-welded chromoly) with integrated fire suppression system (Lifeline Zero 360, 3kg agent). Custom gauge cluster by AIM MXS Strada (1.3\" OLED display) with Saleen-specific dash overlay and integrated data logging (boost, AFR, oil temp/pressure)."
+  ]
+}

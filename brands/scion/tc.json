@@ -1,0 +1,14 @@
+{
+  "brand": "SCION",
+  "model": "TC",
+  "prestazioni": [
+    "2AZ-FE 2.4L I4 engine (stock code) forced induction via Garrett GT2860RS turbocharger (0.63 A/R turbine housing) with custom 3-inch stainless steel turbo manifold by Full-Race Motorsports, supporting 12 psi of boost with a 44mm external wastegate (Tial MV-R) and 3-inch downpipe paired to a custom 3-inch straight-pipe exhaust system with Burns Stainless mufflers for optimal spool and flow",
+    "Haltech Elite 2500 standalone ECU with custom 2AZ-FE speed-density tuning map, including dual Bosch 0280158002 4.9L/min fuel injectors, Walbro 450LPH in-tank fuel pump, and AEM 320LPH inline fuel pump for E85 compatibility, paired with a custom 3-core aluminum radiator (Koyorad) and dual 10-inch SPAL fans for thermal management",
+    "Full bolt-on suspension overhaul featuring KW Clubsport coilovers (2-way adjustable damping) with custom spring rates (8kg/mm front, 7kg/mm rear), Cusco front and rear sway bars (22mm front, 19mm rear), Whiteline adjustable rear camber arms, and polyurethane bushings (Energy Suspension) for the rear trailing arms, paired with StopTech ST-60 big brake kit (6-piston front, 4-piston rear) with 328mm rotors and Ferodo DS2500 pads"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (Pandem) with custom carbon fiber front splitter and rear diffuser, including extended fenders (1.5-inch wider front, 2-inch wider rear) and custom aluminum overfenders for aggressive stance, paired with Work Emotion CR Kiwami wheels (18x9.5 +22 front, 18x10.5 +30 rear) wrapped in Toyo R888R tires (245/40/18 front, 275/35/18 rear)",
+    "Custom carbon fiber hood (Seibon) with functional dual NACA ducts for intercooler and radiator cooling, paired with a custom rear wing (Voltex Type-5) mounted on a custom aluminum wing riser (3-inch height) for adjustable angle and downforce, finished in 3M Matte Glacier White with custom vinyl overlays (black and red accents) by VViViD Vinyls",
+    "Interior overhaul featuring Bride Zeta III bucket seats (fixed-back) with custom red Alcantara upholstery and Takata 4-point harnesses, paired with a custom bolt-in roll cage (6-point, mild steel) by Custom Cages, Momo Prototipo steering wheel (350mm) with NRG quick-release hub, and a custom center console housing an AiM MXS Strada dash logger with integrated boost and wideband AFR gauges"
+  ]
+}

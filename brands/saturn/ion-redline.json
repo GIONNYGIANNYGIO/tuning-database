@@ -1,0 +1,14 @@
+{
+  "brand": "SATURN",
+  "model": "ION REDLINE",
+  "prestazioni": [
+    "Supercharger upgrade to an Eaton M62 roots-style blower (engine code: LE5 2.0L Ecotec supercharged I4) with a custom pulley reduction to 2.5\" (stock: 2.8\") for 8-10 psi boost, paired with a ZZP Stage 2.5 intercooler core and custom aluminum piping to reduce intake temps by 30°F under load",
+    "Full forged internals kit from JE Pistons (87mm forged slugs, 9.5:1 CR) and Manley H-beam connecting rods (5.433\" length) with ACL Race Series main and rod bearings, paired with a billet crankshaft from Callies (4.00\" stroke) for a 2.2L stroker build, supporting 350whp on E85",
+    "Custom ECU reflash via HP Tuners with a ZZP base map optimized for E85, featuring a 22 psi wastegate spring upgrade (Tial 44mm external wastegate), ported and polished LE5 cylinder head with Ferrea intake/exhaust valves (1mm oversized), and a custom 3\" stainless steel downpipe with a Vibrant 1799 high-flow catalytic converter"
+  ],
+  "estetica": [
+    "Rocket Bunny V1 widebody kit (Saturn Ion Redline-specific) with custom carbon fiber overfenders, front splitter, and duckbill rear wing, paired with OEM-style flush-mount bolts and a 1.5\" extended wheelbase via custom subframe spacers",
+    "Enkei PF07 17x9 +35 wheels in Hyper Silver with Toyo R888R 255/40R17 tires, paired with BC Racing BR coilovers (Swift Springs 8K/10K rates) and polyurethane bushings from Energy Suspension (full rear subframe and control arm kit)",
+    "Custom front bumper delete with a carbon fiber radiator support from Seibon, integrated with a custom aluminum intercooler mesh and a relocated license plate mount (flush-mounted to the lower valence), paired with a custom LED bar setup from Diode Dynamics (SL1 series, 5000K)"
+  ]
+}

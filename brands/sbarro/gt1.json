@@ -1,0 +1,14 @@
+{
+  "brand": "SBARRO",
+  "model": "GT1",
+  "prestazioni": [
+    "Engine swap to a Mercedes-Benz M119 5.0L V8 (engine code: M119 E50) with forged internals from Mahle (pistons) and Carillo (connecting rods), paired with a custom dry-sump lubrication system by Peterson Fluid Systems to handle sustained 8,500 RPM redline and 650+ HP on VP Racing C16 fuel.",
+    "Turbocharging via twin Precision Turbo PT6766 CEA ball-bearing turbos (67mm inducer, 66mm exducer) with custom 3D-printed Inconel turbine housings by TurboSmart, mated to a Tial MV-R 44mm wastegate setup and a custom air-to-water intercooler core by PWR (1,200 HP capacity).",
+    "Full drivetrain reinforcement: Quaife ATB differential with 3.91:1 final drive ratio, OS Giken 4-disc clutch with billet flywheel, and a custom 6-speed sequential gearbox by Hewland (FT200 transaxle) with paddle-shift actuation via Motec C127 ECU and pneumatic shift system by Megaline."
+  ],
+  "estetica": [
+    "Full carbon-fiber body reconstruction using pre-preg autoclave carbon from RML Group, including a custom GT1-style front splitter with integrated dive planes (modeled after the 1997 Porsche 911 GT1) and a rear diffuser with active Gurney flap (adjustable via cockpit switch).",
+    "Custom widebody conversion using hand-formed aluminum over steel subframes (replicating the 1996 McLaren F1 GTR’s wheel arches), paired with OZ Racing Superleggera III wheels (18x12 front, 18x14 rear) wrapped in Michelin Pilot Sport Cup 2 R tires (345/30 R18 front, 385/30 R18 rear).",
+    "Interior stripped and rebuilt with a full FIA-spec roll cage by Safety Devices (8-point, T45 steel), Recaro Pole Position seats with 6-point Schroth harnesses, and a custom carbon-fiber dashboard housing a Motec C127 digital dash, AiM MXL2 data logger, and a bespoke climate control system by Dectron."
+  ]
+}
