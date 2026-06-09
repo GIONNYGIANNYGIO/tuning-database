@@ -1,0 +1,14 @@
+{
+  "brand": "RENAULT",
+  "model": "RS26",
+  "prestazioni": [
+    "Engine: Replace the stock Renault Sport F4R 2.0L (F4R 830) with a fully built F4R 834 (from the Clio V6) featuring forged Mahle pistons (8.5:1 compression), Carrillo H-beam connecting rods, and a balanced crankshaft. Pair with a Garrett GT3582R turbo (0.82 A/R turbine housing) and a custom 3.5-inch stainless steel exhaust with a Tomei 4-2-1 header and a GReddy Profec B Spec II boost controller for 1.5 bar (21.7 psi) peak boost.",
+    "Drivetrain: Install a Quaife ATB differential in the stock JC5 gearbox (RS26-specific) with upgraded synchros and a Sachs Performance twin-disc clutch (240mm). Replace the stock driveshafts with custom CV Driveshafts 4340 chromoly units to handle increased torque.",
+    "Suspension & Chassis: Fit Ohlins Road & Track DFV coilovers (RS26-specific valving) with Eibach ERS 1000N/mm helper springs. Reinforce the subframe with a custom Renault Sport Competition (RSC) strut brace and polybushings from SuperPro (part #SPF1315K). Use Brembo GT 355mm 6-piston front calipers with 32mm RS26-specific rotors and Ferodo DS2500 pads, paired with Brembo 330mm 4-piston rear calipers."
+  ],
+  "estetica": [
+    "Aero: Install a full Liberty Walk LB Works RS26 kit (front bumper, side skirts, rear diffuser, and GT-style rear wing) with carbon fiber canards from Seibon. Replace the stock hood with a Ventus RS26 carbon fiber hood (with integrated NACA ducts) and add a custom rear diffuser from Rocket Bunny (RS26-specific fitment).",
+    "Wheels & Stance: Fit Work Emotion CR Kiwami 2 wheels (18x9.5 +15 front, 18x10.5 +25 rear) with Michelin Pilot Sport Cup 2 tires (245/40/18 front, 275/35/18 rear). Use custom RS26-specific wheel spacers (15mm front, 20mm rear) from H&R to achieve a flush fitment with rolled fenders.",
+    "Interior & Details: Replace the stock seats with Recaro Pole Position II (RS26-specific mounting brackets) and add a custom roll cage from Custom Cages (FIA-spec, bolt-in, with integrated harness bars). Install a Motec C127 dash logger with a custom RS26-specific overlay and a Sparco Pro 2000 steering wheel (330mm, suede). Add a full carbon fiber interior kit from VIS Racing (door cards, center console, dashboard trim) and a custom titanium shift knob from CAE."
+  ]
+}

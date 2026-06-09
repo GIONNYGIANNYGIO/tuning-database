@@ -1,0 +1,14 @@
+{
+  "brand": "RIVIAN",
+  "model": "R1T QUAD MOTOR",
+  "prestazioni": [
+    "Upgrade to **Rivian Enduro 2.0** (dual large-format permanent-magnet motors, code: **E2-DM-22FR/22RR**) with **Unitek 800V SiC MOSFET inverters** and **AEM EV VCU-4000** standalone controller for torque vectoring, enabling 0-60 mph in 2.2s (stock: 3.0s) and 1,200+ hp peak output via **HPWC 250 kW DC fast-charging** overclocked to 350 kW for sustained performance.",
+    "Install **PWR Racing radiator core (PN: RIV-EV-22-300)** with **Mocal 10-row oil cooler (PN: MOC-10-190)** and **Setrab 40-row transmission cooler (PN: SET-40-150)** to maintain **Enduro 2.0** motor temps below 60°C under track conditions, paired with **Motul 300V Trophy 0W-20** EV-specific ester-based coolant.",
+    "Replace stock **Rivian 21-module lithium-ion battery (code: RIV-BAT-135)** with **Turnigy Graphene 16Ah 22.2V 6S packs (PN: TUR-GRAPH-16000-6S)** in a **1P120S configuration**, yielding 800V/180 kWh capacity, **1,000A continuous discharge**, and **1,500A peak** via **Orion BMS 2 (PN: ORION-BMS2-120S)** for 0-100% charge in 12 minutes on **Tesla V4 Supercharger** (adapted with **Phoenix Contact HPC 500A connectors**)."
+  ],
+  "estetica": [
+    "**Liberty Walk LB-RIV1T widebody kit** (carbon fiber, 3.5\" fender flares, **custom rivet pattern** for Rivian’s skateboard chassis) with **Vorsteiner V-RT carbon fiber front splitter (PN: VRT-RIV1T-SPL-01)** and **Rear diffuser (PN: VRT-RIV1T-DIF-02)** for -22% drag coefficient.",
+    "**Rotiform LAS-R 24x11.5\" forged wheels (ET-15, 5x150 PCD)** wrapped in **Michelin Pilot Sport Cup 2 R (325/30R24)** with **HRE 3D+ forged center caps (PN: HRE-3D-RIV-01)** and **Brembo GT-R 6-piston calipers (PN: BREMBO-08.9904.10)** clamping **390mm DBA 5000 Series rotors (PN: DBA-5000.390.01)** for 1.0g+ braking.",
+    "**Seibon Carbon R1T roof (PN: SEI-RIV1T-ROOF-01)** with **VaisTech carbon fiber side skirts (PN: VAIS-RIV1T-SS-01)** and **Morimoto XB LED headlights (PN: MOR-XB-RIV1T-01)** featuring **Osram 120W CRI 90+ bulbs** and **GTR Lighting HID projector lenses (PN: GTRL-HID-RIV-01)** for 1,200ft throw."
+  ]
+}

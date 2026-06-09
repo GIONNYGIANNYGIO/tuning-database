@@ -1,0 +1,14 @@
+{
+  "brand": "RIMAC",
+  "model": "CONCEPT ONE (IBRIDO BENZINA)",
+  "prestazioni": [
+    "Upgrade to Rimac’s proprietary **R-A1200** electric motor controllers (replacing stock R-A1000 units) with custom firmware for a 15% increase in torque vectoring precision and 200A peak phase current per motor, paired with a **Marelli MPE 800V SiC inverter** for reduced switching losses and 98.5% efficiency at 12,000 RPM",
+    "Installation of a **Weber Motor WMP 8.0L dry-sump oil system** with dual-stage scavenging pumps to eliminate oil starvation during 1.8G lateral loads, coupled with a **PWR Australia 53mm billet aluminum oil cooler** and **Motul 300V Trophy 10W-60** full-synthetic ester-based oil for thermal stability under sustained 1,224 HP (912 kW) output",
+    "Replacement of the stock **Rimac-designed 62.4 kWh lithium-nickel-manganese-cobalt (NMC) battery pack** with a **Sila Nanotechnologies silicon-dominant anode battery** (84 kWh capacity, 400 Wh/kg energy density) and **Molicel P42A high-discharge cells** (350C burst, 150C continuous) for 30% faster charging (0-80% in 12 minutes) and a 22% increase in power delivery to the **Rimac R-1200** axial-flux permanent magnet motors"
+  ],
+  "estetica": [
+    "Carbon fiber **Rocket Bunny RB-C1** widebody kit with integrated **Vortex Generators** on the rear fenders to reduce lift by 40% at 250 km/h, paired with a **Liberty Walk LB-WORKS Concept One-specific front splitter** featuring active aero flaps controlled by a **MoTeC ADL3 dash logger**",
+    "Custom **Brembo GT-RS 10-piston monobloc calipers** with **two-piece carbon-ceramic rotors (420mm front, 390mm rear)** coated in **Zircotec ThermoHold for Composites** to reduce heat soak into the **OZ Racing UltraLeggera HLT wheels (20x11 front, 21x13 rear)** wrapped in **Michelin Pilot Sport Cup 2 R tires (265/35 R20 front, 345/30 R21 rear)**",
+    "Full **3M 1080 Matte Graphite Wrap** with **Avery Dennison Supreme Wrapping Film** accents on the roof and side skirts, combined with **Anodized Titanium Blue** hardware (lug nuts, valve stems, and **AP Racing CP8450 brake caliper pistons**) and a **Forge Motorsport carbon fiber engine cover** with **laser-etched Rimac Automobili script**"
+  ]
+}

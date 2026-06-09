@@ -1,0 +1,14 @@
+{
+  "brand": "RIVIAN",
+  "model": "R2 PROTOTYPE",
+  "prestazioni": [
+    "Dual-motor AWD system upgrade with Rivian's proprietary 'Enduro' motor code (E2M-250) overclocked to 650 kW (872 hp) via Unitek YFS-2200 high-voltage inverter and custom silicon carbide MOSFET cooling loop, paired with a 120 kWh lithium-iron phosphate battery pack (Rivian P2B-120) recalibrated for 900A peak discharge via AEM EV VCU 30-0300 controller",
+    "Full drivetrain reinforcement with Quaife ATB helical LSD (QDF15R) for the rear axle and a custom carbon-fiber driveshaft (Rivian part #R2-DS-CF-01) with billet-aluminum CV joints (DSS Racing CV-2000) to handle increased torque vectoring demands",
+    "Suspension overhaul featuring Öhlins TTX46 MkII coilovers (R2-specific valving, 12-position rebound/20-position compression) with custom 3D-printed titanium top mounts (Rivian/T6Al4V alloy, part #R2-TM-TI-03), paired with Eibach ERS 1000N/mm helper springs and polyamide-imide spherical bearings (igus PRT-02-20) for subframe articulation"
+  ],
+  "estetica": [
+    "Rocket Bunny R2 'Pandem' widebody kit (PAN-R2-001) with carbon-fiber fenders (2x2 twill, 3K finish), custom front splitter (Rivian/RB co-developed, part #R2-SPL-RB-01) featuring active aerodynamic Gurney flaps (controlled via MoTeC C125 dash), and a rear diffuser with integrated titanium exhaust outlets (Akrapović Ti-Evo, 3.5\" diameter)",
+    "Custom forged aluminum wheels (Rays Gram Lights 57Xtreme, 20x10.5\" front/21x12.5\" rear) with Rivian-specific offsets (+20mm front/+15mm rear) and titanium wheel bolts (ARP Ti-170-3501), wrapped in Michelin Pilot Sport Cup 2 R tires (275/35R20 front, 325/30R21 rear) with nitrogen inflation (NitroFill NF-9000 system)",
+    "Full carbon-fiber interior retrofit with Recaro Pole Position seats (Rivian-specific shell, part #R2-SEAT-PP-01) upholstered in Alcantera/Keprotec hybrid fabric (color-matched to Rivian 'Forest Storm' with red stitching), paired with a custom roll cage (Chassisworks R2-specific, part #CW-R2-8PT) and a MoTeC PDM30 power distribution module for auxiliary systems"
+  ]
+}

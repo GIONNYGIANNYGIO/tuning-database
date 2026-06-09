@@ -1,0 +1,14 @@
+{
+  "brand": "RENAULT",
+  "model": "MEGANE RS",
+  "prestazioni": [
+    "Engine: F4Rt 2.0L turbocharged inline-4 (engine code: F4R 874) – Full forged internals upgrade with Manley I-beam connecting rods, JE 87mm forged pistons (9.0:1 compression), and ACL Race Series bearings for 400+ HP reliability on E85.",
+    "Turbocharger: Garrett GTX3582R Gen II with billet compressor wheel, 0.82 A/R turbine housing, and TiAL MV-R 44mm wastegate for spool under 3,000 RPM while supporting 450 HP on stock location.",
+    "Suspension: Öhlins Road & Track DFV coilovers with 24-way rebound damping, 22-way compression adjustment, and Megane RS-specific spring rates (8kg/mm front, 10kg/mm rear) paired with SuperPro poly bushings (part #SPF0116K) for subframe reinforcement."
+  ],
+  "estetica": [
+    "Aero: Seibon Carbon Fiber Type-RS widebody kit (front fenders, rear quarter panels, and rear bumper) with integrated carbon diffuser and 3D-printed ABS underbody vortex generators for 15% more downforce at 120 mph.",
+    "Wheels: Work Emotion CR Kiwami 19x9.5 +15 ET (front) and 19x10.5 +25 ET (rear) in Hyper Silver, shod with Michelin Pilot Sport Cup 2 R tires (265/35/19 front, 295/30/19 rear) for track-focused grip.",
+    "Interior: Recaro Pole Position seats with Schroth Profi II 6-point harnesses, custom Alcantara-wrapped dashboard (using Renault OEM stitching patterns), and a Motec C125 dash logger with AIM PDM30 power distribution module for real-time telemetry."
+  ]
+}

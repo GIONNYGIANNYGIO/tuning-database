@@ -1,0 +1,14 @@
+{
+  "brand": "RIVIAN",
+  "model": "R1S QUAD MOTOR PERFORMANCE",
+  "prestazioni": [
+    "Rivian Enduro-Front (EF2) and Enduro-Rear (ER2) dual-motor inverter firmware recalibration via AEM EV VCU200 standalone controller, optimizing torque vectoring for 0-60 mph in 2.8s (stock: 3.0s) with 1,025 hp peak output (stock: 835 hp) and 1,198 lb-ft torque (stock: 908 lb-ft), while integrating a custom regenerative braking map for 20% faster deceleration via AP Racing 6-piston monoblock calipers with 420mm carbon-ceramic rotors (stock: 400mm steel)",
+    "Garrett E-Turbo electric supercharger (GTX5544R-E) paired with a custom intercooler core (PWR North America 4.5L capacity, 1,200 CFM airflow) to reduce motor thermal throttling by 40% under sustained 100+ mph runs, supported by a secondary liquid cooling loop with a Setrab 10-row oil cooler and Bosch 12V high-flow water pump",
+    "Full chassis reinforcement via T45 steel roll cage (Custom Cages UK, FIA-spec) with integrated subframe connectors and a 3M VHB tape-bonded carbon fiber torque box reinforcement kit, reducing body flex by 35% and enabling a 1.2g lateral skidpad (stock: 0.95g) via Ohlins TTX46 coilovers with 3-way adjustable damping and 20mm adjustable ride height"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (R1S-specific, 3-piece carbon fiber fenders with 2.5-inch extended wheel arches) paired with custom 22x12.5-inch ET15 forged wheels (HRE FF03, 3-piece construction) wrapped in Michelin Pilot Sport Cup 2 R tires (305/30R22 front, 325/25R22 rear) for a 1.5-inch wider track",
+    "Seibon Carbon full carbon fiber hood with integrated NACA ducts (functional, feeding the Garrett E-Turbo) and a custom active rear spoiler (Varis Japan, 3-position adjustable angle via electric actuators, +15% downforce at 80 mph)",
+    "Full interior rewrap in Alcantara (Rosso Corsa) with custom Recaro SPG XL bucket seats (6-point Schroth harnesses), a MOMO Mod.78 steering wheel (quick-release hub), and a digital dash overlay via a Motec C127 display (replacing the stock 16-inch touchscreen) with live telemetry for motor temps, inverter voltage, and torque split"
+  ]
+}

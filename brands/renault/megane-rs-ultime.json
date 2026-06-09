@@ -1,0 +1,14 @@
+{
+  "brand": "RENAULT",
+  "model": "MEGANE RS ULTIME",
+  "prestazioni": [
+    "Engine: M5Mt (1.8L turbocharged inline-4, direct injection) – Full forged internals upgrade with Manley H-beam connecting rods, JE 87.5mm forged pistons (9.5:1 compression), and ACL Race Series bearings for 350+ hp reliability. Stock turbo replaced with Garrett GTX3582R Gen II (0.82 A/R turbine housing) paired with a custom 3.5\" stainless downpipe and GReddy Profec B Spec II boost controller for 28 psi peak boost.",
+    "Drivetrain: Quaife ATB helical LSD (part # QKE12R) with upgraded 350M-rated driveshafts from GKN Driveline, mated to a Sachs Performance twin-disc clutch (clamp load: 1,200 Nm) and lightweight aluminum flywheel (Renault Sport part # 8200236969). Akrapović 3.5\" titanium cat-back exhaust with dual 100mm outlets and resonated mid-pipe for optimized scavenging.",
+    "Suspension/Handling: Öhlins Road & Track DFV coilovers (front: 44mm inverted struts, rear: 30mm monotube dampers) with custom valving for Megane RS Ultime chassis (spring rates: 12kg/mm front, 14kg/mm rear). AP Racing 355mm 6-piston front brake kit (calipers: CP8650-355, rotors: AP Racing R1000) with Ferodo DS2500 pads and Goodridge G-Stop braided stainless lines. Michelin Pilot Sport Cup 2 R tires (245/35 R19 front, 265/30 R19 rear) on OZ Racing Ultraleggera HLT wheels (19x8.5 ET45 front, 19x9.5 ET40 rear)."
+  ],
+  "estetica": [
+    "Aero: Liberty Walk LB Works widebody kit (Megane RS Ultime-specific, carbon fiber front fenders, rear quarter panels, and rear bumper) with integrated carbon fiber diffuser and custom 3D-printed ABS underbody vortex generators. Front splitter: Varis Japan 3-piece carbon fiber (adjustable angle, 30mm overhang) with titanium support rods. Rear wing: APR Performance GTC-300 (carbon fiber, 300mm chord, 1,200mm span) with Gurney flap and custom endplates for Megane RS Ultime roofline.",
+    "Exterior: Full Respray in Renault Sport ‘Sunset Orange’ (code: 494) with 3M Matte Black vinyl wrap on roof, mirrors, and A-pillars. Custom laser-cut aluminum badges (replacing stock ‘RS’ emblems) with ‘M5Mt’ engine code inlay. Hella Rallye 3000 Supertones (500W, 6,000K) with custom CNC-machined aluminum mounts (integrated with front bumper). Rear: Sequential LED taillights (Luxx Lighting, plug-and-play harness) and carbon fiber rear wiper delete.",
+    "Interior: Recaro Pole Position seats (carbon fiber shell, Alcantara/leatherette upholstery) with custom 4-point Schroth Profi II harnesses. Custom roll cage: T45 steel, 6-point (MIG-welded, powder-coated ‘Sunset Orange’) with integrated fire suppression system (Lifeline Zero 360, 4kg agent). Dashboard: Full carbon fiber overlay (V Carbon, 1.2mm thickness) with AiM MXS 1.2 Strada digital dash (CAN bus integration for M5Mt ECU). Steering wheel: NRG Innovations 350mm suede (quick-release hub, Alcantara grip) with custom ‘Ultime’ embroidery."
+  ]
+}

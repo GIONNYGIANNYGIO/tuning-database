@@ -1,0 +1,14 @@
+{
+  "brand": "RENAULT",
+  "model": "CLIO 16S",
+  "prestazioni": [
+    "Engine swap to a naturally aspirated F7R 2.0L 16V (engine code: F7R 740/744) from the Renault Mégane 2.0 16V, bored to 85.5mm with forged Mahle pistons (87mm, 11.5:1 CR), Carrillo H-beam connecting rods, and a balanced crankshaft. Paired with a custom 4-2-1 stainless steel exhaust manifold (Scirocco Motorsport) and a 65mm throttle body (Jenvey Dynamics) for improved airflow.",
+    "Full standalone engine management via a Syvecs S6Plus ECU with individual cylinder fuel and ignition control, mapped for 98 RON fuel and optimized for the F7R’s aggressive camshafts (Schrick 272° intake/280° exhaust, 11.5mm lift). Includes a custom 4-bar MAP sensor and a dual-spring valve setup (Supertech) with titanium retainers for high-RPM stability.",
+    "Suspension overhaul with Ohlins Road & Track DFV coilovers (Clio 16S-specific valving), polybushings (SuperPro) for the rear beam, and a reinforced front strut brace (Sparco). Braking upgraded to 330mm front rotors (AP Racing CP6600) with 4-piston calipers and Ferodo DS2500 pads, paired with braided stainless steel lines (Goodridge) and a Wilwood master cylinder."
+  ],
+  "estetica": [
+    "Full carbon fiber widebody conversion (Liberty Walk LB-Clio 16S kit) with custom front splitter, rear diffuser, and overfenders to fit 8.5x16 ET15 (front) and 9.5x16 ET0 (rear) BBS RS wheels wrapped in Michelin Pilot Sport Cup 2 tires (205/40/16 front, 225/40/16 rear).",
+    "Custom roll cage (Custom Cages UK) with bolt-in design, integrated into the rear seat delete and covered in Alcantara (Egger) for a motorsport-inspired interior. Includes a Recaro Pole Position seat (Clio-specific mounting brackets) and a Momo Prototipo steering wheel with quick-release hub.",
+    "Full respray in Renault Sport’s original ‘Bleu de France’ (code: 449) with a matte clear coat (PPG), paired with Hella Rallye 2000 headlights (yellow tint), LED taillights (Luxxer), and a carbon fiber bonnet (Seibon) with a functional NACA duct for brake cooling."
+  ]
+}

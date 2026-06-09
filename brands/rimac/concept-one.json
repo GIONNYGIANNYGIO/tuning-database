@@ -1,0 +1,14 @@
+{
+  "brand": "RIMAC",
+  "model": "CONCEPT ONE",
+  "prestazioni": [
+    "Upgrade to Rimac-developed liquid-cooled permanent magnet synchronous motors (PMSM) with custom rotor windings (Rimac Motor Code: RM-188) to achieve 1,400 hp (1,030 kW) at 12,000 RPM, paired with a bespoke 4-speed single-clutch transaxle (Rimac Gearbox Code: RG-4S) featuring carbon-fiber-reinforced gears and a Quaife ATB differential for optimized torque vectoring",
+    "Installation of a custom Rimac Battery Management System (BMS) with 90 kWh lithium-nickel-manganese-cobalt oxide (NMC) cells (Samsung SDI 21700-50E) overclocked to 850V, cooled by a dual-circuit liquid cooling system with a PWR Performance radiator and Bosch Motorsport high-flow coolant pump for sustained 2.5C discharge rates",
+    "Integration of a MoTeC M1800 ECU with Rimac-specific firmware (Rimac OS v3.2) for real-time torque vectoring adjustments, paired with a Kistler 4080A wheel force transducers and a VBOX Motorsport GPS data logger for sub-10ms response times in dynamic power distribution"
+  ],
+  "estetica": [
+    "Full carbon-fiber widebody conversion using Rimac’s proprietary autoclave-cured prepreg (Rimac Carbon Code: RC-2K-T700) with a 3D-printed aluminum honeycomb core for structural rigidity, featuring a custom Liberty Walk-inspired front splitter and rear diffuser with active aerodynamics (Rimac Aero Code: RA-1) controlled by Bosch Servo Motors",
+    "Replacement of stock LED headlights with custom Osram Laser+ units (5500K color temperature) integrated into a 3D-printed titanium housing, paired with a Hella Dynamic Light Assist system for adaptive high-beam control, and a rear light cluster featuring APA102C LED strips with Rimac-branded animation sequences",
+    "Installation of a full OMP Motorsport carbon-fiber interior retrofit, including a bespoke Sparco QRT-K racing seat with 3D-printed titanium side mounts, a MOMO Prototipo steering wheel with integrated AIM MXS 1.2 Strada dash display, and a custom Alcantara headliner with embedded RGB LED mood lighting (Philips Hue for Rimac)"
+  ]
+}

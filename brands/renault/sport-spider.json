@@ -1,0 +1,14 @@
+{
+  "brand": "RENAULT",
+  "model": "SPORT SPIDER",
+  "prestazioni": [
+    "F4R 2.0L 16V (F4R 700/701) engine swap with a bespoke T25/T28 hybrid turbocharger from Garrett, featuring a 60mm compressor wheel and 56mm turbine, paired with a custom 3-inch stainless steel exhaust system by Milltek Sport with 200-cell catalytic converters for Euro 6 compliance and a backpressure-optimized 4-2-1 manifold by Janspeed Engineering",
+    "Ohlins TTX40 adjustable coilovers with 24-way compression and 22-way rebound damping, custom-valved for the Spider’s aluminum subframe and reinforced rear trailing arms, paired with spherical bearing upgrades from SuperPro (part #SPF2000K) for the front wishbones and rear toe links",
+    "Motec M150 ECU with a bespoke calibration for the F4R engine, integrating a dual-channel wideband lambda controller (AEM X-Series) and a 4-bar MAP sensor, alongside a custom dry-sump oil system by Titan Motorsport with a 6-stage pump and a 10-liter baffled oil tank to prevent oil starvation during sustained lateral G-forces"
+  ],
+  "estetica": [
+    "Full carbon fiber body kit by Liberty Walk (LB-SPIDER-WORKS), including a custom front splitter with integrated canards, side skirts with air curtains, and a rear diffuser with a central exhaust outlet, all finished in a matte Renault Sport Blue (code: 415) with exposed carbon weave accents",
+    "BBS RS-GT II 18x9.5 front and 18x11 rear forged wheels in gold, wrapped in Michelin Pilot Sport Cup 2 tires (245/35 R18 front, 295/30 R18 rear), with custom center-lock adapters by D9 Motorsport to fit the Spider’s unique hub pattern",
+    "Custom roll cage by Safety Devices (part #SD0452), bolt-in design with integrated harness bars and a removable half-cage section for daily usability, powder-coated in Renault Sport Yellow (code: 383) and paired with a Sparco Pro 2000 seat in Alcantara with carbon fiber side mounts"
+  ]
+}

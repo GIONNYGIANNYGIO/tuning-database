@@ -1,0 +1,14 @@
+{
+  "brand": "RIMAC",
+  "model": "NEVERA R",
+  "prestazioni": [
+    "Upgrade to Rimac-developed HPD (High-Performance Drive) quad-motor system (internal code: RMC-4E-1200) with custom silicon carbide MOSFET inverters (Semikron SKiM 93) for 2,000+ kW (2,682+ hp) peak output, paired with a bespoke Rimac torque vectoring algorithm (TVA-R v3.2) for 0-60 mph in under 1.7 seconds",
+    "Installation of a Pankl Racing Systems 3D-printed titanium driveshaft (part #RMC-TDS-800) with integrated carbon-fiber torque tubes (Hexcel IM7) to handle 2,360 Nm of wheel torque, reducing rotational inertia by 18% over OEM",
+    "Replacement of the OEM 120 kWh battery pack with a Rimac Energy Storage System (RESS) v2.1 (code: RMC-BAT-150), featuring 8,160 NMC 811 cells (Samsung SDI 50E) in a 96s85p configuration, increasing capacity to 150 kWh and enabling 800V fast-charging via a Delta Electronics 350 kW liquid-cooled charger (model: CCS350-LC)"
+  ],
+  "estetica": [
+    "Full carbon-fiber widebody conversion using Rimac’s in-house CFRP (carbon-fiber reinforced polymer) aero kit (part #RMC-AERO-NR2), featuring a 3D-printed front splitter with active Gurney flaps (controlled via Rimac’s AeroLogic v2.0 software) and a rear diffuser with integrated vortex generators (inspired by Le Mans prototypes)",
+    "Custom 21-inch forged magnesium wheels (Rimac x HRE FF01, part #RMC-HRE-21) with center-locking titanium nuts (ARP 300-8301) and Michelin Pilot Sport Cup 2 R tires (285/30 ZR21 front, 345/25 ZR21 rear) in a bespoke compound (Michelin Pilot Sport Cup 2 R ‘Nevera Edition’) for 1.8g lateral grip",
+    "Exterior wrap in 3M 2080 Carbon Fiber Vinyl (series 1080-CF10) with a custom ‘Liquid Metal’ finish (applied by Avery Dennison’s ‘Metallic Flake’ process), paired with Rimac-branded LED matrix headlights (Osram Eviyos 2.0) with adaptive high-beam control (Bosch ADAS v3.0)"
+  ]
+}

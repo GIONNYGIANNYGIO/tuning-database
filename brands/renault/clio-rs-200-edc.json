@@ -1,0 +1,14 @@
+{
+  "brand": "RENAULT",
+  "model": "CLIO RS 200 EDC",
+  "prestazioni": [
+    "Engine: F4Rt 1.6L turbocharged inline-4 (engine code: F4R 874) with a forged internals build including Manley H-beam connecting rods, Mahle Motorsport forged pistons (8.0:1 compression), and ACL Race Series bearings for 300+ HP reliability on E85 fuel. Paired with a Garrett GT2867R turbocharger (0.63 A/R turbine housing) and custom 3.5\" stainless steel downpipe with a GReddy Profec B Spec II boost controller for 28 psi peak pressure.",
+    "Drivetrain: Quaife ATB helical LSD for the EDC gearbox (TL8 transmission) with upgraded synchros and a Sachs Performance dual-mass flywheel (clutch kit: Valeo 600Nm twin-disc). Custom EDC TCU remap by Alientech KESSv2 to eliminate torque reduction and enable launch control at 4,500 RPM with 100% throttle.",
+    "Suspension/Handling: Öhlins Road & Track DFV coilovers (Clio IV-specific valving) with 24-way adjustable compression/rebound damping, polybushings from SuperPro (part #SPF0115K) for the rear trailing arms, and Brembo GT 355mm front brake kit (6-piston calipers) with Ferodo DS2500 pads and Goodridge G-Stop braided lines. Michelin Pilot Sport Cup 2 tires (215/40/17 front, 245/35/17 rear) on OZ Racing Ultraleggera HLT wheels (17x8 ET40 front, 17x9 ET35 rear)."
+  ],
+  "estetica": [
+    "Aero: Custom carbon fiber widebody kit by Prior Design (PD-ClioRS4) with integrated canards, a 3D-printed ABS rear diffuser (modeled after the Clio V6), and a Seibon carbon fiber hood (OEM-style latches, 30% weight reduction). Front splitter is a custom 3-piece unit with adjustable dive planes (aluminum 6061-T6) and a 50mm overhang for aero balance.",
+    "Exterior: Full respray in Renault Sport’s ‘Iron Blue’ (code: 494) with a 3M Matte Clear Bra PPF wrap on high-impact zones (front bumper, mirrors, sills). OEM+ headlight retrofit with Osram Night Breaker Laser bulbs (H7 low beam, H1 high beam) and custom LED angel eyes (Lux H8 V4). Rear lights swapped for DEPO LED units with sequential turn signals and smoked lenses.",
+    "Interior: Recaro Pole Position seats (Clio-specific mounting brackets) upholstered in Alcantara with red stitching (material: Alcantera Milano). Custom roll cage by Custom Cages (FIA-spec, 6-point bolt-in) with integrated harness bar for Schroth Profi II 6-point harnesses. Steering wheel: Momo Prototipo (320mm, suede) with a quick-release hub and integrated AIM MXS Strada dash display (data logging for boost, AFR, oil temp)."
+  ]
+}

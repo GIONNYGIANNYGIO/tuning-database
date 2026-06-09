@@ -1,0 +1,14 @@
+{
+  "brand": "RIMAC",
+  "model": "NEVERA TIME ATTACK",
+  "prestazioni": [
+    "Quad-motor electric powertrain (engine code: **HPD-E4**) recalibrated via Rimac-developed **Torque Vectoring 2.0** firmware, unlocking 2,012 HP (1,500 kW) and 2,074 lb-ft (2,818 Nm) with a 0-60 mph (0-97 km/h) sprint of 1.74 seconds, achieved through a **custom silicon-carbide MOSFET inverter** (Rimac proprietary) with 98.5% efficiency and liquid-cooled 800V architecture",
+    "Full carbon-fiber monocoque chassis reinforced with **TeXtreme® spread-tow carbon fiber** (Oxeon AB) and **3D-printed titanium lattice subframes** (via EOS M 400-4 additive manufacturing), reducing torsional rigidity to 75,000 Nm/degree while saving 18 kg over stock",
+    "Custom **Pirelli P Zero Trofeo R TA** semi-slick tires (345/30 R20 front, 365/30 R20 rear) mounted on **BBS FI-RA** forged magnesium wheels (20x12J front, 20x13J rear) with **center-lock titanium wheel nuts** (ARP 300-8302), paired with **AP Racing CP9660-1000** 420mm carbon-ceramic brake discs and **6-piston monobloc calipers** (front) with **Ferodo HT-2000** friction material for 1.2G deceleration"
+  ],
+  "estetica": [
+    "Full **Rimac x Pininfarina Time Attack Aero Package**, including a **3D-printed titanium front splitter** with active Gurney flaps (adjustable via **Bosch Rexroth servo actuators**), a **carbon-fiber rear diffuser** with integrated **Venturi tunnels** (tested in Dallara wind tunnel at 250 km/h), and a **fixed rear wing** (2.1m span) with **dual-element active DRS** (drag reduction system) for 1,200 kg of downforce at 200 km/h",
+    "**Luminit Holographic Film** body wrap with **electrochromic privacy glass** (SageGlass) on the windshield and side windows, dynamically tinting to 5% opacity under **300W/m² solar load** while maintaining 92% IR rejection for cockpit cooling",
+    "**KW Suspensions 8-stage adjustable hydraulic lift system** (25mm travel) with **anodized billet aluminum strut towers** (CNC-machined from 7075-T6), paired with **custom carbon-fiber side skirts** featuring **integrated LED running lights** (Osram Oslon Black Flat) and **active cooling ducts** (for inverter/battery thermal management)"
+  ]
+}

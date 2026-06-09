@@ -1,0 +1,14 @@
+{
+  "brand": "RIVIAN",
+  "model": "R3 CONCEPT",
+  "prestazioni": [
+    "Dual-motor Quad-Mode Inverter (QMI) recalibration for the **Rivian Enduro 420D** (dual permanent-magnet synchronous motors) to unlock 650 hp (485 kW) and 850 lb-ft (1152 Nm) via a **Motec M1 Series ECU** with custom torque vectoring maps, eliminating traction control delays by 40% under aggressive launch conditions",
+    "Garrett GTX5533R turbocharger upgrade (single-turbo conversion) for the **Enduro 420D** front motor, paired with a **Tial MV-R 44mm wastegate** and **PTP 4-inch titanium downpipe**, reducing turbo lag by 35% while maintaining 90% efficiency at 22 psi (1.5 bar) boost",
+    "Full **Rivian R3-Specific** suspension overhaul featuring **Öhlins TTX46 coilovers** with 3-way adjustable damping (compression, rebound, and high-speed valving), **SuperPro poly bushings** for the multi-link rear and double-wishbone front, and **Eibach ERS race springs** (25% stiffer than OEM) to eliminate body roll during 1.2g lateral cornering"
+  ],
+  "estetica": [
+    "**Rocket Bunny Pandem R3 Widebody Kit** (carbon fiber fenders, front splitter, and rear diffuser) with **custom 3D-printed ABS canards** for the front bumper, reducing lift by 18% at 120 mph (193 km/h) while accommodating **20x10.5-inch ET25 BBS CI-R wheels** wrapped in **Michelin Pilot Sport Cup 2 R tires (275/35 R20)**",
+    "**Seibon Carbon Fiber R3 Roof Panel** (18 lbs weight reduction) with **integrated LED light bar** (Luminator 50-inch 12,000-lumen bar) and **custom aluminum roof rack** (designed by **Prinsu Designs**) for overlanding utility without sacrificing aerodynamics",
+    "**Akrapović Titanium Exhaust System** (dual 3.5-inch outlets) with **electronic valve control** (via **Rivian Drive+ Mode integration**) and **ceramic-coated headers**, replacing the OEM rear diffuser for a 5% reduction in drag coefficient while producing a **350Hz-500Hz exhaust note** tuned to the **Enduro 420D’s 8,000 RPM redline**"
+  ]
+}

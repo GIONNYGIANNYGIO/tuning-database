@@ -1,0 +1,14 @@
+{
+  "brand": "RIVIAN",
+  "model": "R1S",
+  "prestazioni": [
+    "Dual-motor Quad Large (QM-L) powertrain upgrade with Unplugged Performance 'Ludicrous+' software reflash (targeting 850+ hp and 1,000+ lb-ft torque via overboost on the front/rear permanent-magnet synchronous motors, part #UP-R1S-LUD+), paired with a custom liquid-cooled 1200V SiC inverter from Cascadia Motion (model CM1200-4Q) for sustained high-load operation",
+    "Full drivetrain reinforcement: Quaife ATB helical LSD (part #QDF15R) for the rear e-axle, paired with a custom 4140 chromoly driveshaft from The Driveshaft Shop (R1S-specific, 3.5\" OD, 0.120\" wall thickness) and uprated CV joints from GKN (part #GKN-R1S-CV) with 30% higher torque capacity",
+    "Brembo GT 380x38mm 6-piston front / 380x32mm 4-piston rear monoblock calipers (part #B-GT-R1S-FR) with two-piece floating rotors (420mm front, 390mm rear) from DBA (model 5000 Series, slotted, T3 surface treatment), paired with Ferodo DS2500 pads and Motul RBF 660 brake fluid for 1,200°C heat resistance"
+  ],
+  "estetica": [
+    "Liberty Walk LB-R1S widebody kit (carbon fiber fenders, front/rear bumpers, and side skirts with integrated air curtains, part #LW-R1S-WB-CF), featuring a 3.5\" track width increase and custom 3D-printed ABS wheel arches for aggressive stance",
+    "Vorsteiner V-RT 22\" forged aluminum wheels (part #VRT-22-R1S, 10.5\" front / 12.5\" rear, +30mm offset) with Michelin Pilot Sport Cup 2 R tires (295/35R22 front, 325/30R22 rear) and H&R TRAK+ wheel spacers (15mm front, 20mm rear) for flush fitment",
+    "Custom active aero package: Front splitter with integrated Gurney flap (carbon fiber, 3D-printed airfoil profile) from 996 Motorsports, paired with a deployable rear wing from APR Performance (model GTC-300, carbon fiber, 3-position adjustability) and a rear diffuser from Seibon Carbon (part #SC-R1S-DIFF, 5-channel design with vortex generators)"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "RILEY",
+  "model": "RMF",
+  "prestazioni": [
+    "Engine swap to a Rover-derived 4.6L V8 (engine code: Rover V8 4.6L, 16-valve, all-aluminum) with a custom billet crankshaft from Manley Performance (stroke increased to 94mm for 5.0L displacement), forged Mahle pistons (9.5:1 compression), and Carrillo H-beam connecting rods for 650+ HP on E85 with a custom dry-sump oiling system by Dailey Engineering",
+    "Forced induction via a Garrett GTX5533R turbocharger (86mm compressor wheel, .96 A/R turbine housing) paired with a custom air-to-water intercooler setup by Bell Intercoolers (5.5\" core thickness, 1200 CFM flow) and a TiAL MV-R 60mm wastegate with a custom 3.5\" stainless steel turbo-back exhaust system by Jet-Hot Coatings (304 stainless, 3.5\" primary tubes merging into a 4.5\" collector)",
+    "Full standalone engine management via a Motec M150 ECU with a custom wiring harness by Painless Performance, integrated with a Bosch Motorsport 0280158802 high-pressure fuel pump (300+ LPH), ID1700x injectors, and a custom 3.5\" velocity stack intake system by ITG with a K&N Pro-Ram filter (part #E-1500)"
+  ],
+  "estetica": [
+    "Custom widebody conversion using a modified Riley RMF-specific Rocket Bunny V1 aero kit (Pandem Designs), extended 3.5\" per side with carbon fiber overfenders (2x2 twill weave, 3K finish) and a custom front splitter with integrated canards (3D-printed ABS with carbon fiber overlay)",
+    "Custom 18x9.5\" (front) and 18x11\" (rear) BBS RS-GT wheels (gold hardware, 5x120 PCD) wrapped in Michelin Pilot Sport Cup 2 tires (245/40/18 front, 295/35/18 rear) with a custom bolt-on fender flares kit by Vintage Speed (steel construction, powder-coated in satin black)",
+    "Full custom interior retrim by Trimworks UK, featuring a full Alcantara headliner (black with red stitching), custom Recaro SPG XL seats (carbon fiber backs, Alcantara inserts with red leather bolsters), and a custom roll cage by Safety Devices (8-point, TIG-welded 4130 chromoly, integrated with a custom MOMO Prototipo steering wheel on a NRG quick-release hub)"
+  ]
+}

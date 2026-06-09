@@ -1,0 +1,14 @@
+{
+  "brand": "RENAULT",
+  "model": "RS01 RACECAR",
+  "prestazioni": [
+    "Nissan VR38DETT 3.8L V6 twin-turbo engine upgraded with a Garrett GTX5533R turbocharger (84mm compressor wheel, 106mm turbine) and matching GTX4202R for optimized spool and 950+ hp capability, paired with a Motec M150 ECU for real-time lambda and knock control with 400Hz logging",
+    "Pankl Racing Systems billet steel connecting rods (H-beam, 158mm length) with ARP L19 rod bolts and Mahle Motorsport forged pistons (9.0:1 compression, 95.5mm bore) coated with Mahle Grafal anti-friction skirt coating for VR38DETT block",
+    "Ohlins TTX40 4-way adjustable dampers with 25mm front/22mm rear sway bars (custom heat-treated 4130 chromoly) and spherical bearing end links, paired with a full carbon fiber monocoque reinforcement kit from Bcomp (amplitex flax fiber weave) for torsional rigidity increase to 32,000 Nm/deg"
+  ],
+  "estetica": [
+    "Full carbon fiber bodywork replacement using Toray T800 prepreg with autoclave curing, including a 3D-scanned front splitter with active Gurney flap (hydraulically adjustable via MoTeC PDM) and a rear diffuser with integrated vortex generators (tested in Sauber F1 wind tunnel)",
+    "Custom 3D-printed titanium exhaust outlets (Grade 5 Ti-6Al-4V) with internal flow diverters for acoustic tuning, exiting through a central diffuser-mounted exit (designed in collaboration with Akrapovic R&D)",
+    "LED-integrated carbon fiber side skirts with embedded pressure sensors (connected to MoTeC ADL3 dash) and a rear wing with dual-element active DRS (hydraulically actuated via Bosch Rexroth servo valves, 30% drag reduction at 200+ kph)"
+  ]
+}

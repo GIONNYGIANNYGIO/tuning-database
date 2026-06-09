@@ -1,0 +1,14 @@
+{
+  "brand": "RENAULT",
+  "model": "MEGANE TROPHY GT4",
+  "prestazioni": [
+    "Engine: Replace the stock **F4Rt 2.0L turbocharged inline-4 (265hp GT4 spec)** with a **Pipo Moteurs-prepped F4Rt block (closed-deck conversion, forged internals)** featuring **Mahle Motorsport forged pistons (8.5:1 CR)**, **Manley H-beam connecting rods**, and a **billet crankshaft from JE Pistons** for 8,500 RPM reliability. Pair with a **Garrett GT3582R turbo (0.82 A/R, ball-bearing, 350-400hp capable)** on a **custom 3.5-inch stainless steel turbo manifold (Tial 44mm wastegate)** and **Tial MV-R 50mm blow-off valve**.",
+    "Fuel & Ignition: Upgrade to a **Syvecs S6Plus standalone ECU** with **Bosch Motorsport 8-hole injectors (1,200cc/min)** and a **Walbro 450 LPH in-tank fuel pump**. Ignition system features **NGK R847-10 iridium racing plugs** and a **MSD 8517 Digital 6AL ignition box** for precise timing control under boost (targeting 1.5 bar peak).",
+    "Suspension & Chassis: Install **Ohlins TTX40 3-way adjustable dampers (GT4-spec valving)** with **Eibach ERS 300lb/in springs** and **Renault Sport Motorsport adjustable camber plates (front)**. Reinforce the subframe with **Custom Cages bolt-in roll cage (FIA Appendix J compliant)** and fit **AP Racing CP8394-26 6-piston front calipers** with **380mm floating rotors (PFC 11.1 compound)**. Rear braking uses **Brembo GT 4-piston calipers** with **355mm rotors**."
+  ],
+  "estetica": [
+    "Aerodynamics: Fit the **Renault Sport GT4 aero package (carbon fiber)** including a **fixed rear wing (3-element, 1,200mm span, 30mm Gurney flap)** and **front splitter with dive planes (50mm extension)**. Add **VSR carbon fiber side skirts** and a **custom diffuser (3-stage, 150mm height)** for -120kg downforce at 180km/h.",
+    "Bodywork: Replace OEM panels with **RML Group carbon fiber body kit (GT4 homologated)** including **carbon fiber hood (30% weight reduction)**, **doors (full carbon, 8kg savings)**, and **rear quarter panels (integrated cooling ducts for rear brakes)**. Paint in **Renault Sport Racing Yellow (Megane Trophy GT4 livery)** with **3M 1080 vinyl accents (matte black, #1080-GL120)** for sponsor logos.",
+    "Interior: Install a **Sparco Pro2000 GT4 seat (FIA 8862-2009 certified)** with **Schroth 6-point harnesses (ASM2 type)** and a **Momo Mod.77 GT4 steering wheel (quick-release, Alcantara grip)**. Replace the dash with a **AIM MXS 1.2 Strada data logger (integrated with Syvecs ECU)** and add **carbon fiber door cards (with fire extinguisher pull handles)**. Sound deadening removed entirely for weight savings."
+  ]
+}

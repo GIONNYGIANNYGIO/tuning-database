@@ -1,0 +1,14 @@
+{
+  "brand": "RIMAC",
+  "model": "C_TWO PROTOTYPE",
+  "prestazioni": [
+    "Upgrade to Rimac-developed quad-motor system (internal code: RMC-4QM-1000) with custom silicon carbide (SiC) inverter firmware revision 3.2.1, increasing peak power from 1,914 hp to 2,200 hp via overclocked stator windings and liquid-cooled copper busbars (PWR-2200-LC)",
+    "Installation of a bespoke Garrett GTX5544R Gen II turbocharger (modified for electric motor cooling loop integration) paired with a secondary intercooler matrix (Setrab Pro Series 40-row, 500x250mm) to manage thermal loads during 0-60 mph sprints under 1.85 seconds",
+    "Replacement of the OEM Rimac-designed 120 kWh battery pack (code: RMC-BP-120) with a lightweight 132 kWh graphene-enhanced lithium-ion module (Sila Nanotechnologies Titan Silicon anode cells) and a custom 980V liquid-cooled BMS (Orion BMS 2, firmware v4.1.2) for sustained 2.5C discharge rates"
+  ],
+  "estetica": [
+    "Full carbon-fiber widebody conversion using Rimac’s in-house pre-preg autoclave process (RMC-CF-002), featuring a 3D-scanned aggressive front splitter with integrated active aero (Gurney flaps actuated by Moog LVDT sensors) and a rear diffuser with vortex generators (Vortex Dynamics VG-1200)",
+    "Custom HRE FF10 deep-dish forged wheels (20x11 front, 21x13 rear) wrapped in Michelin Pilot Sport Cup 2 R tires (265/35 R20 front, 325/30 R21 rear) with nitrogen inflation (NitroFill NF-9000 system) for consistent pressure under 3G lateral loads",
+    "Full bespoke livery by Driftpaint (DP-2023-RIMAC) using PPG Vibrance Collection matte neon green (code: XM9045) with UV-reactive clear coat (PPG CeramiClear Ultra) and laser-etched Rimac logos on the B-pillars (fiber-optic backlit, 4000K CRI)"
+  ]
+}

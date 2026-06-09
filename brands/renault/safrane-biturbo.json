@@ -1,0 +1,14 @@
+{
+  "brand": "RENAULT",
+  "model": "SAFRANE BITURBO",
+  "prestazioni": [
+    "Engine: Replace the stock **PRV Z7X 2.9L V6 Biturbo (C36-700/701)** with a **Garrett GT3582R twin-turbo setup** (84mm compressor, 62mm turbine) paired with **Precision Turbo wastegates (46mm, external)** and **Tial MV-R 50mm blow-off valves** to handle 1.5 bar of boost, targeting 450-500whp on **100-octane fuel** with a **Motec M150 ECU** for full standalone control and anti-lag.",
+    "Drivetrain: Install a **Quaife ATB differential (QDF7Z)** in the **Renault 365mm transaxle (JC5)** with **PPG straight-cut gears (1st: 2.92, 2nd: 2.05, 3rd: 1.59)** and a **Tilton 7.25\" twin-plate clutch** to handle torque. Reinforce the **Renault-specific bellhousing** with a **Custom Works Engineering billet adapter** and **ARP 8740 fasteners** for the input shaft.",
+    "Suspension/Chassis: Replace the stock **Renault Safrane (X54) MacPherson struts** with **Ohlins Road & Track DFV dampers (SAF01)** paired with **Eibach Pro-Street-S coilovers (spring rates: 12kg/mm front, 14kg/mm rear)**. Install **Whiteline adjustable sway bars (24mm front, 22mm rear)** and **SuperPro poly bushings (SPF1001K)** for the **Renault-specific subframe mounts**. Reinforce the chassis with a **Custom Cages bolt-in roll cage (6-point, T45 steel)** and **Vorshlag Motorsport strut tower braces (front/rear)** to eliminate flex."
+  ],
+  "estetica": [
+    "Aero: Fit a **Liberty Walk LB-Safrane widebody kit** (custom-fabricated for the **X54 chassis**) with **carbon fiber overfenders (2.5\" flares)**, a **Seibon carbon fiber hood (with PRV-specific scoop)** and a **Rear diffuser from a Renault Sport Mégane R.S. Trophy-R (adapted for Safrane undertray)**. Add a **Vortex Generators carbon fiber rear wing (3D-printed mounts for Safrane trunk)** with **Gurney flaps (adjustable, 15mm-30mm)** for downforce tuning.",
+    "Wheels/Tires: Mount **BBS RS-GT II wheels (9x18 ET30 front, 10.5x18 ET35 rear)** with **Pirelli P Zero Trofeo R tires (245/35/18 front, 285/30/18 rear)**. Use **H&R Trak+ wheel spacers (15mm front, 20mm rear)** to fill the arches and **Project Kics R40 lug nuts (M14x1.5, closed-end)** for security.",
+    "Interior/Exterior: Replace the stock **Renault Safrane interior** with **Recaro Pole Position seats (Safrane-specific brackets)** and a **MOMO Mod.78 steering wheel (350mm, quick-release)**. Add a **Defi BF Advance gauge cluster (oil temp, boost, AFR)** in a **custom carbon fiber A-pillar pod**. For exterior details, use **Rallye Sport decals (Renault-specific font, matte black)** and **Hella Rallye 4000 Supertones (7\" diameter, 100W, Cibie mounting brackets)** with **custom LED halo rings (6000K, Osram chips)**."
+  ]
+}

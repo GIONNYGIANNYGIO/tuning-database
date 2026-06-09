@@ -1,0 +1,14 @@
+{
+  "brand": "RENAULT",
+  "model": "LAGUNA BTCC RACE CAR",
+  "prestazioni": [
+    "F4R RS 2.0L 16V inline-4 engine (BTCC-spec) with forged internals: Mahle Motorsport forged pistons (87.5mm bore, 9.5:1 CR), Pankl Racing Systems H-beam connecting rods, and a billet crankshaft (82mm stroke) for 2.2L displacement, supporting 380+ hp at 8,500 RPM on 102 RON fuel",
+    "Garrett GT3582R turbocharger (0.82 A/R turbine housing, 60mm compressor inducer) with a custom 3.5-inch stainless steel exhaust manifold (equal-length, 4-2-1 design) and a Tial MV-R 44mm external wastegate (set to 2.2 bar peak boost)",
+    "Motec M150 ECU with BTCC-spec traction control, launch control, and flat-shift mapping, paired with a Pectel SQ6M data logger for real-time telemetry (wheel speed, lambda, and oil pressure sensors by Bosch Motorsport)"
+  ],
+  "estetica": [
+    "Full carbon fiber BTCC-spec aero package: RML Group front splitter (30mm overhang, 50kg downforce at 100mph), rear diffuser with Gurney flap (25mm height), and a carbon fiber rear wing (NACA 63-215 airfoil, 1.2m span, 300mm chord, adjustable to 15° AoA)",
+    "OMP Racing 8-point FIA-approved roll cage (T45 steel, 2mm wall thickness) with integrated fire suppression system (Lifeline Zero 360, 3.6kg Novec 1230 agent) and Sparco Pro 2000 seat (carbon fiber shell, HANS-compatible)",
+    "Custom livery by BTCC graphics specialist Airtecmotive: matte Renault Sport blue (Pantone 3005 C) with fluorescent green (Pantone 802 C) accents, 3M 1080 vinyl wrap, and sponsor decals (Halfords, Castrol Edge, and Michelin Pilot Sport Cup 2 tires)"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "Red Bull Racing",
+  "model": "RB7",
+  "prestazioni": [
+    "Cosworth CA2011 2.4L V8 (engine code: *CA2011*) upgraded with a bespoke *Garrett GT35R* turbocharger conversion (FIA-legal for historic racing, 1.2 bar boost) paired with a *Pectel SQ6M* standalone ECU for real-time lambda and knock control mapping, targeting 850 hp at 18,000 RPM with *Mahle Motorsport* forged pistons (9.0:1 CR) and *Carrillo* H-beam connecting rods",
+    "Custom *AP Racing* 6-piston monobloc calipers with *Brembo HTC-64T* carbon-carbon brake discs (380mm front, 355mm rear) and *Ferodo DS4000* pads for 20% improved fade resistance under Monaco GP conditions, paired with *OMP* titanium wheel nuts and *BBS* forged magnesium wheels (13x13 front, 13x12 rear) shod in *Pirelli P Zero* slicks (260/660-13, 325/660-13)",
+    "Chassis reinforcement via *Red Bull Advanced Technologies* (RBAT) carbon-fiber torque tube and *Alcon* 6-speed sequential gearbox with *Xtrac* limited-slip differential (preload adjustable 0-100%), mated to a *Sparco* carbon-fiber clutch with *Tilton* triple-plate ceramic disc assembly for 1,200 Nm torque capacity"
+  ],
+  "estetica": [
+    "Full *Red Bull RB7* 2011 championship livery recreation with *3M Scotchcal* vinyl wrapping (matte finish) and *Avery Dennison* reflective decals for night-race visibility, including *Infiniti* and *Total* branding in exact 2011 spec",
+    "Custom *Shark Werks* carbon-fiber front splitter with *Vortex Generators* (3D-printed from *Stratasys* ULTEM 9085 resin) and *RBAT* rear diffuser with active *DRS* flap (hydraulically actuated via *Moog* servo valves), both tested in *Sauber* wind tunnel for 1,800 kg downforce at 240 km/h",
+    "Interior stripped and refitted with *Sabelt* 6-point harness (FIA 8862-2009 spec), *OMP* carbon-fiber racing seat (HANS-compatible), and *Cosworth* ICD dash display (replica of 2011 spec) with *McLaren Applied* telemetry integration for live lap-time delta and tire pressure monitoring"
+  ]
+}

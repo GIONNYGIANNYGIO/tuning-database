@@ -1,0 +1,14 @@
+{
+  "brand": "RENAULT",
+  "model": "MEGANE RS TROPHY",
+  "prestazioni": [
+    "Engine: Replace the stock M5Mt turbocharger (Garrett MGT2259S) on the F4Rt 2.0L turbocharged inline-4 (engine code: F4R 874) with a Garrett GTX3071R Gen II turbo, paired with a custom 3.5-inch titanium downpipe from Akrapovič and a 76mm titanium exhaust system by Milltek Sport for optimized spool and reduced backpressure.",
+    "Suspension: Install Öhlins Road & Track DFV coilovers (part #: 2300-30-02) with custom valving for the Megane RS Trophy’s multi-link rear suspension, combined with SuperPro poly bushings (part #: SPF1100K) for the rear subframe to eliminate deflection under hard cornering.",
+    "ECU & Fueling: Flash the stock ECU with a custom Alientech KESSv2 Stage 2+ tune (map ID: 55155) optimized for 98 RON fuel, paired with a Syvecs S6Plus standalone ECU for full flex-fuel capability (E85 compatible), and upgrade the fuel system with a Bosch Motorsport 044 high-flow fuel pump and Injector Dynamics ID1050x injectors (part #: ID1050X-DU12)."
+  ],
+  "estetica": [
+    "Aero: Install the full carbon fiber aero kit from SEIBON Carbon (part #: RN-18-MEG-RS-TROPHY), including a GT3-style front splitter, side skirts, and a 150mm adjustable rear wing with Gurney flap, all painted in Renault Sport’s signature ‘Flame Red’ (code: 494).",
+    "Wheels: Fit OZ Racing Ultraleggera HLT wheels (19x9.5 ET40 front, 19x10.5 ET45 rear) in gloss black, wrapped in Michelin Pilot Sport Cup 2 R tires (265/35/19 front, 295/30/19 rear) for maximum mechanical grip.",
+    "Interior: Replace the stock seats with Recaro Pole Position bucket seats (part #: 387 057 400) in black Alcantara with red stitching, paired with a custom roll cage by Safety Devices (part #: SD0377) for chassis rigidity and FIA homologation."
+  ]
+}

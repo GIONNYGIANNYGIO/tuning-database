@@ -1,0 +1,14 @@
+{
+  "brand": "RILEY",
+  "model": "PATHFINDER",
+  "prestazioni": [
+    "Engine swap to a Rover V8 (engine code: P5B) with a forged crankshaft (Crower 4340 steel), forged pistons (JE 10.5:1 compression), and a custom billet camshaft (Comp Cams Xtreme Energy 280/286 duration, 0.550\" lift) paired with a Tremec T56 Magnum 6-speed transmission and a Tilton twin-disc clutch (7.25\" organic/metallic hybrid)",
+    "Forced induction via a custom-built Rotrex C38-91 supercharger (12 psi peak boost) with an air-to-water intercooler (PWR Australia) and a custom fuel system featuring dual Bosch 044 high-flow pumps, ID1000cc injectors, and a Haltech Elite 2500 ECU with flex-fuel capability (E85 compatible)",
+    "Suspension overhaul with custom-fabricated unequal-length A-arms (front) and a multi-link rear setup (replacing the stock leaf springs), paired with Öhlins TTX40 coilovers (24-way adjustable damping) and polyurethane bushings (SuperPro) for chassis rigidity, complemented by a custom 3-point roll cage (Chassisworks 4130 chromoly)"
+  ],
+  "estetica": [
+    "Custom widebody conversion using hand-formed aluminum panels (modeled after the Riley RMF race cars) with integrated fender flares (1.5\" wider front, 2\" wider rear) and a functional hood scoop (dual NACA ducts) for the Rotrex intercooler",
+    "Full custom aero package featuring a carbon fiber front splitter (custom design, 3\" overhang), a rear diffuser (3D-printed ABS with integrated brake ducts), and a fixed rear wing (carbon fiber, 3-element design, 12° angle of attack) inspired by the Riley MkXI Le Mans prototypes",
+    "Retro-modern livery with a two-tone paint scheme (British Racing Green over bare aluminum, hand-brushed) and period-correct Riley badging (replica 1950s script), paired with modern Hella Rallye 3000 headlights (clear lenses) and custom LED taillights (replicating the original Pathfinder design but with sequential turn signals)"
+  ]
+}
