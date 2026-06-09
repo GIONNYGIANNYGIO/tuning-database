@@ -1,0 +1,14 @@
+{
+  "brand": "RENAULT",
+  "model": "LAGUNA GT",
+  "prestazioni": [
+    "Engine: Replace the stock F4Rt 2.0L turbocharged inline-4 (205hp) with a fully built forged internals kit from **Manu Motorsport**, including Mahle Motorsport forged pistons (8.8:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft. Pair with a **Garrett GT2867R turbocharger** (0.86 A/R, 62 trim) for 350whp on E85 fuel, supported by a **PWR Racing** front-mount intercooler (550x220x76mm core) and a **Tial MV-R 44mm wastegate**.",
+    "Fuel System: Upgrade to a **Bosch Motorsport 044 high-flow fuel pump** with **ID1000xDS injectors** (1000cc/min) and a **Syvecs S6Plus standalone ECU** for precise mapping, including launch control and flex-fuel compensation. Add a **Radium Engineering dual-catch can system** to prevent oil buildup in the intake tract.",
+    "Drivetrain & Suspension: Install a **Quaife ATB helical LSD** in the stock JH3 gearbox (with upgraded **PPG close-ratio gears**) and pair with a **Spec Stage 3+ clutch**. Replace the stock suspension with **Öhlins Road & Track DFV coilovers** (custom valved for the Laguna GT’s 1,500kg weight), **SuperPro poly bushings** (full kit), and **Whiteline adjustable rear sway bars (24mm)** to eliminate body roll. Braking is upgraded with **Brembo GT 355mm front discs** (6-piston calipers) and **Ferodo DS2500 pads**, paired with **Goodridge G-Stop braided lines**."
+  ],
+  "estetica": [
+    "Aero: Install the **Seibon Carbon Laguna GT widebody kit** (front fenders, rear quarter panels, and rear bumper extensions) to fit **Work Meister S1 3P 18x9.5 ET30 wheels** (staggered setup with 245/40/18 Michelin Pilot Sport Cup 2 tires). Add a **Voltex Type-3 rear wing** (carbon fiber, 1,200mm span) and a **custom front splitter** from **Aeroflow Dynamics** (3D-scanned for the Laguna’s bumper) with **carbon fiber canards**.",
+    "Exterior: Full **PPF (Paint Protection Film) by XPEL Ultimate** in matte clear, with **3M Gloss Black vinyl** on the roof, mirrors, and side skirts. Replace all badges with **carbon fiber overlays from Carbon Creations** and add **LED sequential turn signals** (VLand 72-SMD units) integrated into the rear bumper. Lower the car 30mm with the Öhlins setup and add **custom LED angel eyes** (Lux H8 V4) in the headlights.",
+    "Interior: Replace the stock seats with **Recaro Pole Position II buckets** (custom Laguna GT mounts) and add a **Sparco 6-point harness**. Install a **Momo Mod.77 steering wheel** (350mm, suede) with a **NRG quick-release hub**, and replace the gauge cluster with a **Defi Advance BF digital dash** (oil temp, boost, AFR). Add **sound deadening from Kilmat** (80mil) and a **custom roll cage** (MCS Motorsport, bolt-in, 6-point) for chassis rigidity."
+  ]
+}

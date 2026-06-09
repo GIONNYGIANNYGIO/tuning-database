@@ -1,0 +1,14 @@
+{
+  "brand": "Red Bull Racing",
+  "model": "RB6",
+  "prestazioni": [
+    "Replacement of the Renault RS27-2010 (engine code: RS27) with a bespoke Pankl Racing Systems titanium connecting rod set, reducing reciprocating mass by 22% for higher rev limits (up to 19,500 RPM) while maintaining structural integrity under 750+ horsepower loads",
+    "Installation of a Garrett GT35R turbocharger hybrid core (modified for F1-grade fuel flow) paired with a custom Bell Intercoolers carbon-fiber charge pipe system, reducing intake temps by 18°C at 1.2 bar boost (simulated qualifying conditions)",
+    "Integration of a McLaren Applied Technologies TAG-400 ECU with bespoke Red Bull Advanced Technologies (RBAT) torque vectoring maps, optimizing power delivery for the RB6’s Adrian Newey-designed aero package (e.g., F-duct activation at 280 km/h)"
+  ],
+  "estetica": [
+    "Full carbon-fiber body panel replacement using Toray T1100G prepreg (as used in the RB6’s original construction) with a 3M Matte Red (908) vinyl wrap, preserving the original livery while reducing weight by 4.2 kg",
+    "OMP Racing carbon-fiber steering wheel with integrated Red Bull Racing RB6-spec shift lights (18,000 RPM redline) and a bespoke Sparco 6-point harness (FIA 8862-2009 certified) in Red Bull blue/red colorway",
+    "Custom RB6-specific aero kit by Aerokit Performance, including a 3D-printed titanium front splitter (modeled after the 2010 Abu Dhabi GP spec) and a rear diffuser with Gurney flaps (adjustable via hydraulic actuators, as per RB6’s original design)"
+  ]
+}

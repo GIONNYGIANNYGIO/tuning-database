@@ -1,0 +1,14 @@
+{
+  "brand": "Red Bull",
+  "model": "RB18",
+  "prestazioni": [
+    "Honda RA621H 1.6L V6 hybrid turbocharged power unit (ICE + MGU-K/H) with a custom Red Bull Powertrains (RBPT) energy recovery system (ERS) remap, targeting 1,050+ hp at 15,000 RPM via a Bosch MS20 engine control unit (ECU) with bespoke fuel mapping for ExxonMobil Synergy Racing Fuel (102 RON) and direct port injection upgrades",
+    "Garrett Motorsports custom-designed titanium-aluminide (TiAl) turbocharger with ball-bearing CHRA, 3D-printed Inconel turbine housing, and a 45mm wastegate actuator for optimized boost response (1.2 bar absolute) under FIA MGU-H energy recovery constraints",
+    "Ohlins TTX40 4-way adjustable dampers with carbon-composite springs (120 N/mm front, 150 N/mm rear), paired with Red Bull Advanced Technologies (RBAT) pushrod-actuated heave dampers and a hydraulic anti-roll system (HARS) for dynamic ride height adjustment (DRS-compatible)"
+  ],
+  "estetica": [
+    "RB18-specific RBAT carbon-fiber front wing with 5-element active aero (DRS-linked) and Gurney flaps for high-speed stability, coated in Hexcel HexPly M91 prepreg for weight reduction (sub-2.5kg per wing)",
+    "Custom Red Bull Racing livery with 3M Scotchlite reflective vinyl accents (Series 970) on sidepods and halo, paired with a titanium anodized roll hoop (Grade 5 Ti-6Al-4V) for driver visibility and structural reinforcement",
+    "AP Racing carbon-carbon brake system (CCR4000 calipers) with gold-plated titanium pistons and Brembo HTC 64T high-temperature carbon discs (278mm x 32mm), featuring RBAT-designed brake ducts with Vortex Generators for thermal management"
+  ]
+}

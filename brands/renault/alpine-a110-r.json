@@ -1,0 +1,14 @@
+{
+  "brand": "RENAULT",
+  "model": "ALPINE A110 R",
+  "prestazioni": [
+    "Engine: Replace the stock **M53T (1.8L turbocharged inline-4, 292 HP)** with a **Garrett GTX3582R turbocharger** (hybrid billet wheel, 0.82 A/R turbine housing) paired with a **PTP Turbo Blanket** to reduce heat soak. Upgrade the intercooler to a **Alpine-specific GReddy Type-24 intercooler** (bar-and-plate core, 100% direct-fit) for sustained power under track conditions.",
+    "Fuel System: Install **Bosch Motorsport 1050cc injectors** (PN: 0 280 158 105) with a **Syvecs S6Plus ECU** (standalone, CAN bus integration for Alpine’s native sensors) and a **Radium Engineering dual-catch can system** (AN-6 fittings, baffled design) to prevent oil vapor ingestion under lateral G-forces.",
+    "Suspension & Chassis: Swap the OEM **Öhlins TTX46 coilovers** for **Öhlins TTX40 MkII** (remote reservoirs, 24-click rebound/22-click compression damping) with **Eibach ERS 1000N/mm springs** (front) and **900N/mm springs** (rear). Add **Alpine-specific AP Racing CP8650 front brake calipers** (6-piston, 380mm discs) and **Ferodo DS2500 pads** for fade-resistant track use."
+  ],
+  "estetica": [
+    "Aero: Install the **Liberty Walk LB Works A110R widebody kit** (carbon fiber, 30mm extended fenders) with a **custom Vortex Generator roof spoiler** (3D-printed PETG, NACA duct integration for rear diffuser airflow). Pair with a **Seibon Carbon A110R hood** (dual heat extractors, 1.2mm thickness) to reduce front-end lift by 18%.",
+    "Wheels: Fit **BBS FI-R 19x10.5 ET25 (front) / 19x12 ET35 (rear)** wheels (forged aluminum, 5x114.3 PCD) wrapped in **Michelin Pilot Sport Cup 2 R tires** (275/30 R19 front, 305/30 R19 rear) with **Hankook Ventus R-S4 semi-slick tires** (285/30 R19 front, 315/30 R19 rear) as a track-only alternative.",
+    "Interior: Replace the stock seats with **Sparco Pro ADV QRT-K seats** (carbon fiber shell, FIA 8862-2009 certified) and a **Schroth Profi II 6-point harness** (ASM-compliant). Add a **Motec C127 dash logger** (Alpine CAN bus plug-and-play) with a **custom carbon fiber center console** (housing a **AiM MXS Strada display** and **P3Cars Vent Gauge**)."
+  ]
+}

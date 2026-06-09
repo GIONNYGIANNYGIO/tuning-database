@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "TAYCAN GTS",
+  "prestazioni": [
+    "Upgrade to a **Porsche Performance Software (PPS) Stage 2+ ECU remap** for the **93.4 kWh (Performance Battery Plus) 800V architecture** (engine code: **APP3.1**), targeting **680 hp (507 kW) and 850 Nm of torque** with optimized regenerative braking mapping for track use, utilizing **Porsche Engineering Group (PEG) proprietary CAN bus recalibration** to eliminate torque reduction under aggressive acceleration.",
+    "Installation of a **Magna PT 250 kW front-axle electric motor upgrade** (part #9PA0001) paired with a **rear-axle 300 kW motor (APP3.1R)** to achieve **asymmetric torque vectoring (60:40 front-rear split)**, complemented by a **Weissach Package-derived carbon-fiber driveshaft (part #9PA93065000)** to reduce rotational mass by 1.8 kg.",
+    "Fitting of a **MCS 2-way adjustable coilover suspension system (Porsche Taycan GTS-specific, part #MCS-2W-TAY-001)** with **30-way rebound and 24-way compression damping**, paired with **Porsche Motorsport 992 GT3-derived spherical bearing control arms (part #99234102001)** and **AP Racing 4-piston monoblock calipers (CP8820-1D)** clamping **380mm CCM-R discs (part #9PA93061100)** for 30% improved fade resistance."
+  ],
+  "estetica": [
+    "Application of a **Rocket Bunny V3 widebody kit (Porsche Taycan GTS-specific, part #RB-TAY-03)** with **pre-preg carbon-fiber fenders (2x2 twill weave, 200gsm)** and **custom aluminum inner fender liners (part #RB-TAY-03-INT)** to accommodate **20-inch OZ Racing Ultraleggera HLT wheels (9.5J front, 11J rear, ET40/ET30)** wrapped in **Michelin Pilot Sport Cup 2 R tires (265/35 R20 front, 305/30 R20 rear)** for a 35mm front and 40mm rear track increase.",
+    "Installation of a **TechArt GTstreet Aero Kit (Taycan GTS-specific, part #TA-100-001)** featuring a **3D-printed titanium front splitter (Grade 5 Ti-6Al-4V, 1.2mm thickness)** with **active Gurney flaps (electro-pneumatic actuation, part #TA-100-002)** and a **carbon-fiber rear diffuser (part #TA-100-003)** with **integrated LED brake cooling ducts (part #TA-100-004)** for 18% improved downforce at 120 mph.",
+    "Full **Porsche Exclusive Manufaktur Carbon Fiber Package (part #XAA)** with **matt clear-coated visible carbon-fiber roof (part #9PA98060100)**, **side skirts (part #9PA98060200)**, and **rear spoiler (part #9PA98060300)**, combined with **Brembo GT 6-piston caliper paint (Rosso Corsa, part #09.8904.70)** and **custom laser-etched stainless steel badges (Porsche Classic font, part #9PA0002)** for the front fenders."
+  ]
+}

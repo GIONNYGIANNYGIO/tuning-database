@@ -1,0 +1,14 @@
+{
+  "brand": "RENAULT",
+  "model": "ALPINE A110 GT4",
+  "prestazioni": [
+    "Engine: Replace the stock Renault M53T (1.8L turbocharged inline-4) with a fully built version featuring forged Mahle pistons (8.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from Manley Performance. Pair with a Garrett GTX3582R turbocharger (0.82 A/R turbine housing) and a custom 4-ply silicone intake manifold from Vibrant Performance for optimized airflow.",
+    "Fuel System: Upgrade to a dual Bosch Motorsport 044 high-flow fuel pump setup with an Aeromotive A1000 fuel pressure regulator. Install 1,000cc ID1000 injectors from Injector Dynamics and a Motec M150 ECU with a GT4-spec calibration for precise fuel mapping under 3.5 bar boost.",
+    "Suspension & Chassis: Install a full Öhlins TTX40 4-way adjustable coilover kit with GT4-spec valving, paired with spherical bearing top mounts from SuperPro. Reinforce the chassis with a custom roll cage from Matter France (FIA GT4 homologated) and a carbon fiber front splitter with integrated dive planes from Vortex Automotive."
+  ],
+  "estetica": [
+    "Aerodynamics: Fit a full carbon fiber GT4-spec aero kit from Alpine Racing, including a rear diffuser with gurney flap, side skirts with vortex generators, and a fixed rear wing with adjustable carbon fiber elements (30mm chord, 15° angle of attack).",
+    "Wheels & Brakes: Mount 18x11 ET25 front and 18x12 ET30 rear forged aluminum wheels from BBS (FI-R model) wrapped in Michelin Pilot Sport Cup 2 R tires (285/650R18 front, 305/680R18 rear). Upgrade to AP Racing CP8370-4 calipers with 380mm carbon-ceramic rotors (front) and CP8370-2 calipers with 355mm rotors (rear).",
+    "Interior: Replace the stock seats with Sparco Pro ADV GT4 carbon fiber seats (FIA 8862-2009 certified) and a 6-point harness from Schroth. Install a custom carbon fiber dashboard with a Motec C187 digital display and a quick-release steering wheel from OMP Racing (GT4-spec)."
+  ]
+}

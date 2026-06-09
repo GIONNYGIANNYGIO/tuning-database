@@ -1,0 +1,14 @@
+{
+  "brand": "Red Bull",
+  "model": "RB5",
+  "prestazioni": [
+    "Renault RS27-2009 (engine code: RS27) 2.4L V8 naturally aspirated rebuild with forged Mahle pistons (98mm bore, 10.5:1 compression), Carrillo H-beam connecting rods, and a billet steel crankshaft for 19,500 RPM reliability, paired with a Pankl titanium valvetrain and custom camshafts ground by Kent Cams for 320° duration and 14.5mm lift to optimize powerband for Monaco vs. Monza circuits",
+    "Garrett GT35R twin-scroll turbocharger conversion (non-FIA legal) with a custom 3D-printed Inconel exhaust manifold by Akrapovič, mated to a Tial MV-R 50mm external wastegate and a custom 4.5\" titanium downpipe with a secondary catalytic converter delete for 750+ HP on E85 (fuel system upgraded with Bosch Motorsport 1200cc injectors and a Radium Engineering dual-pump surge tank)",
+    "Ohlins TTX40 4-way adjustable coilovers with 3D-printed titanium top mounts by KW Suspensions, custom valved for 1200kg/m front and 1400kg/m rear spring rates, paired with a Red Bull Racing-spec carbon fiber pushrod suspension system and spherical bearing upgrades from Aurora Bearing for sub-0.1° wheel deflection at 3.5G cornering loads"
+  ],
+  "estetica": [
+    "Full carbon fiber bodywork replacement with a Red Bull Racing RB5-specific aero kit by Liberty Walk, featuring a 3D-scanned front splitter with active Gurney flaps (hydraulically adjustable via cockpit switch), a 1.2m rear wing with dual-element DRS (Drag Reduction System) and a central swan-neck mount for reduced turbulence, and side skirts with integrated vortex generators for 20% more downforce at 250 km/h",
+    "BBS LM-R 18\"x12\" front and 18\"x13.5\" rear forged magnesium wheels with custom center-lock adapters, wrapped in Pirelli P Zero Trofeo R tires (265/645-R18 front, 325/705-R18 rear) and secured with titanium lug nuts by HRE Performance Wheels, paired with AP Racing 6-piston monoblock calipers and 380mm carbon-carbon brake discs for 1.2G deceleration from 300 km/h",
+    "Interior stripped and rebuilt with a full carbon fiber monocoque tub by Capristo, featuring a Sparco Pro 2000 seat with 6-point Schroth Racing harnesses, a custom MOMO steering wheel with integrated Motec C127 dash display (logging 500+ channels at 1000Hz), and a bespoke titanium roll cage by Custom Cages UK with integrated fire suppression system (FE-36 extinguishant) and a quick-release mechanism for FIA compliance"
+  ]
+}

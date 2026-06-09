@@ -1,0 +1,14 @@
+{
+  "brand": "RENAULT",
+  "model": "5 TURBO RALLY",
+  "prestazioni": [
+    "Engine: Replace the stock *C1J-784* 1.4L turbocharged inline-4 with a *C7K-700* 1.6L block (from Renault 5 Turbo 2) bored to 81.5mm and stroked to 82mm using a *Brian Crower* billet crankshaft (82mm stroke) and *Manley* forged H-beam connecting rods (144mm length), achieving 1.8L displacement. Pair with *JE Pistons* 8.5:1 compression forged slugs (81.5mm bore) and *ARP* head studs (L19 material) for 1.2 bar boost reliability.",
+    "Forced Induction: Swap the stock *Garrett T3* turbo for a *Garrett GT2867R* (0.64 A/R turbine housing, 56 trim compressor) with a *Tial MV-R* 44mm external wastegate (V-band flange) and *TurboSmart* Kompact 50mm blow-off valve. Intercooling via a *PWR* front-mount bar-and-plate core (450x225x76mm) with *Samco* silicone hoses (3.5\" ID) and *Mishimoto* aluminum couplers.",
+    "Drivetrain: Install a *Hewland* FT200 5-speed dog-ring gearbox (Group B spec) with *Quaife* ATB differential (80% lock) and *Peloquin* LSD for the rear. Clutch system upgraded to a *Tilton* 7.25\" twin-disc setup (ceramic pads) with a *Spec* billet flywheel (10.5lb). Half-shafts replaced with *GKN* CV-jointed units (22-spline, 300mm length) and *Polybush* urethane differential mounts."
+  ],
+  "estetica": [
+    "Body: Full *Rocket Bunny* R5 Turbo widebody kit (carbon fiber fenders, front/rear bumpers, and side skirts) with *Seibon* carbon fiber hood (Group B-inspired dual NACA ducts) and *Aerocatch* hood pins. Rear wing replaced with a *Voltex* Type-3 GT wing (1,200mm span, 300mm chord) on *Custom Cages* aluminum pedestals.",
+    "Interior: *Sparco* Pro ADV seats (carbon-Kevlar shell, FIA 8862-2009 certified) mounted on *Schroth* 6-point harnesses (ASM2 configuration) and a *OMP* HTE-R steering wheel (330mm diameter, suede). Dashboard replaced with a *Motec* C127 digital dash (CAN bus integration) and *Defi* BF analog gauges (oil temp/pressure, fuel pressure, boost).",
+    "Lighting: *Hella* Rallye 3000 Supertones (7\" diameter, 100W H3 bulbs) with *PIAA* 520 fog lights (100W H3) and *Osram* Night Breaker Laser bulbs (H4, 130/100W). Rear lights swapped for *Lucas* LED tail lights (Group B replica) with *Novsight* sequential turn signals."
+  ]
+}

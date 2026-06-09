@@ -1,0 +1,14 @@
+{
+  "brand": "RENAULT",
+  "model": "ALPINE A310",
+  "prestazioni": [
+    "Engine swap to a **PRV (Peugeot-Renault-Volvo) Z7V 2.8L V6** with forged internals (JE Pistons 9.5:1 compression, Eagle H-beam rods, and a billet crankshaft) paired with a **Garrett GT3582R turbocharger** (0.82 A/R turbine housing) and **Tial MV-R 44mm wastegate** for 450+ HP at 1.5 bar boost. Custom **Sodemo 36mm individual throttle bodies (ITBs)** with **Motec M150 ECU** for precise fuel and ignition mapping, including sequential injection and individual cylinder trimming.",
+    "Full **Alpine A310-specific chassis reinforcement** with a **Gillet Group 4-point roll cage** (TIG-welded 4130 chromoly) and **Polybush polyurethane bushings** for the rear trailing arms and front A-arms. **Ohlins TTX40 coilovers** with 2-way adjustable damping and **Eibach ERS 1000N/mm springs** for optimized weight transfer, paired with **AP Racing CP6640 4-piston calipers** and **330mm slotted rotors** (front) for consistent braking under high lateral G-forces.",
+    "Drivetrain upgrade with a **Hewland FT200 5-speed sequential gearbox** (dog-ring engagement, 2.6:1 final drive) and **Peloquin limited-slip differential (LSD)** with 40% lockup under power. **Tilton 7.25\" twin-plate clutch** with cerametallic friction discs and **PPG 85W-140 gear oil** for durability under high torque loads. Custom **3.5\" aluminum driveshaft** with **GKN CV joints** to handle the increased power delivery."
+  ],
+  "estetica": [
+    "**Rocket Bunny V1 A310 widebody kit** (carbon fiber fenders, front splitter, and rear diffuser) with **custom 3M Matte Graphite vinyl wrap** and **BBS RS-GT 16x9.5\" (front) / 17x11\" (rear) wheels** wrapped in **Michelin Pilot Sport Cup 2 R tires (225/45/16 front, 285/40/17 rear)** for aggressive stance and grip.",
+    "**Alpine A310-specific aero package** including a **custom 3D-printed carbon fiber rear wing** (inspired by the A310 V6 GT4, 1200mm span, 30mm Gurney flap) and **Vortex Generators** on the roof for improved high-speed stability. **Hella Rallye 3000 headlights** with **Cibie Oscar LED bulbs** and **custom smoked Perspex covers** for a period-correct yet modern look.",
+    "**Interior overhaul** with **Sparco Pro ADV seats** (carbon fiber shell, FIA 8862-2009 certified) and **Schroth 6-point harnesses**, paired with a **Momo Mod.78 steering wheel** (350mm diameter, suede grip) on a **NRG quick-release hub**. **Custom aluminum dashboard** with **AIM MXS Strada 7\" digital dash** and **Defi BF gauges (oil pressure, boost, and fuel pressure)** mounted in a **carbon fiber gauge pod** for real-time monitoring."
+  ]
+}

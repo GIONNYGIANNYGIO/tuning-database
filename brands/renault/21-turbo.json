@@ -1,0 +1,14 @@
+{
+  "brand": "RENAULT",
+  "model": "21 TURBO",
+  "prestazioni": [
+    "Engine: Replace the stock **J7R-752** (2.0L 8V turbo) internals with forged **Mahle Motorsport** pistons (8.5:1 CR), **Manley** H-beam connecting rods, and a **Crower** billet crankshaft for 1.2-bar boost reliability. Pair with a **Garrett GT2860RS-5** turbo (0.64 A/R turbine housing) and **Tial 44mm** wastegate for spool under 3,500 RPM.",
+    "Fuel System: Upgrade to **Bosch 044** high-flow fuel pump, **Siemens DEKA 80lb/hr** injectors, and a **Haltech Elite 2500** standalone ECU with **Renault 21 Turbo-specific** base maps. Add a **Radium Engineering** dual-catch can setup to mitigate oil vapor ingestion under sustained boost.",
+    "Drivetrain: Install a **Quaife ATB LSD** (85% lock) in the stock **JC5** transaxle, paired with **PPG** straight-cut gears (1st: 2.92, 2nd: 2.05) and a **Spec Stage 3+** clutch with **Fidanza** aluminum flywheel. Reinforce the transmission mounts with **Polybush** solid mounts and a **Whiteline** rear subframe brace."
+  ],
+  "estetica": [
+    "Body: Fit a **Rocket Bunny V1** widebody kit (21 Turbo-specific, +120mm front/+140mm rear) with **Seibon** carbon fiber hood and trunk. Use **OEM Renault Alpine A610** side skirts for factory-style aggression, and a **Voltex** Type-3 rear wing (30mm adjustable angle) for downforce.",
+    "Wheels: **Work Meister S1 3P** 16x9.5 ET15 (front) and 16x10.5 ET5 (rear) with **Nankang AR-1** semi-slick tires (225/45/16 front, 255/40/16 rear). Powdercoat wheels in **Gunmetal Grey** with **Hankook Ventus R-S4** wet-weather tires as a backup set.",
+    "Interior: Replace stock seats with **Recaro SRD-E** (Renault 21-specific mounting brackets) and a **MOMO Mod.78** steering wheel on a **NRG** quick-release hub. Add a **Defi Advance BF** 3-gauge pod (boost, oil temp, AFR) mounted on the A-pillar, and **Schroth Profi II** 4-point harnesses for track use."
+  ]
+}

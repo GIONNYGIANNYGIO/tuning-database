@@ -1,0 +1,14 @@
+{
+  "brand": "RENAULT",
+  "model": "ALPINE A110",
+  "prestazioni": [
+    "Engine: Replace the stock M53T (1.8L turbocharged inline-4) ECU with a Syvecs S8 Plug & Play standalone unit, recalibrated for E85 flex-fuel compatibility, targeting 380whp (320hp stock) via a 28psi boost curve on a Garrett GTX3076R Gen II turbo (0.86 A/R, billet compressor wheel) with a custom 3.5\" titanium downpipe and Akrapovič Evolution exhaust system (dual 2.5\" outlets, Inconel headers).",
+    "Suspension: Install Öhlins TTX46 MkII coilovers with 2-way adjustable compression/rebound damping, paired with custom 25mm front and 20mm rear Eibach anti-roll bars (adjustable preload) and spherical bearing subframe collars (Alpine-specific, from ATS Racing) to eliminate compliance under load.",
+    "Drivetrain: Upgrade to a Pankl Racing 7-speed dual-clutch transmission with a 30% stiffer differential (Alpine OEM-spec, part #A110-8200020) and a Tilton 7.25\" twin-disc carbon clutch (2,200Nm torque capacity). Replace the stock 225/40R18 tires with Michelin Pilot Sport Cup 2 R (245/35R19 front, 275/30R19 rear) on OZ Racing Ultraleggera HLT wheels (19x9.5\" front, 19x11\" rear, +35mm offset)."
+  ],
+  "estetica": [
+    "Aero: Fit a full Liberty Walk LB Works widebody kit (A110-specific, carbon fiber) with a 3D-printed active rear diffuser (integrated Gurney flap, adjustable via electric actuators) and a custom front splitter (carbon-Kevlar hybrid, 30mm overhang) from Vorsteiner. Replace the stock rear wing with a 9 Lives Racing GT wing (30\" chord, 10° angle, carbon fiber).",
+    "Lighting: Retrofit Hella Rallye 3000 Compact (H3 55W) auxiliary lights into the front bumper (DRL delete) and install Lazer Triple-R 6 LED light bars (10,000 lumens each) in the rear diffuser. Replace all exterior bulbs with Osram Night Breaker Laser (6000K) units and add sequential LED turn signals (Alpine-specific, from LUX Automotive).",
+    "Interior: Replace the stock seats with Bride Zeta III (fixed-back, carbon shell) and install a full Alcantara-wrapped dashboard (custom stitching, Alpine blue contrast) with a Motec C127 dash display (integrated with Syvecs ECU). Add a custom roll cage (T45 steel, 6-point, from Custom Cages UK) with integrated fire suppression system (Lifeline Zero 360, 4kg agent) and a Sparco Pro 2000 steering wheel (350mm, suede)."
+  ]
+}

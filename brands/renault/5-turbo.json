@@ -1,0 +1,14 @@
+{
+  "brand": "RENAULT",
+  "model": "5 TURBO",
+  "prestazioni": [
+    "Engine: Replace the stock **C1J-784** (1.4L turbocharged inline-4) with a **C7K-700** (2.0L turbocharged inline-4 from the Renault 18 Turbo) using a **Garrett T3/T4 hybrid turbo** (GT3071R .63 A/R turbine housing) for 350+ HP at 1.5 bar boost, paired with a **Tial 44mm external wastegate** and **SARD 750cc/min fuel injectors**",
+    "Drivetrain: Install a **Hewland FT200 5-speed dogbox** with **Quaife ATB differential** and **Penske 8760 adjustable coilovers** (24-click rebound, 16-click compression) for Group B rally compliance, alongside **Alcon 4-piston calipers** with **330mm AP Racing rotors**",
+    "ECU & Fuel: Swap to a **Syvecs S6Plus standalone ECU** with **Bosch Motorsport 0280158001 high-pressure fuel pump** and **AEM X-Series wideband O2 sensor**, tuned for **12.5:1 compression** with **VP Racing C16 fuel** and **Nitrous Express 150-shot direct-port kit** for rally stage bursts"
+  ],
+  "estetica": [
+    "Body: **Liberty Walk LB-R5T widebody kit** (carbon fiber fenders, extended wheel arches) with **Seibon carbon fiber hood** (Group B-style NACA duct) and **Rear diffuser by Voltex Type-3** (3D-printed ABS, 3-piece)",
+    "Wheels: **OZ Racing Superleggera III** (15x9 ET15 front, 15x11 ET5 rear) wrapped in **Michelin Pilot Sport Cup 2** (215/40/15 front, 255/40/15 rear) with **H&R Trak+ wheel spacers** (15mm front, 25mm rear)",
+    "Interior: **Sparco Pro 2000 seats** (Kepler fabric, FIA 8862-2009 certified) with **Schroth 6-point harnesses**, **Momo Mod.78 steering wheel** (350mm, suede), and **Motec C127 dash logger** (replacing the stock cluster) with **Defi Advance BF gauges** (boost, oil temp, fuel pressure)"
+  ]
+}

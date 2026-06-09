@@ -1,0 +1,14 @@
+{
+  "brand": "RENAULT",
+  "model": "CLIO V6 PHASE 2",
+  "prestazioni": [
+    "Engine: Replace the stock PSA ES9J4 (3.0L V6, 230hp) with a fully built version featuring forged internals (JE Pistons 9.5:1 compression, Eagle H-beam connecting rods, ACL Race Series bearings) and a custom camshaft grind from Schrick (272° duration, 11.5mm lift) for high-RPM power delivery (8,500 RPM redline). Pair with a custom 3.5-inch stainless steel exhaust system by Milltek Sport, featuring 304-grade mandrel bends and a 3.5-inch titanium tip for weight savings and aggressive acoustics.",
+    "Forced Induction: Install a Rotrex C38-91 supercharger kit (custom-mapped by Dynojet Research for the ES9J4) with an air-to-water intercooler (PWR Racing) and a custom fabricated intake manifold (aluminum CNC-machined by Titan Motorsports) to support 400whp on 98 RON fuel. Use a Motec M150 ECU for precise boost control and fuel mapping, with a custom flex-fuel sensor for E85 compatibility.",
+    "Suspension & Handling: Replace the stock suspension with a full Öhlins Road & Track DFV kit (custom valved for the Clio V6’s 55:45 weight distribution), paired with polybushings from SuperPro (part #SPF1001K) for the rear subframe. Install a custom front strut tower brace by Cusco (Type RS) and a rear sway bar from Whiteline (24mm adjustable, part #BMR79Z). Use AP Racing CP6640-1000 front brake calipers with 355mm two-piece rotors (DBA 5000 Series) and Ferodo DS2500 pads for track-ready stopping power."
+  ],
+  "estetica": [
+    "Aero: Install a full Liberty Walk LB Works widebody kit (Clio V6-specific, carbon fiber front fenders, rear quarter panels, and rear diffuser) with a custom front splitter by Varis (3D-printed carbon fiber, 3-inch overhang). Add a custom rear wing by APR Performance (GT-250 model, 3D carbon fiber, adjustable angle) and side skirts by Seibon Carbon (OEM+ fitment).",
+    "Wheels & Tires: Fit custom 18x9.5 ET20 front and 18x11 ET30 rear wheels by Work Emotion CR Kiwami (gunmetal finish, 5x108 PCD) with Michelin Pilot Sport Cup 2 tires (245/35/18 front, 295/30/18 rear). Use custom wheel spacers by H&R (15mm front, 25mm rear) for aggressive stance and clearance.",
+    "Interior & Exterior: Replace the stock seats with Recaro Pole Position II buckets (cloth/Alcantara, custom mounting brackets by Corbeau) and a custom roll cage by Custom Cages (T45 steel, bolt-in, FIA-approved). Add a custom carbon fiber dashboard overlay by Seibon and a digital dash by AIM MXS Strada (1.3-inch display, CAN bus integration). For exterior accents, use a full vinyl wrap by 3M (Matte Military Green, part #1080-M134) with custom gold pinstriping by Vinyl Graphics Inc."
+  ]
+}

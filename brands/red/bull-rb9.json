@@ -1,0 +1,14 @@
+{
+  "brand": "Red Bull Racing",
+  "model": "RB9",
+  "prestazioni": [
+    "Renault RS27-2013 (2.4L V8 NA, 750+ hp @ 18,000 RPM) – Full Pankl titanium connecting rods with DLC coating, Mahle Motorsport forged pistons (9.0:1 CR), and a bespoke Garrett Motorsports billet aluminum turbocharger (simulated via MGU-H energy recovery for 2013 regulations) with a 100mm titanium compressor wheel and 88mm Inconel turbine wheel for transient response optimization under FIA fuel flow limits (100kg/hr max).",
+    "Ohlins TTX40 4-way adjustable dampers with 25mm hollow piston rods and 32-position rebound/compression adjusters, paired with a Red Bull Technology carbon-fiber pushrod suspension system featuring titanium uprights and spherical bearings from Aurora Bearing Company (AB-1208-2RS) for sub-0.1mm deflection under 5G cornering loads.",
+    "AP Racing CP8152-10 carbon-carbon brake system with 6-piston monobloc calipers, 28mm thick ventilated discs (320mm diameter front, 280mm rear), and Ferodo DS2500 high-temperature pads, integrated with a Red Bull-designed brake-by-wire system utilizing a MoTeC M190 ECU for torque vectoring via rear MGU-K deployment (up to 160hp additional rear axle power under braking)."
+  ],
+  "estetica": [
+    "Red Bull Advanced Technologies (RBAT) full-carbon fiber aero package featuring a 2013-spec front wing with 9 adjustable elements (including a blown flap design for Y250 vortex generation), a rear wing with a 3-element DRS system and a Gurney flap optimized for Monza (low-drag) vs. Monaco (high-downforce) configurations, all constructed from Toray T800 carbon fiber with a 3K twill weave finish.",
+    "3M Scotchlite 980CR reflective vinyl livery with Red Bull Racing’s 2013 ‘Infiniti’ branding, applied using a 5-layer process (primer, base, reflective, clear coat, and anti-scratch film) for a mirror-like finish under track lighting, paired with custom BBS FI-R wheels (13x13 front, 13x15 rear) in a gold-anodized finish with center-lock titanium nuts (McGard 24410).",
+    "RB9-specific carbon fiber steering wheel with a 3D-printed titanium shift paddle assembly (SLM Solutions process), Alcantara-wrapped grip with integrated OMP Racing quick-release mechanism, and a 4.3-inch Bosch Motorsport digital display (DDU 8) featuring a custom Red Bull Racing interface with real-time MGU-H/K energy deployment telemetry."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "RENAULT",
+  "model": "ALPINE A110 CUP",
+  "prestazioni": [
+    "Engine: Replace the stock M53T (1.8L turbocharged inline-4) ECU with a Pectel SQ6M standalone unit, recalibrated for 380 HP at 7,000 RPM via a custom 28 psi boost map using a Garrett GTX3582R turbo (82mm compressor, 62mm turbine) with a TiAL MV-R 44mm wastegate and TiAL Q 50mm blow-off valve",
+    "Suspension: Install Öhlins TTX25 MkII 2-way adjustable dampers with custom 800 lb/in front and 750 lb/in rear springs, paired with Alpine-specific spherical bearing top mounts (AP Racing CP8450-1000) and adjustable anti-roll bars (24mm front, 22mm rear) from H&R",
+    "Drivetrain: Upgrade to a 6-speed sequential Sadev SL90-13 gearbox with a 2.2:1 final drive ratio, reinforced differential (Quaife ATB helical LSD), and a Sachs Racing twin-disc carbon clutch (240mm diameter, 6 puck)"
+  ],
+  "estetica": [
+    "Aero: Install a full carbon fiber body kit from Alpine Racing (part #A110CUP-001), including a 3-piece front splitter with adjustable dive planes, a 1,200mm wide rear wing (Gurney flap included), and a diffuser with 5 strakes (CFD-optimized for 300 kg downforce at 200 km/h)",
+    "Wheels: Fit OZ Racing Superforgiata wheels (9x18 ET35 front, 11x18 ET25 rear) with Michelin Pilot Sport Cup 2 R tires (245/645R18 front, 305/645R18 rear) and custom titanium wheel bolts (ARP #200-7706)",
+    "Interior: Replace stock seats with Sparco Pro ADV racing seats (carbon fiber shell, 6-point harness slots), install a MOMO Mod.78 steering wheel (320mm diameter, suede grip), and add a Motec C127 dash logger with GPS lap timing and predictive lap delta display"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "Red Bull",
+  "model": "RB8",
+  "prestazioni": [
+    "Cosworth-tuned Renault RS27-2012 (engine code: RS27-2012) with a bespoke Pankl titanium connecting rod upgrade (900+ hp target) and Mahle Motorsport forged pistons (10.5:1 compression ratio) to handle sustained 18,000 RPM operation under race conditions",
+    "Garrett GT35R turbocharger conversion (hybrid core, 76mm compressor wheel, 62mm turbine) with a custom TiAL Sport MV-R wastegate (1.1 bar peak boost) and a PWR Racing radiator (dual-core, 40mm thickness) for thermal management in high-downforce scenarios",
+    "Ohlins TTX40 MkII 4-way adjustable dampers with RB8-specific spring rates (front: 1200 lb/in, rear: 1000 lb/in) and a bespoke Red Bull Racing-derived pushrod suspension geometry (15mm lower ride height, 2.5° negative camber front, 1.8° rear) for Monaco GP-level mechanical grip"
+  ],
+  "estetica": [
+    "Red Bull Racing RB8-specific Vortex Generators (3D-printed carbon fiber, 120mm chord) mounted on the front wing endplates (Y75 slot gap configuration) to replicate the 2012 Abu Dhabi GP aero package",
+    "AP Racing CP8100 brake calipers (6-piston front, 4-piston rear) with RB8-exclusive gold anodized finish and Brembo HTC 64T brake pads (carbon-ceramic rotors, 32mm thickness) for aggressive track use",
+    "Seibon Carbon RB8-widebody conversion kit (pre-preg autoclave carbon, 50mm rear fender flares) paired with a custom RB8 rear diffuser (3D-printed PETG, 40% more downforce than stock) and a Red Bull Racing RB8-spec rear wing (double-DRS, 1200mm span, 300mm chord)"
+  ]
+}

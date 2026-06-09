@@ -1,0 +1,14 @@
+{
+  "brand": "RENAULT",
+  "model": "CLIO V6",
+  "prestazioni": [
+    "Engine swap to a **Renault Sport (PSA) ES9J4 3.0L V6 (engine code: L7X)** with forged internals: Mahle Motorsport forged pistons (8.5:1 compression), Pankl H-beam connecting rods, and a billet crankshaft from **JE Motorsport** for 8,500 RPM reliability. Pair with a **Garrett GT3582R turbocharger** (0.82 A/R turbine housing) and a **Tial MV-R 44mm wastegate** for 1.2 bar boost, targeting 450 HP at the wheels on **VP Racing M5 fuel** with a **Walbro 450 LPH in-tank pump** and **Injector Dynamics ID1000x injectors**.",
+    "Custom **3.5-inch stainless steel exhaust system** by **Supersprint** with a **200-cell catalytic converter** and **Akrapović titanium exhaust tips**, paired with a **Siemens VDO 10-bar MAP sensor** and a **Motec M150 ECU** for standalone engine management, tuned by **LMS Racing** for aggressive ignition timing (12° BTDC) and a **5000 RPM launch control** strategy with **anti-lag via secondary throttle body injection**.",
+    "Suspension overhaul with **Öhlins TTX40 coilovers** (2-way adjustable damping, 200mm travel) and **Eibach Pro-Race springs** (400 lb/in front, 350 lb/in rear), paired with **SuperPro polybushings** (front control arms, subframe, and rear trailing arms) and **AP Racing CP8370-4000 6-piston front calipers** with **355mm DBA 5000 Series rotors** (grooved and slotted). Chassis reinforcement via **GTSport rear strut brace** and **Custom Cages bolt-in roll cage** (T45 steel, 2.5mm wall thickness) for torsional rigidity."
+  ],
+  "estetica": [
+    "**Rocket Bunny V1 widebody kit** (Pandem-spec, carbon fiber front fenders, rear quarter panels, and rear bumper) with **custom 3D-printed ABS wheel arches** to clear **Work Emotion CR Kiwami 3-piece wheels** (9x18 ET15 front, 10.5x18 ET20 rear) wrapped in **Michelin Pilot Sport Cup 2 R tires** (235/40/18 front, 275/35/18 rear).",
+    "**Seibon carbon fiber hood** (with integrated NACA ducts for intercooler airflow) and **custom aluminum rear diffuser** by **Aeroflow Dynamics**, paired with a **Voltex Type-3 rear wing** (3D carbon fiber, 1200mm span, adjustable angle of attack up to 18°). Full **PPG Matte Black (9080) vinyl wrap** with **3M Scotchlite reflective pinstriping** (electric blue) and **custom LED taillights** by **Luxx Lighting** (sequential turn signals, smoked lenses).",
+    "**Recaro SPG XL seats** (carbon fiber backs, Alcantara/leather upholstery) with **Schroth Profi II 6-point harnesses** and a **MOMO Mod.78 steering wheel** (suede, 350mm diameter, quick-release hub). Interior stripped of rear seats, replaced with a **custom aluminum firewall** and **carbon fiber door cards** by **VIS Racing**, featuring **AEM X-Series digital dash** (integrated boost, oil temp, and wideband AFR) and **Pioneer DEH-80PRS head unit** with **Focal Utopia Be tweeters** and **JL Audio 12W7 subwoofer** in a sealed enclosure."
+  ]
+}

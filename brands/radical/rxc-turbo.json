@@ -1,0 +1,14 @@
+{
+  "brand": "RADICAL",
+  "model": "RXC TURBO",
+  "prestazioni": [
+    "Engine: Ford EcoBoost 3.5L V6 (engine code: *Cyclone* EcoBoost 3.5L GTDI) with a custom Garrett GTX4202R turbocharger (84mm compressor wheel, 1.06 A/R turbine housing) paired with a Tial MV-R 44mm external wastegate to manage boost at 28psi, replacing the stock BorgWarner EFR 7670 setup for increased airflow and reduced lag.",
+    "Fuel System: Upgraded to a full Motec M150 ECU with dual Bosch Motorsport 044 high-flow fuel pumps, ID1000x injectors (1,000cc/min), and a Radium Engineering fuel pressure regulator (set to 72psi base pressure) to support the increased power output (target: 750whp on E85).",
+    "Drivetrain: Quaife ATB differential (QDF7Z) with a 3.7:1 final drive ratio, paired with a Tilton 7.25\" triple-plate carbon clutch and a custom 6-speed sequential gearbox (Hewland LD-200) with straight-cut gears and a magnesium bellhousing for weight reduction and durability under extreme torque loads."
+  ],
+  "estetica": [
+    "Aerodynamics: Full Radical Motorsport-developed carbon fiber aero package, including a revised front splitter with integrated dive planes (increasing front downforce by 45% at 120mph), a rear diffuser with Gurney flaps, and a fixed rear wing (Radical RXC GT-spec) with adjustable angle of attack (up to 12 degrees) for high-speed stability.",
+    "Bodywork: Custom carbon fiber widebody kit (Radical RXC GT3-inspired) with aggressive front fender flares (2.5\" wider than stock) and a rear clamshell featuring a removable center section for quick engine access. Paint: 3M Matte Graphite with custom Radical Motorsport livery (fluorescent green accents and sponsor decals).",
+    "Interior: Full Sparco Pro 2000 carbon fiber racing seats with 6-point Schroth Profi II-6 harnesses, a custom Motec C127 dash display (replacing the stock AIM MXL), and a Radical Motorsport quick-release steering wheel (flat-bottom, Alcantara-wrapped) with integrated paddle shifters for the Hewland sequential gearbox."
+  ]
+}

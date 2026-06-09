@@ -1,0 +1,14 @@
+{
+  "brand": "RANGE",
+  "model": "ROVER CLASSIC",
+  "prestazioni": [
+    "Engine swap to a Rover 3.9L V8 (engine code: 3.9L Rover V8, derived from Buick 215) with a forged crankshaft (Mahle Motorsport) and forged pistons (JE Pistons, 10.5:1 compression ratio), paired with a custom camshaft profile (Kent Cams 280° duration, 0.500\" lift) for high-RPM power delivery (peak power at 6,200 RPM).",
+    "Forced induction via a Rotrex C38-91 supercharger (12 psi max boost) with an intercooler (PWR Racing, front-mount, 10-row core) and a custom fuel system upgrade (Walbro 450 LPH in-tank pump, ID1000x injectors, and a Link G4+ Xtreme standalone ECU with flex-fuel capability).",
+    "Drivetrain reinforcement with a Quaife ATB differential (25-spline, 3.54:1 ratio) in a Rover LT77 5-speed manual transmission (converted from automatic), paired with a Tilton twin-plate clutch (7.25\" organic/carbon hybrid) and a custom driveshaft (GKN Driveline, 3.5\" diameter, balanced to 8,000 RPM)."
+  ],
+  "estetica": [
+    "Full custom widebody conversion using a JE Motorsport Classic Range Rover kit (hand-formed aluminum over steel, 3\" wider front fenders, 4\" wider rear), with custom carbon fiber fender flares (VIS Racing, pre-preg autoclave cured).",
+    "Bespoke suspension setup with custom-fabricated unequal-length A-arms (front) and a 4-link rear setup (polyurethane bushings, spherical bearings at all pivot points), paired with Öhlins TTX40 coilovers (3-way adjustable, 250mm travel) and custom subframe reinforcement (T45 steel, TIG-welded).",
+    "Exterior visuals featuring a custom 3-piece front bumper (hand-beaten aluminum, integrated tow hooks and air curtain ducts), a carbon fiber bonnet (Seibon, vented for intercooler clearance), and a custom rear diffuser (carbon fiber, 3D-printed mold, integrated exhaust exits for dual 3.5\" Borla Pro XS mufflers)."
+  ]
+}

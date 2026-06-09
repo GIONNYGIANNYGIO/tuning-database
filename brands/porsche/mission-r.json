@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "MISSION R",
+  "prestazioni": [
+    "Upgrade to a **Porsche 9A2 Evo (Mission R-specific electric motor)** with **Weissach-developed silicon carbide (SiC) inverter** for 1,088 hp peak output (1,200 Nm torque) via **Mahle dual-motor setup** (front: 420 kW, rear: 640 kW) with **AP Racing carbon-ceramic brake discs (410mm front, 390mm rear)** and **Brembo GP4-MS monoblock calipers** for endurance racing thermal stability",
+    "Installation of **Marelli Motorsport 800V high-voltage battery pack** with **custom liquid-cooled thermal management** (using **Motul Tech 300V 0W-40** as dielectric coolant) and **Porsche Engineering-developed torque vectoring algorithm** for 0-60 mph in 2.5s (simulated Nürburgring lap time: 6:49.928)",
+    "Integration of **Bosch MS 5.1 motorsport ECU** with **Porsche Digital twin-charge air cooling system** (dual **Garrett E-Turbo electric compressors** for instant torque response) and **NGK Laser Iridium IX spark plugs** (93000+ heat range) for sustained 10,000 RPM operation in race mode"
+  ],
+  "estetica": [
+    "Full **Rocket Bunny V3 Mission R aero kit** (carbon fiber front splitter with **Gurney flap**, rear diffuser with **active aerodynamic flaps** controlled by **Porsche Active Aero (PAA) system**, and **side skirts with integrated NACA ducts** for battery cooling)",
+    "Custom **Porsche Exclusive Manufaktur Liquid Metal Silver paint** with **3M 1080 Gloss Black wrap accents** (hood, roof, and rear wing) paired with **OZ Racing Superleggera VR 18x12 ET40 (front) and 18x13 ET45 (rear)** wheels wrapped in **Michelin Pilot Sport Cup 2 R tires (305/680R18 front, 325/705R18 rear)**",
+    "Interior overhaul with **Sparco Pro 2000 carbon fiber racing seats** (FIA 8862-2009 certified), **Schroth 6-point harnesses**, **Alcantara-wrapped MOMO Prototipo steering wheel** (with **Porsche PCM touchscreen integration**), and **custom LED shift lights** (syncing with **Motec C187 dash display** for real-time telemetry)"
+  ]
+}

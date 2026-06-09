@@ -1,0 +1,14 @@
+{
+  "brand": "RENAULT",
+  "model": "ALPINE A110 S",
+  "prestazioni": [
+    "Engine: Replace the stock M53T (1.8L turbocharged inline-4) ECU with a **Syvecs S8 Plug & Play** standalone unit, optimized for aggressive ignition timing (up to 28° BTDC) and fuel mapping to support E85 flex-fuel capability, targeting 380+ HP at 7,200 RPM with a 2.3-bar MAP sensor and **Bosch Motorsport 0280158861** high-flow injectors.",
+    "Forced Induction: Swap the OEM turbo (TD04-14T) for a **Garrett GTX3076R Gen II** with a billet compressor wheel, paired with a **Tial MV-R 44mm** external wastegate (set to 26 psi peak boost) and a **TurboSmart Race Port BOV** to eliminate compressor surge. Custom **PWR Australia** 40-row intercooler (core dimensions: 400x200x60mm) with **Mishimoto silicone hoses** for reduced IATs.",
+    "Drivetrain & Handling: Install a **Quaife ATB LSD** (part #QDF7Z) in the 7-speed Getrag 7DCL750 dual-clutch transmission, paired with **Alcon 355mm 6-piston front brake calipers** (with **Ferodo DS2500** pads) and **Ohlins TTX40 MkII** coilovers (24-way adjustable damping, 30mm drop, **Eibach ERS springs** at 120 N/mm front, 100 N/mm rear). Chassis reinforcement via **Alpine-approved GTSport** front strut brace and **Cusco** 2-point rear subframe brace."
+  ],
+  "estetica": [
+    "Aerodynamics: **Liberty Walk LB Works** widebody kit (A110-specific, carbon fiber) with **Rocket Bunny** front canards and rear diffuser, paired with a **Seibon Carbon** GT-style rear wing (30mm adjustable angle, 1,200g downforce at 120 mph). Underbody **VRS-style diffuser** with **Aeroflow** vortex generators for rear stability.",
+    "Exterior: **PPG Global Reflections** custom paint in Alpine’s ‘Bleu Alpine’ with **3M 1080 Gloss Black** vinyl overlays (hood, roof, mirror caps) and **Vorsteiner V-FF 107** forged wheels (19x9.5 ET35 front, 19x11 ET40 rear) wrapped in **Michelin Pilot Sport Cup 2 R** (265/35/19 front, 305/30/19 rear). **Litchfield** carbon fiber side skirts and **Novitec** titanium exhaust tips (dual 90mm).",
+    "Interior: **Recaro Pole Position** carbon-Kevlar bucket seats (FIA 8862-2009 certified) with **Schroth Profi II-6** 6-point harnesses, **Alcantara-wrapped** **Momo Prototipo** steering wheel (320mm, suede grip), and **Aim Solo 2 DL** data logger mounted on a **Sparco** quick-release hub. **Full carbon fiber dash overlay** (from **Alpine’s A110 Cup race car**) with **Motec C127** digital dash replacing the stock cluster."
+  ]
+}

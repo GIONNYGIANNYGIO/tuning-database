@@ -1,0 +1,14 @@
+{
+  "brand": "RADICAL",
+  "model": "SR10 GT3",
+  "prestazioni": [
+    "Engine: Ford EcoBoost 2.3L *GTD-230* (GT3-spec) with a bespoke *Radical Motorsport* billet aluminum dry-sump system, featuring a *Turbosmart 60mm Race Port BOV* and *Garrett GTX3582R Gen II* turbocharger (1.28 A/R turbine housing, 76mm compressor wheel) running 2.2 bar (32 psi) of boost on *Motec M150 ECU* with GT3-grade fuel mapping for 550+ hp at 7,800 RPM (redline: 8,500 RPM).",
+    "Drivetrain: *Hewland NLT 6-speed sequential gearbox* with *Pankl Racing Systems* carbon-fiber driveshaft and *Quaife ATB differential* (85% lock), paired with a *Tilton Engineering* 7.25\" triple-plate carbon clutch and *Radical Motorsport* billet aluminum bellhousing.",
+    "Suspension & Chassis: *Öhlins TTX40 4-way adjustable dampers* (GT3-spec valving) with *Radical Motorsport* adjustable front/rear anti-roll bars (24mm front, 22mm rear), *Eibach* 1,200 lb/in front and 1,000 lb/in rear springs, and *Radical* billet aluminum upright assemblies with *AP Racing* 6-piston front (380mm discs) and 4-piston rear (355mm discs) calipers, running *Ferodo DS3.1* race pads."
+  ],
+  "estetica": [
+    "Aerodynamics: *Radical Motorsport* GT3-spec carbon-fiber front splitter with *Gurney flap* (adjustable 0-15mm), *Radical* rear diffuser with *swan-neck* mounting for the *DRS-enabled* rear wing (3-element, 1,200mm span, *NACA 63A012* airfoil), and *Vortex Generators* on the A-pillars for improved airflow separation.",
+    "Bodywork: Full *Radical Motorsport* GT3 carbon-fiber body kit (FIA-approved) with *quick-release* hood and doors, *AIM MXS Strada* digital dash integrated into the *Momo* GT3 steering wheel (with *Pirelli P Zero Trofeo R* tire pressure sensors), and *OMP* 6-point FIA-spec harness bar with *Schroth* 6-point harnesses.",
+    "Lighting & Details: *Hella* GT3-spec LED headlights (DRL + high-beam) with *Radical* carbon-fiber housings, *BBS FI-R* 18x12\" (front) and 18x13\" (rear) forged wheels wrapped in *Pirelli P Zero Trofeo R* tires (305/645-R18 front, 325/705-R18 rear), and *Radical* carbon-fiber side skirts with *3D-printed* cooling ducts for the *PWR* oil and water radiators."
+  ]
+}

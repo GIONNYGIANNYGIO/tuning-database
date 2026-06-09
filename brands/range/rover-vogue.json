@@ -1,0 +1,14 @@
+{
+  "brand": "RANGE",
+  "model": "ROVER VOGUE",
+  "prestazioni": [
+    "Engine: 3.0L AJD-V6 Gen III (306DT) diesel with BorgWarner EFR 8374 turbo (1.2 bar boost, billet compressor wheel, 62mm inducer) paired with a custom 3.5\" titanium downpipe and Milltek Sport 76mm cat-back exhaust (resonated center section, quad 100mm tips)",
+    "Fuel System: Upgraded CP4.2 high-pressure fuel pump (2,200 bar) with Siemens 1,000cc/min piezo injectors (PN: 0280158155) and a custom ECU remap via Alientech KESSv2 (Stage 2+ with EGR/DPF delete, optimized for 450hp/700Nm)",
+    "Suspension: KW Automotive Clubsport coilovers (3-way adjustable, 80mm front/60mm rear ride height adjustment) with Eibach 25mm front/20mm rear anti-roll bars and SuperPro polyurethane bushings (full kit, PN: SPF1000K)"
+  ],
+  "estetica": [
+    "Body Kit: Overfinch 570S Carbon Edition widebody conversion (front splitter, side skirts, rear diffuser, and carbon fiber hood with functional vents) paired with a Vorsteiner V-RT rear spoiler (carbon fiber, 3-position adjustable)",
+    "Wheels: Rotiform LAS-R 22x10.5\" ET35 (front) / 22x12\" ET45 (rear) in Satin Black with Michelin Pilot Sport Cup 2 R tires (285/35R22 front, 325/30R22 rear) and H&R 15mm spacers (hub-centric, 5x120 bolt pattern)",
+    "Lighting: LUX HID 55W Bi-Xenon Projector headlights (6000K, adaptive LED DRLs) with Morimoto XB LED fog lights (5000K) and custom LED taillight overlays (Smoked Red, sequential turn signals via Diode Dynamics controllers)"
+  ]
+}

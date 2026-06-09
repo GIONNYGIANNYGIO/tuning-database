@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "TAYCAN SPORT TURISMO",
+  "prestazioni": [
+    "APR Stage 2+ Software Optimization for the **Porsche Taycan 93.4 kWh (Performance Battery Plus) with APP310 electric motors (front: PSM, rear: ASM)**, targeting 650 kW (872 hp) and 1,100 Nm of torque via overboost function, utilizing a custom torque vectoring algorithm to maximize launch control efficiency on Michelin Pilot Sport Cup 2 R tires (275/35 R21 front, 315/30 R21 rear).",
+    "MSS 4000X Carbon Ceramic Brake Kit (380mm front, 370mm rear) with titanium pistons and bespoke ABS recalibration for the Taycan’s regenerative braking system, reducing unsprung mass by 18 kg per corner while maintaining OEM-level pedal feel via a Motec C127 dash logger for real-time brake pressure mapping.",
+    "Garrett E-Turbo Hybrid System (custom billet compressor wheel for the Taycan’s 800V architecture) paired with a PWR Racing intercooler (3.5L capacity, dual-core design) and a CSF Racing oil cooler (part #8214) to sustain 1.2 bar of boost under sustained track use, with a custom ECU flash to adjust inverter switching frequency for optimal thermal management."
+  ],
+  "estetica": [
+    "Rocket Bunny V3 Widebody Kit (Porsche Taycan Sport Turismo-specific, CFRP construction) with integrated carbon fiber side skirts, front splitter, and rear diffuser, designed to reduce lift by 32% at 250 km/h via CFD-optimized underbody strakes and a 50mm rear wing extension for balanced aero loading.",
+    "HRE FF03 FlowForm Wheels (21x10.5 ET45 front, 21x12 ET50 rear) in Satin Black with titanium hardware, paired with custom center caps featuring the Taycan’s **APP310 motor codes laser-engraved** and a matte clear coat for UV resistance, reducing rotational mass by 2.1 kg per wheel compared to OEM.",
+    "Akrapović Evolution Line Titanium Exhaust System (cat-back, dual-mode valves) with carbon fiber tips and a bespoke heat shield wrapped in DEI Titanium exhaust wrap, designed to reduce backpressure by 12% while amplifying the Taycan’s 800V inverter whine via a secondary sound actuator tuned by KW Automotive’s acoustic engineers."
+  ]
+}

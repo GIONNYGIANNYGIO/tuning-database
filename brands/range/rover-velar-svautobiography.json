@@ -1,0 +1,14 @@
+{
+  "brand": "RANGE",
+  "model": "ROVER VELAR SVAUTOBIOGRAPHY",
+  "prestazioni": [
+    "Engine: 3.0L AJD-V6 (P400e) hybrid powertrain with a custom **Dynojet Stage 2+ ECU remap** (unlocking 450hp/650Nm from the stock 404hp/640Nm) via **Cobb Accessport V3** with bespoke hybrid-specific fueling tables to optimize the **ZF 8HP75** transmission shifts for aggressive launch control (0-60mph in 4.1s vs. stock 4.7s).",
+    "Forced Induction: **Garrett GTX3076R Gen II turbo upgrade** (hybrid-specific compressor wheel for reduced lag) paired with a **Mishimoto titanium-coated intercooler** (30% larger core volume) and **Vibrant 1799 stainless steel charge pipes** to eliminate heat soak under sustained boost (targeting 22psi peak vs. stock 18psi).",
+    "Suspension & Handling: **KW Automotive Clubsport coilovers (3-way adjustable)** with **Eibach ERS (Eibach Racing Springs) 25% stiffer progressive-rate springs** and **SuperPro poly bushings (full rear subframe kit)** to eliminate NVH while sharpening turn-in response. **AP Racing 380mm front brake kit** (6-piston calipers, two-piece rotors) with **Ferodo DS2500 pads** for fade-resistant stopping power (100-0mph in 34m vs. stock 38m)."
+  ],
+  "estetica": [
+    "Aero: **Prior Design PD-VELAR widebody kit** (carbon fiber front splitter, side skirts, and rear diffuser) with **Rocket Bunny-style overfenders** (custom 3D-scanned to fit the Velar’s aluminum-intensive architecture) to accommodate **20x10.5 ET30 forged BBS FI-R wheels** (gold finish, 5x108 PCD) wrapped in **Michelin Pilot Sport Cup 2 R tires (275/40 R20)** for maximum mechanical grip.",
+    "Exterior Trim: **Vorsteiner carbon fiber hood** (functional heat extractor vents) and **Novitec Land Rover-specific side vents** (ducting to the intercooler) with **debadged Range Rover script** replaced by **BBS Motorsport laser-etched aluminum badges**. **LuxuryTints 70% ceramic IR-rejecting windshield film** to reduce cabin heat under track use.",
+    "Lighting: **LuxVision LUX-7 adaptive LED headlights** (8,000-lumen output, 500m beam distance) with **Morimoto XB35 HID projectors** (35W ballasts) and **custom RGBW DRLs** (integrated with **Alpine iLX-F509** head unit for dynamic color shifting). **Rear: Osram Night Breaker Laser taillights** (200% brighter than OEM) with sequential turn signals."
+  ]
+}

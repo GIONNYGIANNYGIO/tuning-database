@@ -1,0 +1,14 @@
+{
+  "brand": "Red Bull",
+  "model": "RB20",
+  "prestazioni": [
+    "Mercedes-AMG M14 E Performance (HPP-tuned) PU106C 1.6L V6 hybrid turbocharged power unit with a custom Red Bull Racing-spec Garrett GTX5544R 106mm turbocharger, billet compressor wheel, and 3D-printed titanium turbine housing for optimized exhaust gas flow at 15,000 RPM",
+    "Ohlins TTX46 MkII 4-way adjustable dampers with RB20-specific valving and carbon-fiber pushrods, paired with Red Bull Racing’s proprietary ‘Flexi-Wing’ adaptive aerodynamics system for dynamic ride height adjustment under braking and acceleration",
+    "AP Racing CP9660-4000 carbon-carbon brake discs with RB20-specific caliper pistons (6x40mm front, 4x36mm rear) and Ferodo DS4000 brake pads, integrated with a bespoke brake-by-wire system for torque vectoring and regenerative braking optimization"
+  ],
+  "estetica": [
+    "Red Bull Racing RB20-specific ‘Shark Fin’ engine cover in 3D-printed titanium with integrated cooling louvers and a matte carbon-fiber weave finish, designed for maximum airflow to the MGU-H and turbocharger",
+    "RB20-exclusive ‘Bull Horn’ front wing endplates with adjustable Gurney flaps and a multi-element cascade design, constructed from TeXtreme spread-tow carbon fiber for reduced weight and increased downforce at high yaw angles",
+    "Custom RB20 livery featuring a ‘Liquid Chrome’ vinyl wrap by 3M (Series 1080) with Red Bull Racing’s proprietary ‘Chameleon’ pigment shift technology, paired with BBS FI21 18-inch forged magnesium wheels in a gold-anodized finish with Pirelli P Zero Racing slicks (305/660-R18 front, 405/670-R18 rear)"
+  ]
+}

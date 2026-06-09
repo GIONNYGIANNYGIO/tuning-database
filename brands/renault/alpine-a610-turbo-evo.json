@@ -1,0 +1,14 @@
+{
+  "brand": "RENAULT",
+  "model": "ALPINE A610 TURBO EVO",
+  "prestazioni": [
+    "Engine: Replace the stock PRV Z7U-702 (2.5L V6 Turbo) internals with forged Mahle Motorsport pistons (8.5:1 CR), Carrillo H-beam connecting rods, and a billet steel crankshaft from Manley Performance to handle 1.2 bar boost reliably. Pair with a Garrett GT35R turbocharger (76mm compressor, .82 A/R turbine housing) and a custom 3.5\" stainless steel intercooler piping system from Vibrant Performance with a GReddy Type-S intercooler core (600hp capacity).",
+    "Fuel System: Upgrade to a Bosch Motorsport 044 high-flow fuel pump (340 LPH) with a Radium Engineering dual fuel pump hanger, paired with ID1000x injectors (1000cc/min) and a Link G4+ Xtreme standalone ECU with PRV-specific base maps. Integrate a custom fuel rail from Injector Dynamics and a 10AN -6AN AN adapter kit from Earl's Performance Plumbing for seamless flow.",
+    "Drivetrain & Suspension: Install a Quaife ATB helical LSD (85% lock) in the transaxle, paired with a Sachs Performance twin-disc clutch (400Nm torque capacity) and a lightweight flywheel from Fidanza (12.5 lbs). Replace the stock suspension with Ohlins TTX40 coilovers (3-way adjustable, 240mm travel) and spherical bearing control arms from SuperPro (polyurethane-free, full spherical setup). Add a custom front sway bar from H&R (24mm adjustable) and a rear sway bar from Eibach (22mm)."
+  ],
+  "estetica": [
+    "Aero: Fit a full carbon fiber widebody kit from Liberty Walk (LB Works A610-specific design), including front canards, side skirts, and a rear diffuser with integrated twin exhaust exits. Add a custom carbon fiber rear wing from APR Performance (GT-250 model, 3D adjustable) with a 1,200mm span and integrated third brake light. Replace the front bumper with a custom 3D-printed splitter from 9 Lives Racing (50mm overhang, 3-stage dive planes).",
+    "Wheels & Brakes: Mount 18x10.5\" ET20 front and 18x12\" ET35 rear wheels from BBS (LM-R mesh, 3-piece construction) wrapped in Michelin Pilot Sport Cup 2 tires (265/35/18 front, 305/30/18 rear). Upgrade to a full AP Racing CP9660 brake kit (380mm 6-pot front, 355mm 4-pot rear) with RSR 340mm 2-piece rotors and Ferodo DS2500 pads. Add custom titanium brake lines from Goodridge and a Motul RBF660 brake fluid flush.",
+    "Interior & Details: Replace the stock seats with Recaro Pole Position II carbon fiber shells (fixed-back, FIA-approved) and Schroth Profi II 6-point harnesses. Install a custom roll cage from Custom Cages (T45 steel, 6-point with door bars) and a Momo Prototipo steering wheel (350mm, suede). Add a digital dash from AIM MXS Strada (1.3\" display) with a PRV-specific sensor kit (oil pressure, oil temp, fuel pressure, wideband AFR). Replace all interior trim with Alcantara-wrapped panels from Sabelt and a custom carbon fiber center console from Tillet."
+  ]
+}

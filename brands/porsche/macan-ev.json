@@ -1,0 +1,14 @@
+{
+  "brand": "PORSCHE",
+  "model": "MACAN EV",
+  "prestazioni": [
+    "APR Stage 2+ Software Optimization for the **PPE (Premium Platform Electric) 800V architecture**, targeting a 20% increase in peak power output (from 630 HP to ~756 HP) and a 15% torque boost (from 833 lb-ft to ~958 lb-ft) via recalibrated inverter control and battery thermal management tweaks for sustained performance.",
+    "Garrett E-Turbo Electric Supercharger (custom-mapped for the **PPE platform**) paired with a **Magna PT eDS Mid-Mount Inverter Upgrade** to reduce spool lag by 30% and enable 0-60 mph in 2.9s (stock: 3.1s), with a **Porsche Motorsport-derived liquid-cooled battery bypass system** to prevent thermal throttling during track use.",
+    "Tesla Model S Plaid-derived **Silicon Carbide (SiC) MOSFET Inverter Swap** (retrofitted by **Unitek Racing**) to improve efficiency by 8% and enable 1,200A peak current draw, paired with a **Porsche 992 GT3 RS-spec rear e-differential** for torque vectoring precision and a **Brembo GT 6-piston monobloc caliper upgrade** with 420mm carbon-ceramic rotors for 30% better fade resistance."
+  ],
+  "estetica": [
+    "**Rocket Bunny V3 Widebody Kit for Macan EV** (Pandem Designs), featuring 3D-scanned carbon fiber fenders with 50mm wider front and 60mm wider rear tracks, paired with **custom 3D-printed aluminum wheel spacers** (15mm front, 20mm rear) to eliminate scrub radius issues.",
+    "**Vorsteiner V-RT Carbon Fiber Front Lip + Rear Diffuser** (designed specifically for the Macan EV’s aero balance), reducing lift by 22% at 120 mph, combined with a **Porsche 918 Spyder-style active rear spoiler** (retrofitted by **TechArt**) with adjustable angles (0°-15°) via a **Manthey Racing ECU piggyback** for dynamic downforce control.",
+    "**HRE FF03 FlowForm Wheels** (21x10.5 ET35 front, 22x12.5 ET45 rear) in **Forgeline Competition Series finish**, wrapped in **Michelin Pilot Sport Cup 2 R tires** (275/35 R21 front, 325/30 R22 rear) with **custom TPMS sensors** (VBOX Motorsport) for real-time pressure/temperature monitoring, paired with **Ohlins TTX46 coilovers** (Macan EV-specific valving) and **Porsche GT4-derived front camber plates** for -3.5° static camber."
+  ]
+}
