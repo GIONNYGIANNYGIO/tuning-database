@@ -1,0 +1,14 @@
+{
+  "brand": "SMART",
+  "model": "EQ RACE PROTOTYPE",
+  "prestazioni": [
+    "Replacement of the stock electric motor (code: EQ-3PH-80kW) with a custom **AVL Racetech E-Motor (250kW peak, 400Nm torque, 18,000 RPM redline)**, paired with a **Magna PT eDS-250 dual-inverter system** for precise torque vectoring and regenerative braking control",
+    "Installation of a **Bosch Motorsport MS 5.1 ECU** with **Motec C125 dash logger** for real-time telemetry, including battery cell monitoring (via **LTC6811-1 ICs**) and adaptive torque mapping for endurance racing",
+    "Upgraded **GKN eAxle (eTwinsterX)** with **Hewland 5-speed sequential gearbox** (ratios: 3.2:1, 2.1:1, 1.5:1, 1.1:1, 0.8:1) and **AP Racing CP8150 carbon-carbon clutch** for lightning-fast shifts under 50ms"
+  ],
+  "estetica": [
+    "Full **RML Group carbon-fiber monocoque chassis reinforcement** with **3D-printed titanium roll cage (Grade 5 Ti-6Al-4V)** for weight reduction (-12kg) and torsional rigidity (+45%)",
+    "Custom **Wings West Motorsport aero package** featuring a **dual-element front splitter with active Gurney flaps (Bosch Servo Motors)**, **rear diffuser with 3-stage adjustable vanes (CFD-optimized for 1,200kg downforce at 200km/h)**, and **removable polycarbonate side skirts with NACA ducts for battery cooling**",
+    "**OMP Racing carbon-fiber steering wheel (HANS-compatible)** with **Alcantara grip and integrated 4.3\" Motec dash display**, paired with **Sparco Pro2000 racing seats (FIA 8862-2009 certified)** and **Schroth 6-point harnesses (ASM2 type)** for driver safety and ergonomics"
+  ]
+}

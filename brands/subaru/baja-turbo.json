@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "BAJA TURBO",
+  "prestazioni": [
+    "Engine: EJ22GTE (closed-deck, forged internals, 9.7:1 compression) with a Garrett GT3076R turbocharger (0.82 A/R, 62mm inducer) on a custom 3-inch divorced wastegate manifold (Sparktech Performance) and a Tomei 272°/272° camshaft set with 11.5mm lift for optimized spool and top-end power on 93 octane fuel.",
+    "Fuel System: Injector Dynamics ID1050x injectors (1050cc/min) paired with a Walbro 450 LPH in-tank fuel pump, Aeromotive A1000 fuel pressure regulator, and a Cobb Accessport v3 (Stage 2+ map) with custom E85 blend tuning (30% ethanol) for 320whp and 340wtq on a Dynojet 224xLC.",
+    "Drivetrain: PPG 6-speed dog engagement transmission gears (1st: 2.785, 2nd: 1.913, 3rd: 1.379) with a Cusco Type-RS 1.5-way limited-slip differential, ACT 6-puck sprung hub clutch, and a custom aluminum driveshaft (The Driveshaft Shop) with CV joints rated for 500whp."
+  ],
+  "estetica": [
+    "Body: Rocket Bunny V1 Baja-specific widebody kit (fiberglass fenders, carbon fiber hood with functional vents, and a custom aluminum rear bed cap) with a 2-inch extended wheelbase conversion (Subaru Select) for aggressive stance and 265/35/18 front / 295/30/18 rear tire fitment on Work Emotion CR Kiwami wheels (18x9.5 +15 front, 18x11 +20 rear).",
+    "Aero: Voltex Type-5 rear wing (carbon fiber, 1700mm width, 300mm height) with a custom aluminum undertray (Aeroflow Dynamics) for -22% lift at 120mph, paired with a Seibon carbon fiber front splitter (3-inch overhang) and custom aluminum side skirts (Baja-specific, 4-inch drop).",
+    "Interior: Bride Zeta III reclinable bucket seats (SUBARU-specific mounting brackets) with Schroth Profi II 6-point harnesses, a custom aluminum dashboard overlay (Mach Engineering) with a Motec C127 dash display, and a full Alcantara headliner (Eurotrim) with red stitching and a custom roll cage (Autopower 8-point, TIG-welded 4130 chromoly)."
+  ]
+}

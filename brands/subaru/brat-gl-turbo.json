@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "BRAT GL TURBO",
+  "prestazioni": [
+    "Engine: EA81T (1.8L turbocharged flat-4, 94hp stock) – Full forged internals build with Manley 8.5:1 compression forged pistons, Eagle H-beam connecting rods, and ACL Race Series bearings to handle 250+ hp reliably. Turbo upgrade to a Garrett T25 .60 trim with a custom 3-inch stainless downpipe and 2.5-inch exhaust system featuring a MagnaFlow 14815 muffler for optimized spool and backpressure management.",
+    "Fuel System: Walbro 255 LPH in-tank fuel pump paired with Siemens DEKA 60 lb/hr injectors, controlled via a Link ECU G4+ Xtreme standalone ECU with a custom 3D-mapped tune targeting 22 psi of boost on 93 octane. Auxiliary water-methanol injection (AEM 30-3300) for charge cooling and detonation suppression.",
+    "Suspension & Handling: Full BC Racing BR Type coilover kit with 8kg/mm front and 7kg/mm rear springs, adjustable camber plates, and pillowball mounts. Polyurethane bushings (Whiteline KSB727) for the front control arms and rear trailing arms. StopTech Sport slotted rotors (12.2-inch front, 11.3-inch rear) with Hawk HT-10 brake pads and stainless steel braided lines for improved pedal feel."
+  ],
+  "estetica": [
+    "Body: Rare JDM-spec BRAT GL Turbo front lip (Subaru part #80301AC000) paired with a custom carbon fiber rear diffuser by Seibon. Full Rocket Bunny BRAT-specific widebody kit (PB-FR01) with overfenders to fit 17x9 +25 Enkei PF05 wheels wrapped in 245/40R17 Toyo R888R tires. Rear bed delete with a custom aluminum flatbed and integrated roll cage (Chassis Unlimited).",
+    "Lighting: Full Hella Evo X LED headlight conversion with custom C-shaped DRLs and a JDM-spec rear taillight cluster (Subaru part #84901AC010). Underglow kit by Oracle Lighting (Slimline 2.0) with custom mounting brackets for a hidden install.",
+    "Interior: Full Recaro SRD bucket seats with custom BRAT-specific mounting brackets and a Takata 4-point harness. Custom aluminum gauge pod housing AEM X-Series 30-0300 wideband AFR gauge, Defi BF oil pressure/temp gauges, and a TurboXS boost controller. Momo Mod.78 steering wheel with a NRG quick-release hub and a custom billet aluminum shift knob (B&M 40475) for the stock 4-speed manual transmission."
+  ]
+}

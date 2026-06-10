@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "IMPREZA WRX STI GC8",
+  "prestazioni": [
+    "Engine: EJ207 (closed-deck, 2.0L flat-4, semi-closed deck block) with forged internals including Manley I-beam connecting rods (4340 steel, 144mm length), JE forged pistons (8.5:1 compression, 92.5mm bore), and ACL Race Series main/rod bearings. Turbocharger: Garrett GTX3582R Gen II (82mm compressor, 0.82 A/R turbine housing) with TiAL MV-R 44mm external wastegate and custom 3-inch divorced downpipe (Cobb Tuning).",
+    "Fuel System: Injector Dynamics ID1050x (1050cc) injectors with Radium Engineering fuel rail and dual Bosch 044 fuel pumps (walbro 450LPH in-tank pump as lift pump). ECU: Cobb Accessport V3 with custom ProTune map (targeting 380-400whp on E85, 320-340whp on pump gas) with IAG Competition Series intake manifold (polished, port-matched).",
+    "Drivetrain: OS Giken 1.5-way LSD (front and rear) with STI 6-speed close-ratio transmission (short shifter: Perrin Performance adjustable short throw), ACT 6-puck unsprung clutch (Xtreme pressure plate), and Cusco 2-way adjustable front differential mount. Suspension: Ohlins Road & Track DFV coilovers (24-way rebound, 12-way compression damping) with Cusco front strut tower bar (22mm) and Whiteline rear adjustable sway bars (24mm front, 22mm rear)."
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny V1 GC8 widebody kit (carbon fiber fenders, front bumper, rear diffuser) with Voltex Type-5 rear wing (carbon fiber, 1700mm span, adjustable angle). Front lip: Seibon Carbon GT-style lip with integrated canards (3-piece).",
+    "Wheels: Work Meister S1 3P (17x9 +38 front, 17x10 +22 rear) with Toyo R888R tires (245/40/17 front, 275/35/17 rear). Brake System: DBA 5000 Series rotors (330mm 2-piece slotted) with AP Racing CP8566 calipers (6-piston front, 4-piston rear) and Motul RBF660 brake fluid.",
+    "Interior: Bride Zeta III bucket seats (fixed-back, FIA-approved) with Schroth 6-point harnesses, Cusco bolt-in roll cage (8-point, chromoly steel), and Defi BF Advance gauges (boost, oil pressure, oil temp, water temp) mounted on a custom carbon fiber A-pillar pod. Steering wheel: NRG Innovations 350mm deep-dish (suede) with quick-release hub."
+  ]
+}

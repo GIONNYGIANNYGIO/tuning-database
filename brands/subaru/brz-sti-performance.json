@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "BRZ STI PERFORMANCE",
+  "prestazioni": [
+    "FA20F (direct-injection, D-4S) engine fortified with a Tomei 2.2L stroker kit (86.0mm bore, 98.0mm stroke) paired with forged JE Pistons (9.0:1 compression) and Manley H-beam connecting rods for 300+ hp on E85 with a Garrett GTX3076R turbocharger (0.82 A/R, ball-bearing center housing) and custom 38mm external wastegate setup",
+    "Full Motec M150 ECU standalone management with individual cylinder fuel trims, flex-fuel sensor integration, and launch control mapped by Haltech-trained tuners, coupled with an AEM X-Series wideband O2 sensor for closed-loop AFR targeting 11.8:1 under boost",
+    "Kazama Auto 4-2-1 unequal-length stainless header (1.75\" primaries, 3\" collector) feeding into a custom 3.5\" titanium exhaust system with a Burns Stainless muffler core, paired with an HKS SSQV4 blow-off valve and a custom intercooler setup (GReddy Type-RS front-mount, 12.5\" x 24\" x 3.5\" core) with Mishimoto silicone couplers"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (BRZ-specific, 30mm extended fenders, carbon fiber overfenders) with custom STI-inspired front splitter (25mm overhang, 3D-printed ABS with aluminum reinforcement) and a Voltex Type-3 rear wing (1,200mm span, 300mm chord, carbon fiber construction) mounted on STI-spec rear strut tower braces",
+    "Ohlins Road & Track DFV coilovers (2-way adjustable damping, 30-way rebound, 20mm drop) with custom STI-spec pillowball top mounts and Whiteline adjustable sway bars (24mm front, 22mm rear) paired with Cusco front and rear strut tower bars (22mm diameter, 1.2mm wall thickness)",
+    "STI Performance-specific carbon fiber hood (Seibon, 30% weight reduction, functional NACA ducts) and rear diffuser (VERTEX, 3-piece design with integrated brake cooling ducts), finished with a custom STI-inspired livery (Subaru World Rally Team blue with gold accents, 3M 2080 vinyl wrap) and Work Emotion CR Kiwami wheels (18x9.5 +35, 18x10.5 +40, 5x100 PCD, 18.5kg front/19.2kg rear)"
+  ]
+}

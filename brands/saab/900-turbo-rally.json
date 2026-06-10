@@ -1,0 +1,14 @@
+{
+  "brand": "SAAB",
+  "model": "900 TURBO RALLY",
+  "prestazioni": [
+    "Engine: B202L (2.0L 16V turbocharged inline-4) with forged internals including Mahle Motorsport pistons (8.5:1 compression), Eagle H-beam connecting rods, and a billet crankshaft from Saab Performance Parts (SPP) for 300+ hp reliability at 1.5 bar boost.",
+    "Turbocharger: Garrett GT2860RS-5 hybrid turbo (custom billet compressor wheel, .64 A/R turbine housing) paired with a Tial MV-R 44mm external wastegate and Saab Motorsport 3.5\" stainless downpipe with 304-grade flex section.",
+    "Fuel & Ignition: Bosch Motorsport 044 high-flow fuel pump, Injector Dynamics ID1000x injectors, AEM 320LPH in-tank surge tank, and Haltech Elite 2500 ECU with custom Saab B202L-specific ignition maps (MSD 6AL-2 CDI box for multi-spark capability)."
+  ],
+  "estetica": [
+    "Body: Saab Motorsport Group 4 rally-spec widebody kit (fiberglass fenders, aluminum hood with dual NACA ducts) and custom rear diffuser from Rally Design Sweden with integrated tow hooks.",
+    "Suspension: Öhlins TTX25 coilovers (4-way adjustable, 200mm travel) with custom-valved Saab 900-specific spring rates (8kg/mm front, 6kg/mm rear) and polybushings from SuperPro (part #SPF1001K).",
+    "Interior: Sparco Pro2000 FIA-spec bucket seats with Saab 900-specific mounting brackets, OMP 8-way rally harnesses, and a custom aluminum dash with Stack ST8000 gauges (boost, oil temp, fuel pressure) and a Motec C125 dash logger."
+  ]
+}

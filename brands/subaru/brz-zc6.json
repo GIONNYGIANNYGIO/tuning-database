@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "BRZ ZC6",
+  "prestazioni": [
+    "FA20 (4U-GSE) engine: Full forged internals with JE 9.0:1 compression pistons, Manley H-beam connecting rods, and a Tomei 264°/264° camshaft kit with titanium retainers for high-RPM stability (rev limit raised to 8,500 RPM via Haltech Elite 2500 ECU with flex-fuel ethanol mapping).",
+    "Garrett GTX3076R turbocharger (0.63 A/R turbine housing) with a custom 3.5-inch stainless steel exhaust system featuring a Tomei 4-2-1 equal-length header and a GReddy Revolution RS 3.5-inch cat-back with 76mm titanium tips, paired with an AEM X-Series wideband AFR sensor for closed-loop tuning.",
+    "KW Suspensions Clubsport 3-way coilovers with adjustable rebound (16 clicks), compression (12 clicks), and adjustable top mounts, paired with Cusco 22mm front and 24mm rear adjustable sway bars and Whiteline front and rear subframe lockout bushings for chassis rigidity."
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit with custom carbon fiber overfenders (3M 2080 gloss black wrap) and a Seibon carbon fiber hood (Type 2 with integrated NACA ducts) to reduce front-end lift by 18% at 120 mph.",
+    "Work Meister S1 3P 18x9.5 +38 front and 18x10.5 +45 rear wheels with Toyo R888R 245/40/18 and 275/35/18 tires, paired with DBA 5000 Series two-piece rotors and AP Racing CP6640-2600 calipers (6-piston front, 4-piston rear) with Ferodo DS2500 pads.",
+    "Custom rear diffuser by Varis Japan with integrated dual 3.5-inch exhaust exits and a carbon fiber GT wing (1,200mm chord, 250mm height) on adjustable mounts for 150 lbs of downforce at 100 mph, finished with a full Respray in Subaru WR Blue Pearl (code: 26J) with matte black accents."
+  ]
+}

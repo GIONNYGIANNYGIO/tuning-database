@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "BRZ ZD8",
+  "prestazioni": [
+    "FA24 (4th-gen Subaru boxer) forced-induction conversion using a Garrett GTX3076R Gen II turbo (0.82 A/R, 62mm compressor inducer) with a custom 3.5\" V-band downpipe and Tomei 4-2-1 stainless header (2.5\" primaries, 3.0\" collector) to retain flat-plane torque characteristics while targeting 350whp on E85 (18psi peak boost, 7,200rpm redline).",
+    "Full Motec M150 ECU standalone management with individual cylinder fuel trims, flex-fuel sensor integration, and launch control mapped to a Tilton 7.25\" twin-disc clutch (ceramic puck, 800Nm torque capacity) paired with a Cusco Type-RS 2.2L lightened flywheel for FA24 rev-happy response.",
+    "Ohlins Road & Track DFV coilovers (24-way compression, 24-way rebound damping) with custom valving for ZD8-specific subframe geometry, paired with Cusco front strut tower bar (22mm hollow section) and rear subframe brace (3-point triangulated, 1.5mm thick 7075-T6 aluminum) to eliminate FA24-induced chassis flex under lateral loads."
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (ZD8-specific fenders, 30mm extended flares, carbon fiber overfenders) with custom front canards (3D-printed PETG, 45-degree angle for 15kg downforce at 120km/h) and a custom rear diffuser (50mm Gurney flap, 3D-printed ABS with carbon fiber weave overlay).",
+    "Seibon Carbon ZD8 roof (1.2mm thick pre-preg, 3K twill weave) with integrated rain gutter delete and custom A-pillar covers (carbon fiber, 0.8mm thick) to reduce frontal area drag by 8% (Cd 0.31 to 0.285).",
+    "Custom LED taillight conversion (Osram Oslon Black Flat S 625nm red LEDs, 1,200mcd intensity) with sequential turn signals (20ms delay, 100ms sweep time) and a full-width rear light bar (Philips Lumileds Luxeon Z ES, 4,000K color temp) integrated into the Rocket Bunny rear bumper."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "IMPREZA WRC97",
+  "prestazioni": [
+    "Engine: EJ22G (2.2L flat-4, closed-deck, forged internals) with Prodrive-spec Garrett GT2860RS-5 turbocharger (0.82 A/R, 60mm compressor inducer, 56 trim) and custom 3.5-inch titanium downpipe with 304 stainless steel wastegate dump tubes",
+    "Fuel System: Bosch Motorsport 0280155966 high-flow injectors (850cc/min) paired with a Pierburg CWA50 high-pressure fuel pump (250L/h at 10 bar) and Prodrive-spec fuel rail with -6AN braided lines",
+    "Suspension: Öhlins TTX40 4-way adjustable dampers with WRC-spec spherical bearing top mounts, Prodrive 25mm front and 22mm rear adjustable anti-roll bars, and custom polybushings for subframe and control arms"
+  ],
+  "estetica": [
+    "Aerodynamics: Prodrive WRC97-spec carbon fiber front splitter with 3D-printed vortex generators, rear diffuser with Gurney flap (30mm height), and custom aluminum rear wing supports with adjustable angle (0-12 degrees)",
+    "Body: Carbon fiber hood with functional NACA ducts (EJ22G-specific heat extraction), Prodrive WRC97-style fender flares (25mm wider than stock) with carbon fiber reinforcement, and custom aluminum door skins with integrated side exit exhaust cutouts",
+    "Interior: Sparco Pro 2000 carbon fiber racing seats with 6-point Schroth Profi II harnesses, Prodrive WRC97-spec aluminum shift knob with quick-release mechanism, and custom carbon fiber dashboard overlay with Motec C125 digital dash integration"
+  ]
+}

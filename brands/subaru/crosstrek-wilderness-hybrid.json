@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "CROSSTREK WILDERNESS HYBRID",
+  "prestazioni": [
+    "Hybrid-specific ECU reflash for the FB20D e-HEV (engine code) using a Cobb Accessport v3 with a custom Stage 1+ Hybrid map, optimizing the 2.0L DOHC 16-valve boxer's direct injection timing and the e-motor's torque split (0-60 mph reduced by 0.8s via 15% more aggressive regenerative braking calibration).",
+    "Garrett GT1549V variable-geometry turbocharger (VGT) upgrade for the FB20D e-HEV, paired with a GrimmSpeed 3-port electronic boost control solenoid and a custom 3-inch downpipe (T304 stainless, ceramic-coated) to eliminate turbo lag and achieve 24 psi peak boost (stock: 14 psi), targeting 280 whp (stock: 182 whp) with a supporting fuel system upgrade (ID1000x injectors + Walbro 450 LPH in-tank pump).",
+    "Ohlins Road & Track DFV coilovers (Subaru-specific valving) with 20mm front and 15mm rear adjustable ride height, paired with Cusco 22mm front and 19mm rear adjustable sway bars (Type RS) and Whiteline front camber bolts (-2.5° adjustment) to eliminate understeer in high-speed hybrid torque vectoring scenarios."
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (Crosstrek-specific, 3-piece FRP construction) with integrated carbon fiber front splitter (50mm overhang) and rear diffuser (30mm ground clearance), finished in 3M Matte Military Green (WRB alternative) with gloss black accents on the fender flares.",
+    "Seibon Carbon CS-200 hood (OEM replacement, 30% weight reduction) with a custom 2-inch central vent (functional, ducted to the Garrett turbo) and a Vortex Generator strip (Aeroflow Dynamics) to reduce lift at 80+ mph by 12%.",
+    "Enkei Raijin III wheels (17x8.5 +35 offset, 5x100 PCD) in Hyper Silver with Toyo Open Country M/T Trail tires (225/65R17, 3PMSF-rated) and custom laser-etched Subaru Hybrid badges (replacing the Wilderness logo) on the center caps, paired with DBA 5000 Series rotors (slotted, 2-piece) and Ferodo DS2500 pads for hybrid regenerative braking compatibility."
+  ]
+}

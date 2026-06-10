@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "IMPREZA WRX RALLY SPEC",
+  "prestazioni": [
+    "Engine: EJ257 (closed-deck, forged internals) with a Garrett GTX3582R turbocharger (0.82 A/R turbine housing, 62mm compressor inducer) paired with a Tomei 8.5:1 compression ratio forged piston kit and Manley I-beam connecting rods for 450whp on E85 fuel with a Cobb Accessport v3 Stage 3+ tune (targeting 22psi peak boost, 3000rpm spool, and 8,500rpm redline with 11.5:1 AFR at peak power).",
+    "Drivetrain: OS Giken Super Lock LSD (front and rear) with a PPG straight-cut 5-speed dog engagement gearset (1st: 2.785, 2nd: 1.944, 3rd: 1.400, 4th: 1.033, 5th: 0.789) and a Cusco 2.5-way rear differential with 80% lockup under power and 40% on decel, mated to a Tilton twin-disc carbon clutch (7.25\" diameter, 1,200lb clamping force).",
+    "Suspension/Handling: Öhlins TTX40 4-way adjustable coilovers (24-way rebound, 22-way compression, 30mm front/28mm rear piston diameter) with spherical bearing top mounts (front: 5x100mm PCD, rear: 5x114.3mm PCD) and Whiteline adjustable anti-lift kit (front) + rear toe arms (camber adjustable to -3.5°). Braking: AP Racing 6-pot CP8860 calipers (355mm front rotors, 330mm rear) with Ferodo DS2500 pads and Motul RBF660 brake fluid (500°F boiling point)."
+  ],
+  "estetica": [
+    "Aero: Voltex Type-3R widebody kit (carbon fiber, 30mm extended fenders, integrated canards) with a custom 3D-printed ABS front splitter (25mm overhang, 3-stage dive planes) and a Rally Armor mud flap set (polyurethane, laser-cut Subaru logo).",
+    "Exterior: STI RA-inspired carbon fiber hood (vented, 3.5kg weight reduction) with a custom 3M 1080 Gloss Black wrap (matte finish on roof and mirrors) and Hella Rallye 3000 Supertones (7\" diameter, 100W H3 bulbs, clear lenses with yellow covers).",
+    "Interior: Recaro SPG-XL Kevlar bucket seats (Schroth 6-point harnesses, FIA-approved) with a custom half-cage (TIG-welded 4130 chromoly, 6-point main hoop, gusseted rear legs) and a Momo Prototipo steering wheel (350mm diameter, suede, quick-release hub). Sparco Evo QRT-K racing pedals (aluminum, adjustable bias) and a Defi BF Advance gauge cluster (oil temp, oil pressure, boost, wideband AFR, water temp) mounted on a custom A-pillar pod."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "ROLLS-ROYCE",
+  "model": "SWEPTAIL",
+  "prestazioni": [
+    "Engine: 6.75L V12 (N74B68) twin-turbocharged with a bespoke Garrett GT35R turbo upgrade (85mm compressor, 76mm turbine, billet wheel) paired with a custom 4.5-inch titanium downpipe and Akrapovič 304 stainless steel exhaust system featuring quad 4.25-inch outlets and electronically controlled butterfly valves for backpressure optimization at 3,500 RPM.",
+    "Forced Induction: Custom water-methanol injection system (Snow Performance Stage 3 HD) with dual 550cc/min injectors targeting 22 PSI peak boost, intercooled via a PWR Australia 1,200hp-rated front-mount heat exchanger with dual 12-inch SPAL fans and a secondary coolant loop for the transmission cooler.",
+    "Drivetrain: ZF 8HP95 8-speed automatic transmission reinforced with a Sonnax billet valve body, upgraded torque converter (4,500 RPM stall), and a Quaife ATB differential with 40% preload for aggressive torque vectoring. Custom driveshafts from GKN Driveline with 300M steel yokes and CV joints rated for 1,200 Nm torque."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon fiber body kit by Novitec Torado (Rolls-Royce’s official tuner) featuring a 3D-scanned front splitter with integrated vortex generators, a rear diffuser with active Gurney flap (adjustable via cockpit switch), and a bespoke carbon fiber roof spoiler with a NACA duct for engine bay cooling.",
+    "Wheels & Tires: Forged 24-inch monoblock wheels by HRE (FF16 model) with a 5x185 PCD, 10.5-inch front and 12.5-inch rear widths, wrapped in Michelin Pilot Sport Cup 2 R tires (285/30 R24 front, 325/25 R24 rear) with custom sidewall branding. Air suspension by Air Lift Performance with 3P management and height sensors for dynamic ride control.",
+    "Interior & Lighting: Full Alcantara-wrapped dashboard with diamond-stitched quilted pattern, custom rear lounge seats featuring hand-stitched leather by Poltrona Frau with integrated massage and heating (12-point Shiatsu system). Lighting by Lumileds (Philips) with adaptive RGBW LED matrix headlights (1,800 lumens per bulb) and a laser high-beam system with 600-meter range. Carbon fiber trim by Bcomp (flax fiber composite) for weight reduction."
+  ]
+}

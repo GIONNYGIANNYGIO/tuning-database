@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "FORESTER WILDERNESS",
+  "prestazioni": [
+    "Engine: FA24F (2.4L turbocharged boxer-four) - Cobb Tuning Stage 2+ Open Source Flex Fuel Kit with ethanol sensor (E30-E50 capable) and Cobb Accessport V3 pre-loaded with Wilderness-specific 320 HP / 350 lb-ft torque map, including revised boost targets (22 PSI peak) and optimized AVCS (Active Valve Control System) timing for mid-range torque",
+    "Forced Induction: Garrett GTX3071R Gen II turbocharger (0.82 A/R turbine housing, billet compressor wheel) with TiAL Sport 44mm external wastegate and custom 3.5\" turbo-back exhaust system featuring Burns Stainless 304-grade merge collectors and Vibrant 1799 resonated muffler for backpressure optimization",
+    "Suspension & Handling: Öhlins Road & Track DFV (Dual Flow Valve) coilovers with 8-position adjustable compression/rebound damping, custom valved for Wilderness 1.5\" lift, paired with Whiteline 27mm front / 24mm rear adjustable sway bars and poly bushings (part #KSB738F/KSB738R) to counteract body roll during aggressive off-road articulation"
+  ],
+  "estetica": [
+    "Aero & Protection: Rally Armor Extreme Duty mud flaps (Wilderness-specific pattern) with integrated LED DRLs, paired with a custom 3D-printed carbon fiber front splitter (designed via CAD for 15% downforce increase at 60 MPH) and a JDM STI-style roof spoiler with Gurney flap (3M 1080 vinyl wrap in 'Glacier White Pearl' to match OEM paint code 'K1X')",
+    "Lighting: Diode Dynamics SS3 Pro LED fog light upgrade (5,000-lumen output, 6,000K color temp) with custom HID projector retrofit for the Wilderness-specific LED headlight housings, including Morimoto XB35 HID bulbs (35W, 5,500K) and a GTR Lighting CANbus decoder to eliminate flickering",
+    "Wheels & Tires: Method MR701 VT-Spec wheels (17x8.5, +15mm offset, matte black finish) wrapped in BFGoodrich KM3+ tires (245/65R17, 10-ply rating) with Toyo Open Country M/T Trail (LT265/70R17) as a winter/rock-crawling alternative, paired with Duraflex fender flares (painted in 'Geyser Blue' to match Wilderness trim) for +2\" wider track"
+  ]
+}

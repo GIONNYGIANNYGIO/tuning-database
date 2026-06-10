@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "FORESTER XT",
+  "prestazioni": [
+    "Engine: EJ255 (closed-deck, semi-forged internals) with a Garrett GTX3076R Gen II turbocharger (0.63 A/R turbine housing, 52mm compressor inducer) paired with a Tomei 80mm titanium wastegate for precise boost control at 24 psi peak pressure. Upgraded fuel system includes ID1000x injectors, Walbro 450 LPH in-tank pump, and a Radium Engineering dual-catch can setup to manage crankcase pressure under high boost.",
+    "Drivetrain: PPG 6-speed dog engagement transmission gears with a Cusco Type-RS 1.5-way limited-slip differential (2.5-way preload) and a South Bend Stage 3 daily clutch. The driveshaft is upgraded to a Tomioka Racing carbon fiber unit with CV joints rated for 500 lb-ft of torque.",
+    "Suspension & Handling: Ohlins Road & Track DFV coilovers (22-way adjustable damping, 30mm front/25mm rear ride height drop) with Whiteline adjustable front sway bar (24mm hollow) and rear sway bar (22mm solid). Brembo GT 6-piston front calipers (355mm rotors) and 4-piston rear calipers (330mm rotors) with Ferodo DS2500 brake pads and Motul RBF660 brake fluid."
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny V2 widebody kit (20mm extended fenders, carbon fiber front splitter, and rear diffuser) with a Voltex Type-3 rear wing (carbon fiber, 1,200mm span, 300mm chord) mounted on custom aluminum pedestals. Front bumper lip is replaced with a Seibon carbon fiber JDM-spec STI lip with integrated canards.",
+    "Exterior: Full Respray in Subaru World Rally Blue (SWRT-001) with a 3M Matte Clear Coat overlay. OEM-style JDM Forester XT badges (blacked-out, debadged rear) and Work Emotion CR Kiwami wheels (18x9.5 +35 offset, 5x100 PCD) wrapped in Michelin Pilot Sport Cup 2 tires (255/40R18).",
+    "Interior: Bride Zeta III bucket seats (fixed-back, FIA-approved) with Schroth Profi II 4-point harnesses. Custom roll cage by Cusco (8-point, bolt-in, mild steel) with a Momo Prototipo steering wheel (350mm, suede) and Defi BF Advance gauges (boost, oil pressure, wideband AFR) mounted in a custom A-pillar pod."
+  ]
+}

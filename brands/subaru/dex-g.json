@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "DEX G",
+  "prestazioni": [
+    "Engine swap to a **Subaru EJ207 (Version 8, 2.0L DOHC AVCS, 265ps stock)** with a **Garrett GT2860RS-5 turbocharger** (8.5psi base boost, upgraded to 18psi with a **Tomei M82 80mm titanium wastegate**) and **HKS 264°/264° camshafts** for high-RPM power delivery (380whp target on E85)",
+    "Full **Cosworth forged internals** (pistons, connecting rods, and crankshaft) with **ACL Race Series bearings** and **ARP head studs (200,000psi tensile strength)** to handle 1.5-bar boost on **ID1000x injectors** and a **Walbro 450LPH fuel pump**",
+    "Custom **Kelford 170-T cams** paired with a **Tomei Type-S titanium retainer kit** and **Ferrea 5000-series valves** for optimized airflow, mated to a **GReddy Trust RS Spec intercooler (50mm core)** and **Samco Sport silicone hoses** for consistent IATs under load"
+  ],
+  "estetica": [
+    "**Rocket Bunny V1 (DEX-specific) widebody kit** with **custom carbon fiber overfenders** (hand-laid by **Seibon Carbon**) and **Volk Racing TE37SL 17x9 +38 wheels** (matte gunmetal finish) wrapped in **Yokohama Advan A052 225/45R17 tires**",
+    "**J's Racing DEX-specific front lip spoiler** (FRP construction) with **C-West rear diffuser** and **custom titanium exhaust tip (80mm, dual-wall, by Fujitsubo)** to complement the **Nameless Performance 3-inch cat-back exhaust**",
+    "**Recaro SP-G (JDM-spec) seats** in **black Alcantara with red stitching**, paired with a **Nardi Classic 350mm steering wheel** (deep-dish, perforated leather) and **Defi BF gauges (oil temp, boost, AFR)** mounted in a **custom A-pillar pod**"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "BRZ tS STI",
+  "prestazioni": [
+    "FA20F (direct-injection naturally aspirated) engine: Full Tomei 2.3L stroker kit with forged 99.75mm Mahle pistons, Eagle H-beam rods, and Tomei Type-A 272° camshafts for 250+ hp at 8,000 RPM on E85 fuel, paired with a custom-tuned Haltech Elite 2500 ECU with flex-fuel mapping and individual cylinder trims",
+    "Full STI-derived drivetrain reinforcement: Cusco 2.5-way mechanical LSD with 4.11 final gear ratio, STI Group N carbon driveshaft, and STI-spec rear subframe with polyurethane bushings for reduced power loss under hard launches",
+    "Ohlins DFV (Dual Flow Valve) coilovers with 8kg/mm front and 10kg/mm rear springs, custom valving for the BRZ tS chassis, and STI-specific top mounts for optimized camber and caster adjustments, paired with Cusco front strut bar and rear tower bar for maximum rigidity"
+  ],
+  "estetica": [
+    "STI-commissioned Rocket Bunny V3 widebody kit with carbon fiber overfenders, custom front canards, and a duckbill rear spoiler for aggressive aero balance, finished in STI Crystal White Pearl with matching carbon fiber hood and roof",
+    "STI S209-inspired front bumper lip with integrated LED fog lights and a custom STI grille badge, paired with a custom STI rear diffuser and dual 3.5-inch titanium exhaust tips from Fujitsubo Legalis R",
+    "STI tS-specific interior: Recaro SRD-II front seats with STI embroidered headrests, Alcantara-wrapped STI steering wheel, and a custom STI shift knob with weighted brass insert, complemented by a full STI-branded gauge pod with Defi Advance BF series oil pressure, water temp, and boost gauges (if forced induction is later added)"
+  ]
+}

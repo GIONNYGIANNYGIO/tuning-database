@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "CROSSTREK SPORT",
+  "prestazioni": [
+    "Engine: FB20D (2.0L DOHC AVCS naturally aspirated) - Full bolt-on intake system with K&N Cold Air Intake (Part # 63-3082) paired with a custom 3.5\" velocity stack for optimized airflow and throttle response, replacing the restrictive OEM airbox.",
+    "Exhaust: Full titanium cat-back system by Nameless Performance (4\" dual exit, resonated) with 304 stainless steel mandrel-bent piping and optional 409 stainless steel mufflers for aggressive tone without drone, specifically designed for the FB20D’s firing order.",
+    "ECU & Tuning: OpenECU Stage 2 reflash (via Cobb Accessport AP3-SUB-003) with custom dyno-tuned maps by Torqued Performance, targeting 185-190 WHP (stock: ~152 WHP) via optimized ignition timing, AVCS cam profiles, and fueling adjustments for 93 octane fuel."
+  ],
+  "estetica": [
+    "Aero: Seibon Carbon CS-Type front lip spoiler (OEM+ fitment) and custom 3D-printed rear diffuser by Maxton Design (Crosstrek-specific, no drilling required), paired with a carbon fiber roof wrap by VViViD Air-Tint (Matte Black) to reduce weight and improve aerodynamics.",
+    "Suspension: KW Suspensions Variant 3 coilovers (Part # 35231001) with 8-position adjustable rebound damping and 12mm/14mm front/rear ride height adjustment, paired with Whiteline front sway bar (24mm, Part # BSF75) and rear sway bar (22mm, Part # BSR75) for reduced body roll.",
+    "Wheels & Stance: Enkei PF05 (17x8 +35 ET) in Gloss Black with 225/50R17 Michelin Pilot Sport 4 tires for aggressive fitment, paired with DBA 5000 Series rotors (Part # 52105S) and Ferodo DS2500 brake pads (Part # FDB1617) for improved stopping power."
+  ]
+}

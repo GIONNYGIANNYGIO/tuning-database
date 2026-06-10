@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "DOMINGO",
+  "prestazioni": [
+    "Engine swap to a **Subaru EJ205 (2.0L turbo, 250-280 PS stock)** from a GC8 Impreza WRX, retaining the Domingo's AWD system but upgrading the transmission to a **Subaru 5MT from a Forester SF5 (TZ107Z) with a reinforced clutch (Exedy Hyper Single for EJ-series)**. The EJ205 will be fitted with a **Garrett GT2860RS turbo (0.63 A/R, 60 trim)**, a **Tomei 260° camshaft set (Type-R)**, and a **HKS Hi-Power exhaust with a 2.5\" stainless steel downpipe and a custom 3\" cat-back system** to optimize spool and flow for the Domingo's lightweight chassis (950 kg).",
+    "Fuel system upgrade with a **Walbro 255 LPH in-tank fuel pump**, **ID1000x injectors (1000cc/min)**, and a **Link G4+ Xtreme ECU** tuned on a **Dynapack hub dyno** for precise load-based mapping. The stock intercooler will be replaced with a **GReddy Type-S front-mount intercooler (590x220x76mm)** and paired with a **Mishimoto silicone coupler kit (4-ply, 2.5\" ID)** to eliminate heat soak during repeated hill climbs or track sessions.",
+    "Suspension overhaul with **Tein Flex Z coilovers (Subaru Sambar/Domingo-specific valving, 30-way adjustable damping)** and **Cusco 22mm front / 20mm rear sway bars (Domingo-specific fitment)**. The rear subframe will be reinforced with a **Cusco rear strut tower bar (Domingo-specific)** and **polyurethane bushings (Whiteline KSB726)** to eliminate flex under hard cornering. Braking will be upgraded to **DBA 4000 Series rotors (256mm front, 226mm rear)** with **Hawk HT-10 brake pads** and **Goodridge stainless steel brake lines** for consistent pedal feel."
+  ],
+  "estetica": [
+    "Full **Rocket Bunny V1 (Domingo-specific) widebody kit** with **custom carbon fiber fenders (100mm wider front, 80mm wider rear)** to fit **Work Meister S1 3P 15x7 +38 wheels (185/55R15 Yokohama Advan Neova AD08R tires)**. The kit includes a **custom carbon fiber hood (with a 50mm vent for intercooler airflow)** and a **rear diffuser (3D-printed ABS, Domingo-specific)** to reduce lift at high speeds.",
+    "Exterior lighting replaced with **Morimoto XB LED headlights (H4 retrofit, Domingo-specific housing)** and **Depo Racing JDM-style taillights (clear lens, red/amber LED)**. The front bumper will be modified with a **custom aluminum mesh grille (anodized gold)** and **Seibon carbon fiber lip spoiler (Domingo-specific)** to reduce front-end lift by 15%.",
+    "Interior stripped and reinforced with a **Sparco Pro ADV racing seat (side-mount, Domingo-specific brackets)** and a **Takata Drift II 4-point harness**. The dashboard will be replaced with a **Defi Advance BF gauge cluster (oil pressure, boost, wideband AFR)** and a **Momo Mod.78 steering wheel (350mm, suede)**. The rear cargo area will be fitted with a **custom aluminum half-cage (TIG-welded, Domingo-specific)** for chassis rigidity and rollover protection."
+  ]
+}

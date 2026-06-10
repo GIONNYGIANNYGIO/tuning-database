@@ -1,0 +1,14 @@
+{
+  "brand": "SCOTT",
+  "model": "SUPERCARS ADRENALINE",
+  "prestazioni": [
+    "Engine: 3.5L twin-turbocharged V6 (engine code: *SCOTT SC35TT*), forged internals with Mahle Motorsport pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft. Turbocharged with Garrett GTX5533R Gen II turbos (76mm, 1.15 A/R) on custom SCOTT cast manifolds, supporting 950whp on E85 with a Motec M150 ECU managing fueling via Injector Dynamics ID2000x injectors and a Radium Engineering dual fuel pump hanger.",
+    "Drivetrain: OS Giken 4.11:1 LSD differential with billet aluminum housing, paired with a Tilton triple-disc carbon clutch and a SCOTT-specific Quaife sequential gearbox (6-speed, dog-ring engagement) with a PWR aluminum radiator and custom half-shafts from The Driveshaft Shop (3.5\" chromoly, CV-style).",
+    "Suspension & Chassis: Full Ohlins TTX46 coilovers with 3-way adjustable damping, custom valving for the SCOTT chassis, and spherical bearing top mounts. Full chassis reinforcement via a custom seam-welded roll cage (SCOTT Motorsport-spec, TIG-welded 4130 chromoly) with integrated subframe connectors. AP Racing 6-piston front and 4-piston rear calipers with 380mm and 355mm two-piece rotors, respectively, and Ferodo DS3000 pads."
+  ],
+  "estetica": [
+    "Aerodynamics: Full Rocket Bunny V3 widebody kit (SCOTT-specific mold, carbon fiber construction) with a custom 3D-printed front splitter (integrated air curtains) and a GT-style rear wing (carbon fiber, 1,800mm span, adjustable angle via electric actuators). Underbody features a full-length diffuser with vortex generators and a custom belly pan for optimized airflow.",
+    "Exterior: Custom livery by *Allied Carbon Fiber* (matte deep purple with metallic gold flakes, hand-laid), featuring a one-off *SCOTT Supercars* badge (3D-printed titanium, anodized black) on the hood and trunk. Side skirts and rear bumper modified with *Seibon Carbon* GT-style vents for brake cooling. OEM+ headlight and taillight assemblies with *Lux HID* projectors and sequential LED turn signals (custom coded via Motec PDM).",
+    "Interior: Full *Recaro Pole Position* carbon fiber seats (HANS-compatible, 6-point harnesses by *Schroth Profi II*), wrapped in *Alcantara* with *Scott Supercars* embroidery. Custom *Momo* flat-bottom steering wheel (suede, quick-release hub) with integrated *Motec C127* dash display. Rear seat delete with a custom *VRSF* titanium bolt-in half-cage and a *Radium Engineering* fuel cell (22-gallon, FIA-approved)."
+  ]
+}

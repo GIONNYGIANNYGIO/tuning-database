@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "IMPREZA WRC99",
+  "prestazioni": [
+    "Engine: Replace the stock EJ207 (closed-deck, 8.0:1 CR) with a fully built Prodrive-spec EJ207 featuring forged Mahle Motorsport pistons (9.5:1 CR), Carrillo H-beam connecting rods, and a billet crankshaft from Tomei. Pair with a Garrett GT35R turbocharger (8460R ball-bearing core) and a custom 42mm external wastegate from Turbosmart (Comp-Gate 40) for 450whp on 30psi of boost with E85 fuel.",
+    "Drivetrain: Install a 6-speed sequential transmission from Xtrac (P1046) with a 2.4:1 final drive ratio, reinforced dog rings, and a Sachs twin-disc carbon clutch (240mm). Replace the stock viscous LSD with a Drexler Motorsport mechanical differential (85% lock) for rally-stage durability.",
+    "Suspension: Fit Öhlins TTX40 4-way adjustable coilovers with 2.5-way remote reservoirs, custom valving for gravel/asphalt transition, and spherical bearing top mounts from Whiteline. Pair with Prodrive’s WRC-spec anti-roll bars (24mm front, 22mm rear) and rose-jointed drop links from SuperPro."
+  ],
+  "estetica": [
+    "Aero: Install the exact Prodrive WRC99 factory aero kit, including the carbon fiber front splitter with integrated dive planes, rear diffuser with Gurney flap, and the iconic ‘banana’ rear wing (adjustable angle via quick-release mounts). Use lightweight carbon fiber hood with NACA ducts for intercooler cooling.",
+    "Body: Apply a full STi Rally Blue (51E) respray with 3M 1080 vinyl overlays in ‘Prodrive White’ for the WRC99’s signature stripe pattern. Replace all OEM glass with polycarbonate windows from Lexan (2mm thick) and fit a carbon fiber roof panel from Seibon to reduce weight by 8kg.",
+    "Interior: Install a full FIA-spec roll cage from Safety Devices (8-point, T45 steel) with integrated fire suppression system (Lifeline Zero 360). Replace the stock seats with Sparco Pro 2000 FIA-homologated buckets, and fit a Motec C127 dash logger with GPS lap timer and real-time telemetry."
+  ]
+}

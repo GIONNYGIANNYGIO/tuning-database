@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "BRZ CUP CAR BASIC",
+  "prestazioni": [
+    "FA20 (4U-GSE) engine: Full Tomei 2.2L stroker kit with forged internals (CP pistons, Eagle H-beam rods, Tomei Type-S crankshaft) and Tomei 87mm billet crank pulley for reduced rotational mass, paired with a Garrett GTX3071R Gen II turbocharger (0.63 A/R turbine housing) on a custom 3-inch stainless steel turbo manifold by Full-Race Motorsports, with a Tomei M82 Type-S wastegate for precise boost control (targeting 18 psi on E85)",
+    "Motec M150 ECU with custom race calibration by EcuTek Pro-Racer, featuring launch control (5,500 RPM cut), flat-foot shifting (cut at 7,200 RPM), and individual cylinder fuel trims with wideband lambda feedback from dual AEM X-Series 4100 AFR sensors (pre- and post-cat) for closed-loop E85 tuning",
+    "Full Ohlins TTX40 2-way adjustable coilovers with 30-way rebound damping and 20-way compression damping, paired with Ohlins front and rear camber plates (adjustable to -4.5° front, -3.8° rear) and Cusco 22mm front / 18mm rear adjustable sway bars (3-way stiffness settings) for circuit-specific roll stiffness tuning"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit with carbon fiber fenders (30mm wider front, 40mm wider rear), custom front splitter with 3D-printed Gurney flaps (adjustable angle for downforce tuning), and a GT wing replica from the Toyota 86 TRD Griffon Concept (carbon fiber, 1,500mm span, 300mm chord, 3-position angle adjustment)",
+    "Custom seam-welded and stitch-welded chassis reinforcement by AutoPower Japan, including a full bolt-in roll cage (1.75-inch OD, 0.120-inch wall chromoly) with integrated gussets at the strut towers and rear shock mounts, painted in PPG Deltron DBC9700 'Subaru World Rally Blue' with matte clear coat",
+    "Recaro SP-G TS II front seats (FIA 8862-2009 certified) with Schroth Profi II 6-point harnesses (ASM homologation), paired with a NRG Innovations quick-release steering wheel (350mm diameter, suede-wrapped) and a custom aluminum pedal box by Tilton (adjustable brake bias, 60-40% front/rear split)"
+  ]
+}

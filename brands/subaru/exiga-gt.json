@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "EXIGA GT",
+  "prestazioni": [
+    "Engine: Replace the stock FA20F (2.0L DOHC turbo) internals with forged pistons (JE 2618M, 8.5:1 CR) and Carrillo H-beam connecting rods (PN: 54700-2000) to handle 1.5 bar boost reliably. Pair with a Garrett GTX3582R Gen II turbo (0.82 A/R, 62mm compressor) for 400+ hp at the wheels while maintaining spool under 3,500 RPM.",
+    "Fuel System: Upgrade to a dual Bosch 044 fuel pump setup with a Radium Engineering surge tank (PN: 20-0111) to prevent fuel starvation during lateral G-forces. Injectors: ID1000x (1,000cc/min) with a Cobb Tuning Accessport (PN: AP-SUB-004) for custom E85 mapping (80% ethanol blend).",
+    "Drivetrain: Install a Cusco Type-RS 1.5-way limited-slip differential (PN: 601 008 A) with 45% preload for aggressive AWD torque distribution. Replace the stock 6-speed manual transmission with a reinforced Subaru STI 6MT (PN: TY752VB600) and a South Bend Stage 3 Daily Clutch (PN: SB-6003) for 500 lb-ft torque capacity."
+  ],
+  "estetica": [
+    "Aero: Fit a Varis Japan GT-Wing (3D carbon, 1,700mm span, PN: VW-010) with a custom 3D-printed aluminum mount to clear the Exiga’s rear hatch. Front splitter: Seibon Carbon Type-3 (PN: SBC-EXIGA-FS) with integrated canards (Rocket Bunny PN: RB-03-FC).",
+    "Body: Replace the stock fenders with widebody kits from TRA Kyoto (PN: TRA-EXIGA-WB) in raw carbon fiber, paired with custom 3M Matte Graphite vinyl over the roof and pillars for heat rejection. Side skirts: Vertex Lang (PN: VL-EXIGA-SS) with integrated LED turn signals.",
+    "Interior: Replace the rear seats with a custom Recaro Pole Position (PN: 391.20.01) fixed-back bucket setup, retaining the Exiga’s 7-seat layout. Steering wheel: NRG Innovations Quick Release (PN: NRG-101-SUB) with a Momo Prototipo Evo (330mm, Alcantara). Shift knob: Cusco D1 Spec (PN: 604 001 A) with a weighted titanium insert."
+  ]
+}

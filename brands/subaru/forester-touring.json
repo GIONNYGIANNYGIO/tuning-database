@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "FORESTER TOURING",
+  "prestazioni": [
+    "Engine: FA24F (2.4L turbocharged boxer-4, direct injection, 260 HP stock) – Full forged internals upgrade with Manley 92.8mm forged pistons, Eagle H-beam connecting rods, and ACL Race Series bearings for 30+ psi boost capability. Paired with a Garrett GTX3582R Gen II turbo (0.82 A/R, 62mm compressor, 76mm turbine) on a custom 3.5-inch stainless steel turbo-back exhaust with a Tomei 4-2-1 equal-length header and GReddy Revolution RS 3.5-inch cat-back system.",
+    "Fuel System: Injector Dynamics ID1700x fuel injectors (1,700cc/min) with a Radium Engineering dual-catch can setup and a Walbro 450 LPH in-tank fuel pump. ECU reflash via Cobb Accessport (Stage 3+ map) with custom tuning by Torqued Performance for E85 compatibility (flex-fuel sensor required).",
+    "Drivetrain & Handling: STI 6-speed manual transmission swap with a PPG close-ratio gear set (2.92, 2.05, 1.45, 1.03, 0.78, 0.69) and a South Bend Clutch Stage 3 daily disc. Suspension overhaul with Ohlins Road & Track DFV coilovers (8-way adjustable damping, 20mm drop), Whiteline 24mm front and 22mm rear sway bars, and Cusco front strut tower brace. Braking upgraded to DBA 5000 Series rotors (355mm front, 330mm rear) with Ferodo DS2500 pads and Goodridge stainless steel brake lines."
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny V3 widebody kit (Forester-specific, 3-piece overfenders, carbon fiber front lip, and rear diffuser) with a custom 3M Gloss Black wrap and red pinstriping. Rear wing replaced with a Seibon Carbon GT-style duckbill spoiler (200mm height, adjustable angle).",
+    "Lighting: Diode Dynamics SS3 Pro LED headlights (CRI 90+, 5,000K) with Morimoto HID projector retrofit and custom sequential turn signals. Rear lighting upgraded to Spec-D Tuning LED taillights with sequential startup animation and smoked lenses.",
+    "Interior: Bride Zeta III bucket seats (fixed-back, FIA-approved) with Schroth Profi II 6-point harnesses. Custom roll cage by Custom Cages (8-point, TIG-welded, 1.75x0.120 DOM tubing) with bolt-in door bars. Steering wheel replaced with a NRG Innovations 350mm deep-dish suede wheel (Momo quick-release hub) and AiM MXS Strada digital dash (10Hz GPS, lap timer, boost gauge)."
+  ]
+}

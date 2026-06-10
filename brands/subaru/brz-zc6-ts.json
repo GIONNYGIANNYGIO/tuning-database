@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "BRZ ZC6 tS",
+  "prestazioni": [
+    "FA20 (4U-GSE) engine: Full forged internals with JE 9.5:1 compression pistons, Manley H-beam connecting rods, and a Tomei Type-S billet crankshaft for 8,500 RPM reliability, paired with a Garrett GT3076R turbocharger (0.86 A/R turbine housing) and custom 3-inch stainless steel equal-length exhaust manifold by Full-Race Motorsports",
+    "Motec M150 ECU with custom flex-fuel mapping (E85 compatible) and dual Bosch 0280158861 1,000cc injectors, supported by a Radium Engineering dual-catch can setup and an AEM 380LPH in-tank fuel pump with a Walbro 450LPH lift pump for consistent fuel delivery under 400+ HP",
+    "Ohlins Road & Track DFV coilovers with 8-position adjustable compression/rebound damping, custom-valved for the ZC6 tS chassis, paired with Cusco 22mm front and 24mm rear adjustable sway bars and Whiteline front upper control arms (camber adjustable) for aggressive track alignment (-3.5° front camber, -2.8° rear)"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (ZC6-specific) with carbon fiber front fenders, overfenders, and rear quarter panels, paired with a custom 3M Gloss Black wrap and red pinstriping for the tS trim accents",
+    "Seibon Carbon CS-II dry carbon fiber hood with integrated NACA ducts and a custom titanium hood pin kit by Cusco, matched with a Varis Japan rear diffuser and GT wing (1,800mm chord, 300mm height, 3D-printed aluminum endplates)",
+    "Work Meister S1 3P 18x9.5 +38 front and 18x10.5 +45 rear wheels in Hyper Silver, wrapped in Michelin Pilot Sport Cup 2 R tires (245/40/18 front, 275/35/18 rear), with custom red Brembo GT 6-piston calipers and 355mm two-piece rotors up front"
+  ]
+}

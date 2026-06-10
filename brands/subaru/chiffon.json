@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "CHIFFON",
+  "prestazioni": [
+    "Engine swap to a **Subaru EN07X** (660cc turbocharged inline-4, 64mm bore x 60mm stroke) with forged internals: **Tomei 87mm forged pistons**, **Manley 123mm H-beam connecting rods**, and **Tomei Type-M crankshaft** for 10,000 RPM reliability. Pair with a **Garrett GT1549S turbocharger** (custom 0.63 A/R turbine housing) and **HKS Racing Suction Reloaded** intake manifold for 180+ HP in a 660cc Kei-car package.",
+    "Full **Koyoritsu Racing** custom ECU reflash with **Haltech Elite 1500** standalone management, integrating **AEM X-Series wideband O2 sensor** and **Link G4+ knock control module** for aggressive ignition timing (15° BTDC) and 1.5 bar boost on **E85 fuel**. Upgraded fuel system includes **Walbro 450LPH in-tank pump**, **ID1000x injectors**, and **Radium Engineering fuel pressure regulator**.",
+    "Drivetrain reinforcement with **PPG 6-speed dog engagement gearset** (1st: 2.972, 2nd: 2.080, 3rd: 1.592) in a **Nismo RS5F50A transmission**, paired with a **OS Giken Super Lock LSD** (2-way, 40% preload) and **Spec Stage 4+ clutch** (multi-disc, 6 puck). Chassis stiffening via **Cusco Type-RS strut tower bars** (front/rear) and **Hardrace adjustable rear toe arms** for RWD-like handling dynamics."
+  ],
+  "estetica": [
+    "**Liberty Walk LB-WORKS** Kei-car-specific widebody kit (FRP construction) with **custom 30mm overfenders** and **carbon fiber side skirts**, designed to fit **Work Meister S1 3P 15x7 +38 wheels** (185/50R15 Federal 595 RS-R tires). Front bumper replaced with **Seibon Carbon Kevlar** lip splitter and **custom aluminum radiator support** for weight reduction.",
+    "**RE Amemiya** full-length **carbon fiber hood** (vented, 3kg weight savings) with **custom hidden LED DRLs** integrated into the grille. Rear features a **Voltex Type-3 rear wing** (200mm chord, 3D-printed aluminum mounts) and **custom titanium exhaust tip** (76mm diameter, **Sparco Titanium** construction) exiting through a **custom rear diffuser** with **Vortex Generators** for downforce.",
+    "**Bride Zeta III** Kei-car-spec bucket seats (carbon-Kevlar shell, 4-point harnesses) with **Sabelt 6-point camlock harnesses** and **custom aluminum pedal box** (brake bias adjuster, **AP Racing CP5220 calipers** with **DBA 5000 Series rotors**). Interior stripped with **carbon fiber door cards**, **Momo Prototipo steering wheel** (320mm, suede), and **Defi BF Advance gauges** (boost, oil temp, wideband) mounted on a **custom aluminum A-pillar pod**."
+  ]
+}

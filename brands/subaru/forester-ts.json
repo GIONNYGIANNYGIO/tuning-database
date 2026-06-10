@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "FORESTER tS",
+  "prestazioni": [
+    "Engine: FA20F (2.0L DOHC 16-valve turbocharged flat-four) – Full forged internals upgrade with Manley 87mm forged pistons, Eagle H-beam connecting rods, and a Tomei 272° camshaft kit for optimized high-RPM power delivery (target: 350whp on E85).",
+    "Turbocharger: Garrett GTX3071R Gen II with a custom 0.63 A/R turbine housing and billet compressor wheel, paired with a Tomei M82 cast manifold and a GReddy Profec B Spec II boost controller for precise 22-24 psi mapping.",
+    "Fuel System: Injector Dynamics ID1050x fuel injectors, Walbro 450 LPH in-tank pump, and a Radium Engineering dual-catch can setup with AN-6 lines to prevent oil dilution in the FA20F’s direct-injection system."
+  ],
+  "estetica": [
+    "Aero: Varis Japan Forester tS-specific widebody kit with carbon fiber front fenders, rear quarter panels, and a duckbill rear spoiler (JDM-spec, not the USDM STI lip).",
+    "Wheels: Work Emotion CR Kiwami 18x9.5 +38 offset with Yokohama Advan A052 255/40R18 tires for aggressive stance and track-ready grip.",
+    "Interior: Bride Zeta III reclining bucket seats with Takata 4-point harnesses, a Nardi Classic 350mm steering wheel, and a Defi BF gauge cluster (oil temp, boost, and wideband AFR) mounted in a custom carbon fiber A-pillar pod."
+  ]
+}

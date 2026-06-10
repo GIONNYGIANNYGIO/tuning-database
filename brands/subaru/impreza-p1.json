@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "IMPREZA P1",
+  "prestazioni": [
+    "Engine: EJ207 (closed-deck, semi-forged internals) with a Tomei 264°/260° (intake/exhaust) camshaft set, upgraded with Tomei Type-B valve springs and titanium retainers to handle 9,000 RPM safely. Pair with a Garrett GT2860RS-5 turbo (0.64 A/R turbine, 0.86 A/R compressor) on a custom 3-inch divorced wastegate manifold (SRS Concepts) for 380-400 WHP on 98 RON fuel with a Cobb Accessport v3 (Stage 2+ map, 22 PSI peak boost).",
+    "Drivetrain: STI 6-speed transmission (TY752VB) reinforced with a PPG straight-cut 1st/2nd gear set (2.35:1/1.95:1 ratios) and a Cusco 1.5-way LSD (28-spline, 45% lock). Clutch: Sachs Performance Twin-Disc (300mm, 800 Nm torque capacity) with a lightweight aluminum flywheel (10.5 kg).",
+    "Suspension/Handling: Ohlins Road & Track DFV coilovers (22-way adjustable damping, 30mm front/25mm rear ride height drop) with Whiteline adjustable front sway bar (24mm, 3-position) and rear sway bar (22mm, 2-position). Polyurethane bushings: SuperPro (front control arms, rear subframe, trailing arms) and spherical bearing conversion for rear lateral links (SPL Parts). Brakes: AP Racing 6-pot CP8370 front calipers (355mm discs, 34mm pads) and 4-pot CP8371 rear calipers (330mm discs, 28mm pads) with Motul RBF 660 brake fluid."
+  ],
+  "estetica": [
+    "Body: Seibon Carbon Fiber Type-30 hood (3.5 kg weight reduction) with a custom 3-inch front splitter (Rocket Bunny V1-style, carbon-Kevlar hybrid) and a Cusco rear diffuser (3-piece, 3D carbon fiber). Rear wing: Voltex Type-5 (1,700mm width, 3D carbon fiber, adjustable angle 0-15°).",
+    "Wheels: Work Emotion CR Kiwami (17x9 +38 front, 17x10 +30 rear) with Yokohama Advan A052 tires (235/40/17 front, 265/35/17 rear). Lug nuts: Project Kics R40 (M12x1.25, closed-end, titanium).",
+    "Interior: Bride Zeta III (fixed-back, carbon fiber shell) with Takata Drift II 4-point harnesses. Steering wheel: NRG Innovations (350mm, suede, quick-release) with a Cusco bolt-in 8-point roll cage (1.75-inch DOM tubing, gusseted joints). Gauges: Defi Advance BF (oil temp, oil pressure, boost, wideband AFR) in a custom A-pillar pod (carbon fiber, 3D-printed mounts)."
+  ]
+}

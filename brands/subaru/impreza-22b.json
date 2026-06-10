@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "IMPREZA 22B",
+  "prestazioni": [
+    "Engine: EJ22G (2.2L flat-four, closed-deck, forged internals) with a Tomei 2.3L stroker kit (83mm crank, 96.9mm forged pistons, and H-beam connecting rods) for a final displacement of 2,387cc, paired with a Garrett GT35R turbocharger (68mm compressor, .82 A/R turbine housing) and a custom 3-inch stainless steel equal-length header by HKS, flowing into a Tomei 3.5-inch titanium exhaust system with a 50mm wastegate dump tube",
+    "Fuel System: Dual Bosch 044 high-flow fuel pumps feeding ID1000x injectors (1,000cc/min) via a Radium Engineering dual catch-can setup, with a Link G4+ Xtreme standalone ECU running a custom 4D ignition map and 30psi boost target on E85 fuel (flex-fuel sensor calibrated via AEM X-Series wideband)",
+    "Drivetrain & Suspension: OS Giken 1.5-way LSD in a reinforced STI Version 6 transmission (close-ratio gears: 3.166, 2.033, 1.478, 1.137, 0.971) mated to a Cusco 2.5-way Type-RS rear differential, with Ohlins Road & Track coilovers (24-way rebound, 18-way compression damping) and spherical bearing front control arms by Whiteline, paired with a Cusco 8-point bolt-in roll cage and a Tilton 7.25-inch twin-plate clutch with a chromoly flywheel"
+  ],
+  "estetica": [
+    "Widebody Conversion: RAYS Volk Racing TE37SL wheels (17x9.5 +22 front, 17x10.5 +22 rear) wrapped in Toyo R888R tires (245/40/17 front, 275/35/17 rear), fitted under a custom Rocket Bunny V2 widebody kit (carbon fiber fenders, front bumper, and rear diffuser) with a 30mm front overfender extension and a 50mm rear overfender extension for aggressive stance and aero optimization",
+    "Aerodynamics: Seibon carbon fiber hood with a 3-inch scoop and NACA ducts for direct intercooler airflow, paired with a custom rear wing by APR Performance (GTC-300 model, 3D carbon fiber, 70-inch span, 12-inch chord, adjustable angle of attack up to 20 degrees) and a Cusco front lip splitter with integrated canards for downforce balance (target: 300kg at 160mph)",
+    "Interior & Details: Bride Zeta III bucket seats (FIA-approved, carbon fiber shell) with Schroth 6-point harnesses, a Momo Prototipo steering wheel (350mm, suede) on a NRG quick-release hub, and a full carbon fiber dashboard overlay by Varis (matching the exterior carbon weave), with a custom gauge cluster featuring Defi BF gauges (boost, oil pressure, water temp, EGT) and a Motec C127 dash logger for real-time telemetry"
+  ]
+}
