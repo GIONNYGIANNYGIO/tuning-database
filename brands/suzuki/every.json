@@ -1,0 +1,14 @@
+{
+  "brand": "SUZUKI",
+  "model": "EVERY",
+  "prestazioni": [
+    "Turbocharger upgrade to a **Garrett GT1241Z** (60mm compressor, 52mm turbine) for the **R06A 658cc DOHC 12V turbocharged** engine, paired with a **HKS Super Power Flow Type-R** front-mount intercooler (25mm core thickness) to handle 1.2 bar of boost while maintaining 95°C intake temps under full load",
+    "Full **Toda Racing** valvetrain overhaul for the R06A, including **Toda 1mm oversized titanium intake valves (32mm)**, **Inconel exhaust valves (27mm)**, **Toda valve springs (10.5kg seat pressure)**, and **Toda camshafts (272° intake, 264° exhaust, 10.5mm lift)** to optimize airflow for 8,500 RPM redline",
+    "Custom **Haltech Elite 2500** standalone ECU with **AEM 3.5bar MAP sensor** and **Motec C125 dash logger**, tuned via **Dynapack hub dyno** for 120+ HP at the wheels on **E85 fuel**, with **ID1000x injectors** and **Walbro 255lph in-tank fuel pump** supporting 1.5 bar boost"
+  ],
+  "estetica": [
+    "**Tommy Kaira M20** widebody conversion kit (FRP construction, 80mm wider rear fenders) with **Volk Racing TE37SL 15x6.5 +38** wheels (185/55R15 Yokohama Advan Neova AD08R tires) and **Tein Flex Z coilovers (30-way damping, 50mm drop)** for aggressive stance",
+    "**C-West** front bumper lip (carbon fiber, 3-piece split design) with **Seibon carbon fiber hood (2x2 twill, 1.5mm thickness, 30% weight reduction)** and **RE Amemiya rear diffuser (polyurethane, 3-fin design)** for JGTC-inspired aero",
+    "**Spoon Sports** side mirrors (FRP, 40% smaller than OEM) and **Bride Leggenda II** racing seats (fixed-back, 1.2kg each) with **Takata 4-point harnesses (FIA 8853/98 standard)** for full Kei-car race spec interior"
+  ]
+}

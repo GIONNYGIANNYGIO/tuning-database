@@ -1,0 +1,14 @@
+{
+  "brand": "SUZUKI",
+  "model": "HUSTLER J STYLE",
+  "prestazioni": [
+    "Engine swap to a turbocharged **R06A** (660cc, DOHC 12V, direct-injection) from the Suzuki Alto Works RS Turbo, retaining the Hustler's AWD system but upgrading the turbo to a **Garrett GT1241Z** with a custom 0.5 bar boost controller for 120 HP (stock: 64 HP). Requires a **HKS Super Power Flow exhaust manifold** and **SARD fuel pump** to handle the increased flow.",
+    "Full **Tein Flex Z coilover suspension** with **Swift Springs** (4kg/mm front, 3kg/mm rear) and **Cusco 22mm front / 19mm rear adjustable sway bars** to eliminate body roll in tight JDM touge corners. Pair with **Project Mu B-Spec brake pads** and **DBA 5000 Series rotors** for consistent stopping power.",
+    "Custom **Haltech Elite 1500 ECU** with **AEM X-Series wideband O2 sensor** for real-time AFR monitoring, paired with a **GReddy Profec B Spec II boost controller** and **HKS SSQV4 blow-off valve** to prevent compressor surge. Use **NGK IFR7F-11P iridium spark plugs** for optimized combustion under forced induction."
+  ],
+  "estetica": [
+    "**Liberty Walk LB Works Hustler-specific widebody kit** (fiberglass fenders, custom front bumper with integrated **Seibon carbon fiber lip**, and rear diffuser) to fit **Work Emotion CR Kiwami 15x7 +38 wheels** wrapped in **Yokohama Advan Neova AD08R 195/50R15 tires**.",
+    "**RE Amemiya GT-II side skirts** and **Vertex Lang II rear wing** (carbon fiber, 300mm height) for aggressive stance and downforce. Paint in **Nismo Heritage Racing Yellow (M30)** with **3M Matte Black vinyl wrap** on the roof and pillars for contrast.",
+    "**Sparco Grid-Q seat covers** (custom-stitched in **Recaro SRD pattern**) paired with **Takata Drift III harnesses** and a **NRG Innovations quick-release steering wheel hub** (adapted for the Hustler's column). Interior trim replaced with **JDM Garage carbon fiber door cards** and **Defi BF Silver gauge cluster** (boost, oil temp, wideband AFR)."
+  ]
+}

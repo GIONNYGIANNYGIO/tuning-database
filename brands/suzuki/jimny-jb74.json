@@ -1,0 +1,14 @@
+{
+  "brand": "SUZUKI",
+  "model": "JIMNY JB74",
+  "prestazioni": [
+    "K15B 1.5L turbocharged inline-4 engine: Full forged internals by Tomei (pistons, connecting rods, crankshaft) with a 9.5:1 compression ratio for boost resilience, paired with a Garrett GT2256S turbocharger (custom-mapped for 0.8 bar peak boost) and a Tomei M82 4-2-1 stainless steel exhaust manifold to optimize spool and flow for the K15B’s 74mm bore spacing.",
+    "Haltech Elite 1500 standalone ECU with custom calibration for the K15B, integrating a 3.5-bar MAP sensor, wideband AEM X-Series UEGO (30-0300), and a Motec C125 dash for real-time monitoring of AFR, boost, and ignition timing (targeting 220-240whp on 98 RON fuel with a 7,500 RPM redline).",
+    "KAAZ 1.5-way mechanical LSD (28-spline, JB74-specific) paired with a 5-speed manual transmission reinforced with a PPG close-ratio gearset (1st: 3.652, 2nd: 2.136, 3rd: 1.379, 4th: 1.030, 5th: 0.820) and a Sachs Performance twin-disc clutch (240mm, 4-pad) to handle increased torque without slip."
+  ],
+  "estetica": [
+    "Liberty Walk LB Works JB74 widebody kit (fiberglass fenders, custom front bumper with integrated LED bar, and rear over-fenders with carbon fiber inserts) paired with a custom 3M Matte Military Green wrap (M227) and JDM-spec yellow turn signals (Koito).",
+    "Ohlins DFV (Dual Flow Valve) 2-way adjustable coilovers (JB74-specific valving, 150mm travel) with custom-length springs (7kg/mm front, 6kg/mm rear) and polybushings from SuperPro (part #SPF0115K) to eliminate flex in the ladder-frame chassis while retaining articulation.",
+    "Carbon fiber hood (Seibon CF-JB74) with a functional NACA duct feeding the K15B’s intercooler (GReddy Type-S front-mount, 50mm core) and a custom rear diffuser (Rocket Bunny RB-JB74) with integrated tow hooks and a titanium exhaust tip (Akrapovic, 76mm diameter) for the Tomei exhaust."
+  ]
+}

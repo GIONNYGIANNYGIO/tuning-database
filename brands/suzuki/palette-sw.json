@@ -1,0 +1,14 @@
+{
+  "brand": "SUZUKI",
+  "model": "PALETTE SW",
+  "prestazioni": [
+    "Engine swap to a K6A turbocharged variant (K6A-T, 660cc, DOHC 12V, found in Suzuki Cappuccino EK or Alto Works RS/X) with a custom billet crankshaft from Tomei and forged pistons by JE (8.5:1 compression ratio for forced induction). Pair with a Garrett GT12 turbo (GT1241Z) and a custom top-mount intercooler from GReddy (Type-S) to handle 1.2 bar of boost, targeting 150 HP at the wheels.",
+    "Full standalone ECU conversion using a Haltech Elite 1500 with Suzuki K6A-specific wiring harness from R&D Sport. Implement a custom fuel system with a Walbro 255 LPH in-tank pump, Injector Dynamics ID725 injectors, and a custom fuel rail from HKS. Tune for E85 compatibility with a flex-fuel sensor from Continental.",
+    "Chassis reinforcement with a custom bolt-in roll cage from Auto Power Japan (APJ) designed specifically for the Palette SW’s unibody, paired with polyurethane bushings from SuperPro (part #SPF0114K) for the rear trailing arms and front control arms. Suspension overhaul with Ohlins Road & Track DFV coilovers (custom valving for K-car weight) and a Cusco front strut tower bar (part #601 540 A)."
+  ],
+  "estetica": [
+    "Full Rocket Bunny/Pandem widebody kit (RB-SZK01) adapted for the Palette SW’s dimensions, including custom carbon fiber overfenders, front bumper canards, and a duckbill rear spoiler. Paint in Nissan Heritage Racing Orange (code: 407) with matte black accents on the roof and pillars.",
+    "Custom rear diffuser from Varis Japan (designed for the Palette SW’s rear bumper) with integrated dual 76mm titanium exhaust tips from Fujitsubo (GSpec Legalis R). Front lip splitter from Seibon Carbon (custom-molded for the Palette SW) with a 3D-printed ABS undertray for improved aerodynamics.",
+    "Interior overhaul with Bride Zeta III bucket seats (custom mounts for the Palette SW’s chassis), a Momo Prototipo steering wheel (350mm, suede), and a custom roll cage padding from Sabelt (fire-retardant, color-matched to the exterior). Replace the stock gauge cluster with a Defi Advance BF series (oil temp, boost, and wideband AFR) in a custom carbon fiber dash panel from AutoTeck Japan."
+  ]
+}

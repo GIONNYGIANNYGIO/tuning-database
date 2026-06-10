@@ -1,0 +1,14 @@
+{
+  "brand": "SUZUKI",
+  "model": "KIZASHI GTS",
+  "prestazioni": [
+    "Engine: J24B 2.4L inline-4 (M16A-derived block, 16-valve DOHC with VVT) forced induction via Garrett GT3076R turbocharger (0.76 A/R, 60mm compressor inducer, 67mm exducer) on a custom cast-aluminum manifold with TIG-welded 304 stainless steel 3-inch downpipe and 3.5-inch titanium-wrapped exhaust system by HKS Hi-Power RS4 (dual 100mm outlets, 304 stainless muffler core).",
+    "Fuel System: Injector Dynamics ID1050x (1050cc/min) high-impedance injectors paired with a Walbro 450 LPH in-tank fuel pump, AEM 340lph external lift pump, and Radium Engineering dual-catch can setup with -8AN lines and Earl’s Performance PTFE fittings. ECU reflash via Cobb Accessport (custom Stage 3+ map) with E85 flex-fuel capability and AEM X-Series wideband AFR gauge (0-5V output) for closed-loop tuning.",
+    "Drivetrain & Suspension: OS Giken Super Lock LSD (2.5-way, 45/80 preload) in a reinforced Suzuki Sport CVT-to-manual conversion kit (6-speed F23A transmission from Honda Accord Euro R, custom bellhousing by PPG, and Tilton 7.25-inch twin-disc clutch). Ohlins Road & Track DFV coilovers (24-way adjustable damping, 30mm front/25mm rear spring rates) with Cusco front strut tower bar (22mm hollow section) and Whiteline rear sway bar (24mm adjustable)."
+  ],
+  "estetica": [
+    "Aero: Veilside Fortune 3 widebody conversion (carbon fiber fenders, front bumper, and rear diffuser) with custom 3D-printed ABS side skirts (molded to OEM rocker panels) and a Seibon carbon fiber GT-style rear wing (1,200mm span, 300mm chord, 30mm adjustable Gurney flap). Front splitter by Rocket Bunny (polyurethane, 50mm overhang) with integrated canards (3D-printed PETG, 150mm length).",
+    "Wheels & Stance: Work Meister S1 3P 19x9.5 +22 front / 19x10.5 +30 rear (5x114.3, 73.1mm hubcentric) with Michelin Pilot Sport Cup 2 R tires (255/35/19 front, 285/30/19 rear). Custom wheel spacers (15mm front, 20mm rear) by Hardrace with extended wheel studs (M12x1.5, 60mm length) and Muteki SR4 lug nuts (closed-end, 60-degree taper).",
+    "Interior & Details: Bride Zeta III reclining bucket seats (Suzuki-specific mounting brackets, FIA 8855-1999 certified) with Schroth Profi II 6-point harnesses. Custom roll cage by Custom Cages (T45 steel, 38mm OD, 2.5mm wall thickness) with integrated fire suppression system (Lifeline Zero 360, 3.6kg Novec 1230). Full Alcantara-wrapped dashboard (Suzuki OEM pattern) with MOMO Mod.78 steering wheel (350mm diameter, suede grip) and NRG quick-release hub."
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "brand": "SUZUKI",
+  "model": "JIMNY DAKAR SPEC",
+  "prestazioni": [
+    "Engine swap to a K15C-GS turbocharged 1.5L inline-4 (from the Suzuki Swift Sport ZC33S) with a Garrett GT2259 turbo, forged internals (CP pistons, Eagle H-beam rods), and a custom 4-2-1 stainless steel header by HKS for optimized exhaust flow and spool characteristics",
+    "Full standalone ECU conversion using a Haltech Elite 2500 with custom wiring harness, paired with a Motec PDM15 for power distribution and precise fuel/ignition mapping tailored to the K15C-GS’s 12.5:1 compression ratio and 98 RON fuel",
+    "Suspension overhaul with Öhlins TTX22M coilovers (2-way adjustable damping) and custom valving for the Jimny’s short wheelbase, paired with Polyurethane bushings from SuperPro (part #SPF0115K) and a reinforced front sway bar from Whiteline (part #BSK009)",
+    "Braking upgrade featuring Brembo GT 4-piston calipers (front) and 2-piston calipers (rear) with 280mm slotted rotors, braided stainless steel lines from Goodridge, and Ferodo DS2500 pads for high-temperature endurance"
+  ],
+  "estetica": [
+    "Custom Dakar-inspired widebody kit by Liberty Walk (LB-JIMNY-DAKAR), featuring carbon fiber fender flares, front/rear bumpers, and a rear diffuser with integrated LED light bar mounts (Rigid Industries D-Series Pro)",
+    "Full exterior wrap in 3M 1080 Gloss Military Green (color #S324) with matte black accents on the roof, mirrors, and grille, paired with a custom hood scoop (Seibon Carbon) for the K15C-GS turbo setup",
+    "Interior overhaul with Recaro SRD-E bucket seats (Suzuki Jimny-specific mounting brackets), a custom roll cage by Custom Cages (T45 steel, MIG-welded), and a Sparco Pro 2000 steering wheel with a quick-release hub, paired with a digital dash from AIM MXS Strada"
+  ]
+}

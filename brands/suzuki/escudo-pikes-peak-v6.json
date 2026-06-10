@@ -1,0 +1,14 @@
+{
+  "brand": "SUZUKI",
+  "model": "ESCUDO PIKES PEAK V6",
+  "prestazioni": [
+    "Replace the stock H27A 2.7L V6 with a fully built H27A Type-R block (forged internals by Tomei, including billet crankshaft, forged pistons with 12.5:1 compression ratio, and Carrillo connecting rods) paired with a custom dry-sump oiling system by Peterson Fluid Systems to handle 10,000+ RPM under Pikes Peak conditions.",
+    "Turbocharger upgrade to a Garrett GT4202R with a 106mm compressor wheel and 94mm turbine, mated to a custom 4-inch titanium exhaust manifold by HKS and a secondary wastegate system (Tial MV-R 60mm) to manage 2.2 bar of boost at 8,500 RPM, feeding into a custom intercooler core by PWR with dual 4-inch inlet/outlet piping.",
+    "Fuel system overhaul featuring a dual Bosch Motorsport 044 high-flow fuel pump setup, Injector Dynamics ID2000x injectors (2,000cc/min), and a Motec M150 ECU with custom Pikes Peak-specific mapping, including anti-lag and launch control strategies optimized for the 156-turn course, paired with a Nitrous Express direct-port NOS system (150hp shot) for altitude compensation."
+  ],
+  "estetica": [
+    "Full carbon fiber widebody conversion using the Rocket Bunny Escudo PP V6 kit (200mm fender flares, custom front splitter with integrated dive planes, and a 1,200mm rear wing with adjustable Gurney flaps by APR Performance), all finished in 3M Matte Graphite with Pikes Peak livery decals by Driftworks.",
+    "Custom roll cage by Custom Cages (T45 steel, 6-point design with integrated fire suppression system by Lifeline, and carbon fiber door bars for weight reduction), paired with a Sparco Pro 2000 seat and Schroth 6-point harnesses, all bolted to a stripped and seam-welded chassis with polycarbonate windows (Lexan 3mm) for weight savings.",
+    "Functional aero package including a custom front diffuser by APR with vortex generators, a rear diffuser by Voltex with integrated exhaust cutouts, and a roof-mounted air scoop by Seibon Carbon feeding the intercooler and engine bay, all coated in Zircotec ThermoHold ceramic heat shielding to manage underhood temperatures."
+  ]
+}

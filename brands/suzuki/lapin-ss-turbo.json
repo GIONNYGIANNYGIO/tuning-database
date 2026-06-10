@@ -1,0 +1,14 @@
+{
+  "brand": "SUZUKI",
+  "model": "LAPIN SS TURBO",
+  "prestazioni": [
+    "Engine: Replace the stock K6A (658cc turbocharged inline-3) internals with forged pistons (JE 8.5:1 compression ratio) and Eagle H-beam connecting rods to handle 1.5 bar boost reliably. Retain the stock crankshaft but polish journals for reduced friction.",
+    "Turbocharger: Swap the OEM IHI RHF3 turbo for a Garrett GT1241Z (52mm compressor, 41mm turbine) with a custom 3D-printed titanium wastegate actuator bracket to fit the K6A’s tight engine bay. Pair with a Tomei 44mm external wastegate (Type-S) and a custom 3-inch stainless downpipe (Spoon Sports design).",
+    "Fuel System: Upgrade to a Walbro 255 LPH in-tank fuel pump with a custom AN-6 feed line and a Sard 800cc/min side-feed fuel rail. Replace injectors with ID1000s (1000cc/min) and pair with a Link G4+ Xtreme standalone ECU (pre-loaded with a K6A-specific base map from HKS). Add a Sard fuel pressure regulator (adjustable 30-80 psi) for fine-tuning under boost."
+  ],
+  "estetica": [
+    "Body Kit: Install the rare 'Lapin SS Turbo Widebody' kit by Rocket Bunny (Pandem), which includes carbon fiber overfenders (20mm wider per side), a duckbill rear spoiler (carbon fiber, adjustable angle), and a front lip splitter with integrated LED fog lights (Osram 5000K). Paint in Suzuki’s original 'Lapin Blue Pearl' (code: 1K0) with matte black accents on the roof and mirrors.",
+    "Wheels: Fit Work Emotion CR Kiwami 2-piece wheels (15x7 +38 offset, 4x100 PCD) with Toyo R888R tires (195/50R15). Use custom titanium wheel spacers (5mm, 4x100 to 4x114.3 conversion) to clear the Rocket Bunny fenders. Powder-coat wheels in 'Gunmetal Grey' with polished lips.",
+    "Interior: Replace the stock seats with Bride Zeta III (fixed-back, suede) and pair with a custom roll cage (TIG-welded 4130 chromoly, 6-point, bolt-in) by AutoPower. Retrim the dashboard in Alcantara (Momo Red) with contrast stitching and add a digital dash (AEM CD-7) mounted on a custom carbon fiber pod. Replace the steering wheel with a Nardi Classic (350mm, suede) and add a quick-release hub (NRG)."
+  ]
+}

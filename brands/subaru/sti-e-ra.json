@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "STI E-RA",
+  "prestazioni": [
+    "Engine: FA24F 2.4L flat-four (closed-deck block, forged internals) with a Garrett GTX5533R turbocharger (84mm billet compressor wheel, 1.15 A/R turbine housing) and a custom 4.5-inch titanium downpipe from Tomei, paired with a GReddy 4-inch titanium exhaust system featuring a 304 stainless steel muffler core for optimized backpressure and weight reduction.",
+    "Drivetrain: STI-spec 6-speed manual transmission reinforced with a PPG carbon-fiber driveshaft and a Cusco 2-way limited-slip differential (1.5-way front, 2-way rear) with 45% lockup under power, complemented by a Tilton twin-disc carbon clutch (7.25-inch diameter) and a Sachs Performance flywheel (12.5 lbs) for rapid rev matching.",
+    "Suspension & Chassis: Öhlins TTX46 MkII coilovers with 3-way adjustable damping (compression, rebound, and high-speed compression) and 24-position ride height adjustment, paired with STI E-RA-specific front and rear sway bars (24mm front, 22mm rear) from Whiteline, along with a full Cusco bolt-on roll cage (8-point, chromoly steel) and a custom carbon-fiber strut tower brace from Varis."
+  ],
+  "estetica": [
+    "Aerodynamics: Varis Japan widebody conversion kit (carbon-fiber fenders, front bumper, and rear diffuser) with integrated canards and a custom 3D-printed rear wing (modeled after the STI S209 but optimized for the E-RA’s aero balance), featuring a dual-element design with adjustable angle of attack (0-15 degrees) and a Gurney flap for downforce tuning.",
+    "Exterior Styling: Full custom paint in Subaru’s historic ‘Sonic Yellow’ (M3Y) with a matte clear coat from PPG, paired with a Rocket Bunny-style front lip spoiler (carbon-fiber) and a custom rear diffuser from Seibon Carbon, incorporating dual exhaust cutouts for the GReddy titanium system. OEM+ headlight housings with Morimoto XB LED projectors and a custom sequential turn signal setup from Diode Dynamics.",
+    "Wheels & Brakes: RAYS Volk Racing TE37V (18x10.5 +30 front, 18x11 +35 rear) in ‘Hyper Silver’ finish, wrapped in Michelin Pilot Sport Cup 2 R tires (275/35/18 front, 305/30/18 rear). Brembo GT-R-spec 6-piston front calipers (380mm rotors) and 4-piston rear calipers (356mm rotors) with custom two-piece rotors from DBA (5000 Series, slotted and cryo-treated) and Ferodo DS2500 brake pads for track endurance."
+  ]
+}

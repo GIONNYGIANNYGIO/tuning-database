@@ -1,0 +1,14 @@
+{
+  "brand": "SUZUKI",
+  "model": "FORENZA",
+  "prestazioni": [
+    "Engine swap to a **GM E-TEC II (LX9) 3.6L V6** (from the Chevrolet Malibu SS) with a **Holley HP EFI standalone ECU** and **Bosch Motorsport 0280158861 high-flow injectors** for a target of 320whp on **Sunoco GT260 race fuel**. The stock **M16A** engine code is discarded due to its 103hp limitations.",
+    "Forced induction via a **Garrett GT2860RS turbocharger** (internally gated, .63 A/R turbine housing) paired with a **GReddy Type-S intercooler** (2.5\" core, 12\" x 24\" dimensions) and **Tial MV-R 44mm wastegate** to manage boost at 18psi. Custom **3\" turbo-back exhaust** fabricated from **304 stainless steel** with a **Borla Pro XS muffler** for optimal scavenging.",
+    "Suspension overhaul with **KW Clubsport coilovers (8-stage compression/rebound damping)** and **Whiteline adjustable rear sway bar (24mm, 3-position)** to eliminate the Forenza's notorious body roll. **Polyurethane bushings (Energy Suspension 9.5101G)** replace all OEM rubber for precision handling. **StopTech ST-60 slotted rotors** and **Hawk HT-10 brake pads** ensure fade-free stopping power."
+  ],
+  "estetica": [
+    "**Rocket Bunny V1 widebody kit** (Forenza-specific, 3-piece overfenders with carbon fiber weave) paired with a **Seibon carbon fiber hood** (vented, 50% weight reduction). **Work Meister S1 3P 18x9.5\" wheels** (ET+15, 5x114.3) wrapped in **Michelin Pilot Sport Cup 2 tires (245/40/18)** for aggressive stance and grip.",
+    "**Custom front splitter** (2.5mm aluminum, 3D-scanned to Forenza bumper contours) with **Aeromotions active rear wing** (dual-element, 60\" span, carbon fiber) for 150lbs of downforce at 120mph. **Vinyl wrap in Avery Dennison Gloss Hyper Red** with **3M Scotchprint matte black accents** for a JDM-inspired livery.",
+    "**Interior stripped** of all non-essentials, replaced with **Sparco Pro2000 seats (FIA-approved, 6-point harnesses)**, **MOMO Mod.78 steering wheel (350mm, suede)**, and **Defi BF gauges (oil pressure, boost, wideband AFR)** mounted on a **custom A-pillar pod**. **Sound deadening removed** and replaced with **Dynamat Xtreme** for weight savings and NVH reduction."
+  ]
+}

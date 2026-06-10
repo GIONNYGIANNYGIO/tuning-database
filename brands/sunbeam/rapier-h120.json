@@ -1,0 +1,14 @@
+{
+  "brand": "SUNBEAM",
+  "model": "RAPIER H120",
+  "prestazioni": [
+    "Engine: Replace the stock 1.7L Rootes Group Type 330 (4-cylinder, 79.5mm bore, 82.55mm stroke) with a fully forged internals build using Mahle Motorsport forged pistons (8.5:1 compression), Cunningham con-rods, and a billet crankshaft from Cosworth (balanced to 0.0005\" tolerance). Pair with a Kent Cams 285-degree duration camshaft (0.450\" lift) and titanium retainers from Supertech Performance.",
+    "Forced Induction: Install a Garrett GT2860RS turbocharger (0.64 A/R turbine housing) with a custom 3\" stainless steel exhaust manifold by Bell Auto Services, mated to a custom air-to-water intercooler (Setrab 40-row core) and a Pierburg 400LPH fuel pump. Tune via a Link G4+ Xtreme standalone ECU with custom maps for 12psi boost (90-octane fuel).",
+    "Suspension & Handling: Replace stock leaf springs with a custom 4-link rear setup using polybushings from SuperPro and adjustable coilovers (Bilstein B16 PSS10, 400lb/in front, 350lb/in rear). Fit a Whiteline 22mm adjustable front sway bar and a Quaife ATB helical LSD (3.89:1 final drive) with a close-ratio Getrag 5-speed gearbox (from the Sunbeam Tiger) reinforced with a Fidanza aluminum flywheel."
+  ],
+  "estetica": [
+    "Body: Full custom widebody conversion using hand-rolled steel fenders (2.5\" wider front, 3\" wider rear) with a carbon fiber hood (3.5kg weight reduction) from Fibre Glass Developments. Fit a custom front splitter and rear diffuser from Kamei (originally designed for the Rapier but discontinued; reproduced by Rare Spares UK).",
+    "Wheels & Tires: 15x8\" Minilite-style wheels (ET15 offset) in gold finish from Revolution Wheels, wrapped in 195/50R15 Toyo R888R semi-slick tires. Brake upgrade to 4-pot Wilwood calipers (1.75\" pistons) with 11\" vented rotors and braided stainless steel lines from Goodridge.",
+    "Interior: Full retrim in black Alcantara with red stitching (Recaro SRD bucket seats, 3\" narrower than stock), custom roll cage by Safety Devices (FIA-spec, bolt-in), and a Momo Prototipo steering wheel (350mm diameter) on a NRG quick-release hub. Gauges: Stack ST800 digital dash with oil pressure, boost, and wideband AFR readouts."
+  ]
+}

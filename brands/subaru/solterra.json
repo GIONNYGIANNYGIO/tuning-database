@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "SOLTERRA",
+  "prestazioni": [
+    "Upgrade to a **Bosch MGU (Motor Generator Unit) performance module** for the **Toyota 2ZR-FXE-based dual-motor AWD system (e-Axle front: 80 kW, rear: 80 kW)** to unlock an additional 30 kW (40 hp) per motor via overclocked inverter firmware (compatible with **Denso Gen3 power control unit**), pushing total system output to **220 kW (295 hp) and 450 Nm of torque** while maintaining OEM thermal limits with a **PWR Radiators aluminum intercooler core** for the liquid-cooled stator windings.",
+    "Install a **Spool Performance lithium-ion battery pack (40 kWh, 800V architecture)** with **custom BMS (Battery Management System) tuning** to reduce weight by 120 kg and improve discharge rates to **600A continuous**, enabling 0-100 km/h in **4.8 seconds** (vs. stock 6.9s) and a **top speed of 210 km/h (electronically limited)**. Pair with a **ZF 8-speed automatic transmission (8HP51)** modified with **Sonax full-synthetic ATF (Type ZF Lifeguard 8)** and a **VAICO transmission cooler** to handle increased torque.",
+    "Replace the OEM **Toyota TNGA-K platform subframes** with **Cusco Type-RS carbon-fiber reinforced subframes** and **Whiteline adjustable rear toe arms (Part #KTA103)** to eliminate flex under regenerative braking loads. Add **Tein Flex Z coilovers (Part #VSD40-C1SS4)** with **custom valving for 1,800 kg/m spring rates** and **Motul Hybrid 0W-20 ester-based fluid** to optimize damper response for the Solterra’s 2,150 kg curb weight."
+  ],
+  "estetica": [
+    "Fit a **Liberty Walk LB Works widebody kit (Solterra-specific, Part #LB-SOLTERRA-WB)** with **custom carbon-fiber fenders (25mm extended per side)** to accommodate **Work Emotion CR Kiwami wheels (20x9.5 +35 front, 20x11 +40 rear)** wrapped in **Michelin Pilot Sport Cup 2R tires (265/35/20 front, 295/30/20 rear)**. The kit includes **functional carbon-fiber side skirts with integrated air curtains** to reduce drag by 8% at 120 km/h.",
+    "Install a **Seibon Carbon full carbon-fiber roof (Part #CF-SOLTERRA-ROOF)** with **3M Matte Black Wrap (2080 series)** on the A-pillars to reduce weight by 18 kg and lower the center of gravity. Pair with **Vland LED sequential taillights (Part #VL-SOLTERRA-TL)** and **Morimoto XB LED headlights (Part #42302-HB4)** with **custom DRL delete plates** for a stealth OEM+ look.",
+    "Add a **Rocket Bunny GT wing (Part #RB-SOLTERRA-GT, 1,800mm span)** with **adjustable carbon-fiber endplates** and **GReddy RS Type-S rear diffuser** to generate **120 kg of downforce at 160 km/h**. The diffuser features **integrated Gurney flaps** and **3D-printed ABS vortex generators** to manage airflow separation. Complete the aero package with **APR Performance carbon-fiber front splitter (Part #CF-100130)** and **custom aluminum underbody panels** to seal the floor."
+  ]
+}

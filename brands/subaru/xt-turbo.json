@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "XT TURBO",
+  "prestazioni": [
+    "Engine: ER27 2.7L Flat-6 Turbo (145hp stock) – Full forged internals with Manley 87mm forged pistons, Eagle H-beam connecting rods, and ACL Race Series bearings for 12:1 compression. Upgraded oil pump from a Subaru SVX (EG33) for improved lubrication under high boost.",
+    "Turbocharger: Garrett GT2860RS-5 (ball-bearing) with a custom 3-inch stainless steel downpipe and Tomei 4-2-1 equal-length headers, paired with a GReddy Type-S blow-off valve for the ER27’s unique intake manifold design.",
+    "Fuel & Ignition: Walbro 450LPH in-tank fuel pump, Injector Dynamics ID1000x injectors, and a Link G4+ Xtreme standalone ECU with custom ER27-specific maps. NGK Iridium IX spark plugs gapped at 0.028\" for optimized ignition under 18psi of boost."
+  ],
+  "estetica": [
+    "Body Kit: Rocket Bunny V1 XT-specific widebody kit (fiberglass) with custom front canards and a carbon fiber duckbill spoiler, retaining the original pop-up headlights but with Hella DE lenses for JDM-style illumination.",
+    "Wheels: Work Meister S1 3P 16x9 +15 (front) and 16x10 +25 (rear) in Gunmetal, wrapped in Toyo R888R 225/50/16 and 255/45/16 tires for staggered fitment. Custom hubcentric spacers (15mm front, 25mm rear) to fill the arches.",
+    "Interior: Bride Zeta III bucket seats with Takata 4-point harnesses, Momo Prototipo steering wheel (350mm), and a full Alcantara dash/door panel retrim by Status Racing. Custom gauge pod with Defi BF gauges (boost, oil temp, wideband AFR) mounted in the original climate control slot."
+  ]
+}

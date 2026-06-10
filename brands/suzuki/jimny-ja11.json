@@ -1,0 +1,14 @@
+{
+  "brand": "SUZUKI",
+  "model": "JIMNY JA11",
+  "prestazioni": [
+    "Engine swap to a naturally aspirated **F6A (657cc, 3-cylinder, 12-valve SOHC)** with a **TODA Racing Stage 2 camshaft (264° duration, 8.5mm lift)** and **HKS Hi-Power 4-2-1 header** for optimized exhaust scavenging, paired with a **Sard 60mm throttle body** to improve airflow into the **GReddy Type-S intercooler (if forced induction is later added)**",
+    "Suspension overhaul with **Ohlins DFV (Dual Flow Valve) 2-way adjustable coilovers (50mm stroke, 400lb/in springs)** and **SuperPro polyurethane bushings (part #SPF0116K) for the front control arms** to eliminate flex, combined with **Whiteline 22mm adjustable rear sway bar (part #BKR97X)** to reduce body roll during aggressive off-road articulation",
+    "Forced induction via **IHI RHF3 turbocharger (TD03-10T, .48 A/R turbine housing)** with a **custom 3-inch stainless steel downpipe (fabricated by Tomei for the F6A)** and **AEM 3.5bar MAP sensor** to support **8-10psi of boost**, controlled by a **Haltech Elite 1500 ECU (with Suzuki F6A base map)** and cooled by a **Setrab 13-row oil cooler (part #20130-06000)**"
+  ],
+  "estetica": [
+    "Full **Liberty Walk LB Works JA11 widebody kit (fiberglass fenders, custom front bumper, and rear diffuser)** with **custom 3D-printed inner fender liners (PETG material)** to accommodate **15x8 +25 Enkei Raijin wheels (ET25, 5x139.7 PCD)** wrapped in **BFGoodrich KM3 215/75R15 tires**",
+    "Custom **carbon fiber hood (made by Seibon for the JA11)** with **functional NACA ducts** to direct airflow to the **Mishimoto aluminum radiator (part #MMRAD-JIM-95)** and **SPAL 12-inch slim fan (part #VA16-AP70/LL-12)** for improved cooling under load",
+    "Interior stripped and reinforced with a **Sparco Pro2000 seat (part #00778NRBK)** mounted on a **Corbeau GTS II seat bracket (part #50101)** and a **custom aluminum dashboard overlay (CNC-machined by Jegs for the JA11)** featuring **AEM X-Series gauges (boost, oil temp, wideband AFR)** in a **custom 3D-printed pod (PLA+ material, mounted on the A-pillar)**"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "SUZUKI",
+  "model": "KIZASHI AWD",
+  "prestazioni": [
+    "Engine: J24B 2.4L DOHC 16V (M16A-derived block) with forged internals including Manley H-beam connecting rods (PN: 14090-4A) and JE Pistons 87.5mm forged slugs (PN: 368885) for 12.5:1 compression, paired with a Garrett GT3076R turbocharger (0.82 A/R turbine housing) and custom 3-inch stainless steel downpipe by HKS (PN: 41034-AK002) with 304-grade flex section",
+    "Drivetrain: OS Giken Super Lock LSD (PN: OS-TC11-280) for the AWD transfer case, mated to a PPG 6-speed sequential gearbox (PN: PPG-6SQ-001) with straight-cut gears and a Sachs Performance twin-disc clutch (PN: 3000951001) rated for 650Nm torque",
+    "Suspension: Ohlins Road & Track DFV coilovers (PN: SUZ-KIZ-04) with 24-way adjustable damping, custom-valved for the Kizashi's 5x114.3 bolt pattern, paired with Whiteline adjustable rear sway bar (PN: BSR75XZ) and polyurethane bushings (SuperPro PN: SPF0119-KIT) for subframe reinforcement"
+  ],
+  "estetica": [
+    "Aero: Veilside Fortune 03 widebody conversion kit (PN: VS-F03-KIZ) with carbon fiber overfenders, front splitter, and ducktail spoiler, including custom 3D-printed ABS undertray for the AWD system's front differential",
+    "Wheels: Work Emotion CR Kiwami 19x9.5 +22 front and 19x10.5 +30 rear (5x114.3, 73.1mm hubcentric) with Toyo R888R 255/35/19 and 285/30/19 tires, using custom 15mm spacers (Hubcentric PN: HC-5114-15) for fender clearance",
+    "Interior: Bride Zeta III bucket seats (PN: BR-802-Z3) with custom Suzuki-specific side mounts, paired with a NRG Innovations quick-release steering wheel hub (PN: NRG-101-SUZ) and a Defi BF Advance gauge cluster (PN: DF11501) mounted on a custom A-pillar pod (3D-printed PETG, 0.8mm wall thickness)"
+  ]
+}

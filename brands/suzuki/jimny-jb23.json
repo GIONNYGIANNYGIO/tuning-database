@@ -1,0 +1,14 @@
+{
+  "brand": "SUZUKI",
+  "model": "JIMNY JB23",
+  "prestazioni": [
+    "Engine swap to a **K10C BoosterJet** (1.0L turbo, 111 PS) from the Suzuki Swift Sport (ZC33S), retaining the JB23's 4WD system with a custom bellhousing adapter (e.g., **Clutch Masters FX500** twin-disc clutch) and **HKS Hi-Power exhaust manifold** for optimized turbo spool on the stock **IHI RHF3** turbocharger",
+    "Full **BC Racing BR Type ER** coilover suspension with **32-way adjustable damping**, **Swift Springs 10kg/mm front / 8kg/mm rear**, and **Whiteline KTA101** anti-roll bars to counteract the JB23's 1,050mm wheelbase flex",
+    "Forced induction via **Garrett GT1544V** turbo (hybridized with **IHI RHF3 compressor wheel**) on a **custom 3D-printed intake manifold** (e.g., **Suzuki Sport CNC port-matched**), paired with **AEM 30-0300** wideband O2 sensor and **Haltech Elite 1500 ECU** for closed-loop boost control (targeting 1.2 bar on **Motul 300V 5W-40** oil)"
+  ],
+  "estetica": [
+    "**Liberty Walk LB-JIMNY** widebody kit (fiberglass fenders, custom rear quarter panels) with **Rocket Bunny-style overfenders** (30mm wider track) and **Work Equip 03** 15x8 ET-10 wheels (5x139.7 PCD) wrapped in **BFGoodrich KM3 215/75R15** tires",
+    "**Seibon Carbon** hood (JB23-specific, 30% weight reduction) with **custom heat extractor vents** (modeled after **R34 GT-R N1 ducts**) and **Mugen-style aluminum tow hooks** (front/rear, **JDM-spec M10x1.25 thread**)",
+    "**Custom LED taillight conversion** using **Osram LEDriving SL 12V** bulbs in **JB23 OEM housings** (retained for legality) with **Vland sequential turn signals** (plug-and-play harness) and **Carbonio CA-1000** side mirrors (foldable, 18% smaller than OEM)"
+  ]
+}

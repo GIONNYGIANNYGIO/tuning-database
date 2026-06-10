@@ -1,0 +1,14 @@
+{
+  "brand": "SUZUKI",
+  "model": "ALTO TURBO RS",
+  "prestazioni": [
+    "Engine: R06A 658cc turbocharged inline-3 (stock: 64PS/98Nm) – Full forged internals upgrade with Tomei 82mm forged pistons, Eagle H-beam connecting rods, and ACL Race Series bearings to handle 250PS+ reliably. Stock crankshaft retained with balanced and polished journals for high-RPM stability.",
+    "Turbocharger: HKS GT-SS 15G turbo kit (custom-mapped for R06A) with 38mm wastegate actuator, TiAL MV-R 38mm external wastegate, and custom 3.5-inch stainless downpipe (no catalytic converter) feeding into a GReddy Revolution RS 76mm cat-back exhaust with 2.5-inch piping and 50mm muffler core.",
+    "Fuel & Ignition: Haltech Elite 1500 standalone ECU with flex-fuel sensor, ID1000x injectors (custom flow-matched for R06A), Walbro 255lph in-tank fuel pump, and HKS Hi-Power ignition coils with NGK R7437-9 spark plugs gapped at 0.028 inches. Custom 3D-printed intake manifold with 45mm throttle body and HKS Super Power Flow Type-R air filter."
+  ],
+  "estetica": [
+    "Body: Veilside Fortune 03 widebody kit (custom-fitted for Alto RS) with carbon fiber front splitter, rear diffuser, and overfenders (30mm wider front, 40mm wider rear). Full respray in Nissan GT-R Nismo Lime Yellow (code: M3Y) with matte black roof and mirror caps.",
+    "Wheels & Suspension: Work Meister S1 3P 15x7 +38 wheels (185/50R15 Yokohama Advan Neova AD08R tires) with custom 5x100 to 4x100 hubcentric adapters. Tein Flex Z coilovers (custom valved for Alto RS) with 20mm front camber plates and Cusco rear pillowball upper mounts. Cusco 22mm front sway bar and 18mm rear sway bar.",
+    "Interior: Bride Zeta III bucket seats (custom-molded for Alto RS) with Takata 4-point harnesses, NRG quick-release steering wheel hub, and Defi BF Advance gauges (oil pressure, boost, and wideband AFR) mounted in a custom carbon fiber A-pillar pod. Full sound deadening with Dynamat Extreme and custom Alcantara headliner."
+  ]
+}

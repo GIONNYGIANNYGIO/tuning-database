@@ -1,0 +1,14 @@
+{
+  "brand": "SUZUKI",
+  "model": "ALTO WORKS RS/R",
+  "prestazioni": [
+    "F6A turbocharged 657cc inline-3 engine (engine code: F6A-T) upgraded with a HKS GT-SS turbocharger (specifically the GT-SS 2530 model, optimized for the F6A's 0.40 A/R turbine housing) paired with a Tomei 4-2-1 stainless steel exhaust manifold and a custom 2.5-inch titanium exhaust system by Fujitsubo Legalis R with a 70mm burnt titanium tip for reduced backpressure and weight savings of 4.2kg over stock",
+    "Haltech Elite 1500 standalone ECU with a custom 3D-printed intake manifold (polyamide 12, SLS-printed by Voxeljet) featuring individual throttle bodies (ITBs) from Jenvey Dynamics (25mm diameter, model DCOE-25) and a custom fuel system with 6x ID1000cc injectors (Injector Dynamics) fed by a Walbro 450LPH in-tank pump, calibrated for 1.5 bar of boost (stock turbo limit) with a 20% ethanol blend (E20) for knock resistance and 220hp at 8,500 RPM",
+    "Full drivetrain reinforcement: OS Giken Super Lock limited-slip differential (LSD) with a 2.5-way torque bias ratio (40/60 front/rear split), custom 4.875 final drive ratio (stock is 4.388) via a KAPS Precision 5-speed dogbox transmission (sequential shift, straight-cut gears) with a Tilton 7.25-inch twin-plate ceramic clutch (184-tooth flywheel, 1,200kg clamping force), and a custom aluminum driveshaft by Drive Shaft Shop (7075-T6 alloy, 30% lighter than stock)"
+  ],
+  "estetica": [
+    "Full Rocket Bunny V1 widebody kit (Suzuki Alto HA24S-specific, 30mm extended fenders front/rear, carbon fiber overfenders with integrated LED turn signals) paired with a custom front splitter by Seibon Carbon (2x2 twill weave, 120mm overhang, 3D-scanned for HA24S chassis) and a custom rear diffuser by APR Performance (3-piece, carbon fiber, with integrated brake ducts for the rear drums-to-disc conversion)",
+    "Ohlins Road & Track DFV coilovers (custom valving for the HA24S chassis, 30-way adjustable damping, 50mm front/45mm rear spring rates, 30mm drop from stock ride height) with custom top mounts by Cusco (polyurethane bushings, 20% stiffer than stock) and a custom strut tower brace by C-West (chromoly steel, 1.2mm wall thickness, bolt-on for HA24S)",
+    "Full interior overhaul: Bride Zeta III bucket seats (Suzuki Alto-specific mounting brackets, FIA 8855-1999 certified) with Takata 4-point harnesses (Schroth-style, 2-inch webbing), custom roll cage by Auto Power (6-point, mild steel, 1.75-inch diameter, MIG-welded to HA24S chassis with gussets at all stress points), and a custom carbon fiber dashboard by Varis (2x2 twill, 1.2mm thickness, integrated AIM MXS Strada 7-inch dash with CAN bus integration for the Haltech ECU)"
+  ]
+}

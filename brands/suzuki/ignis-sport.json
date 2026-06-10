@@ -1,0 +1,17 @@
+{
+  "brand": "SUZUKI",
+  "model": "IGNIS SPORT",
+  "prestazioni": [
+    "Engine: M13A (1.3L DOHC 16V VVT) forced induction via HKS GT-SS Supercharger Kit (5-7 psi, 180-200whp) with custom billet crank pulley and HKS Super Power Flow SSQV blow-off valve for precise boost control",
+    "Exhaust: Fujitsubo Authorize R 4-2-1 stainless header (1.75\" primaries) paired with a custom 2.25\" straight-pipe system terminating in a Tomei 80mm titanium tip, deleting the rear muffler for optimal scavenging",
+    "Suspension: Tein Flex Z coilovers (front: 30-way damping, 20mm drop; rear: 25-way damping, 15mm drop) with Cusco front strut bar (22mm hollow section) and Whiteline adjustable rear sway bar (24mm, 3-position)",
+    "Drivetrain: OS Giken Super Lock LSD (2-way, 40% preload) with custom 2.5L Motul Gear 300 fluid, paired with a Spec Stage 3+ clutch (multi-disc, 6 puck) and lightweight flywheel (3.8kg) for rapid engagement",
+    "ECU: Haltech Elite 1500 standalone ECU with custom M13A-specific fuel and ignition maps, integrated with AEM X-Series wideband O2 sensor (30-0300) and HKS EVC boost controller (0-30 psi range)"
+  ],
+  "estetica": [
+    "Aero: Veilside Fortune 03 widebody conversion kit (FRP construction) with custom front splitter (30mm overhang) and rear diffuser (25mm ground clearance), paired with a Seibon carbon fiber hood (Type 2, 50% weight reduction)",
+    "Wheels: Work Emotion CR Kiwami (15x7 +38, 4x100 PCD) in Hyper Silver with Toyo R888R tires (195/50R15), shod with Project Kics R40 lug nuts (M12x1.25, closed-end)",
+    "Lighting: Philips Ultinon Pro9000 LED headlight bulbs (H4, 6500K) with Morimoto D2S HID projectors (35W, 5500K) and custom C-West JDM-style rear LED taillights (smoked lens, sequential turn signals)",
+    "Interior: Bride Zeta III bucket seats (fixed-back, FIA-approved) with Takata 4-point harnesses (6-point bolt-in, SFI 16.1 certified), paired with a Nardi Classic 350mm steering wheel (perforated leather) and Defi BF Advance gauges (oil temp, boost, wideband AFR)"
+  ]
+}

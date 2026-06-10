@@ -1,0 +1,14 @@
+{
+  "brand": "SUZUKI",
+  "model": "ALTO WORKS RA",
+  "prestazioni": [
+    "F6A turbocharged 657cc inline-3 engine: Replace stock turbo with a Garrett GT1241Z (52mm compressor, 41mm turbine) paired with a custom 3.5-inch stainless steel downpipe and HKS Hi-Power 4-2-1 exhaust manifold for optimized spool and 18psi peak boost on E85 fuel",
+    "Forged internals: Tomei 87mm forged pistons (8.5:1 CR), Eagle H-beam connecting rods, and ACL Race Series bearings with a Tomei Type-M 264° camshaft (11.5mm lift) for 9,500 RPM redline and 180whp on a Dynojet chassis dyno",
+    "ECU and fueling: Haltech Elite 1500 standalone ECU with dual Bosch 0280158002 1,000cc/min injectors, Walbro 255lph in-tank fuel pump, and a custom 3-bar MAP sensor setup for E85 compatibility, tuned via dyno with a 22° ignition advance at 7,000 RPM"
+  ],
+  "estetica": [
+    "Carbon fiber widebody conversion: Varis Japan Alto Works RA-specific carbon fiber fender flares (30mm wider front, 40mm wider rear) with custom rolled rear quarter panels to clear Work Meister S1 3P 15x7 +38 wheels (185/50R15 Yokohama Advan Neova AD08R tires)",
+    "Aero package: C-West Japan front bumper with integrated 3D-printed carbon splitter (20mm overhang) and a custom 3-piece carbon fiber rear diffuser (120mm height) paired with a Seibon carbon fiber hood (5kg weight reduction) featuring a 50mm vent for turbo heat extraction",
+    "Interior: Bride GIAS II bucket seats (fixed-back, 8kg each) with custom Suzuki-specific mounting brackets, Takata 4-point harnesses, and a Momo Mod.78 steering wheel (320mm diameter) on a NRG quick-release hub, with a full Alcantara dash overlay and custom carbon fiber gauge pod for Defi Advance BF gauges (boost, oil temp, wideband AFR)"
+  ]
+}

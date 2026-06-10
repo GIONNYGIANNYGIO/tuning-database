@@ -1,0 +1,14 @@
+{
+  "brand": "SUZUKI",
+  "model": "JIMNY JB64",
+  "prestazioni": [
+    "K15B 1.5L naturally aspirated engine (R06A-derived block) with a custom forced-induction setup using a Garrett GT1544 turbocharger (50mm compressor wheel, 0.50 A/R turbine housing) paired with a Tomei 260° camshaft (11.5mm lift) and a custom 3-inch stainless steel exhaust featuring a HKS Hi-Power Super Sound muffler for optimized backpressure and acoustic tuning",
+    "Ohlins DFV (Dual Flow Valve) 2-way adjustable coilovers with 30-way rebound damping and 12-way compression damping, specifically valved for the JB64’s 2,250mm wheelbase and 1,395kg curb weight, paired with Whiteline adjustable front and rear sway bars (22mm front, 19mm rear) to mitigate body roll in high-g off-road scenarios",
+    "Custom ECU remapping via Haltech Elite 1500 standalone ECU with flex-fuel compatibility, optimized for 98 RON fuel and E85 blends, featuring a 3D ignition map with 12x12 resolution, individual cylinder fuel trims, and a launch control strategy tuned for the JB64’s 4.101 final drive ratio and 215/75R15 BFGoodrich KO2 tires"
+  ],
+  "estetica": [
+    "Liberty Walk LB Works JB64-specific widebody kit (fiberglass fenders, front bumper, and rear quarter panels) with a 50mm extended wheelbase conversion, paired with custom 15x8.5 ET0 Volk Racing TE37SL wheels in Gunmetal Bronze, wrapped in 215/75R15 Yokohama Geolandar G015 tires for a 30mm increase in track width",
+    "Custom carbon fiber hood (Seibon Carbon) with a 50mm functional scoop aligned with the K15B’s throttle body for ram-air induction, paired with a custom aluminum radiator support and a Mishimoto 2-row aluminum radiator (22mm core thickness) to manage increased thermal loads under forced induction",
+    "Rear-mounted custom aluminum roof rack (Prinsu Design) with integrated LED light bar (Baja Designs Squadron Pro) and a front-mounted Warn Zeon 10-S winch (10,000lb capacity) with synthetic rope, paired with a custom front skid plate (ARB 4x4 Accessories) and rear diff guard (Suzuki OEM reinforced with 5mm aluminum overlay)"
+  ]
+}

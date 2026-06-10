@@ -1,0 +1,14 @@
+{
+  "brand": "SUZUKI",
+  "model": "ALTO RS",
+  "prestazioni": [
+    "Replace the stock R06A 658cc DOHC 12V turbocharged engine's turbo with a **Garrett GT1241Z** (60mm compressor, 41mm turbine) for a 30% increase in airflow, paired with a **HKS Super SQV4 blow-off valve** to prevent compressor surge under aggressive shifts.",
+    "Install a **Toda Racing R06A forged piston kit** (8.5:1 compression ratio) with **Toda Racing H-beam connecting rods** and **ACL Race Series bearings** to handle 250+ hp while maintaining reliability, coupled with a **Jun Auto R06A stroker crankshaft** (69mm stroke) for a 726cc displacement.",
+    "Upgrade the stock ECU to a **Haltech Elite 1500** with a **custom R06A-specific fuel map**, integrating **ID1000x injectors** (1000cc/min) and a **Walbro 255 lph fuel pump** to support E85 flex-fuel tuning, while adding a **GReddy Profec B Spec II boost controller** for precise turbo pressure management (targeting 1.5 bar peak boost)."
+  ],
+  "estetica": [
+    "Fit a **C-West RS Type-F widebody kit** (JDM-spec, fiberglass construction) with **custom 50mm overfenders** to accommodate **Work Emotion CR Kiwami wheels** (15x7 +38 offset, 185/50R15 tires) and **Tein Flex Z coilovers** (30mm drop) for aggressive stance.",
+    "Install a **Spoon Sports carbon fiber hood** (R06A-specific, 30% weight reduction) with **custom NACA ducts** for intercooler airflow, paired with a **J's Racing rear diffuser** (polyurethane, bolt-on) and **SARD side skirts** (JDM-spec, ABS plastic) for aerodynamic balance.",
+    "Replace all exterior lighting with **PIAA LP530 fog lights** (H11 bulb, 55W), **Depo Racing JDM-spec clear corner lights**, and a **custom LED taillight setup** (using **Osram LEDriving SLG191** bulbs) with **Smoked Tints by VViViD** (20% VLT) for a stealth OEM+ look."
+  ]
+}

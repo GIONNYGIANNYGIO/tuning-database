@@ -1,0 +1,14 @@
+{
+  "brand": "SUZUKI",
+  "model": "CAPPUCCINO",
+  "prestazioni": [
+    "F6A (657cc turbocharged) engine rebuild with forged internals: Tomei 87mm forged pistons (8.5:1 compression), Eagle H-beam connecting rods, and ACL Race Series bearings for 12,000 RPM reliability. Paired with a Garrett GT12 turbo (GT1241Z, .41 A/R turbine housing) on a custom 3-layer stainless steel manifold by HKS, flowing 220hp at 1.2 bar boost with a 38mm external wastegate (Tial MV-R).",
+    "Full standalone ECU conversion using a Haltech Elite 1500 with individual cylinder fuel and ignition trims, integrated with a Link G4+ knock control module and AEM X-Series wideband O2 sensor (30-0300) for closed-loop AFR targeting 11.8:1 under boost. Custom 3D-printed intake manifold with ITB (individual throttle bodies) from Jenvey Dynamics (40mm bore) and velocity stacks for optimized airflow.",
+    "Drivetrain reinforcement: OS Giken Super Lock LSD (2-way) with 4.100 final drive ratio, paired with a Tilton twin-disc carbon clutch (7.25\" diameter) and a Cusco Type-RS 1.5-way limited-slip differential. Transmission synchros upgraded to ATS carbon fiber units, and the driveshaft replaced with a custom 3-piece aluminum unit from Driveshaft Shop (rated for 300hp)."
+  ],
+  "estetica": [
+    "Full Rocket Bunny PB-CP900 widebody kit (FRP construction) with extended front fenders (+50mm), rear quarter panels (+60mm), and a custom ducktail spoiler (carbon fiber, 3D-scanned for Cappuccino chassis). Front bumper replaced with a Seibon carbon fiber lip (JDM-spec, 20mm lower than OEM) and integrated LED turn signals (Philips Ultinon Pro9000).",
+    "Ohlins DFV (Dual Flow Valve) coilovers with 30-way compression/rebound damping adjustability, paired with Cusco front strut tower bar (22mm diameter, 7000 series aluminum) and a Cusco rear lower tie bar (adjustable, 2-point). Wheels: Work Meister S1 3P (15x7 +38 front, 15x8 +35 rear) in matte gunmetal, wrapped in Toyo R888R tires (185/50R15 front, 195/50R15 rear).",
+    "Interior stripped and reinforced with a full Cusco bolt-in roll cage (8-point, FIA-spec, 4130 chromoly) and Sparco Pro2000 seats (carbon fiber shell, 6-point harnesses). Dashboard replaced with a custom carbon fiber panel housing a Motec C127 digital dash (12.3\" display) and a Defi BF gauges pod (oil pressure, boost, and EGT). Steering wheel: NRG Innovations Quick Release (50mm deep dish, suede grip) with integrated AIM MXS Strada data logger buttons."
+  ]
+}

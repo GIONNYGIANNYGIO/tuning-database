@@ -1,0 +1,14 @@
+{
+  "brand": "SUZUKI",
+  "model": "ALTO WORKS HA36S",
+  "prestazioni": [
+    "Engine: R06A 660cc turbocharged inline-3 (stock internals reinforced with Tomei forged pistons and Eagle H-beam connecting rods, maintaining 8.9:1 compression ratio for high-boost reliability). Turbo upgrade to Garrett GT1241Z with 3D-printed titanium compressor housing (custom-machined by HKS for R06A compatibility) and 0.63 A/R turbine housing for spool under 3,500 RPM. External wastegate (Tial MV-R 38mm) with custom stainless steel dump tube routed to HKS Hi-Power SSQV blow-off valve.",
+    "Fuel System: Injector Dynamics ID1000x injectors (side-fed, R06A-specific adapter plates by Sard) with Radium Engineering fuel rail and Walbro 450LPH in-tank pump. ECU reflash via EcuTek ProECU with custom dyno-tuned map (targeting 22psi peak boost on E85, 18psi on pump gas) and AEM X-Series wideband O2 controller for closed-loop AFR targeting 11.5:1 on E85.",
+    "Drivetrain: OS Giken Super Lock LSD (custom 1.5-way, 40% lock under power, 60% on decel) with reinforced HA36S-specific differential mounts (polyurethane bushings by Whiteline). Clutch Masters FX400 twin-disc clutch (ceramic puck, 6-paddle floater plate) with lightweight aluminum flywheel (10.5lb, balanced by Fidanza). Transmission: Close-ratio 5-speed (stock ratios retained but synchros upgraded to carbon fiber by ATS Racing) with custom short-throw shifter (Cusco Type-RS) and solid shifter bushings (Energy Suspension)."
+  ],
+  "estetica": [
+    "Body Kit: Rocket Bunny V1 HA36S-specific widebody kit (front fenders extended 30mm, rear 40mm) with carbon fiber overfenders (dry carbon, 2x2 twill weave) and custom aluminum rivets (Aircraft Spruce). Front bumper lip: Seibon carbon fiber RS-style splitter with integrated canards (3D-printed PETG, adjustable angle). Rear diffuser: Varis Japan 3-piece carbon fiber (HA36S-specific, bolt-on with no cutting).",
+    "Aero: Custom aluminum rear wing (dual-element, 1,200mm span, 300mm chord) with Gurney flap (adjustable via quick-release knobs) and carbon fiber endplates (designed in-house, CFD-optimized for 0.45 Cd at 120mph). Underbody: Full-length aluminum belly pan (0.8mm thickness, riveted to chassis) with integrated NACA ducts for intercooler and oil cooler airflow. Hood: Seibon carbon fiber vented hood (dual 80mm vents, heat-wrapped R06A turbo manifold visible).",
+    "Wheels/Tires: Work Meister S1 3P 15x7 +38 (front) and 15x8 +35 (rear) in gloss black with titanium hardware (ARP extended studs). Tires: Yokohama ADVAN Neova AD08R 195/45/15 (front) and 225/40/15 (rear) on custom 5mm spacers (Hubcentric, 6061-T6 aluminum). Brake System: Front: DBA 4000 Series rotors (280mm, 2-piece with aluminum hats) and Project Mu B-Spec pads with custom stainless steel braided lines (Goodridge 74-series). Rear: Stock drums replaced with Wilwood Dynalite 4-piston calipers and 220mm rotors (HA36S-specific brackets by Kei Office)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "SUZUKI",
+  "model": "ALTO WORKS",
+  "prestazioni": [
+    "F6A (657cc turbocharged DOHC 12V) engine rebuild with forged internals: Tomei 85mm forged pistons (8.5:1 compression), Eagle H-beam connecting rods, and a billet crankshaft from HKS. Upgraded valvetrain with Tomei Type-R camshafts (264° duration, 8.5mm lift) and Supertech titanium retainers.",
+    "Garrett GT1549 turbocharger (custom .48 A/R turbine housing) with a custom 3-inch stainless steel exhaust manifold by Trust/GReddy, paired with a Tomei 44mm wastegate and HKS SSQV blow-off valve. Front-mount intercooler kit by GReddy (Type-45) with custom piping and a Koyorad aluminum radiator for cooling.",
+    "Haltech Elite 1500 standalone ECU with custom mapping for E85 fuel (flex-fuel compatible), paired with a Link G4+ knock block and AEM X-Series wideband O2 sensor. Fuel system upgrades include a Walbro 255lph in-tank pump, ID1000x injectors, and a Sard 60mm fuel pressure regulator."
+  ],
+  "estetica": [
+    "Rocket Bunny V1 aero kit (Alto Works-specific) with carbon fiber front bumper, overfenders, and ducktail spoiler. Custom widebody conversion with hand-rolled steel fenders to accommodate 15x7 +38 Work Meister S1 3P wheels (185/50R15 Yokohama Advan Neova AD08R tires).",
+    "Recaro SRD-II seats (JDM-spec) with custom bolt-in harness bar by Cusco (Type-3), paired with Takata Drift III 4-point harnesses. Full interior strip with sound deadening removal and a custom roll cage by AutoPower (8-point, bolt-in, with gusseted joints).",
+    "Custom livery by Veilside (inspired by the 1990s JGTC Alto Works race cars) with matte black base, neon green accents, and sponsor decals (HKS, Trust, and Endless). OEM+ headlight restoration with Hella H4 bulbs and custom LED taillights by Jun Auto."
+  ]
+}

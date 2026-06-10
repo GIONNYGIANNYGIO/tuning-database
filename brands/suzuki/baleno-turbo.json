@@ -1,0 +1,14 @@
+{
+  "brand": "SUZUKI",
+  "model": "BALENO TURBO",
+  "prestazioni": [
+    "Engine: Replace the stock M13A turbocharged 1.3L inline-4 (engine code: M13AW) with a forged internals build featuring Mahle Motorsport forged pistons (83.5mm, 9.5:1 CR), Eagle H-beam connecting rods, and a Tomei 260° duration camshaft kit for optimized airflow. Pair with a Garrett GT2860RS turbocharger (0.63 A/R turbine housing) and a custom 3-inch stainless steel downpipe by HKS for reduced backpressure.",
+    "Fuel System: Upgrade to a Walbro 450 LPH in-tank fuel pump and injectors from ID1000 (1000cc/min) to support the increased airflow. Install a Link G4+ Xtreme standalone ECU with a custom M13AW-specific base map, including launch control and anti-lag strategies for rally-style performance. Add a Turbosmart Kompact 40mm external wastegate for precise boost control (target: 1.5 bar / 21.8 psi).",
+    "Drivetrain & Cooling: Swap the stock 5-speed manual transmission for a Suzuki Swift Sport (ZC32S) 6-speed manual with a Cusco Type-RS limited-slip differential. Reinforce the drivetrain with a PWR radiator (core thickness: 52mm) and an HKS Super Power Flow intercooler (front-mount, 600x300x76mm) to maintain intake temps under 50°C during sustained boost. Replace the clutch with an Exedy Hyper Twin Clutch Kit (stage 2) for 300+ Nm torque capacity."
+  ],
+  "estetica": [
+    "Aero: Install a Rocket Bunny Baleno-specific widebody kit (version 2, fiberglass construction) with overfenders extending 50mm per side. Pair with a custom carbon fiber front splitter by Seibon and a Voltex Type-3 rear wing (2000mm width, 300mm height) for downforce. Add a custom vented hood (carbon fiber, 3-layer weave) with dual NACA ducts to feed the intercooler.",
+    "Suspension & Wheels: Lower the car with Ohlins Road & Track DFV coilovers (adjustable damping, 30-way compression/rebound) and polyurethane bushings from SuperPro (part #SPF0115K) for the front control arms. Fit Volk Racing TE37SL wheels (15x8 +25 ET, 4x100 PCD) with Toyo R888R tires (195/50/15) for track use. Add Cusco front strut tower bars (22mm diameter, 1.2mm wall thickness) and a Cusco 4-point rear subframe brace for chassis rigidity.",
+    "Interior & Details: Replace the stock seats with Bride Zeta III (fixed-back, FIA-approved) and a Takata Drift II 4-point harness. Install a Defi BF Advance multi-gauge cluster (boost, oil temp, oil pressure) and a Momo Mod.78 steering wheel (350mm diameter, suede grip). Add a custom roll cage by Custom Cages (6-point, TIG-welded 4130 chromoly) with door bars and harness bar for safety. Exterior accents include a full de-chrome treatment, JDM-spec yellow fog lights (PIAA 520), and a custom livery by Fatlace Designs (inspired by the 1990s WRC Suzuki Escudo)."
+  ]
+}

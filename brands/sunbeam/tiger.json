@@ -1,0 +1,14 @@
+{
+  "brand": "SUNBEAM",
+  "model": "TIGER",
+  "prestazioni": [
+    "Engine swap to a Ford 289ci (4.7L) Windsor V8 with a forged rotating assembly from Eagle Specialty Products (ESP), featuring a 4.125\" stroke crankshaft, H-beam connecting rods (ESP PN: 15000), and forged aluminum pistons (Mahle Motorsport PN: 53435) for a 12.5:1 compression ratio, paired with a custom-ground Comp Cams hydraulic roller camshaft (PN: 35-000-8) with 248°/254° duration and 0.600\"/0.610\" lift for high-RPM power",
+    "Forced induction via a Garrett GT35R turbocharger (PN: 700177-5001S) with a custom T4/T3 hybrid manifold fabricated by Tiger Racing Developments (UK), utilizing a Turbosmart 45mm Hyper-Gate45 wastegate (PN: TS-0505-1001) and a Precision Turbo & Engine 50mm external wastegate (PN: 50650-1) for boost control, feeding into a custom air-to-water intercooler system with a PWR radiator (PN: 20001) and a Davies Craig EWP150 electric water pump (PN: 9150)",
+    "Fuel system overhaul with a Holley Dominator EFI system (PN: 556-111) controlling dual Bosch 044 high-flow fuel pumps (PN: 0 580 254 952) and eight 1000cc/min ID1000 injectors (PN: 415-1000), paired with a custom 3\" stainless steel exhaust system featuring Burns Stainless 1.75\" primary headers (PN: 175-4-289) and a MagnaFlow 2.5\" cat-back (PN: 16670) with a straight-pipe design for maximum flow"
+  ],
+  "estetica": [
+    "Full custom widebody conversion using Tiger Racing Developments' (UK) fiberglass fender flares (PN: TRD-FF-65), extending the rear track by 3\" and the front by 2.5\" to accommodate 17x9.5\" and 17x11\" BBS RS-GT wheels (PN: 09179300 and 09179301) with 245/40R17 and 295/35R17 Michelin Pilot Sport Cup 2 tires (PN: 104200 and 104202)",
+    "Custom front splitter and rear diffuser from Tiger Racing Developments (PN: TRD-SPL-65 and TRD-DIFF-65), fabricated from carbon fiber with integrated brake cooling ducts, paired with a custom aluminum rear wing (PN: TRD-WING-65) with a 3\" chord and adjustable angle of attack for downforce tuning",
+    "Full interior retrim in black Alcantara with red stitching by Cobra Seats (UK), featuring a custom roll cage (PN: COB-65-RC) with integrated harness bar, Sparco Pro ADV seats (PN: 00779NRB), and a MOMO Mod.78 steering wheel (PN: 1000.78.18B) with a quick-release hub, paired with a custom dashboard overlay in carbon fiber with Smiths gauges (PN: 3001/00) for oil pressure, boost, and fuel pressure monitoring"
+  ]
+}

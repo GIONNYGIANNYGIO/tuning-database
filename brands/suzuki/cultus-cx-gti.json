@@ -1,0 +1,14 @@
+{
+  "brand": "SUZUKI",
+  "model": "CULTUS CX GTI",
+  "prestazioni": [
+    "Engine swap to a G13B 1.3L DOHC 16V inline-4 (from the Suzuki Swift GTi) with a forged crankshaft (JE Pistons 87mm forged pistons, Eagle H-beam connecting rods) and a custom billet camshaft (Toda Racing G13B Stage 2 cams, 272° duration, 10.5mm lift) for high-RPM power delivery (180+ HP with forced induction).",
+    "Forced induction via a Garrett GT2860RS turbocharger (internally gated, .64 A/R turbine housing) paired with a custom top-mount intercooler (GReddy Type-S) and a Tomei 44mm wastegate for precise boost control (targeting 1.2 bar / 17.5 PSI).",
+    "Fuel system upgrade with a Walbro 255 LPH in-tank fuel pump, Injector Dynamics ID1000 fuel injectors, and a Link G4+ Xtreme standalone ECU (with Suzuki G13B base map) for precise AFR tuning and launch control."
+  ],
+  "estetica": [
+    "Full Rocket Bunny V1 widebody kit (Cultus-specific, with extended fenders, custom front bumper, and rear diffuser) paired with a custom carbon fiber hood (Seibon Carbon) featuring a functional heat extractor for the turbo setup.",
+    "Ohlins Road & Track coilovers (custom valved for the Cultus chassis, with 8kg/mm front and 6kg/mm rear springs) and Cusco front strut tower bar (22mm hollow steel) for chassis rigidity and aggressive stance (15mm front and 20mm rear fender flares).",
+    "Work Meister S1 3P 15x8.5 wheels (+15mm offset) wrapped in Toyo R888R 195/50R15 tires, with custom rear wheel spacers (10mm) to fill the Rocket Bunny fenders, and a custom rear wing (Voltex Type-3, 3D carbon fiber) for downforce."
+  ]
+}
