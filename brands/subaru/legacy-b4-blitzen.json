@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "LEGACY B4 BLITZEN",
+  "prestazioni": [
+    "Engine: EJ20X (2.0L twin-scroll turbo, 260 PS stock) upgraded with a **Garrett GTX3071R Gen II turbocharger** (0.82 A/R turbine housing, billet compressor wheel) paired with a **Tomei 260° duration camshaft set** (intake/exhaust) and **Ferrea 6000-series valves** (titanium retainers, 1mm oversized) for optimized airflow at 22 psi peak boost.",
+    "Fuel System: **ID1000x injectors** (side-feed, 1000cc/min) with a **Radium Engineering dual-catch can setup** (AN-10 lines, -10AN fittings) and a **Walbro 450 LPH in-tank fuel pump** (E85-compatible) to support 500+ WHP on E60 blend, controlled via a **Link G4+ Xtreme ECU** (CAN bus integration, flex-fuel sensor).",
+    "Drivetrain: **PPG 6-speed dog engagement gearset** (STI-spec ratios: 4.11, 2.45, 1.65, 1.23, 1.00, 0.88) with a **OS Giken twin-plate clutch** (240mm disc, 800 kgf clamp load) and **Cusco 1.5-way LSD** (85% lockup) for the rear diff, paired with **STI 2005+ 4.44 final drive** for acceleration-focused gearing."
+  ],
+  "estetica": [
+    "Aero: **Tommy Kaira M20 aero kit** (carbon fiber front lip, side skirts, and rear diffuser) with a **Seibon carbon fiber GT-style hood** (vented, 30% weight reduction) and **Voltex Type-3 rear wing** (200mm chord, 3D adjustable mounts) for downforce at 120+ mph.",
+    "Wheels: **Work Emotion CR Kiwami** (18x9.5 +38 front, 18x10.5 +45 rear) in **Gunmetal Bronze** with **Yokohama Advan A052** tires (245/40/18 front, 275/35/18 rear) and **Project Kics R40 6-pot front/4-pot rear brake kit** (356mm rotors, titanium caliper pistons).",
+    "Interior: **Recaro SP-G (JDM-spec) front seats** (carbon-Kevlar shell, 6-point Schroth harnesses) with a **Defi BF Advance gauge cluster** (320mm triple pod, oil temp/pressure, boost, AFR) and **Sparco Pro 2000 steering wheel** (350mm, suede, quick-release hub) on a **NRG Innovations bolt-in cage** (8-point, chromoly, gusseted)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "OUTBACK WILDERNESS XT",
+  "prestazioni": [
+    "Engine: FA24F (2.4L turbocharged boxer-4, direct injection, 260 hp stock) – Cobb Tuning Stage 2+ Open Source Flex Fuel ECU calibration with ethanol sensor integration, optimized for 93 octane and E85 blends, targeting 340 whp and 380 lb-ft torque with revised ignition timing and boost pressure (22 psi peak on stock turbo).",
+    "Turbocharger: Garrett GTX3071R Gen II .63 A/R turbine housing (Subaru-specific wastegate actuator) paired with a custom 3.5\" divorced downpipe (Catted, 400-cell GESI catalytic converter) and GrimmSpeed 3.5\" cat-back exhaust with non-resonated center section for optimized spool and reduced backpressure.",
+    "Suspension: Öhlins Road & Track DFV coilovers (Subaru-specific valving) with 20mm front and 15mm rear adjustable camber plates (SPL Parts), Whiteline 24mm adjustable rear sway bar, and SuperPro poly bushings (front control arms, subframe, and rear trailing arms) for reduced compliance and improved turn-in response."
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny V3 widebody kit (Outback Wilderness-specific, carbon fiber fenders with 30mm extended wheel arches, front splitter, and rear diffuser) paired with a custom aluminum roof rack (Prinsu Design) for functional overlanding airflow management.",
+    "Wheels: Method MR701 VT (17x9 +35 offset) wrapped in Nitto Ridge Grappler 265/65R17 tires (3PMSF-rated) with custom bronze powdercoat and Duraflex extended wheel spacers (20mm front, 15mm rear) for aggressive stance and clearance.",
+    "Lighting: Baja Designs Squadron Pro LED pods (50W, 4500-lumen, amber lens for fog penetration) mounted to a custom aluminum bumper bar (ARB Sahara) with integrated recovery points, paired with Diode Dynamics SS3 Pro LED fog light deletes and Morimoto XB LED headlight retrofit (D2S projector, 5500K)."
+  ]
+}

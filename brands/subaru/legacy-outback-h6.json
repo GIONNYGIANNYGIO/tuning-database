@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "LEGACY OUTBACK H6",
+  "prestazioni": [
+    "Engine swap to EZ36D (3.6L H6) with forged internals: JE Pistons 9.5:1 compression forged pistons, Manley H-beam connecting rods, ACL Race Series main and rod bearings, and a Tomei 272° duration camshaft kit for improved high-RPM breathing while retaining low-end torque for the Outback's AWD system.",
+    "Forced induction via a Rotrex C38-91 supercharger kit (custom-mapped by Cobb Tuning for the EZ36D) with a PWR intercooler, custom 3-inch mandrel-bent exhaust system (Catted downpipe by Nameless Performance, resonator delete, and a Borla Atak muffler for aggressive tone without drone), and a Cobb Accessport V3 flashed with a custom Stage 2+ tune optimized for 93 octane and E85 blends (max 8 psi boost, 350whp/320wtq).",
+    "Drivetrain reinforcement: Kaaz 2.5-way limited-slip differential (front and rear), STI 6-speed manual transmission swap with a South Bend Stage 3 daily clutch, and a Cusco 2-way adjustable rear subframe brace to eliminate flex under hard launches (critical for the Outback's unibody chassis). Suspension overhaul with Ohlins Road & Track coilovers (custom valved for the Outback's 1,600kg weight), Whiteline 27mm front and 24mm rear sway bars, and polyurethane bushings (SuperPro) for the rear trailing arms and front control arms."
+  ],
+  "estetica": [
+    "Widebody conversion using a Liberty Walk LB Works kit (modified for the Outback's wagon body), paired with custom 3D-printed fender flares to clear 275/35R19 Michelin Pilot Sport 4S tires on Enkei PF09 wheels (19x9.5 +35 offset front, 19x10.5 +40 rear). Front lip and rear diffuser by Seibon Carbon, with a custom carbon fiber roof wrap (VIS Racing) to reduce weight and lower the center of gravity.",
+    "Aggressive stance achieved via a 1.5-inch front and 1-inch rear ride height drop (post-Ohlins install), with custom camber plates (SPL Parts) for -2.5° front and -2.0° rear camber to maximize tire contact under hard cornering. Functional hood vents (custom fabricated) to evacuate heat from the Rotrex supercharger, and a custom LED light bar integrated into the front bumper (Lux Halo 6 Pod) for rally-inspired aesthetics.",
+    "Interior overhaul with Bride Ergo II reclining bucket seats (custom-molded to the Outback's floor), Takata Drift III 4-point harnesses, and a custom roll cage (Chassisworks bolt-in 8-point cage with gusseted main hoop) painted Subaru WR Blue. Full carbon fiber dash overlay (Seibon), Momo Mod.78 steering wheel with quick-release hub, and a custom gauge pod (Defi Advance BF series) monitoring boost, oil temp, and AFR (AEM X-Series wideband)."
+  ]
+}

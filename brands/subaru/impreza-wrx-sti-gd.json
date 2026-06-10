@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "IMPREZA WRX STI GD",
+  "prestazioni": [
+    "Engine: EJ257 (closed-deck, 2.5L flat-four) with forged internals including Manley I-beam connecting rods, JE 99.75mm forged pistons (9.0:1 compression), and ACL Race Series bearings. Paired with a Garrett GTX3582R turbocharger (0.82 A/R turbine housing, 62mm compressor inducer) on a custom 3-inch divorced wastegate setup with Tial MV-R 44mm external wastegate.",
+    "Fuel System: Injector Dynamics ID1700x fuel injectors (side-feed) with a Radium Engineering fuel rail and dual Bosch 044 fuel pumps (255 L/hr each), controlled via a Link G4+ Xtreme ECU with flex-fuel sensor and ethanol content compensation. Includes a Tomei 8.5mm pitch high-pressure fuel pump and custom -8AN fuel lines with Earl’s Vapor Guard fittings.",
+    "Drivetrain & Handling: OS Giken Super Lock LSD (front and rear) with 2-way adjustable differentials, paired with a PPG straight-cut close-ratio gearset (1st: 3.083, 2nd: 2.062, 3rd: 1.545, 4th: 1.151, 5th: 0.825, 6th: 0.672). Suspension features Öhlins Road & Track DFV coilovers with 8kg/mm front and 9kg/mm rear springs, Cusco front and rear sway bars (22mm front, 20mm rear), and Whiteline adjustable rear toe arms for aggressive alignment (0.2° front toe-out, 0.1° rear toe-in)."
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny V3 widebody kit (GD-specific) with carbon fiber front fenders, rear quarter panels, and a duckbill rear spoiler. Includes a custom 3D-printed front splitter with integrated canards (Seibon carbon) and a Voltex GT-Wing Type 3 (1700mm span, 300mm chord, 25° angle) mounted on Cusco GT-Wing stays.",
+    "Exterior: Full respray in Subaru World Rally Blue (M3Y) with matte black accents (hood, roof, mirrors) using Glasurit 90 Line 2K paint. OEM STI GD taillights replaced with JDM-spec Ver. VI STI LED units (clear lens, red LED), and headlights upgraded to Hella Micro DE projectors with Morimoto XB LED bulbs (5500K).",
+    "Interior: Bride Zeta III bucket seats (SUBARU-specific mounting brackets) with Schroth Profi II 6-point harnesses, wrapped in Alcantara and custom-stitched with red contrast (MOMO). Rear seats removed and replaced with a Cusco bolt-in roll cage (8-point, chromoly steel) and a custom carbon fiber center console housing a Racepak IQ3 digital dash (logging EJ257 parameters) and a Defi BF-series oil pressure/temp gauge pod."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "DEX",
+  "prestazioni": [
+    "Engine swap to a **Subaru EJ207 (Version 8, 2.0L DOHC AVCS, 300+ hp stock)** from a JDM GC8 WRX STI, paired with a **Garrett GT2860RS-5 turbocharger** (0.64 A/R turbine housing) for a 350-400 hp target on E85 fuel. Requires a **Cosworth forged piston kit (9.0:1 CR)** and **Manley H-beam connecting rods** to handle boost levels up to 22 psi.",
+    "Full **Tomei 264°/260° camshafts (intake/exhaust)** with **Tomei adjustable cam gears** for optimized AVCS tuning, paired with a **HKS Hi-Power 4-2-1 stainless steel header** and **GReddy RS 3.5-inch cat-back exhaust** with a **SARD 70mm downpipe** (decat for track use).",
+    "Custom **Haltech Elite 2500 ECU** with **AEM X-Series wideband O2 sensor** for real-time E85 flex-fuel mapping, integrated with a **Link G4+ Monsoon** for launch control and anti-lag. Suspension overhaul includes **Öhlins Road & Track DFV coilovers (DEX-specific valving)** and **Whiteline adjustable rear sway bar (24mm)** to mitigate the Dex’s 55:45 weight distribution."
+  ],
+  "estetica": [
+    "**Rocket Bunny V1 (DEX-specific) widebody kit** with **custom carbon fiber front splitter** (reinforced with aluminum substructure) and **Voltex Type-5 rear wing** (3D-scanned for optimal downforce on the Dex’s 2,670mm wheelbase).",
+    "**Work Meister S1 3P 17x8 +45 wheels** (7.5J front, 8.5J rear) wrapped in **Yokohama Advan A052 225/45/17 (front) and 255/40/17 (rear)** for staggered grip, paired with **Project Mu 999.9 brake pads** and **DBA 5000 Series rotors** (330mm front, 300mm rear).",
+    "**Custom JDM-inspired livery** using **3M 1080 Gloss Black and Hyper Blue vinyl** with **Subaru Tecnica International (STI) ‘S207’ decals** (replica), **LED taillight conversion (Dex-specific, using Toyota 86 lenses)** and **Seibon carbon fiber hood** (weight reduction: 8.5kg)."
+  ]
+}

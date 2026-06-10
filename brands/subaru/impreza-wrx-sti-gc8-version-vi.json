@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "IMPREZA WRX STI GC8 VERSION VI",
+  "prestazioni": [
+    "Engine: EJ22G (closed-deck, forged internals) with a Tomei 2.2L stroker kit (83mm crank, 92mm pistons, H-beam rods) and ARP head studs for 12.5:1 compression, paired with a Garrett GT3076R turbo (0.82 A/R, 62mm inducer) on a custom equal-length stainless steel header (HKS 4-1 design) and a Tomei 3-inch titanium exhaust with a Fujitsubo Giken AX-1 muffler for optimized backpressure",
+    "Drivetrain: OS Giken 2-way LSD front and rear (1.5-way center diff) with a PPG straight-cut 5-speed dog engagement gearset (1st: 2.785, 2nd: 1.944, 3rd: 1.400, 4th: 1.033, 5th: 0.780) and a Cusco 8.5kg lightweight flywheel for rapid rev matching",
+    "Suspension: Ohlins Road & Track DFV coilovers (24-way adjustable damping, 8kg/mm front springs, 6kg/mm rear springs) with Cusco front and rear pillowball upper mounts, Whiteline adjustable sway bars (24mm front, 22mm rear), and polyurethane subframe bushings (SuperPro) for chassis rigidity"
+  ],
+  "estetica": [
+    "Body: Rocket Bunny V1 GC8 widebody kit (carbon fiber fenders, front bumper, and rear diffuser) with a custom 3M Gloss Black wrap and STI Version VI-specific gold BBS LM wheels (17x9 +38 front, 17x10 +20 rear) wrapped in Toyo R888R tires (245/40/17 front, 275/35/17 rear)",
+    "Aero: Voltex Type-3 rear wing (carbon fiber, 1200mm width, 300mm height) with a custom aluminum gurney flap and a Cusco front lip spoiler (carbon fiber, STI Version VI-specific mounting points) for balanced downforce at 120mph+ speeds",
+    "Interior: Bride Zeta III bucket seats (fixed-back, FIA-approved) with Takata 6-point harnesses, a Nardi Classic 350mm steering wheel (suede, 6-bolt pattern), and a Defi Advance BF gauge cluster (oil temp, oil pressure, boost, wideband AFR) mounted on a custom aluminum A-pillar pod"
+  ]
+}

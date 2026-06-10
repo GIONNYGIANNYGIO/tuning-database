@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "R2 R",
+  "prestazioni": [
+    "Engine swap to a **EN07X** (supercharged 660cc Kei-car engine) with a **HKS GT-SS Supercharger Kit** (8.5 psi boost, 120+ hp) paired with a **Toda Racing EN07 forged piston set** (12.5:1 compression) and **Tomei 264° camshafts** for high-RPM power delivery",
+    "Full **Spoon Sports EN07X-specific exhaust system** (4-2-1 header, 60mm titanium muffler) with a **GReddy Profec B Spec II boost controller** for precise supercharger mapping",
+    "Custom **Haltech Elite 1500 ECU** with **Subaru R2-specific CAN bus integration**, supporting **ID1000 injectors** and a **Nismo S-Tune oil cooler** to prevent heat soak in Kei-car constraints"
+  ],
+  "estetica": [
+    "**C-West R2 Type-R widebody kit** (carbon fiber fenders, extended 30mm per side) with **Volk Racing TE37SL 15x7 +38 wheels** (185/50R15 Yokohama Advan Neova AD08R tires) for aggressive stance",
+    "**Seibon Carbon R2-specific hood** (vented, 30% weight reduction) paired with a **Varis R2 rear diffuser** (dual exhaust cutouts, 3D-printed ABS construction)",
+    "**Recaro SRD Kei-car seats** (fixed-back, carbon shell) wrapped in **Alcantara with red stitching** and a **Momo Mod.78 steering wheel** (350mm, suede) for JDM Kei-car ergonomics"
+  ]
+}

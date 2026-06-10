@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "IMPREZA WRX STI SPEC C TYPE RA",
+  "prestazioni": [
+    "Engine: EJ207 (closed-deck, semi-forged internals) with Tomei 272° duration, 11.5mm lift camshafts (Poncam series) and Tomei Type-S valve springs to handle 9,000 RPM safely. Paired with a Garrett GT3076R turbocharger (0.82 A/R, 62mm inducer) on a custom 3-inch divorced wastegate manifold (Blitz Spec-R) for 1.5 bar of boost on 98 RON fuel.",
+    "Fuel System: Injector Dynamics ID1700x injectors (side-feed, 1700cc/min) with a Radium Engineering dual-core fuel rail and Walbro 450 LPH in-tank pump. ECU reflash via Cobb Accessport (Stage 3+ map) with custom ethanol flex-fuel tuning (E85 compatible) and AEM X-Series wideband O2 sensor for closed-loop AFR targeting 11.5:1 under full load.",
+    "Drivetrain: OS Giken 1.5-way LSD (front) and Cusco Type-RS 2-way LSD (rear) with a PPG 6-speed straight-cut dog engagement gearset (2.345 1st, 1.888 2nd, 1.529 3rd) and a Sachs Racing twin-disc clutch (240mm, 800Nm torque capacity). Chassis reinforcement via Cusco front strut tower bar (22mm hollow) and rear subframe brace (3-point, aluminum)."
+  ],
+  "estetica": [
+    "Aero: Voltex Type-3R widebody kit (carbon fiber, JDM-spec) with integrated canards (front) and a custom 3D-printed Gurney flap (15mm) on the OEM Spec C rear wing. Underbody diffusers by Varis (carbon, 3-stage) with integrated brake cooling ducts (front).",
+    "Exterior: STI RA-specific RAYS Volk Racing TE37SL wheels (17x9 +48 front, 17x10.5 +35 rear) in Hyper Black, wrapped in Yokohama ADVAN A052 tires (245/40/17 front, 275/35/17 rear). OEM RA-specific aluminum hood (vented, 3kg lighter) with a custom carbon fiber hood scoop (Seibon, 30% larger volume).",
+    "Interior: Bride Zeta III reclinable bucket seats (fixed-back, FIA-approved) with Schroth Profi II 6-point harnesses. OMP steering wheel (350mm, suede) on a NRG quick-release hub. Custom half-cage (10-point, TIG-welded) by AutoPower with integrated fire suppression system (Lifeline Zero 360, 3kg agent)."
+  ]
+}

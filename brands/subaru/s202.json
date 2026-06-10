@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "S202",
+  "prestazioni": [
+    "Engine: EJ207 (closed-deck, semi-forged internals, 92mm bore, 75mm stroke) with a Tomei 272°/272° camshaft upgrade (intake/exhaust) and Tomei Type-M titanium retainers to handle 9,000 RPM safely, paired with a Garrett GT2860RS-5 turbocharger (0.64 A/R turbine housing, 60 trim compressor) for 380-400 WHP on 98 RON fuel with a custom-tuned Cobb Accessport v3 Stage 2+ map (targeting 22-24 psi boost with 300cc ID injectors and a Walbro 450 LPH fuel pump).",
+    "Drivetrain: STI 6-speed close-ratio transmission (RA65) with a Cusco Type-RS 2-way limited-slip differential (2.0 way front, 1.5 way rear) and a PTT 80mm aluminum driveshaft to reduce rotational mass, coupled with a SPEC Super Twin clutch (disc: organic/metallic hybrid, pressure plate: 2600 lb clamp load) for aggressive launches.",
+    "Suspension/Handling: Ohlins Road & Track DFV coilovers (2-way adjustable damping, 30-way adjustable rebound, 12kg/mm front springs, 10kg/mm rear springs) with Cusco front and rear sway bars (22mm front, 20mm rear, adjustable 3-position stiffness) and Whiteline front lower control arms (adjustable camber/toe) to eliminate bump steer, paired with Brembo GT 355mm 2-piece rotors (6-piston front, 4-piston rear calipers) and Ferodo DS2500 brake pads for fade-resistant stopping power."
+  ],
+  "estetica": [
+    "Aero: C-West S202-specific carbon fiber widebody kit (front fenders, rear quarter panels, and rear bumper extensions) with a Voltex Type-5 rear wing (3D carbon fiber, 1,200mm width, adjustable angle up to 20°) and a custom STI-style front splitter (3D carbon fiber, 30mm overhang) for balanced downforce at 150+ mph.",
+    "Exterior: STI S202 OEM-style carbon fiber hood (with functional NACA ducts) painted in Subaru World Rally Blue (M3Y) with a 3M 1080 Gloss Black vinyl roof wrap, paired with Work Emotion CR Kiwami wheels (18x9.5 +38 front, 18x10.5 +40 rear) in Gunmetal finish, wrapped in Yokohama Advan Neova AD09 tires (255/35/18 front, 285/30/18 rear) for optimal grip.",
+    "Interior: Bride Zeta III bucket seats (fixed-back, FIA-approved, carbon fiber shell) with Schroth Profi II 6-point harnesses, a Nardi Classic 350mm steering wheel (perforated leather, 3-spoke) on a NRG quick-release hub, and a custom STI S202-spec carbon fiber gauge pod (housing Defi BF gauges: 300 kPa boost, 1000°C EGT, and 12 kg/cm² oil pressure) mounted on the A-pillar."
+  ]
+}

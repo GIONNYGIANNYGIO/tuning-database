@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "JUSTY",
+  "prestazioni": [
+    "Engine swap to a JDM-spec **EN07X** (660cc turbocharged inline-3, 100+ hp in stock Kei-car trim) with a **Garrett GT12 turbo** (specifically the GT1241 variant for low-end torque) and a **HKS Super SQV IV blow-off valve** to handle boost spikes in the tiny 0.66L block. Pair with a **Toda Racing EN07 forged piston kit** (8.5:1 compression) and **Manley EN07 forged connecting rods** to withstand 1.5 bar of boost.",
+    "Full **Koyoritsu Racing EN07-specific intake manifold** with individual throttle bodies (ITBs) and a **Link G4+ Xtreme ECU** tuned on a **Dynapack hub dyno** for precise fuel and ignition mapping. Replace the stock ignition system with **NGK Iridium IX spark plugs** (gap set to 0.7mm) and a **HKS Twin Power ignition amplifier** for stable combustion under high boost.",
+    "Custom **GReddy intercooler core** (180mm x 150mm x 50mm) mounted in the front bumper with **Samco silicone hoses** and a **Mishimoto oil cooler** (sandwiched between the oil filter and block) to prevent heat soak in the EN07X’s cramped engine bay. Use a **Walbro 255 LPH in-tank fuel pump** and **ID1000 injectors** (scaled for the EN07’s fuel demands) with a **Radium Engineering fuel pressure regulator** for consistent flow."
+  ],
+  "estetica": [
+    "**Rocket Bunny V1 Justy-specific widebody kit** (fiberglass fenders, custom front splitter, and a duckbill rear wing) paired with **Work Emotion CR Kiwami wheels** (15x7 +25 offset, 185/55R15 tires) for a Kei-car stance. Lower the car with **Tein Flex Z coilovers** (adjustable damping, 50mm drop) and reinforce the chassis with a **Cusco Type RS strut tower bar** and **Ultra Racing rear lower arm braces**.",
+    "Full **JDM Justy-specific aero package** including a **Vertex Lang II front lip** (carbon fiber, bolt-on) and a **Tommy Kaira rear diffuser** (polyurethane, matched to the Rocket Bunny kit). Replace the stock headlights with **Morimoto XB LED projectors** (H11 bulb retrofit) and the taillights with **VLED smoked LED units** (error-free CAN-bus resistors).",
+    "**Custom interior overhaul** with **Bride Low Max seats** (fixed-back, Kei-car-specific mounting brackets) and a **Nardi Classic 350mm steering wheel** (hub adapter for the EN07X’s tilt column). Replace the stock gauge cluster with a **Defi Advance BF gauges** (boost, oil temp, and AFR) mounted in a **Custom Cages A-pillar pod**. Sound deadening via **Dynamat Xtreme** (full floor and door panels) with a **Pioneer DEH-80PRS head unit** and **Focal Utopia Be tweeters** (custom door pods)."
+  ]
+}

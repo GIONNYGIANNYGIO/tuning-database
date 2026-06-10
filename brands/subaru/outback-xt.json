@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "OUTBACK XT",
+  "prestazioni": [
+    "Engine: EJ255 (2.5L H4 turbo, AVCS, 9.5:1 CR) – Full forged internals with Manley I-beam connecting rods, JE 9.0:1 forged pistons, and ACL Race Series bearings for 30+ psi boost capability. Upgraded head studs (ARP 625+) and ported/polished cylinder heads with Ferrea Competition Series valves and Supertech dual valve springs.",
+    "Turbocharger: Garrett GTX3076R Gen II (846507-5002S) with TiAL MV-R 44mm wastegate and custom 3.5\" stainless steel downpipe (Cobb Tuning) to eliminate restrictive factory cast manifold. Supporting mods: Killer B Motorsport oil restrictor kit and Radium Engineering dual catch can setup.",
+    "Fuel System: Injector Dynamics ID1050x (1050cc) injectors with Radium Engineering fuel rail kit, Walbro 450 LPH in-tank pump, and Cobb Tuning flex fuel sensor. ECU flashed with COBB Accessport (Stage 3+ map) and tuned by Torqued Performance for E85 compatibility (targeting 350-380 whp at 22 psi)."
+  ],
+  "estetica": [
+    "Body Kit: Rocket Bunny V1 Outback-specific widebody kit (Pandem Design) with carbon fiber fenders, front splitter, and rear diffuser. Custom 2.5\" fender flares to clear 275/40R18 tires on Work Emotion CR Kiwami wheels (18x9.5 +35 offset).",
+    "Suspension: Ohlins Road & Track DFV coilovers (Subaru-specific valving) with Cusco front strut tower bar and Whiteline adjustable rear sway bar (24mm). Polyurethane bushings (Whiteline) for subframe and control arms to eliminate compliance.",
+    "Aero/Exterior: Seibon carbon fiber hood (functional vents) and rear spoiler (Subaru STI-style, 3M matte black wrap). Morimoto XB LED headlights with Diode Dynamics SS3 Pro fog lights. Custom JDM-style rear bumper delete with integrated dual 3.5\" exhaust (Nameless Performance 4-2-1 headers, Tomei Ti muffler)."
+  ]
+}

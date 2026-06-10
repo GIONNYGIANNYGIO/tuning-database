@@ -1,0 +1,19 @@
+{
+  "brand": "SUBARU",
+  "model": "IMPREZA WRX WAGON",
+  "prestazioni": [
+    "Engine: EJ255 (2.5L turbocharged flat-4) with forged internals including Manley I-beam connecting rods, JE 9.2:1 forged pistons, and ACL Race Series main/rod bearings for 450whp reliability on E85",
+    "Turbocharger: Garrett GTX3582R Gen II with billet compressor wheel, 0.82 A/R turbine housing, and TiAL MV-R 44mm external wastegate for spool under 3,200 RPM and 38 psi peak boost",
+    "Fuel System: Injector Dynamics ID1700x injectors, Radium Engineering dual fuel pump hanger with Walbro 450 LPH pumps, and Cobb Tuning 1000cc top-feed fuel rails with -8AN feed/return lines",
+    "Drivetrain: PPG 6-speed dog engagement gearset with 1.5-way Cusco Type-RS limited-slip differential, STI 2018+ transmission case, and South Bend Stage 3 Daily Clutch with chromoly flywheel",
+    "Suspension: Ohlins Road & Track DFV coilovers with 8-position adjustable compression/rebound, Whiteline adjustable rear sway bar (24mm hollow), and Cusco front strut tower bar (22mm solid)",
+    "Braking: DBA 5000 Series rotors (330mm front, 316mm rear) with AP Racing Radi-CAL 6-piston front/4-piston rear calipers, Motul RBF660 brake fluid, and Goodridge G-Stop braided lines"
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny V3 widebody kit with carbon fiber fenders (35mm wider front, 50mm wider rear), custom aluminum rear diffuser, and Voltex Type-3 rear wing with 1,200mm span and adjustable carbon endplates",
+    "Exterior: Seibon carbon fiber hood with integrated NACA ducts, Varis Japan front bumper canards, and custom rear roof spoiler (3D-printed ABS with carbon weave overlay) for wagon-specific airflow management",
+    "Wheels: Work Emotion CR Kiwami 18x9.5 +35 front / 18x10.5 +40 rear with 245/40/18 and 275/35/18 Michelin Pilot Sport Cup 2 tires, mounted on custom 5x100 to 5x114.3 adapters with extended wheel studs",
+    "Lighting: Morimoto XB LED headlights with custom CREE XHP50.2 projectors, Diode Dynamics SS3 Pro fog lights, and custom rear LED taillight setup with sequential turn signals (OEM+ style housing with smoked lenses)",
+    "Interior: Bride Zeta III bucket seats with Schroth Profi II 6-point harnesses, custom half-cage (TIG-welded 4130 chromoly with bolt-in rear X-brace), and Defi BF Advance gauges (oil temp, oil pressure, boost) mounted in a custom carbon fiber A-pillar pod"
+  ]
+}

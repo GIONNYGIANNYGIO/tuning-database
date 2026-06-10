@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "LEVORG GT-H",
+  "prestazioni": [
+    "Engine: FA24F (2.4L turbocharged boxer-4, direct-injection, 276 hp stock) – Full forged internals upgrade with Manley 87mm forged pistons, Eagle H-beam connecting rods, and ACL Race Series bearings to handle 500+ hp reliably. Paired with a Garrett GTX3582R turbocharger (0.82 A/R, 62mm inducer) on a custom 3.5-inch stainless steel downpipe with a Tomei 4-2-1 equal-length header for optimized spool and top-end power.",
+    "Fuel System: Injector Dynamics ID1700x fuel injectors (side-feed, 1700cc/min) with a Radium Engineering dual-catch can setup and a Walbro 450 LPH in-tank fuel pump. ECU reflash via Cobb Accessport (Stage 3+ map) with custom tuning by Top Secret Japan for 300+ lb-ft of torque at 3,500 RPM and 480 whp on E85 blend.",
+    "Drivetrain & Handling: OS Giken Super Lock LSD (2-way, 40/80% bias) in the rear with a PPG 6-speed close-ratio gearset (1st: 3.083, 2nd: 2.062, 3rd: 1.545) for optimized acceleration. Suspension overhaul with Öhlins Road & Track DFV coilovers (20-way adjustable damping, 30mm drop) and Whiteline front sway bar (24mm adjustable) + rear sway bar (22mm) to eliminate body roll. Brembo GT 6-piston front calipers (355mm rotors) and 4-piston rear calipers (330mm rotors) with Ferodo DS2500 pads for fade-resistant stopping power."
+  ],
+  "estetica": [
+    "Aero: Varis Japan widebody conversion kit (carbon fiber, 30mm extended fenders front/rear) with a custom 3D-printed front splitter (50mm overhang, 30% more downforce at 120 mph) and a Seibon carbon fiber GT-style rear wing (adjustable angle, 200mm chord). Side skirts from C-West (JDM-spec, aggressive side profile) with integrated LED turn signals.",
+    "Exterior: Full Respray in Subaru WR Blue Pearl (M7Y) with a 3M Matte Clear Coat overlay for a stealth OEM+ finish. RAYS Volk Racing TE37V (18x9.5 +38 front, 18x10.5 +45 rear) in Hyper Silver with Toyo R888R tires (255/35/18 front, 275/35/18 rear). Custom JDM-spec rear diffuser by Rocket Bunny (carbon fiber, 3-piece) with integrated exhaust cutouts for dual 3.5-inch titanium tips (Burns Stainless).",
+    "Interior: Bride Zeta III bucket seats (fixed-back, FIA-approved) with Takata 4-point harnesses and a custom roll cage (TIG-welded, 4-point bolt-in) by AutoPower Japan. Momo Prototipo steering wheel (350mm, suede) with a NRG quick-release hub. Full digital dash conversion using a Link ECU G4X with a 7-inch AIM MXS Strada display (CAN bus integration for real-time boost, AFR, and oil temp). Sound deadening removed and replaced with a Kicker QS6.2 6.5-inch component system (front) and a JL Audio 10TW3 subwoofer (custom enclosure in spare tire well)."
+  ]
+}

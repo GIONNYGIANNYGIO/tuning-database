@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "REX",
+  "prestazioni": [
+    "EN07A 660cc turbocharged engine: Full forged internals with JUN 83mm forged pistons, Eagle H-beam connecting rods, and a Tomei 264° camshaft for high-RPM power retention, paired with a Garrett GT12 turbo (GT1241Z) for immediate spool and 0.5 bar boost on 98 RON fuel.",
+    "HKS Hi-Power 4-2-1 stainless steel exhaust manifold with a custom 2.25-inch straight-pipe exhaust system terminating in a Fujitsubo Giken Type-S muffler, eliminating backpressure while maintaining JDM compliance for urban use.",
+    "Haltech Elite 1500 standalone ECU with custom-mapped fuel and ignition tables for the EN07A, integrating a Link G4+ wideband controller and AEM X-Series 30-0300 oil pressure/temperature sensors for real-time monitoring and fail-safes."
+  ],
+  "estetica": [
+    "Liberal Auto Works 'Rex RS' widebody kit, extending fenders by 50mm per side with carbon fiber overfenders and a custom front splitter featuring integrated canards for downforce at 80+ km/h.",
+    "Work Equip 03 wheels in 13x6 +38 offset, wrapped in Yokohama Advan Neova AD08R 175/50R13 tires for maximum grip, paired with Cusco Type RS coilovers with 8kg/mm front and 6kg/mm rear springs for aggressive stance and track-ready damping.",
+    "Recaro SRD-E fixed-back bucket seats in Alcantara with Takata 4-point harnesses, replacing the stock seats, and a custom Momo Mod.78 steering wheel with a quick-release hub for improved ergonomics and driver feedback."
+  ]
+}

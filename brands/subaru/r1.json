@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "R1",
+  "prestazioni": [
+    "Engine: EN07 658cc inline-4 (Kei car regulations) with forged internals from Tomei (pistons, connecting rods) and a billet crankshaft from HKS, paired with a custom dry-sump oil system by Jun Auto to prevent oil starvation under high lateral G-forces (critical for R1's lightweight chassis).",
+    "Forced Induction: Garrett GT12 turbocharger (specifically the GT1241Z model) with a custom 0.48 A/R turbine housing, mated to a Tomei 264° camshaft and a custom intercooler setup by GReddy (Type-S front-mount, 40% larger than stock) with a 3-inch aluminum piping system and HKS SSQV blow-off valve.",
+    "ECU & Fueling: Haltech Elite 2500 standalone ECU with a custom flex-fuel sensor and dual Bosch 044 fuel pumps (housed in a custom surge tank by Radium Engineering), feeding 1000cc ID injectors and a custom fuel rail by Tomei. Ignition system upgraded to AEM CDI with NGK Iridium IX spark plugs (gap set to 0.024\")."
+  ],
+  "estetica": [
+    "Body Kit: Rocket Bunny V1 Kei-spec widebody kit (R1-specific, not the generic Kei version) with carbon fiber overfenders, front splitter, and rear diffuser, all painted in Subaru World Rally Blue (color code: 22B) with matte black accents.",
+    "Suspension: Ohlins Road & Track coilovers (DFV dampers, 24-way adjustable) with custom spring rates (8kg/mm front, 6kg/mm rear) and spherical bearing top mounts by Cusco. Chassis reinforcement via a Cusco 4-point bolt-in roll cage (R1-specific design) and a custom strut tower brace by HKS (carbon fiber, 3-point design).",
+    "Wheels & Aero: Work Emotion CR Kiwami wheels (15x8 +38 front, 15x9 +35 rear) wrapped in Yokohama Advan Neova AD08R tires (185/50/15 front, 205/50/15 rear). Rear wing: Voltex Type-3 (carbon fiber, 3D adjustable) with custom mounting brackets to clear the R1's unique rear hatch design."
+  ]
+}

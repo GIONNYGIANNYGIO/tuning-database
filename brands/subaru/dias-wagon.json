@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "DIAS WAGON",
+  "prestazioni": [
+    "Engine swap to a **Subaru EJ207 (Version 8, 2.0L DOHC AVCS, 265hp stock)** with a **Garrett GT2860RS-5 turbocharger** (8.5psi base boost, upgraded to 18psi with **HKS GT-SS wastegate**) and **Cosworth forged pistons (8.5:1 compression)** paired with **Manley H-beam connecting rods** for 400whp reliability on **98 RON fuel**.",
+    "Full **Tomei 260° cams (intake/exhaust)** with **Tomei adjustable cam gears** and **Ferrea 5000-series valves** (1mm oversized) for high-RPM power, mated to a **Koyoritsu Racing 4-2-1 header** and **HKS Hi-Power exhaust (76mm diameter, straight-through design)** with a **SARD 80mm downpipe** for minimal backpressure.",
+    "**Haltech Elite 2500 ECU** with **AEM 3.5bar MAP sensor** and **ID1000x injectors** (side-feed, Subaru-specific), tuned on a **Dynapack hub dyno** with **E85 flex-fuel capability** (via **Continental ethanol sensor**). Suspension overhaul with **Öhlins Road & Track DFV coilovers (Subaru-specific valving)** and **Cusco 22mm front sway bar (adjustable)** + **Cusco 18mm rear sway bar** for chassis rigidity."
+  ],
+  "estetica": [
+    "**Rocket Bunny V3 widebody kit (Dias Wagon-specific, 30mm flares)** with **custom carbon fiber overfenders** (hand-laid by **Seibon**) and **Volk Racing TE37SL wheels (17x9 +38 front, 17x10 +22 rear)** wrapped in **Yokohama Advan A052 tires (225/45/17 front, 255/40/17 rear)** for staggered fitment.",
+    "**JDM-spec Subaru Dias Wagon front bumper lip (OEM part #80612AC000)** with **custom carbon fiber splitter (by Varis)** and **Rear diffuser by 5Zigen (Dias Wagon-specific, bolt-on)**. Full **3M Matte Graphite vinyl wrap** with **gloss black roof** and **JDM Subaru Dias Wagon side decals (OEM-style, red/white)**.",
+    "**Recaro SRD-II seats (Subaru-specific mounts)** with **Takata Drift III harnesses (4-point, FIA-approved)** and **custom rear seat delete (carbon fiber panel by AutoTechnik)**. **Defi BF gauges (oil temp, boost, AFR)** mounted in a **custom A-pillar pod (by AutoMeter)** with **LED shift light (AEM X-Series)** integrated into the cluster."
+  ]
+}

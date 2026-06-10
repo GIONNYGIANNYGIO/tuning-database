@@ -1,0 +1,18 @@
+{
+  "brand": "SUBARU",
+  "model": "BRZ GT300",
+  "prestazioni": [
+    "FA20F (GT300-spec) engine with Tomei 2.2L forged internals, including billet crankshaft, forged pistons (9.0:1 CR), and titanium valves with upgraded valve springs and retainers for 9,000 RPM redline capability",
+    "Garrett GTX3582R turbocharger with custom 0.82 A/R turbine housing, Precision Turbo wastegate, and GReddy intercooler with 50mm core thickness for 1.2 bar boost targeting 500+ WHP on E85",
+    "Haltech Elite 2500 ECU with custom GT300-spec wiring harness, Motec PDM-15 power distribution module, and Bosch 1000cc injectors paired with a Radium Engineering dual fuel pump hanger for E85 compatibility",
+    "AP Racing CP8450 brake calipers (6-piston front, 4-piston rear) with 380mm front and 355mm rear two-piece rotors, Pagid RS29 brake pads, and Motul RBF660 brake fluid for endurance racing",
+    "Ohlins TTX40 4-way adjustable coilovers with GT300-spec spring rates (18kg/mm front, 16kg/mm rear), spherical bearing top mounts, and custom valving for Fuji Speedway compliance",
+    "OS Giken Super Lock LSD with 85% lockup under load, paired with Cusco 2.5-way differential carrier and reinforced axles for GT300 torque delivery"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit with carbon fiber fenders, custom GT300-spec front splitter, and rear diffuser with integrated gurney flaps for 500kg+ downforce at 200km/h",
+    "Custom carbon fiber GT300-spec rear wing (1,800mm span) with adjustable angle of attack (0-15 degrees) and integrated DRS (Drag Reduction System) for straight-line speed optimization",
+    "Recaro SP-GT300 carbon-Kevlar bucket seats with Schroth 6-point harnesses, custom FIA-spec roll cage (TIG-welded 4130 chromoly) with integrated fire suppression system (Lifeline Zero 360)",
+    "Custom livery by RAUH-Welt BEGRIFF (RWB) with GT300-spec aero stripes, sponsor decals (e.g., Yokohama Advan, STI), and matte black BBS LMGT4 wheels (18x11 +25 front, 18x12 +30 rear) with Yokohama Advan A052 tires (295/645R18 front, 315/680R18 rear)"
+  ]
+}

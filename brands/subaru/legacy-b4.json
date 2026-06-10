@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "LEGACY B4",
+  "prestazioni": [
+    "Engine: EJ257 (closed-deck, forged internals) with Tomei 272°/272° camshafts (Poncam series) and Tomei Type-S valve springs for high-RPM stability, paired with a Garrett GT3076R turbocharger (0.82 A/R, ball-bearing) on a custom 3-inch divorced wastegate manifold (Blouch Dominator 3.0R setup).",
+    "Fuel System: Injector Dynamics ID1050x fuel injectors with a Walbro 450 LPH in-tank pump, controlled via Cobb Accessport v3 (Stage 3+ map) with a custom tune by Perrin Performance for 400+ WHP on E85 (target AFR 11.5:1 under boost).",
+    "Drivetrain: OS Giken Super Lock LSD (2-way) with 4.44 final drive ratio, paired with a PPG 6-speed dog engagement gearset (STI transmission case) and a Tilton 7.25-inch twin-disc clutch (ceramic puck) for launch control optimization."
+  ],
+  "estetica": [
+    "Aero: Varis Japan Legacy B4 GT-B widebody kit (carbon fiber, bolt-on fenders with 20mm extended wheel arches) paired with a custom 3D-printed front splitter (Aeroflow Dynamics) and a Cusco GT wing (1,200mm span, 300mm height, adjustable angle).",
+    "Wheels: Work Emotion CR Kiwami (18x9.5 +38 front, 18x10.5 +42 rear) with Toyo R888R tires (245/40/18 front, 275/35/18 rear) and custom 5x100 to 5x114.3 adapters (Hardrace billet aluminum).",
+    "Interior: Bride Zeta IV bucket seats (SUBARU-specific mounting brackets) with Takata 4-point harnesses, a Nardi Classic 350mm steering wheel (Momo quick-release hub), and a Defi Advance BF gauge cluster (oil temp, boost, wideband AFR) mounted on a custom carbon fiber A-pillar pod."
+  ]
+}

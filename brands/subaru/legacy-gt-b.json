@@ -1,0 +1,20 @@
+{
+  "brand": "SUBARU",
+  "model": "LEGACY GT-B",
+  "prestazioni": [
+    "Engine: EJ255 (closed-deck, forged internals upgrade with Manley 92.5mm forged pistons, Eagle H-beam connecting rods, and ACL Race Series bearings for 11.5:1 compression ratio, supporting 500+ hp on E85)",
+    "Turbocharger: Garrett GTX3582R Gen II with billet compressor wheel, 0.82 A/R turbine housing, and TiAL MV-R 44mm external wastegate for precise boost control (targeting 28-30 psi on pump gas, 35 psi on E85)",
+    "Fuel System: Injector Dynamics ID1700x fuel injectors, Radium Engineering dual fuel pump hanger with Walbro 450 LPH pumps, and AEM 340lph in-tank pump, paired with a Tomei 8.5mm fuel rail and Aeromotive FPR for consistent fuel pressure under high load",
+    "ECU & Tuning: Cobb Accessport V3 flashed with a custom map by \"Tactical Tuning\" (Melbourne-based Subaru specialist) for EJ255 with flex-fuel capability, utilizing a Zeitronix ZT-3 wideband AFR sensor and AEM CD-7 dash for real-time monitoring",
+    "Drivetrain: PPG 6-speed dog engagement gearset (1st: 2.97, 2nd: 2.15, 3rd: 1.63, 4th: 1.26, 5th: 1.00, 6th: 0.84) with OS Giken twin-plate clutch and 85mm billet flywheel, paired with a Cusco 2.5-way LSD for optimal power transfer",
+    "Suspension: Öhlins Road & Track DFV coilovers (custom valved for GT-B chassis) with 8kg/mm front and 9kg/mm rear springs, Whiteline adjustable front sway bar (24mm) and rear sway bar (22mm), and SuperPro poly bushings (front control arms, subframe, and trailing arms) for reduced deflection",
+    "Braking: AP Racing Radi-CAL 6-piston front (355mm rotors) and 4-piston rear (330mm rotors) big brake kit with Ferodo DS2500 pads, braided stainless steel lines, and Motul RBF660 brake fluid for fade resistance under track use"
+  ],
+  "estetica": [
+    "Aero: Varis Japan Legacy BP5/BP9-specific front lip, side skirts, and GT wing (carbon fiber, 1,500mm width, adjustable angle for downforce tuning), paired with a Seibon carbon fiber hood (with integrated NACA ducts for intercooler cooling)",
+    "Wheels: Work Emotion CR Kiwami 18x9.5 +38 front and 18x10.5 +45 rear (ET adjusted for flush fitment), wrapped in Toyo R888R 255/40/18 front and 275/35/18 rear tires for optimal grip and heat cycling",
+    "Interior: Bride Zeta III bucket seats (fixed-back, FIA-approved) with Schroth 6-point harnesses, Takata Drift III steering wheel (350mm, suede), and Defi BF gauges (boost, oil pressure, oil temp, wideband) mounted in a custom A-pillar pod",
+    "Lighting: Morimoto XB LED headlights (H11/H9 bulbs) with custom HID projectors, and Diode Dynamics SS3 Pro LED fog lights for improved visibility, paired with a custom LED taillight conversion (JDM-spec clear lenses with sequential turn signals)",
+    "Exterior Details: STi S204-style front bumper lip (JDM OEM, rare), rear diffuser from a 2006-2009 Legacy Spec B (modified for GT-B fitment), and custom matte gunmetal vinyl wrap with 3M 1080 series (color code S131) for a stealth OEM+ look"
+  ]
+}

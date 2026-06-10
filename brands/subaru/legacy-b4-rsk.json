@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "LEGACY B4 RSK",
+  "prestazioni": [
+    "Engine: EJ208 (closed-deck, semi-forged internals) with Tomei 260° duration camshafts (264° intake/260° exhaust, 10.5mm lift) and Tomei Type-M valve springs for 8,500 RPM reliability, paired with a Garrett GT2860RS-5 turbo (0.64 A/R turbine housing, 56 trim compressor) running 1.2 bar (17.4 psi) boost on a custom-tuned Link G4+ Xtreme ECU with flex-fuel ethanol mapping (E85 compatible) and dual Bosch 0280158002 1,000cc injectors",
+    "Drivetrain: Cusco 1.5-way mechanical LSD (front) and Cusco 2-way clutch-type LSD (rear) with a PPG straight-cut close-ratio gearset (1st: 2.785, 2nd: 1.944, 3rd: 1.521, 4th: 1.269, 5th: 1.088, 6th: 0.914) in a reinforced STI 6-speed transmission case, mated to a Sachs Performance twin-disc clutch (240mm, 800Nm torque capacity) and a custom 3.90 final drive ratio",
+    "Suspension/Handling: Ohlins Road & Track DFV coilovers (24-way adjustable compression, 16-way rebound, 20mm front/15mm rear ride height adjustment) with Cusco front strut tower bar (22mm hollow section) and Cusco rear subframe brace, paired with Whiteline adjustable front sway bar (24mm, 3-position) and rear sway bar (22mm, 2-position), plus Endless CC-RG6 brake pads (front) and CC-ZG6 (rear) with DBA 5000 Series rotors (330mm front, 305mm rear, slotted)"
+  ],
+  "estetica": [
+    "Aero: Veilside Fortune 03 widebody conversion kit (JDM-spec, carbon fiber front fenders, rear quarter panels, and rear bumper) with a custom carbon fiber GT wing (3D Carbon, 1,800mm span, 300mm chord, 3-position angle adjustment) and a Seibon carbon fiber hood (Type-20, 30% weight reduction, functional NACA ducts for intercooler cooling)",
+    "Exterior: Work Emotion CR Kiwami wheels (18x9.5 +38 front, 18x10.5 +40 rear) with Yokohama Advan Neova AD09 tires (245/40/18 front, 275/35/18 rear), wrapped in a custom Gunmetal Grey (Subaru 61V) with matte black accents (hood, roof, mirrors) and JDM-spec RSK badging (red/black, OEM+ style) on front fenders and trunk",
+    "Interior: Bride Zeta III bucket seats (fixed-back, FIA-approved, carbon fiber shell) with Takata 4-point harnesses, wrapped in custom Alcantara (Stealth Grey) with red stitching, paired with a Nardi Classic 350mm steering wheel (suede, 6-bolt hub), Defi BF Advance gauges (oil pressure, oil temp, boost, wideband AFR) in a custom carbon fiber A-pillar pod, and a full Cusco bolt-in roll cage (8-point, chromoly, 45mm diameter)"
+  ]
+}

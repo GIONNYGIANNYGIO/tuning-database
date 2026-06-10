@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "REX SUPERCHARGED",
+  "prestazioni": [
+    "Engine: Replace the stock EN07A 660cc SOHC 4-cylinder with a fully built EN07E (EJ15 swap candidate) featuring forged internals (JUN forged pistons, Eagle H-beam rods, ACL race bearings) and a custom billet crankshaft from Tomei for 9,000 RPM reliability. Pair with a Sprintex S5-21 supercharger (8 psi base boost) and a custom intercooler core from GReddy (Type-S front-mount, 55mm thick) to eliminate heat soak in the Rex's tight engine bay.",
+    "Drivetrain: Install a 5-speed close-ratio transmission from a Subaru Vivio RX-R (EN07X) with a Cusco Type-RS limited-slip differential (2.5-way, 40% lock) and a custom driveshaft from Driveshaft Shop (aluminum, 3.5\" diameter) to handle the increased torque. Clutch upgrade to a Spec Stage 3+ (multi-disc, 6 puck) with a lightweight flywheel (3.5kg) from Fidanza.",
+    "Fuel & Ignition: Convert to a full sequential fuel injection system using Injector Dynamics ID1000 injectors (side-feed, 1000cc/min) and a Haltech Elite 2500 ECU with a custom harness from iWire. Ignition system upgrade to AEM CDI coils (4-channel, direct-fire) and NGK IFR7H-11S iridium spark plugs (gapped at 0.028\"). Fuel system includes a Walbro 450 LPH in-tank pump with a Radium Engineering surge tank (2L capacity) and -6AN hard lines from Earl's Performance."
+  ],
+  "estetica": [
+    "Body: Install a full carbon fiber widebody kit from Veilside (Rex-specific, 2000s JGTC-inspired) with custom fender flares (2.5\" wider front, 3\" wider rear) and a custom front splitter from Rocket Bunny (polyurethane, 3-piece design). Rear diffuser from Seibon Carbon (dual-canard, 3D-printed mounting brackets).",
+    "Aero: Custom rear wing from APR Performance (GT-250, 3D carbon fiber, adjustable angle 0-20 degrees) mounted on a custom aluminum subframe from Cusco. Side skirts from Varis (carbon fiber, integrated LED turn signals). Hood upgrade to a Seibon carbon fiber unit with a 3\" central vent (functional, ducted to the intercooler).",
+    "Interior: Full Recaro SRD-E (Kei-car specific, 8-way adjustable) seats with custom mounting brackets from Bride. Steering wheel swap to a Nardi Classic (350mm, suede) with a quick-release hub from NRG. Custom roll cage from Cusco (8-point, bolt-in, chromoly) with integrated harness bar for Schroth Profi II 6-point harnesses. Gauge cluster upgrade to a Defi Advance BF (oil temp, oil pressure, boost, wideband AFR) with a custom A-pillar mount from Auto Meter."
+  ]
+}

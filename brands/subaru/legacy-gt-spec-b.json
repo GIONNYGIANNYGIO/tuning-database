@@ -1,0 +1,17 @@
+{
+  "brand": "SUBARU",
+  "model": "LEGACY GT SPEC B",
+  "prestazioni": [
+    "Engine: EJ255 (closed-deck, semi-forged internals) with a fully built short block featuring Manley 92.5mm forged pistons (9.2:1 CR), Eagle H-beam connecting rods, and ACL Race Series main/rod bearings for 35+ psi boost capability.",
+    "Turbocharger: Garrett GTX3582R Gen II with a 0.82 A/R turbine housing, billet compressor wheel, and TiAL MV-R 44mm wastegate, paired with a custom 3-inch divorced downpipe and Tomei 3-inch titanium cat-back exhaust with unequal-length headers.",
+    "ECU & Fueling: Cobb Accessport v3 with a custom ProTune map (E85 flex-fuel capable) running ID1000x injectors, Walbro 450LPH in-tank pump, and a Radium Engineering dual-catch can setup with -10AN lines to manage crankcase pressure under high boost.",
+    "Drivetrain: Cusco 1.5-way LSD in the rear, STI 6-speed transmission with a PPG short-throw shifter, and a South Bend Stage 3 daily clutch with a chromoly flywheel for 500+ lb-ft torque capacity.",
+    "Suspension: Öhlins Road & Track DFV coilovers with 8kg/mm front and 9kg/mm rear springs, Cusco front strut tower bar, and Whiteline adjustable rear sway bar (24mm) to eliminate body roll in high-G corners."
+  ],
+  "estetica": [
+    "Aero: Seibon Carbon fiber GT-spec front lip, rear diffuser, and side skirts (JDM-spec Legacy B4 STi-inspired), paired with a Voltex Type-3 rear wing (30mm adjustable angle) for balanced downforce at 120+ mph.",
+    "Wheels: Work Emotion CR Kiwami (18x9.5 +38 front, 18x10.5 +45 rear) with Michelin Pilot Sport Cup 2 tires (255/40/18 front, 275/35/18 rear) for aggressive staggered fitment and track-ready grip.",
+    "Exterior: Full Respray in Subaru World Rally Blue (M3Y) with a 3M Matte Black roof wrap, JDM-spec Legacy B4 STi badges (replacing Spec B emblems), and custom LED taillights with sequential turn signals (V-Land replica housings).",
+    "Interior: Bride Zeta III bucket seats (fixed-back, FIA-approved) with Takata 4-point harnesses, NRG quick-release steering wheel hub, and a custom half-cage (Cusco bolt-in) with integrated fire suppression system (Lifeline Zero 360)."
+  ]
+}

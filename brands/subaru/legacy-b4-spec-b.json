@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "LEGACY B4 SPEC B",
+  "prestazioni": [
+    "Engine: EJ255 (closed-deck, semi-forged internals) with a Tomei 260° duration camshaft kit (intake: 260°/11.2mm lift, exhaust: 260°/10.8mm lift) paired with Tomei Type-M valve springs and titanium retainers for 8,500 RPM reliability.",
+    "Forced Induction: Garrett GT3076R turbocharger (0.82 A/R turbine housing, 62mm compressor inducer) with a custom 3-inch divorced wastegate manifold by Crawford Performance, mated to a PWR 450hp front-mount intercooler and 3-inch aluminum charge piping with silicone couplers from Turbosmart.",
+    "Fuel System: Injector Dynamics ID1000x injectors (1000cc/min) with a Walbro 450 LPH in-tank fuel pump, controlled via a Cobb Accessport V3 flashed with a custom EJ255 Stage 2+ map (targeting 380whp on 93 octane with 22psi peak boost, tapering to 18psi at redline)."
+  ],
+  "estetica": [
+    "Front Bumper: Seibon Carbon Fiber JDM-style Legacy B4 Spec B lip spoiler (OEM+ aggressive fitment) with integrated C-West canards for improved high-speed stability.",
+    "Rear Wing: Cusco Type-RS adjustable carbon fiber GT wing (30mm risers, 12° angle of attack) mounted on OEM Spec B trunk with reinforced subframe bushings to prevent flex.",
+    "Wheels: Work Emotion CR Kiwami (18x9.5 +38 front, 18x10.5 +40 rear) wrapped in Yokohama Advan Neova AD09 (245/40/18 front, 275/35/18 rear) with Kics R40 5x100 to 5x114.3 adapters and extended wheel studs."
+  ]
+}

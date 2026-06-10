@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "IMPREZA WRX STI GR",
+  "prestazioni": [
+    "Engine: EJ257 (closed-deck, semi-forged internals) with a fully built short block featuring Manley 99.75mm forged pistons (9.2:1 CR), Manley H-beam connecting rods, and ACL Race Series main and rod bearings. Paired with a Tomei 272° Type-R camshaft set (intake/exhaust) and Tomei adjustable cam gears for optimized valve timing.",
+    "Forced Induction: Garrett GTX3582R Gen II turbocharger (0.82 A/R turbine housing, 62mm compressor wheel) with a custom 3.5-inch stainless steel turbo-back exhaust system by GrimmSpeed (catless downpipe, resonated mid-pipe, and a 3.5-inch titanium-coated muffler). Boost controlled via a Cobb Accessport V3 with a custom tune by COBB Tuning's in-house STI specialist (targeting 28-30 psi on E85, 22 psi on pump gas).",
+    "Drivetrain & Handling: OS Giken Super Lock LSD (front and rear) with a PPG 6-speed dog engagement gearset (1st: 2.97, 2nd: 2.18, 3rd: 1.63, 4th: 1.29, 5th: 1.06, 6th: 0.84). Suspension upgraded with Öhlins Road & Track DFV coilovers (2-way adjustable dampers, 8kg/mm front springs, 9kg/mm rear springs) and Cusco front and rear sway bars (24mm front, 22mm rear). Braking system features DBA 5000 Series rotors (slotted, 2-piece) with Ferodo DS2500 pads and Goodridge braided stainless steel brake lines."
+  ],
+  "estetica": [
+    "Aerodynamics: Rocket Bunny V3 widebody kit (GR-specific, carbon fiber front fenders, rear quarter panels, and rear diffuser) with a custom 3D-printed front splitter by APR Performance (adjustable dive planes, 30% more downforce at 100 mph). Rear wing replaced with a Voltex Type-7 (2-element, 1,700mm span, carbon fiber construction) mounted on custom aluminum pedestals for adjustable angle of attack.",
+    "Exterior Styling: Full respray in Subaru World Rally Team (SWRT) 2008 livery (PPG Deltron DBC-9000 basecoat, clearcoat with 3M Scotchgard Pro Series ceramic coating). OEM headlights replaced with Morimoto XB LED projectors (Bi-Xenon, sequential turn signals) and custom smoked taillights by VLand (LED, sequential reverse lights). Side mirrors upgraded to Seibon carbon fiber units (GR-specific, heated, with integrated turn signals).",
+    "Interior: Full Recaro SPG XL bucket seats (GR-specific mounting brackets, Schroth Profi II 6-point harnesses) with a custom roll cage by Cusco (8-point, chromoly steel, bolt-in with harness bar). Steering wheel replaced with a Momo Prototipo (350mm, suede, quick-release hub) and shift knob upgraded to a weighted titanium unit by Perrin Performance. Dashboard modified with a 12.3-inch Aim MXS Strada digital dash (CAN bus integration, lap timer, boost/vacuum, oil temp/pressure, and wideband AFR display)."
+  ]
+}

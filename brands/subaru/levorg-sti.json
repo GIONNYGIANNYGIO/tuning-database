@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "LEVORG STI",
+  "prestazioni": [
+    "Engine: FA24F (2.4L turbocharged boxer-four) – Full forged internals upgrade with Manley 92.8mm forged pistons, Eagle H-beam connecting rods, and ACL Race Series bearings to handle 1.5-bar boost reliably. Stock crank retained with balanced assembly by Tomei.",
+    "Turbocharger: Garrett GTX3582R Gen II with billet compressor wheel, 0.82 A/R turbine housing, and TiAL MV-R 44mm external wastegate for precise boost control. Matched with a custom 3.5-inch divorced downpipe and Grimmspeed 3-port boost solenoid for seamless spool.",
+    "ECU & Fueling: Cobb Accessport v3 flashed with a custom ProTune map optimized for E85 (flex-fuel sensor integrated). Injector Dynamics ID1700x injectors paired with a Radium Engineering dual-catch can setup and a Walbro 450LPH in-tank fuel pump. Secondary fueling via AEM 340LPH pump for E85 compatibility."
+  ],
+  "estetica": [
+    "Aero: Varis Japan Levorg STI-specific front lip, carbon fiber side skirts, and a GT-wing replica from C-West (200mm chord, 1200mm span) with adjustable mounts. Rear diffuser by Seibon Carbon for aggressive airflow management.",
+    "Wheels: Work Emotion CR Kiwami 19x9.5 +38 front and 19x10.5 +45 rear, wrapped in Michelin Pilot Sport Cup 2 R (255/35/19 front, 275/30/19 rear) for maximum mechanical grip.",
+    "Interior: Bride Zeta IV bucket seats with Takata 4-point harnesses, custom STI-themed roll cage by Cusco (bolt-in, 6-point), and a Momo Prototipo steering wheel with quick-release hub. Full interior stripped and sound-deadened with Dynamat Extreme for weight reduction."
+  ]
+}

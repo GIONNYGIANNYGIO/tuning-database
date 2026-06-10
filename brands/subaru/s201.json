@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "S201",
+  "prestazioni": [
+    "Engine: EJ207 (closed-deck, semi-forged internals) with Tomei 272° duration, 11.5mm lift camshafts (Poncam spec) and Tomei Type-M 1.2mm head gaskets for 11.5:1 static compression, paired with a Garrett GT3076R .86 A/R turbocharger on a custom 3-inch divorced wastegate manifold (Blitz Spec-R) and a Tomei M82 EL header for optimized exhaust scavenging",
+    "Fuel System: ID1000x injectors (2200cc/min) with an Aeromotive 340 Stealth fuel pump, Walbro 450LPH in-tank pump, and a Radium Engineering dual catch-can setup (PCV & crankcase) to prevent oil dilution under sustained boost (targeting 1.5 bar / 21.7 psi on 100-octane fuel with a Cobb Accessport v3 custom tune by Viva Performance)",
+    "Drivetrain & Handling: Cusco Type-RS 1.5-way LSD (front) and Cusco 2-way LSD (rear) with a STi Group N carbon propshaft, HKS Hipermax IV GT coilovers (8kg/mm front, 7kg/mm rear) with Ohlins DFV dampers, and a Whiteline 24mm adjustable rear sway bar (part # BSR47XZ) to mitigate the S201’s natural understeer under high-speed cornering"
+  ],
+  "estetica": [
+    "Aero: C-West STi Version V widebody kit (carbon fiber front fenders, rear quarter panels, and rear diffuser) with a Voltex Type-7 rear wing (3D carbon, 1200mm span) and a custom STi S202-style aluminum front lip (JDM-only, part # 82051AC000AL) for aggressive downforce balance (targeting 120kg front, 180kg rear at 160km/h)",
+    "Exterior: STi S201-specific ‘Stella’ blue paint (code: 22B) with a full Respray in Glasurit 90 Line (mixed to JASMA standards) and STi ‘Sti’ badging (gold, part # 92100AC000) on the front fenders, paired with Work Emotion CR Kiwami wheels (18x9.5 +38 front, 18x10.5 +35 rear) in Hyper Silver with Yokohama Advan Neova AD08R tires (245/40/18 front, 275/35/18 rear)",
+    "Interior: Bride Euro II (fixed-back) seats in black Alcantara with red stitching (part # BRIDE-001), a Nardi Classic 380mm steering wheel (part # 120.38.0000) with a Works Bell quick-release hub, and a Defi BF Advance gauge cluster (oil temp, oil pressure, boost, wideband AFR) mounted on a custom STi S201-specific aluminum triple-gauge pod (JDM-only, part # 86010AC000)"
+  ]
+}

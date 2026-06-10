@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "LEGACY SPEC B",
+  "prestazioni": [
+    "Engine: EJ255 (closed-deck, semi-forged internals) with a Tomei 260° duration camshaft kit (intake: 260° @ 11.0mm lift, exhaust: 260° @ 10.5mm lift) and upgraded valve springs/retainers for 8,500 RPM stability.",
+    "Forced Induction: Garrett GT3076R turbocharger (0.82 A/R turbine housing) with a custom 3-inch divorced wastegate setup, paired with a PWR 4-core front-mount intercooler (450whp core) and ID1000x injectors (1,000cc/min) for E85 compatibility.",
+    "Drivetrain: PPG 6-speed dog engagement transmission gears (1st: 2.97, 2nd: 2.18, 3rd: 1.63) with an ACT 6-puck sprung clutch (440 ft-lb torque capacity) and a Cusco 1.5-way mechanical LSD (80% lockup) for the rear differential."
+  ],
+  "estetica": [
+    "Aero: Veilside Fortune 03 widebody conversion kit (JDM-spec, 3-piece bolt-on fenders) with a custom carbon fiber duckbill spoiler (20mm adjustable angle) and a Seibon carbon fiber hood (50mm vented, weight reduction: 8.5kg).",
+    "Suspension: Ohlins Road & Track DFV coilovers (2-way adjustable damping, 30-way rebound, 32-way compression) with Cusco pillowball upper mounts and Whiteline adjustable sway bars (24mm front, 22mm rear) for roll stiffness tuning.",
+    "Wheels: Work Emotion CR Kiwami (18x9.5 +35 front, 18x10.5 +30 rear) with Yokohama Advan A052 semi-slick tires (255/40/18 front, 275/35/18 rear) and Project Kics R40 6-piston front/4-piston rear brake kit (356mm rotors, J-hook slotted)."
+  ]
+}
