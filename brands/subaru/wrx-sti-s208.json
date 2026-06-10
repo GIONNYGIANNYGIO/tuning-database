@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "WRX STI S208",
+  "prestazioni": [
+    "Engine: EJ207 (2.0L closed-deck, semi-forged internals, 11.1:1 compression) with a Tomei 272°/272° billet camshaft set (12.5mm lift) and Tomei Type-S valve springs to handle 9,000 RPM safely, paired with a Garrett GTX3582R Gen II turbo (0.82 A/R, 62mm compressor, 76mm turbine) on a custom 3-inch divorced wastegate manifold (Blouch Dominator 4.0XTi upgrade path).",
+    "Fuel System: Injector Dynamics ID1700x (1,700cc) side-feed injectors with a Radium Engineering dual-catch can setup (AN-10 lines) and a Walbro 450LPH in-tank pump, controlled via a Link G4+ Xtreme ECU with flex-fuel ethanol mapping (E85 compatible) and a Cobb Accessport for real-time knock monitoring (3-bar MAP sensor).",
+    "Drivetrain: STI S208-specific 6-speed manual transmission reinforced with a PPG Stage 3 gearset (2.345 1st, 1.904 2nd, 1.520 3rd) and a Cusco Type-RS 2-way LSD (1.5/2.0 preload), paired with a Sachs Performance twin-disc clutch (440Nm torque capacity) and a PWR radiator with dual 12-inch SPAL fans for sustained track use."
+  ],
+  "estetica": [
+    "Aero: STI S208 OEM carbon fiber front lip (JDM-spec, part #80601VA000) with a Voltex Type-3 rear wing (3D carbon, 1,700mm width, 200mm height) and a custom STI S208-specific Rocket Bunny V3 widebody kit (flares extended 50mm per side, riveted aluminum overfenders).",
+    "Wheels: Work Emotion CR Kiwami (9.5x18 +38 front, 10.5x18 +38 rear) in matte gunmetal with Yokohama Advan A052 tires (265/35/18 front, 295/30/18 rear) and STI S208-specific Brembo 6-piston front calipers (356mm discs) with Ferodo DS2500 pads.",
+    "Interior: Recaro SP-G (JDM-spec, part #61100VA000) with Takata Drift III 4-point harnesses, a Defi BF Silver gauge cluster (oil temp, oil pressure, boost, wideband AFR) mounted on a custom aluminum A-pillar pod, and a Cusco bolt-in roll cage (8-point, chromoly, STI S208-specific mounting points)."
+  ]
+}

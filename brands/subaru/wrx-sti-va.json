@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "WRX STI VA",
+  "prestazioni": [
+    "FA20F (2.0L DOHC 16V Turbo) engine: Full forged internals with Manley 92.8mm forged pistons, Eagle H-beam connecting rods, and a billet crankshaft from Tomei, paired with a Garrett GTX3582R turbocharger (0.82 A/R turbine housing) and a custom 3.5-inch stainless steel turbo-back exhaust by GrimmSpeed with a 4-inch titanium tip for optimized spool and reduced backpressure",
+    "Fuel system upgrade: Injector Dynamics ID1050x fuel injectors, Radium Engineering dual catch can setup, and a Walbro 450 LPH in-tank fuel pump, controlled by a Cobb Accessport V3 with a custom Stage 3+ tune calibrated for E85 blend (85% ethanol) with a flex fuel sensor for real-time ethanol content adjustment",
+    "Drivetrain and cooling: STI VA-specific 6-speed manual transmission reinforced with a PPG short shifter and a Cusco 2-way limited-slip differential, paired with a Setrab 50-row oil cooler and a Mishimoto aluminum radiator with dual 12-inch SPAL fans for consistent thermal management under track conditions"
+  ],
+  "estetica": [
+    "Widebody conversion: Rocket Bunny V3 STI VA-specific kit with carbon fiber front fenders, rear quarter panels, and a custom 3-piece rear diffuser, paired with a Seibon carbon fiber hood featuring a functional scoop and integrated heat extractor vents",
+    "Suspension and stance: Ohlins Road & Track DFV coilovers with 24-way adjustable damping, Cusco front and rear pillowball upper mounts, and Whiteline adjustable sway bars (24mm front, 22mm rear), set up for a 1.5-inch drop with aggressive camber settings (-2.5° front, -2.0° rear) for optimal turn-in response",
+    "Aerodynamics and lighting: Voltex Type-3 rear wing with a 1,500mm carbon fiber blade and integrated third brake light, paired with Morimoto XB LED headlights and a custom front splitter by Varis with integrated canards and a 3D-printed air curtain system for reduced drag and improved downforce"
+  ]
+}

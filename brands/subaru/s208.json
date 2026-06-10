@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "S208",
+  "prestazioni": [
+    "Engine: EJ207 (2.0L flat-4, closed-deck, semi-forged internals) upgraded with a Garrett GT3076R turbocharger (0.82 A/R, ball-bearing) paired with a Tomei 80mm titanium wastegate for precise boost control at 1.5 bar (21.7 psi), replacing the stock TD05-18G turbo",
+    "Fuel System: Injector Dynamics ID1050x fuel injectors (1050cc/min) with a Radium Engineering dual-catch can setup (PCV and crankcase ventilation) to prevent oil contamination under sustained 7,000 RPM pulls, paired with a Walbro 450 LPH in-tank fuel pump and a Tomei fuel pressure regulator (FPR) for consistent rail pressure",
+    "Drivetrain: STI 6-speed close-ratio transmission (TY856WB) reinforced with a PPG short shifter and a Cusco 2-way limited-slip differential (LSD) with 40% preload, mated to a Sachs Performance twin-disc clutch (organic/metallic hybrid) and a lightweight aluminum flywheel (3.5kg) for rapid rev-matching"
+  ],
+  "estetica": [
+    "Aero: Voltex Type-30 front lip spoiler (carbon fiber, STI S208-specific fitment) with a C-West GT-II rear wing (3D carbon, adjustable angle) and a Seibon carbon fiber hood (with integrated NACA ducts for intercooler cooling)",
+    "Wheels: Work Emotion CR Kiwami (18x9.5 +38 front, 18x10.5 +40 rear) in Hyper Silver, wrapped in Yokohama Advan Neova AD08R tires (245/40/18 front, 275/35/18 rear) for optimal weight distribution and mechanical grip",
+    "Interior: Bride Zeta III fixed-back seats (STI S208 edition, red Alcantara with black leather bolsters) paired with a Nardi Classic 350mm steering wheel (suede, 6-bolt pattern) and a Defi BF Advance multi-gauge pod (boost, oil temp, and wideband AFR) mounted on the A-pillar"
+  ]
+}

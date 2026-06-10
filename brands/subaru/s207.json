@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "S207",
+  "prestazioni": [
+    "Engine: EJ207 (closed-deck, semi-forged internals, 92mm bore, 75mm stroke) upgraded with a Garrett GT3076R turbocharger (0.63 A/R, ball-bearing core) paired with a Tomei 80mm titanium wastegate for precise boost control at 1.5 bar (21.7 psi), targeting 450whp on 98 RON fuel with a custom ECU map via Cobb Accessport v3 (Subaru DIT-specific calibration).",
+    "Exhaust: Full titanium 3.5-inch turbo-back system by HKS Hi-Power Spec-L (equal-length 4-2-1 headers with 1.6mm wall thickness, 200-cell catalytic converter, and a single 120mm titanium exit) to reduce backpressure while maintaining JDM compliance and enhancing turbo spool by 300 RPM.",
+    "Suspension: Öhlins Road & Track DFV coilovers (S207-specific valving, 20-way adjustable compression/rebound, 30mm front/25mm rear ride height adjustment) paired with Cusco front and rear pillowball upper mounts (Type RS) and Whiteline adjustable front sway bar (24mm, 3-position) to eliminate body roll during high-G cornering on Nürburgring-style circuits."
+  ],
+  "estetica": [
+    "Aero: Varis Japan S207-specific widebody kit (carbon fiber front fenders, rear quarter panels, and GT wing with 1,700mm span, 3D-printed ABS endplates) designed to generate 120kg of downforce at 180km/h, paired with a custom carbon fiber front splitter by Seibon with integrated canards (3D-scanned for OEM fitment).",
+    "Wheels: Work Emotion CR Kiwami (9.5x18 +38 front, 10.5x18 +40 rear) in gloss black with titanium hardware, wrapped in Yokohama Advan A052 semi-slick tires (255/35/18 front, 285/30/18 rear) for optimal heat cycling and lateral grip (μ=1.2).",
+    "Interior: Recaro SP-G (S207-limited edition, Alcantara/Suede with red stitching) paired with a custom roll cage by Buddy Club (8-point, chromoly steel, bolt-in design with harness bar) and a Momo Prototipo steering wheel (350mm, suede, quick-release hub) for track-focused ergonomics and weight reduction (12kg total)."
+  ]
+}

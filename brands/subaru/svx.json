@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "SVX",
+  "prestazioni": [
+    "EG33 3.3L H6 engine: Full forged internals with JE 9.5:1 compression pistons, Eagle H-beam connecting rods, and a billet crankshaft for 8,000 RPM reliability, paired with a custom Tomei 272° camshaft grind (intake/exhaust) and Ferrea titanium retainers to optimize the EG33’s unique 180° crankshaft firing order for linear power delivery.",
+    "Garrett GTX3582R turbocharger with a custom 0.82 A/R turbine housing and 58mm compressor wheel, mated to a custom equal-length stainless steel exhaust manifold (3-1 design) and a GReddy Type-S front-mount intercooler (400mm core) to eliminate heat soak in the SVX’s tight engine bay, supported by a Tomei M82 blow-off valve and a custom 3-inch turbo-back exhaust with Burns Stainless merge collectors.",
+    "Haltech Elite 2500 standalone ECU with a custom flex-fuel ethanol map, integrated with a Link G4+ CAN bus expansion for real-time data logging from a 4-bar MAP sensor, dual Bosch LSU 4.9 wideband O2 sensors, and a Motec C127 dash for precise AFR and boost control (targeting 18 psi on 98 RON + E85), paired with a custom wiring harness by iWire and a Killer B Motorsport oil catch can to prevent carbon buildup in the EG33’s horizontally opposed cylinders."
+  ],
+  "estetica": [
+    "Liberty Walk LB-SVX widebody kit (carbon fiber fenders, front/rear bumpers, and side skirts) with custom extended wheel arches to fit 9.5x18 ET20 Volk Racing TE37SL wheels (gunmetal finish) wrapped in Michelin Pilot Sport Cup 2 R tires (245/40 front, 275/35 rear), paired with a custom 3-piece rear diffuser by Rocket Bunny and a carbon fiber hood with a functional NACA duct for the intercooler.",
+    "Full custom interior by Status Racing featuring Recaro Pole Position seats (carbon fiber backs, Alcantara inserts) with custom 4-point harnesses by Schroth, a MOMO Prototipo steering wheel (350mm, suede) on a NRG quick-release hub, and a custom roll cage by Custom Cages (TIG-welded 4130 chromoly, bolt-in design) with integrated fire suppression system by SPA Technique.",
+    "Custom aero package by Varis Japan, including a 1,200mm carbon fiber rear wing (adjustable dual-element) mounted on custom aluminum pedestals, a carbon fiber front splitter with integrated canards, and a custom rear spoiler lip to reduce lift at high speeds, finished in a 3-stage matte pearl white paint (House of Kolor Shimrin 2) with custom gold leaf accents on the SVX’s signature side windows and B-pillars."
+  ]
+}

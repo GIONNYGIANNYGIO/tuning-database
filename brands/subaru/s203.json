@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "S203",
+  "prestazioni": [
+    "Engine: EJ207 (closed-deck, semi-forged internals) with a Tomei 2.2L stroker kit (81mm crank, 92mm pistons, and 10.5:1 compression ratio) paired with Manley I-beam connecting rods and ACL Race Series bearings for 500+ hp reliability on E85.",
+    "Forced Induction: Garrett GTX3582R Gen II turbocharger (0.82 A/R turbine housing, 62mm compressor wheel) with a custom 3-inch divorced wastegate setup (Tial MV-R 44mm) and a PWR 4.5-inch core intercooler with 500hp+ efficiency.",
+    "Fuel & Ignition: Injector Dynamics ID1700x fuel injectors (side-feed, 1700cc/min) with a Radium Engineering dual-catch can setup, AEM 4150-based fuel rail, and a Haltech Elite 2500 ECU controlling a dual-map MSD 8 Plus ignition system with NGK R7437-9 spark plugs gapped at 0.024in."
+  ],
+  "estetica": [
+    "Body: STi S203-specific Rocket Bunny V3 widebody kit (carbon fiber fenders, front bumper, and rear diffuser) with a custom 3M Gloss Black wrap and STi S204-style carbon fiber roof replacement (OEM+ fitment).",
+    "Wheels: Work Emotion CR Kiwami 2-piece forged wheels (9.5x18 +38 front, 10.5x18 +38 rear) with Yokohama Advan A052 tires (255/35/18 front, 285/35/18 rear) and Project Kics R40 6-pot front/4-pot rear brake kit with 356mm rotors.",
+    "Interior: Bride Zeta III reclinable bucket seats (Subaru-specific mounting brackets) with Takata 4-point harnesses, a custom half-cage (TIG-welded 4130 chromoly) by Cusco, and a Defi BF Series gauge cluster (oil temp, oil pressure, boost, and wideband AFR) mounted on a custom carbon fiber A-pillar pod."
+  ]
+}

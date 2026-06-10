@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "WRX STI NBR CHALLENGE",
+  "prestazioni": [
+    "Engine: EJ257 (closed-deck, forged internals) with a fully built rotating assembly featuring Manley 92.8mm forged pistons (9.0:1 CR), Eagle H-beam connecting rods, and a billet crankshaft from Tomei. Paired with a Garrett GTX5533R turbocharger (88mm compressor wheel, .96 A/R turbine housing) for 550whp on E85 with a custom tune via Cobb Accessport ProTUNE.",
+    "Drivetrain: OS Giken Super Lock LSD (front and rear) with a PPG 6-speed dog engagement gearset (STI-specific ratios: 3.636, 2.375, 1.761, 1.346, 1.062, 0.842) and a Tilton triple-plate carbon clutch (7.25\" diameter) with a billet flywheel.",
+    "Suspension: Öhlins Road & Track DFV coilovers (2-way adjustable dampers, 30-way rebound, 15-way compression) with Cusco front and rear sway bars (24mm front, 22mm rear) and spherical bearing subframe collars. Polyurethane bushings from Whiteline (full kit) and spherical bearing control arms from IAG."
+  ],
+  "estetica": [
+    "Aero: Voltex Type-3R widebody kit (carbon fiber, NBR Challenge-spec) with a custom 3D-printed front splitter (50mm overhang, 3-stage gurney flap) and a GT Wing carbon fiber rear wing (1700mm span, 300mm chord, 3-stage wickerbill). Underbody diffuser by Seibon Carbon (3-piece, 15% downforce increase).",
+    "Exterior: RAYS Volk Racing TE37V (18x10.5 +25 front, 18x11 +30 rear) with Michelin Pilot Sport Cup 2 R tires (275/35/18 front, 295/30/18 rear). Custom NBR Challenge livery by Avery Dennison (matte black base, neon green accents, reflective 3M Scotchlite striping).",
+    "Interior: Recaro SPG XL seats (carbon fiber shells, FIA-approved 6-point harnesses) with a custom roll cage by Custom Cages (chromoly, 8-point, gusseted main hoop). Momo Prototipo steering wheel (350mm, suede) with a quick-release hub and a Motec C127 dash logger (data acquisition for 12 channels, including turbo speed and exhaust gas temps)."
+  ]
+}

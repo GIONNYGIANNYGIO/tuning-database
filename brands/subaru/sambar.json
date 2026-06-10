@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "SAMBAR",
+  "prestazioni": [
+    "Engine swap to a **EN07D** (660cc turbocharged inline-4, 64 PS stock) with a **Garrett GT12 turbocharger** (40mm compressor wheel, 0.35 A/R turbine housing) paired with a **HKS Super SQV4 blow-off valve** to prevent compressor surge under aggressive gear shifts. Upgraded **Tomei 260° camshafts** (10.5mm lift) and **Ferrea 5000-series valves** (titanium intake, Inconel exhaust) for high-RPM stability.",
+    "Custom **ECU reflash via Cobb Accessport (Subaru EN07D-specific map)** with **E85 flex-fuel tuning** (via **AEM X-Series wideband O2 sensor**) to target 12.5:1 AFR at peak boost (1.2 bar). **Nismo 550cc/min fuel injectors** and a **Walbro 255 LPH in-tank fuel pump** to support the increased flow demands. **HKS Hi-Power ignition coils** and **NGK IFR7H-11S spark plugs** (0.8mm gap) for consistent combustion under forced induction.",
+    "Chassis reinforcement via **Cusco Type-RS strut tower bar (Sambar-specific)** and **Rays TE37V 12x4.5\" wheels** (ET+38 offset, 155/65R12 Yokohama Advan Neova AD08R tires). **Ohlins DFV coilovers (custom valved for Sambar chassis)** with **Eibach 400 lb/in progressive-rate springs** to handle the added power while maintaining Kei-car legal ride height. **Project Mu 4-piston calipers (front, Sambar-specific)** with **DBA 5000-series rotors** for fade-resistant braking."
+  ],
+  "estetica": [
+    "**Liberty Walk LB-Sambar widebody kit** (fiberglass fenders, custom front bumper with integrated **Seibon carbon fiber hood**), extending track width by 40mm per side. **Rocket Bunny-style overfenders** (polyurethane, bolt-on) with **custom LED turn signals** (Osram LEDriving SL 101).",
+    "**Full carbon fiber aero package**: **Aero Catch carbon fiber side skirts** (Sambar-specific, 3-piece), **Voltex Type-3 rear diffuser** (with integrated **GReddy RS blow-off valve dump tube**), and **Varis-style front canards** (carbon fiber, 3D-printed mounting brackets). **Custom Kei-car legal LED taillights** (Philips Ultinon Pro9000, sequential turn signals).",
+    "**Interior roll cage**: **Sparco Pro2000 6-point bolt-in cage** (Sambar-specific, TIG-welded) with **Recaro Pole Position seats** (custom brackets for Kei-car dimensions). **Momo Mod.78 steering wheel** (320mm, quick-release hub) and **Defi BF gauges** (boost, oil temp, EGT) mounted in a **custom carbon fiber A-pillar pod**. **Sound deadening removed** and replaced with **Dynamat Xtreme** for weight reduction."
+  ]
+}

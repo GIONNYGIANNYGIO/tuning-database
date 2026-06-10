@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "WRX STI TYPE RA-R SPEC C",
+  "prestazioni": [
+    "Engine: EJ257 (closed-deck, semi-forged internals, 99.5mm bore, 79mm stroke) with a Tomei 2.2L stroker kit (83mm forged crank, 102mm forged pistons, H-beam connecting rods) and Tomei Type-A head gaskets (1.2mm thickness) for 11.5:1 compression ratio, paired with a Garrett GTX3582R Gen II turbocharger (0.82 A/R turbine housing, 62mm compressor inducer) on a custom 3-inch divorced wastegate manifold (Blitz Spec-R) with a Tial MV-R 44mm external wastegate (1.05 bar base boost, 1.4 bar on E85)",
+    "Fuel System: Injector Dynamics ID1700x (1,700cc/min) side-feed injectors with a Radium Engineering dual-catch can setup (AN-10 lines) and a Walbro 450LPH in-tank fuel pump, controlled via a Link G4+ Xtreme ECU with flex-fuel sensor (E85 compatibility) and a custom 3-bar MAP sensor for precise load targeting (30psi max)",
+    "Drivetrain & Handling: OS Giken Super Lock LSD (front and rear, 2.5-way) with a PPG STI RA-R-spec 6-speed close-ratio gearset (1st: 3.636, 2nd: 2.375, 3rd: 1.761, 4th: 1.346, 5th: 1.062, 6th: 0.842), paired with a Cusco Type-RS 800Nm-rated carbon driveshaft and a STI RA-R-spec reinforced clutch (triple-plate, 800Nm capacity). Suspension: Öhlins Road & Track DFV coilovers (24-way compression/rebound damping, 20mm adjustable ride height) with Cusco front and rear pillowball upper mounts, Whiteline adjustable sway bars (24mm front, 22mm rear), and STI RA-R-spec reinforced subframe bushings (polyurethane, 80A durometer)"
+  ],
+  "estetica": [
+    "Aero: Voltex Type-22 1-piece carbon fiber front bumper with integrated canards (3D-printed ABS endplates) and a custom STI RA-R-spec rear diffuser (carbon-Kevlar hybrid, 3-stage Gurney flaps) paired with a Seibon carbon fiber GT wing (1,700mm span, 300mm chord, 3D-printed titanium endplates) mounted on Cusco GT-spec aluminum pedestals (adjustable angle: 0-20 degrees)",
+    "Body: STI RA-R-spec carbon fiber roof (pre-preg autoclave, 1.2mm thickness) with a custom RAYS Gram Lights 57DR 18x9.5 +38 front and 18x10.5 +45 rear wheels (matte gunmetal finish, 5x114.3 PCD) wrapped in Michelin Pilot Sport Cup 2 R tires (255/35/18 front, 285/30/18 rear). Fender flares: Rocket Bunny V3 widebody kit (carbon fiber, 30mm extended front, 40mm extended rear) with custom STI RA-R-spec rivet placement (aerodynamic seam sealing)",
+    "Interior: Bride Zeta IV STI-spec bucket seats (carbon-Kevlar shell, FIA 8862-2009 certified) with Schroth Profi II 6-point harnesses (ASM homologation) and a custom STI RA-R-spec roll cage (T45 chromoly, 1.75x0.120 wall thickness, gusseted main hoop) integrated with a Defi BF Advance digital dash (12-inch LCD, CAN-bus data logging) and a Sparco Pro 2000 steering wheel (350mm diameter, suede grip, quick-release hub)"
+  ]
+}

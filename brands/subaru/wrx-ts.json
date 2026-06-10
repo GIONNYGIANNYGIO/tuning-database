@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "WRX tS",
+  "prestazioni": [
+    "Engine: FA24F (2.4L turbocharged flat-four, direct-injection, 271 hp stock) with a Cobb Accessport v3 Stage 2+ tune optimized for E85 blend (90% ethanol), targeting 380-400 whp with a Garrett GTX3076R Gen II turbo (0.82 A/R, ball-bearing, 20 psi peak boost) and a Tomei 86mm titanium exhaust manifold with divorced wastegate setup",
+    "Drivetrain: STI 6-speed manual transmission reinforced with a PPG close-ratio gearset (2.58/1.95/1.47/1.19/1.00/0.87) and a Cusco 2-way limited-slip differential (1.5/2.0 preload), paired with a Fidanza lightweight flywheel (11.5 lbs) and South Bend Stage 3 daily clutch kit (ceramic-metallic, 6 puck)",
+    "Suspension/Handling: Ohlins Road & Track DFV coilovers (2-way adjustable damping, 30-way rebound, 15-way compression) with Swift Springs (8K front/10K rear rates), Whiteline adjustable front sway bar (24mm hollow, 3-position) and rear sway bar (22mm solid), plus Cusco front strut tower bar (2-point, aluminum) and a full Whiteline rear subframe lockout kit (polyurethane bushings)"
+  ],
+  "estetica": [
+    "Aero: Varis Japan widebody conversion kit (carbon fiber, 30mm extended fenders front/rear) with a custom Varis rear diffuser (3D-printed ABS, 3-piece) and a Seibon carbon fiber hood (Type 2, vented, 50% weight reduction over OEM)",
+    "Exterior: Work Emotion CR Kiwami wheels (18x9.5 +38 front, 18x10.5 +45 rear) in Hyper Silver with Yokohama Advan A052 tires (255/35/18 front, 275/35/18 rear), paired with a custom STI-inspired front lip (carbon fiber, 3M Matte Black wrap) and a Voltex rear wing (Type 3, 1,200mm width, adjustable angle)",
+    "Interior: Bride Zeta III seats (fixed-back, carbon fiber shell, Alcantara/leather) with Takata 4-point harnesses, a Cusco bolt-in roll cage (8-point, mild steel, gusseted), and a custom Motec C127 dash display (replacing OEM cluster) with AIM Solo 2 DL GPS data logging"
+  ]
+}

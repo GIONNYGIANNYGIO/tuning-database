@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "VIVIO RX-R SUPER EDITION",
+  "prestazioni": [
+    "EN07E 659cc DOHC 16-valve turbocharged engine: Replace the stock IHI RHB31 turbo with a custom-built Garrett GT12 turbo (GT1241Z, 0.35 A/R turbine housing) paired with a Tomei 4-1 stainless steel exhaust manifold (Vivio RX-R specific) to eliminate turbo lag and support 250+ hp at 8,500 RPM with forged internals (JUN forged pistons, Eagle H-beam rods, and ACL race bearings).",
+    "EN07E forced induction: Install a GReddy intercooler kit (Vivio-specific core, 220mm x 150mm x 50mm) with custom aluminum piping (38mm diameter) and a HKS SSQV blow-off valve (adjustable spring rate) to maintain 1.2 bar (17.4 psi) boost pressure under full load, reducing intake temps by 40°C for consistent power delivery.",
+    "EN07E fuel and ignition: Swap the stock ECU for a Haltech Elite 1500 (Vivio RX-R plug-and-play harness) with a custom 4D ignition map (NGK Iridium IX spark plugs, Denso PK20TT coils) and dual 350cc/min Injector Dynamics ID725 injectors (side-feed, Vivio-specific rail adapter) to support E85 fuel blends and 22° of ignition advance at peak torque (6,500 RPM)."
+  ],
+  "estetica": [
+    "Carbon fiber hood (Seibon CF hood, Vivio RX-R Super Edition-specific mold, 1.2mm thickness, 30% weight reduction) with integrated NACA ducts (positioned for intercooler airflow) and a clear-coated finish for heat resistance up to 180°C.",
+    "Rocket Bunny Vivio RX-R widebody kit (Pandem, fiberglass construction, 50mm extended fenders front/rear) with custom 3-piece Work Meister S1 3P wheels (13x6.5 +38 offset, 4x100 PCD) wrapped in Toyo R888R tires (165/50R13) for aggressive stance and track-ready grip.",
+    "Recaro SRD-E (Kei-car specific, fixed-back, carbon-Kevlar shell) with custom Bride Euroster II seat brackets (Vivio RX-R floorpan reinforcement) and Takata Drift II 4-point harnesses (FIA-approved, 3-inch lap belts) for driver support during 1.5G lateral loads."
+  ]
+}

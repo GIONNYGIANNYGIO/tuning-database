@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "WRX RA-R",
+  "prestazioni": [
+    "Replace the stock EJ207 (closed-deck, semi-forged internals) with a Tomei 2.1L stroker kit featuring 86mm forged pistons, billet crankshaft, and H-beam connecting rods, paired with a Tomei Type-M 272° camshaft set for optimized high-RPM power delivery (safe to 8,500 RPM with upgraded valve springs).",
+    "Install a Garrett GTX3582R turbocharger with a 0.82 A/R turbine housing, custom 3.5-inch divorced wastegate dump tube, and a PTP 44mm external wastegate to eliminate boost creep, mated to a GReddy intercooler core (400x200x60mm) with custom aluminum end tanks for reduced intake temps (target: 12-15psi on 98 RON fuel).",
+    "Upgrade the stock fuel system with a Walbro 450LPH in-tank pump, ID1000x injectors, and a Radium Engineering dual catch can setup (PCV and crankcase ventilation separated) to prevent oil contamination, paired with a Link G4+ Xtreme standalone ECU for precise ignition timing and boost control (mapped on a Dynapack hub dyno for 400whp+ on pump gas)."
+  ],
+  "estetica": [
+    "Fit a Varis Japan widebody conversion kit (front fenders, rear quarter panels, and rear bumper) with custom carbon fiber overfenders to accommodate 10.5-inch ET35 Work Emotion CR Kiwami wheels (18x10.5 +35) wrapped in 265/35/18 Michelin Pilot Sport Cup 2 tires for aggressive stance and track-ready grip.",
+    "Install a C-West RA-spec front lip spoiler, rear diffuser, and GT wing (1,200mm width, 300mm height) with adjustable carbon fiber endplates for downforce tuning (target: 150kg at 160km/h), paired with a custom titanium bolt-on canard set from Rocket Bunny for high-speed stability.",
+    "Replace all exterior trim with RAYS Engineering carbon fiber mirrors, a Seibon carbon fiber hood (with integrated NACA ducts for brake cooling), and a custom titanium bolt-on tow hook from Cusco for JDM homologation aesthetics, finished in Subaru World Rally Blue (M3Y) with matte black accents."
+  ]
+}

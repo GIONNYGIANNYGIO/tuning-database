@@ -1,0 +1,14 @@
+{
+  "brand": "SUNBEAM",
+  "model": "LOTUS",
+  "prestazioni": [
+    "Replace the stock Lotus 907 2.2L DOHC 16V (Type 907) engine internals with forged Mahle Motorsport pistons (9.4:1 compression), Cunningham conrods, and a billet steel crankshaft from Cosworth to handle 300+ hp reliably, paired with a custom dry-sump oiling system by Aviaid to prevent oil starvation under lateral G-forces",
+    "Install a Garrett GT3076R turbocharger (0.82 A/R turbine housing) with a custom Lotus-specific manifold by Bell Engineering, mated to a Tial MV-R 44mm external wastegate and a custom 3.5\" stainless steel intercooler piping system with a GReddy Type-R front-mount intercooler (400hp core) for consistent intake temps",
+    "Upgrade the stock Bosch K-Jetronic fuel system with a fully programmable Haltech Elite 2500 ECU, dual Bosch 044 high-flow fuel pumps, and 1000cc ID1000 injectors, paired with a custom 3\" stainless steel exhaust system featuring a 4-2-1 header by Janspeed and a Scorpion 76mm titanium cat-back with a valved X-pipe for backpressure optimization"
+  ],
+  "estetica": [
+    "Fit a full carbon fiber widebody conversion kit by Kaminari (1980s Group B-inspired flares) with custom aluminum overfenders to clear 245/40R16 Toyo R888R tires on 16x9.5\" Compomotive MO wheels (ET15 offset), retaining the original Sunbeam Lotus riveted aluminum hood",
+    "Install a custom front splitter and rear diffuser by Rocket Bunny (Pandem Lotus Sunbeam edition) with integrated carbon fiber canards and a 3D-printed ABS rear wing (NACA 65A008 airfoil) mounted on adjustable carbon fiber pedestals for adjustable downforce up to 120kg at 120mph",
+    "Replace all exterior trim with OEM-spec Group 4 homologation parts (Lotus part #L150-60000 for the front grille, #L150-60001 for the rear spoiler) and add period-correct BBS LM mesh wheels (16x8\" front, 16x9\" rear) with Pirelli P Zero Corsa tires for vintage rally aesthetics, paired with Hella Rallye 1000 driving lights in custom aluminum mounts"
+  ]
+}

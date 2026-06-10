@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "VIVIO RX-R",
+  "prestazioni": [
+    "EN07E 659cc inline-4 DOHC 16V turbocharged engine: Replace the stock IHI RHB31 turbo with a custom-built Garrett GT12 turbo (GT1241Z) on a bespoke manifold, paired with a Tomei 4-1 stainless steel header and a HKS Racing Suction Reloaded intake system for optimized airflow at 1.5 bar boost (stock: 0.5 bar).",
+    "EN07E forced induction upgrade: Install a custom water-methanol injection kit (AEM 30-3300) with dual 550cc injectors (ID1000) and a Haltech Elite 1500 ECU for real-time boost control, targeting 180-200 hp (stock: 64 hp) with a 9,000 RPM redline (stock: 7,500 RPM).",
+    "Chassis reinforcement and drivetrain: Reinforce the stock 5-speed manual transmission with a Nismo RS5F31A close-ratio gear set, OS Giken Super Lock limited-slip differential, and a Cusco 2-way adjustable rear tower bar. Pair with Tein Flex Z coilovers (50mm drop) and Endless CC-R brake pads with DBA 4000 Series rotors for 4-pot calipers."
+  ],
+  "estetica": [
+    "Carbon fiber widebody conversion: Install a custom RX-R-specific Rocket Bunny V1 kit (modified for EN07E engine bay clearance) with overfenders, front canards, and a ducktail spoiler, all in raw carbon fiber (2x2 twill weave).",
+    "Exterior lighting and details: Replace stock headlights with custom Hella E-CODE projectors (H4 bulbs) and JDM-spec yellow fog lights (PIAA 520). Add a custom rear diffuser with integrated LED brake light (Valenti RL4) and a titanium exhaust tip (TiAL 76mm).",
+    "Interior weight reduction: Replace stock seats with Bride Zeta III (fixed-back) in black Alcantara with red stitching, paired with a Nardi Classic 350mm steering wheel (suede) and a custom roll cage (Sparco Pro 2000) painted in Subaru WR Blue (M3). Remove rear seats and install a custom aluminum firewall panel (0.8mm thickness) with sound deadening removed."
+  ]
+}

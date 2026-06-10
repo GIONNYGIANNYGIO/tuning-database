@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "VIVIO BISTRO",
+  "prestazioni": [
+    "EN07E 660cc inline-4 engine: Full forged internals with Tomei 85mm forged pistons, Eagle H-beam connecting rods, and a billet crankshaft for 12,000 RPM reliability, paired with a custom Tomei 272° camshaft grind (intake/exhaust lift: 8.5mm/8.2mm) and titanium valve springs/retainers from HKS.",
+    "Garrett GT12 turbocharger (GT1241Z) with a custom 0.48 A/R turbine housing, 3D-printed Inconel manifold by Trust/GReddy, and a front-mount intercooler from GReddy Type-S (core dimensions: 400x150x60mm) with custom aluminum piping and HKS SSQV blow-off valve.",
+    "Haltech Elite 1500 ECU with individual cylinder fuel control, dual Bosch 0280158002 1,000cc/min injectors, and a custom 3.5-bar fuel rail fed by a Walbro 450 LPH in-tank pump, paired with a custom 4-2-1 stainless steel exhaust (38mm primaries, 50mm secondaries) terminating in a Fujitsubo Giken AX300 cat-back (50mm dual outlets)."
+  ],
+  "estetica": [
+    "Rocket Bunny Vivio-specific widebody kit (front fenders +20mm, rear fenders +30mm) with custom carbon fiber overfenders, paired with a custom front lip and rear diffuser by Vertex Lang (JDM-spec, bolt-on for EN07 chassis).",
+    "Work Equip 01 wheels (13x6.5 +25 ET, 4x100 PCD) with Toyo R888R 175/50R13 tires, paired with custom polycarbonate rear quarter windows (smoked, 3mm thickness) and a JDM-spec Subaru Bistro decal kit (original 1990s font, red/white/gold color scheme).",
+    "Ohlins DFV Road & Track coilovers (custom valving for EN07 chassis, 30-way adjustable damping) with Cusco front strut bar (22mm hollow aluminum) and a custom rear subframe brace (TIG-welded 4130 chromoly, 20mm diameter) for chassis rigidity."
+  ]
+}

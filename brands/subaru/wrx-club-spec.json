@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "WRX CLUB SPEC",
+  "prestazioni": [
+    "Engine: FA24F (2.4L turbocharged flat-four) with a Cosworth forged internals kit (pistons, connecting rods, and crankshaft) rated for 600+ hp, paired with a Garrett GTX4202R turbocharger (84mm billet compressor wheel, .82 A/R turbine housing) and a Tomei 86mm titanium wastegate for precise boost control at 28 psi peak pressure",
+    "Fuel System: Injector Dynamics ID1700x direct-port injectors (side-feed) with a Radium Engineering dual-catch can setup (AN-10 lines) and a Walbro 450 LPH in-tank fuel pump, controlled via a Link G4+ Xtreme standalone ECU with flex-fuel ethanol sensor for E85 compatibility",
+    "Drivetrain: OS Giken Super Lock LSD (4.44 final drive ratio) with a PPG 6-speed dog engagement gearset (close-ratio) and a Sachs Performance twin-disc clutch (paddle-style) with a billet aluminum flywheel, paired with a Cusco Type-RS 80mm rear subframe brace and a Whiteline front sway bar (24mm adjustable)"
+  ],
+  "estetica": [
+    "Aero: Varis Japan widebody conversion kit (carbon fiber fenders, side skirts, and rear diffuser) with a custom 3D-printed front splitter (25mm overhang) and a Seibon carbon fiber GT wing (1,800mm span, 300mm chord, 30-degree angle) mounted on Cusco GT-spec aluminum pedestals",
+    "Exterior: STI Club Spec Edition-specific paint (World Rally Blue Pearl) with a full Respray in Glasurit 90-Line clear coat, paired with Work Emotion CR Kiwami wheels (18x9.5 +38 front, 18x10.5 +45 rear) wrapped in Michelin Pilot Sport Cup 2 tires (255/35/18 front, 285/30/18 rear)",
+    "Interior: Bride Zeta IV bucket seats (FIA-approved) with Schroth Profi II 6-point harnesses, a custom roll cage (TIG-welded 4130 chromoly, 6-point with gusseted main hoop) by Cusco, and a Motec C127 dash logger with integrated GPS lap timer and OBD-II telemetry"
+  ]
+}

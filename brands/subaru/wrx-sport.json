@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "WRX SPORT",
+  "prestazioni": [
+    "FA20F engine (direct-injection turbocharged 1,998cc flat-four) upgraded with a Garrett GT3076R turbocharger (0.76 A/R, 62mm compressor inducer, 67mm exducer) paired with a Tomei 80mm titanium wastegate for precise boost control at 24psi peak pressure",
+    "Full PERRIN equal-length stainless steel header (1.75\" primaries) with a custom 3.5\" catted downpipe (Cobb Tuning) and a GrimmSpeed 3.5\" resonated exhaust system (dual 4\" titanium tips) for optimized scavenging and reduced backpressure",
+    "Haltech Elite 2500 standalone ECU with custom 4D fuel/timing maps, integrated flex-fuel sensor (Continental), and a Cobb Accessport v3 for real-time datalogging of AFR (via AEM X-Series 4.9 wideband), oil pressure (Defi Advance), and EGT (Innovate Motorsports TC-4 Plus)"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (carbon fiber fenders, front bumper, and rear diffuser) with custom 3M Gloss Black wrap and OEM+ color-matched side skirts (Subaru Performance Parts)",
+    "Ohlins Road & Track DFV coilovers (24-way adjustable damping, 30mm front/25mm rear ride height drop) paired with Whiteline adjustable sway bars (24mm front, 22mm rear) and poly bushings (SuperPro) for chassis rigidity",
+    "Work Emotion CR Kiwami wheels (18x9.5 +35 front, 18x10.5 +40 rear) wrapped in Michelin Pilot Sport Cup 2 tires (255/35/18 front, 275/35/18 rear) with Brembo GT 6-piston front/4-piston rear brake kit (380mm rotors, Ferodo DS2500 pads)"
+  ]
+}

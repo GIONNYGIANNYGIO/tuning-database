@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "XT COUPE TURBO 4WD",
+  "prestazioni": [
+    "Engine: ER27 2.7L Flat-6 Turbo (160 HP stock) – Full forged internals with Manley 87mm forged pistons, Eagle H-beam connecting rods, and ACL Race Series bearings for 12.5:1 compression. Upgraded to a Garrett GT3076R turbo (0.82 A/R) with a custom 3-inch stainless steel downpipe and Tomei 4-2-1 exhaust manifold for optimized spool and 350 WHP target.",
+    "Drivetrain: Reinforced 4WD system with a Cusco 2-way limited-slip differential (LSD) for the rear and a Quaife ATB helical LSD for the front. Upgraded to a PPG close-ratio 5-speed transmission with a Tilton twin-disc clutch and lightweight flywheel for faster shifts and reduced rotational mass.",
+    "Suspension & Handling: Full Ohlins Road & Track DFV coilovers with 8kg/mm front and 7kg/mm rear springs, adjustable camber plates, and spherical bearing control arms. Polyurethane bushings from Whiteline for the subframe and rear trailing arms, paired with Cusco front and rear strut tower braces for chassis rigidity."
+  ],
+  "estetica": [
+    "Body: Rocket Bunny V1 widebody kit (XT-specific) with custom carbon fiber front splitter, rear diffuser, and overfenders to fit 9.5-inch-wide Work Meister S1 3P wheels (16x9.5 +38 offset) wrapped in Toyo R888R 225/50R16 tires. Full respray in Subaru Sonic Blue Pearl with matte black accents.",
+    "Aero: Custom aluminum rear wing (XT-specific) modeled after the 90s JGTC silhouette, mounted on adjustable carbon fiber pedestals. Front bumper lip replaced with a Seibon carbon fiber lip for weight reduction and improved airflow to the intercooler.",
+    "Interior: Full Recaro SRD-E bucket seats with Schroth 6-point harnesses, bolted to a custom aluminum floor-mounted cage (XT-specific design by AutoPower). Momo Prototipo steering wheel with quick-release hub, paired with a Defi Advance BF gauge cluster (boost, oil temp, oil pressure) mounted on a custom A-pillar pod."
+  ]
+}

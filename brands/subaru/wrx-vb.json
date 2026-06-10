@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "WRX VB",
+  "prestazioni": [
+    "FA24F 2.4L turbocharged flat-four engine: Full forged internals kit from Tomei, including billet crankshaft (87mm stroke), forged I-beam connecting rods (153mm length), and forged pistons (9.5:1 compression ratio) with thermal barrier coatings for sustained 600+ hp reliability under E85 fueling.",
+    "Garrett GTX5533R Gen II turbocharger (84mm compressor wheel, .96 A/R turbine housing) paired with a custom 3.5-inch divorced wastegate manifold from Perrin Performance, utilizing equal-length stainless steel runners and V-band clamps for optimized spool and minimal backpressure.",
+    "Haltech Elite 2500 standalone ECU with custom CAN bus integration for full OEM sensor retention (including Subaru's dual AVCS and direct fuel injection control), running a 4D ignition timing map optimized for E85 and methanol injection (Snow Performance Stage 3 kit with dual 550cc injectors) to manage 30+ psi boost levels."
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (VB-chassis specific) with carbon fiber overfenders, front splitter, and rear diffuser, featuring integrated canards and a 3D-printed ABS undertray for improved aero balance (targeting -200kg downforce at 160mph).",
+    "Ohlins Road & Track coilovers (VB-specific valving) with 24-way adjustable compression/rebound damping, 8-position adjustable top mounts, and helper springs for seamless street-to-track transition, paired with Cusco front strut bar (22mm hollow aluminum) and rear subframe brace (carbon fiber).",
+    "Recaro SP-G (JDM-spec) front seats with custom-molded Bride Euroster II side bolsters, wrapped in Alcantara (Stealth Gray) with red stitching, paired with a Takata Drift III 4-point harness and a custom bolt-in roll cage (Chassisworks 8.5-point) with gusseted main hoop and integrated harness bar for FIA compliance."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "SAMBAR DIAS CLASSIC",
+  "prestazioni": [
+    "EN07E 660cc inline-4 NA engine: Full forged internals with Tomei 82mm forged pistons (8.5:1 compression), Eagle H-beam connecting rods, and a Tomei Type-M crankshaft for 12,000 RPM capability. Paired with a custom 4-2-1 stainless steel header by HKS (Sambar-specific flange design) and a Fujitsubo Giken AX3000 cat-back exhaust (2.25\" piping with 304 stainless muffler).",
+    "EN07E forced induction: Custom-built turbo setup using a Garrett GT12 turbocharger (GT1241Z, 0.35 A/R turbine housing) with a custom top-mount intercooler (GReddy Type-S, 300x150x60mm core) and a Tomei M72 blow-off valve. Fueling upgraded with 350cc injectors (ID1000 equivalent) and a Walbro 255 LPH in-tank pump, controlled via a Link G4+ Xtreme standalone ECU (Sambar-specific base map).",
+    "EN07E drivetrain: Close-ratio 5-speed transmission with a Cusco Type-RS 1.5-way limited-slip differential (80% lockup). Clutch upgraded to a Spec Stage 3+ twin-disc setup with a lightweight flywheel (3.5kg). Driveshafts reinforced with custom CV joints from Driveshaft Shop (300hp-rated)."
+  ],
+  "estetica": [
+    "Chassis-specific Rocket Bunny V2 widebody kit (Sambar Dias Classic-specific fender flares, front bumper, and rear diffuser) with custom carbon fiber overfenders (Seibon, 1.5mm thickness). Front lip and rear wing from Veilside Fortune (modified for Sambar proportions).",
+    "OEM+ JDM styling: Full respray in Subaru Sonic Blue Pearl (code: 26J) with a custom two-tone matte black roof (3M 1080 wrap). JDM-spec Kei car lighting: Cibie Oscar LED headlights (H4 conversion) and custom LED taillights (DRL-integrated, inspired by Toyota Pixis Epoch).",
+    "Interior: Bride Zeta III bucket seats (Sambar-specific mounting brackets) with Takata 4-point harnesses. Custom roll cage by AutoPower (6-point, TIG-welded, 1.75\" x .120\" DOM tubing) with a Momo Prototipo steering wheel (330mm, quick-release hub). Full Alcantara trim (Sambar-specific door cards, dash, and center console) by Status Racing."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "SUBARU",
+  "model": "XV HYBRID",
+  "prestazioni": [
+    "Engine: FB20D (2.0L DOHC 16V boxer with Toyota-sourced hybrid system, 150 PS + 13.6 PS electric motor). Replace the stock Toyota-sourced hybrid battery with a custom lithium-ion pack from *Hybrid Racing* (HR-SUBXV-HYB) rated at 48V/1.5kWh, increasing electric torque assist by 22% and reducing weight by 18kg. Pair with a *Syvecs S6Plus* standalone ECU (FB20D-specific firmware) to recalibrate the hybrid torque split, enabling 0.3s faster 0-60km/h acceleration via aggressive electric launch control.",
+    "Forced Induction: Install a *Rotrex C38-92* centrifugal supercharger (8.5psi max boost) with a *Perrin Performance* intercooler (XV-specific core, 40% larger than stock) and a *GReddy Profec B Spec II* boost controller. The FB20D’s forged crank and connecting rods (shared with the WRX) allow safe 240 PS at the wheels with *Cosworth* forged pistons (9.5:1 CR) and *ARP* head studs. Use a *Tomei 272° camshaft* (intake/exhaust) to optimize airflow for the supercharger’s 12,000 RPM max speed.",
+    "Drivetrain: Swap the stock CVT for a *Subaru Performance Transmission (SPT) 6MT* (WRX-based, 4.11 final drive) with a *PPG* 1st-4th gear set (close-ratio) and a *South Bend Clutch* Stage 3 daily disc (ceramic-metallic, 550 ft-lb torque capacity). Install a *Cusco 2.5-way LSD* (85% lock) and *Whiteline* rear subframe bushings to handle the increased torque. For hybrid-specific tuning, integrate a *Link G4X* ECU to manage regen braking via a *Brembo* 4-piston front caliper upgrade (XV-specific, 32mm pistons) with *Ferodo DS2500* pads."
+  ],
+  "estetica": [
+    "Aero: Fit a *Varis Japan* XV Hybrid-specific widebody kit (carbon fiber, 30mm wider front fenders, 40mm rear) with a *Seibon* carbon fiber hood (FB20D-specific scoop for intercooler ducting). Add a *Voltex* Type-3 rear wing (1,800mm span, 3D carbon) and *Aeroflow* front splitter (50mm overhang, adjustable canards). Use *Rays Gram Lights 57DR* wheels (18x9.5 +38 front, 18x10.5 +42 rear) with *Yokohama Advan A052* tires (245/40/18 front, 275/35/18 rear).",
+    "Lighting: Replace all lighting with *Morimoto XB LED* headlights (XV-specific housing, 5,500K CCT) and *Depo Racing* JDM-style taillights (sequential turn signals, smoked lenses). Install *Lux H8 Angel Eyes* (6,000K) and a *Lightweight* carbon fiber roof (12kg weight reduction) with *3M Ceramic Tint* (70% VLT, IR rejection).",
+    "Interior: Swap the stock seats for *Bride Euro II* (XV-specific mounts, carbon-Kevlar shell) with *Schroth Profi II* 6-point harnesses. Install a *Momo Mod.78* steering wheel (350mm, suede) with a *NRG* quick-release hub. Add a *Defi BF* hybrid-specific gauge cluster (boost, battery voltage, regen amperage) and a *Sparco Evo II* racing seat (passenger side, FIA-approved). Replace the center console with a *JDM STI* hybrid-specific unit (carbon fiber, integrated *AEM X-Series* wideband controller)."
+  ]
+}
