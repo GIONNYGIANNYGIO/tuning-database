@@ -1,0 +1,14 @@
+{
+  "brand": "TVR",
+  "model": "SAGARIS",
+  "prestazioni": [
+    "Engine: TVR Speed Six (S6) 4.0L inline-6, forged internals upgrade with Mahle Motorsport pistons (88mm bore, 10.5:1 CR), Cunningham conrods, and ARP Custom Age 625+ head studs for 600+ hp reliability on 98 RON fuel. Pair with a custom dry-sump system by Aviaid (dual-scavenge, 8-stage) to eliminate oil starvation during sustained 8,000 RPM track use.",
+    "Forced Induction: Single-turbo conversion using a Garrett GTX4202R (82mm compressor, 1.06 A/R turbine housing) with a custom TVR-specific manifold by Turbo Dynamics, featuring equal-length stainless steel runners and a TiAL MV-R 44mm wastegate. Intercooled via a PWR 1000hp bar-and-plate core with custom TVR-specific end tanks for Sagaris' front-mounted radiator constraints.",
+    "Drivetrain: Quaife ATB LSD (TVR Sagaris-specific 3.92:1 ratio) paired with a Tilton triple-plate carbon clutch (7.25\" diameter) and a TVR-specific bellhousing adapter. Upgrade half-shafts to GKN Driveline CV joints with 300M steel shafts, retaining the Sagaris' unique rear-wheel-drive layout while handling 650+ lb-ft torque."
+  ],
+  "estetica": [
+    "Aero: Custom carbon fiber front splitter by Kognition Autosport (TVR Sagaris-specific, 3-piece design with adjustable dive planes) paired with a rear diffuser by Rocket Bunny (polyurethane, 3-stage design with integrated brake ducts). Replace side skirts with custom 3D-printed ABS units (TVR-approved, 20mm wider than OEM) to match Sagaris' aggressive wheel arches.",
+    "Body: Full carbon fiber hood by Seibon (TVR Sagaris-specific, 1x1 weave, 30% weight reduction) with a functional NACA duct feeding the GTX4202R turbo. Replace rear bumper with a custom aluminum unit (hand-formed, 1.5mm thick) featuring integrated tow hooks and a central exhaust exit for a custom 3.5\" titanium exhaust by Milltek Sport (cat-back, non-resonated, TVR Sagaris-specific routing).",
+    "Wheels: OZ Racing Ultraleggera HLT (18x9.5 +25 front, 18x11 +30 rear) with custom TVR Sagaris PCD (5x120.65) and hub-centric rings. Tire setup: Michelin Pilot Sport Cup 2 R (265/35/18 front, 305/30/18 rear) for track use, with a separate set of Yokohama Advan A052 (255/40/18 front, 295/35/18 rear) for street driving."
+  ]
+}

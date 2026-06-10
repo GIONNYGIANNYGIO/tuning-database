@@ -1,0 +1,14 @@
+{
+  "brand": "SUZUKI",
+  "model": "CERVO SR",
+  "prestazioni": [
+    "Replace the stock F6A 657cc turbocharged inline-3 engine's turbo with a Garrett GT1241Z ball-bearing turbo (52mm compressor, 41mm turbine) to exploit the Cervo SR's 0.5L displacement limit while maintaining low-end torque and spool characteristics, paired with a custom 3-inch stainless steel downpipe by HKS for optimized exhaust flow.",
+    "Install a Tomei 260° duration, 10.5mm lift camshaft (part #143026) to maximize airflow through the F6A's 12-valve SOHC head, combined with a set of Supertech +1mm oversized intake valves (34mm) and +0.5mm exhaust valves (28mm) to improve cylinder filling at high RPM without sacrificing drivability.",
+    "Upgrade the stock ECU with a Haltech Elite 1000 standalone unit, calibrated specifically for the F6A's boosted 657cc configuration, featuring a custom fuel map with 350cc injectors (ID1000 equivalent) and a dual-stage nitrous oxide kit (NOS 51762) for on-demand 50hp shots, activated via a GReddy E-Manage Ultimate piggyback for seamless integration."
+  ],
+  "estetica": [
+    "Fit a Veilside Fortune Type-2 widebody kit (Cervo SR-specific mold) with custom carbon fiber overfenders to accommodate 15x8.5 +25 ET Volk Racing TE37SL wheels in Gunmetal, wrapped in 185/55R15 Yokohama Advan Neova AD08R tires for optimal grip and stance.",
+    "Install a custom front lip splitter by Rocket Bunny (Suzuki Cervo SR-exclusive design) paired with a carbon fiber rear diffuser by Seibon, both painted in Nissan GT-R Bayside Blue (code: BT2) to match the OEM+ aesthetic while reducing lift by 12% at 100mph.",
+    "Replace the stock headlights with a set of custom Hella DE projector lenses (35W HID) housed in a carbon fiber shroud, paired with a JDM-spec rear combination lamp assembly (Suzuki part #37160-80J00) and smoked taillight overlays by VLand for a stealth OEM+ look."
+  ]
+}

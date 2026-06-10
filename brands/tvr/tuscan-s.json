@@ -1,0 +1,14 @@
+{
+  "brand": "TVR",
+  "model": "TUSCAN S",
+  "prestazioni": [
+    "Replace the factory 4.0L Speed Six (TVR-S60) engine internals with forged Mahle Motorsport pistons (9.0:1 compression), Carrillo H-beam connecting rods, and a billet steel crankshaft from JE Pistons to handle 700+ hp reliably under forced induction. Pair with a custom dry-sump oiling system from Dailey Engineering to prevent oil starvation during high-G cornering.",
+    "Install a custom-built turbo kit utilizing a Garrett GTX5533R turbocharger (0.92 A/R turbine housing) with a bespoke equal-length stainless steel exhaust manifold from Bell Auto Services, paired with a TiAL MV-R 44mm wastegate and a TiAL Q 50mm blow-off valve. Use a custom air-to-water intercooler from PWR with a Bosch 044 fuel pump and ID1700x injectors for precise fueling.",
+    "Upgrade the factory TVR-specific ECU with a standalone Motec M150 ECU, calibrated by Steve Mitchell (TVR specialist) for aggressive ignition timing and boost control. Integrate a custom traction control system with wheel-speed sensors from Bosch Motorsport and a Quaife ATB differential with a 3.91:1 final drive ratio for optimized power delivery."
+  ],
+  "estetica": [
+    "Replace the factory front bumper with a carbon fiber TVR Tuscan S-specific widebody kit from Kato Engineering, featuring integrated canards and a custom splitter with adjustable dive planes for aerodynamic balance. Paint in TVR’s signature ‘Chameleon’ pearlescent finish (code: TVR-999).",
+    "Install a bespoke rear diffuser from APR Performance, designed to work with the Tuscan’s unique underbody aerodynamics, paired with a custom titanium exhaust system from Milltek Sport (3.5-inch dual outlets) and a set of OZ Racing Ultraleggera HLT wheels (18x9 front, 18x10 rear) wrapped in Michelin Pilot Sport Cup 2 tires (245/35 R18 front, 285/30 R18 rear).",
+    "Replace the factory interior with a full Alcantara retrim by Royal Steering Wheels, featuring a custom TVR Tuscan S embroidered headrests, a digital dash from AIM MXS Strada, and a bespoke roll cage from Safety Devices (FIA-spec, bolt-in) with integrated harness bar for Schroth Profi II 6-point harnesses."
+  ]
+}

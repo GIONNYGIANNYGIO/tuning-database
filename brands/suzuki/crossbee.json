@@ -1,0 +1,15 @@
+{
+  "brand": "SUZUKI",
+  "model": "CROSSBEE",
+  "prestazioni": [
+    "Engine swap to a **R06A 660cc turbocharged inline-3** (from the Suzuki Alto Works RS Turbo) with a **Garrett GT12 turbocharger** (GT1241Z) running 1.2 bar of boost, paired with a **HKS Super Power Flow Type-R exhaust manifold** and a **Toda Racing forged crankshaft** to handle increased power output (target: 120 PS at 7,000 RPM).",
+    "Full **TODA Racing valvetrain upgrade** including **titanium retainers**, **high-lift camshafts (272° duration, 10.5mm lift)**, and **Ferrea Racing valves** (intake: 33mm, exhaust: 28mm) for optimized airflow in the R06A’s tiny combustion chambers.",
+    "Custom **Haltech Elite 1500 ECU** with **Motec PDM15** power distribution module, running **ID1000x injectors** and a **Radium Engineering fuel surge tank** to prevent fuel starvation during aggressive cornering. Suspension overhaul with **Öhlins Road & Track DFV coilovers (Suzuki Jimny-specific valving)** and **SuperPro polybushings** for the rear trailing arms to eliminate flex in the Crossbee’s ladder-frame chassis.",
+    "Forced induction system includes a **GReddy intercooler (150x150x50mm core)** and a **custom 3-inch aluminum piping setup** with **HKS SSQV4 blow-off valve** to prevent compressor surge. Clutch upgrade to a **Sachs Performance twin-disc clutch (ceramic-metallic friction material)** to handle the increased torque."
+  ],
+  "estetica": [
+    "**Liberty Walk LB Works ‘Crossbee Widebody’ kit** (FRP construction) with **custom 3D-printed front splitter** (carbon fiber, 3mm thickness) and **rear diffuser** integrated into the bumper for aggressive stance and aero balance. Wheel setup: **Work Emotion CR Kiwami (15x7 +25 offset)** wrapped in **Yokohama Advan Neova AD08R (195/50R15)** for maximum grip.",
+    "**Seibon Carbon fiber hood** (with integrated NACA duct for intercooler airflow) and **custom rear spoiler** (modeled after the Suzuki Escudo Pikes Peak car, 300mm height) to reduce lift at high speeds. Exterior lighting: **Morimoto XB LED headlights** with **custom C-shaped DRLs** (using Osram LED chips) and **Depo Racing taillight housings** (smoked with sequential turn signals).",
+    "**Interior stripped and reupholstered** with **Recaro Pole Position seats (Suzuki Jimny-specific mounting brackets)** and **Takata 4-point harnesses**. Dashboard replaced with a **Momo carbon fiber flat-bottom steering wheel** and **AIM MXS Strada digital dash** (mounted on a **NRG Innovations quick-release hub**). Roll cage: **Custom 6-point chromoly cage** (TIG-welded, designed by **AutoPower Industries**) with **Sparco harness bar** for rigidity."
+  ]
+}

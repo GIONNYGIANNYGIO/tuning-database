@@ -1,0 +1,14 @@
+{
+  "brand": "TVR",
+  "model": "M SERIES",
+  "prestazioni": [
+    "Engine swap to a TVR 'Speed Six' 4.0L inline-6 (engine code: TVR-S6) with forged internals including Mahle Motorsport pistons (87.5mm bore, 10.5:1 CR), Cunningham conrods, and a billet crankshaft for 8,000 RPM reliability. Pair with a custom dry-sump system by Titan Motorsport to eliminate oil starvation in high-G corners.",
+    "Forced induction via a Garrett GT3582R turbocharger (0.82 A/R turbine housing) with a custom TVR-specific manifold by Bell Auto Services, running 1.2 bar of boost. Intercooled with a PWR front-mount intercooler (500x225x76mm core) and a custom 3-inch aluminum charge piping system with silicone couplers from Vibrant Performance.",
+    "Full standalone engine management via a Motec M150 ECU with TVR-specific firmware, paired with a Bosch Motorsport 1200cc/min high-impedance fuel injectors and a Walbro 450 LPH in-tank fuel pump. Ignition system upgraded to a 6-channel LS coil pack setup with NGK R7437-10 iridium spark plugs gapped at 0.028 inches."
+  ],
+  "estetica": [
+    "Full carbon fiber widebody conversion using the TVR M Series-specific 'Mantis' kit by Kaminari Aero, featuring bolt-on front fenders (3.5-inch wider per side), rear quarter panels (4-inch wider per side), and a custom carbon fiber rear diffuser with integrated twin exhaust exits for a 3.5-inch stainless steel system by Scorpion Exhausts.",
+    "Custom suspension geometry with Ohlins TTX40 coilovers (2-way adjustable damping) and TVR-specific camber plates by SuperPro for +3 degrees of front camber. Rear subframe reinforced with a custom tubular steel brace by SNG Barratt to eliminate flex under hard cornering.",
+    "Interior stripped and rebuilt with a full Alcantara-wrapped dashboard (TVR-specific pattern by Trim Design UK), Recaro Pole Position seats (TVR M Series-specific mounting brackets), and a custom roll cage by Safety Devices (FIA-spec, 6-point with integrated harness bar) finished in satin black powder coat."
+  ]
+}

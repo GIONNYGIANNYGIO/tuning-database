@@ -1,0 +1,14 @@
+{
+  "brand": "TVR",
+  "model": "TAMORA SPORT EVO",
+  "prestazioni": [
+    "Replace the factory Rover-derived **TVR Speed Six AJP8** (4.0L inline-6, 350hp) with a forged crankshaft from **JE Pistons** (87mm stroke, 94mm bore) and **Manley H-beam connecting rods** (224g weight, ARP 2000 bolts) to handle 8000 RPM reliably. Pair with **Mahle Motorsport forged pistons** (11.5:1 compression) and **Total Seal gapless rings** for reduced blow-by under boost.",
+    "Install a **Garrett GTX3582R turbocharger** (82mm compressor, 62mm turbine) with a **Tial MV-R 44mm external wastegate** (set to 1.2 bar peak boost) and **Precision Turbo 45mm V-band downpipe** (304 stainless, 3.5\" diameter). Use a **Pectel SQ6M ECU** with **Motec C127 dash logger** for real-time lambda and knock monitoring, tuned via **Dyno Dynamics hub dyno** with E85 flex-fuel mapping.",
+    "Swap the factory **TVR-spec AP Racing CP5270 calipers** (4-piston, 330mm discs) for **Alcon 6-piston monoblock calipers** (355mm two-piece rotors, **Ferodo DS2500 pads**) and **Goodridge G-Stop braided lines**. Replace the rear **TVR 2-piston calipers** with **Brembo GT 4-piston units** (330mm discs) and **ATE Type 200 fluid** (DOT 5.1, 325°C boiling point)."
+  ],
+  "estetica": [
+    "Fit a **RML Group carbon-fiber widebody kit** (TVR Tamora-specific, +50mm front/+70mm rear fenders) with **Aerocatch flush-mount hood latches** and **Seibon carbon doors** (2.5mm thickness, 3K twill weave). Paint in **TVR Racing Green (BS381C-224)** with **3M Matte Black 1080 wrap** on the roof and pillars.",
+    "Install a **Vortex Generators Ltd. rear diffuser** (3D-printed PETG, 3-element design) with **DTM-style gurney flaps** and **Hella Pagid LED taillights** (smoked lenses, sequential turn signals). Replace the factory mirrors with **Sparco Assetto Pro carbon mirrors** (adjustable via **Motamec electric actuators**).",
+    "Swap the OEM **17\" OZ Racing wheels** for **BBS RS-GT II** (18x9.5 ET35 front, 18x11 ET25 rear) with **Michelin Pilot Sport Cup 2** tires (245/35/18 front, 295/30/18 rear). Use **H&R TRAK+ wheel spacers** (15mm front, 20mm rear) and **Project Kics R40 lug nuts** (M12x1.5, closed-end)."
+  ]
+}

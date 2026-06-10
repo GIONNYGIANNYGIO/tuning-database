@@ -1,0 +1,14 @@
+{
+  "brand": "TVR",
+  "model": "CHIMAERA 450",
+  "prestazioni": [
+    "Replace the factory Rover-derived **TVR AJP8 (4.5L V8, code: TVR-AJP8-450)** with a forged internals build featuring **JE Pistons 9.5:1 compression forged slugs (P/N: 364885)**, **Manley H-beam connecting rods (P/N: 14090-8)**, and a **Carrillo crankshaft (P/N: TVR-AJP8-CRANK)** for 8,500 RPM reliability. Pair with a **Titan Motorsport dry-sump oil system (P/N: TVR-DS-001)** to eliminate oil starvation under lateral G-forces.",
+    "Install a **Harrop TVR-AJP8 supercharger kit (P/N: HAR-TVR-450-SC)** with a **Rotrex C38-91 centrifugal blower**, **Siemens 80lb/hr injectors (P/N: 7808000010)**, and a **Motec M150 ECU (P/N: M150-AJP8)** for closed-loop boost control, targeting 12 PSI and 550+ WHP on **VP Racing Q16 fuel (116 octane)**. Include a **PWR Australia 4-row race intercooler (P/N: PWR-IC-4R-TVR)** to maintain IATs below 45°C.",
+    "Upgrade the factory **TVR 5-speed manual (code: TVR-T5-5SPD)** with a **Quaife ATB differential (P/N: QDF7Z)**, **PPG straight-cut gears (P/N: PPG-5SPD-TVR)**, and a **Tilton twin-plate ceramic clutch (P/N: 60-1100-2)**. Replace the stock driveshaft with a **GKN CV-jointed carbon-fiber unit (P/N: GKN-CF-TVR)** to handle increased torque."
+  ],
+  "estetica": [
+    "Fit a **Liberty Walk LB-WORKS TVR Chimaera widebody kit (P/N: LW-TVR-CHIMAERA-WB)** with **custom carbon-fiber overfenders (25mm flares)**, **front splitter (P/N: LW-TVR-CHIMAERA-SPLITTER)**, and **ducktail spoiler (P/N: LW-TVR-CHIMAERA-DUCKTAIL)** in **3M Matte Graphite (P/N: 3585)**. Use **Aerocatch flush-mount hood latches (P/N: AC-1000)** for seamless panel gaps.",
+    "Replace the factory **TVR 17-inch wheels** with **BBS LM-R 18x9.5 ET20 (front) and 18x11 ET15 (rear) in Gold (P/N: BBS-LMR-1895-GLD / BBS-LMR-1811-GLD)**, wrapped in **Michelin Pilot Sport Cup 2 R tires (245/40/18 front, 295/35/18 rear)**. Powdercoat the **TVR-specific Speedline brake calipers (code: TVR-SL-4POT)** in **Gloss Ferrari Rosso Corsa (P/N: RAL 3002)** and upgrade to **AP Racing 6-piston front (P/N: CP8600-6P) and 4-piston rear (P/N: CP5555-4P) calipers** with **355mm (front) and 330mm (rear) 2-piece rotors (P/N: AP-RC355/AP-RC330)**.",
+    "Interior overhaul with **Recaro Pole Position seats (P/N: 391.91.00) in Alcantara (P/N: ALCA-RED)** and **Schroth 6-point harnesses (P/N: ASM4203R)**. Replace the stock **TVR wood-rim steering wheel** with a **Nardi Classic 350mm suede wheel (P/N: 120.03.350.00)** and **Momo quick-release hub (P/N: 62270)**. Install a **Defi BF Advance gauge cluster (P/N: DF13801)** with **oil pressure, boost, and AFR readouts**, mounted in a **custom carbon-fiber dash overlay (P/N: TVR-CF-DASH-001)**."
+  ]
+}

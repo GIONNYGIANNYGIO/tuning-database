@@ -1,0 +1,14 @@
+{
+  "brand": "SUZUKI",
+  "model": "SWIFT SPORT",
+  "prestazioni": [
+    "Engine: M16A (1.6L DOHC VVT) forced induction via Garrett GT2860RS turbocharger (0.63 A/R turbine housing) with custom 3-inch stainless steel downpipe and HKS Hi-Power 80mm blow-off valve, supporting 280whp on E85 fuel with a Haltech Elite 2500 standalone ECU managing custom fuel and ignition maps, including 1000cc ID1000 injectors and Walbro 450LPH in-tank fuel pump",
+    "Suspension: Ohlins Road & Track DFV coilovers (Swift Sport ZC33S-specific valving) with 25mm front and 20mm rear Whiteline adjustable sway bars, poly bushings (SuperPro 63-9068), and Cusco 2-point front strut brace for chassis rigidity",
+    "Drivetrain: OS Giken Super Lock LSD (1.5-way) with upgraded clutch (Exedy Hyper Single 184mm) and lightweight flywheel (Suzuki Sport 4.5kg), paired with a custom 5-speed close-ratio gearset (Swift Sport ZC33S ratios: 3.417, 2.157, 1.478, 1.100, 0.871) and KAAZ 1.5-way limited-slip differential"
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny Swift Sport ZC33S-specific widebody kit (Pandem Type 3) with carbon fiber front splitter, rear diffuser, and overfenders, paired with a custom 3D-printed rear wing (150mm chord, 12° angle) for 120kg downforce at 160km/h",
+    "Exterior: Full respray in Nissan GT-R Nismo Heritage Racing Yellow (code: 305) with 3M Matte Black vinyl wrap on the roof, mirrors, and rear spoiler, combined with Work Emotion CR Kiwami 17x7.5 +45 wheels (ET45) wrapped in Michelin Pilot Sport Cup 2 (205/45/17) tires",
+    "Interior: Bride Zeta III bucket seats (Suzuki Swift Sport-specific mounts) with Takata 4-point harnesses, MOMO Mod.77 steering wheel (350mm, suede), and custom carbon fiber dashboard overlay (VIS Racing Swift Sport ZC33S-specific) with Defi BF gauges (oil pressure, boost, wideband AFR) mounted in a custom A-pillar pod"
+  ]
+}

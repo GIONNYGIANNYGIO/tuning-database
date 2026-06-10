@@ -1,0 +1,14 @@
+{
+  "brand": "SUZUKI",
+  "model": "SPACIA CUSTOM",
+  "prestazioni": [
+    "Engine swap to a **R06A 660cc turbocharged inline-3** (from the Suzuki Hustler Turbo) with a **Garrett GT12 turbocharger** (GT1241Z, 0.42 A/R turbine housing) and **HKS Super Power Flow Reloaded exhaust manifold** (spacia-specific flange design) for optimized spool and reduced backpressure. Compression ratio increased to **9.5:1** via **JE Pistons forged 66mm slugs** (custom dome profile) and **Manley H-beam connecting rods** (48mm big end).",
+    "Full **Haltech Elite 1500 ECU** standalone management with **AEM X-Series wideband O2 sensor** (30-0300) and **ID1000x injectors** (side-feed, 1000cc/min) for precise fueling. **HKS Hi-Power ignition coils** (Type-R, 45,000V output) paired with **NGK IFR7H-11S spark plugs** (0.8mm gap) for stable combustion under 1.5 bar boost. **Cusco Type-RS limited-slip differential** (4.2:1 final drive) with **KAAZ 1.5-way clutch-type LSD** for traction off the line.",
+    "**Tein Flex Z coilovers** (spacia-specific valving, 12kg/mm front / 8kg/mm rear springs) with **Cusco front strut tower bar** (22mm hollow section) and **Ultra Racing rear lower arm braces** (3-point design, 40mm x 2mm wall thickness). **Project Mu B-Spec brake pads** (front: 979, rear: 978) with **DBA 4000 Series rotors** (slotted, 240mm front / 220mm rear) and **Motul RBF 660 brake fluid** for fade resistance during touge runs."
+  ],
+  "estetica": [
+    "**Liberty Walk LB Works Spacia Custom widebody kit** (FRP construction, 50mm flares front/rear) with **custom carbon fiber overfenders** (dry carbon, 2x2 twill weave) and **Seibon carbon fiber hood** (vented, 30% weight reduction). **Rocket Bunny-style side skirts** (custom 3D-printed ABS, 30mm lower than OEM) with **LED side markers** (Philips Ultinon Pro9000, amber).",
+    "**Work Emotion CR Kiwami wheels** (15x6.5 +38 offset, 4x100 PCD) wrapped in **Yokohama Advan Neova AD09** (185/55R15, semi-slick compound) with **custom wheel spacers** (5mm hubcentric, 6061-T6 aluminum). **Volk Racing TE37V wheels** (15x7 +35, bronze) as a track-only setup with **Nankang AR-1 semi-slick tires** (195/50R15).",
+    "**Custom LED taillight conversion** (Osram Oslon Square LEDs, 6000K) with **Smoked Lexan lenses** (30% tint) and **Anzo USA sequential turn signals** (plug-and-play harness). **Front bumper lip** (custom carbon fiber, 40mm splitter) with **DRLs** (Lux H8 V4, 6000K) and **custom grille delete** (replaced with **3D-printed mesh** in gloss black). **Interior roll cage** (6-point, **Sparco Pro2000** steel tubing) with **Bride Zeta III seats** (fixed-back, suede) and **Takata Drift II harnesses** (4-point, FIA-approved)."
+  ]
+}

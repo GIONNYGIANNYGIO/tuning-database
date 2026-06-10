@@ -1,0 +1,14 @@
+{
+  "brand": "TVR",
+  "model": "TUSCAN",
+  "prestazioni": [
+    "Replace the factory 4.0L AJP8 (TVR's in-house V8, code: AJP8/400) with a stroked 4.5L version using a forged crankshaft from Manley (stroke increased to 88.9mm) and Mahle Motorsport forged pistons (9.5:1 compression) for a target of 550hp on 98 RON fuel with a custom dry-sump system from Aviaid to prevent oil starvation in high-G corners.",
+    "Install a custom-fabricated stainless steel equal-length exhaust manifold (321-grade, 1.75\" primaries) paired with a Tial 44mm external wastegate and a custom 3.5\" titanium exhaust system by Milltek Sport, terminating in dual 4.5\" carbon-fiber tips for weight savings and heat dissipation.",
+    "Swap the stock ECU for a Life Racing F88 standalone unit with a bespoke TVR Tuscan-specific calibration map, integrating a Bosch Motorsport 0280158002 10-bar MAP sensor and a Motec C125 dash logger for real-time monitoring of the AJP8's unique firing order (1-8-7-2-6-5-4-3) and individual cylinder trims."
+  ],
+  "estetica": [
+    "Fit a full carbon-fiber widebody kit by Kato Works (Japan), designed specifically for the Tuscan's chassis, adding 3\" to the front and 4\" to the rear fenders, with integrated canards and a ducktail spoiler for high-speed stability (downforce target: 120kg at 150mph).",
+    "Replace the stock pop-up headlights with a custom fixed-light setup using Hella 93070 LED projectors (DRL mode) and Osram Night Breaker Laser bulbs (high-beam), housed in a 3D-printed ABS enclosure with a smoked polycarbonate lens for a modernized front end.",
+    "Install a set of 18x10\" (front) and 19x12\" (rear) forged aluminum wheels by BBS (model: LM-R, 3-piece construction) wrapped in Michelin Pilot Sport Cup 2 R tires (265/35 R18 front, 325/30 R19 rear), with custom wheel spacers (15mm front, 25mm rear) to fill the Kato Works fender gaps."
+  ]
+}

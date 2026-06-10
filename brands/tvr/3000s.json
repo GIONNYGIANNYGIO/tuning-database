@@ -1,0 +1,14 @@
+{
+  "brand": "TVR",
+  "model": "3000S",
+  "prestazioni": [
+    "Replace the stock Ford Essex V6 (engine code: 3.0L Ford Essex V6, 60° OHV) with a fully built version featuring a forged crankshaft (e.g., Crower 4340 steel crank), forged pistons (JE 9.5:1 compression ratio), and forged H-beam connecting rods (Manley Performance). Pair with a custom camshaft grind (e.g., Kent Cams 280° duration, 0.500\" lift) and ported/polished cylinder heads with oversized valves (Ferrea 1.94\" intake, 1.60\" exhaust) for improved airflow.",
+    "Install a custom forced-induction system using a Garrett GT35R turbocharger (0.82 A/R turbine housing) with a custom air-to-water intercooler (PWR North America) and a custom-fabricated stainless steel exhaust manifold (3\" primary tubes, merge-collector design). Pair with a Haltech Elite 2500 ECU for precise boost control (targeting 12-14 psi) and a dual Walbro 450 LPH fuel pump setup with ID1000 injectors for E85 compatibility.",
+    "Upgrade the drivetrain with a Quaife ATB differential (85% lockup) in a custom bellhousing to mate the Essex V6 to a Tremec T56 Magnum 6-speed transmission. Replace the stock TVR Salisbury rear axle with a custom-built Ford 9\" rear end (Currie Enterprises) with 3.73:1 gears and a custom driveshaft (Aluminum Driveshafts Inc.) for reduced rotational mass."
+  ],
+  "estetica": [
+    "Replace the stock fiberglass body panels with lightweight carbon fiber replicas (e.g., Fibretech Composites TVR 3000S carbon kit) and add a custom widebody conversion (e.g., modified Rocket Bunny-style fender flares with integrated vents for brake cooling). Paint in a custom two-tone scheme (e.g., Aston Martin Racing Green with matte gold accents).",
+    "Install a custom front splitter (e.g., APR Performance GT-300S-style) and a rear diffuser (e.g., Seibon Carbon rear diffuser) paired with a custom rear wing (e.g., Voltex Type-3 replica, 3D-printed endplates for TVR-specific mounting). Add functional hood vents (e.g., custom NACA ducts for engine bay cooling).",
+    "Replace the stock interior with a full Alcantara retrim (e.g., Cobra Seats Classic Alcantara in black with red stitching) and a custom roll cage (e.g., Custom Cages T45 steel, bolt-in design with integrated harness bars). Add a digital dash (e.g., AIM MXS Strada 5\" display) and a custom center console (e.g., 3D-printed carbon fiber with integrated Haltech ECU controls)."
+  ]
+}

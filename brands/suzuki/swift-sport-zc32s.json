@@ -1,0 +1,14 @@
+{
+  "brand": "SUZUKI",
+  "model": "SWIFT SPORT ZC32S",
+  "prestazioni": [
+    "M15A 1.6L naturally aspirated engine (M15A-688) upgraded with a HKS Hi-Power Super SQV IV blow-off valve (part #15004-AK001) to prevent compressor surge during aggressive gear shifts, paired with a Tomei 4-2-1 stainless steel exhaust manifold (part #TA-T103EX) for optimized scavenging and a 5-7 HP gain at 6,500 RPM",
+    "Custom ECU remap via EcuTek RaceROM (ZC32S-specific calibration) targeting 12.5:1 AFR at peak torque (4,500 RPM) and 11.8:1 AFR at redline (6,800 RPM), with launch control set to 4,200 RPM and flat-shift ignition cut at 6,700 RPM to protect the stock M15A internals while maximizing power delivery",
+    "KW Suspensions Clubsport coilovers (part #35231001) with 8-position rebound damping and 16-level compression adjustment, paired with Swift Springs 10K front/8K rear spring rates (part #SSP-M15A-FR/RR) to eliminate body roll during high-G cornering, complemented by Cusco 22mm front/19mm rear adjustable sway bars (part #565 001 A/B) for neutral handling balance"
+  ],
+  "estetica": [
+    "Rocket Bunny V1 widebody kit (part #RB-SWIFT-SPORT-ZC32S) with carbon fiber front fenders, rear quarter panels, and overfenders, extending track width by 50mm front/60mm rear, paired with Work Emotion CR Kiwami wheels (17x8 +35 ET) wrapped in Yokohama Advan Neova AD08R tires (215/40/17) for aggressive stance and grip",
+    "Seibon Carbon fiber hood (part #CF-SUZ-SWIFT-ZC32S) with integrated NACA ducts for M15A engine bay cooling, combined with a custom 3M Matte Graphite vinyl wrap (color code #10091) and JDM-spec Suzuki Sport decals (part #990E0-68H00-000) for OEM+ stealth aesthetics",
+    "Recaro Sportster CS bucket seats (part #391.91.54) with custom Suzuki Sport embroidery, paired with a NRG Innovations quick-release steering wheel hub (part #SRK-100B) and a Momo Mod.77 330mm suede steering wheel (part #00112412SUE) for improved grip and driver feedback, complemented by a Cusco bolt-in six-point chromoly roll cage (part #624 543 A) for chassis rigidity and safety"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "SUZUKI",
+  "model": "TWIN SPORT",
+  "prestazioni": [
+    "Engine swap to a **K6A 660cc turbocharged** (engine code: K6A-T) from the Suzuki Cappuccino, retaining the Twin Sport's AWD system but upgrading the turbo to a **Garrett GT12 turbocharger** with a custom 0.63 A/R turbine housing for optimized spool and 0.5 bar (7.25 psi) boost, paired with a **HKS Super SQV IV blow-off valve** to prevent compressor surge",
+    "Full **TOD (Torque On Demand) AWD system recalibration** via a **Haltech Elite 1500 ECU**, reprogramming the front/rear torque split to 40:60 under normal conditions and 20:80 under hard acceleration, with a **custom 4.1 final drive ratio** from a Suzuki Jimny (J20A) for improved low-end torque delivery",
+    "Suspension overhaul with **Öhlins DFV (Dual Flow Valve) coilovers** (custom valved for the Twin Sport's 800kg weight), **SuperPro poly bushings** (part #SPF0116K) for the rear trailing arms, and **Cusco 2-way adjustable rear sway bar** (22mm diameter) to eliminate body roll while maintaining compliance for JDM touge runs"
+  ],
+  "estetica": [
+    "**Rocket Bunny V1 aero kit** (specifically designed for the Twin Sport's 3.3m wheelbase), featuring a **carbon fiber front splitter with integrated canards** and a **duckbill rear wing** (30mm adjustable angle) for balanced downforce at 120+ km/h",
+    "**Work Emotion CR Kiwami wheels** (15x7 +38 offset, 4x100 PCD) wrapped in **Yokohama Advan Neova AD08R tires** (195/50R15) for optimal grip, paired with **Project Mu B-Spec 4-pot front brake calipers** (256mm rotors) and **Ferodo DS2500 pads** for fade-resistant stopping power",
+    "**Full custom widebody conversion** using **Vertex Lang II-style fender flares** (hand-laid fiberglass, 50mm wider than stock) and a **Spoon Sports rear diffuser** (molded to fit the Twin Sport's bumper), finished in **3M Matte Pearl White (120-A)** with **JDM-spec yellow turn signals** (Koito Sealed Beam)"
+  ]
+}

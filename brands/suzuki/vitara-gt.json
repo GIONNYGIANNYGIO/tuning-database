@@ -1,0 +1,14 @@
+{
+  "brand": "SUZUKI",
+  "model": "VITARA GT",
+  "prestazioni": [
+    "Engine swap to a **J20C (2.0L DOHC VVT, 16V, naturally aspirated)** from the Suzuki Kizashi, retaining the Vitara GT's AWD system but upgrading the ECU to a **Haltech Elite 2500** with a custom tune for 220 hp at 7,000 RPM and 180 lb-ft of torque at 5,500 RPM, utilizing **ITB (Individual Throttle Bodies) from Jenvey Dynamics** (45mm bore) for improved throttle response and airflow.",
+    "Forced induction via a **Garrett GT2860RS turbocharger** (0.63 A/R turbine housing) with a **GReddy Type-S intercooler** (front-mount, 600x300x76mm core) and a **Tial MV-R 44mm wastegate** to manage boost at 1.2 bar (17.4 psi), paired with a **Sard fuel pressure regulator** and **ID1000x injectors** for precise fuel delivery under boost.",
+    "Suspension overhaul with **Öhlins Road & Track DFV coilovers** (custom valving for the Vitara GT's 5-link rear suspension), **SuperPro poly bushings** (full set, including subframe and control arms), and **Whiteline adjustable rear sway bar** (24mm, 3-position) to eliminate body roll and improve turn-in response for rally-inspired handling."
+  ],
+  "estetica": [
+    "**Rocket Bunny V2 widebody kit** (fiberglass, designed specifically for the Vitara GT's chassis) with **custom 3-piece Work Emotion CR Kiwami wheels** (18x9.5 +25 front, 18x10.5 +30 rear) wrapped in **Michelin Pilot Sport Cup 2** tires (245/40/18 front, 275/35/18 rear) for aggressive stance and grip.",
+    "Full **Seibon carbon fiber hood** (with functional vents) and **carbon fiber rear diffuser** (custom-made by **VIS Racing**) to reduce weight and improve aerodynamics, paired with a **custom front splitter** (3D-printed ABS, 30mm overhang) for increased downforce at speed.",
+    "Interior stripped and reupholstered with **Recaro Pole Position seats** (cloth/Alcantara, FIA-approved), **Momo Prototipo steering wheel** (350mm, suede), and a **Sparco 6-point harness** (for track use), with a **Defi BF gauge cluster** (oil pressure, boost, and wideband AFR) mounted on a **custom A-pillar pod** for real-time monitoring."
+  ]
+}

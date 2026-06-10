@@ -1,0 +1,15 @@
+{
+  "brand": "SUZUKI",
+  "model": "SWIFT RALLY CUP",
+  "prestazioni": [
+    "Engine: M13A (1.3L DOHC 16V) with forged internals including JE Pistons 87mm forged slugs (8.5:1 compression), Eagle H-beam connecting rods, and ACL Race Series bearings for 12,000 RPM reliability. Paired with a Garrett GT2860RS turbo (0.63 A/R turbine housing) running 28 psi on E85 fuel via a Syvecs S6Plus standalone ECU with closed-loop lambda control and launch control mapping for 280+ WHP.",
+    "Drivetrain: OS Giken Super Lock LSD (2-way) in a reinforced Suzuki Sport 5-speed transmission with Quaife ATB differential, coupled to a Sachs Performance twin-disc clutch (240mm) and a custom 4.3:1 final drive ratio for optimal acceleration. Uprated driveshafts from Driveshaft Shop with CV joints rated for 400+ lb-ft torque.",
+    "Suspension: Öhlins TTX22M 2-way adjustable coilovers with 300 lb/in front springs and 250 lb/in rear springs, custom valving for gravel rally compliance, and spherical bearing top mounts. Polyurethane bushings from SuperPro (part #SPF0115K) replace all OEM rubber, while the front subframe is reinforced with a Cusco strut bar and rear trailing arm braces from Spoon Sports.",
+    "Braking: AP Racing CP6640-2600 4-piston calipers with 280mm two-piece rotors (floating, slotted) up front, and CP5310-1800 2-piston calipers with 260mm rotors in the rear. Braided stainless steel lines from Goodridge and Ferodo DS2500 pads for consistent bite under extreme heat. Master cylinder upgraded to a Tilton 7/8\" unit with a remote brake bias adjuster."
+  ],
+  "estetica": [
+    "Aero: Custom carbon fiber widebody kit from Rocket Bunny (Swift ZC31S-specific) with aggressive front fenders, rear overfenders, and a ducktail spoiler. Front splitter from Seibon Carbon with integrated canards, and a custom 3D-printed rear diffuser with Gurney flap. Underbody aero includes a flat floor pan from Rally Armor and a rear diffuser from APR Performance.",
+    "Lighting: Hella Rallye 3000 Compact 55W auxiliary lights (4x) mounted on a custom aluminum roof rack from Front Runner Outfitters. OEM headlights replaced with LUX HID projectors (5500K) and CREE LED fog lights in custom JDM-style housings. Rear lights swapped for sequential LED taillights from V-Land with integrated brake bias indicators.",
+    "Interior: Full FIA-spec roll cage from Custom Cages (8-point, T45 steel) with integrated door bars and harness mounts. Sparco Pro ADV seats with 6-point Schroth Profi II harnesses, and a suede-wrapped OMP steering wheel (330mm) on a NRG quick-release hub. Dashboard replaced with a Motec C127 digital dash and a custom aluminum center console housing a Syvecs keypad and fire suppression system activation switch. Full sound deadening removal with lightweight Dynamat Xtreme in critical areas."
+  ]
+}

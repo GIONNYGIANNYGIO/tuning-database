@@ -1,0 +1,14 @@
+{
+  "brand": "TVR",
+  "model": "CERBERA SPEED 12 TRACK EDITION",
+  "prestazioni": [
+    "Engine: TVR's proprietary 7.7L (7730cc) *Speed Twelve* V12 (code: *TVR-AJP8-12*), stroked to 90mm with a bespoke forged crankshaft by *Carrillo*, achieving 950+ hp at 7,200 RPM on *VP Racing Q16* 118-octane fuel with a *Motec M190 ECU* mapped for 1.5-bar boost via twin *Garrett GT42RS* turbos (hybridized with *BorgWarner EFR* compressor wheels) and *Tial MV-R* 44mm wastegates. Dry-sump lubrication system by *Dailey Engineering* with a 12-quart reservoir and *Mocal* oil cooler.",
+    "Drivetrain: *Hewland NLT* 6-speed sequential transaxle with *AP Racing* 6-piston carbon-carbon clutch and *Penske* 8760-series limited-slip differential (40% lock under load). Custom *TVR Racing* half-shafts with *GKN* CV joints and *Brembo* 380mm CCM-R rotors (front) clamped by *Alcon* 6-piston monoblock calipers, paired with *Ferodo DS3.1* pads.",
+    "Suspension/Chassis: *Öhlins TTX40* 3-way adjustable coilovers with *Eibach* 1,200 lb/in springs and *Sparco* spherical bearing top mounts. Full *TVR Motorsport* tubular subframe reinforcement with *T45* steel roll cage (FIA Appendix J spec) and *Schroth* 6-point harnesses. *PFC* carbon-ceramic brake ducts and *AeroCatch* quick-release hood latches for rapid pit access."
+  ],
+  "estetica": [
+    "Aerodynamics: *TVR Design Studio* carbon-fiber body kit with *RML Group*-developed front splitter (300kg downforce at 180mph), *Gurney flap*-equipped *TVR* rear wing (adjustable via *Dzus* fasteners), and *Vortex Generators* on the A-pillars to reduce drag by 8%. *AIM* carbon-fiber side skirts with integrated *LED* running lights (DRLs) and *Aeroflow* NACA ducts for brake cooling.",
+    "Exterior: *BBS LM* 18x12 (front) and 19x13 (rear) forged wheels with *Pirelli P Zero Trofeo R* tires (305/645R18 and 345/680R19). *PPG* custom *Lime Green* paint with *3M* matte black vinyl overlays on the roof and rear diffuser. *Hella* 90mm LED headlights with *Osram* laser high-beams and *LuxVision* adaptive cornering modules.",
+    "Interior: *Sparco* QRT-K carbon-fiber seats (FIA 8862-2009 certified) with *Schroth* 6-point harnesses and *Alcantara* suede upholstery. *Motec C187* dash display with *AIM MXL2* data logger, *Bosch* fire suppression system (plumbed to *TVR* carbon-fiber firewall), and *Racetech* pedal box with *Tilton* master cylinders. *Brembo* GT-style steering wheel with *Momo* quick-release hub and *AiM* shift lights."
+  ]
+}

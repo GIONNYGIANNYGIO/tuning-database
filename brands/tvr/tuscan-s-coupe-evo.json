@@ -1,0 +1,14 @@
+{
+  "brand": "TVR",
+  "model": "TUSCAN S COUPE EVO",
+  "prestazioni": [
+    "Replace the factory 4.0L Speed Six (TVR-S600) engine internals with forged Mahle Motorsport pistons (9.0:1 compression), Carrillo H-beam connecting rods, and a billet steel crankshaft from Cosworth to handle 700+ hp reliably. Pair with a custom dry-sump oiling system by Dailey Engineering to prevent oil starvation under high-G cornering.",
+    "Install a custom forced-induction setup using a Garrett GTX4202R turbocharger (1.05 A/R turbine housing) with a bespoke TVR-specific manifold by Bell Auto Services, mated to a custom intercooler core from PWR (4.5\" thick, 1200cfm airflow) and a Tial MV-R 50mm external wastegate with 38mm outlet for precise boost control (targeting 1.2 bar peak).",
+    "Upgrade the factory TVR-specific 6-speed manual transmission with a Quaife ATB differential (80% lock) and a Sachs Performance twin-disc clutch (240mm, 800Nm torque capacity). Replace the factory driveshafts with custom CV-jointed shafts from GKN Driveline to handle increased power and prevent failure under load."
+  ],
+  "estetica": [
+    "Install a full carbon-fiber widebody kit by KW Automotive (TVR Tuscan-specific design) with integrated front splitter, side skirts, and a rear diffuser, reducing weight by 18kg while improving downforce. Paint in a custom 'Brutal Bronze' matte finish with satin black accents for contrast.",
+    "Replace the factory headlights with a custom LED retrofit by Hella (Bi-Xenon projectors, 5500K color temperature) and add a set of OEM-style carbon-fiber side mirrors from TVR Parts UK, modified with integrated turn signals. Install a custom rear light assembly with sequential LED tails by Diode Dynamics for a modern touch.",
+    "Upgrade the interior with a full Alcantara retrim by Royal Steering Wheels, including the dashboard, door cards, and Recaro Pole Position seats (TVR-specific mounting brackets). Add a custom roll cage by Safety Devices (FIA-spec, 6-point, bolt-in) with integrated harness bar and a MOMO Prototipo steering wheel (350mm, suede grip)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "TVR",
+  "model": "GRIFFITH 500 EVO",
+  "prestazioni": [
+    "Engine: TVR Speed Six (AJP8) 4.0L inline-6 with forged internals (Mahle pistons, Carrillo H-beam rods, billet crankshaft) and a custom dry-sump oiling system by Dailey Engineering to handle 8,500 RPM redline and 550+ HP on VP Racing Q16 fuel",
+    "Forced Induction: Garrett GTX4202R turbocharger with a custom 3.5-inch stainless steel exhaust manifold by Bell Auto Services, paired with a Tial MV-R 44mm external wastegate and a custom intercooler core by PWR (800hp-capable) with dual Bosch 044 fuel pumps and ID1700x injectors",
+    "Drivetrain: Quaife ATB differential with a TVR-specific 3.91:1 final drive ratio, upgraded AP Racing CP8660 twin-plate clutch, and a custom 6-speed Holinger sequential gearbox with paddle-shift actuation (TVR-specific bellhousing adapter by RML Group)"
+  ],
+  "estetica": [
+    "Body: Full carbon-fiber widebody conversion by Kato Engineering (TVR-specific panels), including a custom front splitter with integrated canards, a rear diffuser by APR Performance, and a fixed carbon-fiber rear wing with Gurney flap (TVR Griffith-specific mounting points)",
+    "Suspension: Öhlins TTX40 coilovers with 3-way adjustable damping (TVR-specific top mounts by Polybush), paired with custom rose-jointed front and rear control arms by SuperPro (polyurethane bushings for NVH reduction) and spherical bearing upgrades for the rear trailing arms",
+    "Interior: Full Alcantara-wrapped Recaro Pole Position seats with custom TVR-embroidered headrests, a MOMO Prototipo steering wheel (350mm, suede) with a quick-release hub, and a custom digital dash by AIM MXS Strada (TVR-specific CAN bus integration for Speed Six telemetry)"
+  ]
+}

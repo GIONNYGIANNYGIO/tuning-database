@@ -1,0 +1,14 @@
+{
+  "brand": "TVR",
+  "model": "TUSCAN CHALLENGE EDITION",
+  "prestazioni": [
+    "Engine: TVR Speed Six (AJP8) 4.0L inline-6 with forged internals (Mahle pistons, Carillo rods, billet crank) and upgraded dry-sump lubrication system (Titan Motorsport high-capacity oil pump and Accusump pre-oiler) for sustained 8,500 RPM operation in endurance racing conditions.",
+    "Forced Induction: Custom-built turbo system featuring a Garrett GT35R turbocharger with 0.82 A/R turbine housing, TiAL MV-R 44mm wastegate, and custom 3.5\" stainless steel exhaust manifold (hand-fabricated by JE Motorsport) feeding into a 3.5\" straight-pipe exhaust with Burns Stainless merge collectors and a MagnaFlow 304 stainless steel muffler for optimal scavenging.",
+    "Fuel & Ignition: Full sequential fuel injection conversion using Bosch Motorsport 2200cc/min injectors, Walbro 450 LPH in-tank fuel pump, and a Syvecs S8 ECU with custom CAN bus integration for traction control and launch control. Ignition system upgraded to MSD 8 Plus CDI box with NGK R7437-9 racing plugs gapped at 0.024\" for high-RPM stability."
+  ],
+  "estetica": [
+    "Aerodynamics: Custom carbon fiber widebody kit (designed by RML Group) featuring extended front fenders with integrated NACA ducts for brake cooling, a rear diffuser with Gurney flap (3D-printed from carbon fiber-reinforced nylon), and a fixed rear wing (2-element design, 1,200mm span, 300mm chord) with adjustable angle of attack (0-12 degrees) for downforce tuning.",
+    "Lightweighting: Full carbon fiber replacement for OEM panels (hood, doors, trunk lid) using pre-preg autoclave-cured carbon fiber (supplied by Easy Composites) with a 2x2 twill weave and 3K finish, reducing weight by 45kg. Polycarbonate side windows (Makrolon GP) with custom aluminum frames (CNC-machined by 3D Hubs) for additional weight savings.",
+    "Interior & Styling: Full FIA-spec roll cage (T45 steel, TIG-welded by Safety Devices) with integrated door bars and harness mounts for 6-point Schroth Profi II ASM belts. Custom Alcantara-wrapped dashboard (trimmed by Trimworks) with a digital dash (Aim MXS Strada) and a quick-release MOMO Prototipo steering wheel (350mm diameter, suede grip). Exterior paint: Custom mixed 'Titanium Silver' (Standox Standoblue base with 3M 1080 Carbon Fiber vinyl overlay on the roof and mirrors)."
+  ]
+}

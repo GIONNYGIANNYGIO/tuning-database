@@ -1,0 +1,14 @@
+{
+  "brand": "TVR",
+  "model": "CERBERA SPEED 12",
+  "prestazioni": [
+    "Replace the factory 7.7L (472ci) TVR Speed Twelve (engine code: TVR-AJP8) dry-sump V12 with a bespoke dry-sump system from Dailey Engineering, featuring a 12-stage scavenge pump and integrated billet aluminum oil tank to eliminate oil starvation during sustained 1.5G lateral loads on circuits like Nürburgring Nordschleife.",
+    "Install a custom forced-induction setup using twin Garrett GTX5533R Gen II turbochargers (88mm inducer, 1.15 A/R turbine housings) with TiAL MV-R 60mm wastegates, paired to a custom air-to-water intercooler system from PWR (Australia) with dual 1200W Bosch coolant pumps and a 10L ice reservoir for track-day endurance cooling.",
+    "Upgrade the factory TVR-developed 6-speed sequential transaxle (code: TVR-T6S) with a Quaife ATB differential (85% lock) and a Tilton 7.25\" triple-plate carbon clutch, mated to a custom bellhousing from Holinger Engineering to handle the projected 1,200+ hp output while maintaining OEM shift linkage geometry for driver ergonomics."
+  ],
+  "estetica": [
+    "Replace the factory carbon-fiber front splitter with a custom 3D-printed titanium unit from V Carbon (Germany), designed using CFD analysis to generate 180kg of downforce at 180mph while reducing weight by 40% over the OEM part, featuring integrated LED cooling ducts for the brake system.",
+    "Install a full carbon-fiber widebody kit from KW Automotive (Speed 12-specific design), including extended front fenders with integrated NACA ducts for turbocharger intake cooling, rear quarter panels with side-exit exhaust cutouts, and a bespoke rear diffuser with active Gurney flap (adjustable via cockpit switch) for high-speed stability.",
+    "Fit a custom roll cage from Safety Devices (UK) with integrated LED halo lighting (Philips Lumileds Luxeon Z ES) and a bespoke carbon-fiber dash from AIM Motorsport (MXG 12\" display) with real-time telemetry overlay, including TVR-AJP8 cylinder pressure monitoring via Kistler spark plug sensors."
+  ]
+}
