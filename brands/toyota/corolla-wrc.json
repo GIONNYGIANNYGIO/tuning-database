@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "COROLLA WRC",
+  "prestazioni": [
+    "3S-GTE (Gen 3) engine swap with forged internals: JE 87mm forged pistons (9.5:1 CR), Eagle H-beam connecting rods, and a billet crankshaft for 1,000+ hp reliability under WRC-spec boost (3.5 bar absolute). Pair with a Garrett GTX4202R turbo (88mm compressor, 1.15 A/R turbine housing) and a custom 45mm wastegate for precise spool control.",
+    "PWR Australia 4-1 equal-length stainless steel exhaust manifold with ceramic coating, feeding into a custom 3.5-inch titanium exhaust system (Akrapovič WRC-spec) with a straight-pipe design and a 304 stainless steel muffler for backpressure optimization.",
+    "Ohlins TTX40 4-way adjustable dampers with WRC-spec spring rates (600 lb/in front, 550 lb/in rear) and spherical bearing top mounts. Chassis reinforcement via Cusco 2-point strut tower bars (front and rear) and a full WRC-spec roll cage (Sparco Pro2000) with integrated gussets for torsional rigidity."
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (WRC-spec) with carbon fiber fenders, front splitter, and rear diffuser, including custom 3D-printed canards for downforce tuning. Painted in Toyota Gazoo Racing’s signature ‘WRC Red’ (Pantone 185 C) with matte black accents.",
+    "Voltex Type-5 rear wing (carbon fiber, 1,800mm span) with adjustable angle of attack (0-15 degrees) and integrated DRS (Drag Reduction System) for high-speed stability. Custom WRC-spec side skirts with integrated air curtains for brake cooling.",
+    "OMP WRC-spec carbon fiber seats (shell-type, FIA 8862-2009 certified) with Schroth 6-point harnesses and a custom MOMO WRC steering wheel (quick-release, Alcantara grip) featuring integrated paddle shifters for the sequential gearbox."
+  ]
+}

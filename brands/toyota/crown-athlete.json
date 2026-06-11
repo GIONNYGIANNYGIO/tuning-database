@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "CROWN ATHLETE",
+  "prestazioni": [
+    "Forced induction conversion using a Garrett GTX3582R turbocharger (86mm compressor wheel, 0.82 A/R turbine housing) on the 3GR-FSE (3.0L V6) engine, paired with a Tomei 260° camshaft kit (intake/exhaust lift: 8.5mm/8.3mm) and HKS Hi-Power 70mm titanium valves for reduced valvetrain mass and improved high-RPM stability.",
+    "Custom 3GR-FSE stroker kit (3.4L displacement) utilizing a K1 Technologies forged crankshaft (88mm stroke), JE 2618-T6 forged pistons (9.5:1 compression ratio), and Manley H-beam connecting rods with ARP 2000 rod bolts, mated to a Tomei 75mm throttle body and a custom intake manifold with velocity stacks for optimized airflow.",
+    "Full drivetrain reinforcement including a Cusco OS Type 2.5 LSD (2.5-way, 40% preload) in the 8-inch rear differential, a Driveshaft Shop 3.5-inch aluminum driveshaft with CV joints, and a Tilton 7.25-inch twin-disc clutch (ceramic-metallic friction material) with a billet flywheel for the 6-speed Aisin AW automatic transmission (reflashed with a Piaspeed Stage 3 TCU tune for 0.15s faster shifts)."
+  ],
+  "estetica": [
+    "Liberty Walk LB-WORKS widebody conversion kit (Crown Athlete-specific, 50mm extended fenders, carbon fiber overfenders) with custom front canards and a rear diffuser from Varis Japan, all finished in Nissan GT-R Nismo Lime Yellow (code: M3Y) with matte black accents.",
+    "OEM+ JDM-spec Crown Athlete front bumper lip (part #53111-30070) with integrated LED DRLs from Morimoto XB35, paired with a custom 3D-printed carbon fiber hood featuring a 50mm raised center bulge and dual NACA ducts for the 3GR-FSE intercooler piping.",
+    "Rear end transformation with a custom 3-piece carbon fiber spoiler (inspired by the Toyota GRMN series) mounted on a custom aluminum subframe, LED taillight conversion using Audi R8 V10 OEM units (modified to fit Crown Athlete housings), and a full underbody aero package from APR Performance (front splitter, side skirts, and rear diffuser with gurney flaps)."
+  ]
+}

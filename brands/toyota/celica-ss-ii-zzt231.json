@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "CELICA SS-II ZZT231",
+  "prestazioni": [
+    "Engine: 1ZZ-FED (1.8L VVT-i) forced induction via Garrett GT2860RS turbocharger with 0.63 A/R turbine housing, custom 3-inch stainless steel downpipe by HKS, and front-mount intercooler from GReddy Type-S (550x220x76mm core) to support 220-240whp on 98 RON fuel with HKS Hi-Power fuel pump and 440cc/min Denso injectors",
+    "Drivetrain: OS Giken Super Lock LSD (2-way) with 4.10 final gear ratio, reinforced CUSCO 1.5-way limited-slip differential mount, and TRD 6-speed short shifter with carbon fiber shift knob for reduced throw (35mm) and quicker engagement",
+    "Suspension: Öhlins Road & Track DFV coilovers (front: 400lb/in, rear: 350lb/in) with custom valving for ZZT231 chassis, Whiteline adjustable front sway bar (24mm hollow) and rear sway bar (22mm solid), and Cusco front strut tower bar (2-point aluminum) for reduced flex under hard cornering"
+  ],
+  "estetica": [
+    "Body: Veilside Fortune 03 widebody kit (ZZT231-specific fitment) with custom carbon fiber front splitter by Rocket Bunny (35mm overhang) and rear diffuser by Varis (dual-canard design), paired with TRD-style carbon fiber hood (3.5kg weight reduction)",
+    "Wheels: Work Emotion CR Kiwami (17x9 +35 front, 17x10 +30 rear) with 225/45/17 and 255/40/17 Michelin Pilot Sport Cup 2 tires, mounted on custom 5x100 to 5x114.3 adapters (15mm spacer) for aggressive flush fitment",
+    "Interior: Bride Zeta III bucket seats (ZZT231-specific mounting brackets) with Takata 4-point harnesses, MOMO Mod.78 steering wheel (350mm diameter, 6-bolt pattern) on NRG quick-release hub, and custom aluminum gauge pod housing Defi Advance BF gauges (boost, oil pressure, wideband AFR) with carbon fiber trim"
+  ]
+}

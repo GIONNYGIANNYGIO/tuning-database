@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "CRESTA JZX90",
+  "prestazioni": [
+    "1JZ-GTE (non-VVTi) engine build with forged internals: Tomei 87mm forged pistons (9.0:1 compression), Eagle H-beam connecting rods, and a Tomei Type-M 264° camshaft set for aggressive mid-to-high RPM power delivery, paired with a Garrett GTX3582R turbocharger (0.82 A/R turbine housing) and custom 44mm wastegate for 1.2 bar (17.4 psi) boost pressure",
+    "Custom 3.5-inch stainless steel turbo-back exhaust system by HKS Hi-Power Spec-L (JZX90-specific routing with 200-cell catalytic converter delete and HKS SSQV4 blow-off valve for rapid spool recovery), mated to a Tomei 70mm titanium exhaust tip for weight reduction",
+    "Haltech Elite 2500 standalone ECU with custom 1JZ-GTE non-VVTi base map, featuring sequential fuel injection control, individual cylinder trimming, and launch control (3,500 RPM hard cut) for drag applications, paired with a Link G4+ CAN Lambda wideband controller and AEM 3.5-bar MAP sensor for precise AFR targeting (11.5:1 under full load)"
+  ],
+  "estetica": [
+    "Vertex Lang II JZX90-specific widebody kit (front fenders, rear quarter panels, and rear bumper) with custom carbon fiber overfenders (15mm wider front, 20mm wider rear) to accommodate Work Meister S1 3P 18x9.5 +15 (front) and 18x10.5 +30 (rear) wheels, wrapped in Toyo R888R 235/40/18 and 265/35/18 tires respectively",
+    "Custom JZX90 front lip spoiler by C-West (FRP construction with integrated canards) and a Veilside Fortune II rear wing (3-piece carbon fiber, adjustable angle from 5° to 25°) for high-speed stability, paired with a custom rear diffuser by Rocket Bunny (polyurethane, 3-inch diffuser tunnels for improved airflow)",
+    "Full interior overhaul with Bride Zeta III bucket seats (fixed-back, FIA-approved) in black Alcantara with red stitching, paired with a Nardi Classic 350mm steering wheel (suede grip) and a custom roll cage by AutoPower (8-point, TIG-welded chromoly, bolt-in design with harness bar for Schroth Profi II 6-point harnesses)"
+  ]
+}

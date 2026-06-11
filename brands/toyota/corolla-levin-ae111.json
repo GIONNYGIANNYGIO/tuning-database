@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "COROLLA LEVIN AE111",
+  "prestazioni": [
+    "4A-GE 20V Blacktop (silvertop conversion with 10.5:1 compression ratio) stroked to 1.8L using a Tomei 86mm forged crankshaft, Carrillo H-beam connecting rods, and JE 87mm forged pistons for 1,838cc displacement, paired with a custom 272°/272° Tomei Type-R camshaft grind and Supertech valve springs for 10,500 RPM capability",
+    "Garrett GT2860RS turbocharger with a custom 0.63 A/R turbine housing and 56mm compressor wheel, mated to a GReddy T518Z wastegate, feeding a custom 3.5-inch stainless steel intercooler piping system with a GReddy Type-S intercooler (600hp core) and a Tomei 60mm titanium blow-off valve",
+    "Haltech Elite 2500 standalone ECU with custom flex-fuel mapping for E85, running ID1000x injectors, a Walbro 450LPH in-tank fuel pump, and a Tomei high-pressure fuel pump, with a custom 3-inch stainless steel exhaust system featuring a HKS Hi-Power Spec-L muffler and a custom 4-2-1 header with 42mm primary tubes"
+  ],
+  "estetica": [
+    "Rocket Bunny V1 widebody kit (AE111-specific) with custom carbon fiber overfenders, extended 30mm front and 40mm rear, paired with a custom 50mm extended front lip and a custom 3D-printed rear diffuser for the AE111’s unique rear bumper",
+    "Work Meister S1 3P 15x9 +15 front and 15x10 +25 rear wheels with 205/45/15 and 225/45/15 Yokohama Advan Neova AD08R tires, fitted with custom 5x100 to 4x100 hubcentric adapters and Project Kics R40 6061-T6 lug nuts",
+    "Custom carbon fiber AE111-specific hood with a 3D-printed NACA duct for intercooler cooling, paired with a TRD AE101 rear wing (modified with a 3D-printed gurney flap) and a custom LED taillight conversion using Osram LED chips for a JDM-spec clear lens look"
+  ]
+}

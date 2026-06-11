@@ -1,0 +1,15 @@
+{
+  "brand": "SUBARU",
+  "model": "WRX STI S209 FINAL EDITION JDM",
+  "prestazioni": [
+    "Engine: EJ257 (closed-deck, forged internals, 9.0:1 compression) - Full forged rotating assembly upgrade with Manley 92.8mm forged pistons, Eagle H-beam connecting rods, and a billet crankshaft from Tomei, paired with ARP Custom Age 625+ head studs and main studs for 40psi+ boost capability.",
+    "Turbocharger: Garrett GTX4202R Gen II with a 76mm billet compressor wheel, 0.82 A/R turbine housing, and TiAL MV-R 44mm wastegate for precise boost control (targeting 38-42psi on E85), mated to a custom 3.5-inch divorced downpipe with a secondary wastegate dump tube for optimal spool and flow.",
+    "Fuel System: Full Radium Engineering port-injection kit with dual 1000cc/min ID1000 primary injectors and four supplemental 2200cc/min injectors, fed by a Walbro 450 LPH in-tank pump and a secondary AEM 400 LPH external pump, with a Motec M150 ECU managing dual-fuel mapping (E85 and race gas) and individual cylinder trims.",
+    "Drivetrain: STI 6-speed transmission reinforced with a PPG Stage 4 gearset (2.345 1st, 1.888 2nd, 1.529 3rd) and a Cusco 2.5-way LSD, paired with a Tilton triple-plate carbon clutch and a billet aluminum flywheel, all mounted in a Cusco Type-RS 8-point roll cage with integrated transmission crossmember for rigidity."
+  ],
+  "estetica": [
+    "Aero: Full Varis Japan widebody conversion (S209-specific front bumper, rear diffuser, and GT wing with carbon fiber endplates), paired with a custom carbon fiber hood featuring a 3D-printed NACA duct for intercooler cooling, and a Voltex Type-5 rear wing with adjustable carbon fiber gurney flaps.",
+    "Suspension: Ohlins Road & Track DFV coilovers with 24-way compression/rebound damping, Swift Springs (8K front, 10K rear), and spherical bearing top mounts, paired with Cusco front and rear pillowball sway bars (24mm front, 22mm rear) and a custom Whiteline rear subframe brace for chassis stiffening.",
+    "Wheels & Brakes: RAYS Gram Lights 57Xtreme 18x10.5 +33 front and 18x11 +38 rear wheels with 275/35/18 and 305/30/18 Michelin Pilot Sport Cup 2 R tires, paired with AP Racing Radi-CAL 6-piston front and 4-piston rear calipers with 380mm and 356mm two-piece rotors, respectively, and Ferodo DS3000 brake pads."
+  ]
+}

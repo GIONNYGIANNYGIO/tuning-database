@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "COROLLA WRC99",
+  "prestazioni": [
+    "3S-GTE (Gen 4) engine with forged internals: CP pistons (87mm, 9.0:1 CR), Eagle H-beam rods, ACL Race Series bearings, and a billet crankshaft (77.6mm stroke) to handle 600+ hp at 1.5 bar boost on E85 fuel, paired with a Garrett GTX4202R turbo (0.82 A/R, 64mm inducer) and custom 3.5\" stainless steel downpipe with V-band clamps for optimized exhaust flow.",
+    "PWR Australia custom front-mount intercooler (1000hp-capable, 24\" x 12\" x 4.5\" core) with dual 3.5\" silicone couplers and Mishimoto X-Line clamps, fed by a Pierburg CWA100 water pump and 1.25\" aluminum piping for consistent intake temps below 40°C in rally stages.",
+    "Ohlins TTX40 4-way adjustable dampers with 24-position rebound/compression adjustment, custom valving for the WRC99's MacPherson strut front and multi-link rear, paired with Eibach ERS 1000N/mm springs (front) and 800N/mm (rear) for gravel/asphalt transition handling, plus spherical bearing top mounts from Motorsport Developments UK."
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (WRC99-specific, 60mm wider front fenders, 80mm rear) with carbon fiber overfenders and integrated tow hooks, paired with a custom aluminum rear diffuser from J's Racing (3-piece, 120mm height) for downforce optimization at 180+ km/h.",
+    "Recaro SRD-LW (WRC-spec) seats in Kevlar/carbon hybrid shell, trimmed in Alcantera with custom Toyota Gazoo Racing (TGR) embroidery, mounted on Schroth Profi II 6-point harnesses and custom aluminum seat rails (TIG-welded, 2mm 6061-T6) for FIA compliance.",
+    "Custom rally livery by BBS Motorsport Graphics: 3M 1080 vinyl wrap in \"TGR Blue\" with matte black accents, WRC99-specific sponsor decals (Castrol, Denso, Michelin), and hand-painted \"Corolla WRC\" script on the hood in 24k gold leaf for vintage rally authenticity."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "CROWN SPORT GR PERFORMANCE",
+  "prestazioni": [
+    "Forced induction upgrade via HKS GT-SS turbocharger kit (T25 flange, 62mm compressor, 56mm turbine) paired with a Tomei 80mm titanium exhaust manifold for the 2.4L T24A-FTS inline-4 engine, supporting 450whp on E85 with a custom ECU flash via OpenECU's M150 platform (OEM ECU reverse-engineered for direct port injection control).",
+    "Full drivetrain reinforcement: OS Giken Super Lock LSD (4.30 final drive ratio) with billet axles from Driveshaft Shop (3.5-inch chromoly CV joints) and a Tilton twin-disc clutch (7.25-inch flywheel, 800 ft-lb torque capacity) for the 8-speed GA8HP75Z automatic transmission (reflashed with GR Corolla shift logic via HP Tuners).",
+    "Suspension overhaul with Öhlins Road & Track DFV coilovers (24-way adjustable damping, 30mm front/20mm rear drop) paired with Cusco Type RS 22mm front/18mm rear sway bars and Whiteline adjustable end links. Chassis stiffening via Cusco bolt-in front strut tower bar and a custom 3-point rear subframe brace (TIG-welded 4130 chromoly)."
+  ],
+  "estetica": [
+    "Full Rocket Bunny V3 widebody kit (carbon fiber fenders, front bumper, and rear diffuser) with custom 3M Matte Graphite vinyl wrap and exposed carbon weave accents. Front splitter extended 3 inches via custom aluminum undertray (CAD-designed for 20% more downforce at 120mph).",
+    "OEM+ GRMN-inspired aero: Toyota Gazoo Racing carbon fiber hood (with functional heat extractors) and a custom rear wing (dual-element, 1,200mm span, adjustable angle via KW Automotive mounts). Side skirts replaced with GR Corolla Circuit Edition units (molded to fit Crown Sport wheelbase).",
+    "Wheel setup: WORK Emotion CR Kiwami (19x9.5 +30 front, 19x10.5 +35 rear) with Michelin Pilot Sport Cup 2 R tires (265/35/19 front, 295/30/19 rear). Brake system: AP Racing Radi-CAL 6-piston front/4-piston rear calipers (380mm front, 355mm rear rotors) with custom stainless steel braided lines and Motul RBF 660 brake fluid."
+  ]
+}

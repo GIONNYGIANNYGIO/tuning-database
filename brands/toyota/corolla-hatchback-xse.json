@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "COROLLA HATCHBACK XSE",
+  "prestazioni": [
+    "Engine: M20A-FKS 2.0L Dynamic Force I4 (direct/port injection) – Full bolt-on with HKS Hi-Power Super SQV4 blow-off valve, GReddy Performance Intercooler Kit (core dimensions: 24.8\" x 5.9\" x 3.1\"), and Garrett GTX2867R Gen II turbo (compressor inducer: 52.2mm, exducer: 71mm, turbine inducer: 53.1mm, exducer: 47.0mm) running 22psi on E85 with AEM Infinity 8 standalone ECU (firmware v1.5.3) and custom 400cc ID injectors (low impedance, 4-hole design).",
+    "Drivetrain: OS Giken Super Lock LSD (clutch-type, 2.2-way) paired with a TREMEC TR-9070 7-speed dual-clutch transmission (short-throw shifter, 0.4s shift time) and custom 3.93:1 final drive ratio (replacing the stock 3.54:1) via Toyota Racing Development (TRD) ring & pinion set (part #41201-12160).",
+    "Suspension & Braking: Ohlins Road & Track DFV coilovers (2-way adjustable damping, 30-way adjustable rebound, 20mm front/15mm rear ride height adjustment) with custom camber plates (0.5° additional negative camber) and AP Racing Radi-CAL 6-piston front calipers (355mm discs, 32mm thickness) with Ferodo DS2500 pads and stainless steel braided lines (Goodridge 600 series)."
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny V3 widebody kit (fiberglass construction, 30mm front/50mm rear fender flares) with custom carbon fiber front splitter (3D-printed core, 3M 1080 vinyl overlay in matte gunmetal) and Varis Japan rear diffuser (dual-canard design, integrated tow hook cover).",
+    "Wheels & Tires: WORK Meister S1 3P 18x9.5 +22 front / 18x10.5 +30 rear (matte black finish, 5x100 PCD) wrapped in Michelin Pilot Sport Cup 2 R tires (245/40/18 front, 275/35/18 rear) with custom TPMS sensors (Schrader EZ-Sensor, 433MHz).",
+    "Exterior & Lighting: Seibon Carbon fiber hood (Type 3 weave, 1.2mm thickness, weight savings: 8.2kg) with custom LED DRLs (Lux H8 bulbs, 6000K color temp) and Morimoto XB35 HID projectors (35W ballasts, 5500K) in OEM-style housings with custom sequential turn signals (Philips Canbus-ready LEDs)."
+  ]
+}

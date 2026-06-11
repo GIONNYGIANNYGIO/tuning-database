@@ -1,0 +1,15 @@
+{
+  "brand": "TOYOTA",
+  "model": "CORONA EXiV",
+  "prestazioni": [
+    "Engine swap to a naturally aspirated 3S-GTE Gen 3 (specifically the '93-'98 variant with 260 PS @ 6,200 RPM and 324 Nm @ 4,400 RPM) paired with a Garrett GT2860-5 turbocharger, custom 3-inch stainless steel downpipe, and a Tomei 260° camshaft set for optimized high-RPM power delivery.",
+    "Full bolt-on internals upgrade including JUN forged pistons (87mm, 9.0:1 compression), Eagle H-beam connecting rods, and a Tomei Type-M 85mm stroker crankshaft to achieve a 2.2L displacement, mated to a TODA Racing 1.5mm head gasket and ARP head studs for maximum reliability under boost.",
+    "Custom ECU remapping via Haltech Elite 2500 with individual cylinder fuel trims, dual MAP sensor inputs (for turbo and post-intercooler pressure), and a 4D ignition timing table optimized for 98 RON fuel, paired with a HKS Super Power Flow Type-R intercooler and a custom 3-core aluminum radiator from Koyorad for consistent intake temps.",
+    "Chassis reinforcement via TRD Japan 4-point strut tower bar (part #53601-12020), Cusco 2-point lower arm brace, and a full seam-welded subframe with polyurethane bushings from Whiteline (part #W51210) to eliminate torque steer and improve suspension geometry under hard acceleration."
+  ],
+  "estetica": [
+    "Full Rocket Bunny Version 3 widebody kit (specific to the ST206 chassis) with custom carbon fiber overfenders, extended front bumper with integrated canards, and a duckbill rear spoiler for aggressive stance and aero balance.",
+    "Custom 3-piece Work Meister S1 3P wheels (17x9 +22 front, 17x10 +30 rear) wrapped in Toyo R888R tires (225/45/17 front, 255/40/17 rear) with custom wheel spacers (15mm front, 25mm rear) to fill the arches and achieve a flush fitment.",
+    "Full interior overhaul with Bride Zeta III bucket seats (ST206-specific mounting brackets), a Nardi Classic 350mm steering wheel with a Works Bell quick-release hub, and a custom roll cage from Sabelt Japan (8-point, bolt-in) with integrated harness bar for track readiness, finished in matching TRD Silver paint."
+  ]
+}

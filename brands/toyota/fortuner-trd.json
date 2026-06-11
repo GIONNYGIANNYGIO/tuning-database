@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "FORTUNER TRD",
+  "prestazioni": [
+    "1GD-FTV 2.8L turbo-diesel engine: Garrett GTX3582R turbocharger upgrade with billet compressor wheel (60mm inducer, 82mm exducer), custom 3-inch stainless steel downpipe, and HKS Super Power Flow SSQV4 blow-off valve to eliminate turbo lag and support 350+ hp at 2.2 bar boost pressure",
+    "Full custom ECU remap via Haltech Elite 2500 standalone ECU with flex-fuel compatibility, optimized for 50/50 E85 blend, featuring 3D ignition timing maps, individual cylinder fuel trims, and launch control for 0-100 km/h in 6.2 seconds",
+    "KW Suspensions Clubsport coilovers with 3-way adjustable damping (compression/rebound), 50mm drop, and reinforced top mounts, paired with TRD-spec front sway bar (24mm) and Cusco rear sway bar (22mm) to eliminate body roll during high-speed off-road maneuvers"
+  ],
+  "estetica": [
+    "Rocket Bunny Fortuner-specific widebody kit (Pandem Type 3) with carbon fiber fender flares, extended wheel arches, and integrated LED turn signals, widening the track by 60mm for aggressive stance and 285/60R18 BFGoodrich KM3 tire fitment",
+    "TRD Pro-inspired custom front bumper with integrated 4-inch LED light bar (Rigid Industries E-Series), carbon fiber hood scoop (Seibon), and rear diffuser (Aeroflow) with dual 4-inch exhaust outlets (Injen stainless steel cat-back system)",
+    "Full interior overhaul with Recaro SR-7 XL bucket seats (red Alcantara with black leather bolsters), Takata 4-point harnesses, and custom TRD-themed dashboard overlay (3M vinyl wrap with carbon fiber texture) featuring a digital boost gauge (Defi Advance BF) and AEM X-Series wideband AFR gauge"
+  ]
+}

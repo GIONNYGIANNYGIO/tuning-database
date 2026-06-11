@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "CELICA ST205 WRC",
+  "prestazioni": [
+    "3S-GTE (4th Gen) engine rebuild with forged internals: JE 87mm forged pistons (9.0:1 CR), Eagle H-beam connecting rods, and ACL Race Series bearings, paired with a Tomei 272° duration camshaft kit (intake/exhaust) and Supertech valve springs/retainers for 9,000 RPM reliability",
+    "Garrett GT35R turbocharger (84mm compressor, .82 A/R turbine housing) with a custom 3.5\" stainless steel downpipe, HKS SSQV4 blow-off valve, and a GReddy Profec B Spec II boost controller targeting 1.5 bar (21.7 psi) on 100-octane fuel with a custom ECU map via Link G4+ Xtreme standalone ECU",
+    "Full drivetrain reinforcement: OS Giken Super Lock LSD (2-way) for the front differential, Cusco Type-RS 1.5-way rear LSD, and a Tilton 7.25\" triple-plate carbon clutch with a billet flywheel, mated to a reinforced ST205 WRC-spec transmission with Quaife sequential gearset (dog-ring engagement) and a PWR aluminum radiator with dual 12\" SPAL fans"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (ST205-specific) with carbon fiber overfenders, front bumper canards, and a custom rear diffuser, paired with a Seibon carbon fiber hood (WRC-style center vent) and a custom 3M matte vinyl wrap in Toyota Racing Development (TRD) \"Super White II\" with red/black accents",
+    "Ohlins DFV Road & Track coilovers (ST205-specific valving) with 24-way adjustable damping, Cusco front strut bar, and a full Cusco 4-point roll cage (FIA-spec, bolt-in) with integrated harness bar, complemented by Work Emotion CR Kiwami wheels (17x9 +22 front, 17x10.5 +22 rear) in gold with Toyo R888R tires (235/40/17 front, 275/35/17 rear)",
+    "WRC-inspired aero package: custom carbon fiber rear wing (ST205 GT-Four WRC replica, 1,200mm width) with adjustable Gurney flap, custom aluminum front splitter (30mm overhang), and a custom titanium exhaust system (3.5\" diameter, dual exit) with Burns Stainless mufflers and titanium tips, finished with a TRD WRC-style roof vent and carbon fiber side mirrors (Ralliart replica)"
+  ]
+}

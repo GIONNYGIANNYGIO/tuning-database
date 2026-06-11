@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "CURREN",
+  "prestazioni": [
+    "3S-GE (4th Gen 'Blacktop') 2.0L naturally aspirated inline-4 engine swap with Tomei 272°/272° duration camshafts, HKS Hi-Power 70mm titanium intake manifold, and a custom 4-2-1 stainless steel header by Fujitsubo Legalis R for optimized scavenging on the 3S-GE’s 240° intake and 236° exhaust valve timing",
+    "Garrett GT2860RS-5 turbocharger with a custom 0.82 A/R turbine housing and 58mm compressor wheel, paired with a GReddy Type-S intercooler (3.5\" core thickness) and a Tomei M82 blow-off valve to handle the 3S-GTE’s 1.0 bar (14.5 psi) boost target on 98 RON fuel with a Haltech Elite 2500 ECU controlling sequential fuel injection and ignition timing",
+    "Tein Flex Z coilovers with 8kg/mm front and 6kg/mm rear springs, Cusco 22mm front and 19mm rear adjustable sway bars, and Nismo 4-piston front/2-piston rear brake calipers with DBA 5000 Series rotors (326mm front, 296mm rear) for chassis balance optimized for the Curren’s 54:46 weight distribution"
+  ],
+  "estetica": [
+    "Vertex Lang II widebody kit with custom carbon fiber front fenders (30mm wider per side) and rear quarter panels (40mm wider per side) to clear the Tein Flex Z coilovers and 245/40R17 front / 265/35R17 rear Yokohama Advan Neova AD08R tires on Work Meister S1 3P 17x9 +22 front and 17x10 +18 rear wheels",
+    "Seibon carbon fiber hood with a 30mm vented scoop aligned with the HKS Hi-Power intake manifold for heat extraction, paired with a Veilside Fortune II rear bumper and a custom 3D-printed ABS rear diffuser with integrated dual 3\" titanium exhaust outlets for the Fujitsubo Legalis R system",
+    "Custom JDM-spec Toyota Curren ZS Limited Edition livery with Gunmetal Gray (1G3) base coat, Nismo-style red pinstriping, and a full OEM+ interior retrim using Bride Giugiaro II bucket seats (fixed-back, reclining mechanism removed) in Alcantara with red stitching, a Nardi Classic 350mm steering wheel, and a Defi BF Advance digital gauge cluster (oil pressure, boost, and wideband AFR)"
+  ]
+}

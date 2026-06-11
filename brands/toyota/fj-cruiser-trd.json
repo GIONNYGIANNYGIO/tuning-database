@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "FJ CRUISER TRD",
+  "prestazioni": [
+    "1GR-FE 4.0L V6 engine (32-valve DOHC, 245 hp stock) upgraded with a Magnuson TVS2300 Supercharger (8 psi boost, 400+ hp) paired with a custom AEM V2 water-methanol injection kit (50/50 mix) to control IATs and prevent detonation on 93 octane fuel",
+    "Full 4.88:1 gear ratio swap (Toyota Racing Development TRD Pro rear differential) with a ARB RD110 front differential and 4.88:1 Nitro Gear & Axle chromoly ring & pinion sets for both axles, mated to a Atlas II transfer case with 4.3:1 low-range gears for extreme crawling torque",
+    "Custom long-travel suspension system featuring Icon Vehicle Dynamics 2.5 Coilover Remote Reservoir Kit (3.5\" lift, 14\" travel front, 12\" rear) with Eibach ERS 1000 lb/in springs, Fox 2.0 Performance Series IFP shocks, and Total Chaos Fabrication upper control arms with uniball joints for 35° caster correction"
+  ],
+  "estetica": [
+    "Rocket Bunny FJ-R widebody kit (Pandem Design) with custom 3M Matte Military Green wrap, extended fender flares (3\" wider than stock) and relocated rear wheel arches to fit 37x12.50R17 Nitto Trail Grappler M/T tires on Method MR701 beadlock wheels (17x9 +18 offset)",
+    "Custom front bumper replacement with a C4 Fab Hybrid Bumper (winch-ready, 10,000 lb Warn Zeon 10-S winch, Baja Designs Squadron Pro LED light pods) and a custom rear bumper with dual swing-out tire carriers (holding two 20L RotopaX fuel cells and a spare 37\" tire)",
+    "Interior overhaul featuring Recaro SR-7F Kevlar bucket seats (custom-molded to FJ Cruiser floor pans), Takata 4-point harnesses, a custom aluminum dash overlay with a Racepak IQ3 digital dash (logging boost, AFR, oil pressure, and transmission temp), and a full sound deadening treatment with Kilmat 80 mil butyl sheets"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "GR COROLLA",
+  "prestazioni": [
+    "G16E-GTS 1.6L inline-3 turbocharged engine: Full forged internals kit from Tomei, including billet crankshaft (88mm stroke), forged I-beam connecting rods (153mm length), and forged 8.5:1 compression pistons with reinforced wrist pins for 30+ psi boost handling",
+    "Garrett GTX3582R Gen II turbocharger with 62mm compressor wheel (71 trim) and 64mm turbine wheel (76 trim), paired with a custom 3.5-inch stainless steel downpipe featuring a divorced wastegate setup and 304-grade merge collectors from Full-Race Motorsports",
+    "Haltech Elite 2500 standalone ECU with custom CAN bus integration for the GR-Four AWD system, featuring a 4D fuel/timing map for E85 blends, individual cylinder knock control, and launch control with anti-lag (2-step) calibrated for 6,500 RPM flat-shifts on the stock GR 6-speed manual transmission with OS Giken Super Lock limited-slip differential (1.5-way)"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit with carbon fiber overfenders (2.5-inch wider front, 3-inch wider rear), paired with a custom 3D-printed front splitter featuring integrated air curtains and a 50mm adjustable rear wing from Voltex (Type 7 configuration) with dual-element Gurney flaps",
+    "OEM+ GR Corolla Morizo Edition front bumper with deleted fog lights, replaced by a custom carbon fiber ducting system for the intercooler and radiator, alongside a custom rear diffuser from Seibon Carbon with integrated exhaust cutouts for a 3.5-inch titanium exhaust system from HKS Hi-Power SPEC-L",
+    "Custom interior roll cage from Custom Cages (FIA-spec 8.521.1) with integrated harness bar and bolt-in door bars, paired with Recaro SP-G buckets (GR Corolla-specific mounting brackets) and a MOMO Prototipo steering wheel (350mm diameter) with quick-release hub and integrated AIM MXS Strada dash display"
+  ]
+}

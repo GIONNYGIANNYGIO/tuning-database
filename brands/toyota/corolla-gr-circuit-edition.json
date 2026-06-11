@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "COROLLA GR CIRCUIT EDITION",
+  "prestazioni": [
+    "G16E-GTS (M15A-FKS) engine: Full forged internals upgrade with JE Pistons 87.5mm forged slugs (9.5:1 compression), Manley H-beam connecting rods, and ACL Race Series bearings to handle 400+ WHP on E85. Paired with a Garrett GTX3076R Gen II turbo (0.82 A/R, ball-bearing) on a custom 3.5-inch stainless downpipe with Vibrant 1799 resonated wastegate dump tubes.",
+    "GReddy Profec B Spec II standalone ECU with custom 4D fuel/timing maps for E85 flex-fuel compatibility, integrated with a Link CAN Lambda controller and AEM X-Series wideband O2 sensors. Includes a custom 1000cc ID1000x injectors side-feed setup with Radium Engineering fuel rails and a Walbro 450 LPH in-tank pump with a Fore Innovations surge tank.",
+    "Ohlins Road & Track DFV coilovers with 8-position adjustable compression/rebound damping, custom valving for the GR Corolla’s 10.2-inch front brake rotors (slotted, 356mm), and spherical bearing top mounts. Paired with Cusco 22mm front / 20mm rear adjustable sway bars and Whiteline front lower control arms with adjustable camber plates for -3.5 degrees of static camber."
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (GR Corolla-specific) with carbon fiber fenders, overfenders, and a duckbill rear wing (3D-scanned for OEM fitment). Front bumper lip replaced with a Seibon Carbon fiber GRMN-style splitter with integrated canards and a custom 3D-printed ABS diffuser for the rear bumper.",
+    "Voltex Type-5 rear wing (1,800mm width, 300mm chord) with carbon fiber endplates and a Gurney flap, mounted on custom aluminum pedestals to clear the OEM hatch spoiler. Side skirts replaced with Varis Japan GRMN-style carbon fiber units with integrated LED turn signals and a custom carbon fiber rear diffuser with titanium exhaust tips (Akrapovic Ti).",
+    "Full interior stripped and replaced with a Recaro SP-G (JDM-spec) driver’s seat and Bride Zeta III passenger seat, both mounted on custom TIG-welded aluminum seat rails. Full Alcantara headliner, door cards, and dashboard wrap with red stitching, paired with a MOMO Mod.78 steering wheel (350mm, suede) and a custom GR Corolla-specific roll cage (Chassisworks 8-point, TIG-welded, 1.75x0.120 DOM tubing)."
+  ]
+}

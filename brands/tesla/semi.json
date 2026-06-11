@@ -1,0 +1,14 @@
+{
+  "brand": "TESLA",
+  "model": "SEMI",
+  "prestazioni": [
+    "Upgrade to Tesla's proprietary **Plaid-derived 3-motor powertrain (code: T3P-800V)** with a custom **STARD 800V SiC inverter** and **Molicel P42A battery cells** (4680-compatible) for 1,200 kW peak output and 2,500 Nm torque, paired with a **Garrett GTX5544R Gen II turbo-compound e-axle** (modified for electric exhaust gas simulation via resistive heating) to maintain 800V thermal efficiency at sustained 100+ mph loads",
+    "Full **Unsprung Mass Reduction Package (UMRP)** via **BBS FI21 forged magnesium wheels** (24.5\" x 14.0\" front, 24.5\" x 16.0\" rear) with **Pirelli CyberTruck-derived CyberTread semi-slick tires (385/55R24.5)** and **AP Racing CP9660 carbon-ceramic brake rotors** (420mm front, 380mm rear) with **Alcon 6-piston monoblock calipers** and **Motul RBF 660 racing brake fluid** for 1.2g deceleration",
+    "Chassis reinforcement via **Tesla Racing Division (TRD) Semi-Specific Roll Cage (SSRC)** with **T45 chromoly tubing** and **Schroth 6-point harnesses**, integrated with a **KW Suspensions 8-stage adaptive dampers (Semi-specific valving)** and **Eibach ERS coilover springs (1200 lb/in front, 1400 lb/in rear)** for 30% reduced body roll during high-speed trailer sway mitigation"
+  ],
+  "estetica": [
+    "**Rocket Bunny Widebody Aero Kit (Semi-Specific)** with **carbon-fiber side skirts (Type-3 aggressive)**, **dual-plane rear diffuser (CFRP, 3D-printed lattice structure)**, and **active front splitter (hydraulic actuation, 0-60 mph deployment)** for 40% downforce increase at 70 mph",
+    "**VLED Carbon Dynamics Full-Body PPF (Gloss Black Matte with Electroluminescent Accent Strips)** paired with **Lumileds Luxeon HL2X LED headlights (12,000-lumen adaptive matrix)** and **Oracle Lighting RGBW underglow (Semi-specific mounting brackets for trailer clearance)**",
+    "**Tesla Design Studio (TDS) Custom Wrap (Hyper Metallic 'Aurora Shift' with 3M 1080 Series)** featuring **laser-etched Tesla 'T' logos (0.5mm depth, embedded with electroluminescent wire)** and **removable carbon-fiber mirror caps (with integrated FLIR thermal cameras for blind-spot monitoring)**"
+  ]
+}
