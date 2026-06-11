@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "4RUNNER TRD",
+  "prestazioni": [
+    "Engine: 1GR-FKS 4.0L V6 (304hp stock) – Forced induction via Garrett GTX3582R turbocharger (12psi boost, 450whp target) with custom 3.5\" stainless downpipe and Tomei 3.5\" cat-back exhaust system, paired with a GReddy intercooler and HKS SSQV4 blow-off valve for optimized airflow and spool response.",
+    "Fuel System: Upgraded to AEM 410LPH high-flow fuel pump, Injector Dynamics ID1050x injectors, and a Radium Engineering fuel pressure regulator to support the increased power output, with a custom ECU flash via OpenFlash Tablet (OFT) Stage 2+ tune for precise AFR and ignition timing.",
+    "Drivetrain & Suspension: Strengthened 4WD system with a Marlin Crawler Ultimate 4.88 gear set and ARB RD120 front differential, paired with Bilstein 8112 remote-reservoir coilovers (2.5\" lift) and Icon Vehicle Dynamics 1.5\" rear lift blocks for improved articulation. Rear diff reinforced with a Nitro Gear & Axle 30-spline chromoly axle kit and Auburn Gear limited-slip differential."
+  ],
+  "estetica": [
+    "Body Kit: Rocket Bunny V3 widebody kit (4Runner-specific) with custom carbon fiber fender flares, front lip, and rear diffuser, paired with a custom 3M Matte Military Green wrap and vinyl overlays for a stealth tactical look.",
+    "Wheels & Tires: Method MR701 VT-Spec wheels (17x9 +18 offset) wrapped in Nitto Ridge Grappler 285/70R17 all-terrain tires, with custom beadlock rings and Toyo Open Country M/T II 35x12.50R17 mud-terrain tires for off-road rotation.",
+    "Lighting & Accessories: Baja Designs Squadron Pro LED light bar (50\" curved) mounted on a Prinsu no-drill roof rack, with auxiliary Baja Designs S2 Pro amber fog lights and a custom front bumper featuring a C4 Fab winch mount (Warn Zeon 10-S) and ARB twin air compressors for on-the-fly tire adjustments."
+  ]
+}

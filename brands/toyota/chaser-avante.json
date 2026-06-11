@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "CHASER AVANTE",
+  "prestazioni": [
+    "1JZ-GTE (Version 3) engine build with Tomei 264°/264° camshafts, HKS 272° adjustable cam gears, and a Garrett GTX3582R turbocharger (0.82 A/R turbine housing) paired with a custom 3.5-inch stainless steel downpipe and HKS Hi-Power 70mm exhaust system",
+    "GReddy Trust T518Z intercooler with a custom 3-inch aluminum piping kit, HKS SSQV4 blow-off valve, and a Walbro 450 LPH fuel pump with an AEM 320LPH high-flow in-tank surge tank setup for consistent fuel delivery under boost",
+    "Haltech Elite 2500 ECU with a custom 1JZ-GTE plug-and-play harness, AEM X-Series wideband O2 sensor, and a Link G4+ CAN Lambda controller for real-time air-fuel ratio monitoring, paired with HKS F-CON V Pro for advanced fuel management and ignition timing optimization"
+  ],
+  "estetica": [
+    "Vertex Lang II full-body aero kit (JZX100-specific) with a 3-piece carbon fiber front bumper, side skirts, and a duckbill rear spoiler, finished in custom Gunmetal Gray (RAL 7043) with matte clear coat",
+    "Work Meister S1 3P 17x9.5 +15 (front) and 17x10.5 +30 (rear) wheels wrapped in Toyo R888R 245/40/17 (front) and 275/35/17 (rear) tires, paired with BC Racing BR coilovers (1JZ-specific valving) and Cusco front and rear strut bars",
+    "Custom interior overhaul featuring Bride Zeta III bucket seats (JZX100-specific mounting brackets), a Nardi Classic 350mm steering wheel with a Works Bell quick-release hub, and a full carbon fiber dashboard overlay with a Defi BF Series gauge cluster (oil pressure, boost, and water temp) in a custom A-pillar pod"
+  ]
+}

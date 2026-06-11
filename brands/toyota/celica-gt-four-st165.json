@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "CELICA GT-FOUR ST165",
+  "prestazioni": [
+    "3S-GTE (Gen 1) engine rebuild with forged internals: JE 87mm forged pistons (9.0:1 CR), Eagle H-beam connecting rods, ACL Race Series bearings, and Tomei Type-A head gasket for 1.3mm overbore. Paired with a Garrett GT2860RS-5 turbocharger (0.86 A/R turbine housing) and custom 3-inch stainless steel downpipe with a Bellmouth Designs 4-1 merge collector.",
+    "Full standalone Haltech Elite 2500 ECU with custom 3S-GTE ST165-specific fuel and ignition maps, including dual Bosch 0280158101 1000cc/min high-impedance injectors, Walbro 450 LPH in-tank fuel pump, and an Aeromotive FPR (30-70psi adjustable). Includes a custom 4-bar MAP sensor and AEM X-Series wideband AFR gauge for real-time monitoring.",
+    "Suspension overhaul with Ohlins Road & Track DFV coilovers (ST165-specific valving), Cusco 22mm front and 19mm rear adjustable sway bars, and polyurethane bushings (SuperPro 85mm front control arm bushings, Whiteline rear trailing arm bushings). Braking upgraded to Endless CC-R6 rotors (280mm front, 260mm rear) with Ferodo DS2500 pads and stainless steel braided lines."
+  ],
+  "estetica": [
+    "Rocket Bunny V1 ST165-specific widebody kit with carbon fiber front fenders, rear quarter panels, and rear diffuser. Includes custom 3M Gloss Black vinyl wrap with red pinstriping and a JDM-spec Toyota Racing Development (TRD) rear wing (ST165-specific mounting points).",
+    "OEM+ interior refresh with Bride Zeta III ST165-specific bucket seats (red Alcantara with black leather bolsters), Nardi Classic 380mm steering wheel (deep-dish, perforated leather), and a custom ST165-specific roll cage (6-point, TIG-welded mild steel, bolt-in design by Custom Cages UK).",
+    "Lighting and detail upgrades: Hella Micro DE fog lights (JDM-spec mounting brackets), Osram Night Breaker Laser H1/H4 bulbs, and a custom ST165-specific front lip (carbon fiber, 3D-scanned for OEM fitment) with integrated LED turn signals. Includes a full respray in Toyota Super White II (code 040) with clear bra on the front bumper and hood."
+  ]
+}

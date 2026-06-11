@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "CHASER JZX81",
+  "prestazioni": [
+    "1JZ-GTE (non-VVTi) engine rebuild with forged internals: Tomei 87mm forged pistons, Eagle H-beam connecting rods, and a billet crankshaft with ACL Race Series bearings for 1.5mm oil clearance, paired with a Tomei Type-M 264° camshaft and adjustable vernier pulleys for precise valve timing",
+    "Garrett GTX3582R turbocharger with a custom 0.82 A/R turbine housing, Precision Turbo 46mm wastegate, and a custom 3.5-inch stainless steel downpipe merging into a GReddy Revolution RS 70mm cat-back exhaust system with 304 stainless steel piping and a straight-through muffler",
+    "Haltech Elite 2500 standalone ECU with a custom 1JZ-GTE base map, integrated with a Link G4+ CAN Lambda module for wideband AFR monitoring, and a custom wiring harness from iWire for seamless sensor integration, including a Kiggly Racing 1000cc top-feed fuel injector kit and a Walbro 450LPH in-tank fuel pump"
+  ],
+  "estetica": [
+    "Vertex Lang II JZX81-specific widebody kit with custom carbon fiber front fenders, rear quarter panels, and a one-piece carbon fiber hood with a functional NACA duct for intercooler cooling, all finished in a custom matte Gunmetal Gray (3M 1080 wrap)",
+    "Work Meister S1 3P 17x9.5 +15 front and 17x10.5 +30 rear wheels, wrapped in Toyo R888R 245/40/17 and 275/35/17 tires, paired with a custom BC Racing BR coilover kit with Swift springs (8kg/mm front, 10kg/mm rear) and Ohlins DFV dampers for adjustable compression/rebound",
+    "Custom rear diffuser by Rocket Bunny (JZX81-specific) with integrated carbon fiber side skirts and a custom front lip splitter by Veilside, all painted in a high-gloss black with red pinstriping, complemented by a custom LED taillight conversion using Osram LED bulbs and smoked lenses"
+  ]
+}

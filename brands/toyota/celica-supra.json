@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "CELICA SUPRA",
+  "prestazioni": [
+    "Engine swap to a 7M-GTE (7M-GTEU for JDM models) with forged internals: Manley forged pistons (87mm, 8.5:1 CR), Eagle H-beam connecting rods, and a Tomei 264°/264° camshaft kit for high-RPM power delivery. Pair with a Garrett GT35R turbo (0.82 A/R turbine housing) and a custom 3.5-inch stainless steel downpipe from HKS for optimized spool and top-end flow.",
+    "Fuel system upgrade: Replace the stock fuel pump with a Walbro 450 LPH in-tank pump, paired with 850cc/min Injector Dynamics ID1000 injectors. Use a Link G4+ Xtreme standalone ECU with a custom 7M-GTE base map, tuned on a Dynapack hub dyno for precise AFR targeting (11.5:1 at peak power, 12.5:1 cruise).",
+    "Drivetrain and suspension: Install a OS Giken 2.2L limited-slip differential with a 4.30:1 final drive ratio for improved acceleration. Replace the stock suspension with Ohlins Road & Track coilovers (part #DFV 2240) and polyurethane bushings from SuperPro (part #SPF0115K) for chassis rigidity. Use a Cusco 2.5-way type RS rear sway bar (22mm) to reduce body roll during high-speed cornering."
+  ],
+  "estetica": [
+    "Widebody conversion using the Veilside Fortune 03 kit (front fenders, rear quarter panels, and rear bumper) with custom carbon fiber overfenders to accommodate 9.5x16-inch BBS LM wheels (ET15) up front and 11x16-inch (ET5) in the rear, wrapped in Toyo R888R tires (225/50/16 and 255/50/16).",
+    "Custom front bumper lip from Rocket Bunny (Pandem) with integrated canards and a carbon fiber hood (Seibon Carbon) featuring a functional 7M-GTE-specific heat extractor. Paint the entire car in Nissan GT-R Nismo Heritage Racing Yellow (code: AY4) with a matte black roof and mirror caps.",
+    "Interior overhaul: Replace the stock seats with Bride Zeta III (fixed-back) in black Alcantara with yellow stitching, paired with a Nardi Classic 380mm steering wheel and a custom roll cage (6-point, bolt-in) from AutoPower Industries. Install a digital dash from AIM MXS Strada with a 7M-GTE-specific CAN bus interface for real-time boost, AFR, and oil pressure monitoring."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "ALTEZZA RS200 Z EDITION",
+  "prestazioni": [
+    "Engine: 3S-GE (BEAMS) 2.0L inline-4 (3rd gen, black-top, 200ps stock) with HKS GT-SS turbo kit (Garrett GT2860RS-5 turbo, 1.0bar boost, HKS 264° camshafts, Tomei 1.5mm oversized valves, and HKS Hi-Power exhaust with 70mm titanium tips) for 320whp on E85 fuel with AEM Infinity 7 ECU managing sequential injection and individual cylinder trims",
+    "Drivetrain: OS Giken Super Lock LSD (2.2-way, 85% lockup) paired with JUN 6-speed close-ratio gearset (1st: 3.250, 2nd: 2.142, 3rd: 1.555, 4th: 1.208, 5th: 0.969, 6th: 0.825) and JUN carbon triple-plate clutch (240mm, 800kg clamping force) for launch control at 5,500rpm",
+    "Suspension: Öhlins Road & Track DFV coilovers (2-way adjustable, 8kg/mm front/10kg/mm rear springs) with Cusco front strut bar (22mm hollow, 7000 series aluminum) and Whiteline adjustable rear sway bar (24mm, 3-position) for sub-3.5s 0-60mph with 1.2g lateral grip on 245/40R17 Yokohama Advan A052 tires (ET35 offset)"
+  ],
+  "estetica": [
+    "Body: Veilside Fortune 03 widebody kit (carbon fiber fenders, 50mm extended flares, custom front bumper with integrated HKS GT winglets) painted in Toyota Super White II (040) with 3M Matte Black (FX) roof and mirrors for 0.32 Cd",
+    "Interior: Bride Zeta III reclinable bucket seats (carbon shell, FIA 8855-1999 certified) with Takata 4-point harnesses, MOMO Mod.78 steering wheel (350mm, suede, 6-bolt quick-release), and Defi BF gauges (oil temp, oil pressure, boost, wideband AFR) mounted in a custom aluminum A-pillar pod",
+    "Aero: Tomita Auto front splitter (carbon, 45mm overhang) with custom canards (3D-printed ABS, 20mm thickness) and a custom 1,800mm wide GT-style rear wing (carbon, 3-position adjustable, 15° attack angle) for 120kg downforce at 160km/h"
+  ]
+}

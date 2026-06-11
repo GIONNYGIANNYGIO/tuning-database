@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "CHASER JZX90",
+  "prestazioni": [
+    "1JZ-GTE VVT-i (Rev3) engine with a fully built internals package: Tomei 87mm forged pistons (9.0:1 compression), Eagle H-beam connecting rods, Tomei Type-M 264° camshafts (intake/exhaust), and a Tomei M82 head gasket for reliable boost levels up to 28 psi on E85 fuel. Paired with a Garrett GTX4202R turbocharger (88mm compressor wheel, .82 A/R turbine housing) and a custom 4-inch stainless steel downpipe with a GReddy Profec B Spec II boost controller for precise wastegate actuation.",
+    "HKS Hi-Power 260-lph fuel pump with an Aeromotive 340 Stealth fuel pressure regulator, feeding ID1000x injectors (side-feed, 1000cc/min) and a custom fuel rail from Radium Engineering. The ECU is a Haltech Elite 2500 with a custom 1JZ-GTE VVT-i base map, including flex-fuel sensor integration, individual cylinder trims, and launch control set to 6,500 RPM with a 2-step rev limiter for consistent drag launches.",
+    "Full drivetrain reinforcement: OS Giken Super Lock LSD (2-way, 40% lock under power, 60% under decel) in a CUSCO Type-RS 2.5-way differential housing, paired with a TRD 80-series transmission with a PPG close-ratio gearset (1st: 2.929, 2nd: 1.955, 3rd: 1.400, 4th: 1.000, 5th: 0.750). The driveshaft is a custom 3.5-inch aluminum unit from Driveshaft Shop, balanced to 10,000 RPM, with a CUSCO carbon fiber prop shaft for reduced rotational mass."
+  ],
+  "estetica": [
+    "Vertex Lang II widebody kit (JZX90-specific, 30mm extended fenders front/rear) with custom carbon fiber overfenders by Seibon, finished in a matte Gunmetal Gray (Toyota 1G3) with a 3M Brushed Aluminum vinyl roof wrap. The front bumper is replaced with a custom 3D-printed ABS unit featuring integrated DRLs (Lux H8 V4 LEDs) and a carbon fiber splitter from Rocket Bunny (JZX90-specific, 50mm overhang).",
+    "Custom rear diffuser by Voltex (JZX90-specific, 3-piece carbon fiber) with integrated exhaust cutouts for a dual 4-inch titanium exhaust system by HKS Hi-Power Ti (4-2-1 merge collectors, 1.6mm wall thickness). The rear wing is a custom 1/4-scale replica of the 1993 JGTC Toyota Supra GT wing, fabricated in dry carbon fiber by APR Performance (30mm adjustable base plates, 1,200mm span).",
+    "OEM+ interior with a full Bride Gias II reclining bucket seat setup (JZX90-specific mounting brackets, FIA-approved 8-point harnesses by Schroth Profi II-6), paired with a NRG Innovations quick-release steering wheel hub and a custom MOMO Mod.78 wheel (350mm diameter, perforated leather with red stitching). The dashboard is replaced with a custom carbon fiber panel by Varis, housing a 12.3-inch digital gauge cluster by AIM MXS Strada (1JZ-GTE VVT-i specific CAN bus integration) and a custom aluminum shift knob by Buddy Club (short-throw, 6-speed pattern)."
+  ]
+}

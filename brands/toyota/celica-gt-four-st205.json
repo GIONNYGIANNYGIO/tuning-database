@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "CELICA GT-FOUR ST205",
+  "prestazioni": [
+    "3S-GTE (4th gen) engine rebuild with forged internals: JE 87mm forged pistons (9.0:1 CR), Eagle H-beam connecting rods, ACL Race Series bearings, and Tomei Type-A head gasket for 1.3mm overbore. Full balanced rotating assembly by JUN Auto.",
+    "Turbo upgrade to Garrett GTX3076R Gen II with 0.82 A/R turbine housing, 60mm billet compressor wheel, and custom 3.5\" V-band downpipe by HKS. Paired with a Tomei M82 cast manifold and GReddy Profec B Spec II boost controller for 1.5 bar (21.7 psi) peak boost.",
+    "Fuel system overhaul: Walbro 450LPH in-tank pump, Injector Dynamics ID1000x injectors, Tomei 7mm fuel rail, and AEM X-Series wideband AFR gauge with Bosch LSU 4.9 sensor. ECU reflash via Haltech Elite 2500 with custom 3D ignition and fuel maps for E85 compatibility (up to 30% blend)."
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (ST205-specific) with carbon fiber overfenders, front bumper lip, and rear diffuser. Painted in Toyota Super White II (040) with matte black accents on fenders and hood vents.",
+    "Ohlins Road & Track DFV coilovers with 8kg/mm front and 9kg/mm rear springs, adjustable camber plates, and spherical bearing top mounts. Paired with Cusco 22mm front and 19mm rear adjustable sway bars (Type-RS spec).",
+    "TRD Group A replica livery: Full WRC-inspired decal kit by Studio 27 (including door numbers, roof vent, and rear wing stripes) in authentic Castrol Racing green/white/red. Rear wing replaced with a carbon fiber TRD replica wing (ST205-specific) with adjustable angle mounts."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "CELICA GT-S ST202",
+  "prestazioni": [
+    "3S-GE (Blacktop, 200hp stock) forced induction via Garrett GT2860RS turbocharger (0.63 A/R, 60mm compressor inducer) with custom 3\" stainless steel turbo manifold by Tomei, paired with a GReddy Type-S front-mount intercooler (500hp core) and HKS SSQV4 blow-off valve",
+    "Full forged internals: JE 87mm forged pistons (8.5:1 compression), Eagle H-beam connecting rods, ACL Race Series main and rod bearings, and a Tomei 264°/260° duration billet camshaft set with adjustable vernier pulleys for precise valve timing",
+    "Custom Haltech Elite 2500 standalone ECU with individual cylinder tuning, dual Bosch 0280158002 wideband O2 sensors, and a custom 3.5\" stainless steel exhaust system by Fujitsubo (Giken homologated) with 200-cell catalytic converter and dual 3.5\" titanium tips by HKS Hi-Power"
+  ],
+  "estetica": [
+    "Rocket Bunny V1 widebody kit (ST202-specific, carbon fiber front bumper, overfenders, and rear diffuser) with custom matte gunmetal paint by C-West, paired with Work Meister S1 3P 17x9.5 +15 (front) and 17x10.5 +25 (rear) wheels wrapped in Toyo R888R 245/40/17 and 275/35/17 tires",
+    "Ohlins DFV Road & Track coilovers (ST202-specific valving) with Swift Springs (8kg/mm front, 10kg/mm rear) and Cusco front strut bar (22mm hollow) + Cusco Type RS 3-point rear strut bar for chassis rigidity",
+    "Custom carbon fiber hood by Seibon (ST202-specific, 50% weight reduction) with integrated NACA ducts for brake cooling, paired with a TRD replica rear wing (carbon fiber, adjustable angle) and custom LED taillights by Jun Auto (JDM-spec, sequential turn signals)"
+  ]
+}

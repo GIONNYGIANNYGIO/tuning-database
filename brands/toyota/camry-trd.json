@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "CAMRY TRD",
+  "prestazioni": [
+    "Engine: 3.5L 2GR-FKS V6 (301 hp stock) – Forced induction via Garrett GTX3582R turbocharger (18 psi max boost) with a custom 3.5-inch stainless steel intercooler piping kit from GReddy, paired with a Tomei 80mm titanium blow-off valve and a custom-fabricated aluminum intake manifold with port-matched throttle body (80mm) from Radium Engineering.",
+    "Drivetrain: Strengthened 8-speed Direct Shift automatic transmission (UA80E) with a PTT Performance Stage 3 valve body upgrade, reinforced torque converter (3,500 stall), and a Cusco 1.5-way limited-slip differential with 40% lockup under power. Full driveshaft and axles replaced with Driveshaft Shop 3.5-inch carbon fiber units with CV joints rated for 600+ lb-ft torque.",
+    "Suspension & Handling: Full Ohlins Road & Track DFV coilovers (custom valved for the XV70 chassis) with 8-position adjustable compression/rebound damping, paired with Whiteline adjustable front and rear sway bars (24mm front, 22mm rear) and poly bushings. Brembo GT 6-piston front calipers (380mm rotors) with Ferodo DS2500 brake pads and stainless steel braided lines from Goodridge."
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny XV70 widebody kit (carbon fiber fenders, front bumper, and rear diffuser) with a custom 3D-printed active rear spoiler (adjustable via electric actuators, controlled by a standalone ECU from AEM). Front splitter reinforced with titanium supports and a 50mm overhang for downforce optimization.",
+    "Wheels & Tires: Work Emotion CR Kiwami 2-piece forged wheels (19x10.5 +25 front, 19x11.5 +35 rear) with custom gold/polished lips, wrapped in Michelin Pilot Sport Cup 2 R tires (275/30/19 front, 305/30/19 rear). Custom center caps with TRD logo laser-engraved in red.",
+    "Exterior & Lighting: Full custom matte Hyper White paint with a 3-stage clear coat from PPG, paired with a Vortex Generator hood (carbon fiber, functional) from Seibon. Retrofitted JDM-spec LED headlights with Osram 6000K bulbs and a custom sequential turn signal mod (using Diode Dynamics controllers). Rear taillights replaced with smoked TRD Heritage Edition units with integrated sequential LED strips."
+  ]
+}

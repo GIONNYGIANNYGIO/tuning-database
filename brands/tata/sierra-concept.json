@@ -1,0 +1,14 @@
+{
+  "brand": "TATA",
+  "model": "SIERRA CONCEPT",
+  "prestazioni": [
+    "Engine swap to a **Kryotech 1.2L Turbocharged Revotron 2.0 (Revotron 200 TGDi)** with forged internals (Mahle pistons, Eagle H-beam rods, ACL race bearings) and a **Garrett GTX3076R Gen II turbo** (1.06 A/R, 62mm compressor, 76mm turbine) running 28psi on E85, paired with a **Haltech Elite 2500 ECU** for closed-loop boost control and anti-lag tuning",
+    "Full **Tata Motors Motorsport Division (TMMD) Group S-spec drivetrain upgrade**: Quaife ATB LSD (80% lock), OS Giken Super Lock differential (front), reinforced CV joints with **Neugart PLE planetary gear reducers**, and a **Tilton 7.25\" twin-disc carbon clutch** with billet flywheel (12.5kg)",
+    "Custom **KW Suspensions Clubsport 3-way coilovers** with **Eibach ERS springs** (800lb/in front, 600lb/in rear), **SuperPro poly bushings** (full chassis refresh), and **AP Racing 6-piston CP8300 calipers** with **DBA 5000 Series rotors** (380mm front, 355mm rear) running **Motul RBF 660** brake fluid"
+  ],
+  "estetica": [
+    "**Rocket Bunny V3 widebody kit** (custom-fabricated for Sierra Concept chassis) with **Seibon carbon fiber fenders**, **custom 3D-printed ABS front splitter** (wind-tunnel tested for 120kg downforce at 160km/h), and **Vorsteiner V-FF 107 20\" forged wheels** (9.5J ET20 front, 11J ET15 rear) wrapped in **Michelin Pilot Sport Cup 2 R** (265/35/20 front, 295/30/20 rear)",
+    "**Full custom roll cage** (T45 steel, 2.5\" OD, 3mm wall thickness) with **Sparco Pro 2000 seats** (FIA 8862-2009 certified) and **Schroth 6-point harnesses**, integrated with a **Momo Prototipo steering wheel** (quick-release hub) and **Motec C187 dash display** (replacing OEM cluster)",
+    "**Custom titanium exhaust system** by **Akrapovič** (4-2-1 header design, 76mm diameter, titanium muffler with carbon tips) and **AEM X-Series wideband O2 sensor** for real-time AFR monitoring, paired with a **custom carbon fiber engine cover** (vented for turbo cooling) and **PWR radiator** (dual-core, 45mm thickness) with **SPAL 16\" puller fans**"
+  ]
+}

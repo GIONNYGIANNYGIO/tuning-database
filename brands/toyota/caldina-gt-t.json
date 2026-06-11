@@ -1,0 +1,20 @@
+{
+  "brand": "TOYOTA",
+  "model": "CALDINA GT-T",
+  "prestazioni": [
+    "3S-GTE (4th gen) engine build with forged internals: JE 87mm forged pistons (9.0:1 CR), Eagle H-beam connecting rods, ACL Race Series bearings, and Tomei Type-S head studs for 1.3+ bar boost capability",
+    "Garrett GTX3582R turbocharger (0.82 A/R turbine housing) with TiAL MV-R 44mm wastegate and custom 3.5\" stainless downpipe (304-grade) paired with a GReddy Profec B Spec II boost controller for 400+ whp on E85",
+    "HKS Hi-Power 264°/264° camshafts with adjustable HKS VVT pulleys, Tomei Type-S valve springs, and Supertech titanium retainers, mated to a Tomei 70mm titanium intake manifold and HKS 70mm throttle body",
+    "Custom 3-core GReddy intercooler (500x220x76mm) with Mishimoto silicone couplers and HKS SSQV4 blow-off valve, fed by a K&N 9\"x12\"x2\" cone filter in a sealed cold-air box",
+    "Walbro 450LPH in-tank fuel pump with Radium Engineering dual fuel pressure regulators, ID1000x injectors, and a Link G4+ Xtreme standalone ECU with flex-fuel sensor for E85 tuning",
+    "OS Giken Super Lock LSD (2-way) with 4.444 final drive ratio, Cusco 2-way adjustable rear sway bar, and BC Racing BR coilovers (8kg front/10kg rear springs) with Swift Springs helper springs for weight transfer control"
+  ],
+  "estetica": [
+    "Vertex Lang II widebody kit (Caldina-specific, 30mm front/40mm rear fender flares) with custom carbon fiber overfenders and rear diffuser by Seibon Carbon",
+    "JUN Auto GT-Aero front bumper with integrated D2 Racing 80mm tow hooks and custom LED bar (Osram 6000K), paired with a Veilside Fortune rear bumper and custom 3D-printed carbon fiber side skirts",
+    "Work Emotion CR Kiwami wheels (18x9.5 +22 front, 18x10.5 +30 rear) with Toyo R888R tires (245/40/18 front, 275/35/18 rear) and Project Kics R40 lug nuts (M12x1.5, 45mm shank)",
+    "Custom rear wing: Voltex Type-5 (1500mm width) with carbon fiber endplates and adjustable Gurney flap, mounted on custom aluminum pedestals with integrated third brake light",
+    "Full interior overhaul with Bride Zeta III bucket seats (Caldina-specific mounting brackets), Takata Drift II 4-point harnesses, and a custom roll cage (1.75\" x .120\" DOM tubing) by AutoPower Industries with bolt-in door bars",
+    "Custom paint: Nissan GT-R Nismo Heritage Green (3-stage pearl) with matte black roof and mirror caps, wrapped in Xpel Stealth PPF with custom pinstriping by HRE Designs"
+  ]
+}

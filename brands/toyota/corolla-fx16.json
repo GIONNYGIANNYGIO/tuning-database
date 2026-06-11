@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "COROLLA FX16",
+  "prestazioni": [
+    "4A-GE (20V 'Silver Top' or 16V 'Bigport') engine swap with HKS 264°/256° camshafts (part #151-E01) and Tomei 1.5mm oversized titanium retainers (part #113005) for high-RPM stability, paired with a custom 3-inch stainless steel exhaust featuring a Fujitsubo Giken Type-S muffler (part #100-0103) for optimized scavenging on the 4-2-1 header",
+    "Garrett GT2860RS turbocharger (part #743307-5001S) with a custom top-mount manifold (fabricated by Trust/GReddy) and a Tomei M82 blow-off valve (part #147001), running 18 psi on a Haltech Elite 2500 ECU with custom fuel maps for E85 compatibility, supported by a Walbro 450 LPH fuel pump (part #GSS342) and ID1000x injectors (part #4150)",
+    "Full chassis reinforcement with Cusco front strut tower bar (part #631 540 A) and rear subframe brace (part #631 541 A), paired with Ohlins Road & Track coilovers (part #DFV003) with 8kg/mm front and 6kg/mm rear springs, adjustable damping, and spherical bearing top mounts (part #OHL-VMTS01)"
+  ],
+  "estetica": [
+    "Rocket Bunny V1 widebody kit (part #RB-COROLLA-FX16) with custom carbon fiber front splitter and rear diffuser, finished in BASF RM+ Matte Graphite (code #0479)",
+    "Work Meister S1 3P 15x8 +15 wheels (part #MS13P81515F) with 195/50R15 Toyo R888R tires, wrapped in custom red/white Work wheel decals (part #WD-001), paired with DBA 4000 Series slotted rotors (part #5427XS) and Project Mu HC+ brake pads (part #MU302-HCP)",
+    "Custom interior roll cage by AutoPower (part #AP-70208) with red suede-wrapped Sparco Pro 2000 seats (part #01968NRR), Momo Mod.78 steering wheel (part #1107801), and a custom digital dash using an AIM MXS Strada (part #1.20.01) with GPS lap timer and oil pressure/temp sensors"
+  ]
+}

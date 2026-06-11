@@ -1,0 +1,14 @@
+{
+  "brand": "TESLA",
+  "model": "ROADSTER 2008 (MOTORE BENZINA OPTIONAL KIT)",
+  "prestazioni": [
+    "Installation of the Lotus Elise-derived 2ZZ-GE engine (engine code: 2ZZ-GE) with a forced-induction kit from HKS, featuring a Garrett GT3076R turbocharger (0.82 A/R turbine housing) and HKS GT-SS intercooler. The setup includes a custom 4-1 stainless steel exhaust manifold by Tomei and a HKS Hi-Power exhaust system with 76mm piping, tuned for 350+ HP at 8,500 RPM with a 10.5:1 compression ratio (using forged internals from JE Pistons and Eagle H-beam connecting rods).",
+    "Full standalone ECU conversion using a Haltech Elite 2500 with custom wiring harness by Painless Performance, paired with a Motec PDM15 for power distribution. The fuel system is upgraded with ID1000 injectors, a Walbro 450 LPH in-tank pump, and a Radium Engineering fuel surge tank to handle the increased demand under boost.",
+    "Suspension overhaul with Öhlins Road & Track DFV coilovers (custom valved for the Roadster chassis), polyurethane bushings from SuperPro (part #SPF0115K), and a Whiteline front sway bar (24mm adjustable). The braking system is upgraded with AP Racing CP8660 calipers (6-piston front, 4-piston rear) clamping 355mm two-piece rotors from DBA, paired with Ferodo DS2500 pads and braided stainless steel lines from Goodridge."
+  ],
+  "estetica": [
+    "Full Rocket Bunny widebody kit (Pandem Type-RB) with custom carbon fiber overfenders, front splitter, and rear diffuser, all finished in a matte vinyl wrap (3M 1080 Gloss Black). The kit includes a custom aluminum hood with dual NACA ducts for the HKS intercooler setup, fabricated by Seibon Carbon.",
+    "OEM+ interior refresh with Recaro Pole Position seats (cloth/Alcantara, part #28029) wrapped in custom upholstery by Katzkin, featuring Tesla-specific embroidery. The roll cage is a bolt-in half-cage from Custom Cages (T45 steel, powder-coated satin black) with integrated harness bar for Schroth Profi II 6-point harnesses.",
+    "Lightweight 18x9.5 ET20 front and 18x11 ET30 rear wheels from Volk Racing (TE37SL in Hyper Silver) wrapped in Michelin Pilot Sport Cup 2 tires (245/35/18 front, 305/30/18 rear). The wheels are paired with titanium wheel studs from Bimecc and lightweight lug nuts from Muteki. Exterior lighting is upgraded to LUX H8 V4 LED headlights and sequential LED taillights from VLEDS."
+  ]
+}

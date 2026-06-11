@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "CAMRY TRD V6",
+  "prestazioni": [
+    "Engine: Replace the stock 3.5L 2GR-FKS V6 (301 hp, 267 lb-ft) with a forged internals build featuring Manley Performance forged pistons (9.0:1 compression), Eagle Specialty Products forged H-beam connecting rods, and a Brian Crower Stage 2 camshaft kit (272° intake/276° exhaust duration, 0.450\" lift) for high-RPM power retention up to 7,500 RPM. Pair with a custom ECU tune via Haltech Elite 2500 standalone ECU with flex-fuel capability and individual cylinder fuel trims for optimized AFR targeting 11.8:1 under boost.",
+    "Forced Induction: Install a Garrett GTX3582R Gen II turbocharger (0.82 A/R turbine housing, 62mm compressor wheel) with a custom 3.5\" stainless steel downpipe and Tomei 3.5\" titanium exhaust system. Utilize a GReddy Type-S intercooler (11-row core, 22\" x 6\" x 3.5\") and a Radium Engineering dual-catch can setup with -10AN lines to manage blow-by under 18 psi of boost, targeting 450 whp on E85.",
+    "Drivetrain: Swap the stock 8-speed automatic for a Tremec TR-6060 6-speed manual transmission with a Tilton Engineering twin-disc carbon clutch (240mm, 1,200 lb-ft capacity). Reinforce the differential with a Cusco 2-way LSD (2.5 ratio) and upgrade axles to Driveshaft Shop Stage 3 units (3.5\" chromoly, 1,000 hp rated). Install a Fidanza lightweight flywheel (12.5 lb) for quicker rev matching."
+  ],
+  "estetica": [
+    "Aero: Fit a Rocket Bunny V3 widebody kit (Camry-specific, 3-piece overfenders, 3\" wider front/4\" wider rear) with a custom carbon fiber front splitter (3D-scanned for TRD bumper compatibility) and a Veilside Fortune rear wing (carbon fiber, 65\" span, adjustable angle). Add a custom 3M Matte Graphite vinyl wrap with gloss black accents on the roof and mirror caps.",
+    "Suspension: Install an Ohlins Road & Track DFV coilover kit (2-way adjustable, 8kg/mm front/10kg/mm rear springs) with custom valving for the Camry’s MacPherson strut/rear multilink setup. Pair with Cusco front and rear sway bars (24mm front, 22mm rear) and Whiteline adjustable end links. Lower the ride height 1.5\" front/1.2\" rear for optimal aero balance.",
+    "Wheels/Brakes: Mount Volk Racing TE37V wheels (19x9.5 +22 front, 19x11 +30 rear) with Michelin Pilot Sport Cup 2 tires (255/35/19 front, 295/30/19 rear). Upgrade brakes with Brembo GT 6-piston front calipers (380mm rotors) and 4-piston rear calipers (355mm rotors), paired with Ferodo DS2500 pads and Motul RBF660 brake fluid."
+  ]
+}

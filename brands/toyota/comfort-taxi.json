@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "COMFORT TAXI",
+  "prestazioni": [
+    "Engine swap to a 1G-FE (4-cylinder, 2.0L) with a custom forced-induction setup using a Garrett GT2860RS turbocharger, paired with a Tomei 260° camshaft kit and HKS Hi-Power exhaust manifold for optimized turbo spool and mid-range torque delivery, targeting 220 hp at 6,500 RPM with a 7,500 RPM redline",
+    "Full bolt-on reinforcement with a TRD Japan 5-speed manual transmission swap (from the JZX100 Chaser), reinforced with a Cusco OS Type twin-plate clutch and a Nismo 4.300 final drive ratio for aggressive acceleration, supported by a TRD limited-slip differential",
+    "Suspension overhaul using Ohlins Road & Track coilovers (custom valved for the Comfort’s S130 chassis), paired with Whiteline adjustable sway bars (24mm front, 22mm rear) and Energy Suspension polyurethane bushings to eliminate body roll during high-speed cornering on Singapore’s tight taxi routes"
+  ],
+  "estetica": [
+    "Full Rocket Bunny V3 widebody kit (modified to fit the Comfort’s unique rear fender flares), with custom carbon fiber overfenders to accommodate the 18x9.5 +22 front and 18x10.5 +30 rear Work Emotion CR Kiwami wheels wrapped in 225/40R18 and 255/35R18 Toyo R888R tires",
+    "Custom livery inspired by the 1990s JGTC Toyota Team TOM’S Supra, featuring a matte black base with neon green and white accents, hand-painted by a local Singaporean artist using 3M 1080 wrap film for durability, including a functional hood scoop for the turbocharged 1G-FE",
+    "Interior stripped and rebuilt with Bride Zeta III bucket seats (reclined for rear passenger comfort), a Nardi Classic 350mm steering wheel, and a full digital dash conversion using an Aim MXS Strada 7-inch display with CAN bus integration for real-time boost, AFR, and oil pressure monitoring"
+  ]
+}

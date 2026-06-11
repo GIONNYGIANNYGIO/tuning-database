@@ -1,0 +1,14 @@
+{
+  "brand": "TESLA",
+  "model": "ROADSTER 202X",
+  "prestazioni": [
+    "Upgrade to Tesla's proprietary 'Plaid+ Tri-Motor' powertrain (engine code: **T3P-202X**), replacing the stock dual-motor setup with a third high-efficiency carbon-sleeved rotor for an additional 200 kW (268 hp) peak output, pushing total system power to **1,020 kW (1,369 hp)** and torque to **1,400 Nm (1,033 lb-ft)**. Requires a custom **Unitek Control Systems** inverter firmware (v4.2.1) to manage phase current limits and prevent stator saturation at sustained 20,000 RPM.",
+    "Installation of a **Magna PT** 800V silicon carbide (SiC) MOSFET-based traction inverter with liquid-cooled heat sinks, enabling 98% efficiency at 1,200A peak current draw. Paired with a **Webasto** 120 kW battery thermal management system using **3M Novec 7100** dielectric fluid for sub-ambient cooling (-10°C) during track use, reducing internal resistance by 18%.",
+    "Forged **Brembo GT-RS 10-piston monobloc calipers** (front) and **6-piston calipers** (rear) with **AP Racing** 420mm carbon-ceramic rotors (CCM-R) and **Ferodo DS3.1** high-temperature pads. Brake-by-wire system recalibrated via **Comma.ai OpenPilot** integration to modulate regenerative braking at 1.2g deceleration, reducing rotor wear by 30% during spirited driving."
+  ],
+  "estetica": [
+    "**Rocket Bunny V3-R** widebody kit with **carbon-fiber reinforced polymer (CFRP)** fenders, side skirts, and rear diffuser, reducing drag coefficient to **Cd 0.21** while increasing downforce by 120 kg at 200 km/h. Kit includes **Vortex Generators** on the rear spoiler for laminar flow separation control, validated in **A2 Wind Tunnel (Germany)** at 180 km/h.",
+    "**VMR V710** forged magnesium wheels (20x9.5 front, 21x12.5 rear) with **Pirelli P Zero Trofeo R** semi-slick tires (265/30 R20 front, 325/25 R21 rear). Wheels feature **Dymag** carbon-fiber barrels and **HRE** center-lock adapters, reducing unsprung mass by 22 kg per corner. Finished in **PPG 'Liquid Black'** with **3M Scotchlite 980CR** reflective flakes for thermal management.",
+    "**Lumileds Luxeon Z ES** RGB LED headlight retrofit with **Osram** 6,000K laser high-beams and **Hella** adaptive cornering modules. Front grille replaced with a **carbon-fiber mesh** (0.8mm pitch) housing a **FLIR Tau 2** thermal camera for night vision, integrated into the **Tesla Vision** neural network for pedestrian/obstacle detection at 150+ meters."
+  ]
+}
