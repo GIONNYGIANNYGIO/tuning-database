@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "FJ40 BJ40 DIESEL",
+  "prestazioni": [
+    "Engine swap to a Toyota 1HD-FTE 4.2L turbocharged inline-6 diesel (engine code: 1HD-FTE) with forged internals including Mahle Motorsport pistons (9.0:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from JE Pistons. Pair with a custom turbo setup using a Garrett GT3582R turbocharger (76mm compressor, 62mm turbine) on a custom stainless steel manifold by Diesel Performance Conversions (DPC), flowing into a 3.5-inch stainless steel exhaust with a custom 4-inch downpipe and Borla Pro XS muffler for backpressure optimization.",
+    "Fuel system upgrade with a Bosch CP3 high-pressure fuel pump (1600 bar) paired with 10-hole 320cc injectors from Denso, controlled by a stand-alone ECU from Haltech Elite 2500 with custom mapping for the 1HD-FTE. Add a custom intercooler setup using a Bell Intercoolers 4-core front-mount intercooler (FMIC) with 3-inch silicone couplings and a Davies Craig EWP150 electric water pump for auxiliary cooling.",
+    "Suspension overhaul with a custom 4-link rear setup using Currie Enterprises Johnny Joint rod ends and Fox Racing 2.5 Factory Series remote-reservoir shocks (14-inch travel) paired with a front suspension lift kit from Old Man Emu (OME) with heavy-duty coils (881) and Bilstein 5100 monotube shocks. Reinforce the chassis with a custom roll cage from Safety Devices (UK) with integrated subframe connectors and a front skid plate from ARB."
+  ],
+  "estetica": [
+    "Body-wide fender flares from Ralliart (Japan) in fiberglass, paired with a custom front bumper from TJM (Australia) featuring integrated Hella 500 driving lights and a Warn Zeon 10-S winch. Replace the hood with a custom aluminum hood from 4Wheel Parts with a functional heat extractor and a custom mesh grille from Proline Offroad.",
+    "Wheel setup with Method MR701 beadlock wheels (17x9, -12mm offset) wrapped in BFGoodrich KM3 tires (37x12.50R17) on all four corners. Add a custom roof rack from Front Runner Outfitters with a 50-inch light bar from Rigid Industries (E-Series Pro) and a custom rear swing-out tire carrier from ORV Solutions.",
+    "Interior overhaul with Recaro SRD bucket seats (90s JDM-spec) mounted on custom brackets from PRP Seats, paired with a custom dashboard overlay from Dashmat (black suede) and a full digital gauge cluster from AEM (CD-7 dash). Add a custom roll cage padding from Bicknell Racing Products and a custom steering wheel from NRG Innovations (350mm, suede) with a quick-release hub."
+  ]
+}

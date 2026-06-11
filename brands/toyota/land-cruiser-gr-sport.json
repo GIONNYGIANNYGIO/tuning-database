@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "LAND CRUISER GR SPORT",
+  "prestazioni": [
+    "Engine: Replace the stock 1GD-FTV 2.8L turbo-diesel (201 HP, 369 lb-ft) with a **Garrett GTX4202R turbocharger** (hybrid billet wheel, 64mm compressor, 76mm turbine) paired with a **Denso GDI fuel pump upgrade** (350 LPH) and **Injector Dynamics ID1700x injectors** for E85 compatibility. Retune via **Kess V3 ECU flash** with a custom **Dimsport Race 2000** map optimizing boost to 2.2 bar (32 psi) and timing for 320 HP / 550 lb-ft on E85.",
+    "Suspension: Install **Öhlins TTX46 coilovers** (24-way adjustable damping, 50mm piston, 250mm stroke) with **Toyota GR Sport-specific camber plates** (adjustable to -3.5° front, -2.8° rear) and **SuperPro poly bushings** (part #SPF0116K) for subframe reinforcement. Pair with **Bilstein B16 remote-reservoir shocks** for off-road articulation retention.",
+    "Drivetrain: Swap the stock A750F 5-speed automatic for a **Toyota Racing Development (TRD) 6-speed AWR6B45 manual transmission** (from the Hilux GR Sport) with a **PPG close-ratio gearset** (2.95:1 1st, 0.75:1 6th) and **South Bend Clutch Stage 3 daily** (ceramic-metallic, 6 puck, 3600 lb-ft torque capacity). Add a **Quaife ATB helical LSD** (80% lockup) to the rear and **Eaton M90 supercharger** (intercooled, 8 psi) for instant low-end torque."
+  ],
+  "estetica": [
+    "Aero: Install the **Liberty Walk LB-WORKS Land Cruiser GR Sport widebody kit** (carbon fiber fenders, 50mm extended wheel arches, front canards) with a **Seibon carbon fiber hood** (vented, 30% weight reduction) and **Rocket Bunny rear diffuser** (3-piece, adjustable angle). Add **Vorsteiner V-FF107 forged wheels** (20x10.5 ET15 front, 20x12 ET20 rear) in matte bronze with **Michelin Pilot Sport Cup 2 R tires** (285/35/20 front, 325/30/20 rear).",
+    "Lighting: Replace all lighting with **Morimoto XB LED headlights** (DRL projector, 5500K, adaptive beam) and **Lux H8 V4 fog lights** (3000K amber, 1800 lumens). Add **Oracle Lighting RGB halo rings** (12-mode controller, 16.8M colors) and **Baja Designs Squadron Pro auxiliary lights** (50W, 5000K, 40° spot pattern) mounted to a **Prinsu roof rack** (aluminum, 300lb load capacity).",
+    "Interior: Retrim seats with **Recaro Pole Position SP-G** (alcantara, carbon fiber shell) and add **Sparco 6-point harnesses** (FIA 8853/98). Install a **Momo Mod.78 steering wheel** (suede, 350mm, quick-release) with a **NRG Innovations short hub adapter**. Add a **AEM CD-7 dash display** (10.1\", 1000+ data channels) and **Alcantara headliner** (custom stitched with GR Sport logo). Replace door cards with **Voodoo Ride carbon fiber panels** (matte finish, integrated LED ambient lighting)."
+  ]
+}

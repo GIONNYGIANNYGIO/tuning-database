@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "IPSUM 240I",
+  "prestazioni": [
+    "Engine swap to 3S-GTE Gen 4 (from Toyota Caldina GT-Four) with forged internals: Wiseco 87mm forged pistons (9.0:1 CR), Eagle H-beam connecting rods, ACL Race Series bearings, and a Tomei 264°/264° camshaft set for high-RPM power. Paired with a Garrett GTX3582R turbo (0.82 A/R turbine housing) and a custom 45mm external wastegate setup by Turbosmart (Comp-Gate 45mm) for precise boost control at 28 psi.",
+    "Custom 3-inch stainless steel turbo-back exhaust system by HKS Hi-Power Spec-L, featuring a 100-cell GReddy Revolution RS II cat-back muffler and a custom 3.5-inch downpipe with a divorced wastegate flange for optimal flow. The exhaust manifold is a custom equal-length 4-2-1 header by Tomei, ceramic-coated for heat management, with 44mm primaries and a 76mm collector.",
+    "Standalone ECU management via Haltech Elite 2500, paired with a Link G4+ Monsoon for dual-ECU redundancy. Fuel system upgrades include a Walbro 450 LPH in-tank pump, Injector Dynamics ID1050x injectors, and a custom fuel rail by Radium Engineering. Ignition system features NGK R7437-9 iridium spark plugs gapped at 0.028\" and a Splitfire coil-on-plug conversion with MSD 8.5mm ignition wires."
+  ],
+  "estetica": [
+    "Full Rocket Bunny Version 3 widebody kit (Ipsum-specific, not the generic Avante kit) with custom carbon fiber overfenders, front bumper canards, and a duckbill rear spoiler. The kit is reinforced with a custom subframe brace by Cusco and extended wheel arches to accommodate 9.5x18\" Work Emotion CR Kiwami wheels (ET30) with 245/40R18 Toyo R888R tires.",
+    "Custom front lip and rear diffuser by Veilside, fabricated from 3mm aluminum and painted in Nissan GT-R Bayside Blue (code: B42) with a matte clear coat. The hood is replaced with a Seibon carbon fiber Type-2 hood (Ipsum-specific) featuring a 2-inch cowl scoop for intercooler ducting, and the side skirts are replaced with custom 3D-printed ABS units from a local JDM specialist (Tokyo Auto Style).",
+    "Interior stripped and rebuilt with Bride Zeta III bucket seats (fixed-back, FIA-approved) mounted on custom aluminum seat rails by Buddy Club. The rear seats are removed and replaced with a custom aluminum storage box for a Motec C125 dash display and a hydraulic handbrake conversion by Wilwood. The steering wheel is a Nardi Classic 350mm suede wheel with a Works Bell quick-release hub, and the shift knob is a custom titanium piece by Jun Auto."
+  ]
+}

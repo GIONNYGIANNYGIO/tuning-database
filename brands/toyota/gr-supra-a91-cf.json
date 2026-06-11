@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "GR SUPRA A91-CF",
+  "prestazioni": [
+    "B58B30C (3.0L inline-6) forced induction upgrade via Garrett GTX4202R turbocharger with billet compressor wheel, 64mm inducer, and 76mm exducer, paired with a custom 4-inch V-band downpipe and TiAL MV-R 44mm external wastegate for 18 psi peak boost targeting 650whp on E85 fuel",
+    "Full Motec M150 ECU standalone management with custom CAN bus integration for Toyota-specific torque modeling, dual Bosch 0280158888 2000cc/min high-impedance injectors, and a Radium Engineering dual-catch can system with -10AN lines to prevent oil vapor ingestion under sustained 7,000 RPM pulls",
+    "Ohlins Road & Track DFV coilovers with 20-way adjustable compression/rebound damping, custom valving for the A91-CF’s carbon fiber roof and aluminum-intensive chassis, paired with SuperPro 800-series polyurethane bushings (part #SPF0116K) for subframe and differential mounts to eliminate NVH while maintaining BMW-derived suspension geometry"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (A90-specific CFRP overfenders, front bumper with integrated carbon dive planes, and rear diffuser with 3D-printed titanium mesh inserts for brake cooling), finished in BASF RM+ matte 'Frozen Silver' with custom PPF clear bra on high-impact zones",
+    "APR Performance GTC-300 carbon fiber rear wing with 3D-printed titanium endplates and adjustable angle of attack (up to 18 degrees) for 220 lbs of downforce at 120 mph, paired with a custom Vorsteiner carbon fiber front splitter with integrated air curtains and NACA ducts for intercooler airflow",
+    "Recaro SPG XL carbon fiber bucket seats (A91-CF-specific mounting brackets) upholstered in Alcantara 'Nappa Blue' with red contrast stitching, paired with a custom roll cage (MCS Motorsport 4-point bolt-in) in 4130 chromoly with integrated harness bar for Schroth Profi II 6-point harnesses"
+  ]
+}

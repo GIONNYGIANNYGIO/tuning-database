@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "CENTURY GRMN TRACK SPEC",
+  "prestazioni": [
+    "Engine: 1UZ-FE V8 (4.0L, naturally aspirated, GRMN-specific forged internals) upgraded with a TOM'S 3UZ-FE stroker kit (4.3L displacement), billet crankshaft, and Carrillo H-beam connecting rods for 500+ hp reliability at 8,000 RPM redline",
+    "Forced Induction: HKS GT-SS turbo system (single Garrett GTX5533R Gen II turbocharger, 100mm HKS wastegate, and custom 4-inch titanium downpipe) with a TOM'S 1UZ-FE-specific intercooler core (front-mount, 1200cfm airflow) and HKS SSQV4 blow-off valve",
+    "Suspension: Öhlins TTX46 MkII coilovers (GRMN-specific valving, 3-way adjustable damping, 50mm stroke) paired with TOM'S front/rear sway bars (24mm front, 22mm rear) and custom spherical bearing subframe collars (GRMN-exclusive, replaces OEM rubber bushings)"
+  ],
+  "estetica": [
+    "Aero: GRMN-exclusive 'Track Spec' widebody kit (carbon fiber, 50mm extended fenders, integrated canards) with a Veilside Fortune 03 rear diffuser and custom 3D-printed Gurney flaps on the OEM GRMN rear spoiler",
+    "Wheels: RAYS Gram Lights 57Xtreme (18x11 +20 front, 18x12 +30 rear) with custom GRMN-spec center caps, wrapped in Michelin Pilot Sport Cup 2 R tires (285/30/18 front, 315/30/18 rear)",
+    "Interior: GRMN-exclusive Recaro SP-G TS seats (carbon-Kevlar shell, 6-point Schroth harnesses) with a TOM'S GRMN-spec roll cage (chromoly steel, 8-point, bolt-in) and a custom Motec C127 dash display (replaces OEM cluster, integrates with HKS F-CON V Pro ECU)"
+  ]
+}

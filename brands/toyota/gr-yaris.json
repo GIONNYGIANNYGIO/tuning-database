@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "GR YARIS",
+  "prestazioni": [
+    "G16E-GTS 1.6L turbocharged inline-3 engine: Full forged internals kit from Tomei (pistons, conrods, crankshaft) with 9.5:1 compression ratio, paired with a Garrett GTX3071R Gen II turbocharger (0.82 A/R turbine housing) and custom 3.5-inch titanium downpipe by HKS for reduced backpressure",
+    "Ohlins TTX40 2-way adjustable coilovers with GR-specific valving, reinforced top mounts by Cusco, and poly bushings from Whiteline (front: 24mm adjustable sway bar, rear: 22mm adjustable sway bar) for WRC-level chassis rigidity",
+    "Haltech Elite 2500 standalone ECU with custom calibration for E85 flex-fuel, paired with a Link G4+ CAN Lambda controller and AEM X-Series wideband sensors, enabling 350+ hp at 7,500 RPM with 32 psi boost on E85"
+  ],
+  "estetica": [
+    "Rocket Bunny GR Yaris-specific widebody kit (Pandem V2) with carbon fiber overfenders, front splitter, and rear diffuser, paired with a custom 3D-printed rear wing mount for a 1,500mm carbon fiber wing by Voltex (Type 3)",
+    "Recaro SP-G (JDM-spec) front seats with GR-specific harness bar by Buddy Club, wrapped in custom Alcantara and red stitching by Status Racing, paired with a MOMO Mod.78 steering wheel (350mm, suede) and NRG quick-release hub",
+    "Full carbon fiber interior trim kit by Seibon (dashboard, door cards, center console) with custom GR Yaris logo engraving, paired with a digital dash display by AIM MXS Strada (1.3-inch) and a custom titanium shift knob by Cusco (GR-specific)"
+  ]
+}

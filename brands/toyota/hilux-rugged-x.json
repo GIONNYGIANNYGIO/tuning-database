@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "HILUX RUGGED X",
+  "prestazioni": [
+    "Engine swap to a 1GD-FTV 2.8L turbo-diesel with a BorgWarner EFR 8374 turbocharger (1.05 A/R, 62mm inducer) paired with a custom 3.5-inch stainless steel exhaust system featuring a MagnaFlow 17100 muffler for optimized backpressure and sound tuning. Fuel system upgrade includes Denso G4S 3200cc injectors and a Walbro 450 LPH in-tank fuel pump with a Radium Engineering fuel pressure regulator (FPR) to support 500+ hp targets.",
+    "Suspension overhaul with Ohlins TTX46 coilovers (24-way adjustable damping, 80mm stroke) and custom-valved front/rear remote reservoirs, paired with Whiteline front sway bar (24mm adjustable) and SuperPro polyurethane bushings (part #SPF0116K) for chassis rigidity. Rear leaf springs replaced with Old Man Emu BP-51 long-travel kit (3-inch lift) with progressive-rate springs for load capacity retention.",
+    "ECU remapping via EcuTek RaceROM Pro with custom calibration for the 1GD-FTV, targeting 320 lb-ft of torque at 2000 RPM and 280 hp at 3600 RPM. Includes a custom intercooler upgrade (Garrett 600x300x76mm core) with Mishimoto silicone hoses and a Davies Craig EWP150 electric water pump for consistent IAT control. Transmission tuning includes a Punch Powerglide Stage 3 valve body for the A750F 6-speed auto, with a Derale 13104 transmission cooler and Red Line MT-90 fluid for thermal stability."
+  ],
+  "estetica": [
+    "Rocket Bunny V3 Hilux-specific widebody kit (fiberglass fenders, carbon fiber front splitter, and rear diffuser) with custom 3M Matte Military Green wrap (color code: 49059) and vinyl overlays for the Rugged X decals. Front bumper replaced with a custom ARB Summit bumper (winch-ready, 12,000 lb capacity) with integrated Baja Designs Squadron Pro LED light pods (50,000 candela).",
+    "Rear bed conversion to a custom aluminum flatbed with a Rhino-Rack Pioneer Platform (2130mm x 1325mm) and integrated RotopaX 20L fuel/water containers. Side steps replaced with custom fabricated steel rock sliders (3/16-inch plate, powder-coated in Line-X XS-100) with integrated Hi-Lift Jack points and recovery shackles (Factor 55 ProLink).",
+    "Wheel setup includes Method MR701 beadlock wheels (17x9, +12mm offset) with BFGoodrich KM3 tires (285/70R17) on the front and 33x12.5R17 on the rear. Fender flares trimmed and reinforced with aluminum rivets, with custom LED turn signals (Diode Dynamics SS360) integrated into the side mirrors. Roof rack replaced with a Front Runner Slimline II (low-profile, 300 kg capacity) with a Maxtrax MKII recovery board mount."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "IPSUM",
+  "prestazioni": [
+    "Engine swap to a 3S-GTE Gen 4 (from Toyota Caldina GT-Four) with forged internals (JE 87mm pistons, Eagle H-beam rods, ACL race bearings) and a Garrett GT3076R turbo (0.82 A/R, 60mm compressor inducer) on a custom tubular manifold (Tommy Kaira design). Supporting mods include a GReddy Type-S intercooler (front-mount, 600x300x76mm core), HKS SSQV blow-off valve, and a custom 3-inch turbo-back exhaust with a Fujitsubo Giken AX5000 muffler for JDM compliance.",
+    "Full standalone ECU conversion to a Haltech Elite 2500 with individual cylinder tuning, flex-fuel capability (E85), and launch control. Paired with a Toyota 3S-GTE-specific wiring harness from Wireworks Japan and a custom fuel system featuring a Walbro 450LPH in-tank pump, ID1000 injectors, and a Tomei high-flow fuel rail. Ignition system upgraded to HKS Twin Power DLI coils and NGK Iridium IX spark plugs (heat range 8).",
+    "Chassis reinforcement via a Cusco 4-point bolt-in roll cage (MZ100-400-R) and a full polybush kit from SuperPro (part #SPF0115K for front control arms, #SPF0116K for rear trailing arms). Suspension overhaul with Ohlins Road & Track DFV coilovers (custom valving for Ipsum AC60/AC61 chassis), Whiteline adjustable sway bars (24mm front, 22mm rear), and Cusco strut tower braces (front and rear). Braking system upgraded to Endless CC-R6 rotors (320mm front, 295mm rear) with AP Racing CP6640 calipers and Ferodo DS2500 pads."
+  ],
+  "estetica": [
+    "Full Rocket Bunny V3 widebody kit (specific to Ipsum AC60/AC61) with custom carbon fiber overfenders (dry carbon, 2x2 twill weave) and a custom front bumper lip (3D-scanned from a Toyota Altezza RS200). Rear diffuser fabricated from 3mm aluminum with integrated twin 3.5-inch exhaust exits (modeled after the Toyota GRMN Vitz).",
+    "Custom aero package including a Voltex Type-3 rear wing (1,700mm span, 300mm chord, 3D-printed aluminum mounts) and a custom aluminum hood with a 150mm central vent (inspired by the Toyota 7 race car). Side skirts replaced with custom 3D-printed ABS units (designed in-house, featuring integrated LED turn signals and air curtains for rear brake cooling).",
+    "Interior stripped and rebuilt with a full Bride Vios III seat setup (fixed-back, FIA-approved) on custom aluminum mounts, paired with a NRG Innovations quick-release steering wheel (350mm, suede) and a custom roll cage-mounted digital dash (Aim MXS Strada with GPS lap timer). Full Alcantara retrim (Katzkin, custom pattern) with red stitching, and a custom rear cargo area cage (for spare tire relocation and fire extinguisher mount). Exterior color: Toyota Super White II (code 040) with a 3M Matte Black vinyl wrap on the roof and pillars."
+  ]
+}

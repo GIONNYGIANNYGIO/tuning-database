@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "GR GT3 PROTOTYPE",
+  "prestazioni": [
+    "Engine: 3.5L twin-turbo V6 (2GR-FKS GT3-spec) with reinforced forged internals (Mahle pistons, Carrillo H-beam rods, and a billet crankshaft) paired with a Garrett GTX5533R turbocharger (1.15 A/R turbine housing) and a custom 42mm wastegate setup for 750+ hp at 8,500 RPM on E85 fuel.",
+    "Drivetrain: Xtrac P1297 6-speed sequential gearbox with a Sachs triple-plate carbon clutch and a Quaife ATB differential, mated to a custom GR Corolla-derived AWD system with a 40:60 front-to-rear torque split for optimal track performance.",
+    "Suspension & Chassis: Öhlins TTX46 MkII 4-way adjustable dampers with custom valving for the GR GT3 prototype’s double-wishbone front and multi-link rear setup, paired with T45 steel subframe reinforcements and a full carbon fiber monocoque chassis (Toray T800) for 30% weight reduction over the standard GR Supra GT3."
+  ],
+  "estetica": [
+    "Aerodynamics: Full custom GR GT3 Prototype aero kit by TMG (Toyota Motorsport GmbH), including a 2,100mm-wide carbon fiber front splitter with active Gurney flaps, a 1,800mm-wide rear wing with dual-plane adjustability (30mm chord), and a Venturi tunnel underbody for 2,200 lbs of downforce at 180 mph.",
+    "Bodywork: Full carbon fiber body panels (Weissach-spec) with a 3D-printed titanium roll cage (TIG-welded Grade 5 Ti) integrated into the chassis for FIA GT3 safety compliance, featuring a removable polycarbonate rear hatch for engine access.",
+    "Lighting & Details: OLED taillights (Osram) with sequential turn signals, carbon fiber side mirrors (AIMOLASER-cut for minimal drag), and a custom livery by RAUH-Welt BEGRIFF (RWB) with a matte Gunmetal base and neon pink accents (Pantone 806 C) for sponsor visibility."
+  ]
+}

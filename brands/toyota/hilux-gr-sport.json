@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "HILUX GR SPORT",
+  "prestazioni": [
+    "Engine: Replace the stock 2GD-FTV 2.4L turbo-diesel (150 kW / 400 Nm) with a **Garrett GTX3582R turbocharger** (hybrid billet wheel, 0.82 A/R turbine housing) paired with a **Dieselmec 3.5\" stainless downpipe** and **Fujitsubo Gekko exhaust system** (3.5\" mandrel-bent piping, 76mm dual outlets) to achieve 220 kW at 3,800 RPM and 600 Nm at 2,200 RPM. Supporting mods include **Denso GDI 2200cc injectors**, **CP-Carrillo forged pistons** (8.5:1 CR), and a **Plex Tuning ECU flash** (custom map for E85 blend with **AEM 30-0300 wideband O2 sensor**).",
+    "Suspension: Install **Öhlins TTX46 coilovers** (24-way adjustable damping, 50mm piston diameter) with **SuperPro polyurethane bushings** (front control arms, rear trailing arms) and **Whiteline adjustable sway bars** (24mm front, 22mm rear). Chassis reinforcement via **Cusco 4-point strut tower bar** (aluminum, 2.5mm wall thickness) and **RearX anti-roll kit** (panhard rod upgrade).",
+    "Drivetrain: Swap the stock **AC60 6-speed manual** for a **Holinger RD6 sequential gearbox** (dog-ring engagement, 1000 Nm torque capacity) with **Tilton twin-plate clutch** (7.25\" organic/carbon hybrid disc). Upgrade the **Aisin 4WD transfer case** with **ARB Air Locker** (front and rear differentials) and **Nitro Gear & Axle 4.88:1 ring & pinion sets** for improved crawl ratio."
+  ],
+  "estetica": [
+    "Aero: **Liberty Walk LB-HILUX widebody kit** (pre-preg carbon fiber, 80mm extended fenders) with **Seibon carbon fiber hood** (vented, 30% weight reduction) and **Rocket Bunny rear diffuser** (dual-layer carbon, 3\" diffuser tunnels). Front bumper replaced with **Tommy Kaira M20 aero bumper** (integrated **Mitsuba 5.5\" LED bar**, carbon splitter).",
+    "Wheels/Tires: **Work Emotion CR Kiwami** (18x10.5 +15 ET, 5x150 PCD) wrapped in **Michelin Pilot Sport Cup 2 R** (285/60 R18, semi-slick compound). Fender flares rolled with **Eastwood fender roller** (1.5\" clearance gain) and **H&R Track+ wheel spacers** (20mm front, 25mm rear).",
+    "Interior: **Recaro SP-G bucket seats** (Schroth 6-point harnesses, FIA-approved) with **Sparco Pro 2000 steering wheel** (350mm, suede). **AIM MXS Strada dash logger** (12.3\" display, CAN bus integration) replaces stock cluster. **Custom roll cage** by **Custom Cages UK** (T45 steel, 3.2mm wall thickness, 8-point design with harness bar)."
+  ]
+}

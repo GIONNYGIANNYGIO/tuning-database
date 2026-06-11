@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "HILUX REVO",
+  "prestazioni": [
+    "1GD-FTV 2.8L turbo-diesel engine: Garrett GTX3582R turbocharger with billet compressor wheel (68mm inducer, 82mm exducer), custom 3.5-inch stainless steel downpipe, and BorgWarner EFR 7670 wastegate for 350hp and 550lb-ft torque at 2.2 bar boost pressure",
+    "Full custom ECU remap via Haltech Elite 2500 with flex-fuel sensor integration, supporting E85 blends, and optimized for 1,800cc/min Bosch 044 high-flow fuel pump with dual 1,000cc/min ID1000 injectors",
+    "KW Suspensions Clubsport coilovers with 8-position rebound damping, 24-way compression adjustment, and 20mm extended threaded bodies for 50mm drop, paired with SuperPro poly bushings (part #SPF1025K) for the 4-link rear suspension"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (Hilux Revo-specific) with carbon fiber front fenders, extended rear quarter panels, and integrated rear diffuser, requiring custom 3-piece Work Meister S1 3P 18x10.5 +25 wheels with 275/65R18 Toyo Open Country R/T Trail tires",
+    "Custom front bumper with integrated 4,500K Morimoto XB LED fog lights, hidden winch mount for a Warn Zeon 12-S Platinum, and carbon fiber splitter with 3D-printed air curtains for brake cooling",
+    "Full interior overhaul with Recaro Pole Position seats (Hilux Revo-specific mounting brackets), MOMO Prototipo steering wheel with quick-release hub, and custom aluminum gauge pod housing AEM X-Series wideband AFR and boost gauges"
+  ]
+}

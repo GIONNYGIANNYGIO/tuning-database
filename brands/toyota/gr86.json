@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "GR86",
+  "prestazioni": [
+    "FA20 (4U-GSE) engine: Full forged internals including JE 87mm forged pistons (9.5:1 compression), Eagle H-beam connecting rods, and a Tomei Type-S billet crankshaft for 8,500 RPM reliability with a 272° Tomei M82 cams for high-lift, aggressive overlap targeting 250+ HP on E85 with a Garrett GTX3071R Gen II turbo (0.63 A/R turbine housing) and custom 3.5\" stainless steel turbo-back exhaust featuring a Tomei 304 stainless steel manifold and GReddy Revolution RS 70mm cat-back system",
+    "OS Giken 6-speed sequential transmission with OS Giken 2.150 final drive ratio, OS Giken twin-plate clutch (240mm), and Cusco Type-RS 1.5-way mechanical LSD for aggressive power delivery and drift-specific gearing",
+    "Full Ohlins Road & Track DFV coilovers with 8kg/mm front and 10kg/mm rear springs, 30-way adjustable damping, and spherical bearing top mounts, paired with Cusco front and rear sway bars (22mm front, 19mm rear) and Whiteline adjustable rear toe arms for precise chassis tuning on high-grip semi-slick tires (Yokohama Advan A052 245/40R17 front, 275/35R17 rear)"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit with custom carbon fiber overfenders (2.5\" wider front, 3.5\" wider rear) and extended aluminum front fenders for aggressive stance and tire clearance, finished in custom BASF Glasurit 90-line 'Lime Gold' paint with matte black roof and mirror caps",
+    "Seibon Carbon fiber GT-style hood with integrated NACA ducts for direct air extraction over the Garrett GTX3071R turbo, paired with a custom carbon fiber front splitter (50mm overhang) and rear diffuser from Varis Japan, featuring integrated carbon fiber canards and a 3D-printed Gurney flap for downforce optimization",
+    "Custom interior with Bride Zeta III bucket seats (fixed-back, FIA-approved) wrapped in Alcantara (Stitch Monkey 'Tokyo Blue'), Takata Drift III 4-point harnesses, and a custom roll cage (1.75\" x .120\" DOM tubing) by Custom Cages UK, featuring a bolt-in X-pattern for chassis rigidity and a relocated Motec C127 dash with integrated AIM Solo 2 DL for telemetry"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "HILUX DAKAR GR",
+  "prestazioni": [
+    "Engine: Replace the stock 2GD-FTV 2.8L turbo-diesel (150kW/500Nm) with a **Garett GTX4202R turbocharger** (hybrid billet wheel, 64mm compressor, 76mm turbine) paired with a **Denso GDI fuel pump upgrade** (350LPH) and **Injector Dynamics ID1700x injectors** for E85 compatibility, pushing output to 320kW/900Nm with a **Link G4+ Xtreme ECU** managing boost via a **TurboSmart e-Boost2 controller** and **AEM X-Series wideband O2 sensor** for AFR precision.",
+    "Drivetrain: Swap the stock 6-speed Aisin AC60F transmission for a **Holinger RD6 sequential gearbox** (dog-ring engagement, 1000Nm torque capacity) with a **PWR Performance Products triple-plate ceramic clutch** and **Quaife ATB differential** (80% lock) in the rear. Install a **GU Racing billet aluminum transfer case** with a **4.88:1 gear ratio** for extreme off-road crawling.",
+    "Suspension/Chassis: Replace OEM suspension with **Öhlins TTX46 3-way adjustable coilovers** (200mm travel, remote reservoirs) and **Eibach ERS 1000N/mm helper springs**. Reinforce the chassis with a **Toyota Gazoo Racing (TGR) Dakar-spec roll cage** (chromoly 4130, FIA-certified) and **Polybush 4x4 bushings** (urethane, 95A durometer) for subframe rigidity. Add **Brembo GT 8-piston calipers** (380mm discs) with **Ferodo DS2500 pads** for rally-spec braking."
+  ],
+  "estetica": [
+    "Aero: Install a **Liberty Walk LB Works Dakar Hilux widebody kit** (carbon fiber fenders, 100mm extended wheel arches) with a **Seibon Carbon hood** (vented, 30% weight reduction) and **Rocket Bunny rear diffuser** (dual-layer, 3D-printed ABS). Add a **Garrett Motorsport front splitter** (adjustable angle, 3-stage Gurney flap) and **Aeroflow side skirts** (integrated LED rock lights).",
+    "Lighting: Replace stock lamps with **Lightforce HTX2 200mm LED driving lights** (500m beam throw, CREE XHP70.2 LEDs) and **Baja Designs Squadron Pro amber fog lights** (SAE/DOT-compliant). Install a **Hella Rallye 4000 Superwhite roof-mounted light bar** (100W, 50,000 lumen) with **PIAA LP570 auxiliary pods** (spot/flood hybrid).",
+    "Interior: Swap OEM seats for **Sparco Pro ADV carbon-Kevlar bucket seats** (FIA 8862-2009 certified) with **Schroth 6-point harnesses** (ASM camlock). Add a **Motec C127 dash logger** (12.3\" display, CAN bus integration) and **Alcantara-wrapped MOMO Dakar steering wheel** (suede grip, quick-release hub). Install a **Kenwood DNX995S navigation unit** (3D off-road mapping, Garmin Overlander integration) with **Focal Utopia Be tweeters** (alpine sound deadening)."
+  ]
+}

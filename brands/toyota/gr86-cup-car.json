@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "GR86 CUP CAR",
+  "prestazioni": [
+    "FA20 (4U-GSE derived) engine with Tomei 272° duration, 11.5mm lift camshafts and titanium valve retainers for high-RPM endurance racing, paired with a custom 4-2-1 stainless steel header by HKS (part #42016-AK003) and a titanium 3.5\" exhaust system by Fujitsubo (GEN-II Legalis R, part #FUJ-140-5501) with a 100-cell racing catalytic converter for FIA compliance",
+    "Garrett GT2860RS turbocharger (part #743307-1) with a custom billet compressor wheel (60mm inducer, 84mm exducer) and a 0.63 A/R turbine housing, mated to a GReddy Type-25 intercooler (part #1150101) and a custom 3\" aluminum charge pipe system with V-band clamps, tuned via a Link G4+ Xtreme ECU with a custom 3D-printed intake manifold (carbon fiber, 3L plenum) and ID1000 injectors (part #415100) for 350whp on E85",
+    "Ohlins TTX40 2-way adjustable coilovers (part #TOY044) with 8kg/mm front and 10kg/mm rear springs, spherical bearing top mounts (SuperPro part #SPF0116K), and custom adjustable toe arms (SPL Parts, part #SPL-RTA-TOY86) with spherical rod ends, paired with a Cusco 2.5-way LSD (part #LSD865A) and a Tilton 7.25\" twin-disc clutch (part #60-1100) with a chromoly flywheel (part #60-1000)"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (part #RB-CZ4-V3) with carbon fiber fenders, custom 3D-printed ABS front splitter (25mm overhang, 3-stage gurney flap), and a custom aluminum rear diffuser with integrated brake ducts (50mm diameter, CNC-machined from 6061-T6)",
+    "Custom carbon fiber hood (Seibon, part #CF-TOY-1286-HOOD) with a 3\" central vent and integrated NACA ducts for intercooler airflow, paired with a carbon fiber trunk (Seibon, part #CF-TOY-1286-TRUNK) and a custom aluminum rear wing (9 Lives Racing, part #9LR-86-2000) with 3D-printed endplates (PETG, 45° angle, 1200mm span)",
+    "Custom livery by Fatlace Designs (\"Neon Circuit\" theme) with 3M 1080 vinyl wrap (color #S131 Gloss Lime Green) and reflective matte black accents, paired with OEM-style LED headlights (Morimoto XB, part #800701) and custom carbon fiber side mirrors (AeroCatch, part #AC-86-MIRROR) with integrated turn signals"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "GAIA",
+  "prestazioni": [
+    "Engine swap to 3S-GTE Gen 4 (260-300hp stock block) with forged internals (JE 87mm pistons, Eagle H-beam rods, ACL race bearings) and Garrett GT2860RS turbo (0.82 A/R, 60mm compressor) for 400whp on E85 fuel, paired with a Tomei 264° camshaft and HKS Hi-Power exhaust manifold",
+    "Custom 3-inch stainless steel exhaust system with Fujitsubo GSpec muffler (single exit, 70mm tip) and HKS SSQV blow-off valve, mated to a Koyorad 4-core front-mount intercooler (550x300x76mm) and HKS Racing suction relocator kit for the 3S-GTE",
+    "Haltech Elite 2500 ECU with custom wiring harness (by Wireworks Japan) for full standalone control, paired with a Link G4+ Xtreme for dual-ECU redundancy, AEM 3.5bar MAP sensor, and Toyota 2ZZ-GE coil packs for ignition (swapped to 3S-GTE coil harness)"
+  ],
+  "estetica": [
+    "Vertex Lang II widebody kit (Gaia-specific, 50mm rear fender flares, carbon fiber front bumper with integrated DRLs) with custom rear diffuser by Rocket Bunny (polyurethane, 3-piece design for 3S-GTE intercooler clearance)",
+    "Work Emotion CR Kiwami wheels (18x9.5 +22 front, 18x10.5 +30 rear) with Yokohama Advan Neova AD09 tires (235/40/18 front, 265/35/18 rear) and BC Racing BR coilovers (Type RM, 8kg front/10kg rear springs) with custom top mounts by Cusco",
+    "Full carbon fiber interior overhaul: Bride Zeta III seats (fixed-back, 35kg each) with Takata Drift II 4-point harnesses, NRG Innovations quick-release steering wheel (350mm, suede) on a Cusco bolt-in cage (6-point, chromoly, Gaia-specific fitment), and custom gauge pod by Defi (BF Advance, 60mm oil pressure/temp, boost, and wideband AFR)"
+  ]
+}

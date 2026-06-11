@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "HILUX DAKAR RALLY RAID",
+  "prestazioni": [
+    "Engine: 2.1L Toyota GD series (1GD-FTV) inline-4 turbo-diesel, reinforced with a billet aluminum crankshaft from Manley Performance, forged Mahle pistons (9.5:1 compression), and Carrillo H-beam connecting rods for 600+ hp reliability at 45 psi boost via a Garrett GTX5533R turbo with titanium-aluminide turbine wheel and 1.15 A/R housing, paired with a custom 4.5-inch stainless steel exhaust system by Akrapovič featuring a 5-inch carbon fiber muffler and dual 4-inch outlets",
+    "Drivetrain: Xtrac P1396 6-speed sequential gearbox with paddle-shift actuation, reinforced with a Sachs triple-plate carbon clutch and a Quaife ATB helical LSD in the rear axle, coupled to a custom 4WD system with a 50/50 torque split via a Torsen differential in the front and a GKN VL3 viscous coupling center diff",
+    "Suspension: Öhlins TTX46 3-way adjustable dampers with 400mm of travel, custom-fabricated unequal-length A-arms with spherical bearings from Aurora Bearing Company, and Eibach ERS coil springs (1200 lb/in front, 1000 lb/in rear), paired with a custom hydraulic bump stop system by Reiger Racing for 1.5m jump landings"
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody kit by Liberty Walk (LB-HILUX-DAKAR), featuring a 150mm extended wheelbase, custom front splitter with integrated LED light bar (Baja Designs Squadron Pro), and a rear diffuser with integrated tow hooks and spare tire mount, all coated in 3M Matte Military Green (212)",
+    "Aerodynamics: Custom front hood scoop for intercooler ducting (3D-printed from carbon fiber-reinforced nylon by CRP Technology), rear wing by APR Performance (GTC-300) with adjustable carbon fiber endplates and a 1.2m span, and underbody aero panels by WRC-spec supplier DMACK for optimized airflow and debris deflection",
+    "Lighting: Full LED conversion with Baja Designs OnX6 Hybrid LED light bars (50-inch front, 30-inch rear), auxiliary ditch lights by Rigid Industries (D-Series Pro), and custom CNC-machined aluminum light guards by Cognito Motorsports, all wired through a Painless Performance 12-circuit fuse block with military-grade connectors"
+  ]
+}

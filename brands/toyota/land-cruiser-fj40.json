@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "LAND CRUISER FJ40",
+  "prestazioni": [
+    "Engine swap to Toyota 2F (F-code) inline-6 with a custom-built 3.8L stroker kit using forged internals (JE Pistons 9.5:1 compression, Eagle H-beam connecting rods, and a billet crankshaft from SCAT Enterprises), paired with a T&D Machine custom camshaft (280° duration, 0.550\" lift) for optimized low-end torque and high-RPM power delivery.",
+    "Forced induction via a custom-built turbo system using a Garrett GT3582R turbocharger (82mm compressor wheel, 62mm turbine) with a custom exhaust manifold fabricated from 304 stainless steel (equal-length runners, 1.75\" primary tubes) and a Turbosmart 45mm Hyper-Gate45 wastegate to manage boost at 12-15 psi. Intercooling handled by a custom air-to-water setup with a PWR radiator and Bosch 044 fuel pump feeding 1000cc ID injectors.",
+    "Drivetrain upgrades including a Toyota H55F 5-speed manual transmission (from the FJ60) with a Centerforce DFX clutch and a custom bellhousing adapter plate, paired with a Toyota FJ40 transfer case (3.70:1 gears) and a custom 4.88:1 ring & pinion set from Nitro Gear & Axle for improved off-road crawl ratio and on-road acceleration."
+  ],
+  "estetica": [
+    "Custom widebody conversion using a Rare Parts FJ40 reproduction fiberglass front fender flares (extended 3\" per side) and rear quarter panels (extended 4\" per side) to accommodate 15x10\" Method MR701 wheels (ET -12 offset) wrapped in 35x12.50R15 BFGoodrich KM3 tires. Flares finished in raw fiberglass with a satin clear coat for a rugged, utilitarian look.",
+    "Front bumper replacement with a custom-built steel bumper from 1.5\" DOM tubing (designed for a Warn Zeon 12-S winch and dual Rigid Industries D-Series Pro LED pods), paired with a rear bumper from ARB (with integrated swing-out tire carrier and jerry can mounts). Both bumpers powder-coated in Toyota \"Muddy Waters\" (4R3) for a factory-adjacent finish.",
+    "Interior overhaul featuring Recaro SRD bucket seats (mounted on custom fabricated brackets to retain FJ40 seat tracks), a MOMO Mod.78 steering wheel (380mm diameter, suede grip) on a NRG Innovations quick-release hub, and a full custom roll cage (1.75\" x 0.120\" DOM tubing) with integrated harness bars for Schroth Profi II 6-point harnesses. Dash trimmed in Alcantara with a digital gauge cluster from Dakota Digital (RTX series) and a Pioneer AVH-2550NEX head unit."
+  ]
+}

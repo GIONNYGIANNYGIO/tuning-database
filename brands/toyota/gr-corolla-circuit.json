@@ -1,0 +1,17 @@
+{
+  "brand": "TOYOTA",
+  "model": "GR COROLLA CIRCUIT",
+  "prestazioni": [
+    "G16E-GTS 1.6L turbocharged inline-3 engine: Full forged internals kit from Tomei, including billet crankshaft (88mm stroke), forged I-beam connecting rods (Tomei Poncam), and forged 8.5:1 compression pistons (JE Pro Seal) with custom anti-friction coatings for 30+ psi boost tolerance",
+    "Garrett GTX3582R Gen II turbocharger with 0.82 A/R turbine housing, billet compressor wheel (60mm inducer), and TiAL MV-R 44mm wastegate for precise boost control up to 35 psi, paired with a custom 3.5\" titanium downpipe (HKS Hi-Power) and 3.5\" stainless steel exhaust system (GReddy Revolution RS) with dual 100mm titanium tips",
+    "Ohlins TTX40 2-way adjustable coilovers with 30-way rebound damping, 22-way compression damping, and remote reservoirs, featuring GR Corolla-specific spring rates (Front: 12kg/mm, Rear: 10kg/mm) and adjustable camber plates (SuperPro) for aggressive track alignment (-3.5° front, -2.8° rear)",
+    "PFC 380mm 6-piston front brake kit with 2-piece rotors (J-Hook slotted) and Ferodo DS2500 pads, paired with a custom stainless steel braided brake line setup (Goodridge) and Motul RBF 660 brake fluid for consistent pedal feel under extreme heat",
+    "OS Giken Super Lock LSD (4.375 final drive ratio) with carbon fiber clutch discs (Tilton 6-paddle) and a billet aluminum flywheel (Spec Stage 4+) for instant power transfer, mated to a reinforced GR-Four AWD system with a 60/40 torque split and a custom Quaife ATB differential in the rear"
+  ],
+  "estetica": [
+    "Rocket Bunny GR Corolla-specific widebody kit (Version 3) with carbon fiber fenders (2.5\" wider front, 3\" wider rear), custom aluminum overfenders, and a 3D-printed ABS front splitter with integrated canards (9Labs) for optimized aero balance (target: -200kg downforce at 160km/h)",
+    "Voltex Type-20 rear wing (1,800mm width, 300mm chord) with carbon fiber construction, dual-element design, and adjustable angle (0° to 20°) for high-speed stability, paired with a custom aluminum undertray (Aeroflow) and diffuser (3-piece carbon fiber, 300mm extension) for rear downforce",
+    "Custom carbon fiber hood (Seibon) with dual 40mm venting ducts (functional) and integrated NACA ducts for intercooler airflow, finished in raw carbon fiber with a clear matte UV-resistant coating (3M Scotchgard Pro Series), and a GR Corolla-specific front bumper lip (Varis) with integrated LED fog lights (Morimoto XB)",
+    "Recaro SPG XL bucket seats (GR Corolla-specific mounting brackets) upholstered in Alcantara (Alcantara Milano) with red stitching and carbon fiber backs (Sparco), paired with a custom roll cage (Custom Cages UK) featuring 4-point harness bars, integrated fire suppression system (Lifeline Zero 360), and a carbon fiber dashboard overlay (TRD Pro-style, 3K twill weave)"
+  ]
+}
