@@ -1,0 +1,14 @@
+{
+  "brand": "TESLA",
+  "model": "MODEL Y PERFORMANCE",
+  "prestazioni": [
+    "Unitek Performance 'Dual Motor Inverter Overclock' (PMSRM + ACRM) firmware reflash targeting 550 kW (738 hp) peak output with custom liquid cooling loop using a PWR North America 'Performance Radiator' and dual Bosch 0280750986 high-flow coolant pumps for sustained track use",
+    "Tesla-specific 'Ludicrous+' mode hardware upgrade via EV West 'Model Y Performance Battery Module Expansion' (adding 2x 21700 cell modules, 98 kWh total capacity) paired with a Weistec Engineering 'High-Current Busbar Kit' (1,200A rated) to eliminate voltage sag under extreme acceleration",
+    "Full drivetrain reinforcement with a Quaife ATB LSD (part #QKE40Y) for the rear motor (ACRM) and a custom 3D-printed titanium front motor mount (designed by Unplugged Performance) to reduce flex under 0-60 mph launches (verified 2.8s 0-60 mph with Michelin Pilot Sport Cup 2 R tires)"
+  ],
+  "estetica": [
+    "Liberty Walk LB-WORKS 'Model Y Performance Widebody Kit' (Type 2, carbon fiber) with integrated Vorsteiner V-FF 105 forged wheels (20x10.5 +35 front, 20x12 +40 rear) and custom fender flares to clear 285/30R20 and 315/25R20 tires",
+    "Rocket Bunny 'Pandem Aero Suite' (Model Y-specific) including a 3-piece carbon fiber rear wing (1,200mm span, adjustable angle via KW Automotive 'Wing Risers'), front splitter with canards, and side skirts with integrated LED turn signals (Lux H8 V4 bulbs)",
+    "100% bespoke interior by 1010 TUNING featuring full Alcantara headliner (Stingray Blue), custom Recaro SPG XL seats (heated/ventilated, with Tesla Autopilot integration via OpenPilot hardware), and a MOMO 'Mod.78' steering wheel with integrated Tesla 'Track Mode' quick-toggle button"
+  ]
+}

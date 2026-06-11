@@ -1,0 +1,14 @@
+{
+  "brand": "TESLA",
+  "model": "CYBERTRUCK",
+  "prestazioni": [
+    "Unitek Control Solutions 'Tesla Drive Unit (TDU) 3YJX' front motor upgrade with custom-wound stator for 600 kW peak output (stock: 255 kW), paired with a Unitek liquid-cooled inverter running 1,200A continuous current via SiC MOSFETs, retaining OEM Tesla battery pack (4680-cell) but recalibrated via Unitek's 'HyperDrive' firmware for 0-60 mph in 1.9s (stock: 2.6s)",
+    "KW Suspension 'V3 Coilover Kit' with 3-way adjustable damping (compression/rebound/height), custom-valved for Cybertruck's 3,500 lb unsprung mass, featuring 24-way rebound adjustment and 12-way compression damping, paired with KW's 'HLS' hydraulic lift system for 2.5\" front/rear ride height adjustment",
+    "Brembo 'GT-RS 6-Piston Monobloc' front brake calipers (380mm x 38mm vented rotors) with 'PVT Plus' ceramic-composite pads, paired with Brembo 'GT 4-Piston' rear calipers (355mm x 32mm rotors), utilizing Tesla-specific caliper brackets and stainless steel braided lines with DOT 5.1 fluid for 1,200 ft-lb stopping power from 60 mph (stock: 800 ft-lb)"
+  ],
+  "estetica": [
+    "Rocket Bunny 'CyberWorks' widebody kit (carbon fiber, 4.5\" fender flares) with integrated LED turn signals and 'CyberMesh' front grille insert (replaces stock triangular pattern), designed for 22\" HRE FF10 wheels (285/45R22 front, 315/40R22 rear) with 15mm spacers for flush fitment",
+    "Vorsteiner 'CyberCarbon' rear diffuser with active aero flaps (adjustable via Tesla 'Track Mode' integration), paired with a Vorsteiner carbon fiber tonneau cover (lockable, weight: 18 lbs) featuring integrated solar panels for 1.2 kW auxiliary charging",
+    "Morimoto 'XB LED' headlight retrofit with 'CyberBeam' projectors (5,000 lumen output, 6,000K color temp), including sequential turn signals and adaptive high-beam control via Tesla Autopilot sensors, paired with Diode Dynamics 'Switchback' LED side markers (amber/white)"
+  ]
+}

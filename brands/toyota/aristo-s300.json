@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "ARISTO S300",
+  "prestazioni": [
+    "Engine: 2JZ-GTE (non-VVTi, 86mm bore, 86mm stroke, forged internals) with a Tomei 272°/272° camshaft kit (11.5mm lift) and Tomei Type-A valve springs for high-RPM stability up to 8,500 RPM. Paired with a Garrett GTX4202R turbo (0.96 A/R turbine housing, 64mm billet compressor wheel) running 28psi on E85 fuel with a custom 1000cc ID1000 injectors and a Radium Engineering dual fuel pump setup.",
+    "Drivetrain: OS Giken Super Lock LSD (4.625 final drive ratio) with a TTC twin-disc carbon clutch (240mm, 6-puck) and a Driveshaft Shop 3.5\" aluminum driveshaft to handle 800+ lb-ft torque. Transmission: Getrag V160 (from JZA80 Supra) with a PPG straight-cut gearset (1st: 2.95, 2nd: 2.18, 3rd: 1.59) and a Cusco Type-RS 7-speed synchro upgrade.",
+    "Suspension/Handling: Ohlins Road & Track coilovers (30-way adjustable damping, 20mm front/15mm rear drop) with Cusco front and rear sway bars (24mm front, 22mm rear, 3-way adjustable). Polyurethane bushings (SuperPro 90A) for all control arms, subframes, and differential mounts. Brakes: AP Racing 6-piston CP8300 calipers (380mm 2-piece rotors) with Ferodo DS2500 pads and Goodridge G-Stop braided lines."
+  ],
+  "estetica": [
+    "Body: Rocket Bunny V3 widebody kit (JZX100-specific, 50mm front/60mm rear fender flares) with custom carbon fiber overfenders (Seibon, 1.5mm thickness) and a Veilside Fortune front bumper (JZX100 version, with integrated LED turn signals). Rear diffuser: Varis Aristo-specific carbon fiber diffuser with dual 3.5\" exhaust exits (custom titanium tips by Burns Stainless).",
+    "Aero: Custom front splitter (100% carbon fiber, 3D-scanned for JZX100 chassis) with a 50mm adjustable canard setup (Aeroflow Dynamics). Rear wing: Voltex Type-5 (1700mm width, 3D carbon fiber, 3-position angle adjustment) mounted on custom aluminum pedestals (JZX100-specific, 200mm height). Underbody: Full carbon fiber flat floor (Seibon) with integrated air channels for rear diffuser efficiency.",
+    "Wheels/Stance: Work Meister S1 3P (18x10.5 +20 front, 18x11.5 +25 rear) with custom concave faces (10-spoke, 5x114.3 PCD). Tires: Michelin Pilot Sport Cup 2 R (275/35/18 front, 305/30/18 rear). Fender roll: Custom 3-stage roll (front: 15mm, rear: 20mm) with seam welding for rigidity. Interior: Bride Zeta III seats (JZX100-specific brackets) with Takata 4-point harnesses and a custom roll cage (1.75\" DOM tubing, 8-point, bolt-in, with integrated harness bar)."
+  ]
+}

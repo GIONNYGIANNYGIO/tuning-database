@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "AE86 LEVIN",
+  "prestazioni": [
+    "4A-GE 20V 'Blacktop' engine swap (4A-GE 20V 5th gen, 7,600 RPM redline, 200+ HP with individual throttle bodies) paired with a TODA Racing 87mm stroker crank (2.2L displacement) and forged JE Pistons (8.5:1 compression for forced induction readiness).",
+    "Garrett GT2860R turbocharger (0.63 A/R turbine housing) with a custom Tial MV-R 38mm wastegate and HKS SSQV Type-R blow-off valve, mated to a GReddy intercooler (AE86-specific core, 600x300x76mm) and custom 3-inch aluminum piping with Vibrant Performance silicone couplers.",
+    "Haltech Elite 2500 standalone ECU with custom AE86-specific wiring harness, integrated with a Link G4+ knock block and AEM X-Series wideband O2 sensor. Suspension overhaul includes Tein Flex Z coilovers (AE86-specific valving, 8kg/mm front/6kg/mm rear springs) with Cusco front strut tower bar and TRD rear lower arms for camber adjustment."
+  ],
+  "estetica": [
+    "Rocket Bunny V1 AE86 Levin widebody kit (FRP construction, 30mm extended fenders) with custom carbon fiber front splitter (Seibon Carbon) and a custom 3D-printed rear diffuser (ABS plastic, 3-piece modular design).",
+    "Work Meister S1 3P 15x9 +15 front and 15x10 +25 rear wheels (ET-specific offsets for Levin fender clearance) wrapped in Toyo R888R tires (225/45/15 front, 245/40/15 rear).",
+    "Custom AE86 Levin-specific livery: 'Panda' motif (black roof, white body) with hand-painted red pinstriping (inspired by 1980s JGTC cars) and a custom carbon fiber hood (Seibon, 50% weight reduction) featuring a functional NACA duct for intercooler airflow."
+  ]
+}

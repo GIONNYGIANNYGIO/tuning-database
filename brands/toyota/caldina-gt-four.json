@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "CALDINA GT-FOUR",
+  "prestazioni": [
+    "Engine: 3S-GTE (4th gen, ST246 chassis) with forged internals including JE 87mm forged pistons (9.5:1 CR), Eagle H-beam connecting rods, and ACL Race Series bearings for 1.2mm overbore capacity. Turbo upgrade to Garrett GT3076R .63 A/R with TiAL MV-R 44mm wastegate and TiAL Q 50mm BOV, paired with a custom 3.5\" stainless steel intercooler piping kit from Tomei.",
+    "Fuel System: Walbro 450LPH in-tank fuel pump with -8AN PTFE lines, Injector Dynamics ID1050x injectors, and a Sard 1000cc top-feed fuel rail. ECU reflash via Haltech Elite 2500 with custom 3D mapping for E85 compatibility (max 32psi boost on 98 RON + E85 blend).",
+    "Drivetrain: OS Giken Super Lock LSD (2-way) in the rear, Cusco 1.5-way front LSD, and a reinforced transmission with HKS 6-speed short shifter and PPG straight-cut gears (1st: 3.250, 2nd: 2.142, 3rd: 1.555). Clutch: Spec Stage 4+ with 6-puck ceramic disc and billet flywheel (12.5lb)."
+  ],
+  "estetica": [
+    "Widebody Conversion: Rocket Bunny Version 3 Caldina-specific kit (ST246) with carbon fiber fenders, front bumper canards, and rear diffuser. Overfenders extended 50mm per side for 275/40R17 Yokohama Advan Neova AD08R tires on Work Meister S1 3P 17x9.5 +15 wheels.",
+    "Aero: Veilside Fortune II rear wing (carbon fiber, 1200mm width) with custom aluminum mounts, and a custom front splitter from Garage Vary with integrated canards and 3D-printed air curtains for brake cooling. Underbody: Cusco flat floor panel kit with rear diffuser strakes.",
+    "Interior: Bride Zeta III bucket seats with Schroth 6-point harnesses, custom roll cage by Auto Power (8-point, TIG-welded chromoly), and a Momo Prototipo steering wheel on a NRG quick-release hub. Gauges: Defi Advance BF series (oil temp, oil pressure, boost, wideband AFR) in a custom A-pillar pod."
+  ]
+}

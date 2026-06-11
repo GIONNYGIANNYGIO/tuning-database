@@ -1,0 +1,14 @@
+{
+  "brand": "TESLA",
+  "model": "CYBERBEAST",
+  "prestazioni": [
+    "Tri-motor powertrain overhaul with Tesla's proprietary 'Plaid+ Tri-Motor' (engine code: **T3P-2024**) rewind, increasing rotor windings from 0.35mm to 0.42mm copper fill for 1,200A continuous current handling, paired with a **Magnax axial-flux stator** (AXF-200) to reduce eddy losses by 18% and boost peak torque to 1,050 lb-ft (up from 845 lb-ft stock).",
+    "Custom **Unitek CP-8000** 800V silicon carbide (SiC) MOSFET inverter with **Wolfspeed C3M0065090D** dies, replacing the stock IGBT modules, enabling 24kHz switching frequency (vs. 12kHz stock) and reducing switching losses by 32%, while integrating a **Marelli MPE 800** liquid-cooled gate driver for 1,100A transient capability.",
+    "Dual **Garrett GTX5533R** electric turbochargers (modified for 800V operation) mounted in a **PWR Advanced Cooling** 3-pass intercooler core (1,200cfm airflow, -50°C intake temps), fed by a **Tesla-designed 48V auxiliary compressor** (derived from the Semi truck's HVAC system) to eliminate lag and sustain 1.8 bar boost at 12,000 RPM rotor speed."
+  ],
+  "estetica": [
+    "Full **Rocket Bunny Cybertruck V1** widebody kit (carbon fiber, 120mm fender flares) with **AIMOLASER** CNC-machined aluminum honeycomb mesh inserts (0.8mm cell size) for active aerodynamic vortex generation, reducing drag coefficient to 0.28 (from 0.39 stock).",
+    "**Vorsteiner V-Stream** carbon fiber front splitter with integrated **KW Automotive** hydraulic ride-height adjustment (0-50mm range) and **Bosch MS2.5** pressure sensors for real-time downforce mapping, paired with a **Seibon Carbon** rear diffuser featuring **Gurney flaps** at 15° angle for 450kg rear downforce at 120mph.",
+    "**Anzo USA** LED headlight retrofit with **Osram 8000K Laser Diodes** (LITIon technology) and **Hella Dynamic Light Assist** adaptive matrix control, replacing the stock halogen projectors, while the Cybertruck's exoskeleton is wrapped in **3M 1080 Matte Graphite Shift** with **XPEL Stealth PPF** on high-impact zones (door edges, rocker panels)."
+  ]
+}

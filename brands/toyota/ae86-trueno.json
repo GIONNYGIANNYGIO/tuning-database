@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "AE86 TRUENO",
+  "prestazioni": [
+    "4A-GE 20V 'Blacktop' engine swap (4A-GE 20V 4th gen, 200hp @ 7,600 RPM, 130 lb-ft @ 6,400 RPM) with Tomei 87mm stroker kit (2.1L displacement), forged internals (JE 87mm pistons, Eagle H-beam rods), and Tomei Type-R camshafts (272° duration, 11.5mm lift) for high-RPM powerband optimization",
+    "Garrett GT2860RS turbocharger (0.64 A/R turbine housing) with custom 3-inch stainless steel exhaust manifold (equal-length, 4-2-1 design by HKS), GReddy Profec B Spec II boost controller, and custom 3-inch titanium exhaust system (Sparco Titanium) with dual 3.5-inch outlets and Burns Stainless mufflers for minimal backpressure",
+    "Ohlins Road & Track DFV coilovers (AE86-specific valving, 8-position adjustable damping, 20mm front/15mm rear ride height adjustment) paired with Cusco 22mm front/19mm rear adjustable sway bars, Whiteline front strut tower bar (AE86-specific), and polyurethane bushings (SuperPro) for chassis rigidity and weight reduction (15% unsprung mass reduction via Enkei PF05 wheels, 15x8 +15 front/15x9 +20 rear, 5x100 PCD)"
+  ],
+  "estetica": [
+    "Rocket Bunny V1 AE86 widebody kit (carbon fiber fenders, front bumper, and rear diffuser) with custom 3M Gloss Black wrap and red pinstriping (1/8-inch width, hand-painted by Fiber Design), paired with a custom carbon fiber hood (Seibon, 50% weight reduction over OEM) featuring a 3-inch cowl scoop for 4A-GE intercooler ducting",
+    "TRD N2 replica rear wing (carbon fiber, 3D-printed endplates for 12% downforce increase at 100 mph) mounted on custom aluminum pedestals (AeroCatch quick-release system), with integrated LED brake light (Philips X-tremeUltinon, 6000K) and carbon fiber side skirts (Vertex Lang, bolt-on design)",
+    "Custom interior with Bride Zeta III bucket seats (fixed-back, 30% weight reduction over OEM), Takata Drift II 4-point harnesses, and a custom roll cage (Chassisworks 8-point, mild steel, gusseted for AE86 chassis) painted in PPG Toyota Racing Development (TRD) red (P/N 040), paired with a Nardi Classic 350mm steering wheel (suede, 3-spoke) and Defi BF gauges (oil pressure, boost, wideband AFR) mounted in a custom aluminum A-pillar pod"
+  ]
+}

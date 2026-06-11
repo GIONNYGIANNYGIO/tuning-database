@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "AURION",
+  "prestazioni": [
+    "Engine: 2GR-FE (3.5L V6, 24-valve DOHC with Dual VVT-i) forced induction via Garrett GTX3582R turbocharger (1.05 A/R turbine housing, 62mm compressor inducer) with custom 3.5-inch stainless steel turbo manifold (Spoon Sports or Tomei Powered design) and 44mm external wastegate (TurboSmart Comp-Gate 44mm). Supporting mods include a GReddy Profec B Spec II boost controller, HKS SSQV4 blow-off valve, and a custom 3-inch titanium exhaust system (Burns Stainless or Tomei) with a 76mm muffler (MagnaFlow Competition Series).",
+    "Fuel System: Upgraded to dual Bosch 044 high-flow fuel pumps (1200cc/min) with a Radium Engineering fuel surge tank, ID1000x injectors (1000cc/min), and a Haltech Elite 2500 ECU (with custom 2GR-FE base map from Haltech’s Australian tuning partner, Haltech Performance). Additional fueling via methanol injection (Snow Performance Stage 3 kit with dual nozzles) for knock suppression under high boost (22psi peak).",
+    "Drivetrain & Handling: OS Giken Super Lock LSD (4.10 final drive ratio) paired with a TODA Racing 6-speed manual transmission conversion (using a Toyota JZX100 W58 gearbox with custom bellhousing adapter). Suspension features Ohlins Road & Track DFV coilovers (custom valved for Aurion chassis) with polyurethane bushings (SuperPro 90D durometer) and a Whiteline front sway bar (24mm adjustable). Braking upgraded to AP Racing Radi-CAL 6-piston front calipers (355mm rotors) and 4-piston rear calipers (330mm rotors) with Ferodo DS2500 pads and Motul RBF660 brake fluid."
+  ],
+  "estetica": [
+    "Widebody Conversion: Rocket Bunny V3 Aurion-specific kit (fiberglass fenders, carbon fiber front bumper, and rear diffuser) with custom 20mm extended wheel arches to fit Work Emotion CR Kiwami wheels (19x10 +15 front, 19x11 +25 rear) wrapped in Michelin Pilot Sport Cup 2 tires (265/30/19 front, 295/30/19 rear).",
+    "Aero & Lighting: Veilside Fortune 03 rear wing (carbon fiber, 1200mm span) with Gurney flap and a custom front splitter (carbon fiber, 3D-printed core) designed in collaboration with Australian aero specialist, PWR. Lighting upgraded to custom Hella 500 FFR projectors (with Morimoto HID bulbs) and rear LED taillights (V-Land sequential turn signals).",
+    "Interior & Styling: Full Bride Zeta III reclining bucket seats (with custom Toyota Aurion floor mounts) wrapped in Alcantara (Autostyle Racing) and custom door cards (carbon fiber inserts, LED accent lighting). Roll cage by Cusco (8-point bolt-in, chromoly steel) with custom padding (Sparco Pro 2000). Steering wheel replaced with a NRG Innovations 350mm deep-dish (suede) with quick-release hub, and gauge cluster upgraded to Defi Advance BF series (oil temp, boost, wideband AFR) in a custom carbon fiber dash overlay."
+  ]
+}

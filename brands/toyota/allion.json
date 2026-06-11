@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "ALLION",
+  "prestazioni": [
+    "Forced induction conversion using a **Garrett GT2860RS-5** turbocharger (Journal Bearing, 0.64 A/R turbine housing) on the **3ZR-FAE** 2.0L DOHC 16V engine, paired with a **HKS GT-SS Super Power Flow** front-mount intercooler (600x200x76mm core) and a **TODA Racing** forged piston kit (87.5mm bore, 10.5:1 compression ratio) to handle 0.8 bar (11.6 psi) of boost safely",
+    "Full **3ZR-FAE** engine internals reinforcement with **Tomei** billet crankshaft, **Manley** H-beam connecting rods (52mm big end), and **ACL Race Series** main/rod bearings, alongside a **GReddy Profec E01** standalone ECU with **Haltech** CAN-based wideband O2 controller for precise AFR mapping (targeting 11.8:1 under load)",
+    "Drivetrain upgrades including a **OS Giken** Super Lock LSD (2-way, 4.30 final drive ratio) in the **U660E** 6-speed automatic transmission, **AP Racing** CP8844-1000 twin-plate clutch (240mm diameter), and **Nismo** carbon driveshaft to eliminate drivetrain loss, paired with **Tein Flex Z** coilovers (8kg/mm front, 6kg/mm rear) and **Cusco** 22mm front / 19mm rear sway bars for chassis rigidity"
+  ],
+  "estetica": [
+    "**Varis Japan** widebody conversion kit (front fenders + rear quarter panels, +50mm per side) with **Seibon** carbon fiber hood (Type-20, 3.5kg weight reduction) and **Rocket Bunny** V3 rear diffuser (polyurethane, 3-piece bolt-on)",
+    "**Work Emotion CR Kiwami** 18x9.5 +38 front / 18x10.5 +45 rear wheels (5x114.3 PCD, 225/40R18 and 255/35R18 tires) with **Project Kics** R40 lug nuts (M12x1.5, closed-end), paired with **Spoon Sports** brake caliper spacers (10mm front, 5mm rear) for aggressive flush fitment",
+    "**Tommy Kaira** M20 aero package (front bumper lip, side skirts, and rear bumper lip) in **3M Gloss Black Vinyl Wrap (2080-G12)**, with **JDM Spec** LED taillights (Smoked Lens, Sequential Turn Signals) and **GReddy** RS Type-R cat-back exhaust (60mm dual outlets, titanium tips) for auditory feedback"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "TESLA",
+  "model": "MODEL S PERFORMANCE",
+  "prestazioni": [
+    "Unlock Tesla's rear dual-motor (code: *APPB*) to 650 kW (872 hp) via *HP Tuners VCU Pro* with custom torque vectoring maps for 0-60 mph in 1.99s (verified via VBOX Sport)",
+    "Install *Unplugged Performance UP03* carbon-fiber driveshafts with *GKN Lobro* CV joints to handle 1,200 Nm wheel torque, paired with *Tesla-specific* *AP Racing CP9660* 4-piston front calipers and *Brembo GT 380* 2-piece rotors (380x34mm) for 1.0g+ deceleration",
+    "Replace OEM *LG Chem E63* battery modules with *Tesla Aftermarket Solutions* *100 kWh+* *NCA* pack (code: *100D-UP*) featuring *Molicel P42A* cells (4.2V 45A continuous) and *Sila Nanotechnologies* silicon-anode upgrade for 400+ mile range at 200 mph sustained speeds"
+  ],
+  "estetica": [
+    "Full *Rocket Bunny V3* widebody kit (Model S-specific) with *CFRP* overfenders (2.5\" wider front, 3.0\" wider rear) and *Vorsteiner* *V-FF107* forged 21x10.5\" ET25 wheels (front) / 21x12.5\" ET45 (rear) wrapped in *Michelin Pilot Sport Cup 2 R* (275/30/21, 325/25/21)",
+    "Custom *Porsche Design* *Tesla Model S* front splitter with *active aero* (electro-pneumatic flaps) controlled via *Motec C125* dash, paired with *Rear Diffuser* by *Liberty Walk* (Model S-specific) featuring *Gurney flaps* and *3D-printed* titanium supports",
+    "Full *3M 1080* *Gloss Black* wrap with *Avery Dennison* *Chrome Delete* (grille, badges) and *Luxury Trim* *carbon fiber* interior swap (steering wheel, dash, door cards) using *Tesla OEM* *CF-TP* (Carbon Fiber Textured Plastic) from *Model X Plaid* donor parts"
+  ]
+}

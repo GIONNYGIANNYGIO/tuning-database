@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "86 GTS",
+  "prestazioni": [
+    "FA20 (4U-GSE) engine: Full forged internals with JE 9.5:1 compression pistons, Manley H-beam connecting rods, and a Tomei Type-S billet crankshaft for 1,000+ hp reliability under forced induction. Paired with a Garrett GTX3582R turbocharger (0.82 A/R turbine housing) and a custom 4-inch stainless steel exhaust system by HKS Hi-Power Spec-L, featuring 304-grade mandrel bends and a titanium 3.5-inch muffler for optimal scavenging.",
+    "Drivetrain: OS Giken Super Lock LSD with 2.188 final drive ratio (86-specific), reinforced with a Cusco Type-RS 2-way differential mount and a Tilton 7.25-inch twin-disc clutch (ceramic-metallic friction material) for 600 lb-ft torque capacity. Transmission synchros upgraded to ATS Carbon Syncro rings for durability under high-RPM shifts.",
+    "Suspension & Chassis: Full Ohlins Road & Track DFV coilovers (86-specific valving) with 8kg/mm front and 10kg/mm rear springs, paired with Cusco 22mm front and 18mm rear adjustable sway bars. Chassis reinforcement via a full Cusco bolt-in roll cage (86-specific design) and a Whiteline front strut tower bar (FA20-specific geometry correction). Braking system upgraded to Endless CC-R6 6-pot front and 4-pot rear calipers with 356mm and 334mm rotors, respectively, using Ferodo DS2500 pads for track endurance."
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny V3 widebody kit (86-specific) with carbon fiber overfenders, front canards, and a duckbill rear spoiler. Underbody aero includes a custom Varis-style front splitter (3D-scanned for FA20 oil pan clearance) and a Cusco rear diffuser with integrated brake ducts. Full carbon fiber hood by Seibon (OEM-style latches, 50% weight reduction).",
+    "Lighting: Full LED conversion with Morimoto XB35 HID projectors (35W, 5500K) in OEM housings, paired with Philips Ultinon Pro9000 LED fog lights. Rear lighting replaced with Valenti CNC-machined taillights (smoked lenses, sequential turn signals) and a custom LED third brake light integrated into the rear spoiler.",
+    "Interior: Bride Zeta III bucket seats (86-specific mounting brackets) with Schroth Profi II 6-point harnesses. Steering wheel replaced with a NRG Innovations 350mm suede wheel (FA20-specific quick-release hub). Full custom roll cage padding by Takata (86-specific fitment) and a digital dash by AIM MXS Strada (CAN-bus integration for FA20 sensors). Shift knob upgraded to a weighted aluminum unit by Perrin (short-throw adapter for 30% faster shifts)."
+  ]
+}

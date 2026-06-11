@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "2000GT",
+  "prestazioni": [
+    "Engine swap to a naturally aspirated **3M** (3M-GEU) inline-6 from the Toyota 7 (racing prototype), bored to 2.3L with forged Mahle pistons (9.5:1 compression), Tomei 272° camshafts, and a custom 6-into-2 stainless steel header by HKS (model 1710-01) paired with a 3-inch dual exhaust system featuring custom Burns Stainless mufflers for optimized scavenging",
+    "Full chassis reinforcement with a **GReddy Performance Rod bolt-on subframe brace** (PN 11401001) and a custom **Cusco 4-point bolt-in roll cage** (25.4mm OD, 2.3mm wall thickness) to stiffen the unibody by 40%, complemented by **Ohlins Road & Track coilovers** (DFV 2-way adjustable, 60N/mm front, 50N/mm rear) with custom valving for the 2000GT’s unique double-wishbone suspension geometry",
+    "Fuel system upgrade with a **Walbro 450 LPH in-tank fuel pump** (PN GSS342), custom -8AN fuel lines routed through a **Radium Engineering fuel pressure regulator** (PN 20-0115), and a **Haltech Elite 2500 ECU** (with Toyota 3M-specific base maps) controlling sequential injection via **ID1000x injectors** (PN 415-1000) and a **Mocal oil cooler** (PN 132-000-01) to prevent heat soak in the 2000GT’s tight engine bay"
+  ],
+  "estetica": [
+    "Full **Rocket Bunny V1 2000GT-specific widebody kit** (FRP construction, +80mm front, +100mm rear) with custom carbon fiber overfenders to clear 245/40R17 front and 275/35R17 rear **Yokohama Advan A052** tires on **Work Meister S1 3P 17x9.5 +25** (front) and **17x11 +30** (rear) wheels, retaining the original pop-up headlight design with **Hella H4 LED bulbs** (5500K, 30W)",
+    "Custom **Veilside Fortune 2000GT front bumper lip** (hand-laid carbon fiber) with integrated **Seibon carbon fiber hood** (vented, 30% weight reduction) and a **J’s Racing rear diffuser** (FRP, 3-piece) featuring dual **Apex’i N1-style exhaust outlets** (3.5-inch diameter) for aggressive aero balance",
+    "Interior retrim with **Recaro SP-G (JDM-spec) seats** (reclining mechanism retained, custom mounting brackets) upholstered in **Bridge of Weir leather** (tobacco brown) with **Alcantara headliner**, **Nardi Classic 380mm steering wheel** (walnut rim, quick-release hub), and a **Defi BF Advance gauge cluster** (oil temp, oil pressure, boost, AFR) mounted in a custom **Momo carbon fiber dash panel**"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "TATA",
+  "model": "HARRIER DARK EDITION",
+  "prestazioni": [
+    "Engine Code: Kryotec 2.0L Multijet II (FCA-sourced, code: F1AE0481D) – Replace stock turbo with Garrett GT2260S (846717-5003S) for 1.5 bar boost, paired with a custom 3.5\" downpipe (fabricated by Race Dynamics India) and a Tial 44mm external wastegate (MV-R) to eliminate turbo lag and target 280 HP at the wheels.",
+    "Fuel System: Upgrade to Bosch 044 high-flow fuel pump (0 580 254 044) with Injector Dynamics ID1050x injectors (1050cc), controlled via a Link G4+ Xtreme ECU (with Tata-specific CAN bus integration) for precise AFR mapping under boost. Add a Radium Engineering dual-catch can setup (20-0119) to manage crankcase pressure under high-load conditions.",
+    "Suspension & Handling: Install KW Clubsport 3-way coilovers (35-0100) with custom valving for the Harrier’s 2,741mm wheelbase, paired with SuperPro polyurethane bushings (SPF0115K) for the front control arms and rear subframe. Add a Whiteline 24mm rear sway bar (BSK012) and Michelin Pilot Sport Cup 2 tires (255/50 R20) on OZ Racing Ultraleggera HLT wheels (9x20 ET40) for track-focused grip."
+  ],
+  "estetica": [
+    "Aero: Full Rocket Bunny widebody kit (PB-HR01) modified for the Harrier’s body lines, including carbon fiber front canards (custom-made by Varis Japan) and a 3D-printed rear diffuser (Aeroflow Dynamics) with integrated twin 4\" exhaust outlets (Akrapović Ti-Evo).",
+    "Lighting: Replace all exterior lighting with LUX HID Projectors (35W 6000K) for the headlights, Osram LED fog lights (64211CW), and a custom rear light setup using Philips X-tremeUltinon LED strips (12985BWX2) integrated into the tailgate spoiler (Seibon Carbon).",
+    "Interior: Full Alcantara-wrapped dashboard and door cards (Sparco Evo II material) with custom red stitching, paired with a MOMO Mod.78 steering wheel (350mm, suede) and Bride Zeta III bucket seats (fixed-back, FIA-approved). Add a custom roll cage (TIG-welded 4130 chromoly, designed by Autopower Industries) with integrated fire suppression system (Lifeline Zero 360)."
+  ]
+}

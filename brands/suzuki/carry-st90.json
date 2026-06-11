@@ -1,0 +1,14 @@
+{
+  "brand": "SUZUKI",
+  "model": "CARRY ST90",
+  "prestazioni": [
+    "F6A 660cc turbocharged engine (engine code: F6A-T) upgraded with a HKS GT-SS turbocharger (specifically the GT-SS25 model, optimized for the F6A's 0.45 A/R turbine housing) paired with a custom 3-inch stainless steel downpipe and a Tomei 260° camshaft kit (intake/exhaust duration: 260°/260°, lift: 7.8mm/7.8mm) for improved spool and mid-range torque",
+    "Full custom 4-2-1 stainless steel exhaust manifold by Trust/GReddy (model: Trust T510, designed exclusively for the F6A-T's compact engine bay) with a 2.5-inch diameter piping system terminating in a Fujitsubo Giken Type RS muffler (120mm tip, 304 stainless steel) for aggressive tone without drone",
+    "Haltech Elite 750 standalone ECU (pre-loaded with a Suzuki Carry ST90-specific base map) controlling a custom fuel system featuring a Walbro 255 LPH in-tank fuel pump, Injector Dynamics ID725x injectors (725cc/min, optimized for the F6A's 8.5:1 compression ratio), and a custom-machined billet aluminum fuel rail by Tomei (model: Tomei F6A Fuel Rail, anodized gold)"
+  ],
+  "estetica": [
+    "Custom widebody conversion kit by Rocket Bunny (model: PB-001S, designed specifically for the ST90 chassis) featuring 3-piece FRP overfenders, front/rear bumpers, and side skirts with integrated LED turn signals (Osram LEDriving SL series, amber)",
+    "Ohlins Road & Track coilover suspension kit (model: DFV ST90, custom valved for the ST90's 850kg curb weight) with 30-way adjustable damping and 20mm extended lower mounts for a 50mm drop, paired with Cusco 22mm front and 20mm rear anti-roll bars (adjustable 3-way settings)",
+    "Custom carbon fiber bed cover by Seibon (model: ST90-BED, 2x2 twill weave, 1.5mm thickness) with integrated LED brake light (Philips X-tremeUltinon 12985BWX2, 6000K) and a rear diffuser by Varis Japan (model: ST90-DIFF, 3D-printed ABS with carbon fiber weave overlay)"
+  ]
+}

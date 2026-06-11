@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "4RUNNER SR5",
+  "prestazioni": [
+    "Engine swap to 2GR-FKS (3.5L V6, 310 hp stock) with a Magnuson TVS2300 supercharger (10 psi boost, 450 whp target) paired with a custom 4Runner-specific intercooler kit from GReddy (part #15100101) and a K&N cold air intake (part #57-9048) for optimized airflow under the hood constraints",
+    "Full bolt-on drivetrain reinforcement: R1 Concepts 2-piece drilled/slotted rotors (part #R1-441122DS) with Hawk HPS 5.0 brake pads (part #HB136N.690), paired with a Torsen limited-slip differential (part #41200-35150) and a Southside Machine 4.88 gear set (part #SSM-488) for improved off-road torque multiplication",
+    "Suspension overhaul with Icon Vehicle Dynamics Stage 5 kit (part #K93105) featuring 2.5-inch Remote Reservoir Coilovers (14-inch travel) and a Total Chaos Fabrication upper control arm kit (part #TC-35001) for +2 inches of wheel travel, paired with Nitto Ridge Grappler 285/70R17 tires (part #217-200) on Method MR701 wheels (17x8.5, +10mm offset)"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (part #RB-TOY4R-03) with custom 4Runner-specific front bumper lip (part #RB-TOY4R-03-FL) and rear diffuser (part #RB-TOY4R-03-RD), finished in 3M Matte Military Green (color code #49039) with gloss black accents",
+    "Custom rear hatch spoiler from 3D Carbon (part #3D-4RUN-SPOIL) with integrated LED brake light and a Morimoto XB LED headlight conversion (part #4RUN-XB) featuring CREE XHP50.2 projectors and sequential turn signals",
+    "Interior roll cage from Custom Cages (part #CC-4RUN-T4) with bolt-in harness bar (part #CC-4RUN-HB) and Sparco Pro 2000 seats (part #008797XXX) wrapped in Alcantara (color code #3200) with red stitching, paired with a MOMO Mod.78 steering wheel (part #MOMO-78-380-01) and a Defi BF gauge cluster (part #DF11101) for boost, oil temp, and wideband AFR monitoring"
+  ]
+}

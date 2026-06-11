@@ -1,0 +1,14 @@
+{
+  "brand": "TATA",
+  "model": "NANO PERFORMANCE EDITION",
+  "prestazioni": [
+    "Engine swap to a **Tata Revotron 1.2L Turbo (MPFi, engine code: *Revotron 1.2T*)** with forged internals (Mahle pistons, Eagle H-beam rods, ACL race bearings) and a **Garrett GT2052S turbocharger** (1.2 bar boost) for 180 HP at 6,000 RPM and 220 Nm torque at 3,500 RPM. Custom **Haltech Elite 1500 ECU** with flex-fuel mapping and launch control.",
+    "Full **Tata Nano-specific** drivetrain reinforcement: **Quaife ATB helical LSD** (60% lock) in a **Torsen-style housing**, **AP Racing CP5275-2600** 260mm front brake kit with **Ferodo DS2500 pads**, and **Bilstein B16 PSS10 coilovers** (30-way damping, 50mm drop) with **Eibach Pro-Kit springs** for chassis rigidity.",
+    "Forced induction system: **Tial MV-R 38mm wastegate** with **TurboSmart Kompact 50mm BOV**, **GReddy intercooler core (300x150x60mm)** with **custom aluminum piping**, and **Injector Dynamics ID1000x injectors** (side-feed, 1000cc/min) paired with a **Walbro 255 lph fuel pump** and **AEM X-Series wideband O2 sensor** for AFR monitoring."
+  ],
+  "estetica": [
+    "**Rocket Bunny V1-style widebody kit** (Tata Nano-specific, 3D-scanned for OEM fitment) with **carbon fiber overfenders**, **custom front splitter** (20mm overhang, 3D-printed ABS), and **rear diffuser** (integrated **DTM-style strakes**, CNC-machined aluminum).",
+    "**OMP HTE-R carbon fiber bucket seats** (FIA 8855-1999 certified) with **Sparco 6-point harnesses** and a **Tata Nano-specific roll cage** (TIG-welded 4130 chromoly, **Custom Cages UK** design, bolt-in for street legality).",
+    "**Enkei PF05 wheels** (15x8 +25 offset, 5x98 PCD) wrapped in **Michelin Pilot Sport Cup 2** (195/45/15) with **Hankook Ventus R-S4** (195/50/15) as track spares. **AP Racing AR83 calipers** (painted **PPG Bright Yellow**) with **Goodridge 6AN braided lines** and **Motul RBF 660 brake fluid**."
+  ]
+}

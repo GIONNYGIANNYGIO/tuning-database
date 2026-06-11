@@ -1,0 +1,14 @@
+{
+  "brand": "TESLA",
+  "model": "MODEL S PLAID",
+  "prestazioni": [
+    "Unitek Control Solutions 'Plaid Power' 3-in-1 inverter cooling system upgrade for the tri-motor (Tesla code: 1045176-00-F) platform, featuring dual 400W brushless pumps and a 1.2L aluminum expansion tank with integrated heat exchanger bypass for sustained 1,020+ hp output without thermal throttling",
+    "EV West 'Ludicrous+' front and rear carbon-fiber drive unit mounts (P/N: EVW-TMSP-001) with billet aluminum inserts, reducing drivetrain deflection by 42% under 0-60 mph launches while maintaining NVH isolation via silicone-damped bushings",
+    "HP Tuners 'PlaidOS' custom firmware reflash (v2.4.5) for the Tesla MCU3 (Media Control Unit, P/N: 1095025-00-G) with torque vectoring recalibration, enabling 0.3s faster 1/4-mile times via optimized regenerative braking-to-acceleration transition mapping"
+  ],
+  "estetica": [
+    "Liberty Walk LB-WORKS 'Plaid Widebody' kit (P/N: LW-TMSP-001) with 3-piece carbon-fiber fenders, extending rear track by 50mm and incorporating integrated air curtains for 12% reduced drag at 155+ mph",
+    "Vorsteiner V-FF107 22-inch forged aluminum wheels (P/N: VST-TMSP-22FF107) in 'Hyper Silver' finish with staggered 275/30R22 and 315/25R22 Michelin Pilot Sport Cup 2 R tires, reducing unsprung mass by 18% per corner",
+    "Rocket Bunny 'Pandem' rear diffuser (P/N: RB-TMSP-003) with active Gurney flap (electrically actuated via Tesla API integration) and 3D-printed titanium support struts, generating 180 lbs of downforce at 120 mph while maintaining OEM frunk compatibility"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "ARISTO V300",
+  "prestazioni": [
+    "Engine: 2JZ-GTE (VVT-i, 3.0L twin-turbo) with a fully built internals package including forged Mahle pistons (87mm, 8.5:1 CR), Eagle H-beam connecting rods, and a Tomei 264°/264° camshaft set with adjustable vernier pulleys for optimized VVT-i phasing. Paired with a Garrett GTX4202R turbocharger (0.92 A/R, 64mm inducer) on a custom 3.5-inch stainless steel exhaust manifold with Tial 44mm external wastegate and dual HKS SSQV4 blow-off valves.",
+    "Fuel System: Full Aeromotive 340lph in-tank fuel pump with dual -8AN feed/return lines, Injector Dynamics ID1700x injectors (side-feed, 1700cc/min), and a Radium Engineering dual catch-can setup with -10AN fittings to manage crankcase pressure under boost. ECU: Haltech Elite 2500 with custom 2JZ-GTE VVT-i base map, integrated with a Link G4+ Monsoon for traction control and launch control via individual wheel speed sensors.",
+    "Drivetrain: OS Giken Super Lock LSD (4.625 final drive) with a TTC twin-disc carbon clutch (240mm, 6-puck) and a Driveshaft Shop 3.5-inch aluminum driveshaft. Suspension: Ohlins Road & Track coilovers (custom valving for JZX161 chassis) with polyurethane bushings (Whiteline front control arms, SuperPro rear trailing arms) and Cusco front strut tower bar (22mm hollow). Brakes: Endless 6-pot front calipers (355mm rotors) with Ferodo DS2500 pads and Project Mu HC+ rear calipers (330mm rotors)."
+  ],
+  "estetica": [
+    "Body Kit: Veilside Fortune 03 widebody conversion (JZX161-specific, carbon fiber front fenders and rear quarter panels) with custom 3M Matte Pearl White wrap and gloss black accents. Front bumper modified with a custom carbon fiber splitter (Rocket Bunny-style, 3-piece) and a Seibon carbon fiber hood (vented, 50% weight reduction). Rear diffuser: custom 3D-printed ABS unit with integrated dual 3.5-inch exhaust outlets (stainless steel, Burns Stainless mufflers).",
+    "Wheels: Work Meister S1 3P (19x10.5 +15 front, 19x12 +30 rear) with custom gold/polished lip and Advan Racing A052R tires (275/30/19 front, 315/25/19 rear). Fender flares rolled and pulled (1.5-inch stretch) with custom aluminum inner fender liners for tire clearance. Side skirts: custom carbon fiber (Veilside Fortune 03 style) with integrated LED turn signals (Philips Luxeon Z ES).",
+    "Interior: Bride Zeta III reclinable bucket seats (custom Alcantara/red stitching) with Schroth Profi II 6-point harnesses. Custom roll cage: TIG-welded 4130 chromoly (8-point, bolt-in) with integrated harness bars and a custom carbon fiber dash overlay (replica of the Toyota GRMN Supra cluster). Steering wheel: NRG Innovations 350mm suede (quick-release) with integrated AIM MXS Strada dash display. Pedals: custom CNC-machined aluminum (Tilton, 6000-series) with heel-toe blipper."
+  ]
+}

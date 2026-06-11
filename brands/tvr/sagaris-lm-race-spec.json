@@ -1,0 +1,14 @@
+{
+  "brand": "TVR",
+  "model": "SAGARIS LM RACE SPEC",
+  "prestazioni": [
+    "Engine: TVR Speed Six (S6) 4.0L inline-6, forged internals with billet crankshaft (TVR Racing-spec), dry-sump lubrication system (Titan Motorsport dry-sump kit), and custom titanium connecting rods (Pauter Machine) for 8,500 RPM redline capability",
+    "Forced Induction: Garrett GTX4202R turbocharger (86mm compressor, 1.06 A/R turbine housing) with custom TVR Racing manifold, Precision Turbo wastegate (60mm, dual-port), and Motec M150 ECU with anti-lag and launch control for 650+ HP at 1.5 bar boost (VP Racing MS109 fuel)",
+    "Suspension & Chassis: Öhlins TTX40 3-way adjustable coilovers (25mm ride height reduction, 12-position rebound/compression damping), TVR Racing tubular front subframe with spherical bearing conversion, and AP Racing 6-piston calipers (380mm two-piece rotors) with Ferodo DS3000 pads"
+  ],
+  "estetica": [
+    "Aerodynamics: TVR Racing LM-spec carbon fiber front splitter (3D-scanned for Sagaris chassis) with integrated dive planes, custom rear diffuser (3-element, Gurney flap) by KW Motorsport, and carbon fiber rear wing (30% chord, adjustable angle) from APR Performance (GT-250 model)",
+    "Bodywork: Full carbon fiber body kit (TVR Racing LM homologation panels) with removable front fenders (quick-release Dzus fasteners), carbon fiber hood (vented, 3kg weight reduction), and polycarbonate rear window (Lexan MR-10, 50% weight savings)",
+    "Interior: Full FIA-spec roll cage (T45 steel, TVR Racing design) with integrated fire suppression system (Lifeline Zero 360), Sparco Pro 2000 seats (carbon fiber shell, FIA 8862-2009 certified), and Motec C127 dash display (data logging for 100+ channels, GPS lap timing)"
+  ]
+}

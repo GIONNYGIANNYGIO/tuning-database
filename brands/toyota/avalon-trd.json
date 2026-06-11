@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "AVALON TRD",
+  "prestazioni": [
+    "Engine: 2GR-FKS 3.5L V6 (direct/injection, 301 hp stock) – Forced induction via Garrett GTX3582R turbocharger (1.06 A/R, 62mm compressor, 76mm turbine) with custom 3-inch stainless downpipe and Tomei 3.5-inch titanium exhaust system (catless front section, resonated mid-pipe, dual 4-inch outlets).",
+    "Fuel System: Injector Dynamics ID1050x injectors (1050cc/min) paired with Radium Engineering dual fuel pump hanger (Walbro 450 LPH pumps) and AEM 340lph inline fuel pump, controlled via Haltech Elite 2500 ECU with flex-fuel sensor for E85 compatibility.",
+    "Suspension/Handling: Ohlins Road & Track DFV coilovers (custom valving for Avalon TRD chassis, 20-way adjustable compression/rebound) with Cusco front strut tower bar (22mm hollow steel) and Whiteline rear sway bar (24mm adjustable). Brembo GT 6-piston front calipers (355mm rotors) and 4-piston rear calipers (345mm rotors) with Ferodo DS2500 brake pads."
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny V3 widebody kit (custom-fitted for Avalon TRD, 3-piece front bumper, overfenders with carbon fiber weave, and duckbill rear spoiler) with Seibon carbon fiber hood (vented, 30% weight reduction).",
+    "Wheels: Work Emotion CR Kiwami 2-piece forged wheels (19x10.5 +15 front, 19x11.5 +25 rear) with Michelin Pilot Sport Cup 2 tires (275/30/19 front, 305/30/19 rear).",
+    "Interior: Bride Zeta IV bucket seats (fixed-back, FIA-approved) with Takata 6-point harnesses, custom TRD-themed Alcantara door cards (stitched with red contrast), and AIM MXS Strada dash display (integrated with Haltech ECU for real-time telemetry)."
+  ]
+}

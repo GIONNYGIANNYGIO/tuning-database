@@ -1,0 +1,14 @@
+{
+  "brand": "TESLA",
+  "model": "MODEL 3 PERFORMANCE",
+  "prestazioni": [
+    "Dual-motor AWD system (engine code: 3D7) overclock via Unplugged Performance UP|Tune Stage 2+ firmware, targeting 550+ hp and 550 lb-ft torque with 0-60 mph in 2.9s via optimized inverter calibration and battery thermal management (liquid-cooled 75 kWh pack, part #1095024-00-E)",
+    "KW Suspension Clubsport coilovers (part #3W931000) with 3-way adjustable damping, 40mm front/35mm rear ride height reduction, and spherical bearing top mounts (Tesla-specific camber plates, part #UP-001) for -3.5° front/-2.8° rear static camber",
+    "AP Racing Radi-CAL 6-piston front (355mm, part #CP9660-355) and 4-piston rear (330mm, part #CP9448-330) big brake kit with 2-piece floating rotors, titanium caliper pistons, and Ferodo DS2500 pads, paired with Goodridge 6AN braided stainless steel brake lines (part #20806)"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (part #RB-TM3P-001) with carbon fiber fenders (2.5\" front/3.0\" rear flares), custom aluminum reinforcement plates (part #RB-TM3P-002), and integrated canards (part #RB-TM3P-003) for 20mm front splitter extension",
+    "Vorsteiner V-FF107 forged 20\" wheels (9.5J ET30 front, 10.5J ET35 rear) in Hyper Silver finish with custom Tesla-specific offset adapters (part #VST-ADP-TM3P), wrapped in Michelin Pilot Sport Cup 2 R tires (245/35 R20 front, 275/30 R20 rear)",
+    "Seibon Carbon fiber hood (part #CF-HD-TM3P-001) with integrated NACA ducts (part #CF-HD-TM3P-002) for dual-motor heat extraction, paired with a custom Unplugged Performance carbon fiber rear diffuser (part #UP-002) featuring 3D-printed titanium exhaust outlets (part #UP-003)"
+  ]
+}

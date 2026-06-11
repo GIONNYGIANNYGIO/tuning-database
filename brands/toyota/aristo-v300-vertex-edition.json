@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "ARISTO V300 VERTEX EDITION",
+  "prestazioni": [
+    "2JZ-GTE (JZS161) engine: Full forged internals with Manley 9.0:1 compression pistons, Eagle H-beam connecting rods, and a Tomei 264°/264° camshaft kit with adjustable vernier pulleys for precise valve timing. Pair with a Garrett GTX4202R turbocharger (88mm compressor wheel, .82 A/R turbine housing) and a GReddy Type-S front-mount intercooler (4.5\" core, 22\" x 12\" x 4\" dimensions) for optimal heat dissipation at 1.5+ bar boost levels.",
+    "Fuel system overhaul: Replace stock fuel injectors with ID1000x injectors (1000cc/min) and install a Walbro 450LPH in-tank fuel pump. Add a Radium Engineering dual catch can system (PCV and CCV separation) and a Tomei M82 fuel rail to support E85 blends. Pair with a Link G4+ Xtreme standalone ECU for full flex-fuel and boost-by-gear mapping.",
+    "Drivetrain reinforcement: Install a OS Giken Twin Plate Super Lock clutch (260mm disc, 800 ft-lb torque capacity) with a lightweight aluminum flywheel. Replace the stock differential with a Cusco Type-RS 2-way LSD (4.625 final drive ratio) and upgrade half-shafts to Driveshaft Shop Stage 3 units (3.5\" chromoly, 1450whp-rated). Pair with a KAAZ 1.5-way differential cooler for sustained high-load track use."
+  ],
+  "estetica": [
+    "Vertex Kamei III widebody kit (JZS161-specific, 30mm extended fenders, carbon fiber front splitter, and rear diffuser with integrated tow hooks). Replace stock hood with a Seibon carbon fiber vented hood (pre-preg, 3K twill weave, 50% weight reduction).",
+    "OEM+ interior: Replace stock seats with Bride Zeta III (fixed-back, FIA-approved) in black Alcantara with red stitching. Install a NRG Innovations quick-release steering wheel hub with a Momo Mod.77 (350mm, suede) and a Defi BF Advance multi-gauge pod (oil temp, boost, AFR) mounted on a custom A-pillar bracket.",
+    "Lighting and aerodynamics: Replace headlights with Morimoto XB LED projectors (5500K, 3000 lumens) and add Depo Racing JDM-spec side markers (clear lens, amber LED). Install a Veilside Fortune 03 rear wing (3-piece, carbon fiber, 1200mm width, adjustable angle) and a Cusco front strut bar (2-point, aluminum, 30% stiffer than stock) for chassis rigidity."
+  ]
+}

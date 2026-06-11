@@ -1,0 +1,14 @@
+{
+  "brand": "TESLA",
+  "model": "MODEL X PLAID",
+  "prestazioni": [
+    "Unitek Performance 3-in-1 Inverter Cooling System Upgrade for the tri-motor (Tesla code: 1045153-00-D) setup, ensuring sustained 1,020 hp output by eliminating inverter thermal throttling with dual 48V auxiliary pumps and a 12-row aluminum heat exchanger from Setrab USA (part #80112-12)",
+    "Garrett GTX5533R Gen II turbocharger conversion (Tesla-specific adapter kit by EV West, part #EVW-TURBO-XP) paired with a custom 4.5L air-to-water intercooler core from PWR (model #PWI4500) and a MoTeC M150 ECU reflash to manage boost levels up to 28 psi on 100-octane fuel",
+    "Tesla Model X Plaid-specific carbon ceramic brake kit by Brembo (part #P85/410) with 420mm front rotors and 6-piston calipers, paired with Ferodo DS2500 brake pads and Motul RBF 660 racing brake fluid for 1.2g deceleration from 150 mph"
+  ],
+  "estetica": [
+    "Liberty Walk LB-WORKS Model X Plaid widebody kit (part #LB-MXP-WB) with custom carbon fiber fenders, front splitter, and rear diffuser, finished in a 3M 2080 Satin Matte Graphite vinyl wrap with exposed carbon weave accents",
+    "Rocket Bunny V3 aero kit (Model X Plaid-specific, part #RB-MXP-V3) featuring a 3D-printed ABS rear wing with adjustable Gurney flaps and integrated LED brake light, paired with a custom front canard set from Seibon Carbon (part #MXP-CANARD-F)",
+    "OEM Tesla Model X Plaid headlights modified with LUX HID 5500K bulbs and Diode Dynamics SS3 Pro LED fog light inserts, combined with a custom RGBW underglow kit from Oracle Lighting (part #5712-0021) with Bluetooth control via the Oracle app"
+  ]
+}
