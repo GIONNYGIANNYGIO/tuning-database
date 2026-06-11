@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "ORIGIN",
+  "prestazioni": [
+    "Full built 3S-GTE Gen 3 (BEAMS) engine swap with forged internals: JE 87mm forged pistons (11.5:1 CR), Eagle H-beam connecting rods, ACL Race Series bearings, and Tomei 264°/264° camshafts with adjustable vernier pulleys for optimized lift and duration on the stock 3S-GTE head (port-matched to 30mm intake/26mm exhaust valves).",
+    "Garrett GTX3582R turbocharger with a custom 0.82 A/R turbine housing, paired with a GReddy Type-S intercooler (3.5\" core thickness) and a Tomei 44mm wastegate for precise boost control (targeting 1.5 bar on 98 RON fuel).",
+    "Haltech Elite 2500 ECU with a custom 3S-GTE Gen 3 plug-and-play harness, integrated with a Link G4+ CAN Lambda module and AEM X-Series wideband O2 sensor for closed-loop fueling. Supporting mods include a Walbro 450 LPH in-tank fuel pump, ID1000 injectors, and a custom 3-core radiator from Koyorad (GT-Spec) with dual SPAL 16\" puller fans."
+  ],
+  "estetica": [
+    "Rocket Bunny V1 Origin-specific widebody kit (front fenders, rear quarter panels, and rear bumper) with custom carbon fiber overfenders (15mm extended flares) and a 3M Gloss Black wrap with matte gunmetal accents on the OEM Origin badges.",
+    "Ohlins Road & Track coilovers (Origin-specific valving) with custom spring rates (8kg/mm front, 7kg/mm rear) and Swift Springs for linear damping, paired with Cusco Type RS 22mm front and 19mm rear adjustable sway bars for chassis rigidity.",
+    "Custom Origin-exclusive rear diffuser by Vertex Japan, fabricated from 3K twill carbon fiber, integrating dual 3.5\" titanium exhaust tips from HKS Hi-Power Spec-L (dual-mode valve-controlled system). Front lip is a custom 1-piece carbon fiber splitter by Seibon, reinforced with aluminum bracing for downforce stability at speed."
+  ]
+}

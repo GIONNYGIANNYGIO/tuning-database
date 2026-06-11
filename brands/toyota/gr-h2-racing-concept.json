@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "GR H2 RACING CONCEPT",
+  "prestazioni": [
+    "Replace the stock hydrogen fuel cell stack with a **Toyota Racing Development (TRD) H2-1200** high-output fuel cell system, capable of 1200 kW (1609 hp) peak output, paired with a **Bosch MS 28.1 hydrogen injection ECU** for real-time combustion optimization in the **G16E-GTS** 1.6L turbocharged inline-3 engine (modified for H2 combustion).",
+    "Install a **Garrett GTX5533R Gen II** turbocharger with a **Tial MV-R 60mm** external wastegate, running 3.5 bar (50 psi) of boost, mated to a **PWR Australia** 4.5L water-to-air intercooler with dual **SPAL 16\" high-flow fans** for sustained hydrogen combustion efficiency.",
+    "Upgrade the drivetrain with a **Xtrac P1297** 6-speed sequential transaxle (FIA GT3-spec), featuring a **AP Racing CP8660-4** carbon-carbon clutch and a **Quaife ATB helical LSD** for optimal power delivery to the **BBS FI21** 18\" forged magnesium wheels wrapped in **Michelin Pilot Sport Cup 2 R** (305/660R18 front, 325/705R18 rear) tires."
+  ],
+  "estetica": [
+    "Fit a **Liberty Walk LB-WORKS GR H2** widebody kit with **carbon fiber fenders** (2.5\" wider front, 3.0\" wider rear) and **custom aluminum honeycomb side skirts** for hydrogen tank cooling airflow optimization.",
+    "Install a **Rocket Bunny V3** rear diffuser with **active Gurney flaps** (controlled via **Motec C127 dash logger**) and a **custom titanium exhaust shroud** (housing the **HJS 200-cell hydrogen catalytic converter**) for thermal management and aesthetic integration.",
+    "Replace the stock headlights with **Osram Laser+ H2-Edition** adaptive LED projectors (1200 lumens, 6000K) and integrate **AEM X-Series** hydrogen pressure gauges into the **OMP HTE-R** carbon fiber steering wheel for real-time telemetry."
+  ]
+}

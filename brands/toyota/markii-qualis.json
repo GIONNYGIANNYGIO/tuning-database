@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "MARKII QUALIS",
+  "prestazioni": [
+    "Engine swap to a **2JZ-GTE VVTi** (from JZX100 Chaser/Tourer V) with a **Garrett GTX4202R** turbocharger (86mm compressor, 1.06 A/R turbine housing) paired with a **Tial MV-R 44mm wastegate** and **HKS GT-SS exhaust manifold** for optimized spool and top-end flow. Supporting mods include a **Tomei 264° camshaft** (intake/exhaust) with **BC valve springs** and **Ferrea titanium retainers**, along with a **Radium Engineering fuel surge tank** to prevent fuel starvation under lateral G-forces.",
+    "Full **GReddy Profec B Spec II** standalone ECU with **AEM 3.5bar MAP sensor** and **Innovate LM-2 wideband** for real-time AFR logging. Fuel system upgrades include **ID1000cc injectors**, **Walbro 450LPH in-tank pump**, and a **Radium Engineering dual catch can** to mitigate oil buildup in the intake tract. Transmission reinforcement via **OS Giken Super Lock LSD** and **PPG Stage 3 gearset** (4.875 final drive) for drag strip launches.",
+    "Suspension overhaul with **Öhlins Road & Track DFV coilovers** (custom valved for the Qualis' 1,450kg weight), **SuperPro poly bushings** (front control arms, subframe, and sway bar mounts), and **Cusco 22mm front / 19mm rear sway bars**. Braking system features **Brembo GT 6-piston calipers** (355mm rotors) up front with **Ferodo DS2500 pads**, **Project Mu 2-piston rear calipers**, and **Motul RBF660 brake fluid** for fade resistance."
+  ],
+  "estetica": [
+    "**Vertex Lang II** widebody kit (JDM-spec, fiberglass construction) with **Seibon carbon fiber hood** (dual vented, 5kg weight reduction) and **Veilside Fortune rear bumper** (modified to fit the Qualis' rear hatch). Aero includes a **Tom’s-style front lip spoiler** (polyurethane, bolt-on) and **C-West GT-style rear wing** (3-piece, adjustable angle).",
+    "OEM+ JDM styling cues: **Toyota Racing Development (TRD) Sportivo grille** (black mesh, no badge), **JIC Magic rear quarter window visors**, and **Work Emotion CR Kiwami** wheels (18x9.5 +15 front, 18x10.5 +25 rear) wrapped in **Yokohama Advan Neova AD09** (245/40/18 front, 275/35/18 rear). Fender flares painted **Gunmetal Gray (1G3)** to match the Vertex kit.",
+    "Interior stripped for weight savings: **Recaro SRD-II seats** (fixed-back, carbon shell) with **Takata Drift III harnesses**, **Nardi Classic 380mm steering wheel** (suede, 6-bolt hub), and **Defi BF Advance gauges** (oil pressure, boost, and water temp) mounted on a **Sparco carbon fiber A-pillar pod**. Roll cage is a **Custom Cages bolt-in 8-point** (mild steel, powder-coated matte black) with **Schroth Quick-Fit harness bar** for daily drivability."
+  ]
+}

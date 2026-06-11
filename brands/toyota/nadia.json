@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "NADIA",
+  "prestazioni": [
+    "Engine swap to a 3S-GTE Gen 4 (specifically the 3S-GTE from the ST205 Celica GT-Four) with a forged internals build including JE 87mm forged pistons, Eagle H-beam connecting rods, and a Tomei 264° camshaft set for high-RPM power delivery. Pair this with a Garrett GT3076R turbocharger (0.82 A/R turbine housing) and a custom 3.5-inch stainless steel turbo-back exhaust system by HKS Hi-Power with a 70mm tip for optimized spool and flow.",
+    "Full custom ECU tuning via Haltech Elite 2500 with individual cylinder trims, launch control, and flex-fuel compatibility. The fuel system is upgraded with a Walbro 450 LPH in-tank pump, ID1000 injectors, and a Tomei fuel pressure regulator to support 400+ hp on E85. The ignition system includes NGK Iridium IX spark plugs gapped at 0.028\" and a HKS Twin Power ignition amplifier for precise combustion control.",
+    "Suspension overhaul with Ohlins Road & Track DFV coilovers (custom valved for the SXN10 chassis), Cusco 22mm front and 19mm rear adjustable sway bars, and polyurethane bushings from Whiteline (part numbers KSB726 for front control arms and KSB727 for rear trailing arms). Braking is upgraded to Endless CC-RG6 330mm front rotors with 4-piston calipers and CC-RG4 300mm rear rotors with 2-piston calipers, paired with Ferodo DS2500 pads and Motul RBF 660 brake fluid."
+  ],
+  "estetica": [
+    "Full Rocket Bunny V1 widebody kit (SXN10-specific) with custom carbon fiber overfenders, front bumper canards, and a duckbill rear spoiler. The kit is painted in Toyota Super White II (040) with matte black accents on the lower cladding and side skirts. Front lip is replaced with a custom 3D-printed ABS unit from Vertex Tuning, designed for aggressive aero while maintaining OEM+ fitment.",
+    "OEM+ JDM styling cues including Toyota genuine SXN10 Aero Parts (front grille with black mesh, rear garnish with integrated LED reflectors, and side marker delete with smoked lenses). Wheels are Work Emotion CR Kiwami in 17x9 +30 front and 17x10 +35 rear, wrapped in Falken Azenis RT660 225/45/17 and 255/40/17 tires for staggered fitment. Wheel spacers are 15mm front and 20mm rear from 5Zigen for flush fitment.",
+    "Interior stripped and rebuilt with Bride Zeta III bucket seats (SXN10-specific mounting brackets), a Nardi Classic 350mm steering wheel with a Works Bell quick-release hub, and a custom roll cage by AutoPower (8-point bolt-in with harness bar). Gauges are Defi Advance BF series (oil pressure, oil temp, boost, and wideband AFR) mounted in a custom A-pillar pod. Shift knob is a TRD titanium unit with a weighted base, paired with a Cusco short shifter (25mm throw reduction)."
+  ]
+}

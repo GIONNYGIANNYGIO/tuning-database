@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "MR2 SW20",
+  "prestazioni": [
+    "3S-GTE (Gen 3) engine build with forged internals: JE 87mm forged pistons (9.5:1 CR), Eagle H-beam connecting rods, ACL Race Series bearings, and a Tomei 264°/260° camshaft set with adjustable vernier pulleys for precise valve timing. Paired with a Garrett GTX3076R turbocharger (0.82 A/R turbine housing) and a custom 3.5-inch stainless steel downpipe with a 4-inch external wastegate dump tube for optimized spool and top-end flow.",
+    "Full custom 3-inch stainless steel turbo-back exhaust system by HKS Hi-Power Spec-L, featuring a 70mm main diameter, 200-cell catalytic converter delete (replaced with a GReddy 94005 universal front pipe), and a Burns Stainless 4-inch oval muffler for aggressive yet tractable sound. The system is paired with a Tomei 4-1 equal-length header (1.75-inch primaries) and a custom 3-inch intercooler piping kit with silicone couplers from Vibrant Performance.",
+    "Standalone ECU management via Haltech Elite 2500 with a custom 3S-GTE Gen 3 base map, including individual cylinder fuel trims, launch control (3-step, 4,500 RPM limiter), and anti-lag system (ALS) for turbo spool retention. The setup includes a 4-bar MAP sensor, AEM 30-2012 wideband O2 controller, and a Link G4+ CAN Lambda module for real-time AFR monitoring. Suspension is fully adjustable with Ohlins Road & Track coilovers (2-way adjustable damping, 15-way rebound, and 12kg/mm front/10kg/mm rear springs) paired with Cusco Type RS 22mm front and 19mm rear sway bars."
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (SW20-specific) with custom carbon fiber overfenders (25mm wider front, 35mm wider rear), paired with a Veilside Fortune 03 rear bumper and a custom 3D-printed front splitter with integrated canards (AeroCatch quick-release mounts). The kit includes a custom carbon fiber duckbill spoiler (30% larger than OEM) with a Gurney flap for rear downforce.",
+    "Full custom interior overhaul featuring Bride Zeta III bucket seats (Sabelt 6-point harnesses), a NRG Innovations quick-release steering wheel hub with a Momo Mod.78 wheel, and a custom roll cage by Custom Cages (8-point, TIG-welded 4130 chromoly, with integrated harness bars and door bars). The dashboard is replaced with a carbon fiber panel from Seibon, housing a digital dash from AIM MXS Strada (1.3-inch display) and a custom switch panel for ALS/launch control.",
+    "Exterior lighting upgraded to Hella 500 Series projectors (HID low beams, LED high beams) with a custom LED DRL strip integrated into the front bumper. The rear features a custom LED taillight setup with sequential turn signals (using Osram LED chips) and a smoked lens overlay. Wheels are Work Meister S1 3P (17x9 +18 front, 17x10.5 +30 rear) with custom gold powdercoat, wrapped in Toyo R888R tires (245/40/17 front, 275/35/17 rear)."
+  ]
+}

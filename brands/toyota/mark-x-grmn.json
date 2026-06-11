@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "MARK X GRMN",
+  "prestazioni": [
+    "Upgrade to a **Garrett GTX3582R Gen II turbocharger** (82mm compressor, 62mm turbine) paired with a **Tomei 82mm titanium-aluminide turbine housing** for the **2GR-FSE (3.5L V6)** to achieve 550whp on E85 with a **GReddy Profec B Spec II** boost controller and **HKS SSQV5** blow-off valve",
+    "Full **TODA Racing 2GR-FSE stroker kit** (88mm forged crank, 10.5:1 compression pistons, H-beam rods) with **TODA Racing Type-R camshafts** (272° duration, 10.5mm lift) and **Ferrea 6000 series titanium valves** with **Supertech dual valve springs** for 8,500 RPM redline",
+    "Custom **Radium Engineering dual fuel pump hanger** with **Dual Bosch 044 pumps** and **ID1700x injectors**, paired with a **Haltech Elite 2500 ECU** for flex-fuel tuning and **AEM X-Series wideband O2 sensors** for closed-loop E85 correction"
+  ],
+  "estetica": [
+    "**Rocket Bunny V3 widebody kit** (GRMN-specific fender flares, carbon fiber overfenders, and custom rear diffuser) with **Voltex Type-5 rear wing** (carbon fiber, 1,200mm span, 3D-printed GRMN-specific mounts)",
+    "**Varis Japan GRMN-spec front bumper** (carbon fiber, integrated canards, and custom ducting for the **Koyorad Quad Core 53mm radiator**) with **Seibon carbon fiber hood** (GRMN-specific venting, 30% weight reduction)",
+    "**Work Emotion CR Kiwami wheels** (19x10.5 +15 front, 19x11.5 +25 rear, 5x114.3, 8.5kg per wheel) with **Michelin Pilot Sport Cup 2 R tires** (275/30/19 front, 305/30/19 rear) and **AP Racing 6-piston front/4-piston rear calipers** with **DBA 5000 Series rotors**"
+  ]
+}

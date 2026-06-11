@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "LAND CRUISER PRADO",
+  "prestazioni": [
+    "1GD-FTV (2.8L Turbo Diesel) engine: Garrett GTX3582R turbo upgrade with billet compressor wheel, 0.82 A/R turbine housing, and 3D-printed titanium wastegate actuator bracket for reduced lag and 320+ hp at 2.2 bar boost (stock: 177 hp). Paired with a custom 3.5-inch stainless steel downpipe by HKS with 200-cell catalytic converter for emissions compliance in Japan/EU markets.",
+    "Full fuel system overhaul: Injector Dynamics ID1700x fuel injectors, Walbro 450 LPH in-tank pump, and a Radium Engineering dual-port fuel pressure regulator to support E85 flex-fuel tuning via Haltech Elite 2500 ECU with CAN bus integration for live data logging via AIM MXS Strada dash.",
+    "Chassis-specific suspension: Öhlins TTX40 2-way adjustable coilovers with 800 lb/in front springs and 600 lb/in rear springs, paired with SuperPro polyurethane bushings (part #SPF1001K) for the front lower control arms and rear trailing arms to eliminate flex under high-torque off-road conditions. Rear sway bar upgraded to a 22mm adjustable Whiteline unit (part #BTR75XZ)."
+  ],
+  "estetica": [
+    "Widebody conversion using a Liberty Walk LB-PRADO kit (2018+ J150 model-specific) with carbon fiber fender flares, front splitter, and rear diffuser. Custom 3M Matte Military Green wrap with satin black accents on the roof and pillars.",
+    "Front bumper replacement with a ARB Summit bumper (part #3521120) modified with a custom LED light bar integration (Baja Designs Squadron Pro 50-inch) and a Warn Zeon 12-S winch with synthetic rope. Rear bumper swapped for a C4 Fab rear bumper (part #C4-150-RB) with dual swing-out tire carriers and a RotopaX 4-gallon fuel can mount.",
+    "Wheel setup: Method MR701 VT Spec wheels in 17x9 +12 offset (front) and 17x10 +18 offset (rear) with Toyo Open Country M/T tires (285/70R17 front, 295/70R17 rear). Custom center caps with engraved Prado J150 badges and red anodized valve stems from TPU Performance."
+  ]
+}

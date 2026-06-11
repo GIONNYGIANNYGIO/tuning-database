@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "LAND CRUISER J200",
+  "prestazioni": [
+    "1VD-FTV (4.5L V8 Twin-Turbo Diesel) engine: Garrett GTX4202R turbochargers with billet compressor wheels, upgraded to 1.3 bar boost, paired with a custom 3.5-inch stainless steel exhaust system featuring a dual-mode Valvetronic setup by Akrapović for on/off-road sound modulation. Includes a Denso fuel pump upgrade to 300 LPH and 30% larger Bosch injectors for E85 compatibility.",
+    "Full Ohlins TTX46 coilover suspension with 3-way adjustable damping, custom valving for the J200’s 3,210 kg weight, and reinforced top mounts by SuperPro. Includes a 35mm front sway bar and 28mm rear sway bar from Whiteline, paired with poly bushings for chassis rigidity.",
+    "PWR Australia radiator with dual 450W electric fans, a Setrab 50-row oil cooler for the 1VD-FTV, and a custom intercooler setup with a 4.5L core from Bell Intercoolers, reducing intake temps by 30°C under sustained load. ECU reflash via Ecutek RaceROM with launch control, flat-foot shifting, and a custom torque split map for the Torsen LSD."
+  ],
+  "estetica": [
+    "Liberty Walk LB Works widebody kit for J200 (2015-2021 facelift), featuring carbon fiber fenders with integrated air vents, a custom front splitter with canards, and a rear diffuser with dual exhaust cutouts. Painted in Toyota ‘Burning Black’ with matte bronze accents.",
+    "Rocket Bunny rear wing (Type 2) with adjustable carbon fiber blades, mounted on custom aluminum pedestals for a 15-degree angle. Includes a custom LED taillight setup with sequential turn signals and smoked lenses by Vland.",
+    "BBS RF-X II 22-inch forged wheels in matte gold, 9.5J front and 11J rear with 285/35R22 and 325/30R22 Michelin Pilot Sport Cup 2 tires. Brake upgrade to AP Racing 6-piston calipers (front) and 4-piston (rear) with 400mm rotors, paired with Ferodo DS2500 pads."
+  ]
+}

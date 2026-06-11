@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "PREMIO",
+  "prestazioni": [
+    "Engine swap to 2GR-FKS (3.5L V6, 310hp stock) with a custom ECU flash from HKS V-Pro II (2GR-specific map) to optimize direct and port injection timing, paired with a Garrett GTX3076R turbo (0.82 A/R turbine housing) for 450whp on E85 fuel, using a Tomei 272° camshaft (intake/exhaust) and HKS Hi-Power exhaust with 70mm titanium tips",
+    "Full bolt-on reinforcement with TRD 2GR-FKS engine mounts, Cusco 1.5-way limited-slip differential (800Nm torque capacity), and a Koyoritsu 4-piston brake kit (356mm rotors, 6-piston calipers) with Endless CC-R brake pads for fade resistance under repeated 0-100kph launches",
+    "Suspension overhaul with Tein Flex Z coilovers (8kg/mm front, 6kg/mm rear springs) adjusted for -2.5° front camber via Cusco pillowball upper mounts, paired with Whiteline 24mm front and 22mm rear adjustable sway bars to eliminate body roll in high-speed cornering (tested on Fuji Speedway’s 100R turn)"
+  ],
+  "estetica": [
+    "Vertex Lang II widebody kit (front fenders + rear quarter panels) with custom carbon fiber overfenders to fit 275/30R19 Michelin Pilot Sport Cup 2 tires on Work Emotion CR Kiwami wheels (19x9.5 +35 offset front, 19x10.5 +40 rear)",
+    "Seibon carbon fiber hood (vented, 3kg weight reduction) with a custom dual-core aluminum radiator from Koyoritsu to prevent heat soak, paired with a Veilside Fortune front bumper (JDM-spec, no fog lights) and a custom 3D-printed rear diffuser from Rocket Bunny (Type 3, 3-inch diffuser tunnels)",
+    "Interior stripped and reinforced with a Bride Zeta III reclining bucket seat (fixed-back, FIA-approved) on a Cusco bolt-in roll cage (8-point, chromoly steel), wrapped in Alcantara with red stitching (MOMO Steering Wheel 350mm, NRG quick-release hub), and a custom gauge cluster from Defi Advance BF (oil temp, boost, wideband AFR, 300kPa MAP sensor)"
+  ]
+}

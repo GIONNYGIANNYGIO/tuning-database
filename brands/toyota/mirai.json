@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "MIRAI",
+  "prestazioni": [
+    "Forced-induction conversion using a **Garrett GT2860RS-5** turbocharger (compatible with the **8ZR-FXE** hydrogen fuel cell hybrid engine) paired with a **GReddy Type-S intercooler** and **HKS Racing Suction Relocation Kit** to optimize airflow for the Mirai's unique air intake system, while retaining the stock hydrogen fuel cell stack for emissions compliance.",
+    "Custom **AEM Infinity 8** standalone ECU reflash to recalibrate the **8ZR-FXE**'s hybrid powertrain, integrating a **Motec PDM15** power distribution module to manage the dual electric motor (front and rear) torque split, with a **Dynojet Power Vision** overlay for real-time hydrogen flow adjustments under boost.",
+    "Upgraded **D2 Racing coilovers** with **Eibach ERS race springs** (25mm drop) and **SuperPro poly bushings** for the Mirai's **TNGA-K platform**, paired with a **Cusco 2-way LSD** to mitigate torque steer from the rear electric motor under aggressive acceleration."
+  ],
+  "estetica": [
+    "**Veilside Fortune 03** widebody conversion kit (modified for Mirai's hydrogen tank clearance) with **Seibon carbon fiber hood** and **Rocket Bunny rear diffuser** to accommodate the GT2860RS turbo setup while improving downforce.",
+    "**Work Emotion CR Kiwami** 19x9.5 +35 front and 19x11 +40 rear wheels (staggered) wrapped in **Michelin Pilot Sport Cup 2** tires (245/35/19 front, 295/30/19 rear) for optimal grip, paired with **Brembo GT 6-piston calipers** and **DBA 5000 Series rotors** for hydrogen-powered braking demands.",
+    "**J's Racing carbon fiber side skirts** and **Tommy Kaira rear spoiler** (modified for Mirai's aerodynamic profile), with **VLED 9000K HID headlights** and **Morimoto Euro-style taillights** to enhance the futuristic aesthetic while maintaining OEM+ fitment."
+  ]
+}

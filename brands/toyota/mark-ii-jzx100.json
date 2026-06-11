@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "MARK II JZX100",
+  "prestazioni": [
+    "1JZ-GTE (Rev3) engine build with forged internals: Tomei 87mm forged pistons, Eagle H-beam connecting rods, and a Tomei Type-M 264° camshaft for optimized high-RPM power delivery (targeting 600+ hp on E85 with minimal lag).",
+    "Turbocharger upgrade to a Garrett GTX4202R with a custom 0.82 A/R turbine housing and billet compressor wheel, paired with a GReddy Type-S intercooler (JZX100-specific core) and HKS SSQV4 blow-off valve for precise boost control (32 psi max).",
+    "Fuel system overhaul: Injector Dynamics ID1700x injectors, Walbro 450 LPH in-tank pump, and a Tomei high-flow fuel rail, controlled via a Link G4+ Xtreme standalone ECU with custom 1JZ-GTE Rev3 base maps and flex-fuel sensor integration."
+  ],
+  "estetica": [
+    "Vertex Lang II JZX100-specific widebody kit with carbon fiber front fenders, rear quarter panels, and a custom 3-piece rear diffuser for aggressive stance and aero balance (paired with Work Meister S1 3P 18x10.5 +15 wheels).",
+    "JUN Auto GT-ADVAN front bumper lip with integrated canards and a Veilside Fortune II rear wing (JZX100-specific mounting brackets) for downforce at high speeds (tested in wind tunnel for 120+ mph stability).",
+    "Custom interior: Bride Zeta III bucket seats with Takata 4-point harnesses, Nardi Classic 380mm steering wheel, and a full JZX100-specific roll cage (Weld Racing 1.75\" DOM tubing) with bolt-in door bars for chassis rigidity and safety."
+  ]
+}

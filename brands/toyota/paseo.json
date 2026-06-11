@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "PASEO",
+  "prestazioni": [
+    "5E-FHE (4A-GE 20V swap) with Toyota Racing Development (TRD) 20V Group A camshafts (264° duration, 10.5mm lift) and HKS 264° adjustable cam gears for optimized valve timing, paired with a Tomei 4-1 stainless steel header (EL-01) and custom 3-inch exhaust system featuring a Fujitsubo Giken AX-101 titanium muffler for reduced backpressure and weight savings",
+    "Garrett GT2560R turbocharger (0.63 A/R turbine housing) with a custom top-mount intercooler (GReddy Type-S) and HKS SSQV blow-off valve, fed by a Walbro 255 LPH fuel pump and AEM 320cc/min high-impedance injectors, controlled via a Haltech Elite 1500 ECU with custom 5E-FHE base maps and launch control",
+    "Full chassis reinforcement with Cusco front strut tower bar (Type-RS), Cusco rear subframe brace (Paseo-specific), and TRD front lower arm braces, paired with Ohlins Road & Track DFV coilovers (custom valving for 5E-FHE power levels) and Whiteline adjustable rear sway bar (22mm) for reduced body roll and improved turn-in response"
+  ],
+  "estetica": [
+    "Rocket Bunny V1 widebody kit (Paseo-specific, 3-piece overfenders) with custom carbon fiber front splitter and rear diffuser, finished in BASF Glasurit 90-Line 'Lime Gold' with matte black accents for aggressive stance and aerodynamic efficiency",
+    "Work Meister S1 3P 15x8.5 +25 wheels (ET25) wrapped in Toyo R888R 205/50R15 tires, paired with DBA 4000 Series slotted rotors and Project Mu HC+ ceramic pads for improved braking performance and heat dissipation",
+    "Custom interior roll cage (6-point, TIG-welded 4130 chromoly) by AutoPower Industries, upholstered in Recaro SRD (Paseo-specific) seats with Takata 4-point harnesses, and a Nardi Classic 350mm steering wheel with NRG quick-release hub for enhanced driver control and safety"
+  ]
+}

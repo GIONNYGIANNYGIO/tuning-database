@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "MIRAI SECOND GENERATION",
+  "prestazioni": [
+    "Replace the stock **M15A-FKS** 1.5L turbocharged hydrogen fuel cell hybrid powertrain's **PCU (Power Control Unit)** with a **Toyota Gazoo Racing (TGR) custom ECU reflash** optimized for 30% higher hydrogen flow rates, paired with a **Bosch Motorsport high-pressure hydrogen injector upgrade (0280158123)** to sustain 120 kW (161 hp) output under sustained boost (stock: 113 kW/152 hp).",
+    "Install a **Garrett GT1549S turbocharger** (modified for hydrogen compatibility with Inconel 718 turbine wheel) on the **M15A-FKS** auxiliary internal combustion engine, mated to a **Tial 44mm external wastegate** and **GReddy Profec B Spec II boost controller** to target 1.2 bar (17.4 psi) peak boost, reducing turbo lag by 40% while maintaining fuel cell efficiency.",
+    "Upgrade the **Mirai’s hybrid battery cooling system** with a **PWR Australia custom intercooler kit** (aluminum core, 500x200x76mm) for the **Toyota Hybrid Synergy Drive (HSD) inverter**, paired with a **SPAL 16\" high-flow electric fan (VA30-AP70/LL)** to prevent thermal throttling during track use, ensuring consistent 0-100 km/h (0-62 mph) times of 8.8 seconds (stock: 9.2s)."
+  ],
+  "estetica": [
+    "Fit a **Liberty Walk LB Works Mirai (2nd Gen) widebody kit** (carbon fiber fenders, front/rear bumpers, and side skirts) with **custom 3M Matte Graphite vinyl overwrap** to reduce weight by 12 kg while accommodating **Work Emotion CR Kiwami 19x9.5 +30 wheels** (245/35R19 Michelin Pilot Sport Cup 2 tires).",
+    "Replace the stock **Mirai LED headlights** with **Morimoto XB LED Projector Retrofit (H11/H9 bulb swap)** and **Depo Racing JDM-style sequential turn signals**, paired with a **Seibon Carbon fiber hood** (vented, 30% weight reduction) and **Rally Armor UR mud flaps (custom Mirai cutouts)** for aggressive stance.",
+    "Install a **Veilside Fortune 03 rear diffuser** (carbon fiber, 3-piece) with **custom titanium exhaust tips (Akrapovič 76mm dual outlets)** to mimic a twin-exit setup, paired with a **Tommy Kaira ZZII-style rear spoiler** (carbon fiber, adjustable angle) for 15% more downforce at 160 km/h (100 mph)."
+  ]
+}

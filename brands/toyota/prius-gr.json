@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "PRIUS GR",
+  "prestazioni": [
+    "Engine swap to Toyota's 2.0L turbocharged *M20A-FKS* (from the GR Corolla/GR Yaris) with a *Garrett GTX3071R* turbocharger, *HKS Hi-Power 45mm* wastegate, and *TODA Racing* forged internals (pistons, connecting rods, and crankshaft) to handle 400+ HP on *E85 fuel* with a *Haltech Elite 2500* standalone ECU managing direct and port injection.",
+    "Full *D2 Racing* GR-spec coilover kit with 32-way adjustable damping, *SuperPro* poly bushings (front control arms, rear trailing arms), and *Cusco* 22mm front / 18mm rear sway bars for chassis rigidity, paired with *Brembo GT 6-piston* front and *4-piston* rear calipers on *DBA 5000 Series* rotors for fade-resistant braking.",
+    "Custom *Tomei* 4-2-1 exhaust manifold with *Sard* 3-inch downpipe and *Apexi N1 Evolution* cat-back exhaust, coupled with a *GReddy Profec E01* boost controller and *Injector Dynamics ID1050x* fuel injectors to optimize airflow and fuel delivery under forced induction."
+  ],
+  "estetica": [
+    "*Rocket Bunny V3* widebody kit with carbon fiber overfenders, front splitter, and GT wing (modified for Prius GR chassis mounting points), including *Seibon* carbon fiber hood with functional vents for intercooler airflow.",
+    "*Work Emotion CR Kiwami* 18x9.5 +35 front and 18x10.5 +40 rear wheels wrapped in *Michelin Pilot Sport Cup 2* 245/40/18 and 275/35/18 tires, paired with *Project Kics* lug nuts and *Muteki SR48* wheel spacers for aggressive stance.",
+    "*Anodized purple* *Cusco* strut tower brace, *Sparco* carbon fiber racing seats with *Schroth* 6-point harnesses, and a *Momo* *Mod.77* steering wheel with quick-release hub, complemented by *Defi BF* gauges (boost, oil pressure, EGT) mounted in a *JDM Garage* custom A-pillar pod."
+  ]
+}

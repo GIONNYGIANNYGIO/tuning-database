@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "MR2 SW20 GT-S",
+  "prestazioni": [
+    "3S-GTE (Gen 3) engine rebuild with forged internals: JE 87mm forged pistons (9.0:1 CR), Eagle H-beam connecting rods, ACL Race Series bearings, and a Tomei 264°/264° camshaft set with adjustable vernier pulleys for optimized lift and duration (11.5mm intake, 11.0mm exhaust).",
+    "Turbocharger upgrade to a Garrett GT3076R .63 A/R with a custom 3-inch stainless steel downpipe (Turbonetics) and a GReddy Type-S intercooler (front-mount, 600x220x76mm core) paired with a HKS SSQV blow-off valve (V2) and a custom 3-inch aluminum charge pipe setup.",
+    "Fuel system overhaul: Walbro 450 LPH in-tank fuel pump, Injector Dynamics ID1000 fuel injectors (1000cc/min), AEM 320LPH inline fuel pump (for surge protection), and a Link G4+ Xtreme standalone ECU with a custom 3D-printed intake manifold adapter for individual throttle bodies (ITBs) from Jenvey Dynamics (45mm bore)."
+  ],
+  "estetica": [
+    "Rocket Bunny V2 widebody kit (SW20-specific) with custom carbon fiber overfenders (100mm wider front, 120mm wider rear) and a custom 3M Gloss Black wrap with red pinstriping (3M 1080 series, color code 2020).",
+    "Ohlins Road & Track DFV coilovers (SW20-specific valving) with custom spring rates (8kg/mm front, 10kg/mm rear) and polyurethane bushings (Energy Suspension) for the rear trailing arms and front control arms. Rear strut tower brace replaced with a Cusco Type RS 2-point unit (22mm diameter).",
+    "Custom rear diffuser and front splitter from Seibon Carbon (SW20-specific) with a 3D-printed ABS underbody tray for improved aerodynamics. Rear wing upgrade to a Veilside Fortune II GT wing (carbon fiber, 1,500mm width) with custom aluminum mounts and adjustable angle (0-15 degrees)."
+  ]
+}

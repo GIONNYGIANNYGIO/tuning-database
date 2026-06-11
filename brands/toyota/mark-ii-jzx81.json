@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "MARK II JZX81",
+  "prestazioni": [
+    "1JZ-GTE (non-VVTi) engine rebuild with forged internals: Tomei 87mm forged pistons, Eagle H-beam connecting rods, and a billet crankshaft for 1.5mm overbore (88mm) to achieve 2.7L displacement, supporting 1.4 bar boost with a Garrett GT3582R turbo (compressor wheel trimmed to 0.82 A/R for spool optimization on the JZX81's long-runner intake manifold).",
+    "Custom 3.5-inch stainless steel turbo-back exhaust system by HKS Hi-Power Spec-L, featuring a 4-2-1 merge collector (304-grade stainless) and a 100mm titanium-tipped muffler (HKS Super SQV4 blow-off valve integrated into the piping for pressure relief).",
+    "Haltech Elite 2500 ECU with a custom 4D ignition map calibrated for E85 fuel (flex-fuel sensor integration) and a dual-stage nitrous oxide system (NOS 55002 Big Shot Fogger kit) with progressive controller for 150hp supplemental shots at 6,500 RPM (activated via paddle shifter trigger)."
+  ],
+  "estetica": [
+    "Vertex Lang II widebody conversion kit (JZX81-specific, retaining OEM rain gutters and marker light recesses) with custom carbon fiber overfenders (150mm flares, dry carbon by Seibon) and relocated rear quarter windows (shaved and bonded, no OEM glass).",
+    "Work Meister S1 3P 17x9.5 +15 front / 17x10.5 +25 rear wheels (ET-adjusted for JZX81 hubs) wrapped in Toyo R888R 245/40/17 and 275/35/17 tires, paired with custom poly bushings (SuperPro 90A durometer) and Ohlins Road & Track coilovers (JZX81-specific valving, 8kg/mm front / 9kg/mm rear springs).",
+    "Custom front bumper lip by Rocket Bunny (JZX81-specific mold, no fog light delete) with integrated carbon fiber canards (dry carbon by APR Performance) and a rear diffuser by Veilside Fortune (modified to fit JZX81's OEM bumper cutouts, 3D-printed ABS end caps for exhaust clearance)."
+  ]
+}

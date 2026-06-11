@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "PRIUS PRIME GR",
+  "prestazioni": [
+    "Hybrid powertrain recalibration targeting the 2ZR-FXE 1.8L Atkinson-cycle I4 + dual-motor MG1/MG2 system (80 kW combined output) via a **K-Tuned Hybrid ECU Flash (PRIUS-GR-SPEC v2.1)**, optimizing torque split for 0-60 mph in 6.2s (stock: 10.3s) while maintaining 52 MPGe efficiency via regenerative braking mapping adjustments",
+    "Forced induction upgrade using a **Garrett GT1241Z turbocharger (0.42 A/R, 52mm inducer)** on the 2ZR-FXE via a **GReddy E-Manage Ultimate piggyback controller**, paired with a **HKS Super Power Flow SSQV4 blow-off valve** and **Toda Racing forged pistons (9.5:1 CR)** to handle 12 psi of boost (stock: NA) with **NGK IFR8H-11S iridium spark plugs** for sustained combustion stability",
+    "Drivetrain reinforcement with a **OS Giken Super Lock LSD (1.5-way, 40% preload)** in the e-CVT housing, **Toyota Racing Development (TRD) carbon-fiber driveshaft**, and **AP Racing CP8845-1000 2-piece front brake rotors** with **Ferodo DS2500 pads** for 30% shorter braking distances (60-0 mph: 98 ft vs. stock 140 ft)"
+  ],
+  "estetica": [
+    "Full **Rocket Bunny V3 Prius Prime GR-widebody kit (PANEL-001GR)** with **custom 3M 2080-G120 Gloss Black wrap** and **Vortex Generators** on the rear hatch for 15% reduced lift at 80 mph (CFD-tested)",
+    "OEM+ lighting upgrade featuring **Morimoto XB LED headlights (5500K, 3000 lumens)** with **Diode Dynamics SS3 Pro LED fog lights**, paired with **VLEDS 3157 Hyper White reverse bulbs** and a **custom GReddy E01 exhaust tip (110mm dual-wall, titanium finish)**",
+    "Interior overhaul with **Recaro SP-G (GR Edition) front seats (carbon-fiber shell, Alcantara/leatherette upholstery)**, **NRG Innovations Quick Release Steering Hub (Toyota GR pattern)** paired with a **MOMO Mod.78 350mm suede wheel**, and **AEM X-Series 30-0300 wideband gauge (mounted in a custom GR-branded A-pillar pod)**"
+  ]
+}

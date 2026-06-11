@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "MARK II JZX90",
+  "prestazioni": [
+    "1JZ-GTE (Rev3) engine build with forged internals: Tomei 87mm forged pistons, Eagle H-beam connecting rods, and a Tomei Type-M 264° camshaft kit for optimized high-RPM power delivery (targeting 550whp on E85 with minimal lag).",
+    "Garrett GTX3582R turbocharger (0.82 A/R turbine housing) paired with a custom 3.5-inch stainless steel turbo-back exhaust featuring a HKS Hi-Power 70mm wastegate and a GReddy Profec B Spec II boost controller for precise 22psi spool management.",
+    "Haltech Elite 2500 standalone ECU with a custom 1JZ-GTE Rev3 base map, integrated with a Link G4+ CAN Lambda module and AEM 3.5bar MAP sensor for real-time fuel and ignition trimming under high-load conditions."
+  ],
+  "estetica": [
+    "Vertex Lang II JZX90-specific widebody kit (front fenders, rear quarter panels, and rear bumper) with custom carbon fiber overfenders to clear 10.5-inch Work Meister S1 3P wheels (ET15) wrapped in 265/35R18 Toyo R888R tires.",
+    "Veilside Fortune 03 rear wing (JZX90-specific mounting brackets) with a custom 3D-printed Gurney flap for adjustable downforce, paired with a C-West front lip and custom canards for aggressive aero balance.",
+    "Full interior overhaul with Bride Zeta III bucket seats (JZX90-specific mounting brackets), a Nardi Classic 380mm steering wheel, and a custom roll cage (half-cage with bolt-in rear strut bar) fabricated by AutoPower Japan for chassis rigidity."
+  ]
+}

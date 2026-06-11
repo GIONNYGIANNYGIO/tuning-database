@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "LAND CRUISER J80",
+  "prestazioni": [
+    "1HD-FTE 4.2L turbo-diesel engine (12-valve, direct injection) upgraded with a BorgWarner EFR 8374 turbocharger (0.92 A/R, 76mm compressor, 64mm turbine) paired with a custom 3.5-inch stainless steel exhaust system featuring a MagnaFlow 18192 catalytic converter and a Burns Stainless 4-into-1 merge collector for optimized spool and reduced backpressure",
+    "Full fuel system overhaul with a Bosch 044 high-flow lift pump (220 LPH), Siemens Deka 80lb/hr injectors (PN: 6216801), and a custom ECU remap via a Unichip PnP Q4 plug-in tuner calibrated for 350+ hp and 600+ lb-ft of torque with EGT monitoring via AEM 30-2012 wideband controller",
+    "Suspension reinforcement with Ohlins TTX40 coilovers (24-way adjustable damping, 2.5-inch diameter pistons) paired with Polyurethane Bushings Australia (PBA) full chassis bushings (part #PBA-J80-FULL) and a custom-fabricated front sway bar (28mm solid, adjustable end links) to reduce body roll during high-speed desert runs"
+  ],
+  "estetica": [
+    "Rocket Bunny J80-specific widebody kit (Pandem J80 V1) with carbon fiber fender flares, custom front splitter, and rear diffuser, all finished in a matte military green (Gunze Sangyo H424) with a satin clear coat for UV resistance",
+    "Custom rear bumper delete with a hand-fabricated steel rear bumper featuring integrated dual recovery points, a Warn Zeon 12-S winch (synthetic rope, 12,000 lb capacity), and a pair of Rigid Industries D-Series Pro LED pods (50-inch, amber) for auxiliary lighting",
+    "Interior stripped and rebuilt with a full custom roll cage (8.5-point, TIG-welded 4130 chromoly) by Custom Cages Australia, Recaro SRD seats (cloth/Alcantara, FIA-approved), and a Momo Prototipo steering wheel (350mm, suede) paired with a NRG Innovations quick-release hub"
+  ]
+}

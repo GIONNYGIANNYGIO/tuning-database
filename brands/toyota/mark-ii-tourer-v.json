@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "MARK II TOURER V",
+  "prestazioni": [
+    "1JZ-GTE (2.5L inline-6) forced-induction upgrade: Replace stock CT26 turbo with a Garrett GTX3582R Gen II turbocharger (0.82 A/R turbine housing, billet compressor wheel) paired with a Tomei 80mm titanium wastegate for precise boost control at 1.5 bar (21.7 psi).",
+    "Fuel system overhaul: Install a Walbro 450 LPH in-tank fuel pump, ID1000x injectors (1000cc/min), and a Sard 1000cc top-feed fuel rail with -6AN fittings to support 600+ WHP on E85. Pair with a Link G4+ Xtreme ECU for sequential fuel/timing control and flex-fuel compatibility.",
+    "Drivetrain reinforcement: Replace the stock R154 transmission with a JZZ30 Soarer-spec R154 5-speed (close-ratio) paired with a OS Giken 2.2L twin-plate clutch and lightweight flywheel. Upgrade the rear diff to a TRD 2-way LSD with 4.10:1 gearing and reinforced axles from a JZX100 Chaser Tourer V."
+  ],
+  "estetica": [
+    "Widebody conversion: Install a Veilside Fortune 99 widebody kit (JDM-spec, fiberglass construction) with custom front fender flares to clear 275/35R18 tires on Work Meister S1 3P wheels (18x9.5 +15 ET).",
+    "Aerodynamics: Fit a C-West JZX100 Tourer V-specific front lip, carbon fiber side skirts, and a TRD-style rear wing (adjustable angle, 3D carbon weave) with integrated brake light. Add a custom aluminum undertray for front splitter support and airflow management.",
+    "Interior: Replace stock seats with Bride Euro II (fixed-back) recliners in black Alcantara with red stitching, paired with a Nardi Classic 350mm steering wheel (deep-dish, suede) and a Defi BF Advance multi-gauge pod (oil temp, boost, fuel pressure) mounted on the A-pillar."
+  ]
+}

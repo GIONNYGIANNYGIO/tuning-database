@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "NOAH HYBRID",
+  "prestazioni": [
+    "Hybrid powertrain recalibration for the 2AR-FXE 2.5L inline-4 + electric motor (152 hp + 143 hp combined) via HKS Hyper Max IV GT ECU reflash, optimizing torque split for a 60:40 front-rear bias and removing hybrid system power limitations for a 20% increase in electric motor assist during 3,000-5,000 RPM bursts",
+    "Garrett GT2259S turbocharger upgrade with custom 3D-printed titanium compressor housing (designed specifically for the Noah's 2AR-FXE engine bay constraints) paired with a Tomei 80mm stainless steel exhaust manifold and GReddy Profec B Spec II boost controller for 12 psi peak boost, targeting 280 whp on 98 RON fuel",
+    "Full KW Clubsport coilover suspension with 3-way adjustable damping (compression/rebound/height), custom-valved for the Noah's 850mm wheelbase and 1,700kg curb weight, paired with Cusco 22mm front and 19mm rear sway bars and Whiteline front camber plates for -2.5 degrees of static camber"
+  ],
+  "estetica": [
+    "Liberty Walk LB Works widebody conversion kit (Noah-specific, not a rebadged Alphard/Vellfire kit) with carbon fiber fenders, custom 3-piece overfenders, and integrated LED side markers, requiring rear quarter panel modification for +80mm track width",
+    "Seibon Carbon fiber hood with integrated NACA ducts (designed to feed the Garrett turbocharger's intercooler) and custom dual 40mm hood vents for heat extraction, finished in matte clear coat with exposed carbon weave",
+    "Work Emotion CR Kiwami 18x9.5 +38 wheels with 245/40R18 Yokohama Advan Neova AD09 tires, paired with custom 5x114.3 to 5x100 PCD adapters (forged aluminum, 25mm thick) and Project Mu 4-piston front/2-piston rear brake calipers with 330mm rotors (Noah-specific, requiring custom caliper brackets)"
+  ]
+}

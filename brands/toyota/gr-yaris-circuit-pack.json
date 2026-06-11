@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "GR YARIS CIRCUIT PACK",
+  "prestazioni": [
+    "G16E-GTS (1.6L turbocharged inline-3) forced induction upgrade: Garrett GTX3071R Gen II turbocharger with billet compressor wheel, 0.63 A/R turbine housing, and 3D-printed titanium anti-surge compressor cover to handle 35 psi boost (stock turbo maxes at ~22 psi). Paired with a Tomei 80mm titanium wastegate and custom 3.5\" stainless steel downpipe with V-band clamps for reduced backpressure.",
+    "Engine internals reinforcement: JE Pistons 2618 forged slugs with 9.5:1 compression ratio, coated in Mahle Grafal for thermal barrier, paired with Eagle H-beam connecting rods and ACL Race Series bearings. The crankshaft is balanced to 2g tolerance and cryo-treated by Crankshaft Coalition. The head is ported by HKS with 1mm oversized Ferrea intake/exhaust valves and Supertech dual valve springs.",
+    "Fuel and ignition system: Injector Dynamics ID1700x direct-port injectors with custom fuel rails by Radium Engineering, fed by a Walbro 450 LPH in-tank pump and AEM 340lph external pump. Ignition is handled by a standalone Link G4+ Xtreme ECU with individual cylinder knock control, paired with NGK R7437-10 iridium spark plugs gapped at 0.024\". The fuel system is supplemented by a Nitrous Express GenX Direct Port kit with a 100-shot progressive controller for track-only use."
+  ],
+  "estetica": [
+    "Custom carbon fiber widebody kit by Rocket Bunny (GR Yaris-specific, not the generic Evo/VW kit) with extended fenders, front splitter, and rear diffuser. The kit includes a 3D-printed ABS underbody tray with integrated cooling ducts for the rear brakes and differential. Painted in Toyota Racing Development (TRD) \"Circuit Gray\" with matte black accents and red pinstriping by Dr. ColorChip.",
+    "Ohlins TTX40 2-way adjustable coilovers with 30-way rebound damping and 12-way compression damping, paired with custom-valved front/rear helper springs (Eibach 1000 lb/in front, 800 lb/in rear). The suspension is further stiffened with Cusco front and rear strut tower bars, and a full polybush kit from SuperPro (part #SPF1001K for front control arms, SPF1002K for rear).",
+    "Aerodynamic enhancements: Voltex Type-3 rear wing with 1,200mm span and 3D-printed Gurney flap, mounted on carbon fiber pedestals. The front bumper is modified with a custom 3D-printed splitter extension (20mm longer than stock) and integrated canards by APR Performance. The rear diffuser is replaced with a carbon fiber unit from Seibon, featuring vortex generators and a central exhaust exit for the Tomei 3.5\" titanium exhaust system."
+  ]
+}
