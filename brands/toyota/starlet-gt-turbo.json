@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "STARLET GT TURBO",
+  "prestazioni": [
+    "Engine: 4E-FTE (1.3L turbocharged inline-4) – Full forged internals including JE 8.5:1 compression pistons, Eagle H-beam connecting rods, and ACL Race Series bearings for 25psi+ boost capability. Stock crankshaft retained with balanced assembly by Tomei.",
+    "Turbocharger: Garrett GT2860RS-5 (Journal Bearing) with 0.64 A/R turbine housing and 57 trim compressor wheel, paired with a custom 3-inch stainless steel downpipe and HKS SSQV4 blow-off valve for precise spool and minimal lag.",
+    "Fuel System: Walbro 450LPH in-tank fuel pump, ID1000x injectors, and AEM 340lph inline fuel pump with -6AN hardlines, controlled via Haltech Elite 1500 ECU with flex-fuel sensor and individual cylinder trims for E85 compatibility."
+  ],
+  "estetica": [
+    "Body Kit: TRD N1 replica widebody conversion (1996-spec) with custom carbon fiber front splitter by Varis and rear diffuser by Rocket Bunny, retaining OEM pop-up headlights with Hella H4 100W bulbs and yellow foglight delete.",
+    "Suspension: Ohlins Road & Track DFV coilovers with 22-way adjustable damping, polyurethane bushings (SuperPro 63mm front control arms), and Cusco 22mm front / 19mm rear adjustable sway bars for JDM Group A rally compliance.",
+    "Wheels: Work Meister S1 3P 15x8 +15 ET (front) and 15x9 +18 ET (rear) in matte gunmetal, wrapped in Toyo R888R 195/50R15 (front) and 225/45R15 (rear) tires, with custom 5x100 to 4x100 hubcentric adapters by Weld Racing."
+  ]
+}

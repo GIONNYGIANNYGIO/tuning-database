@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "RAV4 TRD",
+  "prestazioni": [
+    "Engine: Replace the stock 2.5L Dynamic Force (A25A-FXS) hybrid powertrain with a **Toyota Racing Development (TRD) Supercharger Kit** (part #TRD-00601700), featuring a **Eaton TVS2300 roots-type supercharger**, custom TRD intercooler, and a **GReddy E-Manage Ultimate piggyback ECU** to manage boost levels at 8 psi while retaining the hybrid system's electric motor (MG2) for seamless torque fill. Pair with **HKS Hi-Power exhaust** (cat-back, 70mm dual outlets) and **APR GTC-200 carbon fiber intake** for optimized airflow.",
+    "Suspension: Install **Öhlins Road & Track DFV (Dual Flow Valve) coilovers** (part #TOY04-RT-A00), specifically valved for the RAV4 TRD's **TNGA-K platform**, with **polyurethane bushings from Whiteline** (part #W51210) for the front control arms and **SuperPro rear trailing arm bushings** (part #SPF0116K) to eliminate compliance. Add **H&R Sport Springs** (part #29142-1) for a 20mm drop if coilovers are not desired, paired with **Cusco front strut bar** (part #637 540 A) to stiffen the chassis.",
+    "Drivetrain: Upgrade to a **TRD 4.300 final drive ratio** (part #41201-35160) in the **UA80 transaxle** to improve acceleration, paired with a **Peloquin LSD** (part #PQ-10112) for the front differential. Replace the stock **225/60R18 tires** with **Michelin Pilot Sport Cup 2 Connect** (245/40R19) on **Enkei PF07** wheels (19x9 +35 offset) for maximum grip, and install **Project Mu HC+ 951 brake pads** with **DBA 5000 Series rotors** (slotted, 326mm front/309mm rear) for fade-resistant stopping power."
+  ],
+  "estetica": [
+    "Aero: Fit the **Liberty Walk LB Works RAV4 widebody kit** (part #LB-RAV4-2020-WB), including carbon fiber fender flares, front splitter, and rear diffuser. Add a **Seibon Carbon hood** (part #TOY-RAV4-20-HOOD) with functional vents to reduce underhood temps, and a **Rocket Bunny rear wing** (part #RB-W001) for downforce. Paint the kit in **PPG Toyota Performance Red (3R3)** with matte black accents.",
+    "Lighting: Replace stock headlights with **Morimoto XB LED projectors** (part #XB-HL-TOY19) and **Lux H8 V4 LED fog lights** (part #LX-H8-V4). Install **Oracle Lighting RGB halo rings** (part #5712-0013) in the taillights and **Diode Dynamics SS3 Pro LED turn signals** (part #DD-1500141) for a modern look. Tint all lights with **Llumar ATR window film (20% VLT)** for a stealthy appearance.",
+    "Interior: Swap the stock seats for **Recaro Sportster CS** (part #29100SPG) with **Schroth Profi II-6 harnesses** (part #R3126). Replace the steering wheel with a **NRG Innovations 350mm deep-dish wheel** (part #NRG-ST-301) wrapped in **Nappa leather with red stitching**, paired with a **TRD shift knob** (part #PT275-35110) for the automatic transmission. Add **AEM X-Series digital gauges** (part #30-0300) in a **JDM-style A-pillar pod** to monitor boost, AFR, and oil temps."
+  ]
+}

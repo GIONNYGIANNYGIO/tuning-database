@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "SPRINTER TRUENO AE86 APEX",
+  "prestazioni": [
+    "4A-GE 20V 'Blacktop' engine swap (4A-GE 20V 4th gen, 7,600 RPM redline, 165-180 HP stock, ported by Tomei for 220 HP with ITBs) paired with a T50 5-speed close-ratio transmission (Toyota Racing Development spec, 2.31:1 1st gear) and a Cusco 2-way LSD (250 Nm torque capacity)",
+    "Full HKS 264°/256° camshafts (AE86-specific grind, 11.2mm lift) with adjustable HKS cam gears, HKS Hi-Power 4-2-1 stainless header (AE86-specific primaries), and a custom 3-inch stainless exhaust with a Fujitsubo Giken AX50 muffler (2.5-inch dual outlets, 92 dB at 4,500 RPM)",
+    "Custom ECU tune via Haltech Elite 1500 (AE86-specific base map, sequential injection, 3-bar MAP sensor) with a GReddy Profec B-Spec II boost controller (for future turbo upgrade) and a Tomei Type-S fuel pump (255 L/hr, E85 compatible) feeding 750cc ID1000 injectors (AE86-specific flow-matched set)"
+  ],
+  "estetica": [
+    "Rocket Bunny V1 AE86 widebody kit (front fenders + rear overfenders, 3-piece bolt-on, 15mm wider track) with custom carbon fiber front splitter (90mm overhang, 3M VHB tape + aluminum supports) and a Veilside Fortune rear diffuser (AE86-specific, 3-piece ABS plastic)",
+    "TRD N2 replica rear wing (AE86-specific, 3M carbon fiber, 120mm chord, 650mm span) mounted on Cusco aluminum wing risers (30mm height, 5° adjustable angle) with a custom LED third brake light integrated into the wing base",
+    "OEM+ JDM-spec AE86 Levin front bumper (blackout, no fog lights) with custom Hella Micro DE fog lights (35W, 4,500K, AE86-specific mounting brackets) and a custom carbon fiber hood (Seibon, 30% weight reduction, AE86-specific hinge reinforcement plates)"
+  ]
+}

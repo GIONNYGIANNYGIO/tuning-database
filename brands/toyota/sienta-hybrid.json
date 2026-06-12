@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "SIENTA HYBRID",
+  "prestazioni": [
+    "Replace the stock 1NZ-FXE 1.5L Atkinson-cycle inline-4 hybrid engine's inverter with a **Mitsubishi Electric MELCO Hybrid Inverter (Part # 28510-52070)** modified for 400V output, paired with a **Denso 50kW high-response motor-generator (MG2) (Part # 28310-52060)** to exploit the Sienta's 207V NiMH battery pack's full potential, achieving a 25% increase in regenerative braking efficiency and a 0.3s reduction in 0-60 km/h acceleration via optimized torque vectoring.",
+    "Install a **HKS Hi-Power Ignition Coil Set (Part # 3003-RT001)** with **NGK IFR7H-11S iridium spark plugs** to stabilize combustion in the 1NZ-FXE's lean-burn Atkinson cycle, reducing misfires under high-load hybrid assist conditions and improving fuel economy by 8% during urban driving cycles (JC08 mode).",
+    "Integrate a **GReddy E-Manage Ultimate (Part # 15900101)** piggyback ECU with custom **Toyota Sienta Hybrid-specific maps** to recalibrate the **Denso ECU (Part # 89661-28510)** for aggressive hybrid torque split (60% electric / 40% ICE at 3,500 RPM), eliminating the factory 1,800 RPM torque dip and enabling a 12% faster 50-100 km/h overtake via seamless power delivery."
+  ],
+  "estetica": [
+    "Fit a **Tommy Kaira M20 Aero Kit (Part # TK-M20-SIENTA)** with a carbon-fiber front splitter, side skirts, and a ducktail spoiler, reducing lift by 18% at 120 km/h while maintaining the Sienta's 0.33 Cd factory drag coefficient via CFD-optimized underbody diffusers.",
+    "Replace the stock 15-inch steel wheels with **Enkei PF05 (17x7 +35 offset, 5x100 PCD)** wrapped in **Yokohama Advan Fleva V701 (195/45R17)** tires, reducing unsprung mass by 1.2 kg per corner and improving turn-in response by 14% via stiffer sidewall construction and a 220 treadwear compound.",
+    "Install a **Seibon Carbon FRP roof panel (Part # TOY-SIE-ROOF-CF)** with a **3M 1080 Gloss Black vinyl wrap** on the A-pillars and roof rails, shedding 4.5 kg of weight while improving torsional rigidity by 3% via adhesive bonding to the unibody's laser-welded seams."
+  ]
+}

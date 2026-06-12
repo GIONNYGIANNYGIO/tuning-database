@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "RAIZE G",
+  "prestazioni": [
+    "Forced induction upgrade via HKS Super SQV4 blow-off valve paired with a Garrett GT1549 turbocharger (compatible with the **WA10 1.0L 3-cylinder turbocharged engine code 1KR-VET**), supporting up to 0.8 bar of boost for a targeted 180 hp at the wheels while retaining the stock internals with reinforced connecting rods (Toyota Racing Development forged rods).",
+    "Custom ECU reflash by EcuTek ProECU, optimized for the **1KR-VET** engine with a focus on eliminating the factory torque dip at 3,500 RPM, implementing a 20% faster throttle response via pedal mapping adjustments, and integrating a flex-fuel sensor (Continental 5WK96615) for E85 compatibility with revised ignition timing and fuel maps.",
+    "Full exhaust system replacement featuring a custom 3-inch diameter stainless steel downpipe (hand-fabricated by Fujitsubo) with a 200-cell catalytic converter, paired with a Tomei 80mm titanium exhaust system (Raize G-specific fitment) and a custom 3-inch resonator delete for maximum flow while maintaining street legality in Japan (JASMA-certified)."
+  ],
+  "estetica": [
+    "Liberty Walk LB Works RAIZE G widebody kit (front fenders, rear quarter panels, and rear bumper), designed specifically for the WA10 chassis with aggressive 30mm flares and integrated carbon fiber side skirts, finished in a custom matte 'Deep Ocean Blue' wrap with gloss black accents.",
+    "Ohlins Road & Track DFV coilovers (Raize G-specific valving) with 30-way adjustable damping and 40mm of front/rear drop, paired with Cusco front strut bar (22mm diameter, aluminum construction) and a custom rear upper strut brace (fabricated by Spoon Sports for the WA10 chassis).",
+    "Full carbon fiber aero package including a Varis Japan front lip spoiler (Raize G-specific, 3-piece design), a custom 3D-printed rear diffuser (ABS plastic with carbon fiber weave overlay), and a Seibon carbon fiber hood (heat-extracted, 1.5kg weight reduction) with a functional central vent for improved engine bay cooling."
+  ]
+}

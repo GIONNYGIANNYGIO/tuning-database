@@ -1,0 +1,15 @@
+{
+  "brand": "TOYOTA",
+  "model": "PROBOX",
+  "prestazioni": [
+    "Engine swap to 2NZ-FE (1.3L) with a custom forced-induction setup using a Garrett GT2860RS turbocharger, paired with a Tomei 260° camshaft and HKS Hi-Power exhaust manifold for optimized spool and flow. Upgraded internals include JUN forged pistons (8.5:1 compression) and Eagle H-beam connecting rods to handle 1.5 bar of boost, targeting 220 hp at the wheels.",
+    "Full custom wiring harness by Wireworks Japan to integrate a Haltech Elite 1500 ECU, managing sequential fuel injection with ID1000X injectors and a Walbro 255 lph fuel pump. The setup includes a custom intercooler core from GReddy (Type-S) and a HKS SSQV4 blow-off valve for precise boost control.",
+    "Suspension overhaul with Tein Flex Z coilovers (specifically valved for the Probox's NCP50 chassis), reinforced with Cusco front strut tower bars and a Whiteline rear sway bar (22mm). Braking is upgraded with DBA 4000 Series rotors and Project Mu 999.9 pads, paired with stainless steel braided lines from Goodridge.",
+    "Drivetrain reinforcement with a KAAZ 1.5-way limited-slip differential and a custom lightweight flywheel from Fidanza, mated to a 6-speed manual transmission from a Toyota Vitz RS (K110) with a custom bellhousing adapter. Clutch is a Spec Stage 3+ with a reinforced pressure plate."
+  ],
+  "estetica": [
+    "Full Rocket Bunny V1 widebody kit (Probox-specific, not a generic fitment) with custom carbon fiber overfenders and a vented hood from Seibon Carbon. Rear diffuser is a custom 3D-printed unit from a Japanese boutique tuner (K-Speed).",
+    "OEM+ exterior styling with Toyota Racing Development (TRD) Sportivo front bumper lip (discontinued, Probox-specific) and a custom rear roof spoiler from Vertex Lang. Wheels are Work Emotion CR Kiwami (15x8 +35) with Toyo R888R tires (195/50R15).",
+    "Interior stripped and reinforced with a custom roll cage from AutoPower (8-point, bolt-in) and Bride Zeta III seats with Schroth 6-point harnesses. Dashboard is replaced with a custom carbon fiber panel from Varis, housing a Defi BF gauges (oil pressure, boost, and wideband AFR) and a Momo Mod.78 steering wheel."
+  ]
+}

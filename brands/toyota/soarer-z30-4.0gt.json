@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "SOARER Z30 4.0GT",
+  "prestazioni": [
+    "Engine: Replace the stock 1UZ-FE V8 (4.0L, 250hp) with a fully built 1UZ-FE featuring forged internals (JE 8.5:1 pistons, Eagle H-beam rods, ACL Race Series bearings), a custom billet crankshaft (Manley), and a ported/polished cylinder head with oversized Ferrea valves (1mm larger intake, 0.8mm larger exhaust) and Tomei Type-R camshafts (272° duration, 11.0mm lift). Pair with a custom intake manifold (HKS Hi-Power) and a Haltech Elite 2500 ECU for standalone management.",
+    "Forced Induction: Install a Garrett GTX4202R turbocharger (0.96 A/R, ball-bearing) with a custom top-mount intercooler (GReddy Type-RS, 40mm core) and a Tomei M82 titanium wastegate. Use a custom 3.5-inch stainless steel turbo-back exhaust (Sparco) with a 5-inch titanium tip and a Tomei 4-2-1 equal-length header. Boost target: 18 psi on 98 RON fuel with a custom fuel system (Walbro 450LPH pump, ID1000 injectors, Aeromotive FPR).",
+    "Drivetrain & Suspension: Swap the stock A340E 4-speed auto for a reinforced A340E with a Level 10 valve body and a 3000-stall torque converter (PTC). Install a Cusco 2-way LSD in the rear. Replace the stock suspension with Ohlins Road & Track coilovers (custom valving for Z30 chassis) and polyurethane bushings (Energy Suspension). Add a Cusco front strut bar and a custom 3-point rear subframe brace (Battle Version)."
+  ],
+  "estetica": [
+    "Body Kit: Install a full Rocket Bunny V1 widebody kit (Z30-specific, 30mm wider front fenders, 40mm wider rear) with carbon fiber overfenders and a custom front splitter (Seibon Carbon). Add a custom ducktail spoiler (Vertex) and a carbon fiber hood (Veilside, 5kg weight reduction).",
+    "Wheels & Stance: Fit Work Meister S1 3P wheels (18x10 +15 front, 18x11 +25 rear) with custom offsets for flush fitment. Use Toyo R888R tires (265/35/18 front, 295/30/18 rear) and roll/pull the fenders for clearance. Lower the car 50mm with Ohlins coilovers and add custom camber plates (Cusco) for -3.5° front camber.",
+    "Interior & Details: Replace the stock seats with Bride Zeta III (black Alcantara, red stitching) and install a custom roll cage (Sparco Pro2000, 6-point). Add a custom gauge cluster (Defi Advance BF, 100mm) with oil pressure, boost, and wideband AFR. Use a Momo Mod.78 steering wheel (350mm, suede) and a custom shift knob (Tomei, titanium). Exterior: Full 3M Matte Graphite vinyl wrap with gloss black accents on the roof and mirrors."
+  ]
+}

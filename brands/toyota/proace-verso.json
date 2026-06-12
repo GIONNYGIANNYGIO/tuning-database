@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "PROACE VERSO",
+  "prestazioni": [
+    "Engine swap to PSA/Ford-sourced 2.0L DW10FC (RDE2) turbodiesel (engine code: DW10FC) with a BorgWarner EFR 7670 turbo (86mm compressor, 62mm turbine) and custom 3.5-inch stainless steel downpipe from Milltek Sport, paired with a Dimsport Genius 2.0 ECU remap targeting 280hp and 600Nm torque with EGR/DPF/AdBlue delete (legality varies by region).",
+    "Full drivetrain reinforcement: Sachs Performance dual-mass flywheel (part #3000951001) for the DW10FC, upgraded clutch kit from Valeo (part #834002) with cerametallic friction material, and a Quaife ATB helical LSD (part #QDF7J) for the front axle to handle increased torque.",
+    "Suspension overhaul with KW Clubsport coilovers (3-way adjustable, part #35241001) featuring 40mm front/30mm rear lowering, reinforced top mounts from Powerflex (part #PFF80-611/612), and Eibach Pro-Spacer wheel spacers (20mm front, 25mm rear) to correct scrub radius post-lowering. Braking upgraded to Alcon 6-piston front calipers (part #ALC-KF1-406) with 355mm two-piece rotors and Ferodo DS2500 pads, paired with Goodridge G-Stop braided stainless steel brake lines."
+  ],
+  "estetica": [
+    "Custom widebody conversion using a 3D-scanned Toyota Proace Verso-specific Rocket Bunny/Pandem kit (part #RB-TOY-PROACE-VERSO) with carbon fiber fenders, front splitter, and rear diffuser, all finished in BASF R-M Diamond White pearl with matte black accents. Kit includes extended wheel arches to accommodate 9.5J ET30 front and 10.5J ET35 rear BBS RS-GT II wheels (18x9.5/10.5, part #RSGT2-18-95/105-5x118).",
+    "Full interior rewrap in Alcantara (Autostyle part #AS-TOY-PROACE-INT) with custom Recaro Sportster CS seats (part #390-0100) mounted on custom floor mounts (part #REC-390-MNT-PROACE) and a MOMO Mod.78 steering wheel (part #0111200111) with quick-release hub. Roll cage from Custom Cages (part #CC-TOY-PROACE-6PT) in 4130 chromoly with bolt-in rear strut brace.",
+    "Aerodynamic package: Custom carbon fiber roof spoiler from Seibon (part #CF-TOY-PROACE-ROOF), side skirts from Varis Japan (part #VAR-TOY-PROACE-SS), and a custom 3D-printed active rear wing (inspired by Toyota GR Supra) with adjustable angle via electric actuators (part #AERO-TOY-PROACE-ACTIVE). Full dechrome with Lamin-X clear protective film on badges and trim."
+  ]
+}

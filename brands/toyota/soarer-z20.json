@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "SOARER Z20",
+  "prestazioni": [
+    "Engine swap to a 1JZ-GTE VVTi (2.5L inline-6, 86mm bore, 71.5mm stroke) with a Tomei 264°/264° camshaft kit, HKS 272° adjustable cam gears, and a Garrett GTX3076R turbocharger (0.82 A/R turbine housing) running 1.2 bar of boost on a custom 3-inch stainless steel exhaust with a Tomei 76mm titanium exhaust valve and HKS Hi-Power 4-2-1 header",
+    "Full forged internals including JUN 87mm forged pistons (8.5:1 compression), Eagle H-beam connecting rods, and a Tomei Type-M 76mm stroker crankshaft, paired with a Koyoritsu 1JZ-GTE oil pump and a Setrab 50-row oil cooler with AN-10 lines",
+    "Haltech Elite 2500 standalone ECU with a custom 1JZ-GTE VVTi base map, AEM X-Series wideband O2 sensor, and a HKS EVC-S electronic boost controller, feeding a Tomei 80mm titanium throttle body and a custom 3.5-inch aluminum intake plenum with a K&N 9-inch cone filter"
+  ],
+  "estetica": [
+    "Vertex Lang II widebody kit (Z20-specific, 30mm extended fenders front/rear) with custom carbon fiber overfenders, paired with a Veilside Fortune 03 front bumper and a custom 3D-printed rear diffuser with integrated dual 4-inch exhaust outlets",
+    "Ohlins Road & Track coilovers (Z20-specific valving, 20-way adjustable damping) with Cusco pillowball upper mounts and custom 25mm extended wheel studs, fitted with Work Meister S1 3P 18x10.5 +15 and 18x12 +30 wheels (ET0) wrapped in Toyo R888R 275/35/18 and 315/30/18 tires",
+    "Full custom interior with Bride Zeta III bucket seats (Z20-specific mounting brackets), a Nardi Classic 380mm steering wheel on a NRG quick-release hub, and a custom roll cage (6-point, TIG-welded 4130 chromoly) with a Cusco bolt-in X-brace for chassis rigidity"
+  ]
+}

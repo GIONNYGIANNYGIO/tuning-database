@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "SUPRA A70",
+  "prestazioni": [
+    "7M-GTE (2.5L inline-6) forced induction upgrade with a Garrett GT35R turbocharger (0.82 A/R turbine housing, 60mm compressor inducer) paired with a Tomei 264°/264° camshaft set (11.5mm lift) and HKS 272-degree adjustable cam gears for optimized spool and top-end power",
+    "Custom 3-inch stainless steel turbo-back exhaust system by Trust/GReddy with a 4-2-1 equal-length header (304-grade stainless, 1.8mm wall thickness) and a HKS Hi-Power SSQV blow-off valve to prevent compressor surge under aggressive shifts",
+    "Haltech Elite 2500 standalone ECU with a custom 7M-GTE-specific fuel and ignition map, utilizing ID1000x injectors (1000cc/min) and a Walbro 450LPH in-tank fuel pump, paired with a Tomei Type-S fuel pressure regulator (1:1 ratio) for consistent fuel delivery under boost"
+  ],
+  "estetica": [
+    "Veilside Fortune 99 widebody conversion kit (FRP construction, bolt-on fender flares with integrated LED turn signals) paired with a custom carbon fiber hood by Seibon (Type-20, 50% weight reduction over OEM)",
+    "OEM+ JZA70-specific Work Meister S1 3P wheels (17x9.5 +22 front, 17x10.5 +30 rear) with Toyo R888R tires (245/40/17 front, 275/35/17 rear) and custom extended wheel studs (M12x1.5, 50mm length) for aggressive fitment",
+    "Custom rear diffuser by Rocket Bunny (version 2, ABS plastic with carbon fiber weave overlay) and a Cusco front lip spoiler (JZA70-specific, urethane construction) for improved aerodynamics and aggressive stance"
+  ]
+}

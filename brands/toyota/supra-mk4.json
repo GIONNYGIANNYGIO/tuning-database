@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "SUPRA MK4",
+  "prestazioni": [
+    "2JZ-GTE engine with a fully built internals package featuring Manley forged 9.0:1 compression pistons, Eagle H-beam connecting rods, and a Tomei 264°/264° camshaft set for high-RPM power delivery (1,200+ HP capable with supporting mods).",
+    "Garrett GTX5533R Gen II turbocharger (88mm inducer, 1.32 A/R turbine housing) paired with a custom 4-inch stainless steel downpipe and a GReddy Type-R front-mount intercooler (4.5L core volume) for optimized spool and heat dissipation.",
+    "Haltech Elite 2500 standalone ECU with a custom 2JZ-GTE flex-fuel map (E85 compatible), AEM 3.5bar MAP sensor, and dual Bosch 044 fuel pumps feeding ID1700x injectors, controlled via a Radium Engineering dual catch can system to prevent oil contamination."
+  ],
+  "estetica": [
+    "Veilside Fortune 99 widebody conversion kit (JDM-spec, carbon fiber fenders and overfenders) with a custom 3M Matte Graphite vinyl wrap and OEM-style Toyota Racing Development (TRD) badges on the rear quarters.",
+    "Rocket Bunny V3 rear wing (carbon fiber, 1,200mm span) mounted on custom aluminum pedestals with adjustable angle settings, paired with a Seibon carbon fiber hood (vented, 3-piece design) and a custom front splitter from 996 Designs (3D-printed ABS, 4-inch overhang).",
+    "Work Meister S1 3P 18x10.5 +20 (front) and 18x12 +30 (rear) wheels with Toyo R888R tires (275/35/18 front, 315/30/18 rear), wrapped in a custom two-tone gold/piano black finish with JDM-spec yellow BBS center caps."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "RAIZE",
+  "prestazioni": [
+    "Daihatsu DNGA-K1 1.0L turbocharged WA-VEX engine (engine code: 1KR-VET) upgraded with a Garrett GT1549S turbocharger (5500rpm spool threshold) and HKS Hi-Power 4-2-1 stainless steel exhaust manifold with 38mm primary tubes for optimized scavenging",
+    "Haltech Elite 1500 standalone ECU with custom 20x20 ignition and fuel maps, paired with ID1000x injectors (1000cc/min) and a Radium Engineering dual-catch can setup for the PCV system to eliminate boost pressure leaks under 22psi",
+    "Tein Flex Z coilovers (front: 5kg/mm, rear: 6kg/mm spring rates) with 24-way adjustable damping and custom top mounts from Cusco for subframe reinforcement, paired with Whiteline 22mm adjustable rear sway bar (part #BMR79X) to mitigate understeer in high-G corners"
+  ],
+  "estetica": [
+    "Liberty Walk LB Works RAIZE-specific widebody kit (front fenders +25mm, rear fenders +30mm) with carbon fiber overfenders and custom 3M Gloss Black wrap on the OEM plastic cladding for weight reduction",
+    "Seibon Carbon RAIZE GT-style hood (part #TOY-RAIZE-HOOD) with integrated NACA ducts for intercooler airflow, paired with a custom front splitter from Varis Japan (35mm overhang, 3D-printed ABS with aluminum reinforcement)",
+    "Work Emotion CR Kiwami wheels (17x7.5 +38 offset, 5x114.3 PCD) in Hyper Silver finish, wrapped in Yokohama Advan A052 semi-slick tires (215/40R17) with custom red anodized lug nuts from Muteki (part #MR-LN01)"
+  ]
+}

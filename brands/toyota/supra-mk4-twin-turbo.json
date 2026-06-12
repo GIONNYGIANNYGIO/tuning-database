@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "SUPRA MK4 TWIN TURBO",
+  "prestazioni": [
+    "2JZ-GTE engine: Full forged internals with Manley 9.0:1 compression pistons, Eagle H-beam connecting rods, and a Tomei 264°/260° camshaft kit with adjustable vernier pulleys for precise valve timing. Paired with a Garrett GTX4202R turbocharger (1.05 A/R turbine housing) and a Precision 5862 ball-bearing turbo for sequential twin-turbo setup, supporting 850+ HP on E85 fuel with a custom BorgWarner EFR wastegate.",
+    "Fuel system: Dual Bosch 044 high-flow fuel pumps, Injector Dynamics ID1700x injectors, and a Radium Engineering dual catch can setup with AN-6 lines to prevent oil buildup in the intake tract. Custom Motec M150 ECU with flex-fuel sensor and individual cylinder tuning for optimal AFR consistency.",
+    "Drivetrain: OS Giken 2.2L twin-plate clutch with billet flywheel, reinforced R154 transmission with PPG straight-cut gears (1st: 2.314, 2nd: 1.913, 3rd: 1.391), and a Cusco 2-way LSD with 4.30 final gear ratio for drag strip launches. Custom driveshaft from Driveshaft Shop with 3.5-inch aluminum tubing and CV joints rated for 1,000+ lb-ft torque."
+  ],
+  "estetica": [
+    "Widebody conversion: Veilside Fortune 03 aero kit with custom carbon fiber overfenders (3.5-inch wider front, 4-inch wider rear) and extended rocker panels. Full carbon fiber hood from Seibon with integrated NACA ducts for intercooler cooling.",
+    "Suspension: Ohlins Road & Track coilovers with 8-way adjustable damping, Cusco front and rear sway bars (24mm front, 22mm rear), and polyurethane bushings from SuperPro for reduced compliance. Custom subframe reinforcement plates from Buddy Club to eliminate flex under hard cornering.",
+    "Interior: Bride Zeta III bucket seats with Takata 4-point harnesses, custom roll cage from AutoPower with bolt-in door bars, and a custom carbon fiber dashboard overlay with a Motec C127 digital dash display. Full sound deadening removal with Dynamat Xtreme applied to the firewall and floor for weight reduction."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "TACOMA TRD PRO",
+  "prestazioni": [
+    "3.5L 2GR-FKS V6 (308hp stock) forced induction via Garrett GTX3582R turbocharger with billet compressor wheel, 64mm turbine, and 0.82 A/R turbine housing, paired with a Tomei 80mm titanium wastegate for precise boost control up to 18psi on E85 fuel",
+    "Full bolt-on internals upgrade including Manley forged pistons (9.0:1 compression), Eagle H-beam connecting rods, and ACL Race Series main/rod bearings, paired with a GSC Power-Division Stage 2 camshaft (224°/230° duration, 0.550\" lift) for optimized airflow in the 2GR-FKS",
+    "Custom Motec M150 ECU with flex-fuel sensor and dual Bosch 028 high-flow fuel pumps, feeding ID1000x injectors and a Radium Engineering fuel pressure regulator, while a CSF aluminum radiator with dual SPAL 16\" fans ensures thermal stability under sustained boost"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (Tacoma-specific) with carbon fiber fenders, overfenders, and front bumper, paired with a custom 3M Gloss Black wrap and red pinstriping for aggressive stance and wheel clearance",
+    "Ohlins DFV 2.0 coilovers with 3-way adjustable damping (compression/rebound/height) and 2.5\" front/2.0\" rear drop, paired with Whiteline adjustable sway bars (24mm front, 22mm rear) and poly bushings for chassis rigidity",
+    "Custom bed cage fabricated from 1.5\" DOM tubing with integrated LED light bar mounts and a Rhino Rack Pioneer platform, finished in powder-coated TRD Pro Cement Gray to match the factory color scheme"
+  ]
+}

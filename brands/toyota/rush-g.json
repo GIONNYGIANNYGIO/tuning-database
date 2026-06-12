@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "RUSH G",
+  "prestazioni": [
+    "Engine swap to a Toyota 2TR-FE (2.7L inline-4, 16-valve DOHC) with a forged internals kit from Tomei, including forged pistons (87.5mm bore, 10.2:1 compression), billet connecting rods (H-beam design), and a reinforced crankshaft with balanced counterweights for high-RPM stability (redline extended to 7,200 RPM).",
+    "Forced induction via a Garrett GT2860RS turbocharger (0.63 A/R turbine housing, 60mm compressor wheel) paired with a custom 3-inch stainless steel turbo manifold from HKS, featuring equal-length runners and a T4 flange for optimized exhaust gas flow. Supporting mods include a GReddy Type-S intercooler (core dimensions: 600x300x76mm) and a custom 3-inch aluminum charge piping system with silicone couplers from Blitz.",
+    "Fuel system upgrade with a Walbro 450 LPH in-tank fuel pump, Injector Dynamics ID1000x injectors (1,000cc/min flow rate), and a Haltech Elite 2500 standalone ECU with a custom calibration map for E85 compatibility. Additional supporting mods include a custom 3-core aluminum radiator from Koyorad (32mm thickness) and a Davies Craig EWP150 electric water pump for consistent coolant flow under high-load conditions."
+  ],
+  "estetica": [
+    "Custom widebody conversion using a Liberty Walk LB-RUSH kit (fender flares, front/rear bumpers, and side skirts) with carbon fiber overfenders (25mm extended wheel arches) and a custom 3M Gloss Black wrap with matte gunmetal accents on the roof and mirrors.",
+    "Suspension overhaul with a full Ohlins Road & Track DFV kit (coilovers with 24-way adjustable damping, 30-way adjustable rebound, and 80mm of ride height adjustment) paired with custom polyurethane bushings from SuperPro (part numbers: SPF0115K for front control arms, SPF0116K for rear trailing arms) and a Cusco front strut tower bar (22mm diameter, 3-point design).",
+    "Wheel setup with Work Emotion CR Kiwami 2-piece forged wheels (17x9 +22 front, 17x10.5 +25 rear) in a custom bronze finish, wrapped in Michelin Pilot Sport Cup 2 tires (235/40/17 front, 265/35/17 rear). Brake system includes a full Endless CC-R6 kit (6-piston front calipers, 4-piston rear calipers) with 355mm front and 330mm rear rotors (2-piece floating design, slotted and dimpled)."
+  ]
+}

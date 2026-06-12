@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "SOARER Z30",
+  "prestazioni": [
+    "1JZ-GTE (2.5L twin-turbo) engine rebuild with forged internals: Tomei 87mm forged pistons, Eagle H-beam connecting rods, and a Tomei Type-M 86mm crankshaft for 1.5mm overbore capacity, paired with a HKS 264°/264° camshaft set and Tomei Type-1 head studs for 1.35 bar boost on a Garrett GTX3582R turbocharger with a custom 0.82 A/R turbine housing",
+    "Custom 3.5-inch stainless steel turbo-back exhaust system by Fujitsubo Authorize R, featuring a 4-2-1 equal-length header with 1.75-inch primaries and a 3.5-inch straight-pipe design with a single 100-cell GReddy SP2 muffler for optimized spool and top-end power",
+    "Haltech Elite 2500 standalone ECU with a custom 1JZ-GTE flex-fuel map, supporting E85 blends via a Continental ethanol content sensor, paired with a Link G4+ CAN Lambda controller and a set of ID1000 fuel injectors, fed by a Walbro 450LPH in-tank fuel pump and a Tomei 1.2mm fuel rail"
+  ],
+  "estetica": [
+    "Vertex Lang II widebody conversion kit with custom 30mm front and 50mm rear fender flares, paired with a Veilside Fortune 03 front bumper and a custom carbon fiber rear diffuser by Seibon",
+    "Ohlins Road & Track DFV coilovers with 8kg/mm front and 10kg/mm rear springs, adjustable camber plates, and custom top mounts for aggressive stance, paired with Cusco Type RS 22mm front and 19mm rear sway bars",
+    "Full custom interior by Bride: Zeta IV reclinable bucket seats with Takata 4-point harnesses, a Nardi Classic 380mm steering wheel on a NRG quick-release hub, and a custom rear seat delete with a carbon fiber storage panel by Varis"
+  ]
+}

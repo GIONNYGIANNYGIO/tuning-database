@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "SUPRA DRIFT SPEC",
+  "prestazioni": [
+    "2JZ-GTE (Version 3) engine block with forged internals: Manley 9.0:1 compression ratio pistons, Eagle H-beam connecting rods, and a billet crankshaft from Tomei, paired with a Garrett GTX5533R turbocharger (1.15 A/R turbine housing) and custom 4-inch stainless steel downpipe by HKS for optimized spool and top-end power (target: 850whp on E85)",
+    "Full custom drift-spec wiring harness by iWire with standalone Haltech Elite 2500 ECU, integrated with a Motec C125 dash and AEM X-Series wideband O2 sensor for real-time AFR monitoring; includes launch control and flat-foot shifting via sequential gearbox tuning",
+    "BC Racing BR Type-GT coilovers with custom valving for drift (22-way adjustable damping, 8kg/mm front springs, 10kg/mm rear springs), paired with Cusco 2.5-way mechanical LSD (250% lock rate) and Wisefab Motorsport 86mm extended front knuckles for +15 degrees of steering angle"
+  ],
+  "estetica": [
+    "Rocket Bunny V3 widebody kit (carbon fiber front fenders, overfenders, and rear quarter panels) with custom matte black vinyl wrap and exposed carbon weave accents; includes extended side skirts and a custom 3D-printed rear diffuser by 3D Carbon",
+    "Custom front bumper with integrated carbon fiber splitter by Varis, featuring dual 4-inch aluminum canards and a relocated tow hook; rear bumper modified with a custom titanium exhaust exit for a Tomei Ti Titanium 4-inch dual-exit system",
+    "Interior stripped and reinforced with a full bolt-in roll cage by AutoPower Industries (8-point, chromoly steel, with integrated harness bar), paired with Bride Zeta III bucket seats (red Alcantara with black stitching) and Schroth Profi II 6-point harnesses; custom carbon fiber door cards with integrated fire suppression system by Lifeline"
+  ]
+}

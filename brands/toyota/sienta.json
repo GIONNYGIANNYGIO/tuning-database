@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "SIENTA",
+  "prestazioni": [
+    "1.5L 1NZ-FE engine (or 2NZ-FE for early models) forced-induction conversion using a Garrett GT2860RS turbocharger with a custom 264°/264° camshaft profile from Tomei for optimized low-end torque, paired with a HKS Super SQV4 blow-off valve to prevent compressor surge under aggressive shifting",
+    "Full 3-inch stainless steel turbo-back exhaust system by Fujitsubo Giken, featuring a 4-2-1 header design with unequal-length primaries to maximize scavenging, terminating in a 100mm titanium-tipped muffler for weight reduction and aggressive sound tuning",
+    "Custom ECU reflash via Haltech Elite 1500 standalone unit with flex-fuel compatibility, mapped specifically for 98 RON + E85 blends, targeting 180-200whp (depending on fuel) with a 7,500 RPM redline and optimized ignition timing for the 1NZ-FE’s 10.5:1 compression ratio"
+  ],
+  "estetica": [
+    "TRD-inspired widebody conversion kit by Veilside, specifically the 'Fortune 03' front bumper lip and rear over-fenders, modified to fit the Sienta’s 2,750mm wheelbase with custom carbon fiber side skirts for reduced weight and improved aerodynamics",
+    "Work Emotion CR Kiwami 15x7 +38 wheels in matte gunmetal, wrapped in 195/50R15 Yokohama Advan Neova AD08R tires for optimal grip, paired with D2 Racing coilovers (1.5-way adjustable dampers) with 30mm front and 25mm rear lowering for aggressive stance and improved handling",
+    "Full custom interior overhaul featuring Bride Zeta III bucket seats in black Alcantara with red stitching, a NRG Innovations quick-release steering wheel hub, and a custom roll cage by AutoPower Industries (4-point bolt-in, TIG-welded) painted in Toyota Racing Development (TRD) red for structural rigidity and motorsport aesthetics"
+  ]
+}

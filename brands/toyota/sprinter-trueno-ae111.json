@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "SPRINTER TRUENO AE111",
+  "prestazioni": [
+    "Engine: Replace the stock 4A-GE (20v Silver Top, 7,600 RPM redline) with a fully built 4A-GE 20v Black Top (7,800 RPM redline) featuring Tomei 272° cams, HKS valve springs, and a Tomei Type II titanium retainer kit for high-RPM reliability. Pair with a custom 4-1 stainless steel header from Trust/GReddy and a HKS Hi-Power exhaust with 60mm piping to optimize scavenging.",
+    "Forced Induction: Install a Garrett GT2860RS turbocharger (0.64 A/R turbine housing) on a custom manifold by Tomei, paired with a GReddy Type-S intercooler (core dimensions: 600x300x76mm) and a HKS SSQV blow-off valve. Use a Haltech Elite 2500 ECU with a custom 4A-GE turbo map, targeting 1.2 bar of boost for ~300 HP at the wheels while maintaining the stock 5th-generation 4A-GE’s 11.5:1 compression ratio with 100-octane fuel.",
+    "Drivetrain: Swap the stock C56 transmission for a reinforced C52 from a JDM AE101 GT-Apex, paired with a Nismo 2-way limited-slip differential. Use a Fidanza 11lb flywheel and an ACT Xtreme Race 6-puck clutch with a billet pressure plate for rapid engagement. Replace the stock driveshaft with a custom 3.5-inch aluminum unit from Driveshaft Shop to handle increased torque."
+  ],
+  "estetica": [
+    "Body Kit: Install a Rocket Bunny V1 widebody kit (AE111-specific) with carbon fiber overfenders, front canards, and a duckbill rear spoiler. Use a custom front bumper lip from Vertex with integrated LED turn signals and a rear diffuser from Seibon Carbon for aggressive aerodynamics.",
+    "Wheels & Suspension: Fit Work Meister S1 3P wheels (15x9 +15 front, 15x10 +25 rear) with Toyo R888R tires (225/45/15 front, 245/40/15 rear). Lower the car with Tein Flex Z coilovers (AE111-specific valving) and add Cusco front and rear strut bars, along with a Whiteline rear sway bar (22mm) to reduce body roll.",
+    "Interior & Details: Replace the stock seats with Bride Euro II (low-back) in black Alcantara with red stitching, paired with a Nardi Classic 350mm steering wheel. Install a Defi BF Advance gauge cluster (oil pressure, boost, and water temp) in a custom A-pillar mount. Use a custom roll cage from AutoPower (6-point, bolt-in) with red powder coating and a Takata Drift II harness for track use."
+  ]
+}
