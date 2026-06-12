@@ -1,0 +1,14 @@
+{
+  "brand": "TYRRELL",
+  "model": "002",
+  "prestazioni": [
+    "Replace the original 3.0L Ford Cosworth DFV V8 (engine code: DFV) with a fully blueprinted and balanced DFV block featuring forged Mahle pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from Cosworth Engineering for 12,000 RPM reliability. Pair with a custom dry-sump lubrication system by Peterson Fluid Systems (4-stage pump, 10-quart capacity) and a titanium oil pan with integrated windage tray.",
+    "Install a bespoke fuel system featuring twin 55mm throttle bodies by Jenvey Dynamics, paired with a custom intake manifold designed by Nicholson McLaren Engines to optimize airflow for the DFV’s 90-degree V8 architecture. Use a Motec M150 ECU with individual cylinder fuel and ignition mapping, calibrated for Avgas 100LL or race-spec 102 RON fuel via a dual Bosch Motorsport high-pressure fuel pump setup (0-10 bar adjustable).",
+    "Upgrade the original Hewland FG400 5-speed transaxle to a Hewland DG300 6-speed sequential gearbox with a magnesium bellhousing, reinforced dog rings, and a Pankl Racing Systems titanium input shaft. Pair with a Tilton triple-plate carbon clutch and a Quaife ATB differential (85% lock) for optimal power delivery. Suspension is overhauled with a full Ohlins TTX40 4-way adjustable coilover kit (22-way rebound, 22-way compression), spherical bearing wishbones by HPC Motorsport, and a custom anti-roll bar setup (18mm front, 16mm rear) with adjustable blade design."
+  ],
+  "estetica": [
+    "Replace the original aluminum monocoque with a carbon-fiber tub by Lola Composites, featuring a honeycomb Nomex core and autoclave-cured pre-preg construction, reducing weight by 18% while maintaining FIA 8862-2018 safety standards. The bodywork is reimagined with a full carbon-fiber aero kit by Aerodine Composites, including a front splitter with integrated dive planes, a rear diffuser with Gurney flaps, and a rear wing derived from the Tyrrell 012’s high-downforce design (modified with a 3-element profile and adjustable angle of attack).",
+    "Install a custom livery inspired by the 1972 Tyrrell 002’s Elf Team colors, but with a modern twist: matte blue (Porsche GT3 RS ‘Gulf Blue’) with metallic silver accents and gold pinstriping by Dr. ColorChip. The wheels are replaced with Dymag CX-R carbon-fiber rims (13x13 front, 15x13 rear) wrapped in Pirelli P Zero Trofeo R tires (245/575-13 front, 325/620-15 rear) for vintage racing aesthetics with modern grip.",
+    "Interior is stripped and refitted with a full FIA-spec roll cage by Safety Devices (8-point, T45 steel), a Sparco Pro 2000 seat with 6-point harness, and a custom dashboard by Stack Instruments featuring a digital tachometer (0-14,000 RPM), oil pressure/fuel pressure gauges, and a Motec C127 data logger. The steering wheel is a custom 300mm suede-wrapped unit by MOMO with integrated paddle shifters for the Hewland DG300 gearbox."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "BEETLE TURBO RSI WIDEBODY",
+  "prestazioni": [
+    "Engine: 2.0L TSI (EA888 Gen 3, **CJXB** code) with forged internals including Mahle Motorsport forged pistons (83mm, 9.5:1 CR), Eagle H-beam connecting rods, and a billet crankshaft from Manley Performance. Turbocharger upgraded to a **Garrett GTX3582R Gen II** with a 0.82 A/R turbine housing, paired with a custom 3.5\" stainless steel downpipe and a **Vargas GC Stage 3 hybrid turbo kit** for 400+ WHP on E85.",
+    "Fuel System: **Bosch Motorsport 044 high-flow fuel pump** with dual **ID1050x injectors**, **AEM 340LPH ethanol-compatible fuel pump**, and a **Syvecs S6Plus standalone ECU** with flex-fuel mapping, anti-lag, and launch control. Custom **Radium Engineering fuel surge tank** to prevent fuel starvation during lateral G-forces.",
+    "Drivetrain & Handling: **OS Giken Super Lock LSD** (85% lockup) in a **02M 6-speed transmission** with a **South Bend Clutch Stage 3 daily** and **Peloquin differential cover**. Suspension features **Ohlins Road & Track DFV coilovers** with 24-way rebound damping, **Whiteline adjustable sway bars (24mm front, 22mm rear)**, and **H&R 25mm wheel spacers** to clear the Rocket Bunny widebody fenders. Braking upgraded to **AP Racing 6-piston front calipers** with 355mm rotors and **Ferodo DS2500 pads**, paired with **Goodridge G-Stop braided lines**."
+  ],
+  "estetica": [
+    "**Rocket Bunny V3 widebody kit** (Pandem Designs) with custom carbon fiber front splitter, rear diffuser, and overfenders (3.5\" wider front, 4.0\" wider rear). **Seibon Carbon fiber hood** with a **VWR-style central scoop** for turbo cooling, and **custom rear spoiler** (150mm chord, 3D-printed carbon fiber) for downforce.",
+    "Wheels: **BBS LM-R 9.5x18 ET15 (front) and 10.5x18 ET10 (rear)** in matte gold, wrapped in **Michelin Pilot Sport Cup 2 R tires (245/35/18 front, 275/35/18 rear)**. Custom **Work Meister S1 3P** center caps with RSi badging and **Hankook Ventus RS4 225/40/18** spare tire on a **Volk Racing TE37V** 15x8 ET0 for track days.",
+    "Interior: **Recaro SPG XL seats** with **Schroth Profi II 6-point harnesses**, **Momo Prototipo steering wheel** (350mm, suede), and **AEM X-Series digital dash** replacing the stock cluster. **Custom roll cage** (MCS Motorsport, 6-point, TIG-welded) with **Sparco harness bar** and **Dynamat Xtreme sound deadening** for NVH reduction. **VW RSi-specific Alcantara headliner** and **custom door cards** with **Brembo GT brake bias adjuster** and **AEM wideband gauge** integrated into the A-pillar."
+  ]
+}

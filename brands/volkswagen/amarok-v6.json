@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "AMAROK V6",
+  "prestazioni": [
+    "Engine: Replace the stock **CDUD** 3.0L V6 TDI (224hp/550Nm) turbocharger with a **Garrett GTX4202R** (84mm compressor, 64mm turbine) paired with a **custom BorgWarner EFR 7670** wastegate for precise boost control, targeting 1.5 bar (21.7 psi) peak pressure on a **Dynojet 425i** chassis dyno.",
+    "Fuel System: Upgrade to **Bosch CP4.2** high-pressure fuel pump (2,000 bar) with **Siemens 2000cc/min** port injectors and **AEM 340lph** lift pump, supported by a **Motec M150 ECU** with **Volkswagen CDUD-specific flex-fuel mapping** for E85 compatibility (requires **Radium Engineering** fuel surge tank).",
+    "Drivetrain: Install a **ZF 8HP75X** 8-speed automatic transmission with **Sonax Xtreme** full-synthetic 75W-140 gear oil, paired with a **South Bend Clutch Stage 3** dual-disc clutch (for manual conversions) and **GKN VL3** CV joints for 800Nm torque capacity. Chassis reinforcement via **034 Motorsport** subframe collars and **H&R** 30mm wheel spacers for track alignment."
+  ],
+  "estetica": [
+    "Body Kit: **Prior Design PD-AMAROK** widebody conversion with **carbon fiber fender flares** (30mm wider front, 40mm rear) and **custom 3M Matte Military Green (212-60)** wrap with **Avery Dennison SW900** gloss black accents. Front bumper replaced with **Rieger Tuning** RS-style lip and **Seibon Carbon** hood (3.5kg weight reduction).",
+    "Wheels: **BBS RI-D** 20x10 ET15 (front) and 20x11 ET10 (rear) in **Forgeline FT-5** finish, wrapped in **Michelin Pilot Sport Cup 2** 285/50R20 (front) and 305/45R20 (rear) with **Hankook Ventus R-S4** semi-slick tires for track use. **AP Racing** 380mm 6-piston front brake kit with **Ferodo DS2500** pads and **Goodridge G-Stop** braided lines.",
+    "Interior: **Recaro Pole Position** carbon-Kevlar bucket seats with **Schroth Profi II-6** 6-point harnesses, **Momo Prototipo** flat-bottom steering wheel (350mm), and **AEM CD-7** digital dash (replaces stock cluster). **Vibra-Technics** 4-point roll cage (FIA-spec) with **Sparco** fireproof suiting and **OMP** racing pedals (adjustable brake bias)."
+  ]
+}

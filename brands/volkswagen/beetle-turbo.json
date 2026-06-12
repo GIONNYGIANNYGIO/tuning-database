@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "BEETLE TURBO",
+  "prestazioni": [
+    "Engine: 2.0L TSI (EA888 Gen 2, **CCTA/CBFA** code) with forged internals including **Manley 2618 alloy forged pistons** (83mm, 9.5:1 CR), **Carrillo H-beam connecting rods**, and **ARP head studs** for 35psi boost capability. Turbo upgrade to **Garrett GTX3076R Gen II** with **Tial MV-R 44mm external wastegate** and **TurboSmart Race Port BOV** for spool optimization.",
+    "Fuel System: **Bosch Motorsport 0280158101 1000cc injectors** paired with **AEM 340LPH in-tank fuel pump** and **Radium Engineering dual catch can setup** to prevent oil dilution. **Motec M150 ECU** with **custom ethanol flex-fuel mapping** for E85 compatibility, supporting **550whp on pump gas (93 octane) and 650whp on E85**.",
+    "Drivetrain: **South Bend Clutch Stage 3 Daily** with **PCCB (Porsche Ceramic Composite Brake) 350mm front rotors** and **Brembo 4-piston calipers** from the **VW R36 Passat**, paired with **034 Motorsport solid subframe bushings** and **Neuspeed 25mm rear sway bar** to eliminate torque steer. **Quaife ATB LSD** for the **MQB-based DQ250 6-speed DSG** with **TCU tune by DSG Performance** for 0.05s shift times."
+  ],
+  "estetica": [
+    "**Rocket Bunny V2 Beetle widebody kit** (fiberglass, 3-piece front fenders, 2-piece rear quarters) with **custom 50mm overfenders** to clear **Work Emotion CR Kiwami 18x9.5 +15 ET wheels** (staggered setup: 18x10.5 +10 rear) wrapped in **Michelin Pilot Sport Cup 2 R 245/35/18 (front) and 275/30/18 (rear)**.",
+    "**Volk Racing TE37V Beetle Edition** (17x9 +38 ET) in **Hyper Black** for track use, paired with **Ohlins DFV Road & Track coilovers** (24-way adjustable damping, **50mm front/45mm rear spring rates**) and **H&R 25mm wheel spacers** for flush fitment. **Custom carbon fiber hood** (1.5mm thick, **Seibon CF**) with **functional NACA ducts** feeding the **Garrett GTX3076R intercooler**.",
+    "**VW Beetle R-Line OEM+ aero** with **custom 3D-printed front splitter** (carbon-infused nylon, **3M VHB tape mounting**) and **Maxton Design rear diffuser** (polyurethane, **dual 3.5\" exhaust cutouts**). **Full Respray in VW Lime Yellow (LK1B) with **3M Matte Clear Coat** and **custom pinstriping by Cartel Customs** (0.5mm black/gold). **LED taillight conversion** using **VW Golf R MK7 units** with **custom CNC-machined aluminum housings**."
+  ]
+}

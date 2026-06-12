@@ -1,0 +1,18 @@
+{
+  "brand": "ULTIMA",
+  "model": "GTR720 RACE SPEC",
+  "prestazioni": [
+    "LS7 (7.0L GM small-block V8, 720hp base) upgraded with a custom billet crankshaft from Callies Compstar (4340 steel, 4.000\" stroke) and forged Mahle Motorsport pistons (2618 alloy, 4.125\" bore, 13.5:1 compression) for sustained 9,000 RPM reliability under endurance racing conditions",
+    "Precision Turbo & Engine GT5533R turbocharger (82mm inducer, 106mm exducer, 1.28 A/R turbine housing) with a custom 4.5\" titanium downpipe by Burns Stainless, paired with a Tial MV-R 60mm external wastegate (18 psi base boost, adjustable via AEM CD-7 dash-controlled solenoid)",
+    "Custom dry-sump oiling system by Dailey Engineering (4-stage pump, 10-quart tank, -12AN lines) with a Peterson Fluid Systems remote oil cooler (5-row, 19-row core) and a Moroso accumulator tank for sustained lateral G-forces in GT racing",
+    "Holley Dominator EFI ECU with custom LS7-specific calibration by Dyno Dynamics (mapped for E85 fuel, individual cylinder trims, and launch control with 6,500 RPM flat-shift capability), integrated with a Motec C127 dash for real-time telemetry and traction control via Bosch Motorsport ABS sensors",
+    "Custom 4-into-1 stainless steel headers by Stainless Works (1.75\" primary tubes, 3.5\" collector) with ceramic coating by Swain Tech, paired with a custom 3.5\" straight-pipe exhaust system featuring a MagnaFlow 304 stainless steel muffler (resonance-tuned for 100-120 dB track compliance)"
+  ],
+  "estetica": [
+    "Full carbon fiber widebody conversion by Ultima’s in-house motorsport division (GTR720-specific, 3\" wider front fenders, 4\" wider rear quarters) with integrated NACA ducts for brake cooling and a custom front splitter with adjustable dive planes (3D-printed carbon fiber, 50mm adjustment range)",
+    "Custom rear diffuser by APR Performance (GTR720-specific, 3-stage design, 40mm ground clearance) with integrated carbon fiber strakes and a removable Gurney flap for high-speed stability, paired with a fixed carbon fiber rear wing (3D-printed airfoil, 1,200mm span, 300mm chord, 15° angle of attack)",
+    "OMP Motorsport carbon fiber racing seats (Ultima-specific mounting brackets, FIA 8862-2009 certified) with Schroth Profi II 6-point harnesses and a custom roll cage by Safety Devices (T45 steel, 6-point design, integrated with the chassis for torsional rigidity, FIA Appendix J compliant)",
+    "Custom livery by VMR Wheels (GTR720-exclusive, matte anthracite base with neon green accents, hand-painted by Driftworks) featuring a full vinyl wrap with 3M 2080 series (gloss black roof, carbon fiber weave hood) and sponsor decals (Motul, Brembo, Ohlins) in reflective 3M Scotchlite for night racing visibility",
+    "BBS FI-R wheels (18x12 front, 18x13 rear, Ultima-specific offsets +35/+50, 5x120 PCD) with custom center-lock adapters by DPE, wrapped in Michelin Pilot Sport Cup 2 R tires (335/30 R18 front, 345/30 R18 rear, semi-slick compound for GT racing)"
+  ]
+}

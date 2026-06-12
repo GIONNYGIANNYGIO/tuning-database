@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "BEETLE TURBO S",
+  "prestazioni": [
+    "Engine: Replace the stock **CJXA 2.0L TSI EA888 Gen 2** with a **Garrett GTX3071R Gen II** turbocharger (0.63 A/R turbine housing, 56mm compressor wheel) paired with a **Forge Motorsport Motorsport 3-port boost solenoid** and **034 Motorsport billet aluminum turbo inlet pipe** to eliminate stock plastic restrictions. Retain the stock **Mahle forged pistons** but upgrade to **ARP head studs** and a **Supertech valvetrain kit** (Inconel exhaust valves, titanium retainers, and upgraded valve springs) for 22 psi sustained boost.",
+    "Fuel System: Install a **Bosch Motorsport 044 high-flow fuel pump** with a **Radium Engineering dual fuel pump hanger** and **Injector Dynamics ID1050x** injectors (1050cc/min) to support 400+ whp. Pair with a **Syvecs S6Plus standalone ECU** (pre-loaded with a **Beetle Turbo S-specific base map**) and a **Motec C125 dash logger** for real-time monitoring of AFR, boost, and EGTs via **AEM X-Series wideband O2 sensors**.",
+    "Drivetrain & Cooling: Swap the stock **DQ250 6-speed DSG** for a **02M 6-speed manual transmission** with a **South Bend Clutch Stage 3 Daily** (ceramic-metallic disc, upgraded pressure plate) and **Peloquin LSD**. For cooling, integrate a **GReddy 4-row aluminum radiator** with **Mishimoto silicone hoses** and a **Setrab 19-row oil cooler** (front-mounted with a **VRSF dual-core intercooler** for the GTX3071R)."
+  ],
+  "estetica": [
+    "Body Kit: Install the **Rocket Bunny Pandem Beetle V1 widebody kit** (fiberglass fenders, carbon fiber front splitter, and rear diffuser) with **custom 3M Gloss Black wrap** and **Pandem side skirts** (extended to match the widebody flares). Replace the stock bumpers with **APR carbon fiber front/rear bumpers** (pre-drilled for tow hooks) and a **Seibon carbon fiber hood** (with a **custom heat extractor vent** for the GTX3071R).",
+    "Wheels & Suspension: Mount **Work Meister S1 3P 18x9.5 +15 front / 18x10.5 +25 rear** wheels (staggered fitment) with **Michelin Pilot Sport Cup 2 tires** (245/40/18 front, 275/35/18 rear). Lower the car with **Ohlins Road & Track DFV coilovers** (custom-valved for the Beetle’s MacPherson strut front / torsion beam rear) and **034 Motorsport rear subframe reinforcement kit** to eliminate flex under hard launches.",
+    "Interior & Aero: Replace the stock seats with **Recaro SPG XL bucket seats** (mounted on **Sparco Pro 2000 rails**) and a **MOMO Mod.78 steering wheel** (320mm, suede). Add a **Rally Innovations bolt-on rear wing** (carbon fiber, 3-position adjustable) and **custom front canards** (3D-printed from **CarbonRev** carbon fiber). For lighting, swap to **Lux H8 V4 LED headlights** with **Morimoto XB LED fog lights** and **Oracle Lighting RGB halo rings** (sync’d to the **Syvecs ECU** for shift-light functionality)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "VAUXHALL",
+  "model": "CARLTON LOTUS",
+  "prestazioni": [
+    "Engine: Lotus Type 30 2.0L 24V I4 (engine code: 2212E) with forged internals including Mahle Motorsport pistons (88.9mm bore, 82.7mm stroke), Cunningham conrods, and a billet crankshaft from Cosworth Racing for 1,000+ hp reliability. Turbocharged with a Garrett GTX5533R Gen II turbo (88mm compressor, 1.28 A/R turbine housing) on a custom Lotus-designed manifold with Tial MV-R 60mm wastegate and dual 44mm Synapse Engineering blow-off valves.",
+    "Fuel System: Full sequential port injection with Bosch Motorsport 2,200cc EV14 high-flow injectors, paired with a secondary direct injection system using Delphi Multec 350 bar injectors, fed by a Radium Engineering dual-pump surge tank and AEM 400LPH in-tank pump. ECU: Motec M150 with custom Lotus 2212E calibration for 35psi boost and 98 RON fuel mapping.",
+    "Drivetrain: Quaife ATB differential in a custom 8.5\" Salisbury-style housing with 3.73:1 final drive, mated to a Holinger RD6 sequential gearbox (dog-ring, 6-speed) with a Tilton triple-plate carbon clutch. Custom Lotus-spec half-shafts with CV joints from GKN Driveline for 1,200Nm torque capacity."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion using a custom Lotus Carlton-inspired Rocket Bunny RB-CL01 kit (hand-laid 2x2 twill weave, 1.5mm thickness) with integrated front splitter, side skirts, and a ducktail spoiler. Paint: BASF Glasurit 90-Line in Lotus 'Imperial Green' with gold leaf pinstriping by Signarama UK.",
+    "Wheels: BBS RS-GT II 9x17\" (ET15) front and 10.5x17\" (ET5) rear, wrapped in Michelin Pilot Sport Cup 2 R tires (235/40/17 front, 285/35/17 rear). Custom center-lock adapters with Lotus-branded titanium wheel nuts by HRE Performance.",
+    "Interior: Full Recaro Pole Position seats (carbon fiber shell, Alcantara/leather upholstery) with Schroth Profi II 6-point harnesses. Custom Lotus-branded Momo Prototipo steering wheel (380mm diameter, suede grip) with integrated Motec C127 dash display. Rear seat delete with custom aluminum storage for a plumbed-in Lifeline Zero 360 fire suppression system."
+  ]
+}

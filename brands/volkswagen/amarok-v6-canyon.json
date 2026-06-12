@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "AMAROK V6 CANYON",
+  "prestazioni": [
+    "Engine: Replace the stock **CDUD** 3.0L V6 TDI (224hp/550Nm) turbo-diesel with a **Garrett GTX4202R** turbocharger (hybrid billet wheel, 64mm inducer, 84mm exducer) paired with a **DMS Automotive** 3.5\" stainless steel downpipe (de-catted, 409-grade) and **Forsberg Racing** 100mm V-band exhaust system (304 stainless, dual 3.5\" outlets) for optimized spool and 450Nm+ torque at 1,800 RPM.",
+    "Fueling: Upgrade to **Bosch CP4.2** high-pressure fuel pump (2,000 bar) with **Siemens Deka 80lb/hr** injectors (PN: 0280158101) and **AEM 220GPH** in-tank lift pump, controlled via **ECU Master EMU Black** standalone ECU (custom CAN bus integration for Amarok’s **MED17.1.6** ECU, supporting flex-fuel E85 tuning with **Innovate Motorsports LC-2** wideband O2 sensor).",
+    "Drivetrain: Install **ZF 8HP70** 8-speed automatic transmission with **Peloquin** limited-slip differential (40% lockup, 300M steel internals) and **South Bend Clutch** twin-disc ceramic clutch (2600Nm torque capacity) for the **4Motion** AWD system, paired with **GKN Driveline** CV joints (heavy-duty, 30-spline) and **Neapco** 3.73:1 ring & pinion gear set (replacing stock 3.08:1)."
+  ],
+  "estetica": [
+    "Body: **Rieger Tuning** widebody kit (Porsche 992 GT3-inspired fenders, 50mm extended flares, carbon fiber front splitter with **MST Performance** canards) and **Seibon Carbon** hood (dual heat extractors, 3K twill weave, pre-preg autoclave construction) for weight reduction (-12kg).",
+    "Suspension: **Öhlins TTX46** coilovers (2-way adjustable dampers, 300mm travel, remote reservoirs) with **H&R** 30mm front / 20mm rear lowering springs (progressive rate) and **SuperPro** polyurethane bushings (full kit, including subframe mounts). **Brembo GT 6S** big brake kit (380mm 2-piece rotors, 6-piston calipers, **Ferodo DS2500** pads) with **Goodridge** braided stainless steel lines.",
+    "Wheels/Interior: **BBS FI-R** 22x10.5\" ET15 (front) / 22x12\" ET20 (rear) forged wheels (gold finish, 5x120 PCD) wrapped in **Michelin Pilot Sport Cup 2 R** tires (285/30R22 front, 325/25R22 rear). Interior features **Recaro Pole Position** seats (carbon shell, Alcantara/leather, 6-point Schroth harnesses), **Momo Mod.70** steering wheel (suede, 350mm, quick-release), and **AEM CD-7** digital dash (12.3\" touchscreen, CAN bus integration for EMU Black)."
+  ]
+}

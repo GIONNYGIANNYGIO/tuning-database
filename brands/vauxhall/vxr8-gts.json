@@ -1,0 +1,14 @@
+{
+  "brand": "VAUXHALL",
+  "model": "VXR8 GTS",
+  "prestazioni": [
+    "LS3 6.2L V8 (L99 variant) forced induction upgrade via Harrop HTV2300 supercharger kit (12psi boost, 650whp on E85, 91-octane tune via HP Tuners VCM Suite with custom OS ID 12633058)",
+    "Differential reinforcement with Harrop ELocker 3.73:1 LSD (part #HAR-EL373) paired with C&R Racing 2.5\" stainless steel driveshaft (VXR8-specific, 1350 U-joints)",
+    "Suspension overhaul with KW Clubsport 3-way coilovers (V3 kit, 800lb/in front springs, 700lb/in rear) + Whiteline adjustable front sway bar (27mm, part #BMR78X) and rear sway bar (24mm, part #BMR90X)"
+  ],
+  "estetica": [
+    "Custom carbon fibre front splitter by Vortex Applications (VXR8 GTS-specific, 3-piece design with integrated brake ducts, part #VA-VXR8-GTS-SPLITTER)",
+    "Rear diffuser by Maxton Design (VXR8 GTS R-spec, 3D-printed ABS with integrated exhaust cutouts for stock or aftermarket systems, part #MAXTON-VXR8-GTS-DIFFUSER)",
+    "OEM+ headlight upgrade with LUX HID 55W Bi-Xenon projectors (VXR8 GTS-specific, plug-and-play harness, part #LUX-VXR8-GTS-HL) and sequential LED turn signals by Diode Dynamics (SL1, part #DD-1500311)"
+  ]
+}

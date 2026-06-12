@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "VOXY HYBRID",
+  "prestazioni": [
+    "Engine: 2AR-FXE (2.5L Atkinson-cycle I4 hybrid) forced-induction conversion using a Garrett GT2860RS turbocharger with a custom 3D-printed titanium-aluminide exhaust manifold (TIG-welded by Tomei Powered) to retain hybrid synergy drive compatibility while pushing 280 hp at 1.5 bar boost on E85 fuel. Requires a custom Motec M150 ECU reflash to manage hybrid torque split and prevent drivetrain wind-up under aggressive acceleration.",
+    "Drivetrain: OS Giken Super Lock LSD (part # OS-G154H) paired with a KAAZ 1.5-way differential for the E-Four AWD system, mated to a custom hybrid-compatible 6-speed manual swap (Vitz GRMN gearbox with reinforced synchros) via a Tilton twin-disc carbon clutch (7.25\" diameter) to handle increased torque without sacrificing hybrid regenerative braking efficiency.",
+    "Suspension: Full Öhlins Road & Track DFV coilovers (part # DFV 22-7100) with custom valving for the Voxy’s 1,700 kg curb weight, paired with Cusco front strut tower bars (part # 601 540 A) and a rear 3-point chassis brace (TRD Japan part # PTR01-00030) to eliminate body flex. Polyurethane bushings (Whiteline W51910) replace all factory rubber mounts for sharper throttle response and cornering precision."
+  ],
+  "estetica": [
+    "Aero: Veilside Fortune 3 widebody conversion kit (modified for Voxy dimensions) with carbon fiber overfenders, paired with a custom 3D-printed front splitter (AeroCatch mounting system) and a GT Wing Japan 1700mm carbon wing (adjustable 3-15° angle) to balance downforce for the hybrid’s high center of gravity.",
+    "Wheels: Work Emotion CR Kiwami 18x9.5 +35 (front) and 18x10.5 +40 (rear) in a custom bronze finish, wrapped in Michelin Pilot Sport Cup 2 R tires (245/40/18 front, 275/35/18 rear) for optimal grip without sacrificing hybrid battery weight distribution.",
+    "Interior: Bride Zeta III reclinable bucket seats (custom-molded for Voxy’s sliding door entry) with Takata 4-point harnesses, paired with a Momo Prototipo steering wheel (350mm diameter) and a custom hybrid-specific gauge cluster (Defi Advance BF series) displaying boost, hybrid battery voltage, and torque split in real-time. Full sound deadening (Dynamat Xtreme) to reduce road noise for the JBL Synthesis audio system upgrade."
+  ]
+}

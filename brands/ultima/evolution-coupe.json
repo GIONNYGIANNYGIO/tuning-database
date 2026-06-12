@@ -1,0 +1,14 @@
+{
+  "brand": "ULTIMA",
+  "model": "EVOLUTION COUPE",
+  "prestazioni": [
+    "LS7 (7.0L V8, GM LSX-based) forced-induction conversion using a Garrett GTX5533R Gen II turbocharger (1.15 A/R, billet wheel, 106mm compressor) with a custom 4-inch V-band downpipe and Tial MV-R 60mm external wastegate, paired with a Holley Dominator EFI ECU running a custom Speed Density tune with flex-fuel capability (E85 compatible) and a Bosch 044 high-flow fuel pump supporting 1,200+ HP on E85",
+    "Full billet aluminum dry-sump oiling system by Dailey Engineering (4-stage, 10-quart capacity) with an ATI Super Damper (8.5-inch, 6-bolt) and a custom 4-inch aluminum driveshaft connecting to a Quaife ATB LSD-equipped Porsche G96/93 6-speed transaxle (strengthened with a Guard Transmission billet side cover and upgraded synchros)",
+    "Custom fabricated 4130 chromoly tubular subframe with integrated roll cage (FIA-spec, TIG-welded) and a full Ohlins TTX40 4-way adjustable coilover suspension system (24-click rebound, 22-click compression, remote reservoirs) with spherical bearing top mounts and custom-length billet aluminum control arms (front: 25mm extended, rear: 15mm extended) for optimized camber curves"
+  ],
+  "estetica": [
+    "Full carbon fiber widebody conversion using Ultima’s own Evolution Coupe-specific Rocket Bunny/Pandem-style overfenders (front: 3-inch wider, rear: 4-inch wider) with integrated carbon fiber side skirts and a custom 3D-printed ABS front splitter (25mm adjustable dive planes) for a 30% increase in front downforce at 120mph",
+    "Custom 1-piece carbon fiber hardtop with integrated NACA ducts (feeding the LS7’s intercooler and oil cooler) and a rear carbon fiber ducktail spoiler (adjustable angle, 0-15 degrees) with a Gurney flap, all finished in a matte clear coat with exposed weave and satin black accents (matching the OZ Racing Ultraleggera HLT 18x12 +50 front / 19x13 +35 rear wheels in gloss black)",
+    "Full custom interior with a Sparco Pro 2000 series carbon fiber racing seat (6-point harness, FIA 8862-2009 certified) mounted on a custom aluminum seat bracket, paired with a MOMO Mod.78 carbon fiber steering wheel (350mm, quick-release) and a full Alcantara-wrapped dashboard with a Motec C127 digital dash (12-inch, configurable display) replacing the stock cluster"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "AMAROK V6 EXTREME",
+  "prestazioni": [
+    "Engine: 3.0L TDI CR EA897 (CJXA) with upgraded BorgWarner EFR 8374 turbo (106mm compressor, 74mm turbine, 1.05 A/R) paired with a custom 4-inch stainless steel downpipe and 3.5-inch straight-pipe exhaust system by Remus Sport, featuring quad 100mm titanium tips and a valved bypass for on-demand backpressure reduction",
+    "Fuel System: Full Bosch CP4.2 high-pressure fuel pump replacement with a Denso HP4 pump (2,200 bar max pressure), paired with 10-hole 350cc injectors from Delphi (PN: 28451230) and a custom ECU flash via Alientech KESSv2 (Stage 3+ map with EGT limit raised to 850°C and boost target set to 2.2 bar absolute on 98 RON fuel)",
+    "Drivetrain: ZF 8HP70 transmission with a Peloquin LSD (40% lockup) in the rear differential, reinforced with a Quaife ATB helical LSD in the front, paired with a South Bend Clutch Stage 3 twin-disc setup (organic/copper hybrid) and a Sachs Performance dual-mass flywheel (PN: 3000951001) for launch control optimization"
+  ],
+  "estetica": [
+    "Body: Full Rocket Bunny VW Amarok widebody kit (Pandem Design) with carbon fiber fenders (30mm wider front, 40mm wider rear), custom vented hood by Seibon Carbon (with integrated NACA ducts for intercooler airflow), and a custom rear diffuser by Maxton Design (3-piece, carbon fiber, with integrated tow hooks)",
+    "Suspension: Öhlins TTX40 coilovers (remote reservoir, 3-way adjustable damping, 80mm travel) with custom valving for the Amarok’s 3,600mm wheelbase, paired with Eibach Pro-Spacer 30mm wheel spacers (hub-centric, 6x130 PCD) and H&R 2.5° negative camber plates for aggressive stance and off-road articulation",
+    "Wheels & Aero: Rotiform LAS-R 20x10 ET15 (front) and 20x12 ET10 (rear) in matte bronze, wrapped in Nitto Ridge Grappler 285/55R20 (front) and 315/50R20 (rear) tires, with a custom front splitter by Varis Japan (carbon fiber, 3-piece, adjustable angle) and a carbon fiber rear wing by 991R (dual-element, 1,200mm span, 3D-printed endplates)"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "brand": "VAUXHALL",
+  "model": "MALOO VXR8",
+  "prestazioni": [
+    "LS3 6.2L V8 (L99 variant, engine code: GM LS3) forced induction upgrade via Harrop HTV2300 supercharger kit (12psi boost, 650+ hp at the wheels) with integrated methanol injection (Snow Performance Stage 3 kit) and upgraded fuel system (Fore Innovations 450LPH in-tank pump + ID1000 injectors)",
+    "Full drivetrain reinforcement: Harrop heavy-duty 9.5-inch LSD differential with 3.91:1 gear ratio, upgraded driveshaft (Mark Williams carbon-fiber unit), and custom billet aluminum transmission crossmember for the 6L80E automatic transmission (reflashed with HP Tuners custom OS for 7,000 RPM shifts)",
+    "Suspension overhaul: KW Clubsport 3-way adjustable coilovers with remote reservoirs, polyelastomer bushings (SuperPro 62mm front control arms + rear subframe bushings), and custom-fabricated strut tower braces (APR Performance carbon-fiber front brace + custom rear brace by SLR Speed)",
+    "Braking system: AP Racing 6-piston CP9660 front calipers with 380mm two-piece rotors (DBA 5000 Series XS) and 4-piston CP5555 rear calipers with 355mm rotors, paired with Ferodo DS2500 pads and Motul RBF660 brake fluid"
+  ],
+  "estetica": [
+    "Custom widebody conversion kit by ADRO (Australia) with extended carbon-fiber fenders (3.5-inch flares front/rear), integrated hood vents (carbon-fiber, functional for LS3 heat extraction), and rear diffuser (custom 3D-printed ABS with integrated exhaust cutouts for twin 3.5-inch outlets)",
+    "Aerodynamic package: APR Performance GTC-300 adjustable carbon-fiber rear wing (30-inch chord, 3-position angle adjustment) mounted on custom aluminum pedestals, front splitter (custom carbon-fiber with integrated canards by SLR Speed), and side skirts (ADRO carbon-fiber, matching widebody flares)",
+    "Interior: Full Alcantara retrim (Recaro CS bucket seats with custom 4-point harnesses by Schroth Profi II), custom roll cage (TIG-welded 4130 chromoly by Custom Cages Australia, bolt-in design with integrated harness bars), and digital dash upgrade (AEM CD-7 with custom LS3 CAN bus integration for live boost, AFR, and transmission data)"
+  ]
+}

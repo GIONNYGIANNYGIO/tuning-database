@@ -1,0 +1,14 @@
+{
+  "brand": "ULTIMA",
+  "model": "GTR",
+  "prestazioni": [
+    "LS7 (7.0L V8, GM Performance Parts) forced-induction conversion using a Garrett GTX5533R turbocharger (1.48 A/R turbine housing, 106mm billet compressor wheel) with a custom 4-inch stainless steel turbo manifold by Burns Stainless, paired with a Tial MV-R 60mm external wastegate and a Turbosmart Race Port BOV for precise boost control up to 28 psi on E85 fuel",
+    "Fully built LS7 internals featuring Manley forged 4340 steel crankshaft (4.125\" stroke), Carrillo H-beam connecting rods, and JE Pistons 2618-T6 forged slugs (9.5:1 compression ratio) with Total Seal gapless rings, complemented by a COMP Cams custom solid-roller camshaft (250/258 duration @ 0.050\", 0.700\" lift) and Jesel belt-driven camshaft drive system",
+    "Custom Motec M150 ECU with full flex-fuel capability, paired with a Bosch Motorsport 044 high-flow fuel pump (1,200+ LPH), Injector Dynamics ID2000x injectors (2,000cc/min), and a custom dual-inlet fuel rail system by Radium Engineering, with a secondary Aeromotive A1000 fuel pump for E85 compatibility and a Peterson Fluid Systems dry-sump oil system (5-stage) with a Moroso 8-quart oil pan"
+  ],
+  "estetica": [
+    "Full carbon fiber widebody conversion using Ultima’s own GTR-R aero kit (front splitter, side skirts, rear diffuser, and GT-style rear wing with adjustable carbon fiber elements), reinforced with a custom steel subframe by RML Group for structural rigidity and weight reduction (15% lighter than OEM)",
+    "Custom 3-piece OZ Racing Ultraleggera HLT wheels (18x12 front, 18x13 rear) with titanium hardware, wrapped in Michelin Pilot Sport Cup 2 R tires (295/30 R18 front, 345/30 R18 rear), paired with a custom AP Racing 6-piston front / 4-piston rear big brake kit with 380mm two-piece rotors and Pagid RS29 brake pads",
+    "Full interior overhaul featuring a custom Sparco Pro 2000 carbon fiber racing seat with 6-point Schroth Profi II harnesses, a custom aluminum dashboard with Motec C127 digital dash display, and a custom roll cage by Safety Devices (FIA-spec, T45 steel) with integrated fire suppression system (Lifeline Zero 360) and carbon fiber door panels with integrated side-impact protection"
+  ]
+}

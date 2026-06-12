@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "AMEO",
+  "prestazioni": [
+    "Engine: 1.5L TSI (EA211 **CWVA/CWVB**) with **Garrett GT2259S turbocharger** (hybrid core, 0.63 A/R turbine housing, 52mm compressor wheel) paired with **Forge Motorsport Motorsport intercooler** (bar-and-plate, 500x200x60mm core) and **034 Motorsport intake manifold spacer** (10mm, billet aluminum) to optimize airflow and reduce heat soak. ECU flashed with **Unitronic Stage 2+ software** (custom map for 98 RON fuel, 22psi peak boost, 280° camshaft timing via **Schrick 268° intake/272° exhaust cams**).",
+    "Drivetrain: **South Bend Clutch Stage 3 Daily** (organic/copper hybrid disc, 2400lb pressure plate) with **02M 6-speed DSG transmission** tuned via **GIAC DSG TCU flash** (rev-matching, launch control at 4500 RPM, 150ms shift times). **Peloquin limited-slip differential** (1.5-way, 45/75% lockup) for front-wheel-drive torque vectoring.",
+    "Suspension/Handling: **KW Clubsport 3-way coilovers** (24-way rebound, 16-way compression, adjustable top mounts) with **H&R 25mm front / 20mm rear anti-roll bars** (hollow, adjustable end links). **Whiteline adjustable rear toe arms** (polyurethane bushings) and **SuperPro front lower control arms** (camber-adjustable, spherical bearings) for aggressive alignment (-2.5° front camber, -1.8° rear). **Brembo GT 340mm front brake kit** (4-piston calipers, 30mm rotors) with **Ferodo DS2500 pads** and **Goodridge G-Stop braided lines**."
+  ],
+  "estetica": [
+    "**Rocket Bunny V1 Ameo widebody kit** (pre-preg carbon fiber, 50mm front/70mm rear fender flares, custom front splitter with canards) paired with **Volk Racing TE37SL wheels** (17x9 +35 front, 17x10 +40 rear, 5x100 PCD, 5mm spacers). **Seibon carbon fiber hood** (vented, 30% weight reduction) and **custom rear diffuser** (3D-printed ABS, integrated exhaust cutouts for **Remus 76mm dual-tip exhaust** with **valvetronic bypass system**).",
+    "**OEM+ lighting upgrade**: **Lux H8 V4 LED headlights** (5000K, CRI 90+, adaptive projectors) with **Morimoto XB35 fog lights** (3000K amber, DOT-legal). **Vland sequential LED taillights** (smoked lenses, sequential turn signals, integrated reverse lights) and **DRL delete** (replaced with **Novsight C1 laser DRLs** in front bumper).",
+    "**Interior**: **Recaro SPG XL seats** (fixed-back, 8-way adjust, Alcantara/leatherette) with **Schroth Profi II 4-point harnesses**. **Momo Mod.78 steering wheel** (320mm, suede, quick-release hub) and **NRG short shifter** (60mm throw, solid billet aluminum). **Custom roll cage** (TIG-welded 4130 chromoly, 6-point, bolt-in) with **Sparco harness bar** and **Vibra-Technics 5mm sound deadening** (full cabin treatment)."
+  ]
+}

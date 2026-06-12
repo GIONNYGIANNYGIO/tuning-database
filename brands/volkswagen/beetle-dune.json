@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "BEETLE DUNE",
+  "prestazioni": [
+    "Engine: CZTA 2.0L TSI (EA888 Gen 3) with a Precision Turbo & Engine PT6266 CEA turbocharger (62mm inducer, 66mm exducer, 58lb/min flow) paired with a custom 3.5\" V-band downpipe and a Milltek Sport 76mm non-resonated cat-back exhaust system featuring dual 100mm rolled-edge tips for optimized spool and reduced backpressure.",
+    "Fuel System: Injector Dynamics ID1050x fuel injectors (1050cc/min) with a Radium Engineering dual-catch can setup (PN: 20-0119) and a Bosch 044 high-flow fuel pump (220 LPH) to support E85 blends, controlled via a Cobb Accessport V3 (Stage 2+ aggressive map) with custom ethanol content logging via an AEM X-Series 30-0300 wideband sensor.",
+    "Suspension & Handling: KW Suspensions Clubsport coilovers (PN: 35231001) with 400lb/in front springs and 500lb/in rear springs, adjustable camber plates (034 Motorsport 034-05-1001), and H&R 25mm front / 22mm rear anti-roll bars (PN: 51600). Chassis reinforcement via Neuspeed RSe12 25mm front and 22mm rear sway bars with spherical end links (PN: NSP-RSE12-01)."
+  ],
+  "estetica": [
+    "Body Kit: Rocket Bunny VW Beetle Dune-specific widebody kit (PN: RB-BEETLE-DUNE-WB) with carbon fiber front splitter, rear diffuser, and overfenders (pre-preg autoclave construction), paired with a custom 3M Matte Military Green (PN: 35483) vinyl wrap with satin clear coat.",
+    "Wheels & Tires: BBS RS-GT1 19x9.5 +15 ET front and 19x10.5 +20 ET rear (PN: 30112302) in Gloss Black with gold hardware, wrapped in Michelin Pilot Sport Cup 2 R tires (245/35/19 front, 275/30/19 rear) mounted via HRE Performance Center Lock adapters (PN: HRE-935CL).",
+    "Lighting & Aero: Litchfield Carbon Fiber hood (PN: LIT-VW-BEETLE-CF) with integrated NACA ducts for intercooler cooling, paired with Hella Rallye 3000 Supertones (55W H3 bulbs) in custom CNC-machined aluminum housings. Rear wing: APR Performance GT-250 adjustable carbon fiber wing (PN: CF-250100) with 3D-printed titanium support struts."
+  ]
+}

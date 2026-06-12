@@ -1,0 +1,14 @@
+{
+  "brand": "VAUXHALL",
+  "model": "CORSA VXR",
+  "prestazioni": [
+    "Engine: Replace the stock **A16LER** (1.6L turbocharged I4) internals with forged **Mahle Motorsport** pistons (86.5mm, 9.0:1 compression) and **Manley Performance** H-beam connecting rods (51.3mm pin diameter) to handle 350+ hp reliably. Pair with a **Garrett GT2867R-5** turbo (0.64 A/R turbine housing) and **Tial MV-R 44mm** external wastegate for precise boost control at 28 psi peak pressure.",
+    "Fuel System: Upgrade to a **Bosch Motorsport 044** high-flow fuel pump (340 lph) and **Injector Dynamics ID1050x** injectors (1050cc/min) with **Radium Engineering** fuel rail and **AEM 34002** ethanol-compatible fuel pressure regulator. Retain the stock **Siemens DEKA** ECU but reflash with **EFI Live Custom OS** (Stage 3+ tune) for ethanol blends (E60-E85) and aggressive ignition timing (12° BTDC at 6,500 RPM).",
+    "Drivetrain & Handling: Install a **Quaife ATB LSD** (Corsa VXR-specific 4.19 final drive ratio) with **AP Racing CP6880-1000** 330mm 2-piece brake rotors and **Ferodo DS2500** pads. Suspension upgrades include **Ohlins Road & Track DFV** coilovers (22-way adjustable damping, 30mm drop) with **Whiteline** adjustable rear sway bar (22mm) and **Polybush** subframe bushings (80A durometer) to eliminate torque steer."
+  ],
+  "estetica": [
+    "Aero: Fit a **Rocket Bunny V3** widebody kit (Corsa VXR-specific, 30mm extended fenders) with **Seibon Carbon** hood (vented, 50% weight reduction) and **Voltex** Type-3 rear wing (3D carbon, 1,200g downforce at 120 mph). Front splitter is **Perrin Performance** 3-piece aluminum (adjustable angle, 20mm overhang) with **Custom Cages** bolt-on canards (3D-printed carbon fiber).",
+    "Wheels & Stance: Mount **BBS LM-R** 18x8.5 ET35 wheels (gold finish, 5x110 PCD) with **Michelin Pilot Sport Cup 2** tires (225/40 R18) and **H&R** 15mm spacers (hub-centric, 5x110). Fender rolling via **East Coast Customs** hydraulic roller (1.5-inch clearance) with **BC Racing** camber plates (adjustable to -3.5° front, -2.8° rear).",
+    "Interior & Details: Replace stock seats with **Recaro Pole Position** (fixed-back, FIA-approved) and **Schroth Profi II-6** 6-point harnesses. Dash overlay is **AIM MXS Strada** 5-inch digital dash (CAN bus integration with A16LER ECU) mounted on a **Sparco** quick-release steering wheel (350mm, suede). Exterior accents include **3M Matte Graphite Wrap** (full body) with **VMR** carbon fiber mirror caps and **Morimoto XB LED** headlights (5,500K, DOT-approved)."
+  ]
+}

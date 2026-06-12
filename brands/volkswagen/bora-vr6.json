@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "BORA VR6",
+  "prestazioni": [
+    "Engine: 2.8L 12v VR6 (AAH engine code) with a custom Schrick 272° camshaft kit (268° intake/276° exhaust, 11.2mm lift) paired with Supertech +1mm oversized stainless steel valves (34mm intake/30mm exhaust) and titanium retainers for reduced valvetrain mass. Port & polish the cylinder heads to 290cc intake/260cc exhaust flow rates, matched with a custom 6-2-1 stainless steel header by Supersprint (2.5\" primaries) and a 3\" cat-back exhaust system by Milltek Sport with a 304 stainless steel resonator delete.",
+    "Forced induction: Garrett GT2860RS-5 turbocharger (0.64 A/R turbine housing, 56 trim compressor) with a custom VR6-specific cast manifold by DieselGeek, paired with a Tial 44mm external wastegate and a custom 3\" intercooler setup by Wagner Tuning (800hp core, 600mm x 300mm x 76mm). Fueling upgrades include a Walbro 450 LPH in-tank pump, Siemens DEKA 80lb/hr injectors, and a custom VR6-specific standalone ECU by AEM Infinity 7 with flex-fuel capability and individual cylinder tuning.",
+    "Drivetrain: 02M 6-speed manual transmission with a Sachs Performance twin-disc clutch (240mm, 700Nm torque capacity) and a Quaife ATB differential (80% lockup). Custom axles by The Driveshaft Shop (Stage 3, 300M steel) and a VR6-specific lightweight flywheel by Fidanza (8.5lb aluminum). Suspension includes KW Clubsport coilovers (2-way adjustable, 300lb/in springs) with spherical bearing top mounts by 034 Motorsport and polyurethane subframe bushings by Vibratechnics."
+  ],
+  "estetica": [
+    "Aero: Custom widebody conversion using a Rocket Bunny V2 Bora kit (Pandem front bumper, carbon fiber fenders with 50mm flares, and a duckbill rear wing in dry carbon fiber). Front splitter by VMR (carbon fiber, 3-piece adjustable) and a custom diffuser by Maxton Design (3D-printed ABS, 3\" overhang). Side skirts by OEM+ (carbon fiber, integrated LED turn signals).",
+    "Exterior: Full respray in Volkswagen Candy White (L90E) with a custom matte clear coat by 3M (1004 gloss level). OEM+ carbon fiber mirror caps, rear wiper delete with a custom aluminum plug, and a custom front grille by ECS Tuning (black honeycomb mesh, 3D-printed ABS). Lighting upgrades include LUX H8 V4 LED headlights (6000K, CRI 90) and sequential LED taillights by VLEDS (error-free, CAN-bus compatible).",
+    "Interior: Full Recaro SRD-E bucket seats (FIA 8862-2009 certified) with custom mounts by Bride (fixed-back, 3\" lower than OEM). Custom roll cage by Custom Cages (T45 steel, 6-point, bolt-in) with a removable harness bar for daily use. Steering wheel by Momo (Mod.77, 320mm, suede) with a quick-release hub by NRG. Custom gauge cluster by Defi (3.5\" digital dash, oil temp/pressure, boost, and wideband AFR) mounted in a carbon fiber pod by 034 Motorsport."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "ARTEON R",
+  "prestazioni": [
+    "ECU remap via **APR Stage 2+ Software (EA888 Gen4.0 - DADA engine code)** with custom ethanol (E85) calibration, targeting 420 HP and 450 Nm torque on 98 RON fuel, utilizing the stock **IHI IS38 turbocharger** with a **Forge Motorsport Motorsport 3-port diverter valve** and **034 Motorsport high-pressure fuel pump** for sustained boost stability",
+    "Full **CTS Turbo Turbo-Back Exhaust System (3.5\" diameter, T304 stainless steel, quad 102mm tips)** with **Borla Pro XS mufflers** for optimized backpressure reduction, paired with a **VWR Racing downpipe (de-catted, 300-cell race cat)** to eliminate turbo lag and enhance spool characteristics",
+    "Suspension overhaul with **KW Suspensions Clubsport 3-way coilovers (adjustable compression/rebound, 40mm drop)** featuring **H&R anti-roll bars (24mm front, 22mm rear)** and **SuperPro polyurethane bushings (full subframe, control arms, and diff mounts)** for razor-sharp turn-in and reduced body roll, complemented by **Michelin Pilot Sport Cup 2 Connect tires (255/35 R20 front, 285/30 R20 rear)** on **VMR V710 20x9.5 ET40 (front) and 20x11 ET45 (rear) wheels**"
+  ],
+  "estetica": [
+    "**Rocket Bunny V3 Widebody Kit (Pandem)** with custom **Volk Racing TE37V 20x10.5 ET30 wheels (matte black, 5x112 PCD)** for aggressive stance, featuring **carbon fiber fender flares (30mm wider front, 40mm wider rear)** and **custom front splitter (3D-printed ABS, 3-stage dive planes)** for aerodynamic balance",
+    "**OEM+ Lighting Upgrade** with **Hella Pagid Racetronics 2.0 LED headlights (Adaptive Matrix, 5000K)** and **Lux H8 V4 Angel Eyes (RGBW, 1200 lumens)** paired with **Morimoto XB LED fog lights (5500K, 3000 lumens)**, complemented by **VWR Racing carbon fiber side skirts and rear diffuser (with integrated LED reverse lights)**",
+    "**Interior Track Focus** featuring **Recaro Pole Position seats (carbon fiber backs, Alcantara/leather upholstery)** with **Schroth Profi II 6-point harnesses (FIA-approved)**, **Momo Mod.78 steering wheel (suede, 350mm diameter, quick-release hub)**, and **AEM X-Series 30-0300 wideband AFR gauge (mounted in custom A-pillar pod)** alongside a **Motec C125 dash logger (replacing the stock cluster)** for real-time telemetry"
+  ]
+}
