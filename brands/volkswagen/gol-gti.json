@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "GOL GTI",
+  "prestazioni": [
+    "Engine swap to a **VW EA111 1.8T (Code: CHTA)** with forged internals: Mahle Motorsport forged pistons (83mm, 8.5:1 CR), Eagle H-beam connecting rods, and a balanced crankshaft. Paired with a **Garrett GT2860RS-5 turbocharger** (0.64 A/R turbine housing) and **Tial MV-R 44mm wastegate** for 28 psi peak boost on E85.",
+    "Custom **Haltech Elite 2500 ECU** with flex-fuel mapping, **Bosch Motorsport 0280158002 1000cc injectors**, and a **VW Motorsport high-pressure fuel pump (06H127025C)**. Supporting mods include a **Pectel SQ6M standalone ECU** for traction control and launch control, with **AP Racing CP8841-2600 2-piece brake rotors** and **Ferodo DS2500 pads** for stopping power.",
+    "Full **02M 6-speed DSG transmission rebuild** with **South Bend Stage 3 Daily Clutch**, **VW Motorsport differential (02M321049B)**, and **Wavetrac LSD**. Suspension overhaul with **Ohlins Road & Track DFV coilovers (VW Gol Mk5-specific valving)**, **Whiteline adjustable sway bars (22mm front, 18mm rear)**, and **SuperPro poly bushings (SPF0116K) for subframe reinforcement**."
+  ],
+  "estetica": [
+    "**Rocket Bunny VW Gol GTI widebody kit (Pandem Mk5 Gol-specific)** with **custom carbon fiber front splitter (Seibon CF)** and **Voltex GT-Wing (Type 3, 1700mm span)**. Full **3M 1080 Gloss Black vinyl wrap** with **custom gold pinstriping (by HRE Wheels designer)** and **OEM+ VW Motorsport badging (EA111T logo on fenders)**.",
+    "**BBS RS-GT 17x8.5 ET35 wheels** with **Pirelli P Zero Trofeo R tires (225/40/17)**, **Project Kics R40 6-pot lug nuts**, and **custom gold anodized wheel centers**. **Recaro Sportster CS seats (VW Gol-specific mounting brackets)** with **Schroth Profi II 4-point harnesses** and **custom Alcantara door cards (by Status Racing)**.",
+    "**Full custom interior cage (by Custom Cages UK)** with **bolt-in X-brace (T45 steel)**, **Sparco 6-point harness bar**, and **carbon fiber dashboard overlay (by Varis)**. **AEM X-Series digital dash (30-0300)** with **custom Gol GTI-themed startup animation**, and **LED puddle lights (Osram LEDriving SL 101)** in **VW Motorsport blue**."
+  ]
+}

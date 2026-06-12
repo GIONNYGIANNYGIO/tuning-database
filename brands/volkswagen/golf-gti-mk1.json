@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "GOLF GTI MK1",
+  "prestazioni": [
+    "Engine swap to a 2.0L 16V ABA (engine code: ABA) from a VW Jetta GLI with a Schrick 272° camshaft, Schrick valve springs, and a custom-mapped Bosch Motronic MA1.2 ECU using a standalone AEM X-Series wideband O2 controller for precise AFR targeting (12.5:1 under boost, 13.5:1 cruise).",
+    "Forced induction via a Garrett GT2860R-5 turbocharger (0.86 A/R turbine housing) with a custom 3-inch stainless steel exhaust manifold by Autotech, paired with a Tial 44mm external wastegate and a custom intercooler setup using a GReddy Type-S front-mount intercooler with 2.5-inch silicone couplers and a K&N cone filter.",
+    "Suspension overhaul with KW Variant 1 coilovers (MK1-specific valving), polybushings from 034 Motorsport, and a custom 22mm rear sway bar by H&R. Braking upgraded to 4-piston Wilwood calipers with 280mm vented rotors up front and 256mm solid rotors in the rear, paired with Ferodo DS2500 pads and braided stainless steel lines."
+  ],
+  "estetica": [
+    "Full Rocket Bunny MK1 widebody kit (fiberglass fenders, front bumper, and rear diffuser) with custom carbon fiber side skirts and a custom 2-inch rear ducktail spoiler by VW Heritage. Painted in Volkswagen Mars Red (LH3D) with a matte black roof and gold BBS RS 15x8 wheels (ET20) wrapped in Toyo R888R 205/45/15 tires.",
+    "Custom interior with Recaro SRD Evo seats (MK1-specific mounting brackets) upholstered in black Alcantara with red stitching, a Momo Prototipo steering wheel (350mm, suede), and a custom roll cage by Custom Cages (8-point, TIG-welded, bolt-in design).",
+    "Engine bay detailing with a custom aluminum radiator support by Techtonics Tuning, a carbon fiber strut brace by Neuspeed, and a custom aluminum intake manifold cover with engraved 'GTI 16V' script. All wiring loomed with Techflex braided sleeving and color-coded for easy diagnostics."
+  ]
+}

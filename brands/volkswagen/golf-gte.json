@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "GOLF GTE",
+  "prestazioni": [
+    "APR Stage 2+ ECU/TCU flash for the **EA211 1.4 TSI (CZDA/CZEA)** hybrid powertrain, targeting 320 HP and 400 Nm torque with a custom ethanol (E85) blend map, paired with a **CTS Turbo FMIC (intercooler) kit** (part #CTS-010-0001) to reduce intake temps by 25°C under sustained boost (22 psi peak)",
+    "Full **034Motorsport Hybrid Turbo Upgrade (K04-064 hybrid)** for the EA211, featuring a billet compressor wheel (60mm inducer, 72mm exducer) and reinforced turbine housing (0.64 A/R), mated to a **TurboSmart Kompact 40mm wastegate (part #TS-0604-1001)** for precise boost control and reduced lag (0.5s faster spool to 20 psi)",
+    "Custom **4 Piston Racing (4PR) big brake kit** (front: 355mm 2-piece rotors with **Ferodo DS2500** pads, rear: 330mm rotors with **Hawk HT-10** pads), paired with **Motul RBF 660** brake fluid and **Goodridge G-Stop stainless steel braided lines** for fade-resistant stopping (0-100-0 km/h in 12.8s)"
+  ],
+  "estetica": [
+    "**Rieger Tuning MK7.5 Golf GTE-specific widebody kit** (part #RGT-75-GTE-WB), featuring carbon fiber front fenders (25mm wider per side), rear quarter panels (30mm wider), and a **custom 3D-printed ABS rear diffuser** with integrated **VRS-style vortex generators** for reduced drag (Cd drop of 0.03)",
+    "**OEM+ Euro-spec LED headlight retrofit** with **Hella Dynamic Lighting System (DLS)** (part #HLS-8KD-001), including **Osram Night Breaker Laser H7 bulbs** (150% brighter than stock) and a **custom DRL delete plate** (carbon fiber, part #VWR-75-GTE-DRL) for a cleaner front fascia",
+    "**Forge Motorsport carbon fiber engine cover** (part #FMIC-001) with **laser-etched GTE script** and **red anodized M8 hardware**, paired with a **custom aluminum charge pipe (part #CTS-010-0002)** in **brushed finish with TIG-welded beads** for a hybrid of OEM+ and motorsport aesthetics"
+  ]
+}

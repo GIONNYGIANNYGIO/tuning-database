@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "GOLF GTI MK4",
+  "prestazioni": [
+    "Engine: 1.8T (engine code: **AUM** or **AWP**) – Full forged internals build with **Mahle Motorsport forged pistons (83mm, 8.5:1 CR)**, **Manley H-beam connecting rods (200g weight-matched)**, and **ARP L19 head studs** for 30+ psi boost capability. Pair with a **Garrett GT3076R turbo (0.86 A/R, ball-bearing)** on a **custom 3-inch stainless steel turbo manifold (Tial 44mm wastegate)** for 380-420whp on **E85 fuel**.",
+    "Fuel System: **Bosch 044 high-flow fuel pump (340L/hr)**, **Siemens DEKA 80lb/hr injectors (flow-matched)**, and **AEM 340LPH ethanol-compatible fuel pump** with a **Radium Engineering dual-port fuel pressure regulator** to support E85 blends. **NGK 97506 (BKR7EIX) iridium spark plugs** gapped at 0.022\" for optimal ignition under high boost.",
+    "Drivetrain & Handling: **Peloquin LSD (25% lockup, 1.5-way)** in a **02M 6-speed transmission** with **South Bend Stage 3+ Clutch (organic/ceramic hybrid, 6-puck)** and **02J transmission mount insert (polyurethane, 80A durometer)**. Suspension: **KW Clubsport coilovers (2-way adjustable, 400lb/in front springs, 500lb/in rear)** with **Whiteline adjustable sway bars (24mm front, 22mm rear)** and **SuperPro poly bushings (full subframe, control arms, trailing arms)** for razor-sharp turn-in."
+  ],
+  "estetica": [
+    "Aero: **Rieger Tuning MK4 GTI widebody kit (carbon fiber front splitter, side skirts, and rear diffuser)** paired with a **custom 3-piece carbon fiber rear wing (9 Lives Racing, 100mm chord, 30mm height)** for -150kg downforce at 120mph. **OEM+ Euro-spec headlights (Hella DE, clear lenses)** with **Morimoto HID projectors (5500K, 35W)** and **Lux H8 V4 LED fog lights**.",
+    "Wheels & Stance: **BBS LM-R (8.5x17 ET35 front, 9.5x17 ET30 rear)** with **Nankang AR-1 semi-slick tires (225/45/17 front, 245/40/17 rear)** on **H&R Trak+ wheel spacers (15mm front, 25mm rear)** for aggressive flush fitment. **Custom 4-piston Wilwood calipers (1.75\" pistons) with 326mm slotted rotors** behind a **BBS CH-R II 17x9.5\" wheel (ET25, gold)** for track use.",
+    "Interior & Details: **Recaro SRD (Evo IX-style, fixed-back, carbon fiber shells)** with **Schroth 6-point harnesses (ASM2)** and **Momo Mod.78 steering wheel (350mm, suede)**. **Custom roll cage (8-point, TIG-welded, 1.75\" DOM tubing)** with **Sparco Pro 2000 fire suit** and **OMP KS-3 racing seats (carbon fiber, FIA-approved)**. Exterior accents: **3M Matte Graphite vinyl wrap (full body, satin finish)** with **OEM Euro-spec GTI badges (red \"GTI\" lettering, debadged rear)** and **VW Motorsport OEM carbon fiber mirror caps**."
+  ]
+}

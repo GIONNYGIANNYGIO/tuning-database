@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "CALIFORNIA",
+  "prestazioni": [
+    "Engine swap to a **VW EA888 Gen 3 (CJXA 2.0L TSI)** with a **Garrett GTX3582R turbocharger** (82mm compressor, 1.06 A/R turbine housing) paired with a **Precision Turbo & Engine 46mm wastegate** for 400+ HP on **E85 fuel**, utilizing a **034 Motorsport billet crankshaft** and **Mahle Motorsport forged pistons** (9.5:1 compression) with **ARP Custom Age 625+ head studs**",
+    "Full **AEM Infinity 7** standalone ECU with **Bosch Motorsport 0280158001 1000cc injectors**, **NGK 97506 Iridium IX spark plugs**, and a **Forge Motorsport dual-pass intercooler** (50% larger core than OEM) with **Samco Sport silicone hoses** and a **Vargas GC Stage 2 clutch kit** (organic twin-disc)",
+    "Custom **KW Suspensions Clubsport 3-way coilovers** (adjustable compression/rebound/damping) with **H&R 25mm front and 20mm rear anti-roll bars**, **SuperPro polybushings** (full chassis refresh), and **Brembo GT 355mm 6-piston front/345mm 4-piston rear brake kit** (2-piece rotors, Ferodo DS2500 pads) on **BBS RS-GT 9x20 ET35 wheels** with **Michelin Pilot Sport Cup 2 tires (255/35 R20)**"
+  ],
+  "estetica": [
+    "**Rocket Bunny VW T6.1 California-specific widebody kit** (carbon fiber fenders, front bumper, and rear diffuser) with **custom 3D-printed air vents** (integrated with the **VW California pop-top roof** for improved aerodynamics)",
+    "**OEM+ VW California Oceanic Blue Pearl paint** with **3M Matte Black Vinyl wrap** (lower rocker panels, mirror caps, and roof) and **Vorsteiner V-FF107 carbon fiber side skirts** (pre-preg autoclave construction), paired with **Hella Rallye 3000 Supertones** (clear lenses, CREE LED bulbs)",
+    "**Custom interior overhaul** featuring **Recaro Pole Position seats** (VW California-specific mounting brackets), **MOMO Mod.78 steering wheel** (350mm, suede), **Alcantara headliner** (matching VW California Oceanic Blue stitching), and **AEM X-Series digital dash** (replacing the stock instrument cluster) with **LED ambient lighting** (RGB, synced to **Philips Hue** for dynamic color shifts)"
+  ]
+}

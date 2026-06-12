@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "CORRADO VR6",
+  "prestazioni": [
+    "Engine: 12v AAA VR6 (2.8L) with Schrick 272° camshafts, 1.1:1 rocker arms, and Supertech +1mm oversized valves (32.5mm intake / 28.5mm exhaust) paired with Ferrea F5000 series valve springs and titanium retainers for 8,000 RPM capability",
+    "Forced induction: Garrett GT2860RS-5 turbocharger (0.63 A/R turbine housing) with custom 3-inch stainless steel downpipe, GReddy Type-S intercooler (550x225x76mm core), and Bosch 0280155996 3-bar MAP sensor for 12 psi boost on 98 RON fuel",
+    "Fuel system: Bosch 044 high-flow fuel pump, Siemens DEKA 80lb/hr injectors (PN 62806), and AEM 340lph in-tank pump with -8AN feed/return lines, controlled via AEM EMS Series 2 standalone ECU with VR6-specific VR6Tune base maps"
+  ],
+  "estetica": [
+    "Body: Oettinger Corrado G60R widebody conversion (fiberglass fenders, front splitter, and rear diffuser) with custom 3M Matte Graphite vinyl wrap and debadged grille",
+    "Wheels: BBS RS-GT 9x16 ET25 front / 10x16 ET20 rear with 205/45/16 and 225/45/16 Nankang NS-2R tires, hub-centric spacers (15mm front / 25mm rear) for flush fitment",
+    "Interior: Recaro SRD Evo II seats (Schroth 4-point harnesses), Momo Prototipo steering wheel (330mm diameter), and custom aluminum gauge pod with Defi BF series boost/fuel pressure/oil temp gauges (52mm)"
+  ]
+}

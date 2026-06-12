@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "GOL GTI 16V TURBO",
+  "prestazioni": [
+    "Engine: EA827 1.8L 16V Turbo (code: PF) with forged internals including Mahle Motorsport forged pistons (83.5mm, 9.5:1 CR), Eagle H-beam connecting rods, and ARP head studs for 1.5-bar boost capability",
+    "Turbocharger: Garrett GT2860RS-5 (ball-bearing, 0.64 A/R turbine housing) with custom 3-inch stainless steel downpipe and Vibrant 1799 high-flow catalytic converter for optimized spool and 320+ HP potential",
+    "Fuel System: Bosch Motorsport 044 high-flow fuel pump, Siemens DEKA 60lb/hr injectors, and AEM F/IC Pro standalone ECU with custom 3D-printed intake manifold (polyamide 12) for optimized airflow and injector targeting"
+  ],
+  "estetica": [
+    "Body Kit: Rocket Bunny V1 Gol GTI widebody conversion with carbon fiber front splitter, overfenders (2.5-inch flares), and ducktail spoiler (20mm adjustable angle) for -150kg downforce at 120mph",
+    "Suspension: Ohlins Road & Track DFV coilovers (24-way rebound, 12-way compression adjustability) with custom-spec springs (-30mm drop) and spherical bearing front control arms (SuperPro 6945K) for subframe reinforcement",
+    "Wheels: Work Meister S1 3P 16x8 +35 (front) and 16x9 +38 (rear) with Toyo R888R 205/45/16 and 225/40/16 tires, paired with Brembo GT 330mm 4-piston calipers and DBA 5000 Series rotors (slotted, zinc-coated)"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "CARAVELLE",
+  "prestazioni": [
+    "Engine swap to a 3.2L VR6 (engine code: AXK) with a custom forged internals build by Mahle (pistons, connecting rods) and a Schrick 288° camshaft kit, paired with a custom 4-2-1 stainless steel header by Supersprint and a Milltek Sport 76mm cat-back exhaust system with non-resonated center section for maximum VR6 howl",
+    "Garrett GT3076R turbocharger (0.82 A/R turbine housing) with a custom air-to-water intercooler setup by Wagner Tuning, mounted in the rear quarter panel with dual 100mm silicone charge pipes and a Pierburg CWA 100 high-flow water pump for intercooler circulation",
+    "Bosch Motorsport 0261S02088 standalone ECU with custom VR6 turbo mapping by Dynojet Europe, including a 4-bar MAP sensor, dual Bosch 0280158002 wideband O2 sensors, and a custom wiring harness by HPA Motorsports for full sequential fuel and ignition control"
+  ],
+  "estetica": [
+    "Full Rocket Bunny VW T6.1 widebody conversion kit (front fenders, rear quarter panels, and rear bumper) with custom carbon fiber overfenders by Seibon, retaining the OEM sliding doors but with custom aluminum door skins by BBS for weight reduction",
+    "Custom front splitter and rear diffuser by Prior Design, designed specifically for the Caravelle’s aero profile, with integrated air curtains and a 3D-printed ABS underbody tray to smooth airflow beneath the van",
+    "OEM+ Euro-spec LED headlights (VW part #5G0941007G) with custom LUX H8 LED bulbs and a full Hella Dynamic Lighting System (DLS) retrofit, paired with a custom rear light setup using Audi A6 C7 OEM LED taillights (part #4G0945095D) with smoked lenses and sequential turn signals via a VW-specific BCM coding module by Ross-Tech"
+  ]
+}

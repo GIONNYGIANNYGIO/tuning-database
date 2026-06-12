@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "RAV4 PRIME",
+  "prestazioni": [
+    "Hybrid powertrain recalibration for the 2.5L A25A-FXS I4 + dual electric motors (front/rear) via **OpenECU Piasini Stage 2+ tune**, targeting 400+ combined hp (350 hp ICE + 100 hp electric boost) with optimized torque split for AWD launches (0-60 mph in ~4.5s). Includes **Denso G9E-9001 high-efficiency ignition coils** and **NGK 97236 Iridium IX spark plugs** for sustained high-RPM combustion stability.",
+    "Forced induction upgrade via **Garrett GTX2867R Gen II turbocharger** (custom-machined **GSC Power-Division billet compressor wheel**) paired with a **Treadstone TR-FS400 front-mount intercooler** (5.5\" core thickness, 1,200 CFM airflow) and **TurboSmart Kompact 40mm wastegate** (set to 22 psi peak boost). Requires **Mishimoto MMINT-TOYRAV4-18 silicone charge pipes** and **Radium Engineering 20-0111 fuel pressure regulator** to handle 500+ hp fueling demands.",
+    "Drivetrain reinforcement with **PPF (Power Plant Frame) delete** and **KAAZ 2.5L A25A-FXS limited-slip differential** (2.5-way mechanical LSD, 45/75% torque bias) paired with **Toyota Racing Development (TRD) 4.300 final drive gears** (OEM part # 41201-47070). Includes **South Bend Clutch Stage 3+ twin-disc clutch** (ceramic-metallic friction, 600 ft-lb torque capacity) and **Peloquin front differential cover** (aluminum, finned for heat dissipation)."
+  ],
+  "estetica": [
+    "**Liberty Walk LB Works RAV4 Prime widebody kit** (2021+ specific, 3-piece FRP construction, +80mm front/+100mm rear fender flares) with **custom carbon fiber side skirts** (hand-laid 3K twill, clear coat matte finish) and **Seibon Carbon RAV4 Prime hood** (dual heat extractors, 50% weight reduction vs. OEM).",
+    "**VMR V710 20x10.5\" ET25 wheels** (matte bronze finish, 5x114.3 PCD) wrapped in **Michelin Pilot Sport Cup 2 Connect 275/35R20 tires** (semi-slick compound, 8.5\" tread width). Includes **H&R TRAK+ 25mm front / 20mm rear lowering springs** (progressive rate, retains OEM adaptive dampers) and **Whiteline BTR95X front sway bar** (24mm hollow, adjustable end links).",
+    "**Rally Innovations RAV4 Prime front bumper lip** (3D-scanned OEM fitment, carbon-Kevlar hybrid) with **custom LED DRL delete** (replaced with **Lux H8 Angel Eyes** in 6000K CRI90) and **Morimoto XB LED fog lights** (5,500-lumen output, 50W CREE XHP50.2 chips). Rear features **Valenti LED taillights** (sequential turn signals, smoked lenses) and **custom titanium exhaust tips** (3.5\" dual-wall, **APR Performance GTC-2000 rear diffuser** for downforce)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "BEETLE RSI",
+  "prestazioni": [
+    "Engine: 3.2L VR6 (engine code: **AQP**) with a **Garrett GT3582R** turbocharger (0.82 A/R turbine housing) running 1.2 bar of boost, paired with a **Precision Turbo 46mm wastegate** for precise boost control. Forged internals include **Mahle Motorsport forged pistons (8.5:1 compression)**, **Manley H-beam connecting rods**, and a **Crankshaft Company billet crankshaft** to handle 600+ HP reliably.",
+    "Fuel System: **Bosch Motorsport 044 high-flow fuel pump** with **ID1000x injectors** (side-feed, 1000cc/min) and a **Syvecs S6Plus ECU** for standalone engine management, calibrated for E85 flex-fuel capability. A **Radium Engineering dual-catch can system** (AN-10 lines) prevents oil buildup in the intake tract under high boost.",
+    "Drivetrain & Suspension: **Quaife ATB helical LSD** in a **02M 6-speed transmission** with a **South Bend Clutch Stage 3 daily** (organic/ceramic hybrid) for 600 lb-ft torque capacity. **Ohlins Road & Track DFV coilovers** (custom valved for the Beetle RSI’s 5x100 bolt pattern) with **Eibach 25mm front and 20mm rear anti-roll bars** to eliminate body roll. **AP Racing CP6640-3600 front brake kit** (360mm 2-piece rotors, 6-piston calipers) and **Brembo GT 330mm rear rotors** with **Ferodo DS2500 pads** for fade-resistant stopping power."
+  ],
+  "estetica": [
+    "Body Kit: **Rocket Bunny Pandem Beetle V2 widebody kit** (carbon fiber fenders, front/rear bumpers, and side skirts) with **custom 3M Matte Military Green wrap** (PPF-protected high-wear areas). **Seibon Carbon fiber hood** (vented, with integrated NACA ducts for the intercooler) and **Volk Racing TE37SL 18x9.5 +35 front / 18x10.5 +30 rear wheels** (ET optimized for widebody fitment) wrapped in **Michelin Pilot Sport Cup 2 R tires (245/35/18 front, 275/30/18 rear)**.",
+    "Aero & Lighting: **Voltex Type-3 rear wing** (carbon fiber, 3D-printed mounts for Beetle RSI’s rear hatch) with **custom Gurney flap** for downforce. **Depo Racing LED headlights** (DRL-integrated, HID projectors) and **Morimoto XB LED fog lights** (relocated to the front bumper’s lower ducts). **AEM X-Series digital boost gauge** (mounted in a **Momo carbon fiber steering wheel** with quick-release hub) and **Defi BF gauges** (oil temp/pressure, AFR) in a **custom aluminum A-pillar pod**.",
+    "Interior: **Recaro SPG XL seats** (alcantara/leather, 6-point harnesses) with **Schroth Profi II 6-point harnesses** (VW-specific mounting points). **Custom roll cage** (TIG-welded 4130 chromoly, bolt-in design) with **Sparco harness bar** and **Vibra-Technics engine/transmission mounts** to reduce NVH. **Alcantara-wrapped dashboard** (matching the seats) with **AEM CD-7 digital dash** (replacing the stock cluster) and **Pioneer AVH-W4500NEX head unit** (Apple CarPlay/Android Auto, 10-inch touchscreen)."
+  ]
+}

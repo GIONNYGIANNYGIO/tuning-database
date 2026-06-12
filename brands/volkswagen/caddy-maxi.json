@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "CADDY MAXI",
+  "prestazioni": [
+    "Replace the stock **2.0L TDI CR EA288 (CJXB/CJXC)** engine's turbo with a **Garrett GTD2056VK** variable-geometry turbocharger, paired with a **Bosch CP4.2 high-pressure fuel pump** and **Siemens 870cc injectors** for a target of 280hp and 550Nm torque on **Shell V-Power 102 RON fuel** with a **Dimsport Genius 2.0 ECU remap** (Stage 2+ with EGR/DPF/AdBlue delete via **RaceChip Pro 2.0** piggyback controller).",
+    "Install a **Forge Motorsport intercooler kit (FMIC-0006)** with a **3.5-inch aluminum charge pipe setup** and **Samco Sport silicone hoses** to reduce intake temps by 25°C under full boost, complemented by a **Milltek Sport 3-inch turbo-back exhaust system (SSX240)** with a **scorpion downpipe** and **GESI catalytic converter (100-cell)** for Euro 6 compliance.",
+    "Upgrade the **MQB-based DQ200 7-speed DSG transmission** with a **DSG Solutions Stage 2 TCU tune**, **South Bend Clutch Stage 3 daily disc**, and **034 Motorsport transmission mounts (034-50-TM-0001)** to handle the increased torque, while fitting a **Peloquin limited-slip differential (PQ-001)** for front-wheel-drive traction optimization."
+  ],
+  "estetica": [
+    "Fit a **Rieger Tuning widebody kit (VW-CADDY-MAXI-WB)** with **custom 3M 2080 Gloss Black vinyl wrap** and **OEM+ side skirts (VW part #5K0 807 685 B GRU)**, lowering the ride height via **H&R Trak+ Sport Springs (20mm drop)** paired with **Bilstein B16 PSS10 coilovers** for adjustable damping.",
+    "Replace the stock headlights with **Depo Racing LED projector headlights (VW-CADDY-MAXI-LED)** featuring **Osram Night Breaker Laser bulbs** and **Morimoto XB LED fog lights**, while adding a **Carbonio CA-1000 cold air intake** with a **custom heat shield (laser-cut 2mm aluminum)** for engine bay aesthetics.",
+    "Install a **Rear diffuser from Maxton Design (VW-CADDY-MAXI-RD)** in **matt black ABS plastic**, paired with a **custom 3D-printed rear spoiler (PETG material)** and **OZ Racing Ultraleggera HLT wheels (8x18 ET45, 5x112 PCD)** wrapped in **Michelin Pilot Sport Cup 2 tires (225/40 R18)** for a motorsport-inspired stance."
+  ]
+}

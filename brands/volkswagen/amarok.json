@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "AMAROK",
+  "prestazioni": [
+    "Engine: 3.0L TDI V6 (engine code: CDUD) – Full standalone ECU conversion to a Motec M150 with custom fuel and ignition maps for E85 flex-fuel capability, supporting 450+ hp at 4,200 rpm and 850 Nm torque at 2,200 rpm. Includes upgraded Bosch CP4.2 high-pressure fuel pump and 1,000cc ID1000 injectors.",
+    "Turbocharger: BorgWarner EFR 8374 (80mm, 0.92 A/R) with TiAL MV-R 44mm external wastegate, custom 3.5\" stainless steel downpipe, and Garrett G-Series intercooler core (450x650x76mm) with custom CNC-machined end tanks for reduced pressure drop.",
+    "Drivetrain: ZF 8HP70 8-speed automatic transmission with upgraded Sonnax valve body and reinforced clutch packs, paired with a Quaife ATB helical LSD in the rear axle (Amarok-specific housing modification required). Custom 3.55:1 final drive ratio for optimized acceleration."
+  ],
+  "estetica": [
+    "Widebody conversion: Liberty Walk LB Works Amarok kit (carbon fiber fenders, extended rocker panels, and rear diffuser), requiring custom wheel spacers (25mm front, 35mm rear) to clear 22\" Work Meister S1 3P wheels (9.5\" front, 11.5\" rear) with 295/30R22 Michelin Pilot Sport Cup 2 tires.",
+    "Suspension: KW Variant 7 Clubsport coilovers with remote reservoirs, custom valving for the Amarok's multi-link rear setup, and adjustable top mounts for camber/caster tuning. Includes Eibach 35mm front sway bar and 28mm rear sway bar for reduced body roll.",
+    "Aerodynamics: Custom 5-axis CNC aluminum front splitter with integrated canards (3D-printed PETG endplates), paired with a Voltex GT-Wing (1,800mm width, 300mm chord) mounted on custom billet aluminum pedestals. Full underbody diffuser with integrated LED lighting (Osram 6,000K)."
+  ]
+}

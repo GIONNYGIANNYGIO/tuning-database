@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "GOLF GTI MK2",
+  "prestazioni": [
+    "Engine swap to a 2.0L 16V ABF engine (from VW Corrado) with a Schrick 272° camshaft kit, Mahle forged pistons (83.5mm bore, 9.5:1 CR), and ARP head studs for 1.2-bar boost compatibility with a Garrett T25 turbo (TD04H-15G housing) on a custom tubular manifold by Autotech.",
+    "Full standalone engine management via a Haltech Elite 1500 ECU with individual cylinder tuning, paired with a Bosch 044 high-flow fuel pump, Siemens DEKA 60lb/hr injectors, and a custom 3\" stainless steel exhaust system with a 2.5\" cat-back section by Supersprint, terminating in a 76mm dual-exit muffler.",
+    "Chassis reinforcement with a G60-spec 5-point bolt-in roll cage by Wiechers Sport, polybushings from Vibratechnics (front control arms, subframe, and trailing arms), and a fully adjustable suspension setup with Bilstein PSS9 coilovers (8-position damping) and Eibach Pro-Kit springs (-30mm drop) for optimal weight transfer under hard cornering."
+  ],
+  "estetica": [
+    "Full OEM+ resto-mod with a period-correct BBS RS 002 15x8\" wheels (ET20 offset) wrapped in 195/45R15 Toyo R888R semi-slick tires, paired with a custom front lip and rear diffuser by Rocket Bunny (MK2-specific, not a generic kit) in raw carbon fiber.",
+    "Recaro SRD Evo II seats (1988-spec, red/black cloth) mounted on custom floor mounts with Schroth 4-point harnesses, complemented by a Momo Prototipo 330mm steering wheel (quick-release hub) and a full digital dash retrofit using a Racepak IQ3 logger with analog-to-digital conversion for stock gauges.",
+    "Full respray in VW Lhasa Green (original MK2 GTI color code LY6V) with a 2-stage matte clear coat, de-badged exterior, and custom Hella Rallye 1000 headlights (H4 conversion) with Cibie Oscar fog lights integrated into the front bumper (US-spec MK2 GTI swap for wider fitment)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "CORRADO VR6 LIMITED EDITION",
+  "prestazioni": [
+    "Engine: 2.9L 12v AAA VR6 (engine code: AAA) with forged internals including Mahle Motorsport forged pistons (8.5:1 compression), Carrillo H-beam connecting rods, and a balanced crankshaft by VW Motorsport. Paired with a Schrick 272° camshaft kit and titanium retainers from Supertech Performance for high-RPM stability.",
+    "Forced Induction: Custom-built turbo setup using a Garrett GT2860RS-5 turbocharger (GT28R core) with a custom T3/T4 hybrid manifold by Autotech, featuring a 38mm external wastegate (Tial MV-R) and a custom 3.5\" intercooler (Bell Intercoolers) with a 50mm thick core and CNC-machined end tanks for optimized airflow.",
+    "Fuel & Ignition: Full standalone Motec M150 ECU with individual cylinder tuning, paired with Bosch Motorsport 0280158861 800cc/min injectors, a Walbro 450 LPH in-tank fuel pump, and a custom fuel rail by Integrated Engineering. Ignition system upgraded to MSD 8252 Digital 6AL with a Blaster SS coil and NGK R7437-9 racing spark plugs gapped at 0.024\" for high-boost reliability."
+  ],
+  "estetica": [
+    "Body: Full Rocket Bunny V1 Corrado widebody kit (fiberglass) with custom extended front fenders to clear 9.5\" ET22 BBS RS 002 wheels (17x9.5 front, 17x10.5 rear). Front bumper modified with a custom carbon fiber splitter by Seibon and a functional hood scoop (carbon fiber, Seibon) for intercooler ducting.",
+    "Interior: Full Recaro SRD-E (Evo II) seats in black Alcantara with red stitching, bolted to custom mounts for a 1.5\" lower seating position. Custom roll cage by Autopower (8-point, TIG-welded) with integrated harness bar for Schroth Profi II 6-point harnesses. Dashboard and door cards wrapped in Alcantara with red contrast stitching, and a Momo Mod.78 steering wheel (350mm) on a NRG quick-release hub.",
+    "Lighting & Details: Full OEM+ LED conversion with Hella 500 Series headlights (projector retrofit), rear Euro-spec LED taillights (Hella), and custom carbon fiber side mirrors (Seibon). Engine bay detailed with a custom aluminum radiator support (polished), carbon fiber strut brace (Neuspeed), and a custom billet aluminum oil cap (034 Motorsport)."
+  ]
+}

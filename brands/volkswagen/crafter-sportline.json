@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "CRAFTER SPORTLINE",
+  "prestazioni": [
+    "Engine: Replace the stock 2.0L TDI CR (engine code: **DFGA**) with a **Volkswagen Motorsport 2.0L TDI BiTDI (engine code: CUAA)** from the VW Amarok V6, featuring a **Garrett GTB2260VK turbocharger** (hybridized with a **BorgWarner EFR 7670 compressor wheel** for 3.0 bar boost), **Mahle Motorsport forged pistons** (83mm, 12.5:1 CR), and **Manley H-beam connecting rods** (214g weight). Pair with a **Denso G9A 2200cc/min fuel pump** and **Bosch CP4.2 high-pressure fuel system** (2,000 bar rail pressure).",
+    "Drivetrain: Install a **ZF 8HP70X 8-speed automatic transmission** (from the Audi SQ8 TDI) with a **South Bend Clutch dual-disc ceramic clutch** (240mm, 6-puck) and **Quaife ATB helical LSD** (80% lockup). Upgrade the driveshafts to **GKN VL3 heavy-duty CV joints** and **Neapco 3.5-inch aluminum driveshafts** (balanced to 8,000 RPM).",
+    "Suspension/Handling: Fit **Bilstein B16 PSS10 coilovers** (adjustable damping, 80mm drop) with **H&R 30mm front/rear anti-roll bars** and **SuperPro poly bushings** (95A durometer). Replace stock brakes with **Brembo GT 6-piston calipers** (380mm rotors, 32mm pads) up front and **4-piston calipers** (345mm rotors) at the rear, paired with **Ferodo DS2500 race pads** and **ATE Type 200 brake fluid** (500°C boiling point)."
+  ],
+  "estetica": [
+    "Aero: Install a **Rieger Tuning Crafter Sportline widebody kit** (carbon fiber, 80mm flares) with a **Vortex Engineering front splitter** (3D-printed ABS, 50mm overhang) and **Reiger rear diffuser** (dual 100mm exhaust cutouts). Add a **Seibon carbon fiber hood** (vented, 3kg weight reduction) and **Aerocatch hood pins**.",
+    "Wheels/Tires: Mount **BBS RS-GT2 10x22 ET35 wheels** (9.5J front, 10.5J rear) with **Michelin Pilot Sport Cup 2 R tires** (275/30 R22 front, 295/25 R22 rear). Use **H&R Trak+ wheel spacers** (15mm front, 20mm rear) for flush fitment and **Project Kics R40 lug nuts** (closed-end, titanium).",
+    "Lighting/Details: Replace headlights with **Hella 500 Series LED projectors** (Bi-Xenon, 4,500K) and **Morimoto XB35 LED fog lights**. Add **Osram Night Breaker Laser bulbs** (H7, 150% brightness) and **Vland sequential LED taillights** (Smoked, CAN-bus compatible). Paint the calipers **Motul Racing Blue** and wrap the roof in **3M Gloss Black 1080 vinyl**."
+  ]
+}
