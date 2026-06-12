@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "JETTA GLI",
+  "prestazioni": [
+    "Engine: EA888 Gen 3 (CCTA/CDTA) 2.0L TSI with forged internals including Mahle Motorsport forged pistons (83mm, 9.6:1 CR), Eagle H-beam connecting rods, and ARP head studs for 30+ psi boost capability. Paired with a Garrett GTX3582R turbocharger (0.82 A/R, 62mm compressor, 71mm turbine) on a custom 3.5\" V-band downpipe with a Tial MV-R 44mm external wastegate (spring pressure set to 28 psi base).",
+    "Fuel System: Full return-style fuel system with a Radium Engineering dual-catch can setup (PN 20-0118), upgraded to dual Bosch Motorsport 044 fuel pumps (1,200+ LPH) feeding Injector Dynamics ID1050x injectors (1,050cc/min) via a Syvecs S6Plus standalone ECU with flex-fuel capability and ethanol content sensor. Custom 3/8\" braided AN lines with -8 feed/-6 return for the fuel rail.",
+    "Suspension & Handling: KW Clubsport 3-way coilovers (24-way rebound, 12-way compression, adjustable top mounts) with helper springs for linear spring rates, paired with H&R 24mm front / 22mm rear anti-roll bars (hollow, adjustable end links). Full poly bushings (034 Motorsport subframe bushings, Powerflex black series control arm bushings) and Neuspeed RSe12 18x8.5\" ET42 wheels (9.5kg each) with Michelin Pilot Sport Cup 2 tires (235/40/18)."
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny V2 widebody kit (Jetta Mk6-specific, 3-piece front bumper, overfenders with 25mm spacers, carbon fiber rear diffuser) with a custom 3D-printed ABS underbody splitter (25mm extension, 3-stage gurney flap). Rear wing is a custom 1-piece carbon fiber GT wing (1,800mm span, 200mm chord, 30mm pedestal height) with integrated third brake light.",
+    "Exterior: Full Respray in Volkswagen Candy White (LA7W) with 3M Matte Black vinyl wrap on the roof, mirrors, and lower rocker panels. OEM+ Euro-spec Jetta GLI front grille (black honeycomb, no VW emblem) with custom LED DRLs (Lux H8 V4, 5,000K, sequential turn signals). Rear bumper modified for a single 4\" exhaust exit (custom 304 stainless steel tip, rolled edges).",
+    "Interior: Full Recaro Sportster CS-II bucket seats (Schroth 4-point harnesses, bolt-in FIA-spec roll cage by Autopower Industries with 1.75\" x .120\" DOM tubing). Custom Alcantara-wrapped MOMO Mod.78 steering wheel (350mm, flat-bottom) with NRG quick-release hub. Rear seat delete with custom carbon fiber panel (1.5mm thick, honeycomb core) and integrated fire extinguisher (Lifeline Zero 360, plumbed to cockpit)."
+  ]
+}

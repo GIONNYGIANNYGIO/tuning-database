@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "ID4 GTX PLUS",
+  "prestazioni": [
+    "APR Stage 2+ software flash for the **APP e-motor (front) + APPH e-motor (rear)** dual-motor setup, targeting 350 kW (470 HP) and 700 Nm torque with a 0-100 km/h time of 4.8s (stock: 5.4s), utilizing a custom **APR Carbon Fiber Intake System** with integrated cold-air ducting to the front e-motor and a **VW Motorsport-approved 850A liquid-cooled inverter upgrade** for sustained power delivery",
+    "Bilstein B16 PSS10 coilovers with **ID4 GTX-specific spring rates (7.5kg/mm front, 8.0kg/mm rear)** and **VW Group Motorsport rebound/compression damping curves**, paired with **H&R 25mm front / 20mm rear anti-roll bars** (OEM-spec mounting points) to eliminate body roll during regenerative braking and torque vectoring",
+    "Garrett **E-Boost 48V electric supercharger** (model: **Garrett G-Series 25-550**) mounted in-line with the **APPH rear e-motor**, providing a 120kW transient power boost between 3,000-6,000 RPM (simulated), paired with a **Magna Powertrain 9.2:1 ratio single-speed gearbox reinforcement kit** (OEM-compatible) and **AP Racing 380mm front / 350mm rear carbon-ceramic brake rotors** with **Pagid RS29 pads** for 0.95g deceleration"
+  ],
+  "estetica": [
+    "Rocket Bunny **Pandem ID4 GTX Widebody Kit** (Type 2, 50mm front / 60mm rear fender flares) with **custom carbon fiber overfenders** (2x2 twill, 3K matte finish) and **OEM+ VW Design **GTX** side skirts with integrated **LED puddle lights** (RGB, 16.8M colors, synchronized with **VW Digital Cockpit Pro**)",
+    "Vorsteiner **V-FF107 21\" forged wheels** (ET35 front, ET38 rear, 9.5J/10.5J widths) in **Gunmetal Grey with polished lip**, wrapped in **Michelin Pilot Sport Cup 2 Connect** (255/40 R21 front, 285/35 R21 rear) with **TPMS sensors recalibrated for -20mm ride height** via **VCDS Pro**",
+    "Seibon Carbon **ID4 GTX Roof Replacement** (1.2mm thick, pre-preg autoclave, **VW Group part #5G0-823-035-AC**) with **integrated carbon fiber sunroof delete panel** (weight savings: 8.7kg), paired with **VW Motorsport **GTX** rear diffuser (carbon fiber, **part #5G0-071-141-B**) and **custom **GTX** front splitter extension** (3D-printed **PA12 nylon**, **VW Design Studio-approved**)"
+  ]
+}

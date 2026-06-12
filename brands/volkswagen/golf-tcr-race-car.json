@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "GOLF TCR RACE CAR",
+  "prestazioni": [
+    "Engine: 2.0L TSI EA888 Gen3 (CJXB) with TCR-spec forged internals including Mahle Motorsport pistons (9.5:1 CR), Pankl H-beam connecting rods, and a billet crankshaft from VW Motorsport for 350+ hp at 7,000 RPM on 102 RON fuel with a Garrett GT3076R turbo (0.82 A/R, 60mm compressor, 56mm turbine) and custom 3.5\" titanium downpipe with Akrapovič 4-2-1 header (equal-length primaries, 1.75\" diameter)",
+    "Drivetrain: Sachs Performance 3-disc carbon clutch (240mm) with a Quaife ATB helical LSD (45% lockup) and TCR-spec 6-speed DQ250 DSG transmission (0.05s shift times) running Motec M150 ECU with TCR-specific launch control (3,500 RPM flat-shift) and KW Suspensions 3-way adjustable Clubsport coilovers (20mm lower than GTI, 12-position rebound, 16-position compression, 24mm front/22mm rear sway bars)",
+    "Aerodynamics: SEAT Motorsport TCR front splitter (carbon fiber, 30mm overhang) with custom 3D-printed Gurney flap (20mm height), Volcano Motorsport rear diffuser (50mm ground clearance, 3 strakes), and a 1,200mm-wide carbon fiber rear wing (30mm chord, 2.5° angle of attack) for 1,800 lbs of downforce at 120 mph (verified in Sauber Engineering wind tunnel)"
+  ],
+  "estetica": [
+    "Body: OMP TCR-spec carbon fiber hood (2.5kg weight reduction) with integrated NACA ducts for intercooler cooling, custom widebody fenders (30mm wider front, 40mm wider rear) using VW Motorsport TCR-spec polycarbonate side skirts (50mm ground clearance) and a custom carbon fiber rear bumper with integrated tow hooks (M12x1.5 thread)",
+    "Wheels/Tires: OZ Racing Superforgiata TCR wheels (18x10.5 ET45 front, 18x11 ET50 rear) with 275/650R18 Michelin Pilot Sport Cup 2 tires (TCR compound, 6mm tread depth) and H&R wheel spacers (15mm front, 20mm rear) for flush fitment",
+    "Interior: Recaro SPG XL TCR seats (HANS-compatible, 12kg each) with Schroth Profi II 6-point harnesses (FIA 8853/2016), custom aluminum shift knob (short-throw, 50mm height) for DSG, and a Motec C127 dash display (12.7\" touchscreen, TCR-specific telemetry layout with lap delta, boost pressure, and oil temp)"
+  ]
+}

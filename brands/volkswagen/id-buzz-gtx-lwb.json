@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "ID BUZZ GTX LWB",
+  "prestazioni": [
+    "APR Stage 2+ software flash for the APP310 (dual-motor MEB platform) with custom torque vectoring maps, raising peak output to 420 kW (563 hp) and 850 Nm (627 lb-ft) via optimized battery thermal management (liquid-cooled 82 kWh NMC cells) and revised regenerative braking calibration (0.45g max decel)",
+    "Garrett GT2260S turbocharger upgrade for the rear APP310 motor (electric motor code: EESM-250), paired with a custom 3.5-inch titanium downpipe (Supersprint) and a secondary intercooler (PWR Advanced Cooling) mounted in the front bumper ducting to reduce intake temps by 22°C under sustained 300 kW loads",
+    "Ohlins Road & Track coilovers (VW-specific part # 30100-01) with 24-way adjustable compression/rebound damping, 30mm adjustable ride height, and reinforced top mounts (034 Motorsport) to handle 1.2g lateral loads, paired with polyamide bushings (Whiteline) for the MEB-specific multi-link rear suspension"
+  ],
+  "estetica": [
+    "Rocket Bunny Pandem widebody kit (VW ID Buzz GTX LWB-specific, part # RB-PAN-007) with carbon fiber fender flares (2.5-inch wider front, 3.0-inch wider rear), custom aluminum inner fenders, and integrated tow hooks for track use",
+    "Vorsteiner V-FF 107 21-inch forged wheels (9.5x21 ET30 front, 10.5x21 ET35 rear) in matte graphite with Michelin Pilot Sport Cup 2 R tires (275/30 R21 front, 305/25 R21 rear) and TPMS sensors (Schrader 20305)",
+    "Seibon carbon fiber front splitter (VW ID Buzz GTX LWB-specific, part # CF-001-IBZ) with integrated air curtains and a custom 3D-printed ABS diffuser (Aeroflow Dynamics) featuring active Gurney flaps (controlled via CAN bus) for adjustable downforce (up to 120 kg at 120 km/h)"
+  ]
+}

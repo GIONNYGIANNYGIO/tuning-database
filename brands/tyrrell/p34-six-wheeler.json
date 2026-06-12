@@ -1,0 +1,14 @@
+{
+  "brand": "TYRRELL",
+  "model": "P34 SIX WHEELER",
+  "prestazioni": [
+    "Cosworth DFV 3.0L V8 (engine code: DFV) rebuild with forged Mahle pistons (90mm bore, 10.5:1 compression), Carrillo H-beam connecting rods, and a bespoke dry-sump lubrication system by Titan Motorsport to handle sustained 11,500 RPM operation in endurance racing conditions",
+    "Garrett GT2860RS turbocharger (0.63 A/R turbine housing) paired with a custom 4-into-1 stainless steel exhaust manifold by Janspeed Engineering, featuring 1.75\" primary tubes and a 3\" downpipe with a Tial 44mm external wastegate for precise boost control (targeting 1.2 bar peak boost)",
+    "Custom Motec M150 ECU with bespoke traction control and launch control strategies, integrated with a Pectel SQ6M dash logger for real-time telemetry monitoring, including individual wheel speed sensors for the four front 10\" Goodyear Eagle racing tires (unique to the P34's six-wheel layout)"
+  ],
+  "estetica": [
+    "Full carbon fiber bodywork replacement by C-West Japan, including a one-piece front splitter with integrated NACA ducts for brake cooling, and a rear diffuser with Gurney flaps optimized for the P34's rear wing (originally designed by Martin Ogilvie)",
+    "Custom 4x10\" front wheel setup with BBS LM-R forged magnesium wheels (ET15 offset) wrapped in Goodyear Eagle F1 Supercar tires (205/45R10), paired with 13\" rear BBS RS-GT wheels (ET20) and 285/40R13 Hoosier R7 slicks for vintage racing authenticity",
+    "Interior roll cage by Safety Devices (FIA 8862-2009 certified) with integrated fire suppression system by Lifeline, featuring a custom MOMO Prototipo steering wheel with a quick-release hub and a bespoke digital dash cluster by AIM MXS Strada (displaying all six wheel speeds)"
+  ]
+}

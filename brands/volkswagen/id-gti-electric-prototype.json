@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "ID GTI ELECTRIC PROTOTYPE",
+  "prestazioni": [
+    "APPM (APP312) inverter firmware recalibration to 450 kW (603 HP) peak output with custom silicon carbide MOSFET cooling via PWR Racing’s liquid-cooled heat exchanger, retaining OEM APP312 motor code for homologation compliance",
+    "Unitek Yamaichi 800V high-voltage wiring harness upgrade with TE Connectivity HVIL connectors and MIL-spec Kapton insulation to handle 650A transient spikes during launch control",
+    "Brembo GT 380x34mm front monobloc calipers with titanium pistons and Ferodo DS3.12 pads, paired with 400mm two-piece carbon-ceramic rotors (CCM-R) featuring directional vane cooling for sustained 1.5g deceleration"
+  ],
+  "estetica": [
+    "Rocket Bunny VW-ID GTI widebody kit (Pandem Type-3) with carbon-fiber fenders, front splitter, and rear diffuser, featuring integrated Gurney flaps for 120kg downforce at 200 km/h",
+    "OMP Carbon-Kevlar GTI-spec bucket seats with Schroth 6-point harnesses and VW Motorsport embroidered headrests, retaining OEM ID.4 seatbelt pretensioners for safety",
+    "HRE FF16 flow-formed wheels (9.5x20 ET30 front, 11x20 ET25 rear) in matte graphite with Michelin Pilot Sport Cup 2 R tires (265/30/20 front, 295/25/20 rear) and TPMS sensors recalibrated for 3.5 bar cold pressure"
+  ]
+}

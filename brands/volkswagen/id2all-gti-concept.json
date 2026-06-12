@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "ID2ALL GTI CONCEPT",
+  "prestazioni": [
+    "APR Stage 2+ software reflash for the APP310 (MEB-based) electric motor, optimizing torque vectoring to 350 Nm peak (up from 310 Nm) with a 0-100 km/h time of 5.9s via overboost function (15s duration, 120 kW continuous power limit raised to 140 kW)",
+    "Unitek Yamaichi 800V high-voltage wiring harness with silver-plated copper conductors (25% lower resistance) and TE Connectivity HVIL connectors to support 175 kW fast-charging (10-80% in 12 minutes) without thermal throttling",
+    "Bilstein B16 PSS10 coilovers with 30-way adjustable damping, custom spring rates (7 kg/mm front, 6 kg/mm rear), and 30mm drop from stock ride height, paired with H&R 25mm front and 20mm rear anti-roll bars for MEB-platform-specific roll center correction"
+  ],
+  "estetica": [
+    "Rocket Bunny VW ID.2 GTI widebody kit (Pandem Type-3) with carbon fiber fenders (35mm wider front, 40mm wider rear), custom front splitter with integrated Gurney flap, and a 3D-printed ABS rear diffuser with vortex generators for 18% reduced lift at 120 km/h",
+    "OMP GTI Edition carbon fiber steering wheel (380mm diameter) with Alcantara suede and red contrast stitching, featuring a custom 12 o’clock GTI badge and integrated VW Motorsport shift lights (RGB, 10-segment)",
+    "KW Automotive ID.2 GTI Concept-specific side skirts with integrated LED turn signals (Osram Oslon Compact PL), carbon fiber mirror caps (VW Motorsport design language), and a rear spoiler extension (20mm taller) with a Gurney flap for 12% increased downforce at 160 km/h"
+  ]
+}

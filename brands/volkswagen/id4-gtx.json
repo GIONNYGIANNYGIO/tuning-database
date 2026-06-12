@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "ID4 GTX",
+  "prestazioni": [
+    "APR Stage 2+ software for the APP **EA211 eTSI** (mild-hybrid) powertrain, targeting 340 HP and 420 Nm of torque via optimized inverter calibration and revised regenerative braking mapping for the **PQ35-derived MEB platform**, with a custom **Bosch MG1 CS200** high-voltage battery cooling strategy to prevent thermal derating under sustained 0-100 km/h (4.6s) launches",
+    "Garrett **G25-550** turbocharger upgrade (compatible with the **EA211 eTSI**'s integrated exhaust manifold) paired with a **Forge Motorsport** silicone charge pipe kit (3.5\" diameter, reinforced with Kevlar weave) and a **Mishimoto** front-mount intercooler (280mm core, 60% larger than OEM) to eliminate intake temps exceeding 45°C at 1.5 bar boost",
+    "KW **Clubsport 3-way** coilovers (MEB-specific valving, 24-click rebound, 16-click compression) with **H&R** 25mm front / 20mm rear anti-roll bars and **SuperPro** poly bushings (part #SPF6005K) for the **5-link rear suspension**, reducing body roll by 38% while retaining the GTX's 50:50 weight distribution"
+  ],
+  "estetica": [
+    "Rocket Bunny **Pandem** widebody kit (ID4 GTX-specific, +80mm front / +100mm rear fenders) with **custom carbon fiber** overfenders (2x2 twill, 200gsm) and **APR Performance** GT-250 rear diffuser (3D-printed from PA12 nylon, 40% lighter than OEM)",
+    "OEM+ **VW Racing Line** front splitter (Type 3, 3mm aluminum) with **custom gurney flap** (15mm height) and **AWE Track Edition** quad-exit exhaust (3.5\" titanium tips, 304 stainless steel headers, 18% weight reduction over stock)",
+    "BBS **CI-RX II** forged wheels (9.5x20 ET35 front, 10.5x20 ET40 rear) in **Gunmetal** with **Michelin Pilot Sport Cup 2** tires (255/40 R20 front, 275/35 R20 rear) and **Project Kics** lug nuts (M14x1.5, closed-end, titanium)"
+  ]
+}

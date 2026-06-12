@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "GOLF RALLYE G60 EVO",
+  "prestazioni": [
+    "Engine: 1.8L PG G60 supercharged inline-4 (engine code: PG) with forged internals including Mahle Motorsport forged pistons (83.5mm bore, 8.5:1 compression), Eagle H-beam connecting rods, and a billet crankshaft from 02M Engineering. Supercharger upgraded to a custom-built G-Lader with a 60mm rotor set from G60 Ltd (UK), paired with a custom intercooler from Bell Intercoolers (8-row core, 4.5\" thick) and a 3\" aluminum charge pipe system from Forge Motorsport.",
+    "Fuel System: Full sequential fuel injection conversion using Bosch Motorsport 0280155862 injectors (800cc/min), controlled by a standalone ECU from Syvecs (S8 Plug & Play) with flex-fuel capability. Fuel pressure maintained by a Walbro 450 LPH in-tank pump and an external Aeromotive A1000 regulator. Custom fuel rail from 034 Motorsport with AN-6 fittings.",
+    "Drivetrain: 02A 6-speed manual transmission with a Quaife ATB differential (80% lock), reinforced with a custom billet aluminum bellhousing from DieselGeek. Clutch upgraded to a Sachs Performance twin-disc setup (240mm, 700Nm torque capacity) with a lightweight flywheel from Spec Clutches. Driveshafts replaced with custom CV-jointed units from The Driveshaft Shop (Stage 3, 3.5\" diameter)."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion using the Rocket Bunny VW Golf Mk2 kit (Pandem BR-002), including extended fenders, front/rear bumpers, and side skirts. Custom carbon fiber hood with a functional scoop from Seibon Carbon, matched with a carbon fiber rear diffuser from APR Performance. OEM+ Rallye-specific graphics in Martini Racing livery with custom vinyl from Avery Dennison.",
+    "Suspension: Full Ohlins Road & Track coilover kit (DFV) with 24-way adjustable dampers, custom valving for the Golf Rallye, and adjustable top mounts from 034 Motorsport. Polyurethane bushings throughout (subframe, control arms, trailing arms) from Powerflex (Black Series). Custom front strut tower brace from H&R (adjustable, 3-point design) and a rear sway bar from Eibach (25mm, adjustable).",
+    "Wheels & Brakes: 17x9.5\" ET15 BBS RS-GT II wheels (gold finish) with 225/40/17 Michelin Pilot Sport Cup 2 tires. Big brake kit from AP Racing (4-piston CP9660 calipers, 330mm two-piece rotors) with custom braided stainless steel lines from Goodridge. Rear brakes upgraded to 288mm vented rotors with EBC Redstuff pads and stainless steel lines."
+  ]
+}

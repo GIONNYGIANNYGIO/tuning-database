@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "ID7 GTX",
+  "prestazioni": [
+    "APR Stage 2+ software reflash for the **APP dual-motor (e-AWD) electric powertrain (MEB platform)**, targeting 400 kW (536 HP) and 750 Nm of torque with optimized regenerative braking maps for track use (APR TCU calibration for 0-100 km/h in 3.2s)",
+    "Unitek TTRS-spec **carbon-fiber reinforced front and rear subframe braces** (part # 3G0-034-111-C) to reduce chassis flex under high-G cornering, paired with **H&R 25mm front / 22mm rear anti-roll bars** (ID.7 GTX-specific, not shared with ID.4)",
+    "Garrett **E-Motor Speed Sensor (EMSS) bypass module** for overboost functionality (10% transient power increase for 10s bursts) and **VW Motorsport-spec silicon coolant hoses** (reinforced with Kevlar, part # 5G0-122-059-AK) to handle elevated thermal loads"
+  ],
+  "estetica": [
+    "Rocket Bunny **Pandem VW ID.7 GTX widebody kit** (carbon-fiber fenders, front splitter, and rear diffuser with integrated brake ducts; 50mm wider track per side) paired with **OZ Racing Ultraleggera HLT 20x9.5 ET35 / 20x11 ET40 wheels** (9Jx20 ET40 rear for staggered fitment)",
+    "3M **2080 Series Gloss Black Vinyl Wrap** with **PPF (Paint Protection Film) on high-impact zones** (front bumper, side skirts, and rocker panels) in **XPEL Stealth finish**, combined with **VW R-Line rear spoiler delete** (replaced with **Seibon Carbon GTX-spec ducktail spoiler**)",
+    "Recaro **SPG XL GT3 seats** (VW ID.7 GTX-specific mounting brackets, part # 5G0-884-221-B) upholstered in **Alcantara with Nappa leather bolsters** (custom stitching in **VW Motorsport Lapiz Blue**), paired with **Schroth Profi II 6-point harnesses** (FIA-approved, bolt-in harness bar by **Cusco Type RS**)"
+  ]
+}

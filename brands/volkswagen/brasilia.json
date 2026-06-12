@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "BRASILIA",
+  "prestazioni": [
+    "Engine swap to a 2.0L VW EA827 (AP engine) with forged internals (Mahle pistons, Manley H-beam rods, ARP head studs) and a Garrett GT2860RS turbocharger, paired with a custom 3-inch stainless steel exhaust featuring a MagnaFlow 14815 muffler and 4-2-1 header setup from Tubular Automotive",
+    "Bosch 0280155862 high-flow fuel injectors, Walbro 255 LPH fuel pump, and a custom ECU tune via Megasquirt MS3Pro PNP with launch control and flat-foot shifting for the 4-speed manual transmission (091 gearbox with Quaife ATB differential)",
+    "KW Variant 3 coilovers with custom valving for the Brasilia's torsion beam rear suspension, paired with Eibach Pro-Kit front springs and polyurethane bushings from SuperPro (SPF0115K) for improved handling"
+  ],
+  "estetica": [
+    "Custom widebody conversion using fiberglass fenders from a Brazilian VW Variant (Type 3) with Rocket Bunny-style overfenders, paired with a custom front splitter and rear diffuser from Maxton Design (BR-01 kit)",
+    "OEM+ resto-mod interior with Recaro SRD seats (retrimmed in Nappa leather with Alcantara inserts), a Momo Prototipo steering wheel, and a custom gauge cluster featuring Defi Advance BF gauges (oil pressure, boost, and wideband AFR)",
+    "Custom two-tone paint scheme (VW L13K Pastel Blue over L90D Pure White) with a matte black roof and hood, paired with Hella Turbo headlights and LED taillights from Osram (LEDriving SL series)"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "ID BUZZ GTX",
+  "prestazioni": [
+    "Upgrade to a **Bosch MGU0550** high-performance electric motor (replacing the stock APP 310) with a **custom VW Group MEB-platform-specific inverter tune** by **AEM EV VCU300** to push **350 kW (470 hp) and 700 Nm** of torque, utilizing **Silicon Carbide (SiC) MOSFETs** for reduced switching losses and a **liquid-cooled 800V battery pack** with **Samsung SDI 50Ah cells** for sustained power delivery.",
+    "Installation of a **Garrett E-Turbo GTX3582R e-compressor** (modified for MEB compatibility) with a **custom billet aluminum compressor housing** and **ceramic ball bearings**, paired with a **PWR intercooler (part #PWR-EV-001)** and **Tial 50mm blow-off valve** to manage boost pressure at **1.5 bar** while preventing surge during regenerative braking.",
+    "Full **Ohlins DFV (Dual Flow Valve) coilovers (part #OH-DFV-VW-001)** with **3-way adjustable damping (compression/rebound/height)** and **monotube remote reservoirs**, paired with **H&R 25mm front / 20mm rear anti-roll bars** and **SuperPro poly bushings (part #SPF9077K)** to eliminate MEB-platform-specific subframe flex under high-torque launches."
+  ],
+  "estetica": [
+    "**Rocket Bunny x Liberty Walk LB-WORKS widebody kit (part #LB-04-IDBUZZ)** with **carbon fiber fenders, front splitter, and rear diffuser**, extending wheel arches by **50mm front / 60mm rear** to accommodate **OZ Racing Ultraleggera HLT 20x9.5 ET30 (front) / 20x11 ET35 (rear)** wheels with **Michelin Pilot Sport Cup 2 R (275/30 R20 front / 315/25 R20 rear)** tires.",
+    "**Seibon Carbon fiber roof panel (part #CF-VW-IDB-ROOF)** with **integrated sunroof delete** to reduce weight by **12kg**, paired with a **custom Akrapović titanium EV exhaust system (part #AK-TI-EV-001)** featuring **dual 100mm outlets** and **electronically controlled valves** for simulated V8 sound profiles via **iDatalink Maestro RR** integration.",
+    "**Vland LED headlight upgrade (part #VL-HL-VW-003)** with **Osram 5500K laser diodes**, **Morimoto XB35 LED fog lights**, and a **custom front grille delete** replaced with a **3D-printed carbon fiber mesh (part #CF-GRILLE-IDB-001)** for improved airflow to the **PWR intercooler**, while the rear features a **custom LED taillight strip** with **RGBW animation controlled via AEM EV VCU300** for torque-based lighting effects."
+  ]
+}

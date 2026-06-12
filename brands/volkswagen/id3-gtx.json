@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "ID3 GTX",
+  "prestazioni": [
+    "Upgrade to a **Unitronic Stage 2+ ECU/TCU software suite** for the **APP e-motor (dual-motor AWD system, 220 kW/299 PS stock)** with custom torque vectoring maps, optimizing power delivery for the **MEB platform's 400V architecture** while maintaining OEM battery thermal limits (max 120 kW charging curve retention).",
+    "Install a **Magna PT e-drive system hybrid upgrade (P3 hybrid layout)** with a **Bosch SMG180 e-motor (80 kW peak)** mounted on the rear axle, paired with a **AP Racing 2-piece carbon-ceramic brake kit (380mm front, 355mm rear)** and **Brembo GT 6-piston calipers** to handle the additional 1,800 Nm of regenerative braking force.",
+    "Replace the stock **Continental SportContact 6 (235/45 R19)** tires with **Michelin Pilot Sport Cup 2 Connect (245/40 R19 front, 275/35 R19 rear)** on **BBS RI-D II forged wheels (9.5Jx19 ET35 front, 11Jx19 ET40 rear)** and integrate a **KW Suspensions Clubsport 3-way coilover kit (30-level rebound, 15-level compression, adjustable camber plates)** with **Eibach ERS race springs (800 lb/in front, 600 lb/in rear)** for MEB-specific roll center correction."
+  ],
+  "estetica": [
+    "Fit a **Liberty Walk LB Works widebody kit (ID3 GTX-specific)** with **custom carbon fiber overfenders (25mm front, 35mm rear)**, paired with a **Rocket Bunny GT wing (1,800mm span, 3D-printed aluminum supports)** and **Vorsteiner V-FF 107 front splitter (adjustable dive planes)** for MEB chassis airflow optimization.",
+    "Replace the stock LED matrix headlights with **Hella Shark X LED projectors (5,000-lumen, adaptive cornering)** and **Morimoto XB35 fog lights (3,000K amber, DRL function)** integrated into a **custom 3D-printed ABS lower grille (active cooling ducts for rear e-motor)**.",
+    "Apply a **3M 1080 Matte Graphite Black vinyl wrap** with **custom PPF (XPEL Stealth) on high-impact zones (front bumper, rockers, mirrors)** and **Oracle Lighting RGBW underglow kit (MEB CAN bus integration, 16.8M colors, 2,400-lumen output)** with **carbon fiber side skirts (Seibon CFRP, 1.5mm thickness)** for weight reduction."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "ID7 GTX PERFORMANCE",
+  "prestazioni": [
+    "Upgrade to a **Vitesco APP310** dual-motor system (front: 160 kW, rear: 200 kW) with a **Siemens-VDO VCU (Vehicle Control Unit) Stage 2.5 remap**, unlocking 450 kW (603 hp) and 900 Nm of torque via **AEM EV VCU 400** piggyback controller, retaining OEM battery thermal management but adding a **Marelli 800V liquid-cooled inverter** for sustained power delivery",
+    "Installation of **AP Racing CP9666-4000** 4-piston front calipers with **Brembo GT-R 380x34mm** two-piece rotors (floating, slotted) and **Ferodo DS2500** pads, paired with **Hawk HT-12** rear pads on OEM rear calipers for balanced EV regenerative braking modulation",
+    "Full **KW Suspensions Clubsport 3-way** coilover kit (ID7-specific valving) with **Eibach ERS 1000N/mm** helper springs, **Motul Hybrid 4T 10W-40** damping fluid, and **Whiteline BTR95X** rear subframe bushings to counteract MEB platform flex under 0-100 km/h launches (2.9s target)"
+  ],
+  "estetica": [
+    "**Rocket Bunny V3 Widebody Kit** (ID7-specific, 30mm front/40mm rear fender flares) with **custom carbon-fiber overfenders** (pre-preg autoclave, 2x2 twill weave) and **3M 1080 Gloss Black** wrap on OEM panels to reduce weight by 12kg",
+    "**OEM+ VW Motorsport** front splitter (polyurethane, 3-stage adjustable) with **custom Gurney flap** (aluminum 6061-T6, 20mm height) and **Rear Diffuser by Prior Design** (carbon-fiber, 3D-printed internal strakes for -18% lift at 200 km/h)",
+    "**HRE FF16** forged wheels (20x9.5 ET35 front, 20x11 ET40 rear) in **matt bronze finish**, wrapped in **Michelin Pilot Sport Cup 2 R** tires (265/30/20 front, 295/25/20 rear) with **Hankook Ventus R-S4** 245/35/20 front spacers (15mm) for aggressive stance and scrub radius optimization"
+  ]
+}

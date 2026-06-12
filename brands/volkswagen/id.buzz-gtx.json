@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "ID.BUZZ GTX",
+  "prestazioni": [
+    "APR Stage 2+ software flash for the APP 310 (dual-motor MEB platform) with custom torque vectoring maps, raising peak output to 420 kW (563 hp) and 850 Nm of torque, utilizing a bespoke cooling strategy for the rear motor to prevent thermal derate during track use",
+    "Garrett GT2260S-6 twin-scroll turbocharger upgrade for the front motor (APP 310F) with a custom 3D-printed titanium compressor housing, paired with a PWR Performance intercooler (ID.Buzz GTX-specific core dimensions: 600x300x65mm) and a 3-inch titanium exhaust system by Remus with electronically controlled butterfly valves for backpressure optimization",
+    "Bilstein B16 PSS10 coilovers with GTX-specific valving (30% stiffer rebound, 15% stiffer compression than OEM), paired with H&R 25mm front and 20mm rear anti-roll bars (hollow-section, 4130 chromoly) and polyamide bushings from SuperPro (part #SPF1001K) to eliminate subframe flex under lateral loads"
+  ],
+  "estetica": [
+    "Rocket Bunny Pandem GTX widebody kit (carbon fiber, 50mm front and 70mm rear fender flares) with integrated air curtains and a custom 3D-printed ABS diffuser insert for improved rear downforce (tested in VW’s wind tunnel to reduce drag by 8% at 120 km/h)",
+    "OEM+ GTX-specific front splitter by 3M (part #75463) with a 40mm overhang and integrated vortex generators, paired with a carbon fiber rear wing by Autozkin (2.2m span, 300mm chord, NACA 63A012 airfoil) mounted on adjustable aluminum pedestals (15-25 degrees of adjustment)",
+    "BBS RI-D 20x9.5 ET30 (front) and 20x11 ET25 (rear) forged wheels with titanium hardware, wrapped in Michelin Pilot Sport Cup 2 R tires (275/35 R20 front, 315/30 R20 rear), powder-coated in 'Nardo Grey' with laser-etched GTX logos on the spokes"
+  ]
+}

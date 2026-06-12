@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "MULTIVAN CALIFORNIA OCEAN",
+  "prestazioni": [
+    "Engine: Replace the stock 2.0L TDI (engine code **DFGA**) with a **Volkswagen Motorsport 3.0L TDI V6 (engine code CJXC)** from the Touareg R50, featuring a **Garrett GTB2260VK turbocharger** (hybridized with a billet compressor wheel for 2.2 bar boost), **Mahle Motorsport forged pistons** (8.5:1 compression), and a **Bosch CP4.2 high-pressure fuel pump** with **Siemens 1,000cc injectors**. Pair with a **034 Motorsport billet crankshaft** and **ARP Custom Age 625+ head studs** for 550 Nm torque at 2,200 RPM and 320 HP at 4,000 RPM.",
+    "Drivetrain: Swap the stock 7-speed DSG (0BT) for a **ZF 8HP70X 8-speed automatic** (from the Audi SQ7) with a **South Bend Clutch dual-disc organic clutch kit** (for manual conversions). Install a **Quaife ATB differential** in the rear and a **HPA Motorsports DSG tune** with launch control set to 3,500 RPM and a **0-100 km/h time of 5.8 seconds**.",
+    "Suspension/Brakes: Replace the stock suspension with **Bilstein B16 PSS10 coilovers** (adjustable damping, 50mm drop) and **H&R 24mm front / 22mm rear sway bars**. Fit **AP Racing 6-piston CP9660 calipers** with **370mm two-piece rotors** (front) and **Brembo 4-piston calipers** with **345mm rotors** (rear). Use **Michelin Pilot Sport Cup 2 R tires** (255/35 R20 front, 285/30 R20 rear) on **BBS RI-D 9Jx20 ET35 forged wheels**."
+  ],
+  "estetica": [
+    "Exterior: Install a **Rieger Tuning widebody kit** (specific to the T6.1 platform) with **carbon fiber front splitter**, **side skirts**, and **rear diffuser**. Replace the stock grille with a **VW Racing honeycomb mesh grille** and add **OEM+ LED headlights** with **Morimoto XB LED bulbs**. Paint the van in **Audi Nardo Grey (LZ7W) with a 3M Matte Clear Coat** and add **Vinyl Lab carbon fiber mirror caps**.",
+    "Interior: Replace the stock seats with **Recaro Pole Position bucket seats** (front) and a **Sparco Pro 2000 steering wheel** (350mm, suede). Install a **Rollcage.de bolt-in 6-point cage** (TÜV-approved) and **Schroth Profi II 4-point harnesses**. Add a **Motec C127 dash logger** with **AEM X-Series wideband O2 sensor** and **Race Technology DL1 data logger**. Upholster the rear in **Nappa leather with Alcantara headliner** (color-matched to **VW Deep Black**).",
+    "Lighting/Aero: Fit **Osram Night Breaker Laser H7 bulbs** (headlights) and **Philips Ultinon Pro9000 LED fog lights**. Install a **Vorsteiner carbon fiber roof spoiler** and **aFe Power carbon fiber side vents** (functional, for brake cooling). Add **DTM-style tow hooks** (front and rear) and **Hella Rallye 3000 Supertones** (auxiliary lights) mounted on a **Thule AeroBlade roof rack** with **carbon fiber crossbars**."
+  ]
+}

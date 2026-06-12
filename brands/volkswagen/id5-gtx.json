@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "ID5 GTX",
+  "prestazioni": [
+    "Stage 2+ UNICHIP Q+ ECU remap for the APP **EA211 eTSI** (DQ400E 7-speed DSG) with custom ignition timing maps, optimized for 98 RON fuel, targeting 320 Nm (up from 295 Nm stock) and a 0-100 km/h reduction to 5.8s via launch control recalibration and torque vectoring tweaks",
+    "Garrett GT2260S turbocharger upgrade (hybrid billet wheel, 0.63 A/R turbine housing) paired with a **BorgWarner EFR 7670** wastegate actuator for the EA211 eTSI, supporting 2.2 bar peak boost with a custom **Forge Motorsport** silicone charge pipe kit (3.5\" ID, reinforced with Kevlar weave) and a **Mishimoto** front-mount intercooler (280mm core, 60% increased flow over OEM)",
+    "KW Suspensions **Clubsport 3-way** coilovers (adjustable compression/rebound, 20mm drop, 8/18-position damping) with **H&R** 25mm front and 20mm rear anti-roll bars, **SuperPro** poly bushings (front control arms, subframe, and rear trailing arms), and **AP Racing** 355mm front brake kit (6-piston calipers, 38mm pads, slotted rotors) with **ATE** DOT 5.1 brake fluid"
+  ],
+  "estetica": [
+    "Rocket Bunny **Pandem** widebody kit (ID5-specific, 30mm front/40mm rear fender flares) with **VMR** V710 20x9.5\" ET35 wheels (matte bronze, 245/35 R20 Michelin Pilot Sport Cup 2 tires) and **BC Racing** wheel spacers (15mm front, 20mm rear)",
+    "Volkswagen Motorsport **R-Line** carbon fiber front splitter (extended 50mm) with a **Maxton Design** GTX-specific rear diffuser (dual-canard design, 3D-printed ABS) and a **Remus** titanium exhaust system (dual 90mm outlets, valved, 304 stainless steel, 12kg weight reduction)",
+    "OEM+ **VW Individual** full LED taillight conversion (dynamic turn signals, sequential startup animation) with **Morimoto** XB LED headlights (5500K, 30% brighter, adaptive cornering) and a **Seibon** carbon fiber hood (2x2 twill, 50% weight savings, functional NACA ducts for brake cooling)"
+  ]
+}

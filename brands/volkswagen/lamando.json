@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "LAMANDO",
+  "prestazioni": [
+    "Upgrade to a **Garrett GT2860RS-5 turbocharger** (ball-bearing, 60mm compressor wheel) for the **EA211 1.4 TSI (CPTA/CZDA) engine**, paired with a **Forge Motorsport high-flow intercooler** (bar-and-plate, 550x220x62mm core) to reduce intake temps by 25°C under full boost (22psi peak).",
+    "Install a **034 Motorsport Stage 2+ ECU flash** (custom-tuned via **AEM Infinity 7** standalone management) with **Bosch Motorsport 0227100207 injectors** (1,200cc/min) and a **Walbro 450 LPH in-tank fuel pump** to support 350whp on **E85 blend** (target AFR: 11.8:1).",
+    "Replace the stock **MQB-platform DSG (DQ250) transmission** with a **DSG Performance Stage 3 clutch pack** (Sintered metal, 12-plate) and **South Bend Clutch dual-mass flywheel** (lightweight, 8.5kg), paired with a **TCU tune from DSG Solutions** (shift times reduced to 80ms, launch control at 4,500 RPM)."
+  ],
+  "estetica": [
+    "Fit a **Liberty Walk LB-WORKS widebody kit** (Lamando-specific, 30mm extended fenders, carbon fiber rear diffuser) with **custom 3M Gloss Black wrap** (2080 series) and **Vorsteiner V-FF107 19x9.5 ET35 wheels** (staggered, 245/35R19 front, 275/30R19 rear).",
+    "Install a **Seibon Carbon fiber hood** (OEM-style, 3.5kg weight reduction) with **custom LED DRLs** (Osram LEDriving SL 150, 6,000K) and a **Rieger Tuning front splitter** (3D-printed ABS, 50mm overhang, adjustable dive planes).",
+    "Replace the rear bumper with a **VRSF Motorsport GT-style diffuser** (carbon fiber, integrated **Akrapović titanium exhaust tips** (100mm dual outlet) and **custom LED taillights** (Lux Hella 7, sequential turn signals, smoked lenses)."
+  ]
+}
