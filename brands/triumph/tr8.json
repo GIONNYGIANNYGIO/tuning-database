@@ -1,0 +1,14 @@
+{
+  "brand": "TRIUMPH",
+  "model": "TR8",
+  "prestazioni": [
+    "Engine: Replace the stock 3.5L Rover V8 (engine code: 3528cc, internal designation 'PE166') with a fully built, forged internals version using Mahle Motorsport forged pistons (9.5:1 compression), Eagle H-beam connecting rods, and a steel crankshaft from Crower. Pair with a custom camshaft grind from Kent Cams (280° duration, 0.500\" lift) for high-RPM power delivery (redline at 7,200 RPM).",
+    "Forced Induction: Install a Garrett GT35R turbocharger (0.82 A/R turbine housing) with a custom cast-iron exhaust manifold from Bell Auto Services, feeding into a 3.5\" stainless steel exhaust system with a MagnaFlow 14815 muffler. Use a Turbosmart Comp-Gate40 wastegate (14 PSI base boost) and a Pierburg 0 580 464 052 fuel pump (255 L/hr) to support 450+ HP at the wheels.",
+    "Drivetrain & Handling: Swap the stock 4-speed automatic for a Tremec TKO-600 5-speed manual transmission with a Tilton 7.25\" twin-disc clutch. Install a Quaife ATB differential (3.73:1 ratio) and pair with Ohlins Road & Track coilovers (22-way adjustable damping) and polygraphite bushings from SuperPro (part #SPF0115) for subframe reinforcement. Use StopTech 328mm slotted rotors with Ferodo DS2500 pads for braking."
+  ],
+  "estetica": [
+    "Body: Fit a full carbon fiber widebody kit from RPI Engineering (TR8-specific, part #TR8-WB-001), including extended front fenders, rear quarter panels, and a custom front splitter with integrated canards. Paint in a custom 'Lime Green' (PPG DBC9900) with matte black accents on the hood and roof.",
+    "Aero: Install a custom rear wing from Kaminari Aero (TR8-specific, part #KA-TR8-RW-01) with a 3D-printed aluminum gurney flap. Add a custom front diffuser from APR Performance (part #APR-DF-110001) with integrated brake cooling ducts. Use carbon fiber side skirts from Seibon (part #CF-TR8-SS-01).",
+    "Interior: Replace the stock seats with Recaro Pole Position seats (part #3832) upholstered in Alcantara (color: 'Lime Green') with black leather bolsters. Install a Momo Prototipo steering wheel (350mm, part #011-135-00) and a custom gauge pod from Stack (part #ST8100-1) housing a 10,000 RPM tachometer, boost gauge, and oil pressure gauge. Use a custom roll cage from Custom Cages (part #CC-TR8-01) with bolt-in door bars."
+  ]
+}

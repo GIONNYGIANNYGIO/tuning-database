@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "LAND CRUISER 79 SERIES",
+  "prestazioni": [
+    "1HD-FTE 4.2L turbo-diesel engine (165hp stock) upgraded with a BorgWarner EFR 7670 turbo (0.83 A/R, 62mm compressor, 70mm turbine) paired with a custom 3.5-inch stainless steel exhaust system featuring a MagnaFlow 17100 muffler and 4-inch rolled-edge tips for optimized backpressure reduction.",
+    "Full fuel system overhaul with a Bosch CP4.2 high-pressure diesel pump (2,200 bar), Injector Dynamics ID1700x injectors (1,700cc/min), and a Radium Engineering fuel surge tank (2.5L capacity) to support 400+ hp on E85-blended diesel fuel (e.g., DieselBlends DB50).",
+    "Chassis-specific suspension setup: Ohlins TTX40 coilovers (24-way adjustable damping, 100mm travel) with custom valving for the 79 Series' live axles, paired with Polyurethane Bushings Australia (PBA) heavy-duty control arm bushings and a Whiteline front sway bar (24mm adjustable) to mitigate body roll during high-speed desert runs."
+  ],
+  "estetica": [
+    "Custom widebody conversion using a TJM Pro Locker fender flares kit (extended 50mm per side) paired with a 3-piece aluminum rear bumper from ARB (Old Man Emu design, winch-ready) and a custom front bash plate fabricated from 5mm AR500 steel with integrated recovery points.",
+    "Functional aero package: Carbon fiber hood (Seibon CF-TOY-79) with a 3-inch cowl scoop for turbo intake cooling, paired with a custom rear diffuser (3D-printed PETG, 30% downforce increase at 100km/h) and a Mantec snorkel (raised 12 inches above roofline) for deep-water fording.",
+    "Interior roll cage: Custom 8-point chromoly cage (TIG-welded, 4130 steel) by Custom Cages Australia, featuring integrated harness bars for Schroth Profi II 6-point harnesses, a Sparco Evo QRT-K seat (side-mount, FIA 8855-1999 certified), and a Motec C127 dash logger with GPS lap timer."
+  ]
+}

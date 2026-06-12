@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "VOLTZ",
+  "prestazioni": [
+    "Engine swap to a 2ZZ-GE (1.8L VVTL-i) from a Lotus Elise or Toyota Celica GT-S, paired with a Toyota Racing Development (TRD) supercharger kit (Part No. PTR03-20001) and a custom ECU flash via K-Tuned K-Pro V4 for precise VVTL-i cam control and 250+ HP at 8,000 RPM",
+    "Full bolt-on forced induction setup: HKS GT-SS turbo manifold (2ZZ-GE specific), Garrett GT2860RS turbocharger, GReddy Type-S intercooler (2ZZ-GE compatible), and a Tomei 2ZZ-GE exhaust manifold with a custom 3-inch stainless steel exhaust system featuring a Fujitsubo G-Sonic muffler for optimized scavenging",
+    "Suspension overhaul with Tein Flex Z coilovers (VOLTZ-specific damping curves), Cusco 22mm front and 19mm rear sway bars, and Whiteline front and rear adjustable control arms (Part No. KCA416) to correct camber and toe for aggressive cornering, paired with Project Mu 4-pot front and 2-pot rear brake calipers with 280mm rotors"
+  ],
+  "estetica": [
+    "Rocket Bunny V1 widebody kit (VOLTZ-specific, Part No. RB-VOLTZ-001) with custom carbon fiber overfenders, paired with a Veilside Fortune front bumper and a custom rear diffuser by TRA Kyoto for improved aerodynamics",
+    "OEM+ JDM styling with a Toyota Voltz RS (Japan-only) front lip, TRD rear spoiler (Part No. PTR01-20002), and custom LED taillights by Work Wheels (Part No. WK-LED-VOLTZ) with sequential turn signals and smoked lenses",
+    "Interior refresh with Bride Zeta III bucket seats (VOLTZ-specific mounting brackets), a Nardi Classic steering wheel (350mm, Part No. 125200), and a custom gauge cluster by Defi Advance BF (Part No. DF11201) featuring oil pressure, boost, and wideband AFR readouts"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "BZ4X",
+  "prestazioni": [
+    "Upgrade to a **Bosch MGU (Motor Generator Unit) high-performance stator/rotor assembly (Part #89620-47020-8B)** for the **XEAM10 (AWD) or XEAM15 (FWD) electric motor system**, increasing peak torque output from 165 lb-ft to 220 lb-ft via rewound copper windings and neodymium magnet reinforcement, paired with a **Siemens VCU (Vehicle Control Unit) recalibration** to optimize regenerative braking aggressiveness (Level 4 regen) and torque vectoring for track use.",
+    "Install a **Marelli 800V SiC (Silicon Carbide) inverter (Part #MRL-800V-200)** with custom firmware to reduce switching losses by 30%, enabling sustained 250 kW (335 hp) power delivery (vs. stock 150 kW/201 hp) and a **Porsche Taycan-derived liquid-cooled battery thermal management system** with dual **Mahle Behr 1200W chillers** to prevent thermal throttling during high-load autocross sessions.",
+    "Replace the stock **Toyota e-Axle (Part #89620-47010) single-speed reduction gearbox** with a **GKN eTransmission 2-speed unit (Part #GKN-ET2-800V)**, featuring a **Torsen limited-slip differential** and **AP Racing CP9446-2R carbon-ceramic clutch pack** for launch control optimization, reducing 0-60 mph times from 7.1s to 4.8s while maintaining 95% drivetrain efficiency."
+  ],
+  "estetica": [
+    "Fit a **Liberty Walk LB-WORKS bZ4X widebody kit (Part #LW-TY-BZ4X-WB)**, extending front fenders by 40mm and rear by 55mm with **carbon fiber overfenders** and **aluminum reinforcement plates**, paired with **Work Emotion CR Kiwami wheels (20x9.5 +30 front, 20x11 +35 rear)** wrapped in **Michelin Pilot Sport Cup 2 R tires (265/35R20 front, 295/30R20 rear)** for aggressive stance and track-ready grip.",
+    "Install a **Seibon Carbon full carbon fiber hood (Part #TOY-BZ4X-HOOD-CF)** with **integrated NACA ducts** feeding the **Marelli inverter cooling system**, alongside a **Veilside Fortune 03 rear diffuser (Part #VS-TY-BZ4X-DIFF)** with **active Gurney flaps** (controlled via **Motec PDM15**) to reduce lift by 40% at 120 mph.",
+    "Replace the stock LED lighting with **Osram Night Breaker Laser H7 bulbs (6000K)** in the headlights and **Lux H8 fog light LEDs (5500K)**, complemented by a **custom 3D-printed titanium rear light delete panel** (with **integrated OLED brake light strip**) and **Anzo USA sequential turn signals (Part #ANZ-SEQ-TY-BZ4X)** for a JDM-inspired aesthetic."
+  ]
+}

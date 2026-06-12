@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "TUNDRA TRD PRO 1794 EDITION",
+  "prestazioni": [
+    "3UR-FE 5.7L V8 engine: Forced induction via a Garrett GT4509R turbocharger (88mm compressor wheel, .96 A/R turbine housing) paired with a custom 4-inch stainless steel intercooler piping system from Injen Technology, supporting 12 psi of boost with a supporting fuel system upgrade including dual Walbro 450 LPH fuel pumps and ID1000XDS fuel injectors.",
+    "Full bolt-on long-tube header system from Stainless Works with 1-7/8-inch primary tubes merging into 3-inch collectors, paired with a custom 3-inch dual exhaust featuring Borla Pro XS mufflers and a MagnaFlow 5-inch black ceramic-coated exhaust tip setup for optimal scavenging and sound tuning.",
+    "Custom ECU reflash via HP Tuners VCM Suite targeting 550+ WHP with a revised torque management strategy, optimized ignition timing (22 degrees BTDC peak), and a custom camshaft profile from Crower Cams (224/230 duration at .050, .580/.588 lift) to maximize airflow through the ported 3UR-FE cylinder heads with Ferrea Competition Series valves and PAC Racing valve springs."
+  ],
+  "estetica": [
+    "Custom widebody conversion using a TRD Pro-specific Rocket Bunny V3 aero kit (fenders, side skirts, and rear bumper) with carbon fiber overfenders extending wheel arches by 3 inches, paired with a custom front splitter from APR Performance (carbon fiber, 3-piece adjustable) and a carbon fiber rear diffuser from Seibon.",
+    "Suspension overhaul with a full Ohlins Road & Track coilover kit (2-way adjustable dampers, 80mm stroke, custom valving for the Tundra’s 1794 Edition chassis) paired with Eibach Pro-Street S sway bars (28mm front, 25mm rear) and polyurethane bushings from Energy Suspension for improved body control during high-speed cornering.",
+    "Wheel setup featuring custom 22x12-inch front and 22x14-inch rear Forgeline GA3R wheels (ET +15 front, ET -12 rear) wrapped in Nitto Ridge Grappler 305/45R22 tires, paired with a custom TRD Pro-specific grille insert from Ralliart with a blacked-out mesh pattern and LED DRLs from Diode Dynamics."
+  ]
+}

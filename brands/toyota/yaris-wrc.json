@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "YARIS WRC",
+  "prestazioni": [
+    "Engine: 1.6L turbocharged inline-4 (G16E-GTS-derived WRC-spec block, reinforced with billet aluminum main caps and forged internals, producing 380+ HP at 6,000 RPM and 425 Nm of torque at 5,500 RPM, mated to a 6-speed sequential gearbox (Xtrac P1044) with a Sachs triple-plate carbon clutch and a Quaife ATB differential for optimized power delivery on gravel/tarmac stages)",
+    "Turbocharger: Garrett MGT2260S (WRC-spec, 34mm restrictor-compliant, ball-bearing core, titanium-aluminide turbine wheel, and a custom 0.63 A/R turbine housing for instant spool and 45 psi max boost on 102 RON fuel, paired with a Pierburg WRC-spec water-to-air intercooler and a custom 3.5\" silicone charge pipe system with V-band clamps)",
+    "Suspension: Öhlins TTX40 4-way adjustable dampers (WRC-spec, 300mm stroke, remote reservoirs, and adjustable bump/rebound/compression/low-speed damping) with custom Eibach ERS coil springs (120 N/mm front, 100 N/mm rear) and a full WRC-spec subframe (aluminum front, steel rear) with spherical bearing mounts and adjustable anti-roll bars (TAROX 24mm front, 22mm rear) for precise weight transfer tuning"
+  ],
+  "estetica": [
+    "Aerodynamics: Toyota Gazoo Racing WRC aero kit (carbon fiber front splitter with integrated dive planes, rear diffuser with Gurney flap, and a 1,500mm-wide carbon fiber rear wing with adjustable angle of attack for high-speed stability, all CFD-optimized for 300+ km/h downforce)",
+    "Body: Full carbon fiber body panels (hood, fenders, doors, and rear hatch) from RAUH-Welt BEGRIFF (RWB) WRC-spec, featuring a 50mm wider track for aggressive stance, with custom carbon fiber side skirts and a rear bumper incorporating a central exhaust exit (Akrapovič titanium 3.5\" WRC-spec system with dual mufflers)",
+    "Interior: Sparco WRC-spec carbon fiber bucket seats (with 6-point Schroth harnesses), a custom roll cage (T45 steel, FIA-approved, with integrated fire suppression system), and a Motec C127 dash logger with a WRC-spec steering wheel (Sparco R383, quick-release hub, and integrated paddle shifters for the Xtrac sequential gearbox)"
+  ]
+}

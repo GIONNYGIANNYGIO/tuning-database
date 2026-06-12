@@ -1,0 +1,14 @@
+{
+  "brand": "TRAMONTANA",
+  "model": "R EDITION",
+  "prestazioni": [
+    "Upgrade the Mercedes-AMG M178 LS2 4.0L V8 biturbo (engine code: M178 DE40 AL) with a bespoke Weistec Engineering Stage 3+ hybrid turbo kit featuring Garrett GTX5533R Gen II turbos, billet compressor wheels, and 1.22 A/R turbine housings, paired with a Weistec titanium downpipe system and 3.5-inch Inconel exhaust manifolds for a target of 1,000+ HP on 93 octane with E85 flex-fuel capability",
+    "Install a Motec M150 ECU with a Tramontana-specific CAN bus integration for seamless control of the M178’s direct injection, port injection (via supplementary Fuelab 450 LPH port injectors), and electronic wastegate actuation, alongside a Pectel SQ6M data logger for real-time telemetry and traction control via a Bosch MS4.0-derived algorithm",
+    "Replace the stock 7-speed AMG SPEEDSHIFT MCT transmission with a Wavetrac limited-slip differential and a Tilton triple-disc carbon clutch system, mated to a custom Quaife ATB helical LSD for the rear axle, while reinforcing the drivetrain with a Fidanza aluminum flywheel and a G-Force GSR-4 sequential gearbox (dog-ring, 4.08 final drive) for sub-100ms shifts"
+  ],
+  "estetica": [
+    "Apply a full carbon-fiber body overhaul using a Tramontana-exclusive 2x2 twill weave from Toray T800 pre-preg, including a custom Vorsteiner-style front splitter with integrated Gurney flaps, a rear diffuser with active aerodynamics (adjustable via hydraulic actuators), and a fixed carbon roof with a NACA duct for engine bay cooling",
+    "Replace the stock LED headlights with a custom Hella 90mm Bi-Xenon projector system featuring adaptive cornering lights and a DRL strip integrated into the carbon fiber side skirts, while adding a set of OZ Racing Ultraleggera HLT wheels (20x10 front, 21x12 rear) wrapped in Michelin Pilot Sport Cup 2 R tires (265/30 R20 front, 325/25 R21 rear) with TPMS sensors",
+    "Install a Tramontana-specific interior package featuring Recaro Pole Position bucket seats with 6-point Schroth Profi II harnesses, a MOMO Prototipo steering wheel with Alcantara and carbon fiber trim, a custom roll cage by Safety Devices (FIA 8862-2009 certified) with integrated fire suppression system (Lifeline Zero 360), and a digital dash cluster from AIM MXS Strada with a 12-inch display"
+  ]
+}

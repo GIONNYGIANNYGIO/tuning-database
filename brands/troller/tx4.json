@@ -1,0 +1,14 @@
+{
+  "brand": "TROLLER",
+  "model": "TX4",
+  "prestazioni": [
+    "Engine swap to a Ford Duratorq 3.2L TDCi (Puma engine code: QJBA) with a BorgWarner EFR 8374 turbocharger (1.05 A/R turbine housing, 62mm compressor inducer) paired with a custom 4-inch stainless steel intercooler from Bell Intercoolers, designed specifically for the TX4's front bumper airflow dynamics",
+    "Full custom ECU remapping via a Motec M150 ECU with a bespoke calibration for the QJBA engine, targeting 380whp and 650Nm of torque on E85 fuel, utilizing a 3.5-bar MAP sensor and individual cylinder fuel trims for optimal combustion efficiency",
+    "Upgraded drivetrain with a Sachs Performance twin-disc clutch (part #3000950001) and a Quaife ATB differential (QDF7Z) in the rear axle, paired with a reinforced Troller TX4-specific transfer case (part #TX4-001) modified with a 4.88:1 gear ratio for improved off-road torque delivery"
+  ],
+  "estetica": [
+    "Custom widebody kit by Overland Vehicle Design (OVD), featuring 3mm aluminum fender flares with integrated LED light pods (Baja Designs Squadron Pro) and a reinforced steel front bumper with a Warn Zeon 12-S winch (part #103274) and a custom bull bar with auxiliary light mounts",
+    "Full interior overhaul with Recaro Pole Position seats (part #391.20.01) in Alcantara and carbon fiber, a custom aluminum dashboard overlay by Trollwerks, and a full roll cage designed by Safety Devices (part #SD0123) with integrated harness bars for Schroth Profi II 6-point harnesses",
+    "Suspension lift kit by Old Man Emu (OME) (part #KIT-TX4) with 2.5-inch lift coils, Nitrocharger Sport shocks, and custom-fabricated rear trailing arms with polyurethane bushings (SuperPro part #SPF0116K) for improved articulation, paired with BF Goodrich KM3 35x12.50R17 tires on Method MR701 wheels (17x9, +12mm offset)"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "TRIUMPH",
+  "model": "DOLOMITE SPRINT",
+  "prestazioni": [
+    "Engine: Replace the stock 1,998cc SAH (Sprint Advanced Head) 16-valve inline-4 with a forged crankshaft from **Cosworth YB** (same 90.3mm stroke) and **Mahle Motorsport** forged pistons (8.5:1 CR) to handle 250+ hp reliably. Pair with **Triumph Works** billet steel connecting rods (H-beam, ARP2000 bolts) for high-RPM durability.",
+    "Forced Induction: Install a **Garrett GT2860RS** turbocharger (0.63 A/R turbine housing) with a **Tial 38mm wastegate** and **Custom Fabrication Services (CFS)** equal-length stainless steel exhaust manifold. Use a **Pierburg 45mm throttle body** (from BMW M10) and **Bosch 0280155999** 3-bar MAP sensor for precise boost control (1.2 bar peak).",
+    "Fuel & Ignition: Convert to **Lucas 1UZ-FE** 320cc/min injectors (low-impedance, batch-fired) with a **Haltech Elite 1500 ECU** (custom Triumph SAH map). Use **NGK BCPR8ES-11** spark plugs gapped at 0.028\" and a **MSD 6AL-2** ignition amplifier with **Accel 8.8mm Super Stock** plug wires for 30,000V output."
+  ],
+  "estetica": [
+    "Body: Fit a **Broadspeed GT replica widebody kit** (fiberglass, riveted fenders) with **Rear 8Jx13 Compomotive MO wheels** (ET25, 185/60R13 Yokohama A048R tires) and **front 7Jx13 Minilite replicas** (ET15, 175/60R13). Add **Triumph Dolomite Sprint Group 1 homologation rear spoiler** (aluminum, 30mm chord).",
+    "Interior: Replace stock seats with **Recaro SRD** (1970s Group 2 spec, H-pattern harness slots) and **Sparco 6-point harnesses (FIA 8853/98)**. Install a **Momo Prototipo** 330mm steering wheel (quick-release hub) and **Smiths 8000-series** 10,000 RPM tachometer (redline at 8,500 RPM).",
+    "Detailing: Paint in **Broadspeed \"Limeflower Yellow\"** (original 1974 Group 2 livery) with **3M 471 vinyl stripes** (black, 50mm width). Use **Hella 160mm Cibie Oscar** headlights (H4 conversion) and **Lucas L550 fog lights** (mounted in custom aluminum pods)."
+  ]
+}

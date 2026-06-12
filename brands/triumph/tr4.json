@@ -1,0 +1,14 @@
+{
+  "brand": "TRIUMPH",
+  "model": "TR4",
+  "prestazioni": [
+    "Engine: Replace the stock 2.1L inline-4 (engine code: SC i4) with a fully built 2.5L stroker kit from Rimmer Bros, featuring forged Mahle pistons (87mm bore), Cunningham steel rods, and a billet crankshaft (76mm stroke) for a displacement increase to 2,498cc. Pair with a custom 3-angle valve job, Ferrea stainless steel valves (intake: 44.5mm, exhaust: 38mm), and a high-lift camshaft from Kent Cams (280° duration, 0.450\" lift) for aggressive overlap and improved breathing.",
+    "Forced Induction: Install a Rotrex C38-91 supercharger kit from Sprintex, mounted on a custom billet aluminum intake manifold with a large 3.5\" throttle body from Jenvey Dynamics. Use a custom intercooler setup with a PWR heat exchanger and a Bosch 044 fuel pump to support 12 psi of boost, targeting 220+ HP at the wheels. Pair with a Haltech Elite 2500 ECU for precise fuel and ignition mapping, including individual cylinder trims and knock control.",
+    "Drivetrain: Swap the stock 4-speed manual for a Tremec TKO-600 5-speed overdrive transmission with a custom bellhousing adapter from Quaife. Install a limited-slip differential from Salisbury (4HA type) with a 3.7:1 final drive ratio for improved acceleration. Use a Tilton twin-disc clutch with a billet flywheel and a hydraulic throwout bearing for smooth engagement under high torque."
+  ],
+  "estetica": [
+    "Body: Replace the stock steel panels with a full carbon fiber replica body kit from Fibre Glass Developments, including a lightweight hood, doors, and trunk lid. Add a custom widebody conversion with hand-formed aluminum fender flares (2.5\" wider front, 3\" wider rear) to accommodate 17x8.5\" (front) and 17x10\" (rear) BBS RS-GT wheels with 225/45 and 275/40 tires, respectively. Paint in a custom two-tone scheme: Aston Martin Racing Green (lower) and Signal Red (upper) with gold pinstriping by Trimcraft.",
+    "Interior: Install a full custom interior by Trimcraft, featuring Recaro SRD bucket seats with 4-point Schroth harnesses, a Momo Prototipo steering wheel on a quick-release hub, and a custom aluminum dashboard with Smiths gauges (3.5\" tachometer, 2.5\" oil pressure, water temp, and fuel level). Replace the stock wiring with a Painless Performance harness and add a custom roll cage from Safety Devices (8-point, T45 steel) with bolt-in door bars for rigidity.",
+    "Aero: Add a custom front splitter from APR Performance (carbon fiber, 3\" overhang) and a rear diffuser from Seibon Carbon, paired with a custom aluminum rear spoiler (24\" wide, 4\" tall) for balanced downforce. Install a custom side-exit exhaust system with 2.5\" stainless steel piping and dual Burns Stainless mufflers, exiting just ahead of the rear wheels for an aggressive sound and look."
+  ]
+}

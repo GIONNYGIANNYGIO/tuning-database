@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "TUNDRA CAPSTONE",
+  "prestazioni": [
+    "3.5L twin-turbo V6 (V35A-FTS) forced induction upgrade with Garrett GTX5533R Gen II turbochargers (84mm compressor, 1.32 A/R turbine housing) paired with a custom 4-inch titanium downpipe system by Agency Power, featuring 304 stainless steel construction and 3-inch V-band clamps for optimized exhaust flow and reduced turbo lag",
+    "Full bolt-on fuel system overhaul including dual Walbro 450 LPH in-tank fuel pumps (PN: F90000267) with a Radium Engineering dual pump hanger (PN: 20-0301), upgraded fuel injectors (Denso 2200cc/min, PN: 19550-0D030), and a Motec M150 ECU with custom V35A-FTS-specific calibration for E85 compatibility and 750+ WHP capability",
+    "Chassis reinforcement via a full seam-welded subframe and custom bolt-in roll cage by Autopower Industries (Tundra-specific design, 1.75\" x .120\" DOM tubing) with integrated bolt-in subframe connectors (Crawford Performance, PN: CP-TUNDRA-SFC) to eliminate flex and improve power transfer under extreme boost conditions"
+  ],
+  "estetica": [
+    "Full Rocket Bunny V3 widebody conversion kit (PN: RB-TUNDRA-V3) with extended carbon fiber fenders (2.5\" front, 3.5\" rear), custom front splitter with integrated canards, and a 3-piece carbon fiber rear diffuser with dual 4-inch exhaust cutouts for the Agency Power titanium system",
+    "Custom air suspension setup by Air Lift Performance (3P management system, PN: 25830) with Tundra-specific front struts (PN: 74300) and rear bags (PN: 74301), paired with AccuAir E-Level sensors for precise ride height control and a custom hardline stainless steel air management system by Viair (480C compressor, 5-gallon tank)",
+    "OEM+ aggressive stance via Work Emotion CR Kiwami wheels (22x12 +15 front, 22x13 +30 rear) wrapped in Michelin Pilot Sport Cup 2 tires (305/30/22 front, 325/25/22 rear), with custom wheel spacers (Hubcentric, 5mm front, 10mm rear) to achieve a flush fitment without fender modification"
+  ]
+}

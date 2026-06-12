@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "WILL VS",
+  "prestazioni": [
+    "Engine swap to 3S-GTE Gen 4 (260hp stock, but built with Tomei 272° cams, HKS GT-SS turbo manifold, and Garrett GT3076R turbo for 400whp on E85 with Haltech Elite 2500 ECU managing sequential fueling via ID1000 injectors and custom 3.5\" intercooler piping)",
+    "Full chassis reinforcement via Cusco bolt-in 4-point roll cage (WILL VS-specific fitment) paired with Tein Flex Z coilovers (custom valved for 1G-FE/3S-GTE weight distribution) and Whiteline 24mm adjustable rear sway bar to eliminate body roll in tight JDM touge corners",
+    "Drivetrain overhaul with OS Giken Super Lock LSD (8-bolt diff conversion), TRD 8000rpm clutch kit (modified for 3S-GTE flywheel), and custom 4.444 final drive ratio via Toyota RA61 Celica GTS ring & pinion set (requires custom axles from Driveshaft Shop)"
+  ],
+  "estetica": [
+    "Full Rocket Bunny VS-01 widebody kit (fiberglass fenders, carbon overfenders, and custom rear diffuser) with custom 3M Matte Pearl White wrap (Toyota 040 code) and JDM-spec Will VS side decals (replica of 2001 Tokyo Auto Salon show car)",
+    "OEM+ headlight retrofit with Morimoto HID projectors (35W 5500K) and custom LED halo rings (WILL VS-specific housing), paired with Depo JDM-style smoked taillights (sequential turn signals via Diode Dynamics controller)",
+    "Interior stripped and rebuilt with Bride Zeta III bucket seats (WILL VS-specific mounting brackets), Takata 4-point harnesses, and custom carbon fiber dash overlay (matching Toyota Will VS \"Cyber\" trim theme) with Defi BF gauges (oil temp, boost, and wideband) mounted in a custom A-pillar pod"
+  ]
+}

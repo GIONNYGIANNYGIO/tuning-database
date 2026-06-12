@@ -1,0 +1,14 @@
+{
+  "brand": "TRIUMPH",
+  "model": "TR7",
+  "prestazioni": [
+    "Replace the stock 2.0L SOHC *PE163* (or 2.0L *PE164* for US models) engine with a fully built *PE163* featuring forged Mahle pistons (87.5mm bore, 8.5:1 CR), Cunningham con rods, and a Kent Cams 296° duration camshaft with 11.5mm lift for high-RPM power (220+ hp with forced induction).",
+    "Install a *Garrett GT2860RS* turbocharger with a custom *TDR Fabrications* log manifold, *Tial 44mm* wastegate, and *Injector Dynamics ID1000* fuel injectors, paired with a *Haltech Elite 1500* standalone ECU for precise boost control (18 psi peak) and sequential fueling.",
+    "Upgrade the drivetrain with a *Quaife ATB LSD* in a *Triumph TR7 Sprint* 5-speed gearbox (close-ratio), *AP Racing CP5270* 2-piece brake rotors (280mm) with *Ferodo DS2500* pads, and *Bilstein B14* coilovers with *Eibach Pro-Kit* springs (25mm drop) for track-ready handling."
+  ],
+  "estetica": [
+    "Fit a *Rally Design* fiberglass widebody kit (TR7 V8-style flares) with *Rota Grid 15x8* wheels (ET15 offset) wrapped in *Toyo R888R* 225/50R15 tires for aggressive stance and grip.",
+    "Install a *TDR Fabrications* front splitter and *Rear Diffuser* (carbon fiber) with *AeroCatch* hood pins, paired with a *Triumph TR8* rear spoiler (OEM-style but functional) for downforce at speed.",
+    "Full interior overhaul with *Recaro SRD* seats (TR7-specific mounts), *Momo Prototipo* steering wheel (350mm), and *Defi Advance BF* gauges (oil pressure, boost, AFR) in a *Custom Cages* bolt-in roll bar (half-cage) for a race-ready cockpit."
+  ]
+}

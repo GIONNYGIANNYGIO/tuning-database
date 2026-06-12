@@ -1,0 +1,14 @@
+{
+  "brand": "TOYOTA",
+  "model": "bB",
+  "prestazioni": [
+    "1NZ-FE 1.5L inline-4 engine swap to a 2ZZ-GE 1.8L from a Toyota Celica GT-S with a custom bellhousing adapter (MFactory) to retain the bB's C59 transmission, paired with a HKS Super SQV IV blow-off valve and a custom 4-2-1 stainless steel header (JUN Auto) for optimized scavenging",
+    "Full bolt-on forced induction using a Garrett GT2860RS turbocharger (0.63 A/R turbine housing) on a custom cast manifold (Tommy Kaira), mated to a GReddy intercooler core (550x225x76mm) with custom aluminum end tanks (Rocket Bunny) and a Tomei 60mm titanium wastegate for precise boost control (set to 1.2 bar peak)",
+    "Custom ECU reflash via Haltech Elite 2500 with individual cylinder fuel trims, dual-stage launch control (3,500 RPM and 5,000 RPM), and a 3D-mapped ignition advance curve optimized for 98 RON fuel, paired with a set of Denso Iridium IK24 spark plugs gapped at 0.028\" and a Walbro 450 LPH in-tank fuel pump with a Radium Engineering surge tank"
+  ],
+  "estetica": [
+    "Full Rocket Bunny Version 2 widebody kit (front fenders, rear quarter panels, and rear bumper) with custom carbon fiber overfenders (Seibon) and a 3M Matte Graphite vinyl wrap with gloss black accents on the roof and pillars",
+    "Custom 17x9.5\" Work Emotion CR Kiwami wheels (ET+15, 5x114.3) with 225/40R17 Yokohama Advan Neova AD08R tires, paired with a set of Tein Flex Z coilovers (8kg/mm front, 6kg/mm rear) and Cusco front and rear strut tower bars for chassis rigidity",
+    "Full custom interior with Bride Zeta III bucket seats (red Alcantara with black leather bolsters), a Nardi Classic 350mm steering wheel (perforated leather), and a custom roll cage (Sparco Pro 2000) with integrated harness bar and Schroth Profi II 6-point harnesses"
+  ]
+}
