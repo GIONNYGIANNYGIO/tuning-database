@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "TRANSPORTER T6 4MOTION",
+  "prestazioni": [
+    "Engine: 2.0L TDI BiTDI (EA288 Gen.3, engine code **CJXB**) with a **Garrett GTB2260VK turbocharger** upgrade (hybrid billet wheel, 0.82 A/R turbine housing) paired with a **Bosch CP4.2 high-pressure fuel pump** and **Siemens 870cc injectors** for a target of 320hp/700Nm on **Motec M150 ECU** with custom CAN mapping for 4Motion torque vectoring.",
+    "Drivetrain: **02M 6-speed DSG transmission** reinforced with a **DSGWerks Stage 3 clutch pack** and **South Bend twin-disc organic clutch**, coupled with a **Quaife ATB differential** (front) and **VAICO 4Motion rear diff lock** (OEM+ reinforcement) for off-road torque distribution. **GKN VL3 driveshafts** with upgraded CV joints for 800Nm+ torque handling.",
+    "Suspension: **Bilstein B16 PSS10 coilovers** (T6-specific valving, 50mm drop) with **H&R T6 4Motion anti-roll bars** (24mm front, 22mm rear) and **SuperPro polybushings** (full kit, including subframe mounts). **Terrafirma T6 heavy-duty springs** (25mm lift) for overlanding, paired with **BF Goodrich KO2 255/65R17 tires** on **BBS CH-R 17x8 ET35 forged wheels**."
+  ],
+  "estetica": [
+    "**Rieger Tuning T6 RS front bumper** (carbon fiber, integrated **Hella 500 FF fog lights** and **Warn Zeon 10-S winch**), paired with **Rieger side skirts** and **custom rear diffuser** (3D-printed PETG, **Vortex Generator** design for aero efficiency). **Rockford Fosgate T1S2-10 subwoofer** mounted in a **custom aluminum enclosure** (replacing the OEM rear bench).",
+    "**OEM+ Euro-spec LED headlights** (Hella 3R, **Osram Night Breaker Laser bulbs**) with **Morimoto XB35 LED fog lights**, **VW OEM Dynamic LED taillights** (retrofitted with **Philips Ultinon Pro6000 LEDs**), and **3M 1080 Series wrap** (Satin Black with **Hexis Carbon Fiber accents** on roof and mirrors).",
+    "**Interior: Recaro Pole Position seats** (T6-specific mounts, **Schroth 6-point harnesses**) with **Alcantara door cards** (custom stitching, **LED ambient lighting** by **VW Individual**). **Momo Mod.73 steering wheel** (flat-bottom, **NRG quick-release hub**) and **AEM X-Series gauge cluster** (boost, EGT, AFR) integrated into the **OEM dash via CAN bus**."
+  ]
+}

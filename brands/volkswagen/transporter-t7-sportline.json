@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "TRANSPORTER T7 SPORTLINE",
+  "prestazioni": [
+    "Engine: EA288 evo 2.0 TDI (CRTD) 150 kW (204 PS) – Stage 2 ECU remap by Dimsport Genius with custom fueling map for 250 PS and 500 Nm torque, paired with a Garrett GTD2056VK turbocharger (hybrid upgrade with billet compressor wheel and 0.64 A/R turbine housing) for optimized spool and reduced lag, while maintaining OEM reliability.",
+    "Drivetrain: 4Motion Haldex Gen 5 controller reprogrammed by APR Haldex Controller with aggressive torque split (60:40 rear bias) and launch control, mated to a 7-speed DSG (DQ500) transmission with upgraded Mechatronics valve body by DQTuning for faster shifts and increased torque capacity (up to 600 Nm).",
+    "Suspension & Handling: KW Suspensions Clubsport coilovers (3-way adjustable, height-adjustable, and rebound damping) with custom valving for T7 Sportline chassis, paired with H&R anti-roll bars (25mm front, 22mm rear) and Powerflex Black Series polyurethane bushings (subframe, control arms, and trailing arms) for reduced compliance and sharper turn-in."
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny VW T7 Sportline widebody kit (carbon fiber front splitter, side skirts, and rear diffuser) with integrated canards and a custom 3D-printed rear wing (1.2m span, 30mm adjustable angle) for downforce at highway speeds (tested in CFD for 80kg at 120 km/h).",
+    "Wheels & Brakes: BBS FI-R 9.5x20 ET30 forged wheels (gold finish, 5x120 PCD) wrapped in Michelin Pilot Sport Cup 2 R tires (255/35 R20) for track-focused grip, paired with Alcon 6-piston front calipers (380mm two-piece floating rotors) and 4-piston rear calipers (350mm rotors) with Ferodo DS2500 pads for fade-resistant stopping power.",
+    "Interior & Exterior: Full carbon fiber interior trim by VW Racing (dashboard, door cards, and center console) with Recaro Pole Position bucket seats (fixed-back, FIA-approved) and a custom roll cage by Safety Devices (TIG-welded, 6-point, chromoly steel). Exterior features a custom matte vinyl wrap (3M 2080 Satin Black) with gloss black accents on the grille, badges, and window trims, plus LED taillights by Osram with sequential turn signals and a custom rear light bar (RGB, programmable via app)."
+  ]
+}

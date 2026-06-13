@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "T-CROSS",
+  "prestazioni": [
+    "Stage 2 ECU remap by APR targeting the **CZDA 1.5L TSI EVO (EA211)** engine, optimizing for 200 HP and 258 Nm torque with a custom 98 RON fuel map, including revised ignition timing and boost pressure (1.4 bar peak) for the stock IHI turbocharger (IS38-derived)",
+    "Full turbo-back exhaust system by Remus for the CZDA, featuring a 63.5mm diameter stainless steel downpipe with a 200-cell GESI catalytic converter, paired with a 76mm rear muffler for aggressive yet street-legal sound tuning",
+    "KW Suspensions Clubsport coilovers (V3 variant) with 8-position adjustable rebound damping and 16-level compression adjustment, specifically valved for the T-Cross MQB-A0 platform, lowering ride height by 35mm front and 30mm rear while retaining OEM wheel travel"
+  ],
+  "estetica": [
+    "Rieger Tuning front bumper lip spoiler (part #5T0-807-237-C-GR) with integrated carbon fiber splitter, designed exclusively for the T-Cross facelift (2021+) to reduce front lift by 12% at 120 km/h",
+    "OEM+ side skirts from VW Racing Line (part #5T0-075-141-2ZW) in gloss black, paired with custom 3M 2080 G12 gloss carbon vinyl wrap on the roof and mirror caps for a stealth OEM+ aesthetic",
+    "Rear diffuser by Maxton Design (MX-TC001) with integrated quad 76mm titanium exhaust tips, compatible with the Remus system, and a carbon fiber rear spoiler extension (APR ST-001) adding 8kg of downforce at 160 km/h"
+  ]
+}

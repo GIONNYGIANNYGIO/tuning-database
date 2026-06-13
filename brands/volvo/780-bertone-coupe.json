@@ -1,0 +1,14 @@
+{
+  "brand": "VOLVO",
+  "model": "780 BERTONE COUPE",
+  "prestazioni": [
+    "PRV (Peugeot-Renault-Volvo) ZE/ZN 2.8L V6 Turbo (B280FT/B280ET) engine: Full forged internals by JE Pistons (8.5:1 compression, 96mm bore) with Manley H-beam connecting rods, balanced crankshaft by Crower, and ARP L19 head studs for 18psi boost on a Garrett GT3582R turbo (0.82 A/R, ball-bearing) with a custom 3.5\" stainless downpipe and Tial MV-R 44mm external wastegate",
+    "PRV-specific Motec M150 ECU with custom PRV turbo calibration by Syvecs dealer 'PRV Performance' (UK), including sequential fuel injection via Bosch 0280158107 injectors (850cc/min) and a custom 3.5-bar MAP sensor setup for precise boost control",
+    "Full PRV-specific drivetrain reinforcement: Quaife ATB differential (80% lock) in a Volvo M90 gearbox with a Sachs Performance twin-disc clutch (240mm, 800Nm torque capacity), paired with a custom 3.5\" aluminum driveshaft by GKN Driveline and reinforced CV joints by Neapco (800Nm rating)"
+  ],
+  "estetica": [
+    "Bertone-specific Rocket Bunny V2 widebody kit (fiberglass, 3-piece front fenders, 2-piece rear quarters) with custom carbon fiber overfenders by Seibon, retaining the original Bertone beltline crease and extending wheel arches for 9.5\" (front) and 11\" (rear) wheel widths",
+    "Full custom interior retrim by Saddleback Leather (USA) in hand-stitched 'Volvo Dark Blue' leather with PRV V6 turbo embroidery on headrests, Alcantara-wrapped Recaro SPG seats (Volvo 780-specific mounting brackets), and a custom Momo Prototipo steering wheel (380mm, suede) with PRV logo laser-engraved into the horn button",
+    "Bertone-specific OEM+ aero: Custom carbon fiber front splitter by VRSF (Canada) with integrated tow hooks, rear diffuser by Maxton Design (UK) with dual 3.5\" exhaust cutouts for a custom stainless steel exhaust by Milltek Sport (non-resonated, 3\" piping), and a custom carbon fiber rear spoiler by APR Performance (20mm taller than OEM, adjustable angle)"
+  ]
+}

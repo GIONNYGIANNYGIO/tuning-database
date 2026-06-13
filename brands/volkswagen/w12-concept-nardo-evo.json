@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "W12 CONCEPT NARDO EVO",
+  "prestazioni": [
+    "Engine: Replace the stock W12 6.0L (engine code: **W12 6.0L 48V**) internals with forged Mahle Motorsport pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from Manley Performance to handle 1,200+ HP. Pair with a custom dry-sump oiling system by Dailey Engineering to prevent oil starvation under lateral G-forces exceeding 1.5G.",
+    "Forced Induction: Twin Garrett GTX5533R Gen II turbochargers (88mm inducer) with TiAL MV-R 60mm wastegates and custom 4.5\" stainless steel intercooler piping by Vibrant Performance. Utilize a Motec M150 ECU with a bespoke W12-specific turbo map, including sequential turbo staging for linear power delivery up to 9,500 RPM.",
+    "Drivetrain: Upgrade to a 6-speed sequential transmission from Hewland (LST-200) with a Sachs Performance twin-disc carbon clutch (240mm) and a Quaife ATB helical LSD. Reinforce the rear subframe with a custom 4130 chromoly tubular structure by The Driveshaft Shop to handle the increased torque (1,100 Nm+)."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon fiber widebody kit by Liberty Walk (LB-WORKS W12 Nardo Evo edition), including extended front fenders, rear quarter panels, and a custom 3D-printed rear diffuser with active Gurney flaps (adjustable via a cockpit switch). Front splitter and rear wing are derived from the Volkswagen I.D. R’s aero package, modified for road use.",
+    "Wheels & Tires: Custom 20\"x12\" (front) and 21\"x13.5\" (rear) forged aluminum wheels by BBS (FI-R model) with center-lock hubs, wrapped in Michelin Pilot Sport Cup 2 R tires (285/30 R20 front, 335/25 R21 rear). Brake system features 420mm carbon-ceramic rotors (AP Racing CCM-X) with 6-piston calipers up front and 380mm rotors with 4-piston calipers at the rear.",
+    "Interior: Full Alcantara-wrapped Recaro Pole Position seats with integrated 6-point harnesses by Schroth. Custom roll cage by Matter Fab (chrome-moly steel, FIA-spec) with integrated fire suppression system (Lifeline Zero 360). Dashboard features a 12.3\" digital display by RaceLogic (VBOX Motorsport) with live telemetry, including turbo boost pressure, oil temperature, and G-force readouts."
+  ]
+}

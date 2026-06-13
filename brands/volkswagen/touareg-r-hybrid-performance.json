@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "TOUAREG R HYBRID PERFORMANCE",
+  "prestazioni": [
+    "Upgrade the **3.0L V6 TSI EA897 EVO2 (CZSE)** hybrid powertrain with a **VW Racing Hybrid Performance Software (HPS) ECU reflash**, optimizing the **462 HP (340 kW) and 700 Nm** output by recalibrating the **electric motor (136 HP/100 kW) torque split** for a 0.2s faster 0-60 mph (5.1s to 4.9s) while maintaining the **4Motion Haldex Gen5 AWD** system's adaptive torque vectoring.",
+    "Install a **CTS Turbo Hybrid-Specific Intercooler Kit (Part #CTS-IC-VW-TOUAREG-R-HYB)** with **600W heat rejection capacity** and **aluminum end tanks** to prevent **heat soak-induced power sag** during repeated 0-100 km/h acceleration cycles, paired with a **Forge Motorsport Hybrid-Specific Blow-Off Valve (FM-VW-TOUAREG-R-HYB)** to eliminate compressor surge under aggressive regenerative braking.",
+    "Replace the **OEM 8-speed ZF 8HP70 hybrid transmission** with a **ZF 8HP76X (Hybrid-Specific) transmission** featuring a **reinforced torque converter (upgraded to 900 Nm capacity)** and a **custom TCU tune by Dimsport** to enable **launch control at 3,500 RPM** and **quicker shifts (150ms vs. 220ms stock)** while integrating the **electric motor’s instant torque** for seamless power delivery."
+  ],
+  "estetica": [
+    "Fit a **Rieger Tuning Touareg R Hybrid-Specific Widebody Kit (Front: +30mm, Rear: +40mm)** with **carbon fiber fender flares** and **integrated air curtains** to accommodate **21-inch BBS FI-R wheels (9.5J ET35 front, 11J ET40 rear)** wrapped in **Michelin Pilot Sport Cup 2 R (285/35 R21 front, 305/30 R21 rear)** for aggressive stance and track-ready grip.",
+    "Install a **Vorsteiner V-RT Hybrid-Specific Carbon Fiber Rear Diffuser** with **active aerodynamics (adjustable Gurney flap)** to reduce rear lift by **18%** at 120 mph, paired with a **custom 3D-printed titanium exhaust tip set by Akrapović (dual 100mm outlets)** to enhance the hybrid’s **electric-only stealth mode acoustics** while maintaining backpressure for TSI efficiency.",
+    "Replace the **OEM LED matrix headlights** with **Hella 5000K Hybrid-Specific Adaptive Laser Headlights (Part #Hella-8SE-007-111-00)** featuring **dynamic cornering assist** and **blue-tinted DRLs**, complemented by a **full carbon fiber hood by 991 Motorsport (weight reduction: 8.2 kg)** with **functional NACA ducts** to improve airflow to the **hybrid battery cooling system**."
+  ]
+}

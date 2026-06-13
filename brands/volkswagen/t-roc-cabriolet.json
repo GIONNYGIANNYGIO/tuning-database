@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "T-ROC CABRIOLET",
+  "prestazioni": [
+    "Engine: CZPA (1.5L TSI EVO2) – Full Stage 2+ ECU remap by APR (APR TC2100 software) with 98 RON fuel support, increasing output to 240 HP and 300 Nm torque, paired with a custom APR Carbonio intake system (CZPA-specific) and a Milltek Sport 76mm cat-back exhaust with resonated center section to retain cabin refinement while enhancing turbo spool acoustics",
+    "Forced Induction: Hybrid turbo upgrade using a Garrett GT2259SZ (CZPA-specific) with billet compressor wheel, 3D-printed Inconel turbine housing, and BorgWarner EFR wastegate actuator for precise boost control (targeting 24 psi peak, tapering to 20 psi for reliability), mated to a custom 3-inch downpipe with a GESI 200-cell catalytic converter for emissions compliance",
+    "Suspension & Handling: KW Suspensions Clubsport coilovers (T-Roc Cabriolet-specific valving) with 8-position rebound damping and 12mm ride height adjustment, paired with H&R 25mm front and 20mm rear anti-roll bars (OEM subframe mounts reinforced with 034 Motorsport billet aluminum brackets). Braking upgraded to Alcon 6-piston front calipers (355mm discs) and 4-piston rear calipers (330mm discs) with Ferodo DS2500 pads and Goodridge G-Stop braided lines"
+  ],
+  "estetica": [
+    "Aero: Prior Design PD-TROC widebody kit (carbon fiber front splitter, side skirts, and rear diffuser) with integrated Vortex Generator canards on the front bumper for high-speed stability. Rear wing: custom 3D-printed carbon fiber ducktail spoiler (120mm chord) with adjustable angle (0-15 degrees) for downforce tuning, mounted via OEM roof reinforcement plates",
+    "Exterior Trim: Full de-chrome treatment with Litchfield carbon fiber mirror caps, VW OEM+ gloss black badges (laser-etched), and a custom 3M Matte Graphite vinyl wrap with satin clear coat (applied over OEM paint for reversibility). Roof: OEM-style soft-top delete with a custom-fabricated aluminum hardtop (weight: 38kg) by Carlex Design, featuring a rear glass panel with defroster and integrated LED brake light",
+    "Wheels & Tires: BBS FI-R 9Jx20 ET40 (front) and 10Jx20 ET45 (rear) in Gloss Black with gold hardware, wrapped in Michelin Pilot Sport Cup 2 R tires (245/30 R20 front, 275/25 R20 rear). Custom center caps with engraved VW Motorsport logo and T-Roc Cabriolet script. Brake calipers painted in Porsche GT3 RS Green with G20 7 Series-style caliper covers"
+  ]
+}

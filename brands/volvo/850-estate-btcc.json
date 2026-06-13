@@ -1,0 +1,14 @@
+{
+  "brand": "VOLVO",
+  "model": "850 ESTATE BTCC",
+  "prestazioni": [
+    "Engine: Volvo B5254S 2.5L inline-5 (from the 850 T-5R) with forged internals (Crower connecting rods, Mahle pistons, ARP head studs) and a custom billet crankshaft by JE Pistons for 10,000 RPM reliability. Turbocharged with a Garrett GTX4202R (84mm compressor, 1.06 A/R turbine housing) on a custom Tial MV-R wastegate setup, pushing 1.4 bar of boost with a custom 3.5\" intercooler core by PWR Racing.",
+    "Drivetrain: Holinger RD6 sequential dog-box transmission with a Sachs twin-plate carbon clutch (240mm) and a Quaife ATB differential (80% lock). Custom 3.73:1 final drive ratio with a reinforced Volvo M90 transmission case and a billet aluminum bellhousing by Tilton Engineering.",
+    "Suspension & Chassis: Öhlins TTX40 4-way adjustable coilovers with custom spring rates (600 lb/in front, 550 lb/in rear) and spherical bearing top mounts by SuperPro. Polyurethane bushings (full kit by Powerflex) and a custom 25mm front sway bar (adjustable end links by Whiteline). Chassis reinforcement via a seam-welded roll cage by Custom Cages (FIA-spec, 25CrMo4 steel) with integrated strut braces and a bolt-in rear subframe brace by SPOON Sports (modified for Volvo 850 estate geometry)."
+  ],
+  "estetica": [
+    "Aerodynamics: Custom carbon fiber widebody kit by Rocket Bunny (Pandem) modified for the 850 estate, including extended front fenders (2.5\" wider), rear quarter panels (3\" wider), and a custom rear diffuser with integrated tow hooks. Front splitter by APR Performance (GT-250 model, modified for Volvo bumper) and a carbon fiber rear wing (Voltex Type-3, 1800mm width) mounted on custom aluminum pedestals.",
+    "Exterior: Full respray in Volvo BTCC 1994 livery (TWR Racing green with white/red accents) using Glasurit 90-Line paint. OEM-style headlights replaced with Hella DE rally lights (7\" diameter, H3 bulbs) and custom carbon fiber hood with a functional NACA duct (feeding the intercooler). Rear windows replaced with polycarbonate (Lexan, 4mm thick) and custom aluminum door handles by Sparco.",
+    "Wheels & Brakes: BBS RS-GT1 wheels (18x10.5 +25 front, 18x11 +30 rear) with custom offsets for BTCC-spec wheel arches, wrapped in Michelin Pilot Sport Cup 2 tires (265/35/18 front, 295/30/18 rear). Brembo GT-R big brake kit (380mm front rotors, 6-piston calipers; 355mm rear rotors, 4-piston calipers) with custom aluminum caliper brackets and Ferodo DS3000 brake pads. Stainless steel braided lines by Goodridge and Motul RBF660 brake fluid."
+  ]
+}

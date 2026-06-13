@@ -1,0 +1,14 @@
+{
+  "brand": "VOLVO",
+  "model": "240 TURBO",
+  "prestazioni": [
+    "Engine: B21ET (2.1L inline-4, 8-valve, K-Jetronic fuel injection) upgraded with a Garrett GT3071R turbocharger (0.82 A/R, 56 trim) paired with a custom 3-inch stainless steel downpipe and a Tial 44mm external wastegate for precise boost control (target: 1.5 bar / 21.7 psi).",
+    "Fuel System: Bosch 044 high-flow fuel pump (255 L/hr) with -8AN feed/return lines, Injector Dynamics ID1000 fuel injectors (1000cc/min), and a custom K-Jetronic-to-Motronic conversion harness (Megasquirt MS3Pro ECU) for sequential fuel injection and ignition control.",
+    "Drivetrain: Volvo M46 4-speed manual transmission reinforced with a Quaife ATB differential (25-spline, 4.10 final drive ratio) and a Sachs Performance Stage 3 clutch (240mm, 6-puck cerametallic disc) for aggressive launches. Custom driveshaft with CV joints from a Volvo 940 Turbo for durability."
+  ],
+  "estetica": [
+    "Body: Full Rocket Bunny PV240 widebody kit (fiberglass, 3-inch flares) with custom carbon fiber front splitter and rear diffuser by Voltex (JDM-spec, bolt-on). Paint: Nissan 'Midnight Purple III' (R34 GT-R color code: BT2) with matte black accents on the roof and fender flares.",
+    "Wheels: Work Meister S1 3P 16x9 +15 (front) and 16x10 +25 (rear) in gloss gunmetal, wrapped in Nitto NT01 tires (225/50/16 front, 245/45/16 rear). Custom 5x108 to 5x114.3 hub adapters (15mm thick, billet aluminum) for JDM wheel fitment.",
+    "Interior: Recaro SRD-E bucket seats (JDM-spec, fixed-back) with Takata 4-point harnesses, MOMO Mod.78 steering wheel (350mm, suede), and a custom roll cage (TIG-welded, 4-point, chromoly steel) by Custom Cages UK. Full sound deadening with Dynamat Extreme and a Pioneer AVH-Z5000DAB head unit (Android Auto, 7-inch display)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "TOUAREG V10 TDI",
+  "prestazioni": [
+    "Bosch CRD3.3 ECU remap with custom VR60 (5.0L V10 TDI) fueling maps for 450hp and 850Nm, utilizing a Motec M150 piggyback for precise rail pressure control (max 2,200 bar) and optimized pilot injection timing (0.5ms advance at 2,500 RPM)",
+    "Garrett GTB2260VK turbocharger upgrade (84mm compressor, 64mm turbine) with custom 3.5-inch V-band downpipe, 4-inch stainless steel exhaust (MagnaFlow 19419), and Pierburg CWA 100 auxiliary water pump for sustained boost (2.2 bar peak, 1.8 bar cruise)",
+    "034 Motorsport VR60 V10 TDI-specific billet crankshaft pulley (6.5kg reduction), Sachs Performance dual-mass flywheel (clutch: Sachs MFZ 400, 1200Nm capacity), and Mahle Motorsport forged pistons (8.5:1 CR) with upgraded wrist pins (22mm, DLC-coated) and ARP L19 head studs (190,000 psi)"
+  ],
+  "estetica": [
+    "Rieger Tuning Touareg V10 TDI widebody kit (carbon fiber front fenders, rear quarter panels, and rear diffuser) with integrated 3M 1080 Gloss Black vinyl overlay for heat dissipation",
+    "H&R TRAK+ wheel spacers (30mm front, 35mm rear) paired with BBS RS-GT II 10.5x22 ET30 wheels (custom offset) wrapped in Michelin Pilot Sport Cup 2 R tires (295/30 R22 front, 325/25 R22 rear)",
+    "KW Suspensions Variant 5 coilovers (3-way adjustable, 80mm drop) with Eibach ERS helper springs (200 lbs/in) and custom polyurethane subframe bushings (034 Motorsport, 95A durometer) for chassis rigidity"
+  ]
+}

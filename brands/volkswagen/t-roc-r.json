@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "T-ROC R",
+  "prestazioni": [
+    "APR Stage 2+ ECU/TCU flash for the **EA888 Gen3B (CZPA)** 2.0L TSI engine, targeting 380 HP and 480 Nm on 98 RON fuel with a **Garrett GT2867R Gen II** turbocharger (76mm compressor, 56 trim) and **APR High-Flow Carbon Fiber Intake System** (part # INA-003000), paired with a **Forge Motorsport Motorsport Intercooler (FMIC) Kit** (part # FMIC0002) to reduce intake temps by 22°C under full boost",
+    "Bilstein B16 PSS10 coilovers with **T-Roc R-specific spring rates (8kg/mm front, 9kg/mm rear)** and **H&R 25mm front / 20mm rear anti-roll bars** (part # 54655-2) to eliminate body roll during high-G cornering on Nürburgring Nordschleife, validated with **VBOX Sport data logging** for sub-5:30 lap times",
+    "Milltek Sport **3.5-inch turbo-back exhaust system (part # 34210)** with **resonated center section** and **dual 100mm titanium tips**, featuring **304 stainless steel mandrel-bent piping** and **valved rear silencer** to maintain OEM backpressure at cruise while enabling a **108dB crackle tune** under full load, paired with a **034Motorsport High-Flow Catted Downpipe (200-cell)** (part # 034-100-411A) for optimal spool characteristics"
+  ],
+  "estetica": [
+    "Rocket Bunny **Pandem V3 widebody kit for T-Roc R** (part # RB-VW-TROC-03), extending front fenders by **35mm** and rear by **40mm** to accommodate **OZ Racing Ultraleggera HLT 19x9.5 ET35 wheels** (part # UL19953500) with **Michelin Pilot Sport Cup 2 R tires (255/35 R19)** for +1.2G lateral grip, finished in **Gloss Gunmetal with matte black accents**",
+    "VMR **V808 19x10.5 ET25 rear wheels** (part # VMR808-19105ET25) with **275/30 R19 Pirelli P Zero Trofeo R semi-slick tires**, paired with a **custom 3D-printed carbon fiber rear diffuser** (designed via **Aeroflow Dynamics CFD analysis**) to reduce rear lift by **38%** at 200 km/h, featuring **integrated LED reverse lights** and **dual exhaust cutouts**",
+    "OEM+ **VW Racing Line R-Line Carbon Fiber Front Lip (part # 5G0071571C9B9)** with **custom 3M Matte Carbon Wrap (1080 series, 20% gloss)** and **LED DRL delete** (replaced with **Lux H8 V4 Angel Eyes** in **3000K amber**), combined with a **Seibon Carbon Fiber Hood (part # CF-VWTROC-18)** weighing **4.2kg less** than OEM, featuring **hidden carbon weave** and **functional NACA ducts** for brake cooling"
+  ]
+}

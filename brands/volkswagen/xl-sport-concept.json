@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "XL SPORT CONCEPT",
+  "prestazioni": [
+    "Engine swap to Ducati 1199 Superquadro (engine code: 1199.2) with a custom dry-sump system utilizing a Peterson Fluid Systems 4-stage pump and Moroso billet oil pan, paired with a Motec M150 ECU for precise fuel and ignition mapping tailored to the XL Sport's lightweight carbon-fiber monocoque chassis",
+    "Forced induction via a Garrett GTX4202R turbocharger with a custom 3D-printed titanium compressor housing, mated to a Tial MV-R 44mm wastegate and a PWR intercooler core (500x225x76mm) with custom billet end tanks for optimized airflow to the Superquadro's 90° V-twin architecture",
+    "Suspension overhaul with Öhlins TTX40 MkII coilovers featuring 3-way adjustable damping (compression, rebound, and high-speed compression) and custom valving for the XL Sport's unique 1,510mm wheelbase, paired with spherical bearing-equipped upper control arms from H&R and a Whiteline front sway bar (24mm adjustable)"
+  ],
+  "estetica": [
+    "Full Rocket Bunny VWS130 widebody kit with custom carbon-fiber overfenders (pre-preg autoclave construction) to accommodate 19x10.5 ET20 front and 20x12.5 ET25 rear wheels, wrapped in Michelin Pilot Sport Cup 2 R tires (265/35/19 front, 305/30/20 rear)",
+    "Custom titanium exhaust system by Akrapović with dual 50mm center-exit outlets and a carbon-fiber muffler shell, featuring a bypass valve controlled by a Motec PDM15 for adjustable backpressure and sound tuning",
+    "Aerodynamic package including a custom front splitter with integrated air curtains (modeled after the 2015 Audi R18 e-tron) and a rear diffuser with active Gurney flaps (adjustable via a MoTeC C127 dash interface), both constructed from 3K twill carbon fiber with titanium mounting hardware"
+  ]
+}

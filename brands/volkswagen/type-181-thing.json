@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "TYPE 181 THING",
+  "prestazioni": [
+    "Engine swap to a 2.0L VW Type 4 (engine code: **EA827**) with forged internals (Mahle forged pistons, 8.5:1 CR, ARP head studs) and a **Garrett GT2860R-5 turbo** (0.63 A/R turbine housing) running 12 psi on a **Bosch 044 high-flow fuel pump** and **Siemens DEKA 60 lb/hr injectors**, controlled by a **Megasquirt MS3Pro PNP ECU** with custom tuning for 220+ hp at the wheels.",
+    "Custom **4-1 stainless steel header** (fabricated by Stainless Headers Inc.) paired with a **Supersprint 60mm cat-back exhaust** (dual 2.5\" outlets) and a **Scorpion 200-cell catalytic converter** for emissions compliance without power loss.",
+    "Suspension overhaul with **Bilstein B16 coilovers** (adjustable damping, 2.5\" drop) paired with **H&R 25mm front / 20mm rear anti-roll bars**, **Polyurethane bushings (Powerflex Black Series)** for the rear trailing arms, and **Brembo 4-piston calipers** (from a Mk2 Golf GTI 16V) with **EBC Redstuff brake pads** and **Goodridge stainless steel brake lines**."
+  ],
+  "estetica": [
+    "Custom **Rocket Bunny-inspired widebody kit** (fabricated from 1.2mm steel, flares extended 3\" per side) with **custom aluminum fender vents** (for turbo heat extraction) and **carbon fiber hood** (replica of the Porsche 914/6 GT hood, sourced from 914World).",
+    "Full **PPG Porsche Guards Red** respray with **3M Matte Black vinyl wrap** on the roll bar, door sills, and rear engine cover, paired with **Hella Rallye 1000 headlights** (H4 conversion) and **Cibie Oscar 130 fog lights** (mounted on a custom aluminum bumper guard).",
+    "Interior stripped and rebuilt with **Recaro SRD bucket seats** (mounted on custom aluminum sliders), **Sparco 6-point harnesses**, **Momo Prototipo steering wheel** (350mm, quick-release hub), and a **custom aluminum dashboard** (replacing the stock plastic) with **Defi Advance BF gauges** (oil pressure, boost, AFR) and a **Pioneer AVH-2500NEX head unit** (hidden in the glovebox)."
+  ]
+}

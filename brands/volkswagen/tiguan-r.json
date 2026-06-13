@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "TIGUAN R",
+  "prestazioni": [
+    "Engine: EA888 Gen4 (CZPA) 2.0L TSI with upgraded BorgWarner EFR 8374 turbo (62mm compressor, 74mm turbine) on a custom 3.5\" V-band downpipe, paired with a Milltek Sport 3.5\" catless turbo-back exhaust system featuring 409 stainless steel and titanium-coated tips for reduced backpressure and weight savings of 12kg over stock.",
+    "Fuel System: Injector Dynamics ID1700x (1,700cc/min) direct injectors with a Syvecs S8 Plug & Play ECU (CAN-bus integrated) running a custom ethanol flex-fuel map (E85 compatible), paired with an AEM 340LPH in-tank fuel pump and Radium Engineering dual catch cans (PCV & CCV) to prevent oil dilution in the intake tract.",
+    "Suspension & Handling: KW Automotive Clubsport coilovers (3-way adjustable damping, 40mm front/30mm rear lowering) with H&R 25mm front and 20mm rear anti-roll bars, complemented by 034 Motorsport Density Line subframe collars and polyurethane bushings (80A durometer) for chassis rigidity. Braking upgraded to Alcon 6-piston front (380mm discs) and 4-piston rear (355mm discs) calipers with Ferodo DS2500 pads and Motul RBF 660 brake fluid for fade resistance."
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny VW Tiguan R widebody kit (carbon fiber fenders, front splitter, and rear diffuser) with a custom 3D-printed ABS rear wing (1,200mm span, 300mm chord) mounted on adjustable carbon fiber pedestals for 150kg of downforce at 180km/h. Front bumper modified with a custom 3D-printed air curtain (inspired by Audi RS Q e-tron) to reduce drag by 8%.",
+    "Wheels & Tires: BBS CI-R 20x9.5 ET35 (front) and 20x10.5 ET40 (rear) in gloss black with titanium hardware, wrapped in Michelin Pilot Sport Cup 2 R tires (265/35/20 front, 285/30/20 rear) mounted on custom 5x112 to 5x120 adapters (aluminum 7075-T6, 15mm thick) for aggressive stance and track alignment.",
+    "Interior & Lighting: Recaro SPG XL bucket seats (carbon fiber shells, Alcantara/leather upholstery) with Schroth Profi II 6-point harnesses, paired with a MOMO Mod.77 steering wheel (suede, 350mm diameter) and a custom roll cage (T45 steel, 2.5\" diameter, 3mm wall thickness) integrated with a bolt-in half-cage design. Lighting upgraded to Osram Night Breaker Laser H7 bulbs (6,000K) and Philips Ultinon Pro9000 LED fog lights (5,000K) with custom DRL delete and smoked lenses."
+  ]
+}

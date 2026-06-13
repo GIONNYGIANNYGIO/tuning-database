@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "W12 NARDO",
+  "prestazioni": [
+    "Engine: Replace the stock 6.0L W12 (engine code: **W12 6.0L BHT**) with a fully built **7.3L W12 stroker kit** using forged internals from **Mahle Motorsport** (pistons, connecting rods) and a **Manley crankshaft** with a 94mm stroke, paired with **ARP Custom Age 625+ head studs** and **JE FSR forged pistons** for 12.5:1 compression. Retain the stock **Bosch Motronic ME7.1.1** ECU but reflash with a **Syvecs S12 standalone** for full flex-fuel and boost control, integrating a **Precision Turbo PT8285CE** turbocharger (85mm, 94lb/min) with a **Tial MV-R 60mm wastegate** and **TurboSmart Race Port BOV**.",
+    "Cooling: Install a **PWR Advanced Cooling W12-specific radiator** with dual **SPAL 16\" puller fans**, a **Setrab 10-row oil cooler** (front-mount), and a **Moroso 8-quart dry-sump system** with a **Dailey Engineering 4-stage pump** to eliminate oil starvation under lateral G-forces. Replace the stock intercooler with a **Garrett GTX core (1200hp-rated)** and **custom 3.5\" silicone charge pipes** from **Vivid Racing**.",
+    "Drivetrain: Swap the stock 6-speed automatic for a **Graziano VT5-650 6-speed sequential transaxle** (from the Lamborghini Murciélago) with a **Penske triple-disc carbon clutch**, reinforced with a **PPG close-ratio gearset** (1st: 2.94, 2nd: 2.05, 3rd: 1.52, 4th: 1.18, 5th: 0.97, 6th: 0.80). Add a **Quaife ATB differential** with a **40% lockup rate** and **custom half-shafts** from **The Driveshaft Shop** (rated for 1,200Nm)."
+  ],
+  "estetica": [
+    "Aero: Install a **Liberty Walk LB-WORKS W12 Nardo-widebody kit** (carbon fiber, 80mm extended fenders) with a **custom 3D-printed front splitter** (CFRP, 30mm overhang) and **GT3-style dive planes** from **Rieger Tuning**. Replace the rear bumper with a **Volkswagen Motorsport W12 R-style diffuser** (carbon fiber, 5-element) and add a **custom 1,800mm rear wing** (dual-element, **Aerofoil Development** design) with **adjustable carbon endplates** for 300kg downforce at 250km/h.",
+    "Wheels/Tires: Mount **BBS LM-R 19x11 ET15 (front) and 19x13 ET5 (rear)** wheels with **Pirelli P Zero Trofeo R tires (285/30/19 front, 335/30/19 rear)**. Use **HRE 300M monoblock centers** with **custom titanium wheel bolts** from **AP Racing** and **Brembo GT-R 6-piston calipers** (front) with **420mm CCM-R rotors** (floating, **Pagid RS29 pads**).",
+    "Interior: Replace the stock cabin with a **Recaro Pole Position carbon-Kevlar bucket seats** (FIA 8862-2009 certified) and **Schroth 6-point harnesses**, paired with a **MOMO Prototipo steering wheel** (suede, 320mm) and **custom carbon fiber door cards** (honeycomb core, **VIS Racing**). Install a **Motec C187 dash logger** with **AIM MXS Strada display** and **OMP carbon fiber pedal set** (adjustable, 6061-T6 aluminum base)."
+  ]
+}

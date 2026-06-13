@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "XL1",
+  "prestazioni": [
+    "Hybrid powertrain overhaul: Replace the stock 0.8L TDI (CLJA) diesel engine's turbocharger with a **Garrett GT1549V** variable-geometry turbo (VGT) optimized for the XL1's ultra-low-inertia drivetrain, paired with a **Bosch CRCP3.3** common-rail injection system recalibrated to 2,200 bar for increased fuel atomization and a 15% power bump (target: 60 HP from diesel alone). Retain the **Siemens 20 kW electric motor (PQ35 platform)** but upgrade its inverter to a **Marelli HVH250** for 30% faster torque response and a **Lithium Werks NanoPhosphate** battery pack (1.6 kWh, 400V) with active liquid cooling for sustained 50 kW electric-only bursts.",
+    "Drivetrain reinforcement: Install a **Hewland DCT-70** 7-speed dual-clutch transmission (modified from the Porsche 918 Spyder) with **AP Racing CP8860-2** carbon-carbon clutch plates and a **Quaife ATB helical LSD** to handle the combined 100+ HP output. Replace the stock CV joints with **GKN VL3** tripod joints and **SKF hybrid ceramic bearings** to reduce parasitic losses by 8%.",
+    "Thermal management: Integrate a **PWR Australia** dual-core aluminum radiator (custom-fabricated for the XL1's front grille) with **SPAL 12\" high-static-pressure fans** and a **Mocal 13-row oil cooler** (sandwiched between the diesel and electric motor). Use **Liqui Moly 5W-40 Diesel High Tech** oil with **Red Line WaterWetter** in the coolant to lower operating temps by 12°C under sustained load."
+  ],
+  "estetica": [
+    "Aerodynamic overhaul: Fit a **Liberty Walk LB XL1** widebody kit (carbon fiber, 30mm extended rear fenders) with **Vortex Generators** on the roof and a **Rieger Tuning** front splitter (adjustable 3-stage dive planes). Replace the stock rear diffuser with a **Seibon Carbon** unit featuring **Gurney flaps** and **active airflow channels** to reduce drag coefficient to 0.165 (stock: 0.189).",
+    "Lightweight wheels/tires: Mount **BBS FI-R** 17x7.5\" forged magnesium wheels (offset +35mm, 5.2 kg each) wrapped in **Michelin Pilot Sport Cup 2 R** 155/60R17 tires (custom-compounded for sub-500 kg vehicles). Use **H&R Monoball** wheel bearings and **Project Mu** 2-piece floating rotors (220mm front, 200mm rear) with **Ferodo DS2500** pads for 30% lighter unsprung mass.",
+    "Cabin customization: Replace the stock seats with **Recaro Pole Position** carbon-Kevlar shells (4.8 kg each) and **Schroth Profi II-6** 6-point harnesses. Install a **Motec C127** digital dash (replacing the analog cluster) with **Aim Solo 2 DL** data logging and a **Sabelt 4-point racing seatbelt** for the passenger. Use **Dynamat Xtreme** sound deadening on the carbon monocoque to reduce NVH by 40%."
+  ]
+}

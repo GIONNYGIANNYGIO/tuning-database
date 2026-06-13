@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "TRANSPORTER T3",
+  "prestazioni": [
+    "Engine swap to a 2.1L 16V ABF (from VW Golf Mk3 GTI) with a custom billet crankshaft from Mahle Motorsport, forged JE Pistons (8.5:1 compression), and Carrillo H-beam connecting rods. Paired with a custom 4-2-1 stainless steel header from Schrick and a 3-inch stainless exhaust system with a MagnaFlow 14815 muffler for optimized scavenging.",
+    "Forced induction via a Garrett GT2860RS turbocharger (0.63 A/R turbine housing) on a custom cast manifold from DieselGeek, with a Tial MV-R 38mm external wastegate and a custom air-to-water intercooler setup using a GReddy Type-24 intercooler core housed in a custom aluminum enclosure with a Davies Craig EWP115 electric water pump.",
+    "Fuel system upgrade featuring a Walbro 450 LPH in-tank fuel pump, Bosch 0280158022 300cc/min injectors (modified for ABF flow rates), and a custom standalone ECU from Megasquirt MS3Pro PNP with a dual-map switch for street/track modes. Ignition system includes NGK R7437-9 racing plugs gapped at 0.024\" and a custom coil-on-plug conversion using Denso Iridium coils."
+  ],
+  "estetica": [
+    "Custom widebody conversion using fiberglass fender flares from a T3-specific kit by Rocket Bunny (Van Version), with custom steel reinforcement plates welded into the chassis for rigidity. Front bumper replaced with a custom carbon fiber unit from Seibon, featuring integrated tow hooks and a central air intake duct for the intercooler.",
+    "Suspension overhaul with a custom air ride setup from Air Lift Performance (3P management system) paired with custom-valved Bilstein B8 dampers and H&R T3-specific lowering springs (35mm drop). Front control arms reinforced with polyurethane bushings from Powerflex (PF99-4110) and custom spherical bearings from SuperPro (SPF0119K) for camber adjustability.",
+    "Exterior visuals include a custom two-tone paint scheme (VW Pastel White L90E over a custom metallic gray base) with a matte clear coat from Spies Hecker. Graphics package features a custom livery inspired by the 1980s Rothmans Porsche rally cars, with hand-painted pinstriping by a specialist using 3M 1080 vinyl wraps. Wheels are custom 17x9 ET15 BBS RS-GT (gold) with 225/45R17 Toyo R888R tires."
+  ]
+}

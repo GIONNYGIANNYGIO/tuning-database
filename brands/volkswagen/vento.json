@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "VENTO",
+  "prestazioni": [
+    "Engine swap to a **1.8T 20V (EA113, code: AGU/ARZ/AUM)** with a **Garrett GT2860RS-5 turbocharger** (8.5psi base boost, upgradeable to 22psi with supporting mods), paired with a **034 Motorsport billet aluminum intake manifold** and **Siemens 630cc injectors** for 350whp potential on E85.",
+    "Full **APR Stage 3+ turbo kit** (including **APR 3.5\" downpipe**, **APR high-flow intercooler**, and **APR carbon fiber intake**) with a **Bosch 044 fuel pump** and **AEM X-Series wideband O2 sensor** for precise AFR tuning via **Cobb Accessport V3** with custom **EQT ECU flash**.",
+    "Suspension overhaul with **KW Clubsport 3-way coilovers** (24-way rebound, 12-way compression adjustability), **Whiteline adjustable rear sway bar (24mm)**, and **034 Motorsport subframe collars** to eliminate chassis flex, paired with **H&R 20mm wheel spacers** for aggressive track-width stance."
+  ],
+  "estetica": [
+    "**Rocket Bunny V1 Vento widebody kit** (fiberglass fenders, custom front bumper with integrated canards, and carbon fiber rear diffuser) with **custom 3M Gloss Black wrap** and **debadged grille** for a stealth OEM+ look.",
+    "**OEM+ Euro-spec Vento GT front lip** (VW part #1H0071181A) paired with **Maxton Design side skirts** and a **custom carbon fiber trunk spoiler** (modeled after the **VW Motorsport Mk3 Golf spoiler** but scaled for the Vento).",
+    "**BBS RS-GT 17x9 ET35 wheels** (gold finish) wrapped in **Michelin Pilot Sport Cup 2 tires (235/40/17)**, with **Project Kics R40 5x100 lug nuts** and **custom extended wheel studs (ARP 7/16\")** for track safety."
+  ]
+}

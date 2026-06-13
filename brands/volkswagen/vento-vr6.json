@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "VENTO VR6",
+  "prestazioni": [
+    "Engine: AAH 2.8L VR6 (12v) with forged internals including Mahle Motorsport forged pistons (8.5:1 compression), Carrillo H-beam connecting rods, and a balanced crankshaft by VW Motorsport for 8,000 RPM reliability. Paired with a Schrick 284° camshaft kit and adjustable Schrick cam gears for optimized valve timing.",
+    "Forced Induction: Garrett GT2860RS turbocharger (0.63 A/R turbine housing) with a custom 3-inch stainless steel downpipe by Supersprint, mated to a custom front-mount intercooler (FMIC) by Wagner Tuning (800hp core) and a TiAL 38mm wastegate with external dump tube.",
+    "Fuel & Ignition: Bosch Motorsport 044 high-flow fuel pump, Siemens DEKA 80lb/hr injectors, and a custom ECU tune via AEM Infinity 7 standalone with VR6-specific ignition maps. Upgraded ignition system includes NGK Iridium IX spark plugs (gapped at 0.028\") and MSD 8.5mm ignition wires."
+  ],
+  "estetica": [
+    "Body Kit: Rocket Bunny Vento VR6-specific widebody kit (Type 1) with carbon fiber front splitter, rear diffuser, and overfenders to accommodate 9.5J ET20 BBS RS wheels (17x9.5 front, 17x10.5 rear). Painted in Volkswagen L94A Tornadorot with matte black accents.",
+    "Suspension: Ohlins Road & Track coilovers (VW-specific valving) with adjustable top mounts and spherical bearing control arms by 034 Motorsport. Polyurethane bushings (034 Motorsport subframe bushings) and a Whiteline rear sway bar (24mm) for chassis rigidity.",
+    "Interior: Recaro SRD Evo II seats with Schroth 6-point harnesses, MOMO Mod.78 steering wheel (330mm), and a custom roll cage by Autopower Industries (6-point bolt-in, TIG-welded). Full digital dash via AEM CD-7 with VR6-specific sensor inputs."
+  ]
+}

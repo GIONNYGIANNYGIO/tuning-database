@@ -1,0 +1,14 @@
+{
+  "brand": "VOLVO",
+  "model": "1800ES",
+  "prestazioni": [
+    "Engine swap to a Volvo B20E (2.0L inline-4, 115 HP stock) with a forged internals build including Mahle Motorsport forged pistons (8.5:1 compression), Eagle H-beam connecting rods, and a billet crankshaft from SCAT Enterprises. Pair with a custom camshaft grind from Schrick (272° duration, 0.480\" lift) for high-RPM power delivery.",
+    "Forced induction via a Rotrex C30-94 supercharger (10 psi max boost) with a custom air-to-water intercooler setup using a PWR Racing heat exchanger and Bosch 044 fuel pump. ECU tuning handled by Megasquirt MS3Pro with custom maps for E85 compatibility and sequential fuel injection using ID1000 injectors.",
+    "Suspension overhaul with Öhlins Road & Track coilovers (adjustable damping and ride height) paired with polygraphite bushings from Powerflex (front control arms, subframe, and trailing arms). Braking upgraded to Wilwood Dynalite 4-piston calipers with 12.19\" vented rotors up front and 2-piston rear calipers with 11.75\" rotors, using Ferodo DS2500 pads."
+  ],
+  "estetica": [
+    "Custom widebody conversion using a bespoke fiberglass kit from Kamei (Germany), extending fenders by 2.5\" and incorporating integrated side skirts with a functional air curtain design. Rear quarter panels modified to house custom LED taillight clusters from Hella (H7 bulbs, smoked lenses).",
+    "Front end restomod with a custom carbon fiber hood (hand-laid by Carbonworks) featuring a central NACA duct for intercooler airflow, paired with a Volvo P1800-style mesh grille from Autocult (brushed aluminum finish). Lower bumper replaced with a custom 3D-printed splitter (PETG material) with integrated tow hooks.",
+    "Interior retrimmed in full Alcantara (Automobili Lamborghini-sourced material) with custom door cards, dashboard top, and headliner. Seats replaced with Recaro SRD-E (E30 M3 pattern) in black Alcantara with red stitching, mounted on custom subframes for lowered seating position. Steering wheel swapped for a Nardi Classic 380mm (wood/leather) with a quick-release hub from NRG Innovations."
+  ]
+}

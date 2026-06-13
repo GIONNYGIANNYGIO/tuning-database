@@ -1,0 +1,14 @@
+{
+  "brand": "VOLVO",
+  "model": "850R",
+  "prestazioni": [
+    "Engine: Replace the stock B5234T5 (2.3L turbo I5, 240hp) with a forged internals build featuring Mahle Motorsport forged pistons (8.5:1 CR), Eagle H-beam connecting rods, and a billet crankshaft from Manley Performance. Pair with a Garrett GTX3582R turbocharger (0.82 A/R, 62mm compressor) on a custom 3.5\" stainless steel turbo manifold by Tial Sport, retaining the stock location for OEM fitment.",
+    "Fuel System: Upgrade to a Bosch Motorsport 044 high-flow fuel pump (340 LPH) with an Aeromotive FPR (1:1 rising rate), feeding Siemens DEKA 80lb/hr injectors. Add a secondary fuel system with a dual-pump surge tank (Radium Engineering) and ID1000 injectors for methanol injection (AEM 30-3300 controller) to suppress detonation under 2.0+ bar boost.",
+    "Drivetrain & Handling: Install a Quaife ATB LSD (850R-specific) in the M90 transmission, paired with a Sachs Performance twin-disc clutch (300Nm torque capacity). Suspension: Ohlins Road & Track DFV coilovers (850R-specific valving) with poly bushings (Powerflex Black Series) and a 25mm front sway bar from Belltech. Brakes: AP Racing 4-piston calipers (330mm discs) with Ferodo DS2500 pads and braided stainless steel lines (Goodridge)."
+  ],
+  "estetica": [
+    "Body: Full Rocket Bunny V1 widebody kit (850R-specific, 30mm flares) with custom carbon fiber front splitter (Seibon) and a Voltex-style GT wing (1.2m span, 3D Carbon). Paint: BASF Glasurit 90-line custom mix 'Volvo Nordic Blue' with matte black accents (3M 1080 vinyl wrap for roof and mirrors).",
+    "Wheels: Work Meister S1 3P 17x9 +20 (front) and 17x10 +30 (rear) in gloss gunmetal, wrapped in Michelin Pilot Sport Cup 2 (235/40/17 front, 265/35/17 rear). Wheel spacers: H&R 15mm hubcentric (5x108 bolt pattern).",
+    "Interior: Full Recaro SRD-E (850R-specific) with Schroth Profi II 4-point harnesses. Steering wheel: Momo Prototipo (350mm, suede) with a quick-release hub (NRG). Gauges: Defi Advance BF (oil temp, boost, EGT) in a custom A-pillar pod (Auto Meter). Roll cage: Custom 8-point chromoly (Autopower) with bolt-in door bars (Sparco)."
+  ]
+}

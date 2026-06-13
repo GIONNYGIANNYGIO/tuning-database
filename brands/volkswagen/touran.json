@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "TOURAN",
+  "prestazioni": [
+    "Engine swap to a **VW/Audi 2.0 TFSI (EA888 Gen 3, engine code CJXB/CJXC)** with a **Garrett GTX3071R Gen II turbocharger** (0.82 A/R turbine housing, 52mm compressor inducer) paired with a **Precision Turbo & Engine 46mm wastegate** for 350-400whp on **E85 fuel**, utilizing a **034 Motorsport billet crankshaft pulley** and **Mahle Motorsport forged pistons (8.5:1 compression)** with **Manley H-beam connecting rods**.",
+    "Full **APR Stage 3+ ECU/TCU calibration** (specific to the CJXB/CJXC engine) with **Bosch Motorsport 0261S02080 high-flow fuel injectors**, **AEM 340lph in-tank fuel pump**, and a **Radium Engineering dual-catch can system** to manage crankcase pressures under high boost (28-30psi peak).",
+    "Chassis reinforcement via **034 Motorsport subframe collars**, **H&R Sport Springs (25mm drop)** with **Bilstein B16 PSS10 coilovers** (adjustable damping, Touran-specific valving), and a **Whiteline 24mm adjustable rear sway bar** to mitigate understeer, paired with **Michelin Pilot Sport Cup 2 tires (235/40R18)** on **BBS CH-R II 18x8.5 ET45 forged wheels**."
+  ],
+  "estetica": [
+    "**Rieger Tuning Touran-specific widebody kit** (front fenders, rear quarter panels, and rear bumper) with **custom carbon fiber side skirts** and a **Seibon carbon fiber hood (OEM-style latches, 30% weight reduction)** featuring a **functional central vent** for the intercooler.",
+    "**Hella Rallye 3000 Supertones (7-inch, 100W H3 bulbs)** in a **custom OEM+ housing** with **Morimoto XB LED fog lights** and a **VW Golf R (Mk7.5) full LED taillight conversion** with **Smoked LED reverse lights** for a stealth OEM look.",
+    "**Recaro Sportster CS seats (Touran-specific mounting brackets)** upholstered in **Nappa leather with Alcantara inserts (custom diamond stitching)** and **Schroth Profi II 4-point harnesses**, paired with a **Momo Mod.78 steering wheel (350mm, suede)** and a **custom aluminum shift knob (weighted, 6-speed pattern)** for the **MQB-platform DSG shifter."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "TOUAREG V8",
+  "prestazioni": [
+    "Engine: 4.2L V8 (engine code: **BAR 4.2L V8 FSI**) - Full **HGP Turbo Systems** twin-turbo kit with **Garrett GTX4274R** turbos (1.25 A/R, 64mm inducer) and **Tial MV-R 44mm** external wastegates, supporting 650whp on **E85** with **Bosch Motorsport 0280158865** high-flow injectors and **AEM 340LPH** in-tank fuel pump. Custom **ECU Master EMU Black** standalone ECU with **Motec C125** dash for real-time monitoring.",
+    "Drivetrain: **0B5 8-speed ZF transmission** reinforced with **FTX Racing** billet torque converter (3,800 RPM stall) and **South Bend Clutch** twin-disc ceramic clutch (stage 3). **Quaife ATB helical LSD** for the rear differential, paired with **GKN Driveline** CV joints and **Neapco** driveshafts for 800Nm torque capacity.",
+    "Suspension & Brakes: **KW Suspensions Clubsport 3-way coilovers** (24-way rebound, 12-way compression) with **H&R** 25mm spacers for aggressive stance. **AP Racing** 6-piston CP9430 calipers with **380mm two-piece rotors** (floating, slotted) and **Ferodo DS2500** pads. **Brembo** GT 4-piston rear calipers with **355mm rotors** and **ATE Type 200** brake fluid."
+  ],
+  "estetica": [
+    "Body: **Prior Design PD800RS** widebody kit (carbon fiber fenders, front splitter, and rear diffuser) with **custom 3M Matte Military Green (212-64)** vinyl wrap. **Seibon Carbon** hood with **Aerocatch** latches and **VMR V710** 22x11.5 ET20 forged wheels (matte black, concave) wrapped in **Michelin Pilot Sport Cup 2** (295/30 R22).",
+    "Aero: **Rocket Bunny** rear wing (Type 3, 1,800mm span) with **custom aluminum supports** and **Gurney flap** for downforce. **Vorshlag Motorsports** front canards (carbon fiber) and **AWE Tuning** side skirts (aggressive lip extension). **LED Vision** sequential turn signals integrated into **Morimoto XB LED** headlights with **Lux H1 HID** projectors.",
+    "Interior: **Recaro Pole Position** carbon fiber seats (Schroth 6-point harnesses) with **Alcantara** and **red stitching**. **Momo Mod.78** flat-bottom steering wheel (suede, quick-release) and **Aim Solo 2 DL** lap timer. **Custom roll cage** (TIG-welded, 4130 chromoly) with **Sparco** harness bar and **Vibra-Technics** motor mounts for NVH reduction."
+  ]
+}
