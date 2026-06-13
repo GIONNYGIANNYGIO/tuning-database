@@ -1,0 +1,14 @@
+{
+  "brand": "WILLIAMS",
+  "model": "FW07",
+  "prestazioni": [
+    "Cosworth DFV (Double Four Valve) 3.0L V8 engine rebuild with forged Mahle pistons (90mm bore, 10.5:1 compression), Carrillo H-beam connecting rods, and a bespoke dry-sump lubrication system by Titan Motorsport to handle sustained 11,500 RPM operation",
+    "Garrett GT28RS turbocharger conversion (single-turbo setup) with a custom billet aluminum intake manifold by Nicholson McLaren Engines, paired with a Motec M800 ECU for precise fuel and ignition mapping under forced induction (targeting 650+ HP at 1.8 bar boost)",
+    "AP Racing 6-piston calipers with carbon-carbon brake discs (330mm diameter) and Ferodo DS3000 pads, coupled with a bespoke brake bias adjuster by Tilton Engineering for optimal balance under extreme deceleration (up to 5G)"
+  ],
+  "estetica": [
+    "Full carbon-fiber monocoque reinforcement with a custom Kevlar-Nomex honeycomb sandwich panel overlay by Lola Composites, reducing torsional flex by 22% while maintaining FIA historic racing weight limits (585kg minimum)",
+    "Custom 1979-spec Rothmans livery recreation with 3M Scotchcal 1080 series vinyl wrap, featuring hand-painted gold pinstriping by automotive artist Alan Fearnley for period-correct authenticity",
+    "OMP carbon-fiber racing seat with 6-point Schroth Profi II harnesses, paired with a custom MOMO Mod.78 steering wheel (320mm diameter) wrapped in Alcantara and featuring a bespoke quick-release hub by Sparco"
+  ]
+}

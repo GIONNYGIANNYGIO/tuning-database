@@ -1,0 +1,14 @@
+{
+  "brand": "VOLVO",
+  "model": "PV544 SPORT",
+  "prestazioni": [
+    "B18D (B18D-1007) 1.8L inline-4 engine swap with forged internals: JE 87mm forged pistons (11.5:1 CR), Eagle H-beam connecting rods, and a billet crankshaft from Manley Performance. Paired with a custom camshaft grind by Schrick (284° duration, 11.5mm lift) for high-RPM power delivery (8,500 RPM redline).",
+    "Garrett GT2860RS turbocharger (0.63 A/R turbine housing) with a custom 3-inch stainless steel exhaust manifold by Stainless Works, feeding into a 3.5-inch straight-pipe exhaust with a MagnaFlow 10416 muffler for aggressive tone without drone. Intercooled with a custom air-to-water setup using a PWR radiator and Bosch 044 fuel pump for consistent boost (18 psi peak).",
+    "Haltech Elite 2500 ECU with custom wiring harness by Painless Performance, controlling sequential fuel injection via ID1000x injectors and a custom-mapped ignition system using MSD 6AL-2 CDI and NGK R7437-9 racing plugs. Chassis-specific traction control via a Motec C125 dash with Bosch 0261230046 ABS sensors for retrofitted stability management."
+  ],
+  "estetica": [
+    "Full carbon fiber body conversion using a custom PV544-specific kit by Volante Designs (Italy), including a 3-piece front splitter, rear diffuser, and side skirts with integrated NACA ducts for brake cooling. Painted in Volvo’s original ‘Sport’ color (Amazon Blue, code 420) with a matte clear coat by PPG.",
+    "OEM+ interior overhaul with Recaro SRD-E bucket seats (retrimmed in Volvo’s original ‘Sport’ red leather by Saddleback Leather Co.), a custom roll cage by Custom Cages UK (T45 steel, bolt-in design with harness bar), and a Momo Prototipo steering wheel on a NRG quick-release hub. Retains the original PV544 dashboard but with a digital gauge cluster by Defi (BF series) for boost, oil pressure, and wideband AFR.",
+    "Suspension overhaul with a custom coilover setup by Öhlins (DFV Road & Track, PV544-specific valving) paired with polyurethane bushings from SuperPro (SPF0115K) and a 2-inch drop. Wheels: 15x8 ET0 BBS RS-GT (gold) with 195/50R15 Toyo R888R tires, mounted on custom hub adapters by TrakMotive for modern brake clearance (Wilwood Dynalite 4-piston calipers with 11-inch rotors)."
+  ]
+}

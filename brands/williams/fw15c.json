@@ -1,0 +1,14 @@
+{
+  "brand": "WILLIAMS",
+  "model": "FW15C",
+  "prestazioni": [
+    "Replacement of the Renault RS5 3.5L V10 (engine code: RS5C) with a bespoke Gibson Technology-prepared version featuring titanium connecting rods (Pankl Racing Systems), Mahle Motorsport forged pistons (9.5:1 compression), and a custom dry-sump lubrication system (Titan Motorsport) to handle sustained 15,000 RPM operation with 850+ HP on Elf-branded 102 RON fuel",
+    "Installation of a Williams-designed active suspension system (hydraulic actuators by Moog Inc.) recalibrated with 2024-spec Bosch Motorsport ECU (MS 5.1) and real-time telemetry feedback from Kistler wheel-force transducers for sub-10ms damper response",
+    "Upgraded semi-automatic transmission (Xtrac 6-speed, model P700) with carbon-fiber-reinforced clutch plates (AP Racing CP9444) and a Quaife ATB differential (custom ratio: 3.8:1) for optimized power delivery under active aerodynamics"
+  ],
+  "estetica": [
+    "Full carbon-fiber bodywork replacement (Hexcel 8552 prepreg) with a 2024-spec Williams Racing livery featuring 3M Scotchlite reflective decals (series 970) for enhanced visibility in low-light conditions, paired with a custom front splitter (Aeroform Composites) generating 1,200 kg of downforce at 200 mph",
+    "OMP Racing carbon-fiber steering wheel (model WRC 886) with integrated Bosch Motorsport data display (KI 2.0) and a bespoke quick-release hub (Sparco Pro 2000) for rapid driver swaps during endurance events",
+    "BBS Motorsport magnesium wheels (13x13 front, 13x18 rear, model RG-R) wrapped in Pirelli P Zero Trofeo R tires (325/620-13 front, 380/670-13 rear) with TPMS sensors (Schrader Electronics) for real-time pressure monitoring"
+  ]
+}
