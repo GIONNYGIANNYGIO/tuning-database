@@ -1,0 +1,14 @@
+{
+  "brand": "XPENG",
+  "model": "G6 PERFORMANCE",
+  "prestazioni": [
+    "Replace the stock **TZ220X** dual-motor setup (front: 165 kW / rear: 210 kW) with **Turnigy SK8-6374-170KV** outrunner motors paired with **VESC 75/300** controllers, rewired for 800V SiC MOSFETs to handle 600A continuous current, achieving 0-100 km/h in 2.9s (stock: 3.9s) and a governed top speed of 250 km/h (upgraded from 200 km/h).",
+    "Install a **PWR Cold Air Intake System** with a **K&N XStream 99-9999** conical filter and **3D-printed carbon fiber intake plenums** (designed via CFD for the G6’s underhood airflow), reducing intake temps by 12°C and unlocking an additional 15 kW via the **XPENG X-ECU Pro** reflash (targeting 95% efficiency in the **SiC inverter**).",
+    "Upgrade the **BYD Blade Battery (LFP, 66.5 kWh)** with **Molicel P42A** cylindrical cells (21700 format, 45A continuous) in a **custom 800V 100Ah pack**, managed by a **Batemo BMS** with active balancing, increasing usable capacity to 75 kWh and enabling 3C fast-charging (0-80% in 12 minutes) via a **Delta-Q 100kW DC-DC converter**."
+  ],
+  "estetica": [
+    "Fit a **Liberty Walk LB-WORKS G6** widebody kit (carbon fiber, 50mm front / 70mm rear fender flares) with **custom 3D-printed ABS diffuser inserts** to house **D2 Racing GT-Spec coilovers** (adjustable camber plates, 20-way damping) and **BBS CI-R 20x9.5 ET35** wheels (staggered +15mm offset) wrapped in **Michelin Pilot Sport Cup 2 R** (265/35R20 front, 295/30R20 rear).",
+    "Replace the stock **XPENG Active Aero** system with a **Rocket Bunny V3 rear wing** (carbon fiber, 1,800mm span, adjustable -5° to +15° angle) and **Vorsteiner front splitter** (carbon fiber, 3-stage dive planes), paired with **AEM EVOS X** underbody diffusers (CFD-optimized for 120 km/h downforce).",
+    "Install **Seibon Carbon G6** hood (vented, 1.5kg weight reduction) and **VMR 702 CF** side skirts (matte finish), with **Lux HID 55W bi-xenon projectors** (6000K, CREE XHP50 LEDs) and **Morimoto XB LED fog lights** (3000K amber, DOT-approved). Interior upgrades include **Recaro SPG XL** seats (alcantara/leather, 6-point harnesses) and a **MOMO Mod.77** steering wheel (suede, 350mm diameter) with **Aim Solo 2 DL** data logger."
+  ]
+}

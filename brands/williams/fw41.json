@@ -1,0 +1,14 @@
+{
+  "brand": "WILLIAMS",
+  "model": "FW41",
+  "prestazioni": [
+    "Mercedes-AMG F1 M09 EQ Power+ 1.6L V6 turbo hybrid (engine code: M09 E Performance) with a custom Bosch Motorsport MGU-K (Motor Generator Unit-Kinetic) upgrade to 120 kW (161 hp) output, replacing the stock 120 kW unit for increased energy recovery under braking and deployment during acceleration phases",
+    "Pankl Racing Systems titanium connecting rods with ARP Custom Age 625+ fasteners, paired with Mahle Motorsport forged pistons (9.3:1 compression ratio) to handle the increased boost pressure from a Garrett Motorsports F1-spec turbocharger (GTX5544R Gen II with ball-bearing CHRA) pushing 3.5 bar absolute pressure, controlled via a MoTeC M150 ECU with Williams-developed torque shaping maps",
+    "Brembo Racing CCM-R carbon-ceramic brake discs (32mm front, 28mm rear) with AP Racing CP9436-2 calipers (6-piston front, 4-piston rear) and Ferodo Racing DS3000 brake pads, paired with a Williams-designed brake-by-wire system recalibrated for 70% front bias under heavy braking (adjustable via steering wheel dial)"
+  ],
+  "estetica": [
+    "Williams Advanced Engineering carbon-fiber front wing with a 2022-spec FIA-compliant Y250 vortex generator and adjustable Gurney flaps (3-position, +5mm increments) for high-speed stability, paired with a rear wing featuring a double-DRS system (primary and secondary actuators) for drag reduction on straights",
+    "RML Group titanium exhaust system with Inconel 625 headers and a 4-into-2-into-1 collector, exiting through a single central outlet with a Akrapović titanium muffler (F1-spec noise compliance, 105 dB limit)",
+    "Custom livery by JLF Designs featuring a matte anthracite base with iridescent blue-to-purple shift (inspired by Mercedes-AMG Petronas F1 Team’s 2021 W12) and Williams Racing heritage logos in 3D-printed titanium (SLM Solutions process) for weight reduction and durability"
+  ]
+}

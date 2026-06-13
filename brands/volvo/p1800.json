@@ -1,0 +1,14 @@
+{
+  "brand": "VOLVO",
+  "model": "P1800",
+  "prestazioni": [
+    "Engine swap to a Volvo B20E (2.0L inline-4, SOHC, 118 HP stock) with a custom billet crankshaft from **Crower** (forged 4340 steel, 86mm stroke) and **JE Pistons** forged slugs (8.5:1 compression, 92mm bore) to handle boost. Pair with **Schrick 284° camshafts** (custom grind for high-RPM power) and **Ferrea** titanium retainers/valves (intake: 44mm, exhaust: 38mm) for rev-happy reliability.",
+    "Turbocharging via a **Garrett GT3076R** (ball-bearing, .63 A/R turbine housing) with a **Tial 44mm wastegate** and **Precision Turbo** 3.5-inch V-band downpipe. Custom **Spearco** air-to-water intercooler (front-mount, 12x12x3.5 core) with **Mocal** oil cooler (19-row, sandwich plate) to manage heat under sustained boost (target: 12 PSI, 220 WHP). Fueling handled by **Bosch 044** high-flow pump, **ID1000** injectors, and **Haltech Elite 2500** standalone ECU with **AEM** wideband O2 for closed-loop tuning.",
+    "Drivetrain reinforcement with **Quaife ATB LSD** (25-spline, 4.10 final drive) in a **Volvo 122S** M410 4-speed gearbox (close-ratio gears from **Hewland** FT200). Clutch upgraded to **Tilton** 7.25-inch twin-disc (ceramic puck) with **Spec Stage 4+** pressure plate. Custom **Polybush** subframe mounts and **Powerflex** black-series engine mounts to reduce drivetrain deflection under load."
+  ],
+  "estetica": [
+    "Bodywork restoration with **Rostyles** 15x7-inch steel wheels (ET25 offset, 185/70R15 **Vredestein Sprint Classic** tires) and **Bilstein B8** coilovers (50mm drop, adjustable damping). Front splitter and rear ducktail spoiler from **Volvo P1800ES** (fiberglass, **Fiberfab** reproduction) with **3M 2080 G12** matte vinyl wrap (Gunmetal Grey). Custom **Hella** 7-inch headlights (H4 bulbs, **Morimoto** projectors) and **Lucas** LED taillights (clear lenses, sequential turn signals).",
+    "Interior overhaul with **Recaro SRD** seats (black leather, red stitching, **Schroth** 4-point harnesses) and **Momo** Prototipo steering wheel (350mm, quick-release hub). Dashboard refinished in **Connolly Leather** (original grain, **Volvo** green piping) with **Smiths** gauges (3.5-inch, oil pressure/fuel/boost) and **Nardi** shift knob (wood, **Volvo** logo). Sound deadening via **Dynamat Xtreme** (full floor/doors) and **Focal** Utopia Be tweeters (A-pillars) with **JL Audio** 10W3 subwoofer (custom enclosure in trunk).",
+    "Engine bay detailing with **Volvo** B20 valve cover (polished aluminum, **ITG** foam air filter) and **AN fittings** (blue/red, **Earl’s Performance**) for all fluid lines. Custom **Stainless Works** headers (4-2-1, 1.75-inch primaries) with **Thermal R&D** ceramic coating. **Aeroquip** braided stainless brake lines (DOT-approved) with **Wilwood** Dynalite 4-piston calipers (12.19-inch rotors, **Ferodo DS2500** pads) for retro-modern stopping power."
+  ]
+}

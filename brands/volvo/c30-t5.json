@@ -1,0 +1,16 @@
+{
+  "brand": "VOLVO",
+  "model": "C30 T5",
+  "prestazioni": [
+    "Engine: B5254T5 (2.5L I5 turbocharged) - Full forged internals build with Manley 87mm forged crankshaft, Eagle H-beam connecting rods, and JE 8.5:1 compression forged pistons to handle 350+ whp reliably. Upgraded head studs from ARP and ported/polished cylinder head by Kelford Cams for optimized airflow.",
+    "Turbocharger: Garrett GTX3076R Gen II with billet compressor wheel, .63 A/R turbine housing, and TiAL MV-R 44mm external wastegate for precise boost control. Custom 3.5\" stainless steel downpipe with Vibrant 1799 high-flow catalytic converter to eliminate turbo lag while maintaining emissions compliance.",
+    "Fuel & Ignition: Bosch 1000cc EV14 high-impedance injectors paired with a Walbro 450 LPH in-tank fuel pump. AEM Infinity 7 standalone ECU with flex-fuel capability and LS coil-on-plug ignition conversion using D585 coils. Custom 3\" intake system with K&N conical filter and heat-shielded silicone couplers for consistent IATs.",
+    "Drivetrain: Sachs Performance twin-disc clutch with lightweight flywheel (12.5 lbs) and Quaife ATB helical LSD for the M66C 6-speed manual transmission. Upgraded transmission mounts from Vibra-Technics and a P2 T5 short shifter with solid bushings for crisp gear engagement.",
+    "Suspension & Brakes: Öhlins Road & Track DFV coilovers with 8/16 adjustment settings, poly bushings for all control arms, and custom camber plates for -3.5° front camber. StopTech Big Brake Kit with 6-piston calipers, 355mm two-piece rotors, and Ferodo DS2500 pads for fade-resistant stopping power."
+  ],
+  "estetica": [
+    "Body Kit: Heico Sportiv Stage 3 widebody conversion with carbon fiber front splitter, side skirts, and rear diffuser. Custom 3M Matte Military Green wrap with gloss black accents on the roof and mirrors. OEM+ deleted side markers and rear wiper for a cleaner look.",
+    "Wheels & Tires: Enkei PF07 18x9 +35 front and 18x10 +35 rear in gloss gunmetal, paired with Michelin Pilot Sport Cup 2 R tires (245/35/18 front, 275/30/18 rear). Custom wheel spacers (15mm front, 25mm rear) for aggressive flush fitment.",
+    "Interior: Recaro Sportster CS seats with Schroth 6-point harnesses, wrapped in Alcantara with green stitching. Custom carbon fiber dashboard overlay, Momo Mod.78 steering wheel, and a digital dash conversion using an Aim MXS Strada display. Sound deadening removed for weight savings, replaced with a JL Audio 12W7 subwoofer in a custom enclosure."
+  ]
+}

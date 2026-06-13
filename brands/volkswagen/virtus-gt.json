@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "VIRTUS GT",
+  "prestazioni": [
+    "Engine: EA211 1.5 TSI (DADA) with a custom BorgWarner EFR 7670 turbocharger (0.83 A/R, 62mm compressor inducer) paired with a PTP Motorsports billet aluminum turbo manifold, supporting 320+ HP on E30 ethanol blend with a Precision Turbo & Engine 46mm wastegate",
+    "Fuel System: Injector Dynamics ID1050x fuel injectors (1050cc/min) with a Radium Engineering dual-catch can setup and a Bosch Motorsport 044 high-flow fuel pump, controlled via a Syvecs S6Plus standalone ECU with flex-fuel sensor integration for ethanol content mapping",
+    "Suspension & Handling: KW Suspensions Clubsport coilovers (3-way adjustable damping, 40mm front/35mm rear spring rates) with H&R anti-roll bars (24mm front, 22mm rear) and Whiteline adjustable rear toe arms for aggressive rotation tuning, paired with OMP Racing 6-point bolt-in roll cage for chassis rigidity"
+  ],
+  "estetica": [
+    "Aero: Maxton Design VW Virtus GT-specific front splitter (carbon fiber, 3-piece adjustable) with a custom Maxton Design rear diffuser (polyurethane, 2-stage Gurney flap) and a VRSF Motorsport rear wing (3D-printed aluminum mounts, 1200mm span, 30mm adjustable height)",
+    "Exterior: Rotiform LAS-R 18x9.5 ET35 wheels (matte bronze, 5x112 PCD) wrapped in Michelin Pilot Sport Cup 2 tires (245/40 R18) with custom Virtus GT-specific Rocket Bunny fender flares (widebody conversion, 30mm front/25mm rear extension) in OEM-matched Deep Black Pearl paint",
+    "Interior: Recaro Sportster CS seats (carbon fiber backs, Alcantara/leather upholstery) with Schroth Profi II 6-point harnesses, a Momo Mod.73 steering wheel (350mm diameter, suede grip) on a NRG Innovations quick-release hub, and a custom aluminum shift knob (weighted, 3D-engraved Virtus GT logo) replacing the OEM unit"
+  ]
+}

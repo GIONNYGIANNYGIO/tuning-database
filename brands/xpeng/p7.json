@@ -1,0 +1,14 @@
+{
+  "brand": "XPENG",
+  "model": "P7",
+  "prestazioni": [
+    "Upgrade to a **Bosch MG1CS020** (engine code: *SEP200*) high-performance ECU with a **Motec M150** standalone piggyback for precise ignition timing and fuel mapping, targeting 450+ hp from the dual-motor AWD system (front: *PMSM 197 kW*, rear: *PMSM 220 kW*) while maintaining OEM battery thermal limits via **Marelli 800V SiC inverters**.",
+    "Install **Garrett GT2260S** turbochargers (modified for electric compressor assist) on the rear motor’s cooling loop, paired with a **PWR Australia** intercooler (custom 400x200x100mm core) and **Turbosmart Kompact 40mm** blow-off valves to reduce lag in regenerative braking transitions.",
+    "Replace OEM **Continental MK C1** brake system with **AP Racing CP9660** 6-piston calipers (front) and **Brembo GT 4-piston** (rear), using **DBA 5000 Series** two-piece rotors (380mm front, 355mm rear) and **Ferodo DS2500** pads for fade resistance under 0-100 km/h launches (2.9s target)."
+  ],
+  "estetica": [
+    "Full **Liberty Walk LB-WORKS** widebody kit (P7-specific, carbon fiber) with **Vorsteiner V-FF107** front splitter and **Seibon Carbon** hood (weight reduction: 12kg), paired with **OEM XPENG P7i** adaptive LED headlights (retrofitted with **Lux HID 5500K** bulbs).",
+    "Custom **Rocket Bunny V3** rear diffuser with **AEM Electronics** LED underglow (RGB programmable via CAN bus) and **Work Emotion CR Kiwami** 20x10.5J wheels (ET25, 5x114.3) wrapped in **Michelin Pilot Sport Cup 2 R** (275/30R20).",
+    "Interior overhaul with **Recaro SPG XL** seats (carbon shell, Alcantara/leather), **MOMO Mod.77** steering wheel (quick-release hub), and **AEM AQ-1** digital dash (integrated with XPENG’s XPILOT 3.5 for lap-time telemetry)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "VOLVO",
+  "model": "P1800 CYAN RACING",
+  "prestazioni": [
+    "Engine: Volvo B20E (2.0L inline-4, iron block/aluminum head) stroked to 2.3L via forged crankshaft (Scat Enterprises 4340 steel crank, 92.5mm stroke) with billet connecting rods (Manley H-beam, 150mm length) and forged pistons (JE 2618-T6, 9.5:1 compression, custom dome for high-RPM stability).",
+    "Forced Induction: Garrett GTX3582R Gen II turbocharger (0.82 A/R turbine housing, 62mm compressor wheel) with custom 3.5-inch stainless steel turbo manifold (Tial 44mm external wastegate, 38mm screamer pipe) and Precision Turbo 50mm blow-off valve. Intercooler: GReddy Type-R front-mount (700hp core, 3.5-inch piping, custom CNC-machined end tanks for P1800 chassis clearance).",
+    "Fuel & Ignition: Bosch Motorsport 044 high-flow fuel pump (dual setup with surge tank), Injector Dynamics ID1700x injectors (2200cc/min), AEM 340lph in-tank pump, and Haltech Elite 2500 ECU (full sequential injection, flex-fuel capable). Ignition: MSD 8516 coil packs with NGK R7437-10 iridium spark plugs (0.024\" gap). Exhaust: 3-inch stainless steel system with Burns Stainless 4-2-1 headers (equal-length, 1.75\" primaries) and MagnaFlow 14815 muffler (straight-through, 304 stainless)."
+  ],
+  "estetica": [
+    "Body: Cyan Racing OEM+ widebody kit (carbon fiber fenders, front splitter, and rear diffuser; hand-laid by Composite Worx with 2x2 twill weave, clear-coated for UV resistance). Roof: Replaced with carbon fiber panel (Dry Carbon, 1.2mm thickness) to reduce weight by 8kg. Hood: Custom vented carbon fiber hood (3x NACA ducts, 2.5mm thickness) with integrated tow hooks (AeroCatch D-ring mounts).",
+    "Aero: Custom rear wing (dual-element, 1.5m span, 3D-printed aluminum endplates) by 9 Lives Racing, adjustable from 0-15 degrees of attack. Front canards: Voltex-style carbon fiber canards (3 per side, 45-degree angle) with integrated LED turn signals (Philips Luxeon Z ES). Underbody: Full flat floor with aluminum diffuser (50mm height, 3 strakes) and vortex generators (3M 58100 tape, 10mm height).",
+    "Wheels & Stance: BBS LM-R (17x9 +25 front, 17x10.5 +30 rear) with custom offsets (ET25 front, ET15 rear) and titanium wheel bolts (ARP 174-2001). Tires: Michelin Pilot Sport Cup 2 R (245/40/17 front, 275/35/17 rear). Suspension: Öhlins Road & Track DFV coilovers (2-way adjustable, 80mm stroke, custom spring rates: 12kg/mm front, 14kg/mm rear) with polyelastomer bushings (SuperPro 62mm spherical bearings for subframe mounts)."
+  ]
+}

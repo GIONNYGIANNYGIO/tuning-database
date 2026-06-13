@@ -1,0 +1,14 @@
+{
+  "brand": "VOLVO",
+  "model": "S60 POLESTAR",
+  "prestazioni": [
+    "Engine: B5254T12 (2.5L I5 Turbo) – Full Polestar Stage 3+ ECU remap with custom E85 flex-fuel calibration (via Cobb Accessport) targeting 420whp/500Nm on E85, utilizing a hybrid turbo upgrade (Garrett GTX3582R with billet compressor wheel and 0.82 A/R turbine housing) paired with a custom 3.5\" stainless downpipe (IPD Motorsport) and 3\" cat-back exhaust (Ferrita RS+) with quad 4.5\" tips",
+    "Drivetrain: Haldex Gen 5 AWD controller (DQ250 6-speed DSG) with custom Polestar-derived torque split maps (60/40 rear bias) and upgraded clutch packs (Sachs Performance Stage 2) with a lightweight aluminum flywheel (Spec Stage 3+)",
+    "Suspension: Öhlins Road & Track DFV coilovers (Volvo-specific valving) with adjustable top mounts (KW Variant 5 camber plates), reinforced subframe bushings (Polybush 40D), and a front strut brace (Sparco Pro 2.0) paired with a rear sway bar upgrade (Eibach Pro-Street Sway Bar, 25mm solid)"
+  ],
+  "estetica": [
+    "Aero: Custom Polestar Engineering carbon fiber front splitter (extended 40mm over OEM) with integrated canards (Voltex Type-3) and a rear diffuser (Seibon Carbon) featuring dual 3\" exhaust cutouts, paired with a carbon fiber rear spoiler (Rocket Bunny V3, 80mm overhang)",
+    "Wheels: 19x9.5\" ET35 (front) and 19x10.5\" ET40 (rear) forged aluminum wheels (BBS FI-R, 5x108 PCD) wrapped in Michelin Pilot Sport Cup 2 R tires (255/35/19 front, 285/30/19 rear) with custom Polestar center caps (3D-printed titanium)",
+    "Exterior: Full OEM+ Polestar body kit (painted in Volvo 492 Fusion Red) with carbon fiber mirror caps (Seibon), blacked-out grille (Volvo OEM gloss black overlay), and custom LED headlight conversion (Lux H8 V4 with CREE XHP50.2 emitters) featuring sequential turn signals (Morimoto XB LED)"
+  ]
+}

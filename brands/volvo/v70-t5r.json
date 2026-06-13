@@ -1,0 +1,14 @@
+{
+  "brand": "VOLVO",
+  "model": "V70 T5R",
+  "prestazioni": [
+    "Engine: B5234T5 (2.3L turbocharged inline-5, 243hp stock) – Full forged internals upgrade with Manley 87mm forged pistons, Eagle H-beam connecting rods, and a billet crankshaft from JE Pistons to handle 1.5 bar boost reliably. Pair with a Garrett GT3076R turbocharger (0.82 A/R turbine housing) and a custom 3.5\" stainless steel downpipe with a 4\" catless section for optimal spool and flow.",
+    "Fuel System: Replace the stock injectors with Bosch 0280158111 (1000cc/min) high-impedance injectors, paired with a Walbro 450 LPH in-tank fuel pump and a Radium Engineering dual-channel fuel pressure regulator. ECU reflash via M4.4 standalone tuning with a custom map from NordicTuning, targeting 400whp on 98 RON fuel with a 20psi peak boost curve.",
+    "Suspension & Handling: Full Ohlins Road & Track DFV coilovers (V70-specific valving) with adjustable camber plates for the front MacPherson struts. Reinforce the rear subframe with a Polestar Engineering subframe brace and swap the stock anti-roll bars for Eibach Pro-Street Sway Bars (24mm front, 22mm rear). Upgrade bushings to Powerflex Black Series polyurethane (full kit) and fit 25mm wheel spacers from H&R for optimal track width."
+  ],
+  "estetica": [
+    "Aero: Custom front splitter from Heico Sportiv (V70-specific, carbon fiber) paired with a Volans Motorsport rear diffuser and a subtle roof spoiler from the V70R (OEM+ look). Side skirts from the T5R Anniversary Edition (OEM Volvo part #30678126) for a factory-fitted aggressive stance.",
+    "Wheels & Tires: 18x9.5\" ET35 BBS CH-R wheels in gold with 245/40/18 Michelin Pilot Sport Cup 2 tires. Brake upgrade to 355mm front rotors from the Volvo 850R (OEM part #30678124) with Ferodo DS2500 pads and stainless steel braided lines from Goodridge.",
+    "Exterior & Lighting: Full de-chrome with Plastidip in Volvo 452 (Titanium Grey) for a stealth OEM+ look. Replace headlights with Hella DE projector lenses (E-code) and retrofit CREE XHP50.2 LEDs with a custom DRL halo from LUX Automotive. Rear taillights swapped for the clear-lens V70R units (OEM part #30678128) with smoked reflectors."
+  ]
+}

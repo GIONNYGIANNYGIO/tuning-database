@@ -1,0 +1,14 @@
+{
+  "brand": "VOLVO",
+  "model": "V40 T5",
+  "prestazioni": [
+    "Upgrade the B4164T5 (1.6L turbocharged I4) with a **Garrett GTX3071R Gen II turbocharger** (0.63 A/R turbine housing, 62mm compressor wheel) paired with a **custom 3.5\" downpipe** (catless, 4-1 merge collector) from **BMS (Burger Motorsports)** to eliminate turbo lag and support 350+ HP on E85.",
+    "Install a **PWR Australia Race Series intercooler** (bar-and-plate core, 600x300x76mm) with **Volvo OEM-style silicone couplers** (4-ply, reinforced with Kevlar) to reduce intake temps by 40°C under full boost (22 psi peak).",
+    "Replace the stock **Bosch 0261500403 injectors** with **ID1050x injectors** (1050cc/min, ethanol-compatible) and pair with a **Syvecs S6Plus standalone ECU** (Volvo V40-specific plug-and-play harness) for closed-loop fueling and individual cylinder trimming up to 9,000 RPM."
+  ],
+  "estetica": [
+    "**Volvo V40 T5-specific Rocket Bunny V3 widebody kit** (front fenders extended 30mm, rear 40mm, carbon fiber overfenders) with **custom 5-spoke TE37VOLK Racing wheels** (18x9.5 +35 front, 18x10.5 +40 rear, 5x108 PCD) and **Michelin Pilot Sport Cup 2 tires** (235/40/18 front, 265/35/18 rear).",
+    "**Seibon Carbon fiber hood** (OEM-style latches, 30% weight reduction) with **custom dual 40mm vent scoops** (aluminum, CNC-machined) to direct airflow to the **PWR intercooler**.",
+    "**Ohlins Road & Track coilovers** (V40 T5-specific valving, 20-way adjustable damping, 50mm front/45mm rear spring rates) with **polyurethane subframe bushings** (Energy Suspension 9.5111G) and **Whiteline adjustable rear sway bar** (24mm, 3-position adjustable)."
+  ]
+}

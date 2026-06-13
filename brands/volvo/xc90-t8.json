@@ -1,0 +1,14 @@
+{
+  "brand": "VOLVO",
+  "model": "XC90 T8",
+  "prestazioni": [
+    "Hybrid powertrain recalibration for the B4204T46 2.0L twin-charged (supercharged + turbocharged) PHEV engine, targeting 450 HP and 550 Nm via a custom ECU flash by **Dimsport Genius** with a bespoke hybrid torque-split map to optimize the 87 HP electric motor (EMG316) for instant low-end response, paired with a **Porsche 918 Spyder-derived** 400V lithium-ion battery upgrade (LG Chem E63) for sustained 10-second 100 kW electric boosts",
+    "Forced induction upgrade replacing the OEM Mitsubishi TD04HL-15T turbo with a **Garrett GTX3076R Gen II** (0.82 A/R, 62mm compressor, 56mm turbine) on a custom **PTP Turbo** billet manifold, paired with a **Vibrant 1799** 4-ply silicone charge pipe kit and a **Mishimoto XC90-specific** front-mount intercooler (40% larger core, 3.5\" thick) to eliminate heat soak during sustained 3,500 RPM pulls",
+    "Drivetrain reinforcement with an **AEM 30-8400** standalone transmission controller for the Aisin AW TG-81SC 8-speed auto, enabling 0.15s shift times via **Valvoline SynPower FE 75W-90** full-synthetic gear oil and a **South Bend Clutch** dual-disc organic/metallic hybrid clutch (rated for 700 Nm) for the rear axle, paired with a **Quaife ATB helical LSD** (85% lock) to mitigate torque steer under hybrid launch control"
+  ],
+  "estetica": [
+    "**Volvo Polestar Engineered** front splitter with **Rocket Bunny** carbon fiber canards (3D-scanned for XC90 T8 facelift models), paired with a **Seibon Carbon** hood (Type 2, 1.5mm thick, 30% weight reduction) featuring a **Vortex Generator** strip to reduce lift at 120+ mph",
+    "OEM+ aggressive stance via **KW Suspension** Clubsport coilovers (3-way adjustable, 80mm drop, 10kg/mm front springs) with **H&R** 25mm spacers (hub-centric, 5x108 bolt pattern) and **BBS CH-R II** 22\" forged wheels (9.5J ET35 front, 10.5J ET40 rear) wrapped in **Michelin Pilot Sport Cup 2** tires (265/35 R22 front, 295/30 R22 rear) for a 5mm flush fitment",
+    "Aerodynamic rear diffuser by **Maxton Design** (XC90 T8-specific, 3D-printed ABS with carbon fiber weave overlay) featuring **Borla Atak** 3.5\" dual-exit exhaust tips (stainless steel, quad-core, 304-grade) and a **Morimoto XB LED** sequential taillight conversion (DRL-to-brake transition, 6000K color temp) with **Vland** smoked reflectors for a stealth OEM+ look"
+  ]
+}

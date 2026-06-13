@@ -1,0 +1,14 @@
+{
+  "brand": "VOLVO",
+  "model": "S60R",
+  "prestazioni": [
+    "Engine: B5254T5 (2.5L I5, 300hp stock) – Full forged internals upgrade with Manley 87mm forged pistons, Eagle H-beam connecting rods, and a billet crankshaft from JE Pistons to handle 500+ hp reliably. Pair with a Garrett GTX3582R turbocharger (0.82 A/R, 62mm compressor) and a custom 4-inch stainless steel downpipe with Vibrant 1799 high-flow catalytic converter for optimized spool and top-end power.",
+    "Fuel System: Replace stock injectors with Bosch 1000cc EV14 high-impedance injectors, paired with a Radium Engineering dual-catch can setup and a Walbro 450 LPH in-tank fuel pump. Upgrade to a Syvecs S6Plus standalone ECU with flex-fuel capability and a custom 3-bar MAP sensor for precise boost control (targeting 28-30 psi on E85).",
+    "Drivetrain & Cooling: Reinforce the stock M66C 6-speed manual transmission with a Quaife ATB differential and a Sachs Performance twin-disc clutch (360mm, 800Nm torque capacity). Install a PWR Performance radiator with dual 12-inch SPAL fans, a Setrab 50-row oil cooler, and a custom intercooler core from Bell Intercoolers (4.5\" thick, 100% aluminum) to maintain intake temps under 40°C at full boost."
+  ],
+  "estetica": [
+    "Body Kit: Full custom widebody conversion using a Heico Sportiv Stage 3 aero kit (carbon fiber front splitter, side skirts, and rear diffuser) paired with a custom 3M Matte Military Green wrap and OEM-style Volvo R-Design badges removed for a stealth look. Add a custom carbon fiber hood with a 3-inch cowl scoop for intercooler airflow.",
+    "Wheels & Suspension: Enkei NT03+M 18x9.5 ET35 wheels (staggered, 245/40 front, 275/35 rear) with Michelin Pilot Sport Cup 2 tires. Full Ohlins Road & Track coilovers (DFV, 8-way adjustable damping) with poly bushings from Powerflex (black series) and a custom 1.5-inch rear lowering spring kit from H&R for aggressive stance.",
+    "Interior & Details: Full Alcantara retrim by Katzkin (black with green stitching) including door cards, headliner, and Recaro SR-7 seats (recliners removed for fixed-back racing feel). Add a custom roll cage from Custom Cages (MIG-welded, 4-point bolt-in) with harness bar, and a Momo Mod.78 steering wheel (350mm, suede) paired with a NRG quick-release hub. Replace all interior lighting with LUX H8 LED bulbs and add a custom digital dash from AIM MXS Strada (1.3\" display, CAN bus integration)."
+  ]
+}

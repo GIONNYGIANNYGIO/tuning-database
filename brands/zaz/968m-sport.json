@@ -1,0 +1,14 @@
+{
+  "brand": "ZAZ",
+  "model": "968M SPORT",
+  "prestazioni": [
+    "Engine swap to a **MeMZ-968GE** (1.2L air-cooled V4, 60° bank angle) with forged internals: Mahle 82.5mm forged pistons, Carrillo H-beam connecting rods, and a billet crankshaft from **JE Pistons** for a 10.5:1 compression ratio. Pair with a **Garrett GT2560R turbocharger** (0.63 A/R turbine housing) and a **Tial MV-R 44mm wastegate** for 1.2 bar (17.4 psi) boost, targeting 180 HP at 7,000 RPM on **VP Racing M5 methanol-blended fuel**.",
+    "Custom **MegaSquirt MS3Pro PNP ECU** with a **Bosch 0280158002 3.5-bar MAP sensor** and **Denso Iridium IK22 spark plugs** gapped at 0.024\" for optimized ignition timing under forced induction. Include a **Setrab 14-row oil cooler** (part #20-14002) and a **Moroso 22140 aluminum deep-sump oil pan** to manage heat in the air-cooled block.",
+    "Suspension overhaul with **Ohlins Road & Track DFV dampers** (custom valved for the 968M’s 2,160mm wheelbase) paired with **Eibach Pro-Kit springs** (25% stiffer than OEM) and **Polyurethane bushings** from **SuperPro** (part #SPF1155K) for the front torsion bars. Rear trailing arms reinforced with **T45 steel gussets** and **Rose-jointed adjustable camber plates** from **VAC Motorsports** for precise alignment."
+  ],
+  "estetica": [
+    "Full **Rocket Bunny-inspired widebody kit** (custom-fabricated for the 968M’s unique rear-engine layout) with **carbon fiber fenders** (2.5\" wider front, 3.5\" wider rear) and **aluminum overfenders** riveted to the chassis. Front splitter and rear diffuser from **Seibon Carbon** (part #ZAZ-968M-SPLITTER) for downforce.",
+    "Custom **15x8\" ET0 BBS RS-GT wheels** (5x139.7 PCD) wrapped in **Nankang AR-1 semi-slick tires** (195/50R15 front, 225/50R15 rear) with **Wilwood Dynalite 4-piston calipers** (part #120-11340) and **330mm slotted rotors** for braking. Rear wheel arches notched to clear the wider track.",
+    "Interior stripped and reinforced with a **Sparco Pro ADV racing seat** (part #01878NR) mounted on a **custom aluminum seat frame** welded to the chassis. **Schroth 6-point harnesses** (part #ASM4214B) and a **MOMO Mod.78 steering wheel** (330mm diameter) with a **NRG quick-release hub**. Full **Dynamat Xtreme sound deadening** to reduce cabin resonance from the air-cooled V4."
+  ]
+}

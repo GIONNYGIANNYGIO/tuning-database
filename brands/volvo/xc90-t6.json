@@ -1,0 +1,14 @@
+{
+  "brand": "VOLVO",
+  "model": "XC90 T6",
+  "prestazioni": [
+    "Engine: B6304T4 (3.0L inline-6 turbo) – Full PnP ECU remap by Heico Sportiv Stage 3+ with custom ethanol (E85) flex-fuel calibration, targeting 420 HP and 520 Nm torque via upgraded turbocharger (Garrett GTX3582R with billet compressor wheel and 0.82 A/R turbine housing) and ported/polished cylinder head with oversized intake valves (Ferrea FV5000 series, 36mm intake/31mm exhaust).",
+    "Forced Induction: Custom 4-ply silicone charge pipes (Vibrant Performance 17941) with T-bolt clamps, paired with a front-mount intercooler (Bell Intercoolers 12x12x4 core, 1000 CFM airflow) and a 3.5\" MAF housing (Volvo P1 platform-specific, modified for GTX3582R flow rates).",
+    "Drivetrain: Reinforced 6-speed AW TF-80SC automatic transmission with Heico Sportiv TCU tune (aggressive shift logic, 0.15s faster shifts), upgraded torque converter (Sonnax 300M billet unit, 2800 RPM stall), and limited-slip differential (Quaife ATB helical LSD, 35/65 torque bias) with upgraded half-shafts (GKN Driveline CV joints, 30% stronger than OEM)."
+  ],
+  "estetica": [
+    "Body Kit: Heico Sportiv XC90 RS aero package (carbon fiber front splitter, side skirts, and rear diffuser with integrated brake cooling ducts), paired with a custom 3M Matte Military Green (212) wrap and OEM+ gloss black trim delete (Volvo P3 platform-specific).",
+    "Wheels: HRE FF15 22x10.5\" ET35 (front) and 22x12.5\" ET45 (rear) in Satin Black with custom offsets, wrapped in Michelin Pilot Sport Cup 2 R tires (275/30/22 front, 315/25/22 rear) for staggered fitment and aggressive camber (-3.5° front, -2.8° rear).",
+    "Suspension: Öhlins Road & Track DFV coilovers (XC90-specific valving, 80mm front/70mm rear travel) with Eibach Pro-Spacer 20mm wheel spacers (front) and custom subframe reinforcement plates (Heico Sportiv, 4mm thick aluminum) to reduce flex under hard cornering."
+  ]
+}

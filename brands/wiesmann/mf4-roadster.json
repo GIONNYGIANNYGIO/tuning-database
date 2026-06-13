@@ -1,0 +1,14 @@
+{
+  "brand": "WIESMANN",
+  "model": "MF4 ROADSTER",
+  "prestazioni": [
+    "BMW S65B40 4.0L V8 (from E92 M3) forced-induction conversion using a Garrett GTX3582R turbocharger (1.05 A/R, 64mm inducer) with a custom 3.5-inch titanium downpipe and GReddy Profec B Spec II boost controller for 1.2 bar peak pressure, paired with a CSF Racing aluminum radiator and a Setrab 50-row oil cooler to manage thermal loads under sustained 600+ hp conditions",
+    "Full Motec M150 ECU standalone engine management system with bespoke Wiesmann-specific calibration maps, integrated with a Plex Knock Monitor and a custom 1000cc ID1000 fuel injector setup, alongside a Bosch Motorsport high-pressure fuel pump (0580254040) and a Radium Engineering dual-catch can system to prevent oil starvation in high-G cornering",
+    "Bilstein Clubsport coilover suspension with 3-way adjustable damping (compression, rebound, and high-speed rebound), reinforced with H&R 27mm front and 24mm rear anti-roll bars, polybushings from SuperPro (part #SPF0115-27K), and a custom-fabricated aluminum subframe brace by AC Schnitzer to eliminate chassis flex under lateral loads exceeding 1.2G"
+  ],
+  "estetica": [
+    "Full carbon fiber widebody conversion kit by Prior Design (PD-WMF4R), including extended front fenders, rear quarter panels, and a custom rear diffuser with integrated twin exhaust outlets for the Akrapović Evolution Line titanium exhaust system (4.5-inch tips)",
+    "OEM+ headlight upgrade with LUX H8 V4 LED bulbs and custom sequential turn signals (using Osram LED modules), paired with a Vorsteiner carbon fiber front splitter and a custom rear spoiler (modeled after the Wiesmann GT MF5) with a Gurney flap for aerodynamic balance at speeds above 180 mph",
+    "Forged aluminum wheels by BBS (FI-R II, 9.5x19 ET25 front / 11x20 ET30 rear) wrapped in Michelin Pilot Sport Cup 2 R tires (265/35 R19 front, 305/30 R20 rear), with custom gold-painted center caps and titanium wheel bolts from ARP (part #200-7701) for weight reduction"
+  ]
+}

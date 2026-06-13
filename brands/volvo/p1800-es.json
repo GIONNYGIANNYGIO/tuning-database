@@ -1,0 +1,14 @@
+{
+  "brand": "VOLVO",
+  "model": "P1800 ES",
+  "prestazioni": [
+    "B20E/B20F (2.0L inline-4) engine swap to a B20B (2.0L inline-4, 10.5:1 compression) from a 1970 Volvo 142E, paired with a custom-built Kugelfischer mechanical fuel injection system (replica of the original P1800S setup but with modern injectors and a Bosch 044 fuel pump for 30% higher flow capacity)",
+    "Garrett GT2860RS turbocharger (ball-bearing, 60mm compressor wheel) with a custom 3-inch stainless steel exhaust manifold (TIG-welded, equal-length 4-2-1 design) and a GReddy Type-S blow-off valve (set to 12 psi base boost, adjustable via AEM EMS-4 standalone ECU with custom B20B-specific maps)",
+    "Full drivetrain reinforcement: Quaife ATB differential (80% lockup) in a Volvo M410 4-speed manual transmission (rebuilt with upgraded synchros and a Sachs Performance clutch kit), paired with a custom aluminum driveshaft and a Volvo 1800E-spec limited-slip differential (3.73:1 ratio)"
+  ],
+  "estetica": [
+    "Rocket Bunny P1800 ES-specific widebody kit (FRP construction, 2-inch flares front/rear, custom rear bumper with integrated diffuser) painted in Volvo 108 'Light Yellow' with a satin clear coat, paired with OEM-style 'P1800 ES' badges in brushed aluminum",
+    "Ohlins DFV Road & Track coilovers (adjustable damping, 20mm drop from stock) with custom-valved springs for the P1800 ES chassis, paired with polyurethane bushings (SuperPro SPF0119K) and a Whiteline front sway bar (22mm, adjustable)",
+    "Custom interior: Recaro SRD-E seats (Volvo-specific mounting brackets, Alcantara/leather upholstery in 'Volvo Dark Blue') with a MOMO Mod.78 steering wheel (380mm, suede, quick-release hub), and a full digital dash (AEM CD-7 with P1800 ES-themed gauge faces)"
+  ]
+}

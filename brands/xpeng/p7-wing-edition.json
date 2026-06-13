@@ -1,0 +1,14 @@
+{
+  "brand": "XPENG",
+  "model": "P7 WING EDITION",
+  "prestazioni": [
+    "Replace the stock **SEP200** dual-motor setup (front: 196 kW / 263 hp, rear: 228 kW / 306 hp) with **Turnigy SK8-65 170kv** high-RPM outrunners (front: 350 kW / 469 hp, rear: 400 kW / 536 hp) paired with **VESC 75/300** motor controllers and **A123 Systems ANR26650M1-B** 3.3V 2500mAh LiFePO4 cells in a 90S10P configuration for 800V+ voltage stability under load",
+    "Install a **PWR Advanced Cooling Systems** dual-loop liquid cooling kit with **Koolance EXT-440CU** copper radiators (front: 480mm x 320mm, rear: 360mm x 240mm) and **Aavid Thermalloy 4160G** heat sinks for inverter/motor thermal management, supplemented by **Crydom D1D40** solid-state relays for active thermal cutoff at 85°C stator temps",
+    "Upgrade the **BYD Blade Battery** (70.8 kWh, 800V architecture) with **Molicel P42A** 21700 cells in a 120S8P configuration (96 kWh, 4.2V charge limit) and integrate a **Delta-Q Technologies IC650** 25 kW DC-DC charger with **Phoenix Contact SUNCLIX** high-current connectors for 350 kW+ fast-charging capability"
+  ],
+  "estetica": [
+    "Fit a **Liberty Walk LB-WORKS** widebody kit (front fenders: +50mm, rear quarter panels: +70mm) with **Forgeline GA3R 20x10.5 ET35** forged wheels (front) and **20x12 ET40** (rear), wrapped in **Michelin Pilot Sport Cup 2 R** tires (275/30/20 front, 315/25/20 rear) and **AP Racing CP9660** 400mm carbon-ceramic rotors with **Brembo Stylema** 6-piston calipers",
+    "Install a **Rocket Bunny V3** carbon fiber rear wing with **AIM MXS Strada** telemetry-driven active Gurney flaps (adjustable 0-20° AoA) and **3M 1080 Series** matte vinyl wrap in **PPF Gloss Black** with **Oracal 970RA** reflective pinstriping (0.5mm width) along the beltline",
+    "Replace the stock **XPENG P7** LED matrix headlights with **Lumileds Luxeon Z ES** 5000K projectors (CRI 90+) and **Hella Micro DE** adaptive cornering modules, paired with a **Seibon Carbon** hood (weight reduction: 12.7 kg) featuring **AEM X-Series** wideband O2 sensor vents and **DEI Titanium** heat shielding"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "VOLVO",
+  "model": "XC60 T5",
+  "prestazioni": [
+    "Engine: B4204T23 (2.0L turbocharged I4) - Full Stage 2+ ECU remap by M-Tuning (Sweden), targeting 320 HP and 480 Nm torque with custom ethanol (E85) flex-fuel calibration, including upgraded high-pressure fuel pump (Bosch CP4.2) and 1000cc injectors (Injector Dynamics ID1000x).",
+    "Turbocharger: Garrett GTX3071R Gen II with billet compressor wheel (62mm inducer, 84mm exducer), custom 0.82 A/R turbine housing, and TiAL MV-R 44mm wastegate for optimized spool and reduced lag on the B4204T23’s stock manifold.",
+    "Suspension: Öhlins Road & Track DFV (Dual Flow Valve) coilovers with Volvo XC60-specific spring rates (7kg/mm front, 9kg/mm rear), adjustable camber plates (SPC Performance 81280), and poly bushings (Powerflex Black Series) for subframe and control arms."
+  ],
+  "estetica": [
+    "Aero: Heico Sportiv XC60 front splitter (carbon fiber, 3-piece) with integrated canards (Rieger Tuning), paired with a custom 3D-printed rear diffuser (Volk Racing TE37-inspired design) and side skirts (Heico Sportiv, OEM+ style).",
+    "Wheels: BBS FI-R 9.5x20 ET35 (front) and 10.5x20 ET40 (rear) with 255/35R20 and 285/30R20 Michelin Pilot Sport Cup 2 tires, hub-centric spacers (H&R 5mm) for flush fitment, and custom black anodized BBS center caps.",
+    "Exterior: Full vinyl wrap (3M Gloss Black Cherry with satin accents), custom LED taillight overlays (Lux H8 V4, sequential turn signals), and a Heico Sportiv roof spoiler (carbon fiber, 30mm height) with integrated third brake light."
+  ]
+}

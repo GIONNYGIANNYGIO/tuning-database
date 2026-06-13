@@ -1,0 +1,14 @@
+{
+  "brand": "WIESMANN",
+  "model": "GT MF5",
+  "prestazioni": [
+    "BMW S85B50 (5.0L V10) engine: Full internal build with forged Mahle Motorsport pistons (12.5:1 compression), Carrillo H-beam connecting rods, and a custom billet crankshaft by VAC Motorsports for 1,000+ HP reliability. Pair with a custom Gintani Engineering dry-sump system to eliminate oil starvation under lateral G-forces.",
+    "Turbocharged conversion using twin Garrett GTX5533R Gen II turbos (86mm inducer, 1.15 A/R turbine housings) with TiAL MV-R 60mm wastegates and a custom 4.5-inch stainless steel intercooler piping system by CSF Racing. Boost targets set to 2.2 bar (32 psi) with a Motec M150 ECU managing fuel via dual Bosch Motorsport 044 high-flow fuel pumps and ID1700x injectors.",
+    "Chassis reinforcement with a full seam-welded roll cage by Matter Fab (FIA-spec, 4130 chromoly) and a custom carbon fiber torque tube by 996TT to replace the stock aluminum unit, reducing rotational mass by 40%. Suspension overhaul with Ohlins TTX46 coilovers (3-way adjustable, 250lb/in front, 300lb/in rear springs) and spherical bearing control arm bushings by SuperPro for zero compliance."
+  ],
+  "estetica": [
+    "Full carbon fiber widebody conversion using a custom Rocket Bunny/Pandem-inspired kit (hand-laid by Liberty Walk collaborator LB Works), featuring extended front fenders (50mm per side), aggressive rear overfenders (70mm per side), and a functional front splitter with integrated canards (3D-printed carbon by 1016 Industries).",
+    "Custom rear diffuser by Vorsteiner (carbon fiber, 3-stage design) paired with a GT3-style rear wing (adjustable carbon fiber, 1,800mm span, 300mm chord) from APR Performance, mounted on billet aluminum pedestals. Side skirts replaced with custom 3D-printed carbon units (AeroCatch latches) to reduce weight by 12kg.",
+    "Interior stripped and reupholstered with a full Alcantara suite (seats, door cards, headliner) by Recaro Pole Position (CS-E II front seats, 6-point Schroth harnesses) and a custom roll cage padding system by Safety Devices. Digital dash upgrade to a Motec C127 (12-inch display) with integrated AIM Solo 2 DL GPS data logging."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "ZEEKR",
+  "model": "001 FR TRACK PACK",
+  "prestazioni": [
+    "Upgrade to a **Garrett GTX5540R Gen II turbocharger** (86mm compressor wheel, 106mm turbine) paired with a **custom 4.5-inch titanium downpipe** (fabricated by **APR Performance**) to support the **JLH-4S1** 4-cylinder hybrid powertrain (2.0L + 2x electric motors, 1,265 combined hp in Track Mode). Requires **Motec M150 ECU** with **custom hybrid torque-split mapping** for seamless ICE/e-motor power delivery and **NGK R8993-10 laser-iridium spark plugs** for sustained 9,500 RPM operation.",
+    "Install **Penske 8760 3-way adjustable coilovers** (24-position rebound, 22-position compression, 12kg/mm front/14kg/mm rear springs) with **custom valving for the 001 FR’s 50:50 weight distribution**, paired with **AP Racing CP9661-3600 6-piston front/4-piston rear brake calipers** and **Brembo HTC64T 410mm front/380mm rear carbon-ceramic rotors** (grooved for pad bite under extreme heat cycles).",
+    "Replace the OEM **single-speed gearbox** with a **Xtrac P1335 6-speed sequential transaxle** (dog-ring engagement, 1,200Nm torque capacity) and **Alcon 3-plate carbon clutch** (ceramic friction discs). Integrate a **Quaife ATB helical LSD** (85% lockup) and **custom half-shafts** (chromoly steel, 300M alloy CV joints) to handle the **JLH-4S1’s 0-100km/h in 1.9s** launch forces."
+  ],
+  "estetica": [
+    "**Rocket Bunny V3 widebody kit** (carbon fiber, 50mm front/70mm rear fender flares) with **custom aero ducts** (3D-printed titanium, channeling air to the **Garrett turbo’s intercooler** and **rear-mounted radiators**). Includes **Vortex Generator canards** (CFRP, 3-stage angle adjustment) and a **custom rear diffuser** (integrated **GReddy GT-II 4-inch exhaust outlets**).",
+    "**OMP KS-8 Carbon Kevlar racing seats** (FIA 8862-2009 certified, 1.2kg weight savings per seat) with **Schroth Profi II 6-point harnesses** (ASM camlocks). Replace the OEM steering wheel with a **Sparco R400 Alcantara wheel** (350mm diameter, **Motec C127 dash display** integrated into the center hub).",
+    "**PPG Custom Paint: ‘Zeekr Hyper Blue’** (matte finish, **PPG D8186** basecoat with **PPG DX04** clearcoat for UV resistance) over a **full body vinyl wrap** (3M 2080 Series, **‘Liquid Metal’ effect**). **Carbon fiber hood** (dry carbon, **Weissach-style NACA ducts**) and **custom LED taillights** (Osram Oslon Black Flat, **sequential turn signals** with **RGB ambient lighting** controlled via **AEM VCU-300**)."
+  ]
+}

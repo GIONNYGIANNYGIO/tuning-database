@@ -1,0 +1,14 @@
+{
+  "brand": "VOLVO",
+  "model": "V60 POLESTAR",
+  "prestazioni": [
+    "Engine: B30XT (3.0L turbocharged inline-6) – Full PnP ECU remap via **MTEC Motorsport Stage 2+** with custom ethanol flex-fuel calibration (E85 compatible), targeting 480 HP at 6,200 RPM and 650 Nm torque at 3,500 RPM, utilizing **Bosch Motorsport 0261S02088** injectors and **Mishimoto MMINT-V60T-16** intercooler upgrade for sustained boost stability (22 PSI peak).",
+    "Forced Induction: **Garrett GTX3582R Gen II** turbocharger with billet compressor wheel (76mm inducer, 106mm exducer), **TurboSmart Race Port 45mm** external wastegate, and **ARP 625+** head studs to prevent boost-induced head lift under sustained 2.0+ bar pressure.",
+    "Suspension & Handling: **Öhlins Road & Track DFV** coilovers (V60-specific valving) with **Polestar Engineering** front camber plates (-3.5° front, -2.8° rear), **SuperPro** poly bushings (part #SPF1003K) for subframe reinforcement, and **Brembo GT 380mm** 6-piston front brake kit (V60 Polestar-specific caliper brackets) with **Ferodo DS2500** pads for fade-resistant track use."
+  ],
+  "estetica": [
+    "Aero: **Volvo Polestar Performance** carbon fiber front splitter (OEM+ but with **Rocket Bunny** canards for high-speed stability) paired with **Seibon Carbon** GT-style rear diffuser (V60-specific fitment) and **APR Performance** GT-250 rear wing (3D-printed aluminum mounts for 15kg downforce at 120mph).",
+    "Exterior: **3M 1080 Gloss Black** full vinyl wrap with **Vinyl Frog** matte carbon fiber hood overlay, **HRE FF03** 20x9.5 ET35 wheels (Volvo PCD 5x108) wrapped in **Michelin Pilot Sport Cup 2** 265/30R20 tires, and **Lux H8 V4** LED headlight retrofit with **Morimoto XB35** projectors for OEM+ beam pattern.",
+    "Interior: **Recaro Pole Position** SPG XL seats (Volvo-specific side mounts) with **Schroth Profi II 6-point harnesses**, **MOMO Mod.70** suede steering wheel (380mm, Volvo airbag-compatible), and **AEM CD-7** dash display (CAN bus integration for B30XT live data) mounted via **NRG Innovations** quick-release hub."
+  ]
+}

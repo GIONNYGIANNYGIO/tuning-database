@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "TRANSPORTER T5",
+  "prestazioni": [
+    "Engine swap to a 3.2L VR6 (engine code: AXK/BAA) with a custom forged internals build by Mahle (pistons, rods) and a Schrick 272° camshaft kit, paired with a Garrett GT3076R turbocharger (0.82 A/R turbine housing) and a custom 3.5\" stainless steel exhaust system by Remus with a 200-cell catalytic converter for Euro 6 compliance",
+    "Bilstein B16 PSS10 coilovers with custom valving for the T5's rear torsion beam setup, paired with H&R 25mm front and 20mm rear anti-roll bars, and polybushings from SuperPro (part #SPF1050K) for the front control arms and subframe",
+    "Custom ECU tuning by Dimsport Genius on a standalone ECU (Motec M150) with a flex-fuel sensor, integrated with a custom intercooler setup by Wagner Tuning (competition core, 600x300x76mm) and a Bosch 044 high-flow fuel pump with dual Siemens DEKA 80lb/hr injectors"
+  ],
+  "estetica": [
+    "Rocket Bunny VW T5 widebody kit (Pandem MK1) with custom carbon fiber fenders, front splitter, and rear diffuser, finished in a matte Porsche GT3 RS Lime Gold wrap with gloss black accents",
+    "OEM+ headlight retrofit with Hella Dynamic LED projectors (part #H84901001) and custom LED DRL strips by LUX Automotive, paired with a custom rear light setup using Audi R8-style LED tails (VLand VLAND-T5) and smoked reflectors",
+    "Custom interior roll cage by Custom Cages (UK) with a 6-point harness setup (Schroth Profi II 6-point) and Recaro Pole Position seats (part #3892025) mounted on custom brackets, with a MOMO Mod.78 steering wheel and a digital dash (AEM CD-7) replacing the stock cluster"
+  ]
+}

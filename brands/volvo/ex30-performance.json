@@ -1,0 +1,14 @@
+{
+  "brand": "VOLVO",
+  "model": "EX30 PERFORMANCE",
+  "prestazioni": [
+    "Upgrade to a **Pankl Racing Systems** forged crankshaft and **Mahle Motorsport** forged pistons for the **Volvo B33A** (2.0L turbocharged inline-3) to handle 400+ hp, paired with **Ferrea Racing** titanium intake/exhaust valves and **ARP Custom Age 625+** head studs for 1.5-bar boost reliability",
+    "Install a **Garrett GTX3076R Gen II** turbocharger with a **Tial MV-R 44mm** external wastegate, **Mishimoto** 40mm intercooler core, and **Injector Dynamics ID1700x** fuel injectors, calibrated via **COBB Accessport** with a custom **Volvo B33A** Stage 3+ tune by **ECU Master**",
+    "Replace the OEM **Volvo CMA** platform rear subframe with a **D2 Racing** tubular aluminum unit, paired with **Öhlins Road & Track DFV** coilovers (custom valved for the EX30’s 1,850kg weight), **SuperPro** poly bushings, and **Brembo GT 6-piston** front calipers with **380mm two-piece rotors**"
+  ],
+  "estetica": [
+    "**Rocket Bunny V3** widebody kit (EX30-specific, 30mm wider front/40mm rear) with **Voltex** carbon fiber front splitter and **Seibon** carbon fiber hood (OEM-style latches, 50% weight reduction)",
+    "**Rotiform LAS-R** 19x9.5 ET30 (front) and 19x10.5 ET35 (rear) forged wheels with **Michelin Pilot Sport Cup 2 R** tires (245/35/19 front, 275/30/19 rear), wrapped in **3M Gloss Black** with **Vinyl Lab** custom Volvo ‘Iron Mark’ decals",
+    "**Akrapovič** titanium exhaust system (dual 90mm outlets, EX30-specific routing) with **Valenti CNC** billet exhaust tips, paired with a **VRSF** downpipe (catless, 3.5-inch diameter) and **AEM X-Series** wideband AFR gauge (integrated into the OEM digital cluster via **CAN bus hack**)"
+  ]
+}

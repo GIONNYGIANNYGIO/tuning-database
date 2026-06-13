@@ -1,0 +1,14 @@
+{
+  "brand": "VOLVO",
+  "model": "S60 T6",
+  "prestazioni": [
+    "Engine: B6304T4 (3.0L inline-6 turbo, 304hp stock) – Full forged internals upgrade with Manley I-beam connecting rods, JE 9.5:1 forged pistons, and ACL Race Series main/rod bearings for 25psi+ boost capability. Precision Turbo PT6266 CEA turbocharger with 62mm inducer, 76mm exducer, and 3.5\" V-band inlet/outlet, paired with a custom 4\" stainless steel downpipe and GReddy Profec B Spec II boost controller for 550whp target on E85.",
+    "Fuel System: Injector Dynamics ID1300x side-feed injectors with custom fuel rail adapters, Walbro 450LPH in-tank pump + dual DW300c external pumps, and a Radium Engineering dual catch-can setup with -8AN lines to prevent oil dilution in the B6304T4’s direct-injection system. Motec M150 ECU with custom flex-fuel mapping for E85 compatibility and closed-loop lambda control via Innovate Motorsports LC-3 wideband.",
+    "Drivetrain: Haldex Gen 5 AWD controller flashed with COBB Tuning’s \"Aggressive\" mode for 80/20 torque split under full throttle, paired with a Quaife ATB helical LSD in the rear and a P2 Racing short-shift kit for the M66C 6-speed manual transmission. Sachs Performance twin-disc clutch with cerametallic friction material and reinforced pressure plate for 600+ lb-ft torque capacity."
+  ],
+  "estetica": [
+    "Body: Heico Sportiv Stage 3 widebody kit (S60R-spec fenders, carbon fiber front splitter, and rear diffuser) with custom 3M Matte Military Green wrap and vinyl overlays for the iconic \"Iron Mark\" grille badge. OEM Volvo Polestar 2.0 front bumper with integrated DRLs and a custom carbon fiber hood featuring a functional heat extractor for the PT6266 turbo.",
+    "Wheels/Suspension: OZ Racing Ultraleggera HLT 19x9.5\" ET35 front / 19x11\" ET40 rear with 265/30/19 and 295/25/19 Michelin Pilot Sport Cup 2 tires. Öhlins Road & Track DFV coilovers with 8kg/mm front and 10kg/mm rear springs, adjustable camber plates, and polyurethane subframe bushings from Powerflex. SPC adjustable rear toe arms for precise alignment under hard acceleration.",
+    "Interior: Recaro SPG XL seats with custom Volvo S60 mounting brackets, wrapped in Alcantara with red contrast stitching. MOMO Mod.78 steering wheel with quick-release hub and NRG short shifter. Custom aluminum gauge pod housing AEM X-Series 30-0300 wideband, Defi BF oil pressure/temp, and Innovate Motorsports MTX-L Plus boost gauge. Full sound deadening with Kilmat 80mil butyl sheets and custom Dynamat Xtreme firewall insulation."
+  ]
+}

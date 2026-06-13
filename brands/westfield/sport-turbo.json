@@ -1,0 +1,14 @@
+{
+  "brand": "WESTFIELD",
+  "model": "SPORT TURBO",
+  "prestazioni": [
+    "Engine: Replace the stock Ford Sigma 1.6L (Zetec-SE) with a fully built Ford Duratec 2.3L (MI4A) stroked to 2.5L using a Manley 87mm crankshaft, Mahle forged pistons (9.5:1 CR), and Eagle H-beam connecting rods. Pair with a Garrett GT3076R turbocharger (0.86 A/R turbine housing) and a custom 3.5\" stainless steel exhaust with a Tial 44mm wastegate and GReddy Profec B Spec II boost controller for 1.5 bar (21.7 psi) peak boost.",
+    "Drivetrain: Install a Quaife ATB helical LSD in the Westfield-specific 5-speed Ford Type 9 gearbox, paired with a Sachs Performance twin-disc clutch (240mm) and a PHR lightweight flywheel. Upgrade halfshafts to GKN CV joints with custom-length driveshafts to handle 350+ lb-ft torque.",
+    "Suspension: Fit Ohlins Road & Track DFV coilovers (custom valved for Westfield chassis) with 400lb/in front springs and 350lb/in rear springs. Replace stock bushings with SuperPro polyurethane units (part #SPF1001K) and add a Whiteline front sway bar (22mm adjustable) with custom end links. Use AP Racing CP5270 front brake calipers with 280mm rotors and Ferodo DS2500 pads, paired with Wilwood rear calipers (2-piston) and 220mm rotors."
+  ],
+  "estetica": [
+    "Aero: Install a Westfield-specific Rocket Bunny-style widebody kit (carbon fiber front splitter, side skirts, and rear diffuser) with a custom 3D-printed ABS rear wing (200mm chord, 15-degree angle) for 120kg downforce at 160km/h. Add a custom aluminum undertray with NACA ducts for intercooler and brake cooling.",
+    "Exterior: Replace the stock fiberglass body with a full carbon fiber replica (Westfield Carbon Sport body panels, 1.2mm thickness) and paint in a custom matte PPG \"Lime Squeeze\" with gloss black accents. Fit Hella Rallye 3000 headlights (7\" diameter) with custom LED halo rings and a carbon fiber bonnet with a central NACA duct for turbo heat extraction.",
+    "Interior: Install a Sparco Pro 2000 seat (carbon fiber shell) with Schroth 6-point harnesses and a custom aluminum dashboard featuring a Motec C127 dash logger. Replace the stock steering wheel with a Momo Prototipo (330mm) wrapped in Alcantara, and add a custom roll cage (T45 steel, 38mm OD) with integrated fire suppression system (Lifeline Zero 360)."
+  ]
+}

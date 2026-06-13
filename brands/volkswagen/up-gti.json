@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "UP GTI",
+  "prestazioni": [
+    "APR Stage 2+ ECU/TCU flash for the **EA211 1.0 TSI (CHZD)** engine, targeting 150 HP and 200 Nm with a custom 22mm restrictor delete, paired with a **Forge Motorsport DV+ recirculation valve (FMFSV0012P)** to eliminate boost leaks under aggressive shifts",
+    "KW Suspensions Clubsport coilovers (3-way adjustable, 400 lb/in front springs, 350 lb/in rear) with **VW Up GTI-specific top mounts (KW 35231001)** to retain OEM strut bearing geometry while allowing camber adjustment up to -3.5° front and -2.8° rear",
+    "Garrett GT12 turbocharger upgrade (GT1241Z, 0.42 A/R turbine housing) with a **custom 3D-printed intake manifold spacer (VW Part No. 04C129713D modified)** to optimize airflow, mated to a **Milltek Sport 60mm cat-back exhaust (SSXE400)** with a resonated center section to reduce drone at 3,500 RPM"
+  ],
+  "estetica": [
+    "Rieger Tuning **RS-style front bumper (VW Up GTI-specific, Part No. 5Z6807219C)** with integrated carbon fiber splitter and tow hooks, paired with a **custom 3M 1080 Gloss Black vinyl wrap on the OEM roof (VW Part No. 6X0807221A)** for weight reduction and heat rejection",
+    "OMP **K7 race seats (VW Up GTI-specific mounting brackets, Part No. OMP-K7-VWUP)** upholstered in **Alcantara (Autostyle AS-ALC-001)** with red stitching, replacing the rear seats with a **custom aluminum flat floor (VW Part No. 6X0807155B modified)** for a 2+0 layout",
+    "APR Carbon Fiber **GTI-specific rear diffuser (APR-UP-100001)** with integrated LED reverse lights, combined with **Hella Pagid 83203 rear brake caliper covers (painted VW Tornado Red, Part No. 5K0615425A)** and **BBS CH-R 17x7 ET35 wheels (5x100 PCD, 45mm center bore) wrapped in Michelin Pilot Sport Cup 2 (205/40 R17)**"
+  ]
+}
