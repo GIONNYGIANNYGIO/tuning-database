@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "SHARAN VR6",
+  "prestazioni": [
+    "Engine swap to a 3.6L VR6 (engine code: **CCE**) from the VW R36, retaining the original 4Motion AWD system but upgrading the transmission to a **02E DSG 6-speed** (from the Golf R32) with a **South Bend Stage 3 Clutch Kit** for increased torque capacity (up to 500 Nm).",
+    "Forced induction via a **Garrett GTX3071R Gen II turbocharger** (externally wastegated) with a **custom VR6-specific manifold** (fabricated by **CTS Turbo**), paired with a **Precision Turbo 46mm wastegate** and a **Tial MV-R 50mm blow-off valve**. Supporting mods include a **VR6-specific intercooler** (from **Forge Motorsport**) and a **Siemens DEKA 80lb/hr fuel injectors** upgrade.",
+    "Full **VR6-specific engine management** via a **Syvecs S6Plus ECU** (with direct port injection control) and a **Motec C125 dash logger** for real-time monitoring. Supporting fuel system upgrades include a **Walbro 450 LPH in-tank fuel pump** and a **Radium Engineering fuel pressure regulator** (set to 4.5 bar base pressure)."
+  ],
+  "estetica": [
+    "**Rieger Tuning** widebody conversion kit (Sharan-specific, extending fenders by 50mm per side) with **custom carbon fiber front splitter** and **rear diffuser** (fabricated by **Prior Design**).",
+    "**OEM+ aggressive stance** via **H&R TRAK+ coilovers** (VR6-specific valving) with **20mm spacers** (front) and **25mm spacers** (rear) to fit **BBS CH-R 9x20 ET35 wheels** wrapped in **Michelin Pilot Sport Cup 2 tires (255/35/20 front, 285/30/20 rear)**.",
+    "**Full custom interior** with **Recaro Pole Position seats** (retrimmed in **Nappa leather with Alcantara inserts**), a **Momo Mod.78 steering wheel** (350mm, flat-bottom), and a **custom roll cage** (fabricated by **Custom Cages UK**) painted in **VW Tornado Red (LK9B)** for structural rigidity and aesthetic contrast."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "POLO R WRC",
+  "prestazioni": [
+    "Engine: Replace the stock 1.6L TSI (EA888-derived, code **CJXC**) with a fully built **CJXC WRC-spec block** featuring forged Mahle pistons (8.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from **Manley Performance**. Pair with a **Garrett GTX4202R turbocharger** (custom 0.82 A/R turbine housing) and a **Tial MV-R 44mm wastegate** for 45 psi peak boost, targeting 550+ WHP on **VP Racing Q16 fuel**.",
+    "Drivetrain: Install a **Xtrac P1046 sequential gearbox** (WRC-spec, 6-speed) with a **Pankl Racing Systems carbon-fiber driveshaft** and a **Quaife ATB differential** (front) paired with a **Drexler Motorsport 3-way adjustable LSD** (rear). Clutch system: **Tilton 7.25\" triple-plate ceramic clutch** with a **Sachs Racing dual-mass flywheel**.",
+    "Suspension: **Öhlins TTX40 4-way adjustable dampers** (WRC-spec) with **Eibach 1000 lb/in springs** (front) and **900 lb/in springs** (rear). Full **PFC Motorsport spherical bearing suspension links** (uniball conversion) and **H&R WRC-spec anti-roll bars** (24mm front, 22mm rear). Brakes: **Alcon 6-piston monoblock calipers** (370mm front, 355mm rear) with **AP Racing carbon-carbon discs** and **Ferodo DS3000 pads**."
+  ],
+  "estetica": [
+    "Aero: **Rieger Tuning WRC-style widebody kit** (carbon-fiber, 100mm wider fenders) with a **Volkswagen Motorsport rear diffuser** (CFRP, 3-stage) and a **Reiger front splitter** (adjustable dive planes). Roof: **Carbon Revolution carbon-fiber roof panel** (2.5kg weight reduction). Hood: **Seibon carbon-fiber vented hood** (with integrated NACA ducts for CJXC intercooler cooling).",
+    "Wheels: **OZ Racing Superforgiata WRC wheels** (18x8.5 ET15 front, 18x9.5 ET0 rear) wrapped in **Michelin Pilot Sport Cup 2 R tires** (235/40/18 front, 265/35/18 rear). Lugs: **BBS Motorsport titanium wheel bolts** (M12x1.5, 20g weight savings per wheel).",
+    "Interior: **Sparco Pro 2000 carbon-fiber seats** (FIA 8862-2009 certified) with **Schroth Profi II-6 harnesses**. Steering wheel: **MOMO WRC-spec suede wheel** (350mm, quick-release) with **Motec C127 dash display** (integrated with **Bosch MS 4.0 ECU**). Roll cage: **Custom **Sparco WRC-spec FIA-approved cage** (chromoly steel, 10-point) with **Schroth Enduro harness bar**."
+  ]
+}

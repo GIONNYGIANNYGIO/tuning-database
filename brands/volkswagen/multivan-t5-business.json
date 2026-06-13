@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "MULTIVAN T5 BUSINESS",
+  "prestazioni": [
+    "Engine swap to a 3.2L VR6 (engine code: AXK) with a custom-forged internals kit from Mahle Motorsport, including forged pistons (84.5mm bore), H-beam connecting rods (156mm length), and a billet crankshaft (92.8mm stroke) for a displacement increase to 3.6L. Paired with a Garrett GT3582R turbocharger (0.82 A/R turbine housing) and a custom 4-1 stainless steel exhaust manifold from Schrick, targeting 450hp at 1.5 bar boost with a supporting fuel system upgrade (Bosch 044 fuel pump, Injector Dynamics ID1000 injectors, and a Syvecs S6Plus standalone ECU).",
+    "Full drivetrain reinforcement: Quaife ATB differential (VAQ-compatible) for the 4Motion system, upgraded driveshafts from GKN with CV joints rated for 600Nm, and a Sachs Performance dual-mass flywheel with a South Bend Stage 3 clutch kit (ceramic puck, 6-puck design) to handle the increased torque. Suspension overhaul with KW Variant 3 coilovers (80mm drop, adjustable rebound/compression) and polybushings from SuperPro (part #SPF1044K) for the front control arms and subframe.",
+    "Forced induction cooling: Custom front-mount intercooler from Wagner Tuning (800hp-rated, 600x300x76mm core) with a 3.5\" silicone charge pipe kit from Vibrant Performance, paired with a Davies Craig EWP150 electric water pump and a Setrab 50-row oil cooler (part #50-3450) to maintain optimal VR6 temperatures under sustained load."
+  ],
+  "estetica": [
+    "Full Rocket Bunny VW T5 widebody kit (part #RB-VW05) with custom-fabricated carbon fiber fender flares (3\" wider front, 4\" wider rear) and a custom front splitter from 9 Lives Racing (3D-scanned for T5 bumper compatibility). Rear diffuser from Maxton Design (part #MAXT5R) with integrated dual 3.5\" exhaust outlets for the Schrick manifold setup.",
+    "OEM+ interior overhaul: Recaro Pole Position seats (part #387062534) with custom mounting brackets for T5 rails, paired with a MOMO Mod.78 steering wheel (350mm diameter, suede) and a custom roll cage from Custom Cages (8-point, TIG-welded 4130 chromoly, bolt-in design). Full Alcantara headliner and door cards from Katzkin (color-matched to VW \"Pure Grey\").",
+    "Exterior lighting: Hella Rallye 4000 Compact driving lights (part #007759851) mounted to a custom aluminum bumper bar (fabricated by WRC Style), paired with Osram Night Breaker Laser H7 bulbs (60% more light output) and a custom LED taillight setup from VW Heritage (part #5K0053806A) with sequential turn signals and smoked lenses."
+  ]
+}

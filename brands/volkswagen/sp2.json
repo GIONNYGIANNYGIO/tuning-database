@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "SP2",
+  "prestazioni": [
+    "Engine swap to a 2.0L TSI EA888 Gen 3 (CJXB/CJXC) with forged internals (Mahle pistons, Manley H-beam rods, and a billet crankshaft) paired with a Garrett GTX3582R turbocharger (0.82 A/R turbine housing) and a custom 4-inch aluminum intercooler from Wagner Tuning, achieving 450 HP at 2.2 bar boost on E85 fuel with a Bosch Motorsport 0261S02080 standalone ECU and a custom wiring harness by VW Racing.",
+    "Full drivetrain reinforcement including a Sachs Performance twin-disc clutch (part #6281 000 001) with a lightweight flywheel, a Quaife ATB helical LSD (part #QKE8J) for the transaxle, and a custom driveshaft from GKN Driveline with CV joints rated for 600 Nm of torque.",
+    "Suspension overhaul with Ohlins Road & Track coilovers (part #VWS46) featuring 3-way adjustable damping, custom spring rates (8 kg/mm front, 10 kg/mm rear), and spherical bearing top mounts from SuperPro (part #SPF6005K). Brake system upgraded to Alcon 6-piston calipers (part #40600-6P) with 355mm two-piece rotors and Ferodo DS2500 pads, paired with stainless steel braided lines from Goodridge."
+  ],
+  "estetica": [
+    "Custom widebody conversion using a Liberty Walk LB-WORKS kit (part #LB-VWSP2) with carbon fiber fenders, front splitter, and rear diffuser, all painted in Volkswagen Lime Green (LK3U) with matte black accents. Side skirts and rear bumper modified to accommodate the wider track and 18x9.5 ET15 (front) and 18x10.5 ET10 (rear) BBS RS-GT II wheels in gold finish with Michelin Pilot Sport Cup 2 tires (245/40 R18 front, 275/35 R18 rear).",
+    "Full carbon fiber hood from Seibon (part #CF-VWSP2-HOOD) with a functional central vent and integrated NACA ducts for brake cooling, paired with a custom front lip from Varis Japan (part #VAR-VWSP2-LIP) in raw carbon fiber. Rear wing is a custom 1-piece carbon fiber GT wing from APR Performance (part #WS2-13108) with adjustable angle and integrated third brake light.",
+    "Interior stripped and rebuilt with a full roll cage from Custom Cages (part #CC-VWSP2) in T45 steel with chrome-moly gussets, Recaro Pole Position seats (part #391.99.00) with Schroth 6-point harnesses (part #ASM4214B), and a MOMO Mod.78 steering wheel with a quick-release hub. Dashboard modified with a digital cluster from AIM MXS Strada (part #1.2008.0001) and a custom center console housing a Haltech IC-7 dash and a pair of AEM X-Series wideband controllers."
+  ]
+}

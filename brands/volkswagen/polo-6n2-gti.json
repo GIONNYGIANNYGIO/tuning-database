@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "POLO 6N2 GTI",
+  "prestazioni": [
+    "AFN 1.6L 16V (AEH/AFT/APF) engine code forced-induction conversion using a Garrett GT2860RS turbocharger (0.63 A/R turbine housing, 60mm compressor inducer) with a custom 264° camshaft profile from Schrick (intake: 10.9mm lift, exhaust: 10.5mm lift) and a Bosch 0280155996 3-bar MAP sensor for precise boost control at 1.2 bar peak pressure",
+    "Full forged internals including Mahle Motorsport 83mm forged pistons (8.5:1 compression ratio), Eagle H-beam connecting rods (5.433\" center-to-center), and a steel crankshaft from a 1.8T 20v engine (06A103021B) with ARP 2000 main and rod bolts for 8,500 RPM reliability",
+    "Custom 4-1 stainless steel exhaust manifold by Jetex Performance (1.75\" primary tubes, 2.5\" collector) paired with a Milltek Sport 2.5\" cat-back system (resonated, non-valved) and a GReddy Profec B Spec II boost controller for adjustable wastegate duty cycle"
+  ],
+  "estetica": [
+    "Oettinger GTI-R widebody conversion kit (fiberglass front fenders, rear quarter panels, and bumper extensions) with custom 5x100 to 5x112 wheel spacers (15mm front, 20mm rear) to fit BBS RS-GT 16x8 ET20 wheels in Gunmetal with 205/40/16 Michelin Pilot Sport Cup 2 tires",
+    "Recaro SRD-E full bucket seats (999 series, FIA-approved) mounted on custom aluminum seat rails (adjustable for 50mm height and 70mm fore/aft movement) with Schroth Profi II 6-point harnesses and a bolt-in Matter roll cage (M001-001, 25CrMo4 steel, 38mm diameter)",
+    "Custom carbon fiber front splitter by Vortex Carbon (3D-scanned for 6N2 chassis fitment) with integrated canards and a rear diffuser from Maxton Design (polyurethane, 3-fin design) paired with a Hella Rallye 3000 headlight conversion (H4 bulbs, Cibié reflectors) and smoked rear clusters with LED tails (Osram LEDriving SL)"
+  ]
+}

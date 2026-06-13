@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "ROUTAN",
+  "prestazioni": [
+    "Engine swap to a **Chrysler 3.6L Pentastar (ERB) V6** with a **FiTech Ultimate LS EFI system** for standalone ECU control, paired with a **Garrett GT3582R turbocharger** (86mm compressor, .82 A/R turbine housing) and a **Tial MV-R 44mm external wastegate** to manage boost at 22 psi on E85 fuel. Upgraded **Mahle forged pistons (10.5:1 CR)** and **Manley H-beam connecting rods** with **ARP 2000 head studs** to handle the power.",
+    "Full **Kooks Custom 3.5\" stainless steel turbo-back exhaust** with a **Borla Pro XS muffler** (resonated, 304 stainless) and **Vibrant 1799 ultra-quiet resonators** to reduce drone while maintaining aggressive tone. **Mishimoto X-line intercooler** (24\" x 12\" x 3.5\") with **Vibrant 1121 silicone couplers** and **T-bolt clamps** for charge pipe integrity under high boost.",
+    "**ZF 6HP26 transmission** rebuild with a **Sonnax Smart-Tech valve body**, **TransGo HD2 shift kit**, and **PML deep transmission pan** (with additional 4 quarts of capacity). **South Bend Stage 3 Clutch** (dual-disc, organic/carbon hybrid) for the **Chrysler 45RFE transmission** (if retaining stock drivetrain) with a **Spec billet flywheel** to handle 500+ lb-ft of torque."
+  ],
+  "estetica": [
+    "**Rocket Bunny V1 widebody kit** (modified for Routan chassis) with **custom carbon fiber fender flares** (hand-laid, 3K twill weave) and **custom aluminum inner fender liners** to clear the **20x10.5 ET15 Volk TE37SL wheels** (matte bronze) wrapped in **Michelin Pilot Sport Cup 2 R tires (275/30/20 front, 295/25/20 rear)**. **Air Lift Performance 3P management** with **AccuAir ENDO-CVT tanks** for adjustable stance.",
+    "**Seibon carbon fiber hood** (custom one-piece, vented) with **AEM X-Series wideband gauge** (mounted in a **custom aluminum A-pillar pod**) and **Defi BF gauges** (oil pressure, boost, EGT) in a **custom center console pod**. **VMR V710-style side skirts** (modified for Routan rocker panels) with **custom LED door sills** (Volkswagen Motorsport branding).",
+    "**OEM+ Euro-spec VW front bumper** (modified with **custom carbon fiber splitter** and **3M Scotchprint Wrap (gloss black with red pinstriping)**). **Morimoto XB LED headlights** (projector-style, sequential turn signals) with **Lux H8 V4 bulbs** and **custom Hella fog light deletes** (replaced with **custom LED light bars** in a **carbon fiber housing**). **Custom rear diffuser** (carbon fiber, 3D-printed mold) with **dual 4\" exhaust outlets** (burnished titanium tips)."
+  ]
+}

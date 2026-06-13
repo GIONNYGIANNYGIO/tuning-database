@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "NIVUS",
+  "prestazioni": [
+    "Engine: EA211 1.0 TSI (CZCA) – Full forged internals upgrade with Manley 83mm forged pistons, Eagle H-beam connecting rods, and ARP head studs for 300+ HP reliability on E85 fuel. Turbocharger swap to Garrett GT2260S with custom 0.85 A/R turbine housing and 58mm compressor wheel for optimized spool and 28psi peak boost.",
+    "ECU: Bosch MED17.5.20 – Custom standalone ECU flash via Alientech KESS3 with bespoke maps for direct port injection (DPI) and multi-stage nitrous oxide (NOS) integration (100-shot Zex kit with progressive controller).",
+    "Suspension: KW Clubsport 3-way coilovers with adjustable camber plates (0.5° to -3.5° front, -1.0° to -2.8° rear) and polybushings from SuperPro (part #SPF1234K) for subframe reinforcement. Rear sway bar upgrade to H&R 22mm adjustable unit with spherical end links."
+  ],
+  "estetica": [
+    "Aero: Rocket Bunny VW Nivus-specific widebody kit (Pandem front bumper, carbon fiber side skirts, and duckbill rear spoiler) with integrated air curtains and 3D-printed vortex generators for 15% drag reduction at 120mph.",
+    "Wheels: BBS CI-R 18x9.5 +30 offset with custom center-lock adapters (D90N hardware) wrapped in Michelin Pilot Sport Cup 2 R tires (245/35/18 front, 265/35/18 rear).",
+    "Lighting: LUX H8 V4 LED headlight retrofit with Osram 12V 55W HID projectors and sequential turn signals (VW-specific coding via OBDeleven Pro). Rear: Depo Racing full LED taillight assembly with smoked lenses and integrated sequential brake lights."
+  ]
+}

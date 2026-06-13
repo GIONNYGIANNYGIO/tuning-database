@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "PHAETON W12",
+  "prestazioni": [
+    "Engine: BAP 6.0L W12 (48v) with a custom APR Stage 3+ ECU calibration, targeting 520 HP and 600 Nm via direct port methanol injection (Snow Performance Stage 3 kit) and a bespoke 3.5\" stainless steel exhaust system with dual 102mm outlets (Supersprint W12-specific headers and catalytic converters deleted for track use only).",
+    "Forced Induction: Hybrid turbocharger upgrade utilizing Garrett GT35R billet compressor wheels (62mm inducer, 82mm exducer) paired with a custom BorgWarner EFR 8374 turbine housing (T4 divided .82 A/R) to eliminate lag while maintaining 1.2 bar of boost (stock internals retained with upgraded Mahle Motorsport forged pistons and Carrillo H-beam connecting rods).",
+    "Suspension & Handling: KW Clubsport 3-way coilovers with adjustable camber plates (custom-machined for Phaeton’s 4-link rear axle) and H&R 28mm front / 25mm rear anti-roll bars. Brembo GT 380mm 6-piston front and 355mm 4-piston rear brake kits with Pagid RS29 pads, paired with Goodridge G-Stop stainless steel brake lines and Motul RBF 660 brake fluid."
+  ],
+  "estetica": [
+    "Aero: Wald International ‘Black Bison’ widebody kit (custom-fitted to Phaeton’s D1 platform) with carbon fiber front splitter, side skirts, and a ducktail spoiler (functional, generating 45kg downforce at 200 km/h). Front bumper replaced with a custom 3D-printed unit featuring integrated LED DRLs (Lux H8 Angel Eyes) and a carbon fiber diffuser with twin 90mm exhaust cutouts.",
+    "Wheels & Tires: OZ Racing Ultraleggera HLT 20x9.5 ET35 (front) and 20x11 ET45 (rear) in gloss black, wrapped in Michelin Pilot Sport Cup 2 R tires (275/35 R20 front, 315/30 R20 rear). Custom center caps with VW Motorsport W12 badging and titanium wheel bolts (McGard 24457).",
+    "Interior: Recaro Pole Position carbon fiber bucket seats (retaining 4-point Schroth Profi II harnesses) with custom Alcantara upholstery (color-matched to VW’s ‘Deep Black Pearl’). MOMO Mod.78 steering wheel (350mm, suede) with integrated AEM X-Series boost gauge. Full interior carbon fiber trim (door cards, center console, headliner) by VRSF, and a custom roll cage (Mantzel Motorsport, TIG-welded 4130 chromoly) painted in ‘VW Tornado Red’."
+  ]
+}

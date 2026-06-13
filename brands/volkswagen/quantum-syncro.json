@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "QUANTUM SYNCRO",
+  "prestazioni": [
+    "Engine swap to a 2.8L 12V VR6 (AAH engine code) with a custom Schrick 272° camshaft kit, ported and polished cylinder heads by Autotech, and a custom 6-3-1 stainless steel header by Stahl headers paired with a Supersprint 2.5\" cat-back exhaust system for optimized scavenging and mid-range torque",
+    "Forced induction via a Garrett GT2860RS turbocharger (0.63 A/R turbine housing) with a custom air-to-water intercooler setup by Wagner Tuning, a Bosch 044 fuel pump, and a standalone Megasquirt MS3Pro PNP ECU with custom VR6-specific boost control maps for 12 psi of peak boost",
+    "Chassis reinforcement with a H&R 4-point strut tower brace, custom polyurethane subframe bushings by 034 Motorsport, and a Quaife ATB differential (85A550) in the rear to handle the increased torque, paired with Bilstein B16 coilovers with custom valving for the Syncro’s AWD system"
+  ],
+  "estetica": [
+    "Custom widebody conversion using OEM VW Passat B3 fender flares (extended 2.5\" per side) with custom carbon fiber overfenders by Seibon, paired with a Rocket Bunny-style front bumper lip and a custom rear diffuser by Maxton Design for the Quantum’s unique rear valence",
+    "OEM+ Euro-spec Passat B3 Syncro headlights with custom Hella DE projectors (35W bi-xenon) and smoked lenses, paired with a custom LED taillight conversion using Osram LED modules and a sequential turn signal setup by Diode Dynamics",
+    "BBS RS 002 wheels (16x8 ET20) with custom offsets to clear the Syncro’s AWD hubs, wrapped in Nankang AR-1 semi-slick tires (225/50R16), paired with custom center-lock adapters by WCI and titanium wheel bolts by H&R"
+  ]
+}

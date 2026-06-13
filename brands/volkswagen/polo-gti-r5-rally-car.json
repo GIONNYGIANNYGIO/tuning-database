@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "POLO GTI R5 RALLY CAR",
+  "prestazioni": [
+    "Engine: EA888 Gen3 (CJXB) 1.6L turbocharged inline-4, forged internals with Mahle Motorsport pistons (9.5:1 CR), Carrillo H-beam connecting rods, and a billet crankshaft for 315+ HP at 6,500 RPM and 400 Nm torque (FIA R5 homologation limits).",
+    "Turbocharger: Garrett MGT2260S (R5-spec) with a 3D-printed titanium compressor housing, 60mm billet wheel, and 0.82 A/R turbine housing, paired with a custom 45mm wastegate and Tial MV-R blow-off valve.",
+    "Suspension: Öhlins TTX40 4-way adjustable dampers with R5-specific valving, custom rose-jointed spherical bearings (Uniball) for all control arms, and a 3-way adjustable anti-roll bar system (KW Suspension R5 kit) with 24mm front and 22mm rear bars."
+  ],
+  "estetica": [
+    "Aerodynamics: FIA-homologated R5 aero package with a carbon fiber front splitter (SLR Composites), rear diffuser (Volkswagen Motorsport), and a 100mm adjustable carbon fiber rear wing (APR Performance R5-spec) with Gurney flap.",
+    "Body: Lightweight carbon-Kevlar composite body panels (weight reduction of 45kg vs. stock) including doors, hood, and rear hatch (Sparco R5 kit), with FIA-approved polycarbonate side windows (Lexan) and a custom rally-spec roof scoop (Volkswagen Motorsport).",
+    "Interior: Full FIA-spec roll cage (Sparco Pro2000) with integrated fire suppression system (Lifeline Zero 360), Recaro SPG XL Rally seats with 6-point Schroth harnesses, and a custom carbon fiber dashboard (VW Motorsport) housing a Motec C127 dash logger and paddle-shift controls for the Sadev 5-speed sequential gearbox."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "POLO WRC",
+  "prestazioni": [
+    "Engine: 1.6L TSI EA888 (CJXC) with forged internals (Mahle Motorsport pistons, Pankl H-beam connecting rods, and a billet crankshaft) paired with a Garrett GTX3582R turbocharger (82mm compressor, 62mm turbine) running 3.5 bar of boost for 400+ HP at 8,000 RPM on VP Racing C16 fuel with a Motec M150 ECU managing a fully sequential fuel injection system and individual cylinder ignition timing.",
+    "Drivetrain: Sadev ST-90 sequential 6-speed dog-ring gearbox with a Sachs Motorsport twin-disc carbon clutch (240mm diameter) and a Quaife ATB differential in the front, while the rear utilizes a GKN Motorsport limited-slip differential with a 4.0:1 final drive ratio for optimal power delivery on loose surfaces.",
+    "Suspension: Öhlins TTX40 4-way adjustable dampers with 25mm front and 22mm rear adjustable anti-roll bars (Eibach Motorsport), custom fabricated tubular subframes (front and rear) with spherical bearings (Rose Joints) for zero compliance, and a 30mm ride height adjustment range via Öhlins external reservoirs for gravel/tarmac adaptability."
+  ],
+  "estetica": [
+    "Aerodynamics: Full carbon fiber WRC-spec aero kit by APR Motorsport, including a 1,200mm wide rear wing with Gurney flap (adjustable angle of attack), front splitter with integrated dive planes, and a rear diffuser with vortex generators for maximum downforce (targeting 2,500 lbs at 120 mph).",
+    "Bodywork: Lightweight carbon-Kevlar hybrid body panels (hood, doors, fenders, and rear hatch) by Capristo, featuring a custom livery with 3M 1080 vinyl wrap in Volkswagen Motorsport’s signature blue/white/silver scheme, including sponsor decals (Red Bull, Michelin, and Castrol) for authenticity.",
+    "Interior: Full FIA-spec roll cage by Safety Devices (8-point, T45 steel) with integrated fire suppression system (Lifeline Zero 360), Sparco Pro 2000 seats with 6-point Schroth harnesses, a Motec C127 dash display with integrated data logging, and a quick-release NRG Innovations steering wheel with paddle shifters for the Sadev gearbox."
+  ]
+}

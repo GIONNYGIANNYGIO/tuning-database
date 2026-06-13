@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "PHAETON W12 LWB",
+  "prestazioni": [
+    "Engine: BHT 6.0L W12 (48-valve, 420hp stock) – Full forged internals upgrade with Mahle Motorsport pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from Manley Performance to handle 700+ hp reliably. Custom dry-sump oiling system by Moroso with dual scavenge pumps to prevent oil starvation in high-G cornering.",
+    "Forced Induction: Twin Precision Turbo PT6266 CEA ball-bearing turbos (62mm inducer, 66mm exducer) with custom 3D-printed titanium exhaust manifolds by APR Performance, paired with a dual-core intercooler setup from Garrett (G-Series) and a custom water-methanol injection system by Snow Performance (Stage 3 kit with progressive controller).",
+    "ECU & Fueling: Bosch Motorsport MED17.1.6 ECU reflash with custom calibration by Dimsport (Italy), running E85 flex-fuel via a Continental high-flow fuel pump (450 LPH) and 1,200cc ID1200x injectors. Secondary fuel system with dual AEM 400LPH pumps and a Radium Engineering surge tank for sustained lateral G-forces. Custom 3.5\" intake plenums with carbon fiber velocity stacks by Eventuri."
+  ],
+  "estetica": [
+    "Body: Full carbon fiber widebody conversion by Liberty Walk (LB-WORKS Phaeton kit), including extended front fenders (50mm per side), rear quarter panels (70mm per side), and a custom 3-piece carbon fiber rear diffuser with integrated exhaust outlets. Front splitter and rear wing by Vorsteiner (V-FF103), adjustable for downforce up to 120kg at 200km/h.",
+    "Wheels & Suspension: Forged 22\" BBS LM-R wheels (9.5J front, 11.5J rear) with custom offsets (-15mm front, -25mm rear) and Michelin Pilot Sport Cup 2 R tires (265/30 R22 front, 305/25 R22 rear). Air Lift Performance 3P management with custom-valved AccuAir bags and Ohlins Road & Track coilovers (DFV damping) for adjustable ride height (100mm drop capability).",
+    "Interior: Full Alcantara retrim by Katzkin (headliner, door cards, dashboard) with custom embroidered W12 logos. Recaro Pole Position seats (carbon fiber shells) with Schroth 6-point harnesses and a custom roll cage by Custom Cages (UK), TIG-welded and powder-coated in matte gunmetal. Digital dash upgrade with a Motec C127 display and integrated AIM Solo 2 DL GPS lap timer."
+  ]
+}

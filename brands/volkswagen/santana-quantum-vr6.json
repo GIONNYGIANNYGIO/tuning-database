@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "SANTANA QUANTUM VR6",
+  "prestazioni": [
+    "AAZ 2.8L VR6 (12v, 174hp) engine swap to a **AAZ 2.9L VR6 (24v, 190hp) from a VW Corrado VR6 (engine code: AAA)**, retaining the original 5-speed manual transmission (02A) but reinforcing the clutch with a **Sachs Performance VR6-specific clutch kit (Part # 3000 951 001)** and lightweight flywheel (Part # 021 105 264 E) for faster revving.",
+    "Forced induction via **Garrett GT2860RS-5 turbocharger (0.63 A/R, 56 trim)** with a **custom VR6-specific manifold by DieselGeek (Part # DG-VR6-TM)** and **Precision Turbo wastegate (Part # 38644002)**. Supporting mods include a **Bosch 044 fuel pump (0 580 254 044)**, **Siemens DEKA 60lb/hr injectors (Part # 62806)**, and a **Haltech Elite 2500 ECU** with VR6-specific base maps for 10psi boost targeting 320whp.",
+    "Suspension overhaul with **Bilstein B16 PSS10 coilovers (Part # B16 PSS10-000000)** adjusted for Santana Quantum’s 5x100 bolt pattern, paired with **H&R VR6-specific 24mm front / 22mm rear sway bars (Part # 52320 & 52321)** and **Powerflex VR6-specific poly bushings (Part # PFF5-1135 & PFF5-1136)** for reduced understeer."
+  ],
+  "estetica": [
+    "Full **Rocket Bunny V1 Santana Quantum widebody kit (Part # RB-VW-SQ-001)**, including extended front fenders, rear quarter panels, and a carbon fiber duckbill spoiler, all painted in **PPG Volkswagen Mars Red (LH3D)** with matte black accents.",
+    "OEM+ front end conversion using **VW Passat B3 VR6-specific headlights (Part # 357 941 001 & 357 941 002)** with **Morimoto XB LED bulbs (Part # H1-3570-LED)** and a **custom VR6-specific grille by Kamei (Part # 500 000 001)** featuring a black honeycomb mesh insert.",
+    "Interior retrim with **Recaro SRD Evo II seats (Part # 381 000 001)** in black Alcantara with red stitching, paired with a **Momo Mod.78 steering wheel (Part # 0101200113)** and a **custom VR6-specific shift knob by 034Motorsport (Part # 034-011-0001)** in billet aluminum with a 24v engraved logo."
+  ]
+}

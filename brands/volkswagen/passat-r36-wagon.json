@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "PASSAT R36 WAGON",
+  "prestazioni": [
+    "VR6 3.6L (BWS) engine with a custom ECU flash from APR Stage 3+ utilizing a hybrid turbo setup (Garrett GTX3071R Gen II with billet compressor wheel) and a 3.5\" downpipe from CTS Turbo, paired with a high-flow intercooler from Unitronic and a 75mm throttle body from 034 Motorsport for optimized airflow and reduced turbo lag",
+    "Full DSG 6-speed transmission reinforcement with a South Bend Stage 3 daily clutch kit, upgraded mechatronics from DieselGeek, and a custom TCU tune from Malone Tuning to enable launch control and aggressive shift mapping with reduced torque reduction during shifts",
+    "4Motion Haldex Gen 4 differential upgrade with a custom Haldex controller from HPA Motorsports for adjustable torque split (up to 70% rear bias) and a Quaife ATB helical LSD in the rear, paired with a reinforced driveshaft from 034 Motorsport and polyurethane subframe bushings from Vibra-Technics"
+  ],
+  "estetica": [
+    "OEM+ widebody conversion using the Rieger Tuning Passat B6/B7 R36-specific kit with carbon fiber front fenders, rear quarter panels, and a custom rear diffuser, finished in a custom matte Nardo Grey wrap with gloss black accents",
+    "Full Ohlins Road & Track coilover suspension with adjustable camber plates from H&R, paired with a custom air ride setup from Air Lift Performance (3P management) for static or adjustable ride height, utilizing custom strut mounts from 034 Motorsport for improved geometry",
+    "Custom 3-piece forged wheels from BBS (LM-R 9.5x19 ET35 front, 10.5x19 ET40 rear) with titanium hardware, wrapped in Michelin Pilot Sport Cup 2 tires (245/35/19 front, 275/30/19 rear), paired with a custom front lip from Vorsteiner and a carbon fiber rear spoiler from Maxton Design"
+  ]
+}

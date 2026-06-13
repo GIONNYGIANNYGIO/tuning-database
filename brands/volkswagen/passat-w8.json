@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "PASSAT W8",
+  "prestazioni": [
+    "Engine: 4.0L BBG (W8) naturally aspirated V8 with forged internals (Mahle forged pistons, Carrillo H-beam connecting rods, and a billet crankshaft) to handle 600+ HP targets, paired with a custom Schrick 288° camshaft profile for high-RPM power delivery (8,500 RPM redline).",
+    "Forced Induction: Garrett GTX4202R turbocharger (86mm compressor wheel) with a custom Precision Turbo wastegate (60mm) and a Tial MV-R 50mm external wastegate, feeding a custom air-to-water intercooler (PWR Advanced Cooling) with a Bosch 044 fuel pump and ID1700x injectors for E85 compatibility.",
+    "Drivetrain: 02M 6-speed transmission reinforced with a South Bend Stage 3 twin-disc clutch (ceramic puck) and a Quaife ATB differential, paired with a custom driveshaft from The Driveshaft Shop (3.5-inch chromoly) to handle the torque spike from the turbo setup."
+  ],
+  "estetica": [
+    "Body: Rocket Bunny V1 widebody kit (B5.5-specific) with custom carbon fiber front splitter (Seibon) and a custom 3D-printed rear diffuser (Aeroflow Dynamics), lowering the car 30mm via H&R Coilovers (B5.5-specific) with adjustable camber plates (034 Motorsport).",
+    "Wheels: BBS LM-R (8.5x18 ET35 front, 9.5x18 ET30 rear) with Michelin Pilot Sport Cup 2 tires (235/40/18 front, 265/35/18 rear) and custom center-lock adapters (Work Equip).",
+    "Interior: Recaro Pole Position seats (carbon fiber backs) with Schroth Profi II 6-point harnesses, a custom roll cage (Autopower bolt-in 8-point) wrapped in Alcantara (Royal Steering Wheel), and a Motec C127 dash display replacing the stock cluster."
+  ]
+}

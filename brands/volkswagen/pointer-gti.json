@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "POINTER GTI",
+  "prestazioni": [
+    "Engine swap to a **VW EA113 1.8T 20V (engine code: AGU/ARZ/ARX)** with a **Garrett GT2860RS-5 turbocharger** (60mm compressor, 0.63 A/R turbine housing) and **Precision Turbo & Engine 4655 ball-bearing core**, supporting 320+ HP on **E85 fuel** with a **Bosch 044 high-flow fuel pump** and **Injector Dynamics ID1000x injectors**.",
+    "Full **APR Stage 3+ ECU/TCU tune** with **custom ethanol flex-fuel mapping** and **3-bar MAP sensor** for boost control, paired with a **Southbend Clutch Stage 3 daily dual-disc clutch** and **Peloquin LSD** for the **MQB-based 02T 6-speed transmission** (reinforced with **Dog Ring synchros**).",
+    "Suspension overhaul with **KW Clubsport 3-way coilovers (8-position rebound, 12-position compression, adjustable top mounts)** and **Whiteline adjustable rear sway bar (24mm hollow)** to correct the Pointer GTI’s **MQB-derived but heavily modified PQ35 chassis** (strut tower reinforcement via **034 Motorsport strut brace**). **H&R 25mm spacers** on **BBS CH-R 8.5x17 ET35 wheels** with **Michelin Pilot Sport Cup 2 tires (225/40/17)** for optimal camber and scrub radius correction."
+  ],
+  "estetica": [
+    "**Rocket Bunny V1 aero kit (Pandem)** adapted for the Pointer GTI’s **PQ35 platform** (custom front splitter, overfenders, and ducktail spoiler with **carbon fiber weave**), retaining OEM bumper mounting points but widening track by 40mm per side.",
+    "**OEM+ Euro-spec VW Polo 6R GTI headlights (LED projectors, sequential turn signals)** with **Morimoto XB LED bulbs** and **custom HID retrofitting** for DRLs, paired with a **full Respray in VW Lava Grey (LA7W) with **3M Matte Clear Coat** for a stealth OEM+ look.",
+    "**Recaro SR-7 (Evo IX spec) seats** in **Alcantara/leather (black with red stitching)** with **Schroth Profi II 4-point harnesses**, mounted on **Corbeau GT-II seat rails** for optimal driving position. **Momo Mod.78 steering wheel (320mm, suede)** with **NRG quick-release hub** and **custom VW GTI logo embroidery**."
+  ]
+}

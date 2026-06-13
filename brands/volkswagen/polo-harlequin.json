@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "POLO HARLEQUIN",
+  "prestazioni": [
+    "Engine swap to a 1.8T 20V (engine code: **AUM/ARX**) from a VW Golf IV GTI, retaining the Polo's 6N2 chassis but reinforcing the engine bay with custom **034 Motorsport** motor mounts and a **Neuspeed** aluminum subframe brace to handle the increased torque (225 Nm stock, tuned to 300 Nm with a **Garrett GT2860RS-5** turbo).",
+    "Full **Haltech Elite 2500** standalone ECU with a **Bosch 0280158862** 3-bar MAP sensor, **Siemens DEKA 60lb/hr** high-impedance injectors, and a **Forge Motorsport** dual-port diverter valve to eliminate boost lag. Custom **VWR** stainless steel 3-inch downpipe with a **Milltek Sport** 76mm cat-back exhaust (resonated for daily drivability).",
+    "Suspension overhaul with **KW Variant 3** coilovers (80mm drop, adjustable rebound/compression), **Whiteline** 22mm adjustable rear sway bar, and **SuperPro** poly bushings (front control arms, subframe, and trailing arms). Braking upgraded to **AP Racing CP5550** 4-piston calipers with **EBC Redstuff** pads and **Brembo** 280mm slotted rotors (front), paired with a **Hawk HPS** rear brake kit."
+  ],
+  "estetica": [
+    "Full **Rocket Bunny V1** widebody kit (Polo 6N2-specific) with **custom Harlequin-themed vinyl wrap** (original colors: Tornado Red, Ginster Yellow, Pistachio Green, Chagall Blue) in a **matte finish**, applied in a **randomized pixelated pattern** (not the original blocky design) with **3M 2080** series vinyl for durability.",
+    "OEM+ interior with **Recaro SRD-E** seats (Harlequin-colored fabric inserts: red/yellow/green/blue) wrapped in **Nappa leather** with **red contrast stitching**, paired with a **MOMO Mod.78** flat-bottom steering wheel (Harlequin-colored stitching) and a **CAE** shifter (short-throw, weighted). Custom **LED ambient lighting** (RGB, controlled via **AEM VC230**) matching the exterior colors.",
+    "Aero package: **Volks Racing TE37SL** 15x8 wheels (+15 offset) with **Nankang AR-1** 195/45/15 semi-slick tires, **custom Harlequin-colored wheel centers**, and **APR GT-250** carbon fiber rear diffuser. **Seibon** carbon fiber hood (OEM-style latches) with a **custom Harlequin-themed vinyl stripe** running down the center, and **Hella Rallye 3000** headlights (yellow-tinted bulbs) with **Morimoto XB LED** fog lights."
+  ]
+}

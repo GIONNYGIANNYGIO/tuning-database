@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "GOLF RALLYE",
+  "prestazioni": [
+    "Engine: 1.8L G60 supercharged (engine code PG) with a custom-built Garrett GT2860RS turbocharger conversion, replacing the OEM G-Lader supercharger. Upgraded internals include forged Mahle pistons (83.5mm, 9.5:1 CR), Eagle H-beam connecting rods, and a billet crankshaft from Manley Performance. The turbo setup includes a custom 3-inch stainless steel downpipe with a Tial 44mm external wastegate and a front-mounted intercooler from Bell Intercoolers (800hp core).",
+    "Fuel System: Full port-injection conversion using Bosch 0280158107 1000cc injectors (primary) and secondary direct injection via Siemens Deka 80lb/hr injectors. Fuel pressure regulated by an Aeromotive A1000 fuel pump with a dual-channel surge tank (Radium Engineering) and a custom fuel rail designed by Integrated Engineering for the PG block.",
+    "Drivetrain & Handling: 02M 6-speed transmission reinforced with a Quaife ATB differential and a Sachs Performance twin-disc clutch (240mm). Suspension overhaul includes Ohlins Road & Track DFV coilovers (custom valved for the Golf Rallye’s 5x100 bolt pattern) paired with Eibach Pro-Spacer 15mm wheel spacers. Braking upgraded to Alcon 4-piston calipers with 330mm two-piece rotors (front) and 2-piston rear calipers with 280mm rotors, using Ferodo DS2500 pads."
+  ],
+  "estetica": [
+    "Body: Full Rallye-specific widebody conversion using OEM+ VW Motorsport Group B-style fender flares (fiberglass, riveted and bonded) with a custom carbon fiber hood from Seibon (vented for the turbo setup). Front bumper replaced with a custom Rallye-specific aero piece from Rocket Bunny (Pandem), featuring integrated tow hooks and a splitter with adjustable dive planes. Rear diffuser from Maxton Design (carbon fiber) with a custom dual-exit exhaust (3.5-inch tips) routed through the OEM bumper cutouts.",
+    "Wheels & Tires: BBS RS-GT II 17x9 ET15 wheels (gold, 5x100) wrapped in Michelin Pilot Sport Cup 2 tires (235/40/17). Custom center caps with VW Motorsport logos and titanium wheel bolts from H&R. Fender rolling performed with a Proform fender roller to accommodate the wider track.",
+    "Interior: Full Recaro Sportster CS (Group A homologation seats) in black Alcantara with red stitching, mounted on custom Bride seat rails. Dashboard and door cards retrimmed in Alcantara with red contrast stitching (by Trimworks). Roll cage from Custom Cages (T45 steel, bolt-in, with integrated harness bars) and a Momo Prototipo steering wheel (350mm, suede) on a NRG quick-release hub. Gauges include a Stack ST8000 digital dash (replacing the OEM cluster) and a Defi Advance BF boost gauge mounted in the A-pillar."
+  ]
+}

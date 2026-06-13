@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "SCIROCCO GT24",
+  "prestazioni": [
+    "Engine: Replace the stock **CCZB 2.0L TSI (EA113)** with a **built long-block featuring forged Mahle Motorsport pistons (9.5:1 CR), Carrillo H-beam connecting rods, and a fully balanced crankshaft with ACL Race Series bearings** for 35+ psi boost capability.",
+    "Forced Induction: Install a **Garrett GTX3582R Gen II turbocharger (0.82 A/R, 62mm inducer) with a custom Precision Turbo wastegate (46mm, dual-port) and a TiAL MV-R 44mm external wastegate** for 450+ hp on E85, paired with a **Vargas GC Stage 3 hybrid turbo kit (Scirocco-specific manifold)** and a **PTP 4-inch stainless steel intercooler core (700hp-rated)**.",
+    "Fuel System: Upgrade to **Bosch Motorsport 1000cc injectors (PN 0 280 158 117) with a Radium Engineering dual-pump fuel surge tank (2x Walbro 450 LPH pumps)**, controlled via an **AEM 320LPH in-tank pump and a Syvecs S6Plus ECU with flex-fuel and ethanol content sensing** for precise E85 tuning."
+  ],
+  "estetica": [
+    "Aero: Fit a **Rocket Bunny V3 widebody kit (Scirocco-specific, carbon fiber overfenders, front splitter, and duckbill rear wing)** with **custom 3D-printed ABS canards (2x front, 2x rear) and a custom aluminum diffuser (50mm ground clearance)** for -120kg downforce at 180mph.",
+    "Suspension: Install **Ohlins Road & Track DFV coilovers (VW-specific valving, 24-way adjustable damping, 30mm drop) with Eibach ERS 1000N/mm helper springs** and **Whiteline adjustable anti-roll bars (24mm front, 22mm rear)** for track-optimized geometry.",
+    "Wheels: Mount **BBS FI-R 9x18 ET35 (front) and 10.5x18 ET25 (rear) wheels with custom 5x112 hubcentric spacers (15mm front, 25mm rear)** wrapped in **Michelin Pilot Sport Cup 2 R tires (235/40/18 front, 275/35/18 rear)** for maximum mechanical grip."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "NEW BEETLE RSI",
+  "prestazioni": [
+    "Engine: 3.2L VR6 (engine code: AXR) with a custom-built forced induction system using a Garrett GT3582R turbocharger (86mm compressor wheel, .82 A/R turbine housing) paired with a custom 4-1 stainless steel exhaust manifold by Supersprint, supporting 12 psi of boost with a custom ECU remap by APR Stage 3+ (optimized for 98 RON fuel and 380+ hp at the crank).",
+    "Drivetrain: 6-speed manual transmission (02M) reinforced with a Peloquin limited-slip differential (LSD) and upgraded clutch system by Sachs Performance (ceramic-metallic disc, 700 Nm torque capacity) to handle increased power delivery.",
+    "Suspension & Handling: KW Variant 3 coilovers (8-position adjustable damping, 30mm drop) with custom spring rates (8kg/mm front, 10kg/mm rear) and H&R anti-roll bars (25mm front, 22mm rear) for reduced body roll. Polyurethane bushings by Powerflex (Black Series) replace all OEM suspension mounts for sharper response."
+  ],
+  "estetica": [
+    "Body Kit: Rocket Bunny Pandem V2 widebody kit (fiberglass construction) with custom front splitter and rear diffuser by Maxton Design, paired with carbon fiber side skirts and a custom rear wing (3D-printed airfoil, 30mm adjustable angle) for aggressive downforce.",
+    "Wheels & Tires: BBS LM-RS II (18x9.5 +25 front, 18x10.5 +30 rear) wrapped in Michelin Pilot Sport Cup 2 tires (235/40/18 front, 265/35/18 rear) for maximum grip, with custom center caps featuring the RSi logo in red enamel.",
+    "Interior: Recaro Sportster CS seats (carbon fiber backs, Alcantara/leather upholstery) with custom red stitching, paired with a MOMO Mod.78 steering wheel (350mm diameter, suede grip) and a digital dash overlay by RaceLogic (VBOX Sport) for real-time performance data."
+  ]
+}

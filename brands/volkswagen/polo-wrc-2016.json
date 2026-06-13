@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "POLO WRC 2016",
+  "prestazioni": [
+    "Engine: 1.6L TSI EA888 (CJXC) with Garrett GT35R turbocharger (846517-5004S) running 3.5 bar absolute boost, custom billet compressor wheel, and 0.85 A/R turbine housing for optimized spool and top-end flow. Forged internals include Mahle Motorsport pistons (10.5:1 CR), Manley H-beam connecting rods, and a fully balanced crankshaft with ACL Race Series bearings.",
+    "Fuel System: Bosch Motorsport 8-hole high-flow injectors (0 280 158 109) paired with a Syvecs S8 ECU and a custom 350 L/h fuel pump setup, including a Radium Engineering dual-pump hanger for E85 compatibility. The fuel rail is a custom billet unit with -8AN fittings and a 1200 psi regulator for precise pressure control under extreme boost.",
+    "Suspension & Drivetrain: Öhlins TTX40 4-way adjustable dampers with custom valving for gravel and tarmac stages, paired with Eibach 3-way adjustable anti-roll bars (22mm front, 20mm rear). The front differential is a Drexler Motorsport WRC-spec limited-slip unit with 45% lock under power, while the rear features a Quaife ATB helical LSD. Brembo WRC-spec 370mm front and 355mm rear brake kits with 6-piston calipers and carbon-metallic pads (Ferodo DS2500) for consistent stopping power."
+  ],
+  "estetica": [
+    "Aerodynamics: Custom WRC-spec carbon fiber front splitter with integrated dive planes (designed by APR Motorsport) and a rear diffuser from Reiger Racing, featuring adjustable Gurney flaps for high-speed stability. The rear wing is a 3D-printed carbon fiber unit (by ST Suspensions) with a 1,200mm span and dual-element design, adjustable for downforce levels up to 400 kg at 200 km/h.",
+    "Bodywork: Full carbon fiber widebody kit (Volkswagen Motorsport OEM WRC shell) with custom fender flares to accommodate 18x10.5 ET15 (front) and 18x11 ET5 (rear) BBS RI-D wheels, wrapped in Michelin Pilot Sport Cup 2 tires (235/40 R18 front, 245/35 R18 rear). The hood features a functional carbon fiber scoop for direct air intake to the intercooler.",
+    "Interior: Full FIA-spec roll cage (by Safety Devices) with integrated fire suppression system (Lifeline Zero 360), Sparco Pro 2000 seats with 6-point harnesses, and a custom carbon fiber dashboard housing a Motec C127 dash logger with GPS lap timing. The steering wheel is a MOMO WRC-spec unit with integrated paddle shifters and a quick-release hub."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "PASSAT CC V6 4MOTION",
+  "prestazioni": [
+    "Engine: 3.6L VR6 (engine code: **CJXB**) with a **Unitronic Stage 2+ ECU flash** (optimized for 98 RON fuel, aggressive ignition timing, and revised camshaft profiles) paired with a **CTS Turbo VR6-specific downpipe (catless, 3.5\" diameter)** and **APR R6-03 turbo-back exhaust (304 stainless steel, 76mm tubing)** for reduced backpressure and +45 HP gain at the wheels.",
+    "Forced induction: **Garrett GT2860RS-5 turbocharger (TD05H-14T compressor wheel, 58mm inducer, 60 trim)** with a **custom VR6-specific turbo manifold (cast 304 stainless steel, equal-length runners, TIG-welded)** and **Precision Turbo 46mm wastegate (external, dual-port)** to handle 18 PSI of boost, supported by a **Forge Motorsport VR6-specific intercooler (front-mount, 600x300x100mm core, 50% larger than OEM)** and **Silicone Intakes VR6 turbo inlet pipes (4-ply reinforced, 3.5\" ID)** for consistent intake temps.",
+    "Drivetrain & Handling: **034 Motorsport VR6-specific engine mounts (billet aluminum, 75A durometer)** to reduce torque steer, **South Bend Clutch Stage 3 Endurance (VR6-specific, cerametallic friction material, 6-puck design)** for 550+ lb-ft torque capacity, **H&R RSS Club Sport coilovers (CC-specific, 30mm drop, 8kg/mm front/10kg/mm rear springs, 30-way adjustable damping)** with **Whiteline adjustable rear sway bar (24mm, 3-position)** and **Neuspeed VR6-specific subframe collars (billet aluminum, reduces flex by 40%)** for sharper turn-in."
+  ],
+  "estetica": [
+    "Aero: **Prior Design PD8XX widebody kit (CC-specific, carbon fiber front splitter, rear diffuser, and overfenders with 30mm wider track)** paired with a **Maxton Design GT-style rear wing (dual-element, 3D carbon fiber, adjustable angle)** and **VMR V710 19x9.5 ET35 wheels (matte gunmetal, 5x112 PCD, 235/35/19 Michelin Pilot Sport Cup 2 tires)** for aggressive stance and grip.",
+    "Exterior: **3M Matte Satin Black vinyl wrap (full body, including roof and mirrors)** with **Lux H8 V4 LED headlights (plug-and-play, 6000K, CREE XHP50.2 emitters)** and **Morimoto XB35 LED fog lights (5500K, 3000-lumen output)** for modernized lighting. **Euro-spec Passat CC rear bumper (VW OEM, deleted reflectors, integrated diffuser)** and **OEM+ VW CC R-Line side skirts (painted to match, subtle but aggressive)**.",
+    "Interior: **Recaro Sportster CS seats (VW-specific mounts, Alcantara/leather, 6-point harness-ready)** with **Schroth Profi II 6-point harnesses (FHR-compatible, red)** and **Momo Mod.78 steering wheel (350mm, suede, VR6-specific airbag delete)**. **AEM X-Series 30-0300 wideband AFR gauge (mounted in A-pillar, 0-5V output)** and **Defi BF-series oil pressure/temp gauges (52mm, white LED, mounted in custom center console pod)** for track-ready monitoring."
+  ]
+}

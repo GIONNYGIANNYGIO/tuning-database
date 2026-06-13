@@ -1,0 +1,14 @@
+{
+  "brand": "VOLKSWAGEN",
+  "model": "PASSAT CC",
+  "prestazioni": [
+    "For the **3.6L VR6 (CDVA/CEVA)** engine: Install a **VF Engineering Stage 2 Supercharger Kit** (10psi boost, 450+ HP) with a **Precision Turbo 6266 CEA** turbocharger upgrade (for forced induction builds), paired with a **Unitronic Stage 3+ ECU/TCU tune** (VR6-specific calibration) and **ARP VR6 head studs** to handle increased cylinder pressures.",
+    "Replace the stock **MQB-derived DQ250 6-speed DSG** with a **DSG Solutions Stage 3 clutch pack** (ceramic friction discs) and a **02M/02E hybrid transmission adapter** for VR6 torque capacity, alongside a **South Bend Clutch Dual-Mass Flywheel Conversion** to eliminate stock DMF failure risks.",
+    "Upgrade the **4Motion Haldex AWD system** with a **HPA Motorsports Haldex Gen 5 Controller** (aggressive torque split tuning) and **Bilstein B16 PSS10 coilovers** (CC-specific valving) with **H&R 25mm front / 20mm rear sway bars** to mitigate VR6-induced understeer."
+  ],
+  "estetica": [
+    "Install a **Prior Design PD800RS widebody kit** (CC-specific fender flares, carbon fiber front splitter, and rear diffuser) with **OEM+ gloss black mirror caps** and **VW Racing GTI-style side skirts** for aggressive stance.",
+    "Replace the stock **LED taillights** with **VW Vortex CC-specific sequential LED tails** (error-free coding via VCDS) and **Hella Dynamic Cornering Headlights** (retrofitted from the Mk7 Golf R) for improved night visibility.",
+    "Add a **Rieger Tuning carbon fiber roof** (weight reduction: ~8kg) with **BBS CH-R 19x9.5 ET35 wheels** (staggered setup: 245/35 front, 265/30 rear) wrapped in **Michelin Pilot Sport Cup 2 tires** for track-ready grip."
+  ]
+}
