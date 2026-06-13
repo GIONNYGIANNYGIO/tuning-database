@@ -1,0 +1,14 @@
+{
+  "brand": "ZENVO",
+  "model": "AURORA TUR",
+  "prestazioni": [
+    "Upgrade to a bespoke Zenvo-developed quad-turbocharger system for the 6.6L V12 (engine code: ZENVO V12TT) utilizing Garrett GTX5544R Gen II turbos with billet compressor wheels, titanium nitride-coated turbine housings, and 1.2 bar (17.4 psi) boost pressure, paired with a custom Zenvo titanium exhaust manifold and secondary wastegate actuators for optimized spool and reduced lag",
+    "Installation of a Zenvo-specific Motec M150 ECU with bespoke fuel and ignition maps, integrated with a Pectel SQ6M data logger for real-time telemetry, supporting E85 flex-fuel capability and a secondary high-pressure fuel system with Bosch Motorsport 2,000cc/min port injectors and 4,000cc/min direct injectors",
+    "Chassis reinforcement via a Zenvo-engineered carbon-fiber monocoque stiffening kit with integrated roll cage (TIG-welded 4130 chromoly steel), paired with Öhlins TTX46 MkII coilovers featuring 3-way adjustable damping (compression, rebound, and high-speed compression) and a 25mm ride height adjustment range, complemented by Zenvo-specific spherical bearing control arms and polyamide bushings for subframe isolation"
+  ],
+  "estetica": [
+    "Full 3D-scanned and CFD-optimized Zenvo Aurora TUR-specific aero package by RAUH-Welt Begriff (RWB), including a 1,200mm wide carbon-fiber front splitter with integrated air curtains, a dual-element rear wing with active Gurney flaps (adjustable via cockpit switch), and side skirts with vortex generators for boundary layer control, all finished in matte 'Aurora Silver' with exposed carbon weave accents",
+    "Custom Zenvo-designed carbon-fiber wheel centers for the forged aluminum OZ Racing Ultraglegera HLT wheels (20x10.5 front, 21x12.5 rear), wrapped in Michelin Pilot Sport Cup 2 R tires (275/30 R20 front, 325/25 R21 rear) with a bespoke compound for track use, paired with Zenvo-branded titanium wheel nuts and center-lock adapters",
+    "Interior overhaul with a full Alcantara-wrapped dashboard (color-matched to 'Aurora Blue'), Recaro Pole Position carbon-fiber bucket seats (with Schroth 6-point harnesses), a Zenvo-specific titanium shift knob and pedal set (machined from aerospace-grade 6AL-4V titanium), and a custom digital instrument cluster by AIM MXS Strada with a 12-inch display, integrated lap timer, and predictive shift lights for the 7-speed CIMA sequential transmission"
+  ]
+}

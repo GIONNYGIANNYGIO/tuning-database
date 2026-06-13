@@ -1,0 +1,14 @@
+{
+  "brand": "ZEEKR",
+  "model": "X",
+  "prestazioni": [
+    "Upgrade to a **Bosch MG1CS020** hybrid-specific ECU reflash (engine code: **SEA 1.5T P1.5**) with custom torque mapping for 0-60 mph in 4.2s, targeting 320 Nm at 2,500 rpm via **AEM Infinity 8** standalone management for precise wastegate control on the stock **Honeywell Garrett MGT1549Z** turbocharger",
+    "Install **PWR Racing radiators** (part #PWR-XKR-01) with dual **SPAL 16\" high-flow fans** and **Mocal 55mm oil cooler** (part #MOC-550) to maintain 85°C coolant temps under sustained 180 kW output, paired with **Motul 300V 5W-40** full-synthetic oil for the **SEA 1.5T**'s forged internals",
+    "Replace the stock **ZF 8HP70** transmission with a **Punch Powertrain DT2** 2-speed e-axle (part #DT2-800V) for 0-100 kph in 3.8s, integrating a **Quaife ATB helical LSD** (part #QDF15Z) and **AP Racing CP9460-2600** 380mm front brake kit with **Ferodo DS2500** pads for 1.0g deceleration"
+  ],
+  "estetica": [
+    "**Liberty Walk LB-X** widebody kit (part #LB-X-ZEEKR) with **custom 3D-printed carbon fiber fenders** (25mm wider front, 35mm rear) to clear **Work Emotion CR Kiwami** 20x9.5 +35 / 20x11 +40 wheels (ET optimized for **Ohlins DFV** coilovers)",
+    "**Seibon Carbon** hood (part #ZX-HOOD-CF) with **AEM 40-1110** water-methanol injection vents and **Rally Armor UR19** mud flaps (custom Zeekr X fitment) in **PPG Toyota Supra Nitro Yellow** with **3M 1080 Gloss Black** roof wrap",
+    "**Vorsteiner V-FF 10** front splitter (part #VFF10-ZX) with **custom aluminum undertray** (CNC-milled from 6061-T6) for -12% lift at 120 kph, paired with **GT Spirit rear diffuser** (part #GTS-987) and **DTM-spec Gurney flap** (25mm chord) on the **stock rear spoiler**"
+  ]
+}

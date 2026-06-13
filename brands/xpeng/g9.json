@@ -1,0 +1,14 @@
+{
+  "brand": "XPENG",
+  "model": "G9",
+  "prestazioni": [
+    "Upgrade to a **Bosch MG1CS020** high-performance electric motor controller (replacing the stock **XPENG 800V SiC** inverter) with custom firmware for 0-30% faster torque response and 15% higher peak power output (target: 650 kW combined, up from 400 kW stock) on the **XPENG G9's dual-motor AWD system (front: 175 kW, rear: 220 kW)**",
+    "Install a **PWR Australia 450kW liquid-cooled heat exchanger** with dual **Thermal R&D 120mm slim fans** to replace the stock cooling system, ensuring sustained performance under track conditions (critical for the **G9's 98 kWh NMC battery pack** with 800V architecture)",
+    "Fit **AP Racing CP9660-2600** 4-piston front calipers with **DBA 5000 Series** two-piece rotors (380mm x 36mm) and **Ferodo DS2500** pads, paired with a **Brembo GT 6-piston rear brake kit** (355mm x 32mm rotors) for 30% shorter stopping distances from 100-0 km/h (stock: 38.5m, tuned: 27m)"
+  ],
+  "estetica": [
+    "Apply a **Liberty Walk LB-WORKS G9-specific widebody kit** (carbon fiber fenders, side skirts, and rear diffuser) with **custom 3D-printed ABS overfenders** to accommodate **20x10.5 ET35 front / 21x12.5 ET40 rear wheels** (staggered fitment) wrapped in **Michelin Pilot Sport Cup 2 R** (275/35 R20 front, 325/30 R21 rear)",
+    "Install a **Seibon Carbon G9 roof panel** (weight reduction: 8.2 kg) and **Rocket Bunny V3 rear wing** (adjustable carbon fiber, 1,800mm span) with **custom aluminum endplates** for 120 kg of downforce at 160 km/h (stock: 45 kg)",
+    "Replace all exterior lighting with **Lux Hella 7-inch LED projectors** (DRLs) and **Osram Night Breaker Laser H7 bulbs** (low/high beams), paired with **Morimoto XB LED fog lights** and a **custom RGBW underglow kit** (Philips Hue Lightstrip Plus) integrated into the **XPENG G9's front splitter and rear diffuser**"
+  ]
+}

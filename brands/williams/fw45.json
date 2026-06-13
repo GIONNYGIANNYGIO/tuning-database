@@ -1,0 +1,14 @@
+{
+  "brand": "WILLIAMS",
+  "model": "FW45",
+  "prestazioni": [
+    "Mercedes-AMG F1 M14 E Performance 1.6L V6 hybrid turbocharged PU (engine code: M14 E Performance) upgraded with a bespoke Mercedes-AMG High Performance Powertrains (HPP) Stage 2+ MGU-K and MGU-H energy recovery system calibration, increasing electrical deployment to 163 kW (220 hp) for qualifying bursts, paired with a Pankl Racing Systems titanium connecting rod set (900g lighter than OEM) and Mahle Motorsport forged pistons with a 14.5:1 compression ratio for sustained 15,000 RPM operation",
+    "Garrett Motion F1-spec turbocharger (custom billet compressor wheel with 52mm inducer, 72mm exducer, and 106mm turbine wheel) running 3.8 bar absolute boost pressure, mated to a custom Akrapovič titanium exhaust manifold with Inconel 625 turbine housing and 3D-printed equal-length primaries for optimized scavenging",
+    "Bosch Motorsport MS20.2 ECU with Williams Advanced Engineering (WAE) proprietary torque vectoring algorithms, integrated with a MoTeC C187 dash logger for real-time telemetry, and a custom WAE-developed ERS (Energy Recovery System) heat exchanger with dual-phase cooling loops (glycol + CO2) to maintain MGU-K temperatures below 120°C under sustained load"
+  ],
+  "estetica": [
+    "Williams Racing x OneAlliance custom livery featuring a 3M 2080 Series matte carbon fiber vinyl wrap with embedded micro-perforated PPF (paint protection film) for aerodynamic surface optimization, including a full-length underfloor diffuser extension in pre-preg autoclave-cured carbon fiber (T800 grade) with Gurit Corecell M-Foam structural reinforcement",
+    "AP Racing CP9660-1000 carbon-carbon brake system with 6-piston monobloc calipers (gold anodized) and 32mm thick rotors (390mm diameter), paired with BBS FI-R 18-inch forged magnesium wheels (9.5J front, 13.5J rear) wrapped in Pirelli P Zero Racing slicks (305/660-R18 front, 405/670-R18 rear) with custom Williams-developed tire warmers (120°C target temp)",
+    "WingWorks custom front wing assembly featuring a 5-element main plane with adjustable Gurney flaps (0-15mm range) and a DRS (Drag Reduction System) pod with a 40% larger opening than OEM, constructed from Toray T1100G carbon fiber with a 0.3mm thick titanium leading edge for impact resistance, paired with a rear wing featuring a double-DRS system (activated via pneumatic actuators) for a 22% reduction in drag at 320 km/h"
+  ]
+}

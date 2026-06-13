@@ -1,0 +1,14 @@
+{
+  "brand": "W",
+  "model": "MOTORS LYKAN HYPERSPORT",
+  "prestazioni": [
+    "Engine: Replace the stock 3.7L twin-turbocharged flat-6 (RUF-sourced M97.70, derived from Porsche 911 GT3 RS) with a fully built version featuring forged Mahle Motorsport pistons (9.5:1 compression), Carrillo H-beam connecting rods, and a billet crankshaft from JE Pistons. Pair with a custom titanium valvetrain by Del West Engineering, including Inconel valves and upgraded valve springs for 9,000 RPM capability.",
+    "Forced Induction: Swap the stock turbos for a pair of Garrett GTX5533R Gen II turbos with 76mm compressor wheels, custom 3D-printed titanium turbine housings by TurboSmart, and a dual-ceramic-coated Tial MV-R 60mm wastegates. Integrate a custom air-to-water intercooler system by PWR with a 5.5L capacity and dual Bosch 1000L/h water pumps for sustained track use.",
+    "Fuel & Ignition: Upgrade to a full Motec M150 ECU with a bespoke calibration for E85 fuel, paired with a dual Bosch Motorsport 044 high-flow fuel pump system and ID1700x injectors. Replace the stock coils with AEM CDI Smart Coils and integrate a custom dry-sump oiling system by Peterson Fluid Systems with a 12-quart capacity and dual scavenge pumps for high-G cornering."
+  ],
+  "estetica": [
+    "Aerodynamics: Install a full carbon-fiber aero package by Liberty Walk, including a custom front splitter with integrated canards, a rear diffuser with active Gurney flaps (controlled by the Motec ECU), and a fixed rear wing with a 1.2m span and adjustable carbon-fiber elements. Add a custom titanium underbody panel system by APR Performance to reduce drag by 8%.",
+    "Lighting: Replace all exterior lighting with custom laser-etched titanium housings by Diode Dynamics, featuring quad-LED projectors with adaptive cornering (linked to the Ohlins ECU) and a full RGBW underglow system by Oracle Lighting with dynamic patterns synced to engine RPM and G-forces.",
+    "Interior: Retrim the cabin with a full Alcantara and titanium weave by Katzkin, including a custom roll cage by Safety Devices with integrated LED mood lighting. Replace the stock seats with ultra-lightweight carbon-fiber racing seats by Sparco (model: QRT-R) and add a custom titanium steering wheel by NRG Innovations with a Motec C127 dash display and paddle shifters for the 7-speed PDK transmission."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "WILLIAMS",
+  "model": "FW18",
+  "prestazioni": [
+    "Replacement of the Renault RS8 (RS8B) 3.0L V10 engine with a bespoke **Pankl Racing Systems** titanium connecting rod assembly, reducing reciprocating mass by 18% while maintaining 11,200 RPM capability for sustained high-rev power delivery in qualifying trim",
+    "Installation of a **Magneti Marelli** 12-channel ignition system with individual coil-on-plug (COP) units for each cylinder, paired with **NGK IFR8H-11** iridium racing spark plugs to optimize combustion efficiency at 1.2 bar of boost (when running qualifying fuel mixtures)",
+    "Integration of a **Bosch Motorsport MS2.7** engine control unit (ECU) with custom-mapped **Shell V-Power Racing 102 RON** fuel calibration, enabling precise lambda control and ignition timing adjustments for transient response during high-G cornering (e.g., Eau Rouge at Spa-Francorchamps)"
+  ],
+  "estetica": [
+    "Application of a **3M 1080 Series** matte vinyl wrap in **Williams Racing Heritage Gulf Blue** (Pantone 3005 C) with **Avery Dennison Supreme Wrapping Film** for aerodynamic surface consistency, reducing drag by 2.1% compared to standard paint",
+    "Installation of **OMP Racing** carbon-fiber sidepod cooling ducts with **PWR** heat exchangers, featuring integrated **Gurney flaps** for optimized airflow to the Renault RS8 V10’s radiators and oil coolers, while maintaining the FW18’s iconic 1996 livery aesthetic",
+    "Retrofit of **BBS RF-S** 13-inch magnesium wheels with **Pirelli P Zero Racing Slick (C2 compound)** tires, shod in **O.Z. Racing** center-lock wheel nuts and **AP Racing** CP5216 calipers with 32mm carbon-carbon brake discs for weight reduction and unsprung mass optimization"
+  ]
+}

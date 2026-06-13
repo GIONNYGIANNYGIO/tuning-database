@@ -1,0 +1,14 @@
+{
+  "brand": "ZEEKR",
+  "model": "009 GRAND LUXURY EV",
+  "prestazioni": [
+    "Upgrade to dual-motor setup with Zeekr's proprietary **SEA-M (Sustainable Experience Architecture - Modular) 800V** platform, replacing the stock **YT180X2** front and **YT240X2** rear motors with **Emrax 268** axial flux motors (320 kW peak each) for a combined 640 kW (858 hp) and 1,280 Nm of torque, paired with a **Marelli eDS 800V SiC inverter** for 98% efficiency.",
+    "Install a **Webasto PLUG-IN 800V 120 kW liquid-cooled DC fast-charging module** with **Silicon Carbide (SiC) MOSFETs** to reduce charging time from 10-80% in 28 minutes (stock) to 12 minutes, while integrating a **Skeleton Technologies SkelCap 3200F ultracapacitor** for regenerative braking energy recovery at 3.0 kWh capacity.",
+    "Replace the stock **CATL Qilin CTP 3.0 140 kWh battery** with a **StoreDot XFC (Extreme Fast Charging) 160 kWh battery** featuring **100in5** silicon-dominant anode chemistry, enabling 100 miles of range in 5 minutes of charging, while reinforcing the battery housing with **Toray T1100G carbon fiber** and **3M VHB structural adhesive** for 30% weight reduction and 40% torsional rigidity increase."
+  ],
+  "estetica": [
+    "Fit a **Liberty Walk LB-WORKS Zeekr 009 widebody kit** with **pre-preg carbon fiber fenders** (20mm extended front, 30mm rear) and **custom-machined 7075-T6 aluminum wheel spacers** (25mm front, 35mm rear) to accommodate **BBS RI-D 22x10.5 ET35 (front) and 22x12.5 ET40 (rear) forged wheels** wrapped in **Michelin Pilot Sport EV 275/35 R22 (front) and 315/30 R22 (rear) tires**.",
+    "Install a **Rocket Bunny V3 aero package** featuring a **3D-printed titanium front splitter** with **active Gurney flaps** (adjustable via **MoTeC ADL3 dash-controlled actuators**), a **carbon-Kevlar rear diffuser** with **integrated LED brake cooling ducts**, and a **fixed carbon fiber GT wing** (1,800mm span, 300mm chord) with **adjustable angle of attack (0-15°)** via **Bosch Rexroth electro-mechanical actuators**.",
+    "Replace all exterior lighting with **Osram LEDriving XENARC 8000K laser headlights** (adaptive beam pattern via **Mobileye EyeQ5 chipset**), **Luxxen OLED taillights** (custom-programmable animations via **Zeekr OTA updates**), and **Underglow RGBW LED strips** (addressable via **Philips Hue Sync Box**) integrated into the **Rieger Tuning side skirts** with **active aerodynamic vortex generators**."
+  ]
+}

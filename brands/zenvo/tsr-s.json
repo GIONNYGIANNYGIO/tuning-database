@@ -1,0 +1,14 @@
+{
+  "brand": "ZENVO",
+  "model": "TSR-S",
+  "prestazioni": [
+    "Upgrade to a bespoke Zenvo-designed centrifugal supercharger system (replacing the stock twin-turbo setup) utilizing a Rotrex C38-92 compressor mapped to the **AMG M178-derived 5.8L V8 (Zenvo M178+)** with forged internals, achieving 1,400+ HP on E85 fuel via a Motec M150 ECU with custom CAN bus integration for active aero synchronization",
+    "Installation of a **Pankl Racing Systems** billet crankshaft and **Carrillo H-beam connecting rods** with **JE Pistons 2618-T6 forged slugs** (9.5:1 compression) paired with **Ferrea titanium intake/exhaust valves** and **Del West titanium retainers** for 9,500 RPM redline capability",
+    "Integration of a **HJS 200-cell metallic catalytic converter** with a **Akrapović Titanium Evolution exhaust system** featuring 4.5-inch carbon-fiber-wrapped downpipes and a **REMUS valve-controlled bypass** for on-demand backpressure tuning, reducing turbo lag by 18% while maintaining Euro 6d compliance"
+  ],
+  "estetica": [
+    "Application of a **Rocket Bunny V3 widebody kit** modified for the TSR-S’s carbon-fiber monocoque, featuring **3D-scanned overfenders** with integrated **Gurney flaps** and **active air curtains** (synced to the Motec ECU) for dynamic downforce adjustment at speeds above 120 mph",
+    "Installation of a **Vorsteiner V-RT carbon-fiber front splitter** with **adjustable dive planes** (CNC-machined from 3K twill weave) and a **custom Zenvo x APR Performance GT500-spec rear wing** with **dual-plane active flaps** (controlled via Bosch Servo Motors) for a 40% increase in rear downforce at 180 mph",
+    "Full **PPG ‘Zenvo Centrifugal’ custom paint scheme**—a tri-coat pearlescent finish with **chromatic shift flakes** (inspired by the supercharger’s impeller) applied over a **3M Scotchlite reflective base**, paired with **Oracle Lighting RGB+ underglow** (sync’d to the Motec ECU for RPM-reactive color shifts)"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "XPENG",
+  "model": "X9 LUXURY EV",
+  "prestazioni": [
+    "Replace the stock **XP-TriMotor (X9-800V) front/rear dual-motor setup** with **Mercedes-AMG EQE 53 4MATIC+ (M295) stator/rotor assemblies**, retaining the 800V SiC inverter but upgrading to **AP Racing CP9660 6-piston monoblock calipers** with **Endless CC-RG 380mm 2-piece rotors** for sustained 1.2G braking performance",
+    "Install a **custom 3D-printed titanium torque tube** (designed via **Siemens NX for XP9 chassis**) to reduce drivetrain NVH by 42% while allowing **Unitek 800V 400A liquid-cooled DC-DC converter** integration for 0-60 mph in 2.9s (vs. stock 3.9s)",
+    "Integrate **Bosch MS2.8.1 ECU with XPENG X9-specific firmware** (reverse-engineered via **Vector CANoe**) to enable **Motec C125 dash-logged launch control**, **ZF 8-speed hybrid transmission (8HP75H) torque vectoring**, and **HJS 1000V SiC MOSFET-based regen tuning** for 28% faster deceleration"
+  ],
+  "estetica": [
+    "Apply **Rocket Bunny V3 XP9-widebody kit** (carbon fiber with **Toray T1100G prepreg**) featuring **3D-scanned XP9 roofline** for OEM+ fitment, paired with **Vorsteiner V-FF 107 22-inch forged wheels** (ET35, 285/30 front, 305/25 rear) in **BBS LM finish**",
+    "Install **Lumileds Luxeon HL2X LED matrix headlights** with **Osram 4500K laser high-beams** and **Hella 90mm dynamic cornering fogs**, all controlled via **XPENG X-Smart 2.0 ADAS** for adaptive beam shaping (compliant with **UN R123** regulations)",
+    "Replace the stock **XP9 aluminum subframe** with a **3D-printed Scalmalloy rear subframe** (by **APWORKS**) to mount **KW Suspension Clubsport 3-way coilovers** (with **XP9-specific spring rates: 18kg/mm front, 22kg/mm rear**) and **Whiteline adjustable rear sway bar (24mm, 3-position)**"
+  ]
+}

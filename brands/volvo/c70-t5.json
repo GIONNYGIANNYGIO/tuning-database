@@ -1,0 +1,14 @@
+{
+  "brand": "VOLVO",
+  "model": "C70 T5",
+  "prestazioni": [
+    "Engine: B5254T5 (2.5L I5 turbo, 220hp stock) - Full forged internals build with Manley 87mm forged crank, Eagle H-beam connecting rods, and JE 83mm forged pistons (9.5:1 compression) for 350whp reliability on E85.",
+    "Turbocharger: Garrett GTX3076R Gen II (0.63 A/R, 62mm compressor, 56mm turbine) with custom 3.5\" stainless downpipe and Tial 44mm external wastegate (set to 28psi peak, tapering to 22psi for longevity).",
+    "Fuel System: Injector Dynamics ID1050x (1050cc) injectors, Walbro 450LPH in-tank pump, and Radium Engineering dual catch can setup with -8AN lines to prevent oil dilution in the B5254T5’s direct-port injection system."
+  ],
+  "estetica": [
+    "Body Kit: Heico Sportiv C70 ‘R-Design’ widebody conversion with carbon fiber front splitter, rear diffuser, and custom 20mm extended fender flares (hand-laid by Volvonians in Sweden).",
+    "Wheels: BBS LM-R 9x19 ET35 (front) and 10x19 ET40 (rear) with 245/35/19 and 275/30/19 Michelin Pilot Sport Cup 2 tires, paired with KW Variant 3 coilovers (8kg/mm front, 10kg/mm rear springs) and polyurethane subframe bushings.",
+    "Interior: Recaro Pole Position seats (Volvo-specific mounting brackets) with Schroth 6-point harnesses, MOMO Mod.78 steering wheel (350mm, suede), and custom aluminum shift knob (weighted for the M66C 6-speed manual swap)."
+  ]
+}

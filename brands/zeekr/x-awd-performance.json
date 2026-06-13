@@ -1,0 +1,14 @@
+{
+  "brand": "ZEEKR",
+  "model": "X AWD PERFORMANCE",
+  "prestazioni": [
+    "Upgrade to a **Bosch MG1CS020** hybrid-specific ECU remap (engine code: **SEA 8154C**) with custom torque vectoring calibration for the dual-motor AWD system, targeting 450 kW (603 hp) and 800 Nm of torque while retaining OEM battery thermal management safeguards via **Weichai Power** cooling plates.",
+    "Install **Garrett GT2260VK** turbochargers (modified for the SEA 8154C’s 2.0L PHEV architecture) with **Tial MV-R 44mm** wastegates and **PTP Turbo Blankets** to reduce intake temps by 18°C, paired with a **Mishimoto X-Line** intercooler (ZEEKR X-specific core dimensions: 600x300x76mm) and **AEM 380LPH** in-tank fuel pump with **ID1000xDS** injectors for E85 compatibility.",
+    "Replace the OEM **ZF 8HP75X** transmission with a **Porsche PDK 918 Spyder-derived** unit (modified by **HP Tuners** for SEA 8154C CAN bus integration), featuring a **South Bend Clutch Stage 3+** dual-disc setup and **Quaife ATB LSD** for the rear axle, paired with **Brembo GT 6-piston 400mm** front rotors and **Ferodo DS2500** pads for 0-100 km/h in 2.9s."
+  ],
+  "estetica": [
+    "**Rocket Bunny V3** widebody kit (ZEEKR X-specific CFRP fenders with OEM-matched **PPG 9700** paint code: **Zeekr Blue Pearl**), including a **custom 3D-printed front splitter** with **AEM CD-7** integrated telemetry display and **Seibon Carbon** hood (weight reduction: 12kg).",
+    "**Ohlins Road & Track DFV** coilovers with **ZEEKR X-specific** spring rates (8K/10K) and **Cusco Type RS** strut braces, paired with **Work Emotion CR Kiwami** 19x9.5 +38 wheels (ET38) wrapped in **Michelin Pilot Sport Cup 2 R** (255/35 R19) for -20mm ride height and **AP Racing** brake cooling ducts.",
+    "**Akrapović Evolution Line** titanium exhaust system (ZEEKR X AWD-specific 3.5-inch dual outlets) with **REMUS** resonators and **Valenti CNC** billet tailpipes, complemented by a **Vorsteiner V-FF 107** rear diffuser and **DRLs replaced with Osram LaserLine** units (6000K, 1200lm)."
+  ]
+}
